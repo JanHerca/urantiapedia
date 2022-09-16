@@ -87,7 +87,7 @@ The following selections from *The Urantia Book* provide the relevant statements
 > During the periods of farthest glacial advance the westernmost of the Andon tribes came very near being driven into the sea. They lived for years on a narrow southern strip of the present island of England. . . . [^8]
 
 <figure class="image urantiapedia">
-<img src="/image/Layard_000.jpg">
+<img src="/image/article/Halbert_Katzen/Early_migration_to_Britain/Layard_000.jpg">
 <figcaption><em>Image 1. Miss Nina Layard</em></figcaption>
 </figure>
 
@@ -128,7 +128,7 @@ Continuing with selected passages from *The Urantia Book*’s account of early h
 > These times of the fourth and fifth glaciers witnessed the further spread of the crude culture of the Neanderthal races. But there was so little progress that it truly appeared as though the attempt to produce a new and modified type of intelligent life on Urantia was about to fail. For almost a quarter of a million years these primitive peoples drifted on, hunting and fighting, by spells improving in certain directions, but, on the whole, steadily retrogressing as compared with their superior Andonic ancestors.[^12]
 
 <figure class="image urantiapedia">
-<img src="/image/FoxhallIcon_000.jpeg">
+<img src="/image/article/Halbert_Katzen/Early_migration_to_Britain/FoxhallIcon_000.jpeg">
 <figcaption><em>Image 2. Location of the deposits of the AHOB project</em></figcaption>
 </figure>
 

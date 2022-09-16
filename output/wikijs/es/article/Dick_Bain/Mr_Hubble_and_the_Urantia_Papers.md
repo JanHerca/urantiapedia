@@ -31,7 +31,7 @@ Desafortunadamente, esta cifra es errónea. Hoy se sabe que la distancia a Andr�
 Según Edwin Hubble observaba las galaxias a distancias cada vez mayores, notó que cuanto más lejos estaba la galaxia de nosotros, más rápido parecía que se alejaba de nosotros. Pudo deducir esto del famoso «corrimiento del rojo» de la luz que nos llega de una galaxia lejana. Cuando una estrella o galaxia se aleja de nosotros, sus varios colores de la luz visible están desplazados hacia el rojo del espectro. Este corrimiento del rojo se menciona en _El Libro de Urantia_: «Las líneas espectrales se desplazan desde lo normal hacia el violeta para una estrella que se acerca; estas líneas se desplazan igualmente hacia el rojo para una estrella que se aleja». [LU 12:4.14](/es/The_Urantia_Book/12#p4_14)
 
 <figure id="Hubble_figure_1" class="image urantiapedia">
-<img src="/image/edwinhubble.jpg">
+<img src="/image/article/Dick_Bain/Mr_Hubble_and_the_Urantia_Papers/edwinhubble.jpg">
 <figcaption><em>Edwin Hubble, uno de los mayores astrónomos de su tiempo</em></figcaption>
 </figure>
 

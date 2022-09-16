@@ -17,7 +17,7 @@ In [LU 134:8](/en/The_Urantia_Book/134#p8) (“The transition years”), we are 
 It didn't take me long to find Beit Jenn on a map. In a general map of Lebanon at a scale of 1:200,000 from the French National Geographic Institute,[^3] the village appeared very clearly, which still exists today and is called Beït Jinn. Also, near the village there is a summit of 2,224 meters (but it is not the highest peak, which rises up to 2,814 meters). It was easy to assume that the ascension of Jesus referred to in _The Urantia Book_ is this “small” peak. Looking at other data, I found out that in total, from Beit Jenn, which is located at 1100 meters, it was about 900 meters of ascent to the place where they built the food deposit.
 
 <figure id="Hermon_figure_1" class="image urantiapedia">
-<img src="/image/libano-eng-m06.jpg">
+<img src="/image/article/Jan_Herca/Mount_Hermon_But_where_was_Jesus/libano-eng-m06.jpg">
 <figcaption><em>The red box marks Beit Jenn, the red line the possible route of Jesus and Tiglat, and the red circle the possible site of the deposit. General map of Lebanon, IGN, France.</em></figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ A curious fact that emerges from all this is that all the extraordinary events t
 The exact point was thus made a little clearer. But what was this mountain like back then?
 
 <figure id="Hermon_figure_2" class= "image">
-<img src="/image/800px-Hermonsnow.jpg">
+<img src="/image/article/Jan_Herca/Mount_Hermon_But_where_was_Jesus/800px-Hermonsnow.jpg">
 <figcaption><em> Mount Hermon seen from Mount Bental</em>, <a href="http://en.wikipedia.org/wiki/File:Hermonsnow.jpg" target="_blank">Wikipedia</a></figcaption>
 </figure>
 
@@ -37,14 +37,14 @@ The Hermon is actually an extensive mountain range known as Jabal Ech Cheikh wit
 To get an idea of ​​what the motley place was like in the time of Jesus, I resorted to the invaluable narration of _Caballo de Troya 6_, the best-seller by JJ Benítez,[^6] which in its final pages reproduces this ascent in amazing detail. Such luxury of details was reused by me when writing my fictionalized version[^7] of _Urantia Book_'s fourth part,in which I have been working for years. This way I reuse certain elements, as the _asherat_ (a Phoenician commemorative construction historically abhorred by the Jews) and the clearing with the cedar in the center, which appear in the work of Benítez.
 
 <figure id="Hermon_figure_3" class= "image">
-<img src="/image/hermon_ascension.PNG">
+<img src="/image/article/Jan_Herca/Mount_Hermon_But_where_was_Jesus/hermon_ascension.PNG">
 <figcaption><em> Jesus' ascent to Mount Hermon </em></figcaption>
 </figure>
 
 I thought it was a good idea for my novel to make Jesus have a gesture of sincere worship before the _asherat_ monument (in _Caballo de Troya 6_ the ascension of Jesus is not narrated, but that of Tiglat and his two companions and it is Tiglat who makes the worship gesture). This gesture of Jesus gives an indication of his personal character and contrasts with the typical Jewish attitude towards these foreign monuments (see  [2 Ch 34:1-7](/en/Bible/2_Chronicles/34#v1); [Mic 5:14-15](/en/Bible/Micah/5#v14)). Kings and prophets of old times had fought to destroy these constructions, which were hateful to them for the simple fact that they commemorated a god other than Yahweh, the Jewish god. However, for the Jesus of my novel, the place where God is worshiped is the least important thing, the important thing is that all the constructions have been carried out by the hands of believers, regardless of their conception of God.
 
 <figure id="Hermon_figure_4" class= "image">
-<img src="/image/hermon_panoramica.PNG">
+<img src="/image/article/Jan_Herca/Mount_Hermon_But_where_was_Jesus/hermon_panoramica.PNG">
 <figcaption><em>Panoramic view from the top of Hermon obtained with Google Earth</em></figcaption>
 </figure>
 

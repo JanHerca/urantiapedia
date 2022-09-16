@@ -907,7 +907,7 @@ Source: https://buscandoajesus.wordpress.com/descargas/
 | :ballot_box_with_check: | [Salvin. But what name is this?](/en/article/Jan_Herca/Salvin_But_what_name_is_this)           | Jan Herca | Jesus, Jesus times        |
 | :white_square_button:   | Day of Atonemen                                                                                | Jan Herca | Jesus, Jesus times        |
 | :white_square_button:   | Yeshua ben Yosef                                                                               | Jan Herca | Jesus, Jesus times        |
-| :white_square_button:   | What was Capernaum like?                                                                       | Jan Herca | Jesus, Jesus times, place |
+| :white_square_button:   | Capernaum                                                                                      | Jan Herca | Jesus, Jesus times, place |
 | :white_square_button:   | The “house of Simon Peter”, first domus-ecclesia?                                              | Jan Herca | Jesus, Jesus times, place |
 | :white_square_button:   | The lost city of Bethsaida                                                                     | Jan Herca | Jesus, Jesus times, place |
 | :white_square_button:   | Pacifism in the time of Jesus                                                                  | Jan Herca | Jesus, Jesus times        |
@@ -938,7 +938,7 @@ Source: https://buscandoajesus.wordpress.com/descargas/
 | :white_square_button:   | Recreations of the Jerusalem of Jesus                                                          | Jan Herca | Jesus, Jesus times, place |
 | :white_square_button:   | Herod Antipas                                                                                  | Jan Herca | Jesus, Jesus times        |
 | :white_square_button:   | Pontius Pilate                                                                                 | Jan Herca | Jesus, Jesus times        |
-| :white_square_button:   | The fishing sector in the Sea of ​​Galilee                                                     | Jan Herca | Jesus, Jesus times        |
+| :white_square_button:   | The fishing sector in the Sea of ​​Galilee                                                       | Jan Herca | Jesus, Jesus times        |
 | :white_square_button:   | Monetary system and cost of living in the time of Jesus                                        | Jan Herca | Jesus, Jesus times        |
 | :white_square_button:   | The Great Jerusalem Sanhedrin and other Jewish courts                                          | Jan Herca | Jesus, Jesus times        |
 | :white_square_button:   | The composition of the gospels according to The Urantia Book                                   | Jan Herca | Jesus, Jesus times        |

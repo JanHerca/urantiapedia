@@ -21,7 +21,7 @@ Cuando se publicó en 1955, esta declaración contradijo a la gran mayoría de l
 Este tema aún está lejos de ser un tema resuelto y son de esperar actualizaciones periódicas a medida que la investigación y el análisis continúen desarrollándose. No obstante, se ha realizado un movimiento significativo hacia la posición de *El Libro de Urantia* en los últimos veinte años. Este tema sirve como un ejemplo de cómo la ciencia del hombre prehistórico se acerca cada vez más al relato de la historia humana de *El Libro de Urantia*. Además, este tema es un buen ejemplo de lo difícil que es superar los viejos paradigmas. Como se mostrará más adelante en el informe, las investigaciones que hacen nuevos descubrimientos enfrentan una batalla cuesta arriba en la lucha por la aceptación de sus hallazgos.
 
 <figure class="image urantiapedia">
-<img src="/image/early_migration_americas.jpg">
+<img src="/image/article/Halbert_Katzen/Early_migration_to_the_Americas/early_migration_americas.jpg">
 <figcaption><em><b>Figura 1.</b> ¿Cuándo llegaron los primeros nativos a Norteamérica?</em></figcaption>
 </figure>
 

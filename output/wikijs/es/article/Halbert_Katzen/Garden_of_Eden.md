@@ -31,12 +31,12 @@ Antes de revisar exactamente cómo los avances científicos están corroborando 
 > El hombre había sido capaz de mapear con bastante precisión las áreas terrestres del globo antes de poder determinar la configuración del fondo de los enormes océanos que ocupaban 361.132.402 kilómetros cuadrados de superficie del mundo. No fue sino hasta 1957-1958, el Año Geofísico Internacional, que los científicos de muchas naciones trabajaron juntos como un gran equipo para compilar un retrato completo de los pisos de los océanos. Los mapas mostrados aquí y en las páginas siguientes incorporan sus hallazgos. [^7]
 
 <figure id="Garden_of_Eden_fig_1" class="image urantiapedia">
-<img src="/image/jardin01.jpg">
+<img src="/image/article/Halbert_Katzen/Garden_of_Eden/jardin01.jpg">
 <figcaption><em><b>Figura 1.</b> Atlas Ilustrado del Mundo de *Life*, de 1961</em></figcaption>
 </figure>
 
 <figure id="Garden_of_Eden_fig_2" class="image urantiapedia">
-<img src="/image/jardin02.jpg">
+<img src="/image/article/Halbert_Katzen/Garden_of_Eden/jardin02.jpg">
 <figcaption><em><b>Figura 2.</b> Atlas Ilustrado del Mundo de *Life*, de 1961</em></figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ La [\[Figura 1\]](#Garden_of_Eden_fig_1) es una fotografía tomada de una págin
 El comentario y las imágenes del *Atlas Ilustrado del Mundo* de la revista *Life*, de 1961, indican que el mapeo del fondo de los océanos no se había desarrollado lo suficiente cuando se publicó *El Libro de Urantia* para corroborar las declaraciones que hace sobre el Jardín del Edén. Del mismo modo, un mapa del *National Geographic* de 1962 del Mediterráneo oriental no está particularmente detallado, ya que proporciona solo unas pocas líneas topográficas y lecturas esporádicas de profundidad (ver [\[Figura 3\]](#Garden_of_Eden_fig_3)).
 
 <figure id="Garden_of_Eden_fig_3" class="image urantiapedia">
-<img src="/image/jardin03.jpg">
+<img src="/image/article/Halbert_Katzen/Garden_of_Eden/jardin03.jpg">
 <figcaption><em><b>Figura 3.</b> Mapa del *National Geographic*, de 1962</em></figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ Como revela la [\[Figura 4\]](#Garden_of_Eden_fig_4), en 1982 se hicieron dispon
 Conseguir imágenes con suficiente detalle para considerar los méritos de las afirmaciones de *El Libro de Urantia* supuso utilizar tecnología de sonar desarrollada más de treinta años después de que se publicara el libro. Para apreciar la importancia de estos mapas más detallados, primero debe familiarizarse con las declaraciones específicas hechas en *El Libro de Urantia* sobre el tamaño, la forma, la ubicación y la topografía del Jardín del Edén, así como su descripción de cómo se hundió esta península al fondo del mar Mediterráneo.
 
 <figure id="Garden_of_Eden_fig_4" class="image urantiapedia">
-<img src="/image/jardin04.jpg">
+<img src="/image/article/Halbert_Katzen/Garden_of_Eden/jardin04.jpg">
 <figcaption><em><b>Figura 4.</b> Mapa Nacional Geográfico, de 1982</em></figcaption>
 </figure>
 
@@ -75,14 +75,14 @@ Conseguir imágenes con suficiente detalle para considerar los méritos de las a
 La [\[Figura 5\]](#Garden_of_Eden_fig_5) y [\[Figura 6\]](#Garden_of_Eden_fig_6) se proporcionan por cortesía de Robert Sarmast[^10]. Se crearon a partir de las lecturas de sonar rusas realizadas en 1989. El color rojo indica dónde comienza la costa. Los tonos marrones representan la tierra. Las áreas en el fondo del océano representadas en turquesa y azul indican una profundidad de 1.200 a 1.500 metros. Las flechas negras en la [\[Figura 5\]](#Garden_of_Eden_fig_5) y [\[Figura 6\]](#Garden_of_Eden_fig_6) muestran una distancia de 43 kilómetros. Estas flechas se incluyen porque, según *El Libro de Urantia*, el «istmo que la unía al continente sólo tenía cuarenta y tres kilómetros de ancho en el punto más estrecho». Estas flechas también ayudan a proporcionar una perspectiva sobre las diferentes escalas que tuvieron que usarse para la dimensión vertical. Al observar la repentina caída vertical de la costa sureste de Chipre, podemos ver que esta distancia vertical en la imagen, que representa aproximadamente 1.600 metros de profundidad, es como dos tercios de la longitud de la flecha negra que representa una distancia de 43 kilómetros. Esta diferencia de escala hace que las alturas se vean más pronunciadas.
 
 <figure id="Garden_of_Eden_fig_5" class="image urantiapedia">
-<img src="/image/jardin05.jpg">
+<img src="/image/article/Halbert_Katzen/Garden_of_Eden/jardin05.jpg">
 <figcaption><em><b>Figura 5.</b> El Jardín del Edén está entre Chipre y Siria</em></figcaption>
 </figure>
 
 En la [\[Figura 5\]](#Garden_of_Eden_fig_5) y [\[Figura 6\]](#Garden_of_Eden_fig_6), la topografía entre Chipre y Siria se ajusta razonablemente bien a la descripción en *El Libro de Urantia* de cómo podría verse una «península larga y estrecha» con «montañas que la rodeaban», y «que sobresalía hacia el oeste desde las costas orientales del Mar Mediterráneo», si se hubiera hundido aproximadamente 1.600 metros debajo del mar Mediterráneo hace unos 33.000 años. La representación en la [\[Figura 7\]](#Garden_of_Eden_fig_7) de las placas tectónicas que se unen en esta región agregan apoyo adicional a la teoría de que esta formación entre Chipre y Siria se relaciona con la descripción del Jardín del Edén de *El Libro de Urantia*. Observe cómo la línea al este de Chipre que marca la convergencia de las placas de Anatolia y Sinaí se encuentra precisamente en el área donde se produce la topografía de la «península larga y estrecha».
 
 <figure id="Garden_of_Eden_fig_6" class="image urantiapedia">
-<img src="/image/jardin06.jpg">
+<img src="/image/article/Halbert_Katzen/Garden_of_Eden/jardin06.jpg">
 <figcaption><em><b>Figura 6.</b> Una imagen cercana del Jardín del Edén</em></figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ Geofísicamente hablando, la cuenca del Mediterráneo oriental es un área activ
 Este área marca la convergencia de tres placas tectónicas. Según el artículo del GJI, «[...] McClusky et al. (2000) presentan en sus mapas dos arcos, uno al norte y otro al sur de Chipre, lo que sugiere que Chipre se comporta como un bloque independiente [...]»[^11]. Esta declaración sobre el comportamiento independiente de Chipre, junto con el hecho de que Chipre y el área del Jardín del Edén estén separados por la línea que delimita las placas de Anatolia y Sinaí, respalda la teoría de que la topografía entre Chipre y Siria podría haberse hundido en el Mediterráneo independientemente de la actividad geofísica histórica de Chipre.
 
 <figure id="Garden_of_Eden_fig_7" class="image urantiapedia">
-<img src="/image/jardin07.jpg">
+<img src="/image/article/Halbert_Katzen/Garden_of_Eden/jardin07.jpg">
 <figcaption><em><b>Figura 7.</b> Tectónica de placas. Fuente: artículo GJI</em></figcaption>
 </figure>
 
@@ -109,14 +109,14 @@ La descripción del Libro de Urantia de lo que sucedió con el Jardín del Edén
 La [\[Figura 8\]](#Garden_of_Eden_fig_8) (también proporcionada por cortesía de Robert Sarmast) es útil para considerar los méritos de lo que dice *El Libro de Urantia* con respecto al tamaño de la península. «Los planes arquitectónicos del Edén preveían viviendas y tierras abundantes para un millón de seres humanos». Curiosamente, la isla de Chipre ofrece una masa de tierra convenientemente ubicada para apreciar cuánta tierra se necesita para un millón de personas. Según la Enciclopedia Británica, la población de toda la isla de Chipre en 2005 era de 968.000 personas y la Wikipedia da una cifra igual[^13].
 
 <figure id="Garden_of_Eden_fig_8" class="image urantiapedia">
-<img src="/image/jardin08.jpg">
+<img src="/image/article/Halbert_Katzen/Garden_of_Eden/jardin08.jpg">
 <figcaption><em><b>Figura 8.</b> El Jardín del Edén comparado con Chipre</em></figcaption>
 </figure>
 
 Directamente al sur de la esquina sureste de Chipre, el agua se vuelve particularmente profunda. Usando la [\[Figura 5\]](#Garden_of_Eden_fig_5) como referencia y comparando la depresión con la línea negra de doble flecha de cuarenta y tres kilómetros de largo, la depresión parece ser de aproximadamente cuarenta y ocho kilómetros de este a oeste y treinta y dos kilómetros de norte a sur. Suponiendo que el lado oriental de esta depresión marca el borde occidental de lo que habría sido el Jardín del Edén, la longitud y el ancho del Edén corresponden aproximadamente al tamaño de Chipre. Chipre es un poco más grande, pero también tiene una serie de montañas que cubren la mayor parte del área interior. El monte Olimpo de Chipre (no confundirlo con su homónimo de Grecia) se eleva hasta 1.952 metros[^14]. En contraste, la topografía entre Chipre y Siria que coincide con la descripción del Edén de *El Libro de Urantia* muestra cadenas más estrechas de «montañas que la rodean» (como la de la costa norte de Chipre), dejando la llanura central del Edén más fácilmente habitable que región central de Chipre.
 
 <figure id="Garden_of_Eden_fig_9" class="image urantiapedia">
-<img src="/image/jardin09.jpg">
+<img src="/image/article/Halbert_Katzen/Garden_of_Eden/jardin09.jpg">
 <figcaption><em><b>Figura 9.</b> El monte Olimpo</em></figcaption>
 </figure>
 
@@ -125,7 +125,7 @@ La última correlación que se hará con la descripción de *El Libro de Urantia
 En la [\[Figura 10\]](#Garden_of_Eden_fig_10), la línea en la orilla representa la distancia de cuarenta y tres kilómetros marcada por la línea negra de flechas dobles en la [\[Figura 5\]](#Garden_of_Eden_fig_5) y [\[Figura 6\]](#Garden_of_Eden_fig_6). La línea que se superpone a la [\[Figura 11\]](#Garden_of_Eden_fig_11) marca la depresión en las montañas que también se puede ver en la [\[Figura 10\]](#Garden_of_Eden_fig_10) directamente arriba donde aparece el nombre de la ciudad costera Al Lathqiyah. Compruebe también a partir de la [\[Figura 7\]](#Garden_of_Eden_fig_7) que esta sumersión de las montañas está justo donde se encuentran las placas de Anatolia y Sinaí.
 
 <figure id="Garden_of_Eden_fig_10" class="image urantiapedia">
-<img src="/image/jardin10.jpg">
+<img src="/image/article/Halbert_Katzen/Garden_of_Eden/jardin10.jpg">
 <figcaption><em><b>Figura 10.</b> El ángulo de la península corre paralelo al ángulo de ruptura de las montañas</em></figcaption>
 </figure>
 
@@ -134,7 +134,7 @@ El lado oriental del Mediterráneo fue y sigue siendo un geofísico activo. Es f
 Por ahora, al menos los avances en la tecnología de sonar nos permiten ver una topografía entre Chipre y Siria que está en armonía con todas las declaraciones del *Libro de Urantia* sobre el tamaño, la forma y la ubicación del Jardín del Edén. Incluso la descripción de cómo fluyó el agua de la península se puede correlacionar con la topografía de esta región. Además, la teoría de la placa tectónica, que no se desarrolló hasta más de una década después de su publicación, también respalda la descripción que hace *El Libro de Urantia* del destino del Edén.
 
 <figure id="Garden_of_Eden_fig_11" class="image urantiapedia">
-<img src="/image/jardin11.jpg">
+<img src="/image/article/Halbert_Katzen/Garden_of_Eden/jardin11.jpg">
 <figcaption><em><b>Figura 11.</b> La ruptura de la montaña donde la península sumergida se encuentra con la costa</em></figcaption>
 </figure>
 

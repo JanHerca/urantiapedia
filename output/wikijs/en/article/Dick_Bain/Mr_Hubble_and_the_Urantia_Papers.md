@@ -31,7 +31,7 @@ Unfortunately, this figure is in error. Today, it is known that the distance is 
 As Edwin Hubble observed galaxies at greater and greater distance, he noted that the farther a galaxy is from us, the faster it seems to be receding from us. He could tell this from the so-called “red shift” of the light reaching us from the distant galaxy. When a star or galaxy moves away from us, its various colors of visible light are shifted toward the red end of the spectrum. This red shift is mentioned on _The Urantia Book_: “Spectral lines are displaced from the normal towards the violet by an approaching star; likewise these lines are displaced towards the red by a receding star.” [UB 12:4.14](/en/The_Urantia_Book/12#p4_14)
 
 <figure id="Hubble_figure_1" class="image urantiapedia">
-<img src="/image/edwinhubble.jpg">
+<img src="/image/article/Dick_Bain/Mr_Hubble_and_the_Urantia_Papers/edwinhubble.jpg">
 <figcaption<em>Edwin Hubble, one of the greatest astronomers of his time</em>></figcaption>
 </figure>
 

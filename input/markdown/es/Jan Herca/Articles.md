@@ -1325,7 +1325,7 @@ Pero al margen de todas las demás consideraciones, yo extraigo una duda de todo
 
 [^2]: http://www.planetabenitez.com/misenigmas/lacueva.htm, artículo de J. J. Benítez sobre la famosa cueva.
 
-# Nazaret
+# ¿Cómo fue Nazaret en tiempos de Jesús?
 
 Nazaret es una parada obligatoria en el trazado de cualquier ruta relacionada con la vida de Jesús. Aparece en multitud de ocasiones en los evangelios (aunque nunca en el Antiguo Testamento), mencionada como la ciudad en la que vivió Jesús de joven.
 

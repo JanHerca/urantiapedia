@@ -57,7 +57,7 @@ Therefore, and given the current impossibility of scientifically opting for a sp
 It should be noted here that the Jewish days began with a lag of almost 18 hours with respect to our current days, since the Jews began to count the beginning of the day at sunset. The graph shows this gap and the moment of the crucifixion is marked.
 
 <figure id="Calendar_fig_1" class="image urantiapedia">
-<img src="/image/fechas.png">
+<img src="/image/article/Jan_Herca/The_Jewish_calendar_on_Jesus_times/fechas.png">
 </figure>
 
 Some consulted calendars do not offer exactly this date for Nisan 14, but as has been explained, since everything is conjecture, an attempt has been made to develop a “possible” calendar that would fit this April 7 as Nisan 14.

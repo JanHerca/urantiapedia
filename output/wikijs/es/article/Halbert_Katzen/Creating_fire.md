@@ -17,7 +17,7 @@ Autores: **Josh Carden** y **Halbert Katzen J.D.**
 Un descubrimiento de 2004 en el sitio arqueológico de Gesher Benot Ya'aqov en Israel proporciona una fuerte evidencia de que los seres humanos pudieron usar el pedernal para crear fuego hace unos 790.000 años. Antes de este descubrimiento, el sitio arqueológico de Terra Amata en Francia, aunque muy controvertido, proporcionó lo que ampliamente se consideraba la mejor evidencia de la capacidad temprana de los seres humanos para crear fuego, lo que sugiere que el fuego se estaba creando en algún momento entre hace 230.000 y 380.000 años. Pero la evidencia indiscutible de la capacidad de crear fuego a voluntad solo se remonta a unos 200.000 años. La evidencia encontrada en Gesher Benot Ya'aqov, con sus grupos de pedernal quemado a diferentes niveles, es considerablemente más definitiva que la encontrada en Terra Amata. Este descubrimiento de 2004 no sólo es consistente con la afirmación de *El Libro de Urantia* de que el pedernal se usó inicialmente para hacer fuego, sino que también se encontró en el área general donde se dice que vivieron los primeros seres humanos y, según cualquier análisis, mueve la fecha varios cientos de miles de años hacia lo que se ofrece en *El Libro de Urantia*.
 
 <figure class="image urantiapedia">
-<img src="/image/FireIcon.jpg" width="577" heigth="700">
+<img src="/image/article/Halbert_Katzen/Creating_fire/FireIcon.jpg" width="577" heigth="700">
 <figcaption><em>El fuego, la más preciada creación del hombre</em></figcaption>
 </figure>
 
@@ -102,7 +102,7 @@ El sitio de Terra Amata en Francia, excavado en 1966, también controvertido den
 > Sin embargo, al igual que con otros sitios de posibles refugios humanos, como Grotte du Lazaret, la evidencia es más conjetural que convincente. Es igualmente probable que las piedras se depositaran naturalmente a través del flujo de la corriente, la fluencia del suelo o algún otro proceso natural. Además, Paola Villa ha demostrado que los artefactos de piedra de los diferentes pisos de vivienda propuestos se pueden instalar juntos, lo que demuestra que los artefactos han subido y bajado a través de la columna de sedimentos. Por lo tanto, los supuestos ensamblajes de piso vivo son muy probablemente mezclas de artefactos de diferentes períodos de tiempo que han llegado a descansar en niveles particulares. Existe, por lo tanto, una evidencia convincente de que el sitio fue sometido a procesos relativamente invasivos posteriores a la deposición, que también pueden ser responsables de las «disposiciones» de piedra. En un edificio en Terra Amata se dejó un agujero en el centro para que escapara el humo. 20-40 personas podrían congregarse en un refugio como éste. [^9]
 
 <figure class="image urantiapedia">
-<img src="/image/TerraAmata.jpeg" width="700" heigth="301">
+<img src="/image/article/Halbert_Katzen/Creating_fire/TerraAmata.jpeg" width="700" heigth="301">
 <figcaption><em>Esquema de Terra Amata</em></figcaption>
 </figure>
 
@@ -125,7 +125,7 @@ Los descubrimientos hechos en Gesher Benot Ya'aqov proporcionan evidencias de cr
 > «Los nuevos datos de Gesher Benot Ya'akov son excepcionales, ya que conservaron pruebas del uso de fuego a lo largo de una secuencia ocupacional muy larga. Este uso continuo y habitual del fuego sugiere que estos humanos primitivos no fueron obligados a recoger ese fuego de las conflagraciones naturales, sino que fueron capaces de hacer fuego a voluntad», dijo Alperson-Afil. [^12]
 
 <figure class="image urantiapedia">
-<img src="/image/IsraelSite1.jpeg" width="475" heigth="700">
+<img src="/image/article/Halbert_Katzen/Creating_fire/IsraelSite1.jpeg" width="475" heigth="700">
 <figcaption><em>Yacimiento de Gesher Benot Ya'akov</em></figcaption>
 </figure>
 

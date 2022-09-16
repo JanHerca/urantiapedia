@@ -857,7 +857,7 @@ Fuente: https://buscandoajesus.wordpress.com/descargas/
 | :ballot_box_with_check: | [Salvin. Pero, ¿qué nombre es éste?](/es/article/Jan_Herca/Salvin_But_what_name_is_this)              | Jan Herca | Jesus, Jesus times        |
 | :white_square_button:   | La fiesta del Perdón                                                                                  | Jan Herca | Jesus, Jesus times        |
 | :white_square_button:   | Yeshua ben Yosef                                                                                      | Jan Herca | Jesus, Jesus times        |
-| :white_square_button:   | ¿Cómo era Cafarnaúm?                                                                                  | Jan Herca | Jesus, Jesus times, place |
+| :white_square_button:   | Cafarnaúm                                                                                             | Jan Herca | Jesus, Jesus times, place |
 | :white_square_button:   | La «casa de Simón Pedro», ¿primera domus-ecclesia?                                                    | Jan Herca | Jesus, Jesus times, place |
 | :white_square_button:   | La ciudad perdida de Betsaida                                                                         | Jan Herca | Jesus, Jesus times, place |
 | :white_square_button:   | El pacifismo en la época de Jesús                                                                     | Jan Herca | Jesus, Jesus times        |

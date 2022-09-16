@@ -87,7 +87,7 @@ Las siguientes selecciones de *El Libro de Urantia* proporcionan las declaracion
 > Durante los períodos de máximo avance glaciar, las tribus andonitas más occidentales estuvieron a punto de ser arrojadas al mar. Vivieron durante años en una estrecha franja de tierra al sur de la actual isla de Inglaterra. [...] [^8]
 
 <figure class="image urantiapedia">
-<img src="/image/Layard_000.jpg">
+<img src="/image/article/Halbert_Katzen/Early_migration_to_Britain/Layard_000.jpg">
 <figcaption><em><b>Figura 1.</b> Miss Nina Layard</em></figcaption>
 </figure>
 
@@ -128,7 +128,7 @@ Continuando con pasajes seleccionados del relato de *El Libro de Urantia* sobre 
 > Esta época de los glaciares cuarto y quinto contempló una nueva propagación de la cultura rudimentaria de las razas neandertales. Pero los progresos eran tan pequeños, que parecía en verdad que la tentativa de producir un tipo nuevo y modificado de vida inteligente en Urantia estaba a punto de fracasar. Durante cerca de un cuarto de millón de años, estos pueblos primitivos fueron a la deriva, cazando y luchando, mejorando esporádicamente en algunos aspectos, pero en general, degenerando continuamente en comparación con sus antepasados andónicos superiores.[^12]
 
 <figure class="image urantiapedia">
-<img src="/image/FoxhallIcon_000.jpeg">
+<img src="/image/article/Halbert_Katzen/Early_migration_to_Britain/FoxhallIcon_000.jpeg">
 <figcaption><em><b>Figura 2.</b> Localización de los yacimientos del proyecto AHOB</em></figcaption>
 </figure>
 

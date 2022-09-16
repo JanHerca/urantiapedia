@@ -37,7 +37,7 @@ El _Vacío Local_ (_Local Void_) ocupa una posición «superior» en relación c
 Recordando que las galaxias gigantes y sus galaxias satélite también son llamadas superuniversos[^3] por _El Libro de Urantia_, el mismo informa, desde 1935, de sus posiciones en una gran elipse. Según el libro, hay 7 galaxias principales que están habitadas, y la Vía Láctea es una de ellas. El punto central de esta elipse se le llama «Las Grandes Fuentes y Centros», Havona, la Isla Eterna o el Paraíso[^4].
 
 <figure id="Letter_figure_1" class="image urantiapedia">
-<img src="/image/Council_giants.png">
+<img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/Council_giants.png">
 <figcaption><em><b>Figura 1.</b> Concilio de gigantes desde arriba (izquierda) y abajo (derecha).</em></figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ Recordando que las galaxias gigantes y sus galaxias satélite también son llama
 > Vuestro universo local de Nebadon pertenece a Orvonton, el séptimo superuniverso, que gira entre los superuniversos uno y seis, y que ha doblado no hace mucho tiempo (tal como nosotros calculamos el tiempo) la _curva sudeste_ del nivel espacial superuniversal. Actualmente, el sistema solar al cual pertenece Urantia ha sobrepasado hace pocos miles de millones de años la curvatura meridional, de manera que ahora estáis _avanzando más allá de la curva sudeste_ y os desplazáis velozmente por la larga ruta relativamente recta hacia el norte. Durante épocas incalculables, Orvonton continuará este recorrido casi directo hacia el norte. [LU 15:1.4-5](/es/The_Urantia_Book/15#p1_4)
 
 <figure id="Letter_figure_2" class="image urantiapedia">
-<img src="/image/Superuniverses.png">
+<img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/Superuniverses.png">
 <figcaption><em><b>Figura 2.</b> Propuesta de identificación de los siete «superuniversos» de El Libro de Urantia</em></figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ Las zonas de reposo del espacio medio (básicamente los vacíos cósmicos[^9]) s
 > Un nivel de espacio funciona pues como una región de movimiento elíptica, rodeada por todas partes por una inmovilidad relativa. Estas relaciones entre el movimiento y la quietud forman un camino espacial curvo de menor resistencia al movimiento, un camino que es seguido universalmente por la fuerza cósmica y la energía emergente a medida que giran eternamente alrededor de la Isla del Paraíso. [LU 11:7.7-8](/es/The_Urantia_Book/11#p7_7)
 
 <figure id="Letter_figure_3" class="image urantiapedia">
-<img src="/image/Midspace_es.png">
+<img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/Midspace_es.png">
 <figcaption><em><b>Figura 3.</b> Vista lateral de las «zonas en reposo del espacio intermedio» rodeando el _Local Sheet_ y las «zonas de espacio relativamente tranquilas» rodeando un posible primer nivel del espacio exterior. </em><a href="http://www.ipnl.in2p3.fr/projet/cosmicflows/tfig7.jpg" target="_blank">Imagen original</a>.</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Las zonas de reposo del espacio medio (básicamente los vacíos cósmicos[^9]) s
 Los documentos publicados en 1955 afirman la existencia de unas enormes extensiones de espacio «superior» e «inferior» que son menos ricas en galaxias, llamadas por ellos como depósitos espaciales (espacio no penetrado). Este tema es similar al anterior, excepto por el hecho de que _El Libro de Urantia_ menciona específicamente la existencia de estos dos Supervacíos y afirma que uno ocupa una región inferior y el otro una posición superior en relación con lo que conocemos como Hoja Local (_Local Sheet_). Estos vacíos se han designado como _Supervacío Local Norte_[^13] (_Northern Local Supervoid_) y _Supervacío Local Sur_[^14] (_Southern Local Supervoid_).
 
 <figure id="Letter_figure_4" class="image urantiapedia">
-<img src="/image/nearby_groups.jpg">
+<img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/nearby_groups.jpg">
 <figcaption><em><b>Figura 4.</b> Distrución espacial del vecindario del Grupo Local proyectado en el plano supergaláctico (Y, Z). </em> <a href="http://ned.ipac.caltech.edu/level5/Dev2/frames.html" target="_blank">Imagen original</a>.</figcaption>
 </figure>
 
@@ -136,7 +136,7 @@ Los siguientes fragmentos son del artículo _La estructura del Universo trazada 
 > La zona de oscurecimiento cruza los supervacíos locales cerca de sus centros. Debemos preguntarnos pues con cuánta fiabilidad podemos detectar esos vacíos. Para mostrar el problema mostramos la zona de oscurecimiento para cúmulos ricos (± 15° en latitud galáctica) con líneas a trazos. Lo que importa aquí es la diferencia entre las estructuras de los cúmulos cercanos y distantes porque la absorción influencia la distribución de cúmulos localizados a diferentes distancias de una forma similar aproximada. De hecho, los cúmulos cercanos están menos influidos que los cúmulos lejanos, como queda demostrado por la presencia de varios cúmulos cercanos (los cúmulos de Perseo A347 y A426) dentro de la zona de oscurecimiento. Por tanto la ausencia debe ser debida a diferencias reales en la estructura espacial. (Einasto, Maret, et al. _The structure of the universe traced by rich clusters of galaxies_. _Monthly Notices of the Royal Astronomical Society_ 269.2 (1994): 301-322.)
 
 <figure id="Letter_figure_5" class="image urantiapedia">
-<img src="/image/super_voids.png">
+<img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/super_voids.png">
 <figcaption><em><b>Figura 5.</b> Supervacíos Norte y Sur. </em> <a href="https://ui.adsabs.harvard.edu/abs/1994MNRAS.269..301E" target="_blank">Imagen original:</a>.</figcaption>
 </figure>
 
@@ -146,7 +146,7 @@ Los siguientes fragmentos son del artículo _La estructura del Universo trazada 
 {.is-info}
 
 <figure id="Letter_figure_6" class="image urantiapedia">
-<img src="/image/unpervaded_space_es.png">
+<img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/unpervaded_space_es.png">
 <figcaption><em><b>Figura 6.</b> Sección vertical de 132.684 clusters de galaxias.</em></figcaption>
 </figure>
 
@@ -160,7 +160,7 @@ Todavía escéptico sobre los depósitos espaciales y sus extensiones, dibujé u
 {.is-info}
 
 <figure id="Letter_figure_7" class="image urantiapedia">
-<img src="/image/unpervaded_space2_es.png">
+<img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/unpervaded_space2_es.png">
 <figcaption><em><b>Figura 7.</b> Sección vertical de 510.000 cuásares.</em></figcaption>
 </figure>
 
@@ -208,12 +208,12 @@ El superuniverso de Orvonton está compuesto principalmente por la Vía Láctea,
 > Desde la posición astronómica de Urantia, cuando miráis _la gran Vía Láctea a través del corte transversal de los sistemas cercanos_, observáis que las esferas de Orvonton viajan en un inmenso _plano alargado cuya anchura es mucho más grande que el espesor, y cuya longitud es mucho mayor que la anchura_. [LU 15:3.1-2](/es/The_Urantia_Book/15#p3_1)
 
 <figure id="Letter_figure_8" class="image urantiapedia">
-<img src="/image/darkmatter_formation_es.png">
+<img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/darkmatter_formation_es.png">
 <figcaption><em><b>Figura 8.</b> Formación del halo de materia oscura alrededor del disco de una galaxia. </em> <a href="http://arxiv.org/pdf/1304.1595v2.pdf" target="_blank">Imagen original</a>.</figcaption>
 </figure>
 
 <figure id="Letter_figure_9" class="image urantiapedia">
-<img src="/image/Stellar-streams.jpg">
+<img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/Stellar-streams.jpg">
 <figcaption><em><b>Figura 9.</b> La galaxia SagDEG. Imagen de Jon Lomberg en colaboración con David Martinez-Delgado para el Stellar Tidal Stream Survey.</em></figcaption>
 </figure>
 
@@ -280,7 +280,7 @@ _El Libro de Urantia_ nos dice que todo el universo gira en sucesivas capas de g
 Los documentos establecen que el primer nivel es un cinturón de galaxias que orbita el mismo centro que la «Gran Elipse», pero en una dirección opuesta. En una vista superior del plano de la _Hoja Local_ (_Local Sheet_), la elipse de las galaxias se movería en sentido horario, mientras que el primer nivel de galaxias se movería en sentido antihorario. El segundo nivel exterior del espacio mantiene una rotación en sentido horario. Pero si fuera así, deberíamos observar una clara diferencia en la velocidad peculiar de estas galaxias porque por un lado presentan un mayor desplazamiento al rojo, mientras que en el otro lado observaríamos un desplazamiento hacia el rojo menor. Habría una diferencia de desplazamiento al rojo. Y eso es exactamente lo que encontramos[^27] (ver [Figura 10](#Letter_figure_10)).
 
 <figure id="Letter_figure_10" class="image urantiapedia">
-<img src="/image/Peculiar_velocities.png">
+<img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/Peculiar_velocities.png">
 <figcaption><em><b>Figura 10.</b> Velocidades radiales peculiares vistas en el plano SGX-SGZ. </em> <a href="http://arxiv.org/pdf/1306.0091v4.pdf" target="_blank">Imagen original</a>.</figcaption>
 </figure>
 
@@ -295,7 +295,7 @@ Este es un resultado muy cercano de la masa del _supercúmulo Laniakea_. Ya sea 
 Por lo tanto, mi conjetura es: ¿podría ser Laniakea y Perseo-Piscis componentes del segundo nivel del espacio exterior, citado por los documentos de 1955? Si la especulación es correcta, entonces el espacio del segundo nivel sería realmente enorme, con probablemente casi mil millones de años luz de diámetro. Así que prácticamente cada punto de las velocidades peculiares que vemos en la [Figura 10](#Letter_figure_10) representan el segundo nivel del espacio exterior, que daría la vuelta en el sentido de las agujas del reloj, presentando las galaxias del lado izquierdo velocidades radiales que escapan de nosotros, y las de la derecha con velocidades que se mueven en nuestra dirección.
 
 <figure id="Letter_figure_11" class="image urantiapedia">
-<img src="/image/Great_ellipse_es.png">
+<img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/Great_ellipse_es.png">
 <figcaption><em><b>Figura 11.</b> Las galaxias de la Gran Elipse y la hipotética rotación «hacia el Gran Atractor»</em></figcaption>
 </figure>
 
@@ -329,7 +329,7 @@ Si realmente las galaxias que componen la gran elipse están orbitando un cuerpo
 3. Para que el centro de gravedad también sea el centro geográfico de la elipse, el objeto estacionario supermasivo no debe tener una forma esférica regular.
 
 <figure id="Letter_figure_12" class="image urantiapedia">
-<img src="/image/Isla_Paraiso.png">
+<img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/Isla_Paraiso.png">
 <figcaption><em><b>Figura 12.</b> Las proporciones de la Isla Central de acuerdo con _El Libro de Urantia_. Figura superior: vista superior; figura inferior: vista de frente.</em></figcaption>
 </figure>
 
@@ -342,7 +342,7 @@ Cuando trazamos las siete galaxias de la elipse en un software 3D observamos una
 > [...] Toda forma conocida de realidad cósmica tiene la inclinación de los siglos, la tendencia del círculo, el recorrido de la gran elipse. [LU 11:8.2](/es/The_Urantia_Book/11#p8_2)
 
 <figure id="Letter_figure_13" class="image urantiapedia">
-<img src="/image/Oscillation_es.png">
+<img src="/image/article/A_Letter_to_Astronomers_and_Astrophysicists/Oscillation_es.png">
 <figcaption><em><b>Figura 13.</b> Vistas de la Gran Elipse y alrededores. Arriba: vista de lado. Abajo: Perspectiva desde el SE.</em></figcaption>
 </figure>
 

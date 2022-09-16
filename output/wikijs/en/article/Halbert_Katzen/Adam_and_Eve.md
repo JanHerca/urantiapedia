@@ -183,7 +183,7 @@ As we can see, all the reports presented agree on the statement that there was a
 ### Eurasians
 
 <figure id="Adam_Eve_fig_1" class="image urantiapedia">
-<img src="/image/MCPH1.png" width="500" heigth="240">
+<img src="/image/article/Halbert_Katzen/Adam_and_Eve/MCPH1.png" width="500" heigth="240">
 <figcaption><em>Frequencies of appearance of chromosomes</em></figcaption>
 </figure>
 
@@ -230,7 +230,7 @@ The minimal migration of Adam and Eve’s descendants to sub-Saharan Africa is a
 Though the presence of Microcephalin haplogroup D is considerably lower in sub-Saharan Africa than the rest of the world, it is somewhat more abundant in the region of the headwaters of the Nile River, which, of course, specifically supports of *The Urantia Book*’s statement that “only a few teachers and traders ever penetrated farther south in Africa than the headwaters of the Nile.” See [\[Figure2\]](#Adam_Eve_fig_2).
 
 <figure id="Adan_Eva_fig_2" class="image urantiapedia">
-<img src="/image/map.png" width="500" heigth="321">
+<img src="/image/article/Halbert_Katzen/Adam_and_Eve/map.png" width="500" heigth="321">
 <figcaption><em>Area irrigated by the Nile River and its tributaries</em></figcaption>
 </figure>
 
@@ -415,7 +415,7 @@ Interestingly, the authors of The Urantia Book specifically mention the interrel
 > The civilization of Turkestan was constantly being revived and refreshed by the newcomers from Mesopotamia, especially by the later Andite cavalrymen. . . [Their language] was a blend of the Andonic dialect of that region with the language of the Adamsonites and later Andites. Many modern languages are derived from this early speech of these central Asian tribes who conquered Europe, India, and the upper stretches of the Mesopotamian plains.[^58]
 
 <figure class="image urantiapedia">
-<img src="/image/Picture1_000.png" width="500" heigth="393">
+<img src="/image/article/Halbert_Katzen/Adam_and_Eve/Picture1_000.png" width="500" heigth="393">
 <figcaption><em>Linguistic tone versus the population frequency of the adaptive haplogroups of ASPM and Microcephalin.</em></figcaption>
 <figcaption><em>The horizontal axis represents the frequency of ASPM-D, whereas the vertical axis represents the frequency of MCPH-D. Filled squares represent nontonal languages and open squares tonal languages. Gray dashed lines correspond to 0.292 ASPM-D and 0.425 MCPH-D.</em></figcaption>
 </figure>

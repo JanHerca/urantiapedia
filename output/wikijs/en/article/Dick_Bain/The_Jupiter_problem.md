@@ -11,7 +11,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 Author: **Dick Bain**
 
 <figure class="image urantiapedia">
-<img src="/image/binarysystem.jpg">
+<img src="/image/article/Dick_Bain/The_Jupiter_problem/binarysystem.jpg">
 <figcaption><em><b>Image 1.</b> A binary system approaches the Sun</em></figcaption>
 </figure>
 
@@ -55,8 +55,16 @@ According to the author, the masses which caused the retrograde motion were capt
 
 ## The problem of Jupiter
 
+<figure class="image urantiapedia">
+<img src="/image/article/Dick_Bain/The_Jupiter_problem/Jupiter.jpg" width="470" height="470">
+<figcaption><em>Image 3. Jupiter seen with the Hubble Wide Field Camera 3.</em></figcaption>
+</figure>
+
 [Detailed studies of isotope anomolies in meteorites have provided evidence that the solar nebular was contaminated very early in its history by one or more injections of material from sources external to the solar system. (from Dodds, R.T., Thunderstones and Shooting Stars. Harvard University Press, 1986)]
 
 A recent article in Science News3 reported that a team from MIT examined 20 nearby, sunlike stars one to ten million years old and reported that even these very young stars did not have enough molecular hydrogen in their vicinity to form a planet the size of Jupiter. The researchers conclude that either a planet like Jupiter would have to form very quickly before the hydrogen was lost, or more likely there is only a small chance of such planets forming in the first place. If, on the other hand, material were pulled out from our sun as claimed in *The Urantia Book*, there would be plenty of material to form the two gas giant planets, Jupiter and Saturn.
 
 The catastrophic origin hypothesis/Angona theory may still have more strikes against it than the nebular hypothesis, but it looks like the score is beginning to even up. Perhaps early in the third millennial innings astronomers will resurrect the catastrophic hypothesis and come to the same conclusion as the author of Paper 57. And 2001 isn't so far off, is it?
+
+***************
+Missing content: see Spanish version

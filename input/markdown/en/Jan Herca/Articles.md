@@ -1331,7 +1331,7 @@ Pero al margen de todas las demás consideraciones, yo extraigo una duda de todo
 
 [^2]: http://www.planetabenitez.com/misenigmas/cave.htm, article by JJ Benitez on the famous cave.
 
-# Nazareth
+# What was Nazareth like in the time of Jesus?
 
 Nazareth is an obligatory stop on any route related to the life of Jesus. It appears many times in the Gospels (although never in the Old Testament), mentioned as the city where Jesus lived as a young man.
 
