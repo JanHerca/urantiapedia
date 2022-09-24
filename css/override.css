@@ -62,7 +62,7 @@ CSS will automatically be minified. */
     text-decoration: none;
 }
 .v-main .contents blockquote.is-map img {
-    width: 200px;
+    width: 400px;
     padding-top: 16px
 }
 @media (max-width:1000px) {
