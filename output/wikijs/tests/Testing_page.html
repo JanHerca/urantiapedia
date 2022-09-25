@@ -1,0 +1,39 @@
+<!--
+title: Testing page
+description: 
+published: true
+date: 2022-09-24T22:04:13.277Z
+tags: 
+editor: ckeditor
+dateCreated: 2022-09-24T21:43:25.602Z
+-->
+
+<h2>Testing procedure</h2>
+<p>Here we are testing:</p>
+<ol>
+  <li>Creating a page in HTML through GitHub</li>
+  <li>Edit is in the web</li>
+  <li>Check that a duplicate is create outside EN folder</li>
+  <li>Copy duplicated content inside old file</li>
+</ol>
+<h2>Alternative1</h2>
+<ol>
+  <li>Remove the duplicate and commit</li>
+  <li>Commit the updated</li>
+  <li>Check if history is maintained</li>
+</ol>
+<p>Result: This doesn't work if remove commit and updated commit are done one after the other because the update is executed first in the server and we loose the historic info when delete is executed.</p>
+<h2>Alternative 2</h2>
+<ol>
+  <li>Try desperately (even through console) to mark the duplicate as moved to older location</li>
+  <li>Update older if move hasn't update, then commit</li>
+  <li>Check if history is maintained</li>
+</ol>
+<h2>Alternative Final</h2>
+<ol>
+  <li>Move all EN folders in Urantiapedia-backup and Urantiapedia projects in GitHub outside the EN folder</li>
+  <li>Commit and cross-fingers (in the better case all changes are moves and Wiki.js ignores them)</li>
+  <li>Check if history is maintained</li>
+</ol>
+<h2>Alternative N</h2>
+<p>Other solution is try to update the code of Wiki.js</p>
