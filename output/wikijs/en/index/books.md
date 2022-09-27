@@ -1,24 +1,14 @@
 ---
-title: Books
+title: Books Index
 description: 
 published: true
-date: 2021-12-08T13:55:38.362Z
+date: 2022-09-27T13:55:38.362Z
 tags: 
 editor: markdown
-dateCreated: 2021-11-28T13:55:38.362Z
+dateCreated: 2022-09-27T13:55:38.362Z
 ---
 
-Urantiapedia is going to contain all the books without copyright that have any relation of interest with _The Urantia Book_. The book itself mentions classic authors and existing literature at the time of the revelations. These texts, however, are never used literally and no reference to them is offered. Finding these parallels of _The Urantia Book_ with the texts used by the revelators is a difficult task, but one reader, Matthew Block, has done an outstanding job finding source material for the revelators, as explained at https://urantiabooksources.com/.
-
-When adding these books into Urantiapedia we are going to proceed in the same way as with the Bible, creating specific pages for each book, with each chapter on one page. Cross-references between the books and _The Urantia Book_ will then be added, just as has been done using the [Bible](/en/Bible) and the [Paramony](https://urantia-book.org/urantiabook/paramony/).
-
-This and other information about how books are organized in the project can be found in [Urantiapedia Help](/en/help/content).
-
-## Book list
-
-Here is a tentative list of books to be included:
-
-### Books supposed to be sources
+## Books supposed to be sources
 
 - _A College Text-book of Geology_, Thomas C. Chamberlin and Rollin D. Salisbury (New York: Henry Holt and Company, 1909) **OK**
 - _A Democratic Manifesto_, Emery Reves (New York: Random House, 1942) **OK**
@@ -156,8 +146,6 @@ Here is a tentative list of books to be included:
 
 
 
-### Books from readers
+## Books from readers
 
 - [Eugenics Race and The Urantia Book](/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Index), by Halbert Katzen
-
-These lists will grow with time.
