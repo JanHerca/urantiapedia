@@ -12,6 +12,7 @@ class MapCatalog {
 	language = 'en';
 	maps = [];
 	translations = [];
+	supported = ['en', 'es'];
 
 	// Values:
 	// 0 - title of map
@@ -59,6 +60,9 @@ class MapCatalog {
 	 * array of errors in reject function.
 	 */
 	read = () => {
+		if (!this.supported.includes(this.language)) {
+			return Promise.resolve(null);
+		}
 		const filePathEN = path.join(app.getAppPath(), 
 			`input/markdown/en/map_catalog.md`);
 		const filePathCur = path.join(app.getAppPath(), 

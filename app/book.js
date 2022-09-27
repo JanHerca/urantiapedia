@@ -52,7 +52,7 @@ class Book {
 		}
 	];
 	footnotes = [];
-	audio = ['en', 'es', 'fr', 'pt'];
+	audio = ['en', 'es', 'fr', 'it', 'pt', 'de'];
 
 	setLanguage = (language) => {
 		this.language = language;
