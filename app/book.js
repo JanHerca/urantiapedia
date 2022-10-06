@@ -1496,7 +1496,7 @@ class Book {
 			const title = getBookTitle(paper, this.language, true);
 
 			//Write header
-			header += getWikijsHeader(title/*, ['the urantia book—papers']*/);
+			header += getWikijsHeader(title, ['the urantia book—papers']);
 			header += '\r\n';
 			//Write top links
 			body += getWikijsLinks(prevLink, indexLink, nextLink);
