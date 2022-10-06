@@ -153,7 +153,8 @@ class Bible {
 					parseInt(currentVer) : null);
 				if (currentVer != null && (currentVer <= previousVer ||
 					(!isTR && currentVer != previousVer + 1))) {
-					errors.push(this.getError('bible_chapter_missing_verses', baseName, book.chapters.length, extract));
+					errors.push(this.getError('bible_chapter_missing_verses', baseName, book.chapters.length, 
+						extract + `; Solution: \\par ${previousVer + 1} [${book.chapters.length}:${previousVer}]`));
 				} else {
 					m = 1;
 					if (isTR && previousVer != null && currentVer != null &&
@@ -176,9 +177,9 @@ class Bible {
 					} else if (currentSection) {
 						currentSection.pars.push(extract);
 					}
-					if (currentVer != null) {
-						previousVer = currentVer;
-					}
+				}
+				if (currentVer != null) {
+					previousVer = currentVer;
 				}
 			}
 		});
