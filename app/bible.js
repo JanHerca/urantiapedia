@@ -245,7 +245,8 @@ class Bible {
 				`${Strings['bookIndexName'][this.language]}</a>`;
 			const title = `${book.title} - ${chapterText} ${chapter.title}`;
 
-			header += getWikijsHeader(title);
+			header += getWikijsHeader(title, 
+				['bible', 'bible—' + book.titleEN.toLowerCase()]);
 			header += '\r\n';
 			body += getWikijsLinks(prevLink, indexLink, nextLink);
 			// body += `<h1>${title}</h1>\r\n`;
