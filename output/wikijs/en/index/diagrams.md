@@ -1,5 +1,5 @@
 ---
-title: Índice de todos los diagramas planeados
+title: Index of all planned diagrams
 description:
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -8,9 +8,9 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-## Sitios web de las Asociaciones Urantia
+## Urantia Associations websites
 
 
-| Estado                | Título                             | Autor   | Etiquetas           | URL                               |
+| Status                | Title                             | Author   | Tags           | URL                               |
 | ----------------------| -----------------------------------| --------| ------------------- | --------------------------------- |
 | :white_square_button: | "The Kingdom of Heaven Revelation" |         |                     | http://www.universalfather.info/  |

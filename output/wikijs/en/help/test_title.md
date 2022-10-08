@@ -3,7 +3,7 @@ title: Title with colon: Test title
 description: A test page for pages with colon in titles
 published: true
 date: 2022-05-22T08:00:52.593Z
-tags: 
+tags: help
 editor: markdown
 dateCreated: 2022-05-22T08:00:52.593Z
 ---

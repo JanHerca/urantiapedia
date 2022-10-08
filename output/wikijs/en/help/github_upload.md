@@ -3,7 +3,7 @@ title: Bulk upload content to Urantiapedia
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: 
+tags: help
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---

@@ -3,7 +3,7 @@ title: Maps Index
 description: 
 published: true
 date: 2022-09-27T13:55:38.362Z
-tags: 
+tags: index, map
 editor: markdown
 dateCreated: 2022-09-27T13:55:38.362Z
 ---
