@@ -33,6 +33,8 @@ Other replacements:
     - Search (regex): `\\textit\{([^\}]*)\}`
     - Replace: `_$1_`
 * Urantia references to links
+    - Search (regex): `\(\d{1,4}\.\d{1,2}\) (\d{1,3}):(\d{1,2})\.(\d{1,3})`
+    - Replace: `[UB $1:$2.$3](/en/The_Urantia_Book/$1#p$2_$3)`
     - Search (regex): `LU (\d{1,3}):(\d{1,2})\.(\d{1,3})`
     - Replace: `[LU $1:$2.$3](/es/The_Urantia_Book/$1#p$2_$3)`
 * Bible references to links
