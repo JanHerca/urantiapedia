@@ -8,9 +8,38 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-## Urantia Associtations websites
+## The Urantia Book Workbooks and other works by William S. Sadler, MD
 
+| Status                | Title                                                | Author            | Tags      |
+| --------------------- | ---------------------------------------------------- | ----------------- | --------- |
+| :white_square_button: | Foreword and Part I - Volume I                       | William S. Sadler | Astronomy |
+| :white_square_button: | Science - Volume II                                  | William S. Sadler | Astronomy |
+| :white_square_button: | Topical and Doctrinal Studies - Volume III           | William S. Sadler |           |
+| :white_square_button: | Jesus - Volume IV                                    | William S. Sadler | Jesus     |
+| :white_square_button: | Theology - Volume V                                  | William S. Sadler | Theology  |
+| :white_square_button: | Bible Study - Volume VI                              | William S. Sadler |           |
+| :white_square_button: | Terminology - Volume VII                             | William S. Sadler |           |
+| :white_square_button: | Worship and Wisdom - Volume VIII                     | William S. Sadler |           |
+| :white_square_button: | Consideration of Some Criticisms of The Urantia Book | William S. Sadler |           |
+| :white_square_button: | A History of the Urantia Movement                    | William S. Sadler |           |
 
-| Status                | Title                            |     Author             | Tags           | URL                                                                        |
-| ----------------------| ----------------------------------| ----------------------| ------------------- | -------------------------------------------------------------------------- |
-| :white_square_button: | [Study of the Master Universe](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index)    | William S. Sadler Jr. | Astronomy           | https://www.urantia.org/study-master-universe/study-master-universe |
+## Works by William S. Sadler, Jr.
+
+| Status                  | Title                                                                                                        | Author                | Tags      |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------- | --------- |
+| :ballot_box_with_check: | [A Study of the Master Universe](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe)               | William S. Sadler Jr. | Astronomy |
+| :ballot_box_with_check: | [Appendices to A Study of the Master Universe](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe) | William S. Sadler Jr. | Astronomy |
+| :white_square_button:   | Bill Sadler Talks                                                                                            | William S. Sadler Jr. |           |
+| :white_square_button:   | Concerning Human Survival                                                                                    | William S. Sadler Jr. |           |
+| :white_square_button:   | General Organization of The Urantia Book                                                                     | William S. Sadler Jr. |           |
+
+## Other
+
+| Status                | Title                                                                 | Author                   | Tags |
+| --------------------- | --------------------------------------------------------------------- | ------------------------ | ---- |
+| :white_square_button: | Guide to Pronunciation of Names and Words in The Urantia Book         |                          |      |
+| :white_square_button: | How The Urantia Papers came to be - according to The Revelators       | Compiled by Ralph Zehr   |      |
+| :white_square_button: | An Artist's Conception of the Master Universe                         |                          |      |
+| :white_square_button: | A Strategy and Practice for In-depth Study Groups of The Urantia Book | Georges Michelson-Dupont |      |
+| :white_square_button: | The Value of Study Groups                                             | Gard Jameson             |      |
+| :white_square_button: | The Unceasing Campaign of the Master Seraphim                         | Neal Waldrop             |      |

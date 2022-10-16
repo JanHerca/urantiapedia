@@ -62,7 +62,7 @@ The existence or non-existence of such a mind phase of the Sevenfold is not esse
 
 ## § 3. Expanding function of The Supreme Creators
 
-(See [Appendix IV § 3, God the Sevenfold](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_4#3-god-the-sevenfold-in-successive-ages).) There is no question about the expansion of God the Sevenfold in outer space. The three Paradise Deities are just as much concerned with the outer space universes as with Havona and the superuniverses. God the Supreme will be functioning as the Experiential ruler of the grand universe, then in a certain capacity in the master universe, and as a member of the First Experiential Trinity.
+(See [Appendix IV § 3, God the Sevenfold](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_4#h-3-god-the-sevenfold-in-successive-ages).) There is no question about the expansion of God the Sevenfold in outer space. The three Paradise Deities are just as much concerned with the outer space universes as with Havona and the superuniverses. God the Supreme will be functioning as the Experiential ruler of the grand universe, then in a certain capacity in the master universe, and as a member of the First Experiential Trinity.
 
 We are also informed that the progressive settling of the superuniverses in light and life is attended by a withdrawal of the activities of the Supreme Being. [UB 56:7.6](/en/The_Urantia_Book/56#p7_6) Now, if the Supreme Creators are progressively withdrawing from the affairs of the present age, this strongly suggests their ministry will expand in the affairs of the outer space universes in the next universe age.
 

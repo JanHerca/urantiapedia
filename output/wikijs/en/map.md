@@ -52,3 +52,10 @@ Here is a tentative list of maps to be included:
 | :white_square_button:   | The Preaching of Jesus - The Decapolis Tour (August - September 29)                                                        |           |        |
 | :white_square_button:   | The preaching of Jesus - The mission of Perea (January to March 30)                                                        |           |        |
 | :white_square_button:   | The appearances of Jesus                                                                                                   |           |        |
+
+## References
+
+Some maps available at:
+- https://www.urantia.org/in-his-steps
+- https://www.urantia.org/sites/default/files/docs/Jesus_Travels_Maps.zip
+- https://www.urantia.org/study/jesus-travels-google-earth

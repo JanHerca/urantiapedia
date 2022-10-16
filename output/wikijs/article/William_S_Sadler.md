@@ -16,13 +16,23 @@ A native of Indiana, Sadler moved to Michigan as a teenager to work at the Battl
 
 More in link to Wikipedia below.
 
-## Articles
+## Articles and Study aids
 
 Index of articles and study aids by William Sadler:
 
 | Status                  | Title                                                                                               | Tags                                          |
 | ----------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------- |
 | :ballot_box_with_check: | [A History of the Urantia Movement](/en/article/William_S_Sadler/A_History_of_the_Urantia_Movement) | The Urantia Book, The Urantia Book—Authorship |
+| :white_square_button:   | Foreword and Part I - Volume I                                                                      | Astronomy                                     |
+| :white_square_button:   | Science - Volume II                                                                                 | Astronomy                                     |
+| :white_square_button:   | Topical and Doctrinal Studies - Volume III                                                          |                                               |
+| :white_square_button:   | Jesus - Volume IV                                                                                   | Jesus                                         |
+| :white_square_button:   | Theology - Volume V                                                                                 | Theology                                      |
+| :white_square_button:   | Bible Study - Volume VI                                                                             |                                               |
+| :white_square_button:   | Terminology - Volume VII                                                                            |                                               |
+| :white_square_button:   | Worship and Wisdom - Volume VIII                                                                    |                                               |
+| :white_square_button:   | Consideration of Some Criticisms of The Urantia Book                                                |                                               |
+| :white_square_button:   | A History of the Urantia Movement                                                                   |                                               |
 
 ## External links
 

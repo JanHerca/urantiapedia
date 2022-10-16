@@ -368,7 +368,7 @@ const Strings = {
 		it: "La Bibbia",
 		ja: "聖書",
 		ko: "성경",
-		lt: "성경",
+		lt: "Biblija",
 		nl: "De Bijbel",
 		pl: "Biblia",
 		pt: "A Bíblia",
