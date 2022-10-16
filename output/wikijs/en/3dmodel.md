@@ -1,12 +1,27 @@
 ---
-title: Index of 3D models
+title: 3D Models
 description:
 published: true
-date: 2021-11-28T14:02:03.086Z
-tags: index, 3d model
-editor: markdown
-dateCreated: 2021-11-28T14:02:03.086Z
+date: 2022-10-16T13:55:38.362Z
+tags:
+editor: markdown, 3d models
+dateCreated: 2022-10-16T13:55:38.362Z
 ---
+
+<figure id="Sample_fig_5" class="image urantiapedia">
+<img src="/image/sample_page_3d.jpg">
+<figcaption><em> Sample of rendering a 3D model.</em></figcaption>
+</figure>
+
+_Urantiapedia_ contains a section dedicated to 3D models that allows the display of special content that is complex to visualize through imagery or diagrams. For example, the [Paradise](/en/topic/Paradise) or the [Architectural Spheres](/en/topic/architectural_spheres) are precisely described in _The Urantia Book_, but they are difficult to imagine them.
+
+3D models are applications, like maps. They will allow you to move freely around the model within certain limits, focus on the whole model and show an information panel about clickable elements. It could also contain different animations that would be executable independently, to show something animated.
+
+For now we are doing tests adding _framed 3D Models_ from [Sketchfab](https://sketchfab.com/), the biggest website dedicated to sharing 3D models. In the future, we will be adding support for _embedded 3D Models_ that are tightly integrated with the rest of _Urantiapedia_ content.
+
+## List of 3D models
+
+Here is the current list of 3D models. We will be expanding this list in the future:
 
 | Title                                  | URL                                                                                                        |
 | --------------------------             | ---------------------------------------------------------------------------------------------------------- |
