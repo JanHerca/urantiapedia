@@ -136,7 +136,7 @@ BOSTON UNIVERSITY SCHOOL OF THEOLOGY<br>
         - Summary of argument up to the present, [p. 171](/en/book/Albert_C_Knudson/The_Doctrine_of_God/5#p171) 
         - Relation of theology to philosophy of religion, [p. 172](/en/book/Albert_C_Knudson/The_Doctrine_of_God/5#p172). 
         - SOURCES, [p. 174](/en/book/Albert_C_Knudson/The_Doctrine_of_God/5#p174) 
-        - The Bible and other sources' of Christian theology, [p. 174](/en/book/Albert_C_Knudson/The_Doctrine_of_God/5#p174) 
+        - The Bible and other sources of Christian theology, [p. 174](/en/book/Albert_C_Knudson/The_Doctrine_of_God/5#p174) 
         - Attempt to exclude the Old Testament from the canon, [p. 176](/en/book/Albert_C_Knudson/The_Doctrine_of_God/5#p176) 
         - Relation of the Old Testament to the New, [p. 178](/en/book/Albert_C_Knudson/The_Doctrine_of_God/5#p178) 
         - Attempt to limit the authority of Scripture to the Synoptic Jesus, [p. 179](/en/book/Albert_C_Knudson/The_Doctrine_of_God/5#p179) 
@@ -241,7 +241,7 @@ BOSTON UNIVERSITY SCHOOL OF THEOLOGY<br>
         - Biblical teaching relative to the -divine unchangeability, [p. 315](/en/book/Albert_C_Knudson/The_Doctrine_of_God/8#p315) 
         - Different ways of conceiving the divine immutability, [p. 316](/en/book/Albert_C_Knudson/The_Doctrine_of_God/8#p316). 
         - OMNISCIENCE, [p. 317](/en/book/Albert_C_Knudson/The_Doctrine_of_God/8#p317) 
-        - Practical basis' of the belief in the divine omniscience, [p. 317](/en/book/Albert_C_Knudson/The_Doctrine_of_God/8#p317) 
+        - Practical basis of the belief in the divine omniscience, [p. 317](/en/book/Albert_C_Knudson/The_Doctrine_of_God/8#p317) 
         - Divine knowledge of physical pain and suffering, [p. 318](/en/book/Albert_C_Knudson/The_Doctrine_of_God/8#p318) 
         - Divine foreknowledge of free acts, [p. 319](/en/book/Albert_C_Knudson/The_Doctrine_of_God/8#p319). 
         - FREEDOM, [p. 322](/en/book/Albert_C_Knudson/The_Doctrine_of_God/8#p322) 
