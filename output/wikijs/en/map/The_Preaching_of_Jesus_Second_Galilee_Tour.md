@@ -2,10 +2,10 @@
 title: "The Preaching of Jesus - Second Galilee Tour (October - December 28)"
 description: 
 published: true
-date: 2022-15-09T14:02:03.086Z
+date: 2022-09-15T14:02:03.086Z
 tags: Maps, Jesus
 editor: markdown
-dateCreated: 2022-15-09T14:02:03.086Z
+dateCreated: 2022-09-15T14:02:03.086Z
 ---
 
 

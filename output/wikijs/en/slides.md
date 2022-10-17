@@ -1,14 +1,24 @@
 ---
-title: Index of presentations
-description:
+title: "Slides"
+description: 
 published: true
-date: 2021-11-28T14:02:03.086Z
-tags: index, presentation
+date: 2022-15-09T14:02:03.086Z
+tags: slides
 editor: markdown
-dateCreated: 2021-11-28T14:02:03.086Z
+dateCreated: 2022-15-09T14:02:03.086Z
 ---
 
-## Urantia Associtations
+
+Urantiapedia contains a section dedicated to slides (presentations) that allows to show them inside the site.
+
+Slides are a technical challenge because there is already a big number of presentations made by readers usually in some comercial software like Microsoft Powerpoint or Google Slides. In order to make them fully integrated in Urantiapedia, so links are connected to pages in Urantiapedia, and even modifications can be made directly in the site, is required to have this slides in some internal format.
+
+Slides could be added to Urantiapedia in two ways:
+
+1. **Framed presentations**: These are interactive presentations that are located in another website, as Google Drive, and inserted in Urantiapedia using an `iframe`. This is a simple way of sharing slides but has some drawbacks. The text cannot be linked easily with Urantiapedia content and slides, to be updated, must be done by original creators.
+2. **Embedded presentations**: here slides are text documents that are displayed on the page as animated presentations. It's basically like an article in which you can move through it by pressing the forward and back keys or by scrolling your finger on a touch device, moving from one slide to another. The text can be changed at any time using tools inside Urantiapedia, and linked with the rest of content.
+
+## Index of presentations
 
 | Title                                                                                            | Author                     | URL                                                                                                                                                                     | File                                                                      |
 | ------------------------------------------------------------------------------------------------ | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
