@@ -10,31 +10,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Author: **Albert C. Knudson**
 
-<figure id="Doctrine_front" class="image urantiapedia">
-<img src="/image/book/Albert_C_Knudson/The_Doctrine_of_God/BookFront.png">
-</figure>
+**INDEX**
 
-<p style="text-align: center;">
-THE ABINGDON PRESS<br>
-NEW YORK — CINCINNATI — CHICAGO<br>
-1930 <br>
-</p>
-
-<p style="text-align: center;">
-DEDICATED<br>
-TO<br>
-MRS. GEORGE LOUIS RICHARDS<br>
-AND TO<br>
-THE MEMORY OF HER FATHER<br>
-MR. ROSWELL RAYMOND ROBINSON<br>
-BOTH GENEROUS BENEFACTORS<br>
-OF<br>
-BOSTON UNIVERSITY SCHOOL OF THEOLOGY<br>
-</p>
-
-* PART I. INTRODUCTION : THE PROVINCE OF THEOLOGY 
-
-    * CHAPTER I — RELIGION AND THEOLOGY 
+* [PREFACE](/en/book/Albert_C_Knudson/The_Doctrine_of_God/Preface)
+* PART I. INTRODUCTION: THE PROVINCE OF THEOLOGY 
+    * [CHAPTER I — RELIGION AND THEOLOGY](/en/book/Albert_C_Knudson/The_Doctrine_of_God/1)
         - Definition of theology, [p. 19](/en/book/Albert_C_Knudson/The_Doctrine_of_God/1#p19). 
         - ILLUSIONISM, [p. 20](/en/book/Albert_C_Knudson/The_Doctrine_of_God/1#p20) 
         - Lucretius, [p. 21](/en/book/Albert_C_Knudson/The_Doctrine_of_God/1#p21) 
@@ -64,8 +44,7 @@ BOSTON UNIVERSITY SCHOOL OF THEOLOGY<br>
         - Attempted synthesis of mysticism and philosophic naturalism, [p. 58](/en/book/Albert_C_Knudson/The_Doctrine_of_God/1#p58)
         - Relation of mysticism and prophetism to theology, [p. 61](/en/book/Albert_C_Knudson/The_Doctrine_of_God/1#p61) 
         - True function, of theology, [p. 64](/en/book/Albert_C_Knudson/The_Doctrine_of_God/1#p64). 
-
-    * CHAPTER II — THE CHRISTIAN FAITH AND THEOLOGY 
+    * [CHAPTER II — THE CHRISTIAN FAITH AND THEOLOGY](/en/book/Albert_C_Knudson/The_Doctrine_of_God/2) 
         - Three fundamental questions relative to Christianity, [p. 66](/en/book/Albert_C_Knudson/The_Doctrine_of_God/2#p66). 
         - FAITH AND REASON, [p. 67](/en/book/Albert_C_Knudson/The_Doctrine_of_God/2#p67) 
         - History and criticism of the dualistic view, [p. 67](/en/book/Albert_C_Knudson/The_Doctrine_of_God/2#p67) 
@@ -74,10 +53,10 @@ BOSTON UNIVERSITY SCHOOL OF THEOLOGY<br>
         - Hegelian, theory, [p. 77](/en/book/Albert_C_Knudson/The_Doctrine_of_God/2#p77) 
         - Contributions of modern thought to the solution of the problem of faith and reason, [p. 80](/en/book/Albert_C_Knudson/The_Doctrine_of_God/2#p80) 
         - Three different views of reason, [p. 83](/en/book/Albert_C_Knudson/The_Doctrine_of_God/2#p83) 
-        - Relation of "revealed" theology to "natural" theology, [p. 85](/en/book/Albert_C_Knudson/The_Doctrine_of_God/2#p85). 
+        - Relation of “revealed” theology to “natural” theology, [p. 85](/en/book/Albert_C_Knudson/The_Doctrine_of_God/2#p85). 
         - FAITH AND MYSTICISM, [p. 85](/en/book/Albert_C_Knudson/The_Doctrine_of_God/2#p85) 
-        - Meaning of "superrational," [p. 85](/en/book/Albert_C_Knudson/The_Doctrine_of_God/2#p85) 
-        - "Mystical" theology, [p. 88](/en/book/Albert_C_Knudson/The_Doctrine_of_God/2#p88) 
+        - Meaning of “superrational,” [p. 85](/en/book/Albert_C_Knudson/The_Doctrine_of_God/2#p85) 
+        - “Mystical” theology, [p. 88](/en/book/Albert_C_Knudson/The_Doctrine_of_God/2#p88) 
         - Ritschlian attitude toward mysticism, [p. 89](/en/book/Albert_C_Knudson/The_Doctrine_of_God/2#p89) 
         - Criticism of the Ritschlian view, [p. 90](/en/book/Albert_C_Knudson/The_Doctrine_of_God/2#p90) 
         - Emil Brunner and Karl Earth, [p. 94](/en/book/Albert_C_Knudson/The_Doctrine_of_God/2#p94) 
@@ -91,13 +70,12 @@ BOSTON UNIVERSITY SCHOOL OF THEOLOGY<br>
         - Supernaturalistic theory, [p. 110](/en/book/Albert_C_Knudson/The_Doctrine_of_God/2#p110) 
         - Hegelian theory, [p. 111](/en/book/Albert_C_Knudson/The_Doctrine_of_God/2#p111) 
         - Schleiermacher's theory, [p. 113](/en/book/Albert_C_Knudson/The_Doctrine_of_God/2#p113) 
-        - "Unsurpassability" of Christianity, [p. 114](/en/book/Albert_C_Knudson/The_Doctrine_of_God/2#p114) 
+        - “Unsurpassability” of Christianity, [p. 114](/en/book/Albert_C_Knudson/The_Doctrine_of_God/2#p114) 
         - Troeltsch's view, [p. 115](/en/book/Albert_C_Knudson/The_Doctrine_of_God/2#p115) 
         - Buddhism and Christianity, [p. 118](/en/book/Albert_C_Knudson/The_Doctrine_of_God/2#p118) 
         - Essence of Christianity as defined by Schleiermacher, Ritschl, and Troeltsch, [p. 120](/en/book/Albert_C_Knudson/The_Doctrine_of_God/2#p120) 
         - Norm of theology, [p. 124](/en/book/Albert_C_Knudson/The_Doctrine_of_God/2#p124). 
-
-    * CHAPTER III — SCIENCE AND THEOLOGY 
+    * [CHAPTER III — SCIENCE AND THEOLOGY](/en/book/Albert_C_Knudson/The_Doctrine_of_God/3) 
         - Prestige of empirical science, [p. 125](/en/book/Albert_C_Knudson/The_Doctrine_of_God/3#p125) 
         - Conflict between science and religion, [p. 126](/en/book/Albert_C_Knudson/The_Doctrine_of_God/3#p126) 
         - Two different views of science, [p. 128](/en/book/Albert_C_Knudson/The_Doctrine_of_God/3#p128). 
@@ -114,8 +92,7 @@ BOSTON UNIVERSITY SCHOOL OF THEOLOGY<br>
         - The Jesus of history and Christ of faith, [p. 142](/en/book/Albert_C_Knudson/The_Doctrine_of_God/3#p142) 
         - Copernican astronomy and Darwinian theory of evolution, [p. 143](/en/book/Albert_C_Knudson/The_Doctrine_of_God/3#p143) 
         - Harmony of science and theology, [p. 144](/en/book/Albert_C_Knudson/The_Doctrine_of_God/3#p144). 
-
-    * CHAPTER IV — PHILOSOPHY AND THEOLOGY 
+    * [CHAPTER IV — PHILOSOPHY AND THEOLOGY](/en/book/Albert_C_Knudson/The_Doctrine_of_God/4) 
         - Present status of philosophy, [p. 146](/en/book/Albert_C_Knudson/The_Doctrine_of_God/4#p146). 
         - POSITIVISTIC PHILOSOPHY, [p. 147](/en/book/Albert_C_Knudson/The_Doctrine_of_God/4#p147) 
         - Relation of positivism to pure science, [p. 148](/en/book/Albert_C_Knudson/The_Doctrine_of_God/4#p148) 
@@ -127,12 +104,11 @@ BOSTON UNIVERSITY SCHOOL OF THEOLOGY<br>
         - Ritschlianism, [p. 157](/en/book/Albert_C_Knudson/The_Doctrine_of_God/4#p157) 
         - Criticism of morally grounded metaphysics, [p. 158](/en/book/Albert_C_Knudson/The_Doctrine_of_God/4#p158). 
         - METAPHYSICAL PHILOSOPHY INTELLECTUALLY GROUNDED, [p. 161](/en/book/Albert_C_Knudson/The_Doctrine_of_God/4#p161) 
-        - Meaning and criticism of "intellectualism," [p. 162](/en/book/Albert_C_Knudson/The_Doctrine_of_God/4#p162) 
+        - Meaning and criticism of “intellectualism,” [p. 162](/en/book/Albert_C_Knudson/The_Doctrine_of_God/4#p162) 
         - Value of speculative theism, [p. 165](/en/book/Albert_C_Knudson/The_Doctrine_of_God/4#p165) 
         - Reality of the self, [p. 167](/en/book/Albert_C_Knudson/The_Doctrine_of_God/4#p167) 
         - Religious significance of the problem of causality, [p. 169](/en/book/Albert_C_Knudson/The_Doctrine_of_God/4#p169). 
-
-    * CHAPTER V — SOURCES AND METHOD 
+    * [CHAPTER V — SOURCES AND METHOD](/en/book/Albert_C_Knudson/The_Doctrine_of_God/5) 
         - Summary of argument up to the present, [p. 171](/en/book/Albert_C_Knudson/The_Doctrine_of_God/5#p171) 
         - Relation of theology to philosophy of religion, [p. 172](/en/book/Albert_C_Knudson/The_Doctrine_of_God/5#p172). 
         - SOURCES, [p. 174](/en/book/Albert_C_Knudson/The_Doctrine_of_God/5#p174) 
@@ -151,14 +127,12 @@ BOSTON UNIVERSITY SCHOOL OF THEOLOGY<br>
         - Empirical method, [p. 192](/en/book/Albert_C_Knudson/The_Doctrine_of_God/5#p192) 
         - Composite character of theology, [p. 195](/en/book/Albert_C_Knudson/The_Doctrine_of_God/5#p195) 
         - The threefold task of theology, [p. 196](/en/book/Albert_C_Knudson/The_Doctrine_of_God/5#p196). 
-
 * PART II. THE DOCTRINE OF GOD 
-
-    * CHAPTER VI — THE EXISTENCE OF GOD 
+    * [CHAPTER VI — THE EXISTENCE OF GOD](/en/book/Albert_C_Knudson/The_Doctrine_of_God/6) 
         - Relation of the belief in God to religion, [p. 203](/en/book/Albert_C_Knudson/The_Doctrine_of_God/6#p203) 
         - Nature of the divine attributes, [p. 206](/en/book/Albert_C_Knudson/The_Doctrine_of_God/6#p206) 
         - Classification of the attributes, [p. 207](/en/book/Albert_C_Knudson/The_Doctrine_of_God/6#p207) 
-        - Meaning of "existence" or "reality," [p. 209](/en/book/Albert_C_Knudson/The_Doctrine_of_God/6#p209) 
+        - Meaning of “existence” or “reality,” [p. 209](/en/book/Albert_C_Knudson/The_Doctrine_of_God/6#p209) 
         - Recent attempts to interpret God in positivistic terms, [p. 210](/en/book/Albert_C_Knudson/The_Doctrine_of_God/6#p210)
         - Bearing of origin of religion and its anthropomorphic character on its truth, [p. 212](/en/book/Albert_C_Knudson/The_Doctrine_of_God/6#p212) 
         - Revelation as a justification of the belief in God, [p. 215](/en/book/Albert_C_Knudson/The_Doctrine_of_God/6#p215) 
@@ -173,13 +147,12 @@ BOSTON UNIVERSITY SCHOOL OF THEOLOGY<br>
         - Kantian formulation of the moral argument, [p. 229](/en/book/Albert_C_Knudson/The_Doctrine_of_God/6#p229) 
         - Broader interpretation of the moral or valuational argument, [p. 232](/en/book/Albert_C_Knudson/The_Doctrine_of_God/6#p232). 
         - THE THEORETICAL ARGUMENT [p. 234](/en/book/Albert_C_Knudson/The_Doctrine_of_God/6#p234) 
-        - Relation of Scripture to the "proofs" of God's existence, [p. 235](/en/book/Albert_C_Knudson/The_Doctrine_of_God/6#p235)
+        - Relation of Scripture to the “proofs” of God's existence, [p. 235](/en/book/Albert_C_Knudson/The_Doctrine_of_God/6#p235)
         - Traditional forms of the theoretical argument, [p. 237](/en/book/Albert_C_Knudson/The_Doctrine_of_God/6#p237) 
         - Epistemological argument, [p. 237](/en/book/Albert_C_Knudson/The_Doctrine_of_God/6#p237) 
         - Causal argument, [p. 238](/en/book/Albert_C_Knudson/The_Doctrine_of_God/6#p238) 
         - Value of these arguments, [p. 241](/en/book/Albert_C_Knudson/The_Doctrine_of_God/6#p241). 
-
-    * CHAPTER VII — THE ABSOLUTENESS OF GOD 
+    * [CHAPTER VII — THE ABSOLUTENESS OF GOD](/en/book/Albert_C_Knudson/The_Doctrine_of_God/7) 
         - Origin and history of the quest after the absolute, [p. 242](/en/book/Albert_C_Knudson/The_Doctrine_of_God/7#p242). 
         - THE MEANING OF ABSOLUTENESS, [p. 244](/en/book/Albert_C_Knudson/The_Doctrine_of_God/7#p244) 
         - Three different views of the Absolute, [p. 244](/en/book/Albert_C_Knudson/The_Doctrine_of_God/7#p244) 
@@ -214,8 +187,7 @@ BOSTON UNIVERSITY SCHOOL OF THEOLOGY<br>
         - Relation of the divine consciousness to time, [p. 282](/en/book/Albert_C_Knudson/The_Doctrine_of_God/7#p282) 
         - Different ways of conceiving the time-transcendence of God, [p. 283](/en/book/Albert_C_Knudson/The_Doctrine_of_God/7#p283)
         - Religious significance of the divine absoluteness, [p. 284](/en/book/Albert_C_Knudson/The_Doctrine_of_God/7#p284). 
-
-    * CHAPTER VIII — THE PERSONALITY OF GOD 
+    * [CHAPTER VIII — THE PERSONALITY OF GOD](/en/book/Albert_C_Knudson/The_Doctrine_of_God/8) 
         - Relation of the belief in a personal God to Christianity and to religious belief in general, [p. 285](/en/book/Albert_C_Knudson/The_Doctrine_of_God/8#p285) 
         - Reasons for the slow development of a thoroughgoing theological personalism, [p. 286](/en/book/Albert_C_Knudson/The_Doctrine_of_God/8#p286) 
         - Reasons for emphasizing the personality of God since the latter part of the eighteenth century, [p. 290](/en/book/Albert_C_Knudson/The_Doctrine_of_God/8#p290). 
@@ -247,8 +219,7 @@ BOSTON UNIVERSITY SCHOOL OF THEOLOGY<br>
         - FREEDOM, [p. 322](/en/book/Albert_C_Knudson/The_Doctrine_of_God/8#p322) 
         - Meaning of freedom in God, [p. 323](/en/book/Albert_C_Knudson/The_Doctrine_of_God/8#p323) 
         - Relation of the divine will to the divine omniscience, [p. 323](/en/book/Albert_C_Knudson/The_Doctrine_of_God/8#p323). 
-
-    * CHAPTER IX — THE GOODNESS OF GOD 
+    * [CHAPTER IX — THE GOODNESS OF GOD](/en/book/Albert_C_Knudson/The_Doctrine_of_God/9) 
         - Religious importance of the idea of the divine goodness, [p. 325](/en/book/Albert_C_Knudson/The_Doctrine_of_God/9#p325) 
         - Two great steps in the moralization of the superworld, [p. 326](/en/book/Albert_C_Knudson/The_Doctrine_of_God/9#p326)
         - BIBLICAL TEACHING, [p. 326](/en/book/Albert_C_Knudson/The_Doctrine_of_God/9#p326) 
@@ -281,8 +252,7 @@ BOSTON UNIVERSITY SCHOOL OF THEOLOGY<br>
         - Objection to Professor Brightman's theory, [p. 365](/en/book/Albert_C_Knudson/The_Doctrine_of_God/9#p365) 
         - Concepton of God as supermoral or as beyond good and evil, [p. 366](/en/book/Albert_C_Knudson/The_Doctrine_of_God/9#p366) 
         - Apparent conflict between the love of God and his onliness as an absolute Being, [p. 368](/en/book/Albert_C_Knudson/The_Doctrine_of_God/9#p368). 
-
-    * CHAPTER X — THE TRINITY 
+    * [CHAPTER X — THE TRINITY](/en/book/Albert_C_Knudson/The_Doctrine_of_God/10) 
         - Doctrine of Trinity due to new revelation of God in Christ, [p. 370](/en/book/Albert_C_Knudson/The_Doctrine_of_God/10#p370). 
         - ORIGIN OF THE DOCTRINE, [p. 370](/en/book/Albert_C_Knudson/The_Doctrine_of_God/10#p370) 
         - Ethnic triads and their relation to the Christian Trinity, [p. 371](/en/book/Albert_C_Knudson/The_Doctrine_of_God/10#p371) 
@@ -303,7 +273,7 @@ BOSTON UNIVERSITY SCHOOL OF THEOLOGY<br>
         - Equating of Christ with the Logos, [p. 397](/en/book/Albert_C_Knudson/The_Doctrine_of_God/10#p397) 
         - Eternal generation of the Son, [p. 399](/en/book/Albert_C_Knudson/The_Doctrine_of_God/10#p399) 
         - The Son of the same substance with the Father, [p. 400](/en/book/Albert_C_Knudson/The_Doctrine_of_God/10#p400) 
-        - Distinction between "hypostasis" and "essence," and ascription of divinity to the Spirit, [p. 402](/en/book/Albert_C_Knudson/The_Doctrine_of_God/10#p402) 
+        - Distinction between “hypostasis” and “essence,” and ascription of divinity to the Spirit, [p. 402](/en/book/Albert_C_Knudson/The_Doctrine_of_God/10#p402) 
         - Complete equalization of the three persons of the Trinity and doctrine of double procession, [p. 404](/en/book/Albert_C_Knudson/The_Doctrine_of_God/10#p404) 
         - Doctrine of circumincession, [p. 405](/en/book/Albert_C_Knudson/The_Doctrine_of_God/10#p405). 
         - TRADITIONAL FORM OF THE DOCTRINE, [p. 407](/en/book/Albert_C_Knudson/The_Doctrine_of_God/10#p407) 
