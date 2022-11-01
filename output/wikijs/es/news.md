@@ -12,6 +12,8 @@ dateCreated: 2022-07-03T14:02:03.086Z
 
 ## 2022
 
+- [Novedades de Octubre 2022](/es/news/2022/10)
+- [Novedades de Septiembre 2022](/es/news/2022/09)
 - [Novedades de Agosto 2022](/es/news/2022/08)
 - [Novedades de Julio 2022](/es/news/2022/07)
 - [Novedades de Junio 2022](/es/news/2022/06)
