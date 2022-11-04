@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_18">Appendix XVIII. The Nature of God The Ultimate</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_20">Appendix XX. The Post-Ultimate Age</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_18">Appendix XVIII. The Nature of God The Ultimate</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_20">Appendix XX. The Post-Ultimate Age</a></td>
       </tr>
     </tbody>
   </table>
@@ -30,7 +30,7 @@ Back in eternity, in the "dawn of eternity," the Original Trinity (the Paradise 
 
 Let us consider what universe developments must take place before each of these two experiential trinities can come into existence as factual realities.
 
-_Formation of the First Experiential Trinity._ We have already considered the manner in which trinity formation takes place in connection with our study of the Trinity Ultimate. ([Appendix X](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_10)) This trinity (now) seems to be a qualified reality [UB 117:7.4](/en/The_Urantia_Book/117#p7_4) although its factual formation must await the future completion of the evolution of the Supreme. [UB 0:12.6](/en/The_Urantia_Book/0#p12_6) The First Experiential Trinity will not be able to form as a factual reality until the end of the Second Universe Age, which will witness the complete emergence of the first experiential deity — the Supreme Being. The three requisite trinity-members are: the (deity of the) Supreme Being, the (deity-unification of the Corps of the) Supreme Creators, and the (deity-union of the Corps of the) Master Architects. ([Appendix X § 3](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_10#h-3-evolution-of-the-members-of-the-trinity-ultimate)) The function of this trinity is the experiential unification of the master universe. [UB 106:3.2](/en/The_Urantia_Book/106#p3_2) Since the master universe has limits, is subinfinite, this trinity can unify in completion [UB 0:12.8](/en/The_Urantia_Book/0#p12_8), and the result of such unification is the emergence of the second experiential deity — God the Ultimate. [UB 0:12.6](/en/The_Urantia_Book/0#p12_6)
+_Formation of the First Experiential Trinity._ We have already considered the manner in which trinity formation takes place in connection with our study of the Trinity Ultimate. ([Appendix X](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_10)) This trinity (now) seems to be a qualified reality [UB 117:7.4](/en/The_Urantia_Book/117#p7_4) although its factual formation must await the future completion of the evolution of the Supreme. [UB 0:12.6](/en/The_Urantia_Book/0#p12_6) The First Experiential Trinity will not be able to form as a factual reality until the end of the Second Universe Age, which will witness the complete emergence of the first experiential deity — the Supreme Being. The three requisite trinity-members are: the (deity of the) Supreme Being, the (deity-unification of the Corps of the) Supreme Creators, and the (deity-union of the Corps of the) Master Architects. ([Appendix X § 3](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_10#h-3-evolution-of-the-members-of-the-trinity-ultimate)) The function of this trinity is the experiential unification of the master universe. [UB 106:3.2](/en/The_Urantia_Book/106#p3_2) Since the master universe has limits, is subinfinite, this trinity can unify in completion [UB 0:12.8](/en/The_Urantia_Book/0#p12_8), and the result of such unification is the emergence of the second experiential deity — God the Ultimate. [UB 0:12.6](/en/The_Urantia_Book/0#p12_6)
 
 _Formation of the Second Experiential Trinity._ The Supreme Being emerges at the end of the Second Age — when the seven superuniverses have all been settled in light and life. (1292.7-8) 117:7.13-14 God the Ultimate will not finally emerge until the end of the Sixth Age — when the whole master universe has achieved its goal of experiential destiny. [UB 0:9.1](/en/The_Urantia_Book/0#p9_1) The final factual emergence of the second experiential deity makes it possible for the Second Experiential Trinity to form as a factual reality. [UB 106:5.1](/en/The_Urantia_Book/106#p5_1)
 
@@ -39,18 +39,18 @@ The members of the Second Experiential Trinity, the Trinity Absolute, are given 
 - (b) God the Ultimate
 - (c) The Consummator of Universe Destiny
 
-We would emphasize here, as we have before ([Appendix X § 3](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_10#h-3-evolution-of-the-members-of-the-trinity-ultimate)), trinity is always a union of three deity-entities — not three personalities. [UB 106:5.3](/en/The_Urantia_Book/106#p5_3) Neither God the Supreme nor God the Ultimate are members of this trinity in the personal sense; both of these experiential deities are members of this trinity in the deity sense. As personalities, both exist and both function and both are (or will be) contactable, quite apart from the entity of this trinity.
+We would emphasize here, as we have before ([Appendix X § 3](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_10#h-3-evolution-of-the-members-of-the-trinity-ultimate)), trinity is always a union of three deity-entities — not three personalities. [UB 106:5.3](/en/The_Urantia_Book/106#p5_3) Neither God the Supreme nor God the Ultimate are members of this trinity in the personal sense; both of these experiential deities are members of this trinity in the deity sense. As personalities, both exist and both function and both are (or will be) contactable, quite apart from the entity of this trinity.
 
 We know almost nothing about the unrevealed Consummator of Universe Destiny, and his membership in this trinity introduces certain major factors of uncertainty into any possible estimates that might be made concerning its future capacities, functions, or destiny.
 
 ## § 2. Plural Trinity-Presences of Deity
 
-In [Appendix X](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_10), we encountered the problem of the large number of persons who are genetically concerned with the threefold deity-membership in the Trinity Ultimate, and we looked forward hopefully to the Trinity Absolute as presenting no such type of problem. This is quite true. In considering the Trinity Absolute, we encounter no problem of reconciling many personalities with three deity-members. But we do encounter a problem of a different kind; this is the problem of trying to understand the plural trinity-presences of deity.
+In [Appendix X](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_10), we encountered the problem of the large number of persons who are genetically concerned with the threefold deity-membership in the Trinity Ultimate, and we looked forward hopefully to the Trinity Absolute as presenting no such type of problem. This is quite true. In considering the Trinity Absolute, we encounter no problem of reconciling many personalities with three deity-members. But we do encounter a problem of a different kind; this is the problem of trying to understand the plural trinity-presences of deity.
 
 The Supreme Being is deity-present in the Trinity Absolute. Prior to this he will already have become a deity-member of the earlier-appearing Trinity Ultimate. And after this, he will enter into a third trinity-membership — on the Second Level of the Trinity of Trinities. Let us recapitulate:
 - (a) The Deity of the Supreme is a member of the Trinity Ultimate, the First Experiential Trinity. [UB 106:3.2](/en/The_Urantia_Book/106#p3_2)
 - (b) The Deity of the Supreme is a member of the Trinity Absolute, the Second Experiential Trinity. [UB 106:5.1](/en/The_Urantia_Book/106#p5_1)
-- (c) The Deity of the Supreme will be present on the Second Level of the Trinity of Trinities [UB 106:8.14](/en/The_Urantia_Book/106#p8_14), and we have presumed to name this level "the Third Experiential Trinity." ([Appendix XXIV](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_24))
+- (c) The Deity of the Supreme will be present on the Second Level of the Trinity of Trinities [UB 106:8.14](/en/The_Urantia_Book/106#p8_14), and we have presumed to name this level "the Third Experiential Trinity." ([Appendix XXIV](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_24))
 
 (We should also note that the Ultimate is deity-present in two trinity relationships: The Trinity Absolute [ [UB 106:5.1](/en/The_Urantia_Book/106#p5_1)], and on the Second Level of the Trinity of Trinities. [ [UB 106:8.15](/en/The_Urantia_Book/106#p8_15)] Our study of the triple deity-presences of the Supreme should, in principle, serve to answer any analogous problems that might arise with respect to the double deity-presences of the Ultimate.)
 
@@ -63,7 +63,7 @@ Is there any warrant for such a multi-level concept for the presences of Supreme
 If there is only one deity-presence of the Supreme, and if such presence enjoys plural trinity-memberships, then is there any significant difference in the manner in which Supreme Deity is related to these trinities? The Papers do not have much to say on this point, but there is one passage (1292.2-5) 117:7.9-12 that does throw a little light on this question:
 - (a) In the First Experiential Trinity, Supreme Deity is engaged in "absonite collaboration."
 - (b) In the Second Experiential Trinity, Supreme Deity has entered into "coabsolute relationship."
-- (c) In the Trinity of Trinities, Supreme Deity is present on the Second Level and is engaged in "coinfinite participation." (This is the level that we have presumed to name "the Third Experiential Trinity." (See [Appendix XXIV](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_24))
+- (c) In the Trinity of Trinities, Supreme Deity is present on the Second Level and is engaged in "coinfinite participation." (This is the level that we have presumed to name "the Third Experiential Trinity." (See [Appendix XXIV](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_24))
 
 These citations from the Papers give us three terms that describe three different relationships of Supreme Deity to three trinities:
 - (a) absonite collaboration,
@@ -74,7 +74,7 @@ There is a difference between these three terms. They seem to indicate that the 
 
 ## § 3. The Growth of The Supreme
 
-Suppose we attempt to make an analysis of all the logical steps in the (prepersonal and the post-personal) growth of the Supreme. This would be similar to our effort to analyze the emergence of the Ultimate ([Appendix XVIII § 1](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_18#h-1-emergence-of-the-ultimate)), except that our study of the Ultimate concluded with his final emergence. Our study of the Supreme will continue after his emergence.
+Suppose we attempt to make an analysis of all the logical steps in the (prepersonal and the post-personal) growth of the Supreme. This would be similar to our effort to analyze the emergence of the Ultimate ([Appendix XVIII § 1](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_18#h-1-emergence-of-the-ultimate)), except that our study of the Ultimate concluded with his final emergence. Our study of the Supreme will continue after his emergence.
 
 We can begin with the present status of the Supreme; he is now passing through ". . . the prepersonal eras of experiential-power development." [UB 10:5.5](/en/The_Urantia_Book/10#p5_5) We know he was present in Havona prior to the organization of any of the superuniverses [UB 56:6.2](/en/The_Urantia_Book/56#p6_2), so he has passed through one stage of existence prior to the present era of power-personality unification. This gives us a starting point.
 
@@ -205,9 +205,9 @@ The Second Experiential Trinity is the super-summation of the final experiential
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_18">Appendix XVIII. The Nature of God The Ultimate</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_20">Appendix XX. The Post-Ultimate Age</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_18">Appendix XVIII. The Nature of God The Ultimate</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_20">Appendix XX. The Post-Ultimate Age</a></td>
       </tr>
     </tbody>
   </table>

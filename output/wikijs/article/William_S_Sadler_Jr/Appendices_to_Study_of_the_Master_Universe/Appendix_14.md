@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_13">Appendix XIII. Evolution of Universe Sons and Spirits</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_15">Appendix XV. Master Architects and Transcendentalers</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_13">Appendix XIII. Evolution of Universe Sons and Spirits</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15">Appendix XV. Master Architects and Transcendentalers</a></td>
       </tr>
     </tbody>
   </table>
@@ -82,7 +82,7 @@ We believe that each Master Spirit will dominate the environmental trends of his
 
 ## § 5. Master Spirits/Creative Trios in the Primary Space Level
 
-We have conjectured that the 700,000 Universe Sons and Spirits who have functioned as the organizers and the perfectors of the local universes of the present age will trinitize their creator equals, and will be assigned to the Primary Space Level as Son-Spirit Creative Trios. We have further noted that there will be seven basic orders of such Creative Trios — 100,000 each — because there are seven basic types of Creative Spirits, following the natures of the Seven Master Spirits. (See [Appendix XIII § 3, Son-Spirit Creative Trios](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_13#h-3-son-spirit-creative-trios).)
+We have conjectured that the 700,000 Universe Sons and Spirits who have functioned as the organizers and the perfectors of the local universes of the present age will trinitize their creator equals, and will be assigned to the Primary Space Level as Son-Spirit Creative Trios. We have further noted that there will be seven basic orders of such Creative Trios — 100,000 each — because there are seven basic types of Creative Spirits, following the natures of the Seven Master Spirits. (See [Appendix XIII § 3, Son-Spirit Creative Trios](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_13#h-3-son-spirit-creative-trios).)
 
 We are now in position to bring up a very interesting question. How will the Son-Spirit Trios be assigned in relation to the spheres of influence of the Master Spirits? If we rule out random assignment, then there are just two possible ways that these Creative Trios could be assigned:
 - _Homogenous Assignment._ There are 100,000 of the First-Order (Fatherlike) Creative Trios. They are, in nature, like the First Master Spirit. All are of former service in superuniverse number one. Now, if all of these First-Order Trios were assigned to the domains of the First Master Spirit, this would be homogenous assignment. Such assignment would serve to intensify the environmental influence of the First Master Spirit in his outer space domains. Similarly, the other six types of Trios would be assigned to the Master Spirit with whose nature they are akin.
@@ -90,7 +90,7 @@ We are now in position to bring up a very interesting question. How will the Son
 
 _Interaction of environmental influences._ Each of the Creative Trios is going to have a rather wide range of influence in the Primary Space Level. If there are 70,000 galaxies, each of which is larger than a superuniverse, and, if there are 700,000 Creative Trios, then it would follow that each galaxy would constitute the jurisdiction of ten Trios. This means that each such Trio would have the administrative responsibility for one-tenth of a galaxy — a sphere of influence possibly much larger than a major sector in one of the present superuniverses. Each such unit will tend to be dominated by the environmental influence of the supervising Creative Trio. There are seven orders of such Trios and each will variously serve under the jurisdiction and overriding environmental influence of each of the Seven Master Spirits. This, then will result in the production of 49 environmental trends which will certainly condition the whole growth and the experiential natures of all beings native to such domains. (We can draw a comparison here between this line of reasoning and the story of the Universal Conciliators ([UB 25:2.3-4](/en/The_Urantia_Book/25#p2_3), and § 7 of this Appendix) which also results in the eventual production of 49 types.
 
-_The effect of forty-nine environments._ These conditions in the Primary Space Level are an expansion of that which now characterizes the superuniverses. Each of the seven superuniverses has its own basic environmental influence caused by the presence of the supervising Master Spirit. There are seven such environmental influences in the superuniverse space level; in the first outer space level, there will be 49. What will be the result of this state of affairs? It will result in the environmental conditioning of the post-supreme Universe Spirits who are assigned to these realms as the creative complements of the associated Creator Sons. (These post-supreme Universe Sons and Spirits are those who had no chance to function as creators in the superuniverses. They are discussed in [Appendix XIII, § 4 - 5](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_13#h-4-mixed-age-creator-sons-and-creative-spirits)) We know that the Creative Spirits of the present local universes become, in personal natures, like the supervising Master Spirit, thus bringing into existence the present seven basic orders of the Creative Spirits. We hold that the Primary Space Level will be productive of 49 different types of post-supreme Creative Spirits.
+_The effect of forty-nine environments._ These conditions in the Primary Space Level are an expansion of that which now characterizes the superuniverses. Each of the seven superuniverses has its own basic environmental influence caused by the presence of the supervising Master Spirit. There are seven such environmental influences in the superuniverse space level; in the first outer space level, there will be 49. What will be the result of this state of affairs? It will result in the environmental conditioning of the post-supreme Universe Spirits who are assigned to these realms as the creative complements of the associated Creator Sons. (These post-supreme Universe Sons and Spirits are those who had no chance to function as creators in the superuniverses. They are discussed in [Appendix XIII, § 4 - 5](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_13#h-4-mixed-age-creator-sons-and-creative-spirits)) We know that the Creative Spirits of the present local universes become, in personal natures, like the supervising Master Spirit, thus bringing into existence the present seven basic orders of the Creative Spirits. We hold that the Primary Space Level will be productive of 49 different types of post-supreme Creative Spirits.
 
 ## § 6. The results of the interaction of seven times seven
 
@@ -100,7 +100,7 @@ Is there any way we can check our speculations at this point? We have come a lon
 
 If this line of reasoning is valid, then the transactions during the Fourth Universe Age in the Secondary Space Level should produce 7 times 49 phases of divinity expression. Seven times 49 equals 343. There are 3,430 Master Architects assigned to the Tertiary Space Level; this is 343 times 10.
 
-If this goes on, then the Tertiary Space Level should project into the Quartan Level diverse divinity of 7 times 343; this is 2,401. The Architects assigned to the Quartan Space Level number 24,010; this is 2,401 times 10. The coincidence of these numbers does not validate this line of reasoning, but they do indicate that it is not without logical merit. (For references to the numbers of the Architects, see [Appendix XV § 2](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_15#h-2-the-numbers-of-the-master-architects).)
+If this goes on, then the Tertiary Space Level should project into the Quartan Level diverse divinity of 7 times 343; this is 2,401. The Architects assigned to the Quartan Space Level number 24,010; this is 2,401 times 10. The coincidence of these numbers does not validate this line of reasoning, but they do indicate that it is not without logical merit. (For references to the numbers of the Architects, see [Appendix XV § 2](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15#h-2-the-numbers-of-the-master-architects).)
 
 ## § 7. Footnote: Concerning Universal Conciliators
 
@@ -120,9 +120,9 @@ _The Paradise Council of Perfection._ If there are 7,000 trillion Conciliators a
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_13">Appendix XIII. Evolution of Universe Sons and Spirits</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_15">Appendix XV. Master Architects and Transcendentalers</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_13">Appendix XIII. Evolution of Universe Sons and Spirits</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15">Appendix XV. Master Architects and Transcendentalers</a></td>
       </tr>
     </tbody>
   </table>

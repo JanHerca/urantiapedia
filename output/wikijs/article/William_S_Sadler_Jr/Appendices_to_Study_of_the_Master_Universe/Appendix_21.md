@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_20">Appendix XX. The Post-Ultimate Age</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_22">Appendix XXII. Power-Personality Synthesis</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_20">Appendix XX. The Post-Ultimate Age</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_22">Appendix XXII. Power-Personality Synthesis</a></td>
       </tr>
     </tbody>
   </table>
@@ -24,7 +24,7 @@ Author: **William S. Sadler, Jr.**
 
 The Papers present certain concepts with regard to the general geography of creation. They present the following cosmography: Paradise is at the center of all things. It is encircled by Havona, the central universe. Havona, in turn, is encircled by the seven superuniverses, and this entire aggregation is named the grand universe. The four outer space levels swing around the grand universe and, taken all together, these are designated the master universe. [UB 12:1.3](/en/The_Urantia_Book/12#p1_3) We are informed that space now extends on beyond the outer limits of the master universe, but how far is not known. [UB 11:7.4](/en/The_Urantia_Book/11#p7_4) This extension of space beyond the confines of the master universe is he conjectured geographic site of the future unending universe — the Cosmos Infinite.
 
-Later we will study the _growth_ of Cosmos Infinite ([Appendix XXVII](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_27)); it is our present purpose to study the _concept_ of this limitless creation. As its name might suggest, this domain is conceived as an endless creation. The First Universe, Havona, is the central creation of eternity; the Last Universe, the Cosmos Infinite, is the peripheral creation of infinity. In many respects the final universe will be an expression of the original universe. Each is a projection of God's concept of creation: Havona, the conception of existential perfection; the Cosmos Infinite, the conception of existential-experiential perfection.
+Later we will study the _growth_ of Cosmos Infinite ([Appendix XXVII](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_27)); it is our present purpose to study the _concept_ of this limitless creation. As its name might suggest, this domain is conceived as an endless creation. The First Universe, Havona, is the central creation of eternity; the Last Universe, the Cosmos Infinite, is the peripheral creation of infinity. In many respects the final universe will be an expression of the original universe. Each is a projection of God's concept of creation: Havona, the conception of existential perfection; the Cosmos Infinite, the conception of existential-experiential perfection.
 
 ## § 1. The validity of the concept
 
@@ -91,7 +91,7 @@ So long as space increases as fast, or faster, than creation, it will never limi
 
 ## § 4. Again: Cytoplasmic need expands nuclear functions
 
-We have previously examined the effect on an "inner universe" of the needs of an "outer universe." ([Appendix XI § 7, Cytoplasmic Need Expands Nuclear Functions](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_11#h-7-cytoplasmic-need-expands-nuclear-functions).) Perhaps it would be well, at this point, to recapitulate this principle:
+We have previously examined the effect on an "inner universe" of the needs of an "outer universe." ([Appendix XI § 7, Cytoplasmic Need Expands Nuclear Functions](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_11#h-7-cytoplasmic-need-expands-nuclear-functions).) Perhaps it would be well, at this point, to recapitulate this principle:
 - (a) _Post-Havona needs._ In a certain sense, every creation that is subsequent to the central universe is alike; all are universes that are experiential (non-existential) in nature. Havona has something to give to each of them — the superuniverses, the outer universes, and the Cosmos Infinite. All lack the quality of inherent, existential, and divine perfection. And in this giving, Havona escapes from the limitations inherent in being a universe of original and divine perfection. We can see this most clearly in the relationship which Havona sustains to the imperfect superuniverses. And we can also see what the superuniverses do for Havona when they introduce the evolutionary-growth technique into the central creation, thus superimposing new experiential growth possibilities on existential perfection.
 - (b) _Post-supreme needs._ The creations that appear after the grand universe is settled in light and life are post-supreme domains. These post-supreme creations are the outer space universes and the Cosmos Infinite — everything outside of the grand universe. These realms are organized and settled after the Supreme Being has completed his growth, and after the possibility for finite experience has disappeared from the potentials of cosmic growth. As Havoners must compensate us for the lack of inherent perfection, so will the grand universers compensate the citizens of outer space for their inability to have finite experience.
 - (c) _Post-ultimate needs._ The potentially absolute universe that will sometime exist outside the master creation, is a post-ultimate development. We know that it is post-Havona in status and deduce that it will accordingly be an experiential domain. It is post-supreme, hence devoid of finite experience. It is also post-ultimate, and is accordingly lacking in all absonite experience. The citizens of the (completed) master universe will have to compensate these deficiencies in their service-ministry to the natives of the Cosmos Infinite. Such beings would start their existences on some coabsolute level of creature status that would be devoid of any comprehension of the finite and the absonite antecedents to the attainment of such inherent coabsolute status.
@@ -136,9 +136,9 @@ The First Universe (Havona) is the best one with which to compare the Final Univ
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_20">Appendix XX. The Post-Ultimate Age</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_22">Appendix XXII. Power-Personality Synthesis</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_20">Appendix XX. The Post-Ultimate Age</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_22">Appendix XXII. Power-Personality Synthesis</a></td>
       </tr>
     </tbody>
   </table>

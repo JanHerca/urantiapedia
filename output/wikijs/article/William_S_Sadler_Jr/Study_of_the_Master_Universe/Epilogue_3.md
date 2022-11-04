@@ -1,5 +1,5 @@
 ---
-title: "A Study of the Master Universe — Third Epilogue – After the Ending of Endings - We end, as we began, with the Infinite"
+title: "A Study of the Master Universe — Third Epilogue – After the Ending of Endings"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
@@ -22,7 +22,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 Author: **William S. Sadler, Jr.**
 
-We end, as we began, with the Infinite
+We end, as we began, with the Infinite.
 
 In one place in the Papers [UB 105:0.1](/en/The_Urantia_Book/105#p0_1), they speak of all Reality as being symbolized by a great ellipse. It starts from an infinite and absolute Source and ever seeks a Destiny that is equally infinite and absolute. In the First Prologue to this study we sought to understand this Source. In the Last Epilogue we find ourselves again seeking after this same Source – only now we use another name, Destiny. In the beginning, and at the ending, we are searching for the Source-Destiny of Reality. This must be the Infinite, that Being who is best known to us as God.
 

@@ -48,7 +48,7 @@ When the Papers want to speak about the central universe plus the seven superuni
 <figcaption><em><b>Image 3.</b> A simplified chart of the master universe</em></figcaption>
 </figure>
 
-_The innermost area, designated “P” is the Isle of Paradise. The surrounding area is the central universe, Havona. Surrounding Havona are the seven superuniverses; they are designated by number; our superuniverse, Orvonton, is number seven. The four outermost areas are the four outer space levels._ (See [Appendix III., Space Levels of the Master Universe](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_3).)
+_The innermost area, designated “P” is the Isle of Paradise. The surrounding area is the central universe, Havona. Surrounding Havona are the seven superuniverses; they are designated by number; our superuniverse, Orvonton, is number seven. The four outermost areas are the four outer space levels._ (See [Appendix III., Space Levels of the Master Universe](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_3).)
 
 ## § 2. Universe Space Levels
 
@@ -63,7 +63,7 @@ Level | Space
 (5) The third outer space level | The Tertiary Space Level
 (6) The fourth outer space level | The Quartan Space Level
 
-In this study we will find the concept of these six space levels to be most helpful to the organization of our thinking. (See [Appendix III., Space Levels of the Master Universe](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_3).)
+In this study we will find the concept of these six space levels to be most helpful to the organization of our thinking. (See [Appendix III., Space Levels of the Master Universe](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_3).)
 
 ## § 3. Universe Ages
 
@@ -78,7 +78,7 @@ The Universe Age | The New Space Level Involved
 (5) The Fifth Universe Age | The Tertiary Space Level
 (6) The Sixth Universe Age | The Quartan Space Level
 
-We will study the growth and development of the master universe, paying particular attention to the sequence of events – how the universe ages synchronize the expansion of the Paradise creative forces and personalities outward into the concentric space levels. (See [Appendix IV., The Universe Ages](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_4).)
+We will study the growth and development of the master universe, paying particular attention to the sequence of events – how the universe ages synchronize the expansion of the Paradise creative forces and personalities outward into the concentric space levels. (See [Appendix IV., The Universe Ages](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_4).)
 
 ## § 4. The scheme of this inquiry
 

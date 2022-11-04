@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_11">Appendix XI. The Post-Supreme Ages</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_13">Appendix XIII. Evolution of Universe Sons and Spirits</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_11">Appendix XI. The Post-Supreme Ages</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_13">Appendix XIII. Evolution of Universe Sons and Spirits</a></td>
       </tr>
     </tbody>
   </table>
@@ -62,17 +62,17 @@ The existence or non-existence of such a mind phase of the Sevenfold is not esse
 
 ## § 3. Expanding function of The Supreme Creators
 
-(See [Appendix IV § 3, God the Sevenfold](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_4#h-3-god-the-sevenfold-in-successive-ages).) There is no question about the expansion of God the Sevenfold in outer space. The three Paradise Deities are just as much concerned with the outer space universes as with Havona and the superuniverses. God the Supreme will be functioning as the Experiential ruler of the grand universe, then in a certain capacity in the master universe, and as a member of the First Experiential Trinity.
+(See [Appendix IV § 3, God the Sevenfold](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_4#h-3-god-the-sevenfold-in-successive-ages).) There is no question about the expansion of God the Sevenfold in outer space. The three Paradise Deities are just as much concerned with the outer space universes as with Havona and the superuniverses. God the Supreme will be functioning as the Experiential ruler of the grand universe, then in a certain capacity in the master universe, and as a member of the First Experiential Trinity.
 
 We are also informed that the progressive settling of the superuniverses in light and life is attended by a withdrawal of the activities of the Supreme Being. [UB 56:7.6](/en/The_Urantia_Book/56#p7_6) Now, if the Supreme Creators are progressively withdrawing from the affairs of the present age, this strongly suggests their ministry will expand in the affairs of the outer space universes in the next universe age.
 
 _The Master Spirits._ When the perfected superuniverses are united under the future administration of God the Supreme, the Master Spirits will continue to be located in the grand universe. [UB 0:10.12](/en/The_Urantia_Book/0#p10_12)
 
-This does not, however, mean they could not act in outer space. We may deduce that they are concerned with those segments of outer space which are correlated with their present spheres of superuniverse jurisdiction. [UB 16:0.11](/en/The_Urantia_Book/16#p0_11) The Supreme Being may administer the grand universe either with or without the collaboration of the Master Spirits. [UB 56:7.9](/en/The_Urantia_Book/56#p7_9) In any event, the collective attributes of the Master Spirits are supreme, ultimate, and supreme-ultimate [UB 16:2.4](/en/The_Urantia_Book/16#p2_4); therefore they have full capacity to function throughout all the growing stages of the master creation. (See [Appendix XIV, Expanding Influence of the Master Spirits](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_14).)
+This does not, however, mean they could not act in outer space. We may deduce that they are concerned with those segments of outer space which are correlated with their present spheres of superuniverse jurisdiction. [UB 16:0.11](/en/The_Urantia_Book/16#p0_11) The Supreme Being may administer the grand universe either with or without the collaboration of the Master Spirits. [UB 56:7.9](/en/The_Urantia_Book/56#p7_9) In any event, the collective attributes of the Master Spirits are supreme, ultimate, and supreme-ultimate [UB 16:2.4](/en/The_Urantia_Book/16#p2_4); therefore they have full capacity to function throughout all the growing stages of the master creation. (See [Appendix XIV, Expanding Influence of the Master Spirits](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_14).)
 
 _The Ancients of Days._ We are informed that, in the next universe age, the Ancients of Days will continue as superuniverse administrators [UB 0:10.12](/en/The_Urantia_Book/0#p10_12), but may be superceded in sovereignty by the Supreme Being. In this event, they would function as his vicegerents. [UB 117:7.14-16](/en/The_Urantia_Book/117#p7_14) It does not appear likely that these Trinity-origin rulers of the supercreations will be directly concerned with the affairs of outer space, but we really do not know. It seems more likely that they will be concerned with the outer-spacers who may be traversing the superuniverses on their way in to Havona and Paradise. [UB 14:6.40](/en/The_Urantia_Book/14#p6_40)
 
-_The Universe Sons and Spirits._ The dual creators of the local universes are concerned, along with the Supreme, in the mobilization of all finite resources for the absonite adventure. [UB 0:10.12](/en/The_Urantia_Book/0#p10_12) It appears that the Universe Sons and Spirits are destined to outer space. It also appears that there will be more than one kind of Creator Son and Creative Spirit in outer space. We advance the theory that there will be three kinds of Sons and Spirits who will be commissioned in the outer universes. (See [Appendix XIII, Evolution of Universe Sons and Spirits](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_13).) Consider the following reasoning:
+_The Universe Sons and Spirits._ The dual creators of the local universes are concerned, along with the Supreme, in the mobilization of all finite resources for the absonite adventure. [UB 0:10.12](/en/The_Urantia_Book/0#p10_12) It appears that the Universe Sons and Spirits are destined to outer space. It also appears that there will be more than one kind of Creator Son and Creative Spirit in outer space. We advance the theory that there will be three kinds of Sons and Spirits who will be commissioned in the outer universes. (See [Appendix XIII, Evolution of Universe Sons and Spirits](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_13).) Consider the following reasoning:
 - _Son-Spirit Creative Trios._ The Creator Sons and Creative Spirits are the beings who have been (or will be) commissioned as the creators of the local universes in the present age, and in the Third Age we believe they will have trinitized a Third Being, a creative associate, by virtue of which they will have become Creative Trios.
 - _Mixed-Age Sons and Spirits._ These are the beings who are created (or, who will be created) in the Second Age, but who will not be commissioned for function until the Third Age.
 - _Third-Age Sons and Spirits._ These beings will be created and will be commissioned for service in the next universe age.
@@ -81,7 +81,7 @@ We have the belief that the junior Sons and Spirits will be assigned for univers
 
 ## § 4. Will The Sevenfold become tenfold in Outer Space?
 
-In [Appendix XV](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_15), note is made of the possible significance of the number ten in relation to the functions of the Supreme Being. We believe that God the Sevenfold may possibly become tenfold in the expanded service of the outer space creations. Certainly the absonite approach to the Universal Father is going to include some features not presently encountered in the finite approach. Consider then, a possible tenfold structure of that which is now sevenfold.
+In [Appendix XV](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15), note is made of the possible significance of the number ten in relation to the functions of the Supreme Being. We believe that God the Sevenfold may possibly become tenfold in the expanded service of the outer space creations. Certainly the absonite approach to the Universal Father is going to include some features not presently encountered in the finite approach. Consider then, a possible tenfold structure of that which is now sevenfold.
 
 God the Tenfold | The Tenfold Controllers
 --- | ---
@@ -106,9 +106,9 @@ _Association of Force Organizers and Power Directors._ There is warrant in the P
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_11">Appendix XI. The Post-Supreme Ages</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_13">Appendix XIII. Evolution of Universe Sons and Spirits</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_11">Appendix XI. The Post-Supreme Ages</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_13">Appendix XIII. Evolution of Universe Sons and Spirits</a></td>
       </tr>
     </tbody>
   </table>

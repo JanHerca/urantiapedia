@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_3">Appendix III. Space Levels of the Master Universe</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_5">Appendix V. Dual-Deity in the Universe Ages</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_3">Appendix III. Space Levels of the Master Universe</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_5">Appendix V. Dual-Deity in the Universe Ages</a></td>
       </tr>
     </tbody>
   </table>
@@ -22,7 +22,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 Author: **William S. Sadler, Jr.**
 
-The Papers inform us that time and space are associated as a mechanism of the master universe. [UB 118:9.1](/en/The_Urantia_Book/118#p9_1) The major space divisions of the master creation are the six space levels. ([Appendix III](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_3)) The major time divisions of the master universe are the six universe ages – the age of Havona, the age of the superuniverses, and the four ages of the outer space levels. [UB 15:3.18](/en/The_Urantia_Book/15#p3_18) We are now living in the Second Universe Age, the age of the superuniverses.
+The Papers inform us that time and space are associated as a mechanism of the master universe. [UB 118:9.1](/en/The_Urantia_Book/118#p9_1) The major space divisions of the master creation are the six space levels. ([Appendix III](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_3)) The major time divisions of the master universe are the six universe ages – the age of Havona, the age of the superuniverses, and the four ages of the outer space levels. [UB 15:3.18](/en/The_Urantia_Book/15#p3_18) We are now living in the Second Universe Age, the age of the superuniverses.
 
 Each of the six universe ages seems to be associated with the opening and the development of a new space level. This relationship between universe ages and space levels is tabulated below:
 1. The First Universe Age – the Havona space level
@@ -32,14 +32,14 @@ Each of the six universe ages seems to be associated with the opening and the de
 5. The Fifth Universe Age – the third outer space level
 6. The Sixth Universe Age – the fourth outer space level
 
-We do conceive of an age after the Sixth Universe Age, but such an era would have to do with developments after the completion of the master universe. (See [Appendix XX, The Post-Ultimate Age](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_20).)
+We do conceive of an age after the Sixth Universe Age, but such an era would have to do with developments after the completion of the master universe. (See [Appendix XX, The Post-Ultimate Age](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_20).)
 
 ## § 1. Succession and Relationships of Universe Ages
 
-In our study of the antecedents of the master universe ([Appendix I](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_1)), we went as far back in past eternity as we could – back to, and within, a hypothetical Zero Age. There never was such an age; it is not a factual reality, although it is a very valid concept. The Papers speak of this hypothetical era as "the dawn of eternity." [UB 31:9.3](/en/The_Urantia_Book/31#p9_3) It provides a conceptual starting point for a consideration of the beginnings of cosmic history. As we understand the usage of the term, "the dawn of eternity" designates the hypothetical beginning of a universe age that had no beginning – the age of Havona.
+In our study of the antecedents of the master universe ([Appendix I](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_1)), we went as far back in past eternity as we could – back to, and within, a hypothetical Zero Age. There never was such an age; it is not a factual reality, although it is a very valid concept. The Papers speak of this hypothetical era as "the dawn of eternity." [UB 31:9.3](/en/The_Urantia_Book/31#p9_3) It provides a conceptual starting point for a consideration of the beginnings of cosmic history. As we understand the usage of the term, "the dawn of eternity" designates the hypothetical beginning of a universe age that had no beginning – the age of Havona.
 
 - (a) _The First Universe Age._ This is the age of Havona. The First Age, like the central universe, is a past eternal; it has no beginning in time. This age is unique in other respects: It is pre-supreme and pre-ultimate, hence, pre-experiential. [UB 0:9.5](/en/The_Urantia_Book/0#p9_5) Being pre-experiential, the First Age is wholly existential. [UB 0:7.2](/en/The_Urantia_Book/0#p7_2) It is the only such age.
-  The First Universe Age would also appear to be pre-creative and pre-evolutional. For example: the Havona natives are spoken of as "the offspring of the Paradise Trinity." But, in the same paragraph, they are designated as "beings who never were created." [UB 14:4.10](/en/The_Urantia_Book/14#p4_10) Since the affairs of First-Age Havona were entirely existential, they would have to be pre-evolutional. (See also, Appendix I § 1, The First Universe Age; [Appendix VI § 3, Paradoxes in the Status of Havona](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_6#h-3-paradoxes-in-the-status-of-havona), and [§ 4, The Existential Mechanism](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_6#h-4-the-existential-mechanism).)
+  The First Universe Age would also appear to be pre-creative and pre-evolutional. For example: the Havona natives are spoken of as "the offspring of the Paradise Trinity." But, in the same paragraph, they are designated as "beings who never were created." [UB 14:4.10](/en/The_Urantia_Book/14#p4_10) Since the affairs of First-Age Havona were entirely existential, they would have to be pre-evolutional. (See also, Appendix I § 1, The First Universe Age; [Appendix VI § 3, Paradoxes in the Status of Havona](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6#h-3-paradoxes-in-the-status-of-havona), and [§ 4, The Existential Mechanism](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6#h-4-the-existential-mechanism).)
   The First Universe Age had no beginning, but it does have an ending. It ended when the present universe age began. Perhaps this was at the time of the creation of the Ancients of Days [UB 18:3.4](/en/The_Urantia_Book/18#p3_4), or the time of the Trinity mandate directing the organization of the seven superuniverses. [UB 19:7.1](/en/The_Urantia_Book/19#p7_1)
 - (b) _The post-Havona ages._ This term is often used to designate the five ages that follow the age of Havona. It is used because these five ages have much in common. All five have beginnings and endings in time; only the First Age is a past eternal.
   All post-Havona ages are experiential. Experiential deity is actualizing in the post-Havona epochs of the master universe. [UB 0:7.1](/en/The_Urantia_Book/0#p7_1) These ages appear to be characterized by a two-way procession of ascenders and descenders. In the present universe age, the Supreme Creators and their associates are descending from Paradise to the time-space creations and the evolutionary creatures are ascending from these same creations in the Paradise ascent. [UB 115:6.5](/en/The_Urantia_Book/115#p6_5) In the next age, the finaliters will be associated with others who will serve in outer space [UB 31:10.11](/en/The_Urantia_Book/31#p10_11) and it is anticipated that outer-spacers will be ascending to Paradise through the perfected superuniverses. [UB 56:7.9](/en/The_Urantia_Book/56#p7_9)
@@ -83,7 +83,7 @@ _The Supreme Being_
 > 
 > [UB 31:10.11](/en/The_Urantia_Book/31#p10_11) The evolutionary growth of the Supreme and creature participation therein is limited to the present age.
 > 
-> [Appendix VII § 4, The Growth of the Supreme, Growth in the Second Age](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_7#h-4-the-growth-of-the-supreme-growth-in-the-present-age).
+> [Appendix VII § 4, The Growth of the Supreme, Growth in the Second Age](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_7#h-4-the-growth-of-the-supreme-growth-in-the-present-age).
 
 _The Experiential Trinities_
 
@@ -166,9 +166,9 @@ _God the Absolute_
 ## § 3. God The Sevenfold in successive ages
 
 The universe relations of the existential Paradise Deities are not changed by the experiential developments in the universes. [UB 56:7.3](/en/The_Urantia_Book/56#p7_3) We will, therefore, consider the effects of the universe ages on God the Sevenfold as it pertains to the Supreme Creators – Master Spirits, Ancients of Days, and Creator Sons. For further references to God the Sevenfold, please see:
-- [Appendix XII Expansion of God the Sevenfold](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_12)
-- [Appendix XIII Evolution of Universe Sons and Spirits](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_13)
-- [Appendix XIV Expanding Influence of the Master Spirits](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_14)
+- [Appendix XII Expansion of God the Sevenfold](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_12)
+- [Appendix XIII Evolution of Universe Sons and Spirits](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_13)
+- [Appendix XIV Expanding Influence of the Master Spirits](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_14)
 
 The Papers have the following general comments to make with reference to the functions, and the expanding functions, of God the Sevenfold:
 
@@ -585,9 +585,9 @@ Deduction: Finaliters have the capacity to continue to grow in the post-ultimate
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_3">Appendix III. Space Levels of the Master Universe</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_5">Appendix V. Dual-Deity in the Universe Ages</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_3">Appendix III. Space Levels of the Master Universe</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_5">Appendix V. Dual-Deity in the Universe Ages</a></td>
       </tr>
     </tbody>
   </table>

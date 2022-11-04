@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_16">Appendix XVI. Space and Mass Magnitudes of the Master Universe</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_18">Appendix XVIII. The Nature of God The Ultimate</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_16">Appendix XVI. Space and Mass Magnitudes of the Master Universe</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_18">Appendix XVIII. The Nature of God The Ultimate</a></td>
       </tr>
     </tbody>
   </table>
@@ -22,7 +22,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 Author: **William S. Sadler, Jr.**
 
-The Papers have less to say about time magnitudes than space magnitudes of the master universe, but enough data is given to make possible some reasonable calculation. We can work out the age of an old Uversa native, then the age of Orvonton, then the time-span of the Second Universe Age. After that, we can apply space magnitudes (see [Appendix XVI](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_16)) to time magnitudes and make something better than an uncalculated guess as to the time-spans of the post-supreme ages of the universes of outer space.
+The Papers have less to say about time magnitudes than space magnitudes of the master universe, but enough data is given to make possible some reasonable calculation. We can work out the age of an old Uversa native, then the age of Orvonton, then the time-span of the Second Universe Age. After that, we can apply space magnitudes (see [Appendix XVI](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_16)) to time magnitudes and make something better than an uncalculated guess as to the time-spans of the post-supreme ages of the universes of outer space.
 
 ## § 1. Calculation of the age of a very old native of Uversa
 
@@ -129,7 +129,7 @@ Perhaps the most indicative figure that we have is the 76 percent for the total 
 
 ## § 4. Proportional time magnitudes of the Outer Space Ages
 
-Our reasoning to this point has established a possible time-span of the Second Universe Age as 50,000 trillions of years. How is this number related to the time-spans of the post-supreme ages of the outer space levels? It is entirely possible that the Second Age is of comparatively short duration when compared with the possible length of the outer space ages. This line of reasoning is based on the calculations that were made in estimating the space magnitudes of the master universe. (See [Appendix XVI § 6, A Summary of Space Magnitudes](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_16#h-6-a-summary-of-space-magnitudes).) In this calculation, we arrived at a ratio of size that worked out as one-to-one-hundred. In other words, as we moved out from the grand universe, each space level was about one hundred times the size of the preceding one (on linear bases of comparison). Starting with the grand universe as having a value of "one" we can tabulate the relative magnitudes of the space levels as follows.
+Our reasoning to this point has established a possible time-span of the Second Universe Age as 50,000 trillions of years. How is this number related to the time-spans of the post-supreme ages of the outer space levels? It is entirely possible that the Second Age is of comparatively short duration when compared with the possible length of the outer space ages. This line of reasoning is based on the calculations that were made in estimating the space magnitudes of the master universe. (See [Appendix XVI § 6, A Summary of Space Magnitudes](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_16#h-6-a-summary-of-space-magnitudes).) In this calculation, we arrived at a ratio of size that worked out as one-to-one-hundred. In other words, as we moved out from the grand universe, each space level was about one hundred times the size of the preceding one (on linear bases of comparison). Starting with the grand universe as having a value of "one" we can tabulate the relative magnitudes of the space levels as follows.
 
 Level | Magnitude
 --- | ---
@@ -157,9 +157,9 @@ It appears likely that the full development of the outer space levels is going t
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_16">Appendix XVI. Space and Mass Magnitudes of the Master Universe</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_18">Appendix XVIII. The Nature of God The Ultimate</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_16">Appendix XVI. Space and Mass Magnitudes of the Master Universe</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_18">Appendix XVIII. The Nature of God The Ultimate</a></td>
       </tr>
     </tbody>
   </table>

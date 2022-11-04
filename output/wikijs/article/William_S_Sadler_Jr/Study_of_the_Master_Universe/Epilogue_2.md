@@ -14,7 +14,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
       <tr>
         <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_1">First Epilogue – The Final Universe Age</a></td>
         <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_3">Third Epilogue – After the Ending of Endings - We end, as we began, with the Infinite</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_3">Third Epilogue – After the Ending of Endings</a></td>
       </tr>
     </tbody>
   </table>
@@ -23,12 +23,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 Author: **William S. Sadler, Jr.**
 
 The trinitization of God the Absolute, and the massive break-through into the Cosmos Infinite, opens unending vistas of growth and progress beyond the confines of the master universe – out into the final expanse of the limitless universe. The breaching of The Barrier of Infinity opens all future eternity to endless specula­tion; so much so, that it becomes needful to build some conceptual dykes lest we be flooded by a veritable ocean of speculative and subjunctive possibilities – “ifs” – that could go on and on into final absurdity. In an effort to make the Final Age and the Cosmos Infinite somewhat intelligible we propose to establish three concept-bound­aries to our thinking:
-
-_Stage One._ The first stage of the Cosmos Infinite we identify with its inner­most zone, that part of the endless universe that factualizes (actualizes) as a reper­cussion of the trinitized appearance of God the Absolute. We also associate this phase of development with the Dual-Deity association of the Supreme-Ultimate.
-
-_Stage Two._ We visualize the second stage of the Cosmos Infinite as an intermedi­ate stage of development, a stage following the factualization of the innermost zone. This phase of intermediate development may, or may not, have an end, a conclusion. We associate “stage two” with the Dual-Deity partnership of the Ultimate-Absolute.
-
-_Stage Three._ This final stage of the expansive growth of the never-ending cosmos may be a purely theoretical consideration. However, if it never becomes a _factual reality_, it still may be a _valid concept_. We associate this final stage with the final associa­tion of Dual-Deity, the association of Absolute and Father-Infinite – the “completion” of the cycle of reality.
+- _Stage One._ The first stage of the Cosmos Infinite we identify with its inner­most zone, that part of the endless universe that factualizes (actualizes) as a reper­cussion of the trinitized appearance of God the Absolute. We also associate this phase of development with the Dual-Deity association of the Supreme-Ultimate.
+- _Stage Two._ We visualize the second stage of the Cosmos Infinite as an intermedi­ate stage of development, a stage following the factualization of the innermost zone. This phase of intermediate development may, or may not, have an end, a conclusion. We associate “stage two” with the Dual-Deity partnership of the Ultimate-Absolute.
+- _Stage Three._ This final stage of the expansive growth of the never-ending cosmos may be a purely theoretical consideration. However, if it never becomes a _factual reality_, it still may be a _valid concept_. We associate this final stage with the final associa­tion of Dual-Deity, the association of Absolute and Father-Infinite – the “completion” of the cycle of reality.
 
 What we are trying to do, in establishing these classifications of three stages of progress, is to create some framework for thinking about the endless universe. It is conceptually unimportant as to whether there are three, or seven, or a million divisions. We elect three classifications because it is the minimum number that will accommodate the presentation of the concept of beginnings, intermediaries, and destinies – of inception, realization, and consummation.
 
@@ -177,7 +174,7 @@ Since we will never find God as infinite, it seems likely we will continue to �
       <tr>
         <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_1">First Epilogue – The Final Universe Age</a></td>
         <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_3">Third Epilogue – After the Ending of Endings - We end, as we began, with the Infinite</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_3">Third Epilogue – After the Ending of Endings</a></td>
       </tr>
     </tbody>
   </table>

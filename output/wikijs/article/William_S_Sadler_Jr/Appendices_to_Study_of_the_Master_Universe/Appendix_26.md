@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_25">Appendix XXV. The Trinitized Nature of God The Absolute</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_27">Appendix XXVII. Growth of the Cosmos Infinite</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_25">Appendix XXV. The Trinitized Nature of God The Absolute</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_27">Appendix XXVII. Growth of the Cosmos Infinite</a></td>
       </tr>
     </tbody>
   </table>
@@ -109,7 +109,7 @@ But this Dual-Deity association also seems to have an extra-master universe scop
 
 We believe that the Dual-Deity association of the Supreme-Ultimate will form sometime after the close of the Sixth Universe Age. We submit that the Papers offer ample evidence for the function of this Dual-Deity throughout the completed master universe. We submit that Dual-Deity will also function in the Cosmos Infinite and this will constitute the initial linkage between the nuclear master creation and the cytoplasmic peripheral universe of infinity. We have the further belief that the Supreme-Ultimate will be the first of the Dual-Deity partnerships to be active in the Cosmos Infinite, much as the Father-Son partnership took the initiative in the production of the original universe, the central creation.
 
-We are informed that the Personalized Adjusters are destined to minister in the realms ". . . of the Ultimate, the Supreme-Ultimate, even to the levels of the Ultimate-Absolute." [UB 109:7.5](/en/The_Urantia_Book/109#p7_5) Here we encounter something that lies, unexpectedly, beyond the Supreme-Ultimate. Is the Ultimate-absolute a new Dual-Deity association that will develop somewhere in the far distant reaches of the Cosmos Infinite? ([Appendix V § 6](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_5#h-6-dual-deity-in-the-post-ultimate-age))
+We are informed that the Personalized Adjusters are destined to minister in the realms ". . . of the Ultimate, the Supreme-Ultimate, even to the levels of the Ultimate-Absolute." [UB 109:7.5](/en/The_Urantia_Book/109#p7_5) Here we encounter something that lies, unexpectedly, beyond the Supreme-Ultimate. Is the Ultimate-absolute a new Dual-Deity association that will develop somewhere in the far distant reaches of the Cosmos Infinite? ([Appendix V § 6](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_5#h-6-dual-deity-in-the-post-ultimate-age))
 
 <br>
 
@@ -118,9 +118,9 @@ We are informed that the Personalized Adjusters are destined to minister in the 
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_25">Appendix XXV. The Trinitized Nature of God The Absolute</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_27">Appendix XXVII. Growth of the Cosmos Infinite</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_25">Appendix XXV. The Trinitized Nature of God The Absolute</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_27">Appendix XXVII. Growth of the Cosmos Infinite</a></td>
       </tr>
     </tbody>
   </table>

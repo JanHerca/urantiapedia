@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_9">Appendix IX. The Chronology of Local Universes</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_11">Appendix XI. The Post-Supreme Ages</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_9">Appendix IX. The Chronology of Local Universes</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_11">Appendix XI. The Post-Supreme Ages</a></td>
       </tr>
     </tbody>
   </table>
@@ -133,7 +133,7 @@ _The Corps of Master Architects._ The Architects are superpersons — all 28,011
 
 Perhaps we can best visualize this second member as the impersonal corporative unification of the entire Architect Corps. If we need to conceive of a "voice" for this corporative entity, we might think of the Senior Architect as symbolic of the "Chairman of the Board," hence spokesman for that deity-entity which might be named "United Master Architects, Incorporated," the second member of the Trinity Ultimate.
 
-If we had some difficulty visualizing the second member of the Trinity Ultimate, we can anticipate still more difficulty attempting to picture the third member of this trinity. The Architect Corps is an ever-existent body of universe planners [UB 31:8.3](/en/The_Urantia_Book/31#p8_3); the Corps of the Supreme Creators is an evolutionary body — the members have an origin in time. This Corps of Supreme Creators is (as yet) an unfinished group of Paradise-origin beings; not all Universe Sons and Spirits have been commissioned as organizers of local universes. [UB 15:2.25](/en/The_Urantia_Book/15#p2_25); [Appendix XVII § 3](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_17#h-3-the-time-span-of-the-second-universe-age))
+If we had some difficulty visualizing the second member of the Trinity Ultimate, we can anticipate still more difficulty attempting to picture the third member of this trinity. The Architect Corps is an ever-existent body of universe planners [UB 31:8.3](/en/The_Urantia_Book/31#p8_3); the Corps of the Supreme Creators is an evolutionary body — the members have an origin in time. This Corps of Supreme Creators is (as yet) an unfinished group of Paradise-origin beings; not all Universe Sons and Spirits have been commissioned as organizers of local universes. [UB 15:2.25](/en/The_Urantia_Book/15#p2_25); [Appendix XVII § 3](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_17#h-3-the-time-span-of-the-second-universe-age))
 
 _The Corps of Supreme Creators._ If we add the numbers of the Supreme Creators, and tabulate the Creative Spirits along with the Creator Sons, it comes to a total of 1,428,040 creative persons. The third member of the Trinity Ultimate cannot possibly be nearly a million-and-a-half persons; this third member is a single, unified, deity-entity of some kind. Since the Papers give us little or no guidance regarding the derivation of this deity-entity, we must resort to the resources of logic in the attempt to visualize some reasonable manner in which such deity-entity could be evolved — a deity-entity that would be expressive of the unified divinity of the entire Corps of the Supreme Creators. Only deity is conjoined in trinity, and only by deity-unification could the Supreme Creators, as a corporative collective, function as the third member of this trinity.
 
@@ -220,9 +220,9 @@ We know that the Trinity Ultimate is less than infinite because it embraces "der
 - (b) Its own experiential unification [UB 0:12.8](/en/The_Urantia_Book/0#p12_8) (We should not forget that Deity unity in the post-Havona creations "is an achievement." [UB 56:5.4](/en/The_Urantia_Book/56#p5_4))
 - (c) The power-personalization of the Ultimate [UB 0:12.6](/en/The_Urantia_Book/0#p12_6)
 
-We advance the theory that these goals will be achieved in four broad stages and each of these stages will be associated with the invasion, the exploration, the development, and the final settling, of one of the outer space levels. There are four of these outer space levels and the conquest of each should be attended by corresponding progress in the co-ordination of the master universe, the unification of the Trinity Ultimate, and the emergence (the power-personalization) of God the Ultimate. Apparently all three goals will be simultaneously attained at the close of the Sixth Universe Age, the final development and settling of the Quartan Space Level, and the final emergence of God the Ultimate. ([Appendix XVIII § 1](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_18#h-1-emergence-of-the-ultimate))
+We advance the theory that these goals will be achieved in four broad stages and each of these stages will be associated with the invasion, the exploration, the development, and the final settling, of one of the outer space levels. There are four of these outer space levels and the conquest of each should be attended by corresponding progress in the co-ordination of the master universe, the unification of the Trinity Ultimate, and the emergence (the power-personalization) of God the Ultimate. Apparently all three goals will be simultaneously attained at the close of the Sixth Universe Age, the final development and settling of the Quartan Space Level, and the final emergence of God the Ultimate. ([Appendix XVIII § 1](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_18#h-1-emergence-of-the-ultimate))
 
-We know that trinity functions always encompass the realities of deity, that such deity realities always tend to personalize [UB 0:12.4](/en/The_Urantia_Book/0#p12_4), that the Trinity Ultimate is going to become completely unified [UB 0:12.4](/en/The_Urantia_Book/0#p12_4), and such completion of unification will result in the power-personalization of God the Ultimate. [UB 0:12.6](/en/The_Urantia_Book/0#p12_6) How will this happen? We simply do not know. The post-Havona creators (the Supreme Creators) are involved in this process [UB 0:10.12](/en/The_Urantia_Book/0#p10_12), and God the Ultimate is a personal participant in it. [UB 0:12.4](/en/The_Urantia_Book/0#p12_4) But the actual mechanics involved in the power-personalization of the Ultimate are not described in the Papers. (Nevertheless, see [Appendix XXII § 7 - 9](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_22#h-7-the-absonite-level-pre-supreme-status))
+We know that trinity functions always encompass the realities of deity, that such deity realities always tend to personalize [UB 0:12.4](/en/The_Urantia_Book/0#p12_4), that the Trinity Ultimate is going to become completely unified [UB 0:12.4](/en/The_Urantia_Book/0#p12_4), and such completion of unification will result in the power-personalization of God the Ultimate. [UB 0:12.6](/en/The_Urantia_Book/0#p12_6) How will this happen? We simply do not know. The post-Havona creators (the Supreme Creators) are involved in this process [UB 0:10.12](/en/The_Urantia_Book/0#p10_12), and God the Ultimate is a personal participant in it. [UB 0:12.4](/en/The_Urantia_Book/0#p12_4) But the actual mechanics involved in the power-personalization of the Ultimate are not described in the Papers. (Nevertheless, see [Appendix XXII § 7 - 9](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_22#h-7-the-absonite-level-pre-supreme-status))
 
 ## § 6. Footnote: Trinity and Triunity Gestalts
 
@@ -290,9 +290,9 @@ The Paradise Trinity and the Trinity Ultimate can have a two-way "relationship."
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_9">Appendix IX. The Chronology of Local Universes</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_11">Appendix XI. The Post-Supreme Ages</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_9">Appendix IX. The Chronology of Local Universes</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_11">Appendix XI. The Post-Supreme Ages</a></td>
       </tr>
     </tbody>
   </table>

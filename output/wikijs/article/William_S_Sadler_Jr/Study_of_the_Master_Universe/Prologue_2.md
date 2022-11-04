@@ -114,11 +114,11 @@ _Thesis upon thesis of Deity Reality_. God does not synthesize Paradise and the 
 
 _The non-synthesis of Actual Reality_. If we had not been told about this, we might have expected that God would have synthesized the spirit Son with non-spirit Paradise. This would have produced a balanced situation. Actuals (Eternal Son, Paradise, and Infinite Spirit) would have been synthesized just like Potentials (Unqualified Absolute, Universal Absolute, and Deity [Qualified] Absolute). We could not have foretold that God would unite himself with the Son, in the Spirit, and as the Trinity. (This produces an artistic asymmetry that stands in contrast to a mathematical, or a mechanical, symmetrical balance. It is the difference between putting a dot in the exact center of a rectangle, and locating it somewhat off-center. God as an artist, evidently takes precedence of God as an engineer.)
 
-When God does unify a part of Actual Reality, he causes this association to include Deity only. He does not synthesize all Actual Reality, he limits this unifica­tion to Actual Deity Reality. God leaves Paradise out. Since Paradise is left out of this existential synthesis, it presents a problem for all of God’s later-appearing associates and subordinates of experiential status. (See [Appendix XXII., § 2. Why does Power-Personality Synthesis Take Place?](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_22#h-2-why-does-power-personality-synthesis-take-place))
+When God does unify a part of Actual Reality, he causes this association to include Deity only. He does not synthesize all Actual Reality, he limits this unifica­tion to Actual Deity Reality. God leaves Paradise out. Since Paradise is left out of this existential synthesis, it presents a problem for all of God’s later-appearing associates and subordinates of experiential status. (See [Appendix XXII., § 2. Why does Power-Personality Synthesis Take Place?](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_22#h-2-why-does-power-personality-synthesis-take-place))
 
 And now, at last, we have reached the “dawn” of eternity at the close of the Zero Age, and the beginning of factual reality in the First Age of the master universe – the age of Havona.
 
-(For general references to the Papers in support of this Prologue, see [Appendix I., Master Universe Antecedents](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_1).)
+(For general references to the Papers in support of this Prologue, see [Appendix I., Master Universe Antecedents](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_1).)
 
 <br>
 

@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_10">Appendix X. The First Experiential Trinity</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_12">Appendix XII. Expansion of God The Sevenfold</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_10">Appendix X. The First Experiential Trinity</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_12">Appendix XII. Expansion of God The Sevenfold</a></td>
       </tr>
     </tbody>
   </table>
@@ -22,7 +22,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 Author: **William S. Sadler, Jr.**
 
-This Appendix will not deal with the subject of experiential growth in the post-supreme ages; this is the subject matter of [Appendix VII, The Mechanisms of Experiential Growth](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_7). It is the purpose of this Appendix to attempt to bring together what we are told and what we may conjecture about the post-supreme ages. These are the four ages of the four outer space levels, the "outer universes." They are the third, fourth, fifth, and sixth universe ages. The developments of these ages also involve the central universe and the superuniverses, the "inner universes," for these older creations will participate in post-supreme growth along with the outer space levels.
+This Appendix will not deal with the subject of experiential growth in the post-supreme ages; this is the subject matter of [Appendix VII, The Mechanisms of Experiential Growth](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_7). It is the purpose of this Appendix to attempt to bring together what we are told and what we may conjecture about the post-supreme ages. These are the four ages of the four outer space levels, the "outer universes." They are the third, fourth, fifth, and sixth universe ages. The developments of these ages also involve the central universe and the superuniverses, the "inner universes," for these older creations will participate in post-supreme growth along with the outer space levels.
 
 As we visualize these post-supreme ages, they will be characterized by certain broad activities: The great outsurge of the personalities of the grand universe in the opening of the outer space creations; the quest for God the Ultimate, the emerging experiential deity of these ages; and the absonite quest for the Universal Father which will bring the great insurge of personalities, old and new, through the superuniverses and Havona to Paradise in the transcendental attempt to find, and to know, the Universal Father as Ultimate. [UB 17:5.14](/en/The_Urantia_Book/17#p5_14) The quest for the Father as Supreme takes a long time; the quest for the Father as Ultimate will likely take very much longer.
 
@@ -62,7 +62,7 @@ _The superuniverses in the Third Age._ We presume that there may be a "quiet tim
 
 To the outer-spacers, Orvonton will be as new and strange as Havona to the pilgrims of the present age. The superuniverses will attain the settled status of light and life by a long evolutionary process that is predicated on finite experience — and finite experience is something that will be entirely missing as concerns the creatures native to the outer space creations. [UB 31:10.11](/en/The_Urantia_Book/31#p10_11)
 
-There is another form of growth that may characterize Orvonton in the earlier epochs of the Third Age. This is lateral growth, growth in relation to other superuniverses. With the complete removal of all superuniverse boundaries (1292.9-10) 117:7.15-16 it will be possible for the culture of Orvonton to commingle with that of the six other supercreations. This is a post-supreme synthesis of the original diversity imposed by the Seven Master Spirits. [UB 16:5.1](/en/The_Urantia_Book/16#p5_1) and [Appendix XIV § 1 - 3](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_14#h-1-the-principle-of-divergence-convergence))
+There is another form of growth that may characterize Orvonton in the earlier epochs of the Third Age. This is lateral growth, growth in relation to other superuniverses. With the complete removal of all superuniverse boundaries (1292.9-10) 117:7.15-16 it will be possible for the culture of Orvonton to commingle with that of the six other supercreations. This is a post-supreme synthesis of the original diversity imposed by the Seven Master Spirits. [UB 16:5.1](/en/The_Urantia_Book/16#p5_1) and [Appendix XIV § 1 - 3](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_14#h-1-the-principle-of-divergence-convergence))
 
 _Nebadon in the Third Age._ Our local universe is undoubtedly a typical creation and our speculations concerning its status in the Third Age would likely apply to any local universe. Concerning the affairs of Nebadon in the next universe age, we venture the following:
 
@@ -80,7 +80,7 @@ Suppose, in the Third Age, death came to an end as a technique for terrestrial e
 
 The question is raised as to whether the Third-Age "mortals" (beings lacking all finite experience) would still be destined to the finaliter corps. [UB 55:6.10](/en/The_Urantia_Book/55#p6_10) Would "mortals" still be Adjuster-, Son-, and Spirit-fused? They could still be Adjuster-fused, but hardly Son-, or Spirit-fused; the Creator Son is no longer present to endow mortals with his spirit. [UB 40:8.3](/en/The_Urantia_Book/40#p8_3) The Creative Spirit is also absent, and presumably could not endow such mortals with her spirit. [UB 40:9.3](/en/The_Urantia_Book/40#p9_3) Some entirely new order of mortal progression would undoubtedly supercede the method of the previous universe age.
 
-_The impact of the outer space citizens._ As the Third Age progresses we can visualize the local universes, the superuniverses, and the central universe as swarming with the in-moving pilgrims from outer space. If our conception of the relative size of the outer space levels is at all reasonable (see [Appendix XVI](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_16)) then this in-pouring torrent of outer-spacers will grow larger and larger as progressively larger segments of the outer regions are opened. At some future time the outer space pilgrims are going to outnumber the native beings in the grand universe. Later on they may outnumber them by a very great margin.
+_The impact of the outer space citizens._ As the Third Age progresses we can visualize the local universes, the superuniverses, and the central universe as swarming with the in-moving pilgrims from outer space. If our conception of the relative size of the outer space levels is at all reasonable (see [Appendix XVI](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_16)) then this in-pouring torrent of outer-spacers will grow larger and larger as progressively larger segments of the outer regions are opened. At some future time the outer space pilgrims are going to outnumber the native beings in the grand universe. Later on they may outnumber them by a very great margin.
 
 ## § 2. The Two Trinities in Outer Space
 
@@ -90,7 +90,7 @@ For the very first time in the development of the master universe there are two 
 > 
 > [UB 106:4.1](/en/The_Urantia_Book/106#p4_1) The Paradise Trinity now co-ordinates ultimate existences, but it does all this as a self-qualified absolute. The First Experiential Trinity will co-ordinate transcendentals as a transcendental.
 
-Here are two significant differences: The action of the Paradise Trinity is an attenuation of absoluteness (it also is the action of an existential trinity); the action of the Trinity Ultimate is experiential and is not an attenuation of anything (this trinity is an absonite entity and it is dealing with absonite realities). Will the expanding function and the increasing unification of the First Experiential Trinity be attended by a corresponding withdrawal of the function of the Paradise Trinity? We surmise this is what will happen. (See [Appendix X, The First Experiential Trinity](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_10).)
+Here are two significant differences: The action of the Paradise Trinity is an attenuation of absoluteness (it also is the action of an existential trinity); the action of the Trinity Ultimate is experiential and is not an attenuation of anything (this trinity is an absonite entity and it is dealing with absonite realities). Will the expanding function and the increasing unification of the First Experiential Trinity be attended by a corresponding withdrawal of the function of the Paradise Trinity? We surmise this is what will happen. (See [Appendix X, The First Experiential Trinity](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_10).)
 
 ## § 3. The Supreme in the Inner and the Outer Universes
 
@@ -111,7 +111,7 @@ In the Third and subsequent ages the Supreme will still be functioning in the in
 In the outer space ages, we project a picture of possible threefold function of the Supreme Being: He is still operating in Havona in the spiritual sense; he is still functioning as almighty sovereign of the grand universe; and he has developed some new function, or functions, that spread out over the whole master universe. What is this new function, or functions?
 
 We may examine the three speculations that are offered us in the Papers:
-- (a) _The "third level of Deity manifestation."_ This statement is difficult to interpret unless it refers to some relationship with God the Absolute. We are informed that God the Absolute ". . . is the third level of unifying Deity expression and expansion." Such relationship on the part of the Supreme would seem to involve the Ultimate and would suggest collaboration in the Second Experiential Trinity. (See [Appendix XIX, The Second Experiential Trinity](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_19).) We do not feel that the Trinity of Trinities is involved, since this trinity seems to be extra-master-universe in function. (Nevertheless, see [Appendix XXIV, The Third Experiential Trinity](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_24).)
+- (a) _The "third level of Deity manifestation."_ This statement is difficult to interpret unless it refers to some relationship with God the Absolute. We are informed that God the Absolute ". . . is the third level of unifying Deity expression and expansion." Such relationship on the part of the Supreme would seem to involve the Ultimate and would suggest collaboration in the Second Experiential Trinity. (See [Appendix XIX, The Second Experiential Trinity](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_19).) We do not feel that the Trinity of Trinities is involved, since this trinity seems to be extra-master-universe in function. (Nevertheless, see [Appendix XXIV, The Third Experiential Trinity](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_24).)
 - (b) _The Supreme as super-Almighty._ This suggests an extension of the present function of the Supreme as sovereign of the superuniverses, as a being of power. Perhaps the Supreme will in some manner be active in the administration of the outer creations. Perhaps this is one of the ways the Supreme will collaborate with the Spirit in outer space.
 - (c) _An unknown potential of mind._ The third speculation offered in the Papers concerns the expression of some latent potential of mind. Concerning the Supreme Mind we are informed as follows:
   > [UB 115:4.7](/en/The_Urantia_Book/115#p4_7) It was bestowed by the Conjoint Actor and serves to unify the power of the Almighty with the spirit person of the Supreme.
@@ -120,15 +120,15 @@ We may examine the three speculations that are offered us in the Papers:
   > 
   > [UB 0:3.14](/en/The_Urantia_Book/0#p3_14) The actualizing Supreme Mind focalizes in Majeston as a time-space experience.
 
-In [Appendix XII § 2](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_12#h-2-is-there-a-mind-aspect-of-god-the-sevenfold?), Is there a Mind Aspect (to the present function) of God the Sevenfold? we raise the question of a possible sevenfold association that may culminate in the actualization of the mind of Supremacy.
+In [Appendix XII § 2](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_12#h-2-is-there-a-mind-aspect-of-god-the-sevenfold?), Is there a Mind Aspect (to the present function) of God the Sevenfold? we raise the question of a possible sevenfold association that may culminate in the actualization of the mind of Supremacy.
 
 We may be sure the Supreme Being will be quite active in the four ages of the outer universes. This study ventures the thought that he will be active in all three categories we have considered: as a collaborator in the third level of deity manifestation, as a sovereign of expanded power, and as an active expression of some new level of mind function (or mind ministry).
 
-The Supreme Being will be an active participant in the postfinite growth adventure, and will benefit from the growth potentials of the post-supreme ages. These are the ages when personalities are participating in the master-universe growth experience with the Ultimate. (See [Appendix VII § 6, Post-Supreme Growth; Growth in the Outer Universes](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_7#h-6-post-supreme-growth-in-the-outer-universes).)
+The Supreme Being will be an active participant in the postfinite growth adventure, and will benefit from the growth potentials of the post-supreme ages. These are the ages when personalities are participating in the master-universe growth experience with the Ultimate. (See [Appendix VII § 6, Post-Supreme Growth; Growth in the Outer Universes](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_7#h-6-post-supreme-growth-in-the-outer-universes).)
 
 ## § 4. The Spirit and The Supreme
 
-In [Appendix V, Association of Dual-Deity](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_5), we developed a principle that seems to have a good deal to do with the assignment of the universe administrators. The Dual-Deity associations seem to function out on the creative frontier. As these "frontier universes" are settled, becoming "inner creations" in relation to new "outer universes," the Dual-Deity administrators seem to give way to Trinity-origin administrators. Perhaps the Dual-Deity (and single-origin) administrators then move on to the creative frontier in the new outer universes.
+In [Appendix V, Association of Dual-Deity](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_5), we developed a principle that seems to have a good deal to do with the assignment of the universe administrators. The Dual-Deity associations seem to function out on the creative frontier. As these "frontier universes" are settled, becoming "inner creations" in relation to new "outer universes," the Dual-Deity administrators seem to give way to Trinity-origin administrators. Perhaps the Dual-Deity (and single-origin) administrators then move on to the creative frontier in the new outer universes.
 
 The Father-Son partnership inaugurates the First Age, the Age of Havona, and immediately becomes a Trinity administration of the perfect central creation. The Son-Spirit partnership of the Second Age will eventually produce 700,000 perfected local universes and then will give way to the more extensive functioning of the Trinity-origin administrators. [UB 23:4.4](/en/The_Urantia_Book/23#p4_4) In light of this probable principle of universe administration, this shift from Dual-Deity to Trinity, consider this statement:
 
@@ -144,16 +144,16 @@ If this principle of "Dual-Deity on the creative frontier" is valid, are we to e
 > 
 > [UB 16:2.3](/en/The_Urantia_Book/16#p2_3) The Master Spirits distribute the Infinite Spirit to extra-Havona universes.
 
-We find it difficult to visualize the further extension of the collaboration of the Infinite Spirit and the Supreme in outer space. If the Supreme is active in the outer universes, we are sure that he will collaborate with the very influential presences of the Master Spirits. (See [Appendix XIV, Expanding Influence of the Master Spirits](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_14).) There could be, possibly, some new liaison with the Creative Spirits in outer space, but this is also difficult to visualize. We are, however, quite sure all of these Spirits will be active in the outer universes.
+We find it difficult to visualize the further extension of the collaboration of the Infinite Spirit and the Supreme in outer space. If the Supreme is active in the outer universes, we are sure that he will collaborate with the very influential presences of the Master Spirits. (See [Appendix XIV, Expanding Influence of the Master Spirits](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_14).) There could be, possibly, some new liaison with the Creative Spirits in outer space, but this is also difficult to visualize. We are, however, quite sure all of these Spirits will be active in the outer universes.
 
 ## § 5. God The Sevenfold in the Outer Universes
 
 A full discussion of the projected function of God the Sevenfold in outer space is covered in the Appendices:
-- [Appendix XII Future Expansion of God the Sevenfold](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_12)
-- [Appendix XIII Evolution of Universe Sons and Spirits](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_13)
-- [Appendix XIV Expanding Influence of the Master Spirits](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_14)
+- [Appendix XII Future Expansion of God the Sevenfold](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_12)
+- [Appendix XIII Evolution of Universe Sons and Spirits](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_13)
+- [Appendix XIV Expanding Influence of the Master Spirits](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_14)
 
-This study submits that God the Sevenfold will be intensely active in the outer creations and will be expanded in scope and function. The Universe Sons and Spirits are visualized as operating on two or three experiential and functional levels. We further project that the Master Spirits will continue to impart new combinations of their unique sevenfold natures to the environmental coloration of the principal segments of those outer space creations. ([Appendix XV § 1 - 2](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_15#h-1-the-relationships-of-certain-numbers))
+This study submits that God the Sevenfold will be intensely active in the outer creations and will be expanded in scope and function. The Universe Sons and Spirits are visualized as operating on two or three experiential and functional levels. We further project that the Master Spirits will continue to impart new combinations of their unique sevenfold natures to the environmental coloration of the principal segments of those outer space creations. ([Appendix XV § 1 - 2](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15#h-1-the-relationships-of-certain-numbers))
 
 ## § 6. Finaliters and others in the Outer Creations
 
@@ -178,7 +178,7 @@ _The growth of finaliters._ We are informed [UB 31:3.6](/en/The_Urantia_Book/31#
 - (b) Creature service
 - (c) Attainment of experiential deity.
 
-We know that our experience of growth in the present universe age has to do with the development of the first three (of seven) dimensions of personality, and that the next three dimensions (fourth, fifth, and sixth) are presently completely dormant, being reserved for absonite growth. [UB 112:1.9](/en/The_Urantia_Book/112#p1_9) It appears likely that, by far, the most of our growth will be post-supreme, and the entire story of the mortal ascent to Paradise and of finaliter service in the grand universe, is in the larger sense, just the beginning — a sort of kindergarten in relation to the higher and vaster levels of education and service that lie beyond the circumscribing horizons of the present universe age. (See [Appendix IV § 8-B, Finaliters in the Post-Supreme Ages](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_4#h-8-b-finaliters-in-the-post-supreme-ages).)
+We know that our experience of growth in the present universe age has to do with the development of the first three (of seven) dimensions of personality, and that the next three dimensions (fourth, fifth, and sixth) are presently completely dormant, being reserved for absonite growth. [UB 112:1.9](/en/The_Urantia_Book/112#p1_9) It appears likely that, by far, the most of our growth will be post-supreme, and the entire story of the mortal ascent to Paradise and of finaliter service in the grand universe, is in the larger sense, just the beginning — a sort of kindergarten in relation to the higher and vaster levels of education and service that lie beyond the circumscribing horizons of the present universe age. (See [Appendix IV § 8-B, Finaliters in the Post-Supreme Ages](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_4#h-8-b-finaliters-in-the-post-supreme-ages).)
 
 In the superuniverse administration of the present age, it is necessary to complement the existential wisdom of the Sons of the Paradise Trinity with the experiential wisdom of evolutionary origin in time and space. So do the Perfectors of Wisdom require the complemental wisdom of their ascendant colleagues, the Trinitized Sons of Attainment. But it is believed that the post-supreme finaliters will embody both kinds of wisdom, and if so, they would ". . . become the most effective universe administrators ever to be known in all creation." [UB 19:2.5-6](/en/The_Urantia_Book/19#p2_5)
 
@@ -206,7 +206,7 @@ This lack of finite experience in the cytoplasmic outer universes provides the o
 
 An analogous deficiency characterizes the present age. [UB 31:10.12-14](/en/The_Urantia_Book/31#p10_12) Superuniverse natives — particularly human beings — are completely devoid of that divine perfection which is so characteristic of the creatures of Havona and Paradise. Our imperfection is a challenge to these perfect beings, beings who were created in that perfection which is our distant goal. Our present need is their opportunity for enhanced service. And in this service they break through an otherwise-impassable barrier to growth that is inherent in created perfection. Evolutionary growth can be superimposed on even created perfection.
 
-In [Appendix IV § 1 (d), Expansion of Destiny in the Successive Ages](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_4#h-1-succession-and-relationships-of-universe-ages), we observe that each new age enables the inhabitants of the preceding age to rise above the previous limits of growth. Havona adds evolutionary growth to the limitations of eternal perfection. In the present universe age, the superuniverses are limited to the status of settlement in light and life, but they will undoubtedly break through this limit to new levels of destiny in the post-supreme ages of the future.
+In [Appendix IV § 1 (d), Expansion of Destiny in the Successive Ages](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_4#h-1-succession-and-relationships-of-universe-ages), we observe that each new age enables the inhabitants of the preceding age to rise above the previous limits of growth. Havona adds evolutionary growth to the limitations of eternal perfection. In the present universe age, the superuniverses are limited to the status of settlement in light and life, but they will undoubtedly break through this limit to new levels of destiny in the post-supreme ages of the future.
 
 <br>
 
@@ -214,9 +214,9 @@ In [Appendix IV § 1 (d), Expansion of Destiny in the Successive Ages](/en/artic
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_10">Appendix X. The First Experiential Trinity</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Appendix_12">Appendix XII. Expansion of God The Sevenfold</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_10">Appendix X. The First Experiential Trinity</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_12">Appendix XII. Expansion of God The Sevenfold</a></td>
       </tr>
     </tbody>
   </table>
