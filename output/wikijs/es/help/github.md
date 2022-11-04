@@ -49,13 +49,12 @@ El proceso a seguir para el «Editor Jefe» será el siguiente:
   - https://github.com/JanHerca/urantiapedia-backup
 2. Crea una copia local de los proyectos en su PC. La copia local debe ser de la última versión del contenido de la *Urantiapedia* (la rama master). Esto se hace primero con una acción *clone* y luego con acciones *pull* contra los proyectos, lo que descarga cualquier cambio a nuestra copia local.
 3. Realiza los cambios que desea en la copia local del proyecto Urantiapedia a los archivos que se indican en este manual y del modo en como se indica. Realiza *commits* a su copia local.
-4. Envía cambios parciales (aún no listos para subir a la web) a su proyecto Urantiapedia en GitHub mediante acciones *push*.
-5. Cuando tiene un conjunto de cambios que desea subir a la web, sincroniza el proyecto Urantiapedia con el proyecto Urantiapedia-backup y sube los cambios de ambos a sus proyectos mediante acciones *push*.
-6. Realiza entonces un *pull request* desde la web de GitHub para ambos proyectos: Urantiapedia y Urantiapedia-backup. 
-7. Estos *pull request* de los «Editores Jefe» son revisados por los «Administradores», que se encargan de hacer un *merge* con la rama principal (master) de todos aquellos cambios que estén correctos. Cualquier cambio que no esté correcto será rechazado y se notificará a los «Editores Jefe» para que los corrijan.
-8. Cuando los cambios están correctos y el «Administrador» hace un *merge* los cambios se suben automáticamente a la web y suelen estar disponibles en unos minutos dependiendo del número de cambios y su tipo.
+4. Envía cambios parciales (aún no listos para subir a la web) a su proyecto *Urantiapedia* en GitHub mediante acciones *push*. Cuando tiene un conjunto de cambios que desea subir a la web, sincroniza el proyecto local *Urantiapedia* con el proyecto local *Urantiapedia-backup* y sube los cambios de ambos a sus proyectos en GitHub mediante acciones *push*.
+5. Realiza entonces un *pull request* desde la web de GitHub para ambos proyectos: *Urantiapedia* y *Urantiapedia-backup*. 
+6. Estos *pull request* de los «Editores Jefe» son revisados por los «Administradores», que se encargan de hacer un *merge* con la rama principal (master) de todos aquellos cambios que estén correctos. Cualquier cambio que no esté correcto será rechazado y se notificará a los «Editores Jefe» para que los corrijan.
+7. Cuando los cambios están correctos y el «Administrador» hace un *merge* los cambios se suben automáticamente a la web y suelen estar disponibles en unos minutos dependiendo del número de cambios y su tipo.
 
-![](/image/github_workflow.png)
+![](/image/github_workflow_version_2.png)
 ## Configurar el proyecto Urantiapedia
 
 Antes de cualquier trabajo en la *Urantiapedia* usando GitHub debes configurar todas las herramientas necesarias. Consulta [Configurar el proyecto de GitHub](/es/help/github_setting).

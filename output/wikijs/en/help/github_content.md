@@ -129,6 +129,9 @@ output
 
 All the folders indicated above for `output` folder is created using *Urantiapedia Tools*, that expect some folders to exist in `output` folder.
 
+> Due to some problems when saving articles in English at the same time through the website and through GitHub, the articles folder in English is not inside the `en` subfolder (the folder for all English content). Instead, it is located in `output \ wikijs \ article`, in the same level as each language folders. This don't affect the rest of languages. In a future, this problem will be solved and articles folder in English will return inside `en` subfolder.
+{.is-warning}
+
 ## External links
 
 - [Urantiapedia Tools - GitHub project](https://github.com/JanHerca/urantiapedia)

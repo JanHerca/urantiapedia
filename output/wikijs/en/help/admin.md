@@ -47,19 +47,16 @@ This manual is intended for users called *administrators*, or *admins* for short
 ## GitHub workflow
 
 The process will be as follows:
-1. "Chief Editor" creates a *fork* (a copy in its own account) of *Urantiapedia* project on GitHub: https://github.com/JanHerca/urantiapedia.
-2. "Chief Editor" creates a local copy of the project on PC. The local copy must be of the latest version of *Urantiapedia* content (the master branch). This is done first through a *clone* action and later through *pulls* actions to the project, that downloads any change to the local copy.
+1. "Chief Editor" creates a *fork* (a copy in its own account) of *Urantiapedia* project on GitHub (https://github.com/JanHerca/urantiapedia) and *Urantia-backup* project on GitHub (https://github.com/JanHerca/urantiapedia-backup). The first is a project that contains all the files. The second contains only the files that are synchronized with the *Urantiapedia* website.
+2. "Chief Editor" creates a local copy of both projects on PC. The local copy must be of the latest version of *Urantiapedia* content (the master branch). This is done first through a *clone* action and later through *pulls* actions to the project, that downloads any change to the local copy.
 3. "Chief Editor" makes changes in the local copy to the files indicated in this manual and in the way explained. "Chief Editor" makes commmits to the local copy.
-4. "Chief Editor" sends changes to GitHub through a *push*. 
-5. "Chief Editor" performs a *pull request* in GitHub web. 
+4. "Chief Editor" sends changes to his GitHub account through a *push* action. 
+5. "Chief Editor" performs a *pull request* in GitHub web to the original projects. 
 6. The *pull requests* of "Chief Editors" are reviewed by "Administrators", who are in charge of doing a *merge* with the main branch (master) of all those changes that are correct. Any changes that are not correct will be rejected and "Chief Editors" will be notified to fix them.
-7. When changes that are OK "Administrator" do a *pull* to download changes to the own copy.
-8. "Administrator" converts files from [Urantiapedia](https://github.com/JanHerca/urantiapedia) repo to files in Wiki.js format (HTML) using *Urantiapedia Tools* and copy them to [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) repo. This project is a synced copy with *Urantiapedia* website.
-9. "Administrator" uploads changes to remote [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) repo.
-10. *Urantiapedia* website is synced automatically. Now changes are visible to all, in order to check and validate that they are correct.
-11. The process is repeated as many times as needed, returning to point 3.
+7. When changes that are OK and "Administrator" has done the merge, any changes to the *Urantiapedia-backup* project are automatically synchronized with the website. Now changes are visible to all, in order to check and validate that they are correct.
+8. The process is repeated as many times as needed, returning to point 2.
 
-![](/image/github_workflow.png)
+![](/image/github_workflow_version_2.png)
 
 ## Setting up the *Urantiapedia* project
 

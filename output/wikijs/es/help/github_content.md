@@ -129,6 +129,9 @@ output
 
 Todas las carpetas indicadas arriba para la carpeta `output` se crean usando las *Urantiapedia Tools*, que esperan que ciertas carpetas existan en la carpeta `output`.
 
+> Debido a algunos problemas al guardar artículos en inglés al mismo tiempo a través del sitio web y de GitHub, la carpeta de artículos en inglés no está dentro de la subcarpeta `en` (la carpeta para todo el contenido en inglés). En su lugar, se encuentra en `output \ wikijs \ article`, en el mismo nivel que las carpetas de cada idioma. Esto no afecta al resto de idiomas. En un futuro, este problema se resolverá y la carpeta de artículos en inglés volverá a estar dentro de la subcarpeta `en`.
+{.is-warning}
+
 ## Enlaces externos
 
 - [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)

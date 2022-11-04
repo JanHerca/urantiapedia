@@ -49,13 +49,12 @@ The process for a “Chief Editor” will be as follows:
   - https://github.com/JanHerca/urantiapedia-backup
 2. Creates a local copy of the projects on PC. The local copy must be of the latest version of *Urantiapedia* content (the master branch). This is done first through a *clone* action and later through *pulls* actions to the projects, that downloads any change to the local copy.
 3. Makes changes in the local copy of the Urantiapedia project to the files indicated in this manual and in the way explained. He or she makes commmits to the local copy.
-4. Sends partical changes (not ready to be uploaded to the web) to Urantiapedia project in GitHub through a *push*. 
-5. When there is a set of changes ready for the web , synchronizes the Urantiapedia project with Urantiapedia-backup project and upload changes through a *push*. 
-6. Then creates a *pull requests* from the GitHub websote for both projects: Urantiapedia and Urantiapedia-backup.
-7. This *pull requests* of “Chief Editors” are reviewed by “Administrators”, who are in charge of doing a *merge* with the main branch (master) of all those changes that are correct. Any changes that are not correct will be rejected and “Chief Editors” will be notified to fix them.
-8. When changes are OK an “Administrator” do a *merge* of them and they are uploaded automatically to the web. They are usually available in a few minutes depending on the number of changes and their type.
+4. Sends partial changes (not ready to be uploaded to the web) to *Urantiapedia* project in GitHub through a *push*. When there is a set of changes ready for the web, synchronizes the local *Urantiapedia* project with local *Urantiapedia-backup* project and upload changes in GitHub through a *push*. 
+5. Then creates a *pull requests* from the GitHub website for both projects: *Urantiapedia* and *Urantiapedia-backup*.
+6. This *pull requests* of “Chief Editors” are reviewed by “Administrators”, who are in charge of doing a *merge* with the main branch (master) of all those changes that are correct. Any changes that are not correct will be rejected and “Chief Editors” will be notified to fix them.
+7. When changes are OK an “Administrator” do a *merge* of them and they are uploaded automatically to the web. They are usually available in a few minutes depending on the number of changes and their type.
 
-![](/image/github_workflow.png)
+![](/image/github_workflow_version_2.png)
 
 ## Setting up the *Urantiapedia* project
 

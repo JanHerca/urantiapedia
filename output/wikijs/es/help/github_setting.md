@@ -137,6 +137,20 @@ Como *Urantiapedia* es el esfuerzo de un equipo de colaboradores, es común que 
 5. En el panel "Source control", ve al subpanel "Remotes". Debes tener un repositorio remoto listado allí llamado `JanHerca/urantiapedia`. Haz click en el botón "Fetch" al lado del nombre. Esta acción recupera y envía cambios al mismo tiempo para sincronizar el repositorio local.
 6. A veces, los cambios en el código de las "Urantiapedia Tools" implican cambios en las dependencias. Debes instalar o actualizar nuevas dependencias ejecutando el comando `npm install` desde una terminal en VS Code. Esto actualizará las dependencias del proyecto.
 
+
+## Resumen
+
+En resumen, el proceso en GitHub es el siguiente (ver el diagrama):
+1. El «Editor jefe» crea un *fork* (una copia en su propia cuenta) de los proyectos *Urantiapedia* en GitHub: *Urantiapedia* y *Urantiapedia-backup*.
+2. El «Editor Jefe» crea una copia local de los proyectos en su PC. Esto se hace primero a través de una acción *clone* y luego a través de acciones *fetch upstream* en la web de GitHub y a través de acciones *pull* a los proyectos locales, que descargan cualquier cambio en la copia local.
+3. El «Editor jefe» realiza cambios en la copia local de los proyectos y hace *commits* en la copia local.
+4. El «Editor jefe» envía cambios a los proyectos de GitHub a través de acciones *push*.
+5. Luego, el «Editor jefe» crea *pull requests* desde el sitio web de GitHub para ambos proyectos: *Urantiapedia* y *Urantiapedia-backup*.
+6. Estos *pull requests* de los «Editores Jefe» son revisados por un «Administrador», quien se encargan de hacer un *merge* con la rama principal (master) de todos aquellos cambios que sean correctos. Cualquier cambio que no sea correcto será rechazado y se notificará a los «Editores Jefe» para que los corrijan.
+7. Cuando los cambios son correctos, el «Administrador» hace un *merge* de ellos y se sincronizan automáticamente con la web.
+
+![](/image/github_workflow_version_2.png)
+
 ## Enlaces externos
 
 - [Urantiapedia Tools - proyecto en GitHub](https://github.com/JanHerca/urantiapedia)
