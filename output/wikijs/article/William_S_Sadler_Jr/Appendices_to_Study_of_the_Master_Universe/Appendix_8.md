@@ -3,7 +3,7 @@ title: "A Study of the Master Universe — Appendix VIII. Transformative Techniq
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
-tags: Astronomy
+tags: astronomy, cosmology, study aid, bill sadler
 editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
@@ -182,7 +182,7 @@ This kind of "repeating trinitization" seems to be the sole prerogative of the P
 - (b) The resulting offspring is not the equal of the trinitizing Deities.
 - (c) The Paradise Deities can engage in an unlimited number of such trinitizing actions. [UB 22:7.3](/en/The_Urantia_Book/22#p7_3)
 
-We offer the opinion that "unlimited trinitization" is the transformative technique involved in the origin of the unrevealed Deity-trinitized Sons. (243.2, 5) 22:0.2, 5
+We offer the opinion that "unlimited trinitization" is the transformative technique involved in the origin of the unrevealed Deity-trinitized Sons. [UB 22:0.2,5](/en/The_Urantia_Book/22#p0_2)
 
 _"Trinitize" used loosely as a synonym for "create."_ The Papers tell us that Trinity-origin beings and trinitized beings are not the same. [UB 13:2.3](/en/The_Urantia_Book/13#p2_3) But this statement is made by a Perfector of Wisdom in explaining why he does not regard Vicegerington as his home. (ibid) Regardless, the word "trinitized" is used in reference to the appearance of the Trinity-origin beings, as in the statement, "The Ancients of Days were all trinitized at the same time." [UB 18:3.4](/en/The_Urantia_Book/18#p3_4) To cite another instance involving the same group: the full name of the Secrets of Supremacy is the "Trinitized Secrets of Supremacy." [UB 18:1.1](/en/The_Urantia_Book/18#p1_1) Now, these Secrets of Supremacy are the first order [UB 18:0.2](/en/The_Urantia_Book/18#p0_2), and the Ancients of Days are the third order [UB 18:0.4](/en/The_Urantia_Book/18#p0_4) of the Supreme Trinity Personalities — and this group is spoken of as being "created." [UB 18:0.1](/en/The_Urantia_Book/18#p0_1) We offer the opinion that the word "trinitize" is sometimes broadly used to designate a certain type of creative act, or the equivalent of such a creative act, by any two of the Paradise Deities, or by all three — either functioning as three Deity-persons or as the Trinity.
 
@@ -201,7 +201,7 @@ _The original trinitization._ In this connection, the "technique of trinitizatio
 
 _Trinitization by the Universe Sons and Spirits._ The Papers speculate that the Creator Sons (as Master Michaels, the seventh-stage of sovereignty) and the Creative Spirits (in the seventh-stage of existence) will trinitize — probably at the end of the present universe age. [UB 56:7.7](/en/The_Urantia_Book/56#p7_7) When these two creative beings presently create, they produce creatures — subordinate beings. In the distant future, if they trinitize, we believe they will produce another creator — a co-ordinate being. We do not believe that such a Creator Son and Creative Spirit will ever again repeat this trinitizing action — within the concept-limits of the master universe. ([Appendix XIII § 3, Son-Spirit Creative Trios](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_13#h-3-son-spirit-creative-trios).)
 
-_Creature trinitization_ offers a very good example of "limited trinitization." It is axiomatic that a creature cannot create anything; but some creatures are able to engage in the adventure of trinitization, thus bringing into existence the three major orders of the creature-trinitized sons. (251.2-4) 22:7.12-13 When two qualified creatures engage in the act of trinitization, it is a typical example of what we have designated "limited trinitization," and will stand examination on the following three counts that seem to be characteristic of this kind of trinitization:
+_Creature trinitization_ offers a very good example of "limited trinitization." It is axiomatic that a creature cannot create anything; but some creatures are able to engage in the adventure of trinitization, thus bringing into existence the three major orders of the creature-trinitized sons. [UB 22:7.12-13](/es/The_Urantia_Book/22#p7_12) When two qualified creatures engage in the act of trinitization, it is a typical example of what we have designated "limited trinitization," and will stand examination on the following three counts that seem to be characteristic of this kind of trinitization:
 - (a) The parental beings are united in some manner. They experience a union (spiritual bi-unification) that will last for the duration of the present universe age. [UB 22:7.7](/en/The_Urantia_Book/22#p7_7)
 - (b) The trinitized offspring is the equal of his parents in status. The two parental beings are creatures, their trinitized offspring is also a creature, hence he is their equal in creature status.
 - (c) The parental beings can never repeat this trinitization. We are informed that the two trinitizing creatures can perform this act only once. [UB 22:7.3](/en/The_Urantia_Book/22#p7_3)
@@ -234,7 +234,7 @@ We have classified the creature-trinitized sons as post-supreme and post-ultimat
 Let us now trace out the assignments, the functions, and the presently known destinies of these two groups of creature-trinitized sons — post-supreme sons and post-ultimate sons.
 
 - (c) _Post-supreme sons._ These creature-trinitized sons are the offspring of a homogenous pair — two perfect beings or two perfected beings. (251.2-3) 22:7.12-13 They are assigned for service in the grand universe as follows:
-  > [UB 22:11.2-3](/en/The_Urantia_Book/22#p11_2) _On the inner Havona circuit_ where ". . . they are being prepared for some future work . . ." and where the sons of the Paradise Citizens and the sons of the finaliters learn confraternity — the brotherhood of mutual under?standing.
+  > [UB 22:11.2-3](/en/The_Urantia_Book/22#p11_2) _On the inner Havona circuit_ where ". . . they are being prepared for some future work . . ." and where the sons of the Paradise Citizens and the sons of the finaliters learn confraternity — the brotherhood of mutual understanding.
   > 
   > [UB 17:1.7-8](/en/The_Urantia_Book/17#p1_7) _On the Paradise worlds of the Spirit_, where they serve the Seven Supreme Executives in the co-ordination of superuniverse affairs.
   > 
@@ -270,7 +270,7 @@ _Event_ is, in part, defined (in Webster) as follows: "The fact of taking place 
 
 These definitions give us some idea of the general meanings, in English, of the verb "eventuate" and of its root-noun, "event." Now, how is the word "eventuate" used in the Papers? The following meanings attach to it in the Papers:
 
-> [UB 30:1.92](/en/The_Urantia_Book/30#p1_92) / (333.1) 30.1.93 It designates the origin of beings who "are neither creators nor creatures." They are also designated as "uncreated noncreators."
+> [UB 30:1.92-93](/en/The_Urantia_Book/30#p1_92) It designates the origin of beings who "are neither creators nor creatures." They are also designated as "uncreated noncreators."
 > 
 > [UB 30:1.99](/en/The_Urantia_Book/30#p1_99) / [UB 31:7.4](/en/The_Urantia_Book/31#p7_4) / [UB 30:1.92](/en/The_Urantia_Book/30#p1_92) As a person, God creates; as a superperson, he eventuates. The beings who are eventuated are absonite superpersonalities. They are named ". . . the _eventuated_ children of divinity, ultimacy, and eternity."
 > 

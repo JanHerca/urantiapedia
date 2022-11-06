@@ -3,7 +3,7 @@ title: "A Study of the Master Universe — Appendix XVII. Time Magnitudes of the
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
-tags: Astronomy
+tags: astronomy, cosmology, study aid, bill sadler
 editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---

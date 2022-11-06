@@ -3,7 +3,7 @@ title: "A Study of the Master Universe — Appendix VII. Mechanisms of Experient
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
-tags: Astronomy
+tags: astronomy, cosmology, study aid, bill sadler
 editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
@@ -163,7 +163,7 @@ Does the growth pattern of the evolutionary Supreme completely pervade the grand
 The inhabitants of the present grand universe appear to classify into four major division as they are related to the typical evolutionary growth characteristic of the Second Age — growth with and in the Supreme Being.
 - (a) _Status as of the previous universe age._ Those beings who classify in this category include many of the Trinity-origin beings, like the Stationary Sons of the Trinity, together with their Trinity-embraced associates. These beings are outside the sphere of evolutionary growth; the Divine Counselors do not grow, neither do Mighty Messengers. [UB 117:12.4](/en/The_Urantia_Book/117#p12_4)
 - (b) _Status as of the present universe age._ This category obviously includes most of the personalities of the seven superuniverses — creatures like human beings, midwayers, seraphim, and others — beings who are in and of the present age and who are fully participating in the evolutionary growth of the Supreme Being. [UB 117:2.5](/en/The_Urantia_Book/117#p2_5) This classification also includes creators, such as the local universe Sons and Spirits. [UB 116:4.8](/en/The_Urantia_Book/116#p4_8) And finally, this group even includes central-universers, such as the Havona natives who have become participants in the growth cycle of the Second Universe Age. [UB 14:4.15-16](/en/The_Urantia_Book/14#p4_15); [UB 31:1.2](/en/The_Urantia_Book/31#p1_2)
-- (c) _Status as of the post-supreme ages._ Beings in this category include the creature-trinitized sons; they are in, but not of, the present universe age. They are non-growing in the present age, being held in reserve for growth of a post-supreme nature in future ages. (251.1-4) 22:7.11-14; [UB 22:8.6](/en/The_Urantia_Book/22#p8_6); [UB 117:2.3](/en/The_Urantia_Book/117#p2_3)
+- (c) _Status as of the post-supreme ages._ Beings in this category include the creature-trinitized sons; they are in, but not of, the present universe age. They are non-growing in the present age, being held in reserve for growth of a post-supreme nature in future ages. [UB 22:7.11-14](/en/The_Urantia_Book/22#p7_11); [UB 22:8.6](/en/The_Urantia_Book/22#p8_6); [UB 117:2.3](/en/The_Urantia_Book/117#p2_3)
 - (d) _Status as of the post-ultimate age._ The only beings we know who fall in this category are the Trinitized Sons of Destiny. They are super-creational (hence post-ultimate) and represent a level of values in the master universe having to do with the sometime function of the Supreme-Ultimate in the master creation. [UB 22:7.14](/en/The_Urantia_Book/22#p7_14) The nature of these Sons of Destiny is so very far removed from the present affairs of the grand universe that they are withdrawn from all activities therein and are segregated on Vicegerington. [UB 22:7.10](/en/The_Urantia_Book/22#p7_10)
 
 This is the picture of the overlap of all four growth techniques: The First Age type of non-growth, involving the existential mechanism — the age of non-growing Havona perfection. The Second Age type of growth, the age of grand universe participation in the evolutionary growth of the Supreme Being and including all finite-growing creatures and creators. The post-supreme type of growth, including those beings who are not growing at present because they "are not in the Supreme" in the sense of sharing his growth; beings held in reserve in order to participate in the post-supreme growth of the outer space universes. And finally, the post-ultimate beings whose natures are so remote from the affairs of the present age that they are non-participating in the events of the grand universe.
@@ -212,7 +212,7 @@ We know what post-supreme growth will not be. It will not be the kind of growth 
 > 
 > [UB 117:2.7](/en/The_Urantia_Book/117#p2_7) They will have a post-supreme capacity for growth which will be based on the fact of the completed Supreme Being, and will accordingly not have participated in the growth of the Supreme.
 > 
-> [UB 0:7.4-5](/en/The_Urantia_Book/0#p7_4)(10.9-10) 0:7.4-5 Post-supreme growth will be experiential in nature.
+> [UB 0:7.4-5](/en/The_Urantia_Book/0#p7_4) Post-supreme growth will be experiential in nature.
 > 
 > [UB 0:4.5](/en/The_Urantia_Book/0#p4_5) It will be evolutionary (eventuational) in nature. God the Ultimate is now "evolving."
 > 

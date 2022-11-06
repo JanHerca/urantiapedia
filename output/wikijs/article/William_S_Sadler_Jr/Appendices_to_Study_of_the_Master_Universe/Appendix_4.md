@@ -3,7 +3,7 @@ title: "A Study of the Master Universe — Appendix IV. The Universe Ages"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
-tags: Astronomy
+tags: astronomy, cosmology, study aid, bill sadler
 editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
@@ -39,7 +39,7 @@ We do conceive of an age after the Sixth Universe Age, but such an era would hav
 In our study of the antecedents of the master universe ([Appendix I](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_1)), we went as far back in past eternity as we could – back to, and within, a hypothetical Zero Age. There never was such an age; it is not a factual reality, although it is a very valid concept. The Papers speak of this hypothetical era as "the dawn of eternity." [UB 31:9.3](/en/The_Urantia_Book/31#p9_3) It provides a conceptual starting point for a consideration of the beginnings of cosmic history. As we understand the usage of the term, "the dawn of eternity" designates the hypothetical beginning of a universe age that had no beginning – the age of Havona.
 
 - (a) _The First Universe Age._ This is the age of Havona. The First Age, like the central universe, is a past eternal; it has no beginning in time. This age is unique in other respects: It is pre-supreme and pre-ultimate, hence, pre-experiential. [UB 0:9.5](/en/The_Urantia_Book/0#p9_5) Being pre-experiential, the First Age is wholly existential. [UB 0:7.2](/en/The_Urantia_Book/0#p7_2) It is the only such age.
-  The First Universe Age would also appear to be pre-creative and pre-evolutional. For example: the Havona natives are spoken of as "the offspring of the Paradise Trinity." But, in the same paragraph, they are designated as "beings who never were created." [UB 14:4.10](/en/The_Urantia_Book/14#p4_10) Since the affairs of First-Age Havona were entirely existential, they would have to be pre-evolutional. (See also, Appendix I § 1, The First Universe Age; [Appendix VI § 3, Paradoxes in the Status of Havona](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6#h-3-paradoxes-in-the-status-of-havona), and [§ 4, The Existential Mechanism](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6#h-4-the-existential-mechanism).)
+  The First Universe Age would also appear to be pre-creative and pre-evolutional. For example: the Havona natives are spoken of as "the offspring of the Paradise Trinity." But, in the same paragraph, they are designated as "beings who never were created." [UB 14:4.10](/en/The_Urantia_Book/14#p4_10) Since the affairs of First-Age Havona were entirely existential, they would have to be pre-evolutional. (See also, [Appendix I § 1, The First Universe Age](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_1#h-1-the-first-universe-age); [Appendix VI § 3, Paradoxes in the Status of Havona](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6#h-3-paradoxes-in-the-status-of-havona), and [§ 4, The Existential Mechanism](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6#h-4-the-existential-mechanism).)
   The First Universe Age had no beginning, but it does have an ending. It ended when the present universe age began. Perhaps this was at the time of the creation of the Ancients of Days [UB 18:3.4](/en/The_Urantia_Book/18#p3_4), or the time of the Trinity mandate directing the organization of the seven superuniverses. [UB 19:7.1](/en/The_Urantia_Book/19#p7_1)
 - (b) _The post-Havona ages._ This term is often used to designate the five ages that follow the age of Havona. It is used because these five ages have much in common. All five have beginnings and endings in time; only the First Age is a past eternal.
   All post-Havona ages are experiential. Experiential deity is actualizing in the post-Havona epochs of the master universe. [UB 0:7.1](/en/The_Urantia_Book/0#p7_1) These ages appear to be characterized by a two-way procession of ascenders and descenders. In the present universe age, the Supreme Creators and their associates are descending from Paradise to the time-space creations and the evolutionary creatures are ascending from these same creations in the Paradise ascent. [UB 115:6.5](/en/The_Urantia_Book/115#p6_5) In the next age, the finaliters will be associated with others who will serve in outer space [UB 31:10.11](/en/The_Urantia_Book/31#p10_11) and it is anticipated that outer-spacers will be ascending to Paradise through the perfected superuniverses. [UB 56:7.9](/en/The_Urantia_Book/56#p7_9)
@@ -246,7 +246,7 @@ Deduction: They all are going to serve together in outer space.
 ## § 4. Havona – yesterday, today, and tomorrow
 
 A study of Havona, in relation to the universe ages, falls conveniently into four divisions:
-- § 4.-A Havona in the First Age (See also Appendix I § 1)
+- § 4.-A Havona in the First Age (See also [Appendix I § 1](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_1#h-1-the-first-universe-age))
 - § 4-B Havona in the Second Age
 - § 4-C Havona in the Post-Supreme Ages
 - § 4-D Havona in the Post-Ultimate Age

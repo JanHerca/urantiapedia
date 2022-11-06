@@ -3,7 +3,7 @@ title: "A Study of the Master Universe — Appendix XIII. Evolution of Universe 
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
-tags: Astronomy
+tags: astronomy, cosmology, study aid, bill sadler
 editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
@@ -28,7 +28,7 @@ It is the purpose of this Appendix to assemble what the Papers have to say about
 
 When the Universal Father and the Eternal Son unite in the infinite and total sense, they produce their deity equal — the Infinite Spirit. When the Father and Son continue to explore the subinfinite and subuniversal consequences of their union, they bring into being the order of Michaels — Creator Sons. [UB 7:6.3](/en/The_Urantia_Book/7#p6_3) These Michaels are spoken of as being potentially equal to the Universal Father and the Eternal Son in creative power of a co-ordinate nature. (ibid) They are limited in function only by the pre-existent forces and agencies of Paradise and, in sovereignty, only by the limits of that which they have brought into being. [UB 7:6.4](/en/The_Urantia_Book/7#p6_4) On subinfinite levels, these Michaels appear to be an extension of the original creativity of the Paradise Father-Son. They fully express all the divinity of God and share phases of the absoluteness of God. [UB 4:4.4](/en/The_Urantia_Book/4#p4_4) They are the absolutes of the Father-Son concepts which brought them into being. [UB 21:6.1](/en/The_Urantia_Book/21#p6_1)
 
-In the present age their function is finite. But, it is believed that their potential for future function may be superfinite (242.1-2) 21:6.2-3 and that their service in outer space may witness the liberation of these superfinite potentials for service. [UB 21:6.3](/en/The_Urantia_Book/21#p6_3)
+In the present age their function is finite. But, it is believed that their potential for future function may be superfinite [UB 21:6.2-3](/en/The_Urantia_Book/21#p6_2) and that their service in outer space may witness the liberation of these superfinite potentials for service. [UB 21:6.3](/en/The_Urantia_Book/21#p6_3)
 
 When a Creator Son is brought into being by the Paradise Father and Son, the Infinite Spirit simultaneously responds by differentiating within himself that entity who is to become the spirit complement of the Creator Son. [UB 17:6.3](/en/The_Urantia_Book/17#p6_3) This complemental spirit must have the full capacity to grow along with the associated Creator Son since the Infinite Spirit is possessed of unlimited capacity to respond to creative actions on the part of the Father-Son. In other words, any Universe Spirit is the full complement of the associated Universe Son; her growth potential is the complemental equal of his.
 

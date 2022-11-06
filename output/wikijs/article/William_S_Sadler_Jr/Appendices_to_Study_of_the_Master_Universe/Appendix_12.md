@@ -3,7 +3,7 @@ title: "A Study of the Master Universe — Appendix XII. Expansion of God The Se
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
-tags: Astronomy
+tags: astronomy, cosmology, study aid, bill sadler
 editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
@@ -30,13 +30,13 @@ God the Sevenfold is presented as functioning in two co-ordinated phases: spirit
 
 God the Sevenfold | The Sevenfold Controllers
 --- | ---
-1- Universe Sons and Spirits | 1. The Master Physical Controllers
-2- The Ancients of Days | 2. The Supreme Power Centers
-3- The Seven Master Spirits | 3. The Supreme Power Directors
-4- The Supreme Being | 4. The Almighty Supreme
-5- The Infinite Spirit | 5. The God of Action
-6- The Eternal Son | 6. The Isle of Paradise
-7- The Universal Father | 7. The Source of Paradise
+1- Universe Sons and Spirits | 1- The Master Physical Controllers
+2- The Ancients of Days | 2- The Supreme Power Centers
+3- The Seven Master Spirits | 3- The Supreme Power Directors
+4- The Supreme Being | 4- The Almighty Supreme
+5- The Infinite Spirit | 5- The God of Action
+6- The Eternal Son | 6- The Isle of Paradise
+7- The Universal Father | 7- The Source of Paradise
 
 This dual relationship of spiritual ministry and physical control is unified existentially by the Universal Father and the Conjoint Actor. It is becoming experientially unified in the conjoining of the Almighty and the Supreme by the function of Supreme Mind. It is functionally unified, as concerns the grand universe, in the close association of the Seven Master Spirits and the Seven Supreme Power Directors.
 

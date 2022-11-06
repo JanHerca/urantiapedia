@@ -3,7 +3,7 @@ title: "A Study of the Master Universe — Appendix V. Dual-Deity in the Univers
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
-tags: Astronomy
+tags: astronomy, cosmology, study aid, bill sadler
 editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
@@ -121,7 +121,7 @@ Three of the associations of Dual-Deity appear to be post-master universe and it
 _Footnote: Other Associations of Dual-Deity_
 
 There are three associations of Dual-Deity that are functional in the operations of the seven triunities. [UB 104:3.5](/en/The_Urantia_Book/104#p3_5) They appear in the second, third, and fourth triunities. Let us consider these three examples:
-- (a) _The Father-Son._ This Dual-Deity partnership appears as the first member of the Power-Pattern Triunity, the second triunity. The other two members are the Isle of Paradise and the Conjoint Actor. It is the function of this triunity to impose pattern (system) on total creation. It must be that the Universal Father is, in this relationship, functioning "as the absolute and unqualified personality," hence his inseparability from the Eternal Son. [UB 10:2.1](/en/The_Urantia_Book/10#p2_1)
+- (a) _The Father-Son._ This Dual-Deity partnership appears as the first member of the Power-Pattern Triunity, the second triunity. The other two members are the Isle of Paradise and the Conjoint Actor. It is the function of this triunity to impose pattern (system) on total creation. It must be that the Universal Father is, in this relationship, functioning "_as the absolute and unqualified personality_," hence his _inseparability from the Eternal Son_. [UB 10:2.1](/en/The_Urantia_Book/10#p2_1)
 - (b) _The Son-Spirit._ This Dual-Deity partnership appears as the second member of the Spirit-Evolutional Triunity, the third triunity. The other two members are the Universal Father and the Deity Absolute. This relationship stresses the equality of the relationship of Son and Spirit to the Father [UB 10:3.2](/en/The_Urantia_Book/10#p3_2), and further stresses the fact that active spirit functioning is largely a matter of the operations of the Son and his Sons and the Spirit and his Spirits. The Father is spoken of as existing "before spirit," the Son-Spirit as "active creative spirit," and the Deity Absolute as "beyond spirit."
 - (c) _The Father-Spirit._ This Dual-Deity partnership is something new; we have not encountered it before. It is the first member of the Triunity of Energy Infinity, the fourth triunity. The other two members are the Isle of Paradise and the Unqualified Absolute. The presentation of the triunities is made in the Papers in terms of their sub-ultimate function on the level of supremacy. [UB 104:4.45](/en/The_Urantia_Book/104#p4_45) This being the case, this presentation would pertain to the perspective of the present universe age. We know that Solitarington [UB 13:1.15](/en/The_Urantia_Book/13#p1_15) is the status sphere of Father-Spirit-origin beings, and that Solitary Messengers and the Power Directors enjoy status there. [UB 13:1.16](/en/The_Urantia_Book/13#p1_16) We are further instructed that, while the Father had nothing to do with the origin of these beings, ". . . in this universe age he does have to do with their function." (ibid)
 

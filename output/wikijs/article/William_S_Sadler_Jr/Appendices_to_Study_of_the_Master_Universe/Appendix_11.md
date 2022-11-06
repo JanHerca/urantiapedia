@@ -3,7 +3,7 @@ title: "A Study of the Master Universe — Appendix XI. The Post-Supreme Ages"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
-tags: Astronomy
+tags: astronomy, cosmology, study aid, bill sadler
 editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
@@ -62,7 +62,7 @@ _The superuniverses in the Third Age._ We presume that there may be a "quiet tim
 
 To the outer-spacers, Orvonton will be as new and strange as Havona to the pilgrims of the present age. The superuniverses will attain the settled status of light and life by a long evolutionary process that is predicated on finite experience — and finite experience is something that will be entirely missing as concerns the creatures native to the outer space creations. [UB 31:10.11](/en/The_Urantia_Book/31#p10_11)
 
-There is another form of growth that may characterize Orvonton in the earlier epochs of the Third Age. This is lateral growth, growth in relation to other superuniverses. With the complete removal of all superuniverse boundaries (1292.9-10) 117:7.15-16 it will be possible for the culture of Orvonton to commingle with that of the six other supercreations. This is a post-supreme synthesis of the original diversity imposed by the Seven Master Spirits. [UB 16:5.1](/en/The_Urantia_Book/16#p5_1) and [Appendix XIV § 1 - 3](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_14#h-1-the-principle-of-divergence-convergence))
+There is another form of growth that may characterize Orvonton in the earlier epochs of the Third Age. This is lateral growth, growth in relation to other superuniverses. With the complete removal of all superuniverse boundaries [UB 117:7.15-16](/en/The_Urantia_Book/117#p7_15) it will be possible for the culture of Orvonton to commingle with that of the six other supercreations. This is a post-supreme synthesis of the original diversity imposed by the Seven Master Spirits. [UB 16:5.1](/en/The_Urantia_Book/16#p5_1) and [Appendix XIV § 1 - 3](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_14#h-1-the-principle-of-divergence-convergence))
 
 _Nebadon in the Third Age._ Our local universe is undoubtedly a typical creation and our speculations concerning its status in the Third Age would likely apply to any local universe. Concerning the affairs of Nebadon in the next universe age, we venture the following:
 
