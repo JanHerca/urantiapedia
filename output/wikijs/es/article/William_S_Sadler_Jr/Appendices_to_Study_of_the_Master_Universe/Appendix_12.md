@@ -62,7 +62,7 @@ La existencia o inexistencia de esa fase mental del Séptuple no es esencial par
 
 ## § 3. Las funciones en expansión de los creadores supremos
 
-(Vean el [Apéndice IV § 3, Dios Séptuple](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_4#3-god-the-sevenfold-in-successive-ages).) No hay duda acerca de la expansión de Dios Séptuple en el espacio exterior. Las tres Deidades del Paraíso están tan implicadas con los universos del espacio exterior como con Havona y los superuniversos. Dios Supremo actuará como gobernador experiencial del gran universo, después con un puesto en el universo maestro y como miembro de la primera Trinidad experiencial.
+(Vean el [Apéndice IV § 3, Dios Séptuple](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_4#h-3-dios-séptuple-en-las-eras-sucesivas).) No hay duda acerca de la expansión de Dios Séptuple en el espacio exterior. Las tres Deidades del Paraíso están tan implicadas con los universos del espacio exterior como con Havona y los superuniversos. Dios Supremo actuará como gobernador experiencial del gran universo, después con un puesto en el universo maestro y como miembro de la primera Trinidad experiencial.
 
 También se nos informa de que el establecimiento progresivo de los superuniversos en luz y vida asistirá a una retirada de las actividades de los Creadores Supremos, en asociación con la expansión de las actividades del Ser Supremo. [LU 56:7.6](/es/The_Urantia_Book/56#p7_6) Ahora bien, si los Creadores Supremos se van a retirar progresivamente de los asuntos de la era actual, esto sugiere encarecidamente que su ministerio se expandirá hacia los asuntos de los universos del espacio exterior, en la próxima era del universo.
 

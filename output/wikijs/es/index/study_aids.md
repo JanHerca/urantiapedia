@@ -27,7 +27,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 | Estado                  | Título                                                                                                                  | Autor                 | Etiquetas           |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------- | ------------------- |
-| :white_square_button:   | [Estudio del Universo Maestro](/es/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index)                      | William S. Sadler Jr. | Astronomy           |
+| :ballot_box_with_check: | [Estudio del Universo Maestro](/es/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index)                      | William S. Sadler Jr. | Astronomy           |
 | :ballot_box_with_check: | [Apéndices al Estudio del Universo Maestro](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe) | William S. Sadler Jr. | Astronomy           |
 | :white_square_button:   | Charlas de Bill Sadler                                                                                                  | William S. Sadler Jr. |                     |
 | :white_square_button:   | Sobre la supervivencia humana                                                                                           | William S. Sadler Jr. |                     |
