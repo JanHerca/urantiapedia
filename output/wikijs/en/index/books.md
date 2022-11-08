@@ -87,7 +87,7 @@ dateCreated: 2022-09-27T13:55:38.362Z
 - _The Corridors of Time_, Harold Peake y Herbert John Fleure, 9 volumes (New Haven: Yale University Press, 1927) **OK**
 - _The Days of His Flesh: The Earthly Life of Our Lord and Saviour Jesus Christ, Eighth Edition, Revised_, David Smith, M.A., D.D. (New York: Harper & Brothers, 1910)
 - _The Dawn of Conscience_, James Henry Breasted (New York: Charles Scribner’s Sons, 1933)
-- _The Doctrine of God_, Albert C. Knudson (New York: Abingdon-Cokesbury Press, 1930) **OK**
+- [The Doctrine of God](/en/book/Albert_C_Knudson/The_Doctrine_of_God), Albert C. Knudson (New York: Abingdon-Cokesbury Press, 1930) **OK**
 - _The Encyclopædia Britannica, Thirteenth Edition, Volume 27: TONALITE to VESUVIUS_, Sir A. Houtum-Schindler, C.I.E. (New York: The Encyclopædia Britannica, 1926)
 - _The Enduring Quest: A Search for a Philosophy of Life_, H. A. Overstreet (New York: W. W. Norton & Company, Inc., 1931)
 - _The Environment of Early Christianity_, S. Angus, M.A., Ph.D. (New York: Charles Scribner’s Sons, 1915)
