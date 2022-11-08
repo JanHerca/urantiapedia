@@ -54,7 +54,7 @@ Here is a tentative list of books to be included:
 - _Jesus of Nazareth: A Biography_, George A. Barton, Ph.D., LL.D. (New York, The Macmillan Company, 1922)
 - _Long Heads and Round Heads_, William S. Sadler, M.D. (Chicago: A. C. McClurg & Co., 1918) **OK**
 - _Man Rises to Parnassus_, Henry Fairfield Osborn (Princeton, New Jersey: Princeton University Press, 1927)
-- [Man’s Vision of God and the Logic of Theism](/en/book/Charles_Hartshorne/Mans_Vision_of_God/Index), Charles Hartshorne (Chicago: Willett, Clark & Company, 1941) **OK**
+- [Man’s Vision of God and the Logic of Theism](/en/book/Charles_Hartshorne/Mans_Vision_of_God), Charles Hartshorne (Chicago: Willett, Clark & Company, 1941) **OK**
 - _Man’s Most Dangerous Myth: The Fallacy of Race_, M. F. Ashley Montagu (New York: Columbia University Press, 1942) **OK**
 - _Men of the Old Stone Age_, Henry Fairfield Osborn (New York: Charles Scribner’s Sons, 1915, Second Edition) **OK**
 - _Mental Medicine: Some Practical Suggestions from a Spiritual Standpoint_, Oliver Huckel, S.T.D (New York: Thomas Y. Crowell Company, 1909) **OK**
@@ -141,7 +141,7 @@ Here is a tentative list of books to be included:
 - _The Teaching of Christ_, G. Campbell Morgan, D.D. (Old Tappan, N.J.: Fleming H. Revell Company, 1913) **OK**
 - _The Teachings of Jesus_, Harris Franklin Rall (New York: Abingdon Press, 1918, 1930) **OK**
 - _The Twelve: Apostolic Types of Christian Men_, Edward Augustus George (New York: Fleming H. Revell Company, 1916) **OK**
-- [The Universe Around Us](/en/book/Sir_James_Jeans/The_Universe_Around_Us/Index), Sir James Jeans (New York: The Macmillan Company, 1929)
+- [The Universe Around Us](/en/book/Sir_James_Jeans/The_Universe_Around_Us), Sir James Jeans (New York: The Macmillan Company, 1929)
 - _The Universe Unfolding: The Story of Man’s Increasing Comprehension of the Universe Around Him_, Robert H. Baker, Ph.D. (Baltimore: The Williams & Wilkins Company, 1932) 
 - _The Woman and the Home_, William S. Sadler, M.D. and Lena K. Sadler, M.D. (Chicago: The Health Press, 1930)
 - _The World of the New Testament_, T. R. Glover (Cambridge at the University Press, 1931) **OK**

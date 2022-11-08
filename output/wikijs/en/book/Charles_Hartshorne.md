@@ -18,7 +18,7 @@ In addition to his long teaching career at the previous three universities, Hart
 
 ## Books
 
-- [Man’s Vision of God and the Logic of Theism](/en/book/Charles_Hartshorne/Mans_Vision_of_God/Index), Charles Hartshorne (Chicago: Willett, Clark & Company, 1941)
+- [Man’s Vision of God and the Logic of Theism](/en/book/Charles_Hartshorne/Mans_Vision_of_God), Charles Hartshorne (Chicago: Willett, Clark & Company, 1941)
 
 ## References
 

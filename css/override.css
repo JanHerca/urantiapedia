@@ -70,4 +70,8 @@ CSS will automatically be minified. */
     .v-main .contents figure.image-style-align-left {
       float: none
     }
+    .v-main div.urantiapedia-book-front svg {
+        width: 100%;
+        height: auto;
+    }
 }

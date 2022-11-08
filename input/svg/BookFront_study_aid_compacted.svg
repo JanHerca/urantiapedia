@@ -2,12 +2,6 @@
 	We need to add these lines to Style options in Wiki.js
 
 	@import url('https://fonts.googleapis.com/css2?family=Chivo:wght@700&family=Merriweather&display=swap');
-	@media screen and (max-width:1000px) {
-		svg {
-			width: 100%;
-			height: auto;
-		}
-	}
 
 -->
 
