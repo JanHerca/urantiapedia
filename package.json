@@ -29,7 +29,7 @@
     "bootstrap-icons": "^1.7.2",
     "bootswatch": "^4.5.3",
     "cheerio": "^1.0.0-rc.9",
-    "electron": "^9.0.5",
+    "electron": "^18.3.7",
     "electron-store": "^6.0.0",
     "jquery": "^3.5.1",
     "markdown-it": "^13.0.1",
