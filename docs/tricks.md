@@ -2,7 +2,8 @@
 
 ## Replacements in VS Code
 
-Steps in order for certain PDF conversions to text:
+### Steps in order for certain PDF conversions to text
+
 1. Replace hyphenation
     - Search (regex): `-\n`
     - Replace: `(blank)`
@@ -19,7 +20,25 @@ Steps in order for certain PDF conversions to text:
     - Search: `^[ ]+`
     - Replace: `(blank)`
 
-Other replacements:
+### Conversion of study aids
+
+* `\[\(\d+.\d+\)` => `[UB`
+* `https://www.urantia.org/urantia-book-standardized/paper-(\d+).+#U\d+_(\d+)_(\d+)` => `/en/The_Urantia_Book/$1#p$2_$3`
+* `https://biblehub.com/niv` => `/en/Bible`
+* `https://biblehub.com` => `/en/Bible`
+* `/en/Bible/(\d)_(.)` => `/en/Bible/$1_\U$2`
+* `/en/Bible/(.)` => `/en/Bible/\U$1`
+* `(\d+)-(\d+).htm\)` => `$1#v$2)`
+* `> \*` => `*`
+* `> \n` => `(empty)`
+* `> (\d+)\\.` => `$1.`
+* `> > ([a-zA-Z]).` => `\t- $1.`
+* `\*\*REFERENCE\*\*:\[` => `**REFERENCE**: [`
+* `^(.+) \*\*REFERENCE\*\*: \[(.+)\]\((.+)\) — (.+)` => `### $1 $2 — $4\n\n**REFERENCE**: [$2]($3) — $4`
+* `\*\*(.+) (\d+):(\d+)\*\*.` => `**[$1 $2:$3](/en/Bible/$1/$2#v$3)**.`
+
+### Other replacements
+
 * Replace english plain quotes with curly ones:
     - Search (regex): `"([^"]*)"`
     - Replace: `“$1”`
@@ -46,17 +65,13 @@ Other replacements:
 * Remove duplicate lines (requires a previous sorting, see below):
     - Search (regex): `^(.*)(\n\1)+$`
     - Replace: `$1`
-
-Other replacements: 
-í => ’
-ñ => C
-ì => “
-î => ”
-
-„  ”
-
-Search end of sentences: [\.”\?!] 
-Search by page ref: `"par_pageref": "359.\d+"` in `./input/json/book-e*-footnotes`
+* í => ’
+* ñ => C
+* ì => “
+* î => ”
+* „  ”
+* Search end of sentences: [\.”\?!] 
+* Search by page ref: `"par_pageref": "359.\d+"` in `./input/json/book-e*-footnotes`
 
 
 ## VS Code tricks

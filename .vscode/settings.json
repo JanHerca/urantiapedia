@@ -7,10 +7,11 @@
         "editor.quickSuggestions": {
           "comments": "on",
           "strings": "on",
-          "other": "on"
+          "other": "off"
         },
         "editor.wordWrap": "wordWrapColumn"
-      },
-      "editor.wordWrapColumn": 80,
-      "prettier.proseWrap": "always"
+    },
+    "markdown.suggest.paths.enabled": false,
+    "editor.wordWrapColumn": 80,
+    "prettier.proseWrap": "always"
 }
