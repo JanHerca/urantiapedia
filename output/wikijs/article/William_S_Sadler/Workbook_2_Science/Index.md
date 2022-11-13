@@ -48,3 +48,7 @@ Author: **William S. Sadler**
     - [Section 7. The Development of Civilization](/en/article/William_S_Sadler/Workbook_2_Science/5#section-7-the-development-of-civilization)
     - [Section 8. The Culmination of Human Evolution](/en/article/William_S_Sadler/Workbook_2_Science/5#section-8-the-culmination-of-human-evolution)
     - [Conclusion](/en/article/William_S_Sadler/Workbook_2_Science/5#conclusion)
+
+
+<br>
+
