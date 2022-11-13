@@ -1,4 +1,26 @@
+---
+title: "Workbook VI — Bible Study — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 7. **DOWNFALL OF THE MONARCHY**
@@ -88,3 +110,7 @@ III. PROPHETS IN JUDAH
 9. Is it possible that Jerusalem experienced a second siege by the Assyrians and was delivered by an epidemic which devastated Sennacherib’s army?
 
 10. Most students accept the idea of two invasions.
+
+
+<br>
+

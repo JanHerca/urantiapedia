@@ -1,4 +1,26 @@
+---
+title: "Workbook VI — Bible Study — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 27. AMOS
@@ -106,3 +128,7 @@ IV. SELECTED TEXTS
 6. **Ease and security**. "'Woe to those who are at ease in Zion, and to those who feel secure on the mountain of Samaria.'" 6:1.
 
 7. **Again the dark sun and moon**. "'I will make the sun go down at noon, and darken the earth in broad daylight.'" 8:9.
+
+
+<br>
+

@@ -22,7 +22,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 Author: **William S. Sadler**
 
-#### I. GEOGRAPHY
+## I. GEOGRAPHY
 
 1. Havona consists of one billion perfect worlds revolving around Paradise in seven concentric circuits.  14:0.1](/en/The_Urantia_Book/14#p0_1)
 
@@ -32,7 +32,7 @@ Author: **William S. Sadler**
 
 4. The Paradise-Havona system is a unit of creative perfection.  14:2.6](/en/The_Urantia_Book/14#p2_6)
 
-#### II. THE HAVONA WORLDS
+## II. THE HAVONA WORLDS
 
 1. The Havona worlds consist of one thousand elements and seven forms of energy.  14:2.3](/en/The_Urantia_Book/14#p5_6)
 
@@ -42,7 +42,7 @@ Author: **William S. Sadler**
 
 4. The standard time of the grand universe is the Paradise-Havona day-a little over seven minutes less than one thousand years of Urantia time.  14:1.12](/en/The_Urantia_Book/14#p1_12)
 
-#### III. LIFE IN HAVONA
+## III. LIFE IN HAVONA
 
 1. There are seven forms of life in Havona.  14:4.1](/en/The_Urantia_Book/14#p4_1)
 
@@ -50,7 +50,7 @@ Author: **William S. Sadler**
 
 3. The Deities derive varied satisfactions from the perfect Havona universe.  14:6.36](/en/The_Urantia_Book/14#p6_36)
 
-#### IV. THE SACRED SPHERES OF PARADISE
+## IV. THE SACRED SPHERES OF PARADISE
 
 1. Each of the twenty-one worlds of the Deities is highly specialized.  13:0.7](/en/The_Urantia_Book/13#p0_7)
 
@@ -69,3 +69,18 @@ Author: **William S. Sadler**
 4. The seven worlds of the Son are the home of the seven phases of pure-spirit existence.  13:3.1](/en/The_Urantia_Book/13#p3_1)
 
 5. The seven worlds of the Spirit are the headquarters of the Seven Master Spirits. From these worlds the cosmic-mind circuits to the grand universe are equalized and stabilized.  13:4.6](/en/The_Urantia_Book/13#p4_6)
+
+
+<br>
+
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Morontia_Life">The Morontia Life</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Paradise_Sons">The Paradise Sons</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>

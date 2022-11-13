@@ -1,4 +1,26 @@
+---
+title: "Workbook VI — Bible Study — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 7. **HISTORY OF THE EARLY CHURCH**
@@ -60,3 +82,7 @@ THE PRIMITIVE CHURCH
 27. The Jerusalem church was short lived, but it assembled and preserved the writings which later on became the New Testament.
 
 28. It is unfortunate that we have so little of record concerning the latter days of the Jerusalem church. But they did render a valuable service during the formative period of Christianity.
+
+
+<br>
+

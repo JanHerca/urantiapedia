@@ -1,4 +1,26 @@
+---
+title: "Workbook VI — Bible Study — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 5. DEUTERONOMY
@@ -246,3 +268,7 @@ IX. SELECTED TEXTS
 15. **Joshua's commission**. "The Lord commissioned Joshua...and said, 'Be strong and of good courage; for you shall bring the children of Israel into the land which I swore to give them: I will be with you.'" 31:23.
 
 16. **Primitive ideas**. "'"I...am he, and there is no god beside me; I kill and I make alive; I wound and I heal; and there is none that can deliver out of my hand."'" 32:39.
+
+
+<br>
+

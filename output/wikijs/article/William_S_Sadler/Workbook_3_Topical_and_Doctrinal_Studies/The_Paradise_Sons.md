@@ -24,11 +24,11 @@ Author: **William S. Sadler**
 
 The Creator, Magisterial. and Trinity Teacher Sons are the gifts of the eternal Deities to the children of men.  20:10.2](/en/The_Urantia_Book/20#p10_2)
 
-#### I. CREATOR SONS
+## I. CREATOR SONS
 
 [The topic of Creator Sons is covered in another Topical Study. Please click here.](https://www.urantia.org/topical-studies/creator-sons)
 
-#### II. MAGISTERIAL SONS
+## II. MAGISTERIAL SONS
 
 1. Much as the Creator Sons are personalized by the Father and the Son, the Magisterial Sons are personalized by the Son and the Spirit.  7:6.5](/en/The_Urantia_Book/7#p6_5)
 
@@ -36,11 +36,11 @@ The Creator, Magisterial. and Trinity Teacher Sons are the gifts of the eternal 
 
 3. These Avonal Sons have three functions:
 
-> 1. Judicial.
+	> 1. Judicial.
 
-> 2. Magisterial.
+	> 2. Magisterial.
 
-> 3. Bestowal.  20:2.4](/en/The_Urantia_Book/20#p2_4)
+	> 3. Bestowal.  20:2.4](/en/The_Urantia_Book/20#p2_4)
 
 4. Urantia may yet be visited by an Avonal Son to incarnate on a magisterial mission.  20:4.5](/en/The_Urantia_Book/20#p4_5)
 
@@ -58,7 +58,7 @@ The Creator, Magisterial. and Trinity Teacher Sons are the gifts of the eternal 
 
 11. The bestowal of Paradise Sons is not to placate the Heavenly Father. It is part of the experiential training of these Sons.  20:5.2](/en/The_Urantia_Book/20#p5_2)
 
-#### III. TRINITY TEACHER SONS
+## III. TRINITY TEACHER SONS
 
 1. Trinity Teacher Sons are the universal educators, being dedicated to the spiritual awakening and moral guidance of the realms.  20:7.3](/en/The_Urantia_Book/20#p7_3)
 
@@ -70,7 +70,7 @@ The Creator, Magisterial. and Trinity Teacher Sons are the gifts of the eternal 
 
 5. Trinity Teacher Sons will function on Urantia after its inhabitants are delivered from the shackles of animalism and the fetters of materialism.  20:9.1](/en/The_Urantia_Book/20#p9_1)
 
-#### IV. TRINITY-EMBRACED SONS
+## IV. TRINITY-EMBRACED SONS
 
 For this age, Trinity-embraced Sons are assigned to the service of the superuniverses.  22:1.13](/en/The_Urantia_Book/22#p1_13)
 
@@ -88,7 +88,7 @@ For this age, Trinity-embraced Sons are assigned to the service of the superuniv
 
 7. _High Son Assistants_ are a superior group of retrinitized trinitized sons of ascendant mortals.  22:10.1](/en/The_Urantia_Book/22#p10_1)
 
-#### V. TECHNIQUE OF TRINITIZATION
+## V. TECHNIQUE OF TRINITIZATION
 
 1. These techniques are the secrets of Vicegerington and Solitarington.  22:7.1](/en/The_Urantia_Book/22#p7_1)
 
@@ -98,8 +98,23 @@ For this age, Trinity-embraced Sons are assigned to the service of the superuniv
 
 4. There are three groups of creature-trinitized sons:
 
-> 1. Ascender-trinitized Sons.
+	> 1. Ascender-trinitized Sons.
 
-> 2. Paradise-Havona-trinitized Sons.
+	> 2. Paradise-Havona-trinitized Sons.
 
-> 3. Trinitized Sons of Destiny.  22:7.11](/en/The_Urantia_Book/22#p7_11)
+	> 3. Trinitized Sons of Destiny.  22:7.11](/en/The_Urantia_Book/22#p7_11)
+
+
+<br>
+
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Paradise_Havona_System">The Paradise-Havona System</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Paradise_Trinity">The Paradise Trinity</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>

@@ -1,4 +1,26 @@
+---
+title: "Workbook VI — Bible Study — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 9. GALATIANS
@@ -146,3 +168,7 @@ V. SELECTED TEXTS
 14. **Burden bearing**. "Bear one another's burdens, and so fulfil the law of Christ." 6:2.
 
 15. **Sowing and reaping**. "Do not be deceived; God is not mocked, for whatever a man sows, that he will also reap." 6:7.
+
+
+<br>
+

@@ -1,4 +1,26 @@
+---
+title: "Workbook VI — Bible Study — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 19. ISAIAH-THE FIRST
@@ -348,3 +370,7 @@ VIII. SELECTED TEXTS
 16. **Bread shall be sure**. "He will dwell on the heights;...his bread will be given him, his water will be sure." 33:16.
 
 17. **Joy and gladness**. "They shall obtain joy and gladness, and sorrow and sighing shall flee away." 35:10.
+
+
+<br>
+

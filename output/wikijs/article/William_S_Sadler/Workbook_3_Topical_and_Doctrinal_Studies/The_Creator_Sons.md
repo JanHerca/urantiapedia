@@ -22,7 +22,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 Author: **William S. Sadler**
 
-#### I. ORIGIN AND NATURE
+## I. ORIGIN AND NATURE
 
 1. Sometimes the sovereign of Nebadon is referred to as Christ Michael.  21:0.3](/en/The_Urantia_Book/21#p0_3)
 
@@ -38,7 +38,7 @@ Author: **William S. Sadler**
 
 7. There are more than seven hundred thousand Creator Sons in existence.  21:1.4](/en/The_Urantia_Book/21#p1_4)
 
-#### II. CREATORS OF LOCAL UNIVERSES
+## II. CREATORS OF LOCAL UNIVERSES
 
 1. The Creator Sons are preceded in universe organization by the power directors and other Third Source beings.  32:2.1](/en/The_Urantia_Book/32#p2_1)
 
@@ -56,7 +56,7 @@ Author: **William S. Sadler**
 
 8. In accepting vicegerent sovereignty, a Creator Son takes an oath not to assume complete sovereignty until he completes his seven bestowal experiences.  21:3.12](/en/The_Urantia_Book/21#p3_12)
 
-#### III. THE MICHAEL BESTOWALS
+## III. THE MICHAEL BESTOWALS
 
 1. In each bestowal experience the Creator Son adds to his nature that of the creature.  21:4.6](/en/The_Urantia_Book/21#p4_6)
 
@@ -74,8 +74,23 @@ Author: **William S. Sadler**
 6. Sixth—Morontia mortal.
 7. Seventh—Urantia mortal.  119:0.7](/en/The_Urantia_Book/119#p0_7)
 
-#### IV. LOCAL UNIVERSE ORGANIZATION
+## IV. LOCAL UNIVERSE ORGANIZATION
 
 1. To a local universe, to all practical purposes, a Michael Son is God.  5:3.6](/en/The_Urantia_Book/5#p3_6)
 
 2. The entire judicial mechanism of Nebadon is under the supervision of Gabriel.  33:7.2](/en/The_Urantia_Book/33#p7_2)
+
+
+<br>
+
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Corps_of_the_Finality">The Corps of the Finality</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Doctrine_of_God">The Doctrine of God</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>

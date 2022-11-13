@@ -1,4 +1,26 @@
+---
+title: "Workbook VI — Bible Study — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 15. PSALMS
@@ -250,3 +272,7 @@ VIII. SELECTED TEXTS
 39. **The way everlasting**. "Search me, O God, and know my heart I Try me and know my thoughts! And see if there be any wicked way in me, and lead me in the way everlasting." 139:23,24.
 
 40. **The divine kindness**. "The Lord is just in all his ways, and kind in all his doings." 145:17.
+
+
+<br>
+

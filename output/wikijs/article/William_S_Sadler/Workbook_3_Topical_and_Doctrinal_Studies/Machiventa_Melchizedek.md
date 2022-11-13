@@ -22,7 +22,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 Author: **William S. Sadler**
 
-#### I. THE MACHIVENTA INCARNATION
+## I. THE MACHIVENTA INCARNATION
 
 1. Machiventa incarnated on Urantia 1,973 years ago.  93:2.1](/en/The_Urantia_Book/93#p2_1)
 
@@ -34,7 +34,7 @@ Author: **William S. Sadler**
 
 4. His Thought Adjuster subsequently indwelt Jesus.  93:2.7](/en/The_Urantia_Book/93#p2_7)
 
-#### II. MELCHIZEDEK’S TEACHINGS
+## II. MELCHIZEDEK’S TEACHINGS
 
 1. The three circles represented the Trinity.  93:2.5](/en/The_Urantia_Book/93#p2_5)
 
@@ -58,7 +58,7 @@ Author: **William S. Sadler**
 
 5. Melchizedek tried to substitute the sacrament of bread and wine for animal sacrifices.  93:4.14](/en/The_Urantia_Book/93#p4_14)
 
-#### III. THE COVENANT WITH ABRAHAM
+## III. THE COVENANT WITH ABRAHAM
 
 1. It may be wrong to speak of a “chosen people,” but Abraham was a “chosen individual.”  93:5.1](/en/The_Urantia_Book/93#p5_1)
 
@@ -70,13 +70,13 @@ Author: **William S. Sadler**
 
 5. Abraham became civil and military leader of the Salem colony.  93:6.8](/en/The_Urantia_Book/93#p6_8)
 
-#### IV. DEPARTURE OF MELCHIZEDEK
+## IV. DEPARTURE OF MELCHIZEDEK
 
 1. Machiventa retired one night and departed before morning.  93:8.1](/en/The_Urantia_Book/93#p8_1)
 
 2. He became one of the 24 directors on Jerusem—and later Vicegerent Planetary Prince of Urantia.  93:10.5](/en/The_Urantia_Book/93#p10_5)
 
-#### V. SPREAD OF MELCHIZEDEK’S TEACHINGS
+## V. SPREAD OF MELCHIZEDEK’S TEACHINGS
 
 1. Moses got much of Machiventa’s teachings through the Katro family.  93:3.5](/en/The_Urantia_Book/93#p3_5)
 
@@ -84,6 +84,21 @@ Author: **William S. Sadler**
 
 3. Melchizedek’s trained natives carried the gospel over the entire Eastern Hemisphere.  94:0.1](/en/The_Urantia_Book/94#p0_1)
 
-4. His teachings largely failed among the Greeks but survived among the Roman Cynics.[UB 98:0.2](/en/The_Urantia_Book/98#p0_2)
+4. His teachings largely failed among the Greeks but survived among the Roman Cynics. [UB 98:0.2](/en/The_Urantia_Book/98#p0_2)
 
-5. His teachings were carried all over Europe and Asia—even to Africa.[UB 94:0.1](/en/The_Urantia_Book/94#p0_1)
+5. His teachings were carried all over Europe and Asia—even to Africa. [UB 94:0.1](/en/The_Urantia_Book/94#p0_1)
+
+
+<br>
+
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Love">Love</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Man">Man</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>

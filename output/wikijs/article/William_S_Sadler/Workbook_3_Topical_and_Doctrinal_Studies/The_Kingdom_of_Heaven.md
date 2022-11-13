@@ -22,7 +22,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 Author: **William S. Sadler**
 
-#### I. CONCEPTS OF THE KINGDOM
+## I. CONCEPTS OF THE KINGDOM
 
 1. The Jewish religion embraced many and confusing concepts of the kingdom of Heaven.  170:1.1](/en/The_Urantia_Book/170#p1_1)
 
@@ -38,7 +38,7 @@ Author: **William S. Sadler**
 
 4. The gospel of the kingdom is the Fatherhood of God and the brotherhood of man.  193:0.4](/en/The_Urantia_Book/193#p0_4)
 
-#### II. THE BROTHERHOOD OF MAN
+## II. THE BROTHERHOOD OF MAN
 
 1. Brotherhood means that the part profits or suffers in measure with the whole.  12:7.11](/en/The_Urantia_Book/12#p7_11)
 
@@ -48,17 +48,17 @@ Author: **William S. Sadler**
 
 4. The Jews exalted goodness, the Greeks beauty, the Hindus devotion. The ascetics taught reverence, the Romans demanded loyalty. But Jesus required life—loving service for our brothers in the flesh.  191:5.3](/en/The_Urantia_Book/191#p5_3)
 
-#### III. THE KEYS OF THE KINGDOM
+## III. THE KEYS OF THE KINGDOM
 
 1. The keys of the kingdom are sincerity—and more sincerity.  39:4.14](/en/The_Urantia_Book/39#p4_14)
 
 2. Jesus taught two essentials for entering the kingdom—sincere faith and truth hunger.  170:2.20](/en/The_Urantia_Book/170#p2_20)
 
-#### BIBLE REFERENCES
+## BIBLE REFERENCES
 
 : [Heb 11:1](/en/Bible/Hebrews/11#v1). [John 14:1](/en/Bible/John/14#v1). [John 1:12](/en/Bible/John/1#v12). [Heb 12:2](/en/Bible/Hebrews/12#v2).
 
-#### IV. THE NEW AND LIVING WAY
+## IV. THE NEW AND LIVING WAY
 
 1. Jesus established the new and living way—he was the truth that makes men free.  52:5.4](/en/The_Urantia_Book/52#p5_4)
 
@@ -69,7 +69,7 @@ Author: **William S. Sadler**
 1. Negative—not my will but yours.
 2. Positive—I will that yours be done.  111:5.6](/en/The_Urantia_Book/111#p5_6)
 
-#### V. THE RELIGION OF JESUS
+## V. THE RELIGION OF JESUS
 
 1. The religion of Jesus provides final salvation—the seven essentials:
 
@@ -85,7 +85,7 @@ Author: **William S. Sadler**
 
 3. Jesus’ new commandment was: Love one another as I have loved you.  180:1.1](/en/The_Urantia_Book/180#p1_1)
 
-#### VI. SIX PHASES OF THE KINGDOM IN THE BIBLE
+## VI. SIX PHASES OF THE KINGDOM IN THE BIBLE
 
 1. Personal experience. The kingdom of heaven is within you. [Luke 17:21](/en/Bible/Luke/17#v21).
 
@@ -98,3 +98,18 @@ Author: **William S. Sadler**
 5. The age of light and life. Your kingdom come, your will be done. [Luke 11:2](/en/Bible/Luke/11#v2).
 
 6. Sovereignty of Michael. Remember me when you come into your kingdom. [Luke 23:42](/en/Bible/Luke/23#v42)
+
+
+<br>
+
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Holy_Spirit">The Holy Spirit</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Local_Universe">The Local Universe</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>

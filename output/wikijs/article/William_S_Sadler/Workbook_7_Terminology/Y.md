@@ -1,4 +1,26 @@
+---
+title: "Workbook VII — Terminology — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 ## Y
@@ -19,3 +41,7 @@ The Satania day equals three days of Urantia time, less one hour, four minutes, 
   
 
 The Nebadon year consists of a segment of time of universe swing in relation to the Uversa circuit and is equal to one hundred days of standard universe time, about five years of Urantia time. [UB 33:6.7](/en/The_Urantia_Book/33#p6_7)
+
+
+<br>
+

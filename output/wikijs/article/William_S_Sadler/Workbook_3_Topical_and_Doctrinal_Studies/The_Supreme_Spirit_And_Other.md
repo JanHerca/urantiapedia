@@ -22,7 +22,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 Author: **William S. Sadler**
 
-#### I. THE MASTER SPIRITS
+## I. THE MASTER SPIRITS
 
 1. The seven Supreme Spirit groups are:
 
@@ -40,7 +40,7 @@ Author: **William S. Sadler**
 
 4. When assembled about the Conjoint Actor, the Master Spirits represent the power, wisdom, and authority of the Trinity.  16:1.1](/en/The_Urantia_Book/16#p1_1)
 
-#### II. ATTRIBUTES AND FUNCTIONS OF THE MASTER SPIRITS
+## II. ATTRIBUTES AND FUNCTIONS OF THE MASTER SPIRITS
 
 1. Master Spirit Number Seven is nonfunctional with regard to the Trinity, and that is why he can function _personally_ for the Supreme Being.  16:1.2](/en/The_Urantia_Book/16#p1_2)
 
@@ -50,7 +50,7 @@ Author: **William S. Sadler**
 
 4. The distinctive personality trends characteristic of each superuniverse are expressive of the nature of the Master Spirits and are never fully effaced.  16:5.5](/en/The_Urantia_Book/16#p5_5)
 
-#### III. THE COSMIC MIND
+## III. THE COSMIC MIND
 
 1. The Master Spirits are the sevenfold source of the cosmic mind.  16:6.1](/en/The_Urantia_Book/16#p6_1)
 
@@ -76,7 +76,7 @@ Author: **William S. Sadler**
 
 8. Personality can look before it leaps; therefore it can learn from looking as well as from leaping.  16:7.3](/en/The_Urantia_Book/16#p7_3)
 
-#### IV. MAJESTON—REFLECTIVITY
+## IV. MAJESTON—REFLECTIVITY
 
 1. Majeston is a true person, the infallible center of reflectivity in the grand universe.  17:2.3](/en/The_Urantia_Book/17#p2_3)
 
@@ -86,7 +86,7 @@ Author: **William S. Sadler**
 
 4. The Reflective Spirits are not only transmitting agents; they are also retentive personalities.  17:3.5](/en/The_Urantia_Book/17#p3_5)
 
-#### V. SOLITARY MESSENGERS
+## V. SOLITARY MESSENGERS
 
 1. Solitary Messengers are the personal and universal corps of the Conjoint Creator.  23:0.1](/en/The_Urantia_Book/23#p0_1)
 
@@ -98,7 +98,7 @@ Author: **William S. Sadler**
 
 5. It is difficult to explain how a Solitary Messenger can be a real person and yet traverse space at such tremendous velocities.  23:3.4](/en/The_Urantia_Book/23#p3_4)
 
-#### VI. HIGHER PERSONALITIES OF THE INFINITE SPIRIT
+## VI. HIGHER PERSONALITIES OF THE INFINITE SPIRIT
 
 1. The Higher Personalities of the Infinite Spirit are:
 
@@ -110,7 +110,7 @@ Author: **William S. Sadler**
 6. Assigned Sentinels.
 7. Graduate Guides.  24:0.2](/en/The_Urantia_Book/24#p0_2)
 
-#### VII. MESSENGER HOSTS OF SPACE
+## VII. MESSENGER HOSTS OF SPACE
 
 1. There are seven groups of the Messenger Hosts of Space:
 
@@ -121,3 +121,18 @@ Author: **William S. Sadler**
 5. Celestial Recorders.
 6. Morontia Companions.
 7. Paradise Companions.  25:0.1](/en/The_Urantia_Book/25#p0_1)
+
+
+<br>
+
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_State">The State</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Thought_Adjusters">Thought Adjusters</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>

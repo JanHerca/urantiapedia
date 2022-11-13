@@ -127,7 +127,7 @@ VII. RELIGIOUS INSIGHT
 
 2. Religion may be the feeling of experience, but it is not the experience of feeling. [UB 101:5.9
 
-3. The liberated religious soul begins to feel at home in the universe.[UB 101:10.7
+3. The liberated religious soul begins to feel at home in the universe. [UB 101:10.7
 
 4. Contrast spiritual liberation with the despair of materialism. [UB 102:0.1
 
@@ -212,3 +212,18 @@ XI. THE SPIRIT OF TRUTH
 7. Pentecost signifies that the Jesus of history has become the divine Son of living experience. [UB 194:3.19
 
 8. Influence of the Spirit of Truth continues beyond the local universe. [UB 117:5.9
+
+
+<br>
+
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Providence">Providence</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Corps_of_the_Finality">The Corps of the Finality</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>

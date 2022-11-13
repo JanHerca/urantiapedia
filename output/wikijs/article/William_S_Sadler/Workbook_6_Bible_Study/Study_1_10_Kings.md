@@ -1,4 +1,26 @@
+---
+title: "Workbook VI — Bible Study — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 10. FIRST AND SECOND KINGS
 
@@ -253,3 +275,7 @@ X. SELECTED TEXTS 1 KINGS
 23. **Josiah's reforms**. "Moreover Josiah put away the mediums and the wizards and the teraphim and the idols and all the abominations that were seen in the land of Judah." 23:24.
 
 24. **The fall of Jerusalem**. "And Zedekiah rebelled against the king of Babylon... Nebuchadnezzar king of Babylon came with all his army against Jerusalem." 25:1.
+
+
+<br>
+

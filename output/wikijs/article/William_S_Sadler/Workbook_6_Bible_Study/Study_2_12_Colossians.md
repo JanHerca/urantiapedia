@@ -1,4 +1,26 @@
+---
+title: "Workbook VI — Bible Study — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 12. COLOSSIANS
 
@@ -127,3 +149,7 @@ V. SELECTED TEXTS
 13. Gracious speech. "Let your speech always be gracious, seasoned with salt, so that you may know how you ought to answer every one." 4:6.
 
 14. Paul's fetters. "I, Paul, write this greeting with my own hand. Remember my fetters. Grace be with you." 4:18.
+
+
+<br>
+

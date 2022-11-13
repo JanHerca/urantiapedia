@@ -1,4 +1,26 @@
+---
+title: "Workbook VI — Bible Study — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 7. FIRST CORINTHIANS
@@ -147,3 +169,7 @@ IV. SELECTED TEXTS
 24. **Second advent**. "We shall not all sleep, but we shall all be changed, in a moment, in the twinkling of an eye, at the last trumpet...The dead will be raised imperishable, and we shall be changed." 15:51,52.
 
 25. **The courageous life**. "Be watchful, stand firm in your faith, be courageous, be strong. Let all that you do be done in love." 16:13,14.
+
+
+<br>
+

@@ -1,4 +1,14 @@
+---
+title: "Workbook V — Theology of The Urantia Book — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+Author: **William S. Sadler**
 
 - [1. The Doctrine of God](https://www.urantia.org/theology-urantia-book/1-doctrine-god)
 - [2. The Paradise Trinity](https://www.urantia.org/theology-urantia-book/2-paradise-trinity)

@@ -1,4 +1,26 @@
+---
+title: "Workbook VII — Terminology — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 ## F
 
@@ -93,27 +115,27 @@ The concept of a spirit’s entering into an inanimate object, an animal, or a h
 **Finite level**  
   
 
-_The finite level_ of reality is characterized by creature life and time-space limitations. Finite realities may not have endings, but they always have beginnings—they are created. The deity level of Supremacy may be may be conceived as a function in relation to finite existences. [UB 0:1.11](https://www.urantia.org/urantia-book-standardized/foreword#U0_1_11)  
+_The finite level_ of reality is characterized by creature life and time-space limitations. Finite realities may not have endings, but they always have beginnings—they are created. The deity level of Supremacy may be may be conceived as a function in relation to finite existences. [UB 0:1.11](/en/The_Urantia_Book/0#p1_11)  
   
 
 **First Source and Center**  
   
 
-God—the Universal Father—is the personality of the First Source and Center. [UB 0:3.10](https://www.urantia.org/urantia-book-standardized/foreword#U0_3_10)  
+God—the Universal Father—is the personality of the First Source and Center. [UB 0:3.10](/en/The_Urantia_Book/0#p3_10)  
   
-The First Source and Center is, therefore, primal in all domains; deified or undeified, personal or impersonal, actual or potential, finite or infinite. No thing or being, no relativity or finality, exists except in direct or indirect relation to, and dependence on, the primacy of the First Source and Center. [UB 0:3.11](https://www.urantia.org/urantia-book-standardized/foreword#U0_3_11)  
+The First Source and Center is, therefore, primal in all domains; deified or undeified, personal or impersonal, actual or potential, finite or infinite. No thing or being, no relativity or finality, exists except in direct or indirect relation to, and dependence on, the primacy of the First Source and Center. [UB 0:3.11](/en/The_Urantia_Book/0#p3_11)  
   
 
 **Force**  
   
 
-Energy we use as an all-inclusive term applied to spiritual, mindal, and material, realms. Force is also thus broadly used. [UB 0:6.2](https://www.urantia.org/urantia-book-standardized/foreword#U0_6_2)  
+Energy we use as an all-inclusive term applied to spiritual, mindal, and material, realms. Force is also thus broadly used. [UB 0:6.2](/en/The_Urantia_Book/0#p6_2)  
   
 
 **Force, cosmic**  
   
 
-Cosmic force embraces all energies deriving from the Unqualified Absolute but which are as yet unresponsive to Paradise gravity. [UB 0:6.5](https://www.urantia.org/urantia-book-standardized/foreword#U0_6_5)  
+Cosmic force embraces all energies deriving from the Unqualified Absolute but which are as yet unresponsive to Paradise gravity. [UB 0:6.5](/en/The_Urantia_Book/0#p6_5)  
   
 
 **Force, Primordial**  
@@ -124,3 +146,7 @@ This represents the first basic change in space potency and may be one of the ne
 Passive and potential force becomes active and primordial in response to the resistance afforded by the space presence of the Primary Eventuated Master Force Organizers. Force is now emerging from the exclusive domain of the Unqualified Absolute into the realms of multiple response—response to certain primal motions initiated by the God of Action and thereupon to certain compensating motions emanating from the Universal Absolute. [UB 42:2.7](/en/The_Urantia_Book/42#p2_7)  
   
 Primordial force is seemingly reactive to transcendental causation in proportion to absoluteness. Primordial force is sometimes spoken of as pure energy: on Uversa we refer to it as SEGREGATA.
+
+
+<br>
+

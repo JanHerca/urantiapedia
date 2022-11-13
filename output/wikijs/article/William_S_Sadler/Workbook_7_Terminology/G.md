@@ -1,4 +1,26 @@
+---
+title: "Workbook VII — Terminology — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 ## G
@@ -34,11 +56,11 @@ The term God always denotes _personality_. Deity may, or may not refer to divini
   
 6. _God the Ultimate_  
   
-7. _God the Absolute_ [UB 0:2.6](https://www.urantia.org/urantia-book-standardized/foreword#U0_2_6)
+7. _God the Absolute_ [UB 0:2.6](/en/The_Urantia_Book/0#p2_6)
 
- God-the Universal Father—is the personality of the First Source and Center. [UB 0:3.10](https://www.urantia.org/urantia-book-standardized/foreword#U0_3_10)  
+ God-the Universal Father—is the personality of the First Source and Center. [UB 0:3.10](/en/The_Urantia_Book/0#p3_10)  
   
-God, as the First Source and Center, is primal in relation to total reality—unqualifiedly The First Source and Center is infinite as well as eternal and is therefore limited or conditioned only by volition. [UB 0:3.9](https://www.urantia.org/urantia-book-standardized/foreword#U0_3_9)  
+God, as the First Source and Center, is primal in relation to total reality—unqualifiedly The First Source and Center is infinite as well as eternal and is therefore limited or conditioned only by volition. [UB 0:3.9](/en/The_Urantia_Book/0#p3_9)  
   
 God is personality. Notwithstanding that God is an eternal power, a majestic presence, a transcendent ideal, and a glorious spirit, though he is all these and infinitely more, nonetheless, he is truly and everlastingly a perfect Creator personality, a person who can “know and be known”, who can “love and be loved,” and one who can befriend us; while you can be known, as other humans have been known, as the friend of God. He is a real spirit and a spiritual reality. [UB 1:5.8](/en/The_Urantia_Book/1#p5_8)  
   
@@ -99,15 +121,15 @@ The spiritual urge to find God. [UB 1:2.5](/en/The_Urantia_Book/1#p2_5)
 **God the Supreme**  
   
 
-_God the Supreme_ in Havona is the personal spirit reflection of the triune Paradise Deity. [UB 0:7.7](https://www.urantia.org/urantia-book-standardized/foreword#U0_7_7)  
+_God the Supreme_ in Havona is the personal spirit reflection of the triune Paradise Deity. [UB 0:7.7](/en/The_Urantia_Book/0#p7_7)  
   
-The Almighty Supreme, evolving on the value-level of nonpersonal activities, and the spirit person of God the Supreme are one reality—the Supreme Being. [UB 0:8.10](https://www.urantia.org/urantia-book-standardized/foreword#U0_8_10)  
+The Almighty Supreme, evolving on the value-level of nonpersonal activities, and the spirit person of God the Supreme are one reality—the Supreme Being. [UB 0:8.10](/en/The_Urantia_Book/0#p8_10)  
   
 
 **God the Ultimate**  
   
 
-God the Ultimate is designative of personal Deity functioning on the divinity levels of the absonite and on the universe spheres of supertime and transcended space. The Ultimate is a supersupreme eventuation of Deity. The Supreme is the Trinity unification comprehended by finite beings; the Ultimate is the unification of the Paradise Trinity comprehended by absonite beings. [UB 0:9.2](https://www.urantia.org/urantia-book-standardized/foreword#U0_9_2)  
+God the Ultimate is designative of personal Deity functioning on the divinity levels of the absonite and on the universe spheres of supertime and transcended space. The Ultimate is a supersupreme eventuation of Deity. The Supreme is the Trinity unification comprehended by finite beings; the Ultimate is the unification of the Paradise Trinity comprehended by absonite beings. [UB 0:9.2](/en/The_Urantia_Book/0#p9_2)  
   
 
 **Goodness**  
@@ -165,7 +187,7 @@ _Universe power_. Space-force has been changed into space-energy and thence into
 **Gravity**  
   
 
-Gravity is the sole control of energy-matter. [UB 0:6.11](https://www.urantia.org/urantia-book-standardized/foreword#U0_6_11)  
+Gravity is the sole control of energy-matter. [UB 0:6.11](/en/The_Urantia_Book/0#p6_11)  
   
 The inescapable pull of gravity effectively grips all the worlds of all the universes of all space. Gravity is the all-powerful grasp of the physical presence of Paradise. Gravity is the omnipotent strand on which are strung the gleaming stars, blazing suns, and whirling spheres which constitute the universal physical adornment of the eternal God, who is all things, fills all things, and in whom all things consist.  
   
@@ -182,3 +204,7 @@ Creative growth is unending but ever satisfying, endless in extent but always pu
   
 
 The sense of guilt (not the consciousness of sin) comes either from interrupted spiritual communion or from the lowering of one’s moral ideals. Deliverance from such a predicament can only come through the realization that one’s highest moral ideals are not necessarily synonymous with the will of God. Man cannot hope to live up to his highest ideals, but he can be true to his purpose of finding God and becoming more and more like him. [UB 103:4.3](/en/The_Urantia_Book/103#p4_3)
+
+
+<br>
+

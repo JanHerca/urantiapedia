@@ -1,4 +1,26 @@
+---
+title: "Workbook VI — Bible Study — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 29. JONAH
@@ -86,3 +108,7 @@ VI. SELECTED TEXTS
 7. **And God creates a plant**. "God appointed a plant...that it might be a shade over his head...So Jonah was exceedingly glad because of the plant. But... God appointed a worm which attacked the plant...and the sun beat upon Jonah's head so that he was faint." 4:6-8.
 
 8. **Mercy for mankind**. "'You pity the plant... should not I pity Nineveh, that great city?'" 4:10,11.
+
+
+<br>
+

@@ -1,4 +1,26 @@
+---
+title: "Workbook VI — Bible Study — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 3. LEVITICUS
@@ -204,3 +226,7 @@ VIII. SELECTED TEXTS
 18. **Mediums**. "'A man or a woman who is a medium or a wizard shall be put to death; they shall be stoned with stones.'" 20:27.
 
 19. **Blasphemy**. "'He who blasphemes the name of the Lord shall be put to death; all the congregation shall stone him.'" 24:16.
+
+
+<br>
+

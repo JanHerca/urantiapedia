@@ -1,4 +1,26 @@
+---
+title: "Workbook VI — Bible Study — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 22. REVELATION
@@ -129,3 +151,7 @@ IV. SELECTED TEXTS
 19. **The tree of life**. "On either side of the river, the tree of life with its twelve kinds of fruit...and the leaves of the tree were for the healing of the nations." 22:2.
 
 20. **The water of life**. "And let him who is thirsty come, let him who desires take the water of life without price." 22:17.
+
+
+<br>
+

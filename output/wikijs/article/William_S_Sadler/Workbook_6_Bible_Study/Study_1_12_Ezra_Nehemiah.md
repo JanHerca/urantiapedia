@@ -1,4 +1,26 @@
+---
+title: "Workbook VI — Bible Study — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 12. EZRA AND NEHEMIAH
 
@@ -331,3 +353,7 @@ NEHEMIAH
 11. **Ezra reads the law**. "And Ezra the priest brought the law before the assembly... And he read from it...from early morning until mid-day." 8:2,3.
 
 12. **The dedication**. "And at the dedication of the wall of Jerusalem they sought the Levites...to bring them...to celebrate the dedication with gladness." 12:27.
+
+
+<br>
+

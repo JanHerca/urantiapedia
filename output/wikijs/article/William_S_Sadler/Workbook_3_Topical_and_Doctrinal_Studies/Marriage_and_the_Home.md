@@ -22,7 +22,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 Author: **William S. Sadler**
 
-#### I. THE MATING INSTINCT
+## I. THE MATING INSTINCT
 
 1. The sex urge is sufficient to bring men and women together for reproduction.  82:1.1](/en/The_Urantia_Book/82#p1_1)
 
@@ -36,7 +36,7 @@ Author: **William S. Sadler**
 
 6. In primitive times marriage was the price of social distinction—a wife enhanced social standing.  82:3.4](/en/The_Urantia_Book/82#p3_4)
 
-#### II. MARRIAGE A SOCIAL INSTITUTION
+## II. MARRIAGE A SOCIAL INSTITUTION
 
 1. Man’s great danger is the unrestricted multiplication of inferior racial strains.  82:6.11](/en/The_Urantia_Book/82#p6_11)
 
@@ -54,7 +54,7 @@ Author: **William S. Sadler**
 
 8. Marriage is a social program of antagonistic co-operation.  84:6.2](/en/The_Urantia_Book/84#p6_2)
 
-#### III. TRUE MONOGAMY
+## III. TRUE MONOGAMY
 
 1. There were four sorts of wives under polygamy:
 
@@ -71,7 +71,7 @@ Author: **William S. Sadler**
 
 5. But primitive women did not pity themselves.  84:4.11](/en/The_Urantia_Book/84#p4_11)
 
-#### IV. FAMILY LIFE
+## IV. FAMILY LIFE
 
 1. Man did not intentionally seize woman’s rights—it was all an unconscious process.  84:5.4](/en/The_Urantia_Book/84#p5_4)
 
@@ -82,3 +82,18 @@ Author: **William S. Sadler**
 4. The family-council of the Andites would be helpful today.  84:7.29](/en/The_Urantia_Book/84#p7_29)
 
 5. The differences between men and women persist throughout the ascendant career—even in the Corps of Finality.  84:6.6](/en/The_Urantia_Book/84#p6_6)
+
+
+<br>
+
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Man">Man</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Mercy">Mercy</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>

@@ -1,4 +1,26 @@
+---
+title: "Workbook VII — Terminology — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 ## N
 
@@ -28,3 +50,7 @@ No, nature is not God. Nature is not an object of worship. [UB 4:2.8](/en/The_Ur
   
 
 The animal nature—the tendency toward evildoing—may be hereditary, but sin is not transmitted from parent to child. [UB 188:4.5](/en/The_Urantia_Book/188#p4_5)
+
+
+<br>
+

@@ -1,4 +1,26 @@
+---
+title: "Workbook VI — Bible Study — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 3. **NEW TESTAMENT LANGUAGE**
@@ -116,3 +138,7 @@ c. Special meaning given to words by early Christian usage.
 8. The word “peace” comes to mean vastly more in Christian religion than formerly.
 
 9. “The world and the flesh” comes to have new meanings in Christianity. Other words having new meanings were: life, faith, save, meek, election, and kingdom of God.
+
+
+<br>
+

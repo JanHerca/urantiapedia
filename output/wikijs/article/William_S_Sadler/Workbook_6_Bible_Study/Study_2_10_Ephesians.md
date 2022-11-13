@@ -1,4 +1,26 @@
+---
+title: "Workbook VI — Bible Study — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 10. EPHESIANS
 
@@ -117,3 +139,7 @@ V. SELECTED TEXTS
 16. **Spiritual strength**. "Finally, be strong in the Lord and in the strength of his might. Put on the whole armor of God, that you may be able to stand against the wiles of the devil." 6:10,11.
 
 17. **Effective armor**. "And take the helmet of salvation, and the sword of the Spirit, which is the word of God." 6:17.
+
+
+<br>
+

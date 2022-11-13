@@ -1,4 +1,26 @@
+---
+title: "Workbook VII — Terminology — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 ## E
 
@@ -43,7 +65,7 @@ From a practical viewpoint the philosophers of the universe have come to the con
 
 Spirit is divine purpose, and spirit mind is divine purpose in action. Energy is thing, mind is meaning, spirit is value. [UB 9:4.5](/en/The_Urantia_Book/9#p4_5)  
   
-Energy we use as an all—inclusive term applied to spiritual, mindal, and material realms. [UB 0:6.2](https://www.urantia.org/urantia-book-standardized/foreword#U0_6_2)  
+Energy we use as an all—inclusive term applied to spiritual, mindal, and material realms. [UB 0:6.2](/en/The_Urantia_Book/0#p6_2)  
   
 In this paper, for example, the word _energy_ is used to denote all phases and forms of phenomenal motion, action, and potential, while force is applied to the pregravity, and power to the post gravity, stages of energy. [UB 42:2.1](/en/The_Urantia_Book/42#p2_1)  
   
@@ -53,7 +75,7 @@ Energy proceeds from Paradise, fashioned after the divine order. Energy—pure e
 **Energy, emergent**  
   
 
-Emergent energy embraces all energies which are responsive to paradise gravity but are as yet unresponsive to local or linear gravity. This is the pre—electronic level of energy—matter. [UB 0:6.6](https://www.urantia.org/urantia-book-standardized/foreword#U0_6_6)  
+Emergent energy embraces all energies which are responsive to paradise gravity but are as yet unresponsive to local or linear gravity. This is the pre—electronic level of energy—matter. [UB 0:6.6](/en/The_Urantia_Book/0#p6_6)  
   
 The passive presence of the primary force organizers is sufficient to transform space potency into primordial force, and it is upon such an activated space field that these same force organizers begin their initial and active operations. Primordial force is destined to pass through two distinct phases of transmutation in the realms of energy manifestation before appearing as universe power.These two levels of emerging energy are; 1. Puissant energy 2. Gravity energy. [UB 42:2.10](/en/The_Urantia_Book/42#p2_10)  
   
@@ -81,7 +103,7 @@ A pre-existent phase of energy which is characteristic of the central universe. 
 **Energy, Physical**  
   
 
-Physical energy is a term demoting all phases and forms of phenomenal motion, action, and potential. [UB 0:6.3](https://www.urantia.org/urantia-book-standardized/foreword#U0_6_3)  
+Physical energy is a term demoting all phases and forms of phenomenal motion, action, and potential. [UB 0:6.3](/en/The_Urantia_Book/0#p6_3)  
   
 
 **Energy, Puissant**  
@@ -127,7 +149,7 @@ It is helpful to man’s cosmic orientation to attain all possible comprehension
 **Eternal Son**  
   
 
-The Eternal Son is the absolute personality, the secret of spiritual energy, morontia spirits, and perfected spirits. [UB 0:5.5](https://www.urantia.org/urantia-book-standardized/foreword#U0_5_5)  
+The Eternal Son is the absolute personality, the secret of spiritual energy, morontia spirits, and perfected spirits. [UB 0:5.5](/en/The_Urantia_Book/0#p5_5)  
   
 The Eternal Son is the perfect and final expression of the “first” personal and absolute concept of the Universal Father. Accordingly, whenever and however the Father personally and absolutely expresses himself, he does so through his Eternal son, who ever has been, now is and ever will be, the living and divine Word. The Eternal Son is the spiritual personalization of the Paradise Father’s universal and infinite concept of divine reality, unqualified spirit, and absolute personality. The Eternal Son is the original and only—begotten Son of God He is God the Son, the Second person of Deity and the associate creator of all things. As the Father is the First Great Source and Center, so the Eternal Son is the Second Great Source and Center. [UB 6:0.1](/en/The_Urantia_Book/6#p0_1)  
   
@@ -216,3 +238,7 @@ The supreme experience of human existence; finding God for yourselves and knowin
   
 
 (12) ( from ASOTMU \[_A Study of the Master Universe_\] ) This word designates beings and things that have origins. It also designates all beings that can grow by experience. Even some existential realities can have experiential growth to higher levels. Other realities are wholly experiential; man is wholly experiential in his growth.
+
+
+<br>
+

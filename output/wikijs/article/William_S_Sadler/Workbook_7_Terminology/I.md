@@ -1,4 +1,26 @@
+---
+title: "Workbook VII — Terminology — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 ## I
@@ -6,7 +28,7 @@
 **I AM**  
   
 
-The concept of the I AM Is a philosophic concession which we make to the time-bound, space-fettered, finite mind of man, to the impossibility of creature comprehension of eternity existences—nonbeginning, nonending realities and relationships. To the time-space creature, all things must have a beginning save only the ONE UNCAUSED—the primal cause of causes. Therefor do we conceptualize this philosophic value-level as the I AM, at the same time instructing all creatures that the Eternal Son and the Infinite Spirit are coeternal with the I AM; in other words, that there never was a time when the I AM was not the Father of the Son and, with him, of the Spirit. [UB 0:3.23](https://www.urantia.org/urantia-book-standardized/foreword#U0_3_23)  
+The concept of the I AM Is a philosophic concession which we make to the time-bound, space-fettered, finite mind of man, to the impossibility of creature comprehension of eternity existences—nonbeginning, nonending realities and relationships. To the time-space creature, all things must have a beginning save only the ONE UNCAUSED—the primal cause of causes. Therefor do we conceptualize this philosophic value-level as the I AM, at the same time instructing all creatures that the Eternal Son and the Infinite Spirit are coeternal with the I AM; in other words, that there never was a time when the I AM was not the Father of the Son and, with him, of the Spirit. [UB 0:3.23](/en/The_Urantia_Book/0#p3_23)  
   
 
 **Idea**  
@@ -73,3 +95,7 @@ You should never forget that intolerance is the mask covering up the entertainme
   
 
 The realization of duty. [UB 16:7.1](/en/The_Urantia_Book/16#p7_1)
+
+
+<br>
+

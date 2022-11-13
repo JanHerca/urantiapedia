@@ -1,4 +1,26 @@
+---
+title: "Workbook VII — Terminology — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 ## U
@@ -30,9 +52,9 @@ The Paradise advisers to the rulers of the local universes. [UB 15:10.16](/en/Th
 **Universal Father**  
   
 
-God—the Universal Father—is the personality of the First Source and Center and as such maintains personal relations of Infinite control over all co-ordinate and subordinate sources and centers. [UB 0:3.10](https://www.urantia.org/urantia-book-standardized/foreword#U0_3_10)  
+God—the Universal Father—is the personality of the First Source and Center and as such maintains personal relations of Infinite control over all co-ordinate and subordinate sources and centers. [UB 0:3.10](/en/The_Urantia_Book/0#p3_10)  
   
-The Universal Father is the secret of the reality of personality, the bestowal of personality, and the destiny of personality. [UB 0:5.5](https://www.urantia.org/urantia-book-standardized/foreword#U0_5_5)  
+The Universal Father is the secret of the reality of personality, the bestowal of personality, and the destiny of personality. [UB 0:5.5](/en/The_Urantia_Book/0#p5_5)  
   
 The Universal Father is the God of all creation, the First Source and Center of all things and beings. First think of God as a creator, then as a controller, and lastly as an infinite upholder. [UB 1:0.1](/en/The_Urantia_Book/1#p0_1)  
   
@@ -105,10 +127,14 @@ The spirit of self-forgetfulness. [UB 3:5.13](/en/The_Urantia_Book/3#p5_13)
 **Urantia**  
   
 
-Urantia—that being the name of your world. [UB 0:0.1](https://www.urantia.org/urantia-book-standardized/foreword#U0_0_1)  
+Urantia—that being the name of your world. [UB 0:0.1](/en/The_Urantia_Book/0#p0_1)  
   
 
 **Utopia, evolutionary**  
   
 
 This epoch of the Teacher Sons is the vestibule to the final planetary age—evolutionary utopia—the age of light and life. [UB 49:5.27](/en/The_Urantia_Book/49#p5_27)
+
+
+<br>
+

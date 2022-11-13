@@ -1,4 +1,26 @@
+---
+title: "Workbook VI — Bible Study — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 6. JOSHUA
@@ -148,3 +170,7 @@ VI. SELECTED TEXTS
 9. **Victory claims**. "Then the whole congregation of the people of Israel assembled at Shiloh, and set up the tent of meeting there; the land lay subdued before them." 18:1.
 
 10. **Nature of Yahweh**. "Joshua said to the people, 'You cannot serve the Lord, for he is a holy God; he is a jealous God; he will not forgive your transgressions or your sins.'" 24:19.
+
+
+<br>
+

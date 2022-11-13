@@ -1,4 +1,26 @@
+---
+title: "Workbook VII — Terminology — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 ## R
@@ -12,7 +34,7 @@ Though it is hardly proper to speak of Jesus as a sacrificer, a ransomer, or a r
 **Reality**  
   
 
-Reality, as comprehended by finite beings, is .partial, relative, and shadowy. [UB 0:3.20](https://www.urantia.org/urantia-book-standardized/foreword#U0_3_20)  
+Reality, as comprehended by finite beings, is .partial, relative, and shadowy. [UB 0:3.20](/en/The_Urantia_Book/0#p3_20)  
   
 Reality differentially actualizes on diverse universe levels; reality originates in and by the infinite volition of the Universal Father and is realizable in three primal phases on many different levels of universe actualization:
 
@@ -20,7 +42,7 @@ Reality differentially actualizes on diverse universe levels; reality originates
   
 2. Deified reality  
   
-3. Interassociated reality [UB 0:4.1](https://www.urantia.org/urantia-book-standardized/foreword#U0_4_1) [UB 0:4.1](https://www.urantia.org/urantia-book-standardized/foreword#U0_4_1)
+3. Interassociated reality [UB 0:4.1](/en/The_Urantia_Book/0#p4_1) [UB 0:4.1](/en/The_Urantia_Book/0#p4_1)
 
 **Reason**
 
@@ -199,3 +221,7 @@ The weak and inferior have always contended for equal rights; they have always i
 The essence of the ritual is the perfection of its performance; among savages it must be practiced with exact precision.  
   
 Ritual is the technique of sanctifying custom; ritual creates and perpetuates myths as well as contributing to the preservation of social and religious customs. Again, ritual itself has been fathered by myths. Rituals are often at first social, later becoming economic and finally acquiring the sanctity and dignity of religious ceremonial. Ritual may be personal or group in practice—or both—as illustrated by prayer, dancing, and drama. [UB 90:5.1](/en/The_Urantia_Book/90#p5_1)
+
+
+<br>
+

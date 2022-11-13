@@ -1,4 +1,26 @@
+---
+title: "Workbook VI — Bible Study — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 1. **THE ANCIENT ORIENT**
@@ -80,3 +102,7 @@ II. THE ORIENT DURING THIRD MILLENNIUM
 23. The [Hyksos](https://en.wikipedia.org/wiki/Hyksos)—origin unknown—took over in Egypt. Confusion reigned—a dark age was coining on.
 
 24. The Hittite rule is to come later. But now it is time to go back and pick up the story of Israel during the times of the Patriarchs.
+
+
+<br>
+

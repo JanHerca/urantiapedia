@@ -1,4 +1,26 @@
+---
+title: "Workbook VII — Terminology — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 ## B
 
@@ -47,7 +69,7 @@ Men are, Indeed, by nature evil, but not necessarily sinful. The new birth—the
 **Body, Human**  
   
 
-Body. The material or physical organism of man. The living electrochemical mechanism of animal nature and origin. [UB 0:5.7](https://www.urantia.org/urantia-book-standardized/foreword#U0_5_7)  
+Body. The material or physical organism of man. The living electrochemical mechanism of animal nature and origin. [UB 0:5.7](/en/The_Urantia_Book/0#p5_7)  
   
 Material evolution has provided you a life machine, your body; [UB 111:1.4](/en/The_Urantia_Book/111#p1_4)  
   
@@ -58,3 +80,7 @@ In time, man’s body is just as real as mind or spirit, but in death, both mind
   
 
 The courage of the flesh is the lowest form of bravery. Mind bravery is a higher type of human courage but the highest and supreme is uncompromising loyalty to the enlightened convictions of profound spiritual realities. and such courage constitutes the heroism of the God—knowing man. [UB 143:1.7](/en/The_Urantia_Book/143#p1_7)
+
+
+<br>
+

@@ -1,4 +1,26 @@
+---
+title: "Workbook VII — Terminology — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 ## D
@@ -49,9 +71,9 @@ Defeat is the true mirror in which you may honestly view your real self. [UB 156
 **Deity**  
   
 
-Deity is personalizable as God, is prepersonal and superpersonal in ways not altogether comprehensible by man. Deity is characterized by the quality of unity—actual or potential—on all supermaterial levels of reality; and this unifying quality is best comprehended by creatures as divinity. [UB 0:1.2](https://www.urantia.org/urantia-book-standardized/foreword#U0_1_2)  
+Deity is personalizable as God, is prepersonal and superpersonal in ways not altogether comprehensible by man. Deity is characterized by the quality of unity—actual or potential—on all supermaterial levels of reality; and this unifying quality is best comprehended by creatures as divinity. [UB 0:1.2](/en/The_Urantia_Book/0#p1_2)  
   
-Deity is the source of all that which is divine. Deity is characteristically and invariably divine, but all that which is divine is not necessarily Deity, though it will be co-ordinated with Deity and will tend towards some phase of unity with Deity—spiritual, mindal, or personal. [UB 0:1.15](https://www.urantia.org/urantia-book-standardized/foreword#U0_1_15)  
+Deity is the source of all that which is divine. Deity is characteristically and invariably divine, but all that which is divine is not necessarily Deity, though it will be co-ordinated with Deity and will tend towards some phase of unity with Deity—spiritual, mindal, or personal. [UB 0:1.15](/en/The_Urantia_Book/0#p1_15)  
   
 
 **Democracy**  
@@ -77,7 +99,7 @@ The “devil” is none other than Caligastia, the deposed Planetary Prince of U
 
 Divinity is the characteristic, unifying, and co-ordinating quality of Deity. Divinity is creature comprehensible as truth, beauty, and goodness; correlated in personality as love, mercy, and ministry; disclosed on impersonal levels as Justice, power, and sovereignty.  
   
-Divinity may be perfect—complete—as on existential and creator levels of Paradise perfection; it may be imperfect, as on experiential and creature levels of time—space evolution; or it may be relative, neither perfect not imperfect, as on certain Havona levels of existential-experiential relationships. [UB 0:1.17](https://www.urantia.org/urantia-book-standardized/foreword#U0_1_17)  
+Divinity may be perfect—complete—as on existential and creator levels of Paradise perfection; it may be imperfect, as on experiential and creature levels of time—space evolution; or it may be relative, neither perfect not imperfect, as on certain Havona levels of existential-experiential relationships. [UB 0:1.17](/en/The_Urantia_Book/0#p1_17)  
   
 
 **Divorce**  
@@ -102,3 +124,7 @@ Sectarianism is a disease of institutional religion, and dogmatism is an enslave
   
 
 (as a level of reality) The reality domain of morals in the philosophic realm, the arena of reason, the recognition of relative right and wrong. This is the judicial form of the cosmic discrimination. [UB 16:6.7](/en/The_Urantia_Book/16#p6_7)
+
+
+<br>
+

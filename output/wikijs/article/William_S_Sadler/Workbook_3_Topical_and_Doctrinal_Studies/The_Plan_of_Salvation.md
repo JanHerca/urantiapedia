@@ -22,7 +22,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 Author: **William S. Sadler**
 
-#### I. THE LOVE OF GOD
+## I. THE LOVE OF GOD
 
 1. God uniquely individualizes his love for every person.  12:7.9](/en/The_Urantia_Book/12#p7_9)
 
@@ -30,7 +30,7 @@ Author: **William S. Sadler**
 
 **BIBLE REFERENCES**: [Acts 10:34, 35](/en/Bible/Acts/10#v34). [II Cor 3:17](/en/Bible/2_Corinthians/3#v17). [I John 4:8](/en/Bible/1_John/4#v8).
 
-#### II. THE PERFECTION PLAN
+## II. THE PERFECTION PLAN
 
 1. God’s will may not prevail in the part, but it always does with the whole.  12:7.1](/en/The_Urantia_Book/12#p7_1)
 
@@ -44,13 +44,13 @@ Author: **William S. Sadler**
 
 **BIBLE REFERENCES**: [Eph 3:11](/en/Bible/Ephesians/3#v11). [Rom 8:28](/en/Bible/Romans/8#v28). [Gen 1:26](/en/Bible/Genesis/1#v26). [Matt 5:48](/en/Bible/Matthew/5#v48).
 
-#### III. THE BESTOWAL PLAN
+## III. THE BESTOWAL PLAN
 
 The incarnate bestowal of the Paradise Sons upon the mortal races is a project of the Eternal Son.  7:4.5](/en/The_Urantia_Book/7#p4_5)
 
 **BIBLE REFERENCES**: [Luke 19:10](/en/Bible/Luke/19#v10).
 
-#### IV. THE MERCY MINISTRY PLAN
+## IV. THE MERCY MINISTRY PLAN
 
 1. When the perfection and bestowal plans were proclaimed, the Infinite Spirit promulgated his plan of mercy ministry.  7:4.6](/en/The_Urantia_Book/7#p4_6)
 
@@ -58,7 +58,7 @@ The incarnate bestowal of the Paradise Sons upon the mortal races is a project o
 
 **BIBLE REFERENCES**: [Rom 8:26](/en/Bible/Romans/8#v26).
 
-#### V. THE SALVAGE PLAN
+## V. THE SALVAGE PLAN
 
 1. In case of sin or delay, the Paradise Sons act as retrievers.  7:4.5](/en/The_Urantia_Book/7#p4_5)
 
@@ -66,7 +66,7 @@ The incarnate bestowal of the Paradise Sons upon the mortal races is a project o
 
 **BIBLE REFERENCES**: [Isa 63:9](/en/Bible/Isaiah/63#v9). [Heb 12:10](/en/Bible/Hebrews/12#v10). [I Pet 1:5](/en/Bible/1_Peter/1#v5).
 
-#### VI. THE FAITH SONS OF GOD
+## VI. THE FAITH SONS OF GOD
 
 1. Sonship with God is inherent in divine love; it is not dependent on the bestowals of the Paradise Sons.  186:5.5](/en/The_Urantia_Book/186#p5_5)
 
@@ -78,7 +78,7 @@ The incarnate bestowal of the Paradise Sons upon the mortal races is a project o
 
 **BIBLE REFERENCES**: [Rom 8:14](/en/Bible/Romans/8#v14). [John 3:3](/en/Bible/John/3#v3). [II Cor 5:17](/en/Bible/2_Corinthians/5#v17). [I John 5:4](/en/Bible/1_John/5#v4).
 
-#### VII. JESUS’ LIFE ON EARTH
+## VII. JESUS’ LIFE ON EARTH
 
 1. Jesus wants you to believe _with_ him—rather than _in_ him.  196:0.13](/en/The_Urantia_Book/196#p0_13)
 
@@ -94,7 +94,7 @@ The incarnate bestowal of the Paradise Sons upon the mortal races is a project o
 
 **BIBLE REFERENCES**: [II Cor 5:19](/en/Bible/2_Corinthians/5#v19).
 
-#### VIII. THE RELIGION OF SURVIVAL
+## VIII. THE RELIGION OF SURVIVAL
 
 1. Having embarked on the way of life everlasting, do not fear the limitations of human nature. At every crossroad, the Spirit of Truth will speak—”This is the way.”  34:7.8](/en/The_Urantia_Book/34#p7_8)
 
@@ -105,3 +105,18 @@ The incarnate bestowal of the Paradise Sons upon the mortal races is a project o
 4. The present destiny of surviving mortals is the Paradise Corps of the Finality.  112:7.15](/en/The_Urantia_Book/112#p7_15)
 
 **BIBLE REFERENCES**: [I John 5:4](/en/Bible/1_John/5#v4).
+
+
+<br>
+
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Paradise_Trinity">The Paradise Trinity</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Plan_of_Survival">The Plan of Survival</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>

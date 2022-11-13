@@ -55,3 +55,4 @@ Este é o principal índice para documentação na própria Urantiapedia. Por fa
     7. [Catálogo de diagramas](/pt/help/github_diagrams_catalog)
     8. [Obter diagramas](/pt/help/github_diagrams_svg)
     9. [Catálogo de imagens](/pt/help/github_images_catalog)
+   

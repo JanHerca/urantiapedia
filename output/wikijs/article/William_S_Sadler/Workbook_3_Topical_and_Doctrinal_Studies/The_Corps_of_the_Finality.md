@@ -22,7 +22,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 Author: **William S. Sadler**
 
-#### I. FINALITERS
+## I. FINALITERS
 
 1. The seven Finaliter Corps are controlled by the senior Master Architect.
 
@@ -36,7 +36,7 @@ Author: **William S. Sadler**
 
 2. Finaliters are destined to serve in the universes of outer space.  12:2.6](/en/The_Urantia_Book/12#p2_6)
 
-#### II. CORPS OF MORTAL FINALITERS
+## II. CORPS OF MORTAL FINALITERS
 
 1. Havona Natives.  31:1.1](/en/The_Urantia_Book/31#p1_1)
 
@@ -50,6 +50,21 @@ Author: **William S. Sadler**
 
 6. Glorified Midway Creatures.  31:6.2](/en/The_Urantia_Book/31#p6_2)
 
-#### III. EVANGELS OF LIGHT
+## III. EVANGELS OF LIGHT
 
 Evangels of Light are the transient seventh members of the Mortal Finality Corps.  31:7.2](/en/The_Urantia_Book/31#p7_2)
+
+
+<br>
+
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Religious_Experience">Religious Experience</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Creator_Sons">The Creator Sons</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>

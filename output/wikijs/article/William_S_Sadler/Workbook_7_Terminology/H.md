@@ -1,4 +1,26 @@
+---
+title: "Workbook VII — Terminology — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 ## H
@@ -73,3 +95,7 @@ Is _hope_—the grandeur of trust—desirable? Then human existence must constan
   
 
 When we are tempted to magnify our self-importance, if we stop to contemplate the infinity of the greatness and grandeur of our Makers, our own self-glorification becomes sublimely ridiculous, even verging on the humorous. One of the functions of humor is to help all of us take ourselves less seriously. _Humor is the divine antidote for exultation of ego._ [UB 48:4.15](/en/The_Urantia_Book/48#p4_15)
+
+
+<br>
+

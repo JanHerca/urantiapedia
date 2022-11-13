@@ -1,4 +1,26 @@
+---
+title: "Workbook VI — Bible Study — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 7. **THE OLD TESTAMENT AS LITERATURE**
@@ -104,3 +126,7 @@ Abraham’s servant going to Mesopotamia for Isaac’s wife. [Gen. 24](/en/Bible
 Joseph’s story in Egypt. [Gen. 39-41](/en/Bible/Genesis/39.htm).
 
 7. Not only did the Hebrews create the greatest literature of the ancient East, but at the same time it was the greatest **religious** literature of all time— up to the appearance of the New Testament.
+
+
+<br>
+

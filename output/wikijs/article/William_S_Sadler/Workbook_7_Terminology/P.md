@@ -1,4 +1,26 @@
+---
+title: "Workbook VII — Terminology — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 ## P
@@ -6,7 +28,7 @@
 **Paradise**  
   
 
-Paradise is a term inclusive of the personal and the nonpersonal focal Absolutes of all phases of universe reality. Paradise, properly, qualified, may connote any and all forms of reality. Deity, divinity, personality, and energy—spiritual, mindal, or material. All share Paradise as the place of origin, function, and destiny, as regards values, meanings, and factual existence. [UB 0:4.11](https://www.urantia.org/urantia-book-standardized/foreword#U0_4_11)  
+Paradise is a term inclusive of the personal and the nonpersonal focal Absolutes of all phases of universe reality. Paradise, properly, qualified, may connote any and all forms of reality. Deity, divinity, personality, and energy—spiritual, mindal, or material. All share Paradise as the place of origin, function, and destiny, as regards values, meanings, and factual existence. [UB 0:4.11](/en/The_Urantia_Book/0#p4_11)  
   
 
 **Paradise. The Isle of**  
@@ -14,9 +36,9 @@ Paradise is a term inclusive of the personal and the nonpersonal focal Absolutes
 
 Paradise not otherwise qualified—is the Absolute of the material-gravity control of the First Source and Center. Paradise is motionless, being the only stationary thing in the universe of universes. The Isle of Paradise has a universe location but no position in space. This eternal Isle is the actual source of the physical universes, past, present, and future. The nuclear Isle of Light is a Deity derivative, but it is hardly Deity; neither are the material creations a part of Deity; they are a consequence.  
   
-Paradise is not a creator; it is a unique controller of many universe activities, far more of a controller than a reactor. Throughout the material universes paradise influences the reactions and conduct of all beings having to do with force, energy, and power, but Paradise itself is unique, exclusive, and isolated in the universes. Paradise represents nothing and nothing represents Paradise. It is neither a force nor a presence; it is just Paradise. [UB 0:4.12](https://www.urantia.org/urantia-book-standardized/foreword#U0_4_12)  
+Paradise is not a creator; it is a unique controller of many universe activities, far more of a controller than a reactor. Throughout the material universes paradise influences the reactions and conduct of all beings having to do with force, energy, and power, but Paradise itself is unique, exclusive, and isolated in the universes. Paradise represents nothing and nothing represents Paradise. It is neither a force nor a presence; it is just Paradise. [UB 0:4.12](/en/The_Urantia_Book/0#p4_12)  
   
-But the Isle of Paradise is nonpersonal and extraspiritual, being the essence of the universal body, the source and center of physical matter, and the absolute master pattern of universal reality. [UB 0:5.5](https://www.urantia.org/urantia-book-standardized/foreword#U0_5_5)  
+But the Isle of Paradise is nonpersonal and extraspiritual, being the essence of the universal body, the source and center of physical matter, and the absolute master pattern of universal reality. [UB 0:5.5](/en/The_Urantia_Book/0#p5_5)  
   
 Paradise is the pattern of infinity; the God of Action is the activator of that pattern. Paradise is the material fulcrum of infinity; [UB 9:3.8](/en/The_Urantia_Book/9#p3_8)  
   
@@ -38,9 +60,9 @@ And Paradise is the actual source of all material universes past, present, and f
 **Pattern**  
   
 
-Pattern is a master design from which copies are made. Eternal Paradise is the absolute of patterns; the Eternal Son is the pattern personality; the Universal rather is the direct ancestor-source of both. But Paradise does not bestow pattern, and the Son cannot bestow personality. [UB 0:6.13](https://www.urantia.org/urantia-book-standardized/foreword#U0_6_13)  
+Pattern is a master design from which copies are made. Eternal Paradise is the absolute of patterns; the Eternal Son is the pattern personality; the Universal rather is the direct ancestor-source of both. But Paradise does not bestow pattern, and the Son cannot bestow personality. [UB 0:6.13](/en/The_Urantia_Book/0#p6_13)  
   
-But pattern is pattern and remains pattern; only copies are multiplied. [UB 0:6.10](https://www.urantia.org/urantia-book-standardized/foreword#U0_6_10)  
+But pattern is pattern and remains pattern; only copies are multiplied. [UB 0:6.10](/en/The_Urantia_Book/0#p6_10)  
   
 
 **Peace**  
@@ -74,17 +96,17 @@ The rulers of the Superuniverse major sectors. [UB 15:10.14](/en/The_Urantia_Boo
 **Personal**  
   
 
-Any and all things responding to the personality circuit of the Father, we call personal. [UB 0:6.1](https://www.urantia.org/urantia-book-standardized/foreword#U0_6_1)  
+Any and all things responding to the personality circuit of the Father, we call personal. [UB 0:6.1](/en/The_Urantia_Book/0#p6_1)  
   
 
 **Personality**  
   
 
-Personality is never spontaneous; it is the gift of the Paradise Father. Personality is superimposed upon energy, and it is associated only with living energy system identity can be associated with nonliving energy patterns. [UB 0:5.4](https://www.urantia.org/urantia-book-standardized/foreword#U0_5_4)  
+Personality is never spontaneous; it is the gift of the Paradise Father. Personality is superimposed upon energy, and it is associated only with living energy system identity can be associated with nonliving energy patterns. [UB 0:5.4](/en/The_Urantia_Book/0#p5_4)  
   
 The Universal Father is the secret of the reality of personality the bestowal of personality, and the destiny of personality. The Eternal Son is the absolute personality, the secret of spiritual energy morontia spirits, and perfected spirits. The Conjoint Actor is the spirit-mind personality, the source of intelligence, reason, and the universal mind.  
   
-The personality of mortal man is neither body, mind, nor spirit; neither is it the soul. Personality is the one changeless reality in an otherwise ever-changing creature experiences and it unifies all other associated factors of individuality. The personality is the unique bestowal which the Universal Father makes upon the living and associated energies of matter, mind, and spirit, and which survives with the survival of the morontial soul. [UB 0:5.11](https://www.urantia.org/urantia-book-standardized/foreword#U0_5_11)  
+The personality of mortal man is neither body, mind, nor spirit; neither is it the soul. Personality is the one changeless reality in an otherwise ever-changing creature experiences and it unifies all other associated factors of individuality. The personality is the unique bestowal which the Universal Father makes upon the living and associated energies of matter, mind, and spirit, and which survives with the survival of the morontial soul. [UB 0:5.11](/en/The_Urantia_Book/0#p5_11)  
   
 In the contemplation of Deity, the concept of personality must be divested of the idea of corporeality. A material body is not indispensable to personality in either man or God. The corporeality error is shown in both extremes of human philosophy. In materialism, since man loses his body at death, he ceases to exist as a personality; in pantheism, since God has no body, he is not, therefore, a person. The superhuman type of progressing personality functions in a union of mind and spirit.  
   
@@ -148,13 +170,13 @@ Social and political prestige. [UB 69:5.7](/en/The_Urantia_Book/69#p5_7)
 
 The craving to be master. [UB 69:5.8](/en/The_Urantia_Book/69#p5_8)  
   
-_Power_ is ordinarily limited to the designation of the electronic level of material or linear-gravity-responsive matter in the grand universe. Power is also employed to designate sovereignty. [UB 0:6.2](https://www.urantia.org/urantia-book-standardized/foreword#U0_6_2)  
+_Power_ is ordinarily limited to the designation of the electronic level of material or linear-gravity-responsive matter in the grand universe. Power is also employed to designate sovereignty. [UB 0:6.2](/en/The_Urantia_Book/0#p6_2)  
   
 
 **Power, Universe**  
   
 
-Universe power includes all forms of energy which, while still responding to Paradise gravity, are directly responsive to linear gravity. This is the electronic level of energy-matter and all subsequent evolutions thereof. [UB 0:6.7](https://www.urantia.org/urantia-book-standardized/foreword#U0_6_7)  
+Universe power includes all forms of energy which, while still responding to Paradise gravity, are directly responsive to linear gravity. This is the electronic level of energy-matter and all subsequent evolutions thereof. [UB 0:6.7](/en/The_Urantia_Book/0#p6_7)  
   
 Space-force has been changed into space-energy and thence into the energy of gravity control. Thus has physical energy been ripened to that point where it can be directed into channels of power and made to serve the manifold purposes of the universe Creators.  
   
@@ -233,3 +255,7 @@ Prejudice blinds the soul to the recognition of truth and prejudice can be remov
 Of all the dangers which beset man’s mortal nature and Jeopardize his spiritual integrity, pride. is the greatest. [UB 111:6.9](/en/The_Urantia_Book/111#p6_9)  
   
 Pride is deceitful, intoxicating, and sin-breeding whether found in an individual, a group, a race, or a nation. It is literally true, “Pride goes before a fall.” [UB 111:6.10](/en/The_Urantia_Book/111#p6_10)
+
+
+<br>
+

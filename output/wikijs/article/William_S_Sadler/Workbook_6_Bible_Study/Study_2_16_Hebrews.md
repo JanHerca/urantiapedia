@@ -1,4 +1,26 @@
+---
+title: "Workbook VI — Bible Study — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 16. HEBREWS
@@ -65,7 +87,7 @@ II. AUTHORSHIP
 
 14. The Council of Trent (1546) included Hebrews among the letters of Paul.
 
-15. The Urantia Book speaks of Paul as author- (539.5) 47:10.3. On p. 1024 Paul is referred to as "one of the authors." Quotations from Hebrews are ascribed to Paul on (539.5) 47:10.3 and (542.4) 48:1.7 in the Urantia Book.
+15. The Urantia Book speaks of Paul as author- [UB 47:10.3](/en/The_Urantia_Book/47#p10_3). On p. 1024 Paul is referred to as "one of the authors." Quotations from Hebrews are ascribed to Paul on [UB 47:10.3](/en/The_Urantia_Book/47#p10_3) and [UB 48:1.7](/en/The_Urantia_Book/48#p1_7) in the Urantia Book.
 
 III. GENERAL CONSIDERATIONS
 
@@ -154,3 +176,7 @@ behind the curtain, where Jesus has gone as a forerunner on our behalf, having b
 19. Hospitality. "Let brotherly love continue. Do not neglect to show hospitality to strangers, for thereby some have entertained angels unawares." 13:1,2.
 
 20. Avoid love of money. "Keep your life free from love of money, and be content with what you have." 13:5.
+
+
+<br>
+

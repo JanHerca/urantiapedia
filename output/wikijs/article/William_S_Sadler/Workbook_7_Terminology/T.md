@@ -1,4 +1,26 @@
+---
+title: "Workbook VII — Terminology — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 ## T
 
@@ -84,19 +106,19 @@ _Transcendental energy_. This energy system operates on and from the upper level
 **Trinity, Absolute**  
   
 
-_The Absolute Trinity_—the second experiential Trinity—now in process of actualization, will consist of God the Supreme, God the Ultimate, and the unrevealed Consummator of Universe Destiny. This Trinity functions on both personal and superpersonal levels, even to the borders of the nonpersonal, and its unification in universality would experientialize Absolute Deity. [UB 0:12.7](https://www.urantia.org/urantia-book-standardized/foreword#U0_12_7)  
+_The Absolute Trinity_—the second experiential Trinity—now in process of actualization, will consist of God the Supreme, God the Ultimate, and the unrevealed Consummator of Universe Destiny. This Trinity functions on both personal and superpersonal levels, even to the borders of the nonpersonal, and its unification in universality would experientialize Absolute Deity. [UB 0:12.7](/en/The_Urantia_Book/0#p12_7)  
   
 
 **Trinity, Paradise**  
   
 
-_The Paradise Trinity_—the eternal Deity union of the Universal Father, the Eternal Son, and the Infinite Spirit—is existential in actuality, but all potentials are experiential. Therefore does this Trinity constitute the only Deity reality embracing infinity, and therefore do there occur the universe phenomena of the actualization of God the Supreme, God the Ultimate, and God the Absolute. [UB 0:12.2](https://www.urantia.org/urantia-book-standardized/foreword#U0_12_2)  
+_The Paradise Trinity_—the eternal Deity union of the Universal Father, the Eternal Son, and the Infinite Spirit—is existential in actuality, but all potentials are experiential. Therefore does this Trinity constitute the only Deity reality embracing infinity, and therefore do there occur the universe phenomena of the actualization of God the Supreme, God the Ultimate, and God the Absolute. [UB 0:12.2](/en/The_Urantia_Book/0#p12_2)  
   
 
 **Trinity, Ultimate**  
   
 
-_The Ultimate Trinity_, now evolving, will eventually consist of the Supreme Being, the Supreme Creator Personalities, and the absonite Architects of the Master Universe, those unique universe planners who are neither creators not creatures. God the Ultimate will eventually and inevitably powerize and personalize as the Deity consequence of the unification of this experiential Ultimate Trinity in the expanding arena of the well-nigh limitless master universe. [UB 0:12.6](https://www.urantia.org/urantia-book-standardized/foreword#U0_12_6)  
+_The Ultimate Trinity_, now evolving, will eventually consist of the Supreme Being, the Supreme Creator Personalities, and the absonite Architects of the Master Universe, those unique universe planners who are neither creators not creatures. God the Ultimate will eventually and inevitably powerize and personalize as the Deity consequence of the unification of this experiential Ultimate Trinity in the expanding arena of the well-nigh limitless master universe. [UB 0:12.6](/en/The_Urantia_Book/0#p12_6)  
   
 
 **Truth**  
@@ -125,3 +147,7 @@ Revealed truth, personally discovered truth, is the supreme delight of the human
 Divine truth is a spirit-discerned and living reality. Truth exists only on high spiritual levels of the realization of divinity and the consciousness of communion with God. You can know the truth, and you can live the truth; you can experience the growth of truth in the soul and enjoy the liberty of its enlightenment in the mind, but you cannot imprison truth in formulas, codes, creeds, or intellectual patterns of human conduct. When you undertake the human formulation of divine truth, it speedily dies. [UB 180:5.2](/en/The_Urantia_Book/180#p5_2)  
   
 Truth often becomes confusing and even misleading when it is dismembered, segregated, isolated, and too much analyzed. Living truth teaches the truth seeker aright only when it is embraced in wholeness and as a living spiritual reality, not as a fact of material science or an inspiration of intervening art. [UB 195:5.2](/en/The_Urantia_Book/195#p5_2)
+
+
+<br>
+

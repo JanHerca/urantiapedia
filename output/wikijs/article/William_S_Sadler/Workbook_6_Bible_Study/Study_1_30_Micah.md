@@ -1,4 +1,26 @@
+---
+title: "Workbook VI — Bible Study — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 30. MICAH
@@ -100,3 +122,7 @@ IV. SELECTED TEXTS
 6. **What the Lord requires**. "'He has showed you, O man, what is good; and what does the Lord require of you but to do justice, and love kindness, and to walk humbly with your God?'" 6:8.
 
 7. **Attributes of God**. "Who is a God like thee, pardoning iniquity and passing over transgression for the remnant of his inheritance? He does not retain his anger forever because he delights in steadfast love." 7:18.
+
+
+<br>
+

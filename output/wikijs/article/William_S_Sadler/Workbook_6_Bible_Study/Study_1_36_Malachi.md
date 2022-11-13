@@ -1,4 +1,26 @@
+---
+title: "Workbook VI — Bible Study — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 36. MALACHI
@@ -74,3 +96,7 @@ V. SELECTED TEXTS
 5. **The sun of righteousness**. "'But for you who fear my name the sun of righteousness shall rise, with healing in its wings.'" 4:2.
 
 6. **The sending of Elijah**. "'Behold, I will send you Elijah the prophet before the great and terrible day of the Lord comes.'" 4:5.
+
+
+<br>
+

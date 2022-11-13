@@ -1,4 +1,26 @@
+---
+title: "Workbook VII — Terminology — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 ## S
@@ -169,7 +191,7 @@ In all praying, remember that sonship is a _gift_. No child has aught to do with
 
 **Soul**
 
-The soul of man is an experiential acquirement. As a mortal creature chooses to “do the will of the Father in heaven,” so the indwelling spirit becomes the father of a _new reality_ in human experience. The mortal and material mind is the mother of this same emerging reality. The substance of this new reality is neither material nor spiritual—it is _morontial_. This is the emerging and immortal soul which is destined to survive mortal death and begin the paradise ascension. [UB 0:5.10](https://www.urantia.org/urantia-book-standardized/foreword#U0_5_10)  
+The soul of man is an experiential acquirement. As a mortal creature chooses to “do the will of the Father in heaven,” so the indwelling spirit becomes the father of a _new reality_ in human experience. The mortal and material mind is the mother of this same emerging reality. The substance of this new reality is neither material nor spiritual—it is _morontial_. This is the emerging and immortal soul which is destined to survive mortal death and begin the paradise ascension. [UB 0:5.10](/en/The_Urantia_Book/0#p5_10)  
   
 The human personality is identified with mind and spirit held together in functional relationship by life in a material body. This functioning relationship of such mind and spirit does not result in some combination of the qualities or attributes of mind and spirit but rather in an entirely new, original, and unique universe value of potentially eternal endurance, the _soul_. [UB 111:2.3](/en/The_Urantia_Book/111#p2_3)  
   
@@ -202,7 +224,7 @@ On Uversa, space potency is spoken of as ABSOLUTA. [UB 42:2.5](/en/The_Urantia_B
 
 Spirit is ever conscious, minded, and possessed of varied phases of identity. Without mind in some phase there would be no spiritual consciousness in the fraternity of spirit beings. [UB 6:6.2](/en/The_Urantia_Book/6#p6_2)  
   
-_Spirit._ The divine spirit that indwells the mind of man—the Thought Adjuster. This immortal spirit is prepersonal—not a personality, though destined to become a part of the personality of the surviving mortal creature. [UB 0:5.9](https://www.urantia.org/urantia-book-standardized/foreword#U0_5_9)  
+_Spirit._ The divine spirit that indwells the mind of man—the Thought Adjuster. This immortal spirit is prepersonal—not a personality, though destined to become a part of the personality of the surviving mortal creature. [UB 0:5.9](/en/The_Urantia_Book/0#p5_9)  
   
 Cosmic force responds to mind even as cosmic mind responds to spirit. Spirit is divine purpose, and spirit mind is divine purpose in action. Energy is thing, mind .is meaning, spirit is value. Even in time and space, mind establishes those relative relationships between energy and spirit which are suggestive of mutual kinship in eternity. [UB 9:4.5](/en/The_Urantia_Book/9#p4_5)  
   
@@ -266,7 +288,7 @@ Ten major sectors (about 1,000,000,000 inhabited worlds) make one major sector. 
 **Supreme Being**  
   
 
-_The Supreme Being_ is not a direct creator, except that he is the father of Majeston, but he is a synthetic co-ordinator of all creature-Creator universe activities. The Supreme Being, now actualizing in the evolutionary universes, is the Deity correlator and synthesizer of time-space divinity, of triune Paradise Deity in experiential association with the Supreme Creators of time and space. [UB 0:7.9](https://www.urantia.org/urantia-book-standardized/foreword#U0_7_9)  
+_The Supreme Being_ is not a direct creator, except that he is the father of Majeston, but he is a synthetic co-ordinator of all creature-Creator universe activities. The Supreme Being, now actualizing in the evolutionary universes, is the Deity correlator and synthesizer of time-space divinity, of triune Paradise Deity in experiential association with the Supreme Creators of time and space. [UB 0:7.9](/en/The_Urantia_Book/0#p7_9)  
   
 
 **Survival**  
@@ -289,3 +311,7 @@ Suspicion is the inherent reaction of primitive men; the survival struggles of t
   
 
 The basic unit of the supergovernment consists of about one thousand inhabited or inhabitable worlds. Blazing suns, cold worlds, planets too near the hot suns, and other spheres not suitable for creature habitation are not included in this group. These one thousand worlds adapted to support life are called a system, but in the younger systems only a comparatively small number of these worlds may be inhabited. Each inhabited planet is presided over by a Planetary Prince, and each local system has an architectural sphere as its headquarters and is ruled by a System Sovereign. [UB 15:2.3](/en/The_Urantia_Book/15#p2_3)
+
+
+<br>
+

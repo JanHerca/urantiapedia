@@ -22,7 +22,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 Author: **William S. Sadler**
 
-#### I. THE SUPREME POWER DIRECTORS
+## I. THE SUPREME POWER DIRECTORS
 
 1. The Supreme Power Directors create seven groups of associates—they are the physical energy directors of the grand universe.  29:1.1](/en/The_Urantia_Book/29#p1_1)
 
@@ -34,7 +34,7 @@ Author: **William S. Sadler**
 4. Local Universe Centers.
 5. Constellation Centers.
 6. System Centers.
-7. Unclassified Centers.[UB 29:2.1](/en/The_Urantia_Book/29#p2_1)
+7. Unclassified Centers. [UB 29:2.1](/en/The_Urantia_Book/29#p2_1)
 
 3. The Supreme Power Directors operate from the periphery of Paradise.  29:2.1](/en/The_Urantia_Book/29#p2_1)
 
@@ -46,7 +46,7 @@ Author: **William S. Sadler**
 
 7. Chemical elements exhibit a sevenfold recurrence of similar properties.  42:9.3](/en/The_Urantia_Book/42#p9_3)
 
-#### II. POWER CENTERS AND CONTROLLERS
+## II. POWER CENTERS AND CONTROLLERS
 
 1. Power centers and controllers exert perfect control over seven of the ten forms of energy.  29:3.11](/en/The_Urantia_Book/29#p3_11)
 
@@ -68,7 +68,7 @@ Author: **William S. Sadler**
 6. Secondary Dissociators.
 7. Frandalanks and Chronoldeks.  29:4.4](/en/The_Urantia_Book/29#p4_4)
 
-#### III. MASTER FORCE ORGANIZERS
+## III. MASTER FORCE ORGANIZERS
 
 1. Three groups of beings have to do with force control and energy regulation:
 
@@ -84,27 +84,27 @@ Author: **William S. Sadler**
 
 5. There are seven divisions of universal energy:
 
-> 1. Space potency—Absoluta.
+	> 1. Space potency—Absoluta.
 
-> 2. Primordial force—Segregata.
+	> 2. Primordial force—Segregata.
 
-> 3. Emergent energy:
+	> 3. Emergent energy:
 
-> > a. (Puissant energy )
-> > 
-> > b. (Gravity energy ) Ultimata.
+	> 	> a. (Puissant energy )
+	> 	> 
+	> 	> b. (Gravity energy ) Ultimata.
 
-> 4. Universe power—Gravita.
+	> 4. Universe power—Gravita.
 
-> 5. Havona energy—Triata.
+	> 5. Havona energy—Triata.
 
-> 6. Transcendental energy—Tranosta.
+	> 6. Transcendental energy—Tranosta.
 
-> 7. Monota.  42:2.2](/en/The_Urantia_Book/42#p2_2)
+	> 7. Monota.  42:2.2](/en/The_Urantia_Book/42#p2_2)
 
-#### IV. NONSPIRITUAL ENERGY SYSTEMS
+## IV. NONSPIRITUAL ENERGY SYSTEMS
 
-1. Pattern may be material, mindal, or spiritual.  0:6.11](https://www.urantia.org/urantia-book-standardized/foreword#U0_6_11)
+1. Pattern may be material, mindal, or spiritual.  0:6.11](/en/The_Urantia_Book/0#p6_11)
 
 2. Cosmic matter becomes a philosophic shadow cast by mind in the presence of spirit luminosity.  12:8.15](/en/The_Urantia_Book/12#p8_15)
 
@@ -121,7 +121,7 @@ Author: **William S. Sadler**
 9. Radioactive matter.
 10. Collapsed matter.  42:3.2](/en/The_Urantia_Book/42#p3_2)
 
-#### V. ENERGY AND MATTER
+## V. ENERGY AND MATTER
 
 1. Plus energy produces power disturbances; minus energy favors aggregation of matter.  15:8.7](/en/The_Urantia_Book/15#p8_7)
 
@@ -151,3 +151,18 @@ Author: **William S. Sadler**
 8. Interelectronic space is activated by wavelike manifestations.  42:8.2](/en/The_Urantia_Book/42#p8_2)
 
 9. If an electron should be magnified to equal one tenth of an ounce, the volume of such an electron would be as large as the earth.  42:6.8](/en/The_Urantia_Book/42#p6_8)
+
+
+<br>
+
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Plan_of_Survival">The Plan of Survival</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Spirit_of_Truth">The Spirit of Truth</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>

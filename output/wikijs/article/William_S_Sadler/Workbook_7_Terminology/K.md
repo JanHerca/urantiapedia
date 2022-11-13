@@ -1,4 +1,26 @@
+---
+title: "Workbook VII — Terminology — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 ## K
@@ -41,3 +63,7 @@ Knowledge leads to placing men, to originating social strata and castes. Religio
 Wisdom leads to the higher and better fellowship of both ideas and one’s fellows. Revelation liberates men and starts them out on the eternal adventure. [UB 102:3.6](/en/The_Urantia_Book/102#p3_6)  
   
 Knowledge is the sphere of the material or fact-discerning mind. Truth is the domain of the spiritually endowed intellect that is conscious of knowing God. Knowledge is demonstrable; truth is experienced. Knowledge is a possession of the mind; truth an experience of the soul, the progressing self. Knowledge is a function of the nonspiritual level; truth is a phase of the mind-spirit level of the universes. The eye of the material mind perceives a world of factual knowledge; the eye of the spiritualized intellect discerns a world of true values. These two views, synchronized and harmonized, reveal the world of reality, wherein wisdom interprets the phenomena of the universe in terms of progressive personal experience. [UB 130:4.10](/en/The_Urantia_Book/130#p4_10)
+
+
+<br>
+

@@ -33,3 +33,18 @@ Author: **William S. Sadler**
 5. The density of our sun is about one and one-half that of water.  41:4.1](/en/The_Urantia_Book/41#p4_1)
 
 6. Architectural worlds enjoy ten forms of material life—three vegetable and three animal—with four difficult of comprehension.  43:6.4](/en/The_Urantia_Book/43#p6_4)
+
+
+<br>
+
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Kingdom_of_Heaven">The Kingdom of Heaven</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Morontia_Life">The Morontia Life</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>

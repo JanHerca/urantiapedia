@@ -22,7 +22,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 Author: **William S. Sadler**
 
-#### I. NATURE WORSHIP
+## I. NATURE WORSHIP
 
 1. Early worship was suggested by nature objects close at hand.  85:0.2](/en/The_Urantia_Book/85#p0_2)
 
@@ -42,7 +42,7 @@ Author: **William S. Sadler**
 
 9. Man’s early fear became religious as nature became personalized, spiritized, and eventually deified.  86:0.2](/en/The_Urantia_Book/86#p0_2)
 
-#### II. CHANCE AND LUCK
+## II. CHANCE AND LUCK
 
 1. Early man lived in fear of chance—existence was a gamble.  86:1.4](/en/The_Urantia_Book/86#p1_4)
 
@@ -56,7 +56,7 @@ Author: **William S. Sadler**
 
 6. Modern man has removed the insurance business from the realm of priests to the domain of economics.  86:7.2](/en/The_Urantia_Book/86#p7_2)
 
-#### III. THE GHOST CULT
+## III. THE GHOST CULT
 
 1. Ghost fear was the fountainhead of world religion.  87:4.1](/en/The_Urantia_Book/87#p4_1)
 
@@ -70,7 +70,7 @@ Author: **William S. Sadler**
 
 6. Evolutionary religion was born of man’s fear of the unknown, the inexplicable, and the incomprehensible.  90:0.3](/en/The_Urantia_Book/90#p0_3)
 
-#### IV. DEATH FEAR
+## IV. DEATH FEAR
 
 1. To primitive man, death was a shocking combination of chance and mystery.  86:3.1](/en/The_Urantia_Book/86#p3_1)
 
@@ -84,7 +84,7 @@ Author: **William S. Sadler**
 
 6. Man inherited a natural environment, acquired a social environment, and imagined a ghost environment. The state is man’s reaction to natural environment, the home to his social environment, the church to his illusory ghost environment.  86:6.1](/en/The_Urantia_Book/86#p6_1)
 
-#### V. FETISHES, MAGIC, AND CHARMS
+## V. FETISHES, MAGIC, AND CHARMS
 
 1. For ages the “breath of life” was a fetish.  86:5.13](/en/The_Urantia_Book/86#p5_13)
 
@@ -98,7 +98,7 @@ Author: **William S. Sadler**
 
 6. Ancient magic was the cocoon of modern science.  88:6.8](/en/The_Urantia_Book/88#p6_8)
 
-#### VI. SACRAMENTS AND RITUALS
+## VI. SACRAMENTS AND RITUALS
 
 1. Salvation depended on vows, oaths, pledges, fasting, and prayer. Then came self-denial, suffering, and deprivation.  87:6.16](/en/The_Urantia_Book/87#p6_16)
 
@@ -112,7 +112,7 @@ Author: **William S. Sadler**
 
 6. The common people craved consolation and promises of salvation.  98:4.1](/en/The_Urantia_Book/98#p4_1)
 
-#### VII. EVOLVING PRAYER
+## VII. EVOLVING PRAYER
 
 1. The first prayers were not addressed to God—they were like saying: “Wish me luck.”  91:0.2](/en/The_Urantia_Book/91#p0_2)
 
@@ -126,7 +126,7 @@ Author: **William S. Sadler**
 
 6. Prayer may be an angry cry for vengeance or the joy of a liberated son of God.  91:8.7](/en/The_Urantia_Book/91#p8_7)
 
-#### VIII. PROVINCE OF PRAYER
+## VIII. PROVINCE OF PRAYER
 
 1. Prayer is communion between man and his Maker.  91:2.5](/en/The_Urantia_Book/91#p2_5)
 
@@ -148,7 +148,7 @@ Author: **William S. Sadler**
 
 10. Jesus taught sixteen conditions for effective prayer.  146:2.1](/en/The_Urantia_Book/146#p2_1)
 
-#### IX. TRUE WORSHIP
+## IX. TRUE WORSHIP
 
 1. In the highest sense, we worship only the Universal Father.  5:3.1](/en/The_Urantia_Book/5#p3_1)
 
@@ -160,7 +160,7 @@ Author: **William S. Sadler**
 
 5. Worship is the highest joy of Paradise existence.  27:7.5](/en/The_Urantia_Book/27#p7_5)
 
-#### X. REAL RELIGION
+## X. REAL RELIGION
 
 1. The early Christian cult was most effective, but is today devitalized by the loss of fundamental ideas.  87:7.4](/en/The_Urantia_Book/87#p7_4)
 
@@ -178,7 +178,7 @@ Author: **William S. Sadler**
 
 8. To Jesus, prayer was “doing the Father’s will”—a way of religious living.  196:0.10](/en/The_Urantia_Book/196#p0_10)
 
-#### XI. RELIGION AND CIVILIZATION
+## XI. RELIGION AND CIVILIZATION
 
 1. The power of an idea lies not in its truth, but in its vividness of appeal.  92:3.3](/en/The_Urantia_Book/92#p3_3)
 
@@ -206,3 +206,19 @@ Author: **William S. Sadler**
 
 **BIBLE REFERENCES**: [Ps 66:18](/en/Bible/Psalms/66#v18). [Prov 21:13](/en/Bible/Proverbs/21#v13). [I John 5:14, 15](/en/Bible/1_John/5#v14). [Ps 34:17](/en/Bible/Psalms/34#v17). [Prov 15:8](/en/Bible/Proverbs/15#v8). [John 15:7](/en/Bible/John/15#v7). [Ps 37:4](/en/Bible/Psalms/37#v4). [James 1:5](/en/Bible/James/1#v5). [Luke 18:1](/en/Bible/Luke/18#v1). [Mark 14:38](/en/Bible/Mark/14#v38). [Phi[UB 4:6.19](/en/Bible/Philippians/4#v6). [Je[UB 29:12.13](/en/Bible/Jeremiah/29#v12). [Ps 92:1](/en/Bible/Psalms/92#v1). [Col 4:2](/en/Bible/Colossians/4#v2). [I Thes 5:18](/en/Bible/1_Thessalonians/5#v18).
 
+
+
+
+<br>
+
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Personality">Personality</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Providence">Providence</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>

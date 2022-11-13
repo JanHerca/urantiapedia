@@ -1,4 +1,26 @@
+---
+title: "Workbook VII — Terminology — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 ## M
 
@@ -19,7 +41,7 @@ One hundred minor sectors (about 1,000,000,000 inhabitable worlds ) make one maj
 **Man**  
   
 
-Mortal man is very largely an unrealized spiritual potentiality. [UB 0:4.7](https://www.urantia.org/urantia-book-standardized/foreword#U0_4_7)  
+Mortal man is very largely an unrealized spiritual potentiality. [UB 0:4.7](/en/The_Urantia_Book/0#p4_7)  
   
 God is spirit - spirit personality; man is also a spirit - potential spirit personality. [UB 1:6.8](/en/The_Urantia_Book/1#p6_8)  
   
@@ -147,11 +169,11 @@ The densest plane of the superuniverse, the Milky Way, which is also the densest
 **Mind**  
   
 
-Any and all that responds to the mind circuit of the Conjoint Actor, we call mind, mind as an attribute of the Infinite Spirit—mind in all its phases. [UB 0:6.1](https://www.urantia.org/urantia-book-standardized/foreword#U0_6_1)  
+Any and all that responds to the mind circuit of the Conjoint Actor, we call mind, mind as an attribute of the Infinite Spirit—mind in all its phases. [UB 0:6.1](/en/The_Urantia_Book/0#p6_1)  
   
-Mind is a phenomenon connoting the presence-activity of living ministry in addition to varied energy systems; and this is true on all levels of intelligence. In personality, mind ever intervenes between spirit and matter; therefore is the universe illuminated by three kinds of light; material light, intellectual insight, and spirit luminosity. [UB 0:6.8](https://www.urantia.org/urantia-book-standardized/foreword#U0_6_8)  
+Mind is a phenomenon connoting the presence-activity of living ministry in addition to varied energy systems; and this is true on all levels of intelligence. In personality, mind ever intervenes between spirit and matter; therefore is the universe illuminated by three kinds of light; material light, intellectual insight, and spirit luminosity. [UB 0:6.8](/en/The_Urantia_Book/0#p6_8)  
   
-Mind; The thinking, perceiving, and feeling mechanism of the human organism. The total conscious and unconscious experience. The intelligence associated with the emotional life reaching upward through worship and wisdom to the spirit level. [UB 0:5.8](https://www.urantia.org/urantia-book-standardized/foreword#U0_5_8)  
+Mind; The thinking, perceiving, and feeling mechanism of the human organism. The total conscious and unconscious experience. The intelligence associated with the emotional life reaching upward through worship and wisdom to the spirit level. [UB 0:5.8](/en/The_Urantia_Book/0#p5_8)  
   
 Mind transmutes the values of spirit into the meanings of intellect; volition has power to bring the meanings of mind to fruit in both the material and spiritual domains. The Paradise ascent involves a relative and differential growth in spirit, mind, and energy. The personality is the unifier of these components of experiential individuality. [UB 9:4.6](/en/The_Urantia_Book/9#p4_6)  
   
@@ -215,7 +237,7 @@ Morality is not necessarily spiritual; it may be wholly and purely human, albeit
 **Morontia**  
   
 
- _Morontia_ is a term designating a vast level intervening between the material and the spiritual. It may designate personal or Impersonal realities, living or nonliving energies. The warp of morontia is spiritual; its woof is physical. [UB 0:5.12](https://www.urantia.org/urantia-book-standardized/foreword#U0_5_12)  
+ _Morontia_ is a term designating a vast level intervening between the material and the spiritual. It may designate personal or Impersonal realities, living or nonliving energies. The warp of morontia is spiritual; its woof is physical. [UB 0:5.12](/en/The_Urantia_Book/0#p5_12)  
   
 
 **Mortal, God-conscious**  
@@ -242,3 +264,7 @@ Revelation is evolutionary man’s only hope of bridging the morontia gulf. Fait
   
 
 Religion is evolutionary man’s supreme endowment, the one thing which enables him to carry on and “endure as seeing Him who is invisible.” Mysticism, however, is often something of a retreat from life which is embraced by those humans who do not relish the more robust activities of living a religious life in the open arenas of human society and commerce. True religion must act. [UB 102:2.8](/en/The_Urantia_Book/102#p2_8)
+
+
+<br>
+

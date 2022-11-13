@@ -1,4 +1,26 @@
+---
+title: "Workbook VI — Bible Study — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 3. LUKE
 
@@ -355,3 +377,7 @@ V. SELECTED TEXTS
 43. **Power from on high**. "'But stay in the city, until you are clothed with power from on high.'" 24:49.
 
 44. **The ascenaion**. "Then he led them out as far as Bethany, and lifting up his hands he blessed them. While he blessed them, he parted from them." 24:50,51.
+
+
+<br>
+

@@ -1,4 +1,26 @@
+---
+title: "Workbook VII — Terminology — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 ## L
 
@@ -69,7 +91,7 @@ Jesus’ life is the everlasting comfort of all disappointed idealists. [UB 126:
 **Light**  
   
 
-_Light_ - spirit luminosity - is a word symbol, a figure of speech, which connotes the personality manifestation characteristic of spirit beings of diverse orders. This luminous emanation is in no respect related either to intellectual insight or to physical-light manifestations. [UB 0:6.9](https://www.urantia.org/urantia-book-standardized/foreword#U0_6_9)  
+_Light_ - spirit luminosity - is a word symbol, a figure of speech, which connotes the personality manifestation characteristic of spirit beings of diverse orders. This luminous emanation is in no respect related either to intellectual insight or to physical-light manifestations. [UB 0:6.9](/en/The_Urantia_Book/0#p6_9)  
   
 
 **Logic**  
@@ -142,3 +164,7 @@ One hundred constellations (about 10,000 inhabitable planets) constitute a local
 Bad luck—nothing for something—Good luck—something for nothing. [UB 86:1.3](/en/The_Urantia_Book/86#p1_3)  
   
 Luck is merely a term coined to cover the inexplicable in any age of human existence; it designates those phenomena which men are unable or unwilling to penetrate. [UB 86:2.5](/en/The_Urantia_Book/86#p2_5)
+
+
+<br>
+

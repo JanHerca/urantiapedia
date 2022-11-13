@@ -1,4 +1,26 @@
+---
+title: "Workbook VI — Bible Study — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 5. ACTS
 
@@ -167,3 +189,7 @@ body to the sick, and diseases left them, and the evil spirits came out of them.
 40. **Some freedom at Rome**. "When we came to Borne, Paul was allowed to stay by himself, with the soldier that guarded him." 28:16.
 
 41. **Two years at Rome**. "And he lived there two whole years at his own expense, and welcomed all who came to him." 28:30.
+
+
+<br>
+

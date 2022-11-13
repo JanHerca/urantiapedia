@@ -1,4 +1,26 @@
+---
+title: "Workbook VI — Bible Study — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 6. **PALESTINE DURING NEW TESTAMENT TIMES**
@@ -90,3 +112,7 @@ b. Mishnah—the classified or codified oral law.
 a. The Messianic hope—a mighty king sitting on David’s throne and ruling the world.
 
 b. Eschatology—the coming of Yahweh—destruction of the world. Judging the quick and the dead. The resurrection. The new heavens and the new earth. The universal kingdom of righteousness.
+
+
+<br>
+

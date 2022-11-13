@@ -22,7 +22,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 Author: **William S. Sadler**
 
-#### I. WAR
+## I. WAR
 
 1. Violence is the law of nature. Peace is the yardstick measuring the advance of civilization.  70:1.1](/en/The_Urantia_Book/70#p1_1)
 
@@ -36,7 +36,7 @@ Author: **William S. Sadler**
 
 6. Sometimes early man would stake all on a duel—like David and Goliath.  70:1.19](/en/The_Urantia_Book/70#p1_19)
 
-#### II. EARLY HUMAN ASSOCIATIONS
+## II. EARLY HUMAN ASSOCIATIONS
 
 1. Personal inequalities caused groupings in primitive society.  70:7.17](/en/The_Urantia_Book/70#p7_17)
 
@@ -55,7 +55,7 @@ Author: **William S. Sadler**
 9. Racial.
 10. Age.  70:8.2](/en/The_Urantia_Book/70#p8_2)
 
-#### III. HUMAN RIGHTS
+## III. HUMAN RIGHTS
 
 1. Kings were chosen for special abilities—heroes.  70:6.2](/en/The_Urantia_Book/70#p6_2)
 
@@ -67,7 +67,7 @@ Author: **William S. Sadler**
 
 5. Equality is the child of civilization—it is not found in nature.  70:9.17](/en/The_Urantia_Book/70#p9_17)
 
-#### IV. EVOLUTION OF JUSTICE
+## IV. EVOLUTION OF JUSTICE
 
 1. Government evolved by trial and error.  70:0.3](/en/The_Urantia_Book/70#p0_3)
 
@@ -85,7 +85,7 @@ Author: **William S. Sadler**
 4. Dangers of universal suffrage.
 5. Slavery to public opinion.  71:2.1](/en/The_Urantia_Book/71#p2_1)
 
-#### V. IDEALS OF STATEHOOD
+## V. IDEALS OF STATEHOOD
 
 1. The safeguards of statehood are :
 
@@ -121,7 +121,7 @@ Author: **William S. Sadler**
 
 4. The great problem of statehood is to prevent the state from becoming parasitical or tyrannical.  71:5.2](/en/The_Urantia_Book/71#p5_2)
 
-#### VI. PROGRESSIVE CIVILIZATION
+## VI. PROGRESSIVE CIVILIZATION
 
 1. Civilization embraces:
 
@@ -150,7 +150,7 @@ Author: **William S. Sadler**
 
 7. Slavery was indispensable in the development of civilization. It compelled lazy people to work and thus provided wealth and leisure for the advancement of superior peoples.  69:8.6](/en/The_Urantia_Book/69#p8_6)
 
-#### VII. SUPERHUMAN GOVERNMENT
+## VII. SUPERHUMAN GOVERNMENT
 
 1. The Most Highs rule in the kingdoms of men.  114:4.2](/en/The_Urantia_Book/114#p4_2)
 
@@ -170,3 +170,18 @@ Author: **William S. Sadler**
 10. Industry.
 11. Diversion.
 12. Superhuman ministry.  114:6.4](/en/The_Urantia_Book/114#p6_4)
+
+
+<br>
+
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Spirit_of_Truth">The Spirit of Truth</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Supreme_Spirit_And_Other">The Supreme Spirit - And Other Personalities</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>

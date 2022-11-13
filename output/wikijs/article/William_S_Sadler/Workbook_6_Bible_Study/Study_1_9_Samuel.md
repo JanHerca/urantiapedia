@@ -1,4 +1,26 @@
+---
+title: "Workbook VI — Bible Study — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 9. FIRST AND SECOND SAMUEL
@@ -354,3 +376,7 @@ VI. SELECTED TEXTS
 18. **Absalom's death**. "He took three darts in his hand, and thrust them into the heart of Absalom, while he was still alive in the oak." 18:14.
 
 19. **David and the census**. "The anger of the Lord was kindled against Israel, and he incited David against them, saying, 'Go, number Israel and Judah.'" 24:1.
+
+
+<br>
+

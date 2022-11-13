@@ -1,4 +1,26 @@
+---
+title: "Workbook VII — Terminology — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 ## A
@@ -20,7 +42,7 @@ Space potency is a prereality: it is the domain of the Unqualified Absolute and 
 **Absolute Level**  
   
 
-_The absolute level_ is beginningless, endless, timeless, and spaceless. For example: On Paradise, time and space are nonexistent; the time-space status of Paradise is absolute. This level Is Trinity attained, existentially. by the Paradise Deities, but, this third level of unifying Deity expression is not fully unified experientially. Whenever, wherever, and however the absolute level of Deity functions, Paradise-absolute values and meanings are manifest. [UB 0:1.13](https://www.urantia.org/urantia-book-standardized/foreword#U0_1_13)  
+_The absolute level_ is beginningless, endless, timeless, and spaceless. For example: On Paradise, time and space are nonexistent; the time-space status of Paradise is absolute. This level Is Trinity attained, existentially. by the Paradise Deities, but, this third level of unifying Deity expression is not fully unified experientially. Whenever, wherever, and however the absolute level of Deity functions, Paradise-absolute values and meanings are manifest. [UB 0:1.13](/en/The_Urantia_Book/0#p1_13)  
   
 
 **Absolutum**  
@@ -115,3 +137,7 @@ Hence materialism, atheism, is the maximation of ugliness, the climax of the fin
 When once you grasp the idea of God as a true and loving Father, the only concept which Jesus ever taught, you must forthwith, in all consistency, utterly abandon all those primitive notions about God as an offended monarch, a stern and all-powerful ruler whose chief delight is to detect his subjects in wrongdoing and to see that they are adequately punished, unless some being almost equal to himself should volunteer to suffer for then, to die as a substitute and in their stead. The whole idea of ransom and atonement Is incompatible with the concept of God as it was taught and exemplified by Jesus of Nazareth. The infinite love of God is not secondary to anything in the divine nature. All this concept of atonement and sacrificial salvation is rooted and grounded in selfishness.  
   
 This entire idea of the ransom of the atonement places salvation upon a plane of unreality; such a concept is purely philosophic. [UB 188:4.8](/en/The_Urantia_Book/188#p4_8)
+
+
+<br>
+

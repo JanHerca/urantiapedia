@@ -1,4 +1,26 @@
+---
+title: "Workbook VII — Terminology — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 
 ## C
@@ -50,7 +72,7 @@ All conflict is evil in that it inhibits the creative function of the inner life
 
 Ever remember that the Infinite Spirit is the _Conjoint_ Actor; both the Father and the Son are functioning in and through him; he is present not only as himself but also as the Father and as the Son and as the Father-Son. In recognition of this and for many additional reasons the spirit presence of the Infinite Spirit is often referred to as “the spirit of God.” [UB 8:5.5](/en/The_Urantia_Book/8#p5_5)  
   
-The Conjoint Actor is the spirit-mind personality, the source of intelligence, reason, and the universal mind. [UB 0:5.5](https://www.urantia.org/urantia-book-standardized/foreword#U0_5_5)  
+The Conjoint Actor is the spirit-mind personality, the source of intelligence, reason, and the universal mind. [UB 0:5.5](/en/The_Urantia_Book/0#p5_5)  
   
 
 **Conscience**  
@@ -68,7 +90,7 @@ One hundred systems ( about 100,000 inhabitable planets) make up a constellation
 **Cosmic Consciousness**  
   
 
-Cosmic consciousness implies the recognition of a First Cause, the one and only uncaused reality. [UB 0:2.2](https://www.urantia.org/urantia-book-standardized/foreword#U0_2_2)  
+Cosmic consciousness implies the recognition of a First Cause, the one and only uncaused reality. [UB 0:2.2](/en/The_Urantia_Book/0#p2_2)  
   
 
 **Counsel**  
@@ -99,3 +121,7 @@ A symbolism of rituals, slogans, or goals. The cult is the skeletal structure ar
   
 
 Hunger for harmony and thirst for beauty. Persistent attempts to discover new levels of harmonious cosmic relationships. [UB 56:10.6](/en/The_Urantia_Book/56#p10_6)
+
+
+<br>
+

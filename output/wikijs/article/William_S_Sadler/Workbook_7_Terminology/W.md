@@ -1,4 +1,26 @@
+---
+title: "Workbook VII — Terminology — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_7_Terminology/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 ## W
 
@@ -80,3 +102,7 @@ Prayer is self-reminding—sublime thinking; worship is self-forgetting—supert
 Worship is the act of a part identifying itself with the whole; the finite with the infinite; the son with the Father; time in the act of striking step with eternity. Worship is the act of the son’s personal communion with the divine Father, the assumption of refreshing, creative, fraternal, and romantic attitudes by the human soul-spirit. [UB 143:7.5](/en/The_Urantia_Book/143#p7_5)  
   
 True religious worship is not a futile monologue of self-deception. Worship is a personal communion with that which is divinely real, with that which is the very source of reality. Man aspires by worship to be better and thereby eventually attains the _best._ [UB 196:3.22](/en/The_Urantia_Book/196#p3_22)
+
+
+<br>
+

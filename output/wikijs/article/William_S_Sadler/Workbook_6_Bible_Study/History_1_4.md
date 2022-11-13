@@ -1,4 +1,26 @@
+---
+title: "Workbook VI — Bible Study — Mind and Spirit"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: study aid, william sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+Author: **William S. Sadler**
 
 4. **THE ENGLISH BIBLE**
 
@@ -173,3 +195,7 @@ XIII. REVISED STANDARD VERSION
 Published in 1952 by a department of the National Council of Churches.
 
 **NOTE**: In 1961 the [English New Testament](https://en.wikipedia.org/wiki/New_English_Bible) was published, being the English Committee differences in the Revised Standard Version of 1952. The Old Testament will come later.
+
+
+<br>
+
