@@ -22,20 +22,25 @@
 
 ### Conversion of study aids
 
-* `\[\(\d+.\d+\)` => `[UB`
-* `https://www.urantia.org/urantia-book-standardized/paper-(\d+).+#U\d+_(\d+)_(\d+)` => `/en/The_Urantia_Book/$1#p$2_$3`
-* `https://biblehub.com/niv` => `/en/Bible`
-* `https://biblehub.com` => `/en/Bible`
-* `/en/Bible/(\d)_(.)` => `/en/Bible/$1_\U$2`
-* `/en/Bible/(.)` => `/en/Bible/\U$1`
-* `(\d+)-(\d+).htm\)` => `$1#v$2)`
-* `> \*` => `*`
-* `> \n` => `(empty)`
-* `> (\d+)\\.` => `$1.`
-* `> > ([a-zA-Z]).` => `\t- $1.`
-* `\*\*REFERENCE\*\*:\[` => `**REFERENCE**: [`
-* `^(.+) \*\*REFERENCE\*\*: \[(.+)\]\((.+)\) — (.+)` => `### $1 $2 — $4\n\n**REFERENCE**: [$2]($3) — $4`
-* `\*\*(.+) (\d+):(\d+)\*\*.` => `**[$1 $2:$3](/en/Bible/$1/$2#v$3)**.`
+* Steps to convert Urantia Book links:
+    * `\[\(\d+.\d+\)` => `[UB`
+    * `https://www.urantia.org/urantia-book-standardized/paper-(\d+).+#U\d+_(\d+)_(\d+)` => `/en/The_Urantia_Book/$1#p$2_$3`
+* Steps to convert Bible links:
+    * `https://biblehub.com/niv` => `/en/Bible`
+    * `https://biblehub.com` => `/en/Bible`
+    * `/en/Bible/(\d)_(.)` => `/en/Bible/$1_\U$2`
+    * `/en/Bible/(.)` => `/en/Bible/\U$1`
+    * `(\d+)-(\d+).htm\)` => `$1#v$2)`
+* Other conversions:
+    * `> \*` => `*`
+    * `> \n` => `(empty)`
+    * `> (\d+)\\.` => `$1.`
+    * `> > ([a-zA-Z]).` => `\t- $1.`
+    * `\*\*REFERENCE\*\*:\[` => `**REFERENCE**: [`
+    * `^(.+) \*\*REFERENCE\*\*: \[(.+)\]\((.+)\) — (.+)` => `### $1 $2 — $4\n\n**REFERENCE**: [$2]($3) — $4`
+    * `\*\*(.+) (\d+):(\d+)\*\*.` => `**[$1 $2:$3](/en/Bible/$1/$2#v$3)**.`
+* Roman numerals as heading 3: `^((?=[XVI])(X{0,3})(I[XV]|V?I{0,3}))\.` => `### $1.`
+* Latin letters as hedaing 4: `^([A-Z])\.` => `#### $1.`
 
 ### Other replacements
 
