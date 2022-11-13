@@ -70,7 +70,7 @@ et | Estonian | „...“ |
 fa | Farsi | «...» | 
 fi | Finnish | ”...” & ’...’ | »...» & ’...’
 fr | French | «...» & «...» “...” | ‹...›
-he | Hebrew | ”...”‎ & ’...’ | „...”‎ & ‚...’
+he | Hebrew | ”...” & ’...’ | „...” & ‚...’
 hu | Hungarian | „...” & »...« | 
 id | Indonesian | “...” & ‘...’ | 
 it | Italian | «...» & “...” | “...” & ‘...’

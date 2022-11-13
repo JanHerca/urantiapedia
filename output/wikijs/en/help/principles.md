@@ -38,8 +38,7 @@ These pages are very helpful. Pages of Urantia Associations around the world do 
 
 But what about having all in one place?
 
-There are many web pages about *The Urantia Book* with very interesting contents. Some examples of
-these sites are:
+There are many web pages about *The Urantia Book* with very interesting contents. Some examples of these sites are:
 * Urantia Foundation website: [www.urantia.org](https://www.urantia.org/)
 * Fellowship website: [urantiabook.org](https://urantiabook.org/)
 * Urantia Association Internacional: [urantia-association.org](https://urantia-association.org/)

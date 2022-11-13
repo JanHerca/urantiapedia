@@ -20,6 +20,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
+> This task is currently ended and closed for the 25 languages available.
+{.is-info}
+
 Adding footnotes to *The Urantia Book* requires to previously complete the following tasks:
 - Translation of *Paramony* from English to the target language. The result of this task is a file for each language (`input / json / footnotes-book-xx.json`).
 - Previous task of converting *The Urantia Book* from HTML to JSON without footnotes. The result of this task is a set of 197 files in a folder for each language (`input / json / book-xx`).

@@ -20,6 +20,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
+> Esta tarea ya está actualmente terminada y cerrada para los 25 idiomas disponibles.
+{.is-info}
+
 Una buena fuente para obtener traducciones de *La Biblia* que además estén libres de derechos de autor es utilizar el software [e-Sword](https://www.e-sword.net/), una aplicación gratuita que permite descargar traducciones de *La Biblia* en diferentes idiomas y luego exportar o copiar su contenido a otros archivos.
 
 Cualquier otro modo de obtener una traducción de *La Biblia* libre de derechos de autor es válida siempre y cuando luego se copie el contenido a los archivos correctos. Estos archivos deben seguir estas reglas:

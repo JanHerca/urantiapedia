@@ -39,7 +39,6 @@ Estas páginas son muy útiles. Las páginas web de las Asociaciones de Urantia 
 Pero, ¿por qué no tener todo en un sólo lugar?
 
 Existen muchas páginas web sobre *El Libro de Urantia* con contenido muy interesante. Algunos ejemplos son estos:
-
 * El sitio de la Fundación Urantia: [www.urantia.org](https://www.urantia.org/)
 * El sitio web de la Fellowship: [urantiabook.org](https://urantiabook.org/)
 * La Asociación Urantia Internacional: [urantia-association.org](https://urantia-association.org/)

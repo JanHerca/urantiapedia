@@ -71,7 +71,7 @@ More on URLs in section below.
 
 Type | Description | Creation | Modif. | Removal | URL
 --- | --- | --- | --- | --- | ---
-WEPPAGE | Pages of Wiki itself like start page, help pages, roadmap | ADMIN |  ADMIN | ADMIN | /en/help/
+WEBPAGE | Pages of Wiki itself like start page, help pages, roadmap | ADMIN |  ADMIN | ADMIN | /en/help/
 BOOK_UB | The Urantia Book | ADMIN | ADMIN | ADMIN | /en/The_Urantia_Book/
 BOOK_BIBLE | The Bible | ADMIN | ADMIN | ADMIN | /en/Bible/
 BOOK_AUTHORED | Book from an author user | AUTHOR | AUTHOR | AUTHOR | /en/book/user_name/book_title/
@@ -249,6 +249,7 @@ Notice that in the URL pattern we have add `jpg` as the format but it could be a
 Images do not have their own web page by default. Images are accessed through the URL like any public resource. But if it were interesting, pages could be created that offer information about an image itself. For example, in the following URLs the first is the URL to the official cover image of *The Urantia Book* in English, and the second is the possible page with information about this image:
 - `https://urantiapedia.org/image/the_urantia_book.jpg`
 - `https://urantiapedia.org/en/image/the_urantia_book`
+
 ## Maps
 
 Maps will not be simple static images. This type of maps will be saved inside the images section. The maps will be interactive applications that will allow:
@@ -314,7 +315,7 @@ Each page in *Urantiapedia* has both a title and an URL. Titles can be repeated 
 
 `https://urantiapedia.org/[lan]/[path]/[user_name?]/[page name]`
 
-- `[lan]` is the code of any language supported, that are the languages with a translation for *The Urantia Book*. Check [Languages](https://github.com/JanHerca/urantiapedia/blob/master/docs/Languages.md).
+- `[lan]` is the code of any language supported, that are the languages with a translation for *The Urantia Book*. Check [Languages supported](/en/help/languages).
 - `[path]` is the path depending in the type of page:
 	- Page of the site: `help`
 	- *The Urantia Book*: `The_Urantia_Book`

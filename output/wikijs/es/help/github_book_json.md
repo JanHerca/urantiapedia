@@ -20,6 +20,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
+> Esta tarea ya está actualmente terminada y cerrada para los 25 idiomas disponibles.
+{.is-info}
+
 Los ficheros de entrada en formato HTML deberán estar en las carpetas `input/html/book-xx`, donde `xx` son las dos letras del idioma (`es` = español, `en` = inglés, etc.)
 
 > IMPORTANTE: Los ficheros HTML tal cual descargados de la web oficial de la [Fundación Urantia](https://www.urantia.org/urantia-book/download-text-urantia-book) pueden tener algunos problemas para ser procesados tal cual y resulte necesario introducir pequeñas modificaciones para ayudar en el proceso de conversión al formato JSON.

@@ -20,6 +20,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
+> This task is currently ended and closed for the 25 languages available.
+{.is-info}
+
 The input files in HTML format must be in the `input / html / book-xx` folders, where `xx` are the two letters of the language (`es` = Spanish, `en` = English, etc.)
 
 > IMPORTANT: HTML files as are downloaded from the [Urantia Foundation](https://www.urantia.org/urantia-book/download-text-urantia-book) official website may have some problems to be processed and require to add small changes to help in the process of conversion to JSON format.

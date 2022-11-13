@@ -87,6 +87,7 @@ If you are a “Chief Editor” using GitHub you can submit diagrams as detailed
 - [SVG format](https://www.w3schools.com/graphics/svg_inhtml.asp)
 - [HTML Image Map Format](https://www.w3schools.com/html/html_images_imagemap.asp)
 - [Inkscape](https://inkscape.org/en/)
+- [An interesting tool to create HTML Image Maps](http://summerstyle.github.io/summer/)
 
 <br>
 

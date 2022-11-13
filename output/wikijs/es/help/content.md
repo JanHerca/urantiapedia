@@ -314,7 +314,7 @@ Cada página de la *Urantiapedia* tiene un título y una URL. Los títulos se pu
 
 `https://urantiapedia.org/[lan]/[path]/[user_name?]/[page name]`
 
-- `[lan]` es el código de cualquier idioma soportado, que son los idiomas con una traducción de *El libro de Urantia*. Consulta [Idiomas](https://github.com/JanHerca/urantiapedia/blob/master/docs/Languages.md).
+- `[lan]` es el código de cualquier idioma soportado, que son los idiomas con una traducción de *El libro de Urantia*. Consulta [Idiomas soportados](/es/help/languages).
 - `[path]` es la ruta según el tipo de página:
 	- Página del sitio: `help`
 	- *El libro de Urantia*: `The_Urantia_Book`

@@ -20,6 +20,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
+> Esta tarea ya está actualmente terminada y cerrada para los 25 idiomas disponibles.
+{.is-info}
+
 La adición de notas al pie a *El Libro de Urantia* requiere haber realizado previamente las siguientes tareas:
 - Traducción del *Paramony* del inglés al idioma de destino. El resultado de esta tarea es un archivo para cada idioma (`input/json/footnotes-book-xx.json`).
 - Conversión previa de *El Libro de Urantia* de HTML a JSON sin notas al pie. El resultado de esta tarea es un conjunto de 197 archivos en una carpeta para cada idioma (`input/json/book-xx`).

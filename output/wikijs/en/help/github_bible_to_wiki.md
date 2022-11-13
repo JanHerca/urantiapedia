@@ -20,6 +20,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
+> This task is currently ended and closed for the 25 languages available.
+{.is-info}
+
 *Bible* files in LaTeX format must have been created in folders such as `input / text / bible-xx` where `xx` is the code of the target language.
 
 To convert these LaTeX files to Wiki.js format, follow these steps:

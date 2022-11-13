@@ -20,6 +20,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
+> Esta tarea ya está actualmente terminada y cerrada para los 25 idiomas disponibles.
+{.is-info}
+
 Los ficheros de *La Biblia* en formato LaTeX se deberán haber creado en carpetas como `input/text/bible-xx` donde `xx` es el código del idioma de destino.
 
 Para convertir estos ficheros LaTeX a formato Wiki.js hay que seguir estos pasos:
