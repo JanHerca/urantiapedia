@@ -22,23 +22,23 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 Author: **William S. Sadler**
 
-1\. Ideal education provides for association of instruction and work. [(412.4) 37:6.4](https://www.urantia.org/urantia-book-standardized/paper-37-personalities-local-universe#U37_6_4)
+1. Ideal education provides for association of instruction and work.[UB 37:6.4](/en/The_Urantia_Book/37#p6_4)
 
-2\. The purpose of education:
+2. The purpose of education:
 
 1. Acquirement of skill.
 2. Pursuit of wisdom.
 3. Realization of selfhood.
-4. Attainment of spiritual values. [(806.1) 71:7.1](https://www.urantia.org/urantia-book-standardized/paper-71-development-state#U71_7_1)
+4. Attainment of spiritual values.[UB 71:7.1](/en/The_Urantia_Book/71#p7_1)
 
-3\. The goals of education are:
+3. The goals of education are:
 
 1. Insight into human relations.
 2. Meanings of reality.
 3. Nobility of values.
 4. Goals of living.
-5. Cosmic destiny. [(806.2) 71:7.2](https://www.urantia.org/urantia-book-standardized/paper-71-development-state#U71_7_2)
+5. Cosmic destiny.[UB 71:7.2](/en/The_Urantia_Book/71#p7_2)
 
-4\. Ideas originate in external stimuli; ideals are born in the inner life. [(1220.9) 111:4.10](https://www.urantia.org/urantia-book-standardized/paper-111-adjuster-and-soul#U111_4_10)
+4. Ideas originate in external stimuli; ideals are born in the inner life.[UB 111:4.10](/en/The_Urantia_Book/111#p4_10)
 
-5\. Civilizations are unstable because they are not cosmic. They must be nurtured by the constitutive factors of science, morality, and religion. [(196.1) 16:9.5](https://www.urantia.org/urantia-book-standardized/paper-16-seven-master-spirits#U16_9_5)
+5. Civilizations are unstable because they are not cosmic. They must be nurtured by the constitutive factors of science, morality, and religion.[UB 16:9.5](/en/The_Urantia_Book/16#p9_5)

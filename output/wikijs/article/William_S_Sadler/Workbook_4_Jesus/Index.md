@@ -177,12 +177,12 @@ Author: **William S. Sadler**
 2. [More about Parables](https://www.urantia.org/jesus/part-iii-parables#2_MORE_ABOUT_PARABLES)
 3. [More Parables by the Sea](https://www.urantia.org/jesus/part-iii-parables#3_MORE_PARABLES_BY_THE_SEA)
 
-> Wheat and Tares.  
-> Mustard Seed.  
-> Leaven.  
-> Treasure in Field.  
-> Goodly Pearls.  
-> Sweep Net.  
+Wheat and Tares.  
+Mustard Seed.  
+Leaven.  
+Treasure in Field.  
+Goodly Pearls.  
+Sweep Net.  
 
 5. [Parable of the Bridge](https://www.urantia.org/jesus/part-iii-parables#4_THE_PARABLE_OF_THE_BRIDGE)
 6. [The Lily and Foundations](https://www.urantia.org/jesus/part-iii-parables#5_THE_LILY_AND_FOUNDATIONS)
@@ -277,131 +277,131 @@ PRINCIPAL DIVISIONS OF THE LIFE OF JESUS
 
 [INTRODUCTION](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#INTRODUCTION)
 
-> 120\. [The Bestowal of Michael on Urantia.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_120_The_Bestowal_of_Michael_on_Urantia)  
-> 121\. [The Times of Michael’s Bestowal.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_121_The_Times_of_Michaels_Bestowal)
+120. [The Bestowal of Michael on Urantia.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_120_The_Bestowal_of_Michael_on_Urantia)  
+121. [The Times of Michael’s Bestowal.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_121_The_Times_of_Michaels_Bestowal)
 
 [I. INFANCY AND CHILDHOOD OF JESUS](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#INFANCY_AND_CHILDHOOD_OF_JESUS)
 
-> 122\. [Birth and Infancy of Jesus.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_122_Birth_and_Infancy_of_Jesus)  
-> 123\. [The Early Childhood of Jesus.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_123_The_Early_Childhood_of_Jesus)  
-> 124\. [The Later Childhood of Jesus.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_124_The_Later_Childhood_of_Jesus)  
-> 125\. [Jesus at Jerusalem.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_125_Jesus_at_Jerusalem)
+122. [Birth and Infancy of Jesus.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_122_Birth_and_Infancy_of_Jesus)  
+123. [The Early Childhood of Jesus.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_123_The_Early_Childhood_of_Jesus)  
+124. [The Later Childhood of Jesus.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_124_The_Later_Childhood_of_Jesus)  
+125. [Jesus at Jerusalem.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_125_Jesus_at_Jerusalem)
 
 [II. ADOLESCENCE AND EARLY MANHOOD OF JESUS](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#ADOLESCENCE_AND_EARLY_MANHOOD_OF_JESUS)
 
-> 126\. [The Two Crucial Years.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_126_The_Two_Crucial_Years)  
-> 127\. [The Adolescent Years.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_127_The_Adolescent_Years)  
-> 128\. [Jesus’ Early Manhood.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_128_Jesus_Early_Manhood)  
-> 129\. [The Later Adult Life of Jesus.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_129_The_Later_Adult_Life_of_Jesus)
+126. [The Two Crucial Years.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_126_The_Two_Crucial_Years)  
+127. [The Adolescent Years.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_127_The_Adolescent_Years)  
+128. [Jesus’ Early Manhood.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_128_Jesus_Early_Manhood)  
+129. [The Later Adult Life of Jesus.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_129_The_Later_Adult_Life_of_Jesus)
 
 [III. TRIP TO ROME AND THE TRANSITION YEARS](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#TRIP_TO_ROME_AND_THE_TRANSITION_YEARS)
 
-> 130\. [On the Way to Rome.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_130_On_the_Way_to_Rome)  
-> 131\. [The World’s Religions.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_131_The_Worlds_Religions)  
-> 132\. [The Sojourn at Rome.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_132_The_Sojourn_at_Rome)  
-> 133\. [The Return from Rome.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_133_The_Return_from_Rome)  
-> 134\. [The Transition Years.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_134_The_Transition_Years)  
-> 135\. [John the Baptist.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_135_John_the_Baptist)
+130. [On the Way to Rome.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_130_On_the_Way_to_Rome)  
+131. [The World’s Religions.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_131_The_Worlds_Religions)  
+132. [The Sojourn at Rome.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_132_The_Sojourn_at_Rome)  
+133. [The Return from Rome.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_133_The_Return_from_Rome)  
+134. [The Transition Years.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_134_The_Transition_Years)  
+135. [John the Baptist.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_135_John_the_Baptist)
 
 [IV. BAPTISM AND THE TWELVE APOSTLES](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#BAPTISM_AND_THE_TWELVE_APOSTLES)
 
-> 136\. [Baptism and the Forty Days.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_136_Baptism_and_the_Forty_Days)  
-> 137\. [Tarrying Time in Galilee.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_137_Tarrying_Time_in_Galilee)  
-> 138\. [Training the Kingdom’s Messengers.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_138_Training_the_Kingdoms_Messengers)  
-> 139\. [The Twelve Apostles.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_139_The_Twelve_Apostles)  
-> 140\. [The Ordination of the Twelve.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_140_The_Ordination_of_the_Twelve)
+136. [Baptism and the Forty Days.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_136_Baptism_and_the_Forty_Days)  
+137. [Tarrying Time in Galilee.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_137_Tarrying_Time_in_Galilee)  
+138. [Training the Kingdom’s Messengers.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_138_Training_the_Kingdoms_Messengers)  
+139. [The Twelve Apostles.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_139_The_Twelve_Apostles)  
+140. [The Ordination of the Twelve.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_140_The_Ordination_of_the_Twelve)
 
 [V. BEGINNING THE PUBLIC WORK](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#BEGINNING_THE_PUBLIC_WORK)
 
-> 141\. [Beginning the Public Work.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_141_Beginning_the_Public_Work)  
-> 142\. [The Passover at Jerusalem.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_142_The_Passover_at_Jerusalem)  
-> 143\. [Going through Samaria.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_143_Going_through_Samaria)  
-> 144\. [At Gilboa and in the Decapolis.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_144_At_Gilboa_and_in_the_Decapolis)  
-> 145\. [Four Eventful Days at Capernaum.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_145_Four_Eventful_Days_at_Capernaum)
+141. [Beginning the Public Work.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_141_Beginning_the_Public_Work)  
+142. [The Passover at Jerusalem.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_142_The_Passover_at_Jerusalem)  
+143. [Going through Samaria.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_143_Going_through_Samaria)  
+144. [At Gilboa and in the Decapolis.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_144_At_Gilboa_and_in_the_Decapolis)  
+145. [Four Eventful Days at Capernaum.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_145_Four_Eventful_Days_at_Capernaum)
 
 [VI. THE THREE PREACHING TOURS](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#THE_THREE_PREACHING_TOURS)
 
-> 146\. [First Preaching Tour of Galileo.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_146_First_Preaching_Tour_of_Galilee)  
-> 147\. [The Interlude Visit to Jerusalem.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_147_The_Interlude_Visit_to_Jerusalem)  
-> 148\. [Training Evangelists at Bethsaida.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_148_Training_Evangelists_at_Bethsaida)  
-> 149\. [The Second Preaching Tour.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_149_The_Second_Preaching_Tour)  
-> 150\. [The Third Preaching Tour.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_150_The_Third_Preaching_Tour)
+146. [First Preaching Tour of Galileo.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_146_First_Preaching_Tour_of_Galilee)  
+147. [The Interlude Visit to Jerusalem.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_147_The_Interlude_Visit_to_Jerusalem)  
+148. [Training Evangelists at Bethsaida.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_148_Training_Evangelists_at_Bethsaida)  
+149. [The Second Preaching Tour.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_149_The_Second_Preaching_Tour)  
+150. [The Third Preaching Tour.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_150_The_Third_Preaching_Tour)
 
 [VII. CAPERNAUM CRISIS AND PHOENICIA](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#CAPERNAUM_CRISIS_AND_PHOENICIA)
 
-> 151\. [Tarrying and Teaching by the Seaside.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_151_Tarrying_and_Teaching_by_the_Seaside)  
-> 152\. [Events Leading Up to the Capernaum Crisis.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#Paper_152_Events_Leading_Up_to_the_Capernaum_Crisis)  
-> 153\. [The Crisis at Capernaum.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_153_The_Crisis_at_Capernaum)  
-> 154\. [Last Days at Capernaum.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_154_Last_Days_at_Capernaum)  
-> 155\. [Fleeing through Northern Galilee.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_155_Fleeing_through_Northern_Galilee)  
-> 156\. [The Sojourn at Tyre and Sidon.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_156_The_Sojourn_at_Tyre_and_Sidon)
+151. [Tarrying and Teaching by the Seaside.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_151_Tarrying_and_Teaching_by_the_Seaside)  
+152. [Events Leading Up to the Capernaum Crisis.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#Paper_152_Events_Leading_Up_to_the_Capernaum_Crisis)  
+153. [The Crisis at Capernaum.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_153_The_Crisis_at_Capernaum)  
+154. [Last Days at Capernaum.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_154_Last_Days_at_Capernaum)  
+155. [Fleeing through Northern Galilee.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_155_Fleeing_through_Northern_Galilee)  
+156. [The Sojourn at Tyre and Sidon.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_156_The_Sojourn_at_Tyre_and_Sidon)
 
 [VIII. MOUNT OF TRANSFIGURATION EVENTS](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#MOUNT_OF_TRANSFIGURATION_EVENTS)
 
-> 157\. [At Caesarea-Philippi.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_157_At_Caesarea-Philippi)  
-> 158\. [The Mount of Transfiguration.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_158_The_Mount_of_Transfiguration)  
-> 159\. [The Decapolis Tour.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_159_The_Decapolis_Tour)
+157. [At Caesarea-Philippi.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_157_At_Caesarea-Philippi)  
+158. [The Mount of Transfiguration.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_158_The_Mount_of_Transfiguration)  
+159. [The Decapolis Tour.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_159_The_Decapolis_Tour)
 
 [IX. RODAN AND THE SEVENTY](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#RODAN_AND_THE_SEVENTY)
 
-> 160\. [Rodan of Alexandria.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_160_Rodan_of_Alexandria)  
-> 161\. [FurtherDiscussions with Rodan.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_161_Further_Discussions_with_Rodan)  
-> 162\. [At the Feast of Tabernacles.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_162_At_the_Feast_of_Tabernacles)  
-> 163\. [Ordination of the Seventy at Magadan.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_163_Ordination_of_the_Seventy_at_Magadan)  
-> 164\. [At the Feast of Dedication.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_164_At_the_Feast_of_Dedication)
+160. [Rodan of Alexandria.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_160_Rodan_of_Alexandria)  
+161. [FurtherDiscussions with Rodan.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_161_Further_Discussions_with_Rodan)  
+162. [At the Feast of Tabernacles.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_162_At_the_Feast_of_Tabernacles)  
+163. [Ordination of the Seventy at Magadan.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_163_Ordination_of_the_Seventy_at_Magadan)  
+164. [At the Feast of Dedication.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_164_At_the_Feast_of_Dedication)
 
 [X. THE PEREAN MISSION](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#THE_PEREAN_MISSION)
 
-> 165\. [The Perean Mission Begins.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_165_The_Perean_Mission_Begins)  
-> 166\. [Last Visit to Northern Perea.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_166_Last_Visit_to_Northern_Perea)  
-> 167\. [The Visit to Philadelphia.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_167_The_Visit_to_Philadelphia)  
-> 168\. [The Resurrection of Lazarus.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_168_The_Resurrection_of_Lazarus)  
-> 169\. [Last Teaching at Pella.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_169_Last_Teaching_at_Pella)  
-> 170\. [The Kingdom of Heaven.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_170_The_Kingdom_of_Heaven)
+165. [The Perean Mission Begins.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_165_The_Perean_Mission_Begins)  
+166. [Last Visit to Northern Perea.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_166_Last_Visit_to_Northern_Perea)  
+167. [The Visit to Philadelphia.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_167_The_Visit_to_Philadelphia)  
+168. [The Resurrection of Lazarus.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_168_The_Resurrection_of_Lazarus)  
+169. [Last Teaching at Pella.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_169_Last_Teaching_at_Pella)  
+170. [The Kingdom of Heaven.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_170_The_Kingdom_of_Heaven)
 
 [XI. LAST VISIT TO JERUSALEM](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#LAST_VISIT_TO_JERUSALEM)
 
-> 171\. [On the Way to Jerusalem.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_171_On_the_Way_to_Jerusalem)  
-> 172\. [Going into Jerusalem.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_172_Going_into_Jerusalem)  
-> 173\. [Monday in Jerusalem.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_173_Monday_in_Jerusalem)  
-> 174\. [Tuesday Morning in the Temple.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_174_Tuesday_Morning_in_the_Temple)  
-> 175\. [The Last Temple Discourse.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_175_The_Last_Temple_Discourse)  
-> 176\. [Tuesday Evening on Mount Olivet.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_176_Tuesday_Evening_on_Mount_Olivet)  
-> 177\. [Wednesday, the Rest Day.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_177_Wednesday_the_Rest_Day)  
-> 178\. [Last Day at the Camp.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_178_Last_Day_at_the_Camp)
+171. [On the Way to Jerusalem.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_171_On_the_Way_to_Jerusalem)  
+172. [Going into Jerusalem.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_172_Going_into_Jerusalem)  
+173. [Monday in Jerusalem.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_173_Monday_in_Jerusalem)  
+174. [Tuesday Morning in the Temple.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_174_Tuesday_Morning_in_the_Temple)  
+175. [The Last Temple Discourse.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_175_The_Last_Temple_Discourse)  
+176. [Tuesday Evening on Mount Olivet.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_176_Tuesday_Evening_on_Mount_Olivet)  
+177. [Wednesday, the Rest Day.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_177_Wednesday_the_Rest_Day)  
+178. [Last Day at the Camp.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_178_Last_Day_at_the_Camp)
 
 [XII. THE LAST SUPPER](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#THE_LAST_SUPPER)
 
-> 179\. [The Last Supper.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_179_The_Last_Supper)  
-> 180\. [The Farewell Discourse.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_180_The_Farewell_Discourse)  
-> 181\. [Final Admonitions and Warnings.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_181_Final_Admonitions_and_Warnings)
+179. [The Last Supper.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_179_The_Last_Supper)  
+180. [The Farewell Discourse.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_180_The_Farewell_Discourse)  
+181. [Final Admonitions and Warnings.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_181_Final_Admonitions_and_Warnings)
 
 [XIII. THE BETRAYAL AND TRIALS](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#THE_BETRAYAL_AND_TRIALS)
 
-> 182\. [In Gethsemane.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_182_In_Gethsemane)  
-> 183\. [The Betrayal and Arrest of Jesus.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_183_The_Betrayal_and_Arrest_of_Jesus)  
-> 184\. [Before the Sanhedrin Court.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_184_Before_the_Sanhedrin_Court)  
-> 185\. [The Trial before Pilate.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_185_The_Trial_before_Pilate)  
-> 186\. [Just before the Crucifixion.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_186_Just_before_the_Crucifixion)
+182. [In Gethsemane.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_182_In_Gethsemane)  
+183. [The Betrayal and Arrest of Jesus.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_183_The_Betrayal_and_Arrest_of_Jesus)  
+184. [Before the Sanhedrin Court.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_184_Before_the_Sanhedrin_Court)  
+185. [The Trial before Pilate.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_185_The_Trial_before_Pilate)  
+186. [Just before the Crucifixion.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_186_Just_before_the_Crucifixion)
 
 [XIV. CRUCIFIXION AND RESURRECTION](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#CRUCIFIXION_AND_RESURRECTION)
 
-> 187\. [The Crucifixion.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_187_The_Crucifixion)  
-> 188\. [The Time of the Tomb.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_188_The_Time_of_the_Tomb)  
-> 189\. [The Resurrection.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_189_The_Resurrection)
+187. [The Crucifixion.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_187_The_Crucifixion)  
+188. [The Time of the Tomb.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_188_The_Time_of_the_Tomb)  
+189. [The Resurrection.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_189_The_Resurrection)
 
 [XV. POST-RESURRECTION APPEARANCES](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#POST-RESURRECTION_APPEARANCES)
 
-> 190\. [Morontia Appearances of Jesus.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_190_Morontia_Appearances_of_Jesus)  
-> 191\. [Appearances to the Apostles and Other Leaders.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_191_Appearances_to_the_Apostles_and_Other_Leaders)  
-> 192\. [Appearances in Galilee.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_192_Appearances_in_Galilee)  
-> 193\. [Final Appearances and Ascension.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_193_Final_Appearances_and_Ascension)
+190. [Morontia Appearances of Jesus.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_190_Morontia_Appearances_of_Jesus)  
+191. [Appearances to the Apostles and Other Leaders.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_191_Appearances_to_the_Apostles_and_Other_Leaders)  
+192. [Appearances in Galilee.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_192_Appearances_in_Galilee)  
+193. [Final Appearances and Ascension.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_193_Final_Appearances_and_Ascension)
 
 [XVI. AFTER THE ASCENSION](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#AFTER_THE_ASCENSION)
 
-> 194\. [Bestowal of the Spirit of Truth.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_194_Bestowal_of_the_Spirit_of_Truth)  
-> 195\. [After Pentecost.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_195_After_Pentecost)  
-> 196\. [The Faith of Jesus](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_196_The_Faith_of_Jesus).
+194. [Bestowal of the Spirit of Truth.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_194_Bestowal_of_the_Spirit_of_Truth)  
+195. [After Pentecost.](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_195_After_Pentecost)  
+196. [The Faith of Jesus](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#PAPER_196_The_Faith_of_Jesus).
 
 [THE APOCRYPHA](https://www.urantia.org/jesus/life-jesus-compared-four-gospels#THE_APOCRYPHA)
 
