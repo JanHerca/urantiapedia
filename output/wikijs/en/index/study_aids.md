@@ -10,18 +10,18 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## The Urantia Book Workbooks and other works by William S. Sadler, MD
 
-| Status                  | Title                                                                                                               | Author            | Tags                                        |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------- | ----------------- | ------------------------------------------- |
-| :ballot_box_with_check: | [Foreword and Part I - Volume I](/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I)                       | William S. Sadler | [Astronomy](/t/astronomy)                   |
-| :ballot_box_with_check: | [Science - Volume II](/en/article/William_S_Sadler/Workbook_2_Science)                                              | William S. Sadler | [Astronomy](/t/astronomy)                   |
-| :ballot_box_with_check: | [Topical and Doctrinal Studies - Volume III](/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies) | William S. Sadler |                                             |
-| :ballot_box_with_check: | [Jesus - Volume IV](/en/article/William_S_Sadler/Workbook_4_Jesus)                                                  | William S. Sadler | [Jesus](/t/jesus)                           |
-| :ballot_box_with_check: | [Theology - Volume V](/en/article/William_S_Sadler/Workbook_5_Theology)                                             | William S. Sadler | [Theology](/t/theology)                     |
-| :ballot_box_with_check: | [Bible Study - Volume VI](/en/article/William_S_Sadler/Workbook_6_Bible_Study)                                      | William S. Sadler |                                             |
-| :ballot_box_with_check: | [Terminology - Volume VII](/en/article/William_S_Sadler/Workbook_7_Terminology)                                     | William S. Sadler |                                             |
-| :ballot_box_with_check: | [Worship and Wisdom - Volume VIII](/en/article/William_S_Sadler/Workbook_8_Worship_and_Wisdom)                      | William S. Sadler |                                             |
-| :white_square_button:   | Consideration of Some Criticisms of The Urantia Book                                                                | William S. Sadler | [The Urantia Book](/t/the%20urantia%20book) |
-| :white_square_button:   | A History of the Urantia Movement                                                                                   | William S. Sadler |                                             |
+| Status                  | Title                                                                                                               | Author            | Tags                                                                                                |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------- | ----------------- | --------------------------------------------------------------------------------------------------- |
+| :ballot_box_with_check: | [Foreword and Part I - Volume I](/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I)                       | William S. Sadler | [Astronomy](/t/astronomy)                                                                           |
+| :ballot_box_with_check: | [Science - Volume II](/en/article/William_S_Sadler/Workbook_2_Science)                                              | William S. Sadler | [Astronomy](/t/astronomy)                                                                           |
+| :ballot_box_with_check: | [Topical and Doctrinal Studies - Volume III](/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies) | William S. Sadler |                                                                                                     |
+| :ballot_box_with_check: | [Jesus - Volume IV](/en/article/William_S_Sadler/Workbook_4_Jesus)                                                  | William S. Sadler | [Jesus](/t/jesus)                                                                                   |
+| :ballot_box_with_check: | [Theology - Volume V](/en/article/William_S_Sadler/Workbook_5_Theology)                                             | William S. Sadler | [Theology](/t/theology)                                                                             |
+| :ballot_box_with_check: | [Bible Study - Volume VI](/en/article/William_S_Sadler/Workbook_6_Bible_Study)                                      | William S. Sadler |                                                                                                     |
+| :ballot_box_with_check: | [Terminology - Volume VII](/en/article/William_S_Sadler/Workbook_7_Terminology)                                     | William S. Sadler |                                                                                                     |
+| :ballot_box_with_check: | [Worship and Wisdom - Volume VIII](/en/article/William_S_Sadler/Workbook_8_Worship_and_Wisdom)                      | William S. Sadler |                                                                                                     |
+| :white_square_button:   | Consideration of Some Criticisms of The Urantia Book                                                                | William S. Sadler | [The Urantia Book](/t/the%20urantia%20book)                                                         |
+| :ballot_box_with_check: | [A History of the Urantia Movement](/en/article/William_S_Sadler/A_History_of_the_Urantia_Movement)                 | William S. Sadler | [The Urantia Book](/t/the%20urantia%20book), [The Urantia Book](/t/the%20urantia%20book—Authorship) |
 
 ## Works by William S. Sadler, Jr.
 

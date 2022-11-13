@@ -20,19 +20,18 @@ More in link to Wikipedia below.
 
 Index of articles and study aids by William Sadler:
 
-| Status                  | Title                                                                                               | Tags                                          |
-| ----------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| :ballot_box_with_check: | [A History of the Urantia Movement](/en/article/William_S_Sadler/A_History_of_the_Urantia_Movement) | The Urantia Book, The Urantia Book—Authorship |
-| :white_square_button:   | Foreword and Part I - Volume I                                                                      | Astronomy                                     |
-| :white_square_button:   | Science - Volume II                                                                                 | Astronomy                                     |
-| :white_square_button:   | Topical and Doctrinal Studies - Volume III                                                          |                                               |
-| :white_square_button:   | Jesus - Volume IV                                                                                   | Jesus                                         |
-| :white_square_button:   | Theology - Volume V                                                                                 | Theology                                      |
-| :white_square_button:   | Bible Study - Volume VI                                                                             |                                               |
-| :white_square_button:   | Terminology - Volume VII                                                                            |                                               |
-| :white_square_button:   | Worship and Wisdom - Volume VIII                                                                    |                                               |
-| :white_square_button:   | Consideration of Some Criticisms of The Urantia Book                                                |                                               |
-| :white_square_button:   | A History of the Urantia Movement                                                                   |                                               |
+| Status                  | Title                                                                                                               | Tags                                                                                                |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| :ballot_box_with_check: | [Foreword and Part I - Volume I](/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I)                       | [Astronomy](/t/astronomy)                                                                           |
+| :ballot_box_with_check: | [Science - Volume II](/en/article/William_S_Sadler/Workbook_2_Science)                                              | [Astronomy](/t/astronomy)                                                                           |
+| :ballot_box_with_check: | [Topical and Doctrinal Studies - Volume III](/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies) |                                                                                                     |
+| :ballot_box_with_check: | [Jesus - Volume IV](/en/article/William_S_Sadler/Workbook_4_Jesus)                                                  | [Jesus](/t/jesus)                                                                                   |
+| :ballot_box_with_check: | [Theology - Volume V](/en/article/William_S_Sadler/Workbook_5_Theology)                                             | [Theology](/t/theology)                                                                             |
+| :ballot_box_with_check: | [Bible Study - Volume VI](/en/article/William_S_Sadler/Workbook_6_Bible_Study)                                      |                                                                                                     |
+| :ballot_box_with_check: | [Terminology - Volume VII](/en/article/William_S_Sadler/Workbook_7_Terminology)                                     |                                                                                                     |
+| :ballot_box_with_check: | [Worship and Wisdom - Volume VIII](/en/article/William_S_Sadler/Workbook_8_Worship_and_Wisdom)                      |                                                                                                     |
+| :white_square_button:   | Consideration of Some Criticisms of The Urantia Book                                                                | [The Urantia Book](/t/the%20urantia%20book)                                                         |
+| :ballot_box_with_check: | [A History of the Urantia Movement](/en/article/William_S_Sadler/A_History_of_the_Urantia_Movement)                 | [The Urantia Book](/t/the%20urantia%20book), [The Urantia Book](/t/the%20urantia%20book—Authorship) |
 
 ## External links
 
