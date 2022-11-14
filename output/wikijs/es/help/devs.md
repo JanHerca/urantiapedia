@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/es/help/devs">Manual para Editores Asistentes</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_setting">Configurar el proyecto de GitHub</a></td>
+        <td><a href="/es/help/web_basics">Interfaz y uso básico de Urantiapedia</a></td>
       </tr>
     </tbody>
   </table>
@@ -73,7 +73,7 @@ Ver https://docs.requarks.io/install/upgrade.
       <tr>
         <td><a href="/es/help/devs">Manual para Editores Asistentes</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_setting">Configurar el proyecto de GitHub</a></td>
+        <td><a href="/es/help/web_basics">Interfaz y uso básico de Urantiapedia</a></td>
       </tr>
     </tbody>
   </table>

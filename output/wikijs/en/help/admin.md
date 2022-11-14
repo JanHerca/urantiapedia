@@ -42,7 +42,7 @@ This manual is intended for users called *administrators*, or *admins* for short
 - users with good knowledge of *The Urantia Book* in at least one language in which it is published, and preferably with a good level of the English version.
 - users that wish to collaborate in a selfless way in the addition of content related to *The Urantia Book* in the *Urantiapedia*.
 
-*Admin* users are the only ones in charge of bulk-uploading changes to the *Urantiapedia* website during each milestone of the project. More about project milestones in [Help start](/en/help/phases).
+*Admin* users are the only ones in charge of bulk-uploading changes to the *Urantiapedia* website during each milestone of the project. More about project milestones in [Milestones of the project](/en/help/phases).
 
 ## GitHub workflow
 

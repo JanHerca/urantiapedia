@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/devs">Developers help</a></td>
+        <td><a href="/en/help/web_html_editor">Using the HTML editor</a></td>
         <td><a href="/en/help">Index</a></td>
         <td><a href="/en/help/github_content">Content of GitHub project</a></td>
       </tr>
@@ -166,7 +166,7 @@ In summary, the process in GitHub is as follows (see the diagram):
   <table>
     <tbody>
       <tr>
-        <td><a href="/en/help/devs">Developers help</a></td>
+        <td><a href="/en/help/web_html_editor">Using the HTML editor</a></td>
         <td><a href="/en/help">Index</a></td>
         <td><a href="/en/help/github_content">Content of GitHub project</a></td>
       </tr>

@@ -190,7 +190,7 @@ instead of
 
 https://urantiapedia.org/es/article/Nazaret_en_tiempos_de_Jesús
 
-Be aware that the purpose of *Urantipedia* is allow a multi-language content for everybody, and any page uploaded to it is expected to be translated to all supported languages at some point in future. English titles provide a unified common way to identify URLs. This do no affects the title of the page, that is always a different value from the URL. More on this in a section below.
+Be aware that the purpose of *Urantiapedia* is allow a multi-language content for everybody, and any page uploaded to it is expected to be translated to all supported languages at some point in future. English titles provide a unified common way to identify URLs. This do no affects the title of the page, that is always a different value from the URL. More on this in a section below.
 
 This type of content includes also schemas or drawings with schematics. The are a number of technologies that allow easy creation of diagrams and charts that are currently supported in *Urantiapedia*: [Kroki](https://kroki.io/), [Mermaid](http://mermaid-js.github.io/mermaid/#/) and [PlantUML](https://plantuml.com/). If previous diagram generators are not enough for *The Urantia Book* purposes (because they are mainly for software development) it is possible to use any content in [SVG format](https://developer.mozilla.org/en-US/docs/Web/SVG), that is the best recommended format to create diagrams, schemas or charts.
 

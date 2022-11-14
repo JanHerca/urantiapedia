@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/help/status">Statut actuel</a></td>
+        <td><a href="/fr/help/status">État actuel</a></td>
         <td><a href="/fr/help">Index</a></td>
         <td><a href="/fr/help/admin">Aide aux administrateurs</a></td>
       </tr>
@@ -79,13 +79,12 @@ Bon niveau d'anglais car la documentation et les commentaires de code sont en an
 
 ## External links
 
-- [Blue Fields (en anglais)](https://blue-fields.netlify.app/)
 - [Urantiapedia en Blue Fields](https://blue-fields.netlify.app/projects/292396532506821125)
 - [Urantiapedia - Projet principal sur GitHub](https://github.com/JanHerca/urantiapedia)
 - [Urantiapedia-backup - Projet pour les chargements en masse dans GitHub](https://github.com/JanHerca/urantiapedia-backup)
 - [Wiki.js - Projet personnalisé pour Urantiapedia](https://github.com/JanHerca/wiki)
 - [GitHub](https://github.com/)
-- [•	Fondation Urantia](https://www.urantia.org/)
+- [Fondation Urantia](https://www.urantia.org/)
 - [Blue Fields](https://blue-fields.netlify.app/)
 - [Wiki.js](https://js.wiki/)
 
@@ -95,7 +94,7 @@ Bon niveau d'anglais car la documentation et les commentaires de code sont en an
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/help/status">Statut actuel</a></td>
+        <td><a href="/fr/help/status">État actuel</a></td>
         <td><a href="/fr/help">Index</a></td>
         <td><a href="/fr/help/admin">Aide aux administrateurs</a></td>
       </tr>
