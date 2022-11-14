@@ -27,9 +27,9 @@ Author: **William S. Sadler**
 
 1. Saul was born in Tarsus. Paul was his Latin or Roman name—his father was a Roman citizen. He did not change his name from Saul to Paul because of his conversion.
 
-2. Paul was a “Pharisee of the Pharisees”—he was familiar with the philosophy of the Stoics and the Cynics. He also understood the pagan religions. [Acts 23:6](/en/Bible/Acts/23#v6).
+2. Paul was a “Pharisee of the Pharisees”—he was familiar with the philosophy of the Stoics and the Cynics. He also understood the pagan religions. [Acts 23:6](/en/Bible/Acts_of_the_Apostles/23#v6).
 
-3. Like most Jewish boys, he was taught a trade—tent-making, and he worked at it, on and off, much of his life. [Acts 18:3](/en/Bible/Acts/18#v3). (He was an expert weaver of goat’s hair.)
+3. Like most Jewish boys, he was taught a trade—tent-making, and he worked at it, on and off, much of his life. [Acts 18:3](/en/Bible/Acts_of_the_Apostles/18#v3). (He was an expert weaver of goat’s hair.)
 
 4. His conversion took place around A.D. 32, when he was about 30 years old. His death—A.D. 64 or 65. He was an active missionary about 33 years.
 
@@ -49,7 +49,7 @@ Author: **William S. Sadler**
 
 12. At Damascus, Ananias, a believer, instructed Paul and helped him escape the Jews.
 
-13. Perhaps the best account of Paul’s conversion is found in [Acts 9:1-19](/en/Bible/Acts/9#v1).
+13. Perhaps the best account of Paul’s conversion is found in [Acts 9:1-19](/en/Bible/Acts_of_the_Apostles/9#v1).
 
 14. His first public effort was to preach about Jesus in the Damascus synagogue.
 
@@ -69,7 +69,7 @@ Author: **William S. Sadler**
 
 22. They go from Paphos to Perga, where for some unknown reason, John Mark leaves them, returning to Jerusalem.
 
-23. Paul looked upon John’s conduct as desertion. [Acts 15:38](/en/Bible/Acts/15#v38).
+23. Paul looked upon John’s conduct as desertion. [Acts 15:38](/en/Bible/Acts_of_the_Apostles/15#v38).
 
 24. They taught in the synagogue at Pisidian Antioch, but the Jews rejected them.
 
@@ -129,7 +129,7 @@ Fornication.
 
 47. Paul spoke before Agrippa, and his sister from Jerusalem visited him.
 
-48. Paul sailed for Rome. The ship, it being autumn, got into serious trouble off the coast of Crete. In [Acts 27:1-28:13](/en/Bible/Acts/27#v1) Luke records one of the most famous shipwreck stories in all history.
+48. Paul sailed for Rome. The ship, it being autumn, got into serious trouble off the coast of Crete. In [Acts 27:1-28:13](/en/Bible/Acts_of_the_Apostles/27#v1) Luke records one of the most famous shipwreck stories in all history.
 
 49. The ship was storm-tossed for two weeks; finally the passengers were landed at Malta.
 

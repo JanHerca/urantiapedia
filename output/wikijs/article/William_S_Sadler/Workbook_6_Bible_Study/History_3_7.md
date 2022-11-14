@@ -31,7 +31,7 @@ THE PRIMITIVE CHURCH
 
 2. How, when, and why they gathered in Jerusalem—we do not know. We just find them there.
 
-3. On the day of Pentecost we find 120 believers assembled in an upper room at Jerusalem. [Acts 1:15](/en/Bible/Acts/1#v15).
+3. On the day of Pentecost we find 120 believers assembled in an upper room at Jerusalem. [Acts 1:15](/en/Bible/Acts_of_the_Apostles/1#v15).
 
 4. The promised Spirit comes, and they go out to preach—Peter taking the lead.
 
@@ -61,7 +61,7 @@ THE PRIMITIVE CHURCH
 
 17. There was serious trouble between the native Jewish Christians and the Hellenist converts. Stephen was leader of the Greeks.
 
-18. Stephen was dragged out during his trial and stoned to death. Paul saw all of this. [Acts 8:1](/en/Bible/Acts/8#v1).
+18. Stephen was dragged out during his trial and stoned to death. Paul saw all of this. [Acts 8:1](/en/Bible/Acts_of_the_Apostles/8#v1).
 
 19. While the Jews allowed the native Christians to remain, they drove the Hellenists out of Jerusalem. Thus they carried the gospel all over the gentile world.
 
@@ -73,7 +73,7 @@ THE PRIMITIVE CHURCH
 
 23. Peter was yielding leadership to James, the Lord’s brother. Paul and James held opposite positions regarding the gentiles. Peter tried to stand between them.
 
-24. But friction persisted. Finally Paul and Barnabas went up to Jerusalem for a finish fight. They finally reached a compromise. Paul was allowed to “go his way”, and preach his gospel. The two accounts of this meeting don’t fully agree. [Acts 15](/en/Bible/Acts/15.htm). [Gal 2](/en/Bible/Galatians/2.htm).
+24. But friction persisted. Finally Paul and Barnabas went up to Jerusalem for a finish fight. They finally reached a compromise. Paul was allowed to “go his way”, and preach his gospel. The two accounts of this meeting don’t fully agree. [Acts 15](/en/Bible/Acts_of_the_Apostles/15.htm). [Gal 2](/en/Bible/Galatians/2.htm).
 
 25. For many years the church went forward in two camps. The Jerusalem church became poverty stricken and Paul took up collections in his gentile churches to help them.
 

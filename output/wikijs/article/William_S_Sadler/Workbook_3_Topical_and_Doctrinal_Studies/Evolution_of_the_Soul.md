@@ -125,7 +125,7 @@ In many passages where soul is found in the King James Version, it is translated
 > 
 > “No man cares for me.” (My soul) [Ps 142:4](/en/Bible/Psalms/142#v4).
 > 
-> “So those who received his word were baptized, and there were added that day about three thousand souls.” [Acts 2:41.](/en/Bible/Acts/2#v41)
+> “So those who received his word were baptized, and there were added that day about three thousand souls.” [Acts 2:41.](/en/Bible/Acts_of_the_Apostles/2#v41)
 
 ### III. SOUL AS CONTRASTED WITH SPIRIT
 

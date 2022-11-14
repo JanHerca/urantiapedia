@@ -133,7 +133,7 @@ V. DEUTERONOMY IN THE NEW TESTAMENT
 
 **JESUS NEW TESTAMENT WRITERS**
 
-[Matt 4:4](/en/Bible/Matthew/4#v4). [Deut 8:3](/en/Bible/Deuteronomy/8#v3) [Acts 3:22](/en/Bible/Acts/3#v22). [Deut 18:15,18](/en/Bible/Deuteronomy/18#v15).
+[Matt 4:4](/en/Bible/Matthew/4#v4). [Deut 8:3](/en/Bible/Deuteronomy/8#v3) [Acts 3:22](/en/Bible/Acts_of_the_Apostles/3#v22). [Deut 18:15,18](/en/Bible/Deuteronomy/18#v15).
 
 [Matt 4:7](/en/Bible/Matthew/4#v7). [Deut 6:16](/en/Bible/Deuteronomy/6#v16). [1 Cor 9:9](/en/Bible/1_Corinthians/9#v9). [Deut 25:4](/en/Bible/Deuteronomy/25#v4).
 

@@ -51,7 +51,7 @@ The Bible makes use of the term “faith” with five differing meanings.
 4. An all-over attitude of believing.
 	> “The father of the child cried out and said ‘I believe, help my unbelief!’” [Mark 9:24](/en/Bible/Mark/9#v24).
 5. Referring to the belief of large groups of people.
-	> “And more than ever believers were added to the Lord, multitudes both of men and women.” [Acts 5:14](/en/Bible/Acts/5#v14).
+	> “And more than ever believers were added to the Lord, multitudes both of men and women.” [Acts 5:14](/en/Bible/Acts_of_the_Apostles/5#v14).
 
 ### II. HEALING FAITH
 
@@ -67,7 +67,7 @@ The Bible makes use of the term “faith” with five differing meanings.
 _The Gospel, your Creed, the Doctrines of the Church._
 
 1. Faith as the teachings of the church.
-	> “Strengthening the souls of the disciples, exhorting them to continue in the faith, and saying that through many tribulations we must enter the kingdom of God.” [Acts 14:22](/en/Bible/Acts/14#v22).
+	> “Strengthening the souls of the disciples, exhorting them to continue in the faith, and saying that through many tribulations we must enter the kingdom of God.” [Acts 14:22](/en/Bible/Acts_of_the_Apostles/14#v22).
 2. The church—the household of faith.
 	> “Let us do good to all men, and especially to those who are of the household of faith.” [Gal 6:10](/en/Bible/Galatians/6#v10).
 3. The sum total of religious belief.

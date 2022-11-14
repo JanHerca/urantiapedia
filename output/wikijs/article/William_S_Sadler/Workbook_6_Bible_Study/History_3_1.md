@@ -38,7 +38,7 @@ I. THE GOSPEL
 
 4. Love your enemies, and become “sons of the Most High.” [Luke 6:35](/en/Bible/Luke/6#v35). Love and forgive one another. [Eph 4:32](/en/Bible/Ephesians/4#v32).
 
-5. The gospel story is formulated in acts. By Peter— [Acts 4:8-12](/en/Bible/Acts/4#v8). By Paul— [Acts 13:16-41](/en/Bible/Acts/13#v16).
+5. The gospel story is formulated in acts. By Peter— [Acts 4:8-12](/en/Bible/Acts_of_the_Apostles/4#v8). By Paul— [Acts 13:16-41](/en/Bible/Acts_of_the_Apostles/13#v16).
 
 6. In the religion **of** Jesus, and according to the Urantia Book, the gospel is: “The fatherhood of God and the brotherhood of man.”
 
@@ -58,11 +58,11 @@ e. The second advent of Christ.
 
 9. The glossolalia of Pentecost is of doubtful authenticity.
 
-10. “You shall receive power when the Holy Spirit has come upon you.” [Acts 1:8](/en/Bible/Acts/1#v8). Pentecost is really the birthday of the Christian Church.
+10. “You shall receive power when the Holy Spirit has come upon you.” [Acts 1:8](/en/Bible/Acts_of_the_Apostles/1#v8). Pentecost is really the birthday of the Christian Church.
 
 11. The Spirit was recognized in Old Testament times—see [Judg 14:6](/en/Bible/Judges/14#v6). Now, at Pentecost, the Spirit is “democratized.”
 
-12. The church is here. “And they devoted themselves to the apostles’ teaching and fellowship, to the breaking of bread and the prayers.” [Acts 2:42](/en/Bible/Acts/2#v42).
+12. The church is here. “And they devoted themselves to the apostles’ teaching and fellowship, to the breaking of bread and the prayers.” [Acts 2:42](/en/Bible/Acts_of_the_Apostles/2#v42).
 
 13. These early believers attempted to carry out a communistic plan of living. Later on, Paul was taking up collections to feed the starving brethren at Jerusalem.
 

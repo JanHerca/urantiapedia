@@ -139,7 +139,7 @@ Guilt is seldom mentioned in the Bible.
 3. Truth sanctifies.
 	> “Sanctify them in the truth; thy word is truth.” [John 17:17](/en/Bible/John/17#v17).
 	> 
-	> “I commend you to God and to the word of his grace, which is able to build you up and to give you the inheritance among all those who are sanctified.” [Acts 20:32](/en/Bible/Acts/20#v32).
+	> “I commend you to God and to the word of his grace, which is able to build you up and to give you the inheritance among all those who are sanctified.” [Acts 20:32](/en/Bible/Acts_of_the_Apostles/20#v32).
 4. Sanctified in Jesus’ name.
 	> “But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ.” [1 Cor 6:11.](/en/Bible/1_Corinthians/6#v11)
 	> 
@@ -151,7 +151,7 @@ Guilt is seldom mentioned in the Bible.
 	> 
 	> “I am writing this to you so that you may not sin.” [1 John 2:1](/en/Bible/1_John/2#v1).
 6. Forgiveness and sanctification.
-	> “That they may receive forgiveness of sins and a place among those who are sanctified by faith.” [Acts 26:18](/en/Bible/Acts/26#v18).
+	> “That they may receive forgiveness of sins and a place among those who are sanctified by faith.” [Acts 26:18](/en/Bible/Acts_of_the_Apostles/26#v18).
 	> 
 	> **Note**: The Father has said: “Be you perfect.” Such bliss may be partially realized on worlds settled in light and life—and on Paradise.
 

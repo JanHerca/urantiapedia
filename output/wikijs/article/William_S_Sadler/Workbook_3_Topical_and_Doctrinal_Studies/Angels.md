@@ -271,7 +271,7 @@ Author: **William S. Sadler**
 
 ### III. MISSION AND WORK OF ANGELS
 
-> “At night an angel of the Lord opened the prison doors and brought them out.” [Acts 5:19](/en/Bible/Acts/5#v19).
+> “At night an angel of the Lord opened the prison doors and brought them out.” [Acts 5:19](/en/Bible/Acts_of_the_Apostles/5#v19).
 > 
 > “The harvest is the close of the age, and the reapers are angels.” [Matt 13:39](/en/Bible/Matthew/13#v39).
 > 
@@ -279,7 +279,7 @@ Author: **William S. Sadler**
 > 
 > “An angel of the Lord descended from heaven and came and rolled back the stone, and sat upon it.” [Matt 28:2](/en/Bible/Matthew/28#v2).
 > 
-> Speaking of Herod, it says: “An angel of the Lord smote him, because he did not give God the glory.” [Acts 12:23](/en/Bible/Acts/12#v23).
+> Speaking of Herod, it says: “An angel of the Lord smote him, because he did not give God the glory.” [Acts 12:23](/en/Bible/Acts_of_the_Apostles/12#v23).
 
 ### IV. MINISTERING SPIRITS
 
@@ -321,7 +321,7 @@ Author: **William S. Sadler**
 > 
 > “For I tell you that in heaven their angels always behold the face of my Father.” [Matt 18:10](/en/Bible/Matthew/18#v10).
 > 
-> Speaking of Peter: “They said, ‘It is his angel.’” [Acts 12:15](/en/Bible/Acts/12#v15).
+> Speaking of Peter: “They said, ‘It is his angel.’” [Acts 12:15](/en/Bible/Acts_of_the_Apostles/12#v15).
 > 
 > “In the presence of God...and of the elect angels, I charge you.” [1 Tim 5:21](/en/Bible/1_Timothy/5#v21).
 

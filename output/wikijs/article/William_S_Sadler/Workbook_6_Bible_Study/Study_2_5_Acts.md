@@ -36,7 +36,7 @@ I. OUTLINE-BRIEF
 
 II. OUTLINE-COMPLETE
 
-1. Jerusalem to Antioch. [1:1-12:25](/en/Bible/Acts/1#v1).
+1. Jerusalem to Antioch. [1:1-12:25](/en/Bible/Acts_of_the_Apostles/1#v1).
 
 A. Days of Expectation. 1:1-26.
 
@@ -52,7 +52,7 @@ F. To the Gentiles. 9:32-11:30.
 
 G. Persecution under Herod. 12:1-25.
 
-2 Antioch to Rome. [13:1-28:31](/en/Bible/Acts/13#v1).
+2 Antioch to Rome. [13:1-28:31](/en/Bible/Acts_of_the_Apostles/13#v1).
 
 A. First Mission. 13:1-14:28.
 

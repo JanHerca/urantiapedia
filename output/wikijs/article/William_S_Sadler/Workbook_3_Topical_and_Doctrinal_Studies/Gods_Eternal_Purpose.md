@@ -97,7 +97,7 @@ Author: **William S. Sadler**
 
 > “You meant evil against me; but God meant it for good.” [Gen 50:20](/en/Bible/Genesis/50#v20).
 > 
-> “And as many as were ordained to eternal life believed.” [Acts 13:48](/en/Bible/Acts/13#v48).
+> “And as many as were ordained to eternal life believed.” [Acts 13:48](/en/Bible/Acts_of_the_Apostles/13#v48).
 > 
 > “For those whom he foreknew he also predestined to be conformed to the image of his Son.” [Rom 8:29](/en/Bible/Romans/8#v29).
 > 
@@ -111,7 +111,7 @@ Author: **William S. Sadler**
 > 
 > “They disobey the word, as they were destined to do.” [1 Peter 2:8](/en/Bible/1_Peter/2#v8).
 > 
-> “To do whatever thy hand and thy plan had predestined to take place.” [Acts 4:28](/en/Bible/Acts/4#v28). [Eph 3:11](/en/Bible/Ephesians/3#v11).
+> “To do whatever thy hand and thy plan had predestined to take place.” [Acts 4:28](/en/Bible/Acts_of_the_Apostles/4#v28). [Eph 3:11](/en/Bible/Ephesians/3#v11).
 > 
 > “But you are a chosen race, a royal priesthood, a holy nation, God's own people, in order that you may proclaim the mighty acts of him who called you out of darkness into his marvelous light.” [1 Peter 2:9](/en/Bible/1_Peter/2#v9)
 

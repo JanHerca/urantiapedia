@@ -155,7 +155,7 @@ VIII. THE KENITES
 
 3. For the whole story of the Kenites see Urantia Book [96:0.2](/en/The_Urantia_Book/96#p0_2).
 
-4. Moses had a good Egyptian education before he joined up with the Kenites. See Urantia Book, [UB 96:4.2](/en/The_Urantia_Book/96#p4_2). He knew the "wisdom of the Egyptians." [Acts 7:22](/en/Bible/Acts/7#v22).
+4. Moses had a good Egyptian education before he joined up with the Kenites. See Urantia Book, [UB 96:4.2](/en/The_Urantia_Book/96#p4_2). He knew the "wisdom of the Egyptians." [Acts 7:22](/en/Bible/Acts_of_the_Apostles/7#v22).
 
 5. The priest Jethro was also known as Reuel. [2:18](/en/Bible/Exodus/2#v18).
 

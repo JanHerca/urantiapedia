@@ -59,7 +59,7 @@ II. HARMONY OF FAITH AND SCRIPTURE
 
 2. “And the Word became flesh and dwelt among us.” [John 1:14](/en/Bible/John/1#v14). This is the theme song of all New Testament teaching.
 
-3. Naturally, the next step is the proclamation—”There is no other name under heaven given among men, by which we must be saved.” [Acts 4:12](/en/Bible/Acts/4#v12).
+3. Naturally, the next step is the proclamation—”There is no other name under heaven given among men, by which we must be saved.” [Acts 4:12](/en/Bible/Acts_of_the_Apostles/4#v12).
 
 4. While the Urantia Book validates the incarnation, it declares the gospel of the kingdom to be “the fatherhood of God and the brotherhood of man.”   
 [UB 194:4.4](/en/The_Urantia_Book/194#p4_4)
