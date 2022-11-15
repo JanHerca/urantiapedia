@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Permanent_Citizens">Permanent Citizens</a></td>
-			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
-			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Prayer_and_Worship">Prayer and Worship</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Permanent_Citizens">Permanent Citizens</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Prayer_and_Worship">Prayer and Worship</a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -278,9 +278,9 @@ Personality is difficult to define—but it is recognized as functioning on dive
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Permanent_Citizens">Permanent Citizens</a></td>
-			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
-			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Prayer_and_Worship">Prayer and Worship</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Permanent_Citizens">Permanent Citizens</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Prayer_and_Worship">Prayer and Worship</a></td>
 		</tr>
 		</tbody>
 	</table>

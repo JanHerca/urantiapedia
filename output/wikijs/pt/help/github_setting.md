@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/pt/help/devs">Ajuda dos desenvolvedores</a></td>
+        <td><a href="/pt/help/web_html_editor">Usando o editor HTML</a></td>
         <td><a href="/pt/help">Índice</a></td>
         <td><a href="/pt/help/github_content">Conteúdo do projeto GitHub</a></td>
       </tr>
@@ -166,7 +166,7 @@ Em resumo, o processo no GitHub é o seguinte (veja o diagrama):
   <table>
     <tbody>
       <tr>
-        <td><a href="/pt/help/devs">Ajuda dos desenvolvedores</a></td>
+        <td><a href="/pt/help/web_html_editor">Usando o editor HTML</a></td>
         <td><a href="/pt/help">Índice</a></td>
         <td><a href="/pt/help/github_content">Conteúdo do projeto GitHub</a></td>
       </tr>

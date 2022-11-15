@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Truth_Beauty_and_Goodness">Truth Beauty and Goodness</a></td>
-			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
-			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Yahweh">Yahweh</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Truth_Beauty_and_Goodness">Truth Beauty and Goodness</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Yahweh">Yahweh</a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -251,9 +251,9 @@ Praise represents an attitude ranging somewhere between prayer and worship, and 
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Truth_Beauty_and_Goodness">Truth Beauty and Goodness</a></td>
-			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
-			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Yahweh">Yahweh</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Truth_Beauty_and_Goodness">Truth Beauty and Goodness</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Yahweh">Yahweh</a></td>
 		</tr>
 		</tbody>
 	</table>

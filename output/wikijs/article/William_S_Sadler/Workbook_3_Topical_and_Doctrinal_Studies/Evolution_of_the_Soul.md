@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Evil_and_Sin">Evil and Sin</a></td>
-			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
-			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Evolution">Evolution</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Evil_and_Sin">Evil and Sin</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Evolution">Evolution</a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -182,9 +182,9 @@ In many passages where soul is found in the King James Version, it is translated
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Evil_and_Sin">Evil and Sin</a></td>
-			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
-			<td><a href="/en/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Evolution">Evolution</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Evil_and_Sin">Evil and Sin</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Evolution">Evolution</a></td>
 		</tr>
 		</tbody>
 	</table>
