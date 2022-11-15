@@ -12,7 +12,7 @@ Author: **William S. Sadler**
 
 **[PART I - THE SAYINGS OF JESUS](/en/article/William_S_Sadler/Workbook_4_Jesus/1)**
 
-1. [The Heavenly Father’s Love](/en/article/William_S_Sadler/Workbook_4_Jesus/1#1-the-heavenly-fathers-love)
+1. [The Heavenly Father’s Love](/en/article/William_S_Sadler/Workbook_4_Jesus/1#1-the-heavenly-father-s-love)
 2. [Jesus Comments on the Passover Rites](/en/article/William_S_Sadler/Workbook_4_Jesus/1#2-jesus-comments-on-the-passover-rites)
 3. [The Temple Discussions](/en/article/William_S_Sadler/Workbook_4_Jesus/1#3-the-temple-discussions)
 4. [Remarks to His Parents](/en/article/William_S_Sadler/Workbook_4_Jesus/1#4-remarks-to-his-parents)
