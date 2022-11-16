@@ -10,6 +10,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Autor: **Charles Hartshorne**
 
+* [PORTADA](/es/book/Charles_Hartshorne/Mans_Vision_of_God)
 * [Prefacio](/es/book/Charles_Hartshorne/Mans_Vision_of_God/Preface)
 * [I. Las doctrinas formalmente posibles](/es/book/Charles_Hartshorne/Mans_Vision_of_God/1)
 * [II. Un programa de teología filosófica](/es/book/Charles_Hartshorne/Mans_Vision_of_God/2)

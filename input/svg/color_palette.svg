@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="400" height="600" viewBox="0 0 100 150" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="400" height="600" fill="#fff"/>
+  <!-- Bible -->
+  <rect x="40" y="15" width="11" height="11" fill="#f1a6a6"/>
+  <rect x="51" y="15" width="11" height="11" fill="#e06464"/>
+  <rect x="62" y="15" width="11" height="11" fill="#cd0707"/>
+  <rect x="84" y="15" width="11" height="11" fill="#690404"/>
+  <!-- Extra biblical -->
+  <rect x="40" y="35" width="11" height="11" fill="#85e7b1"/>
+  <rect x="51" y="35" width="11" height="11" fill="#42ca7d"/>
+  <rect x="62" y="35" width="11" height="11" fill="#218b4d"/>
+  <rect x="84" y="35" width="11" height="11" fill="#2a4a16"/>
+  <!-- Source book -->
+  <rect x="40" y="55" width="11" height="11" fill="#F9F1D2"/>
+  <rect x="51" y="55" width="11" height="11" fill="#e7d791"/>
+  <rect x="62" y="55" width="11" height="11" fill="#9c9035"/>
+  <rect x="84" y="55" width="11" height="11" fill="#301602"/>
+  <!-- Reader book -->
+  <rect x="40" y="75" width="11" height="11" fill="#eeddcc"/>
+  <rect x="51" y="75" width="11" height="11" fill="#ee9977"/>
+  <rect x="62" y="75" width="11" height="11" fill="#aa8899"/>
+  <rect x="84" y="75" width="11" height="11" fill="#223355"/>
+  <!-- Study Aid -->
+  <rect x="40" y="95" width="11" height="11" fill="#0e66a1"/>
+  <rect x="51" y="95" width="11" height="11" fill="#fff"/>
+  <rect x="62" y="95" width="11" height="11" fill="#1e3b4e"/>
+  <rect x="84" y="95" width="11" height="11" fill="#4999D2"/>
+  <!-- argent -->
+  <rect x="40" y="115" width="11" height="11" fill="#fff" stroke="#000" stroke-width=".02"/>
+  <rect x="51" y="115" width="11" height="11" fill="#ececec"/>
+  <rect x="62" y="115" width="11" height="11" fill="#ccc"/>
+  <rect x="84" y="115" width="11" height="11" fill="#808080"/>
+  <!-- sable -->
+  <rect x="40" y="135" width="11" height="11" fill="#4d4d4d"/>
+  <rect x="51" y="135" width="11" height="11" fill="#2d2d2d"/>
+  <rect x="62" y="135" width="11" height="11" fill="#212121"/>
+  <rect x="84" y="135" width="11" height="11" fill="#000"/>
+  <g transform="translate(32)" font-family="Arial" font-size="5" text-anchor="end">
+    <text x="34" y="8">Inside</text>
+    <text x="65" y="8">Outline</text>
+    <text x="0" y="22">Bible</text>
+    <text x="0" y="42">Extra biblical</text>
+    <text x="0" y="62">Source book</text>
+    <text x="0" y="82">Reader book</text>
+    <text x="0" y="102">Study Aid</text>
+    <text x="0" y="122">Argent</text>
+    <text x="0" y="142">Sable</text>
+  </g>
+
+</svg>

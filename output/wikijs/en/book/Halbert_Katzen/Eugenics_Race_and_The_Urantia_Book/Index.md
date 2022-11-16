@@ -3,13 +3,14 @@ title: Eugenics, Race, and The Urantia Book - Index
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: 
+tags: eugenics 
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 Author: **Halbert Katzen J.D.**
 
+* [FRONT PAGE](/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book)
 * [Chapter 1 - Purpose and Parameters](/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/1)
 * [Chapter 2. Setting the Standard](/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/2)
 * [Chapter 3. Terminology](/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/3)

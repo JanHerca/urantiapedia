@@ -12,6 +12,7 @@ Author: **Albert C. Knudson**
 
 **INDEX**
 
+* [FRONT PAGE](/en/book/Albert_C_Knudson/The_Doctrine_of_God)
 * [PREFACE](/en/book/Albert_C_Knudson/The_Doctrine_of_God/Preface)
 * PART I. INTRODUCTION: THE PROVINCE OF THEOLOGY 
     * [CHAPTER I — RELIGION AND THEOLOGY](/en/book/Albert_C_Knudson/The_Doctrine_of_God/1)

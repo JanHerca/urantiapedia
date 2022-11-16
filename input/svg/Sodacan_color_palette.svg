@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="400" height="600" viewBox="0 0 100 150" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="400" height="600" fill="#fff"/>
+  <!-- gules -->
+  <rect x="40" y="15" width="11" height="11" fill="#ee6c6c"/>
+  <rect x="51" y="15" width="11" height="11" fill="#e94545"/>
+  <rect x="62" y="15" width="11" height="11" fill="#cd0707"/>
+  <rect x="84" y="15" width="11" height="11" fill="#920000"/>
+  <!-- or -->
+  <rect x="40" y="35" width="11" height="11" fill="#fff1a1"/>
+  <rect x="51" y="35" width="11" height="11" fill="#fee46e"/>
+  <rect x="62" y="35" width="11" height="11" fill="#e4c900"/>
+  <rect x="84" y="35" width="11" height="11" fill="#806600"/>
+  <!-- vert -->
+  <rect x="40" y="55" width="11" height="11" fill="#21cb6d"/>
+  <rect x="51" y="55" width="11" height="11" fill="#21ad5e"/>
+  <rect x="62" y="55" width="11" height="11" fill="#218b4d"/>
+  <rect x="84" y="55" width="11" height="11" fill="#2a4a16"/>
+  <!-- azure -->
+  <rect x="40" y="75" width="11" height="11" fill="#4286ec"/>
+  <rect x="51" y="75" width="11" height="11" fill="#1668e2"/>
+  <rect x="62" y="75" width="11" height="11" fill="#1353b4"/>
+  <rect x="84" y="75" width="11" height="11" fill="#162e52"/>
+  <!-- purple -->
+  <rect x="40" y="95" width="11" height="11" fill="#c2779e"/>
+  <rect x="51" y="95" width="11" height="11" fill="#a44476"/>
+  <rect x="62" y="95" width="11" height="11" fill="#782e51"/>
+  <rect x="84" y="95" width="11" height="11" fill="#541b32"/>
+  <!-- argent -->
+  <rect x="40" y="115" width="11" height="11" fill="#fff" stroke="#000" stroke-width=".02"/>
+  <rect x="51" y="115" width="11" height="11" fill="#ececec"/>
+  <rect x="62" y="115" width="11" height="11" fill="#ccc"/>
+  <rect x="84" y="115" width="11" height="11" fill="#808080"/>
+  <!-- sable -->
+  <rect x="40" y="135" width="11" height="11" fill="#4d4d4d"/>
+  <rect x="51" y="135" width="11" height="11" fill="#2d2d2d"/>
+  <rect x="62" y="135" width="11" height="11" fill="#212121"/>
+  <rect x="84" y="135" width="11" height="11" fill="#000"/>
+  <g transform="translate(32)" font-family="DejaVu Sans" font-size="5" text-anchor="end">
+    <text x="34" y="8">Inside</text>
+    <text x="65" y="8">Outline</text>
+    <text x="0" y="22">Gules</text>
+    <text x="0" y="42">Or</text>
+    <text x="0" y="62">Vert</text>
+    <text x="0" y="82">Azure</text>
+    <text x="0" y="102">Purpure</text>
+    <text x="0" y="122">Argent</text>
+    <text x="0" y="142">Sable</text>
+  </g>
+
+</svg>
