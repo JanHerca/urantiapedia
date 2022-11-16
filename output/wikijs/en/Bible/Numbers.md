@@ -8,6 +8,23 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<svg width="171.18541mm" height="228.07083mm" viewBox="0 0 171.18541 228.07083">
+	<g transform="translate(-7.3894444,-5.4050636)" style="display:inline">
+		<rect style="fill:#e06464;stroke-width:0.299491;"
+			width="9.6217022" height="227.9809" x="7.3894444" y="5.4050636" />
+		<rect style="display:inline;fill:#690404;stroke-width:0.352954;"
+			width="161.56371" height="228.07083" x="17.011147" y="5.4050636" />
+		<text style="font-size:4.93889px;line-height:1.25;font-family: 'Chivo', sans-serif;fill:#fff;stroke-width:0.264583"
+			x="82.06868" y="22.376682">THE BIBLE</text>
+		<text style="font-size:4.23333px;line-height:1.25;font-family: 'Chivo', sans-serif;fill:#fff;stroke-width:0.264583"
+			x="62.335793" y="217.97937">American Standard Version, 1901</text>
+		<text style="font-size:19.7556px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.264583"
+			x="96.792389" y="78.128197">Numbers</text>
+	</g>
+</svg>
+
+## Description
+
 The book of Numbers (from Greek Ἀριθμοί, Arithmoi; Hebrew: בְּמִדְבַּר, Bəmīḏbar, “In the desert [of]”) is the fourth book of the Hebrew Bible, and the fourth of five books of the Jewish Torah. The book has a long and complex history; its final form is possibly due to a Priestly redaction (i.e., editing) of a Yahwistic source made some time in the early Persian period (5th century BC). The name of the book comes from the two censuses taken of the Israelites.
 
 Numbers begins at Mount Sinai, where the Israelites have received their laws and covenant from God and God has taken up residence among them in the sanctuary. The task before them is to take possession of the Promised Land. The people are counted and preparations are made for resuming their march. The Israelites begin the journey, but they “grumble” at the hardships along the way, and about the authority of Moses and Aaron. For these acts, God destroys approximately 15,000 of them through various means. They arrive at the borders of Canaan and send spies into the land. Upon hearing the spies' fearful report concerning the conditions in Canaan, the Israelites refuse to take possession of it. God condemns them to death in the wilderness until a new generation can grow up and carry out the task. The book ends with the new generation of Israelites in the “plains of Moab” ready for the crossing of the Jordan River.

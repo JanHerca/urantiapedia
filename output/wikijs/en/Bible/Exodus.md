@@ -8,6 +8,23 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<svg width="171.18541mm" height="228.07083mm" viewBox="0 0 171.18541 228.07083">
+	<g transform="translate(-7.3894444,-5.4050636)" style="display:inline">
+		<rect style="fill:#e06464;stroke-width:0.299491;"
+			width="9.6217022" height="227.9809" x="7.3894444" y="5.4050636" />
+		<rect style="display:inline;fill:#690404;stroke-width:0.352954;"
+			width="161.56371" height="228.07083" x="17.011147" y="5.4050636" />
+		<text style="font-size:4.93889px;line-height:1.25;font-family: 'Chivo', sans-serif;fill:#fff;stroke-width:0.264583"
+			x="82.06868" y="22.376682">THE BIBLE</text>
+		<text style="font-size:4.23333px;line-height:1.25;font-family: 'Chivo', sans-serif;fill:#fff;stroke-width:0.264583"
+			x="62.335793" y="217.97937">American Standard Version, 1901</text>
+		<text style="font-size:19.7556px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.264583"
+			x="96.792389" y="78.128197">Exodus</text>
+	</g>
+</svg>
+
+## Description
+
 The Book of Exodus (from Ancient Greek: Ἔξοδος, romanized: Éxodos; Hebrew: שְׁמוֹת Šəmōṯ, “Names”) is the second book of the Bible. It narrates the story of the Exodus, in which the Israelites leave slavery in Biblical Egypt through the strength of Yahweh, who has chosen them as his people. The Israelites then journey with the prophet Moses to Mount Sinai, where Yahweh gives the 10 commandments and they enter into a covenant with Yahweh, who promises to make them a “holy nation, and a kingdom of priests” on condition of their faithfulness. He gives them their laws and instructions to build the Tabernacle, the means by which he will come from heaven and dwell with them and lead them in a holy war to possess the land of Canaan (the “Promised Land”), which had earlier, according to the story of Genesis, been promised to the seed of Abraham.
 
 Traditionally ascribed to Moses himself, modern scholars see its initial composition as a product of the Babylonian exile (6th century BCE), based on earlier written sources and oral traditions, with final revisions in the Persian post-exilic period (5th century BCE). Carol Meyers, in her commentary on Exodus, suggests that it is arguably the most important book in the Bible, as it presents the defining features of Israel's identity—memories of a past marked by hardship and escape, a binding covenant with God, who chooses Israel, and the establishment of the life of the community and the guidelines for sustaining it. The consensus among modern scholars is that the story in the Book of Exodus is best understood as a myth.

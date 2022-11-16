@@ -8,6 +8,23 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<svg width="171.18541mm" height="228.07083mm" viewBox="0 0 171.18541 228.07083">
+	<g transform="translate(-7.3894444,-5.4050636)" style="display:inline">
+		<rect style="fill:#e06464;stroke-width:0.299491;"
+			width="9.6217022" height="227.9809" x="7.3894444" y="5.4050636" />
+		<rect style="display:inline;fill:#690404;stroke-width:0.352954;"
+			width="161.56371" height="228.07083" x="17.011147" y="5.4050636" />
+		<text style="font-size:4.93889px;line-height:1.25;font-family: 'Chivo', sans-serif;fill:#fff;stroke-width:0.264583"
+			x="82.06868" y="22.376682">THE BIBLE</text>
+		<text style="font-size:4.23333px;line-height:1.25;font-family: 'Chivo', sans-serif;fill:#fff;stroke-width:0.264583"
+			x="62.335793" y="217.97937">American Standard Version, 1901</text>
+		<text style="font-size:19.7556px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.264583"
+			x="96.792389" y="78.128197">Jeremiah</text>
+	</g>
+</svg>
+
+## Description
+
 The Book of Jeremiah (Hebrew: ספר יִרְמְיָהוּ) is the second of the Latter Prophets in the Hebrew Bible, and the second of the Prophets in the Christian Old Testament. The superscription at chapter Jeremiah 1:1–3 identifies the book as “the words of Jeremiah son of Hilkiah”. Of all the prophets, Jeremiah comes through most clearly as a person, ruminating to his scribe Baruch about his role as a servant of God with little good news for his audience.
 
 His book is intended as a message to the Jews in exile in Babylon, explaining the disaster of exile as God's response to Israel's pagan worship: the people, says Jeremiah, are like an unfaithful wife and rebellious children, their infidelity and rebelliousness made judgment inevitable, although restoration and a new covenant are foreshadowed. Authentic oracles of Jeremiah are probably to be found in the poetic sections of chapters 1 –25, but the book as a whole has been heavily edited and added to by the prophet's followers (including perhaps his companion, the scribe Baruch) and later generations of Deuteronomists.

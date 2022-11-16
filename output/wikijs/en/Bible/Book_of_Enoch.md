@@ -8,6 +8,29 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<svg width="171.18541mm" height="228.07083mm" viewBox="0 0 171.18541 228.07083">
+	<g transform="translate(-7.3894444,-5.4050636)" style="display:inline">
+		<rect style="fill:#42ca7d;stroke-width:0.299491;"
+			width="9.6217022" height="227.9809" x="7.3894444" y="5.4050636" />
+		<rect style="display:inline;fill:#2a4a16;stroke-width:0.352954;"
+			width="161.56371" height="228.07083" x="17.011147" y="5.4050636" />
+		<text style="font-size:4.93889px;line-height:1.25;font-family: 'Chivo', sans-serif;fill:#fff;stroke-width:0.264583"
+			x="82.06868" y="22.376682">APOCRYPHA</text>
+		<text style="font-size:4.23333px;line-height:1.25;font-family: 'Chivo', sans-serif;fill:#fff;stroke-width:0.264583"
+			x="82.335793" y="201.97937">R. H. Charles</text>
+		<text style="font-size:4.23333px;line-height:1.25;font-family: 'Chivo', sans-serif;fill:#fff;stroke-width:0.264583"
+			x="42.335793" y="209.97937">The Apocrypha and Pseudepigrapha of the Old Testament</text>
+		<text style="font-size:4.23333px;line-height:1.25;font-family: 'Chivo', sans-serif;fill:#fff;stroke-width:0.264583"
+			x="62.335793" y="217.97937">Oxford: University Press, 1913</text>
+		<text style="font-size:19.7556px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.264583"
+			x="96.792389" y="53.128197">Book of</text>
+		<text style="font-size:19.7556px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.264583"
+			x="96.792389" y="78.128197">Enoch</text>
+	</g>
+</svg>
+
+## Description
+
 The Book of Enoch (also 1 Enoch;[note 1] Ge'ez: መጽሐፈ ሄኖክ, maṣḥafa hēnok) is an ancient Hebrew apocalyptic religious text, ascribed by tradition to Enoch, the great-grandfather of Noah. Enoch contains unique material on the origins of demons and Nephilim, why some angels fell from heaven, an explanation of why the Genesis flood was morally necessary, and prophetic exposition of the thousand-year reign of the Messiah.
 
 The older sections (mainly in the Book of the Watchers) of the text are estimated to date from about 300–200 BC, and the latest part (Book of Parables) probably to 100 BC.

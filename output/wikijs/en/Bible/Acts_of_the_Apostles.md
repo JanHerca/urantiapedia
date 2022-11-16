@@ -8,6 +8,25 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<svg width="171.18541mm" height="228.07083mm" viewBox="0 0 171.18541 228.07083">
+	<g transform="translate(-7.3894444,-5.4050636)" style="display:inline">
+		<rect style="fill:#e06464;stroke-width:0.299491;"
+			width="9.6217022" height="227.9809" x="7.3894444" y="5.4050636" />
+		<rect style="display:inline;fill:#690404;stroke-width:0.352954;"
+			width="161.56371" height="228.07083" x="17.011147" y="5.4050636" />
+		<text style="font-size:4.93889px;line-height:1.25;font-family: 'Chivo', sans-serif;fill:#fff;stroke-width:0.264583"
+			x="82.06868" y="22.376682">THE BIBLE</text>
+		<text style="font-size:4.23333px;line-height:1.25;font-family: 'Chivo', sans-serif;fill:#fff;stroke-width:0.264583"
+			x="62.335793" y="217.97937">American Standard Version, 1901</text>
+		<text style="font-size:19.7556px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.264583"
+			x="96.792389" y="53.128197">Acts of the</text>
+		<text style="font-size:19.7556px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.264583"
+			x="96.792389" y="78.128197">Apostles</text>
+	</g>
+</svg>
+
+## Description
+
 The Acts of the Apostles (Koinē Greek: Πράξεις Ἀποστόλων, Práxeis Apostólōn; Latin: Actūs Apostolōrum) is the fifth book of the New Testament; it tells of the founding of the Christian Church and the spread of its message to the Roman Empire. It gives an account of the ministry and activity of Christ's apostles in Jerusalem and other regions, after Christ's death, resurrection, and ascension.
 
 Acts and the Gospel of Luke make up a two-part work, Luke–Acts, by the same anonymous author. It is usually dated to around 80–90 AD, although some scholars suggest 90–110. The first part, the Gospel of Luke, tells how God fulfilled his plan for the world's salvation through the life, death, and resurrection of Jesus of Nazareth, the promised messiah. Acts continues the story of Christianity in the 1st century, beginning with the ascension of Jesus to Heaven. The early chapters, set in Jerusalem, describe the Day of Pentecost (the coming of the Holy Spirit) and the growth of the church in Jerusalem. Initially, the Jews are receptive to the Christian message, but later they turn against the followers of Jesus. Rejected by the Jews, the message is taken to the Gentiles under the guidance of Paul the Apostle. The later chapters tell of Paul's conversion, his mission in Asia Minor and the Aegean, and finally his imprisonment in Rome, where, as the book ends, he awaits trial.

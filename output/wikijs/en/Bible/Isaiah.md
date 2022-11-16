@@ -8,6 +8,23 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
+<svg width="171.18541mm" height="228.07083mm" viewBox="0 0 171.18541 228.07083">
+	<g transform="translate(-7.3894444,-5.4050636)" style="display:inline">
+		<rect style="fill:#e06464;stroke-width:0.299491;"
+			width="9.6217022" height="227.9809" x="7.3894444" y="5.4050636" />
+		<rect style="display:inline;fill:#690404;stroke-width:0.352954;"
+			width="161.56371" height="228.07083" x="17.011147" y="5.4050636" />
+		<text style="font-size:4.93889px;line-height:1.25;font-family: 'Chivo', sans-serif;fill:#fff;stroke-width:0.264583"
+			x="82.06868" y="22.376682">THE BIBLE</text>
+		<text style="font-size:4.23333px;line-height:1.25;font-family: 'Chivo', sans-serif;fill:#fff;stroke-width:0.264583"
+			x="62.335793" y="217.97937">American Standard Version, 1901</text>
+		<text style="font-size:19.7556px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.264583"
+			x="96.792389" y="78.128197">Isaiah</text>
+	</g>
+</svg>
+
+## Description
+
 The Book of Isaiah (Hebrew: ספר ישעיהו, [ˈsɛ.fɛr jə.ʃaʕ.ˈjaː.hu]) is the first of the Latter Prophets in the Hebrew Bible and the first of the Major Prophets in the Christian Old Testament. It is identified by a superscription as the words of the 8th-century BCE prophet Isaiah ben Amoz, but there is extensive evidence that much of it was composed during the Babylonian captivity and later. Johann Christoph Döderlein suggested in 1775 that the book contained the works of two prophets separated by more than a century, and Bernhard Duhm originated the view, held as a consensus through most of the 20th century, that the book comprises three separate collections of oracles: Proto-Isaiah (chapters 1–39), containing the words of the 8th-century BCE prophet Isaiah; Deutero-Isaiah (chapters 40–55), the work of an anonymous 6th-century BCE author writing during the Exile; and Trito-Isaiah (chapters 56–66), composed after the return from Exile. Isaiah 1–33 promises judgment and restoration for Judah, Jerusalem and the nations, and chapters 34–66 presume that judgment has been pronounced and restoration follows soon. While virtually no scholars today attribute the entire book, or even most of it, to one person, the book's essential unity has become a focus in more recent research.
 
 The book can be read as an extended meditation on the destiny of Jerusalem into and after the Exile. The Deutero-Isaian part of the book describes how God will make Jerusalem the centre of his worldwide rule through a royal saviour (a messiah) who will destroy the oppressor (Babylon); this messiah is the Persian king Cyrus the Great, who is merely the agent who brings about Yahweh's kingship. Isaiah speaks out against corrupt leaders and for the disadvantaged, and roots righteousness in God's holiness rather than in Israel's covenant.
