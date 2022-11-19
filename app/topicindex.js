@@ -118,8 +118,9 @@ class TopicIndex {
 	 * @param {string} category Category of topics from Topic Index that must
 	 * be read. Those out the category are ignored. To read all use 'ALL' and 
 	 * to read none 'NONE'.
-	 * @param {string} letter Letter of topics from Topic Index that must be
-	 * read. Those out of the letter are ignored. To read all use `ALL`.
+	 * @param {string} letter Letter in lowercase of topics from Topic Index
+	 * that must be read. Those out of the letter are ignored. To read all 
+	 * use `ALL`.
 	 * @param {string} filePath TXT file path from Topic Index.
 	 * @return {Promise}
 	 */
@@ -536,10 +537,10 @@ class TopicIndex {
 	};
 
 	/**
-	 * Checks the if own names are found in any parragraph of Urantia Book. If
-	 * any name is not found in any parragraph or the times founded is less than
+	 * Checks if own names are found in any paragraph of Urantia Book. If
+	 * any name is not found in any paragraph or number founded is less than
 	 * a 20% adds an error in an array of error objects (with desc and fileline).
-	 * This function require a previous call to checkRefs.
+	 * This function requires a previous call to checkRefs.
 	 * @param {Object} topic Topic.
 	 * @param {Book} book The Urantia Book object.
 	 */
@@ -699,12 +700,15 @@ class TopicIndex {
 	/**
 	 * Writes all entries in Topic Index in Wiki.js format.
 	 * @param {string} dirPath Output folder.
+	 * @param {string} letter Letter in lowercase of topics from Topic Index 
+	 * that must be read. Those out of the letter are ignored. To read all 
+	 * use `ALL`.
 	 * @param {?TopicIndex} topicIndexEN An optional Topic Index in english. If
 	 * current language is english then this is not required. If it is not english
 	 * then this param is required.
 	 * @return {Promise}
 	 */
-	writeToWikijs = (dirPath, topicIndexEN) => {
+	writeToWikijs = (dirPath, letter, topicIndexEN) => {
 		const baseName = path.basename(dirPath);
 		return new Promise((resolve, reject) => {
 			fs.access(dirPath, fs.constants.W_OK, (err) => {
@@ -748,8 +752,11 @@ class TopicIndex {
 					}
 					const fileName = topicEN.name.replace(/ /g, '_');
 					const filePath = path.join(dirPath, `${fileName}.html`);
-					const p = this.writeFileToWikijs(filePath, topic, topicEN,
-						tiNames);
+					const isLetter = letter != 'ALL' && 
+						!topicEN.name.toLowerCase().startsWith(letter);
+					const p = (isLetter ? Promise.resolve(null) :
+						this.writeFileToWikijs(filePath, topic, topicEN,
+						tiNames));
 					return reflectPromise(p);
 				});
 				if (topicErr.length > 0) {
@@ -878,11 +885,13 @@ class TopicIndex {
 
 					//Add links to internal topics
 					const nameslinks = [];
+					//TODO: Next word separation only works for English and Spanish
 					const words = subcontent
 						.match(/[a-z0-9áéíóúüñ'-]+(?:'[a-z0-9áéíóúüñ'-]+)*/gi);
 					tiNames.forEach(nn => {
 						if (nn.name === topic.name) return;
 						nn.names.forEach(n => {
+							if (!(this.isLinkableName(n, subcontent))) return;
 							if (subcontent.indexOf(n) != -1 && nn.nameEN &&
 								words.find(w => n.startsWith(w))) {
 								const ln = nn.nameEN.replace(/\s/g, '_');
@@ -1542,6 +1551,30 @@ class TopicIndex {
 	getError = (...params) => {
 		return getError(this.language, ...params);
 	};
+
+	/**
+	 * Checks if the given topic name is suitable for creating a link in the
+	 * given content.
+	 * 
+	 * In some languages can happen that a topic name collides with a common
+	 * word. We must avoid creating links for them. For example: in Spanish
+	 * the word `El` can be an article for masculine or a Jewish god.
+	 * @param {string} name Topic name in current selected language.
+	 * @param {string} content Full paragraph in which search for topic name.
+	 */
+	isLinkableName = (name, content) => {
+		const index = content.indexOf(name);
+		if (index == -1) return false;
+		if (this.language === 'es') {
+			if (name === 'El' && 
+				(index == 0 || 
+				(index > 2 && content[index-2].match(/\.|\?|\!/)))) {
+				return false;
+			}
+		}
+		return true;
+	};
+
 };
 
 module.exports = TopicIndex;

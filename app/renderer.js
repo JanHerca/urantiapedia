@@ -613,17 +613,17 @@ const handle_exeButtonClick = () => {
 		// Reads TopicIndex (*.txt) => 
 		// Writes (*.html)
 		if (lan === 'en') {
-			topicindex.readFromTXT(txtDir, category, letter)
-				.then(() => topicindex.writeToWikijs(htmlDir))
+			topicindex.readFromTXT(txtDir, category, 'ALL')
+				.then(() => topicindex.writeToWikijs(htmlDir, letter))
 				.then(() => onSuccess(okMsgs))
 				.catch(onFail);
 		} else {
-			topicindex.readFromTXT(txtDir, category, letter)
+			topicindex.readFromTXT(txtDir, category, 'ALL')
 				.then(() => {
 					const ti = txtDir.replace(`topic-index-${lan}`, 'topic-index-en');
 					return topicindexEN.readFromTXT(ti, category);
 				})
-				.then(() => topicindex.writeToWikijs(htmlDir, topicindexEN))
+				.then(() => topicindex.writeToWikijs(htmlDir, letter, topicindexEN))
 				.then(() => onSuccess(okMsgs))
 				.catch(onFail);
 		}
