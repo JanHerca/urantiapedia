@@ -516,3 +516,11 @@ Main tables are in /input/markdown/en/image_catalog.md
 | Zachaeus in tree                                                                               | Zaqueo en el árbol                                                                                      |
 | Zacharias Killed Between the Temple and the Altar                                              | Zacarías asesinado entre el templo y el altar                                                           |
 | Jesus face                                                                                     | El Rostro de Jesús                                                                                      |
+| Christ and the Samaritan woman                                                                 | Cristo y la mujer samaritana                                                                            |
+| The lights of Christianity. The Torches of Nero                                                | Las luces del cristianismo. Las antorchas de Nerón                                                      |
+| Christ and the sinner                                                                          | Cristo y el pecador                                                                                     |
+| Christ with Martha and Mary                                                                    | Cristo con Marta y María                                                                                |
+| Christ and the sinner                                                                          | Cristo y el pecador                                                                                     |
+| The Mount of Assembly, the dwelling place of the Faithful of Days                              | El Monte de la Asamblea, la morada de los Fieles de los Días                                            |
+| The three Vorondadeks Sons, the Most Highs in the constellation                                | Los tres Hijos Vorondadeks, los Altísimos en la constelación                                            |
+| The sea of glass, the receiving area of Edentia                                                | El mar de cristal, la zona de acogida de Edentia                                                        |

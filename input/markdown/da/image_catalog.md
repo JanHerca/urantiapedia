@@ -516,3 +516,11 @@ Main tables are in /input/markdown/en/image_catalog.md
 | Zachaeus in tree                                                                               | Zachaeus i træ                                                                                     |
 | Zacharias Killed Between the Temple and the Altar                                              | Zacharias dræbt mellem templet og alteret                                                          |
 | Jesus face                                                                                     | Jesu ansigt                                                                                        |
+| Christ and the Samaritan woman                                                                 | Kristus og den samaritanske kvinde                                                                 |
+| The lights of Christianity. The Torches of Nero                                                | Kristendommens lys. Neros fakler                                                                   |
+| Christ and the sinner                                                                          | Kristus og synderen                                                                                |
+| Christ with Martha and Mary                                                                    | Kristus med Martha og Maria                                                                        |
+| Christ and the sinner                                                                          | Kristus og synderen                                                                                |
+| The Mount of Assembly, the dwelling place of the Faithful of Days                              | Forsamlingsbjerget, de dages trofastes bolig                                                       |
+| The three Vorondadeks Sons, the Most Highs in the constellation                                | De tre Vorondadeks Sønner, de Højeste i stjernebilledet                                            |
+| The sea of glass, the receiving area of Edentia                                                | Havet af glas, Edentias modtageområde                                                              |

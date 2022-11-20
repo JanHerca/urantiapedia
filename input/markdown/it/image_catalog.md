@@ -516,3 +516,11 @@ Main tables are in /input/markdown/en/image_catalog.md
 | Zachaeus in tree                                                                               | Zacheo nell'albero                                                                                  |
 | Zacharias Killed Between the Temple and the Altar                                              | Zaccaria ucciso tra il tempio e l'altare                                                            |
 | Jesus face                                                                                     | Gesù volto                                                                                          |
+| Christ and the Samaritan woman                                                                 | Cristo e la Samaritana                                                                              |
+| The lights of Christianity. The Torches of Nero                                                | Le luci del cristianesimo. Le fiaccole di Nerone                                                    |
+| Christ and the sinner                                                                          | Cristo e il peccatore                                                                               |
+| Christ with Martha and Mary                                                                    | Cristo con Marta e Maria                                                                            |
+| Christ and the sinner                                                                          | Cristo e il peccatore                                                                               |
+| The Mount of Assembly, the dwelling place of the Faithful of Days                              | Il Monte dell'Assemblea, la dimora dei Fedeli dei Giorni                                            |
+| The three Vorondadeks Sons, the Most Highs in the constellation                                | I tre Figli Vorondadeks, gli Altissimi nella costellazione                                          |
+| The sea of glass, the receiving area of Edentia                                                | Il mare di vetro, il luogo di accoglienza di Edentia                                                |

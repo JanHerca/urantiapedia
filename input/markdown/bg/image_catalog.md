@@ -516,3 +516,11 @@ Main tables are in /input/markdown/en/image_catalog.md
 | Zachaeus in tree                                                                               | Захей в дърво                                                                                         |
 | Zacharias Killed Between the Temple and the Altar                                              | Захария, убит между храма и олтара                                                                    |
 | Jesus face                                                                                     | Лицето на Исус                                                                                        |
+| Christ and the Samaritan woman                                                                 | Христос и самарянката                                                                                 |
+| The lights of Christianity. The Torches of Nero                                                | Светлините на християнството. Факлите на Нерон                                                        |
+| Christ and the sinner                                                                          | Христос и грешникът                                                                                   |
+| Christ with Martha and Mary                                                                    | Христос с Марта и Мария                                                                               |
+| Christ and the sinner                                                                          | Христос и грешникът                                                                                   |
+| The Mount of Assembly, the dwelling place of the Faithful of Days                              | Хълмът на Събранието, обиталището на Верните от дни                                                   |
+| The three Vorondadeks Sons, the Most Highs in the constellation                                | Тримата сина на Ворондадек, Най-висшите в съзвездието                                                 |
+| The sea of glass, the receiving area of Edentia                                                | Стъкленото море, приемната зона на Едемия                                                             |

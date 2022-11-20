@@ -516,3 +516,11 @@ Main tables are in /input/markdown/en/image_catalog.md
 | Zachaeus in tree                                                                               | Zacheus ve stromě                                                                                      |
 | Zacharias Killed Between the Temple and the Altar                                              | Zachariáš zabit mezi chrámem a oltářem                                                                 |
 | Jesus face                                                                                     | Ježíšova tvář                                                                                          |
+| Christ and the Samaritan woman                                                                 | Kristus a Samaritánka                                                                                  |
+| The lights of Christianity. The Torches of Nero                                                | Světla křesťanství. Neronovy pochodně                                                                  |
+| Christ and the sinner                                                                          | Kristus a hříšník                                                                                      |
+| Christ with Martha and Mary                                                                    | Kristus s Martou a Marií                                                                               |
+| Christ and the sinner                                                                          | Kristus a hříšník                                                                                      |
+| The Mount of Assembly, the dwelling place of the Faithful of Days                              | Hora shromáždění, příbytek věřících dnů                                                                |
+| The three Vorondadeks Sons, the Most Highs in the constellation                                | Tři Vorondadekovi synové, Nejvyšší v souhvězdí                                                         |
+| The sea of glass, the receiving area of Edentia                                                | Skleněné moře, přijímací oblast Edentie                                                                |

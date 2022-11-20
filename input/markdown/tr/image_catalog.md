@@ -516,3 +516,11 @@ Main tables are in /input/markdown/en/image_catalog.md
 | Zachaeus in tree                                                                               | Ağaçta Zachaeus                                                                                      |
 | Zacharias Killed Between the Temple and the Altar                                              | Zacharias Tapınak ve Sunak Arasında Öldürüldü                                                        |
 | Jesus face                                                                                     | İsa yüzü                                                                                             |
+| Christ and the Samaritan woman                                                                 | İsa ve Samiriyeli kadın                                                                              |
+| The lights of Christianity. The Torches of Nero                                                | Hıristiyanlığın ışıkları. Nero'nun Meşaleleri                                                        |
+| Christ and the sinner                                                                          | Mesih ve günahkar                                                                                    |
+| Christ with Martha and Mary                                                                    | Martha ve Mary ile Mesih                                                                             |
+| Christ and the sinner                                                                          | Mesih ve günahkar                                                                                    |
+| The Mount of Assembly, the dwelling place of the Faithful of Days                              | Günlerin Müminlerin meskeni olan Meclis Dağı                                                         |
+| The three Vorondadeks Sons, the Most Highs in the constellation                                | Üç Vorondadeks Oğulları, takımyıldızdaki En Yüksekler                                                |
+| The sea of glass, the receiving area of Edentia                                                | Cam denizi, Edentia'nın kabul alanı                                                                  |

@@ -516,3 +516,8 @@ Main tables are in /input/markdown/en/image_catalog.md
 | Zachaeus in tree                                                                               | 나무에있는 삭개오                                                                        |
 | Zacharias Killed Between the Temple and the Altar                                              | 성전과 제단 사이에서 살해된 사가랴                                                       |
 | Jesus face                                                                                     | 예수님의 얼굴                                                                            |
+| Christ and the Samaritan woman                                                                 | 그리스도와 사마리아 여인                                                                 |
+| The lights of Christianity. The Torches of Nero                                                | 기독교의 빛. 네로의 횃불                                                                 |
+| Christ and the sinner                                                                          | 그리스도와 죄인                                                                          |
+| Christ with Martha and Mary                                                                    | 마르다와 마리아와 함께 있는 그리스도                                                     |
+| Christ and the sinner                                                                          | 그리스도와 죄인                                                                          |

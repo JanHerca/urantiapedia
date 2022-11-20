@@ -516,3 +516,11 @@ Main tables are in /input/markdown/en/image_catalog.md
 | Zachaeus in tree                                                                               | Zaqueu em árvore                                                                                           |
 | Zacharias Killed Between the Temple and the Altar                                              | Zacarias morto entre o templo e o altar                                                                    |
 | Jesus face                                                                                     | Rosto de Jesus                                                                                             |
+| Christ and the Samaritan woman                                                                 | Cristo e a mulher samaritana                                                                               |
+| The lights of Christianity. The Torches of Nero                                                | As luzes do cristianismo. As tochas de Nero                                                                |
+| Christ and the sinner                                                                          | Cristo e o pecador                                                                                         |
+| Christ with Martha and Mary                                                                    | Cristo com Marta e Maria                                                                                   |
+| Christ and the sinner                                                                          | Cristo e o pecador                                                                                         |
+| The Mount of Assembly, the dwelling place of the Faithful of Days                              | O Monte da Assembléia, a morada dos Fiéis dos Dias                                                         |
+| The three Vorondadeks Sons, the Most Highs in the constellation                                | Os três Vorondadeks Sons, os Altíssimos na constelação                                                     |
+| The sea of glass, the receiving area of Edentia                                                | O mar de vidro, a área de recepção de Edêntia                                                              |

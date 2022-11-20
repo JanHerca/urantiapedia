@@ -516,3 +516,11 @@ Main tables are in /input/markdown/en/image_catalog.md
 | Zachaeus in tree                                                                               | Zachaeus in boom                                                                                         |
 | Zacharias Killed Between the Temple and the Altar                                              | Zacharias vermoord tussen de tempel en het altaar                                                        |
 | Jesus face                                                                                     | Jezus gezicht                                                                                            |
+| Christ and the Samaritan woman                                                                 | Christus en de Samaritaanse vrouw                                                                        |
+| The lights of Christianity. The Torches of Nero                                                | De lichten van het christendom. De fakkels van Nero                                                      |
+| Christ and the sinner                                                                          | Christus en de zondaar                                                                                   |
+| Christ with Martha and Mary                                                                    | Christus met Martha en Maria                                                                             |
+| Christ and the sinner                                                                          | Christus en de zondaar                                                                                   |
+| The Mount of Assembly, the dwelling place of the Faithful of Days                              | De berg der samenkomst, de verblijfplaats van de gelovigen van dagen                                     |
+| The three Vorondadeks Sons, the Most Highs in the constellation                                | De drie Vorondadeks-zonen, de Allerhoogsten in het sterrenbeeld                                          |
+| The sea of glass, the receiving area of Edentia                                                | De zee van glas, het ontvangstgebied van Edentia                                                         |

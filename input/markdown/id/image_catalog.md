@@ -516,3 +516,11 @@ Main tables are in /input/markdown/en/image_catalog.md
 | Zachaeus in tree                                                                               | Zakheus di pohon                                                                                          |
 | Zacharias Killed Between the Temple and the Altar                                              | Zakharia Dibunuh di Antara Kuil dan Altar                                                                 |
 | Jesus face                                                                                     | Wajah Yesus                                                                                               |
+| Christ and the Samaritan woman                                                                 | Kristus dan wanita Samaria                                                                                |
+| The lights of Christianity. The Torches of Nero                                                | Cahaya Kekristenan. Obor Nero                                                                             |
+| Christ and the sinner                                                                          | Kristus dan orang berdosa                                                                                 |
+| Christ with Martha and Mary                                                                    | Kristus bersama Marta dan Maria                                                                           |
+| Christ and the sinner                                                                          | Kristus dan orang berdosa                                                                                 |
+| The Mount of Assembly, the dwelling place of the Faithful of Days                              | Mount of Assembly, tempat bersemayamnya para Faithful of Days                                             |
+| The three Vorondadeks Sons, the Most Highs in the constellation                                | Tiga Putra Vorondadeks, Yang Tertinggi di rasi bintang                                                    |
+| The sea of glass, the receiving area of Edentia                                                | Lautan kaca, area penerima Edentia                                                                        |

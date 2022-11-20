@@ -516,3 +516,11 @@ Main tables are in /input/markdown/en/image_catalog.md
 | Zachaeus in tree                                                                               | Zaheu în copac                                                                                               |
 | Zacharias Killed Between the Temple and the Altar                                              | Zaharia ucis între templu și altar                                                                           |
 | Jesus face                                                                                     | Fața lui Isus                                                                                                |
+| Christ and the Samaritan woman                                                                 | Hristos și femeia samariteancă                                                                               |
+| The lights of Christianity. The Torches of Nero                                                | Luminile creștinismului. Tortele lui Nero                                                                    |
+| Christ and the sinner                                                                          | Hristos și păcătosul                                                                                         |
+| Christ with Martha and Mary                                                                    | Hristos cu Marta și Maria                                                                                    |
+| Christ and the sinner                                                                          | Hristos și păcătosul                                                                                         |
+| The Mount of Assembly, the dwelling place of the Faithful of Days                              | Muntele Adunării, locul de locuit al Credincioșilor Zilelor                                                  |
+| The three Vorondadeks Sons, the Most Highs in the constellation                                | Cei trei Fii Vorondadek, Cei Prea Înalți din constelație                                                     |
+| The sea of glass, the receiving area of Edentia                                                | Marea de sticlă, zona de primire a Edentiei                                                                  |

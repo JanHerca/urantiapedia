@@ -516,3 +516,11 @@ Main tables are in /input/markdown/en/image_catalog.md
 | Zachaeus in tree                                                                               | Sakkeus puussa                                                                                             |
 | Zacharias Killed Between the Temple and the Altar                                              | Sakarias tapettiin temppelin ja alttarin välissä                                                           |
 | Jesus face                                                                                     | Jeesuksen kasvot                                                                                           |
+| Christ and the Samaritan woman                                                                 | Kristus ja samarialainen nainen                                                                            |
+| The lights of Christianity. The Torches of Nero                                                | Kristinuskon valot. Neron soihdut                                                                          |
+| Christ and the sinner                                                                          | Kristus ja syntinen                                                                                        |
+| Christ with Martha and Mary                                                                    | Kristus Martan ja Marian kanssa                                                                            |
+| Christ and the sinner                                                                          | Kristus ja syntinen                                                                                        |
+| The Mount of Assembly, the dwelling place of the Faithful of Days                              | Assembly-vuori, päivien uskollisten asuinpaikka                                                            |
+| The three Vorondadeks Sons, the Most Highs in the constellation                                | Kolme Vorondadekin Poikaa, tähdistön Kaikkein Korkeimmat                                                   |
+| The sea of glass, the receiving area of Edentia                                                | Lasimeri, Edentian vastaanottoalue                                                                         |

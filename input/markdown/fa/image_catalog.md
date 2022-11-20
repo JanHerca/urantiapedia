@@ -516,3 +516,11 @@ Main tables are in /input/markdown/en/image_catalog.md
 | Zachaeus in tree                                                                               | زاخائوس در درخت                                                                      |
 | Zacharias Killed Between the Temple and the Altar                                              | زکریا در بین معبد و محراب کشته شد                                                    |
 | Jesus face                                                                                     | صورت عیسی                                                                            |
+| Christ and the Samaritan woman                                                                 | مسیح و زن سامری                                                                      |
+| The lights of Christianity. The Torches of Nero                                                | چراغ های مسیحیت مشعل های نرون                                                        |
+| Christ and the sinner                                                                          | مسیح و گناهکار                                                                       |
+| Christ with Martha and Mary                                                                    | مسیح با مارتا و مریم                                                                 |
+| Christ and the sinner                                                                          | مسیح و گناهکار                                                                       |
+| The Mount of Assembly, the dwelling place of the Faithful of Days                              | كوه مجمع، سكونتگاه مؤمنان روزگار                                                     |
+| The three Vorondadeks Sons, the Most Highs in the constellation                                | سه پسر Vorondadeks، برترین ها در صورت فلکی                                           |
+| The sea of glass, the receiving area of Edentia                                                | دریای شیشه، منطقه پذیرایی ادنتیا                                                     |

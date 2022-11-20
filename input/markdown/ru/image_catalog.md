@@ -516,3 +516,11 @@ Main tables are in /input/markdown/en/image_catalog.md
 | Zachaeus in tree                                                                               | Захей на дереве                                                                                  |
 | Zacharias Killed Between the Temple and the Altar                                              | Захария убит между храмом и жертвенником                                                         |
 | Jesus face                                                                                     | лицо Иисуса                                                                                      |
+| Christ and the Samaritan woman                                                                 | Христос и самарянка                                                                              |
+| The lights of Christianity. The Torches of Nero                                                | Свет христианства. Факелы Нерона                                                                 |
+| Christ and the sinner                                                                          | Христос и грешник                                                                                |
+| Christ with Martha and Mary                                                                    | Христос с Марфой и Марией                                                                        |
+| Christ and the sinner                                                                          | Христос и грешник                                                                                |
+| The Mount of Assembly, the dwelling place of the Faithful of Days                              | Гора Собрания, обитель Верных Дней                                                               |
+| The three Vorondadeks Sons, the Most Highs in the constellation                                | Три Сына Ворондадеков, Всевышние в созвездии                                                     |
+| The sea of glass, the receiving area of Edentia                                                | Стеклянное море, приемная зона Эдемии                                                            |

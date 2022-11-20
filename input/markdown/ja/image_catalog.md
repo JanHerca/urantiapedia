@@ -516,3 +516,11 @@ Main tables are in /input/markdown/en/image_catalog.md
 | Zachaeus in tree                                                                               | 木のザカエウス                                                                       |
 | Zacharias Killed Between the Temple and the Altar                                              | 神殿と祭壇の間で殺されたザカリア                                                     |
 | Jesus face                                                                                     | イエスの顔                                                                           |
+| Christ and the Samaritan woman                                                                 | キリストとサマリヤの女                                                               |
+| The lights of Christianity. The Torches of Nero                                                | キリスト教の光。 ネロのたいまつ                                                      |
+| Christ and the sinner                                                                          | キリストと罪人                                                                       |
+| Christ with Martha and Mary                                                                    | キリストとマルタとマリア                                                             |
+| Christ and the sinner                                                                          | キリストと罪人                                                                       |
+| The Mount of Assembly, the dwelling place of the Faithful of Days                              | アッセンブリーの山、忠実なる日々の住処                                               |
+| The three Vorondadeks Sons, the Most Highs in the constellation                                | 星座の中で最も高い位置にある 3 つのヴォロンダデクの息子                              |
+| The sea of glass, the receiving area of Edentia                                                | ガラスの海、エデンティアの受信エリア                                                 |

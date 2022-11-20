@@ -516,3 +516,11 @@ Main tables are in /input/markdown/en/image_catalog.md
 | Zachaeus in tree                                                                               | Zachiejus medyje                                                                                         |
 | Zacharias Killed Between the Temple and the Altar                                              | Zacharijas nužudytas tarp šventyklos ir altoriaus                                                        |
 | Jesus face                                                                                     | Jėzaus veidas                                                                                            |
+| Christ and the Samaritan woman                                                                 | Kristus ir samarietė                                                                                     |
+| The lights of Christianity. The Torches of Nero                                                | Krikščionybės žiburiai. Nerono deglai                                                                    |
+| Christ and the sinner                                                                          | Kristus ir nusidėjėlis                                                                                   |
+| Christ with Martha and Mary                                                                    | Kristus su Morta ir Marija                                                                               |
+| Christ and the sinner                                                                          | Kristus ir nusidėjėlis                                                                                   |
+| The Mount of Assembly, the dwelling place of the Faithful of Days                              | Susirinkimo kalnas, Dienų Tikinčiųjų buveinė                                                             |
+| The three Vorondadeks Sons, the Most Highs in the constellation                                | Trys Sūnūs Vorondadekai, Patys Aukštieji žvaigždyne                                                      |
+| The sea of glass, the receiving area of Edentia                                                | Stiklo jūra, Edentijos priėmimo zona                                                                     |

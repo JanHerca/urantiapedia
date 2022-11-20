@@ -516,3 +516,11 @@ Main tables are in /input/markdown/en/image_catalog.md
 | Zachaeus in tree                                                                               | Zacheusz na drzewie                                                                                        |
 | Zacharias Killed Between the Temple and the Altar                                              | Zachariasz zabity między świątynią a ołtarzem                                                              |
 | Jesus face                                                                                     | Twarz Jezusa                                                                                               |
+| Christ and the Samaritan woman                                                                 | Chrystus i Samarytanka                                                                                     |
+| The lights of Christianity. The Torches of Nero                                                | Światła chrześcijaństwa. Pochodnie Nerona                                                                  |
+| Christ and the sinner                                                                          | Chrystus i grzesznik                                                                                       |
+| Christ with Martha and Mary                                                                    | Chrystus z Martą i Marią                                                                                   |
+| Christ and the sinner                                                                          | Chrystus i grzesznik                                                                                       |
+| The Mount of Assembly, the dwelling place of the Faithful of Days                              | Góra Zgromadzenia, miejsce zamieszkania Wiernych Czasu                                                     |
+| The three Vorondadeks Sons, the Most Highs in the constellation                                | Trzej Synowie Vorondadeks, Najwyżsi Ojcowie w konstelacji                                                  |
+| The sea of glass, the receiving area of Edentia                                                | Morze szkła, obszar odbiorczy Edentii                                                                      |

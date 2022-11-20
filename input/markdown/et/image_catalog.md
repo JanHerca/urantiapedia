@@ -516,3 +516,11 @@ Main tables are in /input/markdown/en/image_catalog.md
 | Zachaeus in tree                                                                               | Sakkeus puus                                                                                     |
 | Zacharias Killed Between the Temple and the Altar                                              | Sakarias tapeti templi ja altari vahel                                                           |
 | Jesus face                                                                                     | Jeesuse nägu                                                                                     |
+| Christ and the Samaritan woman                                                                 | Kristus ja Samaaria naine                                                                        |
+| The lights of Christianity. The Torches of Nero                                                | Kristluse tuled. Nero tõrvikud                                                                   |
+| Christ and the sinner                                                                          | Kristus ja patune                                                                                |
+| Christ with Martha and Mary                                                                    | Kristus Marta ja Maarjaga                                                                        |
+| Christ and the sinner                                                                          | Kristus ja patune                                                                                |
+| The Mount of Assembly, the dwelling place of the Faithful of Days                              | Assamblee mägi, päevade ustavate elupaik                                                         |
+| The three Vorondadeks Sons, the Most Highs in the constellation                                | Kolm Vorondadeksi Poega, tähtkuju Kõrgeimad                                                      |
+| The sea of glass, the receiving area of Edentia                                                | Klaasimeri, Edentia vastuvõtuala                                                                 |

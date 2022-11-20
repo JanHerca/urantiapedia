@@ -516,3 +516,11 @@ Main tables are in /input/markdown/en/image_catalog.md
 | Zachaeus in tree                                                                               | זכאוס בעץ                                                                       |
 | Zacharias Killed Between the Temple and the Altar                                              | זכריה נהרג בין המקדש למזבח                                                      |
 | Jesus face                                                                                     | פני ישו                                                                         |
+| Christ and the Samaritan woman                                                                 | המשיח והאישה השומרונית                                                          |
+| The lights of Christianity. The Torches of Nero                                                | האורות של הנצרות. הלפידים של נירון                                              |
+| Christ and the sinner                                                                          | המשיח והחוטא                                                                    |
+| Christ with Martha and Mary                                                                    | המשיח עם מרתה ומריה                                                             |
+| Christ and the sinner                                                                          | המשיח והחוטא                                                                    |
+| The Mount of Assembly, the dwelling place of the Faithful of Days                              | הר הכינוס, מקום משכנם של נאמני הימים                                            |
+| The three Vorondadeks Sons, the Most Highs in the constellation                                | שלושת בני הוורונדדקים, הגבוהים ביותר בקבוצת הכוכבים                             |
+| The sea of glass, the receiving area of Edentia                                                | ים הזכוכית, אזור הקבלה של אדנטיה                                                |

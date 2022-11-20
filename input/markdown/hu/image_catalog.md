@@ -516,3 +516,11 @@ Main tables are in /input/markdown/en/image_catalog.md
 | Zachaeus in tree                                                                               | Zakeus fában                                                                                       |
 | Zacharias Killed Between the Temple and the Altar                                              | Zakariást megölték a templom és az oltár között                                                    |
 | Jesus face                                                                                     | Jézus arca                                                                                         |
+| Christ and the Samaritan woman                                                                 | Krisztus és a szamaritánus asszony                                                                 |
+| The lights of Christianity. The Torches of Nero                                                | A kereszténység fényei. Néró fáklyái                                                               |
+| Christ and the sinner                                                                          | Krisztus és a bűnös                                                                                |
+| Christ with Martha and Mary                                                                    | Krisztus Mártával és Máriával                                                                      |
+| Christ and the sinner                                                                          | Krisztus és a bűnös                                                                                |
+| The Mount of Assembly, the dwelling place of the Faithful of Days                              | A Gyülekezés Hegye, a Napok Hűinek lakóhelye                                                       |
+| The three Vorondadeks Sons, the Most Highs in the constellation                                | A három Vorondadek Fiú, a Legmagasabbak a csillagképben                                            |
+| The sea of glass, the receiving area of Edentia                                                | Az üvegtenger, Edentia befogadó területe                                                           |
