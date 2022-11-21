@@ -209,46 +209,6 @@ class Book {
 	};
 
 	/**
-	 * Returns true if the reference in text form contains the reference in number
-	 * form. For example: '101:2.3,6-10' contains [101,2,3],
-	 * and [101,2,7] but not [101,2,4]. Works also giving the reference of a full
-	 * paper or a full section.
-	 * @param {string} lu_ref Book reference in text form.
-	 * @param {number} paperIndex Paper index starting in zero.
-	 * @param {number} sectionIndex Section index starting in zero.
-	 * @param {number} parIndex Paragraph index starting in 1.
-	 * @return {boolean}
-	 */
-	containsRef = (lu_ref, paperIndex, sectionIndex, parIndex) => {
-		let data, data2, data3, paper_id, section_id;
-		data = lu_ref.split(':');
-		paper_id = parseInt(data[0]);
-		if (data.length === 1) {
-			return (paper_id === paperIndex);
-		} else if (data.length > 1 && paper_id === paperIndex) {
-			data2 = data[1].split('.');
-			section_id = parseInt(data2[0]);
-			if (data2.length === 1) {
-				return (section_id === sectionIndex);
-			} else if (data2.length > 1 && section_id === sectionIndex) {
-				data3 = data2[1].split(',');
-				return (data3.find(d => {
-					const dd = d.split('-');
-					if (dd.length === 1 && parseInt(d) === parIndex ) {
-						return true;
-					} else if (dd.length > 1 &&
-						!isNaN(parseInt(dd[0])) && !isNaN(parseInt(dd[1])) &&
-						parseInt(dd[0]) <= parIndex && parseInt(dd[1]) >= parIndex) {
-						return true;
-					}
-					return false;
-				}) != null);
-			}
-		}
-		return false;
-	};
-
-	/**
 	 * Returns footnotes that contain a giving paragraph from `The Urantia Book`.
 	 * @param {string} lu_ref Reference to `The Urantia Book`.
 	 * @return {Array}
@@ -1431,23 +1391,21 @@ class Book {
 	 * @param {string} filePath Output file.
 	 * @param {Object} paper JSON object with the paper.
 	 * @param {?TopicIndex} topicIndex An optional Topic Index.
-	 * @param {?TopicIndex} topicIndexEN An optional Topic Index in english. If
-	 * previous param is english then this is not required. If it is not english
-	 * then this param is required.
 	 * @param {?ImageCatalog} imageCatalog Image catalog.
 	 * @param {?MapCatalog} mapCatalog Map catalog.
 	 * @param {?Paralells} paralells Paralells.
 	 * @return {Promise} Promise that returns null in resolve function and an
 	 * error in reject function.
 	 */
-	writeFileToWikijs = (filePath, paper, topicIndex, topicIndexEN, 
-		imageCatalog, mapCatalog, paralells) => {
+	writeFileToWikijs = (filePath, paper, topicIndex, imageCatalog, mapCatalog, 
+		paralells) => {
 		return new Promise((resolve, reject) => {
 			const index = paper.paper_index;
 			const prev = index - 1;
 			const next = index + 1;
 			const cite = `<sup id="cite{0}"><a href="#fn{0}">[{0}]</a></sup>`;
 			let error = null;
+			const topicNames = topicIndex.topicNames;
 
 			//Get all footnotes (paramony + paralells)
 			const paramonyFn = (Array.isArray(paper.footnotes) &&
@@ -1487,12 +1445,6 @@ class Book {
 			const prevLink = getWikijsBookLink(prevPaper, this.language);
 			const nextLink = getWikijsBookLink(nextPaper, this.language);
 			const indexLink = getWikijsBookLink('index', this.language);
-			const lan = (this.language === 'en' ? '' : '/' + this.language);
-			const tpath = `${lan}/topic/`;
-			const tiOK = (topicIndex && (this.language === 'en' ||
-				(this.language != 'en' && topicIndexEN)));
-			const tiEN = (this.language === 'en' ? topicIndex : topicIndexEN);
-
 			const title = getBookTitle(paper, this.language, true);
 
 			//Write header
@@ -1555,40 +1507,22 @@ class Book {
 						error_par_ref = par.par_ref;
 						error = replaceErr[0];
 					}
-					if (tiOK) {
-						topics = topicIndex.topics.filter(topic => {
-							let contains = (topic.refs.find(r => 
-								this.containsRef(r, di, si, pi)) != null);
-							if (!contains) {
-								topic.lines.forEach(line => {
-									if (line.refs.find(r => 
-										this.containsRef(r, di, si, pi))) {
-										contains = true;
-									}
-								});
-							}
-							return contains;
-						});
+					//Topic index links
+					if (topicIndex) {
+						topics = topicIndex.filterTopicsWithRef(di, si, pi);
 						topics.forEach(topic => {
-							const topicEN = tiEN.topics.find(t => {
-								return (t.filename === topic.filename &&
-									t.fileline === topic.fileline);
+							const topicName = topicNames.find(t => {
+								return (t.name === topic.name);
 							});
-							if (!topicEN) {
-								topicErr.push(this.getError('topic_en_not_found',
-									topic.name));
+							if (!topicName || !topicName.nameEN) {
 								return;
 							}
-							const tnameEN = topicEN.name.replace(/\s/g, '_');
-							let names = [topic.name.split('(')[0].trim()];
-							extendArray(names, topic.altnames);
-							const links = names.map(name => {
-								return `<a href="${tpath}${tnameEN}">${name}</a>`;
-							});
+							const names = topicName.names;
+							const links = topicName.links;
 							extendArray(all_items, names.map((n,i) => {
 								return {
 									name: n,
-									link: links[i]
+									link: topicName.links[i]
 								}
 							}));
 							const modified = replaceWords(names, links, pcontent);
@@ -2147,19 +2081,7 @@ class Book {
 						error = replaceErr[0];
 					}
 					if (topicIndex) {
-						topics = topicIndex.topics.filter(topic => {
-							let contains = (topic.refs.find(r => 
-								this.containsRef(r, di, si, pi)) != null);
-							if (!contains) {
-								topic.lines.forEach(line => {
-									if (line.refs.find(r => 
-										this.containsRef(r, di, si, pi))) {
-										contains = true;
-									}
-								});
-							}
-							return contains;
-						});
+						topics = topicIndex.filterTopicsWithRef(di, si, pi);
 						topics.forEach(topic => {
 							let names = [topic.name.split('(')[0].trim()];
 							extendArray(names, topic.altnames);
@@ -2673,16 +2595,13 @@ class Book {
 	 * @param {string} format Output format: `json`, `tex`, `wiki`, `html`,
 	 * `txt`.
 	 * @param {?TopicIndex} topicIndex An optional Topic Index.
-	 * @param {?TopicIndex} topicIndexEN An optional Topic Index in english. If
-	 * previous param is english then this is not required. If it is not english
-	 * then this param is required.
 	 * @param {?ImageCatalog} imageCatalog Image catalog.
 	 * @param {?Paralells} paralells Paralells.
 	 * @return {Promise} Promise that returns null in resolve function or
 	 * an array of errors in reject function.
 	 */
-	writeTo = (dirPath, format, topicIndex, topicIndexEN, imageCatalog, 
-		mapCatalog, paralells) => {
+	writeTo = (dirPath, format, topicIndex, imageCatalog, mapCatalog, 
+		paralells) => {
 		const baseName = path.basename(dirPath);
 		return new Promise((resolve, reject) => {
 			fs.access(dirPath, fs.constants.W_OK, (err) => {
@@ -2709,7 +2628,7 @@ class Book {
 					} else if (format === 'html') {
 						filePath = path.join(dirPath, `${i}.${format}`);
 						p = this.writeFileToWikijs(filePath, paper, topicIndex,
-							topicIndexEN, imageCatalog, mapCatalog, paralells);
+							imageCatalog, mapCatalog, paralells);
 					} else if (format === 'txt') {
 						filePath = path.join(dirPath, 
 							`UB_${stri}${i == 0 ? '_1' : ''}.${format}`);

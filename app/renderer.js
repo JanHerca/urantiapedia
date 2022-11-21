@@ -472,8 +472,9 @@ const handle_exeButtonClick = () => {
 				return (lan === 'en' ? Promise.resolve(null) : 
 					topicindexEN.readFromTXT(ti));
 			})
-			.then(() => book.writeToWikijs(htmlDir, topicindex, topicindexEN,
-				imageCatalog, mapCatalog, paralells))
+			.then(() => topicindex.updateTopicNames(topicindexEN))
+			.then(() => book.writeToWikijs(htmlDir, topicindex, imageCatalog, 
+				mapCatalog, paralells))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BOOK_JSON_TO_TEX') {

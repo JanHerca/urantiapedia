@@ -1,16 +1,8 @@
 //Reader/Writer to convert Uversa Press topic index to Wiki
 
-
-const reflectPromise = require('./utils').reflectPromise;
-const extendArray = require('./utils').extendArray;
-const readFrom = require('./utils').readFrom;
-const testWords = require('./utils').testWords;
-const strformat = require('./utils').strformat;
-const readFile = require('./utils').readFile;
-const getWikijsHeader = require('./utils').getWikijsHeader;
-const fixWikijsHeader = require('./utils').fixWikijsHeader;
-const getWikijsBookRefLink = require('./utils').getWikijsBookRefLink;
-const getError = require('./utils').getError;
+const {reflectPromise, extendArray, readFrom, testWords, strformat,
+	readFile, getWikijsHeader, fixWikijsHeader, getWikijsBookRefLink,
+	getError, containsRef} = require('./utils');
 const fs = require('fs');
 const path = require('path');
 const Strings = require('./strings');
@@ -56,6 +48,7 @@ class TopicIndex {
 	 * ];
 	 */
 	topics = [];
+	topicNames = [];
 	onProgressFn = null;
 	language = 'en';
 
@@ -264,6 +257,51 @@ class TopicIndex {
 	};
 
 	/**
+	 * Updates the list of topic names.
+	 * @param {?TopicIndex} topicIndexEN Topic index in English.
+	 * @return {Promise}
+	 */
+	updateTopicNames = (topicindexEN) => {
+		if (!topicindexEN) {
+			return Promise.resolve(null);
+		}
+		return new Promise((resolve, reject) => {
+			const topicErr = [];
+			const lan = (this.language === 'en' ? '' : '/' + this.language);
+			const tpath = `${lan}/topic/`;
+			this.topicNames = this.topics.map(topic => {
+				const tEN = (this.language === 'en' ? topic :
+					topicindexEN.topics.find(t => {
+						return (t.filename === topic.filename &&
+							t.fileline === topic.fileline);
+					}));
+				if (this.language != 'en' && !tEN) {
+					topicErr.push(this.getError('topic_en_not_found',
+						topic.name));
+				}
+				const nameEN = (tEN ? tEN.name : null);
+				const urlName = (nameEN ? nameEN.replace(/\s/g, '_') : null);
+				const names = [topic.name.split('(')[0].trim(), 
+					...topic.altnames];
+				const links = names.map(name => {
+					return `<a href="${tpath}${urlName}">${name}</a>`;
+				});
+				return {
+					name: topic.name,
+					nameEN: nameEN,
+					names: names,
+					links: links
+				};
+			});
+			if (topicErr.length > 0) {
+				reject(new Error(topicErr.map(e => e.message).join(', ')));
+			} else {
+				resolve(null);
+			}
+		});
+	};
+
+	/**
 	 * Writes all entries in Topic Index in TXT format.
 	 * @param {string} dirPath Output folder.
 	 * @return {Promise}
@@ -300,7 +338,7 @@ class TopicIndex {
 
 			// Write header
 			txt += [
-				'<' + '_'.repeat(82),
+				'<' + '_'.repeat(77),
 				'<',
 				'<' + ' '.repeat(21) + (letter === '_' ? 'NUMBER' : letter.toUpperCase()),
 				'< Urantia Book Uversa Press Topical index converted to text file',
@@ -310,7 +348,7 @@ class TopicIndex {
 				'< A sub-entry can have sub-sub-entries with tabs and so on',
 				'< Help: https://urantiapedia.org/en/help/github#translation-and-' +
 					'review-of-the-topic-index-from-english-to-target-language',
-				'<' + '_'.repeat(82)
+				'<' + '_'.repeat(77)
 			].join('\r\n') + '\r\n\r\n';
 			//Search for topics and loop through them
 			const topics = this.topics
@@ -1573,6 +1611,66 @@ class TopicIndex {
 			}
 		}
 		return true;
+	};
+
+	/**
+	 * Filter all topics and return those with a reference that is contained
+	 * within the passed reference. For example, if a topic contains the 
+	 * reference `10:1.1-4` and the passed reference is `10:1.1`, then the 
+	 * topic will be returned in the result.
+	 * @param {number} paper Paper index.
+	 * @param {number} section Section index.
+	 * @param {number} par Paragraph index.
+	 * @return {Array.<Object>} Objects with topics.
+	 */
+	filterTopicsWithRef = (paper, section, par) => {
+		return this.topics.filter(topic => {
+			let contains = (topic.refs.find(r => 
+				containsRef(r, paper, section, par)) != null);
+			if (!contains) {
+				topic.lines.forEach(line => {
+					if (line.refs.find(r => 
+						containsRef(r, paper, section, par))) {
+						contains = true;
+					}
+				});
+			}
+			return contains;
+		});
+	};
+
+	/**
+	 * Filter all the topics and return those that appear inside the text
+	 * of a given paragraph. The text must be in JSON format, with no HTML
+	 * markup. Numbers are only returned if the reference matches the ones
+	 * in a number.
+	 * @param {string} text Paragraph text without HTML markup.
+	 * @param {number} paper Paper index.
+	 * @param {number} section Section index.
+	 * @param {number} par Paragraph index.
+	 * @return {Array.<Object>} Objects with topics.
+	 */
+	filterTopicsInParagraph = (text, paper, section, par) => {
+		//TODO: Next regex only works in English and Spanish
+		const words = text
+			.match(/[a-z0-9áéíóúüñ'-]+(?:'[a-z0-9áéíóúüñ'-]+)*/gi);
+		//TODO: 
+		// tiNames.forEach(nn => {
+		// 	if (nn.name === topic.name) return;
+		// 	nn.names.forEach(n => {
+		// 		if (!(this.isLinkableName(n, text))) return;
+		// 		if (text.indexOf(n) != -1 && nn.nameEN &&
+		// 			words.find(w => n.startsWith(w))) {
+		// 			const ln = nn.nameEN.replace(/\s/g, '_');
+		// 			if (nameslinks.find(i=>i.name === n) == undefined)  {
+		// 				nameslinks.push({
+		// 					name: n,
+		// 					link: `<a href="${tpath}/${ln}">${n}</a>`
+		// 				});
+		// 			}
+		// 		}
+		// 	});
+		// });
 	};
 
 };

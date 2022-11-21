@@ -672,3 +672,43 @@ exports.getMostSimilarSentence = (parEN, par, sEN) => {
 	const index = arSenEN.indexOf(mostSim);
 	return [mostSim, arSen[index], index];
 };
+
+/**
+ * Returns true if the reference in text form contains the reference in 
+ * number form. For example: '101:2.3,6-10' contains [101,2,3], and 
+ * [101,2,7] but not [101,2,4]. Works also giving the reference of a full 
+ * paper or a full section.
+ * @param {string} lu_ref Book reference in text form.
+ * @param {number} paperIndex Paper index starting in zero.
+ * @param {number} sectionIndex Section index starting in zero.
+ * @param {number} parIndex Paragraph index starting in 1.
+ * @return {boolean}
+ */
+exports.containsRef = (lu_ref, paperIndex, sectionIndex, parIndex) => {
+	let data, data2, data3, paper_id, section_id;
+	data = lu_ref.split(':');
+	paper_id = parseInt(data[0]);
+	if (data.length === 1) {
+		return (paper_id === paperIndex);
+	} else if (data.length > 1 && paper_id === paperIndex) {
+		data2 = data[1].split('.');
+		section_id = parseInt(data2[0]);
+		if (data2.length === 1) {
+			return (section_id === sectionIndex);
+		} else if (data2.length > 1 && section_id === sectionIndex) {
+			data3 = data2[1].split(',');
+			return (data3.find(d => {
+				const dd = d.split('-');
+				if (dd.length === 1 && parseInt(d) === parIndex ) {
+					return true;
+				} else if (dd.length > 1 &&
+					!isNaN(parseInt(dd[0])) && !isNaN(parseInt(dd[1])) &&
+					parseInt(dd[0]) <= parIndex && parseInt(dd[1]) >= parIndex) {
+					return true;
+				}
+				return false;
+			}) != null);
+		}
+	}
+	return false;
+};
