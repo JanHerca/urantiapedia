@@ -1,4 +1,4 @@
-<__________________________________________________________________________________
+<_____________________________________________________________________________
 <
 <                     Q
 < Urantia Book Uversa Press Topical index converted to text file
@@ -7,7 +7,7 @@
 < An entry can have one or several sub-entries (= the lines after entry)
 < A sub-entry can have sub-sub-entries with tabs and so on
 < Help: https://urantiapedia.org/es/help/github_topicindex
-<__________________________________________________________________________________
+<_____________________________________________________________________________
 
 Absoluto Cualificado | | Absoluto de la Deidad | PERSON | 
 

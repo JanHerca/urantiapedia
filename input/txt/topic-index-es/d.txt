@@ -1,4 +1,4 @@
-<__________________________________________________________________________________
+<_____________________________________________________________________________
 <
 <                     D
 < Urantia Book Uversa Press Topical index converted to text file
@@ -7,7 +7,7 @@
 < An entry can have one or several sub-entries (= the lines after entry)
 < A sub-entry can have sub-sub-entries with tabs and so on
 < Help: https://urantiapedia.org/es/help/github_topicindex
-<__________________________________________________________________________________
+<_____________________________________________________________________________
 
 Dabarita | | | PLACE | OK
 Dabarita es una de las poblaciones que Jesús, los doce y 117 evangelistas recorrieron durante su segunda gira de predicación por Galilea desde el 3 de octubre a el 30 de diciembre de 28 (149:0.1)

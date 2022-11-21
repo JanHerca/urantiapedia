@@ -1,4 +1,4 @@
-<__________________________________________________________________________________
+<_____________________________________________________________________________
 <
 <                     NUMBER
 < Urantia Book Uversa Press Topical index converted to text file
@@ -7,7 +7,7 @@
 < An entry can have one or several sub-entries (= the lines after entry)
 < A sub-entry can have sub-sub-entries with tabs and so on
 < Help: https://urantiapedia.org/es/help/github_topicindex
-<__________________________________________________________________________________
+<_____________________________________________________________________________
 
 1-2-3 el Primero; 1-2-3 el primero | (77:8.2) | | PERSON | OK
 se trata del ser intermedio de la orden primaria que actuaba como jefe de toda la orden de intermedios de Urantia desde la traición de Caligastia (77:9.4-5)
