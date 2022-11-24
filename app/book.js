@@ -1405,7 +1405,6 @@ class Book {
 			const next = index + 1;
 			const cite = `<sup id="cite{0}"><a href="#fn{0}">[{0}]</a></sup>`;
 			let error = null;
-			const topicNames = topicIndex.topicNames;
 
 			//Get all footnotes (paramony + paralells)
 			const paramonyFn = (Array.isArray(paper.footnotes) &&
@@ -1458,7 +1457,9 @@ class Book {
 			let footnoteIndex = 0, fni;
 			let replaceErr = [];
 			let topicErr = [];
+			
 			paper.sections.forEach(section => {
+				let previousPar = null;
 				const stitle = (section.section_title ? 
 					this.replaceSpecialChars(section.section_title)
 					.toUpperCase() : null);
@@ -1473,7 +1474,8 @@ class Book {
 
 				section.pars.forEach(par => {
 					let pcontent, aref, topics, di, si, pi, image, map;
-					const all_items = [];
+					par.usedTopicNames = [];
+					const topicNames = [];
 					if (!par.par_ref || !par.par_content) {
 						error = 'book_par_no_refcontent';
 						return;
@@ -1509,33 +1511,38 @@ class Book {
 					}
 					//Topic index links
 					if (topicIndex) {
-						topics = topicIndex.filterTopicsWithRef(di, si, pi);
-						topics.forEach(topic => {
-							const topicName = topicNames.find(t => {
-								return (t.name === topic.name);
+						// topics = topicIndex.filterTopicsWithRef(di, si, pi);
+						topics = topicIndex.filterTopicsInParagraph(pcontent,
+							di, si, pi);
+						if (previousPar) {
+							topics = topics.filter(t => {
+								return !previousPar.usedTopicNames
+									.includes(t.name)
 							});
-							if (!topicName || !topicName.nameEN) {
-								return;
-							}
-							const names = topicName.names;
-							const links = topicName.links;
-							extendArray(all_items, names.map((n,i) => {
+						}
+						previousPar = par;
+						extendArray(par.usedTopicNames, 
+							topics.map(t => t.name));
+						topics.forEach(topic => {
+							extendArray(topicNames, topic.names.map((n,i) => {
 								return {
 									name: n,
-									link: topicName.links[i]
+									link: topic.links[i]
 								}
 							}));
-							const modified = replaceWords(names, links, pcontent);
+							//Check that some topic exist in par content
+							const modified = replaceWords(topic.names, 
+								topic.links, pcontent);
 							if (pcontent === modified) {
 								this.addWarning('book_item_no_found',
 									topic.name, par.par_ref);
 							}
 						});
-						if (all_items.length > 0) {
+						if (topicNames.length > 0) {
 							//Order using longest topic names before
-							all_items.sort((a,b) => b.name.length - a.name.length);
-							pcontent = replaceWords(all_items.map(i=>i.name),
-								all_items.map(i=>i.link), pcontent);
+							topicNames.sort((a,b) => b.name.length - a.name.length);
+							pcontent = replaceWords(topicNames.map(i=>i.name),
+								topicNames.map(i=>i.link), pcontent);
 						}
 					}
 					//Add footnote marks to paragraph content
@@ -2081,7 +2088,9 @@ class Book {
 						error = replaceErr[0];
 					}
 					if (topicIndex) {
-						topics = topicIndex.filterTopicsWithRef(di, si, pi);
+						// topics = topicIndex.filterTopicsWithRef(di, si, pi);
+						topics = topicIndex.filterTopicsInParagraph(pcontent,
+							di, si, pi);
 						topics.forEach(topic => {
 							let names = [topic.name.split('(')[0].trim()];
 							extendArray(names, topic.altnames);

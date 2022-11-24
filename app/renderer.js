@@ -1066,7 +1066,7 @@ const showTITopic = () => {
 	const aliases = (topic.altnames ? topic.altnames : []);
 	const refs = (topic.refs ? topic.refs : []);
 	const seeAlso = (topic.seeAlso ? topic.seeAlso : []);
-	const links = (topic.links ? topic.links : []);
+	const links = (topic.externalLinks ? topic.externalLinks : []);
 	const lines = (topic.lines ? topic.lines : []);
 	const lines2 = (topic2.lines ? topic2.lines : []);
 	const topicErrs = (topic.errors ? 

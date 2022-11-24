@@ -14,7 +14,14 @@ class TopicIndex {
 	 * topics = [
 	 *   {
 	 *      name: 'angels',
+	 *      nameEN: 'angels',
+	 *      names: ['angels', 'angel', 'the angels'],
 	 *      altnames: ['angel', 'the angels'],
+	 *      links: [
+	 *          '<a href="/es/The_Urantia_Book/angels">angels</a>',
+	 *          '<a href="/es/The_Urantia_Book/angels">angel</a>',
+	 *          '<a href="/es/The_Urantia_Book/angels">the angels</a>'
+	 *      ],
 	 *      lines: [
 	 *        {
 	 *           text: 'personalities of Infinite Spirit',
@@ -28,7 +35,7 @@ class TopicIndex {
 	 *        }
 	 *      ],
 	 *      seeAlso: ['Infinite Spirit:family'],
-	 *      links: [https://en.wikipedia.org/wiki/Angels],
+	 *      externalLinks: [https://en.wikipedia.org/wiki/Angels],
 	 *      refs: ['26:1'],
 	 *      type: 'ORDER',
 	 *      revised: false,
@@ -48,7 +55,7 @@ class TopicIndex {
 	 * ];
 	 */
 	topics = [];
-	topicNames = [];
+
 	onProgressFn = null;
 	language = 'en';
 
@@ -161,10 +168,10 @@ class TopicIndex {
 						current = null;
 					} else if (current && tline.length > 0 && tline.startsWith('>')) {
 						//Line of entry with a link
-						if (!current.links) {
-							current.links = [];
+						if (!current.externalLinks) {
+							current.externalLinks = [];
 						}
-						current.links.push(tline.substring(1).trim());
+						current.externalLinks.push(tline.substring(1).trim());
 					} else if (current && tline.length > 0) {
 						//Line of entry without a link (any other line)
 						topicline = {
@@ -269,7 +276,7 @@ class TopicIndex {
 			const topicErr = [];
 			const lan = (this.language === 'en' ? '' : '/' + this.language);
 			const tpath = `${lan}/topic/`;
-			this.topicNames = this.topics.map(topic => {
+			this.topics.forEach(topic => {
 				const tEN = (this.language === 'en' ? topic :
 					topicindexEN.topics.find(t => {
 						return (t.filename === topic.filename &&
@@ -286,12 +293,9 @@ class TopicIndex {
 				const links = names.map(name => {
 					return `<a href="${tpath}${urlName}">${name}</a>`;
 				});
-				return {
-					name: topic.name,
-					nameEN: nameEN,
-					names: names,
-					links: links
-				};
+				topic.nameEN = nameEN;
+				topic.names = names;
+				topic.links = links;
 			});
 			if (topicErr.length > 0) {
 				reject(new Error(topicErr.map(e => e.message).join(', ')));
@@ -380,7 +384,8 @@ class TopicIndex {
 				txt += (lastTopic && topic.lines.length === 0 ? '' : '\r\n');
 				topic.lines.forEach((line, j) => {
 					const lastLine = (j === topic.lines.length - 1 &&
-						(topic.links == undefined || topic.links.length === 0));
+						(topic.externalLinks == undefined || 
+						topic.externalLinks.length === 0));
 					const linedata = [
 						line.text, 
 						line.refs.map(r => `(${r})`).join(' '),
@@ -389,9 +394,9 @@ class TopicIndex {
 					txt += '\t'.repeat(line.level) + linedata.join(' ');
 					txt += (lastTopic && lastLine ? '' : '\r\n');
 				});
-				if (topic.links) {
-					topic.links.forEach((link, j) => {
-						const lastLink = (j === topic.links.length - 1);
+				if (topic.externalLinks) {
+					topic.externalLinks.forEach((link, j) => {
+						const lastLink = (j === topic.externalLinks.length - 1);
 						txt += '> ' + link + (lastTopic && lastLink ? '' : '\r\n');
 					});
 				}
@@ -1011,10 +1016,10 @@ class TopicIndex {
 			}
 			
 			//Add External Links
-			if (topic.links && topic.links.length > 0) {
+			if (topic.externalLinks && topic.externalLinks.length > 0) {
 				html+= `<h2>${Strings['topic_external_links'][this.language]}</h2>\r\n`;
 				html += '<div>\r\n<ul>\r\n';
-				topic.links.forEach(link => {
+				topic.externalLinks.forEach(link => {
 					if (link.indexOf('wikipedia') != -1) {
 						let linkname = link.substring(link.lastIndexOf('/') + 1)
 							.replace(/_/g, ' ');
@@ -1356,9 +1361,9 @@ class TopicIndex {
 			}
 			
 			//Add External Links
-			if (topic.links && topic.links.length > 0) {
+			if (topic.externalLinks && topic.externalLinks.length > 0) {
 				wiki+= `${end}== ${Strings['topic_external_links'][this.language]} ==${end}`;
-				topic.links.forEach(link => {
+				topic.externalLinks.forEach(link => {
 					if (link.indexOf('wikipedia') != -1) {
 						let linkname = link.substring(link.lastIndexOf('/') + 1)
 							.replace(/_/g, ' ');
@@ -1536,7 +1541,7 @@ class TopicIndex {
 
 	/**
 	 * Writes all entries from Topic Index in JSON format from Urantia Book. 
-	 * Entries are stores in a property called `links` contains an array of
+	 * Entries are stored in a property called `links` contains an array of
 	 * objects with the definition of each link to be created. Saving is done
 	 * incrementally. It is not removed an existing array but it is updated
 	 * with new entries if needed.
@@ -1548,7 +1553,7 @@ class TopicIndex {
 				//Texts to search
 				let names = [topic.name];
 				extendArray(names, topic.altnames);
-				//List of book references in which search
+				//List of UB references in which search
 				let refs = topic.refs.slice();
 				topic.lines.forEach(line => extendArray(refs, line.refs));
 				//Convert references in an array of distinct paragraphs
@@ -1641,7 +1646,7 @@ class TopicIndex {
 
 	/**
 	 * Filter all the topics and return those that appear inside the text
-	 * of a given paragraph. The text must be in JSON format, with no HTML
+	 * of a given UB paragraph. The text must be in JSON format, with no HTML
 	 * markup. Numbers are only returned if the reference matches the ones
 	 * in a number.
 	 * @param {string} text Paragraph text without HTML markup.
@@ -1654,23 +1659,24 @@ class TopicIndex {
 		//TODO: Next regex only works in English and Spanish
 		const words = text
 			.match(/[a-z0-9áéíóúüñ'-]+(?:'[a-z0-9áéíóúüñ'-]+)*/gi);
-		//TODO: 
-		// tiNames.forEach(nn => {
-		// 	if (nn.name === topic.name) return;
-		// 	nn.names.forEach(n => {
-		// 		if (!(this.isLinkableName(n, text))) return;
-		// 		if (text.indexOf(n) != -1 && nn.nameEN &&
-		// 			words.find(w => n.startsWith(w))) {
-		// 			const ln = nn.nameEN.replace(/\s/g, '_');
-		// 			if (nameslinks.find(i=>i.name === n) == undefined)  {
-		// 				nameslinks.push({
-		// 					name: n,
-		// 					link: `<a href="${tpath}/${ln}">${n}</a>`
-		// 				});
-		// 			}
-		// 		}
-		// 	});
-		// });
+		
+		return this.topics.filter(t => {
+			const found = t.names.filter(n => {
+				if (!this.isLinkableName(n, text) || text.indexOf(n) === -1) {
+					return false;
+				}
+				const word = words.find(w => n.startsWith(w));
+				if (!word) {
+					return false;
+				}
+				if (!isNaN(parseInt(word))) {
+					const tts = this.filterTopicsWithRef(paper, section, par);
+					return tts.filter(tt => tt.names.includes(n)).length > 0;
+				}
+				return true;
+			});
+			return (found.length > 0);
+		});
 	};
 
 };
