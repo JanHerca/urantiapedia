@@ -10,7 +10,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 Author: **William S. Sadler**
 
-**INDEX**
+## Index
 
 - [1. The Doctrine of God](/en/article/William_S_Sadler/Workbook_5_Theology/1)
 - [2. The Paradise Trinity](/en/article/William_S_Sadler/Workbook_5_Theology/2)
@@ -47,3 +47,9 @@ Author: **William S. Sadler**
 - [33. Religious Experience](/en/article/William_S_Sadler/Workbook_5_Theology/33)
 - [34. The Spirit of Truth](/en/article/William_S_Sadler/Workbook_5_Theology/34)
 - [35. Christianity](/en/article/William_S_Sadler/Workbook_5_Theology/35)
+
+## References
+
+Study obtained from:
+- https://www.urantia.org/theology-urantia-book/theology-urantia-book
+

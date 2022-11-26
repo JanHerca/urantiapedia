@@ -50,5 +50,8 @@ Author: **William S. Sadler**
     - [Conclusion](/en/article/William_S_Sadler/Workbook_2_Science/5#conclusion)
 
 
-<br>
+## References
+
+Study obtained from:
+- https://www.urantia.org/science-in-urantia-book/science-in-urantia-book
 

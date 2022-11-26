@@ -125,3 +125,8 @@ Author: **William S. Sadler**
     - [20. First, Second, And Third John](https://www.urantia.org/bible-study/20-first-second-and-third-john)
     - [21. Jude](https://www.urantia.org/bible-study/21-jude)
     - [22. Revelation](https://www.urantia.org/bible-study/22-revelation)
+
+## References
+
+Study obtained from:
+- https://www.urantia.org/bible-study/bible-study

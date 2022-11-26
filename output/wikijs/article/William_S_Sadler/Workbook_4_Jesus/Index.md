@@ -404,3 +404,9 @@ PRINCIPAL DIVISIONS OF THE LIFE OF JESUS
 - [Part III - The Parables](/en/article/William_S_Sadler/Workbook_4_Jesus/3)
 - [Part IV - The Sermons Of Jesus](/en/article/William_S_Sadler/Workbook_4_Jesus/4)
 - [The Life of Jesus as Compared with the Four Gospels](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels)
+
+
+## References
+
+Study obtained from:
+- https://www.urantia.org/jesus/jesus

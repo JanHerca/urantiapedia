@@ -40,7 +40,7 @@
     * `^(.+) \*\*REFERENCE\*\*: \[(.+)\]\((.+)\) — (.+)` => `### $1 $2 — $4\n\n**REFERENCE**: [$2]($3) — $4`
     * `\*\*(.+) (\d+):(\d+)\*\*.` => `**[$1 $2:$3](/en/Bible/$1/$2#v$3)**.`
 * Roman numerals as heading 3: `^((?=[XVI])(X{0,3})(I[XV]|V?I{0,3}))\.` => `### $1.`
-* Latin letters as hedaing 4: `^([A-Z])\.` => `#### $1.`
+* Latin letters as heading 4: `^([A-Z])\.` => `#### $1.`
 
 ### Other replacements
 

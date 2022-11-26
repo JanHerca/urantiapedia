@@ -60,3 +60,8 @@ Author: **William S. Sadler**
 - [Truth, Beauty,_and_Goodness](/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Truth_Beauty_and_Goodness)
 - [Worship](/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Worship)
 - [Yahweh](/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Yahweh)
+
+## References
+
+Study obtained from:
+- https://www.urantia.org/urantia-book/topical-studies
