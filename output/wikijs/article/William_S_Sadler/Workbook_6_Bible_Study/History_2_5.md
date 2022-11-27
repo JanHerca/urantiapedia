@@ -22,97 +22,54 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 Author: **William S. Sadler**
 
-
-5. **ISRAEL UNDER THE MONARCHY**
-
 1030 - 936 B.C.
 
-I. SAUL—THE FIRST KING
+## I. Saul—The First King
 
 1. A Philistine victory showed the failure of the amphictyony and led to the formation of the monarchy.
-
 2. The Philistine victory was complete. Israel’s army was cut to pieces. Shiloh was destroyed.
-
 3. The Philistines had a monopoly of iron—they deprived Israel of all iron.
-
 4. Later the Philistines returned the ark captured at Shiloh to Israelite soil. A plague made them afraid of it.
-
 5. Samuel was the bridge from the old order to the new.
-
 6. Saul was elected king by his army and privately anointed by Samuel at Ramah.
-
 7. Saul was made king because of his victory over Ammon. He also came from a wealthy family.
-
 8. Saul’s whole reign was spent at war.
-
 9. [Saul](https://en.wikipedia.org/wiki/Saul) was a manic-depressive person and was, therefore, seldom in a normal state of mind. He was slightly paranoid.
-
 10. Saul broke with Samuel and persecuted David.
-
 11. Saul’s son Jonathan was a great friend of David.
-
 12. David became an outlaw and organized a private army.
-
 13. After a military defeat, Saul became a suicide on Mt. Gilboa.
-
 14. This war with the Philistines was started by Jonathan, Saul’s son, killing a Philistine official.
-
-15. There are two accounts of Saul in the Old Testament. The older, [I Sam 9-14](/en/Bible/1_Samuel/9.htm). More about Saul in the David narratives. [I Sam 17:12-31:13](/en/Bible/1_Samuel/17#v12).
-
+15. There are two accounts of Saul in the Old Testament. The older, [I Sam 9-14](/en/Bible/1_Samuel/9). More about Saul in the David narratives. [I Sam 17:12-31:13](/en/Bible/1_Samuel/17#v12).
 16. Remember: Saul had been privately anointed by Samuel, before his army had elected him king.
-
 17. Saul’s capital was at Gibeah. The excavation of his capital at Tell-el-Ful (three miles north of Jerusalem) is the oldest datable Israelite fortification.
-
 18. His paranoid tendency caused him to maintain a running feud with David— repeatedly trying to kill him.
-
 19. His suspicion is further demonstrated in his cruel slaughter of the priests of Nob.
-
 20. Saul’s mood swings served to inspire Handel’s oratorio and Browning’s poem.
-
 21. But for his manic-depressive psychotic affliction, no doubt, Saul would have been an outstanding monarch. He had all the personal endowments for such a career.
 
-II. DAVID BECOMES KING
+## II. David Becomes King
 
 1000 - 961 B.C.
-
 1. For a time David and Esh-baal, son of Saul, were rivals.
-
 2. David was made king at Hebron, undoubtedly with Philistine consent. He took the throne as a vassal of a foreign power.
-
 3. Esh-baal contested the kingship for two years—no open war. He was murdered by two of his officers.
-
 4. David marries daughter of the king of Geshur, an Aramaean state northeast of the Sea of Galilee—in rear of Esh-baal’s territory.
-
 5. Next David demands that Saul’s daughter, Michal, be returned to him.
-
 6. All Israel is now united under the kingship of David.
-
 7. David finally overthrows the Philistine rule and sets all Israel free.
-
 8. Jerusalem becomes the capital of the united kingdom. Becomes known as the city of David.
-
 9. David transfers the ark to Jerusalem, which now becomes the religious as well as the political capital of the united kingdom.
-
 10. David appoints a new priesthood and further consolidates the state.
-
 11. He extended the conquest of Canaan. David’s first major military effort was the Ammonite war under the leadership of Joab.
-
 12. It was about this time that David became involved in the Bath-sheba affair and was rebuked by Nathan.
-
 13. David rounded out his territory by the conquest of Moab and Edom. Next he made a conquest of most of Syria.
-
 14. David negotiates a profitable treaty with Hiram, king of Tyre.
-
 15. David now really presided over an empire, but as he grew older, the question of succession became a problem.
-
-16. Now occurred the rebellion of Absalom. [II Sam 13-19](/en/Bible/2_Samuel/13.htm).
-
-17. Next came the rebellion of Sheba. [II Sam 20](/en/Bible/2_Samuel/20.htm). This was an attempt to take northern Israel out of the kingdom.
-
+16. Now occurred the rebellion of Absalom. [II Sam 13-19](/en/Bible/2_Samuel/13).
+17. Next came the rebellion of Sheba. [II Sam 20](/en/Bible/2_Samuel/20). This was an attempt to take northern Israel out of the kingdom.
 18. From tablets recently excavated at Mari, David was known as the “beloved chieftain.”
-
 19. David introduced music into the Jewish ritual of worship.
-
 20. The following is an outline of David’s career:
 
 a **DAVID THE MAN**
@@ -125,7 +82,7 @@ a **DAVID THE MAN**
 
 (4) Poet. [II Sam 1:17-27](/en/Bible/2_Samuel/1#v17).
 
-(5) Warrior. [I Sam 17](/en/Bible/1_Samuel/17.htm).
+(5) Warrior. [I Sam 17](/en/Bible/1_Samuel/17).
 
 (6) Friend of Jonathan. [I Sam 18:1-4](/en/Bible/1_Samuel/18#v1). [19:1-7](/en/Bible/1_Samuel/19#v1).
 
@@ -155,7 +112,7 @@ b. **DAVID A FUGITIVE AND OUTLAW**
 
 (10) Engedi. [I Sam 23:29-24:22](/en/Bible/1_Samuel/23#v29).
 
-(11) Gath (Achish). [I Sam 27](/en/Bible/1_Samuel/27.htm): 1-5.
+(11) Gath (Achish). [I Sam 27](/en/Bible/1_Samuel/27): 1-5.
 
 (12) Ziklag. [I Sam 27:6](/en/Bible/1_Samuel/27#v6). ([I Chron 12:1-22](/en/Bible/1_Chronicles/12#v1))
 
@@ -179,7 +136,7 @@ c. **DAVID KING OF UNITED KINGDOM**
 
 d. **PERSONALITIES AND EVENTS IN DAVID’S REIGN**
 
-(1) His family. [II Sam 3:2-5](/en/Bible/2_Samuel/3#v2); [13-16](/en/Bible/2_Samuel/13.htm). [I Chron 3:1-9](/en/Bible/1_Chronicles/3#v1); [14:3-7](/en/Bible/1_Chronicles/14#v3).
+(1) His family. [II Sam 3:2-5](/en/Bible/2_Samuel/3#v2); [13-16](/en/Bible/2_Samuel/13). [I Chron 3:1-9](/en/Bible/1_Chronicles/3#v1); [14:3-7](/en/Bible/1_Chronicles/14#v3).
 
 (2) The Bath-sheba episode. [II Sam 11:2-12:25](/en/Bible/2_Samuel/11#v2).
 
@@ -189,9 +146,9 @@ d. **PERSONALITIES AND EVENTS IN DAVID’S REIGN**
 
 (5) Sons of Jonathan. [II Sam 4:4](/en/Bible/2_Samuel/4#v4); [9:1-13](/en/Bible/2_Samuel/9#v1).
 
-(6) Illustrious warriors. [II Sam 23:8-12](/en/Bible/2_Samuel/23#v8); [18-39](/en/Bible/2_Samuel/18.htm). [I Chron 11:1-14](/en/Bible/1_Chronicles/11#v1). [I Chron 11:20-47](/en/Bible/1_Chronicles/11#v20); [27:1-24](/en/Bible/1_Chronicles/27#v1).
+(6) Illustrious warriors. [II Sam 23:8-12](/en/Bible/2_Samuel/23#v8); [18-39](/en/Bible/2_Samuel/18). [I Chron 11:1-14](/en/Bible/1_Chronicles/11#v1). [I Chron 11:20-47](/en/Bible/1_Chronicles/11#v20); [27:1-24](/en/Bible/1_Chronicles/27#v1).
 
-(7) Taking the census. [II Sam 24](/en/Bible/2_Samuel/24.htm). [I Chron 21](/en/Bible/1_Chronicles/21.htm).
+(7) Taking the census. [II Sam 24](/en/Bible/2_Samuel/24). [I Chron 21](/en/Bible/1_Chronicles/21).
 
 e. **WARS OF CONQUEST**
 
@@ -205,15 +162,15 @@ e. **WARS OF CONQUEST**
 
 (5) Edomites. [II Sam 8:13,14](/en/Bible/2_Samuel/8#v13). [I Chron 18:11-13](/en/Bible/1_Chronicles/18#v11).
 
-(6) Ammonites. [II Sam 10:6-11:1](/en/Bible/2_Samuel/10#v6); [12:26-31](/en/Bible/2_Samuel/12#v26). [I Chron 19-20:3](/en/Bible/1_Chronicles/19.htm).
+(6) Ammonites. [II Sam 10:6-11:1](/en/Bible/2_Samuel/10#v6); [12:26-31](/en/Bible/2_Samuel/12#v26). [I Chron 19-20:3](/en/Bible/1_Chronicles/19).
 
 f. **REBELLIONS**
 
-(1) Absalom. [II Sam 13-19](/en/Bible/2_Samuel/13.htm).
+(1) Absalom. [II Sam 13-19](/en/Bible/2_Samuel/13).
 
 (2) Sheba. [II Sam 20:1-22](/en/Bible/2_Samuel/20#v1).
 
-(3) Adonijah. [I Kings 1](/en/Bible/1_Kings/1.htm).
+(3) Adonijah. [I Kings 1](/en/Bible/1_Kings/1).
 
 g. **DAVID’S CHARGE TO SOLOMON**
 
@@ -223,68 +180,50 @@ g. **DAVID’S CHARGE TO SOLOMON**
 
 > David was not permitted to build the temple, because he had been “a man of war.” He was allowed to gather materials for his son Solomon who was directed to build the temple.
 
-III. THE MONARCHY UNDER SOLOMON
+## III. The Monarchy Under Solomon
 
 960 - 922 B.C.
-
 1. [Solomon](https://en.wikipedia.org/wiki/Solomon) was a great builder and he became something like an autocratic Oriental ruler.
-
 2. Solomon’s foreign policy was one of expansion—by war and by marriage.
-
 3. He greatly expanded Israel’s commerce. Trade in copper, horses, and other commodities flourished.
-
 4. This was Israel’s golden age of economic prosperity.
-
 5. Solomon built the temple. Jerusalem really became the center of Hebrew worship.
-
 6. But Solomon really did not capture Gezer—it was taken by his father-in-law, the king of Egypt.
-
 7. The monarchy became a burden. Taxes were high. Deficit spending all but ruined the empire.
-
 8. Israel was changing. The dynastic state had left little of the old order.
-
 9. The thousand wives and concubines were a vast departure from the theology of the Davidic kingdom.
-
 10. Political tension in the empire mounted, and there was trouble in sight when Solomon died.
-
 11. You should remember that Solomon was the son of David and Bath-sheba.
-
 12. Solomon’s wisdom is illustrated by his dealing with the two women and the disputed child.
-
 13. Solomon seems to have been a glamorous and pompous personality, and he loved power.
-
 14. It was a legend that when Solomon was crowned king, he asked not for riches and glory, but only for **wisdom**.
-
 15. His reputation as a “wise man” was far-flung. [I Kings 4:30](/en/Bible/1_Kings/4#v30). He uttered wise sayings. He was assisted by a corps of court “writers.”
-
 16. The [Queen of Sheba](https://en.wikipedia.org/wiki/Queen_of_Sheba) visited him and attested to his wisdom.
-
 17. He seemed to have been a versatile naturalist. [I Kings 4:33](/en/Bible/1_Kings/4#v33); [10:24](/en/Bible/1_Kings/10#v24).
-
 18. Later generations regarded him as the author of the book of Proverbs.
-
 19. Solomon could make such extensive conquests at this time because both Egypt and Assyria were in a weakened quiescent condition.
-
 20. Solomon had a navy and carried on a vast overseas trade.
-
 21. He enjoyed a vast revenue from taxation on the extensive caravan trade. He controlled both the land and sea routes.
-
 22. Solomon controlled the frontier routes through Zobah, Damascus, Hauran, Ammon, Moab, and Edom.
-
 23. He maintained a chain of chariot cities with cavalry forces. (These have been excavated at Megiddo and Gezer.)
-
-24 He revived copper mining. He conscripted labor to finish his extensive building projects.
-
+24. He revived copper mining. He conscripted labor to finish his extensive building projects.
 25. He got so in debt to Hiram that he had to cede him 20 towns in Galilee.
-
 26. Gezer was the dowry of the daughter of Pharaoh whom he married.
-
 27. But of all his wives, domestic and foreign, he had only one son—Rehoboam. The later rabbis used this as an argument for monogamy.
-
 28. All of Solomon’s foreign wives had their own private chapels and practiced their own religions.
-
 29. Solomon’s court was one of luxury and pomp, and it presented an international atmosphere.
 
 
 <br>
 
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_2_4">4. The Faith Of Early Israel</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_2_6">6. The Two Kingdoms Of Israel</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>

@@ -64,8 +64,13 @@
 * Bible references to links
     - Search (regex): `Gn (\d{1,2}):(\d{1,2})`
     - Replace: `[Gn $1:$2](/es/Bible/Genesis/$1#v$2)`
+* Bible references that are not already converted to links (better option)
+    - Search: `(?<!\[)I Cor. (\d{1,2}):(\d{1,2})`
+    - Replace: `[Gn $1:$2](/es/Bible/Genesis/$1#v$2)`
+    - Search: `(?<!\[)(\d+):(\d+)([-|,])?(\d+)?`
+    - Replace: `[$1:$2$3$4](/en/Bible/Hebrews/$1#v$2)`
 * Bible references to links
-    - Search (regex): `Luke (\d+):(\d+)-(\d+)`
+    - Search (regex): `Luke (\d+):(\d+)-(\d+:?\d+)`
     - Replace: `[Luke $1:$2-$3](/en/Bible/Luke/$1#v$2)`
 * Change quotes inside other quotes:
     - Search (regex): `("[^"]*)(")([^"]*)(")([^"]*")`
