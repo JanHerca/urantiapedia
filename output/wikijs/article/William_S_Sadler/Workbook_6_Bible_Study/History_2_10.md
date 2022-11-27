@@ -1,5 +1,5 @@
 ---
-title: "Workbook VI — Bible Study — Mind and Spirit"
+title: "Workbook VI — Bible Study — 10. Reforms Of Nehemiah And Ezra"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_2_9">9. Exile And Restoration</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_2_11">11. End Of The Old Testament Period</a></td>
 		</tr>
 		</tbody>
 	</table>

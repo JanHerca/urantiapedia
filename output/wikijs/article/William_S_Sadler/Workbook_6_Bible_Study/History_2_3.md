@@ -1,5 +1,5 @@
 ---
-title: "Workbook VI — Bible Study — Mind and Spirit"
+title: "Workbook VI — Bible Study — 3. Exodus And Conquest"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_2_2">2. The Patriarchs</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_2_4">4. The Faith Of Early Israel</a></td>
 		</tr>
 		</tbody>
 	</table>

@@ -1,5 +1,5 @@
 ---
-title: "Workbook VI — Bible Study — Mind and Spirit"
+title: "Workbook VI — Bible Study — 8. The Life Of Paul"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Mercy">Mercy</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_3_7">7. History Of The Early Church</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/Ministry">Ministry</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_3_9">9. The Post-Apostolic Age</a></td>
 		</tr>
 		</tbody>
 	</table>
