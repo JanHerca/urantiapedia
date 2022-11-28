@@ -1,5 +1,5 @@
 ---
-title: "Workbook VII — Terminology — Mind and Spirit"
+title: "Workbook VII — Terminology — Q"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/Mercy">Mercy</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/P">P</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/Ministry">Ministry</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/R">R</a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -22,14 +22,26 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 Author: **William S. Sadler**
 
+## Qualified
 
-## Q
-
-**Qualified**  
-  
-
-(9) (from ASOTMU \[ _A Study of the Master Universe_\] ) Limited or modified in some way.
+Limited or modified in some way. [^1]
 
 
 <br>
+
+<figure class="table chapter-navigator">
+	<table>
+		<tbody>
+		<tr>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/P">P</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/Index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_7_Terminology/R">R</a></td>
+		</tr>
+		</tbody>
+	</table>
+</figure>
+
+## Notes
+
+[^1]: from [A Study of the Master Universe](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe)
 
