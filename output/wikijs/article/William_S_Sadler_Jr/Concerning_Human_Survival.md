@@ -337,3 +337,9 @@ In summing up my topic of the difficulties and qualities of personality survival
 - You shall love God with all your mind, and with all your heart and with all your soul and with all your strength.
 
 YOU MUST BE EVER AWARE THAT, THE ACCEPTANCE OF SONSHIP, CO-OPERATION WITH THE INDWELLING ADJUSTER, IS THE PRICE OF SURVIVAL
+
+
+## References
+
+Study obtained from:
+- https://www.urantia.org/study/concerning-human-survival

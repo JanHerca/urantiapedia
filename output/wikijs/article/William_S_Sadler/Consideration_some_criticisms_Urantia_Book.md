@@ -573,3 +573,9 @@ In reply to this criticism, I submit 74 concepts and doctrines which are new and
 74. **[The Corps of the Finality.](/en/The_Urantia_Book/31)** The actual destiny of mortal ascenders in the corps of the Finality is a new and original concept of mortal destiny.
 
 And last, but not least, **[the technique of receiving the Urantia Papers in answer to questions](https://www.urantia.org/urantia-foundation/history)** was an entirely new and unique method of imparting information on the part of superhuman intelligences. The very book itself is original in origin and unique in impartation.
+
+
+## References
+
+Study obtained from:
+- https://www.urantia.org/study/consideration-some-criticisms-urantia-book

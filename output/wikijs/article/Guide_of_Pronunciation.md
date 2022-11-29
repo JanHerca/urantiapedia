@@ -1,19 +1,27 @@
-## Guide to Pronunciation of Names and Words in _The Urantia Book
+---
+title: Guide to Pronunciation of Names and Words in The Urantia Book
+description:
+published: true
+date: 2022-11-28T14:02:03.086Z
+tags: study aid
+editor: markdown
+dateCreated: 2022-11-28T14:02:03.086Z
+---
 
 
-<div style="text-align:center">Published by:<br />
-  Urantia Foundation<br />
-  533 W Diversey Parkway<br />
-  Chicago, Illinois 60614 U.S.A.</div>
-<div style="text-align:center">&copy;1996 Urantia Foundation</div>
+<p style="text-align:center">Published by:<br />
+Urantia Foundation<br />
+533 W Diversey Parkway<br />
+Chicago, Illinois 60614 U.S.A.</p>
+<p style="text-align:center">&copy;1996 Urantia Foundation</p>
 
 **A Brief Introduction**
 
-This _Guide to Pronunciation of Names and Words_contains words from _The Urantia Book</em>, many of which cannot be found in dictionaries or other sources. It describes the pronunciation of the listed words the way they should be pronounced in accordance with the American variant of the English language.
+This _Guide to Pronunciation of Names and Words_contains words from _The Urantia Book_, many of which cannot be found in dictionaries or other sources. It describes the pronunciation of the listed words the way they should be pronounced in accordance with the American variant of the English language.
 
 There are two columns of symbols after the listed words:
- -The first column provides the **American Standard** symbols. These are taken from the pronunciation key in _Webster's Third International Dictionary, and can also be found in other English language dictionaries.
- -The second column provides the **International Phonetic Alphabet** symbols which are used for the description and transcription of sounds in all languages, and are recommended by the _International Phonetic Association</em>.
+ -The first column provides the **American Standard** symbols. These are taken from the pronunciation key in _Webster's Third International Dictionary_, and can also be found in other English language dictionaries.
+ -The second column provides the **International Phonetic Alphabet** symbols which are used for the description and transcription of sounds in all languages, and are recommended by the _International Phonetic Association_.
 
 We have utilized these two sets of symbols and, for the convenience of readers who are not familiar with either set of symbols, we have provided a "Pronunciation Key" that will give you examples of the sound for each symbol used in this guide. With these options, this guide will be useful for peoples of all languages and regions.
 
