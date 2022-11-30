@@ -1473,7 +1473,7 @@ class Book {
 				}
 
 				section.pars.forEach(par => {
-					let pcontent, aref, topics, di, si, pi, image, map;
+					let pcontent, aref, topics, di, si, pi, image, map, used;
 					par.usedTopicNames = [];
 					const topicNames = [];
 					if (!par.par_ref || !par.par_content) {
@@ -1511,36 +1511,19 @@ class Book {
 					}
 					//Topic index links
 					if (topicIndex) {
-						// topics = topicIndex.filterTopicsWithRef(di, si, pi);
-						topics = topicIndex.filterTopicsInParagraph(pcontent,
-							di, si, pi);
-						if (previousPar) {
-							topics = topics.filter(t => {
-								return !previousPar.usedTopicNames
-									.includes(t.name)
-							});
-						}
+						used = (previousPar ? previousPar.usedTopicNames : []);
+						topics = topicIndex.filterTopicsInParagraph(
+							par.par_content, di, si, pi, topicNames, used);
 						previousPar = par;
 						extendArray(par.usedTopicNames, 
 							topics.map(t => t.name));
-						topics.forEach(topic => {
-							extendArray(topicNames, topic.names.map((n,i) => {
-								return {
-									name: n,
-									link: topic.links[i]
-								}
-							}));
-							//Check that some topic exist in par content
-							const modified = replaceWords(topic.names, 
-								topic.links, pcontent);
-							if (pcontent === modified) {
-								this.addWarning('book_item_no_found',
-									topic.name, par.par_ref);
-							}
-						});
 						if (topicNames.length > 0) {
-							//Order using longest topic names before
-							topicNames.sort((a,b) => b.name.length - a.name.length);
+							topicNames.sort((a,b) => {
+								if (a.name === b.name) {
+									return (a.link.length - b.link.length);
+								}
+								return (b.name.length - a.name.length);
+							});
 							pcontent = replaceWords(topicNames.map(i=>i.name),
 								topicNames.map(i=>i.link), pcontent);
 						}

@@ -1606,12 +1606,24 @@ class TopicIndex {
 	 * @param {string} content Full paragraph in which search for topic name.
 	 */
 	isLinkableName = (name, content) => {
+		//TODO: checks if there is any single sentence starting with name
+		// How to check if we have name in the middle of a sentence
+		// and how to return that position when creating link
 		const index = content.indexOf(name);
 		if (index == -1) return false;
+		//Words that cannot be found at beginning of line
+		const noStartES = ['El', 'Esta', 'Sin'];
+		//Words that we do not link for now because are very generic
+		const excludeES = ['difícil', 'ejemplo', 'valor', 'iguales',
+			'fin', 'todo', 'ser', 'gracias', 'era', 'hechos'];
+		const sentences = (content.match(/[^\.!\?:]+[\.!\?:\*]+/g) || [])
+			.map(r=>r.trim());
 		if (this.language === 'es') {
-			if (name === 'El' && 
-				(index == 0 || 
-				(index > 2 && content[index-2].match(/\.|\?|\!/)))) {
+			if (noStartES.includes(name) && 
+				sentences.find(s=>s.match(new RegExp(`^[«|\\*]?${name}`)))) {
+				return false;
+			}
+			if (excludeES.includes(name)) {
 				return false;
 			}
 		}
@@ -1653,15 +1665,21 @@ class TopicIndex {
 	 * @param {number} paper Paper index.
 	 * @param {number} section Section index.
 	 * @param {number} par Paragraph index.
+	 * @param {Array.<Object>} topicNames Array in which store the names and 
+	 * links for the paragraph, avoiding repetition.
+	 * @param {Array.<Object>} used Array of topics already used in previous
+	 * paragraph that must be avoided.
 	 * @return {Array.<Object>} Objects with topics.
 	 */
-	filterTopicsInParagraph = (text, paper, section, par) => {
+	filterTopicsInParagraph = (text, paper, section, par, topicNames, used) => {
 		//TODO: Next regex only works in English and Spanish
 		const words = text
 			.match(/[a-z0-9áéíóúüñ'-]+(?:'[a-z0-9áéíóúüñ'-]+)*/gi);
 		
 		return this.topics.filter(t => {
-			const found = t.names.filter(n => {
+			return !used.includes(t.name);
+		}).filter(t => {
+			const index = t.names.findIndex(n => {
 				if (!this.isLinkableName(n, text) || text.indexOf(n) === -1) {
 					return false;
 				}
@@ -1675,9 +1693,22 @@ class TopicIndex {
 				}
 				return true;
 			});
-			return (found.length > 0);
+			if (index != -1) {
+				extendArray(topicNames, {
+					name: t.names[index], 
+					link: t.links[index]
+				});
+			}
+			return (index != -1);
 		});
 	};
+
+	//TODO: A new two way filtering
+	// When a topic has category use filterTopicsInParagraph
+	// When a topic has not category (OTHER) use filterTopicsWithRef
+	// So we need a new function that finds topics in paragraph and then
+	// checks category and makes correct checks
+
 
 };
 
