@@ -1,9 +1,18 @@
+---
+title: Concerning Human Survival
+description: 
+published: true
+date: 2022-11-28T11:16:41.388Z
+tags: The Urantia Book, study aid
+editor: markdown
+dateCreated: 2022-11-28T11:12:37.284Z
+---
 
+Author: **William S. Sadler, Jr**
 
+## William S. Sadler, Jr's response to M. H. (Bud) Kagan
 
-William S. Sadler, Jr's response to  
-M.H. (Bud) Kagan's presentation titled  
-_[The Price of Survival](https://www.urantia.org/study/concerning-human-survival#THE_PRICE_OF_SURVIVAL)_
+William S. Sadler, Jr's response to M. H. (Bud) Kagan's presentation titled [The Price of Survival](#the-price-of-survival)
 
 Recently our attention was called to a very interesting and instructive discussion of human survival, which, among other features, presented an attempt to arrive at some sort of mathematical deduction as to the probable parentage of human beings now living on Urantia who would survive.
 
@@ -15,63 +24,63 @@ Down through the ages many philosophers and theologians have indulged in specula
 
 Needless to say that this attempt to reduce human survival to a mathematical formula--to percentages--is wholly based on assumptions. Let us take a look at these assumptions.
 
-1\. Assumption No. 1.
+### 1. Assumption No. 1.
 
-> We have the testimony of the Creator Son--that the road to eternal life is straight and narrow and that the door thereto is also narrow.
-> 
-> But that is not exactly what Jesus said:
-> 
-> > “You also have another saying among you, and one that contains much truth: That the way which leads to eternal life is straight and narrow, that the door which leads thereto is likewise narrow." [(1828.7) 166:3.3](https://www.urantia.org/urantia-book-standardized/paper-166-last-visit-northern-perea#U166_3_3)
-> 
-> Here Jesus is making use of a common saying for teaching purposes. While he did say that this folk saying contained much truth--he did not say that it was factual--he did not present it as an original and persona pronouncement.
-> 
-> The Master utilizes this saying as illustrative material in his teaching, just as Peter made use of a then current story about the rich man and Lazarus. This story well illustrated certain things which Peter wished to impress upon his hearers, but it does not follow that the apostle meant to accept or endorse all the other theological implications which were to be found in this story. [(1854.5) 169:3.0](https://www.urantia.org/urantia-book-standardized/paper-169-last-teaching-pella#U169_3_0)
-> 
-> Comparatively speaking, the path to survival may be "straight and narrow" but that does not in any way validate any mathematical computation as to the percentage of mortals who will survive.
-> 
-> The door to survival may also be narrow, but since Jesus himself is that door, we may be assured that it is wide enough to admit every mortal who really wants to find God and be mustered into the Corps of the Finality.
-> 
-> > "Every one who desires shall find entrance" [(1829.2) 166:3.5](https://www.urantia.org/urantia-book-standardized/paper-166-last-visit-northern-perea#U166_3_5)
+We have the testimony of the Creator Son--that the road to eternal life is straight and narrow and that the door thereto is also narrow.
 
-2\. Assumption No. 2.
+But that is not exactly what Jesus said:
 
-> > "The road to destruction is broad and many choose to go this way."
-> 
-> Remember, this is part of the folk saying. While Jesus implies that "many" go this wrong way, he does not say how many.
+> “You also have another saying among you, and one that contains much truth: That the way which leads to eternal life is straight and narrow, that the door which leads thereto is likewise narrow." (1828.7) 166:3.3
 
-3\. Assumption No. 3.
+Here Jesus is making use of a common saying for teaching purposes. While he did say that this folk saying contained much truth--he did not say that it was factual--he did not present it as an original and persona pronouncement.
 
-> The adjutants of worship and wisdom. The assumption that one-sixth of the world's inhabitants are mentally disqualified for survival in that they do not have the adjutant spirits of worship and wisdom is wholly a conjecture. Such beings could not be human--they would belong to the prehuman category of the simian tribes. Such creatures might be described as imbeciles.
-> 
-> Large numbers of feebleminded and retarded individuals, while being subnormal, might not be subhuman. They know something about the difference between right and wrong. They might well have virgin Adjusters.
-> 
-> Our business as kingdom builders is to spread the "good news." It is indeed the purpose of the Urantia Revelation to "save souls." As to whether one-tenth or three-fourths of present day mortals will survive, we do not know--cannot know. In common parlance, "It is none of our business."
+The Master utilizes this saying as illustrative material in his teaching, just as Peter made use of a then current story about the rich man and Lazarus. This story well illustrated certain things which Peter wished to impress upon his hearers, but it does not follow that the apostle meant to accept or endorse all the other theological implications which were to be found in this story. (1854.5) 169:3.0
 
-4\. Assumption No. 4.
+Comparatively speaking, the path to survival may be "straight and narrow" but that does not in any way validate any mathematical computation as to the percentage of mortals who will survive.
 
-> The conclusion that one-sixth of the world's population is "faithless, slothful, and sinful," and therefore is unfit for survival, is again a conjecture. How can we sit in judgment of the real motivation of such persons?
-> 
-> In this connection, it might be well to recall a passage on Page 63 of _The Urantia Book_. It reads:
-> 
-> > "If such a human mind is sincerely and spiritually motivated, if such a human soul desires to know God and become like him, honestly wants to do the Father’s will, there exists no negative influence of mortal deprivation nor positive power of possible interference which can prevent such a divinely motivated soul from securely ascending to the portals of Paradise." [(63.5) 5:1.7](https://www.urantia.org/urantia-book-standardized/paper-5-gods-relation-individual#U5_1_7)
+The door to survival may also be narrow, but since Jesus himself is that door, we may be assured that it is wide enough to admit every mortal who really wants to find God and be mustered into the Corps of the Finality.
 
-5\. Assumption No. 5.
+> "Every one who desires shall find entrance" (1829.2) 166:3.5
 
-> The assumption that one-third of the present day human race does not want to survive is wholly speculative. It is not given us to know the inner longings and deep-seatd desires of our fellow men.
-> 
-> But, in this connection we might well ponder the encouragement found on Pages 69 and 70 of _The Urantia Book_:
-> 
-> > "When the mind believes God and the soul knows God, and when, with the fostering Adjuster, they all desire God, then is survival assured. Limitations of intellect, curtailment of education, deprivation of culture, impoverishment of social status, even inferiority of the human standards of morality resulting from the unfortunate lack of educational, cultural, and social advantages, cannot invalidate the presence of the divine spirit in such unfortunate and humanly handicapped but believing individuals. The indwelling of the Mystery Monitor constitutes the inception and insures the possibility of the potential of growth and survival of the immortal soul." [(69.8) 5:5.13](https://www.urantia.org/urantia-book-standardized/paper-5-gods-relation-individual#U5_5_13)
+### 2. Assumption No. 2.
 
-6\. Assumption No. 6.
+> "The road to destruction is broad and many choose to go this way."
 
-> Experienced Adjusters. The fact that a "certain Adjuster" who functions on Urantia had indwelt fifteen minds in Orvonton who failed to survive, does not necessarily mean that his experience in other superuniverses was similar--so that he had indwelt 105 nonsurvivors.
-> 
-> In other superuiverses many of his hosts may have experienced Spirit fusion, or even Son fusion. Even the Solitary Messenger who indites Paper 109 confesses that he does not actually know about the Adjuster's experiences in other superuniverses.
-> 
-> It would be unsafe to generalize about mortal survival throughout the grand universe, or on Urantia, from the experience of a single Thought Adjuster.
+Remember, this is part of the folk saying. While Jesus implies that "many" go this wrong way, he does not say how many.
 
-CONCLUSIONS
+### 3. Assumption No. 3.
+
+The adjutants of worship and wisdom. The assumption that one-sixth of the world's inhabitants are mentally disqualified for survival in that they do not have the adjutant spirits of worship and wisdom is wholly a conjecture. Such beings could not be human--they would belong to the prehuman category of the simian tribes. Such creatures might be described as imbeciles.
+
+Large numbers of feebleminded and retarded individuals, while being subnormal, might not be subhuman. They know something about the difference between right and wrong. They might well have virgin Adjusters.
+
+Our business as kingdom builders is to spread the "good news." It is indeed the purpose of the Urantia Revelation to "save souls." As to whether one-tenth or three-fourths of present day mortals will survive, we do not know--cannot know. In common parlance, "It is none of our business."
+
+### 4. Assumption No. 4.
+
+The conclusion that one-sixth of the world's population is "faithless, slothful, and sinful," and therefore is unfit for survival, is again a conjecture. How can we sit in judgment of the real motivation of such persons?
+
+In this connection, it might be well to recall a passage on Page 63 of _The Urantia Book_. It reads:
+
+> "If such a human mind is sincerely and spiritually motivated, if such a human soul desires to know God and become like him, honestly wants to do the Father’s will, there exists no negative influence of mortal deprivation nor positive power of possible interference which can prevent such a divinely motivated soul from securely ascending to the portals of Paradise." (63.5) 5:1.7
+
+### 5. Assumption No. 5.
+
+The assumption that one-third of the present day human race does not want to survive is wholly speculative. It is not given us to know the inner longings and deep-seatd desires of our fellow men.
+
+But, in this connection we might well ponder the encouragement found on Pages 69 and 70 of _The Urantia Book_:
+
+> "When the mind believes God and the soul knows God, and when, with the fostering Adjuster, they all desire God, then is survival assured. Limitations of intellect, curtailment of education, deprivation of culture, impoverishment of social status, even inferiority of the human standards of morality resulting from the unfortunate lack of educational, cultural, and social advantages, cannot invalidate the presence of the divine spirit in such unfortunate and humanly handicapped but believing individuals. The indwelling of the Mystery Monitor constitutes the inception and insures the possibility of the potential of growth and survival of the immortal soul." (69.8) 5:5.13
+
+### 6. Assumption No. 6.
+
+Experienced Adjusters. The fact that a "certain Adjuster" who functions on Urantia had indwelt fifteen minds in Orvonton who failed to survive, does not necessarily mean that his experience in other superuniverses was similar--so that he had indwelt 105 nonsurvivors.
+
+In other superuiverses many of his hosts may have experienced Spirit fusion, or even Son fusion. Even the Solitary Messenger who indites Paper 109 confesses that he does not actually know about the Adjuster's experiences in other superuniverses.
+
+It would be unsafe to generalize about mortal survival throughout the grand universe, or on Urantia, from the experience of a single Thought Adjuster.
+
+### Conclusions
 
 1. In general, speculation and conjectures are legitimate. Such thinking strengthens the creative imagination and enlarges the cosmic horizons. Our unseen and superhuman friends often indulge in speculation. We find numerous such conjectures recorded in _The Urantia Book_.
     
@@ -82,11 +91,11 @@ CONCLUSIONS
     
 3. The juridical attitude of Deity. On Page 41, we read:
     
-    > "Divine righteousness is not dominated by strict retributive justice; God as a father transcends God as a judge."[(41.4) 2:6.6](https://www.urantia.org/urantia-book-standardized/paper-2-nature-god#U2_6_6)
+    > "Divine righteousness is not dominated by strict retributive justice; God as a father transcends God as a judge." (41.4) 2:6.6
     
     After all, we should remember that sin is conscious--knowing--wrong-doing. Let us ponder what Jesus said on Page 1947:
     
-    > “If we had not taught them the truth, they might do many strange things without falling under condemnation, but now, since they have known the light and presumed to reject it, they have no excuse for their attitude." [(1947.1) 180:3.2](https://www.urantia.org/urantia-book-standardized/paper-180-farewell-discourse#U180_3_2)
+    > “If we had not taught them the truth, they might do many strange things without falling under condemnation, but now, since they have known the light and presumed to reject it, they have no excuse for their attitude." (1947.1) 180:3.2
     
     It seems that we are to be finally judged in accordance with our enlightenment. We are not held accountable for the things we do not know.
     
@@ -96,7 +105,7 @@ CONCLUSIONS
     
 6. It should be enough for us to know that:
     
-    > "There is in the mind of God a plan which embraces every creature of all his vast domains, and this plan is an eternal purpose of boundless opportunity, unlimited progress, and endless life." [(365.3) 32:5.7](https://www.urantia.org/urantia-book-standardized/paper-32-evolution-local-universes#U32_5_7)
+    > "There is in the mind of God a plan which embraces every creature of all his vast domains, and this plan is an eternal purpose of boundless opportunity, unlimited progress, and endless life." (365.3) 32:5.7
     
 7. And this same passage goes on to say:
     
@@ -104,49 +113,38 @@ CONCLUSIONS
     
 8. Let us pay special attention to this passage from Page 447:
     
-    > "As to the chances of mortal survival, let it be made forever clear: All souls of every possible phase of mortal existence will survive provided they manifest willingness to co-operate with their indwelling Adjusters and exhibit a desire to find God and to attain divine perfection, even though these desires be but the first faint flickers of the primitive comprehension of that “true light which lights every man who comes into the world.”[(447.4) 40:5.19](https://www.urantia.org/urantia-book-standardized/paper-40-ascending-sons-god#U40_5_19)
+    > "As to the chances of mortal survival, let it be made forever clear: All souls of every possible phase of mortal existence will survive provided they manifest willingness to co-operate with their indwelling Adjusters and exhibit a desire to find God and to attain divine perfection, even though these desires be but the first faint flickers of the primitive comprehension of that “true light which lights every man who comes into the world.” (447.4) 40:5.19
     
 9. Note the consideration that the universe judges give to mortals of doubtful survival qualities. Ponder this from Page 1233:
     
-    > "If ever there is doubt as to the advisability of advancing a human identity to the mansion worlds, the universe governments invariably rule in the personal interests of that individual; they unhesitatingly advance such a soul to the status of a transitional being, while they continue their observations of the emerging morontia intent and spiritual purpose...This does not mean that human beings are to enjoy a second opportunity in the face of the rejection of a first, not at all. But it does signify that all will creatures are to experience one true opportunity to make one undoubted, self-conscious, and final choice. [(1233.3) 112:5.7](https://www.urantia.org/urantia-book-standardized/paper-112-personality-survival#U112_5_7)
+    > "If ever there is doubt as to the advisability of advancing a human identity to the mansion worlds, the universe governments invariably rule in the personal interests of that individual; they unhesitatingly advance such a soul to the status of a transitional being, while they continue their observations of the emerging morontia intent and spiritual purpose...This does not mean that human beings are to enjoy a second opportunity in the face of the rejection of a first, not at all. But it does signify that all will creatures are to experience one true opportunity to make one undoubted, self-conscious, and final choice. (1233.3) 112:5.7
     
 10. Let us take another look at the "narrow door" to the kingdom. Note these two passages:
     
-    > "Even if the door to the way of life is narrow, it is wide enough to admit all who sincerely seek to enter, for I am that door. And the Son will never refuse entrance to any child of the universe who, by faith, seeks to find the Father through the Son." [(1828.7) 166:3.3](https://www.urantia.org/urantia-book-standardized/paper-166-last-visit-northern-perea#U166_3_3)
+    > "Even if the door to the way of life is narrow, it is wide enough to admit all who sincerely seek to enter, for I am that door. And the Son will never refuse entrance to any child of the universe who, by faith, seeks to find the Father through the Son." (1828.7) 166:3.3
     > 
-    > "And I declare to all of you that the Father has opened the doors of the heavenly kingdom to all who have the faith to enter, and no man or association of men can close those doors even to the most humble soul or supposedly most flagrant sinner on earth if such sincerely seek an entrance.” [(1652.3) 147:5.6](https://www.urantia.org/urantia-book-standardized/paper-147-interlude-visit-jerusalem#U147_5_6)
+    > "And I declare to all of you that the Father has opened the doors of the heavenly kingdom to all who have the faith to enter, and no man or association of men can close those doors even to the most humble soul or supposedly most flagrant sinner on earth if such sincerely seek an entrance.” (1652.3) 147:5.6
     
 11. Survival is achieved in spite of ignorance, doubts, and uncertainty. Ponder this statement of Jesus:
     
-    > "Ignorance alone can never prevent survival; neither can confusional doubts nor fearful uncertainty. Only conscious resistance to the Adjuster’s leading can prevent the survival of the evolving immortal soul." [(1206.3) 110:3.5](https://www.urantia.org/urantia-book-standardized/paper-110-relation-adjusters-individual-mortals#U110_3_5)
+    > "Ignorance alone can never prevent survival; neither can confusional doubts nor fearful uncertainty. Only conscious resistance to the Adjuster’s leading can prevent the survival of the evolving immortal soul." (1206.3) 110:3.5
     
 12. Two of the twelve apostles--the ambassadors of the kingdom--might not have been regarded as likely candidates for survival by some pessimistic critics.
     
-    > "These twins \[Alpheus\] could not comprehend the mind of Jesus, but they did grasp the sympathetic bond between themselves and the heart of their Master. Their minds were not of a high order; they might even reverently be called stupid, but they had a real experience in their spiritual natures. They believed in Jesus; they were sons of God and fellows of the kingdom." [(1563.7) 139:9.6](https://www.urantia.org/urantia-book-standardized/paper-139-twelve-apostles#U139_9_6) ... and they survived!
+    > "These twins \[Alpheus\] could not comprehend the mind of Jesus, but they did grasp the sympathetic bond between themselves and the heart of their Master. Their minds were not of a high order; they might even reverently be called stupid, but they had a real experience in their spiritual natures. They believed in Jesus; they were sons of God and fellows of the kingdom." (1563.7) 139:9.6 ... and they survived!
     
-    ... it is the nature of the Sons of God to give every created being a full and equal chance for salvation and survival. Jesus wanted not only the mortals of this world but the onlookers of innumerable other worlds to know that, when doubts exist as to the sincerity and wholeheartedness of a creature’s devotion to the kingdom, it is the invariable practice of the Judges of men fully to receive the doubtful candidate. The door of eternal life is wide open to all; “whosoever will may come”; there are no restrictions or qualifications save the faith of the one who comes. [(1566.6) 139:12.7](https://www.urantia.org/urantia-book-standardized/paper-139-twelve-apostles#U139_12_7)
+    ... it is the nature of the Sons of God to give every created being a full and equal chance for salvation and survival. Jesus wanted not only the mortals of this world but the onlookers of innumerable other worlds to know that, when doubts exist as to the sincerity and wholeheartedness of a creature’s devotion to the kingdom, it is the invariable practice of the Judges of men fully to receive the doubtful candidate. The door of eternal life is wide open to all; “whosoever will may come”; there are no restrictions or qualifications save the faith of the one who comes. (1566.6) 139:12.7
     
     And when all is said and done:
     
-    > "God the Father loves men; God the Son serves men; God the Spirit inspires the children of the universe to the ever-ascending adventure of finding God the Father by the ways ordained by God the Sons through the ministry of the grace of God the Spirit." [(53.6) 3:6.8](https://www.urantia.org/urantia-book-standardized/paper-3-attributes-god#U3_6_8)
+    > "God the Father loves men; God the Son serves men; God the Spirit inspires the children of the universe to the ever-ascending adventure of finding God the Father by the ways ordained by God the Sons through the ministry of the grace of God the Spirit." (53.6) 3:6.8
     
 
-## THE PRICE OF SURVIVAL
+## The Price of Survival
 
-1. [PROLOGUE](https://www.urantia.org/study/concerning-human-survival#I._PROLOGUE)
-2. [WILL THERE BE FEW OR MANY?](https://www.urantia.org/study/concerning-human-survival#II._WILL_THERE_BE_FEW_OR_MANY)
-3. [THE STRAIGHT AND NARROW WAY](https://www.urantia.org/study/concerning-human-survival#III_-_THE_STRAIGHT_AND_NARROW_WAY)
-4. [SACRIFICE VS. SERVICE](https://www.urantia.org/study/concerning-human-survival#IV._SACRIFICE_VS._SERVICE)
-5. [THE FATHER'S WILL](https://www.urantia.org/study/concerning-human-survival#V._THE_FATHERS_WILL)
-6. [IMMORTALITY IS THE DISTILLATION OF CIVILIZATION](https://www.urantia.org/study/concerning-human-survival#VI._IMMORTALITY...THE_DISTILLATE_OF_CIVILIZATION)
-7. [EPILOGUE - THE PRICE OF SURVIVAL](https://www.urantia.org/study/concerning-human-survival#VII._THE_PRICE_OF_SURVIVAL)
+Presented by M.H. (Bud) Kagan General Assembly at Pasadena January 10, 1960
 
-Presented by  
-M.H. (Bud) Kagan  
-General Assembly at Pasadena  
-January 10, 1960
-
-## I. PROLOGUE
+### I. Prologue
 
 For some time now, a small group of people has been able to peruse this big Blue Book. Some have gotten many hours of satisfying reading; some have ventured to make a new religion out of it, and some have used the information between its covers to edify their previous beliefs. In all cases, however, we have as many interpretations of the unique and unusual concepts of the Urantia Revelation as we have people associated with it. It shouldn't be strange to all of you, that people have a few tendencies to do certain things that will result in lack of unity of understanding of the same material. One reason for this may be:
 
@@ -169,7 +167,7 @@ It almost seems presumptuous to me that this wonderful adventure to serve God an
 4. How do I know the Father's will?
 5. What is the price of survival?
 
-## II. WILL THERE BE FEW OR MANY?
+### II. Will There Be Few or Many?
 
 In this topic we shall deal with a quantitative factor derived from qualitative values, and in doing so I must admit that I am working entirely in the dark. My information is derived from the papers and I am compiling it in a manner that is subject to my interpretation. I feel quite certain that not all of us will survive. How can I say this with such impunity. Well, I have this to offer, --IF the universe was completely mechanical, IF the Father did not bestow upon us absolute free will concerning survival choice, IF the world was completely free of sin, rebellion, and other miscarriages of divine plans, and IF all of us had living faith, then I could say, YES without a doubt all of us, absolutely all of us will make it. But I am sorry to relate that the IFs are nothing but an idealistic daydream, and the realities of the situation include, sin, faithlessness and rebellion on the part of the creatures and personalities in the finite, evolutionary realm of the universe. Because of this condition I can make my first statement that has a numerical value and that is the number of personalities that achieve survival status will be LESS THAN 100%.
 
@@ -201,7 +199,7 @@ It would seem that a Thought Adjuster who volunteers for a particular subject, a
 
 I have often wondered why Urantia was so fortunate in receiving this latest Revelation, The Urantia Papers. I also wonder why the topic of relating to the experiences in the next life are so vividly portrayed, could it be that, the Creators want to inspire us to try harder to accomplish survival? Might we not consider that Urantia's surviving population is not very well represented? Is it posible that the purpose of this big blue book is to save men's souls? I submit that it is difficult to survive, that few have made the journey, and the purpose of the Urantia Revelation is to save men's souls.
 
-## III - THE STRAIGHT AND NARROW WAY
+### III - The Straight and Narrow Way
 
 Jesus said the road to eternal life is a straight and narrow. What is the straight and narrow way??? Is our concept of sin and evil a universe reality or a Mosaic inheritance ? Are the ten commandments the laws of God, or the law of men? I submit the ten commandments are good rules for a civilized society, but i feel that they are really the laws of men. I cannot reconcile in my mind that the Universal Father as portrayed in the papers could devise such laws for men. I have learned from the papers that the cardinal sins are PROCRASTINATION, EQIVOCATION, PROBLEM AVOIDANCE and EASE-SEEKING. I feel as if would be impossible to be free of sin in our society, in or way of living, according to our laws and mores, if we accept the Mosaic law, as divine laws. some of the commandments seem to be more severe than others, at least the way we regard them. People do not feel that Sabbath breaking is really wrong in modern times, and very few people love their neighbors as themselves. Of the commandments that people seem to regard as real important are those that simulate the basic laws of society, for example the commandments of killing and adultery. I will attempt to water-down if you will, the importance of these two as to show the basic weakness in Mosaic law.
 
@@ -215,7 +213,7 @@ Remember what the young man who desired ordination as one of the 70 evangelists 
 
 The violation of taboo became a vice; primitive law made vice a crime and religion made it a sin. There are many ways of looking at a sin, but from the universal philosophic viewpoint, sin is the attitude of a personality who knowingly resists cosmic reality. Error might be regarded as a misconception or distortion of reality. Evil is a partial realization of, or maladjustment to, universal realities. But sin is a purposeful resistance to divine reality - a conscious choosing to oppose spiritual progress. Iniquity consists in a open and persistent defiance of recognized reality and signifies such a degree of personality disintegration as to border on cosmic insanity.
 
-## IV. SACRIFICE VS. SERVICE
+### IV. Sacrifice vs. Service
 
 I would like to draw upon the difference between service and sacrifice in a cosmic sense. Some of you might consider SACRIFICE a higher and more altruistic motive than service, but sacrifice is usually done once, or possibly twice in a lifetime, whereas SERVICE can become a commonplace and everyday routine way of living life. One can serve God all his life, even after death, but in a mortal lifetime you can sacrifice yourself only once, (for God) and I wonder how much impact this will have on the world and, in the final analysis, could one have done more by SERVING. It is true some of the early followers of Jesus gave up their lives unflinchingly for their belief in him and the Gospel, but how much more could they have done had they lived to spread the gospel further and, perhaps more the way Jesus taught them.
 
@@ -223,19 +221,19 @@ In wartime men can serve their country and sacrifice themselves for their countr
 
 SACRIFICE is as old as the Ghost Cults and the primitive religions, but SERVICE is something new. It was really demonstrated by Jesus; his life and his personal ministry. Service is analogous to altruism, and this could be analogous to real love. Jesus said, "Love one another and serve one another." This advice should be deeply considered as I feel it is one of the methods of accomplishing what is necessary to join the army of ascenders that live only for the service of the Gods.
 
-### THE SANCTITY OF SERVICE
+#### The Sanctity of Service
 
 "The privilege of service immediately follows the discovery of trustworthiness. Nothing can stand between you and opportunity for increased service except your own untrustworthiness, your lack of capacity for appreciation of the solemnity of trust.
 
 "Service--purposeful service, not slavery--is productive of the highest satisfaction and is expressive of the divinest dignity. Service--more service, increased service, difficult service, adventurous service, and at last divine and perfect service--is the goal of time and the destination of space. But ever will the play cycles of time alternate with the service cycles of progress. And after the service of time there follows the superservice of eternity. During the play of time you should envision the work of eternity, even as you will, during the service of eternity, reminisce the play of time."
 
-## V. THE FATHER'S WILL
+### V. The Father's Will
 
 Jesus' life in the flesh is certainly an example of what living the Father's will really is. Without a doubt the life of the Creator Son on Urantia is a life that would exemplify the life of the Father if he were to live as a mortal man. I wish I knew exactly what the Father's will really is. I have been quite confused by all the people who told me what this will is, but I have come to the conclusion that they are really telling me what their own will is, and not the Father's. It is a certainty that Jesus of Nazareth did not know the Father's will until he could freely communicate with his Adjuster. Even after that time he was quite uncertain about it. This is brought out when his Father's will was carried out unexpectedly, after consideration of some creative act. Consider the wedding at Cana, or the healing at sundown, Jesus was quite surprised that his Personalized Adjuster ruled the will of his Father. Jesus himself did not really know what that decision would be. (I am not certain whether the divine mind of Michael of Nebadon knew this will or not, but it is a fact that the human mind of the carpenter of Nazareth did not know the will of the Father regarding matters). It is also surprising that the Ancients of Days are not quite sure of the will of the Father. The fact that they must utilize reflective Seconaphim to be sure about the Father's will clearly points out that this is really a matter of doubt pretty far up the line of universe administration.
 
 The administration of the Universes seems to be in accordance with the level of the administrators, and this also can be correlated with the comprehension of Deity. I would like to point this out as the Ancients of Days are the master judges of a superuniverse, but not the Supreme Court, their verdicts can be overruled by the Seven Master Spirits, I would say that the Seven Mater Spirits are the lowest order of personalities who know the will of the Father in all respects. And then I would conjecture that all seven would have to be acting together to accomplish this. It is certain that the Conjoint Actor, (creator of the Seven Master Spirits) knows the Father's will, as well as the Eternal Son. Thought Adjusters know the Father's will, as they are in reality part of the Father, (fragments) and we know that Personalized Adjusters know the will of the Father.
 
-## VI. IMMORTALITY...THE DISTILLATE OF CIVILIZATION
+### VI. Immortality...The Distillate of Civilization
 
 If you have gone along on the topic this far, in that, you may possibly accept the fact that survival is most difficult, then we can try and search, and analyze the reasons for the high degree of selectivity that is employes in qualifying ascenders. We can with some degree of accuracy show the fallacy of our laws and mores, in that we claim them to be divine laws, and divine morals, it may also be reasonable to assume that the ideas we have on what it takes to be a qualified survivor may also be distorted - or tainted with human philosophy. The next topic-the price of survival-will discuss what may be necessary to survive, this topic will deal with what is desired, and why, to join the armies of heaven.
 
@@ -276,17 +274,17 @@ There is a gigantic task set before all creatures and creators in Universe Build
 
 Civilization is surely "forging out these strong, noble and experienced characters between the anvils of necessity and the hammers of anguish...those characters worthy of cosmic citizenship.
 
-## VII. THE PRICE OF SURVIVAL
+### VII. The Price of Survival
 
 To pass the test of time and win the ward of eternity...that is the question! The way to do this is not quite clear to me. I have accepted the thesis that survival is hard, difficult and challenging. I can restate some of the very pertinent quotations from the papers concerning survival. As to everyone's own individual status this must be settled in their own hearts, their problems must be resolved in their own minds, it is these personal attitudes that will eventually immortalize their own souls. (I do not believe one can save another's soul, this is up to the person himself). Soul saving may seem to be an honorable pasttime, but I will repeat my impression that the door to eternal life is narrow and may have a sign on it...this sign might say:
 
-> ENTRANCE TO ETERNITY
-> 
-> - No Trespassing
-> - No Loitering
-> - No Soliciting
-> - Panty-Waists Keep Out
-> - We Do Not Recognize Spoon-Fed Applicants
+ENTRANCE TO ETERNITY
+
+- No Trespassing
+- No Loitering
+- No Soliciting
+- Panty-Waists Keep Out
+- We Do Not Recognize Spoon-Fed Applicants
 
 I feel the difficulty of survival should not discourage those who really seek entrance through this door...
 
@@ -296,11 +294,11 @@ The truth of this discussion really is...Survival is Real, it is a reality, the 
 
 Therefore, everyone should work hard, and be stimulated towards this eventual goal.
 
-### ABILITY TO COMPREHEND IS THE MORTAL PASSPORT TO PARADISE!!!
+#### Ability to comprehend is the mortal passport to Paradise!!!
 
 This statement has much depth in its meaning, comprehension must be a qualification, or one of the qualifications for Paradise citizenship. Why is this? One must be able to comprehend the Universal Father, (recognize) before leaving the Central Universe in the inward ascent.
 
-### WILLINGNESS TO BELIEVE IS THE KEY TO HAVONA!!!
+#### Willingness to believe is the key to Havona!!!
 
 I interpret this statement to mean the following: Believing must be the antecedent to comprehension. If a mortal ascender has faith, (belief) he could possiblt make the Havona Universe even though he fell short in comprehension.
 
