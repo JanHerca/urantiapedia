@@ -8,6 +8,18 @@ editor: markdown
 dateCreated: 2022-11-28T14:02:03.086Z
 ---
 
+<figure class="table chapter-navigator">
+  <table>
+	<tbody>
+	  <tr>
+		<td><a href="/en/article/FAQ/About_Religion">About Religion</a></td>
+		<td><a href="/en/article/FAQ/Index">Index</a></td>
+		<td></td>
+	  </tr>
+	</tbody>
+  </table>
+</figure>
+
 ## Who Am I? What is Personality?
 
 **_Personality Is..._**
@@ -75,3 +87,17 @@ dateCreated: 2022-11-28T14:02:03.086Z
 **_Personality Survival_**
 
 > Eternal survival of personality is wholly dependent on the choosing of the mortal mind, whose decisions determine the survival potential of the immortal soul. When the mind believes God and the soul knows God, and when, with the fostering Adjuster, they all _desire_ God, then is survival assured. Limitations of intellect, curtailment of education, deprivation of culture, impoverishment of social status, even inferiority of the human standards of morality resulting from the unfortunate lack of educational, cultural, and social advantages, cannot invalidate the presence of the divine spirit in such unfortunate and humanly handicapped but believing individuals. [UB 5:5.13](/en/The_Urantia_Book/5#p5_13)
+
+<br>
+
+<figure class="table chapter-navigator">
+  <table>
+	<tbody>
+	  <tr>
+		<td><a href="/en/article/FAQ/About_Religion">About Religion</a></td>
+		<td><a href="/en/article/FAQ/Index">Index</a></td>
+		<td></td>
+	  </tr>
+	</tbody>
+  </table>
+</figure>

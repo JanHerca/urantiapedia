@@ -8,6 +8,18 @@ editor: markdown
 dateCreated: 2022-11-28T14:02:03.086Z
 ---
 
+<figure class="table chapter-navigator">
+  <table>
+	<tbody>
+	  <tr>
+		<td><a href="/en/article/FAQ/About_Science">About Science</a></td>
+		<td><a href="/en/article/FAQ/Index">Index</a></td>
+		<td><a href="/en/article/FAQ/About_Religion">About Religion</a></td>
+	  </tr>
+	</tbody>
+  </table>
+</figure>
+
 ## Who is God?
 
 _**The Universal Father - Loving Spirit Father To All**_
@@ -159,3 +171,17 @@ _**The Universal Father - Loving Spirit Father To All**_
 > When once you grasp the idea of God as a true and loving Father, the only concept which Jesus ever taught, you must forthwith, in all consistency, utterly abandon all those primitive notions about God as an offended monarch, a stern and all-powerful ruler whose chief delight is to detect his subjects in wrongdoing and to see that they are adequately punished, unless some being almost equal to himself should volunteer to suffer for them, to die as a substitute and in their stead. The whole idea of ransom and atonement is incompatible with the concept of God as it was taught and exemplified by Jesus of Nazareth. The infinite love of God is not secondary to anything in the divine nature. [UB 188:4.8](/en/The_Urantia_Book/188#p4_8)
 
 > "The kingdom of God is within you" was probably the greatest pronouncement Jesus ever made, next to the declaration that his Father is a living and loving spirit. [UB 195:10.4](/en/The_Urantia_Book/195#p10_4)
+
+<br>
+
+<figure class="table chapter-navigator">
+  <table>
+	<tbody>
+	  <tr>
+		<td><a href="/en/article/FAQ/About_Science">About Science</a></td>
+		<td><a href="/en/article/FAQ/Index">Index</a></td>
+		<td><a href="/en/article/FAQ/About_Religion">About Religion</a></td>
+	  </tr>
+	</tbody>
+  </table>
+</figure>

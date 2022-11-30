@@ -30,17 +30,17 @@ We have the testimony of the Creator Son--that the road to eternal life is strai
 
 But that is not exactly what Jesus said:
 
-> “You also have another saying among you, and one that contains much truth: That the way which leads to eternal life is straight and narrow, that the door which leads thereto is likewise narrow." (1828.7) 166:3.3
+> “You also have another saying among you, and one that contains much truth: That the way which leads to eternal life is straight and narrow, that the door which leads thereto is likewise narrow." [UB 166:3.3](/en/The_Urantia_Book/166#p3_3)
 
 Here Jesus is making use of a common saying for teaching purposes. While he did say that this folk saying contained much truth--he did not say that it was factual--he did not present it as an original and persona pronouncement.
 
-The Master utilizes this saying as illustrative material in his teaching, just as Peter made use of a then current story about the rich man and Lazarus. This story well illustrated certain things which Peter wished to impress upon his hearers, but it does not follow that the apostle meant to accept or endorse all the other theological implications which were to be found in this story. (1854.5) 169:3.0
+> The Master utilizes this saying as illustrative material in his teaching, just as Peter made use of a then current story about the rich man and Lazarus. This story well illustrated certain things which Peter wished to impress upon his hearers, but it does not follow that the apostle meant to accept or endorse all the other theological implications which were to be found in this story. [UB 169:3.0](/en/The_Urantia_Book/169#p3_0)
 
 Comparatively speaking, the path to survival may be "straight and narrow" but that does not in any way validate any mathematical computation as to the percentage of mortals who will survive.
 
 The door to survival may also be narrow, but since Jesus himself is that door, we may be assured that it is wide enough to admit every mortal who really wants to find God and be mustered into the Corps of the Finality.
 
-> "Every one who desires shall find entrance" (1829.2) 166:3.5
+> "Every one who desires shall find entrance" [UB 166:3.5](/en/The_Urantia_Book/166#p3_5)
 
 ### 2. Assumption No. 2.
 
@@ -62,7 +62,7 @@ The conclusion that one-sixth of the world's population is "faithless, slothful,
 
 In this connection, it might be well to recall a passage on Page 63 of _The Urantia Book_. It reads:
 
-> "If such a human mind is sincerely and spiritually motivated, if such a human soul desires to know God and become like him, honestly wants to do the Father’s will, there exists no negative influence of mortal deprivation nor positive power of possible interference which can prevent such a divinely motivated soul from securely ascending to the portals of Paradise." (63.5) 5:1.7
+> "If such a human mind is sincerely and spiritually motivated, if such a human soul desires to know God and become like him, honestly wants to do the Father’s will, there exists no negative influence of mortal deprivation nor positive power of possible interference which can prevent such a divinely motivated soul from securely ascending to the portals of Paradise." [UB 5:1.7](/en/The_Urantia_Book/5#p1_7)
 
 ### 5. Assumption No. 5.
 
@@ -70,7 +70,7 @@ The assumption that one-third of the present day human race does not want to sur
 
 But, in this connection we might well ponder the encouragement found on Pages 69 and 70 of _The Urantia Book_:
 
-> "When the mind believes God and the soul knows God, and when, with the fostering Adjuster, they all desire God, then is survival assured. Limitations of intellect, curtailment of education, deprivation of culture, impoverishment of social status, even inferiority of the human standards of morality resulting from the unfortunate lack of educational, cultural, and social advantages, cannot invalidate the presence of the divine spirit in such unfortunate and humanly handicapped but believing individuals. The indwelling of the Mystery Monitor constitutes the inception and insures the possibility of the potential of growth and survival of the immortal soul." (69.8) 5:5.13
+> "When the mind believes God and the soul knows God, and when, with the fostering Adjuster, they all desire God, then is survival assured. Limitations of intellect, curtailment of education, deprivation of culture, impoverishment of social status, even inferiority of the human standards of morality resulting from the unfortunate lack of educational, cultural, and social advantages, cannot invalidate the presence of the divine spirit in such unfortunate and humanly handicapped but believing individuals. The indwelling of the Mystery Monitor constitutes the inception and insures the possibility of the potential of growth and survival of the immortal soul." [UB 5:5.13](/en/The_Urantia_Book/5#p5_13)
 
 ### 6. Assumption No. 6.
 
@@ -91,11 +91,11 @@ It would be unsafe to generalize about mortal survival throughout the grand univ
     
 3. The juridical attitude of Deity. On Page 41, we read:
     
-    > "Divine righteousness is not dominated by strict retributive justice; God as a father transcends God as a judge." (41.4) 2:6.6
+    > "Divine righteousness is not dominated by strict retributive justice; God as a father transcends God as a judge." [UB 2:6.6](/en/The_Urantia_Book/2#p6_6)
     
     After all, we should remember that sin is conscious--knowing--wrong-doing. Let us ponder what Jesus said on Page 1947:
     
-    > “If we had not taught them the truth, they might do many strange things without falling under condemnation, but now, since they have known the light and presumed to reject it, they have no excuse for their attitude." (1947.1) 180:3.2
+    > “If we had not taught them the truth, they might do many strange things without falling under condemnation, but now, since they have known the light and presumed to reject it, they have no excuse for their attitude." [UB 180:3.2](/en/The_Urantia_Book/180#p3_2)
     
     It seems that we are to be finally judged in accordance with our enlightenment. We are not held accountable for the things we do not know.
     
@@ -105,7 +105,7 @@ It would be unsafe to generalize about mortal survival throughout the grand univ
     
 6. It should be enough for us to know that:
     
-    > "There is in the mind of God a plan which embraces every creature of all his vast domains, and this plan is an eternal purpose of boundless opportunity, unlimited progress, and endless life." (365.3) 32:5.7
+    > "There is in the mind of God a plan which embraces every creature of all his vast domains, and this plan is an eternal purpose of boundless opportunity, unlimited progress, and endless life." [UB 32:5.7](/en/The_Urantia_Book/32#p5_7)
     
 7. And this same passage goes on to say:
     
@@ -113,31 +113,31 @@ It would be unsafe to generalize about mortal survival throughout the grand univ
     
 8. Let us pay special attention to this passage from Page 447:
     
-    > "As to the chances of mortal survival, let it be made forever clear: All souls of every possible phase of mortal existence will survive provided they manifest willingness to co-operate with their indwelling Adjusters and exhibit a desire to find God and to attain divine perfection, even though these desires be but the first faint flickers of the primitive comprehension of that “true light which lights every man who comes into the world.” (447.4) 40:5.19
+    > "As to the chances of mortal survival, let it be made forever clear: All souls of every possible phase of mortal existence will survive provided they manifest willingness to co-operate with their indwelling Adjusters and exhibit a desire to find God and to attain divine perfection, even though these desires be but the first faint flickers of the primitive comprehension of that “true light which lights every man who comes into the world.” [UB 40:5.19](/en/The_Urantia_Book/40#p5_19)
     
 9. Note the consideration that the universe judges give to mortals of doubtful survival qualities. Ponder this from Page 1233:
     
-    > "If ever there is doubt as to the advisability of advancing a human identity to the mansion worlds, the universe governments invariably rule in the personal interests of that individual; they unhesitatingly advance such a soul to the status of a transitional being, while they continue their observations of the emerging morontia intent and spiritual purpose...This does not mean that human beings are to enjoy a second opportunity in the face of the rejection of a first, not at all. But it does signify that all will creatures are to experience one true opportunity to make one undoubted, self-conscious, and final choice. (1233.3) 112:5.7
+    > "If ever there is doubt as to the advisability of advancing a human identity to the mansion worlds, the universe governments invariably rule in the personal interests of that individual; they unhesitatingly advance such a soul to the status of a transitional being, while they continue their observations of the emerging morontia intent and spiritual purpose...This does not mean that human beings are to enjoy a second opportunity in the face of the rejection of a first, not at all. But it does signify that all will creatures are to experience one true opportunity to make one undoubted, self-conscious, and final choice. [UB 112:5.7](/en/The_Urantia_Book/112#p5_7)
     
 10. Let us take another look at the "narrow door" to the kingdom. Note these two passages:
     
-    > "Even if the door to the way of life is narrow, it is wide enough to admit all who sincerely seek to enter, for I am that door. And the Son will never refuse entrance to any child of the universe who, by faith, seeks to find the Father through the Son." (1828.7) 166:3.3
-    > 
-    > "And I declare to all of you that the Father has opened the doors of the heavenly kingdom to all who have the faith to enter, and no man or association of men can close those doors even to the most humble soul or supposedly most flagrant sinner on earth if such sincerely seek an entrance.” (1652.3) 147:5.6
+    > "Even if the door to the way of life is narrow, it is wide enough to admit all who sincerely seek to enter, for I am that door. And the Son will never refuse entrance to any child of the universe who, by faith, seeks to find the Father through the Son." [UB 166:3.3](/en/The_Urantia_Book/166#p3_3)
+    
+    > "And I declare to all of you that the Father has opened the doors of the heavenly kingdom to all who have the faith to enter, and no man or association of men can close those doors even to the most humble soul or supposedly most flagrant sinner on earth if such sincerely seek an entrance.” [UB 147:5.6](/en/The_Urantia_Book/147#p5_6)
     
 11. Survival is achieved in spite of ignorance, doubts, and uncertainty. Ponder this statement of Jesus:
     
-    > "Ignorance alone can never prevent survival; neither can confusional doubts nor fearful uncertainty. Only conscious resistance to the Adjuster’s leading can prevent the survival of the evolving immortal soul." (1206.3) 110:3.5
+    > "Ignorance alone can never prevent survival; neither can confusional doubts nor fearful uncertainty. Only conscious resistance to the Adjuster’s leading can prevent the survival of the evolving immortal soul." [UB 110:3.5](/en/The_Urantia_Book/110#p3_5)
     
 12. Two of the twelve apostles--the ambassadors of the kingdom--might not have been regarded as likely candidates for survival by some pessimistic critics.
     
-    > "These twins \[Alpheus\] could not comprehend the mind of Jesus, but they did grasp the sympathetic bond between themselves and the heart of their Master. Their minds were not of a high order; they might even reverently be called stupid, but they had a real experience in their spiritual natures. They believed in Jesus; they were sons of God and fellows of the kingdom." (1563.7) 139:9.6 ... and they survived!
+    > "These twins \[Alpheus\] could not comprehend the mind of Jesus, but they did grasp the sympathetic bond between themselves and the heart of their Master. Their minds were not of a high order; they might even reverently be called stupid, but they had a real experience in their spiritual natures. They believed in Jesus; they were sons of God and fellows of the kingdom." [UB 139:9.6](/en/The_Urantia_Book/139#p9_6) ... and they survived!
     
-    ... it is the nature of the Sons of God to give every created being a full and equal chance for salvation and survival. Jesus wanted not only the mortals of this world but the onlookers of innumerable other worlds to know that, when doubts exist as to the sincerity and wholeheartedness of a creature’s devotion to the kingdom, it is the invariable practice of the Judges of men fully to receive the doubtful candidate. The door of eternal life is wide open to all; “whosoever will may come”; there are no restrictions or qualifications save the faith of the one who comes. (1566.6) 139:12.7
+    ... it is the nature of the Sons of God to give every created being a full and equal chance for salvation and survival. Jesus wanted not only the mortals of this world but the onlookers of innumerable other worlds to know that, when doubts exist as to the sincerity and wholeheartedness of a creature’s devotion to the kingdom, it is the invariable practice of the Judges of men fully to receive the doubtful candidate. The door of eternal life is wide open to all; “whosoever will may come”; there are no restrictions or qualifications save the faith of the one who comes. [UB 139:12.7](/en/The_Urantia_Book/139#p12_7)
     
     And when all is said and done:
     
-    > "God the Father loves men; God the Son serves men; God the Spirit inspires the children of the universe to the ever-ascending adventure of finding God the Father by the ways ordained by God the Sons through the ministry of the grace of God the Spirit." (53.6) 3:6.8
+    > "God the Father loves men; God the Son serves men; God the Spirit inspires the children of the universe to the ever-ascending adventure of finding God the Father by the ways ordained by God the Sons through the ministry of the grace of God the Spirit." [UB 3:6.8](/en/The_Urantia_Book/3#p6_8)
     
 
 ## The Price of Survival
@@ -183,11 +183,11 @@ In dealing with our number 1 which is equal to the world population, or 1 is equ
 
 Consider the following equation:
 
-> S=1/2 Where: S = survivors and x=2/3 assumed
-> 
-> or
-> 
-> 2/3 x 100% divided by 2 = 33 1/3
+S=1/2 Where: S = survivors and x=2/3 assumed
+
+or
+
+2/3 x 100% divided by 2 = 33 1/3
 
 According to my computations based on the assumptions I have made, the maximum number of mortals that have a chance at eternal life is around thirty-three percent. I feel my figures are very optimistic. Let me back up my assumptions with knowledge from the papers.
 

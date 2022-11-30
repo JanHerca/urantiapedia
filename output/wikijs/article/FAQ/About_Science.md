@@ -7,6 +7,19 @@ tags: study aid
 editor: markdown
 dateCreated: 2022-11-28T14:02:03.086Z
 ---
+
+<figure class="table chapter-navigator">
+  <table>
+	<tbody>
+	  <tr>
+		<td><a href="/en/article/FAQ/About_Philosophy">About Philosophy</a></td>
+		<td><a href="/en/article/FAQ/Index">Index</a></td>
+		<td><a href="/en/article/FAQ/About_God">About God</a></td>
+	  </tr>
+	</tbody>
+  </table>
+</figure>
+
 ## What is Cosmology?
 
 **_Material Science and Cosmology_**
@@ -121,3 +134,17 @@ Be not discouraged; human evolution is still in progress, and the revelation of 
 
 Organic evolution is a fact; purposive or progressive evolution is a truth which makes consistent the otherwise contradictory phenomena of the ever-ascending achievements of evolution. The higher any scientist progresses in his chosen science, the more will he abandon the theories of materialistic fact in favor of the cosmic truth of the dominance of the Supreme Mind. Materialism cheapens human life; the gospel of Jesus tremendously enhances and supernally exalts every mortal. Mortal existence must be visualized as consisting in the intriguing and fascinating experience of the realization of the reality of the meeting of the human upreach and the divine and saving downreach. [UB 102:6.10](/en/The_Urantia_Book/102#p6_10)
 
+
+<br>
+
+<figure class="table chapter-navigator">
+  <table>
+	<tbody>
+	  <tr>
+		<td><a href="/en/article/FAQ/About_Philosophy">About Philosophy</a></td>
+		<td><a href="/en/article/FAQ/Index">Index</a></td>
+		<td><a href="/en/article/FAQ/About_God">About God</a></td>
+	  </tr>
+	</tbody>
+  </table>
+</figure>

@@ -8,6 +8,18 @@ editor: markdown
 dateCreated: 2022-11-28T14:02:03.086Z
 ---
 
+<figure class="table chapter-navigator">
+  <table>
+	<tbody>
+	  <tr>
+		<td><a href="/en/article/FAQ/About_Jesus">About Jesus</a></td>
+		<td><a href="/en/article/FAQ/Index">Index</a></td>
+		<td><a href="/en/article/FAQ/About_Philosophy">About Philosophy</a></td>
+	  </tr>
+	</tbody>
+  </table>
+</figure>
+
 ## What is The Urantia Book?
 
 _The Urantia Book_ is a revelation of truth for our world from higher beings in the universe. Its teachings blend science, philosophy, history, cosmology and religion seamlessly into a big picture revealing our origin, our purpose, and our divine and eternal destiny, “the agelong process from animal to angel, from angel to spirit, from spirit to God.” _The Urantia Book_, [UB 48:8.4](/en/The_Urantia_Book/48#p8_4)
@@ -37,3 +49,18 @@ In addition, Urantia Foundation publishes a range of study aids, including an e
 ## Other Services to Readers
 
 The Foundation promotes the study of _The Urantia Book_ and its teachings by encouraging readers to form or participate in study groups, social organiza­tions, and other networks that enable them to pursue spiritual, philosophic, or social ideals that the authors proclaim. The Foundation also promotes study of the teachings by sponsoring the Urantia Book Internet School.
+
+
+<br>
+
+<figure class="table chapter-navigator">
+  <table>
+	<tbody>
+	  <tr>
+		<td><a href="/en/article/FAQ/About_Jesus">About Jesus</a></td>
+		<td><a href="/en/article/FAQ/Index">Index</a></td>
+		<td><a href="/en/article/FAQ/About_Philosophy">About Philosophy</a></td>
+	  </tr>
+	</tbody>
+  </table>
+</figure>

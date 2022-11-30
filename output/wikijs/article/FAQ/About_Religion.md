@@ -8,6 +8,17 @@ editor: markdown
 dateCreated: 2022-11-28T14:02:03.086Z
 ---
 
+<figure class="table chapter-navigator">
+  <table>
+	<tbody>
+	  <tr>
+		<td><a href="/en/article/FAQ/About_God">About God</a></td>
+		<td><a href="/en/article/FAQ/Index">Index</a></td>
+		<td><a href="/en/article/FAQ/About_Personality">About Personality</a></td>
+	  </tr>
+	</tbody>
+  </table>
+</figure>
 
 ## What about Sin and Evil?
 
@@ -124,3 +135,16 @@ Worship is the highest joy of Paradise existence; it is the refreshing play of P
 
 One of the great troubles with modern life is that man thinks he is too busy to find time for spiritual meditation and religious devotion. [UB 195:6.7](/en/The_Urantia_Book/195#p6_7)
 
+<br>
+
+<figure class="table chapter-navigator">
+  <table>
+	<tbody>
+	  <tr>
+		<td><a href="/en/article/FAQ/About_God">About God</a></td>
+		<td><a href="/en/article/FAQ/Index">Index</a></td>
+		<td><a href="/en/article/FAQ/About_Personality">About Personality</a></td>
+	  </tr>
+	</tbody>
+  </table>
+</figure>

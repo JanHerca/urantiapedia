@@ -8,6 +8,18 @@ editor: markdown
 dateCreated: 2022-11-28T14:02:03.086Z
 ---
 
+<figure class="table chapter-navigator">
+  <table>
+	<tbody>
+	  <tr>
+		<td><a href="/en/article/FAQ/About_The_Urantia_Book">About The Urantia Book</a></td>
+		<td><a href="/en/article/FAQ/Index">Index</a></td>
+		<td><a href="/en/article/FAQ/About_Science">About Science</a></td>
+	  </tr>
+	</tbody>
+  </table>
+</figure>
+
 
 ## What is the Soul?
 
@@ -190,3 +202,17 @@ Evolutionary mind is only fully stable and dependable when manifesting itself up
 
 _Mind_ is a phenomenon connoting the presence-activity of _living ministry_ in addition to varied energy systems; and this is true on all levels of intelligence. In personality, mind ever intervenes between spirit and matter; therefore is the universe illuminated by three kinds of light: material light, intellectual insight, and spirit luminosity. [UB 0:6.8](/en/The_Urantia_Book/0#p6_8)
 
+
+<br>
+
+<figure class="table chapter-navigator">
+  <table>
+	<tbody>
+	  <tr>
+		<td><a href="/en/article/FAQ/About_The_Urantia_Book">About The Urantia Book</a></td>
+		<td><a href="/en/article/FAQ/Index">Index</a></td>
+		<td><a href="/en/article/FAQ/About_Science">About Science</a></td>
+	  </tr>
+	</tbody>
+  </table>
+</figure>
