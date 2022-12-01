@@ -12,15 +12,14 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Fuentes: Ver [Referencias](#referencias)
 
-| Estado                  | Título                                                                                                                          | Autor             | Etiquetas                                                                           |
+| Revisado                | Título                                                                                                                          | Autor             | Etiquetas                                                                           |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ----------------------------------------------------------------------------------- |
 | :ballot_box_with_check: | [Cómo es de grande Orvonton](/es/article/How_big_is_Orvonton)                                                                   | Norm Du Val       | Astronomy, Cosmology                                                                |
 | :ballot_box_with_check: | [Predicciones científicas de _El Libro de Urantia_](/es/article/Irwin_Ginsburgh/Scientific_Predictions_of_The_Urantia_Book) ^1^ | Irwin Ginsburgh   | The Urantia Book, Astronomy, Cosmology, Biology and Genetics, Anthropology, Physics |
 | :ballot_box_with_check: | [Carta para astrónomos y astrofísicos – 2016](/es/article/A_Letter_to_Astronomers_and_Astrophysicists)                          |                   | Astronomy, Cosmology                                                                |
 | :ballot_box_with_check: | [Historia del Movimiento Urantia](/en/article/William_S_Sadler/A_History_of_the_Urantia_Movement)                               | William S. Sadler | The Urantia Book, The Urantia Book—Authorship                                       |
 
-1- Este artículo es una actualización de 2017 del artículo original publicado en
-Fellowship Herald, Vol 2. No. 1 y 2
+1- Este artículo es una actualización de 2017 del artículo original publicado en Fellowship Herald, Vol 2. No. 1 y 2
 
 ## Innerface International
 
@@ -28,8 +27,8 @@ Fuente: https://urantia-book.org/archive/newsletters/innerface/index.html
 
 ### Volumen 1
 
-| Estado                  | Fuente    | Ejemplar        | Título                                                                                                                                                 | Autor                      | Etiquetas                                            |
-| ----------------------- | --------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- | ---------------------------------------------------- |
+| Revisado                | Fuente    | Ejemplar            | Título                                                                                                                                                 | Autor                      | Etiquetas                                            |
+| ----------------------- | --------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- | ---------------------------------------------------- |
 | :ballot_box_with_check: | Innerface | Vol. 01, <br>No. 1. | [¿Tiempo de cambio?](/es/article/Ken_Glasziou/A_Time_for_Change)                                                                                       | Ken Glasziou               | Religion, Revelation                                 |
 | :ballot_box_with_check: | Innerface | Vol. 01, <br>No. 1. | [Percepciones](/es/article/Everett_Sloffer/Insights)                                                                                                   | Everett Sloffer            | Religion                                             |
 | :ballot_box_with_check: | Innerface | Vol. 01, <br>No. 1. | [¿Quieres que tus hijos te quieran? Jesús tiene un modo](/es/article/Ann_Bendall/Do_You_Want_Your_Children_to_Like_You)                                | Ann Bendall                | Family, Jesus, Jesus life, Psychology, Sociology     |
@@ -82,8 +81,8 @@ Fuente: https://urantia-book.org/archive/newsletters/innerface/index.html
 
 ### Volumen 2
 
-| Estado                  | Fuente    | Ejemplar        | Título                                                                                                                    | Autor                | Etiquetas                                                                                  |
-| ----------------------- | --------- | --------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------ |
+| Revisado                | Fuente    | Ejemplar            | Título                                                                                                                    | Autor                | Etiquetas                                                                                  |
+| ----------------------- | --------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------ |
 | :white_square_button:   | Innerface | Vol. 02, <br>No. 1  | "On the Revelatory Status of The Urantia Book."                                                                           | Ken Glasziou         | Cosmology, Revelation, The Urantia Book, The Urantia Book—Purpose, The Urantia Book—Errors |
 | :white_square_button:   | Innerface | Vol. 02, <br>No. 1. | "Beethovan's Song of Joy."                                                                                                | Ann Bendall          | Art                                                                                        |
 | :white_square_button:   | Innerface | Vol. 02, <br>No. 1. | "Human Brain versus the Computer."                                                                                        | Ken Glasziou         | Morality                                                                                   |
@@ -138,8 +137,8 @@ Fuente: https://urantia-book.org/archive/newsletters/innerface/index.html
 
 ### Volumen 3
 
-| Estado                  | Fuente    | Ejemplar        | Título                                                                                                                                        | Autor             | Etiquetas                                                                |
-| ----------------------- | --------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------ |
+| Revisado                | Fuente    | Ejemplar            | Título                                                                                                                                        | Autor             | Etiquetas                                                                |
+| ----------------------- | --------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------ |
 | :white_square_button:   | Innerface | Vol. 03, <br>No. 1. | "Editorial: Martin Gardner's "Urantia, The Great Cult Mystery."                                                                               | Ken Glasziou      | The Urantia Book                                                         |
 | :white_square_button:   | Innerface | Vol. 03, <br>No. 1. | "Gardner Goofs Again—and Again."                                                                                                              | Ken Glasziou      | Gardner                                                                  |
 | :white_square_button:   | Innerface | Vol. 03, <br>No. 1. | "Martin Gardner's The Great Cult Mystery" a review                                                                                            | Dick Bain         | The Urantia Book                                                         |
@@ -189,8 +188,8 @@ Fuente: https://urantia-book.org/archive/newsletters/innerface/index.html
 
 ### Volumen 4
 
-| Estado                | Fuente    | Ejemplar        | Título                                                                         | Autor             | Etiquetas                                                                 |
-| --------------------- | --------- | --------------- | ------------------------------------------------------------------------------ | ----------------- | ------------------------------------------------------------------------- |
+| Revisado              | Fuente    | Ejemplar            | Título                                                                         | Autor             | Etiquetas                                                                 |
+| --------------------- | --------- | ------------------- | ------------------------------------------------------------------------------ | ----------------- | ------------------------------------------------------------------------- |
 | :white_square_button: | Innerface | Vol. 04, <br>No. 1. | "Convergence—The Science Content of The Urantia Book"                          | Ken Glasziou      | Gardner, Physics                                                          |
 | :white_square_button: | Innerface | Vol. 04, <br>No. 1. | "Faith Sons of God." from The Urantia Book                                     |                   | God, Thought Adjusters                                                    |
 | :white_square_button: | Innerface | Vol. 04, <br>No. 1. | "Reflections on the Dangers of Presumption"                                    | Ann Bendall       | God, Jesus, Jesus teachings                                               |
@@ -239,8 +238,8 @@ Fuente: https://urantia-book.org/archive/newsletters/innerface/index.html
 
 ### Volumen 5
 
-| Estado                  | Fuente    | Ejemplar        | Título                                                                                          | Autor              | Etiquetas                                                           |
-| ----------------------- | --------- | --------------- | ----------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------- |
+| Revisado                | Fuente    | Ejemplar            | Título                                                                                          | Autor              | Etiquetas                                                           |
+| ----------------------- | --------- | ------------------- | ----------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------- |
 | :white_square_button:   | Innerface | Vol. 05, <br>No. 1. | "Dare to be God-like." Report on Australian Readers' Conference                                 |                    | Morality                                                            |
 | :white_square_button:   | Innerface | Vol. 05, <br>No. 1. | "Favorite Places. Forbid him not." from The Urantia Book                                        |                    | Morality                                                            |
 | :white_square_button:   | Innerface | Vol. 05, <br>No. 1. | "Listening to your Dreams."                                                                     | Dick Bain          | The Urantia Book                                                    |
@@ -314,8 +313,8 @@ Fuente: https://urantia-book.org/archive/newsletters/innerface/index.html
 
 ### Volumen 6
 
-| Estado                | Fuente    | Ejemplar        | Título                                                                       | Autor             | Etiquetas                                                     |
-| --------------------- | --------- | --------------- | ---------------------------------------------------------------------------- | ----------------- | ------------------------------------------------------------- |
+| Revisado              | Fuente    | Ejemplar            | Título                                                                       | Autor             | Etiquetas                                                     |
+| --------------------- | --------- | ------------------- | ---------------------------------------------------------------------------- | ----------------- | ------------------------------------------------------------- |
 | :white_square_button: | Innerface | Vol. 06, <br>No. 1. | "Colliding Black Holes and the Urantia Papers                                |                   | Astronomy                                                     |
 | :white_square_button: | Innerface | Vol. 06, <br>No. 1. | "Cosmic Reflections. Brahma Breathes."                                       | Dick Bain         | Cosmology                                                     |
 | :white_square_button: | Innerface | Vol. 06, <br>No. 1. | "Goose Bumps."                                                               | author unknown    | Morality                                                      |
@@ -375,8 +374,8 @@ Fuente: https://urantia-book.org/archive/newsletters/innerface/index.html
 
 ### Volumen 7
 
-| Estado                | Fuente    | Ejemplar        | Título                                                                                  | Autor         | Etiquetas                                                                             |
-| --------------------- | --------- | --------------- | --------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------- |
+| Revisado              | Fuente    | Ejemplar            | Título                                                                                  | Autor         | Etiquetas                                                                             |
+| --------------------- | --------- | ------------------- | --------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------- |
 | :white_square_button: | Innerface | Vol. 07, <br>No. 1. | "Are the Urantia Papers the divine word of God"                                         | Ken Glasziou  | Revelation, Theology                                                                  |
 | :white_square_button: | Innerface | Vol. 07, <br>No. 1. | "Is there Certainty?"                                                                   | Ken Glasziou  | Purpose                                                                               |
 | :white_square_button: | Innerface | Vol. 07, <br>No. 1. | "Mind and Consciousness. Modern theory and the Urantia Papers. A Story of Convergence." | Ken Glasziou. | Jesus, Jesus teachings                                                                |
@@ -434,8 +433,8 @@ Fuente: https://urantia-book.org/archive/newsletters/innerface/index.html
 
 ### Volumen 8
 
-| Estado                  | Fuente    | Ejemplar        | Título                                                                                          | Autor           | Etiquetas                                                       |
-| ----------------------- | --------- | --------------- | ----------------------------------------------------------------------------------------------- | --------------- | --------------------------------------------------------------- |
+| Revisado                | Fuente    | Ejemplar            | Título                                                                                          | Autor           | Etiquetas                                                       |
+| ----------------------- | --------- | ------------------- | ----------------------------------------------------------------------------------------------- | --------------- | --------------------------------------------------------------- |
 | :white_square_button:   | Innerface | Vol. 08, <br>No. 3. | "As Jesus Passed By." from the Urantia Papers                                                   |                 | Jesus, Jesus teachings                                          |
 | :white_square_button:   | Innerface | Vol. 08, <br>No. 1. | "Do Urantians have a Special Task with Christianity" from the Urantia Papers                    |                 | Church, Religion                                                |
 | :white_square_button:   | Innerface | Vol. 08, <br>No. 1. | "No Morality, No Nothing" from the Urantia Papers                                               |                 | Purpose, Morality                                               |
@@ -492,24 +491,24 @@ Fuente: https://urantia-book.org/archive/newsletters/innerface/index.html
 
 ### Volumen 9
 
-| Estado                | Fuente    | Ejemplar        | Título                                                                           | Autor       | Etiquetas                                                           |
-| --------------------- | --------- | --------------- | -------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------- |
+| Revisado              | Fuente    | Ejemplar            | Título                                                                           | Autor       | Etiquetas                                                           |
+| --------------------- | --------- | ------------------- | -------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------- |
 | :white_square_button: | Innerface | Vol. 09, <br>No. 1. | "About the Universal Father."                                                    |             | God                                                                 |
-| :white_square_button: | Innerface | Vol. 09, <br>No. 1. | "All things work together for good—despite."                                     |             |
+| :white_square_button: | Innerface | Vol. 09, <br>No. 1. | "All things work together for good—despite."                                     |             |                                                                     |
 | :white_square_button: | Innerface | Vol. 09, <br>No. 1. | "Christianity's Needs and Problems."                                             |             | Church                                                              |
 | :white_square_button: | Innerface | Vol. 09, <br>No. 1. | "Obligations to religionists—the Christian Churches and other Religions."        |             | Religion                                                            |
-| :white_square_button: | Innerface | Vol. 09, <br>No. 1. | "Obligations to religionists."                                                   |             |
+| :white_square_button: | Innerface | Vol. 09, <br>No. 1. | "Obligations to religionists."                                                   |             |                                                                     |
 | :white_square_button: | Innerface | Vol. 09, <br>No. 1. | "Obligations to the Christian Churches and other Religions."                     |             | Church                                                              |
-| :white_square_button: | Innerface | Vol. 09, <br>No. 1. | "On Faith."                                                                      |             |
-| :white_square_button: | Innerface | Vol. 09, <br>No. 1. | "On Free Will."                                                                  |             |
+| :white_square_button: | Innerface | Vol. 09, <br>No. 1. | "On Faith."                                                                      |             |                                                                     |
+| :white_square_button: | Innerface | Vol. 09, <br>No. 1. | "On Free Will."                                                                  |             |                                                                     |
 | :white_square_button: | Innerface | Vol. 09, <br>No. 1. | "On Personality."                                                                |             | God                                                                 |
-| :white_square_button: | Innerface | Vol. 09, <br>No. 1. | "On Truth."                                                                      |             |
+| :white_square_button: | Innerface | Vol. 09, <br>No. 1. | "On Truth."                                                                      |             |                                                                     |
 | :white_square_button: | Innerface | Vol. 09, <br>No. 1. | "On doing God's will."                                                           |             | God                                                                 |
 | :white_square_button: | Innerface | Vol. 09, <br>No. 1. | "On the will of God."                                                            |             | God                                                                 |
 | :white_square_button: | Innerface | Vol. 09, <br>No. 1. | "Personality of the Universal Father, in the Universe, and its Spiritual Value." |             | Personality                                                         |
 | :white_square_button: | Innerface | Vol. 09, <br>No. 1. | "Revelation, and it's Limitations."                                              |             | Revelation                                                          |
-| :white_square_button: | Innerface | Vol. 09, <br>No. 1. | "What does 'good' mean?"                                                         |             |
-| :white_square_button: | Innerface | Vol. 09, <br>No. 1. | "What is expected of Urantia Book Readers?"                                      |             |
+| :white_square_button: | Innerface | Vol. 09, <br>No. 1. | "What does 'good' mean?"                                                         |             |                                                                     |
+| :white_square_button: | Innerface | Vol. 09, <br>No. 1. | "What is expected of Urantia Book Readers?"                                      |             |                                                                     |
 | :white_square_button: | Innerface | Vol. 09, <br>No. 2. | "About the Universal Father."                                                    |             | God, The Urantia Book—Purpose                                       |
 | :white_square_button: | Innerface | Vol. 09, <br>No. 2. | "Choice of the Sadlers."                                                         |             | History, The Urantia Book—Purpose                                   |
 | :white_square_button: | Innerface | Vol. 09, <br>No. 2. | "On Implementing the Teachings."                                                 |             | The Urantia Book—Purpose                                            |
@@ -560,8 +559,8 @@ Fuente: https://urantia-book.org/archive/newsletters/innerface/index.html
 
 ### Volumen 10
 
-| Estado                | Fuente    | Ejemplar        | Título                                                   | Autor | Etiquetas                                                                                 |
-| --------------------- | --------- | --------------- | -------------------------------------------------------- | ----- | ----------------------------------------------------------------------------------------- |
+| Revisado              | Fuente    | Ejemplar            | Título                                                   | Autor | Etiquetas                                                                                 |
+| --------------------- | --------- | ------------------- | -------------------------------------------------------- | ----- | ----------------------------------------------------------------------------------------- |
 | :white_square_button: | Innerface | Vol. 10, <br>No. 1. | "God—the Universal Father."                              |       | God, Morality, The Urantia Book                                                           |
 | :white_square_button: | Innerface | Vol. 10, <br>No. 1. | "Imagine"                                                |       | God, Psychology                                                                           |
 | :white_square_button: | Innerface | Vol. 10, <br>No. 1. | "Is God a Mathematician?"                                |       | God, Theology                                                                             |
@@ -588,135 +587,135 @@ Fuente: https://urantia-book.org/archive/newsletters/innerface/index.html
 
 ### Volumen 11
 
-| Status                | Source    | Issue            | Title                                                                                    | Author    | Tags |
-| --------------------- | --------- | ---------------- | ---------------------------------------------------------------------------------------- | --------- | ---- |
-| :white_square_button: | Innerface | Vol.11, <br>No.1 | The Spirituality Content of the Urantia Papers                                           |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.2 | The Spirituality Content of the Urantia Papers II                                        |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.3 | Prophetic material and errors in Urantia revelation                                      |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.3 | The Urantia Papers—What should our expectations be?                                      |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.3 | Why is there both Error and Prophecy in the Urantia Revelation?                          |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.3 | Prophetic materials from the Urantia Papers                                              |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.3 | What fuels our Sun and other Stars?                                                      |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.3 | Neutrinos, Neutrons, and Neutron Stars                                                   |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.3 | Renewal of the Search for the Neutron Star                                               |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.3 | Quantum Stuff, Basic Physics                                                             |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.3 | Cooking up a Universe                                                                    |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.3 | Antigravity is Back                                                                      |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.3 | Colliding Black Holes and the Urantia Papers                                             |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.3 | Continental Drift                                                                        |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.3 | Continental Drift 2                                                                      |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.3 | Continental Drift 3—Secondary Effects                                                    |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.3 | Radiometric chemistry Age of the Earth                                                   |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.4 | Error in the Urantia Papers—Life on Urantia                                              |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.4 | Human Life—Andon and Fonta                                                               |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.4 | 48 Chromosomes? Or Jumping to Conclusions!                                               |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.4 | 100 stable elements                                                                      |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.4 | How far to Andromeda                                                                     | Dick Bain |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.4 | A Galaxy Too Far?                                                                        |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.4 | Prove it to yourself for yourself                                                        |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.4 | The Ridiculous—Passenger Birds and Secondary Midwayers                                   |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.4 | Miscellaneous erroneous material summarized                                              |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.5 | The Challenge                                                                            |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.5 | Materialism, Idealism, and the Urantia Revelation                                        |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.5 | Beyond Space, beyond any Thing                                                           |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.5 | Delayed choice equals “necromancy?”                                                      |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.5 | Hidden variables and non-locality                                                        |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.5 | Non-locality—its supreme importance                                                      |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.5 | Decisions—who or what makes them?                                                        |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.5 | Reconciling Realism and Idealism                                                         |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.5 | What says the Urantia Revelation?                                                        |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.5 | Quantum Theory and the Observer                                                          |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.5 | In Search of the Quantum Mind                                                            |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.5 | What does the Urantia revelation say about our minds and our contact with “non-locality” |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.5 | From the Urantia Revelation                                                              |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.5 | What does it all Mean?                                                                   |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.5 | The Earth-Moon System                                                                    |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.6 | Our Challenge                                                                            |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.6 | The Indwelling Presence of God                                                           |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.6 | The Golden Rule                                                                          |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.6 | On the Philosophy of Philosophy                                                          |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.6 | Faith and Belief                                                                         |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.6 | Universal Spiritual Religion                                                             |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.6 | Love—a Necessity for the Fulfilment of Mankind                                           |           |      |
-| :white_square_button: | Innerface | Vol.11, <br>No.6 | Our Chores                                                                               |           |      |
+| Revisado              | Source    | Issue            | Title                                                                                    | Author    | Etiquetas |
+| --------------------- | --------- | ---------------- | ---------------------------------------------------------------------------------------- | --------- | --------- |
+| :white_square_button: | Innerface | Vol.11, <br>No.1 | The Spirituality Content of the Urantia Papers                                           |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.2 | The Spirituality Content of the Urantia Papers II                                        |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.3 | Prophetic material and errors in Urantia revelation                                      |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.3 | The Urantia Papers—What should our expectations be?                                      |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.3 | Why is there both Error and Prophecy in the Urantia Revelation?                          |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.3 | Prophetic materials from the Urantia Papers                                              |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.3 | What fuels our Sun and other Stars?                                                      |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.3 | Neutrinos, Neutrons, and Neutron Stars                                                   |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.3 | Renewal of the Search for the Neutron Star                                               |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.3 | Quantum Stuff, Basic Physics                                                             |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.3 | Cooking up a Universe                                                                    |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.3 | Antigravity is Back                                                                      |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.3 | Colliding Black Holes and the Urantia Papers                                             |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.3 | Continental Drift                                                                        |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.3 | Continental Drift 2                                                                      |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.3 | Continental Drift 3—Secondary Effects                                                    |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.3 | Radiometric chemistry Age of the Earth                                                   |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.4 | Error in the Urantia Papers—Life on Urantia                                              |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.4 | Human Life—Andon and Fonta                                                               |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.4 | 48 Chromosomes? Or Jumping to Conclusions!                                               |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.4 | 100 stable elements                                                                      |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.4 | How far to Andromeda                                                                     | Dick Bain |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.4 | A Galaxy Too Far?                                                                        |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.4 | Prove it to yourself for yourself                                                        |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.4 | The Ridiculous—Passenger Birds and Secondary Midwayers                                   |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.4 | Miscellaneous erroneous material summarized                                              |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.5 | The Challenge                                                                            |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.5 | Materialism, Idealism, and the Urantia Revelation                                        |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.5 | Beyond Space, beyond any Thing                                                           |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.5 | Delayed choice equals “necromancy?”                                                      |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.5 | Hidden variables and non-locality                                                        |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.5 | Non-locality—its supreme importance                                                      |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.5 | Decisions—who or what makes them?                                                        |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.5 | Reconciling Realism and Idealism                                                         |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.5 | What says the Urantia Revelation?                                                        |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.5 | Quantum Theory and the Observer                                                          |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.5 | In Search of the Quantum Mind                                                            |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.5 | What does the Urantia revelation say about our minds and our contact with “non-locality” |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.5 | From the Urantia Revelation                                                              |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.5 | What does it all Mean?                                                                   |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.5 | The Earth-Moon System                                                                    |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.6 | Our Challenge                                                                            |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.6 | The Indwelling Presence of God                                                           |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.6 | The Golden Rule                                                                          |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.6 | On the Philosophy of Philosophy                                                          |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.6 | Faith and Belief                                                                         |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.6 | Universal Spiritual Religion                                                             |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.6 | Love—a Necessity for the Fulfilment of Mankind                                           |           |           |
+| :white_square_button: | Innerface | Vol.11, <br>No.6 | Our Chores                                                                               |           |           |
 
 ### Volumen 12
 
-| Status                | Source    | Issue            | Title                                                                                                    | Author       | Tags |
-| --------------------- | --------- | ---------------- | -------------------------------------------------------------------------------------------------------- | ------------ | ---- |
-| :white_square_button: | Innerface | Vol.12, <br>No.1 | Personality, Identity, Mind, and Consciousness, in the Urantia Revelation                                |              |      |
-| :white_square_button: | Innerface | Vol.12, <br>No.1 | Identity and Personality                                                                                 |              |      |
-| :white_square_button: | Innerface | Vol.12, <br>No.1 | Urantia Personality                                                                                      |              |      |
-| :white_square_button: | Innerface | Vol.12, <br>No.1 | Life as Process                                                                                          |              |      |
-| :white_square_button: | Innerface | Vol.12, <br>No.1 | The Self                                                                                                 |              |      |
-| :white_square_button: | Innerface | Vol.12, <br>No.1 | The Reality of Human Consciousness                                                                       |              |      |
-| :white_square_button: | Innerface | Vol.12, <br>No.1 | The Soul of Man                                                                                          |              |      |
-| :white_square_button: | Innerface | Vol.12, <br>No.1 | Can Universes and Life Self-generate from Nothingness?                                                   |              |      |
-| :white_square_button: | Innerface | Vol.12, <br>No.1 | Creation of the Universe. Did God participate?                                                           |              |      |
-| :white_square_button: | Innerface | Vol.12, <br>No.1 | Communing with God—from the Urantia Revelation                                                           |              |      |
-| :white_square_button: | Innerface | Vol.12, <br>No.2 | Secrets of Jesus Spirituality                                                                            |              |      |
-| :white_square_button: | Innerface | Vol.12, <br>No.2 | Did Jesus really need to be crucified?                                                                   |              |      |
-| :white_square_button: | Innerface | Vol.12, <br>No.2 | What the Urantia Revelation says about the Spirit of Truth                                               |              |      |
-| :white_square_button: | Innerface | Vol.12, <br>No.2 | The relative role of miracles, resurrection, and forgiveness of sins in the rapid spread of Christianity |              |      |
-| :white_square_button: | Innerface | Vol.12, <br>No.2 | The Uniqueness of Jesus                                                                                  |              |      |
-| :white_square_button: | Innerface | Vol.12, <br>No.3 | “As Jesus Passed By”                                                                                     |              |      |
-| :white_square_button: | Innerface | Vol.12, <br>No.3 | Creationism, Evolution, and The Urantia Book]                                                            | Dick Bain    |      |
-| :white_square_button: | Innerface | Vol.12, <br>No.3 | Zircons and Earth-Moon Relations                                                                         |              |      |
-| :white_square_button: | Innerface | Vol.12, <br>No.3 | Why is it necessary for there to be error in The Urantia Book?                                           | Ken Glasziou |      |
-| :white_square_button: | Innerface | Vol.12, <br>No.3 | Are The Urantia Book's teachings impacting on Christian Theology? Jesus—a New Vision                     | Dick Bain    |      |
-| :white_square_button: | Innerface | Vol.12, <br>No.4 | Prayer                                                                                                   |              |      |
-| :white_square_button: | Innerface | Vol.12, <br>No.5 | Are The Urantia Book's teachings impacting on Christian Theology? Jesus—a New Vision. Part II            |              |      |
-| :white_square_button: | Innerface | Vol.12, <br>No.6 | The Historical Jesus—Who was He?                                                                         |              |      |
-| :white_square_button: | Innerface | Vol.12, <br>No.6 | Reliability of New Testament Sources                                                                     |              |      |
-| :white_square_button: | Innerface | Vol.12, <br>No.6 | The Effects of the Gospel Records                                                                        |              |      |
-| :white_square_button: | Innerface | Vol.12, <br>No.6 | The Early Years of Jesus                                                                                 |              |      |
-| :white_square_button: | Innerface | Vol.12, <br>No.6 | What was the Gospel of Jesus?                                                                            |              |      |
+| Revisado              | Source    | Issue            | Title                                                                                                    | Author       | Etiquetas |
+| --------------------- | --------- | ---------------- | -------------------------------------------------------------------------------------------------------- | ------------ | --------- |
+| :white_square_button: | Innerface | Vol.12, <br>No.1 | Personality, Identity, Mind, and Consciousness, in the Urantia Revelation                                |              |           |
+| :white_square_button: | Innerface | Vol.12, <br>No.1 | Identity and Personality                                                                                 |              |           |
+| :white_square_button: | Innerface | Vol.12, <br>No.1 | Urantia Personality                                                                                      |              |           |
+| :white_square_button: | Innerface | Vol.12, <br>No.1 | Life as Process                                                                                          |              |           |
+| :white_square_button: | Innerface | Vol.12, <br>No.1 | The Self                                                                                                 |              |           |
+| :white_square_button: | Innerface | Vol.12, <br>No.1 | The Reality of Human Consciousness                                                                       |              |           |
+| :white_square_button: | Innerface | Vol.12, <br>No.1 | The Soul of Man                                                                                          |              |           |
+| :white_square_button: | Innerface | Vol.12, <br>No.1 | Can Universes and Life Self-generate from Nothingness?                                                   |              |           |
+| :white_square_button: | Innerface | Vol.12, <br>No.1 | Creation of the Universe. Did God participate?                                                           |              |           |
+| :white_square_button: | Innerface | Vol.12, <br>No.1 | Communing with God—from the Urantia Revelation                                                           |              |           |
+| :white_square_button: | Innerface | Vol.12, <br>No.2 | Secrets of Jesus Spirituality                                                                            |              |           |
+| :white_square_button: | Innerface | Vol.12, <br>No.2 | Did Jesus really need to be crucified?                                                                   |              |           |
+| :white_square_button: | Innerface | Vol.12, <br>No.2 | What the Urantia Revelation says about the Spirit of Truth                                               |              |           |
+| :white_square_button: | Innerface | Vol.12, <br>No.2 | The relative role of miracles, resurrection, and forgiveness of sins in the rapid spread of Christianity |              |           |
+| :white_square_button: | Innerface | Vol.12, <br>No.2 | The Uniqueness of Jesus                                                                                  |              |           |
+| :white_square_button: | Innerface | Vol.12, <br>No.3 | “As Jesus Passed By”                                                                                     |              |           |
+| :white_square_button: | Innerface | Vol.12, <br>No.3 | Creationism, Evolution, and The Urantia Book]                                                            | Dick Bain    |           |
+| :white_square_button: | Innerface | Vol.12, <br>No.3 | Zircons and Earth-Moon Relations                                                                         |              |           |
+| :white_square_button: | Innerface | Vol.12, <br>No.3 | Why is it necessary for there to be error in The Urantia Book?                                           | Ken Glasziou |           |
+| :white_square_button: | Innerface | Vol.12, <br>No.3 | Are The Urantia Book's teachings impacting on Christian Theology? Jesus—a New Vision                     | Dick Bain    |           |
+| :white_square_button: | Innerface | Vol.12, <br>No.4 | Prayer                                                                                                   |              |           |
+| :white_square_button: | Innerface | Vol.12, <br>No.5 | Are The Urantia Book's teachings impacting on Christian Theology? Jesus—a New Vision. Part II            |              |           |
+| :white_square_button: | Innerface | Vol.12, <br>No.6 | The Historical Jesus—Who was He?                                                                         |              |           |
+| :white_square_button: | Innerface | Vol.12, <br>No.6 | Reliability of New Testament Sources                                                                     |              |           |
+| :white_square_button: | Innerface | Vol.12, <br>No.6 | The Effects of the Gospel Records                                                                        |              |           |
+| :white_square_button: | Innerface | Vol.12, <br>No.6 | The Early Years of Jesus                                                                                 |              |           |
+| :white_square_button: | Innerface | Vol.12, <br>No.6 | What was the Gospel of Jesus?                                                                            |              |           |
 
 ## Urantian Journal
 
 Fuente: https://urantia-book.org/archive/newsletters/urantian_journal/
 
-| Estado                | Fuente           | Ejemplar | Título                                                               | Autor                 | Etiquetas |
+| Revisado              | Fuente           | Ejemplar | Título                                                               | Autor                 | Etiquetas |
 | --------------------- | ---------------- | -------- | -------------------------------------------------------------------- | --------------------- | --------- |
 | :white_square_button: | Urantian Journal |          | "A philosophy of brotherhood",                                       | Stan and Ruth Hartman |           |
-| :white_square_button: | Urantian Journal |          | "Actualizing the Supreme in Your Life"                               | Rosey Lieske          |
-| :white_square_button: | Urantian Journal |          | "An Infinite Universe with Limits"                                   | Fr. Robert Schuer     |
-| :white_square_button: | Urantian Journal |          | "How do Science and Technology Contribute to Growth?"                | James Johnston        |
-| :white_square_button: | Urantian Journal |          | "Meditations"                                                        | Ethel Zanoni          |
-| :white_square_button: | Urantian Journal |          | "Romanticism and Reality"                                            | Henry Begemann        |
-| :white_square_button: | Urantian Journal |          | "Second-Guessing the Spiritual Renaissance"                          | David Glass           |
-| :white_square_button: | Urantian Journal |          | "The Quality of our Interface"                                       | Sally Schlundt        |
-| :white_square_button: | Urantian Journal |          | "The Revelation of Man"                                              | Jim McNelly           |
-| :white_square_button: | Urantian Journal |          | "Thoughts on the Dissemination of the Teachings of The Urantia Book" | Ron Louie             |
+| :white_square_button: | Urantian Journal |          | "Actualizing the Supreme in Your Life"                               | Rosey Lieske          |           |
+| :white_square_button: | Urantian Journal |          | "An Infinite Universe with Limits"                                   | Fr. Robert Schuer     |           |
+| :white_square_button: | Urantian Journal |          | "How do Science and Technology Contribute to Growth?"                | James Johnston        |           |
+| :white_square_button: | Urantian Journal |          | "Meditations"                                                        | Ethel Zanoni          |           |
+| :white_square_button: | Urantian Journal |          | "Romanticism and Reality"                                            | Henry Begemann        |           |
+| :white_square_button: | Urantian Journal |          | "Second-Guessing the Spiritual Renaissance"                          | David Glass           |           |
+| :white_square_button: | Urantian Journal |          | "The Quality of our Interface"                                       | Sally Schlundt        |           |
+| :white_square_button: | Urantian Journal |          | "The Revelation of Man"                                              | Jim McNelly           |           |
+| :white_square_button: | Urantian Journal |          | "Thoughts on the Dissemination of the Teachings of The Urantia Book" | Ron Louie             |           |
 | :white_square_button: | Urantian Journal |          | "Worship"                                                            | C. L. Van Sant        | Worship   |
 
 ## Fellowship Journal
 
-| Estado                | Fuente             | Ejemplar                 | Título                                                                     | Autor                   | Etiquetas |
+| Revisado              | Fuente             | Ejemplar                 | Título                                                                     | Autor                   | Etiquetas |
 | --------------------- | ------------------ | ------------------------ | -------------------------------------------------------------------------- | ----------------------- | --------- |
-| :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "A Faith Adventure",                                                       | Meredith J. Sprunger    |
-| :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "Arise, Take Up Your Life and Walk" Sermon                                 | Rev. Craig T. McClellan |
-| :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "Empowering the Church",                                                   | Isabelle Masel          |
-| :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "Hymns in Worship",                                                        | Jack Rogers             |
-| :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "Interface: Does it Preach?"                                               | Merlyn Cox              |
-| :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "Latent Mainline Potential",                                               | Meredith J. Sprunger    |
-| :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "Media and Values",                                                        | Byron Belitsos          |
-| :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "Significant Books: No Other Name?"                                        | Paul F. Knitter         |
-| :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "The Church: A Statement of Purpose and Belief",                           | Everett W. Sloffer      |
-| :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "The Mathematics of Love",                                                 | Charles E. Hansen       |
-| :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "The Urantia Book and Modern Science: Harmony or Discord?",                | Dick Bain               |
-| :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "The Urantia Book and Religious Studies",                                  | Meredith J. Sprunger    |
-| :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "The Urantia Book and Spiritual Renewal: The Christianization of a Pastor" |
-| :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91   | "A New Revelation? Who Needs It?"                                          |                         |
-| :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91   | "Clergy Evaluate The Urantia Book"                                         |                         |
-| :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91   | "Confirming a Spiritual Pilgrimage"                                        |                         |
-| :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91   | "How The Urantia Book Can Contribute to the Church"                        | Helena E. Sprague       |
-| :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91   | "Mainline Destiny"                                                         |                         |
-| :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91   | "Science, Religion, and The Urantia Book"                                  | Kenneth T. Glasziou     |
-| :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91   | "The Unique Function of Religion"                                          |                         |
-| :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91   | "The Urantia Book as a Sermon Resource"                                    | Duane L. Faw            |
-| :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91   | "Throwing the Spiritual Baby Out With the Sexist Bathwater"                |                         |
-| :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91   | "Tuning the Inner and Outer Life"                                          |                         |
+| :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "A Faith Adventure",                                                       | Meredith J. Sprunger    |           |
+| :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "Arise, Take Up Your Life and Walk" Sermon                                 | Rev. Craig T. McClellan |           |
+| :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "Empowering the Church",                                                   | Isabelle Masel          |           |
+| :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "Hymns in Worship",                                                        | Jack Rogers             |           |
+| :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "Interface: Does it Preach?"                                               | Merlyn Cox              |           |
+| :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "Latent Mainline Potential",                                               | Meredith J. Sprunger    |           |
+| :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "Media and Values",                                                        | Byron Belitsos          |           |
+| :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "Significant Books: No Other Name?"                                        | Paul F. Knitter         |           |
+| :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "The Church: A Statement of Purpose and Belief",                           | Everett W. Sloffer      |           |
+| :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "The Mathematics of Love",                                                 | Charles E. Hansen       |           |
+| :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "The Urantia Book and Modern Science: Harmony or Discord?",                | Dick Bain               |           |
+| :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "The Urantia Book and Religious Studies",                                  | Meredith J. Sprunger    |           |
+| :white_square_button: | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "The Urantia Book and Spiritual Renewal: The Christianization of a Pastor" |                         |           |
+| :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91   | "A New Revelation? Who Needs It?"                                          |                         |           |
+| :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91   | "Clergy Evaluate The Urantia Book"                                         |                         |           |
+| :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91   | "Confirming a Spiritual Pilgrimage"                                        |                         |           |
+| :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91   | "How The Urantia Book Can Contribute to the Church"                        | Helena E. Sprague       |           |
+| :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91   | "Mainline Destiny"                                                         |                         |           |
+| :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91   | "Science, Religion, and The Urantia Book"                                  | Kenneth T. Glasziou     |           |
+| :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91   | "The Unique Function of Religion"                                          |                         |           |
+| :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91   | "The Urantia Book as a Sermon Resource"                                    | Duane L. Faw            |           |
+| :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91   | "Throwing the Spiritual Baby Out With the Sexist Bathwater"                |                         |           |
+| :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91   | "Tuning the Inner and Outer Life"                                          |                         |           |
 
 ## Fellowship Herald
 
@@ -727,336 +726,337 @@ Fuente:
 
 ### Volumen 1
 
-| Estado                  | Fuente | Ejemplar       | Título                                                                                                                              | Autor                                                                | Etiquetas                              |
-| ----------------------- | ------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------- |
-| :white_square_button:   | Herald | Vol. 01, No. 1 | "On the Brink of the Most Amazing and Enthralling Epoch"                                                                            | Carolyn Kendall                                                      |
-| :white_square_button:   | Herald | Vol. 01, No. 1 | "Let Your Soul Decide"                                                                                                              | Richard S. Omura                                                     |
-| :white_square_button:   | Herald | Vol. 01, No. 1 | "The Urantia Papers From a Jewish Perspective"                                                                                      | Martin Greenhut                                                      |
-| :white_square_button:   | Herald | Vol. 01, No. 1 | "The Concepts of Trust and Hope in _The Urantia Book_"                                                                              | Marilyn Kulieke                                                      |
-| :white_square_button:   | Herald | Vol. 01, No. 1 | "48 Chromosomes - Are We Asking the Right Questions?"                                                                               | Ken Glasziou                                                         |
-| :white_square_button:   | Herald | Vol. 01, No. 2 | "The Challenge of the 21st Century"                                                                                                 | Meredith Sprunger                                                    |
-| :white_square_button:   | Herald | Vol. 01, No. 2 | "On Facing Millennial Change"                                                                                                       | Byron Belitsos                                                       |
-| :white_square_button:   | Herald | Vol. 01, No. 2 | "Magisterial Missions"                                                                                                              | Behzad Sarmast                                                       |
-| :white_square_button:   | Herald | Vol. 01, No. 2 | "Springtime: A Study of the Future"                                                                                                 | Henry Begemann                                                       |
-| :white_square_button:   | Herald | Vol. 01, No. 2 | "Whither Goest Thou, Woman?"                                                                                                        | Jeanne Melchior                                                      |
-| :white_square_button:   | Herald | Vol. 01, No. 2 | "The Seven Psychic Circles"                                                                                                         | Linda Buselli                                                        |
-| :white_square_button:   | Herald | Vol. 01, No. 2 | "On Removing The Barrier To A Civilized Discussion Of Eugenics"                                                                     | Stephen                                                              |
-| :white_square_button:   | Herald | Vol. 01, No. 2 | "The Basket - A Poem"                                                                                                               | Charlene Morrow                                                      |
+| Revisado              | Fuente | Ejemplar       | Título                                                          | Autor             | Etiquetas |
+| --------------------- | ------ | -------------- | --------------------------------------------------------------- | ----------------- | --------- |
+| :white_square_button: | Herald | Vol. 01, No. 1 | "On the Brink of the Most Amazing and Enthralling Epoch"        | Carolyn Kendall   |           |
+| :white_square_button: | Herald | Vol. 01, No. 1 | "Let Your Soul Decide"                                          | Richard S. Omura  |           |
+| :white_square_button: | Herald | Vol. 01, No. 1 | "The Urantia Papers From a Jewish Perspective"                  | Martin Greenhut   |           |
+| :white_square_button: | Herald | Vol. 01, No. 1 | "The Concepts of Trust and Hope in _The Urantia Book_"          | Marilyn Kulieke   |           |
+| :white_square_button: | Herald | Vol. 01, No. 1 | "48 Chromosomes - Are We Asking the Right Questions?"           | Ken Glasziou      |           |
+| :white_square_button: | Herald | Vol. 01, No. 2 | "The Challenge of the 21st Century"                             | Meredith Sprunger |           |
+| :white_square_button: | Herald | Vol. 01, No. 2 | "On Facing Millennial Change"                                   | Byron Belitsos    |           |
+| :white_square_button: | Herald | Vol. 01, No. 2 | "Magisterial Missions"                                          | Behzad Sarmast    |           |
+| :white_square_button: | Herald | Vol. 01, No. 2 | "Springtime: A Study of the Future"                             | Henry Begemann    |           |
+| :white_square_button: | Herald | Vol. 01, No. 2 | "Whither Goest Thou, Woman?"                                    | Jeanne Melchior   |           |
+| :white_square_button: | Herald | Vol. 01, No. 2 | "The Seven Psychic Circles"                                     | Linda Buselli     |           |
+| :white_square_button: | Herald | Vol. 01, No. 2 | "On Removing The Barrier To A Civilized Discussion Of Eugenics" | Stephen           |           |
+| :white_square_button: | Herald | Vol. 01, No. 2 | "The Basket - A Poem"                                           | Charlene Morrow   |           |
 
 ### Volumen 2
 
-| Estado                  | Fuente | Ejemplar       | Título                                                                                                                              | Autor                                                                | Etiquetas                              |
-| ----------------------- | ------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------- |
-| :white_square_button:   | Herald | Vol. 02, No. 1 | "The Family: Birthplace of Cosmic Citizens"                                                                                         | Paul Snider                                                          |
-| :ballot_box_with_check: | Herald | Vol. 02, No. 1 | [Dos cosmologías — La astronomía y El Libro de Urantia](/es/article/Irwin_Ginsburgh/Two_Cosmologies_Astronomy_and_The_Urantia_Book) | Irwin Ginsburgh                                                      | The Urantia Book, Astronomy, Cosmology |
-| :white_square_button:   | Herald | Vol. 02, No. 1 | "Reflections on cosmic citizenship"                                                                                                 | Stephen Dreier                                                       |
-| :white_square_button:   | Herald | Vol. 02, No. 1 | "The Dual Nature of Supremacy"                                                                                                      | Linda Buselli                                                        |
-| :white_square_button:   | Herald | Vol. 02, No. 2 | "Thinking About Tomorrow"                                                                                                           | Carolyn Kendall                                                      |
-| :white_square_button:   | Herald | Vol. 02, No. 2 | "Restated in Modern Phraseology"                                                                                                    | David Elders                                                         |
-| :white_square_button:   | Herald | Vol. 02, No. 2 | "Scientific Predictions of _The Urantia Book_ - Part II"                                                                            | Irwin Ginsburgh                                                      |
-| :white_square_button:   | Herald | Vol. 02, No. 2 | "'I Will Tell Them A Story'"                                                                                                        | Stephen Zendt                                                        |
-| :white_square_button:   | Herald | Vol. 02, No. 2 | "The Science of Parenting"                                                                                                          | Sara Blackstock                                                      |
-| :white_square_button:   | Herald | Vol. 02, No. 2 | "The Ethics of Genetic Control and Social Engineering"                                                                              | Charles Laurence Olivea                                              |
-| :white_square_button:   | Herald | Vol. 02, No. 2 | "The Intellectual Role of _The Urantia Book_"                                                                                       | Stephen                                                              |
+| Revisado                | Fuente | Ejemplar       | Título                                                                                                                              | Autor                   | Etiquetas                              |
+| ----------------------- | ------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | -------------------------------------- |
+| :white_square_button:   | Herald | Vol. 02, No. 1 | "The Family: Birthplace of Cosmic Citizens"                                                                                         | Paul Snider             |                                        |
+| :ballot_box_with_check: | Herald | Vol. 02, No. 1 | [Dos cosmologías — La astronomía y El Libro de Urantia](/es/article/Irwin_Ginsburgh/Two_Cosmologies_Astronomy_and_The_Urantia_Book) | Irwin Ginsburgh         | The Urantia Book, Astronomy, Cosmology |
+| :white_square_button:   | Herald | Vol. 02, No. 1 | "Reflections on cosmic citizenship"                                                                                                 | Stephen Dreier          |                                        |
+| :white_square_button:   | Herald | Vol. 02, No. 1 | "The Dual Nature of Supremacy"                                                                                                      | Linda Buselli           |                                        |
+| :white_square_button:   | Herald | Vol. 02, No. 2 | "Thinking About Tomorrow"                                                                                                           | Carolyn Kendall         |                                        |
+| :white_square_button:   | Herald | Vol. 02, No. 2 | "Restated in Modern Phraseology"                                                                                                    | David Elders            |                                        |
+| :white_square_button:   | Herald | Vol. 02, No. 2 | "Scientific Predictions of _The Urantia Book_ - Part II"                                                                            | Irwin Ginsburgh         |                                        |
+| :white_square_button:   | Herald | Vol. 02, No. 2 | "'I Will Tell Them A Story'"                                                                                                        | Stephen Zendt           |                                        |
+| :white_square_button:   | Herald | Vol. 02, No. 2 | "The Science of Parenting"                                                                                                          | Sara Blackstock         |                                        |
+| :white_square_button:   | Herald | Vol. 02, No. 2 | "The Ethics of Genetic Control and Social Engineering"                                                                              | Charles Laurence Olivea |                                        |
+| :white_square_button:   | Herald | Vol. 02, No. 2 | "The Intellectual Role of _The Urantia Book_"                                                                                       | Stephen                 |                                        |
 
 ### Volumen 3
 
-| Estado                  | Fuente | Ejemplar       | Título                                                                                                                              | Autor                                                                | Etiquetas                              |
-| ----------------------- | ------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------- |
-| :white_square_button:   | Herald | Vol. 03, No. 1 | "A Source Study Of 'Instruction For Teachers And Believers'"                                                                        | Matthew Block                                                        |
-| :white_square_button:   | Herald | Vol. 03, No. 1 | "Show Us A Miracle!"                                                                                                                | B. Sarmast                                                           |
-| :white_square_button:   | Herald | Vol. 03, No. 1 | "Universal Religion: An Interfaith Presentation"                                                                                    | Les Jamieson                                                         |
-| :white_square_button:   | Herald | Vol. 03, No. 1 | "Ethical Eugenics: A Modest Proposal For The 21st Century"                                                                          | Charles Montgomery                                                   |
+| Revisado              | Fuente | Ejemplar       | Título                                                       | Autor              | Etiquetas |
+| --------------------- | ------ | -------------- | ------------------------------------------------------------ | ------------------ | --------- |
+| :white_square_button: | Herald | Vol. 03, No. 1 | "A Source Study Of 'Instruction For Teachers And Believers'" | Matthew Block      |           |
+| :white_square_button: | Herald | Vol. 03, No. 1 | "Show Us A Miracle!"                                         | B. Sarmast         |           |
+| :white_square_button: | Herald | Vol. 03, No. 1 | "Universal Religion: An Interfaith Presentation"             | Les Jamieson       |           |
+| :white_square_button: | Herald | Vol. 03, No. 1 | "Ethical Eugenics: A Modest Proposal For The 21st Century"   | Charles Montgomery |           |
 
 ### Volumen 4
 
-| Estado                  | Fuente | Ejemplar       | Título                                                                                                                              | Autor                                                                | Etiquetas                              |
-| ----------------------- | ------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------- |
-| :white_square_button:   | Herald | Vol. 04, No. 1 | "Reflections on the Urantia Movement in 2002"                                                                                       | Philip Calabrese                                                     |
-| :white_square_button:   | Herald | Vol. 04, No. 1 | "Centering — A Method of Divine Embrace"                                                                                            | Marvin Gawryn                                                        |
-| :white_square_button:   | Herald | Vol. 04, No. 1 | "Reflections on the Urantia Movement in 2002"                                                                                       | Philip Calabrese                                                     |
-| :white_square_button:   | Herald | Vol. 04, No. 1 | "Centering                                                                                                                          | A Method of Divine Embrace"                                          | Marvin Gawryn                          |
-| :white_square_button:   | Herald | Vol. 04, No. 1 | "Eugenics and The Urantia Book: Another Perspective"                                                                                | Paul Premsagar                                                       |
-| :white_square_button:   | Herald | Vol. 04, No. 1 | "Revelatory Mouthpiecing"                                                                                                           | Finlan                                                               |
-| :white_square_button:   | Herald | Vol. 04, No. 1 | "Faith Wiring in the Brain"                                                                                                         | Sara Blackstock                                                      |
-| :white_square_button:   | Herald | Vol. 04, No. 1 | "In Search of the Error So Great"                                                                                                   | Nancy Johnson                                                        |
-| :white_square_button:   | Herald | Vol. 04, No. 1 | "Jesus' Miracles and the Father's Will"                                                                                             | Ron Besser                                                           |
-| :white_square_button:   | Herald | Vol. 04, No. 1 | "Not What We Give, But What We Share"                                                                                               | James Lowell                                                         |
-| :white_square_button:   | Herald | Vol. 04, No. 1 | "A Demystification and Redefinition of Cult"                                                                                        | Alison Gardner                                                       |
-| :white_square_button:   | Herald | Vol. 04, No. 1 | "Religious Practice and the Urantia Revelation"                                                                                     | Byron Belitsos                                                       |
-| :white_square_button:   | Herald | Vol. 04, No. 1 | "The Gift of Tolerance"                                                                                                             | Karen Larson                                                         |
+| Revisado              | Fuente | Ejemplar       | Título                                               | Autor            | Etiquetas |
+| --------------------- | ------ | -------------- | ---------------------------------------------------- | ---------------- | --------- |
+| :white_square_button: | Herald | Vol. 04, No. 1 | "Reflections on the Urantia Movement in 2002"        | Philip Calabrese |           |
+| :white_square_button: | Herald | Vol. 04, No. 1 | "Centering — A Method of Divine Embrace"             | Marvin Gawryn    |           |
+| :white_square_button: | Herald | Vol. 04, No. 1 | "Reflections on the Urantia Movement in 2002"        | Philip Calabrese |           |
+| :white_square_button: | Herald | Vol. 04, No. 1 | "Eugenics and The Urantia Book: Another Perspective" | Paul Premsagar   |           |
+| :white_square_button: | Herald | Vol. 04, No. 1 | "Revelatory Mouthpiecing"                            | Finlan           |           |
+| :white_square_button: | Herald | Vol. 04, No. 1 | "Faith Wiring in the Brain"                          | Sara Blackstock  |           |
+| :white_square_button: | Herald | Vol. 04, No. 1 | "In Search of the Error So Great"                    | Nancy Johnson    |           |
+| :white_square_button: | Herald | Vol. 04, No. 1 | "Jesus' Miracles and the Father's Will"              | Ron Besser       |           |
+| :white_square_button: | Herald | Vol. 04, No. 1 | "Not What We Give, But What We Share"                | James Lowell     |           |
+| :white_square_button: | Herald | Vol. 04, No. 1 | "A Demystification and Redefinition of Cult"         | Alison Gardner   |           |
+| :white_square_button: | Herald | Vol. 04, No. 1 | "Religious Practice and the Urantia Revelation"      | Byron Belitsos   |           |
+| :white_square_button: | Herald | Vol. 04, No. 1 | "The Gift of Tolerance"                              | Karen Larson     |           |
 
 ### Volumen 5
 
-| Estado                  | Fuente | Ejemplar       | Título                                                                                                                              | Autor                                                                | Etiquetas                              |
-| ----------------------- | ------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------- |
-| :white_square_button:   | Herald | Vol. 05, No. 1 | "A Jewish Girl Finds Jesus"                                                                                                         | Bobbie Dreier                                                        |
-| :white_square_button:   | Herald | Vol. 05, No. 1 | "Ruminations on Revelation"                                                                                                         | Steven Hecht                                                         |
-| :white_square_button:   | Herald | Vol. 05, No. 1 | "Safeguarding the Symbols of Urantian Faith"                                                                                        | David Kantor                                                         |
-| :white_square_button:   | Herald | Vol. 05, No. 1 | "When Belief Becomes Faith"                                                                                                         | Al Lockett                                                           |
-| :white_square_button:   | Herald | Vol. 05, No. 1 | "The Patterns of Revelation"                                                                                                        | Linda Buselli                                                        |
-| :white_square_button:   | Herald | Vol. 05, No. 1 | "The Difficulty of Being Objective"                                                                                                 | Nancy Johnson                                                        |
-| :white_square_button:   | Herald | Vol. 05, No. 1 | "Closed Circle or Open Book"                                                                                                        | Stephen Zendt                                                        |
-| :white_square_button:   | Herald | Vol. 05, No. 1 | "The Origin of the Spiritual Fellowship"                                                                                            | Dr. Meredith J. Sprunger                                             |
-| :white_square_button:   | Herald | Vol. 05, No. 1 | "A Dialogue About "The Kingdom""                                                                                                    | Claudia Ayers and Lee Smith                                          |
-| :white_square_button:   | Herald | Vol. 05, No. 1 | "Anti-Terror Treatise"                                                                                                              | Stephen Zendt                                                        |
-| :white_square_button:   | Herald | Vol. 05, No. 2 | "Illumination/Transformation"                                                                                                       | Doreen Heyne                                                         |
-| :white_square_button:   | Herald | Vol. 05, No. 2 | "An Essay on Hope"                                                                                                                  | David Kantor                                                         |
-| :white_square_button:   | Herald | Vol. 05, No. 2 | "The Rise of Spiritual Technology"                                                                                                  | Richard Omura                                                        |
-| :white_square_button:   | Herald | Vol. 05, No. 2 | "Meditation in The Urantia Book, Jesus Style"                                                                                       | Peter Holley                                                         |
-| :white_square_button:   | Herald | Vol. 05, No. 2 | "The Art of Marriage"                                                                                                               | Arlene and Buck Weimer                                               |
-| :white_square_button:   | Herald | Vol. 05, No. 2 | "Room in My Heart"                                                                                                                  | Dave Holt                                                            |
-| :white_square_button:   | Herald | Vol. 05, No. 2 | "A Trace of God"                                                                                                                    | Steven Hecht                                                         |
-| :white_square_button:   | Herald | Vol. 05, No. 2 | "The Golden Rule in Business"                                                                                                       | Larry Mullins                                                        |
-| :white_square_button:   | Herald | Vol. 05, No. 2 | "The Lighter Side"                                                                                                                  | Charles Montgomery                                                   |
+| Revisado              | Fuente | Ejemplar       | Título                                        | Autor                       | Etiquetas |
+| --------------------- | ------ | -------------- | --------------------------------------------- | --------------------------- | --------- |
+| :white_square_button: | Herald | Vol. 05, No. 1 | "A Jewish Girl Finds Jesus"                   | Bobbie Dreier               |           |
+| :white_square_button: | Herald | Vol. 05, No. 1 | "Ruminations on Revelation"                   | Steven Hecht                |           |
+| :white_square_button: | Herald | Vol. 05, No. 1 | "Safeguarding the Symbols of Urantian Faith"  | David Kantor                |           |
+| :white_square_button: | Herald | Vol. 05, No. 1 | "When Belief Becomes Faith"                   | Al Lockett                  |           |
+| :white_square_button: | Herald | Vol. 05, No. 1 | "The Patterns of Revelation"                  | Linda Buselli               |           |
+| :white_square_button: | Herald | Vol. 05, No. 1 | "The Difficulty of Being Objective"           | Nancy Johnson               |           |
+| :white_square_button: | Herald | Vol. 05, No. 1 | "Closed Circle or Open Book"                  | Stephen Zendt               |           |
+| :white_square_button: | Herald | Vol. 05, No. 1 | "The Origin of the Spiritual Fellowship"      | Dr. Meredith J. Sprunger    |           |
+| :white_square_button: | Herald | Vol. 05, No. 1 | "A Dialogue About "The Kingdom""              | Claudia Ayers and Lee Smith |           |
+| :white_square_button: | Herald | Vol. 05, No. 1 | "Anti-Terror Treatise"                        | Stephen Zendt               |           |
+| :white_square_button: | Herald | Vol. 05, No. 2 | "Illumination/Transformation"                 | Doreen Heyne                |           |
+| :white_square_button: | Herald | Vol. 05, No. 2 | "An Essay on Hope"                            | David Kantor                |           |
+| :white_square_button: | Herald | Vol. 05, No. 2 | "The Rise of Spiritual Technology"            | Richard Omura               |           |
+| :white_square_button: | Herald | Vol. 05, No. 2 | "Meditation in The Urantia Book, Jesus Style" | Peter Holley                |           |
+| :white_square_button: | Herald | Vol. 05, No. 2 | "The Art of Marriage"                         | Arlene and Buck Weimer      |           |
+| :white_square_button: | Herald | Vol. 05, No. 2 | "Room in My Heart"                            | Dave Holt                   |           |
+| :white_square_button: | Herald | Vol. 05, No. 2 | "A Trace of God"                              | Steven Hecht                |           |
+| :white_square_button: | Herald | Vol. 05, No. 2 | "The Golden Rule in Business"                 | Larry Mullins               |           |
+| :white_square_button: | Herald | Vol. 05, No. 2 | "The Lighter Side"                            | Charles Montgomery          |           |
 
 ### Volumen 6
 
-| Estado                  | Fuente | Ejemplar       | Título                                                                                                                              | Autor                                                                | Etiquetas                              |
-| ----------------------- | ------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------- |
-| :white_square_button:   | Herald | Vol. 06, No. 1 | "The Next Fifty Years: Dissemination"                                                                                               | Charles Olivea                                                       |
-| :white_square_button:   | Herald | Vol. 06, No. 1 | "The New Revelation of the Living Jesus"                                                                                            | Peter Holley                                                         |
-| :white_square_button:   | Herald | Vol. 06, No. 1 | "Untitled Poem"                                                                                                                     | David Glass                                                          |
-| :white_square_button:   | Herald | Vol. 06, No. 1 | "On Removing The Barrier to a Civilized Discussion Of Eugenics"                                                                     | Finnie                                                               |
-| :white_square_button:   | Herald | Vol. 06, No. 1 | "Becoming a Universe-Conscious Citizen"                                                                                             | Nancy Johnson                                                        |
-| :white_square_button:   | Herald | Vol. 06, No. 1 | "At Home In The Universe"                                                                                                           | Stephen Zendt                                                        |
-| :white_square_button:   | Herald | Vol. 06, No. 1 | "Pattern of Unity"                                                                                                                  | Jean-Pierre Heudier                                                  |
-| :white_square_button:   | Herald | Vol. 06, No. 1 | "Journey to India: Legacy of the Sethite Teachers"                                                                                  | Dave Holt                                                            |
-| :white_square_button:   | Herald | Vol. 06, No. 1 | "Thoughts About the Future of our Urantia Community"                                                                                | Sara Blackstock                                                      |
-| :white_square_button:   | Herald | Vol. 06, No. 1 | "Legacy in Peril: Children and the Urantia Community"                                                                               | Tom Allen                                                            |
-| :white_square_button:   | Herald | Vol. 06, No. 1 | "Putting the Teachings into Action"                                                                                                 | Steve McIntosh                                                       |
-| :white_square_button:   | Herald | Vol. 06, No. 1 | "Science Cannot Replace Religion"                                                                                                   | Dr. Antti Roine                                                      |
-| :white_square_button:   | Herald | Vol. 06, No. 1 | "A Reed Singing"                                                                                                                    | Dave Holt                                                            |
+| Revisado              | Fuente | Ejemplar       | Título                                                          | Autor               | Etiquetas |
+| --------------------- | ------ | -------------- | --------------------------------------------------------------- | ------------------- | --------- |
+| :white_square_button: | Herald | Vol. 06, No. 1 | "The Next Fifty Years: Dissemination"                           | Charles Olivea      |           |
+| :white_square_button: | Herald | Vol. 06, No. 1 | "The New Revelation of the Living Jesus"                        | Peter Holley        |           |
+| :white_square_button: | Herald | Vol. 06, No. 1 | "Untitled Poem"                                                 | David Glass         |           |
+| :white_square_button: | Herald | Vol. 06, No. 1 | "On Removing The Barrier to a Civilized Discussion Of Eugenics" | Finnie              |           |
+| :white_square_button: | Herald | Vol. 06, No. 1 | "Becoming a Universe-Conscious Citizen"                         | Nancy Johnson       |           |
+| :white_square_button: | Herald | Vol. 06, No. 1 | "At Home In The Universe"                                       | Stephen Zendt       |           |
+| :white_square_button: | Herald | Vol. 06, No. 1 | "Pattern of Unity"                                              | Jean-Pierre Heudier |           |
+| :white_square_button: | Herald | Vol. 06, No. 1 | "Journey to India: Legacy of the Sethite Teachers"              | Dave Holt           |           |
+| :white_square_button: | Herald | Vol. 06, No. 1 | "Thoughts About the Future of our Urantia Community"            | Sara Blackstock     |           |
+| :white_square_button: | Herald | Vol. 06, No. 1 | "Legacy in Peril: Children and the Urantia Community"           | Tom Allen           |           |
+| :white_square_button: | Herald | Vol. 06, No. 1 | "Putting the Teachings into Action"                             | Steve McIntosh      |           |
+| :white_square_button: | Herald | Vol. 06, No. 1 | "Science Cannot Replace Religion"                               | Dr. Antti Roine     |           |
+| :white_square_button: | Herald | Vol. 06, No. 1 | "A Reed Singing"                                                | Dave Holt           |           |
 
 ### Volumen 7
 
-| Estado                  | Fuente | Ejemplar       | Título                                                                                                                              | Autor                                                                | Etiquetas                              |
-| ----------------------- | ------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------- |
-| :white_square_button:   | Herald | Vol. 07, No. 1 | "Guardian Angels"                                                                                                                   | Charles Olivea                                                       |
-| :white_square_button:   | Herald | Vol. 07, No. 1 | "Youth and The Urantia Book"                                                                                                        | Gina Buselli                                                         |
-| :white_square_button:   | Herald | Vol. 07, No. 1 | "Prophecy and The Urantia Book"                                                                                                     | Preston Thomas                                                       |
-| :white_square_button:   | Herald | Vol. 07, No. 1 | "Serving: A Cookbook for the Soul"                                                                                                  | Bill and Share Beasley                                               |
-| :white_square_button:   | Herald | Vol. 07, No. 1 | "What is Personality?"                                                                                                              | Berkeley Elliott                                                     |
-| :white_square_button:   | Herald | Vol. 07, No. 1 | "The Coming Scientific Validation of The Urantia Book"                                                                              | Dr. Philip Calabrese                                                 |
+| Revisado              | Fuente | Ejemplar       | Título                                                 | Autor                  | Etiquetas |
+| --------------------- | ------ | -------------- | ------------------------------------------------------ | ---------------------- | --------- |
+| :white_square_button: | Herald | Vol. 07, No. 1 | "Guardian Angels"                                      | Charles Olivea         |           |
+| :white_square_button: | Herald | Vol. 07, No. 1 | "Youth and The Urantia Book"                           | Gina Buselli           |           |
+| :white_square_button: | Herald | Vol. 07, No. 1 | "Prophecy and The Urantia Book"                        | Preston Thomas         |           |
+| :white_square_button: | Herald | Vol. 07, No. 1 | "Serving: A Cookbook for the Soul"                     | Bill and Share Beasley |           |
+| :white_square_button: | Herald | Vol. 07, No. 1 | "What is Personality?"                                 | Berkeley Elliott       |           |
+| :white_square_button: | Herald | Vol. 07, No. 1 | "The Coming Scientific Validation of The Urantia Book" | Dr. Philip Calabrese   |           |
 
 ### Volumen 8
 
-| Estado                  | Fuente | Ejemplar       | Título                                                                                                                              | Autor                                                                | Etiquetas                              |
-| ----------------------- | ------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------- |
-| :white_square_button:   | Herald | Vol. 08, No. 1 | "Amazing Human Aspects of Epochal Revelation"                                                                                       | Paula Thompson                                                       |
-| :white_square_button:   | Herald | Vol. 08, No. 1 | "Archangels: Agents of Epochal Change"                                                                                              | Carolyn Kendall                                                      |
-| :white_square_button:   | Herald | Vol. 08, No. 1 | "Update: The Coming Scientific Validation"                                                                                          | Dr. Philip Calabrese                                                 |
-| :white_square_button:   | Herald | Vol. 08, No. 1 | "Participatory Evolution"                                                                                                           | Jacob Dix                                                            |
-| :white_square_button:   | Herald | Vol. 08, No. 1 | "Personality and Man"                                                                                                               | George Park                                                          |
-| :white_square_button:   | Herald | Vol. 08, No. 1 | "The Golden Rule"                                                                                                                   | Robert Burns                                                         |
-| :white_square_button:   | Herald | Vol. 08, No. 1 | "Science Fiction for Agondonters"                                                                                                   | Cece Forrester                                                       |
-| :white_square_button:   | Herald | Vol. 08, No. 1 | "Loving Service"                                                                                                                    | Phil Taylor                                                          |
-| :white_square_button:   | Herald | Vol. 08, No. 1 | "The Kingdom and the Supreme"                                                                                                       | David Kantor                                                         |
+| Revisado              | Fuente | Ejemplar       | Título                                        | Autor                | Etiquetas |
+| --------------------- | ------ | -------------- | --------------------------------------------- | -------------------- | --------- |
+| :white_square_button: | Herald | Vol. 08, No. 1 | "Amazing Human Aspects of Epochal Revelation" | Paula Thompson       |           |
+| :white_square_button: | Herald | Vol. 08, No. 1 | "Archangels: Agents of Epochal Change"        | Carolyn Kendall      |           |
+| :white_square_button: | Herald | Vol. 08, No. 1 | "Update: The Coming Scientific Validation"    | Dr. Philip Calabrese |           |
+| :white_square_button: | Herald | Vol. 08, No. 1 | "Participatory Evolution"                     | Jacob Dix            |           |
+| :white_square_button: | Herald | Vol. 08, No. 1 | "Personality and Man"                         | George Park          |           |
+| :white_square_button: | Herald | Vol. 08, No. 1 | "The Golden Rule"                             | Robert Burns         |           |
+| :white_square_button: | Herald | Vol. 08, No. 1 | "Science Fiction for Agondonters"             | Cece Forrester       |           |
+| :white_square_button: | Herald | Vol. 08, No. 1 | "Loving Service"                              | Phil Taylor          |           |
+| :white_square_button: | Herald | Vol. 08, No. 1 | "The Kingdom and the Supreme"                 | David Kantor         |           |
 
 ### Volumen 9
 
-| Estado                  | Fuente | Ejemplar       | Título                                                                                                                              | Autor                                                                | Etiquetas                              |
-| ----------------------- | ------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------- |
-| :white_square_button:   | Herald | Vol. 09, No. 1 | "Celestial Ministry: Seen and Unseen"                                                                                               | Michelle Klimesh                                                     |
-| :white_square_button:   | Herald | Vol. 09, No. 1 | "The Supreme and Outreach"                                                                                                          | Arlene and Buck Weimer                                               |
-| :white_square_button:   | Herald | Vol. 09, No. 1 | "Guess Who's Coming Next?"                                                                                                          | Carolyn Kendall                                                      |
-| :white_square_button:   | Herald | Vol. 09, No. 1 | "A Missionary Experience in Turkey"                                                                                                 | Bill Rocap                                                           |
-| :white_square_button:   | Herald | Vol. 09, No. 1 | "You Be The Book"                                                                                                                   | Michael Painter                                                      |
-| :white_square_button:   | Herald | Vol. 09, No. 1 | "The Start of a Worthy New Tradition                                                                                                |
-| :white_square_button:   | Herald | Vol. 09, No. 1 | "The Significance of the Sevenfold Bestowal Career"                                                                                 | David Glass                                                          |
-| :white_square_button:   | Herald | Vol. 09, No. 1 | "The Urantia Book Is Not What It Used To Be"                                                                                        | Halbert Katzen                                                       |
-| :white_square_button:   | Herald | Vol. 09, No. 1 | "Law is Life Itself"                                                                                                                | Linda Buselli                                                        |
-| :white_square_button:   | Herald | Vol. 09, No. 1 | "Moral Cosmic Citizenship"                                                                                                          | Doreen Heyne                                                         |
-| :white_square_button:   | Herald | Vol. 09, No. 1 | "The Roots of Morality"                                                                                                             | Henry Begemann                                                       |
-| :white_square_button:   | Herald | Vol. 09, No. 1 | "Casting Pearls Before Personality"                                                                                                 | David Elders                                                         |
+| Revisado              | Fuente | Ejemplar       | Título                                              | Autor                  | Etiquetas |
+| --------------------- | ------ | -------------- | --------------------------------------------------- | ---------------------- | --------- |
+| :white_square_button: | Herald | Vol. 09, No. 1 | "Celestial Ministry: Seen and Unseen"               | Michelle Klimesh       |           |
+| :white_square_button: | Herald | Vol. 09, No. 1 | "The Supreme and Outreach"                          | Arlene and Buck Weimer |           |
+| :white_square_button: | Herald | Vol. 09, No. 1 | "Guess Who's Coming Next?"                          | Carolyn Kendall        |           |
+| :white_square_button: | Herald | Vol. 09, No. 1 | "A Missionary Experience in Turkey"                 | Bill Rocap             |           |
+| :white_square_button: | Herald | Vol. 09, No. 1 | "You Be The Book"                                   | Michael Painter        |           |
+| :white_square_button: | Herald | Vol. 09, No. 1 | "The Start of a Worthy New Tradition                |                        |           |
+| :white_square_button: | Herald | Vol. 09, No. 1 | "The Significance of the Sevenfold Bestowal Career" | David Glass            |           |
+| :white_square_button: | Herald | Vol. 09, No. 1 | "The Urantia Book Is Not What It Used To Be"        | Halbert Katzen         |           |
+| :white_square_button: | Herald | Vol. 09, No. 1 | "Law is Life Itself"                                | Linda Buselli          |           |
+| :white_square_button: | Herald | Vol. 09, No. 1 | "Moral Cosmic Citizenship"                          | Doreen Heyne           |           |
+| :white_square_button: | Herald | Vol. 09, No. 1 | "The Roots of Morality"                             | Henry Begemann         |           |
+| :white_square_button: | Herald | Vol. 09, No. 1 | "Casting Pearls Before Personality"                 | David Elders           |           |
 
 ### Volumen 10
 
-| Estado                  | Fuente | Ejemplar       | Título                                                                                                                              | Autor                                                                | Etiquetas                              |
-| ----------------------- | ------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------- |
-| :white_square_button:   | Herald | Vol. 10, No. 1 | "In Search of the Historical Onamonalonton"                                                                                         | Dave Holt                                                            |
-| :white_square_button:   | Herald | Vol. 10, No. 1 | "The Role of Emotions and Feelings on an Evolutionary Word"                                                                         | Nancy Johnson                                                        |
-| :white_square_button:   | Herald | Vol. 10, No. 1 | "Joy in the Worm Bin"                                                                                                               | Sara Blackstock                                                      |
-| :white_square_button:   | Herald | Vol. 10, No. 1 | "Ten Lessons from the Vineyard"                                                                                                     | Arnie Ondis                                                          |
-| :white_square_button:   | Herald | Vol. 10, No. 1 | "Solar System Discoveries that Corroborate The Urantia Book"                                                                        | Philip Calabrese                                                     |
-| :white_square_button:   | Herald | Vol. 10, No. 1 | "The Book—a Poem"                                                                                                                   | M. Sanders                                                           |
-| :white_square_button:   | Herald | Vol. 10, No. 1 | "A Lesson from a Mouse"                                                                                                             | Robert Seubert                                                       |
-| :white_square_button:   | Herald | Vol. 10, No. 1 | "The Third Cosmic Circle"                                                                                                           | Richare Guevara                                                      |
-| :white_square_button:   | Herald | Vol. 10, No. 1 | "Becoming an Effective Missionary Evangel"                                                                                          | David Kantor                                                         |
-| :white_square_button:   | Herald | Vol. 10, No. 1 | "The Limitless Spectrum of Education"                                                                                               | David Glass                                                          |
-| :white_square_button:   | Herald | Vol. 10, No. 1 | "Urantia University - U2"                                                                                                           | David Nash                                                           |
-| :white_square_button:   | Herald | Vol. 10, No. 1 | "Our Creative Deities—A Supreme Relationship"                                                                                       | Linda Buselli                                                        |
+| Revisado              | Fuente | Ejemplar       | Título                                                       | Autor            | Etiquetas |
+| --------------------- | ------ | -------------- | ------------------------------------------------------------ | ---------------- | --------- |
+| :white_square_button: | Herald | Vol. 10, No. 1 | "In Search of the Historical Onamonalonton"                  | Dave Holt        |           |
+| :white_square_button: | Herald | Vol. 10, No. 1 | "The Role of Emotions and Feelings on an Evolutionary Word"  | Nancy Johnson    |           |
+| :white_square_button: | Herald | Vol. 10, No. 1 | "Joy in the Worm Bin"                                        | Sara Blackstock  |           |
+| :white_square_button: | Herald | Vol. 10, No. 1 | "Ten Lessons from the Vineyard"                              | Arnie Ondis      |           |
+| :white_square_button: | Herald | Vol. 10, No. 1 | "Solar System Discoveries that Corroborate The Urantia Book" | Philip Calabrese |           |
+| :white_square_button: | Herald | Vol. 10, No. 1 | "The Book—a Poem"                                            | M. Sanders       |           |
+| :white_square_button: | Herald | Vol. 10, No. 1 | "A Lesson from a Mouse"                                      | Robert Seubert   |           |
+| :white_square_button: | Herald | Vol. 10, No. 1 | "The Third Cosmic Circle"                                    | Richare Guevara  |           |
+| :white_square_button: | Herald | Vol. 10, No. 1 | "Becoming an Effective Missionary Evangel"                   | David Kantor     |           |
+| :white_square_button: | Herald | Vol. 10, No. 1 | "The Limitless Spectrum of Education"                        | David Glass      |           |
+| :white_square_button: | Herald | Vol. 10, No. 1 | "Urantia University - U2"                                    | David Nash       |           |
+| :white_square_button: | Herald | Vol. 10, No. 1 | "Our Creative Deities—A Supreme Relationship"                | Linda Buselli    |           |
 
 ### Volumen 11
 
-| Estado                  | Fuente | Ejemplar       | Título                                                                                                                              | Autor                                                                | Etiquetas                              |
-| ----------------------- | ------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------- |
-| :white_square_button:   | Herald | Vol. 11, No. 1 | "The World is Not Coming to an End"                                                                                                 | Carolyn Kendall, Barbara Newsom                                      |
-| :white_square_button:   | Herald | Vol. 11, No. 1 | "Religion of Experience vs. Religion of Authority"                                                                                  | Richard S. Omura                                                     |
-| :white_square_button:   | Herald | Vol. 11, No. 1 | "God Consciousness"                                                                                                                 | Charles Laurence Olivea                                              |
-| :white_square_button:   | Herald | Vol. 11, No. 1 | "The Urantia Book, Human Concepts, and Revelatory Validation"                                                                       | David Elders                                                         |
-| :white_square_button:   | Herald | Vol. 11, No. 1 | "Understanding the Relation of Love to the Mind"                                                                                    | Sheila Keene-Lund                                                    |
-| :white_square_button:   | Herald | Vol. 11, No. 1 | "Cosmic Socialization and Planetary Citizenship"                                                                                    | Dave Holt                                                            |
-| :white_square_button:   | Herald | Vol. 11, No. 1 | "Testimonial of One Second-Generation Urantian"                                                                                     | Angela Thurston                                                      |
-| :white_square_button:   | Herald | Vol. 11, No. 1 | "The Problem of Business"                                                                                                           | Dan Amyx                                                             |
-| :white_square_button:   | Herald | Vol. 11, No. 1 | "Crouching Deity/Hidden Supreme"                                                                                                    | Bob Debold                                                           |
+| Revisado              | Fuente | Ejemplar       | Título                                                        | Autor                           | Etiquetas |
+| --------------------- | ------ | -------------- | ------------------------------------------------------------- | ------------------------------- | --------- |
+| :white_square_button: | Herald | Vol. 11, No. 1 | "The World is Not Coming to an End"                           | Carolyn Kendall, Barbara Newsom |           |
+| :white_square_button: | Herald | Vol. 11, No. 1 | "Religion of Experience vs. Religion of Authority"            | Richard S. Omura                |           |
+| :white_square_button: | Herald | Vol. 11, No. 1 | "God Consciousness"                                           | Charles Laurence Olivea         |           |
+| :white_square_button: | Herald | Vol. 11, No. 1 | "The Urantia Book, Human Concepts, and Revelatory Validation" | David Elders                    |           |
+| :white_square_button: | Herald | Vol. 11, No. 1 | "Understanding the Relation of Love to the Mind"              | Sheila Keene-Lund               |           |
+| :white_square_button: | Herald | Vol. 11, No. 1 | "Cosmic Socialization and Planetary Citizenship"              | Dave Holt                       |           |
+| :white_square_button: | Herald | Vol. 11, No. 1 | "Testimonial of One Second-Generation Urantian"               | Angela Thurston                 |           |
+| :white_square_button: | Herald | Vol. 11, No. 1 | "The Problem of Business"                                     | Dan Amyx                        |           |
+| :white_square_button: | Herald | Vol. 11, No. 1 | "Crouching Deity/Hidden Supreme"                              | Bob Debold                      |           |
 
 ### Volumen 12
 
-| Estado                  | Fuente | Ejemplar       | Título                                                                                                                              | Autor                                                                | Etiquetas                              |
-| ----------------------- | ------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------- |
-| :white_square_button:   | Herald | Vol. 12, No. 1 | "The First Epochal Revelation in American Indian Traditions"                                                                        | Dave Holt                                                            |
-| :white_square_button:   | Herald | Vol. 12, No. 1 | "The Power of The Name of Jesus"                                                                                                    | Charles Laurence Olivea                                              |
-| :white_square_button:   | Herald | Vol. 12, No. 1 | "Machiventa Melchizedek"                                                                                                            | One of History's Mysteries                                           |
-| :white_square_button:   | Herald | Vol. 12, No. 1 | "Getting Closer to God"                                                                                                             | Approaching The Universal Father                                     |
-| :white_square_button:   | Herald | Vol. 12, No. 1 | "One Man's Tour Through The Evolutionary Debate                                                                                     |                                                                      |
+| Revisado              | Fuente | Ejemplar       | Título                                                       | Autor                            | Etiquetas |
+| --------------------- | ------ | -------------- | ------------------------------------------------------------ | -------------------------------- | --------- |
+| :white_square_button: | Herald | Vol. 12, No. 1 | "The First Epochal Revelation in American Indian Traditions" | Dave Holt                        |           |
+| :white_square_button: | Herald | Vol. 12, No. 1 | "The Power of The Name of Jesus"                             | Charles Laurence Olivea          |           |
+| :white_square_button: | Herald | Vol. 12, No. 1 | "Machiventa Melchizedek"                                     | One of History's Mysteries       |           |
+| :white_square_button: | Herald | Vol. 12, No. 1 | "Getting Closer to God"                                      | Approaching The Universal Father |           |
+| :white_square_button: | Herald | Vol. 12, No. 1 | "One Man's Tour Through The Evolutionary Debate              |                                  |           |
 
 ### Volumen 13
 
-| Estado                  | Fuente | Ejemplar       | Título                                                                                                                              | Autor                                                                | Etiquetas                              |
-| ----------------------- | ------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------- |
-| :white_square_button:   | Herald | Vol. 13, No. 1 | "Souls on Purpose: The Personal Creed Project"                                                                                      | John Creger                                                          |
-| :white_square_button:   | Herald | Vol. 13, No. 1 | "Evolutionary Spirituality"                                                                                                         | Steve Macintosh                                                      |
-| :white_square_button:   | Herald | Vol. 13, No. 1 | "Urantia, 606 of Satania: Concerning the Inhabited Worlds of the Satania System"                                                    | Israel Dix                                                           |
-| :white_square_button:   | Herald | Vol. 13, No. 1 | "Perfecting, Neuroplasticity, and the Supreme Actualizing"                                                                          | Lawrence Schkade                                                     |
-| :white_square_button:   | Herald | Vol. 13, No. 1 | "Race and The Urantia Book"                                                                                                         | Earlene Green                                                        |
-| :white_square_button:   | Herald | Vol. 13, No. 1 | "Religion of Experience vs Religion of Authority"                                                                                   | Richard S. Omura                                                     |
-| :white_square_button:   | Herald | Vol. 13, No. 1 | "The Forgotten Urantian: Dr. Lena Sadler"                                                                                           | Larry Mullins                                                        |
-| :white_square_button:   | Herald | Vol. 13, No. 1 | "Cosmology in the Light of The Urantia Book"                                                                                        | Philip Calabrese                                                     |
+| Revisado              | Fuente | Ejemplar       | Título                                                                           | Autor            | Etiquetas |
+| --------------------- | ------ | -------------- | -------------------------------------------------------------------------------- | ---------------- | --------- |
+| :white_square_button: | Herald | Vol. 13, No. 1 | "Souls on Purpose: The Personal Creed Project"                                   | John Creger      |           |
+| :white_square_button: | Herald | Vol. 13, No. 1 | "Evolutionary Spirituality"                                                      | Steve Macintosh  |           |
+| :white_square_button: | Herald | Vol. 13, No. 1 | "Urantia, 606 of Satania: Concerning the Inhabited Worlds of the Satania System" | Israel Dix       |           |
+| :white_square_button: | Herald | Vol. 13, No. 1 | "Perfecting, Neuroplasticity, and the Supreme Actualizing"                       | Lawrence Schkade |           |
+| :white_square_button: | Herald | Vol. 13, No. 1 | "Race and The Urantia Book"                                                      | Earlene Green    |           |
+| :white_square_button: | Herald | Vol. 13, No. 1 | "Religion of Experience vs Religion of Authority"                                | Richard S. Omura |           |
+| :white_square_button: | Herald | Vol. 13, No. 1 | "The Forgotten Urantian: Dr. Lena Sadler"                                        | Larry Mullins    |           |
+| :white_square_button: | Herald | Vol. 13, No. 1 | "Cosmology in the Light of The Urantia Book"                                     | Philip Calabrese |           |
 
 ### Volumen 14
 
-| Estado                  | Fuente | Ejemplar       | Título                                                                                                                              | Autor                                                                | Etiquetas                              |
-| ----------------------- | ------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------- |
-| :white_square_button:   | Herald | Vol. 14, No. 1 | "Spiritual Genetics"                                                                                                                | Steve Dreier                                                         |
-| :white_square_button:   | Herald | Vol. 14, No. 1 | "Religion of One"                                                                                                                   | Rev. Gary Deinstadt                                                  |
-| :white_square_button:   | Herald | Vol. 14, No. 1 | "A Cosmology of Race"                                                                                                               | Charles Olivea                                                       |
-| :white_square_button:   | Herald | Vol. 14, No. 1 | "Exploring the Inner Life"                                                                                                          | Dave Holt                                                            |
-| :white_square_button:   | Herald | Vol. 14, No. 1 | "Spiritual Faith, Uncertainty, and Cosmic Citizenship"                                                                              | David Kantor                                                         |
-| :white_square_button:   | Herald | Vol. 14, No. 1 | "Moods, Music and Magic of The Urantia Book"                                                                                        | David Glass                                                          |
-| :white_square_button:   | Herald | Vol. 14, No. 1 | "A Statistical Test of the Hypothesis of Human Authorship of The Urantia Book"                                                      | Dr. Philip Calabrese                                                 |
+| Revisado              | Fuente | Ejemplar       | Título                                                                         | Autor                | Etiquetas |
+| --------------------- | ------ | -------------- | ------------------------------------------------------------------------------ | -------------------- | --------- |
+| :white_square_button: | Herald | Vol. 14, No. 1 | "Spiritual Genetics"                                                           | Steve Dreier         |           |
+| :white_square_button: | Herald | Vol. 14, No. 1 | "Religion of One"                                                              | Rev. Gary Deinstadt  |           |
+| :white_square_button: | Herald | Vol. 14, No. 1 | "A Cosmology of Race"                                                          | Charles Olivea       |           |
+| :white_square_button: | Herald | Vol. 14, No. 1 | "Exploring the Inner Life"                                                     | Dave Holt            |           |
+| :white_square_button: | Herald | Vol. 14, No. 1 | "Spiritual Faith, Uncertainty, and Cosmic Citizenship"                         | David Kantor         |           |
+| :white_square_button: | Herald | Vol. 14, No. 1 | "Moods, Music and Magic of The Urantia Book"                                   | David Glass          |           |
+| :white_square_button: | Herald | Vol. 14, No. 1 | "A Statistical Test of the Hypothesis of Human Authorship of The Urantia Book" | Dr. Philip Calabrese |           |
 
 ### Volumen 15
 
-| Estado                  | Fuente | Ejemplar       | Título                                                                                                                              | Autor                                                                | Etiquetas                              |
-| ----------------------- | ------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------- |
-| :white_square_button:   | Herald | Vol. 15, No. 1 | "The Rehabilitation of Urantia"                                                                                                     | Carolyn Kendall                                                      |
-| :white_square_button:   | Herald | Vol. 15, No. 1 | "The Journey Following Mortal Death"                                                                                                | W. S. Sadler, Jr.                                                    |
-| :white_square_button:   | Herald | Vol. 15, No. 1 | "Pursuing Supremacy: How Might the Master Seraphim and Human Beings Collaborate?                                                    |                                                                      |
-| :white_square_button:   | Herald | Vol. 15, No. 1 | "Urantian Language and the Preservation of Meaning"                                                                                 | Richard Daunt                                                        |
-| :white_square_button:   | Herald | Vol. 15, No. 1 | "Origin, Nature, Ministry, and Destiny of Thought Adjusters"                                                                        | David Glass                                                          |
-| :white_square_button:   | Herald | Vol. 15, No. 1 | "Spiritual Unity"                                                                                                                   | Richard Goodman                                                      |
-| :white_square_button:   | Herald | Vol. 15, No. 1 | "Prayer? Why Bother?"                                                                                                               | Linda Buselli                                                        |
+| Revisado              | Fuente | Ejemplar       | Título                                                                           | Autor             | Etiquetas |
+| --------------------- | ------ | -------------- | -------------------------------------------------------------------------------- | ----------------- | --------- |
+| :white_square_button: | Herald | Vol. 15, No. 1 | "The Rehabilitation of Urantia"                                                  | Carolyn Kendall   |           |
+| :white_square_button: | Herald | Vol. 15, No. 1 | "The Journey Following Mortal Death"                                             | W. S. Sadler, Jr. |           |
+| :white_square_button: | Herald | Vol. 15, No. 1 | "Pursuing Supremacy: How Might the Master Seraphim and Human Beings Collaborate? |                   |           |
+| :white_square_button: | Herald | Vol. 15, No. 1 | "Urantian Language and the Preservation of Meaning"                              | Richard Daunt     |           |
+| :white_square_button: | Herald | Vol. 15, No. 1 | "Origin, Nature, Ministry, and Destiny of Thought Adjusters"                     | David Glass       |           |
+| :white_square_button: | Herald | Vol. 15, No. 1 | "Spiritual Unity"                                                                | Richard Goodman   |           |
+| :white_square_button: | Herald | Vol. 15, No. 1 | "Prayer? Why Bother?"                                                            | Linda Buselli     |           |
 
 ### Volumen 16
 
-| Estado                  | Fuente | Ejemplar       | Título                                                                                                                              | Autor                                                                | Etiquetas                              |
-| ----------------------- | ------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------- |
-| :white_square_button:   | Herald | Vol. 16, No. 1 | "Effective Study Group Leadership"                                                                                                  | David Kulieke                                                        |
-| :white_square_button:   | Herald | Vol. 16, No. 1 | "Can We Have a Universal Standard of Morality"                                                                                      | Dave Holt                                                            |
-| :white_square_button:   | Herald | Vol. 16, No. 1 | "Destiny of the Master Michaels?"                                                                                                   | Bill Sadler Jr.                                                      |
-| :white_square_button:   | Herald | Vol. 16, No. 1 | "The Urantia Book and Its Mission"                                                                                                  | Charles Laurence Olivea                                              |
-| :white_square_button:   | Herald | Vol. 16, No. 1 | "Is The Urantia Book a Sacred Text"                                                                                                 | David Kantor                                                         |
-| :white_square_button:   | Herald | Vol. 16, No. 1 | "Sixty-Four Original Urantia Book Concepts"                                                                                         | Dr. William Sadler                                                   |
-| :white_square_button:   | Herald | Vol. 16, No. 1 | "Society Evolving: Chaos, Progress, and Order"                                                                                      | Lawrence Schkade                                                     |
-| :white_square_button:   | Herald | Vol. 16, No. 1 | "The Importance of Christian Ministry"                                                                                              | Preston Thomas                                                       |
+| Revisado              | Fuente | Ejemplar       | Título                                         | Autor                   | Etiquetas |
+| --------------------- | ------ | -------------- | ---------------------------------------------- | ----------------------- | --------- |
+| :white_square_button: | Herald | Vol. 16, No. 1 | "Effective Study Group Leadership"             | David Kulieke           |           |
+| :white_square_button: | Herald | Vol. 16, No. 1 | "Can We Have a Universal Standard of Morality" | Dave Holt               |           |
+| :white_square_button: | Herald | Vol. 16, No. 1 | "Destiny of the Master Michaels?"              | Bill Sadler Jr.         |           |
+| :white_square_button: | Herald | Vol. 16, No. 1 | "The Urantia Book and Its Mission"             | Charles Laurence Olivea |           |
+| :white_square_button: | Herald | Vol. 16, No. 1 | "Is The Urantia Book a Sacred Text"            | David Kantor            |           |
+| :white_square_button: | Herald | Vol. 16, No. 1 | "Sixty-Four Original Urantia Book Concepts"    | Dr. William Sadler      |           |
+| :white_square_button: | Herald | Vol. 16, No. 1 | "Society Evolving: Chaos, Progress, and Order" | Lawrence Schkade        |           |
+| :white_square_button: | Herald | Vol. 16, No. 1 | "The Importance of Christian Ministry"         | Preston Thomas          |           |
 
 ### Volumen 17
 
-| Estado                  | Fuente | Ejemplar       | Título                                                                                                                              | Autor                                                                | Etiquetas                              |
-| ----------------------- | ------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------- |
-| :white_square_button:   | Herald | Vol. 17, No. 1 | "A Circle of Kindred Spirits"                                                                                                       | Bobbie Dreier and Francis Oliver Lynn                                |
-| :white_square_button:   | Herald | Vol. 17, No. 1 | "Listen Up Grandparents and YaYAs"                                                                                                  | Sara Blackstock                                                      |
-| :white_square_button:   | Herald | Vol. 17, No. 1 | "Early Persecutions of Jesus’ Followers and Dispersion of the Apostles"                                                             | Lawrence J. Bowman                                                   |
-| :white_square_button:   | Herald | Vol. 17, No. 1 | "Thoughts on the Bestowals of Personality and the Thought Adjuster"                                                                 | Kermit Anderson                                                      |
-| :white_square_button:   | Herald | Vol. 17, No. 1 | "Mindedness and Spirituality, Comments on the Absolutes"                                                                            | Bill Sadler Jr.                                                      |
-| :white_square_button:   | Herald | Vol. 17, No. 1 | "Why Should You Support a Urantia Organization Like The Urantia Book Fellowship?"                                                   | Paula Thompson                                                       |
-| :white_square_button:   | Herald | Vol. 17, No. 1 | "Top/Down"                                                                                                                          | Gary Deinstadt                                                       |
-| :white_square_button:   | Herald | Vol. 17, No. 1 | "Healing Meditation—A Poem"                                                                                                         | K. Brendi Poppel                                                     |
-| :white_square_button:   | Herald | Vol. 17, No. 1 | "The Nature of Personal Reality"                                                                                                    | Byron Belitsos                                                       |
+| Revisado              | Fuente | Ejemplar       | Título                                                                            | Autor                                 | Etiquetas |
+| --------------------- | ------ | -------------- | --------------------------------------------------------------------------------- | ------------------------------------- | --------- |
+| :white_square_button: | Herald | Vol. 17, No. 1 | "A Circle of Kindred Spirits"                                                     | Bobbie Dreier and Francis Oliver Lynn |           |
+| :white_square_button: | Herald | Vol. 17, No. 1 | "Listen Up Grandparents and YaYAs"                                                | Sara Blackstock                       |           |
+| :white_square_button: | Herald | Vol. 17, No. 1 | "Early Persecutions of Jesus’ Followers and Dispersion of the Apostles"           | Lawrence J. Bowman                    |           |
+| :white_square_button: | Herald | Vol. 17, No. 1 | "Thoughts on the Bestowals of Personality and the Thought Adjuster"               | Kermit Anderson                       |           |
+| :white_square_button: | Herald | Vol. 17, No. 1 | "Mindedness and Spirituality, Comments on the Absolutes"                          | Bill Sadler Jr.                       |           |
+| :white_square_button: | Herald | Vol. 17, No. 1 | "Why Should You Support a Urantia Organization Like The Urantia Book Fellowship?" | Paula Thompson                        |           |
+| :white_square_button: | Herald | Vol. 17, No. 1 | "Top/Down"                                                                        | Gary Deinstadt                        |           |
+| :white_square_button: | Herald | Vol. 17, No. 1 | "Healing Meditation—A Poem"                                                       | K. Brendi Poppel                      |           |
+| :white_square_button: | Herald | Vol. 17, No. 1 | "The Nature of Personal Reality"                                                  | Byron Belitsos                        |           |
 
 ### Volumen 18
 
-| Estado                  | Fuente | Ejemplar       | Título                                                                                                                              | Autor                                                                | Etiquetas                              |
-| ----------------------- | ------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------- |
-| :white_square_button:   | Herald | Vol. 18, No. 1 | "Urantia Spring"                                                                                                                    | Joshua J. Wilson                                                     |
-| :white_square_button:   | Herald | Vol. 18, No. 1 | "A Musical Metaphor"                                                                                                                | Dr. Bruce Jackson                                                    |
-| :white_square_button:   | Herald | Vol. 18, No. 1 | "The Temple Of Spiritual Brotherhood and the Greater Meaning Of Study Groups"                                                       | Charles Laurence Olivea                                              |
-| :white_square_button:   | Herald | Vol. 18, No. 1 | "What Will We Find in Outer Space? "                                                                                                | William Sadler Jr                                                    |
-| :white_square_button:   | Herald | Vol. 18, No. 1 | "What is Interfaith?"                                                                                                               | Michael Painter                                                      |
-| :white_square_button:   | Herald | Vol. 18, No. 1 | "The Shroud of Turin and The Urantia Papers"                                                                                        | Dennis Marshall                                                      |
-| :white_square_button:   | Herald | Vol. 18, No. 1 | "Questions About Being Human"                                                                                                       | Michelle Klimesh                                                     |
-| :white_square_button:   | Herald | Vol. 18, No. 1 | "What Does The Urantia Book Tell Us Needs to be Accomplished?"                                                                      | David Kantor                                                         |
-| :white_square_button:   | Herald | Vol. 18, No. 1 | "Twelve Ways I Hear From God"                                                                                                       | Richard Rosen                                                        |
+| Revisado              | Fuente | Ejemplar       | Título                                                                        | Autor                   | Etiquetas |
+| --------------------- | ------ | -------------- | ----------------------------------------------------------------------------- | ----------------------- | --------- |
+| :white_square_button: | Herald | Vol. 18, No. 1 | "Urantia Spring"                                                              | Joshua J. Wilson        |           |
+| :white_square_button: | Herald | Vol. 18, No. 1 | "A Musical Metaphor"                                                          | Dr. Bruce Jackson       |           |
+| :white_square_button: | Herald | Vol. 18, No. 1 | "The Temple Of Spiritual Brotherhood and the Greater Meaning Of Study Groups" | Charles Laurence Olivea |           |
+| :white_square_button: | Herald | Vol. 18, No. 1 | "What Will We Find in Outer Space? "                                          | William Sadler Jr       |           |
+| :white_square_button: | Herald | Vol. 18, No. 1 | "What is Interfaith?"                                                         | Michael Painter         |           |
+| :white_square_button: | Herald | Vol. 18, No. 1 | "The Shroud of Turin and The Urantia Papers"                                  | Dennis Marshall         |           |
+| :white_square_button: | Herald | Vol. 18, No. 1 | "Questions About Being Human"                                                 | Michelle Klimesh        |           |
+| :white_square_button: | Herald | Vol. 18, No. 1 | "What Does The Urantia Book Tell Us Needs to be Accomplished?"                | David Kantor            |           |
+| :white_square_button: | Herald | Vol. 18, No. 1 | "Twelve Ways I Hear From God"                                                 | Richard Rosen           |           |
 
 ### Volumen 19
 
-| Estado                  | Fuente | Ejemplar       | Título                                                                                                                              | Autor                                                                | Etiquetas                              |
-| ----------------------- | ------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------- |
-| :white_square_button:   | Herald | Vol. 19, No. 1 | "Survival of the Subnormal Mind"                                                                                                    | Rick Lyon                                                            |
-| :white_square_button:   | Herald | Vol. 19, No. 1 | "The Soul Synthesis Hypothesis"                                                                                                     | Byron Belitsos                                                       |
-| :white_square_button:   | Herald | Vol. 19, No. 1 | "I, Brother - The Urantia Papers and Issues of Race"                                                                                | DJ Marshall                                                          |
-| :white_square_button:   | Herald | Vol. 19, No. 1 | "A Tale of Two Men"                                                                                                                 | Linda Buselli                                                        |
-| :white_square_button:   | Herald | Vol. 19, No. 1 | "Akhenaten"                                                                                                                         | Derek Samaras                                                        |
-| :white_square_button:   | Herald | Vol. 19, No. 1 | "The New Teacher/Leaders"                                                                                                           | Preston Thomas                                                       |
-| :white_square_button:   | Herald | Vol. 19, No. 1 | "Unsinkable and Unbreakable"                                                                                                        | James Perry                                                          |
-| :white_square_button:   | Herald | Vol. 19, No. 1 | "The Supreme Being in My Life"                                                                                                      | Yvon Gagne                                                           |
-| :white_square_button:   | Herald | Vol. 19, No. 1 | "The Eden-Atlantis Project"                                                                                                         | Commodore Robert Stanley Bates                                       |
+| Revisado              | Fuente | Ejemplar       | Título                                               | Autor                          | Etiquetas |
+| --------------------- | ------ | -------------- | ---------------------------------------------------- | ------------------------------ | --------- |
+| :white_square_button: | Herald | Vol. 19, No. 1 | "Survival of the Subnormal Mind"                     | Rick Lyon                      |           |
+| :white_square_button: | Herald | Vol. 19, No. 1 | "The Soul Synthesis Hypothesis"                      | Byron Belitsos                 |           |
+| :white_square_button: | Herald | Vol. 19, No. 1 | "I, Brother - The Urantia Papers and Issues of Race" | DJ Marshall                    |           |
+| :white_square_button: | Herald | Vol. 19, No. 1 | "A Tale of Two Men"                                  | Linda Buselli                  |           |
+| :white_square_button: | Herald | Vol. 19, No. 1 | "Akhenaten"                                          | Derek Samaras                  |           |
+| :white_square_button: | Herald | Vol. 19, No. 1 | "The New Teacher/Leaders"                            | Preston Thomas                 |           |
+| :white_square_button: | Herald | Vol. 19, No. 1 | "Unsinkable and Unbreakable"                         | James Perry                    |           |
+| :white_square_button: | Herald | Vol. 19, No. 1 | "The Supreme Being in My Life"                       | Yvon Gagne                     |           |
+| :white_square_button: | Herald | Vol. 19, No. 1 | "The Eden-Atlantis Project"                          | Commodore Robert Stanley Bates |           |
 
 ### Volumen 20
 
-| Estado                  | Fuente | Ejemplar       | Título                                                                                                                              | Autor                                                                | Etiquetas                              |
-| ----------------------- | ------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------- |
-| :white_square_button:   | Herald | Vol. 20, No. 1 | "Summer Study Session 2019                                                                                                          |                                                                      |
-| :white_square_button:   | Herald | Vol. 20, No. 1 | "Following in the Footsteps of Enoch and Elijah"                                                                                    | Meredith Tenney                                                      |
-| :white_square_button:   | Herald | Vol. 20, No. 1 | "My Thought Adjuster painting"                                                                                                      | Patrick Yesh                                                         |
-| :white_square_button:   | Herald | Vol. 20, No. 1 | "Urantia Book Religion"                                                                                                             | Phil Calabrese                                                       |
-| :white_square_button:   | Herald | Vol. 20, No. 1 | "Father Robert Schuer Quotes 15 Personality Bestowal"                                                                               | JJ Johnson                                                           |
-| :white_square_button:   | Herald | Vol. 20, No. 1 | "Ancient Japan JOMON"                                                                                                               | Derek Samaras                                                        |
-| :white_square_button:   | Herald | Vol. 20, No. 1 | "Early Beliefs About the Nature of Christ"                                                                                          | David Kantor                                                         |
-| :white_square_button:   | Herald | Vol. 20, No. 1 | "There Was a Man Once"                                                                                                              | Errol Strider                                                        |
-| :white_square_button:   | Herald | Vol. 20, No. 1 | "Working with Mother Spirit to Uplift the World"                                                                                    | Meredith Tenney, Sharon Porter, Mary Huggins, and Elisabeth Callahan |
-| :white_square_button:   | Herald | Vol. 20, No. 1 | "Epochal Pathways"                                                                                                                  | Neal Waldrop                                                         |
-| :white_square_button:   | Herald | Vol. 20, No. 1 | "Urantia Book - A Spiritual Path"                                                                                                   | Rabia Harris                                                         |
-| :white_square_button:   | Herald | Vol. 20, No. 1 | "The Challenge of Revelation Based Education"                                                                                       | Bruce Jackson                                                        |
-| :white_square_button:   | Herald | Vol. 20, No. 1 | "Mobilizing a Dispensation of Planetary Rehabilitation"                                                                             | David Kantor                                                         |
-| :white_square_button:   | Herald | Vol. 20, No. 1 | "Pipeline of Light"                                                                                                                 |                                                                      |
+| Revisado              | Fuente | Ejemplar       | Título                                                  | Autor                                                                | Etiquetas |
+| --------------------- | ------ | -------------- | ------------------------------------------------------- | -------------------------------------------------------------------- | --------- |
+| :white_square_button: | Herald | Vol. 20, No. 1 | "Summer Study Session 2019                              |                                                                      |           |
+| :white_square_button: | Herald | Vol. 20, No. 1 | "Following in the Footsteps of Enoch and Elijah"        | Meredith Tenney                                                      |           |
+| :white_square_button: | Herald | Vol. 20, No. 1 | "My Thought Adjuster painting"                          | Patrick Yesh                                                         |           |
+| :white_square_button: | Herald | Vol. 20, No. 1 | "Urantia Book Religion"                                 | Phil Calabrese                                                       |           |
+| :white_square_button: | Herald | Vol. 20, No. 1 | "Father Robert Schuer Quotes 15 Personality Bestowal"   | JJ Johnson                                                           |           |
+| :white_square_button: | Herald | Vol. 20, No. 1 | "Ancient Japan JOMON"                                   | Derek Samaras                                                        |           |
+| :white_square_button: | Herald | Vol. 20, No. 1 | "Early Beliefs About the Nature of Christ"              | David Kantor                                                         |           |
+| :white_square_button: | Herald | Vol. 20, No. 1 | "There Was a Man Once"                                  | Errol Strider                                                        |           |
+| :white_square_button: | Herald | Vol. 20, No. 1 | "Working with Mother Spirit to Uplift the World"        | Meredith Tenney, Sharon Porter, Mary Huggins, and Elisabeth Callahan |           |
+| :white_square_button: | Herald | Vol. 20, No. 1 | "Epochal Pathways"                                      | Neal Waldrop                                                         |           |
+| :white_square_button: | Herald | Vol. 20, No. 1 | "Urantia Book - A Spiritual Path"                       | Rabia Harris                                                         |           |
+| :white_square_button: | Herald | Vol. 20, No. 1 | "The Challenge of Revelation Based Education"           | Bruce Jackson                                                        |           |
+| :white_square_button: | Herald | Vol. 20, No. 1 | "Mobilizing a Dispensation of Planetary Rehabilitation" | David Kantor                                                         |           |
+| :white_square_button: | Herald | Vol. 20, No. 1 | "Pipeline of Light"                                     |                                                                      |           |
 
 ### Volumen 21
 
-| Estado                  | Fuente | Ejemplar       | Título                                                                                                                              | Autor                                                                | Etiquetas                              |
-| ----------------------- | ------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------- |
-| :white_square_button:   | Herald | Vol. 21, No. 1 | "Avi Dogim, Emilio Coppola, and Steve Dreier,"                                                                                      | Larry Bowman                                                         |
-| :white_square_button:   | Herald | Vol. 21, No. 1 | "From the Supreme to the Three Person’d God: Seven Levels of Total Deity"                                                           | Dave Holt                                                            |
-| :white_square_button:   | Herald | Vol. 21, No. 1 | "Growing the Supreme"                                                                                                               | Michael Hill                                                         |
-| :white_square_button:   | Herald | Vol. 21, No. 1 | "Adoration of the Mother"                                                                                                           | Joshua Wilson                                                        |
-| :white_square_button:   | Herald | Vol. 21, No. 1 | "TODAY is the day for JOY!"                                                                                                         | David Glass                                                          |
-| :white_square_button:   | Herald | Vol. 21, No. 1 | "Uversa — the Future Headquarters of God the Supreme"                                                                               | Tom Allen                                                            |
-| :white_square_button:   | Herald | Vol. 21, No. 1 | "To Beget Or Not to Beget That Is the Question"                                                                                     | JJ Johnson                                                           |
-| :white_square_button:   | Herald | Vol. 21, No. 1 | "An Encounter This Unique"                                                                                                          | Duane R Johnson                                                      |
-| :white_square_button:   | Herald | Vol. 21, No. 1 | "Contrasting Jesus and Paul"                                                                                                        | David Kantor                                                         |
-| :white_square_button:   | Herald | Vol. 21, No. 1 | "Cosmic Canoe"                                                                                                                      | Tom Choquette and Christilyn Biek Larson                             |
-| :white_square_button:   | Herald | Vol. 21, No. 1 | "Remembering Those Who Have Gone On"                                                                                                | John Hales                                                           |
+| Revisado              | Fuente | Ejemplar       | Título                                                                    | Autor                                    | Etiquetas |
+| --------------------- | ------ | -------------- | ------------------------------------------------------------------------- | ---------------------------------------- | --------- |
+| :white_square_button: | Herald | Vol. 21, No. 1 | "Avi Dogim, Emilio Coppola, and Steve Dreier,"                            | Larry Bowman                             |           |
+| :white_square_button: | Herald | Vol. 21, No. 1 | "From the Supreme to the Three Person’d God: Seven Levels of Total Deity" | Dave Holt                                |           |
+| :white_square_button: | Herald | Vol. 21, No. 1 | "Growing the Supreme"                                                     | Michael Hill                             |           |
+| :white_square_button: | Herald | Vol. 21, No. 1 | "Adoration of the Mother"                                                 | Joshua Wilson                            |           |
+| :white_square_button: | Herald | Vol. 21, No. 1 | "TODAY is the day for JOY!"                                               | David Glass                              |           |
+| :white_square_button: | Herald | Vol. 21, No. 1 | "Uversa — the Future Headquarters of God the Supreme"                     | Tom Allen                                |           |
+| :white_square_button: | Herald | Vol. 21, No. 1 | "To Beget Or Not to Beget That Is the Question"                           | JJ Johnson                               |           |
+| :white_square_button: | Herald | Vol. 21, No. 1 | "An Encounter This Unique"                                                | Duane R Johnson                          |           |
+| :white_square_button: | Herald | Vol. 21, No. 1 | "Contrasting Jesus and Paul"                                              | David Kantor                             |           |
+| :white_square_button: | Herald | Vol. 21, No. 1 | "Cosmic Canoe"                                                            | Tom Choquette and Christilyn Biek Larson |           |
+| :white_square_button: | Herald | Vol. 21, No. 1 | "Remembering Those Who Have Gone On"                                      | John Hales                               |           |
 
 ### Volumen 22
 
-| :white_square_button:   | Herald | Vol. 22, No. 1 | "Cooperating with the Holy Spirit"                                                                                                  | Kaye Cooper                                                          |
-| :white_square_button:   | Herald | Vol. 22, No. 1 | "Mother Mother Song"                                                                                                                | Framy Mas                                                            |
-| :white_square_button:   | Herald | Vol. 22, No. 1 | "Mother and Father"                                                                                                                 | Sharon Porter                                                        |
-| :white_square_button:   | Herald | Vol. 22, No. 1 | "Living with the Spirit of Truth"                                                                                                   | Esther Wood                                                          |
-| :white_square_button:   | Herald | Vol. 22, No. 1 | "Song for Papa’s Family"                                                                                                            | David Glass                                                          |
-| :white_square_button:   | Herald | Vol. 22, No. 1 | "Of Two Minds: Human and Divine"                                                                                                    | Richard Bain                                                         |
-| :white_square_button:   | Herald | Vol. 22, No. 1 | "Thinking of my Divine Mother aka the Holy Spirit"                                                                                  | Karen Larsen                                                         |
-| :white_square_button:   | Herald | Vol. 22, No. 1 | "Divine Synergy"                                                                                                                    | Chuck Thurston                                                       |
-| :white_square_button:   | Herald | Vol. 22, No. 1 | "Fruits of the Spirit, Adjutant Mind Spirits, Fruits of Divinity"                                                                   |                                                                      |
-| :white_square_button:   | Herald | Vol. 22, No. 1 | "Introduce Urantia Teachings to 15,000 People a Month"                                                                              | Jena Lassiter                                                        |
-| :white_square_button:   | Herald | Vol. 22, No. 1 | "Chronology of Death Resurrection Ascension of Jesus"                                                                               | Mark Blackham                                                        |
-| :white_square_button:   | Herald | Vol. 22, No. 1 | "To Our Mother Spirit, the Holy Spirit, the Giver of Mind"                                                                          | Mary Huggins                                                         |
-| :white_square_button:   | Herald | Vol. 22, No. 1 | "Sojourner of the Soul: Gardener of our Hearts"                                                                                     | Tom Choquette                                                        |
-| :white_square_button:   | Herald | Vol. 22, No. 1 | "Proclaim the Holiday of Holidays"                                                                                                  | Joshua Wilson and Elianna Obadia                                     |
-| :white_square_button:   | Herald | Vol. 22, No. 1 | "Mighty Messenger Fall - Intro Edition"                                                                                             | Jena Lassiter                                                        |
-| :white_square_button:   | Herald | Vol. 22, No. 1 | "Foxy Parents"                                                                                                                      | Mary Huggins                                                         |
-| :white_square_button:   | Herald | Vol. 22, No. 1 | "Graduation Memorial Initiative"                                                                                                    | Bobbie Dreier                                                        |
+| Revisado              | Fuente | Ejemplar       | Título                                                            | Autor                            | Etiquetas |
+| --------------------- | ------ | -------------- | ----------------------------------------------------------------- | -------------------------------- | --------- |
+| :white_square_button: | Herald | Vol. 22, No. 1 | "Cooperating with the Holy Spirit"                                | Kaye Cooper                      |           |
+| :white_square_button: | Herald | Vol. 22, No. 1 | "Mother Mother Song"                                              | Framy Mas                        |           |
+| :white_square_button: | Herald | Vol. 22, No. 1 | "Mother and Father"                                               | Sharon Porter                    |           |
+| :white_square_button: | Herald | Vol. 22, No. 1 | "Living with the Spirit of Truth"                                 | Esther Wood                      |           |
+| :white_square_button: | Herald | Vol. 22, No. 1 | "Song for Papa’s Family"                                          | David Glass                      |           |
+| :white_square_button: | Herald | Vol. 22, No. 1 | "Of Two Minds: Human and Divine"                                  | Richard Bain                     |           |
+| :white_square_button: | Herald | Vol. 22, No. 1 | "Thinking of my Divine Mother aka the Holy Spirit"                | Karen Larsen                     |           |
+| :white_square_button: | Herald | Vol. 22, No. 1 | "Divine Synergy"                                                  | Chuck Thurston                   |           |
+| :white_square_button: | Herald | Vol. 22, No. 1 | "Fruits of the Spirit, Adjutant Mind Spirits, Fruits of Divinity" |                                  |           |
+| :white_square_button: | Herald | Vol. 22, No. 1 | "Introduce Urantia Teachings to 15,000 People a Month"            | Jena Lassiter                    |           |
+| :white_square_button: | Herald | Vol. 22, No. 1 | "Chronology of Death Resurrection Ascension of Jesus"             | Mark Blackham                    |           |
+| :white_square_button: | Herald | Vol. 22, No. 1 | "To Our Mother Spirit, the Holy Spirit, the Giver of Mind"        | Mary Huggins                     |           |
+| :white_square_button: | Herald | Vol. 22, No. 1 | "Sojourner of the Soul: Gardener of our Hearts"                   | Tom Choquette                    |           |
+| :white_square_button: | Herald | Vol. 22, No. 1 | "Proclaim the Holiday of Holidays"                                | Joshua Wilson and Elianna Obadia |           |
+| :white_square_button: | Herald | Vol. 22, No. 1 | "Mighty Messenger Fall - Intro Edition"                           | Jena Lassiter                    |           |
+| :white_square_button: | Herald | Vol. 22, No. 1 | "Foxy Parents"                                                    | Mary Huggins                     |           |
+| :white_square_button: | Herald | Vol. 22, No. 1 | "Graduation Memorial Initiative"                                  | Bobbie Dreier                    |           |
 
 ## UB Annotaded & UBTheNews
 
@@ -1065,7 +1065,7 @@ Fuentes:
 - https://ubannotated.com/main-menu/animated/Topical%20Studies/
 - https://ubannotated.com/ubthenews/reports_list/
 
-| Estado                  | Fuente      | Ejemplar | Título                                                                                         | Autor          | Etiquetas                          |
+| Revisado                | Fuente      | Ejemplar | Título                                                                                         | Autor          | Etiquetas                          |
 | ----------------------- | ----------- | -------- | ---------------------------------------------------------------------------------------------- | -------------- | ---------------------------------- |
 | :ballot_box_with_check: | UBAnnotated |          | [Adán y Eva](/es/article/Halbert_Katzen/Adam_and_Eve)                                          | Halbert Katzen | Anthropology, Biology and Genetics |
 | :ballot_box_with_check: | UBAnnotated |          | [La creación del fuego](/es/article/Halbert_Katzen/Creating_fire)                              | Halbert Katzen | Anthropology                       |
@@ -1089,7 +1089,7 @@ Fuentes:
 
 Fuente: https://buscandoajesus.wordpress.com/descargas/
 
-| Estado                  | Título                                                                                                | Autor     | Etiquetas                 |
+| Revisado                | Título                                                                                                | Autor     | Etiquetas                 |
 | ----------------------- | ----------------------------------------------------------------------------------------------------- | --------- | ------------------------- |
 | :ballot_box_with_check: | [El calendario judío de la época de Jesús](/es/article/Jan_Herca/The_Jewish_calendar_on_Jesus_times)  | Jan Herca | Jesus, Jesus times        |
 | :ballot_box_with_check: | [El monte Hermón. Pero, ¿dónde estuvo Jesús?](/es/article/Jan_Herca/Mount_Hermon_But_where_was_Jesus) | Jan Herca | Jesus, Jesus times, place |

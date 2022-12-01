@@ -280,7 +280,7 @@ const Strings = {
 		et: "Indeks",
 		fa: "فهرست مطالب",
 		fi: "Indeksi",
-		fr: "Indice",
+		fr: "Table des matières",
 		he: "אינדקס",
 		hu: "Index",
 		id: "Indeks",
