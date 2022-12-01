@@ -12,7 +12,7 @@ Le livre d'Ézéchiel est le troisième des derniers prophètes du Tanakh et l'u
 
 Les visions et le livre sont structurés autour de trois thèmes : (1) Jugement sur Israël (chapitres 1 à 24) ; (2) Jugement des nations (chapitres 25 à 32) ; et (3) Bénédictions futures pour Israël (chapitres 33 à 48). Ses thèmes incluent les concepts de la présence de Dieu, de la pureté, d'Israël en tant que communauté divine et de la responsabilité individuelle envers Dieu. Son influence ultérieure a inclus le développement de traditions mystiques et apocalyptiques dans le Second Temple et le judaïsme rabbinique et le christianisme. 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Ezekiel/1)
 - [Chapitre 2](/fr/Bible/Ezekiel/2)
@@ -64,7 +64,7 @@ Les visions et le livre sont structurés autour de trois thèmes : (1) Jugement 
 - [Chapitre 48](/fr/Bible/Ezekiel/48)
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

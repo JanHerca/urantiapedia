@@ -12,7 +12,7 @@ L'Assomption de Moïse (autrement appelé le Testament de Moïse, Héb.:עליי
 
 On pense que le texte a été écrit à l'origine en hébreu ou dans une autre langue sémitique, puis traduit en grec koine. Le seul manuscrit survivant est une traduction latine du texte grec du VIe siècle. Le manuscrit était incomplet et le reste du texte est perdu. D'après des références dans des ouvrages anciens, on pense que le texte manquant décrivait une dispute sur le corps de Moïse, entre l'archange Michel et le diable.
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Assumption_of_Moses/1)
 - [Chapitre 2](/fr/Bible/Assumption_of_Moses/2)
@@ -29,7 +29,7 @@ On pense que le texte a été écrit à l'origine en hébreu ou dans une autre l
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

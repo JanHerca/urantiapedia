@@ -12,7 +12,7 @@ Le Livre de Tobit (/ˈtoʊbɪt/), également connu sous le nom de Livre de Tobia
 
 Le livre est inclus dans les canons catholiques et orthodoxes mais pas dans les juifs; la tradition protestante le place dans les apocryphes, les anabaptistes, les luthériens, les anglicans et les méthodistes le reconnaissant comme utile à des fins d'édification et de liturgie, bien que de statut non canonique. La grande majorité des chercheurs le reconnaissent comme une œuvre de fiction avec quelques références historiques.
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Tobit/1)
 - [Chapitre 2](/fr/Bible/Tobit/2)
@@ -31,7 +31,7 @@ Le livre est inclus dans les canons catholiques et orthodoxes mais pas dans les 
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

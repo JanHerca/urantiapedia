@@ -12,7 +12,7 @@ Le Livre des Rois (hébreu : ספר מלכים, sefer melakhim) est un livre de 
 
 Les commentateurs bibliques croient que les Livres des Rois ont été écrits pour fournir une explication théologique de la destruction du Royaume de Juda par Babylone en c. 586 avant notre ère et de fournir une base pour un retour de l'exil babylonien. Les deux livres des Rois présentent une histoire de l'ancien Israël et de Juda, de la mort du roi David à la libération de Jehoiakin de son emprisonnement à Babylone - une période d'environ 400 ans (vers 960 - vers 560 avant notre ère). Les érudits ont tendance à traiter les livres comme étant constitués d'une première édition de la fin du 7ème siècle avant notre ère et d'une deuxième et dernière édition du milieu du 6ème siècle avant notre ère.
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/2_Kings/1)
 - [Chapitre 2](/fr/Bible/2_Kings/2)
@@ -40,7 +40,7 @@ Les commentateurs bibliques croient que les Livres des Rois ont été écrits po
 - [Chapitre 24](/fr/Bible/2_Kings/24)
 - [Chapitre 25](/fr/Bible/2_Kings/25)
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

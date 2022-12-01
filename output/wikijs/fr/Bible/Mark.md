@@ -14,7 +14,7 @@ La plupart des érudits datent Mark à c. 66–74 après JC, peu avant ou après
 
 Au 19e siècle, Marc est devenu le premier des quatre évangiles et une source utilisée à la fois par Matthieu et Luc. L'hypothèse de la priorité de Marcan continue d'être retenue par la majorité des chercheurs aujourd'hui, et il y a une nouvelle reconnaissance de l'auteur en tant qu'artiste et théologien utilisant une gamme de dispositifs littéraires pour transmettre sa conception de Jésus en tant que Fils de Dieu faisant autorité mais souffrant.
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Mark/1)
 - [Chapitre 2](/fr/Bible/Mark/2)
@@ -35,7 +35,7 @@ Au 19e siècle, Marc est devenu le premier des quatre évangiles et une source u
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

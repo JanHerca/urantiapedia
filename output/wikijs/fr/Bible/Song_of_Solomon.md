@@ -12,7 +12,7 @@ La chanson des chansons (hébreu: שִׁיר הַשִּׁירִים šīr hašš
 
 Les deux sont en harmonie, chacun désirant l'autre et se réjouissant de l'intimité sexuelle. Les femmes de Jérusalem forment un chœur aux amants, fonctionnant comme un public dont la participation aux rencontres érotiques des amants facilite la participation du lecteur. Les chercheurs diffèrent sur le moment où il a été écrit, avec des estimations allant du 10ème au 2ème siècle avant notre ère, avec une analyse de la langue utilisée suggérant le 3ème siècle. Dans le judaïsme moderne, le cantique est lu le jour du sabbat pendant la Pâque, qui marque le début de la récolte des céréales et commémore la sortie de l'Égypte biblique. La tradition juive le lit comme une allégorie de la relation entre Dieu et Israël ; Le christianisme, comme allégorie du Christ et de son épouse, l'Église. 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Song_of_Solomon/1)
 - [Chapitre 2](/fr/Bible/Song_of_Solomon/2)
@@ -24,7 +24,7 @@ Les deux sont en harmonie, chacun désirant l'autre et se réjouissant de l'inti
 - [Chapitre 8](/fr/Bible/Song_of_Solomon/8)
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

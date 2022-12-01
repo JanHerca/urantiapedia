@@ -14,7 +14,7 @@ Dans cette lettre, Paul s'intéresse principalement à la controverse entourant 
 
 Le différend central dans la lettre concerne la question de savoir comment les Gentils pouvaient se convertir au christianisme, ce qui montre que cette lettre a été écrite à un stade très précoce de l'histoire de l'Église, lorsque la grande majorité des chrétiens étaient des juifs ou des prosélytes juifs, ce que les historiens appellent les chrétiens juifs. Un autre indicateur que la lettre est précoce est qu'il n'y a aucune allusion dans la lettre à une organisation développée au sein de la communauté chrétienne dans son ensemble. Cela le met pendant la vie de Paul lui-même. 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Galatians/1)
 - [Chapitre 2](/fr/Bible/Galatians/2)
@@ -25,7 +25,7 @@ Le différend central dans la lettre concerne la question de savoir comment les 
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

@@ -16,7 +16,7 @@ Les érudits grecs considèrent que son écriture est plus polie et éloquente q
 
 Selon l'érudition traditionnelle, l'auteur de l'Épître aux Hébreux, suivant les traces de Paul, a soutenu que la loi juive, pierre angulaire des croyances et des traditions des descendants des pères fondateurs, [clarification nécessaire] avait joué un rôle légitime dans le passé mais a été remplacée par une Nouvelle Alliance pour les Gentils (cf. Romains 7 :1-6 ; Galates 3 :23-25 ​​; Hébreux 8, 10). Cependant, un nombre croissant d'érudits notent que les termes Gentil, Chrétien et Christianisme ne sont pas présents dans le texte et postulent que Hébreux a été écrit pour un public juif et qu'il est préférable de le considérer comme un débat entre les disciples juifs de Jésus et le judaïsme traditionnel. Dans le ton et les détails, Hébreux va au-delà de Paul et tente une définition plus complexe, nuancée et ouvertement contradictoire de la relation. L'épître s'ouvre sur une exaltation de Jésus comme « l'éclat de la gloire de Dieu, l'image expresse de son être, et soutenant toutes choses par sa parole puissante » (Hébreux 1 :1-3). L'épître présente Jésus avec les titres « pionnier » ou « précurseur », « Fils » et « Fils de Dieu », « prêtre » et « grand prêtre ». L'épître présente Jésus à la fois comme Fils exalté et comme Souverain Sacrificateur, une double christologie unique.
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Hebrews/1)
 - [Chapitre 2](/fr/Bible/Hebrews/2)
@@ -33,7 +33,7 @@ Selon l'érudition traditionnelle, l'auteur de l'Épître aux Hébreux, suivant 
 - [Chapitre 13](/fr/Bible/Hebrews/13)
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

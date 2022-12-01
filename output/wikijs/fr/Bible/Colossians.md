@@ -12,7 +12,7 @@ L'Épître aux Colossiens est le douzième livre du Nouveau Testament. Il a ét�
 
 Certains érudits ont de plus en plus remis en question la paternité de Paul et ont plutôt attribué la lettre à un disciple précoce, mais d'autres la défendent toujours comme authentique. Si Paul en était l'auteur, il a probablement utilisé un amanuensis, ou secrétaire, pour écrire la lettre (Col 4:18), peut-être Timothée.
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Colossians/1)
 - [Chapitre 2](/fr/Bible/Colossians/2)
@@ -21,7 +21,7 @@ Certains érudits ont de plus en plus remis en question la paternité de Paul et
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

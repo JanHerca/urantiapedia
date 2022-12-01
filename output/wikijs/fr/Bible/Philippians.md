@@ -12,7 +12,7 @@ L'épître aux Philippiens est une épître paulinienne du Nouveau Testament de 
 
 Il existe un consensus général sur le fait que Philippiens se compose de matériel authentiquement paulinien et que l'épître est un composite de plusieurs fragments de lettres de Paul à l'église de Philippes. Ces lettres auraient pu être écrites d'Éphèse en 52–55 après JC ou de Césarée Maritima en 57–59, mais la ville de provenance la plus probable est Rome, vers 62 après JC, soit environ 10 ans après la première visite de Paul à Philippes. 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Philippians/1)
 - [Chapitre 2](/fr/Bible/Philippians/2)
@@ -21,7 +21,7 @@ Il existe un consensus général sur le fait que Philippiens se compose de maté
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

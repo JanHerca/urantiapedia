@@ -14,7 +14,7 @@ Bien que les pastorales soient écrites sous le nom de Paul, elles sont différe
 
 Néanmoins, un certain nombre d'érudits majeurs ont défendu la paternité traditionnelle de 2 Timothée. 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/2_Timothy/1)
 - [Chapitre 2](/fr/Bible/2_Timothy/2)
@@ -23,7 +23,7 @@ Néanmoins, un certain nombre d'érudits majeurs ont défendu la paternité trad
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

@@ -12,7 +12,7 @@ La première épître de Jean est la première des épîtres johanniques du Nouv
 
 Cette épître a probablement été écrite à Éphèse entre 95 et 110 après JC. L'auteur conseille les chrétiens sur la façon de discerner les vrais maîtres : par leur éthique, leur proclamation de Jésus dans la chair, et par leur amour. Le texte original a été écrit en grec koine. L'épître est divisée en cinq chapitres.
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/1_John/1)
 - [Chapitre 2](/fr/Bible/1_John/2)
@@ -22,7 +22,7 @@ Cette épître a probablement été écrite à Éphèse entre 95 et 110 après J
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

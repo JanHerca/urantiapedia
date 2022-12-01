@@ -20,7 +20,7 @@ Il n'existe aujourd'hui entièrement que dans la langue éthiopienne Ge'ez , ave
 
 Le livre d'Enoch le plus complet provient de manuscrits éthiopiens, maṣḥafa hēnok (መጽሐፈ ሄኖክ), écrits en Ge'ez, qui ont été apportés en Europe par James Bruce à la fin du 18e siècle et ont été traduits en anglais au 19e siècle.
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Book_of_Enoch/1)
 - [Chapitre 2](/fr/Bible/Book_of_Enoch/2)
@@ -132,7 +132,7 @@ Le livre d'Enoch le plus complet provient de manuscrits éthiopiens, maṣḥafa
 - [Chapitre 108](/fr/Bible/Book_of_Enoch/108)
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

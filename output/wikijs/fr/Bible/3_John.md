@@ -12,12 +12,12 @@ La troisième épître de Jean est l'avant-dernier livre du Nouveau Testament et
 
 La littérature de l'Église primitive ne contient aucune mention de l'épître, la première référence à celle-ci apparaissant au milieu du troisième siècle. Ce manque de documentation, bien que probablement dû à l'extrême brièveté de l'épître, a amené les premiers écrivains de l'Église à douter de son authenticité jusqu'au début du Ve siècle, lorsqu'il a été accepté dans le canon avec les deux autres épîtres de Jean. Le langage de 3 Jean fait écho à celui de l'Évangile de Jean, qui est conventionnellement daté d'environ 90 après JC, de sorte que l'épître a probablement été écrite vers la fin du premier siècle. D'autres contestent ce point de vue, comme le savant John AT Robinson, qui date de 3 Jean à c. 60–65 après JC. La localisation de l'écriture est inconnue, mais la tradition la place à Ephèse. L'épître se trouve dans de nombreux manuscrits les plus anciens du Nouveau Testament, et son texte est exempt de divergences majeures ou de variantes textuelles.
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/3_John/1)
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

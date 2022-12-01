@@ -12,7 +12,7 @@ L'Évangile de Jean (grec ancien : Εὐαγγέλιον κατὰ Ἰωάννη
 
 John a atteint sa forme finale vers 90-110 après JC, bien qu'il contienne des signes d'origine remontant à 70 après JC et peut-être même plus tôt. Comme les trois autres évangiles, il est anonyme, bien qu'il identifie un "disciple que Jésus aimait" sans nom comme source de ses traditions. Il est très probablement né au sein d'une «communauté johannique», et - comme il est étroitement lié dans le style et le contenu aux trois épîtres johanniques - la plupart des érudits traitent les quatre livres, ainsi que le livre de l'Apocalypse, comme un seul corpus de littérature johannique, mais pas du même auteur. 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/John/1)
 - [Chapitre 2](/fr/Bible/John/2)
@@ -38,7 +38,7 @@ John a atteint sa forme finale vers 90-110 après JC, bien qu'il contienne des s
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

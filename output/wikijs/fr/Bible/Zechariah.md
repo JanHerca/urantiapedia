@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 Le livre de Zacharie, attribué au prophète hébreu Zacharie, est inclus dans les douze petits prophètes de la Bible hébraïque.
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Zechariah/1)
 - [Chapitre 2](/fr/Bible/Zechariah/2)
@@ -28,7 +28,7 @@ Le livre de Zacharie, attribué au prophète hébreu Zacharie, est inclus dans l
 - [Chapitre 14](/fr/Bible/Zechariah/14)
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

@@ -12,7 +12,7 @@ Le Livre de Jonas est rassemblé comme l'un des douze prophètes mineurs des Nev
 
 L'histoire a une longue histoire d'interprétation et est devenue bien connue grâce aux histoires populaires pour enfants. Dans le judaïsme, c'est la partie Haftarah lue pendant l'après-midi de Yom Kippour pour insuffler une réflexion sur la volonté de Dieu de pardonner à ceux qui se repentent, et cela reste une histoire populaire parmi les chrétiens. L'histoire est également racontée dans le Coran.
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Jonah/1)
 - [Chapitre 2](/fr/Bible/Jonah/2)
@@ -20,7 +20,7 @@ L'histoire a une longue histoire d'interprétation et est devenue bien connue gr
 - [Chapitre 4](/fr/Bible/Jonah/4)
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

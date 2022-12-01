@@ -18,7 +18,7 @@ Pour la plupart, jusqu'à la fin du 20e siècle, l'épître de Jacques a été r
 
 L'épître vise à atteindre un large public juif. Au cours des dernières décennies, l'épître de Jacques a suscité un intérêt scientifique croissant en raison d'une augmentation de la quête du Jacques historique, de son rôle au sein du mouvement de Jésus, de ses croyances, de ses relations et de ses opinions. Ce renouveau de James est également associé à un niveau croissant de prise de conscience de l'ancrage juif de l'épître et du mouvement de Jésus primitif. 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/James/1)
 - [Chapitre 2](/fr/Bible/James/2)
@@ -28,7 +28,7 @@ L'épître vise à atteindre un large public juif. Au cours des dernières déce
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

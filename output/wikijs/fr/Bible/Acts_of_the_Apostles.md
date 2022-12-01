@@ -14,7 +14,7 @@ Les Actes et l'Évangile de Luc forment un ouvrage en deux parties, Luc–Actes,
 
 Luc–Actes est une tentative de répondre à un problème théologique, à savoir comment le Messie des Juifs en est venu à avoir une église majoritairement non juive ; la réponse qu'il fournit est que le message du Christ a été envoyé aux Gentils parce que dans l'ensemble les Juifs l'ont rejeté. Luc-Actes peut également être considéré comme une défense (ou une "excuse" pour) le mouvement de Jésus adressé aux Juifs : la majeure partie des discours et des sermons dans les Actes s'adressent à un public juif, les Romains servant d'arbitres externes sur les différends. concernant les coutumes et la loi juives. D'une part, Luc dépeint les disciples de Jésus comme une secte des Juifs, et donc ayant droit à une protection légale en tant que religion reconnue ; de l'autre, Luc ne semble pas clair quant à l'avenir que Dieu envisage pour les juifs et les chrétiens, célébrant la judéité de Jésus et de ses disciples immédiats, tout en soulignant également comment les juifs avaient rejeté le Messie promis par Dieu.
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Acts_of_the_Apostles/1)
 - [Chapitre 2](/fr/Bible/Acts_of_the_Apostles/2)
@@ -47,7 +47,7 @@ Luc–Actes est une tentative de répondre à un problème théologique, à savo
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

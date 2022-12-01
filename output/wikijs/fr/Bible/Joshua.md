@@ -12,7 +12,7 @@ Le Livre de Josué (hébreu : ספר יהושע Sefer Yehoshua) est le sixième 
 
 Presque tous les érudits conviennent que le Livre de Josué a peu de valeur historique pour le début d'Israël et reflète très probablement une période beaucoup plus tardive. Les premières parties du livre sont peut-être les chapitres 2 à 11, l'histoire de la conquête; ces chapitres ont ensuite été incorporés dans une première forme de Josué probablement écrite à la fin du règne du roi Josias (régné de 640 à 609 avant notre ère), mais le livre n'a été achevé qu'après la chute de Jérusalem dans l'empire néo-babylonien en 586 avant notre ère, et peut-être pas avant le retour de l'exil babylonien en 539 avant notre ère.
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Joshua/1)
 - [Chapitre 2](/fr/Bible/Joshua/2)
@@ -39,7 +39,7 @@ Presque tous les érudits conviennent que le Livre de Josué a peu de valeur his
 - [Chapitre 23](/fr/Bible/Joshua/23)
 - [Chapitre 24](/fr/Bible/Joshua/24)
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

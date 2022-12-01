@@ -14,7 +14,7 @@ Le livre peut être lu comme une longue méditation sur le destin de Jérusalem 
 
 Isaïe était l'une des œuvres les plus populaires parmi les Juifs de la période du Second Temple (vers 515 avant notre ère - 70 de notre ère). Dans les cercles chrétiens, il était tenu en si haute estime qu'il était appelé "le cinquième évangile", et son influence s'étend au-delà du christianisme à la littérature anglaise et à la culture occidentale en général, du livret du Messie de Haendel à une multitude de phrases de tous les jours. comme « des épées dans des socs de charrue » et « une voix dans le désert ». 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Isaiah/1)
 - [Chapitre 2](/fr/Bible/Isaiah/2)
@@ -83,7 +83,7 @@ Isaïe était l'une des œuvres les plus populaires parmi les Juifs de la pério
 - [Chapitre 65](/fr/Bible/Isaiah/65)
 - [Chapitre 66](/fr/Bible/Isaiah/66)
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

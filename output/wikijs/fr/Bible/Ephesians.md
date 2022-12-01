@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 L'Épître aux Éphésiens est le dixième livre du Nouveau Testament. Sa paternité a traditionnellement été attribuée à Paul l'Apôtre, mais à partir de 1792, cela a été contesté comme Deutéro-Paulin, c'est-à-dire des pseudépigraphes écrits au nom de Paul par un auteur ultérieur fortement influencé par la pensée de Paul, probablement "par un disciple fidèle à somme l'enseignement de Paul et de l'appliquer à une nouvelle situation quinze à vingt-cinq ans après la mort de l'Apôtre ». 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Ephesians/1)
 - [Chapitre 2](/fr/Bible/Ephesians/2)
@@ -21,7 +21,7 @@ L'Épître aux Éphésiens est le dixième livre du Nouveau Testament. Sa patern
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

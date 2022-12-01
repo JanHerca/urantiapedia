@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 Le Livre de la Sagesse, ou la Sagesse de Salomon, est une œuvre juive écrite en grec et très probablement composée à Alexandrie, en Égypte. Généralement daté du milieu du Ier siècle avant J.-C., le thème central de l'ouvrage est la « sagesse » elle-même, apparaissant sous deux aspects principaux. Le premier aspect est que, dans sa relation avec l'humanité, la sagesse est la perfection de la connaissance des justes comme un don de Dieu se manifestant en action. Le deuxième aspect est, en relation directe avec Dieu, la sagesse est avec Dieu de toute éternité. C'est l'un des sept livres sapientiels ou de sagesse de la Septante, les autres étant les Psaumes, les Proverbes, l'Ecclésiaste, le Cantique des Cantiques (Song of Solomon), Job et Sirach. Il est inclus dans les canons de l'Église catholique et de l'Église orthodoxe orientale. La plupart des protestants le considèrent comme faisant partie des apocryphes. 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Wisdom_of_Solomon/1)
 - [Chapitre 2](/fr/Bible/Wisdom_of_Solomon/2)
@@ -34,7 +34,7 @@ Le Livre de la Sagesse, ou la Sagesse de Salomon, est une œuvre juive écrite e
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

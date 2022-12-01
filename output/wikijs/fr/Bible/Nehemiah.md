@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 Le livre de Néhémie dans la Bible hébraïque, prend en grande partie la forme d'un mémoire à la première personne concernant la reconstruction des murs de Jérusalem après l'exil babylonien par Néhémie, un Juif qui est un haut fonctionnaire à la cour perse, et la dédicace de la ville et ses habitants aux lois de Dieu (Torah). Depuis le XVIe siècle, il est généralement traité comme un livre distinct dans la Bible. Avant cette date, il avait été inclus dans le Livre d'Esdras ; mais dans les Bibles chrétiennes latines à partir du XIIIe siècle, le livre de la Vulgate d'Esdras était divisé en deux textes, appelés respectivement premier et deuxième livres d'Esdras ; une séparation qui s'est canonisée avec les premières bibles imprimées en hébreu et en latin. Les traductions de la Bible protestante réformée du milieu du XVIe siècle produites à Genève ont été les premières à introduire le nom de «Livre de Néhémie» pour le texte anciennement appelé le «Deuxième livre d'Esdras».
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Nehemiah/1)
 - [Chapitre 2](/fr/Bible/Nehemiah/2)
@@ -27,7 +27,7 @@ Le livre de Néhémie dans la Bible hébraïque, prend en grande partie la forme
 - [Chapitre 13](/fr/Bible/Nehemiah/13)
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

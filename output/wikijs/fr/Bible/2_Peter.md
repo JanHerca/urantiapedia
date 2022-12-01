@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 La deuxième épître de Pierre est un livre du Nouveau Testament de la Bible, traditionnellement considéré comme ayant été écrit par l'apôtre Pierre. La plupart des érudits bibliques critiques considèrent l'épître comme pseudépigraphique (c'est-à-dire, rédigée par quelqu'un d'autre que Pierre, utilisant Pierre comme pseudonyme).
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/2_Peter/1)
 - [Chapitre 2](/fr/Bible/2_Peter/2)
@@ -18,7 +18,7 @@ La deuxième épître de Pierre est un livre du Nouveau Testament de la Bible, t
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

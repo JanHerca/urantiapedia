@@ -14,7 +14,7 @@ Kohelet proclame (1:2) « Vanité des vanités ! Tout est futile ! » ; le mot h
 
 Selon la tradition rabbinique, le livre a été écrit par le roi Salomon dans sa vieillesse, mais la présence de mots d'emprunt persans et d'araméismes indique une date pas antérieure à environ 450 avant notre ère, tandis que la dernière date possible pour sa composition est de 180 avant notre ère.
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Ecclesiastes/1)
 - [Chapitre 2](/fr/Bible/Ecclesiastes/2)
@@ -31,7 +31,7 @@ Selon la tradition rabbinique, le livre a été écrit par le roi Salomon dans s
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

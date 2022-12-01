@@ -12,7 +12,7 @@ The Book of Ezra is a book of the Hebrew Bible; which formerly included the Le L
 
 Ezra est écrit pour s'adapter à un modèle schématique dans lequel le Dieu d'Israël inspire un roi de Perse à charger un chef de la communauté juive d'accomplir une mission; trois chefs successifs accomplissent trois de ces missions, le premier reconstruisant le Temple, le second purifiant la communauté juive et le troisième scellant la ville sainte elle-même derrière un mur. (Cette dernière mission, celle de Néhémie, ne fait pas partie du Livre d'Esdras.) Le programme théologique du livre explique les nombreux problèmes que présente sa structure chronologique. Il est probablement apparu dans sa première version vers 399 av. J.-C., et a continué à être révisé et édité pendant plusieurs siècles avant d'être accepté comme scripturaire au début de l'ère chrétienne.
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Ezra/1)
 - [Chapitre 2](/fr/Bible/Ezra/2)
@@ -26,7 +26,7 @@ Ezra est écrit pour s'adapter à un modèle schématique dans lequel le Dieu d'
 - [Chapitre 10](/fr/Bible/Ezra/10)
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

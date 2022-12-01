@@ -16,7 +16,7 @@ Le livre commence par la naissance de Samuel et l'appel de Yahweh à son enfance
 
 Dans la Septante, une base des canons bibliques chrétiens, le texte est divisé en deux livres, maintenant appelés le premier et le deuxième livre de Samuel.
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/2_Samuel/1)
 - [Chapitre 2](/fr/Bible/2_Samuel/2)
@@ -44,7 +44,7 @@ Dans la Septante, une base des canons bibliques chrétiens, le texte est divisé
 - [Chapitre 24](/fr/Bible/2_Samuel/24)
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

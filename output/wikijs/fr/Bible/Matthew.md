@@ -14,7 +14,7 @@ Matthieu semble insister sur le fait que la tradition juive ne devrait pas être
 
 La plupart des érudits pensent que l'évangile a été composé entre 80 et 90 après JC, avec une gamme de possibilités entre 70 et 110 après JC; une date antérieure à 70 reste un point de vue minoritaire. L'ouvrage n'identifie pas son auteur et la tradition primitive l'attribuant à l'apôtre Matthieu est rejetée par les érudits modernes. Il était probablement un homme juif, se tenant à la frontière entre les valeurs juives traditionnelles et non traditionnelles, et familier avec les aspects juridiques techniques des Écritures débattus à son époque. Écrivant dans un "grec de synagogue" sémitique poli, il s'est inspiré de l'Évangile de Marc comme source, ainsi que de la collection hypothétique de dictons connue sous le nom de source Q (matériel partagé avec Luc mais pas avec Marc) et de matériel unique à sa propre communauté, appelée la source M ou « Special Matthew ».
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Matthew/1)
 - [Chapitre 2](/fr/Bible/Matthew/2)
@@ -47,7 +47,7 @@ La plupart des érudits pensent que l'évangile a été composé entre 80 et 90 
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

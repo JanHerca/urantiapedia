@@ -15,7 +15,7 @@ La plupart de ses chapitres (1–7, 11–27) consistent en des discours de Yahwe
 Les instructions du Lévitique mettent l'accent sur les pratiques rituelles, légales et morales plutôt que sur les croyances. Néanmoins, ils reflètent la vision du monde de l'histoire de la création dans Genèse 1 que Dieu souhaite vivre avec les humains. Le livre enseigne que l'exécution fidèle des rituels du sanctuaire peut rendre cela possible, tant que les gens évitent le péché et l'impureté autant que possible. Les rituels, en particulier les offrandes pour le péché et la culpabilité, fournissent les moyens d'obtenir le pardon des péchés ([Lévitique 4–5](/fr/Bible/Leviticus/4)) et la purification des impuretés ([Lévitique 11–16](/fr/Bible/Leviticus/11)) afin que Dieu puisse continuer à vivre dans le Tabernacle au milieu du peuple. 
 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Leviticus/1)
 - [Chapitre 2](/fr/Bible/Leviticus/2)
@@ -45,7 +45,7 @@ Les instructions du Lévitique mettent l'accent sur les pratiques rituelles, lé
 - [Chapitre 26](/fr/Bible/Leviticus/26)
 - [Chapitre 27](/fr/Bible/Leviticus/27)
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

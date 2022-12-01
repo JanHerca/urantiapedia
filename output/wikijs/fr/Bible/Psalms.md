@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 Le Livre des Psaumes (/sɑːmz/ SAHMZ ou /sɔː(l)mz/ SAW(L)MZ ; Hébreu : תְּהִלִּים, Tehillim, lit. « louanges »), également connu sous le nom de Psaumes, ou le Psautier, est le premier livre des Ketuvim ("Écrits"), la troisième section du Tanakh et un livre de l'Ancien Testament. Le titre est dérivé de la traduction grecque, ψαλμοί (psalmoi), signifiant « musique instrumentale » et, par extension, « les paroles accompagnant la musique ». Le livre est une anthologie d'hymnes religieux hébreux individuels, avec 150 dans la tradition chrétienne juive et occidentale et plus dans les églises chrétiennes orientales. Beaucoup sont liés au nom de David, mais la recherche moderne rejette sa paternité, attribuant à la place la composition des psaumes à divers auteurs écrivant entre le IXe et le Ve siècle av. 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Psalms/1)
 - [Chapitre 2](/fr/Bible/Psalms/2)
@@ -164,7 +164,7 @@ Le Livre des Psaumes (/sɑːmz/ SAHMZ ou /sɔː(l)mz/ SAW(L)MZ ; Hébreu : תְ�
 - [Chapitre 150](/fr/Bible/Psalms/150)
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

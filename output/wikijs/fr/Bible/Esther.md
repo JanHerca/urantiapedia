@@ -12,7 +12,7 @@ Le Livre d'Esther (hébreu : מְגִלַּת אֶסְתֵּר, romanisé : Megi
 
 Le livre raconte l'histoire d'une femme hébraïque en Perse, née sous le nom de Hadassah mais connue sous le nom d'Esther, qui devient reine de Perse et déjoue un génocide de son peuple. L'histoire est au cœur de la fête juive de Pourim, au cours de laquelle elle est lue à haute voix deux fois : une fois le soir et une autre le lendemain matin. Les livres d'Esther et du Cantique des cantiques sont les seuls livres de la Bible hébraïque qui ne mentionnent pas Dieu. 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Esther/1)
 - [Chapitre 2](/fr/Bible/Esther/2)
@@ -26,7 +26,7 @@ Le livre raconte l'histoire d'une femme hébraïque en Perse, née sous le nom d
 - [Chapitre 10](/fr/Bible/Esther/10)
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

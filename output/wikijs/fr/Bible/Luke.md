@@ -12,7 +12,7 @@ L'Évangile de Luc raconte les origines, la naissance, le ministère, la mort, l
 
 La plupart des érudits modernes conviennent que les principales sources utilisées pour Luc étaient a), l'Évangile de Marc, b), une collection de dictons hypothétiques appelée la source Q, et c), du matériel trouvé dans aucun autre évangile, souvent appelé le L ( pour Luc) source. L'auteur est anonyme; l'opinion traditionnelle selon laquelle c'était Luc l'évangéliste, le compagnon de Paul, est encore parfois avancée, mais le consensus scientifique souligne les nombreuses contradictions entre les Actes et les lettres pauliniennes authentiques. La date la plus probable de sa composition se situe vers 80-110 après JC, et il est prouvé qu'il était encore en cours de révision jusqu'au IIe siècle.
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Luke/1)
 - [Chapitre 2](/fr/Bible/Luke/2)
@@ -41,7 +41,7 @@ La plupart des érudits modernes conviennent que les principales sources utilis�
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

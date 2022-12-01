@@ -14,7 +14,7 @@ La Bible hébraïque inclut Daniel dans les Ketuvim (écrits), tandis que les ca
 
 L'influence du livre a résonné à travers les âges ultérieurs, de la communauté des manuscrits de la mer Morte et des auteurs des évangiles canoniques et du livre de l'Apocalypse, à divers mouvements du IIe siècle à la Réforme protestante et aux mouvements millénaristes modernes - sur lesquels il continue avoir une profonde influence. 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Daniel/1)
 - [Chapitre 2](/fr/Bible/Daniel/2)
@@ -31,7 +31,7 @@ L'influence du livre a résonné à travers les âges ultérieurs, de la communa
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

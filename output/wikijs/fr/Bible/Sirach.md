@@ -12,7 +12,7 @@ Le Livre du Siracide (/ˈsaɪræk/) ou Ecclesiasticus (/ɪˌkliːziˈæstɪkəs/
 
 En Égypte, il a été traduit en grec par le petit-fils anonyme de l'auteur, qui a ajouté un prologue. Ce prologue est généralement considéré comme le premier témoin d'un canon [clarification nécessaire] des livres des prophètes, et donc la date du texte fait l'objet d'un examen minutieux. Le livre lui-même est le plus grand livre de sagesse de l'Antiquité à avoir survécu. 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Sirach/1)
 - [Chapitre 2](/fr/Bible/Sirach/2)
@@ -68,7 +68,7 @@ En Égypte, il a été traduit en grec par le petit-fils anonyme de l'auteur, qu
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

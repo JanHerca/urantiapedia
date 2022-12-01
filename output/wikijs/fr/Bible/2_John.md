@@ -12,12 +12,12 @@ La deuxième épître de Jean est un livre du Nouveau Testament attribué à Jea
 
 Deuxième Jean et Troisième Jean sont les deux livres les plus courts de la Bible. Le livre le plus court en anglais est différent selon la traduction (version) lue. Par exemple, dans la nouvelle version internationale 2, John est le livre le plus court avec seulement 302 mots, mais dans la version King James (version autorisée), 3 John est le plus court avec seulement 295 mots. Cependant, Second John a le moins de versets de la Bible avec seulement 1 chapitre composé de seulement 13 versets. 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/2_John/1)
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

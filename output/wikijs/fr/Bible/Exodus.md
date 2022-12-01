@@ -13,9 +13,9 @@ Le Livre de l'Exode (du grec ancien : Ἔξοδος, romanisé : Éxodos ; hébr
 Traditionnellement attribuée à Moïse lui-même, les érudits modernes voient sa composition initiale comme un produit de l'exil babylonien (6ème siècle avant notre ère), basée sur des sources écrites antérieures et des traditions orales, avec des révisions finales dans la période post-exilique perse (5ème siècle avant notre ère). Carol Meyers, dans son commentaire sur l'Exode, suggère qu'il s'agit sans doute du livre le plus important de la Bible, car il présente les caractéristiques déterminantes de l'identité d'Israël - les souvenirs d'un passé marqué par les épreuves et la fuite, une alliance contraignante avec Dieu, qui choisit Israël, et l'établissement de la vie de la communauté et les lignes directrices pour la soutenir. Le consensus parmi les érudits modernes est que l'histoire du Livre de l'Exode est mieux comprise comme un mythe. 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Exodus/1)
 - [Chapitre 2](/fr/Bible/Exodus/2)

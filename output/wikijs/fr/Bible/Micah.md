@@ -14,7 +14,7 @@ Le livre comporte trois divisions principales, les chapitres 1–2, 3–5 et 6�
 
 Bien que le livre soit relativement court, il comprend la lamentation (1.8–16 ; 7.8–10), la théophanie (1.3–4), la prière hymnique de pétition et de confiance (7.14–20) et le "procès de l'alliance" (6.1–8) , un genre distinct dans lequel Yahweh (Dieu) poursuit Israël pour rupture de contrat de l'alliance mosaïque. 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Micah/1)
 - [Chapitre 2](/fr/Bible/Micah/2)
@@ -25,7 +25,7 @@ Bien que le livre soit relativement court, il comprend la lamentation (1.8–16 
 - [Chapitre 7](/fr/Bible/Micah/7)
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

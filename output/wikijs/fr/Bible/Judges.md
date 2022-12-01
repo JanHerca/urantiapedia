@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 Le Livre des Juges (ספר שופטים, Sefer Shoftim) est le septième livre de la Bible hébraïque et de l'Ancien Testament chrétien. Dans le récit de la Bible hébraïque, il couvre le temps entre la conquête décrite dans le Livre de Josué et l'établissement d'un royaume dans les Livres de Samuel, au cours de laquelle des juges bibliques ont servi de chefs temporaires. Les histoires suivent un schéma cohérent : les gens sont infidèles à Yahweh ; il les livre donc entre les mains de leurs ennemis ; le peuple se repent et implore Yahweh d'obtenir miséricorde, qu'il envoie sous la forme d'un chef ou d'un champion (un "juge" ; voir shophet ); le juge délivre les Israélites de l'oppression et ils prospèrent, mais bientôt ils retombent dans l'infidélité et le cycle se répète. Les érudits considèrent que de nombreuses histoires de Judges sont les plus anciennes de l'histoire deutéronomiste, avec leur rédaction majeure datée du 8ème siècle avant notre ère et avec des matériaux tels que le Chant de Deborah datant de beaucoup plus tôt.
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Judges/1)
 - [Chapitre 2](/fr/Bible/Judges/2)
@@ -34,7 +34,7 @@ Le Livre des Juges (ספר שופטים, Sefer Shoftim) est le septième livre d
 - [Chapitre 20](/fr/Bible/Judges/20)
 - [Chapitre 21](/fr/Bible/Judges/21)
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

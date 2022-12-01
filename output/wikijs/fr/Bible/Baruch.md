@@ -16,7 +16,7 @@ Bien que les premiers manuscrits connus de Baruch soient en grec, les caractéri
 
 Bien qu'il ne soit pas dans la Bible hébraïque, il se trouve dans la Septante, dans la Bible orthodoxe érythréenne/éthiopienne, ainsi que dans la version grecque de Théodotion. Dans les Bibles protestantes de 80 livres, le Livre de Baruch fait partie des apocryphes bibliques. Jérôme a exclu à la fois le livre de Baruch et la lettre de Jérémie de la Bible Vulgate, mais les deux ouvrages ont été introduits sporadiquement dans les Bibles Vulgate latines à partir du IXe siècle; et ont été incorporés dans l'édition Sixto-Clementine Vulgate. Dans la Vulgate, il est regroupé avec les livres des prophètes tels que les grands prophètes (Isaïe, Jérémie, Lamentations, Ezéchiel, Daniel) et les douze petits prophètes. Dans la Vulgate, les Apocryphes de la Bible King James et de nombreuses autres versions, la Lettre de Jérémie est ajoutée à la fin du Livre de Baruch en tant que sixième chapitre; dans la Septante et la Bible orthodoxe, le chapitre 6 est généralement compté comme un livre séparé, appelé la Lettre ou l'Épître de Jérémie.
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Baruch/1)
 - [Chapitre 2](/fr/Bible/Baruch/2)
@@ -26,7 +26,7 @@ Bien qu'il ne soit pas dans la Bible hébraïque, il se trouve dans la Septante,
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

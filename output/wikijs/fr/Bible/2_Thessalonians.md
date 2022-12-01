@@ -12,7 +12,7 @@ La deuxième épître aux Thessaloniciens est un livre du Nouveau Testament de l
 
 Les érudits qui soutiennent son authenticité le considèrent comme ayant été écrit vers 51-52 après JC, peu de temps après la première épître. Ceux qui le voient comme une composition ultérieure attribuent une date d'environ 80 à 115 après JC.
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/2_Thessalonians/1)
 - [Chapitre 2](/fr/Bible/2_Thessalonians/2)
@@ -20,7 +20,7 @@ Les érudits qui soutiennent son authenticité le considèrent comme ayant été
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

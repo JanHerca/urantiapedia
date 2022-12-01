@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 La première épître aux Corinthiens ( grec ancien : Α΄ ᾽Επιστολὴ πρὸς Κορινθίους ) est l'une des épîtres pauliniennes , faisant partie du Nouveau Testament de la Bible chrétienne . L'épître est attribuée à l'apôtre Paul et à un co-auteur, Sosthène, et est adressée à l'église chrétienne de Corinthe. Les érudits pensent que Sosthène était l'amanuensis qui a écrit le texte de la lettre sous la direction de Paul. Il aborde divers problèmes qui avaient surgi dans la communauté chrétienne de Corinthe et est composé sous une forme de grec koine . 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/1_Corinthians/1)
 - [Chapitre 2](/fr/Bible/1_Corinthians/2)
@@ -31,7 +31,7 @@ La première épître aux Corinthiens ( grec ancien : Α΄ ᾽Επιστολὴ 
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

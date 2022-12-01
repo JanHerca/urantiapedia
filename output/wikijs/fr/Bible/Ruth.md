@@ -14,7 +14,7 @@ Le livre, écrit en hébreu aux VIe et IVe siècles avant notre ère, raconte l'
 
 Le livre est tenu en estime par les Juifs qui relèvent de la catégorie des Juifs par choix, comme en témoigne la présence considérable de Boaz dans la littérature rabbinique. Le Livre de Ruth fonctionne également liturgiquement, car il est lu pendant la fête juive de Chavouot (« Semaines »). 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Ruth/1)
 - [Chapitre 2](/fr/Bible/Ruth/2)
@@ -23,7 +23,7 @@ Le livre est tenu en estime par les Juifs qui relèvent de la catégorie des Jui
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

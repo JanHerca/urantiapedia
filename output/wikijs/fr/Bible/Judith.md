@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 Le Livre de Judith est un livre deutérocanonique, inclus dans la Septante et l'Ancien Testament chrétien catholique et orthodoxe oriental de la Bible, mais exclu du canon hébreu et attribué par les protestants aux apocryphes. Il raconte l'histoire d'une veuve juive, Judith, qui utilise sa beauté et son charme pour détruire un général assyrien et sauver Israël de l'oppression. Les manuscrits grecs survivants contiennent plusieurs anachronismes historiques, c'est pourquoi certains érudits protestants considèrent maintenant le livre comme non historique : une parabole, un roman théologique ou peut-être le premier roman historique. Le nom Judith (Hébreu : יְהוּדִית, Moderne : Yehudit, Tibérien : Yəhûḏîṯ, « Loué » ou « Juive ») est la forme féminine de Juda.
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Judith/1)
 - [Chapitre 2](/fr/Bible/Judith/2)
@@ -31,7 +31,7 @@ Le Livre de Judith est un livre deutérocanonique, inclus dans la Septante et l'
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

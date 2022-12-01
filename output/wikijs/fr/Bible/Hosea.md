@@ -14,7 +14,7 @@ Situé autour de la chute du Royaume du Nord d'Israël, le Livre d'Osée dénonc
 
 Daté de c. 760-720 avant JC, c'est l'un des livres les plus anciens de la Bible hébraïque, antérieur aux recensions finales de la Torah complète (Pentateuque). Osée est la source de l'expression "récolter la tempête", qui est passée dans l'usage courant en anglais et dans d'autres langues.
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Hosea/1)
 - [Chapitre 2](/fr/Bible/Hosea/2)
@@ -32,7 +32,7 @@ Daté de c. 760-720 avant JC, c'est l'un des livres les plus anciens de la Bible
 - [Chapitre 14](/fr/Bible/Hosea/14)
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

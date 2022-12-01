@@ -14,7 +14,7 @@ Les nombres commencent au mont Sinaï, où les Israélites ont reçu leurs lois 
 
 Numbers est le point culminant de l'histoire de l'exode d'Israël de l'oppression en Égypte et de son voyage pour prendre possession du pays que Dieu a promis à ses pères. En tant que tel, il conclut les thèmes introduits dans la Genèse et joués dans l'Exode et le Lévitique : Dieu a promis aux Israélites qu'ils deviendront une grande (c'est-à-dire nombreuse) nation, qu'ils auront une relation spéciale avec Yahweh leur dieu, et qu'ils prendront possession du pays de Canaan. Les chiffres démontrent aussi l'importance de la sainteté, de la fidélité et de la confiance : malgré la présence de Dieu et de ses prêtres, Israël manque de foi et la possession de la terre est laissée à une nouvelle génération. 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Numbers/1)
 - [Chapitre 2](/fr/Bible/Numbers/2)
@@ -53,7 +53,7 @@ Numbers est le point culminant de l'histoire de l'exode d'Israël de l'oppressio
 - [Chapitre 35](/fr/Bible/Numbers/35)
 - [Chapitre 36](/fr/Bible/Numbers/36)
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

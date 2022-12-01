@@ -12,13 +12,13 @@ L'Épître à Philémon est l'un des livres du Nouveau Testament chrétien. Il s
 
 Philémon était un riche chrétien, peut-être un évêque de l'église de maison qui se réunissait chez lui (Philémon 1 :1-2) à Colosses. Cette lettre est maintenant généralement considérée comme l'une des œuvres incontestées de Paul. C'est la plus courte des lettres existantes de Paul, composée de seulement 335 mots dans le texte grec. 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Philemon/1)
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 L'Épître aux Romains est le sixième livre du Nouveau Testament, et le plus long des treize épîtres pauliniennes. Les érudits bibliques conviennent qu'il a été composé par l'apôtre Paul pour expliquer que le salut est offert par l'évangile de Jésus-Christ.
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Romans/1)
 - [Chapitre 2](/fr/Bible/Romans/2)
@@ -31,7 +31,7 @@ L'Épître aux Romains est le sixième livre du Nouveau Testament, et le plus lo
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

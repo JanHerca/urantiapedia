@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 Le livre, comme les autres livres des Maccabées, a été inclus dans la Septante, une importante collection grecque d'écritures juives. Il n'a pas été rapidement traduit en hébreu ni inclus dans le canon hébreu massorétique, le Tanakh. Bien que peut-être lu par les Juifs de langue grecque au cours des deux siècles qui ont suivi sa création, les Juifs ultérieurs n'ont pas considéré l'œuvre comme canonique ni importante. Les premiers chrétiens ont honoré l'œuvre, et elle a été incluse en tant qu'œuvre deutérocanonique de l'Ancien Testament. Les chrétiens catholiques , orthodoxes orientaux et orthodoxes orientaux considèrent toujours l'œuvre deutérocanonique ; Les chrétiens protestants ne considèrent pas 2 Maccabées comme canoniques, bien que beaucoup incluent 2 Maccabées dans les apocryphes bibliques, des livres non canoniques utiles à des fins d'édification. 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/2_Maccabees/1)
 - [Chapitre 2](/fr/Bible/2_Maccabees/2)
@@ -34,7 +34,7 @@ Le livre, comme les autres livres des Maccabées, a été inclus dans la Septant
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

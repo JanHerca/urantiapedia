@@ -12,7 +12,7 @@ Le Livre des Proverbes (hébreu : מִשְלֵי, Mīšlē, « Proverbes (de Sal
 
 Proverbes n'est pas une simple anthologie mais une « collection de recueils » relatifs à un mode de vie qui a duré plus d'un millénaire. C'est un exemple de la littérature de sagesse biblique, et soulève des questions sur les valeurs, le comportement moral, le sens de la vie humaine et la conduite juste, et son fondement théologique est que "la crainte de Dieu (c'est-à-dire la soumission à la volonté de Dieu) est le commencement de la sagesse ». La sagesse est louée pour son rôle dans la création; Dieu l'a acquise avant tout, et par elle il a donné l'ordre au chaos ; et puisque les humains ont la vie et la prospérité en se conformant à l'ordre de la création, la recherche de la sagesse est l'essence et le but de la vie. 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Proverbs/1)
 - [Chapitre 2](/fr/Bible/Proverbs/2)
@@ -48,7 +48,7 @@ Proverbes n'est pas une simple anthologie mais une « collection de recueils » 
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

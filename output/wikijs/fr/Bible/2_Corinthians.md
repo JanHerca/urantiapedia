@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 La deuxième épître aux Corinthiens est une épître paulinienne du Nouveau Testament de la Bible chrétienne. L'épître est attribuée à l'apôtre Paul et à un co-auteur nommé Timothée, et est adressée à l'église de Corinthe et aux chrétiens de la province environnante d'Achaïe, dans la Grèce moderne, selon Jérôme, Tite était l'amanuensis de cette épître . 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/2_Corinthians/1)
 - [Chapitre 2](/fr/Bible/2_Corinthians/2)
@@ -28,7 +28,7 @@ La deuxième épître aux Corinthiens est une épître paulinienne du Nouveau Te
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

@@ -12,14 +12,14 @@ Le Livre d'Habacuc est le huitième livre des 12 petits prophètes de la Bible. 
 
 Des trois chapitres du livre, les deux premiers sont un dialogue entre Yahvé et le prophète. Le message selon lequel « le juste vivra par sa foi » joue un rôle important dans la pensée chrétienne. Il est utilisé dans l'épître aux Romains, l'épître aux Galates et l'épître aux Hébreux comme point de départ du concept de foi. Une copie de ces chapitres est incluse dans le commentaire d'Habacuc, trouvé parmi les manuscrits de la mer Morte. Le chapitre 3 peut être un ajout indépendant, maintenant reconnu comme une pièce liturgique, mais a peut-être été écrit par le même auteur que les chapitres 1 et 2. 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Habakkuk/1)
 - [Chapitre 2](/fr/Bible/Habakkuk/2)
 - [Chapitre 3](/fr/Bible/Habakkuk/3)
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

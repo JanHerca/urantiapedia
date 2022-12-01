@@ -18,13 +18,13 @@ La prière est incluse dans certaines éditions de la Septante grecque. Par exem
 
 La prière apparaît dans les traductions en ancien syriaque, ancien slave, éthiopien et arménien. Dans la Bible éthiopienne, la prière se trouve dans 2 Chroniques.
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Prayer_of_Manesseh/1)
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

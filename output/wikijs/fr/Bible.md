@@ -24,7 +24,7 @@ Cette information et d'autres sur la façon dont la Bible est organisée dans le
 
 Voici une liste provisoire des livres bibliques et extra-bibliques à inclure :
 
-- [La Bible - Index](/fr/index/Bible)
+- [La Bible - Table des matières](/fr/index/Bible)
 
 
 ### L'Ancien Testament

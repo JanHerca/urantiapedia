@@ -12,7 +12,7 @@ Le Premier Livre des Maccabées, également connu sous le nom de Premiers Maccab
 
 1 Maccabées est surtout connu pour son récit d'une victoire précoce dans la révolte des Maccabées contre l'empire séleucide : la reprise de Jérusalem en l'an 164 avant JC et la reconsécration du Second Temple - le récit derrière la fête juive de Hanoucca. 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/1_Maccabees/1)
 - [Chapitre 2](/fr/Bible/1_Maccabees/2)
@@ -33,7 +33,7 @@ Le Premier Livre des Maccabées, également connu sous le nom de Premiers Maccab
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

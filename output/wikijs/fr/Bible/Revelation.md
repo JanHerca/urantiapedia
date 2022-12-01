@@ -16,7 +16,7 @@ Le livre couvre trois genres littéraires: l'épistolaire, l'apocalyptique et le
 
 L'imagerie obscure et extravagante a conduit à une grande variété d'interprétations chrétiennes. Les interprétations historicistes voient l'Apocalypse comme contenant une vision large de l'histoire tandis que les interprétations prétéristes traitent l'Apocalypse comme faisant principalement référence aux événements de l'ère apostolique (1er siècle), ou, au plus tard, à la chute de l'Empire romain d'Occident au 5ème siècle. Les futuristes, quant à eux, croient que l'Apocalypse décrit des événements futurs avec les sept églises devenant le corps des croyants à travers l'âge, et une réémergence ou une règle continue d'un système gréco-romain avec des capacités modernes décrites par Jean d'une manière qui lui est familière; et les interprétations idéalistes ou symboliques considèrent que l'Apocalypse ne se réfère pas à des personnes ou à des événements réels, mais est une allégorie du chemin spirituel et de la lutte continue entre le bien et le mal.
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Revelation/1)
 - [Chapitre 2](/fr/Bible/Revelation/2)
@@ -42,7 +42,7 @@ L'imagerie obscure et extravagante a conduit à une grande variété d'interpré
 - [Chapitre 22](/fr/Bible/Revelation/22)
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

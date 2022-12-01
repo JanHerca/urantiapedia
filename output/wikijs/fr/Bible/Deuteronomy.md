@@ -16,7 +16,7 @@ Les quatre derniers chapitres (31-34) contiennent le Cantique de Moïse, la Bén
 
 L'un de ses versets les plus significatifs est [Deutéronome 6 : 4](/Bible/Deutéronome/6#v4), le Shema Yisrael, qui est devenu la déclaration définitive de l'identité juive : « Écoute, ô Israël : l'Éternel, notre Dieu, le SEIGNEUR est un. Les versets 6 :4-5 ont également été cités par Jésus dans [Marc 12 :28-34](/Bible/Mark/12#v28) comme étant le Grand Commandement. 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Deuteronomy/1)
 - [Chapitre 2](/fr/Bible/Deuteronomy/2)
@@ -53,7 +53,7 @@ L'un de ses versets les plus significatifs est [Deutéronome 6 : 4](/Bible/Deut�
 - [Chapitre 33](/fr/Bible/Deuteronomy/33)
 - [Chapitre 34](/fr/Bible/Deuteronomy/34)
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

@@ -17,7 +17,7 @@ Il est divisible en deux parties, l'histoire primitive (chapitres 1 à 11) et l'
 
 Dans le judaïsme, l'importance théologique de la Genèse est centrée sur les alliances liant Dieu à son peuple élu et le peuple à la Terre promise.
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Genesis/1)
 - [Chapitre 2](/fr/Bible/Genesis/2)
@@ -71,7 +71,7 @@ Dans le judaïsme, l'importance théologique de la Genèse est centrée sur les 
 - [Chapitre 50](/fr/Bible/Genesis/50)
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

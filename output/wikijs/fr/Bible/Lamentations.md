@@ -12,7 +12,7 @@ Le Livre des Lamentations (hébreu : אֵיכָה, ʾĒḵā, de son incipit sig
 
 Certains motifs d'une « complainte de la ville » mésopotamienne traditionnelle sont évidents dans ce livre, comme le deuil de la désertion de la ville par Dieu, sa destruction et le retour ultime de la divinité ; d'autres « parallèles au chant funèbre dans lequel l'endeuillé se lamente... et... s'adresse aux [morts] ». Le ton est sombre : Dieu ne parle pas, le degré de souffrance est présenté comme écrasant et les attentes de rédemption future sont minimes. Néanmoins, l'auteur précise à plusieurs reprises que la ville (et même l'auteur lui-même) avait abondamment péché contre Dieu, ce à quoi Dieu avait fortement répondu. Ce faisant, l'auteur ne blâme pas Dieu mais le présente plutôt comme juste, parfois même comme miséricordieux. 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Lamentations/1)
 - [Chapitre 2](/fr/Bible/Lamentations/2)
@@ -22,7 +22,7 @@ Certains motifs d'une « complainte de la ville » mésopotamienne traditionnell
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

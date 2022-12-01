@@ -14,7 +14,7 @@ Son livre se veut un message aux Juifs en exil à Babylone, expliquant le désas
 
 Il est descendu en deux versions distinctes bien que liées, l'une en hébreu, l'autre connue à partir d'une traduction grecque. La date des deux (grec et hébreu) ​​peut être suggérée par le fait que le grec montre des préoccupations typiques de la période perse ancienne, tandis que le massorétique (c'est-à-dire l'hébreu) ​​montre des perspectives qui, bien que connues à l'époque perse, n'ont pas atteint leur réalisation jusqu'au IIe siècle avant notre ère. 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/Jeremiah/1)
 - [Chapitre 2](/fr/Bible/Jeremiah/2)
@@ -69,7 +69,7 @@ Il est descendu en deux versions distinctes bien que liées, l'une en hébreu, l
 - [Chapitre 51](/fr/Bible/Jeremiah/51)
 - [Chapitre 52](/fr/Bible/Jeremiah/52)
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

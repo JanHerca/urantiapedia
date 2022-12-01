@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 La première épître de Pierre est un livre du Nouveau Testament. L'auteur se présente comme Pierre l'Apôtre. La fin de la lettre comprend une déclaration qui implique qu'elle a été écrite à partir de "Babylone", qui est peut-être une référence à Rome. La lettre est adressée aux « pèlerins élus de la diaspora » en Asie Mineure souffrant de persécutions religieuses.
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/1_Peter/1)
 - [Chapitre 2](/fr/Bible/1_Peter/2)
@@ -20,7 +20,7 @@ La première épître de Pierre est un livre du Nouveau Testament. L'auteur se p
 
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links

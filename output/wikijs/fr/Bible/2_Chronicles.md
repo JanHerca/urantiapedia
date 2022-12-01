@@ -12,7 +12,7 @@ Le Livre des Chroniques (hébreu : דִּבְרֵי־הַיָּמִים Dīvrē-
 
 Le livre a été divisé en deux livres dans la Septante et traduit au milieu du IIIe siècle av. Dans les contextes chrétiens, les Chroniques sont désignées au pluriel comme les Livres des Chroniques, d'après le nom latin chronicon donné au texte par Jérôme, mais sont également rarement désignées par leur nom grec comme les Livres de Paralipomenon. Dans les Bibles chrétiennes, ils suivent généralement les deux Livres des Rois et précèdent Esdras-Néhémie, le dernier livre axé sur l'histoire de l'Ancien Testament protestant. 
 
-## Index
+## Table des matières
 
 - [Chapitre 1](/fr/Bible/2_Chronicles/1)
 - [Chapitre 2](/fr/Bible/2_Chronicles/2)
@@ -52,7 +52,7 @@ Le livre a été divisé en deux livres dans la Septante et traduit au milieu du
 - [Chapitre 36](/fr/Bible/2_Chronicles/36)
 
 
-[Index complet de la Bible](/fr/index/bible)
+[Table des matières complet de la Bible](/fr/index/bible)
 
 
 ## External links
