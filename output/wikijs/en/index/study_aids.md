@@ -25,7 +25,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Works by William S. Sadler, Jr.
 
-| Status                  | Title                                                                                                                      | Author                | Etiquetas                                                                                                          |
+| Status                  | Title                                                                                                                      | Author                | Tags                                                                                                               |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | :ballot_box_with_check: | [A Study of the Master Universe](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe)                             | William S. Sadler Jr. | [Astronomy](/t/astronomy), [Cosmology](/t/cosmology), [Study Aid](/t/study%20aid), [Bill Sadler](/t/bill%20sadler) |
 | :ballot_box_with_check: | [Appendices to A Study of the Master Universe](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe) | William S. Sadler Jr. | [Astronomy](/t/astronomy), [Cosmology](/t/cosmology), [Study Aid](/t/study%20aid), [Bill Sadler](/t/bill%20sadler) |
