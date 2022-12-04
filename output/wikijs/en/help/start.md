@@ -75,11 +75,9 @@ To find out about the Milestone of the project, check [Project Milestones](/en/h
 
 ## Current status
 
-*Urantiapedia* currently stands as follows:
-* english: towards milestone I.
-* spanish: towards milestone I.
-* other translations of *The Urantia Book*: only preliminary work for milestone I has begun.
-Milestone I has not yet been avieved with any language.
+Currently *Urantiapedia* stands as follows:
+* in all supported languages (25): in phase I.
+* in English and Spanish: between phase I and phase II.
 
 To know more about the current progress of the project check here: [Status](/en/help/status).
 

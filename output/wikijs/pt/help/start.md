@@ -75,11 +75,9 @@ Para saber mais sobre o Marco do projeto, consulte [Marcos do Projeto](/pt/help/
 
 ## Status atual
 
-*Urantiapedia* atualmente está assim:
-* inglês: rumo ao marco I.
-* espanhol: rumo ao marco I.
-* outras traduções de *O Livro de Urântia*: apenas o trabalho preliminar para o marco I começou.
-Marco I ainda não foi avived com nenhum idioma.
+Atualmente, a *Urantiapedia* é a seguinte:
+* em todos os idiomas suportados (25): na fase I.
+* em inglês e espanhol: entre fase I e fase II.
 
 Para saber mais sobre o andamento atual do projeto, verifique aqui: [Status](/pt/help/status).
 

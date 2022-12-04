@@ -76,11 +76,10 @@ Para conocer las fases del proyecto consulta [Fases del proyecto](/es/help/phase
 ## Situación actual
 
 Actualmente *Urantiapedia* se encuentra como sigue:
-* inglés: en la fase I.
-* español: en la fase I.
-* resto de idiomas en los que está traducido *El Libro de Urantia*: sólo se han empezado trabajos preliminares de la fase I.
+* en todos los idiomas soportados (25): en la fase I.
+* en inglés y español: entre la fase I y la fase II.
 
-Aún no se ha entrado en Fase II con ningún idioma. Para conocer más sobre el progreso del proyecto: [Status](/es/help/status)
+Para conocer más sobre el progreso del proyecto: [Status](/es/help/status)
 
 
 ## ¿Cómo colaborar?
