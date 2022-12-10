@@ -4,7 +4,7 @@
 
 ## What is?
 
-[Urantiapedia](https://urantiapedia.org) is a web for publishing, sharing and collaborate in any content related to [The Urantia Book](https://www.urantia.org/).
+[Urantiapedia](https://urantiapedia.org) is a website where to publish, share and collaborate on any of [The Urantia Book](https://www.urantia.org/) related content.
 
 ---
 

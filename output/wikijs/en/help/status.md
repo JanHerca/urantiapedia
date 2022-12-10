@@ -84,7 +84,7 @@ For each language the content expected in this milestone is:
   - Jan Herca articles: 41 planned
   - Other: 100 planned
   - TOTAL: 927 planned
-- :notebook: Study aids: Planned about 20 of them.
+- :notebook: Study aids: Planned about 20 of them, available for `en`.
 - :memo: Diagrams: no planned, only tests.
 - :capital_abcd: Indexes: currently indexes for topics are available. More are required to be planned.
 
@@ -100,7 +100,7 @@ For each language the content expected in this milestone is:
 | Estonian   | `et` |                             |                       |                           |                       |                   |                        |
 | Farsi      | `fa` |                             |                       |                           |                       |                   |                        |
 | Finnish    | `fi` |                             |                       |                           |                       |                   |                        |
-| French     | `fr` |                             |                       |                           |                       |                   |                        |
+| French     | `fr` |                             |                       |                           | :clock2:              |                   |                        |
 | Hebrew     | `he` |                             |                       |                           |                       |                   |                        |
 | Hungarian  | `hu` |                             |                       |                           |                       |                   |                        |
 | Indonesian | `id` |                             |                       |                           |                       |                   |                        |
@@ -178,7 +178,7 @@ Here you can find a list of tasks that currently are not active. If you are a co
 | :closed_book: | The Bible | Review of automatic translation of _Paramony_ footnotes: all languages except `en` and `es`. |
 | :green_book: | Extra-Biblical books | Obtain public domain Extra-Biblical books : all languages. |
 | :books: | Other books | Obtain books supposed sources (downloading from web or scanning): books are usually in `en`.<br> Automatic translation of previous books: all languages apart from `en`.<br> Review of previous translation: all languages apart from `en`. |
-| :page_with_curl: | Articles | Automatic translation of articles: all languages apart from `en`.<br> Review of previous translation: all languages apart from `en`. |
+| :page_with_curl: | Articles | Addition of articles in `en` and set style.<br>Automatic translation of articles: all languages apart from `en`.<br> Review of previous translation: all languages apart from `en`. |
 | :notebook: | Study aids | Plan a list of study aids to include and create one for testing. |
 | :memo: | Diagrams | Plan a list of diagrams to include and create one for testing. |
 | :capital_abcd: | Indexes | Plan a list of indexes to include. |
