@@ -1,0 +1,132 @@
+---
+title: "Une Étude du Maître Univers — Appendix XX. The Post-Ultimate Age"
+description: 
+published: true
+date: 2022-10-08T14:02:03.086Z
+tags: astronomy, cosmology, study aid, bill sadler
+editor: markdown
+dateCreated: 2022-10-08T14:02:03.086Z
+---
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_19">Appendix XIX. The Second Experiential Trinity</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_21">Appendix XXI. The Concept of the Cosmos Infinite</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+Author: **William S. Sadler, Jr.**
+
+Nous avons utilisé le terme «âges post-suprême» pour désigner ces âges de l’univers qui suivent l’émergence de l’Être Suprême et le parachèvement de la croissance évolutionnaire du grand univers . Il devrait logiquement s’ensuivre que nous devrions désigner la durée du temps qui commencera après l’émergence de l’Ultime (et le parachèvement du maitre univers ) comme étant «l’âge post-ultime».
+
+Que signifie l’expression «l’âge post-ultime» ? Il semble que ce soit le septième âge de l’univers, mais est-ce réellement un «âge d’univers» ? Nous pourrions peutêtre penser à lui comme à un «âge postérieur à l’univers», car il ne commence pas réellement avant le parachèvement du maitre univers tout entier. Il semble que ce soit l’âge final de l’univers, mais il pourrait représenter la première d’une série de nouvelles époques qui suivront l’achèvement de tous les âges précédents de l’univers. Et il pourrait être aussi l’ère finale d’une série et la première d’une autre série.
+
+## § 1. L’Aube de l’Âge Final
+
+Il y a une manière d’améliorer notre compréhension de la signification de l’âge post-ultime, c’est de faire un inventaire de ce qui s’est exactement passé lors de son commencement. Ceci nous aidera à comprendre combien il diffère grandement de tous les âges qui l’ont précédé. Considérons les changements qui ont eu lieu dans la déité, dans les créatures et dans les univers.
+- _Le maitre univers est terminé._ Il a parachevé toute croissance (prénucléaire) possible – de Havona jusqu’au quatrième niveau d’espace. Le progrès, dans son ensemble, qu’il soit créatif, évolutionnaire ou d’extériorisation, a atteint son point culminant. La Maitresse Création est une réalité expérientielle terminée et parachevée [LU 106:4.2](/fr/The_Urantia_Book/106#p4_2).
+- _Le Suprême a parachevé sa croissance tertiaire._ Cette phase de la croissance du Suprême se rapporte à son évolution dans le maitre univers en tant que potentiel mental et en tant que SuperTout-Puissant [LU 116:0.5](/fr/The_Urantia_Book/116#p0_5); [LU 116:1.5](/fr/The_Urantia_Book/116#p1_5). Nous croyons que c’est là une croissance transcendantale [LU 106:0.5](/fr/The_Urantia_Book/106#p0_5) et qu’elle conduit au statut d’existence ultime [LU 106:0.6](/fr/The_Urantia_Book/106#p0_6). Nous devrions nous souvenir que le Suprême est maintenant une déité postfinie ayant une capacité de collaboration absonite dans la Trinité Ultime [LU 117:7.9](/fr/The_Urantia_Book/117#p7_9).
+- _La Trinité Ultime est complètement unifiée._ Cette trinité est faite de l’union de déité du Suprême, du Corps des Architectes et du Corps des Créateurs Suprêmes [LU 0:12.6](/fr/The_Urantia_Book/0#p12_6). Son unification complète doit se réaliser avant l’émergence de l’Ultime [LU 106:3.2](/fr/The_Urantia_Book/106#p3_2).
+- _Dieu l’Ultime a émergé._ La deuxième déité expérientielle est devenue complètement fonctionnelle en tant que coordinatrice du maitre univers. L’Aventure Ultime a été consommée !
+- _L’Aventure ultime est terminée._ La quête absonite de la déité a été parachevée. Les citoyens du maitre univers ont atteint Dieu l’Ultime en tant qu’expérience personnelle (superpersonnelle). Cela signifie qu’ils ont aussi atteint le Père Universelsur les niveaux transcendantaux de l’Ultimité de la Déité. C’est l’accès superfini à Dieu le Père, et il doit signifier la découverte de Dieu en tant qu’omnipotent, omniscient et omniprésent [LU 0:1.10](/fr/The_Urantia_Book/0#p1_10) – sa connaissance sur les «niveaux supérieurs» qui peuvent être atteints par «l’expérience ultime de la créature» [LU 117:7.7](/fr/The_Urantia_Book/117#p7_7).
+- _La croissance transcendantale est achevée._ L’âge post-ultime termine toute croissance absonite et toute croissance post-suprême. La croissance et l’expérience finies s’achèvent avec l’émergence du Suprême ; la croissance et la (super) expérience absonites doivent se terminer avec l’émergence de l’Ultime. Cela signifie la fin de toute croissance relative – de toute croissance subabsolue. Les séries ascendantes des finis incomplets, des finis maxima et transcendantaux semblent avoir été épuisées. Même la réalité ultime semblerait, dans cet âge, entrer dans un stade d’expansion post-ultime [LU 106:0.3](/fr/The_Urantia_Book/106#p0_3).
+- _L’âge final commence, mais il n’a pas de fin._ Ceci est une caractéristique unique de l’âge post-ultime. Il semble qu’il a une origine dans le temps, mais il n’a pas de fin temporelle. (Le premier Age est juste l’opposé – il a une fin dans le temps, mais pas d’origine temporelle).
+
+L’âge post-ultime a un commencement dans le temps quand le Sixième âge de l’univers, l’âge du quatrième niveau d’espace, se termine. L’âge final a ce commencement bien défini, mais il semble ne pas avoir de fin discernable. Il pourrait inclure de multiples ères et des époques sans nombre et comprendre toutes sortes de subdivisions, et chacune de celles-ci pourrait avoir un commencement et une fin bien définie ; mais l’âge post-ultime ne peut guère avoir une fin.
+
+A quoi ressemblera la vie dans l’âge post-ultime – quelque chose qui n’a pas de fin ? Cet âge final sera-t-il un chemin menant tout droit vers les espaces incommensurables de toute l’éternité future ? Nous ne le pensons pas. Faisons quelques comparaisons entre cet âge sans fin et les sept époques de l’histoire d’un monde habité.
+
+L’histoire d’un monde habité est divisée en sept époques majeures, commençant avec l’apparition évolutionnaire de l’homme et conduisant à la septième et dernière époque – l’Ère de Lumière et de Vie [LU 52:0.2](/fr/The_Urantia_Book/52#p0_2). Chacune des six premières époques a un commencement et une fin ; la septième a un commencement, mais elle n’a pas de fin discernable. Cela veut-il dire que l’Ère de Lumière et de Vie se poursuit sans fin ? Non, elle ne le fait pas.
+
+L’Ère de Lumière et de Vie est divisée en sept stades de croissance progressive [LU 55:0.5](/fr/The_Urantia_Book/55#p0_5). Chacun des six premiers stades commence et se termine ; seul le septième n’a pas de fin. Nous croyons que l’âge post-ultime sera subdivisé selon ce même principe. Disons que ses divisions majeures formeront sept «stades» ; chacun des six premiers pourrait commencer et avoir une fin qui serait annoncée par la conquête de quelque but satisfaisant. Le septième et dernier stade, seul, serait sans fin. (Et, si l’Ère de Lumière et de Vie peut être subdivisée, alors «le septième et dernier stade» de l’âge post-ultime pourrait aussi, à son tour, être subdivisé en sept substades, et ainsi de suite.)
+
+## § 2. Le Maitre Univers Parachevé
+
+La perspective du maitre univers parachevé est impressionnante . Si nous reprenons nos calculs précédents ([appendice XVI, §6](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_16#h-5-dimension-du-niveau-d’espace-quaternaire)), nous trouvons que, si nous donnons une valeur de «un» au grand univers , nous devrions donner, sur la même échelle, une valeur de «100 millions» au maitre univers. L’idée même d’explorer, d’organiser et de perfectionner une création aussi immense dépasse complètement l’imagination ; mais ce but peut être atteint. Tout immense qu’il est, le maitre univers a des limites extérieures ; l’éternité perdure, ces limites extérieures seront éventuellement atteintes et l’Aventure Ultime sera terminée.
+
+Dieu l’Ultime fonctionnera en tant que coordinateur expérientiel de la Maitresse Création tout entière ; ses fonctions seront probablement associées à celles de la Trinité Ultime et de la Trinité du Paradis, grâce au fonctionnement de la Déité totale sur le niveau que l’on appelle «l’Ultimité de la Déité» [LU 0:1.3](/fr/The_Urantia_Book/0#p1_3); [LU 0:1.10](/fr/The_Urantia_Book/0#p1_10) ; [LU 0:12.6](/fr/The_Urantia_Book/0#p12_6); [LU 10:5.5](/fr/The_Urantia_Book/10#p5_5). L’Ultimité de la Déité est un niveau de fonctionnement sur lequel l’Ultime et ces deux trinités sont fonctionnellement associées ([appendice XVIII, §7](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_18#h-7-l’ultimité-de-la-déité)).
+
+Vraisemblablement, l’Être Suprême continuera à fonctionner en tant que souverain des créations centrales, les univers intérieurs. Les Maitres Esprits auront probablement étendus aussi leurs fonctionnements jusqu’à la périphérie du maitre univers ; leurs attributs sont le suprême, l’ultime et le suprême-ultime [LU 16:1.3](/fr/The_Urantia_Book/16#p1_3). Les Fils et Esprits des Univers , avec les finalitaires et leurs associés, seront présents et fonctionnels. Et à quoi ressembleront tous ces êtres lorsqu’ils auront complété la croissance totale absonite par le service dans les quatre niveaux d’espace extérieurs (alors parachevés) ?
+
+Comment sera notre monde dans l’âge post-ultime ? Nous lisons la description d’un monde habité, dans le septième stade de lumière et de vie, et cela ressemble à une utopie. Mais notre monde, à la fin du Sixième âge de l’univers, aura progressé bien au-delà des sept stades de lumière et de vie. Il aura atteint le statut ultime. Et notre monde sera toujours ici ; s’il se maintient jusqu’au cinquième stade de lumière et de vie,il perdurera à jamais [LU 55:0.3](/fr/The_Urantia_Book/55#p0_3); [LU 55:11.2](/fr/The_Urantia_Book/55#p11_2).
+
+## § 3. Le Maitre Univers Nucléaire
+
+L’âge post-ultime devrait être vu dans au moins deux perspectives: il est en rapport avec l’existence continue du maitre univers parachevé et rendu parfait ; et il est aussi en relation avec les développements cosmiques à l’extérieur des frontières de la création parachevée du maitre univers. Cela signifie que nous devons penser au maitre univers non seulement comme à un parachèvement, mais aussi comme à un commencement.
+
+Quels seront les évènements qui inaugureront le passage de l’état statique de la destinée accomplie à l’état dynamique de la quête pour une nouvelle destinée ? Nous avons fait l’inventaire des évènements qui ont marqué «l’aurore» de l’âge post-ultime ; poursuivons maintenant en considérant les développements qui s’ensuivent et qui nous conduiront dans les expansions progressives qui se dérouleront dans cet âge:
+- _L’Être Suprême._ La première déité expérientielle a parachevé sa croissance dans le maitre univers en tant que potentiel mental et en tant que Super-Tout-Puissant, mais nous doutons qu’elle ait terminé sa croissance par rapport à sa relation au «troisième niveau de manifestation de la Déité» [LU 116:0.5](/fr/The_Urantia_Book/116#p0_5). Ceci semblerait lier ses actions à l’émergence de Dieu l’Absolu. Le Suprême doit maintenant commencer sa croissance post-ultime ; il a (ou il aura bientôt) la capacité d’entrer en relation coabsolue avec la Trinité Absolue [LU 117:7.8](/fr/The_Urantia_Book/117#p7_8); [appendice XIX, §3](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_19#h-3-la-croissance-du-suprême)).
+- _Dieu l’Ultime._ La deuxième déité expérientielle a émergé des «phases prépersonnelles» de l’unification de personnalité-pouvoir [LU 10:5.5](/fr/The_Urantia_Book/10#p5_5) et elle semblerait avoir commencé les «phases postpersonnelles» de croissance continue. Dans l’âge post-ultime, nous croyons que l’Ultime (comme le Suprême) atteindra un statut postultime et entrera en relations coabsolues dans la Trinité Absolue [LU 117:7.9](/fr/The_Urantia_Book/117#p7_9) ; [appendice XIX, §3](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_19#h-3-la-croissance-du-suprême)). L’Ultime a atteint (ou il atteindra) le statut coabsolu [LU 106:0.7](/fr/The_Urantia_Book/106#p0_7).
+- _La Trinité Absolue._ La deuxième Trinité expérientielle se forme vraisemblablement au début des temps de l’âge post-ultime. Cette trinité est composée de la Déité Suprême, de la Déité Ultime et du Consommateur de la Destinée [LU 0:12.7](/fr/The_Urantia_Book/0#p12_7). Elle ne peut se former qu’après l’émergence de l’Ultime [LU 106:5.1](/fr/The_Urantia_Book/106#p5_1).
+- _Le Suprême-Ultime._ Cette association de Déité-duelle n’a probablement pas été formée à l’aurore de l’âge post-ultime, mais elle fait probablement son apparition assez tôt au cours de cet âge. En parlant du Suprême et de l’Ultime, les fascicules (dans le même contexte) font référence au «futur Suprême-Ultime» [LU 13:2.10](/fr/The_Urantia_Book/13#p2_10). Nous savons que le Suprême et l’Ultime sont (dans un sens qualifié) tous deux présents dans Havona au deuxième âge [LU 14:6.29](/fr/The_Urantia_Book/14#p6_29). Nous croyons que cette association de Déité-duelle fera son apparition très tôt dans l’âge post-ultime ([appendice XVI](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_16)).
+- _Dieu l’Absolu._ La troisième déité expérientielle devient le nouveau défi pour les citoyens du maitre univers parachevé. L’Aventure Suprême est consommée lorsque les créatures atteignent Dieu le Suprême, trouvent le Père en tant que fini et font face au défi de l’Ultime. L’Aventure Ultime [LU 31:10.3](/fr/The_Urantia_Book/31#p10_3) est terminée avec l’accomplissement expérientiel de Dieu l’Ultime et la découverte du Père en tant qu’absonite. Un tel accomplissement de la déité transcendantale pourrait seulement amener les citoyens du maitre univers face à face avec l’aventure finale, l’Aventure Absolue – le défi expérientiel de Dieu l’Absolu [LU 0:10.2](/fr/The_Urantia_Book/0#p10_2) et la quête du Père en tant qu’Absolu.
+
+Ce sont là les nouveaux évènements dans l’âge post-ultime qui commencent la conversion du maitre univers d’un statut statique de destinée accomplie au statut dynamique de nouvelle destinée à accomplir. C’est la différence entre la Maitresse Création en tant que domaine fini et rendu parfait, et le maitre univers en tant que nouvelle base de pouvoir pour l’expansion extérieure – un nouvel univers nucléaire autour duquel le cosmos infini fera son apparition.
+
+Il semble peu probable que la deuxième Trinité expérientielle soit particulièrement concernée par les affaires internes du maitre univers ; ses fonctions semblent toutes être dirigées vers l’espace extérieur du maitre univers [LU 106:6.2](/fr/The_Urantia_Book/106#p6_2).
+
+## § 4. L’Adaptation Des Créatures Du Temps À L’Éternité
+
+Il semble probable que les êtres humains commencent dès cette vie à s’adapter à l’éternité. Nous sommes des créatures du temps – pas de doute à ce sujet – mais, lorsque nous commençons à mûrir, nous commençons notre longue et lente évasion de la prison représentée par les valeurs périssables du moment présent [LU 118:1.1](/fr/The_Urantia_Book/118#p1_1). Il semble n’y avoir rien de plus permanent (ou de plus périssable) que le moment en marche du présent. Lorsque nous progressons dans l’expérience (et si nous croissons aussi en maturité, ce qui est optionnel) nous commençons à puiser, de plus en plus dans le passé, les données avec lesquelles nous prendrons une décision avisée dans le présent. En même temps que nous puisons dans le passé, nous apprenons à projeter les conséquences d’une décision de plus en plus loin dans le futur. C’est le commencement de notre association du passé-futur par rapport à l’action dans le présent. Et, à mesure que nous vieillissons, nous sommes capables de comprendre la signification d’étendues temporelles passé-futur de plus en plus longues.
+
+Si cela est vrai dans notre expérience mortelle, combien plus vrai encore cela sera-t-il dans notre expérience de survie. Quels plans ferons-nous lorsque nous pourrons nous souvenir d’un million d’années dans le passé, et projeter les conséquences d’un million d’années dans le futur ? Lorsque nous aurons vécu un billion d’années, nous serons à peu près aussi âgés que la nébuleuse d’Andronover maintenant. Quels plans ferons-nous alors ? A la fin du Sixième âge, au commencement de l’âge post-ultime (si nos calculs sont justes), nous pourrons être cinq billions de fois plus vieux qu’Andronover. Quels plans ferons-nous alors ?
+
+La signification et la valeur de tout ceci pourraient être doublées dans l’expérience personnelle d’un pèlerin ascendant. Parmi d’autres choses, la fusion avec un Ajusteur ajoute l’expérience et la mémoire de l’éternité passée [LU 112:7.1](/fr/The_Urantia_Book/112#p7_1). Puisque c’est probablement beaucoup plus que ce que nous pouvons absorber immédiatement, il est probable que nous l’absorberons petit à petit, à mesure que nous développerons notre capacité d’absorption. En d’autres termes, lorsque nous avons vécu un billion d’années, nous pouvons peutêtre saisir la signification d’un autre billion d’années «d’expérience et mémoire d’éternité passée». Il en résulte deux billions d’années de mémoire passée ; cela signifie que nous devrions être capables d’envisager avec compréhension une période semblable – deux autres billions d’années. Nous n’avons vécu qu’un seul billion d’années, mais nous avons acquis une base temporelle de quatre billions d’années avec laquelle nous évaluons le présent en termes de passé-futur.
+
+Si notre pénétration expérientielle du temps se fait à un niveau quatre fois plus grand que le passage effectif du temps, alors nous devons progresser dans la compréhension _quantitative_ de l’éternité. La perception _qualitative_ de l’éternité devient probablement une partie de la conscience d’un pèlerin ascendant au moment du transit du circuit intérieur de Havona vers le paradis [LU 26:1.6](/fr/The_Urantia_Book/26#p1_6) ; [LU 2:5.4](/fr/The_Urantia_Book/2#p5_4).
+
+## § 5. Le Changement Post-Ultime Dans La Croissance Potentielle
+
+Dans l’[appendice VII: Les mécanismes de croissance expérientielle](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_7), nous avons considéré avec soin le procédé de croissance et ce qui le rend possible. Il peut être bon de récapituler cette étude d’un point de vue maintenant légèrement différent:
+- (a) _Le mécanisme existentiel._ Ce mécanisme opérait dans le premier âge de l’universdans «l’origine» de l’univers central et de ses habitants non créés. Ce mécanisme continue d’opérer dans la mesure où les déités existentielles fonctionnent d’une façon existentielle, et si elles fonctionnent ainsi.
+- (b) _Les mécanismes expérientiels._ Ce sont les «mécanismes de croissance expérientielle» présentement en fonction. Nous pensons qu’ils incluent la croissance du présent âge de l’univers et la croissance d’une nature post-suprême qui caractérisera les niveaux d’espace extérieurs après l’émergence de l’Être Suprême.
+- (c) _Le mécanisme existentiel-expérientiel._ Il semble que ce soit le mécanisme qui opérera dans l’âge post-ultime. Il semble qu’il y ait une différence essentielle entre la croissance dans le maitre univers et la croissance au-delà du maitre univers. Toute la croissance du maitre univers est associée à la croissance d’une déité expérientielle subinfinie. Dans le présent âge de l’univers, le Suprême et l’Ultime transmettent et organisent les potentiels des Absolus, pour qu’ils soient utilisés par les Créateurs Suprêmes dans leur travail de transformation. Dans les âges post-suprême, le Suprême aura émergé, mais l’Ultime servira encore de «tampon» entre la croissance et les potentiels des Absolus. Dans l’âge post-ultime, un tel «tampon» subinfini n’existera plus. Le procédé de croissance empiétera directement sur les potentiels infinis des Absolus.
+
+La croissance, dans les âges posthavonniens du maitre univers, a lieu sur deux niveaux – fini et absonite. C’est parce que deux niveaux subabsolus de réalité expérientielle furent projetés originellement [LU 0:12.1](/fr/The_Urantia_Book/0#p12_1). La croissance dans le présent âge de l’univers est une croissance finie. Elle n’est possible que dans la croissance (et l’émergence) du Suprême et elle se terminera lorsque sa personnalisationpouvoir sera parachevée — lorsqu’il aura parachevé sa croissance [LU 117:2.2](/fr/The_Urantia_Book/117#p2_2).
+
+Ce que la croissance du Suprême est à la croissance et à l’expérience finies, nous supposons que la croissance expérientielle de l’Ultime l’est, et le sera, à la croissance absonite. Aussi longtemps que l’Ultime sera engagé dans la synthèse personnalité-pouvoir, aussi longtemps qu’il n’aura pas émergé, la croissance absonite sera possible. Quand l’Ultime aura émergé, la croissance absonite sera alors terminée.
+
+_La fin de la croissance relative._ Si les deux types de croissance finie (associée au Suprême) et absonite (associée à l’Ultime) sont des évènements passés, il s’ensuivra que toute croissance relative est aussi un évènement passé. (Nous utilisons ici le mot «relatif» comme il est utilisé dans l’Introduction [LU 0:1.19](/fr/The_Urantia_Book/0#p1_19) lors de l’examen des types de perfection. Dans cet usage, «relatif» se trouve comme un terme intermédiaire en contraste avec «l’imperfection» et «l’absolue perfection» .) Comme les fascicules le notent  [LU 115:7.3](/fr/The_Urantia_Book/115#p7_3), en exceptant le Père et ses coordonnées absolues, toute réalité est relative – y compris le Suprême et l’Ultime. Mais, au point où nous sommes dans notre conception de l’évolution expérientielle, il est probable que ni le Suprême ni l’Ultime ne sont encore des «réalité s relatives». Il est très probable qu’ils sont tous deux coabsolus en statut ([appendice XXV, §1](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_25#h-1-la-trinitisation-de-l’absolu)).
+
+Nous pouvons donc conclure que la croissance post-ultime peut être absolue, coabsolue, absolue-associée, absolue-qualifiée - désignons-la comme nous le pouvons – mais elle n’est pas subabsolue, dans le sens d’une croissance «relative». Comme nous l’avons déjà observé ([appendice VII, §7](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_7#h-7-note-mécanisme-de-croissance-post-ultime)), la nature de la croissance dans l’âge final est difficile à sonder. Néanmoins, les fascicules ont quelque chose à dire au sujet de ce concept lointain.
+
+> [LU 0:2.17](/fr/The_Urantia_Book/0#p2_17). La croissance post-ultime est quelque chose qui doit avoir lieu sur des niveaux qui sont au-delà des niveaux créatifs (l’Ultime est présenté comme fonctionnant sur les niveaux créatifs finals).
+> 
+> [LU 0:2.18](/fr/The_Urantia_Book/0#p2_18). La croissance post-ultime se trouve au-delà de l’Ultime et cela signifie qu’elle est quelque chose qui existe au-delà des niveaux créatifs. Ce qui est au-delà de la créativité est appelé supercréativité. La croissance post-ultime doit donc être supercréative.
+> 
+> [LU 0:2.17](/fr/The_Urantia_Book/0#p2_17). La croissance post-suprême est quelque chose de relatif aux valeurs superpersonnelles ; la croissance post-ultime est relative aux valeurs superpersonnellestranscendées.
+> 
+> [LU 0:1.12](/fr/The_Urantia_Book/0#p1_12). La croissance post-suprême a lieu au niveau absonite, où le temps et l’espace sont transcendés. Au-delà, la croissance post-ultime peut avoir lieu à un niveau qui n’a ni temps ni espace ; le statut est absolu.
+
+La croissance post-suprême (absonite) est suffisamment difficile à imaginer ; la croissance post-ultime (absolue) est encore plus difficile à imaginer.
+
+Néanmoins, nous devrions considérer ce concept parce que les finalitaires vont sans aucun doute être impliqués dans ce type de croissance. Considérez les passages suivants:
+
+> [LU 112:7.1](/fr/The_Urantia_Book/112#p7_1). Parmi d’autres choses, la fusion avec un Ajusteur ajoute «une phase d’absoluité potentielle qualifiée».
+> 
+> [LU 112:1.9](/fr/The_Urantia_Book/112#p1_9). Les mortels urantiens sont dotés d’un type de personnalité ayant une septième et suprême dimension qui est un «absolu associable». Bien qu’elle ne soit pas infinie, elle a la capacité de pénétrer le niveau subabsolu dans un sens subinfini.
+> 
+> [LU 106:7.4](/fr/The_Urantia_Book/106#p7_4). Les mortels ont une destinée potentielle qui est absolue en valeur.
+
+Il semble que nous, mortels, même maintenant, avons le type d’équipement qui nous permettra de rester dans le courant de croissance évolutionnaire-expérientiel à jamais. Nous pourrons faire face à des objectifs qui iront plus vite que nous ne pouvons avancer – des objectifs comme l’Absolu Universel [LU 10:8.8](/fr/The_Urantia_Book/10#p8_8). Mais nous n’allons jamais nous trouver en face d’une impasse éternelle ; nous serons toujours capables de progresser, même dans la pénétration subinfinie du niveau absolu des significations et des valeurs.
+
+En dernière analyse, les Ajusteurs de pensée sont le don du «Dieu absolu» à ses enfants qui ont la destinée potentielle d’atteindre «Dieu en tant qu’absolu» [LU 107:1.6](/fr/The_Urantia_Book/107#p1_6).
+
+<br>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_19">Appendix XIX. The Second Experiential Trinity</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_21">Appendix XXI. The Concept of the Cosmos Infinite</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
