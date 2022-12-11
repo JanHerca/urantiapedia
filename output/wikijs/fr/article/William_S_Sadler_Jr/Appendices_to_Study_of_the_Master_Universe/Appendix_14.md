@@ -1,5 +1,5 @@
 ---
-title: "Une Étude du Maître Univers — Appendix XIV. Expanding Influence of the Master Spirits"
+title: "Une Étude du Maître Univers — Appendice XIV. Influence grandissante des maîtres esprits"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_13">Appendix XIII. Evolution of Universe Sons and Spirits</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15">Appendix XV. Master Architects and Transcendentalers</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_13">Appendice XIII. Évolution des fils et des esprits des univers</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15">Appendice XV. Maîtres architectes et transcendantaux</a></td>
       </tr>
     </tbody>
   </table>
@@ -120,9 +120,9 @@ _Le Conseil de Perfection du Paradis._ S’il y a 7 000 billions de Conciliateur
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_13">Appendix XIII. Evolution of Universe Sons and Spirits</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15">Appendix XV. Master Architects and Transcendentalers</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_13">Appendice XIII. Évolution des fils et des esprits des univers</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15">Appendice XV. Maîtres architectes et transcendantaux</a></td>
       </tr>
     </tbody>
   </table>

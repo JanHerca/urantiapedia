@@ -25,7 +25,7 @@
 * Steps to convert Urantia Book links:
     * `\[\(\d+.\d+\)` => `[UB`
     * `https://www.urantia.org/urantia-book-standardized/paper-(\d+).+#U\d+_(\d+)_(\d+)` => `/en/The_Urantia_Book/$1#p$2_$3`
-    * `\[\(*\d+.\d+\)*[ |\d|:|\.]+\]\(https://www.urantia.org/fr/le-livre-d-urantia/[\w|\d|-]+#U(\d+)_(\d+)_(\d+)\)` => `[LU $1:$2.$3](/fr/The_Urantia_Book/$1#p$2_$3)`
+    * `\[\([\d|:|\.|-]+\)*[ |\d|:|\.|-]+\]\(https://www.urantia.org/fr/le-livre-d-urantia/[\w|\d|-]+#U(\d+)_(\d+)_(\d+)\)` => `[LU $1:$2.$3](/fr/The_Urantia_Book/$1#p$2_$3)`
 * Steps to convert Bible links:
     * `https://biblehub.com/niv` => `/en/Bible`
     * `https://biblehub.com` => `/en/Bible`

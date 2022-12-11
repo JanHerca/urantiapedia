@@ -1,5 +1,5 @@
 ---
-title: "Une Étude du Maître Univers — Appendix VII. Mechanisms of Experiential Growth"
+title: "Une Étude du Maître Univers — Appendice VII. Mécanismes de croissance expérientielle"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6">Appendix VI. Total Deity in the Universe Ages</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_8">Appendix VIII. Transformative Techniques</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6">Appendice VI. Déité - totale dans les âges d’univers</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_8">Appendice VIII. Techniques de transformation</a></td>
       </tr>
     </tbody>
   </table>
@@ -260,9 +260,9 @@ On nous dit [LU 0:5.2](/fr/The_Urantia_Book/0#p5_2) que le potentiel de changeme
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6">Appendix VI. Total Deity in the Universe Ages</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_8">Appendix VIII. Transformative Techniques</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6">Appendice VI. Déité - totale dans les âges d’univers</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_8">Appendice VIII. Techniques de transformation</a></td>
       </tr>
     </tbody>
   </table>

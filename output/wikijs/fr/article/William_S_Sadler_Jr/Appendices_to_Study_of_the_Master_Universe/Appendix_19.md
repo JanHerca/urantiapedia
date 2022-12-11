@@ -1,5 +1,5 @@
 ---
-title: "Une Étude du Maître Univers — Appendix XIX. The Second Experiential Trinity"
+title: "Une Étude du Maître Univers — Appendice XIX. La deuxième trinité expérientielle"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_18">Appendix XVIII. The Nature of God The Ultimate</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_20">Appendix XX. The Post-Ultimate Age</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_18">Appendice XVIII. La nature de dieu l’ultime</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_20">Appendice XX. L’âge post-ultime</a></td>
       </tr>
     </tbody>
   </table>
@@ -205,9 +205,9 @@ La deuxième Trinité expérientielle est le supertotal de la dérivation expér
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_18">Appendix XVIII. The Nature of God The Ultimate</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_20">Appendix XX. The Post-Ultimate Age</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_18">Appendice XVIII. La nature de dieu l’ultime</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_20">Appendice XX. L’âge post-ultime</a></td>
       </tr>
     </tbody>
   </table>

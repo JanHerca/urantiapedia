@@ -1,5 +1,5 @@
 ---
-title: "Une Étude du Maître Univers — Appendix VI. Total Deity in the Universe Ages"
+title: "Une Étude du Maître Univers — Appendice VI. Déité - totale dans les âges d’univers"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_5">Appendix V. Dual-Deity in the Universe Ages</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_7">Appendix VII. Mechanisms of Experiential Growth</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_5">Appendice V. Déité - duelle au cours des âges de l'univers</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_7">Appendice VII. Mécanismes de croissance expérientielle</a></td>
       </tr>
     </tbody>
   </table>
@@ -188,9 +188,9 @@ Toutes ces déités et trinités apparaissant dans le futur seront associées au
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_5">Appendix V. Dual-Deity in the Universe Ages</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_7">Appendix VII. Mechanisms of Experiential Growth</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_5">Appendice V. Déité - duelle au cours des âges de l'univers</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_7">Appendice VII. Mécanismes de croissance expérientielle</a></td>
       </tr>
     </tbody>
   </table>

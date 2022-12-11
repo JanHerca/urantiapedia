@@ -1,5 +1,5 @@
 ---
-title: "Une Étude du Maître Univers — Appendix IX. The Chronology of Local Universes"
+title: "Une Étude du Maître Univers — Appendice IX. La chronologie des univers locaux"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_8">Appendix VIII. Transformative Techniques</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_10">Appendix X. The First Experiential Trinity</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_8">Appendice VIII. Techniques de transformation</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_10">Appendice X. La première trinité expérientielle</a></td>
       </tr>
     </tbody>
   </table>
@@ -178,9 +178,9 @@ Il y a un septième stade de développement relatif à la fois au Fils Créateur
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_8">Appendix VIII. Transformative Techniques</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_10">Appendix X. The First Experiential Trinity</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_8">Appendice VIII. Techniques de transformation</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_10">Appendice X. La première trinité expérientielle</a></td>
       </tr>
     </tbody>
   </table>

@@ -1,5 +1,5 @@
 ---
-title: "Une Étude du Maître Univers — Appendix I. Master Universe Antecedents"
+title: "Une Étude du Maître Univers — Appendice I. Antécédents du maitre univers"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Afterword">Afterword</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_2">Appendix II. Paradise And The Master Universe</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Afterword">Une Étude du Maître Univers — Postface</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_2">Appendice II. Le paradis et le maitre univers</a></td>
       </tr>
     </tbody>
   </table>
@@ -152,8 +152,8 @@ Ainsi, nous venons de raconter l’histoire du commencement de toutes choses à 
     <tbody>
       <tr>
         <td><a href="/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Afterword">Afterword</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_2">Appendix II. Paradise And The Master Universe</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_2">Appendice II. Le paradis et le maitre univers</a></td>
       </tr>
     </tbody>
   </table>

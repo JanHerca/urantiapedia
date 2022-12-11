@@ -1,5 +1,5 @@
 ---
-title: "Une Étude du Maître Univers — Appendix IV. The Universe Ages"
+title: "Une Étude du Maître Univers — Appendice IV. Les âges de l’univers"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_3">Appendix III. Space Levels of the Master Universe</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_5">Appendix V. Dual-Deity in the Universe Ages</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_3">Appendice III. Niveaux d’espace du maitre univers</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_5">Appendice V. Déité - duelle au cours des âges de l'univers</a></td>
       </tr>
     </tbody>
   </table>
@@ -584,9 +584,9 @@ Déduction: Les finalitaires ont la capacité de continuer à croitre dans l’�
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_3">Appendix III. Space Levels of the Master Universe</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_5">Appendix V. Dual-Deity in the Universe Ages</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_3">Appendice III. Niveaux d’espace du maitre univers</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_5">Appendice V. Déité - duelle au cours des âges de l'univers</a></td>
       </tr>
     </tbody>
   </table>

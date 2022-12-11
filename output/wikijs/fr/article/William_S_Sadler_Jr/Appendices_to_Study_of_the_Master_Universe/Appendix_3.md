@@ -1,5 +1,5 @@
 ---
-title: "Une Étude du Maître Univers — Appendix III. Space Levels of the Master Universe"
+title: "Une Étude du Maître Univers — Appendice III. Niveaux d’espace du maitre univers"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
@@ -13,8 +13,8 @@ dateCreated: 2022-10-08T14:02:03.086Z
     <tbody>
       <tr>
         <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_2">Appendix II. Paradise and the Master Universe</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_4">Appendix IV. The Universe Ages</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_4">Appendice IV. Les âges de l’univers</a></td>
       </tr>
     </tbody>
   </table>
@@ -264,8 +264,8 @@ Il est bien possible que, dans une perspective élargie, le concept newtonien d�
     <tbody>
       <tr>
         <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_2">Appendix II. Paradise and the Master Universe</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_4">Appendix IV. The Universe Ages</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_4">Appendice IV. Les âges de l’univers</a></td>
       </tr>
     </tbody>
   </table>

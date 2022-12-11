@@ -242,7 +242,7 @@ Deduction: The nethermost level of the absonite probably reaches down to make co
 
 Conclusions: The absonite probably connects the finite with the absolute much as morontia bridges the gap between matter and spirit.
 
-## § 6. Inception, Realization, And Consummation
+## § 6. Inception, Realization, and Consummation
 
 In our examination of the nature and function of Transcendentalers, we have been using three words that are a little out of the ordinary — _inceptors_, _realizers_, and _consummators_. These words have been respectively associated with three other words — _beginnings_, _existences_, and _destinies_. These two groups of three words each are so used in the Papers. [UB 106:8.12](/en/The_Urantia_Book/106#p8_12) The concepts, suggested by these two groups of three words, are also designated as — _causes_, _intermediates_, and _finals_.
 

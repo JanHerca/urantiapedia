@@ -1,5 +1,5 @@
 ---
-title: "Une Étude du Maître Univers — Appendix XXV. The Trinitized Nature of God The Absolute"
+title: "Une Étude du Maître Univers — Appendice XXV. La nature trinitisée de dieu l’absolu"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_24">Appendix XXIV. The Third Experiential Trinity</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_26">Appendix XXVI. Functions of The Supreme-Ultimate</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_24">Appendice XXIV. La troisième trinité expérientielle</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_26">Appendice XXVI. Fonctions du suprême-ultime</a></td>
       </tr>
     </tbody>
   </table>
@@ -80,9 +80,9 @@ Cependant, ce n’est pas une impasse. C’est une situation dynamique de croiss
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_24">Appendix XXIV. The Third Experiential Trinity</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_26">Appendix XXVI. Functions of The Supreme-Ultimate</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_24">Appendice XXIV. La troisième trinité expérientielle</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_26">Appendice XXVI. Fonctions du suprême-ultime</a></td>
       </tr>
     </tbody>
   </table>

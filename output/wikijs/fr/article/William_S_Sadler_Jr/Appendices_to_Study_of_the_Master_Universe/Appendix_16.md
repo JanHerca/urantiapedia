@@ -1,5 +1,5 @@
 ---
-title: "Une Étude du Maître Univers — Appendix XVI. Space and Mass Magnitudes of the Master Universe"
+title: "Une Étude du Maître Univers — Appendice XVI. Dimensions espace et masse du maître univers"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15">Appendix XV. Master Architects and Transcendentalers</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_17">Appendix XVII. Time Magnitudes of the Master Universe</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15">Appendice XV. Maîtres architectes et transcendantaux</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_17">Appendice XVII. Dimensions temporelles du maître univers</a></td>
       </tr>
     </tbody>
   </table>
@@ -145,9 +145,9 @@ La plupart des évènements dont parlent les fascicules concernent le deuxième 
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15">Appendix XV. Master Architects and Transcendentalers</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_17">Appendix XVII. Time Magnitudes of the Master Universe</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15">Appendice XV. Maîtres architectes et transcendantaux</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_17">Appendice XVII. Dimensions temporelles du maître univers</a></td>
       </tr>
     </tbody>
   </table>

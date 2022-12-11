@@ -1,5 +1,5 @@
 ---
-title: "Une Étude du Maître Univers — Appendix XIII. Evolution of Universe Sons and Spirits"
+title: "Une Étude du Maître Univers — Appendice XIII. Évolution des fils et des esprits des univers"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_12">Appendix XII. Expansion of God The Sevenfold</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_14">Appendix XIV. Expanding Influence of the Master Spirits</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_12">Appendice XII. Expansion de dieu le septuple</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_14">Appendice XIV. Influence grandissante des maîtres esprits</a></td>
       </tr>
     </tbody>
   </table>
@@ -107,9 +107,9 @@ Ce sont les Fils et les Esprits des Univers qui ne feront leur apparition qu’a
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_12">Appendix XII. Expansion of God The Sevenfold</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_14">Appendix XIV. Expanding Influence of the Master Spirits</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_12">Appendice XII. Expansion de dieu le septuple</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_14">Appendice XIV. Influence grandissante des maîtres esprits</a></td>
       </tr>
     </tbody>
   </table>

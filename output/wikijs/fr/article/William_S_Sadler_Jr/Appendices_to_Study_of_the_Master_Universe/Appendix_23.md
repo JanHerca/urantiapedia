@@ -1,5 +1,5 @@
 ---
-title: "Une Étude du Maître Univers — Appendix XXIII. The Trinity of Trinities"
+title: "Une Étude du Maître Univers — Appendice XXIII. La trinité des trinités"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_22">Appendix XXII. Power-Personality Synthesis</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_24">Appendix XXIV. The Third Experiential Trinity</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_22">Appendice XXII. Synthèses de personnalité-pouvoir</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_24">Appendice XXIV. La troisième trinité expérientielle</a></td>
       </tr>
     </tbody>
   </table>
@@ -141,9 +141,9 @@ Pour citer encore l’opinion du Censeur Universel: «Seule l’infinité peut r
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_22">Appendix XXII. Power-Personality Synthesis</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_24">Appendix XXIV. The Third Experiential Trinity</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_22">Appendice XXII. Synthèses de personnalité-pouvoir</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_24">Appendice XXIV. La troisième trinité expérientielle</a></td>
       </tr>
     </tbody>
   </table>

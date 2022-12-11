@@ -1,5 +1,5 @@
 ---
-title: "Une Étude du Maître Univers — Appendix XXIV. The Third Experiential Trinity"
+title: "Une Étude du Maître Univers — Appendice XXIV. La troisième trinité expérientielle"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_23">Appendix XXIII. The Trinity of Trinities</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_25">Appendix XXV. The Trinitized Nature of God The Absolute</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_23">Appendice XXIII. La trinité des trinités</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_25">Appendice XXV. La nature trinitisée de dieu l’absolu</a></td>
       </tr>
     </tbody>
   </table>
@@ -123,9 +123,9 @@ _Troisième niveau de la Trinité triple._ Nous savons que les fonctions trinita
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_23">Appendix XXIII. The Trinity of Trinities</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_25">Appendix XXV. The Trinitized Nature of God The Absolute</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_23">Appendice XXIII. La trinité des trinités</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_25">Appendice XXV. La nature trinitisée de dieu l’absolu</a></td>
       </tr>
     </tbody>
   </table>

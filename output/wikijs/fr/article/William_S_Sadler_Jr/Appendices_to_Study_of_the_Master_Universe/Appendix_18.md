@@ -1,5 +1,5 @@
 ---
-title: "Une Étude du Maître Univers — Appendix XVIII. The Nature of God The Ultimate"
+title: "Une Étude du Maître Univers — Appendice XVIII. La nature de dieu l’ultime"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_17">Appendix XVII. Time Magnitudes of the Master Universe</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_19">Appendix XIX. The Second Experiential Trinity</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_17">Appendice XVII. Dimensions temporelles du maître univers</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_19">Appendice XIX. La deuxième trinité expérientielle</a></td>
       </tr>
     </tbody>
   </table>
@@ -234,9 +234,9 @@ _Le niveau ultime de la fonction de la Déité totale._ Sur ce niveau, on dit qu
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_17">Appendix XVII. Time Magnitudes of the Master Universe</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_19">Appendix XIX. The Second Experiential Trinity</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_17">Appendice XVII. Dimensions temporelles du maître univers</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_19">Appendice XIX. La deuxième trinité expérientielle</a></td>
       </tr>
     </tbody>
   </table>

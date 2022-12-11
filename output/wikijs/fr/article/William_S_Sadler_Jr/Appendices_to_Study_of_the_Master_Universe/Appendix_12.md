@@ -1,5 +1,5 @@
 ---
-title: "Une Étude du Maître Univers — Appendix XII. Expansion of God The Sevenfold"
+title: "Une Étude du Maître Univers — Appendice XII. Expansion de dieu le septuple"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_11">Appendix XI. The Post-Supreme Ages</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_13">Appendix XIII. Evolution of Universe Sons and Spirits</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_11">Appendice XI. Les âges post-suprême</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_13">Appendice XIII. Évolution des fils et des esprits des univers</a></td>
       </tr>
     </tbody>
   </table>
@@ -106,9 +106,9 @@ _Association des Organisateurs de Force et des Directeurs de Pouvoir._ Il y a, d
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_11">Appendix XI. The Post-Supreme Ages</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_13">Appendix XIII. Evolution of Universe Sons and Spirits</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_11">Appendice XI. Les âges post-suprême</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_13">Appendice XIII. Évolution des fils et des esprits des univers</a></td>
       </tr>
     </tbody>
   </table>

@@ -133,7 +133,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 * [Appendice XVII. Dimensions temporelles du maître univers](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_17)
     1. [Calcul de l’âge d’un très vieux natif d’Uversa](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_17#h-1-calcul-de-l’âge-d’un-très-vieux-natif-d’uversa)
     2. [Une estimation de l’âge du superunivers d’Orvonton](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_17#h-2-une-estimation-de-l’âge-du-superunivers-d’orvonton)
-    3. [L’ étendue temporelle du deuxième âge de l’univers](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_17#h-3-l’-étendue-temporelle-du-deuxième-âge-de-l’univers)
+    3. [L’ étendue temporelle du deuxième âge de l’univers](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_17#h-3-l-étendue-temporelle-du-deuxième-âge-de-l’univers)
     4. [Les dimensions temporelles proportionnelles des âges de L’espace extérieur](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_17#h-4-les-dimensions-temporelles-proportionnelles-des-âges-de-l’espace-extérieur)
 * [Appendice XVIII. La nature de dieu l’ultime](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_18)
     1. [Émergence de l’Ultime](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_18#h-1-émergence-de-l’ultime)

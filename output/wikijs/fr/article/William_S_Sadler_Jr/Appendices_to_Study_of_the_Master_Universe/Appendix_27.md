@@ -1,5 +1,5 @@
 ---
-title: "Une Étude du Maître Univers — Appendix XXVII. Growth of the Cosmos Infinite"
+title: "Une Étude du Maître Univers — Appendice XXVII. Croissance du cosmos infini"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
@@ -12,8 +12,8 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_26">Appendix XXVI. Functions of The Supreme-Ultimate</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_26">Appendice XXVI. Fonctions du suprême-ultime</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
         <td></td>
       </tr>
     </tbody>
@@ -165,8 +165,8 @@ Cette affirmation suggère une certaine manière de contact et de relation fonct
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_26">Appendix XXVI. Functions of The Supreme-Ultimate</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_26">Appendice XXVI. Fonctions du suprême-ultime</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
         <td></td>
       </tr>
     </tbody>

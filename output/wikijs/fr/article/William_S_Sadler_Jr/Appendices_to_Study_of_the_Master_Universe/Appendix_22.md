@@ -1,5 +1,5 @@
 ---
-title: "Une Étude du Maître Univers — Appendix XXII. Power-Personality Synthesis"
+title: "Une Étude du Maître Univers — Appendice XXII. Synthèses de personnalité-pouvoir"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_21">Appendix XXI. The Concept of the Cosmos Infinite</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_23">Appendix XXIII. The Trinity of Trinities</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_21">Appendice XXI. Le concept du cosmos infini</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_23">Appendice XXIII. La trinité des trinités</a></td>
       </tr>
     </tbody>
   </table>
@@ -502,9 +502,9 @@ Même la Trinité du Paradis ne peut pas “ faire ce qui est infaisable ” [LU
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_21">Appendix XXI. The Concept of the Cosmos Infinite</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_23">Appendix XXIII. The Trinity of Trinities</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_21">Appendice XXI. Le concept du cosmos infini</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_23">Appendice XXIII. La trinité des trinités</a></td>
       </tr>
     </tbody>
   </table>

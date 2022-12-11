@@ -1,5 +1,5 @@
 ---
-title: "Une Étude du Maître Univers — Appendix VIII. Transformative Techniques"
+title: "Une Étude du Maître Univers — Appendice VIII. Techniques de transformation"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_7">Appendix VII. Mechanisms of Experiential Growth</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_9">Appendix IX. The Chronology of Local Universes</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_7">Appendice VII. Mécanismes de croissance expérientielle</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_9">Appendice IX. La chronologie des univers locaux</a></td>
       </tr>
     </tbody>
   </table>
@@ -546,9 +546,9 @@ Nous soupçonnons que ces quatre exemples de l'opération de la loi de Mendel pa
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_7">Appendix VII. Mechanisms of Experiential Growth</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Index</a></td>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_9">Appendix IX. The Chronology of Local Universes</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_7">Appendice VII. Mécanismes de croissance expérientielle</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Index">Table des Matières</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_9">Appendice IX. La chronologie des univers locaux</a></td>
       </tr>
     </tbody>
   </table>
