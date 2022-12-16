@@ -22,25 +22,38 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Jalon I - Le Livre d'Urantia, la Bible et l'index des sujets
 
+Cette jalon est expliquée en détail ici: [Jalon I](/fr/help/phases#jalon-i-le-livre-durantia-la-bible-et-lindex-des-sujets).
+
+### Tâches de développement logiciel
+
+Dans cette phase les développements à réaliser sont :
+
+Tâche                                                                                                         | État               |
+------------------------------------------------------------------------------------------------------------- | ------------------ |
+Développement de convertisseurs de fichiers vers Wiki.js                                                      | :heavy_check_mark: |
+Développement du _Topic Index Editor_, un assistant qui permet d'accélérer le travail avec l'Index des sujets | :clock2:           |
+
+### Tâches d'ajout de contenu
+
 Pour chaque langue prise en charge, la liste des tâches pour terminer le jalon I est la suivante :
 
 1. Traduction de _Paramony_ :ledger: de l'anglais vers la langue cible (`Paramony`).
-2. Traduction et révision de _Topic index_ :card_index: de l'anglais vers la langue cible (`Topics`).
+2. Traduction et révision de _Topic index_ :card_index: de l'anglais vers la langue cible (`Sujets`).
 3. Obtenez une traduction du domaine public de _The Bible_ :closed_book: dans la langue cible (`Bible`).
 4. Conversion _Le Livre d'Urantia_ :blue_book : de HTML à JSON sans _Paramony_ :ledger: notes de bas de page (`UB`).
-5. Ajout de _Paramony_ :ledger: notes de bas de page au _Livre d'Urantia_ :blue_book: en JSON (`UB + Paramony`).
-6. Conversion de _Topic index_ :card_index: de TXT vers Wiki.js et validation des modifications à l'aide de [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) (`Topics`).
-7. Conversion de _The Urantia Book_ :blue_book: de JSON avec _Paramony_ :ledger: notes de bas de page vers Wiki.js, y compris les références aux sujets, et valider les modifications en utilisant [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup ) (`UBWiki`).
-8. Conversion de _The Bible_ :closed_book: de LaTeX à Wiki.js avec _Paramony_ :ledger: notes de bas de page, et valider les modifications en utilisant [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) (`Bible Wiki `).
+5. Ajout de _Paramony_ :ledger: notes de bas de page au _Livre d'Urantia_ :blue_book: en JSON (`UB Paramony`).
+6. Conversion de _Topic index_ :card_index: de TXT vers Wiki.js et validation des modifications à l'aide de [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) (`Sujets`).
+7. Conversion de _The Urantia Book_ :blue_book: de JSON avec _Paramony_ :ledger: notes de bas de page vers Wiki.js, y compris les références aux sujets, et valider les modifications en utilisant [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup ) (`UB Wiki`).
+8. Conversion de _The Bible_ :closed_book: de LaTeX à Wiki.js avec _Paramony_ :ledger: notes de bas de page, et valider les modifications en utilisant [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) (`Bible Wiki`).
 
 D'autres tâches supplémentaires sur lesquelles travailler sont:
 
-- :sound: Testez les solutions de synthèse vocale. Le but est d'offrir une lecture automatisée de tous les livres sur le site Web, en commençant par _Le Livre d'Urantia_. En anglais, il existe un livre audio officiel de la Fondation Urantia. Pour les autres langues, des solutions automatisées seront recherchées.
-- :sunrise_over_mountains: Créez un catalogue d'images pour illustrer _Le Livre d'Urantia_, la _Bible_ et l'_Index des sujets_. C'est actuellement fait avec la partie IV du _Livre d'Urantia_.
+- :sound: Testez les solutions de synthèse vocale. Le but est d'offrir une lecture automatisée de tous les livres sur le site Web, en commençant par _Le Livre d'Urantia_. En anglais, il existe un livre audio officiel de la Fondation Urantia. Pour les autres langues, des solutions automatisées seront recherchées. (`UB Audio`)
+- :sunrise_over_mountains: Créez un catalogue d'images pour illustrer _Le Livre d'Urantia_, la _Bible_ et l'_Index des sujets_. C'est actuellement fait avec la partie IV du _Livre d'Urantia_. (`Images UB`)
 
 Tableau des tâches et des langues à prendre en charge, montrant les progrès actuels :
 
-| Langue      | Codage | :ledger: Paramonie | :card_index: Sujets  | :closed_book: Bible  | :blue_book: UB     | :blue_book: :ledger: UB <br> Paramony | :blue_book: UB<br>Wiki | :closed_book: Bible<br>Wiki  | :sound: UB Audio   | :sunrise_over_mountains: images UB  |
+| Langue      | Codage | :ledger: Paramonie | :card_index: Sujets  | :closed_book: Bible  | :blue_book: UB     | :blue_book: :ledger: UB <br> Paramony | :blue_book: UB<br>Wiki | :closed_book: Bible<br>Wiki  | :sound: UB Audio   | :sunrise_over_mountains: Images UB  |
 | ----------- | :----: | :----------------: | :------------------: | :------------------: | :----------------: | :-----------------------------------: | :--------------------: | :--------------------------: | :----------------: | :---------------------------------: |
 | Bulgare     | `bg`   | :heavy_check_mark: |                      |  :heavy_check_mark:  | :heavy_check_mark: |          :heavy_check_mark:           |   :heavy_check_mark:   |      :heavy_check_mark:      |                    |              :clock2:               |
 | Tchèque     | `cs`   | :heavy_check_mark: |                      |  :heavy_check_mark:  | :heavy_check_mark: |          :heavy_check_mark:           |   :heavy_check_mark:   |      :heavy_check_mark:      |                    |              :clock2:               |
@@ -70,12 +83,24 @@ Tableau des tâches et des langues à prendre en charge, montrant les progrès a
 
 ## Jalon II - Livres, articles, aides à l'étude, schémas et index
 
+Cette jalon est expliquée en détail ici: [Jalon II](/fr/help/phases#milestone-ii-livres-articles-aides-%C3%A0-l%C3%A9tude-sch%C3%A9mas-et-index).
+
+### Tâches de développement logiciel
+
+Dans cette phase les développements à réaliser sont :
+
+Tâche                                                               | État               |
+--------------------------------------------------------------------| ------------------ |
+Développement pour la conversion de livres et d'articles en Wiki.js | :clock2:           |
+
+### Tâches d'ajout de contenu
+
 Pour chaque langue, le contenu attendu dans cette étape est :
 
 - Livres:
-  - :green_book: Livres extra-bibliques: 11 livres prévus
-  - :books: Autres livres censés être des sources: 17 livres prévus
-- :page_with_curl: Articles:
+  - :green_book: Livres extra-bibliques: 11 livres prévus. (`Extra-biblique`)
+  - :books: Autres livres censés être des sources: 17 livres prévus. (`Sources de livres`)
+- :page_with_curl: Articles (`Articles`):
   - Face intérieure: 510 prévues
   - Urantian Journal: 11 prévus
   - Fellowship Journal: 23 prévus
@@ -84,11 +109,11 @@ Pour chaque langue, le contenu attendu dans cette étape est :
   - Articles de Jan Herca: 41 prévus
   - Autre: 100 prévus
   - TOTAL: 927 prévus
-- :notebook: Aides à l'étude: Prévu environ 20 d'entre eux, disponible en `en`.
-- :memo: Schémas: pas de prévu, uniquement des tests.
-- :capital_abcd: Index: actuellement, les index des sujets sont disponibles. D'autres doivent être planifiés.
+- :notebook: Aides à l'étude: Prévu environ 20 d'entre eux, disponible en `en`. (`Aides à l'étude`)
+- :memo: Schémas: pas de prévu, uniquement des tests. (`Diagrammes`)
+- :capital_abcd: Index: actuellement, les index des sujets sont disponibles. D'autres doivent être planifiés. (`Index`)
 
-| Langue | Codage | :green_book: extra-biblique    | :books: Sources de livres | :page_with_curl: articles | :notebook: Aides à l'étude | :memo: Diagrammes | :capital_abcd: Index   |
+| Langue | Codage | :green_book: Extra-biblique    | :books: Sources de livres | :page_with_curl: Articles | :notebook: Aides à l'étude | :memo: Diagrammes | :capital_abcd: Index   |
 | ----------- | :--: | :-------------------------: | :-----------------------: | :-----------------------: | :------------------------: | :---------------: | :--------------------: |
 | Bulgare     | `bg` |                             |                           |                           |                            |                   |                        |
 | Tchèque     | `cs` |                             |                           |                           |                            |                   |                        |
@@ -118,50 +143,65 @@ Pour chaque langue, le contenu attendu dans cette étape est :
 
 ## Jalon III - Traducteur
 
-Cette étape comprend des développements qui ne sont actuellement pas prévus.
+Cette jalon est expliquée en détail ici: [Jalon III](/fr/help/phases#milestone-iii-traducteur).
+
+Dans cette phase, les développements ne seront effectués que dans les applications, ce sera donc une phase en parallèle des autres. Les tâches prévues sont celles-ci:
+
+Tâche                                                                                                                                                        | État |
+------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
+Développement dans Urantiapedia Outils d'un traducteur de page massif                                                                                        |      |
+Développement sous Wiki.js d'un nouvel éditeur permettant des traductions assistées directement sur le web                                                   |      |
+Développement en Wiki.js d'un mode d'affichage pour Le Livre d'Urantia et tout autre contenu en deux à quatre langues                                        |      |
+Développement dans Wiki.js d'un sélecteur de préférence dans la traduction à l'usage du *Livre d'Urantia* (pour des langues comme l'espagnol avec plusieurs) |      |
 
 ## Jalon IV - Cartes interactives
+
+Cette jalon est expliquée en détail ici: [Jalon IV](/fr/help/phases#milestone-iv-cartes-interactives).
 
 Cette étape comprend des développements qui ne sont actuellement pas prévus.
 
 Pour chaque langue, le contenu attendu dans cette étape est :
 
-- :globe_with_meridians : Cartes statiques : 100 prévues.
-- :earth_americas : Cartes interactives : 20 prévues. Pour l'instant, une carte a été créée pour les tests.
+- :globe_with_meridians: `Cartes statiques` : 100 prévues.
+- :earth_americas: `Cartes interactives` : 20 prévues. Pour l'instant, une carte a été créée pour les tests.
 
-| Langue | Codage | :globe_with_meridians : Cartes statiques | :earth_americas : Cartes interactives |
-| ---------- | :--: | :---------: | :-------------: |
-| Bulgare     | `bg` |             |                  |
-| Tchèque     | `cs` |             |                  |
-| Danois      | `da` |             |                  |
-| Allemand    | `de` |             |                  |
-| Grec        | `el` |             |                  |
-| Anglais     | `en` |             | :clock2: 1 / 20  |
-| Espagnol    | `es` |             | :clock2: 1 / 20  |
-| Estonien    | `et` |             |                  |
-| Persan      | `fa` |             |                  |
-| Finnois     | `fi` |             |                  |
-| Français    | `fr` |             |                  |
-| Hébreu      | `he` |             |                  |
-| Hongrois    | `hu` |             |                  |
-| Indonésien  | `id` |             |                  |
-| Italien     | `it` |             |                  |
-| Japonais    | `ja` |             |                  |
-| Coréen      | `ko` |             |                  |
-| Lituanien   | `lt` |             |                  |
-| Néerlandais | `nl` |             |                  |
-| Polonais    | `pl` |             |                  |
-| Portugais   | `pt` |             |                  |
-| Roumain     | `ro` |             |                  |
-| Russe       | `ru` |             |                  |
-| Suédois     | `sv` |             |                  |
-| Turc        | `tr` |             |                  |
+| Langue      | Codage | :globe_with_meridians : Cartes statiques | :earth_americas : Cartes interactives |
+| ----------- | :--:   | :--------------------------------------: | :-----------------------------------: |
+| Bulgare     | `bg`   |                                          |                                       |
+| Tchèque     | `cs`   |                                          |                                       |
+| Danois      | `da`   |                                          |                                       |
+| Allemand    | `de`   |                                          |                                       |
+| Grec        | `el`   |                                          |                                       |
+| Anglais     | `en`   |                                          | :clock2: 1 / 20                       |
+| Espagnol    | `es`   |                                          | :clock2: 1 / 20                       |
+| Estonien    | `et`   |                                          |                                       |
+| Persan      | `fa`   |                                          |                                       |
+| Finnois     | `fi`   |                                          |                                       |
+| Français    | `fr`   |                                          |                                       |
+| Hébreu      | `he`   |                                          |                                       |
+| Hongrois    | `hu`   |                                          |                                       |
+| Indonésien  | `id`   |                                          |                                       |
+| Italien     | `it`   |                                          |                                       |
+| Japonais    | `ja`   |                                          |                                       |
+| Coréen      | `ko`   |                                          |                                       |
+| Lituanien   | `lt`   |                                          |                                       |
+| Néerlandais | `nl`   |                                          |                                       |
+| Polonais    | `pl`   |                                          |                                       |
+| Portugais   | `pt`   |                                          |                                       |
+| Roumain     | `ro`   |                                          |                                       |
+| Russe       | `ru`   |                                          |                                       |
+| Suédois     | `sv`   |                                          |                                       |
+| Turc        | `tr`   |                                          |                                       |
 
 ## Jalon V - Diapositives
+
+Cette jalon est expliquée en détail ici: [Jalon V](/fr/help/phases#jalon-v-diapositives).
 
 Cette étape comprend certains développements qui ne sont actuellement pas prévus. Il est également nécessaire de planifier une liste de présentations à inclure.
 
 ## Jalon VI - Modèles 3D
+
+Cette jalon est expliquée en détail ici: [Jalon VI](/fr/help/phases#milestone-vi-mod%C3%A8les-interactifs-3d).
 
 Cette étape comprend certains développements qui ne sont actuellement pas prévus. Il est également nécessaire de prévoir une liste de modèles 3D à inclure.
 
@@ -190,7 +230,7 @@ Vous trouverez ici une liste des tâches qui ne sont actuellement pas actives. S
 
 ## Sommaire
 
-Le tableau suivant résume tous les progrès avec chaque type de contenu :
+Le tableau suivant résume tous les progrès avec chaque type de contenu:
 
 | Langue      | Codage |  :blue_book:       | :sound:            | :sunrise_over_mountains:  |  :card_index:  | :closed_book:      | :green_book:       |  :books:        | :page_with_curl:  | :notebook:           | :memo:  | :globe_with_meridians:   | :earth_americas: | :bar_chart: | :milky_way: |
 | ----------  | :--:   | :----------------: | :----------------: | :-----------------------: | :------------: | :----------------: | :------------:     | :-------------: | :---------------: | :------------------: | :-----: | :----------------------: | :--------------: | :---------: | :---------: |

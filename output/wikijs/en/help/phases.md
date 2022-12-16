@@ -73,17 +73,25 @@ Bulk load of files in Wiki.js format | GitHub | Administrators
 ## Milestone III -Translator
 
 In this milestone only development will be undertaken. Two new tools will be added in Wiki.js that will be of special importance in this project, and that are currently not included in the *Wiki.js* roadmap (https://docs.requarks.io/releases/roadmap):
+- An application on Urantiapedia Tools that automates the translation into multiple languages of many pages at once. It is important that this tool does the following:
+   - Allow to connect to one or several services like Google Cloud Translator to perform text translations.
+   - Maintain the integrity of the style and format of the pages (Markdown and HTML).
+   - Copy quotes from *The Urantia Book* and the *Bible* from the original or existing translation and do not translate them.
+   - Allows to know in advance the cost that the execution of the translation will have when invoking the services used.
 - A new type of editor on web pages that allows displaying two languages ​​at the same time and carrying out an assisted translation, so that on one side content is displayed as a guide, and in parallel you can see translation suggestions and the final translation saved. It will also have functionality that allows knowing the progress that the user has made in their translation work and coordinating with other users who are also translating in the same language.
 - A new type of content viewer that allows viewing content in a double column, showing two of the available languages ​​at the same time. A good use of this is to be able to view the English original of *The Urantia Book* and another language, but this would work for any page and any language pair.
 - An option will also be added to be able to select the desired translation into Spanish since there are three official translations of *The Urantia Book* into Spanish. Only one will be the default translation to which the links from other pages will be connected, but when showing the pages of the book in Spanish, an option will be added that allows switching from the default translation to the others.
+
 This milestone is expected to be achieved in Q1 2024.
 
 
 Tasks | Where | Who
 --- | --- | ---
 Opening of books and articles to manual editing of *editors* | web | Assistant Editors
+Development in Urantiapedia Tools of a massive page translator | GitHub | Developers
 Development in *Wiki.js* of a new editor for guided translations in the web | GitHub | Developers
 Development in *Wiki.js* of a new dual mode viewer for *The Urantia Book* in pairs of languages | GitHub | Developers
+Development in Wiki.js of a preference selector in the translation to use of *The Urantia Book* (for languages like Spanish with several) | GitHub | Developers
 
 <figure id="Sample_fig_2" class="image urantiapedia">
 <img src="/image/sample_page_side_by_side.png">

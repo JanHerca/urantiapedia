@@ -73,17 +73,25 @@ Carregamento em massa de arquivos no formato Wiki.js | GitHub | Administradores
 ## Marco III -Tradutor
 
 Neste marco apenas o desenvolvimento será realizado. Duas novas ferramentas serão adicionadas ao Wiki.js que serão de especial importância neste projeto e que atualmente não estão incluídas no roadmap do *Wiki.js* (https://docs.requarks.io/releases/roadmap):
+- Um aplicativo no Urantiapedia Tools que automatiza a tradução em vários idiomas de muitas páginas ao mesmo tempo. É importante que esta ferramenta faça o seguinte:
+   - Permite conectar-se a um ou vários serviços como o Google Cloud Translator para realizar traduções de texto.
+   - Manter a integridade do estilo e formato das páginas (Markdown e HTML).
+   - Copie citações do *Livro de Urântia* e da *Bíblia* da tradução original ou existente e não as traduza.
+   - Permite conhecer antecipadamente o custo que terá a execução da tradução ao invocar os serviços utilizados.
 - Um novo tipo de editor em páginas da web que permite exibir dois idiomas ao mesmo tempo e realizar uma tradução assistida, para que de um lado o conteúdo seja exibido como guia e, em paralelo, você possa ver sugestões de tradução e o final tradução salva. Também terá funcionalidades que permitem conhecer o progresso que o usuário fez em seu trabalho de tradução e coordenar com outros usuários que também estão traduzindo no mesmo idioma.
 - Um novo tipo de visualizador de conteúdo que permite visualizar o conteúdo em uma coluna dupla, mostrando dois dos idiomas disponíveis ao mesmo tempo. Um bom uso disso é poder ver o original em inglês do *O Livro de Urântia* e outro idioma, mas isso funcionaria para qualquer página e qualquer par de idiomas.
 - Uma opção também será adicionada para poder selecionar a tradução desejada para o espanhol, uma vez que existem três traduções oficiais de *O Livro de Urântia* para o espanhol. Apenas uma será a tradução padrão à qual os links de outras páginas serão conectados, mas ao mostrar as páginas do livro em espanhol, será adicionada uma opção que permite alternar da tradução padrão para as demais.
+
 Espera-se que este marco seja alcançado no primeiro trimestre de 2024.
 
 
 Tarefas | Onde | Quem
 --- | --- | ---
 Abertura de livros e artigos para edição manual de *editores* | web | Editores assistentes
+Desenvolvimento em Urantiapedia Ferramentas de um tradutor de páginas massivas | GitHub | Desenvolvedores
 Desenvolvimento em *Wiki.js* de um novo editor para traduções guiadas na web | GitHub | Desenvolvedores
 Desenvolvimento em *Wiki.js* de um novo visualizador de modo duplo para *O Livro de Urântia* em pares de idiomas | GitHub | Desenvolvedores
+Desenvolvimento em Wiki.js de um seletor de preferência na tradução para uso do *Livro de Urântia* (para idiomas como o espanhol com vários) | GitHub | Desenvolvedores
 
 <figure id="Sample_fig_2" class="image urantiapedia">
 <img src="/image/sample_page_side_by_side.png">

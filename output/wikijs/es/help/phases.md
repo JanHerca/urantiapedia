@@ -74,6 +74,11 @@ Carga masiva de los archivos en formato Wiki.js | GitHub | Administradores
 ## Fase III - Traductor
 
 Esta fase es únicamente de desarrollo. En ella se incorporarán dos herramientas en Wiki.js que resultarán de especial importancia en este proyecto, y que actualmente no se encuentran previstas en el plan de trabajo de Wiki.js (https://docs.requarks.io/releases/roadmap):
+- Una aplicación en Urantiapedia Tools que automatice la traducción a múltiples idiomas de muchas páginas a la vez. Es importante que esta herramienta haga lo siguiente:
+  - Permita conectar a uno o varios servicios tipo Google Cloud Translator para realizar traducciones del texto.
+  - Mantenga la integridad del estilo y formato de las páginas (Markdown y HTML).
+  - Copie citas de *El Libro de Urantia* y la *Biblia* del original o la traducción existente y no las traduzca.
+  - Permita conocer de antemano el coste que tendrá la ejecución de la traducción al invocar los servicios usados.
 - Un nuevo tipo de editor en las páginas de la web que permita mostrar dos idiomas al tiempo y realizar una traducción asistida, de modo que en un lado se muestre un contenido que sirva de guía, y en paralelo se pueda ir viendo sugerencias de traducción y la traducción definitiva guardada. Además dispondrá de funcionalidad que permita conocer el progreso que lleva realizado el usuario en su trabajo de traducción y coordinarse con otros usuarios que también estén traduciendo en un mismo idioma.
 - Un nuevo tipo de visor de contenidos que permita ver un contenido a doble columna, mostrando dos idiomas de los disponibles al mismo tiempo. Una buena utilidad de esto es poder ver el original en inglés de *El Libro de Urantia* y otro idioma, pero esto serviría para cualquier página y cualquier par de idiomas.
 - También se añadirá una opción para poder seleccionar la traducción deseada al español puesto que hay tres traducciones oficiales de *El Libro de Urantia* al español. Sólo una será la traducción por defecto con la que conectarán los vínculos de otras páginas, pero al mostrar las páginas del libro en español se añadirá una opción que permita pasar de la traducción por defecto a las otras.
@@ -84,8 +89,10 @@ Esta fase se espera que termine en Q1 2024.
 Tareas | Dónde | Quién
 --- | --- | ---
 Apertura de los libros y artículos para su edición manual por los editores | web | Editores Asistentes
+Desarrollo en Urantiapedia Tools de un traductor masivo de páginas | GitHub | Desarrolladores
 Desarrollo en Wiki.js un nuevo editor que permita traducciones asistidas directamente en la web | GitHub | Desarrolladores
-Desarrollo en Wiki.js de un modo dual de visualización de *El Libro de Urantia* en dos idiomas | GitHub | Desarrolladores
+Desarrollo en Wiki.js de un modo de visualización de *El Libro de Urantia* y cualquier otro contenido en dos a cuatro idiomas | GitHub | Desarrolladores
+Desarrollo en Wiki.js de un selector de preferencia en la traducción a usar de *El Libro de Urantia* (para idiomas como español con varias) | GitHub | Desarrolladores
 
 <figure id="Sample_fig_2" class="image urantiapedia">
 <img src="/image/sample_page_side_by_side.png">

@@ -22,25 +22,38 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Marco I - O Livro de Urântia, a Bíblia e o Índice de Tópicos
 
+Esta fase é explicada em detalhes aqui: [Marco I](/pt/help/phases#marco-i-o-livro-de-ur%C3%A2ntia-a-b%C3%ADblia-e-o-%C3%ADndice-de-t%C3%B3picos).
+
+### Tarefas de desenvolvimento de software
+
+Nesta fase os desenvolvimentos a realizar são:
+
+Tarefa                                                                                                        | Estado             |
+------------------------------------------------------------------------------------------------------------- | ------------------ |
+Desenvolvimento de conversores de arquivos para Wiki.js                                                       | :heavy_check_mark: |
+Desenvolvimento do _Topic Index Editor_, um assistente que permite agilizar o trabalho com o Índice de Termos | :clock2:           |
+
+### Tarefas de adição de conteúdo
+
 Para cada idioma suportado, a lista de tarefas para completar o marco I é esta:
 
 1. Tradução de _Paramony_ :ledger: do inglês para o idioma de destino (`Paramony`).
 2. Tradução e revisão de _Topic index_ :card_index: do inglês para o idioma de destino (`Topics`).
 3. Obtenha uma tradução de domínio público de _The Bible_ :closed_book: no idioma de destino (`Bíblia`).
-4. Conversão _O Livro de Urântia_ :blue_book: de HTML para JSON sem _Paramony_ :ledger: footnotes (`UB`).
-5. Adição de _Paramony_ :ledger: notas de rodapé para _O Livro de Urântia_ :blue_book: em JSON (`UB + Paramony`).
+4. Conversão _O Livro de Urântia_ :blue_book: de HTML para JSON sem _Paramony_ :ledger: footnotes (`LU`).
+5. Adição de _Paramony_ :ledger: notas de rodapé para _O Livro de Urântia_ :blue_book: em JSON (`LU Paramony`).
 6. Conversão do _Topic index_ :card_index: de TXT para Wiki.js e commit das alterações usando [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) (`Topics`).
-7. Conversão de _O Livro de Urântia_ :blue_book: de JSON com _Paramony_ :ledger: notas de rodapé para Wiki.js incluindo referências a tópicos e alterações de commit usando [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup ) (`UB Wiki`).
+7. Conversão de _O Livro de Urântia_ :blue_book: de JSON com _Paramony_ :ledger: notas de rodapé para Wiki.js incluindo referências a tópicos e alterações de commit usando [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup ) (`LU Wiki`).
 8. Conversão de _The Bible_ :closed_book: de LaTeX para Wiki.js com _Paramony_ :ledger: notas de rodapé e alterações de commit usando [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) (`Bible Wiki `).
 
 Outras tarefas adicionais para trabalhar são:
 
-- :sound: Testa soluções de conversão de texto em fala. O objetivo é oferecer leitura automatizada de todos os livros do site, começando com _O Livro de Urântia_. Em inglês há um audiolivro oficial da Urantia Foundation. Para outros idiomas, serão buscadas soluções automatizadas.
-- :sunrise_over_mountains: Crie um catálogo de imagens para ilustrar _O Livro de Urântia_, a _Bíblia_ e o _Índice de Tópicos_. Atualmente é feito com a parte IV de _O Livro de Urântia_.
+- :sound: Testa soluções de conversão de texto em fala. O objetivo é oferecer leitura automatizada de todos os livros do site, começando com _O Livro de Urântia_. Em inglês há um audiolivro oficial da Urantia Foundation. Para outros idiomas, serão buscadas soluções automatizadas. (`LU Áudio`)
+- :sunrise_over_mountains: Crie um catálogo de imagens para ilustrar _O Livro de Urântia_, a _Bíblia_ e o _Índice de Tópicos_. Atualmente é feito com a parte IV de _O Livro de Urântia_. (`imagens LU`)
 
 Tabela de tarefas e idiomas para suporte, mostrando o progresso atual:
 
-| Idioma      | Código | :ledger: Paramony  | :card_index: Tópicos | :closed_book: Bíblia |   :blue_book: UB   | :blue_book: :ledger: UB <br> Paramony | :blue_book: UB<br>Wiki | :closed_book: Bíblia<br>Wiki |  :sound: UB Áudio  | :sunrise_over_mountains: imagens UB |
+| Idioma      | Código | :ledger: Paramony  | :card_index: Tópicos | :closed_book: Bíblia |   :blue_book: LU   | :blue_book: :ledger: LU <br> Paramony | :blue_book: LU<br>Wiki | :closed_book: Bíblia<br>Wiki |  :sound: LU Áudio  | :sunrise_over_mountains: imagens LU |
 | ----------- | :----: | :----------------: | :------------------: | :------------------: | :----------------: | :-----------------------------------: | :--------------------: | :--------------------------: | :----------------: | :---------------------------------: |
 | Búlgaro     |  `bg`  | :heavy_check_mark: |                      |  :heavy_check_mark:  | :heavy_check_mark: |          :heavy_check_mark:           |   :heavy_check_mark:   |      :heavy_check_mark:      |                    |              :clock2:               |
 | Checo       |  `cs`  | :heavy_check_mark: |                      |  :heavy_check_mark:  | :heavy_check_mark: |          :heavy_check_mark:           |   :heavy_check_mark:   |      :heavy_check_mark:      |                    |              :clock2:               |
@@ -71,25 +84,37 @@ Tabela de tarefas e idiomas para suporte, mostrando o progresso atual:
 
 ## Marco II - Livros, artigos, auxílios de estudo, esquemas e índices
 
+Esta fase é explicada em detalhes aqui: [Marco II](/pt/help/phases#marco-ii-livros-artigos-aux%C3%ADlios-de-estudo-esquemas-e-%C3%ADndices).
+
+### Tarefas de desenvolvimento de software
+
+Nesta fase os desenvolvimentos a realizar são:
+
+Tarefa                                                          | Estado             |
+----------------------------------------------------------------| ------------------ |
+Desenvolvimento para conversão de livros e artigos para Wiki.js | :clock2:           |
+
+### Tarefas de adição de conteúdo
+
 Para cada idioma, o conteúdo esperado neste marco é:
 
 - Livros:
-  - :green_book: Livros extra-bíblicos: 11 livros planejados
-  - :books: Outros livros supostamente fontes: 17 livros planejados
-- :page_with_curl: Artigos:
+  - :green_book: Livros extra-bíblicos: 11 livros planejados. (`Extra-bíblico`)
+  - :books: Outros livros supostamente fontes: 17 livros planejados. (`Livros Fontes`)
+- :page_with_curl: Artigos (`Artigos`):
   - Innerface: 510 planejados
   - Urantian Journal: 11 planejados
-  - Diário da bolsa: 23 planejados
+  - Fellowship Journal: 23 planejados
   - Fellowship Herald: 225 planejados
-  - UB Anotado: 17 planejados
+  - UB Annotated: 17 planejados
   - Artigos de Jan Herca: 41 planejados
   - Outros: 100 planejados
   - TOTAL: 927 planejados
-- :notebook: Auxílios de estudo: Planejei cerca de 20 deles, disponível em `en`.
-- :memo: Diagramas: não planejado, apenas testes.
-- :capital_abcd: Índices: atualmente estão disponíveis índices para tópicos. Mais precisam ser planejados.
+- :notebook: Auxílios de estudo: Planejei cerca de 20 deles, disponível em `en`. (`Auxílios de estudo`)
+- :memo: Diagramas: não planejado, apenas testes. (`Diagramas`)
+- :capital_abcd: Índices: atualmente estão disponíveis índices para tópicos. Mais precisam ser planejados. (`Índices`)
 
-| Idioma      | Código | :green_book: Extra-bíblico | :books: Fontes de livros | :page_with_curl: Artigos | :notebook: Auxílios de estudo | :memo: Diagramas | :capital_abcd: Índices |
+| Idioma      | Código | :green_book: Extra-bíblico | :books: Livros Fontes    | :page_with_curl: Artigos | :notebook: Auxílios de estudo | :memo: Diagramas | :capital_abcd: Índices |
 | ----------- | :----: | :------------------------: | :----------------------: | :----------------------: | :---------------------------: | :--------------: | :--------------------: |
 | Búlgaro     |  `bg`  |                            |                          |                          |                               |                  |                        |
 | Checo       |  `cs`  |                            |                          |                          |                               |                  |                        |
@@ -120,16 +145,27 @@ Para cada idioma, o conteúdo esperado neste marco é:
 
 ## Marco III - Tradutor
 
-Este marco inclui alguns desenvolvimentos que atualmente não estão planejados.
+Esta fase é explicada em detalhes aqui: [Marco III](/pt/help/phases#marco-iii-tradutor).
+
+Nesta fase, os desenvolvimentos serão realizados apenas nas aplicações, pelo que será uma fase paralela às restantes. As tarefas previstas são estas:
+
+Tarefa                                                                                                                                       | Estado |
+-------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+Desenvolvimento em Urantiapedia Ferramentas de um tradutor de páginas massivas                                                               |        |
+Desenvolvimento em Wiki.js de um novo editor que permite traduções assistidas diretamente na web                                             |        |
+Desenvolvimento em Wiki.js de um modo de exibição para O Livro de Urântia e qualquer outro conteúdo em dois a quatro idiomas                 |        |
+Desenvolvimento em Wiki.js de um seletor de preferência na tradução para uso do *Livro de Urântia* (para idiomas como o espanhol com vários) |        |
 
 ## Marco IV - Mapas interativos
+
+Esta fase é explicada em detalhes aqui: [Marco IV](/pt/help/phases#marco-iv-mapas-interativos).
 
 Este marco inclui alguns desenvolvimentos que atualmente não estão planejados.
 
 Para cada idioma, o conteúdo esperado neste marco é:
 
-- :globe_with_meridians: Mapas estáticos: 100 planejados.
-- :earth_americas: Mapas interativos: 20 planejados. Por enquanto um mapa foi criado para teste.
+- :globe_with_meridians: `Mapas estáticos`: 100 planejados.
+- :earth_americas: `Mapas interativos`: 20 planejados. Por enquanto um mapa foi criado para teste.
 
 | Idioma      | Código | :globe_with_meridians: Mapas estáticos | :earth_americas: Mapas Interativos |
 | ----------- | :----: | :------------------------------------: | :--------------------------------: |
@@ -162,9 +198,13 @@ Para cada idioma, o conteúdo esperado neste marco é:
 
 ## Marco V - Apresentações
 
+Esta fase é explicada em detalhes aqui: [Marco V](/pt/help/phases#marco-v-apresenta%C3%A7%C3%B5es).
+
 Este marco inclui algum desenvolvimento que atualmente não está planejado. Também é necessário planejar uma lista de apresentações a serem incluídas.
 
 ## Marco VI - Modelos 3D
+
+Esta fase é explicada em detalhes aqui: [Marco VI](/pt/help/phases#marco-vi-modelos-interativos-3d).
 
 Este marco inclui algum desenvolvimento que atualmente não está planejado. Também é necessário planejar uma lista de modelos 3D a serem incluídos.
 
