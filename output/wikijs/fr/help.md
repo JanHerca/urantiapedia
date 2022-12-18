@@ -56,3 +56,4 @@ C'est l'index principal de la documentation sur Urantiapedia elle-même. Veuille
     7. [Catalogue de diagrammes](/fr/help/github_diagrams_catalog)
     8. [Obtenir des diagrammes](/fr/help/github_diagrams_svg)
     9. [Catalogue d'images](/fr/help/github_images_catalog)
+   
