@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td><a href="/fr/help/github_sourcebooks_markdown">Obtenir des livres "sources"</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/github_articles_markdown">Obtenir des articles</a></td>
       </tr>
     </tbody>
@@ -75,7 +75,7 @@ Si vous avez modifié la liste du fichier sur GitHub, vous avez deux options pou
     <tbody>
       <tr>
         <td><a href="/fr/help/github_sourcebooks_markdown">Obtenir des livres "sources"</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/github_articles_markdown">Obtenir des articles</a></td>
       </tr>
     </tbody>

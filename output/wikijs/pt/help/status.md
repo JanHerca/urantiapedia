@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/pt/help/languages">Idiomas suportados</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/roles">Perfis de colaborador</a></td>
+        <td><a href="/pt/help/websites">Sites para referências</a></td>
       </tr>
     </tbody>
   </table>
@@ -283,7 +283,7 @@ A tabela a seguir resume todo o progresso com cada tipo de conteúdo:
       <tr>
         <td><a href="/pt/help/languages">Idiomas suportados</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/roles">Perfis de colaborador</a></td>
+        <td><a href="/pt/help/websites">Sites para referências</a></td>
       </tr>
     </tbody>
   </table>

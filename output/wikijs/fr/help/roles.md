@@ -12,8 +12,8 @@ dateCreated: 2021-11-28T13:55:38.362Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/help/status">État actuel</a></td>
-        <td><a href="/fr/help">Index</a></td>
+        <td><a href="/fr/help/websites">Sites de références</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/admin">Aide aux administrateurs</a></td>
       </tr>
     </tbody>
@@ -94,8 +94,8 @@ Bon niveau d'anglais car la documentation et les commentaires de code sont en an
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/help/status">État actuel</a></td>
-        <td><a href="/fr/help">Index</a></td>
+        <td><a href="/fr/help/websites">Sites de références</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/admin">Aide aux administrateurs</a></td>
       </tr>
     </tbody>

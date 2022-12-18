@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td><a href="/fr/help/github_diagrams_svg">Obtenir des diagrammes</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td></td>
       </tr>
     </tbody>
@@ -118,7 +118,7 @@ Pour pousser les modifications, vous avez deux options : 1) si vous êtes un «�
     <tbody>
       <tr>
         <td><a href="/fr/help/github_diagrams_svg">Obtenir des diagrammes</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td></td>
       </tr>
     </tbody>

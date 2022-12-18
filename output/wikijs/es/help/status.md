@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/es/help/languages">Idiomas soportados</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/roles">Perfiles de colaboradores</a></td>
+        <td><a href="/es/help/websites">Sitios web de referencia</a></td>
       </tr>
     </tbody>
   </table>

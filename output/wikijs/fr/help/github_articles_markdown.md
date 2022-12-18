@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td><a href="/fr/help/github_articles_catalog">Catalogue d'articles</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/github_studyaids_catalog">Catalogue d'aides à l'étude</a></td>
       </tr>
     </tbody>
@@ -77,7 +77,7 @@ Si vous êtes un « éditeur en chef » utilisant GitHub, vous pouvez soumettre 
     <tbody>
       <tr>
         <td><a href="/fr/help/github_articles_catalog">Catalogue d'articles</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/github_studyaids_catalog">Catalogue d'aides à l'étude</a></td>
       </tr>
     </tbody>

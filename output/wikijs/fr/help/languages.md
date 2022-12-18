@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td><a href="/fr/help/phases">Jalons du projet</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/status">État actuel</a></td>
       </tr>
     </tbody>
@@ -112,7 +112,7 @@ https://www.deepl.com/translator
     <tbody>
       <tr>
         <td><a href="/fr/help/phases">Jalons du projet</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/status">État actuel</a></td>
       </tr>
     </tbody>

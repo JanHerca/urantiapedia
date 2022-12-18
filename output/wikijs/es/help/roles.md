@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/status">Progreso actual del proyecto</a></td>
+        <td><a href="/es/help/websites">Sitios web de referencia</a></td>
         <td><a href="/es/help">Índice</a></td>
         <td><a href="/es/help/admin">Manual para Administradores</a></td>
       </tr>
@@ -95,7 +95,7 @@ Los *Desarrolladores* desarrollan la funcionalidad de las [Urantiapedia Tools](h
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/status">Progreso actual del proyecto</a></td>
+        <td><a href="/es/help/websites">Sitios web de referencia</a></td>
         <td><a href="/es/help">Índice</a></td>
         <td><a href="/es/help/admin">Manual para Administradores</a></td>
       </tr>

@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td><a href="/fr/help/github_topicindex_to_wiki">Convertir l'index des sujets</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/github_bible_to_wiki">Convertir la Bible</a></td>
       </tr>
     </tbody>
@@ -54,7 +54,7 @@ Les fichiers de sortie sont déjà dans le format qui permet de les télécharge
     <tbody>
       <tr>
         <td><a href="/fr/help/github_topicindex_to_wiki">Convertir l'index des sujets</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/github_bible_to_wiki">Convertir la Bible</a></td>
       </tr>
     </tbody>

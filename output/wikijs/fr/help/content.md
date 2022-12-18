@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td><a href="/fr/help/principles">Principes régissant Urantiapedia</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/phases">Jalons du projet</a></td>
       </tr>
     </tbody>
@@ -377,7 +377,7 @@ C'est une bonne idée de maintenir ces conventions afin que les URL aient une ma
     <tbody>
       <tr>
         <td><a href="/fr/help/principles">Principes régissant Urantiapedia</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/phases">Jalons du projet</a></td>
       </tr>
     </tbody>

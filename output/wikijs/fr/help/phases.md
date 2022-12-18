@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
     <tbody>
       <tr>
         <td><a href="/fr/help/content">Contenu d'Urantiapedia</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/languages">Langues prises en charge</a></td>
       </tr>
     </tbody>
@@ -207,7 +207,7 @@ Désormais, le projet pourrait envisager de nouveaux défis tels que:
     <tbody>
       <tr>
         <td><a href="/fr/help/content">Contenu d'Urantiapedia</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/languages">Langues prises en charge</a></td>
       </tr>
     </tbody>

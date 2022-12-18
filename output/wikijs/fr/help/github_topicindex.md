@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td><a href="/fr/help/github_paramony">Traduction de Paramony</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/github_bible">Obtenir la Bible</a></td>
       </tr>
     </tbody>
@@ -285,7 +285,7 @@ Une autre fonctionnalité utile est que la ligne courte sélectionnée, qui dit 
     <tbody>
       <tr>
         <td><a href="/fr/help/github_paramony">Traduction de Paramony</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/github_bible">Obtenir la Bible</a></td>
       </tr>
     </tbody>

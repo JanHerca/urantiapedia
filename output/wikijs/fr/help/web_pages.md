@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td><a href="/fr/help/web_basics">Interface and basic use of Urantiapedia</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/web_editors">Use of editors</a></td>
       </tr>
     </tbody>
@@ -104,7 +104,7 @@ Les chemins ne peuvent pas contenir les caractères suivants :
     <tbody>
       <tr>
         <td><a href="/fr/help/web_basics">Interface and basic use of Urantiapedia</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/web_editors">Use of editors</a></td>
       </tr>
     </tbody>

@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td><a href="/fr/help/web_visual_editor">Utilisation de l'éditeur visuel</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/markdown">Aide au format Markdown</a></td>
       </tr>
     </tbody>
@@ -59,7 +59,7 @@ La capture d'écran montre les contrôles les plus importants de l'éditeur Mark
     <tbody>
       <tr>
         <td><a href="/fr/help/web_visual_editor">Utilisation de l'éditeur visuel</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/markdown">Aide au format Markdown</a></td>
       </tr>
     </tbody>

@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td><a href="/fr/help/github_footnotes">Ajout de notes de bas de page Paramony</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/github_book_to_wiki">Convertir Le Livre d'Urantia</a></td>
       </tr>
     </tbody>
@@ -51,7 +51,7 @@ Les fichiers de sortie sont déjà dans le format qui permet de les télécharge
     <tbody>
       <tr>
         <td><a href="/fr/help/github_footnotes">Ajout de notes de bas de page Paramony</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/github_book_to_wiki">Convertir Le Livre d'Urantia</a></td>
       </tr>
     </tbody>

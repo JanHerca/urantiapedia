@@ -13,8 +13,8 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td><a href="/fr/help/languages">Langues prises en charge</a></td>
-        <td><a href="/fr/help">Indice</a></td>
-        <td><a href="/fr/help/roles">Profils des collaborateurs</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
+        <td><a href="/fr/help/websites">Sites de références</a></td>
       </tr>
     </tbody>
   </table>
@@ -277,8 +277,8 @@ Le tableau suivant résume tous les progrès avec chaque type de contenu:
     <tbody>
       <tr>
         <td><a href="/fr/help/languages">Langues prises en charge</a></td>
-        <td><a href="/fr/help">Indice</a></td>
-        <td><a href="/fr/help/roles">Profils des collaborateurs</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
+        <td><a href="/fr/help/websites">Sites de références</a></td>
       </tr>
     </tbody>
   </table>

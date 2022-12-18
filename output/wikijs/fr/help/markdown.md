@@ -13,7 +13,7 @@ dateCreated: 2022-08-01T19:59:13.093Z
     <tbody>
       <tr>
         <td><a href="/fr/help/web_markdown_editor">Using the Markdown editor</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/web_html_editor">Using the HTML editor</a></td>
       </tr>
     </tbody>
@@ -1177,7 +1177,7 @@ Lorem ipsum douleur <kbd>CTRL</kbd> + <kbd>C</kbd>
     <tbody>
       <tr>
         <td><a href="/fr/help/web_markdown_editor">Using the Markdown editor</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/web_html_editor">Using the HTML editor</a></td>
       </tr>
     </tbody>

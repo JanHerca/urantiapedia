@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td><a href="/fr/help/roles">Profils des collaborateurs</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/github">Aide des rédacteurs en chef</a></td>
       </tr>
     </tbody>
@@ -100,7 +100,7 @@ Les *rédacteurs en chef* et les *rédacteurs adjoints* effectuent les tâches 1
     <tbody>
       <tr>
         <td><a href="/fr/help/roles">Profils des collaborateurs</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/github">Aide des rédacteurs en chef</a></td>
       </tr>
     </tbody>

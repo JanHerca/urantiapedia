@@ -13,7 +13,7 @@ dateCreated: 2022-09-02T14:21:26.328Z
     <tbody>
       <tr>
         <td><a href="/fr/help/web_pages">Gérer les pages</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/web_visual_editor">Utilisation de l'éditeur visuel</a></td>
       </tr>
     </tbody>
@@ -75,7 +75,7 @@ Sélectionnez l'éditeur que vous souhaitez utiliser à l'avenir et cliquez sur 
     <tbody>
       <tr>
         <td><a href="/fr/help/web_pages">Gérer les pages</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/web_visual_editor">Utilisation de l'éditeur visuel</a></td>
       </tr>
     </tbody>

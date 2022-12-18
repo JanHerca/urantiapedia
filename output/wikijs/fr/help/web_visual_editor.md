@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td><a href="/fr/help/web_editors">Use of editors</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/web_markdown_editor">Using the Markdown editor</a></td>
       </tr>
     </tbody>
@@ -76,7 +76,7 @@ Certaines actions importantes de l'éditeur ne sont pas encore implémentées et
     <tbody>
       <tr>
         <td><a href="/fr/help/web_editors">Use of editors</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/web_markdown_editor">Using the Markdown editor</a></td>
       </tr>
     </tbody>

@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td><a href="/fr/help/devs">Aide aux développeurs</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/web_pages">Gérer les pages</a></td>
       </tr>
     </tbody>
@@ -94,7 +94,7 @@ Votre page n'est pas créée tant que vous n'avez pas cliqué sur le bouton **Cr
     <tbody>
       <tr>
         <td><a href="/fr/help/devs">Aide aux développeurs</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/web_pages">Gérer les pages</a></td>
       </tr>
     </tbody>

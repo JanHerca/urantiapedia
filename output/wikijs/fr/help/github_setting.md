@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td><a href="/fr/help/web_html_editor">Utilisation de l'éditeur HTML</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/github_content">Contenu du projet GitHub</a></td>
       </tr>
     </tbody>
@@ -167,7 +167,7 @@ En résumé, le processus dans GitHub est le suivant (voir le schéma):
     <tbody>
       <tr>
         <td><a href="/fr/help/web_html_editor">Utilisation de l'éditeur HTML</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/github_content">Contenu du projet GitHub</a></td>
       </tr>
     </tbody>

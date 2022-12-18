@@ -1,5 +1,5 @@
 ---
-title: Aide d'Urantiapedia — Indice
+title: Aide d'Urantiapedia — Table des matières
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
@@ -17,6 +17,7 @@ C'est l'index principal de la documentation sur Urantiapedia elle-même. Veuille
   4. [Jalons du projet](/fr/help/phases)
   5. [Langues prises en charge](/fr/help/languages)
   6. [État actuel](/fr/help/status)
+  7. [Sites de références](/fr/help(websites))
 - À propos des rôles
   1. [Profils des collaborateurs](/fr/help/roles)
   2. [Aide des administrateurs](/fr/help/admin)

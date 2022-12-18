@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T13:46:33.162Z
     <tbody>
       <tr>
         <td></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/principles">Principes régissant Urantiapedia</a></td>
       </tr>
     </tbody>
@@ -109,7 +109,7 @@ Pour en savoir plus sur les profils avec lesquels nous cherchons à collaborer, 
     <tbody>
       <tr>
         <td></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/principles">Principes régissant Urantiapedia</a></td>
       </tr>
     </tbody>

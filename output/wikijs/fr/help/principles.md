@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
     <tbody>
       <tr>
         <td><a href="/fr/help/start">Commencer avec Urantiapedia</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/content">Contenu d'Urantiapedia</a></td>
       </tr>
     </tbody>
@@ -188,7 +188,7 @@ Le but de *Urantiapedia* est d'aider à la compréhension de tout le contenu du 
     <tbody>
       <tr>
         <td><a href="/fr/help/start">Commencer avec Urantiapedia</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/content">Contenu d'Urantiapedia</a></td>
       </tr>
     </tbody>

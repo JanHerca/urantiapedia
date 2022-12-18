@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td><a href="/fr/help/github_bible_to_wiki">Convertir la Bible</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/github_sourcebooks_catalog">Catalogue de livres "sources"</a></td>
       </tr>
     </tbody>
@@ -48,7 +48,7 @@ Pour valider le contenu, procédez comme suit :
     <tbody>
       <tr>
         <td><a href="/fr/help/github_bible_to_wiki">Convertir la Bible</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/github_sourcebooks_catalog">Catalogue de livres "sources"</a></td>
       </tr>
     </tbody>

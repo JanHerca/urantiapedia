@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td><a href="/fr/help/admin">Aide des administrateurs</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/github_assistant">Aide des éditeurs adjoints</a></td>
       </tr>
     </tbody>
@@ -110,7 +110,7 @@ Actuellement, toutes les tâches sauf 2 sont terminées.
     <tbody>
       <tr>
         <td><a href="/fr/help/admin">Aide des administrateurs</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/github_assistant">Aide des éditeurs adjoints</a></td>
       </tr>
     </tbody>

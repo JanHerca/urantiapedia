@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/en/help/languages">Languages supported</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/roles">Collaborator profiles</a></td>
+        <td><a href="/en/help/websites">Websites for references</a></td>
       </tr>
     </tbody>
   </table>
@@ -278,7 +278,7 @@ The next table summarizes all the progress with each type of content:
       <tr>
         <td><a href="/en/help/languages">Languages supported</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/roles">Collaborator profiles</a></td>
+        <td><a href="/en/help/websites">Websites for references</a></td>
       </tr>
     </tbody>
   </table>

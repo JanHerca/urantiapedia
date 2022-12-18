@@ -12,7 +12,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/pt/help/status">Status atual</a></td>
+        <td><a href="/pt/help/websites">Sites para referências</a></td>
         <td><a href="/pt/help">Índice</a></td>
         <td><a href="/pt/help/admin">Ajuda dos administradores</a></td>
       </tr>
@@ -96,7 +96,7 @@ Os autores são *Assistentes de Edição* que, além de poderem editar o que qua
   <table>
     <tbody>
       <tr>
-        <td><a href="/pt/help/status">Status atual</a></td>
+        <td><a href="/pt/help/websites">Sites para referências</a></td>
         <td><a href="/pt/help">Índice</a></td>
         <td><a href="/pt/help/admin">Ajuda dos administradores</a></td>
       </tr>

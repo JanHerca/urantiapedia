@@ -13,7 +13,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td><a href="/fr/help/github_setting">Setting up GitHub project</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href=«/fr/help/github_paramony»>Translation of Paramony</a></td>
       </tr>
     </tbody>
@@ -147,7 +147,7 @@ Tous les dossiers indiqués ci-dessus pour le dossier `output` sont créés en u
     <tbody>
       <tr>
         <td><a href="/fr/help/github_setting">Setting up GitHub project</a></td>
-        <td><a href="/fr/help">Indice</a></td>
+        <td><a href="/fr/help">Table des matières</a></td>
         <td><a href="/fr/help/github_paramony">Translation of Paramony</a></td>
       </tr>
     </tbody>
