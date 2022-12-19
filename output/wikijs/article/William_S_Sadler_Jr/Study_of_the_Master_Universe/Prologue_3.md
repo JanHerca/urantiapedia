@@ -57,7 +57,7 @@ _Trinitization_ has a special meaning in the Papers. As we are using it here it 
 What is it that ends the Zero Age and begins the First Age? The action that begins the age of Havona is a Deity-trinitizing act on the part of the two existential Deities. This produces some immediate additions to, and changes in, the inventory of actualized reality:
 - (a) The Father and the Son unite as the Father-Son.
 - (b) The Infinite Sprit appears as their Deity equal.
-- (c) The central universe of Havona makes its appearance.
+- (c\) The central universe of Havona makes its appearance.
 - (d) The Father, Son, and Spirit unite as the Paradise Trinity.
 
 In the dawn of the First Age we now have: the Three Absolutes of Potentiality, the Three Persons of Deity, Paradise and the central universe, and the Trinity. These realities are all precreative; none of them ever had a real beginning; each one is eternal – _absolutely_ eternal.
@@ -69,7 +69,7 @@ In the dawn of the First Age we now have: the Three Absolutes of Potentiality, t
 We took inventory of what was in existence in the “twilight” of the closing of the Zero Age, and it would be a good idea to repeat this process in the “dawn” of the First Age. In taking this inventory, it will be helpful to classify the Seven Abso­lute Realities – the Seven Absolutes of Infinity – under three main headings. There are several ways in which this classification can be made. The most helpful and informative seems to be the following:
 - (a) The Absolute Original – God, the Universal Father
 - (b) The Absolute Actuals – the Son, Paradise, and the Spirit
-- (c) The Absolute Potentials – Deity, Unqualified, and Universal
+- (c\) The Absolute Potentials – Deity, Unqualified, and Universal
 
 On the summary such a classification has been made. This classification emphasizes a certain functional relationship which underlies all growth and change. All of the post-Havona creation (and evolution) of things and beings has come into existence, in the presence of the Original, as Reality has been trans­ferred from the Potential to the Actual.
 
@@ -100,7 +100,7 @@ It appears likely that Deity is so indivisible it could never be divided, and ac
 _God’s escape from infinity._ Let us go back in our study, back near the beginning, back to where God is separating (qualifying) Deity from not-Deity (the unqualified). In doing this he is escaping from a situation in which he fills Total Reality – Infinity. We started with a picture of one circle, squeezed it into an hourglass, then separated the two lobes to form two circles, one of which had a dot in it. This circle-with-the-dot is our symbol for Deity, and the dot is the symbol of God’s will. At this point in the study God actually fills all of this second circle; he fills Total Deity – he _is_ Total Deity. Now, when God separates himself from the Son and they produce the Spirit, then:
 - (a) He personally escapes from the situation in which he fills Total Deity.
 - (b) He is able to enjoy the association of two other equal beings. (Three is a minimum social group.)
-- (c) At the same time, in the Trinity, the Three Deities retain the oneness that still fills and dominates Total Deity.
+- (c\) At the same time, in the Trinity, the Three Deities retain the oneness that still fills and dominates Total Deity.
 - (d) But the three personal Deities, as persons, are not the Trinity; each now has an existence as an individual that is independent of their corporative union in the Trinity.
 
 This is the story of a magnificent break for liberty. God starts out so completely alone and so utterly infinite, that he finds it difficult to do anything. He fills everything; there is nothing but God, and no room for anything except God – so he begins to make some room. (It is one thing to say “In God all things consist.” It is quite something else to say, “All things consist of God.”) He moves away from a part of Total Reality, Infinity, leaving it unqualified – the Unqualified Absolute. That which moves away is the Qualified Absolute – Total Deity. He manages to with­draw, as a person, from Total Deity. This withdrawal he accomplishes by separating himself from the Absolute Person who becomes the Son, then by uniting with the Son in trinitizing the Spirit, and finally by consummating the Deity-union of all three in the Paradise Trinity. The Trinity union restores the original unity of undivided Deity as it was before God became the Father of the Eternal Son. Deity remains undivided in the Trinity, notwithstanding there are now Three Persons of Deity.

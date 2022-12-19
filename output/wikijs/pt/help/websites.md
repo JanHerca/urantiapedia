@@ -20,7 +20,7 @@ dateCreated: 2022-12-18T14:02:03.086Z
   </table>
 </figure>
 
-Conforme detalhamos na lista de [Princípios da Urântiapedia](/pt/ajuda/princípios), um dos objetivos deste projeto é acabar com a dispersão dos conteúdos que auxiliam na leitura _O Livro de Urântia_. Queremos criar um site centralizado onde qualquer leitor do livro possa encontrar tudo o que existe hoje que permita uma melhor compreensão das suas revelações.
+Conforme detalhamos na lista de [Princípios da Urântiapedia](/pt/help/principles), um dos objetivos deste projeto é acabar com a dispersão dos conteúdos que auxiliam na leitura _O Livro de Urântia_. Queremos criar um site centralizado onde qualquer leitor do livro possa encontrar tudo o que existe hoje que permita uma melhor compreensão das suas revelações.
 
 Na lista abaixo indicamos o catálogo de websites cujos conteúdos pendentes serão copiados e carregados na Urantiapedia. Nesse processo não nos limitaremos a pegar o material tal como é apresentado no site original, mas será revisado para garantir sua exatidão, assegurando, por exemplo, que os links para os materiais referenciados funcionem. No processo, será realizada uma padronização de estilo, para que fique mais claro para qualquer leitor identificar a estrutura no conteúdo.
 

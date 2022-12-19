@@ -38,7 +38,7 @@ _Source relationships in eternity_. When we try to think about “origins” in 
 
 - (a) If the Infinite Spirit and the central universe are _eternal_, then it logically follows that –
 - (b) The Eternal Son and the Isle of Paradise are more eternal – _eternaler_ – because they were both in existence when the Spirit and Havona appeared. And, if the Son and Paradise are _eternaler_, then –
-- (c) The Universal Father is most eternal – _eternalest_ – because he is the Father of the Son and, at the same time, the Source of Paradise.
+- (c\) The Universal Father is most eternal – _eternalest_ – because he is the Father of the Son and, at the same time, the Source of Paradise.
 
 This line of reasoning helps us think of at least three stages of development inside of eternity – eternal, eternaler, and eternalest. Suppose we start with the “oldest” of these. Let us go back (or in) just as far as we can possibly go in concept, and then move forward (or outward) step by step, toward the First Universe Age, Havona, and factual reality.
 
@@ -88,7 +88,7 @@ How does God do this? He does it by separating himself from the Absolute Person.
 
 - (a) In removing himself from the Absolute Person, God causes this being to exist separate and apart from himself. He thus becomes the cause and the source of the Absolute Person.
 - (b) If God is the “cause” and the “source” of something, and if that something is a person, then God is the father of that person; therefore, if he can be the father of the Absolute Person then God can be the father of any and all persons, and thus be becomes the “Universal Father.”
-- (c) If God becomes the “father” of the Absolute Person, this makes that Absolute Person the Original Son of God; but he is nonetheless the Absolute Person for becoming the Son of God. It is customary to speak of this Original Son as the “Eternal” Son, because all of this is happening in eternity.
+- (c\) If God becomes the “father” of the Absolute Person, this makes that Absolute Person the Original Son of God; but he is nonetheless the Absolute Person for becoming the Son of God. It is customary to speak of this Original Son as the “Eternal” Son, because all of this is happening in eternity.
 
 This is the beginning of the divine fraternity of the eternal Persons of Deity which is soon to be completed by the appearance of the Third Person – the Infinite Spirit.
 

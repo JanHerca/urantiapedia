@@ -61,7 +61,7 @@ Nous avons vu aussi que tous les âges de l’univers ne sont pas qualitativemen
 Nous avons découvert qu’il semble y avoir une étroite relation entre ces développements. Tous les univers ne sont pas semblables, certains sont des univers nucléaire, d’autres sont des univers cytoplasmiques. Nous avons identifié trois créations successives qui sont nucléaires par rapport aux domaines extérieurs qui sont cytoplasmiques:
 - (a) L’univers central en tant que noyau des superunivers.
 - (b) Le grand univers en tant que noyau des univers extérieurs.
-- (c) Le maitre univers en tant que noyau du Cosmos Infini.
+- (c\) Le maitre univers en tant que noyau du Cosmos Infini.
 
 Un univers nucléaire est associé à l’apparition d’un nouvelle Déité et d’une nouvelle Trinité; Déité et Trinité existentielles en relation avec la création existentielle centrale; Déité et Trinité expérientielles en relation avec le grand univers expérientiel et le maitre univers expérientiel. Un univers nucléaire fonctionne comme un noyau par rapport aux créations cytoplasmiques externes qui en dé pendent.
 

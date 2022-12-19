@@ -29,7 +29,7 @@ Ceci est l’histoire de l’expansion créative et évolutionnaire de la divini
 L’étude est présentée en trois parties principales:
 - [L’Histoire Finie](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/The_Finite_Story)
 - [L’Histoire Absonite](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/The_Absonite_Story)
-- [Le Commencement De La Dernière Histoire](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/The_Beginning_of_the_Last_Story)
+- [Le Commencement De La Dernière Histoire](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Beginning_of_the_Last_Story)
 
 Cette étude commence véritablement quand l’âge de l’éternel passé de Havona cède le pas à un âge ayant une origine dans le temps – le Deuxième Âge -celui dans lequel nous vivons maintenant. Cette étude devra s’achever peu après que le dernier âge du maitre univers se soit achevé dans le temps et ait cédé la place à un âge qui est éternel-futur.
 

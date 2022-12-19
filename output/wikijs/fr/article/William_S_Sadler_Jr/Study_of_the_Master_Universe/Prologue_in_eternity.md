@@ -28,16 +28,16 @@ Le Prologue se présente en trois parties:
 
 * [1er Prologue AVANT LE COMMENCEMENT DES COMMENCEMENTS](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_1)
     - Nous commençons par l'infini
-* [2e Prologue L’ÂGE ZÉRO](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_2#the-zero-age)
-    - [Avant le temps de Havona](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_2#before-the-times-of-havona)
-    - [Une exploration de l’éternité passée](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_2#an-exploration-of-past-eternity)
-    - [Thèse, antithèse et synthèse existentielles](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_2#existential-thesis-antithesis-and-synthesis)
-* [3e Prologue LE PREMIER AGE DE L’UNIVERS](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_3#the-first-universe-age)
-    - [L’aube de l’éternité – le début du Premier Âge](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_3#the-dawn-of-eternity-the-beginning-of-the-first-age)
-    - [Un inventaire des réalités existentielles (éternelles)](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_3#an-inventory-of-existential-eternal-realities)
-    - [La Trinité existentielle](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_3#the-existential-trinity)
-    - [Le fait unique de Havona](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_3#the-uniqueness-of-havona)
-    - [Les Architectes du Maitre univers](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_3#the-architects-of-the-master-universe)
+* [2e Prologue L’ÂGE ZÉRO](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_2#l%C3%A2ge-z%C3%A9ro)
+    - [Avant le temps de Havona](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_2#h-1-avant-les-temps-de-havona)
+    - [Une exploration de l’éternité passée](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_2#h-2-une-exploration-de-l%C3%A9ternit%C3%A9-pass%C3%A9e)
+    - [Thèse, antithèse et synthèse existentielles](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_2#h-3-th%C3%A8se-antith%C3%A8se-et-synth%C3%A8se-existentielles)
+* [3e Prologue LE PREMIER AGE DE L’UNIVERS](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_3#le-premier-age-de-lunivers)
+    - [L’aube de l’éternité – le début du Premier Âge](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_3#h-1-laube-de-l%C3%A9ternit%C3%A9-le-commencement-du-premier-%C3%A2ge)
+    - [Un inventaire des réalités existentielles (éternelles)](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_3#h-2-inventaire-des-realites-existentielles-%C3%A9ternelles)
+    - [La Trinité existentielle](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_3#h-3-la-trinit%C3%A9-existentielle)
+    - [Le fait unique de Havona](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_3#h-4-le-caract%C3%A8re-unique-de-havona)
+    - [Les Architectes du Maitre univers](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_3#h-5-les-architectes-du-maitre-univers)
 
 Puisque nous commençons une exploration de l’éternel passé, autant bien faire les choses et commencer aussi loin que notre imagination peut nous entraîner.
 
@@ -47,7 +47,7 @@ Puisque nous commençons une exploration de l’éternel passé, autant bien fai
   <table>
     <tbody>
       <tr>
-        <td><a href="/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Foreword">Foreword</a></td>
+        <td><a href="/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Foreword">Preface</a></td>
         <td><a href="/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index">Table des Matières</a></td>
         <td><a href="/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_1">1er Prologue — Avant le commencement des commencements</a></td>
       </tr>

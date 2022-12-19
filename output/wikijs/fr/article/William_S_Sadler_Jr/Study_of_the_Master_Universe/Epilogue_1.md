@@ -92,7 +92,7 @@ L'apparition de Dieu l'Absolu montre un autre parallèle avec l'apparition de l'
 Dans le chapitre XII de l'étude, nous observions que la Trinité des Trinités pouvait se former en tant que réalité factuelle, mais ne pouvait achever sa formation parce que l'un des trois membres du Deuxième Niveau manquait -Dieu l'Absolu. Avec l'apparition de cette troisième Déité expérientielle, nous pouvons faire l'inventaire de la Trinité des Trinités:
 - (a) Sur le Premier Niveau, il y a trois Trinités: la Trinité du Paradis, la Trinité Ultime et la Trinité Absolue.
 - (b) Sur le Deuxième Niveau, il y a trois Déités: Dieu le Suprême, Dieu l'Ultime et Dieu l'Absolu (en expression limitée)
-- (c) Sur le Troisième Niveau, il y a quelque chose ou quelqu'un mais nous ne pouvons pas être certains de ce que c'est ou de qui c'est.
+- (c\) Sur le Troisième Niveau, il y a quelque chose ou quelqu'un mais nous ne pouvons pas être certains de ce que c'est ou de qui c'est.
 
 Nous croyons que le Troisième Niveau de la triple Trinité sera occupé par l'Absolu Universel aussi longtemps que Dieu l'Absolu sera limité et incomplet. Et cela veut dire pour toujours ! Dieu l'Absolu sera toujours non-fini, incomplet et limité dans le sens quantitatif. S'il devait compléter sa croissance expérientielle et son développement nous atteindrions l'extérieur de l'infinité et serions au-delà de la fin de l'éternité.
 

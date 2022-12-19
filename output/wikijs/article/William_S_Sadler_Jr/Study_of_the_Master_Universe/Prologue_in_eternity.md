@@ -29,15 +29,15 @@ This Prologue is presented in three parts:
 * [FIRST PROLOGUE – Before the Beginning of Beginnings](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_1)
     - We begin with the Infinite
 * [SECOND PROLOGUE – The Zero Age](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_2#the-zero-age)
-    - [Before the Times of Havona](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_2#before-the-times-of-havona)
-    - [An Exploration of Past Eternity](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_2#an-exploration-of-past-eternity)
-    - [Existential Thesis, Antithesis, and Synthesis](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_2#existential-thesis-antithesis-and-synthesis)
+    - [Before the Times of Havona](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_2#h-1-before-the-times-of-havona)
+    - [An Exploration of Past Eternity](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_2#h-2-an-exploration-of-past-eternity)
+    - [Existential Thesis, Antithesis, and Synthesis](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_2#h-3-existential-thesis-antithesis-and-synthesis)
 * [THIRD PROLOGUE – The First Universe Age](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_3#the-first-universe-age)
-    - [Dawn of Eternity](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_3#the-dawn-of-eternity-the-beginning-of-the-first-age)
-    - [Existential Realities](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_3#an-inventory-of-existential-eternal-realities)
-    - [Existential Trinity](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_3#the-existential-trinity)
-    - [The Uniqueness of Eternal Havona](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_3#the-uniqueness-of-havona)
-    - [Architects of the Master Universe](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_3#the-architects-of-the-master-universe)
+    - [Dawn of Eternity](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_3#h-1-the-dawn-of-eternity-the-beginning-of-the-first-age)
+    - [Existential Realities](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_3#h-2-an-inventory-of-existential-eternal-realities)
+    - [Existential Trinity](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_3#h-3-the-existential-trinity)
+    - [The Uniqueness of Eternal Havona](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_3#h-4-the-uniqueness-of-havona)
+    - [Architects of the Master Universe](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_3#h-5-the-architects-of-the-master-universe)
 
 Since we are starting with an exploration of the eternal past, we might just as well do a good job of it and start as far back as imagination can take us.
 

@@ -92,7 +92,7 @@ The appearance of God the Absolute has another parallel with the appearance of t
 Back in Chapter XII. of the study, we observed that the Trinity of Trinities could form as a factual reality, but could not complete its formation because one of the three members of the Second Level was missing – God the Absolute. With the appearance of this third experiential Deity, we can take inventory of the Trinity of Trinities:
 - (a) On the First Level, there are three Trinities: the Paradise Trinity, the Trinity Ultimate, and the Trinity Absolute.
 - (b) On the Second Level, there are three Deities: God the Supreme, God the Ultimate, and (the limited expression of) God the Abso­lute.
-- (c) On the Third Level, there is something or someone, but we can­not be sure as to just what or who.
+- (c\) On the Third Level, there is something or someone, but we can­not be sure as to just what or who.
 
 We believe the Third Level of the threefold Trinity will be occupied by the Universal Absolute just so long as God the Absolute will always be unfinished, incomplete, and limited – in the quantity-sense. Were he to complete his experiential growth and development we would reach the outside of infinity and would be beyond the end of eternity.
 

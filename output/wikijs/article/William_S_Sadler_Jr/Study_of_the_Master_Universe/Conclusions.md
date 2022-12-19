@@ -61,7 +61,7 @@ We have also seen that all universe ages are not qualitatively alike. The First 
 We have discovered that there seems to be a close relationship between these developments. All universes are not alike; some are nuclear universes, others are cytoplasmic universes. We have identified three successive creations that are nuclear in relation to external domains that are cytoplasmic:
 - (a) The central universe as the nucleus of the superuniverses.
 - (b) The grand universe as the nucleus of the outer universes.
-- (c) The master universe as the nucleus of the Cosmos Infinite.
+- (c\) The master universe as the nucleus of the Cosmos Infinite.
 
 A nuclear universe is associated with the appearance of new Deity and new Trinity; existential Deity and Trinity in relation to the existential central creation, experiential Deity and Trinity in relation to the experiential grand universe and master universe. A nuclear universe functions as a nucleus in relation to the external cytoplasmic creations that are dependent on it.
 

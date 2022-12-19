@@ -29,7 +29,7 @@ This is the story of the creative and the evolutional expansion of Paradise-Havo
 The study is presented in three main parts:
 - [The Finite Story](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/The_Finite_Story)
 - [The Absonite Story](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/The_Absonite_Story)
-- [The Beginning of the Last Story](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/The_Beginning_of_the_Last_Story)
+- [The Beginning of the Last Story](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Beginning_of_the_Last_Story)
 
 This study properly begins when the past-eternal age of Havona gives way to an age that has an origin in time – the Second Age – the one in which we are now living. This study will have to come to an end not long after the last age of the master universe has closed in time and has given way to an age that is future-eternal.
 

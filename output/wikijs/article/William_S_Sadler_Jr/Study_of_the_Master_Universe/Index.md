@@ -15,7 +15,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
     * [First Prologue — Before the Beginning of Beginnings](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_1)
     * [Second Prologue — The Zero Age](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_2)
         1. [Before the Times of Havona](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_2#h-1-before-the-times-of-havona)
-            Source Relationships in Eternity
+            Source relationships in Eternity
         2. [An Exploration of Past Eternity](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Prologue_2#h-2-an-exploration-of-past-eternity)
             Static Deity
             Potential Deity

@@ -88,7 +88,7 @@ Comment Dieu fait-il cela? Il le fait en se séparant de la Personne Absolue, tr
 
 - (a) En se dégageant de la Personne Absolue, Dieu fait que cet être existe en dehors de lui, de manière séparée. Il devient ainsi la cause et la source de la Personne Absolue.
 - (b) Si Dieu est la «cause» et la «source» de quelque chose, et si ce quelque chose est une personne; donc, s’il peut être le Père de la Personne Absolue, alors il peut être le père de n’importe quelle personne et de toutes les personnes et il devient ainsi le «Père Universel».
-- (c) Si Dieu devient le «père» de la Personne Absolue, cela fait de cette Personne Absolue le Fils Originel de Dieu, mais, tout en devenant le Fils de Dieu, il n’en n’est pas moins la Personne Absolue. Il est de coutume de désigner ce Fils Originel comme le Fils «Éternel» parce que tout ceci se passe dans l’éternité.
+- (c\) Si Dieu devient le «père» de la Personne Absolue, cela fait de cette Personne Absolue le Fils Originel de Dieu, mais, tout en devenant le Fils de Dieu, il n’en n’est pas moins la Personne Absolue. Il est de coutume de désigner ce Fils Originel comme le Fils «Éternel» parce que tout ceci se passe dans l’éternité.
 
 Ceci est le commencement de la divine fraternité des Personnes éternelles de la Déité qui sera bientôt complétée par l’apparition de la Troisième Personne l’Esprit Infini.
 
