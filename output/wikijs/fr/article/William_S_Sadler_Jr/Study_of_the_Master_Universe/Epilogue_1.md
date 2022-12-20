@@ -20,7 +20,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
   </table>
 </figure>
 
-Author: **William S. Sadler, Jr.**
+Auteur: **William S. Sadler, Jr.**
 
 Notre étude du maitre univers s'achevait sur une note marquée de frustration. La force irrésistible d'une trinité absolue avait rencontré le fait immuable d'une infinité éternelle. Le résultat est un «pat».
 

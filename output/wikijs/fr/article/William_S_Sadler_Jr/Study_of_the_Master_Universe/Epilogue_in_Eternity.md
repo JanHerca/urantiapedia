@@ -20,7 +20,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
   </table>
 </figure>
 
-Author: **William S. Sadler, Jr.**
+Auteur: **William S. Sadler, Jr.**
 
 Notre étude du maitre univers commençait par un Prologue en Eternité dans lequel nous avons essayé d'examiner certains actes précréatifs de la Déité existentielle qui établirent la scène de l'espace pour la totalité de la suite de l'histoire de la maitresse création: l'expansion toute puissante vers l'extérieur de la créativité et de la divinité du Paradis et la consolidation subséquente des résultats expérientiels de cette expansion sur les niveaux Suprêmes et Ultimes de la réalité.
 

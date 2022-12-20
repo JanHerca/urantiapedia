@@ -20,7 +20,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
   </table>
 </figure>
 
-Author: **William S. Sadler, Jr.**
+Auteur: **William S. Sadler, Jr.**
 
 Cet appendice ne traitera pas de la croissance expérientielle dans les âges post-suprême ; ce sujet est celui de l’[appendice VII: Les Mécanismes de la Croissance Expérientielle](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_7). L’objet du présent appendice est de tenter de réunir ce qui nous est dit avec ce que nous pouvons conjecturer à propos des âges post-suprême . Ce sont les quatre âges des quatre niveaux d’espace extérieurs, les «univers extérieurs». Ils sont les troisième, quatrième, cinquième et sixième âges des univers. Les développements de ces âges impliquent aussi l’univers central et les superunivers, les «univers intérieurs», car ces créations plus anciennes participeront à la croissance du post-suprême avec les niveaux d’espace extérieurs.
 
@@ -104,7 +104,7 @@ Dans le troisième âge et les âges subséquents, le Suprême continuera à fon
 > 
 > - (a) La phase tertiaire de Suprématie concernera «le troisième niveau de manifestation de la Déité».
 > - (b) Le Suprême se développera en tant que souverain universel et sera un super-Tout-Puissant dans les créations de l’espace extérieur.
-> - (c) Il dévoilera un aspect inconnu du mental. L’on croit que le mental de la Suprématie a un potentiel latent de fonctionnement à l’échelle du maitre univers [LU 116:1.5](/fr/The_Urantia_Book/116#p1_5).
+> - (c\) Il dévoilera un aspect inconnu du mental. L’on croit que le mental de la Suprématie a un potentiel latent de fonctionnement à l’échelle du maitre univers [LU 116:1.5](/fr/The_Urantia_Book/116#p1_5).
 > - (ibid) La croissance physique aussi bien que spirituelle semble atteindre une limite définitive sur les mondes ancrés depuis longtemps dans la lumière et la vie, mais le mental semble ne jamais cesser de progresser.
 
 Dans les âges de l’espace extérieur, nous envisageons une possible fonction trine de l’Être Suprême: Il continue d’opérer dans Havona au sens spirituel ; Il continue de fonctionner en tant que souverain tout-puissant du grand univers ; et il a développé une ou plusieurs nouvelles fonctions, qui englobent le maitre univers tout entier. Quelle est cette nouvelle fonction ou quelles sont ces nouvelles fonctions ?
@@ -112,14 +112,14 @@ Dans les âges de l’espace extérieur, nous envisageons une possible fonction 
 Examinons les trois spéculations qui nous sont offertes dans les fascicules:
 - (a) _Le «troisième niveau de manifestation de la Déité»_ Cette affirmation est difficile à interpréter à moins qu’elle ne se réfère à quelque relation avec Dieu l’Absolu. On nous dit que Dieu l’Absolu «…est le troisième niveau d’expansion et d’expression de Déité unifiante». Une telle relation de la part du Suprême semblerait impliquer l’Ultime et suggérerait une collaboration dans la deuxième Trinité expérientielle. (Voir l’[appendice XIX: La deuxième Trinité expérientielle](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_19)). Nous n’avons pas l’impression que la Trinité des Trinités est impliquée, car cette trinité semble être en fonction extérieure au maitre univers. (Néanmoins, voir l’[appendice XXIV: La troisièmeTrinité expérien tielle](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_24).)
 - (b) _Le Suprême en tant que Super-Tout-Puissant._ Ceci suggère une extension de la présente fonction du Suprême comme souverain des superunivers, en tant qu’être de pouvoir. Peutêtre que, d’une certaine façon, le Suprême sera actif dans l’administration des créations de l’espace extérieur. Peutêtre est-ce une des voies par laquelle le Suprême collaborera avec l’Esprit dans l’espace extérieur.
-- (c) _Un potentiel inconnu du mental._ La troisième spéculation qui nous est offerte dans les fascicules concerne l’expression de quelque potentiel latent du mental. En ce qui concerne le Mental Suprême, nous sommes informés de la façon suivante:
+- (c\) _Un potentiel inconnu du mental._ La troisième spéculation qui nous est offerte dans les fascicules concerne l’expression de quelque potentiel latent du mental. En ce qui concerne le Mental Suprême, nous sommes informés de la façon suivante:
   > [LU 115:4.7](/fr/The_Urantia_Book/115#p4_7). Le Mental Suprême est un don de l’Acteur Conjoint et sert à unifier le pouvoir du Tout-Puissant avec la personne-esprit du Suprême.
   > 
   > [LU 116:1.3](/fr/The_Urantia_Book/116#p1_3). Le Mental Suprême est en voie d’actualisation dans le développement du grand univers à travers l’œuvre accomplie en collaboration avec Dieu le Septuple.
   > 
   > [LU 0:3.14](/fr/The_Urantia_Book/0#p3_14). Le Mental Suprême, s’actualisant, converge dans Majeston en tant qu’expérience de l’espace-temps.
 
-Dans l’[appendice XII, §2, y a-t-il un Aspect Mental (à la fonction présente) de Dieu le Septuple ?](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_12#h-2-is-there-a-mind-aspect-of-god-the-sevenfold?y-a-t-il-un-aspect-mental) Nous posons la question à propos d’une possible association septuple qui pourrait culminer dans l’actualisation du mental de la Suprématie.
+Dans l’[appendice XII, §2, y a-t-il un Aspect Mental (à la fonction présente) de Dieu le Septuple ?](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_12#h-2-y-a-t-il-un-aspect-mental-de-dieu-le-sep-tuple) Nous posons la question à propos d’une possible association septuple qui pourrait culminer dans l’actualisation du mental de la Suprématie.
 
 Nous pouvons être sûrs que l’Être Suprême sera tout à fait actif dans les quatre âges des univers de l’espace extérieur. Cette étude se risque à penser qu’il sera actif dans toutes les trois catégories que nous avons considérées: en tant que collaborateur dans le troisième niveau de manifestation de déité, en tant que souverain de pouvoir élargi et en tant qu’expression active d’une sorte de nouveau niveau de fonction du mental ( ou ministère du mental ).
 
@@ -153,7 +153,7 @@ Une discussion complète de la fonction programmée de Dieu le septuple dans l�
 - [Appendice XIII: Évolution des Fils et Esprits des Univers](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_13)
 - [Appendice XIV: Influence en expansion des Maitres Esprits](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_14)
 
-Cette étude suggère que Dieu le Septuple sera intensément actif dans les créations extérieures et qu’il étendra ses possibilités et ses fonctions. On peut imaginer les Fils et les Esprits des Univers comme opérant sur deux ou trois niveaux expérientiels et fonctionnels. De plus, nous pensons que les Maitres Esprits continueront à donner des combinaisons nouvelles de leurs natures septuples uniques à la coloration environnante des segments principaux de ces créations d’espace extérieures. ( [appendice XV, §1-2](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15#h-1-relations-entre-certains-membres) )
+Cette étude suggère que Dieu le Septuple sera intensément actif dans les créations extérieures et qu’il étendra ses possibilités et ses fonctions. On peut imaginer les Fils et les Esprits des Univers comme opérant sur deux ou trois niveaux expérientiels et fonctionnels. De plus, nous pensons que les Maitres Esprits continueront à donner des combinaisons nouvelles de leurs natures septuples uniques à la coloration environnante des segments principaux de ces créations d’espace extérieures. ( [appendice XV, §1-2](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15#h-1-les-relations-de-certains-nombres) )
 
 ## § 6. Finalitaires et autres dans les Créations Extérieures
 
@@ -176,7 +176,7 @@ Et il doit y avoir beaucoup d’autres ordres d’êtres qui trouveront une dest
 _La croissance des finalitaires._ On nous dit [LU 31:3.6](/fr/The_Urantia_Book/31#p3_6) que les finalitaires, qui sont des esprits du sixième stade, doivent encore atteindre la finalité de croissance par trois voies:
 - (a) Par le statut spirituel ultime.
 - (b) Par le service des créatures.
-- (c) Par l’aboutissement de la déité expérientielle.
+- (c\) Par l’aboutissement de la déité expérientielle.
 
 Nous savons que notre expérience de la croissance dans le présent âge de l’univers est reliée au développement des trois premières dimensions de la personnalité (sur les sept que nous possédons ), et que les trois dimensions suivantes ( quatrième, cinquième et sixième ) sont à présent complètement en sommeil, étant réservées pour la croissance absonite [LU 112:1.9](/fr/The_Urantia_Book/112#p1_9). Il est probable que, de très loin, la plus grande partie de notre croissance sera post-suprême, et l’historique complet de l’ascension des mortels au Paradis et du service finalitaire dans le grand univers est, dans un sens large, juste le commencement – une sorte de jardin d’enfants quand on le compare aux niveaux d’éducation et de service plus élevés et plus vastes, qui nous attendent au-delà des niveaux circonscrits du présent âge de l’univers. ( Voir l’[appendice IV, §8-B: Les Finalitaires dans les âges post-suprême](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_4#h-8-b-les-finalitaires-dans-les-âges-post-suprême). )
 
@@ -206,7 +206,7 @@ Ce manque d’expérience finie dans les univers extérieurs cytoplasmiques donn
 
 Une déficience analogue caractérise le présent âge [LU 31:10.12](/fr/The_Urantia_Book/31#p10_12). Les natifs des superunivers – particulièrement les êtres humains – sont complètement dépourvus de cette perfection divine qui est si caractéristique des créatures de Havona et du Paradis. Notre imperfection est un défi pour ces êtres parfaits, êtres qui furent créés dans cette perfection qui est notre but lointain. Notre besoin présent est leur opportunité pour un service valorisant. Et dans ce service ils franchissent une barrière autrement infranchissable à la croissance, barrière qui est inhérente à la perfection créée.
 
-Dans l’[appendice IV, §1](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_4#h-1-relations-et-succession-des-âges-d’univers), (d): l’Expansion de la Destinée dans les âges Successifs, nous observons que chaque nouvel âge permet aux habitants de l’âge précédent de s’élever au-dessus des limites précédentes de croissance. Havona ajoute la croissance évolutionnaire aux limitations de l’éternelle perfection. Dans le présent âge de l’univers, les superunivers sont limités au statut d’ancrage dans la lumière et la vie, mais ils franchiront sans aucun doute cette limite pour atteindre de nouveaux niveaux de destinée dans les âges post-suprême du futur.
+Dans l’[appendice IV, §1](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_4#h-1-relations-et-succession-des-%C3%A2ges-dunivers), (d): l’Expansion de la Destinée dans les âges Successifs, nous observons que chaque nouvel âge permet aux habitants de l’âge précédent de s’élever au-dessus des limites précédentes de croissance. Havona ajoute la croissance évolutionnaire aux limitations de l’éternelle perfection. Dans le présent âge de l’univers, les superunivers sont limités au statut d’ancrage dans la lumière et la vie, mais ils franchiront sans aucun doute cette limite pour atteindre de nouveaux niveaux de destinée dans les âges post-suprême du futur.
 
 <br>
 

@@ -20,7 +20,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
   </table>
 </figure>
 
-Author: **William S. Sadler, Jr.**
+Auteur: **William S. Sadler, Jr.**
 
 Nous avons achevé notre étude du maitre univers. Cela a été un long voyage en concept puisque nous avons considéré en premier l’aube du temps et le commencement du Deuxième Âge de l’Univers. Nous avons retracé le développement de la maitresse création depuis la Première Thèse Créative de la Perfection (Havona par rapport aux superunivers imparfaits) en passant par l’histoire Finie, avec l’émergence de l’Être Suprême et le perfectionnement des superunivers. Nous avons exploré la totalité de l’histoire Absonite – en commençant avec la Seconde Thèse Créative (le grand univers par rapport aux créations de l’espace extérieur) et nous l’avons continué jusqu’à l’émergence finale de l’Ultime et le parachèvement du vaste maitre univers. Nous avons vu par deux fois le parachèvement du cycle de thèse, antithèse et synthèse; nous avons observé le commencement mais non la fin du troisième cycle. Nous avons parcouru un très long chemin et notre propre étude est parvenue à sa conclusion logique.
 

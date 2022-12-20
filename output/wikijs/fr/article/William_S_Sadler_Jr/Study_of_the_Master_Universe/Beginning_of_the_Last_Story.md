@@ -20,7 +20,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
   </table>
 </figure>
 
-Author: **William S. Sadler, Jr.**
+Auteur: **William S. Sadler, Jr.**
 
 Nous pouvons commencer mais nous ne pouvons pas terminer la dernière des trois histoires du maitre univers. La dernière histoire débute avec le maitre univers parachevé, fonctionnant sous la gouverne expérientielle de Dieu l’Ultime, elle essaie de partir de là.
 

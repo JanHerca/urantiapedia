@@ -20,7 +20,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
   </table>
 </figure>
 
-Author: **William S. Sadler, Jr.**
+Auteur: **William S. Sadler, Jr.**
 
 C’est l’histoire de l’évolution des sept superunivers, la plupart des Fascicules concernent cette narration. C’est le récit de la création et de l’évolution dans le temps et l’espace et de la manière dont toutes ces activités trouvent leur destinée dans les superunivers perfectionnés sous la souveraineté de l’Être Suprême.
 

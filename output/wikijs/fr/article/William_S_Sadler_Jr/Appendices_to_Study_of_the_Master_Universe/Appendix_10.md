@@ -20,7 +20,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
   </table>
 </figure>
 
-Author: **William S. Sadler, Jr.**
+Auteur: **William S. Sadler, Jr.**
 
 L'émergence factuelle de la première Trinité expérientielle introduit un facteur nouveau et unique dans la croissance du maitre univers. La Trinité originelle, la Trinité du Paradis, est existentielle. Cette nouvelle trinité, la Trinité Ultime, est expérientielle [LU 0:12.1](/fr/The_Urantia_Book/0#p12_1).
 
@@ -66,7 +66,7 @@ Nous sommes pour la plupart enclins à penser à la Trinité du Paradis d'une ma
 
 En termes humains, une triunité est comme un partenariat — une association; une trinité est comme une société, une entité légale — pas une personne, mais malgré tout une entité. Cette différence peut devenir encore plus claire si nous comparons les fonctions de la Première Triunité avec les fonctions de la Trinité du Paradis:
 
-(c) _La Première Triunité en contraste avec la Trinité du Paradis_
+(c\) _La Première Triunité en contraste avec la Trinité du Paradis_
 
 > [LU 104:4.3](/fr/The_Urantia_Book/104#p4_3). La Première Triunité est définie comme une association du Père, du Fils et de l'Esprit.
 > 
@@ -119,7 +119,7 @@ Ceci différencie clairement une _association personnelle_ de personnes divines 
 Récapitulons encore une fois l'association de la première Trinité expérientielle, la Trinité Ultime, mais avec une légère variante dans l'ordre habituel de leur énonciation:
 - (a) L'Être Suprême
 - (b) Les Maitres Architectes
-- (c) Les Créateurs Suprêmes
+- (c\) Les Créateurs Suprêmes
 
 Nous évaluions précédemment, dans cet appendice, le nombre de personnalités incluses comme membres de cette trinité et trouvions un total de 1 428 040 individus. Mais, effectivement, ni dans cette trinité ni dans aucune autre trinité, les membres ne sont des personnalités. La Trinité Ultime comprend trois membres, et seulement trois membres, et aucun d'eux n'est une personnalité. Les personnalités ne s'unissent pas pour former une trinité — une trinité est une union de déité, non une association de personnalités [LU 106:5.3](/fr/The_Urantia_Book/106#p5_3). Nous devrions peutêtre analyser la composition de la Trinité Ultime d'un peu plus près.
 
@@ -133,7 +133,7 @@ _Le Corps des Maitres Architectes._ Les Architectes sont des superpersonnes: 28 
 
 Nous pouvons peutêtre visualiser ce second membre comme l'unification impersonnelle, l'égrégore de l'ensemble du Corps des Architectes. Si nous avons besoin de concevoir une «voix» pour cette entité représentant un collectif, nous pourrions penser à l'Architecte Senior comme représentant symboliquement le «Président du Conseil d'Administration», donc porte-parole de cette entité de déité que nous pourrions nommer: «Société de l'Union des Maitres Architectes», le second membre de la Trinité Ultime.
 
-Si nous avions quelque difficulté à visualiser le second membre de la Trinité Ultime, nous pouvons prévoir encore plus de difficulté en essayant de nous représenter le troisième membre de cette trinité. Le Corps des Architectes est un groupe d’organisateurs de l'univers qui a toujours existé [LU 31:8.3](/fr/The_Urantia_Book/31#p8_3); le Corps des Créateurs Suprêmes est un groupe évolutionnaire — ses membres ont une origine dans le temps. Le Corps des Créateurs Suprêmes est (pour le moment) un groupe incomplet d'êtres originaires du Paradis; les Fils et Esprits des Univers n'ont pas tous étés mandatés comme organisateurs d’univers locaux [LU 15:2.25](/fr/The_Urantia_Book/15#p2_25) ; [appendice XVII, 3](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_17#h-3-l’-étendue-temporelle-du-deuxième-âge-de-l’univers)).
+Si nous avions quelque difficulté à visualiser le second membre de la Trinité Ultime, nous pouvons prévoir encore plus de difficulté en essayant de nous représenter le troisième membre de cette trinité. Le Corps des Architectes est un groupe d’organisateurs de l'univers qui a toujours existé [LU 31:8.3](/fr/The_Urantia_Book/31#p8_3); le Corps des Créateurs Suprêmes est un groupe évolutionnaire — ses membres ont une origine dans le temps. Le Corps des Créateurs Suprêmes est (pour le moment) un groupe incomplet d'êtres originaires du Paradis; les Fils et Esprits des Univers n'ont pas tous étés mandatés comme organisateurs d’univers locaux [LU 15:2.25](/fr/The_Urantia_Book/15#p2_25) ; [appendice XVII, 3](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_17#h-3-l%C3%A9tendue-temporelle-du-deuxi%C3%A8me-%C3%A2ge-de-lunivers)).
 
 _Le Corps des Créateurs Suprêmes._ Si nous additionnons le nombre des Créateurs Suprêmes et ajoutons les Esprits Créatifs aux Fils Créateurs, nous arrivons à un total de 1 400 028 personnes créatrices. (Il y a une erreur dans la version anglaise qui donne 1 428 040, c’està-dire incluant l’Être Suprême et les Maitres Architectes. Nous avons rectifié.) Le troisième membre de la Trinité Ultime ne peut certainement pas être composé de presque un million et demi de personnes; ce troisième membre est une sorte d'entité de déité singulière et unifiée. Puisque les fascicules nous donnent peu ou pas d'indications concernant l'origine de cette entité de déité, nous devons avoir recours aux ressources de la logique pour essayer d'envisager une façon raisonnable par laquelle une telle entité de déité pourrait être élaborée — une entité de déité qui exprimerait la divinité unifiée du corps entier des Créateurs Suprêmes. Seule la déité est unie en trinité, et c'est seulement par unification de déité que les Créateurs Suprêmes pourraient, en tant que collectif de société, fonctionner comme troisième membre de cette trinité.
 
@@ -180,7 +180,7 @@ On nous dit que l'évolution du Tout-Puissant est au Corps des Créateurs Suprê
 Si notre raisonnement, qui est plutôt long, à propos des membres probables de la Trinité Ultime, est substantiellement correct, alors de tels membres seraient décrits précisément uniquement s'ils étaient désignés comme suit:
 - (a) La Déité de l'Être Suprême
 - (b) La Déité du Corps des Maitres Architectes
-- (c) La Déité du Corps des Créateurs Suprêmes
+- (c\) La Déité du Corps des Créateurs Suprêmes
 
 Dans ce même sens, la Trinité du Paradis n'est désignée qu'approximativement comme l'union du Père, du Fils et de l'Esprit. Une désignation plus précise (mais manifestement plus malcommode) serait: l'Union de la Déité du Père, de la Déité du Fils et de la Déité de l'Esprit.
 
@@ -202,7 +202,7 @@ Quoique la Trinité Ultime ne soit pas complètement réelle, il n'est pas non p
 
 La Trinité Ultime fonctionne certainement dans le présent âge de l’'univers en dépit du statut incomplet de l'Être Suprême et de l'état incomplet du Corps des Créateurs Suprêmes — les Fils et Esprits des Univers ne sont pas tous mandatés et ils n'ont pas non plus tous terminé leur croissance évolutionnaire personnelle en tant que bâtisseurs d'univers.
 
-- (c) _Fonctions futures._
+- (c\) _Fonctions futures._
   > [LU 10:4.12](/fr/The_Urantia_Book/10#p4_12). La Trinité du Paradis coordonne maintenant les réalité s ultimes, mais elle le fait en tant qu'absolu qualifié par elle-même; la première Trinité expérientielle [LU 10:8.2](/fr/The_Urantia_Book/10#p8_2) ; [LU 106:3.5](/fr/The_Urantia_Book/106#p3_5), coordonnera les transcendantaux en tant que transcendantale.
   > 
   > [LU 106:3.2](/fr/The_Urantia_Book/106#p3_2). La Trinité Ultime est destinée à effectuer la suite de l'intégration évolutionnaire du maitre univers.
@@ -218,9 +218,9 @@ Les fonctions de la Trinité Ultime domineront sans doute les activités des âg
 Nous savons que la Trinité Ultime est moins qu'infinie parce qu'elle embrasse des «Déités dérivées» des êtres dérivés du produit de l'action de la Trinité du Paradis [LU 0:12.3](/fr/The_Urantia_Book/0#p12_3). Puisque les buts d'aboutissement de la Trinité Ultime sont aussi moins qu'infinis, cette trinité peut s'unifier complètement [LU 0:12.6, 8](/fr/The_Urantia_Book/0#p12_6). Apparemment, la Trinité Ultime a trois buts expérientiels:
 - (a) La coordination du maitre univers entier [LU 106:4.2](/fr/The_Urantia_Book/106#p4_2)
 - (b) Sa propre unification expérientielle [LU 0:12.8](/fr/The_Urantia_Book/0#p12_8). (Nous ne devrions pas oublier que l'unité de la Déité, dans les créations post-havoniennes, «est un accomplissement») [LU 56:5.4](/fr/The_Urantia_Book/56#p5_4))
-- (c) La personnalisation du pouvoir de l'Ultime [LU 0:12.6](/fr/The_Urantia_Book/0#p12_6)
+- (c\) La personnalisation du pouvoir de l'Ultime [LU 0:12.6](/fr/The_Urantia_Book/0#p12_6)
 
-Nous avançons la théorie que ces buts seront atteints en quatre grands stades, et chacun de ces stades sera associé à l'invasion, l'exploration, le développement et l'ancrage final d'un des niveaux extérieurs de l'espace. Il y en a quatre de ces niveaux extérieurs d’espace, et la conquête de chacun d'eux devrait être suivie d’un progrès correspondant dans la coordination du maitre univers, l'unification de la Trinité Ultime et l'émergence (l'acquisition de pouvoir et de personnalité) de Dieu l'Ultime. Apparemment ces trois buts seront atteints simultanément à la fin du Sixième âge de l’univers, qui marquera le développement final et l'ancrage du niveau quaternaire de l'Espace ainsi que l'émergence finale de Dieu l'Ultime ([appendice XVIII, §1](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_18#h-1-émergence-de-l’ultime)).
+Nous avançons la théorie que ces buts seront atteints en quatre grands stades, et chacun de ces stades sera associé à l'invasion, l'exploration, le développement et l'ancrage final d'un des niveaux extérieurs de l'espace. Il y en a quatre de ces niveaux extérieurs d’espace, et la conquête de chacun d'eux devrait être suivie d’un progrès correspondant dans la coordination du maitre univers, l'unification de la Trinité Ultime et l'émergence (l'acquisition de pouvoir et de personnalité) de Dieu l'Ultime. Apparemment ces trois buts seront atteints simultanément à la fin du Sixième âge de l’univers, qui marquera le développement final et l'ancrage du niveau quaternaire de l'Espace ainsi que l'émergence finale de Dieu l'Ultime ([appendice XVIII, §1](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_18#h-1-%C3%A9mergence-de-lultime)).
 
 Nous savons que les fonctions de trinité englobent toujours les réalité s de déité et que les réalité s de déité cherchent toujours à se réaliser et à se manifester dans la personnalisation [LU 0:12.4](/fr/The_Urantia_Book/0#p12_4) ; nous savons aussi que la Trinité Ultime va devenir complètement unifiée [LU 0:12.4](/fr/The_Urantia_Book/0#p12_4) et qu’un tel parachèvement par unification aura pour résultat la personnalisationpouvoir de Dieu l'Ultime [LU 0:12.6](/fr/The_Urantia_Book/0#p12_6). Comment ceci adviendra-t-il? Nous ne le savons absolument pas. Les créateurs post-havoniens ( les Créateurs Suprêmes) sont impliqués dans ce processus [LU 0:10.12](/fr/The_Urantia_Book/0#p10_12) et Dieu l'Ultime y participe personnellement [LU 0:12.4](/fr/The_Urantia_Book/0#p12_4). Mais les processus réels impliqués dans la personnalisation-pouvoir de l'Ultime ne sont pas décrits dans les fascicules (Néanmoins, voyez l'[appendice XXII, §7-9](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_22#h-7-le-niveau-absonite-le-statut-pré-suprême)).
 

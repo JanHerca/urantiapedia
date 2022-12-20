@@ -20,13 +20,13 @@ dateCreated: 2022-10-08T14:02:03.086Z
   </table>
 </figure>
 
-Author: **William S. Sadler, Jr.**
+Auteur: **William S. Sadler, Jr.**
 
 On nous dit que tout l’espace vient du Paradis [LU 11:7.4](/fr/The_Urantia_Book/11#p7_4), qu'il existe deux sortes d’espace et qu’elles sont séparées l’une de l’autre par quelque chose appelé "espace médian".
 
 On peut le considérer comme du "non-espace". Ces deux sortes d’espace sont entièrement entourées, enfermées et encapsulées par ce "non-espace" [LU 11:7.1](/fr/The_Urantia_Book/11#p7_1). Au cours de notre étude du maitre univers, nous ne nous intéresserons pas du tout à l'une des deux sortes d’espace. Cette sorte d’espace qui ne nous intéresse pas s'appelle "l'espace non pénétré". Il s'étend au-dessus et au-dessous de l'Ile du Paradis et n'est pénétré par rien (il ne contient rien) que nous connaissions. Pour autant que nous le sachions, c'est de l'espace vide [LU 11:6.3](/fr/The_Urantia_Book/11#p6_3).
 
-L'espace qui, dans cette étude, nous intéresse est appelé "espace pénétré". Cette sorte d’espace s'étend horizontalement depuis le Paradis vers l'extérieur [LU 11:7.4](/fr/The_Urantia_Book/11#p7_4). La totalité du maitre univers vient à l'existence dans cette sorte d’espace. Cet espace est pénétré par la puissance d’espace que le Paradis a effusé et que l'Absolu Non Qualifié a reçu et dont toute création matérielle dérive ([appendice II,§2: effusion de la puissance d’espace par le Paradis](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_2#h-2-l’effusion-paradisiaque-de-la-puissance-d-’espace)). A partir de là, nous ignorerons complètement «l'espace non pénétré». Notre étude du maitre univers ne concerne que l'espace pénétré. L'utilisation du mot "espace" voudra dire "espace pénétré".
+L'espace qui, dans cette étude, nous intéresse est appelé "espace pénétré". Cette sorte d’espace s'étend horizontalement depuis le Paradis vers l'extérieur [LU 11:7.4](/fr/The_Urantia_Book/11#p7_4). La totalité du maitre univers vient à l'existence dans cette sorte d’espace. Cet espace est pénétré par la puissance d’espace que le Paradis a effusé et que l'Absolu Non Qualifié a reçu et dont toute création matérielle dérive ([appendice II,§2: effusion de la puissance d’espace par le Paradis](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_2#h-2-leffusion-paradisiaque-de-la-puissance-despace)). A partir de là, nous ignorerons complètement «l'espace non pénétré». Notre étude du maitre univers ne concerne que l'espace pénétré. L'utilisation du mot "espace" voudra dire "espace pénétré".
 
 ## § 1. Définition de l’Espace
 
@@ -50,7 +50,7 @@ Que disent les fascicules au sujet de l’espace ? Quelles en sont les différen
 
 L'espace est donc une condition de vide apparent dans la réalité ; une condition propice au mouvement et qui exige le mouvement. Il contraste avec le nonespace (l'espace médian), qui, lui, résiste au mouvement. L'espace a des limites dans toutes les directions ; ces limites sont atteintes partout où l'espace cède la place à l'espace médian.
 
-(Pour de plus amples discussions sur l'origine et sur la nature de l'espace, voir l'[appendice II,§1: effusion de l'espace par le Paradis](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_2#h-1-l’effusion-spatiale-du-paradis). Concernant le problème des limites de l’espace relativement à la possible expansion illimitée de l'univers, voir l’[appendice XXI, §3: Le problème de l'Espace et de l'Infinité](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_21#h-3-les-problèmes-d’espace-et-d’infinité).)
+(Pour de plus amples discussions sur l'origine et sur la nature de l'espace, voir l'[appendice II,§1: effusion de l'espace par le Paradis](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_2#h-1-leffusion-spatiale-du-paradis). Concernant le problème des limites de l’espace relativement à la possible expansion illimitée de l'univers, voir l’[appendice XXI, §3: Le problème de l'Espace et de l'Infinité](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_21#h-3-les-probl%C3%A8mes-despace-et-dinfinit%C3%A9).)
 
 ## § 2. Les Frontières de L'espace et les Six Niveaux d’Espace
 
@@ -77,7 +77,7 @@ _Les frontières de l'espace._ L’espace a des frontières dans toutes les dire
     > [LU 11:7.1](/fr/The_Urantia_Book/11#p7_1). L'espace ne touche pas réellement le Paradis ; les zones d’espace médian s’interposent entre les bords intérieurs de l’espace et l’Ile Centrale.
 - (b) _Les limites supérieures et inférieures de l'espace._
     > [LU 11:7.7](/fr/The_Urantia_Book/11#p7_7). L'espace est limité au-dessus et au-dessous par les zones d’espace médian.
-- (c) _Les frontières internes des niveaux d’espace._
+- (c\) _Les frontières internes des niveaux d’espace._
     > [LU 11:7.8](/fr/The_Urantia_Book/11#p7_8). Chaque niveau d’espace est séparé horizontalement du niveau d’espace adjacent par une zone semi-tranquille. Manifestement, il n’existe aucune matérialisation de masse dans ces zones [LU 12:1.14](/fr/The_Urantia_Book/12#p1_14) ; elles sont décrites comme étant «libres de poussière stellaire et de brouillard cosmique».
     > 
     > [LU 14:1.8](/fr/The_Urantia_Book/14#p1_8). Une zone semi-tranquille sépare l'univers central des superunivers. Ses dimensions ne nous sont pas données.

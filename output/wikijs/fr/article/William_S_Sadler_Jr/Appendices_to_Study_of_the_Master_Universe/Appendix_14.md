@@ -20,7 +20,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
   </table>
 </figure>
 
-Author: **William S. Sadler, Jr.**
+Auteur: **William S. Sadler, Jr.**
 
 Les Sept Maitres Esprits semblent être concernés par pratiquement tout ce qui se trouve sous le niveau des valeurs absolues et existentielles. La personnalisation de l’Esprit Infini complète la déité existentielle et elle est suivie par la personnalisation des Maitres Esprits – l’expression première de la déité expérientielle [LU 10:2.8](/fr/The_Urantia_Book/10#p2_8). Les sept Maitres Esprits représentent «le premier acte de création de Déité» de la Troisième Personne de la Déité [LU 9:8.2](/fr/The_Urantia_Book/9#p8_2) et, collectivement, ils englobent toutes les fonctions du Suprême, de l’Ultime et du Suprême-Ultime dans le maitre univers [LU 16:1.3](/fr/The_Urantia_Book/16#p1_3). Sur tous les niveaux subabsolus, ils représentent collectivement l’Esprit Infini [LU 16:2.5)](/fr/The_Urantia_Book/16#p2_5), les Déités du Paradis [LU 16:1.4](/fr/The_Urantia_Book/16#p1_4) et même la Trinité du Paradis [LU 16:1.3](/fr/The_Urantia_Book/16#p1_3).
 
@@ -82,7 +82,7 @@ Nous pensons que chaque Maitre Esprit dominera les tendances de l’environnemen
 
 ## § 5. Les Maitres Esprits / Les Trios Créatifs dans le Niveau d’Espace Primaire
 
-Nous avons supposé que les 700 000 Fils et Esprits des Univers qui ont fonctionné comme organisateurs et perfecteurs des univers locaux du présent âge trinitiseront leurs égaux créateurs et seront affectés au niveau d’espace primaire comme Trios Créatifs FilsEsprit. Nous avons noté, de plus, qu’il y aura sept ordres de base de ces Trios Créatifs — chaque ordre comprenant 100 000 Trios – parce qu'il y a sept types de base d’Esprits Créatifs, suivant les natures des Sept Maitres Esprits. (Voir [appendice XIII, §3: Trios Créatifs Fils-Esprit](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_13#h-3-trios-créatifs-fils-esprit).)
+Nous avons supposé que les 700 000 Fils et Esprits des Univers qui ont fonctionné comme organisateurs et perfecteurs des univers locaux du présent âge trinitiseront leurs égaux créateurs et seront affectés au niveau d’espace primaire comme Trios Créatifs FilsEsprit. Nous avons noté, de plus, qu’il y aura sept ordres de base de ces Trios Créatifs — chaque ordre comprenant 100 000 Trios – parce qu'il y a sept types de base d’Esprits Créatifs, suivant les natures des Sept Maitres Esprits. (Voir [appendice XIII, §3: Trios Créatifs Fils-Esprit](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_13#h-3-les-trios-cr%C3%A9atifs-fils-esprit).)
 
 Nous sommes maintenant en mesure de poser une très intéressante question: Comment les Trios Fils-Esprit seront-ils affectés par rapport aux sphères d’influence des Maitres Esprits ? Si nous ne tenons pas compte d’une affectation laissée au hasard, il n’y aura que deux façons possibles dans lesquelles ces Trios Créatifs pourraient être affectés:
 - _Affectation homogène._ Il y a 100 000 Trios Créatifs du premier Ordre (semblable au Père). Ils sont, en nature, comme le premier Maitre Esprit. Tous viennent d’un précédent service dans le superunivers n°1. Or, si tous ces Trios du premier Ordre étaient affectés aux domaines du premier Maitre Esprit, ce serait une affectation homogène. Une telle affectation servirait à intensifier l’influence environnante du premier Maitre Esprit dans ses domaines d’espace extérieurs. De même, les six autres types de Trios seraient affectés au Maitre Esprit à la nature duquel ils sont apparentés.
@@ -100,7 +100,7 @@ Existe-t-il une manière de vérifier nos spéculations à ce niveau ? Nous avon
 
 Si cette ligne de raisonnement est valable, les transactions ayant lieu pendant le Quatrième âge de l’univers, dans le deuxième niveau d’espace, produiraient 7 fois 49 phases d’expression de divinité. Et 7 fois 49 égale 343. Il y a 3 430 Maitres Architectes affectés au niveau d’espace tertiaire ; cela représente 343 fois 10.
 
-Si cela continue, le niveau d’espace tertiaire projetterait dans le niveau quaternaire une diversification de divinité de 7 fois 343 , soit 2 401 diversifications. Les Architectes affectés au niveau d’espace quaternaire se chiffrent à 24 010 ; cela représente 2401 fois 10. La coïncidence de ces nombres ne valide pas cette ligne de raisonnement, mais elle indique que ce n’est pas sans mérite logique. ( En ce qui concerne les références à propos du nombre des Architectes, voir l’[appendice XV , §2](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15#h-2-le-nombre-des-architectes).)
+Si cela continue, le niveau d’espace tertiaire projetterait dans le niveau quaternaire une diversification de divinité de 7 fois 343 , soit 2 401 diversifications. Les Architectes affectés au niveau d’espace quaternaire se chiffrent à 24 010 ; cela représente 2401 fois 10. La coïncidence de ces nombres ne valide pas cette ligne de raisonnement, mais elle indique que ce n’est pas sans mérite logique. ( En ce qui concerne les références à propos du nombre des Architectes, voir l’[appendice XV , §2](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15#h-2-le-nombre-des-maitres-architectes).)
 
 ## § 7. Note: Concernant Les Conciliateurs Universels
 

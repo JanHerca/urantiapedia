@@ -20,7 +20,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
   </table>
 </figure>
 
-Author: **William S. Sadler, Jr.**
+Auteur: **William S. Sadler, Jr.**
 
 
 Les fascicules donnent juste assez d’informations concernant la dimension physique de la création pour nous permettre de faire quelques calculs raisonnables concernant la dimension du maitre univers . Les calculs faits dans cet appendice sont basés sur deux groupes de facteurs: (1) Les informations concernant les distances - les dimensions spatiales ; (2) Les informations concernant les créations physiques - les dimensions massiques.

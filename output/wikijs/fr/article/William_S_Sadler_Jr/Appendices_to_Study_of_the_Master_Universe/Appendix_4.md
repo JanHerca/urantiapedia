@@ -20,7 +20,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
   </table>
 </figure>
 
-Author: **William S. Sadler, Jr.**
+Auteur: **William S. Sadler, Jr.**
 
 Les fascicules nous disent que le temps et l’espace s’associent pour former un mécanisme du maitre univers ( [LU 118:9.1](/fr/The_Urantia_Book/118#p9_1)) . Les principales divisions spatiales de la maitresse création sont les six niveaux d’espace ([appendice III](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_3)). Les principales divisions temporelles du maitre univers sont les six âges d’univers: l’âge de Havona, l’âge des superunivers et les quatre âges des niveaux d’espace extérieurs [LU 15:3.18](/fr/The_Urantia_Book/15#p3_18). Nous vivons, présentement, dans le deuxième âge de l’univers, l’âge des superunivers.
 
@@ -39,11 +39,11 @@ On peut concevoir un âge postérieur au sixième âge d'univers , mais une tell
 Notre étude des antécédents du maitre univers ([appendice I](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_1)) nous a ramenés aussi loin en arrière que nous le pouvions, c’està-dire dans l'éternité passé jusque dans l'hypothétique âge Zéro. Un tel âge n' a jamais existé. Il n' est pas une réalité factuelle, bien que ce soit un concept tout à fait valable. En ce qui a trait à cette époque hypothétique, les fascicules en parlent comme de "l'aurore de l'éternité" ( [LU 31:9.3](/fr/The_Urantia_Book/31#p9_3). Elle forme un point de départ conceptuel permettant de considérer les commencements de l'histoire cosmique. Tel que nous comprenons l’usage du terme "aurore de l'éternité" , cela désigne le commencement hypothétique d’un âge d’univers qui n' avait pas de commencement — l’âge de Havona.
 
 - (a) _Le premier âge de l’univers._ C'est l’âge de Havona. Tout comme l'univers central, le premier âge est dans l’éternel passé ; il n' a pas de commencement dans le temps. Sous d’autres aspects, cet âge est unique ; il est présuprême et pré-ultime, puisque préexpérientiel [LU 0:9.5](/fr/The_Urantia_Book/0#p9_5). Étant préexpérientiel, le premier âge est totalement existentiel [LU 0:7.2](/fr/The_Urantia_Book/0#p7_2). C'est le seul âge de cette sorte.
-  Il semblerait que le premier âge de l’univers soit précréatif et préévolutionnaire. Par exemple: On parle des natifs de Havona comme de "la progéniture de la Trinité du Paradis". Mais, dans le même paragraphe, ils sont désignés comme des êtres qui ne furent jamais créés. [LU 14:4.10](/fr/The_Urantia_Book/14#p4_10) Puisque les affaires du premier âge de Havona étaient entièrement existentielles, elles devaient alors être préévolutionnaires. (Voir aussi [appendice I, §1: Le premier âge de l'univers](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_1#h-1-le-premier-âge-d’univers) ; [appendice VI, §3: Les paradoxes dans les statuts de Havona](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6#h-3-paradoxes-dans-le-statut-de-havona) et [§4: Le mécanisme existentiel.](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6#h-4-le-mécanisme-existentiel))
+  Il semblerait que le premier âge de l’univers soit précréatif et préévolutionnaire. Par exemple: On parle des natifs de Havona comme de "la progéniture de la Trinité du Paradis". Mais, dans le même paragraphe, ils sont désignés comme des êtres qui ne furent jamais créés. [LU 14:4.10](/fr/The_Urantia_Book/14#p4_10) Puisque les affaires du premier âge de Havona étaient entièrement existentielles, elles devaient alors être préévolutionnaires. (Voir aussi [appendice I, §1: Le premier âge de l'univers](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_1#h-1-le-premier-%C3%A2ge-de-lunivers) ; [appendice VI, §3: Les paradoxes dans les statuts de Havona](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6#h-3-paradoxes-dans-le-statut-de-havona) et [§4: Le mécanisme existentiel.](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6#h-4-le-mécanisme-existentiel))
   Le premier âge de l’univers n'a pas eu de commencement, mais il eut une fin. Il s'acheva quand l'âge présent débuta. C'était peutêtre à l'époque de la création des Anciens des Jours [LU 18:3.4](/fr/The_Urantia_Book/18#p3_4) ou bien à celle du mandat de la Trinité donnant instruction d'organiser les sept superunivers [LU 19:7.1](/fr/The_Urantia_Book/19#p7_1).
 - (b) _Les âges post-havoniens._ Ce terme est souvent utilisé pour désigner les cinq âges qui suivent l’âge de Havona. Il est utilisé parce que ces cinq âges ont beaucoup de choses en commun. Ils ont tous les cinq un commencement et une fin dans le temps ; seul le premier âge est de l’éternel passé.
   Tous les âges post-havoniens sont expérientiels. La déité expérientielle s'actualise dans les époques post-havoniennes du maitre univers [LU 0:7.1](/fr/The_Urantia_Book/0#p7_1). Ces âges paraissent être caractérisés par une procession à double sens d’ascendeurs et de descendeurs. Dans le présent âge de l'univers, les Créateurs Suprêmes et leurs associés descendent du Paradis vers les créations de l’espace-temps et les créatures évolutionnaires font l’ascension depuis ces mêmes créations vers le Paradis [LU 115:6.5](/fr/The_Urantia_Book/115#p6_5). Dans l’âge suivant , les finalitaires seront associés à d’autres pour aller servir dans l'espace extérieur [LU 31:10.11](/fr/The_Urantia_Book/31#p10_11) et l’on peut s' attendre que les habitants des espaces extérieurs fassent l’ascension du Paradis en passant par les superunivers devenus parfaits [LU 56:7.9](/fr/The_Urantia_Book/56#p7_9).
-- (c) _Le deuxième âge de l’univers._ C'est le présent âge, l’âge des superunivers évolutionnaires. Cet âge est aussi unique – c'est l’âge de la croissance évolutionnaire de l’Être Suprême. Lorsqu'il aura terminé sa croissance, cet âge s'achèvera et l’occasion de participer à cette expérience extraordinaire s'arrêtera pour toujours [LU 31:10.12](/fr/The_Urantia_Book/31#p10_12). Dans le deuxième âge, on peut faire des expériences finies et croitre par un processus évolutionnaire ; dans les âges postérieurs, on ne pourra plus prendre part à ces aventures [LU 31:10.11](/fr/The_Urantia_Book/31#p10_11).
+- (c\) _Le deuxième âge de l’univers._ C'est le présent âge, l’âge des superunivers évolutionnaires. Cet âge est aussi unique – c'est l’âge de la croissance évolutionnaire de l’Être Suprême. Lorsqu'il aura terminé sa croissance, cet âge s'achèvera et l’occasion de participer à cette expérience extraordinaire s'arrêtera pour toujours [LU 31:10.12](/fr/The_Urantia_Book/31#p10_12). Dans le deuxième âge, on peut faire des expériences finies et croitre par un processus évolutionnaire ; dans les âges postérieurs, on ne pourra plus prendre part à ces aventures [LU 31:10.11](/fr/The_Urantia_Book/31#p10_11).
 - (d) _L'expansion de la destinée._ Les âges successifs voient une expansion de la destinée ; ils fournissent les techniques permettant de surmonter les précédentes limites à la croissance. Par exemple: le premier âge de Havona est un univers parfait ; un univers "limité dans sa perfection". Lors du deuxième âge, l’âge présent, la perfection de Havona s'étend vers l’extérieur, dans les univers imparfaits, et elle atteint ainsi une nouvelle destinée expérientielle.
 
 ## § 2. La Déité Expérientielle au cours des âges successifs
@@ -132,7 +132,7 @@ _L’Être Suprême_
 > 
 > [LU 0:2.18](/fr/The_Urantia_Book/0#p2_18). (b) Le Suprême étendra son influence comme souverain d’univers et deviendra super-tout-puissant dans les créations de l'espace extérieur.
 > 
-> [LU 116:1.5](/fr/The_Urantia_Book/116#p1_5). (c) Il donnera expression à quelque aspect inconnu du mental. 0n pense que le mental de la Suprématie possède un potentiel latent pour fonctionner au niveau du maitre univers.
+> [LU 116:1.5](/fr/The_Urantia_Book/116#p1_5). (c\) Il donnera expression à quelque aspect inconnu du mental. 0n pense que le mental de la Suprématie possède un potentiel latent pour fonctionner au niveau du maitre univers.
 
 _La première Trinité expérientielle_
 
@@ -244,7 +244,7 @@ Déduction: Ils iront tous servir ensemble dans l'espace extérieur.
 
 Pour une étude aisée des relations de Havona avec les âges des univers, nous la diviserons en quatre sections.
 
-- §4-A. Havona au cours du premier âge (voir aussi [appendice I, §1](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_1))
+- §4-A. Havona au cours du premier âge (voir aussi [appendice I, §1](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_1#h-1-le-premier-%C3%A2ge-de-lunivers))
 - §4-B. Havona au cours du deuxième âge
 - §4-C. Havona au cours des âges post-suprême
 - §4-D. Havona au cours de l’âge post-ultime
@@ -354,7 +354,7 @@ Il serait peutêtre utile d'analyser la séquence des évènements qui marquère
 
 Déduction: Des activités d'énergies avaient lieu sur les niveaux d’espace du superunivers bien avant l'organisation des sept superunivers.
 
-- (c) _«Les temps proches de l’éternité» et «de l’aurore des temps»_
+- (c\) _«Les temps proches de l’éternité» et «de l’aurore des temps»_
 
   > [LU 23:1.1](/fr/The_Urantia_Book/23#p1_1). Après la création des Esprits des Circuits dans Havona, l'Acteur Conjoint créa les Messagers Solitaires: Ils existent donc depuis «_des temps proches de l ’éternité_». Ils sont les premiers êtres, créés par l'Esprit Infini, à être «conscients du temps...à être personnalisés dans le temps et spiritualisés dans l’espace».
   > 
@@ -535,7 +535,7 @@ Spéculation: Ces deux transactions sont liées d'une certaine manière.
 > [LU 112:7.1](/fr/The_Urantia_Book/112#p7_1). La fusion avec l'Ajusteur de Pensée ajoute:
 > - (a) une fixation de la qualité de divinité ;
 > - (b) la mémoire et l'expérience de l'éternité passée ;
-> - (c) l’immortalité ;
+> - (c\) l’immortalité ;
 > - (d) une phase d’absoluité potentielle qualifiée.
 > 
 > [LU 107:4.2](/fr/The_Urantia_Book/107#p4_2). Les Ajusteurs sont limités en quantité de divinité, mais non en absoluité de qualité de divinité.

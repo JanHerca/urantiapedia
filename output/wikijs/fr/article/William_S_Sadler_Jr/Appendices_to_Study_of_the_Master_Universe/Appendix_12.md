@@ -20,9 +20,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
   </table>
 </figure>
 
-Author: **William S. Sadler, Jr.**
+Auteur: **William S. Sadler, Jr.**
 
-Dieu le Septuple commença a fonctionner quand les sept superunivers furent organisés. Cette fonction «va probablement s’étendre» avec l’ouverture des niveaux de l’espace extérieur et l’inauguration de la quête absonite de la déité [LU 0:8.12](/fr/The_Urantia_Book/0#p8_12). Quelle signification pourrions-nous attacher à la phrase: «va probablement s’étendre» ? Certainement que ceci doit signifier une expansion fonctionnelle à partir du grand univers dans les créations d’espace extérieures. C’est une expansion quantitative. Cela signifie-t-il aussi une expansion qualitative ? Si les sept niveaux de Dieu le Septuple fournissent maintenant l’approche finie de la déité, des niveaux additionnels seront-ils requis pour une approche absonite ?
+Dieu le Septuple commença a fonctionner quand les sept superunivers furent organisés. Cette fonction «va probablement s’étendre» avec l’ouverture des niveaux de l’espace extérieur et l’inauguration de la quête absonite de la déité [LU 0:8.12](/fr/The_Urantia_Book/0#p8_12). Quelle signification pourrions-nous attacher à la phrase: «va probablement s’étendre» ? Certainement que ceci doit signifier une expansion fonctionnelle à partir du grand univers dans les créations d’espace extérieures. C’est une expansion quantitative. Cela signifie-t-il aussi une expansion qualitative ? Si les sept niveaux de Dieu le Septuple fournissent maintenant l’approche finie de la déité, des niveaux additionnels seront-ils requis pour une approche absonite?
 
 ## § 1. Présente constitution de Dieu Le Sep Tuple
 

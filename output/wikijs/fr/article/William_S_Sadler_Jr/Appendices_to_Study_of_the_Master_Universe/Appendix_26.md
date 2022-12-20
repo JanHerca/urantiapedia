@@ -20,7 +20,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
   </table>
 </figure>
 
-Author: **William S. Sadler, Jr.**
+Auteur: **William S. Sadler, Jr.**
 
 À notre avis, l’association de Déité-duelle du Suprême-Ultime constitue un pont fonctionnel reliant le maitre univers (en tant que noyau) au cosmos infini (en tant que cytoplasme). Le Suprême est le souverain du cœur des univers, l’Ultime est le coordinateur du maitre univers, le Suprême-Ultime constitue le zénith de la déité expérientielle dans le maitre univers et il fonctionne probablement comme une «…projection des expérientiels sur un champ d’expression créative dépassant le maitre univers» [LU 106:0.7](/fr/The_Urantia_Book/106#p0_7). Étant une telle projection, le Suprême-Ultime doit être coabsolu en fonction. Nous pensons aussi que cette projection dans le cosmos infini peut être réfléchie sur le maitre univers à partir de ces royaumes périphériques.
 
@@ -33,7 +33,7 @@ Lorsque le Père s’unit avec le Fils (dans la trinitisation de l’Esprit), il
 Le Suprême-Ultime n’est pas une personne. Il semble être:
 - (a) _Un partenariat de Déité-duelle apparaissant à un moment donné._ En tant que partenariat, il diffère de toutes les autres associations de Déité-duelle, sauf celle du partenariat Père-Fils. Ce sont les deux seules associations produites par l’acte de trinitisation de déité.
 - (b) _Un niveau de fonction._ Le partenariat Suprême-Ultime est une association de Déité-duelle qui se factualisera dans le très lointain futur. Le niveau fonctionnel du Suprême-Ultime est une réalité présente et il a probablement existé depuis «l’aube des temps» au commencement du présent âge de l’univers.
-- (c) _Une limite expérientielle._ Le niveau Suprême-Ultime est probablement une sorte de limite en ce qui concerne la réalité expérientielle. Il représente probablement la plus grande extension des expérientiels en direction du niveau absolu. Au-delà du niveau de fonction Suprême-Ultime, les expérientiels sembleraient s’associer aux existentiels – comme dans Dieu l’Absolu, qui est désigné comme déité existentielle-expérientielle.
+- (c\) _Une limite expérientielle._ Le niveau Suprême-Ultime est probablement une sorte de limite en ce qui concerne la réalité expérientielle. Il représente probablement la plus grande extension des expérientiels en direction du niveau absolu. Au-delà du niveau de fonction Suprême-Ultime, les expérientiels sembleraient s’associer aux existentiels – comme dans Dieu l’Absolu, qui est désigné comme déité existentielle-expérientielle.
 
 Il semble raisonnable d’attacher différentes connotations aux désignations «Suprême-Ultime» et «suprême-ultime». La première semblerait être utilisée comme nom, la seconde comme adjectif.
 
@@ -111,7 +111,7 @@ Mais cette association de Déité-duelle semble aussi avoir une portée qui s’
 
 Nous croyons que l’association de Déité-duelle du Suprême-Ultime se formera à un moment donné à la fin du Sixième âge de l’univers . Nous pensons que les fascicules offrent une ample évidence de la fonction de cette Déitéduelle à travers le maitre univers parachevé. Nous pensons que la Déité-duelle fonctionnera aussi dans le cosmos infini et cela constituera le lien initial entre la Maitresse Création nucléaire et l’univers périphérique cytoplasmique de l’infinité. De plus, nous croyons que le Suprême-Ultime sera le premier des partenariats de Déité-duelle à être actif dans le cosmos infini, un peu comme le partenariat Père-Fils a pris l’initiative dans la production de l’univers originel, la création centrale.
 
-On nous dit que les Ajusteurs Personnalisés sont destinés au ministère dans les royaumes «…de l’Ultime, du Suprême-Ultime et même sur les niveaux de l’Ultime-Absolu» [LU 109:7.5](/fr/The_Urantia_Book/109#p7_5). Là, nous rencontrons quelque chose qui se trouve, d’une façon inattendue, au-delà du Suprême-Ultime. L’Ultime-Absolu est-il une nouvelle association de Déité-duelle qui se développera quelque part dans les régions très éloignées du cosmos infini ? ([appendice V, §6](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_5#h-6-la-déité-duelle-dans-l’âge-post-ultime).)
+On nous dit que les Ajusteurs Personnalisés sont destinés au ministère dans les royaumes «…de l’Ultime, du Suprême-Ultime et même sur les niveaux de l’Ultime-Absolu» [LU 109:7.5](/fr/The_Urantia_Book/109#p7_5). Là, nous rencontrons quelque chose qui se trouve, d’une façon inattendue, au-delà du Suprême-Ultime. L’Ultime-Absolu est-il une nouvelle association de Déité-duelle qui se développera quelque part dans les régions très éloignées du cosmos infini ? ([appendice V, §6](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_5#h-6-la-d%C3%A9it%C3%A9-duelle-dans-l%C3%A2ge-post-ultime).)
 
 <br>
 

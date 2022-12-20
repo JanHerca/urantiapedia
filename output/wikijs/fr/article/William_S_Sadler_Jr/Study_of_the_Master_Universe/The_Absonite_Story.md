@@ -20,7 +20,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
   </table>
 </figure>
 
-Author: **William S. Sadler, Jr.**
+Auteur: **William S. Sadler, Jr.**
 
 Ceci est l'histoire de l'évolution des univers de l'espace extérieur. C'est aussi l’histoire de la croissance continue du grand univers et de l'unification à venir de cet univers avec les créations de l'espace extérieur sous la souveraineté de Dieu l'Ultime.
 
