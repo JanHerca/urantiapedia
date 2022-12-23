@@ -38,7 +38,7 @@ dateCreated: 2022-11-28T14:02:03.086Z
 
 > Personality is that cosmic endowment, that phase of universal reality, which can coexist with unlimited change and at the same time retain its identity in the very presence of all such changes, and forever afterward. [UB 130:4.6](/en/The_Urantia_Book/130#p4_6)
 
-> Personality is unique, absolutely unique: It is unique in time and space; it is unique in eternity and on Paradise; it is unique when bestowed--there are no duplicates; it is unique during every moment of existence; it is unique in relation to God--he is no respecter of persons, but neither does he add them together, for they are nonaddable--they are associable but nontotalable. [UB 112:0.12](/en/The_Urantia_Book/112#p0_12)
+> Personality is unique, absolutely unique: It is unique in time and space; it is unique in eternity and on Paradise; it is unique when bestowed—there are no duplicates; it is unique during every moment of existence; it is unique in relation to God—he is no respecter of persons, but neither does he add them together, for they are nonaddable—they are associable but nontotalable. [UB 112:0.12](/en/The_Urantia_Book/112#p0_12)
 
 > Personality is uniquely conscious of time, and this is something other than the time perception of mind or spirit. [UB 112:0.16](/en/The_Urantia_Book/112#p0_16)
 
@@ -78,7 +78,7 @@ dateCreated: 2022-11-28T14:02:03.086Z
 
 > In God the Father freewill performances are not ruled by power, nor are they guided by intellect alone; the divine personality is defined as consisting in spirit and manifesting himself to the universes as love. Therefore, in all his personal relations with the creature personalities of the universes, the First Source and Center is always and consistently a loving Father. God is a Father in the highest sense of the term. He is eternally motivated by the perfect idealism of divine love, and that tender nature finds its strongest expression and greatest satisfaction in loving and being loved. [UB 4:4.6](/en/The_Urantia_Book/4#p4_6)
 
-> Pure energy is the ancestor of all relative, nonspirit functional realities, while pure spirit is the potential of the divine and directive overcontrol of all basic energy systems. And these realities, so diverse as manifested throughout space and as observed in the motions of time, are both centered in the person of the Paradise Father. In him they are one--must be unified--because God is one. The Father's personality is absolutely unified. [UB 56:1.4](/en/The_Urantia_Book/56#p1_4)
+> Pure energy is the ancestor of all relative, nonspirit functional realities, while pure spirit is the potential of the divine and directive overcontrol of all basic energy systems. And these realities, so diverse as manifested throughout space and as observed in the motions of time, are both centered in the person of the Paradise Father. In him they are one—must be unified—because God is one. The Father's personality is absolutely unified. [UB 56:1.4](/en/The_Urantia_Book/56#p1_4)
 
 **_Personality Extinction Through Iniquity_**
 

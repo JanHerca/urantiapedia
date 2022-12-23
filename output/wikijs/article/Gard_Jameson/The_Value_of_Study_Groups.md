@@ -28,7 +28,7 @@ _The Urantia Book_ has much to say on the value of groups:
 > 
 > "Social architects do everything within their province and power to bring together suitable individuals that they may constitute efficient and agreeable working groups on earthâ€¦not always do these seraphim attain their ends; not always are they able to bring together those who would form the most ideal group to achieve a given purpose or to accomplish a certain task; under these conditions they must utilize the best of the material available." [UB 39:3.5](/en/The_Urantia_Book/39#p3_5)
 > 
-> "But since personality is unique--no two mortals being alike--it inevitably follows that no two human beings can similarly interpret the leadings and urges of the spirit of divinity which lives within their minds. A group of mortals can experience spiritual unity, but they can never attain philosophic uniformity." [UB 103:1.1](/en/The_Urantia_Book/103#p1_1)
+> "But since personality is unique—no two mortals being alike—it inevitably follows that no two human beings can similarly interpret the leadings and urges of the spirit of divinity which lives within their minds. A group of mortals can experience spiritual unity, but they can never attain philosophic uniformity." [UB 103:1.1](/en/The_Urantia_Book/103#p1_1)
 
 These quotes tell us that it is certainly in our best interest to come together as groups, and that furthermore, as we come together to achieve understanding and tasks, we must appreciate that we have little hope of achieving philosophic or intellectual uniformity! This last fact makes for a wonderful challenge that awaits you when you participate in a study group.
 
@@ -118,7 +118,7 @@ The superuniverse has its own seconaphim dedicated to teamwork!
 
 > "These are the angels who foster and promote the teamwork of all Orvonton. One of the most important lessons to be learned during your mortal career is _teamwork_." [UB 28:5.14](/en/The_Urantia_Book/28#p5_14)
 
-A lot has been written about groups--the different types of participation and non-participation, the ways of gaining and maintaining power, and the ways of managing groups to achieve different goals. It is a study on its own but we thought a quick look at some of the issues might be helpful.
+A lot has been written about groups—the different types of participation and non-participation, the ways of gaining and maintaining power, and the ways of managing groups to achieve different goals. It is a study on its own but we thought a quick look at some of the issues might be helpful.
 
 Each group has an external boundary which determines membership and an internal boundary which determines leadership. Threats to group survival may come from within or from without.
 
@@ -126,7 +126,7 @@ Each person has a private, partly unconscious image of the group. These images g
 
 Groups have a rational, technical culture to get their job done, a traditional etiquette to enforce respect for each person, and an archaic emotional character as well.
 
-If a group has only two roles, leader and follower, and two are leaders and there are ninety-eight followers, then the group is call 2% organized. A fully organized group has specific roles for each member. Increasing role differentiation promotes efficiency-the capacity to do work. If an efficient organization is neither undermanned not over manned, it cooperates more effectively--it actually gets the work done
+If a group has only two roles, leader and follower, and two are leaders and there are ninety-eight followers, then the group is call 2% organized. A fully organized group has specific roles for each member. Increasing role differentiation promotes efficiency-the capacity to do work. If an efficient organization is neither undermanned not over manned, it cooperates more effectively—it actually gets the work done
 
 Groups oppose irregularity, ethical or otherwise.
 
@@ -199,7 +199,7 @@ Jesus engaged in intense study. [UB 129:1.10](/en/The_Urantia_Book/129#p1_10) He
 
 Perhaps the greatest revelation about reading comes at the end of the Foreword:
 
-> "We are fully cognizant of the difficulties of our assignment; we recognize the impossibility of fully translating the language of the concepts of divinity and eternity into the symbols of the language of the finite concepts of the mortal mind. But we know that there dwells within the human mind a fragment of God, and that there sojourns with the human soul the Spirit of Truth; and we further know that these spirit forces conspire to enable man to grasp the reality of spiritual values and to comprehend the philosophy of universe meanings. But even more certainly we know that these spirits of the Divine Presence are able to assist man in the spiritual appropriation of all truth contributory to the enhancement of the ever-progressing reality of personal religious experience--God consciousness." [UB 0:12.12](/en/The_Urantia_Book/0#p12_12)
+> "We are fully cognizant of the difficulties of our assignment; we recognize the impossibility of fully translating the language of the concepts of divinity and eternity into the symbols of the language of the finite concepts of the mortal mind. But we know that there dwells within the human mind a fragment of God, and that there sojourns with the human soul the Spirit of Truth; and we further know that these spirit forces conspire to enable man to grasp the reality of spiritual values and to comprehend the philosophy of universe meanings. But even more certainly we know that these spirits of the Divine Presence are able to assist man in the spiritual appropriation of all truth contributory to the enhancement of the ever-progressing reality of personal religious experience—God consciousness." [UB 0:12.12](/en/The_Urantia_Book/0#p12_12)
 
 In other words, there is a cycle of revelatory communication, beginning with the author and the original language, then translated into English, then printed and read by the human intellect, and then worked on by the Thought Adjuster and the Spirit of Truth to bring alive universe meaning and values.
 

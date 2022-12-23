@@ -30,7 +30,7 @@ _**The Universal Father - Loving Spirit Father To All**_
 
 > The olden concept that God is a Deity dominated by kingly morality was upstepped by Jesus to that affectionately touching level of intimate family morality of the parent-child relationship, than which there is none more tender and beautiful in mortal experience. [UB 2:6.2](/en/The_Urantia_Book/2#p6_2)
 
-> First and last--eternally--the infinite God is a Father. Of all the possible titles by which he might appropriately be known, I have been instructed to portray the God of all creation as the Universal Father.
+> First and last—eternally—the infinite God is a Father. Of all the possible titles by which he might appropriately be known, I have been instructed to portray the God of all creation as the Universal Father.
 
 > A Divine Counselor, [UB 4:4.5](/en/The_Urantia_Book/4#p4_5)
 
@@ -38,9 +38,9 @@ _**The Universal Father - Loving Spirit Father To All**_
 
 > While God is to and in the universes all that we have portrayed, nevertheless, to you and to all other God-knowing creatures he is one, your Father and their Father. To personality God cannot be plural. God is Father to each of his creatures, and it is literally impossible for any child to have more than one father. [UB 56:4.4](/en/The_Urantia_Book/56#p4_4)
 
-> God is the Father; man is his son. Love, the love of a father for his son, becomes the central truth in the universe relations of Creator and creature--not the justice of a king which seeks satisfaction in the sufferings and punishment of the evil-doing subject. [UB 188:5.1](/en/The_Urantia_Book/188#p5_1)
+> God is the Father; man is his son. Love, the love of a father for his son, becomes the central truth in the universe relations of Creator and creature—not the justice of a king which seeks satisfaction in the sufferings and punishment of the evil-doing subject. [UB 188:5.1](/en/The_Urantia_Book/188#p5_1)
 
-> The Father is living love, and this life of the Father is in his Sons. And the spirit of the Father is in his Sons' sons--mortal men. When all is said and done, the Father idea is still the highest human concept of God. [UB 196:3.35](/en/The_Urantia_Book/196#p3_35)
+> The Father is living love, and this life of the Father is in his Sons. And the spirit of the Father is in his Sons' sons—mortal men. When all is said and done, the Father idea is still the highest human concept of God. [UB 196:3.35](/en/The_Urantia_Book/196#p3_35)
 
 **_Proof of God_**
 
@@ -56,7 +56,7 @@ _**The Universal Father - Loving Spirit Father To All**_
 
 > The creature not only exists in God, but God also lives in the creature. "We know we dwell in him because he lives in us; he has given us his spirit. This gift from the Paradise Father is man's inseparable companion." "He is the ever-present and all-pervading God." "The spirit of the everlasting Father is concealed in the mind of every mortal child." "Man goes forth searching for a friend while that very friend lives within his own heart." "The true God is not afar off; he is a part of us; his spirit speaks from within us." "The Father lives in the child. God is always with us. He is the guiding spirit of eternal destiny." [UB 3:1.4](/en/The_Urantia_Book/3#p1_4)
 
-> Even though the Paradise Father functions through his divine creators and his creature children, he also enjoys the most intimate inner contact with you, so sublime, so highly personal, that it is even beyond my comprehension--that mysterious communion of the Father fragment with the human soul and with the mortal mind of its actual indwelling. Knowing what you do of these gifts of God, you therefore know that the Father is in intimate touch, not only with his divine associates, but also with his evolutionary mortal children of time. The Father indeed abides on Paradise, but his divine presence also dwells in the minds of men. [UB 12:7.13](/en/The_Urantia_Book/12#p7_13)
+> Even though the Paradise Father functions through his divine creators and his creature children, he also enjoys the most intimate inner contact with you, so sublime, so highly personal, that it is even beyond my comprehension—that mysterious communion of the Father fragment with the human soul and with the mortal mind of its actual indwelling. Knowing what you do of these gifts of God, you therefore know that the Father is in intimate touch, not only with his divine associates, but also with his evolutionary mortal children of time. The Father indeed abides on Paradise, but his divine presence also dwells in the minds of men. [UB 12:7.13](/en/The_Urantia_Book/12#p7_13)
 
 > Do not allow the magnitude of the infinity, the immensity of the eternity, and the grandeur and glory of the matchless character of God to overawe, stagger, or discourage you; for the Father is not very far from any one of you; he dwells within you, and in him do we all literally move, actually live, and veritably have our being. [UB 12:7.12](/en/The_Urantia_Book/12#p7_12)
 
@@ -66,7 +66,7 @@ _**The Universal Father - Loving Spirit Father To All**_
 > 
 > Notwithstanding that God is an eternal power, a majestic presence, a transcendent ideal, and a glorious spirit, though he is all these and infinitely more, nonetheless, he is truly and everlastingly a perfect Creator personality, a person who can "know and be known," who can "love and be loved," and one who can befriend us; while you can be known, as other humans have been known, as the friend of God. He is a real spirit and a spiritual reality. [UB 1:5.7](/en/The_Urantia_Book/1#p5_7)
 
-> God is spirit--spirit personality; man is also a spirit--potential spirit personality. Jesus of Nazareth attained the full realization of this potential of spirit personality in human experience; therefore his life of achieving the Father's will becomes man's most real and ideal revelation of the personality of God. Even though the personality of the Universal Father can be grasped only in actual religious experience, in Jesus' earth life we are inspired by the perfect demonstration of such a realization and revelation of the personality of God in a truly human experience. [UB 1:6.8](/en/The_Urantia_Book/1#p6_8)
+> God is spirit—spirit personality; man is also a spirit—potential spirit personality. Jesus of Nazareth attained the full realization of this potential of spirit personality in human experience; therefore his life of achieving the Father's will becomes man's most real and ideal revelation of the personality of God. Even though the personality of the Universal Father can be grasped only in actual religious experience, in Jesus' earth life we are inspired by the perfect demonstration of such a realization and revelation of the personality of God in a truly human experience. [UB 1:6.8](/en/The_Urantia_Book/1#p6_8)
 
 **_God Is Just_**
 
@@ -90,7 +90,7 @@ _**The Universal Father - Loving Spirit Father To All**_
 > 
 > God loves the sinner and hates the sin: such a statement is true philosophically, but God is a transcendent personality, and persons can only love and hate other persons. Sin is not a person. God loves the sinner because he is a personality reality (potentially eternal), while towards sin God strikes no personal attitude, for sin is not a spiritual reality; it is not personal; therefore does only the justice of God take cognizance of its existence. The love of God saves the sinner; the law of God destroys the sin.
 > 
-> Facing the world of personality, God is discovered to be a loving person; facing the spiritual world, he is a personal love; in religious experience he is both. Love identifies the volitional will of God. The goodness of God rests at the bottom of the divine free-willness--the universal tendency to love, show mercy, manifest patience, and minister forgiveness. [UB 2:6.7](/en/The_Urantia_Book/2#p6_7)
+> Facing the world of personality, God is discovered to be a loving person; facing the spiritual world, he is a personal love; in religious experience he is both. Love identifies the volitional will of God. The goodness of God rests at the bottom of the divine free-willness—the universal tendency to love, show mercy, manifest patience, and minister forgiveness. [UB 2:6.7](/en/The_Urantia_Book/2#p6_7)
 
 > The eternal God is incapable of wrath and anger in the sense of these human emotions and as man understands such reactions. These sentiments are mean and despicable; they are hardly worthy of being called human, much less divine; and such attitudes are utterly foreign to the perfect nature and gracious character of the Universal Father. [UB 4:3.2](/en/The_Urantia_Book/4#p3_2)
 
@@ -108,7 +108,7 @@ _**The Universal Father - Loving Spirit Father To All**_
 
 **_The Sovereignty of God_**
 
-> The sovereignty of God is unlimited; it is the fundamental fact of all creation. The universe was not inevitable. The universe is not an accident, neither is it self-existent. The universe is a work of creation and is therefore wholly subject to the will of the Creator. The will of God is divine truth, living love; therefore are the perfecting creations of the evolutionary universes characterized by goodness--nearness to divinity; by potential evil--remoteness from divinity. [UB 3:6.2](/en/The_Urantia_Book/3#p6_2)
+> The sovereignty of God is unlimited; it is the fundamental fact of all creation. The universe was not inevitable. The universe is not an accident, neither is it self-existent. The universe is a work of creation and is therefore wholly subject to the will of the Creator. The will of God is divine truth, living love; therefore are the perfecting creations of the evolutionary universes characterized by goodness—nearness to divinity; by potential evil—remoteness from divinity. [UB 3:6.2](/en/The_Urantia_Book/3#p6_2)
 
 > There is no limitation of the forces and personalities which the Father may use to uphold his purpose and sustain his creatures. [UB 4:1.4](/en/The_Urantia_Book/4#p1_4)
 
@@ -118,7 +118,7 @@ _**The Universal Father - Loving Spirit Father To All**_
 
 > God is the only stationary, self-contained, and changeless being in the whole universe of universes, having no outside, no beyond, no past, and no future. God is purposive energy (creative spirit) and absolute will, and these are self-existent and universal.
 > 
-> Since God is self-existent, he is absolutely independent. The very identity of God is inimical to change. "I, the Lord, change not." God is immutable; but not until you achieve Paradise status can you even begin to understand how God can pass from simplicity to complexity, from identity to variation, from quiescence to motion, from infinity to finitude, from the divine to the human, and from unity to duality and triunity. And God can thus modify the manifestations of his absoluteness because divine immutability does not imply immobility; God has will--he is will.
+> Since God is self-existent, he is absolutely independent. The very identity of God is inimical to change. "I, the Lord, change not." God is immutable; but not until you achieve Paradise status can you even begin to understand how God can pass from simplicity to complexity, from identity to variation, from quiescence to motion, from infinity to finitude, from the divine to the human, and from unity to duality and triunity. And God can thus modify the manifestations of his absoluteness because divine immutability does not imply immobility; God has will—he is will.
 > 
 > God is the being of absolute self-determination; there are no limits to his universe reactions save those which are self-imposed, and his freewill acts are conditioned only by those divine qualities and perfect attributes which inherently characterize his eternal nature. Therefore is God related to the universe as the being of final goodness plus a free will of creative infinity. [UB 4:4.1](/en/The_Urantia_Book/4#p4_1)
 > 
@@ -150,7 +150,7 @@ _**The Universal Father - Loving Spirit Father To All**_
 
 **God Is First Truth**_
 
-> God is the first truth and the last fact; therefore does all truth take origin in him, while all facts exist relative to him. God is absolute truth. As truth one may know God, but to understand--to explain--God, one must explore the fact of the universe of universes. [UB 102:6.6](/en/The_Urantia_Book/102#p6_6)
+> God is the first truth and the last fact; therefore does all truth take origin in him, while all facts exist relative to him. God is absolute truth. As truth one may know God, but to understand—to explain—God, one must explore the fact of the universe of universes. [UB 102:6.6](/en/The_Urantia_Book/102#p6_6)
 > 
 > To science God is a possibility, to psychology a desirability, to philosophy a probability, to religion a certainty, an actuality of religious experience. [UB 102:6.8](/en/The_Urantia_Book/102#p6_8)
 
@@ -158,7 +158,7 @@ _**The Universal Father - Loving Spirit Father To All**_
 
 > The infinite God is, as always, replete and complete, infinitely inclusive of all things except evil and creature experience. God cannot do wrong; he is infallible. God cannot experientially know what he has never personally experienced; God's preknowledge is existential. Therefore does the spirit of the Father descend from Paradise to participate with finite mortals in every bona fide experience of the ascending career; it is only by such a method that the existential God could become in truth and in fact man's experiential Father. [UB 108:0.2](/en/The_Urantia_Book/108#p0_2)
 
-> The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God--with the very God who has made such a creature life of inner meaning-value possible.
+> The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God—with the very God who has made such a creature life of inner meaning-value possible.
 > 
 > The imitation of God is the key to perfection; the doing of his will is the secret of survival and of perfection in survival. [UB 111:5.1](/en/The_Urantia_Book/111#p5_1)
 

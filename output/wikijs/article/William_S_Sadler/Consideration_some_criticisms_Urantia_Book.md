@@ -176,9 +176,9 @@ But I would call attention to the full and comprehensive manner in which the boo
 
 The Urantia Papers tell us about the origin of life on this planet. Then follows the story of prehuman life and the appearance of Andon and Fonta, the first human beings. The arrival of the six colored races is depicted.
 
-Humanity is carried down through the ages-- through the planetary rebellion, the Adamic default, on down to the times of Jesus' bestowal in the flesh.
+Humanity is carried down through the ages— through the planetary rebellion, the Adamic default, on down to the times of Jesus' bestowal in the flesh.
 
-There is an elaborate and profound doctrine of man presented in _The Urantia Book_. Man created in the image of God, endowed with a provisional free will, indwelt by a fragment of God, by faith fellow -shipped as a son of God in the brotherhood--kingdom of heaven.
+There is an elaborate and profound doctrine of man presented in _The Urantia Book_. Man created in the image of God, endowed with a provisional free will, indwelt by a fragment of God, by faith fellow -shipped as a son of God in the brotherhood—kingdom of heaven.
 
 Human personality is a divine gift. Survival is a gift of grace which man secures by faith. Never in all the world' s history has there been presented such a complete account of man' s origin, history, and destiny.
 
@@ -206,17 +206,17 @@ One thing should be made clear to all. No person or persons are in any way desir
 
 Even after we attain Paradise, we encounter secrets in connection with the seven sacred worlds of the Father which revolve about Paradise. On each of these Father worlds there is to be found a domain of knowledge and experiences which is confidential to a certain group of beings. All others are denied access to this secret domain.
 
-Divinington—the abode of Thought Adjusters-- is open only to the Father-fragmented entities. All orders of intelligent beings are forbidden to land on Divinington.
+Divinington—the abode of Thought Adjusters— is open only to the Father-fragmented entities. All orders of intelligent beings are forbidden to land on Divinington.
 
 In a military organization the higher officers are often in possession of information which it is not wise to transmit to the rank and file of the army. 
 
 ### 6. Criticism: There is no doctrine of sin in _The Urantia Book_. Neither is there a plan of salvation for lost man.
 
-Again, our critic has failed to read _The Urantia Book_ which presents a clear-cut doctrine of sin. True it does redefine sin so as to forever separate it from errors of partial understanding and the potential evil of finite imperfection. Urantia doctrine of sin also separates this state from the ordinary "guilt feelings" which a mistaught conscience (supposedly the voice of God to the soul) imposes upon other-wise well-meaning individuals who are conscious of having violated the mores--failed to live up to some ethical ideal or some social regulation or other man-made dogmas.
+Again, our critic has failed to read _The Urantia Book_ which presents a clear-cut doctrine of sin. True it does redefine sin so as to forever separate it from errors of partial understanding and the potential evil of finite imperfection. Urantia doctrine of sin also separates this state from the ordinary "guilt feelings" which a mistaught conscience (supposedly the voice of God to the soul) imposes upon other-wise well-meaning individuals who are conscious of having violated the mores—failed to live up to some ethical ideal or some social regulation or other man-made dogmas.
 
 Let _The Urantia Book_ tell its own story about sin.
 
-First, there is the background and cosmic setting of all sin as portrayed in the Lucifer rebellion--the attack upon the personality of God, the divine rule of his Creator Sons, and the whole scheme of Paradise ascension of mortal creatures to the Corps of the Finality. Then follows the story of the Caligastia betrayal of this world and the devastating consequences of the planetary rebellion.
+First, there is the background and cosmic setting of all sin as portrayed in the Lucifer rebellion—the attack upon the personality of God, the divine rule of his Creator Sons, and the whole scheme of Paradise ascension of mortal creatures to the Corps of the Finality. Then follows the story of the Caligastia betrayal of this world and the devastating consequences of the planetary rebellion.
 
 Now as to sin as a personal experience:
 
@@ -234,7 +234,7 @@ Jesus recognized that "sin" was according to one's light. Said he:
 
 Read again an Paper [67:1.4](/en/The_Urantia_Book/67#p1_4):
 
-> "Sin is a purposeful resistance to divine reality--a conscious choosing to oppose spiritual progress--while iniquity consists in an open and persistent defiance of recognized reality and signifies such a degree of personality disintegration as to border on cosmic insanity."
+> "Sin is a purposeful resistance to divine reality—a conscious choosing to oppose spiritual progress—while iniquity consists in an open and persistent defiance of recognized reality and signifies such a degree of personality disintegration as to border on cosmic insanity."
 
 _The Urantia Book_, [2:6.8](/en/The_Urantia_Book/2#p6_8):
 
@@ -305,7 +305,7 @@ The God of _The Urantia Book_ is a God who "saves sinners"—from cover to cov
 
 > "Whosoever will may come and partake freely of the water of life." 
 
-### 9. Criticism: _The Urantia Book_ almost completely ignores the prophets of the Old Testament. The reason for this is clear--the teachings of the prophets flatly contradict the scheme of _The Urantia Book._
+### 9. Criticism: _The Urantia Book_ almost completely ignores the prophets of the Old Testament. The reason for this is clear—the teachings of the prophets flatly contradict the scheme of _The Urantia Book._
 
 Again this critic has failed to read the book. There are hundreds of references to the Old Testament in _The Urantia Book_. [Papers 73-76](/en/The_Urantia_Book/73), [93-98](/en/The_Urantia_Book/93) are devoted wholly to the consideration of Old Testament persons, peoples, and religions.
 
@@ -329,33 +329,33 @@ UNUSUAL ACTIVITIES OF THE  MARGINAL CONSCIOUSNESS: (The subconscious mind)
     - b. Trance mediums
     - c. Spirit mediums
     - d. Catalepsy
-3. Automatic hearing--Clairaudience
+3. Automatic hearing—Clairaudience
     - a. Hearing voices"
 4. Automatic seeing
-    - a. Dream states--twilight meditation
-    - b. Visions--Automatic dramatization
+    - a. Dream states—twilight meditation
+    - b. Visions—Automatic dramatization
     - c. Hallucinations (shifty "reality" feelings)
 5. Automatic seeing
-    - a. Automatic fearing--Anxiety neurosis
-    - b. Automatic ideation--mental compulsions
+    - a. Automatic fearing—Anxiety neurosis
+    - b. Automatic ideation—mental compulsions
     - c. automatic judgments - Intuition, "hunches"
-    - d. Automatic Association of ideas--premonitions
-    - e. Automatic guessing - ESP--extrasensory perception
-    - f. Automatic deductions--delusions--paranoia
-    - g. Dominance by marginal consciousness--dreams and hypnosis
+    - d. Automatic Association of ideas—premonitions
+    - e. Automatic guessing - ESP—extrasensory perception
+    - f. Automatic deductions—delusions—paranoia
+    - g. Dominance by marginal consciousness—dreams and hypnosis
 6. Automatic remembering
-    - a. clairvoyance--automatic memory associations
-    - b. Telepathy--mind reading (?)
+    - a. clairvoyance—automatic memory associations
+    - b. Telepathy—mind reading (?)
     - c. Fortune telling (largely fraudulent)
     - d. Musical and mathematical marvels
 7. Automatic acting
     - a. Automatic behavior--(major hysteria; witchcraft)
-    - b. Automatic motion--motor compulsions
-    - c. Automatic overdrives--manic episodes
-    - d. Automatic walking--somnambulism
+    - b. Automatic motion—motor compulsions
+    - c. Automatic overdrives—manic episodes
+    - d. Automatic walking—somnambulism
 8. Automatic personalization
-    - a. Automatic forgetting--amnexia
-    - b. Automatic dissociation--double and multiple personality
+    - a. Automatic forgetting—amnexia
+    - b. Automatic dissociation—double and multiple personality
     - c. Schizophrenia - split personality
 9.  Combined and associated psychic states
 
@@ -546,7 +546,7 @@ In reply to this criticism, I submit 74 concepts and doctrines which are new and
 47. **A Unified History of Urantia:** Nowhere else in all the world can you find a consistent and unified history of our world. For the first time we have a chronology of human affairs.
 48. **Diseases:** The Book presents a new and original explanation of microbic diseases.
 49. **Antigravity:** The whole concept of antigravity-is unique and original with the Urantia Papers. Only during the last year has any scientist promulgated a theory of antigravity.
-50. **[Jesus' Birthday](/en/The_Urantia_Book/122#p8_1):** For the first time during the Christian era, we know the real birthday of Jesus--August 21, 7BC.
+50. **[Jesus' Birthday](/en/The_Urantia_Book/122#p8_1):** For the first time during the Christian era, we know the real birthday of Jesus—August 21, 7BC.
 51. **Experimental Planet:** The fact that Urantia was a decimal planet—that the Life Carriers had permission to attempt new features of biologic evolution. This is information not heretofore known on the planet.
 52. **[The Evolution of Religion](/en/The_Urantia_Book/99):** While you can read much about the evolution of religion on Urantia, nevertheless, the straightforward story told in the Urantia Papers is unique and original.
 53. **[The Unique Reason for Jesus' Bestowal](/en/The_Urantia_Book/119):** _The Urantia Book_ presents a new, unique, and original reason for Jesus' life and death on our world.

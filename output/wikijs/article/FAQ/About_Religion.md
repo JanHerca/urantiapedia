@@ -30,13 +30,13 @@ dateCreated: 2022-11-28T14:02:03.086Z
 
 _**The Problem of Freewill**_
 
-> This is the problem: If freewill man is endowed with the powers of creativity in the inner man, then must we recognize that freewill creativity embraces the potential of freewill destructivity. And when creativity is turned to destructivity, you are face to face with the devastation of evil and sin--oppression, war, and destruction. Evil is a partiality of creativity which tends toward disintegration and eventual destruction. All conflict is evil in that it inhibits the creative function of the inner life--it is a species of civil war in the personality. [UB 111:4.11](/en/The_Urantia_Book/111#p4_11)
+> This is the problem: If freewill man is endowed with the powers of creativity in the inner man, then must we recognize that freewill creativity embraces the potential of freewill destructivity. And when creativity is turned to destructivity, you are face to face with the devastation of evil and sin—oppression, war, and destruction. Evil is a partiality of creativity which tends toward disintegration and eventual destruction. All conflict is evil in that it inhibits the creative function of the inner life—it is a species of civil war in the personality. [UB 111:4.11](/en/The_Urantia_Book/111#p4_11)
 
 > The possibility of mistaken judgment (evil) becomes sin only when the human will consciously endorses and knowingly embraces a deliberate immoral judgment. [UB 3:5.15](/en/The_Urantia_Book/3#p5_15)
 
-> There are many ways of looking at sin, but from the universe philosophic viewpoint sin is the attitude of a personality who is knowingly resisting cosmic reality. Error might be regarded as a misconception or distortion of reality. Evil is a partial realization of, or maladjustment to, universe realities. But sin is a purposeful resistance to divine reality--a conscious choosing to oppose spiritual progress--while iniquity consists in an open and persistent defiance of recognized reality and signifies such a degree of personality disintegration as to border on cosmic insanity. [UB 67:1.4](/en/The_Urantia_Book/67#p1_4)
+> There are many ways of looking at sin, but from the universe philosophic viewpoint sin is the attitude of a personality who is knowingly resisting cosmic reality. Error might be regarded as a misconception or distortion of reality. Evil is a partial realization of, or maladjustment to, universe realities. But sin is a purposeful resistance to divine reality—a conscious choosing to oppose spiritual progress—while iniquity consists in an open and persistent defiance of recognized reality and signifies such a degree of personality disintegration as to border on cosmic insanity. [UB 67:1.4](/en/The_Urantia_Book/67#p1_4)
 
-> The problem of sin is not self-existent in the finite world. The fact of finiteness is not evil or sinful. The finite world was made by an infinite Creator--it is the handiwork of his divine Sons--and therefore it must be good. It is the misuse, distortion, and perversion of the finite that gives origin to evil and sin. [UB 111:6.3](/en/The_Urantia_Book/111#p6_3)
+> The problem of sin is not self-existent in the finite world. The fact of finiteness is not evil or sinful. The finite world was made by an infinite Creator—it is the handiwork of his divine Sons—and therefore it must be good. It is the misuse, distortion, and perversion of the finite that gives origin to evil and sin. [UB 111:6.3](/en/The_Urantia_Book/111#p6_3)
 
 > Good is the carrying out of the divine plans; sin is a deliberate transgression of the divine will; evil is the misadaptation of plans and the maladjustment of techniques resulting in universe disharmony and planetary confusion. [UB 75:4.3](/en/The_Urantia_Book/75#p4_3)
 
@@ -53,7 +53,7 @@ There are many, many religions which are active on Urantia. Many of them claim t
 
 Jesus taught:
 
-> "The prophets have all taught you that Yahweh cares for his people, that God loves Israel. But I have come among you to proclaim a greater truth, one which many of the later prophets also grasped, that God loves _you_\--every one of you--as individuals. All these generations have you had a national or racial religion; now have I come to give you a personal religion." Jesus, [UB 145:2.4](/en/The_Urantia_Book/145#p2_4)
+> "The prophets have all taught you that Yahweh cares for his people, that God loves Israel. But I have come among you to proclaim a greater truth, one which many of the later prophets also grasped, that God loves _you_\--every one of you—as individuals. All these generations have you had a national or racial religion; now have I come to give you a personal religion." Jesus, [UB 145:2.4](/en/The_Urantia_Book/145#p2_4)
 
 
 ## What is The Kingdom of Heaven?

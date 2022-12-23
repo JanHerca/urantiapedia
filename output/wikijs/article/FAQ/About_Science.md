@@ -32,9 +32,9 @@ dateCreated: 2022-11-28T14:02:03.086Z
 
 **_Beauty and Cosmology_**
 
-> Philosophy you somewhat grasp, and divinity you comprehend in worship, social service, and personal spiritual experience, but the pursuit of beauty--cosmology--you all too often limit to the study of man's crude artistic endeavors. Beauty, art, is largely a matter of the unification of contrasts. Variety is essential to the concept of beauty. The supreme beauty, the height of finite art, is the drama of the unification of the vastness of the cosmic extremes of Creator and creature. Man finding God and God finding man--the creature becoming perfect as is the Creator--that is the supernal achievement of the supremely beautiful, the attainment of the apex of cosmic art. [UB 56:10.3](/en/The_Urantia_Book/56#p10_3)
+> Philosophy you somewhat grasp, and divinity you comprehend in worship, social service, and personal spiritual experience, but the pursuit of beauty—cosmology—you all too often limit to the study of man's crude artistic endeavors. Beauty, art, is largely a matter of the unification of contrasts. Variety is essential to the concept of beauty. The supreme beauty, the height of finite art, is the drama of the unification of the vastness of the cosmic extremes of Creator and creature. Man finding God and God finding man—the creature becoming perfect as is the Creator—that is the supernal achievement of the supremely beautiful, the attainment of the apex of cosmic art. [UB 56:10.3](/en/The_Urantia_Book/56#p10_3)
 
-> _Ethic sensitivity._ Through the realization of truth the appreciation of beauty leads to the sense of the eternal fitness of those things which impinge upon the recognition of divine goodness in Deity relations with all beings; and thus even cosmology leads to the pursuit of divine reality values--to God-consciousness. [UB 56:10.8](/en/The_Urantia_Book/56#p10_8)
+> _Ethic sensitivity._ Through the realization of truth the appreciation of beauty leads to the sense of the eternal fitness of those things which impinge upon the recognition of divine goodness in Deity relations with all beings; and thus even cosmology leads to the pursuit of divine reality values—to God-consciousness. [UB 56:10.8](/en/The_Urantia_Book/56#p10_8)
 
 > The inner and the outer worlds have a different set of values. Any civilization is in jeopardy when three quarters of its youth enter materialistic professions and devote themselves to the pursuit of the sensory activities of the outer world. Civilization is in danger when youth neglect to interest themselves in ethics, sociology, eugenics, philosophy, the fine arts, religion, and cosmology. [UB 111:4.4](/en/The_Urantia_Book/111#p4_4)]
 
@@ -65,7 +65,7 @@ dateCreated: 2022-11-28T14:02:03.086Z
 
 **_Science - One of the Pillars of Civilization_**
 
-> Civilizations are unstable because they are not cosmic; they are not innate in the individuals of the races. They must be nurtured by the combined contributions of the constitutive factors of man--science, morality, and religion. Civilizations come and go, but science, morality, and religion always survive the crash. [UB 16:9.5](/en/The_Urantia_Book/16#p9_5)
+> Civilizations are unstable because they are not cosmic; they are not innate in the individuals of the races. They must be nurtured by the combined contributions of the constitutive factors of man—science, morality, and religion. Civilizations come and go, but science, morality, and religion always survive the crash. [UB 16:9.5](/en/The_Urantia_Book/16#p9_5)
 
 **_The False Science of Materialism_**
 
@@ -79,11 +79,11 @@ dateCreated: 2022-11-28T14:02:03.086Z
 
 > In science, God is the First Cause; in religion, the universal and loving Father; in philosophy, the one being who exists by himself, not dependent on any other being for existence but beneficently conferring reality of existence on all things and upon all other beings. But it requires revelation to show that the First Cause of science and the self-existent Unity of philosophy are the God of religion, full of mercy and goodness and pledged to effect the eternal survival of his children on earth. [UB 4:4.7](/en/The_Urantia_Book/4#p4_7)
 
-> Science is a quantitative experience, religion a qualitative experience, as regards man's life on earth. Science deals with phenomena; religion, with origins, values, and goals. To assign _causes_ as an explanation of physical phenomena is to confess ignorance of ultimates and in the end only leads the scientist straight back to the first great cause--the Universal Father of Paradise. [UB 195:6.5](/en/The_Urantia_Book/195#p6_5)
+> Science is a quantitative experience, religion a qualitative experience, as regards man's life on earth. Science deals with phenomena; religion, with origins, values, and goals. To assign _causes_ as an explanation of physical phenomena is to confess ignorance of ultimates and in the end only leads the scientist straight back to the first great cause—the Universal Father of Paradise. [UB 195:6.5](/en/The_Urantia_Book/195#p6_5)
 
 **_Science Facts_**
 
-> The entire science of mathematics, the whole domain of philosophy, the highest physics or chemistry, could not predict or know that the union of two gaseous hydrogen atoms with one gaseous oxygen atom would result in a new and qualitatively superadditive substance--liquid water. The understanding knowledge of this one physiochemical phenomenon should have prevented the development of materialistic philosophy and mechanistic cosmology. [UB 12:9.3](/en/The_Urantia_Book/12#p9_3)
+> The entire science of mathematics, the whole domain of philosophy, the highest physics or chemistry, could not predict or know that the union of two gaseous hydrogen atoms with one gaseous oxygen atom would result in a new and qualitatively superadditive substance—liquid water. The understanding knowledge of this one physiochemical phenomenon should have prevented the development of materialistic philosophy and mechanistic cosmology. [UB 12:9.3](/en/The_Urantia_Book/12#p9_3)
 
 > Science becomes the thought domain of mathematics, of the energy and material of time in space. [UB 103:7.12](/en/The_Urantia_Book/103#p7_12)
 

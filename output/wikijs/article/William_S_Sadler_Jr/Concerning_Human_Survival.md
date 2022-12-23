@@ -20,19 +20,19 @@ This discussion put forth the proposition that the maximum number of mortals now
 
 This discussion starts out with the statement that "The number of personalities that achieve survival status will be less than 100%." We all agree with this conclusion for _The Urantia Book_ certainly does not teach "universalism."
 
-Down through the ages many philosophers and theologians have indulged in speculation regarding human survival. The Pharisees taught that few me would survive--and no women. Some religions taught universal survival through successive and almost endless advancing reincarnations. Others taught progressing purification and advancing spiritualization by means of prolonged purgatorial experience. In Christianity, this doctrine of God's mercy, embracing the salvation of all mortals, found expression in the Universalist Church.
+Down through the ages many philosophers and theologians have indulged in speculation regarding human survival. The Pharisees taught that few me would survive—and no women. Some religions taught universal survival through successive and almost endless advancing reincarnations. Others taught progressing purification and advancing spiritualization by means of prolonged purgatorial experience. In Christianity, this doctrine of God's mercy, embracing the salvation of all mortals, found expression in the Universalist Church.
 
-Needless to say that this attempt to reduce human survival to a mathematical formula--to percentages--is wholly based on assumptions. Let us take a look at these assumptions.
+Needless to say that this attempt to reduce human survival to a mathematical formula—to percentages—is wholly based on assumptions. Let us take a look at these assumptions.
 
 ### 1. Assumption No. 1.
 
-We have the testimony of the Creator Son--that the road to eternal life is straight and narrow and that the door thereto is also narrow.
+We have the testimony of the Creator Son—that the road to eternal life is straight and narrow and that the door thereto is also narrow.
 
 But that is not exactly what Jesus said:
 
 > “You also have another saying among you, and one that contains much truth: That the way which leads to eternal life is straight and narrow, that the door which leads thereto is likewise narrow." [UB 166:3.3](/en/The_Urantia_Book/166#p3_3)
 
-Here Jesus is making use of a common saying for teaching purposes. While he did say that this folk saying contained much truth--he did not say that it was factual--he did not present it as an original and persona pronouncement.
+Here Jesus is making use of a common saying for teaching purposes. While he did say that this folk saying contained much truth—he did not say that it was factual—he did not present it as an original and persona pronouncement.
 
 > The Master utilizes this saying as illustrative material in his teaching, just as Peter made use of a then current story about the rich man and Lazarus. This story well illustrated certain things which Peter wished to impress upon his hearers, but it does not follow that the apostle meant to accept or endorse all the other theological implications which were to be found in this story. [UB 169:3.0](/en/The_Urantia_Book/169#p3_0)
 
@@ -50,11 +50,11 @@ Remember, this is part of the folk saying. While Jesus implies that "many" go th
 
 ### 3. Assumption No. 3.
 
-The adjutants of worship and wisdom. The assumption that one-sixth of the world's inhabitants are mentally disqualified for survival in that they do not have the adjutant spirits of worship and wisdom is wholly a conjecture. Such beings could not be human--they would belong to the prehuman category of the simian tribes. Such creatures might be described as imbeciles.
+The adjutants of worship and wisdom. The assumption that one-sixth of the world's inhabitants are mentally disqualified for survival in that they do not have the adjutant spirits of worship and wisdom is wholly a conjecture. Such beings could not be human—they would belong to the prehuman category of the simian tribes. Such creatures might be described as imbeciles.
 
 Large numbers of feebleminded and retarded individuals, while being subnormal, might not be subhuman. They know something about the difference between right and wrong. They might well have virgin Adjusters.
 
-Our business as kingdom builders is to spread the "good news." It is indeed the purpose of the Urantia Revelation to "save souls." As to whether one-tenth or three-fourths of present day mortals will survive, we do not know--cannot know. In common parlance, "It is none of our business."
+Our business as kingdom builders is to spread the "good news." It is indeed the purpose of the Urantia Revelation to "save souls." As to whether one-tenth or three-fourths of present day mortals will survive, we do not know—cannot know. In common parlance, "It is none of our business."
 
 ### 4. Assumption No. 4.
 
@@ -74,7 +74,7 @@ But, in this connection we might well ponder the encouragement found on Pages 69
 
 ### 6. Assumption No. 6.
 
-Experienced Adjusters. The fact that a "certain Adjuster" who functions on Urantia had indwelt fifteen minds in Orvonton who failed to survive, does not necessarily mean that his experience in other superuniverses was similar--so that he had indwelt 105 nonsurvivors.
+Experienced Adjusters. The fact that a "certain Adjuster" who functions on Urantia had indwelt fifteen minds in Orvonton who failed to survive, does not necessarily mean that his experience in other superuniverses was similar—so that he had indwelt 105 nonsurvivors.
 
 In other superuiverses many of his hosts may have experienced Spirit fusion, or even Son fusion. Even the Solitary Messenger who indites Paper 109 confesses that he does not actually know about the Adjuster's experiences in other superuniverses.
 
@@ -93,7 +93,7 @@ It would be unsafe to generalize about mortal survival throughout the grand univ
     
     > "Divine righteousness is not dominated by strict retributive justice; God as a father transcends God as a judge." [UB 2:6.6](/en/The_Urantia_Book/2#p6_6)
     
-    After all, we should remember that sin is conscious--knowing--wrong-doing. Let us ponder what Jesus said on Page 1947:
+    After all, we should remember that sin is conscious—knowing—wrong-doing. Let us ponder what Jesus said on Page 1947:
     
     > “If we had not taught them the truth, they might do many strange things without falling under condemnation, but now, since they have known the light and presumed to reject it, they have no excuse for their attitude." [UB 180:3.2](/en/The_Urantia_Book/180#p3_2)
     
@@ -129,7 +129,7 @@ It would be unsafe to generalize about mortal survival throughout the grand univ
     
     > "Ignorance alone can never prevent survival; neither can confusional doubts nor fearful uncertainty. Only conscious resistance to the Adjuster’s leading can prevent the survival of the evolving immortal soul." [UB 110:3.5](/en/The_Urantia_Book/110#p3_5)
     
-12. Two of the twelve apostles--the ambassadors of the kingdom--might not have been regarded as likely candidates for survival by some pessimistic critics.
+12. Two of the twelve apostles—the ambassadors of the kingdom—might not have been regarded as likely candidates for survival by some pessimistic critics.
     
     > "These twins \[Alpheus\] could not comprehend the mind of Jesus, but they did grasp the sympathetic bond between themselves and the heart of their Master. Their minds were not of a high order; they might even reverently be called stupid, but they had a real experience in their spiritual natures. They believed in Jesus; they were sons of God and fellows of the kingdom." [UB 139:9.6](/en/The_Urantia_Book/139#p9_6) ... and they survived!
     
@@ -155,9 +155,9 @@ Since we all have old teachings of one kind or another, either philosophical or 
 
 I have noticed that one of the criticisms registered by religious leaders about the Urantia Teachings is, that it does not offer an Atonement Doctrine, a doctrine that certain individuals feel has kept the Christian Churches intact for so many years. I cannot really say whether the Atonement Doctrine has or has not provided unity among the Churches, but I can offer my interpretation of a concept of _The Urantia Book_, that is much more challenging, far more rewarding and certainly more difficult than an idea of appeasing an angry God.
 
-What I offer here is my own interpretation of concepts of the papers. I am sure many of you today will reject my ideas as unsound, unfair and unscrupulous. I have for a time pondered in my own mind that teachings such a concept would confuse some and discourage others, but by some chance it may inspire those who accept my challenge--and these persons might start out on the trail of working very hard for a very wonderful and merciful and loving God, the God that is portrayed in _The Urantia Book_, the Universal Father.
+What I offer here is my own interpretation of concepts of the papers. I am sure many of you today will reject my ideas as unsound, unfair and unscrupulous. I have for a time pondered in my own mind that teachings such a concept would confuse some and discourage others, but by some chance it may inspire those who accept my challenge—and these persons might start out on the trail of working very hard for a very wonderful and merciful and loving God, the God that is portrayed in _The Urantia Book_, the Universal Father.
 
-The fascinating picture presented to us about survival; the adventure of all time an experience in all space is indeed the lure of the ages. It should inspire and attract all living mortals to want to embark on this voyage of progression, world by world, level upon level, until the goal of eternity is reached--that of becoming a Paradise Citizen, a Finaliter of survival status from one of the lowly worlds of space. This picture of the preview of the "Coming Attractions" is, in my mind, inviting all contenders to climb aboard the biggest bandwagon of all time and eternity, the greatest show in the universe.
+The fascinating picture presented to us about survival; the adventure of all time an experience in all space is indeed the lure of the ages. It should inspire and attract all living mortals to want to embark on this voyage of progression, world by world, level upon level, until the goal of eternity is reached—that of becoming a Paradise Citizen, a Finaliter of survival status from one of the lowly worlds of space. This picture of the preview of the "Coming Attractions" is, in my mind, inviting all contenders to climb aboard the biggest bandwagon of all time and eternity, the greatest show in the universe.
 
 It almost seems presumptuous to me that this wonderful adventure to serve God and become like him is offered to all living creatures. But I am quite certain that the offer stands valid for ALL who are willing to accept the challenge of ascension. But I wonder how many accept the offer. Because of this question I have perused the papers on this topic and ask you the following:
 
@@ -225,7 +225,7 @@ SACRIFICE is as old as the Ghost Cults and the primitive religions, but SERVICE 
 
 "The privilege of service immediately follows the discovery of trustworthiness. Nothing can stand between you and opportunity for increased service except your own untrustworthiness, your lack of capacity for appreciation of the solemnity of trust.
 
-"Service--purposeful service, not slavery--is productive of the highest satisfaction and is expressive of the divinest dignity. Service--more service, increased service, difficult service, adventurous service, and at last divine and perfect service--is the goal of time and the destination of space. But ever will the play cycles of time alternate with the service cycles of progress. And after the service of time there follows the superservice of eternity. During the play of time you should envision the work of eternity, even as you will, during the service of eternity, reminisce the play of time."
+"Service—purposeful service, not slavery—is productive of the highest satisfaction and is expressive of the divinest dignity. Service—more service, increased service, difficult service, adventurous service, and at last divine and perfect service—is the goal of time and the destination of space. But ever will the play cycles of time alternate with the service cycles of progress. And after the service of time there follows the superservice of eternity. During the play of time you should envision the work of eternity, even as you will, during the service of eternity, reminisce the play of time."
 
 ### V. The Father's Will
 
@@ -243,22 +243,26 @@ We must also wish to embark on the eternal adventure, the absolute mandate of fr
 
 Performance is brought into this discussion for the first time, and it plays an important part in the topic of personality survival. especially in the superuniverse of Orvonton. I say this because our superuniverse is the domain of Master Spirit Number Seven, and as we know the Master Spirit is representative of those qualities of the Father, Son, and Spirit, or more like the Supreme Being. The Supreme Being is the eventuating overcontrol of the seven superuniverses. We have all the personalities necessary to compute the spirit forces that are influential on all evolving mortals in time and space, and we can take the following inventory.
 
-1. The Spirit of the Father.........................The Adjuster
-2. The Spirit of the Conjoint Actor.............Absolute Mind--Adjutant Mind
-3. The Spirit of the Son..............................Spirit of Truth
-4. Spirit of the Master Spirits.....................Cosmic Mind
-5. The Spirit of the Divine Minister.............Seraphic Ministry--Adjutant Mind
-6. The Overcontrol of Evolving Deity.........Almighty Supreme--God the Supreme as the SUPREME BEING
+Spirit | Being
+--- | ---
+1\. The Spirit of the Father | The Adjuster
+2\. The Spirit of the Conjoint Actor | Absolute Mind—Adjutant Mind
+3\. The Spirit of the Son | Spirit of Truth
+4\. Spirit of the Master Spirits | Cosmic Mind
+5\. The Spirit of the Divine Minister | Seraphic Ministry—Adjutant Mind
+6\. The Overcontrol of Evolving Deity | Almighty Supreme—God the Supreme as the SUPREME BEING
 
-Consider if you will the expression of total Deity to mortals of time and space, that is the expression of GOD THE SEVENFOLD. I will hereby outline God the Sevenfold by two methods, by person--by geography.
+Consider if you will the expression of total Deity to mortals of time and space, that is the expression of GOD THE SEVENFOLD. I will hereby outline God the Sevenfold by two methods, by person—by geography.
 
-- Paradise Creator Sons...................................Local Universe
-- Ancients of Days...........................................Superuniverse (1 each)
-- Seven Master Spirits.....................................Superuniverse (1 to 7)
-- Supreme Being..............................................Grand Universe
-- Infinite Spirit..................................................Paradise-Havona
-- Eternal Son....................................................Paradise-Havona
-- Universal Father.............................................Paradise-Havona
+Person | Geography
+--- | ---
+Paradise Creator Sons | Local Universe
+Ancients of Days | Superuniverse (1 each)
+Seven Master Spirits | Superuniverse (1 to 7)
+Supreme Being | Grand Universe
+Infinite Spirit | Paradise-Havona
+Eternal Son | Paradise-Havona
+Universal Father | Paradise-Havona
 
 This expression is the ascending pathway to eternal life, the ladder to Finaiter Status, as well as the maximum of comprehension of Deity to finite beings. I will use this expression to demonstrate from the papers how each level is directly responsive to our ascension. The Creator Son said, "Even if the door to the way of life is narrow it is wide enough to admit all who sincerely seek to enter, for I am that door. And the Son will never refuse entrance to any child of the Universe who, by faith, seeks to find the Father through the Son." Analyzing this statement for a moment one can clearly see that the Creator Son has the authority to rule in favor of survival of any creature whether he be a qualified ascender or not, either for evenual Adjuster-fusion, or Son-fusion.
 
@@ -314,7 +318,7 @@ After further teaching Jesus summed up his sermon by stating:
 
 > "You cannot buy salvation; it is a gift.  
 > You cannot earn righteousness;  
-> You are not saved by a righteous life--  
+> You are not saved by a righteous life—  
 > you live such a life because you are saved"
 
 Again remembering the overcontrol of Supremacy in the Grand Universe we must accept the admonition, that with God the Supreme, achievement is prerequisite to status. "One must do something as well as be something." One must be able to prove himself as a mortal creature prior to gaining the status of an immortal.

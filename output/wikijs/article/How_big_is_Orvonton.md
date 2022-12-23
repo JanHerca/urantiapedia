@@ -225,7 +225,7 @@ The Great Attractor is also probably part of the outer space zones, its motion c
 
 ## What are quasars?
 
-“Quasars are the most luminous known objects in the universe, some of them having luminosities more than thousands of times greater than that of the Galaxy (our Milky Way). Some quasars are markedly and erratically variable in their light in a period of minutes. Their diameters must therefore be less than 100 light-minutes across, or about the size of the solar system. Thus hundreds to thousands of times the luminosity of the entire Galaxy is emitted from a volume 10 to the 17th power smaller than that of the Galaxy--an incredible outpouring of energy.” [Grolier Ency.] [^7]
+“Quasars are the most luminous known objects in the universe, some of them having luminosities more than thousands of times greater than that of the Galaxy (our Milky Way). Some quasars are markedly and erratically variable in their light in a period of minutes. Their diameters must therefore be less than 100 light-minutes across, or about the size of the solar system. Thus hundreds to thousands of times the luminosity of the entire Galaxy is emitted from a volume 10 to the 17th power smaller than that of the Galaxy—an incredible outpouring of energy.” [Grolier Ency.] [^7]
 
 Here is what *The Urantia Book* has to say about them,
 
