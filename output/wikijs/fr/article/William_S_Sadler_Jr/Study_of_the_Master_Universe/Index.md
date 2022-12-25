@@ -190,11 +190,11 @@ dateCreated: 2022-10-08T14:02:03.086Z
         We end, as we began, with the Infinite
 * [Postface](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Afterword)
 
-## References
+## Références
 
-Study obtained from:
-- https://www.urantia.org/study-master-universe/study-master-universe
-- https://www.urantia.org/appendices-study-master-universe/appendices-study-master-universe
+Étude obtenue de:
+- https://www.urantia.org/fr/une-etude-du-maitre-univers/une-etude-du-maitre-univers
+- https://www.urantia.org/fr/appendices-une-etude-du-maitre-univers/appendices-une-etude-du-maitre-univers
 
 
 

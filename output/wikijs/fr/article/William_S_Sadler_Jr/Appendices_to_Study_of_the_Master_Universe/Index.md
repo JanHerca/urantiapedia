@@ -203,9 +203,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
     3. [Mécanisme existentiel-périentiel des fonctions de la Déité](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_27#h-3-m%C3%A9canisme-existentiel-exp%C3%A9rientiel-des-fonctions-de-d%C3%A9it%C3%A9)
     4. [Les associations finales de Déité-duelle](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_27#h-4-les-associations-finales-de-la-d%C3%A9it%C3%A9-duelle)
 
-## References
+## Références
 
-Study obtained from:
+Étude obtenue de:
 - https://www.urantia.org/fr/une-etude-du-maitre-univers/une-etude-du-maitre-univers
 - https://www.urantia.org/fr/appendices-une-etude-du-maitre-univers/appendices-une-etude-du-maitre-univers
 
