@@ -1,11 +1,11 @@
 ---
-title: "Harmony: The One Universal Code of Communication"
+title: Harmony: The One Universal Code of Communication
 description: 
 published: true
-date: 2021-11-28T14:02:03.086Z
+date: 2022-12-23T20:06:31.316Z
 tags: psychology
 editor: markdown
-dateCreated: 2021-11-28T14:02:03.086Z
+dateCreated: 2022-09-26T02:09:16.433Z
 ---
 
 Author: **Ann Bendall, B.A. Dip.**
@@ -56,7 +56,11 @@ Conversely, simple, soft melodies may reduce the level of arousal and reaction m
 
 It is interesting to deliberate whether music might hold the key to a generalized human disorder—global amnesia for the events of the first two years of life. This is the critical period in which the child learns trust, and establishes ego-identity. The memory of this period is there, but cannot be assessed because it is in some form of pre-language coding. Since the recognition of meaningful musical sounds precedes the acquisition of language, part of this memory must be retained in a form symbolizing musical sounds.
 
-Whatever the truth may be, it is certain that our Thought Adjuster has the necessary means to interpret all events that occurred prior to His indwelling in a way which may be useful for the enhancement of our spiritual growth. One possibility is that events, emotions, beliefs and attitudes of the infantile pre-language phase of our existence, those critical first years of our life, are interpreted through the symbolism of what the book refers to as “good” music.
+Whatever the truth may be, it is certain that our Thought Adjuster has the necessary means to interpret all events that occurred prior to His indwelling in a way which may be useful for the enhancement of our spiritual growth. One possibility is that events, emotions, beliefs and attitudes of the infantile pre-language phase of our existence, those critical first years of our life, are interpreted through the symbolism of what the book refers to as “good” music.[^2] [^3] [^4] [^5]
+
+## External links
+
+Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_2/page14.html
 
 ## References
 

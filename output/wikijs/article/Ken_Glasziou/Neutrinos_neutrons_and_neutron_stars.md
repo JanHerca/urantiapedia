@@ -2,10 +2,10 @@
 title: Neutrinos, Neutrons, and Neutron Stars
 description: 
 published: true
-date: 2021-11-28T14:02:03.086Z
+date: 2022-12-23T21:42:31.886Z
 tags: 
 editor: markdown
-dateCreated: 2021-11-28T14:02:03.086Z
+dateCreated: 2022-09-26T12:14:56.217Z
 ---
 
 Author: **Ken Glasziou, Ph.D.**
@@ -49,7 +49,7 @@ The probable evolutionary course of collapse of massive stars has only been eluc
 
 After exhaustion of helium at the core, gravitational contraction again occurs and the rise in temperature permits carbon to burn to yield neon, sodium, and magnesium, after which the star begins to shrink to become a blue giant. Neon and oxygen burning follow. Finally silicon and sulphur, the products from burning of oxygen, ignite to produce iron. Iron nuclei cannot release energy on fusing together, hence with the exhaustion of its fuel source, the furnace at the center of the star goes out. Nothing can now slow the onslaught of gravitational collapse, and when the iron core reaches a critical mass of 1.4 times the mass of our sun, and the diameter of the star is now about half that of the earth, the star's fate is sealed.
 
-    Within a few tenths of a second, the iron ball collapses to about 50 kilometers across and then the collapse is halted as its density approaches that of the atomic nucleus and the protons and neutrons cannot be further squeezed together. The halting of the collapse sends a tremendous shock wave back  through the outer region of the core.
+Within a few tenths of a second, the iron ball collapses to about 50 kilometers across and then the collapse is halted as its density approaches that of the atomic nucleus and the protons and neutrons cannot be further squeezed together. The halting of the collapse sends a tremendous shock wave back  through the outer region of the core.
 
 The light we see from our sun comes only from its outer surface layer. However, the energy that fuels the sunlight (and life on earth) originates from the hot, dense thermonuclear furnace at the Sun's core. Though sunlight takes only about eight minutes to travel from the sun to earth, the energy from the sun's core that gives rise to this sunlight takes in the order of a million years to diffuse from the core to the surface. In other words, a sun (or star) is relatively “opaque” (as per *The Urantia Book*[^2]) to the energy diffusing from its thermonuclear core to its surface, hence it supplies the pressure necessary to prevent gravitational collapse. But this is not true of the little neutral particles, known since the mid 1930's by the name neutrinos. These particles are so tiny and unreactive that their passage from our sun's core to its exterior takes only about 3 seconds.
 
