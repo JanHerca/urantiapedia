@@ -28,7 +28,7 @@ dateCreated: 2022-11-28T14:02:03.086Z
 > 
 > "But, my son, you should know that the Father does not purposely afflict his children. Man brings down upon himself unnecessary affliction as a result of his persistent refusal to walk in the better ways of the divine will. Affliction is potential in evil, but much of it has been produced by sin and iniquity. Many unusual events have transpired on this world, and it is not strange that all thinking men should be perplexed by the scenes of suffering and affliction which they witness. But of one thing you may be sure: The Father does not send affliction as an arbitrary punishment for wrongdoing. The imperfections and handicaps of evil are inherent; the penalties of sin are inevitable; the destroying consequences of iniquity are inexorable. Man should not blame God for those afflictions which are the natural result of the life which he chooses to live; neither should man complain of those experiences which are a part of life as it is lived on this world. It is the Father's will that mortal man should work persistently and consistently toward the betterment of his estate on earth. Intelligent application would enable man to overcome much of his earthly misery." Jesus, [UB 148:4.3](/en/The_Urantia_Book/148#p4_3)
 
-_**The Problem of Freewill**_
+**The Problem of Freewill**
 
 > This is the problem: If freewill man is endowed with the powers of creativity in the inner man, then must we recognize that freewill creativity embraces the potential of freewill destructivity. And when creativity is turned to destructivity, you are face to face with the devastation of evil and sin—oppression, war, and destruction. Evil is a partiality of creativity which tends toward disintegration and eventual destruction. All conflict is evil in that it inhibits the creative function of the inner life—it is a species of civil war in the personality. [UB 111:4.11](/en/The_Urantia_Book/111#p4_11)
 
@@ -62,11 +62,11 @@ Jesus taught:
 
 > The kingdom of heaven, the divine government, is founded on the fact of divine sovereignty—God is spirit. Since God is spirit, this kingdom is spiritual. The kingdom of heaven is neither material nor merely intellectual; it is a spiritual relationship between God and man. [UB 134:4.2](/en/The_Urantia_Book/134#p4_2)
 
-**_The Keys to the Kingdom_**
+**The Keys to the Kingdom**
 
 > The keys of the kingdom of heaven are: sincerity, more sincerity, and more sincerity. All men have these keys. Men use them—advance in spirit status—by decisions, by more decisions, and by more decisions. The highest moral choice is the choice of the highest possible value, and always—in any sphere, in all of them—this is to choose to do the will of God. If man thus chooses, he is great, though he be the humblest citizen of Jerusem or even the least of mortals on Urantia. [UB 39:4.14](/en/The_Urantia_Book/39#p4_14)
 
-**_What Jesus Taught_**
+**What Jesus Taught**
 
 > "Be not deceived by those who come saying here is the kingdom or there is the kingdom, for my Father's kingdom concerns not things visible and material. And this kingdom is even now among you, for where the spirit of God teaches and leads the soul of man, there in reality is the kingdom of heaven. And this kingdom of God is righteousness, peace, and joy in the Holy Spirit." Jesus, [UB 137:8.9](/en/The_Urantia_Book/137#p8_9)
 
@@ -74,7 +74,7 @@ Jesus taught:
 
 > "Entrance into the Father's kingdom waits not upon marching armies, upon overturned kingdoms of this world, nor upon the breaking of captive yokes. The kingdom of heaven is at hand, and all who enter therein shall find abundant liberty and joyous salvation." Jesus, [UB 137:8.15](/en/The_Urantia_Book/137#p8_15)
 
-**_Parables About the Kingdom_**
+**Parables About the Kingdom**
 
 > After the people had asked a few questions, Jesus spoke another parable: "The kingdom of heaven is like a grain of mustard seed which a man sowed in his field. Now a mustard seed is the least of seeds, but when it is full grown, it becomes the greatest of all herbs and is like a tree sothat the birds of heaven are able to come and rest in the branches thereof." Jesus, [UB 151:4.2](/en/The_Urantia_Book/151#p4_2)
 
@@ -123,17 +123,17 @@ Our recommendation would be that you embrace your religion with a new sense of v
 
 ## What is Worship?
 
-True religious worship is not a futile monologue of self-deception. Worship is a personal communion with that which is divinely real, with that which is the very source of reality. Man aspires by worship to be better and thereby eventually attains the best. [UB 196:3.22](/en/The_Urantia_Book/196#p3_22)
+> True religious worship is not a futile monologue of self-deception. Worship is a personal communion with that which is divinely real, with that which is the very source of reality. Man aspires by worship to be better and thereby eventually attains the best. [UB 196:3.22](/en/The_Urantia_Book/196#p3_22)
 
-We worship God, first, because he is, then, because he is in us, and last, because we are in him. [UB 16:9.14](/en/The_Urantia_Book/16#p9_14)
+> We worship God, first, because he is, then, because he is in us, and last, because we are in him. [UB 16:9.14](/en/The_Urantia_Book/16#p9_14)
 
-Man can never wisely decide temporal issues or transcend the selfishness of personal interests unless he meditates in the presence of the sovereignty of God and reckons with the realities of divine meanings and spiritual values. [UB 99:7.4](/en/The_Urantia_Book/99#p7_4)
+> Man can never wisely decide temporal issues or transcend the selfishness of personal interests unless he meditates in the presence of the sovereignty of God and reckons with the realities of divine meanings and spiritual values. [UB 99:7.4](/en/The_Urantia_Book/99#p7_4)
 
-Meditation makes the contact of mind with spirit; relaxation determines the capacity for spiritual receptivity. And this interchange of strength for weakness, courage for fear, the will of God for the mind of self, constitutes worship. [UB 160:3.1](/en/The_Urantia_Book/160#p3_1)
+> Meditation makes the contact of mind with spirit; relaxation determines the capacity for spiritual receptivity. And this interchange of strength for weakness, courage for fear, the will of God for the mind of self, constitutes worship. [UB 160:3.1](/en/The_Urantia_Book/160#p3_1)
 
-Worship is the highest joy of Paradise existence; it is the refreshing play of Paradise. [UB 27:7.5](/en/The_Urantia_Book/27#p7_5)
+> Worship is the highest joy of Paradise existence; it is the refreshing play of Paradise. [UB 27:7.5](/en/The_Urantia_Book/27#p7_5)
 
-One of the great troubles with modern life is that man thinks he is too busy to find time for spiritual meditation and religious devotion. [UB 195:6.7](/en/The_Urantia_Book/195#p6_7)
+> One of the great troubles with modern life is that man thinks he is too busy to find time for spiritual meditation and religious devotion. [UB 195:6.7](/en/The_Urantia_Book/195#p6_7)
 
 <br>
 

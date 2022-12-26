@@ -88,7 +88,7 @@ He lived a normal, unpretentious kind of a life, along with all the ups and down
 
 This link will start you off at the birth of Jesus in Bethlehem. In this amazing document, you'll read about all of the above times of Jesus' life, and much, much more. Even the events that you have known from reading the Bible are expanded and elaborated - restated for our 21st century times. The message of Jesus' life is so powerful and so life-changing that The Urantia Book states:
 
-> [UB 196:1.3](/en/The_Urantia_Book/196#p1_3) Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it.
+> Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it. [UB 196:1.3](/en/The_Urantia_Book/196#p1_3)
 
 That religious life of Jesus started long before his ministry began, and I hope you'll enjoy reading about it in its entirety. Today, as 2000 years ago, Jesus stands as the highest example of a human being living a life dedicated to God. 
 

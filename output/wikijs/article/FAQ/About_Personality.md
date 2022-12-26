@@ -22,7 +22,7 @@ dateCreated: 2022-11-28T14:02:03.086Z
 
 ## Who Am I? What is Personality?
 
-**_Personality Is..._**
+**Personality Is...**
 
 > _Personality._ The personality of mortal man is neither body, mind, nor spirit; neither is it the soul. Personality is the one changeless reality in an otherwise ever-changing creature experience; and it unifies all other associated factors of individuality. The personality is the unique bestowal which the Universal Father makes upon the living and associated energies of matter, mind, and spirit, and which survives with the survival of the morontial soul. [UB 0:5.11](/en/The_Urantia_Book/0#p5_11)
 
@@ -44,15 +44,15 @@ dateCreated: 2022-11-28T14:02:03.086Z
 
 > Personality is bestowed by the Universal Father upon his creatures as a potentially eternal endowment. Such a divine gift is designed to function on numerous levels and in successive universe situations ranging from the lowly finite to the highest absonite, even to the borders of the absolute. Personality thus performs on three cosmic planes or in three universe phases:
 > 
->    1. _Position status._ Personality functions equally efficiently in the local universe, in the superuniverse, and in the central universe.
+> 1\. _Position status._ Personality functions equally efficiently in the local universe, in the superuniverse, and in the central universe.
 > 
->    2. _Meaning status_. Personality performs effectively on the levels of the finite, the absonite, and even as impinging upon the absolute.
+> 2\. _Meaning status_. Personality performs effectively on the levels of the finite, the absonite, and even as impinging upon the absolute.
 > 
->    3. _Value status_. Personality can be experientially realized in the progressive realms of the material, the morontial, and the spiritual. [UB 112:1.1](/en/The_Urantia_Book/112#p1_1)
+> 3\. _Value status_. Personality can be experientially realized in the progressive realms of the material, the morontial, and the spiritual. [UB 112:1.1](/en/The_Urantia_Book/112#p1_1)
 
 > Personality cannot very well perform in isolation. Man is innately a social creature; he is dominated by the craving of belongingness. It is literally true, "No man lives unto himself." [UB 112:1.16](/en/The_Urantia_Book/112#p1_16)
 
-**_Personality is a Mystery_**
+**Personality is a Mystery**
 
 > Personality is one of the unsolved mysteries of the universes. We are able to form adequate concepts of the factors entering into the make-up of various orders and levels of personality, but we do not fully comprehend the real nature of the personality itself. We clearly perceive the numerous factors which, when put together, constitute the vehicle for human personality, but we do not fully comprehend the nature and significance of such a finite personality.
 > 
@@ -62,11 +62,11 @@ dateCreated: 2022-11-28T14:02:03.086Z
 
 > Capacity for divine personality is inherent in the prepersonal Adjuster; capacity for human personality is potential in the cosmic-mind endowment of the human being. But the experiential personality of mortal man is not observable as an active and functional reality until after the material life vehicle of the mortal creature has been touched by the liberating divinity of the Universal Father, being thus launched upon the seas of experience as a self-conscious and a (relatively) self-determinative and self-creative personality. The material self is truly and _unqualifiedly personal._ [UB 5:6.6](/en/The_Urantia_Book/5#p6_6)
 
-**_Man's Personality is Eternal_**
+**Man's Personality is Eternal**
 
 > That which comes from the Father is like the Father eternal, and this is just as true of personality, which God gives by his own freewill choice, as it is of the divine Thought Adjuster, an actual fragment of God. Man's personality is eternal but with regard to identity a conditioned eternal reality. Having appeared in response to the Father's will, personality will attain Deity destiny, but man must choose whether or not he will be present at the attainment of such destiny. In default of such choice, personality attains experiential Deity directly, becoming a part of the Supreme Being. The cycle is foreordained, but man's participation therein is optional, personal, and experiential. [UB 112:5.2](/en/The_Urantia_Book/112#p5_2)
 
-**_God - the Author of Personality_**
+**God - the Author of Personality**
 
 > God is much more than a personality as personality is understood by the human mind; he is even far more than any possible concept of a superpersonality. But it is utterly futile to discuss such incomprehensible concepts of divine personality with the minds of material creatures whose maximum concept of the reality of being consists in the idea and ideal of personality. The material creature's highest possible concept of the Universal Creator is embraced within the spiritual ideals of the exalted idea of divine personality. Therefore, although you may know that God must be much more than the human conception of personality, you equally well know that the Universal Father cannot possibly be anything less than an eternal, infinite, true, good, and beautiful personality.
 > 
@@ -80,11 +80,11 @@ dateCreated: 2022-11-28T14:02:03.086Z
 
 > Pure energy is the ancestor of all relative, nonspirit functional realities, while pure spirit is the potential of the divine and directive overcontrol of all basic energy systems. And these realities, so diverse as manifested throughout space and as observed in the motions of time, are both centered in the person of the Paradise Father. In him they are one—must be unified—because God is one. The Father's personality is absolutely unified. [UB 56:1.4](/en/The_Urantia_Book/56#p1_4)
 
-**_Personality Extinction Through Iniquity_**
+**Personality Extinction Through Iniquity**
 
 > When this sentence is finally confirmed, the sin-identified being instantly becomes as though he had not been. There is no resurrection from such a fate; it is everlasting and eternal. The living energy factors of identity are resolved by the transformations of time and the metamorphoses of space into the cosmic potentials whence they once emerged. As for the personality of the iniquitous one, it is deprived of a continuing life vehicle by the creature's failure to make those choices and final decisions which would have assured eternal life. When the continued embrace of sin by the associated mind culminates in complete self-identification with iniquity, then upon the cessation of life, upon cosmic dissolution, such an isolated personality is absorbed into the oversoul of creation, becoming a part of the evolving experience of the Supreme Being. Never again does it appear as a personality; its identity becomes as though it had never been. In the case of an Adjuster-indwelt personality, the experiential spirit values survive in the reality of the continuing Adjuster. [UB 2:3.4](/en/The_Urantia_Book/2#p3_4)
 
-**_Personality Survival_**
+**Personality Survival**
 
 > Eternal survival of personality is wholly dependent on the choosing of the mortal mind, whose decisions determine the survival potential of the immortal soul. When the mind believes God and the soul knows God, and when, with the fostering Adjuster, they all _desire_ God, then is survival assured. Limitations of intellect, curtailment of education, deprivation of culture, impoverishment of social status, even inferiority of the human standards of morality resulting from the unfortunate lack of educational, cultural, and social advantages, cannot invalidate the presence of the divine spirit in such unfortunate and humanly handicapped but believing individuals. [UB 5:5.13](/en/The_Urantia_Book/5#p5_13)
 

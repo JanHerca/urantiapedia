@@ -22,15 +22,15 @@ dateCreated: 2022-11-28T14:02:03.086Z
 
 ## What is Cosmology?
 
-**_Material Science and Cosmology_**
+**Material Science and Cosmology**
 
 > Mathematics, material science, is indispensable to the intelligent discussion of the material aspects of the universe, but such knowledge is not necessarily a part of the higher realization of truth or of the personal appreciation of spiritual realities. Not only in the realms of life but even in the world of physical energy, the sum of two or more things is very often something _more_ than, or something _different_ [UB 12:9.3](/en/The_Urantia_Book/12#p9_3)
 
-**_Cosmology in the Spheres of Light and Life_**
+**Cosmology in the Spheres of Light and Life**
 
 > The provisions for competitive play, humor, and other phases of personal and group achievement are ample and appropriate. A special feature of the competitive activities on such a highly cultured world concerns the efforts of individuals and groups to excel in the sciences and philosophies of cosmology. Literature and oratory flourish, and languageis so improved as to be symbolic of concepts as well as to be expressive of ideas. Life is refreshingly simple; man has at last co-ordinated a high state of mechanical development with an inspiring intellectual attainment and has overshadowed both with an exquisite spiritual achievement. The pursuit of happiness is an experience of joy and satisfaction. [UB 55:5.6](/en/The_Urantia_Book/55#p5_6)
 
-**_Beauty and Cosmology_**
+**Beauty and Cosmology**
 
 > Philosophy you somewhat grasp, and divinity you comprehend in worship, social service, and personal spiritual experience, but the pursuit of beauty—cosmology—you all too often limit to the study of man's crude artistic endeavors. Beauty, art, is largely a matter of the unification of contrasts. Variety is essential to the concept of beauty. The supreme beauty, the height of finite art, is the drama of the unification of the vastness of the cosmic extremes of Creator and creature. Man finding God and God finding man—the creature becoming perfect as is the Creator—that is the supernal achievement of the supremely beautiful, the attainment of the apex of cosmic art. [UB 56:10.3](/en/The_Urantia_Book/56#p10_3)
 
@@ -38,13 +38,13 @@ dateCreated: 2022-11-28T14:02:03.086Z
 
 > The inner and the outer worlds have a different set of values. Any civilization is in jeopardy when three quarters of its youth enter materialistic professions and devote themselves to the pursuit of the sensory activities of the outer world. Civilization is in danger when youth neglect to interest themselves in ethics, sociology, eugenics, philosophy, the fine arts, religion, and cosmology. [UB 111:4.4](/en/The_Urantia_Book/111#p4_4)]
 
-**_Religion and Cosmology_**
+**Religion and Cosmology**
 
 > While religion is not the product of the rationalistic speculations of a material cosmology, it is, nonetheless, the creation of a wholly rational insight which originates in man's mind-experience. [UB 101:1.5](/en/The_Urantia_Book/101#p1_5)
 
 > Religion is so vital that it persists in the absence of learning. It lives in spite of its contamination with erroneous cosmologies and false philosophies; it survives even the confusion of metaphysics. In and through all the historic vicissitudes of religion there ever persists that which is indispensable to human progress and survival: the ethical conscience and the moral consciousness.  [UB 101:3.1](/en/The_Urantia_Book/101#p3_1)
 
-**_The Urantia Revelation and Cosmology_**
+**The Urantia Revelation and Cosmology**
 
 > Because your world is generally ignorant of origins, even of physical origins, it has appeared to be wise from time to time to provide instruction in cosmology. And always has this made trouble for the future. The laws of revelation hamper us greatly by their proscription of the impartation of unearned or premature knowledge. Any cosmology presented as a part of revealed religion is destined to be outgrown in a very short time. Accordingly, future students of such a revelation are tempted to discard any element of genuine religious truth it may contain because they discover errors on the face of the associated cosmologies therein presented.
 > 
@@ -63,11 +63,11 @@ dateCreated: 2022-11-28T14:02:03.086Z
 
 ## What does The Urantia Book say about Science?
 
-**_Science - One of the Pillars of Civilization_**
+**Science - One of the Pillars of Civilization**
 
 > Civilizations are unstable because they are not cosmic; they are not innate in the individuals of the races. They must be nurtured by the combined contributions of the constitutive factors of man—science, morality, and religion. Civilizations come and go, but science, morality, and religion always survive the crash. [UB 16:9.5](/en/The_Urantia_Book/16#p9_5)
 
-**_The False Science of Materialism_**
+**The False Science of Materialism**
 
 > The false science of materialism would sentence mortal man to become an outcast in the universe. Such partial knowledge is potentially evil; it is knowledge composed of both good and evil. Truth is beautiful because it is both replete and symmetrical. When man searches for truth, he pursues the divinely real. [UB 2:7.4](/en/The_Urantia_Book/2#p7_4)
 
@@ -75,13 +75,13 @@ dateCreated: 2022-11-28T14:02:03.086Z
 
 > "Unless the moral insight and the spiritual attainment of mankind are proportionately augmented, the unlimited advancement of a purely materialistic culture may eventually become a menace to civilization. A purely materialistic science harbors within itself the potential seed of the destruction of all scientific striving, for this very attitude presages the ultimate collapse of a civilization which has abandoned its sense of moral values and has repudiated its spiritual goal of attainment." [UB 132:1.3](/en/The_Urantia_Book/132#p1_3)
 
-**_God in Science_**
+**God in Science**
 
 > In science, God is the First Cause; in religion, the universal and loving Father; in philosophy, the one being who exists by himself, not dependent on any other being for existence but beneficently conferring reality of existence on all things and upon all other beings. But it requires revelation to show that the First Cause of science and the self-existent Unity of philosophy are the God of religion, full of mercy and goodness and pledged to effect the eternal survival of his children on earth. [UB 4:4.7](/en/The_Urantia_Book/4#p4_7)
 
 > Science is a quantitative experience, religion a qualitative experience, as regards man's life on earth. Science deals with phenomena; religion, with origins, values, and goals. To assign _causes_ as an explanation of physical phenomena is to confess ignorance of ultimates and in the end only leads the scientist straight back to the first great cause—the Universal Father of Paradise. [UB 195:6.5](/en/The_Urantia_Book/195#p6_5)
 
-**_Science Facts_**
+**Science Facts**
 
 > The entire science of mathematics, the whole domain of philosophy, the highest physics or chemistry, could not predict or know that the union of two gaseous hydrogen atoms with one gaseous oxygen atom would result in a new and qualitatively superadditive substance—liquid water. The understanding knowledge of this one physiochemical phenomenon should have prevented the development of materialistic philosophy and mechanistic cosmology. [UB 12:9.3](/en/The_Urantia_Book/12#p9_3)
 
@@ -112,27 +112,27 @@ dateCreated: 2022-11-28T14:02:03.086Z
 
 ## What is Evolution?
 
-"...evolution—on Urantia or elsewhere—is always purposeful and never accidental." [UB 65:0.7](/en/The_Urantia_Book/65#p0_7)
+> "...evolution—on Urantia or elsewhere—is always purposeful and never accidental." [UB 65:0.7](/en/The_Urantia_Book/65#p0_7)
 
-Evolution is the rule of human development, but the process itself varies greatly on different worlds. [UB 49:1.4](/en/The_Urantia_Book/49#p1_4)
+> Evolution is the rule of human development, but the process itself varies greatly on different worlds. [UB 49:1.4](/en/The_Urantia_Book/49#p1_4)
 
-The process of planetary evolution is orderly and controlled. The development of higher organisms from lower groupings of life is not accidental. [UB 49:1.7](/en/The_Urantia_Book/49#p1_7)
+> The process of planetary evolution is orderly and controlled. The development of higher organisms from lower groupings of life is not accidental. [UB 49:1.7](/en/The_Urantia_Book/49#p1_7)
 
-Many features of human life afford abundant evidence that the phenomenon of mortal existence was intelligently planned, that organic evolution is not a mere cosmic accident. [UB 65:4.3](/en/The_Urantia_Book/65#p4_3)
+> Many features of human life afford abundant evidence that the phenomenon of mortal existence was intelligently planned, that organic evolution is not a mere cosmic accident. [UB 65:4.3](/en/The_Urantia_Book/65#p4_3)
 
-The process of evolution is still actively and adaptatively in progress on this planet. [UB 65:6.5](/en/The_Urantia_Book/65#p6_5)
+> The process of evolution is still actively and adaptatively in progress on this planet. [UB 65:6.5](/en/The_Urantia_Book/65#p6_5)
 
-The fact of evolution is not a modern discovery; the ancients understood the slow and evolutionary character of human progress. [UB 74:8.5](/en/The_Urantia_Book/74#p8_5)
+> The fact of evolution is not a modern discovery; the ancients understood the slow and evolutionary character of human progress. [UB 74:8.5](/en/The_Urantia_Book/74#p8_5)
 
-Evolution may be slow, but it is terribly effective. [UB 81:1.3](/en/The_Urantia_Book/81#p1_3)
+> Evolution may be slow, but it is terribly effective. [UB 81:1.3](/en/The_Urantia_Book/81#p1_3)
 
-Evolution is a cosmic technique of growth. [UB 100:3.7](/en/The_Urantia_Book/100#p3_7)
+> Evolution is a cosmic technique of growth. [UB 100:3.7](/en/The_Urantia_Book/100#p3_7)
 
-...evolution... is creativity in time. [UB 105:6.5](/en/The_Urantia_Book/105#p6_5)
+> ...evolution... is creativity in time. [UB 105:6.5](/en/The_Urantia_Book/105#p6_5)
 
-Be not discouraged; human evolution is still in progress, and the revelation of God to the world, in and through Jesus, shall not fail. [UB 196:3.33](/en/The_Urantia_Book/196#p3_33)
+> Be not discouraged; human evolution is still in progress, and the revelation of God to the world, in and through Jesus, shall not fail. [UB 196:3.33](/en/The_Urantia_Book/196#p3_33)
 
-Organic evolution is a fact; purposive or progressive evolution is a truth which makes consistent the otherwise contradictory phenomena of the ever-ascending achievements of evolution. The higher any scientist progresses in his chosen science, the more will he abandon the theories of materialistic fact in favor of the cosmic truth of the dominance of the Supreme Mind. Materialism cheapens human life; the gospel of Jesus tremendously enhances and supernally exalts every mortal. Mortal existence must be visualized as consisting in the intriguing and fascinating experience of the realization of the reality of the meeting of the human upreach and the divine and saving downreach. [UB 102:6.10](/en/The_Urantia_Book/102#p6_10)
+> Organic evolution is a fact; purposive or progressive evolution is a truth which makes consistent the otherwise contradictory phenomena of the ever-ascending achievements of evolution. The higher any scientist progresses in his chosen science, the more will he abandon the theories of materialistic fact in favor of the cosmic truth of the dominance of the Supreme Mind. Materialism cheapens human life; the gospel of Jesus tremendously enhances and supernally exalts every mortal. Mortal existence must be visualized as consisting in the intriguing and fascinating experience of the realization of the reality of the meeting of the human upreach and the divine and saving downreach. [UB 102:6.10](/en/The_Urantia_Book/102#p6_10)
 
 
 <br>
