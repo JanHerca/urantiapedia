@@ -34,7 +34,7 @@ But that is not exactly what Jesus said:
 
 Here Jesus is making use of a common saying for teaching purposes. While he did say that this folk saying contained much truth—he did not say that it was factual—he did not present it as an original and persona pronouncement.
 
-> The Master utilizes this saying as illustrative material in his teaching, just as Peter made use of a then current story about the rich man and Lazarus. This story well illustrated certain things which Peter wished to impress upon his hearers, but it does not follow that the apostle meant to accept or endorse all the other theological implications which were to be found in this story. [UB 169:3.0](/en/The_Urantia_Book/169#p3_0)
+The Master utilizes this saying as illustrative material in his teaching, just as Peter made use of a then current story about the rich man and Lazarus. This story well illustrated certain things which Peter wished to impress upon his hearers, but it does not follow that the apostle meant to accept or endorse all the other theological implications which were to be found in this story.
 
 Comparatively speaking, the path to survival may be "straight and narrow" but that does not in any way validate any mathematical computation as to the percentage of mortals who will survive.
 
@@ -109,7 +109,7 @@ It would be unsafe to generalize about mortal survival throughout the grand univ
     
 7. And this same passage goes on to say:
     
-    > "The race for perfection is on! whosoever will may enter, and certain victory will crown the efforts of every human being who will run the race of faith and trust."
+    > "The race for perfection is on! whosoever will may enter, and certain victory will crown the efforts of every human being who will run the race of faith and trust." [UB 32:5.8](/en/The_Urantia_Book/32#p5_8)
     
 8. Let us pay special attention to this passage from Page 447:
     
@@ -117,7 +117,7 @@ It would be unsafe to generalize about mortal survival throughout the grand univ
     
 9. Note the consideration that the universe judges give to mortals of doubtful survival qualities. Ponder this from Page 1233:
     
-    > "If ever there is doubt as to the advisability of advancing a human identity to the mansion worlds, the universe governments invariably rule in the personal interests of that individual; they unhesitatingly advance such a soul to the status of a transitional being, while they continue their observations of the emerging morontia intent and spiritual purpose...This does not mean that human beings are to enjoy a second opportunity in the face of the rejection of a first, not at all. But it does signify that all will creatures are to experience one true opportunity to make one undoubted, self-conscious, and final choice. [UB 112:5.7](/en/The_Urantia_Book/112#p5_7)
+    > "If ever there is doubt as to the advisability of advancing a human identity to the mansion worlds, the universe governments invariably rule in the personal interests of that individual; they unhesitatingly advance such a soul to the status of a transitional being, while they continue their observations of the emerging morontia intent and spiritual purpose...This does not mean that human beings are to enjoy a second opportunity in the face of the rejection of a first, not at all. But it does signify that all will creatures are to experience one true opportunity to make one undoubted, self-conscious, and final choice. [UB 112:5.7,9](/en/The_Urantia_Book/112#p5_7)
     
 10. Let us take another look at the "narrow door" to the kingdom. Note these two passages:
     
@@ -131,7 +131,7 @@ It would be unsafe to generalize about mortal survival throughout the grand univ
     
 12. Two of the twelve apostles—the ambassadors of the kingdom—might not have been regarded as likely candidates for survival by some pessimistic critics.
     
-    > "These twins \[Alpheus\] could not comprehend the mind of Jesus, but they did grasp the sympathetic bond between themselves and the heart of their Master. Their minds were not of a high order; they might even reverently be called stupid, but they had a real experience in their spiritual natures. They believed in Jesus; they were sons of God and fellows of the kingdom." [UB 139:9.6](/en/The_Urantia_Book/139#p9_6) ... and they survived!
+    > "These twins \[Alpheus\] could not comprehend the mind of Jesus, but they did grasp the sympathetic bond between themselves and the heart of their Master. Their minds were not of a high order; they might even reverently be called stupid, but they had a real experience in their spiritual natures. They believed in Jesus; they were sons of God and fellows of the kingdom." [UB 139:10.6](/en/The_Urantia_Book/139#p9_6) ... and they survived!
     
     ... it is the nature of the Sons of God to give every created being a full and equal chance for salvation and survival. Jesus wanted not only the mortals of this world but the onlookers of innumerable other worlds to know that, when doubts exist as to the sincerity and wholeheartedness of a creature’s devotion to the kingdom, it is the invariable practice of the Judges of men fully to receive the doubtful candidate. The door of eternal life is wide open to all; “whosoever will may come”; there are no restrictions or qualifications save the faith of the one who comes. [UB 139:12.7](/en/The_Urantia_Book/139#p12_7)
     

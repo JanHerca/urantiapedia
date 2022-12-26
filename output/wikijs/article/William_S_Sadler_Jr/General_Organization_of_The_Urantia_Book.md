@@ -32,7 +32,7 @@ dateCreated: 2022-11-28T11:12:37.284Z
 | --- | --- |
 | A. History | 1. Beginnings<br> 2. Society<br> 3. Adam<br> 4. Marriage |
 | B. Religion | 1. Evolutionary<br> 2. Melchizedek<br> 3. At Present |
-| C. Deity | 1. Eschatology<br> 2. Ministry<br> 3. Experience
+| C. Deity | 1. Eschatology<br> 2. Ministry<br> 3. Experience |
 
 ## PART IV - The Life and Teachings of Jesus (77 papers)
 
@@ -41,7 +41,7 @@ dateCreated: 2022-11-28T11:12:37.284Z
 | A. Mortal Career | 1. Introduction<br> 2. Growth<br> 3. Joshua the Tutor |
 | B. Public Work (Son of Man) | 1. Baptism<br> 2. Training the Twelve<br> 3. Early Public Work<br> 4. The Crisis |
 | C. Public Work (Son of God) | 1. Transfiguration<br> 2. Later Ministry<br> 3. Final Teachings<br> 4. Betrayal and Death |
-| D. Post-Mortal Career | 1. The Resurrection<br> 2. Morontia Appearances<br> 3. After Jesus Left
+| D. Post-Mortal Career | 1. The Resurrection<br> 2. Morontia Appearances<br> 3. After Jesus Left |
 
 ## Organization of Part I of The Urantia Book -- The Central and Superuniverses
 
