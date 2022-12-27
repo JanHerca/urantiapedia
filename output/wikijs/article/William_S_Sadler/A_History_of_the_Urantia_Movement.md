@@ -319,7 +319,7 @@ On January 25, 1959, the first award under this Constitutional provision was mad
 The reason for demonstrating this The Van Award is recited in the declaration of the award, and reads as follows:
 
 > “The spiritual insight and moral steadfastness which enabled Van to maintain such an unshakable attitude of loyalty to the universe government was the product of clear thinking, wise reasoning, logical judgement, sincere motivation, unselfish purpose, intelligent loyalty, experiential memory, disciplined character, and the unquestioning dedication of his personality to the doing of the will of the Father in Paradise.”
-> 
+
 The conclusion of the award says: “In honor of his many years of devoted and distinguished service in behalf of the Urantia movement.”
 
 ## Distribution Of _The Urantia Book_

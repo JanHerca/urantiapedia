@@ -94,11 +94,13 @@ _The Urantia Book_, [150:5.3](/en/The_Urantia_Book/150#p5_3):
 
 > "Acceptance by faith on your part makes you a partaker of the divine nature, a son or daughter of God. By faith you are justified; by faith are you saved; and by this same faith are you eternally advanced in the way of progressive and divine perfection."
 
-_The Urantia Book_, [102:0.2](/en/The_Urantia_Book/102#p0_2):
+_The Urantia Book_, [102:0.2-3](/en/The_Urantia_Book/102#p0_2):
 
-> "And all this doom of darkness and all this destiny of despair are forever dispelled by one brave stretch of faith on the part of the most humble and unlearned of God's children on earth." "This saving faith has its birth in the human heart when the moral consciousness of man realizes that human values may be translated in mortal experience from the material to the spiritual, from the human to the divine, from time to eternity."
+> "And all this doom of darkness and all this destiny of despair are forever dispelled by one brave stretch of faith on the part of the most humble and unlearned of God's children on earth." 
+> 
+> "This saving faith has its birth in the human heart when the moral consciousness of man realizes that human values may be translated in mortal experience from the material to the spiritual, from the human to the divine, from time to eternity."
 
-And all of this is in full agreement with the New Testament declaration that "the just shall live by faith." ([Heb. 10:38](/en/Bible/Hebrews/10#v38); [Gal. 3:11](/en/Bible/3#v11).)
+And all of this is in full agreement with the New Testament declaration that "the just shall live by faith." ([Heb. 10:38](/en/Bible/Hebrews/10#v38); [Gal. 3:11](/en/Bible/Galatians/3#v11).)
 
 ### 3. Criticism: There seems to be nothing new or original about the cosmology, and to me it seems to be rather mechanical.
 
@@ -106,13 +108,13 @@ The cosmology of _The Urantia Book_ is not only unique and original, but it is
 
 And now about the assertion that the Urantia cosmology is mechanical. Let the book speak for itself.
 
-Yes, we have marvelous energy mechanisms in the universe but they are living mechanisms. See Papers [29:3.12](/en/The_Urantia_Book/29#p3_12), [29:4.38](/en/The_Urantia_Book/29#p4_38), [29:5.5](/en/The_Urantia_Book/29#p5_5). [42:11.1](/en/The_Urantia_Book/42#p11_1):
+Yes, we have marvelous energy mechanisms in the universe but they are living mechanisms. See Papers [29:3.12](/en/The_Urantia_Book/29#p3_12), [29:4.38](/en/The_Urantia_Book/29#p4_38), [29:5.5](/en/The_Urantia_Book/29#p5_5). [42:11.1-2](/en/The_Urantia_Book/42#p11_1):
 
 > "In the evaluation and recognition of mind it should be remembered that the universe is neither mechanical nor magical; it is a creation of mind and a mechanism of law. But while in practical application the laws of nature operate in what seems to be the dual realms of the physical and spiritual, in reality they are one. The First Source and Center is the primal cause of all materialization and at the same time the first and final Father of all spirits. The Paradise Father appears personally in the extra- Havona universes only as pure energy and pure spirit—as the Thought Adjusters and other similar fragmentations."
 > 
 > "Mechanisms do not absolutely dominate the total creation; the universe of universes in toto is mind planned, mind made, and mind administered. But the divine mechanism of the universe of universes is altogether too perfect for the scientific methods of the finite mind of man to discern even a trace of the dominance of the infinite mind. For this creating, controlling, and up-holding mind is neither material mind nor creature mind; it is spirit-mind functioning on and from creator levels of divine reality."
 
-_The Urantia Book_, [42:11.3](/en/The_Urantia_Book/42#p11_3):
+_The Urantia Book_, [42:11.3,7-8](/en/The_Urantia_Book/42#p11_3):
 
 > "The ability to discern and discover mind in universe mechanisms depends entirely on the ability, scope, and capacity of the investigating mind engaged in such a task of observation. Time- space minds, organized out of the energies of time and space, are subject to the mechanisms of time and space."
 > 
@@ -126,7 +128,7 @@ _The Urantia Book_, [42:12.14](/en/The_Urantia_Book/42#p12_14):
 > 
 > "Mind universally dominates matter, even as it is in turn responsive to the ultimate overcontrol of spirit. And with mortal man, only that mind which freely submits itself to the spirit direction can hope to survive the mortal time-space existence as an immortal child of the eternal spirit world of the Supreme, the Ultimate, and the Absolute: the Infinite."
 
-_The Urantia Book_, [118:9.4](/en/The_Urantia_Book/118#p9_4):
+_The Urantia Book_, [118:9.4-7](/en/The_Urantia_Book/118#p9_4):
 
 > "The grand universe is mechanism as well as organism, mechanical and living—a living mechanism activated by a Supreme Mind, coordinating with a Supreme Spirit, and finding expression on maximum levels of power and personality unification as the Supreme Being."
 > 
@@ -140,7 +142,7 @@ _The Urantia Book_, [118:10.6](/en/The_Urantia_Book/118#p10_6):
 
 > "Nevertheless, the Father as a person may at any time interpose a fatherly hand in the stream of cosmic events all in accordance with the will of God and in consonance with the wisdom of God and as motivated by the love of God."
 
-_The Urantia Book_, [195:6.13](/en/The_Urantia_Book/195#p6_13):
+_The Urantia Book_, [195:6.13-14](/en/The_Urantia_Book/195#p6_13):
 
 > "If men were only machines, they would react more or less uniformly to a material universe. Individuality, much less personality, would be nonexistent."
 > 
@@ -152,7 +154,7 @@ _The Urantia Book_, [195:6.15](/en/The_Urantia_Book/195#p6_15):
 > 
 > "The inconsistency of the modern mechanist is: If this were merely a material universe and man only a machine, such a man would be wholly unable to recognize himself as such a machine, and likewise would such a machine-man be wholly unconscious of the fact of the existence of such a material universe The materialistic dismay and despair of a mechanistic science has failed to recognize the fact of the spirit-indwelt mind of the scientist whose very super- material insight formulates these mistaken and self-contradictory concepts of a materialistic universe ."
 
-_The Urantia Book_, [195:7.6](/en/The_Urantia_Book/195#p7_6):
+_The Urantia Book_, [195:7.6,11-13](/en/The_Urantia_Book/195#p7_6):
 
 > "If this were only a material universe, material man would never be able to arrive at the concept of the mechanistic character of such an exclusively material existence. This very mechanistic concept of the universe is in itself a nonmaterial phenomenon of the mind, and all mind is of nonmaterial origin, no matter how thoroughly it may appear to be materially conditioned and mechanistically controlled."
 > 
@@ -269,9 +271,7 @@ Concerning the paradise ascension, read on [34:7.8](/en/The_Urantia_Book/34#p7_8
 
 Read at Paper [108:6.8](/en/The_Urantia_Book/108#p6_8):
 
-> "You humans have begun an endless unfolding of an almost infinite panorama, a limitless expanding of never-ending, ever-widening spheres of opportunity for exhilarating service, matchless adventure, sublime uncertainty, and boundless attainment."
-> 
-> "When the clouds gather overhead, your faith should accept the fact of the presence of the indwelling Adjuster, and thus you should be able to look beyond the mists of mortal uncertainty into the clear shining of the sun of eternal righteousness on the beckoning heights of the mansion worlds of Satania."
+> "You humans have begun an endless unfolding of an almost infinite panorama, a limitless expanding of never-ending, ever-widening spheres of opportunity for exhilarating service, matchless adventure, sublime uncertainty, and boundless attainment. When the clouds gather overhead, your faith should accept the fact of the presence of the indwelling Adjuster, and thus you should be able to look beyond the mists of mortal uncertainty into the clear shining of the sun of eternal righteousness on the beckoning heights of the mansion worlds of Satania."
 
 And all of this is also good New Testament teaching. Read [I John 5:4](/en/Bible/1_John/5#v4):
 
@@ -279,7 +279,7 @@ And all of this is also good New Testament teaching. Read [I John 5:4](/en/Bible
 
 In _The Urantia Book_ the doctrines of sin and salvation make sense. They are consistent with our knowledge of science (psychology) on the one hand and the teachings of Jesus on the other.
 
-The Urantia Papers deny both original sin and universal and unconditioned salvation. To be sure, we have "all sinned and come short of the glory of God." [Rom. 3:23](/en/Bible/3#v23). But only those who choose survival will go on to find God and become more and more like him. 
+The Urantia Papers deny both original sin and universal and unconditioned salvation. To be sure, we have "all sinned and come short of the glory of God." [Rom. 3:23](/en/Bible/Romans/3#v23). But only those who choose survival will go on to find God and become more and more like him. 
 
 ### 7. Criticism: The goal of salvation represents a prolonged scheme of training and even then is indefinite and uncertain.
 
@@ -383,9 +383,7 @@ Remember, it is not the purpose of _The Urantia Book_ to start a new church. T
 
 The mission of the book is well told on [196:1.2](/en/The_Urantia_Book/196#p1_2):
 
-> "The time is ripe to witness the figurative resurrection of the human Jesus from his burial tomb amidst the theological traditions and the religious dogmas of nineteen centuries. Jesus of Nazareth must not be longer sacrificed to even the splendid concept of the glorified Christ. What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions! Surely the Christian fellowship of believers will not hesitate to make such adjustments of faith—and of practices of living as will enable it to ' follow after' the Master in the demonstration of his real life of religious devotion to the doing of his father's will and of consecration to the unselfish service of man.
-> 
-> "Do professed Christians fear the exposure of a self-sufficient and un-consecrated fellowship of social respectability and selfish economic maladjustment? Does institutional Christianity fear the possible jeopardy or even the overthrow, of ecclesiastical authority if the Jesus of Galilee is reinstated in the minds and souls of mortal men as the ideal of personal religious living? Indeed, the social readjustments, the economic transformations, the moral rejuvenation's, and the religious revisions of Christian civilization would be drastic and revolutionary if the living religion of Jesus should suddenly supplant the theologic religion about Jesus."
+> "The time is ripe to witness the figurative resurrection of the human Jesus from his burial tomb amidst the theological traditions and the religious dogmas of nineteen centuries. Jesus of Nazareth must not be longer sacrificed to even the splendid concept of the glorified Christ. What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions! Surely the Christian fellowship of believers will not hesitate to make such adjustments of faith—and of practices of living as will enable it to ' follow after' the Master in the demonstration of his real life of religious devotion to the doing of his father's will and of consecration to the unselfish service of man. Do professed Christians fear the exposure of a self-sufficient and un-consecrated fellowship of social respectability and selfish economic maladjustment? Does institutional Christianity fear the possible jeopardy or even the overthrow, of ecclesiastical authority if the Jesus of Galilee is reinstated in the minds and souls of mortal men as the ideal of personal religious living? Indeed, the social readjustments, the economic transformations, the moral rejuvenation's, and the religious revisions of Christian civilization would be drastic and revolutionary if the living religion of Jesus should suddenly supplant the theologic religion about Jesus."
 
 ### 13. Criticism _The Urantia Book_ takes away the centrality of Christ in the Christian faith. While _The Urantia Book_ places God at the center of the master universe, as well as at the center of the Christian faith, the bestowal Son shares this place with his Father.
 
@@ -413,9 +411,11 @@ _The Urantia Book_ recognizes the supremacy of Christ in all things religious, 
 
 ### 14. Criticism: As regards science, this book is dated. It presents a very good picture of the way we looked at the cosmos many years ago.
 
-On the whole, I think this is a valid criticism of _The Urantia Book_. Let me read from _The Urantia Book_, [101:4.1](/en/The_Urantia_Book/101#p4_1). "Because your world is generally ignorant of origins, even of physical origins, it has appeared to be wise from time to time to provide instruction in cosmology. And always has this made trouble for the future. The laws of revelation hamper us greatly by their proscription of the impartation of unearned or premature knowledge. Any cosmology presented as a part of revealed religion is destined to be outgrown in a very short time. Accordingly, future students of such a revelation are tempted to discard any element of genuine religious truth it may contain because they discover errors on the face of the associated cosmologies therein presented.
+On the whole, I think this is a valid criticism of _The Urantia Book_. Let me read from _The Urantia Book_, [101:4.1-2](/en/The_Urantia_Book/101#p4_1). 
 
-"Mankind should understand that we who participate in the revelation of truth are very rigorously limited by the instructions of our superiors. We are not at liberty to anticipate the scientific discoveries of a thousand years. Revelators must act in accordance with the instructions which form a part of the revelation mandate. We see no way of overcoming this difficulty, either now or at any future time. We full well know that, while the historic facts and religious truths of this series of revelatory presentations will stand on the records of the ages to come, within a few short years, many of our statements regarding the physical sciences will stand in need of revision in consequence of additional scientific developments and new discoveries. These new developments we even now foresee, but we are forbidden to include such humanly undiscovered facts in the revelatory records. Let it be made clear that revelations are not necessarily inspired. The cosmology of these revelations is not inspired. It is limited by our permission for the coordination and sorting of present-day knowledge. While divine or spiritual insight is a gift, human wisdom must evolve."
+> "Because your world is generally ignorant of origins, even of physical origins, it has appeared to be wise from time to time to provide instruction in cosmology. And always has this made trouble for the future. The laws of revelation hamper us greatly by their proscription of the impartation of unearned or premature knowledge. Any cosmology presented as a part of revealed religion is destined to be outgrown in a very short time. Accordingly, future students of such a revelation are tempted to discard any element of genuine religious truth it may contain because they discover errors on the face of the associated cosmologies therein presented."
+> 
+> "Mankind should understand that we who participate in the revelation of truth are very rigorously limited by the instructions of our superiors. We are not at liberty to anticipate the scientific discoveries of a thousand years. Revelators must act in accordance with the instructions which form a part of the revelation mandate. We see no way of overcoming this difficulty, either now or at any future time. We full well know that, while the historic facts and religious truths of this series of revelatory presentations will stand on the records of the ages to come, within a few short years, many of our statements regarding the physical sciences will stand in need of revision in consequence of additional scientific developments and new discoveries. These new developments we even now foresee, but we are forbidden to include such humanly undiscovered facts in the revelatory records. Let it be made clear that revelations are not necessarily inspired. The cosmology of these revelations is not inspired. It is limited by our permission for the coordination and sorting of present-day knowledge. While divine or spiritual insight is a gift, human wisdom must evolve."
 
 The science of the Urantia Papers bears the closing date of A.D. 1934. Even if it is now regarded as ten years out of date, it was 15 or 20 years ahead of the times when first presented to us. But even now, the fact of the ultimaton has not yet been discovered, even though there have been several hints along this line in the scientific papers of the last few years. 
 
