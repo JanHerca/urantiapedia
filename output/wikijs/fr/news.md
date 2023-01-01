@@ -12,6 +12,7 @@ dateCreated: 2022 News-07-03T14:02:03.086Z
 
 ## 2022
 
+- [Un an de recul — 2022](/fr/news/2022/12)
 - [Nouvelles novembre 2022](/fr/news/2022/11)
 - [Nouvelles Octobre 2022](/fr/news/2022/10)
 - [Nouvelles Septembre 2022](/fr/news/2022/09)
