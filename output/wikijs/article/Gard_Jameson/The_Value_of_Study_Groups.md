@@ -36,7 +36,7 @@ Study groups grow by the power of good will and intelligent organization which m
 
 ## Setting Up a Study Group
 
-Before even thinking about a group, make sure the purpose of your group is to study _The Urantia Book_. The purpose of a study group should be to study, socialize, expand personal insights, avoid isolation of religious experience and interpretation, and provide an arena for interpersonal contact and moral decision making. A study group facilitates the wonderful experience of learning how to work cooperatively as a team. "One of the most important lessons to be learned during your mortal career is _teamwork_." (312.1) 28:5.
+Before even thinking about a group, make sure the purpose of your group is to study _The Urantia Book_. The purpose of a study group should be to study, socialize, expand personal insights, avoid isolation of religious experience and interpretation, and provide an arena for interpersonal contact and moral decision making. A study group facilitates the wonderful experience of learning how to work cooperatively as a team. "One of the most important lessons to be learned during your mortal career is _teamwork_." [UB 28:5.14](/en/The_Urantia_Book/28#p5_14)
 
 1\. _Making contact with potential group members_.
 
@@ -130,9 +130,7 @@ If a group has only two roles, leader and follower, and two are leaders and ther
 
 Groups oppose irregularity, ethical or otherwise.
 
-A crisis may be precipitated internally in a group by an individual who suddenly expresses concern for the group and brings the condition to the attention of all, calling for a change. An external crisis may be precipitated by competition or challenge from other groups. A crisis may or may not lead to renewal. The ultimate effect of any crisis will depend on the ability of the group leaders to utilize the lever of crisis for positive change.\*
-
-_\*THE STRUCTURE AND DYNAMICS OF ORGANIZATIONS AND GROUPS_, by Eric Berne, (New York: Grove Press, 1963)
+A crisis may be precipitated internally in a group by an individual who suddenly expresses concern for the group and brings the condition to the attention of all, calling for a change. An external crisis may be precipitated by competition or challenge from other groups. A crisis may or may not lead to renewal. The ultimate effect of any crisis will depend on the ability of the group leaders to utilize the lever of crisis for positive change.[^1]
 
 ## Dealing with Conflict
 
@@ -211,7 +209,7 @@ We live in an age of partial illiteracy, superficial reading, and speed reading.
 
 > "Let the sublime knowledge of the mortal life of Jesus of Nazareth sink in to your souls . . . . [UB 20:6.1](/en/The_Urantia_Book/20#p6_1)
 
-> In reading the scriptures of the world, we are to "look for those eternally true and divinely beautiful teachings." [UB 159:5.1](/en/The_Urantia_Book/159#p5_1)
+In reading the scriptures of the world, we are to "look for those eternally true and divinely beautiful teachings." [UB 159:5.1](/en/The_Urantia_Book/159#p5_1)
 
 Why study parts of the book that describe realities remote from human experience?
 
@@ -282,3 +280,7 @@ All who enter into study of this revelation with each other enter into close con
 
 Study obtained from:
 - https://www.urantia.org/study/value-study-groups
+
+## Notes
+
+[^1]: _The Structure and Dynamics of Organizations and Groups_, by Eric Berne, (New York: Grove Press, 1963)

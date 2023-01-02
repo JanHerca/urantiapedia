@@ -35,8 +35,8 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Other
 
-| Status                | Title                                                                                                                                                     | Author                   | Tags                                        |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | ------------------------------------------- |
+| Status                  | Title                                                                                                                                                     | Author                   | Tags                                        |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | ------------------------------------------- |
 | :ballot_box_with_check: | [FAQ - Frequently asked questions about The Urantia Book](/en/article/FAQ)                                                                                |                          | [The Urantia Book](/t/the%20urantia%20book) |
 | :ballot_box_with_check: | [Guide to Pronunciation of Names and Words in The Urantia Book](/en/article/Guide_of_Pronunciation)                                                       |                          |                                             |
 | :ballot_box_with_check: | [How The Urantia Papers came to be - according to The Revelators](/en/article/Ralph_Zehr/How_The_Urantia_Papers_came_to_be)                               | Compiled by Ralph Zehr   |                                             |
@@ -44,3 +44,4 @@ dateCreated: 2021-11-28T14:02:03.086Z
 | :ballot_box_with_check: | [A Strategy and Practice for In-depth Study Groups of The Urantia Book](/en/article/Georges_Michelson_Dupont/Strategy_Practice_for_In_depth_Study_Groups) | Georges Michelson-Dupont |                                             |
 | :ballot_box_with_check: | [The Value of Study Groups](/en/article/Gard_Jameson/The_Value_of_Study_Groups)                                                                           | Gard Jameson             |                                             |
 | :ballot_box_with_check: | [The Unceasing Campaign of the Master Seraphim](/en/article/Neal_Waldrop/Unceasing_campaign_of_master_seraphim)                                           | Neal Waldrop             |                                             |
+| :ballot_box_with_check: | [How to Host a Virtual Study Group Using Skype](/fr/article/Michael_Hanian/How_to_Host_a_Virtual_Study_Group_Using_Skype)                                 | Michael Hanian           |                                             |

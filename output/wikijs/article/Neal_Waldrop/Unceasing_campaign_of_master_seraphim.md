@@ -10,7 +10,7 @@ dateCreated: 2022-11-28T14:02:03.086Z
 
 Author: **Neal Waldrop**
 March 22, 2011 Derwood, Maryland, U.S.A.
-  
+
 
 > [UB 114:6.1](/en/The_Urantia_Book/114#p6_1) "The master seraphim of planetary supervision"
 
@@ -162,7 +162,7 @@ Throughout _The Urantia Book_, the authors treat situations that involve a range
 
 > The Universal Father has an eternal purpose pertaining to the material, intellectual, and spiritual phenomena of the universe of universes, which he is executing throughout all time. God created the universes of his own free and sovereign will, and he created them in accordance with his all-wise and eternal purpose. It is doubtful whether anyone except the Paradise Deities and their highest associates really knows very much about the eternal purpose of God. Even the exalted citizens of Paradise hold very diverse opinions about the nature of the eternal purpose of the Deities. _A Divine Counselor_, [UB 4:0.1](/en/The_Urantia_Book/4#p0_1)
 
-> The Unqualified Absolute is functionally limited to space, but we are not so sure about the relation of this Absolute to motion. Is motion inherent therein? We do not know. We know that motion is not inherent in space; even the motions of space are not innate. But we are not so sure about the relation of the Unqualified to motion. Who, or what, is really responsible for the gigantic activities of force-energy transmutations now in progress out beyond the borders of the present seven superuniverses? Concerning the origin of motion we have the following opinions: 1. We think the Conjoint Actor initiates motion in space. 2. If the Conjoint Actor produces the motions of space, we cannot prove it. 3. The Universal Absolute does not originate initial motion but does equalize and control all of the tensions originated by motion. _A Perfector of Wisdom_, [[UB 12:4.2-5](/en/The_Urantia_Book/12#p4_2)
+> The Unqualified Absolute is functionally limited to space, but we are not so sure about the relation of this Absolute to motion. Is motion inherent therein? We do not know. We know that motion is not inherent in space; even the motions of space are not innate. But we are not so sure about the relation of the Unqualified to motion. Who, or what, is really responsible for the gigantic activities of force-energy transmutations now in progress out beyond the borders of the present seven superuniverses? Concerning the origin of motion we have the following opinions: 1. We think the Conjoint Actor initiates motion in space. 2. If the Conjoint Actor produces the motions of space, we cannot prove it. 3. The Universal Absolute does not originate initial motion but does equalize and control all of the tensions originated by motion. _A Perfector of Wisdom_, [UB 12:4.2-5](/en/The_Urantia_Book/12#p4_2)
 
 > The higher a creature’s education, the more respect he has for the knowledge, experience, and opinions of others. _One High in Authority_, [UB 25:3.12](/en/The_Urantia_Book/25#p3_12)
 
