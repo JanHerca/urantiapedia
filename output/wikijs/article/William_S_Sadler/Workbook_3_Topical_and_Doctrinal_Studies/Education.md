@@ -1,5 +1,5 @@
 ---
-title: "Workbook III — Topical and Doctrinal Studies — Christology"
+title: "Workbook III — Topical and Doctrinal Studies — Education"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Angels">Angels</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Angels">Christology</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Education">Education</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Evil_and_Sin">Evil and Sin</a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -44,9 +44,9 @@ Author: **William S. Sadler**
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Angels">Angels</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Angels">Christology</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Education">Education</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Evil_and_Sin">Evil and Sin</a></td>
 		</tr>
 		</tbody>
 	</table>

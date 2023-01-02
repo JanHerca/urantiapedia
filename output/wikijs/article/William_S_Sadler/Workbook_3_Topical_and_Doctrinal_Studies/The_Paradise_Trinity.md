@@ -101,4 +101,4 @@ The incarnate bestowal of the Paradise Sons upon the mortal races is a project o
 		</tr>
 		</tbody>
 	</table>
-</figure
+</figure>
