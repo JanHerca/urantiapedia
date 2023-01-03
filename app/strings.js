@@ -767,6 +767,10 @@ const Strings = {
 		en: "Settings",
 		es: "Configuración"
 	},
+	"lblSearch": {
+		en: "Search",
+		es: "Buscar"
+	},
 	"lblTheme": {
 		en: "Theme:",
 		es: "Tema:"
@@ -934,6 +938,22 @@ const Strings = {
 	"lblTIFilterErrors": {
 		en: "With errors",
 		es: "Con errores"
+	},
+	"btnSearch": {
+		en: "Search",
+		es: "Buscar"
+	},
+	"btnSearch_loading": {
+		en: "Loading...",
+		es: "Cargando..."
+	},
+	"strSelectFile": {
+		en: "Select file",
+		es: "Selecciona fichero"
+	},
+	"strSelectFolder": {
+		en: "Select folder",
+		es: "Selecciona carpeta"
 	},
 	"book_wrong_reference": {
 		en: "UB reference {0} is wrong or not exists",

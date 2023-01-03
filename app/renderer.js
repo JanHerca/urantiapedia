@@ -30,7 +30,7 @@ const createBookParsFn = pug.compileFile(
 	path.join(app.getAppPath(), 'app', 'templates', 'bookpars.pug'));
 
 const store = new Store();
-
+//Instances for Processes
 const book = new Book();
 const paramony = new Paramony();
 const paralells = new Paralells();
@@ -44,7 +44,10 @@ const mapCatalog = new MapCatalog();
 const editAliasDialog = new DialogEditAlias();
 const editRefsDialog = new DialogEditRefs();
 const editSeeAlsosDialog = new DialogEditSeeAlsos();
-
+//Instances for Search
+const bookSearch = new Book();
+const bookSearch2 = new Book();
+//Instances for Topic Editor
 const topicindexEdit = new TopicIndex();
 const topicindexEdit2 = new TopicIndex();
 const topicindexEditEN = new TopicIndex();
@@ -54,6 +57,7 @@ const bookEdit2 = new Book();
 const controls = {
 	//Main
 	btnLogo: '', lblProccesses: '', lblTopicIndex: '', lblSettings: '',
+		lblSearch: '',
 	//Processes
 	lblHTextbox: '', dirHTextbox: '', dirHButton: '', 
 	lblTTextbox: '', dirTTextbox: '', dirTButton: '', 
@@ -66,6 +70,16 @@ const controls = {
 	lblProcess: '', drpProcess: '', 
 	exeButton: '', logArea: '', collapseButton: '', progress: '', 
 	chkMergeLabel: '', chkMerge: '', 
+	//Search
+	lblSearchOldRefs: '', txtSearchOldRefs: '', 
+	lblSearchNewRefs: '', txtSearchNewRefs: '',
+	lblSearchText: '', txtSearchText: '',
+	lblSearchFile: '', fnSearch: '', fnSearchButton: '',
+	lblSearchFolder: '', dirSearch: '', dirSearchButton: '',
+	btnSearch: '', spinSearchLoading: '', igrSearch: '',
+	lblSearchLan: '', drpSearchLan: '',
+	lblSearchSecondLan: '', drpSearchSecondLan: '', 
+	lbxSearchResultLan: '',
 	//Topic index editor
 	lblTICategories: '', drpTICategories: '', 
 	spinTILoading: '', lbxTITopics: '', btnTILoadTopics: '', igrTILoadTopics: '', 
@@ -101,6 +115,8 @@ const logInfos = [];
 
 const collapsableControls = ['dirHTextbox', 'dirTTextbox', 'dirLTextbox', 
 	'dirJTextbox', 'dirWTextbox', 'chkMerge', 'drpCategories', 'drpLetters'];
+const languageControls = ['drpLanguage', 'drpTILanguage1', 'drpTILanguage2',
+	'drpSearchLan', 'drpSearchSecondLan'];
 const topicTypes = ['PERSON', 'PLACE', 'ORDER', 'RACE', 'RELIGION', 'OTHER'];
 const topicFilters = ['ALL', ...topicTypes];
 
@@ -115,16 +131,21 @@ let topicEditing = null;
 let filelineEditing = null;
 let changed = false;
 
+//Strings
+let strSelectFolder = 'Select folder';
+let strSelectFile = 'Select file';
+
 //TODO: Convert all the app from imperative paradigm to declarative paradigm
 //https://itnext.io/electron-application-with-vue-js-and-vuetify-f2a1f9c749b8
 
 const onLoad = () => {
 	Object.keys(controls).forEach(id => controls[id] = document.querySelector('#' + id));
 
-	//Fill Book language dropdown
+	//Fill language dropdowns
 	//TODO: For languages in drpTILanguageX set them as disabled if no TI exists
-	[controls.drpLanguage, controls.drpTILanguage1, controls.drpTILanguage2]
-		.forEach(c => {
+	languageControls
+		.forEach(name => {
+			const c = controls[name];
 			c.innerHTML = Object.keys(Strings['bookLanguages']).map(key => {
 				const desc = Strings['bookLanguages'][key];
 				const sel = (lan == key ? ' selected' : '');
@@ -167,6 +188,10 @@ const onLoad = () => {
 	controls.drpLanguage.addEventListener('change', handle_drpLanguageChange);
 	controls.drpProcess.addEventListener('change', handle_drpProcessChange);
 	controls.drpTopics.addEventListener('change', handle_drpTopicsChange);
+	//Search
+	controls.fnSearchButton.addEventListener('click', handle_fnSearchButton);
+	controls.dirSearchButton.addEventListener('click', handle_dirSearchButton);
+	controls.igrSearch.addEventListener('click', handle_igrSearchClick);
 	//Topic Index Editor
 	controls.drpTILanguage1.addEventListener('change', handle_drpTILanguage1Change);
 	controls.drpTILanguage2.addEventListener('change', handle_drpTILanguage2Change);
@@ -260,6 +285,9 @@ const updateUI = () => {
 			control.setAttribute('placeholder', text);
 		}
 	});
+
+	strSelectFolder = Strings['strSelectFolder'][uilan];
+	strSelectFile = Strings['strSelectFile'][uilan];
 };
 
 // -----------------------------------------------------------------------------
@@ -291,7 +319,7 @@ const updateDefaultPaths = () => {
 
 const handle_dirButtonClick = (textbox) => {
 	dialog.showOpenDialog({
-		title: 'Selecciona una carpeta',
+		title: strSelectFolder,
 		properties: ['openDirectory']
 	}).then(result => {
 		if (!result.canceled && result.filePaths) {
@@ -909,6 +937,139 @@ const getListOfAllIndexes = (dirPath) => {
 				.then(resolve, reject);
 		});
 	});
+};
+
+// -----------------------------------------------------------------------------
+// Search
+// -----------------------------------------------------------------------------
+
+const handle_fnSearchButton = (evt) => {
+	dialog.showOpenDialog({
+		title: strSelectFile,
+		properties: ['openFile'],
+		filters: [
+			{name: 'HTML', extensions: ['html']}, 
+			{name: 'Markdown', extensions: ['md']}]
+	}).then(result => {
+		if (!result.canceled && result.filePaths) {
+			const dirPath = result.filePaths[0];
+			fnSearch.value = dirPath;
+		}
+	});
+};
+
+const handle_dirSearchButton = (evt) => {
+	dialog.showOpenDialog({
+		title: strSelectFolder,
+		properties: ['openDirectory']
+	}).then(result => {
+		if (!result.canceled && result.filePaths) {
+			const dirPath = result.filePaths[0];
+			dirSearch.value = dirPath;
+		}
+	});
+};
+
+const handle_igrSearchClick = (evt) => {
+	loadSearchBooks();
+	evt.preventDefault();
+};
+
+const loadSearchBooks = () => {
+	const lan1 = controls.drpSearchLan.value;
+	const lan2 = controls.drpSearchSecondLan.value;
+	const root = app.getAppPath();
+	const dirBook1 = path.join(root, 'input', 'json', `book-${lan1}`);
+	const dirBook2 = path.join(root, 'input', 'json', `book-${lan2}`);
+	const load1 = (bookSearch.language != lan1 || 
+		bookSearch.papers.length == 0);
+	const load2 = (bookSearch2.language != lan2 || 
+		bookSearch2.papers.length == 0);
+
+	setSearchLoading(true);
+
+	if (load1) {
+		bookSearch.setLanguage(lan1);
+	}
+	if (load2) {
+		bookSearch2.setLanguage(lan2);
+	}
+	const promises = [
+		(load1 ? bookSearch.readFromJSON(dirBook1) : Promise.resolve(true)),
+		(load2 ? bookSearch2.readFromJSON(dirBook2) : Promise.resolve(true))
+	];
+	Promise.all(promises)
+		.then(() => {
+			executeSearch();
+			setSearchLoading(false);
+		})
+		.catch((errs) => {
+			//onSearchFail(errs);
+			setSearchLoading(false);
+		});
+};
+
+const executeSearch = () => {
+	//TODO: Use old refs
+	//TODO: Use text to filter
+	//TODO: Use file (this adds to existing old refs or new refs but ignores text)
+	//TODO: Use folder (same as file): we need to add here a separator with filename
+	const oldRefs = controls.txtSearchOldRefs.value
+		.split(';').map(s => s.trim());
+	const newRefs = controls.txtSearchNewRefs.value
+		.split(';').map(s => s.trim());
+	const fnGetPars = (r1, r2, r) => {
+		const errs1 = [], errs2 = [];
+		let par1 = bookSearch.toParInHTML(r1, errs1);
+		const par1Plain = bookSearch.toParInPlainText(r1, []);
+		let par2 = bookSearch2.toParInHTML(r2, errs2);
+		const par2Plain = bookSearch2.toParInPlainText(r2, []);
+		const ref1 = (r1 ? ` [${r1[0]}:${r1[1]}.${r1[2]}]` : 
+			(errs1.join(';') + ': [' + r + ']'));
+		const ref2 = (r2 ? ` [${r2[0]}:${r2[1]}.${r2[2]}]` : 
+			(errs2.join(';') + ': [' + r + ']'));
+		return createBookParsFn({
+			errclass: (r1 == null || r2 == null ? 
+				['alert', 'alert-danger', 'mb-0', 'py-0'] : []),
+			pars: [par1, par2],
+			refs: [ref1, ref2],
+			similars: [par1Plain, par2Plain]
+		});
+	};
+	const newRefs1 = bookSearch.getArrayOfRefs(newRefs);
+	const newRefs2 = bookSearch2.getArrayOfRefs(newRefs);
+	
+	// if (oldRefs.length > 0) {
+	// 	oldRefs.map(ref => bookSearch.getArrayOfRefs([ref]));
+	// }
+
+	if (newRefs.length > 0) {
+		//Unhandle
+		$(controls.lbxSearchResultLan).find('button').off('click');
+
+		//Fill listbox
+		controls.lbxSearchResultLan.innerHTML = newRefs.map((r, i) => {
+			return fnGetPars(newRefs1[i], newRefs2[i], r);
+		}).join('');
+
+		//Handle
+		$(controls.lbxSearchResultLan).find('button').on('click', function(evt) {
+			const text = $(evt.currentTarget).attr('data-text');
+			clipboard.writeText(text);
+			evt.stopPropagation();
+		});
+	}
+
+
+};
+
+const setSearchLoading = (loading) => {
+	const uilan = settings.language;
+	$(controls.spinSearchLoading).toggleClass('d-none', !loading);
+	const t = (loading ? 'btnSearch_loading' : 'btnSearch');
+	$(controls.btnSearch).text(Strings[t][uilan]);
+	$(controls.igrSearch).find('button').attr('disabled', 
+		loading ? 'disabled' : null);
 };
 
 // -----------------------------------------------------------------------------

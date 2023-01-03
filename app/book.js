@@ -209,6 +209,50 @@ class Book {
 	};
 
 	/**
+	 * Returns an array of arrays with three values [paper_id, section_id, par_id]
+	 * with all paragraphs included in the old references.
+	 * For example: '1390.1' returns [[126,3,6]].
+	 * For example: '1501' returns [[135,5,6], [135,5,7], [135,5,8], [135,6,1], [135,6,2]]
+	 * Checks if reference exist. References that fail are returned as nulls.
+	 * References are not duplicated.
+	 * @param {string[]} refs UB old references.
+	 * @return {Array.<number[]>}
+	 */
+	getArrayOfRefsFromOldRefs = (refs) => {
+		const result = [];
+		const strRefs = [];
+		const strRefs2 = [];
+		refs.forEach(ref => {
+			const data = ref.split(':').map(d => parseInt(d));
+			const invalid = (data.find(d => isNaN(d)) != null);
+			let str;
+			if (invalid || data.length == 0) {
+				result.push(null);
+			} else {
+				str = data[0].toString() + '.' + (data.length === 1 ? '' :
+					data[1].toString());
+				if (strRefs.indexOf(str) === -1) {
+					strRefs.push(str);
+				}
+			}
+		});
+		this.papers.forEach(paper => {
+			paper.sections.forEach(section => {
+				section.pars.forEach(par => {
+					const pref = par.par_ref;
+					const ref = par.par_pageref;
+					const index = strRefs.findIndex(r => ref.startsWith(r));
+					if (index != -1 && strRefs2.indexOf(par.par_ref) == -1) {
+						strRefs2.push(par.par_ref);
+						result.push(this.getRef(par.par_ref));
+					}
+				});
+			});
+		});
+		return result;
+	};
+
+	/**
 	 * Returns footnotes that contain a giving paragraph from `The Urantia Book`.
 	 * @param {string} lu_ref Reference to `The Urantia Book`.
 	 * @return {Array}
