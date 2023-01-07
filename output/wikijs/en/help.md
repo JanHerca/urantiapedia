@@ -18,6 +18,7 @@ This is the main index for documentation on Urantiapedia itself. Please read car
   5. [Languages supported](/en/help/languages)
   6. [Current Status](/en/help/status)
   7. [Websites for references](/en/help/websites)
+  8. [Urantiapedia links](/en/help/links)
 - About roles
   1. [Collaborator profiles](/en/help/roles)
   2. [Administrators help](/en/help/admin)

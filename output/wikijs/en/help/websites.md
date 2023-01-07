@@ -14,7 +14,7 @@ dateCreated: 2022-12-18T14:02:03.086Z
       <tr>
         <td><a href="/en/help/status">Current progress of the project</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/roles">Collaborators profiles</a></td>
+        <td><a href="/en/help/links">Urantiapedia links</a></td>
       </tr>
     </tbody>
   </table>
@@ -136,7 +136,7 @@ In the list below we indicate the catalog of websites whose outstanding contents
       <tr>
         <td><a href="/en/help/status">Current progress of the project</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/roles">Collaborators profiles</a></td>
+        <td><a href="/en/help/links">Urantiapedia links</a></td>
       </tr>
     </tbody>
   </table>
