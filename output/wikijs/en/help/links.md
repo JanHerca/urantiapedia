@@ -266,7 +266,7 @@ For each type of content here is a description of the files that stores links an
 
 ### The Bible :closed_book:
 
-- B_UB: The original files used to get the links is the same work called Paramony used from the UB_B, but this time linking Bible books with Urantia Book: [bible-refs-en] (https://github.com/JanHerca/urantiapedia/tree/master/input/txt/bible-refs-en). These files were converted through Urantiapedia Tools to a set of Markdown files: [paramony](https://github.com/JanHerca/urantiapedia/tree/master/input/markdown/en/paramony) and then added to Bible Books when they are converted to HTML files that are uploaded to Urantiapedia: [Bible](https://github.com/JanHerca/urantiapedia/tree/master/output/wikijs/en/Bible). The English Markdown files contain the full table with links. The other languages only have a table with translations of English texts.
+- B_UB: The original files used to get the links is the same work called Paramony used from the UB_B, but this time linking Bible books with Urantia Book: [bible-refs-en](https://github.com/JanHerca/urantiapedia/tree/master/input/txt/bible-refs-en). These files were converted through Urantiapedia Tools to a set of Markdown files: [paramony](https://github.com/JanHerca/urantiapedia/tree/master/input/markdown/en/paramony) and then added to Bible Books when they are converted to HTML files that are uploaded to Urantiapedia: [Bible](https://github.com/JanHerca/urantiapedia/tree/master/output/wikijs/en/Bible). The English Markdown files contain the full table with links. The other languages only have a table with translations of English texts.
 - B_A: Not yet defined. One option could be reverse A_B with Urantiapedia Tools.
 - B_S: Not yet defined. One option could be reverse S_B with Urantiapedia Tools.
 - B_O: Not yet defined. One option could be reverse O_B with Urantiapedia Tools.
@@ -317,10 +317,10 @@ For each type of content here is a description of the files that stores links an
 - TI_S: Not yet defined.
 - TI_I: Not yet defined.
 - TI_M: Manual links in the Links section.
-- A_3D: Manual links in the Links section.
-- A_V: Manual external links in the External Links section. We are adding Wikipedia links this way.
-- A_C: Manual external links.
-- A_F: Manual external links.
+- TI_3D: Manual links in the Links section.
+- TI_V: Manual external links in the External Links section. We are adding Wikipedia links this way.
+- TI_C: Manual external links.
+- TI_F: Manual external links.
 
 ### Diagrams :memo:
 
