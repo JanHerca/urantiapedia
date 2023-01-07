@@ -8,9 +8,9 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
-Urantiapedia contiendra tous les livres sans droit d'auteur qui ont une relation d'intérêt avec _Le Livre d'Urantia_. Le livre lui-même mentionne les auteurs classiques et la littérature existante au moment des révélations. Ces textes, cependant, ne sont jamais utilisés littéralement et aucune référence à ceux-ci n'est proposée. Trouver ces parallèles entre _Le Livre d'Urantia_ et les textes utilisés par les révélateurs est une tâche difficile, mais un lecteur, Matthew Block, a fait un travail remarquable en trouvant des sources pour les révélateurs, comme expliqué sur https://urantiabooksources.com/.
+Urantiapedia contiendra tous les livres sans droit d'auteur qui ont une relation d'intérêt avec _Le Livre d'Urantia_. Le livre lui-même mentionne les auteurs classiques et la littérature existante au moment des révélations. Ces textes, cependant, ne sont jamais utilisés littéralement et aucune référence à ceux-ci n'est proposée. Trouver ces parallèles avec _Le Livre d'Urantia_ est une tâche difficile, mais un lecteur, Matthew Block, a fait un travail remarquable pour trouver des sources, comme expliqué sur https://urantiabooksources.com/.
 
-Lors de l'ajout de ces livres dans Urantiapedia, nous allons procéder de la même manière que pour la Bible, en créant des pages spécifiques pour chaque livre, avec chaque chapitre sur une page. Des références croisées entre les livres et _Le Livre d'Urantia_ seront alors ajoutées, tout comme cela a été fait en utilisant la [Bible](/en/Bible) et la [Paramony](https://urantia-book.org/urantiabook/paramony /).
+Lors de l'ajout de ces livres dans Urantiapedia, nous allons procéder de la même manière que pour la Bible, en créant des pages spécifiques pour chaque livre, avec chaque chapitre sur une page. Des références croisées entre les livres et _Le Livre d'Urantia_ seront alors ajoutées, tout comme cela a été fait en utilisant la [Bible](/en/Bible) et la [Paramony](https://urantia-book.org/urantiabook/paramony/).
 
 Ceci et d'autres informations sur la façon dont les livres sont organisés dans le projet peuvent être trouvés dans [Aide d'Urantiapedia](/en/help/content).
 

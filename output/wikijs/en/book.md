@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
-Urantiapedia is going to contain all the books without copyright that have any relation of interest with _The Urantia Book_. The book itself mentions classic authors and existing literature at the time of the revelations. These texts, however, are never used literally and no reference to them is offered. Finding these parallels of _The Urantia Book_ with the texts used by the revelators is a difficult task, but one reader, Matthew Block, has done an outstanding job finding source material for the revelators, as explained at https://urantiabooksources.com/.
+Urantiapedia is going to contain all the books without copyright that have any relation of interest with _The Urantia Book_. The book itself mentions classic authors and existing literature at the time of the revelations. These texts, however, are never used literally and no reference to them is offered. Finding these parallels of _The Urantia Book_ is a difficult task, but one reader, Matthew Block, has done an outstanding job finding source material, as explained at https://urantiabooksources.com/.
 
 When adding these books into Urantiapedia we are going to proceed in the same way as with the Bible, creating specific pages for each book, with each chapter on one page. Cross-references between the books and _The Urantia Book_ will then be added, just as has been done using the [Bible](/en/Bible) and the [Paramony](https://urantia-book.org/urantiabook/paramony/).
 
