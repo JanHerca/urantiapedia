@@ -20,8 +20,6 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-# Urantiapedia Links
-
 ## Summary
 
 This document describes the way links between items are defined and created in Urantiapedia. Also discusses improvements that could be made in the future to the link system.
