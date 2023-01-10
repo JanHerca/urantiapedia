@@ -1,5 +1,5 @@
 ---
-title: "Cahier d'exercices II - La science dans le Livre d'Urantia — Table des matières"
+title: "Manuel II - La science dans le Livre d'Urantia — Table des matières"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z

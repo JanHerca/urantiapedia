@@ -1,5 +1,5 @@
 ---
-title: "Cahier d'exercices III — Études thématiques et doctrinales — Ajusteurs de pensée"
+title: "Manuel III — Études thématiques et doctrinales — Ajusteurs de pensée"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z

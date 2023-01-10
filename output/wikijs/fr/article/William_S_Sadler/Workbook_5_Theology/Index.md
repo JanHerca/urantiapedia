@@ -48,7 +48,7 @@ Auteur: **William S. Sadler**
 - [34. L'Esprit de Vérité](/fr/article/William_S_Sadler/Workbook_5_Theology/34)
 - [35. Christianisme](/fr/article/William_S_Sadler/Workbook_5_Theology/35)
 
-## Les références
+## Références
 
 Étude traduite de :
 - https://www.urantia.org/theology-urantia-book/theology-urantia-book

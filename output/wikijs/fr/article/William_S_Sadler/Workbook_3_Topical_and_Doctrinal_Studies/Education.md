@@ -1,5 +1,5 @@
 ---
-title: "Workbook III — Topical and Doctrinal Studies — Éducation"
+title: "Manuel III — Topical and Doctrinal Studies — Éducation"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
