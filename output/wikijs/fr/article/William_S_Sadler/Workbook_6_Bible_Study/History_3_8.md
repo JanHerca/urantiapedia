@@ -24,18 +24,18 @@ Auteur: **William S. Sadler**
 
 
 1. Saül est né à Tarse. Paul était son nom latin ou romain - son père était un citoyen romain. Il n'a pas changé son nom de Saul en Paul à cause de sa conversion.
-2. Paul était un « pharisien des pharisiens » – il connaissait la philosophie des stoïciens et des cyniques. Il comprenait aussi les religions païennes. [Actes 23:6](/en/Bible/Acts_of_the_Apostles/23#v6).
-3. Comme la plupart des garçons juifs, on lui a appris un métier, la fabrication de tentes, et il y a travaillé, de temps à autre, une grande partie de sa vie. [Actes 18:3](/en/Bible/Acts_of_the_Apostles/18#v3). (Il était un tisserand expert de poils de chèvre.)
+2. Paul était un « pharisien des pharisiens » – il connaissait la philosophie des stoïciens et des cyniques. Il comprenait aussi les religions païennes. [Actes 23:6](/fr/Bible/Acts_of_the_Apostles/23#v6).
+3. Comme la plupart des garçons juifs, on lui a appris un métier, la fabrication de tentes, et il y a travaillé, de temps à autre, une grande partie de sa vie. [Actes 18:3](/fr/Bible/Acts_of_the_Apostles/18#v3). (Il était un tisserand expert de poils de chèvre.)
 4. Sa conversion a eu lieu vers l'an 32 après JC, alors qu'il avait environ 30 ans. Sa mort—AD 64 ou 65. Il était un missionnaire actif environ 33 ans.
 5. Paul était présent à la mort d'Etienne, le premier martyr de la nouvelle religion.
 6. Paul s'est très tôt associé à Barnabas, de Chypre.
 7. Il y avait beaucoup de gentils croyants avant même que Paul ne commence son œuvre, mais pas d'églises fortes.
 8. Paul signifie "petit" - sans aucun doute, il était une petite personne.
 9. Paul avait été l'élève du célèbre Gamaliel à Jérusalem.
-10. Paul penchait beaucoup vers le type allégorique d'interprétation des Écritures de Philon. [I Cor 10:1-11](/en/Bible/1_Corinthians/10#v1). [Ga 4:22-31](/fr/Bible/Galates/4#v22).
+10. Paul penchait beaucoup vers le type allégorique d'interprétation des Écritures de Philon. [I Cor 10:1-11](/fr/Bible/1_Corinthians/10#v1). [Ga 4:22-31](/fr/Bible/Galatians/4#v22).
 11. Sur le chemin de Damas, pour arrêter des chrétiens, Paul dit avoir rencontré Jésus, et il est devenu croyant sur-le-champ.
 12. A Damas, Ananias, un croyant, a instruit Paul et l'a aidé à échapper aux Juifs.
-13. Le meilleur récit de la conversion de Paul se trouve peut-être dans [Actes 9 :1-19](/en/Bible/Acts_of_the_Apostles/9#v1).
+13. Le meilleur récit de la conversion de Paul se trouve peut-être dans [Actes 9 :1-19](/fr/Bible/Acts_of_the_Apostles/9#v1).
 14. Son premier effort public fut de prêcher sur Jésus dans la synagogue de Damas.
 15. Après un séjour en Arabie, Paul revient et prêche à Damas.
 16. Créant l'hostilité à Damas, il s'est échappé, se rendant à Jérusalem. Il avait une sœur dans cette ville.
@@ -45,7 +45,7 @@ Auteur: **William S. Sadler**
 20. Paul et Barnabas, avec Jean Marc, commencent leur premier voyage missionnaire, se rendant à Paphos, capitale de Chypre, où le proconsul romain Sergius Paulus s'est converti.
 21. John Mark était un cousin de Barnabas.
 22. Ils vont de Paphos à Perga, où pour une raison inconnue, Jean Marc les quitte, retournant à Jérusalem.
-23. Paul considérait la conduite de Jean comme une désertion. [Actes 15:38](/en/Bible/Acts_of_the_Apostles/15#v38).
+23. Paul considérait la conduite de Jean comme une désertion. [Actes 15:38](/fr/Bible/Acts_of_the_Apostles/15#v38).
 24. Ils enseignaient dans la synagogue d'Antioche de Pisidie, mais les Juifs les rejetèrent.
 25. Ils sont allés à Iconium, où ils ont eu beaucoup de succès. Mais une grande dissension s'éleva dans la ville.
 26. Ils allèrent à Lystre, où l'homme né boiteux fut guéri, et les citoyens pensèrent que deux dieux grecs étaient venus parmi eux.
@@ -75,15 +75,15 @@ Auteur: **William S. Sadler**
 	**NOTE** : Quelque part ici, Luc a rejoint le groupe de Paul, car il écrit dans les Actes à la première personne.
 46. ​​Festus était maintenant le dirigeant. Lorsque Paul a été amené devant lui pour un deuxième procès, il a fait appel à César.
 47. Paul parla devant Agrippa, et sa sœur de Jérusalem lui rendit visite.
-48. Paul a navigué pour Rome. Le navire, c'était l'automne, a eu de sérieux ennuis au large de la Crète. Dans [Actes 27:1-28:13](/en/Bible/Acts_of_the_Apostles/27#v1), Luc enregistre l'une des histoires de naufrage les plus célèbres de toute l'histoire.
+48. Paul a navigué pour Rome. Le navire, c'était l'automne, a eu de sérieux ennuis au large de la Crète. Dans [Actes 27:1-28:13](/fr/Bible/Acts_of_the_Apostles/27#v1), Luc enregistre l'une des histoires de naufrage les plus célèbres de toute l'histoire.
 49. Le navire a été secoué par la tempête pendant deux semaines; enfin les passagers furent débarqués à Malte.
 50. Paul, n'étant pas un prisonnier criminel, a reçu beaucoup de liberté et a fait beaucoup de travail missionnaire.
 51. Il y a une légende selon laquelle Paul a contracté le paludisme pendant qu'il était ici – que c'était son « écharde dans la chair ». D'autres traditions attribuaient son trouble à l'épilepsie ou à des troubles oculaires chroniques.
 52. Alors qu'il était à Rome en attendant son procès, Paul écrivit Colossiens, Philémon et Philippeens.
 53. Le livre des Actes se termine brusquement. Paul était prisonnier à Rome depuis deux ans. Nous ne savons vraiment pas ce qui est arrivé à Paul. Voici les possibilités :
-	- une. Il a peut-être été jugé, condamné et exécuté.
+	- a. Il a peut-être été jugé, condamné et exécuté.
 	- b. Il a peut-être été jugé et acquitté.
-	- ch. L'affaire n'a peut-être jamais été jugée, en raison de la perte de papiers au moment du naufrage.
+	- c. L'affaire n'a peut-être jamais été jugée, en raison de la perte de papiers au moment du naufrage.
 54. Les premiers pères de l'église s'accordent tous à dire que Paul a été jugé et condamné.
 55. Paul a peut-être été acquitté et arrêté une seconde fois lors des persécutions de Néron en 64 et 65.
 56. Paul avait été un vaillant guerrier – partout où il allait, il laissait des amis fidèles et des ennemis féroces. C'était un homme de conflit, mais c'était un chrétien fidèle.

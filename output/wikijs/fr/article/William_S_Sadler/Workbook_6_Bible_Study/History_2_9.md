@@ -26,7 +26,7 @@ Auteur: **William S. Sadler**
 
 ## I. La période d'exil
 
-1. L'histoire de cette période se trouve dans [Néhémie](/fr/Bible/Néhémie/1) et [Esdras](/fr/Bible/Ezra/1), complétée par le livre apocryphe de [I Esdras](http ://www.earlyjewishwritings.com/1esdras.html).
+1. L'histoire de cette période se trouve dans [Néhémie](/fr/Bible/Nehemiah/1) et [Esdras](/fr/Bible/Ezra/1), complétée par le livre apocryphe de [I Esdras](http ://www.earlyjewishwritings.com/1esdras.html).
 2. L'armée babylonienne a laissé Juda en ruine. Les pertes au combat, les exécutions, la famine et la maladie ont presque épuisé le pays.
 3. Sur 250 000, il en restait probablement 20 000. La Samarie était intacte.
 4. Les exilés ont été bien traités à Babylone, avec une liberté considérable. Ils construisaient des maisons, cultivaient et avaient une sorte de vie religieuse.
@@ -49,15 +49,15 @@ Auteur: **William S. Sadler**
 
 1. Babylone tombe. Isaiah inspire Israël et [Cyrus](https://en.wikipedia.org/wiki/Cyrus_the_Great) les libère.
 2. Le livre de Daniel raconte l'histoire de la chute de Babylone et du triomphe de Cyrus.
-3. Il existe deux enregistrements de la restauration. [Ezra 1:2-4](/en/Bible/Ezra/1#v2); [6:3-5](/fr/Bible/Esdras/6#v3).
+3. Il existe deux enregistrements de la restauration. [Ezra 1:2-4](/fr/Bible/Ezra/1#v2); [6:3-5](/fr/Bible/Ezra/6#v3).
 4. Cyrus était une nouveauté chez les dirigeants. Il était favorable à l'octroi d'une autonomie culturelle aux peuples soumis, c'est-à-dire la liberté d'avoir leur propre religion.
 5. Sheshbazzar a été suivi par Zorobabel comme gouverneur de Juda. Les prophètes Aggée et Zacharie ont offert des encouragements.
 6. Les Juifs sont revenus par vagues successives de reconstructeurs dévoués. Les premiers arrivés ont rencontré une amère déception.
 7. Cambyse maintint les conquêtes de son père et y ajouta l'Egypte. Il a continué à favoriser la restauration juive.
 8. Les Juifs les plus prospères sont restés à Babylone. Les premières années ont été semées d'embûches et de frustrations. Ils ont été grandement gênés par les Samaritains.
 9. Il a fallu 18 ans pour poser les fondations du temple. Enfin, ils se sont réveillés et ont terminé le travail en quatre ans.
-10. Aggée a incité le peuple à terminer le temple. [Aggée 1:1-11](/fr/Bible/Aggée/1#v1). Zacharie s'est joint à ce réveil.
-11. En mars 515, le temple fut achevé et consacré. [Ezra 6:13-18](/en/Bible/Ezra/6#v13).
+10. Aggée a incité le peuple à terminer le temple. [Aggée 1:1-11](/fr/Bible/Haggai/1#v1). Zacharie s'est joint à ce réveil.
+11. En mars 515, le temple fut achevé et consacré. [Ezra 6:13-18](/fr/Bible/Ezra/6#v13).
 12. Mais les meilleures choses promises par les prophètes ne se sont pas matérialisées. Juda a lutté – en tant que sous-province de Samarie.
 
 

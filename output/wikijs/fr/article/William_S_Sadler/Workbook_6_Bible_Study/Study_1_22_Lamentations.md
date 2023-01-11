@@ -37,7 +37,7 @@ Auteur: **William S. Sadler**
 3. La nature du livre diffère de Jérémie en ce qu'il y a :
 	- A. Une plus grande estime pour les rois, les princes et les prêtres que Jérémie n'en avait.
 	- B. Plus soucieux du culte que Jérémie n'en avait.
-	- C. Attente d'aide de l'Egypte, ce qui est contraire au conseil de Jérémie. ([Lam. 4:17](/fr/Bible/Lamentations/4#v17). [Jér. 42:13-17](/fr/Bible/Jérémie/42#v13))
+	- C. Attente d'aide de l'Egypte, ce qui est contraire au conseil de Jérémie. ([Lam. 4:17](/fr/Bible/Lamentations/4#v17). [Jér. 42:13-17](/fr/Bible/Jeremiah/42#v13))
 4. Date : Probablement 586-500 av.
 
 ## III. Forme et structure
@@ -45,7 +45,7 @@ Auteur: **William S. Sadler**
 1. Ces chants funèbres sont à l'origine un sort funéraire pour maintenir les morts en place et ainsi protéger les vivants.
 2. Ces chants funèbres ont été composés par des femmes professionnelles.
 3. Les lamentations ont à voir avec le chagrin causé par la chute et la destruction de Jérusalem.
-4. Les quatre premiers poèmes sont arrangés comme un acrostiche alphabétique de vingt-deux lignes - une pour chaque lettre de l'alphabet hébreu.
+4. Les quatre premiers poèmes sont arrangés comme un acrostiche alphabétique de vingt-deux lignes - a.pour chaque lettre de l'alphabet hébreu.
 5. Le livre est une bonne illustration de la structure métrique parfaite.
 6. Ces poèmes sont vraiment des élégies.
 

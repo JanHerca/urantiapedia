@@ -52,7 +52,7 @@ Auteur: **William S. Sadler**
 6. Amos était un grand étudiant et observateur de la nature.
 7. Il n'était pas prophète de profession - il n'appartenait pas à "l'école des prophètes".
 8. Amos n'a pas écrit le livre tel que nous l'avons, mais il a fourni le matériel. À partir des écrits et de la tradition, ses disciples ont compilé le livre.
-9. Un optimiste ultérieur s'est enhardi à ajouter trois passages d'espoir-[4:13](/en/Bible/Amos/4#v13), [5:8,9](/en/Bible/Amos/5#v8 ), et [9:5,6](/fr/Bible/Amos/9#v5).
+9. Un optimiste ultérieur s'est enhardi à ajouter trois passages d'espoir-[4:13](/fr/Bible/Amos/4#v13), [5:8,9](/fr/Bible/Amos/5#v8 ), et [9:5,6](/fr/Bible/Amos/9#v5).
 10. Date : Vers 750 av.
 
 ## III. Le message d'Amos

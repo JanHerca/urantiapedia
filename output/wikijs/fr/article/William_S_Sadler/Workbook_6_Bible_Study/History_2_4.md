@@ -27,18 +27,18 @@ Auteur: **William S. Sadler**
 1. Nous rencontrons pour la première fois Israël en Palestine en tant que fédération lâche de 12 tribus — soi-disant.
 2. La confédération hébraïque était une amphictyonie, une association de tribus pour la protection d'un centre religieux.
 3. La première religion était l'hénothéisme. Yahweh était le Dieu d'Israël, mais il y avait d'autres dieux.
-4. Le double récit de la foi d'Israël est illustré par les deux versions des Dix Commandements. [Exode 20](/fr/Bible/Exode/20). [Deut 5](/fr/Bible/Deutéronome/5).
+4. Le double récit de la foi d'Israël est illustré par les deux versions des Dix Commandements. [Exode 20](/fr/Bible/Exodus/20). [Deut 5](/fr/Bible/Deuteronomy/5).
 5. Premiers registres de foi :
 
-une. Chanson de Déborah. [Juge 5](/fr/Bible/Juges/5).
+une. Chanson de Déborah. [Juge 5](/fr/Bible/Judges/5).
 
 b. Bénédiction de Jacob. [Gen 49](/fr/Bible/Genesis/49).
 
-c. Oracles de Balaam. [Nombres 23, 24](/fr/Bible/Nombres/23).
+c. Oracles de Balaam. [Nombres 23, 24](/fr/Bible/Numbers/23).
 
-ré. Cantique de Moïse. [Ex 15:1-18](/fr/Bible/Exode/15#v1).
+ré. Cantique de Moïse. [Ex 15:1-18](/fr/Bible/Exodus/15#v1).
 
-e. Bénédiction de Moïse. [Deut 33](/fr/Bible/Deutéronome/33).
+e. Bénédiction de Moïse. [Deut 33](/fr/Bible/Deuteronomy/33).
 6. Le cœur de la foi d'Israël était l'alliance du Sinaï – ils étaient le « peuple élu ».
 7. Rituels, lois, cérémonies, **tous** se regroupent autour de la relation d'alliance.
 8. Il leur était interdit d'avoir des idoles, mais ils ont fait de « l'arche de l'alliance » un fétiche.
@@ -71,7 +71,7 @@ ré. Deux autres par l'esclave de Rachel, Bilhah—Dan et Nephtali.
 5. Ehud a chassé l'invasion moabite.
 6. Shamgar n'était pas un Israélite, probablement un roi de ville de Galilée, mais il a repoussé les Philistins.
 7. La victoire de Deborah et Barak, probablement en 1125 av. J.-C., fut un événement exceptionnel.
-8. Les exploits de Gédéon ( [Juges 6-8](/fr/Bible/Juges/6)) sont bien relatés. Les chameaux domestiques apparaissent pour la première fois dans les armées d'Israël.
+8. Les exploits de Gédéon ( [Juges 6-8](/fr/Bible/Judges/6)) sont bien relatés. Les chameaux domestiques apparaissent pour la première fois dans les armées d'Israël.
 9. Jephté et Samson apparaissent ensuite sur la scène. Et ici, nous constatons que le sacrifice humain peut encore être pratiqué en Israël.
 10. Il n'y avait pas de mécanisme pour régler les plaintes intertribales. Les performances périodiques des cheikhs ne suffisaient pas à maintenir l'ordre et à maintenir la paix.
 

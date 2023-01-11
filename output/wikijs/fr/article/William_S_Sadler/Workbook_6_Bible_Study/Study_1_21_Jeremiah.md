@@ -24,68 +24,68 @@ Auteur: **William S. Sadler**
 
 ## I. Aperçu-Bref
 
-1. Appel à la Repentance. [1-10](/fr/Bible/Jérémie/1).
-2. La persécution commence. [11-12](/fr/Bible/Jérémie/11).
-3. Captivité annoncée. [13-18](/fr/Bible/Jérémie/13).
-4. Plus de persécutions. [19-38](/fr/Bible/Jérémie/19).
-5. Délivré par Nebucadnetsar. [39,40](/fr/Bible/Jérémie/39).
-6. En Egypte. [41-45](/fr/Bible/Jérémie/41).
-7. Menaces nationales. [46-51](/fr/Bible/Jérémie/46).
-8. Sédécias. [52](/fr/Bible/Jérémie/52).
+1. Appel à la Repentance. [1-10](/fr/Bible/Jeremiah/1).
+2. La persécution commence. [11-12](/fr/Bible/Jeremiah/11).
+3. Captivité annoncée. [13-18](/fr/Bible/Jeremiah/13).
+4. Plus de persécutions. [19-38](/fr/Bible/Jeremiah/19).
+5. Délivré par Nebucadnetsar. [39,40](/fr/Bible/Jeremiah/39).
+6. En Egypte. [41-45](/fr/Bible/Jeremiah/41).
+7. Menaces nationales. [46-51](/fr/Bible/Jeremiah/46).
+8. Sédécias. [52](/fr/Bible/Jeremiah/52).
 
 ## II. Aperçu complet
 
-1. Visions inaugurales. [1:1-19](/fr/Bible/Jérémie/1#v1).
-	- A. Appel de Jérémie. [1:1-10](/fr/Bible/Jérémie/1#v1).
-	- B. Visions de Rod et Pot. [1:11-16](/fr/Bible/Jérémie/1#v11).
+1. Visions inaugurales. [1:1-19](/fr/Bible/Jeremiah/1#v1).
+	- A. Appel de Jérémie. [1:1-10](/fr/Bible/Jeremiah/1#v1).
+	- B. Visions de Rod et Pot. [1:11-16](/fr/Bible/Jeremiah/1#v11).
 	- C. Encouragement à Jérémie. [1:17-19](/fr/Bible/Jeremiah/1#v17).
-2. Premiers oracles. [2:1-6:30](/fr/Bible/Jérémie/2#v1).
-	- A. L'infidélité d'Israël. [2:1-37](/fr/Bible/Jérémie/2#v1).
-	- B. Plaidoyer pour le repentir. [3:1-4:4](/fr/Bible/Jérémie/3#v1).
-	- C. Ennemi du Nord. [4:5-31](/fr/Bible/Jérémie/4#v5).
-	- D. Le péché d'Israël. [5:1-31](/fr/Bible/Jérémie/5#v1).
-	- E. Menaces et avertissements. [6:1-30](/fr/Bible/Jérémie/6#v1).
-3. Vanité du Cultus. [7:1-8:3](/fr/Bible/Jérémie/7#v1).
-	- R. Le Sermon du Temple. [7:1-20](/fr/Bible/Jérémie/7#v1).
-	- B. Rites coupables. [7:21-8:3](/fr/Bible/Jérémie/7#v21).
-4. Matériaux divers. [8:4-10:25](/en/Bible/Jeremiah/8#v4).
-5. Événements dans la vie de Jérémie. [11:1-12:6](/fr/Bible/Jérémie/11#v1).
-	- A. Jérémie et l'Alliance. [11:1-14](/fr/Bible/Jérémie/11#v1).
-	- B. Complot contre sa vie. [11:15-12:6](/en/Bible/Jeremiah/11#v15).
-6. Israël et ses voisins. [12:7-17](/fr/Bible/Jérémie/12#v7).
-7. Paraboles et avertissements. [13:1-27](/fr/Bible/Jérémie/13#v1).
-8. Sécheresse et Catastrophes. [14:1-15:4](/fr/Bible/Jérémie/14#v1).
-9. Lamentations de Jérémie. [15:5-21](/fr/Bible/Jérémie/15#v5).
-10. Menaces et promesses. [16:1-21](/fr/Bible/Jérémie/16#v1).
-11. Matériaux divers. [17:1-27](/fr/Bible/Jérémie/17#v1).
-12. Paraboles et emprisonnement. [18:1-20:18](/fr/Bible/Jérémie/18#v1).
-13. Oracles sur les rois. [21:1-23:8](/fr/Bible/Jérémie/21#v1).
-14. Oracles sur les prophètes. [23:9-40](/fr/Bible/Jérémie/23#v9).
-15. Vision des figues. [24:1-10](/fr/Bible/Jérémie/24#v1).
-16. Avertissements à Juda. [25:1-14](/fr/Bible/Jérémie/25#v1).
-17. La colère de Yahweh. [25:15-38](/fr/Bible/Jérémie/25#v15).
-18. Conflit avec les dirigeants. [26:1-29:32](/fr/Bible/Jérémie/26#v1).
-19. Le livre de confort. [30:1-31:40](/fr/Bible/Jérémie/30#v1).
-	- A. Terreur de Yahweh. [30:1-11](/fr/Bible/Jérémie/30#v1).
-	- B. Salut d'Israël. [30:12-22](/fr/Bible/Jérémie/30#v12).
-	- C. Esclaves de Yahweh. [30:23-31:14](/fr/Bible/Jérémie/30#v23).
-	- Les pleurs de D. Rachel. [31:15-22](/fr/Bible/Jérémie/31#v15).
-	- E. Restauration des terres. [31:23-28](/fr/Bible/Jérémie/31#v23).
-	- F. Nouvelle Alliance. [31:29-37](/fr/Bible/Jérémie/31#v29).
-	- G. Reconstruire Jérusalem. [31:38-40](/fr/Bible/Jérémie/31#v38).
-20. Jérémie prédit la chute de Jérusalem. [32:1-44](/fr/Bible/Jérémie/32#v1).
-21. Promesses de restauration. [33:1-26](/fr/Bible/Jérémie/33#v1).
+2. Premiers oracles. [2:1-6:30](/fr/Bible/Jeremiah/2#v1).
+	- A. L'infidélité d'Israël. [2:1-37](/fr/Bible/Jeremiah/2#v1).
+	- B. Plaidoyer pour le repentir. [3:1-4:4](/fr/Bible/Jeremiah/3#v1).
+	- C. Ennemi du Nord. [4:5-31](/fr/Bible/Jeremiah/4#v5).
+	- D. Le péché d'Israël. [5:1-31](/fr/Bible/Jeremiah/5#v1).
+	- E. Menaces et avertissements. [6:1-30](/fr/Bible/Jeremiah/6#v1).
+3. Vanité du Cultus. [7:1-8:3](/fr/Bible/Jeremiah/7#v1).
+	- A. Le Sermon du Temple. [7:1-20](/fr/Bible/Jeremiah/7#v1).
+	- B. Rites coupables. [7:21-8:3](/fr/Bible/Jeremiah/7#v21).
+4. Matériaux divers. [8:4-10:25](/fr/Bible/Jeremiah/8#v4).
+5. Événements dans la vie de Jérémie. [11:1-12:6](/fr/Bible/Jeremiah/11#v1).
+	- A. Jérémie et l'Alliance. [11:1-14](/fr/Bible/Jeremiah/11#v1).
+	- B. Complot contre sa vie. [11:15-12:6](/fr/Bible/Jeremiah/11#v15).
+6. Israël et ses voisins. [12:7-17](/fr/Bible/Jeremiah/12#v7).
+7. Paraboles et avertissements. [13:1-27](/fr/Bible/Jeremiah/13#v1).
+8. Sécheresse et Catastrophes. [14:1-15:4](/fr/Bible/Jeremiah/14#v1).
+9. Lamentations de Jérémie. [15:5-21](/fr/Bible/Jeremiah/15#v5).
+10. Menaces et promesses. [16:1-21](/fr/Bible/Jeremiah/16#v1).
+11. Matériaux divers. [17:1-27](/fr/Bible/Jeremiah/17#v1).
+12. Paraboles et emprisonnement. [18:1-20:18](/fr/Bible/Jeremiah/18#v1).
+13. Oracles sur les rois. [21:1-23:8](/fr/Bible/Jeremiah/21#v1).
+14. Oracles sur les prophètes. [23:9-40](/fr/Bible/Jeremiah/23#v9).
+15. Vision des figues. [24:1-10](/fr/Bible/Jeremiah/24#v1).
+16. Avertissements à Juda. [25:1-14](/fr/Bible/Jeremiah/25#v1).
+17. La colère de Yahweh. [25:15-38](/fr/Bible/Jeremiah/25#v15).
+18. Conflit avec les dirigeants. [26:1-29:32](/fr/Bible/Jeremiah/26#v1).
+19. Le livre de confort. [30:1-31:40](/fr/Bible/Jeremiah/30#v1).
+	- A. Terreur de Yahweh. [30:1-11](/fr/Bible/Jeremiah/30#v1).
+	- B. Salut d'Israël. [30:12-22](/fr/Bible/Jeremiah/30#v12).
+	- C. Esclaves de Yahweh. [30:23-31:14](/fr/Bible/Jeremiah/30#v23).
+	- Les pleurs de D. Rachel. [31:15-22](/fr/Bible/Jeremiah/31#v15).
+	- E. Restauration des terres. [31:23-28](/fr/Bible/Jeremiah/31#v23).
+	- F. Nouvelle Alliance. [31:29-37](/fr/Bible/Jeremiah/31#v29).
+	- G. Reconstruire Jérusalem. [31:38-40](/fr/Bible/Jeremiah/31#v38).
+20. Jérémie prédit la chute de Jérusalem. [32:1-44](/fr/Bible/Jeremiah/32#v1).
+21. Promesses de restauration. [33:1-26](/fr/Bible/Jeremiah/33#v1).
 22. Avertissement à Sédécias. 34:1-7.
-23. La promesse brisée. [34:8-22](/fr/Bible/Jérémie/34#v8).
-24. Les Récabites. [35:1-19](/fr/Bible/Jérémie/35#v1).
-25. Rouleaux prophétiques. [36:1-32](/fr/Bible/Jérémie/36#v1).
-26. Chute de Jérusalem. [37:1-40:6](/fr/Bible/Jérémie/37#v1).
-27. Assassinat de Gedaliah. [40:7-41:18](/fr/Bible/Jérémie/40#v7).
-28. Fuite en Égypte. [42:1-43:7](/fr/Bible/Jérémie/42#v1).
-29. Jérémie en Egypte. [43:8-44:30](/en/Bible/Jeremiah/43#v8).
+23. La promesse brisée. [34:8-22](/fr/Bible/Jeremiah/34#v8).
+24. Les Récabites. [35:1-19](/fr/Bible/Jeremiah/35#v1).
+25. Rouleaux prophétiques. [36:1-32](/fr/Bible/Jeremiah/36#v1).
+26. Chute de Jérusalem. [37:1-40:6](/fr/Bible/Jeremiah/37#v1).
+27. Assassinat de Gedaliah. [40:7-41:18](/fr/Bible/Jeremiah/40#v7).
+28. Fuite en Égypte. [42:1-43:7](/fr/Bible/Jeremiah/42#v1).
+29. Jérémie en Egypte. [43:8-44:30](/fr/Bible/Jeremiah/43#v8).
 30. Oracle de Baruch. 45:1-5.
-31. Oracles contre les nations. [46:1-51:64](/fr/Bible/Jérémie/46#v1).
-32. Annexe historique. [52:1-34](/fr/Bible/Jérémie/52#v1).
+31. Oracles contre les nations. [46:1-51:64](/fr/Bible/Jeremiah/46#v1).
+32. Annexe historique. [52:1-34](/fr/Bible/Jeremiah/52#v1).
 
 ## III. Paternité
 
@@ -121,7 +121,7 @@ Auteur: **William S. Sadler**
 19. Il a été emmené en Égypte contre son gré.
 20. Selon une légende, Jérémie aurait été lapidé à mort en Égypte par ses compatriotes exaspérés.
 21. Jérémie n'était pas un mystique. Il avait une forte personnalité. Nous en savons plus sur la "vie intérieure" de Jérémie que sur tout autre prophète.
-22. Il est possible qu'on lui ait interdit de se marier. ([16:1-13](/fr/Bible/Jérémie/16#v1))
+22. Il est possible qu'on lui ait interdit de se marier. ([16:1-13](/fr/Bible/Jeremiah/16#v1))
 23. Il a souffert de nombreuses saisons d'amertume et de désespoir. Mais il n'était pas un "prophète qui pleure".
 24. L'idée qu'il est un "prophète qui pleure" vient du fait qu'on lui attribue la paternité du livre des Lamentations.
 25. À un moment donné, il a prié pour se venger de ses ennemis, même de leurs femmes et de leurs enfants.
@@ -149,7 +149,7 @@ Auteur: **William S. Sadler**
 14. Jérémie était le prophète de l'expérience religieuse personnelle.
 15. Vous trouverez Dieu si vous « le cherchez de tout votre cœur ».
 16. Il a enseigné la religion du péché, de la repentance et du salut.
-17. La nature humaine est capricieuse. "Le cœur est trompeur par-dessus tout, et désespérément corrompu." [17:9](/fr/Bible/Jérémie/17#v9).
+17. La nature humaine est capricieuse. "Le cœur est trompeur par-dessus tout, et désespérément corrompu." [17:9](/fr/Bible/Jeremiah/17#v9).
 18. Il considérait l'homme comme étant naturellement têtu.
 19. La repentance signifie « se détourner consciemment de tout mal ».
 20. Jérémie est l'auteur du proverbe selon lequel l'Éthiopien change de peau ou le léopard ses taches.
@@ -158,36 +158,36 @@ Auteur: **William S. Sadler**
 ## VI. Résumé de la vie de Jérémie
 
 Jérémie a vécu 100 ans après Isaïe, lors de la prise et de la destruction de Jérusalem. Sa vie (640-587) le met en contact avec les événements du règne du dernier des rois de Judée :
-1. Manassé. 687-642. [2 Chron. 33](/fr/Bible/2_Chroniques/33). [Jer. 15:4](/fr/Bible/Jérémie/15#v4).
-2. Amon. 642-640. [2 Rois 21:18-23](/fr/Bible/2_Kings/21#v18). [2 Chron. 33:21-24](/fr/Bible/2_Chronicles/33#v21). [Jer. 1:2](/fr/Bible/Jérémie/1#v2).
-3. Josias. 640-609. [2 Rois 21:24-26](/en/Bible/2_Kings/21#v24); [23:29,30](/fr/Bible/2_Kings/23#v29). [Jer. 25:3](/fr/Bible/Jérémie/25#v3).
-4. Joachaz II. 609 - 3 mois. [2 Rois 23:31-34](/fr/Bible/2_Kings/23/#v31). [Jer. 22:11](/fr/Bible/Jérémie/22#v11).
+1. Manassé. 687-642. [2 Chron. 33](/fr/Bible/2_Chronicles/33). [Jer. 15:4](/fr/Bible/Jeremiah/15#v4).
+2. Amon. 642-640. [2 Rois 21:18-23](/fr/Bible/2_Kings/21#v18). [2 Chron. 33:21-24](/fr/Bible/2_Chronicles/33#v21). [Jer. 1:2](/fr/Bible/Jeremiah/1#v2).
+3. Josias. 640-609. [2 Rois 21:24-26](/fr/Bible/2_Kings/21#v24); [23:29,30](/fr/Bible/2_Kings/23#v29). [Jer. 25:3](/fr/Bible/Jeremiah/25#v3).
+4. Joachaz II. 609 - 3 mois. [2 Rois 23:31-34](/fr/Bible/2_Kings/23/#v31). [Jer. 22:11](/fr/Bible/Jeremiah/22#v11).
 5. Jojakim. 609-598. [2 Rois 23:36-24:6](/fr/Bible/2_Kings/23#v36). [Jer. 22:18](/fr/Bible/22#v18).
-6. Jojakin. 598 - 3 mois. [2 Rois 24:6-15](/fr/Bible/2_Kings/24#v6). [Jer. 52:31-34](/fr/Bible/Jérémie/52#v31).
-7. Sédécias. 598-587. [2 Rois 24:17-20](/fr/Bible/2_Kings/24#v17). [Jer. 2:1-7](/en/Bible/Jeremiah/2#v1); [34:1-11](/en/Bible/Jeremiah/34#v1); [52:1-11](/fr/Bible/Jérémie/52#v1).
+6. Jojakin. 598 - 3 mois. [2 Rois 24:6-15](/fr/Bible/2_Kings/24#v6). [Jer. 52:31-34](/fr/Bible/Jeremiah/52#v31).
+7. Sédécias. 598-587. [2 Rois 24:17-20](/fr/Bible/2_Kings/24#v17). [Jer. 2:1-7](/fr/Bible/Jeremiah/2#v1); [34:1-11](/fr/Bible/Jeremiah/34#v1); [52:1-11](/fr/Bible/Jeremiah/52#v1).
 
 ##VII. Textes sélectionnés
 
-1. **Le début du travail de Jérémie**. '"Avant de te former dans le ventre de ma mère, je te connaissais, et avant ta naissance je t'ai consacré; je t'ai établi prophète des nations.'" [1:5](/en/Bible/Jeremiah/1#v5) .
-	(**Remarque** : Ce texte rappelle les enseignements du Livre d'Urantia, concernant les Ajusteurs de Pensée obtenant des projections avancées concernant leurs sujets humains potentiels, comme trouvé sur [UB 108:1.2](/en/The_Urantia_Book/108#p1_2)
-2. ** Citernes cassées **. "'Mon peuple a commis deux maux : il m'a abandonné, moi la source d'eau vive, et s'est creusé des citernes, des citernes brisées, qui ne peuvent retenir l'eau.'" [2:13](/fr/Bible/Jérémie /2#v13).
-3. **Qu'est-ce qui n'allait pas**. « 'Du plus petit au plus grand d'entre eux, chacun est avide d'un gain injuste ; et du prophète au prêtre, chacun agit dans le mensonge. Ils ont pansé légèrement la blessure de mon peuple, en disant : « Paix, paix », n'y a pas de paix.'" [6:13,14](/en/Bible/Jeremiah/6#v13).
-4. **Pas de paix**. "'Nous attendions la paix, mais rien de bon n'est venu, pour un temps de guérison, mais voici, la terreur.'" [8:15](/en/Bible/Jeremiah/8#v15).
+1. **Le début du travail de Jérémie**. '"Avant de te former dans le ventre de ma mère, je te connaissais, et avant ta naissance je t'ai consacré; je t'ai établi prophète des nations.'" [1:5](/fr/Bible/Jeremiah/1#v5) .
+	(**Remarque** : Ce texte rappelle les enseignements du Livre d'Urantia, concernant les Ajusteurs de Pensée obtenant des projections avancées concernant leurs sujets humains potentiels, comme trouvé sur [LU 108:1.2](/fr/The_Urantia_Book/108#p1_2)
+2. ** Citernes cassées **. "'Mon peuple a commis deux maux : il m'a abandonné, moi la source d'eau vive, et s'est creusé des citernes, des citernes brisées, qui ne peuvent retenir l'eau.'" [2:13](/fr/Bible/Jeremiah /2#v13).
+3. **Qu'est-ce qui n'allait pas**. « 'Du plus petit au plus grand d'entre eux, chacun est avide d'un gain injuste ; et du prophète au prêtre, chacun agit dans le mensonge. Ils ont pansé légèrement la blessure de mon peuple, en disant : « Paix, paix », n'y a pas de paix.'" [6:13,14](/fr/Bible/Jeremiah/6#v13).
+4. **Pas de paix**. "'Nous attendions la paix, mais rien de bon n'est venu, pour un temps de guérison, mais voici, la terreur.'" [8:15](/fr/Bible/Jeremiah/8#v15).
 5. **Pas de baume à Galaad**. « 'N'y a-t-il pas de baume en Galaad ? N'y a-t-il pas de médecin ?
-6. **Nous nous glorifions dans le Seigneur**. "'Mais que celui qui se glorifie se glorifie de ceci, qu'il me comprenne et me connaisse, que je suis l'Eternel qui pratique la bonté, la justice et la justice sur la terre ; car je prends ces choses à mon goût.'" [9:24]( /fr/Bible/Jérémie/9#v24).
-7. **Le cœur trompeur**. "'Le cœur est trompeur par-dessus tout et désespérément corrompu ; qui peut le comprendre ?'" [17:9](/en/Bible/Jeremiah/17#v9).
-8. **Jérémie en stock**. "Alors Pashhur battit Jérémie le prophète, et le mit dans les ceps qui étaient à la porte supérieure de Benjamin de la maison de l'Éternel." [20:2](/fr/Bible/Jérémie/20#v2).
+6. **Nous nous glorifions dans le Seigneur**. "'Mais que celui qui se glorifie se glorifie de ceci, qu'il me comprenne et me connaisse, que je suis l'Eternel qui pratique la bonté, la justice et la justice sur la terre ; car je prends ces choses à mon goût.'" [9:24]( /fr/Bible/Jeremiah/9#v24).
+7. **Le cœur trompeur**. "'Le cœur est trompeur par-dessus tout et désespérément corrompu ; qui peut le comprendre ?'" [17:9](/fr/Bible/Jeremiah/17#v9).
+8. **Jérémie en stock**. "Alors Pashhur battit Jérémie le prophète, et le mit dans les ceps qui étaient à la porte supérieure de Benjamin de la maison de l'Éternel." [20:2](/fr/Bible/Jeremiah/20#v2).
 9. **Le destin de Pashhur**. "'Et toi, Pashhur... tu iras en captivité... et là tu mourras... toi et tous tes amis, à qui tu as prophétisé faussement?'" [20:6](/fr/Bible/ Jérémie/20#v6).
-10. **Un Dieu à portée de main**. "'Suis-je un Dieu proche... et non un Dieu lointain ?... Est-ce que je ne remplis pas le ciel et la terre ?'" [23:23,24](/en/Bible/Jeremiah/23#v23) .
-11. **Jérémie se rend**. "'Sachez seulement avec certitude que si vous me faites mourir, vous attirerez sur vous du sang innocent.'" [26:15](/en/Bible/Jeremiah/26#v15).
-12. **Trouver Dieu**. "'Tu me chercheras et tu me trouveras, quand tu me chercheras de tout ton coeur.'" [29:13](/en/Bible/Jeremiah/29#v13).
-13. **Joie pour le deuil**. "'Je changerai leur deuil en joie, je les consolerai, et je leur donnerai de la joie pour la douleur.'" [31:13](/en/Bible/Jeremiah/31#v13).
-14. **Manger des raisins verts**. "'En ces jours-là, on ne dira plus : "Les pères ont mangé des raisins aigres, et les dents des enfants sont agacées." ... Tout homme qui mange des raisins aigres, ses dents seront agacées.'" [ 31:29,30](/fr/Bible/Jérémie/31#v29).
-15. **Le rouleau de Jérémie**. "Alors Jérémie prit un autre rouleau et le donna à Baruch ... qui y écrivit sous la dictée de Jérémie toutes les paroles ... que Jojakim, roi de Juda, avait brûlées au feu." [36:32](/fr/Bible/Jérémie/36#v32).
-16. **Jérémie dans la fosse**. "Ils ont pris Jérémie et l'ont jeté dans la citerne... Et il n'y avait pas d'eau dans la citerne, mais seulement de la boue, et Jérémie a coulé dans la boue." [38:6](/fr/Bible/Jérémie/38#v6).
-17. **Le destin de Sédécias**. "Il creva les yeux de Sédécias et le lia de fers... Les Chaldéens brûlèrent la maison du roi... et abattirent les murailles de Jérusalem." [39:7,8](/fr/Bible/Jérémie/39#v7).
-18. **Jérémie va à Mitspa**. "Alors Jérémie alla à... Mitspa, et habita... parmi les gens qui restaient dans le pays." [40:6](/fr/Bible/Jérémie/40#v6).
-19. **Aller en Egypte contre Jérémie**. "Et ils vinrent au pays d'Egypte, car ils n'obéirent pas à la voix de l'Eternel." [43:7](/fr/Bible/Jérémie/43#v7).
+10. **Un Dieu à portée de main**. "'Suis-je un Dieu proche... et non un Dieu lointain ?... Est-ce que je ne remplis pas le ciel et la terre ?'" [23:23,24](/fr/Bible/Jeremiah/23#v23) .
+11. **Jérémie se rend**. "'Sachez seulement avec certitude que si vous me faites mourir, vous attirerez sur vous du sang innocent.'" [26:15](/fr/Bible/Jeremiah/26#v15).
+12. **Trouver Dieu**. "'Tu me chercheras et tu me trouveras, quand tu me chercheras de tout ton coeur.'" [29:13](/fr/Bible/Jeremiah/29#v13).
+13. **Joie pour le deuil**. "'Je changerai leur deuil en joie, je les consolerai, et je leur donnerai de la joie pour la douleur.'" [31:13](/fr/Bible/Jeremiah/31#v13).
+14. **Manger des raisins verts**. "'En ces jours-là, on ne dira plus : "Les pères ont mangé des raisins aigres, et les dents des enfants sont agacées." ... Tout homme qui mange des raisins aigres, ses dents seront agacées.'" [ 31:29,30](/fr/Bible/Jeremiah/31#v29).
+15. **Le rouleau de Jérémie**. "Alors Jérémie prit un autre rouleau et le donna à Baruch ... qui y écrivit sous la dictée de Jérémie toutes les paroles ... que Jojakim, roi de Juda, avait brûlées au feu." [36:32](/fr/Bible/Jeremiah/36#v32).
+16. **Jérémie dans la fosse**. "Ils ont pris Jérémie et l'ont jeté dans la citerne... Et il n'y avait pas d'eau dans la citerne, mais seulement de la boue, et Jérémie a coulé dans la boue." [38:6](/fr/Bible/Jeremiah/38#v6).
+17. **Le destin de Sédécias**. "Il creva les yeux de Sédécias et le lia de fers... Les Chaldéens brûlèrent la maison du roi... et abattirent les murailles de Jérusalem." [39:7,8](/fr/Bible/Jeremiah/39#v7).
+18. **Jérémie va à Mitspa**. "Alors Jérémie alla à... Mitspa, et habita... parmi les gens qui restaient dans le pays." [40:6](/fr/Bible/Jeremiah/40#v6).
+19. **Aller en Egypte contre Jérémie**. "Et ils vinrent au pays d'Egypte, car ils n'obéirent pas à la voix de l'Eternel." [43:7](/fr/Bible/Jeremiah/43#v7).
 
 
 <br>

@@ -26,15 +26,15 @@ Auteur: **William S. Sadler**
 
 ## I. Aperçu
 
-1. Chants de la mariée. [1:2-8](/en/Bible/Song_of_Solomon/1#v2).
-2. Dialogue-Bride and Groom. [1:9-2:7](/en/Bible/Song_of_Solomon/1#v9).
-3. Réminiscences de la mariée. [2:8-3:5](/en/Bible/Song_of_Solomon/2#v8).
-4. Procession de l'époux. [3:6-11](/en/Bible/Song_of_Solomon/3#v6).
-5. Chansons de l'amant. [4:1-5:1](/en/Bible/Song_of_Solomon/4#v1).
-6. Époux perdu. [5:2-6:3](/en/Bible/Song_of_Solomon/5#v2).
-7. Beauté de la mariée. [6:4-7:9](/en/Bible/Song_of_Solomon/6#v4).
-8. Chansons de mariée. [7:10-8:4](/en/Bible/Song_of_Solomon/7#v10).
-9. Paroles d'amour. [8:5-14](/en/Bible/Song_of_Solomon/8#v5).
+1. Chants de la mariée. [1:2-8](/fr/Bible/Song_of_Solomon/1#v2).
+2. Dialogue-Bride and Groom. [1:9-2:7](/fr/Bible/Song_of_Solomon/1#v9).
+3. Réminiscences de la mariée. [2:8-3:5](/fr/Bible/Song_of_Solomon/2#v8).
+4. Procession de l'époux. [3:6-11](/fr/Bible/Song_of_Solomon/3#v6).
+5. Chansons de l'amant. [4:1-5:1](/fr/Bible/Song_of_Solomon/4#v1).
+6. Époux perdu. [5:2-6:3](/fr/Bible/Song_of_Solomon/5#v2).
+7. Beauté de la mariée. [6:4-7:9](/fr/Bible/Song_of_Solomon/6#v4).
+8. Chansons de mariée. [7:10-8:4](/fr/Bible/Song_of_Solomon/7#v10).
+9. Paroles d'amour. [8:5-14](/fr/Bible/Song_of_Solomon/8#v5).
 
 ## II. Paternité
 
@@ -79,10 +79,10 @@ Auteur: **William S. Sadler**
 
 ## VI. Textes sélectionnés
 
-1. **Fleurs d'amour**. "Je suis une rose de Saron, un muguet." [2:1](/en/Bible/Song_of_Solomon/2#v1).
+1. **Fleurs d'amour**. "Je suis une rose de Saron, un muguet." [2:1](/fr/Bible/Song_of_Solomon/2#v1).
 2. **Petits renards**. "Attrapez-nous les renards, les petits renards, qui gâtent les vignes." [2:15](/fr/Bible/Song_of_Solomon/2#v15).
-3. **Une affection formidable**. "'Qui est celui-ci qui apparaît comme l'aube, beau comme la lune, brillant comme le soleil, terrible comme une armée avec des bannières ?'" [6:10](/en/Bible/Song_of_Solomon/6#v10).
-4. **Amour inextinguible**. "De nombreuses eaux ne peuvent pas éteindre l'amour, pas plus que les inondations ne peuvent le noyer." [8:7](/en/Bible/Song_of_Solomon/8#v7).
+3. **Une affection formidable**. "'Qui est celui-ci qui apparaît comme l'aube, beau comme la lune, brillant comme le soleil, terrible comme une armée avec des bannières ?'" [6:10](/fr/Bible/Song_of_Solomon/6#v10).
+4. **Amour inextinguible**. "De nombreuses eaux ne peuvent pas éteindre l'amour, pas plus que les inondations ne peuvent le noyer." [8:7](/fr/Bible/Song_of_Solomon/8#v7).
 
 
 <br>

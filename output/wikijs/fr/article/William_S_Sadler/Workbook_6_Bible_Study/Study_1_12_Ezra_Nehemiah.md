@@ -26,113 +26,113 @@ Auteur: **William S. Sadler**
 
 ### Esdras
 
-1. Reconstruire le Temple. [1-3](/fr/Bible/Esdras/1).
-2. Les Adversaires. [4,5](/fr/Bible/Esdras/4).
-3. Décrets et Réformes. [6-10](/fr/Bible/Esdras/6).
+1. Reconstruire le Temple. [1-3](/fr/Bible/Ezra/1).
+2. Les Adversaires. [4,5](/fr/Bible/Ezra/4).
+3. Décrets et Réformes. [6-10](/fr/Bible/Ezra/6).
 
 ### Néhémie
 
-4. Reconstruire les murs. [1-6](/fr/Bible/Néhémie/1).
-5. Législation. [7-12](/fr/Bible/Néhémie/7).
-6. Réformes. [13](/fr/Bible/Néhémie/13).
+4. Reconstruire les murs. [1-6](/fr/Bible/Nehemiah/1).
+5. Législation. [7-12](/fr/Bible/Nehemiah/7).
+6. Réformes. [13](/fr/Bible/Nehemiah/13).
 
 ## II. Aperçu complet
 
 ### EZRA
 
-1. Le retour de Shesh-bazzar. [1:1-2:70](/en/Bible/Ezra/1#v1).
+1. Le retour de Shesh-bazzar. [1:1-2:70](/fr/Bible/Ezra/1#v1).
 	- Un préliminaire. [1:1-4](/fr/Bible/Ezra/1#v1).
-	- B. Préparation du retour. [1:5-11](/fr/Bible/Esdras/1#v5).
-	- C. Israélites de retour. [2:1-70](/fr/Bible/Esdras/2#v1).
-2. Construire le Temple. [3:1-6:22](/fr/Bible/Esdras/3#v1).
-	- A. Réhabilitation. [3:1-6](/fr/Bible/Esdras/3#v1).
-	- B. Travaux sur le Temple. [3:7-6:22](/en/Bible/Ezra/3#v7).
-3. Le retour d'Ezra. [7:1-8:36](/en/Bible/Ezra/7#v1).
+	- B. Préparation du retour. [1:5-11](/fr/Bible/Ezra/1#v5).
+	- C. Israélites de retour. [2:1-70](/fr/Bible/Ezra/2#v1).
+2. Construire le Temple. [3:1-6:22](/fr/Bible/Ezra/3#v1).
+	- A. Réhabilitation. [3:1-6](/fr/Bible/Ezra/3#v1).
+	- B. Travaux sur le Temple. [3:7-6:22](/fr/Bible/Ezra/3#v7).
+3. Le retour d'Ezra. [7:1-8:36](/fr/Bible/Ezra/7#v1).
 	- A. Présentation. [7:1-10](/fr/Bible/Ezra/7#v1).
-	- Commission de B. Ezra. [7:11-28](/fr/Bible/Esdras/7#v11).
-	- Les associés de C. Ezra. [8:1-14](/fr/Bible/Esdras/8#v1).
-	- D. Serviteurs du Temple. [8:15-20](/fr/Bible/Esdras/8#v15).
-	- E. Préparation du départ. [8:21-23](/fr/Bible/Esdras/8#v21).
-	- F. Transporter un trésor. [8:24-30](/fr/Bible/Esdras/8#v24).
-	- G. Arrivée. [8:31-36](/fr/Bible/Esdras/8#v31).
-4. Mariages mixtes. [9:1-10:44](/en/Bible/Ezra/9#v1).
+	- Commission de B. Ezra. [7:11-28](/fr/Bible/Ezra/7#v11).
+	- Les associés de C. Ezra. [8:1-14](/fr/Bible/Ezra/8#v1).
+	- D. Serviteurs du Temple. [8:15-20](/fr/Bible/Ezra/8#v15).
+	- E. Préparation du départ. [8:21-23](/fr/Bible/Ezra/8#v21).
+	- F. Transporter un trésor. [8:24-30](/fr/Bible/Ezra/8#v24).
+	- G. Arrivée. [8:31-36](/fr/Bible/Ezra/8#v31).
+4. Mariages mixtes. [9:1-10:44](/fr/Bible/Ezra/9#v1).
 	- Un rapport. [9:1-2](/fr/Bible/Ezra/9#v1).
-	- La réaction de B. Ezra. [9:3-15](/fr/Bible/Esdras/9#v3).
-	- C. Réaction publique. [10:1-6](/fr/Bible/Esdras/10#v1).
-	- D. Assemblée publique. [10:7-15](/fr/Bible/Esdras/10#v7).
-	- E. Commission de Jérusalem. [10:16-19](/fr/Bible/Esdras/10#v16).
-	- F. Liste des mariages étrangers. [10:20-4](/fr/Bible/Esdras/10#v20)
+	- La réaction de B. Ezra. [9:3-15](/fr/Bible/Ezra/9#v3).
+	- C. Réaction publique. [10:1-6](/fr/Bible/Ezra/10#v1).
+	- D. Assemblée publique. [10:7-15](/fr/Bible/Ezra/10#v7).
+	- E. Commission de Jérusalem. [10:16-19](/fr/Bible/Ezra/10#v16).
+	- F. Liste des mariages étrangers. [10:20-4](/fr/Bible/Ezra/10#v20)
 
 ### NÉHÉMIE
 
-5. Néhémie entend des nouvelles. [1:1-11](/fr/Bible/Néhémie/1#v1).
-	- R. Les Nouvelles. [1:1-4](/fr/Bible/Néhémie/1#v1).
-	- B. La prière de Néhémie. [1:5-11](/fr/Bible/Néhémie/1#v5).
-6. La requête de Néhémie est accordée. [2:1-2:8](/fr/Bible/Néhémie/2#v1).
-7. Néhémie comme Gouverneur. [2:9-20](/fr/Bible/Néhémie/2#v9).
-	- A. L'arrivée de Néhémie. [2:9-11](/fr/Bible/Néhémie/2#v9).
-	- B. Inspection du mur. [2:12-15](/fr/Bible/Néhémie/2#v12).
-	- C. Entretiens avec les dirigeants. [2:16-18](/fr/Bible/Néhémie/2#v16).
-	- D. Conflit avec les officiels. [2:19,20](/fr/Bible/Néhémie/2#v19).
-8. Construire le Mur. [3:1-4:23](/fr/Bible/Néhémie/3#v1).
-	- A. Travailleurs sur le mur. [3:1-32](/fr/Bible/Néhémie/3#v1).
-	- B. Réaction des voisins. [4:1-3](/fr/Bible/Néhémie/4#v1).
-	- C. L'imprécation de Néhémie. [4:4,5](/fr/Bible/Néhémie/4#v4).
-	- D. Nouveaux progrès. [4:6](/fr/Bible/Néhémie/4#v6).
-	- E. Le complot. [4:7-12](/fr/Bible/Néhémie/4#v7).
-	- F. Mesures défensives. [4:13-23](/fr/Bible/Néhémie/4#v13).
-9. Problèmes économiques. [5:1-19](/fr/Bible/Néhémie/5#v1).
-	- A. Problèmes internes. [5:1-13](/fr/Bible/Néhémie/5#v1).
-	- Administration de B. Néhémie. [5:14-19](/fr/Bible/Néhémie/5#v14).
-10. Poursuite des travaux sur le mur. [6:1-19](/fr/Bible/Néhémie/6#v1).
-	- A. Attaques psychologiques. [6:1-14](/fr/Bible/Néhémie/6#v1).
-	- B. Achèvement du Mur. [6:15,16](/fr/Bible/Néhémie/6#v15).
-	- C. Tobie. [6:17-19](/fr/Bible/Néhémie/6#v17).
-11. Réorganisation de Jérusalem. [7:1-73](/fr/Bible/Néhémie/7#v1).
-	- R. Les Veilleurs. [7:1-3](/fr/Bible/Néhémie/7#v1).
-	- B. La Population. [7:4-73](/fr/Bible/Néhémie/7#v4).
-12. Lecture de la loi. [7:73-8:18](/fr/Bible/Néhémie/7#v73).
-	- A. Assemblée. [7:73-8:2](/fr/Bible/Néhémie/7#v73).
-	- B. Lecture de la loi. [8:3-8](/fr/Bible/Néhémie/8#v3).
-	- C. Célébrez avec joie. [8:9-12](/fr/Bible/Néhémie/8#v9).
-	- D. Fête des Cabanes. [8:13-18](/fr/Bible/Néhémie/8#v13).
-13. Admonestations diverses. [9:1-4](/fr/Bible/Néhémie/9#v1).
-14. Psaume pénitentiel. [9:5-37](/fr/Bible/Néhémie/9#v5).
-	- A. Doxologie. [9:5](/fr/Bible/Néhémie/9#v5).
-	- B. Dieu le Créateur. [9:6](/fr/Bible/Néhémie/9#v6).
-	- C. Le Pacte. [9:7,8](/fr/Bible/Néhémie/9#v7).
-	- D. En Egypte. [9:9-11](/fr/Bible/Néhémie/9#v9).
-	- E. Dans le Désert. [9:12-21](/fr/Bible/Néhémie/9#v12).
-	- F. Conquête de Canaan. [9:22-25](/fr/Bible/Néhémie/9#v22).
-	- G. Péché et châtiment. [9:26-31](/fr/Bible/Néhémie/9#v26).
-	- H. Plaidoyer pour la Miséricorde. [9:32-37](/fr/Bible/Néhémie/9#v32).
-15. Gage de Keform. [9:38-10:39](/fr/Bible/Néhémie/9#v38).
-	- A. Présentation. [9:38](/fr/Bible/Néhémie/9#v38).
-	- B. Signataires du document. [10:1-27](/fr/Bible/Néhémie/10#v1).
-	- C. Résumé du document. [10:28-39](/fr/Bible/Néhémie/10#v28).
-16. Répartition des peuples. [11:1-36](/fr/Bible/Néhémie/11#v1).
-	- A. Population de Jérusalem. [11:1,2](/fr/Bible/Néhémie/11#v1).
-	- B. Dirigeants à Jérusalem. [11:3-24](/fr/Bible/Néhémie/11#v3).
-	- C. Villes hors de Jérusalem. [11:25-36](/fr/Bible/Néhémie/11#v25).
-17. Généalogies cléricales. [12:1-26](/fr/Bible/Néhémie/12#v1).
-	- A. Prêtres. [12:1-7](/fr/Bible/Néhémie/12#v1).
-	- B. Lévites. [12:8,9](/fr/Bible/Néhémie/12#v8).
-	- C. High Priestso [12:10,11](/fr/Bible/Néhémie/12#v10).
-	- D. Joiakim. [12:12-21](/fr/Bible/Néhémie/12#v12).
-	- E. Source des listes. [12:22,23](/fr/Bible/Néhémie/12#v22).
-	- F. Lévites de Joiakim. [12:24-26](/fr/Bible/Néhémie/12#v24).
-18. Dédicace des murs. [12:27-43](/fr/Bible/Néhémie/12#v27).
-	- A. Réjouissance et Célébration. [12:27-29](/fr/Bible/Néhémie/12#v27).
-	- B. Épuration. [12:30](/fr/Bible/Néhémie/12#v30).
-	- C. Circumambulation. [12:31-42](/fr/Bible/Néhémie/12#v31).
-	- D. Sacrifices. [12:43](/fr/Bible/Néhémie/12#v43).
-19. La communauté idéale. [12:44-13:3](/fr/Bible/Néhémie/12#v44).
-20. Réformes de Néhémie. [13:4-31](/fr/Bible/Néhémie/13#v4).
+5. Néhémie entend des nouvelles. [1:1-11](/fr/Bible/Nehemiah/1#v1).
+	- A. Les Nouvelles. [1:1-4](/fr/Bible/Nehemiah/1#v1).
+	- B. La prière de Néhémie. [1:5-11](/fr/Bible/Nehemiah/1#v5).
+6. La requête de Néhémie est accordée. [2:1-2:8](/fr/Bible/Nehemiah/2#v1).
+7. Néhémie comme Gouverneur. [2:9-20](/fr/Bible/Nehemiah/2#v9).
+	- A. L'arrivée de Néhémie. [2:9-11](/fr/Bible/Nehemiah/2#v9).
+	- B. Inspection du mur. [2:12-15](/fr/Bible/Nehemiah/2#v12).
+	- C. Entretiens avec les dirigeants. [2:16-18](/fr/Bible/Nehemiah/2#v16).
+	- D. Conflit avec les officiels. [2:19,20](/fr/Bible/Nehemiah/2#v19).
+8. Construire le Mur. [3:1-4:23](/fr/Bible/Nehemiah/3#v1).
+	- A. Travailleurs sur le mur. [3:1-32](/fr/Bible/Nehemiah/3#v1).
+	- B. Réaction des voisins. [4:1-3](/fr/Bible/Nehemiah/4#v1).
+	- C. L'imprécation de Néhémie. [4:4,5](/fr/Bible/Nehemiah/4#v4).
+	- D. Nouveaux progrès. [4:6](/fr/Bible/Nehemiah/4#v6).
+	- E. Le complot. [4:7-12](/fr/Bible/Nehemiah/4#v7).
+	- F. Mesures défensives. [4:13-23](/fr/Bible/Nehemiah/4#v13).
+9. Problèmes économiques. [5:1-19](/fr/Bible/Nehemiah/5#v1).
+	- A. Problèmes internes. [5:1-13](/fr/Bible/Nehemiah/5#v1).
+	- Administration de B. Néhémie. [5:14-19](/fr/Bible/Nehemiah/5#v14).
+10. Poursuite des travaux sur le mur. [6:1-19](/fr/Bible/Nehemiah/6#v1).
+	- A. Attaques psychologiques. [6:1-14](/fr/Bible/Nehemiah/6#v1).
+	- B. Achèvement du Mur. [6:15,16](/fr/Bible/Nehemiah/6#v15).
+	- C. Tobie. [6:17-19](/fr/Bible/Nehemiah/6#v17).
+11. Réorganisation de Jérusalem. [7:1-73](/fr/Bible/Nehemiah/7#v1).
+	- A. Les Veilleurs. [7:1-3](/fr/Bible/Nehemiah/7#v1).
+	- B. La Population. [7:4-73](/fr/Bible/Nehemiah/7#v4).
+12. Lecture de la loi. [7:73-8:18](/fr/Bible/Nehemiah/7#v73).
+	- A. Assemblée. [7:73-8:2](/fr/Bible/Nehemiah/7#v73).
+	- B. Lecture de la loi. [8:3-8](/fr/Bible/Nehemiah/8#v3).
+	- C. Célébrez avec joie. [8:9-12](/fr/Bible/Nehemiah/8#v9).
+	- D. Fête des Cabanes. [8:13-18](/fr/Bible/Nehemiah/8#v13).
+13. Admonestations diverses. [9:1-4](/fr/Bible/Nehemiah/9#v1).
+14. Psaume pénitentiel. [9:5-37](/fr/Bible/Nehemiah/9#v5).
+	- A. Doxologie. [9:5](/fr/Bible/Nehemiah/9#v5).
+	- B. Dieu le Créateur. [9:6](/fr/Bible/Nehemiah/9#v6).
+	- C. Le Pacte. [9:7,8](/fr/Bible/Nehemiah/9#v7).
+	- D. En Egypte. [9:9-11](/fr/Bible/Nehemiah/9#v9).
+	- E. Dans le Désert. [9:12-21](/fr/Bible/Nehemiah/9#v12).
+	- F. Conquête de Canaan. [9:22-25](/fr/Bible/Nehemiah/9#v22).
+	- G. Péché et châtiment. [9:26-31](/fr/Bible/Nehemiah/9#v26).
+	- H. Plaidoyer pour la Miséricorde. [9:32-37](/fr/Bible/Nehemiah/9#v32).
+15. Gage de Keform. [9:38-10:39](/fr/Bible/Nehemiah/9#v38).
+	- A. Présentation. [9:38](/fr/Bible/Nehemiah/9#v38).
+	- B. Signataires du document. [10:1-27](/fr/Bible/Nehemiah/10#v1).
+	- C. Résumé du document. [10:28-39](/fr/Bible/Nehemiah/10#v28).
+16. Répartition des peuples. [11:1-36](/fr/Bible/Nehemiah/11#v1).
+	- A. Population de Jérusalem. [11:1,2](/fr/Bible/Nehemiah/11#v1).
+	- B. Dirigeants à Jérusalem. [11:3-24](/fr/Bible/Nehemiah/11#v3).
+	- C. Villes hors de Jérusalem. [11:25-36](/fr/Bible/Nehemiah/11#v25).
+17. Généalogies cléricales. [12:1-26](/fr/Bible/Nehemiah/12#v1).
+	- A. Prêtres. [12:1-7](/fr/Bible/Nehemiah/12#v1).
+	- B. Lévites. [12:8,9](/fr/Bible/Nehemiah/12#v8).
+	- C. High Priestso [12:10,11](/fr/Bible/Nehemiah/12#v10).
+	- D. Joiakim. [12:12-21](/fr/Bible/Nehemiah/12#v12).
+	- E. Source des listes. [12:22,23](/fr/Bible/Nehemiah/12#v22).
+	- F. Lévites de Joiakim. [12:24-26](/fr/Bible/Nehemiah/12#v24).
+18. Dédicace des murs. [12:27-43](/fr/Bible/Nehemiah/12#v27).
+	- A. Réjouissance et Célébration. [12:27-29](/fr/Bible/Nehemiah/12#v27).
+	- B. Épuration. [12:30](/fr/Bible/Nehemiah/12#v30).
+	- C. Circumambulation. [12:31-42](/fr/Bible/Nehemiah/12#v31).
+	- D. Sacrifices. [12:43](/fr/Bible/Nehemiah/12#v43).
+19. La communauté idéale. [12:44-13:3](/fr/Bible/Nehemiah/12#v44).
+20. Réformes de Néhémie. [13:4-31](/fr/Bible/Nehemiah/13#v4).
 	- A. Expulsion de Tobie. 13:4-9.
-	- B. Soutien lévitique. [13:10-14](/fr/Bible/Néhémie/13#v10).
-	- C. Réformes du sabbat. [13:15-22](/fr/Bible/Néhémie/13#v15).
-	- D. Réformes du mariage. [13:23-29](/fr/Bible/Néhémie/13#v23).
-	- E. Récapitulation. [13:30,31](/fr/Bible/Néhémie/13#v30).
+	- B. Soutien lévitique. [13:10-14](/fr/Bible/Nehemiah/13#v10).
+	- C. Réformes du sabbat. [13:15-22](/fr/Bible/Nehemiah/13#v15).
+	- D. Réformes du mariage. [13:23-29](/fr/Bible/Nehemiah/13#v23).
+	- E. Récapitulation. [13:30,31](/fr/Bible/Nehemiah/13#v30).
 
 ## III. Paternité
 
@@ -166,7 +166,7 @@ Auteur: **William S. Sadler**
 
 1. Bien qu'il soit possible qu'Ezra et Néhémie aient été contemporains pendant une saison, il existe de nombreuses preuves que Néhémie était à Jérusalem bien avant l'arrivée d'Ezra.
 2. Les faits qui indiquent la priorité de Néhémie sont :
-	- R. Il est peu probable que le même roi enverrait deux hommes à Jérusalem avec la même autorité pour faire un travail en même temps.
+	- A. Il est peu probable que le même roi enverrait deux hommes à Jérusalem avec la même autorité pour faire un travail en même temps.
 	- B. Dans les archives originales, Esdras et Néhémie semblent s'ignorer.
 	- C. En préparant un recensement, Néhémie fait allusion à Zorobabel, mais ne mentionne pas Esdras.
 	- D. Néhémie arrive dans une ville vide ; Ezra travaille dans une ville animée.
@@ -198,21 +198,21 @@ Auteur: **William S. Sadler**
 
 ### Esdras
 
-1. **Cyrus met fin à l'exil**. "La première année de Cyrus, roi de Perse... il fit une proclamation... 'Quiconque est parmi vous... qu'il monte à Jérusalem... et rebâtisse la maison de l'Éternel.'" [1 : 1-3](/fr/Bible/Esdras/1#v1).
-2. **Les réactionnaires**. "Alors le peuple du pays a découragé le peuple de Juda, et lui a fait peur de construire, et a embauché des conseillers contre eux pour faire échouer leur dessein." [4:4,5](/fr/Bible/Esdras/4#v4).
-3. **Arrêter le travail**. "Alors le travail sur la maison de Dieu... s'arrêta... jusqu'à la deuxième année... de Darius." [4:24](/fr/Bible/Esdras/4#v24).
-4. **Ezra arrive**. "Ezra monta de Babylone. C'était un scribe compétent dans la loi de Moïse... et le roi lui accorda tout ce qu'il demandait." [7:6](/fr/Bible/Esdras/7#v6).
+1. **Cyrus met fin à l'exil**. "La première année de Cyrus, roi de Perse... il fit une proclamation... 'Quiconque est parmi vous... qu'il monte à Jérusalem... et rebâtisse la maison de l'Éternel.'" [1 : 1-3](/fr/Bible/Ezra/1#v1).
+2. **Les réactionnaires**. "Alors le peuple du pays a découragé le peuple de Juda, et lui a fait peur de construire, et a embauché des conseillers contre eux pour faire échouer leur dessein." [4:4,5](/fr/Bible/Ezra/4#v4).
+3. **Arrêter le travail**. "Alors le travail sur la maison de Dieu... s'arrêta... jusqu'à la deuxième année... de Darius." [4:24](/fr/Bible/Ezra/4#v24).
+4. **Ezra arrive**. "Ezra monta de Babylone. C'était un scribe compétent dans la loi de Moïse... et le roi lui accorda tout ce qu'il demandait." [7:6](/fr/Bible/Ezra/7#v6).
 
 ### Néhémie
 
-5. **Néhémie reprend le travail**. '"Bâtissons la muraille de Jérusalem, afin que nous ne soyons plus opprimés... Levons-nous et bâtissons." [2:17,18](/en/Bible/Nehemiah/2#v17).
-6. **Les prêtres se mettent au travail**. "Au-dessus de la porte aux chevaux, les prêtres ont réparé, chacun en face de sa propre maison." [3:28](/fr/Bible/Néhémie/3#v28).
-7. **Un esprit à travailler**. "Alors nous avons construit le mur; et tout le mur a été joint jusqu'à la moitié de sa hauteur. Car le peuple avait l'esprit de travailler." [4:6](/fr/Bible/Néhémie/4#v6).
-8. **Comment ils ont fonctionné**. "Chacun d'une main travaillait à l'ouvrage et de l'autre tenait son arme." [4:17](/fr/Bible/Néhémie/4#v17).
-9. **Une longue journée**. "Alors nous avons travaillé à l'ouvrage, et la moitié d'entre eux ont tenu les lances depuis l'aube jusqu'à ce que les étoiles apparaissent." [4:21](/fr/Bible/Néhémie/4#v21).
-10. **Refus d'être détourné**. "'Je fais une grande œuvre et je ne peux pas descendre.'" [6:3](/fr/Bible/Néhémie/6#v3).
-11. **Ezra lit la loi**. "Et Ezra le sacrificateur apporta la loi devant l'assemblée... Et il en lut... du petit matin jusqu'à midi." [8:2,3](/fr/Bible/Néhémie/8#v2).
-12. **La dédicace**. "Et lors de la dédicace de la muraille de Jérusalem, ils cherchèrent les Lévites... pour les amener... pour célébrer la dédicace avec joie." [12:27](/fr/Bible/Néhémie/12#v27).
+5. **Néhémie reprend le travail**. '"Bâtissons la muraille de Jérusalem, afin que nous ne soyons plus opprimés... Levons-nous et bâtissons." [2:17,18](/fr/Bible/Nehemiah/2#v17).
+6. **Les prêtres se mettent au travail**. "Au-dessus de la porte aux chevaux, les prêtres ont réparé, chacun en face de sa propre maison." [3:28](/fr/Bible/Nehemiah/3#v28).
+7. **Un esprit à travailler**. "Alors nous avons construit le mur; et tout le mur a été joint jusqu'à la moitié de sa hauteur. Car le peuple avait l'esprit de travailler." [4:6](/fr/Bible/Nehemiah/4#v6).
+8. **Comment ils ont fonctionné**. "Chacun d'une main travaillait à l'ouvrage et de l'autre tenait son arme." [4:17](/fr/Bible/Nehemiah/4#v17).
+9. **Une longue journée**. "Alors nous avons travaillé à l'ouvrage, et la moitié d'entre eux ont tenu les lances depuis l'aube jusqu'à ce que les étoiles apparaissent." [4:21](/fr/Bible/Nehemiah/4#v21).
+10. **Refus d'être détourné**. "'Je fais une grande œuvre et je ne peux pas descendre.'" [6:3](/fr/Bible/Nehemiah/6#v3).
+11. **Ezra lit la loi**. "Et Ezra le sacrificateur apporta la loi devant l'assemblée... Et il en lut... du petit matin jusqu'à midi." [8:2,3](/fr/Bible/Nehemiah/8#v2).
+12. **La dédicace**. "Et lors de la dédicace de la muraille de Jérusalem, ils cherchèrent les Lévites... pour les amener... pour célébrer la dédicace avec joie." [12:27](/fr/Bible/Nehemiah/12#v27).
 
 
 <br>

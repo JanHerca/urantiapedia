@@ -47,7 +47,7 @@ Auteur: **William S. Sadler**
 2. Nahum se réjouit de la chute de Ninive, la capitale assyrienne.
 3. Malgré ses lacunes spirituelles, Nahum est l'un des chefs-d'œuvre littéraires les plus remarquables de la Bible.
 4. C'est un oracle de vengeance. Pour la vigueur et la ferveur, il tient une place bien à lui.
-5. Dans [2:4](/en/Bible/Nahum/2#v4), il est écrit : "Les chars font rage dans les rues, ils se précipitent à travers les places." Ce verset a été interprété comme une prophétie annonçant les chemins de fer et les automobiles.
+5. Dans [2:4](/fr/Bible/Nahum/2#v4), il est écrit : "Les chars font rage dans les rues, ils se précipitent à travers les places." Ce verset a été interprété comme une prophétie annonçant les chemins de fer et les automobiles.
 6. C'est un poème de vengeance, un chef-d'œuvre de la littérature vindicative.
 7. Pour les Juifs, l'Assyrie était le symbole de l'incarnation du mal, un militarisme sanguinaire.
 8. Nahum était un contemporain de Sophonie, Habacuc et Jérémie.

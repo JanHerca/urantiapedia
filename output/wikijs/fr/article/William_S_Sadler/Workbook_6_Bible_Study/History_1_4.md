@@ -69,7 +69,7 @@ Auteur: **William S. Sadler**
 
 1. En 1557 paraît la [Bible de Genève](https://en.wikipedia.org/wiki/Geneva_Bible), traduite par le beau-frère de Calvin.
 2. Cette Bible reflète la théologie de Calvin et de Knox.
-3. Elle est devenue connue sous le nom de Bible des « Culottes » à partir de la traduction de [Gen 3:7](/en/Bible/Genesis/3#v7).
+3. Elle est devenue connue sous le nom de Bible des « Culottes » à partir de la traduction de [Gen 3:7](/fr/Bible/Genesis/3#v7).
 4. C'était la plus savante et la plus précise de toutes les traductions anglaises jusqu'à cette époque.
 5. Cette Bible avait ce qu'on pourrait appeler des "notes marginales protestantes".
 6. Ceci est la première Bible anglaise avec une division complète en chapitres et versets.
@@ -87,7 +87,7 @@ Auteur: **William S. Sadler**
 1. Le Nouveau Testament en 1582. L'Ancien Testament en 1609. Première impression à Reims.
 2. Première Bible complète publiée à Douay en 1633. Longtemps connue sous le nom de **[Douay](https://en.wikipedia.org/wiki/Douay%E2%80%93Rheims_Bible)** Bible.
 3. Cette Bible a été conçue pour se débarrasser de la « tendance » protestante de certaines versions.
-4. Exemple : [Mat. 6:24](/fr/Bible/Matthieu/6#v24). "Deux maîtres." Cela avait été appliqué à « deux religions ». Christ et Calvin. catholique et protestante.
+4. Exemple : [Mat. 6:24](/fr/Bible/Matthew/6#v24). "Deux maîtres." Cela avait été appliqué à « deux religions ». Christ et Calvin. catholique et protestante.
 5. C'était vraiment une révision de la Vulgate Bible de Jérôme.
 
 **NOTE** : Ce n'est que récemment que les catholiques ont publié leur première révision de la Bible de Douay.
@@ -101,10 +101,10 @@ Auteur: **William S. Sadler**
 5. Les apocryphes ont été laissés.
 6. C'était la troisième Bible autorisée en Angleterre.
 7. Il y avait de nombreuses fautes d'impression :
-	- une. [Mat. 23:24](/fr/Bible/Matthieu/23#v24). "À" pour "sortir". "Souche à un moucheron."
+	- a. [Mat. 23:24](/fr/Bible/Matthew/23#v24). "À" pour "sortir". "Souche à un moucheron."
 	- b. Mots archaïques : « Empêcher » pour « aller avant ».
-	- ch. « Damnation » pour « jugement ».
-	- ré. « Voiture » ​​pour « bagages ».
+	- c. « Damnation » pour « jugement ».
+	- d. « Voiture » ​​pour « bagages ».
 8. Pendant 250 ans, cette version a été la Bible du monde protestant.
 9. Cette version a finalement omis les Apocryphes.
 10. Cette Bible a eu une grande influence sur la langue anglaise pendant plus de deux cents ans.

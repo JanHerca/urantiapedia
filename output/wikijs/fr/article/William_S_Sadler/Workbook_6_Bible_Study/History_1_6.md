@@ -38,7 +38,7 @@ Auteur: **William S. Sadler**
 ## II. Chronologie
 
 1. Les détails de la chronologie seront considérés dans l'étude de l'histoire de l'Ancien et du Nouveau Testament.
-2. L'explication de la durée de vie extra longue des personnalités anciennes se trouve dans le Livre d'Urantia [UB 77:2.10](/en/The_Urantia_Book/77#p2_10) Le mois lunaire de 28 jours était appelé une année. Ainsi, un homme vivant 900 ans ne vécut en réalité qu'environ 70 ans - "trois vingt ans et dix" - un âge mûr pour l'époque.
+2. L'explication de la durée de vie extra longue des personnalités anciennes se trouve dans le Livre d'Urantia [LU 77:2.10](/fr/The_Urantia_Book/77#p2_10) Le mois lunaire de 28 jours était appelé une année. Ainsi, un homme vivant 900 ans ne vécut en réalité qu'environ 70 ans - "trois vingt ans et dix" - un âge mûr pour l'époque.
 3. Chronologie des livres de l'Ancien Testament.
 	- Genèse—1200-450 avant JC
 	- Exode—1200-450 avant JC
@@ -127,7 +127,7 @@ Suit une liste de mots. donnant leur sens tel qu'utilisé dans la Bible:
 - S'abstenir - retenir ou contrôler.
 - Plusieurs—séparés
 - Simple—sans ruse ; irréprochable.
-- Sincère - appliqué aux choses aussi bien qu'aux personnes - "le lait sincère de la parole". [I Pierre 2:2](/en/Bible/1_Peter/2#v2).
+- Sincère - appliqué aux choses aussi bien qu'aux personnes - "le lait sincère de la parole". [I Pierre 2:2](/fr/Bible/1_Peter/2#v2).
 - L'espace — appliqué au temps — plutôt qu'à l'aire.
 - Banlieues — pâturages, terres communales.
 - Cible : un bouclier ou un bouclier.

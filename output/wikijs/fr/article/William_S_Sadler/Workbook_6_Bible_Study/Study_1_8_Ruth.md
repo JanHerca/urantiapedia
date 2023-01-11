@@ -46,7 +46,7 @@ Auteur: **William S. Sadler**
 5. Il contrecarre la notion populaire de difficulté à s'entendre avec les belles-mères.
 6. C'est une histoire au charme irrésistible.
 7. L'héroïne est courageuse, déterminée, loyale et sagace.
-8. Le livre illustre l'enseignement de Paul : « Il n'y a ni Juif ni Grec. [Fille. 3:28](/fr/Bible/Galates/3#v28).
+8. Le livre illustre l'enseignement de Paul : « Il n'y a ni Juif ni Grec. [Fille. 3:28](/fr/Bible/Galatians/3#v28).
 
 ## IV. L'histoire de Ruth
 

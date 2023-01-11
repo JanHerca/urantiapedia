@@ -23,7 +23,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 Auteur: **William S. Sadler**
 
 1. C'est l'histoire d'un esclave fugitif converti - sa conversion et son retour à son maître.
-2. C'est l'un des [livres les plus courts de la Bible](/en/Bible/Philemon/1), et le seul traitant entièrement des affaires d'un seul individu.
+2. C'est l'un des [livres les plus courts de la Bible](/fr/Bible/Philemon/1), et le seul traitant entièrement des affaires d'un seul individu.
 3. Paul écrivit à Philémon, le maître de l'esclave Onésime, implorant avec tact le pardon.
 4. Cette lettre a probablement été écrite de Rome, vers 59-61 après JC.
 5. Onésime a porté la lettre à Philémon et était accompagné de Tychique qui a également porté la lettre de Paul aux Colossiens.

@@ -44,7 +44,7 @@ Auteur: **William S. Sadler**
   - [2. Littérature paléochrétienne](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/History_3_2)
   - [3. Langue du Nouveau Testament](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/History_3_3)
   - [4. Croissance des évangiles](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/History_3_4)
-  - [5. New Testament Times](/en/article/William_S_Sadler/Workbook_6_Bible_Study/History_3_5)
+  - [5. New Testament Times](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/History_3_5)
   - [6. La Palestine à l'époque du Nouveau Testament](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/History_3_6)
   - [7. Histoire de l'Église primitive](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/History_3_7)
   - [8. La Vie De Paul](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/History_3_8)
@@ -52,20 +52,20 @@ Auteur: **William S. Sadler**
 
 
 - Étude : première partie - Livres de l'Ancien Testament
-  - [1. Genèse](/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_1_Genesis)
+  - [1. Genèse](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_1_Genesis)
   - [2. Exode](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_2_Exodus)
   - [3. Lévitique](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_3_Leviticus)
-  - [4. Numbers](/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_4_Numbers)
+  - [4. Numbers](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_4_Numbers)
   - [5. Deutéronome](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_5_Deuteronomy)
-  - [6. Joshua](/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_6_Joshua)
+  - [6. Joshua](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_6_Joshua)
   - [7. Juges](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_7_Judges)
-  - [8. Ruth](/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_8_Ruth)
+  - [8. Ruth](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_8_Ruth)
   - [9. Premier et deuxième Samuel](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_9_Samuel)
   - [dix. Premier et deuxième rois](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_10_Kings)
   - [11. Première et deuxième Chroniques](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_11_Chronicles)
   - [12. Esdras et Néhémie](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_12_Ezra_Nehemiah)
-  - [13. Esther](/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_13_Esther)
-  - [14. Job](/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_14_Job)
+  - [13. Esther](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_13_Esther)
+  - [14. Job](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_14_Job)
   - [15. Psaumes](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_15_Psalms)
   - [16. Proverbes](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_16_Proverbs)
   - [17. Ecclésiaste](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_1_17_Ecclesiastes)
@@ -91,10 +91,10 @@ Auteur: **William S. Sadler**
 
 
 - Étude : Deuxième partie - Livres du Nouveau Testament
-  - [1. Matthieu](/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_1_Matthew)
+  - [1. Matthieu](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_1_Matthew)
   - [2. Mark](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_2_Mark)
   - [3. Luc](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_3_Luc)
-  - [4. Jean](/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_4_John)
+  - [4. Jean](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_4_John)
   - [5. Actes](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_5_Acts)
   - [6. Romains](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_6_Romans)
   - [7. Premier Corinthiens](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_7_1Corinthians)
@@ -107,11 +107,11 @@ Auteur: **William S. Sadler**
   - [14. Premier et deuxième Timothée, Tite](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_14_Timothy_Titus)
   - [15. Philémon](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_15_Philemon)
   - [16. Hébreux](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_16_Hebrews)
-  - [17. James](/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_17_James)
+  - [17. James](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_17_James)
   - [18. Premier Pierre](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_18_1Peter)
   - [19. Deuxième Pierre](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_19_2Peter)
   - [20. Premier, deuxième et troisième Jean](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_20_John)
-  - [21. Jude](/en/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_21_Jude)
+  - [21. Jude](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_21_Jude)
   - [22. Révélation](/fr/article/William_S_Sadler/Workbook_6_Bible_Study/Study_2_22_Revelation)
 
 ## Références

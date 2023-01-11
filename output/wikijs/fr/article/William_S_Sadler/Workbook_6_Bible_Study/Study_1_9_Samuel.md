@@ -42,7 +42,7 @@ Avant la Septante, le Premier et le Deuxième Samuel formaient un seul livre.
 	- C. Fils d'Eli. [2:11-26](/fr/Bible/1_Samuel/2#v11).
 	- D. Doom de la maison d'Eli. [2:27-36](/fr/Bible/1_Samuel/2#v27).
 	- E. Appel de Samuel. [3:1-21](/fr/Bible/1_Samuel/3#v1).
-2. Capture et retour de l'Arche. [4:1-7:1](/en/Bible/1_Samuel/4#v1).
+2. Capture et retour de l'Arche. [4:1-7:1](/fr/Bible/1_Samuel/4#v1).
 	- A. Capture de l'Arche. [4:1-22](/fr/Bible/1_Samuel/4#v1).
 	- B. Arche chez les Philistins. [5:1-12](/fr/Bible/1_Samuel/5#v1).
 	- C. Retour de l'Arche. [6:1-7:1](/fr/Bible/1_Samuel/6#v1).
@@ -113,7 +113,7 @@ Avant la Septante, le Premier et le Deuxième Samuel formaient un seul livre.
 	- G. David retourne à Jérusalem. [19:8-43](/fr/Bible/1_Samuel/19#v8).
 	- H. Révolte de Saba. [20:1-26](/fr/Bible/1_Samuel/20#v1).
 13. Annexe. [21:1-24:25](/fr/Bible/2_Samuel/21#v1).
-	- R. La Famine. [21:1-14](/fr/Bible/1_Samuel/21#v1).
+	- A. La Famine. [21:1-14](/fr/Bible/1_Samuel/21#v1).
 	- B. Exploits des Guerriers de David. [21:15-22](/fr/Bible/1_Samuel/21#v15).
 	- C. Psaume d'action de grâce. [22:1-51](/fr/Bible/1_Samuel/22#v1).
 	- Testament de D. David. [23:1-7](/fr/Bible/2_Samuel/23#v1).
@@ -136,12 +136,12 @@ Avant la Septante, le Premier et le Deuxième Samuel formaient un seul livre.
 5. D et P ont transformé Samuel, un voyant du village, en un "puissant prophète".
 6. Samuel est un chef-d'œuvre d'histoire, de perspicacité psychologique, de style littéraire et de puissance dramatique.
 
-**Remarque** : le maréchal Allenby, lorsqu'il était en Palestine en 1918, a examiné le récit du champ de bataille de l'attaque de Jonathan contre la garnison philistine (1 Sam. [14:1-23](/en/Bible/1_Samuel/14# v1)) et a pu identifier le rocher "au nord devant Michmash, et l'autre au sud devant Geba". Il a qualifié la stratégie de Jonathan de solide.
+**Remarque** : le maréchal Allenby, lorsqu'il était en Palestine en 1918, a examiné le récit du champ de bataille de l'attaque de Jonathan contre la garnison philistine (1 Sam. [14:1-23](/fr/Bible/1_Samuel/14#v1)) et a pu identifier le rocher "au nord devant Michmash, et l'autre au sud devant Geba". Il a qualifié la stratégie de Jonathan de solide.
 
 ## IV. Valeur historique
 
 1. Des preuves de répétition et de duplication, non encore notées, montrent que le rédacteur du Deutéronome n'a pas réussi à aplanir ces contradictions :
-	- R. La trahison de Ziphite envers David est racontée deux fois.
+	- A. La trahison de Ziphite envers David est racontée deux fois.
 	- B. Deux histoires de l'évasion de David de Nob.
 	- C. Deux récits contradictoires de la mort de Saül.
 	- D. Deux histoires de la guerre contre Amalek.

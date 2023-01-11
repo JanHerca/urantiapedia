@@ -24,28 +24,28 @@ Auteur: **William S. Sadler**
 
 ## I. Aperçu
 
-1. Jugement de Jérusalem. [1:1-18](/fr/Bible/Sophonie/1#v1).
-	- Un titre. [1:1](/fr/Bible/Sophonie/1#v1).
-	- B. Menace de destruction. [1:2-6](/fr/Bible/Sophonie/1#v2).
-	- C. Sacrifice du Seigneur. [1:7](/fr/Bible/Sophonie/1#v7).
-	- D. Châtiment des Princes. [1:8,9](/fr/Bible/Sophonie/1#v8).
-	- E. Le Jour à Jérusalem. [1:10,11](/fr/Bible/Sophonie/1#v10).
-	- F. Destin de l'indifférent. [1:12-16](/fr/Bible/Sophonie/1#v12).
-	- G. Jugement universel. [1:17,18](/fr/Bible/Sophonie/1#v17).
-2. Jugement des Nations. [2:1-15](/fr/Bible/Sophonie/2#v1).
-	- A. Citation au châtiment. [2:1,2](/fr/Bible/Sophonie/2#v1).
-	- B. Chercher le Seigneur. [2:3](/fr/Bible/Sophonie/2#v3).
-	- C. Oracle contre la Philistie. [2:4-7](/fr/Bible/Sophonie/2#v4).
-	- D. Oracle contre les autres. [2:8-12](/fr/Bible/Sophonie/2#v8).
-	- E. Avertissement à l'Assyrie. [2:13,14](/fr/Bible/Sophonie/2#v13).
-	- F. Ajout éditorial. [2:15](/fr/Bible/Sophonie/2#v15).
-3. Menaces et promesses. [3:1-20](/fr/Bible/Sophonie/3#v1).
-	- A. Accusations contre Jérusalem. [3:1-5](/fr/Bible/Sophonie/3#v1).
-	- B. Manquement à la discipline. [3:6,7](/fr/Bible/Sophonie/3#v6).
-	- C. Punition Universelle. [3:8](/fr/Bible/Sophonie/3#v8).
-	- D. Conversion des nations. [3:9,10](/fr/Bible/Sophonie/3#v9).
-	- E. Sécurité du Reste. [3:11-13](/fr/Bible/Sophonie/3#v11).
-	- F. L'âge d'or. [3:14-20](/fr/Bible/Sophonie/3#v14).
+1. Jugement de Jérusalem. [1:1-18](/fr/Bible/Zephaniah/1#v1).
+	- Un titre. [1:1](/fr/Bible/Zephaniah/1#v1).
+	- B. Menace de destruction. [1:2-6](/fr/Bible/Zephaniah/1#v2).
+	- C. Sacrifice du Seigneur. [1:7](/fr/Bible/Zephaniah/1#v7).
+	- D. Châtiment des Princes. [1:8,9](/fr/Bible/Zephaniah/1#v8).
+	- E. Le Jour à Jérusalem. [1:10,11](/fr/Bible/Zephaniah/1#v10).
+	- F. Destin de l'indifférent. [1:12-16](/fr/Bible/Zephaniah/1#v12).
+	- G. Jugement universel. [1:17,18](/fr/Bible/Zephaniah/1#v17).
+2. Jugement des Nations. [2:1-15](/fr/Bible/Zephaniah/2#v1).
+	- A. Citation au châtiment. [2:1,2](/fr/Bible/Zephaniah/2#v1).
+	- B. Chercher le Seigneur. [2:3](/fr/Bible/Zephaniah/2#v3).
+	- C. Oracle contre la Philistie. [2:4-7](/fr/Bible/Zephaniah/2#v4).
+	- D. Oracle contre les autres. [2:8-12](/fr/Bible/Zephaniah/2#v8).
+	- E. Avertissement à l'Assyrie. [2:13,14](/fr/Bible/Zephaniah/2#v13).
+	- F. Ajout éditorial. [2:15](/fr/Bible/Zephaniah/2#v15).
+3. Menaces et promesses. [3:1-20](/fr/Bible/Zephaniah/3#v1).
+	- A. Accusations contre Jérusalem. [3:1-5](/fr/Bible/Zephaniah/3#v1).
+	- B. Manquement à la discipline. [3:6,7](/fr/Bible/Zephaniah/3#v6).
+	- C. Punition Universelle. [3:8](/fr/Bible/Zephaniah/3#v8).
+	- D. Conversion des nations. [3:9,10](/fr/Bible/Zephaniah/3#v9).
+	- E. Sécurité du Reste. [3:11-13](/fr/Bible/Zephaniah/3#v11).
+	- F. L'âge d'or. [3:14-20](/fr/Bible/Zephaniah/3#v14).
 
 ## II. Paternité
 

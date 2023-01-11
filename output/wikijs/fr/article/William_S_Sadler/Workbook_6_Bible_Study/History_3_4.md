@@ -30,7 +30,7 @@ Auteur: **William S. Sadler**
 
 une. [I Cor 11:23-25](/fr/Bible/1_Corinthians/11#v23). Le souper du Seigneur.
 
-b. [I Cor 15:3-8](/fr/Bible/1_Corinthiens/15#v3). La résurrection.
+b. [I Cor 15:3-8](/fr/Bible/1_Corinthians/15#v3). La résurrection.
 4. Luc fait référence à des "documents déjà écrits". Le [manuscrit Q](https://en.wikipedia.org/wiki/Q_source) (notes d'Andrew).
 5. En raison de « ressemblances », Matthieu, Marc et Luc ont été appelés les « synoptiques ».
 6. L'utilisation de sources écrites produit un accord ; de tradition orale, désaccord.

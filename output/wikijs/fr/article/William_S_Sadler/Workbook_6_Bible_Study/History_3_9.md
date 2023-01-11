@@ -30,7 +30,7 @@ Auteur: **William S. Sadler**
 4. La prédication de Pierre et les lettres de Paul étaient l'épine dorsale traditionnelle de l'église chrétienne primitive.
 5. Après le décès des apôtres et des membres de la famille de Jésus, des sectes et des hérésies ont commencé à apparaître.
 6. Les "faux prophètes" ont surgi partout. Il y avait deux ailes de chrétiens juifs :
-	- une. Les fondamentalistes étaient les Ebionites.
+	- a. Les fondamentalistes étaient les Ebionites.
 	- b. Les libéraux étaient les Nazaréens.
 7. Les Ebionites ont rejeté l'évangile de Matthieu.
 

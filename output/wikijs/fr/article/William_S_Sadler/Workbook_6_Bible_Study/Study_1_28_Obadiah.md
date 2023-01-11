@@ -24,14 +24,14 @@ Auteur: **William S. Sadler**
 
 ## I. Aperçu
 
-1. Jugement d'Edom, vs. [1-14](/en/Bible/Obadiah/1#v1).
+1. Jugement d'Edom, vs. [1-14](/fr/Bible/Obadiah/1#v1).
 	- Un titre. 1.
-	- B. Avertissement à Edom. [2-4](/fr/Bible/Abdias/1#v2).
-	- C. La destruction d'Edom. [5-9](/fr/Bible/Abdias/1#v5).
-	- D. Motifs du jugement. [10-14](/fr/Bible/Abdias/1#v10).
-2. Le Jour du Seigneur. [15-21](/fr/Bible/Abdias/1#v15).
-	- A. Jugement universel. [15,16](/fr/Bible/Abdias/1#v15).
-	- B. Restauration d'Israël. [17-21](/fr/Bible/Abdias/1#v17).
+	- B. Avertissement à Edom. [2-4](/fr/Bible/Obadiah/1#v2).
+	- C. La destruction d'Edom. [5-9](/fr/Bible/Obadiah/1#v5).
+	- D. Motifs du jugement. [10-14](/fr/Bible/Obadiah/1#v10).
+2. Le Jour du Seigneur. [15-21](/fr/Bible/Obadiah/1#v15).
+	- A. Jugement universel. [15,16](/fr/Bible/Obadiah/1#v15).
+	- B. Restauration d'Israël. [17-21](/fr/Bible/Obadiah/1#v17).
 
 ## II. Paternité
 
@@ -44,9 +44,9 @@ Auteur: **William S. Sadler**
 1. Le livre traite des ennemis traditionnels d'Israël. Les Édomites ont refusé de laisser les Israélites traverser leur pays lorsqu'ils sont entrés en Canaan.
 2. Israël et Edom sont censés être les descendants des frères jumeaux Jacob et Esaü.
 3. Les Édomites ont été très cruels envers les Juifs lors de la destruction de Jérusalem, ont aidé leurs ennemis et ont persécuté les réfugiés.
-4. Certains passages se trouvent dans Jérémie et Joël. ([Jér. 49:7-22](/fr/Bible/Jérémie/49#v7). [Joël 3:19](/fr/Bible/Joël/3#v19). [Obad. v. 1-4 ](/en/Bible/Obadiah/1#v1).) Peut-être tous cités d'un oracle antérieur.
+4. Certains passages se trouvent dans Jérémie et Joël. ([Jér. 49:7-22](/fr/Bible/Jeremiah/49#v7). [Joël 3:19](/fr/Bible/Joel/3#v19). [Obad. v. 1-4 ](/fr/Bible/Obadiah/1#v1).) Peut-être tous cités d'un oracle antérieur.
 5. La première moitié traite de l'expulsion des Édomites ; la seconde moitié avec la venue du royaume de Dieu.
-6. [Joël 2:32](/en/Bible/Joel/1#v32) cite Abdias, donc ce livre a été écrit avant Joël. ([Obad. v.17](/en/Bible/Obadiah/1#v17))
+6. [Joël 2:32](/fr/Bible/Joel/1#v32) cite Abdias, donc ce livre a été écrit avant Joël. ([Obad. v.17](/fr/Bible/Obadiah/1#v17))
 
 ## IV. Idées phares
 
@@ -58,7 +58,7 @@ Auteur: **William S. Sadler**
 
 ## V. Textes sélectionnés
 
-1. **État des morts**. "Ils boiront et chancelleront, et seront comme s'ils n'avaient pas été." [v. 16](/fr/Bible/Abdias/1#v16).
+1. **État des morts**. "Ils boiront et chancelleront, et seront comme s'ils n'avaient pas été." [v. 16](/fr/Bible/Obadiah/1#v16).
 
 
 <br>

@@ -28,11 +28,11 @@ Auteur: **William S. Sadler**
 1. La [Septante grecque](https://en.wikipedia.org/wiki/Septante) devait être traduite par 72 hommes distincts. Lorsqu'ils se sont réunis, ils étaient parfaitement d'accord.
 2. L'Écriture a été inspirée verbalement par Dieu.
 3. Il y avait deux méthodes d'interprétation :
-	- une. alexandrin. Philo. La méthode allégorique. L'hellénistique. Plus tard, le stoïcien.
+	- a. alexandrin. Philo. La méthode allégorique. L'hellénistique. Plus tard, le stoïcien.
 	- b. La méthode juive traditionnelle ou littérale. Le « peuple élu ».
 4. Tout en acceptant en général l'Ancien Testament, Jésus a osé le critiquer. Il a dit qu'il était venu pour accomplir et non pour détruire les Écritures.
-5. Dans le Livre d'Urantia, voir la conversation de Jésus avec Nathaniel, [UB 159:4.1](/en/The_Urantia_Book/159#p4_1)
-6. Jésus fait de nouvelles interprétations des Écritures dans son soi-disant « sermon sur la montagne ». [UB 140:4.1](/en/The_Urantia_Book/140#p4_1)
+5. Dans le Livre d'Urantia, voir la conversation de Jésus avec Nathaniel, [LU 159:4.1](/fr/The_Urantia_Book/159#p4_1)
+6. Jésus fait de nouvelles interprétations des Écritures dans son soi-disant « sermon sur la montagne ». [LU 140:4.1](/fr/The_Urantia_Book/140#p4_1)
 7. Le livre des Hébreux est une nouvelle interprétation de beaucoup d'enseignements de l'Ancien Testament.
 8. Les premières doctrines de la LOI et de la GRÂCE.
 
@@ -40,17 +40,17 @@ Auteur: **William S. Sadler**
 
 1. Les écoles d'interprétation juive et anti-juive.
 2. Tradition et autorité :
-	- une. Hérétiques—enseignements privés.
+	- a. Hérétiques—enseignements privés.
 	- b. Autorité de l'église.
 3. Alexandrie et Antioche :
-	- une. Alexandrie—platonicienne.
+	- a. Alexandrie—platonicienne.
 	- b. Antioche—Aristotélicienne.
 4. Écoles d'interprétation :
-	- une. Alexandrie - allégorique (Philon).
+	- a. Alexandrie - allégorique (Philon).
 	- b. Antioche — significations littérales.
 5. Origène penchait vers l'allégorie - Paul était un littéraliste, mais traitait de types et d'antitypes.
 6. Jérôme et Augustin :
-	- une. Jérôme était antiochien. Traduit l'Ancien Testament hébreu en latin.
+	- a. Jérôme était antiochien. Traduit l'Ancien Testament hébreu en latin.
 	- b. Augustin considérait la Septante comme "inspirée". Considérait Jérôme comme un « faussaire ». Suivi d'Origène - allégorique.
 		Plus tard, Augustin s'est davantage penché vers l'école d'Antioche.
 		Jérôme était un érudit, Augustin un théologien.
@@ -64,11 +64,11 @@ Auteur: **William S. Sadler**
 
 1. C'est la littérature gnostique qui a poussé les chrétiens à compléter leur assemblage du Nouveau Testament.
 2. Vincent a été un pionnier dans :
-	- une. Autorité de l'Ecriture.
+	- a. Autorité de l'Ecriture.
 	- b. Interprétation par l'Église — tradition.
 3. Benoît, le moine, et Grégoire le Grand se sont éloignés de l'école allégorique (platonico-philonienne) vers l'école aristotélicienne-antiochienne.
 4. Au Moyen Âge, ils accordaient moins d'attention aux allégories. Les personnalités dominantes étaient :
-	- une. [Grégoire le Grand](https://en.wikipedia.org/wiki/Pope_Gregory_I).
+	- a. [Grégoire le Grand](https://en.wikipedia.org/wiki/Pope_Gregory_I).
 	- b. [Le Vénérable Bède](https://en.wikipedia.org/wiki/Bede).
 5. Le thème était—le spirituel par opposition au littéral, avec tout le respect dû aux pères de l'église.
 6. Lorsque le fils prodigue retourna dans la « maison de son père », les « versions » disaient : « retourna à l'église ».
@@ -84,28 +84,28 @@ Auteur: **William S. Sadler**
 4. [Thomas d'Aquin](https://en.wikipedia.org/wiki/Thomas_Aquinas), probablement le plus grand étudiant de la Bible de tous les temps, était au centre de ce mouvement.
 5. Il y a une légende qu'il a mémorisé toute la Bible.
 6. Le mouvement s'est éloigné des allégories vers des interprétations **spirituelles**.
-7. Ils sont allés à des longueurs absurdes dans le symbolisme. Dans [Marc 8:19](/en/Bible/Mark/8#v19), les 5 000 représentent les hommes et leurs cinq sens.
+7. Ils sont allés à des longueurs absurdes dans le symbolisme. Dans [Marc 8:19](/fr/Bible/Mark/8#v19), les 5 000 représentent les hommes et leurs cinq sens.
 8. C'était l'ère des universités.
 
 ## V. La Réforme
 
 1. **[Luther](https://en.wikipedia.org/wiki/Martin_Luther)**.
-	- une. Nié que le Pape seul pouvait interpréter la Bible.
+	- a. Nié que le Pape seul pouvait interpréter la Bible.
 	- b. Ses grandes discussions concernaient « la foi et les œuvres ».
-	- ch. Il a dit : « Les Saintes Écritures ne peuvent être interprétées que par le Saint-Esprit.
-	- ré. Luther dit : « Le Christ est le centre de toute l'Écriture.
+	- c. Il a dit : « Les Saintes Écritures ne peuvent être interprétées que par le Saint-Esprit.
+	- d. Luther dit : « Le Christ est le centre de toute l'Écriture.
 	- e. Luther a déclaré que son interprétation était "grammatico-historique".
 	- F. Mais il s'accroche toujours aux méthodes allégoriques d'Origène.
 	- g. Luther aimait les « types » – Noé représente le Christ.
 	- h. Luther commence à créer une théologie systématique — des doctrines. Il détestait beaucoup Jacques et l'Apocalypse.
 2. **[Calvin](https://en.wikipedia.org/wiki/John_Calvin)**.
-	- une. Calvin était le meilleur étudiant de la Bible de la Réforme.
+	- a. Calvin était le meilleur étudiant de la Bible de la Réforme.
 	- b. Dans ses « Instituts », il a cité l'Ancien Testament 1 755 fois ; le Nouveau Testament 3 098 fois.
-	- ch. Il a presque complètement négligé le Cantique des Cantiques et l'Apocalypse.
-	- ré. Il voulait affirmer l'infaillibilité de la Bible, mais a été contraint d'admettre des erreurs mineures.
+	- c. Il a presque complètement négligé le Cantique des Cantiques et l'Apocalypse.
+	- d. Il voulait affirmer l'infaillibilité de la Bible, mais a été contraint d'admettre des erreurs mineures.
 	- e. Calvin s'inquiétait de la façon négligente dont Paul citait les Écritures. Voir Éph. 4:8. "Quand il est monté en haut, il a conduit une armée de captifs et il a fait des dons aux hommes." C'est Ps. 68:18, qui se lit comme suit: "Tu es monté sur la haute montagne, entraînant des captifs à ta suite et recevant des dons parmi les hommes."
 	- F. Si la Bible était "inspirée", Calvin pensait que Paul aurait dû citer le passage ** textuellement **.
-	- g. Il pensait la même chose à propos de [Heb 2:7](/en/Bible/Hebrews/2#v7) et [Ps 8:5](/en/Bible/Psalms/8#v5).
+	- g. Il pensait la même chose à propos de [Heb 2:7](/fr/Bible/Hebrews/2#v7) et [Ps 8:5](/fr/Bible/Psalms/8#v5).
 	- h. Calvin pensait que II Peter était "inférieur" - mais a dit que cela pouvait s'expliquer par le fait que Peter l'avait écrit dans sa "vieillesse".
 	- je. Calvin a interprété la Bible, en général, de deux manières :
 		(1) La souveraineté de Dieu.
@@ -120,7 +120,7 @@ Auteur: **William S. Sadler**
 ## VI. L'interprétation à l'époque moderne
 
 1. Montée de la critique biblique, 1650-1800. Il y avait trois grands groupes d'influence qui ont conduit à un réexamen de la Bible :
-	- une. Les sciences physiques :
+	- a. Les sciences physiques :
 		(1) Univers ptolémaïque - démoli.
 		(2) Découvertes de Copernic. (1473-1543) (Le pape a dénoncé tout cela.)
 		(3) Kepler. (1571-1630)
@@ -129,7 +129,7 @@ Auteur: **William S. Sadler**
 	- b. Étude textuelle :
 		(1) La "Donation de Constantin" de Valla.
 		(2) Philosophie de Bacon et de Descartes.
-	- ch. Bibliolâtrie.
+	- c. Bibliolâtrie.
 		Fini de faire de la Bible une idole. Reconnaissance du caractère progressif de la révélation.
 		Libération du carcan de l'orthodoxie.
 2. [Cappel](https://en.wikipedia.org/wiki/Louis_Cappel), dans les années 1600, fut le premier critique textuel.
@@ -164,10 +164,10 @@ Auteur: **William S. Sadler**
 8. Une étude intensive du quatrième évangile a conduit à placer sa rédaction au début du deuxième siècle.
 9. A l'heure actuelle, la mode est à la formulation d'une théologie biblique.
 10. L'école d'interprétation de "l'Ecriture totale":
-	- une Détermination du texte.
+	- a.Détermination du texte.
 	- b. Forme littéraire.
-	- ch. Situation historique.
-	- ré. Signification de l'auteur.
+	- c. Situation historique.
+	- d. Signification de l'auteur.
 	- e. Relation avec le contexte total.
 	- F. Fond d'origine.
 	- g. Interprétation littérale.

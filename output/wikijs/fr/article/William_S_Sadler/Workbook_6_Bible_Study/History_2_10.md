@@ -27,17 +27,17 @@ La communauté juive au Ve siècle
 2. L'histoire court avec les Juifs et l'Empire perse sous Darius - qui atteint son apogée au cours de ce siècle.
 3. Darius a gagné toutes ses guerres sauf contre la Grèce, où il a été vaincu à Marathon.
 4. Les communautés juives étaient bien établies dans tout l'Empire perse.
-5. Tout au long de ce siècle, des groupes de Juifs ont continué à retourner en Palestine. [Ezra 4:12](/en/Bible/Ezra/4#v12).
+5. Tout au long de ce siècle, des groupes de Juifs ont continué à retourner en Palestine. [Ezra 4:12](/fr/Bible/Ezra/4#v12).
 6. Il n'y avait pas de fin de trouble avec les gouverneurs de la Perse. Les Edomites du sud les harcelaient constamment.
-7. Sous Artaxerxès, ils ont commencé à reconstruire leurs fortifications. [Ezra 4:7-23](/en/Bible/Ezra/4#v7).
+7. Sous Artaxerxès, ils ont commencé à reconstruire leurs fortifications. [Ezra 4:7-23](/fr/Bible/Ezra/4#v7).
 8. La vie religieuse se déroule assez bien. Les services du temple fonctionnaient à plein régime.
-9. Mais le moral général n'était pas bon. Le sabbat a été négligé. Ils n'ont pas payé la dîme. [Malachie 3:7-10](/fr/Bible/Malachie/3#v7).
+9. Mais le moral général n'était pas bon. Le sabbat a été négligé. Ils n'ont pas payé la dîme. [Malachie 3:7-10](/fr/Bible/Malachi/3#v7).
 10. Le divorce était un scandale public ; les pauvres étaient opprimés. Les mariages mixtes avec les gentils étaient courants.
 11. Néhémie a commencé une réorganisation en profondeur de la communauté juive, avec l'aide d'Esdras.
 12. En Grèce, c'était l'âge de Périclès, Socrate, Sophocle et Phidias.
 13. La folie des [guerres du Péloponnèse](https://en.wikipedia.org/wiki/Peloponnesian_War) a laissé la Perse dans une position plus sûre.
 14. Néhémie était attaché à la cour de Perse – il avait été l'échanson du roi. Il fut nommé gouverneur de Juda et autorisé à reconstruire ses fortifications.
-15. [Néhémie](https://en.wikipedia.org/wiki/Nehemiah) était un bon organisateur. En 52 jours, il fit élever les murs de Jérusalem. [Né 6:15](/fr/Bible/Néhémie/6#v15).
+15. [Néhémie](https://en.wikipedia.org/wiki/Nehemiah) était un bon organisateur. En 52 jours, il fit élever les murs de Jérusalem. [Né 6:15](/fr/Bible/Nehemiah/6#v15).
 16. Mais il fallut deux ans avant que tous les détails – portes, tours, etc. – ne soient achevés.
 17. Il fut grandement gêné par Sanballat, gouverneur de Samarie. Tobie, gouverneur d'Ammon, s'est également opposé à Néhémie
 18. Néhémie a divisé ses forces en deux équipes, l'une pour s'armer, l'autre pour construire.
@@ -45,7 +45,7 @@ La communauté juive au Ve siècle
 20. Néhémie avait de nombreux ennemis. Non seulement il était juste, mais il avait mauvais caractère.
 21. Néhémie a régné 12 ans. Il visita ensuite Babylone et la cour perse.
 22. Quand il est revenu, il a trouvé que les choses allaient mal. Les mariages mixtes, le non-respect du sabbat et le laxisme religieux généralisé étaient à l'ordre du jour.
-23. C'est à peu près à cette époque qu'Ezra arriva et rejoignit Néhémie dans la tâche de nettoyer Jérusalem. [Ezra 7:12-26](/en/Bible/Ezra/7#v12).
+23. C'est à peu près à cette époque qu'Ezra arriva et rejoignit Néhémie dans la tâche de nettoyer Jérusalem. [Ezra 7:12-26](/fr/Bible/Ezra/7#v12).
 24. [Ezra](https://en.wikipedia.org/wiki/Book_of_Ezra) a été grandement aidé par les contributions des juifs babyloniens. Esdras était prêtre.
 25. Esdras était accompagné d'une importante caravane de Juifs. Il avait honte de demander une escorte militaire.
 26. Sur une place publique sur une plate-forme élevée, il lisait la loi de l'aube à midi tous les jours.

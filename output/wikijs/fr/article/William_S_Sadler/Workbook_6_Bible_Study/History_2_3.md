@@ -37,7 +37,7 @@ Auteur: **William S. Sadler**
 9. Parmi les premières inventions de la Palestine figurait l'alphabet des Phéniciens, transmis aux Grecs puis à l'Europe.
 10. Plus tard, de quelque part, vinrent les Edomites et les Moabites.
 11. La date de l'Exode est incertaine. Probablement au XIIIe siècle. I Rois 6:1 place l'Exode 480 ans avant la quatrième année du règne de Salomon. Ce serait au quinzième siècle.
-12. Pour l'histoire de Moïse, voir [UB 96:3.1](/en/The_Urantia_Book/95#p3_1)
+12. Pour l'histoire de Moïse, voir [LU 96:3.1](/fr/The_Urantia_Book/95#p3_1)
 13. Rappelez-vous que Moïse avait passé des années avec les Kénites avant de retourner pour conduire les Hébreux hors d'Egypte.
 14. Il y a presque deux histoires sur les errances dans le désert :
 
@@ -55,11 +55,11 @@ b. Le groupe du Sinaï traversant le Jourdain depuis l'est après la destruction
 ## II. Formation des Israélites
 
 1. Les Hébreux de Palestine étaient un peuple complexe et polyglotte. Moïse était en partie égyptien et sans aucun doute, de nombreux Égyptiens sont venus.
-2. L'Exode était qualifié de « multitude mixte ». [Ex 12:38](/fr/Bible/Exode/12#v38). [Num 11:4](/fr/Bible/Nombres/11#v4).
-3. Il y avait aussi des Madianites (Kénites) dans le groupe. [Num 10:29-32](/fr/Bible/Nombres/10#v29).
-4. La horde du désert peut avoir compté plusieurs milliers, mais jamais 600 000 hommes en âge de servir, comme dans [Num 1:46](/en/Bible/Numbers/1#v46) ; [26:51](/fr/Bible/Nombres/26#v51). Une telle armée signifierait une population totale bien supérieure à deux millions.
-5. En Palestine, ils se mêlaient librement aux indigènes. Il y avait la confédération des Gabaonites. [Josué 9](/fr/Bible/Josué/9).
-6. Le fait que des villes entières soient passées au culte de Yahweh est suggéré dans [Jos 24](/en/Bible/Joshua/24).
+2. L'Exode était qualifié de « multitude mixte ». [Ex 12:38](/fr/Bible/Exodus/12#v38). [Num 11:4](/fr/Bible/Numbers/11#v4).
+3. Il y avait aussi des Madianites (Kénites) dans le groupe. [Num 10:29-32](/fr/Bible/Numbers/10#v29).
+4. La horde du désert peut avoir compté plusieurs milliers, mais jamais 600 000 hommes en âge de servir, comme dans [Num 1:46](/fr/Bible/Numbers/1#v46) ; [26:51](/fr/Bible/Numbers/26#v51). Une telle armée signifierait une population totale bien supérieure à deux millions.
+5. En Palestine, ils se mêlaient librement aux indigènes. Il y avait la confédération des Gabaonites. [Josué 9](/fr/Bible/Joshua/9).
+6. Le fait que des villes entières soient passées au culte de Yahweh est suggéré dans [Jos 24](/fr/Bible/Joshua/24).
 7. Rappelez-vous : la religion de Moïse était le culte d'El Elyon ou d'El Shaddai, jusqu'à ce que Yahweh se révèle au « buisson ardent ».
 8. Souvenez-vous aussi : que les Juifs ont peut-être « traversé », non pas la mer Rouge, mais le « lac des Roseaux », près de la ville actuelle de Suez – le district marécageux entre Suez et le Grand Lac Amer.
 9. Autre point : à un endroit, il est dit que les Israélites étaient des éleveurs de bétail. Ailleurs, des ouvriers de l'industrie — des esclaves — des briquetiers.

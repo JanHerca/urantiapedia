@@ -29,13 +29,13 @@ Auteur: **William S. Sadler**
 	4. L'Ile du Paradis.
 	5. L'Absolu de Déité.
 	6. L'absolu universel.
-	7. L'absolu non qualifié. [UB 104:3.5](/en/The_Urantia_Book/104#p3_5)
-2. _The Deity Absolute_ est l'activateur tout-puissant. [UB 0:11.4](/en/The_Urantia_Book/0#p11_4)
-3. _L'Absolu Non Qualifié_ est non personnel, extradivin et non déifié. [UB 0:11.7](/en/The_Urantia_Book/0#p11_7) Il domine le paradis inférieur et soutient l'univers physique. 11:2.8](/en/The_Urantia_Book/11#p1_2)
-4. _L'Absolu Universel_ égalise les tensions entre : le fini et l'infini ; potentiels et réels ; Paradis et espace; le temps et l'éternité ; l'homme et Dieu. [UB 0:11.13](/en/The_Urantia_Book/0#p11_13)
-5. La Source-Centre Première est l'Absolu Volitionnel ; la Source-Centre Seconde, la Personnalité Absolue. [UB 6:1.2](/en/The_Urantia_Book/6#p1_2)
-6. La Source-Centre Première est la réalité absolue qui embrasse tous les potentiels et donne origine à tous les actuels. [UB 115:3.6](/en/The_Urantia_Book/115#p3_6)
-7. Les Absolus de potentialité opèrent au niveau éternel du cosmos. Aux niveaux subabsolus, le Suprême et l'Ultime fonctionnent. [UB 115:3.13](/en/The_Urantia_Book/115#p3_13)
+	7. L'absolu non qualifié. [LU 104:3.5](/fr/The_Urantia_Book/104#p3_5)
+2. _The Deity Absolute_ est l'activateur tout-puissant. [LU 0:11.4](/fr/The_Urantia_Book/0#p11_4)
+3. _L'Absolu Non Qualifié_ est non personnel, extradivin et non déifié. [LU 0:11.7](/fr/The_Urantia_Book/0#p11_7) Il domine le paradis inférieur et soutient l'univers physique. 11:2.8](/fr/The_Urantia_Book/11#p1_2)
+4. _L'Absolu Universel_ égalise les tensions entre : le fini et l'infini ; potentiels et réels ; Paradis et espace; le temps et l'éternité ; l'homme et Dieu. [LU 0:11.13](/fr/The_Urantia_Book/0#p11_13)
+5. La Source-Centre Première est l'Absolu Volitionnel ; la Source-Centre Seconde, la Personnalité Absolue. [LU 6:1.2](/fr/The_Urantia_Book/6#p1_2)
+6. La Source-Centre Première est la réalité absolue qui embrasse tous les potentiels et donne origine à tous les actuels. [LU 115:3.6](/fr/The_Urantia_Book/115#p3_6)
+7. Les Absolus de potentialité opèrent au niveau éternel du cosmos. Aux niveaux subabsolus, le Suprême et l'Ultime fonctionnent. [LU 115:3.13](/fr/The_Urantia_Book/115#p3_13)
 
 
 <br>

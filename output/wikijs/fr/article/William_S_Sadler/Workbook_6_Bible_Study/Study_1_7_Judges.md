@@ -24,34 +24,34 @@ Auteur: **William S. Sadler**
 
 ## I. Aperçu-Bref
 
-1. Introduction. [1,2](/fr/Bible/Juges/1).
-2. Histoire des juges. [3-16](/fr/Bible/Juges/3).
-3. Détails du mal. [17-21](/fr/Bible/Juges/17).
+1. Introduction. [1,2](/fr/Bible/Judges/1).
+2. Histoire des juges. [3-16](/fr/Bible/Judges/3).
+3. Détails du mal. [17-21](/fr/Bible/Judges/17).
 
 ## II. Aperçu complet
 
-1. Invasion de Canaan. [1:1-2:5](/fr/Bible/Juges/1#v1).
-	- A. Conquêtes de Juda et de Siméon. [1:1-21](/fr/Bible/Juges/1#v1).
-	- B. Conquête d'autres tribus. [1:22-36](/fr/Bible/Juges/1#v22).
-	- C. Départ pour Gilgal. [2:1-5](/fr/Bible/Juges/2#v1).
-2. La période des juges. [2:6-16:31](/fr/Bible/Juges/2#v6).
-	- A. Présentation. [2:6-3:6](/fr/Bible/Juges/2#v6).
-	- B. Délivrance par Othniel. [3:7-11](/fr/Bible/Juges/3#v7).
-	- C. Délivrance par Ehud. [3:12-30](/fr/Bible/Juges/3#v12).
-	- D. Shamgar et les Philistins. [3:31](/fr/Bible/Juges/3#v31).
-	- E. Deborah et Barak. [4:1-5:31](/fr/Bible/Juges/4#v1).
-	- F. Histoire de Gédéon. [6:1-8:35](/fr/Bible/Juges/6#v1).
-	- G. Histoire d'Abimélek. [9:1-57](/fr/Bible/Juges/9#v1).
-	- H. Tola. [10:1,2](/fr/Bible/Juges/10#v1).
-	- I. Jaïr. [10:3-5](/fr/Bible/Juges/10#v3).
-	- J. Jephté. [10:6-12:7](/fr/Bible/Juges/10#v6).
-	- K.Ibzan. [12:8-10](/fr/Bible/Juges/12#v8).
-	- L. Elon. [12:11,12](/fr/Bible/Juges/12#v11).
-	- M. Abdon. [12:13-15](/fr/Bible/Juges/12#v13).
-	- N. Les contes de Samson. [13:1-16:31](/fr/Bible/Juges/13#v1).
-3. Annexes. [17:1-21:25](/fr/Bible/Juges/17#v1).
-	- A. Relocalisation des Danites. [17:1-8:31](/fr/Bible/Juges/17#v1).
-	- B. Infraction de Gibeah. [19:1-21:25](/fr/Bible/Juges/19#v1).
+1. Invasion de Canaan. [1:1-2:5](/fr/Bible/Judges/1#v1).
+	- A. Conquêtes de Juda et de Siméon. [1:1-21](/fr/Bible/Judges/1#v1).
+	- B. Conquête d'autres tribus. [1:22-36](/fr/Bible/Judges/1#v22).
+	- C. Départ pour Gilgal. [2:1-5](/fr/Bible/Judges/2#v1).
+2. La période des juges. [2:6-16:31](/fr/Bible/Judges/2#v6).
+	- A. Présentation. [2:6-3:6](/fr/Bible/Judges/2#v6).
+	- B. Délivrance par Othniel. [3:7-11](/fr/Bible/Judges/3#v7).
+	- C. Délivrance par Ehud. [3:12-30](/fr/Bible/Judges/3#v12).
+	- D. Shamgar et les Philistins. [3:31](/fr/Bible/Judges/3#v31).
+	- E. Deborah et Barak. [4:1-5:31](/fr/Bible/Judges/4#v1).
+	- F. Histoire de Gédéon. [6:1-8:35](/fr/Bible/Judges/6#v1).
+	- G. Histoire d'Abimélek. [9:1-57](/fr/Bible/Judges/9#v1).
+	- H. Tola. [10:1,2](/fr/Bible/Judges/10#v1).
+	- I. Jaïr. [10:3-5](/fr/Bible/Judges/10#v3).
+	- J. Jephté. [10:6-12:7](/fr/Bible/Judges/10#v6).
+	- K.Ibzan. [12:8-10](/fr/Bible/Judges/12#v8).
+	- L. Elon. [12:11,12](/fr/Bible/Judges/12#v11).
+	- M. Abdon. [12:13-15](/fr/Bible/Judges/12#v13).
+	- N. Les contes de Samson. [13:1-16:31](/fr/Bible/Judges/13#v1).
+3. Annexes. [17:1-21:25](/fr/Bible/Judges/17#v1).
+	- A. Relocalisation des Danites. [17:1-8:31](/fr/Bible/Judges/17#v1).
+	- B. Infraction de Gibeah. [19:1-21:25](/fr/Bible/Judges/19#v1).
 
 ## III. Paternité
 
@@ -65,7 +65,7 @@ Auteur: **William S. Sadler**
 1. Les juges étaient à la fois des chefs militaires et des dirigeants civils.
 2. Judges est une collection d'un grand nombre d'histoires indépendantes. Il contient le « Cantique de Deborah », le plus ancien document de l'Ancien Testament.
 3. La dernière partie des Juges peut sembler une pure fiction, mais sans aucun doute ces contes étaient basés sur une tradition orale bien fondée.
-4. Les répétitions suggèrent que certaines parties ont été copiées à partir de documents écrits. [Judg 1:10-15](/en/Bible/Judges/1#v10) se lit presque textuellement comme [Josh 15:13-19](/en/Bible/Joshua/15#v13). [Juges 1:27,28](/en/Bible/Judges/1#v27) tout comme [Jos 17:11-13](/en/Bible/Joshua/17#v11). [Juges 2:6-10](/en/Bible/Judges/2#v6) comme [Jos 24:28-31](/en/Bible/Joshua/24#v28).
+4. Les répétitions suggèrent que certaines parties ont été copiées à partir de documents écrits. [Judg 1:10-15](/fr/Bible/Judges/1#v10) se lit presque textuellement comme [Josh 15:13-19](/fr/Bible/Joshua/15#v13). [Juges 1:27,28](/fr/Bible/Judges/1#v27) tout comme [Jos 17:11-13](/fr/Bible/Joshua/17#v11). [Juges 2:6-10](/fr/Bible/Judges/2#v6) comme [Jos 24:28-31](/fr/Bible/Joshua/24#v28).
 5. Chaque crise est introduite par la même formule : « Le peuple d'Israël a fait ce qui est mal aux yeux de l'Éternel.
 6. Il y a cinq raisons données pour expliquer pourquoi les Juifs n'ont pas complètement exterminé les Cananéens :
 	- A. Fortes fortifications et expérience militaire.
@@ -76,20 +76,20 @@ Auteur: **William S. Sadler**
 7. La plus grande attention est accordée aux six juges majeurs.
 8. La période des juges couvre un peu plus de 400 ans.
 
-## V. [LES JUGES](/fr/Bible/Juges/3)
+## V. [LES JUGES](/fr/Bible/Judges/3)
 
-- Othniel.[3:7-11](/fr/Bible/Juges/3#v7).
-- Ehoud. [3:12](/fr/Bible/Juges/3#v12).
-- Barak et Déborah. [4:5,6](/fr/Bible/Juges/4#v5).
-- Gédéon. [6:1-8:32](/fr/Bible/Juges/6#v1).
-- Abimélek. [8:33-9:57](/fr/Bible/Juges/8#v33).
--Tola. [10:1,2](/fr/Bible/Juges/10#v1).
-- Jaïr. [10:3-5](/fr/Bible/Juges/10#v3).
-- Jephté. 11-[12:7](/fr/Bible/Juges/12#v7).
--Ibzan. [12:8-10](/fr/Bible/Juges/12#v8).
-- Élon. [12:11,12](/fr/Bible/Juges/12#v11).
--Abdon. [12:13-15](/fr/Bible/Juges/12#v13).
--Samson. [13:24-16:31](/fr/Bible/Juges/13#v24)
+- Othniel.[3:7-11](/fr/Bible/Judges/3#v7).
+- Ehoud. [3:12](/fr/Bible/Judges/3#v12).
+- Barak et Déborah. [4:5,6](/fr/Bible/Judges/4#v5).
+- Gédéon. [6:1-8:32](/fr/Bible/Judges/6#v1).
+- Abimélek. [8:33-9:57](/fr/Bible/Judges/8#v33).
+-Tola. [10:1,2](/fr/Bible/Judges/10#v1).
+- Jaïr. [10:3-5](/fr/Bible/Judges/10#v3).
+- Jephté. 11-[12:7](/fr/Bible/Judges/12#v7).
+-Ibzan. [12:8-10](/fr/Bible/Judges/12#v8).
+- Élon. [12:11,12](/fr/Bible/Judges/12#v11).
+-Abdon. [12:13-15](/fr/Bible/Judges/12#v13).
+-Samson. [13:24-16:31](/fr/Bible/Judges/13#v24)
 
 ## VI. La période des juges
 
@@ -110,16 +110,16 @@ Auteur: **William S. Sadler**
 
 ##VII. Textes sélectionnés
 
-1. **Mort de Josué**. "Et Josué... est mort à l'âge de cent dix ans." [2:8](/fr/Bible/Juges/2#v8).
-2. **Victoire de Deborah et Barak**. "Et le Seigneur mit Sisera en déroute... et son armée... et Sisera descendit de son char et s'enfuit... Et l'armée de Sisera tomba sous le tranchant de l'épée ; il ne resta pas un homme." [4:15,16](/fr/Bible/Juges/4#v15).
-3. **Chanson de Déborah**. [5:1-31](/fr/Bible/Juges/5#v1).
+1. **Mort de Josué**. "Et Josué... est mort à l'âge de cent dix ans." [2:8](/fr/Bible/Judges/2#v8).
+2. **Victoire de Deborah et Barak**. "Et le Seigneur mit Sisera en déroute... et son armée... et Sisera descendit de son char et s'enfuit... Et l'armée de Sisera tomba sous le tranchant de l'épée ; il ne resta pas un homme." [4:15,16](/fr/Bible/Judges/4#v15).
+3. **Chanson de Déborah**. [5:1-31](/fr/Bible/Judges/5#v1).
 4. **Victoire de Gédéon**. "Et les trois compagnies sonnaient des trompettes et brisaient les jarres, tenant dans leurs mains gauches les torches... et elles criaient : 'Une épée pour le Seigneur et pour Gédéon !'" [7:20](/fr/Bible/ Juges/7#v20).
-5. **Vœu de Jephté**. "Jephté a fait un vœu à l'Éternel..." Si tu veux livrer les Ammonites entre mes mains, quiconque sortira des portes de ma maison à ma rencontre... appartiendra à l'Éternel, et je l'offrirai pour un holocauste.'" [11:30,31](/fr/Bible/Juges/11#v30).
+5. **Vœu de Jephté**. "Jephté a fait un vœu à l'Éternel..." Si tu veux livrer les Ammonites entre mes mains, quiconque sortira des portes de ma maison à ma rencontre... appartiendra à l'Éternel, et je l'offrirai pour un holocauste.'" [11:30,31](/fr/Bible/Judges/11#v30).
 
-"Alors Jephté vint chez lui à Mitspa; et voici, sa fille sortit à sa rencontre." [11:34](/fr/Bible/Juges/11#v34).
-6. **La défaite de Samson**. "Elle l'a fait dormir sur ses genoux; et elle a appelé un homme, et lui a fait raser les sept tresses de sa tête ... et sa force l'a quitté." [16:19](/fr/Bible/Juges/16#v19).
+"Alors Jephté vint chez lui à Mitspa; et voici, sa fille sortit à sa rencontre." [11:34](/fr/Bible/Judges/11#v34).
+6. **La défaite de Samson**. "Elle l'a fait dormir sur ses genoux; et elle a appelé un homme, et lui a fait raser les sept tresses de sa tête ... et sa force l'a quitté." [16:19](/fr/Bible/Judges/16#v19).
 
-"Alors il s'inclina de toutes ses forces, et la maison tomba sur les seigneurs et sur tout le peuple qui s'y trouvait." [16:30](/fr/Bible/Juges/16#v30).
+"Alors il s'inclina de toutes ses forces, et la maison tomba sur les seigneurs et sur tout le peuple qui s'y trouvait." [16:30](/fr/Bible/Judges/16#v30).
 
 
 <br>

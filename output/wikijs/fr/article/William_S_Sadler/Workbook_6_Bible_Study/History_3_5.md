@@ -39,7 +39,7 @@ Auteur: **William S. Sadler**
 1. Les Juifs ont comparé la morale des gentils avec Sodome et Gomorrhe. Les premiers chrétiens avaient à peu près la même opinion.
 2. Paul avait une mauvaise opinion de la morale « païenne ». Il a insisté sur la dépravation sexuelle.
 3. L'homosexualité n'était pas méprisée par les Grecs. Platon a presque idéalisé la pratique.
-4. Paul, comme les Juifs, considérait l'homosexualité avec horreur. [I Thess 4:3-8](/fr/Bible/1_Thessaloniciens/4#v3). [Col 3:5](/fr/Bible/Colossians/3#v5). [Eph 5:3](/fr/Bible/Ephesians/5#v3). [Ga 5:19](/fr/Bible/Galates/5#v19).
+4. Paul, comme les Juifs, considérait l'homosexualité avec horreur. [I Thess 4:3-8](/fr/Bible/1_Thessalonians/4#v3). [Col 3:5](/fr/Bible/Colossians/3#v5). [Eph 5:3](/fr/Bible/Ephesians/5#v3). [Ga 5:19](/fr/Bible/Galatians/5#v19).
 5. La prostitution était tolérée partout dans le monde des gentils – elle est même devenue une partie de leurs cérémonies religieuses.
 6. L'esclavage était général - la vie humaine était bon marché. La crucifixion et le bûcher étaient courants chez les Romains.
 7. Le christianisme a pris une position ferme contre tout cela, il a même essayé d'améliorer le statut de l'esclave.
@@ -57,7 +57,7 @@ Auteur: **William S. Sadler**
 19. Marc Aurèle était un stoïcien, également Sénèque. Ils insistaient sur l'unité et la raison.
 20. La raison était l'âme du monde. L'intelligence de l'homme est un fragment de la raison universelle et vivante.
 21. Tous les hommes sont fils de Dieu — la fraternité universelle. Ils ont cherché à ignorer l'émotion.
-22. Le mal n'est que la croyance de l'ignorance. La conscience est la voix de la « Raison divine », un peu comme la doctrine de Jérémie sur la loi de Dieu écrite dans le cœur. [Jér 31:33](/fr/Bible/Jérémie/31#v33).
+22. Le mal n'est que la croyance de l'ignorance. La conscience est la voix de la « Raison divine », un peu comme la doctrine de Jérémie sur la loi de Dieu écrite dans le cœur. [Jér 31:33](/fr/Bible/Jeremiah/31#v33).
 23. Le stoïcisme était un naturalisme religieux, un panthéisme rationaliste. Mais cela a produit une sorte d'éthique vaillante.
 
 ## III. Religion

@@ -91,7 +91,7 @@ Auteur: **William S. Sadler**
 10. La théologie de Paul est résumée dans : « La justification par la foi.
 11. Attitude de Paul : « Je n'ai pas honte de l'évangile : c'est la puissance de Dieu pour le salut. [1:16](/fr/Bible/Romains/1#v16).
 12. Romains montre que Paul est le promoteur de la doctrine de l'expiation.
-	**Remarque** : En ce qui concerne le grand conflit entre la chair et l'Esprit, voir le Livre d'Urantia, [UB 34 :7.1](/en/The_Urantia_Book/34#p7_1).
+	**Remarque** : En ce qui concerne le grand conflit entre la chair et l'Esprit, voir le Livre d'Urantia, [LU 34:7.1](/fr/The_Urantia_Book/34#p7_1).
 
 ## V. Textes sélectionnés
 
@@ -122,7 +122,7 @@ Auteur: **William S. Sadler**
 25. **Plus que vainqueurs**. "En toutes ces choses, nous sommes plus que vainqueurs par celui qui nous a aimés." [8:37](/fr/Bible/Romains/8#v37).
 26. **Zèle sans connaissance**. "Ils ont un zèle pour Dieu, mais il n'est pas éclairé." [10:2](/fr/Bible/Romains/10#v2).
 27. **Salut**. "Si vous confessez... que Jésus est Seigneur et croyez dans votre cœur que Dieu l'a ressuscité des morts, vous serez sauvé." [10:9](/fr/Bible/Romains/10#v9).
-28. **Appelez son nom**. "'Quiconque invoquera le nom du Seigneur sera sauvé.'" [10:13](/en/Bible/Romans/10#v13).
+28. **Appelez son nom**. "'Quiconque invoquera le nom du Seigneur sera sauvé.'" [10:13](/fr/Bible/Romans/10#v13).
 29. **Infinitude divine**. « Ô profondeur des richesses, de la sagesse et de la connaissance de Dieu ! Comme ses jugements sont insondables et comme ses voies sont impénétrables ! [11:33](/fr/Bible/Romains/11#v33).
 30. **Transformation mentale**. "Ne vous conformez pas à ce monde mais soyez transformé par le renouvellement de votre esprit." [12:2](/fr/Bible/Romains/12#v2).
 31. **Amour authentique**. "Que l'amour soit authentique, haïssez ce qui est mal, retenez ce qui est bien ; aimez-vous les uns les autres avec une affection fraternelle." [12:9](/fr/Bible/Romains/12#v9).

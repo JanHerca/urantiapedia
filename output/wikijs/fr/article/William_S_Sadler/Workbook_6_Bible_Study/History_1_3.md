@@ -35,23 +35,23 @@ Auteur: **William S. Sadler**
 	- Philippe.
 	- Colosses.
 	- Thessalonique.
-5. Paul a écrit dix lettres à ces sept églises. Ils ont été distribués dans un seul livre—[Ephesians](/en/Bible/Ephesians/1#v1) comme introduction.
+5. Paul a écrit dix lettres à ces sept églises. Ils ont été distribués dans un seul livre—[Ephesians](/fr/Bible/Ephesians/1#v1) comme introduction.
 6. En 95 ap. J.-C., Clément, de Rome, écrivit une lettre à l'église de Corinthe.
-7. Les trois évangiles, plus tard quatre, étaient dans un livre séparé. Dates de rédaction, selon le Livre d'Urantia : Marc 68 après JC, Matthieu 71 après JC, Luc 82 après JC et Jean 101 après JC. [UB 121:8.2](/en/The_Urantia_Book/121#p8_2)
+7. Les trois évangiles, plus tard quatre, étaient dans un livre séparé. Dates de rédaction, selon le Livre d'Urantia : Marc 68 après JC, Matthieu 71 après JC, Luc 82 après JC et Jean 101 après JC. [LU 121:8.2](/fr/The_Urantia_Book/121#p8_2)
 8. Vers l'an 125 après J.-C. [Marcion](https://en.wikipedia.org/wiki/Marcion_of_Sinope), un laïc du Pont, a utilisé l'évangile de Luc et les lettres de Paul comme nouvelle Bible.
 9. [Athenagoras, d'Athènes](https://en.wikipedia.org/wiki/Athenagoras_of_Athens), a utilisé les quatre évangiles et les dix lettres de Paul comme "tout sauf l'Écriture".
 10. [Theophilus, of Antioch](https://en.wikipedia.org/wiki/Theophilus_of_Antioch), (AD 180) a utilisé les évangiles et les lettres de Paul comme « écritures chrétiennes ».
 11. **Le premier Nouveau Testament**. L'apparition de sectes hérétiques aux IIe et IIIe siècles a exigé que les Églises chrétiennes établissent une Écriture faisant autorité.
 12. Ces sectes étaient :
-	- une. **[Docétisme](https://en.wikipedia.org/wiki/Docétisme)**. Enseigner que l'humanité de Jésus était un « fantasme ».
+	- a. **[Docétisme](https://en.wikipedia.org/wiki/Docétisme)**. Enseigner que l'humanité de Jésus était un « fantasme ».
 	- b. **[Marcionisme](https://en.wikipedia.org/wiki/Marcionism)**. Une organisation ecclésiastique trop rigide et drastique.
-	- ch. **[Montanisme](https://en.wikipedia.org/wiki/Montanism)**. Réclamations exagérées pour les dons prophétiques.
-	- ré. **[Gnosticisme](https://en.wikipedia.org/wiki/Gnosticism)**. Déni de l'humanité de Jésus et autres erreurs.
+	- c. **[Montanisme](https://en.wikipedia.org/wiki/Montanism)**. Réclamations exagérées pour les dons prophétiques.
+	- d. **[Gnosticisme](https://en.wikipedia.org/wiki/Gnosticism)**. Déni de l'humanité de Jésus et autres erreurs.
 13. Contenu du premier Nouveau Testament :
-	- une. [Irénée de Lyon (AD 180)](https://en.wikipedia.org/wiki/Irenaeus) dit que le Nouveau Testament contenait les quatre évangiles, les Actes, les lettres de Paul, les épîtres de Pierre et Jean et le Berger de Hennas.
+	- a. [Irénée de Lyon (AD 180)](https://en.wikipedia.org/wiki/Irenaeus) dit que le Nouveau Testament contenait les quatre évangiles, les Actes, les lettres de Paul, les épîtres de Pierre et Jean et le Berger de Hennas.
 	- b. [Tertullien de Carthage (AD 197-223)](https://en.wikipedia.org/wiki/Tertullian) a ajouté Jude, mais plus tard a rejeté le Berger de Hennas.
-	- ch. Hébreux a été le dernier livre à être accepté par tous.
-	- ré. Le Nouveau Testament d'Alexandrie contenait également I Clément et Barnabas.
+	- c. Hébreux a été le dernier livre à être accepté par tous.
+	- d. Le Nouveau Testament d'Alexandrie contenait également I Clément et Barnabas.
 14. Les temps d'[Origène](https://en.wikipedia.org/wiki/Origen).
 	De graves persécutions en 202 après JC ont forcé les dirigeants chrétiens à quitter Alexandrie. Origène, 18 ans, devient chef du séminaire chrétien. Pendant cinquante ans, il écrivit et enseigna d'abord à Alexandrie, puis à Césarée. Un ami riche a publié ses écrits.
 15. Origène a accepté les Hébreux, mais a également inclus Hennas et Barnabas.
@@ -74,9 +74,9 @@ Auteur: **William S. Sadler**
 9. Enfin, Jérôme (382) a mis à la fois les Hébreux et l'Apocalypse dans sa [traduction latine de la Vulgate](https://en.wikipedia.org/wiki/Vulgate).
 10. Depuis que [le pape Damase de Rome](https://en.wikipedia.org/wiki/Pope_Damasus_I) a accepté la Bible de Jérôme, le Nouveau Testament de 27 livres a finalement été réglé pour l'église occidentale.
 11. Nous entrons donc dans le Moyen Âge avec le canon du Nouveau Testament établi en trois traductions :
-	- une. Grec—Latin.
+	- a. Grec—Latin.
 	- b. syriaque.
-	- ch. éthiopien.
+	- c. éthiopien.
 12. [St. Augustine](https://en.wikipedia.org/wiki/Augustine_of_Hippo) a soutenu le Nouveau Testament de Jérôme.
 13. Au Moyen Âge, de nombreuses versions du Nouveau Testament en Allemagne, en Espagne et en Angleterre ont présenté des variations mineures.
 14. [Concile de Trente](https://en.wikipedia.org/wiki/Council_of_Trent) (1546) a pris une action **finale**. Une fois pour toutes, le canon du Nouveau Testament a été adopté.
@@ -92,29 +92,29 @@ Auteur: **William S. Sadler**
 5. Deux évangiles de Marc diffèrent par 873 passages. Deux manuscrits des quatre évangiles révèlent 14 040 différences.
 6. Certains manuscrits présentent en moyenne 50 différences par page.
 7. Ces différences sont causées par :
-	- une. Compétence des scribes.
+	- a. Compétence des scribes.
 	- b. Efforts d'harmonisation.
-	- ch. Suppression de l'hérésie.
-	- ré. Tentatives de clarification.
+	- c. Suppression de l'hérésie.
+	- d. Tentatives de clarification.
 	- e. Erreurs.
 	- F. Éditorialiser.
 	- g. Sauter des lignes.
 	- h. Omissions par erreur.
 8. Illustration de l'harmonisation.
-	[Mat. 12:13](/fr/Bible/Matthieu/12#v13). L'homme à la main flétrie. Matt, lit : "Puis il a dit à l'homme : 'Étends ta main. Et l'homme l'étendit, et il fut restauré, entier comme l'autre.
+	[Mat. 12:13](/fr/Bible/Matthew/12#v13). L'homme à la main flétrie. Matt, lit : "Puis il a dit à l'homme : 'Étends ta main. Et l'homme l'étendit, et il fut restauré, entier comme l'autre.
 	Les premières copies de Marc et Luc ne contiennent pas "tout comme l'autre". Mais de plus en plus, les copies ultérieures contiennent cet ajout.
-	**NOTE** : Le Livre d'Urantia [UB 148 :7.2](/en/The_Urantia_Book/148#p7_2) suit les premiers Marc et Luc—ne contient pas l'ajout ultérieur.
+	**NOTE** : Le Livre d'Urantia [LU 148:7.2](/fr/The_Urantia_Book/148#p7_2) suit les premiers Marc et Luc—ne contient pas l'ajout ultérieur.
 9. Illustration de la suppression de l'hérésie.
-	[Mat. 24:36](/fr/Bible/Matthieu/24#v36). "Mais de ce jour et de cette heure, personne ne le sait, pas même les anges du ciel, ni le Fils, mais le Père seul."
+	[Mat. 24:36](/fr/Bible/Matthew/24#v36). "Mais de ce jour et de cette heure, personne ne le sait, pas même les anges du ciel, ni le Fils, mais le Père seul."
 	Un scribe, croyant que Jésus était omniscient, était sûr que quelqu'un avait fait une erreur, alors il a changé le texte - en omettant les mots - "ni le Fils".
-	**REMARQUE**; Jésus, en faisant cette déclaration sur [UB 176:2.5](/en/The_Urantia_Book/176#p2_5) du Livre d'Urantia, omet également « ni le Fils ». Il dit : « Mais les temps de la réapparition du Fils de l'homme ne sont connus que dans les conciles du Paradis ; même les anges du ciel ne savent pas quand cela arrivera.
+	**REMARQUE**; Jésus, en faisant cette déclaration sur [LU 176:2.5](/fr/The_Urantia_Book/176#p2_5) du Livre d'Urantia, omet également « ni le Fils ». Il dit : « Mais les temps de la réapparition du Fils de l'homme ne sont connus que dans les conciles du Paradis ; même les anges du ciel ne savent pas quand cela arrivera.
 10. Illustration de l'unification.
-	[Luc 23:32](/fr/Bible/Luc/23#v32). "Aussi d'autres criminels, deux, ont été emmenés pour être mis à mort avec lui."
+	[Luc 23:32](/fr/Bible/Luke/23#v32). "Aussi d'autres criminels, deux, ont été emmenés pour être mis à mort avec lui."
 	Les scribes n'aimaient pas l'implication que Jésus était un criminel, alors ils l'ont changé pour lire: "Deux autres aussi, qui étaient des criminels, ont été emmenés pour être mis à mort avec lui."
 	**NOTE** : Ce passage n'apparaît pas dans le Livre d'Urantia.
 11. Ambiguïté.
-	Concernant le Dîner du Seigneur dans [Matt. 26:27](/en/Bible/Matthew/26#v27), il disait à l'origine : "Buvez-en tout." Le scribe l'a changé en "Buvez-en tous", comme maintenant dans la version révisée.
-	Le Livre d'Urantia [UB 179:5.1](/en/The_Urantia_Book/179#p5_1) dit : « Prenez cette coupe, vous tous, et buvez-en.
+	Concernant le Dîner du Seigneur dans [Matt. 26:27](/fr/Bible/Matthew/26#v27), il disait à l'origine : "Buvez-en tout." Le scribe l'a changé en "Buvez-en tous", comme maintenant dans la version révisée.
+	Le Livre d'Urantia [LU 179:5.1](/fr/The_Urantia_Book/179#p5_1) dit : « Prenez cette coupe, vous tous, et buvez-en.
 12. Préjugés contre les versions révisées.
 	Un évêque a brûlé plus de 200 exemplaires d'une nouvelle version de la Bible.
 13. Rappelez-vous : Au [Concile de Trente](https://en.wikipedia.org/wiki/Council_of_Trent), la Bible a été normalisée par un vote **majoritaire**.

@@ -28,7 +28,7 @@ Auteur: **William S. Sadler**
 1. Ces histoires sont supposées avoir été écrites par Moïse. Mais nous savons qu'ils ont été écrits des siècles après la mort de Moïse.
 2. Nous savons que les récits patriarcaux se composent de quatre sources différentes - [J, E, D et P](https://en.wikipedia.org/wiki/Documentary_hypothesis).
 3. La recherche archéologique moderne a jeté beaucoup de lumière sur l'histoire des Patriarches dans l'Ancien Testament et a beaucoup contribué à la confirmer.
-4. Les fouilles de dizaines de sites en Palestine confirment les traditions de l'ancien Israël. Voir [Deut 6:20-25](/en/Bible/Deuteronomy/6#v20); [26:5-10](/fr/Bible/Deutéronome/26#v5). [Jos 24:2-13](/fr/Bible/Josué/24#v2).
+4. Les fouilles de dizaines de sites en Palestine confirment les traditions de l'ancien Israël. Voir [Deut 6:20-25](/fr/Bible/Deuteronomy/6#v20); [26:5-10](/fr/Bible/Deuteronomy/26#v5). [Jos 24:2-13](/fr/Bible/Joshua/24#v2).
 5. Les premières traditions et archives étaient probablement des poèmes héroïques comme le Cantique de Déborah.
 6. Il est impossible de reconstituer l'âge patriarcal, mais le peu que nous savons ne contredit pas le récit traditionnel.
 7. Abraham et Lot étaient chefs de grands clans.
@@ -53,7 +53,7 @@ Auteur: **William S. Sadler**
 6. Nous devrions nous rappeler que les événements réels enregistrés des patriarches étaient beaucoup plus complexes que les récits bibliques.
 7. Les Patriarches n'étaient pas tout à fait pacifiques. Remarque - l'assaut de Siméon et Lévi sur Sichem. Chap. 34. Jacob s'empare de terres près de Sichem. Les batailles d'Abraham avec Chedorlaomer.
 8. La religion des Patriarches n'est pas bien définie. Moïse est probablement le père de la religion hébraïque.
-9. Voir le Livre d'Urantia pour le récit d'Abraham et de Melchisédek. [UB 93:0.1](/en/The_Urantia_Book/93#p0_1)
+9. Voir le Livre d'Urantia pour le récit d'Abraham et de Melchisédek. [LU 93:0.1](/fr/The_Urantia_Book/93#p0_1)
 10. Il n'y a aucune mention de Yahweh jusqu'à ce que nous arrivions aux temps de Moïse.
 11. Le Dieu des Patriarches était Elohim, le Très-Haut.
 

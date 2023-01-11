@@ -68,7 +68,7 @@ Cette idée de Dieu était un dérivé composite des enseignements du Livre de l
 
 ## $1
 
-> $2 Kish et à Ur, il subsista longtemps des groupes sumériens- chaldéens qui enseignèrent un concept de Dieu trois-en-un, fondé sur les traditions du temps d’Adam et de Melchizédek. Cette doctrine fut propagée en Égypte où cette Trinité fut adorée sous le nom d’Élohim, ou d’Éloah au singulier. [LU 96:1.8](/fr/The_Urantia_Book/96#p1_8)
+> $2 Kish et à Ur, il subsista longtemps des groupes sumériens- c.ldéens qui enseignèrent un concept de Dieu trois-en-un, fondé sur les traditions du temps d’Adam et de Melchizédek. Cette doctrine fut propagée en Égypte où cette Trinité fut adorée sous le nom d’Élohim, ou d’Éloah au singulier. [LU 96:1.8](/fr/The_Urantia_Book/96#p1_8)
 
 ## $1
 
@@ -255,5 +255,5 @@ L’évolution spirituelle est une expérience du choix croissant et volontaire 
 
 ## Notes
 
-> [^1]: from [A Study of the Master Universe](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe)
+> [^1]: from [A Study of the Master Universe](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe)
 

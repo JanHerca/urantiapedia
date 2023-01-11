@@ -89,4 +89,4 @@ Cette époque des Fils Instructeurs est le prélude de l’âge planétaire fina
 
 ## Notes
 
-> [^1]: from [A Study of the Master Universe](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe)
+> [^1]: from [A Study of the Master Universe](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe)

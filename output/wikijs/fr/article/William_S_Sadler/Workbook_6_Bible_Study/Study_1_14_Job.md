@@ -59,14 +59,14 @@ Auteur: **William S. Sadler**
 3. L'auteur était un érudit d'une grande érudition - avait un vaste vocabulaire. Il était un penseur théologique original.
 4. L'auteur de Job est le seul écrivain biblique qui ait été comparé à Shakespeare.
 5. Le livre est basé sur une ancienne légende, le conte folklorique de Job.
-6. Ézéchiel était au courant de l'histoire de Job au sixième siècle, peut-être avant que le présent livre ne soit écrit. Il fait référence à Job, ainsi qu'à Noé et Daniel ([Eze. 14:14](/en/Bible/Ezekiel/14#v14)).
+6. Ézéchiel était au courant de l'histoire de Job au sixième siècle, peut-être avant que le présent livre ne soit écrit. Il fait référence à Job, ainsi qu'à Noé et Daniel ([Eze. 14:14](/fr/Bible/Ezekiel/14#v14)).
 
 ## IV. Un regard global sur Job
 
-1. Nous entendons souvent parler de "la patience de Job". ([Jas. 5:11](/en/Bible/James/5#v11) King James Version) Mais peu de gens en savent beaucoup sur le livre de Job.
+1. Nous entendons souvent parler de "la patience de Job". ([Jas. 5:11](/fr/Bible/James/5#v11) King James Version) Mais peu de gens en savent beaucoup sur le livre de Job.
 2. Job est un poème traitant du sens de la vie - rapport de la souffrance à la religion.
 3. Job appartient au soi-disant type de sagesse de la littérature hébraïque.
-4. Dans le Livre d'Urantia, Jésus présente une discussion instructive de Job sur [UB 148:6.1](/en/The_Urantia_Book/148#p6_1).
+4. Dans le Livre d'Urantia, Jésus présente une discussion instructive de Job sur [LU 148:6.1](/fr/The_Urantia_Book/148#p6_1).
 5. Jésus appelle Job un "chef-d'œuvre de la littérature sémitique".
 6. Il y a de nombreuses marques d'influence édomite dans Job. Le conte folklorique original a peut-être localisé Job à Edom.
 7. Il existe des histoires folkloriques similaires à Job en Inde, en Égypte, à Babylone et au Proche-Orient.
@@ -119,20 +119,20 @@ Auteur: **William S. Sadler**
 
 1. **Les fils de Dieu**. "Or il y eut un jour où les fils de Dieu vinrent se présenter devant le Seigneur, et Satan vint aussi parmi eux." [1:6](/fr/Bible/Job/1#v6).
 2. **Le Seigneur donne**. "'L'Éternel a donné, et l'Éternel a repris; béni soit le nom de l'Éternel.'" [1:21](/fr/Bible/Job/1#v21).
-3. **Pouvoir de suggestion**. "'Car la chose que je crains vient sur moi, et ce que je redoute m'arrive.'" [3:25](/en/Bible/Job/3#v25).
-4. **Cause et effet**. "'Car l'affliction ne vient pas de la poussière, et le trouble ne sort pas du sol.'" [5:6](/en/Bible/Job/5#v6).
-5. **Flèches du Tout-Puissant**. "'Car les flèches du Tout-Puissant sont en moi ; mon esprit boit leur poison ; les terreurs de Dieu se déploient contre moi.'" [6:4](/en/Bible/Job/6#v4).
-6. **La présence de Dieu**. "'Voici, il passe à côté de moi, et je ne le vois pas ; il avance, mais je ne l'aperçois pas.'" [9:11](/en/Bible/Job/9#v11).
+3. **Pouvoir de suggestion**. "'Car la chose que je crains vient sur moi, et ce que je redoute m'arrive.'" [3:25](/fr/Bible/Job/3#v25).
+4. **Cause et effet**. "'Car l'affliction ne vient pas de la poussière, et le trouble ne sort pas du sol.'" [5:6](/fr/Bible/Job/5#v6).
+5. **Flèches du Tout-Puissant**. "'Car les flèches du Tout-Puissant sont en moi ; mon esprit boit leur poison ; les terreurs de Dieu se déploient contre moi.'" [6:4](/fr/Bible/Job/6#v4).
+6. **La présence de Dieu**. "'Voici, il passe à côté de moi, et je ne le vois pas ; il avance, mais je ne l'aperçois pas.'" [9:11](/fr/Bible/Job/9#v11).
 7. **Tribulations**. "'L'homme qui est né d'une femme est de peu de jours et plein d'ennuis.'" [14:1](/fr/Bible/Job/14#v1).
-8. **Couettes misérables**. "Alors Job répondit... 'Vous êtes tous de misérables consolateurs.'" [16:1](/en/Bible/Job/16#v1).
-9. **Mon Vindicator vit**. "'Je sais que mon Rédempteur (Redresseur de torts) vit.'" [19:25](/en/Bible/Job/19#v25).
+8. **Couettes misérables**. "Alors Job répondit... 'Vous êtes tous de misérables consolateurs.'" [16:1](/fr/Bible/Job/16#v1).
+9. **Mon Vindicator vit**. "'Je sais que mon Rédempteur (Redresseur de torts) vit.'" [19:25](/fr/Bible/Job/19#v25).
 10. **Soyez en paix**. "'Accorde-toi à Dieu et sois en paix.'" [22:21](/fr/Bible/Job/22#v21).
-11. **Le cosmos**. "'Il étend le nord sur le vide, et ne suspend la terre à rien.'" [26:7](/en/Bible/Job/26#v7).
-12. **L'esprit de l'homme**. "'Mais c'est l'esprit d'un homme, le souffle du Tout-Puissant, qui lui fait comprendre.'" [32:8](/en/Bible/Job/32#v8).
-13. **L'esprit de Dieu**. "'L'esprit de Dieu m'a créé, et le souffle du Tout-Puissant me donne la vie.'" [33:4](/en/Bible/Job/33#v4).
-14. **Acceptation divine**. "'Alors l'homme prie Dieu, et il l'accepte, il vient en sa présence avec joie.'" [33:26](/en/Bible/Job/33#v26).
+11. **Le cosmos**. "'Il étend le nord sur le vide, et ne suspend la terre à rien.'" [26:7](/fr/Bible/Job/26#v7).
+12. **L'esprit de l'homme**. "'Mais c'est l'esprit d'un homme, le souffle du Tout-Puissant, qui lui fait comprendre.'" [32:8](/fr/Bible/Job/32#v8).
+13. **L'esprit de Dieu**. "'L'esprit de Dieu m'a créé, et le souffle du Tout-Puissant me donne la vie.'" [33:4](/fr/Bible/Job/33#v4).
+14. **Acceptation divine**. "'Alors l'homme prie Dieu, et il l'accepte, il vient en sa présence avec joie.'" [33:26](/fr/Bible/Job/33#v26).
 15. **Salut**. "'" J'ai péché et j'ai perverti ce qui était juste, et cela ne m'a pas été rendu. Il a racheté mon âme."'" [33:27,28](/fr/Bible/Job/33#v27).
-16. **Étoiles du matin**. "'Quand les étoiles du matin chantaient ensemble, et que tous les fils de Dieu poussaient des cris de joie.'" [38:7](/en/Bible/Job/38#v7).
+16. **Étoiles du matin**. "'Quand les étoiles du matin chantaient ensemble, et que tous les fils de Dieu poussaient des cris de joie.'" [38:7](/fr/Bible/Job/38#v7).
 
 
 <br>

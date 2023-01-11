@@ -50,7 +50,7 @@ Auteur: **William S. Sadler**
 	- P. Chaudron de Feu. [24:1-14](/fr/Bible/Ezéchiel/24#v1).
 	- Q. Mort de la femme d'Ézéchiel. [24:15-27](/fr/Bible/Ezéchiel/24#v15).
 2. Oracles contre les nations étrangères. [25:1-32:32](/fr/Bible/Ezéchiel/25#v1).
-	- A. Ammon et autres, [25:1-17](/en/Bible/Ezekiel/25#v1).
+	- A. Ammon et autres, [25:1-17](/fr/Bible/Ezekiel/25#v1).
 	- B. Contre Tyr. [26:1-28:26](/fr/Bible/Ezéchiel/26#v1).
 	- C. Egypte. [29:1-30:26](/fr/Bible/Ezéchiel/29#v1).
 	- D. Chute du Grand Cèdre. [31:1-18](/fr/Bible/Ezéchiel/31#v1).
@@ -62,8 +62,8 @@ Auteur: **William S. Sadler**
 	- D. Vallée des os secs. [37:1-14](/fr/Bible/Ezéchiel/37#v1).
 	- E. Les Deux Bâtons. [38:15-28](/fr/Bible/Ezéchiel/38#v15).
 	- F. Gog et Magog. [38:1-39:29](/fr/Bible/Ezéchiel/38#v1).
-4. Communauté restaurée. [40:1-48:35](/en/Bible/Ezéchiel/40#v1).
-	- R. Le Temple. [40:1-42:20](/fr/Bible/Ezéchiel/40#v1).
+4. Communauté restaurée. [40:1-48:35](/fr/Bible/Ezéchiel/40#v1).
+	- A. Le Temple. [40:1-42:20](/fr/Bible/Ezéchiel/40#v1).
 	- B. L'Autel. [43:1-27](/fr/Bible/Ezéchiel/43#v1).
 	- C. Ordonnances. [44:1-31](/fr/Bible/Ezéchiel/44#v1).
 	- D. Quartier Sacré. [45:1-46:24](/fr/Bible/Ezéchiel/45#v1).
@@ -91,7 +91,7 @@ Auteur: **William S. Sadler**
 8. Il avait des visions et était accro aux allégories.
 9. Il a beaucoup contribué à la doctrine de l'angélologie chez les Hébreux.
 10. Il est étrange que ni Jérémie ni Ézéchiel ne mentionnent jamais l'autre. Il en est de même pour Amos et Osée.
-11. De [3:25,26](/en/Bible/Ezekiel/3#v25), [4:4](/en/Bible/Ezekiel/4#v4), [24:27](/en/ Bible/Ezekiel/24#v27), et [33:22](/en/Bible/Ezekiel/33#v22) nous pouvons conclure que sa maladie était une schizophrénie catatonique.
+11. De [3:25,26](/fr/Bible/Ezekiel/3#v25), [4:4](/fr/Bible/Ezekiel/4#v4), [24:27](/fr/Bible/Ezekiel/24#v27), et [33:22](/fr/Bible/Ezekiel/33#v22) nous pouvons conclure que sa maladie était une schizophrénie catatonique.
 12. Vous vous souvenez que le roi Saül était atteint de psychose maniaco-dépressive. Maintenant, nous avons Ézéchiel atteint de schizophrénie.
 
 ## V. Chapitres 40-48
@@ -118,19 +118,19 @@ Auteur: **William S. Sadler**
 ##VII. Textes sélectionnés
 
 1. **Vitesse séraphique**. "Et les créatures vivantes s'élançaient de-ci, de-là, comme un éclair." [1:14](/fr/Bible/Ezéchiel/1#v14).
-2. **Appelé "Fils de l'homme**". "Et il m'a dit: 'Fils d'homme, mange ce qui t'est offert; mange ce rouleau, et va parler à la maison d'Israël.'" [3:1](/fr/Bible/Ezekiel/3# v1).
+2. **Appelé "Fils de l'homme**". "Et il m'a dit: 'Fils d'homme, mange ce qui t'est offert; mange ce rouleau, et va parler à la maison d'Israël.'" [3:1](/fr/Bible/Ezekiel/3#v1).
 3. **Colère et colère divines**. « Ainsi s'épuisera ma colère, et je répandrai ma fureur sur eux et je me contenterai ; et ils sauront que moi, le Seigneur, j'ai parlé dans ma jalousie. » [5:13](/fr/Bible/ Ézéchiel/5#v13).
-4. **Cause et effet**. "'Et vous saurez que je n'ai pas fait sans cause tout ce que j'ai fait en elle, dit le Seigneur Dieu.'" [14:23](/en/Bible/Ezekiel/14#v23).
-5. **Telle mère, telle fille**. "'Voici, tout le monde... utilisera ce proverbe à votre sujet, "Telle mère, telle fille."'" [16:44](/en/Bible/Ezekiel/16#v44).
+4. **Cause et effet**. "'Et vous saurez que je n'ai pas fait sans cause tout ce que j'ai fait en elle, dit le Seigneur Dieu.'" [14:23](/fr/Bible/Ezekiel/14#v23).
+5. **Telle mère, telle fille**. "'Voici, tout le monde... utilisera ce proverbe à votre sujet, "Telle mère, telle fille."'" [16:44](/fr/Bible/Ezekiel/16#v44).
 6. **Manger des raisins verts**. "'Que voulez-vous dire..."Les pères ont mangé des raisins verts, et les dents des enfants sont agacées" ? [18:2,3](/fr/Bible/Ezéchiel/18#v2).
-7. **Aucun plaisir dans la mort des méchants**. "'Ai-je du plaisir dans la mort des méchants, dit le Seigneur Dieu.'" [18:23](/en/Bible/Ezekiel/18#v23).
+7. **Aucun plaisir dans la mort des méchants**. "'Ai-je du plaisir dans la mort des méchants, dit le Seigneur Dieu.'" [18:23](/fr/Bible/Ezekiel/18#v23).
 8. **Références à Lucifer**. "'Tu as été irréprochable dans tes voies depuis le jour où tu as été créé, jusqu'à ce que l'iniquité ait été trouvée en toi... Ton cœur était fier à cause de ta beauté ; tu as corrompu ta sagesse pour ta splendeur.'" [28:15 ,17](/fr/Bible/Ezéchiel/28#v15).
 9. **Son aphonie guérie**. "Alors ma bouche s'est ouverte, et je n'étais plus muet." [33:22](/fr/Bible/Ezéchiel/33#v22).
-10. **Douches de bénédiction**. '"Et je ferai descendre les averses en leur saison; ce seront des averses de bénédiction.'" [34:26](/en/Bible/Ezekiel/34#v26).
-11. **Ne pas avoir peur**. "'Ils habiteront en sécurité, et personne ne les effrayera.'" [34:28](/en/Bible/Ezekiel/34#v28).
-12. **Un nouveau cœur**. "'Je vous donnerai un cœur nouveau, et je mettrai en vous un esprit nouveau.'" [36:26](/en/Bible/Ezekiel/36#v26).
+10. **Douches de bénédiction**. '"Et je ferai descendre les averses en leur saison; ce seront des averses de bénédiction.'" [34:26](/fr/Bible/Ezekiel/34#v26).
+11. **Ne pas avoir peur**. "'Ils habiteront en sécurité, et personne ne les effrayera.'" [34:28](/fr/Bible/Ezekiel/34#v28).
+12. **Un nouveau cœur**. "'Je vous donnerai un cœur nouveau, et je mettrai en vous un esprit nouveau.'" [36:26](/fr/Bible/Ezekiel/36#v26).
 13. **La vallée des os secs**. « Il y eut un bruit, et voici, un cliquetis ; et les os se rassemblèrent, os contre os. [37:7](/fr/Bible/Ezéchiel/37#v7).
-14. **Gog et Magog**. "'J'invoquerai toute sorte de terreur contre Gog.'" [38:21](/en/Bible/Ezekiel/38#v21). "Tu tomberas... car j'ai parlé, dit le Seigneur Dieu." [39:5](/fr/Bible/Ezéchiel/39#v5).
+14. **Gog et Magog**. "'J'invoquerai toute sorte de terreur contre Gog.'" [38:21](/fr/Bible/Ezekiel/38#v21). "Tu tomberas... car j'ai parlé, dit le Seigneur Dieu." [39:5](/fr/Bible/Ezéchiel/39#v5).
 
 (**Remarque** : Pendant cent ans, les étudiants prophétiques ont référé cette prophétie sur les Gog et Magog à la Russie.)
 

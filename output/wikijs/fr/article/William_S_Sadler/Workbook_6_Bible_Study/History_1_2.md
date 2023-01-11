@@ -28,146 +28,146 @@ Avant environ 1000 av. J.-C., il n'y avait pas beaucoup d'écrits parmi les Juif
 
 ## I. Composition de l'Ancien Testament
 
-1. L'Ode de Débora, commémorant la victoire d'Israël sur Sisera ([Judg 5](/en/Bible/Judges/5)) est le plus ancien document de l'Ancien Testament. Probablement composé 1125 av.
-2. Probablement pas composé par Deborah. Il existe deux récits : la version en prose dans [Judg 4](/en/Bible/Judges/4) et la version poétique dans [Chap. 5](/fr/Bible/1_Corinthiens/1#v18).
+1. L'Ode de Débora, commémorant la victoire d'Israël sur Sisera ([Judg 5](/fr/Bible/Judges/5)) est le plus ancien document de l'Ancien Testament. Probablement composé 1125 av.
+2. Probablement pas composé par Deborah. Il existe deux récits : la version en prose dans [Judg 4](/fr/Bible/Judges/4) et la version poétique dans [Chap. 5](/fr/Bible/1_Corinthians/1#v18).
 3. De fortes pluies et des orages ont rendu les chars cananéens inutiles, de sorte qu'ils ont été mis en déroute et massacrés.
 4. Deborah était un juge sage. Les Hébreux ont accordé aux femmes plus de reconnaissance de nos jours que plus tard dans leur histoire nationale. Deborah était une prophétesse ainsi qu'un juge.
-5. Parmi les parties les plus anciennes de l'Ancien Testament se trouvent des poèmes cités des livres perdus de [Jasher](https://www.sacred-texts.com/chr/apo/jasher/index.htm), Livre de la parole de Yahweh, etc. Voir [Jos 10:12-14](/en/Bible/Joshua/10#v12).
-6. La plus ancienne prose de l'Ancien Testament est probablement le [récit de l'établissement du royaume de David](/en/Bible/2_Samuel/5).
-7. Viennent ensuite les [histoires d'Elie](/en/Bible/1_Kings/17) et le règne de [Jéhu](/en/Bible/1_Kings/19#v16). 842-815 avant JC
+5. Parmi les parties les plus anciennes de l'Ancien Testament se trouvent des poèmes cités des livres perdus de [Jasher](https://www.sacred-texts.com/chr/apo/jasher/index.htm), Livre de la parole de Yahweh, etc. Voir [Jos 10:12-14](/fr/Bible/Joshua/10#v12).
+6. La plus ancienne prose de l'Ancien Testament est probablement le [récit de l'établissement du royaume de David](/fr/Bible/2_Samuel/5).
+7. Viennent ensuite les [histoires d'Elie](/fr/Bible/1_Kings/17) et le règne de [Jéhu](/fr/Bible/1_Kings/19#v16). 842-815 avant JC
 8. La rédaction des livres historiques de l'Ancien Testament a commencé vers 600 av. J.-C. Ils avaient accès au livre perdu des "Actes des rois de Juda et d'Israël". [II Chron 25:26](/fr/Bible/2_Chronicles/25#v26).
-9. L'histoire des royaumes de David et de Salomon. [I Sam 16](/en/Bible/1_Samuel/16) à [I Kings 11](/en/Bible/1_Kings/11).
+9. L'histoire des royaumes de David et de Salomon. [I Sam 16](/fr/Bible/1_Samuel/16) à [I Kings 11](/fr/Bible/1_Kings/11).
 10. David était berger, poète, musicien et guerrier. Pendant des années un fugitif et hors-la-loi. Devient roi de Judée et d'Israël à la mort de Saül.
 11. Il y a deux histoires sur la nomination de David comme roi.
-	- une. Oint roi à Hébron. [II Sam 2:1-11](/fr/Bible/2_Samuel/2#v1).
+	- a. Oint roi à Hébron. [II Sam 2:1-11](/fr/Bible/2_Samuel/2#v1).
 	- b. Élu roi. [II Sam 5:1-5](/fr/Bible/2_Samuel/5#v1).
-12. David a un règne long et mouvementé – soumet les [Philistins](/en/Bible/2_Samuel/8#v1), [Moabites](/en/Bible/2_Samuel/8#v2), [Zobahites](/en /Bible/2_Samuel/8#v3), [Syriens, Edomites et Ammonites](/fr/Bible/2_Samuel/10#v1).
+12. David a un règne long et mouvementé – soumet les [Philistins](/fr/Bible/2_Samuel/8#v1), [Moabites](/fr/Bible/2_Samuel/8#v2), [Zobahites](/en /Bible/2_Samuel/8#v3), [Syriens, Edomites et Ammonites](/fr/Bible/2_Samuel/10#v1).
 13. David traverse la rébellion d'Absalom et voit enfin Salomon sur le trône.
-14. [Salomon](/en/Bible/1_Kings/1) règne de 960 à 922 av. J.-C. Il préside le Royaume-Uni et construit le temple. Épouse de nombreuses femmes et établit des relations internationales lointaines.
+14. [Salomon](/fr/Bible/1_Kings/1) règne de 960 à 922 av. J.-C. Il préside le Royaume-Uni et construit le temple. Épouse de nombreuses femmes et établit des relations internationales lointaines.
 15. A la réputation d'être sage. Augmente les impôts - construit beaucoup, et tout sauf. met le royaume en faillite.
 16. Après la mort de Salomon, le royaume uni éclate. Les guerres éclatent. Jéroboam met en place un système religieux rival dans le royaume du nord.
-17. Roboam, fils de Salomon par une princesse ammonite ([I Rois 14:21](/en/Bible/1_Kings/14#v21)), exerce un règne indifférent à Jérusalem.
+17. Roboam, fils de Salomon par une princesse ammonite ([I Rois 14:21](/fr/Bible/1_Kings/14#v21)), exerce un règne indifférent à Jérusalem.
 18. Très peu est contribué à l'Ancien Testament, sauf quelques Psaumes.
 19. L'Ancien Testament a mis près de mille ans à prendre forme. Les «anciens prophètes» couvrent la période allant d'Abraham à la captivité.
 20. Toutes sortes de littérature se trouvent dans l'Ancien Testament :
-	- une. **Juridique**—le [Pentateuque](https://en.wikipedia.org/wiki/Torah).
-	- b. **Historique**— [Josué](/fr/Bible/Josué/1), [Juges](/fr/Bible/Juges/1), [Samuel](/fr/Bible/1_Samuel/1), [Rois ](/en/Bible/1_Kings/1), [Chronicles](/en/Bible/1_Chronicles/1), [Ezra](/en/Bible/Ezra/1), [Néhémie](/en/Bible/Néhémie /1), [Esther](/fr/Bible/Esther/1).
-	- ch. **Prophétique**—les [prophètes majeurs et mineurs](http://biblebasics.wordpress.com/2007/02/16/major-and-minor-prophets/).
-	- ré. **Sagesse**— [Proverbes](/en/Bible/Proverbs/1), [Job](/en/Bible/Job/1), [Ecclesiastes](/en/Bible/Ecclesiastes/1), et les [Cantique des Cantiques](/fr/Bible/Songs/1).
-	- e. **Dévotionnelle**— [Psaumes](/en/Bible/Psalms/1).
+	- a. **Juridique**—le [Pentateuque](https://en.wikipedia.org/wiki/Torah).
+	- b. **Historique**— [Josué](/fr/Bible/Joshua/1), [Juges](/fr/Bible/Judges/1), [Samuel](/fr/Bible/1_Samuel/1), [Rois ](/fr/Bible/1_Kings/1), [Chronicles](/fr/Bible/1_Chronicles/1), [Ezra](/fr/Bible/Ezra/1), [Néhémie](/fr/Bible/Nehemiah /1), [Esther](/fr/Bible/Esther/1).
+	- c. **Prophétique**—les [prophètes majeurs et mineurs](http://biblebasics.wordpress.com/2007/02/16/major-and-minor-prophets/).
+	- d. **Sagesse**— [Proverbes](/fr/Bible/Proverbs/1), [Job](/fr/Bible/Job/1), [Ecclesiastes](/fr/Bible/Ecclesiastes/1), et les [Cantique des Cantiques](/fr/Bible/Songs/1).
+	- e. **Dévotionnelle**— [Psaumes](/fr/Bible/Psalms/1).
 21. [Amos](/fr/Bible/Amos/1) est probablement le livre le plus ancien de l'Ancien Testament.
 
 ## II. Croissance de l'Ancien Testament
 
 1. Les livres de l'Ancien Testament sont d'auteurs composites - peu ont été écrits par les noms qu'ils portent. La plupart d'entre eux ont été édités et réédités à plusieurs reprises.
 2. Lorsque l'écriture est devenue à la mode, de nombreuses traditions ont été enregistrées avant 1000 av. J.-C., avant la période monarchique :
-	- une. **Poèmes de guerre et chants de mars**.
-		- Chanson de Déborah. [Juge 5](/fr/Bible/Juges/5).
+	- a. **Poèmes de guerre et chants de mars**.
+		- Chanson de Déborah. [Juge 5](/fr/Bible/Judges/5).
 		- Chanson de Lamec. [Gn 4:23](/fr/Bible/Genesis/4#v23).
-		- Chant de Myriam. [Ex 15:21](/fr/Bible/Exode/15#v21).
-		- Guerre avec Amalek. [Ex 17:16](/fr/Bible/Exode/17#v16).
-		- Ode à l'Arche. [Num 10:35](/fr/Bible/Nombres/10#v35).
-		- Chanson de raillerie—Amoréens. [Num 21:27-30](/fr/Bible/Nombres/21#v27).
-		- Chanson du puits. [Num 21:17](/fr/Bible/Nombres/21#v17).
-		- Josué au Soleil et à la Lune. [Jos 10:12](/fr/Bible/Josué/10#v12).
+		- Chant de Myriam. [Ex 15:21](/fr/Bible/Exodus/15#v21).
+		- Guerre avec Amalek. [Ex 17:16](/fr/Bible/Exodus/17#v16).
+		- Ode à l'Arche. [Num 10:35](/fr/Bible/Numbers/10#v35).
+		- Chanson de raillerie—Amoréens. [Num 21:27-30](/fr/Bible/Numbers/21#v27).
+		- Chanson du puits. [Num 21:17](/fr/Bible/Numbers/21#v17).
+		- Josué au Soleil et à la Lune. [Jos 10:12](/fr/Bible/Joshua/10#v12).
 	- b. **Proverbes et Fables**.
 		- Le proverbe de David. [I Sam 24:13](/fr/Bible/1_Samuel/24#v13).
-		- Les énigmes de Samson. [Juges 14:14,18](/fr/Bible/Juges/14#v14).
-		- La raillerie de Samson. [Juges 15:16](/fr/Bible/Juges/15#v16).
-		- La fable de Jotham. [Juges 9:7-15](/fr/Bible/Juges/9#v7).
-	- ch. **Bénédictions prophétiques et oracles**.
+		- Les énigmes de Samson. [Juges 14:14,18](/fr/Bible/Judges/14#v14).
+		- La raillerie de Samson. [Juges 15:16](/fr/Bible/Judges/15#v16).
+		- La fable de Jotham. [Juges 9:7-15](/fr/Bible/Judges/9#v7).
+	- c. **Bénédictions prophétiques et oracles**.
 		- Bénédiction de Noé. [Gn 9:25-27](/fr/Bible/Genesis/9#v25).
 		- Bénédiction de Jacob. [Gen 49](/fr/Bible/Genesis/49).
-		- Oracles de Balaam. [Num 23](/fr/Bible/Nombres/23).
+		- Oracles de Balaam. [Num 23](/fr/Bible/Numbers/23).
 3. Au temps de David, Salomon et Jéroboam. 1000-910 avant JC :
-	- une. **Poèmes**.
+	- a. **Poèmes**.
 		- Les victoires de David. [I Sam 18:7](/fr/Bible/1_Samuel/18#v7).
 		- Le cri de guerre de Saba. [II Sam 20:1](/fr/Bible/2_Samuel/20#v1).
 		- La lamentation de David sur Saül. [II Sam 1:19](/fr/Bible/2_Samuel/1#v19).
 		- La lamentation de David sur Abner. [II Sam 3:33](/fr/Bible/2_Samuel/3#v33).
 		- La parabole de Nathan. [II Sam 12:1-4](/fr/Bible/2_Samuel/12#v1).
-		- La dédicace du temple de Salomon. [I Rois 8:12](/en/Bible/1_Kings/8#v12).
-		- Bénédiction de Moïse. [Deut 33](/fr/Bible/Deutéronome/33).
+		- La dédicace du temple de Salomon. [I Rois 8:12](/fr/Bible/1_Kings/8#v12).
+		- Bénédiction de Moïse. [Deut 33](/fr/Bible/Deuteronomy/33).
 	- b. **Récits**.
-		- Fondation du royaume. [I Sam](/en/Bible/1_Samuel/1) et [II Sam](/en/Bible/2_Samuel/1). et [I Kings](/en/Bible/1_Kings/1#v1).
-	- ch. **Lois**.
-		- Livre de l'alliance. [Ex 20-23](/fr/Bible/Exode/20).
+		- Fondation du royaume. [I Sam](/fr/Bible/1_Samuel/1) et [II Sam](/fr/Bible/2_Samuel/1). et [I Kings](/fr/Bible/1_Kings/1#v1).
+	- c. **Lois**.
+		- Livre de l'alliance. [Ex 20-23](/fr/Bible/Exodus/20).
 4. **Les IXe et VIIIe siècles**.
-	- Les histoires d'Elie. [I Rois 17-19](/fr/Bible/1_Rois/17).
-	- La dynastie Omri. [I Rois 3:6-9](/en/Bible/1_Kings/3#v6); [20:22](/fr/Bible/1_Kings/20#v22).
+	- Les histoires d'Elie. [I Rois 17-19](/fr/Bible/1_Kings/17).
+	- La dynastie Omri. [I Rois 3:6-9](/fr/Bible/1_Kings/3#v6); [20:22](/fr/Bible/1_Kings/20#v22).
 	- Les histoires d'Elisée. [II Rois 2-8](/fr/Bible/2_Kings/2); [13:14-21](/fr/Bible/2_Kings/13#v14).
 	- Les activités de Yahweh. 850 avant JC
 	- Activités élohistes. 750 avant JC
-	- [Genèse](/fr/Bible/Genèse/1). 850-750 avant JC
+	- [Genèse](/fr/Bible/Genesis/1). 850-750 avant JC
 	- [Amos](/fr/Bible/Amos/1). 750 avant JC
-	- [Osée](/fr/Bible/Osée/1). 745-735 avant JC
-	- [Isaïe](/fr/Bible/Isaïe/1). 738-700 avant JC
-	- [Michée](/fr/Bible/Michée/1). 715-686 avant JC
+	- [Osée](/fr/Bible/Hosea/1). 745-735 avant JC
+	- [Isaïe](/fr/Bible/Isaiah/1). 738-700 avant JC
+	- [Michée](/fr/Bible/Micah/1). 715-686 avant JC
 5. **Le 7e siècle**.
-	- [Deutéronome](/fr/Bible/Deutéronome/1) publié. 621 avant JC
-	- [Sophonie](/fr/Bible/Sophonie/1). 627 avant JC
-	- [Jérémie](/fr/Bible/Jérémie/1). 620—sur. avant JC
+	- [Deutéronome](/fr/Bible/Deuteronomy/1) publié. 621 avant JC
+	- [Sophonie](/fr/Bible/Zephaniah/1). 627 avant JC
+	- [Jérémie](/fr/Bible/Jeremiah/1). 620—sur. avant JC
 	- [Nahum](/fr/Bible/Nahum/1). 615 avant JC
-	- Première édition du livre des [Rois](/fr/Bible/1_Rois/1). 620-608 avant JC
+	- Première édition du livre des [Rois](/fr/Bible/1_Kings/1). 620-608 avant JC
 6. **Le 6e siècle**.
 	- Jérémie continue. Après 585 avant JC
-	- [Habacuc](/fr/Bible/Habacuc/1). 600-590 avant JC
+	- [Habacuc](/fr/Bible/Habakkuk/1). 600-590 avant JC
 	- [Ezéchiel](/fr/Bible/Ezéchiel/1). 593-571 avant JC
-	- Code de sainteté. [Lv 17-26](/fr/Bible/Lévitique/17).
+	- Code de sainteté. [Lv 17-26](/fr/Bible/Leviticus/17).
 	- [Lamentations](/fr/Bible/Lamentations/1). 586-550 avant JC
-	- [Isaiah 63:7-64:12](/en/Bible/Isaiah/63#v7).
-	- Deuxième édition de [Rois](/fr/Bible/2_Rois/1). 560 avant JC
+	- [Isaiah 63:7-64:12](/fr/Bible/Isaiah/63#v7).
+	- Deuxième édition de [Rois](/fr/Bible/2_Kings/1). 560 avant JC
 	- Histoires révisées de Joshua, Judges et Samuel.
-	- Cantique de Moïse. [Deut 32](/fr/Bible/Deutéronome/32).
-	- [Esaïe 13:2; 14:4-21](/fr/Bible/Isaïe/13-2%3b-14#v4).
+	- Cantique de Moïse. [Deut 32](/fr/Bible/Deuteronomy/32).
+	- [Esaïe 13:2; 14:4-21](/fr/Bible/Isaiah/13-2%3b-14#v4).
 	- [Deuxième Isaïe](/fr/Bible/Isaiah/2) 40-55. 546-539 avant JC
-	- [Aggée](/fr/Bible/Aggée/1). 520 avant JC
-	- [Zacharie 1-8](/fr/Bible/Zacharie/1). 520-518 avant JC
+	- [Aggée](/fr/Bible/Haggai/1). 520 avant JC
+	- [Zacharie 1-8](/fr/Bible/Zechariah/1). 520-518 avant JC
 7. **Le 5e siècle**.
-	- Parties de [Isaiah 59-66](/en/Bible/Isaiah/59).
-	- [Jérémie 3:14-18](/fr/Bible/Jérémie/3#v14).
+	- Parties de [Isaiah 59-66](/fr/Bible/Isaiah/59).
+	- [Jérémie 3:14-18](/fr/Bible/Jeremiah/3#v14).
 	- [Isaiah 34](/fr/Bible/Isaiah/34).
-	- [Abdias](/fr/Bible/Abdias/1).
+	- [Abdias](/fr/Bible/Obadiah/1).
 	- [Amos 9:8-15](/fr/Bible/Amos/9#v8).
-	- [Isaiah 11:10-16](/en/Bible/Isaiah/11#v10).
-	- [Malachie](/fr/Bible/Malachie/1). 460 avant JC
+	- [Isaiah 11:10-16](/fr/Bible/Isaiah/11#v10).
+	- [Malachie](/fr/Bible/Malachi/1). 460 avant JC
 	- [Livre de Ruth](/fr/Bible/Ruth/1).
-	- Une histoire de [Ezra 4:8-6:18](/en/Bible/Ezra/4#v8).
-	- [Joël](/fr/Bible/Joël/1). 400 avant JC
+	- Une histoire de [Ezra 4:8-6:18](/fr/Bible/Ezra/4#v8).
+	- [Joël](/fr/Bible/Joel/1). 400 avant JC
 8. **Le 4e siècle**.
 	- Joel—quelques parties.
-	- [Isaiah 19:1-15](/en/Bible/Isaiah/19#v1); [23:1-14](/fr/Bible/Isaïe/23#v1).
-	- [Proverbes](/fr/Bible/Proverbes/1).
+	- [Isaiah 19:1-15](/fr/Bible/Isaiah/19#v1); [23:1-14](/fr/Bible/Isaiah/23#v1).
+	- [Proverbes](/fr/Bible/Proverbs/1).
 	- [Travail](/fr/Bible/Travail/1).
 	- [Isaiah 24-27](/fr/Bible/Isaiah/24).
 9. **Le 3e siècle**.
-	- [Chroniques](/fr/Bible/1_Chroniques/1). 300-250 avant JC
-	- [Genèse 14](/fr/Bible/Genèse/14).
-	- [I Rois 13](/fr/Bible/1_Rois/13).
+	- [Chroniques](/fr/Bible/1_Chronicles/1). 300-250 avant JC
+	- [Genèse 14](/fr/Bible/Genesis/14).
+	- [I Rois 13](/fr/Bible/1_Kings/13).
 	- [Esther](/fr/Bible/Esther/1).
 	- [Cantique des Cantiques](/fr/Bible/Songs/1).
-	- [Proverbes 1-9](/fr/Bible/Proverbes/1).
-	- [Jonas](/fr/Bible/Jonas/1).
+	- [Proverbes 1-9](/fr/Bible/Proverbs/1).
+	- [Jonas](/fr/Bible/Jonah/1).
 	- [Isaiah 19:18-25](/fr/Bible/Isaiah/19#v18).
-	- [Ecclésiaste](/fr/Bible/Ecclésiaste/1). 200 avant JC
+	- [Ecclésiaste](/fr/Bible/Ecclesiastes/1). 200 avant JC
 10. **Le 2e siècle**.
 	- [Daniel](/fr/Bible/Daniel/1). 165 avant JC
-	- [Zacharie 9-11](/fr/Bible/Zacharie/9); [13:7-9](/fr/Bible/Zacharie/13#v7).
+	- [Zacharie 9-11](/fr/Bible/Zechariah/9); [13:7-9](/fr/Bible/Zechariah/13#v7).
 	- [Isaiah 33](/fr/Bible/Isaiah/33).
-	- [Achèvement du Psautier](/en/Bible/Psalms/1).
+	- [Achèvement du Psautier](/fr/Bible/Psalms/1).
 
 ## III. Canon de l'Ancien Testament
 
 1. L'Ancien Testament représente la croissance de presque mille ans. Seuls les chrétiens appellent les écritures hébraïques l'Ancien Testament.
 2. Les Hébreux ont classé les 39 livres de leurs Écritures en quatre grandes divisions.
-	- une. La Loi—Torah. 5 livres. Le Pentateuque.
+	- a. La Loi—Torah. 5 livres. Le Pentateuque.
 	- b. Les Prophètes. 8 livres.
 		- (1) Les anciens prophètes.
 			Josué, juges, Samuel, rois.
 		- (2) Les derniers prophètes.
 			Esaïe, Jérémie, Ezéchiel.
-	- ch. Les Petits Prophètes—les Douze.
-	- ré. Le reste.
+	- c. Les Petits Prophètes—les Douze.
+	- d. Le reste.
 		Daniel, Esdras, Néhémie, Chroniques.
 3. Le canon de l'Ancien Testament a été créé par un synode de rabbins à [Jamnia](https://en.wikipedia.org/wiki/Council_of_Jamnia) (près de Joppa) en 90 après JC.
 4. Ce fut le premier assemblage « complet » d'écrits sacrés à être formulé par une religion.

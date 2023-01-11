@@ -12,9 +12,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 			<tr>
-				<td><a href="/fr/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/10">Épreuve 10. La Trinité du Paradis</a></td>
+				<td><a href="/fr/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/10">Fascicule 10. La Trinité du Paradis</a></td>
 				<td><a href="/fr/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/Index">Table des matières</a></td>
-				<td><a href="/fr/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/11">Épreuve 11. L'île éternelle du paradis</a></td>
+				<td><a href="/fr/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/11">Fascicule 11. L'île éternelle du paradis</a></td>
 			</tr>
 		</tbody>
 	</table>
@@ -29,7 +29,7 @@ Les livres sacrés des peuples hindous sont la plus ancienne et la plus grande c
 1. [Les Védas](https://www.sacred-texts.com/hin/).
 2. [Les Brahmanes](https://www.sacred-texts.com/hin/sbr/index.htm).
 3. [Les Upanishads](https://www.sacred-texts.com/hin/upan/).
-4. [Le Mahabharata] (https://www.sacred-texts.com/hin/maha/index.htm).
+4. [Le Mahabharata](https://www.sacred-texts.com/hin/maha/index.htm).
 5. [Lois de Manu](https://www.sacred-texts.com/hin/manu.htm).
 6. [Puranas] (https://www.sacred-texts.com/hin/vp/index.htm).
 
@@ -38,10 +38,10 @@ Il n'est pas toujours possible de faire cette ségrégation, comme par exemple l
 ### 1. **Les Védas**. (1000 avant JC ou avant) Dévotion
 
 Le mot Veda est dérivé du sanskrit VID – savoir. Les quatre Vedas sont fondamentalement **dévotionnels**.
-	- une. **[The Rig Veda](https://www.sacred-texts.com/hin/rigveda/index.htm)** — une collection de 1028 hymnes lyriques, environ cinq fois la longueur des psaumes hébreux.
+	- a. **[The Rig Veda](https://www.sacred-texts.com/hin/rigveda/index.htm)** — une collection de 1028 hymnes lyriques, environ cinq fois la longueur des psaumes hébreux.
 	- b. **[The Sama Veda](https://www.sacred-texts.com/hin/sv.htm)** — interprétation de la majorité des hymnes du Rig Veda avec des notations musicales. Chants.
-	- ch. **[Le Yajur Veda](https://www.sacred-texts.com/hin/yv/index.htm)** —écrits liturgiques. Cérémonies.
-	- ré. **[L'Atharva Veda](https://www.sacred-texts.com/hin/av/index.htm)** — une collection de 730 incantations et autres formules rituelles conçues pour opérer des charmes, etc.
+	- c. **[Le Yajur Veda](https://www.sacred-texts.com/hin/yv/index.htm)** —écrits liturgiques. Cérémonies.
+	- d. **[L'Atharva Veda](https://www.sacred-texts.com/hin/av/index.htm)** — une collection de 730 incantations et autres formules rituelles conçues pour opérer des charmes, etc.
 
 ### 2. **Les brahmanes**. (1000-600 av. J.-C.) Cérémonial. **Voir les liens ci-dessus**
 
@@ -68,10 +68,10 @@ La **Bhagavad-Gita**, dont l'origine remonte peut-être au premier siècle av. J
 ### 5. **Lois de Manu**. (200 av. J.-C.) Juridique—éthique. **Voir les liens ci-dessus**
 
 Cette collecte est de nature légale et éthique, traitant des problèmes suivants.
-	- une. Fonction des quatre castes.
+	- a. Fonction des quatre castes.
 	- b. Suprématie de la caste sacerdotale.
-	- ch. Perpétuation de la caste sacerdotale.
-	- ré. Conduite des hommes dans la vie séculière.
+	- c. Perpétuation de la caste sacerdotale.
+	- d. Conduite des hommes dans la vie séculière.
 	- e. Conduite des hommes dans la vie religieuse.
 
 ### 6. **Les Puranas**. (100-1000 AD) Voir les liens ci-dessus
@@ -83,7 +83,7 @@ Ce recueil de poésie traite de la cosmologie, de la mythologie et donne un vast
 ### 1. **Le Tao-Teh-King**. 6ème siècle avant JC
 
 Censé avoir été écrit par Lao Tze.
-- **Partie I** - **Tao** : traite de la nature et des fonctions de la "cause ultime", de "l'essence cosmique", de la "tendance de l'univers".
+- **Partie I** - **Tao** : traite de la nature et des fonctions de la « cause ultime », de « l'essence cosmique », de la « tendance de l'univers ».
 
 - **Partie II** - **Teh** : Dépeint ce genre de vie éthique que l'allégeance au Tao fait naître. **Voir lien ci-dessus**
 
@@ -115,7 +115,7 @@ Le **sikhisme**, mélange d'islam et d'hindouisme, a été fondé au XVe siècle
 1. Pas de caste—tous sont égaux devant Dieu.
 2. Monothéiste.
 3. La transmigration et le karma sont acceptés.
-4. Le destin ultime est "l'absorption dans la lumière éternelle".
+4. Le destin ultime est « l'absorption dans la lumière éternelle ».
 5. Le salut est une question d'attitude intérieure plutôt que d'observation extérieure
 6. Les pratiques ascétiques sont sans valeur - seul le travail fait par amour pour Dieu a du mérite.
 
@@ -123,19 +123,19 @@ Le **sikhisme**, mélange d'islam et d'hindouisme, a été fondé au XVe siècle
 
 Le total des écrits sacrés se compose de neuf livres - cinq canoniques et quatre non canoniques.
 
-### 1. **Les "rois" canoniques**
+### 1. **Les « rois » canoniques**
 
 Les quatre premiers livres ont été édités par Confucius ; le cinquième est en grande partie son propre travail.
-- une. **[Le roi YI](https://www.sacred-texts.com/ich/index.htm)**. (Le "Canon des changements")
+- a. **[Le roi YI](https://www.sacred-texts.com/ich/index.htm)**. (Le « Canon des changements »)
 	Aux sens de l'homme, l'univers semble être un chaos. C'est l'apparence, mais pas la réalité. Il y a une activité créatrice incessante qui organise constamment un chaos apparent dans un univers ordonné et complet d'**harmonie**.
-- b. **[Le roi SHU](https://www.sacred-texts.com/cfu/sbe03/index.htm#section_000)**. (Le "Canon de l'Histoire")
+- b. **[Le roi SHU](https://www.sacred-texts.com/cfu/sbe03/index.htm#section_000)**. (Le « Canon de l'Histoire »)
 	Ouvrage historico-éthique vantant les vertus de deux souverains semi-mythiques de l'Antiquité.
-- ch. **[Le roi SHI](https://www.sacred-texts.com/cfu/sbe03/index.htm#section_007)**. (Le "Canon des Odes")
+- c. **[Le roi SHI](https://www.sacred-texts.com/cfu/sbe03/index.htm#section_007)**. (Le « Canon des Odes »)
 	Trois cent cinq odes traversant toute la gamme de la poésie lyrique chinoise.
-- ré. **[Le roi LI KI](https://www.sacred-texts.com/cfu/liki/index.htm)**. (Le "Canon des Rites")
+- d. **[Le roi LI KI](https://www.sacred-texts.com/cfu/liki/index.htm)**. (Le « Canon des Rites »)
 	Dépeint une loi intérieure de contrôle et d'équilibre comme source de l'harmonie extérieure d'une société idéale résultant de la conduite restreinte de ses citoyens vertueux.
-- e. **CHUN TSIN** ("Printemps et automne")
-	Ce sont les "[Annales de LU](https://en.wikipedia.org/wiki/L%C3%BCshi_Chunqiu)" (700-550 avant JC), la principauté dans laquelle Confucius est né, et sont, pour l'essentiel , original avec Confucius.
+- e. **CHUN TSIN** (« Printemps et automne »)
+	Ce sont les « [Annales de LU](https://en.wikipedia.org/wiki/L%C3%BCshi_Chunqiu) » (700-550 avant JC), la principauté dans laquelle Confucius est né, et sont, pour l'essentiel , original avec Confucius.
 	Ses huit conceptions fondamentales de la paix sont ici décrites comme suit :
 		- (1) Le ciel est le Seigneur de l'univers et aime toutes les créatures.
 		- (2) L'amour universel de l'humanité indépendamment des différences raciales.
@@ -146,25 +146,25 @@ Les quatre premiers livres ont été édités par Confucius ; le cinquième est 
 		- (7) Il y a des divisions de territoires, mais pas de personnes ; tous les gens appartiennent à une seule famille.
 		- (8) Le monde entier est une grande unité.
 
-### 2. **Les "quatre livres" non canoniques**
+### 2. **Les « quatre livres » non canoniques**
 
-Bien qu'ils ne soient pas canoniques, ils ont le même statut que les "Kings". Ils ont été écrits après la mort de Confucius par ses disciples — immédiats et lointains.
-- une. **LUN-YU**. (Analectes de Confucius)
+Bien qu'ils ne soient pas canoniques, ils ont le même statut que les « Kings ». Ils ont été écrits après la mort de Confucius par ses disciples — immédiats et lointains.
+- a. **LUN-YU**. (Analectes de Confucius)
 	Vingt-cinq livres exposant l'enseignement de Confucius, notamment en ce qui concerne la piété.
-- b. **TA-HIO**. (Le "Grand Apprentissage")
+- b. **TA-HIO**. (Le « Grand Apprentissage »)
 	Culture de soi en relation avec l'éthique sociale. La société est présentée comme une extension de l'individu.
-- ch. **CHUNG-YUNG**. (La « doctrine de la moyenne »)
-	La conception dominante de Confucius du "moyen" - la voie médiane entre les extrêmes présentée comme un principe cosmique d'équilibre ou d'équilibre.
-	LA REGLE D'OR : "Gardez l'équilibre entre vous et votre prochain, pratiquez le principe d'équilibre."
-- ré. **[MENG TZU](https://www.sacred-texts.com/cfu/menc/index.htm)**. ("Mencius")
+- c. **CHUNG-YUNG**. (La « doctrine de la moyenne »)
+	La conception dominante de Confucius du « moyen » - la voie médiane entre les extrêmes présentée comme un principe cosmique d'équilibre ou d'équilibre.
+	LA REGLE D'OR : « Gardez l'équilibre entre vous et votre prochain, pratiquez le principe d'équilibre. »
+- d. **[MENG TZU](https://www.sacred-texts.com/cfu/menc/index.htm)**. (« Mencius »)
 	A vécu 372-289 av. J.-C. Le plus grand des disciples. Exposé des enseignements confucéens par l'utilisation de la forme de dialogue. Continue l'exposition de la doctrine de la moyenne avec un accent particulier sur sa relation avec le gouvernement.
 
 ### 3. **Enseignements du confucianisme**
 
-- une. **La fin principale de l'homme** est de devenir un membre désirable de la société.
+- a. **La fin principale de l'homme** est de devenir un membre désirable de la société.
 - b. **Croyance en Dieu**. Confucius a reconnu un pouvoir surhumain qui était lié à l'homme mais a peu parlé à ce sujet.
 	NOM DE DIEU : Le terme TIEN (Ciel) est utilisé de préférence à SHANG-TI (Seigneur Suprême) qui portait certaines connotations anthropomorphiques.
-- ch. **Immortalité**—C'était un agnostique. N'a pas accepté ou nié l'immortalité.
+- c. **Immortalité**—C'était un agnostique. N'a pas accepté ou nié l'immortalité.
 
 <br>
 
@@ -172,9 +172,9 @@ Bien qu'ils ne soient pas canoniques, ils ont le même statut que les "Kings". I
 	<table>
 		<tbody>
 			<tr>
-				<td><a href="/fr/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/10">Épreuve 10. La Trinité du Paradis</a></td>
+				<td><a href="/fr/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/10">Fascicule 10. La Trinité du Paradis</a></td>
 				<td><a href="/fr/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/Index">Table des matières</a></td>
-				<td><a href="/fr/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/11">Épreuve 11. L'île éternelle du paradis</a></td>
+				<td><a href="/fr/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/11">Fascicule 11. L'île éternelle du paradis</a></td>
 			</tr>
 		</tbody>
 	</table>

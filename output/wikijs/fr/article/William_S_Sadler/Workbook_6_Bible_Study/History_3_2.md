@@ -43,7 +43,7 @@ c. Les Apocryphes du Nouveau Testament.
 
 ## II. Nouveau Testament et Apocryphes
 
-1. Les étudiants du Nouveau Testament pensent que les auteurs des évangiles avaient une source commune appelée Q. C'étaient les notes de l'apôtre André. Voir [UB 121:8.1](/en/The_Urantia_Book/121#p8_1)
+1. Les étudiants du Nouveau Testament pensent que les auteurs des évangiles avaient une source commune appelée Q. C'étaient les notes de l'apôtre André. Voir [LU 121:8.1](/fr/The_Urantia_Book/121#p8_1)
 2. Longtemps après que Luc ait écrit « Actes des Apôtres », d'autres auteurs ont écrit les actes de Pierre, Paul, Jean et d'autres.
 3. Les épîtres de Paul sont les plus anciennes des écritures du Nouveau Testament—Thessaloniciens étant les plus anciennes.
 4. Le Livre d'Urantia suggère que Paul était "l'un des auteurs des Hébreux".

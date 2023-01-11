@@ -27,7 +27,7 @@ Auteur: **William S. Sadler**
 1. La Samarie et l'Idumée étaient rattachées à la Judée ; Pérée était rattachée à la Galilée.
 2. Sous Alexandre, la Palestine était relativement libre – indépendante, sauf quand Antiochus a tenté de détruire les « superstitions juives ».
 3. La [révolte hasmonéenne] (http://www.history.umd.edu/Faculty/HLapin/HIST282/282HerodRoman.pdf) a réussi au-delà de toute anticipation. Israël a été étendu en territoire.
-4. Le peuple n'aimait pas les prêtres militaires - une guerre civile de cinq ans a éclaté.
+4. Le peuple n'aimait pas les prêtres militaires - a.guerre civile de cinq ans a éclaté.
 5. Alexandra, la veuve de Jannaeus, a apporté la paix.
 
 ## II. Sous Rome
@@ -39,14 +39,14 @@ Auteur: **William S. Sadler**
 5. Hérode devint roi de Judée. Cet Iduméen reçut le titre de "Roi des Juifs".
 6. Césarée est devenue la capitale et la Judée et la Samarie ont été reconstruites.
 7. La Palestine était divisée en trois parties administratives :
-	- une. Galilée et Pérée—Antipas.
+	- a. Galilée et Pérée—Antipas.
 	- b. Districts au nord et à l'est de la Galilée donnés à Philippe.
-	- ch. Archelaus avait la Samarie et la Judée—et l'Idumée.
+	- c. Archelaus avait la Samarie et la Judée—et l'Idumée.
 8. Les Zélotes étaient un vieux parti et n'ont jamais cessé de semer le trouble.
 9. Il y avait trois partis religieux :
-	- une. Pharisiens - le parti progressiste ou libéral.
+	- a. Pharisiens - le parti progressiste ou libéral.
 	- b. Les Sadducéens étaient les fondamentalistes.
-	- ch. Les Esséniens étaient les isolationnistes – le culte ascétique.
+	- c. Les Esséniens étaient les isolationnistes – le culte ascétique.
 10. Les Zélotes étaient le parti politique du « home rule ».
 11. Le pire problème avec Rome est venu quand Gaius (37-41) a voulu mettre sa statue dans le "saint des saints" dans le temple de Jérusalem.
 12. Les Juifs continuaient à chercher le Messie, tandis qu'ils rejetaient Jésus. En 132 après JC, ils acceptèrent Bar Cocheba et commencèrent une nouvelle révolte contre Rome.
@@ -64,12 +64,12 @@ Auteur: **William S. Sadler**
 3. Le temple (synagogue) était un symbole de la LOI.
 4. Les Juifs avaient des prêtres à Jérusalem, mais pas de ministres fixes dans les synagogues.
 5. Le droit oral devint bientôt aussi contraignant que le droit écrit :
-	- une. Midrashim—commentaire courant sur la loi.
+	- a. Midrashim—commentaire courant sur la loi.
 	- b. Mishna - la loi orale classifiée ou codifiée.
 6. La compilation finale de la loi orale était le Talmud.
 7. Sur 4 500 000 Juifs, seuls 700 000 habitaient en Palestine. Il y avait plus de Juifs à Alexandrie qu'à Jérusalem.
 8. « L'espoir » juif s'est cristallisé dans deux directions :
-	- une. L'espérance messianique—un roi puissant assis sur le trône de David et gouvernant le monde.
+	- a. L'espérance messianique—un roi puissant assis sur le trône de David et gouvernant le monde.
 	- b. Eschatologie - venue de Yahweh - destruction du monde. Juger les vivants et les morts. La résurrection. Les nouveaux cieux et la nouvelle terre. Le royaume universel de justice.
 
 

@@ -26,32 +26,32 @@ Auteur: **William S. Sadler**
 
 ## I. Aperçu-Bref
 
-1. Création. [1,2](/fr/Bible/Genèse/1).
-2. La Chute. [3-5](/fr/Bible/Genèse/1).
-3. Le Déluge. [6-9](/fr/Bible/Genèse/1).
-4. Les peuples. [10,11](/fr/Bible/Genèse/10).
-5. Abraham. [12-20](/fr/Bible/Genèse/12).
-6. Isaac. [21-27](/fr/Bible/Genèse/21).
-7. Jacob. [28-36](/fr/Bible/Genèse/28).
-8. José. [37-50](/fr/Bible/Genèse/37).
+1. Création. [1,2](/fr/Bible/Genesis/1).
+2. La Chute. [3-5](/fr/Bible/Genesis/1).
+3. Le Déluge. [6-9](/fr/Bible/Genesis/1).
+4. Les peuples. [10,11](/fr/Bible/Genesis/10).
+5. Abraham. [12-20](/fr/Bible/Genesis/12).
+6. Isaac. [21-27](/fr/Bible/Genesis/21).
+7. Jacob. [28-36](/fr/Bible/Genesis/28).
+8. José. [37-50](/fr/Bible/Genesis/37).
 
 ## II. Aperçu complet
 
-1. Création. [1:1-2:3](/en/Bible/Genesis/1#v1).
-2. Création de l'homme. [2:4-25](/en/Bible/Genesis/2#v4).
-3. La chute de l'homme. [3:1-24](/fr/Bible/Genèse/1).
+1. Création. [1:1-2:3](/fr/Bible/Genesis/1#v1).
+2. Création de l'homme. [2:4-25](/fr/Bible/Genesis/2#v4).
+3. La chute de l'homme. [3:1-24](/fr/Bible/Genesis/1).
 4. Les débuts de la civilisation. [4:1-26](/fr/Bible/Genesis/4#v1).
 5. Descendance d'Adam. [5:1-28](/fr/Bible/Genesis/5#v1).
-6. Début de l'agriculture. [5:29-32](/en/Bible/Genesis/5#v29).
-7. Fils de Dieu et Filles des Hommes. [6:1-4](/fr/Bible/Genèse/1).
-8. Le Déluge. [6:5-9:19](/en/Bible/Genesis/1).
-9. Derniers jours de Noé. [9:20-29](/en/Bible/Genesis/9#v20).
-10. Descendants de Noé. [10:1-32](/fr/Bible/Genèse/10).
-11. Confusion des langues. [11:1-9](/en/Bible/Genesis/11#v1).
-12. Descendants de Sem. [11:10-26](/en/Bible/Genesis/11#v10).
-13. Généalogie d'Abraham. [11:27-32](/en/Bible/Genesis/11#v27).
+6. Début de l'agriculture. [5:29-32](/fr/Bible/Genesis/5#v29).
+7. Fils de Dieu et Filles des Hommes. [6:1-4](/fr/Bible/Genesis/1).
+8. Le Déluge. [6:5-9:19](/fr/Bible/Genesis/1).
+9. Derniers jours de Noé. [9:20-29](/fr/Bible/Genesis/9#v20).
+10. Descendants de Noé. [10:1-32](/fr/Bible/Genesis/10).
+11. Confusion des langues. [11:1-9](/fr/Bible/Genesis/11#v1).
+12. Descendants de Sem. [11:10-26](/fr/Bible/Genesis/11#v10).
+13. Généalogie d'Abraham. [11:27-32](/fr/Bible/Genesis/11#v27).
 14. L'appel d'Abraham. [12:1-8](/fr/Bible/Genesis/12#v1).
-15. Abraham en Egypte. [12:9-13:1](/en/Bible/Genesis/12#v9).
+15. Abraham en Egypte. [12:9-13:1](/fr/Bible/Genesis/12#v9).
 16. Abraham et Lot. [13:2-18](/fr/Bible/Genesis/13#v2).
 17. La guerre des rois. [14:1-24](/fr/Bible/Genesis/14#v1).
 18. Alliance avec Abraham. [15:1-21](/fr/Bible/Genesis/15#v1).
@@ -60,32 +60,32 @@ Auteur: **William S. Sadler**
 21. Visite du Seigneur à Hébron. [18:1-33](/fr/Bible/Genesis/18#v1).
 22. Destruction de Sodome et Gomorrhe. [19:1-29](/fr/Bible/Genesis/19#v1).
 23. Origine de Moab et Ammon. [19:30-38](/fr/Bible/Genesis/19#v30)
-24. Abraham et Isaac. [20:1-21:7](/en/Bible/Genesis/20#v1).
-25. Agar et Ismaël. [21:8-21](/en/Bible/Genesis/21#v8).
-26. Abraham et Abimélek. [21:22-34](/en/Bible/Genesis/21#v22).
-27. L'épreuve d'Abraham. [22:1-19](/en/Bible/Genesis/22#v1).
-28. Descendants de Nahor. [22:20-24](/en/Bible/Genesis/22#v20).
-29. Enterrement de Sarah. [23:1-20](/en/Bible/Genesis/23#v1).
-30. Choix de la femme d'Isaac. [24:1-67](/en/Bible/Genesis/24#v1).
+24. Abraham et Isaac. [20:1-21:7](/fr/Bible/Genesis/20#v1).
+25. Agar et Ismaël. [21:8-21](/fr/Bible/Genesis/21#v8).
+26. Abraham et Abimélek. [21:22-34](/fr/Bible/Genesis/21#v22).
+27. L'épreuve d'Abraham. [22:1-19](/fr/Bible/Genesis/22#v1).
+28. Descendants de Nahor. [22:20-24](/fr/Bible/Genesis/22#v20).
+29. Enterrement de Sarah. [23:1-20](/fr/Bible/Genesis/23#v1).
+30. Choix de la femme d'Isaac. [24:1-67](/fr/Bible/Genesis/24#v1).
 31. Fils de Ketura. [25:1-6](/fr/Bible/Genesis/25#v1).
-32. Mort d'Abraham. [25:7-11](/en/Bible/Genesis/25#v7).
-33. Descendants d'Ismaël. [25:12-18](/en/Bible/Genesis/25#v12).
-34. Jacob et Esaü. I. [25:19-34](/en/Bible/Genesis/25#v19).
+32. Mort d'Abraham. [25:7-11](/fr/Bible/Genesis/25#v7).
+33. Descendants d'Ismaël. [25:12-18](/fr/Bible/Genesis/25#v12).
+34. Jacob et Esaü. I. [25:19-34](/fr/Bible/Genesis/25#v19).
 35. Isaac et Rebecca. [26:1-33](/fr/Bible/Genesis/26#v1).
-36. Jacob et Esaü. II. [26:34-28:9](/en/Bible/Genesis/26#v34).
-37. Jacob à Béthel. [28:10-22](/en/Bible/Genesis/28#v10).
-38. Jacob à Paddan-Aram. [29:1-31:55](/en/Bible/Genesis/29#v1).
-39. Jacob et Esaü. III. [32:1-33:16](/en/Bible/Genesis/32#v1).
-40. Jacob et sa famille. [33:17-35:26](/en/Bible/Genesis/33#v17).
-41. Mort d'Isaac. [35:27-29](/en/Bible/Genesis/35#v27).
-42. Descendants d'Esaü. [36:1-43](/en/Bible/Genesis/36#v1).
-43. Joseph va en Egypte. [37:1-36](/en/Bible/Genesis/37#v1).
+36. Jacob et Esaü. II. [26:34-28:9](/fr/Bible/Genesis/26#v34).
+37. Jacob à Béthel. [28:10-22](/fr/Bible/Genesis/28#v10).
+38. Jacob à Paddan-Aram. [29:1-31:55](/fr/Bible/Genesis/29#v1).
+39. Jacob et Esaü. III. [32:1-33:16](/fr/Bible/Genesis/32#v1).
+40. Jacob et sa famille. [33:17-35:26](/fr/Bible/Genesis/33#v17).
+41. Mort d'Isaac. [35:27-29](/fr/Bible/Genesis/35#v27).
+42. Descendants d'Esaü. [36:1-43](/fr/Bible/Genesis/36#v1).
+43. Joseph va en Egypte. [37:1-36](/fr/Bible/Genesis/37#v1).
 44. Juda et Tamar. [38:1-30](/fr/Bible/Genesis/38#v1).
-45. Joseph en Egypte. [39:1-41:57](/en/Bible/Genesis/39#v1).
-46. ​​Joseph et ses frères. [42:1-45:28](/en/Bible/Genesis/42#v1).
-47. Jacob en Égypte. [46:1-48:22](/en/Bible/Genesis/46#v1).
-48. Jacob bénit ses fils et meurt. [49:1-33](/en/Bible/Genesis/49#v1).
-49. Enterrement de Jacob. [50:1-26](/en/Bible/Genesis/50#v1).
+45. Joseph en Egypte. [39:1-41:57](/fr/Bible/Genesis/39#v1).
+46. ​​Joseph et ses frères. [42:1-45:28](/fr/Bible/Genesis/42#v1).
+47. Jacob en Égypte. [46:1-48:22](/fr/Bible/Genesis/46#v1).
+48. Jacob bénit ses fils et meurt. [49:1-33](/fr/Bible/Genesis/49#v1).
+49. Enterrement de Jacob. [50:1-26](/fr/Bible/Genesis/50#v1).
 
 ## III. But
 
@@ -110,12 +110,12 @@ Auteur: **William S. Sadler**
 
 ## V. J1. Un document yahviste
 
-1. Le matériel original et primitif se trouve dans les chapitres [2-4](/en/Bible/Genesis/2#v4).
-2. Raconte comment l'homme a été expulsé du Jardin et s'est mis à l'agriculture. [3:23](/en/Bible/Genesis/3#v23).
+1. Le matériel original et primitif se trouve dans les chapitres [2-4](/fr/Bible/Genesis/2#v4).
+2. Raconte comment l'homme a été expulsé du Jardin et s'est mis à l'agriculture. [3:23](/fr/Bible/Genesis/3#v23).
 3. Caïn-un fugitif-est devenu un vagabond-début du nomadisme. (Il y a deux enregistrements de Caïn, sans parler de l'obtention d'une femme.)
-4. Dans [9:20](/en/Bible/Genesis/9#v20) il est dit que Noé a été le premier cultivateur du sol. (Il y a aussi deux récits de Noé.)
+4. Dans [9:20](/fr/Bible/Genesis/9#v20) il est dit que Noé a été le premier cultivateur du sol. (Il y a aussi deux récits de Noé.)
 5. Les documents J sont les traditions des Israélites du sud, dont le quartier général est à Hébron. Ce sont les tribus Kadesh ou Mt. Horeb qui ont pénétré Canaan par le sud. (Hébron était l'une des villes de Caleb et était également connue sous le nom de Kirjath-arba.)
-6. Parle des "puissants" et des "Nephilim". Pour plus de lumière sur Nephilim, voir le Livre d'Urantia [UB 77:2.3](/en/The_Urantia_Book/77#p2_3)
+6. Parle des "puissants" et des "Nephilim". Pour plus de lumière sur Nephilim, voir le Livre d'Urantia [LU 77:2.3](/fr/The_Urantia_Book/77#p2_3)
 7. Dans J1, Abraham est associé à Hébron.
 8. La chanson Deborah - le premier document de l'Ancien Testament - est une contribution J1.
 9. Cet auteur traite de Sodome et de Lot - et des filles de Lot qui se conduisent mal (origine des Moabites et des Ammonites).
@@ -163,7 +163,7 @@ Auteur: **William S. Sadler**
 2. Lorsque plusieurs documents sont "assemblés" - "fusionnés", le résultat est appelé CONFLATION. La personne qui fait cela est connue sous le nom de RÉDACTEUR.
 3. Il n'y a aucune trace du document E dans les onze premiers chapitres de la Genèse.
 4. Le document E utilise toujours Elohim pour Dieu. Il ne fait aucune mention de Yahweh.
-5. Il commence le récit avec Abraham-[Chapitre 12](/en/Bible/Genesis/12).
+5. Il commence le récit avec Abraham-[Chapitre 12](/fr/Bible/Genesis/12).
 6. E traite des traditions Horeb. Ces tribus adorent Elohim, campèrent longtemps à Kadesh et obtinrent leur loi au mont Horeb.
 7. L'auteur de E était un habitant du Nord.
 8. Selon E, Beer-sheba était la seule demeure d'Abraham. Aucune référence n'est jamais faite à Hébron.
@@ -193,7 +193,7 @@ Auteur: **William S. Sadler**
 	- F. Etablissement d'Abraham comme père d'Israël, Moïse le Libérateur, et David le fondateur d'une dynastie éternelle.
 	- G. Mettre à jour les Écritures - pour effectuer une fusion plus experte de leur révision avec les écrits déjà combinés de J et E.
 2. Le but exceptionnel de P est d'associer Abraham exclusivement à Hébron et Moïse au Mont Sinaï.
-3. Révision du récit de la création. [1:1-2:3](/en/Bible/Genesis/1#v1). Peut être entaché de certains mythes babyloniens, mais est austère dans sa grandeur.
+3. Révision du récit de la création. [1:1-2:3](/fr/Bible/Genesis/1#v1). Peut être entaché de certains mythes babyloniens, mais est austère dans sa grandeur.
 4. Le "chaos aqueux" primitif est laissé de côté. "L'Esprit se déplaçant à la surface de l'abîme" sonne comme une histoire babylonienne.
 5. Changement du "firmament, couverture du ciel". sous forme de substance solide.
 6. Le but des corps célestes de réguler le temps, et l'idée de la consultation des divinités, "faisons" l'homme.
@@ -205,12 +205,12 @@ Auteur: **William S. Sadler**
 12. P est le cadre du présent livre de la Genèse.
 13. P représente de nombreuses fonctionnalités améliorées de Genesis. "L'homme est fait à l'image de Dieu."
 14. P raconte une histoire nouvelle ou élargie sur :
-	A. Création. [1:1-2:3](/en/Bible/Genesis/1#v1).
-	B. Le déluge. Parties du [chap. 6](/en/Bible/Genesis/6) et [9](/en/Bible/Genesis/9).
-	D. Abraham achète un terrain. [23](/fr/Bible/Genèse/23).
+	A. Création. [1:1-2:3](/fr/Bible/Genesis/1#v1).
+	B. Le déluge. Parties du [chap. 6](/fr/Bible/Genesis/6) et [9](/fr/Bible/Genesis/9).
+	D. Abraham achète un terrain. [23](/fr/Bible/Genesis/23).
 	E. Les dix généalogies.
-	F. Le sabbat. [2:3](/fr/Bible/Genèse/2#v3).
-	G. Interdire le sang. [9:3-6](/en/Bible/Genesis/9#v3).
+	F. Le sabbat. [2:3](/fr/Bible/Genesis/2#v3).
+	G. Interdire le sang. [9:3-6](/fr/Bible/Genesis/9#v3).
 	H. Circoncision. [17:22-27](/fr/Bible/Genesis/17#22).
 15. Le document P insiste sur les révélations à Adam, Noé, Abraham et Moïse.
 
@@ -224,7 +224,7 @@ Auteur: **William S. Sadler**
 6. J2 a lutté pour l'unité spirituelle. Il a adapté les mythes babyloniens au yahvisme. Il a rendu la religion d'Israël différente de toutes les autres religions.
 7. Le rédacteur des documents J et E, pour favoriser l'unité, a dû retenir de nombreux documents qui lui répugnaient moralement.
 8. Il y avait de nombreux motifs derrière les éditeurs de P :
-	- R. Encore une fois, le premier des motifs était l'unité.
+	- A. Encore une fois, le premier des motifs était l'unité.
 	- B. Mais, surtout, c'était l'intention d'exalter les services du temple et le sacerdoce à Jérusalem.
 	- C. Ils voulaient aussi déraciner les mythes et les mensonges. (Nous ne savons pas combien ils en ont supprimés, nous ne savons que ce qu'ils ont conservé.)
 	- D. Ils voulaient vaincre la tendance au "localisme" et au "nationalisme" - même le nationalisme du Deutéronome.
@@ -238,22 +238,22 @@ Auteur: **William S. Sadler**
 
 ## X. Textes sélectionnés
 
-1. **Création**. "Au commencement, Dieu créa les cieux et la terre." [1:1](/en/Bible/Genesis/1#v1).
-2. **Image de Dieu**. "Alors Dieu dit : 'Faisons l'homme à notre image.'" [1:26](/en/Bible/Genesis/1#v26).
-3. **Voix dans le jardin**. « Le Seigneur Dieu appela l'homme et lui dit : 'Où es-tu ?' » [3:9](/fr/Bible/Genesis/3#v9). (Voir le Livre d'Urantia [UB 75:4.8](/en/The_Urantia_Book/75#p4_8).)
-4. **La malédiction**. "A la sueur de ton visage tu mangeras du pain." [3:19](/en/Bible/Genesis/3#v19).
+1. **Création**. "Au commencement, Dieu créa les cieux et la terre." [1:1](/fr/Bible/Genesis/1#v1).
+2. **Image de Dieu**. "Alors Dieu dit : 'Faisons l'homme à notre image.'" [1:26](/fr/Bible/Genesis/1#v26).
+3. **Voix dans le jardin**. « Le Seigneur Dieu appela l'homme et lui dit : 'Où es-tu ?' » [3:9](/fr/Bible/Genesis/3#v9). (Voir le Livre d'Urantia [LU 75:4.8](/fr/The_Urantia_Book/75#p4_8).)
+4. **La malédiction**. "A la sueur de ton visage tu mangeras du pain." [3:19](/fr/Bible/Genesis/3#v19).
 5. **Gardien du frère**. « Alors le Seigneur dit à Caïn : 'Où est Abel ton frère ?' Il dit : 'Je ne sais pas ; suis-je le gardien de mon frère ?'" [4:9](/fr/Bible/Genesis/4#v9).
-6. **Traduction d'Enoch**. "Enoch marchait avec Dieu; et il n'était pas, car Dieu l'a pris." [5:24](/en/Bible/Genesis/5#v24).
-7. **Les Néphilim**. "Les Nephilim étaient sur la terre à cette époque... quand les fils de Dieu sont venus vers les filles des hommes." [6:4](/en/Bible/Genesis/6#v4).
-8. **L'arc-en-ciel**. "J'ai placé mon arc dans la nuée, et ce sera un signe... plus jamais... un déluge pour détruire toute chair." [9:13,15](/en/Bible/Genesis/9#v13)..
-9. **Confusion de langage**. « Descendons, et là confondons leur langage, afin qu'ils ne se comprennent pas mutuellement. [11:7](/en/Bible/Genesis/11#v7).
-10. **Melchisédek et Abraham**. "Après son retour de la défaite de Ched-or-laomer ... Melchisédek, roi de Salem, apporta du pain et du vin ... et Abram lui donna un dixième de tout." [14:17-20](/en/Bible/Genesis/14#v17). (Voir le Livre d'Urantia [UB 93:5.13](/en/The_Urantia_Book/93#p5_13).)
+6. **Traduction d'Enoch**. "Enoch marchait avec Dieu; et il n'était pas, car Dieu l'a pris." [5:24](/fr/Bible/Genesis/5#v24).
+7. **Les Néphilim**. "Les Nephilim étaient sur la terre à cette époque... quand les fils de Dieu sont venus vers les filles des hommes." [6:4](/fr/Bible/Genesis/6#v4).
+8. **L'arc-en-ciel**. "J'ai placé mon arc dans la nuée, et ce sera un signe... plus jamais... un déluge pour détruire toute chair." [9:13,15](/fr/Bible/Genesis/9#v13)..
+9. **Confusion de langage**. « Descendons, et là confondons leur langage, afin qu'ils ne se comprennent pas mutuellement. [11:7](/fr/Bible/Genesis/11#v7).
+10. **Melchisédek et Abraham**. "Après son retour de la défaite de Ched-or-laomer ... Melchisédek, roi de Salem, apporta du pain et du vin ... et Abram lui donna un dixième de tout." [14:17-20](/fr/Bible/Genesis/14#v17). (Voir le Livre d'Urantia [LU 93:5.13](/fr/The_Urantia_Book/93#p5_13).)
 11. **La foi d'Abraham**. "Et il crut au Seigneur, et il le lui imputa à justice." [15:6](/fr/Bible/Genesis/15#v6).
 12. **Circoncision**. "Vous serez circoncis dans la chair de vos prépuces, et ce sera un signe de l'alliance." [17:11](/fr/Bible/Genesis/17#v11).
 13. **La colonne de sel**. "Mais la femme de Lot... a regardé en arrière, et elle est devenue une statue de sel." [19:26](/fr/Bible/Genesis/19#v26).
 14. **L'échelle de Jacob**. "Et il rêva qu'il y avait une échelle posée sur la terre, et que le sommet de celle-ci atteignait le ciel; et voici, les anges de Dieu montaient et descendaient dessus!" [28:12](/fr/Bible/Genesis/28#v12).
-15. **Mispah**. "C'est pourquoi il nomma... la colonne Mitspa, car il dit : 'Le Seigneur veille entre vous et moi, quand nous sommes absents l'un de l'autre.'" [31:49](/fr/Bible/Genesis/31# v49).
-16. **Joseph en Égypte**. "Joseph était gouverneur... et les frères de Joseph vinrent et se prosternèrent devant lui." [42:6](/fr/Bible/Genèse/42#v6).
+15. **Mispah**. "C'est pourquoi il nomma... la colonne Mitspa, car il dit : 'Le Seigneur veille entre vous et moi, quand nous sommes absents l'un de l'autre.'" [31:49](/fr/Bible/Genesis/31#v49).
+16. **Joseph en Égypte**. "Joseph était gouverneur... et les frères de Joseph vinrent et se prosternèrent devant lui." [42:6](/fr/Bible/Genesis/42#v6).
 
 
 <br>
