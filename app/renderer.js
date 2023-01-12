@@ -19,7 +19,8 @@ const Processes = require('./processes');
 const Strings = require('./strings');
 const BibleAbbs = require('./abb');
 const {strformat, extendArray, replaceWords, getMostSimilarSentence, 
-	getWikijsHeader, writeHTMLToWikijs, getError} = require('./utils');
+	getWikijsHeader, writeHTMLToWikijs, getError, 
+	readFile} = require('./utils');
 const DialogEditAlias = require('./dialog_editalias');
 const DialogEditRefs = require('./dialog_editrefs');
 const DialogEditSeeAlsos = require('./dialog_editseealsos');
@@ -77,8 +78,11 @@ const controls = {
 	lblSearchFile: '', fnSearch: '', fnSearchButton: '',
 	lblSearchFolder: '', dirSearch: '', dirSearchButton: '',
 	btnSearch: '', spinSearchLoading: '', igrSearch: '',
+	btnAddQuotes: '', spinSearchAdding: '', igrAddQuotes: '',
 	lblSearchLan: '', drpSearchLan: '',
 	lblSearchSecondLan: '', drpSearchSecondLan: '', 
+	lblSearchCopyQuotes: '', chkSearchCopyQuotes: '',
+	lblSearchCopyType: '', drpSearchCopyType: '',
 	lbxSearchResultLan: '',
 	//Topic index editor
 	lblTICategories: '', drpTICategories: '', 
@@ -119,6 +123,7 @@ const languageControls = ['drpLanguage', 'drpTILanguage1', 'drpTILanguage2',
 	'drpSearchLan', 'drpSearchSecondLan'];
 const topicTypes = ['PERSON', 'PLACE', 'ORDER', 'RACE', 'RELIGION', 'OTHER'];
 const topicFilters = ['ALL', ...topicTypes];
+const copyTypes = ['Copy plain text', 'Copy Markdown', 'Copy HTML'];
 
 const themes = ['Default', 'Cerulean', 'Darkly', 'Litera', 'Materia', 'Pulse',
 	'Simplex', 'Solar', 'United', 'Cosmo', 'Flatly', 'Lumen', 'Minty',
@@ -192,6 +197,11 @@ const onLoad = () => {
 	controls.fnSearchButton.addEventListener('click', handle_fnSearchButton);
 	controls.dirSearchButton.addEventListener('click', handle_dirSearchButton);
 	controls.igrSearch.addEventListener('click', handle_igrSearchClick);
+	controls.igrAddQuotes.addEventListener('click', handle_igrAddQuotesClick);
+	controls.drpSearchLan.addEventListener('change', handle_drpSearchLanChange);
+	controls.drpSearchSecondLan.addEventListener('change', handle_drpSearchLanChange);
+	controls.chkSearchCopyQuotes.addEventListener('change', handle_chkSearchCopyQuotesChange);
+	controls.drpSearchCopyType.addEventListener('change', handle_drpSearchCopyTypeChange);
 	//Topic Index Editor
 	controls.drpTILanguage1.addEventListener('change', handle_drpTILanguage1Change);
 	controls.drpTILanguage2.addEventListener('change', handle_drpTILanguage2Change);
@@ -266,7 +276,8 @@ const updateUI = () => {
 		drpLetters: {values: lettersVals, descs: lettersDescs},
 		drpTICategories: {values: topicFilters, descs: topicFilters},
 		drpTICategory: {values: topicTypes, descs: topicTypes},
-		drpTILetters: {values: lettersVals, descs: lettersDescs}
+		drpTILetters: {values: lettersVals, descs: lettersDescs},
+		drpSearchCopyType: {values: copyTypes, descs: copyTypes}
 	};
 	
 	Object.keys(data).forEach(key => {
@@ -948,12 +959,15 @@ const handle_fnSearchButton = (evt) => {
 		title: strSelectFile,
 		properties: ['openFile'],
 		filters: [
-			{name: 'HTML', extensions: ['html']}, 
+			{name: 'All supported', extensions: ['html', 'htm', 'md']},
+			{name: 'HTML', extensions: ['html', 'htm']}, 
 			{name: 'Markdown', extensions: ['md']}]
 	}).then(result => {
 		if (!result.canceled && result.filePaths) {
-			const dirPath = result.filePaths[0];
-			fnSearch.value = dirPath;
+			let dirPath = result.filePaths[0];
+			//Show local path and later join
+			dirPath = dirPath.replace(app.getAppPath(), '');
+			controls.fnSearch.value = dirPath;
 		}
 	});
 };
@@ -964,13 +978,33 @@ const handle_dirSearchButton = (evt) => {
 		properties: ['openDirectory']
 	}).then(result => {
 		if (!result.canceled && result.filePaths) {
-			const dirPath = result.filePaths[0];
-			dirSearch.value = dirPath;
+			let dirPath = result.filePaths[0];
+			dirPath = dirPath.replace(app.getAppPath(), '');
+			controls.dirSearch.value = dirPath;
 		}
 	});
 };
 
 const handle_igrSearchClick = (evt) => {
+	loadSearchBooks();
+	evt.preventDefault();
+};
+
+const handle_igrAddQuotesClick = (evt) => {
+	//TODO:
+};
+
+const handle_chkSearchCopyQuotesChange = (evt) => {
+	loadSearchBooks();
+	evt.preventDefault();
+};
+
+const handle_drpSearchCopyTypeChange = (evt) => {
+	loadSearchBooks();
+	evt.preventDefault();
+};
+
+const handle_drpSearchLanChange = (evt) => {
 	loadSearchBooks();
 	evt.preventDefault();
 };
@@ -981,10 +1015,12 @@ const loadSearchBooks = () => {
 	const root = app.getAppPath();
 	const dirBook1 = path.join(root, 'input', 'json', `book-${lan1}`);
 	const dirBook2 = path.join(root, 'input', 'json', `book-${lan2}`);
+	const filePath = path.join(app.getAppPath(), controls.fnSearch.value);
 	const load1 = (bookSearch.language != lan1 || 
 		bookSearch.papers.length == 0);
 	const load2 = (bookSearch2.language != lan2 || 
 		bookSearch2.papers.length == 0);
+	const isFile = (controls.fnSearch.value != '');
 
 	setSearchLoading(true);
 
@@ -1000,7 +1036,10 @@ const loadSearchBooks = () => {
 	];
 	Promise.all(promises)
 		.then(() => {
-			executeSearch();
+			return (isFile ? readFile(filePath) : Promise.resolve(null));
+		})
+		.then(lines => {
+			executeSearch(lines);
 			setSearchLoading(false);
 		})
 		.catch((errs) => {
@@ -1009,47 +1048,42 @@ const loadSearchBooks = () => {
 		});
 };
 
-const executeSearch = () => {
+const executeSearch = (lines) => {
 	//TODO: Use old refs
 	//TODO: Use text to filter
-	//TODO: Use file (this adds to existing old refs or new refs but ignores text)
 	//TODO: Use folder (same as file): we need to add here a separator with filename
-	const oldRefs = controls.txtSearchOldRefs.value
-		.split(';').map(s => s.trim());
-	const newRefs = controls.txtSearchNewRefs.value
-		.split(';').map(s => s.trim());
-	const fnGetPars = (r1, r2, r) => {
-		const errs1 = [], errs2 = [];
-		let par1 = bookSearch.toParInHTML(r1, errs1);
-		const par1Plain = bookSearch.toParInPlainText(r1, []);
-		let par2 = bookSearch2.toParInHTML(r2, errs2);
-		const par2Plain = bookSearch2.toParInPlainText(r2, []);
-		const ref1 = (r1 ? ` [${r1[0]}:${r1[1]}.${r1[2]}]` : 
-			(errs1.join(';') + ': [' + r + ']'));
-		const ref2 = (r2 ? ` [${r2[0]}:${r2[1]}.${r2[2]}]` : 
-			(errs2.join(';') + ': [' + r + ']'));
-		return createBookParsFn({
-			errclass: (r1 == null || r2 == null ? 
-				['alert', 'alert-danger', 'mb-0', 'py-0'] : []),
-			pars: [par1, par2],
-			refs: [ref1, ref2],
-			similars: [par1Plain, par2Plain]
-		});
-	};
-	const newRefs1 = bookSearch.getArrayOfRefs(newRefs);
-	const newRefs2 = bookSearch2.getArrayOfRefs(newRefs);
 	
-	// if (oldRefs.length > 0) {
-	// 	oldRefs.map(ref => bookSearch.getArrayOfRefs([ref]));
-	// }
+	const refs = [];
+	if (lines) {
+		const pattern = '(\\d{1,3}):(\\d{1,2})(\\.\\d{1,3})?(-\\d{1,3})?';
+		const abbs = Object.values(Strings.bookAbb).join('|');
+		const regEx1 = new RegExp(pattern, 'g');
+		const regEx = new RegExp(`(${abbs}) ${pattern}`, 'g');
+		lines.forEach(line => {
+			const matched = line.match(regEx);
+			if (matched) {
+				extendArray(refs, matched.map(r => r.match(regEx1)[0]));
+			}
+		})
+	} else {
+		//TODO: if old refs add to refs array as modern refs
+		const oldRefs = controls.txtSearchOldRefs.value
+			.split(';').map(s => s.trim());
+		extendArray(refs, controls.txtSearchNewRefs.value
+			.split(';').map(s => s.trim()));
+	}
 
-	if (newRefs.length > 0) {
+	if (refs.length > 0) {
 		//Unhandle
 		$(controls.lbxSearchResultLan).find('button').off('click');
 
 		//Fill listbox
-		controls.lbxSearchResultLan.innerHTML = newRefs.map((r, i) => {
-			return fnGetPars(newRefs1[i], newRefs2[i], r);
+		controls.lbxSearchResultLan.innerHTML = refs.map(r => {
+			const refs1 = bookSearch.getArrayOfRefs([r]);
+			const refs2 = bookSearch2.getArrayOfRefs([r]);
+			return refs1
+				.map((rr, j) => getSearchPars(rr, refs2[j], r))
+				.join('');
 		}).join('');
 
 		//Handle
@@ -1059,8 +1093,46 @@ const executeSearch = () => {
 			evt.stopPropagation();
 		});
 	}
+};
 
+const getSearchPars = (r1, r2, r) => {
+	const copyType = controls.drpSearchCopyType.value;
+	const quotes = controls.chkSearchCopyQuotes.checked;
+	const q1Start = Strings['quotationStart'][bookSearch.language];
+	const q1End = Strings['quotationEnd'][bookSearch.language];
+	const q2Start = Strings['quotationStart'][bookSearch2.language];
+	const q2End = Strings['quotationEnd'][bookSearch2.language];
 
+	const errs1 = [], errs2 = [];
+	let par1 = bookSearch.toParInHTML(r1, errs1);
+	let par2 = bookSearch2.toParInHTML(r2, errs2);
+	let par1Plain = '';
+	let par2Plain = '';
+	if (copyType === copyTypes[0]) {
+		par1Plain = bookSearch.toParInPlainText(r1, []);
+		par2Plain = bookSearch2.toParInPlainText(r2, []);
+	} else if (copyType === copyTypes[1]) {
+		par1Plain = bookSearch.toParInMarkdown(r1, []);
+		par2Plain = bookSearch2.toParInMarkdown(r2, []);
+	} else {
+		par1Plain = par1;
+		par2Plain = par2;
+	}
+	if (quotes) {
+		par1Plain = `${q1Start}${par1Plain}${q1End}`;
+		par2Plain = `${q2Start}${par2Plain}${q2End}`;
+	}
+	const ref1 = (r1 ? ` [${r1[0]}:${r1[1]}.${r1[2]}]` : 
+		(errs1.join(';') + ': [' + r + ']'));
+	const ref2 = (r2 ? ` [${r2[0]}:${r2[1]}.${r2[2]}]` : 
+		(errs2.join(';') + ': [' + r + ']'));
+	return createBookParsFn({
+		errclass: (r1 == null || r2 == null ? 
+			['alert', 'alert-danger', 'mb-0', 'py-0'] : []),
+		pars: [par1, par2],
+		refs: [ref1, ref2],
+		similars: [par1Plain, par2Plain]
+	});
 };
 
 const setSearchLoading = (loading) => {

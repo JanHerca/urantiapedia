@@ -374,7 +374,7 @@ class Book {
 			errs.push(`Error: Ref ${ref[0]}:${ref[1]}.${ref[2]}} not found`);
 			return result;
 		}
-		//Remove the references to footnotes
+		//Remove the references to footnotes and marks
 		result = par.par_content
 			.replace(/{(\d+)}|\*|\$/g, function(match, number) {return '';});
 		return result;
@@ -1385,6 +1385,23 @@ class Book {
 	 * @returns {string}
 	 */
 	toParInHTML = (ref, errs) => {
+		const errs2 = [];
+		let result = this.toParInMarkdown(ref, errs2);
+		if (errs2.length > 0) {
+			extendArray(errs, errs2);
+			return;
+		}
+		result = replaceTags(result, '*', '*', '<i>', '</i>', errs);
+		return result;
+	};
+
+	/**
+	 * Returns the referenced paragraph in HTML.
+	 * @param {number[]} ref Reference as an array of three numbers.
+	 * @param {string[]} errs Array to store errors.
+	 * @returns {string}
+	 */
+	toParInMarkdown = (ref, errs) => {
 		let result = '';
 		if (!ref) {
 			errs.push('Error: Ref is null');
@@ -1399,7 +1416,6 @@ class Book {
 		result = par.par_content
 			.replace(/{(\d+)}/g, function(match, number) {return '';});
 		//Replace italic and smallcaps tags with HTML
-		result = replaceTags(result, '*', '*', '<i>', '</i>', errs);
 		result = replaceTags(result, '$', '$', 
 			'<span style="font-variant: small-caps;">', '</span>', errs);
 		return result;

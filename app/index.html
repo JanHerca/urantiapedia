@@ -251,10 +251,38 @@
 								</div>
 							</div>
 							<div class="p-0 mb-2 flex-grow-0">
+								<div class="input-group input-group-sm">
+									<div class="input-group-prepend flex-grow-1">
+										<span id="lblSearchCopyQuotes" class="input-group-text" style="width: 100%;">Copy with quotation marks</span>
+									</div>
+									<div class="input-group-append">
+										<div class="input-group-text px-2 py-1">
+											<input id="chkSearchCopyQuotes" type="checkbox" aria-label="Copy with quotation marks">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="p-0 mb-2 flex-grow-0">
+								<div class="input-group input-group-sm">
+									<div class="input-group-prepend">
+										<span id="lblSearchCopyType" class="input-group-text">Copy type</span>
+									</div>
+									<select id="drpSearchCopyType" class="custom-select"></select>
+								</div>
+							</div>
+							<div class="p-0 mb-2 flex-grow-0">
 								<div class="input-group input-group-sm" id="igrSearch">
 									<button class="btn btn-secondary w-100" type="button">
 										<span class="spinner-border spinner-border-sm d-none" role="status" aria-hidden="true" id="spinSearchLoading"></span>
 										<span id="btnSearch">Search</span>
+									</button>
+								</div>
+							</div>
+							<div class="p-0 mb-2 flex-grow-0">
+								<div class="input-group input-group-sm" id="igrAddQuotes">
+									<button class="btn btn-secondary w-100" type="button">
+										<span class="spinner-border spinner-border-sm d-none" role="status" aria-hidden="true" id="spinSearchAdding"></span>
+										<span id="btnAddQuotes">Add Quotes to Files</span>
 									</button>
 								</div>
 							</div>
