@@ -20,7 +20,7 @@ const Strings = require('./strings');
 const BibleAbbs = require('./abb');
 const {strformat, extendArray, replaceWords, getMostSimilarSentence, 
 	getWikijsHeader, writeHTMLToWikijs, getError, 
-	readFile} = require('./utils');
+	readFile, writeFile} = require('./utils');
 const DialogEditAlias = require('./dialog_editalias');
 const DialogEditRefs = require('./dialog_editrefs');
 const DialogEditSeeAlsos = require('./dialog_editseealsos');
@@ -176,45 +176,48 @@ const onLoad = () => {
 	});
 
 	//Set handlers
-	controls.btnLogo.addEventListener('click', handle_btnLogoClick);
-	//Processes
-	controls.dirHButton.addEventListener('click', 
-		handle_dirButtonClick.bind(this, controls.dirHTextbox));
-	controls.dirTButton.addEventListener('click', 
-		handle_dirButtonClick.bind(this, controls.dirTTextbox));
-	controls.dirLButton.addEventListener('click', 
-		handle_dirButtonClick.bind(this, controls.dirLTextbox));
-	controls.dirJButton.addEventListener('click', 
-		handle_dirButtonClick.bind(this, controls.dirJTextbox));
-	controls.dirWButton.addEventListener('click', 
-		handle_dirButtonClick.bind(this, controls.dirWTextbox));
-	controls.exeButton.addEventListener('click', handle_exeButtonClick);
-	controls.collapseButton.addEventListener('click', handle_collapseButtonClick);
-	controls.drpLanguage.addEventListener('change', handle_drpLanguageChange);
-	controls.drpProcess.addEventListener('change', handle_drpProcessChange);
-	controls.drpTopics.addEventListener('change', handle_drpTopicsChange);
-	//Search
-	controls.fnSearchButton.addEventListener('click', handle_fnSearchButton);
-	controls.dirSearchButton.addEventListener('click', handle_dirSearchButton);
-	controls.igrSearch.addEventListener('click', handle_igrSearchClick);
-	controls.igrAddQuotes.addEventListener('click', handle_igrAddQuotesClick);
-	controls.drpSearchLan.addEventListener('change', handle_drpSearchLanChange);
-	controls.drpSearchSecondLan.addEventListener('change', handle_drpSearchLanChange);
-	controls.chkSearchCopyQuotes.addEventListener('change', handle_chkSearchCopyQuotesChange);
-	controls.drpSearchCopyType.addEventListener('change', handle_drpSearchCopyTypeChange);
-	//Topic Index Editor
-	controls.drpTILanguage1.addEventListener('change', handle_drpTILanguage1Change);
-	controls.drpTILanguage2.addEventListener('change', handle_drpTILanguage2Change);
-	controls.btnTISaveChanges.addEventListener('click', handle_btnTISaveChangesClick);
-	controls.igrTILoadTopics.addEventListener('click', handle_igrTILoadTopicsClick);
-	controls.btnTIURL.addEventListener('click', handle_btnTIURLClick);
-	controls.btnTIEditAlias.addEventListener('click', handle_btnTIEditAliasClick);
-	controls.chkTIRevised.addEventListener('change', handle_chkTIRevisedChange);
-	controls.btnTIEditRef.addEventListener('click', handle_btnTIEditRefsClick);
-	controls.btnTIEditSeeAlso.addEventListener('click', handle_btnTIEditSeeAlsoClick);
-	//Settings
-	controls.drpUILanguage.addEventListener('change',  handle_drpUILanguageChange);
-	controls.drpTheme.addEventListener('change', handle_drpThemeChange);
+	var c = controls;
+	var handlers = [
+		[c.btnLogo, 'click', handle_btnLogoClick],
+		//Processes
+		[c.dirHButton, 'click', handle_dirButtonClick, c.dirHTextbox],
+		[c.dirTButton, 'click', handle_dirButtonClick, c.dirTTextbox],
+		[c.dirLButton, 'click', handle_dirButtonClick, c.dirLTextbox],
+		[c.dirJButton, 'click', handle_dirButtonClick, c.dirJTextbox],
+		[c.dirWButton, 'click', handle_dirButtonClick, c.dirWTextbox],
+		[c.exeButton, 'click', handle_exeButtonClick],
+		[c.collapseButton, 'click', handle_collapseButtonClick],
+		[c.drpLanguage, 'change', handle_drpLanguageChange],
+		[c.drpProcess, 'change', handle_drpProcessChange],
+		[c.drpTopics, 'change', handle_drpTopicsChange],
+		//Search
+		[c.fnSearchButton, 'click', handle_fnSearchButton],
+		[c.dirSearchButton, 'click', handle_dirSearchButton],
+		[c.igrSearch, 'click', handle_SearchExecution],
+		[c.igrAddQuotes, 'click', handle_igrAddQuotesClick],
+		[c.drpSearchLan, 'change', handle_SearchExecution],
+		[c.drpSearchSecondLan, 'change', handle_SearchExecution],
+		[c.chkSearchCopyQuotes, 'change', handle_SearchExecution],
+		[c.drpSearchCopyType, 'change', handle_SearchExecution],
+		//Topic Index Editor
+		[c.drpTILanguage1, 'change', handle_drpTILanguage1Change],
+		[c.drpTILanguage2, 'change', handle_drpTILanguage2Change],
+		[c.btnTISaveChanges, 'click', handle_btnTISaveChangesClick],
+		[c.igrTILoadTopics, 'click', handle_igrTILoadTopicsClick],
+		[c.btnTIURL, 'click', handle_btnTIURLClick],
+		[c.btnTIEditAlias, 'click', handle_btnTIEditAliasClick],
+		[c.chkTIRevised, 'change', handle_chkTIRevisedChange],
+		[c.btnTIEditRef, 'click', handle_btnTIEditRefsClick],
+		[c.btnTIEditSeeAlso, 'click', handle_btnTIEditSeeAlsoClick],
+		//Settings
+		[c.drpUILanguage, 'change',  handle_drpUILanguageChange],
+		[c.drpTheme, 'change', handle_drpThemeChange],
+	];
+
+	handlers.forEach(h => {
+		const handler = (h[3] ? h[2].bind(this, h[3]) : h[2]);
+		h[0].addEventListener(h[1], handler);
+	});
 
 	//Set progress funcs
 	book.onProgressFn = onProgress;
@@ -235,17 +238,17 @@ const onLoad = () => {
 	//Update UI
 	settings.language = store.get('language', settings.language);
 	settings.theme = store.get('theme', settings.theme);
-	fillDropdown(controls.drpTheme, themes.map(t => t.toLowerCase()), themes,
+	fillDropdown(c.drpTheme, themes.map(t => t.toLowerCase()), themes,
 		settings.theme);
-	controls.drpUILanguage.value = settings.language;
-	controls.drpTheme.value = settings.theme;
+	c.drpUILanguage.value = settings.language;
+	c.drpTheme.value = settings.theme;
 	handle_drpUILanguageChange();
 	handle_drpThemeChange();
 	handle_drpProcessChange();
 
 	setTIDisabledStatus(true);
-	$(controls.drpTILanguage1).attr('disabled', null);
-	$(controls.drpTILanguage2).attr('disabled', null);
+	$(c.drpTILanguage1).attr('disabled', null);
+	$(c.drpTILanguage2).attr('disabled', null);
 };
 
 const fillDropdown = (control, values, descs, currentValue) => {
@@ -985,28 +988,71 @@ const handle_dirSearchButton = (evt) => {
 	});
 };
 
-const handle_igrSearchClick = (evt) => {
-	loadSearchBooks();
+const handle_SearchExecution = (evt) => {
+	const fileRelPath = controls.fnSearch.value;
+	const isFile = (fileRelPath != '');
+	const filePath = path.join(app.getAppPath(), fileRelPath);
+
+	setSearchSearching(true);
+	loadSearchBooks()
+		.then(() => {
+			return (isFile ? readFile(filePath) : Promise.resolve(null));
+		})
+		.then(lines => {
+			executeSearch(lines);
+			setSearchSearching(false);
+		})
+		.catch((errs) => {
+			//onSearchFail(errs);
+			setSearchSearching(false);
+		});
 	evt.preventDefault();
 };
 
 const handle_igrAddQuotesClick = (evt) => {
-	//TODO:
-};
+	const fileRelPath = controls.fnSearch.value;
+	const isFile = (fileRelPath != '');
+	const filePath = path.join(app.getAppPath(), fileRelPath);
+	if (!isFile) {
+		return;
+	}
 
-const handle_chkSearchCopyQuotesChange = (evt) => {
-	loadSearchBooks();
-	evt.preventDefault();
-};
+	setSearchAdding(true);
+	loadSearchBooks()
+		.then(() => readFile(filePath))
+		.then(lines => {
+			const modifLines = lines.map(line => {
+				//Get refs in line
+				const refs = getRefsInLines([line])[0];
+				if (refs.length === 0) {
+					return line;
+				}
+				//Get UB pars
+				const additions = refs.map(r => {
+					const refs2 = bookSearch2.getArrayOfRefs([r]);
+					if (refs2.length > 7) {
+						return '**TOO MANY PARAGRAPHS IN QUOTE**';
+					}
+					return '**' + refs2.map(r2 => {
+						return getParPlain(bookSearch2, r2);
+					}). join(' | ').trim() + '**';
+				});
+				//Modify lines
+				return line + '   ' + additions;
+			});
 
-const handle_drpSearchCopyTypeChange = (evt) => {
-	loadSearchBooks();
+			//Write file
+			return writeFile(filePath, modifLines.join('\n'));
+		})
+		.then(() => {
+			setSearchAdding(false);
+		})
+		.catch((errs) => {
+			//onSearchFail(errs);
+			setSearchAdding(false);
+		});
 	evt.preventDefault();
-};
-
-const handle_drpSearchLanChange = (evt) => {
-	loadSearchBooks();
-	evt.preventDefault();
+	
 };
 
 const loadSearchBooks = () => {
@@ -1015,14 +1061,11 @@ const loadSearchBooks = () => {
 	const root = app.getAppPath();
 	const dirBook1 = path.join(root, 'input', 'json', `book-${lan1}`);
 	const dirBook2 = path.join(root, 'input', 'json', `book-${lan2}`);
-	const filePath = path.join(app.getAppPath(), controls.fnSearch.value);
+	
 	const load1 = (bookSearch.language != lan1 || 
 		bookSearch.papers.length == 0);
 	const load2 = (bookSearch2.language != lan2 || 
 		bookSearch2.papers.length == 0);
-	const isFile = (controls.fnSearch.value != '');
-
-	setSearchLoading(true);
 
 	if (load1) {
 		bookSearch.setLanguage(lan1);
@@ -1034,18 +1077,7 @@ const loadSearchBooks = () => {
 		(load1 ? bookSearch.readFromJSON(dirBook1) : Promise.resolve(true)),
 		(load2 ? bookSearch2.readFromJSON(dirBook2) : Promise.resolve(true))
 	];
-	Promise.all(promises)
-		.then(() => {
-			return (isFile ? readFile(filePath) : Promise.resolve(null));
-		})
-		.then(lines => {
-			executeSearch(lines);
-			setSearchLoading(false);
-		})
-		.catch((errs) => {
-			//onSearchFail(errs);
-			setSearchLoading(false);
-		});
+	return Promise.all(promises);
 };
 
 const executeSearch = (lines) => {
@@ -1055,16 +1087,7 @@ const executeSearch = (lines) => {
 	
 	const refs = [];
 	if (lines) {
-		const pattern = '(\\d{1,3}):(\\d{1,2})(\\.\\d{1,3})?(-\\d{1,3})?';
-		const abbs = Object.values(Strings.bookAbb).join('|');
-		const regEx1 = new RegExp(pattern, 'g');
-		const regEx = new RegExp(`(${abbs}) ${pattern}`, 'g');
-		lines.forEach(line => {
-			const matched = line.match(regEx);
-			if (matched) {
-				extendArray(refs, matched.map(r => r.match(regEx1)[0]));
-			}
-		})
+		getRefsInLines(lines).forEach(arr => extendArray(refs, arr));
 	} else {
 		//TODO: if old refs add to refs array as modern refs
 		const oldRefs = controls.txtSearchOldRefs.value
@@ -1095,33 +1118,23 @@ const executeSearch = (lines) => {
 	}
 };
 
-const getSearchPars = (r1, r2, r) => {
-	const copyType = controls.drpSearchCopyType.value;
-	const quotes = controls.chkSearchCopyQuotes.checked;
-	const q1Start = Strings['quotationStart'][bookSearch.language];
-	const q1End = Strings['quotationEnd'][bookSearch.language];
-	const q2Start = Strings['quotationStart'][bookSearch2.language];
-	const q2End = Strings['quotationEnd'][bookSearch2.language];
+const getRefsInLines = (lines) => {
+	const pattern = '(\\d{1,3}):(\\d{1,2})(\\.\\d{1,3})?(-\\d{1,3})?';
+	const abbs = Object.values(Strings.bookAbb).join('|');
+	const regEx1 = new RegExp(pattern, 'g');
+	const regEx = new RegExp(`(${abbs}) ${pattern}`, 'g');
+	return lines.map(line => {
+		const matched = line.match(regEx);
+		return (matched ? matched.map(r => r.match(regEx1)[0]) : []);
+	});
+};
 
+const getSearchPars = (r1, r2, r) => {
 	const errs1 = [], errs2 = [];
-	let par1 = bookSearch.toParInHTML(r1, errs1);
-	let par2 = bookSearch2.toParInHTML(r2, errs2);
-	let par1Plain = '';
-	let par2Plain = '';
-	if (copyType === copyTypes[0]) {
-		par1Plain = bookSearch.toParInPlainText(r1, []);
-		par2Plain = bookSearch2.toParInPlainText(r2, []);
-	} else if (copyType === copyTypes[1]) {
-		par1Plain = bookSearch.toParInMarkdown(r1, []);
-		par2Plain = bookSearch2.toParInMarkdown(r2, []);
-	} else {
-		par1Plain = par1;
-		par2Plain = par2;
-	}
-	if (quotes) {
-		par1Plain = `${q1Start}${par1Plain}${q1End}`;
-		par2Plain = `${q2Start}${par2Plain}${q2End}`;
-	}
+	const par1 = bookSearch.toParInHTML(r1, errs1);
+	const par2 = bookSearch2.toParInHTML(r2, errs2);
+	const par1Plain = getParPlain(bookSearch, r1);
+	const par2Plain = getParPlain(bookSearch2, r2);
 	const ref1 = (r1 ? ` [${r1[0]}:${r1[1]}.${r1[2]}]` : 
 		(errs1.join(';') + ': [' + r + ']'));
 	const ref2 = (r2 ? ` [${r2[0]}:${r2[1]}.${r2[2]}]` : 
@@ -1135,13 +1148,42 @@ const getSearchPars = (r1, r2, r) => {
 	});
 };
 
-const setSearchLoading = (loading) => {
+const getParPlain = (book, ref) => {
+	const copyType = controls.drpSearchCopyType.value;
+	const quotes = controls.chkSearchCopyQuotes.checked;
+	const qStart = Strings['quotationStart'][book.language];
+	const qEnd = Strings['quotationEnd'][book.language];
+	let parPlain = '';
+
+	if (copyType === copyTypes[0]) {
+		parPlain = book.toParInPlainText(ref, []);
+	} else if (copyType === copyTypes[1]) {
+		parPlain = book.toParInMarkdown(ref, []);
+	} else {
+		parPlain = book.toParInHTML(ref, []);
+	}
+	if (quotes) {
+		parPlain = `${qStart}${parPlain}${qEnd}`;
+	}
+	return parPlain;
+};
+
+const setSearchSearching = (searching) => {
 	const uilan = settings.language;
-	$(controls.spinSearchLoading).toggleClass('d-none', !loading);
-	const t = (loading ? 'btnSearch_loading' : 'btnSearch');
+	$(controls.spinSearchLoading).toggleClass('d-none', !searching);
+	const t = (searching ? 'btnSearch_searching' : 'btnSearch');
 	$(controls.btnSearch).text(Strings[t][uilan]);
 	$(controls.igrSearch).find('button').attr('disabled', 
-		loading ? 'disabled' : null);
+	searching ? 'disabled' : null);
+};
+
+const setSearchAdding = (adding) => {
+	const uilan = settings.language;
+	$(controls.spinSearchAdding).toggleClass('d-none', !adding);
+	const t = (adding ? 'btnAddQuotes_adding' : 'btnAddQuotes');
+	$(controls,btnAddQuotes).text(Strings[t][uilan]);
+	$(controls.igrSearch).find('button').attr('disabled', 
+	adding ? 'disabled' : null);
 };
 
 // -----------------------------------------------------------------------------

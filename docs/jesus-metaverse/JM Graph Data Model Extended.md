@@ -46,5 +46,9 @@ classDiagram
     Plant --> Presentation : Described in
     Plant --> Race : Used by
     Concept --> Presentation : Described in
+    Chapter --> Book : Is Contained In
+    Section --> Chapter : Is Contained In
+    Paragraph --> Section : Is Contained In
+    Verse --> Paragraph : Is Contained In
     Presentation
 ```

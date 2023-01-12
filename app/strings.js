@@ -997,9 +997,17 @@ const Strings = {
 		en: "Search",
 		es: "Buscar"
 	},
-	"btnSearch_loading": {
-		en: "Loading...",
-		es: "Cargando..."
+	"btnSearch_searching": {
+		en: "Searching...",
+		es: "Buscando..."
+	},
+	"btnAddQuotes": {
+		en: "Add Quotes to Files",
+		es: "Añadir Citas a Ficheros"
+	},
+	"btnAddQuotes_adding": {
+		en: "Adding...",
+		es: "Añadiendo..."
 	},
 	"strSelectFile": {
 		en: "Select file",
