@@ -78,7 +78,7 @@ Auteur: **William S. Sadler**
 4. Adam et Eve ont eu 105 enfants, dont beaucoup ont contribué à la race andite. [LU 74:6.2](/fr/The_Urantia_Book/74#p6_2)
 5. Adam a laissé 1 570 descendants de races évolutionnaires supérieures qui ont également contribué à la fondation de la puissante race andite. [LU 76:4.8](/fr/The_Urantia_Book/76#p4_8)
 
-##VII. MORT ET SURVIE D'ADAM ET EVE
+## VII. MORT ET SURVIE D'ADAM ET EVE
 
 1. Adam a vécu 530 ans. Eve est morte dix-neuf ans avant Adam. [LU 76:5.5](/fr/The_Urantia_Book/76#p5_5)
 2. Le troisième jour après la mort, Adam et Eve ont été repersonnalisés avec 1 316 de leurs associés, dans la résurrection spéciale n° 26. [LU 76:6.2](/fr/The_Urantia_Book/76#p6_2)

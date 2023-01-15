@@ -82,7 +82,7 @@ Auteur: **William S. Sadler**
 4. Le matérialisme nie Dieu, la laïcité l'ignore tout simplement. [LU 195:8.5](/fr/The_Urantia_Book/195#p8_5)
 5. La majorité des chrétiens sont involontairement laïcs. [LU 195:8.3](/fr/The_Urantia_Book/195#p8_3)
 
-##VII. LA RELIGION DE JÉSUS
+## VII. LA RELIGION DE JÉSUS
 
 1. Jésus est le chemin nouveau et vivant par lequel l'homme accède à son héritage divin. [LU 101:6.17](/fr/The_Urantia_Book/101#p6_17)
 2. Les hommes se soustraient à la religion de Jésus par peur de ce qu'elle leur ferait et avec eux. [LU 195:9.6](/fr/The_Urantia_Book/195#p9_6)
