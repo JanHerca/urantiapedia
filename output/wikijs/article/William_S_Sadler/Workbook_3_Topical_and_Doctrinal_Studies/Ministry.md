@@ -53,7 +53,7 @@ Author: **William S. Sadler**
 3. Jesus’ life was one of ministry.
 	> “But the Master was so reasonable, so approachable. He was so practical in all his ministry, while all his plans were characterized by such sanctified common sense. He was so free from all freakish, erratic, and eccentric tendencies. He was never capricious, whimsical, or hysterical. In all his teaching and in everything he did there was always an exquisite discrimination associated with an extraordinary sense of propriety.” [UB 100:7.3](/en/The_Urantia_Book/100#p7_3)
 4. Jesus acts a parable of ministry.
-	> “‘Do you really understand what I have done to you? You call me Master, and you say well, for so I am. If, then, the Master has washed your feet, why was it that you were unwilling to wash one another’s feet? What lesson should you learn from this parable in which the Master so willingly does that service which his brethren were unwilling to do for one another? Verily, verily, I say to you: A servant is not greater than his master; neither is one who is sent greater than he who sends him. You have seen the way of service in my life among you, and blessed are you who will have the gracious courage so to serve. But why are you so slow to learn that the secret of greatness in the spiritual kingdom is not like the methods of power in the material world?’” [UB 179:3.8](/en/The_Urantia_Book/179#p3_8) [Joh[UB 13:5.17](/en/Bible/John/13#v5).
+	> “‘Do you really understand what I have done to you? You call me Master, and you say well, for so I am. If, then, the Master has washed your feet, why was it that you were unwilling to wash one another’s feet? What lesson should you learn from this parable in which the Master so willingly does that service which his brethren were unwilling to do for one another? Verily, verily, I say to you: A servant is not greater than his master; neither is one who is sent greater than he who sends him. You have seen the way of service in my life among you, and blessed are you who will have the gracious courage so to serve. But why are you so slow to learn that the secret of greatness in the spiritual kingdom is not like the methods of power in the material world?’” [UB 179:3.8](/en/The_Urantia_Book/179#p3_8) [John 13:5-17](/en/Bible/John/13#v5).
 
 ### IV. MINISTRY OF THE LOCAL UNIVERSE MOTHER SPIRIT
 
@@ -80,17 +80,17 @@ Author: **William S. Sadler**
 1. True religion leads to social service.
 	> “But true religion is a living love, a life of service. The religionist’s detachment from much that is purely temporal and trivial never leads to social isolation, and it should not destroy the sense of humor. Genuine religion takes nothing away from human existence, but it does add new meanings to all of life; it generates new types of enthusiasm, zeal, and courage. It may even engender the spirit of the crusader, which is more than dangerous if not controlled by spiritual insight and loyal devotion to the commonplace social obligations of human loyalties.” [UB 100:6.5](/en/The_Urantia_Book/100#p6_5)
 2. To be great you must minister.
-	> “‘Whosoever would become great in my Father’s kingdom shall become a minister to all; and whosoever would be first among you, let him become the server of his brethren. But when you are once truly received as citizens in the heavenly kingdom, you are no longer servants but sons, sons of the living God. And so shall this kingdom progress in the world until it shall break down every barrier and bring all men to know my Father and believe in the saving truth which I have come to declare. Even now is the kingdom at hand, and some of you will not die until you have seen the reign of God come in great power.’” [UB 140:1.6](/en/The_Urantia_Book/140#p1_6) [Mat[UB 20:25.26](/en/Bible/Matthew/20#v25).
+	> “‘Whosoever would become great in my Father’s kingdom shall become a minister to all; and whosoever would be first among you, let him become the server of his brethren. But when you are once truly received as citizens in the heavenly kingdom, you are no longer servants but sons, sons of the living God. And so shall this kingdom progress in the world until it shall break down every barrier and bring all men to know my Father and believe in the saving truth which I have come to declare. Even now is the kingdom at hand, and some of you will not die until you have seen the reign of God come in great power.’” [UB 140:1.6](/en/The_Urantia_Book/140#p1_6) [Mat 20:25-26](/en/Bible/Matthew/20#v25).
 3. Jesus gives the new commandment.
-	> “After a few moments of informal conversation, Jesus stood up and said: “When I enacted for you a parable indicating how you should be willing to serve one another, I said that I desired to give you a new commandment; and I would do this now as I am about to leave you. You well know the commandment which directs that you love one another; that you love your neighbor even as yourself. But I am not wholly satisfied with even that sincere devotion on the part of my children. I would have you perform still greater acts of love in the kingdom of the believing brotherhood. And so I give you this new commandment: That you love one another even as I have loved you. And by this will all men know that you are my disciples if you thus love one another.’” [UB 180:1.1](/en/The_Urantia_Book/180#p1_1) [Joh[UB 13:34.35](/en/Bible/John/13#v34).
+	> “After a few moments of informal conversation, Jesus stood up and said: “When I enacted for you a parable indicating how you should be willing to serve one another, I said that I desired to give you a new commandment; and I would do this now as I am about to leave you. You well know the commandment which directs that you love one another; that you love your neighbor even as yourself. But I am not wholly satisfied with even that sincere devotion on the part of my children. I would have you perform still greater acts of love in the kingdom of the believing brotherhood. And so I give you this new commandment: That you love one another even as I have loved you. And by this will all men know that you are my disciples if you thus love one another.’” [UB 180:1.1](/en/The_Urantia_Book/180#p1_1) [John 13:34-35](/en/Bible/John/13#v34).
 4. The supreme measure of affection.
 	> “‘When I give you this new commandment, I do not place any new burden upon your souls; rather do I bring you new joy and make it possible for you to experience new pleasure in knowing the delights of the bestowal of your heart’s affection upon your fellow men. I am about to experience the supreme joy, even though enduring outward sorrow, in the bestowal of my affection upon you and your fellow mortals.
 	> 
-	> “‘When I invite you to love one another, even as I have loved you, I hold up before you the supreme measure of true affection, for greater love can no man have than this: that he will lay down his life for his friends. And you are my friends; you will continue to be my friends if you are but willing to do what I have taught you. You have called me Master, but I do not call you servants. If you will only love one another as I am loving you, you shall be my friends, and I will ever speak to you of that which the Father reveals to me.’” [UB 180:1.2](/en/The_Urantia_Book/180#p1_2)
+	> “‘When I invite you to love one another, even as I have loved you, I hold up before you the supreme measure of true affection, for greater love can no man have than this: that he will lay down his life for his friends. And you are my friends; you will continue to be my friends if you are but willing to do what I have taught you. You have called me Master, but I do not call you servants. If you will only love one another as I am loving you, you shall be my friends, and I will ever speak to you of that which the Father reveals to me.’” [UB 180:1.2-3](/en/The_Urantia_Book/180#p1_2)
 5. Sharing the master’s service.
 	> “‘You have not merely chosen me, but I have also chosen you, and I have ordained you to go forth into the world to yield the fruit of loving service to your fellows even as I have lived among you and revealed the Father to you. The Father and I will both work with you, and you shall experience the divine fullness of joy if you will only obey my command to love one another, even as I have loved you.’
 	> 
-	> “If you would share the Master’s joy, you must share his love. And to share his love means that you have shared his service. Such an experience of love does not deliver you from the difficulties of this world; it does not create a new world, but it most certainly does make the old world new.” [UB 180:1.4](/en/The_Urantia_Book/180#p1_4)
+	> “If you would share the Master’s joy, you must share his love. And to share his love means that you have shared his service. Such an experience of love does not deliver you from the difficulties of this world; it does not create a new world, but it most certainly does make the old world new.” [UB 180:1.4-5](/en/The_Urantia_Book/180#p1_4)
 
 ## MINISTRY IN THE BIBLE
 ### I. MINISTRY IN THE OLD TESTAMENT
@@ -115,7 +115,7 @@ In the New Testament all believers are reckoned as priests.
 The New Testament recognizes many groups of ministers.
 
 1. _APOSTLES_.
-	> “And his gifts were that some should be apostles, some prophets, some evangelists, some pastors and teachers....for the work of the ministry.” [Ep[UB 4:11.12](/en/Bible/Ephesians/4#v11).
+	> “And his gifts were that some should be apostles, some prophets, some evangelists, some pastors and teachers....for the work of the ministry.” [Ep 4:11-12](/en/Bible/Ephesians/4#v11).
 	> 
 	> “I, Paul,..... called to be an apostle.” [Rom 1:1](/en/Bible/Romans/1#v1).
 	> 
@@ -149,7 +149,7 @@ The New Testament recognizes many groups of ministers.
 	> 	> 
 	> 	> On ordaining Titus a bishop: “For a bishop, as God’s steward, must be blameless; he must not be arrogant or quick-tempered or a drunkard or violent or greedy for gain, but hospitable, a lover of goodness, master of himself, upright, holy, and self-controlled.” [Titus 1:7,8](/en/Bible/Titus/1#v7).
 	> - b. _Elders._
-	> 	> “That you might....appoint elders in every town as I directed you, men who are blameless, married only once, whose children are believers and not open to the charge of being profligate or insubordinate.” [Titu[UB 1:5.6](/en/Bible/Titus/1#v5).
+	> 	> “That you might....appoint elders in every town as I directed you, men who are blameless, married only once, whose children are believers and not open to the charge of being profligate or insubordinate.” [Titus 1:5.6](/en/Bible/Titus/1#v5).
 	> 	> 
 	> 	> “On the following day Paul went in with us to James; and all the elders were present.” [Acts 21:18](/en/Bible/Acts_of_the_Apostles/21#v18).
 	> 	> 
@@ -240,7 +240,7 @@ See [Heb 1:7](/en/Bible/Hebrews/1#v7). “Of the angels he says, ‘who makes hi
 > 
 > “If any one would be first, he must be last of all and servant of all.” [Mark 9:35](/en/Bible/Mark/9#v35).
 > 
-> “I was sick and you visited me, I was in prison and you came to me....as you did it to one of the least of these my brethren, you did it to me.” [Mat[UB 25:36.40](/en/Bible/Matthew/25#v36).
+> “I was sick and you visited me, I was in prison and you came to me....as you did it to one of the least of these my brethren, you did it to me.” [Mat 25:36.40](/en/Bible/Matthew/25#v36).
 > 
 > “Go into all the world, and preach the gospel to the whole creation.” [Mark 16:15](/en/Bible/Mark/16#v15).
 

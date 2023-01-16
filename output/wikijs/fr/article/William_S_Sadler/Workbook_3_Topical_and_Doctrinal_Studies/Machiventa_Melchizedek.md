@@ -25,7 +25,8 @@ Auteur: **William S. Sadler**
 ## I. L'INCARNATION DE MACHIVENTA
 
 1. Machiventa s'est incarné sur Urantia il y a 1973 ans. [LU 93:2.1](/fr/The_Urantia_Book/93#p2_1)
-	**(NB La déclaration ci-dessus est erronée : la référence correcte est : "C'était 1 973 ans avant la naissance de Jésus que Machiventa a été accordé aux races humaines d'Urantia." éd.)**
+	> (NB La déclaration ci-dessus est erronée : la référence correcte est : "C'était 1 973 ans avant la naissance de Jésus que Machiventa a été accordé aux races humaines d'Urantia." éd.)
+	{.is-warning}
 2. Machiventa parlait plusieurs langues et portait une cuirasse à trois cercles concentriques. [LU 93:2.5](/fr/The_Urantia_Book/93#p2_5)
 3. Il avait un corps spécial et ne s'est jamais marié. [LU 93:2.6](/fr/The_Urantia_Book/93#p2_6)
 4. Son Ajusteur de Pensée habita ensuite Jésus. [LU 93:2.7](/fr/The_Urantia_Book/93#p2_7)

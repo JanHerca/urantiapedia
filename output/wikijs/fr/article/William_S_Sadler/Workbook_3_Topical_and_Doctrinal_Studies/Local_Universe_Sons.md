@@ -74,7 +74,7 @@ Emmanuel, l'Union des Jours, n° 611 121 des Personnalités Suprêmes de la Trin
 1. Ce sont les Fils et Filles sexuels créés par le Fils Créateur et stationnés sur les mondes-sièges des systèmes locaux. [LU 51:1.1](/fr/The_Urantia_Book/51#p1_1)
 2. Ils sont les citoyens permanents des systèmes locaux. [LU 51:1.6](/fr/The_Urantia_Book/51#p1_6)
 
-##IX. AUTRES FILS
+## IX. AUTRES FILS
 
 1. _Most High Assistants_—volontaires de l'extérieur de l'univers local. [LU 37:4.1](/fr/The_Urantia_Book/37#p4_1)
 2. _Hauts Commissaires_—Des mortels fusionnés avec l'Esprit. [LU 37:5.1](/fr/The_Urantia_Book/37#p5_1)

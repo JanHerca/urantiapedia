@@ -31,12 +31,12 @@ Auteur: **William S. Sadler**
 5. Ils sont maintenant sur le premier monde des maisons, où ils accueillent les pèlerins d'Urantia. [LU 63:7.3](/fr/The_Urantia_Book/63#p7_3)
 6. Les mondes évolutionnaires abritent sept variétés physiques de mortels.
 	1. Types atmosphériques.
-	2. Types élémentaires.
-	3. Types de gravité.
-	4. Types de température.
+	2. Types élémentaux.
+	3. Types gravitationnels.
+	4. Types thermiques.
 	5. Types électriques.
-	6. Types énergisants.
-	7. Types sans nom. [LU 49:2.1](/fr/The_Urantia_Book/49#p2_1)
+	6. Types énergétiques.
+	7. Types non dénommés. [LU 49:2.1](/fr/The_Urantia_Book/49#p2_1)
 
 ## II. LES COURSES COLORÉES
 
@@ -110,7 +110,7 @@ Auteur: **William S. Sadler**
 5. Le Moniteur se souviendra toujours de toutes les relations personnelles dans l'avenir éternel. [LU 112:5.22](/fr/The_Urantia_Book/112#p5_22)
 6. Les esprits habités par des Ajusteurs possèdent la réalisation innée de la réalité cosmique – le fait, la loi et l'amour de Dieu – la science, le devoir et la religion. [LU 16:9.4](/fr/The_Urantia_Book/16#p9_4)
 
-##VII. PERSONNALITÉ
+## VII. PERSONNALITÉ
 
 1. Le mental n'est pleinement stabilisé qu'aux deux extrêmes : entièrement mécanisé et entièrement spiritualisé. [LU 111:1.7](/fr/The_Urantia_Book/111#p1_7)
 2. Nous en savons beaucoup sur la personnalité, mais nous n'avons pas de définition. [LU 112:0.2](/fr/The_Urantia_Book/112#p0_2)
@@ -130,7 +130,7 @@ Auteur: **William S. Sadler**
 5. Pendant ces périodes, de nombreuses traductions se produisent. [LU 55:1.5](/fr/The_Urantia_Book/55#p1_5)
 6. La traduction imminente est souvent connue à l'avance. [LU 55:2.3](/fr/The_Urantia_Book/55#p2_3)
 
-##IX. SURVIE
+## IX. SURVIE
 
 1. Le choix mortel détermine la survie. [LU 5:5.13](/fr/The_Urantia_Book/5#p1_13)
 2. L'esprit est mortel, mais l'âme survivante est immortelle. [LU 49:4.9](/fr/The_Urantia_Book/49#p4_9)

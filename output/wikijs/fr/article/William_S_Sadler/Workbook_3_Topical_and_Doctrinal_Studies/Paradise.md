@@ -47,9 +47,9 @@ Auteur: **William S. Sadler**
 ## III. HAUT PARADIS
 
 1. Le Paradis supérieur se compose de trois sphères :
-	> 1. Présence de la divinité.
-	> 2. Très Sainte Sphère.
-	> 3. Zone Sainte. [LU 11:3.1](/fr/The_Urantia_Book/11#p3_1)
+	> 1. Présence de la Déité.
+	> 2. Sphère Très Sainte.
+	> 3. Aire Sainte. [LU 11:3.1](/fr/The_Urantia_Book/11#p3_1)
 2. Chacune des nombreuses unités résidentielles héberge un milliard de groupes de travail. [LU 11:3.4](/fr/The_Urantia_Book/11#p3_4)
 3. L'adoration est la plus grande joie des habitants du Paradis. [LU 27:7.5](/fr/The_Urantia_Book/27#p7_5)
 4. Le paradis est le destin de tous les mortels ascendants. [LU 11:9.1](/fr/The_Urantia_Book/11#p9_1)

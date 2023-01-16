@@ -79,7 +79,7 @@ Auteur: **William S. Sadler**
 5. Le mysticisme conduit souvent à l'isolement social et au fanatisme religieux. [LU 91:7.1](/fr/The_Urantia_Book/91#p7_1)
 6. Les gens ordinaires aspiraient à la consolation et aux promesses de salut. [LU 98:4.1](/fr/The_Urantia_Book/98#p4_1)
 
-##VII. PRIÈRE ÉVOLUTIVE
+## VII. PRIÈRE ÉVOLUTIVE
 
 1. Les premières prières n'étaient pas adressées à Dieu - elles ressemblaient à dire : « Souhaitez-moi bonne chance. [LU 91:0.2](/fr/The_Urantia_Book/91#p0_2)
 2. Avec la venue de la conscience de Dieu, ces requêtes ont atteint le niveau de la prière. [LU 91:0.3](/fr/The_Urantia_Book/91#p0_3)
@@ -101,7 +101,7 @@ Auteur: **William S. Sadler**
 9. La prière enrichit la vie ; le culte illumine le destin. [LU 102:4.5](/fr/The_Urantia_Book/102#p4_5)
 10. Jésus a enseigné seize conditions pour une prière efficace. [LU 146:2.1](/fr/The_Urantia_Book/146#p2_1)
 
-##IX. VRAI CULTE
+## IX. VRAI CULTE
 
 1. Au sens le plus élevé, nous n'adorons que le Père Universel. [LU 5:3.1](/fr/The_Urantia_Book/5#p3_1)
 2. L'adoration est répartie sur le circuit de la personnalité du Père. [LU 5:3.2](/fr/The_Urantia_Book/5#p3_2)
@@ -120,7 +120,7 @@ Auteur: **William S. Sadler**
 7. La religion des Hébreux exaltait les mœurs, la beauté des Grecs. Paul a prêché la foi, l'espérance et la charité. Jésus a révélé une religion d'amour, de sécurité et de service. [LU 196:3.19](/fr/The_Urantia_Book/196#p3_19)
 8. Pour Jésus, la prière signifiait « faire la volonté du Père » – une manière de vivre religieusement. [LU 196:0.10](/fr/The_Urantia_Book/196#p0_10)
 
-##XI. RELIGION ET CIVILISATION
+## XI. RELIGION ET CIVILISATION
 
 1. La puissance d'une idée ne réside pas dans sa vérité, mais dans sa vivacité d'appel. [LU 92:3.3](/fr/The_Urantia_Book/92#p3_3)
 2. La religion handicape le développement social, mais sans elle, il n'y aurait ni morale ni éthique. [LU 92:3.6](/fr/The_Urantia_Book/92#p3_6)

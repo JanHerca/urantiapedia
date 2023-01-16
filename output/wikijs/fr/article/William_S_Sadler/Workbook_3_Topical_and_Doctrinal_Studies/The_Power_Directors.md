@@ -68,7 +68,7 @@ Auteur: **William S. Sadler**
 	> 1. Puissance spatiale—Absoluta.
 	> 2. Force primordiale—Segregata.
 	> 3. Énergie émergente :
-	> - un. (Énergie puissante)
+	> - a. (Énergie puissante)
 	> - b. (Énergie de gravité) Ultimata.
 	> 4. Pouvoir universel—Gravita.
 	> 5. Énergie de Havona—Triata.

@@ -87,7 +87,7 @@ Auteur: **William S. Sadler**
 8. L'individu ne devient connaisseur de Dieu que par la foi. [LU 102:6.5](/fr/The_Urantia_Book/102#p6_5)
 9. L'homme est éduqué par les faits, anobli par la sagesse et sauvé par la foi. [LU 196:3.4](/fr/The_Urantia_Book/196#p3_4)
 
-##VII. APERÇU RELIGIEUX
+## VII. APERÇU RELIGIEUX
 
 1. La religion persiste en l'absence d'apprentissage. [LU 101:3.1](/fr/The_Urantia_Book/101#p3_1)
 2. La religion peut être le sentiment de l'expérience, mais ce n'est pas l'expérience du sentiment. [LU 101:5.9](/fr/The_Urantia_Book/101#p5_9)
@@ -110,7 +110,7 @@ Auteur: **William S. Sadler**
 12. Dans la lutte triomphale du fils de la foi, "Même le temps lui-même ne devient que l'ombre de l'éternité projetée par les réalités paradisiaques sur la panoplie mouvante de l'espace." [LU 101:10.9](/fr/The_Urantia_Book/101#p10_9)
 13. Les religieux vivent comme s'ils étaient déjà en présence de l'Éternel. [LU 102:2.3](/fr/The_Urantia_Book/102#p2_3)
 
-##IX. SCIENCES ET RELIGIONS
+## IX. SCIENCES ET RELIGIONS
 
 1. Ni la science ni la philosophie ne peuvent valider la personnalité de Dieu, seule l'expérience personnelle des fils de foi. [LU 1:7.5](/fr/The_Urantia_Book/1#p7_5)
 2. Quelle que soit la façon dont les hommes voient Dieu, le religieux croit en un Dieu qui favorise la survie. [LU 5:5.3](/fr/The_Urantia_Book/5#p5_3)
@@ -127,7 +127,7 @@ Auteur: **William S. Sadler**
 6. L'âme religieuse de l'illumination spirituelle sait et sait maintenant. [LU 102:2.4](/fr/The_Urantia_Book/102#p2_4)
 7. C'est la mission de la religion de préparer l'homme à affronter courageusement et héroïquement les vicissitudes de la vie. [LU 102:2.8](/fr/The_Urantia_Book/102#p2_8)
 
-##XI. L'ESPRIT DE VÉRITÉ
+## XI. L'ESPRIT DE VÉRITÉ
 
 1. Jésus a dit qu'il valait mieux qu'il laisse ses disciples dans la chair, afin qu'il puisse être plus pleinement avec eux en esprit. [LU 180:4.1](/fr/The_Urantia_Book/180#p4_1)
 2. Ce nouvel enseignant est la conviction vivante de la vérité. [LU 180:5.1](/fr/The_Urantia_Book/180#p5_1)

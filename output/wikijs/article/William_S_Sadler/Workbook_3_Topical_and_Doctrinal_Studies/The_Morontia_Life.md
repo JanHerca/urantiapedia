@@ -36,7 +36,7 @@ Author: **William S. Sadler**
 1. Morontia temples belong to the era of light and life.
 	> “The presence of a morontia temple at the capital of an inhabited world is the certificate of the admission of such a sphere to the settled ages of light and life. Before the Teacher Sons leave a world at the conclusion of their terminal mission, they inaugurate this final epoch of evolutionary attainment; they preside on that day when the ‘holy temple comes down upon earth.’ This event, signalizing the dawn of the era of light and life, is always honored by the personal presence of the Paradise bestowal Son of that planet, who comes to witness this great day. There in this temple of unparalleled beauty, this bestowal Son of Paradise proclaims the long-time Planetary Prince as the new Planetary Sovereign and invests such a faithful Lanonandek Son with new powers and extended authority over planetary affairs. The System Sovereign is also present and speaks in confirmation of these pronouncements.
 	> 
-	> “A morontia temple has three parts: Centermost is the sanctuary of the Paradise bestowal Son. On the right is the seat of the former Planetary Prince, now Planetary Sovereign; and when present in the temple, this Lanonandek Son is visible to the more spiritual individuals of the realm. On the left is the seat of the acting chief of finaliters attached to the planet.” [UB 55:1.1](/en/The_Urantia_Book/55#p1_1)
+	> “A morontia temple has three parts: Centermost is the sanctuary of the Paradise bestowal Son. On the right is the seat of the former Planetary Prince, now Planetary Sovereign; and when present in the temple, this Lanonandek Son is visible to the more spiritual individuals of the realm. On the left is the seat of the acting chief of finaliters attached to the planet.” [UB 55:1.1-2](/en/The_Urantia_Book/55#p1_1)
 2. Construction of the morontia temple.
 	> “Although the planetary temples have been spoken of as ‘coming down from heaven,’ in reality no actual material is transported from the system head quarters. The architecture of each is worked out in miniature on the system capital, and the Morontia Power Supervisors subsequently bring these approved plans to the planet. Here, in association with the Master Physical Controllers, they proceed to build the morontia temple according to specifications.” [UB 55:1.3](/en/The_Urantia_Book/55#p1_3) [Rev 21:10](/en/Bible/Revelation/21#v10).
 3. Description of the temple.
@@ -46,7 +46,7 @@ Author: **William S. Sadler**
 5. Death and translation.
 	> “Natural, physical death is not a mortal inevitability. The majority of advanced evolutionary beings, citizens on worlds existing in the final era of light and life, do not die; they are translated directly from the life in the flesh to the morontia existence.
 	> 
-	> “This experience of translation from the material life to the morontia state—fusion of the immortal soul with the indwelling Adjuster—increases in frequency commensurate with the evolutionary progress of the planet. At first only a few mortals in each age attain translation levels of spiritual progress, but with the onset of the successive ages of the Teacher Sons, more and more Adjuster fusions occur before the termination of the lengthening lives of these progressing mortals; and by the time of the terminal mission of the Teacher Sons, approximately one quarter of these superb mortals are exempt from natural death.” [UB 55:2.1](/en/The_Urantia_Book/55#p2_1)
+	> “This experience of translation from the material life to the morontia state—fusion of the immortal soul with the indwelling Adjuster—increases in frequency commensurate with the evolutionary progress of the planet. At first only a few mortals in each age attain translation levels of spiritual progress, but with the onset of the successive ages of the Teacher Sons, more and more Adjuster fusions occur before the termination of the lengthening lives of these progressing mortals; and by the time of the terminal mission of the Teacher Sons, approximately one quarter of these superb mortals are exempt from natural death.” [UB 55:2.1-2](/en/The_Urantia_Book/55#p2_1)
 
 ### III. THE MORONTIA SELF
 
@@ -125,20 +125,20 @@ Author: **William S. Sadler**
 	> 
 	> “28. The argumentative defense of any proposition is inversely proportional to the truth contained.
 	> 
-	> “Such is the work of the beginners of the first mansion world while the more advanced pupils on the later worlds are mastering the higher levels of cosmic insight and morontia mota.” [UB 48:7.1](/en/The_Urantia_Book/48#p7_1)
+	> “Such is the work of the beginners of the first mansion world while the more advanced pupils on the later worlds are mastering the higher levels of cosmic insight and morontia mota.” [UB 48:7.1-31](/en/The_Urantia_Book/48#p7_1)
 
 ### V. FUNCTIONS OF MORONTIA LIFE
 
 1. Morontia spans local universe career.
 	> “The Gods cannot—at least they do not—transform a creature of gross animal nature into a perfected spirit by some mysterious act of creative magic. When the Creators desire to produce perfect beings, they do so by direct and original creation, but they never undertake to convert animal- origin and material creatures into beings of perfection in a single step.
 	> 
-	> “The morontia life, extending as it does over the various stages of the local universe career, is the only possible approach whereby material mortals could attain the threshold of the spirit world. What magic could death, the natural dissolution of the material body, hold that such a simple step should instantly transform the mortal and material mind into an immortal and perfected spirit? Such beliefs are but ignorant superstitions and pleasing fables.” [UB 48:0.1](/en/The_Urantia_Book/48#p0_1)
+	> “The morontia life, extending as it does over the various stages of the local universe career, is the only possible approach whereby material mortals could attain the threshold of the spirit world. What magic could death, the natural dissolution of the material body, hold that such a simple step should instantly transform the mortal and material mind into an immortal and perfected spirit? Such beliefs are but ignorant superstitions and pleasing fables.” [UB 48:0.1-2](/en/The_Urantia_Book/48#p0_1)
 2. Morontia intervenes between mortal and spirit status.
 	> “Always this morontia transition intervenes between the mortal estate and the subsequent spirit status of surviving human beings. This intermediate state of universe progress differs markedly in the various local creations, but in intent and purpose they are all quite similar. The arrangement of the mansion and higher morontia worlds in Nebadon is fairly typical of the morontia transition regimes in this part of Orvonton.” [UB 48:0.3](/en/The_Urantia_Book/48#p0_3)
 3. Constellation sojourn typical morontia life.
 	> “This entire sojourn on the constellation training worlds, culminating in Edentia citizenship, is a period of true and heavenly bliss for the morontia progressors. Throughout your sojourn on the system worlds you were evolving from a near-animal to a morontia creature; you were more mater ial than spiritual. On the Salvington spheres you will be evolving from a morontia being to the status of a true spirit; you will be more spiritual than material. But on Edentia, ascenders are midway between their former and their future estates, midway in their passage from evolutionary animal to ascending spirit. During your whole stay on Edentia and its worlds you are ‘as the angels’; you are constantly progressing but all the while maintaining a general and a typical morontia status.
 	> 
-	> “This constellation sojourn of an ascending mortal is the most uniform and stabilized epoch in the entire career of morontia progression. This experience constitutes the prespirit socialization training of the ascenders. It is analogous to the prefinaliter spiritual experience of Havona and to the preabsonite training on Paradise.” [UB 43:9.2](/en/The_Urantia_Book/43#p9_2)
+	> “This constellation sojourn of an ascending mortal is the most uniform and stabilized epoch in the entire career of morontia progression. This experience constitutes the prespirit socialization training of the ascenders. It is analogous to the prefinaliter spiritual experience of Havona and to the preabsonite training on Paradise.” [UB 43:9.2-3](/en/The_Urantia_Book/43#p9_2)
 
 ### VI. MORONTIA WORK AND HABITS
 
@@ -196,11 +196,11 @@ Author: **William S. Sadler**
 	> - a. Human eyes had to be opened.
 	> 	“And their eyes were opened and they recognized him; and he vanished out of their sight.” [Luke 24:31](/en/Bible/Luke/24#v31).
 	> - b. The morontia form appears suddenly.
-	> 	Jesus himself stood among them. But they were startled and frightened, was supposed that they saw a spirit.” [Luk[UB 24:36.37](/en/Bible/Luke/24#v36).
+	> 	Jesus himself stood among them. But they were startled and frightened, was supposed that they saw a spirit.” [Luke 24:36-37](/en/Bible/Luke/24#v36).
 	> - c. Disappears instantly.
 	> 	“While he blessed them, he parted from them.” [Luke 24:51](/en/Bible/Luke/24#v51).
 	> - d. Morontia Jesus eats fish.
-	> 	“He said to them, ‘Have you anything to eat?’ They gave him a piece of broiled fish, and he took it and ate before them.” [Luk[UB 24:41.43](/en/Bible/Luke/24#v41).
+	> 	“He said to them, ‘Have you anything to eat?’ They gave him a piece of broiled fish, and he took it and ate before them.” [Luke 24:41-43](/en/Bible/Luke/24#v41).
 	> - e. Jesus Mary not to touch him.
 	> 	Jesus said to her, ‘Do not hold on to me, for I have not yet ascended to the the Father.’” [John 20:17](/en/Bible/John/20#v17).
 	> - f. Comes and goes without hindrance.

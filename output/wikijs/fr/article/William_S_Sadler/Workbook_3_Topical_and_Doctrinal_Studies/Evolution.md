@@ -91,7 +91,7 @@ Auteur: **William S. Sadler**
 6. L'homme moderne souffre de la surcroissance de soi-disant besoins, désirs et envies. [LU 68:2.5](/fr/The_Urantia_Book/68#p2_5)
 7. L'évolution peut être lente, mais elle est efficace. [LU 81:1.3](/fr/The_Urantia_Book/81#p1_3)
 
-##VII. CIVILISATION
+## VII. CIVILISATION
 
 1. Les Juifs enseignaient : Celui qui ne travaille pas ne mangera pas. [LU 69:2.5](/fr/The_Urantia_Book/69#p2_5)
 2. Il n'y avait pas de périodes distinctes, telles que les âges de pierre, de bronze et de fer. [LU 81:3.4](/fr/The_Urantia_Book/81#p3_4)
@@ -108,6 +108,7 @@ Auteur: **William S. Sadler**
 2. Tous les mondes habités par des mortels sont d'origine et de nature évolutives. [LU 49:0.1](/fr/The_Urantia_Book/49#p0_1)
 3. La vie est à la fois mécaniste et vitaliste, matérielle et spirituelle. [LU 36:6.1](/fr/The_Urantia_Book/36#p6_1)
 4. Puisque l'esprit coordonne l'univers, la fixité des mécanismes est inexistante. [LU 42:11.7](/fr/The_Urantia_Book/42#p11_7)
+
 5. Jamais les scientifiques ne pourront produire des organismes vivants ; la vie n'est pas inhérente à la matière. [LU 36:6.1](/fr/The_Urantia_Book/36#p6_1)
 
 

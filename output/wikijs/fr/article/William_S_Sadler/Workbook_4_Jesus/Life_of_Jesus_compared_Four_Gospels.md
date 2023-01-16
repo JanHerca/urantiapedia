@@ -215,7 +215,7 @@ Auteur: **William S. Sadler**
 		- F. Récupère l'ancien atelier de réparation familial.
 		- g. Lit dans la synagogue.
 		- h. Elizabeth et John visitent Nazareth.
-		- je. Amos meurt le 3 décembre.
+		- i. Amos meurt le 3 décembre.
 	-Sec. 4. La dix-neuvième année (AD 13). Pas dans le Nouveau Testament.
 		- a. Mieux s'entendre avec sa mère.
 		- b. Enseignement positif vs négatif.
@@ -289,7 +289,7 @@ Auteur: **William S. Sadler**
 		- F. Toute la famille admire Jésus.
 		- g. Envoie de l'argent à la maison.
 		- h. Taxé comme « artisan qualifié ».
-		- je. Aime la bibliothèque de la synagogue.
+		- i. Aime la bibliothèque de la synagogue.
 		- j. Organise des réunions à domicile et en magasin.
 	-Sec. 2. La vingt-huitième année (AD 22). Pas dans le Nouveau Testament.
 		- a. En mars, Jésus quitte Capharnaüm.

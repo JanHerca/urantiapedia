@@ -25,7 +25,8 @@ Author: **William S. Sadler**
 ## I. THE MACHIVENTA INCARNATION
 
 1. Machiventa incarnated on Urantia 1,973 years ago. [UB 93:2.1](/en/The_Urantia_Book/93#p2_1)
-	**(N.B. The statement above is in error: The correct reference is: "It was 1,973 years before the birth of Jesus that Machiventa was bestowed upon the human races of Urantia." ed.)**
+	> (N.B. The statement above is in error: The correct reference is: "It was 1,973 years before the birth of Jesus that Machiventa was bestowed upon the human races of Urantia." ed.)
+	{.is-warning}
 2. Machiventa spoke several languages and wore a breastplate of three concentric circles. [UB 93:2.5](/en/The_Urantia_Book/93#p2_5)
 3. He had a special body and never married. [UB 93:2.6](/en/The_Urantia_Book/93#p2_6)
 4. His Thought Adjuster subsequently indwelt Jesus. [UB 93:2.7](/en/The_Urantia_Book/93#p2_7)

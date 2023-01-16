@@ -27,7 +27,7 @@ Author: **William S. Sadler**
 ### I. THE NATURE OF DIVINE JUSTICE
 
 1. Impartiality of divine justice.
-	> “God is righteous; therefore is he just. ‘The Lord is righteous in all his ways.’ ‘“I have not done without cause all that I have done,” says the Lord.’ ‘The judgments of the Lord are true and righteous altogether.’ The justice of the Universal Father cannot be influenced by the acts and performances of his creatures, ‘for there is no iniquity with the Lord our God, no respect of persons, no taking of gifts.’”  2:3.1](/en/The_Urantia_Book/2#p3_1) [Ps 145:17](/en/Bible/Psalms/145#v17); [19:9. 2](/en/Bible/Psalms/19#v9) [Chron 19:7](/en/Bible/2_Chronicles/19#v7).
+	> “God is righteous; therefore is he just. ‘The Lord is righteous in all his ways.’ ‘“I have not done without cause all that I have done,” says the Lord.’ ‘The judgments of the Lord are true and righteous altogether.’ The justice of the Universal Father cannot be influenced by the acts and performances of his creatures, ‘for there is no iniquity with the Lord our God, no respect of persons, no taking of gifts.’” [UB 2:3.1](/en/The_Urantia_Book/2#p3_1) [Ps 145:17](/en/Bible/Psalms/145#v17); [19:9. 2](/en/Bible/Psalms/19#v9) [Chron 19:7](/en/Bible/2_Chronicles/19#v7).
 2. Justice associated with mercy and wisdom.
 	> “Only the discernment of infinite wisdom enables a righteous God to minister justice and mercy at the same time and in any given universe situation. The heavenly Father is never torn by conflicting attitudes towards his universe children; God is never a victim of attitudinal antagonisms. God’s all-knowingness unfailingly directs his free will in the choosing of that universe conduct which perfectly, simultaneously, and equally satisfies the demands of all his divine attributes and the infinite qualities of his eternal nature.” [UB 2:4.3](/en/The_Urantia_Book/2#p4_3)
 3. Divine justice is eternally fair.
@@ -71,7 +71,7 @@ Author: **William S. Sadler**
 	> 
 	> “Primitive man assigned all phenomena to a person. In case of death the savage asked, not _what_ killed him, but _who_? Accidental murder was not therefore recognized, and in the punishment of crime the motive of the criminal was wholly disregarded; judgment was rendered in accordance with the injury done.”  [UB 70:10.2](/en/The_Urantia_Book/70#p10_2)
 3. Vengeance and retaliation in evolving justice.
-	> “Society early adopted the paying-back attitude of retaliation: an eye for an eye, a life for a life. The evolving tribes all recognized this right of blood vengeance. Vengeance became the aim of primitive life, but religion has since greatly modified these early tribal practices. The teachers of revealed religion have always proclaimed.’ “Vengeance is mine, “says the Lord.’ Vengeance killing in early times was not altogether unlike present day murders under the pretense of the unwritten law.” [UB 70:10.9](/en/The_Urantia_Book/70#p10_9) [Deut 19:21](/en/Bible/Deuteronomy/19#v21). [Rom 12:19](/en/Bible/Romans/12#v19).
+	> “Society early adopted the paying-back attitude of retaliation: an eye for an eye, a life for a life. The evolving tribes all recognized this right of blood vengeance. Vengeance became the aim of primitive life, but religion has since greatly modified these early tribal practices. The teachers of revealed religion have always proclaimed.’ “Vengeance is mine, “says the Lord.’ Vengeance killing in early times was not altogether unlike present day murders under the pretense of the unwritten law.” [UB 70:10.9-10](/en/The_Urantia_Book/70#p10_9) [Deut 19:21](/en/Bible/Deuteronomy/19#v21). [Rom 12:19](/en/Bible/Romans/12#v19).
 4. Evolution of justice administration.
 	> “Justice was thus first meted out by the family, then by the clan, and later on by the tribe. The administration of true justice dates from the taking of revenge from private and kin groups and lodging it in the hands of the social group, the state.” [UB 70:10.13](/en/The_Urantia_Book/70#p10_13)
 
@@ -80,7 +80,7 @@ Author: **William S. Sadler**
 1. Justice the foundation of God’s throne.
 	> “Righteousness and justice are the foundation of thy throne.” [Ps 89:14](/en/Bible/Psalms/89#v14).
 2. His judgments are true and just.
-	> “Salvation and glory and power belong to our God, for his judgments are true and just.” [Re[UB 19:1.2](/en/Bible/Revelation/19#v1); ([Rev 16:7](/en/Bible/Revelation/16#v7).)
+	> “Salvation and glory and power belong to our God, for his judgments are true and just.” [Rev 19:1.2](/en/Bible/Revelation/19#v1); ([Rev 16:7](/en/Bible/Revelation/16#v7).)
 	> “I know, O Lord, that thy judgments are right.” [Ps 119:75](/en/Bible/Psalms/119#v75).
 3. The judgments of God are righteous.
 	> “The ordinances of the Lord are true, and righteous altogether.” [Ps 19:9](/en/Bible/Psalms/19#v9).

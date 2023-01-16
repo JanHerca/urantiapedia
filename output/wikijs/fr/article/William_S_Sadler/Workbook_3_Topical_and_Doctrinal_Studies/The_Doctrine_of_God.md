@@ -37,11 +37,11 @@ Auteur: **William S. Sadler**
 3. La causalité absolue réside dans le Père Universel fonctionnant comme le JE SUIS. [LU 105:1.1](/fr/The_Urantia_Book/105#p1_1)
 4. La nature septuple du JE SUIS est suggérée par les Sept Absolus de l'Infini :
 	1. Le Père Universel.
-	2. Le contrôleur universel.
+	2. Le Contrôleur Universel.
 	3. Le Créateur Universel.
-	4. Le défenseur infini.
-	5. Le potentiel infini.
-	6. La capacité infinie.
+	4. Le Soutien Infini.
+	5. Le Potentiel Infini.
+	6. La Capacité Infinie.
 	7. L'Universel de l'Infini. [LU 105:2.4](/fr/The_Urantia_Book/105#p2_4)
 5. Le postulat JE SUIS de l'infini et de l'absolu transcende tous les temps passés, présents et futurs. [LU 118:1.9](/fr/The_Urantia_Book/118#p1_9)
 	**RÉFÉRENCE BIBLIQUE** : [Ex 3.4](/fr/Bible/Exodus/3#v4).
@@ -151,7 +151,7 @@ Auteur: **William S. Sadler**
 	>
 	> 4. L'omniscience n'implique pas la connaissance de l'inconnaissable. [LU 3:3.5](/fr/The_Urantia_Book/3#p3_5)
 	>
-	> **RÉFÉRENCES BIBLIQUES** : [I Jean 3:20](/fr/Bible/1_John/3#v20). Héb 4:13.741 (?...Éd.) [Job 37:16](/fr/Bible/Job/37#v16). [Ps 33:13](/fr/Bible/Psalms/33#v13); [147:4](/fr/Bible/Psalms/147#v4). [Prov 15:3](/fr/Bible/Proverbs/15#v3). [Matthieu 6:8](/fr/Bible/Matthew/6#v8).
+	> **RÉFÉRENCES BIBLIQUES** : [1 Jean 3:20](/fr/Bible/1_John/3#v20). Héb 4:13.741 (?...Éd.) [Job 37:16](/fr/Bible/Job/37#v16). [Ps 33:13](/fr/Bible/Psalms/33#v13); [147:4](/fr/Bible/Psalms/147#v4). [Prov 15:3](/fr/Bible/Proverbs/15#v3). [Matthieu 6:8](/fr/Bible/Matthew/6#v8).
 - D. _La primauté de Dieu_
 	> 1. Dieu est l'unité universelle de la Réalité non qualifiée. [LU 56:9.11](/fr/The_Urantia_Book/56#p9_11)
 	>
@@ -178,14 +178,14 @@ Auteur: **William S. Sadler**
 	>
 	> 3. Il y a une finalité de plénitude et une perfection de plénitude dans les mandats du Père. [LU 2:2.2](/fr/The_Urantia_Book/2#p2_2)
 	>
-	> **RÉFÉRENCES BIBLIQUES** : [Mal 3:6](/fr/Bible/Malachi/3#v6). [Jc 1:17](/fr/Bible/James/1#v17). [I Pet 4:19](/fr/Bible/1_Peter/4#v19). [Dt 32:4](/fr/Bible/Deuteronomy/32#v4). [Ps 33:4](/fr/Bible/Psalms/33#v4). [Jean 1:9](/fr/Bible/John/1#v9). [I Cor 1:9](/fr/Bible/1_Corinthians/1#v9). [I Jean 1:9](/fr/Bible/1_John/1#v9). [Lam 3:21](/fr/Bible/Lamentations/3#v21). [Ps 33:4](/fr/Bible/Psalms/33#v4); [119:90](/fr/Bible/Psalms/119#v90).
+	> **RÉFÉRENCES BIBLIQUES** : [Mal 3:6](/fr/Bible/Malachi/3#v6). [Jc 1:17](/fr/Bible/James/1#v17). [1 P 4:19](/fr/Bible/1_Peter/4#v19). [Dt 32:4](/fr/Bible/Deuteronomy/32#v4). [Ps 33:4](/fr/Bible/Psalms/33#v4). [Jean 1:9](/fr/Bible/John/1#v9). [1 Cor 1:9](/fr/Bible/1_Corinthians/1#v9). [1 Jean 1:9](/fr/Bible/1_John/1#v9). [Lam 3:21](/fr/Bible/Lamentations/3#v21). [Ps 33:4](/fr/Bible/Psalms/33#v4); [119:90](/fr/Bible/Psalms/119#v90).
 - C. _Le but éternel de Dieu_
 	> 1. N'ayez pas l'idée que, puisque Dieu délègue tant de lui-même et de son pouvoir aux autres, il est un membre silencieux du partenariat de la Déité. [LU 32:4.1](/fr/The_Urantia_Book/32#p4_1)
 	>
 	> 2. Dieu ne fait jamais ce que les autres peuvent faire. [LU 32:4.1](/fr/The_Urantia_Book/32#p4_1)
 	>
 	> 3. Le Père a un but éternel concernant l'univers des univers. [LU 4:0.1](/fr/The_Urantia_Book/4#p0_1)
-	> **RÉFÉRENCE BIBLIQUE** : [Eph 3:11](/fr/Bible/Ephesians/3#v11).
+	> **RÉFÉRENCE BIBLIQUE** : [Ep 3:11](/fr/Bible/Ephesians/3#v11).
 
 ### 6. LA RELATION DE DIEU AVEC L'INDIVIDU
 
@@ -200,7 +200,7 @@ Auteur: **William S. Sadler**
 	>
 	> 5. Le Dieu éternel est incapable de colère et de colère. [LU 4:3.2](/fr/The_Urantia_Book/4#p3_2)
 	>
-	> **RÉFÉRENCES BIBLIQUES** : [Deut 33:27](/fr/Bible/Deuteronomy/33#v27).
+	> **RÉFÉRENCES BIBLIQUES** : [Dt 33:27](/fr/Bible/Deuteronomy/33#v27).
 - B. _Dieu dans la religion_
 	> 1. C'est une grande bévue d'humaniser Dieu, mais ce n'est pas si stupide que de le mécaniser. [LU 3:6.5](/fr/The_Urantia_Book/3#p6_5)
 	>

@@ -107,7 +107,7 @@ Auteur: **William S. Sadler**
 	- F. Si la Bible était "inspirée", Calvin pensait que Paul aurait dû citer le passage ** textuellement **.
 	- g. Il pensait la même chose à propos de [Heb 2:7](/fr/Bible/Hebrews/2#v7) et [Ps 8:5](/fr/Bible/Psalms/8#v5).
 	- h. Calvin pensait que II Peter était "inférieur" - mais a dit que cela pouvait s'expliquer par le fait que Peter l'avait écrit dans sa "vieillesse".
-	- je. Calvin a interprété la Bible, en général, de deux manières :
+	- i. Calvin a interprété la Bible, en général, de deux manières :
 		(1) La souveraineté de Dieu.
 		(2) Prédestination des « élus ».
 	- j. Il a reconnu la «révélation progressive» de Dieu dans la Bible.

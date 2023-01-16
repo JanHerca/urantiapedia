@@ -44,7 +44,7 @@ Author: **William S. Sadler**
 3. Personality dimensions.
 	> “The type of personality bestowed upon Urantia mortals has a potentiality of seven dimensions of self-expression or person-realization. These dimensional phenomena are realizable as three on the finite level, three on the absonite level, and one on the absolute level. On subabsolute levels this seventh or totality dimension is experiencible as the _fact_ of personality. This supreme dimension is an associable absolute and, while not infinite, is dimensionally potential for subinfinite penetration of the absolute.
 	> 
-	> “The finite dimensions of personality have to do with cosmic length, depth, and breadth. Length denotes meaning; depth signifies value; breadth embraces insight—the capacity to experience unchallengeable consciousness of cosmic reality.” [UB 112:1.9](/en/The_Urantia_Book/112#p1_9)
+	> “The finite dimensions of personality have to do with cosmic length, depth, and breadth. Length denotes meaning; depth signifies value; breadth embraces insight—the capacity to experience unchallengeable consciousness of cosmic reality.” [UB 112:1.9-10](/en/The_Urantia_Book/112#p1_9)
 4. Divine concept of personality.
 	> “Never lose sight of the antipodal viewpoints of personality as it is conceived by God and man. Man views and comprehends personality, looking from the finite to the infinite; God looks from the infinite to the finite. Man possesses the lowest type of personality; God, the highest, even supreme, ultimate, and absolute. Therefore did the better concepts of the divine personality have patiently to await the appearance of improved ideas of human personality, especially the enhanced revelation of both human and divine personality in the Urantian bestowal life of Michael, the Creator Son.” [UB 1:6.3](/en/The_Urantia_Book/1#p6_3)
 5. Personality cannot be defined.
@@ -83,7 +83,7 @@ Author: **William S. Sadler**
 	> 
 	> “3. The quest for spiritual values, the religious experience.
 	> 
-	> “4. The quest for personality values, the ability to recognize the reality of God as a personality and the concurrent realization of our fraternal relationship with fellow personalities.” [UB 16:9.9](/en/The_Urantia_Book/16#p9_9)
+	> “4. The quest for personality values, the ability to recognize the reality of God as a personality and the concurrent realization of our fraternal relationship with fellow personalities.” [UB 16:9.9-13](/en/The_Urantia_Book/16#p9_9)
 5. Human personality the shadow of the divine.
 	> “Human personality is the time-space image-shadow cast by the divine Creator personality. And no actuality can ever be adequately comprehended by an examination of its shadow. Shadows should be interpreted in terms of the true substance.” [UB 1:6.1](/en/The_Urantia_Book/1#p6_1)
 6. Personality recognition by Census Directors.
@@ -98,7 +98,7 @@ Author: **William S. Sadler**
 3. Two universal features of personality.
 	> “Creature personality is distinguished by two self-manifesting and characteristic phenomena of mortal reactive behavior: self-consciousness and associated relative free will.
 	> 
-	> “Self-consciousness consists in intellectual awareness of personality actuality; it includes the ability to recognize the reality of other personalities. It indicates capacity for individualized experience in and with cosmic realities, equivalating to the attainment of identity status in the personality relationships of the universe. Self-consciousness connotes recognition of the actuality of mind ministration and the realization of relative independence of creative and determinative free will.” [UB 16:8.5](/en/The_Urantia_Book/16#p8_5)
+	> “Self-consciousness consists in intellectual awareness of personality actuality; it includes the ability to recognize the reality of other personalities. It indicates capacity for individualized experience in and with cosmic realities, equivalating to the attainment of identity status in the personality relationships of the universe. Self-consciousness connotes recognition of the actuality of mind ministration and the realization of relative independence of creative and determinative free will.” [UB 16:8.5-6](/en/The_Urantia_Book/16#p8_5)
 4. The domain of human personality.
 	> “The relative free will which characterizes the self-consciousness of human personality is involved in:
 	> “1. Moral decision, highest wisdom.
@@ -113,7 +113,7 @@ Author: **William S. Sadler**
 	> 
 	> “6. Personality dedication, wholehearted devotion to doing the Father’s will.
 	> 
-	> “7. Worship, the sincere pursuit of divine values and the wholehearted love of the divine Value-Giver.” [UB 16:8.7](/en/The_Urantia_Book/16#p8_7)
+	> “7. Worship, the sincere pursuit of divine values and the wholehearted love of the divine Value-Giver.” [UB 16:8.7-14](/en/The_Urantia_Book/16#p8_7)
 5. The attributes of personality.
 	> “The Urantia type of human personality may be viewed as functioning in a physical mechanism consisting of the planetary modification of the Nebadon type of organism belonging to the electrochemical order of life activation and endowed with the Nebadon order of the Orvonton series of the cosmic mind of parental reproductive pattern. The bestowal of the divine gift of personality upon such a mind-endowed mortal mechanism confers the dignity of cosmic citizenship and enables such a mortal creature forthwith to become reactive to the constitutive recognition of the three basic mind realities of the cosmos:
 	> “1. The mathematical or logical recognition of the uniformity of physical causation.
@@ -122,18 +122,16 @@ Author: **William S. Sadler**
 	> 
 	> “3. The faith-grasp of the fellowship worship of Deity, associated with the loving service of humanity.
 	> 
-	> “The full function of such a personality endowment is the beginning realization of Deity kinship. Such a selfhood, indwelt by a prepersonal; fragment of God the Father, is in truth and in fact a spiritual son of God. Such a creature not only discloses capacity for the reception of the gift of the divine presence but also exhibits reactive response to the personality-gravity circuit of the Paradise Father of all personalities.” [UB 16:8.15](/en/The_Urantia_Book/16#p8_15)
+	> “The full function of such a personality endowment is the beginning realization of Deity kinship. Such a selfhood, indwelt by a prepersonal; fragment of God the Father, is in truth and in fact a spiritual son of God. Such a creature not only discloses capacity for the reception of the gift of the divine presence but also exhibits reactive response to the personality-gravity circuit of the Paradise Father of all personalities.” [UB 16:8.15-19](/en/The_Urantia_Book/16#p8_15)
 
 ### VI. ADJUSTERS AND PERSONALITY
 
 1. Personality antedates the Adjusters.
-	> “Personality is a unique endowment of original nature whose existence is independent of, and antecedent to, the bestowal of the
-	> 
-	> Thought Adjuster. Nevertheless, the presence of the Adjuster does augment the qualitative manifestation of personality. Thought Adjusters, when they come forth from the Father, are identical in nature, but personality is diverse, original, and exclusive; and the manifestation of personality is further conditioned and qualified by the nature and qualities of the associated energies of a material, mindal, and spiritual nature which constitute the organismal vehicle for personality manifestation.” [UB 16:8.3](/en/The_Urantia_Book/16#p8_3)
+	> “Personality is a unique endowment of original nature whose existence is independent of, and antecedent to, the bestowal of the Thought Adjuster. Nevertheless, the presence of the Adjuster does augment the qualitative manifestation of personality. Thought Adjusters, when they come forth from the Father, are identical in nature, but personality is diverse, original, and exclusive; and the manifestation of personality is further conditioned and qualified by the nature and qualities of the associated energies of a material, mindal, and spiritual nature which constitute the organismal vehicle for personality manifestation.” [UB 16:8.3](/en/The_Urantia_Book/16#p8_3)
 2. Adjuster influences interpersonal relations.
 	> “The higher forms of intelligent intercommunication between human beings are greatly helped by the indwelling Adjusters. Animals do have fellow feelings, but they do not communicate concepts to each other; they can express emotions but not ideas and ideals. Neither do men of animal origin experience a high type of intellectual intercourse or spiritual communion with their fellows until the Thought Adjusters have been bestowed, albeit, when such evolutionary creatures develop speech, they are on the highroad to receiving Adjusters.
 	> 
-	> “Animals do, in a crude way, communicate with each other, but there is little or no _personality_ in such primitive contact. Adjusters are not personality; they are prepersonal beings. But they do hail from the source of personality, and their presence does augment the qualitative manifestations of human personality; especially is this true if the Adjuster has had previous experience.” [UB 109:4.1](/en/The_Urantia_Book/109#p4_1)
+	> “Animals do, in a crude way, communicate with each other, but there is little or no _personality_ in such primitive contact. Adjusters are not personality; they are prepersonal beings. But they do hail from the source of personality, and their presence does augment the qualitative manifestations of human personality; especially is this true if the Adjuster has had previous experience.” [UB 109:4.1-2](/en/The_Urantia_Book/109#p4_1)
 3. Adjusters and personality potential.
 	> “The type of Adjuster has much to do with the potential for expression of the human personality. On down through the ages, many of the great intellectual and spiritual leaders of Urantia have exerted their influence chiefly because of the superiority and previous experience of their indwelling Adjusters.” [UB 109:4.3](/en/The_Urantia_Book/109#p4_3)
 
@@ -169,7 +167,7 @@ Author: **William S. Sadler**
 	> 
 	> “13. Personality may survive mortal death with identity in the surviving soul. The Adjuster and the personality are changeless; the relationship between them (in the soul) is nothing but change, continuing evolution; and if this change (growth) ceased, the soul would cease.
 	> 
-	> “14. Personality is uniquely conscious of time, and this is something other than the time perception of mind or spirit.” [UB 112:0.2](/en/The_Urantia_Book/112#p0_2)
+	> “14. Personality is uniquely conscious of time, and this is something other than the time perception of mind or spirit.” [UB 112:0.2-16](/en/The_Urantia_Book/112#p0_2)
 
 ### VIII. RELIGION AND PERSONALITY
 
@@ -184,7 +182,7 @@ Author: **William S. Sadler**
 5. Spirit dominance of personality.
 	> “In the evolutionary superuniverses energy-matter is dominant except in personality, where spirit through the mediation of mind is struggling for the mastery. The goal of the evolutionary universes is the subjugation of energy-matter by mind, the co-ordination of mind with spirit, and all of this by virtue of the creative and unifying presence of personality. Thus, in relation to personality, do physical systems become subordinate; mind systems, co-ordinate; and spirit systems, directive.
 	> 
-	> “This union of power and personality is expressive on deity levels in and as the Supreme. But the actual evolution of spirit dominance is a growth which is predicated on the freewill acts of the Creators and creatures of the grand universe.” [UB 116:6.1](/en/The_Urantia_Book/116#p6_1)
+	> “This union of power and personality is expressive on deity levels in and as the Supreme. But the actual evolution of spirit dominance is a growth which is predicated on the freewill acts of the Creators and creatures of the grand universe.” [UB 116:6.1-2](/en/The_Urantia_Book/116#p6_1)
 6. The ultimate spirit conquest.
 	> “The Supreme is the divine channel through which flows the creative infinity of the triodities that crystallizes into the galactic panorama of space, against which takes place the magnificent personality drama of time: the spirit conquest of energy-matter through the mediation of mind.” [UB 117:3.2](/en/The_Urantia_Book/117#p3_2)
 
@@ -195,7 +193,7 @@ Author: **William S. Sadler**
 	> 
 	> “Reality is subject to universal expansion, personality to infinite diversification, and both are capable of well-nigh unlimited Deity co-ordination and eternal stabilization. While the metamorphic range of nonpersonal reality is definitely limited, we know of no limitations to the progressive evolution of personality realities.
 	> 
-	> “On attained experiential levels all personality orders or values are associable and even cocreational. Even God and man can coexist in a unified personality, as is so exquisitely demonstrated in the present status of Christ Michael—Son of Man and Son of God.” [UB 0:5.1](/en/The_Urantia_Book/0#p5_1)
+	> “On attained experiential levels all personality orders or values are associable and even cocreational. Even God and man can coexist in a unified personality, as is so exquisitely demonstrated in the present status of Christ Michael—Son of Man and Son of God.” [UB 0:5.1-3](/en/The_Urantia_Book/0#p5_1)
 2. Personality the center of existence.
 	> “All mortal concepts of reality are based on the assumption of the actuality of human personality; all concepts of superhuman realities are based on the experience of the human personality with and in the cosmic realities of certain associated spiritual entities and divine personalities. Everything nonspiritual in human experience, excepting personality, is a means to an end. Every true relationship of mortal man with other persons—human or divine—is an end in itself. And such fellowship with the personality of Deity is the eternal goal of universe ascension.” [UB 112:2.8](/en/The_Urantia_Book/112#p2_8)
 3. Cosmic unity of personality.
@@ -214,7 +212,7 @@ Author: **William S. Sadler**
 3. Jesus had great respect for human personality.
 	> “Always respect the personality of man. Never should a righteous cause be promoted by force; spiritual victories can be won only by spiritual power. This injunction against the employment of material influences refers to psychic force as well as to physical force. Overpowering arguments and mental superiority are not to be employed to coerce men and women into the kingdom. Man’s mind is not to be crushed by the mere weight of logic or overawed by shrewd eloquence. While emotion as a factor in human decisions cannot be wholly eliminated, it should not be directly appealed to in the teachings of those who would advance the cause of the kingdom. Make your appeals directly to the divine spirit that dwells within the minds of men. Do not appeal to fear, pity, or mere sentiment. In appealing to men, be fair; exercise self-control and exhibit due restraint; show proper respect for the personalities of your pupils. Remember that I have said: ‘Behold, I stand at the door and knock, and if any man will open, I will come in.’
 	> 
-	> “In bringing men into the kingdom, do not lessen or destroy their self-respect. While overmuch self-respect may destroy proper humility and end in pride, conceit, and arrogance, the loss of self-respect often ends in paralysis of the will. It is the purpose of this gospel to restore self-respect to those who have lost it and to restrain it in those who have it. Make not the mistake of only condemning the wrongs in the lives of your pupils; remember also to accord generous recognition for the most praise-worthy things in their lives. Forget not that I will stop at nothing to restore self-respect to those who have lost it, and who really desire to regain it.” [UB 159:3.2](/en/The_Urantia_Book/159#p3_2)
+	> “In bringing men into the kingdom, do not lessen or destroy their self-respect. While overmuch self-respect may destroy proper humility and end in pride, conceit, and arrogance, the loss of self-respect often ends in paralysis of the will. It is the purpose of this gospel to restore self-respect to those who have lost it and to restrain it in those who have it. Make not the mistake of only condemning the wrongs in the lives of your pupils; remember also to accord generous recognition for the most praise-worthy things in their lives. Forget not that I will stop at nothing to restore self-respect to those who have lost it, and who really desire to regain it.” [UB 159:3.2-3](/en/The_Urantia_Book/159#p3_2)
 4. We should respect all personalities.
 	> “Take care that you do not wound the self-respect of timid and fearful souls. Do not indulge in sarcasm at the expense of my simple-minded brethren. Be not cynical with my fear-ridden children. Idleness is destructive of self-respect; therefore, admonish your brethren ever to keep busy at their chosen tasks, and put forth every effort to secure work for those who find themselves without employment.” [UB 159:3.4](/en/The_Urantia_Book/159#p3_4)
 
