@@ -48,7 +48,7 @@ Author: **William S. Sadler**
 4. Mother Spirit universe focus of Spirit of Truth.
 	> “The Creator Son may come and go; his personal presence may be in the local universe or elsewhere; yet the Spirit of Truth functions undisturbed, for this divine presence, while derived from the personality of the Creator Son, is functionally centered in the person of the Divine Minister.
 	> 
-	> “The Universe Mother Spirit, however, never leaves the local universe headquarters world. The spirit of the Creator Son may and does function independently of the personal presence of the Son, but not so with her personal spirit. The Holy Spirit of the Divine Minister would become nonfunctional if her personal presence should be removed from Salvington. Her spirit presence seems to be fixed on the universe headquarters world, and it is this very fact that enables the spirit of the Creator Son to function independently of the whereabouts of the Son. The Universe Mother Spirit acts as the universe focus and center of the Spirit of Truth as well as of her own personal influence, the Holy Spirit.” [UB 34:4.6](/en/The_Urantia_Book/34#p4_6)
+	> “The Universe Mother Spirit, however, never leaves the local universe headquarters world. The spirit of the Creator Son may and does function independently of the personal presence of the Son, but not so with her personal spirit. The Holy Spirit of the Divine Minister would become nonfunctional if her personal presence should be removed from Salvington. Her spirit presence seems to be fixed on the universe headquarters world, and it is this very fact that enables the spirit of the Creator Son to function independently of the whereabouts of the Son. The Universe Mother Spirit acts as the universe focus and center of the Spirit of Truth as well as of her own personal influence, the Holy Spirit.” [UB 34:4.6-7](/en/The_Urantia_Book/34#p4_6)
 
 ### III. FUNCTIONS OF THE SPIRIT OF TRUTH
 
@@ -73,33 +73,33 @@ Author: **William S. Sadler**
 1. According to Jesus’ promise the Spirit comes.
 	> “About one o’clock, as the one hundred and twenty believers were engaged in prayer, they all became aware of a strange presence in the room. At the same time these disciples all became conscious of a new and profound sense of spiritual joy, security, and confidence. This new consciousness of spiritual strength was immediately followed by a strong urge to go out and publicly proclaim the gospel of the kingdom and the good news that Jesus had risen from the dead.
 	> 
-	> “Peter stood up and declared that this must be the coming of the Spirit of Truth which the Master had promised them and proposed that they go to the temple and begin the proclamation of the good news committed to their hands. And they did just what Peter suggested.” [UB 194:0.1](/en/The_Urantia_Book/194#p0_1) [Acts 2](/en/Bible/Acts_of_the_Apostles/2.htm).
+	> “Peter stood up and declared that this must be the coming of the Spirit of Truth which the Master had promised them and proposed that they go to the temple and begin the proclamation of the good news committed to their hands. And they did just what Peter suggested.” [UB 194:0.1-2](/en/The_Urantia_Book/194#p0_1) [Acts 2](/en/Bible/Acts_of_the_Apostles/2.htm).
 2. Religion of Jesus becomes a religion about Jesus.
 	> “These men had been trained and instructed that the gospel which they should preach was the fatherhood of God and the sonship of man, but at just this moment of spiritual ecstasy and personal triumph, the best tidings, the greatest news, these men could think of was the _fact_ of the risen Master. And so they went forth, endowed with power from on high, preaching glad tidings to the people—even salvation through Jesus—but they unintentionally stumbled into the error of substituting some of the facts associated with the gospel for the gospel message itself. Peter unwittingly led off in this mistake, and others followed after him on down to Paul, who created a new religion out of the new version of the good news.
 	> 
-	> “The gospel of the kindgom is: the fact of the fatherhood of God, coupled with the resultant truth of the sonship-brotherhood of men. Christianity, as it developed from that day, is: the fact of God as the Father of the Lord Jesus Christ, in association with the experience of believer-fellowship with the risen and glorified Christ.” [UB 194:0.3](/en/The_Urantia_Book/194#p0_3)
+	> “The gospel of the kindgom is: the fact of the fatherhood of God, coupled with the resultant truth of the sonship-brotherhood of men. Christianity, as it developed from that day, is: the fact of God as the Father of the Lord Jesus Christ, in association with the experience of believer-fellowship with the risen and glorified Christ.” [UB 194:0.3-4](/en/The_Urantia_Book/194#p0_3)
 3. Believers are enthralled by the new gospel.
 	> “It is not strange that these spirit-infused men should have seized upon this opportunity to express their feelings of triumph over the forces which had sought to destroy their Master and end the influence of his teachings. At such a time as this it was easier to remember their personal association with Jesus and to be thrilled with the assurance that the Master still lived, that their friendship had not ended, and that the spirit had indeed come upon them even as he had promised.
 	> 
 	> “These believers felt themselves suddenly translated into another world, a new existence of joy, power, and glory. The Master had told them the kingdom would come with power, and some of them thought they were beginning to discern what he meant.
 	> 
-	> “And when all of this is taken into consideration, it is not difficult to understand how these men came to preach a _new gospel about Jesus_ in the place of their former message of the fatherhood of God and the brotherhood of men.” [UB 194:0.5](/en/The_Urantia_Book/194#p0_5)
+	> “And when all of this is taken into consideration, it is not difficult to understand how these men came to preach a _new gospel about Jesus_ in the place of their former message of the fatherhood of God and the brotherhood of men.” [UB 194:0.5-7](/en/The_Urantia_Book/194#p0_5)
 
 ### VI. SIGNIFICANCE OF THE SPIRIT OF TRUTH
 
 1. New spirit solvent for human difficulties.
 	> “Jesus lived on earth and taught a gospel which redeemed man from the superstition that he was a child of the devil and elevated him to the dignity of a faith son of God. Jesus’ message, as he preached it and lived it in his day, was an effective solvent for man’s spiritual difficulties in that day of its statement. And now that he has personally left the world, he sends in his place his Spirit of Truth, who is designed to live in man and, for each new generation, to restate the Jesus message so that every new group of mortals to appear upon the face of the earth shall have a new and up-to-date version of the gospel, just such personal enlightenment and group guidance as will prove to be an effective solvent for man’s ever-new and varied spiritual difficulties.” [UB 194:2.1](/en/The_Urantia_Book/194#p2_1)
 2. You are not conscious of the spirit.
-	> “Do not make the mistake of expecting to become strongly intellectually conscious of the outpoured Spirit of Truth. The spirit never creates a consciousness of himself, only a consciousness of Michael, the Son. From the beginning Jesus taught that the spirit would not speak of himself. The proof, therefore, of your fellowship with the Spirit of Truth is not to be found in your consciousness of this spirit but rather in your experience of enhanced fellowship with Michael.” [UB 194:2.4](/en/The_Urantia_Book/194#p2_4)
+	> “Do not make the mistake of expecting to become strongly intellectually conscious of the outpoured Spirit of Truth. The spirit never creates a consciousness of himself, only a consciousness of Michael, the Son. From the beginning Jesus taught that the spirit would not speak of himself. The proof, therefore, of your fellowship with the Spirit of Truth is not to be found in your consciousness of this spirit but rather in your experience of enhanced fellowship with Michael.”
 	> 
 	> “The spirit also came to help men recall and understand the words of the Master as well as to illuminate and reinterpret his life on earth.
 	> 
 	> “Next, the Spirit of Truth came to help the believer to witness to the realities of Jesus’ teachings and his life as he lived it in the flesh, and as he now again lives it anew and afresh in the individual believer of each passing generation of the spirit-filled sons of God.
 	> 
-	> “Thus it appears that the Spirit of Truth comes really to lead all believers into all truth, into the expanding knowledge of the experience of the living and growing spiritual consciousness of the reality of eternal and ascending sonship with God.” [UB 194:2.5](/en/The_Urantia_Book/194#p2_5)
-4. Baptism of the spirit.
+	> “Thus it appears that the Spirit of Truth comes really to lead all believers into all truth, into the expanding knowledge of the experience of the living and growing spiritual consciousness of the reality of eternal and ascending sonship with God.” [UB 194:2.4-7](/en/The_Urantia_Book/194#p2_5)
+3. Baptism of the spirit.
 	> “The term ‘baptism of the spirit,’ which came into such general use about this time, merely signified the conscious reception of this gift of the Spirit of Truth and the personal acknowledgment of this new spiritual power as an augmentation of all spiritual influences previously experienced by God-knowing souls.” [UB 194:2.10](/en/The_Urantia_Book/194#p2_10)
-5. The sevenfold spirit influence.
+4. The sevenfold spirit influence.
 	> “In a way, mankind is subject to the double influence of the sevenfold appeal of the universe spirit influences. The early evolutionary races of mortals are subject to the progressive contact of the seven adjutant mindspirits of the local universe Mother Spirit. As man progresses upward in the scale of intelligence and spiritual perception, there eventually come to hover over him and dwell within him the seven higher spirit influences. And these seven spirits of the advancing worlds are:
 	> 
 	> “1. The bestowed spirit of the Universal Father—the Thought Adjusters.
@@ -116,7 +116,7 @@ Author: **William S. Sadler**
 	> 
 	> “7. The spirit of the Father, Sons, and Spirits—the new-name spirit of the ascending mortals of the realms after the fusion of the mortal spirit-born soul with the Paradise Thought Adjuster and after the subsequent attainment of the divinity and glorification of the status of the Paradise Corps of the Finality.
 	> 
-	> “And so did the bestowal of the Spirit of Truth bring to the world and its peoples the last of the spirit endowment designed to aid in the ascending search for God.” [UB 194:2.12](/en/The_Urantia_Book/194#p2_12)
+	> “And so did the bestowal of the Spirit of Truth bring to the world and its peoples the last of the spirit endowment designed to aid in the ascending search for God.” [UB 194:2.12-20](/en/The_Urantia_Book/194#p2_12)
 
 ### VII. WHAT HAPPENED AT PENTECOST
 
@@ -129,7 +129,7 @@ Author: **William S. Sadler**
 4. Scope of the spirit’s influence.
 	> “The religion of Jesus fosters the highest type of human civilization in that it creates the highest type of spiritual personality and proclaims the sacredness of that person.
 	> 
-	> “The coming of the Spirit of Truth on Pentecost made possible a religion which is neither radical nor conservative; it is neither the old nor the new; it is to be dominated neither by the old nor the young. The fact of Jesus’ earthly life provides a fixed point for the anchor of time, while the bestowal of the Spirit of Truth provides for the everlasting expansion and endless growth of the religion which he lived and the gospel which he proclaimed. The spirit guides into all truth; he is the teacher of an ex- panding and always-growing religion of endless progress and divine unfold- ing. This new teacher will be forever unfolding to the truth-seeking be- liever that which was so divinely folded up in the person and nature of the Son of Man.” [UB 194:3.7](/en/The_Urantia_Book/194#p3_7)
+	> “The coming of the Spirit of Truth on Pentecost made possible a religion which is neither radical nor conservative; it is neither the old nor the new; it is to be dominated neither by the old nor the young. The fact of Jesus’ earthly life provides a fixed point for the anchor of time, while the bestowal of the Spirit of Truth provides for the everlasting expansion and endless growth of the religion which he lived and the gospel which he proclaimed. The spirit guides into all truth; he is the teacher of an ex- panding and always-growing religion of endless progress and divine unfold- ing. This new teacher will be forever unfolding to the truth-seeking be- liever that which was so divinely folded up in the person and nature of the Son of Man.” [UB 194:3.7-8](/en/The_Urantia_Book/194#p3_7)
 5. Jesus’ religion free from all racial and religious influences.
 	> “The manifestations associated with the bestowal of the ‘new teacher,’ and the reception of the apostles’ preaching by the men of various races and nations gathered together at Jerusalem, indicate the universality of the religion of Jesus. The gospel of the kingdom was to be identified with no particular race, culture, or language. This day of Pentecost wit- nessed the great effort of the spirit to liberate the religion of Jesus from its inherited Jewish fetters. Even after this demonstration of pouring out the spirit upon all flesh, the apostles at first endeavored to impose the requirements of Judaism upon their converts. Even Paul had trouble with his Jerusalem brethren because he refused to subject the gen- tiles to these Jewish practices. No revealed religion can spread to all the world when it makes the serious mistake of becoming permeated with some national culture or associated with established racial, social, or economic practices.” [UB 194:3.9](/en/The_Urantia_Book/194#p3_9)
 6. Pentecost was free from all sacred environment.
@@ -147,7 +147,7 @@ Throughout the New Testament the Spirit of Truth is confused with the Holy Spiri
 
 > “If I do not go away, the Counselor will not come to you; but if I go, I will send him to you.” [John 16:7](/en/Bible/John/16#v7).
 > 
-> “And I will pray the Father, and he will give you another Counselor...even the Spirit of truth...you know him, for he dwells with you, and will be in you.” [Joh[UB 14:16.17](/en/Bible/John/14#v16).
+> “And I will pray the Father, and he will give you another Counselor...even the Spirit of truth...you know him, for he dwells with you, and will be in you.” [Joh 14:16.17](/en/Bible/John/14#v16).
 
 ### II. THE SPIRIT OF TRUTH COMES
 

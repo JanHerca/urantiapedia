@@ -35,14 +35,14 @@ Author: **William S. Sadler**
 4. The achievement of cosmic art.
 	> “Philosophy you somewhat grasp, and divinity you comprehend in worship, social service, and personal spiritual experience, but the pursuit of beauty—cosmology—you all too often limit to the study of man’s crude artistic endeavors. Beauty, art, is largely a matter of the unification of contrasts. Variety is essential to the concept of beauty. The supreme beauty, the height of finite art, is the drama of the unification of the vastness of the cosmic extremes of Creator and creature. Man finding God and God finding man—the creature becoming perfect as is the Creator—that is the supernal achievement of the supremely beautiful, the attainment of the apex of cosmic art.
 	> 
-	> “Hence materialism, atheism, is the maximation of ugliness, the climax of the finite antithesis of the beautiful. Highest beauty consists in the panorama of the unification of the variations which have been born of pre-existent harmonious reality.” [UB 56:10.3](/en/The_Urantia_Book/56#p10_3)
+	> “Hence materialism, atheism, is the maximation of ugliness, the climax of the finite antithesis of the beautiful. Highest beauty consists in the panorama of the unification of the variations which have been born of pre-existent harmonious reality.” [UB 56:10.3-4](/en/The_Urantia_Book/56#p10_3)
 
 ### II. INTERASSOCIATION OF TRUTH, BEAUTY, AND GOODNESS
 
 1. Interassociation of truth, beauty, and goodness.
 	> “All truth—material, philosophic, or spiritual—is both beautiful and good. All real beauty—material art or spiritual symmetry—is both true and good. All genuine goodness—whether personal morality, social equity, or divine ministry—is equally true and beautiful. Health, sanity, and happiness are integrations of truth, beauty, and goodness as they are blended in human experience. Such levels of efficient living come about through the unification of energy systems, idea systems, and spirit systems.
 	> 
-	> “Truth is coherent, beauty attractive, goodness stabilizing. And when these values of that which is real are co-ordinated in personality experience, the result is a high order of love conditioned by wisdom and qualified by loyalty. The real purpose of all universe education is to effect the better co-ordination of the isolated child of the worlds with the larger realities of his expanding experience. Reality is finite on the human level, infinite and eternal on the higher and divine levels.” [UB 2:7.11](/en/The_Urantia_Book/2#p7_11)
+	> “Truth is coherent, beauty attractive, goodness stabilizing. And when these values of that which is real are co-ordinated in personality experience, the result is a high order of love conditioned by wisdom and qualified by loyalty. The real purpose of all universe education is to effect the better co-ordination of the isolated child of the worlds with the larger realities of his expanding experience. Reality is finite on the human level, infinite and eternal on the higher and divine levels.” [UB 2:7.11-12](/en/The_Urantia_Book/2#p7_11)
 2. Relations of truth, beauty, and goodness.
 	> “When reason once recognizes right and wrong, it exhibits wisdom; when wisdom chooses between right and wrong, truth and error, it demonstrates spirit leading. And thus are the functions of mind, soul, and spirit ever closely united and functionally interassociated. Reason deals with factual knowledge; wisdom, with philosophy and revelation; faith, with living spiritual experience. Through truth man attains beauty and by spiritual love ascends to goodness.” [UB 103:9.10](/en/The_Urantia_Book/103#p9_10)
 3. Correlation of truth, beauty, and goodness.
@@ -69,7 +69,7 @@ Author: **William S. Sadler**
 	> “Religious insight possesses the power of turning defeat into higher desires and new determinations. Love is the highest motivation which man may utilize in his universe ascent. But love, divested of truth, beauty, and goodness, is only a sentiment, a philosophic distortion, a psychic illusion, a spiritual deception. Love must always be redefined on successive levels of morontia and spirit progression.” [UB 196:3.29](/en/The_Urantia_Book/196#p3_29)
 3. Love is the desire to do good to others.
 	> “To finite man truth, beauty, and goodness embrace the full revelation of divinity reality. As this love-comprehension of Deity finds spiritual expression in the lives of God-knowing mortals, there are yielded the fruits of divinity: intellectual peace, social progress, moral satisfaction, spiritual joy, and cosmic wisdom. The advanced mortals on a world in the seventh stage of light and life have learned that love is the greatest thing in the universe—and they know that God is love.
-	> “Love is the desire to do good to others.” [UB 56:10.20](/en/The_Urantia_Book/56#p10_20)
+	> “Love is the desire to do good to others.” [UB 56:10.20-21](/en/The_Urantia_Book/56#p10_20)
 
 ### V. AS RELATED TO DEITY
 
@@ -80,7 +80,7 @@ Author: **William S. Sadler**
 	> 
 	> “The existence of beauty implies the presence of appreciative creature mind just as certainly as the fact of progressive evolution indicates the dominance of the Supreme Mind. Beauty is the intellectual recognition of the harmonious time-space synthesis of the far-flung diversification of phenomenal reality, all of which stems from pre-existent and eternal oneness.
 	> 
-	> “Goodness is the mental recognition of the relative values of the diverse levels of divine perfection. The recognition of goodness implies a mind of moral status, a personal mind with ability to discriminate between good and evil. But the possession of goodness, greatness, is the measure of real divinity attainment.” [UB 56:10.9](/en/The_Urantia_Book/56#p10_9)
+	> “Goodness is the mental recognition of the relative values of the diverse levels of divine perfection. The recognition of goodness implies a mind of moral status, a personal mind with ability to discriminate between good and evil. But the possession of goodness, greatness, is the measure of real divinity attainment.” [UB 56:10.9-12](/en/The_Urantia_Book/56#p10_9)
 2. Divinity comprehended as truth, beauty, and goodness.
 	> “Divinity is creature comprehensible as truth, beauty, and goodness; correlated in personality as love, mercy, and ministry; disclosed on impersonal levels as justice, power, and sovereignty.” [UB 0:1.17](/en/The_Urantia_Book/0#p1_17)
 3. As man’s universe approach.

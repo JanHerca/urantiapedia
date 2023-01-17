@@ -121,7 +121,7 @@ Auteur: **William S. Sadler**
 6. Apportez des changements uniquement lorsqu'ils sont pour le mieux. [LU 69:9.18](/fr/The_Urantia_Book/69#p9_18)
 7. L'esclavage était indispensable au développement de la civilisation. Il obligeait les paresseux à travailler et fournissait ainsi richesse et loisirs pour l'avancement des peuples supérieurs. [LU 69:8.6](/fr/The_Urantia_Book/69#p8_6)
 
-##VII. GOUVERNEMENT SURHUMAIN
+## VII. GOUVERNEMENT SURHUMAIN
 
 1. Les Très Hauts règnent dans les royaumes des hommes. [LU 114:4.2](/fr/The_Urantia_Book/114#p4_2)
 2. Le corps de réserve du destin peut assister. [LU 114:7.1](/fr/The_Urantia_Book/114#p7_1)

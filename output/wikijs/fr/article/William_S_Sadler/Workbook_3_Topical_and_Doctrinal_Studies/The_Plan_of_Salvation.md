@@ -68,7 +68,7 @@ L'effusion incarnée des Fils du Paradis sur les races mortelles est un projet d
 
 **RÉFÉRENCES BIBLIQUES** : [Rom 8:14](/fr/Bible/Romans/8#v14). [Jean 3:3](/fr/Bible/John/3#v3). [II Co 5:17](/fr/Bible/2_Corinthians/5#v17). [I Jean 5:4](/fr/Bible/1_John/5#v4).
 
-##VII. LA VIE DE JÉSUS SUR TERRE
+## VII. LA VIE DE JÉSUS SUR TERRE
 
 1. Jésus veut que vous croyiez _avec_ lui plutôt qu'en lui. [LU 196:0.13](/fr/The_Urantia_Book/196#p0_13)
 2. L'idée d'expiation est une attaque philosophique à la fois contre l'unité et la volonté de Dieu. [LU 2:6.5](/fr/The_Urantia_Book/2#p6_5)

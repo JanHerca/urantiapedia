@@ -35,7 +35,7 @@ Le sujet des Fils Créateurs est traité dans une autre étude thématique. Veui
 3. Ces Fils Avonaux ont trois fonctions :
 	> 1. Judiciaire.
 	> 2. Magistral.
-	> 3. Don sans réserve. [LU 20:2.4](/fr/The_Urantia_Book/20#p2_4)
+	> 3. D’effusion. [LU 20:2.4](/fr/The_Urantia_Book/20#p2_4)
 4. Urantia peut encore recevoir la visite d'un Fils Avonal pour s'incarner dans une mission magistrale. [LU 20:4.5](/fr/The_Urantia_Book/20#p4_5)
 5. La méthode de ces incarnations est un mystère universel. [LU 20:6.1](/fr/The_Urantia_Book/20#p6_1)
 6. Les Fils Paradisiaques Incarnés ont des Ajusteurs expérimentés. [LU 20:4.3](/fr/The_Urantia_Book/20#p4_3)

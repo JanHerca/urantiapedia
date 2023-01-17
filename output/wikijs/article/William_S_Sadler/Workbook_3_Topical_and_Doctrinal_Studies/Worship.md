@@ -46,7 +46,7 @@ Author: **William S. Sadler**
 	> “The worship of rocks, hills, trees, and animals naturally developed up through fearful veneration of the elements to the deification of the sun, moon, and stars. In India and elsewhere the stars were regarded as the glorified souls of great men who had departed from the life in the flesh. The Chaldean star cultists considered themselves to be the children of the sky father and the earth mother.” [UB 85:5.1](/en/The_Urantia_Book/85#p5_1)
 5. Progress beyond nature worship.
 	> “In the evolution of the human species, worship in its primitive manifestations appears long before the mind of man is capable of formulating the more complex concepts of life now and in the hereafter which deserve to be called religion. Early religion was wholly intellectual in nature and was entirely predicated on associational circumstances. The objects of worship were altogether suggestive; they consisted of the things of nature which were close at hand, or which loomed large in the commonplace experience of the simple-minded primitive Urantians.
-	> “When religion once evolved beyond nature worship, it acquired roots of spirit origin but was nevertheless always conditioned by the social environment. As nature worship developed, man’s concepts envisioned a division of labor in the supermortal world; there were nature spirits for lakes, trees, waterfalls, rain, and hundreds of other ordinary terrestrial phenomena.” [UB 85:0.2](/en/The_Urantia_Book/85#p0_2)
+	> “When religion once evolved beyond nature worship, it acquired roots of spirit origin but was nevertheless always conditioned by the social environment. As nature worship developed, man’s concepts envisioned a division of labor in the supermortal world; there were nature spirits for lakes, trees, waterfalls, rain, and hundreds of other ordinary terrestrial phenomena.” [UB 85:0.2-3](/en/The_Urantia_Book/85#p0_2)
 6. Gifts and bribes as factors of worship.
 	> “Gifts and bribes are given to men; but when tendered to the gods, they are described as being dedicated, made sacred, or are called sacrifices. Renunciation was the negative form of propitiation; sacrifice became the positive form. The act of propitiation included praise, glorification, flattery, and even entertainment. And it is the remnants of these positive practices of the olden propitiation cult that constitute the modern forms of divine worship. Present-day forms of worship are simply the ritualization of these ancient sacrificial techniques of positive propitiation.” [UB 89:4.7](/en/The_Urantia_Book/89#p4_7)
 7. Worship as insurance against misfortune.
@@ -65,7 +65,7 @@ Author: **William S. Sadler**
 5. The long evolutionary struggle.
 	> “But at last the mind of primitive man was occupied with thoughts which transcended all of his inherent biologic urges; at last man was about to evolve an art of living based on something more than response to material stimuli. The beginnings of a primitive philosophic life policy were emerging. A supernatural standard of living was about to appear, for, if the spirit ghost in anger visits ill luck and in pleasure good fortune, then must human conduct be regulated accordingly. The concept of right and wrong had at last evolved; and all of this long before the times of any revelation on earth.
 	> 
-	> “With the emergence of these concepts, there was initiated the long and wasteful struggle to appease the ever-displeased spirits, the slavish bondage to evolutionary religious fear, that long waste of human effort upon tombs, temples, sacrifices, and priesthoods. It was a terrible and frightful price to pay, but it was worth all it cost, for man therein achieved a natural consciousness of relative right and wrong; human ethics was born!” [UB 86:6.6](/en/The_Urantia_Book/86#p6_6)
+	> “With the emergence of these concepts, there was initiated the long and wasteful struggle to appease the ever-displeased spirits, the slavish bondage to evolutionary religious fear, that long waste of human effort upon tombs, temples, sacrifices, and priesthoods. It was a terrible and frightful price to pay, but it was worth all it cost, for man therein achieved a natural consciousness of relative right and wrong; human ethics was born!” [UB 86:6.6-7](/en/The_Urantia_Book/86#p6_6)
 6. All religions teach worship.
 	> “All religions teach the worship of Deity and some doctrine of human salvation. The Buddhist religion promises salvation from suffering, unending peace; the Jewish religion promises salvation from difficulties, prosperity predicated on righteousness; the Greek religion promised salvation from disharmony, ugliness, by the realization of beauty; Christianity promises salvation from sin, sanctity; Mohammedanism provides deliverance from the rigorous moral standards of Judaism and Christianity. The religion of Jesus is salvation from self, deliverance from the evils of creature isolation in time and in eternity.” [UB 5:4.5](/en/The_Urantia_Book/5#p4_5)
 
@@ -97,7 +97,7 @@ Author: **William S. Sadler**
 	> “Worship is for its own sake; prayer embodies a self- or creature-interest element; that is the great difference between worship and prayer. There is absolutely no self-request or other element of personal interest in true worship; we simply worship God for what we comprehend him to be. Worship asks nothing and expects nothing for the worshiper. We do not worship the Father because of anything we may derive from such veneration; we render such devotion and engage in such worship as a natural and spontaneous reaction to the recognition of the Father’s matchless personality and because of his lovable nature and adorable attributes.” [UB 5:3.3](/en/The_Urantia_Book/5#p3_3)
 3. Worship tunes the soul to the Father’s broadcasts.
 	> “Prayer is the breath of the spirit life in the midst of the material civilization of the races of mankind. Worship is salvation for the pleasure-seeking generations of mortals.
-	> “As prayer may be likened to recharging the spiritual batteries of the soul, so worship may be compared to the act of tuning in the soul to catch the universe broadcasts of the infinite spirit of the Universal Father.” [UB 144:4.7](/en/The_Urantia_Book/144#p4_7)
+	> “As prayer may be likened to recharging the spiritual batteries of the soul, so worship may be compared to the act of tuning in the soul to catch the universe broadcasts of the infinite spirit of the Universal Father.” [UB 144:4.7-8](/en/The_Urantia_Book/144#p4_7)
 4. Prayer can lead to worship.
 	> “Prayer led Jesus up to the supercommunion of his soul with the Supreme Rulers of the universe of universes. Prayer will lead the mortals of earth up to the communion of true worship. The soul’s spiritual capacity for receptivity determines the quantity of heavenly blessings which can be personally appropriated and consciously realized as an answer to prayer.” [UB 144:4.4](/en/The_Urantia_Book/144#p4_4)
 
@@ -127,7 +127,7 @@ Author: **William S. Sadler**
 5. Wisdom admonishes worship urge.
 	> “You must remember that feeling, not thinking, was the guiding and controlling influence in all evolutionary development. To the primitive mind there is little difference between fearing, shunning, honoring, and worshiping.
 	> 
-	> “When the worship urge is admonished and directed by wisdom—meditative and experiential thinking—it then begins to develop into the phenomenon of real religion. When the seventh adjutant spirit, the spirit of wisdom, achieves effective ministration, then in worship man begins to turn away from nature and natural objects to the God of nature and to the eternal Creator of all things natural.” [UB 85:7.2](/en/The_Urantia_Book/85#p7_2)
+	> “When the worship urge is admonished and directed by wisdom—meditative and experiential thinking—it then begins to develop into the phenomenon of real religion. When the seventh adjutant spirit, the spirit of wisdom, achieves effective ministration, then in worship man begins to turn away from nature and natural objects to the God of nature and to the eternal Creator of all things natural.” [UB 85:7.2-3](/en/The_Urantia_Book/85#p7_2)
 
 ### IX. WHAT WORSHIP DOES FOR US
 
@@ -174,7 +174,7 @@ Author: **William S. Sadler**
 	> 
 	> “Prayer is self-reminding—sublime thinking; worship is self-forgetting—superthinking. Worship is effortless attention, true and ideal soul rest, a form of restful spiritual exertion.
 	> 
-	> “Worship is the act of a part identifying itself with the Whole; the finite with the Infinite; the son with the Father; time in the act of striking step with eternity. Worship is the act of the son’s personal communion with the divine Father, the assumption of refreshing, creative, fraternal, and romantic attitudes by the human soul-spirit.” [UB 143:7.1](/en/The_Urantia_Book/143#p7_1)
+	> “Worship is the act of a part identifying itself with the Whole; the finite with the Infinite; the son with the Father; time in the act of striking step with eternity. Worship is the act of the son’s personal communion with the divine Father, the assumption of refreshing, creative, fraternal, and romantic attitudes by the human soul-spirit.” [UB 143:7.1-8](/en/The_Urantia_Book/143#p7_1)
 
 ### XII. WORSHIP ON PARADISE
 
@@ -195,7 +195,7 @@ Author: **William S. Sadler**
 
 1. Modern obstacles to worship.
 	> “Modern man is adequately self-conscious of religion, but his worshipful customs are confused and discredited by his accelerated social metamorphosis and unprecedented scientific developments. Thinking men and women want religion redefined, and this demand will compel religion to re-evaluate itself.
-	> “Modern man is confronted with the task of making more readjustments of human values in one generation than have been made in two thousand years. And this all influences the social attitude toward religion, for religion is a way of living as well as a technique of thinking.” [UB 92:7.13](/en/The_Urantia_Book/92#p7_13)
+	> “Modern man is confronted with the task of making more readjustments of human values in one generation than have been made in two thousand years. And this all influences the social attitude toward religion, for religion is a way of living as well as a technique of thinking.” [UB 92:7.13-14](/en/The_Urantia_Book/92#p7_13)
 2. Mistaken concepts of worship.
 	> “Moral conduct is always an antecedent of evolved religion and a part of even revealed religion, but never the whole of religious experience. Social service is the result of moral thinking and religious living. Morality does not biologically lead to the higher spiritual levels of religious experience. The adoration of the abstract beautiful is not the worship of God; neither is exaltation of nature nor the reverence of unity the worship of God.” [UB 5:5.4](/en/The_Urantia_Book/5#p5_4)
 3. Worship as related to mysticism.
@@ -215,7 +215,7 @@ Author: **William S. Sadler**
 > 
 > “I will give to the Lord the thanks due to his righteousness.” [Ps 7:17](/en/Bible/Psalms/7#v17).
 > 
-> “Seven times a day I praise thee.” [P[UB 119:1.4](/en/Bible/Psalms/119#v164).
+> “Seven times a day I praise thee.” [Ps 119:1-4](/en/Bible/Psalms/119#v164).
 > 
 > “And Joshua fell on his face to the earth, and worshiped.” [Josh 5:14](/en/Bible/Joshua/5#v14).
 > 

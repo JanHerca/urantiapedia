@@ -78,23 +78,23 @@ Auteur: **William S. Sadler**
 ## VI. PERSONNALITÉS SUPÉRIEURES DE L'ESPRIT INFINI
 
 1. Les Personnalités Supérieures de l'Esprit Infini sont :
-	1. Messagers solitaires.
-	2. Superviseurs de circuits universels.
-	3. Directeurs du recensement.
-	4. Aides personnelles de l'Esprit infini.
-	5. Inspecteurs associés.
-	6. Sentinelles assignées.
-	7. Guides diplômés. [LU 24:0.2](/fr/The_Urantia_Book/24#p0_2)
+	1. Messagers Solitaires.
+	2. Superviseurs des Circuits Universels.
+	3. Directeurs du Recensement.
+	4. Aides personnelles de l'Esprit Infini.
+	5. Inspecteurs Associés.
+	6. Sentinelles Affectées.
+	7. Guides de Diplômés. [LU 24:0.2](/fr/The_Urantia_Book/24#p0_2)
 
-##VII. HÔTES MESSAGER DE L'ESPACE
+## VII. HÔTES MESSAGER DE L'ESPACE
 
 1. Il existe sept groupes d'Hôtes Messagers de l'Espace :
 	1. Servites de Havona.
-	2. Conciliateurs universels.
-	3. Conseillers techniques.
-	4. Gardiens des archives du paradis.
-	5. Flûtes à bec célestes.
-	6. Compagnons morontiels.
+	2. Conciliateurs Universels.
+	3. Conseillers Techniques.
+	4. Conservateurs d’Archives au Paradis.
+	5. Archivistes Célestes.
+	6. Compagnons de la Morontia.
 	7. Compagnons du Paradis. [LU 25:0.1](/fr/The_Urantia_Book/25#p0_1)
 
 

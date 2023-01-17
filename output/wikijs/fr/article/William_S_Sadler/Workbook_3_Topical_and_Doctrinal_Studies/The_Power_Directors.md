@@ -26,7 +26,7 @@ Auteur: **William S. Sadler**
 
 1. Les Directeurs Suprêmes de Pouvoir créent sept groupes d'associés—ils sont les directeurs de l'énergie physique du grand univers. [LU 29:1.1](/fr/The_Urantia_Book/29#p1_1)
 2. Ces sept groupes sont :
-	1. Superviseurs du Centre Suprême.
+	1. Superviseurs Suprêmes de centre.
 	2. Centres de Havona.
 	3. Centres superuniversels.
 	4. Centres de l'Univers Local.
@@ -48,7 +48,7 @@ Auteur: **William S. Sadler**
 5. Les centres de pouvoir et les contrôleurs physiques ne jouent jamais. Ils sont toujours en service. [LU 29:3.5](/fr/The_Urantia_Book/29#p3_5)
 6. Il existe sept grandes divisions des Maîtres Contrôleurs Physiques :
 	1. Directeurs de pouvoir associés.
-	2. Contrôleurs mécaniques.
+	2. Contrôleurs machinaux.
 	3. Transformateurs d'énergie.
 	4. Transmetteurs d'énergie.
 	5. Associateurs primaires.

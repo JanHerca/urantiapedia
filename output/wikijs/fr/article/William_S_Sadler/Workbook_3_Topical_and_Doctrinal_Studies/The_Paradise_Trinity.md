@@ -57,7 +57,7 @@ L'effusion incarnée des Fils du Paradis sur les races mortelles est un projet d
 1. En cas de péché ou de retard, les Fils du Paradis agissent en tant que récupérateurs. [LU 7:4.5](/fr/The_Urantia_Book/7#p4_5)
 2. Les Créateurs sont les premiers à tenter de sauver l'homme des résultats de la transgression. [LU 2:5.3](/fr/The_Urantia_Book/2#p5_3)
 
-**RÉFÉRENCES BIBLIQUES** : [Isa 63:9](/fr/Bible/Isaiah/63#v9). [Hé 12:10](/fr/Bible/Hebrews/12#v10). [Je caresse 1:5](/fr/Bible/1_Peter/1#v5).
+**RÉFÉRENCES BIBLIQUES** : [Isa 63:9](/fr/Bible/Isaiah/63#v9). [Hé 12:10](/fr/Bible/Hebrews/12#v10). [1 P 1:5](/fr/Bible/1_Peter/1#v5).
 
 ## VI. LA FOI FILS DE DIEU
 
@@ -68,7 +68,7 @@ L'effusion incarnée des Fils du Paradis sur les races mortelles est un projet d
 
 **RÉFÉRENCES BIBLIQUES** : [Rom 8:14](/fr/Bible/Romans/8#v14). [Jean 3:3](/fr/Bible/John/3#v3). [II Co 5:17](/fr/Bible/2_Corinthians/5#v17). [I Jean 5:4](/fr/Bible/1_John/5#v4).
 
-##VII. LA VIE DE JÉSUS SUR TERRE
+## VII. LA VIE DE JÉSUS SUR TERRE
 
 1. Jésus veut que vous croyiez _avec_ lui plutôt qu'en lui. [LU 196:0.13](/fr/The_Urantia_Book/196#p0_13)
 2. L'idée d'expiation est une attaque philosophique à la fois contre l'unité et la volonté de Dieu. [LU 2:6.5](/fr/The_Urantia_Book/2#p6_5)
