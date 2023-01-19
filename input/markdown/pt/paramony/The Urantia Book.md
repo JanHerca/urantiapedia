@@ -217,7 +217,7 @@
 | Apostles of Jesus did not baptize                                                       | Apóstolos de Jesus não batizaram                                                      |
 | Apostles retrieve colt                                                                  | Apóstolos recuperam potro                                                             |
 | Apostles rub grain on Sabbath                                                           | Apóstolos esfregam grãos no sábado                                                    |
-| Apostles see Jesus for third time                                                       | Apóstolos veem Jesus pela terceira vez                                                |
+| Apostles see Jesus for third time                                                       | Apóstolos vêem Jesus pela terceira vez                                                |
 | Apostles sent for colt                                                                  | Apóstolos enviados para o potro                                                       |
 | Apostles sleep                                                                          | Apóstolos dormem                                                                      |
 | Apostles to be fishers of men                                                           | Apóstolos serão pescadores de homens                                                  |
@@ -405,7 +405,7 @@
 | Born of spirit                                                                          | Nascido do espírito                                                                   |
 | Born of the spirit                                                                      | Nascido do espírito                                                                   |
 | Bosom of the Father                                                                     | Seio do Pai                                                                           |
-| Both see Jesus as Messiah                                                               | Ambos veem Jesus como Messias                                                         |
+| Both see Jesus as Messiah                                                               | Ambos vêem Jesus como Messias                                                         |
 | Box of ointment                                                                         | Caixa de pomada                                                                       |
 | Boy cured                                                                               | Menino curado                                                                         |
 | Boy has convulsions                                                                     | Menino tem convulsões                                                                 |
@@ -2232,7 +2232,7 @@
 | Lord's prayer                                                                           | Oração do Senhor                                                                      |
 | Lord's Prayer                                                                           | Oração do Senhor                                                                      |
 | Lord's work is great                                                                    | A obra do Senhor é grande                                                             |
-| Losers see others eat together                                                          | Perdedores veem outros comendo juntos                                                 |
+| Losers see others eat together                                                          | Perdedores vêem outros comendo juntos                                                 |
 | Lot & Abram to Salem                                                                    | Lot & Abrão para Salém                                                                |
 | Lot to Sodom                                                                            | Lote para Sodoma                                                                      |
 | Love all men as Jesus loves them                                                        | Ame todos os homens como Jesus os ama                                                 |
