@@ -2,36 +2,36 @@
 | ------------------------------------------------------ | -------------------------------------------------------------- |
 | “By what authority do you do these things?”            | “Com que autoridade você faz essas coisas?”                    |
 | “Gods” Ashtoreth and Chemosh                           | “Deuses” Astarote e Quemós                                     |
-| “Gods” Ashtoreth and Milcom                            | “Deuses” Ashtoreth e Milcom                                    |
+| “Gods” Ashtoreth and Milcom                            | “Deuses” Astarote e Milcom                                     |
 | “Lazarus will rise.”                                   | “Lázaro ressuscitará.”                                         |
 | “Meat” to do will of Father, “work”                    | “Carne” para fazer a vontade do Pai, “trabalho”                |
 | “Temptation” of Jesus                                  | “Tentação” de Jesus                                            |
-| # 1 God is faithful                                    | #1 Deus é fiel                                                 |
+| # 1 God is faithful                                    | # 1 Deus é fiel                                                |
 | # 1 Perfect in knowledge                               | # 1 Perfeito em conhecimento                                   |
 | # 1 Pilot light                                        | # 1 Luz piloto                                                 |
 | # 1 Pilot light                                        | # 1 Luz piloto                                                 |
-| # 1 Servant of the Lord                                | #1 Servo do Senhor                                             |
+| # 1 Servant of the Lord                                | # 1 Servo do Senhor                                            |
 | # 1 Takes a city                                       | # 1 Toma uma cidade                                            |
 | # 2 Eyes of Lord every place                           | # 2 Olhos do Senhor em todos os lugares                        |
-| # 2 God's laws are just                                | # 2 As leis de Deus são apenas                                 |
-| # 2 Light of life                                      | #2 Luz da vida                                                 |
-| # 2 The Son of Man                                     | #2 O Filho do Homem                                            |
+| # 2 God's laws are just                                | # 2 As leis de Deus são justas                                 |
+| # 2 Light of life                                      | # 2 Luz da vida                                                |
+| # 2 The Son of Man                                     | # 2 O Filho do Homem                                           |
 | 10 Taboos                                              | 10 tabus                                                       |
 | 10th Woe                                               | 10º Ai                                                         |
 | 12 legions of angels & others                          | 12 legiões de anjos e outros                                   |
 | 2,000 souls added to kingdom                           | 2.000 almas adicionadas ao reino                               |
 | 24 Counselors                                          | 24 Conselheiros                                                |
 | 2d Gethsemane prayer                                   | 2ª oração do Getsêmani                                         |
-| 3 disciples chosen                                     | discípulos escolhidos                                          |
+| 3 disciples chosen                                     | 3 discípulos escolhidos                                        |
 | 30 pieces of silver                                    | 30 peças de prata                                              |
-| 3d prayer, 3d sleep                                    | oração 3d, sono 3d                                             |
+| 3d prayer, 3d sleep                                    | 3ª oração, 3° sono                                             |
 | 40 days alone                                          | 40 dias sozinho                                                |
 | A god of great wrath, fierce anger                     | Um deus de grande ira, raiva feroz                             |
 | A new heaven & new earth                               | Um novo céu e nova terra                                       |
 | About John the Baptist                                 | Sobre João Batista                                             |
 | All nations to be blessed                              | Todas as nações serão abençoadas                               |
 | Alpheus twins: James & Judas                           | Gêmeos Alfeu: Tiago e Judas                                    |
-| Also known as Thaddeus & Lebbeus                       | Também conhecido como Tadeu e Lebeu                            |
+| Also known as Thaddeus & Lebbeus                       | Também conhecidos como Tadeu e Lebeu                           |
 | Amenemope wrote first Psalm                            | Amenemope escreveu o primeiro Salmo                            |
 | Amos' threat & warning                                 | Ameaça e aviso de Amós                                         |
 | Angels going up & down                                 | Anjos subindo e descendo                                       |
@@ -45,25 +45,25 @@
 | Ask — receive                                          | Peça - receba                                                  |
 | Barren fig tree                                        | Figueira estéril                                               |
 | Be like God and live                                   | Seja como Deus e viva                                          |
-| Be you Perfect                                         | Seja você perfeito                                             |
+| Be you Perfect                                         | Seja perfeito                                                  |
 | Become a byword                                        | Torne-se um sinônimo                                           |
 | Become as child in spirit                              | Torne-se como uma criança em espírito                          |
 | Become as child in spirit                              | Torne-se como uma criança em espírito                          |
 | Becomes cornerstone                                    | Torna-se pedra angular                                         |
 | Before all things...all things consist                 | Antes de todas as coisas... todas as coisas consistem          |
-| Beginning, 23d Psalm                                   | Começo, Salmo 23d                                              |
+| Beginning, 23d Psalm                                   | Começo, 23° Salmo                                              |
 | BEHOLD THE MAN                                         | OLHA O HOMEM                                                   |
 | Belief counted as righteousness                        | Crença contada como justiça                                    |
 | Believe end sudden, spectacular                        | Acredite no fim repentino, espetacular                         |
 | Believe truth, have eternal life                       | Acredite na verdade, tenha a vida eterna                       |
 | Believe, see glory of God                              | Acredite, veja a glória de Deus                                |
-| Believers lonely w/o new heart                         | Crentes solitários sem novo coração                            |
-| Better —heavenly— country                              | Melhor —celestial— país                                        |
+| Believers lonely w/o new heart                         | Crentes solitários sem coração novo                            |
+| Better —heavenly— country                              | Melhor país —celestial—                                        |
 | Bildad, second friend                                  | Bildade, segundo amigo                                         |
 | Blessed is he who comes —                              | Bem-aventurado aquele que vem –                                |
 | Blessed is the womb                                    | Abençoado é o ventre                                           |
 | Blind lead the blind                                   | Cego guia o cego                                               |
-| Book of Job                                            | Livro de Trabalho                                              |
+| Book of Job                                            | Livro de Jó                                                    |
 | Breath of life                                         | Sopro de vida                                                  |
 | Bring in first fruits                                  | Traga os primeiros frutos                                      |
 | Broad & narrow ways                                    | Caminhos largos e estreitos                                    |
