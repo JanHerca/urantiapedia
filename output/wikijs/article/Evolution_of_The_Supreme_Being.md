@@ -11,8 +11,8 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ```mermaid
 flowchart TD
     GS["
-        <b>God the Supreme
-        (spirit person)</b>
+        God the Supreme
+        (spirit person)
         
         Initially, God the Supreme
         existed only as potential in
@@ -38,10 +38,10 @@ flowchart TD
         finite universes.
         (10, 11, 12, 641. 1282)"]
     AS["
-        <b>The Almighty
+        The Almighty
         Supreme
         (non-personal
-        activity)</b>
+        activity)
 
         The Almighty
         Supreme is now
@@ -63,8 +63,8 @@ flowchart TD
         (11 . 12, 1264, 1268, 1270,
         1274, 1304)"]
     SM["
-        <b>The Supreme Mind
-        (mind activity)</b>
+        The Supreme Mind
+        (mind activity)
 
         The Supreme Mind of
         time and space is the
@@ -91,7 +91,7 @@ flowchart TD
         1576)
     "]
     U["
-        <b>Unification of the Supreme Being.</b>
+        Unification of the Supreme Being.
 
         In a far distant future time, the spirit person of the Supreme (God the
         Supreme) and the attained power of the Almighty Supreme Will have
