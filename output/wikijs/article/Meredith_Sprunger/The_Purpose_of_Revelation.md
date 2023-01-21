@@ -1,6 +1,6 @@
 ---
 title: The Purpose of Revelation
-description: A Response to Martin Gardner's "Urantia: The Great Cult Mystery"
+description: "A Response to Martin Gardner's “Urantia: The Great Cult Mystery”"
 published: true
 date: 2022-09-24T16:59:40.682Z
 tags: revelation, the urantia book, the urantia book—purpose, purpose, gardner
