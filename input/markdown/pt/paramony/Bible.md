@@ -77,14 +77,14 @@
 | Came to reveal Father                                  | Veio para revelar o Pai                                        |
 | Can any good thing come ...                            | Alguma coisa boa pode vir...                                   |
 | Can any good thing, Nazareth                           | Pode alguma coisa boa, Nazaré                                  |
-| Cannot see my face..                                   | Não consigo ver meu rosto..                                    |
+| Cannot see my face..                                   | Não consigo ver minha face..                                   |
 | Champions                                              | Campeões                                                       |
 | Change of mind by faith: new birth                     | Mudança de mentalidade pela fé: novo nascimento                |
-| Charge: go preach to the world                         | Charge: vá pregar ao mundo                                     |
-| Child-like faith / trust                               | Fé/confiança infantil                                          |
-| Childlike faith: spiritual simplicity                  | Fé infantil: simplicidade espiritual                           |
+| Charge: go preach to the world                         | Missão: vá pregar ao mundo                                     |
+| Child-like faith / trust                               | Fé/confiança como de criança                                   |
+| Childlike faith: spiritual simplicity                  | Fé de criança: simplicidade espiritual                         |
 | Children of the Most High                              | Filhos do Altíssimo                                            |
-| Cites prophecy Ho 11:1                                 | Cita a profecia Os 11:1                                        |
+| Cites prophecy Ho 11:1                                 | Cita profecia Os 11:1                                          |
 | Cites prophecy Is 42:1-4                               | Cita profecia Is 42:1-4                                        |
 | Cites prophecy Is 53:4                                 | Cita profecia Is 53:4                                          |
 | Cites prophecy Is 6:9-10                               | Cita profecia Is 6:9-10                                        |
@@ -97,7 +97,7 @@
 | Cites prophecy Ps 78:2                                 | Cita a profecia Sl 78:2                                        |
 | Cites prophecy Zc 11:12                                | Cita profecia Zc 11:12                                         |
 | Cites prophecy Zc 9:9                                  | Cita profecia Zc 9:9                                           |
-| City: builder, maker, is God                           | Cidade: construtor, construtor, é Deus                         |
+| City: builder, maker, is God                           | Cidade: edificador, construtor, é Deus                         |
 | Clean outside dirty inside                             | Limpa por fora suja por dentro                                 |
 | Cleanse congregation's sins                            | Purifique os pecados da congregação                            |
 | Cleanse individual sins                                | Purifique os pecados individuais                               |
@@ -105,12 +105,12 @@
 | Cleanse trespasses                                     | Limpar transgressões                                           |
 | Coming down from heaven                                | Descendo do céu                                                |
 | Commingle good & evil, die                             | Misture o bem e o mal, morra                                   |
-| Commit to Him keeping of souls                         | Comprometa-se com Ele guardando as almas                       |
-| Competing “gods” Ashtaroth                             | Competindo “deuses” Ashtaroth                                  |
-| Competing “gods” Baal                                  | Baal de “deuses” concorrentes                                  |
-| Competing “gods” Baal, Ashtaroth                       | Competindo “deuses” Baal, Ashtaroth                            |
-| Competing “gods” Molech                                | Competindo “deuses” Moloque                                    |
-| Contrite mind & humble spirit                          | Mente contrito e espírito humilde                              |
+| Commit to Him keeping of souls                         | Confie a Ele a guarda das almas                                |
+| Competing “gods” Ashtaroth                             | “deuses” concorrentes, Astarote                                |
+| Competing “gods” Baal                                  | “deuses” concorrentes, Baal                                    |
+| Competing “gods” Baal, Ashtaroth                       | “deuses” concorrentes, Baal, Astarote                          |
+| Competing “gods” Molech                                | “deuses” concorrentes, Moloque                                 |
+| Contrite mind & humble spirit                          | Mente contrita e espírito humilde                              |
 | Correcting views of God                                | Corrigindo visões de Deus                                      |
 | Created male & female                                  | Criado masculino e feminino                                    |
 | Creator speaks                                         | Criador fala                                                   |
@@ -124,15 +124,15 @@
 | Destroy temple, make another                           | Destrua o templo, faça outro                                   |
 | Did fish swallow Jonah?                                | O peixe engoliu Jonas?                                         |
 | Disciples consoled                                     | Discípulos consolados                                          |
-| Disciples given chance to quit                         | Discípulos dada a chance de desistir                           |
+| Disciples given chance to quit                         | Discípulos foi dada a chance de desistir                       |
 | Disciples, follow me                                   | Discípulos, sigam-me                                           |
 | Discourse on master & servant                          | Discurso sobre mestre e servo                                  |
 | Divorce                                                | Divórcio                                                       |
 | Do same spiritually                                    | Faça o mesmo espiritualmente                                   |
 | Don't prolong childhood                                | Não prolongue a infância                                       |
-| Don't seethe kid in mother's milk                      | Não veja a criança no leite materno                            |
+| Don't seethe kid in mother's milk                      | Não cozerás o cabrito no leite materno                         |
 | Drink pleasures, see light                             | Beba prazeres, veja a luz                                      |
-| Dwell in high, holy place                              | Habitar em alto, lugar santo                                   |
+| Dwell in high, holy place                              | Habitar no alto, lugar santo                                   |
 | Easy way out                                           | Saída fácil                                                    |
 | Education of parents                                   | Educação dos pais                                              |
 | Eighth Woe                                             | Oitavo Ai                                                      |
