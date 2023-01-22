@@ -2,21 +2,60 @@
 title: Tests de Jan en Markdown
 description: 
 published: true
-date: 2022-09-12T09:12:29.765Z
+date: 2023-01-10T23:17:53.799Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-12T09:12:29.765Z
 ---
 
-# Header
+## JM Graph Data Model Extended
 
 
-GROUP | CASE |||
---- | --- | --- | ---
-I (A) | 1 <br>A | &nbsp; | &nbsp;
-A (AX) | 2 <br> AR | 3 <br> ARO | &nbsp;
-&nbsp; | 4 <br> ARB | 5 <br> ARBO | &nbsp;
-&nbsp; | 6 <br> | 7 <br> ABO | 8 <br> AO
-III (X) | 9 <br> R | 10 <br> RO | &nbsp;
-&nbsp; | 11 <br> RB | 12 <br> RBO | &nbsp;
-&nbsp; | 13 <br> B | 14 <br> BO | 15 <br> O
+```mermaid
+classDiagram
+    Person --> Person : Relative of
+    Person --> Person : Parent of
+    Person --> Person : Child of
+    Person --> Group : Member of
+    Person --> Relationship : Is part of
+    Person --> Event : Participate in
+    Person --> Event : Related to
+    Person --> Presentation : Described in
+    Person --> Topic : Related to
+    Person --> Order : Belongs to
+    Group --> Event : Participate in
+    Group --> Event : Related to
+    Group --> Presentation : Described in
+    Group --> Location : Visit
+    Topic --> Presentation : Describe in
+    Topic --> Event : Related to
+    Relationship --> Presentation : Described in
+    Relationship --> Event : Related to
+    Event --> Presentation : Described in
+    Event --> Time : Occur on
+    Event --> Location : Occur at
+    Time --> Presentation : Described in
+    Time --> Age : Occur in
+    Location --> Presentation : Described in
+    Object --> Location : Located at
+    Object --> Topic : Related to
+    Object --> Presentation : Describe in
+    Object --> Event : Related to
+    Order --> Presentation : Described in
+    Order --> Location : Found in
+    Race --> Presentation : Described in
+    Race --> Location : Extended at
+    Race --> Religion : Believed in
+    Religion --> Presentation : Described in
+    Religion --> God : Related to
+    God --> Presentation : Described in
+    More --> Presentation : Described in
+    More --> Race : Practiced by
+    More --> Religion : Contained in
+    Age --> Presentation : Described in
+    Animal --> Presentation : Described in
+    Animal --> Race : Used by
+    Plant --> Presentation : Described in
+    Plant --> Race : Used by
+    Presentation
+```
