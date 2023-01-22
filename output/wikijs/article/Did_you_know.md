@@ -27,4 +27,4 @@ Smolin, L. "The Life of the Cosmos." (Oxford University Press, 1997)
 
 ## External links
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_4/page15.html
+- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_4/page15.html

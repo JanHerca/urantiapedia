@@ -1,5 +1,5 @@
 ---
-title: Editorial: "Martin Gardner's Urantia, The Great Cult Mystery"
+title: "Editorial: Martin Gardner's Urantia, The Great Cult Mystery"
 description: 
 published: true
 date: 2022-09-24T17:02:12.028Z
@@ -20,4 +20,4 @@ An old proverb states that what we don't know about we need not worry about. But
 
 ## External links
 
--   Article in Innerface International: [https://urantia-book.org/archive/newsletters/innerface/vol3\_1/page2.html](https://urantia-book.org/archive/newsletters/innerface/vol3_1/page2.html)
+- Article in Innerface International: [https://urantia-book.org/archive/newsletters/innerface/vol3\_1/page2.html](https://urantia-book.org/archive/newsletters/innerface/vol3_1/page2.html)
