@@ -69,7 +69,7 @@
 | Broad & narrow ways                                    | Caminhos largos e estreitos                                    |
 | By loving fellows as Jesus did)                        | Ao amar os companheiros como Jesus fez)                        |
 | By word of the Lord: creation                          | Pela palavra do Senhor: criação                                |
-| Cain slays Able                                        | Caim mata Able                                                 |
+| Cain slays Able                                        | Caim mata Abel                                                 |
 | Call no man “father”                                   | Não chame nenhum homem de “pai”                                |
 | Came to bring abundant life                            | Veio para trazer vida abundante                                |
 | Came to bring gladness                                 | Veio trazer alegria                                            |
