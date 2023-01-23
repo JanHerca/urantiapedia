@@ -138,23 +138,23 @@
 | Eighth Woe                                             | Oitavo Ai                                                      |
 | Eliphaz, the first friend                              | Elifaz, o primeiro amigo                                       |
 | Embalming, burial                                      | Embalsamamento, enterro                                        |
-| End, 23d Psalm                                         | Fim, Salmo 23d                                                 |
+| End, 23d Psalm                                         | Fim, 23° Salmo                                                 |
 | Ended by singing hymn                                  | Terminou cantando hino                                         |
-| Eternal / everlasting life                             | Vida eterna / eterna                                           |
+| Eternal / everlasting life                             | Vida eterna / perene                                           |
 | Eye, light of body                                     | Olho, luz do corpo                                             |
 | Eyes:are the windows of soul                           | Olhos: são as janelas da alma                                  |
 | Ezekiel: service / devotion                            | Ezequiel: serviço / devoção                                    |
-| Faith, hope, & charity                                 | Fé esperança caridade                                          |
+| Faith, hope, & charity                                 | Fé, esperança e caridade                                       |
 | Faithful in little / faithful in much                  | Fiel no pouco / Fiel no muito                                  |
 | Fate of hearers & believers                            | Destino dos ouvintes e crentes                                 |
-| Father & Jesus work                                    | Trabalho Pai e Jesus                                           |
+| Father & Jesus work                                    | Trabalho do Pai e de Jesus                                     |
 | Father & Son glorified                                 | Pai e Filho glorificados                                       |
-| Father & Son know all things                           | Pai e filho sabem todas as coisas                              |
+| Father & Son know all things                           | Pai e Filho sabem todas as coisas                              |
 | Father gives sunshine & rain                           | Pai dá sol e chuva                                             |
 | Father in Son in Father                                | Pai no Filho no Pai                                            |
 | Father in Son in us                                    | Pai no Filho em nós                                            |
 | Father of light, no variableness                       | Pai da luz, sem variação                                       |
-| Father's will becomes your will                        | A vontade do pai se torna a sua vontade                        |
+| Father's will becomes your will                        | A vontade do Pai se torna a sua vontade                        |
 | Fear and obey God                                      | Temer e obedecer a Deus                                        |
 | Fear not, I am wih you                                 | Não tenha medo, eu estou com você                              |
 | Fear of Lord, begins wisdom                            | Temor do Senhor, começa a sabedoria                            |
@@ -170,7 +170,7 @@
 | Five loaves, two fishes                                | Cinco pães, dois peixes                                        |
 | Follow the spirit, live forever                        | Siga o espírito, viva para sempre                              |
 | Foretold death, resurrection                           | Predisse a morte, ressurreição                                 |
-| Found (not) wanting                                    | Encontrado (não) querendo                                      |
+| Found (not) wanting                                    | (Não) encontrado em falta                                      |
 | Fourth Woe                                             | Quarto Ai                                                      |
 | Freely receive, freely give, love                      | Receba de graça, dê de graça, ame                              |
 | Fret not because of evildoers                          | Não se preocupe por causa dos malfeitores                      |
@@ -190,22 +190,22 @@
 | God judges secrets                                     | Deus julga segredos                                            |
 | God looks at both inner & outer                        | Deus olha tanto para o interior como para o exterior           |
 | God not far                                            | Deus não está longe                                            |
-| God not for Hebrews in war                             | Deus não para hebreus em guerra                                |
+| God not for Hebrews in war                             | Deus não apoia hebreus em guerra                               |
 | God of power, judgment,                                | Deus de poder, julgamento,                                     |
 | God withholds no good thing                            | Deus não retém nenhuma coisa boa                               |
 | God: maker, preserver                                  | Deus: criador, preservador                                     |
 | God's divine character deep, wise                      | O caráter divino de Deus profundo, sábio                       |
-| God's spirit in you (T/A)                              | O espírito de Deus em você (T/A)                               |
-| God's Spirit in you (T/A)                              | O Espírito de Deus em você (T/A)                               |
+| God's spirit in you (T/A)                              | O espírito de Deus em você (Ajustador dos Pensamentos)         |
+| God's Spirit in you (T/A)                              | O Espírito de Deus em você (Ajustador dos Pensamentos)         |
 | God/Son no respecter of persons                        | Deus/Filho não faz acepção de pessoas                          |
-| Good man satisfied w/in self                           | Bom homem satisfeito c/em si mesmo                             |
-| Good to give thanks                                    | Bom para agradecer                                             |
+| Good man satisfied w/in self                           | Bom homem satisfeito consigo mesmo                             |
+| Good to give thanks                                    | É bom agradecer                                                |
 | Goodness of God / repentance                           | Bondade de Deus / arrependimento                               |
 | Gospel of Salvation of God                             | Evangelho da Salvação de Deus                                  |
 | Great peace to lovers of law                           | Grande paz para os amantes da lei                              |
 | Greeks: man is falling                                 | Gregos: o homem está caindo                                    |
 | Hasty temper / folly                                   | Temperamento precipitado / loucura                             |
-| Have an ear, hear theSpirit                            | Tenha um ouvido, ouça o Espírito                               |
+| Have an ear, hear the Spirit                           | Tem um ouvido, ouça o Espírito                                 |
 | He knows name, number of stars                         | Ele sabe nome, número de estrelas                              |
 | He knows your frame: dust                              | Ele conhece seu quadro: poeira                                 |
 | He who rules own spirit, mighty                        | Aquele que governa o próprio espírito, poderoso                |
