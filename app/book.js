@@ -223,7 +223,7 @@ class Book {
 		const strRefs = [];
 		const strRefs2 = [];
 		refs.forEach(ref => {
-			const data = ref.split(':').map(d => parseInt(d));
+			const data = ref.split('.').map(d => parseInt(d));
 			const invalid = (data.find(d => isNaN(d)) != null);
 			let str;
 			if (invalid || data.length == 0) {
@@ -242,9 +242,9 @@ class Book {
 					const pref = par.par_ref;
 					const ref = par.par_pageref;
 					const index = strRefs.findIndex(r => ref.startsWith(r));
-					if (index != -1 && strRefs2.indexOf(par.par_ref) == -1) {
-						strRefs2.push(par.par_ref);
-						result.push(this.getRef(par.par_ref));
+					if (index != -1 && strRefs2.indexOf(pref) == -1) {
+						strRefs2.push(pref);
+						result.push(this.getRef(pref));
 					}
 				});
 			});

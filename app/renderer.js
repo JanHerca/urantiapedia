@@ -75,8 +75,8 @@ const controls = {
 	lblSearchOldRefs: '', txtSearchOldRefs: '', 
 	lblSearchNewRefs: '', txtSearchNewRefs: '',
 	lblSearchText: '', txtSearchText: '',
-	lblSearchFile: '', fnSearch: '', fnSearchButton: '',
-	lblSearchFolder: '', dirSearch: '', dirSearchButton: '',
+	lblSearchFile: '', fnSearch: '', fnSearchButton: '', fnClearButton: '',
+	lblSearchFolder: '', dirSearch: '', dirSearchButton: '', dirClearButton: '',
 	btnSearch: '', spinSearchLoading: '', igrSearch: '',
 	btnAddQuotes: '', spinSearchAdding: '', igrAddQuotes: '',
 	lblSearchLan: '', drpSearchLan: '',
@@ -192,7 +192,9 @@ const onLoad = () => {
 		[c.drpTopics, 'change', handle_drpTopicsChange],
 		//Search
 		[c.fnSearchButton, 'click', handle_fnSearchButton],
+		[c.fnClearButton, 'click', handle_fnClearButton],
 		[c.dirSearchButton, 'click', handle_dirSearchButton],
+		[c.dirClearButton, 'click', handle_dirClearButton],
 		[c.igrSearch, 'click', handle_SearchExecution],
 		[c.igrAddQuotes, 'click', handle_igrAddQuotesClick],
 		[c.drpSearchLan, 'change', handle_SearchExecution],
@@ -975,6 +977,10 @@ const handle_fnSearchButton = (evt) => {
 	});
 };
 
+const handle_fnClearButton = (evt) => {
+	controls.fnSearch.value = '';
+};
+
 const handle_dirSearchButton = (evt) => {
 	dialog.showOpenDialog({
 		title: strSelectFolder,
@@ -986,6 +992,10 @@ const handle_dirSearchButton = (evt) => {
 			controls.dirSearch.value = dirPath;
 		}
 	});
+};
+
+const handle_dirClearButton = (evt) => {
+	controls.dirSearch.value = '';
 };
 
 const handle_SearchExecution = (evt) => {
@@ -1081,41 +1091,103 @@ const loadSearchBooks = () => {
 };
 
 const executeSearch = (lines) => {
-	//TODO: Use old refs
 	//TODO: Use text to filter
 	//TODO: Use folder (same as file): we need to add here a separator with filename
-	
-	const refs = [];
+	const txtOldRefs = controls.txtSearchOldRefs.value;
+	const txtNewRefs = controls.txtSearchNewRefs.value;
+	let finalContent = '';
+
+	//Unhandle
+	$(controls.lbxSearchResultLan).find('button').off('click');
+
+	//Clean
+	controls.lbxSearchResultLan.innerHTML = '';
+
+	//Fill listbox
 	if (lines) {
-		getRefsInLines(lines).forEach(arr => extendArray(refs, arr));
+		lines.forEach(line => {
+			finalContent += getSearchParsForLine(line);
+		});
 	} else {
-		//TODO: if old refs add to refs array as modern refs
-		const oldRefs = controls.txtSearchOldRefs.value
-			.split(';').map(s => s.trim());
-		extendArray(refs, controls.txtSearchNewRefs.value
-			.split(';').map(s => s.trim()));
+		if (txtOldRefs != '') {
+			const oldRefs = txtOldRefs.split(';').map(s => s.trim());
+			finalContent += getSearchParsForOldRefs(oldRefs);
+		}
+		if (txtNewRefs != '') {
+			const newRefs = txtNewRefs.split(';').map(s => s.trim());
+			finalContent += getSearchParsForNewRefs(newRefs);
+		}
 	}
+	controls.lbxSearchResultLan.innerHTML = finalContent;
 
-	if (refs.length > 0) {
-		//Unhandle
-		$(controls.lbxSearchResultLan).find('button').off('click');
-
-		//Fill listbox
-		controls.lbxSearchResultLan.innerHTML = refs.map(r => {
-			const refs1 = bookSearch.getArrayOfRefs([r]);
-			const refs2 = bookSearch2.getArrayOfRefs([r]);
-			return refs1
-				.map((rr, j) => getSearchPars(rr, refs2[j], r))
-				.join('');
-		}).join('');
-
-		//Handle
+	//Handle
+	if (finalContent != '') {
 		$(controls.lbxSearchResultLan).find('button').on('click', function(evt) {
 			const text = $(evt.currentTarget).attr('data-text');
 			clipboard.writeText(text);
 			evt.stopPropagation();
 		});
 	}
+};
+
+const getSearchParsForLine = (line) => {
+	const refs = getRefsInLines([line])[0];
+	const obj = getOldRefsInLines([line])[0];
+	const classes = ['alert', 'alert-info', 'mx-0', 'my-0', 'px-0', 'py-0'];
+
+	if (refs.length === 0 && obj.refs.length === 0) return '';
+
+	//File line
+	let finalLine = line;
+	obj.quotes.forEach(q => {
+		if (finalLine.indexOf(q) != -1) {
+			const parts = finalLine.split(q);
+			finalLine = parts.join(`<b>${q}</b>`);
+		}
+	});
+	const lineText = createBookParsFn({
+		rowclass: classes,
+		errclass: classes,
+		pars: [finalLine, ''],
+		refs: [obj.refs.join('; ') + '; ' + refs.join(';'), ''],
+		textToCopy: ['', ''],
+		linkToCopy: ['', '']
+	});
+	//Old refs
+	const oldRefsContent = getSearchParsForOldRefs(obj.refs, obj.quotes);
+	//New refs
+	const newRefsContent = getSearchParsForNewRefs(refs);
+	return lineText + oldRefsContent + newRefsContent;
+};
+
+const getSearchParsForOldRefs = (oldRefs, quotes) => {
+	let ocontent = oldRefs.map(r => {
+		const refs1 = bookSearch.getArrayOfRefsFromOldRefs([r]);
+		const refs2 = bookSearch2.getArrayOfRefsFromOldRefs([r]);
+		return refs1
+			.map((rr, j) => getSearchPars(rr, refs2[j], r, true))
+			.join('');
+	}).join('');
+	if (quotes) {
+		quotes.forEach(q => {
+			if (ocontent.indexOf(q) != -1) {
+				const parts = ocontent.split(q);
+				ocontent = parts.join(`<b>${q}</b>`);
+			}
+		});
+	}
+	return ocontent;
+};
+
+const getSearchParsForNewRefs = (newRefs) => {
+	const content = newRefs.map(r => {
+		const refs1 = bookSearch.getArrayOfRefs([r]);
+		const refs2 = bookSearch2.getArrayOfRefs([r]);
+		return refs1
+			.map((rr, j) => getSearchPars(rr, refs2[j], r, false))
+			.join('');
+	}).join('');
+	return content;
 };
 
 const getRefsInLines = (lines) => {
@@ -1129,22 +1201,45 @@ const getRefsInLines = (lines) => {
 	});
 };
 
-const getSearchPars = (r1, r2, r) => {
+const getOldRefsInLines = (lines) => {
+	const refRegEx = new RegExp('\\(\\d{1,4}(\\.\\d{1,2})?\\)', 'g');
+	const quoteRegEx = new RegExp('"([^"]*)"|“([^”]*)”|«([^»]*)»', 'g');
+	return lines.map(line => {
+		const refsMatched = line.match(refRegEx);
+		const quotesMatched = line.match(quoteRegEx);
+		return {
+			refs: (refsMatched ? 
+				[...new Set(refsMatched)].map(m => m.replace(/[\(|\)]/g,'')) : 
+				[]),
+			quotes: (quotesMatched ?
+				quotesMatched.map(m => m.replace(/["“”«»]/g, '')) : [])
+		};
+	});
+};
+
+const getSearchPars = (r1, r2, r, old) => {
+	const copyType = controls.drpSearchCopyType.value;
 	const errs1 = [], errs2 = [];
 	const par1 = bookSearch.toParInHTML(r1, errs1);
 	const par2 = bookSearch2.toParInHTML(r2, errs2);
 	const par1Plain = getParPlain(bookSearch, r1);
 	const par2Plain = getParPlain(bookSearch2, r2);
-	const ref1 = (r1 ? ` [${r1[0]}:${r1[1]}.${r1[2]}]` : 
+	const oldref = (old ? ' (' + r + ')' : '');
+	const ref1 = (r1 ? ` [${r1[0]}:${r1[1]}.${r1[2]}]` + oldref : 
 		(errs1.join(';') + ': [' + r + ']'));
-	const ref2 = (r2 ? ` [${r2[0]}:${r2[1]}.${r2[2]}]` : 
+	const ref2 = (r2 ? ` [${r2[0]}:${r2[1]}.${r2[2]}]` + oldref : 
 		(errs2.join(';') + ': [' + r + ']'));
+	const link1 = getParLink(bookSearch, r1, copyType);
+	const link2 = getParLink(bookSearch, r2, copyType);
+	
 	return createBookParsFn({
+		rowClass: [],
 		errclass: (r1 == null || r2 == null ? 
 			['alert', 'alert-danger', 'mb-0', 'py-0'] : []),
 		pars: [par1, par2],
 		refs: [ref1, ref2],
-		similars: [par1Plain, par2Plain]
+		textToCopy: [par1Plain, par2Plain],
+		linkToCopy: [link1, link2]
 	});
 };
 
@@ -1168,6 +1263,26 @@ const getParPlain = (book, ref) => {
 	return parPlain;
 };
 
+const getParLink = (book, ref, copyType) => {
+	if (!ref) return '';
+	const lan = book.language;
+	const bookAbb = Strings.bookAbb[lan];
+	const linkPLPattern = `/${lan}/The_Urantia_Book/{0}#p{1}_{2}`;
+	const p = `${bookAbb} {0}:{1}.{2}`;
+	const linkMDPattern = `[${p}](/${lan}/The_Urantia_Book/{0}#p{1}_{2})`;
+	const linkHTMLPattern = 
+		`<a href="/${lan}/The_Urantia_Book/{0}#p{1}_{2}">${p}</a>`;
+	
+	let pattern = linkHTMLPattern;
+
+	if (copyType === copyTypes[0]) {
+		pattern = linkPLPattern;
+	} else if (copyType === copyTypes[1]) {
+		pattern = linkMDPattern;
+	}
+	return strformat(pattern, ref[0], ref[1], ref[2]);
+};
+
 const setSearchSearching = (searching) => {
 	const uilan = settings.language;
 	$(controls.spinSearchLoading).toggleClass('d-none', !searching);
@@ -1181,7 +1296,7 @@ const setSearchAdding = (adding) => {
 	const uilan = settings.language;
 	$(controls.spinSearchAdding).toggleClass('d-none', !adding);
 	const t = (adding ? 'btnAddQuotes_adding' : 'btnAddQuotes');
-	$(controls,btnAddQuotes).text(Strings[t][uilan]);
+	$(controls.btnAddQuotes).text(Strings[t][uilan]);
 	$(controls.igrSearch).find('button').attr('disabled', 
 	adding ? 'disabled' : null);
 };
@@ -1455,6 +1570,8 @@ const showTILinesUB = () => {
 
 		const ref1 = (r1 ? ` [${r1[0]}:${r1[1]}.${r1[2]}]` : '');
 		const ref2 = (r2 ? ` [${r2[0]}:${r2[1]}.${r2[2]}]` : '');
+		const linkref1 = getParLink(bookEdit, r1, copyTypes[0]);
+		const linkref2 = getParLink(bookEdit2, r2, copyTypes[0]);
 
 		//Highlight and show a Copy button in the sentence most similar to current
 		// This is only available when one language is english and the other not
@@ -1487,11 +1604,13 @@ const showTILinesUB = () => {
 		}
 		
 		return createBookParsFn({
+			rowClass: [],
 			errclass: (r1 == null || r2 == null ? 
 				['alert', 'alert-danger', 'mb-0', 'py-0'] : []),
 			pars: [par1, par2],
 			refs: [ref1, ref2],
-			similars: [similarSen1, similarSen2]
+			textToCopy: [similarSen1, similarSen2],
+			linkToCopy: [linkref1, linkref2]
 		});
 	};
 	const refs1 = bookEdit.getArrayOfRefs(line1.refs);

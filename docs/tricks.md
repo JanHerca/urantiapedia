@@ -86,6 +86,8 @@
 * „  ”
 * Search end of sentences: [\.”\?!] 
 * Search by page ref: `"par_pageref": "359.\d+"` in `./input/json/book-e*-footnotes`
+* Search existing old UB refs: `\(\d{1,4}(\.\d{1,2})?\)`
+* Search existing new UB refs: `(\d{1,3}):(\d{1,2})(\.\d{1,3})?(-\d{1,3})?`
 
 
 ## VS Code tricks
