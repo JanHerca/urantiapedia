@@ -145,6 +145,13 @@ omissions in quotes:
 * english . . .
 * spanish [...]
 
+## Pandoc
+
+Convert Word file to Markdown:
+- Open Powershell terminal.
+- Ensure Pandoc is installed with `pandoc -h`
+- Convert with: `pandoc -t markdown_mmd --extract-media . <word_file>.docx -o <md_file>.md` (it is required to be inside the folder with the files)
+
 ## Other tools
 
 * Test regular expressions: https://regex101.com/

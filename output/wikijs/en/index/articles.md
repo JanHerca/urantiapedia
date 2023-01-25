@@ -19,8 +19,7 @@ Sources: See [References](#references)
 | :ballot_box_with_check: | [A Letter to Astronomers and Astrophysicists – 2016](/en/article/A_Letter_to_Astronomers_and_Astrophysicists)              |                   | Astronomy, Cosmology                                                                |
 | :ballot_box_with_check: | [A History of the Urantia Movement](/en/article/William_S_Sadler/A_History_of_the_Urantia_Movement)                        | William S. Sadler | The Urantia Book, The Urantia Book—Authorship                                       |
 
-1- This article is a 2017 update from original article published in Fellowship
-Herald, Vol 2. No. 1 and 2
+<small>1 - This article is a 2017 update from original article published in Fellowship Herald, Vol 2. No. 1 and 2</small>
 
 ## Innerface International
 
@@ -713,25 +712,39 @@ Source:
 - https://urantia-book.org/archive/newsletters/herald/
 - https://urantiabook.org/Research-Resources?filter=Fellowship-Herald#arc-ArchiveHdr##arc-ArchiveHdr#
 
-### Volume 1
+### Volume 1, Number 1, 1998 (Fall)
 
-| Status                | Source | Issue          | Title                                                         | Author            | Tags |
-| --------------------- | ------ | -------------- | ------------------------------------------------------------- | ----------------- | ---- |
-| :white_square_button: | Herald | Vol. 01, No. 1 | On the Brink of the Most Amazing and Enthralling Epoch        | Carolyn Kendall   |
-| :white_square_button: | Herald | Vol. 01, No. 1 | Let Your Soul Decide                                          | Richard S. Omura  |
-| :white_square_button: | Herald | Vol. 01, No. 1 | The Urantia Papers From a Jewish Perspective                  | Martin Greenhut   |
-| :white_square_button: | Herald | Vol. 01, No. 1 | The Concepts of Trust and Hope in _The Urantia Book_          | Marilyn Kulieke   |
-| :white_square_button: | Herald | Vol. 01, No. 1 | 48 Chromosomes - Are We Asking the Right Questions?           | Ken Glasziou      |
-| :white_square_button: | Herald | Vol. 01, No. 2 | The Challenge of the 21st Century                             | Meredith Sprunger |
-| :white_square_button: | Herald | Vol. 01, No. 2 | On Facing Millennial Change                                   | Byron Belitsos    |
-| :white_square_button: | Herald | Vol. 01, No. 2 | Magisterial Missions                                          | Behzad Sarmast    |
-| :white_square_button: | Herald | Vol. 01, No. 2 | Springtime: A Study of the Future                             | Henry Begemann    |
-| :white_square_button: | Herald | Vol. 01, No. 2 | Whither Goest Thou, Woman?                                    | Jeanne Melchior   |
-| :white_square_button: | Herald | Vol. 01, No. 2 | The Seven Psychic Circles                                     | Linda Buselli     |
-| :white_square_button: | Herald | Vol. 01, No. 2 | On Removing The Barrier To A Civilized Discussion Of Eugenics | Stephen           |
-| :white_square_button: | Herald | Vol. 01, No. 2 | The Basket - A Poem                                           | Charlene Morrow   |
+![](/image/article/Herald_covers/Herald1998Fall.jpg)
 
-### Volume 2
+
+| Status                  | Source | Issue          | Title                                                                                                                            | Author            | Tags |
+| ----------------------- | ------ | -------------- | -------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---- |
+| :ballot_box_with_check: | Herald | Vol. 01, No. 1 | [On the Brink of the Most Amazing and Enthralling Epoch](/en/article/Carolyn_Kendall/On_the_Brink_of_The_Most_Amazing)           | Carolyn Kendall   |      |
+| :ballot_box_with_check: | Herald | Vol. 01, No. 1 | [Let Your Soul Decide](/en/article/Richard_S_Omura/Let_our_Soul_Decide)                                                          | Richard S. Omura  |      |
+| :ballot_box_with_check: | Herald | Vol. 01, No. 1 | [The Urantia Papers From a Jewish Perspective](/en/article/Martin_Greenhut/The_Urantia_Papers_From_a_Jewish_Perspective)         | Martin Greenhut   |      |
+| :ballot_box_with_check: | Herald | Vol. 01, No. 1 | [The Concepts of Trust and Hope in _The Urantia Book_](/en/article/Marilyn_Kulieke/Trust_and_Hope_in_The_Urantia_Book)           | Marilyn Kulieke   |      |
+| :ballot_box_with_check: | Herald | Vol. 01, No. 1 | [48 Chromosomes - Are We Asking the Right Questions?](/en/article/Ken_Glasziou/48_Chromosomes_Are_We_Asking_the_Right_Questions) | Ken Glasziou      |      |
+
+
+### Volume 1, Number 2, 1999 (Spring)
+
+![](/image/article/Herald_covers/Herald1999Spring.jpg)
+
+
+| Status                  | Source | Issue          | Title                                                                                                                            | Author            | Tags |
+| ----------------------- | ------ | -------------- | -------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---- |
+| :white_square_button:   | Herald | Vol. 01, No. 2 | The Challenge of the 21st Century                                                                                                | Meredith Sprunger |      |
+| :white_square_button:   | Herald | Vol. 01, No. 2 | On Facing Millennial Change                                                                                                      | Byron Belitsos    |      |
+| :white_square_button:   | Herald | Vol. 01, No. 2 | Magisterial Missions                                                                                                             | Behzad Sarmast    |      |
+| :white_square_button:   | Herald | Vol. 01, No. 2 | Springtime: A Study of the Future                                                                                                | Henry Begemann    |      |
+| :white_square_button:   | Herald | Vol. 01, No. 2 | Whither Goest Thou, Woman?                                                                                                       | Jeanne Melchior   |      |
+| :white_square_button:   | Herald | Vol. 01, No. 2 | The Seven Psychic Circles                                                                                                        | Linda Buselli     |      |
+| :white_square_button:   | Herald | Vol. 01, No. 2 | On Removing The Barrier To A Civilized Discussion Of Eugenics                                                                    | Stephen           |      |
+| :white_square_button:   | Herald | Vol. 01, No. 2 | The Basket - A Poem                                                                                                              | Charlene Morrow   |      |
+
+### Volume 2, Number 1, 1999 (Winter)
+
+![](/image/article/Herald_covers/Herald1999Winter.jpg)
 
 | Status                  | Source | Issue          | Title                                                                                                                          | Author                  | Tags                                   |
 | ----------------------- | ------ | -------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------- | -------------------------------------- |
@@ -739,6 +752,13 @@ Source:
 | :ballot_box_with_check: | Herald | Vol. 02, No. 1 | [Two Cosmologies — Astronomy and The Urantia Book](/en/article/Irwin_Ginsburgh/Two_Cosmologies_Astronomy_and_The_Urantia_Book) | Irwin Ginsburgh         | The Urantia Book, Astronomy, Cosmology |
 | :white_square_button:   | Herald | Vol. 02, No. 1 | Reflections on cosmic citizenship                                                                                              | Stephen Dreier          |
 | :white_square_button:   | Herald | Vol. 02, No. 1 | The Dual Nature of Supremacy                                                                                                   | Linda Buselli           |
+
+### Volume 2, Number 2, 2000 (Summer)
+
+![](/image/article/Herald_covers/Herald2000.jpg)
+
+| Status                  | Source | Issue          | Title                                                                                                                          | Author                  | Tags                                   |
+| ----------------------- | ------ | -------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------- | -------------------------------------- |
 | :white_square_button:   | Herald | Vol. 02, No. 2 | Thinking About Tomorrow                                                                                                        | Carolyn Kendall         |
 | :white_square_button:   | Herald | Vol. 02, No. 2 | Restated in Modern Phraseology                                                                                                 | David Elders            |
 | :white_square_button:   | Herald | Vol. 02, No. 2 | Scientific Predictions of _The Urantia Book_ - Part II                                                                         | Irwin Ginsburgh         |
@@ -747,7 +767,9 @@ Source:
 | :white_square_button:   | Herald | Vol. 02, No. 2 | The Ethics of Genetic Control and Social Engineering                                                                           | Charles Laurence Olivea |
 | :white_square_button:   | Herald | Vol. 02, No. 2 | The Intellectual Role of _The Urantia Book_                                                                                    | Stephen                 |
 
-### Volume 3
+### Volume 3, Number 1, 2001 (Summer)
+
+![](/image/article/Herald_covers/Herald2001.jpg)
 
 | Status                | Source | Issue          | Title                                                      | Author             | Tags |
 | --------------------- | ------ | -------------- | ---------------------------------------------------------- | ------------------ | ---- |
@@ -756,7 +778,9 @@ Source:
 | :white_square_button: | Herald | Vol. 03, No. 1 | Universal Religion: An Interfaith Presentation             | Les Jamieson       |
 | :white_square_button: | Herald | Vol. 03, No. 1 | Ethical Eugenics: A Modest Proposal For The 21st Century   | Charles Montgomery |
 
-### Volume 4
+### Volume 4, Number 1, 2002 (Summer)
+
+![](/image/article/Herald_covers/Herald2002.jpg)
 
 | Status                | Source | Issue          | Title                                              | Author           | Tags |
 | --------------------- | ------ | -------------- | -------------------------------------------------- | ---------------- | ---- |
@@ -773,7 +797,9 @@ Source:
 | :white_square_button: | Herald | Vol. 04, No. 1 | Religious Practice and the Urantia Revelation      | Byron Belitsos   |
 | :white_square_button: | Herald | Vol. 04, No. 1 | The Gift of Tolerance                              | Karen Larson     |
 
-### Volume 5
+### Volume 5, Number 1, 2003 (Summer)
+
+![](/image/article/Herald_covers/Herald2003.jpg)
 
 | Status                | Source | Issue          | Title                                       | Author                      | Tags |
 | --------------------- | ------ | -------------- | ------------------------------------------- | --------------------------- | ---- |
@@ -787,6 +813,13 @@ Source:
 | :white_square_button: | Herald | Vol. 05, No. 1 | The Origin of the Spiritual Fellowship      | Meredith Sprunger           |
 | :white_square_button: | Herald | Vol. 05, No. 1 | A Dialogue About The Kingdom                | Claudia Ayers and Lee Smith |
 | :white_square_button: | Herald | Vol. 05, No. 1 | Anti-Terror Treatise                        | Stephen Zendt               |
+
+### Volume 5, Number 2, 2004 (Summer)
+
+![](/image/article/Herald_covers/Herald2004.jpg)
+
+| Status                | Source | Issue          | Title                                                         | Author              | Tags |
+| --------------------- | ------ | -------------- | ------------------------------------------------------------- | ------------------- | ---- |
 | :white_square_button: | Herald | Vol. 05, No. 2 | Illumination/Transformation                 | Doreen Heyne                |
 | :white_square_button: | Herald | Vol. 05, No. 2 | An Essay on Hope                            | David Kantor                |
 | :white_square_button: | Herald | Vol. 05, No. 2 | The Rise of Spiritual Technology            | Richard Omura               |
@@ -797,7 +830,9 @@ Source:
 | :white_square_button: | Herald | Vol. 05, No. 2 | The Golden Rule in Business                 | Larry Mullins               |
 | :white_square_button: | Herald | Vol. 05, No. 2 | The Lighter Side                            | Charles Montgomery          |
 
-### Volume 6
+### Volume 6, Number 1, 2005 (Summer)
+
+![](/image/article/Herald_covers/Herald2005.jpg)
 
 | Status                | Source | Issue          | Title                                                         | Author              | Tags |
 | --------------------- | ------ | -------------- | ------------------------------------------------------------- | ------------------- | ---- |
@@ -815,7 +850,9 @@ Source:
 | :white_square_button: | Herald | Vol. 06, No. 1 | Science Cannot Replace Religion                               | Dr. Antti Roine     |
 | :white_square_button: | Herald | Vol. 06, No. 1 | A Reed Singing                                                | Dave Holt           |
 
-### Volume 7
+### Volume 7, Number 1, 2006 (Summer)
+
+![](/image/article/Herald_covers/Herald2006.jpg)
 
 | Status                | Source | Issue          | Title                                                | Author                 | Tags |
 | --------------------- | ------ | -------------- | ---------------------------------------------------- | ---------------------- | ---- |
@@ -826,7 +863,9 @@ Source:
 | :white_square_button: | Herald | Vol. 07, No. 1 | What is Personality?                                 | Berkeley Elliott       |
 | :white_square_button: | Herald | Vol. 07, No. 1 | The Coming Scientific Validation of The Urantia Book | Dr. Philip Calabrese   |
 
-### Volume 8
+### Volume 8, Number 1, 2007 (Summer)
+
+![](/image/article/Herald_covers/Herald2007.jpg)
 
 | Status                | Source | Issue          | Title                                       | Author               | Tags |
 | --------------------- | ------ | -------------- | ------------------------------------------- | -------------------- | ---- |
@@ -840,7 +879,9 @@ Source:
 | :white_square_button: | Herald | Vol. 08, No. 1 | Loving Service                              | Phil Taylor          |
 | :white_square_button: | Herald | Vol. 08, No. 1 | The Kingdom and the Supreme                 | David Kantor         |
 
-### Volume 9
+### Volume 9, Number 1, 2008 (Summer)
+
+![](/image/article/Herald_covers/Herald2008.jpg)
 
 | Status                | Source | Issue          | Title                                             | Author                 | Tags |
 | --------------------- | ------ | -------------- | ------------------------------------------------- | ---------------------- | ---- |
@@ -857,7 +898,9 @@ Source:
 | :white_square_button: | Herald | Vol. 09, No. 1 | The Roots of Morality                             | Henry Begemann         |
 | :white_square_button: | Herald | Vol. 09, No. 1 | Casting Pearls Before Personality                 | David Elders           |
 
-### Volume 10
+### Volume 10, Number 1, 2009 (Summer)
+
+![](/image/article/Herald_covers/Herald2009.jpg)
 
 | Status                | Source | Issue          | Title                                                      | Author           | Tags |
 | --------------------- | ------ | -------------- | ---------------------------------------------------------- | ---------------- | ---- |
@@ -874,7 +917,9 @@ Source:
 | :white_square_button: | Herald | Vol. 10, No. 1 | Urantia University - U2                                    | David Nash       |
 | :white_square_button: | Herald | Vol. 10, No. 1 | Our Creative Deities—A Supreme Relationship                | Linda Buselli    |
 
-### Volume 11
+### Volume 11, Number 1, 2010 (Summer)
+
+![](/image/article/Herald_covers/Herald2010.jpg)
 
 | Status                | Source | Issue          | Title                                                       | Author                          | Tags |
 | --------------------- | ------ | -------------- | ----------------------------------------------------------- | ------------------------------- | ---- |
@@ -888,42 +933,50 @@ Source:
 | :white_square_button: | Herald | Vol. 11, No. 1 | The Problem of Business                                     | Dan Amyx                        |
 | :white_square_button: | Herald | Vol. 11, No. 1 | Crouching Deity/Hidden Supreme                              | Bob Debold                      |
 
-### Volume 12
+### Volume 11, Number 2, 2011 (Summer)
+
+![](/image/article/Herald_covers/Herald2011.jpg)
 
 | Status                | Source | Issue          | Title                                                      | Author                           | Tags |
 | --------------------- | ------ | -------------- | ---------------------------------------------------------- | -------------------------------- | ---- |
-| :white_square_button: | Herald | Vol. 12, No. 1 | The First Epochal Revelation in American Indian Traditions | Dave Holt                        |
-| :white_square_button: | Herald | Vol. 12, No. 1 | The Power of The Name of Jesus                             | Charles Laurence Olivea          |
-| :white_square_button: | Herald | Vol. 12, No. 1 | Machiventa Melchizedek                                     | One of History's Mysteries       |
-| :white_square_button: | Herald | Vol. 12, No. 1 | Getting Closer to God                                      | Approaching The Universal Father |
-| :white_square_button: | Herald | Vol. 12, No. 1 | One Man's Tour Through The Evolutionary Debate             |                                  |
+| :white_square_button: | Herald | Vol. 11, No. 2 | The First Epochal Revelation in American Indian Traditions | Dave Holt                        |
+| :white_square_button: | Herald | Vol. 11, No. 2 | The Power of The Name of Jesus                             | Charles Laurence Olivea          |
+| :white_square_button: | Herald | Vol. 11, No. 2 | Machiventa Melchizedek                                     | One of History's Mysteries       |
+| :white_square_button: | Herald | Vol. 11, No. 2 | Getting Closer to God                                      | Approaching The Universal Father |
+| :white_square_button: | Herald | Vol. 11, No. 2 | One Man's Tour Through The Evolutionary Debate             |                                  |
 
-### Volume 13
+### Volume 12, Number 1, 2012 (Summer)
+
+![](/image/article/Herald_covers/Herald2012.jpg)
 
 | Status                | Source | Issue          | Title                                                                          | Author           | Tags |
 | --------------------- | ------ | -------------- | ------------------------------------------------------------------------------ | ---------------- | ---- |
-| :white_square_button: | Herald | Vol. 13, No. 1 | Souls on Purpose: The Personal Creed Project                                   | John Creger      |
-| :white_square_button: | Herald | Vol. 13, No. 1 | Evolutionary Spirituality                                                      | Steve Macintosh  |
-| :white_square_button: | Herald | Vol. 13, No. 1 | Urantia, 606 of Satania: Concerning the Inhabited Worlds of the Satania System | Israel Dix       |
-| :white_square_button: | Herald | Vol. 13, No. 1 | Perfecting, Neuroplasticity, and the Supreme Actualizing                       | Lawrence Schkade |
-| :white_square_button: | Herald | Vol. 13, No. 1 | Race and The Urantia Book                                                      | Earlene Green    |
-| :white_square_button: | Herald | Vol. 13, No. 1 | Religion of Experience vs Religion of Authority                                | Richard S. Omura |
-| :white_square_button: | Herald | Vol. 13, No. 1 | The Forgotten Urantian: Dr. Lena Sadler                                        | Larry Mullins    |
-| :white_square_button: | Herald | Vol. 13, No. 1 | Cosmology in the Light of The Urantia Book                                     | Philip Calabrese |
+| :white_square_button: | Herald | Vol. 12, No. 1 | Souls on Purpose: The Personal Creed Project                                   | John Creger      |
+| :white_square_button: | Herald | Vol. 12, No. 1 | Evolutionary Spirituality                                                      | Steve Macintosh  |
+| :white_square_button: | Herald | Vol. 12, No. 1 | Urantia, 606 of Satania: Concerning the Inhabited Worlds of the Satania System | Israel Dix       |
+| :white_square_button: | Herald | Vol. 12, No. 1 | Perfecting, Neuroplasticity, and the Supreme Actualizing                       | Lawrence Schkade |
+| :white_square_button: | Herald | Vol. 12, No. 1 | Race and The Urantia Book                                                      | Earlene Green    |
+| :white_square_button: | Herald | Vol. 12, No. 1 | Religion of Experience vs Religion of Authority                                | Richard S. Omura |
+| :white_square_button: | Herald | Vol. 12, No. 1 | The Forgotten Urantian: Dr. Lena Sadler                                        | Larry Mullins    |
+| :white_square_button: | Herald | Vol. 12, No. 1 | Cosmology in the Light of The Urantia Book                                     | Philip Calabrese |
 
-### Volume 14
+### Volume 13, Number 1, 2013 (Summer)
 
-| Status                | Source | Issue          | Title                                                                        | Author               | Tags |
-| --------------------- | ------ | -------------- | ---------------------------------------------------------------------------- | -------------------- | ---- |
-| :white_square_button: | Herald | Vol. 14, No. 1 | Spiritual Genetics                                                           | Steve Dreier         |
-| :white_square_button: | Herald | Vol. 14, No. 1 | Religion of One                                                              | Rev. Gary Deinstadt  |
-| :white_square_button: | Herald | Vol. 14, No. 1 | A Cosmology of Race                                                          | Charles Olivea       |
-| :white_square_button: | Herald | Vol. 14, No. 1 | Exploring the Inner Life                                                     | Dave Holt            |
-| :white_square_button: | Herald | Vol. 14, No. 1 | Spiritual Faith, Uncertainty, and Cosmic Citizenship                         | David Kantor         |
-| :white_square_button: | Herald | Vol. 14, No. 1 | Moods, Music and Magic of The Urantia Book                                   | David Glass          |
-| :white_square_button: | Herald | Vol. 14, No. 1 | A Statistical Test of the Hypothesis of Human Authorship of The Urantia Book | Dr. Philip Calabrese |
+![](/image/article/Herald_covers/Herald2013.jpg)
 
-### Volume 15
+| Status                | Source | Issue          | Title                                                                                    | Author              | Tags |
+| --------------------- | ------ | -------------- | ---------------------------------------------------------------------------------------- | ------------------- | ---- |
+| :white_square_button: | Herald | Vol. 13, No. 1 | Spiritual Genetics                                                                       | Steve Dreier        |
+| :white_square_button: | Herald | Vol. 13, No. 1 | Religion of One                                                                          | Rev. Gary Deinstadt |
+| :white_square_button: | Herald | Vol. 13, No. 1 | A Cosmology of Race                                                                      | Charles Olivea      |
+| :white_square_button: | Herald | Vol. 13, No. 1 | Exploring the Inner Life                                                                 | Dave Holt           |
+| :white_square_button: | Herald | Vol. 13, No. 1 | Spiritual Faith, Incertainty and Cosmic Citizenship                                      | David Kantor        |
+| :white_square_button: | Herald | Vol. 13, No. 1 | Moods, Music and Magic of The Urantia Book                                               | David Glass         |
+| :white_square_button: | Herald | Vol. 13, No. 1 | A Statistical Test of the Hypothesis the That Urantia Book was authored by a Human Being | Philip Calabrese    |
+
+### Volume 14, Number 1, 2014 (Summer)
+
+![](/image/article/Herald_covers/Herald2014.jpg)
 
 | Status                | Source | Issue          | Title                                                                           | Author          | Tags |
 | --------------------- | ------ | -------------- | ------------------------------------------------------------------------------- | --------------- | ---- |
@@ -935,7 +988,9 @@ Source:
 | :white_square_button: | Herald | Vol. 15, No. 1 | Spiritual Unity                                                                 | Richard Goodman |
 | :white_square_button: | Herald | Vol. 15, No. 1 | Prayer? Why Bother?                                                             | Linda Buselli   |
 
-### Volume 16
+### Volume 15, Number 1, 2015 (Summer)
+
+![](/image/article/Herald_covers/Herald2015.jpg)
 
 | Status                | Source | Issue          | Title                                        | Author                  | Tags |
 | --------------------- | ------ | -------------- | -------------------------------------------- | ----------------------- | ---- |
@@ -948,7 +1003,11 @@ Source:
 | :white_square_button: | Herald | Vol. 16, No. 1 | Society Evolving: Chaos, Progress, and Order | Lawrence Schkade        |
 | :white_square_button: | Herald | Vol. 16, No. 1 | The Importance of Christian Ministry         | Preston Thomas          |
 
-### Volume 17
+
+
+### Volume 16, Number 1, 2016 (Summer)
+
+![](/image/article/Herald_covers/Herald2016.jpg)
 
 | Status                | Source | Issue          | Title                                                                           | Author                                | Tags |
 | --------------------- | ------ | -------------- | ------------------------------------------------------------------------------- | ------------------------------------- | ---- |
@@ -962,7 +1021,10 @@ Source:
 | :white_square_button: | Herald | Vol. 17, No. 1 | Healing Meditation—A Poem                                                       | K. Brendi Poppel                      |
 | :white_square_button: | Herald | Vol. 17, No. 1 | The Nature of Personal Reality                                                  | Byron Belitsos                        |
 
-### Volume 18
+### Volume 17, Number 1, 2017 (Summer)
+
+
+![](/image/article/Herald_covers/Herald2017.jpg)
 
 | Status                | Source | Issue          | Title                                                                       | Author                  | Tags |
 | --------------------- | ------ | -------------- | --------------------------------------------------------------------------- | ----------------------- | ---- |
@@ -976,7 +1038,9 @@ Source:
 | :white_square_button: | Herald | Vol. 18, No. 1 | What Does The Urantia Book Tell Us Needs to be Accomplished?                | David Kantor            |
 | :white_square_button: | Herald | Vol. 18, No. 1 | Twelve Ways I Hear From God                                                 | Richard Rosen           |
 
-### Volume 19
+### Volume 18, Number 1, 2018 (Summer)
+
+![](/image/article/Herald_covers/Herald2018.jpg)
 
 | Status                | Source | Issue          | Title                                              | Author                         | Tags |
 | --------------------- | ------ | -------------- | -------------------------------------------------- | ------------------------------ | ---- |
@@ -990,7 +1054,9 @@ Source:
 | :white_square_button: | Herald | Vol. 19, No. 1 | The Supreme Being in My Life                       | Yvon Gagne                     |
 | :white_square_button: | Herald | Vol. 19, No. 1 | The Eden-Atlantis Project                          | Commodore Robert Stanley Bates |
 
-### Volume 20
+### Volume 19, Number 1, 2019 (Summer)
+
+![](/image/article/Herald_covers/Herald2019.jpg)
 
 | Status                | Source | Issue          | Title                                                 | Author                                                               | Tags |
 | --------------------- | ------ | -------------- | ----------------------------------------------------- | -------------------------------------------------------------------- | ---- |
@@ -1009,11 +1075,13 @@ Source:
 | :white_square_button: | Herald | Vol. 20, No. 1 | Mobilizing a Dispensation of Planetary Rehabilitation | David Kantor                                                         |
 | :white_square_button: | Herald | Vol. 20, No. 1 | Pipeline of Light                                     |                                                                      |
 
-### Volume 21
+### Volume 20, Number 1, 2020 (Summer)
+
+![](/image/article/Herald_covers/Herald2020.jpg)
 
 | Status                | Source | Issue          | Title                                                                   | Author                                   | Tags |
 | --------------------- | ------ | -------------- | ----------------------------------------------------------------------- | ---------------------------------------- | ---- |
-| :white_square_button: | Herald | Vol. 21, No. 1 | Avi Dogim, Emilio Coppola, and Steve Dreier,                            | Larry Bowman                             |
+| :white_square_button: | Herald | Vol. 21, No. 1 | Avi Dogim, Emilio Coppola, and Steve Dreier                             | Larry Bowman                             |
 | :white_square_button: | Herald | Vol. 21, No. 1 | From the Supreme to the Three Person’d God: Seven Levels of Total Deity | Dave Holt                                |
 | :white_square_button: | Herald | Vol. 21, No. 1 | Growing the Supreme                                                     | Michael Hill                             |
 | :white_square_button: | Herald | Vol. 21, No. 1 | Adoration of the Mother                                                 | Joshua Wilson                            |
@@ -1025,7 +1093,9 @@ Source:
 | :white_square_button: | Herald | Vol. 21, No. 1 | Cosmic Canoe                                                            | Tom Choquette and Christilyn Biek Larson |
 | :white_square_button: | Herald | Vol. 21, No. 1 | Remembering Those Who Have Gone On                                      | John Hales                               |
 
-### Volume 22
+### Volume 21, Number 1, 2021 (Summer)
+
+![](/image/article/Herald_covers/Herald2021.jpg)
 
 | Status                | Source | Issue          | Title                                                           | Author                           | Tags |
 | --------------------- | ------ | -------------- | --------------------------------------------------------------- | -------------------------------- | ---- |

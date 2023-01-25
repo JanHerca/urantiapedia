@@ -1040,7 +1040,7 @@ const handle_igrAddQuotesClick = (evt) => {
 				//Get UB pars
 				const additions = refs.map(r => {
 					const refs2 = bookSearch2.getArrayOfRefs([r]);
-					if (refs2.length > 7) {
+					if (refs2.length > 20) {
 						return '**TOO MANY PARAGRAPHS IN QUOTE**';
 					}
 					return '**' + refs2.map(r2 => {
@@ -1091,8 +1091,8 @@ const loadSearchBooks = () => {
 };
 
 const executeSearch = (lines) => {
-	//TODO: Use text to filter
 	//TODO: Use folder (same as file): we need to add here a separator with filename
+	const text = controls.txtSearchText.value;
 	const txtOldRefs = controls.txtSearchOldRefs.value;
 	const txtNewRefs = controls.txtSearchNewRefs.value;
 	let finalContent = '';
@@ -1111,40 +1111,58 @@ const executeSearch = (lines) => {
 	} else {
 		if (txtOldRefs != '') {
 			const oldRefs = txtOldRefs.split(';').map(s => s.trim());
-			finalContent += getSearchParsForOldRefs(oldRefs);
+			finalContent += getSearchParsForOldRefs(oldRefs, null, text);
 		}
 		if (txtNewRefs != '') {
 			const newRefs = txtNewRefs.split(';').map(s => s.trim());
-			finalContent += getSearchParsForNewRefs(newRefs);
+			finalContent += getSearchParsForNewRefs(newRefs, text);
 		}
 	}
 	controls.lbxSearchResultLan.innerHTML = finalContent;
 
 	//Handle
 	if (finalContent != '') {
-		$(controls.lbxSearchResultLan).find('button').on('click', function(evt) {
-			const text = $(evt.currentTarget).attr('data-text');
-			clipboard.writeText(text);
-			evt.stopPropagation();
-		});
+		$(controls.lbxSearchResultLan).find('button').on('click', 
+			function(evt) {
+				const dtext = $(evt.currentTarget).attr('data-text');
+				clipboard.writeText(dtext);
+				evt.stopPropagation();
+			});
 	}
 };
 
+const highlightPar = (line, quotes, text) => {
+	const pattern = `<span class="text-primary">{0}</span>`;
+	const text2 = (!text || text === '' ? null : strformat(pattern, text));
+	let finalLine = line;
+	if (quotes && quotes.length > 0) {
+		quotes.forEach(q => {
+			if (finalLine.indexOf(q) != -1) {
+				let q2 = q;
+				let parts = finalLine.split(q);
+				if (text2) {
+					q2 = q.replace(text, tex2);
+					parts = parts.map(p => p.replace(text, text2));
+				}
+				finalLine = parts.join(`<b>${q2}</b>`);
+			}
+		});
+	} else if (text2) {
+		finalLine = line.replace(text, text2);
+	}
+	return finalLine;
+};
+
 const getSearchParsForLine = (line) => {
+	const text = controls.txtSearchText.value;
 	const refs = getRefsInLines([line])[0];
 	const obj = getOldRefsInLines([line])[0];
 	const classes = ['alert', 'alert-info', 'mx-0', 'my-0', 'px-0', 'py-0'];
 
 	if (refs.length === 0 && obj.refs.length === 0) return '';
 
-	//File line
-	let finalLine = line;
-	obj.quotes.forEach(q => {
-		if (finalLine.indexOf(q) != -1) {
-			const parts = finalLine.split(q);
-			finalLine = parts.join(`<b>${q}</b>`);
-		}
-	});
+	//Line from file
+	const finalLine = highlightPar(line, obj.quotes, text);
 	const lineText = createBookParsFn({
 		rowclass: classes,
 		errclass: classes,
@@ -1154,38 +1172,32 @@ const getSearchParsForLine = (line) => {
 		linkToCopy: ['', '']
 	});
 	//Old refs
-	const oldRefsContent = getSearchParsForOldRefs(obj.refs, obj.quotes);
+	const oldRefsContent = getSearchParsForOldRefs(obj.refs, obj.quotes, text);
 	//New refs
-	const newRefsContent = getSearchParsForNewRefs(refs);
+	const newRefsContent = getSearchParsForNewRefs(refs, text);
 	return lineText + oldRefsContent + newRefsContent;
 };
 
-const getSearchParsForOldRefs = (oldRefs, quotes) => {
-	let ocontent = oldRefs.map(r => {
+const getSearchParsForOldRefs = (oldRefs, quotes, text) => {
+	const content = oldRefs.map(r => {
 		const refs1 = bookSearch.getArrayOfRefsFromOldRefs([r]);
 		const refs2 = bookSearch2.getArrayOfRefsFromOldRefs([r]);
-		return refs1
-			.map((rr, j) => getSearchPars(rr, refs2[j], r, true))
-			.join('');
+		return refs1.map((rr, j) => {
+			const par = getSearchPars(rr, refs2[j], r, true);
+			return highlightPar(par, quotes, text);
+		}).join('');
 	}).join('');
-	if (quotes) {
-		quotes.forEach(q => {
-			if (ocontent.indexOf(q) != -1) {
-				const parts = ocontent.split(q);
-				ocontent = parts.join(`<b>${q}</b>`);
-			}
-		});
-	}
-	return ocontent;
+	return content;
 };
 
-const getSearchParsForNewRefs = (newRefs) => {
+const getSearchParsForNewRefs = (newRefs, text) => {
 	const content = newRefs.map(r => {
 		const refs1 = bookSearch.getArrayOfRefs([r]);
 		const refs2 = bookSearch2.getArrayOfRefs([r]);
-		return refs1
-			.map((rr, j) => getSearchPars(rr, refs2[j], r, false))
-			.join('');
+		return refs1.map((rr, j) => {
+			const par = getSearchPars(rr, refs2[j], r, false);
+			return highlightPar(par, null, text);
+		}).join('');
 	}).join('');
 	return content;
 };
