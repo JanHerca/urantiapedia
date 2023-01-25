@@ -731,16 +731,15 @@ Source:
 ![](/image/article/Herald_covers/Herald1999Spring.jpg)
 
 
-| Status                  | Source | Issue          | Title                                                                                                                            | Author            | Tags |
-| ----------------------- | ------ | -------------- | -------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---- |
-| :white_square_button:   | Herald | Vol. 01, No. 2 | The Challenge of the 21st Century                                                                                                | Meredith Sprunger |      |
-| :white_square_button:   | Herald | Vol. 01, No. 2 | On Facing Millennial Change                                                                                                      | Byron Belitsos    |      |
-| :white_square_button:   | Herald | Vol. 01, No. 2 | Magisterial Missions                                                                                                             | Behzad Sarmast    |      |
-| :white_square_button:   | Herald | Vol. 01, No. 2 | Springtime: A Study of the Future                                                                                                | Henry Begemann    |      |
-| :white_square_button:   | Herald | Vol. 01, No. 2 | Whither Goest Thou, Woman?                                                                                                       | Jeanne Melchior   |      |
-| :white_square_button:   | Herald | Vol. 01, No. 2 | The Seven Psychic Circles                                                                                                        | Linda Buselli     |      |
-| :white_square_button:   | Herald | Vol. 01, No. 2 | On Removing The Barrier To A Civilized Discussion Of Eugenics                                                                    | Stephen           |      |
-| :white_square_button:   | Herald | Vol. 01, No. 2 | The Basket - A Poem                                                                                                              | Charlene Morrow   |      |
+| Status                  | Source | Issue          | Title                                                                                                                                  | Author            | Tags |
+| ----------------------- | ------ | -------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---- |
+| :ballot_box_with_check: | Herald | Vol. 01, No. 2 | [The Challenge of the 21st Century](/en/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century_2)                         | Meredith Sprunger |      |
+| :ballot_box_with_check: | Herald | Vol. 01, No. 2 | [On Facing Millennial Change](/en/article/Byron_Belitsos/On_facing_millenial_change)                                                   | Byron Belitsos    |      |
+| :ballot_box_with_check: | Herald | Vol. 01, No. 2 | [Magisterial Missions](/en/article/Behzad_Sarmast/Magisterial_missions)                                                                | Behzad Sarmast    |      |
+| :ballot_box_with_check: | Herald | Vol. 01, No. 2 | [Springtime: A Study of the Future](/en/article/Henry_Begemann/Springtime_a_study_of_the_future)                                       | Henry Begemann    |      |
+| :ballot_box_with_check: | Herald | Vol. 01, No. 2 | [Whither Goest Thou, Woman?](/en/article/Jeanne_Melchior/Whither_Goest_Thou_Woman)                                                     | Jeanne Melchior   |      |
+| :ballot_box_with_check: | Herald | Vol. 01, No. 2 | [The Seven Psychic Circles](/en/article/Linda_Buselli/The_seven_psychic_circles)                                                       | Linda Buselli     |      |
+| :ballot_box_with_check: | Herald | Vol. 01, No. 2 | [On Removing The Barrier To A Civilized Discussion Of Eugenics](/en/article/Stephen/On_removing_the_barrier_to_discussion_of_eugenics) | Stephen           |      |
 
 ### Volume 2, Number 1, 1999 (Winter)
 
@@ -748,10 +747,10 @@ Source:
 
 | Status                  | Source | Issue          | Title                                                                                                                          | Author                  | Tags                                   |
 | ----------------------- | ------ | -------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------- | -------------------------------------- |
-| :white_square_button:   | Herald | Vol. 02, No. 1 | The Family: Birthplace of Cosmic Citizens                                                                                      | Paul Snider             |
+| :ballot_box_with_check: | Herald | Vol. 02, No. 1 | [The Family: Birthplace of Cosmic Citizens](/en/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizens)                  | Paul Snider             |                                        |
 | :ballot_box_with_check: | Herald | Vol. 02, No. 1 | [Two Cosmologies — Astronomy and The Urantia Book](/en/article/Irwin_Ginsburgh/Two_Cosmologies_Astronomy_and_The_Urantia_Book) | Irwin Ginsburgh         | The Urantia Book, Astronomy, Cosmology |
-| :white_square_button:   | Herald | Vol. 02, No. 1 | Reflections on cosmic citizenship                                                                                              | Stephen Dreier          |
-| :white_square_button:   | Herald | Vol. 02, No. 1 | The Dual Nature of Supremacy                                                                                                   | Linda Buselli           |
+| :ballot_box_with_check: | Herald | Vol. 02, No. 1 | [Reflections on cosmic citizenship](/en/article/Stephen_Dreier/Reflections_on_cosmic_citizenship)                              | Stephen Dreier          |                                        |
+| :ballot_box_with_check: | Herald | Vol. 02, No. 1 | [The Dual Nature of Supremacy](/en/article/Linda_Buselli/The_Dual_Nature_of_Supremacy)                                         | Linda Buselli           |                                        |
 
 ### Volume 2, Number 2, 2000 (Summer)
 

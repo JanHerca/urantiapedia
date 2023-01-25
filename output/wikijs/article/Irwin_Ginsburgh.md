@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T11:12:37.284Z
 
 ## Bio
 
-Irwin Ginsburgh is a Ph.D. physicist. His book, First Man! The Adam, was published by Simon and Schuster. Among the letters he received from readers, there were several that suggested he read _The Urantia Book_. This is how, he says, the book "found" him. He has been a reader for twenty years, and writes commentary on science and _The Urantia Book_.
+Irwin Ginsburgh is a Ph.D. physicist with more than fifty U.S. patents. His childhood studies of the Bible and his university studies of evolution had raised in his mind a concern about the obvious conflict in our society regarding the origin of mankind. He ultimately concluded that the two versions fit well together if one assumes that Adam and Eve were superhumans from some other world. His book on this subject, First Man! The Adam, was published by Simon and Schuster. Among the letters he received from readers, there were several that suggested he read _The Urantia Book_. This is how, he says, the book "found" him. He has been a reader for twenty years, and writes commentary on science and _The Urantia Book_.
 
 ## Articles
 
