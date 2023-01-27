@@ -267,143 +267,137 @@ Author: **William S. Sadler**
 
 **[THE LIFE OF JESUS AS COMPARED WITH THE FOUR GOSPELS](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels)**
 
-PRINCIPAL DIVISIONS OF THE LIFE OF JESUS
+**[PRINCIPAL DIVISIONS OF THE LIFE OF JESUS](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#principal-divisions-of-the-life-of-jesus)**
 
 [INTRODUCTION](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#introduction)
 
-1.   [The Bestowal of Michael on Urantia.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-120-the-bestowal-of-michael-on-urantia)  
-2.   [The Times of Michael’s Bestowal.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-121-the-times-of-michaels-bestowal)
+1. The Bestowal of Michael on Urantia.
+2. The Times of Michael’s Bestowal.
 
 [I. INFANCY AND CHILDHOOD OF JESUS](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#infancy-and-childhood-of-jesus)
 
-1.   [Birth and Infancy of Jesus.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-122-birth-and-infancy-of-jesus)  
-2.   [The Early Childhood of Jesus.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-123-the-early-childhood-of-jesus)  
-3.   [The Later Childhood of Jesus.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-124-the-later-childhood-of-jesus)  
-4.   [Jesus at Jerusalem.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-125-jesus-at-jerusalem)
+1. Birth and Infancy of Jesus.
+2. The Early Childhood of Jesus.
+3. The Later Childhood of Jesus.
+4. Jesus at Jerusalem.
 
 [II. ADOLESCENCE AND EARLY MANHOOD OF JESUS](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#adolescence-and-early-manhood-of-jesus)
 
-1.   [The Two Crucial Years.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-126-the-two-crucial-years)  
-2.   [The Adolescent Years.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-127-the-adolescent-years)  
-3.   [Jesus’ Early Manhood.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-128-jesus-early-manhood)  
-4.   [The Later Adult Life of Jesus.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-129-the-later-adult-life-of-jesus)
+1. The Two Crucial Years.
+2. The Adolescent Years.
+3. Jesus’ Early Manhood.
+4. The Later Adult Life of Jesus.
 
 [III. TRIP TO ROME AND THE TRANSITION YEARS](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#trip-to-rome-and-the-transition-years)
 
-1.   [On the Way to Rome.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-130-on-the-way-to-rome)  
-2.   [The World’s Religions.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-131-the-worlds-religions)  
-3.   [The Sojourn at Rome.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-132-the-sojourn-at-rome)  
-4.   [The Return from Rome.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-133-the-return-from-rome)  
-5.   [The Transition Years.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-134-the-transition-years)  
-6.   [John the Baptist.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-135-john-the-baptist)
+1. On the Way to Rome.
+2. The World’s Religions.
+3. The Sojourn at Rome.
+4. The Return from Rome.
+5. The Transition Years.
+6. John the Baptist.
 
 [IV. BAPTISM AND THE TWELVE APOSTLES](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#baptism-and-the-twelve-apostles)
 
-1.   [Baptism and the Forty Days.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-136-baptism-and-the-forty-days)  
-2.   [Tarrying Time in Galilee.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-137-tarrying-time-in-galilee)  
-3.   [Training the Kingdom’s Messengers.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-138-training-the-kingdoms-messengers)  
-4.   [The Twelve Apostles.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-139-the-twelve-apostles)  
-5.   [The Ordination of the Twelve.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-140-the-ordination-of-the-twelve)
+1. Baptism and the Forty Days.
+2. Tarrying Time in Galilee.
+3. Training the Kingdom’s Messengers.
+4. The Twelve Apostles.
+5. The Ordination of the Twelve.
 
 [V. BEGINNING THE PUBLIC WORK](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#beginning-the-public-work)
 
-1.   [Beginning the Public Work.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-141-beginning-the-public-work)  
-2.   [The Passover at Jerusalem.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-142-the-passover-at-jerusalem)  
-3.   [Going through Samaria.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-143-going-through-samaria)  
-4.   [At Gilboa and in the Decapolis.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-144-at-gilboa-and-in-the-decapolis)  
-5.   [Four Eventful Days at Capernaum.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-145-four-eventful-days-at-capernaum)
+1. Beginning the Public Work.
+2. The Passover at Jerusalem.
+3. Going through Samaria.
+4. At Gilboa and in the Decapolis.
+5. Four Eventful Days at Capernaum.
 
 [VI. THE THREE PREACHING TOURS](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#the-three-preaching-tours)
 
-1.   [First Preaching Tour of Galileo.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-146-first-preaching-tour-of-galilee)  
-2.   [The Interlude Visit to Jerusalem.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-147-the-interlude-visit-to-jerusalem)  
-3.   [Training Evangelists at Bethsaida.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-148-training-evangelists-at-bethsaida)  
-4.   [The Second Preaching Tour.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-149-the-second-preaching-tour)  
-5.   [The Third Preaching Tour.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-150-the-third-preaching-tour)
+1. First Preaching Tour of Galilee.
+2. The Interlude Visit to Jerusalem.
+3. Training Evangelists at Bethsaida.
+4. The Second Preaching Tour.
+5. The Third Preaching Tour.
 
 [VII. CAPERNAUM CRISIS AND PHOENICIA](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#capernaum-crisis-and-phoenicia)
 
-1.   [Tarrying and Teaching by the Seaside.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-151-tarrying-and-teaching-by-the-seaside)  
-2.   [Events Leading Up to the Capernaum Crisis.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-152-events-leading-up-to-the-capernaum-crisis)  
-3.   [The Crisis at Capernaum.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-153-the-crisis-at-capernaum)  
-4.   [Last Days at Capernaum.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-154-last-days-at-capernaum)  
-5.   [Fleeing through Northern Galilee.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-155-fleeing-through-northern-galilee)  
-6.   [The Sojourn at Tyre and Sidon.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-156-the-sojourn-at-tyre-and-sidon)
+1. Tarrying and Teaching by the Seaside.
+2. Events Leading Up to the Capernaum Crisis.
+3. The Crisis at Capernaum.
+4. Last Days at Capernaum.
+5. Fleeing through Northern Galilee.
+6. The Sojourn at Tyre and Sidon.
 
 [VIII. MOUNT OF TRANSFIGURATION EVENTS](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#mount-of-transfiguration-events)
 
-1.   [At Caesarea-Philippi.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-157-at-caesarea-philippi)  
-2.   [The Mount of Transfiguration.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-158-the-mount-of-transfiguration)  
-3.   [The Decapolis Tour.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-159-the-decapolis-tour)
+1. At Caesarea-Philippi.
+2. The Mount of Transfiguration.
+3. The Decapolis Tour.
 
 [IX. RODAN AND THE SEVENTY](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#rodan-and-the-seventy)
 
-1.   [Rodan of Alexandria.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-160-rodan-of-alexandria)  
-2.   [FurtherDiscussions with Rodan.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-161-further-discussions-with-rodan)  
-3.   [At the Feast of Tabernacles.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-162-at-the-feast-of-tabernacles)  
-4.   [Ordination of the Seventy at Magadan.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-163-ordination-of-the-seventy-at-magadan)  
-5.   [At the Feast of Dedication.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-164-at-the-feast-of-dedication)
+1. Rodan of Alexandria.
+2. FurtherDiscussions with Rodan.
+3. At the Feast of Tabernacles.
+4. Ordination of the Seventy at Magadan.
+5. At the Feast of Dedication.
 
 [X. THE PEREAN MISSION](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#the-perean-mission)
 
-1.   [The Perean Mission Begins.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-165-the-perean-mission-begins)  
-2.   [Last Visit to Northern Perea.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-166-last-visit-to-northern-perea)  
-3.   [The Visit to Philadelphia.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-167-the-visit-to-philadelphia)  
-4.   [The Resurrection of Lazarus.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-168-the-resurrection-of-lazarus)  
-5.   [Last Teaching at Pella.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-169-last-teaching-at-pella)  
-6.   [The Kingdom of Heaven.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-170-the-kingdom-of-heaven)
+1. The Perean Mission Begins.
+2. Last Visit to Northern Perea.
+3. The Visit to Philadelphia.
+4. The Resurrection of Lazarus.
+5. Last Teaching at Pella.
+6. The Kingdom of Heaven.
 
 [XI. LAST VISIT TO JERUSALEM](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#last-visit-to-jerusalem)
 
-1.   [On the Way to Jerusalem.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-171-on-the-way-to-jerusalem)  
-2.   [Going into Jerusalem.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-172-going-into-jerusalem)  
-3.   [Monday in Jerusalem.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-173-monday-in-jerusalem)  
-4.   [Tuesday Morning in the Temple.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-174-tuesday-morning-in-the-temple)  
-5.   [The Last Temple Discourse.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-175-the-last-temple-discourse)  
-6.   [Tuesday Evening on Mount Olivet.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-176-tuesday-evening-on-mount-olivet)  
-7.   [Wednesday, the Rest Day.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-177-wednesday-the-rest-day)  
-8.   [Last Day at the Camp.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-178-last-day-at-the-camp)
+1. On the Way to Jerusalem.
+2. Going into Jerusalem.
+3. Monday in Jerusalem.
+4. Tuesday Morning in the Temple.
+5. The Last Temple Discourse.
+6. Tuesday Evening on Mount Olivet.
+7. Wednesday, the Rest Day.
+8. Last Day at the Camp.
 
 [XII. THE LAST SUPPER](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#the-last-supper)
 
-1.   [The Last Supper.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-179-the-last-supper)  
-2.   [The Farewell Discourse.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-180-the-farewell-discourse)  
-3.   [Final Admonitions and Warnings.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-181-final-admonitions-and-warnings)
+1. The Last Supper.
+2. The Farewell Discourse.
+3. Final Admonitions and Warnings.
 
 [XIII. THE BETRAYAL AND TRIALS](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#the-betrayal-and-trials)
 
-1.   [In Gethsemane.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-182-in-gethsemane)  
-2.   [The Betrayal and Arrest of Jesus.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-183-the-betrayal-and-arrest-of-jesus)  
-3.   [Before the Sanhedrin Court.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-184-before-the-sanhedrin-court)  
-4.   [The Trial before Pilate.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-185-the-trial-before-pilate)  
-5.   [Just before the Crucifixion.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-186-just-before-the-crucifixion)
+1. In Gethsemane.
+2. The Betrayal and Arrest of Jesus.
+3. Before the Sanhedrin Court.
+4. The Trial before Pilate.
+5. Just before the Crucifixion.
 
 [XIV. CRUCIFIXION AND RESURRECTION](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#crucifixion-and-resurrection)
 
-1.   [The Crucifixion.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-187-the-crucifixion)  
-2.   [The Time of the Tomb.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-188-the-time-of-the-tomb)  
-3.   [The Resurrection.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-189-the-resurrection)
+1. The Crucifixion.
+2. The Time of the Tomb.
+3. The Resurrection.
 
 [XV. POST-RESURRECTION APPEARANCES](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#post-resurrection-appearances)
 
-1.   [Morontia Appearances of Jesus.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-190-morontia-appearances-of-jesus)  
-2.   [Appearances to the Apostles and Other Leaders.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-191-appearances-to-the-apostles-and-other-leaders)  
-3.   [Appearances in Galilee.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-192-appearances-in-galilee)  
-4.   [Final Appearances and Ascension.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-193-final-appearances-and-ascension)
+1. Morontia Appearances of Jesus.
+2. Appearances to the Apostles and Other Leaders.
+3. Appearances in Galilee.
+4. Final Appearances and Ascension.
 
 [XVI. AFTER THE ASCENSION](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#after-the-ascension)
 
-1.   [Bestowal of the Spirit of Truth.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-194-bestowal-of-the-spirit-of-truth)  
-2.   [After Pentecost.](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-195-after-pentecost)  
-3.   [The Faith of Jesus](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#paper-196-the-faith-of-jesus).
+1. Bestowal of the Spirit of Truth.
+2. After Pentecost.
+3. The Faith of Jesus.
 
 [THE APOCRYPHA](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#the-apocrypha)
-
-- [Part I - The Sayings of Jesus](/en/article/William_S_Sadler/Workbook_4_Jesus/1)
-- [Part II - The Miracles](/en/article/William_S_Sadler/Workbook_4_Jesus/2)
-- [Part III - The Parables](/en/article/William_S_Sadler/Workbook_4_Jesus/3)
-- [Part IV - The Sermons Of Jesus](/en/article/William_S_Sadler/Workbook_4_Jesus/4)
-- [The Life of Jesus as Compared with the Four Gospels](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels)
 
 
 ## References
