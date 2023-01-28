@@ -10,7 +10,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 Auteur: **William S. Sadler**
 
-**[PARTIE I - LES PAROLES DE JÉSUS](/fr/article/William_S_Sadler/Workbook_4_Jesus/1)**
+## [PARTIE I - LES PAROLES DE JÉSUS](/fr/article/William_S_Sadler/Workbook_4_Jesus/1)
 
 1. [L'amour du Père céleste](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-1-lamour-du-père-céleste)
 2. [Jésus commente les rites de la Pâque](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-2-commentaires-de-jésus-sur-les-rites-de-la-pâque)
@@ -24,9 +24,9 @@ Auteur: **William S. Sadler**
 10. [Son attitude envers le mariage](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-10-son-attitude-envers-le-mariage)
 11. [Il a toujours attendu que son heure vienne](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-11-il-attendait-toujours-son-heure-à-venir)
 12. [Il refuse d'aller à Alexandrie](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-12-il-refuse-daller-à-alexandrie)
-13. [Dealing with Jude and James](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-13-traiter-avec-jude-et-james)
+13. [Dealing with Jude and Jacques](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-13-traiter-avec-jude-et-jacques)
 14. [Préparation au départ](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-14-préparation-pour-quitter-la-maison)
-15. [Arranges the Family Budget with James](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-15-organise-le-budget-familial-avec-james)
+15. [Arranges the Family Budget with Jacques](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-15-organise-le-budget-familial-avec-jacques)
 16. [Ganid et le phare](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-16-ganid-et-le-phare)
 17. [Parlez avec Ganid de la volonté et des animaux](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-17-parler-avec-ganid-de-la-volonté-et-des-animaux)
 18. [Faire face à une âme mécontente](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-18-faire-face-à-une-âme-mégrée)
@@ -48,7 +48,7 @@ Auteur: **William S. Sadler**
 34. [Remarques lors de son baptême](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-34-remarques-lors-de-son-baptême)
 35. [Message à Jean-Baptiste](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-35-message-à-jean-le-baptiste)
 36. [Paroles à Jacques et Jean à propos de l'Apostolat](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-36-paroles-à-jacques-et-jean-au-sujet-de-lapostolat)
-37. [Choisir Philippe et Nathaniel](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-37-choisir-philip-et-nathaniel)
+37. [Choisir Philippe et Nathanael](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-37-choisir-philip-et-nathaniel)
 38. [Remarques sur les noces de Cana](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-38-remarques-au-mariage-de-cana)
 39. [Remarques à Turning Water into Wine](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-39-remarques-sur-la-transformation-de-leau-en-vin)
 40. [Matin après l'eau et le vin](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-40-matin-après-leau-et-le-vin)
@@ -69,7 +69,7 @@ Auteur: **William S. Sadler**
 55. [Remarques concernant les mauvais esprits](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-55-remarques-concernant-les-esprits-mauvais)
 56. [Unité Spirituelle](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-56-unité-spirituelle)
 57. [On Winning Souls](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-57-gagner-des-âmes)
-58. [Trois jours avec Peter, James et John](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-58-trois-jours-avec-peter-james-et-john)
+58. [Trois jours avec Pierre, Jacques et Jean](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-58-trois-jours-avec-pierre-jacques-et-jean)
 59. [La colère de Dieu](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-59-la-colère-de-dieu)
 60. [Flavius ​​et la culture grecque](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-60-flavius-et-la-culture-grecque)
 61. [Visite avec Nicodemus](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-61-visite-avec-nicodème)
@@ -112,7 +112,7 @@ Auteur: **William S. Sadler**
 98. [Le message de Béthanie](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-98-le-message-de-bethany)
 99. [Conditions du salut—Mariage et divorce](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-99-conditions-du-salut-mariage-et-divorce)
 100. [Bénédiction des petits enfants](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-100-bénédiction-des-petits-enfants)
-101. [Mère cherchant l'honneur pour James et John](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-101-mère-à-la-recherche-de-lhonneur-pour-james-et-john)
+101. [Mère cherchant l'honneur pour Jacques et Jean](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-101-mère-à-la-recherche-de-lhonneur-pour-jacques-et-jean)
 102. [On Counting the Cost](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-102-sur-le-compte-du-coût)
 103. [Remarques concernant sa mort](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-103-remarques-concernant-sa-mort)
 104. [La visite à Zachée](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-104-la-visite-à-zaccheus)
@@ -143,11 +143,11 @@ Auteur: **William S. Sadler**
 129. [Dernière apparition à Jérusalem](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-129-dernière-apparition-à-jérusalem)
 130. [L'Ascension du Maître](/fr/article/William_S_Sadler/Workbook_4_Jesus/1#h-130-lascension-du-maître)
 
-**[PARTIE II - LES MIRACLES](/fr/article/William_S_Sadler/Workbook_4_Jesus/2)**
+## [PARTIE II - LES MIRACLES](/fr/article/William_S_Sadler/Workbook_4_Jesus/2)
 
 1. [L'eau et le vin](/fr/article/William_S_Sadler/Workbook_4_Jesus/2#h-1-leau-et-le-vin)
 2. [Guérir l'épileptique](/fr/article/William_S_Sadler/Workbook_4_Jesus/2#h-2-guérir-lépileptique)
-3. [Belle-mère de Peter](/fr/article/William_S_Sadler/Workbook_4_Jesus/2#h-3-la-belle-mère-de-peter)
+3. [Belle-mère de Pierre](/fr/article/William_S_Sadler/Workbook_4_Jesus/2#h-3-la-belle-mère-de-peter)
 4. [Guérison au coucher du soleil](/fr/article/William_S_Sadler/Workbook_4_Jesus/2#h-4-guérison-au-soleil)
 5. [Le lépreux au fer](/fr/article/William_S_Sadler/Workbook_4_Jesus/2#h-5-le-lépreux-au-fer)
 6. [Le fils du noble](/fr/article/William_S_Sadler/Workbook_4_Jesus/2#h-6-le-fils-du-noble)
@@ -171,7 +171,7 @@ Auteur: **William S. Sadler**
 24. [La Résurrection de Lazare](/fr/article/William_S_Sadler/Workbook_4_Jesus/2#h-24-la-résurrection-de-lazare)
 25. [L'aveugle de Jéricho](/fr/article/William_S_Sadler/Workbook_4_Jesus/2#h-25-laveugle-de-jéricho)
 
-**[PARTIE III - LES PARABOLES](/fr/article/William_S_Sadler/Workbook_4_Jesus/3)**
+## [PARTIE III - LES PARABOLES](/fr/article/William_S_Sadler/Workbook_4_Jesus/3)
 
 1. [Parabole du semeur](/fr/article/William_S_Sadler/Workbook_4_Jesus/3#h-1-parabole-du-semeur)
 2. [En savoir plus sur les paraboles](/fr/article/William_S_Sadler/Workbook_4_Jesus/3#h-2-en-savoir-plus-sur-les-paraboles)
@@ -194,7 +194,7 @@ Auteur: **William S. Sadler**
 14. [Parabole de la fête du mariage](/fr/article/William_S_Sadler/Workbook_4_Jesus/3#h-13-parabole-de-la-fête-du-mariage)
 15. [Parabole des Talents](/fr/article/William_S_Sadler/Workbook_4_Jesus/3#h-14-parabole-des-talents)
 
-**[PARTIE IV - LES SERMONS DE JÉSUS AVEC SYLLABUS ET RÉFÉRENCES AU NOUVEAU TESTAMENT](/fr/article/William_S_Sadler/Workbook_4_Jesus/4)**
+## [PARTIE IV - LES SERMONS DE JÉSUS AVEC SYLLABUS ET RÉFÉRENCES AU NOUVEAU TESTAMENT](/fr/article/William_S_Sadler/Workbook_4_Jesus/4)
 
 1. [Le premier sermon dans la synagogue](/fr/article/William_S_Sadler/Workbook_4_Jesus/4#h-1-le-premier-sermon-dans-la-synagogue)
 2. [Discours sur la réalité](/fr/article/William_S_Sadler/Workbook_4_Jesus/4#h-2-discours-sur-la-réalité)
@@ -265,28 +265,28 @@ Auteur: **William S. Sadler**
 67. [La dernière prière de groupe](/fr/article/William_S_Sadler/Workbook_4_Jesus/4#h-67-la-dernière-prière-de-groupe)
 68. [Dernière heure avant la trahison](/fr/article/William_S_Sadler/Workbook_4_Jesus/4#h-68-dernière-heure-avant-la-trahison)
 
-**[LA VIE DE JÉSUS COMPARÉE AUX QUATRE ÉVANGILE](/fr/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels)**
+## [LA VIE DE JÉSUS COMPARÉE AUX QUATRE ÉVANGILE](/fr/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels)
 
-**[PRINCIPALES DIVISIONS DE LA VIE DE JÉSUS](/fr/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#principales-divisions-de-la-vie-de-jésus)**
+### [PRINCIPALES DIVISIONS DE LA VIE DE JÉSUS](/fr/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#principales-divisions-de-la-vie-de-jésus)
 
 [INTRODUCTION](/fr/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#introduction)
 
-1. L'effusion de Michael sur Urantia.
-2. Les temps de l'effusion de Michael.
+1. L’effusion de Micaël sur Urantia.
+2. L’époque de l’effusion de Micaël.
 
-[JE. ENFANCE ET ENFANCE DE JESUS](/fr/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#i-enfance-et-enfance-de-jésus)
+[I. ENFANCE ET ENFANCE DE JESUS](/fr/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#i-enfance-et-enfance-de-jésus)
 
 1. Naissance et petite enfance de Jésus.
-2. La petite enfance de Jésus.
-3. La dernière enfance de Jésus. 
+2. La prime enfance de Jésus.
+3. La dernière partie de l’enfance de Jésus. 
 4. Jésus à Jérusalem.
 
 [II. ADOLESCENCE ET PREMIÈRE VIRULITÉ DE JÉSUS](/fr/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#ii-adolescence-et-première-virulité-de-jésus)
 
 1. Les deux années cruciales.
 2. Les années d'adolescence.
-3. Jesus' Early Manhood.
-4. La vie adulte ultérieure de Jésus.
+3. La vie de jeune homme de Jésus.
+4. Suite de la vie d’adulte de Jésus.
 
 [III. VOYAGE À ROME ET LES ANNÉES DE TRANSITION](/fr/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#iii-voyage-à-rome-et-les-années-de-transition)
 
@@ -300,100 +300,100 @@ Auteur: **William S. Sadler**
 [IV. LE BAPTÊME ET LES DOUZE APÔTRES](/fr/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#iv-le-baptême-et-les-douze-apôtres)
 
 1. Le baptême et les quarante jours.
-2. Temps d'attente en Galilée.
-3. Former les messagers du Royaume.
+2. Séjour d’attente en Galilée.
+3. La formation des messagers du royaume.
 4. Les douze apôtres.
 5. L'ordination des Douze.
 
-[V. COMMENCER LES TRAVAUX PUBLICS](/fr/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#v-début-des-travaux-publics)
+[V. LE COMMENCEMENT DE L’ŒUVRE PUBLIQUE](/fr/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#v-le-commencement-de-lœuvre-publique)
 
-1. Commencer les travaux publics.
+1. Le commencement de l’œuvre publique.
 2. La Pâque à Jérusalem.
-3. En passant par la Samarie.
+3. Traversée de la Samarie.
 4. À Gilboa et dans la Décapole.
-5. Quatre jours mouvementés à Capharnaüm.
+5. Quatre journées mémorables à Capharnaüm.
 
 [VI. LES TROIS TOURS DE PRÉDICATION](/fr/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#vi-les-trois-tours-de-prédication)
 
-1. Premier tour de prédication de Galilée.
-2. La visite d'intermède à Jérusalem.
-3. Formation d'évangélistes à Bethsaïda.
+1. La première tournée de prédication en Galilée.
+2. L’intermède de la visite à Jérusalem.
+3. La formation d’évangélistes à Bethsaïde.
 4. La deuxième tournée de prédication.
 5. La troisième tournée de prédication.
 
 [VII. CRISE DE CAPERNAUM ET PHÉNICIE](/fr/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#vii-crise-de-capernaum-et-phénicie)
 
-1. Attendre et enseigner au bord de la mer.
-2. Événements menant à la crise de Capharnaüm.
+1. Séjour et enseignement au bord de la mer.
+2. Les prodromes de la crise de Capharnaüm.
 3. La crise à Capharnaüm.
 4. Derniers jours à Capharnaüm.
-5. Fuyant à travers la Galilée du Nord.
-6. Le séjour à Tyr et Sidon.
+5. En fuite à travers la Galilée du Nord.
+6. Le séjour à Tyr et à Sidon.
 
 [VIII. MOUNT OF TRANSFIGURATION EVENTS](/fr/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#viii-événements-mont-de-transfiguration)
 
-1. À Césarée-Philippe.
+1. À Césarée de Philippe.
 2. Le Mont de la Transfiguration.
-3. La Decapolis Tour.
+3. La tournée en Décapole.
 
 [IX. RODAN ET LES SOIXANTE-DIX](/fr/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#ix-rodan-et-les-soixante-dix)
 
 1. Rodan d'Alexandrie.
-2. FurtherDiscussions with Rodan.
+2. Suite des discussions avec Rodan.
 3. À la Fête des Tabernacles.
-4. Ordination des soixante-dix à Magadan.
+4. L’ordination des soixante-dix à Magadan.
 5. À la fête de la dédicace.
 
 [X. LA MISSION PÉRÉENNE](/fr/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#x-la-mission-péréenne)
 
-1. La mission peréenne commence.
-2. Dernière visite à Northern Perea.
+1. La mission en Pérée commence.
+2. Dernière tournée en Pérée du Nord.
 3. La visite à Philadelphie.
 4. La Résurrection de Lazare.
-5. Dernier enseignement à Pella.
+5. Derniers enseignements à Pella.
 6. Le Royaume des Cieux.
 
 [XI. DERNIÈRE VISITE À JÉRUSALEM](/fr/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#xi-dernière-visite-à-jérusalem)
 
 1. Sur le chemin de Jérusalem.
-2. Aller à Jérusalem.
-3. Lundi à Jérusalem.
-4. Mardi matin au temple.
-5. Le discours du dernier temple.
-6. Mardi soir sur le mont Olivet.
-7. Mercredi, jour de repos.
-8. Dernier jour au camp.
+2. L’entrée à Jérusalem.
+3. Le lundi à Jérusalem.
+4. Le mardi matin au temple.
+5. Le dernier discours au temple.
+6. Le mardi soir sur le mont Olivet.
+7. Le mercredi, jour de repos.
+8. Le dernier jour au camp.
 
-[XII. LA CÈNE](/fr/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#xii-le-dernier-souper)
+[XII. LE DERNIER SOUPER](/fr/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#xii-le-dernier-souper)
 
-1. La Cène.
-2. Le discours d'adieu.
-3. Admonitions et avertissements finaux.
+1. Le dernier souper.
+2. Le discours d’adieu.
+3. Ultimes exhortations et avertissements.
 
 [XIII. LA TRAHISON ET LES ÉPREUVES](/fr/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#xiii-la-trahison-et-les-épreuves)
 
 1. À Gethsémani.
-2. La trahison et l'arrestation de Jésus.
+2. Jésus trahi et arrêté.
 3. Devant le Tribunal du Sanhédrin.
-4. Le procès devant Pilate.
-5. Juste avant la Crucifixion.
+4. Le jugement devant Pilate.
+5. Peu avant la crucifixion.
 
 [XIV. CRUCIFIXION ET RÉSURRECTION](/fr/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#xiv-crucifixion-et-résurrection)
 
 1. La Crucifixion.
-2. Le temps du tombeau.
+2. L’heure du tombeau.
 3. La Résurrection.
 
-[XV. APPARITIONS POST-RESURRECTION](/fr/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#xv-apparitions-post-résurrection)
+[XV. LES APPARITIONS POST-RESURRECTION](/fr/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#xv-apparitions-post-résurrection)
 
-1. Apparitions morontielles de Jésus.
-2. Apparitions aux apôtres et autres dirigeants.
+1. Les apparitions morontielles de Jésus.
+2. Apparitions aux apôtres et à d’autres disciples influents.
 3. Apparitions en Galilée.
 4. Apparitions finales et Ascension.
 
 [XVI. APRÈS L'ASCENSION](/fr/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#xvi-après-lascension)
 
-1. Don de l'Esprit de Vérité.
+1. L’effusion de l’Esprit de Vérité.
 2. Après la Pentecôte.
 3. La Foi de Jésus.
 

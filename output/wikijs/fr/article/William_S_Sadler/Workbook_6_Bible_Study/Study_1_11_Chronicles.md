@@ -85,7 +85,7 @@ Auteur: **William S. Sadler**
 	- F. Joas. [24:1-27](/fr/Bible/2_Chronicles/24#v1).
 	- G. Amatsia. [25:1-28](/fr/Bible/2_Chronicles/25#v1).
 	- H. Ozias. [26:1-23](/fr/Bible/2_Chronicles/26#v1).
-	- Je. Jotham. [27:1-9](/fr/Bible/2_Chronicles/27#v1).
+	- i. Jotham. [27:1-9](/fr/Bible/2_Chronicles/27#v1).
 	- J. Achaz. [28:1-27](/fr/Bible/2_Chronicles/28#v1).
 	- K. Ézéchias. [29:1-32:33](/fr/Bible/2_Chronicles/29#v1).
 	- L. Manassé et Amon. [33:1-25](/fr/Bible/2_Chronicles/33#v1).

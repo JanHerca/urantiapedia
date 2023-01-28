@@ -10,7 +10,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 Author: **William S. Sadler**
 
-**[PART I - THE SAYINGS OF JESUS](/en/article/William_S_Sadler/Workbook_4_Jesus/1)**
+## [PART I - THE SAYINGS OF JESUS](/en/article/William_S_Sadler/Workbook_4_Jesus/1)
 
 1. [The Heavenly Father’s Love](/en/article/William_S_Sadler/Workbook_4_Jesus/1#1-the-heavenly-father-s-love)
 2. [Jesus Comments on the Passover Rites](/en/article/William_S_Sadler/Workbook_4_Jesus/1#2-jesus-comments-on-the-passover-rites)
@@ -143,7 +143,7 @@ Author: **William S. Sadler**
 129. [Last Appearance in Jerusalem](/en/article/William_S_Sadler/Workbook_4_Jesus/1#129-last-appearance-in-jerusalem)
 130. [The Master’s Ascension](/en/article/William_S_Sadler/Workbook_4_Jesus/1#130-the-masters-ascension)
 
-**[PART II - THE MIRACLES](/en/article/William_S_Sadler/Workbook_4_Jesus/2)**
+## [PART II - THE MIRACLES](/en/article/William_S_Sadler/Workbook_4_Jesus/2)
 
 1. [The Water and the Wine](/en/article/William_S_Sadler/Workbook_4_Jesus/2#1-the-water-and-the-wine)
 2. [Healing the Epileptic](/en/article/William_S_Sadler/Workbook_4_Jesus/2#2-healing-the-epileptic)
@@ -171,7 +171,7 @@ Author: **William S. Sadler**
 24. [The Resurrection of Lazarus](/en/article/William_S_Sadler/Workbook_4_Jesus/2#24-the-resurrection-of-lazarus)
 25. [The Blind Man at Jericho](/en/article/William_S_Sadler/Workbook_4_Jesus/2#25-the-blind-man-at-jericho)
 
-**[PART III - THE PARABLES](/en/article/William_S_Sadler/Workbook_4_Jesus/3)**
+## [PART III - THE PARABLES](/en/article/William_S_Sadler/Workbook_4_Jesus/3)
 
 1. [Parable of the Sower](/en/article/William_S_Sadler/Workbook_4_Jesus/3#1-parable-of-the-sower)
 2. [More about Parables](/en/article/William_S_Sadler/Workbook_4_Jesus/3#2-more-about-parables)
@@ -194,7 +194,7 @@ Author: **William S. Sadler**
 14. [Parable of the Marriage Feast](/en/article/William_S_Sadler/Workbook_4_Jesus/3#13-parable-of-the-marriage-feast)
 15. [Parable of the Talents](/en/article/William_S_Sadler/Workbook_4_Jesus/3#14-parable-of-the-talents)
 
-**[PART IV - THE SERMONS OF JESUS WITH SYLLABUS AND NEW TESTAMENT REFERENCES](/en/article/William_S_Sadler/Workbook_4_Jesus/4)**
+## [PART IV - THE SERMONS OF JESUS WITH SYLLABUS AND NEW TESTAMENT REFERENCES](/en/article/William_S_Sadler/Workbook_4_Jesus/4)
 
 1. [The First Sermon in the Synagogue](/en/article/William_S_Sadler/Workbook_4_Jesus/4#1-the-first-sermon-in-the-synagogue)
 2. [Discourse on Reality](/en/article/William_S_Sadler/Workbook_4_Jesus/4#2-discourse-on-reality)
@@ -265,9 +265,9 @@ Author: **William S. Sadler**
 67. [The Last Group Prayer](/en/article/William_S_Sadler/Workbook_4_Jesus/4#67-the-last-group-prayer)
 68. [Last Hour before the Betrayal](/en/article/William_S_Sadler/Workbook_4_Jesus/4#68-last-hour-before-the-betrayal)
 
-**[THE LIFE OF JESUS AS COMPARED WITH THE FOUR GOSPELS](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels)**
+## [THE LIFE OF JESUS AS COMPARED WITH THE FOUR GOSPELS](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels)
 
-**[PRINCIPAL DIVISIONS OF THE LIFE OF JESUS](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#principal-divisions-of-the-life-of-jesus)**
+### [PRINCIPAL DIVISIONS OF THE LIFE OF JESUS](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#principal-divisions-of-the-life-of-jesus)
 
 [INTRODUCTION](/en/article/William_S_Sadler/Workbook_4_Jesus/Life_of_Jesus_compared_Four_Gospels#introduction)
 

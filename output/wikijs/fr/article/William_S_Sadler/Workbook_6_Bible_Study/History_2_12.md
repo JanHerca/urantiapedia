@@ -96,7 +96,7 @@ g. Maccabées.
 
 h. Esséniens.
 
-je. Qumrans.
+i. Qumrans.
 
 J. Les chrétiens.
 4. Puis vint la révolte contre Rome et la FIN.

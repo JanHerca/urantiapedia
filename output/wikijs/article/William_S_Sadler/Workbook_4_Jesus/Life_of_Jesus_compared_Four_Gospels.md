@@ -498,8 +498,8 @@ Author: **William S. Sadler**
 		- a. New deputation of priests. [John 1:19-28](/en/Bible/John/1#v19).
 		- b. Jesus returns February 23.
 		- c. John proclaims him “Son of God.” [John 1:29-34](/en/Bible/John/1#v29).
-		- d. +Next morning separate for good.
-		- Sec. 10. John Journeys South. Not in New Testament.
+		- d. Next morning separate for good.
+	- Sec. 10. John Journeys South. Not in New Testament.
 		- a. March 3 John starts south.
 		- b. Stays several weeks at Adam.
 		- c. By June back at Bethany ford.
@@ -592,7 +592,7 @@ Author: **William S. Sadler**
 		- a. Last day at carpenter bench. June 18.
 		- b. Preparing for the preaching tour.
 		- c. Preaches on “The Kingdom.” June 22.
-- **PAPER 138**. **Training the Kingdom’s Messenge**rs.
+- **PAPER 138**. **Training the Kingdom’s Messenge**.
 	- Intro. Not in New Testament.
 		- a. Tells apostles about his plans.
 		- b. Aloofness of his family.
@@ -1055,7 +1055,7 @@ Author: **William S. Sadler**
 	- Intro. Not in New Testament.
 	- Sec. 1. Story of the Good Samaritan. [Luke 10:25-37](/en/Bible/Luke/10#v25).
 	- Sec. 2. At Jerusalem. Not in New Testament.
-	- Sec. 3. Healing the Blind Beggar. John Chapter 9.
+	- Sec. 3. Healing the Blind Beggar. [John Chapter 9](/en/Bible/John/9).
 	- Sec. 4. Josiah before the Sanhedrin. See reference for Sec. 3.
 	- Sec. 5. Teaching in Solomon’s Porch. [John 10:22-42](/en/Bible/John/10#v22).
 
@@ -1359,18 +1359,18 @@ Author: **William S. Sadler**
 	- Decline and fall of Judah from the time of Josiah. Overthrow of Jerusalem and the Babylonian exile. The return under Ezra—reorganization of the Jewish state. Persian kings rebuild the temple. Ezra’s war on mixed marriages.
 2. II ESDRAS
 	- The Lord’s anger against Israel—the end of the age. Ezra’s seven visions of judgment and retribution, including the vision of women. Prophecies of war and calamity. Rule of the Messiah for 400 years.
-3. TOBIT
+3. [TOBIT](/en/Bible/Tobit)
 	- The blind Tobit, a captive in Nineveh, sends his son Tobias to collect a debt in Media. Tobias marries the seven times widowed virgin, and by fish gall dispatches the demon who had killed her husbands. Collects the debt, returns, and the father’s sight is restored. Tobias left Nineveh before it was destroyed.
-4. JUDITH
+4. [JUDITH](/en/Bible/Judith)
 	- Holophernes, an Assyrian general, acting for Nebuchadnezzar, besieged Bethulia. Judith, a pious Jewish widow, enters his camp, and while he is in a drunken stupor, beheads him, taking his head back to the Jewish camp. The Assyrian army is dispersed.
 5. ADDITIONS TO ESTHER
 	- Has to do with Esther at the court of Artaxerxes and Mardocheus’ dream. Discussion of Mordecai’s dream. The king’s edict in favor of the Jews.
-6. THE WISDOM OF SOLOMON
+6. [THE WISDOM OF SOLOMON](/en/Bible/Wisdom_of_Solomon)
 	- Contrasts the righteous and the ungodly. The rewards of pleasure and salvation. The attainments of wisdom—the gift of God. Heroes of wisdom from Adam to Moses—contrasted with the wicked. Israelites contrasted with Egyptians.
-7. ECCLESIASTICUS
+7. [ECCLESIASTICUS](/en/Bible/Sirach)
 	- (Wisdom of Jesus the Son of SIRACH)
 	- One of the best of the Old Testament Apocrypha—compares with Proverbs and Ecclesiastes. Resignation and humility. How to get wisdom. Kindness and self-control. The wise and the foolish. Sins of the rich. Training children. Dreams and travel. Higher education. Despite misery, poverty is best. Fathers worry about daughters. Olden fathers from Adam to Nehemiah. Denunciation of the gentiles. Giving thanks to the Lord. Good and bad wives. Table manners. Mourning. Doxology.
-8. BARUCH—secretary to Jeremiah
+8. [BARUCH](/en/Bible/Baruch)—secretary to Jeremiah
 	- Repentance of Jews after destruction of Jerusalem. Praise of wisdom. Promise of return from Babylonian exile.
 9. THE EPISTLE OF JEREMY
 	- A sarcastic denunciation of the folly of idolatry.
@@ -1379,11 +1379,11 @@ Author: **William S. Sadler**
 	- Inserted in the Third Chapter of Daniel. The song of the three youths in the fiery furnace.
 11. SUSANNA
 	- Susanna, wife of wealthy Jewish exile, repulses advances of two Jewish elders. They accuse her of adultery and she is condemned to death. Daniel convicted the elders of false testimony—she was vindicated and they were executed.
-12. BEL AND THE DRAGON
+12. [BEL AND THE DRAGON](/en/Bible/Bel_and_the_Dragon)
 	- Daniel traps the priests of Bel by ashes on temple floor—showing they ate the food, not Bel. Daniel poisons the Dragon and is cast into the lion’s den. Habakkuk was flown from Judea by angels to bring him his dinner. Eventually Daniel was delivered.
-13. THE PRAYER OF MANASSEH
+13. [THE PRAYER OF MANASSEH](/en/Bible/Prayer_of_Manesseh)
 	- A penitential psalm composed to go along with 2 Chron. 33:11-13.
-14. FIRST AND SECOND BOOKS OF MACCABEES
+14. [FIRST](/en/Bible/1_Maccabees) AND [SECOND](/en/Bible/2_Maccabees) BOOKS OF MACCABEES
 	- First and Second Maccabees present reliable history. The Maccabees are in reality the Hasmonaean family. They won independence for the Jews from 166 to 63 B.C.
 		1. Judas Maccabeus was one of five sons of the priest Mattathais.
 		2. He rebelled against Antiochus Epiphanes (IV), King of Syria.
@@ -1720,7 +1720,7 @@ When Jesus returns on a cloud of angels the sea becomes fire. Some wicked are de
 
 2. **THE APOCALYPSE OF PAUL**
 
-This purports to be what Paul saw when he was transported to the third heaven—see Cor. 12:2. It is apparent that Dante got much of the material for his Inferno from this document.
+This purports to be what Paul saw when he was transported to the third heaven—see [II Cor. 12:2](/en/Bible/2_Corinthians/12#v2). It is apparent that Dante got much of the material for his Inferno from this document.
 
 This story ranges far and wide.
 
