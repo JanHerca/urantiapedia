@@ -140,7 +140,7 @@
 | Embalming, burial                                      | Embalsamamento, enterro                                        |
 | End, 23d Psalm                                         | Fim, 23° Salmo                                                 |
 | Ended by singing hymn                                  | Terminou cantando hino                                         |
-| Eternal / everlasting life                             | Vida eterna / perene                                           |
+| Eternal / everlasting life                             | Eternal / Vida eterna                                           |
 | Eye, light of body                                     | Olho, luz do corpo                                             |
 | Eyes:are the windows of soul                           | Olhos: são as janelas da alma                                  |
 | Ezekiel: service / devotion                            | Ezequiel: serviço / devoção                                    |
@@ -150,7 +150,7 @@
 | Father & Jesus work                                    | Trabalho do Pai e de Jesus                                     |
 | Father & Son glorified                                 | Pai e Filho glorificados                                       |
 | Father & Son know all things                           | Pai e Filho sabem todas as coisas                              |
-| Father gives sunshine & rain                           | Pai dá sol e chuva                                             |
+| Father gives sunshine & rain                           | Pai dá brilho do sol e chuva                                   |
 | Father in Son in Father                                | Pai no Filho no Pai                                            |
 | Father in Son in us                                    | Pai no Filho em nós                                            |
 | Father of light, no variableness                       | Pai da luz, sem variação                                       |
@@ -182,7 +182,7 @@
 | Go tell apostles & Peter                               | Vá dizer aos apóstolos e Pedro                                 |
 | God created                                            | Deus criou                                                     |
 | God created man                                        | Deus criou o homem                                             |
-| God does not hear iniquitous                           | Deus não ouve iníquo                                           |
+| God does not hear iniquitous                           | Deus não ouve iníquos                                          |
 | God gracious, compassionate                            | Deus misericordioso, compassivo                                |
 | God is Father, redeemer                                | Deus é Pai, redentor                                           |
 | God is good, tender mercies                            | Deus é bom, ternas misericórdias                               |
@@ -192,7 +192,7 @@
 | God not far                                            | Deus não está longe                                            |
 | God not for Hebrews in war                             | Deus não apoia hebreus em guerra                               |
 | God of power, judgment,                                | Deus de poder, julgamento,                                     |
-| God withholds no good thing                            | Deus não retém nenhuma coisa boa                               |
+| God withholds no good thing                            | Deus não nos priva de nenhuma coisa boa                        |
 | God: maker, preserver                                  | Deus: criador, preservador                                     |
 | God's divine character deep, wise                      | O caráter divino de Deus profundo, sábio                       |
 | God's spirit in you (T/A)                              | O espírito de Deus em você (Ajustador dos Pensamentos)         |
@@ -207,16 +207,16 @@
 | Hasty temper / folly                                   | Temperamento precipitado / loucura                             |
 | Have an ear, hear the Spirit                           | Tem um ouvido, ouça o Espírito                                 |
 | He knows name, number of stars                         | Ele sabe nome, número de estrelas                              |
-| He knows your frame: dust                              | Ele conhece seu quadro: poeira                                 |
+| He knows your frame: dust                              | Ele conhece seu corpo: poeira                                  |
 | He who rules own spirit, mighty                        | Aquele que governa o próprio espírito, poderoso                |
-| Heals brokenhearted & binds                            | Cura o coração partido e liga                                  |
-| Hear cry of poor and needy                             | Ouça o clamor dos pobres e necessitados                        |
+| Heals brokenhearted & binds                            | Cura o coração partido e religa                                |
+| Hear cry of poor and needy                             | Ouve o clamor dos pobres e necessitados                        |
 | Heavens cry righteous, glory                           | Os céus clamam justos, glória                                  |
 | Hereditary priesthood                                  | Sacerdócio hereditário                                         |
 | His mercy is everlasting                               | Sua misericórdia é eterna                                      |
 | His mighty angels                                      | Seus anjos poderosos                                           |
 | His mighty angels                                      | Seus anjos poderosos                                           |
-| Hold the keys of heaven                                | Segure as chaves do céu                                        |
+| Hold the keys of heaven                                | Segura as chaves do céu                                        |
 | Holy temple built on earth                             | Templo sagrado construído na terra                             |
 | Humbled / exalted                                      | Humilhado / exaltado                                           |
 | Hunger & thirst for righteousness                      | Fome e sede de justiça                                         |
