@@ -36,7 +36,7 @@ Avant environ 1000 av. J.-C., il n'y avait pas beaucoup d'écrits parmi les Juif
 6. La plus ancienne prose de l'Ancien Testament est probablement le [récit de l'établissement du royaume de David](/fr/Bible/2_Samuel/5).
 7. Viennent ensuite les [histoires d'Elie](/fr/Bible/1_Kings/17) et le règne de [Jéhu](/fr/Bible/1_Kings/19#v16). 842-815 avant JC
 8. La rédaction des livres historiques de l'Ancien Testament a commencé vers 600 av. J.-C. Ils avaient accès au livre perdu des "Actes des rois de Juda et d'Israël". [II Chron 25:26](/fr/Bible/2_Chronicles/25#v26).
-9. L'histoire des royaumes de David et de Salomon. [I Sam 16](/fr/Bible/1_Samuel/16) à [I Kings 11](/fr/Bible/1_Kings/11).
+9. L'histoire des royaumes de David et de Salomon. [I Sam 16](/fr/Bible/1_Samuel/16) à [I Rois 11](/fr/Bible/1_Kings/11).
 10. David était berger, poète, musicien et guerrier. Pendant des années un fugitif et hors-la-loi. Devient roi de Judée et d'Israël à la mort de Saül.
 11. Il y a deux histoires sur la nomination de David comme roi.
 	- a. Oint roi à Hébron. [II Sam 2:1-11](/fr/Bible/2_Samuel/2#v1).
@@ -51,7 +51,7 @@ Avant environ 1000 av. J.-C., il n'y avait pas beaucoup d'écrits parmi les Juif
 19. L'Ancien Testament a mis près de mille ans à prendre forme. Les «anciens prophètes» couvrent la période allant d'Abraham à la captivité.
 20. Toutes sortes de littérature se trouvent dans l'Ancien Testament :
 	- a. **Juridique**—le [Pentateuque](https://en.wikipedia.org/wiki/Torah).
-	- b. **Historique**— [Josué](/fr/Bible/Joshua/1), [Juges](/fr/Bible/Judges/1), [Samuel](/fr/Bible/1_Samuel/1), [Rois ](/fr/Bible/1_Kings/1), [Chronicles](/fr/Bible/1_Chronicles/1), [Ezra](/fr/Bible/Ezra/1), [Néhémie](/fr/Bible/Nehemiah /1), [Esther](/fr/Bible/Esther/1).
+	- b. **Historique**— [Josué](/fr/Bible/Joshua/1), [Juges](/fr/Bible/Judges/1), [Samuel](/fr/Bible/1_Samuel/1), [Rois](/fr/Bible/1_Kings/1), [Chronicles](/fr/Bible/1_Chronicles/1), [Ezra](/fr/Bible/Ezra/1), [Néhémie](/fr/Bible/Nehemiah /1), [Esther](/fr/Bible/Esther/1).
 	- c. **Prophétique**—les [prophètes majeurs et mineurs](http://biblebasics.wordpress.com/2007/02/16/major-and-minor-prophets/).
 	- d. **Sagesse**— [Proverbes](/fr/Bible/Proverbs/1), [Job](/fr/Bible/Job/1), [Ecclesiastes](/fr/Bible/Ecclesiastes/1), et les [Cantique des Cantiques](/fr/Bible/Songs/1).
 	- e. **Dévotionnelle**— [Psaumes](/fr/Bible/Psalms/1).
@@ -89,7 +89,7 @@ Avant environ 1000 av. J.-C., il n'y avait pas beaucoup d'écrits parmi les Juif
 		- La dédicace du temple de Salomon. [I Rois 8:12](/fr/Bible/1_Kings/8#v12).
 		- Bénédiction de Moïse. [Deut 33](/fr/Bible/Deuteronomy/33).
 	- b. **Récits**.
-		- Fondation du royaume. [I Sam](/fr/Bible/1_Samuel/1) et [II Sam](/fr/Bible/2_Samuel/1). et [I Kings](/fr/Bible/1_Kings/1#v1).
+		- Fondation du royaume. [I Sam](/fr/Bible/1_Samuel/1) et [II Sam](/fr/Bible/2_Samuel/1). et [I Rois](/fr/Bible/1_Kings/1#v1).
 	- c. **Lois**.
 		- Livre de l'alliance. [Ex 20-23](/fr/Bible/Exodus/20).
 4. **Les IXe et VIIIe siècles**.
