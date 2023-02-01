@@ -77,7 +77,7 @@
 | Came to reveal Father                                  | Veio para revelar o Pai                                        |
 | Can any good thing come ...                            | Alguma coisa boa pode vir...                                   |
 | Can any good thing, Nazareth                           | Pode alguma coisa boa, Nazaré                                  |
-| Cannot see my face..                                   | Não consigo ver minha face..                                   |
+| Cannot see my face..                                   | Não consigo ver minha face...                                  |
 | Champions                                              | Campeões                                                       |
 | Change of mind by faith: new birth                     | Mudança de mentalidade pela fé: novo nascimento                |
 | Charge: go preach to the world                         | Missão: vá pregar ao mundo                                     |
@@ -140,7 +140,7 @@
 | Embalming, burial                                      | Embalsamamento, enterro                                        |
 | End, 23d Psalm                                         | Fim, 23° Salmo                                                 |
 | Ended by singing hymn                                  | Terminou cantando hino                                         |
-| Eternal / everlasting life                             | Eternal / Vida eterna                                           |
+| Eternal / everlasting life                             | Eternal / Vida eterna                                          |
 | Eye, light of body                                     | Olho, luz do corpo                                             |
 | Eyes:are the windows of soul                           | Olhos: são as janelas da alma                                  |
 | Ezekiel: service / devotion                            | Ezequiel: serviço / devoção                                    |
@@ -229,25 +229,25 @@
 | I am the Way, Truth & Life                             | Eu sou o Caminho, a Verdade e a Vida                           |
 | I came / I go                                          | eu vim / eu vou                                                |
 | I go to Him who sent me.                               | Eu vou para Aquele que me enviou.                              |
-| I go, you cannot find me                               | eu vou, você não pode me encontrar                             |
-| If earth parents love, give gifts                      | Se os pais da terra amam, dê presentes                         |
+| I go, you cannot find me                               | Para onde eu vou, você não pode me encontrar                   |
+| If earth parents love, give                            | Se os pais da terra amam, dê presentes                         |
 | If have friends, be friendly                           | Se tiver amigos, seja amigável                                 |
 | If not do well, sin lies at door                       | Se não fizer bem, o pecado está à porta                        |
 | If not harken to God, curses                           | Se não ouvir a Deus, maldições                                 |
 | If world hates, persecutes                             | Se o mundo odeia, persegue                                     |
 | Ignorance no excuse                                    | Ignorância não é desculpa                                      |
 | Impetuous Peter                                        | Pedro impetuoso                                                |
-| In God man lives, moves..                              | Em Deus o homem vive, se move..                                |
+| In God man lives, moves..                              | Em Deus o homem vive, se move...                               |
 | In Him were hidden treasures                           | Nele estavam escondidos tesouros                               |
 | In our afflctions he is afflicted                      | Em nossas aflições ele é afligido                              |
 | Inaccuracies in Bible                                  | Imprecisões na Bíblia                                          |
 | Indwelling spirit: the Adjuster                        | Espírito residente: o Ajustador                                |
 | Innoent victims of time                                | Vítimas inocentes do tempo                                     |
-| Is man more just than God                              | O homem é mais justo que Deus                                  |
+| Is man more just than God                              | O homem é mais justo que Deus?                                 |
 | Is near the brokenhearted                              | Está perto do coração partido                                  |
 | Isaac's birth                                          | nascimento de Isaque                                           |
 | Jairus' request: heal daughter                         | Pedido de Jairo: curar a filha                                 |
-| James “drinks cup”                                     | James “bebe copo”                                              |
+| James “drinks cup”                                     | Tiago “bebe copo”                                              |
 | James & John selected                                  | Tiago e João selecionados                                      |
 | Jealous for                                            | Ciúmes por                                                     |
 | Jealous of                                             | Ciúmes de                                                      |
@@ -255,10 +255,10 @@
 | Jesus & apostles to Capernaum                          | Jesus e apóstolos para Cafarnaum                               |
 | Jesus & Father are one                                 | Jesus e Pai são um                                             |
 | Jesus & Father are one                                 | Jesus e Pai são um                                             |
-| Jesus & Mary grieve                                    | Jesus e Maria choram                                           |
-| Jesus and 12 to Caesarea-Philippi                      | Jesus e 12 a Cesareia-Filipenses                               |
-| Jesus ans questions re: divinity                       | Jesus e perguntas re: divindade                                |
-| Jesus appears to 500                                   | Jesus aparece a 500                                            |
+| Jesus & Mary grieve                                    | Jesus e Maria lamentam                                         |
+| Jesus and 12 to Caesarea-Philippi                      | Jesus e os 12 vão a Cesareia-Filipenses                        |
+| Jesus ans questions re: divinity                       | Jesus responde perguntas: divindade                            |
+| Jesus appears to 500                                   | Jesus aparece para 500                                         |
 | Jesus asks question, no answer.                        | Jesus faz pergunta, sem resposta.                              |
 | Jesus came to seek & save lost                         | Jesus veio buscar e salvar perdido                             |
 | Jesus came to seek & save lost                         | Jesus veio buscar e salvar perdido                             |
@@ -268,7 +268,7 @@
 | Jesus dies on cross                                    | Jesus morre na cruz                                            |
 | Jesus enters, seated                                   | Jesus entra, sentado                                           |
 | Jesus fasts / eats                                     | Jesus jejua / come                                             |
-| Jesus hanged with 2 malefactors                        | Jesus enforcado com 2 malfeitores                              |
+| Jesus hanged with 2 malefactors                        | Jesus crucificado com 2 malfeitores                            |
 | Jesus hears: John imprisoned                           | Jesus ouve: João preso                                         |
 | Jesus leaves                                           | Jesus sai                                                      |
 | Jesus quotes “scripture”                               | Jesus cita “escritura”                                         |
@@ -279,7 +279,7 @@
 | Jesus slept, awakened                                  | Jesus dormiu, despertou                                        |
 | Jesus speaks parable                                   | Jesus fala parábola                                            |
 | Jesus teaches crowd at well                            | Jesus ensina multidão no poço                                  |
-| Jesus to Bethany for night                             | Jesus para Betânia para a noite                                |
+| Jesus to Bethany for night                             | Jesus foi para Betânia para passar a noite                     |
 | Jesus told: Gabriel's visit Elizabeth                  | Jesus contou: Gabriel visita Isabel                            |
 | Jesus: not of Davidic line                             | Jesus: não da linhagem davídica                                |
 | Jesus: the way, the truth, the life                    | Jesus: o caminho, a verdade, a vida                            |
@@ -289,19 +289,19 @@
 | Jesus' last talk in temple                             | A última palestra de Jesus no templo                           |
 | Jesus' prayer Re: Judas                                | Oração de Jesus Re: Judas                                      |
 | Job: God blesses faithful                              | Jó: Deus abençoa os fiéis                                      |
-| Job: good, rich & healthy                              | Trabalho: bom, rico e saudável                                 |
-| John but fore runner of Messiah                        | João, mas precursor do Messias                                 |
+| Job: good, rich & healthy                              | Jó: bom, rico e saudável                                       |
+| John but fore runner of Messiah                        | João, precursor do Messias                                     |
 | John the Baptist killed, buried                        | João Batista morto, enterrado                                  |
 | John's declaration re: Jesus                           | A declaração de João re: Jesus                                 |
 | John's social gospel                                   | O evangelho social de João                                     |
 | John's youth, dress                                    | juventude de John, vestido                                     |
-| Joseph not Davidic line                                | Joseph não linha davídica                                      |
+| Joseph not Davidic line                                | José não linha davídica                                        |
 | Joseph sold                                            | José vendeu                                                    |
 | Joseph weds Mary                                       | José se casa com Maria                                         |
 | Judas leads armed band                                 | Judas lidera bando armado                                      |
 | Judas; “How much?”                                     | Judas; "Quantos?"                                              |
-| Judge motive, not acts                                 | Motivo do juiz, não atos                                       |
-| Justice, fairness, & mercy                             | Justiça, justiça e misericórdia                                |
+| Judge motive, not acts                                 | Julga motivos, não atos                                        |
+| Justice, fairness, & mercy                             | Justiça, equidade e misericórdia                               |
 | Ketura not wife                                        | Ketura não esposa                                              |
 | Kingdom (spiritual)                                    | Reino (espiritual)                                             |
 | Kingdom comes in power & glory                         | Reino vem em poder e glória                                    |
