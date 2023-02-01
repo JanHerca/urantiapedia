@@ -156,7 +156,7 @@ Auteur: **William S. Sadler**
 4. **Les dix commandements**. [5:6-21](/fr/Bible/Deuteronomy/5#v6).
 5. **Le grand commandement**. «'Tu aimeras le Seigneur, ton Dieu, de tout ton cœur, de toute ton âme, et de toute ta force.'» [6:5](/fr/Bible/Deuteronomy/6#v5).
 6. **Les élus**. « 'Vous êtes un peuple saint pour l'Éternel, votre Dieu ; l'Éternel, votre Dieu, vous a choisis.' » [7:6](/fr/Bible/Deuteronomy/7#v6).
-7. **Bénédiction et malédiction**. «'Je mets aujourd'hui devant vous une bénédiction et une malédiction : la bénédiction, si vous obéissez aux commandements... et la malédiction, si vous n'obéissez pas aux commandements.'» [11:26-28](/fr/ Bible/Deuteronomy/11#v26).
+7. **Bénédiction et malédiction**. «'Je mets aujourd'hui devant vous une bénédiction et une malédiction : la bénédiction, si vous obéissez aux commandements... et la malédiction, si vous n'obéissez pas aux commandements.'» [11:26-28](/fr/Bible/Deuteronomy/11#v26).
 8. **Manger du sang**. «'Tu ne mangeras pas le sang, tu le répandras sur la terre comme de l'eau.'» [12:16](/fr/Bible/Deuteronomy/12#v16).
 9. **Faux prophètes**. «'Si un prophète se lève parmi vous... et vous donne un signe... et que le signe... se réalise, et s'il dit : »Allons après d'autres dieux«... vous n'écouterez pas les paroles de ce prophète.'» [13:1-3](/fr/Bible/Deuteronomy/13#v1).
 10. **Libération de sept ans**. «'Tous les sept ans, vous accorderez une libération... Chaque créancier restituera ce qu'il a prêté à son prochain.'» [15:1,2](/fr/Bible/Deuteronomy/15#v1).

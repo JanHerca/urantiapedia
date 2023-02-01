@@ -43,13 +43,13 @@ Le mot Veda est dérivé du sanskrit VID – savoir. Les quatre Vedas sont fonda
 	- c. **[Le Yajur Veda](https://www.sacred-texts.com/hin/yv/index.htm)** —écrits liturgiques. Cérémonies.
 	- d. **[L'Atharva Veda](https://www.sacred-texts.com/hin/av/index.htm)** — une collection de 730 incantations et autres formules rituelles conçues pour opérer des charmes, etc.
 
-### 2. **Les brahmanes**. (1000-600 av. J.-C.) Cérémonial. **Voir les liens ci-dessus**
+### 2. Les brahmanes. (1000-600 av. J.-C.) Cérémonial. Voir les liens ci-dessus
 
 Ces traités en prose traitent du rituel du sacrifice et de ses implications philosophiques. Tout comme le Talmud est une exposition rabbinique du Pentateuque, les Bramanas sont une exposition sacerdotale des Vedas précédents.
 
 Les **Aranyakas**—les Livres de la Forêt—ferment les Bramanas. Conçus pour être lus dans la solitude de la forêt par des isolationnistes religieux, ces livres ont un caractère méditatif. Ils contiennent beaucoup de philosophie sacerdotale et sont le lien de transition entre les Bramanas cérémoniels et les Upanishads philosophiques.
 
-### 3. **Les Upanishads**. (600-300 av. J.-C.) Philosophique. **Voir les liens ci-dessus**
+### 3. Les Upanishads. (600-300 av. J.-C.) Philosophique. Voir les liens ci-dessus
 
 Au cours des profondes spéculations métaphysiques concernant la nature de la réalité, embrassées dans les 108 Upanishads, plusieurs concepts sont développés :
 	- Le Brahman—oversoul.
@@ -59,13 +59,13 @@ Au cours des profondes spéculations métaphysiques concernant la nature de la r
 
 Les Upanishads concluent que la réalité est un monisme. Ils nient la réalité de toutes choses à l'exception de l'Absolu indéfinissable, englobant tout et inconnaissable.
 
-### 4. **Le Mahabharata**. (500 av. J.-C.) Un poème épique. **Voir les liens ci-dessus**
+### 4. Le Mahabharata**. (500 av. J.-C.) Un poème épique. **Voir les liens ci-dessus
 
 Il s'agit d'un poème épique de grande longueur contenant une grande partie de la mythologie des envahisseurs aryens de l'Inde.
 
 La **Bhagavad-Gita**, dont l'origine remonte peut-être au premier siècle av. J.-C., fut quelque temps après insérée dans le Mahabharata. C'est l'une des écritures hindoues les plus attrayantes, écrite de manière à être compréhensible pour l'homme moyen. Il met l'accent sur l'activité religieuse et la dévotion. Certains chercheurs ont envisagé la possibilité de sa dette envers les écrits chrétiens antérieurs, mais cette hypothèse a été généralement rejetée.
 
-### 5. **Lois de Manu**. (200 av. J.-C.) Juridique—éthique. **Voir les liens ci-dessus**
+### 5. Lois de Manu. (200 av. J.-C.) Juridique—éthique. Voir les liens ci-dessus
 
 Cette collecte est de nature légale et éthique, traitant des problèmes suivants.
 	- a. Fonction des quatre castes.
@@ -123,7 +123,7 @@ Le **sikhisme**, mélange d'islam et d'hindouisme, a été fondé au XVe siècle
 
 Le total des écrits sacrés se compose de neuf livres - cinq canoniques et quatre non canoniques.
 
-### 1. **Les « rois » canoniques**
+### 1. Les « rois » canoniques
 
 Les quatre premiers livres ont été édités par Confucius ; le cinquième est en grande partie son propre travail.
 - a. **[Le roi YI](https://www.sacred-texts.com/ich/index.htm)**. (Le « Canon des changements »)
@@ -146,7 +146,7 @@ Les quatre premiers livres ont été édités par Confucius ; le cinquième est 
 		- (7) Il y a des divisions de territoires, mais pas de personnes ; tous les gens appartiennent à une seule famille.
 		- (8) Le monde entier est une grande unité.
 
-### 2. **Les « quatre livres » non canoniques**
+### 2. Les « quatre livres » non canoniques
 
 Bien qu'ils ne soient pas canoniques, ils ont le même statut que les « Kings ». Ils ont été écrits après la mort de Confucius par ses disciples — immédiats et lointains.
 - a. **LUN-YU**. (Analectes de Confucius)
@@ -159,7 +159,7 @@ Bien qu'ils ne soient pas canoniques, ils ont le même statut que les « Kings �
 - d. **[MENG TZU](https://www.sacred-texts.com/cfu/menc/index.htm)**. (« Mencius »)
 	A vécu 372-289 av. J.-C. Le plus grand des disciples. Exposé des enseignements confucéens par l'utilisation de la forme de dialogue. Continue l'exposition de la doctrine de la moyenne avec un accent particulier sur sa relation avec le gouvernement.
 
-### 3. **Enseignements du confucianisme**
+### 3. Enseignements du confucianisme
 
 - a. **La fin principale de l'homme** est de devenir un membre désirable de la société.
 - b. **Croyance en Dieu**. Confucius a reconnu un pouvoir surhumain qui était lié à l'homme mais a peu parlé à ce sujet.

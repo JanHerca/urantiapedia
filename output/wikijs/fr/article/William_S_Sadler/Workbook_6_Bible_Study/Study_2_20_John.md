@@ -72,7 +72,7 @@ Auteur: **William S. Sadler**
 
 1. **Le message**. «Voici le message que nous avons entendu de lui et que nous vous annonçons, que Dieu est lumière et qu'il n'y a en lui aucune ténèbres.» [1:5](/fr/Bible/1_John/1#v5).
 2. **Certain pardon**. «Si nous confessons nos péchés, il est fidèle et juste, et pardonnera nos péchés et nous purifiera de toute injustice,» [1:9](/fr/Bible/1_John/1#v9).
-3. ** N'aimez pas le monde **. «N'aimez pas le monde ni les choses du monde. Si quelqu'un aime le monde, l'amour du Père n'est pas en lui.» [2:15](/fr/Bible/1_John/2#v15).
+3. **N'aimez pas le monde**. «N'aimez pas le monde ni les choses du monde. Si quelqu'un aime le monde, l'amour du Père n'est pas en lui.» [2:15](/fr/Bible/1_John/2#v15).
 4. **Vie respectueuse**. «Le monde passe, et sa convoitise; mais celui qui fait la volonté de Dieu demeure éternellement.» [2:17](/fr/Bible/1_John/2#v17).
 5. **La vie éternelle**. «Et voici ce qu'il nous a promis, la vie éternelle.» [2:25](/fr/Bible/1_John/2#v25).
 6. **Fils de Dieu**. «Voyez quel amour le Père nous a donné pour que nous soyons appelés enfants de Dieu.» [3:1](/fr/Bible/1_John/3#v1).

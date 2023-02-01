@@ -176,7 +176,7 @@ Auteur: **William S. Sadler**
 23. **Être cohérent**. «'Vous, guides aveugles, qui avez tendu un moucheron et avalé un chameau.'» [23:24](/fr/Bible/Matthew/23#v24).
 24. **Le deuxième avènement**. «'Mais personne ne connaît ce jour et cette heure, pas même les anges du ciel, ni le Fils, mais le Père seul.'» [24:36](/fr/Bible/Matthew/24#v36).
 25. **Intendance**. «'Mais à celui qui n'a pas, même ce qu'il a lui sera ôté.'» [25:29](/fr/Bible/Matthew/25#v29).
-26. ** À l'un des moins **. «'»Comme tu l'as fait à l'un de ces plus petits de mes frères, c'est à moi que tu l'as fait.«'» [25:40](/fr/Bible/Matthew/25#v40).
+26. **À l'un des moins**. «'»Comme tu l'as fait à l'un de ces plus petits de mes frères, c'est à moi que tu l'as fait.«'» [25:40](/fr/Bible/Matthew/25#v40).
 27. **Passage de la coupe**. « Il tomba sur sa face et pria : ‘Mon père, s’il est possible, que cette coupe passe loin de moi ; néanmoins, non pas comme je veux, mais comme tu veux.’ » [26:39](/fr/Bible/ Matthieu/26#v39).
 28. **Douze légions d'anges**. «'Penses-tu que je ne puisse pas faire appel à mon Père, et qu'il m'envoie immédiatement plus de douze légions d'anges?'» [26:53](/fr/Bible/Matthew/26#v53).
 29. **Souveraineté suprême**. «Et Jésus... leur dit : 'Tout pouvoir m'a été donné dans les cieux et sur la terre.'» [28:18](/fr/Bible/Matthew/28#v18).

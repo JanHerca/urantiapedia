@@ -51,7 +51,7 @@ Avant environ 1000 av. J.-C., il n'y avait pas beaucoup d'écrits parmi les Juif
 19. L'Ancien Testament a mis près de mille ans à prendre forme. Les «anciens prophètes» couvrent la période allant d'Abraham à la captivité.
 20. Toutes sortes de littérature se trouvent dans l'Ancien Testament :
 	- a. **Juridique**—le [Pentateuque](https://en.wikipedia.org/wiki/Torah).
-	- b. **Historique**— [Josué](/fr/Bible/Joshua/1), [Juges](/fr/Bible/Judges/1), [Samuel](/fr/Bible/1_Samuel/1), [Rois](/fr/Bible/1_Kings/1), [Chronicles](/fr/Bible/1_Chronicles/1), [Ezra](/fr/Bible/Ezra/1), [Néhémie](/fr/Bible/Nehemiah /1), [Esther](/fr/Bible/Esther/1).
+	- b. **Historique**— [Josué](/fr/Bible/Joshua/1), [Juges](/fr/Bible/Judges/1), [Samuel](/fr/Bible/1_Samuel/1), [Rois](/fr/Bible/1_Kings/1), [Chronicles](/fr/Bible/1_Chronicles/1), [Ezra](/fr/Bible/Ezra/1), [Néhémie](/fr/Bible/Nehemiah/1), [Esther](/fr/Bible/Esther/1).
 	- c. **Prophétique**—les [prophètes majeurs et mineurs](http://biblebasics.wordpress.com/2007/02/16/major-and-minor-prophets/).
 	- d. **Sagesse**— [Proverbes](/fr/Bible/Proverbs/1), [Job](/fr/Bible/Job/1), [Ecclesiastes](/fr/Bible/Ecclesiastes/1), et les [Cantique des Cantiques](/fr/Bible/Songs/1).
 	- e. **Dévotionnelle**— [Psaumes](/fr/Bible/Psalms/1).

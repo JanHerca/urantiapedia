@@ -80,7 +80,7 @@ Auteur: **William S. Sadler**
 ## IV. Textes sélectionnés
 
 1. **Le deuxième avènement**. «Il vient avec les nuages, et tous les yeux le verront.» [1:7](/fr/Bible/Revelation/1#v7).
-2. ** En sécurité au paradis **. «'A celui qui vaincra, je donnerai de manger de l'arbre de vie, qui est dans le paradis de Dieu.'» [2:7](/fr/Bible/Revelation/2#v7).
+2. **En sécurité au paradis**. «'A celui qui vaincra, je donnerai de manger de l'arbre de vie, qui est dans le paradis de Dieu.'» [2:7](/fr/Bible/Revelation/2#v7).
 3. **Le nouveau nom**. «'Je lui donnerai une pierre blanche, avec un nouveau nom.'» [2:17](/fr/Bible/Revelation/2#v17).
 4. **Conquérants**. «'Celui qui vaincra, je ferai de lui une colonne dans le temple de mon Dieu.'» 3.12.
 5. **Le tiède**. «'Ainsi, parce que tu es tiède, et que tu n'es ni froid ni bouillant, je te vomirai de ma bouche.'» [3:16](/fr/Bible/Revelation/3#v16).

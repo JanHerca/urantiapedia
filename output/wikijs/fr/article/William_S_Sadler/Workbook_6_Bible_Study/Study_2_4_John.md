@@ -184,7 +184,7 @@ Auteur: **William S. Sadler**
 32. **Parabole de l'humilité**. «Alors il... se mit à laver les pieds des disciples et à les essuyer avec le linge dont il était ceint.» [13:5](/fr/Bible/John/13#v5).
 33. **Disciple que Jésus aimait**. «L'un de ses disciples, que Jésus aimait, était couché près de la poitrine de Jésus.» [13:23](/fr/Bible/John/13#v23).
 34. **Le nouveau commandement**. «'Je vous donne un commandement nouveau, que vous vous aimiez les uns les autres, comme je vous ai aimés.'» [13:34](/fr/Bible/John/13#v34).
-35. ** Libéré de la peur **. «'Que vos coeurs ne soient pas troublés; croyez en Dieu, croyez aussi en moi.'» [14:1](/fr/Bible/John/14#v1).
+35. **Libéré de la peur**. «'Que vos coeurs ne soient pas troublés; croyez en Dieu, croyez aussi en moi.'» [14:1](/fr/Bible/John/14#v1).
 36. **Les nombreuses demeures**. «'Dans la maison de mon Père, il y a plusieurs pièces.'» [14:2](/fr/Bible/John/14#v2).
 37. **Paix parfaite**. «'Je vous laisse la paix, je vous donne ma paix.'» [14:27](/fr/Bible/John/14#v27).
 38. **Lumière et culpabilité**. «'Si je n'étais pas venu... ils n'auraient pas de péché; mais maintenant ils n'ont aucune excuse pour leur péché.'» [15:22](/fr/Bible/John/15#v22).

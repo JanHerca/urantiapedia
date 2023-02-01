@@ -103,7 +103,7 @@ Auteur: **William S. Sadler**
 6. **Embuscade d'Ai**. «L'embuscade s'est rapidement levée de leur place ... ils ont couru et sont entrés dans la ville et l'ont prise; et ils se sont dépêchés de mettre le feu à la ville.» [8:19](/fr/Bible/Joshua/8#v19).
 7. **Déception de Gabaon**. «Les habitants de Gabaon ... ont agi avec ruse et sont allés ... et ont pris des sacs usés ... des sandales rapiécées ... et des vêtements usés; et toutes leurs provisions étaient sèches et moisies.» [9:3-5](/fr/Bible/Joshua/9#v3).
 	«Et Josué fit la paix avec eux, et fit alliance avec eux, pour les laisser vivre.» [9:15](/fr/Bible/Joshua/9#v15).
-	«Josué... leur dit : 'Pourquoi nous avez-vous trompés... certains d'entre vous seront toujours esclaves, coupeurs de bois et puiseurs d'eau.'» [9:22,23](/fr/Bible/Joshua /9#v22).
+	«Josué... leur dit : 'Pourquoi nous avez-vous trompés... certains d'entre vous seront toujours esclaves, coupeurs de bois et puiseurs d'eau.'» [9:22,23](/fr/Bible/Joshua/9#v22).
 8. **Le soleil s'arrête**. «Alors Josué parla... 'Soleil, arrête-toi à Gabaon'... Et le soleil s'arrêta, et la lune s'arrêta, jusqu'à ce que la nation se venge de ses ennemis.» [10:12,13](/fr/Bible/Joshua/10#v12).
 9. **Réclamations de victoire**. «Alors toute l'assemblée du peuple d'Israël s'assembla à Silo et y dressa la tente d'assignation ; le pays était soumis devant eux.» [18:1](/fr/Bible/Joshua/18#v1).
 10. **Nature de Yahweh**. « Josué dit au peuple : ‘Vous ne pouvez pas servir le Seigneur, car c’est un Dieu saint ; c’est un Dieu jaloux ; il ne pardonnera ni vos transgressions ni vos péchés.’ » [24:19](/fr/Bible/Joshua/24#v19).

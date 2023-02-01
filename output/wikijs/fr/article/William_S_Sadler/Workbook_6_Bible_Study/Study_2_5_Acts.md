@@ -90,7 +90,7 @@ Auteur: **William S. Sadler**
 16. **Philippe et l'eunuque**. «Ils descendirent tous les deux dans l'eau... et il le baptisa... l'Esprit du Seigneur saisit Philippe, et l'eunuque ne le vit plus.» [8:38,39](/fr/Bible/Acts_of_the_Apostles/8#v38).
 17. **La conversion de Saül**. «Et il... entendit une voix qui lui disait : 'Saul, Saul, pourquoi me persécutes-tu ?' Et il dit : 'Qui es-tu, Seigneur ?' Et il dit : Je suis Jésus, que tu persécutes.'» [9:4,5](/fr/Bible/Acts_of_the_Apostles/9#v4).
 18. **Saül commence son travail**. «Mais Saül augmenta d'autant plus en force, et confondit les Juifs qui vivaient à Damas en prouvant que Jésus était le Christ.» [9:22](/fr/Bible/Acts_of_the_Apostles/9#v22).
-19. ** Barnabas associe Paul **. «Quand il était venu à Jérusalem... ils avaient tous peur de lui... Mais Barnabas... l'a amené aux apôtres.» [9:26,27](/fr/Bible/Acts_of_the_Apostles/9#v26).
+19. **Barnabas associe Paul**. «Quand il était venu à Jérusalem... ils avaient tous peur de lui... Mais Barnabas... l'a amené aux apôtres.» [9:26,27](/fr/Bible/Acts_of_the_Apostles/9#v26).
 20. **Peter élève Dorcas**. «Mais Pierre... s'est agenouillé et a prié; puis, se tournant vers le corps, il a dit: '... lève-toi.' Et elle a ouvert les yeux.» [9:40](/fr/Bible/Acts_of_the_Apostles/9#v40).
 21. **Le discours d'ouverture**. «'Comment Dieu a oint Jésus de Nazareth du Saint-Esprit et de puissance, comment il allait de lieu en lieu faisant du bien et guérissant tous ceux qui étaient opprimés par le diable, car Dieu était avec lui.'» [10:38](/fr/Bible/Acts_of_the_Apostles/10#v38).
 22. **D'abord appelés Chrétiens**. «A Antioche, les disciples furent pour la première fois appelés chrétiens.» [11:26](/fr/Bible/Acts_of_the_Apostles/11#v26).
@@ -106,7 +106,7 @@ Auteur: **William S. Sadler**
 32. **Aquila et Friscille**. «Il est resté avec eux, et ils ont travaillé, car par métier ils étaient fabricants de tentes,» [18:3](/fr/Bible/Acts_of_the_Apostles/18#v3).
 33. **Les «mouchoirs**» aagiques. «Dieu a fait des miracles extraordinaires par les mains de Paul, de sorte que des mouchoirs ou des tabliers ont été emportés de son corps vers les malades, et les maladies les ont quittés, et les mauvais esprits sont sortis d'eux.» [19:11,12](/fr/Bible/Acts_of_the_Apostles/19#v11).
 34. **Magiciens convertis**. «Ceux qui pratiquaient les arts magiques rassemblèrent leurs livres et les brûlèrent à la vue de tous; et ils en comptèrent la valeur et trouvèrent qu'elle s'élevait à cinquante mille pièces d'argent.» [19:19](/fr/Bible/Acts_of_the_Apostles/19#v19).
-35. ** Rompre le pain **. «Le premier jour de la semaine, alors que nous étions réunis pour rompre le pain, Paul parla avec eux.» [20:70](/fr/Bible/Acts_of_the_Apostles/20#v70).
+35. **Rompre le pain**. «Le premier jour de la semaine, alors que nous étions réunis pour rompre le pain, Paul parla avec eux.» [20:70](/fr/Bible/Acts_of_the_Apostles/20#v70).
 36. **Paul en appelle à César**. «'J'en appelle à César.'» [25:11](/fr/Bible/Acts_of_the_Apostles/25#v11).
 37. **Festus traite Paul de fou**. «Festus a dit... 'Paul, tu es fou ; ta grande science te rend fou.'» [26:24](/fr/Bible/Acts_of_the_Apostles/26#v24).
 38. **Agrippa et Paul**. «Agrippa a dit à Paul : 'En peu de temps, tu penses faire de moi un chrétien !'» [26:28](/fr/Bible/Acts_of_the_Apostles/26#v28).

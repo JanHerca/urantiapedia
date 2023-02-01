@@ -182,13 +182,13 @@ Auteur: **William S. Sadler**
 17. **Le journal dans vos propres yeux**. « 'Pourquoi vois-tu la paille qui est dans l'œil de ton frère, mais ne remarques-tu pas la bûche qui est dans ton œil ?' » [6:41](/fr/Bible/Luke/6#v41).
 18. **Le fils de la veuve**. «Et il dit: 'Jeune homme, je te le dis, lève-toi.' Et le mort s'assit et se mit à parler.» [7:14,15](/fr/Bible/Luke/7#v14).
 19. **Quelqu'un m'a touché**. «Mais Jésus dit: 'Quelqu'un m'a touché, car je vois qu'une force est sortie de moi.'» [8:46](/fr/Bible/Luke/8#v46).
-20. ** Net mort, mais endormi **. «Mais il a dit : 'Ne pleure pas, car elle n'est pas morte mais elle dort.'» [8:52](/fr/Bible/Luke/8#v52).
+20. **Net mort, mais endormi**. «Mais il a dit : 'Ne pleure pas, car elle n'est pas morte mais elle dort.'» [8:52](/fr/Bible/Luke/8#v52).
 21. **Confession de Pierre**. « Mais qui dites-vous que je suis ? » Et Pierre répondit : 'Le Christ de Dieu.'" [9:20](/fr/Bible/Luke/9#v20).
 22. **Regard en arrière**. «'Quiconque met la main à la charrue et regarde en arrière n'est pas digne du royaume de Dieu.'» [9:62](/fr/Bible/Luke/9#v62).
 23. **Le bon Samaritain**. «'Lequel de ces trois, pensez-vous, s'est avéré le voisin de l'homme qui est tombé parmi les voleurs ?' Il a dit, 'Celui qui lui a fait miséricorde.' Et Jésus lui dit : 'Va et fais de même.'» [10:36,37](/fr/Bible/Luke/10#v36).
-24. **Troublé par des bagatelles**. «'Marthe, Marthe, tu es inquiète et inquiète de beaucoup de choses; une seule est nécessaire. Marie a choisi la bonne part, qui ne lui sera pas ôtée.'» [10:41,42](/fr/Bible /Luc/10#v41).
+24. **Troublé par des bagatelles**. «'Marthe, Marthe, tu es inquiète et inquiète de beaucoup de choses; une seule est nécessaire. Marie a choisi la bonne part, qui ne lui sera pas ôtée.'» [10:41,42](/fr/Bible/Luc/10#v41).
 25. **Celui qui cherche trouve**. «'Car quiconque demande reçoit, et celui qui cherche trouve, et on ouvrira à celui qui frappe.'» [11:10](/fr/Bible/Luke/11#v10).
-26. ** Négliger les questions importantes **. «'Mais malheur à vous les pharisiens ! car vous donnez la dîme de la menthe, de la rue et de toute herbe, et vous négligez la justice et l'amour de Dieu.'» [11:42](/fr/Bible/Luke/11#v42).
+26. **Négliger les questions importantes**. «'Mais malheur à vous les pharisiens ! car vous donnez la dîme de la menthe, de la rue et de toute herbe, et vous négligez la justice et l'amour de Dieu.'» [11:42](/fr/Bible/Luke/11#v42).
 27. **Les cheveux de votre tête**. «'Même les cheveux de votre tête sont tous comptés. Ne craignez rien, vous valez plus que beaucoup de moineaux.'» [12:7](/fr/Bible/Luke/12#v7).
 28. **Anxiété inutile**. «'Ne t'inquiète pas pour ta vie, de ce que tu mangeras, ni pour ton corps, de quoi tu te vêtiras.'» [12:22](/fr/Bible/Luke/12#v22).
 	« ‘Considérez les lis, comment ils poussent ; ils ne travaillent ni ne filent ; pourtant, je vous le dis, même Salomon, dans toute sa gloire, n’a pas été vêtu comme l’un d’eux.’ » [12:27](/fr/Bible/Luke/ 12#v27).
@@ -197,7 +197,7 @@ Auteur: **William S. Sadler**
 31. **Joie au paradis**. «'Il y aura plus de joie dans le ciel pour un seul pécheur qui se repent que pour quatre-vingt-dix-neuf justes qui n'ont pas besoin de repentir.'» [15:7](/fr/Bible/Luke/15#v7).
 32. **Un lépreux sur dix**. « Alors Jésus dit : 'Dix n'ont-ils pas été purifiés ? Où sont les neuf ? ).
 33. **Devrait toujours prier**. «Qu'ils doivent toujours prier et ne pas se décourager.» [18:1](/fr/Bible/Luke/18#v1).
-34. **Le collecteur d'impôts**. «Mais le collecteur d'impôts, qui se tenait au loin, ne levait même pas les yeux au ciel, mais se frappait la poitrine en disant : 'Ô Dieu, aie pitié de moi, pécheur'» [18:13](/fr/Bible/Luke /18#v13).
+34. **Le collecteur d'impôts**. «Mais le collecteur d'impôts, qui se tenait au loin, ne levait même pas les yeux au ciel, mais se frappait la poitrine en disant : 'Ô Dieu, aie pitié de moi, pécheur'» [18:13](/fr/Bible/Luke/18#v13).
 35. **Séjour chez Zachée**. «Jésus... leva les yeux et lui dit : 'Zachée, hâte-toi de descendre, car je dois rester chez toi aujourd'hui.'» [19:5](/fr/Bible/Luke/19#v5).
 36. **Le serviteur fidèle**. «'C'est bien, bon serviteur ! Parce que tu as été fidèle en très peu de temps, tu auras autorité sur dix villes.'» [19:17](/fr/Bible/Luke/19#v17).
 37. **Payer des impôts**. « Il leur dit : Rendez donc à César ce qui est à César, et à Dieu ce qui est à Dieu. » [20:25](/fr/Bible/Luke/20#v25).

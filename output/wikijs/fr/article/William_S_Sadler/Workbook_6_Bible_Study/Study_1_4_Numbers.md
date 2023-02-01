@@ -119,7 +119,7 @@ Auteur: **William S. Sadler**
 11. **Le bâton d'Aaron**. «La verge d'Aaron ... avait germé et produit des bourgeons, et produit des fleurs, et elle portait des amandes mûres.» [17:8](/fr/Bible/Numbers/17#v8).
 12. **Dîmes**. «'Aux Lévites, j'ai donné toute dîme en Israël en héritage.'» [18:21](/fr/Bible/Numbers/18#v21).
 13. **Le cul de Balaam parle**. « Alors l'Éternel ouvrit la bouche de l'ânesse, et elle dit à Balaam : « Que t'ai-je fait, pour que tu m'aies frappé ces trois fois ? »... Alors l'Éternel ouvrit les yeux de Balaam, et il vit l'ange du Seigneur se tenant sur le chemin, son épée nue à la main." [22:28,31](/fr/Bible/Numbers/22#v28).
-14. ** Massacre brutal **. «'Tuez tout mâle parmi les petits, et tuez toute femme qui a connu un homme en couchant avec lui. Mais toutes les jeunes filles qui n'ont pas connu d'homme en couchant avec lui, gardez la vie pour vous.'» [31:17,18](/fr/Bible/Numbers/31#v17).
+14. **Massacre brutal**. «'Tuez tout mâle parmi les petits, et tuez toute femme qui a connu un homme en couchant avec lui. Mais toutes les jeunes filles qui n'ont pas connu d'homme en couchant avec lui, gardez la vie pour vous.'» [31:17,18](/fr/Bible/Numbers/31#v17).
 
 
 <br>

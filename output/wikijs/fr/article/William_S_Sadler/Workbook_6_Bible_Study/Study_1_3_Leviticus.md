@@ -122,11 +122,11 @@ Azazel est mentionné dans le livre d'Enoch comme le «chef des mauvais esprits�
 
 1. **Odeur agréable au Seigneur**. «'Et le sacrificateur prendra de l'offrande de céréales sa portion commémorative et la brûlera sur l'autel... une odeur agréable au Seigneur.'» [2:9](/fr/Bible/Leviticus/2#v9).
 2. **Feu divin**. «Et le feu sortit de devant l'Eternel et consuma l'holocauste.» [9:24](/fr/Bible/Leviticus/9#v24).
-3. **Aliments pour animaux**. «'Ce sont les êtres vivants que vous pouvez manger... Tout ce qui écarte le sabot et a le pied fourchu et rumine, parmi les animaux, vous pouvez le manger.'» [11:2,3](/fr/Bible /Lévitique/11#v2).
+3. **Aliments pour animaux**. «'Ce sont les êtres vivants que vous pouvez manger... Tout ce qui écarte le sabot et a le pied fourchu et rumine, parmi les animaux, vous pouvez le manger.'» [11:2,3](/fr/Bible/Lévitique/11#v2).
 4. **Porc**. «'Le porc, parce qu'il écarte le sabot et qu'il a le pied fourchu mais qu'il ne rumine pas, est impur pour vous.'» [11:7](/fr/Bible/Leviticus/11#v7).
 5. **Fruits de mer**. «'Ceux-ci vous pouvez manger, de tout ce qui est dans les eaux. Tout... ce qui a des nageoires et des écailles... vous pouvez manger.'» [11:9](/fr/Bible/Leviticus/11#v9) .
-6. **Les insectes**. «'Parmi les insectes ailés qui marchent à quatre pattes, vous pouvez manger ceux qui ont des pattes au-dessus de leurs pieds... le criquet... le grillon... et la sauterelle.'» [11:20-22](/fr/ Bible/Lévitique/11#v20).
-7. **Autres animaux impurs**. «'Ceux-ci sont impurs pour vous... la belette, la souris, le grand lézard... le gecko, le crocodile terrestre, le lézard, le lézard des sables et le caméléon.'» [11:29,30](/ fr/Bible/Lévitique/11#v29).
+6. **Les insectes**. «'Parmi les insectes ailés qui marchent à quatre pattes, vous pouvez manger ceux qui ont des pattes au-dessus de leurs pieds... le criquet... le grillon... et la sauterelle.'» [11:20-22](/fr/Bible/Lévitique/11#v20).
+7. **Autres animaux impurs**. «'Ceux-ci sont impurs pour vous... la belette, la souris, le grand lézard... le gecko, le crocodile terrestre, le lézard, le lézard des sables et le caméléon.'» [11:29,30](/fr/Bible/Lévitique/11#v29).
 8. **Sainteté**. «'Vous serez donc saints, car je suis saint.'» [11:45](/fr/Bible/Leviticus/11#v45).
 9. **Accouchement**. «'Si une femme... enfante un enfant mâle, elle sera impure sept jours... Elle continuera pendant trente-trois jours... Si elle enfante une fille, elle sera impure deux semaines... .et continuer... pendant soixante-six jours.'» [12:2-5](/fr/Bible/Leviticus/12#v2).
 10. **Diagnostiquer la lèpre**. «'Le prêtre procédera à un examen, et s'il y a une tuméfaction blanche... c'est une lèpre chronique.'» [13:9-11](/fr/Bible/Leviticus/13#v9).
@@ -136,7 +136,7 @@ Azazel est mentionné dans le livre d'Enoch comme le «chef des mauvais esprits�
 14. **Manger du sang**. «'Si quelqu'un... mange du sang, je mettrai mon visage contre lui.'» [17:10](/fr/Bible/Leviticus/17#v10).
 15. **Homosexualité**. «'Tu ne coucheras pas avec un homme comme avec une femme, c'est une abomination.'» [18:22](/fr/Bible/Leviticus/18#v22).
 16. **Aimez votre prochain comme vous-même**. «'Tu ne te vengeras pas des fils de ton peuple et tu ne garderas aucune rancune contre les fils de ton peuple, mais tu aimeras ton prochain comme toi-même.'» [19:18](/fr/Bible/Leviticus/19#v18).
-17. **Spiritualisme**. «'Si quelqu'un se tourne vers les médiums et les sorciers, se prostituant après eux, je tournerai ma face contre lui, et je le retrancherai du milieu de son peuple.'» [20:6](/fr/Bible/Leviticus /20#v6).
+17. **Spiritualisme**. «'Si quelqu'un se tourne vers les médiums et les sorciers, se prostituant après eux, je tournerai ma face contre lui, et je le retrancherai du milieu de son peuple.'» [20:6](/fr/Bible/Leviticus/20#v6).
 18. **Médiums**. «'Un homme ou une femme qui est un médium ou un sorcier sera mis à mort ; ils seront lapidés avec des pierres.'» [20:27](/fr/Bible/Leviticus/20#v27).
 19. **Blasphème**. «'Celui qui blasphème le nom du Seigneur sera mis à mort, toute l'assemblée le lapidera.'» [24:16](/fr/Bible/Leviticus/24#v16).
 

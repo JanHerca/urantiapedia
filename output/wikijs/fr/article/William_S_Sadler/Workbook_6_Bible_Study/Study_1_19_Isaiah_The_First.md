@@ -196,7 +196,7 @@ Auteur: **William S. Sadler**
 
 1. **Apprendre à faire le bien**. «Cessez de faire le mal, apprenez à faire le bien.» [1:16,17](/fr/Bible/Isaiah/1#v16).
 2. **Raisonnons ensemble**. «Venez maintenant, raisonnons ensemble... bien que vos péchés soient comme l'écarlate, ils deviendront aussi blancs que la neige; bien qu'ils soient rouges comme le cramoisi, ils deviendront comme la laine.» [1:18](/fr/Bible/Isaiah/1#v18).
-3. ** N'apprenez plus la guerre **. «Ils transformeront leurs épées en socs de charrue et leurs lances en serpes; ... ils n'apprendront plus la guerre.» [2:4](/fr/Bible/Isaiah/2#v4).
+3. **N'apprenez plus la guerre**. «Ils transformeront leurs épées en socs de charrue et leurs lances en serpes; ... ils n'apprendront plus la guerre.» [2:4](/fr/Bible/Isaiah/2#v4).
 4. **Alcoolisme**. «Malheur à ceux qui se lèvent tôt le matin pour courir après une boisson forte, qui tardent tard le soir jusqu'à ce que le vin les enflamme.» [5:11](/fr/Bible/Isaiah/5#v11).
 5. **La jeune femme**. «Voici, une jeune femme concevra et enfantera un fils, et appellera son nom Emmanuel.» [7:14](/fr/Bible/Isaiah/7#v14). (King James Version le rend «vierge».)
 6. **Médias de consultation**. «Quand ils vous disent: 'Consultez les médiums et les sorciers qui gazouillent et murmurent', un peuple ne devrait-il pas consulter son Dieu?» [8:19](/fr/Bible/Isaiah/8#v19).
@@ -204,7 +204,7 @@ Auteur: **William S. Sadler**
 8. **Le petit enfant**. «Et un petit enfant les conduira.» [11:6](/fr/Bible/Isaiah/11#v6).
 9. **Faites confiance et n'ayez pas peur**. «'Voici, Dieu est mon salut; j'aurai confiance et je n'aurai pas peur.'» [12:2](/fr/Bible/Isaiah/12#v2).
 10. **Chute de Lucifer**. «'Comment tu es tombé du ciel, Ô Étoile du Jour, fils de l'Aurore !... Tu as dit dans ton cœur : »Je monterai au ciel ; au-dessus des étoiles de Dieu... je me rendrai semblable au Très-Haut.«'» [14:12-14](/fr/Bible/Isaiah/14#v12).
-11. ** Paix parfaite **. «'Tu gardes dans une paix parfaite celui dont l'esprit s'est attaché à toi.'» [26:3](/fr/Bible/Isaiah/26#v3).
+11. **Paix parfaite**. «'Tu gardes dans une paix parfaite celui dont l'esprit s'est attaché à toi.'» [26:3](/fr/Bible/Isaiah/26#v3).
 12. **Un peu ici et un peu là**. «'C'est précepte sur précepte... ligne sur ligne... un peu ici, un peu là.'» [28:10](/fr/Bible/Isaiah/28#v10).
 13. **Source de notre force**. «'C'est en revenant et en vous reposant que vous serez sauvés ; c'est dans le calme et la confiance que sera votre force.'» [30:15](/fr/Bible/Isaiah/30#v15).
 14. **La petite voix douce**. «Et vos oreilles entendront une parole derrière vous, disant:» Voici le chemin, marchez-y «, quand vous tournez à droite ou quand vous tournez à gauche.» [30:21](/fr/Bible/Isaiah/30#v21).

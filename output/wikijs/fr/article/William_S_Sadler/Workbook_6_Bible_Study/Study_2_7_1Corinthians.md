@@ -97,7 +97,7 @@ Auteur: **William S. Sadler**
 16. **Le souper du souvenir**. «Et après avoir rendu grâces, il le rompit et dit : 'Ceci est mon corps qui est pour vous. Faites ceci en mémoire de moi.'» [11:24](/fr/Bible/1_Corinthians/11#v24 ).
 17. **L'amour est primordial**. «Si je parle dans les langues des hommes et des anges, mais que je n'ai pas d'amour, je suis un gong bruyant ou une cymbale retentissante.» [13:1](/fr/Bible/1_Corinthians/13#v1).
 18. **L'amour est suprême**. «L'amour supporte tout, croit tout, espère tout, supporte tout.» [13:7](/fr/Bible/1_Corinthians/13#v7).
-19. ** Aimez le plus grand **. «Alors la foi, l'espoir, l'amour demeurent, ces trois-là, mais le plus grand d'entre eux est l'amour.» [13:13](/fr/Bible/1_Corinthians/13#v13).
+19. **Aimez le plus grand**. «Alors la foi, l'espoir, l'amour demeurent, ces trois-là, mais le plus grand d'entre eux est l'amour.» [13:13](/fr/Bible/1_Corinthians/13#v13).
 20. **Silence de femme**. «Les femmes doivent garder le silence dans les églises.» [14:34](/fr/Bible/1_Corinthians/14#v34). «Car il est honteux pour une femme de parler à l'église.» [14:35](/fr/Bible/1_Corinthians/14#v35).
 21. **Péché originel**. «Car, comme tous meurent en Adam, de même aussi tous revivront en Christ.» [15:22](/fr/Bible/1_Corinthians/15#v22).
 22. **Baptême pour les morts**. «Sinon, qu'est-ce que les gens veulent dire par être baptisés au nom des morts ? Si les morts ne sont pas du tout ressuscités, pourquoi les gens sont-ils baptisés en leur nom ?» [15:29](/fr/Bible/1_Corinthians/15#v29).

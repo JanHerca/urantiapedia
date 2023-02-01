@@ -182,9 +182,9 @@ Auteur: **William S. Sadler**
 4. **La guérison du coucher du soleil**. «Ce soir-là, au coucher du soleil, ils lui amenèrent tous ceux qui étaient malades ou possédés de démons... Et il guérit beaucoup de malades atteints de diverses maladies, et chassa beaucoup de démons.» [1:32,34](/fr/Bible/Mark/1#v32).
 5. **Pardonner les péchés**. «'Ce qui est plus facile, de dire au paralytique : »Tes péchés sont pardonnés«, ou de dire : »Lève-toi, prends ton grabat et marche.« Mais afin que tu saches que le Fils de l'homme a sur la terre le pouvoir de pardonner les péchés '-il dit au paralytique-'Je te dis, lève-toi, prends ton grabat et rentre chez toi.'» [2:9-11](/fr/Bible/Mark/2#v9).
 6. **Appeler les pécheurs**. «'Je ne suis pas venu appeler des justes, mais des pécheurs.'» [2:17](/fr/Bible/Mark/2#v17).
-7. ** Sabbat fait pour l'homme **. « Et il leur dit : ‘Le sabbat a été fait pour l’homme, et non l’homme pour le sabbat ; c’est pourquoi le Fils de l’homme est maître même du sabbat.’ » [2:27,28](/fr/Bible/Mark/ 2#v27).
+7. **Sabbat fait pour l'homme**. « Et il leur dit : ‘Le sabbat a été fait pour l’homme, et non l’homme pour le sabbat ; c’est pourquoi le Fils de l’homme est maître même du sabbat.’ » [2:27,28](/fr/Bible/Mark/ 2#v27).
 8. **Parler en paraboles**. «Il ne leur a pas parlé sans parabole, mais en privé à ses propres disciples, il a tout expliqué.» [4:34](/fr/Bible/Mark/4#v34).
-9. ** Calme les vagues **. «Et il ... menaça le vent et dit à la mer: 'Paix! Taisez-vous' Et le vent cessa, et il y eut un grand calme.» 4-39.
+9. **Calme les vagues**. «Et il ... menaça le vent et dit à la mer: 'Paix! Taisez-vous' Et le vent cessa, et il y eut un grand calme.» 4-39.
 10. **Type particulier de guérison**. «Et Jésus, voyant en lui-même qu'une puissance était sortie de lui, se retourna aussitôt dans la foule, et dit: 'Qui a touché mes vêtements?'» [5:30](/fr/Bible/Mark/5#v30) .
 11. **Prophète et honneur**. « Et Jésus leur dit : Un prophète n'est méprisé que dans son pays. » [6:4](/fr/Bible/Mark/6#v4).
 12. **Nourrir cinq mille personnes**. «Et ceux qui ont mangé les pains étaient cinq mille hommes,» [6:44](/fr/Bible/Mark/6#v44).

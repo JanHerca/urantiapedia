@@ -1343,7 +1343,7 @@ Auteur: **William S. Sadler**
 
 ### I. LES APOCRYPHES DE L'ANCIEN TESTAMENT
 
-#### A. **LE CANON DE L'ANCIEN TESTAMENT**
+#### A. LE CANON DE L'ANCIEN TESTAMENT
 
 1. Il a fallu mille ans pour assembler les 39 livres qui composent l'Ancien Testament.
 2. Le canon de l'Ancien Testament a été établi lors d'une réunion de rabbins à Jamnia en 90 après JC.
@@ -1403,7 +1403,7 @@ Auteur: **William S. Sadler**
 	- Second Maccabées couvre le reste de la dynastie. Hérode régnait sous Rome.
 	- (Les troisième et quatrième Maccabées ne sont pas fiables.)
 
-#### C. **APOCALYPSE DE L'ANCIEN TESTAMENT**
+#### C. APOCALYPSE DE L'ANCIEN TESTAMENT
 
 Alors que les livres d'apocalypse pouvaient être trouvés dans les coffres d'écritures de la synagogue et étaient souvent lus lors des offices, ils n'ont jamais été intégrés à l'Ancien Testament. Ils étaient considérés comme inférieurs aux Apocryphes.
 
@@ -1435,7 +1435,7 @@ Ces livres étaient :
 
 Le canon du Nouveau Testament a été adopté en trois sessions. Hippopotames AD 393. Carthage 397 et 419.
 
-#### A. **FRAGMENTS DES PREMIERS EVANGILES**
+#### A. FRAGMENTS DES PREMIERS EVANGILES
 
 Il existe plus d'une centaine de ces fragments, le plus gros étant :
 
@@ -1451,7 +1451,7 @@ Il existe plus d'une centaine de ces fragments, le plus gros étant :
 10. Fragments coptes
 11. Agrapha - Proverbes évangéliques trouvés dans d'autres ouvrages
 
-#### B. **LIVRES PERDUS**
+#### B. LIVRES PERDUS
 
 1. Naissance de Marie
 2. Épiphane
@@ -1460,7 +1460,7 @@ Il existe plus d'une centaine de ces fragments, le plus gros étant :
 5. Quelques livres de la Trinité par les apôtres et les premiers disciples
 6. Quelque 50 livres divers
 
-#### C. **LES ÉVANGILES**
+#### C. LES ÉVANGILES
 
 1. **PROTEVANGELIUM** (Livre de Jacques)
 
@@ -1510,7 +1510,7 @@ Un livre égyptien. A vécu 111 ans. Veuf — avait quatre fils et deux filles. 
 
 Peu différent des autres récits.
 
-#### D. **LES ÉVANGILES DE LA PASSION**
+#### D. LES ÉVANGILES DE LA PASSION
 
 1. **ÉVANGILE DE PIERRE**
 
@@ -1590,7 +1590,7 @@ Après l'assomption de Marie, les apôtres sont transportés par avion jusqu'à 
 
 Thomas tarda à arriver — il croisa Marie en l'air — elle lui lança sa ceinture — il la montra aux apôtres.
 
-#### E. **ACTES**
+#### E. ACTES
 
 1. **LES ACTES DE JEAN**
 
@@ -1682,7 +1682,7 @@ Ils ont mis une corde autour d'Andrew et l'ont traîné dans les rues. Puis jete
 
 Andrew est transporté de la ville des mangeurs d'hommes à une montagne pour rencontrer Pierre. Ils sèment des graines et elles poussent immédiatement sous forme de grain mûri. Jésus apparaît sous la forme d'un garçon de 12 ans et fait passer un chameau par le chas d'une aiguille. Mille âmes ont été baptisées. Andrew va à la pêche. Attrape 12 000 poissons. Ils le suivent même sur la terre ferme.
 
-#### F. **LES ÉPÎTRES**
+#### F. LES ÉPÎTRES
 
 1. **LETTRES DU CHRIST ET ABGARUS**
 
@@ -1704,7 +1704,7 @@ Sénèque, à la cour de César, échange quelque 14 lettres avec Paul. Rien de 
 
 C'est l'œuvre majeure des Épîtres. Il s'agit d'un examen long mais banal de nombreux événements de la vie de Jésus. Il y a une réponse à une question quant à savoir quand il reviendrait après son retour auprès de son Père. La réponse semble dire qu'il reviendrait après 150 ans.
 
-#### G. **APOCALYPSES**
+#### G. APOCALYPSES
 
 1. **APOCALYPSE DE PIERRE**
 
@@ -1742,7 +1742,7 @@ Beaucoup sur les derniers jugements sur terre - pluie de sang, etc. Représente 
 
 L'histoire de Saul voyant Étienne lapidé à mort. Gamaliel réprimande Saul.
 
-#### H. **DOCUMENTS DIVERS**
+#### H. DOCUMENTS DIVERS
 
 1. **LE CREDO DES APÔTRES**
 

@@ -165,7 +165,7 @@ Auteur: **William S. Sadler**
 
 1. **La crainte du Seigneur**. «La crainte du Seigneur est le commencement de la connaissance.» [1:7](/fr/Bible/Proverbs/1#v7).
 2. **Le montant**. «Car les hommes droits habiteront le pays.» [2:21](/fr/Bible/Proverbs/2#v21).
-3. ** Faire confiance à Dieu **. «Faites confiance au Seigneur de tout votre cœur et ne vous fiez pas à votre propre perspicacité.» [3:5](/fr/Bible/Proverbs/3#v5).
+3. **Faire confiance à Dieu**. «Faites confiance au Seigneur de tout votre cœur et ne vous fiez pas à votre propre perspicacité.» [3:5](/fr/Bible/Proverbs/3#v5).
 4. **Bonheur et sagesse**. «Heureux est l'homme qui trouve la sagesse, et l'homme qui acquiert la compréhension.» [3:13](/fr/Bible/Proverbs/3#v13).
 5. **Discours tordu**. «Éloignez-vous de la parole tordue, et éloignez de vous la conversation sournoise.» [4:24](/fr/Bible/Proverbs/4#v24).
 6. **Apprenez des fourmis**. « Allez vers la fourmi, ô paresseuse ; réfléchissez à ses voies et soyez sage. » [6:6](/fr/Bible/Proverbs/6#v6).
@@ -177,7 +177,7 @@ Auteur: **William S. Sadler**
 12. **Orgueil et honte**. «Lorsque vient l'orgueil, vient alors la disgrâce; mais chez les humbles est la sagesse.» [11:2](/fr/Bible/Proverbs/11#v2).
 13. **Fruit des justes**. «Le fruit du juste est un arbre de vie.» [11:30](/fr/Bible/Proverbs/11#v30).
 14. **Le mal et le juste**. «Aucun mal n'arrive aux justes, mais les méchants sont remplis d'ennuis.» [12:21](/fr/Bible/Proverbs/12#v21).
-15. ** Richesse hâtive **. «La richesse acquise à la hâte diminuera, mais celui qui la rassemble peu à peu l'augmentera.» [13:11](/fr/Bible/Proverbs/13#v11).
+15. **Richesse hâtive**. «La richesse acquise à la hâte diminuera, mais celui qui la rassemble peu à peu l'augmentera.» [13:11](/fr/Bible/Proverbs/13#v11).
 16. **Épargnant la canne**. «Celui qui épargne le bâton déteste son fils.» [13:24](/fr/Bible/Proverbs/13#v24).
 17. **La manière trompeuse**. «Il y a un chemin qui semble droit à un homme, mais sa fin est le chemin de la mort.» [14:12](/fr/Bible/Proverbs/14#v12).
 18. **Tranquillité**. «Un esprit tranquille donne vie à la chair, mais la passion fait pourrir les os.» [14:30](/fr/Bible/Proverbs/14#v30).

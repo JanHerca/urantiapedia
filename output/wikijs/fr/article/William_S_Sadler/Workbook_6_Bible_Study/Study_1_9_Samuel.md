@@ -196,10 +196,10 @@ Avant la Septante, le Premier et le Deuxième Samuel formaient un seul livre.
 ### 1 Samuel
 
 1. **Samuel grandit**. «Maintenant, le garçon Samuel a continué à croître à la fois en stature et en faveur auprès du Seigneur et des hommes.» [2:26](/fr/Bible/1_Samuel/2#v26).
-2. **Eli apprend une mauvaise nouvelle**. «'Israël s'est enfui devant les Philistins, et il y a eu aussi un grand carnage... Vos deux fils aussi... sont morts, et l'arche de Dieu a été prise.'» [4:17](/fr/ Bible/1_Samuel/4#v17).
+2. **Eli apprend une mauvaise nouvelle**. «'Israël s'est enfui devant les Philistins, et il y a eu aussi un grand carnage... Vos deux fils aussi... sont morts, et l'arche de Dieu a été prise.'» [4:17](/fr/Bible/1_Samuel/4#v17).
 3. **Retour de l'arche**. «» Renvoyez l'arche du Dieu d'Israël, et laissez-la retourner à sa place, afin qu'elle ne nous tue pas, nous et notre peuple. «» [5:11](/fr/Bible/1_Samuel/5#v11) .
 4. **Clameur pour un roi**. «'Vous êtes vieux ... nommez-nous maintenant un roi pour nous gouverner comme toutes les nations.'» [8:5](/fr/Bible/1_Samuel/8#v5).
-5. **Saul oint**. «Alors Samuel prit une fiole d'huile et la versa sur sa tête, et l'embrassa et dit: 'L'Éternel ne t'a-t-il pas oint pour être prince sur son peuple Israël?'» [10:1](/fr/Bible/1_Samuel /10#v1).
+5. **Saul oint**. «Alors Samuel prit une fiole d'huile et la versa sur sa tête, et l'embrassa et dit: 'L'Éternel ne t'a-t-il pas oint pour être prince sur son peuple Israël?'» [10:1](/fr/Bible/1_Samuel/10#v1).
 6. **Obéissance contre sacrifice**. «'Voici, obéir vaut mieux que le sacrifice, et écouter que la graisse des béliers.'» [15:22](/fr/Bible/1_Samuel/15#v22).
 7. **Dieu se repent**. «Et l'Éternel se repentit d'avoir établi Saül roi sur Israël.» [15:35](/fr/Bible/1_Samuel/15#v35).
 8. **Dieu envoie un mauvais esprit**. «L'Esprit du Seigneur se retira de Saül, et un mauvais esprit venant du Seigneur le tourmenta.» [16:14](/fr/Bible/1_Samuel/16#v14).

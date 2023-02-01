@@ -85,7 +85,7 @@ Auteur: **William S. Sadler**
 8. **Réconciliation divine**. «Dieu était en Christ, réconciliant le monde avec lui-même.» [5:19](/fr/Bible/2_Corinthians/5#v19).
 9. **Mariages d'incroyants**. «Ne vous confondez pas avec les incroyants.» [6:14](/fr/Bible/2_Corinthians/6#v14).
 10. **Temples de Dieu**. «Car nous sommes le temple du Dieu vivant.» [6:16](/fr/Bible/2_Corinthians/6#v16).
-11. ** Vie propre **. « Purifions-nous de toute souillure du corps et de l'esprit, et rendons la sainteté parfaite dans la crainte de Dieu. [7:1](/fr/Bible/2_Corinthians/7#v1).
+11. **Vie propre**. « Purifions-nous de toute souillure du corps et de l'esprit, et rendons la sainteté parfaite dans la crainte de Dieu. [7:1](/fr/Bible/2_Corinthians/7#v1).
 12. **Selon capacité**. «Si la préparation est là, elle est acceptable selon ce qu'un homme a, non selon ce qu'il n'a pas.» [8:12](/fr/Bible/2_Corinthians/8#v12).
 13. **Déguisement satanique**. «Et ce n'est pas étonnant, car même Satan se déguise en ange de lumière.» [11:14](/fr/Bible/2_Corinthians/11#v14).
 14. **La révélation de Paul**. «Cet homme a été enlevé au Paradis... et il a entendu des choses qu'on ne peut pas dire.» [12:3](/fr/Bible/2_Corinthians/12#v3).4.

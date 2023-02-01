@@ -138,7 +138,7 @@ Auteur: **William S. Sadler**
 6. **Discipline familiale**. «Car si un homme ne sait pas comment gérer sa propre maison, comment peut-il prendre soin de l'église de Dieu.» [3:5](/fr/Bible/1_Timothy/3#v5).
 7. **Qualification pour les diacres**. «De même, les diacres doivent être sérieux, ne pas parler deux fois, ne pas être dépendants de beaucoup de vin, ne pas être avides de gain ; ils ne tiennent pas le mystère de la foi avec une conscience claire.» [3:8,9](/fr/Bible/1_Timothy/3#v8).
 8. **La chute**. «Dans les derniers temps, certains s'écarteront de la foi en prêtant attention aux esprits trompeurs et aux doctrines des démons.» [4:1](/fr/Bible/1_Timothy/4#v1).
-9. ** Plaidoyer pour la maturité **. «N'ayez rien à voir avec les mythes impies et stupides. Entraînez-vous à la piété.» [4:7](/fr/Bible/1_Timothy/4#v7).
+9. **Plaidoyer pour la maturité**. «N'ayez rien à voir avec les mythes impies et stupides. Entraînez-vous à la piété.» [4:7](/fr/Bible/1_Timothy/4#v7).
 10. **Droits des jeunes**. «Que personne ne méprise ta jeunesse, mais donne aux croyants un exemple de parole et de conduite, d'amour, de foi, de pureté.» [4:12](/fr/Bible/1_Timothy/4#v12).
 11. **Prenez soin de votre cadeau**. «Ne négligez pas le don que vous avez.» [4:14](/fr/Bible/1_Timothy/4#v14).
 12. **Obligations familiales**. «Si quelqu'un ne pourvoit pas aux besoins de ses parents, et surtout de sa propre famille, il a renié la foi et est pire qu'un incroyant.» [5:8](/fr/Bible/1_Timothy/5#v8).

@@ -76,7 +76,7 @@ Auteur: **William S. Sadler**
 3. **Épées en socs**. «Et ils transformeront leurs épées en socs de charrue, et leurs lances en serpes... et ils n'apprendront plus la guerre.» [4:3](/fr/Bible/Micah/4#v3).
 4. **Caractère individuel**. «Ils s'assiéront chacun sous sa vigne et sous son figuier, et personne ne les effrayera.» [4:4](/fr/Bible/Micah/4#v4).
 5. **Sacrifices sans valeur**. «'Le Seigneur sera-t-il satisfait de milliers de béliers, de dix mille fleuves d'huile ? Donnerai-je mon premier-né pour ma transgression, le fruit de mon corps pour le péché de mon âme ?'» [6:7] (/fr/Bible/Micah/6#v7).
-6. **Ce que le Seigneur exige**. «'Il t'a montré, ô homme, ce qui est bon ; et qu'est-ce que le Seigneur exige de toi, sinon que tu fasses justice, et que tu aimes la bonté, et que tu marches humblement avec ton Dieu ?'» [6:8](/fr/ Bible/Michée/6#v8).
+6. **Ce que le Seigneur exige**. «'Il t'a montré, ô homme, ce qui est bon ; et qu'est-ce que le Seigneur exige de toi, sinon que tu fasses justice, et que tu aimes la bonté, et que tu marches humblement avec ton Dieu ?'» [6:8](/fr/Bible/Michée/6#v8).
 7. **Attributs de Dieu**. «Qui est un Dieu comme toi, qui pardonne l'iniquité et passe par-dessus la transgression pour le reste de son héritage ? Il ne garde pas sa colère pour toujours parce qu'il prend plaisir à un amour inébranlable.» [7:18](/fr/Bible/Micah/7#v18).
 
 

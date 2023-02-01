@@ -149,13 +149,13 @@ Auteur: **William S. Sadler**
 4. **Le buisson ardent**. «Et l'ange du Seigneur lui apparut dans une flamme de feu du milieu d'un buisson; et il regarda, et voici, le buisson brûlait, mais il ne se consumait pas.» [3:2](/fr/Bible/Exodus/3#v2).
 5. **JE SUIS**. « Dieu dit à Moïse : 'JE SUIS QUI JE SUIS.' » [3:14](/fr/Bible/Exodus/3#v14).
 6. **Bégaiement de Moïse**. «Mais Moïse a dit... 'Je ne suis pas éloquent... Je suis lent d'élocution.'» [4:10](/fr/Bible/Exodus/4#v10).
-7. **Avant Pharaon**. «Moïse et Aaron allèrent vers Pharaon et dirent : 'Ainsi parle l'Eternel, le Dieu d'Israël : 'Laisse aller mon peuple, afin qu'il me célèbre une fête dans le désert.'» [5:1](/fr/ Bible/Exodus/5#v1).
+7. **Avant Pharaon**. «Moïse et Aaron allèrent vers Pharaon et dirent : 'Ainsi parle l'Eternel, le Dieu d'Israël : 'Laisse aller mon peuple, afin qu'il me célèbre une fête dans le désert.'» [5:1](/fr/Bible/Exodus/5#v1).
 8. **Endurcissant le cœur de Pharaon**. «'Mais j'endurcirai le cœur de Pharaon... Pharaon ne t'écoutera pas.'» [7:3](/fr/Bible/Exodus/7#v3).
 9. **Réputation de Moïse**. «L'homme Moïse était très grand dans le pays d'Egypte.» [11:3](/fr/Bible/Exodus/11#v3).
 10. **La Pâque**. «'C'est la Pâque de l'Eternel. Car je traverserai le pays d'Egypte cette nuit-là, et je frapperai tous les premiers-nés du pays.'» [12:11,12](/fr/Bible/Exodus/ 12#v11).
 11. **Consécration du premier-né**. «L'Éternel dit à Moïse : 'Consacre-moi tous les premiers-nés... des hommes et des bêtes.'» [13:1](/fr/Bible/Exodus/13#v1).
 12. **La colonne de nuage**. «La colonne de nuée le jour et la colonne de feu la nuit ne se sont pas éloignées devant le peuple.» [13:22](/fr/Bible/Exodus/13#v22).
-13. **Le salut du Seigneur**. «Et Moïse dit au peuple: 'Ne craignez rien, tenez ferme et voyez le salut de l'Éternel... car les Égyptiens que vous voyez aujourd'hui, vous ne les reverrez jamais.'» [14:13](/fr/ Bible/Exodus/14#v13).
+13. **Le salut du Seigneur**. «Et Moïse dit au peuple: 'Ne craignez rien, tenez ferme et voyez le salut de l'Éternel... car les Égyptiens que vous voyez aujourd'hui, vous ne les reverrez jamais.'» [14:13](/fr/Bible/Exodus/14#v13).
 14. **Assèchement de la Mer Rouge**. «Alors Moïse étendit sa main sur la mer, et l'Éternel repoussa la mer par un fort vent d'orient toute la nuit, et mit la mer à sec.» [14:21](/fr/Bible/Exodus/14#v21).
 15. **La manne**. « Alors l'Éternel dit à Moïse : Voici, je vais faire pleuvoir pour vous du pain du ciel, et le peuple sortira et ramassera chaque jour la portion d'une journée. » [16:4](/fr/Bible/Exodus/16 #v4).
 16. **L'eau du rocher**. « Voici, je me tiendrai là devant toi sur le rocher d'Horeb, et tu frapperas le rocher, et il en sortira de l'eau, pour que le peuple boive. » [17:6](/fr/Bible/ Exode/17#v6).
@@ -166,7 +166,7 @@ Auteur: **William S. Sadler**
 21. **Le sacerdoce**. «'Et tu les mettras sur Aaron, ton frère, et sur ses fils avec lui, et tu les oindras, et les ordonneras et les consacreras, afin qu'ils puissent me servir comme prêtres.'» [28:41](/fr/Bible/ Exode/28#v41).
 22. **Dieu se repent**. «Et le Seigneur se repentit du mal qu'il pensait faire à son peuple.» [32:14](/fr/Bible/Exodus/32#v14).
 23. **La tente d'assignation**. «Maintenant, Moïse avait l'habitude de prendre la tente et de la planter à l'extérieur du camp... et il l'appelait la tente d'assignation.» [33:7](/fr/Bible/Exodus/33#v7).
-24. ** Tabernacle terminé **. « Ainsi fut achevé tout l'ouvrage du tabernacle de la tente d'assignation, et le peuple d'Israël fit selon tout ce que l'Éternel avait commandé. [39:32](/fr/Bible/Exodus/39#v32).
+24. **Tabernacle terminé**. « Ainsi fut achevé tout l'ouvrage du tabernacle de la tente d'assignation, et le peuple d'Israël fit selon tout ce que l'Éternel avait commandé. [39:32](/fr/Bible/Exodus/39#v32).
 25. **La colonne de feu**. «Dans tous leurs voyages, la nuée de l'Éternel était sur le tabernacle le jour, et le feu y était la nuit, aux yeux de toute la maison d'Israël.» [40:38](/fr/Bible/Exodus/40#v38).
 
 

@@ -153,7 +153,7 @@ Auteur: **William S. Sadler**
 6. **Salomon**. «Il me bâtira une maison, et j'affermirai son trône pour toujours.» [17:12](/fr/Bible/1_Chronicles/17#v12).
 7. **Faire le recensement**. «Satan s'est dressé contre Israël et a incité David à dénombrer Israël.» [21:1](/fr/Bible/1_Chronicles/21#v1).
 	«Alors l'Éternel envoya la peste sur Israël, et il tomba soixante-dix mille hommes.» [21:14](/fr/Bible/1_Chronicles/21#v14).
-8. **David se prépare pour le temple**. «David a dit : 'Salomon, mon fils, est jeune et inexpérimenté, et la maison qui doit être bâtie pour le Seigneur doit être extrêmement magnifique... Je vais donc y faire des préparatifs.'» [22:5](/fr/ Bible/1_Chroniques/22#v5).
+8. **David se prépare pour le temple**. «David a dit : 'Salomon, mon fils, est jeune et inexpérimenté, et la maison qui doit être bâtie pour le Seigneur doit être extrêmement magnifique... Je vais donc y faire des préparatifs.'» [22:5](/fr/Bible/1_Chroniques/22#v5).
 9. **L'avertissement de David**. «Alors David dit à Salomon... 'Soyez forts et bon courage... car le Seigneur Dieu... est avec vous. Il ne vous fera pas défaut ni ne vous abandonnera, jusqu'à ce que tout le travail pour le service de la maison de le Seigneur est fini.'» [28:20](/fr/Bible/1_Chronicles/28#v20).
 
 ### 2 Chroniques
