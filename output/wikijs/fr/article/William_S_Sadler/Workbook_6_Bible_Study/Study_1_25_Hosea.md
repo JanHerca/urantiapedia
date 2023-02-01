@@ -49,7 +49,7 @@ Auteur: **William S. Sadler**
 
 1. Il a dénoncé les cultes de la fertilité, le veau de Samarie.
 2. Il a prêché contre les intrigues politiques et les alliances étrangères.
-3. Il brandit "l'alliance d'amour" et demanda à Israël de revenir à son "premier amour".
+3. Il brandit «l'alliance d'amour» et demanda à Israël de revenir à son «premier amour».
 4. Une grande partie de la prédication d'Osée a été faite au festival d'automne.
 5. Il a fait une nouvelle présentation de Yahvé comme :
 	- A. Tout-Puissant.
@@ -76,15 +76,15 @@ Auteur: **William S. Sadler**
 3. Sa religion ressemble au deuxième Isaïe et aux derniers évangiles du Nouveau Testament.
 4. Jérémie connaissait Osée et se servait de ses écrits.
 5. Osée a enseigné que Dieu était juste dans tous ses actes.
-6. Son message était : "'Venez, retournons au Seigneur.'" ([6:1](/fr/Bible/Hosea/6#v1))
+6. Son message était : «'Venez, retournons au Seigneur.'» ([6:1](/fr/Bible/Hosea/6#v1))
 
 ## VI. Textes sélectionnés
 
-1. **Fils de Dieu**. "On leur dira : 'Fils du Dieu vivant.'" [1:10](/fr/Bible/Hosea/1#v10).
-2. **Osée épouse une prostituée**. "'Car leur mère s'est prostituée.'" [2:5](/fr/Bible/Hosea/2#v5).
-3. **Valeur de la connaissance**. "Les miens sont détruits par manque de connaissance." [4:6](/fr/Bible/Hosea/4#v6).
-4. **Retourner à Dieu**. "'Venez, retournons au Seigneur... il a frappé, et il nous pansera.'" [6:1](/fr/Bible/Hosea/6#v1).
-5. **L'amour, pas le sacrifice**. "Car je désire l'amour inébranlable et non le sacrifice." [6:6](/fr/Bible/Hosea/6#v6).
+1. **Fils de Dieu**. «On leur dira : 'Fils du Dieu vivant.'» [1:10](/fr/Bible/Hosea/1#v10).
+2. **Osée épouse une prostituée**. «'Car leur mère s'est prostituée.'» [2:5](/fr/Bible/Hosea/2#v5).
+3. **Valeur de la connaissance**. «Les miens sont détruits par manque de connaissance.» [4:6](/fr/Bible/Hosea/4#v6).
+4. **Retourner à Dieu**. «'Venez, retournons au Seigneur... il a frappé, et il nous pansera.'» [6:1](/fr/Bible/Hosea/6#v1).
+5. **L'amour, pas le sacrifice**. «Car je désire l'amour inébranlable et non le sacrifice.» [6:6](/fr/Bible/Hosea/6#v6).
 
 
 <br>

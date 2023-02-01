@@ -205,13 +205,13 @@ Author: **William S. Sadler**
 12. P is the framework of the present book of Genesis.
 13. P represents many improved features of Genesis. "Man is made in the image of God."
 14. P tells a new or enlarged story about:
-	A. Creation. [1:1-2:3](/en/Bible/Genesis/1#v1).
-	B. The flood. Parts of [Chap. 6](/en/Bible/Genesis/6) and [9](/en/Bible/Genesis/9).
-	D. Abraham buys land. [23](/en/Bible/Genesis/23).
-	E. The ten genealogies.
-	F. The Sabbath. [2:3](/en/Bible/Genesis/2#v3).
-	G. Forbidding blood. [9:3-6](/en/Bible/Genesis/9#v3).
-	H. Circumcision. [17:22-27](/en/Bible/Genesis/17#22).
+	- A. Creation. [1:1-2:3](/en/Bible/Genesis/1#v1).
+	- B. The flood. Parts of [Chap. 6](/en/Bible/Genesis/6) and [9](/en/Bible/Genesis/9).
+	- D. Abraham buys land. [23](/en/Bible/Genesis/23).
+	- E. The ten genealogies.
+	- F. The Sabbath. [2:3](/en/Bible/Genesis/2#v3).
+	- G. Forbidding blood. [9:3-6](/en/Bible/Genesis/9#v3).
+	- H. Circumcision. [17:22-27](/en/Bible/Genesis/17#22).
 15. The P document stresses revelations to Adam, Noah, Abraham, and Moses.
 
 ## IX. The Teachings of Genesis

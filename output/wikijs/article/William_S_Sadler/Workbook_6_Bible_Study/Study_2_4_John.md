@@ -25,12 +25,12 @@ Author: **William S. Sadler**
 
 ## I. Outline-Brief
 
-1. Prelude. 1.
-2. Christ's Glory and Power. 2-6.
-3. Conflicts of Light and Darkness. 7-12.
-4. Christ's Revelation to His Disciples. 13-17.
-5. The Final Revelation. 18-20.
-6. Appendix. 21.
+1. Prelude. [1](/en/Bible/John/1).
+2. Christ's Glory and Power. [2-6](/en/Bible/John/2).
+3. Conflicts of Light and Darkness. [7-12](/en/Bible/John/7).
+4. Christ's Revelation to His Disciples. [13-17](/en/Bible/John/13).
+5. The Final Revelation. [18-20](/en/Bible/John/18).
+6. Appendix. [21](/en/Bible/John/21).
 
 ## II. Outline-Complete
 

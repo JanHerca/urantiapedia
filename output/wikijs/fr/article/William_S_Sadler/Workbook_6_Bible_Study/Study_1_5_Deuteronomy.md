@@ -70,7 +70,7 @@ Auteur: **William S. Sadler**
 1. Les adresses de Moïse sont sans doute basées sur des traditions authentiques.
 2. Ce livre est une déclaration de la foi d'Israël. Il est unique parmi tous les livres de l'Ancien Testament.
 3. Le Deutéronome est un livre d'une éloquence sobre, sérieuse et émouvante. Rien dans la littérature juive ne peut s'y comparer, sauf les écrits du Second Isaïe.
-4. Dans ce livre se trouvent ces formes positives pour les commandements tels que déclarés par Jésus : « Tu aimeras le Seigneur ton Dieu de tout ton cœur. [6:5](/fr/Bible/Deuteronomy/6#v5).
+4. Dans ce livre se trouvent ces formes positives pour les commandements tels que déclarés par Jésus : « Tu aimeras le Seigneur ton Dieu de tout ton cœur. »[6:5](/fr/Bible/Deuteronomy/6#v5).
 5. Le Deutéronome possède un ton évangélique qui ressemble à l'anneau évangélique du Nouveau Testament.
 6. La religion dans ce livre transcende de loin les cérémonies légalistes de l'Exode et du Lévitique.
 7. Le Deutéronome est cité 83 fois dans le Nouveau Testament et fait allusion à de nombreuses reprises. Seuls six livres du Nouveau Testament ne mentionnent pas le Deutéronome.
@@ -99,29 +99,29 @@ Auteur: **William S. Sadler**
 ## VI. Structure et style
 
 1. Le deuxième sermon est le cœur du livre. Les première et troisième adresses, ainsi que les annexes, ont été ajoutées ultérieurement.
-2. Moïse est l'interprète. "L'Éternel parla à Moïse, disant : 'Parle aux enfants d'Israël.'" Dans un seul cas, Dieu s'adresse directement à Aaron.
+2. Moïse est l'interprète. «L'Éternel parla à Moïse, disant : 'Parle aux enfants d'Israël.'» Dans un seul cas, Dieu s'adresse directement à Aaron.
 3. Le Deutéronome couvre toute la vie d'Israël - et se termine par les bénédictions et les malédictions - selon l'obéissance ou la désobéissance.
 4. Le Deutéronome est le mieux organisé de tous les écrits de l'Ancien Testament. Il représente la rédaction globale d'**un homme**.
 5. De tous les livres de l'Ancien Testament, le Deutéronome présente une homogénéité de style. C'est un nouveau style d'oratoire fluide et impressionnant.
 6. Il n'y a pas de fin de clauses bien équilibrées, rythme soutenu. Mais ce n'est jamais monotone ou prolixe.
 7. Parmi les mots ou expressions caractéristiques, on peut signaler :
 	- Un amour**. Le souci de Dieu pour son peuple. L'amour tel qu'il est utilisé par Osée et dans les Psaumes.
-	- B. "Écoute, ô Israël."
-	- C. "Le Seigneur, le Dieu de vos pères."
-	- D. "Pour aller après d'autres dieux."
-	- E. "Pour écouter la voix du Seigneur."
-	- F. "Pour marcher dans les voies de Dieu."
-	- G. "Pour que tu sois bien."
-	- H. "Ce que je te commande aujourd'hui."
-	- I. "Que le Seigneur te bénisse."
+	- B. «Écoute, ô Israël.»
+	- C. «Le Seigneur, le Dieu de vos pères.»
+	- D. «Pour aller après d'autres dieux.»
+	- E. «Pour écouter la voix du Seigneur.»
+	- F. «Pour marcher dans les voies de Dieu.»
+	- G. «Pour que tu sois bien.»
+	- H. «Ce que je te commande aujourd'hui.»
+	- I. «Que le Seigneur te bénisse.»
 	- J. "Utilise Horeb au lieu de Sinaï.
 8. Dans certains endroits, le Deutéronome ressemble au style de Jérémie.
 9. À bien des égards, le style du Deutéronome ressemble plus à celui de E qu'à celui de J.
 
-##VII. Les réformes du roi Josias
+## VII. Les réformes du roi Josias
 
-1. Dans 2 Rois 22 et 23, nous apprenons que lorsque le roi Josias réparait le temple, ses ouvriers trouvèrent un "livre de la loi". C'était en 621 av.
-2. Ce nouveau "livre de la loi" était une partie du livre actuel du Deutéronome.
+1. Dans 2 Rois 22 et 23, nous apprenons que lorsque le roi Josias réparait le temple, ses ouvriers trouvèrent un «livre de la loi». C'était en 621 av.
+2. Ce nouveau «livre de la loi» était une partie du livre actuel du Deutéronome.
 3. Josias a utilisé ce nouveau livre comme base de ses réformes, détruisant tous les lieux de sacrifice en dehors de Jérusalem. Il y avait de nombreux sites de paganisme à travers Pslestine.
 4. De nombreux prêtres et lévites sont restés bloqués. Quelques-uns sont allés à Jérusalem.
 5. Le roi fit lire le Deutéronome au peuple, croyant que c'était l'œuvre de Moïse.
@@ -135,10 +135,10 @@ Auteur: **William S. Sadler**
 ## VIII. Théologie
 
 1. La principale exigence du Deutéronome est la « fidélité à Yahweh ».
-2. "Le Seigneur est Dieu, il n'y a personne d'autre que lui." [4:35](/fr/Bible/Deuteronomy/4#v35).
-3. Jamais auparavant un Dieu n'a pris une "nation pour lui". [4:32-34](/fr/Bible/Deuteronomy/4#v32).
+2. «Le Seigneur est Dieu, il n'y a personne d'autre que lui.» [4:35](/fr/Bible/Deuteronomy/4#v35).
+3. Jamais auparavant un Dieu n'a pris une «nation pour lui». [4:32-34](/fr/Bible/Deuteronomy/4#v32).
 4. Yahweh n'est pas seulement un Dieu gracieux et aimant, mais aussi un Dieu ** jaloux **.
-5. La terre appartenait à Dieu. Ils doivent obéir à Dieu "afin que leurs jours se prolongent dans le pays".
+5. La terre appartenait à Dieu. Ils doivent obéir à Dieu «afin que leurs jours se prolongent dans le pays».
 6. Les raisons du choix d'Israël étaient **mystérieuses**\- seulement que Yahweh avait promis aux Patriarches.
 7. La deuxième pensée majeure du Deutéronome est que Dieu a dirigé les destinées d'Israël. "Quand ils ont mal agi, il les a punis. Quand ils ont bien agi, il les a délivrés.
 8. Dieu a même utilisé des nations laïques comme ses agents dans ses relations avec Israël.
@@ -146,26 +146,26 @@ Auteur: **William S. Sadler**
 10. Le Deutéronome nous enseigne que la guerre, lorsqu'elle est provoquée et dirigée par Yahweh, est une **guerre sainte**.
 11. Il y a une gravité sombre et terrible dans le livre du Deutéronome.
 12. Il y a un aspect humanitaire dans de nombreuses lois sociales du Deutéronome. La vengeance était exclue.
-13. Le plus grand de tous les péchés était l'**idolâtrie**. Le culte d'autres dieux a détruit le concept d'Israël en tant que "peuple particulier".
+13. Le plus grand de tous les péchés était l'**idolâtrie**. Le culte d'autres dieux a détruit le concept d'Israël en tant que «peuple particulier».
 
-##IX. Textes sélectionnés
+## IX. Textes sélectionnés
 
-1. **Total des meurtres**. "'Nous avons capturé toutes ses villes... et avons entièrement détruit toutes les villes, hommes, femmes et enfants.'" [2:34](/fr/Bible/Deuteronomy/2#v34).
-2. **Moïse regarde le pays**. "'Montez au sommet du Pisga et levez les yeux... et voyez-le... car vous ne passerez pas ce Jourdain.'" [3:27](/fr/Bible/Deuteronomy/3#v27 ).
-3. **Trouver Dieu**. "'Tu chercheras l'Éternel, ton Dieu, et tu le trouveras, si tu le cherches de tout ton cœur et de toute ton âme.'" [4:29](/fr/Bible/Deuteronomy/4#v29) .
+1. **Total des meurtres**. «'Nous avons capturé toutes ses villes... et avons entièrement détruit toutes les villes, hommes, femmes et enfants.'» [2:34](/fr/Bible/Deuteronomy/2#v34).
+2. **Moïse regarde le pays**. «'Montez au sommet du Pisga et levez les yeux... et voyez-le... car vous ne passerez pas ce Jourdain.'» [3:27](/fr/Bible/Deuteronomy/3#v27 ).
+3. **Trouver Dieu**. «'Tu chercheras l'Éternel, ton Dieu, et tu le trouveras, si tu le cherches de tout ton cœur et de toute ton âme.'» [4:29](/fr/Bible/Deuteronomy/4#v29) .
 4. **Les dix commandements**. [5:6-21](/fr/Bible/Deuteronomy/5#v6).
-5. **Le grand commandement**. "'Tu aimeras le Seigneur, ton Dieu, de tout ton cœur, de toute ton âme, et de toute ta force.'" [6:5](/fr/Bible/Deuteronomy/6#v5).
+5. **Le grand commandement**. «'Tu aimeras le Seigneur, ton Dieu, de tout ton cœur, de toute ton âme, et de toute ta force.'» [6:5](/fr/Bible/Deuteronomy/6#v5).
 6. **Les élus**. « 'Vous êtes un peuple saint pour l'Éternel, votre Dieu ; l'Éternel, votre Dieu, vous a choisis.' » [7:6](/fr/Bible/Deuteronomy/7#v6).
-7. **Bénédiction et malédiction**. "'Je mets aujourd'hui devant vous une bénédiction et une malédiction : la bénédiction, si vous obéissez aux commandements... et la malédiction, si vous n'obéissez pas aux commandements.'" [11:26-28](/fr/ Bible/Deuteronomy/11#v26).
-8. **Manger du sang**. "'Tu ne mangeras pas le sang, tu le répandras sur la terre comme de l'eau.'" [12:16](/fr/Bible/Deuteronomy/12#v16).
-9. **Faux prophètes**. "'Si un prophète se lève parmi vous... et vous donne un signe... et que le signe... se réalise, et s'il dit : "Allons après d'autres dieux"... vous n'écouterez pas les paroles de ce prophète.'" [13:1-3](/fr/Bible/Deuteronomy/13#v1).
-10. **Libération de sept ans**. "'Tous les sept ans, vous accorderez une libération... Chaque créancier restituera ce qu'il a prêté à son prochain.'" [15:1,2](/fr/Bible/Deuteronomy/15#v1).
-11. **Les pauvres**. "'Les pauvres ne cesseront jamais de sortir du pays; c'est pourquoi... tu ouvriras ta main à ton frère, aux nécessiteux et aux pauvres.'" [15:11](/fr/Bible/Deuteronomy/ 15#v11).
-12. **Jeunes mariés**. "'Lorsqu'un homme vient de se marier, il ne sortira pas avec l'armée ni ne sera chargé d'aucune affaire ; il sera libre chez lui pendant un an, pour être heureux avec sa femme.'" [24:5](/fr/Bible/Deuteronomy/24#v5).
-13. **Museler le bœuf**. "'Tu ne museleras pas un boeuf quand il foulera le grain.'" [25:4](/fr/Bible/Deuteronomy/25#v4).
-14. **Des choses secrètes**. "'Les choses secrètes appartiennent au Seigneur notre Dieu, mais les choses révélées nous appartiennent, ainsi qu'à nos enfants.'" [29:29](/fr/Bible/Deuteronomy/29#v29).
-15. **La commission de Josué**. "Le Seigneur a chargé Josué... et a dit: 'Soyez forts et bon courage, car vous ferez entrer les enfants d'Israël dans le pays que j'ai juré de leur donner: je serai avec vous.'" [31:23] (/fr/Bible/Deuteronomy/31#v23).
-16. **Idées primitives**. "'"Je... le suis, et il n'y a pas de dieu à côté de moi; je tue et je fais vivre; je blesse et je guéris; et nul ne peut délivrer de ma main."'" [32:39](/fr/Bible/Deuteronomy/32#v39).
+7. **Bénédiction et malédiction**. «'Je mets aujourd'hui devant vous une bénédiction et une malédiction : la bénédiction, si vous obéissez aux commandements... et la malédiction, si vous n'obéissez pas aux commandements.'» [11:26-28](/fr/ Bible/Deuteronomy/11#v26).
+8. **Manger du sang**. «'Tu ne mangeras pas le sang, tu le répandras sur la terre comme de l'eau.'» [12:16](/fr/Bible/Deuteronomy/12#v16).
+9. **Faux prophètes**. «'Si un prophète se lève parmi vous... et vous donne un signe... et que le signe... se réalise, et s'il dit : »Allons après d'autres dieux«... vous n'écouterez pas les paroles de ce prophète.'» [13:1-3](/fr/Bible/Deuteronomy/13#v1).
+10. **Libération de sept ans**. «'Tous les sept ans, vous accorderez une libération... Chaque créancier restituera ce qu'il a prêté à son prochain.'» [15:1,2](/fr/Bible/Deuteronomy/15#v1).
+11. **Les pauvres**. «'Les pauvres ne cesseront jamais de sortir du pays; c'est pourquoi... tu ouvriras ta main à ton frère, aux nécessiteux et aux pauvres.'» [15:11](/fr/Bible/Deuteronomy/ 15#v11).
+12. **Jeunes mariés**. «'Lorsqu'un homme vient de se marier, il ne sortira pas avec l'armée ni ne sera chargé d'aucune affaire ; il sera libre chez lui pendant un an, pour être heureux avec sa femme.'» [24:5](/fr/Bible/Deuteronomy/24#v5).
+13. **Museler le bœuf**. «'Tu ne museleras pas un boeuf quand il foulera le grain.'» [25:4](/fr/Bible/Deuteronomy/25#v4).
+14. **Des choses secrètes**. «'Les choses secrètes appartiennent au Seigneur notre Dieu, mais les choses révélées nous appartiennent, ainsi qu'à nos enfants.'» [29:29](/fr/Bible/Deuteronomy/29#v29).
+15. **La commission de Josué**. «Le Seigneur a chargé Josué... et a dit: 'Soyez forts et bon courage, car vous ferez entrer les enfants d'Israël dans le pays que j'ai juré de leur donner: je serai avec vous.'» [31:23] (/fr/Bible/Deuteronomy/31#v23).
+16. **Idées primitives**. «'»Je... le suis, et il n'y a pas de dieu à côté de moi; je tue et je fais vivre; je blesse et je guéris; et nul ne peut délivrer de ma main.«'» [32:39](/fr/Bible/Deuteronomy/32#v39).
 
 
 <br>

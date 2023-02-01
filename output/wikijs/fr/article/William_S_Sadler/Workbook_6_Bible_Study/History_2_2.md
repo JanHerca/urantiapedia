@@ -26,7 +26,7 @@ Auteur: **William S. Sadler**
 
 [Gn 12 à 50](/fr/Bible/Genesis/12)
 1. Ces histoires sont supposées avoir été écrites par Moïse. Mais nous savons qu'ils ont été écrits des siècles après la mort de Moïse.
-2. Nous savons que les récits patriarcaux se composent de quatre sources différentes - [J, E, D et P](https://en.wikipedia.org/wiki/Documentary_hypothesis).
+2. Nous savons que les récits patriarcaux se composent de quatre sources différentes - [J, E, D et P](https://fr.wikipedia.org/wiki/Hypoth%C3%A8se_documentaire).
 3. La recherche archéologique moderne a jeté beaucoup de lumière sur l'histoire des Patriarches dans l'Ancien Testament et a beaucoup contribué à la confirmer.
 4. Les fouilles de dizaines de sites en Palestine confirment les traditions de l'ancien Israël. Voir [Deut 6:20-25](/fr/Bible/Deuteronomy/6#v20); [26:5-10](/fr/Bible/Deuteronomy/26#v5). [Jos 24:2-13](/fr/Bible/Joshua/24#v2).
 5. Les premières traditions et archives étaient probablement des poèmes héroïques comme le Cantique de Déborah.

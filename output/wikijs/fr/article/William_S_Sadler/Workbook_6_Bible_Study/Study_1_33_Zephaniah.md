@@ -25,7 +25,7 @@ Auteur: **William S. Sadler**
 ## I. Aperçu
 
 1. Jugement de Jérusalem. [1:1-18](/fr/Bible/Zephaniah/1#v1).
-	- Un titre. [1:1](/fr/Bible/Zephaniah/1#v1).
+	- A. Titre. [1:1](/fr/Bible/Zephaniah/1#v1).
 	- B. Menace de destruction. [1:2-6](/fr/Bible/Zephaniah/1#v2).
 	- C. Sacrifice du Seigneur. [1:7](/fr/Bible/Zephaniah/1#v7).
 	- D. Châtiment des Princes. [1:8,9](/fr/Bible/Zephaniah/1#v8).
@@ -58,11 +58,11 @@ Auteur: **William S. Sadler**
 
 1. Son grand cri : « Le jour du Seigneur, un jour de colère, de trouble, de détresse et de ténèbres.
 2. Ses déclarations ont été faites dans un contexte international vaste et en évolution rapide.
-3. Sophonie a peut-être été le premier prophète de l'Ancien Testament à changer le "jour du Seigneur" de "l'âge messianique" à la venue de Yahweh lui-même - "la fin du monde".
+3. Sophonie a peut-être été le premier prophète de l'Ancien Testament à changer le «jour du Seigneur» de «l'âge messianique» à la venue de Yahweh lui-même - «la fin du monde».
 4. Ce livre est une bonne illustration de la façon dont les éditeurs n'ont pas hésité à annexer leurs notes avec Dieu parlant à la première personne.
 5. Certains des ajouts ressemblent plus à Deutéro-Isaïe qu'à Sophonie.
-6. Dans Sophonie, Dieu a une conscience. Il ne peut pas permettre que les péchés de son "peuple élu" restent impunis.
-7. Il y a un indice dans ce livre que pendant le " nouvel âge " tous les peuples seront convertis à Yahweh.
+6. Dans Sophonie, Dieu a une conscience. Il ne peut pas permettre que les péchés de son «peuple élu» restent impunis.
+7. Il y a un indice dans ce livre que pendant le « nouvel âge » tous les peuples seront convertis à Yahweh.
 8. L'une des principales conclusions du livre est : « Le Seigneur résiste aux orgueilleux et récompense les humbles.
 
 Le livre est dépourvu de passages marquants et significatifs.

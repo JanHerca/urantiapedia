@@ -24,11 +24,11 @@ Auteur: **William S. Sadler**
 
 ## I. Aperçu-Bref
 
-1. Job, Éliphaz et Bildad. 1-10.
-2. Tsophar, Job, Éliphaz et Bildad. 11-31.
-3. Elihu. 32-37.
-4. Dieu. 38-41.
-5. Travail. 42.
+1. Job, Éliphaz et Bildad. [1-10](/fr/Bible/Job/1).
+2. Tsophar, Job, Éliphaz et Bildad. [11-31](/fr/Bible/Job/11).
+3. Elihu. [32-37](/fr/Bible/Job/32).
+4. Dieu. [38-41](/fr/Bible/Job/38).
+5. Job. [42](/fr/Bible/Job/42).
 
 ## II. Aperçu complet
 
@@ -39,7 +39,7 @@ Auteur: **William S. Sadler**
 	- C. Deuxième cycle de discussion. [15:1-21:34](/fr/Bible/Job/15#v1).
 	- D. Troisième cycle de discussion. [22:1-27:23](/fr/Bible/Job/22#v1).
 	- E. Hymne sur la Sagesse. [28:1-28](/fr/Bible/Job/28#v1)
-	- Péroration de F. Job. [29:1-31:40](/fr/Bible/Job/29#v1).
+	- F. Péroration de Job. [29:1-31:40](/fr/Bible/Job/29#v1).
 3. Discours d'Elihu. [32:1-37:24](/fr/Bible/Job/32#v1).
 	- A. Préface en prose. [32:1-5](/fr/Bible/Job/32#v1).
 	- B. Introduction poétique. [32:6-22](/fr/Bible/Job/32#v6).
@@ -63,14 +63,14 @@ Auteur: **William S. Sadler**
 
 ## IV. Un regard global sur Job
 
-1. Nous entendons souvent parler de "la patience de Job". ([Jas. 5:11](/fr/Bible/James/5#v11) King James Version) Mais peu de gens en savent beaucoup sur le livre de Job.
+1. Nous entendons souvent parler de «la patience de Job». ([Jas. 5:11](/fr/Bible/James/5#v11) King James Version) Mais peu de gens en savent beaucoup sur le livre de Job.
 2. Job est un poème traitant du sens de la vie - rapport de la souffrance à la religion.
 3. Job appartient au soi-disant type de sagesse de la littérature hébraïque.
 4. Dans le Livre d'Urantia, Jésus présente une discussion instructive de Job sur [LU 148:6.1](/fr/The_Urantia_Book/148#p6_1).
-5. Jésus appelle Job un "chef-d'œuvre de la littérature sémitique".
+5. Jésus appelle Job un «chef-d'œuvre de la littérature sémitique».
 6. Il y a de nombreuses marques d'influence édomite dans Job. Le conte folklorique original a peut-être localisé Job à Edom.
 7. Il existe des histoires folkloriques similaires à Job en Inde, en Égypte, à Babylone et au Proche-Orient.
-8. Il existe également de nombreux cas de "pari" entre Dieu et Satan.
+8. Il existe également de nombreux cas de «pari» entre Dieu et Satan.
 9. Job est une révolte contre la doctrine selon laquelle il n'y a qu'une seule cause de souffrance humaine.
 10. Job est l'histoire d'une âme juste qui a souffert et désespéré, mais qui s'est battue pour la paix, l'espoir et la victoire.
 11. Job est un drame tragique. C'est en réalité un débat philosophique.
@@ -98,7 +98,7 @@ Auteur: **William S. Sadler**
 
 1. Il y a un certain nombre de problèmes sérieux présentés dans Job :
 	- A. Pourquoi les justes souffrent-ils ?
-	- Les amis de B. Job présentent une vision du sixième siècle de la douleur et de l'affliction ; la dernière partie de Job tend vers l'attitude du troisième siècle.
+	- B. Les amis de Job présentent une vision du sixième siècle de la douleur et de l'affliction ; la dernière partie de Job tend vers l'attitude du troisième siècle.
 	- C. Le sens de la foi vivante.
 	- D. La sagesse de Dieu contre la sagesse des hommes.
 2. Le drame représente la révolte de la conscience individuelle contre la tyrannie de l'orthodoxie.
@@ -111,28 +111,28 @@ Auteur: **William S. Sadler**
 9. Job aspire à un médiateur - il veut que quelqu'un l'aide à faire face à la puissance, au mystère et à la perfection de Dieu. Il préfigure vraiment le ministère de l'incarnation du Christ.
 10. Enfin, il conclut : « Maintenant encore, voici, mon témoin est dans les cieux, et celui qui se porte garant pour moi est en haut.
 11. Job affirme sa foi en la résurrection et s'exclame : « Je sais que mon Rédempteur (Redresseur de torts) vit.
-12. Job dit : "Quand il m'aura éprouvé, je sortirai comme de l'or."
-13. La croyance devient une foi vivante. "J'ai entendu parler de toi par l'ouïe de l'oreille, mais maintenant mon œil te voit."
+12. Job dit : «Quand il m'aura éprouvé, je sortirai comme de l'or.»
+13. La croyance devient une foi vivante. «J'ai entendu parler de toi par l'ouïe de l'oreille, mais maintenant mon œil te voit.»
 14. Et la conclusion finale : « Cette justice n'est pas l'œuvre de mais le don de Dieu. homme
 
-##VII. Textes sélectionnés
+## VII. Textes sélectionnés
 
-1. **Les fils de Dieu**. "Or il y eut un jour où les fils de Dieu vinrent se présenter devant le Seigneur, et Satan vint aussi parmi eux." [1:6](/fr/Bible/Job/1#v6).
-2. **Le Seigneur donne**. "'L'Éternel a donné, et l'Éternel a repris; béni soit le nom de l'Éternel.'" [1:21](/fr/Bible/Job/1#v21).
-3. **Pouvoir de suggestion**. "'Car la chose que je crains vient sur moi, et ce que je redoute m'arrive.'" [3:25](/fr/Bible/Job/3#v25).
-4. **Cause et effet**. "'Car l'affliction ne vient pas de la poussière, et le trouble ne sort pas du sol.'" [5:6](/fr/Bible/Job/5#v6).
-5. **Flèches du Tout-Puissant**. "'Car les flèches du Tout-Puissant sont en moi ; mon esprit boit leur poison ; les terreurs de Dieu se déploient contre moi.'" [6:4](/fr/Bible/Job/6#v4).
-6. **La présence de Dieu**. "'Voici, il passe à côté de moi, et je ne le vois pas ; il avance, mais je ne l'aperçois pas.'" [9:11](/fr/Bible/Job/9#v11).
-7. **Tribulations**. "'L'homme qui est né d'une femme est de peu de jours et plein d'ennuis.'" [14:1](/fr/Bible/Job/14#v1).
-8. **Couettes misérables**. "Alors Job répondit... 'Vous êtes tous de misérables consolateurs.'" [16:1](/fr/Bible/Job/16#v1).
-9. **Mon Vindicator vit**. "'Je sais que mon Rédempteur (Redresseur de torts) vit.'" [19:25](/fr/Bible/Job/19#v25).
-10. **Soyez en paix**. "'Accorde-toi à Dieu et sois en paix.'" [22:21](/fr/Bible/Job/22#v21).
-11. **Le cosmos**. "'Il étend le nord sur le vide, et ne suspend la terre à rien.'" [26:7](/fr/Bible/Job/26#v7).
-12. **L'esprit de l'homme**. "'Mais c'est l'esprit d'un homme, le souffle du Tout-Puissant, qui lui fait comprendre.'" [32:8](/fr/Bible/Job/32#v8).
-13. **L'esprit de Dieu**. "'L'esprit de Dieu m'a créé, et le souffle du Tout-Puissant me donne la vie.'" [33:4](/fr/Bible/Job/33#v4).
-14. **Acceptation divine**. "'Alors l'homme prie Dieu, et il l'accepte, il vient en sa présence avec joie.'" [33:26](/fr/Bible/Job/33#v26).
-15. **Salut**. "'" J'ai péché et j'ai perverti ce qui était juste, et cela ne m'a pas été rendu. Il a racheté mon âme."'" [33:27,28](/fr/Bible/Job/33#v27).
-16. **Étoiles du matin**. "'Quand les étoiles du matin chantaient ensemble, et que tous les fils de Dieu poussaient des cris de joie.'" [38:7](/fr/Bible/Job/38#v7).
+1. **Les fils de Dieu**. «Or il y eut un jour où les fils de Dieu vinrent se présenter devant le Seigneur, et Satan vint aussi parmi eux.» [1:6](/fr/Bible/Job/1#v6).
+2. **Le Seigneur donne**. «'L'Éternel a donné, et l'Éternel a repris; béni soit le nom de l'Éternel.'» [1:21](/fr/Bible/Job/1#v21).
+3. **Pouvoir de suggestion**. «'Car la chose que je crains vient sur moi, et ce que je redoute m'arrive.'» [3:25](/fr/Bible/Job/3#v25).
+4. **Cause et effet**. «'Car l'affliction ne vient pas de la poussière, et le trouble ne sort pas du sol.'» [5:6](/fr/Bible/Job/5#v6).
+5. **Flèches du Tout-Puissant**. «'Car les flèches du Tout-Puissant sont en moi ; mon esprit boit leur poison ; les terreurs de Dieu se déploient contre moi.'» [6:4](/fr/Bible/Job/6#v4).
+6. **La présence de Dieu**. «'Voici, il passe à côté de moi, et je ne le vois pas ; il avance, mais je ne l'aperçois pas.'» [9:11](/fr/Bible/Job/9#v11).
+7. **Tribulations**. «'L'homme qui est né d'une femme est de peu de jours et plein d'ennuis.'» [14:1](/fr/Bible/Job/14#v1).
+8. **Couettes misérables**. «Alors Job répondit... 'Vous êtes tous de misérables consolateurs.'» [16:1](/fr/Bible/Job/16#v1).
+9. **Mon Vindicator vit**. «'Je sais que mon Rédempteur (Redresseur de torts) vit.'» [19:25](/fr/Bible/Job/19#v25).
+10. **Soyez en paix**. «'Accorde-toi à Dieu et sois en paix.'» [22:21](/fr/Bible/Job/22#v21).
+11. **Le cosmos**. «'Il étend le nord sur le vide, et ne suspend la terre à rien.'» [26:7](/fr/Bible/Job/26#v7).
+12. **L'esprit de l'homme**. «'Mais c'est l'esprit d'un homme, le souffle du Tout-Puissant, qui lui fait comprendre.'» [32:8](/fr/Bible/Job/32#v8).
+13. **L'esprit de Dieu**. «'L'esprit de Dieu m'a créé, et le souffle du Tout-Puissant me donne la vie.'» [33:4](/fr/Bible/Job/33#v4).
+14. **Acceptation divine**. «'Alors l'homme prie Dieu, et il l'accepte, il vient en sa présence avec joie.'» [33:26](/fr/Bible/Job/33#v26).
+15. **Salut**. «'» J'ai péché et j'ai perverti ce qui était juste, et cela ne m'a pas été rendu. Il a racheté mon âme.«'» [33:27,28](/fr/Bible/Job/33#v27).
+16. **Étoiles du matin**. «'Quand les étoiles du matin chantaient ensemble, et que tous les fils de Dieu poussaient des cris de joie.'» [38:7](/fr/Bible/Job/38#v7).
 
 
 <br>

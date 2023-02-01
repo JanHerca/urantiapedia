@@ -40,16 +40,12 @@ Auteur: **William S. Sadler**
 12. Pour l'histoire de Moïse, voir [LU 96:3.1](/fr/The_Urantia_Book/95#p3_1)
 13. Rappelez-vous que Moïse avait passé des années avec les Kénites avant de retourner pour conduire les Hébreux hors d'Egypte.
 14. Il y a presque deux histoires sur les errances dans le désert :
-
-une. Dans l'un, ils s'attardent longtemps au Sinaï.
-
-b. Dans l'autre, ils semblent avoir passé ce temps à Kadesh
+	- a. Dans l'un, ils s'attardent longtemps au Sinaï.
+	- b. Dans l'autre, ils semblent avoir passé ce temps à Kadesh
 15. L'un de ces récits appelle la montagne Sinaï, l'autre Horeb.
 16. Certains étudiants pensent qu'il est possible qu'il y ait eu deux invasions de la Palestine :
-
-une. Le groupe Kadesh venant du sud par lente infiltration.
-
-b. Le groupe du Sinaï traversant le Jourdain depuis l'est après la destruction de Jéricho.
+	- a. Le groupe Kadesh venant du sud par lente infiltration.
+	- b. Le groupe du Sinaï traversant le Jourdain depuis l'est après la destruction de Jéricho.
 17. La conquête de Canaan a été graduelle et jamais complète.
 
 ## II. Formation des Israélites

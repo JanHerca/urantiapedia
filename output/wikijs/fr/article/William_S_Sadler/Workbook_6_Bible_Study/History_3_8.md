@@ -30,12 +30,12 @@ Auteur: **William S. Sadler**
 5. Paul était présent à la mort d'Etienne, le premier martyr de la nouvelle religion.
 6. Paul s'est très tôt associé à Barnabas, de Chypre.
 7. Il y avait beaucoup de gentils croyants avant même que Paul ne commence son œuvre, mais pas d'églises fortes.
-8. Paul signifie "petit" - sans aucun doute, il était une petite personne.
+8. Paul signifie «petit» - sans aucun doute, il était une petite personne.
 9. Paul avait été l'élève du célèbre Gamaliel à Jérusalem.
 10. Paul penchait beaucoup vers le type allégorique d'interprétation des Écritures de Philon. [I Cor 10:1-11](/fr/Bible/1_Corinthians/10#v1). [Ga 4:22-31](/fr/Bible/Galatians/4#v22).
 11. Sur le chemin de Damas, pour arrêter des chrétiens, Paul dit avoir rencontré Jésus, et il est devenu croyant sur-le-champ.
 12. A Damas, Ananias, un croyant, a instruit Paul et l'a aidé à échapper aux Juifs.
-13. Le meilleur récit de la conversion de Paul se trouve peut-être dans [Actes 9 :1-19](/fr/Bible/Acts_of_the_Apostles/9#v1).
+13. Le meilleur récit de la conversion de Paul se trouve peut-être dans [Actes 9:1-19](/fr/Bible/Acts_of_the_Apostles/9#v1).
 14. Son premier effort public fut de prêcher sur Jésus dans la synagogue de Damas.
 15. Après un séjour en Arabie, Paul revient et prêche à Damas.
 16. Créant l'hostilité à Damas, il s'est échappé, se rendant à Jérusalem. Il avait une sœur dans cette ville.
@@ -54,10 +54,10 @@ Auteur: **William S. Sadler**
 29. De nouveaux troubles se sont développés. Les Juifs sont descendus à Antioche de Jérusalem, insistant sur le fait que la seule façon d'entrer dans l'église chrétienne était par le judaïsme.
 30. Paul et Barnabas sont allés à Jérusalem pour régler ce différend. C'était leur deuxième voyage, 14 ans après le premier.
 31. Pierre est venu à leur défense. Le concile de Jérusalem a décidé que la seule exigence des Gentils serait de s'abstenir de :
-	Du sang.
-	Nourriture offerte aux idoles.
-	Les choses étranglées.
-	Fornication.
+	- Du sang.
+	- Nourriture offerte aux idoles.
+	- Les choses étranglées.
+	- Fornication.
 32. Pierre a visité Antioche et a mangé avec des gentils, mais, lorsqu'il a été confronté aux Juifs de Jérusalem, il a reculé.
 33. Paul et Barnabas ont décidé d'entreprendre la deuxième tournée missionnaire. Barnabas voulait prendre John Mark—Paul a dit non. Alors Barnabas et Marc laissèrent Paul pour faire le voyage seuls.
 34. Paul décida alors d'emmener Silas de Jérusalem. Ils ont visité les églises établies lors de leur premier voyage. À Lystra, ils ont rencontré Timothy, qui les a rejoints pour le reste de la tournée.
@@ -69,7 +69,7 @@ Auteur: **William S. Sadler**
 40. Ils passèrent 18 mois à Corinthe puis se rendirent en Syrie, s'arrêtant à Éphèse. Paul se rendit ensuite à Antioche, s'arrêtant à Césarée en chemin.
 41. Ce deuxième voyage a couvert plus de deux ans, AD 49-51. Paul s'est bien reposé et a envoyé son épître aux Galates.
 42. Bientôt, Paul était prêt à commencer son troisième voyage. Le premier arrêt de quelque longueur était à Éphèse. Il enseigna à la synagogue et à l'école de Tyrannus pendant deux ans. (Apollos, un helléniste d'Alexandrie, avait déjà commencé le travail ici. C'est là qu'Aquila et Prisca ont été convertis.)
-43. Paul a parlé de "combattre avec des bêtes sauvages". Était-ce figuratif, ou a-t-il été arrêté et mis dans l'arène avec des animaux sauvages ?
+43. Paul a parlé de «combattre avec des bêtes sauvages». Était-ce figuratif, ou a-t-il été arrêté et mis dans l'arène avec des animaux sauvages ?
 44. Il y eut des troubles à Corinthe. Paul a envoyé Timothée, puis est allé lui-même. Bientôt, il se rendit en bateau à Tyr. Il descendit la côte et passa à Jérusalem.
 45. Certains Juifs ont semé le trouble chez Paul et dans le tumulte, les Romains ont arrêté Paul. Citoyen romain, ils l'envoyèrent à Césarée, où Félix le garda en détention pendant deux ans.
 	**NOTE** : Quelque part ici, Luc a rejoint le groupe de Paul, car il écrit dans les Actes à la première personne.
@@ -87,7 +87,7 @@ Auteur: **William S. Sadler**
 54. Les premiers pères de l'église s'accordent tous à dire que Paul a été jugé et condamné.
 55. Paul a peut-être été acquitté et arrêté une seconde fois lors des persécutions de Néron en 64 et 65.
 56. Paul avait été un vaillant guerrier – partout où il allait, il laissait des amis fidèles et des ennemis féroces. C'était un homme de conflit, mais c'était un chrétien fidèle.
-57. Il était le maître théologien du christianisme, son principal philosophe. Il était en quelque sorte un missionnaire autonome. Il n'a jamais "mangé le pain de qui que ce soit". Il était vraiment "l'apôtre des gentils".
+57. Il était le maître théologien du christianisme, son principal philosophe. Il était en quelque sorte un missionnaire autonome. Il n'a jamais «mangé le pain de qui que ce soit». Il était vraiment «l'apôtre des gentils».
 
 
 <br>

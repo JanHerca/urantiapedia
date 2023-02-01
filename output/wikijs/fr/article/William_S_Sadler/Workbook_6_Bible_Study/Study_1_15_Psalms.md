@@ -34,15 +34,15 @@ Auteur: **William S. Sadler**
 
 1. Rien de précis n'est connu sur l'auteur d'un psaume.
 2. Les auteurs présumés des Psaumes sont les suivants :
-	David-79.
-	Asaph-12.
-	Salomon-2. 72,27.
-	Héman-1. 88.
-	Jérémie-1. 137.
-	Koré-10.
-	Moïse-1. 90.
-	Éthan-1. 89.
-	Anonyme-43.
+	- David-[79](/fr/Bible/Psalms/79).
+	- Asaph-[12](/fr/Bible/Psalms/12).
+	- Salomon-2. [72](/fr/Bible/Psalms/72),[27](/fr/Bible/Psalms/27).
+	- Héman-1. [88](/fr/Bible/Psalms/88).
+	- Jérémie-1. [137](/fr/Bible/Psalms/137).
+	- Koré-[10](/fr/Bible/Psalms/10).
+	- Moïse-1. [90](/fr/Bible/Psalms/90).
+	- Éthan-1. [89](/fr/Bible/Psalms/89).
+	- Anonyme-[43](/fr/Bible/Psalms/43).
 
 ## III. considérations générales
 
@@ -87,28 +87,28 @@ Auteur: **William S. Sadler**
 		« Prêtez l'oreille, tous les habitants du monde. [49:1](/fr/Bible/Psalms/49#v1).
 	- B. **Antithétique**. Deuxième ligne antithétique à la première.
 		« Car le Seigneur connaît la voie des justes,
-		"mais la voie des méchants périra." [1:6](/fr/Bible/Psalms/1#v6). colline." [3:4](/fr/Bible/Psalms/3#v4).
+		«mais la voie des méchants périra.» [1:6](/fr/Bible/Psalms/1#v6). colline." [3:4](/fr/Bible/Psalms/3#v4).
 	- C. **Synthétique**. La deuxième ligne complète la première.
 		« Je crie à haute voix vers le Seigneur,
-		"et il me répond de sa colline sainte." [3:4](/fr/Bible/Psalms/3#v4).
+		«et il me répond de sa colline sainte.» [3:4](/fr/Bible/Psalms/3#v4).
 7. Certains psaumes sont en strophes, d'autres en structure acrostiche.
 
 ## VI. Religion des psalmistes
 
 1. Le Psautier ne présente aucun schéma systématique de la théologie juive.
-2. Le concept de Dieu est monothéiste, bien qu'il soit fait référence à d'autres "dieux".
+2. Le concept de Dieu est monothéiste, bien qu'il soit fait référence à d'autres «dieux».
 3. Dieu est juste, juste, miséricordieux et miséricordieux. Et il entend les prières de ses serviteurs.
 4. Le monde est l'ouvrage de Dieu. Les psalmistes ne sont pas des amoureux de la nature.
 5. L'homme vit sa vie et périt « comme les bêtes des champs ». Il n'y a que des indices de survie au-delà de la tombe.
 6. Le peuple de Dieu sont les Hébreux, mais il y a des références au fait que Dieu gouverne et juge toutes les nations.
 7. Mais oh le tout, les psaumes présentent un nationalisme hébreu rugueux.
-8. Le culte us est maintenu, mais peu d'attention est portée au "sang" et aux sacrifices. Le temple est vénéré, mais certaines de ses cérémonies sont méprisées.
+8. Le culte us est maintenu, mais peu d'attention est portée au «sang» et aux sacrifices. Le temple est vénéré, mais certaines de ses cérémonies sont méprisées.
 9. Certains psaumes font allusion au règne universel du Dieu d'Israël. Ils se réfèrent également à des moments où tous les hommes adorent Dieu.
-10. En général, les psaumes se réfèrent à "la bonté du Seigneur pour la terre des vivants", mais ils parlent aussi du jour du Jugement et de la fin du monde.
+10. En général, les psaumes se réfèrent à «la bonté du Seigneur pour la terre des vivants», mais ils parlent aussi du jour du Jugement et de la fin du monde.
 11. Beaucoup de psaumes reflètent la philosophie et les croyances religieuses de nombreux peuples anciens - égyptiens, babyloniens, assyriens et persans.
 12. Beaucoup de psaumes peuvent difficilement être qualifiés de chrétiens. Notez les psaumes suivants de la catégorie imprécatoire-respirer la vengeance : Ps. 58, 59, 69, 109, 137 et 149.
 
-##VII. Psaumes en adoration
+## VII. Psaumes en adoration
 
 1. Les psaumes faisaient partie de l'ancien culte du temple.
 2. Les psaumes étaient associés aux fêtes juives annuelles - Premiers fruits, Tabernacles, Pentecôte, etc.
@@ -121,46 +121,46 @@ Auteur: **William S. Sadler**
 
 ## VIII. Textes sélectionnés
 
-1. **L'homme béni**. "Heureux l'homme qui ne marche pas dans le conseil des méchants, qui ne se tient pas sur le chemin des pécheurs, qui ne s'assied pas sur le siège des moqueurs, mais qui prend plaisir à la loi du Seigneur." [1:1,2](/fr/Bible/Psalms/1#v1).
+1. **L'homme béni**. «Heureux l'homme qui ne marche pas dans le conseil des méchants, qui ne se tient pas sur le chemin des pécheurs, qui ne s'assied pas sur le siège des moqueurs, mais qui prend plaisir à la loi du Seigneur.» [1:1,2](/fr/Bible/Psalms/1#v1).
 2. **Le fou**. « L'insensé dit dans son cœur : 'Il n'y a pas de Dieu.' » [14:1](/fr/Bible/Psalms/14#v1).
-3. **Le bon héritage**. "Les lignes sont tombées pour moi dans des endroits agréables; oui, j'ai un bon héritage." [16:6](/fr/Bible/Psalms/16#v6).
-4. **Raconter la gloire de Dieu**. "Les cieux racontent la gloire de Dieu, et le firmament proclame son ouvrage." [19:1](/fr/Bible/Psalms/19#v1).
-5. **Abandonné**. "Mon Dieu, mon Dieu, pourquoi m'as-tu abandonné ?" [22:1](/fr/Bible/Psalms/22#v1).
-6. **Notre berger**. "Le Seigneur est mon berger." [23:1](/fr/Bible/Psalms/23#v1).
-7. **Bonté et miséricorde**. "Sûrement la bonté et la miséricorde m'accompagneront tous les jours de ma vie." [23:6](/fr/Bible/Psalms/23#v6).
-8. **La Terre appartient au Seigneur**. "La terre appartient au Seigneur et sa plénitude, le monde et ceux qui l'habitent." [24:1](/fr/Bible/Psalms/24#v1).
-9. **Notre forteresse**. "Oui, tu es mon rocher et ma forteresse; à cause de ton nom, conduis-moi et guide-moi." [31:3](/fr/Bible/Psalms/31#v3).
-10. **Pardon**. "Heureux celui dont la transgression est pardonnée, dont le péché est couvert." [32:1](/fr/Bible/Psalms/32#v1).
-11. **Fabriquer les cieux**. "Par la parole du Seigneur, les cieux ont été faits, et toute leur armée par le souffle de sa bouche." [33:6](/fr/Bible/Psalms/33#v6).
-12. **Goûtez et voyez**. "Ô goûtez et voyez que le Seigneur est bon !" [34:8](/fr/Bible/Psalms/34#v8).
-13. **Afflictions des justes**. "Nombreuses sont les afflictions du juste, mais le Seigneur le délivre de toutes." [34:19](/fr/Bible/Psalms/34#v19).
-14. **Prenez soin des justes**. "J'ai été jeune, et maintenant je suis vieux; pourtant je n'ai pas vu le juste abandonné ni ses enfants mendier du pain." [37:25](/fr/Bible/Psalms/37#v25).
-15. **La loi dans le cœur**. "Je prends plaisir à faire ta volonté, ô mon Dieu; ta loi est dans mon cœur." [40:8](/fr/Bible/Psalms/40#v8).
-16. **Soif de Dieu**. "Mon âme a soif de Dieu, du Dieu vivant." [42:2](/fr/Bible/Psalms/42#v2).
-17. **Notre refuge**. "Dieu est notre refuge et notre force, une aide très présente dans les difficultés." [46:1](/fr/Bible/Psalms/46#v1).
-18. **Contemplation**. "'Silence, et sache que je suis Dieu.'" [46:10](/fr/Bible/Psalms/46#v10).
-19. **Les mille collines**. "Car chaque bête de la forêt est à moi, le bétail sur mille collines." [50:10](/fr/Bible/Psalms/50#v10).
+3. **Le bon héritage**. «Les lignes sont tombées pour moi dans des endroits agréables; oui, j'ai un bon héritage.» [16:6](/fr/Bible/Psalms/16#v6).
+4. **Raconter la gloire de Dieu**. «Les cieux racontent la gloire de Dieu, et le firmament proclame son ouvrage.» [19:1](/fr/Bible/Psalms/19#v1).
+5. **Abandonné**. «Mon Dieu, mon Dieu, pourquoi m'as-tu abandonné ?» [22:1](/fr/Bible/Psalms/22#v1).
+6. **Notre berger**. «Le Seigneur est mon berger.» [23:1](/fr/Bible/Psalms/23#v1).
+7. **Bonté et miséricorde**. «Sûrement la bonté et la miséricorde m'accompagneront tous les jours de ma vie.» [23:6](/fr/Bible/Psalms/23#v6).
+8. **La Terre appartient au Seigneur**. «La terre appartient au Seigneur et sa plénitude, le monde et ceux qui l'habitent.» [24:1](/fr/Bible/Psalms/24#v1).
+9. **Notre forteresse**. «Oui, tu es mon rocher et ma forteresse; à cause de ton nom, conduis-moi et guide-moi.» [31:3](/fr/Bible/Psalms/31#v3).
+10. **Pardon**. «Heureux celui dont la transgression est pardonnée, dont le péché est couvert.» [32:1](/fr/Bible/Psalms/32#v1).
+11. **Fabriquer les cieux**. «Par la parole du Seigneur, les cieux ont été faits, et toute leur armée par le souffle de sa bouche.» [33:6](/fr/Bible/Psalms/33#v6).
+12. **Goûtez et voyez**. «Ô goûtez et voyez que le Seigneur est bon !» [34:8](/fr/Bible/Psalms/34#v8).
+13. **Afflictions des justes**. «Nombreuses sont les afflictions du juste, mais le Seigneur le délivre de toutes.» [34:19](/fr/Bible/Psalms/34#v19).
+14. **Prenez soin des justes**. «J'ai été jeune, et maintenant je suis vieux; pourtant je n'ai pas vu le juste abandonné ni ses enfants mendier du pain.» [37:25](/fr/Bible/Psalms/37#v25).
+15. **La loi dans le cœur**. «Je prends plaisir à faire ta volonté, ô mon Dieu; ta loi est dans mon cœur.» [40:8](/fr/Bible/Psalms/40#v8).
+16. **Soif de Dieu**. «Mon âme a soif de Dieu, du Dieu vivant.» [42:2](/fr/Bible/Psalms/42#v2).
+17. **Notre refuge**. «Dieu est notre refuge et notre force, une aide très présente dans les difficultés.» [46:1](/fr/Bible/Psalms/46#v1).
+18. **Contemplation**. «'Silence, et sache que je suis Dieu.'» [46:10](/fr/Bible/Psalms/46#v10).
+19. **Les mille collines**. «Car chaque bête de la forêt est à moi, le bétail sur mille collines.» [50:10](/fr/Bible/Psalms/50#v10).
 20. **Purgez-moi**. « Purifie-moi avec de l'hysope et je serai pur ; lave-moi et je serai plus blanc que neige. [51:7](/fr/Bible/Psalms/51#v7).
-21. **Un cœur pur**. "Crée en moi un cœur pur, ô Dieu, et mets en moi un esprit nouveau et droit." [51:10,](/fr/Bible/Psalms/51#v10)
+21. **Un cœur pur**. «Crée en moi un cœur pur, ô Dieu, et mets en moi un esprit nouveau et droit.» [51:10,](/fr/Bible/Psalms/51#v10)
 22. **Se reposer**. "'O que j'avais des ailes comme une colombe !
-23. **Jetez votre fardeau**. "Rejette ton fardeau sur le Seigneur, et il te soutiendra." [55:22](/fr/Bible/Psalms/55#v22).
+23. **Jetez votre fardeau**. «Rejette ton fardeau sur le Seigneur, et il te soutiendra.» [55:22](/fr/Bible/Psalms/55#v22).
 24. **Le rocher le plus haut**. « Conduis-moi au rocher qui est plus haut que moi, car tu es mon refuge. [61:2,3](/fr/Bible/Psalms/61#v2).
-25. **Le portier**. "Je préfère être portier dans la maison de mon Dieu que d'habiter dans les tentes de la méchanceté." [84:10](/fr/Bible/Psalms/84#v10).
-26. **Mille ans**. "Car mille ans à tes yeux ne sont que comme hier quand c'est passé, ou comme une veille dans la nuit." [90:4](/fr/Bible/Psalms/90#v4).
-27. **Trois et dix**. "Les années de notre vie sont soixante-dix, ou même en raison de la force quatre-vingt." [90:10](/fr/Bible/Psalms/90#v10).
-28. **Ombre du Tout-Puissant**. "Celui qui habite à l'abri du Très-Haut, qui demeure à l'ombre du Tout-Puissant." [91:1](/fr/Bible/Psalms/91#v1).
-29. **Anges gardiens**. "Car il confiera à ses anges la charge de vous garder dans toutes vos voies." [91:11](/fr/Bible/Psalms/91#v11).
+25. **Le portier**. «Je préfère être portier dans la maison de mon Dieu que d'habiter dans les tentes de la méchanceté.» [84:10](/fr/Bible/Psalms/84#v10).
+26. **Mille ans**. «Car mille ans à tes yeux ne sont que comme hier quand c'est passé, ou comme une veille dans la nuit.» [90:4](/fr/Bible/Psalms/90#v4).
+27. **Trois et dix**. «Les années de notre vie sont soixante-dix, ou même en raison de la force quatre-vingt.» [90:10](/fr/Bible/Psalms/90#v10).
+28. **Ombre du Tout-Puissant**. «Celui qui habite à l'abri du Très-Haut, qui demeure à l'ombre du Tout-Puissant.» [91:1](/fr/Bible/Psalms/91#v1).
+29. **Anges gardiens**. «Car il confiera à ses anges la charge de vous garder dans toutes vos voies.» [91:11](/fr/Bible/Psalms/91#v11).
 30. **Nous sommes de poussière**. « Car il connaît notre charpente ; il se souvient que nous sommes poussière. [103:14](/fr/Bible/Psalms/103#v14).
-31. **La couverture de lumière**. "Qui te couvres de lumière comme d'un vêtement, qui as étendu les cieux comme une tente." [104:2](/fr/Bible/Psalms/104#v2).
-32. **L'esprit créatif**. "Quand tu envoies ton Esprit, ils sont créés, et tu renouvelles la face du sol." [104:30](/fr/Bible/Psalms/104#v30).
-33. **Sagesse**. "La crainte du Seigneur est le commencement de la sagesse." [111:10](/fr/Bible/Psalms/111#v10).
-34. **Mission d'Affliction**. "Avant d'être affligé, je m'égarais; mais maintenant je garde ta parole." [119:67](/fr/Bible/Psalms/119#v67).
-35. **Lumière du mot**. "Ta parole est une lampe à mes pieds et une lumière sur mon sentier." [119:105](/fr/Bible/Psalms/119#v105).
+31. **La couverture de lumière**. «Qui te couvres de lumière comme d'un vêtement, qui as étendu les cieux comme une tente.» [104:2](/fr/Bible/Psalms/104#v2).
+32. **L'esprit créatif**. «Quand tu envoies ton Esprit, ils sont créés, et tu renouvelles la face du sol.» [104:30](/fr/Bible/Psalms/104#v30).
+33. **Sagesse**. «La crainte du Seigneur est le commencement de la sagesse.» [111:10](/fr/Bible/Psalms/111#v10).
+34. **Mission d'Affliction**. «Avant d'être affligé, je m'égarais; mais maintenant je garde ta parole.» [119:67](/fr/Bible/Psalms/119#v67).
+35. **Lumière du mot**. «Ta parole est une lampe à mes pieds et une lumière sur mon sentier.» [119:105](/fr/Bible/Psalms/119#v105).
 36. **La force des collines**. « Je lève les yeux vers les collines. D'où vient mon secours ? [121:1](/fr/Bible/Psalms/121#v1).
-37. **Gardé du mal**. "Le Seigneur te gardera de tout mal, il gardera ta vie." [121:7](/fr/Bible/Psalms/121#v7).
+37. **Gardé du mal**. «Le Seigneur te gardera de tout mal, il gardera ta vie.» [121:7](/fr/Bible/Psalms/121#v7).
 38. **La présence divine**. « Où irai-je loin de ton Esprit ? Ou où fuirai-je loin de ta présence ? [139:7](/fr/Bible/Psalms/139#v7).
 39. **La voie éternelle**. « Sonde-moi, ô Dieu, et connais mon cœur. Je m'éprouve et connais mes pensées ! [139:23,24](/fr/Bible/Psalms/139#v23).
-40. **La bonté divine**. "Le Seigneur est juste dans toutes ses voies, et bon dans toutes ses actions." [145:17](/fr/Bible/Psalms/145#v17).
+40. **La bonté divine**. «Le Seigneur est juste dans toutes ses voies, et bon dans toutes ses actions.» [145:17](/fr/Bible/Psalms/145#v17).
 
 
 <br>

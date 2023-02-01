@@ -24,10 +24,10 @@ Auteur: **William S. Sadler**
 
 ## I. Aperçu-Bref
 
-1. Oracles du jugement. 1-24.
-2. Contre les nations étrangères. 25-32.
-3. Restauration d'Israël. 33-39.
-4. La Nouvelle Communauté. 40-48.
+1. Oracles du jugement. [1-24](/fr/Bible/Ezéchiel/1).
+2. Contre les nations étrangères. [25-32](/fr/Bible/Ezéchiel/25).
+3. Restauration d'Israël. [33-39](/fr/Bible/Ezéchiel/33).
+4. La Nouvelle Communauté. [40-48](/fr/Bible/Ezéchiel/40).
 
 ## II. Aperçu complet
 
@@ -76,7 +76,7 @@ Auteur: **William S. Sadler**
 2. Le travail éditorial a été si important qu'il a presque fait de cet éditeur un co-auteur.
 3. L'éditeur a considérablement amplifié les raisons de la captivité : idolâtrie, obscénité, faux prophètes, violation du sabbat, immoralité, péchés sociaux, etc.
 4. L'éditeur peut aussi avoir été un prêtre.
-5. L'éditeur a utilisé plus de cinquante mots ou phrases caractéristiques dans son travail. L'expression "Alors ils sauront que je suis le Seigneur" qu'il utilise 56 fois.
+5. L'éditeur a utilisé plus de cinquante mots ou phrases caractéristiques dans son travail. L'expression «Alors ils sauront que je suis le Seigneur» qu'il utilise 56 fois.
 6. Date : Généralement acceptée - 593-571 av.
 
 ## IV. Ézéchiel lui-même
@@ -108,29 +108,29 @@ Auteur: **William S. Sadler**
 3. Yahvé avait pour femmes deux sœurs ; l'un fréquenta les Assyriens et fut puni ; l'autre avec les Égyptiens et a également été détruit.
 4. Il était le prophète des allégories - vents, feu, roues dans les roues, etc.
 5. Il a introduit l'idée de Dieu en tant que berger, que Jésus a utilisée si efficacement.
-6. Il a parlé de "l'expérience religieuse individuelle" - "la loi de Dieu écrite sur les tablettes du cœur".
-7. Responsabilité individuelle pour le péché - "Quiconque pèche, il mourra." Il a dénoncé le concept des pères mangeant des raisins aigres et les dents des enfants étant agacées.
+6. Il a parlé de «l'expérience religieuse individuelle» - «la loi de Dieu écrite sur les tablettes du cœur».
+7. Responsabilité individuelle pour le péché - «Quiconque pèche, il mourra.» Il a dénoncé le concept des pères mangeant des raisins aigres et les dents des enfants étant agacées.
 8. Ézéchiel a tenté de réformer le rituel juif. Pas tant contre les cérémonies que l'était Jérémie.
 9. Il prononça des malédictions contre Ammon, Moab, Édom, la Philistie, Sidon et l'Égypte.
 10. Il a présenté un Dieu universel, mais pas une religion universelle - Yahweh et Israël appartenaient ensemble.
 11. Il semblerait que les allégories d'Ezéchiel aient eu une influence considérable sur l'auteur de l'Apocalypse - le fleuve de la vie, la ville carrée, etc.
 
-##VII. Textes sélectionnés
+## VII. Textes sélectionnés
 
-1. **Vitesse séraphique**. "Et les créatures vivantes s'élançaient de-ci, de-là, comme un éclair." [1:14](/fr/Bible/Ezéchiel/1#v14).
-2. **Appelé "Fils de l'homme**". "Et il m'a dit: 'Fils d'homme, mange ce qui t'est offert; mange ce rouleau, et va parler à la maison d'Israël.'" [3:1](/fr/Bible/Ezekiel/3#v1).
+1. **Vitesse séraphique**. «Et les créatures vivantes s'élançaient de-ci, de-là, comme un éclair.» [1:14](/fr/Bible/Ezéchiel/1#v14).
+2. **Appelé «Fils de l'homme**». «Et il m'a dit: 'Fils d'homme, mange ce qui t'est offert; mange ce rouleau, et va parler à la maison d'Israël.'» [3:1](/fr/Bible/Ezekiel/3#v1).
 3. **Colère et colère divines**. « Ainsi s'épuisera ma colère, et je répandrai ma fureur sur eux et je me contenterai ; et ils sauront que moi, le Seigneur, j'ai parlé dans ma jalousie. » [5:13](/fr/Bible/ Ézéchiel/5#v13).
-4. **Cause et effet**. "'Et vous saurez que je n'ai pas fait sans cause tout ce que j'ai fait en elle, dit le Seigneur Dieu.'" [14:23](/fr/Bible/Ezekiel/14#v23).
-5. **Telle mère, telle fille**. "'Voici, tout le monde... utilisera ce proverbe à votre sujet, "Telle mère, telle fille."'" [16:44](/fr/Bible/Ezekiel/16#v44).
-6. **Manger des raisins verts**. "'Que voulez-vous dire..."Les pères ont mangé des raisins verts, et les dents des enfants sont agacées" ? [18:2,3](/fr/Bible/Ezéchiel/18#v2).
-7. **Aucun plaisir dans la mort des méchants**. "'Ai-je du plaisir dans la mort des méchants, dit le Seigneur Dieu.'" [18:23](/fr/Bible/Ezekiel/18#v23).
-8. **Références à Lucifer**. "'Tu as été irréprochable dans tes voies depuis le jour où tu as été créé, jusqu'à ce que l'iniquité ait été trouvée en toi... Ton cœur était fier à cause de ta beauté ; tu as corrompu ta sagesse pour ta splendeur.'" [28:15 ,17](/fr/Bible/Ezéchiel/28#v15).
-9. **Son aphonie guérie**. "Alors ma bouche s'est ouverte, et je n'étais plus muet." [33:22](/fr/Bible/Ezéchiel/33#v22).
-10. **Douches de bénédiction**. '"Et je ferai descendre les averses en leur saison; ce seront des averses de bénédiction.'" [34:26](/fr/Bible/Ezekiel/34#v26).
-11. **Ne pas avoir peur**. "'Ils habiteront en sécurité, et personne ne les effrayera.'" [34:28](/fr/Bible/Ezekiel/34#v28).
-12. **Un nouveau cœur**. "'Je vous donnerai un cœur nouveau, et je mettrai en vous un esprit nouveau.'" [36:26](/fr/Bible/Ezekiel/36#v26).
+4. **Cause et effet**. «'Et vous saurez que je n'ai pas fait sans cause tout ce que j'ai fait en elle, dit le Seigneur Dieu.'» [14:23](/fr/Bible/Ezekiel/14#v23).
+5. **Telle mère, telle fille**. «'Voici, tout le monde... utilisera ce proverbe à votre sujet, »Telle mère, telle fille.«'» [16:44](/fr/Bible/Ezekiel/16#v44).
+6. **Manger des raisins verts**. «'Que voulez-vous dire...»Les pères ont mangé des raisins verts, et les dents des enfants sont agacées" ? [18:2,3](/fr/Bible/Ezéchiel/18#v2).
+7. **Aucun plaisir dans la mort des méchants**. «'Ai-je du plaisir dans la mort des méchants, dit le Seigneur Dieu.'» [18:23](/fr/Bible/Ezekiel/18#v23).
+8. **Références à Lucifer**. «'Tu as été irréprochable dans tes voies depuis le jour où tu as été créé, jusqu'à ce que l'iniquité ait été trouvée en toi... Ton cœur était fier à cause de ta beauté ; tu as corrompu ta sagesse pour ta splendeur.'» [28:15 ,17](/fr/Bible/Ezéchiel/28#v15).
+9. **Son aphonie guérie**. «Alors ma bouche s'est ouverte, et je n'étais plus muet.» [33:22](/fr/Bible/Ezéchiel/33#v22).
+10. **Douches de bénédiction**. '«Et je ferai descendre les averses en leur saison; ce seront des averses de bénédiction.'» [34:26](/fr/Bible/Ezekiel/34#v26).
+11. **Ne pas avoir peur**. «'Ils habiteront en sécurité, et personne ne les effrayera.'» [34:28](/fr/Bible/Ezekiel/34#v28).
+12. **Un nouveau cœur**. «'Je vous donnerai un cœur nouveau, et je mettrai en vous un esprit nouveau.'» [36:26](/fr/Bible/Ezekiel/36#v26).
 13. **La vallée des os secs**. « Il y eut un bruit, et voici, un cliquetis ; et les os se rassemblèrent, os contre os. [37:7](/fr/Bible/Ezéchiel/37#v7).
-14. **Gog et Magog**. "'J'invoquerai toute sorte de terreur contre Gog.'" [38:21](/fr/Bible/Ezekiel/38#v21). "Tu tomberas... car j'ai parlé, dit le Seigneur Dieu." [39:5](/fr/Bible/Ezéchiel/39#v5).
+14. **Gog et Magog**. «'J'invoquerai toute sorte de terreur contre Gog.'» [38:21](/fr/Bible/Ezekiel/38#v21). «Tu tomberas... car j'ai parlé, dit le Seigneur Dieu.» [39:5](/fr/Bible/Ezéchiel/39#v5).
 
 (**Remarque** : Pendant cent ans, les étudiants prophétiques ont référé cette prophétie sur les Gog et Magog à la Russie.)
 

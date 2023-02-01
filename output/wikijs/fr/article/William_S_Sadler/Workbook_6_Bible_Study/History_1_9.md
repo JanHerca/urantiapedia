@@ -31,7 +31,7 @@ Auteur: **William S. Sadler**
 		Josué, Juges, Rois, Samuel.
 	- b. Prophètes ultérieurs.
 		Esaïe, Jérémie, Ezéchiel et les 12 petits prophètes.
-3. Les Lamentations et Daniel ont été placés parmi les "écrits".
+3. Les Lamentations et Daniel ont été placés parmi les «écrits».
 4. Les premiers prophètes étaient tous des prédicateurs. Certains ont écrit plus tard leurs exhortations.
 5. Jérémie a dicté à Baruch [Chap 36](/fr/Bible/Jeremiah/36#v4).
 6. Le langage sonore était plus efficace que le langage visuel.
@@ -55,13 +55,13 @@ Auteur: **William S. Sadler**
 4. Les prophètes des derniers jours ont commencé à parler de la fin du monde, du triomphe d'Israël en tant que dirigeant de toutes les nations.
 5. Ce message apocalyptique était centré sur le Messie qui viendrait s'asseoir sur le trône de David et dirigerait le monde.
 6. Les prophètes étaient de moins en moins soucieux de prédire les événements futurs. Ils traitaient davantage des situations difficiles actuelles.
-7. Le prophète était un "homme de Dieu" - déclarant la "volonté de Dieu". Il a été inspiré.
-8. Les cinq cents ans des "prophètes d'Israël" représentent la plus grande période de l'histoire spirituelle du monde.
-9. Les fondateurs du Nouveau Testament ont honoré les prophètes. "Parce qu'aucune prophétie n'est jamais venue par l'impulsion de l'homme, mais des hommes poussés par le Saint-Esprit ont parlé de la part de Dieu." [II Pierre 1:21](/fr/Bible/2_Peter/1#v21).
+7. Le prophète était un «homme de Dieu» - déclarant la «volonté de Dieu». Il a été inspiré.
+8. Les cinq cents ans des «prophètes d'Israël» représentent la plus grande période de l'histoire spirituelle du monde.
+9. Les fondateurs du Nouveau Testament ont honoré les prophètes. «Parce qu'aucune prophétie n'est jamais venue par l'impulsion de l'homme, mais des hommes poussés par le Saint-Esprit ont parlé de la part de Dieu.» [II Pierre 1:21](/fr/Bible/2_Peter/1#v21).
 10. Les prophètes prêchaient la sainteté, l'amour et la justice, et s'opposaient aux sacrifices et à trop de rituels.
 11. Les prophètes n'étaient pas ascétiques - ils ne se séparaient pas du peuple. Et ils étaient patriotes.
 12. Ils étaient courageux et honnêtes. Les derniers prophètes ont rejeté toutes les performances extatiques.
-13. "Les fils des prophètes" étaient des conseillers et des enseignants religieux, comme les évangélistes de l'ère chrétienne. Ils avaient des écoles à Béthel, Guibea, Guilgal et Rama.
+13. «Les fils des prophètes» étaient des conseillers et des enseignants religieux, comme les évangélistes de l'ère chrétienne. Ils avaient des écoles à Béthel, Guibea, Guilgal et Rama.
 14. Il y avait toujours des prophètes faux et mercenaires.
 15. Jean-Baptiste est décrit comme « le dernier des prophètes ».
 16. Mais ils parlaient encore de « prophètes » pendant les jours apostoliques.
@@ -72,10 +72,10 @@ Auteur: **William S. Sadler**
 ### I. La sagesse au Proche-Orient
 
 1. Les « sages » ne doivent pas être confondus avec les magiciens et les astrologues.
-2. L'Orient avait des "sages", mais pas de philosophes. Les Grecs et l'Occident avaient des philosophes, mais pas de "sages".
+2. L'Orient avait des «sages», mais pas de philosophes. Les Grecs et l'Occident avaient des philosophes, mais pas de «sages».
 3. L'Amenhotep d'Egypte était une combinaison d'homme sage, de philosophe et d'enseignant religieux.
-4. Les proverbes sont typiques de l'humeur et de la méthode des "sages" levantins.
-5. Les proverbes vont des "énigmes" à la philosophie sublime.
+4. Les proverbes sont typiques de l'humeur et de la méthode des «sages» levantins.
+5. Les proverbes vont des «énigmes» à la philosophie sublime.
 6. Fait un large usage de fables végétales et animales.
 7. Les « sages » étaient des « érudits » et cherchaient vraiment à découvrir le sens et la valeur de la vie humaine.
 8. L'Égypte et la Babylonie avaient des « sages », mais nous n'entendons rien à leur sujet en Assyrie ou à Édom.
@@ -84,8 +84,8 @@ Auteur: **William S. Sadler**
 
 1. Les Cananéens possédaient une littérature de sagesse - découvertes à [Ras Shamrah] (https://en.wikipedia.org/wiki/Ugarit).
 2. Israël avait aussi des «femmes sages» - Le Cantique de Déborah confine à la littérature de sagesse.
-3. Quand Joab a voulu persuader David de laisser Absalom rentrer à la maison, il a envoyé à Tekoa chercher une " femme sage ".
-4. La "femme sage" a suggéré d'aller à Abel pour chercher la sagesse - le site des anciennes "écoles de sagesse". [II Sam. 20:l6-22](/fr/Bible/2_Samuel/20#v16).
+3. Quand Joab a voulu persuader David de laisser Absalom rentrer à la maison, il a envoyé à Tekoa chercher une « femme sage ».
+4. La «femme sage» a suggéré d'aller à Abel pour chercher la sagesse - le site des anciennes «écoles de sagesse». [II Sam. 20:l6-22](/fr/Bible/2_Samuel/20#v16).
 5. La seule fable végétale pure du type oriental est celle de Jotham. [Juge. 9:8-15](/fr/Bible/Judges/9#v8). Leçon : Les personnes respectables sont trop occupées pour la politique, alors les réprouvés prennent le dessus.
 
 ### III. Sagesse de Salomon
@@ -101,12 +101,12 @@ Auteur: **William S. Sadler**
 
 1. Les « sages » juifs étaient parfois à moitié humoristes et un peu cyniques. Les Hébreux avaient trois sortes de littérature : le prêtre, le prophète et le sage.
 2. Beaucoup de [Psaumes](/fr/Bible/Psalms/) appartiennent au groupe de la sagesse. [Ps 15](/fr/Bible/Psalms/15), [24](/fr/Bible/Psalms/24), [19](/fr/Bible/Psalms/19), [16](/fr/Bible/Psalms/16), [49](/fr/Bible/Psalms/49), [73](/fr/Bible/Psalms/73).
-3. [Ps 19:2](/fr/Bible/Psalms/19#v2) peut être une énigme orientale. L'énigme : "Qu'est-ce qui parle jour et nuit, et pourtant n'a pas de voix ?" Réponse : « Les cieux proclament la gloire de Dieu et le firmament montre son ouvrage. »
+3. [Ps 19:2](/fr/Bible/Psalms/19#v2) peut être une énigme orientale. L'énigme : «Qu'est-ce qui parle jour et nuit, et pourtant n'a pas de voix ?» Réponse : « Les cieux proclament la gloire de Dieu et le firmament montre son ouvrage. »
 
 ### V. La sagesse après l'exil
 
 - A. **[Proverbes](/fr/Bible/Proverbs)**
-	1. Prov. 1 est le symbole de la sagesse post-exilique. "La crainte du Seigneur est le commencement de la sagesse."
+	1. Prov. 1 est le symbole de la sagesse post-exilique. «La crainte du Seigneur est le commencement de la sagesse.»
 	2. Prov. 1-9 est certainement post-exilique.
 	3. Proverbes est une compilation comme les Psaumes.
 	4. Il y a deux sections de Proverbes :
@@ -128,7 +128,7 @@ Auteur: **William S. Sadler**
 	10. Le sage évite l'adultère, l'usure, la fraude, le vol et les gains mal acquis.
 	11. L'intérêt personnel, plutôt que la loi morale, dicte la bonne conduite.
 	12. Intéressez-vous à la veuve et à l'orphelin, même à vos ennemis.
-- B. **[Travail](/fr/Bible/Travail)**
+- B. **[Job](/fr/Bible/Job)**
 	1. Job est la plus grande littérature de sagesse d'Israël. La question de Job : « Pourquoi les justes souffrent-ils ?
 	2. La discussion de Jésus sur Job. Le Livre d'Urantia, [LU 148:6.1](/fr/The_Urantia_Book/148#p6_1)
 	3. Job est un défi de la doctrine égypto-hébraïque selon laquelle les justes et les méchants reçoivent leurs justes mérites ici sur terre.
@@ -137,10 +137,10 @@ Auteur: **William S. Sadler**
 	6. Les misérables consolateurs de Job et leur orthodoxie suffisante n'avaient pas la réponse.
 	7. Job est construit un peu sur l'ordre du drame grec.
 	8. Paternité multiple en Mésopotamie. Représentant de l'école de Salem à Kish. Voir le Livre d'Urantia, [LU 95:1.6](/fr/The_Urantia_Book/95#p1_6)
-	9. Jésus a appelé le livre de Job une parabole. Il a dit que c'était "ce chef-d'œuvre de la littérature sémitique".
+	9. Jésus a appelé le livre de Job une parabole. Il a dit que c'était «ce chef-d'œuvre de la littérature sémitique».
 	10. Après l'échec de la théologie et l'effondrement de la philosophie, Job a remporté sa victoire par **expérience personnelle**.
 	11. Job enfin, par la foi, se raisonne de ses ennuis. Il déclare : « Je connais le chemin que je prends ; quand il m'aura éprouvé, je sortirai comme de l'or.
-	12. Le triomphe de Job était complet. Il s'exclame : " Je sais que mon redresseur de torts est vivant. " (19:25) "Même s'il me tue, je lui ferai confiance." (13:15) Version King James.
+	12. Le triomphe de Job était complet. Il s'exclame : « Je sais que mon redresseur de torts est vivant. » (19:25) «Même s'il me tue, je lui ferai confiance.» (13:15) Version King James.
 - C. **[Ecclésiaste](/fr/Bible/Ecclesiastes)**
 	1. Ce livre est un étrange mélange de pessimisme égyptien et de philosophie grecque.
 	2. L'auteur cherche la « valeur de la vie humaine ».
@@ -153,7 +153,7 @@ Auteur: **William S. Sadler**
 	9. Au chap. 8 il concilie sagesse et éducation individuelle. Le livre est dépourvu du «point de vue cosmique».
 	10. La prière n'est pas mentionnée dans tout le livre.
 	11. Le lecteur instruit et spirituel ne peut s'empêcher d'avoir pitié de l'auteur.
-- D. **[Les Apocryphes](https://en.wikipedia.org/wiki/Apocryphes)**
+- D. **[Les Apocryphes](https://fr.wikipedia.org/wiki/Apocryphe_(litt%C3%A9rature_et_art))**
 	1. L'Ecclésiastique et la Sagesse de Salomon continuent la présentation de la sagesse hébraïque.
 	2. L'Ecclésiastique est pénétré de la philosophie des stoïciens.
 	3. Certains de ces enseignements de l'Ancien Testament ont été repris dans le Nouveau Testament

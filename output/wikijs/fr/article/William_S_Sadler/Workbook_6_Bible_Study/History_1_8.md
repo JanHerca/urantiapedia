@@ -24,7 +24,7 @@ Auteur: **William S. Sadler**
 
 ## I. Traditions de l'Hexateuque
 
-1. Les cinq premiers livres de l'[Hexateuque](https://en.wikipedia.org/wiki/Hexateuque) devaient être écrits par Hoses, le sixième par Josué.
+1. Les cinq premiers livres de l'[Hexateuque](https://fr.wikipedia.org/wiki/Hexateuque) devaient être écrits par Hoses, le sixième par Josué.
 2. Les cinq livres—le Pentateuque—constituent la Torah—la Loi.
 3. C'était vers 250 av. J.-C. qu'ils ont commencé à prétendre que Moïse avait écrit le Pentateuque.
 4. Ces derniers temps, les étudiants de l'Hexateuque ont fait certaines observations sur l'Hexateuque, à savoir :
@@ -59,7 +59,7 @@ Auteur: **William S. Sadler**
 3. [Gen 7:12](/fr/Bible/Genesis/7#v2) enregistre la pluie sur la terre pendant 40 jours. En [7:24](/fr/Bible/Genesis/7#v24), 150 jours.
 4. Dans [Gen 41:34](/fr/Bible/Genesis/41#v34), Joseph conseille de stocker un cinquième du grain. Au [verset 35](/fr/Bible/Genesis/41#v35) conseille **tous** la nourriture.
 5. Le beau-père de Moïse nommé Reuel dans [Ex 2:18,21](/fr/Bible/Exodus/2#v18). Dans [Num 10:29](/fr/Bible/Numbers/10#v29), Hobab (Une erreur évidente - éd.). Dans [Ex 3:1](/fr/Bible/Exodus/3#v1) et ailleurs—Jéthro.
-6. Selon [Num 2](/fr/Bible/Numbers/2) la tente sacrée était au "milieu du camp". [Ex 33:7](/fr/Bible/Exodus/33#v7) dit que c'était « à l'extérieur du camp ».
+6. Selon [Num 2](/fr/Bible/Numbers/2) la tente sacrée était au «milieu du camp». [Ex 33:7](/fr/Bible/Exodus/33#v7) dit que c'était « à l'extérieur du camp ».
 7. Dans [Num 13:27](/fr/Bible/Numbers/13#v27) les espions disent à Moïse que la Palestine est fertile. Au [verset 32](/fr/Bible/Numbers/13#v32) ils disent que ce n'est pas bon.
 8. Dans [Nombres 22:20](/fr/Bible/Numbers/22#v20) Dieu donne à Balaam la permission d'aller vers les princes de Balak - dans [verset 22](/fr/Bible/Numbers/22#v22) Dieu est en colère parce qu'il est parti.
 9. Dans [Jos 2:15](/fr/Bible/Joshua/2#v15) la maison de Rahab était sur le mur de Jéricho qui s'est effondré. Dans [6:22](/fr/Bible/Joshua/6#v22), Josué ordonne de la faire sortir de la maison.
@@ -77,10 +77,10 @@ Auteur: **William S. Sadler**
 ## V. Début de la critique
 
 1. En 1753, Astone, un médecin, a attiré l'attention sur l'utilisation alternée de Dieu et de Yahweh dans la Genèse. Ceci, a-t-il affirmé, indiquait deux auteurs.
-2. En cent ans, plusieurs étudiants ont affirmé que l'Hexateuque était une compilation de "fragments".
+2. En cent ans, plusieurs étudiants ont affirmé que l'Hexateuque était une compilation de «fragments».
 3. En 1858, Hupfeld a affirmé qu'il y avait deux documents - les récits d'Elohim et de Yahweh.
-4. [Théorie de Graf-Wellhausen](https://en.wikipedia.org/wiki/Documentary_hypothesis). En 1865, Graf reconnut le document Elohim (E) et le Yahvé (J), et affirma que le livre trouvé dans le temple par Josias était le Deutéronome (D) et que les ajouts éditoriaux des prêtres pendant et après l'exil en représentaient un quatrième ( Facteur P).
-5. Cette théorie présente [quatre documents](https://en.wikipedia.org/wiki/Documentary_hypothesis) :
+4. [Théorie de Graf-Wellhausen](https://fr.wikipedia.org/wiki/Hypoth%C3%A8se_documentaire). En 1865, Graf reconnut le document Elohim (E) et le Yahvé (J), et affirma que le livre trouvé dans le temple par Josias était le Deutéronome (D) et que les ajouts éditoriaux des prêtres pendant et après l'exil en représentaient un quatrième ( Facteur P).
+5. Cette théorie présente [quatre documents](https://fr.wikipedia.org/wiki/Hypoth%C3%A8se_documentaire) :
 	- a. Le plus ancien était J, à cause de l'utilisation du nom Yahweh. La tradition des tribus du sud, écrite vers 1000 av. J.-C. Hébron en est le centre.
 	- b. Le deuxième document était connu sous le nom de E, parce que Dieu s'appelait Elohim. C'était vers 700 av. J.-C. Cela faisait suite à la chute de Samarie et avait pour but d'harmoniser le document J avec les traditions des tribus ayant leur centre à Sichem.
 	- c. Le troisième document était le Deutéronome D. Au sixième siècle, J et E avaient été confondus. JED a été accepté comme Ecriture par tous les Hébreux.

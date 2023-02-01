@@ -25,7 +25,7 @@ Author: **William S. Sadler**
 ## I. Outline
 
 1. Edom's Judgment, vs. [1-14](/en/Bible/Obadiah/1#v1).
-	- A. Title. 1.
+	- A. Title. [1](/en/Bible/Obadiah/1#v1).
 	- B. Warning to Edom. [2-4](/en/Bible/Obadiah/1#v2).
 	- C. Edom's Destruction. [5-9](/en/Bible/Obadiah/1#v5).
 	- D. Reasons for Judgment. [10-14](/en/Bible/Obadiah/1#v10).

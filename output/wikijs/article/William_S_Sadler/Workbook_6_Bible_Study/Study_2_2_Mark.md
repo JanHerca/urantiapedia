@@ -37,69 +37,69 @@ Author: **William S. Sadler**
 	- B. Temptation of Jesus. [1:12,13](/en/Bible/Mark/1#v12).
 2. Jesus in Galilee. [1:14-9:50](/en/Bible/Mark/1#v14).
 	- A. About the Sea of Galilee. [1:14-5:43](/en/Bible/Mark/1#v14).
-		Call of the First Disciples.
-		The Capernaum Synagogue.
-		At peter's House.
-		Picking Grain on the Sabbath.
-		Healing Withered Hand.
-		Appointing the Twelve.
-		Parable of the Sower.
-		Other Parables.
-		The Demoniac.
-		Jairus's Daughter.
-		Woman with Hemorrhage.
+		- Call of the First Disciples.
+		- The Capernaum Synagogue.
+		- At peter's House.
+		- Picking Grain on the Sabbath.
+		- Healing Withered Hand.
+		- Appointing the Twelve.
+		- Parable of the Sower.
+		- Other Parables.
+		- The Demoniac.
+		- Jairus's Daughter.
+		- Woman with Hemorrhage.
 	- B. Wider Journeyings. [6:1-9:50](/en/Bible/Mark/6#v1).
-		Visit to Nazareth.
-		Herod's Impressions.
-		Death of John the Baptist.
-		Feeding Five Thousand.
-		Walking on the Sea.
-		Syrophoenician Woman.
-		Healing Deaf and Dumb Man.
-		Feeding Four Thousand.
-		The Blind Man.
-		Peter's Confession.
-		The Transfiguration.
-		Coming of Elijah.
-		The Epileptic Boy.
-		Question of Greatness.
-		The Strange Exorcist.
+		- Visit to Nazareth.
+		- Herod's Impressions.
+		- Death of John the Baptist.
+		- Feeding Five Thousand.
+		- Walking on the Sea.
+		- Syrophoenician Woman.
+		- Healing Deaf and Dumb Man.
+		- Feeding Four Thousand.
+		- The Blind Man.
+		- Peter's Confession.
+		- The Transfiguration.
+		- Coming of Elijah.
+		- The Epileptic Boy.
+		- Question of Greatness.
+		- The Strange Exorcist.
 3. Jesus in Jerusalem. [10:1-15:47](/en/Bible/Mark/10#v1).
 	- A. On Way to Jerusalem. [10:1-52](/en/Bible/Mark/10#v1).
-		Marriage and Divorce.
-		Blessing Children.
-		Meaning of Discipleship.
-		Rich Young Man.
-		Passion Announcement.
-		Request of James and John.
-		Bartimaeus.
+		- Marriage and Divorce.
+		- Blessing Children.
+		- Meaning of Discipleship.
+		- Rich Young Man.
+		- Passion Announcement.
+		- Request of James and John.
+		- Bartimaeus.
 	- B. In Jerusalem. [11:1-12:44](/en/Bible/Mark/11#v1).
-		Entry into Jerusalem.
-		Cursing the Fig Tree.
-		Cleansing the Temple.
-		Parable of Wicked Husbandmen.
-		Tribute to Caesar.
-		The Great Commandment.
-		Not Son of David.
-		The Widow's Offering.
+		- Entry into Jerusalem.
+		- Cursing the Fig Tree.
+		- Cleansing the Temple.
+		- Parable of Wicked Husbandmen.
+		- Tribute to Caesar.
+		- The Great Commandment.
+		- Not Son of David.
+		- The Widow's Offering.
 	- C. The Apocalyptic Discourse. [13:1-37](/en/Bible/Mark/13#v1).
-		Fall of the Temple.
-		Persecutions.
-		The Parousia.
+		- Fall of the Temple.
+		- Persecutions.
+		- The Parousia.
 	- D. Passion Narrative. [14:1-15:47](/en/Bible/Mark/14#v1).
-		Plot against Jesus.
-		Anointing at Bethany.
-		Judas's Treachery.
-		Prediction of Betrayal.
-		The Last Supper.
-		Prediction of Peter's Denial.
-		In Gethsemane.
-		The Arrest.
-		Flight of Young Man.
-		Before the High Priest.
-		Before Pilate.
-		Condemnation and Mocking.
-		The Crucifixion.
+		- Plot against Jesus.
+		- Anointing at Bethany.
+		- Judas's Treachery.
+		- Prediction of Betrayal.
+		- The Last Supper.
+		- Prediction of Peter's Denial.
+		- In Gethsemane.
+		- The Arrest.
+		- Flight of Young Man.
+		- Before the High Priest.
+		- Before Pilate.
+		- Condemnation and Mocking.
+		- The Crucifixion.
 4. The Empty Tomb. [16:1-8](/en/Bible/Mark/16#v1).
 5. The Appendix. [16:9-20](/en/Bible/Mark/16#v9).
 

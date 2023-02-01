@@ -45,8 +45,8 @@ Auteur: **William S. Sadler**
 
 ## III. Placer dans le Canon
 
-1. Il est appelé "Cantique des Cantiques", comme nous parlons de "Seigneur des Seigneurs".
-2. Autrefois, le livre s'intitulait "Cantiques".
+1. Il est appelé «Cantique des Cantiques», comme nous parlons de «Seigneur des Seigneurs».
+2. Autrefois, le livre s'intitulait «Cantiques».
 3. Il y avait de nombreuses objections à l'inclusion de ce livre dans le canon. Il a probablement acquis une telle reconnaissance parce que Salomon était censé en être l'auteur.
 4. C'est devenu l'Ecriture bien que le nom de Dieu n'apparaisse pas.
 5. Ses interprétations mystiques et allégoriques ont conduit à son acceptation dans le canon des Écritures.
@@ -56,8 +56,8 @@ Auteur: **William S. Sadler**
 1. C'est de la poésie lyrique, d'une beauté exquise et de symboles sensuels.
 2. C'est un monologue, pratiquement pas de dialogue. Mais ce n'est pas un drame.
 3. Il est parcouru de répétitions.
-4. Notre terme moderne de "maladie de l'amour" est dérivé de ce livre.
-5. Il manque totalement de "structure".
+4. Notre terme moderne de «maladie de l'amour» est dérivé de ce livre.
+5. Il manque totalement de «structure».
 6. C'est manifestement de la poésie populaire.
 7. L'imagerie est extravagante ; les métaphores sont trop audacieuses et sensuelles.
 8. La géographie s'étend du royaume du nord à la Judée et même à la Transjordanie.
@@ -68,7 +68,7 @@ Auteur: **William S. Sadler**
 
 ## V. Interprétations
 
-1. **Allégorique**. Que le marié était Yahweh et la mariée, Israël, le "peuple élu", était le concept initial du livre.
+1. **Allégorique**. Que le marié était Yahweh et la mariée, Israël, le «peuple élu», était le concept initial du livre.
 2. C'est l'interprétation allégorique qui a aidé les chrétiens à accepter le livre - l'idée que Christ est l'époux et l'église l'épouse.
 3. Les catholiques romains ont eu tendance à identifier la mariée avec la Vierge Marie.
 4. Martin Luther pensait que la mariée était un symbole de l'État.
@@ -79,10 +79,10 @@ Auteur: **William S. Sadler**
 
 ## VI. Textes sélectionnés
 
-1. **Fleurs d'amour**. "Je suis une rose de Saron, un muguet." [2:1](/fr/Bible/Song_of_Solomon/2#v1).
-2. **Petits renards**. "Attrapez-nous les renards, les petits renards, qui gâtent les vignes." [2:15](/fr/Bible/Song_of_Solomon/2#v15).
-3. **Une affection formidable**. "'Qui est celui-ci qui apparaît comme l'aube, beau comme la lune, brillant comme le soleil, terrible comme une armée avec des bannières ?'" [6:10](/fr/Bible/Song_of_Solomon/6#v10).
-4. **Amour inextinguible**. "De nombreuses eaux ne peuvent pas éteindre l'amour, pas plus que les inondations ne peuvent le noyer." [8:7](/fr/Bible/Song_of_Solomon/8#v7).
+1. **Fleurs d'amour**. «Je suis une rose de Saron, un muguet.» [2:1](/fr/Bible/Song_of_Solomon/2#v1).
+2. **Petits renards**. «Attrapez-nous les renards, les petits renards, qui gâtent les vignes.» [2:15](/fr/Bible/Song_of_Solomon/2#v15).
+3. **Une affection formidable**. «'Qui est celui-ci qui apparaît comme l'aube, beau comme la lune, brillant comme le soleil, terrible comme une armée avec des bannières ?'» [6:10](/fr/Bible/Song_of_Solomon/6#v10).
+4. **Amour inextinguible**. «De nombreuses eaux ne peuvent pas éteindre l'amour, pas plus que les inondations ne peuvent le noyer.» [8:7](/fr/Bible/Song_of_Solomon/8#v7).
 
 
 <br>

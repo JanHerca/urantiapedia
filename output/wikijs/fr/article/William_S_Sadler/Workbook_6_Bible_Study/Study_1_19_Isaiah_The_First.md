@@ -26,12 +26,12 @@ Auteur: **William S. Sadler**
 
 ## I. Aperçu-Bref
 
-1. Messages d'Isaïe. 1-12.
-2. Prophéties sur les nations. 13-23.
-3. Oracles apocalyptiques. 24-27.
-4. Oracles sur Juda et l'Assyrie. 28-33.
-5. Jugements et promesses. 34,35.
-6. Comptes historiques. 36-39.
+1. Messages d'Isaïe. [1-12](/fr/Bible/Isaiah/1).
+2. Prophéties sur les nations. [13-23](/fr/Bible/Isaiah/13).
+3. Oracles apocalyptiques. [24-27](/fr/Bible/Isaiah/24).
+4. Oracles sur Juda et l'Assyrie. [28-33](/fr/Bible/Isaiah/28).
+5. Jugements et promesses. [34,35](/fr/Bible/Isaiah/34).
+6. Comptes historiques. [36-39](/fr/Bible/Isaiah/36).
 
 ## II. Aperçu complet
 
@@ -56,7 +56,7 @@ Auteur: **William S. Sadler**
 	- A. Menace assyrienne. [10:5-34](/fr/Bible/Isaiah/10#v5).
 	- B. Âge messianique. [11:1-16](/fr/Bible/Isaiah/11#v1).
 	- C. Explosion de Thanksgiving. [12:1-6](/fr/Bible/Isaiah/12#v1).
-5. "Tumulte de nombreux peuples". [13:1-23:18](/fr/Bible/Isaiah/13#v1).
+5. «Tumulte de nombreux peuples». [13:1-23:18](/fr/Bible/Isaiah/13#v1).
 	- A. Doom de Babylone. [13:1-22](/fr/Bible/Isaiah/13#v1).
 	- B. Chute d'un tyran. [14:1-23](/fr/Bible/Isaiah/14#v1).
 	- C. Le renversement de l'Assyrie. [14:24-27](/fr/Bible/Isaiah/14#v24).
@@ -66,7 +66,7 @@ Auteur: **William S. Sadler**
 	- G. Culte idolâtre. [17:7-11](/fr/Bible/Isaiah/17#v7).
 	- H. La Tempête. [17:12-14](/fr/Bible/Isaiah/17#v12).
 	- I. Concernant l'Egypte. [18:1-20:6](/fr/Bible/Isaiah/18#v1).
-	- La chute de J. Babylon. [21:1-10](/fr/Bible/Isaiah/21#v1).
+	- J. La chute de Babylon. [21:1-10](/fr/Bible/Isaiah/21#v1).
 	- K. Cri d'Edom. [21:11,12](/fr/Bible/Isaiah/2#v11).
 	- L. Doom de Kedar. [21:13-17](/fr/Bible/Isaiah/21#v13).
 	- M. Eve of Disaster. [22:1-14](/fr/Bible/Isaiah/22#v1).
@@ -89,7 +89,7 @@ Auteur: **William S. Sadler**
 	- B. Fin des Ennemis de Dieu. [34:1-17](/fr/Bible/Isaiah/34#v1).
 	- C. Monde transformé. [35:1-10](/fr/Bible/Isaiah/35#v1).
 9. Esaïe et Ézéchias. [36:1-39:8](/fr/Bible/Isaiah/36#v1).
-	- Les demandes d'A. Sennachérib. [36:1-37:4](/fr/Bible/Isaiah/36#v1).
+	- A. Les demandes d'Sennachérib. [36:1-37:4](/fr/Bible/Isaiah/36#v1).
 	- B. Oracle sur son départ. [37:4-7](/fr/Bible/Isaiah/37#v4).
 	- C. La prière d'Ézéchias. [37:8-20](/fr/Bible/Isaiah/37#v8).
 	- D. Oracle du défi. [37:21-29](/fr/Bible/Isaiah/37#v21).
@@ -103,24 +103,24 @@ Auteur: **William S. Sadler**
 
 1. Esaïe Ier est né vers 770-760 av. J.-C. Il a grandi et vécu à Jérusalem et ses environs.
 2. Il connaissait très bien le temple et ses services. Il était peut-être prêtre.
-3. Il a épousé une "prophétesse" et ils ont eu deux fils.
+3. Il a épousé une «prophétesse» et ils ont eu deux fils.
 4. Esaïe était un Juif cultivé et était bien éduqué. Il fréquentait l'élite et était conseiller des rois.
 5. Ses quarante années de travaux publics couvraient les règnes de quatre rois :
-	Ozias (Azariah).
-	Jarret de jambon.
-	Achaz (Joachaz I).
-	Ézéchias.
+	- Ozias (Azariah).
+	- Jarret de jambon.
+	- Achaz (Joachaz I).
+	- Ézéchias.
 6. Michée était son contemporain et Amos et Osée prêchaient dans le royaume du nord.
 7. Isaiah pratiquait pratiquement la médecine.
 8. Sa vie a été divisée en quatre grandes périodes :
-	Premier ministère. 742-734.
-	Retrait. 734-715.
-	Ministère intermédiaire. 715-705.
-	Ministère ultérieur. 705-701.
+	- Premier ministère. 742-734.
+	- Retrait. 734-715.
+	- Ministère intermédiaire. 715-705.
+	- Ministère ultérieur. 705-701.
 9. Il était un homme d'État et un sociologue ainsi qu'un prophète.
-10. Isaiah était "un aristocrate de l'esprit."
+10. Isaiah était «un aristocrate de l'esprit.»
 11. Il était probablement membre du conseil suprême du roi.
-12. Il était entouré d'un groupe de disciples - "l'école des prophètes".
+12. Il était entouré d'un groupe de disciples - «l'école des prophètes».
 
 ## IV. considérations générales
 
@@ -135,7 +135,7 @@ Auteur: **William S. Sadler**
 4. Esaïe est le plus grand livre de la Bible.
 5. Il y a peut-être deux raisons pour lesquelles les trois groupes d'écrits ont été réunis :
 	- A. Parce qu'ils étaient les seuls grands écrits prophétiques sous forme de vers-poésie, mètre.
-	- B. Peut-être que le "culte d'Isaïe" voulait avoir un livre plus gros que Jérémie, Ezéchiel ou les petits prophètes.
+	- B. Peut-être que le «culte d'Isaïe» voulait avoir un livre plus gros que Jérémie, Ezéchiel ou les petits prophètes.
 	(**Remarque** : Les Psaumes ont tous été rassemblés vers 150 av. J.-C.)
 6. Beaucoup de prophètes mineurs étaient sous forme poétique, mais pas Jérémie ou Ezéchiel.
 7. À l'exception de quelques morceaux de prose historique, tout Isaïe est en vers, et il est ainsi arrangé dans la version standard révisée.
@@ -156,36 +156,36 @@ Auteur: **William S. Sadler**
 
 1. L'histoire du premier Isaïe se trouve également dans 2 Rois chapitres 19 et 20.
 2. Yahweh était souverain, Seigneur, saint, juste et bon.
-3. Yahweh était "le Saint d'Israël".
-4. Dieu était "fatigué de tous les rituels" du service du temple. Il voulait qu'Israël « cesse de faire le mal et apprenne à faire le bien ».
-5. Il a dénoncé "l'orgueil et l'auto-indulgence".
+3. Yahweh était «le Saint d'Israël».
+4. Dieu était «fatigué de tous les rituels» du service du temple. Il voulait qu'Israël « cesse de faire le mal et apprenne à faire le bien ».
+5. Il a dénoncé «l'orgueil et l'auto-indulgence».
 6. Dieu était un aristocrate idéal et éthique.
-7. Dieu était "universel" et sauverait le "reste".
+7. Dieu était «universel» et sauverait le «reste».
 8. Esaïe avait beaucoup à dire sur la relation de Dieu avec l'homme et son monde.
 9. Dieu était un défenseur aussi bien qu'un juge.
 10. La « Paternité de Dieu » - pour Israël.
-11. Isaïe a presque organisé un "culte personnel" - au sein de Juda.
+11. Isaïe a presque organisé un «culte personnel» - au sein de Juda.
 12. La droiture et la conduite sociale étaient plus importantes que les sacrifices et le culte formel.
 13. Il tonne : « Croyez les opprimés.
 14. Ses phrases préférées :
-	"Ainsi dit le Seigneur."
-	"Le Seigneur des Armées."
-	"Le Puissant d'Israël."
-	"Raisonnons ensemble."
+	- «Ainsi dit le Seigneur.»
+	- «Le Seigneur des Armées.»
+	- «Le Puissant d'Israël.»
+	- «Raisonnons ensemble.»
 15. Il plaide pour un leadership sage.
 16. Dieu purgera, mais aussi restaurera.
 17. Le Cantique de la vigne, [5:1-7](/fr/Bible/Isaiah/5#v1), est un beau cantique et parabole.
 18. Il a dénoncé les riches qui s'enrichissent et les pauvres qui s'appauvrissent.
 19. L'histoire de la fabrication d'un prophète - le charbon ardent touchant sa bouche.
-20. Dans [7:14](/fr/Bible/Isaiah/7#v14) se trouve le passage : "une vierge enfantera un fils". Dans la version révisée - "jeune femme".
-21. Dans [8:16](/fr/Bible/Isaiah/8#v16) il dit : "Liez... scellez "-le moment de son retrait.
+20. Dans [7:14](/fr/Bible/Isaiah/7#v14) se trouve le passage : «une vierge enfantera un fils». Dans la version révisée - «jeune femme».
+21. Dans [8:16](/fr/Bible/Isaiah/8#v16) il dit : «Liez... scellez »-le moment de son retrait.
 22. Dans [14:13,14](/fr/Bible/Isaiah/14#v13) est mentionné Mount Assembly, (Voir le Livre d'Urantia [LU 43:4.1](/fr/The_Urantia_Book/43#p4_1). Aussi [ Ézéchiel 28:14](/fr/Bible/Ezekiel/28#v14).) Mount Assembly est la résidence des Fidèles des Jours au siège de la constellation.
 
-##VII. Pensées finales
+## VII. Pensées finales
 
 1. Le livre a été édité et réarrangé plusieurs fois.
 2. Quatre passages dans le Troisième Isaïe sont attribués au **Premier** Isaïe dans le Livre d'Urantia, à savoir, [Isa. 60:1](/fr/Bible/Isaiah/60#v1). [61:1](/fr/Bible/Isaiah/61#v1). [61:10](/fr/Bible/Isaiah/61#v10). [63:9](/fr/Bible/Isaiah/63#v9). (Livre d'Urantia [LU 97:5.3)](/fr/The_Urantia_Book/97#p5_3)
-3. Affectation de l'éditeur : [Isa. 7:20](/fr/Bible/Isaiah/7#v20). La note de bas de page "Razor" explique que le rasoir fait référence au roi d'Assyrie.
+3. Affectation de l'éditeur : [Isa. 7:20](/fr/Bible/Isaiah/7#v20). La note de bas de page «Razor» explique que le rasoir fait référence au roi d'Assyrie.
 4. Quelques citations d'Isaïe le Premier dans le Livre d'Urantia : [28:17](/fr/Bible/Isaiah/28#v17). [14:3](/fr/Bible/Isaiah/14#v3). [30:21](/fr/Bible/Isaiah/30#v21). [12:2](/fr/Bible/Isaiah/12#v2). [1:18](/fr/Bible/Isaiah/1#v18). (Livre d'Urantia [LU 97:5.2)](/fr/The_Urantia_Book/97#p5_2)
 5. Il y a beaucoup d'histoire dans Ésaïe, traitant de l'Égypte, de l'Assyrie et de Babylone.
 6. Isaiah a préconisé une politique de paix avec l'Assyrie; il s'est opposé à l'alliance d'Ézéchias avec l'Égypte.
@@ -194,23 +194,23 @@ Auteur: **William S. Sadler**
 
 ## VIII. Textes sélectionnés
 
-1. **Apprendre à faire le bien**. "Cessez de faire le mal, apprenez à faire le bien." [1:16,17](/fr/Bible/Isaiah/1#v16).
-2. **Raisonnons ensemble**. "Venez maintenant, raisonnons ensemble... bien que vos péchés soient comme l'écarlate, ils deviendront aussi blancs que la neige; bien qu'ils soient rouges comme le cramoisi, ils deviendront comme la laine." [1:18](/fr/Bible/Isaiah/1#v18).
-3. ** N'apprenez plus la guerre **. "Ils transformeront leurs épées en socs de charrue et leurs lances en serpes; ... ils n'apprendront plus la guerre." [2:4](/fr/Bible/Isaiah/2#v4).
-4. **Alcoolisme**. "Malheur à ceux qui se lèvent tôt le matin pour courir après une boisson forte, qui tardent tard le soir jusqu'à ce que le vin les enflamme." [5:11](/fr/Bible/Isaiah/5#v11).
-5. **La jeune femme**. "Voici, une jeune femme concevra et enfantera un fils, et appellera son nom Emmanuel." [7:14](/fr/Bible/Isaiah/7#v14). (King James Version le rend "vierge".)
-6. **Médias de consultation**. "Quand ils vous disent: 'Consultez les médiums et les sorciers qui gazouillent et murmurent', un peuple ne devrait-il pas consulter son Dieu?" [8:19](/fr/Bible/Isaiah/8#v19).
-7. **Les sept esprits adjuvats**. "L'esprit de sagesse et d'intelligence, l'esprit de conseil et de force, l'esprit de connaissance et la crainte du Seigneur." [11:2](/fr/Bible/Isaiah/11#v2).
-8. **Le petit enfant**. "Et un petit enfant les conduira." [11:6](/fr/Bible/Isaiah/11#v6).
-9. **Faites confiance et n'ayez pas peur**. "'Voici, Dieu est mon salut; j'aurai confiance et je n'aurai pas peur.'" [12:2](/fr/Bible/Isaiah/12#v2).
-10. **Chute de Lucifer**. "'Comment tu es tombé du ciel, Ô Étoile du Jour, fils de l'Aurore !... Tu as dit dans ton cœur : "Je monterai au ciel ; au-dessus des étoiles de Dieu... je me rendrai semblable au Très-Haut."'" [14:12-14](/fr/Bible/Isaiah/14#v12).
-11. ** Paix parfaite **. "'Tu gardes dans une paix parfaite celui dont l'esprit s'est attaché à toi.'" [26:3](/fr/Bible/Isaiah/26#v3).
-12. **Un peu ici et un peu là**. "'C'est précepte sur précepte... ligne sur ligne... un peu ici, un peu là.'" [28:10](/fr/Bible/Isaiah/28#v10).
-13. **Source de notre force**. "'C'est en revenant et en vous reposant que vous serez sauvés ; c'est dans le calme et la confiance que sera votre force.'" [30:15](/fr/Bible/Isaiah/30#v15).
-14. **La petite voix douce**. "Et vos oreilles entendront une parole derrière vous, disant:" Voici le chemin, marchez-y ", quand vous tournez à droite ou quand vous tournez à gauche." [30:21](/fr/Bible/Isaiah/30#v21).
-15. **Le rocher dans une terre fatiguée**. "Chacun sera comme une cachette contre le vent... comme l'ombre d'un grand rocher dans une terre fatiguée." [32:2](/fr/Bible/Isaiah/32#v2).
-16. **Le pain sera sûr**. "Il habitera sur les hauteurs... son pain lui sera donné, son eau sera certaine." [33:16](/fr/Bible/Isaiah/33#v16).
-17. **Joie et allégresse**. "Ils obtiendront la joie et l'allégresse, et le chagrin et les soupirs s'enfuiront." [35:10](/fr/Bible/Isaiah/35#v10).
+1. **Apprendre à faire le bien**. «Cessez de faire le mal, apprenez à faire le bien.» [1:16,17](/fr/Bible/Isaiah/1#v16).
+2. **Raisonnons ensemble**. «Venez maintenant, raisonnons ensemble... bien que vos péchés soient comme l'écarlate, ils deviendront aussi blancs que la neige; bien qu'ils soient rouges comme le cramoisi, ils deviendront comme la laine.» [1:18](/fr/Bible/Isaiah/1#v18).
+3. ** N'apprenez plus la guerre **. «Ils transformeront leurs épées en socs de charrue et leurs lances en serpes; ... ils n'apprendront plus la guerre.» [2:4](/fr/Bible/Isaiah/2#v4).
+4. **Alcoolisme**. «Malheur à ceux qui se lèvent tôt le matin pour courir après une boisson forte, qui tardent tard le soir jusqu'à ce que le vin les enflamme.» [5:11](/fr/Bible/Isaiah/5#v11).
+5. **La jeune femme**. «Voici, une jeune femme concevra et enfantera un fils, et appellera son nom Emmanuel.» [7:14](/fr/Bible/Isaiah/7#v14). (King James Version le rend «vierge».)
+6. **Médias de consultation**. «Quand ils vous disent: 'Consultez les médiums et les sorciers qui gazouillent et murmurent', un peuple ne devrait-il pas consulter son Dieu?» [8:19](/fr/Bible/Isaiah/8#v19).
+7. **Les sept esprits adjuvats**. «L'esprit de sagesse et d'intelligence, l'esprit de conseil et de force, l'esprit de connaissance et la crainte du Seigneur.» [11:2](/fr/Bible/Isaiah/11#v2).
+8. **Le petit enfant**. «Et un petit enfant les conduira.» [11:6](/fr/Bible/Isaiah/11#v6).
+9. **Faites confiance et n'ayez pas peur**. «'Voici, Dieu est mon salut; j'aurai confiance et je n'aurai pas peur.'» [12:2](/fr/Bible/Isaiah/12#v2).
+10. **Chute de Lucifer**. «'Comment tu es tombé du ciel, Ô Étoile du Jour, fils de l'Aurore !... Tu as dit dans ton cœur : »Je monterai au ciel ; au-dessus des étoiles de Dieu... je me rendrai semblable au Très-Haut.«'» [14:12-14](/fr/Bible/Isaiah/14#v12).
+11. ** Paix parfaite **. «'Tu gardes dans une paix parfaite celui dont l'esprit s'est attaché à toi.'» [26:3](/fr/Bible/Isaiah/26#v3).
+12. **Un peu ici et un peu là**. «'C'est précepte sur précepte... ligne sur ligne... un peu ici, un peu là.'» [28:10](/fr/Bible/Isaiah/28#v10).
+13. **Source de notre force**. «'C'est en revenant et en vous reposant que vous serez sauvés ; c'est dans le calme et la confiance que sera votre force.'» [30:15](/fr/Bible/Isaiah/30#v15).
+14. **La petite voix douce**. «Et vos oreilles entendront une parole derrière vous, disant:» Voici le chemin, marchez-y «, quand vous tournez à droite ou quand vous tournez à gauche.» [30:21](/fr/Bible/Isaiah/30#v21).
+15. **Le rocher dans une terre fatiguée**. «Chacun sera comme une cachette contre le vent... comme l'ombre d'un grand rocher dans une terre fatiguée.» [32:2](/fr/Bible/Isaiah/32#v2).
+16. **Le pain sera sûr**. «Il habitera sur les hauteurs... son pain lui sera donné, son eau sera certaine.» [33:16](/fr/Bible/Isaiah/33#v16).
+17. **Joie et allégresse**. «Ils obtiendront la joie et l'allégresse, et le chagrin et les soupirs s'enfuiront.» [35:10](/fr/Bible/Isaiah/35#v10).
 
 
 <br>

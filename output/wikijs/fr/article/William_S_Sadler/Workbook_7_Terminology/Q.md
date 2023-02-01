@@ -22,9 +22,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 Author: **William S. Sadler**
 
-## $1
+## Qualifié
 
-> $29) de _Étude du Maitre Univers_
+(29) de [Une Étude du Maitre Univers](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe)
 
 Limité ou modifié d’une certaine façon [^1]
 

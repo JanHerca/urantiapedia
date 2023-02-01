@@ -24,9 +24,9 @@ Author: **William S. Sadler**
 
 ## I. Outline-Brief
 
-1. Vanity. 1-6.
-2. Wisdom. 7-10.
-3. Charity. 11,12.
+1. Vanity. [1-6](/en/Bible/Ecclesiastes/7).
+2. Wisdom. [7-10](/en/Bible/Ecclesiastes/7).
+3. Charity. [11,12](/en/Bible/Ecclesiastes/11).
 
 ## II. Outline-Complete
 

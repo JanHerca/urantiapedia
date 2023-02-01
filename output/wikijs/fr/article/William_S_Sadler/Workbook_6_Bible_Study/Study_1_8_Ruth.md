@@ -34,19 +34,19 @@ Auteur: **William S. Sadler**
 ## II. Paternité
 
 1. Auteur inconnu. Probablement un Juif libéral de la période post-exilique.
-2. Dans le canon hébreu, il était placé parmi les "écrits" - avec le Cantique des Cantiques, l'Ecclésiaste, les Lamentations et Esther.
+2. Dans le canon hébreu, il était placé parmi les «écrits» - avec le Cantique des Cantiques, l'Ecclésiaste, les Lamentations et Esther.
 3. Probablement écrit au 5ème siècle avant JC
 
 ## III. Le but
 
 1. Probablement inclus dans le canon juif des écritures sacrées parce que le petit-fils de l'enfant de Ruth était David, roi d'Israël.
 2. Le but principal de cette histoire est de contrecarrer l'attitude d'Esdras et de Néhémie contre les mariages mixtes.
-3. C'est la « nouvelle » idéale. C'est une histoire "d'amitié"; il n'y a pas de méchant.
+3. C'est la « nouvelle » idéale. C'est une histoire «d'amitié»; il n'y a pas de méchant.
 4. C'est une rare histoire d'amitié entre deux femmes, comme celle de David et Jonathan, entre hommes.
 5. Il contrecarre la notion populaire de difficulté à s'entendre avec les belles-mères.
 6. C'est une histoire au charme irrésistible.
 7. L'héroïne est courageuse, déterminée, loyale et sagace.
-8. Le livre illustre l'enseignement de Paul : « Il n'y a ni Juif ni Grec. [Fille. 3:28](/fr/Bible/Galatians/3#v28).
+8. Le livre illustre l'enseignement de Paul : « Il n'y a ni Juif ni Grec. [Gal 3:28](/fr/Bible/Galatians/3#v28).
 
 ## IV. L'histoire de Ruth
 
@@ -58,7 +58,7 @@ Auteur: **William S. Sadler**
 
 ## V. Textes sélectionnés
 
-**Ruth et Naomi**. "Mais Ruth a dit..." Où tu iras, j'irai, et où tu logeras, je logerai; ton peuple sera mon peuple, et ton Dieu, mon Dieu. "" [1:16](/fr/Bible/Ruth /1#v16).
+**Ruth et Naomi**. «Mais Ruth a dit...» Où tu iras, j'irai, et où tu logeras, je logerai; ton peuple sera mon peuple, et ton Dieu, mon Dieu. «» [1:16](/fr/Bible/Ruth/1#v16).
 
 
 <br>

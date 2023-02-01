@@ -69,7 +69,7 @@ Auteur: **William S. Sadler**
 	- H. Prédiction de la souffrance. [17:22,23](/fr/Bible/Matthew/17#v22).
 	- I. La Taxe du Temple. [17:14-27](/fr/Bible/Matthew/17#v14).
 7. Quatrième Discours. [[18:1-19:2](/fr/Bible/Matthew/18#v1)](/fr/Bible/Matthew/18#v1).
-	- A. Les "Petits". [18:1-14](/fr/Bible/Matthew/18#v1).
+	- A. Les «Petits». [18:1-14](/fr/Bible/Matthew/18#v1).
 	- B. Quand ils pèchent. [18:15-35](/fr/Bible/Matthew/18#v15).
 	- C. Résumé. [19:1,2](/fr/Bible/Matthew/19#v1).
 8. Jésus va à Jérusalem. [19:3-23:39](/fr/Bible/Matthew/19#v3).
@@ -95,7 +95,7 @@ Auteur: **William S. Sadler**
 ## III. Paternité
 
 1. Matthieu a été écrit par Isador, un disciple de Matthieu.
-2. Isador a écrit en grec, mais il avait un dossier araméen des "paroles de Jésus" compilé par Matthieu.
+2. Isador a écrit en grec, mais il avait un dossier araméen des «paroles de Jésus» compilé par Matthieu.
 3. Isador a écrit Matthieu en 71 après JC à Pella. Il avait les notes de Matthieu qui avaient été révisées en 40 après JC.
 4. Isador avait également les quatre cinquièmes du record de Mark.
 5. La dernière copie des notes de Matthieu a été détruite lors de l'incendie d'un monastère syrien en 416 après JC.
@@ -105,21 +105,21 @@ Auteur: **William S. Sadler**
 
 ## IV. Personnage
 
-1. Dans les premiers temps, Matthieu était le "best-seller" parmi les documents chrétiens.
+1. Dans les premiers temps, Matthieu était le «best-seller» parmi les documents chrétiens.
 2. Pendant plusieurs siècles, il a été le plus cité des quatre évangiles.
-3. Les catholiques romains aiment Matthieu parce qu'il exalte Pierre. Ils l'ont qualifié de "livre le plus important du monde".
-4. Constamment, l'œuvre de Jésus est présentée comme l'accomplissement de la prophétie de l'Ancien Testament - "afin qu'elle s'accomplisse", comme l'a dit le prophète.
+3. Les catholiques romains aiment Matthieu parce qu'il exalte Pierre. Ils l'ont qualifié de «livre le plus important du monde».
+4. Constamment, l'œuvre de Jésus est présentée comme l'accomplissement de la prophétie de l'Ancien Testament - «afin qu'elle s'accomplisse», comme l'a dit le prophète.
 5. Matthieu est une version complète et bien organisée de la vie et de l'enseignement de Jésus.
-6. Isador a pris le Sermon sur la charge d'ordination du Mont-Jésus aux douze et en a fait une "nouvelle loi et un nouvel évangile" pour l'église chrétienne.
+6. Isador a pris le Sermon sur la charge d'ordination du Mont-Jésus aux douze et en a fait une «nouvelle loi et un nouvel évangile» pour l'église chrétienne.
 7. Matthieu présente la loi de l'église - traite du divorce et d'autres règlements de l'église.
-8. C'est le seul Evangile qui utilise le terme "église" - deux fois.
+8. C'est le seul Evangile qui utilise le terme «église» - deux fois.
 9. Il prévoit le gouvernement de l'église et établit les règles d'excommunication des membres désordonnés.
 10. Isador était particulièrement intéressé par la prière, le jeûne et l'aumône.
 11. Isador fait tout son possible pour prouver que Jésus était vraiment le Messie.
 12. Isador s'est donné beaucoup de mal pour sauvegarder la doctrine de la divinité de Jésus.
-13. Jésus n'est plus seulement un charpentier, mais le "fils d'un charpentier".
+13. Jésus n'est plus seulement un charpentier, mais le «fils d'un charpentier».
 14. Isador accorde une attention particulière à la généalogie de Jésus pour prouver qu'il était un descendant de David.
-15. Isador assimile "l'église" au "royaume des cieux".
+15. Isador assimile «l'église» au «royaume des cieux».
 16. Cet Evangile prête peu d'attention à la chronologie. De nombreux discours sur Jésus sont réunis en un seul long sermon.
 
 ## V. Cadre
@@ -130,17 +130,17 @@ Auteur: **William S. Sadler**
 4. Matthieu reproduit 90 % du matériel de Marc.
 5. La plupart des 55 versets de Marc que Matthieu a omis ont été omis pour des raisons doctrinales.
 6. L'évangile de Matthieu est une grande amélioration littéraire par rapport au style plutôt grossier de Marc.
-7. Dans Matthieu, Jésus accorde une attention particulière aux Juifs et respecte toujours la "loi de Moïse".
-8. Certaines caractéristiques de Matthieu sont originales, introuvables dans Marc ou ailleurs dans les documents antérieurs :
-	Histoire de la naissance de Jésus.
-	Pierre marchant sur l'eau.
-	La taxe des temples.
-	Destin de Judas.
-	Rêve de la femme de Pilate.
-	Pilate se lave les mains.
-	Tremblement de terre à la mort de Jésus.
-	Scellement du tombeau.
-	Apparition aux femmes, etc.
+7. Dans Matthieu, Jésus accorde une attention particulière aux Juifs et respecte toujours la «loi de Moïse».
+8. Certaines caractéristiques de Matthieu sont originales, introuvables dans - Marc ou ailleurs dans les documents antérieurs :
+	- Histoire de la naissance de Jésus.
+	- Pierre marchant sur l'eau.
+	- La taxe des temples.
+	- Destin de Judas.
+	- Rêve de la femme de Pilate.
+	- Pilate se lave les mains.
+	- Tremblement de terre à la mort de Jésus.
+	- Scellement du tombeau.
+	- Apparition aux femmes, etc.
 9. Isador met tous les enseignements de Jésus dans cinq discours principaux.
 10. Les cinq grands discours pourraient être intitulés comme suit :
 	- A. Sermon sur la montagne.
@@ -151,36 +151,36 @@ Auteur: **William S. Sadler**
 11. Matthieu a tendance à regrouper tout son travail en trois, cinq et sept.
 
 ## VI. Textes sélectionnés
-1. **La naissance virginale**. "'Voici, une vierge concevra et enfantera un fils, et son nom sera appelé Enmanuel.'" [1:23](/fr/Bible/Matthew/1#v23). ([Ésaïe 7:14](/fr/Bible/Isaiah/7#v14))
-2. **L'étoile de Bethléem**. "L'étoile qu'ils avaient vue à l'Est marchait devant eux, jusqu'à ce qu'elle vienne se poser au-dessus de l'endroit où était l'enfant." [2:9](/fr/Bible/Matthew/2#v9).
-3. **La prédication de Jean**. "En ces jours-là vint Jean-Baptiste, prêchant... 'Repentez-vous, car le royaume des cieux est proche.'" [3:1,2](/fr/Bible/Matthew/3#v1).
-4. **Le baptême de Jésus**. "Et quand Jésus fut baptisé... il vit l'Esprit de Dieu descendre comme une colombe... et voici, une voix du ciel disant : 'Celui-ci est mon Fils bien-aimé, en qui j'ai pris plaisir.'" [3 :16](/fr/Bible/Matthew/3#v16).
-5. **Ministère des anges**. "Alors le diable le quitta, et voici, des anges vinrent et le servaient." [4:11](/fr/Bible/Matthew/4#v11).
+1. **La naissance virginale**. «'Voici, une vierge concevra et enfantera un fils, et son nom sera appelé Enmanuel.'» [1:23](/fr/Bible/Matthew/1#v23). ([Ésaïe 7:14](/fr/Bible/Isaiah/7#v14))
+2. **L'étoile de Bethléem**. «L'étoile qu'ils avaient vue à l'Est marchait devant eux, jusqu'à ce qu'elle vienne se poser au-dessus de l'endroit où était l'enfant.» [2:9](/fr/Bible/Matthew/2#v9).
+3. **La prédication de Jean**. «En ces jours-là vint Jean-Baptiste, prêchant... 'Repentez-vous, car le royaume des cieux est proche.'» [3:1,2](/fr/Bible/Matthew/3#v1).
+4. **Le baptême de Jésus**. «Et quand Jésus fut baptisé... il vit l'Esprit de Dieu descendre comme une colombe... et voici, une voix du ciel disant : 'Celui-ci est mon Fils bien-aimé, en qui j'ai pris plaisir.'» [3 :16](/fr/Bible/Matthew/3#v16).
+5. **Ministère des anges**. «Alors le diable le quitta, et voici, des anges vinrent et le servaient.» [4:11](/fr/Bible/Matthew/4#v11).
 6. **Pêcheurs d'hommes**. « Et il leur dit : Suivez-moi, et je ferai de vous des pêcheurs d'hommes. » [4:19](/fr/Bible/Matthew/4#v19).
-7. **Les Béatitudes**. "'Heureux les pauvres en esprit, car le royaume des cieux est à eux.'" [5:3](/fr/Bible/Matthew/5#v3).
-8. **Lumière du monde**. "'Vous êtes la lumière du monde.'" [5:14](/fr/Bible/Matthew/5#v14).
-9. **Le mandat de perfection**. "'Vous devez donc être parfaits, comme votre Père céleste est parfait.'" [5:48](/fr/Bible/Matthew/5#v48).
-10. **Charité secrète**. "'Quand tu fais l'aumône, que ta main gauche ne sache pas ce que fait ta main droite, afin que ton aumône soit en secret.'" [6:3,4](/fr/Bible/Matthew/6#v3 ).
-11. **Prière verbeuse**. "'Et en priant, n'accumulez pas de vaines phrases comme le font les Gentils, car ils pensent qu'ils seront exaucés pour leurs nombreuses paroles.'" [6:7](/fr/Bible/Matthew/6#v7).
+7. **Les Béatitudes**. «'Heureux les pauvres en esprit, car le royaume des cieux est à eux.'» [5:3](/fr/Bible/Matthew/5#v3).
+8. **Lumière du monde**. «'Vous êtes la lumière du monde.'» [5:14](/fr/Bible/Matthew/5#v14).
+9. **Le mandat de perfection**. «'Vous devez donc être parfaits, comme votre Père céleste est parfait.'» [5:48](/fr/Bible/Matthew/5#v48).
+10. **Charité secrète**. «'Quand tu fais l'aumône, que ta main gauche ne sache pas ce que fait ta main droite, afin que ton aumône soit en secret.'» [6:3,4](/fr/Bible/Matthew/6#v3 ).
+11. **Prière verbeuse**. «'Et en priant, n'accumulez pas de vaines phrases comme le font les Gentils, car ils pensent qu'ils seront exaucés pour leurs nombreuses paroles.'» [6:7](/fr/Bible/Matthew/6#v7).
 12. **La prière du Seigneur**. [6:9-13](/fr/Bible/Matthew/6#v9).
-13. **Deux maîtres**. "'Nul ne peut servir deux maîtres.'" [6:24](/fr/Bible/Matthew/6#v24).
-14. **Cherchez d'abord le royaume**. "'Cherchez d'abord son royaume... et toutes ces choses seront aussi à vous.'" [6:33](/fr/Bible/Matthew/6#v33).
-15. **Ne jugez pas**. "'Ne jugez pas, afin que vous ne soyez pas jugés.'" [7:1](/fr/Bible/Matthew/7#v1).
-16. **Perles avant les porcs**. "'Ne jetez pas vos perles devant les pourceaux.'" [7:6](/fr/Bible/Matthew/7#v6).
-17. ** Nulle part où reposer sa tête ** "'Les renards ont des terriers, et les oiseaux du ciel ont des nids ; mais le Fils de l'homme n'a nulle part où reposer sa tête.'" [8:20](/fr/Bible/ Matthieu/8#v20).
-18. **Autorité de pardonner**. «                                                                                                                          1 /Matthieu/9#v6)
-19. **Appeler les pécheurs**. "'Je ne suis pas venu appeler des justes, mais des pécheurs.'" [9:13](/fr/Bible/Matthew/9#v13).
-20. **Sagesse du serpent**. "'Soyez sages comme des serpents et innocents comme des colombes.'" [10:16](/fr/Bible/Matthew/10#v16).
-21. **Devenir comme un enfant**. "'Si vous ne changez pas et ne devenez pas comme des enfants, vous n'entrerez jamais dans le royaume des cieux.'" [18:3](/fr/Bible/Matthew/18#v3).
-22. **Payer des impôts**. "'Rendez donc à César ce qui est à César, et à Dieu ce qui est à Dieu.'" [22:21](/fr/Bible/Matthew/22#v21).
-23. **Être cohérent**. "'Vous, guides aveugles, qui avez tendu un moucheron et avalé un chameau.'" [23:24](/fr/Bible/Matthew/23#v24).
-24. **Le deuxième avènement**. "'Mais personne ne connaît ce jour et cette heure, pas même les anges du ciel, ni le Fils, mais le Père seul.'" [24:36](/fr/Bible/Matthew/24#v36).
-25. **Intendance**. "'Mais à celui qui n'a pas, même ce qu'il a lui sera ôté.'" [25:29](/fr/Bible/Matthew/25#v29).
-26. ** À l'un des moins **. "'"Comme tu l'as fait à l'un de ces plus petits de mes frères, c'est à moi que tu l'as fait."'" [25:40](/fr/Bible/Matthew/25#v40).
+13. **Deux maîtres**. «'Nul ne peut servir deux maîtres.'» [6:24](/fr/Bible/Matthew/6#v24).
+14. **Cherchez d'abord le royaume**. «'Cherchez d'abord son royaume... et toutes ces choses seront aussi à vous.'» [6:33](/fr/Bible/Matthew/6#v33).
+15. **Ne jugez pas**. «'Ne jugez pas, afin que vous ne soyez pas jugés.'» [7:1](/fr/Bible/Matthew/7#v1).
+16. **Perles avant les porcs**. «'Ne jetez pas vos perles devant les pourceaux.'» [7:6](/fr/Bible/Matthew/7#v6).
+17. **Nulle part où reposer sa tête** «'Les renards ont des terriers, et les oiseaux du ciel ont des nids ; mais le Fils de l'homme n'a nulle part où reposer sa tête.'» [8:20](/fr/Bible/ Matthieu/8#v20).
+18. **Autorisation de pardonner**. «'Mais afin que vous sachiez que le Fils de l'homme a le pouvoir sur la terre de pardonner les péchés - dit-il alors au paralytique - 'Lève-toi, prends ton lit et rentre chez toi.'» [9:6](/fr/Bible/Matthew/9#v6)
+19. **Appeler les pécheurs**. «'Je ne suis pas venu appeler des justes, mais des pécheurs.'» [9:13](/fr/Bible/Matthew/9#v13).
+20. **Sagesse du serpent**. «'Soyez sages comme des serpents et innocents comme des colombes.'» [10:16](/fr/Bible/Matthew/10#v16).
+21. **Devenir comme un enfant**. «'Si vous ne changez pas et ne devenez pas comme des enfants, vous n'entrerez jamais dans le royaume des cieux.'» [18:3](/fr/Bible/Matthew/18#v3).
+22. **Payer des impôts**. «'Rendez donc à César ce qui est à César, et à Dieu ce qui est à Dieu.'» [22:21](/fr/Bible/Matthew/22#v21).
+23. **Être cohérent**. «'Vous, guides aveugles, qui avez tendu un moucheron et avalé un chameau.'» [23:24](/fr/Bible/Matthew/23#v24).
+24. **Le deuxième avènement**. «'Mais personne ne connaît ce jour et cette heure, pas même les anges du ciel, ni le Fils, mais le Père seul.'» [24:36](/fr/Bible/Matthew/24#v36).
+25. **Intendance**. «'Mais à celui qui n'a pas, même ce qu'il a lui sera ôté.'» [25:29](/fr/Bible/Matthew/25#v29).
+26. ** À l'un des moins **. «'»Comme tu l'as fait à l'un de ces plus petits de mes frères, c'est à moi que tu l'as fait.«'» [25:40](/fr/Bible/Matthew/25#v40).
 27. **Passage de la coupe**. « Il tomba sur sa face et pria : ‘Mon père, s’il est possible, que cette coupe passe loin de moi ; néanmoins, non pas comme je veux, mais comme tu veux.’ » [26:39](/fr/Bible/ Matthieu/26#v39).
-28. **Douze légions d'anges**. "'Penses-tu que je ne puisse pas faire appel à mon Père, et qu'il m'envoie immédiatement plus de douze légions d'anges?'" [26:53](/fr/Bible/Matthew/26#v53).
-29. **Souveraineté suprême**. "Et Jésus... leur dit : 'Tout pouvoir m'a été donné dans les cieux et sur la terre.'" [28:18](/fr/Bible/Matthew/28#v18).
-30. **Toujours avec nous**. "'Et voici, je suis avec vous pour toujours, jusqu'à la fin des temps.'" [28:20](/fr/Bible/Matthew/28#v20).
+28. **Douze légions d'anges**. «'Penses-tu que je ne puisse pas faire appel à mon Père, et qu'il m'envoie immédiatement plus de douze légions d'anges?'» [26:53](/fr/Bible/Matthew/26#v53).
+29. **Souveraineté suprême**. «Et Jésus... leur dit : 'Tout pouvoir m'a été donné dans les cieux et sur la terre.'» [28:18](/fr/Bible/Matthew/28#v18).
+30. **Toujours avec nous**. «'Et voici, je suis avec vous pour toujours, jusqu'à la fin des temps.'» [28:20](/fr/Bible/Matthew/28#v20).
 
 
 <br>

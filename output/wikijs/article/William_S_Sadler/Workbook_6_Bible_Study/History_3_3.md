@@ -49,44 +49,25 @@ He never uses “rabbi,” always “master.” But as a true reporter he often 
 5. **MARK**. Mark is an example of the nonliterary Koine. There is a lack of polish in Mark’s colloquial style which is somewhat covered up when put in English. He is very repetitious. Of 45 verses in the first chapter, 35 begin with “and.” Twelve of 16 chapters begin in the same way. Mark had a small vocabulary. Of 1290 words he uses, only 80 are peculiar to him, as compared with the other gospels. But there is a freshness and vigor along with great brevity that marks him as an “artistic genius.”
 6. **REVELATION**. Of all New Testament books, Revelation is on the lowest literary level of Koine Greek. Dionysius of Alexandria called the Greek of Revelation barbaric. The writer seems to think in Aramaic while writing in Greek. Nevertheless, the book is filled with powerful sayings. One explanation of these peculiarities of Revelation may be its frequent revisions and distortions. See Urantia Book, [UB 139:4.14](/en/The_Urantia_Book/139#p4_14)
 7. **MATTHEW**. Matthew’s Greek is better than Mark’s, but not so good as Luke’s. It is smoother than Mark’s, but more monotonous than Luke’s. Matthew has 95 personal expressions, as compared with Mark’s 41 and Luke’s 151. Matthew has a penchant for grouping things by threes or sevens:
-
-Three divisions of genealogy.
-
-Three temptations.
-
-Three illustrations of righteousness.
-
-Three commands.
-
-Three miracles of healing.
-
-Threefold “Fear not.”
-
-Three parables of sowing.
-
-Three parables of warning.
-
-Three prayers in the Garden.
-
-Three denials by Peter.
-
-Three questions by Pilate.
-
-Seven clauses in the Lord’s prayer.
-
-Seven demons.
-
-Seven parables.
-
-Seven loves.
-
-Seven baskets.
-
-Forgiving not seven times.
-
-Seven brothers.
-
-Seven woes.
+	- Three divisions of genealogy.
+	- Three temptations.
+	- Three illustrations of righteousness.
+	- Three commands.
+	- Three miracles of healing.
+	- Threefold “Fear not.”
+	- Three parables of sowing.
+	- Three parables of warning.
+	- Three prayers in the Garden.
+	- Three denials by Peter.
+	- Three questions by Pilate.
+	- Seven clauses in the Lord’s prayer.
+	- Seven demons.
+	- Seven parables.
+	- Seven loves.
+	- Seven baskets.
+	- Forgiving not seven times.
+	- Seven brothers.
+	- Seven woes.
 8. **JOHN**. John’s gospel has a simplicity and grandeur which is unrivaled by any other book of the New Testament. John’s vocabulary is less than that of the other gospels, but far more impressive and majestic. He makes effective use of fundamental words, such as: truth, light, world, sin, judgment, and life. His construction is sometimes almost “child-like.” A stylistic peculiarity of John is combining negative and positive expressions: “He confessed and denied not.” “Should not perish, but have everlasting life.” He writes pure Greek, but the Semitic viewpoint is always appearing. There are two other peculiarities. He writes in short weighty sentences. “I am the light of the world.” “Jesus wept,” the shortest verse in the Bible. The other, a peculiar circular or spiral-motion type of reasoning. See [John 8:38-44](/en/Bible/John/8#v38).
 9. **EPISTLES OF PAUL**. Paul had a characteristic style, though his letters vary greatly. Now and then he almost reaches the high level of Plato. He likes to ask and answer supposed questions or objections. Most of his epistles were dictated. The Timothy and Titus letters are a bit different from the other epistles. If Paul had known his letters were to become part of “the word of God”—inspired Scripture—he would have edited them more carefully, as someone later on did edit and polish up Ephesians.
 10. **II PETER**. The style of II Peter is very different from that of I Peter. The Greek is awkward, but is greatly improved by translation into English. Important words are frequently repeated. If these differences are due to different secretaries, then Peter gave his secretaries much freedom of expression. Most scholars think II Peter was written early in the second century.
@@ -96,12 +77,9 @@ Seven woes.
 ## III. Interpretation Of New Testament Language
 
 1. Three influences determine the interpretation of New Testament Greek:
-
-a. Influence of Old Testament usage.
-
-b. Everyday Koine usage.
-
-c. Special meaning given to words by early Christian usage.
+	- a. Influence of Old Testament usage.
+	- b. Everyday Koine usage.
+	- c. Special meaning given to words by early Christian usage.
 2. Discovery of Egyptian papyri in the nineteenth century taught translators how to understand Koine Greek.
 3. Illustration: Jesus’ statement about being unable by anxious thought to add one cubit to his stature. What Jesus really said: “Add to your span of life.”
 4. The Old Testament is the lexicon of the New Testament. Many New Testament words can be understood only by Old Testament usage. Law in Greek means statute—in Old Testament usage it means revelation—God’s will.

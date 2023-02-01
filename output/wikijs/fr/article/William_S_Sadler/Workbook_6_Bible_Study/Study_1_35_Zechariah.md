@@ -38,7 +38,7 @@ Auteur: **William S. Sadler**
 1. Couronnement symbolique de Zorobabel. [6:9-15](/fr/Bible/Zechariah/6#v9).
 2. Députation de Béthel. [7:1-8:23](/fr/Bible/Zechariah/7#v1).
 	- A. L'enquête. [7:1-3](/fr/Bible/Zechariah/7#v1).
-	- Réponse de B. Zacharie. [7:4-8:23](/fr/Bible/Zechariah/7#v4).
+	- B. Réponse de Zacharie. [7:4-8:23](/fr/Bible/Zechariah/7#v4).
 3. La venue des Grecs. [9:1-17](/fr/Bible/Zechariah/9#v1).
 4. Restauration d'Israël dispersé. [10:1-12](/fr/Bible/Zechariah/10#v1).
 5. Parabole des bergers. [11:1-17](/fr/Bible/Zechariah/11#v1).
@@ -69,7 +69,7 @@ Auteur: **William S. Sadler**
 	- F. Le rouleau volant.
 	- G. La femme et la mesure.
 	- H. Les quatre chars.
-3. Zacharie croyait pleinement que l'âge messianique était sur le point de se lever. Il considérait Zorobabel comme étant de la "semence de David" et comme sur le point d'occuper le "trône de David".
+3. Zacharie croyait pleinement que l'âge messianique était sur le point de se lever. Il considérait Zorobabel comme étant de la «semence de David» et comme sur le point d'occuper le «trône de David».
 4. Mais la police secrète de Darius, ayant vent de telles choses, précipita bientôt Zorobabel hors de la scène d'action.
 5. La dernière moitié du livre semble appartenir à l'époque d'Alexandre le Grand.
 6. Yahweh s'éloigne de plus en plus des prophètes. Autrefois, ils parlaient directement à Yahweh. Maintenant, Dieu ne parle que dans des visions, qui sont interprétées par des anges.
@@ -90,7 +90,7 @@ Auteur: **William S. Sadler**
 2. Il a également exercé une forte influence sur le maintien de l'inimitié contre les Samaritains.
 3. Il a été le premier prophète à proclamer réellement l'âge messianique, qui prend une forme définitive en tant qu'espérance future des Juifs.
 4. Il a proclamé qu'il avait reçu une révélation directe de Yahweh - a.nouvelle expérience pour les prophètes post-exiliques.
-5. Il a établi la technique des "visions" comme une méthode nouvelle et plus courante permettant à Yahweh de se révéler aux prophètes.
+5. Il a établi la technique des «visions» comme une méthode nouvelle et plus courante permettant à Yahweh de se révéler aux prophètes.
 6. L'angélologie, introduite par Ézéchiel, est maintenant une caractéristique établie de la théologie hébraïque.
 7. Satan trouve sa place dans toutes les religions juives modernes.
 8. Les Gentils doivent partager la gloire du règne du Messie sur le monde entier.
@@ -99,16 +99,16 @@ Auteur: **William S. Sadler**
 
 ## V. Textes sélectionnés
 
-1. **La prunelle de ses yeux**. "Celui qui te touche touche la prunelle de ses yeux." [2:8](/fr/Bible/Zechariah/2#v8).
-2. **La marque arrachée à la combustion**. "Alors il me montra Josué, le souverain sacrificateur, debout devant l'ange de l'Éternel, et Satan se tenant à sa droite pour l'accuser. Et l'Éternel dit à Satan : 'L'Éternel te réprimande, ô Satan !... N'est-ce pas un tison arraché au feu ?'" [3:1,2](/fr/Bible/Zechariah/3#v1).
-3. **Pas par la force ou le pouvoir**. "Alors il m'a dit..." Ni par la force, ni par la puissance, mais par mon Esprit ", dit l'Éternel des armées." [4:6](/fr/Bible/Zechariah/4#v6).
-4. **Ses gens**. "'Et ils seront mon peuple et je serai leur Dieu, en fidélité et en justice.'" [8:8](/fr/Bible/Zachariah/8#v8).
-5. **Promouvoir la paix**. "'Dites-vous la vérité les uns aux autres, rendez... des jugements qui sont vrais et qui favorisent la paix, ne méditez pas le mal dans vos cœurs les uns contre les autres, et n'aimez pas les faux serments, car je hais toutes ces choses, dit le Seigneur.' " [8:16,17](/fr/Bible/Zechariah/8#v16).
-6. **Le roi monté sur un poulain**. « Voici, ton roi vient à toi ; il est triomphant et victorieux, humble et monté sur un âne, sur un ânon. » [9:9](/fr/Bible/Zachariah/9#v9).
-7. **L'esprit de l'homme**. "Ainsi parle le Seigneur, qui a étendu les cieux, fondé la terre et formé en lui l'esprit de l'homme." [12:1](/fr/Bible/Zechariah/12#v1).
-8. **Celui qu'ils ont percé**. "'Ainsi, quand ils regarderont celui qu'ils ont percé, ils le pleureront.'" [12:10](/fr/Bible/Zachariah/12#v10).
-9. **Blessé dans la maison d'un ami**. "'"Quelles sont ces blessures sur ton dos?" Il dira: "Les blessures que j'ai reçues dans la maison de mes amis."'" [13:6](/fr/Bible/Zachariah/13#v6).
-10. **Dieu et ses anges**. "L'Éternel, votre Dieu, viendra, et tous les saints avec lui." [14:5](/fr/Bible/Zechariah/14#v5).
+1. **La prunelle de ses yeux**. «Celui qui te touche touche la prunelle de ses yeux.» [2:8](/fr/Bible/Zechariah/2#v8).
+2. **La marque arrachée à la combustion**. «Alors il me montra Josué, le souverain sacrificateur, debout devant l'ange de l'Éternel, et Satan se tenant à sa droite pour l'accuser. Et l'Éternel dit à Satan : 'L'Éternel te réprimande, ô Satan !... N'est-ce pas un tison arraché au feu ?'» [3:1,2](/fr/Bible/Zechariah/3#v1).
+3. **Pas par la force ou le pouvoir**. «Alors il m'a dit...» Ni par la force, ni par la puissance, mais par mon Esprit «, dit l'Éternel des armées.» [4:6](/fr/Bible/Zechariah/4#v6).
+4. **Ses gens**. «'Et ils seront mon peuple et je serai leur Dieu, en fidélité et en justice.'» [8:8](/fr/Bible/Zechariah/8#v8).
+5. **Promouvoir la paix**. «'Dites-vous la vérité les uns aux autres, rendez... des jugements qui sont vrais et qui favorisent la paix, ne méditez pas le mal dans vos cœurs les uns contre les autres, et n'aimez pas les faux serments, car je hais toutes ces choses, dit le Seigneur.' » [8:16,17](/fr/Bible/Zechariah/8#v16).
+6. **Le roi monté sur un poulain**. « Voici, ton roi vient à toi ; il est triomphant et victorieux, humble et monté sur un âne, sur un ânon. » [9:9](/fr/Bible/Zechariah/9#v9).
+7. **L'esprit de l'homme**. «Ainsi parle le Seigneur, qui a étendu les cieux, fondé la terre et formé en lui l'esprit de l'homme.» [12:1](/fr/Bible/Zechariah/12#v1).
+8. **Celui qu'ils ont percé**. «'Ainsi, quand ils regarderont celui qu'ils ont percé, ils le pleureront.'» [12:10](/fr/Bible/Zechariah/12#v10).
+9. **Blessé dans la maison d'un ami**. «'»Quelles sont ces blessures sur ton dos?« Il dira: »Les blessures que j'ai reçues dans la maison de mes amis.«'» [13:6](/fr/Bible/Zechariah/13#v6).
+10. **Dieu et ses anges**. «L'Éternel, votre Dieu, viendra, et tous les saints avec lui.» [14:5](/fr/Bible/Zechariah/14#v5).
 
 
 <br>

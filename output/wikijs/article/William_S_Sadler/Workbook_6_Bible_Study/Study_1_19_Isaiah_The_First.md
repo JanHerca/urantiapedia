@@ -26,12 +26,12 @@ Author: **William S. Sadler**
 
 ## I. Outline-Brief
 
-1. Messages of Isaiah. 1-12.
-2. Prophecies about Nations. 13-23.
-3. Apocalyptic Oracles. 24-27.
-4. Oracles on Judah and Assyria. 28-33.
-5. Judgments and Promises. 34,35.
-6. Historical Accounts. 36-39.
+1. Messages of Isaiah. [1-12](/en/Bible/Isaiah/1).
+2. Prophecies about Nations. [13-23](/en/Bible/Isaiah/13).
+3. Apocalyptic Oracles. [24-27](/en/Bible/Isaiah/24).
+4. Oracles on Judah and Assyria. [28-33](/en/Bible/Isaiah/28).
+5. Judgments and Promises. [34,35](/en/Bible/Isaiah/34).
+6. Historical Accounts. [36-39](/en/Bible/Isaiah/36).
 
 ## II. Outline-Complete
 
@@ -106,17 +106,17 @@ Author: **William S. Sadler**
 3. He married a "prophetess" and they had two sons.
 4. Isaiah was a cultured Jew and was well educated. He associated with the elite and was a counselor of kings.
 5. His forty years of public work covered the reigns of four kings:
-	Uzziah (Azariah).
-	Jot ham.
-	Ahaz (Jehoahaz I).
-	Hezekiah.
+	- Uzziah (Azariah).
+	- Jot ham.
+	- Ahaz (Jehoahaz I).
+	- Hezekiah.
 6. Micah was his contemporary and Amos and Hosea were preaching in the northern kingdom.
 7. Isaiah all but practiced medicine.
 8. His life was divided into four major periods:
-	Early ministry. 742-734.
-	Withdrawal. 734-715.
-	Middle ministry. 715-705.
-	Later ministry. 705-701.
+	- Early ministry. 742-734.
+	- Withdrawal. 734-715.
+	- Middle ministry. 715-705.
+	- Later ministry. 705-701.
 9. He was a statesman and a sociologist as well as a prophet.
 10. Isaiah was "an aristocrat of the spirit."
 11. He was probably a member of the king's supreme council.
@@ -168,10 +168,10 @@ Author: **William S. Sadler**
 12. Righteousness and social conduct were more important than sacrifices and formal worship.
 13. He thunders: "Believe the oppressed."
 14. His favorite phrases:
-	"Thus saith the Lord."
-	"The Lord of Hosts."
-	"Mighty One of Israel."
-	"Let us reason together."
+	- "Thus saith the Lord."
+	- "The Lord of Hosts."
+	- "Mighty One of Israel."
+	- "Let us reason together."
 15. He pleads for wise leadership.
 16. God will purge, but also restore.
 17. Song of the vineyard, [5:1-7](/en/Bible/Isaiah/5#v1), is a beautiful song and parable.

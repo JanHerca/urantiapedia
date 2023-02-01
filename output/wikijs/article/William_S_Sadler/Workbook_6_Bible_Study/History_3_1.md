@@ -31,16 +31,11 @@ Author: **William S. Sadler**
 5. The gospel story is formulated in acts. By Peter— [Acts 4:8-12](/en/Bible/Acts_of_the_Apostles/4#v8). By Paul— [Acts 13:16-41](/en/Bible/Acts_of_the_Apostles/13#v16).
 6. In the religion **of** Jesus, and according to the Urantia Book, the gospel is: “The fatherhood of God and the brotherhood of man.”
 7. In the religion **about** Jesus, the gospel message evolved somewhat as follows:
-
-a. Dawn of the Messianic age. Jesus as the fulfillment of Old Testament prophecy.
-
-b. Brief account of the ministry, death, and resurrection of Jesus.
-
-c. Exaltation of the risen Christ—at the right hand of God.
-
-d. The gift of the Holy Spirit as the sign of Christ’s presence.
-
-e. The second advent of Christ.
+	- a. Dawn of the Messianic age. Jesus as the fulfillment of Old Testament prophecy.
+	- b. Brief account of the ministry, death, and resurrection of Jesus.
+	- c. Exaltation of the risen Christ—at the right hand of God.
+	- d. The gift of the Holy Spirit as the sign of Christ’s presence.
+	- e. The second advent of Christ.
 8. The result of such preaching on the day of Pentecost confirmed their faith in such a message.
 9. The glossolalia of Pentecost is of doubtful authenticity.
 10. “You shall receive power when the Holy Spirit has come upon you.” [Acts 1:8](/en/Bible/Acts_of_the_Apostles/1#v8). Pentecost is really the birthday of the Christian Church.
@@ -77,10 +72,8 @@ e. The second advent of Christ.
 1. Paul claims to have had a special and personal revelation of “Christ of the Damascus Road.”
 2. Paul also claims to have received a mandate to preach the gospel to the gentiles.
 3. Paul’s epistles were largely devoted to:
-
-a. Defense against attacks made upon his teachings.
-
-b. Resisting the efforts of Jewish Christians to impose ceremonial demands upon the gentiles.
+	- a. Defense against attacks made upon his teachings.
+	- b. Resisting the efforts of Jewish Christians to impose ceremonial demands upon the gentiles.
 4. Paul was inclined to ignore the human Christ. [II Cor 5:16](/en/Bible/2_Corinthians/5#v16).
 5. Paul was determined to know only “Christ and him crucified”—the atonement.
 6. He was concerned with the “risen and glorified Christ”—the divine Christ.

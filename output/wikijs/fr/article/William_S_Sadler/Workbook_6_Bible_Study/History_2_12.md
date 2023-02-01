@@ -35,10 +35,10 @@ Auteur: **William S. Sadler**
 9. Deux fois Yahweh les avait délivrés de la servitude, mais leur troisième délivrance était venue au moyen d'une conquête militaire.
 10. Le grand prêtre est devenu une personne importante dans la nouvelle communauté juive.
 11. C'était la LOI plutôt que le culte qui revendiquait l'allégeance juive.
-12. Le **[scribe](https://en.wikipedia.org/wiki/Scribe)** est devenu une personne importante dans la religion hébraïque.
+12. Le **[scribe](https://fr.wikipedia.org/wiki/Scribe)** est devenu une personne importante dans la religion hébraïque.
 13. La synagogue prend une nouvelle place dans la communauté juive.
 14. Dans le service de la synagogue, le premier acte était la lecture de la loi.
-15. Bientôt, un nouvel aspect de la loi est apparu : la [LOI ORALE](https://en.wikipedia.org/wiki/Oral_law).
+15. Bientôt, un nouvel aspect de la loi est apparu : la [LOI ORALE](https://fr.wikipedia.org/wiki/Loi_orale).
 16. Entre aussi maintenant dans le tableau le trait de sagesse des Ecritures.
 17. Tout cela signifie que la piété – la droiture – devient la caractéristique importante de la vie religieuse.
 18. Viennent ensuite les mille et un petits détails des restrictions légales et des caractéristiques minutieuses du respect de la loi.
@@ -50,19 +50,15 @@ Auteur: **William S. Sadler**
 ## II. Théologie du judaïsme primitif
 
 1. Il y avait deux attitudes diverses et opposées parmi les Juifs :
-
-une. Une attitude étroite d'esprit et intolérante envers tous les gentils.
-
-b. Un souci chaleureux pour le salut du monde.
+	- a. Une attitude étroite d'esprit et intolérante envers tous les gentils.
+	- b. Un souci chaleureux pour le salut du monde.
 2. Ce conflit et cette tension sont maintenant devenus réels. Autrement dit c'était :
-
-une. Les Juifs en tant que "peuple élu" - les élus de Yahweh.
-
-b. Yahweh comme Dieu de toutes les nations - obligations missionnaires.
+	- a. Les Juifs en tant que «peuple élu» - les élus de Yahweh.
+	- b. Yahweh comme Dieu de toutes les nations - obligations missionnaires.
 3. Israël était entouré de paganisme. Néhémie et Ezra pensaient qu'ils devaient protéger le reste d'Israël de la contamination morale.
-4. Les Juifs ont succombé à l'idée et à l'idéal d'un "peuple saint". Ils se sont rendus à l'isolationnisme racial.
+4. Les Juifs ont succombé à l'idée et à l'idéal d'un «peuple saint». Ils se sont rendus à l'isolationnisme racial.
 5. La haine des gentils l'a emporté sur l'amour des gentils. Les mariages mixtes étaient tabous.
-6. L'idée du "peuple saint" a grandi. De plus en plus les juifs se retiraient de tout contact avec les gentils.
+6. L'idée du «peuple saint» a grandi. De plus en plus les juifs se retiraient de tout contact avec les gentils.
 7. En particulier, ils ont refusé d'avoir des relations avec les Samaritains.
 8. Mais parmi les rares, le sens de la mission mondiale ne s'est jamais complètement perdu. Mais le judaïsme n'est jamais devenu une religion missionnaire.
 9. Ils ont consolidé leur théologie. Le monothéisme a triomphé. Ils devinrent de plus en plus eschatologiques. Ils ont persisté dans leurs anciennes croyances concernant la Providence.
@@ -79,26 +75,16 @@ b. Yahweh comme Dieu de toutes les nations - obligations missionnaires.
 1. Bientôt Jean-Baptiste est venu. Alors commença le conflit avec les enseignements de Jésus—et leur rejet.
 2. Des sectes et des partis surgissaient — Israël se divisait et s'affaiblissait.
 3. Il y avait :
-
-une. Pharisiens.
-
-b. Sadducéens.
-
-c. Nationalistes.
-
-ré. hassidim.
-
-e. Nazaréens.
-
-F. loyalistes romains.
-
-g. Maccabées.
-
-h. Esséniens.
-
-i. Qumrans.
-
-J. Les chrétiens.
+	- a. Pharisiens.
+	- b. Sadducéens.
+	- c. Nationalistes.
+	- d. hassidim.
+	- e. Nazaréens.
+	- f. loyalistes romains.
+	- g. Maccabées.
+	- h. Esséniens.
+	- i. Qumrans.
+	- j. Les chrétiens.
 4. Puis vint la révolte contre Rome et la FIN.
 
 

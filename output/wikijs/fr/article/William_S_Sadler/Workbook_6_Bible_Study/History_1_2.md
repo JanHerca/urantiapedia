@@ -35,7 +35,7 @@ Avant environ 1000 av. J.-C., il n'y avait pas beaucoup d'écrits parmi les Juif
 5. Parmi les parties les plus anciennes de l'Ancien Testament se trouvent des poèmes cités des livres perdus de [Jasher](https://www.sacred-texts.com/chr/apo/jasher/index.htm), Livre de la parole de Yahweh, etc. Voir [Jos 10:12-14](/fr/Bible/Joshua/10#v12).
 6. La plus ancienne prose de l'Ancien Testament est probablement le [récit de l'établissement du royaume de David](/fr/Bible/2_Samuel/5).
 7. Viennent ensuite les [histoires d'Elie](/fr/Bible/1_Kings/17) et le règne de [Jéhu](/fr/Bible/1_Kings/19#v16). 842-815 avant JC
-8. La rédaction des livres historiques de l'Ancien Testament a commencé vers 600 av. J.-C. Ils avaient accès au livre perdu des "Actes des rois de Juda et d'Israël". [II Chron 25:26](/fr/Bible/2_Chronicles/25#v26).
+8. La rédaction des livres historiques de l'Ancien Testament a commencé vers 600 av. J.-C. Ils avaient accès au livre perdu des «Actes des rois de Juda et d'Israël». [II Chron 25:26](/fr/Bible/2_Chronicles/25#v26).
 9. L'histoire des royaumes de David et de Salomon. [I Sam 16](/fr/Bible/1_Samuel/16) à [I Rois 11](/fr/Bible/1_Kings/11).
 10. David était berger, poète, musicien et guerrier. Pendant des années un fugitif et hors-la-loi. Devient roi de Judée et d'Israël à la mort de Saül.
 11. Il y a deux histoires sur la nomination de David comme roi.
@@ -138,7 +138,7 @@ Avant environ 1000 av. J.-C., il n'y avait pas beaucoup d'écrits parmi les Juif
 	- Joel—quelques parties.
 	- [Isaiah 19:1-15](/fr/Bible/Isaiah/19#v1); [23:1-14](/fr/Bible/Isaiah/23#v1).
 	- [Proverbes](/fr/Bible/Proverbs/1).
-	- [Travail](/fr/Bible/Travail/1).
+	- [Job](/fr/Bible/Job/1).
 	- [Isaiah 24-27](/fr/Bible/Isaiah/24).
 9. **Le 3e siècle**.
 	- [Chroniques](/fr/Bible/1_Chronicles/1). 300-250 avant JC
@@ -163,7 +163,7 @@ Avant environ 1000 av. J.-C., il n'y avait pas beaucoup d'écrits parmi les Juif
 	- a. La Loi—Torah. 5 livres. Le Pentateuque.
 	- b. Les Prophètes. 8 livres.
 		- (1) Les anciens prophètes.
-			Josué, juges, Samuel, rois.
+			Josué, Juges, Samuel, Rois.
 		- (2) Les derniers prophètes.
 			Esaïe, Jérémie, Ezéchiel.
 	- c. Les Petits Prophètes—les Douze.
@@ -175,13 +175,13 @@ Avant environ 1000 av. J.-C., il n'y avait pas beaucoup d'écrits parmi les Juif
 ## IV. Les versions de l'Ancien Testament
 
 1. Aucun manuscrit original de l'Ancien ou du Nouveau Testament n'existe aujourd'hui.
-2. **[Le Pentateuque Samaritain](https://en.wikipedia.org/wiki/Samaritan_Torah)**.
+2. **[Le Pentateuque Samaritain](https://fr.wikipedia.org/wiki/Pentateuque_samaritain)**.
 	Ce manuscrit date peut-être du quatrième siècle av. J.-C. Il y a 6 000 différences entre ce texte et les versions hébraïques ultérieures. Seuls 1 000 sont importants. L'un des plus anciens de ce texte se trouve à Paris.
 3. **Textes hébreux**
 	L'un des plus anciens est le [codex des prophètes anciens et ultérieurs](https://en.wikipedia.org/wiki/Aleppo_Codex), trouvé dans la synagogue karaïte du Caire, écrit en 895 après JC.
 	Un manuscrit complet de tout l'Ancien Testament se trouve maintenant à Leningrad. 1008 après JC.
 	Les [manuscrits de la mer Morte](https://en.wikipedia.org/wiki/Dead_Sea_Scrolls) (AD 1947) remontent aussi loin que le cinquième siècle avant JC D'autres jusqu'à 100 avant JC et 70 après JC.
-4. **[Les textes massorétiques](https://en.wikipedia.org/wiki/Masoretic_Text)**
+4. **[Les textes massorétiques](https://fr.wikipedia.org/wiki/Texte_massor%C3%A9tique)**
 	[Les Massoretes](https://en.wikipedia.org/wiki/Masoretes) étaient une école d'érudits textuels qui se consacraient à la protection du texte scripturaire.
 	Ils ont créé des sons de voyelle pour le texte hébreu, ainsi que la ponctuation. Ils ont fonctionné jusqu'au Xe siècle après JC
 	Le premier texte hébreu avec des voyelles a été publié en 1488 après JC.
@@ -191,22 +191,22 @@ Avant environ 1000 av. J.-C., il n'y avait pas beaucoup d'écrits parmi les Juif
 	Plusieurs nouvelles traductions grecques ont été faites aux deuxième et troisième siècles après JC
 	En 240 après JC, Origène a fait une [comparaison des textes grecs] à six colonnes (http://www.bible-researcher.com/origen.html).
 6. **Les principaux textes grecs**
-	**[Codex Vaticanus](https://en.wikipedia.org/wiki/Codex_Vaticanus)**. Dans la bibliothèque du Vatican depuis le XVe siècle. Écrit à Alexandrie au milieu du IVe siècle de notre ère
+	**[Codex Vaticanus](https://fr.wikipedia.org/wiki/Codex_Vaticanus)**. Dans la bibliothèque du Vatican depuis le XVe siècle. Écrit à Alexandrie au milieu du IVe siècle de notre ère
 	**[Codex Sinaiticus](http://www.codexsinaiticus.org/en/)**. Trouvé sur le mont Sinaï en 1844. Transporté à Saint-Pétersbourg. Acheté par l'Angleterre en 1933. Maintenant au British Museum.
-	**[Codex Alexandrias](https://en.wikipedia.org/wiki/Codex_Alexandrinus)**. Un manuscrit du cinquième siècle apporté en Angleterre en 1624. Maintenant au British Museum.
-	**[Codex Ephraemi](https://en.wikipedia.org/wiki/Codex_Ephraemi_Rescriptus)**. Manuscrit du Ve siècle actuellement à Paris.
+	**[Codex Alexandrias](https://fr.wikipedia.org/wiki/Codex_Alexandrinus)**. Un manuscrit du cinquième siècle apporté en Angleterre en 1624. Maintenant au British Museum.
+	**[Codex Ephraemi](https://fr.wikipedia.org/wiki/Codex_Ephraemi_Rescriptus)**. Manuscrit du Ve siècle actuellement à Paris.
 	**REMARQUE** : La première LXX imprimée date de 1514.
 7. **Les versions latines**.
 	La version « [ancien latin » est originaire de Carthage en 250 après JC] (http://www.trinitarianbiblesociety.org/site/articles/vulgate.pdf).
 	Des versions africaines, européennes et italiennes sont bientôt apparues.
-**[La Vulgate](https://en.wikipedia.org/wiki/Vulgate)**. Produit par Jérôme AD 382. Ce fut un événement majeur et il a été plusieurs fois révisé. Elle a été imprimée pour la première fois en 1456 après JC et a été la Bible de l'Église catholique romaine depuis que Jérôme l'a produite. (Aussi connue sous le nom de version Douay.)
+**[La Vulgate](https://fr.wikipedia.org/wiki/Vulgate)**. Produit par Jérôme AD 382. Ce fut un événement majeur et il a été plusieurs fois révisé. Elle a été imprimée pour la première fois en 1456 après JC et a été la Bible de l'Église catholique romaine depuis que Jérôme l'a produite. (Aussi connue sous le nom de version Douay.)
 	Pour la première fois depuis plus de mille ans, les catholiques ont récemment fait une version révisée de la Vulgate.
-8. **Versions syriaques**.
+1. **Versions syriaques**.
 	La version [Peshitta](https://en.wikipedia.org/wiki/Peshitta) a été créée au troisième siècle, à partir de la LXX, pour les chrétiens.
 	La traduction de l'évêque Tetta a été faite en 616 après JC.
-9. **[Les Targums](https://en.wikipedia.org/wiki/Targum)**.
+2. **[Les Targums](https://en.wikipedia.org/wiki/Targum)**.
 	Ce sont des interprétations Aram du texte hébreu, complétées du cinquième au neuvième siècle après JC
-10. **Autres versions**.
+3.  **Autres versions**.
 	[Coptique](https://en.wikipedia.org/wiki/Coptic_versions_of_the_Bible), Égypte. Quatrième siècle.
 	[Éthiopie] (http://www.ethiopianorthodox.org/english/canonical/books.html). Quatrième siècle.
 	[Gothique](https://en.wikipedia.org/wiki/Gothic_Bible). 350 après JC.

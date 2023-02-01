@@ -31,15 +31,15 @@ Auteur: **William S. Sadler**
 5. Les Cananéens jouissaient d'une haute civilisation. Ils avaient une capacité inhabituelle. Leurs villes étaient bien bâties.
 6. Ils sont à l'origine de trois systèmes d'écriture, dont deux avec des alphabets. L'un d'eux a supplanté l'écriture de l'Égypte et de la Babylonie.
 7. L'un d'eux, le phénicien, est devenu la langue écrite de tout le monde occidental.
-8. Ce peuple cananéen avait des lois, une littérature de sagesse et un vaste rituel religieux, comme le montrent les découvertes de [Ras Shamrah](https://en.wikipedia.org/wiki/Ugarit) (1929) sur la côte nord de la Syrie.
+8. Ce peuple cananéen avait des lois, une littérature de sagesse et un vaste rituel religieux, comme le montrent les découvertes de [Ras Shamrah](https://fr.wikipedia.org/wiki/Ougarit) (1929) sur la côte nord de la Syrie.
 9. Les Hébreux ont rapidement adopté cette culture et même une partie de leur religion.
 10. Souvenez-vous aussi : Les Hébreux n'ont pas détruit tous ces Cananéens comme l'indiquent les annales de l'Ancien Testament.
 
 ## II. Littérature hébraïque ancienne
 
 1. La littérature hébraïque primitive était en grande partie de la poésie. Les premiers fragments étaient:
-	[Chanson du puits] (http://www.jewishencyclopedia.com/articles/14857-well-song-of-the).
-	[Taunt of Heshbon](https://books.google.com/books?id=-ZYHBfzcJ7IC&pg=PA273&lpg=PA273&dq=Taunt+of+Heshbon&source=bl&ots=XUeD8a8v0t&sig=_WyTbyH0-K8C5YC2c4DL3pyZUfw&hl=en&ei=2-rCTtKOMqe62gXWzIDmDg&sa=X&oi=book_result&ct =result&resnum=1&ved=0CB4Q6AEwAA#v=onepage&q=Taunt%20of%20Heshbon&f=false).
+	[Chanson du puits](http://www.jewishencyclopedia.com/articles/14857-well-song-of-the).
+	[Taunt of Heshbon](https://books.google.com/books?id=-ZYHBfzcJ7IC&pg=PA273&lpg=PA273&dq=Taunt+of+Heshbon&source=bl&ots=XUeD8a8v0t&sig=_WyTbyH0-K8C5YC2c4DL3pyZUfw&hl=en&ei=2-rCTtKOMqe62gXWzIDmDg&sa=X&oi=book_result&ct=result&resnum=1&ved=0CB4Q6AEwAA#v=onepage&q=Taunt%20of%20Heshbon&f=false).
 	Limites de Moab. ([Num. 21](/fr/Bible/Numbers/21#v13))
 	[Chant de Miriam](/fr/Bible/Exodus/15).
 	Oracles de Balaam ([Num. 23 et 24](/fr/Bible/Numbers/23#v1))
@@ -63,7 +63,7 @@ Auteur: **William S. Sadler**
 ## IV. Les prophètes littéraires
 
 1. Amos et le Second Isaïe étaient parmi les premiers. Deutéro-Isaïe représente le sommet de la littérature prophétique.
-2. Le deuxième Zacharie est au premier rang - [Zacharie 9-14](/fr/Bible/Zachariah/9). La plupart des prophètes étaient des poètes.
+2. Le deuxième Zacharie est au premier rang - [Zacharie 9-14](/fr/Bible/Zechariah/9). La plupart des prophètes étaient des poètes.
 3. En haut de cette liste se trouvent Joël et Habacuc.
 4. Jérémie et Isaïe Deux ont veillé à ce que leurs sermons parlés soient réduits par écrit de leur vivant.
 5. Le livre du Deutéronome a été redécouvert dans le temple en 621 av. J.-C. ([II Rois 22](/fr/Bible/2_Kings/22)) C'est un étrange mélange de littérature prophétique et légale. Il expose et explique.

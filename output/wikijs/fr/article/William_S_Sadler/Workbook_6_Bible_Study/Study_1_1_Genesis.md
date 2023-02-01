@@ -89,7 +89,7 @@ Auteur: **William S. Sadler**
 
 ## III. But
 
-1. Raconter l'histoire des "débuts".
+1. Raconter l'histoire des «débuts».
 2. Plus particulièrement, raconter les débuts d'Israël. L'appel d'Abraham.
 3. Pour dépeindre la relation de l'homme à Dieu.
 
@@ -98,9 +98,9 @@ Auteur: **William S. Sadler**
 1. Genesis est une compilation. Les auteurs individuels sont inconnus.
 2. Il y avait quatre contributeurs majeurs et probablement de nombreux éditeurs.
 3. Les contributeurs étaient :
-	- A. [J1.the Judah or Yahwist Document](https://en.wikipedia.org/wiki/Jahwist).
-	- B. [J2.a second Document Yahviste.](https://en.wikipedia.org/wiki/Elohist)
-	- C. [E-le Document Éphraïm ou Élohiste](https://en.wikipedia.org/wiki/Elohist).
+	- A. [J1.the Judah or Yahwist Document](https://fr.wikipedia.org/wiki/Document_jahviste).
+	- B. [J2.a second Document Yahviste.](https://fr.wikipedia.org/wiki/Document_%C3%A9lohiste)
+	- C. [E-le Document Éphraïm ou Élohiste](https://fr.wikipedia.org/wiki/Document_%C3%A9lohiste).
 	- D. [P-le Document Sacerdotal](http://www.biblicalproportions.com/modules/ol_bible/King_James_Bible/Genesis/).
 4. Rendez-vous :
 	1. J1.850 av. J.-C.
@@ -115,7 +115,7 @@ Auteur: **William S. Sadler**
 3. Caïn-un fugitif-est devenu un vagabond-début du nomadisme. (Il y a deux enregistrements de Caïn, sans parler de l'obtention d'une femme.)
 4. Dans [9:20](/fr/Bible/Genesis/9#v20) il est dit que Noé a été le premier cultivateur du sol. (Il y a aussi deux récits de Noé.)
 5. Les documents J sont les traditions des Israélites du sud, dont le quartier général est à Hébron. Ce sont les tribus Kadesh ou Mt. Horeb qui ont pénétré Canaan par le sud. (Hébron était l'une des villes de Caleb et était également connue sous le nom de Kirjath-arba.)
-6. Parle des "puissants" et des "Nephilim". Pour plus de lumière sur Nephilim, voir le Livre d'Urantia [LU 77:2.3](/fr/The_Urantia_Book/77#p2_3)
+6. Parle des «puissants» et des «Nephilim». Pour plus de lumière sur Nephilim, voir le Livre d'Urantia [LU 77:2.3](/fr/The_Urantia_Book/77#p2_3)
 7. Dans J1, Abraham est associé à Hébron.
 8. La chanson Deborah - le premier document de l'Ancien Testament - est une contribution J1.
 9. Cet auteur traite de Sodome et de Lot - et des filles de Lot qui se conduisent mal (origine des Moabites et des Ammonites).
@@ -123,7 +123,7 @@ Auteur: **William S. Sadler**
 11. Les tribus de la Jordanie orientale sont prises dans le giron d'Abraham. Cela embrasse les traditions de Jacob, car Jacob était le père des tribus de la Jordanie orientale. (Jacob est une personne beaucoup plus réelle qu'Isaac. Il y a trois volets dans son histoire.)
 12. Vient maintenant l'histoire d'Ésaü et de Jacob. (Certaines parties de cette histoire sont difficiles à accepter.)
 13. Ensuite, l'histoire de Jacob, Laban et ses filles. (Jacob est une étrange combinaison d'honnêtes et de malhonnêtes, d'intelligents et de stupides.)
-14. J1 décrit les Israélites comme "intelligents" et les Cananéens comme "stupides".
+14. J1 décrit les Israélites comme «intelligents» et les Cananéens comme «stupides».
 15. J1 explique comment Juda est devenu le maître de ses trois frères aînés.
 16. Cet auteur fait vendre Joseph comme esclave égyptien par ses frères.
 17. L'histoire J de la création présente de nombreuses caractéristiques des mythes babyloniens de la création. Il ressemble également à certains des mythes égyptiens.
@@ -136,31 +136,31 @@ Auteur: **William S. Sadler**
 
 1. Ce document est motivé par la crise du déplacement de David de sa capitale d'Hébron à Jérusalem.
 2. Plus encore, il a été provoqué par la perturbation du royaume de David et de Salomon.
-3. J2 est une tentative suprême de maintenir "l'unité d'Israël".
+3. J2 est une tentative suprême de maintenir «l'unité d'Israël».
 4. J2 présente de nombreux mythes, légendes et traditions dont J1 était totalement ignorant.
 5. Premièrement, il y avait une version cananéenne d'un mythe babylonien de la création et une histoire sur le jardin d'Eden. Ils ont le plus artistiquement révisé ces deux histoires.
 6. J2 présente l'homme comme un agriculteur depuis son expulsion du Jardin. J1 a fait passer l'homme du nomadisme sans culture à l'agriculture. Afin de résoudre ce dilemme, ils se servent de l'histoire de Caïn et d'Abel.
 7. J2 introduit l'histoire du déluge telle que présentée dans le document précédent, mais fait de Noé un nouveau héros.
 8. Il élabore l'histoire de Jacob et Rachel, et comment il découvre qu'elle est sa cousine.
 9. J2 identifie l'un des trois étranges visiteurs d'Abraham comme Yahweh.
-10. Il explique que Jacob est devenu l'héritier de la "promesse", parce qu'Esaü a vendu son "droit d'aînesse".
+10. Il explique que Jacob est devenu l'héritier de la «promesse», parce qu'Esaü a vendu son «droit d'aînesse».
 11. J2 s'inquiétait de certains des récits de J1 - il pensait qu'ils étaient trop laxistes en matière de morale et de traitement des délits sexuels. Il a donc procédé à l'édition de cinq d'entre eux :
 	- A. Jacob déjouant Laban.
 	- Le vol des téraphim par B. Rachel.
 	- C. Juda et Tamar.
 	- D. Séduction de Dinah.
 	- E. Joseph et la femme de son maître.
-12. Une histoire nouvelle et élaborée du mariage d'Isaac. Une tentative de montrer que les femmes de Jacob n'étaient pas des Cananéennes, mais de la souche d'Abraham. Tout pour garder "pur" le sang israélite.
+12. Une histoire nouvelle et élaborée du mariage d'Isaac. Une tentative de montrer que les femmes de Jacob n'étaient pas des Cananéennes, mais de la souche d'Abraham. Tout pour garder «pur» le sang israélite.
 13. J1 avait dit qu'Isaac était le fondateur de Beer-sheba. Maintenant J2 arrive et dit qu'Abraham a fondé Beer-sheba. Il transmet également une histoire d'Isaac à Abraham, représentant sa femme comme sa sœur.
 14. J2 s'efforce de présenter Beer-Sheva comme un lieu de rang égal à Hébron en tant que sanctuaire religieux.
 15. J2 ajoute l'histoire d'Ismaël et des Ismaélites.
 16. L'histoire de Jacob à Béthel est illustrative de la tentative de J2 de mettre le récit de J1 en accord avec les traditions du nord.
 17. Peu d'ajouts ont été apportés à l'histoire J avant qu'elle ne soit fusionnée avec un nouveau document.
 
-##VII. E-Le document d'Éphraïm ou d'Élohiste
+## VII. E-Le document d'Éphraïm ou d'Élohiste
 
 1. Dans la Bible de Moffatt, ces différentes sources de la Genèse sont imprimées dans différents types de style.
-2. Lorsque plusieurs documents sont "assemblés" - "fusionnés", le résultat est appelé CONFLATION. La personne qui fait cela est connue sous le nom de RÉDACTEUR.
+2. Lorsque plusieurs documents sont «assemblés» - «fusionnés», le résultat est appelé CONFLATION. La personne qui fait cela est connue sous le nom de RÉDACTEUR.
 3. Il n'y a aucune trace du document E dans les onze premiers chapitres de la Genèse.
 4. Le document E utilise toujours Elohim pour Dieu. Il ne fait aucune mention de Yahweh.
 5. Il commence le récit avec Abraham-[Chapitre 12](/fr/Bible/Genesis/12).
@@ -178,7 +178,7 @@ Auteur: **William S. Sadler**
 	- C. Juda et Tamar.
 	- D. Joseph et la femme de son maître.
 15. E omet l'histoire de la lutte de Jacob au Jabbok, probablement à cause des difficultés théologiques qu'elle a occasionnées.
-16. Le culte de "l'Humanisme" apparaît. La seule histoire d'Abraham propre à E est la mise à l'épreuve de sa foi dans le "sacrifice d'Isaac".
+16. Le culte de «l'Humanisme» apparaît. La seule histoire d'Abraham propre à E est la mise à l'épreuve de sa foi dans le «sacrifice d'Isaac».
 17. E raconte une histoire plus humaine à propos d'Agar et d'Ismaël.
 18. Vient maintenant la fusion des documents - J1 et J2 combinés avec E - et c'était l'écriture hébraïque jusqu'après l'exil.
 
@@ -188,33 +188,33 @@ Auteur: **William S. Sadler**
 	- A. Stimulation du moral - augmentation de la fierté nationale.
 	- B. Reconstruction de Jérusalem.
 	- C. Restauration du temple avec ses sacrifices et les cérémonies du culte.
-	- D. Confirmation du concept de "peuple élu".
+	- D. Confirmation du concept de «peuple élu».
 	- E. Ajustement de la nouvelle idée de la synagogue au culte central du temple.
 	- F. Etablissement d'Abraham comme père d'Israël, Moïse le Libérateur, et David le fondateur d'une dynastie éternelle.
 	- G. Mettre à jour les Écritures - pour effectuer une fusion plus experte de leur révision avec les écrits déjà combinés de J et E.
 2. Le but exceptionnel de P est d'associer Abraham exclusivement à Hébron et Moïse au Mont Sinaï.
 3. Révision du récit de la création. [1:1-2:3](/fr/Bible/Genesis/1#v1). Peut être entaché de certains mythes babyloniens, mais est austère dans sa grandeur.
-4. Le "chaos aqueux" primitif est laissé de côté. "L'Esprit se déplaçant à la surface de l'abîme" sonne comme une histoire babylonienne.
-5. Changement du "firmament, couverture du ciel". sous forme de substance solide.
-6. Le but des corps célestes de réguler le temps, et l'idée de la consultation des divinités, "faisons" l'homme.
+4. Le «chaos aqueux» primitif est laissé de côté. «L'Esprit se déplaçant à la surface de l'abîme» sonne comme une histoire babylonienne.
+5. Changement du «firmament, couverture du ciel». sous forme de substance solide.
+6. Le but des corps célestes de réguler le temps, et l'idée de la consultation des divinités, «faisons» l'homme.
 7. P comprime huit actes créateurs en six jours, afin de pourvoir à l'établissement et à la sanctification du sabbat.
 8. P omet l'histoire de la chute de l'homme à sa place, présente la généalogie s'étendant d'Adam au déluge.
 9. Dans l'histoire des Patriarches, omet toute référence aux sanctuaires et aux autels.
 10. Dans l'histoire d'Israël, aucun sacrifice n'est offert à Yahvé jusqu'à ce que Moïse reçoive de telles instructions au mont Sinaï.
 11. Omet toutes les histoires reflétant défavorablement le caractère moral des pères fondateurs.
 12. P est le cadre du présent livre de la Genèse.
-13. P représente de nombreuses fonctionnalités améliorées de Genesis. "L'homme est fait à l'image de Dieu."
+13. P représente de nombreuses fonctionnalités améliorées de Genesis. «L'homme est fait à l'image de Dieu.»
 14. P raconte une histoire nouvelle ou élargie sur :
-	A. Création. [1:1-2:3](/fr/Bible/Genesis/1#v1).
-	B. Le déluge. Parties du [chap. 6](/fr/Bible/Genesis/6) et [9](/fr/Bible/Genesis/9).
-	D. Abraham achète un terrain. [23](/fr/Bible/Genesis/23).
-	E. Les dix généalogies.
-	F. Le sabbat. [2:3](/fr/Bible/Genesis/2#v3).
-	G. Interdire le sang. [9:3-6](/fr/Bible/Genesis/9#v3).
-	H. Circoncision. [17:22-27](/fr/Bible/Genesis/17#22).
+	- A. Création. [1:1-2:3](/fr/Bible/Genesis/1#v1).
+	- B. Le déluge. Parties du [chap. 6](/fr/Bible/Genesis/6) et [9](/fr/Bible/Genesis/9).
+	- D. Abraham achète un terrain. [23](/fr/Bible/Genesis/23).
+	- E. Les dix généalogies.
+	- F. Le sabbat. [2:3](/fr/Bible/Genesis/2#v3).
+	- G. Interdire le sang. [9:3-6](/fr/Bible/Genesis/9#v3).
+	- H. Circoncision. [17:22-27](/fr/Bible/Genesis/17#22).
 15. Le document P insiste sur les révélations à Adam, Noé, Abraham et Moïse.
 
-##IX. Les enseignements de la Genèse
+## IX. Les enseignements de la Genèse
 
 1. Rappelez-vous que E essayait de libérer les Patriarches de l'accusation de laxisme moral.
 2. Souvenez-vous aussi : Il y a toujours eu deux groupes distincts d'Hébreux. Les Yahvistes et les Elohistes. Les Judaïtes et les Éphraïmites. Le Nord et le Sud. Les groupes d'Hébron et de Beersheba. Les tribus du mont Sinaï et du mont Horeb. Et même plus tard, les Juifs et les Samaritains.
@@ -227,33 +227,33 @@ Auteur: **William S. Sadler**
 	- A. Encore une fois, le premier des motifs était l'unité.
 	- B. Mais, surtout, c'était l'intention d'exalter les services du temple et le sacerdoce à Jérusalem.
 	- C. Ils voulaient aussi déraciner les mythes et les mensonges. (Nous ne savons pas combien ils en ont supprimés, nous ne savons que ce qu'ils ont conservé.)
-	- D. Ils voulaient vaincre la tendance au "localisme" et au "nationalisme" - même le nationalisme du Deutéronome.
+	- D. Ils voulaient vaincre la tendance au «localisme» et au «nationalisme» - même le nationalisme du Deutéronome.
 	- E. Ils voulaient vraiment que les Juifs acceptent leur mission auprès des gentils. Voyez-vous, ils avaient vécu parmi les gentils et avaient même appris à les aimer.
 	- F. Enfin, mais non des moindres, ils voulaient inciter les Juifs à reconstruire Jérusalem et à se réinstaller en Palestine.
 	- G. Et ils voulaient améliorer et harmoniser les écritures hébraïques.
 9. Lorsqu'ils essayaient d'améliorer le dossier Genesis, ils avaient toujours peur de supprimer les documents plus anciens et primitifs. D'où tant de doubles documents. Deux récits de la création, deux récits de la création de l'homme et de la femme.
-10. Le message entier de la Genèse est "Au commencement, Dieu". Peu importe à quel point le langage est mythique ou symbolique, la VÉRITÉ est là.
+10. Le message entier de la Genèse est «Au commencement, Dieu». Peu importe à quel point le langage est mythique ou symbolique, la VÉRITÉ est là.
 11. Considérée correctement, la Genèse n'offre aucune base pour un conflit entre la science et la religion. La Genèse n'est ni science ni histoire.
-12. Dans la théologie chrétienne, la chute de l'homme devient pertinente. Paul dit : "Car, comme tous meurent en Adam, de même aussi tous revivront en Christ." [1 Cor 15:22](/fr/Bible/1_Corinthians/15#v22).
+12. Dans la théologie chrétienne, la chute de l'homme devient pertinente. Paul dit : «Car, comme tous meurent en Adam, de même aussi tous revivront en Christ.» [1 Cor 15:22](/fr/Bible/1_Corinthians/15#v22).
 
 ## X. Textes sélectionnés
 
-1. **Création**. "Au commencement, Dieu créa les cieux et la terre." [1:1](/fr/Bible/Genesis/1#v1).
-2. **Image de Dieu**. "Alors Dieu dit : 'Faisons l'homme à notre image.'" [1:26](/fr/Bible/Genesis/1#v26).
+1. **Création**. «Au commencement, Dieu créa les cieux et la terre.» [1:1](/fr/Bible/Genesis/1#v1).
+2. **Image de Dieu**. «Alors Dieu dit : 'Faisons l'homme à notre image.'» [1:26](/fr/Bible/Genesis/1#v26).
 3. **Voix dans le jardin**. « Le Seigneur Dieu appela l'homme et lui dit : 'Où es-tu ?' » [3:9](/fr/Bible/Genesis/3#v9). (Voir le Livre d'Urantia [LU 75:4.8](/fr/The_Urantia_Book/75#p4_8).)
-4. **La malédiction**. "A la sueur de ton visage tu mangeras du pain." [3:19](/fr/Bible/Genesis/3#v19).
+4. **La malédiction**. «A la sueur de ton visage tu mangeras du pain.» [3:19](/fr/Bible/Genesis/3#v19).
 5. **Gardien du frère**. « Alors le Seigneur dit à Caïn : 'Où est Abel ton frère ?' Il dit : 'Je ne sais pas ; suis-je le gardien de mon frère ?'" [4:9](/fr/Bible/Genesis/4#v9).
-6. **Traduction d'Enoch**. "Enoch marchait avec Dieu; et il n'était pas, car Dieu l'a pris." [5:24](/fr/Bible/Genesis/5#v24).
-7. **Les Néphilim**. "Les Nephilim étaient sur la terre à cette époque... quand les fils de Dieu sont venus vers les filles des hommes." [6:4](/fr/Bible/Genesis/6#v4).
-8. **L'arc-en-ciel**. "J'ai placé mon arc dans la nuée, et ce sera un signe... plus jamais... un déluge pour détruire toute chair." [9:13,15](/fr/Bible/Genesis/9#v13)..
+6. **Traduction d'Enoch**. «Enoch marchait avec Dieu; et il n'était pas, car Dieu l'a pris.» [5:24](/fr/Bible/Genesis/5#v24).
+7. **Les Néphilim**. «Les Nephilim étaient sur la terre à cette époque... quand les fils de Dieu sont venus vers les filles des hommes.» [6:4](/fr/Bible/Genesis/6#v4).
+8. **L'arc-en-ciel**. «J'ai placé mon arc dans la nuée, et ce sera un signe... plus jamais... un déluge pour détruire toute chair.» [9:13,15](/fr/Bible/Genesis/9#v13)..
 9. **Confusion de langage**. « Descendons, et là confondons leur langage, afin qu'ils ne se comprennent pas mutuellement. [11:7](/fr/Bible/Genesis/11#v7).
-10. **Melchisédek et Abraham**. "Après son retour de la défaite de Ched-or-laomer ... Melchisédek, roi de Salem, apporta du pain et du vin ... et Abram lui donna un dixième de tout." [14:17-20](/fr/Bible/Genesis/14#v17). (Voir le Livre d'Urantia [LU 93:5.13](/fr/The_Urantia_Book/93#p5_13).)
-11. **La foi d'Abraham**. "Et il crut au Seigneur, et il le lui imputa à justice." [15:6](/fr/Bible/Genesis/15#v6).
-12. **Circoncision**. "Vous serez circoncis dans la chair de vos prépuces, et ce sera un signe de l'alliance." [17:11](/fr/Bible/Genesis/17#v11).
-13. **La colonne de sel**. "Mais la femme de Lot... a regardé en arrière, et elle est devenue une statue de sel." [19:26](/fr/Bible/Genesis/19#v26).
-14. **L'échelle de Jacob**. "Et il rêva qu'il y avait une échelle posée sur la terre, et que le sommet de celle-ci atteignait le ciel; et voici, les anges de Dieu montaient et descendaient dessus!" [28:12](/fr/Bible/Genesis/28#v12).
-15. **Mispah**. "C'est pourquoi il nomma... la colonne Mitspa, car il dit : 'Le Seigneur veille entre vous et moi, quand nous sommes absents l'un de l'autre.'" [31:49](/fr/Bible/Genesis/31#v49).
-16. **Joseph en Égypte**. "Joseph était gouverneur... et les frères de Joseph vinrent et se prosternèrent devant lui." [42:6](/fr/Bible/Genesis/42#v6).
+10. **Melchisédek et Abraham**. «Après son retour de la défaite de Ched-or-laomer ... Melchisédek, roi de Salem, apporta du pain et du vin ... et Abram lui donna un dixième de tout.» [14:17-20](/fr/Bible/Genesis/14#v17). (Voir le Livre d'Urantia [LU 93:5.13](/fr/The_Urantia_Book/93#p5_13).)
+11. **La foi d'Abraham**. «Et il crut au Seigneur, et il le lui imputa à justice.» [15:6](/fr/Bible/Genesis/15#v6).
+12. **Circoncision**. «Vous serez circoncis dans la chair de vos prépuces, et ce sera un signe de l'alliance.» [17:11](/fr/Bible/Genesis/17#v11).
+13. **La colonne de sel**. «Mais la femme de Lot... a regardé en arrière, et elle est devenue une statue de sel.» [19:26](/fr/Bible/Genesis/19#v26).
+14. **L'échelle de Jacob**. «Et il rêva qu'il y avait une échelle posée sur la terre, et que le sommet de celle-ci atteignait le ciel; et voici, les anges de Dieu montaient et descendaient dessus!» [28:12](/fr/Bible/Genesis/28#v12).
+15. **Mispah**. «C'est pourquoi il nomma... la colonne Mitspa, car il dit : 'Le Seigneur veille entre vous et moi, quand nous sommes absents l'un de l'autre.'» [31:49](/fr/Bible/Genesis/31#v49).
+16. **Joseph en Égypte**. «Joseph était gouverneur... et les frères de Joseph vinrent et se prosternèrent devant lui.» [42:6](/fr/Bible/Genesis/42#v6).
 
 
 <br>

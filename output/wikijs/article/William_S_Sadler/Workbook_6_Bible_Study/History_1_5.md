@@ -138,7 +138,7 @@ Author: **William S. Sadler**
 5. The philosophers— [Hobbes](https://en.wikipedia.org/wiki/Thomas_Hobbes) and [Spinoza](https://en.wikipedia.org/wiki/Baruch_Spinoza)—attacked the idea that the Bible was “the word of God.”
 6. The philosophers asserted that the Scriptures were “faulty, mutilated, and tampered with.”
 7. In 1655 [Peyrere](https://en.wikipedia.org/wiki/Isaac_La_Peyr%C3%A8re) said mankind had been created long before Adam. The Inquisition burned him at the stake.
-8. A generation later [Richard Simon](https://en.wikipedia.org/wiki/Richard_Simon) became the father of Biblical criticism. He concluded that the Old Testament did not have its present form until after the Exile.
+8. A generation later [Richard Simon](https://en.wikipedia.org/wiki/Richard_Simon_(priest)) became the father of Biblical criticism. He concluded that the Old Testament did not have its present form until after the Exile.
 9. [Richard Bentley](https://en.wikipedia.org/wiki/Richard_Bentley) (1699) was the father of the school of evaluating Scripture by “internal evidence”—as in the two stories of creation in Gen. 1 and 2.
 10. [Johann Semler](https://en.wikipedia.org/wiki/Johann_Salomo_Semler) was father of the “historical method” of Bible criticism.
 11. [Gotthold Lessing](https://en.wikipedia.org/wiki/Gotthold_Ephraim_Lessing) (1724-1781), a German critic and dramatist, a layman, wrote a book “Nathan der Weise” in 1779. In this work he introduced a new idea—the difference between “the religion of Christ and the Christian religion.”

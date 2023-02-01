@@ -25,12 +25,9 @@ Author: **William S. Sadler**
 ## I. Motives For Writing
 
 1. There are three groups of Christian writings:
-
-a. The 27 New Testament writings.
-
-b. The Apostolic Fathers.
-
-c. The New Testament Apocrypha.
+	- a. The 27 New Testament writings.
+	- b. The Apostolic Fathers.
+	- c. The New Testament Apocrypha.
 2. The New Testament was written in everyday style of Greek. Jesus’ oral teaching was in Aramaic.
 3. In New Testament times the “letter” was a popular form of communication.
 4. One great motive for New Testament writing was to preserve the record for teaching—not to write a history.
@@ -51,25 +48,16 @@ c. The New Testament Apocrypha.
 6. There was little to choose between II Peter and other writings ascribed to Peter which were rejected.
 7. Ephesians, after Paul’s writing, was revised and edited by a later Christian author.
 8. The apocryphal writings most seriously considered by early Christians were:
-
-[I and II Clement](https://en.wikipedia.org/wiki/Epistles_of_Clement)
-
-Epistles of [Barnabas](https://en.wikipedia.org/wiki/Epistle_of_Barnabas), [Polycarp](https://en.wikipedia.org/wiki/Polycarp%27s_letter_to_the_Philippians), and [Ignatius](https://en.wikipedia.org/wiki/Ignatius_of_Antioch).
-
-[Shepherd of Hermas](https://en.wikipedia.org/wiki/The_Shepherd_of_Hermas).
-
-The [Didache](https://en.wikipedia.org/wiki/Didache).
+	- [I and II Clement](https://en.wikipedia.org/wiki/Epistles_of_Clement)
+	- Epistles of [Barnabas](https://en.wikipedia.org/wiki/Epistle_of_Barnabas), [Polycarp](https://en.wikipedia.org/wiki/Polycarp%27s_letter_to_the_Philippians), and [Ignatius](https://en.wikipedia.org/wiki/Ignatius_of_Antioch).
+	- [Shepherd of Hermas](https://en.wikipedia.org/wiki/The_Shepherd_of_Hermas).
+	- The [Didache](https://en.wikipedia.org/wiki/Didache).
 9. Among the early apologists were:
-
-[Justin Martyr](https://en.wikipedia.org/wiki/Justin_Martyr).
-
-[Aristides](http://www.earlychristianwritings.com/aristides.html).
-
-[Tatian](https://en.wikipedia.org/wiki/Tatian).
-
-[Athenagoras](https://en.wikipedia.org/wiki/Athenagoras_of_Athens).
-
-[Theophilus](https://en.wikipedia.org/wiki/Theophilus_of_Antioch).
+	- [Justin Martyr](https://en.wikipedia.org/wiki/Justin_Martyr).
+	- [Aristides](http://www.earlychristianwritings.com/aristides.html).
+	- [Tatian](https://en.wikipedia.org/wiki/Tatian).
+	- [Athenagoras](https://en.wikipedia.org/wiki/Athenagoras_of_Athens).
+	- [Theophilus](https://en.wikipedia.org/wiki/Theophilus_of_Antioch).
 
 
 <br>

@@ -59,28 +59,28 @@ Auteur: **William S. Sadler**
 1. [Phil. 3:8-14](/fr/Bible/Philippians/3#v8) est probablement le passage le plus émouvant et le plus élevé que Paul ait jamais écrit.
 2. La tendance rythmique de [2:5-11](/fr/Bible/Philippians/2#v5) suggère qu'il s'agissait peut-être à l'origine d'un hymne.
 3. Les femmes étaient importantes dans l'église de Philippes, notamment Lydia. Paul était au courant des petites cliques et des petites rivalités dans l'église.
-4. Paul ne s'attendait plus à voir le Seigneur venir un jour sur "les nuées du ciel". Il se réconciliait avec l'idée de la mort.
+4. Paul ne s'attendait plus à voir le Seigneur venir un jour sur «les nuées du ciel». Il se réconciliait avec l'idée de la mort.
 5. Il y a peu d'arguments théologiques dans cette lettre et elle se termine différemment de ses autres épîtres. La fin (voir [4:8](/fr/Bible/Philippians/4#v8)) est suivie du post-scriptum.
 6. Le ton joyeux de cette lettre suggère que Paul s'attendait à sortir de prison bientôt.
-7. Cela a été appelé l'épître "de joie" parce que le mot est si fréquemment utilisé.
+7. Cela a été appelé l'épître «de joie» parce que le mot est si fréquemment utilisé.
 8. C'est la plus personnelle et la plus touchante des lettres de Paul.
-9. De tous les écrits de Paul, celui-ci ressemble plus à une "lettre" - juste un message amical à son troupeau de Philippes.
+9. De tous les écrits de Paul, celui-ci ressemble plus à une «lettre» - juste un message amical à son troupeau de Philippes.
 
 ## IV. Textes sélectionnés
 
-1. **Le souhait de Paul pour nous**. "Et ma prière est que votre amour abonde de plus en plus, avec connaissance et tout discernement, afin que vous puissiez approuver ce qui est excellent, et que vous soyez purs et irréprochables pour le jour du Christ." [1:9,10](/fr/Bible/Philippians/1#v9).
-2. **L'emprisonnement de Paul**. "Et la plupart des frères ont été rendus confiants dans le Seigneur à cause de mon emprisonnement, et sont beaucoup plus audacieux pour dire la parole de Dieu sans crainte." [1:14](/fr/Bible/Philippians/1#v14).
-3. **Le bénéfice assuré**. "Car pour moi, vivre c'est Christ, et mourir est un gain." [1:21](/fr/Bible/Philippians/1#v21).
-4. **La vraie humilité**. "Ne faites rien par égoïsme ou vanité, mais dans l'humilité comptez les autres mieux que vous-mêmes." [2:3](/fr/Bible/Philippians/2#v3).
-5. **L'incarnation**. "Et étant trouvé sous une forme humaine, il s'est humilié et est devenu obéissant jusqu'à la mort, même la mort sur une croix." [2:8](/fr/Bible/Philippians/2#v8).
+1. **Le souhait de Paul pour nous**. «Et ma prière est que votre amour abonde de plus en plus, avec connaissance et tout discernement, afin que vous puissiez approuver ce qui est excellent, et que vous soyez purs et irréprochables pour le jour du Christ.» [1:9,10](/fr/Bible/Philippians/1#v9).
+2. **L'emprisonnement de Paul**. «Et la plupart des frères ont été rendus confiants dans le Seigneur à cause de mon emprisonnement, et sont beaucoup plus audacieux pour dire la parole de Dieu sans crainte.» [1:14](/fr/Bible/Philippians/1#v14).
+3. **Le bénéfice assuré**. «Car pour moi, vivre c'est Christ, et mourir est un gain.» [1:21](/fr/Bible/Philippians/1#v21).
+4. **La vraie humilité**. «Ne faites rien par égoïsme ou vanité, mais dans l'humilité comptez les autres mieux que vous-mêmes.» [2:3](/fr/Bible/Philippians/2#v3).
+5. **L'incarnation**. «Et étant trouvé sous une forme humaine, il s'est humilié et est devenu obéissant jusqu'à la mort, même la mort sur une croix.» [2:8](/fr/Bible/Philippians/2#v8).
 6. **Travailler au salut**. « Travaillez à votre propre salut avec crainte et tremblement. [2:12](/fr/Bible/Philippians/2#v12).
-7. **Partager la vie du Christ**. "Afin que je puisse le connaître ainsi que la puissance de sa résurrection, et que je puisse partager ses souffrances, devenant comme lui dans sa mort." [3:10](/fr/Bible/Philippians/3#v10).
-8. **Le regard vers l'avenir**. "Mais une chose que je fais, oubliant ce qui est derrière et tendant vers ce qui est devant, je cours vers le but pour le prix de l'appel céleste de Dieu en Jésus-Christ." [3:13,14](/fr/Bible/Philippians/3#v13).
-9. **Paix de Dieu**. "Ne vous inquiétez de rien, mais en tout, par la prière et la supplication avec action de grâces, faites connaître vos demandes à Dieu. Et la paix de Dieu, qui surpasse toute intelligence, gardera vos cœurs et vos pensées en Jésus-Christ." [4:6,7](/fr/Bible/Philippians/4#v6).
-10. **La vie du Christ**. "Enfin, frères, tout ce qui est vrai, tout ce qui est honorable, tout ce qui est juste, tout ce qui est pur, tout ce qui est beau, tout ce qui est gracieux, s'il y a quelque excellence, s'il y a quelque chose digne de louange, pensez à ces choses." [4:3](/fr/Bible/Philippians/4#v3).
-11. **Satisfaction**. "J'ai appris, quel que soit mon état, à être content." [4:11](/fr/Bible/Philippians/4#v11).
-12. **Force divine**. "Je puis tout en celui qui me fortifie." [4:13](/fr/Bible/Philippians/4#v13).
-13. **Répondre à nos besoins**. "Et mon Dieu pourvoira à tous vos besoins selon sa richesse avec gloire en Jésus-Christ." [4:19](/fr/Bible/Philippians/4#v19).
+7. **Partager la vie du Christ**. «Afin que je puisse le connaître ainsi que la puissance de sa résurrection, et que je puisse partager ses souffrances, devenant comme lui dans sa mort.» [3:10](/fr/Bible/Philippians/3#v10).
+8. **Le regard vers l'avenir**. «Mais une chose que je fais, oubliant ce qui est derrière et tendant vers ce qui est devant, je cours vers le but pour le prix de l'appel céleste de Dieu en Jésus-Christ.» [3:13,14](/fr/Bible/Philippians/3#v13).
+9. **Paix de Dieu**. «Ne vous inquiétez de rien, mais en tout, par la prière et la supplication avec action de grâces, faites connaître vos demandes à Dieu. Et la paix de Dieu, qui surpasse toute intelligence, gardera vos cœurs et vos pensées en Jésus-Christ.» [4:6,7](/fr/Bible/Philippians/4#v6).
+10. **La vie du Christ**. «Enfin, frères, tout ce qui est vrai, tout ce qui est honorable, tout ce qui est juste, tout ce qui est pur, tout ce qui est beau, tout ce qui est gracieux, s'il y a quelque excellence, s'il y a quelque chose digne de louange, pensez à ces choses.» [4:3](/fr/Bible/Philippians/4#v3).
+11. **Satisfaction**. «J'ai appris, quel que soit mon état, à être content.» [4:11](/fr/Bible/Philippians/4#v11).
+12. **Force divine**. «Je puis tout en celui qui me fortifie.» [4:13](/fr/Bible/Philippians/4#v13).
+13. **Répondre à nos besoins**. «Et mon Dieu pourvoira à tous vos besoins selon sa richesse avec gloire en Jésus-Christ.» [4:19](/fr/Bible/Philippians/4#v19).
 
 
 <br>

@@ -34,7 +34,7 @@ Avant la Septante, le Premier et le Deuxième Samuel formaient un seul livre.
 
 ## II. OUTLINB-COMPLETE
 
-### 1Samuel
+### 1 Samuel
 
 1. Enfance de Samuel. [1:1-3:21](/fr/Bible/1_Samuel/1#v1).
 	- A. Naissance et Dédicace. [1:1-28](/fr/Bible/1_Samuel/1#v1).
@@ -52,7 +52,7 @@ Avant la Septante, le Premier et le Deuxième Samuel formaient un seul livre.
 	- C. L'Onction de Saul. [9:1-10:16](/fr/Bible/1_Samuel/9#v1).
 	- D. Élection de Saül. [10:17-27](/fr/Bible/1_Samuel/10#v17).
 	- E. Soulagement de Jabesh-Gilead. [11:1-15](/fr/Bible/1_Samuel/11#v1).
-	- Adieu de F. Samuel. [12:1-25](/fr/Bible/1_Samuel/12#v1).
+	- F. Adieu de Samuel. [12:1-25](/fr/Bible/1_Samuel/12#v1).
 4. Guerre d'Indépendance. [13:1-14:52](/fr/Bible/1_Samuel/13#v1).
 	- A. Préparatifs de guerre. [13:1-23](/fr/Bible/1_Samuel/13#v1).
 	- B. Exploit de Jonathan. [14:1-46](/fr/Bible/1_Samuel/14#v1).
@@ -76,8 +76,10 @@ Avant la Septante, le Premier et le Deuxième Samuel formaient un seul livre.
 	- E. Trahison des Ziphites. [23:14-24:22](/fr/Bible/1_Samuel/23#v14).
 	- F. David et Abigaïl. [25:1-44](/fr/Bible/1_Samuel/25#v1).
 	- G. Guerre des Philistins contre Saül. [27:1-31:13](/fr/Bible/1_Samuel/27#v1).
-	- A. Saul et Sorcière d'Endor. [28:3-25](/fr/Bible/1_Samuel/28#v3).
-	-B.
+8. Guerre des Philistins contre Saül. [27:1-31:13](https://en/Bible/1_Samuel/27#v1).
+	- A. La vassalité de David envers Akish. [27:1-28:2](/fr/Bible/1_Samuel/27#v1).
+	- B. Saul et Sorcière d'Endor. [28:3-25](/fr/Bible/1_Samuel/28#v3).
+	- C. Licenciement de David. [29:1-11](/fr/Bible/1_Samuel/29#v1).
 	- D. Raid sur Ziklag. [30:1-31](/fr/Bible/1_Samuel/30#v1).
 	- E. Bataille du mont Gilboa. [31:1-13](/fr/Bible/1_Samuel/31#v1).
 
@@ -133,10 +135,10 @@ Avant la Septante, le Premier et le Deuxième Samuel formaient un seul livre.
 	- G. Goliath est tué par David et par Elhanan.
 3. Le livre a été entièrement remanié et réécrit par D.
 4. Samuel est l'une des histoires les plus brillamment écrites de l'Antiquité - 500 ans avant Hérodote
-5. D et P ont transformé Samuel, un voyant du village, en un "puissant prophète".
+5. D et P ont transformé Samuel, un voyant du village, en un «puissant prophète».
 6. Samuel est un chef-d'œuvre d'histoire, de perspicacité psychologique, de style littéraire et de puissance dramatique.
 
-**Remarque** : le maréchal Allenby, lorsqu'il était en Palestine en 1918, a examiné le récit du champ de bataille de l'attaque de Jonathan contre la garnison philistine (1 Sam. [14:1-23](/fr/Bible/1_Samuel/14#v1)) et a pu identifier le rocher "au nord devant Michmash, et l'autre au sud devant Geba". Il a qualifié la stratégie de Jonathan de solide.
+**Remarque** : le maréchal Allenby, lorsqu'il était en Palestine en 1918, a examiné le récit du champ de bataille de l'attaque de Jonathan contre la garnison philistine ([1 Sam. 14:1-23](/fr/Bible/1_Samuel/14#v1)) et a pu identifier le rocher «au nord devant Michmash, et l'autre au sud devant Geba». Il a qualifié la stratégie de Jonathan de solide.
 
 ## IV. Valeur historique
 
@@ -172,48 +174,48 @@ Avant la Septante, le Premier et le Deuxième Samuel formaient un seul livre.
 7. Lorsque Saül ne put trouver de réconfort auprès des prophètes, il retourna à la nécromancie - il consulta la sorcière d'Endor.
 8. Il y avait beaucoup de loterie dans la théologie hébraïque - découvrir la volonté divine en tirant au sort.
 9. Les premiers prophètes étaient associés à la « frénésie extatique ». À certains égards, c'était comme les derviches danseurs.
-10. Platon considérait tous les prophètes comme étant affligés d'une sorte de "folie divine".
-11. Dans la religion juive, la transe extatique jouait le rôle que "parler en langues" jouait dans la religion chrétienne primitive.
-12. Paul a averti l'église de Corinthe qu'il y avait beaucoup plus de dons spirituels précieux que "le parler en langues".
-13. Samuel et Nathan étaient tous deux des types de prophéties "avancées". Ils fonctionnaient sans frénésie extatique ni visions de transe.
+10. Platon considérait tous les prophètes comme étant affligés d'une sorte de «folie divine».
+11. Dans la religion juive, la transe extatique jouait le rôle que «parler en langues» jouait dans la religion chrétienne primitive.
+12. Paul a averti l'église de Corinthe qu'il y avait beaucoup plus de dons spirituels précieux que «le parler en langues».
+13. Samuel et Nathan étaient tous deux des types de prophéties «avancées». Ils fonctionnaient sans frénésie extatique ni visions de transe.
 14. Lors d'occasions spéciales, Samuel eut des visions, mais pas Nathan.
 15. Les nations autour d'Israël avaient leurs dieux tribaux :
 	- A. Chemosh-dieu de Moab.
 	- B. Melek-dieu d'Ammon.
 	- C. Dagon-dieu des Philistins.
-16. Mais à la différence de ces dieux tribaux, Yahweh a continué à grandir, à devenir le Dieu de toute la création, "Roi des rois et Seigneur des seigneurs".
+16. Mais à la différence de ces dieux tribaux, Yahweh a continué à grandir, à devenir le Dieu de toute la création, «Roi des rois et Seigneur des seigneurs».
 17. De temps à autre, Israël revenait au nationalisme, comme dans le cas de Néhémie et d'Esdras.
 18. Nous avons tous des problèmes avec l'éthique de Yahweh, qui pourrait ordonner l'extermination complète de peuples entiers. Mais c'était une pratique courante chez les Sémites.
 19. Les Hébreux s'accrochaient encore à leurs vieux concepts de Providence-Yahweh, Dieu de l'histoire, Seigneur de la vie et de la mort. Tout succès est la récompense de la vertu.
-20. Le concept du peuple élu - l'élection d'Israël - est toujours prédominant. Les fils d'Eli ne se sont pas réformés parce que c'était "la volonté de Dieu de les tuer".
+20. Le concept du peuple élu - l'élection d'Israël - est toujours prédominant. Les fils d'Eli ne se sont pas réformés parce que c'était «la volonté de Dieu de les tuer».
 21. La théologie hébraïque est imprégnée de l'idée d'une nation entière souffrant à cause du péché d'un individu.
 22. Plus tard, Jérémie et Ézéchiel ont essayé de modifier ce concept de punir l'innocent pour les péchés des autres.
 
 ## VI. Textes sélectionnés
 
-### 1Samuel
+### 1 Samuel
 
-1. **Samuel grandit**. "Maintenant, le garçon Samuel a continué à croître à la fois en stature et en faveur auprès du Seigneur et des hommes." [2:26](/fr/Bible/1_Samuel/2#v26).
-2. **Eli apprend une mauvaise nouvelle**. "'Israël s'est enfui devant les Philistins, et il y a eu aussi un grand carnage... Vos deux fils aussi... sont morts, et l'arche de Dieu a été prise.'" [4:17](/fr/ Bible/1_Samuel/4#v17).
-3. **Retour de l'arche**. "" Renvoyez l'arche du Dieu d'Israël, et laissez-la retourner à sa place, afin qu'elle ne nous tue pas, nous et notre peuple. "" [5:11](/fr/Bible/1_Samuel/5#v11) .
-4. **Clameur pour un roi**. «                                                                                                »
-5. **Saul oint**. "Alors Samuel prit une fiole d'huile et la versa sur sa tête, et l'embrassa et dit: 'L'Éternel ne t'a-t-il pas oint pour être prince sur son peuple Israël?'" [10:1](/fr/Bible/1_Samuel /10#v1).
-6. **Obéissance contre sacrifice**. "'Voici, obéir vaut mieux que le sacrifice, et écouter que la graisse des béliers.'" [15:22](/fr/Bible/1_Samuel/15#v22).
-7. **Dieu se repent**. "Et l'Éternel se repentit d'avoir établi Saül roi sur Israël." [15:35](/fr/Bible/1_Samuel/15#v35).
-8. **Dieu envoie un mauvais esprit**. "L'Esprit du Seigneur se retira de Saül, et un mauvais esprit venant du Seigneur le tourmenta." [16:14](/fr/Bible/1_Samuel/16#v14).
-9. **David tue Goliath**. "Et David mit sa main dans son sac et en sortit une pierre, et la jeta, et frappa le Philistin sur son front... et il tomba le visage contre terre." [17:49](/fr/Bible/1_Samuel/17#v49).
-10. **Manger le pain sacré**. "Alors le prêtre lui donna le pain sacré, car il n'y avait là de pain que le pain de la Présence." [21:6](/fr/Bible/1_Samuel/21#v6).
-11. **La grotte d'Adullam**. "David ... s'est échappé dans la grotte d'Adullam ... et tous ceux qui étaient en détresse, et tous ceux qui avaient des dettes, et tous ceux qui étaient mécontents, se sont rassemblés auprès de lui; et il est devenu leur capitaine." [22:1,2](/fr/Bible/1_Samuel/22#v1).
-12. **Saül consulte un médium**. "Alors Saül se déguisa... et vint vers la femme de nuit... et il dit : 'Fais-moi monter Samuel.'" [28:8,11](/fr/Bible/1_Samuel/28#v8) .
-13. **Saül s'est suicidé**. "Saül prit sa propre épée et tomba dessus." [31:4](/fr/Bible/1_Samuel/31#v4).
+1. **Samuel grandit**. «Maintenant, le garçon Samuel a continué à croître à la fois en stature et en faveur auprès du Seigneur et des hommes.» [2:26](/fr/Bible/1_Samuel/2#v26).
+2. **Eli apprend une mauvaise nouvelle**. «'Israël s'est enfui devant les Philistins, et il y a eu aussi un grand carnage... Vos deux fils aussi... sont morts, et l'arche de Dieu a été prise.'» [4:17](/fr/ Bible/1_Samuel/4#v17).
+3. **Retour de l'arche**. «» Renvoyez l'arche du Dieu d'Israël, et laissez-la retourner à sa place, afin qu'elle ne nous tue pas, nous et notre peuple. «» [5:11](/fr/Bible/1_Samuel/5#v11) .
+4. **Clameur pour un roi**. «'Vous êtes vieux ... nommez-nous maintenant un roi pour nous gouverner comme toutes les nations.'» [8:5](/fr/Bible/1_Samuel/8#v5).
+5. **Saul oint**. «Alors Samuel prit une fiole d'huile et la versa sur sa tête, et l'embrassa et dit: 'L'Éternel ne t'a-t-il pas oint pour être prince sur son peuple Israël?'» [10:1](/fr/Bible/1_Samuel /10#v1).
+6. **Obéissance contre sacrifice**. «'Voici, obéir vaut mieux que le sacrifice, et écouter que la graisse des béliers.'» [15:22](/fr/Bible/1_Samuel/15#v22).
+7. **Dieu se repent**. «Et l'Éternel se repentit d'avoir établi Saül roi sur Israël.» [15:35](/fr/Bible/1_Samuel/15#v35).
+8. **Dieu envoie un mauvais esprit**. «L'Esprit du Seigneur se retira de Saül, et un mauvais esprit venant du Seigneur le tourmenta.» [16:14](/fr/Bible/1_Samuel/16#v14).
+9. **David tue Goliath**. «Et David mit sa main dans son sac et en sortit une pierre, et la jeta, et frappa le Philistin sur son front... et il tomba le visage contre terre.» [17:49](/fr/Bible/1_Samuel/17#v49).
+10. **Manger le pain sacré**. «Alors le prêtre lui donna le pain sacré, car il n'y avait là de pain que le pain de la Présence.» [21:6](/fr/Bible/1_Samuel/21#v6).
+11. **La grotte d'Adullam**. «David ... s'est échappé dans la grotte d'Adullam ... et tous ceux qui étaient en détresse, et tous ceux qui avaient des dettes, et tous ceux qui étaient mécontents, se sont rassemblés auprès de lui; et il est devenu leur capitaine.» [22:1,2](/fr/Bible/1_Samuel/22#v1).
+12. **Saül consulte un médium**. «Alors Saül se déguisa... et vint vers la femme de nuit... et il dit : 'Fais-moi monter Samuel.'» [28:8,11](/fr/Bible/1_Samuel/28#v8) .
+13. **Saül s'est suicidé**. «Saül prit sa propre épée et tomba dessus.» [31:4](/fr/Bible/1_Samuel/31#v4).
 
 ### 2 Samuel
 
-14. **David oint**. "Et les hommes de Juda vinrent, et là ils oignirent David roi sur la maison de Juda." [2:4](/fr/Bible/2_Samuel/2#v4).
-15. **David fait roi sur Israël**. "Alors tous les anciens d'Israël vinrent vers le roi à Hébron... et ils oignirent David roi sur Israël." [5:3](/fr/Bible/2_Samuel/5#v3).
-16. **L'arche arrive à Jérusalem**. "Et ils apportèrent l'arche de l'Éternel, et la mirent à sa place, dans la tente que David avait dressée pour elle." [6:17](/fr/Bible/2_Samuel/6#v17).
-17. **Vous êtes l'homme**. "Nathan dit à David: 'C'est toi l'homme..."Tu as frappé Urie le Hittite avec l'épée, et tu as pris sa femme."'" [12:7,9](/fr/Bible/2_Samuel/12 #v7).
-18. **Mort d'Absalom**. "Il a pris trois fléchettes dans sa main et les a enfoncées dans le cœur d'Absalom, alors qu'il était encore vivant dans le chêne." [18:14](/fr/Bible/2_Samuel/18#v14).
+14. **David oint**. «Et les hommes de Juda vinrent, et là ils oignirent David roi sur la maison de Juda.» [2:4](/fr/Bible/2_Samuel/2#v4).
+15. **David fait roi sur Israël**. «Alors tous les anciens d'Israël vinrent vers le roi à Hébron... et ils oignirent David roi sur Israël.» [5:3](/fr/Bible/2_Samuel/5#v3).
+16. **L'arche arrive à Jérusalem**. «Et ils apportèrent l'arche de l'Éternel, et la mirent à sa place, dans la tente que David avait dressée pour elle.» [6:17](/fr/Bible/2_Samuel/6#v17).
+17. **Vous êtes l'homme**. «Nathan dit à David: 'C'est toi l'homme...»Tu as frappé Urie le Hittite avec l'épée, et tu as pris sa femme.«'» [12:7,9](/fr/Bible/2_Samuel/12 #v7).
+18. **Mort d'Absalom**. «Il a pris trois fléchettes dans sa main et les a enfoncées dans le cœur d'Absalom, alors qu'il était encore vivant dans le chêne.» [18:14](/fr/Bible/2_Samuel/18#v14).
 19. **David et le recensement**. « La colère de l'Éternel s'enflamma contre Israël, et il excita David contre eux, en disant : 'Allez, dénombrez Israël et Juda.' » [24:1](/fr/Bible/2_Samuel/24#v1).
 
 

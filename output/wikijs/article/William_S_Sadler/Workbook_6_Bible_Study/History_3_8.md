@@ -54,10 +54,10 @@ Author: **William S. Sadler**
 29. New troubles developed. Jews came down to Antioch from Jerusalem, insisting that the only way to enter the Christian church was through Judaism.
 30. Paul and Barnabas went to Jerusalem to settle this dispute. This was their second, trip—14 years after the first.
 31. Peter came to their defense. The Jerusalem council decided that the only requirement of gentiles would be to abstain from:
-	Blood.
-	Food offered to idols.
-	Things strangled.
-	Fornication.
+	- Blood.
+	- Food offered to idols.
+	- Things strangled.
+	- Fornication.
 32. Peter visited Antioch and ate with gentiles, but, when confronted by the Jerusalem Jews, backed down.
 33. Paul and Barnabas decided to undertake the second missionary tour. Barnabas wanted to take John Mark—Paul said no. So Barnabas and Mark left Paul to make the journey alone.
 34. Paul then decided to take Silas from Jerusalem. They visited the churches established on their first trip. At Lystra they met Timothy, who joined them for the rest of the tour.

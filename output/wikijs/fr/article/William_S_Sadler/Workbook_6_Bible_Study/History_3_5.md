@@ -26,9 +26,9 @@ Auteur: **William S. Sadler**
 
 ## I. L'âge hellénistique
 
-1. L'[âge hellénistique](https://en.wikipedia.org/wiki/Hellenistic_civilization) s'étend de la mort d'Alexandre à la fondation de l'Empire romain.
-2. Les armées, les vendeurs, les colons, les artistes et les philosophes ont répandu le "sort de l'esprit grec" dans le monde entier.
-3. La culture et la langue hellénistiques se sont répandues dans tout l'Empire romain. C'était: "l'importance de l'individu."
+1. L'[âge hellénistique](https://fr.wikipedia.org/wiki/%C3%89poque_hell%C3%A9nistique) s'étend de la mort d'Alexandre à la fondation de l'Empire romain.
+2. Les armées, les vendeurs, les colons, les artistes et les philosophes ont répandu le «sort de l'esprit grec» dans le monde entier.
+3. La culture et la langue hellénistiques se sont répandues dans tout l'Empire romain. C'était: «l'importance de l'individu.»
 4. La Mésopotamie et l'Égypte étaient en déclin. L'Égypte est devenue une province romaine à la bataille d'Actium, 30 av.
 5. Athènes est devenue le centre culturel de l'Empire.
 6. Alexandre a laissé les Juifs sans être inquiétés - ils étaient pratiquement indépendants.
@@ -50,10 +50,10 @@ Auteur: **William S. Sadler**
 12. Les chrétiens partageaient la recherche de Platon de la « vérité absolue » comme modèle de vie.
 13. La croyance de Platon en l'immortalité de l'âme a charmé les chrétiens, bien que Platon ne croie pas en la survie du corps physique.
 14. Aristote, élève de Platon et tuteur d'Alexandre, enseignait que tout objet était composé de substance et d'attributs.
-15. Le mouvement, a-t-il enseigné, prouve l'existence d'un "moteur principal". Ce moteur principal est infini et c'est ce que les religionistes appellent Dieu.
+15. Le mouvement, a-t-il enseigné, prouve l'existence d'un «moteur principal». Ce moteur principal est infini et c'est ce que les religionistes appellent Dieu.
 16. Thomas d'Aquin a enseigné que la doctrine de la transsubstantiation dans la Cène du Seigneur était basée sur Aristote.
 17. L'épicurisme était une tentative d'ignorer à la fois la science et la religion - le simple accomplissement du désir naturel. Mais ce n'était pas une philosophie sensuelle.
-18. Le stoïcisme était répandu pendant cette période. Paul était en quelque sorte un stoïcien - "J'ai appris à me contenter de quelque état que ce soit."
+18. Le stoïcisme était répandu pendant cette période. Paul était en quelque sorte un stoïcien - «J'ai appris à me contenter de quelque état que ce soit.»
 19. Marc Aurèle était un stoïcien, également Sénèque. Ils insistaient sur l'unité et la raison.
 20. La raison était l'âme du monde. L'intelligence de l'homme est un fragment de la raison universelle et vivante.
 21. Tous les hommes sont fils de Dieu — la fraternité universelle. Ils ont cherché à ignorer l'émotion.
@@ -91,7 +91,7 @@ Auteur: **William S. Sadler**
 13. Grec, l'art gagne du terrain chez les juifs. Les synagogues sont richement décorées de scènes bibliques.
 14. L'antisémitisme est suscité par le refus des Juifs de s'assimiler - leur isolement racial.
 15. Les Juifs ont subi des persécutions en Égypte et à Rome.
-16. Les premiers chrétiens ont été persécutés à Rome parce que l'empereur considérait le christianisme comme une secte juive. Plus tard, ils ont souffert parce qu'ils se sont accrochés à l'idée du " royaume des cieux ".
+16. Les premiers chrétiens ont été persécutés à Rome parce que l'empereur considérait le christianisme comme une secte juive. Plus tard, ils ont souffert parce qu'ils se sont accrochés à l'idée du « royaume des cieux ».
 
 
 <br>

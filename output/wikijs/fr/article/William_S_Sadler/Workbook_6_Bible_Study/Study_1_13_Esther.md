@@ -39,15 +39,15 @@ Auteur: **William S. Sadler**
 	- F. Attentat à la vie du roi. [2:19-23](/fr/Bible/Esther/2#v19).
 2. Querelle entre Haman et Mardochée. [3:1-9:19](/fr/Bible/Esther/3#v1)
 	- A. Haman et Mardochée. [3:1-6](/fr/Bible/Esther/3#v1).
-	- Complot de B. Haman. [3:7-15](/fr/Bible/Esther/3#v7).
-	- Le plan de C. Mardochée. [4:1-17](/fr/Bible/Esther/4#v1).
-	- Audience de D. Esther. [5:1-8](/fr/Bible/Esther/5#v1).
+	- B. Complot de Haman. [3:7-15](/fr/Bible/Esther/3#v7).
+	- C. Le plan de Mardochée. [4:1-17](/fr/Bible/Esther/4#v1).
+	- D. Audience de Esther. [5:1-8](/fr/Bible/Esther/5#v1).
 	- E. Pride va avant une chute. [5:9-14](/fr/Bible/Esther/5#v9).
 	- F. Un service non récompensé. [6:1-5](/fr/Bible/Esther/6#v1).
-	- L'humiliation de G. Haman. [6:6-14](/fr/Bible/Esther/6#v6).
-	- La Chute de H. Haman. [7:1-10](/fr/Bible/Esther/7#v1).
+	- G. L'humiliation de Haman. [6:6-14](/fr/Bible/Esther/6#v6).
+	- H. La Chute de Haman. [7:1-10](/fr/Bible/Esther/7#v1).
 	- I. L'avancement de Mardochée. [8:1,2](/fr/Bible/Esther/8#v1).
-	- Pétition de J. Esther. [8:3-8](/fr/Bible/Esther/8#v3).
+	- J. Pétition de Esther. [8:3-8](/fr/Bible/Esther/8#v3).
 	- K. Un nouveau décret. [8:9-14](/fr/Bible/Esther/8#v9).
 	- L. Réaction populaire. [8:15-17](/fr/Bible/Esther/8#v15).
 	- M. Jour de Vengeance. [9:1-10](/fr/Bible/Esther/9#v1).
@@ -93,20 +93,20 @@ Auteur: **William S. Sadler**
 8. Esther est certainement contraire à l'enseignement du Second Isaïe et de Jésus de Nazareth.
 9. Esther est devenue populaire parmi les Juifs parce que Pourim a toujours été une fête populaire et festive.
 
-##VII. Textes sélectionnés
+## VII. Textes sélectionnés
 
-1. **Soin de beauté**. "Or, quand vint le tour pour chaque jeune fille d'entrer chez le roi Assuérus, après avoir été douze mois sous les règlements pour les femmes, puisque c'était la période régulière de leur embellissement, six mois avec de l'huile de myrrhe et six mois avec des épices et onguents." [2:12](/fr/Bible/Esther/2#v12).
-2. **Esther devient reine**. "Le roi aimait Esther plus que toutes les femmes ... de sorte qu'il a placé la couronne royale sur sa tête et l'a faite reine." [2:17](/fr/Bible/Esther/2#v17).
-3. **Haman cherche la destruction des Juifs**. "Quand Haman a vu que Mardochée ne se prosternait pas... devant lui... Haman a cherché à détruire tous les Juifs." [3:5,6](/fr/Bible/Esther/3#v5).
-4. **Édit pour la destruction des Juifs**. "Des lettres ont été envoyées... pour détruire... tous les Juifs." [3:13](/fr/Bible/Esther/3#v13).
-5. **Pendant un tel moment**. "'Et qui sait si tu n'es pas venu dans le royaume pour un temps comme celui-ci?'" [4:14](/fr/Bible/Esther/4#v14).
-6. **La potence**. "'Qu'une potence... soit faite... dis au roi d'y faire pendre Mardochée.'" [5:14](/fr/Bible/Esther/5#v14).
-7. **La gentillesse de Mardochée**. "Et il a été trouvé écrit comment Mardochée avait parlé de ... deux des eunuques du roi ... qui avaient cherché à mettre la main sur le roi Assuérus." [6:2](/fr/Bible/Esther/6#v2).
-8. **Mardochée honoré**. "Alors le roi dit à Haman: 'Hâte-toi, prends les robes et le cheval, comme tu l'as dit, et fais ainsi à Mardochée le Juif.'" [6:10](/fr/Bible/Esther/6#v10 ).
-9. **Le roi pend Haman**. "Alors la reine Esther répondit..." Que ma vie me soit donnée... et à mon peuple. Car nous devons... être détruits "... Alors le roi Assuérus répondit... "Qui est-il... qui oserait-il le faire ? » Et Esther dit... 'Ce méchant Haman.'" [7:3-6](/fr/Bible/Esther/7#v3).
-	"Alors dit... l'un des eunuques... 'la potence qu'Haman a préparée pour Mardochée... est debout...' Et le roi dit: 'Pendez-le...' Alors ils pendirent Haman à la potence qu'il avait préparé pour Mardochée." [7:9,10](/fr/Bible/Esther/7#v9).
-10. **Les Juifs sauvés**. "'Et tu pourras écrire ce que tu voudras au sujet des Juifs, au nom du roi.'" [8:8](/fr/Bible/Esther/8#v8).
-11. **Origine de Pourim**. "C'est pourquoi ils ont appelé ces jours-ci Pourim, d'après le terme Pur." [9:26](/fr/Bible/Esther/9#v26).
+1. **Soin de beauté**. «Or, quand vint le tour pour chaque jeune fille d'entrer chez le roi Assuérus, après avoir été douze mois sous les règlements pour les femmes, puisque c'était la période régulière de leur embellissement, six mois avec de l'huile de myrrhe et six mois avec des épices et onguents.» [2:12](/fr/Bible/Esther/2#v12).
+2. **Esther devient reine**. «Le roi aimait Esther plus que toutes les femmes ... de sorte qu'il a placé la couronne royale sur sa tête et l'a faite reine.» [2:17](/fr/Bible/Esther/2#v17).
+3. **Haman cherche la destruction des Juifs**. «Quand Haman a vu que Mardochée ne se prosternait pas... devant lui... Haman a cherché à détruire tous les Juifs.» [3:5,6](/fr/Bible/Esther/3#v5).
+4. **Édit pour la destruction des Juifs**. «Des lettres ont été envoyées... pour détruire... tous les Juifs.» [3:13](/fr/Bible/Esther/3#v13).
+5. **Pendant un tel moment**. «'Et qui sait si tu n'es pas venu dans le royaume pour un temps comme celui-ci?'» [4:14](/fr/Bible/Esther/4#v14).
+6. **La potence**. «'Qu'une potence... soit faite... dis au roi d'y faire pendre Mardochée.'» [5:14](/fr/Bible/Esther/5#v14).
+7. **La gentillesse de Mardochée**. «Et il a été trouvé écrit comment Mardochée avait parlé de ... deux des eunuques du roi ... qui avaient cherché à mettre la main sur le roi Assuérus.» [6:2](/fr/Bible/Esther/6#v2).
+8. **Mardochée honoré**. «Alors le roi dit à Haman: 'Hâte-toi, prends les robes et le cheval, comme tu l'as dit, et fais ainsi à Mardochée le Juif.'» [6:10](/fr/Bible/Esther/6#v10 ).
+9. **Le roi pend Haman**. «Alors la reine Esther répondit...» Que ma vie me soit donnée... et à mon peuple. Car nous devons... être détruits «... Alors le roi Assuérus répondit... »Qui est-il... qui oserait-il le faire ? » Et Esther dit... 'Ce méchant Haman.'" [7:3-6](/fr/Bible/Esther/7#v3).
+	«Alors dit... l'un des eunuques... 'la potence qu'Haman a préparée pour Mardochée... est debout...' Et le roi dit: 'Pendez-le...' Alors ils pendirent Haman à la potence qu'il avait préparé pour Mardochée.» [7:9,10](/fr/Bible/Esther/7#v9).
+10. **Les Juifs sauvés**. «'Et tu pourras écrire ce que tu voudras au sujet des Juifs, au nom du roi.'» [8:8](/fr/Bible/Esther/8#v8).
+11. **Origine de Pourim**. «C'est pourquoi ils ont appelé ces jours-ci Pourim, d'après le terme Pur.» [9:26](/fr/Bible/Esther/9#v26).
 
 
 <br>

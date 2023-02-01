@@ -60,7 +60,7 @@ Les Juifs sous les Séleucides
 11. Les sacrifices du temple ont été suspendus. La circoncision était interdite. Le sabbat a été annulé.
 12. Mais le sommet de tous était en décembre 167 avant JC quand ils ont érigé un autel dans le temple et ont offert un porc en sacrifice.
 13. C'est sans aucun doute « l'abomination de la désolation » dont parle Daniel. Dan. 9h27.
-14. Et tout cela culmine dans le déclenchement de la [rébellion des Maccabées](https://en.wikipedia.org/wiki/Maccabees).
+14. Et tout cela culmine dans le déclenchement de la [rébellion des Maccabées](https://fr.wikipedia.org/wiki/Maccab%C3%A9es).
 15. Antiochus dit : « Je n'ai pas voulu supprimer le culte de Yahweh – je voulais seulement l'unir au « Dieu du Ciel » » – le mettre en harmonie avec la religion grecque.
 16. Les persécutions étaient drastiques et sanglantes. Ils tueraient des Juifs pour avoir refusé de toucher du porc.
 17. Le livre de Daniel a été écrit au milieu de tout ce tumulte et de cette confusion.

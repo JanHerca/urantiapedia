@@ -22,8 +22,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 Author: **William S. Sadler**
 
-6. ROMANS
-
 ## I. Outline-Brief
 
 1. God's Righteousness. [1:1-3:20](/en/Bible/Romans/1#v1).

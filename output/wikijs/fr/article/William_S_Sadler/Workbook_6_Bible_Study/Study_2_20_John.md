@@ -60,40 +60,40 @@ Auteur: **William S. Sadler**
 ## III. Contexte et message
 
 1. Les épîtres sont distinctes à la fois du christianisme juif et du paulinisme.
-2. Tous les écrits de Jean sont destinés à protéger "l'incarnation" de l'erreur docétique - que Jésus ne devait pas être identifié avec Christ.
+2. Tous les écrits de Jean sont destinés à protéger «l'incarnation» de l'erreur docétique - que Jésus ne devait pas être identifié avec Christ.
 3. Il y a une distinction entre le « monde » et la « nouvelle vie » en Christ.
 4. Le chant thème des trois épîtres est « fraternité ».
 5. Les épîtres combattent l'hérésie docétique et gnostique.
-6. Le cœur de la première épître est "Dieu est amour" [1 Jean 4:8](/fr/Bible/1_John/4#v8).
+6. Le cœur de la première épître est «Dieu est amour» [1 Jean 4:8](/fr/Bible/1_John/4#v8).
 
 ## IV. Textes sélectionnés
 
 **1 JEAN**
 
-1. **Le message**. "Voici le message que nous avons entendu de lui et que nous vous annonçons, que Dieu est lumière et qu'il n'y a en lui aucune ténèbres." [1:5](/fr/Bible/1_John/1#v5).
-2. **Certain pardon**. "Si nous confessons nos péchés, il est fidèle et juste, et pardonnera nos péchés et nous purifiera de toute injustice," [1:9](/fr/Bible/1_John/1#v9).
-3. ** N'aimez pas le monde **. "N'aimez pas le monde ni les choses du monde. Si quelqu'un aime le monde, l'amour du Père n'est pas en lui." [2:15](/fr/Bible/1_John/2#v15).
-4. **Vie respectueuse**. "Le monde passe, et sa convoitise; mais celui qui fait la volonté de Dieu demeure éternellement." [2:17](/fr/Bible/1_John/2#v17).
-5. **La vie éternelle**. "Et voici ce qu'il nous a promis, la vie éternelle." [2:25](/fr/Bible/1_John/2#v25).
-6. **Fils de Dieu**. "Voyez quel amour le Père nous a donné pour que nous soyons appelés enfants de Dieu." [3:1](/fr/Bible/1_John/3#v1).
+1. **Le message**. «Voici le message que nous avons entendu de lui et que nous vous annonçons, que Dieu est lumière et qu'il n'y a en lui aucune ténèbres.» [1:5](/fr/Bible/1_John/1#v5).
+2. **Certain pardon**. «Si nous confessons nos péchés, il est fidèle et juste, et pardonnera nos péchés et nous purifiera de toute injustice,» [1:9](/fr/Bible/1_John/1#v9).
+3. ** N'aimez pas le monde **. «N'aimez pas le monde ni les choses du monde. Si quelqu'un aime le monde, l'amour du Père n'est pas en lui.» [2:15](/fr/Bible/1_John/2#v15).
+4. **Vie respectueuse**. «Le monde passe, et sa convoitise; mais celui qui fait la volonté de Dieu demeure éternellement.» [2:17](/fr/Bible/1_John/2#v17).
+5. **La vie éternelle**. «Et voici ce qu'il nous a promis, la vie éternelle.» [2:25](/fr/Bible/1_John/2#v25).
+6. **Fils de Dieu**. «Voyez quel amour le Père nous a donné pour que nous soyons appelés enfants de Dieu.» [3:1](/fr/Bible/1_John/3#v1).
 7. **Notre avenir**. « Bien-aimés, nous sommes maintenant enfants de Dieu ; ce que nous serons n'apparaît pas encore, mais nous savons que lorsqu'il apparaîtra, nous serons semblables à lui car nous le verrons tel qu'il est. [3:2](/fr/Bible/1_John/3#v2).
-8. **Amour fraternel**. "Nous savons que nous sommes passés de la mort à la vie, parce que nous aimons les frères." [3:14](/fr/Bible/1_John/3#v14).
-9. **Tester les esprits**. "Ne croyez pas tout esprit, mais testez les esprits pour voir s'ils sont de Dieu." [4:1](/fr/Bible/1_John/4#v1).
+8. **Amour fraternel**. «Nous savons que nous sommes passés de la mort à la vie, parce que nous aimons les frères.» [3:14](/fr/Bible/1_John/3#v14).
+9. **Tester les esprits**. «Ne croyez pas tout esprit, mais testez les esprits pour voir s'ils sont de Dieu.» [4:1](/fr/Bible/1_John/4#v1).
 10. **Amour fraternel**. « Aimons-nous les uns les autres, car l'amour est de Dieu. [4:7](/fr/Bible/1_John/4#v7).
-11. **Dieu est amour**. "Celui qui n'aime pas ne connaît pas Dieu, car Dieu est amour." [4:8](/fr/Bible/1_John/4#v8). "Dieu est amour." [4:16](/fr/Bible/1_John/4#v16).
-12. **L'amour parfait**. "Il n'y a pas de peur dans l'amour, mais l'amour parfait chasse la peur." [4:18](/fr/Bible/1_John/4#v18).
-13. **Motivations**. "Nous aimons parce qu'il nous a aimés le premier." [4:19](/fr/Bible/1_John/4#v19).
-14. **Obéissance**. "Car l'amour de Dieu est que nous gardions ses commandements." [5:3](/fr/Bible/1_John/5#v3).
-15. **Foi victorieuse**. "Et c'est la victoire qui vainc le monde, notre foi." [5:4](/fr/Bible/1_John/5#v4).
-16. **La vie éternelle**. "Dieu nous a donné la vie éternelle, et cette vie est dans son Fils." [5:11](/fr/Bible/1_John/5#v11).
+11. **Dieu est amour**. «Celui qui n'aime pas ne connaît pas Dieu, car Dieu est amour.» [4:8](/fr/Bible/1_John/4#v8). «Dieu est amour.» [4:16](/fr/Bible/1_John/4#v16).
+12. **L'amour parfait**. «Il n'y a pas de peur dans l'amour, mais l'amour parfait chasse la peur.» [4:18](/fr/Bible/1_John/4#v18).
+13. **Motivations**. «Nous aimons parce qu'il nous a aimés le premier.» [4:19](/fr/Bible/1_John/4#v19).
+14. **Obéissance**. «Car l'amour de Dieu est que nous gardions ses commandements.» [5:3](/fr/Bible/1_John/5#v3).
+15. **Foi victorieuse**. «Et c'est la victoire qui vainc le monde, notre foi.» [5:4](/fr/Bible/1_John/5#v4).
+16. **La vie éternelle**. «Dieu nous a donné la vie éternelle, et cette vie est dans son Fils.» [5:11](/fr/Bible/1_John/5#v11).
 
 **2 JEAN**
 
-17. **Orthodoxie**. "Si quelqu'un vient à vous et n'apporte pas cette doctrine, ne le recevez pas dans la maison et ne lui adressez aucune salutation." [v.10](/fr/Bible/2_John/1#v10).
+17. **Orthodoxie**. «Si quelqu'un vient à vous et n'apporte pas cette doctrine, ne le recevez pas dans la maison et ne lui adressez aucune salutation.» [v.10](/fr/Bible/2_John/1#v10).
 
 **3 JEAN**
 
-18. **Bonne santé**. "Bien-aimé, je prie pour que tout aille bien pour toi et que tu sois en bonne santé ; je sais que tout va bien pour ton âme." [v.2](/fr/Bible/3_John/1#v2).
+18. **Bonne santé**. «Bien-aimé, je prie pour que tout aille bien pour toi et que tu sois en bonne santé ; je sais que tout va bien pour ton âme.» [v.2](/fr/Bible/3_John/1#v2).
 
 
 <br>

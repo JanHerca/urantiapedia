@@ -115,11 +115,9 @@ Author: **William S. Sadler**
 3. **Song of Deborah**. [5:1-31](/en/Bible/Judges/5#v1).
 4. **Victory of Gideon**. "And the three companies blew the trumpets and broke the jars, holding in their left hands the torches...and they cried, 'A sword for the Lord and for Gideon!'" [7:20](/en/Bible/Judges/7#v20).
 5. **Jephthah's vow**. "Jephthah made a vow to the Lord...'If thou wilt give the Ammonites into my hand, then whoever comes forth from the doors of my house to meet me...shan be the Lord's, and I will offer him up for a burnt offering.'" [11:30,31](/en/Bible/Judges/11#v30).
-
-"Then Jephthah came to his home at Mizpah; and behold, his daughter came out to meet him." [11:34](/en/Bible/Judges/11#v34).
+	"Then Jephthah came to his home at Mizpah; and behold, his daughter came out to meet him." [11:34](/en/Bible/Judges/11#v34).
 6. **Samson's defeat**. "She made him sleep upon her knees; and she called a man, and had him shave off the seven locks of his head...and his strength left him." [16:19](/en/Bible/Judges/16#v19).
-
-"Then he bowed with all his might; and the house fell upon the lords and upon all the people that were in it." [16:30](/en/Bible/Judges/16#v30).
+	"Then he bowed with all his might; and the house fell upon the lords and upon all the people that were in it." [16:30](/en/Bible/Judges/16#v30).
 
 
 <br>

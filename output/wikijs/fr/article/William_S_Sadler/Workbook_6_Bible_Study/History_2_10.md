@@ -35,9 +35,9 @@ La communauté juive au Ve siècle
 10. Le divorce était un scandale public ; les pauvres étaient opprimés. Les mariages mixtes avec les gentils étaient courants.
 11. Néhémie a commencé une réorganisation en profondeur de la communauté juive, avec l'aide d'Esdras.
 12. En Grèce, c'était l'âge de Périclès, Socrate, Sophocle et Phidias.
-13. La folie des [guerres du Péloponnèse](https://en.wikipedia.org/wiki/Peloponnesian_War) a laissé la Perse dans une position plus sûre.
+13. La folie des [guerres du Péloponnèse](https://fr.wikipedia.org/wiki/Guerre_du_P%C3%A9loponn%C3%A8se) a laissé la Perse dans une position plus sûre.
 14. Néhémie était attaché à la cour de Perse – il avait été l'échanson du roi. Il fut nommé gouverneur de Juda et autorisé à reconstruire ses fortifications.
-15. [Néhémie](https://en.wikipedia.org/wiki/Nehemiah) était un bon organisateur. En 52 jours, il fit élever les murs de Jérusalem. [Né 6:15](/fr/Bible/Nehemiah/6#v15).
+15. [Néhémie](https://fr.wikipedia.org/wiki/N%C3%A9h%C3%A9mie) était un bon organisateur. En 52 jours, il fit élever les murs de Jérusalem. [Né 6:15](/fr/Bible/Nehemiah/6#v15).
 16. Mais il fallut deux ans avant que tous les détails – portes, tours, etc. – ne soient achevés.
 17. Il fut grandement gêné par Sanballat, gouverneur de Samarie. Tobie, gouverneur d'Ammon, s'est également opposé à Néhémie
 18. Néhémie a divisé ses forces en deux équipes, l'une pour s'armer, l'autre pour construire.
@@ -46,7 +46,7 @@ La communauté juive au Ve siècle
 21. Néhémie a régné 12 ans. Il visita ensuite Babylone et la cour perse.
 22. Quand il est revenu, il a trouvé que les choses allaient mal. Les mariages mixtes, le non-respect du sabbat et le laxisme religieux généralisé étaient à l'ordre du jour.
 23. C'est à peu près à cette époque qu'Ezra arriva et rejoignit Néhémie dans la tâche de nettoyer Jérusalem. [Ezra 7:12-26](/fr/Bible/Ezra/7#v12).
-24. [Ezra](https://en.wikipedia.org/wiki/Book_of_Ezra) a été grandement aidé par les contributions des juifs babyloniens. Esdras était prêtre.
+24. [Ezra](https://fr.wikipedia.org/wiki/Livre_d%27Esdras) a été grandement aidé par les contributions des juifs babyloniens. Esdras était prêtre.
 25. Esdras était accompagné d'une importante caravane de Juifs. Il avait honte de demander une escorte militaire.
 26. Sur une place publique sur une plate-forme élevée, il lisait la loi de l'aube à midi tous les jours.
 27. Esdras gagna les dirigeants et ils rassemblèrent le peuple - et sous une pluie battante, ils reçurent la réprimande et les remontrances d'Esdras.

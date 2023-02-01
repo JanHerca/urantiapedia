@@ -127,8 +127,8 @@ Author: **William S. Sadler**
 12. Luke is the best organized book in the New Testament.
 13. While Luke was not a classicist-writing in the international style of Greek-he did write the best literary work of the New Testament, except for the book of Hebrews.
 14. Luke's literary skill is best shown in the way he polished up many of Mark's rather crude passages, for example:
-	**Mark**: "And at even, when the sun did set." [Mark 1:32](/en/Bible/Mark/1#v32). (King James Version)
-	**Luke**: "Now when the sun was setting." [Luke 4:40](/en/Bible/Luke/4#v40). (King James Version)
+	- **Mark**: "And at even, when the sun did set." [Mark 1:32](/en/Bible/Mark/1#v32). (King James Version)
+	- **Luke**: "Now when the sun was setting." [Luke 4:40](/en/Bible/Luke/4#v40). (King James Version)
 15. It was never intended that the book of Acts should be separated from Luke.
 16. Luke wrote in A.D. 82 at Achaia. He planned to write three books on Christianity, but he died in A.D. 90 just before finishing Acts. Urantia Book, [UB 121:8.8](/en/The_Urantia_Book/121#p8_8).
 17. In a general way, Luke may be said to be the Gospel according to Paul.

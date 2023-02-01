@@ -47,13 +47,13 @@ Auteur: **William S. Sadler**
 
 1. Nonobstant ce qui a été dit à propos de la reconstruction du temple, c'est vraiment Aggée qui a commencé le travail et l'a terminé en quatre ans.
 2. Les temps étaient mauvais - il y avait une pénurie de nourriture. Il y avait aussi de l'inflation. Les « salaires » étaient comparés à un « sac troué ».
-3. Le verset le plus connu est [2:7](/fr/Bible/Haggai/2#v7) faisant référence au Messie comme "le désir de toutes les nations". (Version King James)
+3. Le verset le plus connu est [2:7](/fr/Bible/Haggai/2#v7) faisant référence au Messie comme «le désir de toutes les nations». (Version King James)
 4. Ce livre ne ressemble à aucun autre dans l'Ancien Testament en ce sens qu'il ne s'agit pas d'un message de première main d'un prophète, mais plutôt d'un récit de l'enseignement d'un prophète et des résultats.
-5. Aggée était en effet un prophète "mineur". Spirituellement considéré, il pourrait même être considéré comme un prophète de deuxième ou de troisième classe.
+5. Aggée était en effet un prophète «mineur». Spirituellement considéré, il pourrait même être considéré comme un prophète de deuxième ou de troisième classe.
 6. Mais il incita le peuple à reconstruire le temple.
 7. Lorsque Zorobabel, de la lignée de David, fut nommé gouverneur de la Palestine, Aggée pensa que c'était la preuve que la lignée de David devait gouverner le pays. Mais il n'est jamais devenu roi.
 8. Aggée et Zacharie étaient de grands ennemis des Samaritains. Ce fut le début des mauvais sentiments durables entre les Juifs et les Samaritains.
-9. Au chapitre 1, verset 6, il y a une forte suggestion d'inflation. "Et celui qui gagne un salaire gagne un salaire pour les mettre dans un sac troué."
+9. Au chapitre 1, verset 6, il y a une forte suggestion d'inflation. «Et celui qui gagne un salaire gagne un salaire pour les mettre dans un sac troué.»
 
 Il n'y a pas de passages en suspens.
 

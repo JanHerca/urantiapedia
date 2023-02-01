@@ -225,14 +225,13 @@
 							</div>
 							<div class="p-0 mb-2 flex-grow-0">
 								<div class="input-group input-group-sm">
-									<div class="input-group-prepend">
-										<span id="lblSearchFolder" class="input-group-text">Folder:</span>
+									<div class="input-group-prepend flex-grow-1">
+										<span id="lblSearchFileLan" class="input-group-text" style="width: 100%;">File is in second language</span>
 									</div>
-									<input id="dirSearch" class="form-control" type="text" placeholder="Browse path" 
-										readonly="readonly"/>
 									<div class="input-group-append">
-										<button id="dirClearButton" class="btn btn-sm btn-secondary" type="button"><i class="bi-x-lg"></i></button>
-										<button id="dirSearchButton" class="btn btn-sm btn-secondary" type="button"><i class="bi-folder"></i></button>
+										<div class="input-group-text px-2 py-1">
+											<input id="chkSearchFileLan" type="checkbox" aria-label="File is in second language">
+										</div>
 									</div>
 								</div>
 							</div>
@@ -260,6 +259,18 @@
 									<div class="input-group-append">
 										<div class="input-group-text px-2 py-1">
 											<input id="chkSearchCopyQuotes" type="checkbox" aria-label="Copy with quotation marks">
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="p-0 mb-2 flex-grow-0">
+								<div class="input-group input-group-sm">
+									<div class="input-group-prepend flex-grow-1">
+										<span id="lblSearchCopyLink" class="input-group-text" style="width: 100%;">Copy text with link</span>
+									</div>
+									<div class="input-group-append">
+										<div class="input-group-text px-2 py-1">
+											<input id="chkSearchCopyLink" type="checkbox" aria-label="Copy text with link">
 										</div>
 									</div>
 								</div>

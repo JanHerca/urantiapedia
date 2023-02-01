@@ -33,12 +33,12 @@ Auteur: **William S. Sadler**
 7. La division d'Isaïe en trois parties est une bonne illustration de la technique appropriée pour étudier la Bible.
 8. L'utilisation d'un bon dictionnaire biblique est très utile. Le dernier en date : Harper's Bible Dictionary, par Miller.
 9. Le grand problème est l'interprétation. Que signifie vraiment le texte ?
-10. Cherchez une aide spirituelle—la lumière. "Ta parole est une lampe à mes pieds." [Ps 119:105](/fr/Bible/Psalms/119#v105).
+10. Cherchez une aide spirituelle—la lumière. «Ta parole est une lampe à mes pieds.» [Ps 119:105](/fr/Bible/Psalms/119#v105).
 
 ## II. Chronologie
 
 1. Les détails de la chronologie seront considérés dans l'étude de l'histoire de l'Ancien et du Nouveau Testament.
-2. L'explication de la durée de vie extra longue des personnalités anciennes se trouve dans le Livre d'Urantia [LU 77:2.10](/fr/The_Urantia_Book/77#p2_10) Le mois lunaire de 28 jours était appelé une année. Ainsi, un homme vivant 900 ans ne vécut en réalité qu'environ 70 ans - "trois vingt ans et dix" - un âge mûr pour l'époque.
+2. L'explication de la durée de vie extra longue des personnalités anciennes se trouve dans le Livre d'Urantia [LU 77:2.10](/fr/The_Urantia_Book/77#p2_10) Le mois lunaire de 28 jours était appelé une année. Ainsi, un homme vivant 900 ans ne vécut en réalité qu'environ 70 ans - «trois vingt ans et dix» - un âge mûr pour l'époque.
 3. Chronologie des livres de l'Ancien Testament.
 	- Genèse—1200-450 avant JC
 	- Exode—1200-450 avant JC
@@ -127,14 +127,14 @@ Suit une liste de mots. donnant leur sens tel qu'utilisé dans la Bible:
 - S'abstenir - retenir ou contrôler.
 - Plusieurs—séparés
 - Simple—sans ruse ; irréprochable.
-- Sincère - appliqué aux choses aussi bien qu'aux personnes - "le lait sincère de la parole". [I Pierre 2:2](/fr/Bible/1_Peter/2#v2).
+- Sincère - appliqué aux choses aussi bien qu'aux personnes - «le lait sincère de la parole». [I Pierre 2:2](/fr/Bible/1_Peter/2#v2).
 - L'espace — appliqué au temps — plutôt qu'à l'aire.
 - Banlieues — pâturages, terres communales.
 - Cible : un bouclier ou un bouclier.
 - Nain—vide, sans valeur, stupide.
 - Culte - appliqué aux êtres humains aussi bien qu'à Dieu.
 
-**REMARQUE** : "The Bible Word Book", publié par Thomas Nelson and Sons, contient 827 mots et expressions qui ont changé ou modifié leur signification telle qu'elle est utilisée dans la version King James.
+**REMARQUE** : «The Bible Word Book», publié par Thomas Nelson and Sons, contient 827 mots et expressions qui ont changé ou modifié leur signification telle qu'elle est utilisée dans la version King James.
 
 
 <br>

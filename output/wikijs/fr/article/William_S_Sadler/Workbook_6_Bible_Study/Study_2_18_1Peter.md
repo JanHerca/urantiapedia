@@ -38,7 +38,7 @@ Auteur: **William S. Sadler**
 	- E. Maris et femmes. [3:1](/fr/Bible/1_Peter/3#v1)-7.
 	- F. Récapitulation. [3:8-12](/fr/Bible/1_Peter/3#v8).
 	- G. Persécution. [3:13-17](/fr/Bible/1_Peter/3#v13).
-	- S. Christ Notre Exemple. [3:18-22](/fr/Bible/1_Peter/3#v18).
+	- H. Christ Notre Exemple. [3:18-22](/fr/Bible/1_Peter/3#v18).
 	- I. Vie pure. [4:1-6](/fr/Bible/1_Peter/4#v1).
 	- J. Éthique des crises. [4:7-11](/fr/Bible/1_Peter/4#v7).
 4. Épreuves des chrétiens. [4:12-5:11](/fr/Bible/1_Peter/4#v12).
@@ -52,8 +52,8 @@ Auteur: **William S. Sadler**
 1. Il ne fait aucun doute que Pierre a écrit cette lettre. Le 12 laconique du chapitre 5 suggère que Silas (Silvanus) aurait pu écrire comme Pierre l'avait dicté. Cela expliquerait le style grec classique.
 2. Polycarpe, Eusèbe et Irénée ont tous attribué la paternité à Pierre.
 3. Cette lettre montre la connaissance des Ephésiens (AD 59-60) et des Romains (AD58).
-4. La lettre a été écrite de Rome, mais Pierre a utilisé "Babylone" pour la déguiser de manière à ce que les autorités hostiles ne soient pas réveillées.
-5. L'allusion à "paître le troupeau" rappelle l'instruction de Jésus à Pierre. [Jean 21:17](/fr/Bible/John/21#v17).
+4. La lettre a été écrite de Rome, mais Pierre a utilisé «Babylone» pour la déguiser de manière à ce que les autorités hostiles ne soient pas réveillées.
+5. L'allusion à «paître le troupeau» rappelle l'instruction de Jésus à Pierre. [Jean 21:17](/fr/Bible/John/21#v17).
 6. La date se situe quelque part entre 62 et 65 après JC - certainement avant 67.
 
 ## III. En général
@@ -97,16 +97,16 @@ Auteur: **William S. Sadler**
 
 ## V. Textes sélectionnés
 
-1. **L'héritage impérissable**. "Et à un héritage qui est impérissable, sans souillure et qui ne se fane pas, gardé dans les cieux pour vous, qui par la puissance de Dieu êtes gardés par la foi pour un salut prêt à être révélé dans les derniers temps." [1:4,5](/fr/Bible/1_Peter/1#v4).
+1. **L'héritage impérissable**. «Et à un héritage qui est impérissable, sans souillure et qui ne se fane pas, gardé dans les cieux pour vous, qui par la puissance de Dieu êtes gardés par la foi pour un salut prêt à être révélé dans les derniers temps.» [1:4,5](/fr/Bible/1_Peter/1#v4).
 2. **Sauver la joie**. « Sans l'avoir vu, vous l'aimez ; bien que vous ne le voyiez pas maintenant, vous croyez en lui et vous réjouissez d'une joie inexprimable et exaltée. [1:8](/fr/Bible/1_Peter/1#v8).
 3. **Esprits contrôlés**. « C'est pourquoi ceignez vos esprits, soyez sobres, placez pleinement votre espérance dans la grâce qui vous parviendra lors de la révélation de Jésus-Christ. [1:13](/fr/Bible/1_Peter/1#v13).
-4. **Sainteté**. "'Vous serez saints, car je suis saint.'" [1:16](/fr/Bible/1_Peter/1#v16).
-5. **Nutrition spirituelle**. "Comme des nouveau-nés, aspirez au lait spirituel pur, afin que par lui vous grandissiez jusqu'au salut, car vous avez goûté la bonté du Seigneur." [2:2,3](/fr/Bible/1_Peter/2#v2).
-6. **Le peuple de Dieu**. "Mais vous êtes une race élue, un sacerdoce royal, une nation sainte, le peuple de Dieu, afin que vous puissiez déclarer les merveilles de celui qui vous a appelé des ténèbres à sa merveilleuse lumière." [2:9](/fr/Bible/1_Peter/2#v9).
-7. **Le sacrifice**. "Par ses blessures, tu as été guéri." [2:24](/fr/Bible/1_Peter/2#v24).
-8. **La surveillance divine**. "'Car les yeux du Seigneur sont sur les justes, et ses oreilles sont ouvertes à leur prière." [3:12](/fr/Bible/1_Peter/3#v12).
-9. **Esprits en prison**. "Etant mis à mort dans la chair mais rendu vivant dans l'esprit; dans lequel il est allé prêcher aux esprits en prison." [3:18](/fr/Bible/1_Peter/3#v18),19.
-10. **Grâce aux humbles**. "'Dieu s'oppose aux orgueilleux, mais il fait grâce aux humbles.'" [5:5](/fr/Bible/1_Peter/5#v5).
+4. **Sainteté**. «'Vous serez saints, car je suis saint.'» [1:16](/fr/Bible/1_Peter/1#v16).
+5. **Nutrition spirituelle**. «Comme des nouveau-nés, aspirez au lait spirituel pur, afin que par lui vous grandissiez jusqu'au salut, car vous avez goûté la bonté du Seigneur.» [2:2,3](/fr/Bible/1_Peter/2#v2).
+6. **Le peuple de Dieu**. «Mais vous êtes une race élue, un sacerdoce royal, une nation sainte, le peuple de Dieu, afin que vous puissiez déclarer les merveilles de celui qui vous a appelé des ténèbres à sa merveilleuse lumière.» [2:9](/fr/Bible/1_Peter/2#v9).
+7. **Le sacrifice**. «Par ses blessures, tu as été guéri.» [2:24](/fr/Bible/1_Peter/2#v24).
+8. **La surveillance divine**. «'Car les yeux du Seigneur sont sur les justes, et ses oreilles sont ouvertes à leur prière.» [3:12](/fr/Bible/1_Peter/3#v12).
+9. **Esprits en prison**. «Etant mis à mort dans la chair mais rendu vivant dans l'esprit; dans lequel il est allé prêcher aux esprits en prison.» [3:18](/fr/Bible/1_Peter/3#v18),19.
+10. **Grâce aux humbles**. «'Dieu s'oppose aux orgueilleux, mais il fait grâce aux humbles.'» [5:5](/fr/Bible/1_Peter/5#v5).
 
 
 <br>

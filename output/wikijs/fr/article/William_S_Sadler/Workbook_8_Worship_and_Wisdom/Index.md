@@ -1,5 +1,5 @@
 ---
-title: "Manuel VIII — Worship and Wisdom — Index"
+title: "Manuel VIII — Adoration et Sagesse — Table des matières"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
@@ -8,15 +8,15 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
-Author: **William S. Sadler**
+Auteur: **William S. Sadler**
 
 
-- [Part I: The Central And Superuniverses](/fr/article/William_S_Sadler/Workbook_8_Worship_and_Wisdom/1)
-- [Part II: The Local Universe](/fr/article/William_S_Sadler/Workbook_8_Worship_and_Wisdom/2)
-- [Part III: The History Of Urantia](/fr/article/William_S_Sadler/Workbook_8_Worship_and_Wisdom/3)
-- [Part IV: The Life And Teachings Of Jesus](/fr/article/William_S_Sadler/Workbook_8_Worship_and_Wisdom/4)
+- [Partie I. L'univers central et les Superunivers](/fr/article/William_S_Sadler/Workbook_8_Worship_and_Wisdom/1)
+- [Partie II. L'Univers local](/fr/article/William_S_Sadler/Workbook_8_Worship_and_Wisdom/2)
+- [Partie III. L'histoire d'Urantia](/fr/article/William_S_Sadler/Workbook_8_Worship_and_Wisdom/3)
+- [Partie IV. La vie et les enseignements de Jésus](/fr/article/William_S_Sadler/Workbook_8_Worship_and_Wisdom/4)
 
-## References
+## Références
 
-Study obtained from:
-- https://www.urantia.org/worship-and-wisdom/worship-and-wisdom
+Étude obtenue de:
+- https://www.urantia.org/fr/adoration-et-sagesse/adoration-et-sagesse

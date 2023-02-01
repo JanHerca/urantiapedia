@@ -28,7 +28,7 @@ Auteur: **William S. Sadler**
 	- A. Présentation. [1:1-21](/fr/Bible/Daniel/1#v1):
 	- B. Le rêve de Nebucadnetsar. [2:1-49](/fr/Bible/Daniel/2#v1).
 	- C. Les Trois et la Fournaise Ardente. [3:1-30](/fr/Bible/Daniel/3#v1).
-	- La folie de D. Nabuchodonosor. [4:1-37](/fr/Bible/Daniel/4#v1).
+	- D. La folie de Nabuchodonosor. [4:1-37](/fr/Bible/Daniel/4#v1).
 	- E. La Fête. [5:1-31](/fr/Bible/Daniel/5#v1).
 	- F. La fosse aux lions. [6:1-28](/fr/Bible/Daniel/6#v1).
 2. Les Trois Visions. [7:1-12:13](/fr/Bible/Daniel/7#v1).
@@ -69,14 +69,14 @@ Auteur: **William S. Sadler**
 	- B. Les adventistes du septième jour et d'autres sectes se réfèrent à la papauté.
 	- C. D'autres l'ont référé à Hitler, Staline, etc.
 5. D'autres visions ont à voir avec l'histoire de l'empire, Alexandre le Grand et l'histoire romaine.
-6. Daniel devient "chef des sages" de Babylone.
+6. Daniel devient «chef des sages» de Babylone.
 
 ## V. Enseignements de Daniel
 
 1. Daniel est le premier des livres apocalyptiques - la doctrine de la fin des temps.
-2. Le royaume est littéral - le Messie est assis sur le trône de David. C'est un "royaume éternel".
+2. Le royaume est littéral - le Messie est assis sur le trône de David. C'est un «royaume éternel».
 3. Daniel présente une théologie avancée concernant les anges, la survie, la résurrection et de nombreuses autres caractéristiques.
-4. Il présente le concept du "Fils de l'homme", avec Enoch, et peut avoir joué un rôle dans la décision de Jésus d'adopter un tel titre.
+4. Il présente le concept du «Fils de l'homme», avec Enoch, et peut avoir joué un rôle dans la décision de Jésus d'adopter un tel titre.
 5. La théologie est que Dieu connaît toutes choses d'avance et détermine tout.
 6. En théologie, Daniel est à mi-chemin entre les doctrines des anciens prophètes et l'époque de Jésus.
 7. Daniel donne aux anges une dignité personnelle nouvelle et élargie.
@@ -84,21 +84,21 @@ Auteur: **William S. Sadler**
 
 ## VI. Textes sélectionnés
 
-1. **Un test diététique**. "'Eprouvez vos serviteurs pendant dix jours; donnez-nous des légumes à manger et de l'eau à boire. Ensuite, laissez notre apparence ... être observée par vous, et selon ce que vous voyez, traitez vos serviteurs.' Au bout de dix jours, on vit qu'ils étaient meilleurs d'aspect et plus gras de chair que tous les jeunes gens qui mangeaient la riche nourriture du roi." [1:12,13,15](/fr/Bible/Daniel/1#v12).
-2. **Les sages et le rêve du roi**. "A cause de cela, le roi était en colère et très furieux, et ordonna que tous les sages de Babylone soient détruits." [2:12](/fr/Bible/Daniel/2#v12).
-	"Daniel répondit au roi: 'Aucun sage, enchanteur, magicien ou astrologue ne peut montrer au roi le mystère que le roi a demandé, mais il y a un Dieu dans le ciel qui révèle les mystères.'" [2:27,28] (/fr/Bible/Daniel/2#v27).
-3. **Daniel honoré**. "Alors le roi a donné à Daniel de grands honneurs et de nombreux grands cadeaux." [2:48](/fr/Bible/Daniel/2#v48).
-4. **Trois dignes dans la fournaise ardente**. "Il répondit: 'Mais je vois quatre hommes libres, marchant au milieu du feu, et ils ne sont pas blessés; et l'apparence du quatrième est comme un fils des dieux.'" [3:25](/fr/Bible/Daniel/3#v25).
-5. **Règle des plus hauts**. "'Afin que les vivants sachent que le Très-Haut règne sur le royaume des hommes.'" [4:17](/fr/Bible/Daniel/4#v17).
-6. **Écriture manuscrite sur le mur**. "Les doigts de la main d'un homme sont apparus et ont écrit sur le plâtre du mur du palais du roi." [5:5](/fr/Bible/Daniel/5#v5).
-	"'C'est l'interprétation de la question... Dieu a compté les jours de votre royaume... Vous avez été pesé dans les balances et trouvé léger... votre royaume est divisé et donné aux Mèdes et aux Perses.'" [5:26-28](/fr/Bible/Daniel/5#v26).
-7. **Daniel dans la fosse aux lions**. "Et Daniel fut... jeté dans la fosse aux lions... Alors Daniel dit au roi... 'Mon Dieu a envoyé son ange et a fermé la gueule des lions, et ils ne m'ont pas fait de mal.'" [6: 16,21,22](/fr/Bible/Daniel/6#v16),
-8. **Vision des quatre bêtes**. "'Et quatre grandes bêtes sortirent de la mer, différentes les unes des autres... Je considérai les cornes, et voici, il monta parmi elles une autre corne, une petite, devant laquelle trois des premières cornes furent pincées. ..Comme je regardais, des trônes ont été placés et un ancien des jours a pris place.'" [7:3,8,9](/fr/Bible/Daniel/7#v3).
-9. **Alexandre le Grand**. "Voici, un bouc est venu de l'ouest ... sans toucher le sol; et le bouc avait une corne bien visible entre les yeux." [8:5](/fr/Bible/Daniel/8#v5).
-10. **Les 2 300 jours**. "'Pendant deux mille trois cents soirs et matins, puis le sanctuaire sera restauré dans son état légitime.'" [8:14](/fr/Bible/Daniel/8#v14).
-11. **L'abomination de la désolation**. "Et ils érigeront l'abomination qui dévaste." [11:31](/fr/Bible/Daniel/11#v31).
-12. **Mention de Michel**. "'En ce temps-là se lèvera Michel, le grand prince qui a la charge de ton peuple.'" [12:1](/fr/Bible/Daniel/12#v1).
-13. **Une résurrection spéciale**. "'Et beaucoup de ceux qui dorment dans la poussière de la terre se réveilleront, les uns pour la vie éternelle, les autres pour la honte et le mépris éternel.'" [12:2](/fr/Bible/Daniel/12#v2).
+1. **Un test diététique**. «'Eprouvez vos serviteurs pendant dix jours; donnez-nous des légumes à manger et de l'eau à boire. Ensuite, laissez notre apparence ... être observée par vous, et selon ce que vous voyez, traitez vos serviteurs.' Au bout de dix jours, on vit qu'ils étaient meilleurs d'aspect et plus gras de chair que tous les jeunes gens qui mangeaient la riche nourriture du roi.» [1:12,13,15](/fr/Bible/Daniel/1#v12).
+2. **Les sages et le rêve du roi**. «A cause de cela, le roi était en colère et très furieux, et ordonna que tous les sages de Babylone soient détruits.» [2:12](/fr/Bible/Daniel/2#v12).
+	«Daniel répondit au roi: 'Aucun sage, enchanteur, magicien ou astrologue ne peut montrer au roi le mystère que le roi a demandé, mais il y a un Dieu dans le ciel qui révèle les mystères.'» [2:27,28] (/fr/Bible/Daniel/2#v27).
+3. **Daniel honoré**. «Alors le roi a donné à Daniel de grands honneurs et de nombreux grands cadeaux.» [2:48](/fr/Bible/Daniel/2#v48).
+4. **Trois dignes dans la fournaise ardente**. «Il répondit: 'Mais je vois quatre hommes libres, marchant au milieu du feu, et ils ne sont pas blessés; et l'apparence du quatrième est comme un fils des dieux.'» [3:25](/fr/Bible/Daniel/3#v25).
+5. **Règle des plus hauts**. «'Afin que les vivants sachent que le Très-Haut règne sur le royaume des hommes.'» [4:17](/fr/Bible/Daniel/4#v17).
+6. **Écriture manuscrite sur le mur**. «Les doigts de la main d'un homme sont apparus et ont écrit sur le plâtre du mur du palais du roi.» [5:5](/fr/Bible/Daniel/5#v5).
+	«'C'est l'interprétation de la question... Dieu a compté les jours de votre royaume... Vous avez été pesé dans les balances et trouvé léger... votre royaume est divisé et donné aux Mèdes et aux Perses.'» [5:26-28](/fr/Bible/Daniel/5#v26).
+7. **Daniel dans la fosse aux lions**. «Et Daniel fut... jeté dans la fosse aux lions... Alors Daniel dit au roi... 'Mon Dieu a envoyé son ange et a fermé la gueule des lions, et ils ne m'ont pas fait de mal.'» [6: 16,21,22](/fr/Bible/Daniel/6#v16),
+8. **Vision des quatre bêtes**. «'Et quatre grandes bêtes sortirent de la mer, différentes les unes des autres... Je considérai les cornes, et voici, il monta parmi elles une autre corne, une petite, devant laquelle trois des premières cornes furent pincées. ..Comme je regardais, des trônes ont été placés et un ancien des jours a pris place.'» [7:3,8,9](/fr/Bible/Daniel/7#v3).
+9. **Alexandre le Grand**. «Voici, un bouc est venu de l'ouest ... sans toucher le sol; et le bouc avait une corne bien visible entre les yeux.» [8:5](/fr/Bible/Daniel/8#v5).
+10. **Les 2 300 jours**. «'Pendant deux mille trois cents soirs et matins, puis le sanctuaire sera restauré dans son état légitime.'» [8:14](/fr/Bible/Daniel/8#v14).
+11. **L'abomination de la désolation**. «Et ils érigeront l'abomination qui dévaste.» [11:31](/fr/Bible/Daniel/11#v31).
+12. **Mention de Michel**. «'En ce temps-là se lèvera Michel, le grand prince qui a la charge de ton peuple.'» [12:1](/fr/Bible/Daniel/12#v1).
+13. **Une résurrection spéciale**. «'Et beaucoup de ceux qui dorment dans la poussière de la terre se réveilleront, les uns pour la vie éternelle, les autres pour la honte et le mépris éternel.'» [12:2](/fr/Bible/Daniel/12#v2).
 
 
 <br>

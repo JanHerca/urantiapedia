@@ -24,11 +24,11 @@ Author: **William S. Sadler**
 
 ## I. Outline-Brief
 
-1. Job, Eliphaz, and Bildad. 1-10.
-2. Zophar, Job, Eliphaz, and Bildad. 11-31.
-3. Elihu. 32-37.
-4. God. 38-41.
-5. Job. 42.
+1. Job, Eliphaz, and Bildad. [1-10](/en/Bible/Job/1).
+2. Zophar, Job, Eliphaz, and Bildad. [11-31](/en/Bible/Job/11).
+3. Elihu. [32-37](/en/Bible/Job/32).
+4. God. [38-41](/en/Bible/Job/38).
+5. Job. [42](/en/Bible/Job/42).
 
 ## II. Outline-Complete
 

@@ -69,7 +69,7 @@ Auteur: **William S. Sadler**
 	- A. Terreur de Yahweh. [30:1-11](/fr/Bible/Jeremiah/30#v1).
 	- B. Salut d'Israël. [30:12-22](/fr/Bible/Jeremiah/30#v12).
 	- C. Esclaves de Yahweh. [30:23-31:14](/fr/Bible/Jeremiah/30#v23).
-	- Les pleurs de D. Rachel. [31:15-22](/fr/Bible/Jeremiah/31#v15).
+	- D. Les pleurs de Rachel. [31:15-22](/fr/Bible/Jeremiah/31#v15).
 	- E. Restauration des terres. [31:23-28](/fr/Bible/Jeremiah/31#v23).
 	- F. Nouvelle Alliance. [31:29-37](/fr/Bible/Jeremiah/31#v29).
 	- G. Reconstruire Jérusalem. [31:38-40](/fr/Bible/Jeremiah/31#v38).
@@ -92,7 +92,7 @@ Auteur: **William S. Sadler**
 1. Jérémie et son secrétaire, Baruch, ont écrit le livre original.
 2. Le rouleau de Baruch a été découpé et brûlé par le roi Jojakim, mais Jérémie l'a re-dicté. C'était en décembre 605 av.
 3. Le livre a été ajouté jusqu'à l'époque de Sédécias.
-4. Après la chute de Jérusalem, un éditeur deutéronomique a révisé le livre et lui a donné la saveur du "culte".
+4. Après la chute de Jérusalem, un éditeur deutéronomique a révisé le livre et lui a donné la saveur du «culte».
 5. La section des mémoires peut avoir été écrite par Baruch alors qu'il était en Égypte.
 6. La rédaction D a été achevée vers 550 av.
 7. Tout le chapitre 24 semble être le produit de l'éditeur D. C'est probablement aussi le cas du chapitre 45.
@@ -110,7 +110,7 @@ Auteur: **William S. Sadler**
 8. En cinq ans, le gouverneur a été assassiné et Jérémie avec d'autres ont fui en Égypte.
 9. Jérémie est né et a grandi dans un village à trois kilomètres au nord-est de Jérusalem-Anathoth.
 10. Jérémie a été influencé par Osée et des citations de lui.
-11. Lorsque Jérémie a prophétisé des troubles venant du "nord", les Juifs pensaient qu'il faisait référence aux Scythes, mais ont décidé plus tard qu'il s'agissait des Babyloniens.
+11. Lorsque Jérémie a prophétisé des troubles venant du «nord», les Juifs pensaient qu'il faisait référence aux Scythes, mais ont décidé plus tard qu'il s'agissait des Babyloniens.
 12. Jérémie n'a jamais été en pleine faveur auprès des rois. Même Josias a consulté Hulda, la prophétesse. ([2 Rois 22:14-20](/fr/Bible/2_Kings/22#v14))
 13. Jérémie n'était pas un partisan des réformes du Deutéronome de Josias - en fait, il s'est opposé à certaines d'entre elles.
 14. Jérémie a toujours conseillé la soumission aux Babyloniens.
@@ -120,15 +120,15 @@ Auteur: **William S. Sadler**
 18. Le gouverneur babylonien fit sortir Jérémie de prison et lui donna la liberté.
 19. Il a été emmené en Égypte contre son gré.
 20. Selon une légende, Jérémie aurait été lapidé à mort en Égypte par ses compatriotes exaspérés.
-21. Jérémie n'était pas un mystique. Il avait une forte personnalité. Nous en savons plus sur la "vie intérieure" de Jérémie que sur tout autre prophète.
+21. Jérémie n'était pas un mystique. Il avait une forte personnalité. Nous en savons plus sur la «vie intérieure» de Jérémie que sur tout autre prophète.
 22. Il est possible qu'on lui ait interdit de se marier. ([16:1-13](/fr/Bible/Jeremiah/16#v1))
-23. Il a souffert de nombreuses saisons d'amertume et de désespoir. Mais il n'était pas un "prophète qui pleure".
-24. L'idée qu'il est un "prophète qui pleure" vient du fait qu'on lui attribue la paternité du livre des Lamentations.
+23. Il a souffert de nombreuses saisons d'amertume et de désespoir. Mais il n'était pas un «prophète qui pleure».
+24. L'idée qu'il est un «prophète qui pleure» vient du fait qu'on lui attribue la paternité du livre des Lamentations.
 25. À un moment donné, il a prié pour se venger de ses ennemis, même de leurs femmes et de leurs enfants.
 26. Jérémie a été réconforté par un serviteur nègre très fidèle.
 27. Jérémie est issu d'une riche famille sacerdotale.
 28. Les rois et les princes considéraient Jérémie comme un traître.
-29. Il a proclamé qu'une "nouvelle alliance" serait "écrite dans le cœur des hommes".
+29. Il a proclamé qu'une «nouvelle alliance» serait «écrite dans le cœur des hommes».
 30. Et c'est le début de la religion individuelle, par opposition à la religion nationaliste.
 
 ## V. Théologie de Jérémie
@@ -137,10 +137,10 @@ Auteur: **William S. Sadler**
 2. Il n'adorait pas Dieu avec crainte comme Esaïe et Ezéchiel ; il a lutté avec Dieu comme Jacob.
 3. Il croyait en la souveraineté de Dieu-Dieu comme Créateur de l'ordre naturel.
 4. Yahweh était le contrôleur et le directeur de l'histoire.
-5. Il était "un Dieu proche et un Dieu lointain" - à la fois immanent et transcendant.
+5. Il était «un Dieu proche et un Dieu lointain» - à la fois immanent et transcendant.
 6. Un Dieu d'amour-justice, de miséricorde et de puissance.
 7. Le Père d'Israël.
-8. "Je t'ai aimé d'un amour éternel."
+8. «Je t'ai aimé d'un amour éternel.»
 9. Dieu ne veut pas le sacrifice et le rituel, mais la repentance et l'obéissance.
 10. Jérémie était un vrai monothéiste.
 11. Il a enseigné la religion pour l'individu plutôt que pour la nation.
@@ -149,7 +149,7 @@ Auteur: **William S. Sadler**
 14. Jérémie était le prophète de l'expérience religieuse personnelle.
 15. Vous trouverez Dieu si vous « le cherchez de tout votre cœur ».
 16. Il a enseigné la religion du péché, de la repentance et du salut.
-17. La nature humaine est capricieuse. "Le cœur est trompeur par-dessus tout, et désespérément corrompu." [17:9](/fr/Bible/Jeremiah/17#v9).
+17. La nature humaine est capricieuse. «Le cœur est trompeur par-dessus tout, et désespérément corrompu.» [17:9](/fr/Bible/Jeremiah/17#v9).
 18. Il considérait l'homme comme étant naturellement têtu.
 19. La repentance signifie « se détourner consciemment de tout mal ».
 20. Jérémie est l'auteur du proverbe selon lequel l'Éthiopien change de peau ou le léopard ses taches.
@@ -166,28 +166,28 @@ Jérémie a vécu 100 ans après Isaïe, lors de la prise et de la destruction d
 6. Jojakin. 598 - 3 mois. [2 Rois 24:6-15](/fr/Bible/2_Kings/24#v6). [Jer. 52:31-34](/fr/Bible/Jeremiah/52#v31).
 7. Sédécias. 598-587. [2 Rois 24:17-20](/fr/Bible/2_Kings/24#v17). [Jer. 2:1-7](/fr/Bible/Jeremiah/2#v1); [34:1-11](/fr/Bible/Jeremiah/34#v1); [52:1-11](/fr/Bible/Jeremiah/52#v1).
 
-##VII. Textes sélectionnés
+## VII. Textes sélectionnés
 
-1. **Le début du travail de Jérémie**. '"Avant de te former dans le ventre de ma mère, je te connaissais, et avant ta naissance je t'ai consacré; je t'ai établi prophète des nations.'" [1:5](/fr/Bible/Jeremiah/1#v5) .
+1. **Le début du travail de Jérémie**. '«Avant de te former dans le ventre de ma mère, je te connaissais, et avant ta naissance je t'ai consacré; je t'ai établi prophète des nations.'» [1:5](/fr/Bible/Jeremiah/1#v5) .
 	(**Remarque** : Ce texte rappelle les enseignements du Livre d'Urantia, concernant les Ajusteurs de Pensée obtenant des projections avancées concernant leurs sujets humains potentiels, comme trouvé sur [LU 108:1.2](/fr/The_Urantia_Book/108#p1_2)
-2. ** Citernes cassées **. "'Mon peuple a commis deux maux : il m'a abandonné, moi la source d'eau vive, et s'est creusé des citernes, des citernes brisées, qui ne peuvent retenir l'eau.'" [2:13](/fr/Bible/Jeremiah /2#v13).
+2. ** Citernes cassées **. «'Mon peuple a commis deux maux : il m'a abandonné, moi la source d'eau vive, et s'est creusé des citernes, des citernes brisées, qui ne peuvent retenir l'eau.'» [2:13](/fr/Bible/Jeremiah /2#v13).
 3. **Qu'est-ce qui n'allait pas**. « 'Du plus petit au plus grand d'entre eux, chacun est avide d'un gain injuste ; et du prophète au prêtre, chacun agit dans le mensonge. Ils ont pansé légèrement la blessure de mon peuple, en disant : « Paix, paix », n'y a pas de paix.'" [6:13,14](/fr/Bible/Jeremiah/6#v13).
-4. **Pas de paix**. "'Nous attendions la paix, mais rien de bon n'est venu, pour un temps de guérison, mais voici, la terreur.'" [8:15](/fr/Bible/Jeremiah/8#v15).
+4. **Pas de paix**. «'Nous attendions la paix, mais rien de bon n'est venu, pour un temps de guérison, mais voici, la terreur.'» [8:15](/fr/Bible/Jeremiah/8#v15).
 5. **Pas de baume à Galaad**. « 'N'y a-t-il pas de baume en Galaad ? N'y a-t-il pas de médecin ?
-6. **Nous nous glorifions dans le Seigneur**. "'Mais que celui qui se glorifie se glorifie de ceci, qu'il me comprenne et me connaisse, que je suis l'Eternel qui pratique la bonté, la justice et la justice sur la terre ; car je prends ces choses à mon goût.'" [9:24]( /fr/Bible/Jeremiah/9#v24).
-7. **Le cœur trompeur**. "'Le cœur est trompeur par-dessus tout et désespérément corrompu ; qui peut le comprendre ?'" [17:9](/fr/Bible/Jeremiah/17#v9).
-8. **Jérémie en stock**. "Alors Pashhur battit Jérémie le prophète, et le mit dans les ceps qui étaient à la porte supérieure de Benjamin de la maison de l'Éternel." [20:2](/fr/Bible/Jeremiah/20#v2).
-9. **Le destin de Pashhur**. "'Et toi, Pashhur... tu iras en captivité... et là tu mourras... toi et tous tes amis, à qui tu as prophétisé faussement?'" [20:6](/fr/Bible/ Jérémie/20#v6).
-10. **Un Dieu à portée de main**. "'Suis-je un Dieu proche... et non un Dieu lointain ?... Est-ce que je ne remplis pas le ciel et la terre ?'" [23:23,24](/fr/Bible/Jeremiah/23#v23) .
-11. **Jérémie se rend**. "'Sachez seulement avec certitude que si vous me faites mourir, vous attirerez sur vous du sang innocent.'" [26:15](/fr/Bible/Jeremiah/26#v15).
-12. **Trouver Dieu**. "'Tu me chercheras et tu me trouveras, quand tu me chercheras de tout ton coeur.'" [29:13](/fr/Bible/Jeremiah/29#v13).
-13. **Joie pour le deuil**. "'Je changerai leur deuil en joie, je les consolerai, et je leur donnerai de la joie pour la douleur.'" [31:13](/fr/Bible/Jeremiah/31#v13).
-14. **Manger des raisins verts**. "'En ces jours-là, on ne dira plus : "Les pères ont mangé des raisins aigres, et les dents des enfants sont agacées." ... Tout homme qui mange des raisins aigres, ses dents seront agacées.'" [ 31:29,30](/fr/Bible/Jeremiah/31#v29).
-15. **Le rouleau de Jérémie**. "Alors Jérémie prit un autre rouleau et le donna à Baruch ... qui y écrivit sous la dictée de Jérémie toutes les paroles ... que Jojakim, roi de Juda, avait brûlées au feu." [36:32](/fr/Bible/Jeremiah/36#v32).
-16. **Jérémie dans la fosse**. "Ils ont pris Jérémie et l'ont jeté dans la citerne... Et il n'y avait pas d'eau dans la citerne, mais seulement de la boue, et Jérémie a coulé dans la boue." [38:6](/fr/Bible/Jeremiah/38#v6).
-17. **Le destin de Sédécias**. "Il creva les yeux de Sédécias et le lia de fers... Les Chaldéens brûlèrent la maison du roi... et abattirent les murailles de Jérusalem." [39:7,8](/fr/Bible/Jeremiah/39#v7).
-18. **Jérémie va à Mitspa**. "Alors Jérémie alla à... Mitspa, et habita... parmi les gens qui restaient dans le pays." [40:6](/fr/Bible/Jeremiah/40#v6).
-19. **Aller en Egypte contre Jérémie**. "Et ils vinrent au pays d'Egypte, car ils n'obéirent pas à la voix de l'Eternel." [43:7](/fr/Bible/Jeremiah/43#v7).
+6. **Nous nous glorifions dans le Seigneur**. «'Mais que celui qui se glorifie se glorifie de ceci, qu'il me comprenne et me connaisse, que je suis l'Eternel qui pratique la bonté, la justice et la justice sur la terre ; car je prends ces choses à mon goût.'» [9:24]( /fr/Bible/Jeremiah/9#v24).
+7. **Le cœur trompeur**. «'Le cœur est trompeur par-dessus tout et désespérément corrompu ; qui peut le comprendre ?'» [17:9](/fr/Bible/Jeremiah/17#v9).
+8. **Jérémie en stock**. «Alors Pashhur battit Jérémie le prophète, et le mit dans les ceps qui étaient à la porte supérieure de Benjamin de la maison de l'Éternel.» [20:2](/fr/Bible/Jeremiah/20#v2).
+9. **Le destin de Pashhur**. «'Et toi, Pashhur... tu iras en captivité... et là tu mourras... toi et tous tes amis, à qui tu as prophétisé faussement?'» [20:6](/fr/Bible/ Jérémie/20#v6).
+10. **Un Dieu à portée de main**. «'Suis-je un Dieu proche... et non un Dieu lointain ?... Est-ce que je ne remplis pas le ciel et la terre ?'» [23:23,24](/fr/Bible/Jeremiah/23#v23) .
+11. **Jérémie se rend**. «'Sachez seulement avec certitude que si vous me faites mourir, vous attirerez sur vous du sang innocent.'» [26:15](/fr/Bible/Jeremiah/26#v15).
+12. **Trouver Dieu**. «'Tu me chercheras et tu me trouveras, quand tu me chercheras de tout ton coeur.'» [29:13](/fr/Bible/Jeremiah/29#v13).
+13. **Joie pour le deuil**. «'Je changerai leur deuil en joie, je les consolerai, et je leur donnerai de la joie pour la douleur.'» [31:13](/fr/Bible/Jeremiah/31#v13).
+14. **Manger des raisins verts**. «'En ces jours-là, on ne dira plus : »Les pères ont mangé des raisins aigres, et les dents des enfants sont agacées.« ... Tout homme qui mange des raisins aigres, ses dents seront agacées.'» [ 31:29,30](/fr/Bible/Jeremiah/31#v29).
+15. **Le rouleau de Jérémie**. «Alors Jérémie prit un autre rouleau et le donna à Baruch ... qui y écrivit sous la dictée de Jérémie toutes les paroles ... que Jojakim, roi de Juda, avait brûlées au feu.» [36:32](/fr/Bible/Jeremiah/36#v32).
+16. **Jérémie dans la fosse**. «Ils ont pris Jérémie et l'ont jeté dans la citerne... Et il n'y avait pas d'eau dans la citerne, mais seulement de la boue, et Jérémie a coulé dans la boue.» [38:6](/fr/Bible/Jeremiah/38#v6).
+17. **Le destin de Sédécias**. «Il creva les yeux de Sédécias et le lia de fers... Les Chaldéens brûlèrent la maison du roi... et abattirent les murailles de Jérusalem.» [39:7,8](/fr/Bible/Jeremiah/39#v7).
+18. **Jérémie va à Mitspa**. «Alors Jérémie alla à... Mitspa, et habita... parmi les gens qui restaient dans le pays.» [40:6](/fr/Bible/Jeremiah/40#v6).
+19. **Aller en Egypte contre Jérémie**. «Et ils vinrent au pays d'Egypte, car ils n'obéirent pas à la voix de l'Eternel.» [43:7](/fr/Bible/Jeremiah/43#v7).
 
 
 <br>

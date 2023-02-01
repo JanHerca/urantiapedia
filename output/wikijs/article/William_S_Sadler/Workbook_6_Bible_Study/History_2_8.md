@@ -38,23 +38,15 @@ The Bid of Assyria
 9. The Assyrian Empire toppled and fell in less than 20 years.
 10. With the end of Assyria, once more Judah was free by default. [Josiah](https://en.wikipedia.org/wiki/Josiah) ascended the throne and began his reforms.
 11. The major reforms of Josiah were:
-
-a. The temple repairs.
-
-b. Finding Deuteronomy in the temple.
-
-c. Repudiation of the Assyrian cult and gods.
-
-d. Restoration of the Passover.
-
-e. Destruction of idols.
-
-f. End of magic practices.
-
-g. Closing of the Bethel temple.
+	- a. The temple repairs.
+	- b. Finding Deuteronomy in the temple.
+	- c. Repudiation of the Assyrian cult and gods.
+	- d. Restoration of the Passover.
+	- e. Destruction of idols.
+	- f. End of magic practices.
+	- g. Closing of the Bethel temple.
 12. The book of [Deuteronomy](/en/Bible/Deuteronomy/1) was the basis of all of the king’s later reforms.
-
-13 In the later years of Josiah a new group of prophets arose.
+13. In the later years of Josiah a new group of prophets arose.
 14. Josiah lost his life defending Haran on the battlefield of [Megiddo](https://en.wikipedia.org/wiki/Tel_Megiddo), at the hands of the invading Egyptians.
 
 ## II. The Last Days Of Judah
@@ -86,14 +78,10 @@ g. Closing of the Bethel temple.
 12. The prophets doomed Israel for the time being, but they did save it from extinction.
 13. The vicissitudes of the worship of Yahweh were shown in the fickle conduct of Israel’s kings. Solomon went after the gods of Moabites and Ammonites. Jeroboam set up golden calves at Bethel and Dan. Jezebel, Ahab’s Phoenician queen, conducted the worship of Baal. Manasseh reared up altars to the “host of heaven.”
 14. The Jews are losing their prophets. They are failing to become a missionary people. They are depending on:
-
-a. Sacramentalism.
-
-b. Legalism.
-
-c. Philosophy—wisdom.
-
-d. Apocalypticism.
+	- a. Sacramentalism.
+	- b. Legalism.
+	- c. Philosophy—wisdom.
+	- d. Apocalypticism.
 
 
 <br>

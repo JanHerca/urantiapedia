@@ -76,8 +76,10 @@ Before the Septuagint First and Second Samuel formed one book.
 	- E. Treachery of Ziphites. [23:14-24:22](/en/Bible/1_Samuel/23#v14).
 	- F. David and Abigail. [25:1-44](/en/Bible/1_Samuel/25#v1).
 	- G. Philistine War against Saul. [27:1-31:13](/en/Bible/1_Samuel/27#v1).
-	- A. Saul and Witch of Endor. [28:3-25](/en/Bible/1_Samuel/28#v3).
-	- B.
+8. Philistine War against Saul. [27:1-31:13](https://en/Bible/1_Samuel/27#v1).
+	- A. David's Vassalage to Achish. [27:1-28:2](/en/Bible/1_Samuel/27#v1).
+	- B. Saul and Witch of Endor. [28:3-25](/en/Bible/1_Samuel/28#v3).
+	- C. Dismissal of David. [29:1-11](/en/Bible/1_Samuel/29#v1).
 	- D. Raid on Ziklag. [30:1-31](/en/Bible/1_Samuel/30#v1).
 	- E. Battle of Mount Gilboa. [31:1-13](/en/Bible/1_Samuel/31#v1).
 
@@ -136,7 +138,7 @@ Before the Septuagint First and Second Samuel formed one book.
 5. D and P turned Samuel, a village seer, into a "mighty prophet."
 6. Samuel is a masterpiece of history, psychological insight, literary style, and dramatic power.
 
-**Note**: Field Marshal Allenby, when in Palestine in 1918, examined the battle-field account of Jonathan's attack on the Philistine garrison (1 Sam. [14:1-23](/en/Bible/1_Samuel/14#v1)) and was able to identify the crag "on the north in front of Michmash, and the other on the south in front of Geba." He pronounced Jonathan's strategy as sound.
+**Note**: Field Marshal Allenby, when in Palestine in 1918, examined the battle-field account of Jonathan's attack on the Philistine garrison ([1 Sam. 14:1-23](/en/Bible/1_Samuel/14#v1)) and was able to identify the crag "on the north in front of Michmash, and the other on the south in front of Geba." He pronounced Jonathan's strategy as sound.
 
 ## IV. Historical Value
 

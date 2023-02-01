@@ -30,7 +30,7 @@ Author: **William S. Sadler**
 2. Personal Thanksgiving. [1:2-3:13](/en/Bible/1_Thessalonians/1#v2).
 	- A. Review of Apostolic Work. [1:2-2:12](/en/Bible/1_Thessalonians/1#v2).
 	- B. Gratitude. [2:13-16](/en/Bible/1_Thessalonians/2#v13).
-	- G. Desire to Revisit. [2:17-20](/en/Bible/1_Thessalonians/2#v17).
+	- C. Desire to Revisit. [2:17-20](/en/Bible/1_Thessalonians/2#v17).
 	- D. Sending Timothy. [3:1-10](/en/Bible/1_Thessalonians/3#v1).
 	- E. Apostle's Prayer. [3:11-13](/en/Bible/1_Thessalonians/3#v11).
 3. Exhortation and Instruction. [4:1-5:28](/en/Bible/1_Thessalonians/4#v1).

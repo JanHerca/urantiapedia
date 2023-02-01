@@ -25,7 +25,7 @@ Auteur: **William S. Sadler**
 ## I. Aperçu
 
 1. Jugement d'Edom, vs. [1-14](/fr/Bible/Obadiah/1#v1).
-	- Un titre. 1.
+	- A. Titre. [1](/fr/Bible/Obadiah/1#v1).
 	- B. Avertissement à Edom. [2-4](/fr/Bible/Obadiah/1#v2).
 	- C. La destruction d'Edom. [5-9](/fr/Bible/Obadiah/1#v5).
 	- D. Motifs du jugement. [10-14](/fr/Bible/Obadiah/1#v10).
@@ -54,11 +54,11 @@ Auteur: **William S. Sadler**
 2. Abdias était en quelque sorte un nationaliste étroit.
 3. Sa doctrine ne ressemble pas beaucoup aux enseignements du deuxième Isaïe.
 4. Les âmes dormantes s'appuient beaucoup sur la doctrine du verset 16.
-5. La dernière moitié du livre est parmi les images les plus fortes du "royaume éternel" - comparable à Daniel et à l'Apocalypse.
+5. La dernière moitié du livre est parmi les images les plus fortes du «royaume éternel» - comparable à Daniel et à l'Apocalypse.
 
 ## V. Textes sélectionnés
 
-1. **État des morts**. "Ils boiront et chancelleront, et seront comme s'ils n'avaient pas été." [v. 16](/fr/Bible/Obadiah/1#v16).
+1. **État des morts**. «Ils boiront et chancelleront, et seront comme s'ils n'avaient pas été.» [v. 16](/fr/Bible/Obadiah/1#v16).
 
 
 <br>

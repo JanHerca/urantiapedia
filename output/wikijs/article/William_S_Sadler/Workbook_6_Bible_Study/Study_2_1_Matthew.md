@@ -132,15 +132,15 @@ Author: **William S. Sadler**
 6. The Matthew gospel is a great literary improvement upon the rather rough style of Mark.
 7. In Matthew Jesus pays special attention to the Jews and always is respectful of the "Law of Moses."
 8. Some features of Matthew are original-not found in Mark or elsewhere in earlier records:
-	Story of Jesus' birth.
-	Peter walking on the water.
-	The temple tax.
-	Fate of Judas.
-	Dream of Pilate's wife.
-	Pilate's washing of his hands.
-	Earthquake at Jesus' death.
-	Sealing of the tomb.
-	Appearance to women, etc.
+	- Story of Jesus' birth.
+	- Peter walking on the water.
+	- The temple tax.
+	- Fate of Judas.
+	- Dream of Pilate's wife.
+	- Pilate's washing of his hands.
+	- Earthquake at Jesus' death.
+	- Sealing of the tomb.
+	- Appearance to women, etc.
 9. Isador puts all of Jesus' teachings into five master discourses.
 10. The five great discourses might be captioned as follows:
 	- A. Sermon on the Mount.

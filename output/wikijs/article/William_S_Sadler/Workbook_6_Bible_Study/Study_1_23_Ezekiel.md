@@ -24,10 +24,10 @@ Author: **William S. Sadler**
 
 ## I. Outline-Brief
 
-1. Oracles of Judgment. 1-24.
-2. Against Foreign Nations. 25-32.
-3. Restoration of Israel. 33-39.
-4. The New Community. 40-48.
+1. Oracles of Judgment. [1-24](/en/Bible/Ezekiel/1).
+2. Against Foreign Nations. [25-32](/en/Bible/Ezekiel/25).
+3. Restoration of Israel. [33-39](/en/Bible/Ezekiel/33).
+4. The New Community. [40-48](/en/Bible/Ezekiel/40).
 
 ## II. Outline-Complete
 

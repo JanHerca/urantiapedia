@@ -34,7 +34,7 @@ Auteur: **William S. Sadler**
 6. Saul a été élu roi par son armée et oint en privé par Samuel à Rama.
 7. Saul a été fait roi à cause de sa victoire sur Ammon. Lui aussi venait d'une famille aisée.
 8. Tout le règne de Saül s'est passé en guerre.
-9. [Saul](https://en.wikipedia.org/wiki/Saul) était une personne maniaco-dépressive et était donc rarement dans un état d'esprit normal. Il était légèrement paranoïaque.
+9. [Saul](https://fr.wikipedia.org/wiki/Sa%C3%BCl) était une personne maniaco-dépressive et était donc rarement dans un état d'esprit normal. Il était légèrement paranoïaque.
 10. Saul rompit avec Samuel et persécuta David.
 11. Le fils de Saül, Jonathan, était un grand ami de David.
 12. David est devenu un hors-la-loi et a organisé une armée privée.
@@ -68,122 +68,70 @@ Auteur: **William S. Sadler**
 15. David présidait alors réellement un empire, mais en vieillissant, la question de la succession devint un problème.
 16. Maintenant se produisit la rébellion d'Absalom. [II Sam 13-19](/fr/Bible/2_Samuel/13).
 17. Ensuite vint la rébellion de Saba. [II Sam 20](/fr/Bible/2_Samuel/20). Il s'agissait d'une tentative de retirer le nord d'Israël du royaume.
-18. D'après des tablettes récemment découvertes à Mari, David était connu comme le "chef bien-aimé".
+18. D'après des tablettes récemment découvertes à Mari, David était connu comme le «chef bien-aimé».
 19. David a introduit la musique dans le rituel juif du culte.
 20. Voici un aperçu de la carrière de David :
+	- a. **DAVID L'HOMME**
+		- (1) Judéen, de Bethléem. [I Sam 16:1-3](/fr/Bible/1_Samuel/16#v1).
+		- (2) Berger. [I Sam 16:11](/fr/Bible/1_Samuel/16#v11).
+		- (3) Musicien. [I Sam 16:14-23](/fr/Bible/1_Samuel/16#v14).
+		- (4) Poète. [II Sam 1:17-27](/fr/Bible/2_Samuel/1#v17).
+		- (5) Guerrier. [I Sam 17](/fr/Bible/1_Samuel/17).
+		- (6) Ami de Jonathan. [I Sam 18:1-4](/fr/Bible/1_Samuel/18#v1). [19:1-7](/fr/Bible/1_Samuel/19#v1).
+		- (7) Ennemi de Saül. [I Sam 18:5-22](/fr/Bible/1_Samuel/18#v5).
+		- (8) Sauvé par Michal. [I Sam 18:22-29](/fr/Bible/1_Samuel/18#v22).
+	- b. **DAVID UN FUGITIF ET HORS-LA-LA-LOI**
+		- (1) À Naioth, à Ramah. [I Sam 19:18-20:42](/fr/Bible/1_Samuel/19#v18).
+		- (2) Chez Nob. [I Sam 21:1-9](/fr/Bible/1_Samuel/21#v1); [22:11-21](/fr/Bible/1_Samuel/22#v11).
+		- (3) À Gath. [I Sam 21:10-15](/fr/Bible/1_Samuel/21#v10); [27:1](/fr/Bible/1_Samuel/27#v1).
+		- (4) Grotte d'Adullam. [I Sam 22:1](/fr/Bible/1_Samuel/22#v1).
+		- (5) Mitspa. [I Sam 22:3](/fr/Bible/1_Samuel/22#v3).
+		- (6) Forêt de Hereth. [I Sam 22:5](/fr/Bible/1_Samuel/22#v5).
+		- (7) Keilah. [I Sam 23:1-13](/fr/Bible/1_Samuel/23#v1).
+		- (8) Désert de Ziph. [I Sam 23:14-24](/fr/Bible/1_Samuel/23#v14).
+		- (9) Maon en Arabie. [I Sam 23:24-28](/fr/Bible/1_Samuel/23#v24).
+		- (10) Engedi. [I Sam 23:29-24:22](/fr/Bible/1_Samuel/23#v29).
+		- (11) Gath (Akisch). [I Sam 27](/fr/Bible/1_Samuel/27): 1-5.
+		- (12) Ziklag. [I Sam 27:6](/fr/Bible/1_Samuel/27#v6). ([I Chron 12:1-22](/fr/Bible/1_Chronicles/12#v1))
+	- c. **DAVID ROI DU ROYAUME-UNI**
+		- (1) Oint à Hébron. [II Sam 2:1-11](/fr/Bible/2_Samuel/2#v1).
+		- (2) La contre-révolution d'Abner. [II Sam 2:12-4:12](/fr/Bible/2_Samuel/2#v12).
+		- (3) David élu roi d'Israël. [II Sam 5:1-5](/fr/Bible/2_Samuel/5#v1). [I Chron 11:1-3](/fr/Bible/1_Chronicles/11#v1). [I Chron 12:23-40](/fr/Bible/1_Chronicles/12#v23).
+		- (4) Capture' et fait de Jérusalem sa capitale. [II Sam 5:6-10](/fr/Bible/2_Samuel/5#v6). [I Chron 11:4-9](/fr/Bible/1_Chronicles/11#v4).
+		- (5) Alliance avec Hiram, roi de Tyr. [II Sam 5:11](/fr/Bible/2_Samuel/5#v11). [I Chron 14:1](/fr/Bible/1_Chronicles/14#v1).
+		- (6) Fait de Jérusalem la capitale religieuse :
+		- (a) En transférant l'arche. [II Sam 6:1-19](/fr/Bible/2_Samuel/6#v1). [I Chron 13:1-14](/fr/Bible/1_Chronicles/13#v1). [I Chron 15:1-16:29](/fr/Bible/1_Chronicles/15#v1).
+		- (b) Par les prières et la préparation. [I Chron 21:18-22:5](/fr/Bible/1_Chronicles/21#v18).
+	- d. **PERSONNALITÉS ET ÉVÉNEMENTS DU RÈGNE DE DAVID**
+		- (1) Sa famille. [II Sam 3:2-5](/fr/Bible/2_Samuel/3#v2); [13-16](/fr/Bible/2_Samuel/13). [I Chron 3:1-9](/fr/Bible/1_Chronicles/3#v1); [14:3-7](/fr/Bible/1_Chronicles/14#v3).
+		- (2) L'épisode de Bath-Shéba. [II Sam 11:2-12:25](/fr/Bible/2_Samuel/11#v2).
+		- (3) Fonctionnaires de la Cour. [II Sam 8:15-18](/fr/Bible/2_Samuel/8#v15); [20:23-26](/fr/Bible/2_Samuel/20#v23). [I Chron 18:14-17](/fr/Bible/1_Chronicles/18#v14). [1 Chron 27:25-34](/fr/Bible/1_Chronicles/27#v25).
+		- (4) Fils de Saül. [II Sam 21:1-14](/fr/Bible/2_Samuel/21#v1).
+		- (5) Fils de Jonathan. [II Sam 4:4](/fr/Bible/2_Samuel/4#v4); [9:1-13](/fr/Bible/2_Samuel/9#v1).
+		- (6) Guerriers illustres. [II Sam 23:8-12](/fr/Bible/2_Samuel/23#v8); [18-39](/fr/Bible/2_Samuel/18). [I Chron 11:1-14](/fr/Bible/1_Chronicles/11#v1). [I Chron 11:20-47](/fr/Bible/1_Chronicles/11#v20); [27:1-24](/fr/Bible/1_Chronicles/27#v1).
+		- (7) Réaliser le recensement. [II Sam 24](/fr/Bible/2_Samuel/24). [I Chron 21](/fr/Bible/1_Chronicles/21).
+	- e. **GUERRES DE CONQUÊTE**
+		- (1) Philistins. [II Sam 5:17-25](/fr/Bible/2_Samuel/5#v17); [21:15-22](/fr/Bible/2_Samuel/21#v15); [23:13-17](/fr/Bible/2_Samuel/23#v13). [I Chron 11:15-19](/fr/Bible/1_Chronicles/11#v15); [14:8-17](/fr/Bible/1_Chronicles/14#v8) ; [18:1](/fr/Bible/1_Chronicles/18#v1); [20:4-8](/fr/Bible/1_Chronicles/20#v4).
+		- (2) Moabites. [II Sam 8:2](/fr/Bible/2_Samuel/8#v2). [I Chron 18:2](/fr/Bible/1_Chronicles/18#v2).
+		- (3) Tsoba. [II Sam 8:3](/fr/Bible/2_Samuel/8#v3). [I Chron 18:3,4](/fr/Bible/1_Chronicles/18#v3).
+		- (4) Syriens. [II Sam 8:5-12](/fr/Bible/2_Samuel/8#v5). [I Chron 18:5-8](/fr/Bible/1_Chronicles/18#v5).
+		- (5) Édomites. [II Sam 8:13,14](/fr/Bible/2_Samuel/8#v13). [I Chron 18:11-13](/fr/Bible/1_Chronicles/18#v11).
+		- (6) Ammonites. [II Sam 10:6-11:1](/fr/Bible/2_Samuel/10#v6); [12:26-31](/fr/Bible/2_Samuel/12#v26). [I Chron 19-20:3](/fr/Bible/1_Chronicles/19).
+	- f. **REBELLIONS**
+		- (1) Absalom. [II Sam 13-19](/fr/Bible/2_Samuel/13).
+		- (2) Saba. [II Sam 20:1-22](/fr/Bible/2_Samuel/20#v1).
+		- (3) Adoniya. [I Rois 1](/fr/Bible/1_Kings/1).
+	- g. **CHARGE DE DAVID À SALOMON**
+		- [I Rois 2:1-11](/fr/Bible/1_Kings/2#v1). [I Chron 23:1](/fr/Bible/1_Chronicles/23#v1); [29:20-25](/fr/Bible/1_Chronicles/29#v20).
 
-a **DAVID L'HOMME**
+**REMARQUE** ; Le trône de David devient un symbole des futurs espoirs d'Israël concernant le Messie : Le Messie devait s'asseoir sur le trône de David et régner sur le monde.
 
-(1) Judéen, de Bethléem. [I Sam 16:1-3](/fr/Bible/1_Samuel/16#v1).
-
-(2) Berger. [I Sam 16:11](/fr/Bible/1_Samuel/16#v11).
-
-(3) Musicien. [I Sam 16:14-23](/fr/Bible/1_Samuel/16#v14).
-
-(4) Poète. [II Sam 1:17-27](/fr/Bible/2_Samuel/1#v17).
-
-(5) Guerrier. [I Sam 17](/fr/Bible/1_Samuel/17).
-
-(6) Ami de Jonathan. [I Sam 18:1-4](/fr/Bible/1_Samuel/18#v1). [19:1-7](/fr/Bible/1_Samuel/19#v1).
-
-(7) Ennemi de Saül. [I Sam 18:5-22](/fr/Bible/1_Samuel/18#v5).
-
-(8) Sauvé par Michal. [I Sam 18:22-29](/fr/Bible/1_Samuel/18#v22).
-
-b. ** DAVID UN FUGITIF ET HORS-LA-LA-LOI**
-
-(1) À Naioth, à Ramah. [I Sam 19:18-20:42](/fr/Bible/1_Samuel/19#v18).
-
-(2) Chez Nob. [I Sam 21:1-9](/fr/Bible/1_Samuel/21#v1); [22:11-21](/fr/Bible/1_Samuel/22#v11).
-
-(3) À Gath. [I Sam 21:10-15](/fr/Bible/1_Samuel/21#v10); [27:1](/fr/Bible/1_Samuel/27#v1).
-
-(4) Grotte d'Adullam. [I Sam 22:1](/fr/Bible/1_Samuel/22#v1).
-
-(5) Mitspa. [I Sam 22:3](/fr/Bible/1_Samuel/22#v3).
-
-(6) Forêt de Hereth. [I Sam 22:5](/fr/Bible/1_Samuel/22#v5).
-
-(7) Keilah. [I Sam 23:1-13](/fr/Bible/1_Samuel/23#v1).
-
-(8) Désert de Ziph. [I Sam 23:14-24](/fr/Bible/1_Samuel/23#v14).
-
-(9) Maon en Arabie. [I Sam 23:24-28](/fr/Bible/1_Samuel/23#v24).
-
-(10) Engedi. [I Sam 23:29-24:22](/fr/Bible/1_Samuel/23#v29).
-
-(11) Gath (Akisch). [I Sam 27](/fr/Bible/1_Samuel/27): 1-5.
-
-(12) Ziklag. [I Sam 27:6](/fr/Bible/1_Samuel/27#v6). ([I Chron 12:1-22](/fr/Bible/1_Chronicles/12#v1))
-
-c. **DAVID ROI DU ROYAUME-UNI**
-
-(1) Oint à Hébron. [II Sam 2:1-11](/fr/Bible/2_Samuel/2#v1).
-
-(2) La contre-révolution d'Abner. [II Sam 2:12-4:12](/fr/Bible/2_Samuel/2#v12).
-
-(3) David élu roi d'Israël. [II Sam 5:1-5](/fr/Bible/2_Samuel/5#v1). [I Chron 11:1-3](/fr/Bible/1_Chronicles/11#v1). [I Chron 12:23-40](/fr/Bible/1_Chronicles/12#v23).
-
-(4) Capture' et fait de Jérusalem sa capitale. [II Sam 5:6-10](/fr/Bible/2_Samuel/5#v6). [I Chron 11:4-9](/fr/Bible/1_Chronicles/11#v4).
-
-(5) Alliance avec Hiram, roi de Tyr. [II Sam 5:11](/fr/Bible/2_Samuel/5#v11). [I Chron 14:1](/fr/Bible/1_Chronicles/14#v1).
-
-(6) Fait de Jérusalem la capitale religieuse :
-
-(a) En transférant l'arche. [II Sam 6:1-19](/fr/Bible/2_Samuel/6#v1). [I Chron 13:1-14](/fr/Bible/1_Chronicles/13#v1). [I Chron 15:1-16:29](/fr/Bible/1_Chronicles/15#v1).
-
-(b) Par les prières et la préparation. [I Chron 21:18-22:5](/fr/Bible/1_Chronicles/21#v18).
-
-ré. **PERSONNALITÉS ET ÉVÉNEMENTS DU RÈGNE DE DAVID**
-
-(1) Sa famille. [II Sam 3:2-5](/fr/Bible/2_Samuel/3#v2); [13-16](/fr/Bible/2_Samuel/13). [I Chron 3:1-9](/fr/Bible/1_Chronicles/3#v1); [14:3-7](/fr/Bible/1_Chronicles/14#v3).
-
-(2) L'épisode de Bath-Shéba. [II Sam 11:2-12:25](/fr/Bible/2_Samuel/11#v2).
-
-(3) Fonctionnaires de la Cour. [II Sam 8:15-18](/fr/Bible/2_Samuel/8#v15); [20:23-26](/fr/Bible/2_Samuel/20#v23). [I Chron 18:14-17](/fr/Bible/1_Chronicles/18#v14). [1 Chron 27:25-34](/fr/Bible/1_Chronicles/27#v25).
-
-(4) Fils de Saül. [II Sam 21:1-14](/fr/Bible/2_Samuel/21#v1).
-
-(5) Fils de Jonathan. [II Sam 4:4](/fr/Bible/2_Samuel/4#v4); [9:1-13](/fr/Bible/2_Samuel/9#v1).
-
-(6) Guerriers illustres. [II Sam 23:8-12](/fr/Bible/2_Samuel/23#v8); [18-39](/fr/Bible/2_Samuel/18). [I Chron 11:1-14](/fr/Bible/1_Chronicles/11#v1). [I Chron 11:20-47](/fr/Bible/1_Chronicles/11#v20); [27:1-24](/fr/Bible/1_Chronicles/27#v1).
-
-(7) Réaliser le recensement. [II Sam 24](/fr/Bible/2_Samuel/24). [I Chron 21](/fr/Bible/1_Chronicles/21).
-
-e. **GUERRES DE CONQUÊTE**
-
-(1) Philistins. [II Sam 5:17-25](/fr/Bible/2_Samuel/5#v17); [21:15-22](/fr/Bible/2_Samuel/21#v15); [23:13-17](/fr/Bible/2_Samuel/23#v13). [I Chron 11:15-19](/fr/Bible/1_Chronicles/11#v15); [14:8-17](/fr/Bible/1_Chronicles/14#v8) ; [18:1](/fr/Bible/1_Chronicles/18#v1); [20:4-8](/fr/Bible/1_Chronicles/20#v4).
-
-(2) Moabites. [II Sam 8:2](/fr/Bible/2_Samuel/8#v2). [I Chron 18:2](/fr/Bible/1_Chronicles/18#v2).
-
-(3) Tsoba. [II Sam 8:3](/fr/Bible/2_Samuel/8#v3). [I Chron 18:3,4](/fr/Bible/1_Chronicles/18#v3).
-
-(4) Syriens. [II Sam 8:5-12](/fr/Bible/2_Samuel/8#v5). [I Chron 18:5-8](/fr/Bible/1_Chronicles/18#v5).
-
-(5) Édomites. [II Sam 8:13,14](/fr/Bible/2_Samuel/8#v13). [I Chron 18:11-13](/fr/Bible/1_Chronicles/18#v11).
-
-(6) Ammonites. [II Sam 10:6-11:1](/fr/Bible/2_Samuel/10#v6); [12:26-31](/fr/Bible/2_Samuel/12#v26). [I Chron 19-20:3](/fr/Bible/1_Chronicles/19).
-
-F. **REBELLIONS**
-
-(1) Absalom. [II Sam 13-19](/fr/Bible/2_Samuel/13).
-
-(2) Saba. [II Sam 20:1-22](/fr/Bible/2_Samuel/20#v1).
-
-(3) Adoniya. [I Rois 1](/fr/Bible/1_Kings/1).
-
-g. **CHARGE DE DAVID À SALOMON**
-
-> [I Rois 2:1-11](/fr/Bible/1_Kings/2#v1). [I Chron 23:1](/fr/Bible/1_Chronicles/23#v1); [29:20-25](/fr/Bible/1_Chronicles/29#v20).
-
-> **REMARQUE** ; Le trône de David devient un symbole des futurs espoirs d'Israël concernant le Messie : Le Messie devait s'asseoir sur le trône de David et régner sur le monde.
-
-> David n'a pas été autorisé à construire le temple, car il avait été "un homme de guerre". Il a été autorisé à rassembler des matériaux pour son fils Salomon qui a été chargé de construire le temple.
+David n'a pas été autorisé à construire le temple, car il avait été «un homme de guerre». Il a été autorisé à rassembler des matériaux pour son fils Salomon qui a été chargé de construire le temple.
 
 ## III. La monarchie sous Salomon
 
 960 - 922 avant JC
-1. [Salomon](https://en.wikipedia.org/wiki/Solomon) était un grand bâtisseur et il est devenu quelque chose comme un dirigeant oriental autocratique.
+1. [Salomon](https://fr.wikipedia.org/wiki/Salomon_(roi_d%27Isra%C3%ABl)) était un grand bâtisseur et il est devenu quelque chose comme un dirigeant oriental autocratique.
 2. La politique étrangère de Salomon était une politique d'expansion — par la guerre et par le mariage.
 3. Il a considérablement développé le commerce d'Israël. Le commerce du cuivre, des chevaux et d'autres marchandises a prospéré.
 4. C'était l'âge d'or de la prospérité économique d'Israël.
@@ -198,7 +146,7 @@ g. **CHARGE DE DAVID À SALOMON**
 13. Salomon semble avoir été une personnalité glamour et pompeuse, et il aimait le pouvoir.
 14. C'était une légende que lorsque Salomon a été couronné roi, il n'a pas demandé la richesse et la gloire, mais seulement la **sagesse**.
 15. Sa réputation de « sage » était très répandue. [I Rois 4:30](/fr/Bible/1_Kings/4#v30). Il prononça de sages paroles. Il était assisté d'un corps d'« écrivains » de cour.
-16. La [Reine de Saba](https://en.wikipedia.org/wiki/Queen_of_Sheba) lui a rendu visite et a témoigné de sa sagesse.
+16. La [Reine de Saba](https://fr.wikipedia.org/wiki/Reine_de_Saba) lui a rendu visite et a témoigné de sa sagesse.
 17. Il semblait avoir été un naturaliste polyvalent. [I Rois 4:33](/fr/Bible/1_Kings/4#v33); [10:24](/fr/Bible/1_Kings/10#v24).
 18. Les générations suivantes le considéraient comme l'auteur du livre des Proverbes.
 19. Salomon pouvait faire de telles conquêtes à cette époque parce que l'Égypte et l'Assyrie étaient dans un état de repos affaibli.

@@ -40,16 +40,12 @@ Author: **William S. Sadler**
 12. For the Moses story, see [UB 96:3.1](/en/The_Urantia_Book/95#p3_1)
 13. Remember that Moses had spent years with Kenites before going back to lead the Hebrews out of Egypt.
 14. There are almost two stories about the wilderness wanderings:
-
-a. In one, they tarry a long time at Sinai.
-
-b. In the other they seem to have spent this time at Kadesh
+	- a. In one, they tarry a long time at Sinai.
+	- b. In the other they seem to have spent this time at Kadesh
 15. One of these narratives calls the mountain Sinai, the other Horeb.
 16. Some students think it possible there were two invasions of Palestine:
-
-a. The Kadesh group going in from the south by slow infiltration.
-
-b. The Sinai group going over the Jordan from the east after the destruction of Jericho.
+	- a. The Kadesh group going in from the south by slow infiltration.
+	- b. The Sinai group going over the Jordan from the east after the destruction of Jericho.
 17. The conquest of Canaan was gradual and never complete.
 
 ## II. Formation Of The Israelites

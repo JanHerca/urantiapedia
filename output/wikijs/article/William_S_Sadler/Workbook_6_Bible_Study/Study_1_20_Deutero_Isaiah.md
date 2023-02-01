@@ -114,29 +114,29 @@ Author: **William S. Sadler**
 	- F. Even rhymes.
 	- G. Dramatic style.
 12. His work shows Isaiah to be a master of oriental literary devices, viz.:
-	Strong contrasts.
-	Figurative forms.
-	Question devices.
-	Dialogue.
-	Quotations.
-	Satire ([44:9-20](/en/Bible/Isaiah/44#v9)).
-	Historic analogue.
-	Use of imperatives.
-	Repetition (Comfort, comfort, [40:1](/en/Bible/Isaiah/40#v1)).
+	- Strong contrasts.
+	- Figurative forms.
+	- Question devices.
+	- Dialogue.
+	- Quotations.
+	- Satire ([44:9-20](/en/Bible/Isaiah/44#v9)).
+	- Historic analogue.
+	- Use of imperatives.
+	- Repetition (Comfort, comfort, [40:1](/en/Bible/Isaiah/40#v1)).
 13. Me was a master of oriental imagery. He portrayed God as:
-	Shepherd.
-	Conqueror.
-	Warrior.
-	Woman in travail.
-	Destroyer.
-	Leader of the blind.
-	King on his throne.
-	Universal judge.
-	Faithful husband.
-	Father of Israel.
-	Creator.
-	Redeemer.
-	Lord of nature and history.
+	- Shepherd.
+	- Conqueror.
+	- Warrior.
+	- Woman in travail.
+	- Destroyer.
+	- Leader of the blind.
+	- King on his throne.
+	- Universal judge.
+	- Faithful husband.
+	- Father of Israel.
+	- Creator.
+	- Redeemer.
+	- Lord of nature and history.
 14. There is a characteristic use of triads. See [47:4](/en/Bible/Isaiah/47#v4). "Our Redeemer-the Lord of Hosts is his name-is the Holy One of Israel."
 
 ## V. Teachings of Isaiah
@@ -160,12 +160,12 @@ Author: **William S. Sadler**
 	- B. Dramatic-rather than expository.
 	- C. Lyrical-rather than prosaic.
 16. A typical verse:
-	"Sing, O heavens, for the Lord has done it;
-	shout, O depths of the earth;
-	break forth into singing, O mountains,
-	O forest, and every tree in it!
-	For the Lord has redeemed Jacob,
-	and will be glorified in Israel." [44:23](/en/Bible/Isaiah/44#v23).
+	> "Sing, O heavens, for the Lord has done it;
+	> shout, O depths of the earth;
+	> break forth into singing, O mountains,
+	> O forest, and every tree in it!
+	> For the Lord has redeemed Jacob,
+	> and will be glorified in Israel." [44:23](/en/Bible/Isaiah/44#v23).
 17. He was fond of portraying spiritual redemption in the imagery of military victory.
 18. He reiterates: Remember history and expect the new age.
 19. His battle cry: "Fear not."
@@ -211,10 +211,10 @@ Author: **William S. Sadler**
 ### Summing it all up
 
 If you had to put all of all three Isaiahs in one verse, it might be [Isa. 41:13](/en/Bible/Isaiah/41#v13):
-	"For I, the Lord your God,
-	hold your right hand;
-	it is I who say to you, 'Fear not,
-	I will help you.'"
+> "For I, the Lord your God,
+> hold your right hand;
+> it is I who say to you, 'Fear not,
+> I will help you.'"
 
 ## IX. Selected Texts
 
@@ -229,11 +229,12 @@ If you had to put all of all three Isaiahs in one verse, it might be [Isa. 41:13
 9. **Wounded for our transgressions**. "He was wounded for our transgressions, he was bruised for our iniquities." [53:5](/en/Bible/Isaiah/53#v5).
 10. **The contrite heart**. "'I dwell...with him who is of a contrite and humble spirit.'" [57:15](/en/Bible/Isaiah/57#v15).
 11. **No rest for the wicked**. "'But the wicked are like the tossing sea; for it cannot rest, and its waters toss up mire and dirt. There is no peace, says my God, for the wicked.'" [57:20,21](/en/Bible/Isaiah/57#v20).
-12. **The Lord's fast**. "'Is not this the fast that I choose:
-	to loose the bonds of wickedness,
-	to undo the thongs of the yoke,
-	to let the oppressed go free,
-	and to break every yoke?
+12. **The Lord's fast**. 
+	> "'Is not this the fast that I choose:
+	> to loose the bonds of wickedness,
+	> to undo the thongs of the yoke,
+	> to let the oppressed go free,
+	> and to break every yoke?
 	"Then shall your light break forth like the dawn, and your healing shall spring up speedily.'" [58:6,8](/en/Bible/Isaiah/58#v6).
 13. **Like a watered garden**. "'And you shall be like a watered garden, like a spring of water.'" [58:11](/en/Bible/Isaiah/58#v11).
 14. **Arise and shine**. "Arise, shine; for your light has come, and the glory of the Lord has risen upon you." [60:1](/en/Bible/Isaiah/60#v1).

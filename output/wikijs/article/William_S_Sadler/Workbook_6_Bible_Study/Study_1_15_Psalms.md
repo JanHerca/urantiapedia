@@ -34,15 +34,15 @@ Author: **William S. Sadler**
 
 1. Nothing definite is known about the author of any psalm.
 2. Assumed authors of Psalms are as follows:
-	David-79.
-	Asaph-12.
-	Solomon-2. 72,27.
-	Heman-1. 88.
-	Jeremiah-1. 137.
-	Korah-10.
-	Moses-1. 90.
-	Ethan-1. 89.
-	Anonymous-43.
+	- David-[79](/en/Bible/Psalms/79).
+	- Asaph-[12](/en/Bible/Psalms/12).
+	- Salomon-2. [72](/en/Bible/Psalms/72),[27](/en/Bible/Psalms/27).
+	- Heman-1. [88](/en/Bible/Psalms/88).
+	- Jeremiah-1. [137](/en/Bible/Psalms/137).
+	- Korah-[10](/en/Bible/Psalms/10).
+	- Moses-1. [90](/en/Bible/Psalms/90).
+	- Ethan-1. [89](/en/Bible/Psalms/89).
+	- Anonymous-[43](/en/Bible/Psalms/43).
 
 ## III. General Considerations
 

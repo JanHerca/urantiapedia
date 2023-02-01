@@ -83,30 +83,30 @@ Auteur: **William S. Sadler**
 	- A. Son alliance avec Abraham.
 	- B. Il les a délivrés de l'esclavage égyptien.
 	- C. Il les conduisit dans la terre promise.
-5. L'analogue du Nouveau Testament se trouve dans 1 Pierre I:4. "Un héritage qui est impérissable, sans souillure et qui ne se fane pas."
+5. L'analogue du Nouveau Testament se trouve dans 1 Pierre I:4. «Un héritage qui est impérissable, sans souillure et qui ne se fane pas.»
 
 (Ce livre faisait partie d'un ensemble plus vaste qui embrassait les récits deutéronomiques s'étendant de l'époque de la conquête au royaume.)
 
 ## VI. Textes sélectionnés
 
-1. **Mandat de Joshua**. "'Comme j'étais avec Moïse, je serai avec toi, je ne te décevrai pas ni ne t'abandonnerai. Sois fort et bon courage.'" [1:5,6](/fr/Bible/Joshua/1#v5).
-2. **Espionner Jéricho**. "'Allez voir le pays, surtout Jéricho.' Et ils allèrent, et entrèrent dans la maison d'une prostituée dont le nom était Rahab, et y logèrent." [2:1](/fr/Bible/Joshua/2#v1).
-	"Puis elle les fit descendre par une corde par la fenêtre, car sa maison était encastrée dans la muraille de la ville." [2:15](/fr/Bible/Joshua/2#v15).
-3. **Passage au-dessus de la Jordanie**. "Et pendant que tout Israël passait à sec, les sacrificateurs qui portaient l'arche... se tenaient à sec au milieu du Jourdain, jusqu'à ce que toute la nation ait fini de passer." [3:17](/fr/Bible/Joshua/3#v17).
+1. **Mandat de Joshua**. «'Comme j'étais avec Moïse, je serai avec toi, je ne te décevrai pas ni ne t'abandonnerai. Sois fort et bon courage.'» [1:5,6](/fr/Bible/Joshua/1#v5).
+2. **Espionner Jéricho**. «'Allez voir le pays, surtout Jéricho.' Et ils allèrent, et entrèrent dans la maison d'une prostituée dont le nom était Rahab, et y logèrent.» [2:1](/fr/Bible/Joshua/2#v1).
+	«Puis elle les fit descendre par une corde par la fenêtre, car sa maison était encastrée dans la muraille de la ville.» [2:15](/fr/Bible/Joshua/2#v15).
+3. **Passage au-dessus de la Jordanie**. «Et pendant que tout Israël passait à sec, les sacrificateurs qui portaient l'arche... se tenaient à sec au milieu du Jourdain, jusqu'à ce que toute la nation ait fini de passer.» [3:17](/fr/Bible/Joshua/3#v17).
 4. **Prendre Jéricho**. « Et l'Éternel dit à Josué : Voici, j'ai livré entre tes mains Jéricho, avec son roi et ses vaillants hommes. » [6:2](/fr/Bible/Joshua/6#v2).
-	"'Tu marcheras autour de la ville... une fois... pendant six jours.'" [6:3](/fr/Bible/Joshua/6#v3).
-	"Le septième jour, ils ont... fait le tour de la ville... sept fois." [6:15](/fr/Bible/Joshua/6#v15).
-	"Le peuple a poussé un grand cri, et le mur est tombé à plat." [6:20](/fr/Bible/Joshua/6#v20).
-	"Mais Rahab la prostituée... et tout ce qui lui appartenait, Josué l'a sauvé." [6:25](/fr/Bible/Joshua/6#v25).
-5. **Le péché d'Acan**. "Et ils s'enfuirent devant les hommes d'Ai." [7:4](/fr/Bible/Joshua/7#v4).
-	"Et Acan répondit à Josué: 'En vérité, j'ai péché... Quand j'ai vu parmi le butin un beau manteau... je... les ai pris... ils sont cachés dans la terre à l'intérieur de ma tente.'" [ 7:20,21](/fr/Bible/Joshua/7#v20).
-6. **Embuscade d'Ai**. "L'embuscade s'est rapidement levée de leur place ... ils ont couru et sont entrés dans la ville et l'ont prise; et ils se sont dépêchés de mettre le feu à la ville." [8:19](/fr/Bible/Joshua/8#v19).
-7. **Déception de Gabaon**. "Les habitants de Gabaon ... ont agi avec ruse et sont allés ... et ont pris des sacs usés ... des sandales rapiécées ... et des vêtements usés; et toutes leurs provisions étaient sèches et moisies." [9:3-5](/fr/Bible/Joshua/9#v3).
-	"Et Josué fit la paix avec eux, et fit alliance avec eux, pour les laisser vivre." [9:15](/fr/Bible/Joshua/9#v15).
-	"Josué... leur dit : 'Pourquoi nous avez-vous trompés... certains d'entre vous seront toujours esclaves, coupeurs de bois et puiseurs d'eau.'" [9:22,23](/fr/Bible/Joshua /9#v22).
-8. **Le soleil s'arrête**. "Alors Josué parla... 'Soleil, arrête-toi à Gabaon'... Et le soleil s'arrêta, et la lune s'arrêta, jusqu'à ce que la nation se venge de ses ennemis." [10:12,13](/fr/Bible/Joshua/10#v12).
-9. **Réclamations de victoire**. "Alors toute l'assemblée du peuple d'Israël s'assembla à Silo et y dressa la tente d'assignation ; le pays était soumis devant eux." [18:1](/fr/Bible/Joshua/18#v1).
-10. **Nature de Yahweh**. « Josué dit au peuple : ‘Vous ne pouvez pas servir le Seigneur, car c’est un Dieu saint ; c’est un Dieu jaloux ; il ne pardonnera ni vos transgressions ni vos péchés.’ » [24:19](/fr/Bible/ Josué/24#v19).
+	«'Tu marcheras autour de la ville... une fois... pendant six jours.'» [6:3](/fr/Bible/Joshua/6#v3).
+	«Le septième jour, ils ont... fait le tour de la ville... sept fois.» [6:15](/fr/Bible/Joshua/6#v15).
+	«Le peuple a poussé un grand cri, et le mur est tombé à plat.» [6:20](/fr/Bible/Joshua/6#v20).
+	«Mais Rahab la prostituée... et tout ce qui lui appartenait, Josué l'a sauvé.» [6:25](/fr/Bible/Joshua/6#v25).
+5. **Le péché d'Acan**. «Et ils s'enfuirent devant les hommes d'Ai.» [7:4](/fr/Bible/Joshua/7#v4).
+	«Et Acan répondit à Josué: 'En vérité, j'ai péché... Quand j'ai vu parmi le butin un beau manteau... je... les ai pris... ils sont cachés dans la terre à l'intérieur de ma tente.'» [ 7:20,21](/fr/Bible/Joshua/7#v20).
+6. **Embuscade d'Ai**. «L'embuscade s'est rapidement levée de leur place ... ils ont couru et sont entrés dans la ville et l'ont prise; et ils se sont dépêchés de mettre le feu à la ville.» [8:19](/fr/Bible/Joshua/8#v19).
+7. **Déception de Gabaon**. «Les habitants de Gabaon ... ont agi avec ruse et sont allés ... et ont pris des sacs usés ... des sandales rapiécées ... et des vêtements usés; et toutes leurs provisions étaient sèches et moisies.» [9:3-5](/fr/Bible/Joshua/9#v3).
+	«Et Josué fit la paix avec eux, et fit alliance avec eux, pour les laisser vivre.» [9:15](/fr/Bible/Joshua/9#v15).
+	«Josué... leur dit : 'Pourquoi nous avez-vous trompés... certains d'entre vous seront toujours esclaves, coupeurs de bois et puiseurs d'eau.'» [9:22,23](/fr/Bible/Joshua /9#v22).
+8. **Le soleil s'arrête**. «Alors Josué parla... 'Soleil, arrête-toi à Gabaon'... Et le soleil s'arrêta, et la lune s'arrêta, jusqu'à ce que la nation se venge de ses ennemis.» [10:12,13](/fr/Bible/Joshua/10#v12).
+9. **Réclamations de victoire**. «Alors toute l'assemblée du peuple d'Israël s'assembla à Silo et y dressa la tente d'assignation ; le pays était soumis devant eux.» [18:1](/fr/Bible/Joshua/18#v1).
+10. **Nature de Yahweh**. « Josué dit au peuple : ‘Vous ne pouvez pas servir le Seigneur, car c’est un Dieu saint ; c’est un Dieu jaloux ; il ne pardonnera ni vos transgressions ni vos péchés.’ » [24:19](/fr/Bible/Joshua/24#v19).
 
 
 <br>

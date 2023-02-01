@@ -47,9 +47,9 @@ Auteur: **William S. Sadler**
 
 ## IV. Textes sélectionnés
 
-1. **La vraie foi**. "Lutter pour la foi qui a été transmise aux saints une fois pour toutes." [v.3](/fr/Bible/Jude/1#v3).
-2. **Les fauteurs de troubles**. "'Dans les derniers temps, il y aura des moqueurs, suivant leurs propres passions impies.'" [v.18](/fr/Bible/Jude/1#v18).
-3. **Sécurité éternelle**. "Maintenant à celui qui peut vous empêcher de tomber et vous présenter sans défaut devant la présence de sa gloire avec joie," [v.24](/fr/Bible/Jude/1#v24).
+1. **La vraie foi**. «Lutter pour la foi qui a été transmise aux saints une fois pour toutes.» [v.3](/fr/Bible/Jude/1#v3).
+2. **Les fauteurs de troubles**. «'Dans les derniers temps, il y aura des moqueurs, suivant leurs propres passions impies.'» [v.18](/fr/Bible/Jude/1#v18).
+3. **Sécurité éternelle**. «Maintenant à celui qui peut vous empêcher de tomber et vous présenter sans défaut devant la présence de sa gloire avec joie,» [v.24](/fr/Bible/Jude/1#v24).
 
 
 <br>

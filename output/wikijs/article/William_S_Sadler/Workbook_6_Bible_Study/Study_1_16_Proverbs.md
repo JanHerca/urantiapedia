@@ -74,11 +74,11 @@ Author: **William S. Sadler**
 3. The majority of these proverbs are of pre-exilic origin.
 4. Section I is assigned to post-exilic origin because of style, and evidence of Phoenician influence.
 5. Section II is the core of the book-375 proverbs. The main characters:
-	The righteous and the wicked.
-	The wise and the fool.
-	The rich and the poor.
-	The proud and the humble.
-	The thrifty and the lazy.
+	- The righteous and the wicked.
+	- The wise and the fool.
+	- The rich and the poor.
+	- The proud and the humble.
+	- The thrifty and the lazy.
 6. Section III shows every evidence of being derived from the Egyptian Wisdom Book-by Amenemope. 800 B.C.
 7. So-called Solomon's proverbs were collected and edited by someone associated with King Hezekiah. This is Section IV.
 8. Authors of the remaining sections are uncertain, but the dates of these parts seem to be post-exilic.
@@ -90,7 +90,7 @@ Author: **William S. Sadler**
 	- A. Balaam-Num. 23, 24.
 	- B. Ethan, the Ezrahite.
 	- C. Heman, Calcol, Darda-Edomites.
-2. Prov. 8 and 9 are of Canaanite origin.
+2. Prov. [8](/en/Bible/Proverbs/8) and [9](/en/Bible/Proverbs/9) are of Canaanite origin.
 3. [Prov. 22:17-23:14](/en/Bible/Proverbs/22#v17) are directly quoted from Egyptian teachings of Amenemope. (Amenemope's teachings are also found in [Ps. 1](/en/Bible/Psalms/1) and [Jer. 17:5-8](/en/Bible/Jeremiah/17#v5).)
 4. Did Israel borrow from the surrounding nations, or did they borrow from Israel? Or did they both draw from an older and common source?
 5. Wisdom literature denounced intemperate, dishonest, and selfish living. It advocated "common sense."
@@ -206,10 +206,10 @@ Author: **William S. Sadler**
 41. **The tomorrow**. "Do not boast about tomorrow, for you do not know what a day may bring forth." [27:1](/en/Bible/Proverbs/27#v1).
 42. **The wicked flee**. "The wicked flee when no one pursues, but the righteous are as bold as a lion." [28:1](/en/Bible/Proverbs/28#v1).
 43. **Four mysteries**. "Four (things) I do not understand:
-	the way of an eagle in the sky,
-	the way of a serpent on a rock,
-	the way of a ship on the high seas,
-	and the way of a man with a maiden." [30:18,19](/en/Bible/Proverbs/30#v18).
+	- the way of an eagle in the sky,
+	- the way of a serpent on a rock,
+	- the way of a ship on the high seas,
+	- and the way of a man with a maiden." [30:18,19](/en/Bible/Proverbs/30#v18).
 44. **Strong drink**. "Give strong drink to him who is perishing, and wine to those in bitter distress." [31:6](/en/Bible/Proverbs/31#v6).
 
 

@@ -29,16 +29,11 @@ Author: **William S. Sadler**
 3. The early religion was henotheism. Yahweh was the God of Israel—but there were other gods.
 4. The dual record of Israel’s faith is shown by the two versions of the Ten Commandments. [Ex 20](/en/Bible/Exodus/20). [Deut 5](/en/Bible/Deuteronomy/5).
 5. Early records of faith:
-
-a. Song of Deborah. [Judg 5](/en/Bible/Judges/5).
-
-b. Blessing of Jacob. [Gen 49](/en/Bible/Genesis/49).
-
-c. Balaam Oracles. [Num 23, 24](/en/Bible/Numbers/23).
-
-d. Song of Moses. [Ex 15:1-18](/en/Bible/Exodus/15#v1).
-
-e. Blessing of Moses. [Deut 33](/en/Bible/Deuteronomy/33).
+	- a. Song of Deborah. [Judg 5](/en/Bible/Judges/5).
+	- b. Blessing of Jacob. [Gen 49](/en/Bible/Genesis/49).
+	- c. Balaam Oracles. [Num 23, 24](/en/Bible/Numbers/23).
+	- d. Song of Moses. [Ex 15:1-18](/en/Bible/Exodus/15#v1).
+	- e. Blessing of Moses. [Deut 33](/en/Bible/Deuteronomy/33).
 6. The hub of Israel’s faith was the Sinai covenant—they were the “chosen people.”
 7. Rituals, laws, ceremonies, **all** cluster around the covenant relationship.
 8. They were forbidden to have idols, but they made a fetish out of the “ark of the covenant.”
@@ -49,14 +44,10 @@ e. Blessing of Moses. [Deut 33](/en/Bible/Deuteronomy/33).
 13. But they did believe that nature was dominated, by lower forms of “spirits.”
 14. Yahweh was neither a sun god nor a fertility god.
 15. Somehow they managed to create 12 clans—one for each of Jacob’s 12 sons:
-
-a. Six sons of Lean—Reuben, Simeon, Levi, Judah, Issachar, Zebulun.
-
-b. Two by Leah’s slave, Zilpah—Gad and Asher.
-
-c. Two by his second wife, Rachel—Joseph and Benjamin.
-
-d. Two more by Rachel’s slave, Bilhah—Dan and Naphtali.
+	- a. Six sons of Lean—Reuben, Simeon, Levi, Judah, Issachar, Zebulun.
+	- b. Two by Leah’s slave, Zilpah—Gad and Asher.
+	- c. Two by his second wife, Rachel—Joseph and Benjamin.
+	- d. Two more by Rachel’s slave, Bilhah—Dan and Naphtali.
 16. How artificial these 12 tribes were is shown when the loss of the Levites, who ceased to be a secular clan, was compensated by turning Joseph into two clans—Ephraim and Manasseh.
 17. How the [amphictyony](https://en.wikipedia.org/wiki/Amphictyon) worked is shown by the book of Judges.
 18. The presence of the ark determined the central shrine. In the wilderness —the “tent of ’meeting.” Later on—at Jerusalem, the temple.

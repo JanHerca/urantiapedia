@@ -33,7 +33,7 @@ De la mort de Salomon au milieu du VIIIe siècle
 4. Le schisme a été suivi de deux générations de guerres sporadiques, et tout cela sans conclusion.
 5. La première génération :
 
-une. Roboam de Juda, 922-915.
+a. Roboam de Juda, 922-915.
 b. Jéroboam d'Israël, 922-901.
 6. Le Shishak égyptien a envahi Juda—frappé avec une force énorme. Roboam a payé un grand tribut.
 7. Les troubles en Égypte ont poussé Shishak à se retirer.
@@ -57,7 +57,7 @@ b. Jéroboam d'Israël, 922-901.
 8. Les prophètes de Baal et d'Asherah jouissaient d'un statut officiel. I Rois 18:19.
 9. Élie a commencé sa bataille avec Jézabel et les prophètes de Baal. Bien qu'Achab et Jézabel aient tenu bon pendant un certain temps, ils sont finalement tombés.
 10. Achazia (850-849) et Joram (849-842) suivirent après la chute d'Achab. Les troubles à Damas et Moab ont détruit toute paix.
-11. Élisée cause des problèmes à la "Maison d'Omri". Il y eut un grand renouveau du Yahwehisme.
+11. Élisée cause des problèmes à la «Maison d'Omri». Il y eut un grand renouveau du Yahwehisme.
 12. Les Récabites (Kénites) étaient des fauteurs de troubles internes. Ils suivaient les pratiques naziréennes.
 13. Maintenant vint la purge sanglante de Jéhu - 842. II Rois 9,10. Jéhu entra à Jizréel et jeta Jézabel par la fenêtre. Le culte de Baal a été détruit.
 14. Les choses en Juda se sont améliorées sous Josaphat (873-849). Il établit de nombreuses réformes. II Chron 19:4-11.

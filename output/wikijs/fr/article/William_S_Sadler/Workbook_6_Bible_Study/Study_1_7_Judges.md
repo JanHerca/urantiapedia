@@ -55,8 +55,8 @@ Auteur: **William S. Sadler**
 
 ## III. Paternité
 
-1. C'est l'un des. cinq livres Deutéronomiques, et le deuxième livre du groupe des "Anciens Prophètes".
-2. Le livre original était de J et E, basé sur la tradition orale et probablement les enregistrements écrits de deux livres perdus-["Jasher](https://en.wikipedia.org/wiki/Book_of_Jasher_%28Biblical_references%29)" et "[Les guerres du Seigneur"](https://en.wikipedia.org/wiki/Book_of_the_Wars_of_the_Lord).
+1. C'est l'un des. cinq livres Deutéronomiques, et le deuxième livre du groupe des «Anciens Prophètes».
+2. Le livre original était de J et E, basé sur la tradition orale et probablement les enregistrements écrits de deux livres perdus-[«Jasher](https://en.wikipedia.org/wiki/Book_of_Jasher_%28Biblical_references%29)» et «[Les guerres du Seigneur»](https://en.wikipedia.org/wiki/Book_of_the_Wars_of_the_Lord).
 3. Tout cela a été entièrement réécrit par un [Deutéronome] capable et pieux (https://en.wikipedia.org/wiki/Deutéronome).
 4. Il y a très peu de P dans le livre des Juges tel que nous l'avons maintenant.
 
@@ -83,13 +83,13 @@ Auteur: **William S. Sadler**
 - Barak et Déborah. [4:5,6](/fr/Bible/Judges/4#v5).
 - Gédéon. [6:1-8:32](/fr/Bible/Judges/6#v1).
 - Abimélek. [8:33-9:57](/fr/Bible/Judges/8#v33).
--Tola. [10:1,2](/fr/Bible/Judges/10#v1).
+- Tola. [10:1,2](/fr/Bible/Judges/10#v1).
 - Jaïr. [10:3-5](/fr/Bible/Judges/10#v3).
 - Jephté. 11-[12:7](/fr/Bible/Judges/12#v7).
--Ibzan. [12:8-10](/fr/Bible/Judges/12#v8).
+- Ibzan. [12:8-10](/fr/Bible/Judges/12#v8).
 - Élon. [12:11,12](/fr/Bible/Judges/12#v11).
--Abdon. [12:13-15](/fr/Bible/Judges/12#v13).
--Samson. [13:24-16:31](/fr/Bible/Judges/13#v24)
+- Abdon. [12:13-15](/fr/Bible/Judges/12#v13).
+- Samson. [13:24-16:31](/fr/Bible/Judges/13#v24)
 
 ## VI. La période des juges
 
@@ -108,18 +108,16 @@ Auteur: **William S. Sadler**
 
 (La morale de l'époque peut être jugée par l'histoire de la concubine mourant de mauvais traitements, puis découpée et les parties envoyées à l'étranger dans le pays comme un appel à venger l'outrage.)
 
-##VII. Textes sélectionnés
+## VII. Textes sélectionnés
 
-1. **Mort de Josué**. "Et Josué... est mort à l'âge de cent dix ans." [2:8](/fr/Bible/Judges/2#v8).
-2. **Victoire de Deborah et Barak**. "Et le Seigneur mit Sisera en déroute... et son armée... et Sisera descendit de son char et s'enfuit... Et l'armée de Sisera tomba sous le tranchant de l'épée ; il ne resta pas un homme." [4:15,16](/fr/Bible/Judges/4#v15).
+1. **Mort de Josué**. «Et Josué... est mort à l'âge de cent dix ans.» [2:8](/fr/Bible/Judges/2#v8).
+2. **Victoire de Deborah et Barak**. «Et le Seigneur mit Sisera en déroute... et son armée... et Sisera descendit de son char et s'enfuit... Et l'armée de Sisera tomba sous le tranchant de l'épée ; il ne resta pas un homme.» [4:15,16](/fr/Bible/Judges/4#v15).
 3. **Chanson de Déborah**. [5:1-31](/fr/Bible/Judges/5#v1).
-4. **Victoire de Gédéon**. "Et les trois compagnies sonnaient des trompettes et brisaient les jarres, tenant dans leurs mains gauches les torches... et elles criaient : 'Une épée pour le Seigneur et pour Gédéon !'" [7:20](/fr/Bible/ Juges/7#v20).
-5. **Vœu de Jephté**. "Jephté a fait un vœu à l'Éternel..." Si tu veux livrer les Ammonites entre mes mains, quiconque sortira des portes de ma maison à ma rencontre... appartiendra à l'Éternel, et je l'offrirai pour un holocauste.'" [11:30,31](/fr/Bible/Judges/11#v30).
-
-"Alors Jephté vint chez lui à Mitspa; et voici, sa fille sortit à sa rencontre." [11:34](/fr/Bible/Judges/11#v34).
-6. **La défaite de Samson**. "Elle l'a fait dormir sur ses genoux; et elle a appelé un homme, et lui a fait raser les sept tresses de sa tête ... et sa force l'a quitté." [16:19](/fr/Bible/Judges/16#v19).
-
-"Alors il s'inclina de toutes ses forces, et la maison tomba sur les seigneurs et sur tout le peuple qui s'y trouvait." [16:30](/fr/Bible/Judges/16#v30).
+4. **Victoire de Gédéon**. «Et les trois compagnies sonnaient des trompettes et brisaient les jarres, tenant dans leurs mains gauches les torches... et elles criaient : 'Une épée pour le Seigneur et pour Gédéon !'» [7:20](/fr/Bible/ Juges/7#v20).
+5. **Vœu de Jephté**. «Jephté a fait un vœu à l'Éternel...» Si tu veux livrer les Ammonites entre mes mains, quiconque sortira des portes de ma maison à ma rencontre... appartiendra à l'Éternel, et je l'offrirai pour un holocauste.'" [11:30,31](/fr/Bible/Judges/11#v30).
+	«Alors Jephté vint chez lui à Mitspa; et voici, sa fille sortit à sa rencontre.» [11:34](/fr/Bible/Judges/11#v34).
+6. **La défaite de Samson**. «Elle l'a fait dormir sur ses genoux; et elle a appelé un homme, et lui a fait raser les sept tresses de sa tête ... et sa force l'a quitté.» [16:19](/fr/Bible/Judges/16#v19).
+	«Alors il s'inclina de toutes ses forces, et la maison tomba sur les seigneurs et sur tout le peuple qui s'y trouvait.» [16:30](/fr/Bible/Judges/16#v30).
 
 
 <br>

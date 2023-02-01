@@ -53,9 +53,9 @@ C'est l'intention de ce livre de commémorer la destruction tragique de Jérusal
 
 ## IV. Textes sélectionnés
 
-1. **Absinthe et fiel**. "Souviens-toi de mon affliction et de mon amertume, de l'absinthe et du fiel !" [3:19](/fr/Bible/Lamentations/3#v19).
-2. **En attendant le salut**. "Il est bon d'attendre tranquillement le salut du Seigneur." [3:26](/fr/Bible/Lamentations/3#v26).
-3. **Source d'affliction**. "Car il n'afflige ni n'afflige volontairement les fils des hommes." [3:33](/fr/Bible/Lamentations/3#v33).
+1. **Absinthe et fiel**. «Souviens-toi de mon affliction et de mon amertume, de l'absinthe et du fiel !» [3:19](/fr/Bible/Lamentations/3#v19).
+2. **En attendant le salut**. «Il est bon d'attendre tranquillement le salut du Seigneur.» [3:26](/fr/Bible/Lamentations/3#v26).
+3. **Source d'affliction**. «Car il n'afflige ni n'afflige volontairement les fils des hommes.» [3:33](/fr/Bible/Lamentations/3#v33).
 
 
 <br>

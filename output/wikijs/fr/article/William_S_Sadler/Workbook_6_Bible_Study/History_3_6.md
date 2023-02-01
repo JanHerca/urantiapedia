@@ -26,7 +26,7 @@ Auteur: **William S. Sadler**
 
 1. La Samarie et l'Idumée étaient rattachées à la Judée ; Pérée était rattachée à la Galilée.
 2. Sous Alexandre, la Palestine était relativement libre – indépendante, sauf quand Antiochus a tenté de détruire les « superstitions juives ».
-3. La [révolte hasmonéenne] (http://www.history.umd.edu/Faculty/HLapin/HIST282/282HerodRoman.pdf) a réussi au-delà de toute anticipation. Israël a été étendu en territoire.
+3. La [révolte hasmonéenne](http://www.history.umd.edu/Faculty/HLapin/HIST282/282HerodRoman.pdf) a réussi au-delà de toute anticipation. Israël a été étendu en territoire.
 4. Le peuple n'aimait pas les prêtres militaires - a.guerre civile de cinq ans a éclaté.
 5. Alexandra, la veuve de Jannaeus, a apporté la paix.
 
@@ -36,7 +36,7 @@ Auteur: **William S. Sadler**
 2. La Samarie et la Galilée étaient rattachées à la Syrie. Les voisins d'Israël ont salué les Romains comme un libérateur.
 3. Les Romains étaient très tolérants envers les coutumes locales et accordaient une pleine liberté religieuse.
 4. Les murs de Jérusalem ont été reconstruits et Joppé a été accordée comme port maritime.
-5. Hérode devint roi de Judée. Cet Iduméen reçut le titre de "Roi des Juifs".
+5. Hérode devint roi de Judée. Cet Iduméen reçut le titre de «Roi des Juifs».
 6. Césarée est devenue la capitale et la Judée et la Samarie ont été reconstruites.
 7. La Palestine était divisée en trois parties administratives :
 	- a. Galilée et Pérée—Antipas.
@@ -48,13 +48,13 @@ Auteur: **William S. Sadler**
 	- b. Les Sadducéens étaient les fondamentalistes.
 	- c. Les Esséniens étaient les isolationnistes – le culte ascétique.
 10. Les Zélotes étaient le parti politique du « home rule ».
-11. Le pire problème avec Rome est venu quand Gaius (37-41) a voulu mettre sa statue dans le "saint des saints" dans le temple de Jérusalem.
+11. Le pire problème avec Rome est venu quand Gaius (37-41) a voulu mettre sa statue dans le «saint des saints» dans le temple de Jérusalem.
 12. Les Juifs continuaient à chercher le Messie, tandis qu'ils rejetaient Jésus. En 132 après JC, ils acceptèrent Bar Cocheba et commencèrent une nouvelle révolte contre Rome.
 13. Après cela, le Sanhédrin a été rétabli au pouvoir. Les impôts étaient perçus par des agents salariés. Seules les coutumes étaient « sous-traitées » aux publicains.
 14. Après Archelaus, la Judée était gouvernée par des procurateurs, Pilate étant le cinquième de cet ordre à gouverner la Judée.
 15. Agrippa, petit-fils d'Hérode, était le dernier des procurateurs. Il était le plus populaire de tous les gouverneurs romains.
 16. Enfin, un autre roi semi-juif s'assit sur le trône de David, au moins pendant trois ans.
-17. Enfin (AD 66) la révolte à grande échelle contre Rome a éclaté. Cela s'est terminé en 70 après JC lorsque Titus a pris Jérusalem et "pas une pierre du temple n'a été laissée sur une autre".
+17. Enfin (AD 66) la révolte à grande échelle contre Rome a éclaté. Cela s'est terminé en 70 après JC lorsque Titus a pris Jérusalem et «pas une pierre du temple n'a été laissée sur une autre».
 18. Les chrétiens, prévenus par Jésus, s'enfuirent à Pella. Mais les Juifs ne leur ont jamais pardonné d'avoir ainsi abandonné Jérusalem.
 
 ## III. La loi et son interprétation

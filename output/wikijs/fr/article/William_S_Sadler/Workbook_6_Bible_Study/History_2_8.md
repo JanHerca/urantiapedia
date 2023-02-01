@@ -36,25 +36,17 @@ La candidature de l'Assyrie
 7. Nous entrons dans les derniers jours de l'empire assyrien. Les Mèdes et les Perses arrivent au pouvoir, ainsi que les Cimmériens et les Scythes.
 8. Asshur-banapal fait un dernier effort héroïque pour sauver l'Assyrie, passe deux ans à soumettre Babylone, fait des ravages parmi les tribus arabes et transplante des étrangers en Samarie.
 9. L'empire assyrien s'est renversé et est tombé en moins de 20 ans.
-10. Avec la fin de l'Assyrie, une fois de plus Juda était libre par défaut. [Josiah](https://en.wikipedia.org/wiki/Josiah) monta sur le trône et commença ses réformes.
+10. Avec la fin de l'Assyrie, une fois de plus Juda était libre par défaut. [Josiah](https://fr.wikipedia.org/wiki/Josias) monta sur le trône et commença ses réformes.
 11. Les principales réformes de Josias étaient :
-
-une. Le temple se répare.
-
-b. Trouver le Deutéronome dans le temple.
-
-c. Répudiation du culte et des dieux assyriens.
-
-ré. Rétablissement de la Pâque.
-
-e. Destruction des idoles.
-
-F. Fin des pratiques magiques.
-
-g. Fermeture du temple de Béthel.
+	- a. Le temple se répare.
+	- b. Trouver le Deutéronome dans le temple.
+	- c. Répudiation du culte et des dieux assyriens.
+	- d. Rétablissement de la Pâque.
+	- e. Destruction des idoles.
+	- f. Fin des pratiques magiques.
+	- g. Fermeture du temple de Béthel.
 12. Le livre de [Deutéronome](/fr/Bible/Deuteronomy/1) était la base de toutes les réformes ultérieures du roi.
-
-13 Dans les dernières années de Josias, un nouveau groupe de prophètes se leva.
+13. Dans les dernières années de Josias, un nouveau groupe de prophètes se leva.
 14. Josias a perdu la vie en défendant Haran sur le champ de bataille de [Megiddo](https://en.wikipedia.org/wiki/Tel_Megiddo), aux mains des envahisseurs égyptiens.
 
 ## II. Les derniers jours de Juda
@@ -76,7 +68,7 @@ g. Fermeture du temple de Béthel.
 2. Lorsque la promesse d'Isaïe que Jérusalem ne serait pas prise s'est accomplie, ils ont été confirmés dans la croyance en l'inviolabilité du temple.
 3. Ces faux espoirs ont poussé la nation tête baissée dans une rébellion suicidaire.
 4. Habacuc considère les Babyloniens comme l'instrument de la discipline de Yahweh. [Hab 1:2-11](/fr/Bible/Habakkuk/1#v2).
-5. Le tragique [Jérémie](https://en.wikipedia.org/wiki/Jeremiah) a fait tout son possible pour montrer aux Juifs le vrai sens de ce qui s'était passé.
+5. Le tragique [Jérémie](https://fr.wikipedia.org/wiki/J%C3%A9r%C3%A9mie) a fait tout son possible pour montrer aux Juifs le vrai sens de ce qui s'était passé.
 6. Jérémie et Sophonie ont souligné le paganisme de Manassé. Ils laissaient entendre que les réformes n'avaient été que superficielles.
 7. Jérémie a commencé à prêcher l'oraison funèbre de la nation. [Jer 11:9-17](/fr/Bible/Jeremiah/11#v9). Ils l'ont amené sur eux-mêmes en abandonnant Yahweh. [Jer 2:14-17](/fr/Bible/Jeremiah/2#v14).
 8. Les prophètes ont promis que le châtiment n'était que temporaire, que la délivrance viendrait du nord.
@@ -86,14 +78,10 @@ g. Fermeture du temple de Béthel.
 12. Les prophètes ont condamné Israël pour le moment, mais ils l'ont sauvé de l'extinction.
 13. Les vicissitudes du culte de Yahweh se manifestèrent dans la conduite capricieuse des rois d'Israël. Salomon est allé après les dieux des Moabites et des Ammonites. Jéroboam a installé des veaux d'or à Béthel et à Dan. Jézabel, la reine phénicienne d'Achab, dirigeait le culte de Baal. Manassé éleva des autels à « l'armée des cieux ».
 14. Les Juifs perdent leurs prophètes. Ils ne parviennent pas à devenir un peuple missionnaire. Ils dépendent :
-
-une. Sacramentalisme.
-
-b. Juridisme.
-
-c. Philosophie—sagesse.
-
-ré. Apocalypticisme.
+	- a. Sacramentalisme.
+	- b. Juridisme.
+	- c. Philosophie—sagesse.
+	- d. Apocalypticisme.
 
 
 <br>

@@ -57,7 +57,7 @@ Auteur: **William S. Sadler**
 
 ## III. Michée et son époque
 
-1. Michée ne parle pas beaucoup ni de l'idolâtrie ni de l'immortalité. Son message est : "Agis avec justice, aime la bonté et marche humblement avec ton Dieu."
+1. Michée ne parle pas beaucoup ni de l'idolâtrie ni de l'immortalité. Son message est : «Agis avec justice, aime la bonté et marche humblement avec ton Dieu.»
 3. Les trois parties du livre traitent de :
 	- A. Jugement.
 	- B. Confort.
@@ -67,17 +67,17 @@ Auteur: **William S. Sadler**
 6. Il a dénoncé les fonctionnaires malhonnêtes et corrompus.
 7. Michée n'était pas dans la classe littéraire de Deutéro-Isaïe et d'Amos, mais il était de loin supérieur à Ézéchiel.
 8. Michée est l'un des meilleurs livres unifiés de l'Ancien Testament. Il n'a reçu que peu de modifications éditoriales.
-9. Michée a lancé la campagne de "réforme sociale" qui a été reprise par Sophonie, les psalmistes, Jean-Baptiste, Jésus, François d'Assise et John Wesley.
+9. Michée a lancé la campagne de «réforme sociale» qui a été reprise par Sophonie, les psalmistes, Jean-Baptiste, Jésus, François d'Assise et John Wesley.
 
 ## IV. Textes sélectionnés
 
-1. **Futilité de la prière**. "Alors ils crieront à l'Éternel, mais il ne leur répondra pas; il leur cachera sa face à ce moment-là, parce qu'ils ont fait de mauvaises actions." [3:4](/fr/Bible/Micah/3#v4).
-2. **Conversion des nations**. "Et plusieurs nations viendront et diront : 'Venez, montons à la montagne de l'Éternel, à la maison du Dieu de Jacob.'" [4:2](/fr/Bible/Micah/4#v2).
-3. **Épées en socs**. "Et ils transformeront leurs épées en socs de charrue, et leurs lances en serpes... et ils n'apprendront plus la guerre." [4:3](/fr/Bible/Micah/4#v3).
-4. **Caractère individuel**. "Ils s'assiéront chacun sous sa vigne et sous son figuier, et personne ne les effrayera." [4:4](/fr/Bible/Micah/4#v4).
-5. **Sacrifices sans valeur**. "'Le Seigneur sera-t-il satisfait de milliers de béliers, de dix mille fleuves d'huile ? Donnerai-je mon premier-né pour ma transgression, le fruit de mon corps pour le péché de mon âme ?'" [6:7] (/fr/Bible/Micah/6#v7).
-6. **Ce que le Seigneur exige**. "'Il t'a montré, ô homme, ce qui est bon ; et qu'est-ce que le Seigneur exige de toi, sinon que tu fasses justice, et que tu aimes la bonté, et que tu marches humblement avec ton Dieu ?'" [6:8](/fr/ Bible/Michée/6#v8).
-7. **Attributs de Dieu**. "Qui est un Dieu comme toi, qui pardonne l'iniquité et passe par-dessus la transgression pour le reste de son héritage ? Il ne garde pas sa colère pour toujours parce qu'il prend plaisir à un amour inébranlable." [7:18](/fr/Bible/Micah/7#v18).
+1. **Futilité de la prière**. «Alors ils crieront à l'Éternel, mais il ne leur répondra pas; il leur cachera sa face à ce moment-là, parce qu'ils ont fait de mauvaises actions.» [3:4](/fr/Bible/Micah/3#v4).
+2. **Conversion des nations**. «Et plusieurs nations viendront et diront : 'Venez, montons à la montagne de l'Éternel, à la maison du Dieu de Jacob.'» [4:2](/fr/Bible/Micah/4#v2).
+3. **Épées en socs**. «Et ils transformeront leurs épées en socs de charrue, et leurs lances en serpes... et ils n'apprendront plus la guerre.» [4:3](/fr/Bible/Micah/4#v3).
+4. **Caractère individuel**. «Ils s'assiéront chacun sous sa vigne et sous son figuier, et personne ne les effrayera.» [4:4](/fr/Bible/Micah/4#v4).
+5. **Sacrifices sans valeur**. «'Le Seigneur sera-t-il satisfait de milliers de béliers, de dix mille fleuves d'huile ? Donnerai-je mon premier-né pour ma transgression, le fruit de mon corps pour le péché de mon âme ?'» [6:7] (/fr/Bible/Micah/6#v7).
+6. **Ce que le Seigneur exige**. «'Il t'a montré, ô homme, ce qui est bon ; et qu'est-ce que le Seigneur exige de toi, sinon que tu fasses justice, et que tu aimes la bonté, et que tu marches humblement avec ton Dieu ?'» [6:8](/fr/ Bible/Michée/6#v8).
+7. **Attributs de Dieu**. «Qui est un Dieu comme toi, qui pardonne l'iniquité et passe par-dessus la transgression pour le reste de son héritage ? Il ne garde pas sa colère pour toujours parce qu'il prend plaisir à un amour inébranlable.» [7:18](/fr/Bible/Micah/7#v18).
 
 
 <br>

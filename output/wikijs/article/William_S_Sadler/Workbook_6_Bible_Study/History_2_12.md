@@ -50,15 +50,11 @@ Author: **William S. Sadler**
 ## II. Theology Of Early Judaism
 
 1. There were two diverse and contending attitudes among the Jews:
-
-a. A narrow-minded and intolerant attitude toward all gentiles.
-
-b. A warm concern for the salvation of the world.
+	- a. A narrow-minded and intolerant attitude toward all gentiles.
+	- b. A warm concern for the salvation of the world.
 2. This conflict and tension now became real. Stated otherwise it was:
-
-a. The Jews as the “chosen people”—Yahweh’s elect.
-
-b. Yahweh as the God of all nations—missionary obligations.
+	- a. The Jews as the “chosen people”—Yahweh’s elect.
+	- b. Yahweh as the God of all nations—missionary obligations.
 3. Israel was surrounded by paganism. Nehemiah and Ezra thought they must protect the remnant of Israel from moral contamination.
 4. The Jews succumbed to the idea and the ideal of a “holy people.” They surrendered to racial isolationism.
 5. Hate of gentiles gained over love for gentiles. Intermarriage was taboo.
@@ -79,26 +75,16 @@ b. Yahweh as the God of all nations—missionary obligations.
 1. Presently John the Baptist came. Then began the conflict with Jesus’ teachings—and their rejection.
 2. Sects and parties were springing up—Israel was becoming divided and weakened.
 3. There were:
-
-a. Pharisees.
-
-b. Sadducees.
-
-c. Nationalists.
-
-d. Hasidim.
-
-e. Nazarites.
-
-f. Roman loyalists.
-
-g. Maccabeans.
-
-h. Essenes.
-
-i. Qumrans.
-
-j. Christians.
+	- a. Pharisees.
+	- b. Sadducees.
+	- c. Nationalists.
+	- d. Hasidim.
+	- e. Nazarites.
+	- f. Roman loyalists.
+	- g. Maccabeans.
+	- h. Essenes.
+	- i. Qumrans.
+	- j. Christians.
 4. Then came the revolt against Rome and the END.
 
 

@@ -45,7 +45,7 @@ Auteur: **William S. Sadler**
 2. Cela suggère quelque temps avant que Néhémie ne commence ses réformes.
 3. Cette époque est également suggérée par la conquête des Édomites par les Arabes nabatéens.
 4. Les gens sont découragés. « Où est le Dieu de justice ? [2:17](/fr/Bible/Malachi/2#v17). Quelle preuve que Dieu nous aime ? [1:2](/fr/Bible/Malachi/1#v2).
-5. Malachie pourrait être sous-titré "Un message pour un âge de découragement".
+5. Malachie pourrait être sous-titré «Un message pour un âge de découragement».
 
 ## IV. Le message
 
@@ -57,15 +57,15 @@ Auteur: **William S. Sadler**
 3. Malachie présente la première mention réelle de la « paternité de Dieu et de la fraternité des hommes ». [2:10](/fr/Bible/Malachi/2#v10).
 4. Le livre est dominé par une passion pour Dieu associée à une profonde sympathie pour l'homme.
 5. Malachie rivalise avec tous les autres prophètes de l'Ancien Testament pour exalter la nature universelle de Dieu.
-6. Malachie est directement ou indirectement cité dans le Nouveau Testament : [Mark 1:2](/fr/Bible/Mark/1#v2) ([Mal 3:1](/fr/Bible/Malachi/3#v1) ); [Marc 9:11](/fr/Bible/Mark/9#v11) et [Luc 1:17](/fr/Bible/Luke/1#v17) ([Mal 4:5](/fr/Bible/ Malachie/4#v5)); [Rom 9:13](/fr/Bible/Romans/9#v13) ([Mal 1:2,3](/fr/Bible/Malachi/1#v2)).
+6. Malachie est directement ou indirectement cité dans le Nouveau Testament : [Mark 1:2](/fr/Bible/Mark/1#v2) ([Mal 3:1](/fr/Bible/Malachi/3#v1) ); [Marc 9:11](/fr/Bible/Mark/9#v11) et [Luc 1:17](/fr/Bible/Luke/1#v17) ([Mal 4:5](/fr/Bible/Malachie/4#v5)); [Rom 9:13](/fr/Bible/Romans/9#v13) ([Mal 1:2,3](/fr/Bible/Malachi/1#v2)).
 
 ## V. Textes sélectionnés
 
-1. **Dieu déteste le divorce**. "'Car je hais le divorce, dit le Seigneur Dieu d'Israël.'" [2:16](/fr/Bible/Malachi/2#v16).
-2. **L'immuabilité de Dieu**. "'Car moi, le Seigneur, je ne change pas.'" [3:6](/fr/Bible/Malachi/3#v6).
-3. **Voler Dieu**. "'Vous me volez... dans vos dîmes et vos offrandes.'" [3:8](/fr/Bible/Malachi/3#v8).
-4. **Le livre du souvenir**. "Ceux qui craignaient l'Éternel se parlaient les uns aux autres; ... et un livre de souvenir a été écrit devant lui de ceux qui craignaient l'Éternel et pensaient à son nom." [3:16](/fr/Bible/Malachi/3#v16).
-5. **Le soleil de justice**. "'Mais pour vous qui craignez mon nom se lèvera le soleil de la justice, avec la guérison dans ses ailes.'" [4:2](/fr/Bible/Malachi/4#v2).
+1. **Dieu déteste le divorce**. «'Car je hais le divorce, dit le Seigneur Dieu d'Israël.'» [2:16](/fr/Bible/Malachi/2#v16).
+2. **L'immuabilité de Dieu**. «'Car moi, le Seigneur, je ne change pas.'» [3:6](/fr/Bible/Malachi/3#v6).
+3. **Voler Dieu**. «'Vous me volez... dans vos dîmes et vos offrandes.'» [3:8](/fr/Bible/Malachi/3#v8).
+4. **Le livre du souvenir**. «Ceux qui craignaient l'Éternel se parlaient les uns aux autres; ... et un livre de souvenir a été écrit devant lui de ceux qui craignaient l'Éternel et pensaient à son nom.» [3:16](/fr/Bible/Malachi/3#v16).
+5. **Le soleil de justice**. «'Mais pour vous qui craignez mon nom se lèvera le soleil de la justice, avec la guérison dans ses ailes.'» [4:2](/fr/Bible/Malachi/4#v2).
 6. **L'envoi d'Elie**. « Voici, je vous enverrai Élie, le prophète, avant que ne vienne le jour grand et redoutable de l'Éternel. » [4:5](/fr/Bible/Malachi/4#v5).
 
 

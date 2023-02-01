@@ -52,7 +52,7 @@ Auteur: **William S. Sadler**
 4. Et quand il retournerait à contrecœur à sa mission, pleurerait-il bêtement le succès de son travail ?
 5. Une tempête est créée pour affliger le bateau de Jonas, et un calme s'ensuit lorsqu'il est jeté par-dessus bord.
 6. Trois jours dans le ventre du poisson, puis en revenir vivant, c'est tout simplement trop, à accepter.
-7. L'histoire ne reconnaît aucun "roi de Ninive". La taille de la ville, comme le montrent ses ruines, n'est pas la taille absurde indiquée dans Jonas.
+7. L'histoire ne reconnaît aucun «roi de Ninive». La taille de la ville, comme le montrent ses ruines, n'est pas la taille absurde indiquée dans Jonas.
 8. Une gourde pourrait-elle atteindre la taille d'un arbre d'ombrage du jour au lendemain ?
 9. Jonas pouvait-il avertir et convertir une ville entière en un mois ?
 10. Cette parabole est une protestation contre l'amertume des Juifs envers les Gentils, en particulier contre l'édit ordonnant à tous les Juifs d'abandonner leurs femmes et leurs enfants Gentils.
@@ -62,19 +62,19 @@ Auteur: **William S. Sadler**
 
 1. Considérée comme une parabole ou une allégorie, l'histoire est bien faite, c'est vraiment un chef-d'œuvre.
 2. Le nom de Dieu est à la fois Yahweh et Elohim. Cela ne se produirait pas dans un récit religieux sérieux.
-3. Dans les temps anciens, on parlait de Jonas comme étant trois jours dans "le ventre de l'enfer". Ils ne considéraient pas le livre comme factuel.
+3. Dans les temps anciens, on parlait de Jonas comme étant trois jours dans «le ventre de l'enfer». Ils ne considéraient pas le livre comme factuel.
 4. Le psaume introduit au chapitre 2 ressemble beaucoup à ceux trouvés ailleurs dans l'Ancien Testament. Dans près d'une douzaine de psaumes, il y a des passages rappelant Jonas.
 
 ## VI. Textes sélectionnés
 
-1. **La commission de Jonas**. "'Lève-toi, va à Ninive... et crie contre elle.'... Mais Jonas se leva pour s'enfuir à Tarsis... Il descendit à Joppé et trouva un bateau... alors il paya le prix et partit à bord." [1:2,3](/fr/Bible/Jonah/1#v2).
-2. **Jonas jeté par-dessus bord**. "Alors ils prirent Jonas et le jetèrent à la mer." [1:15](/fr/Bible/Jonah/1#v15).
-3. **Le gros poisson**. "Et l'Éternel désigna un grand poisson pour engloutir Jonas; et Jonas fut dans le ventre du poisson trois jours et trois nuits." [1:17](/fr/Bible/Jonah/1#v17).
+1. **La commission de Jonas**. «'Lève-toi, va à Ninive... et crie contre elle.'... Mais Jonas se leva pour s'enfuir à Tarsis... Il descendit à Joppé et trouva un bateau... alors il paya le prix et partit à bord.» [1:2,3](/fr/Bible/Jonah/1#v2).
+2. **Jonas jeté par-dessus bord**. «Alors ils prirent Jonas et le jetèrent à la mer.» [1:15](/fr/Bible/Jonah/1#v15).
+3. **Le gros poisson**. «Et l'Éternel désigna un grand poisson pour engloutir Jonas; et Jonas fut dans le ventre du poisson trois jours et trois nuits.» [1:17](/fr/Bible/Jonah/1#v17).
 4. **Jonas prie**. Alors Jonas pria l'Éternel son Dieu du ventre du poisson." [2:1](/fr/Bible/Jonah/2#v1).
-5. **Dieu parle au poisson**. "Et l'Éternel parla au poisson, et il vomit Jonas sur la terre sèche." [2:10](/fr/Bible/Jonah/2#v10).
-6. **La déception de Jonas**. "Mais cela déplut beaucoup à Jonas, et il se mit en colère... Et il... dit... 'Il vaut mieux que je meure.'" [4:1-3](/fr/Bible/Jonah/4 #v1).
+5. **Dieu parle au poisson**. «Et l'Éternel parla au poisson, et il vomit Jonas sur la terre sèche.» [2:10](/fr/Bible/Jonah/2#v10).
+6. **La déception de Jonas**. «Mais cela déplut beaucoup à Jonas, et il se mit en colère... Et il... dit... 'Il vaut mieux que je meure.'» [4:1-3](/fr/Bible/Jonah/4 #v1).
 7. **Et Dieu crée une plante**. « Dieu a nommé une plante... afin qu'elle soit une ombre au-dessus de sa tête... Alors Jonas était extrêmement heureux à cause de la plante. Mais... Dieu a nommé un ver qui a attaqué la plante... et le soleil a frappé sur lui. la tête de Jonas au point qu'il s'est évanoui." [4:6-8](/fr/Bible/Jonah/4#v6).
-8. **Miséricorde pour l'humanité**. "'Vous avez pitié de la plante... ne devrais-je pas avoir pitié de Ninive, cette grande ville?'" [4:10,11](/fr/Bible/Jonah/4#v10).
+8. **Miséricorde pour l'humanité**. «'Vous avez pitié de la plante... ne devrais-je pas avoir pitié de Ninive, cette grande ville?'» [4:10,11](/fr/Bible/Jonah/4#v10).
 
 
 <br>

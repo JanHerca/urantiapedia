@@ -29,7 +29,7 @@ Auteur: **William S. Sadler**
 3. L'église était en proie à des problèmes internes ainsi qu'à des problèmes externes. Le christianisme gentil était plus vulnérable à l'hérésie.
 4. La prédication de Pierre et les lettres de Paul étaient l'épine dorsale traditionnelle de l'église chrétienne primitive.
 5. Après le décès des apôtres et des membres de la famille de Jésus, des sectes et des hérésies ont commencé à apparaître.
-6. Les "faux prophètes" ont surgi partout. Il y avait deux ailes de chrétiens juifs :
+6. Les «faux prophètes» ont surgi partout. Il y avait deux ailes de chrétiens juifs :
 	- a. Les fondamentalistes étaient les Ebionites.
 	- b. Les libéraux étaient les Nazaréens.
 7. Les Ebionites ont rejeté l'évangile de Matthieu.
@@ -37,7 +37,7 @@ Auteur: **William S. Sadler**
 ## II. Syrie
 
 1. Après l'an 70, Antioche devint le siège de l'église chrétienne. Ici aussi, les Gnostiques avaient leur fief.
-2. Et c'est à Antioche que les disciples de Jésus furent pour la première fois appelés "chrétiens".
+2. Et c'est à Antioche que les disciples de Jésus furent pour la première fois appelés «chrétiens».
 3. Antioche a produit Ignace, le premier martyr connu, après les apôtres.
 4. L'évangile de Marc a été largement diffusé et accepté à Antioche. Plus tard, Matthieu et Luc ont été acceptés.
 5. Pierre était l'autorité traditionnelle de l'église d'Antioche. Même l'« Évangile de Pierre » apocalyptique a été largement lu dans les églises syriennes.
@@ -46,7 +46,7 @@ Auteur: **William S. Sadler**
 8. Vient ensuite le docétisme, niant l'existence matérielle de Jésus. Il n'était « pas né d'une femme » – ne pouvait souffrir ni mourir.
 9. Vient ensuite le gnosticisme, une combinaison de terminologie juive, païenne et chrétienne. Les enseignants gnostiques d'Antioche se sont répandus en Asie Mineure, en Égypte et à Rome.
 10. Ignace, évêque d'Antioche, écrivit des lettres à toutes les églises et à Polycarpe, évêque de Smyrne. Il cherchait à augmenter l'autorité des évêques, à combattre les hérétiques.
-11. Il a fait circuler un manuel sur le gouvernement de l'église connu sous le nom de "l'enseignement des douze apôtres".
+11. Il a fait circuler un manuel sur le gouvernement de l'église connu sous le nom de «l'enseignement des douze apôtres».
 
 ## III. Asie Mineure
 
@@ -54,9 +54,9 @@ Auteur: **William S. Sadler**
 2. Tout pouvait être trouvé à Éphèse : superstition, fraudes, charlatanisme, tension, conflit et hérésie. Disciples de Pierre ou de Paul.
 3. Les lettres de Paul ont d'abord été rassemblées à Éphèse.
 4. Parmi les dirigeants de Jérusalem venus à Hiérapolis se trouvait Philippe, l'un des sept ([Actes 6:5](/fr/Bible/Acts_of_the_Apostles/6#v5)) et ses quatre filles, prophétesse.
-5. Marcion - un docète - a propagé son "erreur" de l'Asie Mineure à Rome. Enfin expulsé de l'église de Rome.
+5. Marcion - un docète - a propagé son «erreur» de l'Asie Mineure à Rome. Enfin expulsé de l'église de Rome.
 6. Marcion n'a accepté que les lettres de Paul et l'évangile de Luc. Il a poussé les églises à adopter un credo.
-7. Puis vint le schisme montaniste—le. "Frénésie phrygienne."
+7. Puis vint le schisme montaniste—le. «Frénésie phrygienne.»
 8. Le 22 février 156 ap. J.-C. marque la date du martyre de Polycarpe, le compagnon de ceux qui « avaient vu le Seigneur ».
 
 ## IV. Grèce
@@ -69,13 +69,13 @@ Auteur: **William S. Sadler**
 
 1. L' « Épître aux Hébreux » et la soi-disant « Épître de Barnabas » étaient adressées aux chrétiens égyptiens.
 2. Le gnosticisme s'est répandu dans toute l'Égypte. Dieu est devenu « l'Absolu Philosophique ».
-3. Ils ont également fait circuler un "Évangile selon les Égyptiens" - étant l'évangile d'une secte, les Encratites.
+3. Ils ont également fait circuler un «Évangile selon les Égyptiens» - étant l'évangile d'une secte, les Encratites.
 
 ## VI. Rome et l'ouest
 
-1. Rome a répandu l'évangile à l'ouest, en utilisant l'évangile de Marc—présentant Jésus en "action"—plutôt qu'en tant que prédicateur.
+1. Rome a répandu l'évangile à l'ouest, en utilisant l'évangile de Marc—présentant Jésus en «action»—plutôt qu'en tant que prédicateur.
 2. Rome commençait à s'intéresser à la discipline de l'église - comment faire pénitence, comment traiter les apostats, etc.
-3. Un petit prophète, Hermas, frère de l'évêque Pie, exerça une influence considérable. Son œuvre "Le berger d'Hermas" a failli entrer dans le canon du Nouveau Testament.
+3. Un petit prophète, Hermas, frère de l'évêque Pie, exerça une influence considérable. Son œuvre «Le berger d'Hermas» a failli entrer dans le canon du Nouveau Testament.
 4. Justin est devenu un professeur laïc de philosophie et un habile défenseur de la « foi » avant son martyre.
 5. Justin a beaucoup écrit contre Marcion et d'autres hérétiques, y compris la réincarnation.
 

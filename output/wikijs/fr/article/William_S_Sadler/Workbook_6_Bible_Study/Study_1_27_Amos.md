@@ -50,7 +50,7 @@ Auteur: **William S. Sadler**
 4. Alors qu'il venait du sud, il prêchait dans le royaume du nord.
 5. Il enseigna sous le règne de Jéroboam II, 786-746 av.
 6. Amos était un grand étudiant et observateur de la nature.
-7. Il n'était pas prophète de profession - il n'appartenait pas à "l'école des prophètes".
+7. Il n'était pas prophète de profession - il n'appartenait pas à «l'école des prophètes».
 8. Amos n'a pas écrit le livre tel que nous l'avons, mais il a fourni le matériel. À partir des écrits et de la tradition, ses disciples ont compilé le livre.
 9. Un optimiste ultérieur s'est enhardi à ajouter trois passages d'espoir-[4:13](/fr/Bible/Amos/4#v13), [5:8,9](/fr/Bible/Amos/5#v8 ), et [9:5,6](/fr/Bible/Amos/9#v5).
 10. Date : Vers 750 av.
@@ -58,12 +58,12 @@ Auteur: **William S. Sadler**
 ## III. Le message d'Amos
 
 1. Amos a dénoncé l'abandon des pauvres et la sensualité des riches.
-2. Il était un "prophète de malheur". Il a proclamé la chute du royaume.
-3. Les Israélites pensaient qu'ils étaient le "peuple élu" - que Yahweh leur appartenait.
-4. Yahweh était "Seigneur de la nature" ainsi que "Souverain des nations".
+2. Il était un «prophète de malheur». Il a proclamé la chute du royaume.
+3. Les Israélites pensaient qu'ils étaient le «peuple élu» - que Yahweh leur appartenait.
+4. Yahweh était «Seigneur de la nature» ainsi que «Souverain des nations».
 5. Yahweh est un « Dieu de justice ».
 6. Il a proclamé un destin final et complet.
-7. Les "ornements d'ivoire" dénoncés par Amos ont été fouillés récemment et se trouvent au musée de la Palestine.
+7. Les «ornements d'ivoire» dénoncés par Amos ont été fouillés récemment et se trouvent au musée de la Palestine.
 8. Amos a dit : Le rituel ne peut pas remplacer la justice.
 9. Amos étendit la juridiction morale de Yahweh sur toutes les nations.
 10. Il a planté les racines du monothéisme universel tel qu'il a envahi le judaïsme, le christianisme et l'islam.
@@ -74,13 +74,13 @@ Auteur: **William S. Sadler**
 
 ## IV. Textes sélectionnés
 
-1. **Révéler ses secrets**. "'Certes, le Seigneur Dieu ne fait rien sans révéler son secret à ses serviteurs les prophètes.'" [3:7](/fr/Bible/Amos/3#v7).
-2. **Le Dieu de la nature**. "Celui qui a fait les Pléiades et Orion, et transforme les ténèbres profondes en matin, et obscurcit le jour en nuit, qui appelle les eaux de la mer, et les verse sur la surface de la terre." [5:8](/fr/Bible/Amos/5#v8).
-3. **Chercher le bien**. "Cherchez le bien et non le mal, afin de vivre." [5:14](/fr/Bible/Amos/5#v14).
-4. **Détester le mal**. "Haïssez le mal, aimez le bien, et établissez la justice à la porte." [5:15](/fr/Bible/Amos/5#v15).
-5. **Justice et droiture**. "Que la justice coule comme des eaux, et la justice comme un torrent débordé." [5:24](/fr/Bible/Amos/5#v24).
-6. **Facilité et sécurité**. "'Malheur à ceux qui sont à l'aise en Sion, et à ceux qui se sentent en sécurité sur la montagne de Samarie.'" [6:1](/fr/Bible/Amos/6#v1).
-7. **Encore une fois le soleil et la lune sombres**. "'Je ferai coucher le soleil à midi, et j'obscurcirai la terre en plein jour.'" [8:9](/fr/Bible/Amos/8#v9).
+1. **Révéler ses secrets**. «'Certes, le Seigneur Dieu ne fait rien sans révéler son secret à ses serviteurs les prophètes.'» [3:7](/fr/Bible/Amos/3#v7).
+2. **Le Dieu de la nature**. «Celui qui a fait les Pléiades et Orion, et transforme les ténèbres profondes en matin, et obscurcit le jour en nuit, qui appelle les eaux de la mer, et les verse sur la surface de la terre.» [5:8](/fr/Bible/Amos/5#v8).
+3. **Chercher le bien**. «Cherchez le bien et non le mal, afin de vivre.» [5:14](/fr/Bible/Amos/5#v14).
+4. **Détester le mal**. «Haïssez le mal, aimez le bien, et établissez la justice à la porte.» [5:15](/fr/Bible/Amos/5#v15).
+5. **Justice et droiture**. «Que la justice coule comme des eaux, et la justice comme un torrent débordé.» [5:24](/fr/Bible/Amos/5#v24).
+6. **Facilité et sécurité**. «'Malheur à ceux qui sont à l'aise en Sion, et à ceux qui se sentent en sécurité sur la montagne de Samarie.'» [6:1](/fr/Bible/Amos/6#v1).
+7. **Encore une fois le soleil et la lune sombres**. «'Je ferai coucher le soleil à midi, et j'obscurcirai la terre en plein jour.'» [8:9](/fr/Bible/Amos/8#v9).
 
 
 <br>
