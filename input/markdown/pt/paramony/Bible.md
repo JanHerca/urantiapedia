@@ -216,7 +216,7 @@
 | His mercy is everlasting                               | Sua misericórdia é eterna                                      |
 | His mighty angels                                      | Seus anjos poderosos                                           |
 | His mighty angels                                      | Seus anjos poderosos                                           |
-| Hold the keys of heaven                                | Segura as chaves do céu                                        |
+| Hold the keys of heaven                                | Mantém as chaves do céu                                        |
 | Holy temple built on earth                             | Templo sagrado construído na terra                             |
 | Humbled / exalted                                      | Humilhado / exaltado                                           |
 | Hunger & thirst for righteousness                      | Fome e sede de justiça                                         |
