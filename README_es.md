@@ -75,4 +75,10 @@ Para saber más acerca de los perfiles que estamos buscando para colaborar consu
 
 ---
 
+## Licencia
+
+El contenido de este proyecto está disponible bajo la [Licencia Creative Commons Attribution-ShareAlike](https://spdx.org/licenses/CC-BY-SA-3.0.html), por Urantiapedia (a menos que se muestre un aviso de copyright). 
+
+---
+
 [Readme - english](https://github.com/JanHerca/urantiapedia/blob/master/README.md)

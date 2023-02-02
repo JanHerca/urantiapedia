@@ -71,5 +71,10 @@ The different roles for *Urantiapedia* collaborators are:
 To find out more about the profiles we are looking to collaborate with, check [Collaborator profiles](https://urantiapedia.org/en/help/roles).
 
 ---
+## License
+
+The content of this project is available under the [Creative Commons Attribution-ShareAlike License](https://spdx.org/licenses/CC-BY-SA-3.0.html), by Urantiapedia (unless copyright notice is shown). 
+
+---
 
 [Readme - spanish](https://github.com/JanHerca/urantiapedia/blob/master/README_es.md)
