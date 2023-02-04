@@ -98,12 +98,12 @@ IMAGE | Une image, qu'il s'agisse d'un dessin ou d'un schéma graphique ou d'une
 
 ## Pages d'aide
 
-Ce sont des pages avec du contenu sur *Urantiapedia* lui-même, comme des manuels d'utilisation, des recommandations, des documents de politique, l'état d'avancement et autres. Ces pages ont ce modèle d'URL : `https://urantiapedia.org/[lan]/help/[title]`
+Ce sont des pages avec du contenu sur *Urantiapedia* lui-même, comme des manuels d'utilisation, des recommandations, des documents de politique, l'état d'avancement et autres. Ces pages ont ce modèle d'URL : `https://urantiapedia.org/[lan]/help/[title]`.
 
 
 ## Livres
 
-Cela inclut non seulement *Le Livre d'Urantia* dans toutes ses traductions, mais aussi la Bible et tout livre du domaine public supposé être une source utilisée par les révélateurs ou dont le contenu peut expliquer les sujets du *Livre d'Urantia*. Peuvent également être inclus des livres qui sont des œuvres dérivées du *Livre d'Urantia* dont les auteurs souhaitent offrir une licence ouverte. Tout cela pourrait comprendre une sorte de *bibliothèque urantienne*, quelque chose comme Wikisource mais tout ce qui concerne le Livre d'Urantia.
+Cela inclut non seulement *Le Livre d'Urantia* dans toutes ses traductions, mais aussi la Bible et tout livre du domaine public supposé être une source utilisée par les révélateurs ou dont le contenu peut expliquer les sujets du *Livre d'Urantia*. Peuvent également être inclus des livres qui sont des œuvres dérivées du *Livre d'Urantia* dont les auteurs souhaitent offrir une licence ouverte. Tout cela pourrait comprendre une sorte de *bibliothèque urantienne*, quelque chose comme [Wikisource](https://wikisource.org/wiki/Main_Page) ou [Archive.org](https://archive.org/) mais tout ce qui concerne le Livre d'Urantia.
 
 ### Le Livre d'Urantia
 

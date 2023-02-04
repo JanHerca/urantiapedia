@@ -103,7 +103,7 @@ Estas são páginas com conteúdo sobre a própria *Urantiapedia*, como manuais 
 
 ## Livros
 
-Isso inclui não apenas *O Livro de Urântia* em todas as suas traduções, mas também a Bíblia e qualquer livro de domínio público que se suponha ser uma fonte usada por reveladores ou com conteúdo que possa explicar tópicos do *Livro de Urântia*. Também podem ser incluídos livros que são trabalhos derivados de *O Livro de Urântia* cujos autores desejam oferecer com uma licença aberta. Tudo isso poderia incluir uma espécie de *biblioteca urantiana*, algo como o Wikisource, mas tudo relacionado com o Livro de Urântia.
+Isso inclui não apenas *O Livro de Urântia* em todas as suas traduções, mas também a Bíblia e qualquer livro de domínio público que se suponha ser uma fonte usada por reveladores ou com conteúdo que possa explicar tópicos do *Livro de Urântia*. Também podem ser incluídos livros que são trabalhos derivados de *O Livro de Urântia* cujos autores desejam oferecer com uma licença aberta. Tudo isso poderia incluir uma espécie de *biblioteca urantiana*, algo como o [Wikisource](https://wikisource.org/wiki/Main_Page) ou [Archive.org](https://archive.org/), mas tudo relacionado com o Livro de Urântia.
 
 ### O Livro de Urântia
 

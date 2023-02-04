@@ -103,7 +103,7 @@ These are pages with content about *Urantiapedia* itself, like user manuals, rec
 
 ## Books
 
-This includes not only *The Urantia Book* in all its translations but also the Bible and any public-domain book that is assumed to be a source used by revelators or with content that can explain topics of *The Urantia Book*. Also can be included books that are derivative works from *The Urantia Book* whose authors want to offer with an open license. All this could comprise a kind of *urantian library*, something like Wikisource but everything related with Urantia Book.
+This includes not only *The Urantia Book* in all its translations but also the Bible and any public-domain book that is assumed to be a source used by revelators or with content that can explain topics of *The Urantia Book*. Also can be included books that are derivative works from *The Urantia Book* whose authors want to offer with an open license. All this could comprise a kind of *urantian library*, something like [Wikisource](https://wikisource.org/wiki/Main_Page) or [Archive.org](https://archive.org/) but for everything related with _Urantia Book_.
 
 ### The Urantia Book
 
