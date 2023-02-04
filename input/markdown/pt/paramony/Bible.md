@@ -106,10 +106,10 @@
 | Coming down from heaven                                | Descendo do céu                                                |
 | Commingle good & evil, die                             | Misture o bem e o mal, morra                                   |
 | Commit to Him keeping of souls                         | Confie a Ele a guarda das almas                                |
-| Competing “gods” Ashtaroth                             | “deuses” concorrentes, Astarote                                |
-| Competing “gods” Baal                                  | “deuses” concorrentes, Baal                                    |
-| Competing “gods” Baal, Ashtaroth                       | “deuses” concorrentes, Baal, Astarote                          |
-| Competing “gods” Molech                                | “deuses” concorrentes, Moloque                                 |
+| Competing “gods” Ashtaroth                             | “Deuses” concorrentes, Astarote                                |
+| Competing “gods” Baal                                  | “Deuses” concorrentes, Baal                                    |
+| Competing “gods” Baal, Ashtaroth                       | “Deuses” concorrentes, Baal, Astarote                          |
+| Competing “gods” Molech                                | “Deuses” concorrentes, Moloque                                 |
 | Contrite mind & humble spirit                          | Mente contrita e espírito humilde                              |
 | Correcting views of God                                | Corrigindo visões de Deus                                      |
 | Created male & female                                  | Criado masculino e feminino                                    |
@@ -177,7 +177,7 @@
 | Friend of publicans and sinners                        | Amigo dos publicanos e pecadores                               |
 | Full of joy, happiness                                 | Cheio de alegria, felicidade                                   |
 | Genealogy                                              | Genealogia                                                     |
-| Gethsemane prayer                                      | oração do Getsêmani                                            |
+| Gethsemane prayer                                      | Oração do Getsêmani                                            |
 | Gnats and camels                                       | Moscas e camelos                                               |
 | Go tell apostles & Peter                               | Vá dizer aos apóstolos e Pedro                                 |
 | God created                                            | Deus criou                                                     |
@@ -227,7 +227,7 @@
 | I am resurrection & life                               | Eu sou ressurreição e vida                                     |
 | I am the resurrection & the life                       | Eu sou a ressurreição e a vida                                 |
 | I am the Way, Truth & Life                             | Eu sou o Caminho, a Verdade e a Vida                           |
-| I came / I go                                          | eu vim / eu vou                                                |
+| I came / I go                                          | Eu vim / eu vou                                                |
 | I go to Him who sent me.                               | Eu vou para Aquele que me enviou.                              |
 | I go, you cannot find me                               | Para onde eu vou, você não pode me encontrar                   |
 | If earth parents love, give                            | Se os pais da terra amam, dê presentes                         |
@@ -281,7 +281,7 @@
 | Jesus teaches crowd at well                            | Jesus ensina multidão no poço                                  |
 | Jesus to Bethany for night                             | Jesus foi para Betânia para passar a noite                     |
 | Jesus told: Gabriel's visit Elizabeth                  | Jesus contou: Gabriel visita Isabel                            |
-| Jesus: not of Davidic line                             | Jesus: não da linhagem davídica                                |
+| Jesus: not of Davidic line                             | Jesus: não é da linhagem davídica                              |
 | Jesus: the way, the truth, the life                    | Jesus: o caminho, a verdade, a vida                            |
 | Jesus' apostles not baptizing                          | Apóstolos de Jesus não batizando                               |
 | Jesus' Baptism & God's voice                           | Batismo de Jesus e a voz de Deus                               |
@@ -294,37 +294,37 @@
 | John the Baptist killed, buried                        | João Batista morto, enterrado                                  |
 | John's declaration re: Jesus                           | A declaração de João re: Jesus                                 |
 | John's social gospel                                   | O evangelho social de João                                     |
-| John's youth, dress                                    | juventude de John, vestido                                     |
-| Joseph not Davidic line                                | José não linha davídica                                        |
+| John's youth, dress                                    | Juventude de João, vestimentas                                 |
+| Joseph not Davidic line                                | José não descendia de linha davídica                           |
 | Joseph sold                                            | José vendeu                                                    |
 | Joseph weds Mary                                       | José se casa com Maria                                         |
 | Judas leads armed band                                 | Judas lidera bando armado                                      |
 | Judas; “How much?”                                     | Judas; "Quantos?"                                              |
 | Judge motive, not acts                                 | Julga motivos, não atos                                        |
 | Justice, fairness, & mercy                             | Justiça, equidade e misericórdia                               |
-| Ketura not wife                                        | Ketura não esposa                                              |
+| Ketura not wife                                        | Quetura era concubina de Abraão, não tinha status de esposa    |
 | Kingdom (spiritual)                                    | Reino (espiritual)                                             |
 | Kingdom comes in power & glory                         | Reino vem em poder e glória                                    |
 | Kingdom is everlasting                                 | Reino é eterno                                                 |
-| Kingdom not meat                                       | Reino não carne                                                |
-| Kingdom not noise, but in hearts                       | Reino não barulho, mas nos corações                            |
-| Kingdom not of world                                   | Reino não do mundo                                             |
-| Kingdom of God not meat..                              | Reino de Deus não é carne..                                    |
+| Kingdom not meat                                       | Reino não carne, nem comida, nem bebida                        |
+| Kingdom not noise, but in hearts                       | Reino não vem com barulho, mas sim com mudança nos corações    |
+| Kingdom not of world                                   | Reino não é deste mundo                                        |
+| Kingdom of God not meat..                              | Reino de Deus não é comida ...                                 |
 | Kingdom of heaven already here                         | Reino dos céus já está aqui                                    |
-| Kingdom of heaven is at hand                           | Reino dos céus está próximo                                    |
+| Kingdom of heaven is at hand                           | Reino dos céus está a mão                                      |
 | Kingdom:comes in power & glory                         | Reino: vem em poder e glória                                   |
 | Know God & self as a son                               | Conheça a Deus e a si mesmo como um filho                      |
-| Know Son, know Father                                  | Conheça o filho, conheça o pai                                 |
+| Know Son, know Father                                  | Conheça o Filho, conheça o Pai                                 |
 | Know truth , be free                                   | Conheça a verdade, seja livre                                  |
-| Laid foundation with first-born                        | Fundada com primogênito                                        |
-| Legend about pigs                                      | lenda sobre porcos                                             |
-| Let mind be in you as in Jesus                         | Deixe a mente estar em você como em Jesus                      |
+| Laid foundation with first-born                        | Sacrifício dos filhos sob as fundações de Jericó               |
+| Legend about pigs                                      | Lenda sobre porcos                                             |
+| Let mind be in you as in Jesus                         | Deixe a mente de Jesus estar em você                           |
 | Little faith                                           | Pouca fé                                                       |
-| Little of righteous / better                           | Pouco de justo / melhor                                        |
+| Little of righteous / better                           | Pouco de retidão / melhor                                      |
 | Live the will of Father, reveal Him                    | Viva a vontade do Pai, revele-O                                |
 | Live the will of Father, reveal Him                    | Viva a vontade do Pai, revele-O                                |
-| Living Spirit of the Father (TA)                       | Espírito Vivo do Pai (TA)                                      |
-| Long-suffering, good and true                          | Sofrimento, bom e verdadeiro                                   |
+| Living Spirit of the Father (TA)                       | Espírito Vivo do Pai (Ajustador dos Pensamentos)               |
+| Long-suffering, good and true                          | Sofrido, bom e verdadeiro                                      |
 | Lord God of hosts                                      | Senhor Deus dos Exércitos                                      |
 | Lord God of hosts                                      | Senhor Deus dos Exércitos                                      |
 | Lord near whoever calls                                | Senhor perto de quem chama                                     |
