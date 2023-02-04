@@ -329,7 +329,7 @@
 | Lord God of hosts                                      | Senhor Deus dos Exércitos                                      |
 | Lord near whoever calls                                | Senhor perto de quem chama                                     |
 | Lord of all                                            | Senhor de tudo                                                 |
-| Lord preserves going out ...                           | Senhor preserva sair...                                        |
+| Lord preserves going out ...                           | Senhor preservará o nosso sair e o nosso entrar ...            |
 | Lord says: I created you                               | Senhor diz: Eu te criei                                        |
 | Love God & neighbor as self                            | Amar a Deus e ao próximo como a si mesmo                       |
 | Love God & thy neighbor                                | Ame a Deus e ao seu próximo                                    |
@@ -337,11 +337,11 @@
 | Love neighbors as yourself                             | Ame os vizinhos como a si mesmo                                |
 | Love neighbors as yourself                             | Ame os vizinhos como a si mesmo                                |
 | Love the Lord supremely                                | Ame o Senhor supremamente                                      |
-| Love w/ everlasting love                               | Amor c/ amor eterno                                            |
+| Love w/ everlasting love                               | Amor com amor eterno                                           |
 | Loved w/ everlasting love                              | Amado com amor eterno                                          |
-| Lovingkindness                                         | Gentileza adorável                                             |
+| Lovingkindness                                         | Gentileza amável                                               |
 | Luminosity                                             | Luminosidade                                                   |
-| Lust is Adultery                                       | A luxúria é adultério                                          |
+| Lust is Adultery                                       | Luxúria é adultério                                            |
 | Make a new covenant                                    | Faça uma nova aliança                                          |
 | Man is what he thinks                                  | O homem é o que ele pensa                                      |
 | Man tears self in anger                                | Homem se rasga de raiva                                        |
