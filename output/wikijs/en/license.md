@@ -151,7 +151,7 @@ None of the contributors, sponsors, administrators, or anyone else connected wit
 
 Please make sure that you understand that the information provided here is being provided freely, and that no kind of agreement or contract is created between you and the owners or users of this site, the owners of the servers upon which it is housed, the individual Urantiapedia contributors, any project administrators, sysops, or anyone else who is in any way connected with this project subject to your claims against them directly. You are being granted a limited license to copy anything from this site; it does not create or imply any contractual or extracontractual liability on the part of Urantiapedia or any of its agents, members, organizers, or other users.
 
-There is no agreement or understanding between you and Urantiapedia regarding your use or modification of this information beyond the Creative Commons Attribution-Sharealike 3.0 Unported License (CC-BY-SA); neither is anyone at Urantiapedia responsible should someone change, edit, modify, or remove any information that you may post on Urantiapedia or any of its associated projects.
+There is no agreement or understanding between you and Urantiapedia regarding your use or modification of this information beyond the Creative Commons Attribution-Sharealike 3.0 Unported License (CC-BY-SA); neither is anyone at Urantiapedia responsible should someone change, edit, modify, or remove any information that you may post on Urantiapedia.
 
 #### Trademarks
 
