@@ -344,14 +344,14 @@
 | Lust is Adultery                                       | Luxúria é adultério                                            |
 | Make a new covenant                                    | Faça uma nova aliança                                          |
 | Man is what he thinks                                  | O homem é o que ele pensa                                      |
-| Man tears self in anger                                | Homem se rasga de raiva                                        |
+| Man tears self in anger                                | Homem se rasga na raiva                                        |
 | Manna vs. bread of life                                | Maná vs. pão da vida                                           |
-| Mary visits w/ Jesus                                   | Maria visita c/ Jesus                                          |
+| Mary visits w/ Jesus                                   | Maria visita com Jesus                                         |
 | Mary, women, saw crucifixion                           | Maria, mulheres, viu a crucificação                            |
 | Master & servant relationship                          | Relação mestre e servo                                         |
 | Meek inherit earth, peace                              | Mansos herdam a terra, a paz                                   |
 | Melchizedek, king of Salem ...                         | Melquisedeque, rei de Salém...                                 |
-| Melchizedek, priest of M. High                         | Melquisedeque, sacerdote de M. High                            |
+| Melchizedek, priest of M. High                         | Melquisedeque, sacerdote do Altíssimo                          |
 | Men reap evil they sow                                 | Os homens colhem o mal que semeiam                             |
 | Merciful and just to children                          | Misericordioso e justo com as crianças                         |
 | Mercy endures forever                                  | A misericórdia dura para sempre                                |
@@ -381,11 +381,11 @@
 | Mind of man mortal, spirit Divine                      | Mente do homem mortal, espírito Divino                         |
 | Mind of man mortal, spirit Divine                      | Mente do homem mortal, espírito Divino                         |
 | Minister to man, minister to me                        | Ministro para homem, ministro para mim                         |
-| money damages                                          | danos em dinheiro                                              |
+| money damages                                          | Danos em dinheiro                                              |
 | More blessed to give More blessed to give              | Mais abençoado para dar Mais abençoado para dar                |
 | Moses' teaching about sex                              | Ensinamento de Moisés sobre sexo                               |
 | Mt. Sinai                                              | Monte Sinai                                                    |
-| My God, why forsake me                                 | Meu Deus, por que me abandonar                                 |
+| My God, why forsake me                                 | Meu Deus, por que me abandonastes                              |
 | Name fetish                                            | Nome fetiche                                                   |
 | New birth societies                                    | Sociedades do novo nascimento                                  |
 | Ninth Woe                                              | Nono Ai                                                        |
