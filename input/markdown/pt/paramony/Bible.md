@@ -382,7 +382,7 @@
 | Mind of man mortal, spirit Divine                      | Mente do homem mortal, espírito Divino                         |
 | Minister to man, minister to me                        | Ministro para homem, ministro para mim                         |
 | money damages                                          | Danos em dinheiro                                              |
-| More blessed to give More blessed to give              | Mais abençoado para dar Mais abençoado para dar                |
+| More blessed to give More blessed to give              | Mais abençoado é dar do que receber                            |
 | Moses' teaching about sex                              | Ensinamento de Moisés sobre sexo                               |
 | Mt. Sinai                                              | Monte Sinai                                                    |
 | My God, why forsake me                                 | Meu Deus, por que me abandonastes                              |
