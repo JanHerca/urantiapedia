@@ -59,4 +59,4 @@ The Supreme seems to grow from all possible expe riential starting points in ful
 
 ## References
 
-- Article obtained from: https://assetrepository.urantiabook.org/AssetRepository/Communications/TheHerald/Herald1999Winter.pdf
+- Article obtained from: https://urantia-book.org/archive/newsletters/herald/

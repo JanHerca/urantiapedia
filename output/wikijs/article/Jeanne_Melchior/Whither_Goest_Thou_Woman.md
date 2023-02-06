@@ -53,4 +53,4 @@ I’m awaiting the day when clearly and unequivocally, God begins speaking to wo
 
 ## References
 
-- Article obtained from: https://assetrepository.urantiabook.org/AssetRepository/Communications/TheHerald/Herald1999Spring.pdf
+- Article obtained from: https://urantia-book.org/archive/newsletters/herald/

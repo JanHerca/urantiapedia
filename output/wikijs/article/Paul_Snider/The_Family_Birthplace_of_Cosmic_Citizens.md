@@ -205,7 +205,7 @@ What would Jesus do? God bless you my friends, my brothers and sisters of destin
 
 ## References
 
-- Article obtained from: https://assetrepository.urantiabook.org/AssetRepository/Communications/TheHerald/Herald1999Winter.pdf
+- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
 
 ## Notes
 

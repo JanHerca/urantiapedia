@@ -65,4 +65,4 @@ We are just at the beginning of this adventure of discovery. There are an endles
 
 ## References
 
-- Article obtained from: https://assetrepository.urantiabook.org/AssetRepository/Communications/TheHerald/Herald1999Winter.pdf
+- Article obtained from: https://urantia-book.org/archive/newsletters/herald/

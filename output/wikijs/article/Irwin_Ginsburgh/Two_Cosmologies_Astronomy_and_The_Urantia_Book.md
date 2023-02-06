@@ -118,7 +118,7 @@ Among future readers of _The Urantia Book_ , there will be more and more skeptic
 
 ## External links
 
-* This article in _The Fellowship Herald_: https://urantia-book.org/archive/newsletters/herald/herald_w1999.pdf
+* This article in _The Fellowship Herald_: https://urantia-book.org/archive/newsletters/herald/
 * Translation by Agustín Arellano Tirado in the website of _Asociación Urantia de Chile_: http://www.urantiachile.org/documentos/ensayos/2_dos_cosmologias.html
 ## Notes
 

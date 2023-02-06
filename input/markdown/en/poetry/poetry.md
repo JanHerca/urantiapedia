@@ -193,3 +193,37 @@ And what thou art may never be destroyed.
 > There is in the mind of God a plan which embraces every creature of all his vast domains, and this plan is an eternal purpose of boundless opportunity, unlimited progress, and endless life. And the infinite treasures of such a matchless career are yours for the striving! (p. 365)
 
 (From Fellowship Herald Vol. 2 - 1)
+
+# Millenial Prayer
+
+(Originally given by Paula Thompson. on Jesus Birthday August 21, 1994 in Shepherds Field, Bethlehem)
+
+<!--left-->
+Beloved Universal Father, Michaelof Nebadon, Master Jesus: Hear our prayer.
+We have gathered together on the threshold of a new millennium (as the world
+reckons time) to offer you our sincere devotion and thanksgiving.
+For having come forth from the center of creation with our Creative Mother
+and in the name and glory of The Paradise Father of all, you created us.
+_Thank you Master!_
+
+Thank you for this vast experiential adventure we call life.
+Thank you for the myriad opportunities to serve and learn and grow
+as part of your loving universe family.
+Moving ever upward and inward through your grace to the portals of Paradise.
+Thank you for your faithful watch care and ministry.
+Thank you for your liberating revelations of truth.
+Thank you for your celestial children who lovingly lead us in the ways of
+righteousness.
+Thank you especially Master for the life you lived on Urantia, demonstrating
+the way by which ordinary humans like us may live a Godlike life.
+
+We welcome you Lord Michael, Sovereign of Nebadon, Jesus of Nazareth, we
+gather in your name, come now and bless us with your radiant presence.
+
+We welcome and acknowledge all who are gathered here on this occasion,
+those seen and those unseen.
+Welcome Angels, Midwayers, Student Visitors, Heavenly Hosts, Planetary
+Supervisors, and Believers around the globe, come join us as we praise our
+beloved Sovereign. Join us as we honor and adore him.
+
+(From Felloship Herald Vol. 2 - 2)

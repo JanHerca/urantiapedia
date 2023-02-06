@@ -85,4 +85,4 @@ It is important to recognize that the dominant factor in Nazi ideology had nothi
 
 ## References
 
-- Article obtained from: https://assetrepository.urantiabook.org/AssetRepository/Communications/TheHerald/Herald1999Spring.pdf
+- Article obtained from: https://urantia-book.org/archive/newsletters/herald/

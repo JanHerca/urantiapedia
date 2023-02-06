@@ -55,4 +55,4 @@ We cannot find a better example of human progression through the circles than in
 
 ## References
 
-- Article obtained from: https://assetrepository.urantiabook.org/AssetRepository/Communications/TheHerald/Herald1999Spring.pdf
+- Article obtained from: https://urantia-book.org/archive/newsletters/herald/

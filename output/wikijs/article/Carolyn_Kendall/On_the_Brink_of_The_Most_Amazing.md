@@ -369,4 +369,4 @@ The following article highlights the concern some­times expressed about how our
 
 ## References
 
-- Article obtained from: https://assetrepository.urantiabook.org/AssetRepository/Communications/TheHerald/Herald1998Fall.pdf
+- Article obtained from: https://urantia-book.org/archive/newsletters/herald/

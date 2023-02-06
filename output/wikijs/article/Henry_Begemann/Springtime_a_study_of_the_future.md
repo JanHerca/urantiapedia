@@ -115,4 +115,4 @@ In this way and in many others we could prepare ourselves for “_the next age._
 
 ## References
 
-- Article obtained from: https://assetrepository.urantiabook.org/AssetRepository/Communications/TheHerald/Herald1999Spring.pdf
+- Article obtained from: https://urantia-book.org/archive/newsletters/herald/

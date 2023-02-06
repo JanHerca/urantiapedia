@@ -714,68 +714,77 @@ Source:
 
 ### Volume 1, Number 1, 1998 (Fall)
 
-![](/image/article/Herald_covers/Herald1998Fall.jpg)
+<figure class="image urantiapedia image-style-align-right">
+  <img src="/image/article/Herald_covers/Herald1998Fall.jpg">
+</figure>
 
-
-| Status                  | Source | Issue          | Title                                                                                                                            | Author            | Tags |
-| ----------------------- | ------ | -------------- | -------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---- |
-| :ballot_box_with_check: | Herald | Vol. 01, No. 1 | [On the Brink of the Most Amazing and Enthralling Epoch](/en/article/Carolyn_Kendall/On_the_Brink_of_The_Most_Amazing)           | Carolyn Kendall   |      |
-| :ballot_box_with_check: | Herald | Vol. 01, No. 1 | [Let Your Soul Decide](/en/article/Richard_S_Omura/Let_our_Soul_Decide)                                                          | Richard S. Omura  |      |
-| :ballot_box_with_check: | Herald | Vol. 01, No. 1 | [The Urantia Papers From a Jewish Perspective](/en/article/Martin_Greenhut/The_Urantia_Papers_From_a_Jewish_Perspective)         | Martin Greenhut   |      |
-| :ballot_box_with_check: | Herald | Vol. 01, No. 1 | [The Concepts of Trust and Hope in _The Urantia Book_](/en/article/Marilyn_Kulieke/Trust_and_Hope_in_The_Urantia_Book)           | Marilyn Kulieke   |      |
-| :ballot_box_with_check: | Herald | Vol. 01, No. 1 | [48 Chromosomes - Are We Asking the Right Questions?](/en/article/Ken_Glasziou/48_Chromosomes_Are_We_Asking_the_Right_Questions) | Ken Glasziou      |      |
+| Issue          | Title                                                                                                                            | Author            | Tags |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---- |
+| Vol. 01, No. 1 | [On the Brink of the Most Amazing and Enthralling Epoch](/en/article/Carolyn_Kendall/On_the_Brink_of_The_Most_Amazing)           | Carolyn Kendall   |      |
+| Vol. 01, No. 1 | [Let Your Soul Decide](/en/article/Richard_S_Omura/Let_our_Soul_Decide)                                                          | Richard S. Omura  |      |
+| Vol. 01, No. 1 | [The Urantia Papers From a Jewish Perspective](/en/article/Martin_Greenhut/The_Urantia_Papers_From_a_Jewish_Perspective)         | Martin Greenhut   |      |
+| Vol. 01, No. 1 | [The Concepts of Trust and Hope in _The Urantia Book_](/en/article/Marilyn_Kulieke/Trust_and_Hope_in_The_Urantia_Book)           | Marilyn Kulieke   |      |
+| Vol. 01, No. 1 | [48 Chromosomes - Are We Asking the Right Questions?](/en/article/Ken_Glasziou/48_Chromosomes_Are_We_Asking_the_Right_Questions) | Ken Glasziou      |      |
 
 
 ### Volume 1, Number 2, 1999 (Spring)
 
-![](/image/article/Herald_covers/Herald1999Spring.jpg)
+<figure class="image urantiapedia image-style-align-right">
+  <img src="/image/article/Herald_covers/Herald1999Spring.jpg">
+</figure>
 
 
-| Status                  | Source | Issue          | Title                                                                                                                                  | Author            | Tags |
-| ----------------------- | ------ | -------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---- |
-| :ballot_box_with_check: | Herald | Vol. 01, No. 2 | [The Challenge of the 21st Century](/en/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century_2)                         | Meredith Sprunger |      |
-| :ballot_box_with_check: | Herald | Vol. 01, No. 2 | [On Facing Millennial Change](/en/article/Byron_Belitsos/On_facing_millenial_change)                                                   | Byron Belitsos    |      |
-| :ballot_box_with_check: | Herald | Vol. 01, No. 2 | [Magisterial Missions](/en/article/Behzad_Sarmast/Magisterial_missions)                                                                | Behzad Sarmast    |      |
-| :ballot_box_with_check: | Herald | Vol. 01, No. 2 | [Springtime: A Study of the Future](/en/article/Henry_Begemann/Springtime_a_study_of_the_future)                                       | Henry Begemann    |      |
-| :ballot_box_with_check: | Herald | Vol. 01, No. 2 | [Whither Goest Thou, Woman?](/en/article/Jeanne_Melchior/Whither_Goest_Thou_Woman)                                                     | Jeanne Melchior   |      |
-| :ballot_box_with_check: | Herald | Vol. 01, No. 2 | [The Seven Psychic Circles](/en/article/Linda_Buselli/The_seven_psychic_circles)                                                       | Linda Buselli     |      |
-| :ballot_box_with_check: | Herald | Vol. 01, No. 2 | [On Removing The Barrier To A Civilized Discussion Of Eugenics](/en/article/Stephen/On_removing_the_barrier_to_discussion_of_eugenics) | Stephen           |      |
+| Issue          | Title                                                                                                                                  | Author            | Tags |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---- |
+| Vol. 01, No. 2 | [The Challenge of the 21st Century](/en/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century_2)                         | Meredith Sprunger |      |
+| Vol. 01, No. 2 | [On Facing Millennial Change](/en/article/Byron_Belitsos/On_facing_millenial_change)                                                   | Byron Belitsos    |      |
+| Vol. 01, No. 2 | [Magisterial Missions](/en/article/Behzad_Sarmast/Magisterial_missions)                                                                | Behzad Sarmast    |      |
+| Vol. 01, No. 2 | [Springtime: A Study of the Future](/en/article/Henry_Begemann/Springtime_a_study_of_the_future)                                       | Henry Begemann    |      |
+| Vol. 01, No. 2 | [Whither Goest Thou, Woman?](/en/article/Jeanne_Melchior/Whither_Goest_Thou_Woman)                                                     | Jeanne Melchior   |      |
+| Vol. 01, No. 2 | [The Seven Psychic Circles](/en/article/Linda_Buselli/The_seven_psychic_circles)                                                       | Linda Buselli     |      |
+| Vol. 01, No. 2 | [On Removing The Barrier To A Civilized Discussion Of Eugenics](/en/article/Stephen/On_removing_the_barrier_to_discussion_of_eugenics) | Stephen           |      |
 
 ### Volume 2, Number 1, 1999 (Winter)
 
-![](/image/article/Herald_covers/Herald1999Winter.jpg)
+<figure class="image urantiapedia image-style-align-right">
+  <img src="/image/article/Herald_covers/Herald1999Winter.jpg">
+</figure>
 
-| Status                  | Source | Issue          | Title                                                                                                                          | Author                  | Tags                                   |
-| ----------------------- | ------ | -------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------- | -------------------------------------- |
-| :ballot_box_with_check: | Herald | Vol. 02, No. 1 | [The Family: Birthplace of Cosmic Citizens](/en/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizens)                  | Paul Snider             |                                        |
-| :ballot_box_with_check: | Herald | Vol. 02, No. 1 | [Two Cosmologies — Astronomy and The Urantia Book](/en/article/Irwin_Ginsburgh/Two_Cosmologies_Astronomy_and_The_Urantia_Book) | Irwin Ginsburgh         | The Urantia Book, Astronomy, Cosmology |
-| :ballot_box_with_check: | Herald | Vol. 02, No. 1 | [Reflections on cosmic citizenship](/en/article/Stephen_Dreier/Reflections_on_cosmic_citizenship)                              | Stephen Dreier          |                                        |
-| :ballot_box_with_check: | Herald | Vol. 02, No. 1 | [The Dual Nature of Supremacy](/en/article/Linda_Buselli/The_Dual_Nature_of_Supremacy)                                         | Linda Buselli           |                                        |
+| Issue          | Title                                                                                                                          | Author                  | Tags                                   |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------- | -------------------------------------- |
+| Vol. 02, No. 1 | [The Family: Birthplace of Cosmic Citizens](/en/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizens)                  | Paul Snider             |                                        |
+| Vol. 02, No. 1 | [Two Cosmologies — Astronomy and The Urantia Book](/en/article/Irwin_Ginsburgh/Two_Cosmologies_Astronomy_and_The_Urantia_Book) | Irwin Ginsburgh         | The Urantia Book, Astronomy, Cosmology |
+| Vol. 02, No. 1 | [Reflections on cosmic citizenship](/en/article/Stephen_Dreier/Reflections_on_cosmic_citizenship)                              | Stephen Dreier          |                                        |
+| Vol. 02, No. 1 | [The Dual Nature of Supremacy](/en/article/Linda_Buselli/The_Dual_Nature_of_Supremacy)                                         | Linda Buselli           |                                        |
 
 ### Volume 2, Number 2, 2000 (Summer)
 
-![](/image/article/Herald_covers/Herald2000.jpg)
+<figure class="image urantiapedia image-style-align-right">
+  <img src="/image/article/Herald_covers/Herald2000.jpg">
+</figure>
 
-| Status                  | Source | Issue          | Title                                                                                                                          | Author                  | Tags                                   |
-| ----------------------- | ------ | -------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------- | -------------------------------------- |
-| :white_square_button:   | Herald | Vol. 02, No. 2 | Thinking About Tomorrow                                                                                                        | Carolyn Kendall         |
-| :white_square_button:   | Herald | Vol. 02, No. 2 | Restated in Modern Phraseology                                                                                                 | David Elders            |
-| :white_square_button:   | Herald | Vol. 02, No. 2 | Scientific Predictions of _The Urantia Book_ - Part II                                                                         | Irwin Ginsburgh         |
-| :white_square_button:   | Herald | Vol. 02, No. 2 | 'I Will Tell Them A Story'                                                                                                     | Stephen Zendt           |
-| :white_square_button:   | Herald | Vol. 02, No. 2 | The Science of Parenting                                                                                                       | Sara Blackstock         |
-| :white_square_button:   | Herald | Vol. 02, No. 2 | The Ethics of Genetic Control and Social Engineering                                                                           | Charles Laurence Olivea |
-| :white_square_button:   | Herald | Vol. 02, No. 2 | The Intellectual Role of _The Urantia Book_                                                                                    | Stephen                 |
+| Issue          | Title                                                                                                                                                | Author                  | Tags                                   |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | -------------------------------------- |
+| Vol. 02, No. 2 | [Thinking About Tomorrow](/en/article/Carolyn_Kendall/Thinking_about_tomorrow)                                                                       | Carolyn Kendall         |
+| Vol. 02, No. 2 | [Restated in Modern Phraseology](/en/article/David_Elders/Restated_in_modern_phraseology)                                                            | David Elders            |
+| Vol. 02, No. 2 | [Scientific Predictions of _The Urantia Book_ - Part II](/en/article/Irwin_Ginsburgh/Scientific_Predictions_of_The_Urantia_Book_2)                   | Irwin Ginsburgh         |
+| Vol. 02, No. 2 | [“I Will Tell Them A Story”](/en/article/Stephen_Zendt/I_Will_Tell_Them_A_Story)                                                                     | Stephen Zendt           |
+| Vol. 02, No. 2 | [The Science of Parenting](/en/article/Sara_Blackstock/The_Science_of_Parenting)                                                                     | Sara Blackstock         |
+| Vol. 02, No. 2 | [The Ethics of Genetic Control and Social Engineering](/en/article/Charles_Laurence_Olivea/The_Ethics_of_Genetic_Control_and_Social_Engineering)     | Charles Laurence Olivea |
+| Vol. 02, No. 2 | [The Intellectual Role of _The Urantia Book_](/en/article/Stephen/The_Intellectual_Role_of_The_Urantia_Book)                                         | Stephen                 |
 
 ### Volume 3, Number 1, 2001 (Summer)
 
-![](/image/article/Herald_covers/Herald2001.jpg)
+<figure class="image urantiapedia image-style-align-right">
+  <img src="/image/article/Herald_covers/Herald2001.jpg">
+</figure>
 
-| Status                | Source | Issue          | Title                                                      | Author             | Tags |
-| --------------------- | ------ | -------------- | ---------------------------------------------------------- | ------------------ | ---- |
-| :white_square_button: | Herald | Vol. 03, No. 1 | A Source Study Of 'Instruction For Teachers And Believers' | Matthew Block      |
-| :white_square_button: | Herald | Vol. 03, No. 1 | Show Us A Miracle!                                         | B. Sarmast         |
-| :white_square_button: | Herald | Vol. 03, No. 1 | Universal Religion: An Interfaith Presentation             | Les Jamieson       |
-| :white_square_button: | Herald | Vol. 03, No. 1 | Ethical Eugenics: A Modest Proposal For The 21st Century   | Charles Montgomery |
+| Issue          | Title                                                                                                                                             | Author             | Tags |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---- |
+| Vol. 03, No. 1 | [A Source Study Of “Instruction For Teachers And Believers”](/en/article/Matthew_Block/A_Source_Study_Of_Instruction_For_Teachers_And_Believers)  | Matthew Block      |
+| Vol. 03, No. 1 | [Show Us A Miracle!](/en/article/Behzad_Sarmast/Show_Us_a_Miracle)                                                                                | B. Sarmast         |
+| Vol. 03, No. 1 | [Universal Religion: An Interfaith Presentation](/en/article/Les_Jamieson/Universal_Religion_An_Interfaith_Presentation)                          | Les Jamieson       |
+| Vol. 03, No. 1 | [Ethical Eugenics: A Modest Proposal For The 21st Century](/en/article/Charles_Montgomery/Ethical_Eugenics_A_Modest_Proposal_For_The_21st_Century)| Charles Montgomery |
 
 ### Volume 4, Number 1, 2002 (Summer)
 

@@ -28,4 +28,4 @@ The revelation of God's love in the human life of the Son of Man will continue t
 
 ## References
 
-- Article obtained from: https://assetrepository.urantiabook.org/AssetRepository/Communications/TheHerald/Herald1998Fall.pdf
+- Article obtained from: https://urantia-book.org/archive/newsletters/herald/

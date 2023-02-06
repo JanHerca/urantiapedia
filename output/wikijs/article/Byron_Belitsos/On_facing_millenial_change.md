@@ -51,4 +51,4 @@ Thus we find that faith (spiritual practice) and hope are interdependent; we fin
 
 ## References
 
-- Article obtained from: https://assetrepository.urantiabook.org/AssetRepository/Communications/TheHerald/Herald1999Spring.pdf
+- Article obtained from: https://urantia-book.org/archive/newsletters/herald/

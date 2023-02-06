@@ -60,4 +60,4 @@ Make it a point to pray about this today. Let's lead from our souls in every rel
 
 ## References
 
-- Article obtained from: https://assetrepository.urantiabook.org/AssetRepository/Communications/TheHerald/Herald1998Fall.pdf
+- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
