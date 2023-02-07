@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
-Author: **Richard S. Omura**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Richard S. Omura<br>© 1998 The Urantia Book Fellowship</p>
 
 **Wouldn't it be grand if we could depart every study group and *Urantia Book* presentation with a feel­ing of new found hope, empowerment, spiritual invigo­ration and a heightening of our sense of well-being?** There is a certain sense of that sometimes, but in my opinion, not enough of it. What is sad is when a new­comer attends a highly specific presentation on *The Urantia Book* only to find that he or she cannot relate to it whatsoever because it is overly intellectual and doesn't appeal to the soul.
 

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
-Author: **Jeanne Melchior**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Jeanne Melchior<br>© 1999 The Urantia Book Fellowship</p>
 
 In addition to being a longtime reader of _The Urantia Book_, I have been teaching English, reading, and communication skills for over twenty years. In that time, some of the most profound changes I’ve seen come about have been those involving gender. Among speakers of the English language, there is an increased awareness of the need for non-biased usage; and words like “man” and “mankind” are now commonly changed to “humankind” in order to reflect the presence of over fifty percent of the population, while the generic masculine pronoun is fast becoming extinct. 
 

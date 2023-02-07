@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
-Author: **Behzad Sarmast**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Behzad Sarmast<br>© 2001 The Urantia Book Fellowship</p>
 
 For as long as history bears record, human nature has always associated godliness with some miraculous wonder. There is a natural craving for some outstanding source of authority that can show the way, but wise words and exalted teachings alone will not do - there must also be a display of supernatural powers. This was as true in the days of Caligastia's arrival as it is today, and the world still expects the arrival of the next celestial being to coincide with either a stupendous phenomenon in the sky, a miraculous disappearance of the elect, or some other wonder that defies reason.
 

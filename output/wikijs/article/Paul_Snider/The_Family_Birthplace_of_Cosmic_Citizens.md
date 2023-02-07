@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
-Author: **Paul Snider**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Paul Snider<br>© 1999 The Urantia Book Fellowship</p>
 
 (Plenary Address presented at the Fellowship’s International Conference, August 1999, Vancouver, British Columbia.)  
 

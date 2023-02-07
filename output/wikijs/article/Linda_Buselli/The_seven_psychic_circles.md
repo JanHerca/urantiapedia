@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
-Author: **Linda Buselli**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Linda Buselli<br>© 1999 The Urantia Book Fellowship</p>
 
 Of all the enigmas presented to us by _The Urantia Book,_ one of the most puzzling to me has always been the seven psychic circles. Only three of them are given any definition at all, and yet we must attain these stages of spiritual achievement in preparation for Adjuster fusion. I accepted this lack of differentiation between these circles because the book clearly states that they are different for each individual. However, I have found a possible way of giving them shape and form in the work of best-selling author, Caroline Myss, Ph.D. 
 

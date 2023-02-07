@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
-Author: **David Elders**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 David Elders<br>© 2000 The Urantia Book Fellowship</p>
 
 One of the most provocative and mysterious aspects of _The Urantia Book_ is the revelators' claim that they grafted newly revealed truth onto the “_highest existing human concepts pertaining to the subjects to be presented._” ([UB 0:12.11](/en/The_Urantia_Book/0#p12_11)) A longtime reader of the book, Matthew Block, has spent a decade in the cause of identifying, where possible, those human authors whose thinking and expression might have been used in the building of this revelation. His untiring labor will soon show forth fruits that will serve for ages to come to deepen our appreciation for, and understanding of, the process by which humankind is uplifted by revelation, both personal and epochal. On the eve of the publication of Block's seminal work of discovering, compiling, comparing, and demonstrating the links between the book and many of these human source authors, it might be of value to explore the way in which the revelators themselves prepared us for this anticipated discovery of these human authors and what it might mean (Matthew's first volume, Sources of _The Urantia Book_: Papers 99-103, will be published later this year).
 

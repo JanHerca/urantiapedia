@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
-Author: **Irwin Ginsburgh, Ph.D.**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Irwin Ginsburgh, Ph.D.<br>© 2000 The Urantia Book Fellowship</p>
 
 This paper discusses seven discoveries predicted by _The Urantia Book_, and eighteen more that are currently under development. This is quite miraculous, and beyond the capabilities of humans, especially since many of the discoveries are new and not extensions of known science.
 

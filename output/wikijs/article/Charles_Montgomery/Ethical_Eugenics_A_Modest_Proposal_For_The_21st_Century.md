@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
-Author: **Charles Montgomery**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Charles Montgomery<br>© 2001 The Urantia Book Fellowship</p>
 
 > Civilization is in danger when youth neglect to interest themselves in ethics, .sociolozy, eugenics, philosophy, the fine arts, religion,and cosmology. _The Urantia Book_, ([UB 111:4.4](/en/The_Urantia_Book/111#p4_4))
 

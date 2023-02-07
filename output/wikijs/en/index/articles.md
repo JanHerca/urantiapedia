@@ -728,6 +728,7 @@ Source:
 | [The Concepts of Trust and Hope in _The Urantia Book_](/en/article/Marilyn_Kulieke/Trust_and_Hope_in_The_Urantia_Book)           | Marilyn Kulieke   |      |
 | [48 Chromosomes - Are We Asking the Right Questions?](/en/article/Ken_Glasziou/48_Chromosomes_Are_We_Asking_the_Right_Questions) | Ken Glasziou      |      |
 
+<br>
 
 ### Volume 1, Number 2, 1999 (Spring)
 
@@ -802,6 +803,10 @@ Source:
 | [Universal Religion: An Interfaith Presentation](/en/article/Les_Jamieson/Universal_Religion_An_Interfaith_Presentation)                          | Les Jamieson       |
 | [Ethical Eugenics: A Modest Proposal For The 21st Century](/en/article/Charles_Montgomery/Ethical_Eugenics_A_Modest_Proposal_For_The_21st_Century)| Charles Montgomery |
 
+<br>
+<br>
+<br>
+<br>
 <br>
 
 ### Volume 4, Number 1, 2002 (Summer)

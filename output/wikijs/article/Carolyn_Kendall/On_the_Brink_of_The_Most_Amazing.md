@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
-Author: **Carolyn Kendall**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Carolyn Kendall<br>© 1998 The Urantia Book Fellowship</p>
 
 > *The following article is based largely on the recollections of Carolyn Kendall, a member of the Forum from 1951 -1956. Others familiar with the events described below, may recol­lect things differently. Readers are invited to comment or to add their own recollections of these events by writing to The Fellowship Herald.*
 {.is-info}

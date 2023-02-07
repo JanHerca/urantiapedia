@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
-Author: **Meredith J. Sprunger**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Meredith J. Sprunger<br>© 1999 The Urantia Book Fellowship</p>
 
 (The following presentation was given at the Midwest Regional Conference held at Fall Creek, Illinois State Park, October 7 & 8, 1995.) 
 

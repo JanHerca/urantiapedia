@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T11:12:37.284Z
 ---
 
-Author: **Irwin Ginsburgh Ph.D.**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Irwin Ginsburgh Ph.D.<br>© 1999 The Urantia Book Fellowship</p>
 
 (This paper is a composite of two papers presented at the Fellowship’s International Conference in Vancouver in August 1999. The portion dealing with current knowledge in the field of astronomy was presented by Dr. Douglas Scott of the University of British Columbia. _The Urantia Book_ view of cosmology was presented by Dr. Irwin Ginsburgh.)  
 

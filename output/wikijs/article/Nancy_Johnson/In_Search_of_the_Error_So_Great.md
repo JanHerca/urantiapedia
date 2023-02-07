@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
-Author: **Nancy Johnson**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Nancy Johnson<br>© 2002 The Urantia Book Fellowship</p>
 
 (First presented at the 1990 Fellowship International Conference, Snowmass, CO.)
 

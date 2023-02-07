@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
-Author: **Les Jamieson**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Les Jamieson<br>© 2001 The Urantia Book Fellowship</p>
 
 For many years I wanted to find a way to contribute to fostering greater understanding between religions. When Peter Laurence, a long time reader, led me to the Interfaith Council of New York, I found their all-inclusive, community-based focus very refreshing. The Interfaith Council invites participation from all religions and faiths and creates programs designed to facilitate dialogue and interaction between them, and I was accepted as a representative of the local Urantia Book community, even though they had no idea of what the book was about.
 

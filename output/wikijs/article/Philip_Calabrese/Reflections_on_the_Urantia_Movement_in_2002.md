@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
-Author: **Philip Calabrese**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Philip Calabrese<br>© 2002 The Urantia Book Fellowship</p>
 
 Preface: My theme for these reflections is the personal and social reactions by readers to _The Urantia Book_, and especially to the cosmology of _The Urantia Book_. Let me start with my own experience.
 

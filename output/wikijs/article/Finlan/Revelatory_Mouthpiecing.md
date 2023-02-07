@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
-Author: **Finlan**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Finlan<br>© 2002 The Urantia Book Fellowship</p>
 
 Matthew Block has opened up a new age in Urantia Book scholarship by his discovery and documentation of the use of human sources. In his most recent article ([_The Fellowship Herald_, Summer 2001](/en/article/Matthew_Block/A_Source_Study_Of_Instruction_For_Teachers_And_Believers)), he details how Weatherhead's _Jesus and Ourselves_ was used in the composition of “Instruction for Teachers and Believers.” \[[159:3.1-14](/en/The_Urantia_Book/159#p3_1)\]
 

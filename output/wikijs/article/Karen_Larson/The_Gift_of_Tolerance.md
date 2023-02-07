@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
-Author: **Karen Lee Larsen**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Karen Lee Larsen<br>© 2002 The Urantia Book Fellowship</p>
 
 _The Urantia Book_ teaches us that free will is one of the greatest gifts Father has given to all of his creatures. “_No other being, force, creator, or agency in all the wide universe of universes can interfere to any degree with the absolute sovereignty of the mortal free will, as it operates within the realms of choice, regarding the eternal destiny of the personality of the choosing mortal. As pertains to eternal survival, God has decreed the sovereignty of the material and mortal will, and that decree is absolute._” [[UB 5:6.8](/en/The_Urantia_Book/5#p6_8)]
 

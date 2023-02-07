@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
-Author: **Sara Blackstock**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Sara Blackstock<br>© 2002 The Urantia Book Fellowship</p>
 
 (Editor's note: This article is adapted from a workshop given by Sara Blackstock at the University of California at Santa Cruz during the Fellowship's Summer Study Session 2001.)
 

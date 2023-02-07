@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
-Author: **Marilyn Kulieke**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Marilyn Kulieke<br>© 1998 The Urantia Book Fellowship</p>
 
 > *In February 1998, Marilyn Kulieke, Lincolnshire, IL, por­trayed two qualities of the spiritually evolving personality—trust and hope. This was one of an ongoing series of special programs sponsored by The First Society, Chicago.*
 {.is-info}

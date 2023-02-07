@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
-Author: **Stephen**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Stephen<br>© 2000 The Urantia Book Fellowship</p>
 
 _(Note: The author has asked us to withhold his full identity to protect his professional status and connections. We are complying with his request. - Editors)_
 

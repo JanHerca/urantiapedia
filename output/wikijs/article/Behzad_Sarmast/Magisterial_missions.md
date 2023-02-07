@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
-Author: **Behzad Sarmast**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Behzad Sarmast<br>© 1999 The Urantia Book Fellowship</p>
 
 Thousands of years before the arrival of Michael on Urantia, Machiventa Melchizedek’s missionaries foretold of the impending arrival of a Paradise Son on Urantia. Likewise did Van and his associates prepare the civilized world for the arrival of Adam and Eve, correctly discerning their imminent arrival. History shows that such divine visitations are always foretold, and that heaven gives enough signs to “prepare the way” for such heavenly gifts — today is no different. 
 

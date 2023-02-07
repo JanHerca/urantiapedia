@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
-Author: **Charles Laurence Olivea**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Charles Laurence Olivea<br>© 2000 The Urantia Book Fellowship</p>
 
 (This address was presented at the Fellowship Summer Study Session 2000, in Elmhurst, IL on July 2, 2000)
 

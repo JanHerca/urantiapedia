@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
-Author: **Henry Begemann**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Henry Begemann<br>© 1999 The Urantia Book Fellowship</p>
 
 (From The URANTIAN, Journal of the URANTIA Brotherhood (now known as the Fellowship), Summer 1988) 
 

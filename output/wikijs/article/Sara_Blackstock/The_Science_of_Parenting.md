@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
-Author: **Sara Blackstock**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Sara Blackstock<br>© 2000 The Urantia Book Fellowship</p>
 
 Parenting has,always been a strange mixture of tradition and myth (which is often no different than hit and miss). Parents strive to express one of the most powerful and ingrained emotions - parental love - to and through their children. Here we are - thousands upon thousands of books and methods later, and billions of bits of advice from grandparents and other well-meaning family members and friends - still in confusion about how to "do" this most difficult of jobs, which, when done well brings great joy and satisfaction. It contributes to the welfare of family and community, and when it doesn't seem to work well, brings guilt and great trials to family and community.
 

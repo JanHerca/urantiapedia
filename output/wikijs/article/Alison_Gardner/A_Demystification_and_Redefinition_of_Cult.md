@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
-Author: **Alison Gardner**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Alison Gardner<br>© 2002 The Urantia Book Fellowship</p>
 
 A couple of years ago, a diverse group of long-time _Urantia Book_ readers took on the daunting task of establishing a new and expanded meaning for the word, cult. The panel is now preparing to publish their work through _The Urantia Book_ Fellowship's Wrightwood Series, a program that sponsors the scholarly pursuit of mainstream topical studies. These publications are intended for a broad audience including people new to _The Urantia Book_ or learning of its existence for the very first time.
 

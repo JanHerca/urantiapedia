@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
-Author: **Byron Belitsos**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Byron Belitsos<br>© 2002 The Urantia Book Fellowship</p>
 
 We reader-believers in _The Urantia Book_ sometimes forget that the Urantia revelation is a perfect mystery, a total unknown, to the religious believers and spiritual practitioners around us. Our religious life derives from an unacknowledged revelatory teaching with almost no practical link with the evolutionary religions of the planet. And because we as a religious movement are in our infancy, our religious identity is a deep enigma—even to ourselves. In an odd way, we are both a mystery to our-selves, and to the rest of the world.
 

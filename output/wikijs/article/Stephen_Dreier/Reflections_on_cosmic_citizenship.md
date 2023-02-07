@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
-Author: **Stephen Dreier**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Stephen Dreier<br>© 1999 The Urantia Book Fellowship</p>
 
 Immortality is a fundamental concern of human living. Does personal life, with its relationships, values and memories survive physical death, or does it come to a sudden and permanent end? The question holds profound personal and philosophic significance. 
 

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
-Author: **Ronald Besser**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Ronald Besser<br>© 2002 The Urantia Book Fellowship</p>
 
 More than one student of _The Urantia Book_ has wondered if the miracles performed by Jesus contravene his own post-baptismal decisions which purposed not to use superhuman powers in completing his lifework on Urantia. Trying to fathom the Father's will or the Creator Son's actions on any level is a weighty process, for it attempts to understand divine minds, Deity personality, spiritual power, and what motivates Deity actions and reactions to circumstances.
 

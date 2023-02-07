@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
-Author: **Carolyn Kendall**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Carolyn Kendall<br>© 2000 The Urantia Book Fellowship</p>
 
 _Excerpts from the address presented at the observance of the 50th Anniversary of the founding of Urantia Foundation, Chicago, IL, Saturday, March 18, 2000_
 

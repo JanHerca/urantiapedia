@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
-Author: **Linda Buselli**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Linda Buselli<br>© 1999 The Urantia Book Fellowship</p>
 
 “For every action there is an equal and opposite re action.” This axiom of physics has profoundly influenced our view of the physical world. But if, in fact, this is a “truth” of the universe, then it must be true at all levels of reality. In my attempt to understand the nature of the Supreme, I have found this idea is crucial to grasping how supremacy works, not just in physical manifestations of the Almighty Supreme, but in spirit, mind, and even personality.  
 

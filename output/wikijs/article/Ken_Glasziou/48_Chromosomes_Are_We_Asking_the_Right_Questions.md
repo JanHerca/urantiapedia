@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
-Author: **Ken Glasziou**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Urantia Book Fellowship</p>
 
 > (The following article, by Kenneth Glasziou, Qkl., Aus­tralia, appeared in [Innerface International, November/December 1997](/en/article/Ken_Glasziou/48_Chromosomes_Or_Jumping_to_Conclusions). It is being reprinted with permission.)
 {.is-info}

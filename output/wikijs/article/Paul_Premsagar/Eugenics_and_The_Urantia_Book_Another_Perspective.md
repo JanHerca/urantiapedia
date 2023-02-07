@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
-Author: **Paul Premsagar, MD**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Paul Premsagar, MD<br>© 2002 The Urantia Book Fellowship</p>
 
 The Fellowship Herald of the summer of 2001 published an article entitled “Ethical Eugenics: A Modest Proposal for the 21st Century” written by Charles (Chick) Montgomery. I am writing this in response to it, pointing out where I disagree with Chick based on my understanding of the teaching of _The Urantia Book_. What follows is not a rebuttal, but another perspective. I have used quotes from _The Urantia Book_ to support my arguments.
 
