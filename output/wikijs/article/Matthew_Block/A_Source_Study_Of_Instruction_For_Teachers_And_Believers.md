@@ -68,7 +68,7 @@ As you study the parallels, reading each parallel row from left to right, observ
 
 JESUS AND OURSELVES | “INSTRUCTION FOR TEACHERS AND BELIEVERS”
 --- | ---
-&nbsp; | 3\. INSTRUCTION FOR TEACHERS AND BELIEVERS
+&nbsp; | 3\. INSTRUCTION FOR TEACHERS AND BELIEVERS &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; | 1 At Edrei, where Thomas and his associates labored, Jesus spent a day and a night and, in the course of the evening's discussion, gave expression to the principles which should guide those who preach truth, and which should activate all who teach the gospel of the kingdom. Summarized and restated in modern phraseology, Jesus taught:
 I. JESUS' <ins>RESPECT FOR OUR PERSONALITY</ins> (27) | 2 Always <ins>respect the personality</ins> of man.
 There are at least four ways in which one man can impose his will on another.... Let us see how Christ regarded these four methods.<br>First of all, think of physical power. Jesus must have been in touch with resources of physical power which no one else could tap.... He could end oppression, He could give men justice; and it might be argued that, if His aim were good, the use of this force would have been legitimate. Yet the striking thing is that, out of respect for man's personality, Jesus will not try to win even a <ins>righteous cause by force</ins> (27-28). | Never should a <ins>righteous cause he promoted by force</ins>;
@@ -252,25 +252,29 @@ The only case in [159:3](/en/The_Urantia_Book/159#p3) of a direct and contrary d
 
 (5) _Human Sources_. In the introduction to this article it was mentioned that “a relatively small number” of books appear to have been used in preparing “The Life and Teachings of Jesus.” Is there a discrepancy, then, with the author's claim that “over two thousand human beings” provided source material? Not necessarily. _Jesus and Ourselves_ is the conduit of several source authors besides Weatherhead himself. Among those cited by Weatherhead in the passages used in [159:3](/en/The_Urantia_Book/159#p3) include: William McDougall, a Scottish psychologist well-respected at the time; a Professor Drummond (probably liberal Christian professor Henry Drummond, author of the influential _Natural Law in the Spiritual World_); Samuel Rutherford; the Apostle Paul; Fearon Halliday; and Weatherhead's mentor, Dr. W. R. Maltby. Other source books similarly cite ancient and contemporary God-knowing men and women whose insights are faithfully and creatively brought to bear in the pages of Part IV.
 
-## Notes
-
-[^1] Leslie D. Weatherhead, M.A., Jesus and Ourselles: A Sequel to 'The Transfrinning Frumaship' (London: The Epworth Press, 1930).
-[^2] From “100 Years of Rewlation—A Historic Perspec-tiw: The 50th Anniversary Commemorative History of Urantia Foundation” (compiled by Barbara Newsom, Carolyn Kendall, and Urantia Foundation staff): “On February 11, 1924, Machiventa Melchizedek announced to the contact group the plan to initiate the Urantia Papers. This was the first time the Contact Commission learned of the project, although the Revelatory Commission had been planning _The Urantia Book_ since the Middle Ages” (p.6).
-[^3] From a copy of the original, unpaginated manuscript of Dr. William S. Sadler's “History of the Urantia Movement”: “The first three parts lof the Urantia Papers; were completed and certified to us in A.D.1934. The Jesus Papers were not so delivered to us until 1935.” This statement, assigning 1934 as the year Part Ill was completed, disagrees with The ()Tonna Book's own statement, on p. 1319, that Part HI was “indited ... in the year A.D. 1935 of Urantia rime.” In any case, Sadler indicates that Pan IV appeared one year after the first three parts.
-[^4] Kenneth Cauthen provides an excellent introduction to the history and themes of American religious liberalism in his The Impact of American Religious Liberalism (New York: Harper & Row, Publishers, 1962).
-[^5] Weatherhead, _Jesus and Ourselves_, Page 9.
-[^6] Ibid page19.
-[^7] Page 16.
-[^8] Kenneth Slack in a letter to the Archbishop of Canterbury, September 30, 1958. Quote found in December 2000 in an article by Dr. Lynne Price of the University of Birmingham describing the Leslie Wearherhead Collection. The Internet site on which the article appeared was deactivated in January or February 2001.
-[^9] Ibid., Dr. Lynne Price.
-[^10] Matt 17:24: “And when they were come to Capernaum ....” Mk 9:33: “And they came to Capernaum.”
-[^11] Compare the verbal similarity between “the loss of self espect often ends in paralysis of the will” and the following passage from Weatherhead's Psychology in Service of the Soul: “Confession is for many the only way of getting back that lost sense of power. Unless sin is confessed it produces a brooding disposition characterized by great depression; by the paralysis of further effort. . . ” (italics added).
-[^12] Compare “It is the purpose of this gospel to restore self-respect to those who have lost it and to restrain it in those who have it” with Matt 23:12: "And whosoever shall exalt himself shall be abased; and he that shall humble himself shall be exalted.*
-[^13] Commenting on Britain's Depression-era policy of unemployment compensation, Wearherhead states: “A lot of fun has been made in regard to 'the dole,' and probably in many cases it has been misused. But I do plead with Christian people not to regard it as a kind of national charity, but rather to regard it as a retaining fee paid to worthy men and women whom society would be glad to use but for the rottenness of the economic conditions prevailing, for which in a sense we are all responsible... .” (p.45).
-[^14] The website www.keswickconv.com describes Keswick as an annual two-week convention that provides and promotes “[d]epth of insight into the Bible, depth of insight into human nature and the commitment to pass on those insights with clarity, compassion and power.” The convention is held at Keswick, Cumbria, in the heart of England's lake district. The year 2001 marks its 125th year of operation.
-[^15] Compare “Future generations shall know also the radiance of our joy, the buoyance of our good will, and the inspiration of our good humor” with a similarly constructed sentence in Weatherhead: “Jesus fills [life) with the sunshine of His glory, the radiance of His abiding presence, and the strength of His ineffable peace” (p.143).
-[^16] 130:7.3; 1439.
-[^17] 121:8.12; 1343. Italics are mine.
-
 > Matthew Block has been studying_The Urantia Book_ for twenty-five years. His first book, The Sources of _The Urantia Book_: Papers 99-103, is due out soon. Information about his past work and forthcoming publications is available at [www.squarecircles.com](https://www.squarecircles.com).
 {.is-info}
+
+## References
+
+- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+## Notes
+
+[^1]: Leslie D. Weatherhead, M.A., Jesus and Ourselles: A Sequel to 'The Transfrinning Frumaship' (London: The Epworth Press, 1930).
+[^2]: From “100 Years of Rewlation—A Historic Perspec-tiw: The 50th Anniversary Commemorative History of Urantia Foundation” (compiled by Barbara Newsom, Carolyn Kendall, and Urantia Foundation staff): “On February 11, 1924, Machiventa Melchizedek announced to the contact group the plan to initiate the Urantia Papers. This was the first time the Contact Commission learned of the project, although the Revelatory Commission had been planning _The Urantia Book_ since the Middle Ages” (p.6).
+[^3]: From a copy of the original, unpaginated manuscript of Dr. William S. Sadler's “History of the Urantia Movement”: “The first three parts lof the Urantia Papers; were completed and certified to us in A.D.1934. The Jesus Papers were not so delivered to us until 1935.” This statement, assigning 1934 as the year Part Ill was completed, disagrees with The ()Tonna Book's own statement, on p. 1319, that Part HI was “indited ... in the year A.D. 1935 of Urantia rime.” In any case, Sadler indicates that Pan IV appeared one year after the first three parts.
+[^4]: Kenneth Cauthen provides an excellent introduction to the history and themes of American religious liberalism in his The Impact of American Religious Liberalism (New York: Harper & Row, Publishers, 1962).
+[^5]: Weatherhead, _Jesus and Ourselves_, Page 9.
+[^6]: Ibid page19.
+[^7]: Page 16.
+[^8]: Kenneth Slack in a letter to the Archbishop of Canterbury, September 30, 1958. Quote found in December 2000 in an article by Dr. Lynne Price of the University of Birmingham describing the Leslie Wearherhead Collection. The Internet site on which the article appeared was deactivated in January or February 2001.
+[^9]: Ibid., Dr. Lynne Price.
+[^10]: Matt 17:24: “And when they were come to Capernaum ....” Mk 9:33: “And they came to Capernaum.”
+[^11]: Compare the verbal similarity between “the loss of self espect often ends in paralysis of the will” and the following passage from Weatherhead's Psychology in Service of the Soul: “Confession is for many the only way of getting back that lost sense of power. Unless sin is confessed it produces a brooding disposition characterized by great depression; by the paralysis of further effort. . . ” (italics added).
+[^12]: Compare “It is the purpose of this gospel to restore self-respect to those who have lost it and to restrain it in those who have it” with Matt 23:12: "And whosoever shall exalt himself shall be abased; and he that shall humble himself shall be exalted.*
+[^13]: Commenting on Britain's Depression-era policy of unemployment compensation, Wearherhead states: “A lot of fun has been made in regard to 'the dole,' and probably in many cases it has been misused. But I do plead with Christian people not to regard it as a kind of national charity, but rather to regard it as a retaining fee paid to worthy men and women whom society would be glad to use but for the rottenness of the economic conditions prevailing, for which in a sense we are all responsible... .” (p.45).
+[^14]: The website www.keswickconv.com describes Keswick as an annual two-week convention that provides and promotes “[d]epth of insight into the Bible, depth of insight into human nature and the commitment to pass on those insights with clarity, compassion and power.” The convention is held at Keswick, Cumbria, in the heart of England's lake district. The year 2001 marks its 125th year of operation.
+[^15]: Compare “Future generations shall know also the radiance of our joy, the buoyance of our good will, and the inspiration of our good humor” with a similarly constructed sentence in Weatherhead: “Jesus fills [life) with the sunshine of His glory, the radiance of His abiding presence, and the strength of His ineffable peace” (p.143).
+[^16]: 130:7.3; 1439.
+[^17]: 121:8.12; 1343. Italics are mine.

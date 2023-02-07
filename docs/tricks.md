@@ -42,6 +42,7 @@
     * `\*\*(.+) (\d+):(\d+)\*\*.` => `**[$1 $2:$3](/en/Bible/$1/$2#v$3)**.`
 * Roman numerals as heading 3: `^((?=[XVI])(X{0,3})(I[XV]|V?I{0,3}))\.` => `### $1.`
 * Latin letters as heading 4: `^([A-Z])\.` => `#### $1.`
+* Old UB references: `\(\d+[.\d]*\)`
 
 ### Other replacements
 
@@ -59,6 +60,7 @@
     - Replace: `_$1_`
 * Urantia references to links
     - Search (regex): `\(\d{1,4}\.\d{1,2}\) (\d{1,3}):(\d{1,2})\.(\d{1,3})`
+    - or Search (regex): `\[(\d{1,3}):(\d{1,2})\.(\d{1,3})\]`
     - Replace: `[UB $1:$2.$3](/en/The_Urantia_Book/$1#p$2_$3)`
     - Search (regex): `LU (\d{1,3}):(\d{1,2})\.(\d{1,3})`
     - Replace: `[LU $1:$2.$3](/es/The_Urantia_Book/$1#p$2_$3)`

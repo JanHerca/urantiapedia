@@ -226,4 +226,94 @@ Welcome Angels, Midwayers, Student Visitors, Heavenly Hosts, Planetary
 Supervisors, and Believers around the globe, come join us as we praise our
 beloved Sovereign. Join us as we honor and adore him.
 
-(From Felloship Herald Vol. 2 - 2)
+(From Fellowship Herald Vol. 2 - 2)
+
+# Last Mountain In Vancouver
+
+<!--left-->
+My dear friend
+Your laughter echoes through my heart like wind chimes
+The way it did across an open field in Lake Forest
+Where the summer grass grows green and thick
+And autumn gives birth to Plains of fire
+A passageway to the sun
+Your laughter echoes through my heart like wind chimes
+The way it did through a mountain valley in Snowmass
+Where spring breezes skid across the evergreens
+And winters play snow White symphonies
+A passageway to the stars
+Your laughter echoes through my heart like wind chimes
+The way it did over the Grand Canyon
+Where the sun pierces through fresh skin
+And pummels the soul with warmth
+A passageway to the sky
+Your laughter echoes through my heart like wind chimes
+The way it did through a corridor in Vancouver
+Where flowers bloom in cascades
+And mountains make a cosmos
+Sitting, laughing, steeling our vision
+A world we would energize
+A universe we would capsize
+But now I reach and cannot touch you
+I listen and cannot hear you
+But I Still stand beside you
+A misfortune has blunted your heart for some time
+And seized your laughter
+That echoes through my heart like wind chimes
+The way it Will when we meet again somewhere on this Earth
+Where your persistence personified Will reign
+And laughter shall echo like wind chimes
+You, our passageway to Paradise
+And without your light, a mission much darkened
+Far away, I reach to kindle your soul
+With the flame you placed in mine
+And stand on the brink of the universe, waiting.
+Praying for you,
+
+
+Gina Buselli
+Indianapolis, IN
+
+Editor's note: Allison Zopel and Gina Buselli were children when they first met at the 1989 Summer Study Session in Lake Forest. Although they saw each Other only at Urantia Book conferences, in the years to follow they formed a lasting friendship, Allison has been making a steady recovery from the effects of a car accident in December of 1999, and this is Gina's tribute to her friend's indomitable spirit- Gina Buselli currently lives and works in Indianapolis. Recently graduated from Indiana University, Gina has been writing poetry and stories for sixteen years. She has been a Urantia Book reader for eight years and loves meeting new people at UB conferences!
+
+(From Fellowship Herald Vol. 3 - 1)
+
+# NOT WHAT WE GIVE... BUT WHAT WE SHARE...
+
+The following verses are excerpts from "The Vision of Sir Launfal" by James Russell Lowell. Sir Launfal has returned from the Crusades a beggar, his arrogance broken, and with only a single crust of bread to eat, when a leper begs him for alms.
+
+<!--left-->
+And Sir Launfal said, "I behold in thee
+An image of him who died on the tree;
+Behold, through him, I give to thee!"
+He parted in twain his single crust,
+He broke the ice on the streamlet's brink,
+And gave the leper to eat and drink,
+As Sir Launfal mused with a downcast face,
+A light shone round about the place;
+The leper no longer crouched at his side,
+But stood before him glorified,
+Shining and tall and fair and straight
+As the pillar that stood by the Beautiful Gate, —
+Himself the Gate whereby men can
+Enter the temple of God in Man.
+His words were shed softer than leaves from the pine,
+And they fell on Sir Launfal as snows on the brine,
+That mingle their softness and quiet in one
+With the shaggy unrest they float down upon;
+And the voice that was calmer than silence said,
+"Lo, it is I, be not afraid!
+In many climes, without avail,
+Thou hast spent thy life for the Holy Grail;
+Behold it is here, this cup which thou
+Didst fill at the streamlet for me but now;
+This crust is my body broken for thee,
+This water His blood that died on the tree;
+The Holy Supper is kept, indeed,
+In whatso we share with another's need;
+Not what we give, but what we share, —
+For the gift without the giver is bare;
+Who gives himsclf with his alms feeds three,
+Himself, his hungering neighbor, and me."
+
+(From Fellowship Herald Vol. 4 - 1)

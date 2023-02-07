@@ -812,19 +812,18 @@ Source:
   <img src="/image/article/Herald_covers/Herald2002.jpg">
 </figure>
 
-| Title                                              | Author           | Tags |
-| -------------------------------------------------- | ---------------- | ---- |
-| Reflections on the Urantia Movement in 2002        | Philip Calabrese |
-| Centering — A Method of Divine Embrace             | Marvin Gawryn    |
-| Eugenics and The Urantia Book: Another Perspective | Paul Premsagar   |
-| Revelatory Mouthpiecing                            | Finlan           |
-| Faith Wiring in the Brain                          | Sara Blackstock  |
-| In Search of the Error So Great                    | Nancy Johnson    |
-| Jesus' Miracles and the Father's Will              | Ron Besser       |
-| Not What We Give, But What We Share                | James Lowell     |
-| A Demystification and Redefinition of Cult         | Alison Gardner   |
-| Religious Practice and the Urantia Revelation      | Byron Belitsos   |
-| The Gift of Tolerance                              | Karen Larson     |
+| Title                                                                                                                              | Author           | Tags |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---- |
+| [Reflections on the Urantia Movement in 2002](/en/article/Philip_Calabrese/Reflections_on_the_Urantia_Movement_in_2002)            | Philip Calabrese |
+| [Centering — A Method of Divine Embrace](/en/article/Marvin_Gawryn/Centering_A_Method_of_Divine_Embrace)                           | Marvin Gawryn    |
+| [Eugenics and The Urantia Book: Another Perspective](/en/article/Paul_Premsagar/Eugenics_and_The_Urantia_Book_Another_Perspective) | Paul Premsagar   |
+| [Revelatory Mouthpiecing](/en/article/Finlan/Revelatory_Mouthpiecing)                                                              | Finlan           |
+| [Faith Wiring in the Brain](/en/article/Sara_Blackstock/Faith_Wiring_in_the_Brain)                                                 | Sara Blackstock  |
+| [In Search of the Error So Great](/en/article/Nancy_Johnson/In_Search_of_the_Error_So_Great)                                       | Nancy Johnson    |
+| [Jesus' Miracles and the Father's Will](/en/article/Ron_Besser/Jesus_Miracles_and_the_Fathers_Will)                                | Ron Besser       |
+| [A Demystification and Redefinition of Cult](/en/article/Alison_Gardner/A_Demystification_and_Redefinition_of_Cult)                | Alison Gardner   |
+| [Religious Practice and the Urantia Revelation](/en/article/Byron_Belitsos/Religious_Practice_and_the_Urantia_Revelation)          | Byron Belitsos   |
+| [The Gift of Tolerance](/en/article/Karen_Larson/The_Gift_of_Tolerance)                                                            | Karen Larson     |
 
 <br>
 

@@ -1141,7 +1141,7 @@ const highlightPar = (line, quotes, text) => {
 				let q2 = q;
 				let parts = finalLine.split(q);
 				if (text2) {
-					q2 = q.replace(text, tex2);
+					q2 = q.replace(text, text2);
 					parts = parts.map(p => p.replace(text, text2));
 				}
 				finalLine = parts.join(`<b>${q2}</b>`);
