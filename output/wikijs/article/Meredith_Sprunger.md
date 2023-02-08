@@ -16,20 +16,19 @@ Meredith Justin Sprunger is a minister in the United Church of Christ and a coll
 
 Index of articles and study aids by Meredith:
 
-| Status                  | Source             | Issue                    | Title                                                                                          | Tags                                                                     |
-| ----------------------- | ------------------ | ------------------------ | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| :ballot_box_with_check: | Innerface          | Vol. 01, No. 1.          | [Further Comments on Channeling](/en/article/Meredith_Sprunger/Further_Comments_on_Channeling) | Channeling                                                               |
-| :white_square_button:   | Innerface          | Vol. 02, No. 3.          | "Beyond Fundamentalism."                                                                       | Revelation, The Urantia Book                                             |
-| :white_square_button:   | Innerface          | Vol. 03, No. 1.          | "The Purpose of Revelation—a Response to Martin Gardner's The Great Cult Myatery"              | Gardner, Purpose, Revelation, The Urantia Book, The Urantia Book—Purpose |
-| :white_square_button:   | Innerface          | Vol. 03, No. 3.          | "The Challenge of the Twenty First Century."                                                   | Psychology, Sociology                                                    |
-| :white_square_button:   | Innerface          | Vol. 03, No. 3.          | "The Scandal of Current Spiritual Cosmology."                                                  | Spirituality, The Urantia Book                                           |
-| :white_square_button:   | Innerface          | Vol. 03, No. 6.          | "My Odyssey of Peak Experiences."                                                              | The Urantia Book                                                         |
-| :white_square_button:   | Innerface          | Vol. 06, No. 1.          | "Taking the Spiritual Path"                                                                    | Spirituality                                                             |
-| :white_square_button:   | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "A Faith Adventure",                                                                           |                                                                          |
-| :white_square_button:   | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "Latent Mainline Potential",                                                                   |                                                                          |
-| :white_square_button:   | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "The Urantia Book and Religious Studies",                                                      |                                                                          |
-| :white_square_button:   | Herald             | Vol. 01, No. 2           | "The Challenge of the 21st Century"                                                            |                                                                          |
-| :white_square_button:   | Herald             | Vol. 05, No. 1           | "The Origin of the Spiritual Fellowship"                                                       |                                                                          |
+
+- [Further Comments on Channeling](/en/article/Meredith_Sprunger/Further_Comments_on_Channeling), Innerface, Vol. 01, No. 1.
+- [Beyond Fundamentalism](/en/article/Meredith_Sprunger/Beyond_Fundamentalism), Innerface, Vol. 02, No. 3.
+- [The Purpose of Revelation: A Response to Martin Gardner's Urantia: The Great Cult Mystery](/en/article/Meredith_Sprunger/The_Purpose_of_Revelation), Innerface, Vol. 03, No. 1.
+- [The Challenge of the Twenty First Century](/en/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century), Innerface, Vol. 03, No. 3.
+- [The Scandal of Current Spiritual Cosmology](/en/article/Meredith_Sprunger/The_Scandal_of_Current_Spiritual_Cosmology), Innerface, Vol. 03, No. 3.
+- [My Odyssey of Peak Experiences](/en/article/Meredith_Sprunger/My_Odyssey_of_Peak_Experiences), Innerface, Vol. 03, No. 6.
+- [Taking the Spiritual Path](/en/article/Meredith_Sprunger/Taking_the_Spiritual_Pat), Innerface, Vol. 06, No. 1.
+- "A Faith Adventure", The Fellowship Journal | Vol. 01, No. 1 Spring 91 
+- "Latent Mainline Potential",, Fellowship Journal | Vol. 01, No. 1 Spring 91 
+- "The Urantia Book and Religious Studies", The Fellowship Journal | Vol. 01, No. 1 Spring 91 
+- [The Challenge of the 21st Century](/en/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century_2), The Fellowship Herald , Vol. 01, No. 2
+-  [The Origin of the Spiritual Fellowship](/en/article/Meredith_Sprunger/The_Origin_of_the_Spiritual_Fellowship), The Fellowship Herald , Vol. 05, No. 1
 
 ## Essays
 

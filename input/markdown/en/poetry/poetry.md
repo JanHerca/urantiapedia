@@ -317,3 +317,149 @@ Who gives himsclf with his alms feeds three,
 Himself, his hungering neighbor, and me."
 
 (From Fellowship Herald Vol. 4 - 1)
+
+# Evening Prayer
+
+Go who makes the angels bright
+God who guards the darkest night
+
+I am your child
+I need your love
+My fears relieve!
+My thoughts above make moments tender
+
+Focus my faith so I remember
+that as I seek so shall I find
+
+Come, cure the wild and aimless mind
+
+Cast out the doubt of heavenly might
+And keep me always in your sight
+
+Forever lead me into light.
+
+_Stephen Zendt_
+
+(From Fellowship Herald Vol. 5 - 1)
+
+# WORDS OF WISDOM
+
+> Good will is the mightiest practical force in the universe."
+>   The Talmud
+
+> The first and best victory is to conquer self."
+>   Plato
+
+> "In nothing do men more nearly approach the gods than in doing good to their fellow men."
+>   Cicero
+
+> Take care that the divinity within you has a creditable charge to preside over.
+>   Marcus Aurelius
+
+"Perfection is attained by slow degrees; it requires the hand of time."
+>   Voltaire
+
+> "Reputation is what men and women think of us; character is what God and angels know of us."
+>   Thomas Paine
+
+> "Solitude is as needful to the imagination as society is wholesome for the character."
+>   James Russell Lowell
+
+> "Everything happening, great and small, is a parable whereby God speaks to us, and the art of life is to get the message."
+>   Malcolm Muggeridge
+
+> "Even if you travel everywhere you will not find the limits of the soul, so great is its nature."
+>   Heraclitus
+
+> "Discovering the Father and Creator of the universe is a supremely difficult task; and having found Him it would be impossible to tell anyone about Him."
+>   Plato
+
+(From Fellowship Herald Vol. 5 - 1)
+
+# PRAYER FROM ANOTHER WORLD
+
+Glorious Father and Mother, in one parent combined, 
+Loyal would we be to your divine nature.
+Your own self to live again in and through us 
+By the gift and bestowal of your divine spirit, 
+Thus reproducing you imperfectly in this sphere
+As you are perfectly and majestically shown on high. 
+Give us day by day your sweet ministry of brotherhood 
+And lead us moment by moment in the pathway of loving service
+Be you ever and unfailingly patient with us
+Even as we show forth your patience to our children. 
+Give us the divine wisdom that does all thing's well 
+And the infinite love that is gracious to every creatue. 
+Bestow upon us your patience and loving-kindness 
+That our charity may enfold the weak of the realm. 
+And when our career is finished, make it an honor
+to your name, a pleasure to your good spirit, and a 
+satisfaction to our soul helpers.
+
+Not as we wish, our loving Father, but as you desire the 
+eternal good of your mortal children,
+
+Even so may it be. [144:5.61] (P. 1623)
+
+(From Fellowship Herald Vol. 5 - 1)
+
+# Anti-Terror Treatise
+
+<!--center-->
+When I shed the suit of worry
+That I carry on me day and night,
+When I strip away the anxious bands
+Of tightly held beliefs,
+I stand naked to the gaze of God, and I tremble.
+
+What happens then is nothing short of cosmic love:
+Down from the utmost reaches of my mind
+Stream consciousness and light in healing waves of wonder.
+Enfolded, embraced within supreme creative being,
+I am surrounded by the power of righteous thought.
+I behold as I am beheld.
+
+What I had clutched to me as vital crumbles into dust.
+Selfish hopes are whisked to insignificance
+By a force at once benign and beautiful
+That powers stars and galaxies,
+Yet makes me feel beloved,
+At home, encouraged.
+
+The love that forgives, serves. resurrects, remembers,
+Showers down on me and on my world of pain and fear.
+
+Our God makes all things newt in spite of our determined doubt.
+If I remove rny tiny self, God is there in radiance and mercy.
+
+How can I cling to outmoded ways,
+When our world is breaking open before astonished eyes?
+
+Stephen Zendt
+
+San Francisco. 2002
+
+(From Fellowship Herald Vol. 5 - 1)
+
+# Thy Kingdom Come
+
+O love divine, You arc the seed from which each one of us was born to life. 
+Far as the stars, close as our hearts,
+You are.....
+Your holy Name is uttered everywherc. 
+Wake us into full remembrance of Your love. 
+Guide us ever to our home, which is with You, that joyous life which you have planned for us through all eternity...
+The power and the glory of existence sings within us all: every atom breathes Your breath. 
+May we know our holiness as Yours, forevermore. ....
+Give us the certainty that all our needs are met through faith in You, whatever be Your Will for us. 
+And may it be our Will to Clear the path within that leads to You, to open
+every door in welcome and in trust to You, who waits within us, welcoming our remembrance, rejoicing in our love....
+Forgive us, and may we bc forgiving toward ourselves, that we forget so often who we are. 
+Our own true nature is a godliness; we are of You....
+Others, too, who know not fully who they are and play the game of separation in so many ways, may we forgive in full, knowing that their faults are but our own...
+Deliver us from all our blindnesses unto the meaning of our lives....
+As lights within Your greater light, may we remember You forevcr in the now, in darkness as in day May human love complete your radiance on earth, that we may join with heaven here. Amen
+
+Poem submitted by Patricia Feary, Sacramento, CA, 2003
+
+(From Fellowship Herald Vol. 5 - 1)

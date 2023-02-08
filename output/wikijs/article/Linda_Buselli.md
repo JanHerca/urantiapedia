@@ -16,12 +16,10 @@ Linda Buselli has been a reader for 28 years, and she and her husband Bob served
 
 Index of articles and study aids by Linda:
 
-| Status                | Source  | Issue          | Title                                             | Tags              |
-| --------------------- | ------- | -------------- | ------------------------------------------------- | ----------------- |
-| :white_square_button: | Herald  | Vol. 01, No. 2 | The Seven Psychic Circles                         |                   |
-| :white_square_button: | Herald  | Vol. 02, No. 1 | The Dual Nature of Supremacy                      |                   |
-| :white_square_button: | Herald  | Vol. 05, No. 1 | The Patterns of Revelation                        |                   |
-| :white_square_button: | Herald  | Vol. 09, No. 1 | Law is Life Itself                                |                   |
-| :white_square_button: | Herald  | Vol. 10, No. 1 | Our Creative Deities—A Supreme Relationship       |                   |
-| :white_square_button: | Herald  | Vol. 15, No. 1 | Prayer? Why Bother?                               |                   |
-| :white_square_button: | Herald  | Vol. 19, No. 1 | A Tale of Two Men                                 |                   |
+- [The Seven Psychic Circles](/en/article/Linda_Buselli/The_seven_psychic_circles), The Fellowship Herald, Vol. 01, No. 2
+- [The Dual Nature of Supremacy](/en/article/Linda_Buselli/The_Dual_Nature_of_Supremacy), The Fellowship Herald, Vol. 02, No. 1 
+- [The Patterns of Revelation](/en/article/Linda_Buselli/The_Patterns_of_Revelation), The Fellowship Herald, Vol. 05, No. 1 
+- Law is Life Itself, The Fellowship Herald, Vol. 09, No. 1 
+- Our Creative Deities—A Supreme Relationship, The Fellowship Herald, Vol. 10, No. 1 
+- Prayer? Why Bother?, The Fellowship Herald, Vol. 15, No. 1 
+- A Tale of Two Men, The Fellowship Herald, Vol. 19, No. 1 

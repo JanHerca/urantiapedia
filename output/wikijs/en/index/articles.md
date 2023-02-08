@@ -840,18 +840,17 @@ Source:
   <img src="/image/article/Herald_covers/Herald2003.jpg">
 </figure>
 
-| Title                                       | Author                      | Tags |
-| ------------------------------------------- | --------------------------- | ---- |
-| A Jewish Girl Finds Jesus                   | Bobbie Dreier               |
-| Ruminations on Revelation                   | Steven Hecht                |
-| Safeguarding the Symbols of Urantian Faith  | David Kantor                |
-| When Belief Becomes Faith                   | Al Lockett                  |
-| The Patterns of Revelation                  | Linda Buselli               |
-| The Difficulty of Being Objective           | Nancy Johnson               |
-| Closed Circle or Open Book                  | Stephen Zendt               |
-| The Origin of the Spiritual Fellowship      | Meredith Sprunger           |
-| A Dialogue About The Kingdom                | Claudia Ayers and Lee Smith |
-| Anti-Terror Treatise                        | Stephen Zendt               |
+| Title                                                                                                              | Author                      | Tags |
+| ------------------------------------------------------------------------------------------------------------------ | --------------------------- | ---- |
+| [A Jewish Girl Finds Jesus](/en/article/Bobbie_Dreier/A_Jewish_Girl_Finds_Jesus)                                   | Bobbie Dreier               |
+| [Ruminations on Revelation](/en/article/Steven_Hecht/Ruminations_on_Revelation)                                    | Steven Hecht                |
+| [Safeguarding the Symbols of Urantian Faith](/en/article/David_Kantor/Safeguarding_the_Symbols_of_Urantian_Faith)  | David Kantor                |
+| [When Belief Becomes Faith](/en/article/Al_Lockett/When_Belief_Becomes_Faith)                                      | Al Lockett                  |
+| [The Patterns of Revelation](/en/article/Linda_Buselli/The_Patterns_of_Revelation)                                 | Linda Buselli               |
+| [The Difficulty of Being Objective](/en/article/Nancy_Johnson/The_Difficulty_of_Being_Objective)                   | Nancy Johnson               |
+| [Closed Circle or Open Book](/en/article/Stephen_Zendt/Closed_Circle_or_Open_Book)                                 | Stephen Zendt               |
+| [The Origin of the Spiritual Fellowship](/en/article/Meredith_Sprunger/The_Origin_of_the_Spiritual_Fellowship)     | Meredith Sprunger           |
+| [A Dialogue About The Kingdom](/en/article/Claudia_Ayers_and_Lee_Smith/A_Dialogue_About_The_Kingdom)               | Claudia Ayers and Lee Smith |
 
 <br>
 
