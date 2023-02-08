@@ -463,3 +463,52 @@ As lights within Your greater light, may we remember You forevcr in the now, in 
 Poem submitted by Patricia Feary, Sacramento, CA, 2003
 
 (From Fellowship Herald Vol. 5 - 1)
+
+# The Soul’s Expression
+
+With stammering lips and insufficient sound 
+I strive and struggle to deliver right
+That music of my nature, day and night
+With dream and thought and feeling interwound,
+And inly answering all the senses round 
+With octaves of a mystic depth and height 
+Which step out grandly to the infinite 
+From the dark edges of the sensual ground. 
+This song of soul I struggle to outbear
+Through portals of the sense, sublime and whole,
+And utter all myself into the air; 
+But if I did it, as the thunder roll
+Breaks its own cloud, my flesh would perish there, 
+Before that dread apocalypse of soul.
+
+Elizabeth Barrett Browning
+
+(From Fellowship Herald Vol. 5 - 2)
+
+# Room In My Heart
+
+There is a spacious place inside my heart that waits, 
+wanting you to come and stay,
+an empty room inside the house I’m sweeping out, 
+where you’ll abide forever I pray.
+
+The sunlight shimmers on a stucco wall, 
+rippling through the leaves.
+It lights a space that meditation seeks, 
+a quiet place where shadows play.
+
+Now since you broke my darkness with a golden ray, 
+sunlight that came piercing through,
+I’ve seen this life was always in such disarray 
+true purpose I just never knew.
+
+The dust and cobwebs of confusion too
+are being swept away.
+And in this house anticipation gleams,
+knowing it’s been prepared for you.
+
+Dave Holt
+
+> A human being’s entire afterlife is enormously influenced by what happens during the first few years of existence. [[UB 177:2.5](/en/The_Urantia_Book/177#p2_5)]
+
+(From Fellowship Herald Vol. 5 - 2)

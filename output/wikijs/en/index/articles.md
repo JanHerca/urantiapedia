@@ -862,17 +862,15 @@ Source:
   <img src="/image/article/Herald_covers/Herald2004.jpg">
 </figure>
 
-| Title                                                         | Author              | Tags |
-| ------------------------------------------------------------- | ------------------- | ---- |
-| Illumination/Transformation                 | Doreen Heyne                |
-| An Essay on Hope                            | David Kantor                |
-| The Rise of Spiritual Technology            | Richard Omura               |
-| Meditation in The Urantia Book, Jesus Style | Peter Holley                |
-| The Art of Marriage                         | Arlene and Buck Weimer      |
-| Room in My Heart                            | Dave Holt                   |
-| A Trace of God                              | Steven Hecht                |
-| The Golden Rule in Business                 | Larry Mullins               |
-| The Lighter Side                            | Charles Montgomery          |
+| Title                                                                                                              | Author              | Tags |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------- | ---- |
+| [Illumination/Transformation](/en/article/Doreen_Heyne/Illumination_Transformation)                                | Doreen Heyne                |
+| [An Essay on Hope](/en/article/David_Kantor/An_Essay_on_Hope)                                                      | David Kantor                |
+| [The Rise of Spiritual Technology](/en/article/Richard_S_Omura/The_Rise_of_Spiritual_Technology)                   | Richard Omura               |
+| [Meditation in The Urantia Book, Jesus Style](/en/article/Peter_Holley/Meditation_in_The_Urantia_Book_Jesus_Style) | Peter Holley                |
+| [The Art of Marriage](/en/article/Arlene_and_Buck_Weimer/The_Art_of_Marriage)                                      | Arlene and Buck Weimer      |
+| [A Trace of God](/en/article/Steven_Hecht/A_Trace_of_God)                                                          | Steven Hecht                |
+| [The Golden Rule in Business](/en/article/Larry_Mullins/The_Golden_Rule_in_Business)                               | Larry Mullins               |
 
 <br>
 
