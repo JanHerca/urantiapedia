@@ -882,21 +882,19 @@ Source:
   <img src="/image/article/Herald_covers/Herald2005.jpg">
 </figure>
 
-| Title                                                         | Author              | Tags |
-| ------------------------------------------------------------- | ------------------- | ---- |
-| The Next Fifty Years: Dissemination                           | Charles Olivea      |
-| The New Revelation of the Living Jesus                        | Peter Holley        |
-| Untitled Poem                                                 | David Glass         |
-| On Removing The Barrier to a Civilized Discussion Of Eugenics | Finnie              |
-| Becoming a Universe-Conscious Citizen                         | Nancy Johnson       |
-| At Home In The Universe                                       | Stephen Zendt       |
-| Pattern of Unity                                              | Jean-Pierre Heudier |
-| Journey to India: Legacy of the Sethite Teachers              | Dave Holt           |
-| Thoughts About the Future of our Urantia Community            | Sara Blackstock     |
-| Legacy in Peril: Children and the Urantia Community           | Tom Allen           |
-| Putting the Teachings into Action                             | Steve McIntosh      |
-| Science Cannot Replace Religion                               | Dr. Antti Roine     |
-| A Reed Singing                                                | Dave Holt           |
+| Title                                                                                                                                             | Author              | Tags |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ---- |
+| [The Next Fifty Years: Dissemination](/en/article/Charles_Laurence_Olivea/The_Next_Fifty_Years_Dissemination)                                     | Charles Olivea      |
+| [The New Revelation of the Living Jesus](/en/article/Peter_Holley/The_New_Revelation_of_the_Living_Jesus)                                         | Peter Holley        |
+| [On Removing The Barrier to a Civilized Discussion Of Eugenics](/en/article/Finnie/On_Removing_The_Barrier_to_a_Civilized_Discussion_Of_Eugenics) | Finnie              |
+| [Becoming a Universe-Conscious Citizen](/en/article/Nancy_Johnson/Becoming_a_Universe_Conscious_Citizen)                                          | Nancy Johnson       |
+| [At Home In The Universe](/en/article/Stephen_Zendt/At_Home_In_The_Universe)                                                                      | Stephen Zendt       |
+| [Pattern of Unity](/en/article/Jean_Pierre_Heudier/Pattern_of_Unity)                                                                              | Jean-Pierre Heudier |
+| [Journey to India: Legacy of the Sethite Teachers](/en/article/Dave_Holt/Journey_to_India_Legacy_of_the_Sethite_Teachers)                         | Dave Holt           |
+| [Thoughts About the Future of our Urantia Community](/en/article/Sara_Blackstock/Thoughts_About_the_Future_of_our_Urantia_Communit)               | Sara Blackstock     |
+| [Legacy in Peril: Children and the Urantia Community](/en/article/Tom_Allen/Legacy_in_Peril_Children_and_the_Urantia_Community)                   | Tom Allen           |
+| [Putting the Teachings into Action](/en/article/Steve_McIntosh/Putting_the_Teachings_into_Action)                                                 | Steve McIntosh      |
+| [Science Cannot Replace Religion](/en/article/Antti_Roine/Science_Cannot_Replace_Religion)                                                        | Dr. Antti Roine     |
 
 <br>
 

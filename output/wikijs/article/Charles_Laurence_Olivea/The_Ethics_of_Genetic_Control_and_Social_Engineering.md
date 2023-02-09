@@ -62,3 +62,7 @@ But to get there, we must succeed in employing the doctrine of fair play, predic
 
 > M. Charles Laurence Olivea is a long-time Urantia Book reader, drawn by its clarity of language, wisdom of thought, and the matchless story of Jesus. He and his wife Mary have two sons, Peter (30) and Gordon (29). Last year Charles retired from his career as a public high school history teacher. He and Mary now live in Santa Fe, NM.
 {.is-info}
+
+## References
+
+- Article obtained from: https://urantia-book.org/archive/newsletters/herald/

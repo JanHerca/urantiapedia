@@ -102,6 +102,10 @@ Without consecration and perseverance there can be no illumination.
 > Doreen Heyne found _The Urantia Book_ in the mid 1980s, and is currently serving as Secretary-General of _The Urantia Book_ Fellowship. She divides her time between New Jersey and Florida and her passion is to strive to be a better human being through loving service.
 {.is-info}
 
+## References
+
+- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
 ## Notes
 
 [^1]: Roger Walsh, Essential Spirituality. (John Wiley & Sons, 1999), p. 44.
@@ -119,7 +123,3 @@ Without consecration and perseverance there can be no illumination.
 [^13]: Roger Walsh, Essential Spirituality. (John Wiley & Sons, 1999), p. 179.
 [^14]: Swami Chetanananda, God Lived With Them: Life Stories of Sixteen Monastic Disciples of Sri Ramakrishna (Vedanta Society of st Louis: 1997).
 [^15]: Thomas Troward, The Edinburgh Lectures on Mental Science. (1904)
-
-## References
-
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/

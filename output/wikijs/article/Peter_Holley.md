@@ -14,4 +14,5 @@ Peter Holley discovered _The Urantia Book_ within weeks of a conversion experien
 
 ## Articles
 
-- [Meditation in The Urantia Book, Jesus Style](/en/article/Peter_Holley/Meditation_in_The_Urantia_Book_Jesus_Style)
+- [Meditation in The Urantia Book, Jesus Style](/en/article/Peter_Holley/Meditation_in_The_Urantia_Book_Jesus_Style), The Fellowship Herald, Volume 5, Number 2, 2004 (Summer)
+- [The New Revelation of the Living Jesus](/en/article/Peter_Holley/The_New_Revelation_of_the_Living_Jesus), The Fellowship Herald, Volume 6, Number 1, 2005 (Summer)

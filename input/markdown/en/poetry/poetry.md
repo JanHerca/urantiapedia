@@ -512,3 +512,88 @@ Dave Holt
 > A human being’s entire afterlife is enormously influenced by what happens during the first few years of existence. [[UB 177:2.5](/en/The_Urantia_Book/177#p2_5)]
 
 (From Fellowship Herald Vol. 5 - 2)
+
+# Wonderment and revelation
+
+Wonderment and revelation 
+Span the cosmos with their joys, 
+And among the hosts of heaven, 
+Each his spirit-love employs
+
+Just to win another mortal
+To the Father’s timeless plan, 
+And to cheer him in his progress 
+Toward the bliss awaiting man,
+
+Never can there be an ending; 
+Never can adventure halt,
+For each level of the journey 
+Leads each person to exalt
+
+Everything the Father wishes, 
+All the love he would express, 
+Giving us the joys of sonship 
+And eternal happiness.
+
+How can I withhold my service? 
+How can I allow a day
+Here to pass without exhorting 
+Everyone to find his way
+
+Through the tumult of this planet 
+‘Til the time he must depart, 
+Soon again in loftier mansions 
+To resume? In truth, to start
+
+In that climb that leads him Godward, 
+Ne’er again to be a man
+On this splendid world of wonder, 
+Ne’er to be its dust again.
+
+For each person is an offspring 
+Of the Father’s will-to-love,
+And he’ll draw his far-flung family 
+Home to endless joys above.
+
+David Glass
+
+(From Fellowship Herald Vol. 6 - 1)
+
+# A Reed Singing
+
+I am just a reed..
+You will not notice me here.
+While still a seed,
+I found myself lodged
+in a patch of hard earth.
+When a trickle of water
+discovered my hiding place,
+my roots took hold.
+
+More rain fell;
+it flowed gloriously
+around my pale root and tender sprout.
+I clung to this harsh slope,
+facing south,
+I was given sunshine,
+and I grew.
+
+I am just a reed, nothing to you.
+Not even one transformed by human hands
+into a flute, making music.
+But when a marine gale
+sweeps across the wind-bitten hill,
+blowing between our long stems,
+even reeds will sing.
+
+It is then that we praise
+the Lord of our creation,
+for we seem of small consequence,
+yet we have life.
+It is precious,
+and we give praise.
+
+Donner Canyon, Mount Diablo
+By Dave Holt, Concord, CA
+
+(From Fellowship Herald Vol. 6 - 1)
