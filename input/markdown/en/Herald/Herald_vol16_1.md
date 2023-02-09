@@ -92,7 +92,7 @@ So, in this time of the Hero and Unraveling, two things happened. The institutio
 
 God is both our source and our destiny. We have relative free will within prescribed finite limits. God is the author of history, and we are the players and, in a sense, coauthors, as the storyline twists and turns according to our temporal decisions. The progressions toward destiny, even final destiny, are played out in universe ages, planetary mortal epochs, the march of civilization, and the lives of nations, churches, organizations, families, and individuals. 
 
-I would even go so far as to say that our personal and group history is, in a way, predestined. That is an interesting, rare word that appears in the Revelation [110:2.1] (P. 1204). Our Adjusters begin their work with a foreordained plan for our ideal lives. It is our choice to accept or reject any or all of the plan. Is it possible that our Urantia community under seraphic supervision also has a model plan? 
+I would even go so far as to say that our personal and group history is, in a way, predestined. That is an interesting, rare word that appears in the Revelation [[UB 110:2.1](/en/The_Urantia_Book/110#p2_1)]. Our Adjusters begin their work with a foreordained plan for our ideal lives. It is our choice to accept or reject any or all of the plan. Is it possible that our Urantia community under seraphic supervision also has a model plan? 
 
 Generational Theory is a starting point for considering this idea. The goal of a good historian must be to make astute observations of the patterns of history. By making such inquiries, we can better understand our past, present, and potential future within the fabric—the warp and woof—of the material and the spiritual. This is the substance of our evolving lives, both individual and group, in our finite universe experience. 
 
@@ -138,7 +138,7 @@ Will our new, future leaders create an educationally based movement of evangelis
 
 The Baby Boomer generation has taken its turn, and its leadership has been dominated by lawyers and businessmen. I do not say this by way of criticism. Their efforts have established our institutions, and that is part of a normal evolutionary progression. However, this generation and the next must move toward giving education over to teacherphilosophers and scientists. 
 
-Education recently passed from the control of the clergy to that of lawyers and businessmen. Eventually it must be given over to the philosophers and the scientists. Teachers must be free beings, real leaders, to the end that philosophy, the search for wisdom, may become the chief educational pursuit. [71:7.4] (P. 806) 
+Education recently passed from the control of the clergy to that of lawyers and businessmen. Eventually it must be given over to the philosophers and the scientists. Teachers must be free beings, real leaders, to the end that philosophy, the search for wisdom, may become the chief educational pursuit. [[UB 71:7.4](/en/The_Urantia_Book/71#p7_4)] 
 
 The quality of our efforts over the next ten years will prove decisive in preparing for a new springtime of life and growth. There will be revival, but the only thing about it that I’m sure of is that it will come in ways unexpected but highly effective. Jesus said, “_You hear the sound of the wind, but you know not where it comes from or where it is going._” 
 
@@ -150,7 +150,7 @@ Especially in this fourth generation we’re now in, the Artist, we would be wis
 
 Learning to draw is really a matter of learning to see—to see correctly—and that means a good deal more than merely looking with the eye._” 
 
-Prophets have also been called seers, which means “_seeers._” The prophet Daniel described the great kingdoms of this world as successive empires that he saw, or envisioned, as the statue of a man. Babylon’s King Nebuchadnezzar (ruling in Daniel’s time, circa 600 B.C.) was described as the head of gold; the Persian empire as the breast and arms of silver; the Greek as the waist and thighs of bronze; and the Roman Empire as legs of iron, terminating in feet of unstable mingled iron and clay ([135:3.2] (P. 1498). In Daniel’s vision, the world kingdoms, came to an end when a “_rock from the mountain, not cut by human hands_” struck the feet of the image, whereupon the state of the worldly kingdoms collapsed and God’s everlasting kingdom was established in the earth. John wrestled to understand this image and vision, seeking to find his place in history, which he successfully did, as the forerunner of Christ. 
+Prophets have also been called seers, which means “_seeers._” The prophet Daniel described the great kingdoms of this world as successive empires that he saw, or envisioned, as the statue of a man. Babylon’s King Nebuchadnezzar (ruling in Daniel’s time, circa 600 B.C.) was described as the head of gold; the Persian empire as the breast and arms of silver; the Greek as the waist and thighs of bronze; and the Roman Empire as legs of iron, terminating in feet of unstable mingled iron and clay ([[UB 135:3.2](/en/The_Urantia_Book/135#p3_2)]. In Daniel’s vision, the world kingdoms, came to an end when a “_rock from the mountain, not cut by human hands_” struck the feet of the image, whereupon the state of the worldly kingdoms collapsed and God’s everlasting kingdom was established in the earth. John wrestled to understand this image and vision, seeking to find his place in history, which he successfully did, as the forerunner of Christ. 
 
 According to the Book, rugged John the Baptist read this description of the statue in the Scriptures “_a thousand times._” [Ibid] We should be willing to read it at least once. (See Daniel 2:32). 
 
@@ -190,7 +190,7 @@ What would happen if I were to stand before a covocation of Urantia Book readers
 
 Since the Twentieth Century the desirability of a “_strong leader_” has been seriously questioned. In business the top-down management style has been challenged by a flat “_customer service_” model. This well demonstrated management method respects and values all employees, encourages leadership to rise out of the group, and rewards team effort. Yet even though business schools have long taught the desirability of this approach in MBA classes, there are few academic institutions that actually practice what they preach as the hierarchal top-down micromanagement model remains firmly entrenched in higher education. 
 
-The flat management approach appears to better represent the universal model shared in _The Urantia Book_. “_The entire universe is organized and administered on the representative plan. Representative government is the divine ideal of self-government among non-perfect beings._” [45:7.3] (P. 517) 
+The flat management approach appears to better represent the universal model shared in _The Urantia Book_. “_The entire universe is organized and administered on the representative plan. Representative government is the divine ideal of self-government among non-perfect beings._” [[UB 45:7.3](/en/The_Urantia_Book/45#p7_3)] 
 
 The Heavenly Father envisions our future, then steps aside to enable his sons and daughters living at every level to take responsibility for enacting His will. Though humans may choose to go it alone, the spiritual kingdom facilitates our dedication to do God’s will through the assistance of our Thought Adjusters, our many Unseen Helpers, and the Spirit of Truth. 
 
@@ -230,9 +230,9 @@ In that commitment we must first be centered on the Heavenly Father, thereby act
 
 Did you notice that I stated that the score will be changed? Though changing the Bible may horrify many Christians, it was the notion that an individual could read the Bible and have a personal understanding and relationship with the “_Word of God_” that was at the heart of the protestant reformation in the European Renaissance. 
 
-_The Urantia Book_ is our score. While any suggestion of changing our precious book might trouble some of us, it is inevitable that our revelation will be interpreted differently by individuals, groups, and organizations. In describing the Fifth Epochal Revelation our authors remind us that “_no revelation short of the attainment of the Universal Father can ever be complete._” [92:4.9] (P.1008) Even more importantly, after extended practice Jesus sent out the evangelists as follows: 
+_The Urantia Book_ is our score. While any suggestion of changing our precious book might trouble some of us, it is inevitable that our revelation will be interpreted differently by individuals, groups, and organizations. In describing the Fifth Epochal Revelation our authors remind us that “_no revelation short of the attainment of the Universal Father can ever be complete._” [[UB 92:4.9](/en/The_Urantia_Book/92#p4_9)] Even more importantly, after extended practice Jesus sent out the evangelists as follows: 
 
-Each of the apostolic teachers taught his own view of the gospel of the kingdom. They made no effort to teach just alike; there was no standardized or dogmatic formulation of theologic doctrines. Though they all taught the same truth, each apostle presented his own personal interpretation of the Master’s teaching. [148:1.2] (P. 1658) 
+Each of the apostolic teachers taught his own view of the gospel of the kingdom. They made no effort to teach just alike; there was no standardized or dogmatic formulation of theologic doctrines. Though they all taught the same truth, each apostle presented his own personal interpretation of the Master’s teaching. [[UB 148:1.2](/en/The_Urantia_Book/148#p1_2)] 
 
 Musicians are always changing, modifying, and adapting the scores of the masters to suit the ensemble, audience, and situation. Even so, rest assured that the scores composed by the masters remain true to their spiritual message. The symphony must interpret the score, but they do not compose it. 
 
@@ -244,7 +244,7 @@ Finally, Urantia Book readers must always be mindful that the work of the sympho
 
 Even though this musical metaphor suggests how the Urantia movement may transform itself through its focus on the will of God thus inviting the world’s audience to join us in worship, we must ever keep this in mind the truth of this profound revelation: 
 
-With the limited range of mortal hearing, you can hardly conceive of morontia melodies. There is even a material range of beautiful sound unrecognized by the human sense of hearing, not to mention the inconceivable scope of morontia and spirit harmony. Spirit melodies are not material sound waves but spirit pulsations received by the spirits of celestial personalities. There is a vastness of range and a soul of expression, as well as a grandeur of execution, associated with the melody of the spheres, that are wholly beyond human comprehension. [44:1.1] (P. 
+With the limited range of mortal hearing, you can hardly conceive of morontia melodies. There is even a material range of beautiful sound unrecognized by the human sense of hearing, not to mention the inconceivable scope of morontia and spirit harmony. Spirit melodies are not material sound waves but spirit pulsations received by the spirits of celestial personalities. There is a vastness of range and a soul of expression, as well as a grandeur of execution, associated with the melody of the spheres, that are wholly beyond human comprehension. [[UB 44:1.1](/en/The_Urantia_Book/44#p1_1)]
 
 
 
@@ -258,9 +258,9 @@ Great trees possess a majestical presence, such as the Grizzly Giant of the Sequ
 
 Likewise, study groups are establishing roots for a great movement, whose aim over time is to disseminate _The Urantia Book_ and its teachings, having a transformational influence on the world. Study groups may very well constitute the primary engine to achieve the necessary momentum toward human planetary destiny. But to be successful this movement must be nourished by living spiritual virtues of truth, beauty, and goodness. Then the world, someday, will be able to see a majestic fraternity of men and women who exemplify the principle of universe unity made possible by higher teachings of God’s light and life. We, students of _The Urantia Book_, past, present, and future have been given the opportunity to help make this possible. 
 
-The socialization or spread of the Fifth Epochal Revelation through a growing network of study groups will depend on what participants bring to such gatherings and by what they take from them. The interactions between persons, when done in a revelatory search for God, can tap into the spirit of his grace, thereby, raising human consciousness. Remember, the search for God is nothing less than the search for the source and center of all things and beings. What’s more, an Archangel of Nebadon reassures us that, “_Knowledge is possessed only by sharing; it is safeguarded by wisdom and socialized by love._” [48:7, 28] (P. 
+The socialization or spread of the Fifth Epochal Revelation through a growing network of study groups will depend on what participants bring to such gatherings and by what they take from them. The interactions between persons, when done in a revelatory search for God, can tap into the spirit of his grace, thereby, raising human consciousness. Remember, the search for God is nothing less than the search for the source and center of all things and beings. What’s more, an Archangel of Nebadon reassures us that, “_Knowledge is possessed only by sharing; it is safeguarded by wisdom and socialized by love._” [[UB 48:7.28](/en/The_Urantia_Book/48#p7_28)]
 
-A Solitary Messenger reinforces this point by the generalization that “_Personality cannot very well perform in isolation. Man is innately a social creature; he is dominated by the craving of belongingness._” [112: 1.16] (P. 1227) 
+A Solitary Messenger reinforces this point by the generalization that “_Personality cannot very well perform in isolation. Man is innately a social creature; he is dominated by the craving of belongingness._” [[UB 112:1.6](/en/The_Urantia_Book/112#p1_6)]
 
 To know others who share kindred minds and souls is the great immediate benefit of study groups. The thesis offered in this essay concerns the living rationale for individual persons to meet in study on a regular basis seeking God intellectually and spiritually. 
 
@@ -270,11 +270,11 @@ In that spirit, I would like to suggest we think of each study group as a “_sc
 
 We go beyond the role of being merely readers of the book; we are more in the role of students looking for Living Water and the Bread of Life. A student in this context may be defined as an attentive, systematic observer, who is engaged in mind and soul as a cosmic citizen growing with the Supreme. 
 
-A new viewpoint of old facts or on a conventional perspective can constitute a “_new wine skin._” That is what is proposed here. The usefulness of a different viewpoint was explained by an Archangel, while referencing statements of human philosophy for instructional purposes on the First Mansion World.: “_Only a poet can discern poetry in the commonplace prose of routine experience._” [48: 7, 22] (P. 557) 
+A new viewpoint of old facts or on a conventional perspective can constitute a “_new wine skin._” That is what is proposed here. The usefulness of a different viewpoint was explained by an Archangel, while referencing statements of human philosophy for instructional purposes on the First Mansion World.: “_Only a poet can discern poetry in the commonplace prose of routine experience._” [[UB 48:7.22](/en/The_Urantia_Book/48#p7_22)]
 
 This designation of study groups as “_schools_” with all the educational implications contained therein opens up the act of study as a higher, more dignified, loftier concept—given their revelatory character and (potential) planetary significance. It deepens and broadens one’s universe perspective of them, hence, the “_new wine skins._” 
 
-Furthermore, the person-to-person make-up of study groups can serve as the means to maximize the dynamics of group study. I believe that relationships between fellow mortals dedicated to revelatory study extend to the Universal Father, Michael of Nebadon, the Supreme and the angels. It is worth reflecting on what a Solitary Messenger has told us concerning the vitality of relationships among persons. “_Everything nonspiritual in human experience, excepting personality, is a means to an end. Every true relationship of mortal man with other persons—human or divine—is an end in itself._” [112: 2, 8] (P. 1228) With this observation in mind, schools (study groups) may be understood in terms of the major facets in the interactions between persons: heart-to-heart; mind-tomind; soul-to-soul. 
+Furthermore, the person-to-person make-up of study groups can serve as the means to maximize the dynamics of group study. I believe that relationships between fellow mortals dedicated to revelatory study extend to the Universal Father, Michael of Nebadon, the Supreme and the angels. It is worth reflecting on what a Solitary Messenger has told us concerning the vitality of relationships among persons. “_Everything nonspiritual in human experience, excepting personality, is a means to an end. Every true relationship of mortal man with other persons—human or divine—is an end in itself._” [[UB 112:2.8](/en/The_Urantia_Book/112#p2_8)] With this observation in mind, schools (study groups) may be understood in terms of the major facets in the interactions between persons: heart-to-heart; mind-tomind; soul-to-soul. 
 
 The Nature of Study and Its Morontia Significance 
 
@@ -282,7 +282,7 @@ The term, to study, appears to have originated in the English language sometime 
 
 _The Urantia Book_ is designed for study in my opinion. This is evident in the way facts, meanings, and values are presented. Over the years I have heard many persons comment that as questions are raised in one paragraph they are often answered in the following paragraph. There is a logical progression from the general to the particular. It is the nature of the revelation to invite some level of inquiry: From whence have I come? Who am I? Why am I here? Where am I going? 
 
-A Divine Counselor has noted that “_The religious challenge of this age is those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe, and divine goodness._” [2: 7, 10] (P. 36) (Emphasis added) Study (complemented by service) is a profoundly important feature of the challenge. Anyone really committed to the Fifth Epochal Revelation will take study seriously. 
+A Divine Counselor has noted that “_The religious challenge of this age is those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe, and divine goodness._” [[UB 2:7.10](/en/The_Urantia_Book/2#p7_10)] (Emphasis added) Study (complemented by service) is a profoundly important feature of the challenge. Anyone really committed to the Fifth Epochal Revelation will take study seriously. 
 
 To learn from the text of _The Urantia Book_, studying, then, is a must. An in-depth study of the revelation would be necessarily comprehensive and thorough. Another way to illustrate this point, either individually or collectively, can be found in synonyms, listed here: 
 
@@ -304,15 +304,15 @@ Certain inferences may be drawn from these terms concerning the nature of study.
 
 Thinking about study groups as revelatory schools can enhance the spiritual and cosmic dignity of them, investing them with universe-capital. It deepens and widens the context of these gatherings. They are not social get-togethers, although friendly social ties should always be encouraged. This revelation entails some rather heavy lifting. The long view indicates that the destiny of civilization on Urantia and the future of the religion of Jesus hang in the balance between human imperfection and prospects for eventual light and life. 
 
-With a nod to the Divine Counselor, we ought to study in the way the writing of _The Urantia Book_ is constructed and arranged, that is to say, use the same pedagogical principles—go from the complex to the simple, i.e., from the long view to the moving present, utilizing the perspective of origin, history, and destiny applied to contemporary affairs. [19: 1, 5-6)] (P. 215) With this idea in mind, it would be profitable to determine how the Morontia culture prioritizes the practice of study. What “_universe value_” is assigned to studying? 
+With a nod to the Divine Counselor, we ought to study in the way the writing of _The Urantia Book_ is constructed and arranged, that is to say, use the same pedagogical principles—go from the complex to the simple, i.e., from the long view to the moving present, utilizing the perspective of origin, history, and destiny applied to contemporary affairs. [[UB 19:1.5-6](/en/The_Urantia_Book/19#p1_5)] With this idea in mind, it would be profitable to determine how the Morontia culture prioritizes the practice of study. What “_universe value_” is assigned to studying? 
 
-First of all, we learn that when most pilgrims of time attain the Fifth Mansion World, “_Study is becoming voluntary, unselfish service natural, and worship spontaneous._” [47: 7, 5] (P. 537) Isn’t it interesting, of all the different behaviors or norms the Brilliant Evening Star could have focused on, study, service and worship were emphasized. The first develops mind (mota); the second exercises the soul (to borrow a phrase); and the third communes with God (the supreme joy of personality existence). What grand priorities! But there is more. 
+First of all, we learn that when most pilgrims of time attain the Fifth Mansion World, “_Study is becoming voluntary, unselfish service natural, and worship spontaneous._” [[UB 47:7.5](/en/The_Urantia_Book/47#p7_5)] Isn’t it interesting, of all the different behaviors or norms the Brilliant Evening Star could have focused on, study, service and worship were emphasized. The first develops mind (mota); the second exercises the soul (to borrow a phrase); and the third communes with God (the supreme joy of personality existence). What grand priorities! But there is more. 
 
 It remains my sense that characterizing human study groups as “_schools_” is hardly farfetched. 
 
-An Archangel has given us a vivid description of the priorities of Morontia culture on Jerusem, our planetary system capital. “_The activities…are of three distinct varieties: work, progress and play. Stated otherwise, they are service, study, and relaxation._” [46: 5, 22] (P. 526) (Emphasis added) Interestingly, study is equated with progress and service equated with work. These Morontia norms, sketched by the Archangel, must reflect the central aims of the schools of thinking, feeling and doing. This Archangel continues by noting that, “_Those things which you might have learned on earth, but which you failed to learn must be acquired under the tutelage of…faithful and patient teachers._” [48:5,7] (P. 551) 
+An Archangel has given us a vivid description of the priorities of Morontia culture on Jerusem, our planetary system capital. “_The activities…are of three distinct varieties: work, progress and play. Stated otherwise, they are service, study, and relaxation._” [[UB 46:5.22](/en/The_Urantia_Book/46#p5_22)] (Emphasis added) Interestingly, study is equated with progress and service equated with work. These Morontia norms, sketched by the Archangel, must reflect the central aims of the schools of thinking, feeling and doing. This Archangel continues by noting that, “_Those things which you might have learned on earth, but which you failed to learn must be acquired under the tutelage of…faithful and patient teachers._” [[UB 48:5.7](/en/The_Urantia_Book/48#p5_7)]
 
-Indeed, schooling is a universal concept and practice. We learn from the Brilliant Evening Star that “_The entire universe is one vast school._” [37:6,2] (P. 352) The Archangel elaborates on this point: “_If the Gods designed merely to take you on one long and eternal joy excursion, they certainly would not so largely turn the whole universe into one vast and intricate practical training school, requisition a substantial part of the celestial creation as teachers and instructors, and then spend ages upon ages piloting you, one by one, through this gigantic universe school of experiential training._” [48:8,3] (P. 
+Indeed, schooling is a universal concept and practice. We learn from the Brilliant Evening Star that “_The entire universe is one vast school._” [[UB 37:6.2](/en/The_Urantia_Book/37#p6_2)] The Archangel elaborates on this point: “_If the Gods designed merely to take you on one long and eternal joy excursion, they certainly would not so largely turn the whole universe into one vast and intricate practical training school, requisition a substantial part of the celestial creation as teachers and instructors, and then spend ages upon ages piloting you, one by one, through this gigantic universe school of experiential training._” [[UB 48:8.3](/en/The_Urantia_Book/48#p8_3)]
 
 Study, service, and worship are a multi-sided jewel. Again, one may observe the greater dignity of characterizing study groups as “_schools._” Study groups ought to be recognized for their universe-value, the contribution they can make to implement God’s command for ascending mortals eventually to become perfect even as he is perfect. 
 
@@ -336,15 +336,15 @@ On the last point, the role of the host may or may not overlap with the role of 
 
 Lastly, consideration might profitably be given to group prayer and worship. For example, prayer can be used to open and close a meeting. Seeking the Father’s indwelling spirit or Michael’s Spirit of Truth can be a powerful way to help a gathering be more cogent and yet calm at the same time. I always invite Jesus to “_join_” us. The act of study is augmented when the Spirit of Truth is openly welcomed into the group’s midst. 
 
-We can aspire to be effective instruments in the search for truth, but the Father and the Creator Son are always the inspiration. I so like what was said by the Mighty Messenger about the Spirit of Truth, the greatest gift Michael gave to Urantia, besides his actual bestowal: “_Having started out on the way of life everlasting, having acepted the assignment and received your orders to advance, do not fear the dangers of human forgetfulness and mortal inconstancy, do not be troubled with doubts of failure or by perplexing confusion, do not falter and question your status and standing, for in every dark hour, at every crossroad in the forward struggle, the Spirit of Truth will always speak, saying ‘This is the way. _” [34: 7, 8] (P. 383) (Emphasis added) 
+We can aspire to be effective instruments in the search for truth, but the Father and the Creator Son are always the inspiration. I so like what was said by the Mighty Messenger about the Spirit of Truth, the greatest gift Michael gave to Urantia, besides his actual bestowal: “_Having started out on the way of life everlasting, having acepted the assignment and received your orders to advance, do not fear the dangers of human forgetfulness and mortal inconstancy, do not be troubled with doubts of failure or by perplexing confusion, do not falter and question your status and standing, for in every dark hour, at every crossroad in the forward struggle, the Spirit of Truth will always speak, saying ‘This is the way. _” [[UB 34:7.8](/en/The_Urantia_Book/34#p7_8)] (Emphasis added) 
 
-It seems to me that the Spirit both clarifies and comforts. The Spirit is very helpful to study and service. Trying to start a study group may be daunting; serving as a leader can be problematic. Why not form a habit of accessing some of the spiritual resources given to our world. The Chief of Urantia Midwayers has something to say on this. “_Group or congregational praying is very effective in that it is highly socializing in its repercussions. When a group engages in community prayer for moral enhancement and spiritual uplift, such devotions are reactive upon the individuals composing the group; they are all made better because of participation._” [91: 5, 2] (P. 998) (Emphasis added) 
+It seems to me that the Spirit both clarifies and comforts. The Spirit is very helpful to study and service. Trying to start a study group may be daunting; serving as a leader can be problematic. Why not form a habit of accessing some of the spiritual resources given to our world. The Chief of Urantia Midwayers has something to say on this. “_Group or congregational praying is very effective in that it is highly socializing in its repercussions. When a group engages in community prayer for moral enhancement and spiritual uplift, such devotions are reactive upon the individuals composing the group; they are all made better because of participation._” [[UB 91:5.2](/en/The_Urantia_Book/91#p5_2)] (Emphasis added) 
 
 Even study needs a measure of courage to face issues or questions that intimidate many others. It takes even more courage to discuss them with a group of people whose perceptions differ considerably. Hearts can be made calmer and intellects clearer if the participants are willing to pull together in a common petition, or, to commune together in worship, with a higher power. It is important to remember that this should be done without pressure or coercion. Still, the spiritual cohesion of a group may realize broader, deeper revelatory insights. In all such efforts, trust God. 
 
 God the Supreme and the Master Seraphim 
 
-While living on Urantia as creatures of time and space, we are also cosmic citizens. The Mighty Messenger points out that, “_With God the Father, sonship is the great relationship. With God the Supreme, achievement is the prerequisite to status—one must do something as well as be something._” [115: 1, 0] (P. 1260) (Emphasis added) 
+While living on Urantia as creatures of time and space, we are also cosmic citizens. The Mighty Messenger points out that, “_With God the Father, sonship is the great relationship. With God the Supreme, achievement is the prerequisite to status—one must do something as well as be something._” [[UB 115:1.1](/en/The_Urantia_Book/115#p1_1)] (Emphasis added) 
 
 We have seen how the Morontia culture prioritizes study and service. It does appear that studying runs as a norm throughout the universes of time and space. I believe the process of starting and keeping study groups going contributes directly to the Supreme. The universe-value of studying is naturally linked to the Supreme. It is something for us to be conscious of. The Supreme is actualizing our potential in the ascension scheme of universe achievement even while we reside on earth. Down here, as evolutionary creatures, we can add to the gradual, unfolding development of Orvonton, our superuniverse, in reciprocity with the finite God, the God of evolution. This reciprocity is inherent by design in the relationships of Supremacy. It is a high and noble task (actually a cosmic, moral duty) to be contributors to universe building. The Universal Father has delegated to us something important to do. 
 
@@ -352,7 +352,7 @@ To perform our role as cosmic citizens in a worthwhile and useful manner, we nee
 
 But to bring this line of reasoning directly to our home planet, we should be mindful of the Master Seraphim of Planetary Supervision. Working with the angels is crucial to the success-potential of study groups. I do not think this is superstitious; rather it is a suggestion grounded in the long view of intelligent faith and inspired by sincere prayer. There is a lot to pray for. For instance, petitions may be directed to the angels for assistance in organizing and maintaining a study group. The angels and the divine spirit can be solicited to guide or encourage individuals to consider joining one’s study group. 
 
-The Angels of Enlightenment come to mind. According to the Chief of Seraphim, our world “_is now receiving the help of the third corps of seraphim dedicated to the fostering of planetary education. These angels are occupied with mental and moral training as it concerns individuals, families, groups, schools, communities, nations, and whole races._” [114: 6, 11] (P. 1256) (Emphasis added) Is it farfetched to suggest that our study groups fit neatly within their sphere of interest? The Urantia Papers as the subject of group study seem to correlate directly to these angels’ area of responsibility. 
+The Angels of Enlightenment come to mind. According to the Chief of Seraphim, our world “_is now receiving the help of the third corps of seraphim dedicated to the fostering of planetary education. These angels are occupied with mental and moral training as it concerns individuals, families, groups, schools, communities, nations, and whole races._” [[UB 114:6.11](/en/The_Urantia_Book/114#p6_11)] (Emphasis added) Is it farfetched to suggest that our study groups fit neatly within their sphere of interest? The Urantia Papers as the subject of group study seem to correlate directly to these angels’ area of responsibility. 
 
 If this is so, we might consider this framework of our relationship as part of the new wine skin of the Fifth Epochal Revelation. This idea also applies to our philosophically organic connection with God the Supreme. These key ties to unseen friends and allies and to the finite God ennoble the routine tasks of those who gather to study. The appeal of this perspective on our labor in the evolutionary vineyards is one of universe-romancing. 
 
@@ -380,7 +380,7 @@ Conclusion
 
 The humble act of studying _The Urantia Book_ is a noble endeavor. It is noble when there is a sincere, intelligent atempt (animated by living-faith) to align as cosmic citizens with the Supreme as it develops the grand universe of time and space. 
 
-I allude to the loving reciprocity of Supremacy as explained by a Mighty Messenger: “_In the present universe age this dual motion is revealed in the descending and ascending personalities of the grand universe. The Supreme Creator Personalities and all their divine associates are reflective of the outward, diverging motion of the Supreme, while the ascending pilgrims from the seven superuniverses are indicative of the inward, converging trend of Supremacy._” [115:6. 5] (P. 1265) 
+I allude to the loving reciprocity of Supremacy as explained by a Mighty Messenger: “_In the present universe age this dual motion is revealed in the descending and ascending personalities of the grand universe. The Supreme Creator Personalities and all their divine associates are reflective of the outward, diverging motion of the Supreme, while the ascending pilgrims from the seven superuniverses are indicative of the inward, converging trend of Supremacy._” [[UB 115:6.5](/en/The_Urantia_Book/115#p6_5)]
 
 In addition to all of this, we benefit right now as children of the Universal Father—true brothers and sisters—foretasting in time the truth, beauty and goodness of eternal meanings. 
 
@@ -460,7 +460,7 @@ Gee whiz, just for example the number’s worked out in here: “_If all the pro
 
 And I suspect they’re registered in frequency, just as they are in Satania. We are six hundred six of the system of Satania, which means, six hundred five worlds developed human life before us. We were the six hundred sixth on which human beings evolved. That determined our number. 
 
-Now, that’s a big number, isn’t it? But listen to the next statement: “_I know the physical-sphere registry number,_” in other words, they’ve got all physical space bodies registered, inhabited or uninhabited “_but it is of such an extraordinary size that it is of little practical significance to the mortal mind._” [15:14.8] (P. 182) 
+Now, that’s a big number, isn’t it? But listen to the next statement: “_I know the physical-sphere registry number,_” in other words, they’ve got all physical space bodies registered, inhabited or uninhabited “_but it is of such an extraordinary size that it is of little practical significance to the mortal mind._” [[UB 15:14.8](/en/The_Urantia_Book/15#p14_8)] 
 
 It’s an altogether bigger number. So when I reason here that the seven superuniverses, based on inhabited worlds, are seven thousand times as big as Havona, that is a major understatement. They’re altogether much bigger, aren’t they? And these worlds aren’t moving at random. They’re moving in the linear procession of seven circuits. It takes more room out here for the helter-skelter motions of Orvonton as compared with the regular, orderly motions in Havona. I have the belief that the central creation figures in at probably 1/100th of one per cent of the total volume of the grand universe. One one hundredth of one per cent. Or, the relationship on one penny to a hundred dollars. I think such a small percentage of such a large volume can be cheerfully ignored. I think the hole in the doughnut is so small that we can calculate without worrying about it. So, I’m going to assume that the diameter of the whole grand universe is twice the transverse diameter of Orvonton. 
 
@@ -470,13 +470,13 @@ Author: **Tom Allen**
 
 In the end, we really cannot say just exactly where Uversa is located. It has an indeterminate central location, but interpretations of the language used leave a plethora of cosmographical possibilities. Speculation must be exhaustive in order to guess correctly about the location of Uversa, but even then it is just a guess. In the following quotes, the bolded and underlined areas are for emphasis, and because these are the words we must mostly consider in comprehending the location of Uversa. This discussion will require looking back on these words repeatedly and carefully analyzing their meanings and diction interpretations. These are all of the references to the location of Uversa in _The Urantia Book_. 
 
-The whirl of the ten major sectors, the so-called star drifts, about the Uversa headquarters of Orvonton. [15:3.13] (P. 168) 
+The whirl of the ten major sectors, the so-called star drifts, about the Uversa headquarters of Orvonton. [[UB 15:3.13](/en/The_Urantia_Book/15#p3_13)] 
 
-While each superuniverse government presides near the center of the evolutionary universes of its space segment,... While sharing the light of near-by suns,... These headquarters worlds belong to one of the greater systems situated near the astronomical center of their respective superuniverses. 15:7.1] (P. 174) 
+While each superuniverse government presides near the center of the evolutionary universes of its space segment,... While sharing the light of near-by suns,... These headquarters worlds belong to one of the greater systems situated near the astronomical center of their respective superuniverses. [UB 15:7.1](/en/The_Urantia_Book/15#p7_1)] 
 
-Uversa is favorably situated for the work of this colony, not only because of its central location, but also because there are no gigantic living or dead suns near at hand to disturb the energy currents. [30:3.2] (P. 338) 
+Uversa is favorably situated for the work of this colony, not only because of its central location, but also because there are no gigantic living or dead suns near at hand to disturb the energy currents. [[UB 30:3.2](/en/The_Urantia_Book/30#p3_2)] 
 
-The Satania system of inhabited worlds is far removed from Uversa and that great sun cluster which functions as the physical or astronomic center of the seventh superuniverse. From Jerusem, the headquarters of Satania, it is over two hundred thousand light-years to the physical center of the superuniverse of Orvonton, far, far away in the dense diameter of the Milky Way. Satania is on the periphery of the local universe, and Nebadon is now well out towards the edge of Orvonton. From the outermost system of inhabited worlds to the center of the superuniverse is a trifle less than two hundred and fifty thousand light-years. [32:2.11] (PP. 359–360) 
+The Satania system of inhabited worlds is far removed from Uversa and that great sun cluster which functions as the physical or astronomic center of the seventh superuniverse. From Jerusem, the headquarters of Satania, it is over two hundred thousand light-years to the physical center of the superuniverse of Orvonton, far, far away in the dense diameter of the Milky Way. Satania is on the periphery of the local universe, and Nebadon is now well out towards the edge of Orvonton. From the outermost system of inhabited worlds to the center of the superuniverse is a trifle less than two hundred and fifty thousand light-years. [[UB 32:2.11](/en/The_Urantia_Book/32#p2_11)] (PP. 359–360) 
 
 Using the model that Orvonton is comprised of the local group of galaxies, at least three possible solutions as to the location of Uversa can be drawn from the clues given in these quotations. 
 
@@ -490,7 +490,7 @@ Members of the local group are still being located and the mass estimates will l
 
 What did the revelators mean with the term “_dense diameter?_” The above illustration gives any number of directions such a diameter can take relative to our sun’s location. Of course it is densest in the direction of Sagittarius, but there is lessened density still in the opposite direction and toward Andromeda. 
 
-More evidence that Uversa is possibly located at the barycenter is the analogous fact that Salvington is located “_at the exact energy-mass center of the local universe. But your local universe is not a single astronomic system, though a large system does exist at its physical center._” [32:2.4] (P. 359) If the Salvington model resembles a similar location for Uversa, then the superuniverse capital could also be located at the exact energy-mass center, or barycenter, of the local group, as is Salvington. The energymass center for the Virgo supercluster is not even remotely calculable. 
+More evidence that Uversa is possibly located at the barycenter is the analogous fact that Salvington is located “_at the exact energy-mass center of the local universe. But your local universe is not a single astronomic system, though a large system does exist at its physical center._” [[UB 32:2.4](/en/The_Urantia_Book/32#p2_4)] If the Salvington model resembles a similar location for Uversa, then the superuniverse capital could also be located at the exact energy-mass center, or barycenter, of the local group, as is Salvington. The energymass center for the Virgo supercluster is not even remotely calculable. 
 
 The “_outermost system_” of inhabited worlds is two hundred and fifty thousand light years away on the far side of the Milky Way, away from the direction to Uversa and the barycenter. Because the Milky Way is in rotation, or whirling, in about one hundred million years, we will be on the other side of the galaxy and we will perhaps be the outermost system of inhabited worlds. So if the outermost system is fifty thousand more light years away today, the direction toward the barycenter would be more likely in the southerly direction as depicted in the above picture. 
 
@@ -512,17 +512,17 @@ So-called Star Drifts
 
 The first quote above apparently does not define the location of Uversa as being central to the Milky Way. If the so-called star drifts, as detailed in Chapter 16, are imbedded within the Milky Way and if they whirl about the Uversa headquarters of Orvonton, then the barycenter solution is still the most plausible of all solutions. The whirling could be conceived as the age long orbiting of all the major sectors within the rotating Milky Way, whirling around the barycenter which is near to where Uversa is located. The major sectors of the Milky Way would thus whirl around the SagA* as they all make their way around the more distant barycenter. Of course the location of Uversa is “_near_” the center, so again, what is the relative definition of “_near?_” Someday in the distant superuniverse ages of light and life, when Orvonton has completed its growth, the barycenter will perhaps be at the center of the star drift whirl. Does our revelation project such a condition even when the barycenter is presently afar off? Only further revelation has the final answer to these probing questions, although future scientific evolution will be needed to make revelation available. 
 
-Critical interpretation can thus come up with these alternative speculative conclusions as to the location of Uversa if the local group is the model for superuniverse number seven. If the Virgo supercluster is the model for the superuniverse, then the two hundred thousand light years number as the distance to the physical center of Orvonton is exponentially too low. It is very difficult to conceive that analogy can be used to reconcile the huge difference in distances. If Uversa is in the Virgo cluster, then it is estimated on average to be about sixty million light years away. In spite of probable distance miscalculations, the Virgo supercluster is estimated to be one hundred to two hundred million light years in diameter.3,4 Therefore those who believe that the Virgo supercluster is Orvonton must assume that these distances are fairly reliable, since the papers reveal that spectroscopic estimations are fairly reliable among our superuniverses. [12:4.14] (P. 134) We could make the supposition that the other six superclusters, which in this model would logically make up the grand universe, are approximately as large. This would extend the grand universe to a circumference of at least seven hundred million to fourteen hundred million light years making the diameter at least two to five hundred million light years. Urantia Book numbers are at strong variance. Even the first outer space level which is assumed to be much larger than the grand universe is revealed to be only about fifty million light years in depth beyond the grand universe.5 [12:1.14] (P. 
+Critical interpretation can thus come up with these alternative speculative conclusions as to the location of Uversa if the local group is the model for superuniverse number seven. If the Virgo supercluster is the model for the superuniverse, then the two hundred thousand light years number as the distance to the physical center of Orvonton is exponentially too low. It is very difficult to conceive that analogy can be used to reconcile the huge difference in distances. If Uversa is in the Virgo cluster, then it is estimated on average to be about sixty million light years away. In spite of probable distance miscalculations, the Virgo supercluster is estimated to be one hundred to two hundred million light years in diameter.3,4 Therefore those who believe that the Virgo supercluster is Orvonton must assume that these distances are fairly reliable, since the papers reveal that spectroscopic estimations are fairly reliable among our superuniverses. [[UB 12:4.14](/en/The_Urantia_Book/12#p4_14)] We could make the supposition that the other six superclusters, which in this model would logically make up the grand universe, are approximately as large. This would extend the grand universe to a circumference of at least seven hundred million to fourteen hundred million light years making the diameter at least two to five hundred million light years. Urantia Book numbers are at strong variance. Even the first outer space level which is assumed to be much larger than the grand universe is revealed to be only about fifty million light years in depth beyond the grand universe.5 [[UB 12:1.14](/en/The_Urantia_Book/12#p1_14)]
 
 Local groups closest to us, which are feasibly our associate superuniverses, are from ten to thirty million light years away. These are the distances which seem to be fairly reliable. Comparing the size of superclusters with the specific dimensions given in the Urantia papers, the difference is enormous. Two hundred thousand versus sixty million is not reconcilable outside of analogy, thus believing that the revelators were deliberately in error. Could analogy seek to set up a ratio which if properly analyzed would supply an accurate distance solution? Only the space contraction distance measurement theory could begin literally to compensate for these huge discrepancies. (Chapter 7) True, the English usage is not clear, but it is not unreasonable. Supercluster as superuniverse advocates could agree that distance estimates are grossly in error, but by this huge magnitude? 
 
-Irwin Ginsburgh speculated that because of the current distance estimates of distant galaxies, the Great Attractor, and the small diameter of the first outer space level given in the papers, that the numbers in the Urantia papers are technically wrong by error or by design.6 This is how he settles his concept of the Milky Way as minor sector. He concludes that these quotes were actually meant to be increased by a factor of one thousand. The two hundred and fifty thousand light year number should have read two hundred and fifty million light years. The twenty-five million light year activity extending into the first outer space level should have read twenty-five billion light years. [12:1.14] (PP. 129–130) He contends that with current distance understanding, we should just figure out that this is what they meant, but could not tell us. Instead they gave a figure easily transposed to the higher number by a factor of one thousand to make us guess at their analogy with the knowledge that these numbers will bear out satisfactorily in the future. 
+Irwin Ginsburgh speculated that because of the current distance estimates of distant galaxies, the Great Attractor, and the small diameter of the first outer space level given in the papers, that the numbers in the Urantia papers are technically wrong by error or by design.6 This is how he settles his concept of the Milky Way as minor sector. He concludes that these quotes were actually meant to be increased by a factor of one thousand. The two hundred and fifty thousand light year number should have read two hundred and fifty million light years. The twenty-five million light year activity extending into the first outer space level should have read twenty-five billion light years. [[UB 12:1.14](/en/The_Urantia_Book/12#p1_14)] (PP. 129–130) He contends that with current distance understanding, we should just figure out that this is what they meant, but could not tell us. Instead they gave a figure easily transposed to the higher number by a factor of one thousand to make us guess at their analogy with the knowledge that these numbers will bear out satisfactorily in the future. 
 
 Is this the shadow of a hair turning or is it ethically reasonable and responsible for the revelators to have done this? And why? This is a convenient conclusion, but obviates the possibility of conclusively determining true distance cosmology from the numbers given. How many other times would the revelators have done this with the myriad of other numbers given in the papers? The apparently inaccurate one million light year Andromeda distance gave a then humanly perceived value that could be verified in the future as incorrect. No human is saying that we are two hundred thousand light years from Uversa. This does not need to be corrected from inaccurate human calculation. We could not trust any number given in the papers if it is incorrect. If it suited our paradigm, we could say the revelators meant that there are more than one trillion suns illuminating and warming Orvonton instead of more than ten trillion, or Andronover was initiated a billion years ago instead of a trillion. We must work with the numbers we have and not be tempted to rewrite them. 
 
 The following quote indicates that advanced local universes reside in the great central buldge, and may give a hint as to the location of Uversa: 
 
-The local universes are in closer proximity as they approach Havona; the circuits are greater in number, and there is increased superimposition, layer upon layer. But farther out from the eternal center there are fewer and fewer systems, layers, circuits, and universes. [15:3.16] (P. 
+The local universes are in closer proximity as they approach Havona; the circuits are greater in number, and there is increased superimposition, layer upon layer. But farther out from the eternal center there are fewer and fewer systems, layers, circuits, and universes. [[UB 15:3.16](/en/The_Urantia_Book/15#p3_16)]
 
 This difficult paragraph could be interpreted as follows. The “_approach_” to Havona is experienced not in physical distance, but in a figurative way. This tells us that the “_closer proximity_” is in the manner of approaching the relative perfection of Havona. These advanced local universes were the earliest local universes in Orvonton and accumulated near the center of the Milky Way’s watchlike center. These local universes have “_increased superimposition._” This is a good description of the center bulge of the Milky Way. Untold local universes, many in light and life, probably abide there. 
 
@@ -612,17 +612,17 @@ Advice of Immanual to Michael (Jesus)
 
 To the end that you may not unnecessarily contribute to the creation of subsequent stereotyped systems of Urantia religious beliefs or other types of nonprogressive religious loyalties, we advise you still further: Leave no writings behind you on the planet. Refrain from all writing upon permanent materials; enjoin your associates to make no images or other likenesses of yourself in the flesh. See that nothing potentially idolatrous is left on the planet at the time of your departure. (my emphasis) 
 
-While you will live the normal and average social life of the planet, being a normal individual of the male sex, you will probably not enter the marriage relation, which would be honorable and consistent with your bestowal; but I must remind you that one of the incarnation mandates of Sonarington forbids the leaving of human offspring on any planet by a bestowal Son of Paradise origin. (my emphasis) [120:3.7–8] (P. 1330) 
+While you will live the normal and average social life of the planet, being a normal individual of the male sex, you will probably not enter the marriage relation, which would be honorable and consistent with your bestowal; but I must remind you that one of the incarnation mandates of Sonarington forbids the leaving of human offspring on any planet by a bestowal Son of Paradise origin. (my emphasis) [[UB 120:3.7–8](/en/The_Urantia_Book/120#p3_7)] 
 
 Planning for Public Work 
 
-The first thing Jesus did after thinking through the general plan of co-odinating his program with John’s movement, was to review in his mind the instructions of Immanuel. Carefully he thought through the advice given him concerning his methods of labor, and that he was to leave no permanent writing on the planet. Never again did Jesus write on anything but sand. On his next visit to Nazareth, much to the sorrow of his brither Joseph, Jesus destroyed all of his writing that was preserved on the boards about the carpenter shop, and which hung upon the walls of the old home. (my emphasis) [136:4.2] (P. 1514) 
+The first thing Jesus did after thinking through the general plan of co-odinating his program with John’s movement, was to review in his mind the instructions of Immanuel. Carefully he thought through the advice given him concerning his methods of labor, and that he was to leave no permanent writing on the planet. Never again did Jesus write on anything but sand. On his next visit to Nazareth, much to the sorrow of his brither Joseph, Jesus destroyed all of his writing that was preserved on the boards about the carpenter shop, and which hung upon the walls of the old home. (my emphasis) [[UB 136:4.2](/en/The_Urantia_Book/136#p4_2)] 
 
 The Crucifixion 
 
 ...Meanwhile the four soldiers assigned to the Master’s crucifixion, as was the custom, had divided his clothes among them, one taking the sandals, one the turban, one the girdle, and the fourth the cloak. This left the tunic, or seamless vestment reaching down to near the knees, to be cut up into four pieces, but when the soldiers saw what an unusual garment it was, they decided to cast lots for it. Jesus looked down on them while they divided his garments,and the thoughtless crowd jeered at him. 
 
-It was well that the Roman soldiers took possession of the Master’s clothing. Otherwise, if his followers had gained possession of these garments, they would have been tempted to resort to superstitious relic worship. The Master desired that his followers should have nothing material to associate with his life on earth. He wanted to leave mankind only the memory of a human life dedicated to the high spiritual ideal of being consecrated to doing the Father’s will. (my emphasis) [187:2.7–8] (PP. 2023–24) 
+It was well that the Roman soldiers took possession of the Master’s clothing. Otherwise, if his followers had gained possession of these garments, they would have been tempted to resort to superstitious relic worship. The Master desired that his followers should have nothing material to associate with his life on earth. He wanted to leave mankind only the memory of a human life dedicated to the high spiritual ideal of being consecrated to doing the Father’s will. (my emphasis) [[UB 187:2.7](/en/The_Urantia_Book/187#p2_7)–8] (PP. 2023–24) 
 
 These passages make it clear that if the Shroud is genuine then it is a genuine mistake. Since the ministering spirits had to seek permission to remove Jesus’ body, I think it’s safe to say that they didn’t have carte blanche to interject as they pleased and were powerless to remove the burial cloths. There are many instances in _The Urantia Book_ where the ministering spirits were not permitted to remediate problems in the mortal realm (the frog story), especially when the free will of humans was involved. 
 
@@ -634,33 +634,33 @@ Urantia Book readers will find in the book twelve mentions of Jesus’ burial cl
 
 The Burial of Jesus 
 
-They carried the body into the tomb, a chamber about ten feet square, where they hurriedly prepared it for burial. The Jews did not really bury their dead, they simply embalmed them. Joseph and Nicodemus had brought with them large quantities of myrrh and aloes, and they now wrapped the body with bandages saturated with these solutions. When the embalming was completed, they tied a napkin about the face, wrapped the body in a linen sheet, and reverently placed it on a shelf in the tomb. (my emphasis) [188:1.4] (P. 2013) 
+They carried the body into the tomb, a chamber about ten feet square, where they hurriedly prepared it for burial. The Jews did not really bury their dead, they simply embalmed them. Joseph and Nicodemus had brought with them large quantities of myrrh and aloes, and they now wrapped the body with bandages saturated with these solutions. When the embalming was completed, they tied a napkin about the face, wrapped the body in a linen sheet, and reverently placed it on a shelf in the tomb. (my emphasis) [[UB 188:1.4](/en/The_Urantia_Book/188#p1_4)] 
 
 The Material Body of Jesus 
 
 The tomb of Joseph was empty. Not because the body of Jesus had been rehabilitated or resurrected, but because the celestial hosts had been granted their request to afford it a special and unique dissolution, a return of the “_dust to dust_” without the intervention of the delays of time and without the operation of the ordinary and visible processes of mortal decay and material corruption. (my emphasis) 
 
-The mortal remains of Jesus underwent the same natural process of elemental disintegration as characterizes all human bodies on earth except that, in point of time, this natural mode of dissolution was greatly accelerated, hastened to that point where it became well-nigh instantaneous. (my emphasis) [189:2.7–8] (PP. 2007–8) 
+The mortal remains of Jesus underwent the same natural process of elemental disintegration as characterizes all human bodies on earth except that, in point of time, this natural mode of dissolution was greatly accelerated, hastened to that point where it became well-nigh instantaneous. (my emphasis) [[UB 189:2.7–8](/en/The_Urantia_Book/189#p2_7)]
 
 Discovery of the Empty Tomb 
 
-…in the recess of stone where they had laid Jesus, Mary saw only the folded napkin where his head had rested, the bandages wherewith he had been wrapped lying intact and as they had rested on the stone before the celestial hosts removed the body. The covering sheet lay at the foot of the burial niche. (my emphasis) [189:4.6] (P. 2026) 
+…in the recess of stone where they had laid Jesus, Mary saw only the folded napkin where his head had rested, the bandages wherewith he had been wrapped lying intact and as they had rested on the stone before the celestial hosts removed the body. The covering sheet lay at the foot of the burial niche. (my emphasis) [[UB 189:4.6](/en/The_Urantia_Book/189#p4_6)] 
 
 The Women in the Tomb 
 
-They had been by themselves over the Sabbath, and they conjectured that the body had been moved to another resting place. But when they pondered such a solution of their dilemma, they were at a loss to account for the orderly arrangement of the grave cloths, how could the body have been removed since the very bandages in which it was wrapped were left in position and apparently intact on the burial shelf? (my emphasis) [189:4.9] (P. 2026) 
+They had been by themselves over the Sabbath, and they conjectured that the body had been moved to another resting place. But when they pondered such a solution of their dilemma, they were at a loss to account for the orderly arrangement of the grave cloths, how could the body have been removed since the very bandages in which it was wrapped were left in position and apparently intact on the burial shelf? (my emphasis) [[UB 189:4.9](/en/The_Urantia_Book/189#p4_9)] 
 
 Peter and John at the Tomb 
 
-John, being younger than Peter, outran him and arrived first at the tomb. John tarried at the door, viewing the tomb, and it was just as Mary had described it. Very soon Simon Peter rushed up and, entering, saw the same empty tomb with the grave cloths so peculiarly arranged. And when Peter had come out, John also went in and saw it all for himself, and then they sat down on the stone to ponder the meaning of what they had seen and heard. (my emphasis) [189:5.2)] (P. 2027) 
+John, being younger than Peter, outran him and arrived first at the tomb. John tarried at the door, viewing the tomb, and it was just as Mary had described it. Very soon Simon Peter rushed up and, entering, saw the same empty tomb with the grave cloths so peculiarly arranged. And when Peter had come out, John also went in and saw it all for himself, and then they sat down on the stone to ponder the meaning of what they had seen and heard. (my emphasis) [[UB 189:5.2](/en/The_Urantia_Book/189#p5_2))] 
 
 Peter and John Ponder 
 
-Peter at first suggested that the grave had been rifled, that enemies had stolen the body, perhaps bribed the guards. But John reasoned that the grave would hardly have been left so orderly if the body had been stolen, and he also raised the question as to how the bandages happened to be left behind, and so apparently intact. And again they both went back into the tomb more closely to examine the grave cloths. (my emphasis) [189:5.3] (P. 2027) 
+Peter at first suggested that the grave had been rifled, that enemies had stolen the body, perhaps bribed the guards. But John reasoned that the grave would hardly have been left so orderly if the body had been stolen, and he also raised the question as to how the bandages happened to be left behind, and so apparently intact. And again they both went back into the tomb more closely to examine the grave cloths. (my emphasis) [[UB 189:5.3](/en/The_Urantia_Book/189#p5_3)] 
 
 The Tomb is Cleared of the Sindon 
 
-Nicodemus and the others doubted their story, doubted that Jesus had risen from the dead; they conjectured that the Jews had removed the body. Joseph and David were disposed to believe the report, so much so that they hurried out to inspect the tomb, and they found everything just as the women had described. And they were the last to so view the sepulcher, for the high priest sent the captain of the temple guards to the tomb at half past seven o’clock to remove the grave cloths. The captain wrapped them all up in the linen sheet and threw them over a near-by cliff. (my emphasis) [190:1.2] (P. 2030) 
+Nicodemus and the others doubted their story, doubted that Jesus had risen from the dead; they conjectured that the Jews had removed the body. Joseph and David were disposed to believe the report, so much so that they hurried out to inspect the tomb, and they found everything just as the women had described. And they were the last to so view the sepulcher, for the high priest sent the captain of the temple guards to the tomb at half past seven o’clock to remove the grave cloths. The captain wrapped them all up in the linen sheet and threw them over a near-by cliff. (my emphasis) [[UB 190:1.2](/en/The_Urantia_Book/190#p1_2)] 
 
 What if the Shroud is Authentic? 
 
@@ -702,7 +702,7 @@ Crime, drug addiction, human trafficking
 
 Do you notice that everything on the list springs from human behavior? 
 
-We know that difficulties are inherent in the evolutionary process. In [2:5.8] (P. 39) a Divine Counselor says, “_When I observe the Creator Sons and their subordinate administrators struggling so valiantly with the manifold difficulties of time inherent in the evolution of the universes of space, I discover that I bear these lesser rulers of the universes a great and profound affection._” 
+We know that difficulties are inherent in the evolutionary process. In [[UB 2:5.8](/en/The_Urantia_Book/2#p5_8)] a Divine Counselor says, “_When I observe the Creator Sons and their subordinate administrators struggling so valiantly with the manifold difficulties of time inherent in the evolution of the universes of space, I discover that I bear these lesser rulers of the universes a great and profound affection._” 
 
 God decided that it was a good idea to create imperfect beings, operating in imperfect universes. What was he thinking? 
 
@@ -728,17 +728,17 @@ Then the question becomes, “_How do we get there from here?_”
 
 As you may imagine, Jesus has something to say about it: 
 
-Then came forward one of the groups of the Pharisees to ask harassing questions, and the spokesman, signaling to Jesus, said: “_Master, I am a lawyer, and I would like to ask you which, in your opinion, is the greatest commandment?_” Jesus answered: “_There is but one commandment, and that one is the greatest of all, and that commandment is: ‘Hear O Israel, the Lord our God, the Lord is one; and you shall love the Lord your God with all your heart and with all your soul, with all your mind and with all your strength.’ This is the first and great commandment. And the second commandment is like this first; indeed, it springs directly therefrom, and it is: ‘You shall love your neighbor as yourself.’ There is no other commandment greater than these; on these two commandments hang all the law and the prophets._” [174:4.2] (P. 1901) 
+Then came forward one of the groups of the Pharisees to ask harassing questions, and the spokesman, signaling to Jesus, said: “_Master, I am a lawyer, and I would like to ask you which, in your opinion, is the greatest commandment?_” Jesus answered: “_There is but one commandment, and that one is the greatest of all, and that commandment is: ‘Hear O Israel, the Lord our God, the Lord is one; and you shall love the Lord your God with all your heart and with all your soul, with all your mind and with all your strength.’ This is the first and great commandment. And the second commandment is like this first; indeed, it springs directly therefrom, and it is: ‘You shall love your neighbor as yourself.’ There is no other commandment greater than these; on these two commandments hang all the law and the prophets._” [[UB 174:4.2](/en/The_Urantia_Book/174#p4_2)] 
 
 The evening before he was killed, Jesus amended his instruction: 
 
-After a few moments of informal conversation, Jesus stood up and said: “_When I enacted for you a parable indicating how you should be willing to serve one another, I said that I desired to give you a new commandment; and I would do this now as I am about to leave you. You well know the commandment which directs that you love one another; that you love your neighbor even as yourself. But I am not wholly satisfied with even that sincere devotion on the part of my children. I would have you perform still greater acts of love in the kingdom of the believing brotherhood. And so I give you this new commandment: That you love one another even as I have loved you. And by this will all men know that you are my disciples if you thus love one another. [180:1.1] (P. 1944) 
+After a few moments of informal conversation, Jesus stood up and said: “_When I enacted for you a parable indicating how you should be willing to serve one another, I said that I desired to give you a new commandment; and I would do this now as I am about to leave you. You well know the commandment which directs that you love one another; that you love your neighbor even as yourself. But I am not wholly satisfied with even that sincere devotion on the part of my children. I would have you perform still greater acts of love in the kingdom of the believing brotherhood. And so I give you this new commandment: That you love one another even as I have loved you. And by this will all men know that you are my disciples if you thus love one another. [[UB 180:1.1](/en/The_Urantia_Book/180#p1_1)] 
 
 First, we are to love God with our whole hearts and souls and minds and strength. Second, we are to prove it by loving each other. How do we do that? Back to the book: 
 
-In the mind’s eye conjure up a picture of one of your primitive ancestors of cave-dwelling times―a short, misshapen, filthy, snarling hulk of a man standing, legs spread, club upraised, breathing hate and animosity as he looks fiercely just ahead. Such a picture hardly depicts the divine dignity of man. But allow us to enlarge the picture. In front of this animated human crouches a saber-toothed tiger. Behind him, a woman and two children. Immediately you recognize that such a picture stands for the beginnings of much that is fine and noble in the human race, but the man is the same in both pictures. Only, in the second sketch you are favored with a widened horizon. You therein discern the motivation of this evolving mortal. His attitude becomes praiseworthy because you understand him. If you could only fathom the motives of your associates, how much better you would understand them. If you could only know your fellows, you would eventually fall in love with them. [100:4.5] (P. 1098) 
+In the mind’s eye conjure up a picture of one of your primitive ancestors of cave-dwelling times―a short, misshapen, filthy, snarling hulk of a man standing, legs spread, club upraised, breathing hate and animosity as he looks fiercely just ahead. Such a picture hardly depicts the divine dignity of man. But allow us to enlarge the picture. In front of this animated human crouches a saber-toothed tiger. Behind him, a woman and two children. Immediately you recognize that such a picture stands for the beginnings of much that is fine and noble in the human race, but the man is the same in both pictures. Only, in the second sketch you are favored with a widened horizon. You therein discern the motivation of this evolving mortal. His attitude becomes praiseworthy because you understand him. If you could only fathom the motives of your associates, how much better you would understand them. If you could only know your fellows, you would eventually fall in love with them. [[UB 100:4.5](/en/The_Urantia_Book/100#p4_5)] 
 
-You cannot truly love your fellows by a mere act of the will. Love is only born of thoroughgoing understanding of your neighbor’s motives and sentiments. It is not so important to love all men today as it is that each day you learn to love one more human being. If each day or each week you achieve an understanding of one more of your fellows, and if this is the limit of your ability, then you are certainly socializing and truly spiritualizing your personality. Love is infectious, and when human devotion is intelligent and wise, love is more catching than hate. But only genuine and unselfish love is truly contagious. If each mortal could only become a focus of dynamic affection, this benign virus of love would soon pervade the sentimental emotion-stream of humanity to such an extent that all civilization would be encompassed by love, and that would be the realization of the brotherhood of man. [100:4.6] (P. 1098) 
+You cannot truly love your fellows by a mere act of the will. Love is only born of thoroughgoing understanding of your neighbor’s motives and sentiments. It is not so important to love all men today as it is that each day you learn to love one more human being. If each day or each week you achieve an understanding of one more of your fellows, and if this is the limit of your ability, then you are certainly socializing and truly spiritualizing your personality. Love is infectious, and when human devotion is intelligent and wise, love is more catching than hate. But only genuine and unselfish love is truly contagious. If each mortal could only become a focus of dynamic affection, this benign virus of love would soon pervade the sentimental emotion-stream of humanity to such an extent that all civilization would be encompassed by love, and that would be the realization of the brotherhood of man. [[UB 100:4.6](/en/The_Urantia_Book/100#p4_6)] 
 
 Honestly, the solution to our list of problems is that we need to fall in love with each other. We need to get to know, really know, people who are not like us. We need to deeply listen to them so well that we fall in love with them. We need to stop listening to our animal instincts and start obeying the commandment to love each other the way God loves us. 
 
@@ -774,107 +774,107 @@ It is very instructive to set aside all that we have learned about the origin of
 
 The first category of tasks—those related to personal spiritual growth—are found throughout the book and are characterized by such quotes as: 
 
-“_God-knowing creatures have only one supreme ambition..._” [1:0.3] (P. 21) 
+“_God-knowing creatures have only one supreme ambition..._” [[UB 1:0.3](/en/The_Urantia_Book/1#p0_3)] 
 
-“_The great goal of human existence is ..._” [110:3.4] (P. 
+“_The great goal of human existence is ..._” [[UB 110:3.4](/en/The_Urantia_Book/110#p3_4)]
 
-“_The transcendent goal of the children of time..._” [1:0.3] (P. 21) 
+“_The transcendent goal of the children of time..._” [[UB 1:0.3](/en/The_Urantia_Book/1#p0_3)] 
 
 Because the Fellowship is primarily dedicated to the tasks in Group two, I will not list Group one tasks. Neither will I list Group three tasks, many of which may be found in 52:6, 81:6, throughout Papers 70 and 71, and elsewhere in the text. Following are some of the Group two tasks noted in _The Urantia Book_. Had I included all of Jesus’ exhortations to the twelve the list would have been much longer. 
 
-“_Of all human knowledge..._” [196:1.3] (P. 2090) 
+“_Of all human knowledge..._” [[UB 196:1.3](/en/The_Urantia_Book/196#p1_3)] 
 
-“_If Christianity persists in neglecting its spiritual mission..._” [195:9.4] (P. 2082) 
+“_If Christianity persists in neglecting its spiritual mission..._” [[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)] 
 
-“_One of the most important things in human living..._” [196:1.3] (P. 2090) 
+“_One of the most important things in human living..._” [[UB 196:1.3](/en/The_Urantia_Book/196#p1_3)] 
 
-“_The overstressed and isolated morality of modern religion . . . would rehabilitate itself if…_” [2:7.9] (P. 43) 
+“_The overstressed and isolated morality of modern religion . . . would rehabilitate itself if…_” [[UB 2:7.9](/en/The_Urantia_Book/2#p7_9)] 
 
-“_A new and fuller revelation of the religion of Jesus…_” [195:9.2] (P. 2082) 
+“_A new and fuller revelation of the religion of Jesus…_” [[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)] 
 
-“_The real purpose of all universe education is..._” [2:7.12] (P. 43) 
+“_The real purpose of all universe education is..._” [[UB 2:7.12](/en/The_Urantia_Book/2#p7_12)] 
 
-“_Paganized and socialized Christianity stands in need of ..._” [195:9.2] (P. 2082) 
+“_Paganized and socialized Christianity stands in need of ..._” [[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)] 
 
-“_Religion does need new leaders..._” [195:9.4] (P. 2082) 
+“_Religion does need new leaders..._” [[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)] 
 
-“_The religious challenge of this age..._” [2:7.10] (P. 43) 
+“_The religious challenge of this age..._” [[UB 2:7.10](/en/The_Urantia_Book/2#p7_10)] 
 
-“_To “_follow Jesus_” means..._” [196:1.3] (P. 2090) 
+“_To “_follow Jesus_” means..._” [[UB 196:1.3](/en/The_Urantia_Book/196#p1_3)] 
 
-“_Some day a reformation in the Christian church..._” [196:2.1] (P. 2091) 
+“_Some day a reformation in the Christian church..._” [[UB 196:2.1](/en/The_Urantia_Book/196#p2_1)] 
 
-“_The ultimate goal of society’s most advanced achievement can never hope to transcend ..._” [196:2.11] (P. 2093) 
+“_The ultimate goal of society’s most advanced achievement can never hope to transcend ..._” [[UB 196:2.11](/en/The_Urantia_Book/196#p2_11)] 
 
-“_The quickest way to realize the brotherhood of man on Urantia is..._” [52:6.7] (P. 598) 
+“_The quickest way to realize the brotherhood of man on Urantia is..._” [[UB 52:6.7](/en/The_Urantia_Book/52#p6_7)] 
 
-“_All Urantia is waiting…_” [94:12.7] (P. 1041) 
+“_All Urantia is waiting…_” [[UB 94:12.7](/en/The_Urantia_Book/94#p12_7)] 
 
-“_The common people heard Jesus gladly and they will again respond ... if..._” [196:1.4] (P. 2090) 
+“_The common people heard Jesus gladly and they will again respond ... if..._” [[UB 196:1.4](/en/The_Urantia_Book/196#p1_4)] 
 
-“_The hour is striking..._” [94:12.7] (P. 1041) 
+“_The hour is striking..._” [[UB 94:12.7](/en/The_Urantia_Book/94#p12_7)] 
 
-“_The world needs more firsthand religion…_” [195:9.8] (P. 
+“_The world needs more firsthand religion…_” [[UB 195:9.8](/en/The_Urantia_Book/195#p9_8)]
 
-“_What an awakening the world would experience if..._” [195:9.8] (P. 2083) 
+“_What an awakening the world would experience if..._” [[UB 195:9.8](/en/The_Urantia_Book/195#p9_8)] 
 
-“_..the religion of Jesus stands as the unsullied and transcendent spiritual summons..._” [195:9.9] (P. 2083) 
+“_..the religion of Jesus stands as the unsullied and transcendent spiritual summons..._” [[UB 195:9.9](/en/The_Urantia_Book/195#p9_9)] 
 
-“_If the Christian church would only dare..._” [195:10.10] (P. 
+“_If the Christian church would only dare..._” [[UB 195:10.10](/en/The_Urantia_Book/195#p10_10)]
 
-“_..what is now most needed is Jesus..._” [195:10.1] (P. 2084) 
+“_..what is now most needed is Jesus..._” [[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)] 
 
-“_The world needs to see Jesus living again on earth..._” [195:10.1] (P. 2084) 
+“_The world needs to see Jesus living again on earth..._” [[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)] 
 
-“_Modern culture must become spiritually baptized..._” [195:10.1] (P. 2084) 
+“_Modern culture must become spiritually baptized..._” [[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)] 
 
-“_…when Jesus becomes thus lifted up..._” [195:10.1] (P. 
+“_…when Jesus becomes thus lifted up..._” [[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)]
 
-“_…mankind languishes and stumbles . . . because..._” [195:10.5] (P. 2084) 
+“_…mankind languishes and stumbles . . . because..._” [[UB 195:10.5](/en/The_Urantia_Book/195#p10_5)] 
 
-“_The call to the adventure..._” [195:10.6] (P. 2084) 
+“_The call to the adventure..._” [[UB 195:10.6](/en/The_Urantia_Book/195#p10_6)] 
 
-“_High-gear spiritual performances must await the new revelation..._” [195:10.18] (P. 2086) 
+“_High-gear spiritual performances must await the new revelation..._” [[UB 195:10.18](/en/The_Urantia_Book/195#p10_18)] 
 
-“_If Christianity could only grasp more of Jesus’ teachings..._” [195:10.19] (P. 2086) 
+“_If Christianity could only grasp more of Jesus’ teachings..._” [[UB 195:10.19](/en/The_Urantia_Book/195#p10_19)] 
 
-“_The hope of modern Christianity is that it should..._” [195:10.20] (P. 2086) 
+“_The hope of modern Christianity is that it should..._” [[UB 195:10.20](/en/The_Urantia_Book/195#p10_20)] 
 
-“_The great hope of Urantia..._” [195:10.16] (P. 2086) 
+“_The great hope of Urantia..._” [[UB 195:10.16](/en/The_Urantia_Book/195#p10_16)] 
 
-“_Mortals in all stages of spirituality ... may find in the personal life of Jesus..._” [196:2.4] (P. 2092) 
+“_Mortals in all stages of spirituality ... may find in the personal life of Jesus..._” [[UB 196:2.4](/en/The_Urantia_Book/196#p2_4)] 
 
-“_Let all mankind benefit from…_” [178:1.11] (P. 1931) 
+“_Let all mankind benefit from…_” [[UB 178:1.11](/en/The_Urantia_Book/178#p1_11)] 
 
-“_…you are commissioned to preach this gospel..._” [178:1.11] (P. 1931) 
+“_…you are commissioned to preach this gospel..._” [[UB 178:1.11](/en/The_Urantia_Book/178#p1_11)] 
 
-“_…your mission among men is to proclaim the gospel..._” [193:0.4] (P. 2052) 
+“_…your mission among men is to proclaim the gospel..._” [[UB 193:0.4](/en/The_Urantia_Book/193#p0_4)] 
 
-“_That which the world needs most to know..._” [193:0.4] (. 
+“_That which the world needs most to know..._” [[UB 193:0.4](/en/The_Urantia_Book/193#p0_4)]
 
-“_The world needs to see Jesus living again on earth..._” [195:10.1] (P. 2084) 
+“_The world needs to see Jesus living again on earth..._” [[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)] 
 
-“_Modern culture must become spiritually baptized..._” [195:10.1] (P. 2084) 
+“_Modern culture must become spiritually baptized..._” [[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)] 
 
-“_…when Jesus becomes thus lifted up..._” [195:10.1] (P. 2084) 
+“_…when Jesus becomes thus lifted up..._” [[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)] 
 
-“_The time is ripe to witness..._” [196:1.2] (P. 2090) 
+“_The time is ripe to witness..._” [[UB 196:1.2](/en/The_Urantia_Book/196#p1_2)] 
 
-“_Jesus of Nazareth must not be longer sacrificed..._” [196:1.2] (P. 2090) 
+“_Jesus of Nazareth must not be longer sacrificed..._” [[UB 196:1.2](/en/The_Urantia_Book/196#p1_2)] 
 
-“_What a transcendent service if, through this revelation..._” [196:1.2] (P. 2090) 
+“_What a transcendent service if, through this revelation..._” [[UB 196:1.2](/en/The_Urantia_Book/196#p1_2)] 
 
-“_…the religious revisions of Christian civilization would be drastic and revolutionary if..._” [196:1.2] (P. 2090) 
+“_…the religious revisions of Christian civilization would be drastic and revolutionary if..._” [[UB 196:1.2](/en/The_Urantia_Book/196#p1_2)] 
 
-“_If Christianity persists in neglecting..._” [195:9.4] (P. 2082) 
+“_If Christianity persists in neglecting..._” [[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)] 
 
-“_The hour is striking..._” [195:9.5] (P. 2083) 
+“_The hour is striking..._” [[UB 195:9.5](/en/The_Urantia_Book/195#p9_5)] 
 
-“_This good news . . . must be carried to all the world..._” [193:1.2] (P. 2053) 
+“_This good news . . . must be carried to all the world..._” [[UB 193:1.2](/en/The_Urantia_Book/193#p1_2)] 
 
-“_Serve your fellow mortals even as I have served you..._” [193:5.2] (P. 2057) 
+“_Serve your fellow mortals even as I have served you..._” [[UB 193:5.2](/en/The_Urantia_Book/193#p5_2)] 
 
-“_Go to all the world proclaiming this gospel..._” [190:3.1] (P. 2033) 
+“_Go to all the world proclaiming this gospel..._” [[UB 190:3.1](/en/The_Urantia_Book/190#p3_1)] 
 
 It is instructive to review the comments made by Jesus in his post-resurrection appearances. The emphasis was always on the proclamation of the kingdom. If we go through his post-resurrection appearances and extract the action verbs from his comments, we end up with this list: 
 
@@ -1024,9 +1024,9 @@ Auto- or personal revelation (spiritual illumination) delights your soul. It is 
 
 This example took place when Jesus with his father Joseph went up to Jerusalem at around age 13. 
 
-On the day before the Passover Sabbath, flood tides of spiritual illumination swept through the mortal mind of Jesus and filled his human heart to overflowing with affectionate pity for the spiritually blind and morally ignorant multitudes assembled for the celebration of the ancient Passover commemoration. [124:6.15] (P 1376) 
+On the day before the Passover Sabbath, flood tides of spiritual illumination swept through the mortal mind of Jesus and filled his human heart to overflowing with affectionate pity for the spiritually blind and morally ignorant multitudes assembled for the celebration of the ancient Passover commemoration. [[UB 124:6.15](/en/The_Urantia_Book/124#p6_15)]
 
-Another example: Jesus asked his apostles “_But who say you that I am?_”…Simon Peter, springing to his feet, exclaimed: “_You are the Deliverer, the Son of the living God._”…(Jesus) said: “_This has been revealed to you by my Father._” [157:3.5-6] (P. 1746) 
+Another example: Jesus asked his apostles “_But who say you that I am?_”…Simon Peter, springing to his feet, exclaimed: “_You are the Deliverer, the Son of the living God._”…(Jesus) said: “_This has been revealed to you by my Father._” [[UB 157:3.5-6](/en/The_Urantia_Book/157#p3_5)] 
 
 And a personal experience: Having scant remembrance of my human father after he died when I was seven, I keenly felt the lack of a father’s watch care. What longing I had for a loving father’s guidance. With this background I recount a pivotal morning years ago. 
 
@@ -1038,7 +1038,7 @@ And yet there is another way. As you become aware of the spiritual nature that l
 
 In summary, these are ways in which I hear and am led. There are yet to be revealed others. Communication with the Divine evolves. This quote from _The Urantia Book_ illustrates this: 
 
-From such vantage points of high living, man is able to transcend the material irritations of the lower levels of thinking—worry, jealousy, envy, revenge, and the pride of immature personality. These high-climbing souls deliver themselves from a multitude of the crosscurrent conflicts of the trifles of living, thus becoming free to attain consciousness of the higher currents of spirit, of spirit concept and celestial communication. [160:3.5] (P. 1778) 
+From such vantage points of high living, man is able to transcend the material irritations of the lower levels of thinking—worry, jealousy, envy, revenge, and the pride of immature personality. These high-climbing souls deliver themselves from a multitude of the crosscurrent conflicts of the trifles of living, thus becoming free to attain consciousness of the higher currents of spirit, of spirit concept and celestial communication. [[UB 160:3.5](/en/The_Urantia_Book/160#p3_5)] 
 
 Harry McMullen, at a Urantia Book conference, presented his view of discerning God’s will. Here’s one paragraph to give you a taste (see footnote for the reference to his talk; it’s worth reading.) 
 
