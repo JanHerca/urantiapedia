@@ -162,9 +162,9 @@ Avant environ 1000 av. J.-C., il n'y avait pas beaucoup d'écrits parmi les Juif
 2. Les Hébreux ont classé les 39 livres de leurs Écritures en quatre grandes divisions.
 	- a. La Loi—Torah. 5 livres. Le Pentateuque.
 	- b. Les Prophètes. 8 livres.
-		- (1) Les anciens prophètes.
+		1. Les anciens prophètes.
 			Josué, Juges, Samuel, Rois.
-		- (2) Les derniers prophètes.
+		2. Les derniers prophètes.
 			Esaïe, Jérémie, Ezéchiel.
 	- c. Les Petits Prophètes—les Douze.
 	- d. Le reste.

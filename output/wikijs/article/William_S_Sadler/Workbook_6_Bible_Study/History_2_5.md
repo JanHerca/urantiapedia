@@ -72,55 +72,55 @@ Author: **William S. Sadler**
 19. David introduced music into the Jewish ritual of worship.
 20. The following is an outline of David’s career:
 	- a. **DAVID THE MAN**
-		- (1) Judean, of Bethlehem. [I Sam 16:1-3](/en/Bible/1_Samuel/16#v1).
-		- (2) Shepherd. [I Sam 16:11](/en/Bible/1_Samuel/16#v11).
-		- (3) Musician. [I Sam 16:14-23](/en/Bible/1_Samuel/16#v14).
-		- (4) Poet. [II Sam 1:17-27](/en/Bible/2_Samuel/1#v17).
-		- (5) Warrior. [I Sam 17](/en/Bible/1_Samuel/17).
-		- (6) Friend of Jonathan. [I Sam 18:1-4](/en/Bible/1_Samuel/18#v1). [19:1-7](/en/Bible/1_Samuel/19#v1).
-		- (7) Enemy of Saul. [I Sam 18:5-22](/en/Bible/1_Samuel/18#v5).
-		- (8) Saved by Michal. [I Sam 18:22-29](/en/Bible/1_Samuel/18#v22).
+		1. Judean, of Bethlehem. [I Sam 16:1-3](/en/Bible/1_Samuel/16#v1).
+		2. Shepherd. [I Sam 16:11](/en/Bible/1_Samuel/16#v11).
+		3. Musician. [I Sam 16:14-23](/en/Bible/1_Samuel/16#v14).
+		4. Poet. [II Sam 1:17-27](/en/Bible/2_Samuel/1#v17).
+		5. Warrior. [I Sam 17](/en/Bible/1_Samuel/17).
+		6. Friend of Jonathan. [I Sam 18:1-4](/en/Bible/1_Samuel/18#v1). [19:1-7](/en/Bible/1_Samuel/19#v1).
+		7. Enemy of Saul. [I Sam 18:5-22](/en/Bible/1_Samuel/18#v5).
+		8. Saved by Michal. [I Sam 18:22-29](/en/Bible/1_Samuel/18#v22).
 	- b. **DAVID A FUGITIVE AND OUTLAW**
-		- (1) At Naioth, in Ramah. [I Sam 19:18-20:42](/en/Bible/1_Samuel/19#v18).
-		- (2) At Nob. [I Sam 21:1-9](/en/Bible/1_Samuel/21#v1); [22:11-21](/en/Bible/1_Samuel/22#v11).
-		- (3) At Gath. [I Sam 21:10-15](/en/Bible/1_Samuel/21#v10); [27:1](/en/Bible/1_Samuel/27#v1).
-		- (4) Cave of Adullam. [I Sam 22:1](/en/Bible/1_Samuel/22#v1).
-		- (5) Mizpeh. [I Sam 22:3](/en/Bible/1_Samuel/22#v3).
-		- (6) Forest of Hereth. [I Sam 22:5](/en/Bible/1_Samuel/22#v5).
-		- (7) Keilah. [I Sam 23:1-13](/en/Bible/1_Samuel/23#v1).
-		- (8) Wilderness of Ziph. [I Sam 23:14-24](/en/Bible/1_Samuel/23#v14).
-		- (9) Maon in Arabia. [I Sam 23:24-28](/en/Bible/1_Samuel/23#v24).
-		- (10) Engedi. [I Sam 23:29-24:22](/en/Bible/1_Samuel/23#v29).
-		- (11) Gath (Achish). [I Sam 27](/en/Bible/1_Samuel/27): 1-5.
-		- (12) Ziklag. [I Sam 27:6](/en/Bible/1_Samuel/27#v6). ([I Chron 12:1-22](/en/Bible/1_Chronicles/12#v1))
+		1. At Naioth, in Ramah. [I Sam 19:18-20:42](/en/Bible/1_Samuel/19#v18).
+		2. At Nob. [I Sam 21:1-9](/en/Bible/1_Samuel/21#v1); [22:11-21](/en/Bible/1_Samuel/22#v11).
+		3. At Gath. [I Sam 21:10-15](/en/Bible/1_Samuel/21#v10); [27:1](/en/Bible/1_Samuel/27#v1).
+		4. Cave of Adullam. [I Sam 22:1](/en/Bible/1_Samuel/22#v1).
+		5. Mizpeh. [I Sam 22:3](/en/Bible/1_Samuel/22#v3).
+		6. Forest of Hereth. [I Sam 22:5](/en/Bible/1_Samuel/22#v5).
+		7. Keilah. [I Sam 23:1-13](/en/Bible/1_Samuel/23#v1).
+		8. Wilderness of Ziph. [I Sam 23:14-24](/en/Bible/1_Samuel/23#v14).
+		9. Maon in Arabia. [I Sam 23:24-28](/en/Bible/1_Samuel/23#v24).
+		10. Engedi. [I Sam 23:29-24:22](/en/Bible/1_Samuel/23#v29).
+		11. Gath (Achish). [I Sam 27](/en/Bible/1_Samuel/27): 1-5.
+		12. Ziklag. [I Sam 27:6](/en/Bible/1_Samuel/27#v6). ([I Chron 12:1-22](/en/Bible/1_Chronicles/12#v1))
 	- c. **DAVID KING OF UNITED KINGDOM**
-		- (1) Anointed at Hebron. [II Sam 2:1-11](/en/Bible/2_Samuel/2#v1).
-		- (2) Abner’s counter revolution. [II Sam 2:12-4:12](/en/Bible/2_Samuel/2#v12).
-		- (3) David elected king of Israel. [II Sam 5:1-5](/en/Bible/2_Samuel/5#v1). [I Chron 11:1-3](/en/Bible/1_Chronicles/11#v1). [I Chron 12:23-40](/en/Bible/1_Chronicles/12#v23).
-		- (4) Captures’ and makes Jerusalem his capital. [II Sam 5:6-10](/en/Bible/2_Samuel/5#v6). [I Chron 11:4-9](/en/Bible/1_Chronicles/11#v4).
-		- (5) Alliance with Hiram, king of Tyre. [II Sam 5:11](/en/Bible/2_Samuel/5#v11). [I Chron 14:1](/en/Bible/1_Chronicles/14#v1).
-		- (6) Makes Jerusalem the religious capital:
-		- (a) By transferring the ark. [II Sam 6:1-19](/en/Bible/2_Samuel/6#v1). [I Chron 13:1-14](/en/Bible/1_Chronicles/13#v1). [I Chron 15:1-16:29](/en/Bible/1_Chronicles/15#v1).
-		- (b) By prayers and preparation. [I Chron 21:18-22:5](/en/Bible/1_Chronicles/21#v18).
+		1. Anointed at Hebron. [II Sam 2:1-11](/en/Bible/2_Samuel/2#v1).
+		2. Abner’s counter revolution. [II Sam 2:12-4:12](/en/Bible/2_Samuel/2#v12).
+		3. David elected king of Israel. [II Sam 5:1-5](/en/Bible/2_Samuel/5#v1). [I Chron 11:1-3](/en/Bible/1_Chronicles/11#v1). [I Chron 12:23-40](/en/Bible/1_Chronicles/12#v23).
+		4. Captures’ and makes Jerusalem his capital. [II Sam 5:6-10](/en/Bible/2_Samuel/5#v6). [I Chron 11:4-9](/en/Bible/1_Chronicles/11#v4).
+		5. Alliance with Hiram, king of Tyre. [II Sam 5:11](/en/Bible/2_Samuel/5#v11). [I Chron 14:1](/en/Bible/1_Chronicles/14#v1).
+		6. Makes Jerusalem the religious capital:
+		- a. By transferring the ark. [II Sam 6:1-19](/en/Bible/2_Samuel/6#v1). [I Chron 13:1-14](/en/Bible/1_Chronicles/13#v1). [I Chron 15:1-16:29](/en/Bible/1_Chronicles/15#v1).
+		- b. By prayers and preparation. [I Chron 21:18-22:5](/en/Bible/1_Chronicles/21#v18).
 	- d. **PERSONALITIES AND EVENTS IN DAVID’S REIGN**
-		- (1) His family. [II Sam 3:2-5](/en/Bible/2_Samuel/3#v2); [13-16](/en/Bible/2_Samuel/13). [I Chron 3:1-9](/en/Bible/1_Chronicles/3#v1); [14:3-7](/en/Bible/1_Chronicles/14#v3).
-		- (2) The Bath-sheba episode. [II Sam 11:2-12:25](/en/Bible/2_Samuel/11#v2).
-		- (3) Court officials. [II Sam 8:15-18](/en/Bible/2_Samuel/8#v15); [20:23-26](/en/Bible/2_Samuel/20#v23). [I Chron 18:14-17](/en/Bible/1_Chronicles/18#v14). [1 Chron 27:25-34](/en/Bible/1_Chronicles/27#v25).
-		- (4) Sons of Saul. [II Sam 21:1-14](/en/Bible/2_Samuel/21#v1).
-		- (5) Sons of Jonathan. [II Sam 4:4](/en/Bible/2_Samuel/4#v4); [9:1-13](/en/Bible/2_Samuel/9#v1).
-		- (6) Illustrious warriors. [II Sam 23:8-12](/en/Bible/2_Samuel/23#v8); [18-39](/en/Bible/2_Samuel/18). [I Chron 11:1-14](/en/Bible/1_Chronicles/11#v1). [I Chron 11:20-47](/en/Bible/1_Chronicles/11#v20); [27:1-24](/en/Bible/1_Chronicles/27#v1).
-		- (7) Taking the census. [II Sam 24](/en/Bible/2_Samuel/24). [I Chron 21](/en/Bible/1_Chronicles/21).
+		1. His family. [II Sam 3:2-5](/en/Bible/2_Samuel/3#v2); [13-16](/en/Bible/2_Samuel/13). [I Chron 3:1-9](/en/Bible/1_Chronicles/3#v1); [14:3-7](/en/Bible/1_Chronicles/14#v3).
+		2. The Bath-sheba episode. [II Sam 11:2-12:25](/en/Bible/2_Samuel/11#v2).
+		3. Court officials. [II Sam 8:15-18](/en/Bible/2_Samuel/8#v15); [20:23-26](/en/Bible/2_Samuel/20#v23). [I Chron 18:14-17](/en/Bible/1_Chronicles/18#v14). [1 Chron 27:25-34](/en/Bible/1_Chronicles/27#v25).
+		4. Sons of Saul. [II Sam 21:1-14](/en/Bible/2_Samuel/21#v1).
+		5. Sons of Jonathan. [II Sam 4:4](/en/Bible/2_Samuel/4#v4); [9:1-13](/en/Bible/2_Samuel/9#v1).
+		6. Illustrious warriors. [II Sam 23:8-12](/en/Bible/2_Samuel/23#v8); [18-39](/en/Bible/2_Samuel/18). [I Chron 11:1-14](/en/Bible/1_Chronicles/11#v1). [I Chron 11:20-47](/en/Bible/1_Chronicles/11#v20); [27:1-24](/en/Bible/1_Chronicles/27#v1).
+		7. Taking the census. [II Sam 24](/en/Bible/2_Samuel/24). [I Chron 21](/en/Bible/1_Chronicles/21).
 	- e. **WARS OF CONQUEST**
-		- (1) Philistines. [II Sam 5:17-25](/en/Bible/2_Samuel/5#v17); [21:15-22](/en/Bible/2_Samuel/21#v15); [23:13-17](/en/Bible/2_Samuel/23#v13). [I Chron 11:15-19](/en/Bible/1_Chronicles/11#v15); [14:8-17](/en/Bible/1_Chronicles/14#v8); [18:1](/en/Bible/1_Chronicles/18#v1); [20:4-8](/en/Bible/1_Chronicles/20#v4).
-		- (2) Moabites. [II Sam 8:2](/en/Bible/2_Samuel/8#v2). [I Chron 18:2](/en/Bible/1_Chronicles/18#v2).
-		- (3) Zobah. [II Sam 8:3](/en/Bible/2_Samuel/8#v3). [I Chron 18:3,4](/en/Bible/1_Chronicles/18#v3).
-		- (4) Syrians. [II Sam 8:5-12](/en/Bible/2_Samuel/8#v5). [I Chron 18:5-8](/en/Bible/1_Chronicles/18#v5).
-		- (5) Edomites. [II Sam 8:13,14](/en/Bible/2_Samuel/8#v13). [I Chron 18:11-13](/en/Bible/1_Chronicles/18#v11).
-		- (6) Ammonites. [II Sam 10:6-11:1](/en/Bible/2_Samuel/10#v6); [12:26-31](/en/Bible/2_Samuel/12#v26). [I Chron 19-20:3](/en/Bible/1_Chronicles/19).
+		1. Philistines. [II Sam 5:17-25](/en/Bible/2_Samuel/5#v17); [21:15-22](/en/Bible/2_Samuel/21#v15); [23:13-17](/en/Bible/2_Samuel/23#v13). [I Chron 11:15-19](/en/Bible/1_Chronicles/11#v15); [14:8-17](/en/Bible/1_Chronicles/14#v8); [18:1](/en/Bible/1_Chronicles/18#v1); [20:4-8](/en/Bible/1_Chronicles/20#v4).
+		2. Moabites. [II Sam 8:2](/en/Bible/2_Samuel/8#v2). [I Chron 18:2](/en/Bible/1_Chronicles/18#v2).
+		3. Zobah. [II Sam 8:3](/en/Bible/2_Samuel/8#v3). [I Chron 18:3,4](/en/Bible/1_Chronicles/18#v3).
+		4. Syrians. [II Sam 8:5-12](/en/Bible/2_Samuel/8#v5). [I Chron 18:5-8](/en/Bible/1_Chronicles/18#v5).
+		5. Edomites. [II Sam 8:13,14](/en/Bible/2_Samuel/8#v13). [I Chron 18:11-13](/en/Bible/1_Chronicles/18#v11).
+		6. Ammonites. [II Sam 10:6-11:1](/en/Bible/2_Samuel/10#v6); [12:26-31](/en/Bible/2_Samuel/12#v26). [I Chron 19-20:3](/en/Bible/1_Chronicles/19).
 		- f. **REBELLIONS**
-		- (1) Absalom. [II Sam 13-19](/en/Bible/2_Samuel/13).
-		- (2) Sheba. [II Sam 20:1-22](/en/Bible/2_Samuel/20#v1).
-		- (3) Adonijah. [I Kings 1](/en/Bible/1_Kings/1).
+		1. Absalom. [II Sam 13-19](/en/Bible/2_Samuel/13).
+		2. Sheba. [II Sam 20:1-22](/en/Bible/2_Samuel/20#v1).
+		3. Adonijah. [I Kings 1](/en/Bible/1_Kings/1).
 	- g. **DAVID’S CHARGE TO SOLOMON**
 		- [I Kings 2:1-11](/en/Bible/1_Kings/2#v1). [I Chron 23:1](/en/Bible/1_Chronicles/23#v1); [29:20-25](/en/Bible/1_Chronicles/29#v20).
 

@@ -28,10 +28,10 @@ Auteur: **William S. Sadler**
 2. Argument-Fils et Prêtre. [1:3-10:18](/fr/Bible/Hebrews/1#v3).
 	- A. Personnalité du Fils. [1:3-4:13](/fr/Bible/Hebrews/1#v3).
 	- B. Travail de la Personnalité. [4:14-10:18](/fr/Bible/Hebrews/4#v14).
-		- (1) Prêtre Melchisédek. [4:14-5:10](/fr/Bible/Hebrews/4#v14).
-		- (2) Assister à l'enseignement. [5:11-6:20](/fr/Bible/Hebrews/5#v11).
-		- (3) Prêtrise de Melchisédek. [7:1-28](/fr/Bible/Hebrews/7#v1).
-		- (4) Jésus comme Souverain Sacrificateur. [8:1-10:18](/fr/Bible/Hebrews/8#v1).
+		1. Prêtre Melchisédek. [4:14-5:10](/fr/Bible/Hebrews/4#v14).
+		2. Assister à l'enseignement. [5:11-6:20](/fr/Bible/Hebrews/5#v11).
+		3. Prêtrise de Melchisédek. [7:1-28](/fr/Bible/Hebrews/7#v1).
+		4. Jésus comme Souverain Sacrificateur. [8:1-10:18](/fr/Bible/Hebrews/8#v1).
 3. La candidature. [10:19-12:29](/fr/Bible/Hebrews/10#v19).
 	- A. Accès à Dieu. [10:19-31](/fr/Bible/Hebrews/10#v19).
 	- B. Confiance. [10:32-39](/fr/Bible/Hebrews/10#v32).

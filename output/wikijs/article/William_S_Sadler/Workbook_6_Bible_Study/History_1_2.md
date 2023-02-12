@@ -162,9 +162,9 @@ Before sometime around 1000 B.C. there was not much writing among the Jews. Trad
 2. The Hebrews classified the 39 books of their Scripture into four grand divisions.
 	- a. The Law—Torah. 5 books. The Pentateuch.
 	- b. The Prophets. 8 books.
-		- (1) The Former Prophets.
+		1. The Former Prophets.
 			Joshua, Judges, Samuel, Kings.
-		- (2) The Later Prophets.
+		2. The Later Prophets.
 			Isaiah, Jeremiah, Ezekiel.
 	- c. The Minor Prophets—the Twelve.
 	- d. The Remainder.

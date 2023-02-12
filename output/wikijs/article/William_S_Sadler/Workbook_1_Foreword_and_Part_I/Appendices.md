@@ -137,14 +137,14 @@ The first four books were edited by Confucius; the fifth is largely his own work
 - e. **CHUN TSIN** (“Spring and Autumn”)
 	These are the “[Annals of LU](https://en.wikipedia.org/wiki/L%C3%BCshi_Chunqiu)” (700-550 B.C.), the principality in which Confucius was born, and are, in the main, original with Confucius.
 	His eight fundamental conceptions of peace are here portrayed as:
-		- (1) Heaven is the Lord of the universe and loves all creatures.
-		- (2) Universal love of mankind irrespective of racial differences.
-		- (3) Civilization vs. barbarism is a matter of property and justice.
-		- (4) Reciprocity is fundamental to successful international relations.
-		- (5) Truthfulness is the stability of international relations.
-		- (6) War cannot be justified.
-		- (7) There are divisions of territories, but not of people; all people belong to one family.
-		- (8)The whole world is a great unity.
+		1. Heaven is the Lord of the universe and loves all creatures.
+		2. Universal love of mankind irrespective of racial differences.
+		3. Civilization vs. barbarism is a matter of property and justice.
+		4. Reciprocity is fundamental to successful international relations.
+		5. Truthfulness is the stability of international relations.
+		6. War cannot be justified.
+		7. There are divisions of territories, but not of people; all people belong to one family.
+		8.The whole world is a great unity.
 
 ### 2. **The Uncanonical “Four Books”**
 

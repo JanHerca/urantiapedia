@@ -50,7 +50,7 @@ Certains ont pensé que Paul faisait référence aux premiers enseignements du g
 
 Le Livre rejette l'enseignement selon lequel Dieu crée à la fois le bien et le mal. Il renie les divinités planétaires et toutes les choses astrologiques.
 
-Pour les Urantiens, l'âme n'erre pas sans but dans le cosmos et n'atteint pas le Paradis par des formules magiques. L'âme évolue sur terre, traverse les sphères morontielles, atteint le statut d'esprit et est rassemblée dans le Corps des Mortels de la Finalité, attendant là l'affectation à un service non révélé dans l'espace extra-atmosphérique.
+Pour les Urantiens, l'âme n'erre pas sans but dans le cosmos et n'atteint pas le Paradis par des formules magiques. L'âme évolue sur terre, traverse les sphères morontielles, atteint le statut d'esprit et est rassemblée dans le Corps des Mortels de la Finalité, attendant là l'affectation à un service non révélé dans l'espace extérieur.
 
 Les fascicules d'Urantia n'approuvent certainement rien qui ressemble à l'adoration de la Mère, que ce soit la Sophia Gnostique ou la "Vierge Marie".
 

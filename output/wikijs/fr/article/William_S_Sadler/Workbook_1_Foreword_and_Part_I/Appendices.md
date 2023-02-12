@@ -137,14 +137,14 @@ Les quatre premiers livres ont été édités par Confucius ; le cinquième est 
 - e. **CHUN TSIN** (« Printemps et automne »)
 	Ce sont les « [Annales de LU](https://en.wikipedia.org/wiki/L%C3%BCshi_Chunqiu) » (700-550 avant JC), la principauté dans laquelle Confucius est né, et sont, pour l'essentiel , original avec Confucius.
 	Ses huit conceptions fondamentales de la paix sont ici décrites comme suit :
-		- (1) Le ciel est le Seigneur de l'univers et aime toutes les créatures.
-		- (2) L'amour universel de l'humanité indépendamment des différences raciales.
-		- (3) La civilisation contre la barbarie est une question de propriété et de justice.
-		- (4) La réciprocité est fondamentale pour des relations internationales réussies.
-		- (5) La véracité est la stabilité des relations internationales.
-		- (6) La guerre ne peut être justifiée.
-		- (7) Il y a des divisions de territoires, mais pas de personnes ; tous les gens appartiennent à une seule famille.
-		- (8) Le monde entier est une grande unité.
+		1. Le ciel est le Seigneur de l'univers et aime toutes les créatures.
+		2. L'amour universel de l'humanité indépendamment des différences raciales.
+		3. La civilisation contre la barbarie est une question de propriété et de justice.
+		4. La réciprocité est fondamentale pour des relations internationales réussies.
+		5. La véracité est la stabilité des relations internationales.
+		6. La guerre ne peut être justifiée.
+		7. Il y a des divisions de territoires, mais pas de personnes ; tous les gens appartiennent à une seule famille.
+		8. Le monde entier est une grande unité.
 
 ### 2. Les « quatre livres » non canoniques
 

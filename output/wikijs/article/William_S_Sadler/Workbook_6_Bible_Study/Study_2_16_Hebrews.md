@@ -30,10 +30,10 @@ Author: **William S. Sadler**
 2. Argument-Son and Priest. [1:3-10:18](/en/Bible/Hebrews/1#v3).
 	- A. Personality of Son. [1:3-4:13](/en/Bible/Hebrews/1#v3).
 	- B. Work of Personality. [4:14-10:18](/en/Bible/Hebrews/4#v14).
-		- (1) Melchizedek Priest. [4:14-5:10](/en/Bible/Hebrews/4#v14).
-		- (2) Attend on Teaching. [5:11-6:20](/en/Bible/Hebrews/5#v11).
-		- (3) Melchizedek Priesthood. [7:1-28](/en/Bible/Hebrews/7#v1).
-		- (4) Jesus as High Priest. [8:1-10:18](/en/Bible/Hebrews/8#v1).
+		1. Melchizedek Priest. [4:14-5:10](/en/Bible/Hebrews/4#v14).
+		2. Attend on Teaching. [5:11-6:20](/en/Bible/Hebrews/5#v11).
+		3. Melchizedek Priesthood. [7:1-28](/en/Bible/Hebrews/7#v1).
+		4. Jesus as High Priest. [8:1-10:18](/en/Bible/Hebrews/8#v1).
 3. The Application. [10:19-12:29](/en/Bible/Hebrews/10#v19).
 	- A. Access to God. [10:19-31](/en/Bible/Hebrews/10#v19).
 	- B. Confidence. [10:32-39](/en/Bible/Hebrews/10#v32).
