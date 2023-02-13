@@ -25,25 +25,33 @@
 					<li class="nav-item" role="presentation">
 						<a href="#proccesses" class="nav-link active" id="proccesses-tab" data-toggle="pill" role="tab" aria-controls="proccesses" aria-selected="true">
 							<i class="bi-tools"></i>
-							<span id="lblProccesses">Processes</span>
+							<span class="px-2" id="lblProccesses">Processes</span>
 						</a>
 					</li>
 					<li class="nav-item" role="presentation">
 						<a href="#search" class="nav-link" id="search-tab" data-toggle="pill" role="tab" aria-controls="search" aria-selected="true">
 							<i class="bi-search"></i>
-							<span id="lblSearch">Search</span>
+							<span class="px-2" id="lblSearch">Search</span>
 						</a>
 					</li>
 					<li class="nav-item" role="presentation">
 						<a href="#topicindex" class="nav-link" id="topicindex-tab" data-toggle="pill" role="tab" aria-controls="topicindex" aria-selected="false">
 							<i class="bi-pencil"></i>
-							<span id="lblTopicIndex">Edit Topic Index</span>
+							<span class="px-2" id="lblTopicIndex">Edit Topic Index</span>
+						</a>
+					</li>
+					<li class="nav-item" role="presentation">
+						<a href="#airtable" class="nav-link" id="airtable-tab" data-toggle="pill" role="tab" aria-controls="airtable" aria-selected="false">
+							<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+								<path fill="currentColor" d="M11.992 1.966c-.434 0-.87.086-1.28.257L1.779 5.917c-.503.208-.49.908.012 1.116l8.982 3.558a3.266 3.266 0 0 0 2.454 0l8.982-3.558c.503-.196.503-.908.012-1.116l-8.957-3.694a3.255 3.255 0 0 0-1.272-.257zM23.4 8.056a.589.589 0 0 0-.222.045l-10.012 3.877a.612.612 0 0 0-.38.564v8.896a.6.6 0 0 0 .821.552L23.62 18.1a.583.583 0 0 0 .38-.551V8.653a.6.6 0 0 0-.6-.596zM.676 8.095a.644.644 0 0 0-.48.19C.086 8.396 0 8.53 0 8.69v8.355c0 .442.515.737.908.54l6.27-3.006l.307-.147l2.969-1.436c.466-.22.43-.908-.061-1.092L.883 8.138a.57.57 0 0 0-.207-.044z"/>
+							</svg>
+							<span class="px-2" id="lblAirTable">AirTable</span>
 						</a>
 					</li>
 					<li class="nav-item" role="presentation">
 						<a href="#settings" class="nav-link" id="settings-tab" data-toggle="pill" role="tab" aria-controls="settings" aria-selected="false">
 							<i class="bi-gear-fill"></i>
-							<span id="lblSettings">Settings</span>
+							<span class="px-2" id="lblSettings">Settings</span>
 						</a>
 					</li>
 				</ul>
@@ -495,6 +503,87 @@
 						</div>
 					</div>
 				</div>
+				<!-- AirTable-->
+				<div class="tab-pane fade" id="airtable" role="tabpanel" aria-labelledby="airtable-tab" style="height: 100%;">
+					<div class="d-flex flex-row" style="height: inherit;">
+						<!-- Table list -->
+						<div class="d-flex flex-column flex-shrink-0 mr-2" style="width: 300px; height: inherit;">
+							<div class="p-0 mb-2 flex-grow-1">
+								<div class="input-group input-group-sm" id="igrAirTableGetDataUP">
+									<button class="btn btn-secondary w-100" type="button">
+										<span class="spinner-border spinner-border-sm d-none" role="status" aria-hidden="true" id="spinAirTableGetDataUPWorking"></span>
+										<span id="btnAirTableGetDataUP">Get Data from Urantiapedia</span>
+									</button>
+								</div>
+							</div>
+							<div class="p-0 mb-2 flex-grow-1">
+								<div class="input-group input-group-sm" id="igrAirTableSaveDataUP">
+									<button class="btn btn-secondary w-100" type="button">
+										<span class="spinner-border spinner-border-sm d-none" role="status" aria-hidden="true" id="spinAirTableSaveDataUPWorking"></span>
+										<span id="btnAirTableSaveDataUP">Save Data to Urantiapedia</span>
+									</button>
+								</div>
+							</div>
+							<div class="p-0 mb-2 flex-grow-1">
+								<div class="input-group input-group-sm" id="igrAirTableGetData">
+									<button class="btn btn-secondary w-100" type="button">
+										<span class="spinner-border spinner-border-sm d-none" role="status" aria-hidden="true" id="spinAirTableGetDataWorking"></span>
+										<span id="btnAirTableGetData">Get Data from AirTable</span>
+									</button>
+								</div>
+							</div>
+							<div class="p-0 mb-2 flex-grow-1">
+								<div class="input-group input-group-sm" id="igrAirTableUploadData">
+									<button class="btn btn-secondary w-100" type="button">
+										<span class="spinner-border spinner-border-sm d-none" role="status" aria-hidden="true" id="spinAirTableUploadDataWorking"></span>
+										<span id="btnAirTableUploadData">Upload Data to AirTable</span>
+									</button>
+								</div>
+							</div>
+							<div class="p-0 mb-2 flex-grow-1">
+								<small class="form-text text-muted" id="lblAirTableHelp">Set AirTable Token and DB in Settings</small>
+							</div>
+							<div class="p-0 mb-2 flex-grow-1" style="height: inherit; overflow: auto;" id="lbxAirTableTablesCont">
+								<div class="list-group" id="lbxAirTableTables" style="height: inherit;"></div>
+							</div>
+						</div>
+						<!-- Data edition -->
+						<div class="d-flex flex-row flex-grow-1" style="height: inherit;">
+							<div class="p-0 mr-2 d-flex flex-column flex-grow-1 w-50" style="height: inherit;">
+								<div class="d-flex flex-row flex-grow-1">
+									<div class="input-group input-group-sm">
+										<span id="lblAirTableData" class="input-group-text w-100" style="font-size: 0.825rem; line-height: 1.5;">AirTable data</span>
+									</div>
+								</div>
+								<div class="d-flex flex-row flex-grow-1" style="height: inherit; overflow: auto; overflow-x: hidden;">
+									<div class="flex-grow-1" style="height: inherit; overflow: auto; overflow-x: hidden;" id="lbxAirTableDataCont">
+										<div class="list-group" id="lbxAirTableData" style="height: inherit;"></div>
+									</div>
+								</div>
+							</div>
+							<div class="p-0 d-flex flex-column flex-grow-1 w-50" style="height: inherit;">
+								<div class="d-flex flex-row flex-grow-1">
+									<div class="input-group input-group-sm">
+										<span id="lblAirTableUB" class="input-group-text w-100" style="font-size: 0.825rem; line-height: 1.5;">The Urantia Book</span>
+									</div>
+								</div>
+								<div class="d-flex flew-row flex-grow-1">
+									<div class="input-group input-group-sm">
+										<div class="input-group-prepend">
+											<span id="lblAirTableUBPaper" class="input-group-text">Paper</span>
+										</div>
+										<select id="drpAirTableUBPaper" class="custom-select"></select>
+									</div>
+								</div>
+								<div class="d-flex flex-row flex-grow-1" style="height: inherit; overflow: auto; overflow-x: hidden;">
+									<div class="p-0 flex-grow-1" style="height: inherit; overflow: auto; overflow-x: hidden;" id="lbxAirTableUBCont">
+										<div class="list-group" id="lbxAirTableUB" style="height: inherit;"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
 				<!-- Settings-->
 				<div class="tab-pane fade p-2" id="settings" role="tabpanel" aria-labelledby="settings-tab" style="height: 100%;">
 					<div class="form-group row p-0 mb-2">
@@ -516,7 +605,22 @@
 							<select id="drpTheme" class="custom-select"></select>
 						</div>
 					</div>
-					
+					<div class="form-group row p-0 mb-2">
+						<div class="input-group input-group-sm col-sm-12">
+							<div class="input-group-prepend">
+								<span id="lblAirTableAPIKey" class="input-group-text">AirTable API Key or Token:</span>
+							</div>
+							<input id="txtAirTableAPIKey" type="text" class="form-control" aria-label="AirTable API Key">
+						</div>
+					</div>
+					<div class="form-group row p-0 mb-2">
+						<div class="input-group input-group-sm col-sm-12">
+							<div class="input-group-prepend">
+								<span id="lblAirTableBaseID" class="input-group-text">AirTable Base ID (of database called "UB Database"):</span>
+							</div>
+							<input id="txtAirTableBaseID" type="text" class="form-control" aria-label="AirTable Base ID">
+						</div>
+					</div>
 				</div>
 			</div>
 		</main>

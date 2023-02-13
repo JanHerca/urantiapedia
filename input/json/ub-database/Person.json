@@ -1,0 +1,42 @@
+[
+  {
+    "id": "rec161nLGH9R6hUCp",
+    "createdTime": "2023-02-11T09:49:28.000Z",
+    "fields": {
+      "RESIDES_IN": ["recnVYQVG3DJcscwz"],
+      "Person": "The Infinite Spirit",
+      "alternate name": "Third Source and Center; Conjoint Actor",
+      "Type": "Superhuman"
+    }
+  },
+  {
+    "id": "recepn3F5WxgrsfDx",
+    "createdTime": "2023-02-11T09:49:28.000Z",
+    "fields": {
+      "RESIDES_IN": ["recBzVnbxrzSCtYen"],
+      "Person": "The Eternal Son",
+      "alternate name": "Second Source and Center",
+      "Type": "Superhuman"
+    }
+  },
+  {
+    "id": "recgp0WQQb0zs0bcG",
+    "createdTime": "2023-02-11T10:15:05.000Z",
+    "fields": {
+      "RESIDES_IN": ["rec7HCoJeA3DiY4cJ"],
+      "IS_ALLOWED_TO_VISIT": ["rec4s42zdp3907UYO", "recjNYj7lOVUGmOiI"],
+      "Person": "Michael of Nebadon",
+      "Type": "Superhuman"
+    }
+  },
+  {
+    "id": "rechUKEWl9ojblJ4A",
+    "createdTime": "2023-02-11T09:49:28.000Z",
+    "fields": {
+      "RESIDES_IN": ["recJnVSm5MUyzSo8c"],
+      "Person": "The Universal Father",
+      "alternate name": "First Source and Center",
+      "Type": "Superhuman"
+    }
+  }
+]

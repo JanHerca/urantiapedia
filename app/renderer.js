@@ -24,6 +24,7 @@ const {strformat, extendArray, replaceWords, getMostSimilarSentence,
 const DialogEditAlias = require('./dialog_editalias');
 const DialogEditRefs = require('./dialog_editrefs');
 const DialogEditSeeAlsos = require('./dialog_editseealsos');
+const AirTableConnector = require('./airtable');
 
 const createSummaryFn = pug.compileFile(
 	path.join(app.getAppPath(), 'app', 'templates', 'summary.pug'));
@@ -54,6 +55,8 @@ const topicindexEdit2 = new TopicIndex();
 const topicindexEditEN = new TopicIndex();
 const bookEdit = new Book();
 const bookEdit2 = new Book();
+//Instances for AirTable
+const airTable = new AirTableConnector();
 
 const controls = {
 	//Main
@@ -102,14 +105,29 @@ const controls = {
 	lblTILetters: '', drpTILetters: '', 
 	lblTIFilterRevised: '', chkTopicFilterRevised: '', 
 	lblTIFilterErrors: '', chkTopicFilterErrors: '', 
+	//AirTable
+	igrAirTableGetDataUP: '', spinAirTableGetDataUPWorking: '', btnAirTableGetDataUP: '',
+	igrAirTableSaveDataUP: '', spinAirTableSaveDataUPWorking: '', btnAirTableSaveDataUP: '',
+	igrAirTableGetData: '', spinAirTableGetDataWorking: '', btnAirTableGetData: '',
+	igrAirTableUploadData: '', spinAirTableUploadDataWorking: '', btnAirTableUploadData: '',
+	lbxAirTableTablesCont: '', lbxAirTableTables: '',
+	lblAirTableData: '', lbxAirTableDataCont: '', lbxAirTableData: '',
+	lblAirTableUB: '', lbxAirTableDataCont: '', lbxAirTableUB: '',
 	//Settings
 	lblUILanguage: '', drpUILanguage: '', 
-	lblTheme: '', drpTheme: ''
+	lblTheme: '', drpTheme: '',
+	lblAirTableAPIKey: '', txtAirTableAPIKey: '',
+	lblAirTableBaseID: '', txtAirTableBaseID: ''
 };
 const controlsToDisable = [
 	'btnTIAddTopic', 'btnTIRemoveTopic', 'btnTIRenameTopic', 'btnTISaveChanges', 
 	'btnTIEditAlias', 'btnTIEditRef', 'btnTIEditSeeAlso', 'btnTIEditLink', 
 	'drpTILanguage1', 'drpTILanguage2', 'chkTIRevised', 'drpTICategory'
+];
+
+const controlsAirTableToDisable = [
+	'igrAirTableGetDataUP', 'igrAirTableSaveDataUP', 'igrAirTableGetData',
+	'igrAirTableUploadData'
 ];
 
 const settings = {
@@ -136,6 +154,7 @@ let collapsed = false;
 let topicEditing = null;
 let filelineEditing = null;
 let changed = false;
+let airTableTableSelected = null;
 
 //Strings
 let strSelectFolder = 'Select folder';
@@ -212,9 +231,13 @@ const onLoad = () => {
 		[c.chkTIRevised, 'change', handle_chkTIRevisedChange],
 		[c.btnTIEditRef, 'click', handle_btnTIEditRefsClick],
 		[c.btnTIEditSeeAlso, 'click', handle_btnTIEditSeeAlsoClick],
+		//AirTable
+		[c.igrAirTableGetData, 'click', handle_igrAirTableGetData],
 		//Settings
 		[c.drpUILanguage, 'change',  handle_drpUILanguageChange],
 		[c.drpTheme, 'change', handle_drpThemeChange],
+		[c.txtAirTableAPIKey, 'input', handle_txtAirTableAPIKey],
+		[c.txtAirTableBaseID, 'input', handle_txtAirTableBaseID]
 	];
 
 	handlers.forEach(h => {
@@ -241,10 +264,16 @@ const onLoad = () => {
 	//Update UI
 	settings.language = store.get('language', settings.language);
 	settings.theme = store.get('theme', settings.theme);
+	settings.airTableAPIKey = store.get('airTableAPIKey', 
+		settings.airTableAPIKey);
+	settings.airTableBaseID = store.get('airTableBaseID',
+		settings.airTableBaseID);
 	fillDropdown(c.drpTheme, themes.map(t => t.toLowerCase()), themes,
 		settings.theme);
 	c.drpUILanguage.value = settings.language;
 	c.drpTheme.value = settings.theme;
+	c.txtAirTableAPIKey.value = (settings.airTableAPIKey || '');
+	c.txtAirTableBaseID.value = (settings.airTableBaseID || '');
 	handle_drpUILanguageChange();
 	handle_drpThemeChange();
 	handle_drpProcessChange();
@@ -1829,6 +1858,100 @@ const onTIFail = (errors) => {
 }
 
 // -----------------------------------------------------------------------------
+// AirTable
+// -----------------------------------------------------------------------------
+
+const handle_igrAirTableGetData = (evt) => {
+	if (!settings.airTableAPIKey || !settings.airTableBaseID) {
+		window.alert('Add AirTable API Key and Base ID to settings');
+		return;
+	}
+
+	setAirTableWorkingStatus(true, 'spinAirTableGetDataWorking');
+
+	if (!airTable.connected()) {
+		airTable.configure(settings.airTableAPIKey, settings.airTableBaseID);
+	}
+
+	//Unhandle
+	$(controls.lbxAirTableTables).find('.list-group-item').off('click');
+
+	//Fill
+	controls.lbxAirTableTables.innerHTML = airTable.getTables()
+		.map(table => {
+			const active = (airTableTableSelected === table ? ' active' : '');
+			return airTable.getTableRender(table, active);
+		})
+		.join('');
+
+	//Handle
+	$(controls.lbxAirTableTables).find('.list-group-item').on('click', function() {
+		setAirTableTableAsSelected(this);
+	});
+
+	setAirTableWorkingStatus(false, 'spinAirTableGetDataWorking');
+};
+
+const setAirTableTableAsSelected = (htmlElement) => {
+	const name = $(htmlElement).find('div > div:first-child').text();
+	airTableTableSelected = name;
+	$(controls.lbxAirTableTables).find('.list-group-item').toggleClass('active', false);
+	$(htmlElement).toggleClass('active', true);
+	showAirTableTable();
+};
+
+const showAirTableTable = () => {
+	setAirTableWorkingStatus(true, 'spinAirTableGetDataWorking');
+
+	//Unhandle
+	$(controls.lbxAirTableData).find('.list-group-item').off('click');
+
+	airTable.getTable(airTableTableSelected)
+		.then(recs => {
+			$(controls.lbxAirTableData)
+				.html(airTable.getRecordsNames(airTableTableSelected));
+			//Handle
+			$(controls.lbxAirTableData).find('.list-group-item').on('click', function() {
+				toggleAirTableRecord(this);
+			});
+			setAirTableWorkingStatus(false, 'spinAirTableGetDataWorking');
+		})
+		.catch(err => {
+			setAirTableWorkingStatus(false, 'spinAirTableGetDataWorking');
+			//TODO:
+			console.log(err);
+		});
+};
+
+const toggleAirTableRecord = (htmlElement) => {
+	const elem = $(htmlElement).find('> div:first-child > div:first-child');
+	const name = $(elem).find('span').text();
+	const rec = airTable.getRecord(airTableTableSelected, name);
+	let collapsed = ($(elem).find('i').attr('class') === 'bi-chevron-right');
+	collapsed = !collapsed;
+	const chevron = (collapsed ? 'bi-chevron-right' : 'bi-chevron-down');
+	$(elem).find('i').attr('class', chevron);
+
+	if (collapsed) {
+		$(htmlElement).find('> div:nth-child(2)').remove();
+	} else {
+		const html = airTable.getRecordForm(airTableTableSelected, rec);
+		$(htmlElement).append(html);
+	}
+};
+
+const setAirTableWorkingStatus = (working, control) => {
+	$(controls[control]).toggleClass('d-none', !working);
+	setAirTableDisabledStatus(working);
+};
+
+const setAirTableDisabledStatus = (disabled) => {
+	controlsAirTableToDisable.forEach(key => {
+		$(controls[key]).find('button').attr('disabled', disabled ? 'disabled' : null);
+	});
+};
+
+// -----------------------------------------------------------------------------
 // Settings
 // -----------------------------------------------------------------------------
 
@@ -1847,6 +1970,18 @@ const handle_drpThemeChange = (evt) => {
 	link.href = (theme === 'default' ?
 		'../node_modules/bootstrap/dist/css/bootstrap.css' :
 		`../node_modules/bootswatch/dist/${theme}/bootstrap.css`);
+};
+
+const handle_txtAirTableAPIKey = (evt) => {
+	const apiKey = controls.txtAirTableAPIKey.value;
+	settings.airTableAPIKey = apiKey;
+	store.set('airTableAPIKey', settings.airTableAPIKey);
+};
+
+const handle_txtAirTableBaseID = (evt) => {
+	const baseID = controls.txtAirTableBaseID.value;
+	settings.airTableBaseID = baseID;
+	store.set('airTableBaseID', settings.airTableBaseID);
 };
 
 document.addEventListener('DOMContentLoaded', onLoad);

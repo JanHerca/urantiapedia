@@ -34,7 +34,8 @@ main {
 }
 #lbxTITopicsCont, #lbxTILinesCont, #lbxTIUBLinesCont, 
 #lbxTIAliases, #lbxTIAliasesUB, #lbxTIRefs, #lbxTIRefsUB, #lbxTISeeAlsos,
-#lbxSearchSearchLanCont, #lbxSearchResultLanCont {
+#lbxSearchSearchLanCont, #lbxSearchResultLanCont, #lbxAirTableTablesCont,
+#lbxAirTableDataCont, #lbxAirTableUBCont {
     border: 1px solid rgba(0,0,0,.125);
     border-radius: .25rem;
 }
