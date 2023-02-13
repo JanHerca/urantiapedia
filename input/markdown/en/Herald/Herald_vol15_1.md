@@ -896,7 +896,7 @@ But at what point do we begin to consider a collection of writings to be “_scr
 
 One step involves the members of a social group believing that the text is a transcription of the actual word of God or of a divinely inspired person. Another step is the incorporation of the text into the worship life of a community. Sometimes the words of the text are believed to be the actual words of God. 
 
-In our community of Urantia Book readers there seems at times to have been an obsession with avoiding the establishment of anything which resembled a religion—almost to the point of making this avoidance into the central ritual of a new religion! But in spite of this reluctance, _The Urantia Book_ may be well on its way to being what is classically considered a “_sacred text._” 
+In our community of _Urantia Book readers there seems at times to have been an obsession with avoiding the establishment of anything which resembled a religion—almost to the point of making this avoidance into the central ritual of a new religion! But in spite of this reluctance, _The Urantia Book_ may be well on its way to being what is classically considered a “_sacred text._” 
 
 The primary factor in this transition is the continuing development of social activities centered around the text. Reading aloud in a study group, reading a passage before a General Council meeting, participating in discussions about the meaning of a passage, taking a moment of silence before and after a study group, recalling stories about Jesus during a remembrance supper (to say nothing of associating the ritual of the remembrance supper itself with the text)—each of these is a social activity centered on the text. In our study groups and conferences, the printed text is only a part of the total experience. 
 
@@ -958,7 +958,7 @@ In this informally published paper, Dr. William Sadler outlines 64 knowledge con
 
 8. Doctrine of Evolutionary Deity: While I [Sadler] saw an intimation of finite Deity in one of Pratt’s books about the time of the coming of the Urantia Papers, I am sure that the concepts of the Supreme Being and God the Ultimate are original. Papers 115–118 
 
-9. Concept of the Triunities: The Triunities and Triodities are original Urantia Book concepts. Paper 104 10. Havona Universe and Natives: The billion world description of the Central Universe of Havona and its inhabitants is a wholly new and original concept presented in _The Urantia Book_. Papers 12–14 Sixty-Four Original Urantia Book Concepts 
+9. Concept of the Triunities: The Triunities and Triodities are original _Urantia Book_ concepts. Paper 104 10. Havona Universe and Natives: The billion world description of the Central Universe of Havona and its inhabitants is a wholly new and original concept presented in _The Urantia Book_. Papers 12–14 Sixty-Four Original _Urantia Book_ Concepts 
 
 11. The Concept of Space: Not withstanding the theory of an “_exploding cosmos,_” the space concept of _The Urantia Book_ is new and original. Paper 15 
 
@@ -1211,7 +1211,7 @@ I have found that by using the Biblical record of Jesus I can effectively minist
 
 The Call of the Urantia Revelation 
 
-My second major reason for Christian ministry derives from _The Urantia Book_ itself. For if we look at what the Urantia Papers really teach we do not find that they direct us to spread Urantia Books—rather, they call for a new revelation of Jesus and his actual teachings. The following quotations should help make this clear: 
+My second major reason for Christian ministry derives from _The Urantia Book_ itself. For if we look at what the Urantia Papers really teach we do not find that they direct us to spread _Urantia Books_—rather, they call for a new revelation of Jesus and his actual teachings. The following quotations should help make this clear: 
 
 There must come a revival of the actual teachings of Jesus… [[UB 170:5.19](/en/The_Urantia_Book/170#p5_19)] 
 
@@ -1239,7 +1239,7 @@ In sum, the clear call of the revelators is to uplift and unify Christians by tu
 
 ## Effective Techniques for Revealing Jesus 
 
-If we take seriously _The Urantia Book_’s call to bring about a new revelation of Jesus to the Christian world, what should be our approach? For example, should we spread Urantia Books in an effort to bring about this new revelation of Jesus? If this is what the revelators intended, they certainly do not say so; they consistently call for a return to Jesus’ actual teachings, but nowhere do they tell us that this is to be accomplished by spreading Urantia Books. 
+If we take seriously _The Urantia Book_’s call to bring about a new revelation of Jesus to the Christian world, what should be our approach? For example, should we spread _Urantia Books_ in an effort to bring about this new revelation of Jesus? If this is what the revelators intended, they certainly do not say so; they consistently call for a return to Jesus’ actual teachings, but nowhere do they tell us that this is to be accomplished by spreading _Urantia Books_. 
 
 For me the answer to this question of how to bring about a revival of Jesus’ actual teachings is the same as the answer to the question of how I can be most effective in my personal ministry. I believe we need to recognize the background beliefs and values of our world and adapt our ministry to the understanding and receptivity of our audience. This means we need a ministry that, like the Urantia revelation itself, exalts and affirms the best in Christianity. We need to recognize that the truths originally portrayed in the New Testament gospels are the same saving truths that _The Urantia Book_ teaches. 
 
@@ -1279,7 +1279,7 @@ It is important to observe that my ministry to the Christian world has not just 
 
 This sense of religious community that I feel with close family and friends has also extended to my workplace environment. 
 
-For twenty-seven years I served as director of the Einstein School, a small private school I founded in 1981. The following words were part of the school’s original statement of guiding principles. They demonstrate the ease with which one may blend Christian and Urantia Book teachings in a way that is acceptable to the general public: 
+For twenty-seven years I served as director of the Einstein School, a small private school I founded in 1981. The following words were part of the school’s original statement of guiding principles. They demonstrate the ease with which one may blend Christian and _Urantia Book_ teachings in a way that is acceptable to the general public: 
 
 “_Einstein School believes that learning and character development should not be separated. Its purpose is the balanced development of the whole personality—body, mind, and spirit. The school affirms the basic values and teachings of Jesus. It encourages students to see themselves as children of a loving heavenly Father and to treat others in a brotherly manner. Love, thoughtfulness, helpfulness, and service to others are emphasized._” 
 
@@ -1301,7 +1301,7 @@ My first and most basic purpose for the book was to have an easy to read, trustw
 
 This book was always readily received and even looked forward to by the students. In fact, one year my high school students repeatedly requested that we study the book. So that year I taught History of Religion to my eleventh grade class using The Life and Teachings of Jesus as our textbook. 
 
-I have also given the book to many others, especially friends and individuals who are facing difficulty or crisis in their lives, and have received numerous reports of positive results. Other readers have also found the book useful. For example one long time Urantia Book student told me it had helped heal his relationship with his parents who had been concerned about his being into _The Urantia Book_. In another instance, a couple reported using it with great success to teach a Sunday school class in a mainline church—in fact, most of the class later ordered the book 
+I have also given the book to many others, especially friends and individuals who are facing difficulty or crisis in their lives, and have received numerous reports of positive results. Other readers have also found the book useful. For example one long time _Urantia Book_ student told me it had helped heal his relationship with his parents who had been concerned about his being into _The Urantia Book_. In another instance, a couple reported using it with great success to teach a Sunday school class in a mainline church—in fact, most of the class later ordered the book 
 
 The book has achieved remarkable success in a number of venues without any effort at distribution or marketing. For example, a seminary in Texas gave The Life and Teachings of Jesus to graduates at their closing ceremonies for several years. A pastor from India, who discovered the book on the internet, (lifeandteachingsofjesus.org) heads a network of more than thirty pastors that use the book as a primary teaching tool. This pastor has even translated the book into Telegu, their native language. 
 
@@ -1315,13 +1315,13 @@ I believe that success in this great enterprise will be achieved only through un
 
 ## The Life and Teachings of Jesus 
 
-In this regard, I suggest that my book, The Life and Teachings of Jesus, can be a valuable tool. It collects and organizes all the true teachings of Jesus that are readily available and accepted by the great mass of humanity. It provides a way for Urantia Book believers to minister the truth they have found without requiring that the other person read a 2000 page book and make a faith commitment to its truth. This book gives proper emphasis to Jesus original gospel, the good news that we are all children of God. And it clearly reveals his concept of the kingdom, the rule of the Father in the heart of the believer. Even its organization and the chronology of Jesus’ life is revelatory of the greater vision found in _The Urantia Book_. 
+In this regard, I suggest that my book, The Life and Teachings of Jesus, can be a valuable tool. It collects and organizes all the true teachings of Jesus that are readily available and accepted by the great mass of humanity. It provides a way for _Urantia Book_ believers to minister the truth they have found without requiring that the other person read a 2000 page book and make a faith commitment to its truth. This book gives proper emphasis to Jesus original gospel, the good news that we are all children of God. And it clearly reveals his concept of the kingdom, the rule of the Father in the heart of the believer. Even its organization and the chronology of Jesus’ life is revelatory of the greater vision found in _The Urantia Book_. 
 
 The Life and Teachings of Jesus is also valuable because it harmonizes _The Urantia Book_ and the Bible. Its very existence is a demonstration of the deep harmony that exists between the teachings of the gospels and Part Four of _The Urantia Book_. The realization of this harmony should lead students of _The Urantia Book_ to grow in respect for believers in the Bible, and lead Christian believers to gain new respect for followers of _The Urantia Book_. 
 
 For both sets of believers this book is valuable because it provides the cream of the gospels relatively purified of the human errors that became a part of the early Christian teachings. The words of Jesus as recorded in the New Testament gospels are our common religious heritage; they naturally evoke religious feelings, and in this organized and purified form we may more readily enjoy and be inspired by them. 
 
-So, I urge you to make use of this book. It makes a great gift. It can be a valuable source of uplift and guidance. It is an effective way to spread Urantia Book teachings. It can be a help and comfort to someone going through hard times. And it is an easy way to say to others that you stand for the way of Jesus in the midst of our secular and materialistic world. 
+So, I urge you to make use of this book. It makes a great gift. It can be a valuable source of uplift and guidance. It is an effective way to spread _Urantia Book_ teachings. It can be a help and comfort to someone going through hard times. And it is an easy way to say to others that you stand for the way of Jesus in the midst of our secular and materialistic world. 
 
 ## Closing 
 

@@ -196,9 +196,9 @@ Time | Events
 500,000 years ago | Planetary Prince dispensation begins. Red race is given teachings at Dalamatia
 200,000 | Lucifer Rebellion, Dalamatia civilization collapses
 100,000 | Era of Red Sangik race migration across Beringia begins
-85,000 | Bering land bridge is submerged per Urantia Book
+85,000 | Bering land bridge is submerged per _Urantia Book_
 65,000 | Birth of Onamonalonton in present-day California
-35,000 | End of first Native American civilization per Urantia Book (not discovered by science)
+35,000 | End of first Native American civilization per _Urantia Book_ (not discovered by science)
 29,000 | Migration from Asia date obtained from mitochondrial DNA Geneticist, Torroni, Atlanta)
 13,500 | “Clovis First” theory’s start date of red race migration (currently in disfavor)
 9,000 | Beginning of maize cultivation agricultural revolution in North America
@@ -493,7 +493,7 @@ If not you, then who? If not now, then when?
 
 Be the Light. 
 
-> Arnie Ondis has been a Urantia Book student since his second year of college in the early 1970’s, and he has facilitated a study group for six years in Gulf Breeze, Florida, where he lives with his family. Arnie is currently working to establish a Florida Society, envisioned as a state-wide network of mentors and study groups designed to bring the revelation to s new generation of college students and sustain them in their spiritual development.
+> Arnie Ondis has been a _Urantia Book_ student since his second year of college in the early 1970’s, and he has facilitated a study group for six years in Gulf Breeze, Florida, where he lives with his family. Arnie is currently working to establish a Florida Society, envisioned as a state-wide network of mentors and study groups designed to bring the revelation to s new generation of college students and sustain them in their spiritual development.
 {.is-info}
 
 # Solar System Dis coveries that Corroborate _The Urantia Book_ 
@@ -641,7 +641,7 @@ Perhaps chance was not my guide that day.
 Deliberate plan may have paved the way,
 while unseen forces were brought into play.
 Closer I peered for a better look.
-A strange title…”The Urantia Book.”
+A strange title…”_The Urantia Book_.”
 
 Urantia? What a curious word.
 A peculiar one I’d never heard.

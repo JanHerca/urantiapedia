@@ -88,7 +88,7 @@ Many of the tribes remember the seven Original Instructions. They are known alte
 
 Naturally I felt that a comparison to the religious teachings of Dalamatia should be a major topic of my research into American Indian history. I sifted and pondered the traditions of the Original Instructions and how they correlated with the Seven Commands of the first epochal revelation. First, here is the form in which the Seven Commands are given in _The Urantia Book_. This list is followed with three examples of how they are given in Ojibwe (Treaty One, Anishinaabe), Nez Perce (Chief Joseph), and Cherokee (Rolling Thunder). I have marked some of the places where there is a correspondence with the examples from the three tribes: 
 
-Law of Dalamatia (Urantia Book with my correspondences inserted): 
+Law of Dalamatia (_Urantia Book_ with my correspondences inserted): 
 
 1. You shall not fear nor serve any God but the Father of all. (Ojibway, LOVE #1) 
 
@@ -441,7 +441,7 @@ Psychic Circle | Chakras | Sacraments | Sefirot
 6 | 2 Personal Relationship | Communion - Honor<br> One Another | 9 Yesed - Foundation 
 7 Potential Universe Citizen | 1 Tribal - Community | Baptism - Family | 10 Sekhinah - Creation- Gaia 
 
-I don’t think there is a Urantia Book reader who has not wondered in which circle he or she might be. Here is a possible answer. I strongly believe that we operate in all of them simultaneously, which is not the same thing as a mastery of any. I often think of this by picturing a small fir tree with increasingly larger levels of the branches as you go from top to bottom. Now visualize a bird landing on the top of the tree. The whole tree begins to shake until the energy of the bird’s landing is adjusted in every level of the branches. If you picture the bird as a new spiritual understanding coming from the Adjuster through the superconscious, you can imagine how this new level of spirituality will ‘shake’ all the circles below it until equilibrium is established. No new spiritual enlightenment is limited to only one circle; it must penetrate and readjust all the circles. Remember, _The Urantia Book_ tells us: 
+I don’t think there is a _Urantia Book_ reader who has not wondered in which circle he or she might be. Here is a possible answer. I strongly believe that we operate in all of them simultaneously, which is not the same thing as a mastery of any. I often think of this by picturing a small fir tree with increasingly larger levels of the branches as you go from top to bottom. Now visualize a bird landing on the top of the tree. The whole tree begins to shake until the energy of the bird’s landing is adjusted in every level of the branches. If you picture the bird as a new spiritual understanding coming from the Adjuster through the superconscious, you can imagine how this new level of spirituality will ‘shake’ all the circles below it until equilibrium is established. No new spiritual enlightenment is limited to only one circle; it must penetrate and readjust all the circles. Remember, _The Urantia Book_ tells us: 
 
 > The successful traversal of these new levels demands the harmonious functioning of the entire personality, not merely of some one phase thereof. The growth of the parts does not equal the true maturation of the whole; the parts really grow in proportion to the expansion of the entire self—material, intellectual, and spiritual. [[UB 110:6.3](/en/The_Urantia_Book/110#p6_3)] 
 
@@ -680,7 +680,7 @@ It is both my prayer and purpose that this survey of information about the Unive
 
 > Men all too often forget that __God__ is the greatest experience in human existence. Other experiences are limited in their nature and content, but the experience of God has no limits save those of the creature’s comprehension capacity, and this very experience is in itself capacity enlarging. When men search for God, they are searching for everything. When they find God, they have found everything. The search for __God__ is the unstinted bestowal of love attended by amazing discoveries of new and greater love to be bestowed. [[UB 117:6.9](/en/The_Urantia_Book/117#p6_9)] (My emphases throughout) 
 
-> David Glass has been a Urantia Book reader and study group participant since 1972. He is currently a member of the Fellowship Publication Committee, and the president of the Urantia Society of North Texas. He also serves on the Urantia University introduction Development Team. 
+> David Glass has been a _Urantia Book_ reader and study group participant since 1972. He is currently a member of the Fellowship Publication Committee, and the president of the Urantia Society of North Texas. He also serves on the Urantia University introduction Development Team. 
 {.is-info}
 
 # One Man’s Tour Through the Evolutionary Debate 
