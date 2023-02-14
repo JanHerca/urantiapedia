@@ -597,3 +597,338 @@ Donner Canyon, Mount Diablo
 By Dave Holt, Concord, CA
 
 (From Fellowship Herald Vol. 6 - 1)
+
+# A Good Way For Us To Live Our Lives  
+
+One law the Master shared with all of us; 
+One precept which surpasses every thought; 
+He taught that men in timeless Brotherhood 
+Are sons of one true Father. Truth has sought  
+
+To be the Center of our outward Love; 
+The Truth of Living Sonship with one’s God; 
+The global and the universal Truth 
+That gives us heav’nly glory. We have trod  
+
+Upon this planet several years and seen 
+Its ghastly ironies and untold sorrow; 
+But we do know that should we now proclaim 
+God’s timeless Truths, there will come a tomorrow  
+
+In which the conflicts of our present globe 
+Shall be refashioned in a better light 
+In which the Father’s bidding will be done 
+And Truth will spread her radiant beams of Light.  
+
+We have an opportunity to Serve: 
+Proclaiming Jesus’ Truth and sharing Love 
+That all may be in-gathered to his Heart 
+And life below resemble life above.  
+
+David E. Glass Plano, TX
+
+> “When man consecrates his will to the doing of the Father’s will, when man gives God all that he has, then does God make that man more than he is.” [[UB 117:4.14](/en/The_Urantia_Book/117#p4_14)]  
+
+
+(From Fellowship Herald Vol. 9 - 1)
+
+
+
+# The Book - a Poem
+
+Author: **M. Sanders**
+
+Some time past, on a fortunate day,
+without intention I chanced to stray,
+a trifle from my appointed way.
+To a used bookstore with crowded aisles.
+Books everywhere in stacks and piles.
+
+As my eyes adjusted to the gloom,
+within this dim-lit dusky room,
+the shadows all but did consume
+the legends on each titled spine.
+One beckoned me, and I read the line.
+
+“The Central and Super Universe
+Complete.”
+What a singularly awesome feat,
+an astounding literary treat.
+A bright blue volume tooled in gold.
+What treasured knowledge could it hold.
+
+Perhaps chance was not my guide that day.
+Deliberate plan may have paved the way,
+while unseen forces were brought into play.
+Closer I peered for a better look.
+A strange title…”_The Urantia Book_.”
+
+Urantia? What a curious word.
+A peculiar one I’d never heard.
+Was it profound, or merely absurd?
+The first line of the book, made claim,
+“Urantia” is the Spiritual name,
+
+Of this our planet, our home, our world.
+While around the sun our system hurled,
+And far beyond, the universe swirled.
+With endless systems much like ours.
+All made by design of higher powers.
+
+If this, in fact, is the actual case.
+Then we’re not alone in infinite space.
+There’s real purpose to the human race.
+Our existence has rationality,
+with order, design and destiny.
+
+Could I dare to hope, trust or surmise,
+that here in my hands, before my eyes
+lay revealed an unparalleled prize?
+Would answers now be given me?
+To questions that have driven me?
+
+Would this knowledge now at my command,
+Finally help me to understand.
+How all of existence was really planned?
+Great pearls of promise on every page,
+dispatched to earth by celestial sage.
+
+This just might be the golden key.
+To answers that could set us free,
+unlocking the door of mystery.
+To the portal where enigma resides.
+The scared place where wisdom abides.
+
+Where all schools of thought are in
+compliance,
+Philosophy, Art, Religion and Science.
+In one harmonious alliance.
+To a table in a near-by nook
+with eager hands I carried the book.
+
+My mind with curiosity burned.
+For printed on each page I turned,
+were new perceptions to be learned.
+Data extracted from time and space.
+Bestowed on us from a lofty place.
+
+On each fascinating page I read,
+the incredible things the volume said.
+Not the deceit of victors, long dead.
+Who, truth had twisted, then realigned
+to sooth their conscience and quiet their
+mind.
+
+Retreating in time to the absolute start.
+To when the “I AM” first moved apart.
+Beyond all beginnings that we can chart,
+Infinity, Eternity, time and space.
+Each one assigned to its rightful place.
+
+To the Creator’s first volitional act.
+When endless void was forever cracked,
+When time and space became a fact.
+Unfolding eons from then ‘til now.
+Revealing why, what, where, when and how.
+
+It said we’re a part of that infinite source.
+Alive within the eternal force,
+embarking on an immortal course.
+For every soul that seeks survival,
+a place awaits for their arrival.
+
+On the far off shore of our endless quest,
+we’ll be greeted as a welcome guest
+and treated to a well earned rest.
+A brief sojourn on this mansion sphere,
+then onward with our immortal career.
+
+Once you’ve chosen this course to stay,
+Forever within, the spirit will say
+“doubt not, nor falter, this is the way.”
+As you listen to that still small voice
+Reminding, you it’s always your choice.
+
+In the darkness every soul is blind.
+Face into the light and you will find,
+the shadows of fear all fall behind.
+While deep in your mind it still rings true
+And you realize that you always knew.
+
+Although you’ll encounter shades of gray,
+by seeking the light, come what may,
+there is no failure, only delay.
+Your destiny is never in doubt.
+The survival plan is all worked out.
+
+Because we host the creator’s spark.
+It’s never too late for us to embark,
+on the well-lit path out of the dark.
+Inward and homeward age after age,
+On a trek mapped out page after page.
+
+There’s no adventure that is greater,
+Than the Quest that sooner or later.
+Returns us all to our Creator.
+Even as our “Elder Brother” knew.
+His Father is our Father, too.
+
+With his life on earth he tried to show,
+His love for us, so we would know.
+God’s love for his children here below.
+No cruel God of spite or jealousy.
+But one who nurtures us lovingly.
+
+Who reaches out across time and space.
+A small fragment of himself to place,
+within the minds of the human race.
+Each living soul is his to cherish.
+He never meant that any should perish.
+
+(From Fellowship Herald Vol. 10 - 1)
+
+
+# We Are the Creatures Who Carry the Life 
+
+<!-- centered-->
+We are the creatures who carry the life. 
+We strive hard to make you your life. 
+We are your ancestors. 
+
+We are the ones who helped make you possible. 
+You can’t live without us. 
+Did you know that we are the ones who helped you grow? 
+
+We started by planting a seed in shallow warm bays 
+And watched over it for many, many days. 
+It started to grow big and strong 
+And then many life forms evolved along. 
+Then went on to shore in different sizes and shapes 
+Including elephants, dolphins, bananas and apes. 
+
+We are the ones who carry the life. 
+We are the ones who strive hard to make the life. 
+And do you know what happened next? 
+It turned pretty complex. 
+Life continued to grow bigger and bigger 
+Until the world was covered with animals 
+Grazing, running, jumping and playing. 
+
+Then something magical happened. 
+Monkeys started walking on two legs 
+And turned into these human like creatures 
+With many features 
+Who lived in caves. 
+
+Soon they started to grow and evolve 
+Then they built houses and cars and bars. 
+Then many of them came 
+And started making cities, rockets and trains. 
+They made TV’s, movies and all kinds of crazy stuff, 
+Books and cartoons and I don’t know what. 
+
+We moved on to another planet 
+They had lives of their own 
+This is how far time has gone along. 
+Please ask no more, it’s the end of my song. 
+
+By Adam’s Aon Lawrence, age 9
+
+(From Fellowship Herald Vol. 11 - 1)
+
+# One in Ten Million  
+
+Author: **Francis E. Baca**
+
+It seemed you were favored, Urantia. 
+With gifted Prince Caligastia at the helm 
+Progress was smooth 
+You abode in the truth 
+A bright future for the immature realm. 
+
+Then the System Sovereign let darkness enfold him 
+Exalting himself Lucifer went astray 
+Assuring worlds he would lead them 
+To “self-determination” and “freedom” 
+There was war in the heavens that day. 
+
+Lucifer’s aide, Satan, came to Caligastia 
+And urged him to join in their plan 
+To spurn evolution 
+And embrace revolution 
+Progress ended and mayhem began. 
+
+It was a catastrophe of chaos and confusion 
+Bitter harvest of the Prince’s betrayal 
+“Liberated” peoples on a rampage 
+A speedy end to the rebels’ new age 
+Urantia adrift, like a ship with no sail. 
+
+Yet throughout the grim years of rebellion 
+A saga of valor and heroism was told 
+Of Van and Amadon, who stood fast 
+With Gabriel’s armies to the last 
+Gallant leaders of the Father’s shattered fold. 
+
+Spiritual dark ages followed 
+In savagery the races continued to languish 
+Still Van did not falter 
+He said a Material Son and Daughter 
+Would come to lift the world out from its anguish. 
+
+Van’s followers built the Garden of Eden 
+And what joy when the day finally came 
+For the world to receive 
+Its new rulers, Adam and Eve 
+And all thanked the Father, praising his name. 
+
+But isolated and alone on a rebellion ravaged sphere 
+Adam and Eve’s bright hopes turned to despair 
+Caligastia, sly and adroit 
+Seized the opportunity to exploit 
+The frustration of the well-meaning pair. 
+
+Although warned not to mix good with evil 
+The noble duo would become impatient and stray 
+Reduced to mortals they fled 
+The lands near Eden flowed red 
+The apostate Prince once again had his way. 
+
+Oh Urantia, what more can befall you 
+Is there no end to your sorrowful plight 
+Are you doomed to remain 
+In misery and pain 
+Have you any strength with to fight? 
+
+But the Creator Son had not forgotten Urantia 
+When Michael enacted his final bestowal 
+Of ten million worlds he chose 
+The neediest of those 
+To reveal the Father’s mercy and love for us all. 
+
+Melchizedek and John the Baptist made ready the way 
+For Jesus, who the dust of earth trod 
+Consumed with the desire 
+To do the Father’s will and inspire 
+Mankind to live as brethren in one family of God. 
+
+Christ’s bestowal brought an end to insurrection 
+And the wicked rebels have ever since 
+Been stripped of all power 
+Can only helplessly cower 
+Before the man-God, the planet’s new Prince. 
+
+Urantia remains a sin-darkened sphere 
+Though with an Archangels division at hand 
+And the universe humming 
+Over Christ’s second coming 
+It rides the threshold of a future quite grand. 
+
+You’re one in ten million, Urantia 
+And when all is said and done 
+This “World of the Cross” 
+Of suffering and loss 
+Is the envy of all Nebadon. 
+One in Ten Million 
+
+(From Fellowship Herald Vol. 11 - 2)
