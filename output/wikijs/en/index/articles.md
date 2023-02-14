@@ -908,11 +908,11 @@ Source:
 
 | Title                                                                                                                                     | Author                 | Tags |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ---- |
-| [Guardian Angels](/en/article/Charles_Laurence_Olivea/Guardian_Angels.md)                                                                 | Charles Olivea         |
-| [Youth and The Urantia Book](/en/article/Gina_Buselli/Youth_and_The_Urantia_Book.md)                                                      | Gina Buselli           |
-| [Prophecy and The Urantia Book](/en/article/Preston_Thomas/Prophecy_and_The_Urantia_Book.md)                                              | Preston Thomas         |
-| [Serving: A Cookbook for the Soul](/en/article/Bill_and_Share_Beasley/Serving_A_Cookbook_for_the_Soul.md)                                 | Bill and Share Beasley |
-| [What is Personality?](/en/article/Berkeley_Elliott/What_is_Personality.md)                                                               | Berkeley Elliott       |
+| [Guardian Angels](/en/article/Charles_Laurence_Olivea/Guardian_Angels)                                                                    | Charles Olivea         |
+| [Youth and The Urantia Book](/en/article/Gina_Buselli/Youth_and_The_Urantia_Book)                                                         | Gina Buselli           |
+| [Prophecy and The Urantia Book](/en/article/Preston_Thomas/Prophecy_and_The_Urantia_Book)                                                 | Preston Thomas         |
+| [Serving: A Cookbook for the Soul](/en/article/Bill_and_Share_Beasley/Serving_A_Cookbook_for_the_Soul)                                    | Bill and Share Beasley |
+| [What is Personality?](/en/article/Berkeley_Elliott/What_is_Personality)                                                                  | Berkeley Elliott       |
 | [The Coming Scientific Validation of The Urantia Book](/en/article/Philip_Calabrese/The_Coming_Scientific_Validation_of_The_Urantia_Book) | Dr. Philip Calabrese   |
 
 <br>
@@ -925,18 +925,18 @@ Source:
   <img src="/image/article/Herald_covers/Herald2007.jpg">
 </figure>
 
-| Title                                                                                                                                                  | Author               | Tags |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------- | ---- |
-| [Amazing Human Aspects of Epochal Revelation](/en/article/Paula_Thompson/Amazing_Human_Aspects_of_Epochal_Revelation.md)                               | Paula Thompson       |
-| [Archangels: Agents of Epochal Change](/en/article/Carolyn_Kendall/Archangels_Agents_of_Epochal_Change.md)                                             | Carolyn Kendall      |
-| [IC 08 —The Thrill of Loving Service](/en/article/Phil_Taylor/IC_08_The_Thrill_of_Loving_Service.md)                                                   | Phil Taylor          |
-| [Year 2006 Update on The Coming Scientific Validation of The Urantia Book](/en/article/Philip_Calabrese/Update_The_Coming_Scientific_Validation.md)    | Dr. Philip Calabrese |
-| [Participatory Evolution](/en/article/Jacob_Dix/Participatory_Evolution.md)                                                                            | Jacob Dix            |
-| [Personality and Man](/en/article/George_Park/Personality_and_Man.md)                                                                                  | George Park          |
-| [The Golden Rule](/en/article/Robert_Burns/The_Golden_Rule.md)                                                                                         | Robert Burns         |
-| [Science Fiction for Agondonters](/en/article/Cece_Forrester/Science_Fiction_for_Agondonters.md)                                                       | Cece Forrester       |
-| [Loving Service](/en/article/Phil_Taylor/Loving_Service.md)                                                                                            | Phil Taylor          |
-| [The Kingdom and the Supreme](/en/article/David_Kantor/The_Kingdom_and_the_Supreme.md)                                                                 | David Kantor         |
+| Title                                                                                                                                               | Author               | Tags |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ---- |
+| [Amazing Human Aspects of Epochal Revelation](/en/article/Paula_Thompson/Amazing_Human_Aspects_of_Epochal_Revelation)                               | Paula Thompson       |
+| [Archangels: Agents of Epochal Change](/en/article/Carolyn_Kendall/Archangels_Agents_of_Epochal_Change)                                             | Carolyn Kendall      |
+| [IC 08 —The Thrill of Loving Service](/en/article/Phil_Taylor/IC_08_The_Thrill_of_Loving_Service)                                                   | Phil Taylor          |
+| [Year 2006 Update on The Coming Scientific Validation of The Urantia Book](/en/article/Philip_Calabrese/Update_The_Coming_Scientific_Validation)    | Dr. Philip Calabrese |
+| [Participatory Evolution](/en/article/Jacob_Dix/Participatory_Evolution)                                                                            | Jacob Dix            |
+| [Personality and Man](/en/article/George_Park/Personality_and_Man)                                                                                  | George Park          |
+| [The Golden Rule](/en/article/Robert_Burns/The_Golden_Rule)                                                                                         | Robert Burns         |
+| [Science Fiction for Agondonters](/en/article/Cece_Forrester/Science_Fiction_for_Agondonters)                                                       | Cece Forrester       |
+| [Loving Service](/en/article/Phil_Taylor/Loving_Service)                                                                                            | Phil Taylor          |
+| [The Kingdom and the Supreme](/en/article/David_Kantor/The_Kingdom_and_the_Supreme)                                                                 | David Kantor         |
 
 <br>
 
@@ -948,20 +948,20 @@ Source:
   <img src="/image/article/Herald_covers/Herald2008.jpg">
 </figure>
 
-| Title                                             | Author                 | Tags |
-| ------------------------------------------------- | ---------------------- | ---- |
-| Celestial Ministry: Seen and Unseen               | Michelle Klimesh       |
-| The Supreme and Outreach                          | Arlene and Buck Weimer |
-| Guess Who's Coming Next?                          | Carolyn Kendall        |
-| A Missionary Experience in Turkey                 | Bill Rocap             |
-| You Be The Book                                   | Michael Painter        |
-| The Start of a Worthy New Tradition               |                        |
-| The Significance of the Sevenfold Bestowal Career | David Glass            |
-| The Urantia Book Is Not What It Used To Be        | Halbert Katzen         |
-| Law is Life Itself                                | Linda Buselli          |
-| Moral Cosmic Citizenship                          | Doreen Heyne           |
-| The Roots of Morality                             | Henry Begemann         |
-| Casting Pearls Before Personality                 | David Elders           |
+| Title                                                                                                                          | Author                 | Tags |
+| ------------------------------------------------------------------------------------------------------------------------------ | ---------------------- | ---- |
+| [Celestial Ministry: Seen and Unseen](/en/article/Michelle_Klimesh/Celestial_Ministry_Seen_and_Unseen)                         | Michelle Klimesh       |
+| [The Supreme and Outreach](/en/article/Arlene_and_Buck_Weimer/The_Supreme_and_Outreach)                                        | Arlene and Buck Weimer |
+| [Guess Who's Coming Next?](/en/article/Carolyn_Kendall/Guess_Whos_Coming_Next)                                                 | Carolyn Kendall        |
+| [A Missionary Experience in Turkey](/en/article/Bill_Rocap/A_Missionary_Experience_in_Turkey)                                  | Bill Rocap             |
+| [You Be The Book](/en/article/Michael_Painter/You_Be_The_Book)                                                                 | Michael Painter        |
+| [The Start of a Worthy New Tradition](/en/article/The_Start_of_a_Worthy_New_Tradition)                                         |                        |
+| [The Significance of the Sevenfold Bestowal Career](/en/article/David_Glass/The_Significance_of_the_Sevenfold_Bestowal_Career) | David Glass            |
+| [The Urantia Book Is Not What It Used To Be](/en/article/Halbert_Katzen/The_Urantia_Book_Is_Not_What_It_Used_To_Be)            | Halbert Katzen         |
+| [Law is Life Itself](/en/article/Linda_Buselli/Law_is_Life_Itself)                                                             | Linda Buselli          |
+| [Moral Cosmic Citizenship](/en/article/Doreen_Heyne/Moral_Cosmic_Citizenship)                                                  | Doreen Heyne           |
+| [The Roots of Morality](/en/article/Henry_Begemann/The_Roots_of_Morality)                                                      | Henry Begemann         |
+| [Casting Pearls Before Personality](/en/article/David_Elders/Casting_Pearls_Before_Personality)                                | David Elders           |
 
 <br>
 
@@ -973,20 +973,19 @@ Source:
   <img src="/image/article/Herald_covers/Herald2009.jpg">
 </figure>
 
-| Title                                                      | Author           | Tags |
-| ---------------------------------------------------------- | ---------------- | ---- |
-| In Search of the Historical Onamonalonton                  | Dave Holt        |
-| The Role of Emotions and Feelings on an Evolutionary Word  | Nancy Johnson    |
-| Joy in the Worm Bin                                        | Sara Blackstock  |
-| Ten Lessons from the Vineyard                              | Arnie Ondis      |
-| Solar System Discoveries that Corroborate The Urantia Book | Philip Calabrese |
-| The Book—a Poem                                            | M. Sanders       |
-| A Lesson from a Mouse                                      | Robert Seubert   |
-| The Third Cosmic Circle                                    | Richare Guevara  |
-| Becoming an Effective Missionary Evangel                   | David Kantor     |
-| The Limitless Spectrum of Education                        | David Glass      |
-| Urantia University - U2                                    | David Nash       |
-| Our Creative Deities—A Supreme Relationship                | Linda Buselli    |
+| Title                                                                                                                                                 | Author           | Tags |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---- |
+| [In Search of the Historical Onamonalonton](/en/article/Dave_Holt/In_Search_of_the_Historical_Onamonalonton)                                          | Dave Holt        |
+| [The Role of Emotions and Feelings on an Evolutionary World](/en/article/Nancy_Johnson/The_Role_of_Emotions_and_Feelings_on_an_Evolutionary_World)    | Nancy Johnson    |
+| [Joy in the Worm Bin](/en/article/Sara_Blackstock/Joy_in_the_Worm_Bin)                                                                                | Sara Blackstock  |
+| [Ten Lessons from the Vineyard](/en/article/Arnie_Ondis/Ten_Lessons_from_the_Vineyard)                                                                | Arnie Ondis      |
+| [Solar System Discoveries that Corroborate The Urantia Book](/en/article/Philip_Calabrese/Solar_System_Discoveries_that_Corroborate_The_Urantia_Book) | Philip Calabrese |
+| [A Lesson from a Mouse](/en/article/Robert_Seubert/A_Lesson_from_a_Mouse)                                                                             | Robert Seubert   |
+| [The Third Cosmic Circle](/en/article/Richard_Guevara/The_Third_Cosmic_Circle)                                                                        | Richard Guevara  |
+| [Becoming an Effective Missionary Evangel](/en/article/David_Kantor/Becoming_an_Effective_Missionary_Evangel)                                         | David Kantor     |
+| [The Limitless Spectrum of Education](/en/article/David_Glass/The_Limitless_Spectrum_of_Education)                                                    | David Glass      |
+| [Urantia University - U2](/en/article/David_Nash/Urantia_University_U2)                                                                               | David Nash       |
+| [Our Creative Deities—A Supreme Relationship](/en/article/Linda_Buselli/Our_Creative_Deities_A_Supreme_Relationship)                                  | Linda Buselli    |
 
 <br>
 
@@ -998,17 +997,17 @@ Source:
   <img src="/image/article/Herald_covers/Herald2010.jpg">
 </figure>
 
-| Title                                                       | Author                          | Tags |
-| ----------------------------------------------------------- | ------------------------------- | ---- |
-| The World is Not Coming to an End                           | Carolyn Kendall, Barbara Newsom |
-| Religion of Experience vs. Religion of Authority            | Richard S. Omura                |
-| God Consciousness                                           | Charles Laurence Olivea         |
-| The Urantia Book, Human Concepts, and Revelatory Validation | David Elders                    |
-| Understanding the Relation of Love to the Mind              | Sheila Keene-Lund               |
-| Cosmic Socialization and Planetary Citizenship              | Dave Holt                       |
-| Testimonial of One Second-Generation Urantian               | Angela Thurston                 |
-| The Problem of Business                                     | Dan Amyx                        |
-| Crouching Deity/Hidden Supreme                              | Bob Debold                      |
+| Title                                                                                                                                             | Author                          | Tags |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ---- |
+| [The World is Not Coming to an End](/en/article/Carolyn_Kendall_and_Barbara_Newsom/The_World_is_Not_Coming_to_an_End)                             | Carolyn Kendall, Barbara Newsom |
+| [Religion of Experience vs. Religion of Authority](/en/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Authority)                   | Richard S. Omura                |
+| [God Consciousness](/en/article/Charles_Laurence_Olivea/God_Consciousness)                                                                        | Charles Laurence Olivea         |
+| [The Urantia Book, Human Concepts, and Revelatory Validation](/en/article/David_Elders/The_Urantia_Book_Human_Concepts_and_Revelatory_Validation) | David Elders                    |
+| [Understanding the Relation of Love to the Mind](/en/article/Sheila_Keene_Lund/Understanding_the_Relation_of_Love_to_the_Mind)                    | Sheila Keene-Lund               |
+| [Cosmic Socialization and Planetary Citizenship](/en/article/Dave_Holt/Cosmic_Socialization_and_Planetary_Citizenship)                            | Dave Holt                       |
+| [Testimonial of One Second-Generation Urantian](/en/article/Angela_Thurston/Testimonial_of_One_Second_Generation_Urantian)                        | Angela Thurston                 |
+| [The Problem of Business](/en/article/Dan_Amyx/The_Problem_of_Business)                                                                           | Dan Amyx                        |
+| [Crouching Deity/Hidden Supreme](/en/article/Bob_Debold/Crouching_Deity_Hidden_Supreme)                                                           | Bob Debold                      |
 
 <br>
 
@@ -1020,13 +1019,13 @@ Source:
   <img src="/image/article/Herald_covers/Herald2011.jpg">
 </figure>
 
-| Title                                                      | Author                           | Tags |
-| ---------------------------------------------------------- | -------------------------------- | ---- |
-| The First Epochal Revelation in American Indian Traditions | Dave Holt                        |
-| The Power of The Name of Jesus                             | Charles Laurence Olivea          |
-| Machiventa Melchizedek                                     | One of History's Mysteries       |
-| Getting Closer to God                                      | Approaching The Universal Father |
-| One Man's Tour Through The Evolutionary Debate             |                                  |
+| Title                                                                                                                                          | Author                           | Tags |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ---- |
+| [The First Epochal Revelation in American Indian Traditions](/en/article/Dave_Holt/The_First_Epochal_Revelation_in_American_Indian_Traditions) | Dave Holt                        |
+| [The Power of The Name of Jesus](/en/article/Charles_Laurence_Olivea/The_Power_of_The_Name_of_Jesus)                                           | Charles Laurence Olivea          |
+| [Machiventa Melchizedek: One of History's Mysteries](/en/article/Linda_Buselli/Machiventa_Melchizedek_One_of_Historys_Mysteries)               | Linda Buselli                    |
+| [“Nearer, My God, to Thee” Getting Closer to God](/en/article/David_Glass/Nearer_My_God_to_Thee_Getting_Closer_to_God)                         | David Glass                      |
+| [One Man's Tour Through The Evolutionary Debate](/en/article/One_Mans_Tour_Through_The_Evolutionary_Debate)                                    |                                  |
 
 <br>
 
@@ -1038,16 +1037,16 @@ Source:
   <img src="/image/article/Herald_covers/Herald2012.jpg">
 </figure>
 
-| Title                                                                          | Author           | Tags |
-| ------------------------------------------------------------------------------ | ---------------- | ---- |
-| Souls on Purpose: The Personal Creed Project                                   | John Creger      |
-| Evolutionary Spirituality                                                      | Steve Macintosh  |
-| Urantia, 606 of Satania: Concerning the Inhabited Worlds of the Satania System | Israel Dix       |
-| Perfecting, Neuroplasticity, and the Supreme Actualizing                       | Lawrence Schkade |
-| Race and The Urantia Book                                                      | Earlene Green    |
-| Religion of Experience vs Religion of Authority                                | Richard S. Omura |
-| The Forgotten Urantian: Dr. Lena Sadler                                        | Larry Mullins    |
-| Cosmology in the Light of The Urantia Book                                     | Philip Calabrese |
+| Title                                                                                                                                            | Author           | Tags |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---- |
+| [Souls on Purpose: The Personal Creed Project](/en/article/John_Creger/Souls_on_Purpose_The_Personal_Creed_Project)                              | John Creger      |
+| [Evolutionary Spirituality](/en/article/Steve_McIntosh/Evolutionary_Spirituality)                                                                | Steve Macintosh  |
+| [Urantia, 606 of Satania: Concerning the Inhabited Worlds of the Satania System](/en/article/Israel_Dix/Urantia_606_of_Satania)                  | Israel Dix       |
+| [Perfecting, Neuroplasticity, and the Supreme Actualizing](/en/article/Lawrence_Schkade/Perfecting_Neuroplasticity_and_the_Supreme_Actualizing)  | Lawrence Schkade |
+| [Race and The Urantia Book](/en/article/Earlene_Green/Race_and_The_Urantia_Book)                                                                 | Earlene Green    |
+| [Religion of Experience vs Religion of Authority](/en/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Authority_2)                 | Richard S. Omura |
+| [The Forgotten Urantian: Dr. Lena Sadler](/en/article/Larry_Mullins/The_Forgotten_Urantian_Dr_Lena_Sadler)                                       | Larry Mullins    |
+| [Cosmology in the Light of The Urantia Book](/en/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book)                            | Philip Calabrese |
 
 <br>
 

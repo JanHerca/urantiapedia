@@ -59,3 +59,6 @@ Two thousand years ago, there were some who saw the Creator Son of God in the be
 > As a student of _The Urantia Book_ for almost 30 years, David Elders has tried to live up to the challenges and responsibilities of its teachings in his personal life as well as within the Brotherhood-Fellowship via service in various functional positions. He and his wife, Marta, who shares this dedication to the teachings, have raised two sons who have embarked on their own family journeys.
 {.is-info}
 
+## References
+
+- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
