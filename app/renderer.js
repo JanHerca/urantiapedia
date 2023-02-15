@@ -57,6 +57,7 @@ const bookEdit = new Book();
 const bookEdit2 = new Book();
 //Instances for AirTable
 const airTable = new AirTableConnector();
+const bookAirTable = new Book();
 
 const controls = {
 	//Main
@@ -106,13 +107,12 @@ const controls = {
 	lblTIFilterRevised: '', chkTopicFilterRevised: '', 
 	lblTIFilterErrors: '', chkTopicFilterErrors: '', 
 	//AirTable
-	igrAirTableGetDataUP: '', spinAirTableGetDataUPWorking: '', btnAirTableGetDataUP: '',
-	igrAirTableSaveDataUP: '', spinAirTableSaveDataUPWorking: '', btnAirTableSaveDataUP: '',
-	igrAirTableGetData: '', spinAirTableGetDataWorking: '', btnAirTableGetData: '',
-	igrAirTableUploadData: '', spinAirTableUploadDataWorking: '', btnAirTableUploadData: '',
+	igrAirTableConnect: '', spinAirTableConnectWorking: '', btnAirTableConnect: '',
+	igrAirTableImport: '', spinAirTableImportWorking: '', btnAirTableImport: '',
+	igrAirTableSave: '', spinAirTableSaveWorking: '', btnAirTableSave: '',
 	lbxAirTableTablesCont: '', lbxAirTableTables: '',
 	lblAirTableData: '', lbxAirTableDataCont: '', lbxAirTableData: '',
-	lblAirTableUB: '', lbxAirTableDataCont: '', lbxAirTableUB: '',
+	drpAirTableUBPaper: '', lblAirTableUB: '', lbxAirTableDataCont: '', lbxAirTableUB: '',
 	//Settings
 	lblUILanguage: '', drpUILanguage: '', 
 	lblTheme: '', drpTheme: '',
@@ -126,8 +126,7 @@ const controlsToDisable = [
 ];
 
 const controlsAirTableToDisable = [
-	'igrAirTableGetDataUP', 'igrAirTableSaveDataUP', 'igrAirTableGetData',
-	'igrAirTableUploadData'
+	'igrAirTableSave', 'igrAirTableConnect', 'igrAirTableImport'
 ];
 
 const settings = {
@@ -155,6 +154,7 @@ let topicEditing = null;
 let filelineEditing = null;
 let changed = false;
 let airTableTableSelected = null;
+let airTableConnectionEnabled = true;
 
 //Strings
 let strSelectFolder = 'Select folder';
@@ -232,7 +232,7 @@ const onLoad = () => {
 		[c.btnTIEditRef, 'click', handle_btnTIEditRefsClick],
 		[c.btnTIEditSeeAlso, 'click', handle_btnTIEditSeeAlsoClick],
 		//AirTable
-		[c.igrAirTableGetData, 'click', handle_igrAirTableGetData],
+		[c.igrAirTableConnect, 'click', handle_igrAirTableConnect],
 		//Settings
 		[c.drpUILanguage, 'change',  handle_drpUILanguageChange],
 		[c.drpTheme, 'change', handle_drpThemeChange],
@@ -1861,13 +1861,16 @@ const onTIFail = (errors) => {
 // AirTable
 // -----------------------------------------------------------------------------
 
-const handle_igrAirTableGetData = (evt) => {
+const handle_igrAirTableConnect = (evt) => {
+	if (!airTableConnectionEnabled) {
+		return;
+	}
 	if (!settings.airTableAPIKey || !settings.airTableBaseID) {
 		window.alert('Add AirTable API Key and Base ID to settings');
 		return;
 	}
 
-	setAirTableWorkingStatus(true, 'spinAirTableGetDataWorking');
+	setAirTableWorkingStatus(true, 'spinAirTableConnectWorking');
 
 	if (!airTable.connected()) {
 		airTable.configure(settings.airTableAPIKey, settings.airTableBaseID);
@@ -1877,10 +1880,10 @@ const handle_igrAirTableGetData = (evt) => {
 	$(controls.lbxAirTableTables).find('.list-group-item').off('click');
 
 	//Fill
-	controls.lbxAirTableTables.innerHTML = airTable.getTables()
-		.map(table => {
-			const active = (airTableTableSelected === table ? ' active' : '');
-			return airTable.getTableRender(table, active);
+	controls.lbxAirTableTables.innerHTML = airTable.getTableNames()
+		.map(name => {
+			const active = (airTableTableSelected === name ? ' active' : '');
+			return airTable.getTableRender(name, active);
 		})
 		.join('');
 
@@ -1889,7 +1892,39 @@ const handle_igrAirTableGetData = (evt) => {
 		setAirTableTableAsSelected(this);
 	});
 
-	setAirTableWorkingStatus(false, 'spinAirTableGetDataWorking');
+	//Request all tables
+	airTable.getAllTables()
+		.then(tables => {
+			//Show first table by default
+			const firstElement = $(controls.lbxAirTableTables)
+				.find('.list-group-item:first-child').get(0);
+			setAirTableTableAsSelected(firstElement);
+			//Next step is load UB
+			return loadBookForAirTable();
+		})
+		.then(() => {
+			//Fill UB papers
+			const html = bookAirTable.papers
+				.sort((a,b)=>a.paper_index - b.paper_index)
+				.map(paper => {
+					const i = paper.paper_index;
+					const t = (i === 0 ? '' : 
+						`Paper ${i}. `) + paper.paper_title;
+					return `<option value="${i}">${t}</option>`;
+				});
+			$(controls.drpAirTableUBPaper).html(html);
+			showBookPaperForAirTable();
+			//Finally disable the connect button when connection went well
+			$(controls.igrAirTableConnect).find('button').toggleClass('disabled', 
+				true);
+			airTableConnectionEnabled = false;
+			setAirTableWorkingStatus(false, 'spinAirTableConnectWorking');
+		})
+		.catch(err => {
+			//TODO: Sow errors in a panel (under Table list?)
+			console.log(err);
+			setAirTableWorkingStatus(false, 'spinAirTableConnectWorking');
+		});
 };
 
 const setAirTableTableAsSelected = (htmlElement) => {
@@ -1901,26 +1936,17 @@ const setAirTableTableAsSelected = (htmlElement) => {
 };
 
 const showAirTableTable = () => {
-	setAirTableWorkingStatus(true, 'spinAirTableGetDataWorking');
-
 	//Unhandle
 	$(controls.lbxAirTableData).find('.list-group-item').off('click');
+	
+	//Fill
+	const html = airTable.getRecordsNames(airTableTableSelected);
+	$(controls.lbxAirTableData).html(html);
 
-	airTable.getTable(airTableTableSelected)
-		.then(recs => {
-			$(controls.lbxAirTableData)
-				.html(airTable.getRecordsNames(airTableTableSelected));
-			//Handle
-			$(controls.lbxAirTableData).find('.list-group-item').on('click', function() {
-				toggleAirTableRecord(this);
-			});
-			setAirTableWorkingStatus(false, 'spinAirTableGetDataWorking');
-		})
-		.catch(err => {
-			setAirTableWorkingStatus(false, 'spinAirTableGetDataWorking');
-			//TODO:
-			console.log(err);
-		});
+	//Handle
+	$(controls.lbxAirTableData).find('.list-group-item').on('click', function() {
+		toggleAirTableRecord(this);
+	});
 };
 
 const toggleAirTableRecord = (htmlElement) => {
@@ -1949,6 +1975,38 @@ const setAirTableDisabledStatus = (disabled) => {
 	controlsAirTableToDisable.forEach(key => {
 		$(controls[key]).find('button').attr('disabled', disabled ? 'disabled' : null);
 	});
+};
+
+const loadBookForAirTable = () => {
+	//We are using English only for now
+	const root = app.getAppPath();
+	const dirBook = path.join(root, 'input', 'json', `book-en`);
+	bookAirTable.setLanguage('en');
+	return bookAirTable.readFromJSON(dirBook);
+};
+
+const showBookPaperForAirTable = () => {
+	const index = parseInt(controls.drpAirTableUBPaper.value);
+	const paper = bookAirTable.papers.find(p => p.paper_index === index);
+	const html = [];
+	const errs = [];
+	const classes = 'list-group-item btn-sm list-group-item-action py-2 px-2';
+	paper.sections.forEach(section => {
+		if (section.section_title) {
+			html.push(`<b>${section.section_title}</b>`);
+		}
+		section.pars.forEach((par, i) => {
+			const ref = [index, section.section_index, i + 1];
+			html.push(bookAirTable.toParInHTML(ref, errs));
+		});
+	});
+	//TODO: Modify HTML adding small ref at start of pars
+	//TODO: Modify HTML highlighting with colors each found name (or alias)
+	//TODO: Names to use the ones in current tables in AirTable, not in UP
+	//TODO: Implement Import tool to upload non existing names to AirTable
+	// ex. <mark class="marker-green">Universal Father</mark>
+	const html2 = html.map(h => `<div class="${classes}">${h}</div>`).join('');
+	$(controls.lbxAirTableUB).html(html2);
 };
 
 // -----------------------------------------------------------------------------

@@ -2,6 +2,7 @@
 
 const AirTable = require('airtable');
 const Schema = require('./airtable_schema');
+const { extendArray } = require('./utils');
 
 class AirTableConnector {
     apiKey = null;
@@ -23,16 +24,13 @@ class AirTableConnector {
         return (this.base != null);
     };
 
-    getTables = () => {
+    getTableNames = () => {
         return Object.keys(Schema);
     };
 
     getTable = (tableName) => {
         if (this.base == null) {
             return Promise.reject('Not connected.');
-        }
-        if (Object.keys(Schema).indexOf(tableName) === -1) {
-            return Promise.reject('Table name not in Database');
         }
         return new Promise((resolve, reject) => {
             let table = this.cache[tableName];
@@ -54,6 +52,14 @@ class AirTableConnector {
                     resolve(table);
                 });
         }) 
+    };
+
+    getAllTables = () => {
+        const tableNames = this.getTableNames();
+        for (let name in Schema) {
+            extendArray(tableNames, Schema[name].relations.map(r => r.name));
+        }
+        return Promise.all(tableNames.map(name => this.getTable(name)));
     };
 
     getTableRender = (tableName, active) => {
