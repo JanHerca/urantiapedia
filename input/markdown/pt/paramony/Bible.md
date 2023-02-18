@@ -390,7 +390,7 @@
 | New birth societies                                    | Sociedades do novo nascimento                                  |
 | Ninth Woe                                              | Nono Ai                                                        |
 | No “atonement for sin” Contra:                         | Sem “expiação pelo pecado” Contra:                             |
-| No “miracles”                                          | Nenhum milagre"                                                |
+| No “miracles”                                          | Nenhum "milagre"                                               |
 | No adultery                                            | Sem adultério                                                  |
 | No fasting, sad faces                                  | Sem jejum, rostos tristes                                      |
 | No food left until morning                             | Sem comida até de manhã                                        |
@@ -398,7 +398,7 @@
 | No other savior                                        | Nenhum outro salvador                                          |
 | No sacrifice w/leavened bread                          | Nenhum sacrifício com pão levedado                             |
 | No star                                                | Sem estrela                                                    |
-| No varibleness, changing                               | Sem variabilidade, mudando                                     |
+| No varibleness, changing                               | Sem variabilidade, mudança                                     |
 | No virgin birth                                        | Sem nascimento virginal                                        |
 | Nothing hid,all will come to light                     | Nada escondido, tudo virá à luz                                |
 | Now is judgment: cast down                             | Agora é o julgamento: abatido                                  |
