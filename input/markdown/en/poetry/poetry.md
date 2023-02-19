@@ -932,3 +932,428 @@ Is the envy of all Nebadon.
 One in Ten Million 
 
 (From Fellowship Herald Vol. 11 - 2)
+
+# Healing Meditation 
+
+Creative Life Force coursing through me, 
+With vibrations of healing energy, 
+Renewing my body, mind and soul, 
+Making me a whole, healthy being, 
+Divinely freeing the child in me, 
+I am wonderfully wild, spontaneously free... 
+
+I let everything go as the Spirit surges, 
+With words flowing forth as wisdom emerges, 
+Intuitive insight empowers my hearing, 
+Time and space disappearing in the everpresent NOW... 
+
+Lord, show me how to transform and transcend, 
+Mend my broken spirit, restore my troubled mind, 
+In the healing, holy presence I know I can find my way 
+Out of the darkness and into the dawn, 
+Once more in the Light, I am being reborn, 
+As I breathe in blessings from God within and above, 
+
+I tune into a universe of infinite love... 
+
+K. Brendi Poppel 
+
+(From Fellowship Herald Vol. 16 - 1)
+
+# A Confederate Soldier’s Prayer 
+
+Author Unknown   
+
+( Attributed to a battle weary CSA soldier near the end of the war)  
+
+I asked God for strength, that I might achieve; 
+
+I was made weak, that I might learn humbly to obey 
+
+I asked for health, that I might do greater things; 
+
+I was given infirmity, that I might do better things. 
+
+I asked for riches, that I might be happy; 
+
+I was given poverty, that I might be wise. 
+
+I asked for power, that I might have the praise of men; 
+
+I was given weakness, that I might feel the need of God. 
+
+I asked for all things, that I might enjoy life; 
+
+I was given life, that I might enjoy all things. 
+
+I got nothing that I asked for, but everything I hoped for. 
+
+Almost despite myself, my unspoken prayers were answered. 
+
+I am among all men most richly blessed. 
+
+(From Fellowship Herald Vol. 17 - 1)
+
+
+
+# There Was a Man Once 
+
+_by Errol Strider_ 
+
+There was a man once, truly that 
+Who is known for the cross that he bore 
+But who laughed in the market 
+And slept on the floor 
+Who designed riverboats in Capernaum 
+Studied the ways of all men 
+In order to rule in perfection 
+With its trials, upsets, and demands 
+A universe of 10 million planets 
+Which the man, who upholds it 
+Designed, fashioned and planned. 
+
+There was a man once, truly that. 
+Who embraced the mortal dilemma 
+With a boundless trust 
+And abiding faith. 
+Who was immersed in a River Jordan 
+Allowing himself to give in 
+To life as we know it in fullness 
+With its sores, its aches and injustice 
+But which serves a great hidden purpose 
+Which the man, who entered its bowels 
+Could foresee what to us is so dim. 
+
+There was a man once, truly that 
+Who transcended all tradition and dogma 
+Who forgave the sin 
+And loved the sinner 
+Who feared not one who attacked him 
+But attempted to show them the truth. 
+By example, he sat in their presence, 
+With his words, his acts, and entreaties 
+He sought to convince those around him 
+That all men could live as he 
+Secure, abandoned and free. 
+
+There was a man once, truly that 
+A man who broke from his elders 
+Made friends with the poor 
+Played with the kids 
+Made choices like all other men 
+To use power for good or for evil 
+To be simple or prideful and vain 
+Grappled with grief, failure, betrayal, 
+But still to remain steadfast to the 
+God, Who this man knew always as Father and friend. 
+There was a man once, truly that. 
+
+Who did not what others expected 
+Disappointing his pupils 
+Estranging his mother 
+Rejecting requests of the masses 
+When they wanted to make him king 
+Yet allowed them to place down the palms 
+As he rode on an ass to the city 
+Where they rejected once and for all 
+This true man, who understood them 
+And forgave their blindness and gall. 
+
+There was a man once, truly that. 
+A man whom we all misinterpret 
+Who knows all as his brother 
+To the exclusion of none 
+Who did not really die on the cross 
+To wash away our sins 
+But to reveal a God of mercy 
+Who forgives, only loves, has compassion 
+On his ignorant children who err 
+So this man died only to show them 
+How far love would go for them. 
+
+There was a man once, truly that. 
+Whose life on this beleaguered planet 
+Was a model for all to behold. 
+Who revealed our humanity to us 
+What each person can actually become 
+When we join with this man in knowing 
+The Spirit that indwells our hearts. 
+And as he rose from the darkness of death 
+And appeared to those who knew him 
+He showed us the path to aliveness... 
+The deep forever mystery 
+Of the timeless journey of love. 
+
+> Errol found _The Urantia Book_ in 1969 and since then has endeavored to translate the teachings into his life and work. With a background as a theatrical director, playwright, choreographer and performer, he felt guided by Spirit to use his talents to communicate spiritual and healing perspectives through the performing arts. He has written and presented theatrical productions and seminars for thousands of people over the past 50 years. 
+> 
+> Errol has published several volumes of parables and poems along with his illustrated children’s book, “Elfbert, Santa’s Reluctant Helper” about an elf who persuades Santa Claus to give children spiritual qualities instead of toys now available on Amazon at https://amzn.to/2ILL4UV For more information about Errol and his wife Rochelle's ministry, visit https://thelaughingheart.org/ 
+{.is-info}
+
+(From Fellowship Herald Vol. 19 - 1)
+
+
+
+
+# An Encounter This Unique 
+
+_by Duane R. Johnson_ 
+
+I’m not likely to forget an encounter this unique: 
+an epiphany is emerging from my interface 
+with the boundaries of Little Lake Shawnee, 
+a natural lake for children, our little ones, 
+drained while improvements are made. 
+
+Stones, uniformly carved and faithfully fitted 
+to this tiny lake’s old shoreline 
+form a collar-colored wall, a boundary 
+four feet high. 
+
+Coincidentally perhaps, I’ve been pushing 
+the envelope of my collared mind 
+to explore the expanding boundaries of the evolving God, 
+One that grows by embracing and becoming 
+the experience of each and every one of us 
+in our cornucopic encounters with each other. 
+
+And now, this encounter with a wall, 
+intelligently crafted, though unaware of me 
+as I tightrope along the edge of it 
+to an unfinished spot where there is no wall 
+—a 60-foot gap, intended 
+for some purpose I don’t comprehend. 
+
+I sense an unspoken promise in that unknown purpose, 
+one self-similar to the greater Mystery I’ve been stalking 
+as It emerges, self-aware and with holy purpose. 
+
+I believe I’m emerging as well, 
+which may explain why I see promise in mystery, 
+whereas, in my youth, as a little one, 
+I trembled at unknown gaps. 
+
+The next time I visit this part of the park 
+I expect I’ll see this puzzle solved. 
+Not so with the Mystery that is the evolving God, 
+an enigma born at the dawn of time and space 
+and promising not to be fully revealed 
+until eons from now. 
+
+We have a choice to remain in this unfolding mystery 
+sometimes draining ourselves while improvements are made 
+fearlessly exploring the supreme intelligence behind the wall, 
+all the while being gifted to know 
+we are the little ones, and God keeps his promises. 
+
+(From Fellowship Herald Vol. 20 - 1)
+
+# Poem to our Parents 
+
+_by Sharon Porter_
+
+I don’t need to wait ‘til Father’s Day to tell you my Father, Creator Michael, to say, 
+I love you Father 
+Buying you a gift our dear Divine Mother would be in excess, 
+just another fad, to say to you I love you Mother, 
+my Creator, would be to tell the truth 
+Thank you dear Divine Parents for being my mom and dad 
+for being my real parents 
+for creating me, 
+loving me, nurturing and teaching me 
+Oh, what Majestic Beauties You Are! 
+Thank You 
+
+(From Fellowship Herald Vol. 21 - 1)
+
+# Song for Papa’s Family 
+
+Dear Friends, I have written a poem inspired by a brief and famous verse by the celebrated English Victorian poet, Robert Browning, “Pippa Passes.” The poem I have written takes Browning's as its base, from which I have composed a poem of my own. My poem is intended to express the idea that, no matter on what universe level we may find ourselves, whether on earth or upon some higher sphere—we shall always maintain an awareness of the reality of the personality relationships and group identities we established here on earth. True and real relationships we form and develop here—whether as friends or fellows, in families or teamwork groups—will continue to relate us, each to each and all together, as we continue to pursue God’s plan, to better comprehend it, and thereby further cultivate the fellowship we formed on Earth. 
+
+Our unity of purpose, our voluntary teamwork, continues ever afterward to vitalize our relationships on ever-heightening levels. Personality relationships, as we know, are an end in themselves. As such they are among the tiny number of revealed realities that can be distinguished in that way. Like the personalities themselves of which they are composed, personality relationships maintain a constant value. They are possessed of a unique and unaltering reality, an enduring and final survival value, that never can or ever shall be diminished or destroyed to any degree. Personality relationships as unique universe realities will only be rendered more profound, more enriched, and more meaningful by the numberless, expanding and diversifying experiences that lie ahead throughout our lengthy and intriguing universe journeys. 
+
+All of us are one in love, unified by one purpose, and united in one destiny, forever to pursue and to realize our Creator’s never- ending plan of universe expansion. We are one family who together make real the fullness of our Father’s dreams. 
+
+## Song for Papa’s Family 
+
+by David Glass 
+
+The year is at autumn, arriving so soon, 
+The morning’s at seven and climbing toward noon, 
+The lark has ascended, she sails through the sky, 
+The snail’s on the thorn, though he’s looking on high. 
+God's in Havona, but dwells in us too, 
+Singing a love song to each one of you. 
+Spirit, advancing through all cosmic space, 
+Transmits our love to our friends in their place. 
+Whether in heaven or Earth we may seek 
+To do God’s will, there the Spirit will speak, 
+Saying to each of us: “This is the way. 
+Let no misgivings come near you today. 
+Whether or not your friends walk by your side, 
+Walk in My light, let My love be your guide.” 
+We know the truth that expands every day 
+Leading us all to that new brighter day 
+We seek by our service to manifest here 
+At one with our friends on higher new spheres. 
+Knowing our labors with theirs are entwined 
+We sense how deeply our wills are aligned, 
+Bridging the gap that seems otherwise strong 
+When all sing together God’s “uni-verse” song, 
+That “one-song” of love and of spirit divine 
+That unites our service as upward we climb. 
+We have assurances, here and above: 
+Nothing is greater or stronger than Love. 
+It links each level of heaven and earth, 
+Bringing from losses a sense of rebirth: 
+We honor One Spirit and serve but One Son. 
+Whatever our station, our efforts are one. 
+Our voices in unison sing out our praise 
+With hope for the future to last all our days. 
+Our service is cosmic wherever we strive. 
+That oneness of spirit unites all our lives 
+To do all the biddings of Light and of Love 
+Till God's reign on Earth is like that above. 
+
+(From Fellowship Herald Vol. 21 - 1)
+
+# Thinking of my Divine Mother, aka the Holy Spirit 
+
+by Karen Larsen 
+
+Mother of heart 
+Mother of Mind 
+Mother who surrounds us, 
+all through time. 
+Mother of kindness 
+compassion and care, 
+Mother who holds us 
+from everywhere. 
+Teach me the lessons 
+my soul longs to learn, 
+and then, let me teach 
+others in turn. 
+Mother who made us 
+from a single breath 
+Mother who loves each, 
+and all the rest. 
+Our Mother in heaven 
+who watches our walk, 
+who is always listening 
+waiting to talk. 
+Oh Dear Divine Mother 
+Who is deep in my soul, 
+Lead me and guide me 
+As I grow old. 
+
+image here
+
+(From Fellowship Herald Vol. 21 - 1)
+
+
+
+# To Our Mother Spirit, the Holy Spirit, the Giver of Mind 
+
+by Mary Huggins 
+
+Me: I so wish to truly KNOW you! 
+
+MY CHILD, 
+
+I am as close as your thoughts 
+I give mind 
+I am as close as your beating heart 
+I give life 
+I am as close as your lungs 
+I give breath 
+I am as close as your body 
+I give being to your very cells. 
+
+See me in the minds and bodies of those you love, 
+in acquaintances, in strangers passing by, 
+in those you fear, even your enemies. 
+See me especially in those who would destroy you. 
+All these are your brothers and sisters, my children, 
+they are my beloveds, just as you are, my adored child. 
+
+See me in the trees and clouds and grass, 
+even in the vegetables you grow for food. 
+See me in the cows, the pigs, the chickens, 
+the creatures of the sea, created to nourish you. 
+See me also in the weeds you dig up, 
+and the bears and lions and wolves whom you fear. 
+
+See me in your animal friends and pets, 
+dogs and cats and horses, 
+birds even lizards and snakes 
+yet the tiniest bugs and myriad insects. 
+They are all a part of me. 
+Each has his role to play. 
+
+See me in the natural beauty around you— 
+green plants and blue sky, fall colors, 
+spring flowers, that delicious spring green, 
+that impossible blue sky behind the magnificent sunset. 
+I am in the winter drab as well as the snowy white. 
+See me in landscapes beyond your imagination, 
+mountains and valleys, rocks, oceans and rushing rivers 
+canyons and majestic vistas. 
+
+See me in harmonious paintings, sculptures, 
+even buildings and landscapes created with human hands. 
+See me in poetry and music birthed 
+by my gift of mind used to express 
+both practical and spiritual relationships. 
+You see, I am in and of all that is around and within you. 
+You are of me and I am of you. 
+Yet I am not you and I am still more than you, 
+I am myself. 
+I am. 
+
+This is how you will know me, child: pay attention to what is there, look with spiritual eyes, with the intention of finding me. In wanting and longing to know me, you already know me. Continue coming to me in quiet times, in times of fun and laughter, in good food and companionship, in hard labor and in your rest. As I am everywhere, will you find me, but only because you seek me. If you do not seek me, I am hidden, nowhere to be seen. Seeking is the key. Seeking me opens many doors. 
+
+Seek me, my beloved child. I answer each and every sincere call. 
+
+I love you very much, dear one. 
+
+
+Your Mother, whom you know as the Holy Spirit
+
+images
+
+(From Fellowship Herald Vol. 21 - 1)
+
+#### Foxy Parents 
+
+by Mary Huggins 
+
+To Mom & Dad 
+
+Mom........Dad 
+Gave birth to me 
+To all my siblings 
+Gave birth to all races, yet only one race 
+Your children 
+Sisters Brothers 
+You Support Nurture 
+Nourish Inspire 
+Train Admonish 
+Guide 
+LOVE 
+A love that cannot be surpassed 
+Nor understood 
+Just accepted 
+Nothing human can match Your love 
+Thank You For Your Holy Spirit 
+Thank You for Your Spirit of Truth 
+Thank you for this feeling in my heart 
+This feeling of being cherished 
+Being treasured 
+As Your one and only child 
+Among my billions of treasured siblings.
+There are no human words of gratitude 
+Immense enough to say how much I love You too. 
+Your baby girl 
+Sharlana 
+Mary 
+
+(From Fellowship Herald Vol. 21 - 1)
