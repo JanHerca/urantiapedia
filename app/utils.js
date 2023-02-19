@@ -360,33 +360,54 @@ exports.testWords = function(arItems, text) {
 };
 
 /**
- * Replaces a text with an array of components by other array of components but
- * only first appearance of each component.
+ * Replaces a text with an array of components by other array of components.
  * This function is required because RegExp has problems searching components
  * that are full words starting or ending with accent.
  * @param {Array.<string>} arItems Array of components to search.
  * @param {Array.<string>} arReplaces Array of components to replace.
  * @param {string} text Text to modify.
+ * @param {?boolean} ignoreCase Optional ignore case. By default is false.
+ * @param {?boolean} replaceAll Optional replace all occurrences. By default is
+ * false.
+ * @param {?boolean} useExisting Optional replace with existing case. If case
+ * existing is different with what is sent, use existing. By default is false.
  * @return {string} Modified text.
  */
-exports.replaceWords = function(arItems, arReplaces, text) {
-	let result = text, ini = 0, fin = 0, j, testIni, testFin, part1, part2;
+exports.replaceWords = function(arItems, arReplaces, text, ignoreCase, replaceAll,
+	useExisting) {
+	let result = text, ini = 0, fin = 0, j, item, testIni, testFin, p1, p2,
+		ip1, ip2, existing, ireplace, index;
 	const regex = /[a-z0-9áéíóúüñ'-]/i;
 	const len = text.length;
+	const replaces = [];
+	ignoreCase = ignoreCase || false;
+	replaceAll = replaceAll || false;
+	useExisting = useExisting || false;
+	let iresult = (ignoreCase ? result.toLowerCase() : result);
 	for (j = 0; j < arItems.length; j++) {
+		item = (ignoreCase ? arItems[j].toLowerCase() : arItems[j]);
 		ini = 0;
 		while (ini != -1) {
-			ini = result.indexOf(arItems[j], ini);
-			fin = ini + arItems[j].length - 1;
-			testIni = !regex.test(result.substring(ini - 1, ini));
-			testFin = !regex.test(result.substring(fin + 1, fin + 2));
+			ini = iresult.indexOf(item, ini);
+			fin = ini + item.length - 1;
+			testIni = !regex.test(iresult.substring(ini - 1, ini));
+			testFin = !regex.test(iresult.substring(fin + 1, fin + 2));
 			if (ini != -1) {
 				if ((ini === 0 || (ini > 0 && testIni)) && 
 					(fin === len - 1 || (fin < len - 1 && testFin))) {
-					part1 = result.substring(0, ini);
-					part2 = result.substring(ini);
-					result = part1 + part2.replace(arItems[j], `#${j}#`);
-					break;
+					p1 = result.substring(0, ini);
+					p2 = result.substring(ini);
+					existing = p2.substring(0, item.length);
+					ireplace = (useExisting ? 
+						arReplaces[j].replace(arItems[j], existing) : 
+						arReplaces[j]);
+					replaces.push(ireplace);
+					index = replaces.length - 1;
+					result = p1 + `#${index}#` + p2.substring(item.length);
+					ip1 = iresult.substring(0, ini);
+					ip2 = iresult.substring(ini);
+					iresult = ip1 + `#${index}#` + ip2.substring(item.length);
+					if (!replaceAll) break;
 				}
 				ini = fin + 1;
 				if (ini === len - 1) {
@@ -395,8 +416,8 @@ exports.replaceWords = function(arItems, arReplaces, text) {
 			}
 		}
 	}
-	for (j = 0; j < arReplaces.length; j++) {
-		result = result.replace(new RegExp(`#${j}#`, 'g'), arReplaces[j]);
+	for (j = 0; j < replaces.length; j++) {
+		result = result.replace(new RegExp(`#${j}#`, 'g'), replaces[j]);
 	}
 	return result;
 };

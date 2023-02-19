@@ -233,6 +233,7 @@ const onLoad = () => {
 		[c.btnTIEditSeeAlso, 'click', handle_btnTIEditSeeAlsoClick],
 		//AirTable
 		[c.igrAirTableConnect, 'click', handle_igrAirTableConnect],
+		[c.drpAirTableUBPaper, 'click', handle_drpAirTableUBPaper],
 		//Settings
 		[c.drpUILanguage, 'change',  handle_drpUILanguageChange],
 		[c.drpTheme, 'change', handle_drpThemeChange],
@@ -1927,42 +1928,53 @@ const handle_igrAirTableConnect = (evt) => {
 		});
 };
 
+const handle_drpAirTableUBPaper = (evt) => {
+	showBookPaperForAirTable();
+};
+
 const setAirTableTableAsSelected = (htmlElement) => {
 	const name = $(htmlElement).find('div > div:first-child').text();
 	airTableTableSelected = name;
-	$(controls.lbxAirTableTables).find('.list-group-item').toggleClass('active', false);
+	$(controls.lbxAirTableTables).find('.list-group-item')
+		.toggleClass('active', false);
 	$(htmlElement).toggleClass('active', true);
 	showAirTableTable();
 };
 
 const showAirTableTable = () => {
 	//Unhandle
-	$(controls.lbxAirTableData).find('.list-group-item').off('click');
+	$(controls.lbxAirTableData).find('.list-group-item .list-group-item')
+		.off('click');
 	
 	//Fill
-	const html = airTable.getRecordsNames(airTableTableSelected);
+	const html = airTable.getRecordNameRenders(airTableTableSelected);
 	$(controls.lbxAirTableData).html(html);
 
 	//Handle
-	$(controls.lbxAirTableData).find('.list-group-item').on('click', function() {
-		toggleAirTableRecord(this);
-	});
+	$(controls.lbxAirTableData).find('.list-group-item .list-group-item')
+		.on('click', function(evt) {
+			toggleAirTableRecord(this);
+			evt.stopPropagation();
+		});
 };
 
 const toggleAirTableRecord = (htmlElement) => {
-	const elem = $(htmlElement).find('> div:first-child > div:first-child');
+	const elem = $(htmlElement).find('div:first-child');
 	const name = $(elem).find('span').text();
 	const rec = airTable.getRecord(airTableTableSelected, name);
 	let collapsed = ($(elem).find('i').attr('class') === 'bi-chevron-right');
 	collapsed = !collapsed;
 	const chevron = (collapsed ? 'bi-chevron-right' : 'bi-chevron-down');
+	$(controls.lbxAirTableData).find('.list-group-item .list-group-item')
+		.toggleClass('active', false);
+	$(htmlElement).toggleClass('active', true);
 	$(elem).find('i').attr('class', chevron);
 
 	if (collapsed) {
-		$(htmlElement).find('> div:nth-child(2)').remove();
+		$(htmlElement).parent().find('> div:nth-child(2)').remove();
 	} else {
 		const html = airTable.getRecordForm(airTableTableSelected, rec);
-		$(htmlElement).append(html);
+		$(htmlElement).parent().append(html);
 	}
 };
 
@@ -1991,20 +2003,36 @@ const showBookPaperForAirTable = () => {
 	const html = [];
 	const errs = [];
 	const classes = 'list-group-item btn-sm list-group-item-action py-2 px-2';
+	const searches = [], replaces = [];
+	airTable.getTableNames().forEach(tableName => {
+		const arNames = airTable.getRecordNamesAndAlternates(tableName);
+		const cls = tableName.toLowerCase();
+		arNames.forEach(ar => {
+			ar.forEach(name => {
+				searches.push(name);
+				replaces.push(`<mark class="${cls}">${name}</mark>`);
+			});
+		});
+	});
+
 	paper.sections.forEach(section => {
 		if (section.section_title) {
 			html.push(`<b>${section.section_title}</b>`);
 		}
 		section.pars.forEach((par, i) => {
 			const ref = [index, section.section_index, i + 1];
-			html.push(bookAirTable.toParInHTML(ref, errs));
+			const href = 'https://urantiapedia.org/en/The_Urantia_Book/' +
+				`${index}#p${section.section_index}_${i + 1}`;
+			const link = `<a href="${href}" target="_blank">${par.par_ref}</a>`;
+			const refHtml = `<sup><small>${link}</small></sup>`;
+			const parHtml = bookAirTable.toParInHTML(ref, errs);
+			const parHtml2 = replaceWords(searches, replaces, parHtml, true, true, 
+				true);
+
+			html.push(`${refHtml}   ${parHtml2}`);
 		});
 	});
-	//TODO: Modify HTML adding small ref at start of pars
-	//TODO: Modify HTML highlighting with colors each found name (or alias)
-	//TODO: Names to use the ones in current tables in AirTable, not in UP
 	//TODO: Implement Import tool to upload non existing names to AirTable
-	// ex. <mark class="marker-green">Universal Father</mark>
 	const html2 = html.map(h => `<div class="${classes}">${h}</div>`).join('');
 	$(controls.lbxAirTableUB).html(html2);
 };

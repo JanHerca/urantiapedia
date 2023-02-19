@@ -163,3 +163,32 @@ Convert Word file to Markdown:
 * Convert pdf, even scanned pdf, to MS Word: https://www.onlineocr.net/
 
 * Scan books: see HOWTO_scan_books
+
+## Sample of Markdown article header
+
+---
+title: "Restated"
+description: 
+published: true
+date: 2023-02-19T14:02:03.086Z
+tags: 
+editor: markdown
+dateCreated: 2023-02-19T14:02:03.086Z
+---
+
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 David<br>© 2008 The Urantia Book Fellowship</p>
+
+
+
+## References
+
+- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+## Sample of Markdown image
+
+<figure id="Figure_2" class="image urantiapedia">
+<img src="/image/article/Dave_Holt/In_Search_of_the_Historical_Onamonalonton/image02.png">
+<figcaption><em> Mt Shasta, Mt Shasta, California.</em></figcaption>
+</figure>
+
+image-style-align-right

@@ -63,10 +63,11 @@ class AirTableConnector {
     };
 
     getTableRender = (tableName, active) => {
+        const cls = `bi-square-fill pr-2 ${tableName.toLowerCase()}`;
         return `<div class="list-group-item btn-sm list-group-item-action 
             flex-column p-0 align-items-start${active}">
             <div class="d-flex w-100 justify-content-between px-2 py-1 mb-0">
-                <div>${tableName}</div>
+                <div><span class="${cls}"></span>${tableName}</div>
             </div>
         </div>`;
     };
@@ -76,7 +77,23 @@ class AirTableConnector {
         return this.cache[tableName].find(r => r.fields[name] === recName);
     };
 
-    getRecordsNames = (tableName) => {
+    getRecordNamesAndAlternates = (tableName) => {
+        //Returns an array per record, first value the name, the rest alternates
+        const name = Schema[tableName].name;
+        const hasAlternates = Schema[tableName].fields
+            .find(f => f.name === 'alternate name') != null;
+        return this.cache[tableName].map(rec => {
+            const names = [rec.fields[name]];
+            if (hasAlternates && rec.fields['alternate name']) {
+                const alternates = rec.fields['alternate name']
+                    .split(';').map(a => a.trim());
+                extendArray(names, alternates);
+            }
+            return names;
+        });
+    };
+
+    getRecordNameRenders = (tableName) => {
         const name = Schema[tableName].name;
         return this.cache[tableName]
             .sort((a,b) => {
@@ -94,9 +111,8 @@ class AirTableConnector {
         const recName = rec.fields[fieldName];
 
         const render = 
-            `<div class="list-group-item btn-sm list-group-item-action 
-                flex-column p-0 align-items-start">
-                <div class="d-flex w-100 justify-content-between px-2 py-1 mb-0">
+            `<div class="list-group-item btn-sm flex-column p-0 align-items-start">
+                <div class="d-flex w-100 justify-content-between px-2 py-1 mb-0 list-group-item">
                     <div>
                         <i class="bi-chevron-right"></i>
                         <span class="px-1">${recName}</span>
@@ -112,9 +128,11 @@ class AirTableConnector {
             let value = rec.fields[field.name];
             value = (value != undefined ? value : '');
             if (field.type === 'Single line text') {
-                input = `<input id="${id}" type="text" class="form-control" value="${value}">`
+                input = `<input id="${id}" type="text" ` +
+                    `class="form-control" value="${value}">`;
             } else if (field.type === 'Long text') {
-                input = `<textarea id="${id}" type="text" class="form-control" rows="3" value="${value}"></textarea>`;
+                input = `<textarea id="${id}" type="text" ` +
+                    `class="form-control" rows="3" value="${value}"></textarea>`;
             } else if (field.type === 'Single select') {
                 input = 
                     `<select id="${id}" class="custom-select">` +
@@ -125,10 +143,10 @@ class AirTableConnector {
                     `</select>`;
             }
             const r =
-                `<div class="p-0 mb-2 flex-grow-0">
+                `<div class="p-0 m-1 flex-grow-0">
                     <div class="input-group input-group-sm">
                         <div class="input-group-prepend">
-                            <span class="input-group-text">${field.name}</span>
+                            <span class="input-group-text user-select-none">${field.name}</span>
                         </div>
                         ${input}
                     </div>
@@ -136,7 +154,7 @@ class AirTableConnector {
             return r;
         }).join('');
         const form =
-            `<div class="d-flex flex-column flex-shrink-0 ml-4">
+            `<div class="d-flex flex-column flex-shrink-0 ml-2 mt-1 mb-1">
                 ${fields}
             </div>`;
         return form;
