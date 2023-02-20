@@ -724,23 +724,44 @@ Fuente:
 - https://urantia-book.org/archive/newsletters/herald/
 - https://urantiabook.org/Research-Resources?filter=Fellowship-Herald#arc-ArchiveHdr##arc-ArchiveHdr#
 
-### Volumen 1
+### Volumen 1, Número 1, 1998 (Otoño)
 
-| Revisado              | Fuente | Ejemplar       | Título                                                          | Autor             | Etiquetas |
-| --------------------- | ------ | -------------- | --------------------------------------------------------------- | ----------------- | --------- |
-| :white_square_button: | Herald | Vol. 01, No. 1 | "On the Brink of the Most Amazing and Enthralling Epoch"        | Carolyn Kendall   |           |
-| :white_square_button: | Herald | Vol. 01, No. 1 | "Let Your Soul Decide"                                          | Richard S. Omura  |           |
-| :white_square_button: | Herald | Vol. 01, No. 1 | "The Urantia Papers From a Jewish Perspective"                  | Martin Greenhut   |           |
-| :white_square_button: | Herald | Vol. 01, No. 1 | "The Concepts of Trust and Hope in _The Urantia Book_"          | Marilyn Kulieke   |           |
-| :white_square_button: | Herald | Vol. 01, No. 1 | "48 Chromosomes - Are We Asking the Right Questions?"           | Ken Glasziou      |           |
-| :white_square_button: | Herald | Vol. 01, No. 2 | "The Challenge of the 21st Century"                             | Meredith Sprunger |           |
-| :white_square_button: | Herald | Vol. 01, No. 2 | "On Facing Millennial Change"                                   | Byron Belitsos    |           |
-| :white_square_button: | Herald | Vol. 01, No. 2 | "Magisterial Missions"                                          | Behzad Sarmast    |           |
-| :white_square_button: | Herald | Vol. 01, No. 2 | "Springtime: A Study of the Future"                             | Henry Begemann    |           |
-| :white_square_button: | Herald | Vol. 01, No. 2 | "Whither Goest Thou, Woman?"                                    | Jeanne Melchior   |           |
-| :white_square_button: | Herald | Vol. 01, No. 2 | "The Seven Psychic Circles"                                     | Linda Buselli     |           |
-| :white_square_button: | Herald | Vol. 01, No. 2 | "On Removing The Barrier To A Civilized Discussion Of Eugenics" | Stephen           |           |
-| :white_square_button: | Herald | Vol. 01, No. 2 | "The Basket - A Poem"                                           | Charlene Morrow   |           |
+<br>
+
+<figure class="image urantiapedia image-style-align-left">
+  <img src="/image/article/Herald_covers/Herald1998Fall.jpg">
+</figure>
+
+| Title                                                                                                                                  | Author            | Tags |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---- |
+| [Al borde de la época más asombrosa y apasionante](/es/article/Carolyn_Kendall/On_the_Brink_of_The_Most_Amazing)                       | Carolyn Kendall   |      |
+| [Deja que tu alma decida](/es/article/Richard_S_Omura/Let_our_Soul_Decide)                                                             | Richard S. Omura  |      |
+| [Los documentos de Urantia desde una perspectiva judía](/es/article/Martin_Greenhut/The_Urantia_Papers_From_a_Jewish_Perspective)      | Martin Greenhut   |      |
+| [Los conceptos de confianza y esperanza en _El Libro de Urantia_](/es/article/Marilyn_Kulieke/Trust_and_Hope_in_The_Urantia_Book)      | Marilyn Kulieke   |      |
+| [48 cromosomas: ¿estamos haciendo las preguntas correctas?](/es/article/Ken_Glasziou/48_Chromosomes_Are_We_Asking_the_Right_Questions) | Ken Glasziou      |      |
+
+<br>
+
+### Volumen 1, Número 2, 1999 (Primavera)
+
+<br>
+
+<figure class="image urantiapedia image-style-align-left">
+  <img src="/image/article/Herald_covers/Herald1999Spring.jpg">
+</figure>
+
+
+| Title                                                                                                                                                  | Author            | Tags |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- | ---- |
+| [El desafío del siglo XXI](/es/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century_2)                                                  | Meredith Sprunger |      |
+| [Sobre cómo enfrentar el cambio milenario](/es/article/Byron_Belitsos/On_facing_millenial_change)                                                      | Byron Belitsos    |      |
+| [Misiones magistrales](/es/article/Behzad_Sarmast/Magisterial_missions)                                                                                | Behzad Sarmast    |      |
+| [Primavera: un estudio del futuro](/es/article/Henry_Begemann/Springtime_a_study_of_the_future)                                                        | Henry Begemann    |      |
+| [¿Adónde vas, mujer?](/es/article/Jeanne_Melchior/Whither_Goest_Thou_Woman)                                                                            | Jeanne Melchior   |      |
+| [Los siete círculos psíquicos](/es/article/Linda_Buselli/The_seven_psychic_circles)                                                                    | Linda Buselli     |      |
+| [Sobre la eliminación de la barrera a una discusión civilizada de la eugenesia](/es/article/Stephen/On_removing_the_barrier_to_discussion_of_eugenics) | Stephen           |      |
+
+<br>
 
 ### Volumen 2
 

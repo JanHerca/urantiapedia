@@ -41,7 +41,7 @@ Indice de artículos y ayudas de estudio de Halbert:
 
 Se ha añadido un extenso trabajo de Halbert a _Urantiapedia_ como libro:
 
-- [Eugenics Race and The Urantia Book](/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Index)
+- [Eugenics Race and The Urantia Book](/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Index)
 
 ## Enlaces externos
 

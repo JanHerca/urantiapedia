@@ -677,6 +677,14 @@ Source: https://urantia-book.org/archive/newsletters/urantian_journal/
 | :white_square_button: | Urantian Journal |       | Thoughts on the Dissemination of the Teachings of The Urantia Book | Ron Louie             |
 | :white_square_button: | Urantian Journal |       | Worship                                                            | C. L. Van Sant        | Worship |
 
+## The Spiritual Fellowship Journal
+
+https://urantia-book.org/index_spiritual_fellowship_journal.html
+
+30 issues
+
+https://ubhs.hosted-by-files.com/docs/R/ra19960501_sprungerm_42.pdf
+
 ## Fellowship Journal
 
 | Status                | Source             | Issue                    | Title                                                                    | Author                  | Tags |
@@ -704,6 +712,10 @@ Source: https://urantia-book.org/archive/newsletters/urantian_journal/
 | :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91   | The Urantia Book as a Sermon Resource                                    | Duane L. Faw            |
 | :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91   | Throwing the Spiritual Baby Out With the Sexist Bathwater                |                         |
 | :white_square_button: | Fellowship Journal | Vol. 01, No. 2 Fall 91   | Tuning the Inner and Outer Life                                          |                         |
+
+
+
+
 
 ## Fellowship Herald
 
