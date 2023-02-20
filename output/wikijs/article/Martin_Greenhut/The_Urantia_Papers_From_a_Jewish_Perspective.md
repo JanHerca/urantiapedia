@@ -1,5 +1,5 @@
 ---
-title: “The Urantia Papers From a Jewish Perspective”
+title: "The Urantia Papers From a Jewish Perspective"
 description: 
 published: true
 date: 2023-01-25T11:16:41.388Z

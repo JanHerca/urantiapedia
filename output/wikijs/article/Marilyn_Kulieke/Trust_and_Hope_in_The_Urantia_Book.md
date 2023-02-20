@@ -1,5 +1,5 @@
 ---
-title: “The Concepts of Trust and Hope in The Urantia Book”
+title: "The Concepts of Trust and Hope in The Urantia Book"
 description: 
 published: true
 date: 2023-01-25T11:16:41.388Z
@@ -25,7 +25,7 @@ The Thought Adjuster initiates trust and hope which consequently works to lead m
 
 Spiritual faith produces trust. Optimally, that trust will be in the goodness of God, ([UB 101:3.6](/en/The_Urantia_Book/101#p3_6)) Jesus said in a conversation with Ganid, “I am absolutely assured that the entire universe is friendly to me—this powerful truth I insist on believing with a wholehearted trust in spite of all appearances to the contrary.” ([UB 133:1.4](/en/The_Urantia_Book/133#p1_4))
 
-As Jesus began his mission with his evangelists, he called each by name and asked: "Are you fearful, soft and ease-seeking? Are you afraid to trust your fu­ture in the hands of the God of truth, whose sons you are? Are you distrustful of the father, whose children you are? ([UB 155:5.13](/en/The_Urantia_Book/155#p5_13)) *The Urania Book* calls each of us to that same challenge.
+As Jesus began his mission with his evangelists, he called each by name and asked: "Are you fearful, soft and ease-seeking? Are you afraid to trust your fu­ture in the hands of the God of truth, whose sons you are? Are you distrustful of the father, whose children you are?" ([UB 155:5.13](/en/The_Urantia_Book/155#p5_13)) *The Urania Book* calls each of us to that same challenge.
 
 Jesus' life represents the life of an individual who bases his life on his implicit trust in God and his fel­lows. John Zebedee was greatly influenced by how Jesus took care of his mother and family, even when his fam­ily failed to understand him. Watching Jesus in his daily life “produced marked and permanent change in \[John's\] character, changes which manifested them­selves throughout his entire subsequent life.” ([UB 139:4.9](/en/The_Urantia_Book/139#p4_9)) Jesus loved and trusted Judas as he loved and trusted the other Apostles. But Judas failed to develop loyal trust and to experience wholehearted love in return. ([UB 177:4.10](/en/The_Urantia_Book/177#p4_10)) Trust in God, inevitably should lead to trust in others. As Jesus talked to Andrew and James in one of his morontia appearances he said to Andrew, “If you trust me, trust your brethren more—even Peter. I once trusted you with the leadership of your brethren. Now must you trust others as I leave you to go to the Fa­thet .. And then go on trusting, for I will not fail you.” To James he said, “If you trust me more, you will be less impatient with your brethren. If you will trust me, it will help you to be kind to the brotherhood of believ­ers.” ([UB 192:2.8](/en/The_Urantia_Book/192#p2_8))
 
@@ -44,7 +44,7 @@ It was only after Jesus began to “have faith in the loyalty and integrity of h
 *The Urantia Book* portrays hope as a universal phenomena. Hope functions at all levels of the uni­verse—from here to eternity. It can be hope that spurs us forward in our universe career toward perfection, or hope that must die. The book, on page 1096 suggests, that “spiritual attainment, whether secured by gradual growth or specific crisis,” leads to a “new orientation of personality, as well as the development of a new stan­dard of values. Such spirit-born individuals are so re-motivated in life that they can calmly stand by while their fondest ambitions perish and theft keenest hopes crash; they positively know that such catastrophes are but the redirecting cataclysms which wreck one's tem­poral creations preliminary to a new and more sublime level of universe attainment.”
 
 
-> *“If my children are one as we are one, and if they love one another as I have loved them, all men will then believe that I came* forth from you *and be willing to receive the revelation of truth and glory which I have made.” ([UB 182:1.6](/en/The_Urantia_Book/182#p1_6))*
+> “If my children are one as we are one, and if they love one another as I have loved them, all men will then believe that I came forth from you and be willing to receive the revelation of truth and glory which I have made.” ([UB 182:1.6](/en/The_Urantia_Book/182#p1_6))
 
 ## References
 

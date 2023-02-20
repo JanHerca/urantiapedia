@@ -1,5 +1,5 @@
 ---
-title: “Let Your Soul Decide”
+title: "Let Your Soul Decide"
 description: 
 published: true
 date: 2023-01-25T11:16:41.388Z

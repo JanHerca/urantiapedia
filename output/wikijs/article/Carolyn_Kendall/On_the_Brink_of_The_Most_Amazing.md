@@ -1,5 +1,5 @@
 ---
-title: “On the Brink of The Most Amazing and Enthralling Epoch”
+title: "On the Brink of The Most Amazing and Enthralling Epoch"
 description: 
 published: true
 date: 2023-01-25T11:16:41.388Z
@@ -84,7 +84,7 @@ At the end of his three-year term as president, William Sadler, Jr., wrote in 19
 
 > **Introduction to Group**
 > _A systematic,oractical and nonthreatening guide for introducing the book to a small group of acquaintances was developed by Bob and Vicki Arkens, Wausau, WI_
->
+> 
 > 
 > When offering *The Urantia Book* to new people do you get anxious with the thought of misrepresenting the book through word choice, faulty memory or personal biases? Condensing the book in the course of a conversation or even a twenty minute presentation? A mass approach?
 > 
@@ -117,9 +117,10 @@ The Brotherhood early recognized that it would be impossible to get a foot in th
 
 A conservative route was taken. The first brochure, published in 1956 was “Excerpts from *The Uran tia Book*,” which contained nothing but many soaring  1978 quotations from the book. Next came “A Description of *The Urantia Book*,” containing a brief review of each part of the book and a list of the papers. For years, the Foundation and the Brotherhood jointly resisted efforts by individuals or groups to pro­duce brochures, insisting that the book should speak for itself.
 
-<img>
-*E.L. “Christy” Christensen, Chicago,*
-
+<figure id="Figure_1" class="image urantiapedia image-style-align-right">
+<img src="/image/article/Linda_Buselli/On_the_Brink_of_The_Most_Amazing/image1.png">
+<figcaption><em>EL “Christy” Christensen, Chicago.</em></figcaption>
+</figure>
 
 With subsequent moderation of that policy, a bro­chure blizzard occurred. Hundreds of pamphlets and tracts, designed to intrigue and entreat prospective read­ers, appeared. Prominent among the producers of these materials have been the Jesusonian Foundation, Fam­ily of God Foundation, the Asoka Foundation and the Christian Fellowship.
 
@@ -185,21 +186,17 @@ Northwest Urantia Association has sponsored an ongoing Prison Project since Marc
 
 ## Sending Unsolicited Books
 
-Tthe Domestic Extension Committee in 1956 sent 30 unsolicited books to influential writers, political and religious leaders. A few were returned immediately, and one or two sent notes of acknowledgment, but overall there was no response. That was when reality kicked in and they realized it was best if a personal relationship existed before endeavoring to interest a celebrity or prominent leader.
+The Domestic Extension Committee in 1956 sent 30 unsolicited books to influential writers, political and religious leaders. A few were returned immediately, and one or two sent notes of acknowledgment, but overall there was no response. That was when reality kicked in and they realized it was best if a personal relationship existed before endeavoring to interest a celebrity or prominent leader.
 
 Photocopies of Paper 72, “Government on a Neighboring Planet” were sent by a reader to Congres­sional leaders and other world political luminaries in 1975. A Foundation Trustee who was acquainted with the White House Chief of Staff, one of the recipients, called to determine its disposition. He was told that the White House receives so much unsolicited mate- rial they can't review, they destroy it within a few days.
 
 One long time reader has sent a gift book and letter to every President of The United States since Eisenhower. A staff member usually acknowledges re­ceipt of the book, although it is unknown whether any Leader of the Free World has ever read it.
 
-> "Ganid, the man was not hungry for truth...the eyes of his mind were
-not open to receive light for the soul. ... If we could have him live
-with us, we might by our lives show him the Father in heaven, and thus
-would he become so attracted that \[he would\] inquire about our
-Father."* ([UB 132:7.2](/en/The_Urantia_Book/132#p7_2))
+> "Ganid, the man was not hungry for truth...the eyes of his mind were not open to receive light for the soul. ... If we could have him live with us, we might by our lives show him the Father in heaven, and thus would he become so attracted that \[he would\] inquire about our Father." ([UB 132:7.2](/en/The_Urantia_Book/132#p7_2))
 
-> Modern Missionary
+> **Modern Missionary**
 > _Norm Ingram, ... personifies what a modem missionary program can and should be._
->
+> 
 > 
 > The book has both favorable and unfavorable things to say about missionary efforts. the authors warn that when those who go to other cultures try to change the ways of indigenous peoples, they defeat their purpose of *spiritually* upstepping them, causing confusion and upheaval instead. Because of this and other cautions, readers have usually shunned overt missionary work. Not so Norm Ingram, who personifies what a modern missionary program *can and should* be.
 > 
@@ -241,8 +238,10 @@ Catholic priest, Robert Schuer, described how he labored in his vineyard: “I s
 
 “Bloom where you're planted,” Pat Devine of the Bronx, NY, stated simply. “Where you are—that's where you begin.” +
 
-
-Robert Schuer, Snowmass, 1990
+<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<img src="/image/article/Linda_Buselli/On_the_Brink_of_The_Most_Amazing/image2.png">
+<figcaption><em>Robert Schuer, Snowmass, 1990.</em></figcaption>
+</figure>
 
 ## Promoting Spiritual Ideals in Entertainment and Broadcast Media
 
@@ -254,7 +253,7 @@ First Urantia Society of Los Angeles sponsored a seminar in Septem­ber 1983, �
 
 Roxy Allesandro, a television writer and producer, dramatically portrayed for the audience the conditions and climate of the broadcast media in 1983: “The net­works control the programs. They all think alike; they are all motivated by ratings and commercial profits. What gets on TV? Things that don't rock the boat.... When I was turned onto *The Urantia Book,* I wanted to get God on TV There is no God-consciousness in TV—spiritual values are rarely allowed in the script. If some­how an uplifting idea got into a script, and it failed, the writer would never work again.” She spoke of the read­ers in Hollywood who long to transform the media. “We have the responsibility to go out and break the silence about God on this world!” “This is the time to train ourselves, hone our skills, write better stories and lyr­ics, and to put God into our work.” Eight years later, in 1991, Roxy and her husband Vincent Ventola wrote for TV's “Sunday Dinner”, one of the first sitcoms to have an attractive, outspoken lead character who pro­moted faith in God. Roxy's personal spiritual journey was later dramatized in a cable TV movie and in Connie Chung interviews. She, Vince and their baby lost their battle with AIDS in the early 1990s.
 
-John VanOrsdell, an author of science fiction nov­els and articles, led a workshop on the media at the Allenberry conference (1984). Among the conclusions reached by his group were: When spreading ideas via fiction, TV, movies and music, concentrate on one idea only. Don't introduce too many concepts. The public is not ready for anything too complex.
+John Van Orsdell, an author of science fiction nov­els and articles, led a workshop on the media at the Allenberry conference (1984). Among the conclusions reached by his group were: When spreading ideas via fiction, TV, movies and music, concentrate on one idea only. Don't introduce too many concepts. The public is not ready for anything too complex.
 
 TV has a voracious appetite—lots of time to fill. *The Urantia Book* and the movement were depicted last year on the late night show, Strange Universe. As often happens, the book was linked with space aliens and the so-called Roswell event. Except for the balanced com­ments by Los Angeles interviewees, the show would have devolved into sensationalism. Urantia Founda­tion reported an increase in book sales after the show aired-3,000 more English books for the month than usual.
 
@@ -269,17 +268,13 @@ TV and movie celebrities have called or visited over the years, beginning with L
 > _“The quickest way to realize the brotherhood of man on Urantia is to effect the spiritual transformation of Present-day humanity. The only technique for accelerating the natural trend of social evolution is that of applying spiritual pressure from above;”_ ([UB 52:6.7](/en/The_Urantia_Book/52#p6_7))
 > 
 > 
-> Prior to fe cenieramnig controversy among the reader community in 1983
-with 1-16 predictions of** the outbreak of World War III, Vern Grimsley
-had established himself as the foremost radio broad caster of the
-teachings of Jesus according to *The* Urantia *Book.* As he had agreed
-with Dr. William Sadler and Christy, Vern did not mention *The Urantia Book* in his broadcasts and simply proclaimed the Fatherhood of God and the Brotherhood of Man as well as the coming-spiritual renaissance on this planet.
-
-Vern Bennom Grimsley established the Family of God Foundation in 1967 and that year began his broadcasts from San Francisco. Early broadcasts con­sisted of 15 minute street debates and discussions with college students, pro­jecting their issues and concerns during the turbulent years of campus protest onto a spiritual overview.
-
-By 1975 he was being heard in all 50 states on AM and FM radio stations as well as on stations in Cen­tral America, Britain, Aus­tralia, Asia and Africa. Early on, many stations carried the broadcasts as a public ser­vice, usually at times not convenient to most listeners, but as his popularity grew, broadcasts moved to better spots. To gain advantageous time slots in key cities, generous contributors paid the tab. Radio listeners writing in to inquire about the source of Venn's inspiration were introduced to *The Urantia Book.*
-
-By 1985, most of the members of F.O.G. left the organization in the wake of the controversy surround­ing Vern's predictions which he had claimed to be based on messages from “unseen friends”. Currently, Vem, who is in his 34th year of broadcasting messages of spiritual uplift, can be heard on California FM stations each week and over satellite and shortwave networks during holidays. He claims to have introduced the book to over 300 residents of his Sierra foothills community of Oakhurst, California.
+> Prior to fe cenieramnig controversy among the reader community in 1983 with 1-16 predictions of** the outbreak of World War III, Vern Grimsley had established himself as the foremost radio broad caster of the teachings of Jesus according to *The* Urantia *Book.* As he had agreed with Dr. William Sadler and Christy, Vern did not mention *The Urantia Book* in his broadcasts and simply proclaimed the Fatherhood of God and the Brotherhood of Man as well as the coming-spiritual renaissance on this planet.
+> 
+> Vern Bennom Grimsley established the Family of God Foundation in 1967 and that year began his broadcasts from San Francisco. Early broadcasts con­sisted of 15 minute street debates and discussions with college students, pro­jecting their issues and concerns during the turbulent years of campus protest onto a spiritual overview.
+> 
+> By 1975 he was being heard in all 50 states on AM and FM radio stations as well as on stations in Cen­tral America, Britain, Aus­tralia, Asia and Africa. Early on, many stations carried the broadcasts as a public ser­vice, usually at times not convenient to most listeners, but as his popularity grew, broadcasts moved to better spots. To gain advantageous time slots in key cities, generous contributors paid the tab. Radio listeners writing in to inquire about the source of Venn's inspiration were introduced to *The Urantia Book.*
+> 
+> By 1985, most of the members of F.O.G. left the organization in the wake of the controversy surround­ing Vern's predictions which he had claimed to be based on messages from “unseen friends”. Currently, Vem, who is in his 34th year of broadcasting messages of spiritual uplift, can be heard on California FM stations each week and over satellite and shortwave networks during holidays. He claims to have introduced the book to over 300 residents of his Sierra foothills community of Oakhurst, California.
 {.is-info}
 
 ## Urantia Book Ideas in Print Media
@@ -330,13 +325,12 @@ The Fellowship set up a booth at the World Parliament of Religions in Chicago in
 
 The Fellowship has also participated in book fairs around the world. An early booth set up by the Brotherhood and Foundation in Lon­don attracted the no­tice of a younger fe­male member of the Royal House of Windsor who  thumbed through the book and asked questions about it. The Fellowship and Foundation have even worked together in the same booth in recent months. A book fair in southeast Asia experienced an overwhelming number of book sales last yea; prompting an emergency shipment to fulfill or­ders.
 
-*Mo Siegel, Snowmass, 1990*
-
-
 In June a group of 11 readers, along with family members, went cruising for potential readers. Waldine Stump, Oklahoma City, OK, arranged the itinerary to Greece, Turkey and Italy for the 20 travelers from the U.S., that included an Aegean cruise to islands and cit­ies visited by Jesus during his Mediterranean tout Tour guides were presented with a *Urantia Book* at the end of each day's excursion. Most were accepted graciously, but two recipients were “ecstatic” to get theirs. The bus driver in Athens had heard of the book and wanted to look at it (he got a copy). A book was added to the ship library's collection before debarkation.
 
-
-Mediterranean Tour Group, Rome, 1998
+<figure id="Figure_3" class="image urantiapedia image-style-align-right">
+<img src="/image/article/Linda_Buselli/On_the_Brink_of_The_Most_Amazing/image3.png">
+<figcaption><em>Mediterranean Tour Group, Rome, 1998.</em></figcaption>
+</figure>
 
 ## How Many Books Are Out There?
 

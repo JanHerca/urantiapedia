@@ -1,5 +1,5 @@
 ---
-title: “48 Chromosomes —Are We Asking the Right Questions?”
+title: "48 Chromosomes —Are We Asking the Right Questions?"
 description: 
 published: true
 date: 2023-01-25T11:16:41.388Z
@@ -17,7 +17,7 @@ dateCreated: 2023-01-25T11:12:37.284Z
 
 > “On Urantia there were twenty-four such custo­dian commissioners, two for each fundamental or par­ent patterns of the architectural organization of the life material. On planets such as yours the highest form of life is reproduced by a life-carrying bundle which pos­sesses twenty-four pattern units.” ([UB 36:2.16](/en/The_Urantia_Book/36#p2_16))
 
-> *“These life circuits caused the chromosomes of the specialized Urantia pattern to reorganize...”* ([UB 77:2.5](/en/The_Urantia_Book/77#p2_5))
+> “These life circuits caused the chromosomes of the specialized Urantia pattern to reorganize...” ([UB 77:2.5](/en/The_Urantia_Book/77#p2_5))
 
 There are several ways by which these statements from the book may be misinterpreted. That there are 48 units of pattern control in the sex cells could mean that each of the two types of sex cell (egg and sperm) has 48 units. The statement that the highest form of life on Urantia is reproduced by a life-carrying bundle possessing 24 pattern units favors the interpretation that the 48 units are distributed as 24 units in each of the two types of sex cell. But perhaps we humans are not that form of life! A further possibility is that the 48 units could be taken to mean 48 chromosomes.
 

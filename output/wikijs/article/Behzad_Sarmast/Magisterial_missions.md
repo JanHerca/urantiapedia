@@ -38,7 +38,7 @@ This means that when the previous quotes told us about the possibility of a Magi
 
 In essence, all three of the Avonal missions are “judicial actions,” since in each case the sleepers are judged, and a new dispensation started. Regarding the “technical” visits, however, we are told: 
 
-> This era of light and life, inaugurated by the Teacher Sons at the conclusion of their final planetary mission, continues indefinitely on the inhabited worlds. Each advancing stage of settled status may be segregated by the judicial actions of the Magisterial Sons into a succession of dispensations; but all such judicial actions are purely technical,_ _in no way modifying the course of planetary events._ [UB 55:0.2](/en/The_Urantia_Book/55#p0_2) (Emphasis mine.) 
+> This era of light and life, inaugurated by the Teacher Sons at the conclusion of their final planetary mission, continues indefinitely on the inhabited worlds. Each advancing stage of settled status may be segregated by the judicial actions of the Magisterial Sons into a succession of dispensations; but all such judicial actions are purely technical, _in no way modifying the course of planetary events._ [UB 55:0.2](/en/The_Urantia_Book/55#p0_2) (Emphasis mine.) 
 
 So it would seem that these technical visits occur on planets that are progressing normally, since the government is in the hands of a loyal Prince and Material Son. These technical visits are invisible to the mortals of the realm, apparently because the smooth operation of world affairs does not necessitate a magisterial mission in visible form. We know this because the next dispensational visit for our planet would, by definition, be the harvest spoken of by Michael. An Avonal, therefore, cannot visit in any form without major consequences for the mortals of the realm, since this visit would certainly “modify” the planetary affairs in every way possible. In other words, this visitation cannot be a “technical” visit because such visits do not “in any way modify” the planet, and we know that the harvest will modify our planet in every way imaginable. Therefore, we are left only with the possibility of a Magisterial visit. 
 
@@ -70,7 +70,7 @@ These twelve effectively handed over the planetary government to Adam and Eve sh
 
 > The twelve Melchizedek receivers knew of Michael’s impending bestowal on their planet, but they did not know how soon it would occur; therefore they convened in solemn council and petitioned the Most Highs of Edentia that some provision be made for maintaining the light of truth on Urantia. . . .
 > 
-> And it was in consequence of having been thrown so completely on their own resources that Machiventa Melchizedek, one of the twelve planetary receivers, volunteered to do that which had been done only six times in all the history of Nebadon: to personalize on earth as a temporary man of the realm, to bestow himself as an emergency Son of world ministry. . . . [UB 93:1.1-2](/en/The_Urantia_Book/93#p1_1)
+> And it was in consequence of having been thrown so completely on their own resources that Machiventa Melchizedek, one of the twelve planetary receivers, volunteered to do that which had been done only six times in all the history of Nebadon: to personalize on earth as a temporary man of the realm, to bestow himself as an emergency Son of world ministry. . . . [UB 93:1.1,3](/en/The_Urantia_Book/93#p1_1)
 
 > During the years of Machiventa’s incarnation the Urantia Medchizedek receivers functioned as eleven. . . . [UB 93:10.1](/en/The_Urantia_Book/93#p10_1)
 
