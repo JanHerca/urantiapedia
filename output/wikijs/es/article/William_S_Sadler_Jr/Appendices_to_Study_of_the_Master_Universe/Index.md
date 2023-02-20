@@ -118,7 +118,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
     2. [El número de Arquitectos](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15#h-2-el-número-de-arquitectos)
     3. [Naturaleza de los trascendentales](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15#h-3-naturaleza-de-los-trascendentales)
     4. [Funciones de los trascendentales](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15#h-4-funciones-de-los-trascendentales)
-    5. [Significados de la palabra "absonito"](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15#h-5-significados-de-la-palabra-absonito)
+    5. [Significados de la palabra «absonito»](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15#h-5-significados-de-la-palabra-absonito)
     6. [Inicio, realización y consumación](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15#h-6-inicio-realización-y-consumación)
     7. [La secuencia de lo absonito](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15#h-7-la-secuencia-de-lo-absonito)
     8. [El principio de coherencia orgánica](/es/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15#h-8-el-principio-de-coherencia-orgánica)

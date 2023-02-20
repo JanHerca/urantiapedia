@@ -30,17 +30,17 @@ Esas son filosofías que valen la pena, verdaderas y aplicables, pero no son ori
 
 Una revelación muy pragmática, nueva y original del libro es el concepto general del origen, crecimiento y destino del alma. Muchos lectores del *Libro de Urantia* con los que he hablado tenían un concepto erróneo de lo que es el alma. He hablado con personas que pensaban que el alma era una pizarra en blanco sin voluntad, solo un embrión que esperaba nacer en los mundos de las mansiones. Es como un embrión, según *El Libro de Urantia* pero tiene voluntad y puede tomar decisiones, aunque con el asentimiento de la mente.
 
-> *“...Dios Supremo mismo participa de manera volitiva y creativa en la realización de su propia deidad. El alma morontial humana es igualmente una ***asociada volitiva y cocreativa*** de su propia inmortalización.”* ([LU 117:3.7](/es/The_Urantia_Book/117#p3_7))
+> *«...Dios Supremo mismo participa de manera volitiva y creativa en la realización de su propia deidad. El alma morontial humana es igualmente una ***asociada volitiva y cocreativa*** de su propia inmortalización.»* ([LU 117:3.7](/es/The_Urantia_Book/117#p3_7))
 
 ¡El alma es tu socio co-creativo! También,
 
-> “Durante la vida en la carne, el alma en evolución tiene la capacidad de reforzar las decisiones supermateriales de la mente mortal. Como es supermaterial, el alma no funciona por sí misma en el nivel material de la experiencia humana”. ([LU 111:3.2](/es/The_Urantia_Book/111#p3_2))
+> «Durante la vida en la carne, el alma en evolución tiene la capacidad de reforzar las decisiones supermateriales de la mente mortal. Como es supermaterial, el alma no funciona por sí misma en el nivel material de la experiencia humana». ([LU 111:3.2](/es/The_Urantia_Book/111#p3_2))
 
-En otras palabras, en el nivel material de la experiencia humana, el alma refuerza la mente cuando la mente toma decisiones sobremateriales. Por decisiones “supermateriales”, creo que se refieren a aquellas decisiones que impactan nuestra carrera de ascensión; aquellas decisiones que crean valor en el Supremo. Y el alma no puede funcionar por sí sola en el nivel material. Entonces, ¿qué necesita para funcionar aquí? ¡La mente!
+En otras palabras, en el nivel material de la experiencia humana, el alma refuerza la mente cuando la mente toma decisiones sobremateriales. Por decisiones «supermateriales», creo que se refieren a aquellas decisiones que impactan nuestra carrera de ascensión; aquellas decisiones que crean valor en el Supremo. Y el alma no puede funcionar por sí sola en el nivel material. Entonces, ¿qué necesita para funcionar aquí? ¡La mente!
 
-> “Sin la colaboración de un espíritu de la Deidad, como el Ajustador, este alma subespiritual tampoco puede funcionar por encima del nivel morontial. El alma tampoco toma decisiones finales hasta que la muerte o el traslado la separan de su asociación material con la mente mortal, a menos que esta mente material delegue libre y voluntariamente dicha autoridad a su alma morontial con quien funciona de manera asociada.” ([LU 111:3.2](/es/The_Urantia_Book/111#p3_2))
+> «Sin la colaboración de un espíritu de la Deidad, como el Ajustador, este alma subespiritual tampoco puede funcionar por encima del nivel morontial. El alma tampoco toma decisiones finales hasta que la muerte o el traslado la separan de su asociación material con la mente mortal, a menos que esta mente material delegue libre y voluntariamente dicha autoridad a su alma morontial con quien funciona de manera asociada.» ([LU 111:3.2](/es/The_Urantia_Book/111#p3_2))
 
-Incluso antes de la muerte o la traslación, el alma puede tomar decisiones finales siempre y cuando la mente le delegue libremente tal autoridad. He reflexionado sobre lo que quieren decir con decisiones “finales”. Creo que se refieren a decisiones morales finales que no podemos “retirar”, es decir, las decisiones morales que están comprometidas con la acción.
+Incluso antes de la muerte o la traslación, el alma puede tomar decisiones finales siempre y cuando la mente le delegue libremente tal autoridad. He reflexionado sobre lo que quieren decir con decisiones «finales». Creo que se refieren a decisiones morales finales que no podemos «retirar», es decir, las decisiones morales que están comprometidas con la acción.
 
 ¡Imagina eso! No solo somos reforzados por nuestra alma, ¡podemos permitir que nuestra alma tome decisiones finales!
 
@@ -50,7 +50,7 @@ Entonces, ¿con qué frecuencia surgen oportunidades cuando podemos delegar auto
 
 Hablar de alma a alma es comunicarse sin esconderse detrás del escudo de la riqueza material, la belleza física o la fuerza, o en las convenciones del intelectualismo, o en las cumbres elevadas de la justicia propia espiritual. Hablar de alma a alma es venir desde un lugar de comprensión, amor, compasión y honestidad al estar dispuesto a desnudar el yo imperfecto y vulnerable que somos, para revelarnos unos a otros esos valores que hemos aprendido de una vida de errores y tropiezos. Y lo hacemos con fe, sabiendo que existe dentro de la otra persona un espíritu divino que comprenderá y responderá con amor y aprecio.
 
-Lograr la comunicación alma a alma “a medida que avanzamos” en nuestra vida diaria es un buen punto de partida, pero sería una pena que no lo pongamos en práctica a lo largo del movimiento Urantia; en grupos de estudio, reuniones organizativas, ensayos y especialmente presentaciones.
+Lograr la comunicación alma a alma «a medida que avanzamos» en nuestra vida diaria es un buen punto de partida, pero sería una pena que no lo pongamos en práctica a lo largo del movimiento Urantia; en grupos de estudio, reuniones organizativas, ensayos y especialmente presentaciones.
 
 ¿Las discusiones en su grupo de estudio a menudo se vuelven demasiado intelectuales? ¿Le parece que la mayoría de las presentaciones de Urantia a las que ha asistido son refritos intelectuales del material del *Libro de Urantia* sin nuevos conocimientos? A menudo ha sido así en mi experiencia. En realidad, me gustaban las discusiones intelectuales cuando comencé a asistir a grupos de estudio, pero se volvieron tediosas y no satisfacían realmente mi alma.
 

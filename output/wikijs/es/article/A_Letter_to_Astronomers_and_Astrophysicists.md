@@ -405,7 +405,7 @@ El autor.
 
 [^13]: Einasto, J., Corwin, H.G., Huchra, J., Miller, R.H., Tarenghi, M. 1983, Highlights of Astronomy, Vol. 6, ed. R. West, Reidel, Dordrecht, p. 757
 
-[^14]: Einasto, Maret, et al. "The structure of the universe traced by rich clusters of galaxies." Monthly Notices of the Royal Astronomical Society 269.2 (1994): 301-322.
+[^14]: Einasto, Maret, et al. «The structure of the universe traced by rich clusters of galaxies.» Monthly Notices of the Royal Astronomical Society 269.2 (1994): 301-322.
 
 [^15]: Supongo que estas regiones vacías y sus regiones adyacentes probablemente representan el principio de esos depósitos, pero no la totalidad de ellos.
 
@@ -431,7 +431,7 @@ El autor.
 
 [^26]: Englert, François, and Peter W. Higgs. «The Nobel Prize in Physics 2013.» foton 3.2 (2013): 1.
 
-[^27]: Tully, R. Brent, Yehuda Hoffman, and Denis Courtois. “Cosmography of the local universe.” The Astronomical Journal 146.3 (2013): 69.
+[^27]: Tully, R. Brent, Yehuda Hoffman, and Denis Courtois. «Cosmography of the local universe.» The Astronomical Journal 146.3 (2013): 69.
 
 [^28]: Según los autores el espacio se está originando pronto «debajo» del Paraíso. Esta es la región que contiene el Vacío local. Los astrónomos creen que el sitio vacío está creciendo y «lejos» de las galaxias. Ver: Tully, R. Brent, et al. «Nuestro peculiar movimiento lejos del vacío local». The Astrophysical Journal 676.1 (2008): 184.
 

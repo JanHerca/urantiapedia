@@ -125,7 +125,7 @@ Las cifras que se dan para los siete cuerpos de Arquitectos del Universo Maestro
 > 7- El Cuarto Nivel de Espacio | 24,010 | = (3 + 7) x 7 x 7 x 7 x 7 | = 10 x 7^4^
 > Total | 28,011 | &nbsp; | &nbsp;
 > 
-> Nota: El número 28.011 representa algún tipo de límite, el agotamiento del potencial personificable del nivel absonito. No fue posible existenciar un Arquitecto adicional; el número 28.011 alcanzó los límites de la absonidad, y el intento por existenciar al Arquitecto nº 28.012 fracasó porque en este punto la conceptualización de los Arquitectos trascendió lo absonito y “…se encontró con el nivel matemático de la presencia del Absoluto”. [LU 31:9.10](/es/The_Urantia_Book/31#p9_10)
+> Nota: El número 28.011 representa algún tipo de límite, el agotamiento del potencial personificable del nivel absonito. No fue posible existenciar un Arquitecto adicional; el número 28.011 alcanzó los límites de la absonidad, y el intento por existenciar al Arquitecto nº 28.012 fracasó porque en este punto la conceptualización de los Arquitectos trascendió lo absonito y «…se encontró con el nivel matemático de la presencia del Absoluto». [LU 31:9.10](/es/The_Urantia_Book/31#p9_10)
 > 
 > (Vean el [LU 31:9.1](/es/The_Urantia_Book/31#p9_1), Los Arquitectos del Universo Maestro, para las referencias en los Documentos)
 {.is-info}
@@ -202,7 +202,7 @@ La cuestión de la «absonidad» y los «absonitos» es algo que se relaciona ta
 > (b) Etapa de continuación | realizadores | existencias | estados intermedios
 > (c) Etapa final | consumadores | destinos | efectos finales
 > 
-> Las palabras “inicio”, “realización” y “culminación” (junto con sus derivadas) se definen en parte (en el Webster) como sigue:
+> Las palabras «inicio», «realización» y «culminación» (junto con sus derivadas) se definen en parte (en el Webster) como sigue:
 > 
 > **Inicio:** «acto del proceso de comienzo; graduación; iniciación.»
 > 

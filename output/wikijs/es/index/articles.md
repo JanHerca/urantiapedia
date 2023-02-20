@@ -763,21 +763,44 @@ Fuente:
 
 <br>
 
-### Volumen 2
+### Volume 2, Number 1, 1999 (Winter)
 
-| Revisado                | Fuente | Ejemplar       | Título                                                                                                                              | Autor                   | Etiquetas                              |
-| ----------------------- | ------ | -------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | -------------------------------------- |
-| :white_square_button:   | Herald | Vol. 02, No. 1 | "The Family: Birthplace of Cosmic Citizens"                                                                                         | Paul Snider             |                                        |
-| :ballot_box_with_check: | Herald | Vol. 02, No. 1 | [Dos cosmologías — La astronomía y El Libro de Urantia](/es/article/Irwin_Ginsburgh/Two_Cosmologies_Astronomy_and_The_Urantia_Book) | Irwin Ginsburgh         | The Urantia Book, Astronomy, Cosmology |
-| :white_square_button:   | Herald | Vol. 02, No. 1 | "Reflections on cosmic citizenship"                                                                                                 | Stephen Dreier          |                                        |
-| :white_square_button:   | Herald | Vol. 02, No. 1 | "The Dual Nature of Supremacy"                                                                                                      | Linda Buselli           |                                        |
-| :white_square_button:   | Herald | Vol. 02, No. 2 | "Thinking About Tomorrow"                                                                                                           | Carolyn Kendall         |                                        |
-| :white_square_button:   | Herald | Vol. 02, No. 2 | "Restated in Modern Phraseology"                                                                                                    | David Elders            |                                        |
-| :white_square_button:   | Herald | Vol. 02, No. 2 | "Scientific Predictions of _The Urantia Book_ - Part II"                                                                            | Irwin Ginsburgh         |                                        |
-| :white_square_button:   | Herald | Vol. 02, No. 2 | "'I Will Tell Them A Story'"                                                                                                        | Stephen Zendt           |                                        |
-| :white_square_button:   | Herald | Vol. 02, No. 2 | "The Science of Parenting"                                                                                                          | Sara Blackstock         |                                        |
-| :white_square_button:   | Herald | Vol. 02, No. 2 | "The Ethics of Genetic Control and Social Engineering"                                                                              | Charles Laurence Olivea |                                        |
-| :white_square_button:   | Herald | Vol. 02, No. 2 | "The Intellectual Role of _The Urantia Book_"                                                                                       | Stephen                 |                                        |
+<br>
+
+<figure class="image urantiapedia image-style-align-left">
+  <img src="/image/article/Herald_covers/Herald1999Winter.jpg">
+</figure>
+
+| Title                                                                                                                                 | Author                  | Tags                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | -------------------------------------- |
+| [La Familia: Lugar de Nacimiento de los Ciudadanos Cósmicos](/es/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizens)        | Paul Snider             |                                        |
+| [Dos cosmologías — La astronomía y El Libro de Urantia](/es/article/Irwin_Ginsburgh/Two_Cosmologies_Astronomy_and_The_Urantia_Book)   | Irwin Ginsburgh         | The Urantia Book, Astronomy, Cosmology |
+| [Reflexiones sobre la ciudadanía cósmica](/es/article/Stephen_Dreier/Reflections_on_cosmic_citizenship)                               | Stephen Dreier          |                                        |
+| [La naturaleza dual de la supremacía](/es/article/Linda_Buselli/The_Dual_Nature_of_Supremacy)                                         | Linda Buselli           |                                        |
+
+<br>
+
+### Volume 2, Number 2, 2000 (Summer)
+
+<br>
+
+<figure class="image urantiapedia image-style-align-left">
+  <img src="/image/article/Herald_covers/Herald2000.jpg">
+</figure>
+
+| Title                                                                                                                                                | Author                  | Tags                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | -------------------------------------- |
+| [Pensando en el mañana](/es/article/Carolyn_Kendall/Thinking_about_tomorrow)                                                                         | Carolyn Kendall         |
+| [Reformulado en fraseología moderna](/es/article/David_Elders/Restated_in_modern_phraseology)                                                        | David Elders            |
+| [Predicciones científicas de _El libro de Urantia_ - Parte II](/es/article/Irwin_Ginsburgh/Scientific_Predictions_of_The_Urantia_Book_2)             | Irwin Ginsburgh         |
+| [«Les contaré una historia»](/es/article/Stephen_Zendt/I_Will_Tell_Them_A_Story)                                                                     | Stephen Zendt           |
+| [La ciencia de la crianza de los hijos](/es/article/Sara_Blackstock/The_Science_of_Parenting)                                                        | Sara Blackstock         |
+| [La ética del control genético y la ingeniería social](/es/article/Charles_Laurence_Olivea/The_Ethics_of_Genetic_Control_and_Social_Engineering)     | Charles Laurence Olivea |
+| [El papel intelectual de «El libro de Urantia»](/es/article/Stephen/The_Intellectual_Role_of_The_Urantia_Book)                                       | Stephen                 |
+
+<br>
+
+
 
 ### Volumen 3
 

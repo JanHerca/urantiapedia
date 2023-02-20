@@ -15,4 +15,4 @@ Indice de artículos y ayudas de estudio de Everett:
 | Estado                  | Fuente             | Ejemplar                 | Título                                               | Etiquetas |
 | ----------------------- | ------------------ | ------------------------ | ---------------------------------------------------- | --------- |
 | :ballot_box_with_check: | Innerface          | Vol. 01, No. 1.          | [Percepciones](/es/article/Everett_Sloffer/Insights) | Religion  |
-| :white_square_button:   | Fellowship Journal | Vol. 01, No. 1 Spring 91 | "The Church: A Statement of Purpose and Belief",     |           |
+| :white_square_button:   | Fellowship Journal | Vol. 01, No. 1 Spring 91 | «The Church: A Statement of Purpose and Belief»,     |           |

@@ -1,0 +1,68 @@
+---
+title: "Reflexiones sobre la ciudadanía cósmica"
+description: "Rumor, Gossip and Hearsay"
+published: true
+date: 2023-01-25T11:16:41.388Z
+tags:
+editor: markdown
+dateCreated: 2023-01-25T11:12:37.284Z
+---
+
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Stephen Dreier<br>© 1999 The Urantia Book Fellowship</p>
+
+La inmortalidad es una preocupación fundamental de la vida humana. ¿La vida personal, con sus relaciones, valores y recuerdos, sobrevive a la muerte física o llega a un final repentino y permanente? La pregunta tiene un profundo significado personal y filosófico.
+
+Excepto por _El Libro de Urantia_ hay escasez de material para ayudar en la consideración reflexiva de la inmortalidad. Lo poco que hay tiende a ser vago, simplista e inconsistente. A menudo, la vida después de la muerte se concibe simplemente como una recompensa o un castigo por el comportamiento en esta vida, siendo su naturaleza agradable o desagradable según corresponda. Si bien estos conceptos son cada vez menos significativos para las personas, se han desarrollado pocos conceptos más satisfactorios para reemplazarlos. Muchos individuos quedan en un estado de confusión e incertidumbre sobre el asunto; evitan pensar en ello seriamente.
+
+_El Libro de Urantia_ es único en el sentido de que proporciona un relato relativamente detallado y coherente de la naturaleza, los propósitos y las actividades del más allá, que de otro modo no estaría disponible. Después de tanto tiempo sin prácticamente nada, de repente se abre una compuerta y nos inundan tantos detalles que muchos de los que lo estudian reportan dificultades para comprenderlo y coordinarlo todo. Tomará algún tiempo y un esfuerzo considerable comprender lo que significa todo esto y reemplazar los conceptos viejos y obsoletos de la naturaleza de la inmortalidad por nuevos modelos que vibran con significados expandidos y potenciales dinámicos.
+
+El concepto de «ciudadanía cósmica» da por sentada la supervivencia. Asume un destino eterno, alcanzado progresivamente, e intenta ubicar y vivir esta vida en el contexto de ese destino. _El Libro de Urantia_ está diseñado para facilitar este esfuerzo. «_El propósito real de toda la educación universal es lograr una mejor coordinación del niño aislado de los mundos con las realidades más amplias de su experiencia en expansión._» ([LU 2:7.12](/es/The_Urantia_Book/2#p7_12 ))
+
+La «ciudadanía cósmica» no tiene un significado fijo. Sus significados deben ser establecidos por la vida de quienes pretenden practicarlo. Invariablemente, mostrará una amplia gama de interpretaciones. Para algunos puede significar poco más que una vaga convicción personal reconfortante de ser parte de una gran empresa de significado infinito y eterno, que requiere poca respuesta activa. Algunos pueden ser estimulados a niveles más altos de comportamiento ético y moral planetario al vivir esta vida, un esfuerzo por elevar el nivel de lo que es, mientras esperan lo que será. Incluso otros pueden sentirse inmediatamente conectados con las realidades extraplanetarias del sistema, la constelación y el universo, y buscar vivir sus vidas cada vez más de acuerdo con su comprensión de la naturaleza y los requisitos de estas conexiones. El último de estos es el más desafiante,
+
+¿Cómo logramos «una mejor coordinación con las realidades más amplias de la experiencia en expansión?» Una forma posible es preguntar qué se requerirá de nosotros cuando lleguemos a los mundos de las mansiones. Puede ser posible comenzar a prepararse para esos requisitos ahora. Tal vez podamos llegar a los mundos de las mansiones mejor calificados para el servicio de lo que sería el caso de otra manera. Sabemos que los mundos de estancia están preparados para hacer frente a las deficiencias, pero eso no es motivo para llegar con más deficiencias de las que podemos evitar. Si hay cosas que podemos hacer aquí para llegar allí con menos deficiencias, parece justo tratar de hacer eso; es una cuestión de ética cósmica.
+
+Un ejemplo específico puede ayudar a ilustrar las posibilidades. Parece que poco después de llegar a los mundos de las mansiones nos encontraremos involucrados en el manejo de la información del universo. El manejo de la información, para propósitos cósmicos, es una habilidad de alto nivel. No se puede aprender de repente; Toma tiempo y practica. Si nuestras habilidades de gestión de la información son defectuosas cuando lleguemos a los mundos de las mansiones, limitará nuestra utilidad. En lugar de contribuir, consumiremos los recursos de los mundos mansión en servicios de recuperación diseñados para llevar nuestras habilidades de manejo de información a un nivel aceptable para asignaciones responsables en la economía mansonia. Los siguientes párrafos proporcionarán la base para esta conclusión.
+
+El cosmos descrito en _El libro de Urantia_ depende de una enorme cantidad de información para su funcionamiento eficiente e inteligente. Constantemente se toman interminables decisiones sobre todo tipo de asuntos complejos, grandes y pequeños. La información precisa es el material básico de estos esfuerzos. Sin información razonablemente completa y precisa es imposible tomar decisiones inteligentes.
+
+Los mecanismos descritos en _El libro de Urantia_ para la recopilación y recuperación de información son muy amplios. Una fracción significativa de las personalidades y realidades del universo se dedican a esta tarea. Por ejemplo, más de una séptima parte de los serafines, los registradores, están asignados a este esfuerzo; otros órdenes de vida en el universo también están involucrados. Considere el siguiente comentario sobre los registradores celestiales en [LU 25:6.4](/es/The_Urantia_Book/25#p6_4):  
+
+> Mientras que los registradores que avanzan estacionados en las esferas de registro subordinadas en los universos de Orvonton suman trillones y trillones, los que han alcanzado el estatus en Uversa no llegan a los ocho millones en número. Estos registradores superiores o graduados son los custodios y promotores del superuniverso de los registros patrocinados de tiempo y espacio. ([LU 25:6.4](/es/The_Urantia_Book/25#p6_4))
+
+¿Qué nos dice esto? Primero, que una enorme cantidad de seres, trillones y trillones, están involucrados en el ensamblaje de la base de datos de información de Orvonton. En segundo lugar, que muy pocos de ellos, menos de 8 millones, tienen un estatus alcanzado: maestros en el arte. El resto todavía está aprendiendo cómo hacerlo. La gestión de la información no es un asunto sencillo; es una habilidad de alto nivel que solo se puede aprender mediante una aplicación paciente y dedicada.
+
+Está claro que muchos de los ángeles están involucrados en servicios de información, pero ¿qué tiene que ver esto con los seres humanos como nosotros? Considera lo siguiente:
+
+> La raza humana fue creada un poco más abajo que los tipos más simples de las órdenes angélicas. Por lo tanto, su primera asignación en la vida morontial será como asistentes de los serafines en el trabajo inmediato que les espera en el momento en que alcancen la conciencia de la personalidad subsiguiente a su liberación de las ataduras de la carne. ([LU 113:7.3](/es/The_Urantia_Book/113#p7_3))
+
+Aquí se nos dice que la primera obra de la vida morontial consiste en ayudar a los serafines. Dado que gran parte de su trabajo se relaciona con los servicios de información del universo, parece razonable concluir que al menos parte del trabajo inmediato del más allá implicará ayudar a los serafines con sus deberes de administrar la información del universo.
+
+Sabiendo esto, parece apropiado comenzar la preparación para estas asignaciones AHORA MISMO. Se vuelve importante desarrollar nuevos y mejores hábitos de gestión de la información ahora. Estos hábitos mejorados deberían servir para asegurar que la información que almacenamos y comunicamos sea sólida, de hecho y en verdad. Deberíamos aprender cada vez más a distinguir hábilmente entre la buena y la mala información, aceptando solo la buena, rechazando la mala y dándonos cuenta de que:
+
+> ...reanudarás tu formación intelectual y tu desarrollo espiritual en el nivel exacto en que fueron interrumpidos por la muerte. ...Empiezas allí justo donde lo dejas aquí abajo. ([LU 47:3.7](/es/The_Urantia_Book/47#p3_7)) La vida después de la muerte no es diferente en lo esencial de la existencia mortal. Todo lo que hacemos en esta vida que es bueno contribuye directamente a la mejora de la vida futura. ... Cada ganancia mortal es una contribución directa al enriquecimiento de las primeras etapas de la experiencia de supervivencia inmortal. ([LU 103:5.7](/es/The_Urantia_Book/103#p5_7))
+
+Esto nos lleva a considerar los rumores, los chismes y los rumores. Con demasiada frecuencia son los medios por los cuales adquirimos información y formamos entendimientos de personas y situaciones. Se nos dice algo o escuchamos algo acerca de alguien, y lo aceptamos con poco o ningún esfuerzo para verificar la exactitud de la información. Rara vez es correcto; suele estar sesgado, positiva o negativamente; a menudo es parcial, distorsionada, prejuiciosa y falsa. Sin embargo, la información comunicada a través de rumores, chismes y rumores se acepta con frecuencia como válida.
+
+Es difícil imaginar cómo los ángeles podrían contar con la ayuda de personas que tenían la costumbre de manejar la información de esta manera. Los ángeles se dedican a garantizar que la información que registran y brindan sea precisa: un relato real y veraz de la persona o situación en cuestión. Hacen su trabajo con un sentido de obligación sagrada; no es probable que confíen en aquellos que son descuidados en el manejo de la información para desempeñar un papel responsable en sus esfuerzos.
+
+Por supuesto, los rumores, los chismes y los rumores a menudo se entienden como malos. Incluso aquellos que no tienen ninguna expectativa de inmortalidad han concluido, sobre bases puramente humanísticas, que son comportamientos inferiores. Aquellos que creen y practican las enseñanzas de _El libro de Urantia_ deberían sentir esto de una manera mucho más profunda, ya que están equipados para ver estas cosas y otras similares como asuntos de «ciudadanía cósmica», que involucran no solo las acciones de este mundo sino también las de los mundos a los que se enfrentan. venir. La capacidad de manejar la información hábilmente es básica para la «ciudadanía cósmica». Es uno de los ABC de la educación cósmica, fundamental para la capacidad de servir responsablemente en las primeras asignaciones de la vida morontial.
+
+Es probable que este ejemplo específico del concepto de «ciudadanía cósmica» no tenga un atractivo universal, pero es de esperar que sirva para estimular una mayor reflexión sobre las conexiones entre este mundo y el próximo. Algunas de estas conexiones pueden ser relativamente fáciles de discernir; otros requerirán un estudio cuidadoso de las descripciones detalladas de la realidad cósmica presentadas en _El libro de Urantia_, junto con el uso de la imaginación creativa. Son esas relaciones, simples y complejas, las que forman la base para la práctica de la «ciudadanía cósmica».
+
+El concepto de «ciudadanía cósmica» da por sentada la supervivencia y procede con un esfuerzo determinado e inteligente para desarrollar actitudes y habilidades específicas que parecen tener un valor continuo en la vida mansonia. Intenta identificar esos valores morontiales e incorporarlos a la vida que vivimos aquí, impartiendo significados particulares a la declaración de Jesús:
+
+> Ya no sois como hombres entre los hombres sino como ciudadanos ilustrados de otro país celestial entre las criaturas ignorantes de este mundo tenebroso. No es suficiente que vivan como eran antes de esta hora, sino que de ahora en adelante deben vivir como aquellos que han probado las glorias de una vida mejor y han sido enviados de regreso a la tierra como embajadores del Soberano de ese mundo nuevo y mejor. ([LU 140:3.1](/es/The_Urantia_Book/140#p3_1))
+
+La práctica de la «ciudadanía cósmica» es doblemente bendecida. Mientras busca enriquecer la próxima vida, también enriquece esta vida. Trae los valores del siguiente nivel de la realidad del universo al nivel actual, contribuyendo así al progreso del nivel actual hacia su destino de luz y vida.
+
+Estamos apenas al comienzo de esta aventura de descubrimiento. Hay un sinfín de conexiones de este tipo que esperan ser aclaradas e incorporadas a la vida de quienes estudian _El libro de Urantia_ y, posteriormente, al mundo. En la medida en que identificamos estas conexiones y las hacemos reales en nuestras vidas, experimentamos la «ciudadanía cósmica» como una realidad personal creciente, que enriquece tanto esta vida como la siguiente, y provoca ondas que se expanden hasta los límites de la realidad suprema.
+
+> Stephen (Steve) Dreier, profesor jubilado de química, ex presidente de _The Urantia Book_ Fellowship, actualmente se desempeña como vicepresidente de The Fellowship. Ha sido un estudioso del libro durante más de 25 años y ha invertido incontables horas al servicio de The Fellowship, su sociedad local y lectores en todas partes.
+{.es-info}
+
+> La fe lleva muy gustosamente a la razón hasta donde la razón puede llegar y luego prosigue con la sabiduría hasta el límite filosófico completo; y entonces se atreve a emprender el viaje infinito e ilimitado del universo en la única compañía de la VERDAD. [LU 103:9.7](/es/The_Urantia_Book/103#p9_7)
+
+## Referencias
+
+- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/

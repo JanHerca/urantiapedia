@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T11:12:37.284Z
 ---
 
-Richard “Dick” Bain
+Richard «Dick» Bain
 
 ## Artículos
 

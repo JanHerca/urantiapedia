@@ -76,4 +76,4 @@ Needleman ha llegado a la conclusión de que el progreso de la humanidad permane
 
 ## Referencias
 
-* Jacob Needleman, “Lost Christianity. A Journey of Rediscovery to the Centre of Christian Experience”, Element Books; New edition (Febrero 1990)
+* Jacob Needleman, «Lost Christianity. A Journey of Rediscovery to the Centre of Christian Experience», Element Books; New edition (Febrero 1990)
