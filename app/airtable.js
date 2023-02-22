@@ -77,6 +77,13 @@ class AirTableConnector {
         return this.cache[tableName].find(r => r.fields[name] === recName);
     };
 
+    getRecordAnyCase = (tableName, recName) => {
+        const lrecName = recName.toLowerCase();
+        const name = Schema[tableName].name;
+        return this.cache[tableName]
+            .find(r => r.fields[name].toLowerCase() === lrecName);
+    };
+
     getRecordNamesAndAlternates = (tableName) => {
         //Returns an array per record, first value the name, the rest alternates
         const name = Schema[tableName].name;
@@ -158,6 +165,43 @@ class AirTableConnector {
                 ${fields}
             </div>`;
         return form;
+    };
+
+    addRecord = (tableName, fields) => {
+        const name = Schema[tableName].name;
+        if (this.base == null) {
+            return Promise.reject('Not connected.');
+        } else if (!fields[name]) {
+            return Promise.reject('Name field missing.');
+        }
+        const rec = this.getRecordAnyCase(tableName, fields[name]);
+
+        if (rec) {
+            //Exists
+            return new Promise((resolve, reject) => {
+                this.base(tableName)
+                    .update([{id: rec.id, fields: fields}], (err, recs) => {
+                        if (err) {
+                            reject(err);
+                        }
+                        rec.fields = recs[0].fields;
+                        resolve(rec);
+                    });
+            });
+        }
+
+        //Not exists
+        return new Promise((resolve, reject) => {
+            this.base(tableName)
+                .create([{fields: fields}], (err, recs) => {
+                    if (err) {
+                        reject(err);
+                        return;
+                    }
+                    this.cache[tableName].push(recs[0]);
+                    resolve(recs[0]);
+                });
+        });
     };
 }
 

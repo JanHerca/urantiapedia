@@ -113,11 +113,13 @@ const controls = {
 	lbxAirTableTablesCont: '', lbxAirTableTables: '',
 	lblAirTableData: '', lbxAirTableDataCont: '', lbxAirTableData: '',
 	drpAirTableUBPaper: '', lblAirTableUB: '', lbxAirTableDataCont: '', lbxAirTableUB: '',
+	btnAirTableNewPerson: '', btnAirTableAltPerson: '',
+	btnAirTableNewLocation: '', btnAirTableAltLocation: '',
 	//Settings
 	lblUILanguage: '', drpUILanguage: '', 
 	lblTheme: '', drpTheme: '',
-	lblAirTableAPIKey: '', txtAirTableAPIKey: '',
-	lblAirTableBaseID: '', txtAirTableBaseID: ''
+	lblAirTableAPIKey: '', txtAirTableAPIKey: '', toggleAirTableAPIKey: '',
+	lblAirTableBaseID: '', txtAirTableBaseID: '', toggleAirTableBaseID: ''
 };
 const controlsToDisable = [
 	'btnTIAddTopic', 'btnTIRemoveTopic', 'btnTIRenameTopic', 'btnTISaveChanges', 
@@ -155,6 +157,7 @@ let filelineEditing = null;
 let changed = false;
 let airTableTableSelected = null;
 let airTableConnectionEnabled = true;
+let selectedText = null;
 
 //Strings
 let strSelectFolder = 'Select folder';
@@ -234,11 +237,17 @@ const onLoad = () => {
 		//AirTable
 		[c.igrAirTableConnect, 'click', handle_igrAirTableConnect],
 		[c.drpAirTableUBPaper, 'click', handle_drpAirTableUBPaper],
+		[c.btnAirTableNewPerson, 'click', handle_btnAirTableNewPerson],
+		[c.btnAirTableAltPerson, 'click', handle_btnAirTableAltPerson],
+		[c.btnAirTableNewLocation, 'click', handle_btnAirTableNewLocation],
+		[c.btnAirTableAltLocation, 'click', handle_btnAirTableAltLocation],
 		//Settings
 		[c.drpUILanguage, 'change',  handle_drpUILanguageChange],
 		[c.drpTheme, 'change', handle_drpThemeChange],
 		[c.txtAirTableAPIKey, 'input', handle_txtAirTableAPIKey],
-		[c.txtAirTableBaseID, 'input', handle_txtAirTableBaseID]
+		[c.txtAirTableBaseID, 'input', handle_txtAirTableBaseID],
+		[c.toggleAirTableAPIKey, 'click', handle_toggleAirTableAPIKey],
+		[c.toggleAirTableBaseID, 'click', handle_toggleAirTableBaseID]
 	];
 
 	handlers.forEach(h => {
@@ -1861,6 +1870,7 @@ const onTIFail = (errors) => {
 // -----------------------------------------------------------------------------
 // AirTable
 // -----------------------------------------------------------------------------
+//TODO: Implement Import tool to upload non existing names to AirTable
 
 const handle_igrAirTableConnect = (evt) => {
 	if (!airTableConnectionEnabled) {
@@ -2004,6 +2014,11 @@ const showBookPaperForAirTable = () => {
 	const errs = [];
 	const classes = 'list-group-item btn-sm list-group-item-action py-2 px-2';
 	const searches = [], replaces = [];
+
+	//Unhandle
+	$(controls.lbxAirTableUB).find('.list-group-item').off('mouseup');
+
+	//Fill
 	airTable.getTableNames().forEach(tableName => {
 		const arNames = airTable.getRecordNamesAndAlternates(tableName);
 		const cls = tableName.toLowerCase();
@@ -2032,9 +2047,33 @@ const showBookPaperForAirTable = () => {
 			html.push(`${refHtml}   ${parHtml2}`);
 		});
 	});
-	//TODO: Implement Import tool to upload non existing names to AirTable
+	
 	const html2 = html.map(h => `<div class="${classes}">${h}</div>`).join('');
 	$(controls.lbxAirTableUB).html(html2);
+
+	//Handle
+	$(controls.lbxAirTableUB).find('.list-group-item')
+		.on('mouseup', function(evt) {
+			selectedText = window.getSelection().toString();
+			evt.stopPropagation();
+		});
+};
+
+const handle_btnAirTableNewPerson = (evt) => {
+	
+	//TODO: airTable.addRecord(tablename, {fields})
+};
+
+const handle_btnAirTableAltPerson = (evt) => {
+
+};
+
+const handle_btnAirTableNewLocation = (evt) => {
+
+};
+
+const handle_btnAirTableAltLocation = (evt) => {
+
 };
 
 // -----------------------------------------------------------------------------
@@ -2068,6 +2107,22 @@ const handle_txtAirTableBaseID = (evt) => {
 	const baseID = controls.txtAirTableBaseID.value;
 	settings.airTableBaseID = baseID;
 	store.set('airTableBaseID', settings.airTableBaseID);
+};
+
+const handle_toggleAirTableAPIKey = (evt) => {
+	$(controls.toggleAirTableAPIKey).find('i')
+		.toggleClass('bi-eye-fill bi-eye-slash-fill');
+	const type = $(controls.txtAirTableAPIKey).attr('type');
+	$(controls.txtAirTableAPIKey)
+		.attr('type', type === 'text' ? 'password' : 'text');
+};
+
+const handle_toggleAirTableBaseID = (evt) => {
+	$(controls.toggleAirTableBaseID).find('i')
+		.toggleClass('bi-eye-fill bi-eye-slash-fill');
+	const type = $(controls.txtAirTableBaseID).attr('type');
+	$(controls.txtAirTableBaseID)
+		.attr('type', type === 'text' ? 'password' : 'text');
 };
 
 document.addEventListener('DOMContentLoaded', onLoad);
