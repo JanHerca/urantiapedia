@@ -1154,7 +1154,10 @@ const executeSearch = (lines) => {
 		}
 		if (txtNewRefs != '') {
 			const newRefs = txtNewRefs.split(';').map(s => s.trim());
-			finalContent += getSearchParsForNewRefs(newRefs, text);
+			finalContent += getSearchParsForNewRefs(newRefs, null, text);
+		}
+		if (txtOldRefs === '' && txtNewRefs === '' && text != '') {
+			finalContent += getSearchParsForText(text);
 		}
 	}
 	controls.lbxSearchResultLan.innerHTML = finalContent;
@@ -1176,15 +1179,17 @@ const highlightPar = (line, quotes, text) => {
 	let finalLine = line;
 	if (quotes && quotes.length > 0) {
 		quotes.forEach(q => {
-			if (finalLine.indexOf(q) != -1) {
-				let q2 = q;
-				let parts = finalLine.split(q);
+			const plainq = q.replace(/_|\*/g, '');
+			if (finalLine.indexOf(plainq) != -1) {
+				let q2 = plainq;
+				let parts = finalLine.split(plainq);
 				if (text2) {
-					q2 = q.replace(text, text2);
+					q2 = plainq.replace(text, text2);
 					parts = parts.map(p => p.replace(text, text2));
 				}
 				finalLine = parts.join(`<b>${q2}</b>`);
 			}
+
 		});
 	} else if (text2) {
 		finalLine = line.replace(text, text2);
@@ -1218,7 +1223,7 @@ const getSearchParsForLine = (line) => {
 	//Old refs
 	const oldRefsContent = getSearchParsForOldRefs(obj.refs, obj.quotes, text);
 	//New refs
-	const newRefsContent = getSearchParsForNewRefs(refs, text);
+	const newRefsContent = getSearchParsForNewRefs(refs, obj.quotes, text);
 	return lineText + oldRefsContent + newRefsContent;
 };
 
@@ -1234,13 +1239,13 @@ const getSearchParsForOldRefs = (oldRefs, quotes, text) => {
 	return content;
 };
 
-const getSearchParsForNewRefs = (newRefs, text) => {
+const getSearchParsForNewRefs = (newRefs, quotes, text) => {
 	const content = newRefs.map(r => {
 		const refs1 = bookSearch.getArrayOfRefs([r]);
 		const refs2 = bookSearch2.getArrayOfRefs([r]);
 		let result = refs1.map((rr, j) => {
 			const par = getSearchPars(rr, refs2[j], r, false);
-			return highlightPar(par, null, text);
+			return highlightPar(par, quotes, text);
 		}).join('');
 		if (refs1.length > 1) {
 			result += getSearchParsMulti(refs1, refs2, r);
@@ -1248,6 +1253,13 @@ const getSearchParsForNewRefs = (newRefs, text) => {
 		return result;
 	}).join('');
 	return content;
+};
+
+const getSearchParsForText = (text) => {
+	const refs = bookSearch.search(text);
+	if (refs.length > 0) {
+		return getSearchParsForNewRefs(refs, null, text);
+	}
 };
 
 const getRefsInLines = (lines) => {

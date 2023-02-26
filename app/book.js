@@ -380,6 +380,22 @@ class Book {
 		return result;
 	};
 
+	search = (text) => {
+		const result = [];
+		this.papers.forEach(paper => {
+			paper.sections.forEach(section => {
+				section.pars.forEach(par => {
+					const par_content = par.par_content.replace(/_|\*/g, '');
+					if (par_content.indexOf(text) != -1 &&
+						result.indexOf(par.par_ref) === -1) {
+						result.push(par.par_ref);
+					}
+				});
+			});
+		});
+		return result;
+	};
+
 	/**
 	 * Converts a text in LaTeX format to HTML format, replacing special chars 
 	 * with same chars but adapted to Wiki formats.
