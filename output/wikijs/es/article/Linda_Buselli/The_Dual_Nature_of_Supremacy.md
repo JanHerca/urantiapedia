@@ -14,7 +14,7 @@ dateCreated: 2023-01-25T11:12:37.284Z
 
 El hecho de que la supremacía deba abarcar todas las posibilidades finitas indica que debe ser una experiencia de todos los niveles de cualquier posibilidad dada, de un extremo al otro, de un casi absoluto subinfinito a su opuesto. Encontramos esto expresado en _El Libro de Urantia_ en los hijos ascendentes y descendentes, los circuitos pasivos/agresivos de las órdenes angelicales, e incluso nuestro género de nacimiento del cual quedan rastros hasta el Paraíso y más allá.
 
-> Los seres humanos han aprendido que el movimiento de lo invisible a veces se puede discernir observando sus efectos sobre lo visible; y nosotros en los universos hemos aprendido hace mucho tiempo a detectar los movimientos y tendencias de la Supremacía al observar las repercusiones de tales evoluciones en las personalidades y patrones del gran universo. ([LU 115:6.7](/es/The_Urantia_Book/115#p6_7))
+> Los seres humanos han aprendido que a veces se puede discernir el movimiento de lo invisible observando sus efectos sobre lo visible; y nosotros hace tiempo que hemos aprendido a detectar en los universos los movimientos y las tendencias de la Supremacía, observando las repercusiones de esas evoluciones en las personalidades y los modelos del gran universo. ([LU 115:6.7](/es/The_Urantia_Book/115#p6_7))
 
 Tal vez porque soy mujer y siento que hay prejuicios de género en _El libro de Urantia_, he dedicado mucho tiempo y he pensado en este tema. No hace mucho, decidí comenzar con la relación entre el Hijo Creador y el Ministro Divino, como representantes de los conceptos universales masculino/femenino, agresivo/pasivo, etc.; y he llegado a descubrir un significado y un propósito más profundos para estas designaciones.
 
@@ -55,7 +55,7 @@ El Supremo parece crecer desde todos los posibles puntos de partida experiencial
 > Linda Buselli ha sido lectora durante 28 años, y ella y su esposo Bob se desempeñaron como coordinadores de área de Indiana durante muchos años. Es miembro del Comité de Publicaciones y ahora reside en Dallas, Tx. Ambos niños, Michael (24) y Gina (22) son activos en el movimiento Urantia.
 {.es-info}
 
-> El Supremo es la belleza de la armonía física, la verdad del significado intelectual y la bondad del valor espiritual. Él es la dulzura del verdadero éxito y la alegría del logro eterno. Él es el alma superior del gran universo, la conciencia del cosmos finito, la realización de la realidad finita y la personificación de la experiencia Creador-criatura. A lo largo de toda la eternidad futura, Dios Supremo expresará la realidad de la experiencia volitiva en las relaciones trinitarias de la Deidad. [LU 117:1.1](/es/The_Urantia_Book/117#p1_1)
+> El Supremo es la belleza de la armonía física, la verdad de los significados intelectuales y la bondad de los valores espirituales. Es el dulzor del éxito verdadero y la alegría de los logros perpetuos. Es la superalma del gran universo, la conciencia del cosmos finito, la culminación de la realidad finita, y la personificación de la experiencia del Creador y la criatura. A lo largo de toda la eternidad futura, Dios Supremo expresará la realidad de la experiencia volitiva en las relaciones trinitarias de la Deidad. [LU 117:1.1](/es/The_Urantia_Book/117#p1_1)
 
 ## Referencias
 
