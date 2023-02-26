@@ -35,7 +35,7 @@ It is a wonder that the world's religions have not allied themselves with this f
 > Religion effectually cures man's sense of idealistic isolation or spiritual loneliness; it enfranchises the believer as a son of God, a citizen of a new and meaningful universe. Religion assures man that, in following the gleam of righteousness discernible in his soul, he is thereby identihing himself with the plan of the Infinite and the purpose of the Eternal. Such a liberated soul immediately begins to feel at home in this new universe, his universe ([UB 101:10.7](/en/The_Urantia_Book/101#p10_7)).
 
 But instead, most people have aligned themselves with their traditional theology in which they receive their identity and some level of spiritual gratification in a way that is exclusionary to all who don't share their beliefs. Humanity has stressed differences over commonality. The failure to recognize the universal fact of each individual's experience of his or her connection with the Divine as a unifying force, has been an insurmountable obstacle to the realization of our inherent relatedness.
- 
+
 Jesus spoke, 
 
 > And for a long time there will live on earth those timid, fearful, and hesitant individuals who will prefer thus to secure their religious consolations, even though, in so casting their lot with the religions of authority, they compromise the sovereignty of personality, debase the dignity of self-respect, and utterly surrender the right to participate in that most thrilling and inspiring of all possible human experiences: the personal quest for truth, the exhilaration of facing the perils of intellectual discovery, the determination to explore the realities of personal religious experience, the supreme satisfaction of experiencing the personal triumph of the actual realization of the victory of spiritual faith over intellectual doubt as it is honestly won in the supreme adventure of all human existence—man seeking God, for himself and as himself, and finding him ([UB 155:5.10](/en/The_Urantia_Book/155#p5_10)).
@@ -62,7 +62,7 @@ For the next section, with an interfaith audience, the _school at Urmia_ was an 
 
 What was even more striking was Jesus' teaching on Divine Sovereignty. His words, which are probably even more pertinent today, give us the formula for peace between the religions in a few short sentences.
 
-> Religious peace—brotherhood—can never exist unless all religions are willing to completely divest themselves of all ecclesiastical authority and fully surrender all concept of spiritual sovereignty. God alone is spirit sovereign...You cannot have equality among religions (religious liberty) without having religious wars unless all religions consent to the transfer of all religious sovereignty to some superhuman level, to God himself ([UB 134:4.4](/en/The_Urantia_Book/134#p4_4)).
+> Religious peace—brotherhood—can never exist unless all religions are willing to completely divest themselves of all ecclesiastical authority and fully surrender all concept of spiritual sovereignty. God alone is spirit sovereign...You cannot have equality among religions (religious liberty) without having religious wars unless all religions consent to the transfer of all religious sovereignty to some superhuman level, to God himself ([UB 134:4.4-5](/en/The_Urantia_Book/134#p4_4)).
 
 It is of paramount importance to consider the fact that this concept of Divine Sovereignty has never been tried. What if the religious wars occurring in the Middle East, Indonesia, northern India, the Phillipines and wherever else, were to yield to God's sovereignty? Since religious institutions are bent on survival and expansion just as nationalism drives countries and ethnic regions in similar fashion, it could be argued that the realization and acceptance of this concept of Divine Sovereignty is one of the most important events that could happen today.
 
@@ -90,3 +90,7 @@ To learn more about readers involved in the inter-faith movement, and how you ca
 
 > Les has a background in music, graphics and web design. He serves as Vice President of the Urantia Society of Greater New York. He is on the board of The Interfaith Council of New York and The Temple of Understanding where he participates in multi-religious activities. He also serves as webmaster of these three organizations. Les has been reading _The Urantia Book_ since 1973.
 {.is-info}
+
+## References
+
+- Article obtained from: https://urantia-book.org/archive/newsletters/herald/

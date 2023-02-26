@@ -201,11 +201,11 @@ Quienes creemos en las enseñanzas de Urantia somos llamados voluntariamente a u
 ¿Qué haría Jesús? Dios los bendiga mis amigos, mis hermanos y hermanas del destino, y los guarde en su amor por siempre.
 
 > Paul Snider ha estado estudiando _El libro de Urantia_ desde 1965 y ha pasado más de 25 años participando activamente en el movimiento Urantia. Él y su esposa, Mary, son padres de siete hijos, que ahora tienen entre 31 y 44 años.
-{.es-info}
+{.is-info}
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
 ## Notas
 

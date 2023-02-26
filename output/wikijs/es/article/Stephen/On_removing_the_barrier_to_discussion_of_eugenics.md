@@ -43,7 +43,7 @@ Aquí muestra su mano. Si uno cree en una revelación de Dios, no puede ser neut
 
 El nazismo fue en gran medida una revuelta contra el entorno rousseauniano en Europa. En la práctica, tanto el marxismo como el nazismo han sido profundamente antieugenésicos, a pesar de que los nazis se cubrieron de retórica eugenésica mientras que los marxistas la repudiaron. Ambos se han dedicado al cefalocidio: la matanza de cerebros, es decir, la represión sistemática de pensadores independientes y líderes espirituales. En este artículo me concentro en la ideología de izquierda no porque sea más incorrecta que la ideología de derecha, sino porque la academia en Estados Unidos ha sido una desvergonzada defensora de ella.
 
-Según Max Scheler, la fuerza psicológica detrás del humanitarismo de Rousseau es el resentimiento. «Humanitario... 'amor a la humanidad'... iguala todas las diferencias objetivas de valor entre hombre y hombre. No es un acto espiritual del alma, sino un patetismo sensual destemplado y hirviente... que borra el carácter único ordenado por Dios de cada individuo, clase, raza o nación a favor de un mundo puro homogeneizado de la humanidad. Una vez negada la referencia común de todos los hombres a Dios, y con ella la última más profunda y eficaz interconexión de las almas, su vínculo en y por Dios, es imposible seguir asumiendo cualquier jerarquía de valores a los que deba dirigirse nuestro amor. en medida variable de acuerdo con leyes definidas de preferencia».
+Según Max Scheler, la fuerza psicológica detrás del humanitarismo de Rousseau es el resentimiento. «Humanitario... ‘amor a la humanidad’... iguala todas las diferencias objetivas de valor entre hombre y hombre. No es un acto espiritual del alma, sino un patetismo sensual destemplado y hirviente... que borra el carácter único ordenado por Dios de cada individuo, clase, raza o nación a favor de un mundo puro homogeneizado de la humanidad. Una vez negada la referencia común de todos los hombres a Dios, y con ella la última más profunda y eficaz interconexión de las almas, su vínculo en y por Dios, es imposible seguir asumiendo cualquier jerarquía de valores a los que deba dirigirse nuestro amor. en medida variable de acuerdo con leyes definidas de preferencia».
 
 ## El significado religioso de la igualdad
 
@@ -85,4 +85,4 @@ Es importante reconocer que el factor dominante en la ideología nazi no tenía 
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

@@ -47,7 +47,7 @@ As we all know, this default to secularism took its toll on the revelation movem
 Our difficulties with conflict resolution were strong evidence of this scourge of secularism. Jesus enshrined a religious practice for dealing with offenses by congregation members upon one another, in his sermon on forgiveness. [[UB 159:1.1-6](/en/The_Urantia_Book/159#p1_1)] But fearing overmuch the downside consequences of institutional religion, we had no congregations who could act on this rule! Congregation or not, no existing constitution of any local society or study group that I know of incorporates this healthy and sacred practice for dealing with an errant brother or sister.
 
 Lacking in social support for this practice, individuals who had been hurt or offended by others in a Urantian group had little choice but to turn to strictly worldly methods for resolving the problem—a resort to gossip that sometimes descended into emotional blackmail and ostracism that would lead all too often to splits in study groups and societies and to the flight of many members from participation. In the secular environment of the times, no grouping in the Urantia movement made itself subject to this requirement for resolving conflict. It is thus no surprise that this would eventually lead to the specter of brothers “going to the law against one another.” Such phenomena are the most indicting evidence we have of the cost of secularism; our famous divisions and spectacular litigations are the bitter harvest of our inability to make actual religious practices the center of our community life. Let's remember: “_When a group engages in community prayer...they are all made better because of participation_. . . . _Confession, repentance, and prayer have led individuals, cities, nations, and whole races to mighty efforts of reform and courageous deeds of valorous achievement._” [[UB 91:5.2](/en/The_Urantia_Book/91#p5_2)]
- 
+
 Fellowship conferences have often been a rare bright spot for such group exercises of worship and the prayer of faith. And in certain pockets, inspired individuals championed the idea of creating religious congregations that were separate from the Urantia societies and study groups. Others have engaged in fruitful interfaith activities. The evolution of the Retreat Network and of an annual Florida conference called Celestial Nights are also most encouraging in this connection.
 
 ## Reviving the rich potentials of practice
@@ -77,4 +77,8 @@ It all really does come down to the truth-hungry individual standing nakedly bef
 > Byron Belitsos has been a student of _The Urantia Book_ since 1974. He works as a writer, editor, and book publisher and lives in San Rafael, CA.
 {.is-info}
 
-> The characteristic difference between a social occasion and a religious gathering is that in contrast with the secular the religious is pervaded by the atmosphere of communion. [[UB 104:4.1](/en/The_Urantia_Book/104#p4_1)]
+> The characteristic difference between a social occasion and a religious gathering is that in contrast with the secular the religious is pervaded by the atmosphere of communion. [[UB 103:4.1](/en/The_Urantia_Book/104#p4_1)]
+
+## References
+
+- Article obtained from: https://urantia-book.org/archive/newsletters/herald/

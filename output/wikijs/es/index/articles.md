@@ -17,7 +17,7 @@ Fuentes: Ver [Referencias](#referencias)
 | :ballot_box_with_check: | [Cómo es de grande Orvonton](/es/article/How_big_is_Orvonton)                                                                   | Norm Du Val       | Astronomy, Cosmology                                                                |
 | :ballot_box_with_check: | [Predicciones científicas de _El Libro de Urantia_](/es/article/Irwin_Ginsburgh/Scientific_Predictions_of_The_Urantia_Book) ^1^ | Irwin Ginsburgh   | The Urantia Book, Astronomy, Cosmology, Biology and Genetics, Anthropology, Physics |
 | :ballot_box_with_check: | [Carta para astrónomos y astrofísicos – 2016](/es/article/A_Letter_to_Astronomers_and_Astrophysicists)                          |                   | Astronomy, Cosmology                                                                |
-| :ballot_box_with_check: | [Historia del Movimiento Urantia](/en/article/William_S_Sadler/A_History_of_the_Urantia_Movement)                               | William S. Sadler | The Urantia Book, The Urantia Book—Authorship                                       |
+| :ballot_box_with_check: | [Historia del Movimiento Urantia](/es/article/William_S_Sadler/A_History_of_the_Urantia_Movement)                               | William S. Sadler | The Urantia Book, The Urantia Book—Authorship                                       |
 
 1- Este artículo es una actualización de 2017 del artículo original publicado en Fellowship Herald, Vol 2. No. 1 y 2
 
@@ -45,7 +45,7 @@ Fuente: https://urantia-book.org/archive/newsletters/innerface/index.html
 | :ballot_box_with_check: | Innerface | Vol. 01, <br>No. 3. | [El hijo pródigo](/es/article/Ann_Bendall/The_Prodigal_Son)                                                                                            | Ann Bendall                | Jesus, Jesus teachings, Religion                     |
 | :ballot_box_with_check: | Innerface | Vol. 01, <br>No. 3. | [¿Cuándo un «Corazón» no es un «Corazón»?](/es/article/When_is_a_Heart_not_a_Heart)                                                                    | Marcus Borg                | Jesus, Jesus teachings, Religion                     |
 | :ballot_box_with_check: | Innerface | Vol. 01, <br>No. 3. | [The Missing Link](/es/article/The_Missing_Link)                                                                                                       |                            | Religion, The Urantia Book                           |
-| :ballot_box_with_check: | Innerface | Vol. 01, <br>No. 3. | [Corazón —el Alfa y Omega de la Espiritualidad](/en/article/Rob_Crickett/Heart_Alpha_and_Omega_of_Spirituality)                                        | Rob Crickett               | Religion                                             |
+| :ballot_box_with_check: | Innerface | Vol. 01, <br>No. 3. | [Corazón —el Alfa y Omega de la Espiritualidad](/es/article/Rob_Crickett/Heart_Alpha_and_Omega_of_Spirituality)                                        | Rob Crickett               | Religion                                             |
 | :ballot_box_with_check: | Innerface | Vol. 01, <br>No. 3. | [El corazón que se quedó sin amor](/es/article/Ann_Bendall/The_Heart_that_Became_Loveless)                                                             | Ann Bendall                | Psychology, The Urantia Book                         |
 | :ballot_box_with_check: | Innerface | Vol. 01, <br>No. 3. | [¡Los celos, el veneno del corazón! ¿Cómo lo enfrentó Jesús?](/es/article/Ann_Bendall/Jealousy_the_Heart_Poison_How_did_Jesus_deal_with_it)            | Ann Bendall                | Jesus, Jesus teachings, Psychology                   |
 | :ballot_box_with_check: | Innerface | Vol. 01, <br>No. 3. | [Arriba con los Ángeles](/es/article/Dick_Bain/High_on_Angels)                                                                                         | Dick Bain                  | Religion, The Urantia Book                           |
@@ -800,33 +800,49 @@ Fuente:
 
 <br>
 
+### Volume 3, Number 1, 2001 (Summer)
 
+<br>
 
-### Volumen 3
+<figure class="image urantiapedia image-style-align-left">
+  <img src="/image/article/Herald_covers/Herald2001.jpg">
+</figure>
 
-| Revisado              | Fuente | Ejemplar       | Título                                                       | Autor              | Etiquetas |
-| --------------------- | ------ | -------------- | ------------------------------------------------------------ | ------------------ | --------- |
-| :white_square_button: | Herald | Vol. 03, No. 1 | "A Source Study Of 'Instruction For Teachers And Believers'" | Matthew Block      |           |
-| :white_square_button: | Herald | Vol. 03, No. 1 | "Show Us A Miracle!"                                         | B. Sarmast         |           |
-| :white_square_button: | Herald | Vol. 03, No. 1 | "Universal Religion: An Interfaith Presentation"             | Les Jamieson       |           |
-| :white_square_button: | Herald | Vol. 03, No. 1 | "Ethical Eugenics: A Modest Proposal For The 21st Century"   | Charles Montgomery |           |
+| Title                                                                                                                                                | Author             | Tags |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---- |
+| [Un estudio fuente de «Instrucción para maestros y creyentes»](/es/article/Matthew_Block/A_Source_Study_Of_Instruction_For_Teachers_And_Believers)   | Matthew Block      |
+| [¡Muéstranos un milagro!](/es/article/Behzad_Sarmast/Show_Us_a_Miracle)                                                                              | B. Sarmast         |
+| [Religión universal: una presentación interreligiosa](/es/article/Les_Jamieson/Universal_Religion_An_Interfaith_Presentation)                        | Les Jamieson       |
+| [Eugenesia ética: una modesta propuesta para el siglo XXI](/es/article/Charles_Montgomery/Ethical_Eugenics_A_Modest_Proposal_For_The_21st_Century)   | Charles Montgomery |
 
-### Volumen 4
+<br>
+<br>
+<br>
+<br>
+<br>
 
-| Revisado              | Fuente | Ejemplar       | Título                                               | Autor            | Etiquetas |
-| --------------------- | ------ | -------------- | ---------------------------------------------------- | ---------------- | --------- |
-| :white_square_button: | Herald | Vol. 04, No. 1 | "Reflections on the Urantia Movement in 2002"        | Philip Calabrese |           |
-| :white_square_button: | Herald | Vol. 04, No. 1 | "Centering — A Method of Divine Embrace"             | Marvin Gawryn    |           |
-| :white_square_button: | Herald | Vol. 04, No. 1 | "Reflections on the Urantia Movement in 2002"        | Philip Calabrese |           |
-| :white_square_button: | Herald | Vol. 04, No. 1 | "Eugenics and The Urantia Book: Another Perspective" | Paul Premsagar   |           |
-| :white_square_button: | Herald | Vol. 04, No. 1 | "Revelatory Mouthpiecing"                            | Finlan           |           |
-| :white_square_button: | Herald | Vol. 04, No. 1 | "Faith Wiring in the Brain"                          | Sara Blackstock  |           |
-| :white_square_button: | Herald | Vol. 04, No. 1 | "In Search of the Error So Great"                    | Nancy Johnson    |           |
-| :white_square_button: | Herald | Vol. 04, No. 1 | "Jesus' Miracles and the Father's Will"              | Ron Besser       |           |
-| :white_square_button: | Herald | Vol. 04, No. 1 | "Not What We Give, But What We Share"                | James Lowell     |           |
-| :white_square_button: | Herald | Vol. 04, No. 1 | "A Demystification and Redefinition of Cult"         | Alison Gardner   |           |
-| :white_square_button: | Herald | Vol. 04, No. 1 | "Religious Practice and the Urantia Revelation"      | Byron Belitsos   |           |
-| :white_square_button: | Herald | Vol. 04, No. 1 | "The Gift of Tolerance"                              | Karen Larson     |           |
+### Volume 4, Number 1, 2002 (Summer)
+
+<br>
+
+<figure class="image urantiapedia image-style-align-left">
+  <img src="/image/article/Herald_covers/Herald2002.jpg">
+</figure>
+
+| Title                                                                                                                                | Author           | Tags |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---- |
+| [Reflexiones sobre el Movimiento Urantia en 2002](/es/article/Philip_Calabrese/Reflections_on_the_Urantia_Movement_in_2002)          | Philip Calabrese |
+| [Centrar: un método de abrazo divino](/es/article/Marvin_Gawryn/Centering_A_Method_of_Divine_Embrace)                                | Marvin Gawryn    |
+| [La eugenesia y El libro de Urantia: otra perspectiva](/es/article/Paul_Premsagar/Eugenics_and_The_Urantia_Book_Another_Perspective) | Paul Premsagar   |
+| [Boquilla reveladora](/es/article/Finlan/Revelatory_Mouthpiecing)                                                                    | Finlan           |
+| [Conexión de la fe en el cerebro](/es/article/Sara_Blackstock/Faith_Wiring_in_the_Brain)                                             | Sara Blackstock  |
+| [En busca del error tan grande](/es/article/Nancy_Johnson/In_Search_of_the_Error_So_Great)                                           | Nancy Johnson    |
+| [Los milagros de Jesús y la voluntad del Padre](/es/article/Ron_Besser/Jesus_Miracles_and_the_Fathers_Will)                          | Ron Besser       |
+| [Una desmitificación y redefinición del culto](/es/article/Alison_Gardner/A_Demystification_and_Redefinition_of_Cult)                | Alison Gardner   |
+| [La práctica religiosa y la revelación de Urantia](/es/article/Byron_Belitsos/Religious_Practice_and_the_Urantia_Revelation)         | Byron Belitsos   |
+| [El regalo de la tolerancia](/es/article/Karen_Larson/The_Gift_of_Tolerance)                                                         | Karen Larson     |
+
+<br>
 
 ### Volumen 5
 

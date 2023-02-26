@@ -44,7 +44,7 @@ Identificador abreviado de la licencia: **CC-BY-SA-3.0**
 > - los [derechos morales] del autor (https://en.wikipedia.org/wiki/Moral_rights); y
 > - los derechos que otras personas pueden tener sobre la obra en sí o sobre cómo se utiliza la obra, como [publicidad](https://en.wikipedia.org/wiki/Personality_rights) o [privacidad](https://en .wikipedia.org/wiki/Privacy_law).
 > - **Aviso**—Para cualquier reutilización o distribución, debes dejar en claro a los demás los términos de la licencia de este trabajo. La mejor manera de hacerlo es con un enlace a [https://creativecommons.org/licenses/by-sa/3.0/](https://creativecommons.org/licenses/by-sa/3.0/)
-{.es-info}
+{.is-info}
 
 
 ### Restricciones
@@ -101,7 +101,7 @@ El contenido con restricciones debido a los derechos de autor se identifica medi
 > **Con el entendimiento de que**:
 > - **Otorgas licencias gratuitas a tus contribuciones**: por lo general, debes licenciar tus contribuciones y ediciones a Urantiapedia bajo una licencia libre y abierta (a menos que tu contribución sea de dominio público).
 > - **Sin consejo profesional**: el contenido de los artículos es solo para iluminación espiritual y no constituye un consejo profesional.
-{.es-info}
+{.is-info}
 
 
 ### Política de privacidad
@@ -131,7 +131,7 @@ El contenido con restricciones debido a los derechos de autor se identifica medi
 > - Nuestros administradores de Urantiapedia tienen herramientas que les otorgan acceso limitado a información no pública sobre contribuciones recientes para que puedan proteger Urantiapedia y hacer cumplir las políticas.
 > - Como parte de nuestro compromiso de mostrar compromiso con el proyecto Urantiapedia, ocasionalmente divulgamos información pública e información agregada o no personal al público en general a través de volcados de datos y conjuntos de datos.
 > - Para la protección de Urantiapedia y otros usuarios, si no está de acuerdo con esta Política de privacidad, no puedes usar Urantiapedia.
-{.es-info}
+{.is-info}
 
 ### Descargos de responsabilidad
 

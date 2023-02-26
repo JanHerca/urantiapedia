@@ -60,4 +60,4 @@ Que sea un punto para orar por esto hoy. Dirijamos desde nuestras almas en cada 
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

@@ -41,4 +41,4 @@ No parece haber ninguna razón esencial para equiparar una unidad de control de 
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

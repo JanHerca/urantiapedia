@@ -77,8 +77,8 @@ _El Libro de Urantia_ promete que «_tarde o temprano deberá surgir otro Juan e
 Puede ser útil pensar dónde deben colocarse nuestras verdaderas lealtades y prioridades, tanto a nivel institucional como individual, personal. Primero el nivel organizacional. El primer presidente de la Hermandad Urantia, William S. Sadler, Jr., abordó estos asuntos en su informe a la Primera Asamblea Trienal de Delegados. «_El Libro de Urantia_ no es un Fin en sí mismo. La Hermandad no es un verdadero Fin; son Medios para un Fin». «El único Fin verdadero es el Padre Universal». La dedicación a la difusión —la propagación de _El libro de Urantia_— es, según el Sr. Sadler, una lealtad secundaria. Nuestra principal lealtad espiritual y dedicación es al Padre Universal, y sólo a él. Un Urantiano sectario es aquel que ha permitido que la importancia de _El Libro de Urantia_ prevalezca sobre la importancia de Dios. La Hermandad [hoy Fellowship e IUAI, y la Fundación fueron designadas para difundir el libro; el libro está diseñado para acercar a Dios y al hombre«. Resumió diciendo: »Si podemos separar claramente los Medios y los Fines, si siempre podemos subordinar los Medios al verdadero Fin, entonces continuaremos por mucho tiempo como una verdadera Hermandad, y evitaremos convertirnos en una iglesia más o una secta más en el mundo...; un mundo que no necesita ni una nueva iglesia ni una nueva secta«. y evitaremos convertirnos en otra iglesia u otra secta en el mundo...; un mundo que no necesita ni una nueva iglesia ni una nueva secta». y evitaremos convertirnos en otra iglesia u otra secta en el mundo...; un mundo que no necesita ni una nueva iglesia ni una nueva secta".
 
 > Carolyn Kendall ha sido lectora desde 1951 y fue miembro del Foro, junto con sus padres, hermano y esposo, Tom. Actualmente es presidenta de la First Society of Chicago y miembro del Fellowship Publications Committee.
-{.es-info}
+{.is-info}
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

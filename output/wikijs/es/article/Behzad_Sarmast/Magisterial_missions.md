@@ -89,4 +89,4 @@ Sigan con su vida, continúen con la labor que Miguel nos encomendó, pero no de
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

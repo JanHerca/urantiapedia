@@ -55,4 +55,4 @@ No podemos encontrar un mejor ejemplo de progresión humana a través de los cí
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

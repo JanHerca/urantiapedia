@@ -28,4 +28,4 @@ La revelación del amor de Dios en la vida humana del Hijo del Hombre seguirá e
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

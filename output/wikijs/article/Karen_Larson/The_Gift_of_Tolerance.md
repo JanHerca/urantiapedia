@@ -58,3 +58,7 @@ He calls them “gifts.” Perhaps tolerance is more than just “putting up wit
 
 > Karen Larsen is the chairwoman of the Membership/ Hospitality Committee of _The Urantia Book_ Society of Greater New York. This article is a written form of Karen's presentation to the UBSGNY on September 16, 2001.
 {.is-info}
+
+## References
+
+- Article obtained from: https://urantia-book.org/archive/newsletters/herald/

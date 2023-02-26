@@ -178,3 +178,7 @@ It is the individual himself, who must break free from these profane interruptio
 
 > Alison Gardner discovered _The Urantia Book_ in 1970 after hearing excerpts read on the radio. She was a founder of the Connecticut Society, has served on the General. Council and as a member of the Education Committee, and is Chair of the Fellowship's Ad Hoc Public Relations Committee. Alison has served as moderator and contributor for the Wrightwood Series. She and her husband, Dan Massey, have two teenage children.
 {.is-info}
+
+## References
+
+- Article obtained from: https://urantia-book.org/archive/newsletters/herald/

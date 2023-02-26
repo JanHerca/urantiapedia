@@ -65,3 +65,5 @@ I have seen a miracle!
 
 ## References
 
+- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+

@@ -18,7 +18,7 @@ I believe Jesus' post-baptismal decisions were completely in line with the Fathe
 
 Remember, the midwayer record is ours, but their reference material is not. We have no way to judge how well they synthesized the information they had at hand. But they did have one unimpeachable source no written record can duplicate—their own observations as these events took place. They were eyewitnesses.
 
-“_What_ a Creator Son _desires and his Father wills IS_. [UB 145:3.11](/en/The_Urantia_Book/145#p3_11) Below is the same statement in full context, which is preceded by the eyewitness midwayer's comment: ”_Evidently the Father's will interposed no objection, for the words of the Master has scarcely been uttered_..." (when the celestial personalities began healing the assembled throng).[UB 45:3.10](/en/The_Urantia_Book/45#p3_10)
+“_What_ a Creator Son _desires and his Father wills IS_. [UB 145:3.11](/en/The_Urantia_Book/145#p3_11) Below is the same statement in full context, which is preceded by the eyewitness midwayer's comment: “_Evidently the Father's will interposed no objection, for the words of the Master has scarcely been uttered_...” (when the celestial personalities began healing the assembled throng).[UB 145:3.10](/en/The_Urantia_Book/45#p3_10)
 
 Then:
 
@@ -68,3 +68,7 @@ However he managed it, and in spite of appearances, Jesus committed no errors—
 
 > Ron Besser, a student of _The Urantia Book_ for over 23 years, recently retired from the engineering business and plans to devote more time to projects associated with the revelation's dissemination.
 {.is-info}
+
+## References
+
+- Article obtained from: https://urantia-book.org/archive/newsletters/herald/

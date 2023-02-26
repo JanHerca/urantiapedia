@@ -51,4 +51,4 @@ Así encontramos que la fe (práctica espiritual) y la esperanza son interdepend
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

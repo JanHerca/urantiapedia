@@ -53,10 +53,10 @@ También se nos dice «…las órdenes de criaturas nativas de los universos loc
 El Supremo parece crecer desde todos los posibles puntos de partida experienciales en el cumplimiento de su destino, y nosotros participamos en ese crecimiento, no solo como hijos ascendentes, sino en muchas otras manifestaciones tales como identificación de género, conciencia, tipos de personalidad, situaciones variables de planetario. origen ó una profusión casi infinita de valores y experiencias diferenciales. Y todas las expresiones de la realidad finita son esenciales para la Supremacía. Es sólo nuestra inmadurez espiritual e intelectual la que designa un destino, o expresión del Supremo, como de más valor que otro. Todos somos igualmente necesarios para la realización del Dios del tiempo y el espacio, y lo apreciaremos más experiencialmente a medida que avancemos a través de las eras.
 
 > Linda Buselli ha sido lectora durante 28 años, y ella y su esposo Bob se desempeñaron como coordinadores de área de Indiana durante muchos años. Es miembro del Comité de Publicaciones y ahora reside en Dallas, Tx. Ambos niños, Michael (24) y Gina (22) son activos en el movimiento Urantia.
-{.es-info}
+{.is-info}
 
 > El Supremo es la belleza de la armonía física, la verdad de los significados intelectuales y la bondad de los valores espirituales. Es el dulzor del éxito verdadero y la alegría de los logros perpetuos. Es la superalma del gran universo, la conciencia del cosmos finito, la culminación de la realidad finita, y la personificación de la experiencia del Creador y la criatura. A lo largo de toda la eternidad futura, Dios Supremo expresará la realidad de la experiencia volitiva en las relaciones trinitarias de la Deidad. [LU 117:1.1](/es/The_Urantia_Book/117#p1_1)
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

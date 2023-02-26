@@ -27,7 +27,7 @@ Urantiapedia se dedica a la difusión de las revelaciones de _El Libro de Uranti
 
 ## 2. Política de privacidad
 
-Le pedimos que revise los términos de nuestra [Política de privacidad](/en/help/privacy_policy), para que sepa cómo recopilamos y usamos su información. Debido a que nuestros servicios son utilizados por personas de todo el mundo, la información personal que recopilamos puede almacenarse y procesarse en nuestras instalaciones. Al utilizar nuestros servicios, usted acepta dicha transferencia de información fuera de su país. 
+Le pedimos que revise los términos de nuestra [Política de privacidad](/es/help/privacy_policy), para que sepa cómo recopilamos y usamos su información. Debido a que nuestros servicios son utilizados por personas de todo el mundo, la información personal que recopilamos puede almacenarse y procesarse en nuestras instalaciones. Al utilizar nuestros servicios, usted acepta dicha transferencia de información fuera de su país. 
 
 ## 3. Contenido que alojamos 
 
@@ -171,8 +171,8 @@ Si se determina que alguna disposición o parte de una disposición de estos Té
 
 ## ¡Gracias!
 
-Agradecemos que se haya tomado el tiempo de leer estos Términos de uso y estamos muy contentos de que contribuya a Urantiapedia y utilice nuestros servicios. A través de sus contribuciones, está ayudando a construir un [gran almacenamiento de conocimiento](/en/The_Urantia_Book/27#p5_5) sobre la **Revelación de la Quinta Época** en la Tierra, algo realmente grande, no solo una importante colección de referencia editada del contenido de _El Libro de Urantia_ que brinda iluminación espiritual y religiosa a millones de personas que de otro modo no tendrían acceso, pero también una comunidad vibrante de compañeros comprometidos y con ideas afines, centrados en un objetivo muy noble. 
+Agradecemos que se haya tomado el tiempo de leer estos Términos de uso y estamos muy contentos de que contribuya a Urantiapedia y utilice nuestros servicios. A través de sus contribuciones, está ayudando a construir un [gran almacenamiento de conocimiento](/es/The_Urantia_Book/27#p5_5) sobre la **Revelación de la Quinta Época** en la Tierra, algo realmente grande, no solo una importante colección de referencia editada del contenido de _El Libro de Urantia_ que brinda iluminación espiritual y religiosa a millones de personas que de otro modo no tendrían acceso, pero también una comunidad vibrante de compañeros comprometidos y con ideas afines, centrados en un objetivo muy noble. 
 
 --- 
 
-Regrese a la página con un resumen sobre [Licencia, Términos de uso y otra información legal](/en/license).
+Regrese a la página con un resumen sobre [Licencia, Términos de uso y otra información legal](/es/license).

@@ -49,6 +49,6 @@ El sólido núcleo del movimiento Urantia ha superado estas tribulaciones con re
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
 - Este artículo también se publicó (en formato corto) aquí: https://urantia-book.org/archive/newsletters/innerface/vol3_3/page3.html (y también está disponible en Urantiapedia aquí: [El desafío del siglo XXI](/es/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century))

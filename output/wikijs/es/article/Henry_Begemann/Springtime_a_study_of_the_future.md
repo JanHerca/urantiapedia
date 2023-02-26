@@ -115,4 +115,4 @@ De esta manera y en muchas otras podríamos prepararnos para «_la próxima era.
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

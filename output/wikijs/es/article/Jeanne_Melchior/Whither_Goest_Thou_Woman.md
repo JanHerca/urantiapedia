@@ -44,7 +44,7 @@ Claramente, _El Libro de Urantia_ fue escrito en el idioma de otra generación, 
 
 Afortunadamente, Dios nos envía mensajes a todos todos los días si abrimos nuestro corazón para escuchar. «_El verdadero hijo que posee perspicacia universal busca el Espíritu viviente de la Verdad en toda palabra sabia..._» ([LU 180:5.4](/es/The_Urantia_Book/180#p5_4)) De acuerdo con este pensamiento, y debido a la muchos problemas que encuentro en _El libro de Urantia_, mi elección ha sido dejarlo de lado por ahora y dirigir mi atención a otros depósitos de la verdad, a escritores que no ocultan sus orígenes humanos. Porque me temo que estoy de acuerdo con la historiadora Gerda Lerner que dice en su libro _La creación del patriarcado_:
 
-> «La falacia androcéntrica, que está integrada en todas las construcciones mentales de la civilización occidental, no puede rectificarse 'agregando mujeres'. Lo que exige para la rectificación es una reestructuración radical del pensamiento y el análisis que acepte de una vez por todas el hecho de que la humanidad consiste en partes iguales de hombres y mujeres y que las experiencias, pensamientos e intuiciones de ambos sexos deben estar representados en cada generalización que está hecho sobre los seres humanos». (pág. 220)
+> «La falacia androcéntrica, que está integrada en todas las construcciones mentales de la civilización occidental, no puede rectificarse ‘agregando mujeres’. Lo que exige para la rectificación es una reestructuración radical del pensamiento y el análisis que acepte de una vez por todas el hecho de que la humanidad consiste en partes iguales de hombres y mujeres y que las experiencias, pensamientos e intuiciones de ambos sexos deben estar representados en cada generalización que está hecho sobre los seres humanos». (pág. 220)
 
 Estoy esperando el día en que, clara e inequívocamente, Dios comience a hablar tanto a las mujeres como a los hombres en un lenguaje que de ninguna manera disfraza o distorsiona la verdad, y que no hace ninguna afirmación sutil de que un género esté subordinado al otro. Entonces, quizás, la quinta revelación de época se hará realidad.
 
@@ -53,4 +53,4 @@ Estoy esperando el día en que, clara e inequívocamente, Dios comience a hablar
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

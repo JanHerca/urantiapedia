@@ -48,4 +48,4 @@ Fue solo después de que Jesús comenzó a «tener fe en la lealtad e integridad
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

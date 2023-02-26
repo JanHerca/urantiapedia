@@ -61,8 +61,8 @@ Qué maravilla es saber que tenemos una mano directa en el crecimiento del Dios 
 Pero para llegar allí, debemos lograr emplear la doctrina del juego limpio, basada en la doctrina de la igualdad de condiciones, mientras la sociedad moderna intenta realinearse en el camino hacia la luz y la vida eventuales. La ética superior exige que los fines sean preexistentes en los medios.
 
 > M. Charles Laurence Olivea es un lector de El libro de Urantia desde hace mucho tiempo, atraído por la claridad de su lenguaje, la sabiduría de pensamiento y la incomparable historia de Jesús. Él y su esposa Mary tienen dos hijos, Peter (30) y Gordon (29). El año pasado, Charles se retiró de su carrera como profesor de historia en una escuela secundaria pública. Él y Mary ahora viven en Santa Fe, NM.
-{.es-info}
+{.is-info}
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

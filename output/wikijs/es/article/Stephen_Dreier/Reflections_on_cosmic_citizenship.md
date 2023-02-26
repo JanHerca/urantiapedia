@@ -59,10 +59,10 @@ La práctica de la «ciudadanía cósmica» es doblemente bendecida. Mientras bu
 Estamos apenas al comienzo de esta aventura de descubrimiento. Hay un sinfín de conexiones de este tipo que esperan ser aclaradas e incorporadas a la vida de quienes estudian _El libro de Urantia_ y, posteriormente, al mundo. En la medida en que identificamos estas conexiones y las hacemos reales en nuestras vidas, experimentamos la «ciudadanía cósmica» como una realidad personal creciente, que enriquece tanto esta vida como la siguiente, y provoca ondas que se expanden hasta los límites de la realidad suprema.
 
 > Stephen (Steve) Dreier, profesor jubilado de química, ex presidente de _The Urantia Book_ Fellowship, actualmente se desempeña como vicepresidente de The Fellowship. Ha sido un estudioso del libro durante más de 25 años y ha invertido incontables horas al servicio de The Fellowship, su sociedad local y lectores en todas partes.
-{.es-info}
+{.is-info}
 
 > La fe arrastra con mucho gusto a la razón hasta donde la razón puede llegar; luego la fe continúa con la sabiduría hasta el máximo límite filosófico; y después se atreve a lanzarse a un viaje sin límites y sin fin por el universo en compañía únicamente de la verdad. [LU 103:9.7](/es/The_Urantia_Book/103#p9_7)
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

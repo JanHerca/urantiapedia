@@ -31,7 +31,7 @@ Indice de artículos y ayudas de estudio de Dick:
 | :white_square_button:   | Innerface          | Vol. 04, No. 2.          | "Mars: The Bearer of Life?"                                                                     | Astronomy                           |
 | :white_square_button:   | Innerface          | Vol. 04, No. 3.          | "Wrestling with Jesus."                                                                         | Jesus, Jesus teachings              |
 | :white_square_button:   | Innerface          | Vol. 04, No. 5.          | "A Urantia Cult."                                                                               | Church, Religion                    |
-| :white_square_button:   | Innerface          | Vol. 04, No. 6.          | "The 'E' Word."                                                                                 | Morality, The Urantia Book          |
+| :white_square_button:   | Innerface          | Vol. 04, No. 6.          | "The ‘E’ Word."                                                                                 | Morality, The Urantia Book          |
 | :white_square_button:   | Innerface          | Vol. 05, No. 1.          | "Listening to your Dreams."                                                                     | The Urantia Book                    |
 | :white_square_button:   | Innerface          | Vol. 05, No. 5.          | "Paradigms for a New Religion. Unitarianism—a Lesson in Tolerance."                             | Religion                            |
 | :white_square_button:   | Innerface          | Vol. 05, No. 6.          | "Cosmic Reflections. The Visible Universe"                                                      | Cosmology, The Urantia Book         |

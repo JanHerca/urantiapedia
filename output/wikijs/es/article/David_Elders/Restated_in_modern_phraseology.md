@@ -59,8 +59,8 @@ Hace dos mil años, hubo algunos que vieron al Hijo Creador de Dios en el ser de
 > ... «Crees que eres mejor que la gente de Nazaret; te fuiste de aquí, pero tu hermano es un obrero común y tus hermanas viven todavía entre nosotros. Conocemos a tu madre, María. ¿Donde se encuentran hoy? Hemos escuchado grandes cosas sobre ti, pero observamos que no haces ningún prodigio a tu regreso». Jesús les contestó: «Amo a la gente que vive en la ciudad donde crecí, y me regocijaría veros entrar a todos en el reino de los cielos, pero no me corresponde determinar la realización de las obras de Dios. Las transformaciones de la gracia se forjan como respuesta a la fe viviente de aquellos que son sus beneficiarios». ([LU 150:9.2](/es/The_Urantia_Book/150#p9_2))
 
 > Como estudiante de _El Libro de Urantia_ durante casi 30 años, David Elders ha tratado de estar a la altura de los desafíos y responsabilidades de sus enseñanzas en su vida personal, así como dentro de la Hermandad-Compañerismo a través del servicio en varios puestos funcionales. Él y su esposa, Marta, quien comparte esta dedicación a las enseñanzas, han criado a dos hijos que se han embarcado en sus propios viajes familiares.
-{.es-info}
+{.is-info}
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

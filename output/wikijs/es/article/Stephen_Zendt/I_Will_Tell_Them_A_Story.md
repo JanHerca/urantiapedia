@@ -39,4 +39,4 @@ Mientras practica perfeccionar sus habilidades de escritura, tenga en cuenta la 
 > ... No podéis permanecer inmóviles en los asuntos del reino eterno. Mi Padre exige que todos sus hijos crezcan en la gracia y en el conocimiento de la verdad. Vosotros, que conocéis estas verdades, debéis producir cada vez más frutos del espíritu y manifestar una devoción creciente al servicio desinteresado de vuestros compañeros servidores. Y recordad que, en la medida en que ayudáis al más humilde de mis hermanos, ese servicio me lo habréis hecho a mí. ([LU 176:3.5](/es/The_Urantia_Book/176#p3_5))
 
 > Stephen Zendt, lector desde 1971 y anfitrión de un grupo de estudio en San Francisco, actualmente es miembro del Consejo General, el Comité de Educación de la Fraternidad y está creando un panel de Wrightwood sobre parábolas. Ha trabajado en varios proyectos como narrador, incluido _El libro de Urantia_ en cinta.
-{.es-info}
+{.is-info}

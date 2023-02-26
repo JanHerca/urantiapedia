@@ -81,7 +81,7 @@ Introduce un **título**, **descripción** y **etiquetas** para tu página.
 Finalmente, haz clic en **Aceptar** para cerrar el cuadro de diálogo y comenzar a escribir.
 
 > Siempre puedes volver al cuadro de diálogo Metadatos de la página más adelante haciendo clic en el botón **Página**, ubicado en la esquina superior derecha de la página.
-{.es-info}
+{.is-info}
 
 ### Guardar las páginas
 

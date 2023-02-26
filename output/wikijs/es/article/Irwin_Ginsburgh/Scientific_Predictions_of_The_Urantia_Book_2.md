@@ -162,7 +162,7 @@ Parte de la información es sobre ciencia muy fundamental. Sabemos muy poco sobr
 La revelación puede no ser una verdad absoluta, pero se adapta a las necesidades y la comprensión de quienes la reciben. Es posible que no cubra completamente un tema e incluso podría omitir partes importantes de un tema. No proporcionará información que será útil en el futuro lejano. El análisis de las predicciones ha presentado una interesante visión de la ciencia revelada. Esto podría ser útil para todos los lectores, ya que agrega el factor de verdad reveladora a parte del material científico del libro e implica que el resto del libro es más creíble. Un último consejo. Algunas ayudas para comprender _El libro de Urantia_ son la repetición, el pensamiento y no leer el libro secuencialmente. Comience y lea lo que pueda entender; luego regresa y estudia las otras partes.
 
 > Irwin Ginsburgh es Ph.D. físico. Su libro, First Man! El Adán, fue publicado por Simon and Schuster. Entre las cartas que recibió de los lectores, había varias que le sugerían que leyera _El libro de Urantia_. Así es como, dice, el libro lo «encontró». Ha sido lector durante veinte años y escribe comentarios sobre ciencia y _El libro de Urantia_.
-{.es-info}
+{.is-info}
 
 ## Referencias
 
