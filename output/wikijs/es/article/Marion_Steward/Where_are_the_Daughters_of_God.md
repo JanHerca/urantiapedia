@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Autor: **Marion Steward** | Traductor: **Olga López** | Editor: **Jan Herca**
 
-[Presentado en la Conferencia de lectores de _El libro de Urantia_ de Australia y Nueva Zelanda, Sydney, 1997]
+[Presentado en la Conferencia de lectores de _El Libro de Urantia_ de Australia y Nueva Zelanda, Sydney, 1997]
 
 Nuestra misión aquí en este planeta es llegar a ser como Dios, pero la distancia entre nuestra condición mortal hasta Dios es inconmensurablemente grande, tal como los autores del _Libro de Urantia_ nunca se cansan de recordar. Se nos dice que lo más útil que podemos hacer aquí en Urantia es estudiar la vida de Jesús. Cristo Miguel, en su misión de donación, fue y es el modelo definitivo para los ascendentes como nosotros; Él se llamaba a sí mismo el Hijo del hombre y el Hijo de Dios. 
 

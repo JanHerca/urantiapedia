@@ -217,7 +217,7 @@ El superuniverso de Orvonton está compuesto principalmente por la Vía Láctea,
 <figcaption><em><b>Figura 9.</b> La galaxia SagDEG. Imagen de Jon Lomberg en colaboración con David Martinez-Delgado para el Stellar Tidal Stream Survey.</em></figcaption>
 </figure>
 
-La descripción de un sistema alargado de estos en el que se organiza la Vía Láctea sería muy inusual en 1955 e incluso en las próximas décadas. Pero ahora los estudios indican que un halo de materia oscura abarca toda la Vía Láctea de esa forma[^21]. En los párrafos anteriores _El libro de Urantia_ hace referencia clara a los cúmulos globulares y a SagDEG, pero esta galaxia elíptica en un bucle orbitando los polos de la Vía Láctea se descubrió sólo en 1994, 39 años después de los documentos de 1955.
+La descripción de un sistema alargado de estos en el que se organiza la Vía Láctea sería muy inusual en 1955 e incluso en las próximas décadas. Pero ahora los estudios indican que un halo de materia oscura abarca toda la Vía Láctea de esa forma[^21]. En los párrafos anteriores _El Libro de Urantia_ hace referencia clara a los cúmulos globulares y a SagDEG, pero esta galaxia elíptica en un bucle orbitando los polos de la Vía Láctea se descubrió sólo en 1994, 39 años después de los documentos de 1955.
 
 > _Nota adicional del Editor_
 > 

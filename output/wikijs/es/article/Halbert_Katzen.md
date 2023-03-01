@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T11:12:37.284Z
 
 ## Biografía
 
-Halbert Katzen ha estado leyendo _El libro de Urantia_ desde 1981 y es el autor de _La lógica del amor: encontrar la fe a través de la conexión corazón-mente_. Su título universitario interdisciplinario se llamó _La naturaleza y el desarrollo de la experiencia religiosa_ y sus títulos de posgrado son en negocios y derecho. Halbert dirige su difusión enfocado principalmente en universidades y iglesias/grupos interreligiosos y ha creado un sitio para compartir sus estudios: https://ubannotated.com/.
+Halbert Katzen ha estado leyendo _El Libro de Urantia_ desde 1981 y es el autor de _La lógica del amor: encontrar la fe a través de la conexión corazón-mente_. Su título universitario interdisciplinario se llamó _La naturaleza y el desarrollo de la experiencia religiosa_ y sus títulos de posgrado son en negocios y derecho. Halbert dirige su difusión enfocado principalmente en universidades y iglesias/grupos interreligiosos y ha creado un sitio para compartir sus estudios: https://ubannotated.com/.
 
 ## Artículos
 

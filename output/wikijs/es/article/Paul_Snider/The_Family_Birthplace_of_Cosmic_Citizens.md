@@ -14,13 +14,13 @@ dateCreated: 2023-01-25T11:12:37.284Z
 
 Saludo al Dios dentro de ti.
 
-Traemos un niño al mundo. Una cosa simple y ordinaria, pero maravillosamente compleja. Lo sepamos o no, ahora nos hemos comprometido con la suprema responsabilidad de la existencia humana[^1]. Ahora hemos comenzado el proceso de nutrir y dar forma a un ciudadano cósmico. Cuánta fe tiene el Padre que está en los cielos en nosotros para permitirnos el privilegio de hacer esto[^2]. Encomendar a Sus hijos a nuestra vigilancia[^3]. De todos los deberes humanos, este es el más sagrado[^4], nuestro mayor deber humano[^5]. Ya sea que lo sepamos o no, estos son los hechos de la vida. (Por cierto, notará bastantes referencias al _Libro de Urantia_ en lo que tengo que decir. Mencionaré solo algunas de ellas específicamente.) ¿Qué tiene la idea de familia que la hace tan profundamente importante? ¿Por qué _El libro de Urantia_ dice que casi todo lo que tiene un valor duradero tiene sus raíces en la familia[^6], que el hogar es la única esperanza de supervivencia de la civilización[^7]? ¿Por qué la familia ocupó el centro mismo de la filosofía de vida de Jesús, aquí y en el más allá[^8]? ¿Qué hay en esta simple noción que resuena desde aquí hasta el Paraíso y más allá?
+Traemos un niño al mundo. Una cosa simple y ordinaria, pero maravillosamente compleja. Lo sepamos o no, ahora nos hemos comprometido con la suprema responsabilidad de la existencia humana[^1]. Ahora hemos comenzado el proceso de nutrir y dar forma a un ciudadano cósmico. Cuánta fe tiene el Padre que está en los cielos en nosotros para permitirnos el privilegio de hacer esto[^2]. Encomendar a Sus hijos a nuestra vigilancia[^3]. De todos los deberes humanos, este es el más sagrado[^4], nuestro mayor deber humano[^5]. Ya sea que lo sepamos o no, estos son los hechos de la vida. (Por cierto, notará bastantes referencias al _Libro de Urantia_ en lo que tengo que decir. Mencionaré solo algunas de ellas específicamente.) ¿Qué tiene la idea de familia que la hace tan profundamente importante? ¿Por qué _El Libro de Urantia_ dice que casi todo lo que tiene un valor duradero tiene sus raíces en la familia[^6], que el hogar es la única esperanza de supervivencia de la civilización[^7]? ¿Por qué la familia ocupó el centro mismo de la filosofía de vida de Jesús, aquí y en el más allá[^8]? ¿Qué hay en esta simple noción que resuena desde aquí hasta el Paraíso y más allá?
 
 Creo que podemos encontrar algunas de las respuestas observando lo que hacen las familias. Cada familia es única. No hay dos que tengan exactamente la misma dinámica. Y, sin embargo, todas las familias hacen las mismas cosas, con mayor o menor destreza.
 
 En la vida familiar somos como piedras afiladas y ásperas todas juntas. Continuamente nos lanzamos unos contra otros en el río del tiempo. Después de todo el frotamiento y el frotamiento, los bordes afilados comienzan a desaparecer. Nos convertimos en guijarros lisos. Ajustamos nuestros antagonismos. Enseñamos la búsqueda de la paz a nuestros hijos[^6]. La familia es la maestra civilizadora[^9].
 
-Con la ayuda de amigos, vecinos y la comunidad, la verdadera familia enseña la mayor parte de lo que es realmente esencial en la vida[^9]. Esto es lo que nos dice _El libro de Urantia_. Esto es lo que nuestra propia experiencia confirma. Bueno, ¿cuáles son los elementos esenciales de la vida?
+Con la ayuda de amigos, vecinos y la comunidad, la verdadera familia enseña la mayor parte de lo que es realmente esencial en la vida[^9]. Esto es lo que nos dice _El Libro de Urantia_. Esto es lo que nuestra propia experiencia confirma. Bueno, ¿cuáles son los elementos esenciales de la vida?
 
 En primer lugar, comenzamos a aprender sobre el amor, cómo amar, cómo ser amado. Todos los cimientos de la ciudadanía cósmica se construyen sobre la base duradera del amor. Sin amor no somos nada. Sin amor no hay lugar para nosotros en el universo. En la forma en que amamos a nuestros hijos, comenzamos a vislumbrar, de hecho comenzamos a experimentar, la forma en que Dios se relaciona con sus hijos del universo. Y al mismo tiempo, si lo hacemos bien, retratamos a nuestros hijos la primera de una larga serie de revelaciones ascendentes del amor de Dios por todos los niños del universo[^10]. Empezamos a retratar el amor incondicional.
 
@@ -34,7 +34,7 @@ La lista podría seguir y seguir. Tantas otras cosas. La familia enseña cultura
 
 De ninguna manera. En una familia no se puede despedir ni despedir a nadie. La familia enseña: Estamos todos juntos en esto. Nos levantaremos o caeremos unos con otros... En algún lugar, el pensamiento se repite una y otra vez en mi mente: Es la voluntad del Padre que nadie se pierda.
 
-Seis meses después de descubrir a Dios, descubrí _El libro de Urantia_. Esto fue en 1965, y Mary ha estado conmigo en esto desde el principio. No puedo empezar a decirles lo valioso que ha sido. _El Libro de Urantia_ nos hizo conscientes de la presencia, a nuestro alcance, de una esfera de vida infinitamente más valiosa que la vida natural de la humanidad[^17]. Queríamos saber más sobre esto, explorar sus caminos superiores a donde sea que nos lleven. Queríamos presentarles a nuestros hijos el majestuoso marco cósmico de las enseñanzas de Urantia. ¿Pero cómo?
+Seis meses después de descubrir a Dios, descubrí _El Libro de Urantia_. Esto fue en 1965, y Mary ha estado conmigo en esto desde el principio. No puedo empezar a decirles lo valioso que ha sido. _El Libro de Urantia_ nos hizo conscientes de la presencia, a nuestro alcance, de una esfera de vida infinitamente más valiosa que la vida natural de la humanidad[^17]. Queríamos saber más sobre esto, explorar sus caminos superiores a donde sea que nos lleven. Queríamos presentarles a nuestros hijos el majestuoso marco cósmico de las enseñanzas de Urantia. ¿Pero cómo?
 
 Esta no fue una pregunta fácil.
 
@@ -46,7 +46,7 @@ Lo que empezó a funcionar fue bastante simple y práctico. Comenzó en la mesa 
 
 Mary y yo habíamos tomado medidas para arreglar nuestras vidas de modo que pudiéramos tener cenas familiares sentadas. Sin televisión. Sin distracciones. Restringí mis viajes a solo unos pocos días al año.
 
-Sentados alrededor de la mesa empezamos a contar historias de _El libro de Urantia_. No planeamos esto como un ejercicio de enseñanza. Simplemente se desarrolló naturalmente a partir de nuestro entusiasmo. Empezamos a contar historias sobre el Jardín del Edén, Adamson y Ratta, los fandors, los intermedios, lo que sucede en Dalamatia, la rebelión de Lucifer, Van y Amadon, la vida en un planeta vecino, lo que sucede cuando despiertas después de la muerte mortal, el viaje morontial, Jesús en el monte Hermón, Jesús y Rebeca, tantas historias de Jesús. _El Libro de Urantia_ tiene muchas buenas historias. Algunos de ellos son espectaculares.
+Sentados alrededor de la mesa empezamos a contar historias de _El Libro de Urantia_. No planeamos esto como un ejercicio de enseñanza. Simplemente se desarrolló naturalmente a partir de nuestro entusiasmo. Empezamos a contar historias sobre el Jardín del Edén, Adamson y Ratta, los fandors, los intermedios, lo que sucede en Dalamatia, la rebelión de Lucifer, Van y Amadon, la vida en un planeta vecino, lo que sucede cuando despiertas después de la muerte mortal, el viaje morontial, Jesús en el monte Hermón, Jesús y Rebeca, tantas historias de Jesús. _El Libro de Urantia_ tiene muchas buenas historias. Algunos de ellos son espectaculares.
 
 Los niños encontraron estas historias fascinantes y hacían preguntas. Fue una transición natural y fácil pasar de las historias a la enseñanza. En las conversaciones normales sobre los acontecimientos del día, siempre surgirían cuestiones a partir de las cuales las perspectivas de los Documentos de Urantia podrían arrojar una mayor iluminación.
 
@@ -62,7 +62,7 @@ En nuestros años de crianza de los hijos, había dos cosas que intentábamos ha
 
 En segundo lugar, queríamos ayudar a nuestros hijos a desarrollar un marco para vivir sus vidas mortales que sería totalmente consistente con todas las fases de vivir en cualquier parte del universo más allá, a través de todas las progresiones morontiales, incluso hasta los reinos del Paraíso. Queríamos que nuestros hijos se sintieran como en casa en el universo[^18], que supieran que tenemos amigos en otros mundos.
 
-Entonces no llamábamos a esto ciudadanía cósmica, pero en retrospectiva es de lo que hablábamos a menudo. Excepto el Supremo. Simplemente mordisqueamos los bordes del Supremo. La ciudadanía cósmica no comienza en los mundos de estancia. Comienza aquí y ahora. Uno de los propósitos principales de _El libro de Urantia_ es decirnos eso. Más allá de su propósito de transformación espiritual, la revelación nos introduce a la idea de que somos participantes principiantes en una empresa inmensa. Dice en efecto: Amigos, así es como funciona el universo. Es hora de que lo sepas. Estos son los hechos de la realidad del universo. Empieza a acostumbrarte.
+Entonces no llamábamos a esto ciudadanía cósmica, pero en retrospectiva es de lo que hablábamos a menudo. Excepto el Supremo. Simplemente mordisqueamos los bordes del Supremo. La ciudadanía cósmica no comienza en los mundos de estancia. Comienza aquí y ahora. Uno de los propósitos principales de _El Libro de Urantia_ es decirnos eso. Más allá de su propósito de transformación espiritual, la revelación nos introduce a la idea de que somos participantes principiantes en una empresa inmensa. Dice en efecto: Amigos, así es como funciona el universo. Es hora de que lo sepas. Estos son los hechos de la realidad del universo. Empieza a acostumbrarte.
 
 Vivimos cada vez más de nuestro ser dentro del Ser Supremo[^19]: la Madre Dios en evolución[^20], el Dios finito[^21], el Dios del tiempo y el espacio[^22], el Dios de la experiencia[ ^ 23]. Sólo podemos acercarnos al Supremo por medio de la experiencia[^24]. Tenemos que hacer algo[^25]. No podemos evolucionar sin el Supremo. El Supremo probablemente no pueda evolucionar sin nosotros[^26]. Por lo tanto, tenemos un deber con el Supremo[^27]. Nuestro deber es ayudar a construir niveles dinámicos de espiritualidad basada en la experiencia en la inmanencia del Supremo[^28]. Este es un gran trabajo. Involucra a todo el gran universo[^29]. Tenemos que trabajar juntos para hacer nuestra pequeña, pequeña, pequeña e irremplazable parte[^30].
 
@@ -82,7 +82,7 @@ Muchas personas creen que la voluntad del Padre se aplica solo a las grandes dec
 
 Hay una frase, solo parte de una oración en _El Libro de Urantia_, que enseña claramente que la voluntad de Dios se extiende incluso en los detalles más pequeños de la vida, que en cada momento de nuestro ser consciente, tenemos la oportunidad de elegir Su voluntad. La oración está en la página 1555, en medio del párrafo 2, en una descripción del apóstol Juan.
 
-Creo que esta es la frase más poderosa de _El libro de Urantia_. Dice que Jesús siempre defirió su más mínimo deseo a la voluntad del Padre en el cielo.
+Creo que esta es la frase más poderosa de _El Libro de Urantia_. Dice que Jesús siempre defirió su más mínimo deseo a la voluntad del Padre en el cielo.
 
 Para la mente casual[^32], el compromiso a este nivel (el nivel del 100 %) sería terriblemente restrictivo, como una camisa de fuerza. Nos convertiría en zombis espirituales. El hecho es que conduciría a todo lo contrario. La voluntad del Padre es la mayor fuerza liberadora del universo. Jesús probó eso una y otra vez en su vida. Y cuanto más progresemos como ciudadanos cósmicos, más plenamente llegaremos a experimentar la verdad de esta declaración.
 
@@ -102,7 +102,7 @@ Creo que esta historia revela la actitud de Dios hacia nosotros. Avanza con todo
 
 ## La tercera acción es mantener el equilibrio
 
-El hecho de que estudiemos _El libro de Urantia_ no significa que estemos a medio camino del cielo. Todo lo que significa es que hemos ampliado el potencial. No somos personas elegidas. No somos especiales. Lo que tenemos es el sustento de una perspectiva cósmica amplia[^33]. Nuestro desafío es traducir el potencial en realidad, en vivir las enseñanzas que hemos comenzado a comprender. Pero el camino de aquí para allá es largo y difícil.
+El hecho de que estudiemos _El Libro de Urantia_ no significa que estemos a medio camino del cielo. Todo lo que significa es que hemos ampliado el potencial. No somos personas elegidas. No somos especiales. Lo que tenemos es el sustento de una perspectiva cósmica amplia[^33]. Nuestro desafío es traducir el potencial en realidad, en vivir las enseñanzas que hemos comenzado a comprender. Pero el camino de aquí para allá es largo y difícil.
 
 Siempre, enfatizamos: Usar el sentido común. Mantenga las cosas en proporción, incluso _El Libro de Urantia_. Asimilar la totalidad de las enseñanzas. No te pierdas en una sola parte.  
 
@@ -184,9 +184,9 @@ Si aún no somos cooperativos por naturaleza, será mejor que comencemos a apren
 
 Mucho que hacer. Tantas cosas a tener en cuenta. Y esto ni siquiera es un entrenamiento básico, es solo la _introducción_ a nuestro entrenamiento básico como ciudadanos de un universo rebosante de vida y propósito.
 
-Afortunadamente, _El libro de Urantia_ viene a rescatarnos. Proporciona un modelo básico para la progresión del universo, una técnica de progresión primaria para la resolución de problemas cósmicos. Y también revela una actitud de progresión primaria. Estas dos cosas juntas te llevarán de aquí para allá.
+Afortunadamente, _El Libro de Urantia_ viene a rescatarnos. Proporciona un modelo básico para la progresión del universo, una técnica de progresión primaria para la resolución de problemas cósmicos. Y también revela una actitud de progresión primaria. Estas dos cosas juntas te llevarán de aquí para allá.
 
-La _técnica_ de progresión es muy sencilla, y siempre la llevas contigo estés donde estés. La técnica consiste en cambiar tu mente por la mente de Jesús[^45], el Jesús de _El libro de Urantia_. El Jesús que hemos llegado a conocer tiene un carácter soberbiamente equilibrado, una simetría maravillosa de dureza y compasión, una dedicación inquebrantable a buscar y hacer la voluntad del Padre.
+La _técnica_ de progresión es muy sencilla, y siempre la llevas contigo estés donde estés. La técnica consiste en cambiar tu mente por la mente de Jesús[^45], el Jesús de _El Libro de Urantia_. El Jesús que hemos llegado a conocer tiene un carácter soberbiamente equilibrado, una simetría maravillosa de dureza y compasión, una dedicación inquebrantable a buscar y hacer la voluntad del Padre.
 
 Al enfrentar decisiones, acciones, situaciones, piense para sí mismo: ¿Qué haría Jesús? Sus respuestas honestas a esa pregunta comenzarán a guiar sus acciones con gran poder espiritual. Una vez que haya hecho esto con verdadero éxito la primera vez, una vez que realmente experimente la mente de Jesús, aunque sea brevemente, nunca querrá volver a sus viejas costumbres.
 
@@ -200,7 +200,7 @@ Quienes creemos en las enseñanzas de Urantia somos llamados voluntariamente a u
 
 ¿Qué haría Jesús? Dios los bendiga mis amigos, mis hermanos y hermanas del destino, y los guarde en su amor por siempre.
 
-> Paul Snider ha estado estudiando _El libro de Urantia_ desde 1965 y ha pasado más de 25 años participando activamente en el movimiento Urantia. Él y su esposa, Mary, son padres de siete hijos, que ahora tienen entre 31 y 44 años.
+> Paul Snider ha estado estudiando _El Libro de Urantia_ desde 1965 y ha pasado más de 25 años participando activamente en el movimiento Urantia. Él y su esposa, Mary, son padres de siete hijos, que ahora tienen entre 31 y 44 años.
 {.is-info}
 
 ## Referencias

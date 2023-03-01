@@ -50,9 +50,9 @@ It does not exempt you from dealing with the challenges of living. One cannot ju
 
 So if there is a key to judging the extent of or measuring the growth of our faith as it moves along the continuum of our life experience, it is in the example provided by the life of Jesus. “_Jesus' earthly life was devoted to one great purpose—doing the Father's will, living the human life religiously and by faith._” [[UB 196:0.14](/en/The_Urantia_Book/196#p0_14)]
 
-Jesus trusted God much as the child trusts a parent. He depended on God as a child depends upon its parent. He was not inhibited by doubt and unbelief. He was free to express his life in the service of a loving Father, truly able to “let go and let God.” lie “_combined the stalwart and intelligent courage of a full-grown man with the sincere and trusting optimism of a believing child._” [[UB 196:0.11](/en/The_Urantia_Book/196#p0_11)] His faith was so strong and complete that he was totally fearless.
+Jesus trusted God much as the child trusts a parent. He depended on God as a child depends upon its parent. He was not inhibited by doubt and unbelief. He was free to express his life in the service of a loving Father, truly able to “let go and let God.” He “_combined the stalwart and intelligent courage of a full-grown man with the sincere and trusting optimism of a believing child._” [[UB 196:0.11](/en/The_Urantia_Book/196#p0_11)] His faith was so strong and complete that he was totally fearless.
 
-“_The faith of Jesus attained the purity of a child's trust. his faith was so absolute and undoubting..._” [[UB 196:0.12](/en/The_Urantia_Book/196#p0_12)] The faith of Jesus was trusting, like that of a child, but it was wholly free from presumption. He did not presume God would handle it. “_He made robust and manly decisions, courageously faced manifold disappointments, resolutely surmounted extraordinary difficulties, and unflinchingly confronted the stern requirements of dupy._” [[UB 196:0.14](/en/The_Urantia_Book/196#p0_14)]
+“_The faith of Jesus attained the purity of a child's trust. his faith was so absolute and undoubting..._” [[UB 196:0.12](/en/The_Urantia_Book/196#p0_12)] The faith of Jesus was trusting, like that of a child, but it was wholly free from presumption. He did not presume God would handle it. “_He made robust and manly decisions, courageously faced manifold disappointments, resolutely surmounted extraordinary difficulties, and unflinchingly confronted the stern requirements of duty._” [[UB 196:0.14](/en/The_Urantia_Book/196#p0_14)]
 
 As we look introspectively to examine our own report card of personal experience and religious growth, here arc 12 faith indicators from _The Urantia Book._
 > 1. Causes ethics and morals to progress despite inherent and adverse animalistic tendencies.
@@ -66,11 +66,11 @@ As we look introspectively to examine our own report card of personal experience
 > 9. Lives and triumphs irrespective of the crushing overload of the complex and partial civilizations of modern times.
 > 10. Contributes to the continued survival of altruism in spite of human selfishness, social antagonisms, industrial greeds, and political maladjustments.
 > 11. Steadfastly adheres to a sublime belief in universe unity and divine guidance regardless of the perplexing presence of evil and sin.
-> 12. Goes right on worshipping God in spite of anything and everything. Dares to declare, ‘Even though he slay me, yet will I serve him’. [[UB 101:3.4](/en/The_Urantia_Book/101#p3_4)]
+> 12. Goes right on worshipping God in spite of anything and everything. Dares to declare, ‘Even though he slay me, yet will I serve him’. [[UB 101:3.4-16](/en/The_Urantia_Book/101#p3_4)]
 
 Each of these will resonate individually with the challenges associated with living. Each will demand the full compliance of faith and fearlessness. Each will require all or nothing, complete trust in God. Life lessons will invariably provide plenty of practice.
 
-> On Jerusem the ascenders from these isolated worlds occupy a residential sector by themselves and are known as the agondonters, meaning evolutionary will creatures who can believe without seeing, persevere when isolated, and triumph over insuperable difficulties even when alone. [[UB 50:7.2](/en/The_Urantia_Book/50#p7_2)]
+> On Jerusem the ascenders from these isolated worlds occupy a residential sector by themselves and are known as the agondonters, meaning evolutionary will creatures who can believe without seeing, persevere when isolated, and triumph over insuperable difficulties even when alone. . . . [[UB 50:7.2](/en/The_Urantia_Book/50#p7_2)]
 
 As we observe and live in a world where God exists, we can't presume to judge whether any individual has faith or not, but we can eliminate misunderstanding, ignorance, and well-intentioned philosophizing and determine where we stand in the matrix of complicated belief systems. “_Have you faith? Then have it to yourself._” [[UB 99:5.7](/en/The_Urantia_Book/99#p5_7)]
 

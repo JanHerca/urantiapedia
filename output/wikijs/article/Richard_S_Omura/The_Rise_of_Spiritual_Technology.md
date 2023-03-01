@@ -14,9 +14,9 @@ At first presented in 2003 as a workshop at _The Urantia Book_ Fellowship Summer
 
 ## What are the Fruits of the Spirit?
 
-> ... for the fruits of the spirit are love, joy, peace, long-suffering, gentleness, goodness, faith, meekness, and temperance. [[UB 34:6.13](/en/The_Urantia_Book/34#p6_13)
+> ... for the fruits of the spirit are love, joy, peace, long-suffering, gentleness, goodness, faith, meekness, and temperance. . . . [[UB 34:6.13](/en/The_Urantia_Book/34#p6_13)
 
-> And the fruits of the divine spirit which are yielded in the lives of spirit-born and God-knowing mortals are: loving service, unselfish devotion, courageous loyalty, sincere fairness, enlightened honesty, undying hope, confiding trust, merciful ministry, unfailing goodness, forgiving tolerance, and enduring peace. [[UB 193:2.2](/en/The_Urantia_Book/193#p2_2)]
+> . . . And the fruits of the divine spirit which are yielded in the lives of spirit-born and God-knowing mortals are: loving service, unselfish devotion, courageous loyalty, sincere fairness, enlightened honesty, undying hope, confiding trust, merciful ministry, unfailing goodness, forgiving tolerance, and enduring peace. . . . [[UB 193:2.2](/en/The_Urantia_Book/193#p2_2)]
 
 Note that the above are lists of characteristics that are described as the “fruits of the spirit.” The list is arguably not exclusive or exhaustive in that there definitely are more such characteristics that can be listed. What we have below, however, is a simple definition of the “fruits”:
 
@@ -98,7 +98,7 @@ Now, let’s see if we can find some information in _The Urantia Book_ that can 
 
 One tool that is very handy to have in seeking spiritual truth is the ability for discernment. _The Urantia Book_ tells us about a cosmic endowment that we all have, but many do not use, something that can and should be developed to a greater degree; this is called “the reality response.”
 
-> There exists in all personality associations of the cosmic mind a quality which might be denominated the “reality response.” It is this universal cosmic endowment of will creatures which saves them from becoming helpless victims of the implied a priori assumptions of science, philosophy, and religion [[UB 16:6.4](/en/The_Urantia_Book/16#p6_4)]
+> There exists in all personality associations of the cosmic mind a quality which might be denominated the “reality response.” It is this universal cosmic endowment of will creatures which saves them from becoming helpless victims of the implied a priori assumptions of science, philosophy, and religion. . . . [[UB 16:6.4](/en/The_Urantia_Book/16#p6_4)]
 
 Let’s be clear in what “a priori” means. “a pri·o·ri 1. Proceeding from a known or assumed cause to a necessarily related effect; deductive. 2a. Derived by or designating the process of reasoning without reference to particular facts or experience. b. Knowable without appeal to particular experience. 3. Made before or without examination; not supported by factual study.” [The American Heritage® Dictionary of the English Language: Fourth Edition. 2000.]
 
@@ -106,7 +106,7 @@ Let’s be clear in what “a priori” means. “a pri·o·ri 1. Proceeding fro
 > 
 > . . . when they become unified, they produce a strong character consisting in the correlation of a factual science, a moral philosophy, and a genuine religious experience. And it is these three cosmic intuitions that give objective validity, reality, to man’s experience in and with things, meanings, and values.
 > 
-> It is the purpose of education to develop and sharpen these innate endowments of the human mind; of civilization to express them; of life experience to realize them; of religion to ennoble them; and of personality to unify them. [[UB 16:6.9–11](/en/The_Urantia_Book/16#p6_9)]
+> It is the purpose of education to develop and sharpen these innate endowments of the human mind; of civilization to express them; of life experience to realize them; of religion to ennoble them; and of personality to unify them. [[UB 16:6.9-11](/en/The_Urantia_Book/16#p6_9)]
 
 The cosmic responses which endow all will creatures are: Causation, Duty, Worship.
 
@@ -116,7 +116,7 @@ The cosmic responses which endow all will creatures are: Causation, Duty, Worshi
 > 
 > 2. Duty—the reality domain of morals in the philosophic realm, the arena of reason, the recognition of relative right and wrong. This is the judicial form of the cosmic discrimination.
 > 
-> 3. Worship—the spiritual domain of the reality of religious experience, the personal realization of divine fellowship, the recognition of spirit values, the assurance of eternal survival, the ascent from the status of servants of God to the joy and liberty of the sons of God. This is the highest insight of the cosmic mind, the reverential and worshipful form of the cosmic discrimination. [[UB 16:6.5–9](/en/The_Urantia_Book/16#p6_5)]
+> 3. Worship—the spiritual domain of the reality of religious experience, the personal realization of divine fellowship, the recognition of spirit values, the assurance of eternal survival, the ascent from the status of servants of God to the joy and liberty of the sons of God. This is the highest insight of the cosmic mind, the reverential and worshipful form of the cosmic discrimination. [[UB 16:6.5-8](/en/The_Urantia_Book/16#p6_5)]
 
 This cosmic endowment, if developed and sharpened, can be used to intuitively discern the cosmic reality of any given assumption or concept. I believe that it can even be used to determine the cosmic desirability of a relationship, a business proposition, or practically any activity. Of course, it would all be in relation to “cosmic” reality, to the eternal perspective, rather than to the short term, that is, the need for immediate gratification.
 
@@ -141,15 +141,15 @@ Prayer is also a potent technique of spiritual growth. _The Urantia Book_ gives 
 
 **What Does Prayer Do?** “_But real praying does attain reality. Even when the air currents are ascending, no bird can soar except by outstretched wings. Prayer elevates man because it is a technique of progressing by the utilization of the ascending spiritual currents of the universe._”
 
-“_Genuine prayer adds to spiritual growth, modifies attitudes, and yields that satisfaction which comes from communion with divinity. It is a spontaneous outburst of God-consciousness._” [[UB 91:8.9](/en/The_Urantia_Book/91#p8_9),10]
+“_Genuine prayer adds to spiritual growth, modifies attitudes, and yields that satisfaction which comes from communion with divinity. It is a spontaneous outburst of God-consciousness._” [[UB 91:8.9,10](/en/The_Urantia_Book/91#p8_9)]
 
 **Is Prayer Answered?** “_God answers man’s prayer by giving him an increased revelation of truth, an enhanced appreciation of beauty, and an augmented concept of goodness. Prayer is a subjective gesture, but it contacts with mighty objective realities on the spiritual levels of human experience; it is a meaningful reach by the human for superhuman values. It is the most potent spiritual-growth stimulus._” [[UB 91:8.11](/en/The_Urantia_Book/91#p8_11)]
 
-**How Do We Pray?** “_Words are irrelevant to prayer; they are merely the intellectual channel in which the river of spiritual supplication may chance to flow. The word value of a prayer is purely autosuggestive in private devotions and sociosuggestive in group devotions. God answers the soul’s attitude, not the words. Prayer is not a technique of escape from conflict but rather a stimulus to growth in the very face of conflict. Pray only for values, not things; for growth, not for gratification._” [[UB 91:8.12](/en/The_Urantia_Book/91#p8_12)]
+**How Do We Pray?** “_Words are irrelevant to prayer; they are merely the intellectual channel in which the river of spiritual supplication may chance to flow. The word value of a prayer is purely autosuggestive in private devotions and sociosuggestive in group devotions. God answers the soul’s attitude, not the words. Prayer is not a technique of escape from conflict but rather a stimulus to growth in the very face of conflict. Pray only for values, not things; for growth, not for gratification._” [[UB 91:8.12-13](/en/The_Urantia_Book/91#p8_12)]
 
 **Conditions of Effective Prayer.** “_But real praying does attain reality. Even when the air currents are ascending, no bird can soar except by outstretched wings. Prayer elevates man because it is a technique of progressing by the utilization of the ascending spiritual currents of the universe._” [[UB 91:8.9](/en/The_Urantia_Book/91#p8_9)]
 
-Remember, even if prayer does not change God, it very often effects great and lasting changes in the one who prays in faith and confident expectation. Prayer has been the ancestor of much peace of mind, cheerfulness, calmness, courage, self-mastery, and fair-mindedness in the men and women of the evolving races.” [[UB 91:4.5](/en/The_Urantia_Book/91#p4_5)]
+“Remember, even if prayer does not change God, it very often effects great and lasting changes in the one who prays in faith and confident expectation. Prayer has been the ancestor of much peace of mind, cheerfulness, calmness, courage, self-mastery, and fair-mindedness in the men and women of the evolving races.” [[UB 91:4.5](/en/The_Urantia_Book/91#p4_5)]
 
 > If you would engage in effective praying, you should bear in mind the laws of prevailing petitions:
 > 
@@ -159,7 +159,7 @@ Remember, even if prayer does not change God, it very often effects great and la
 > 4. You must make a wholehearted choice of the divine will. You must obliterate the dead center of indecision.
 > 5. You not only recognize the Father’s will and choose to do it, but you have effected an unqualified consecration, and a dynamic dedication, to the actual doing of the Father’s will.
 > 6. Your prayer will be directed exclusively for divine wisdom to solve the specific human problems encountered in the Paradise ascension the attainment of divine perfection.
-> 7. And you must have faith living faith.” [[UB 91:9.1–8](/en/The_Urantia_Book/91#p9_1)]
+> 7. And you must have faith living faith.” [[UB 91:9.1-8](/en/The_Urantia_Book/91#p9_1)]
 
 I think it is important to differentiate prayer that is asking intercession from God, with the prayer of sending mental energy to other people. Praying for plants, for the health of yourself and others, for fame and fortune, etc. may merely be the sending out of focused mindal energy, energy that our science has yet to quantify. True prayer is a dialogue with God. The Conditions of Effective Prayer delineates the conditions of using this power effectively with distinct boundaries that define the limitations.
 
@@ -170,7 +170,7 @@ Another “treasure” is the information on returning good for evil. This conce
 > When Jesus instructed his apostles that they should, when one unjustly took away the coat, offer the other garment, he referred not so much to a literal second coat as to the idea of doing something positive to save the wrongdoer in the place of the olden advice to retaliate “an eye for an eye” and so on. Jesus abhorred the idea either of retaliation or of becoming just a passive sufferer or victim of injustice. On this occasion he taught them the three ways of contending with, and resisting, evil:
 > 1. To return evil for evil—the positive but unrighteous method.
 > 2. To suffer evil without complaint and without resistance—the purely negative method.
-> 3. To return good for evil, to assert the will so as to become master of the situation, to overcome evil with good—the positive and righteous method.” [[UB 159:5.11](/en/The_Urantia_Book/159#p5_11)]
+> 3. To return good for evil, to assert the will so as to become master of the situation, to overcome evil with good—the positive and righteous method.” [[UB 159:5.11-14](/en/The_Urantia_Book/159#p5_11)]
 
 Interestingly, an audience member in the workshop commented that Number 2 on the list was important: to suffer evil without complaint and without resistance.
 
@@ -180,11 +180,11 @@ I felt it was good that someone bring this up because in our society, Number 2 i
 
 Personality and antecedent causation is also related to this because as the following three quotes show, it is only in the inner life that we are creative and can be free from the shackles of material influence. Returning good for evil starts from within.
 
-> The bestowal of creature personality confers relative liberation from slavish response to antecedent causation, and the personalities of all such moral beings, evolutionary or otherwise, are centered in the personality of the Universal Father. [[UB 5:6.9](/en/The_Urantia_Book/5#p6_9)]
+> The bestowal of creature personality confers relative liberation from slavish response to antecedent causation, and the personalities of all such moral beings, evolutionary or otherwise, are centered in the personality of the Universal Father. . . . [[UB 5:6.9](/en/The_Urantia_Book/5#p6_9)]
 
-> You cannot completely control the external world—environment. It is the creativity of the inner world that is most subject to your direction because there your personality is so largely liberated from the fetters of the laws of antecedent causation. There is associated with personality a limited sovereignty of will.” [[UB 111:4.8](/en/The_Urantia_Book/111#p4_8)]
+> You cannot completely control the external world—environment. It is the creativity of the inner world that is most subject to your direction because there your personality is so largely liberated from the fetters of the laws of antecedent causation. There is associated with personality a limited sovereignty of will. [[UB 111:4.8](/en/The_Urantia_Book/111#p4_8)]
 
-> Since this inner life of man is truly creative, there rests upon each person the responsibility of choosing as to whether this creativity shall be spontaneous and wholly haphazard or controlled, directed, and constructive. [[UB 111:4.9](/en/The_Urantia_Book/111#p4_9)]
+> Since this inner life of man is truly creative, there rests upon each person the responsibility of choosing as to whether this creativity shall be spontaneous and wholly haphazard or controlled, directed, and constructive. . . . [[UB 111:4.9](/en/The_Urantia_Book/111#p4_9)]
 
 This is quite an extraordinary bit of information. This is the key to eternal life, to creativity, to returning good for evil, and to personal transformation and spiritual liberation. With this knowledge, anything is possible, for we are free from the past and the shackles of our past deeds. From within, we can change who we are to become who we want to be and it is only up to our free will to decide and make it so.
 
@@ -194,7 +194,7 @@ However, it is often not easy to go against our ingrained biologic tendencies in
 
 The technique of contacting God, worshipful meditation, is another nugget of truth that should be used more. Some people have difficulties in effectively negotiating this process. The problem may stem from false preconceptions and the tendency to confuse mystic meditation with spiritual meditation. One of the more common reasons some people cannot meditate for longer than a few minutes is “mind chatter” and the inability to simply sit still doing nothing. Mantras and chanting are two “low-tech” methods that were developed to counter these problems. Newer methods and updates of old practices based on newer sources of information such as _The Urantia Book_ are constantly being developed.
 
-**What Is Worshipful Meditation?** Contact with the divine presence: “_The great challenge to modern man is to achieve better communication with the divine Monitor that dwells within the human mind. Man’s greatest adventure in the flesh consists in the well-balanced and sane effort to advance the borders of self-consciousness out through the dim realms of embryonic soul-consciousness in a wholehearted effort to reach the borderland of spirit-consciousness—contact with the divine presence._” [[UB 196:3.31](/en/The_Urantia_Book/196#p3_31)]
+**What Is Worshipful Meditation?** Contact with the divine presence: “_The great challenge to modern man is to achieve better communication with the divine Monitor that dwells within the human mind. Man’s greatest adventure in the flesh consists in the well-balanced and sane effort to advance the borders of self-consciousness out through the dim realms of embryonic soul-consciousness in a wholehearted effort to reach the borderland of spirit-consciousness—contact with the divine presence. . . ._” [[UB 196:3.31](/en/The_Urantia_Book/196#p3_34)]
 
 An attempt to communicate with God: “ . . . _Worship is, therefore, the act of the material mind’s assenting to the attempt of its spiritualizing self, under the guidance of the associated spirit, to communicate with God as a faith son of the Universal Father._” [[UB 5:3.8](/en/The_Urantia_Book/5#p3_8)]
 
@@ -241,7 +241,7 @@ Consent, initiate and conduct: “ . . . _Worship is, therefore, the act of the 
 
 Personal communion: “ . . . _I refer to that which he so consistently practices, and which he has so faithfully taught you, the isolation of worshipful meditation. In this habit of Jesus’ going off so frequently by himself to commune with the Father in heaven is to be found the technique, not only of gathering strength and wisdom for the ordinary conflicts of living, but also of appropriating the energy for the solution of the higher problems of a moral and spiritual nature._” [[UB 160:1.10](/en/The_Urantia_Book/160#p1_10)]
 
-Meditation and relaxation: “ . . . _From the human standpoint it is a question of combined meditation and relaxation. Meditation makes the contact of mind with spirit; relaxation determines the capacity for spiritual receptivity. And this interchange of strength for weakness, courage for fear, the will of God for the mind of self, constitutes worship._” [160.3.1]
+Meditation and relaxation: “ . . . _From the human standpoint it is a question of combined meditation and relaxation. Meditation makes the contact of mind with spirit; relaxation determines the capacity for spiritual receptivity. And this interchange of strength for weakness, courage for fear, the will of God for the mind of self, constitutes worship._” [[LU 160:3.1](esn/The_Urantia_Book/160#p3_1)]
 
 It is a joy and a pleasure: “ . . . _Worship is the conscious and joyous act of recognizing and acknowledging the truth and fact of the intimate and personal relationships of the Creators with their creatures. The quality of worship is determined by the depth of creature perception; and as the knowledge of the infinite character of the Gods progresses, the act of worship becomes increasingly all-encompassing until it eventually attains the glory of the highest experiential delight and the most exquisite pleasure known to created beings._” [[UB 27:7.1](/en/The_Urantia_Book/27#p7_1)]
 

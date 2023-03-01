@@ -14,7 +14,7 @@ En nuestro segundo número pedimos sugerencias sobre cómo «otro y más grande 
 
 Una de esas formas podría ser a través de los cursos de «desarrollo personal» a los que se asiste popularmente. En los últimos treinta años se han desarrollado una serie de técnicas psicológicas destinadas a enriquecer la calidad de vida del individuo. La mayoría no han sido corroboradas por la investigación o no han podido ser corroboradas y, sin embargo, han ganado aceptación popular. Una de estas técnicas se llama «Self Parenting» y está bien descrita en un librito llamado «Self Parenting—12 Step Workbook». por Patricia O'Gorman y Philip Oliver-Diaz.
 
-Aunque la efectividad de algunas de las técnicas puede ser cuestionable, la filosofía detrás de la perspectiva es sólida, basada en el reconocimiento tanto de nuestra personalidad individual como de nuestro Padre Superior (aproximadamente equivalente al Ajustador del Pensamiento de _El libro de Urantia_).
+Aunque la efectividad de algunas de las técnicas puede ser cuestionable, la filosofía detrás de la perspectiva es sólida, basada en el reconocimiento tanto de nuestra personalidad individual como de nuestro Padre Superior (aproximadamente equivalente al Ajustador del Pensamiento de _El Libro de Urantia_).
 
 Los autores sostienen que tenemos dos voces internas de nuestro verdadero ser. Uno es el de nuestro niño interior, el otro el de nuestro Padre Superior, para nosotros Dios. Al nacer, estas dos voces están conectadas. Nuestro ser interior es el:
 

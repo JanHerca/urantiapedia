@@ -844,29 +844,47 @@ Fuente:
 
 <br>
 
-### Volumen 5
+### Volume 5, Number 1, 2003 (Summer)
 
-| Revisado              | Fuente | Ejemplar       | Título                                        | Autor                       | Etiquetas |
-| --------------------- | ------ | -------------- | --------------------------------------------- | --------------------------- | --------- |
-| :white_square_button: | Herald | Vol. 05, No. 1 | "A Jewish Girl Finds Jesus"                   | Bobbie Dreier               |           |
-| :white_square_button: | Herald | Vol. 05, No. 1 | "Ruminations on Revelation"                   | Steven Hecht                |           |
-| :white_square_button: | Herald | Vol. 05, No. 1 | "Safeguarding the Symbols of Urantian Faith"  | David Kantor                |           |
-| :white_square_button: | Herald | Vol. 05, No. 1 | "When Belief Becomes Faith"                   | Al Lockett                  |           |
-| :white_square_button: | Herald | Vol. 05, No. 1 | "The Patterns of Revelation"                  | Linda Buselli               |           |
-| :white_square_button: | Herald | Vol. 05, No. 1 | "The Difficulty of Being Objective"           | Nancy Johnson               |           |
-| :white_square_button: | Herald | Vol. 05, No. 1 | "Closed Circle or Open Book"                  | Stephen Zendt               |           |
-| :white_square_button: | Herald | Vol. 05, No. 1 | "The Origin of the Spiritual Fellowship"      | Dr. Meredith J. Sprunger    |           |
-| :white_square_button: | Herald | Vol. 05, No. 1 | "A Dialogue About "The Kingdom""              | Claudia Ayers and Lee Smith |           |
-| :white_square_button: | Herald | Vol. 05, No. 1 | "Anti-Terror Treatise"                        | Stephen Zendt               |           |
-| :white_square_button: | Herald | Vol. 05, No. 2 | "Illumination/Transformation"                 | Doreen Heyne                |           |
-| :white_square_button: | Herald | Vol. 05, No. 2 | "An Essay on Hope"                            | David Kantor                |           |
-| :white_square_button: | Herald | Vol. 05, No. 2 | "The Rise of Spiritual Technology"            | Richard Omura               |           |
-| :white_square_button: | Herald | Vol. 05, No. 2 | "Meditation in The Urantia Book, Jesus Style" | Peter Holley                |           |
-| :white_square_button: | Herald | Vol. 05, No. 2 | "The Art of Marriage"                         | Arlene and Buck Weimer      |           |
-| :white_square_button: | Herald | Vol. 05, No. 2 | "Room in My Heart"                            | Dave Holt                   |           |
-| :white_square_button: | Herald | Vol. 05, No. 2 | "A Trace of God"                              | Steven Hecht                |           |
-| :white_square_button: | Herald | Vol. 05, No. 2 | "The Golden Rule in Business"                 | Larry Mullins               |           |
-| :white_square_button: | Herald | Vol. 05, No. 2 | "The Lighter Side"                            | Charles Montgomery          |           |
+<br>
+
+<figure class="image urantiapedia image-style-align-left">
+  <img src="/image/article/Herald_covers/Herald2003.jpg">
+</figure>
+
+| Title                                                                                                                 | Author                      | Tags |
+| --------------------------------------------------------------------------------------------------------------------- | --------------------------- | ---- |
+| [Una chica judía encuentra a Jesús](/en/article/Bobbie_Dreier/A_Jewish_Girl_Finds_Jesus)                              | Bobbie Dreier               |
+| [Reflexiones sobre la revelación](/en/article/Steven_Hecht/Ruminations_on_Revelation)                                 | Steven Hecht                |
+| [Salvaguardar los símbolos de la fe de Urantia](/en/article/David_Kantor/Safeguarding_the_Symbols_of_Urantian_Faith)  | David Kantor                |
+| [Cuando la creencia se convierte en fe](/en/article/Al_Lockett/When_Belief_Becomes_Faith)                             | Al Lockett                  |
+| [Los patrones de la revelación](/en/article/Linda_Buselli/The_Patterns_of_Revelation)                                 | Linda Buselli               |
+| [La dificultad de ser objetivo](/en/article/Nancy_Johnson/The_Difficulty_of_Being_Objective)                          | Nancy Johnson               |
+| [¿Círculo cerrado o libro abierto?](/en/article/Stephen_Zendt/Closed_Circle_or_Open_Book)                             | Stephen Zendt               |
+| [El Origen de la Fraternidad Espiritual](/en/article/Meredith_Sprunger/The_Origin_of_the_Spiritual_Fellowship)        | Meredith Sprunger           |
+| [Un diálogo sobre “El Reino de los Cielos”](/en/article/Claudia_Ayers_and_Lee_Smith/A_Dialogue_About_The_Kingdom)     | Claudia Ayers and Lee Smith |
+
+<br>
+
+### Volume 5, Number 2, 2004 (Summer)
+
+<br>
+
+<figure class="image urantiapedia image-style-align-left">
+  <img src="/image/article/Herald_covers/Herald2004.jpg">
+</figure>
+
+| Title                                                                                                                        | Author              | Tags |
+| ---------------------------------------------------------------------------------------------------------------------------- | ------------------- | ---- |
+| [Iluminación / Transformación](/en/article/Doreen_Heyne/Illumination_Transformation)                                         | Doreen Heyne                |
+| [Un ensayo sobre la esperanza](/en/article/David_Kantor/An_Essay_on_Hope)                                                    | David Kantor                |
+| [El surgimiento de la tecnología espiritual](/en/article/Richard_S_Omura/The_Rise_of_Spiritual_Technology)                   | Richard Omura               |
+| [Meditación en El libro de Urantia: al estilo de Jesús](/en/article/Peter_Holley/Meditation_in_The_Urantia_Book_Jesus_Style) | Peter Holley                |
+| [El arte del matrimonio](/en/article/Arlene_and_Buck_Weimer/The_Art_of_Marriage)                                             | Arlene and Buck Weimer      |
+| [Un rastro de Dios](/en/article/Steven_Hecht/A_Trace_of_God)                                                                 | Steven Hecht                |
+| [La regla de oro en los negocios](/en/article/Larry_Mullins/The_Golden_Rule_in_Business)                                     | Larry Mullins               |
+
+<br>
 
 ### Volumen 6
 

@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T11:12:37.284Z
 
 ## Biografía
 
-Jan Herca, 1973, España, ingeniero especializado en sistemas geográficos, ha estado estudiando _El libro de Urantia_ durante 30 años y divulga su progreso en una novela basada en la parte IV del libro en https://buscandoajesus.wordpress.com/.
+Jan Herca, 1973, España, ingeniero especializado en sistemas geográficos, ha estado estudiando _El Libro de Urantia_ durante 30 años y divulga su progreso en una novela basada en la parte IV del libro en https://buscandoajesus.wordpress.com/.
 
 Desde 2019 es el fundador y creador de este sitio, https://urantiapedia.org/.
 

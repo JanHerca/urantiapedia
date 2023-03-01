@@ -20,7 +20,7 @@ I have always known that _The Urantia Book_ would inspire new religious organiza
 
 > “It is difficult for religion to survive as the private practice of isolated individuals. This has ever been the error of the religious leaders. Seeing the evils of institutionalized religion, they seek to destroy the technique of group functioning. In place of destroying all ritual, they would do better to reform it.” [[UB 97:10.7](/en/The_Urantia_Book/97#p10_7)]
 
-> “While it is true that the institutionalization of religion has usually detracted from its spiritual quality, it is also a fact that no religion has thus far succeeded in surviving without the aid of institutional organization of some degree, greater or lesser.”  **[9816.1]**
+> “While it is true that the institutionalization of religion has usually detracted from its spiritual quality, it is also a fact that no religion has thus far succeeded in surviving without the aid of institutional organization of some degree, greater or lesser.” [UB 98:6.1](/en/The_Urantia_Book/98#p6_1)
 
 > “Regardless of the drawbacks and handicaps, every new revelation of truth has given rise to a new cult, and even the restatement of the religion of Jesus must develop a new and appropriate symbolism.” [[UB 87:7.6](/en/The_Urantia_Book/87#p7_6)]
 

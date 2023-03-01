@@ -30,7 +30,7 @@ Otra forma útil de desfragmentar nuestros problemas de relaciones personales es
 
 Aquí es donde podemos volver a hacer uso de `DEFRAG2`. Piensa bien en el nombre «`DEFRAG`», esto evoca el icono que es una imagen mental de Jesús y luego «_el amor, el altruismo, debe sufrir una interpretación readaptativa constante y viviente de las relaciones de acuerdo con las directrices del Espíritu de la Verdad_». ([LU 180:5.10](/es/The_Urantia_Book/180#p5_10)) Es importante usar el icono correcto porque el Espíritu de la Verdad nunca crea conciencia de sí mismo, solo una conciencia de Jesús. ([LU 194:2.7](/es/The_Urantia_Book/194#p2_7))
 
-`DEFRAG2` se describe detalladamente en _El libro de Urantia_, su uso no requiere licencia y es gratuito. Es una de las utilidades más valiosas descritas en el libro y podría resolver muchos de nuestros bloqueos y fallas. En una escala del uno al diez, se puntúa diez.
+`DEFRAG2` se describe detalladamente en _El Libro de Urantia_, su uso no requiere licencia y es gratuito. Es una de las utilidades más valiosas descritas en el libro y podría resolver muchos de nuestros bloqueos y fallas. En una escala del uno al diez, se puntúa diez.
 
 ## Enlaces externos
 

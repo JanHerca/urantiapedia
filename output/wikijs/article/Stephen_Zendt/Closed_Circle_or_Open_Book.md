@@ -10,7 +10,7 @@ dateCreated: 2023-02-08T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Stephen Zendt<br>© 2003 The Urantia Book Fellowship</p>
 
-> “Sometimes the planting of a seed necessitates its death, the death of your fondest hopes, before it can be reborn to bear the fruits of new life and new opportunity.” [[UB 48:6.25](/en/The_Urantia_Book/48#p6_25)]
+> “Sometimes the planting of a seed necessitates its death, the death of your fondest hopes, before it can be reborn to bear the fruits of new life and new opportunity.” [[UB 48:6.36](/en/The_Urantia_Book/48#p6_36)]
 
 The shape of a mustard seed is like an oblong or a tiny spheroid. It is an enclosed universe of potentiality, waking for the chance to grow. In order for that mustard seed to do what it is capable of doing, it needs nurturing in the soil, the awakening rays of the sun. It must break open to permit new life to sprout. How might this seed-symbol of transformation indicate to us the need for a new attitude as believers and followers of Joshua ben Joseph, Jesus of Nazareth?
 
@@ -52,9 +52,9 @@ We learn that God is not a stern dictator and arbiter. Instead, God turns out to
 
 We accept the invitation to come home to the center of all things. After all, the creator of all things has issued to each of us the open invitation to join him in Paradise. The joy and peace of God's universal plan of transIbrmation and ascension is ours to choose.
 
-Just prior to listing the mortal insights of Morontia Mota, an archangel makes the following statement: _“Even now you should learn to water the garden of your heart as well as to seek for the dry sands of knowledge. Forms are valueless when lessons are learned. No chick may be had without the shell and no shell is of any worth after the chick is hatched.”_ [[UB 48:6.21](/en/The_Urantia_Book/48#p6_21)]
+Just prior to listing the mortal insights of Morontia Mota, an archangel makes the following statement: _“Even now you should learn to water the garden of your heart as well as to seek for the dry sands of knowledge. Forms are valueless when lessons are learned. No chick may be had without the shell and no shell is of any worth after the chick is hatched.”_ [[UB 48:6.32](/en/The_Urantia_Book/48#p6_32)]
 
-> The creation of new pictures out of old facts, the restatement of parental life in the lives of offspring—these are the artistic triumphs of truth. The shadow of a hair's turning, premeditated for an untrue purpose, the slightest twisting or perversion of that which is principle—these constitute falseness. But the fetish of factualized truth, fossilized truth, the iron band of so-called unchanging truth, holds one blindly in a closed circle of cold fact. One can be technically right as to fact and everlastingy wrong in the truth. [[UB 48:6.22](/en/The_Urantia_Book/48#p6_22)]
+> The creation of new pictures out of old facts, the restatement of parental life in the lives of offspring—these are the artistic triumphs of truth. The shadow of a hair's turning, premeditated for an untrue purpose, the slightest twisting or perversion of that which is principle—these constitute falseness. But the fetish of factualized truth, fossilized truth, the iron band of so-called unchanging truth, holds one blindly in a closed circle of cold fact. One can be technically right as to fact and everlastingy wrong in the truth. [[UB 48:6.33](/en/The_Urantia_Book/48#p6_33)]
 
 Our contemporary culture is in a period of massive upheaval. Philosophy is grappling with chaos and negation. Theology searches for meaning. History is being revised. There have been several recent revolutions in science. And religion has become the motivator for armed conflict between peoples, organized and crystallized religion, that is. Yet, Jesus' gospel offers us personal peace, once the new and living way has settled into place in personal worship and practice. He warns all who are sincere that a struggle with olden thought forms and idolatry must be undergone. But the rewards are those which deepen and gladden the mind and the heart, while stirring up desires for fellowship and service to believers and seekers everywhere on the planet.
 
@@ -83,7 +83,7 @@ Awakening to the totality, universality, and simplicity of Jesus' gospel of the 
 
 And yet, we are plagued with wars, with grossly overpopulated cities, epidemic diseases, cultural stagnation, environmental degradation, and crime. The swinging pendulum between the poles of aggressive political hubris and atheistic world-weary despair might leave us dizzy with the sickening sense that our world is spinning out of control. Fear may be a master fraud, but it threatens to take hold when the media-machine predicts disaster and awful death. Our ability to evaluate and discriminate becomes blurry. We long for relief. We demand that God take control.
 
-> “Be not discouraged; human evolution is still in progress, and the revelation of God to the world, in and through Jesus, shall not fail” [[UB 196:3.30](/en/The_Urantia_Book/196#p3_30)]
+> “Be not discouraged; human evolution is still in progress, and the revelation of God to the world, in and through Jesus, shall not fail” [[UB 196:3.33](/en/The_Urantia_Book/196#p3_33)]
 
 Is this not the time to re-acquaint ourselves with the comforting assurances of the Good News? Should we fail to place the Universal Father at the center of history and prophecy, we might dare to overlook the evolutionary sweep of God's presence, his saving love for all humanity. When we fail to place our faith in the brotherhood of believers in God our Father and God our Mother, in the ultimate triumph of Good, we declare that the Gospel has not moved us to transform our minds, to open to new understanding. We are caught in the cold, closed circle.
 
@@ -99,7 +99,7 @@ Typically, much strife and contention has accompanied the teachings and the teac
 
 It is a terrible thing to see real evangelism deteriorate into opinionated argument and condemnation. Zealots create strife and belligerence wherever they go, no matter to which religious movement they attempt to obtain converts. Tact and tolerance and the ability to listen for the cry in another's soul may win more believers than any show of intellectual skill or forceful debate. Dropping pearls of wisdom effectively into common conversation is an art form in itself. Going on the second-mile-journey may be the source of a miracle for someone in deep need.
 
-> A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism—Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. [[UB 195:9.2-4](/en/The_Urantia_Book/195#p9_2)]
+> A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism . . . —Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. [[UB 195:9.2-4](/en/The_Urantia_Book/195#p9_2)]
 
 Jesus calls us to open up our real potentials, to give of ourselves as we are uniquely able to be useful. The welling-up of feelings brought on by personal spiritual transformation brings us to want to aid in a similar transformation of the entire world, one community at a time.
 
@@ -107,7 +107,7 @@ We do not find Jesus saying merely, “Peace be upon you.” He urgently command
 
 We are admonished by the revelators: 
 
-> “Neither democracy nor any other political panacea will take the place of spiritual progress. False religions may represent an evasion of reality, but Jesus in his gospel introduced mortal man to the very entrance upon an eternal reality of spiritual progression.” [[UB 195:6.10](/en/The_Urantia_Book/195#p6_10)]
+> “. . . Neither democracy nor any other political panacea will take the place of spiritual progress. False religions may represent an evasion of reality, but Jesus in his gospel introduced mortal man to the very entrance upon an eternal reality of spiritual progression.” [[UB 195:6.10](/en/The_Urantia_Book/195#p6_10)]
 
 > “Freedom or initiative in any realm of existence is directly proportional to the degree of spiritual influence and cosmic-mind control; that is, in human experience, the degree of the actuality of doing ‘the Father's will’. And so, when you once start out to find God, that is the conclusive proof that God has already found you.” [[UB 195:6.16](/en/The_Urantia_Book/195#p6_16)]
 
