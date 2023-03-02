@@ -416,7 +416,7 @@
 | Parable of neighbor & loaves                           | Parábola do vizinho e pães                                     |
 | Parable of Pounds, concluded.                          | Parábola das Libras, concluída.                                |
 | Parable of Pounds, cont.                               | Parábola das Libras, cont.                                     |
-| Parable of sweep net, fish                             | Parábola da rede de varredura, peixe                           |
+| Parable of sweep net, fish                             | Parábola da rede de arrasto, peixe                             |
 | Parents return and search                              | Os pais voltam e procuram                                      |
 | Part 1: A holy people                                  | Parte 1: Um povo santo                                         |
 | Part 1: All things possible                            | Parte 1: Todas as coisas possíveis                             |
@@ -434,7 +434,7 @@
 | Part 1: God not far off                                | Parte 1: Deus não está longe                                   |
 | Part 1: God of knowledge                               | Parte 1: Deus do conhecimento                                  |
 | Part 1: God would not forget                           | Parte 1: Deus não esqueceria                                   |
-| Part 1: Gracious to the repentant                      | Parte 1: Gracioso com o arrependido                            |
+| Part 1: Gracious to the repentant                      | Parte 1: Cheio de graças para com o arrependido                |
 | Part 1: He heals brokenhearted                         | Parte 1: Ele cura o coração partido                            |
 | Part 1: He who formed mountain                         | Parte 1: Aquele que formou a montanha                          |
 | Part 1: Heart not troubled                             | Parte 1: Coração não perturbado                                |
