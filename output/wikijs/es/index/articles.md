@@ -17,7 +17,7 @@ Fuentes: Ver [Referencias](#referencias)
 | :ballot_box_with_check: | [Cómo es de grande Orvonton](/es/article/How_big_is_Orvonton)                                                                   | Norm Du Val       | Astronomy, Cosmology                                                                |
 | :ballot_box_with_check: | [Predicciones científicas de _El Libro de Urantia_](/es/article/Irwin_Ginsburgh/Scientific_Predictions_of_The_Urantia_Book) ^1^ | Irwin Ginsburgh   | The Urantia Book, Astronomy, Cosmology, Biology and Genetics, Anthropology, Physics |
 | :ballot_box_with_check: | [Carta para astrónomos y astrofísicos – 2016](/es/article/A_Letter_to_Astronomers_and_Astrophysicists)                          |                   | Astronomy, Cosmology                                                                |
-| :ballot_box_with_check: | [Historia del Movimiento Urantia](/es/article/William_S_Sadler/A_History_of_the_Urantia_Movement)                               | William S. Sadler | The Urantia Book, The Urantia Book—Authorship                                       |
+| :ballot_box_with_check: | [Historia del Movimiento Urantia](/es/article/William_S_Sadler/A_History_of_the_Urantia_Movement)                               | William S. Sadler | The Urantia Book, The Urantia Book—Autorship                                       |
 
 1- Este artículo es una actualización de 2017 del artículo original publicado en Fellowship Herald, Vol 2. No. 1 y 2
 
@@ -119,7 +119,7 @@ Fuente: https://urantia-book.org/archive/newsletters/innerface/index.html
 | :white_square_button:   | Innerface | Vol. 02, <br>No. 4. | "The Jupiter Problem."                                                                                                    | Dick Bain            | Astronomy                                                                                  |
 | :white_square_button:   | Innerface | Vol. 02, <br>No. 4. | "The Religions of Man" from a book                                                                                        | Huston Smith         | Jesus, Jesus teachings, Religion                                                           |
 | :white_square_button:   | Innerface | Vol. 02, <br>No. 4. | "Turning Point."                                                                                                          | Ken Glasziou         | God, The Urantia Book                                                                      |
-| :white_square_button:   | Innerface | Vol. 02, <br>No. 4. | "Who Wrote The Urantia Book?"                                                                                             | Ken Glasziou         | The Urantia Book — Authorship, History                                                     |
+| :white_square_button:   | Innerface | Vol. 02, <br>No. 4. | "Who Wrote The Urantia Book?"                                                                                             | Ken Glasziou         | The Urantia Book — Autorship, History                                                     |
 | :white_square_button:   | Innerface | Vol. 02, <br>No. 5. | "A True Story."                                                                                                           | an unknown policeman | Sociology                                                                                  |
 | :white_square_button:   | Innerface | Vol. 02, <br>No. 5. | "Archaeology and The Urantia Book. Tin in Turkey."                                                                        | Matt Neibaur         | Archaeology                                                                                |
 | :white_square_button:   | Innerface | Vol. 02, <br>No. 5. | "Birth of the Solar System."                                                                                              | Ken Glasziou         | Astronomy                                                                                  |
@@ -252,7 +252,7 @@ Fuente: https://urantia-book.org/archive/newsletters/innerface/index.html
 | :white_square_button:   | Innerface | Vol. 05, <br>No. 2. | "Gideonism."                                                                                    | Ken Glasziou       | The Urantia Book                                                    |
 | :white_square_button:   | Innerface | Vol. 05, <br>No. 2. | "Human Sources of The Urantia Book. The Strong Force and Supernova."                            | Ken Glasziou       | Physics                                                             |
 | :white_square_button:   | Innerface | Vol. 05, <br>No. 2. | "On Peer Group Pressure."                                                                       | Ken Glasziou       | Psychology                                                          |
-| :white_square_button:   | Innerface | Vol. 05, <br>No. 2. | "Urantia Book Authorship—Other Aspects."                                                        | Ken Glasziou       | Anthropology, Archaeology, The Urantia Book — Authorship            |
+| :white_square_button:   | Innerface | Vol. 05, <br>No. 2. | "Urantia Book Autorship—Other Aspects."                                                        | Ken Glasziou       | Anthropology, Archaeology, The Urantia Book — Autorship            |
 | :white_square_button:   | Innerface | Vol. 05, <br>No. 2. | "Who Wrote The Urantia Book? It doesn't really matter—IMHO."                                    | Ken Glasziou       | Jesus, Jesus teachings, Revelation, Thought Adjusters, History      |
 | :white_square_button:   | Innerface | Vol. 05, <br>No. 3. | "All Conflict is Evil." Letter from Gloria Colot, response                                      | Ken Glasziou       | Morality                                                            |
 | :white_square_button:   | Innerface | Vol. 05, <br>No. 3. | "Favorite Places. Rodan on the Personality of God." from The Urantia Book                       |                    | God, Jesus, Jesus teachings, Personality                            |
@@ -286,7 +286,7 @@ Fuente: https://urantia-book.org/archive/newsletters/innerface/index.html
 | :white_square_button:   | Innerface | Vol. 05, <br>No. 5. | "Why is The Urantia Book's 'Life of Jesus' so Important?"                                       |                    | Jesus, Jesus teachings, Revelation, Personality                     |
 | :white_square_button:   | Innerface | Vol. 05, <br>No. 6. | "Cosmic Reflections. The Visible Universe"                                                      | Dick Bain          | Cosmology, The Urantia Book                                         |
 | :white_square_button:   | Innerface | Vol. 05, <br>No. 6. | "Democratic Parenting: The Importance of the Family and Family Council"                         | Bob Slagle         | Family, Psychology, Sociology                                       |
-| :white_square_button:   | Innerface | Vol. 05, <br>No. 6. | "Instructions from a Higher Authority"                                                          | Ken Glasziou       | Jesus, Jesus teachings, The Urantia Book                            |
+| :white_square_button:   | Innerface | Vol. 05, <br>No. 6. | "Instructions from a Higher Autority"                                                          | Ken Glasziou       | Jesus, Jesus teachings, The Urantia Book                            |
 | :white_square_button:   | Innerface | Vol. 05, <br>No. 6. | "More on Gardner Goofs"                                                                         | Ken Glasziou       | Gardner                                                             |
 | :white_square_button:   | Innerface | Vol. 05, <br>No. 6. | "The Power of an Idea"                                                                          | Ann Bendall        | Psychology, Thought Adjusters                                       |
 | :white_square_button:   | Innerface | Vol. 05, <br>No. 7. | "100 Stable Elements."                                                                          | Ken Glasziou       | Physics                                                             |
@@ -413,7 +413,7 @@ Fuente: https://urantia-book.org/archive/newsletters/innerface/index.html
 | :white_square_button: | Innerface | Vol. 07, <br>No. 5. | "Learning in Phoenicia" from The Urantia Book                                           |               | Religion                                                                              |
 | :white_square_button: | Innerface | Vol. 07, <br>No. 5. | "Out of Date—On Facing Reality."                                                        | Ken Glasziou  | Cosmology, The Urantia Book—Purpose, The Urantia Book—Errors                          |
 | :white_square_button: | Innerface | Vol. 07, <br>No. 5. | "Process Theology and the Urantia Papers."                                              | Ken Glasziou  | Religion, The Urantia Book, Theology                                                  |
-| :white_square_button: | Innerface | Vol. 07, <br>No. 5. | "Proof'n Spoof."                                                                        | Ken Glasziou  | Revelation, The Urantia Book, The Urantia Book — Authorship, The Urantia Book—Purpose |
+| :white_square_button: | Innerface | Vol. 07, <br>No. 5. | "Proof'n Spoof."                                                                        | Ken Glasziou  | Revelation, The Urantia Book, The Urantia Book — Autorship, The Urantia Book—Purpose |
 | :white_square_button: | Innerface | Vol. 07, <br>No. 5. | "Really Out of Date."                                                                   | Ken Glasziou  | Astronomy, The Urantia Book—Purpose, Cosmology                                        |
 | :white_square_button: | Innerface | Vol. 07, <br>No. 5. | "The Ashtaroth Incident"                                                                | Ken Glasziou  | Jesus, Jesus teachings, Morality, Religion                                            |
 | :white_square_button: | Innerface | Vol. 07, <br>No. 5. | "Who will come to 'Phoenicia?'"                                                         | Ken Glasziou  | Jesus, Jesus teachings, Religion                                                      |
@@ -451,7 +451,7 @@ Fuente: https://urantia-book.org/archive/newsletters/innerface/index.html
 | :white_square_button:   | Innerface | Vol. 08, <br>No. 2. | "The Finity-Infinity Transform."                                                                | Ken Glasziou    | God, Theology                                                   |
 | :white_square_button:   | Innerface | Vol. 08, <br>No. 2. | "The Least we should know about the Cross."                                                     | Ken Glasziou    | Jesus, Jesus teachings, Religion, Theology                      |
 | :white_square_button:   | Innerface | Vol. 08, <br>No. 2. | "Transmutation of Potentials to Actuals" Flow Chart                                             |                 | Theology                                                        |
-| :white_square_button:   | Innerface | Vol. 08, <br>No. 2. | "Who Wrote the Urantia Papers."                                                                 | Ken Glasziou    | The Urantia Book — Authorship                                   |
+| :white_square_button:   | Innerface | Vol. 08, <br>No. 2. | "Who Wrote the Urantia Papers."                                                                 | Ken Glasziou    | The Urantia Book — Autorship                                   |
 | :white_square_button:   | Innerface | Vol. 08, <br>No. 2. | "Windows of Opportunity"                                                                        | Ken Glasziou    | The Urantia Book—Purpose, Theology                              |
 | :white_square_button:   | Innerface | Vol. 08, <br>No. 3. | "Are You a Truth-Seeker?"                                                                       |                 | Morality, Religion                                              |
 | :white_square_button:   | Innerface | Vol. 08, <br>No. 3. | "Materialism is Dead. Ghosts are 'Becoming'"                                                    |                 | Physics                                                         |
@@ -587,7 +587,7 @@ Fuente: https://urantia-book.org/archive/newsletters/innerface/index.html
 
 ### Volumen 11
 
-| Revisado              | Source    | Issue            | Title                                                                                    | Author    | Etiquetas |
+| Revisado              | Source    | Issue            | Título                                                                                    | Autor    | Etiquetas |
 | --------------------- | --------- | ---------------- | ---------------------------------------------------------------------------------------- | --------- | --------- |
 | :white_square_button: | Innerface | Vol.11, <br>No.1 | The Spirituality Content of the Urantia Papers                                           |           |           |
 | :white_square_button: | Innerface | Vol.11, <br>No.2 | The Spirituality Content of the Urantia Papers II                                        |           |           |
@@ -641,7 +641,7 @@ Fuente: https://urantia-book.org/archive/newsletters/innerface/index.html
 
 ### Volumen 12
 
-| Revisado              | Source    | Issue            | Title                                                                                                    | Author       | Etiquetas |
+| Revisado              | Source    | Issue            | Título                                                                                                    | Autor       | Etiquetas |
 | --------------------- | --------- | ---------------- | -------------------------------------------------------------------------------------------------------- | ------------ | --------- |
 | :white_square_button: | Innerface | Vol.12, <br>No.1 | Personality, Identity, Mind, and Consciousness, in the Urantia Revelation                                |              |           |
 | :white_square_button: | Innerface | Vol.12, <br>No.1 | Identity and Personality                                                                                 |              |           |
@@ -732,7 +732,7 @@ Fuente:
   <img src="/image/article/Herald_covers/Herald1998Fall.jpg">
 </figure>
 
-| Title                                                                                                                                  | Author            | Tags |
+| Título                                                                                                                                  | Autor            | Etiquetas |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---- |
 | [Al borde de la época más asombrosa y apasionante](/es/article/Carolyn_Kendall/On_the_Brink_of_The_Most_Amazing)                       | Carolyn Kendall   |      |
 | [Deja que tu alma decida](/es/article/Richard_S_Omura/Let_our_Soul_Decide)                                                             | Richard S. Omura  |      |
@@ -751,7 +751,7 @@ Fuente:
 </figure>
 
 
-| Title                                                                                                                                                  | Author            | Tags |
+| Título                                                                                                                                                  | Autor            | Etiquetas |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- | ---- |
 | [El desafío del siglo XXI](/es/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century_2)                                                  | Meredith Sprunger |      |
 | [Sobre cómo enfrentar el cambio milenario](/es/article/Byron_Belitsos/On_facing_millenial_change)                                                      | Byron Belitsos    |      |
@@ -763,7 +763,7 @@ Fuente:
 
 <br>
 
-### Volume 2, Number 1, 1999 (Winter)
+### Volumen 2, Número 1, 1999 (Invierno)
 
 <br>
 
@@ -771,7 +771,7 @@ Fuente:
   <img src="/image/article/Herald_covers/Herald1999Winter.jpg">
 </figure>
 
-| Title                                                                                                                                 | Author                  | Tags                                   |
+| Título                                                                                                                                 | Autor                  | Etiquetas                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | -------------------------------------- |
 | [La Familia: Lugar de Nacimiento de los Ciudadanos Cósmicos](/es/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizens)        | Paul Snider             |                                        |
 | [Dos cosmologías — La astronomía y El Libro de Urantia](/es/article/Irwin_Ginsburgh/Two_Cosmologies_Astronomy_and_The_Urantia_Book)   | Irwin Ginsburgh         | The Urantia Book, Astronomy, Cosmology |
@@ -780,7 +780,7 @@ Fuente:
 
 <br>
 
-### Volume 2, Number 2, 2000 (Summer)
+### Volumen 2, Número 2, 2000 (Verano)
 
 <br>
 
@@ -788,7 +788,7 @@ Fuente:
   <img src="/image/article/Herald_covers/Herald2000.jpg">
 </figure>
 
-| Title                                                                                                                                                | Author                  | Tags                                   |
+| Título                                                                                                                                                | Autor                  | Etiquetas                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | -------------------------------------- |
 | [Pensando en el mañana](/es/article/Carolyn_Kendall/Thinking_about_tomorrow)                                                                         | Carolyn Kendall         |
 | [Reformulado en fraseología moderna](/es/article/David_Elders/Restated_in_modern_phraseology)                                                        | David Elders            |
@@ -800,7 +800,7 @@ Fuente:
 
 <br>
 
-### Volume 3, Number 1, 2001 (Summer)
+### Volumen 3, Número 1, 2001 (Verano)
 
 <br>
 
@@ -808,7 +808,7 @@ Fuente:
   <img src="/image/article/Herald_covers/Herald2001.jpg">
 </figure>
 
-| Title                                                                                                                                                | Author             | Tags |
+| Título                                                                                                                                                | Autor             | Etiquetas |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---- |
 | [Un estudio fuente de «Instrucción para maestros y creyentes»](/es/article/Matthew_Block/A_Source_Study_Of_Instruction_For_Teachers_And_Believers)   | Matthew Block      |
 | [¡Muéstranos un milagro!](/es/article/Behzad_Sarmast/Show_Us_a_Miracle)                                                                              | B. Sarmast         |
@@ -821,7 +821,7 @@ Fuente:
 <br>
 <br>
 
-### Volume 4, Number 1, 2002 (Summer)
+### Volumen 4, Número 1, 2002 (Verano)
 
 <br>
 
@@ -829,7 +829,7 @@ Fuente:
   <img src="/image/article/Herald_covers/Herald2002.jpg">
 </figure>
 
-| Title                                                                                                                                | Author           | Tags |
+| Título                                                                                                                                | Autor           | Etiquetas |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---- |
 | [Reflexiones sobre el Movimiento Urantia en 2002](/es/article/Philip_Calabrese/Reflections_on_the_Urantia_Movement_in_2002)          | Philip Calabrese |
 | [Centrar: un método de abrazo divino](/es/article/Marvin_Gawryn/Centering_A_Method_of_Divine_Embrace)                                | Marvin Gawryn    |
@@ -844,7 +844,7 @@ Fuente:
 
 <br>
 
-### Volume 5, Number 1, 2003 (Summer)
+### Volumen 5, Número 1, 2003 (Verano)
 
 <br>
 
@@ -852,21 +852,21 @@ Fuente:
   <img src="/image/article/Herald_covers/Herald2003.jpg">
 </figure>
 
-| Title                                                                                                                 | Author                      | Tags |
+| Título                                                                                                                 | Autor                      | Etiquetas |
 | --------------------------------------------------------------------------------------------------------------------- | --------------------------- | ---- |
-| [Una chica judía encuentra a Jesús](/en/article/Bobbie_Dreier/A_Jewish_Girl_Finds_Jesus)                              | Bobbie Dreier               |
-| [Reflexiones sobre la revelación](/en/article/Steven_Hecht/Ruminations_on_Revelation)                                 | Steven Hecht                |
-| [Salvaguardar los símbolos de la fe de Urantia](/en/article/David_Kantor/Safeguarding_the_Symbols_of_Urantian_Faith)  | David Kantor                |
-| [Cuando la creencia se convierte en fe](/en/article/Al_Lockett/When_Belief_Becomes_Faith)                             | Al Lockett                  |
-| [Los patrones de la revelación](/en/article/Linda_Buselli/The_Patterns_of_Revelation)                                 | Linda Buselli               |
-| [La dificultad de ser objetivo](/en/article/Nancy_Johnson/The_Difficulty_of_Being_Objective)                          | Nancy Johnson               |
-| [¿Círculo cerrado o libro abierto?](/en/article/Stephen_Zendt/Closed_Circle_or_Open_Book)                             | Stephen Zendt               |
-| [El Origen de la Fraternidad Espiritual](/en/article/Meredith_Sprunger/The_Origin_of_the_Spiritual_Fellowship)        | Meredith Sprunger           |
-| [Un diálogo sobre “El Reino de los Cielos”](/en/article/Claudia_Ayers_and_Lee_Smith/A_Dialogue_About_The_Kingdom)     | Claudia Ayers and Lee Smith |
+| [Una chica judía encuentra a Jesús](/es/article/Bobbie_Dreier/A_Jewish_Girl_Finds_Jesus)                              | Bobbie Dreier               |
+| [Reflexiones sobre la revelación](/es/article/Steven_Hecht/Ruminations_on_Revelation)                                 | Steven Hecht                |
+| [Salvaguardar los símbolos de la fe de Urantia](/es/article/David_Kantor/Safeguarding_the_Symbols_of_Urantian_Faith)  | David Kantor                |
+| [Cuando la creencia se convierte en fe](/es/article/Al_Lockett/When_Belief_Becomes_Faith)                             | Al Lockett                  |
+| [Los patrones de la revelación](/es/article/Linda_Buselli/The_Patterns_of_Revelation)                                 | Linda Buselli               |
+| [La dificultad de ser objetivo](/es/article/Nancy_Johnson/The_Difficulty_of_Being_Objective)                          | Nancy Johnson               |
+| [¿Círculo cerrado o libro abierto?](/es/article/Stephen_Zendt/Closed_Circle_or_Open_Book)                             | Stephen Zendt               |
+| [El Origen de la Fraternidad Espiritual](/es/article/Meredith_Sprunger/The_Origin_of_the_Spiritual_Fellowship)        | Meredith Sprunger           |
+| [Un diálogo sobre “El Reino de los Cielos”](/es/article/Claudia_Ayers_and_Lee_Smith/A_Dialogue_About_The_Kingdom)     | Claudia Ayers and Lee Smith |
 
 <br>
 
-### Volume 5, Number 2, 2004 (Summer)
+### Volumen 5, Número 2, 2004 (Verano)
 
 <br>
 
@@ -874,267 +874,386 @@ Fuente:
   <img src="/image/article/Herald_covers/Herald2004.jpg">
 </figure>
 
-| Title                                                                                                                        | Author              | Tags |
-| ---------------------------------------------------------------------------------------------------------------------------- | ------------------- | ---- |
-| [Iluminación / Transformación](/en/article/Doreen_Heyne/Illumination_Transformation)                                         | Doreen Heyne                |
-| [Un ensayo sobre la esperanza](/en/article/David_Kantor/An_Essay_on_Hope)                                                    | David Kantor                |
-| [El surgimiento de la tecnología espiritual](/en/article/Richard_S_Omura/The_Rise_of_Spiritual_Technology)                   | Richard Omura               |
-| [Meditación en El libro de Urantia: al estilo de Jesús](/en/article/Peter_Holley/Meditation_in_The_Urantia_Book_Jesus_Style) | Peter Holley                |
-| [El arte del matrimonio](/en/article/Arlene_and_Buck_Weimer/The_Art_of_Marriage)                                             | Arlene and Buck Weimer      |
-| [Un rastro de Dios](/en/article/Steven_Hecht/A_Trace_of_God)                                                                 | Steven Hecht                |
-| [La regla de oro en los negocios](/en/article/Larry_Mullins/The_Golden_Rule_in_Business)                                     | Larry Mullins               |
+| Título                                                                                                                        | Autor                      | Etiquetas |
+| ---------------------------------------------------------------------------------------------------------------------------- | --------------------------- | --------- |
+| [Iluminación / Transformación](/es/article/Doreen_Heyne/Illumination_Transformation)                                         | Doreen Heyne                |
+| [Un ensayo sobre la esperanza](/es/article/David_Kantor/An_Essay_on_Hope)                                                    | David Kantor                |
+| [El surgimiento de la tecnología espiritual](/es/article/Richard_S_Omura/The_Rise_of_Spiritual_Technology)                   | Richard Omura               |
+| [Meditación en El libro de Urantia: al estilo de Jesús](/es/article/Peter_Holley/Meditation_in_The_Urantia_Book_Jesus_Style) | Peter Holley                |
+| [El arte del matrimonio](/es/article/Arlene_and_Buck_Weimer/The_Art_of_Marriage)                                             | Arlene and Buck Weimer      |
+| [Un rastro de Dios](/es/article/Steven_Hecht/A_Trace_of_God)                                                                 | Steven Hecht                |
+| [La regla de oro en los negocios](/es/article/Larry_Mullins/The_Golden_Rule_in_Business)                                     | Larry Mullins               |
 
 <br>
 
-### Volumen 6
+### Volumen 6, Número 1, 2005 (Verano)
 
-| Revisado              | Fuente | Ejemplar       | Título                                                          | Autor               | Etiquetas |
-| --------------------- | ------ | -------------- | --------------------------------------------------------------- | ------------------- | --------- |
-| :white_square_button: | Herald | Vol. 06, No. 1 | "The Next Fifty Years: Dissemination"                           | Charles Olivea      |           |
-| :white_square_button: | Herald | Vol. 06, No. 1 | "The New Revelation of the Living Jesus"                        | Peter Holley        |           |
-| :white_square_button: | Herald | Vol. 06, No. 1 | "Untitled Poem"                                                 | David Glass         |           |
-| :white_square_button: | Herald | Vol. 06, No. 1 | "On Removing The Barrier to a Civilized Discussion Of Eugenics" | Finnie              |           |
-| :white_square_button: | Herald | Vol. 06, No. 1 | "Becoming a Universe-Conscious Citizen"                         | Nancy Johnson       |           |
-| :white_square_button: | Herald | Vol. 06, No. 1 | "At Home In The Universe"                                       | Stephen Zendt       |           |
-| :white_square_button: | Herald | Vol. 06, No. 1 | "Pattern of Unity"                                              | Jean-Pierre Heudier |           |
-| :white_square_button: | Herald | Vol. 06, No. 1 | "Journey to India: Legacy of the Sethite Teachers"              | Dave Holt           |           |
-| :white_square_button: | Herald | Vol. 06, No. 1 | "Thoughts About the Future of our Urantia Community"            | Sara Blackstock     |           |
-| :white_square_button: | Herald | Vol. 06, No. 1 | "Legacy in Peril: Children and the Urantia Community"           | Tom Allen           |           |
-| :white_square_button: | Herald | Vol. 06, No. 1 | "Putting the Teachings into Action"                             | Steve McIntosh      |           |
-| :white_square_button: | Herald | Vol. 06, No. 1 | "Science Cannot Replace Religion"                               | Dr. Antti Roine     |           |
-| :white_square_button: | Herald | Vol. 06, No. 1 | "A Reed Singing"                                                | Dave Holt           |           |
+<br>
 
-### Volumen 7
+<figure class="image urantiapedia image-style-align-left">
+  <img src="/image/article/Herald_covers/Herald2005.jpg">
+</figure>
 
-| Revisado              | Fuente | Ejemplar       | Título                                                 | Autor                  | Etiquetas |
-| --------------------- | ------ | -------------- | ------------------------------------------------------ | ---------------------- | --------- |
-| :white_square_button: | Herald | Vol. 07, No. 1 | "Guardian Angels"                                      | Charles Olivea         |           |
-| :white_square_button: | Herald | Vol. 07, No. 1 | "Youth and The Urantia Book"                           | Gina Buselli           |           |
-| :white_square_button: | Herald | Vol. 07, No. 1 | "Prophecy and The Urantia Book"                        | Preston Thomas         |           |
-| :white_square_button: | Herald | Vol. 07, No. 1 | "Serving: A Cookbook for the Soul"                     | Bill and Share Beasley |           |
-| :white_square_button: | Herald | Vol. 07, No. 1 | "What is Personality?"                                 | Berkeley Elliott       |           |
-| :white_square_button: | Herald | Vol. 07, No. 1 | "The Coming Scientific Validation of The Urantia Book" | Dr. Philip Calabrese   |           |
+| Título                                                                                                                                                            | Autor               | Etiquestas |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ---------- |
+| [Los próximos cincuenta años](/es/article/Charles_Laurence_Olivea/The_Next_Fifty_Years_Dissemination)                                                             | Charles Olivea      |
+| [La Nueva Revelación del Jesús Viviente](/es/article/Peter_Holley/The_New_Revelation_of_the_Living_Jesus)                                                         | Peter Holley        |
+| [Sobre la eliminación de la barrera a una discusión civilizada de la eugenesia](/es/article/Finnie/On_Removing_The_Barrier_to_a_Civilized_Discussion_Of_Eugenics) | Finnie              |
+| [Desafío de los próximos cincuenta años...](/es/article/Nancy_Johnson/Becoming_a_Universe_Conscious_Citizen)                                                      | Nancy Johnson       |
+| [En casa en el universo](/es/article/Stephen_Zendt/At_Home_In_The_Universe)                                                                                       | Stephen Zendt       |
+| [Patrón de unidad](/es/article/Jean_Pierre_Heudier/Pattern_of_Unity)                                                                                              | Jean-Pierre Heudier |
+| [Viaje a la India](/es/article/Dave_Holt/Journey_to_India_Legacy_of_the_Sethite_Teachers)                                                                         | Dave Holt           |
+| [Pensamientos sobre el futuro de nuestra comunidad Urantia](/es/article/Sara_Blackstock/Thoughts_About_the_Future_of_our_Urantia_Communit)                        | Sara Blackstock     |
+| [Legado en peligro: Los niños y la comunidad Urantia](/es/article/Tom_Allen/Legacy_in_Peril_Children_and_the_Urantia_Community)                                   | Tom Allen           |
+| [Poner en acción las enseñanzas del Libro de Urantia a través de la filosofía integral](/es/article/Steve_McIntosh/Putting_the_Teachings_into_Action)             | Steve McIntosh      |
+| [La ciencia no puede reemplazar a la religión](/es/article/Antti_Roine/Science_Cannot_Replace_Religion)                                                           | Dr. Antti Roine     |
 
-### Volumen 8
+<br>
 
-| Revisado              | Fuente | Ejemplar       | Título                                        | Autor                | Etiquetas |
-| --------------------- | ------ | -------------- | --------------------------------------------- | -------------------- | --------- |
-| :white_square_button: | Herald | Vol. 08, No. 1 | "Amazing Human Aspects of Epochal Revelation" | Paula Thompson       |           |
-| :white_square_button: | Herald | Vol. 08, No. 1 | "Archangels: Agents of Epochal Change"        | Carolyn Kendall      |           |
-| :white_square_button: | Herald | Vol. 08, No. 1 | "Update: The Coming Scientific Validation"    | Dr. Philip Calabrese |           |
-| :white_square_button: | Herald | Vol. 08, No. 1 | "Participatory Evolution"                     | Jacob Dix            |           |
-| :white_square_button: | Herald | Vol. 08, No. 1 | "Personality and Man"                         | George Park          |           |
-| :white_square_button: | Herald | Vol. 08, No. 1 | "The Golden Rule"                             | Robert Burns         |           |
-| :white_square_button: | Herald | Vol. 08, No. 1 | "Science Fiction for Agondonters"             | Cece Forrester       |           |
-| :white_square_button: | Herald | Vol. 08, No. 1 | "Loving Service"                              | Phil Taylor          |           |
-| :white_square_button: | Herald | Vol. 08, No. 1 | "The Kingdom and the Supreme"                 | David Kantor         |           |
+### Volumen 7, Número 1, 2006 (Verano)
 
-### Volumen 9
+<br>
 
-| Revisado              | Fuente | Ejemplar       | Título                                              | Autor                  | Etiquetas |
-| --------------------- | ------ | -------------- | --------------------------------------------------- | ---------------------- | --------- |
-| :white_square_button: | Herald | Vol. 09, No. 1 | "Celestial Ministry: Seen and Unseen"               | Michelle Klimesh       |           |
-| :white_square_button: | Herald | Vol. 09, No. 1 | "The Supreme and Outreach"                          | Arlene and Buck Weimer |           |
-| :white_square_button: | Herald | Vol. 09, No. 1 | "Guess Who's Coming Next?"                          | Carolyn Kendall        |           |
-| :white_square_button: | Herald | Vol. 09, No. 1 | "A Missionary Experience in Turkey"                 | Bill Rocap             |           |
-| :white_square_button: | Herald | Vol. 09, No. 1 | "You Be The Book"                                   | Michael Painter        |           |
-| :white_square_button: | Herald | Vol. 09, No. 1 | "The Start of a Worthy New Tradition                |                        |           |
-| :white_square_button: | Herald | Vol. 09, No. 1 | "The Significance of the Sevenfold Bestowal Career" | David Glass            |           |
-| :white_square_button: | Herald | Vol. 09, No. 1 | "The Urantia Book Is Not What It Used To Be"        | Halbert Katzen         |           |
-| :white_square_button: | Herald | Vol. 09, No. 1 | "Law is Life Itself"                                | Linda Buselli          |           |
-| :white_square_button: | Herald | Vol. 09, No. 1 | "Moral Cosmic Citizenship"                          | Doreen Heyne           |           |
-| :white_square_button: | Herald | Vol. 09, No. 1 | "The Roots of Morality"                             | Henry Begemann         |           |
-| :white_square_button: | Herald | Vol. 09, No. 1 | "Casting Pearls Before Personality"                 | David Elders           |           |
+<figure class="image urantiapedia image-style-align-left">
+  <img src="/image/article/Herald_covers/Herald2006.jpg">
+</figure>
 
-### Volumen 10
+| Título                                                                                                                                       | Autor                  | Etiquestas |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ---------- |
+| [Ángeles de la guarda](/es/article/Charles_Laurence_Olivea/Guardian_Angels)                                                                  | Charles Olivea         |
+| [La juventud y El libro de Urantia](/es/article/Gina_Buselli/Youth_and_The_Urantia_Book)                                                     | Gina Buselli           |
+| [La profecía y El libro de Urantia](/es/article/Preston_Thomas/Prophecy_and_The_Urantia_Book)                                                | Preston Thomas         |
+| [Servir: un libro de cocina para el alma](/es/article/Bill_and_Share_Beasley/Serving_A_Cookbook_for_the_Soul)                                | Bill and Share Beasley |
+| [¿Qué es la personalidad?](/es/article/Berkeley_Elliott/What_is_Personality)                                                                 | Berkeley Elliott       |
+| [La próxima validación científica de El libro de Urantia](/es/article/Philip_Calabrese/The_Coming_Scientific_Validation_of_The_Urantia_Book) | Dr. Philip Calabrese   |
 
-| Revisado              | Fuente | Ejemplar       | Título                                                       | Autor            | Etiquetas |
-| --------------------- | ------ | -------------- | ------------------------------------------------------------ | ---------------- | --------- |
-| :white_square_button: | Herald | Vol. 10, No. 1 | "In Search of the Historical Onamonalonton"                  | Dave Holt        |           |
-| :white_square_button: | Herald | Vol. 10, No. 1 | "The Role of Emotions and Feelings on an Evolutionary Word"  | Nancy Johnson    |           |
-| :white_square_button: | Herald | Vol. 10, No. 1 | "Joy in the Worm Bin"                                        | Sara Blackstock  |           |
-| :white_square_button: | Herald | Vol. 10, No. 1 | "Ten Lessons from the Vineyard"                              | Arnie Ondis      |           |
-| :white_square_button: | Herald | Vol. 10, No. 1 | "Solar System Discoveries that Corroborate The Urantia Book" | Philip Calabrese |           |
-| :white_square_button: | Herald | Vol. 10, No. 1 | "The Book—a Poem"                                            | M. Sanders       |           |
-| :white_square_button: | Herald | Vol. 10, No. 1 | "A Lesson from a Mouse"                                      | Robert Seubert   |           |
-| :white_square_button: | Herald | Vol. 10, No. 1 | "The Third Cosmic Circle"                                    | Richare Guevara  |           |
-| :white_square_button: | Herald | Vol. 10, No. 1 | "Becoming an Effective Missionary Evangel"                   | David Kantor     |           |
-| :white_square_button: | Herald | Vol. 10, No. 1 | "The Limitless Spectrum of Education"                        | David Glass      |           |
-| :white_square_button: | Herald | Vol. 10, No. 1 | "Urantia University - U2"                                    | David Nash       |           |
-| :white_square_button: | Herald | Vol. 10, No. 1 | "Our Creative Deities—A Supreme Relationship"                | Linda Buselli    |           |
+<br>
 
-### Volumen 11
+### Volumen 8, Número 1, 2007 (Verano)
 
-| Revisado              | Fuente | Ejemplar       | Título                                                        | Autor                           | Etiquetas |
-| --------------------- | ------ | -------------- | ------------------------------------------------------------- | ------------------------------- | --------- |
-| :white_square_button: | Herald | Vol. 11, No. 1 | "The World is Not Coming to an End"                           | Carolyn Kendall, Barbara Newsom |           |
-| :white_square_button: | Herald | Vol. 11, No. 1 | "Religion of Experience vs. Religion of Authority"            | Richard S. Omura                |           |
-| :white_square_button: | Herald | Vol. 11, No. 1 | "God Consciousness"                                           | Charles Laurence Olivea         |           |
-| :white_square_button: | Herald | Vol. 11, No. 1 | "The Urantia Book, Human Concepts, and Revelatory Validation" | David Elders                    |           |
-| :white_square_button: | Herald | Vol. 11, No. 1 | "Understanding the Relation of Love to the Mind"              | Sheila Keene-Lund               |           |
-| :white_square_button: | Herald | Vol. 11, No. 1 | "Cosmic Socialization and Planetary Citizenship"              | Dave Holt                       |           |
-| :white_square_button: | Herald | Vol. 11, No. 1 | "Testimonial of One Second-Generation Urantian"               | Angela Thurston                 |           |
-| :white_square_button: | Herald | Vol. 11, No. 1 | "The Problem of Business"                                     | Dan Amyx                        |           |
-| :white_square_button: | Herald | Vol. 11, No. 1 | "Crouching Deity/Hidden Supreme"                              | Bob Debold                      |           |
+<br>
 
-### Volumen 12
+<figure class="image urantiapedia image-style-align-left">
+  <img src="/image/article/Herald_covers/Herald2007.jpg">
+</figure>
 
-| Revisado              | Fuente | Ejemplar       | Título                                                       | Autor                            | Etiquetas |
-| --------------------- | ------ | -------------- | ------------------------------------------------------------ | -------------------------------- | --------- |
-| :white_square_button: | Herald | Vol. 12, No. 1 | "The First Epochal Revelation in American Indian Traditions" | Dave Holt                        |           |
-| :white_square_button: | Herald | Vol. 12, No. 1 | "The Power of The Name of Jesus"                             | Charles Laurence Olivea          |           |
-| :white_square_button: | Herald | Vol. 12, No. 1 | "Machiventa Melchizedek"                                     | One of History's Mysteries       |           |
-| :white_square_button: | Herald | Vol. 12, No. 1 | "Getting Closer to God"                                      | Approaching The Universal Father |           |
-| :white_square_button: | Herald | Vol. 12, No. 1 | "One Man's Tour Through The Evolutionary Debate              |                                  |           |
+| Título                                                                                                                                                            | Autor                | Etiquestas |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ---------- |
+| [Aspectos humanos asombrosos de la revelación de época: verdad versus hecho](/es/article/Paula_Thompson/Amazing_Human_Aspects_of_Epochal_Revelation)              | Paula Thompson       |
+| [Arcángeles - Agentes del cambio de época](/es/article/Carolyn_Kendall/Archangels_Agents_of_Epochal_Change)                                                       | Carolyn Kendall      |
+| [IC 08—La emoción del servicio amoroso](/es/article/Phil_Taylor/IC_08_The_Thrill_of_Loving_Service)                                                               | Phil Taylor          |
+| [Actualización del año 2006 sobre la próxima validación científica del libro de Urantia](/es/article/Philip_Calabrese/Update_The_Coming_Scientific_Validation)    | Dr. Philip Calabrese |
+| [Evolución participativa](/es/article/Jacob_Dix/Participatory_Evolution)                                                                                          | Jacob Dix            |
+| [Personalidad y hombre](/es/article/George_Park/Personality_and_Man)                                                                                              | George Park          |
+| [La regla de oro](/es/article/Robert_Burns/The_Golden_Rule)                                                                                                       | Robert Burns         |
+| [Ciencia ficción para Agondonters](/es/article/Cece_Forrester/Science_Fiction_for_Agondonters)                                                                    | Cece Forrester       |
+| [Servicio amoroso](/es/article/Phil_Taylor/Loving_Service)                                                                                                        | Phil Taylor          |
+| [El Reino y lo Supremo: ideas para simplificar la comprensión de El libro de Urantia](/es/article/David_Kantor/The_Kingdom_and_the_Supreme)                       | David Kantor         |
 
-### Volumen 13
+<br>
 
-| Revisado              | Fuente | Ejemplar       | Título                                                                           | Autor            | Etiquetas |
-| --------------------- | ------ | -------------- | -------------------------------------------------------------------------------- | ---------------- | --------- |
-| :white_square_button: | Herald | Vol. 13, No. 1 | "Souls on Purpose: The Personal Creed Project"                                   | John Creger      |           |
-| :white_square_button: | Herald | Vol. 13, No. 1 | "Evolutionary Spirituality"                                                      | Steve Macintosh  |           |
-| :white_square_button: | Herald | Vol. 13, No. 1 | "Urantia, 606 of Satania: Concerning the Inhabited Worlds of the Satania System" | Israel Dix       |           |
-| :white_square_button: | Herald | Vol. 13, No. 1 | "Perfecting, Neuroplasticity, and the Supreme Actualizing"                       | Lawrence Schkade |           |
-| :white_square_button: | Herald | Vol. 13, No. 1 | "Race and The Urantia Book"                                                      | Earlene Green    |           |
-| :white_square_button: | Herald | Vol. 13, No. 1 | "Religion of Experience vs Religion of Authority"                                | Richard S. Omura |           |
-| :white_square_button: | Herald | Vol. 13, No. 1 | "The Forgotten Urantian: Dr. Lena Sadler"                                        | Larry Mullins    |           |
-| :white_square_button: | Herald | Vol. 13, No. 1 | "Cosmology in the Light of The Urantia Book"                                     | Philip Calabrese |           |
+### Volumen 9, Número 1, 2008 (Verano)
 
-### Volumen 14
+<br>
 
-| Revisado              | Fuente | Ejemplar       | Título                                                                         | Autor                | Etiquetas |
-| --------------------- | ------ | -------------- | ------------------------------------------------------------------------------ | -------------------- | --------- |
-| :white_square_button: | Herald | Vol. 14, No. 1 | "Spiritual Genetics"                                                           | Steve Dreier         |           |
-| :white_square_button: | Herald | Vol. 14, No. 1 | "Religion of One"                                                              | Rev. Gary Deinstadt  |           |
-| :white_square_button: | Herald | Vol. 14, No. 1 | "A Cosmology of Race"                                                          | Charles Olivea       |           |
-| :white_square_button: | Herald | Vol. 14, No. 1 | "Exploring the Inner Life"                                                     | Dave Holt            |           |
-| :white_square_button: | Herald | Vol. 14, No. 1 | "Spiritual Faith, Uncertainty, and Cosmic Citizenship"                         | David Kantor         |           |
-| :white_square_button: | Herald | Vol. 14, No. 1 | "Moods, Music and Magic of The Urantia Book"                                   | David Glass          |           |
-| :white_square_button: | Herald | Vol. 14, No. 1 | "A Statistical Test of the Hypothesis of Human Authorship of The Urantia Book" | Dr. Philip Calabrese |           |
+<figure class="image urantiapedia image-style-align-left">
+  <img src="/image/article/Herald_covers/Herald2008.jpg">
+</figure>
 
-### Volumen 15
+| Título                                                                                                                                                  | Autor                  | Etiquestas |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ---------- |
+| [Ministerio Celestial: Origen Visto e Invisible, Naturaleza y Destino](/es/article/Michelle_Klimesh/Celestial_Ministry_Seen_and_Unseen)                 | Michelle Klimesh       |
+| [El Supremo y el alcance](/es/article/Arlene_and_Buck_Weimer/The_Supreme_and_Outreach)                                                                  | Arlene and Buck Weimer |
+| [¿Adivina quién viene después?](/es/article/Carolyn_Kendall/Guess_Whos_Coming_Next)                                                                     | Carolyn Kendall        |
+| [Una experiencia misionera en Turquía](/es/article/Bill_Rocap/A_Missionary_Experience_in_Turkey)                                                        | Bill Rocap             |
+| [Sé tú el libro](/es/article/Michael_Painter/You_Be_The_Book)                                                                                           | Michael Painter        |
+| [El comienzo de una nueva tradición digna](/es/article/The_Start_of_a_Worthy_New_Tradition)                                                             |                        |
+| [El significado de la carrera de autootorgamiento séptuple de Cristo Miguel](/es/article/David_Glass/The_Significance_of_the_Sevenfold_Bestowal_Career) | David Glass            |
+| [El libro de Urantia ya no es lo que solía ser](/es/article/Halbert_Katzen/The_Urantia_Book_Is_Not_What_It_Used_To_Be)                                  | Halbert Katzen         |
+| [«La ley es la vida misma...»](/es/article/Linda_Buselli/Law_is_Life_Itself)                                                                            | Linda Buselli          |
+| [Ciudadanía Moral Cósmica](/es/article/Doreen_Heyne/Moral_Cosmic_Citizenship)                                                                           | Doreen Heyne           |
+| [Las raíces de la moralidad](/es/article/Henry_Begemann/The_Roots_of_Morality)                                                                          | Henry Begemann         |
+| [Arrojando perlas antes de la personalidad](/es/article/David_Elders/Casting_Pearls_Before_Personality)                                                 | David Elders           |
 
-| Revisado              | Fuente | Ejemplar       | Título                                                                           | Autor             | Etiquetas |
-| --------------------- | ------ | -------------- | -------------------------------------------------------------------------------- | ----------------- | --------- |
-| :white_square_button: | Herald | Vol. 15, No. 1 | "The Rehabilitation of Urantia"                                                  | Carolyn Kendall   |           |
-| :white_square_button: | Herald | Vol. 15, No. 1 | "The Journey Following Mortal Death"                                             | W. S. Sadler, Jr. |           |
-| :white_square_button: | Herald | Vol. 15, No. 1 | "Pursuing Supremacy: How Might the Master Seraphim and Human Beings Collaborate? |                   |           |
-| :white_square_button: | Herald | Vol. 15, No. 1 | "Urantian Language and the Preservation of Meaning"                              | Richard Daunt     |           |
-| :white_square_button: | Herald | Vol. 15, No. 1 | "Origin, Nature, Ministry, and Destiny of Thought Adjusters"                     | David Glass       |           |
-| :white_square_button: | Herald | Vol. 15, No. 1 | "Spiritual Unity"                                                                | Richard Goodman   |           |
-| :white_square_button: | Herald | Vol. 15, No. 1 | "Prayer? Why Bother?"                                                            | Linda Buselli     |           |
+<br>
 
-### Volumen 16
+### Volumen 10, Número 1, 2009 (Verano)
 
-| Revisado              | Fuente | Ejemplar       | Título                                         | Autor                   | Etiquetas |
-| --------------------- | ------ | -------------- | ---------------------------------------------- | ----------------------- | --------- |
-| :white_square_button: | Herald | Vol. 16, No. 1 | "Effective Study Group Leadership"             | David Kulieke           |           |
-| :white_square_button: | Herald | Vol. 16, No. 1 | "Can We Have a Universal Standard of Morality" | Dave Holt               |           |
-| :white_square_button: | Herald | Vol. 16, No. 1 | "Destiny of the Master Michaels?"              | Bill Sadler Jr.         |           |
-| :white_square_button: | Herald | Vol. 16, No. 1 | "The Urantia Book and Its Mission"             | Charles Laurence Olivea |           |
-| :white_square_button: | Herald | Vol. 16, No. 1 | "Is The Urantia Book a Sacred Text"            | David Kantor            |           |
-| :white_square_button: | Herald | Vol. 16, No. 1 | "Sixty-Four Original Urantia Book Concepts"    | Dr. William Sadler      |           |
-| :white_square_button: | Herald | Vol. 16, No. 1 | "Society Evolving: Chaos, Progress, and Order" | Lawrence Schkade        |           |
-| :white_square_button: | Herald | Vol. 16, No. 1 | "The Importance of Christian Ministry"         | Preston Thomas          |           |
+<br>
 
-### Volumen 17
+<figure class="image urantiapedia image-style-align-left">
+  <img src="/image/article/Herald_covers/Herald2009.jpg">
+</figure>
 
-| Revisado              | Fuente | Ejemplar       | Título                                                                            | Autor                                 | Etiquetas |
-| --------------------- | ------ | -------------- | --------------------------------------------------------------------------------- | ------------------------------------- | --------- |
-| :white_square_button: | Herald | Vol. 17, No. 1 | "A Circle of Kindred Spirits"                                                     | Bobbie Dreier and Francis Oliver Lynn |           |
-| :white_square_button: | Herald | Vol. 17, No. 1 | "Listen Up Grandparents and YaYAs"                                                | Sara Blackstock                       |           |
-| :white_square_button: | Herald | Vol. 17, No. 1 | "Early Persecutions of Jesus’ Followers and Dispersion of the Apostles"           | Lawrence J. Bowman                    |           |
-| :white_square_button: | Herald | Vol. 17, No. 1 | "Thoughts on the Bestowals of Personality and the Thought Adjuster"               | Kermit Anderson                       |           |
-| :white_square_button: | Herald | Vol. 17, No. 1 | "Mindedness and Spirituality, Comments on the Absolutes"                          | Bill Sadler Jr.                       |           |
-| :white_square_button: | Herald | Vol. 17, No. 1 | "Why Should You Support a Urantia Organization Like The Urantia Book Fellowship?" | Paula Thompson                        |           |
-| :white_square_button: | Herald | Vol. 17, No. 1 | "Top/Down"                                                                        | Gary Deinstadt                        |           |
-| :white_square_button: | Herald | Vol. 17, No. 1 | "Healing Meditation—A Poem"                                                       | K. Brendi Poppel                      |           |
-| :white_square_button: | Herald | Vol. 17, No. 1 | "The Nature of Personal Reality"                                                  | Byron Belitsos                        |           |
+| Título                                                                                                                                                          | Autor            | Etiquestas |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------- |
+| [En busca del Onamonalonton histórico](/es/article/Dave_Holt/In_Search_of_the_Historical_Onamonalonton)                                                         | Dave Holt        |
+| [El papel de las emociones y los sentimientos en un mundo evolutivo](/es/article/Nancy_Johnson/The_Role_of_Emotions_and_Feelings_on_an_Evolutionary_World)      | Nancy Johnson    |
+| [Alegría en el contenedor de gusanos](/es/article/Sara_Blackstock/Joy_in_the_Worm_Bin)                                                                          | Sara Blackstock  |
+| [Diez lecciones del viñedo](/es/article/Arnie_Ondis/Ten_Lessons_from_the_Vineyard)                                                                              | Arnie Ondis      |
+| [Descubrimientos del sistema solar que corroboran El libro de Urantia](/es/article/Philip_Calabrese/Solar_System_Discoveries_that_Corroborate_The_Urantia_Book) | Philip Calabrese |
+| [Una lección de un ratón](/es/article/Robert_Seubert/A_Lesson_from_a_Mouse)                                                                                     | Robert Seubert   |
+| [El Tercer Círculo Cósmico](/es/article/Richard_Guevara/The_Third_Cosmic_Circle)                                                                                | Richard Guevara  |
+| [Convirtiéndonos en un evangelista misionero eficaz](/es/article/David_Kantor/Becoming_an_Effective_Missionary_Evangel)                                         | David Kantor     |
+| [El espectro ilimitado de la educación](/es/article/David_Glass/The_Limitless_Spectrum_of_Education)                                                            | David Glass      |
+| [Universidad de Urantia - U2](/es/article/David_Nash/Urantia_University_U2)                                                                                     | David Nash       |
+| [Nuestras deidades creativas: una relación suprema](/es/article/Linda_Buselli/Our_Creative_Deities_A_Supreme_Relationship)                                      | Linda Buselli    |
 
-### Volumen 18
+<br>
 
-| Revisado              | Fuente | Ejemplar       | Título                                                                        | Autor                   | Etiquetas |
-| --------------------- | ------ | -------------- | ----------------------------------------------------------------------------- | ----------------------- | --------- |
-| :white_square_button: | Herald | Vol. 18, No. 1 | "Urantia Spring"                                                              | Joshua J. Wilson        |           |
-| :white_square_button: | Herald | Vol. 18, No. 1 | "A Musical Metaphor"                                                          | Dr. Bruce Jackson       |           |
-| :white_square_button: | Herald | Vol. 18, No. 1 | "The Temple Of Spiritual Brotherhood and the Greater Meaning Of Study Groups" | Charles Laurence Olivea |           |
-| :white_square_button: | Herald | Vol. 18, No. 1 | "What Will We Find in Outer Space? "                                          | William Sadler Jr       |           |
-| :white_square_button: | Herald | Vol. 18, No. 1 | "What is Interfaith?"                                                         | Michael Painter         |           |
-| :white_square_button: | Herald | Vol. 18, No. 1 | "The Shroud of Turin and The Urantia Papers"                                  | Dennis Marshall         |           |
-| :white_square_button: | Herald | Vol. 18, No. 1 | "Questions About Being Human"                                                 | Michelle Klimesh        |           |
-| :white_square_button: | Herald | Vol. 18, No. 1 | "What Does The Urantia Book Tell Us Needs to be Accomplished?"                | David Kantor            |           |
-| :white_square_button: | Herald | Vol. 18, No. 1 | "Twelve Ways I Hear From God"                                                 | Richard Rosen           |           |
+### Volumen 11, Número 1, 2010 (Verano)
 
-### Volumen 19
+<br>
 
-| Revisado              | Fuente | Ejemplar       | Título                                               | Autor                          | Etiquetas |
-| --------------------- | ------ | -------------- | ---------------------------------------------------- | ------------------------------ | --------- |
-| :white_square_button: | Herald | Vol. 19, No. 1 | "Survival of the Subnormal Mind"                     | Rick Lyon                      |           |
-| :white_square_button: | Herald | Vol. 19, No. 1 | "The Soul Synthesis Hypothesis"                      | Byron Belitsos                 |           |
-| :white_square_button: | Herald | Vol. 19, No. 1 | "I, Brother - The Urantia Papers and Issues of Race" | DJ Marshall                    |           |
-| :white_square_button: | Herald | Vol. 19, No. 1 | "A Tale of Two Men"                                  | Linda Buselli                  |           |
-| :white_square_button: | Herald | Vol. 19, No. 1 | "Akhenaten"                                          | Derek Samaras                  |           |
-| :white_square_button: | Herald | Vol. 19, No. 1 | "The New Teacher/Leaders"                            | Preston Thomas                 |           |
-| :white_square_button: | Herald | Vol. 19, No. 1 | "Unsinkable and Unbreakable"                         | James Perry                    |           |
-| :white_square_button: | Herald | Vol. 19, No. 1 | "The Supreme Being in My Life"                       | Yvon Gagne                     |           |
-| :white_square_button: | Herald | Vol. 19, No. 1 | "The Eden-Atlantis Project"                          | Commodore Robert Stanley Bates |           |
+<figure class="image urantiapedia image-style-align-left">
+  <img src="/image/article/Herald_covers/Herald2010.jpg">
+</figure>
 
-### Volumen 20
+| Título                                                                                                                                            | Autor                           | Etiquestas |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ---------- |
+| [The World is Not Coming to an End](/es/article/Carolyn_Kendall_and_Barbara_Newsom/The_World_is_Not_Coming_to_an_End)                             | Carolyn Kendall, Barbara Newsom |
+| [Religion of Experience vs. Religion of Autority](/es/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Autority)                     | Richard S. Omura                |
+| [God Consciousness](/es/article/Charles_Laurence_Olivea/God_Consciousness)                                                                        | Charles Laurence Olivea         |
+| [The Urantia Book, Human Concepts, and Revelatory Validation](/es/article/David_Elders/The_Urantia_Book_Human_Concepts_and_Revelatory_Validation) | David Elders                    |
+| [Understanding the Relation of Love to the Mind](/es/article/Sheila_Keene_Lund/Understanding_the_Relation_of_Love_to_the_Mind)                    | Sheila Keene-Lund               |
+| [Cosmic Socialization and Planetary Citizenship](/es/article/Dave_Holt/Cosmic_Socialization_and_Planetary_Citizenship)                            | Dave Holt                       |
+| [Testimonial of One Second-Generation Urantian](/es/article/Angela_Thurston/Testimonial_of_One_Second_Generation_Urantian)                        | Angela Thurston                 |
+| [The Problem of Business](/es/article/Dan_Amyx/The_Problem_of_Business)                                                                           | Dan Amyx                        |
+| [Crouching Deity/Hidden Supreme](/es/article/Bob_Debold/Crouching_Deity_Hidden_Supreme)                                                           | Bob Debold                      |
 
-| Revisado              | Fuente | Ejemplar       | Título                                                  | Autor                                                                | Etiquetas |
-| --------------------- | ------ | -------------- | ------------------------------------------------------- | -------------------------------------------------------------------- | --------- |
-| :white_square_button: | Herald | Vol. 20, No. 1 | "Summer Study Session 2019                              |                                                                      |           |
-| :white_square_button: | Herald | Vol. 20, No. 1 | "Following in the Footsteps of Enoch and Elijah"        | Meredith Tenney                                                      |           |
-| :white_square_button: | Herald | Vol. 20, No. 1 | "My Thought Adjuster painting"                          | Patrick Yesh                                                         |           |
-| :white_square_button: | Herald | Vol. 20, No. 1 | "Urantia Book Religion"                                 | Phil Calabrese                                                       |           |
-| :white_square_button: | Herald | Vol. 20, No. 1 | "Father Robert Schuer Quotes 15 Personality Bestowal"   | JJ Johnson                                                           |           |
-| :white_square_button: | Herald | Vol. 20, No. 1 | "Ancient Japan JOMON"                                   | Derek Samaras                                                        |           |
-| :white_square_button: | Herald | Vol. 20, No. 1 | "Early Beliefs About the Nature of Christ"              | David Kantor                                                         |           |
-| :white_square_button: | Herald | Vol. 20, No. 1 | "There Was a Man Once"                                  | Errol Strider                                                        |           |
-| :white_square_button: | Herald | Vol. 20, No. 1 | "Working with Mother Spirit to Uplift the World"        | Meredith Tenney, Sharon Porter, Mary Huggins, and Elisabeth Callahan |           |
-| :white_square_button: | Herald | Vol. 20, No. 1 | "Epochal Pathways"                                      | Neal Waldrop                                                         |           |
-| :white_square_button: | Herald | Vol. 20, No. 1 | "Urantia Book - A Spiritual Path"                       | Rabia Harris                                                         |           |
-| :white_square_button: | Herald | Vol. 20, No. 1 | "The Challenge of Revelation Based Education"           | Bruce Jackson                                                        |           |
-| :white_square_button: | Herald | Vol. 20, No. 1 | "Mobilizing a Dispensation of Planetary Rehabilitation" | David Kantor                                                         |           |
-| :white_square_button: | Herald | Vol. 20, No. 1 | "Pipeline of Light"                                     |                                                                      |           |
+<br>
 
-### Volumen 21
+### Volumen 11, Número 2, 2011 (Verano)
 
-| Revisado              | Fuente | Ejemplar       | Título                                                                    | Autor                                    | Etiquetas |
-| --------------------- | ------ | -------------- | ------------------------------------------------------------------------- | ---------------------------------------- | --------- |
-| :white_square_button: | Herald | Vol. 21, No. 1 | "Avi Dogim, Emilio Coppola, and Steve Dreier,"                            | Larry Bowman                             |           |
-| :white_square_button: | Herald | Vol. 21, No. 1 | "From the Supreme to the Three Person’d God: Seven Levels of Total Deity" | Dave Holt                                |           |
-| :white_square_button: | Herald | Vol. 21, No. 1 | "Growing the Supreme"                                                     | Michael Hill                             |           |
-| :white_square_button: | Herald | Vol. 21, No. 1 | "Adoration of the Mother"                                                 | Joshua Wilson                            |           |
-| :white_square_button: | Herald | Vol. 21, No. 1 | "TODAY is the day for JOY!"                                               | David Glass                              |           |
-| :white_square_button: | Herald | Vol. 21, No. 1 | "Uversa — the Future Headquarters of God the Supreme"                     | Tom Allen                                |           |
-| :white_square_button: | Herald | Vol. 21, No. 1 | "To Beget Or Not to Beget That Is the Question"                           | JJ Johnson                               |           |
-| :white_square_button: | Herald | Vol. 21, No. 1 | "An Encounter This Unique"                                                | Duane R Johnson                          |           |
-| :white_square_button: | Herald | Vol. 21, No. 1 | "Contrasting Jesus and Paul"                                              | David Kantor                             |           |
-| :white_square_button: | Herald | Vol. 21, No. 1 | "Cosmic Canoe"                                                            | Tom Choquette and Christilyn Biek Larson |           |
-| :white_square_button: | Herald | Vol. 21, No. 1 | "Remembering Those Who Have Gone On"                                      | John Hales                               |           |
+<br>
 
-### Volumen 22
+<figure class="image urantiapedia image-style-align-left">
+  <img src="/image/article/Herald_covers/Herald2011.jpg">
+</figure>
 
-| Revisado              | Fuente | Ejemplar       | Título                                                            | Autor                            | Etiquetas |
-| --------------------- | ------ | -------------- | ----------------------------------------------------------------- | -------------------------------- | --------- |
-| :white_square_button: | Herald | Vol. 22, No. 1 | "Cooperating with the Holy Spirit"                                | Kaye Cooper                      |           |
-| :white_square_button: | Herald | Vol. 22, No. 1 | "Mother Mother Song"                                              | Framy Mas                        |           |
-| :white_square_button: | Herald | Vol. 22, No. 1 | "Mother and Father"                                               | Sharon Porter                    |           |
-| :white_square_button: | Herald | Vol. 22, No. 1 | "Living with the Spirit of Truth"                                 | Esther Wood                      |           |
-| :white_square_button: | Herald | Vol. 22, No. 1 | "Song for Papa’s Family"                                          | David Glass                      |           |
-| :white_square_button: | Herald | Vol. 22, No. 1 | "Of Two Minds: Human and Divine"                                  | Richard Bain                     |           |
-| :white_square_button: | Herald | Vol. 22, No. 1 | "Thinking of my Divine Mother aka the Holy Spirit"                | Karen Larsen                     |           |
-| :white_square_button: | Herald | Vol. 22, No. 1 | "Divine Synergy"                                                  | Chuck Thurston                   |           |
-| :white_square_button: | Herald | Vol. 22, No. 1 | "Fruits of the Spirit, Adjutant Mind Spirits, Fruits of Divinity" |                                  |           |
-| :white_square_button: | Herald | Vol. 22, No. 1 | "Introduce Urantia Teachings to 15,000 People a Month"            | Jena Lassiter                    |           |
-| :white_square_button: | Herald | Vol. 22, No. 1 | "Chronology of Death Resurrection Ascension of Jesus"             | Mark Blackham                    |           |
-| :white_square_button: | Herald | Vol. 22, No. 1 | "To Our Mother Spirit, the Holy Spirit, the Giver of Mind"        | Mary Huggins                     |           |
-| :white_square_button: | Herald | Vol. 22, No. 1 | "Sojourner of the Soul: Gardener of our Hearts"                   | Tom Choquette                    |           |
-| :white_square_button: | Herald | Vol. 22, No. 1 | "Proclaim the Holiday of Holidays"                                | Joshua Wilson and Elianna Obadia |           |
-| :white_square_button: | Herald | Vol. 22, No. 1 | "Mighty Messenger Fall - Intro Edition"                           | Jena Lassiter                    |           |
-| :white_square_button: | Herald | Vol. 22, No. 1 | "Foxy Parents"                                                    | Mary Huggins                     |           |
-| :white_square_button: | Herald | Vol. 22, No. 1 | "Graduation Memorial Initiative"                                  | Bobbie Dreier                    |           |
+| Título                                                                                                                                          | Autor                           | Etiquestas |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ---- |
+| [The First Epochal Revelation in American Indian Traditions](/es/article/Dave_Holt/The_First_Epochal_Revelation_in_American_Indian_Traditions) | Dave Holt                        |
+| [The Power of The Name of Jesus](/es/article/Charles_Laurence_Olivea/The_Power_of_The_Name_of_Jesus)                                           | Charles Laurence Olivea          |
+| [Machiventa Melchizedek: One of History's Mysteries](/es/article/Linda_Buselli/Machiventa_Melchizedek_One_of_Historys_Mysteries)               | Linda Buselli                    |
+| [“Nearer, My God, to Thee” Getting Closer to God](/es/article/David_Glass/Nearer_My_God_to_Thee_Getting_Closer_to_God)                         | David Glass                      |
+| [One Man's Tour Through The Evolutionary Debate](/es/article/One_Mans_Tour_Through_The_Evolutionary_Debate)                                    |                                  |
+
+<br>
+
+### Volumen 12, Número 1, 2012 (Verano)
+
+<br>
+
+<figure class="image urantiapedia image-style-align-left">
+  <img src="/image/article/Herald_covers/Herald2012.jpg">
+</figure>
+
+| Título                                                                                                                                            | Autor           | Etiquestas |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---- |
+| [Souls on Purpose: The Personal Creed Project](/es/article/John_Creger/Souls_on_Purpose_The_Personal_Creed_Project)                              | John Creger      |
+| [Evolutionary Spirituality](/es/article/Steve_McIntosh/Evolutionary_Spirituality)                                                                | Steve Macintosh  |
+| [Urantia, 606 of Satania: Concerning the Inhabited Worlds of the Satania System](/es/article/Israel_Dix/Urantia_606_of_Satania)                  | Israel Dix       |
+| [Perfecting, Neuroplasticity, and the Supreme Actualizing](/es/article/Lawrence_Schkade/Perfecting_Neuroplasticity_and_the_Supreme_Actualizing)  | Lawrence Schkade |
+| [Race and The Urantia Book](/es/article/Earlene_Green/Race_and_The_Urantia_Book)                                                                 | Earlene Green    |
+| [Religion of Experience vs Religion of Autority](/es/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Autority_2)                 | Richard S. Omura |
+| [The Forgotten Urantian: Dr. Lena Sadler](/es/article/Larry_Mullins/The_Forgotten_Urantian_Dr_Lena_Sadler)                                       | Larry Mullins    |
+| [Cosmology in the Light of The Urantia Book](/es/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book)                            | Philip Calabrese |
+
+<br>
+
+### Volumen 13, Número 1, 2013 (Verano)
+
+<br>
+
+<figure class="image urantiapedia image-style-align-left">
+  <img src="/image/article/Herald_covers/Herald2013.jpg">
+</figure>
+
+| Título                                                                                                                                                                                            | Autor              | Etiquestas |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- | ---- |
+| [Spiritual Genetics](/es/article/Stephen_Dreier/Spiritual_Genetics)                                                                                                                              | Steve Dreier        |
+| [Religion of One](/es/article/Gary_Deinstadt/Religion_of_One)                                                                                                                                    | Rev. Gary Deinstadt |
+| [A Cosmology of Race](/es/article/Charles_Laurence_Olivea/A_Cosmology_of_Race)                                                                                                                   | Charles Olivea      |
+| [Exploring the Inner Life](/es/article/Dave_Holt/Exploring_the_Inner_Life)                                                                                                                       | Dave Holt           |
+| [Spiritual Faith, Incertainty and Cosmic Citizenship](/es/article/David_Kantor/Spiritual_Faith_Incertainty_and_Cosmic_Citizenship)                                                               | David Kantor        |
+| [Moods, Music and Magic of The Urantia Book](/es/article/David_Glass/Moods_Music_and_Magic_of_The_Urantia_Book)                                                                                  | David Glass         |
+| [A Statistical Test of the Hypothesis the That Urantia Book was authored by a Human Being](/es/article/Philip_Calabrese/A_Statistical_Test_of_Hypothesis_Urantia_Book_authored_by_a_Human_Being) | Philip Calabrese    |
+
+<br>
+
+### Volumen 14, Número 1, 2014 (Verano)
+
+<br>
+
+<figure class="image urantiapedia image-style-align-left">
+  <img src="/image/article/Herald_covers/Herald2014.jpg">
+</figure>
+
+| Título                                                                                                                                                                                   | Autor          | Etiquestas |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ---- |
+| [The Rehabilitation of Urantia](/es/article/Carolyn_Kendall/The_Rehabilitation_of_Urantia)                                                                                              | Carolyn Kendall |
+| [The Journey Following Mortal Death](/es/article/William_S_Sadler_Jr/The_Journey_Following_Mortal_Death)                                                                                | Bill Sadler Jr. |
+| [Pursuing Supremacy: How Might the Master Seraphim and Human Beings Collaborate?](/es/article/Bob_Debold/Pursuing_Supremacy_How_Might_the_Master_Seraphim_and_Human_Beings_Collaborate) | Bob Debold      |
+| [Urantian Language and the Preservation of Meaning](/es/article/Richard_Daunt/Urantian_Language_and_the_Preservation_of_Meaning)                                                        | Richard Daunt   |
+| [Origin, Nature, Ministry, and Destiny of Thought Adjusters](/es/article/David_Glass/Origin_Nature_Ministry_and_Destiny_of_Thought_Adjusters)                                           | David Glass     |
+| [Spiritual Unity](/es/article/Richard_Goodman/Spiritual_Unity)                                                                                                                          | Richard Goodman |
+| [Prayer? Why Bother?](/es/article/Linda_Buselli/Prayer_Why_Bother)                                                                                                                      | Linda Buselli   |
+
+<br>
+
+### Volumen 15, Número 1, 2015 (Verano)
+
+<br>
+
+<figure class="image urantiapedia image-style-align-left">
+  <img src="/image/article/Herald_covers/Herald2015.jpg">
+</figure>
+
+| Título                                                                                                                  | Autor                  | Etiquestas |
+| ---------------------------------------------------------------------------------------------------------------------- | ----------------------- | ---- |
+| [Effective Study Group Leadership](/es/article/David_Kulieke/Effective_Study_Group_Leadership)                         | David Kulieke           |
+| [Can We Have a Universal Standard of Morality](/es/article/Dave_Holt/Can_We_Have_a_Universal_Standard_of_Morality)     | Dave Holt               |
+| [Destiny of the Master Michaels?](/es/article/William_S_Sadler_Jr/Destiny_of_the_Master_Michaels)                      | Bill Sadler Jr.         |
+| [The Urantia Book and Its Mission](/es/article/Charles_Laurence_Olivea/The_Urantia_Book_and_Its_Mission)               | Charles Laurence Olivea |
+| [Is The Urantia Book a Sacred Text](/es/article/David_Kantor/Is_The_Urantia_Book_a_Sacred_Text)                        | David Kantor            |
+| [Sixty-Four Original Urantia Book Concepts](/es/article/William_S_Sadler/Sixty_Four_Original_Urantia_Book_Concepts)    | William S. Sadler       |
+| [Society Evolving: Chaos, Progress, and Order](/es/article/Lawrence_Schkade/Society_Evolving_Chaos_Progress_and_Order) | Lawrence Schkade        |
+| [The Importance of Christian Ministry](/es/article/Preston_Thomas/The_Importance_of_Christian_Ministry)                | Preston Thomas          |
+
+<br>
+
+### Volumen 16, Número 1, 2016 (Verano)
+
+<br>
+
+<figure class="image urantiapedia image-style-align-left">
+  <img src="/image/article/Herald_covers/Herald2016.jpg">
+</figure>
+
+| Título                                                                                                                                                                        | Autor                                | Etiquestas |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | ---- |
+| [A Circle of Kindred Spirits](/es/article/Bobbie_Dreier_and_Francis_Oliver_Lynn/A_Circle_of_Kindred_Spirits)                                                                 | Bobbie Dreier and Francis Oliver Lynn |
+| [Listen Up Grandparents and YaYAs](/es/article/Sara_Blackstock/Listen_Up_Grandparents_and_YaYAs)                                                                             | Sara Blackstock                       |
+| [Early Persecutions of Jesus’ Followers and Dispersion of the Apostles](/es/article/Lawrence_J_Bowman/Early_Persecutions_of_Jesus_Followers_and_Dispersion_of_the_Apostles)  | Lawrence J. Bowman                    |
+| [Thoughts on the Bestowals of Personality and the Thought Adjuster](/es/article/Kermit_Anderson/Thoughts_on_the_Bestowals_of_Personality_and_the_Thought_Adjuster)           | Kermit Anderson                       |
+| [Mindedness and Spirituality, Comments on the Absolutes](/es/article/William_S_Sadler_Jr/Mindedness_and_Spirituality_Comments_on_the_Absolutes)                              | Bill Sadler Jr.                       |
+| [Why Should You Support a Urantia Organization Like The Urantia Book Fellowship?](/es/article/Paula_Thompson/Why_Should_You_Support_a_Urantia_Organization)                  | Paula Thompson                        |
+| [Top/Down](/es/article/Gary_Deinstadt/Top_Down)                                                                                                                              | Gary Deinstadt                        |
+| [The Nature of Personal Reality](/es/article/Byron_Belitsos/The_Nature_of_Personal_Reality)                                                                                  | Byron Belitsos                        |
+
+<br>
+
+### Volumen 17, Número 1, 2017 (Verano)
+
+<br>
+
+<figure class="image urantiapedia image-style-align-left">
+  <img src="/image/article/Herald_covers/Herald2017.jpg">
+</figure>
+
+| Título                                                                                                                                                                                          | Autor                  | Etiquestas |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ---- |
+| [Urantia Spring](/es/article/Joshua_J_Wilson/Urantia_Spring)                                                                                                                                   | Joshua J. Wilson        |
+| [A Musical Metaphor](/es/article/Bruce_Jackson/A_Musical_Metaphor)                                                                                                                             | Dr. Bruce Jackson       |
+| [The Temple Of Spiritual Brotherhood and the Greater Meaning Of Study Groups](/es/article/Charles_Laurence_Olivea/The_Temple_Of_Spiritual_Brotherhood_and_the_Greater_Meaning_Of_Study_Groups) | Charles Laurence Olivea |
+| [What Will We Find in Outer Space?](/es/article/William_S_Sadler_Jr/What_Will_We_Find_in_Outer_Space)                                                                                          | Bill Sadler Jr.         |
+| [What is Interfaith?](/es/article/Michael_Painter/What_is_Interfaith)                                                                                                                          | Michael Painter         |
+| [The Shroud of Turin and The Urantia Papers](/es/article/Dennis_Marshall/The_Shroud_of_Turin_and_The_Urantia_Papers)                                                                           | Dennis Marshall         |
+| [Questions About Being Human](/es/article/Michelle_Klimesh/Questions_About_Being_Human)                                                                                                        | Michelle Klimesh        |
+| [What Does The Urantia Book Tell Us Needs to be Accomplished?](/es/article/David_Kantor/What_Does_The_Urantia_Book_Tell_Us_Needs_to_be_Accomplished)                                           | David Kantor            |
+| [Twelve Ways I Hear From God](/es/article/Richard_Rosen/Twelve_Ways_I_Hear_From_God)                                                                                                           | Richard Rosen           |
+
+<br>
+
+### Volumen 18, Número 1, 2018 (Verano)
+
+<br>
+
+<figure class="image urantiapedia image-style-align-left">
+  <img src="/image/article/Herald_covers/Herald2018.jpg">
+</figure>
+
+| Título                                                                                                                             | Autor                         | Etiquestas |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ---- |
+| [Survival of the Subnormal Mind](/es/article/Rick_Lyon/Survival_of_the_Subnormal_Mind)                                            | Rick Lyon                      |
+| [The Soul Synthesis Hypothesis](/es/article/Byron_Belitsos/The_Soul_Synthesis_Hypothesis)                                         | Byron Belitsos                 |
+| [I, Brother - The Urantia Papers and Issues of Race](/es/article/Dennis_Marshall/I_Brother_The_Urantia_Papers_and_Issues_of_Race) | DJ Marshall                    |
+| [A Tale of Two Men](/es/article/Linda_Buselli/A_Tale_of_Two_Men)                                                                  | Linda Buselli                  |
+| [Akhenaten](/es/article/Derek_Samaras/Akhenaten)                                                                                  | Derek Samaras                  |
+| [The New Teacher/Leaders](/es/article/Preston_Thomas/The_New_Teacher_Leaders)                                                     | Preston Thomas                 |
+| [Unsinkable and Unbreakable](/es/article/James_Perry/Unsinkable_and_Unbreakable)                                                  | James Perry                    |
+| [The Supreme Being in My Life](/es/article/Yvon_Gagne/The_Supreme_Being_in_My_Life)                                               | Yvon Gagne                     |
+| [The Eden-Atlantis Project](/es/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project)                                           | Commodore Robert Stanley Bates |
+
+<br>
+
+### Volumen 19, Número 1, 2019 (Verano)
+
+<br>
+
+<figure class="image urantiapedia image-style-align-left">
+  <img src="/image/article/Herald_covers/Herald2019.jpg">
+</figure>
+
+| Título                                                                                                                                      | Autor                                                               | Etiquestas |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | ---- |
+| [Following in the Footsteps of Enoch and Elijah](/es/article/Meredith_Tenney/Following_in_the_Footsteps_of_Enoch_and_Elijah)               | Meredith Tenney                                                      |
+| [The Inevitable (and Necessary) ‘Organized Religion’ Based on The Urantia Book](/es/article/Philip_Calabrese/Urantia_Book_Religion)        | Phil Calabrese                                                       |
+| [Gems of Wisdom by Father Robert Schuer](/es/article/Robert_Schuer/Gems_of_Wisdom_by_Father_Robert_Schuer)                                 | Robert Schuer                                                        |
+| [Personality Bestowal](/es/article/JJ_Johnson/Personality_Bestowal)                                                                        | JJ Johnson                                                           |
+| [Ancient Japan: Jōmon Culture](/es/article/Derek_Samaras/Ancient_Japan_Jomon_Culture)                                                      | Derek Samaras                                                        |
+| [Exploring Urantia Book Christology](/es/article/David_Kantor/Exploring_Urantia_Book_Christology)                                          | David Kantor                                                         |
+| [Working with Mother Spirit to Uplift the World](/es/article/Meredith_Tenney_and_others/Working_with_Mother_Spirit_to_Uplift_the_World)    | Meredith Tenney, Sharon Porter, Mary Huggins, and Elisabeth Callahan |
+| [Epochal Pathways](/es/article/Neal_Waldrop/Epochal_Pathways)                                                                              | Neal Waldrop                                                         |
+| [Urantia Book - A Spiritual Path](/es/article/Rabia_Harris/Urantia_Book_A_Spiritual_Path)                                                  | Rabia Harris                                                         |
+| [The Challenge of Revelation Based Education](/es/article/Bruce_Jackson/The_Challenge_of_Revelation_Based_Education)                       | Bruce Jackson                                                        |
+| [Mobilizing a Dispensation of Planetary Rehabilitation](/es/article/David_Kantor/Mobilizing_a_Dispensation_of_Planetary_Rehabilitation)    | David Kantor                                                         |
+
+<br>
+
+### Volumen 20, Número 1, 2020 (Verano)
+
+<br>
+
+<figure class="image urantiapedia image-style-align-left">
+  <img src="/image/article/Herald_covers/Herald2020Summer.jpg">
+</figure>
+
+| Título                                                                                                                                                                  | Autor            | Etiquestas |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---- |
+| [Avi Dogim, Emilio Coppola, and Steve Dreier](/es/article/Lawrence_J_Bowman/Avi_Dogim_Emilio_Coppola_and_Steve_Dreier)                                                 | Larry Bowman      |
+| [From the Supreme to the Three Person’d God: Seven Levels of Total Deity](/es/article/Dave_Holt/From_the_Supreme_to_the_Three_Persond_God_Seven_Levels_of_Total_Deity) | Dave Holt         |
+| [Growing the Supreme](/es/article/Michael_Hill/Growing_the_Supreme)                                                                                                    | Michael Hill      |
+| [Adoration of the Mother](/es/article/Joshua_J_Wilson/Adoration_of_the_Mother)                                                                                         | Joshua Wilson     |
+| [TODAY is the day for JOY!](/es/article/David_Glass/TODAY_is_the_day_for_JOY)                                                                                          | David Glass       |
+| [Uversa — the Future Headquarters of God the Supreme](/es/article/Tom_Allen/Uversa_the_Future_Headquarters_of_God_the_Supreme)                                         | Tom Allen         |
+| [To Beget Or Not to Beget That Is the Question](/es/article/JJ_Johnson/To_Beget_Or_Not_to_Beget_That_Is_the_Question)                                                  | JJ Johnson        |
+| [Contrasting Jesus and Paul](/es/article/David_Kantor/Contrasting_Jesus_and_Paul)                                                                                      | David Kantor      |
+
+<br>
+
+### Volumen 21, Número 1, 2021 (Verano)
+
+<br>
+
+<figure class="image urantiapedia image-style-align-left">
+  <img src="/image/article/Herald_covers/Herald2021.jpg">
+</figure>
+
+| Título                                                                                                                                  | Autor          | Etiquestas |
+| -------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ---- |
+| [Cooperating with the Holy Spirit](/es/article/Kaye_Cooper/Cooperating_with_the_Holy_Spirit)                                           | Kaye Cooper     |
+| [Mother and Father](/es/article/Sharon_Porter/Mother_and_Father)                                                                       | Sharon Porter   |
+| [Living with the Spirit of Truth](/es/article/Esther_Wood/Living_with_the_Spirit_of_Truth)                                             | Esther Wood     |
+| [Of Two Minds: Human and Divine](/es/article/Dick_Bain/Of_Two_Minds_Human_and_Divine)                                                  | Richard Bain    |
+| [Divine Synergy](/es/article/Chuck_Thurston/Divine_Synergy)                                                                            | Chuck Thurston  |
+| [Introduce Urantia Teachings to 15,000 People a Month](/es/article/Jena_Lassiter/Introduce_Urantia_Teachings_to_15000_People_a_Month)  | Jena Lassiter   |
+| [Chronology of Death Resurrection Ascension of Jesus](/es/article/Mark_Blackham/Chronology_of_Death_Resurrection_Ascension_of_Jesus)   | Mark Blackham   |
+| [Sojourner of the Soul: Gardener of our Hearts](/es/article/Tom_Choquette/Sojourner_of_the_Soul_Gardener_of_our_Hearts)                | Tom Choquette   |
+| [Proclaim the Holiday of Holidays](/es/article/Joshua_J_Wilson/Proclaim_the_Holyday_of_Holydays)                                       | Joshua Wilson   |
+
+<br>
 
 ## UB Annotaded & UBTheNews
 

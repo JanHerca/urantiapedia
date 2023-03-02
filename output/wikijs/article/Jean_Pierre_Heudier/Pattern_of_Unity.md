@@ -31,8 +31,8 @@ One way to get a feeling for the difference of quality is to keep in mind the co
 It is very helpful for human beings on this path to unity with the divine to understand several things. First, it is important for the human personality to realize that this divinity-tension initiated by the Father and which appears in the domains of time and space as contrast between opposites, as imperfection, incompleteness, and limitations, was planned, willed. It was meant to be that way. Accepting this truth avoids wasting time blaming God for the present conditions in which we live. The dualistic world was meant to be that way. We **achieve** unity by exercising the gift of freewill. It was also meant for finite beings to experience the processes of differentiation, segmentation, individualization, and separation before we could feel the need for unification and unity, long for it, hunger for it, and be lured into consecrating our lives here and hereafter to attain it.
 
 > Mind can never hope to grasp the concept of an Absolute without attempting first to break the unity of such reality. Mind is unifying of all such divergencies, but in the very absence of such divergencies, mind finds no basis upon which to attempt to formulate understanding concepts.
-
-> The primordial stasis of Infinity requires segmentation prior to human attempts at comprehension. [[UB 115:3.2-3](/en/The_Urantia_Book/115#p3_2)]
+> 
+> The primordial stasis of Infinity requires segmentation prior to human attempts at comprehension. . . . [[UB 115:3.2-3](/en/The_Urantia_Book/115#p3_2)]
 
 We should also realize that compensation for this divinity-tension has already been provided in many ways on all levels of reality. This pattern of compensation takes several forms. One of them is ***interdependence***. Even though still imperfectly understood and imperfectly manifest, it is present everywhere such as between the perfected and the perfect, between the descending Sons of God and the ascending sons of God, between angels and men, between primary and secondary midwayers and men, and between all the Creators and creatures within the Supreme.
 

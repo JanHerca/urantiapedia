@@ -50,11 +50,11 @@ Obviously, this is a rich and complex subject that cannot be explained adequatel
 > Family and kinship loyalty, a strong sense of the enchantment of the world, innocence, > imagination, closeness to nature
 > **Pathology:**
 > Superstitious, violent, slavery to the group, docile, naive
-> **Contemporary Examples: **
+> **Contemporary Examples:**
 > Some indigenous peoples and children
-> **Organizational Structure: **
+> **Organizational Structure:**
 > Tribe or Clan
-> **Exemplary Leaders: **
+> **Exemplary Leaders:**
 > Chief Seattle, Chief Joseph
 > **Estimated & of World Population:** 10%
 {.is-info}
@@ -218,7 +218,7 @@ Nevertheless, when thinking about integral consciousness, it is important to rem
 
 ## Integral Politics
 
-Integral philosophy transcends and includes the politics of both left and right by recognizing how the values of the previous stages of awareness each have appropriate appli¬cations to different sets of life conditions. Sometimes the solutions of traditionalists apply, sometimes a modernist's approach is best, and sometimes the sensibilities of the postmodern worldview should prevail. It is not that integral consciousness values these approaches equally—it can see that postmodernism is more evolved than the others—but integral consciousness can also see where postmodernism is not evolved enough to always work for the benefit of the spiral as a whole. Thus by including the best while rejecting the worst of all worldviews in "life condition-appropriate proportion," the integral worldview is able to transcend all previous worldviews in its power to produce cultural evolu¬tion.
+Integral philosophy transcends and includes the politics of both left and right by recognizing how the values of the previous stages of awareness each have appropriate appli¬cations to different sets of life conditions. Sometimes the solutions of traditionalists apply, sometimes a modernist's approach is best, and sometimes the sensibilities of the postmodern worldview should prevail. It is not that integral consciousness values these approaches equally—it can see that postmodernism is more evolved than the others—but integral consciousness can also see where postmodernism is not evolved enough to always work for the benefit of the spiral as a whole. Thus by including the best while rejecting the worst of all worldviews in "life condition-appropriate proportion," the integral worldview is able to transcend all previous worldviews in its power to produce cultural evolution.
 
 The whole point of integralism is to move beyond the idea of "old paradigm bad, new paradigm good." When postmodernism held the position at the cutting edge of evo¬lution, harsh criticisms of the old paradigm served a useful function as a power-generating stance of antithesis. How¬ever, now that postmodernism is maturing, as we are called to participate in the next great phase of human history, we can move beyond focusing primarily on the deconstruction of modernism.
 
@@ -235,7 +235,7 @@ It's true that the movement for integral world federation depends upon the devel
 Towards this end, I have created an online petition (modeled after Jefferson's Declaration of Independence) entitled: A Declaration of the Value of Global Governance. This petition website, found at: www.integralworldgovernment.org, provides an opportunity for political action and explains how the worldview and values of integral consciousness can lead to this next great step in the development of human history. This website also includes a bibliography of integral philosophy books and links to other websites within the integral movement. I thus invite each of you to add your name to this online petition and support our efforts at putting _The Urantia Book_'s teachings into action.
 
 > Steve McIntosh has been a student of _The Urantia Book_ since 1973. Trained as a lawyer, he now runs a consumer product company called Now & Zen. Steve is currently working on a book about integral philosophy.
-
+{.is-info}
 
 ## References
 

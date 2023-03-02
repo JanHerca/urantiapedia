@@ -4,21 +4,33 @@
 
 ### Steps in order for certain PDF conversions to text
 
-1. Replace hyphenation
-    - Search (regex): `-\n`
-    - Replace: `(blank)`
-2. Replace paragraph separators
-    - Search (regex): `^\n`
-    - Replace: `%%\n\n`
-3. Replace end lines not preceded by %
-    - Search (regex): `(?<!%)\n`
-    - Replace: `(one space)`
-4. Replace %%
-    - Search: `%%`
-    - Replace: `\n`
-5. Replace spaces at beginning
-    - Search: `^[ ]+`
-    - Replace: `(blank)`
+1. Replace hyphenation: `-\n` => `(blank)`
+2. Replace paragraph separators: `^\n` => `%%\n\n`
+3. Replace end lines not preceded by %: `(?<!%)\n` => `(one space)`
+4. Replace %%: `%%` => `\n`
+5. Replace spaces at beginning: `^[ ]+` => `(blank)`
+
+### Translation (with Google Translator) of Markdown articles to Spanish 
+
+* Info blockquotes: 
+    * `{es-info}` => `{.is-info}`
+    * `{.es-info}` => `{.is-info}`
+* UB links:
+    * `[UB` => `[LU`
+    * `/en/` => `/es/`
+    * `/El_Libro_de_Urantia/ ` => `/The_Urantia_Book/`
+    * `/El_Libro_de_Urantia/` => `/The_Urantia_Book/`
+    * `/El Libro de Urantia/` => `/The_Urantia_Book/`
+    * `(\d)–(\d)` => `$1-$2` (do not apply this outside links)
+* `_El libro de Urantia_` => `_El Libro de Urantia_`
+* `. . .` => `...`
+* Images:
+    * `<figura` => `<figure`
+    * `="Figura` => `="Figure`
+    * `clase="` => `class="`
+    * `="imagen` => `="image`
+    * `</figura>` => `</figure>`
+* Quotes (see below in other replacements)
 
 ### Conversion of study aids
 
@@ -46,46 +58,28 @@
 
 ### Other replacements
 
-* Replace english plain quotes with curly ones:
-    - Search (regex): `"([^"]*)"`
-    - Replace: `“$1”`
-* Replace english curly quotes with spanish angular ones:
-    - Search (regex): `“([^”]*)”`
-    - Replace: `«$1»`
-* Replace spanish plain quotes with angular ones:
-    - Search (regex): `"([^"]*)"`
-    - Replace: `«$1»`
-* Replace LaTeX italics with Markdown
-    - Search (regex): `\\textit\{([^\}]*)\}`
-    - Replace: `_$1_`
+* Replace english plain quotes with curly ones: `"([^"]*)"` => `“$1”`
+* Replace english curly quotes with spanish angular ones: `“([^”]*)”` => `«$1»`
+* Replace spanish plain quotes with angular ones: `"([^"]*)"` => `«$1»`
+* Replace LaTeX italics with Markdown: `\\textit\{([^\}]*)\}` => `_$1_`
 * Urantia references to links
-    - Search (regex): `\(\d{1,4}\.\d{1,2}\) (\d{1,3}):(\d{1,2})\.(\d{1,3})`
-    - or Search (regex): `\[(\d{1,3}):(\d{1,2})\.(\d{1,3})\]`
-    - Replace: `[UB $1:$2.$3](/en/The_Urantia_Book/$1#p$2_$3)`
-    - Search (regex): `LU (\d{1,3}):(\d{1,2})\.(\d{1,3})`
-    - Replace: `[LU $1:$2.$3](/es/The_Urantia_Book/$1#p$2_$3)`
-* Bible references to links
-    - Search (regex): `Gn (\d{1,2}):(\d{1,2})`
-    - Replace: `[Gn $1:$2](/es/Bible/Genesis/$1#v$2)`
+    - `\(\d{1,4}\.\d{1,2}\) (\d{1,3}):(\d{1,2})\.(\d{1,3})` or 
+    - `\[(\d{1,3}):(\d{1,2})\.(\d{1,3})\]` or 
+    - `LU (\d{1,3}):(\d{1,2})\.(\d{1,3})` => 
+    - `[UB $1:$2.$3](/en/The_Urantia_Book/$1#p$2_$3)` or 
+    - `[LU $1:$2.$3](/es/The_Urantia_Book/$1#p$2_$3)`
+* Bible references to links: `Gn (\d{1,2}):(\d{1,2})` => `[Gn $1:$2](/es/Bible/Genesis/$1#v$2)`
 * Bible references that are not already converted to links (better option)
-    - Search: `(?<!\[)I Cor. (\d{1,2}):(\d{1,2})`
-    - Replace: `[Gn $1:$2](/es/Bible/Genesis/$1#v$2)`
-    - Search: `(?<!\[)(\d+):(\d+)([-|,])?(\d+)?`
-    - Replace: `[$1:$2$3$4](/en/Bible/Hebrews/$1#v$2)`
-* Bible references to links
-    - Search (regex): `Luke (\d+):(\d+)-(\d+:?\d+)`
-    - Replace: `[Luke $1:$2-$3](/en/Bible/Luke/$1#v$2)`
-* Change quotes inside other quotes:
-    - Search (regex): `("[^"]*)(")([^"]*)(")([^"]*")`
-    - Replace: `$1“$3”$5`
-* Remove duplicate lines (requires a previous sorting, see below):
-    - Search (regex): `^(.*)(\n\1)+$`
-    - Replace: `$1`
-* í => ’
-* ñ => C
-* ì => “
-* î => ”
-* „  ”
+    - `(?<!\[)I Cor. (\d{1,2}):(\d{1,2})` => `[Gn $1:$2](/es/Bible/Genesis/$1#v$2)`
+    - `(?<!\[)(\d+):(\d+)([-|,])?(\d+)?` => `[$1:$2$3$4](/en/Bible/Hebrews/$1#v$2)`
+* Bible references to links: `Luke (\d+):(\d+)-(\d+:?\d+)` => `[Luke $1:$2-$3](/en/Bible/Luke/$1#v$2)`
+* Change quotes inside other quotes: `("[^"]*)(")([^"]*)(")([^"]*")` => `$1“$3”$5`
+* Remove duplicate lines (requires a previous sorting, see below): `^(.*)(\n\1)+$` => `$1`
+* `í` => `’`
+* `ñ` => `C`
+* `ì` => `“`
+* `î` => `”`
+* `„  ”`
 * Search end of sentences: [\.”\?!] 
 * Search by page ref: `"par_pageref": "359.\d+"` in `./input/json/book-e*-footnotes`
 * Search existing old UB refs: `\(\d{1,4}(\.\d{1,2})?\)`
