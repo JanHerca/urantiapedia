@@ -74,7 +74,7 @@ _The Urantia Book exalts the prophets and affirms the truth of their prophetic v
 
 _With the perspective of history we may now find many examples of prophecies that were fulfilled._ Jeremiah’s story is one of my favorites. He lived in the sixth century BC, just before the time of the fall of Jerusalem to Nebuchadnezzar. Jeremiah prophesied the destruction of Jerusalem for over twenty years before it actually took place in 586 BC. The rulers’ response to his message was to ignore his warnings and put him in prison.
 
-Jeremiah’s prophecies are very specific and right on the money. For example, in Jer. 4:6&7 we find this: “A great lion (Nebuchadnezzar) has gone up from his thicket, a destroyer of nations has set out; he has gone forth from his place to make your land a waste; your cities will be ruins without inhabitant.” And in Jer. 20:4 we read, “I will give all Judah into the hand of the king of Babylon, he shall carry them captive to Babylon.”
+Jeremiah’s prophecies are very specific and right on the money. For example, in [Jer. 4:6&7](/en/Bible/Jeremiah/4#v6) we find this: “A great lion (Nebuchadnezzar) has gone up from his thicket, a destroyer of nations has set out; he has gone forth from his place to make your land a waste; your cities will be ruins without inhabitant.” And in Jer. 20:4 we read, “I will give all Judah into the hand of the king of Babylon, he shall carry them captive to Babylon.”
 
 Jeremiah’s prophecies also provide another clear demonstration of the value of prophecy. He warned the rulers that Babylon would conquer Jerusalem and that they should surrender to avoid greater losses. Pause to notice that the entire fate of the Jewish nation was bound up in the rulers’ acceptance of Jeremiah’s prophecy. But they refused to listen and held fast to their purely human viewpoint. Their failure to heed Jeremiah’s counsel resulted in the complete destruction of the Jewish state and seventy years of exile in Babylon.
 
@@ -84,9 +84,9 @@ _The Urantia Book_ _itself engages in prophecy and contains numerous explicit pr
 
 > Having summarized the teachings of Jesus about the kingdom of heaven, we are permitted to…engage in a _prophetic forecast_ of the kingdom as it may evolve in the age to come. [[UB 170:5.1](/en/The_Urantia_Book/170#p5_1)] (Emphasis mine)
 
-> Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment. [[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)]
+> . . . Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment. [[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)]
 
-> Sooner or later another and greater John the Baptist is due to arise proclaiming, ‘the kingdom of God is at hand.’ [[UB 170:5.19](/en/The_Urantia_Book/170#p5_19)]
+> Sooner or later another and greater John the Baptist is due to arise proclaiming, ‘the kingdom of God is at hand.’ . . . [[UB 170:5.19](/en/The_Urantia_Book/170#p5_19)]
 
 > This new and oncoming social order will not settle down complacently for a millennium. [[UB 99:1.1](/en/The_Urantia_Book/99#p1_1)]
 
@@ -98,7 +98,7 @@ The future grows out of the present and to properly understand our future we als
 
 ## History Of Secularism
 
-The midwayers tell us that modern secularism was fostered by two world-wide influences: “_the narrow-minded and godless attitude of nineteenth and twentieth century so-called science—atheistic science_” and “_the totalitarian medieval Christian church.” It had its inception as “a rising protest against the almost complete domination of Western civilization by the institutionalized Christian church._” [[UB 195:8.2](/en/The_Urantia_Book/195#p8_2)] Secularism has brought us numerous benefits which contributed to its rise and present popularity; it broke the bonds of church control, and has promoted tolerance, social service, democratic government, civil liberties, science, and education.
+The midwayers tell us that modern secularism was fostered by two world-wide influences: “_the narrow-minded and godless attitude of nineteenth and twentieth century so-called science—atheistic science_” and “_the totalitarian medieval Christian church._” It had its inception as “_a rising protest against the almost complete domination of Western civilization by the institutionalized Christian church._” [[UB 195:8.2](/en/The_Urantia_Book/195#p8_2)] Secularism has brought us numerous benefits which contributed to its rise and present popularity; it broke the bonds of church control, and has promoted tolerance, social service, democratic government, civil liberties, science, and education.
 
 ## The Predicted Results Of Secularism
 
@@ -108,13 +108,13 @@ In 1935 the revelators clearly warned us of the devastation secularism would bri
 
 At the outset, let us clearly understand this great danger that secularism poses;􀀀it blights spiritual experience. In the plant world, blight first causes the plant to cease growing, then to decay, and finally to die. And this is an apt description of the effect that modern secularism has on religious faith and spiritual experience. This is the greatest and most insidious effect of modern secularism; without our knowledge it effectively blocks and eventually destroys spiritual experience and religious living. And it does so on a vast scale, affecting “_millions of unsuspecting souls._”
 
-A second major effect of secularism is the _disintegration of society_. Consider the following analysis of conditions in the 1930s, and notice that the midwayers’ warning of coming social disintegration has proven all too true: “_Without God, without religion, scientific secularism can never co-ordinate its forces.…This secularistic human society, notwithstanding its unparalleled materialistic achievement, is slowly disintegrating._” [[UB 195:88.10](/en/The_Urantia_Book/195#p88_10)]
+A second major effect of secularism is the _disintegration of society_. Consider the following analysis of conditions in the 1930s, and notice that the midwayers’ warning of coming social disintegration has proven all too true: “_Without God, without religion, scientific secularism can never co-ordinate its forces.…This secularistic human society, notwithstanding its unparalleled materialistic achievement, is slowly disintegrating._” [[UB 195:8.10](/en/The_Urantia_Book/195#p8_10)]
 
 Now whether we are talking about marriage, family life, communities, ethnic and religious strife, national affairs, or international relations, who can doubt that such social disintegration has taken place and indeed is a defining characteristic of modern times? And if we look to the future we may discern that we face continuing social disintegration until that day when secularism is finally overcome.
 
 A third predicted event of secularism is the rise of totalitarian states. The revelators warn us of this threat:
 
-> Secularism did break the bonds of church control, and now in turn it threatens to establish a new and godless type of mastery over the hearts and minds of modern man. The tyrannical and dictatorial political state is the direct offspring of scientific materialism and philosophic secularism. Secularism no sooner frees man from the domination of the institutionalized church than it sells him into slavish bondage to the totalitarian state. [[UB 195:8.4](/en/The_Urantia_Book/195#p8_4)]
+> . . . Secularism did break the bonds of church control, and now in turn it threatens to establish a new and godless type of mastery over the hearts and minds of modern man. The tyrannical and dictatorial political state is the direct offspring of scientific materialism and philosophic secularism. Secularism no sooner frees man from the domination of the institutionalized church than it sells him into slavish bondage to the totalitarian state. . . . [[UB 195:8.4](/en/The_Urantia_Book/195#p8_4)]
 
 Totalitarianism is defined as “domination by a government of all political, social, and economic activities in a nation.” It first appeared in the Soviet Union under Lenin and Stalin, and later in the 1930s under Hitler’s National Socialism. Benito Mussolini was the first to use the word totalitarian to describe his Italian dictatorship. One can distinguish the totalitarian regime from all traditional tyrannies by its mobilization of entire populations in support of the state and its political ideology. Later twentieth century examples of totalitarian societies include Maoist China, the Cambodian Khmer Rouge, the Laotian Pathet Lao, the Taliban in Afghanistan, and Sadam Hussain’s Iraq. Some present day examples include Libya under Qadaffi, Bathist Syria, the Socialist Republic of Vietnam, and North Korea. This rise of powerful totalitarian states was a distinct feature of the twentieth century that continues to the present day and poses the major political challenge to the twenty-first century. Most ominously, the new century has witnessed a new form of this threat in the rise of a militant and totalitarian Islam. As we look to the future we must have the courage to face the tests that lie before us; and this worldwide struggle between totalitarianism and freedom will characterize the early decades of the twenty-first century.
 
@@ -150,7 +150,7 @@ There is more good news, and it is particularly relevant to our present generati
 
 > The hour is striking for a rediscovery of the true and original foundations of present-day distorted and compromised Christianity—the real life and teachings of Jesus. [[UB 195:9.5](/en/The_Urantia_Book/195#p9_5)]
 
-> The time is ripe to witness the figurative resurrection of the human Jesus from his burial tomb amidst the theological traditions and the religious dogmas of nineteen centuries. [[UB 196:1.3](/en/The_Urantia_Book/196#p1_3)]
+> The time is ripe to witness the figurative resurrection of the human Jesus from his burial tomb amidst the theological traditions and the religious dogmas of nineteen centuries. [[UB 196:1.2](/en/The_Urantia_Book/196#p1_2)]
 
 > Modern culture must become spiritually baptized with a new revelation of Jesus’ life and illuminated with a new understanding of his gospel of eternal salvation. [[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)]
 

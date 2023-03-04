@@ -60,7 +60,7 @@ We traveled through the rolling green foothills of western Pennsylvania and on t
 
 __Ingredient # 7: There are people in all walks of life just waiting for an opportunity to respond to that inner urge to make the world a better place.__
 
-Turning south we found ourselves in Indianapolis at Mike’s study group with Linda and Bob, who have driven a long way to attend. As a matter of fact, they are always willing to go the extra mile on any worthwhile Urantia endeavor. What a privilege to intimately share what comes out of the pages of _The Urantia Book_ with long time, devoted readers! We also discovered other readers in the area who are unaware of each other. The time is ripe for connecting. Spiritual growth is mutually stimulated by intimate association with other religionists.” [[UB 100:0.2](/en/The_Urantia_Book/100#p0_2)]
+Turning south we found ourselves in Indianapolis at Mike’s study group with Linda and Bob, who have driven a long way to attend. As a matter of fact, they are always willing to go the extra mile on any worthwhile Urantia endeavor. What a privilege to intimately share what comes out of the pages of _The Urantia Book_ with long time, devoted readers! We also discovered other readers in the area who are unaware of each other. The time is ripe for connecting. “Spiritual growth is mutually stimulated by intimate association with other religionists.” [[UB 100:0.2](/en/The_Urantia_Book/100#p0_2)]
 
 __Ingredient #8: Set your priorities, “knock and the door will open”.__
 

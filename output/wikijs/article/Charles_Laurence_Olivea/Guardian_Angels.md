@@ -79,7 +79,7 @@ Generally, seraphim and cherubim stayed close to God and supported His throne an
 
 Perhaps it is not all that surprising that the idea of protective spirits was not emphasized in Hebrew culture. Personal guardians were not all that necessarily needed given the Jewish concept of an absolute, all-powerful God. Since God is supreme, why would He, in the scheme of things, structure the world and universe requiring intermediaries for every mortal?[^16]
 
-Yet, in Jewish commentary, there was some provision for a relationship between an individual Jew and angels. If not a deeply personal one, it was still a possible connection that could be made if one was sufficiently righteous. This relationship carried with it the portent of spiritual protection from evil spirits. From Tanhuma, Numbers 19, is written, “If a man perform a religious precept, one angel is assigned to him; if he performs two precepts, two angels are assigned to him; if he performs all the precepts, many angels are assigned to him; as it said ‘For He shall give His angels charge over you, to keep you in all thy ways.’ [Psalm 91:11]. Who are these angels? They are his guardians from the harmful spirits; as it is said ‘A thousand shall fall at your side and ten thousand at your right hand.’ [Psalm 91:7]”[^17]
+Yet, in Jewish commentary, there was some provision for a relationship between an individual Jew and angels. If not a deeply personal one, it was still a possible connection that could be made if one was sufficiently righteous. This relationship carried with it the portent of spiritual protection from evil spirits. From Tanhuma, Numbers 19, is written, “If a man perform a religious precept, one angel is assigned to him; if he performs two precepts, two angels are assigned to him; if he performs all the precepts, many angels are assigned to him; as it said ‘For He shall give His angels charge over you, to keep you in all thy ways.’ [Psalm 91:11]. Who are these angels? They are his guardians from the harmful spirits; as it is said ‘A thousand shall fall at your side and ten thousand at your right hand.’ [Psalm 91:7](/en/Bible/Psalms/91#v7)”[^17]
 
 ## The Christian Tradition
 
@@ -211,7 +211,7 @@ Finally, I wish to offer this tribute, an _angelic sampler_, presented as a furt
 
 > “_Hello Central, give me Heaven, for my mama’s there; you can find her with the Angels on the Golden Stair; she’ll be glad it’s me who’s speaking, call her, won’t you please; for I want to surely tell her, we’re so lonely here._” —The chorus, from nineteenth century sheet music, Hello Central–Give Me Heaven,( A child’s effort trying to reach her deceased mother through the angels.)[^29]
 
-> Continue to love each other with true brotherly love, don’t forget to be kind to strangers, for some who have done this have entertained angels without realizing it. —Hebrews 13:1–2 [^30]
+> Continue to love each other with true brotherly love, don’t forget to be kind to strangers, for some who have done this have entertained angels without realizing it. —[Hebrews 13:1–2](/en/Bible/Hebrews/13#v1) [^30]
 
 > The guardian angels love the homely ways of men, they desire to share the hours of labour and of ease; the love of children and their play, and all the happy atmosphere of the home. They would guard men’s homes, keeping away all influences of danger and strife, of darkness and disease. —Geoffrey Hodson [^31]
 
@@ -272,7 +272,7 @@ I have read _The Urantia Book_ for many years as part of my decision to consciou
 
 [^17]: Andrew Wilson, _World Scripture: A Comparative Anthology of Sacred Texts_, New York: Paragon House, 1991, p. 257.
 
-[^18]: Steven Chase, translator & ed., _Angelic Spirituality: Medieval Perspectives on the Ways of Angels_, New York: Paulist Press, 2002, pp. 12–13. [Some biblical references: Colossians 1:16, 2:10, 2:15; Ephesians 1:21, 3:10, 6:12; 1Corinthians 15:24; Romans 8:38; 1Peter 3:22. Chase lists Paul’s additional groups of angels as Rulers, Authorities, Powers, Lordships, and Thrones. While Chase’s translations of Paul’s names of angelic categories vary with other biblical translations, such as the King James’ Bible, the concept-designations of these angels are essentially the same.]
+[^18]: Steven Chase, translator & ed., _Angelic Spirituality: Medieval Perspectives on the Ways of Angels_, New York: Paulist Press, 2002, pp. 12–13. [Some biblical references: [Colossians 1:16](/en/Bible/Colossians/1#v16), [2:10](/en/Bible/Colossians/2#v10), [2:15](/en/Bible/Colossians/2#v15); [Ephesians 1:21](/en/Bible/Ephesians/1#v16), [3:10](/en/Bible/Ephesians/3#v10), [6:12](/en/Bible/Ephesians/6#v12); [1Corinthians 15:24](/en/Bible/1_Corinthians/15#v24); [Romans 8:38](/en/Bible/Romans/8#v38); [1Peter 3:22](/en/Bible/1_Peter/3#v22). Chase lists Paul’s additional groups of angels as Rulers, Authorities, Powers, Lordships, and Thrones. While Chase’s translations of Paul’s names of angelic categories vary with other biblical translations, such as the King James’ Bible, the concept-designations of these angels are essentially the same.]
 
 [^19]: _Angelic Spirituality_, pp. 25–31.
 
