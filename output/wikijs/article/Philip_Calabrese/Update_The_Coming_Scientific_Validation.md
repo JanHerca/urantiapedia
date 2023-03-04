@@ -32,7 +32,7 @@ The reason our scientists had anticipated that the Wild 2 material would be cold
 
 _The Urantia Book_ speaks of certain “dark gravity bodies” that completely shroud the Central Universe of Havona:
 
-> On the outskirts of this vast central universe, far out beyond the seventh belt of Havona worlds, there swirl an unbelievable number of enormous dark gravity bodies. These multitudinous dark masses are quite unlike other space bodies in many particulars; even in form they are very different. These dark gravity bodies neither reflect nor absorb light; they are nonreactive to physical-energy light, and they so completely encircle and enshroud Havona as to hide it from the view of even near-by inhabited universes of time and space. [[UB 14:1.7](/en/The_Urantia_Book/14#p1_7)]
+> On the outskirts of this vast central universe, far out beyond the seventh belt of Havona worlds, there swirl an unbelievable number of enormous dark gravity bodies. These multitudinous dark masses are quite unlike other space bodies in many particulars; even in form they are very different. These dark gravity bodies neither reflect nor absorb light; they are nonreactive to physical-energy light, and they so completely encircle and enshroud Havona as to hide it from the view of even near-by inhabited universes of time and space. [[UB 14:1.14](/en/The_Urantia_Book/14#p1_14)]
 
 This paragraph has always been difficult to interpret. After all, what is left if a body neither reflects nor absorbs light? To shroud, it must bend light around itself as though not there!
 
@@ -48,7 +48,7 @@ _The Urantia Book_ speaks of more than one type of dark matter including dark is
 
 Dark energy is what our scientists postulate is causing the observed acceleration of universe expansion. Rather than the supposed universe expansion slowing down, it is speeding up the further out our scientists observe. That the universe might undergo cycles of expansion and contraction with an implied periodic acceleration presently occurring has not been seriously considered. The observed acceleration has not yet been taken as evidence of such a possibility of periodic motion. But _The Urantia Book_ claims that there are such two billion year cycles of acceleration and slowing and reversal of direction of space itself:
 
-The cycles of space respiration extend in each phase for a little more than one billion Urantia years. During one phase the universes expand; during the next they contract. Pervaded space is now approaching the mid-point of the expanding phase, while unpervaded space nears the mid-point of the contracting phase, and we are informed that the outermost limits of both space extensions are, theoretically, now approximately equidistant from Paradise. [[UB 11:6.4](/en/The_Urantia_Book/11#p6_4)]
+> The cycles of space respiration extend in each phase for a little more than one billion Urantia years. During one phase the universes expand; during the next they contract. Pervaded space is now approaching the mid-point of the expanding phase, while unpervaded space nears the mid-point of the contracting phase, and we are informed that the outermost limits of both space extensions are, theoretically, now approximately equidistant from Paradise. [[UB 11:6.4](/en/The_Urantia_Book/11#p6_4)]
 
 Since the expansion is nearing the midpoint of the expanding phase it has therefore recently been accelerating and will presently starting slowing after it reaches that midpoint. So in this paragraph _The Urantia Book_ may be providing an explanation for the observed acceleration of space expansion.
 
@@ -58,7 +58,7 @@ As our scientists map the speed of apparent space expansion at larger distances 
 
 Russian and American scientists were able to smash an atom of californium (with 98 protons) with an atom of calcium (having 20 protons) to very briefly form a new atom for less than a thousandth of a second. And it took 3 times 10 to the 19th collisions to get just 3 atoms to stick together. The team expects to find even heavier elements that will last a few hours.[^4] _The Urantia Book_ predicted that an atom would be very short lived when more than 100 electrons are in orbit around it as would be the case for an atom with 118 protons.
 
-> In Orvonton it has never been possible naturally to assemble over one hundred orbital electrons in one atomic system. When one hundred and one have been artificially introduced into the orbital field, the result has always been the well-nigh instantaneous disruption of the central proton with the wild dispersion of the electrons and other liberated energies.[^7] [[UB 42:7.7](/en/The_Urantia_Book/42#p7_7)] 
+> In Orvonton it has never been possible naturally to assemble over one hundred orbital electrons in one atomic system. When one hundred and one have been artificially introduced into the orbital field, the result has always been the well-nigh instantaneous disruption of the central proton with the wild dispersion of the electrons and other liberated energies. [[UB 42:7.7](/en/The_Urantia_Book/42#p7_7)] 
 
 ## Age Of Sierra Mountain Range
 
@@ -66,7 +66,7 @@ As another example of _The Urantia Book_’s uncanny ability to avoid error and 
 
 By contrast, the 1955 _Urantia Book_ [[UB 60:3-4](/en/The_Urantia_Book/60#p3)] [[UB 59:5.20](/en/The_Urantia_Book/59#p5_20)] fully explains, and in great detail, the whole mountain formation process (still largely unrecognized) including how the Sierras were initially formed at the end of the Cretaceous period (144 to 65 million years ago),[^6] during the western continental crunch up against an obstruction on the floor of the Pacific ocean which ended the westward drift of the North and South American continents. The Sierras were subsequently worn down and submerged but then re-elevated by on-going volcanic action. The story is complicated.
 
-> 25,000,000 years ago there was a slight land submergence following the long epoch of land elevation. The Sierras were well re-elevated; in fact, they have been rising ever since. [[UB 61:3.3](/en/The_Urantia_Book/61#p3_3)]
+> 25,000,000 years ago there was a slight land submergence following the long epoch of land elevation. . . . The Sierras were well re-elevated; in fact, they have been rising ever since. . . . [[UB 61:3.3](/en/The_Urantia_Book/61#p3_3)]
 
 Had the authors of the 1955 _Urantia Book_ known no more than most geologists living in 2006, they would likely have given an erroneous account of how the Sierra Nevadas were formed less than 5 million years ago.
 

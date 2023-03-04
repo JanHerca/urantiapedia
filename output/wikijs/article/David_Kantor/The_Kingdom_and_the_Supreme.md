@@ -26,7 +26,7 @@ However, dissecting and reconstructing the text for detailed study is not a simp
 
 The basis for the study outline to be proposed here is a belief that the fifth epochal revelation is an illumination and intellectual expansion of the core of the fourth epochal revelation—Jesus’ gospel of the kingdom; that _The Urantia Book_’s presentation of the Supreme is an expanded presentation of Jesus’ gospel of the kingdom; that the religion of Jesus is experiential participation in the actualization of the Supreme; that the ‘kingdom of heaven’ is the term Jesus used in reference to phenomena associated with emerging Supremacy—and that these are the primary elements of the fifth epochal revelation.
 
-In Paper [[UB 170:1.10](/en/The_Urantia_Book/170#p1_10)] the authors refer to “_centuries of confusion regarding the meaning of the term, ‘kingdom of heaven._’ The primary concepts of _The Urantia Book_ provide clarification of this confusion. To support this view of _The Urantia Book_, we will begin by reviewing the objectives of the present dispensation—the dispensation of the Spirit of Truth. We will then do a comparison of Jesus’ teachings about the emergence of the kingdom with the book’s teachings about the actualization of the Supreme. This will lead us to the development of an outline for progressive study and some reflections on the implications this model holds for dissemination.
+In Paper [[UB 170:1.14](/en/The_Urantia_Book/170#p1_14)] the authors refer to “_centuries of confusion regarding the meaning of the term, ‘kingdom of heaven._’ The primary concepts of _The Urantia Book_ provide clarification of this confusion. To support this view of _The Urantia Book_, we will begin by reviewing the objectives of the present dispensation—the dispensation of the Spirit of Truth. We will then do a comparison of Jesus’ teachings about the emergence of the kingdom with the book’s teachings about the actualization of the Supreme. This will lead us to the development of an outline for progressive study and some reflections on the implications this model holds for dissemination.
 
 There is an intriguing similarity between teachings about the kingdom of heaven and the nature of the actualizing Supreme. They both deal with the means by which we begin “_to live according to the trend of the universes . . . following the pathway of Supremacy to the attainment of the Universal Father_”—the religion of Jesus. [[UB 118:10.16](/en/The_Urantia_Book/118#p10_16)]
 
@@ -56,7 +56,7 @@ _Dispensations are tools for managing planetary support services._ Planetary adm
 
 _Dispensations are tools for synchronizing the administrative affairs of different worlds associated with the ascension scheme._ Rehabilitation programs, social mechanisms, educational programs, planetary and local system administration procedures all need to be planned, created, and put in place in readiness for new groups of pilgrims arriving from the evolutionary planets in conjunction with transitions from one dispensation to the next.
 
-On Urantia, Michael inaugurated the dispensation of the bestowed Spirit of Truth, a “. . ._new dispensation wherein the enslaved individual emerges from the bondage of ceremonialism and selfishness into the spiritual joy of the brotherhood and fellowship of the liberated faith sons of the living God._” [[UB 120:2.4](/en/The_Urantia_Book/120#p2_4)] _The Urantia Book_ is a feature of this dispensation of the Spirit of Truth, “. . ._a dispensation of mercy and salvation for all nations,_” [[UB 136:1.3](/en/The_Urantia_Book/136#p1_3)] the so-called “_Christian dispensation._” [[UB 195:8.13](/en/The_Urantia_Book/195#p8_13)]
+On Urantia, Michael inaugurated the dispensation of the bestowed Spirit of Truth, a “. . ._new dispensation wherein the enslaved individual emerges from the bondage of ceremonialism and selfishness into the spiritual joy of the brotherhood and fellowship of the liberated faith sons of the living God._” [[UB 179:5.2](/en/The_Urantia_Book/179#p5_2)] _The Urantia Book_ is a feature of this dispensation of the Spirit of Truth, “. . ._a dispensation of mercy and salvation for all nations,_” [[UB 136:1.3](/en/The_Urantia_Book/136#p1_3)] the so-called “_Christian dispensation._” [[UB 195:8.13](/en/The_Urantia_Book/195#p8_13)]
 
 Consider some of the spiritual forces influencing our world and their relationship to the present dispensation.
 
@@ -66,10 +66,9 @@ Consider some of the spiritual forces influencing our world and their relationsh
 
 The Spirit of Truth “is designed to live in man and, for each new generation, to restate the Jesus message so that every new group of mortals to appear upon the face of the earth shall have a new and up-to-date version of the gospel. . . ” [[UB 194:2.1](/en/The_Urantia_Book/194#p2_1)]
 
-The Spirit of Truth “. . . _was bestowed for the purpose of qualifying
-believers more effectively to preach the gospel of the kingdom_. . .” [[UB 194:3.5](/en/The_Urantia_Book/194#p3_5)]
+The Spirit of Truth “. . . _was bestowed for the purpose of qualifying believers more effectively to preach the gospel of the kingdom_. . .” [[UB 194:3.5](/en/The_Urantia_Book/194#p3_5)]
 
-Though the Spirit of Truth is poured out upon all flesh, this spirit of the Son is almost wholly limited in function and power by man’s personal reception of that which constitutes the sum and substance of the mission of the bestowal Son. [[UB 34:5.5](/en/The_Urantia_Book/34#p5_5)]
+> Though the Spirit of Truth is poured out upon all flesh, this spirit of the Son is almost wholly limited in function and power by man’s personal reception of that which constitutes the sum and substance of the mission of the bestowal Son. [[UB 34:5.5](/en/The_Urantia_Book/34#p5_5)]
 
 In addition to the Spirit of Truth, other important celestial agencies have their work structured relative to the objectives of the current dispensation.
 
@@ -111,9 +110,9 @@ While these purposes of Michael’s bestowal seem very straightforward, the pict
 
 > . . . Jesus explained that the kingdom of heaven was an evolutionary experience, beginning here on earth and progressing up through successive life stations to Paradise. [[UB 142:7.3](/en/The_Urantia_Book/142#p7_3)]
 
-The Supreme Being “_is a synthetic coordinator of all creature-Creator universe activities._” [[UB 0:7.7](/en/The_Urantia_Book/0#p7_7)]
+The Supreme Being “_is a synthetic co-ordinator of all creature-Creator universe activities._” [[UB 0:7.9](/en/The_Urantia_Book/0#p7_9)]
 
-> The faith of Jesus [provided for]. . .  deliverance from the limitations of self-consciousness through the attainment of the cosmic levels of the Supreme mind and by co-ordination with the attainments of all other self-conscious beings. . .  the perfected oneness with Deity in and through the Supreme. . .  [[UB 101:6.8](/en/The_Urantia_Book/101#p6_8)]
+> The faith of Jesus [provided for]. . .  deliverance from the limitations of self-consciousness through the attainment of the cosmic levels of the Supreme mind and by co-ordination with the attainments of all other self-conscious beings. . .  the perfected oneness with Deity in and through the Supreme. . .  [[UB 101:6.13,15](/en/The_Urantia_Book/101#p6_13)]
 
 > By this process [fostering a seeking of the Father’s will] of gradually changing man’s will and thus affecting human decisions, Michael and his associates are likewise gradually but certainly changing the entire course of human evolution, social and otherwise. [[UB 170:2.6](/en/The_Urantia_Book/170#p2_6)]
 
@@ -136,7 +135,7 @@ Consider the following teachings about the kingdom and the Supreme.
 
 > The kingdom is best understood in terms of family relationships; the kingdom is a divine family. [[UB 142:7.4](/en/The_Urantia_Book/142#p7_4)]; [[UB 149:6.8](/en/The_Urantia_Book/149#p6_8)]
 
-> . . . to his apostles he always taught the kingdom as embracing man’s personal experience in relation to his fellows on earth and to the Father in heaven. Concerning the kingdom, his last word always was, ‘The kingdom is within you’. [[UB 170:1.9](/en/The_Urantia_Book/170#p1_9)]
+> . . . to his apostles he always taught the kingdom as embracing man’s personal experience in relation to his fellows on earth and to the Father in heaven. Concerning the kingdom, his last word always was, ‘The kingdom is within you’. [[UB 170:1.13](/en/The_Urantia_Book/170#p1_13)]
 
 > The kingdom of heaven is synonymous with divine sonship. [[UB 144:4.3](/en/The_Urantia_Book/144#p4_3)]
 
@@ -144,7 +143,7 @@ Consider the following teachings about the kingdom and the Supreme.
 
 ### Family Relationships and The Supreme:
 
-> If you truly desire to find God, you cannot help having born in your minds the consciousness of the Supreme. As God is your divine Father, so is the Supreme your divine Mother, in whom you are nurtured throughout your lives as universe creatures. [[UB 117:6.2](/en/The_Urantia_Book/117#p6_2)]
+> If you truly desire to find God, you cannot help having born in your minds the consciousness of the Supreme. As God is your divine Father, so is the Supreme your divine Mother, in whom you are nurtured throughout your lives as universe creatures. . . . [[UB 117:6.2](/en/The_Urantia_Book/117#p6_2)]
 
 > The morontia soul of an evolving mortal is really the son of the Adjuster action of the Universal Father and the child of the cosmic reaction of the Supreme Being, the Universal Mother. [[UB 117:6.5](/en/The_Urantia_Book/117#p6_5)]
 
@@ -152,7 +151,7 @@ Consider the following teachings about the kingdom and the Supreme.
 
 ### Doing The Will of God in Teachings about The Kingdom:
 
-> He described the most basic phase of the kingdom as, “The kingdom of God in this world, the supreme desire to do the will of God, the unselfish love of man which yields the good fruits of improved ethical and moral conduct.” [[UB 170:2.16](/en/The_Urantia_Book/170#p2_16)]
+> He described the most basic phase of the kingdom as, “The kingdom of God in this world, the supreme desire to do the will of God, the unselfish love of man which yields the good fruits of improved ethical and moral conduct.” [[LU 170:2.18](/es/The_Urantia_Book/170#p2_18)]
 
 > Jesus . . . proclaimed that the kingdom is the will of his heavenly Father dominant and transcendent in the heart of the believer. . .  [[UB 170:5.19](/en/The_Urantia_Book/170#p5_19)]
 
@@ -164,11 +163,11 @@ The gospel of the kingdom is “. . . _the supreme desire to do the Father’s w
 
 > To the extent that we do the will of God in whatever universe station we may have our existence, in that measure the almighty potential of the Supreme becomes one step more actual. . .  God the Supreme is becoming the highest finite manifestation of the total will of God. [[UB 117:0.1](/en/The_Urantia_Book/117#p0_1)]
 
-> If all grand universers should ever relatively achieve the full living of the will of God, then would the time-space creations be settled in light and life, and then would the Almighty, the deity potential of Supremacy, become factual in the emergence of the divine personality of God the Supreme. [[UB 117:0.9](/en/The_Urantia_Book/117#p0_9)]
+> If all grand universers should ever relatively achieve the full living of the will of God, then would the time-space creations be settled in light and life, and then would the Almighty, the deity potential of Supremacy, become factual in the emergence of the divine personality of God the Supreme. [[UB 117:0.2](/en/The_Urantia_Book/117#p0_2)]
 
 ### Cosmic Citizenship and The Gospel of The Kingdom
 
-In the fourth epochal revelation, Jesus taught the importance of relationships with our fellows in our earth lives: Jesus . . .  always taught the kingdom as embracing man’s personal experience in relation to his fellows on earth and to the Father in heaven.” [[UB 170:1.9](/en/The_Urantia_Book/170#p1_9)]
+In the fourth epochal revelation, Jesus taught the importance of relationships with our fellows in our earth lives: “Jesus . . .  always taught the kingdom as embracing man’s personal experience in relation to his fellows on earth and to the Father in heaven.” [[UB 170:1.13](/en/The_Urantia_Book/170#p1_13)]
 
 The Fatherhood of God and the brotherhood of man is the heart of the gospel.
 
@@ -186,7 +185,7 @@ The fifth epochal revelation illuminates the implications of cosmic citizenship 
 
 > The temporal relation of man to the Supreme is the foundation for cosmic morality, the universal sensitivity to, and acceptance of, duty. This is a morality which transcends the temporal sense of relative right and wrong; it is a morality directly predicated on the self-conscious creature’s appreciation of experiential obligation to experiential Deity. [[UB 117:4.8](/en/The_Urantia_Book/117#p4_8)]
 
-> You can consciously augment Adjuster harmony by. . . joyful acceptance of cosmic citizenship—honest recognition of your progressive obligations to the Supreme Being, awareness of the interdependence of evolutionary man and evolving Deity. This is the birth of cosmic morality and the dawning realization of universal duty. [[UB 110:3.6](/en/The_Urantia_Book/110#p3_6)]
+> You can consciously augment Adjuster harmony by. . . joyful acceptance of cosmic citizenship—honest recognition of your progressive obligations to the Supreme Being, awareness of the interdependence of evolutionary man and evolving Deity. This is the birth of cosmic morality and the dawning realization of universal duty. [[UB 110:3.10](/en/The_Urantia_Book/110#p3_10)]
 
 > Experiential relationship to the Supreme Being is synonymous with universe citizenship. [[UB 110:6.16](/en/The_Urantia_Book/110#p6_16)]
 
@@ -200,13 +199,13 @@ And these: “. . . _where the spirit of God teaches and leads the soul of man, 
 
 As well as these:
 
-Jesus portrayed the second phase of the kingdom as “. . . _The kingdom of God in heaven, the goal of mortal believers, the estate wherein the love for God is perfected, and wherein the will of God is done more divinely._” [[UB 170:2.17](/en/The_Urantia_Book/170#p2_17)]
+Jesus portrayed the second phase of the kingdom as “. . . _The kingdom of God in heaven, the goal of mortal believers, the estate wherein the love for God is perfected, and wherein the will of God is done more divinely._” [[UB 170:2.19](/en/The_Urantia_Book/170#p2_19)]
 
 > With man, the eventual fusion and resultant oneness with the indwelling Adjuster—the personality synthesis of man and the essence of God—constitute him, in potential, a living part of the Supreme and insure for such a onetime mortal being the eternal birthright of the endless pursuit of finality of universe service for and with the Supreme. [[UB 101:6.6](/en/The_Urantia_Book/101#p6_6)]
 
 ### Both are Described as Synonymous With Living The Will of God
 
-> Obedience to the will of the Father, yielding the fruits of the spirit in one’s personal life, is the law of the kingdom. [[UB 142:1.1](/en/The_Urantia_Book/142#p1_1)]
+> Obedience to the will of the Father, yielding the fruits of the spirit in one’s personal life, is the law of the kingdom. [[UB 142:1.5](/en/The_Urantia_Book/142#p1_5)]
 
 > The fruits of the spirit are the substance of the Supreme as he is realizable in human experience. [[UB 117:6.17](/en/The_Urantia_Book/117#p6_17)]
 
@@ -242,7 +241,7 @@ The kingdom is “_a life of progressive righteousness and increasing joy in the
 
 > The Father’s love can become real to mortal man only by passing through that man’s personality as he in turn bestows this love upon his fellows. The great circuit of love is from the Father, through sons to brothers, and hence to the Supreme. The love of the Father appears in the mortal personality by the ministry of the indwelling Adjuster. Such a God-knowing son reveals this love to his universe brethren, and this fraternal affection is the essence of the love of the Supreme. [[UB 117:6.10](/en/The_Urantia_Book/117#p6_10)]
 
-> Love is the rule of living within the kingdom—supreme devotion to God while loving your neighbor as yourself. [[UB 142:1.1](/en/The_Urantia_Book/142#p1_1)]
+> Love is the rule of living within the kingdom—supreme devotion to God while loving your neighbor as yourself. [[UB 142:1.4](/en/The_Urantia_Book/142#p1_4)]
 
 > If you would enter the kingdom, you must have a righteousness that consists in love, mercy, and truth. [[UB 140:6.3](/en/The_Urantia_Book/140#p6_3)]
 
@@ -254,7 +253,7 @@ The kingdom is “_a life of progressive righteousness and increasing joy in the
 
 ### Both Rely on Faith for Mobilization in their Initial Stages
 
-> By faith in the fatherhood of God you may enter the kingdom of heaven, thus becoming the sons of God. [[UB 142:1.1](/en/The_Urantia_Book/142#p1_1)]
+> By faith in the fatherhood of God you may enter the kingdom of heaven, thus becoming the sons of God. [[UB 142:1.3](/en/The_Urantia_Book/142#p1_3)]
 
 > All soul-evolving humans are literally the evolutionary sons of God the Father and God the Mother, the Supreme Being. But until such time as mortal man becomes soul-conscious of his divine heritage, this assurance of Deity kinship must be faith realized. [[UB 117:6.8](/en/The_Urantia_Book/117#p6_8)]
 
@@ -270,11 +269,11 @@ Take any of the parables of Jesus which begin with the phrase, “The kingdom of
 
 The Thought Adjusters are also deeply engaged in fostering the evolution of the Supreme.
 
-> . . . the Adjuster is the secret of the personal realization of the reality of the existence of the Supreme. [[UB 101:10.5](/en/The_Urantia_Book/101#p10_5)]
+> . . . the Adjuster is the secret of the personal realization of the reality of the existence of the Supreme. [[UB 101:6.2](/en/The_Urantia_Book/101#p6_2)]
 
 > The Adjusters are the will of God. . . and the Supreme Creator children of God also. . .  embody that same will. [[UB 108:4.2](/en/The_Urantia_Book/108#p4_2)]
 
-The passage in [[UB 110:3.6](/en/The_Urantia_Book/110#p3_6)] about cooperation with the Adjuster is both a restatement of the religion of Jesus and a guide to participation in the actualization of the Supreme. Note how the following quote parallels Jesus’ five phases of the kingdom cited above:
+The passage in [[UB 110:3.6-10](/en/The_Urantia_Book/110#p3_6)] about cooperation with the Adjuster is both a restatement of the religion of Jesus and a guide to participation in the actualization of the Supreme. Note how the following quote parallels Jesus’ five phases of the kingdom cited above:
 
 ### You can Consciously Augment Adjuster Harmony By
 

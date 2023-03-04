@@ -10,7 +10,7 @@ dateCreated: 2023-02-13T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Phil Taylor<br>© 2007 The Urantia Book Fellowship</p>
 
-I lived my life in the flesh to show how you can, through loving service, become God revealing to your fellow men even as, by loving you and serving you, I have become God-revealing to you.. . . Love all men as I have loved you; serve your fellow mortals as I have served you. [[UB 193:0.5](/en/The_Urantia_Book/193#p0_5)]
+> I lived my life in the flesh to show how you can, through loving service, become God revealing to your fellow men even as, by loving you and serving you, I have become God-revealing to you. . . . Love all men as I have loved you; serve your fellow mortals as I have served you. . . .  [[UB 193:0.5](/en/The_Urantia_Book/193#p0_5)]
 
 ## Conference Vision
 
