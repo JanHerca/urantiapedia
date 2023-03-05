@@ -115,6 +115,7 @@ const controls = {
 	drpAirTableUBPaper: '', lblAirTableUB: '', lbxAirTableDataCont: '', lbxAirTableUB: '',
 	btnAirTableNewPerson: '', btnAirTableAltPerson: '',
 	btnAirTableNewLocation: '', btnAirTableAltLocation: '',
+	btnAirTableCaseTitle: '', btnAirTableCaseUpper: '', btnAirTableCaseLower: '',
 	//Settings
 	lblUILanguage: '', drpUILanguage: '', 
 	lblTheme: '', drpTheme: '',
@@ -128,7 +129,9 @@ const controlsToDisable = [
 ];
 
 const controlsAirTableToDisable = [
-	'igrAirTableSave', 'igrAirTableConnect', 'igrAirTableImport'
+	'igrAirTableConnect', 'igrAirTableSave', 'igrAirTableConnect', 'igrAirTableImport',
+	'btnAirTableNewPerson', 'btnAirTableAltPerson', 
+	'btnAirTableNewLocation', 'btnAirTableAltLocation'
 ];
 
 const settings = {
@@ -156,6 +159,7 @@ let topicEditing = null;
 let filelineEditing = null;
 let changed = false;
 let airTableTableSelected = null;
+let airTableRecordSelected = null;
 let airTableConnectionEnabled = true;
 let selectedText = null;
 
@@ -241,6 +245,9 @@ const onLoad = () => {
 		[c.btnAirTableAltPerson, 'click', handle_btnAirTableAltPerson],
 		[c.btnAirTableNewLocation, 'click', handle_btnAirTableNewLocation],
 		[c.btnAirTableAltLocation, 'click', handle_btnAirTableAltLocation],
+		[c.btnAirTableCaseTitle, 'click', handle_btnAirTableCase],
+		[c.btnAirTableCaseUpper, 'click', handle_btnAirTableCase],
+		[c.btnAirTableCaseLower, 'click', handle_btnAirTableCase],
 		//Settings
 		[c.drpUILanguage, 'change',  handle_drpUILanguageChange],
 		[c.drpTheme, 'change', handle_drpThemeChange],
@@ -1893,6 +1900,7 @@ const handle_igrAirTableConnect = (evt) => {
 		return;
 	}
 
+	airTableConnectionEnabled = false;
 	setAirTableWorkingStatus(true, 'spinAirTableConnectWorking');
 
 	if (!airTable.connected()) {
@@ -1912,7 +1920,9 @@ const handle_igrAirTableConnect = (evt) => {
 
 	//Handle
 	$(controls.lbxAirTableTables).find('.list-group-item').on('click', function() {
-		setAirTableTableAsSelected(this);
+		if (airTableConnectionEnabled) {
+			setAirTableTableAsSelected(this);
+		}
 	});
 
 	//Request all tables
@@ -1940,12 +1950,13 @@ const handle_igrAirTableConnect = (evt) => {
 			//Finally disable the connect button when connection went well
 			$(controls.igrAirTableConnect).find('button').toggleClass('disabled', 
 				true);
-			airTableConnectionEnabled = false;
+			airTableConnectionEnabled = true;
 			setAirTableWorkingStatus(false, 'spinAirTableConnectWorking');
 		})
 		.catch(err => {
-			//TODO: Sow errors in a panel (under Table list?)
+			alert(err.message);
 			console.log(err);
+			airTableConnectionEnabled = true;
 			setAirTableWorkingStatus(false, 'spinAirTableConnectWorking');
 		});
 };
@@ -1954,9 +1965,39 @@ const handle_drpAirTableUBPaper = (evt) => {
 	showBookPaperForAirTable();
 };
 
-const setAirTableTableAsSelected = (htmlElement) => {
+const handle_btnAirTableNewPerson = (evt) => {
+	addAirTableRecord('Person');
+};
+
+const handle_btnAirTableAltPerson = (evt) => {
+	updateAirTableRecord('Person');
+};
+
+const handle_btnAirTableNewLocation = (evt) => {
+	addAirTableRecord('Location');
+};
+
+const handle_btnAirTableAltLocation = (evt) => {
+	updateAirTableRecord('Location');
+};
+
+const handle_btnAirTableCase = (evt) => {
+	const cs = ['Lower', 'Title', 'Upper'];
+	const precs = 'btnAirTableCase';
+	const isActive = $(evt.currentTarget).hasClass('active');
+	cs.forEach(c => $(controls[`${precs}${c}`]).toggleClass('active', false));
+	$(evt.currentTarget).toggleClass('active', isActive ? false : true);
+};
+
+const setAirTableTableAsSelected = (htmlElementOrName) => {
+	const htmlElement = (typeof htmlElementOrName === 'string' ?
+		$(controls.lbxAirTableTables)
+			.find(`.list-group-item:contains("${htmlElementOrName}")`).get(0) : 
+		htmlElementOrName
+	);
 	const name = $(htmlElement).find('div > div:first-child').text();
 	airTableTableSelected = name;
+	airTableRecordSelected = null;
 	$(controls.lbxAirTableTables).find('.list-group-item')
 		.toggleClass('active', false);
 	$(htmlElement).toggleClass('active', true);
@@ -1964,26 +2005,34 @@ const setAirTableTableAsSelected = (htmlElement) => {
 };
 
 const showAirTableTable = () => {
+	const clsRecord = '.list-group-item .list-group-item';
+	//TODO: add this in toggleAirTableRecord
+	// const clsInputs = '.list-group-item .flex-shrink-0 input';
+
 	//Unhandle
-	$(controls.lbxAirTableData).find('.list-group-item .list-group-item')
-		.off('click');
+	$(controls.lbxAirTableData).find(clsRecord).off('click');
+	// $(controls.lbxAirTableData).find(clsInputs).off('blur');
 	
 	//Fill
 	const html = airTable.getRecordNameRenders(airTableTableSelected);
 	$(controls.lbxAirTableData).html(html);
 
 	//Handle
-	$(controls.lbxAirTableData).find('.list-group-item .list-group-item')
-		.on('click', function(evt) {
-			toggleAirTableRecord(this);
-			evt.stopPropagation();
-		});
+	$(controls.lbxAirTableData).find(clsRecord).on('click', function(evt) {
+		toggleAirTableRecord(this);
+		evt.stopPropagation();
+	});
+	// $(controls.lbxAirTableData).find(clsInputs).on('blur', function(evt) {
+	// 	console.log(evt.currentTarget.localName);
+	// 	evt.stopPropagation();
+	// });
 };
 
 const toggleAirTableRecord = (htmlElement) => {
 	const elem = $(htmlElement).find('div:first-child');
 	const name = $(elem).find('span').text();
 	const rec = airTable.getRecord(airTableTableSelected, name);
+	airTableRecordSelected = rec;
 	let collapsed = ($(elem).find('i').attr('class') === 'bi-chevron-right');
 	collapsed = !collapsed;
 	const chevron = (collapsed ? 'bi-chevron-right' : 'bi-chevron-down');
@@ -2007,7 +2056,9 @@ const setAirTableWorkingStatus = (working, control) => {
 
 const setAirTableDisabledStatus = (disabled) => {
 	controlsAirTableToDisable.forEach(key => {
-		$(controls[key]).find('button').attr('disabled', disabled ? 'disabled' : null);
+		(controls[key].localName === 'button' ?
+			$(controls[key]) : $(controls[key]).find('button'))
+			.toggleClass('disabled', disabled);
 	});
 };
 
@@ -2066,26 +2117,49 @@ const showBookPaperForAirTable = () => {
 	//Handle
 	$(controls.lbxAirTableUB).find('.list-group-item')
 		.on('mouseup', function(evt) {
-			selectedText = window.getSelection().toString();
+			selectedText = window.getSelection().toString().trim();
 			evt.stopPropagation();
 		});
 };
 
-const handle_btnAirTableNewPerson = (evt) => {
-	
-	//TODO: airTable.addRecord(tablename, {fields})
+const addAirTableRecord = (tableName) => {
+	const fieldName = airTable.getFieldName(tableName);
+	airTable.addRecord(tableName, {[fieldName]: getCasedSelectedText()})
+		.then(rec => {
+			setAirTableTableAsSelected(tableName);
+			showBookPaperForAirTable();
+		})
+		.catch(err => alert(err.message));
 };
 
-const handle_btnAirTableAltPerson = (evt) => {
-
+const updateAirTableRecord = (tableName) => {
+	if (!airTableRecordSelected) {
+		alert('Select one record in AirTable data');
+		return;
+	}
+	const fields = {'alternate name': getCasedSelectedText()};
+	airTable.updateRecord(airTableRecordSelected, tableName, fields)
+		.then(rec => {
+			setAirTableTableAsSelected(tableName);
+			showBookPaperForAirTable();
+		})
+		.catch(err => alert(err.message));
 };
 
-const handle_btnAirTableNewLocation = (evt) => {
-
-};
-
-const handle_btnAirTableAltLocation = (evt) => {
-
+const getCasedSelectedText = () => {
+	if (!selectedText) return null;
+	const invariants = ['the', 'of', 'and'];
+	if ($(controls.btnAirTableCaseTitle).hasClass('active')) {
+		return selectedText.split(' ').map((w, i) => {
+			return (i != 0 && invariants.includes(w.toLowerCase()) ? w :
+				w.charAt(0).toUpperCase() + w.slice(1));
+		}).join(' ');
+	} else if ($(controls.btnAirTableCaseUpper).hasClass('active')) {
+		return selectedText.toUpperCase();
+	} else if ($(controls.btnAirTableCaseLower).hasClass('active')) {
+		return selectedText.toLowerCase();
+	}
+	return selectedText;
 };
 
 // -----------------------------------------------------------------------------

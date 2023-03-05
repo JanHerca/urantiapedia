@@ -72,6 +72,10 @@ class AirTableConnector {
         </div>`;
     };
 
+    getFieldName = (tableName) => {
+        return Schema[tableName].name;
+    };
+
     getRecord = (tableName, recName) => {
         const name = Schema[tableName].name;
         return this.cache[tableName].find(r => r.fields[name] === recName);
@@ -163,6 +167,12 @@ class AirTableConnector {
         const form =
             `<div class="d-flex flex-column flex-shrink-0 ml-2 mt-1 mb-1">
                 ${fields}
+                <div class="p-0 m-1 text-right">
+                    <button class="btn btn-sm btn-secondary">
+                        <span class="bi-save pr-2"/>
+                        <span class="ml-2">Save</span>
+                    </button>
+                </div>
             </div>`;
         return form;
     };
@@ -178,16 +188,7 @@ class AirTableConnector {
 
         if (rec) {
             //Exists
-            return new Promise((resolve, reject) => {
-                this.base(tableName)
-                    .update([{id: rec.id, fields: fields}], (err, recs) => {
-                        if (err) {
-                            reject(err);
-                        }
-                        rec.fields = recs[0].fields;
-                        resolve(rec);
-                    });
-            });
+            return this.updateRecord(rec, tableName, fields);
         }
 
         //Not exists
@@ -198,8 +199,23 @@ class AirTableConnector {
                         reject(err);
                         return;
                     }
-                    this.cache[tableName].push(recs[0]);
-                    resolve(recs[0]);
+                    this.cache[tableName].push(recs[0]._rawJson);
+                    resolve(recs[0]._rawJson);
+                });
+        });
+    };
+
+    updateRecord = (rec, tableName, fields) => {
+        return new Promise((resolve, reject) => {
+            this.base(tableName)
+                .update([{id: rec.id, fields: fields}], (err, recs) => {
+                    if (err) {
+                        reject(err);
+                    }
+                    Object.keys(fields).forEach(field => {
+                        rec.fields[field] =recs[0]._rawJson.fields[field];
+                    });
+                    resolve(rec);
                 });
         });
     };

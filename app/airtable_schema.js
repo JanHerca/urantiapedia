@@ -17,7 +17,7 @@ const AirTableSchema = {
             {
                 name: 'Type',
                 type: 'Single select',
-                values: ['Superhuman', 'Human']
+                values: ['', 'Superhuman', 'Human']
             }
         ],
         relations : [
@@ -51,7 +51,7 @@ const AirTableSchema = {
             {
                 name: 'Type',
                 type: 'Single select',
-                values: ['On Earth', 'On Heavens']
+                values: ['', 'On Earth', 'On Heavens']
             }
         ],
         relations: [
