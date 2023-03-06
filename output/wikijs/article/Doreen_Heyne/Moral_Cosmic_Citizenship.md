@@ -48,7 +48,7 @@ How important is the fear of hell or the desire to live as God wishes in motivat
 
 Can we have moral values without religion? Can we be good without God? Does freedom exist without morality? 
 
-> Morality is not necessarily spiritual; it may be wholly and purely human, albeit real religion enhances all moral values, makes them more meaningful. Morality without religion fails to reveal ultimate goodness, and to provide for the survival of even its own moral values. Religion provides for the enhancement, glorification, and survival of everything morality recognizes and approves. [[UB 196:3.24](/en/The_Urantia_Book/196#p3_24)]  
+> Morality is not necessarily spiritual; it may be wholly and purely human, albeit real religion enhances all moral values, makes them more meaningful. Morality without religion fails to reveal ultimate goodness, and to provide for the survival of even its own moral values. Religion provides for the enhancement, glorification, and survival of everything morality recognizes and approves. [[UB 196:3.27](/en/The_Urantia_Book/196#p3_27)]  
 
 ## The Present 
 
@@ -58,7 +58,7 @@ Secularism (humanism) questions the moral authority and absolute truth of the Bi
 
 Is it moral to force someone to live who wants to die? Is it the same as forcing someone to die who wishes to live? Where is respect for the individual? Another controversial issue of today is: do we have the right to improve the genetic makeup of a fetus by using biotechnology? Are we playing God? Is this immoral or virtuous? The Greek philosophers, Plato and Aristotle, said virtues are rational. 
 
-> When man wishes to modify physical reality, be it himself or his environment, he succeeds to the extent that he has discov ered the ways and means of controlling matter and directing en ergy. Unaided mind is impotent to influence anything material save its own physical mechanism, with which it is inescapably linked. But through the _intelligent_ use of the body mechanism, mind can create other mechanisms, even energy relationships and living relationships, by the utilization of which this mind can increasingly control and even dominate its physical level in the universe. (Emphasis mine) [[UB 111:6.5](/en/The_Urantia_Book/111#p6_5)] 
+> When man wishes to modify physical reality, be it himself or his environment, he succeeds to the extent that he has discovered the ways and means of controlling matter and directing energy. Unaided mind is impotent to influence anything material save its own physical mechanism, with which it is inescapably linked. But through the _intelligent_ use of the body mechanism, mind can create other mechanisms, even energy relationships and living relationships, by the utilization of which this mind can increasingly control and even dominate its physical level in the universe. (Emphasis mine) [[UB 111:6.5](/en/The_Urantia_Book/111#p6_5)] 
 
 Has the notion of personal rights weakened society’s values? Have we lost the idea that family is a human commitment, our jobs are commitments, friendships are commitments, all expressing our accountability? Intelligence alone cannot explain the moral nature. Morality, virtue, is indigenous to human personality. Moral intuition, the realization of duty, is a component of the human mind. “_But a moral being possesses an insight which enables him to discriminate between ends as well as means. He knows what he is doing, why he is doing it, where he is going, and how he will get there._” [[UB 16:7.4](/en/The_Urantia_Book/16#p7_4)] 
 
@@ -78,7 +78,7 @@ China gave Europe a legacy, the modern civil service. In 165 BC, candidates for 
 
 Hans Kung, theologian, said there can be no peace among nations unless there is dialogue and peace among religions. If barbaric acts are not denounced by the world in outrage and silence becomes acceptable, when national leaders selfishly seek their own benefit, wisdom will not prevail; and we will never unify. The world will not progress. Can the major religions work together to proclaim truth, justice, peace, harmony, and tolerance? Do we need a world ethic and moral code? 
 
-**Education** : Teaching morality helps to make it habit forming. Aristotle understood virtue perfectly. “We acquire virtue just like we acquire crafts, you learn to build by building.” We become brave by acting brave. It is a habit repeated by small acts in youth.^4 
+**Education** : Teaching morality helps to make it habit forming. Aristotle understood virtue perfectly. “We acquire virtue just like we acquire crafts, you learn to build by building.” We become brave by acting brave. It is a habit repeated by small acts in youth.[^4] 
 
 Citizens need to be taught how to intelligently evaluate their leadership. The civil rights movement was a moral recognition of the highest ideals in the struggle for the soul of America. Social movements have spiritual foundations. Hopefully in the near future more people will care about social justice in other parts of the world, but religions need the moral will to eradicate global poverty. 
 

@@ -98,10 +98,10 @@ Hay muchos caminos que este artículo podría seguir para explorar más a fondo 
 
 Podemos preguntar cómo y dónde se conecta el circuito del Espíritu Santo con nuestras mentes, y qué podemos proporcionar en el entorno para proporcionar el terreno más fértil para la recepción del Ajustador del Pensamiento. ¿El Espíritu de la Verdad «ilumina nuestros lóbulos temporales», pero quizás en un nivel muy sutil? ¿Qué papel juegan las decisiones para ayudar a desarrollar la SQ—inteligencia espiritual del niño? Todos estos circuitos comienzan a operar cuando un niño toma su primera decisión moral, y el Ajustador del Pensamiento es enviado desde el Padre del Paraíso para morar en el niño. A medida que el niño toma decisiones intelectuales, opciones morales y se desarrolla espiritualmente, el Ajustador «..._está cada vez más capacitado para registrar sus representaciones del destino con creciente viveza y convicción en la conciencia en evolución._...» \[[110:6.5 ](/es/The_Urantia_Book/110#p6_5)\]
 
-<figura id="Figura_de_fe_1" clase="imagen urantiapedia">
+<figure id="Figure_de_fe_1" class="image urantiapedia">
 <img src="/image/article/Sara_Blackstock/Faith_Wiring_in_the_Brain/brain.png">
 <figcaption><em><b>Figura 1.</b> Ilustración de C. Montgomery basada en Newsweek, 7 de mayo de 2001.</em></figcaption>
-</figura>
+</figure>
 
 Estas realidades no necesitan estudios con cuerdas e imanes para probarlas. Anne Underwood, quien escribió la excelente reseña sobre «Dios y el cerebro» en el Newsweek de mayo de 2001, lo dice muy bien: «A pesar de todos los éxitos tentativos que los científicos están logrando en su búsqueda de las bases biológicas de la vida religiosa, espiritual y experiencia mística, un misterio seguramente permanecerá para siempre más allá de su alcance. Pueden rastrear un sentido de trascendencia a este bulto en nuestra materia gris. Y pueden rastrear un sentimiento de lo divino en ese bulto. Pero es probable que nunca resuelvan la pregunta más grande de todas, a saber, si nuestro cableado cerebral crea a Dios o si Dios creó nuestro cableado cerebral. Lo cual crees que es, al final, una cuestión de fe» (Begley, 2001, pp. 50-58).
 

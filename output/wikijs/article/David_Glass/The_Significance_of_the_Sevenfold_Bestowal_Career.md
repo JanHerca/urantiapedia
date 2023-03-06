@@ -22,7 +22,7 @@ Now, in the present, we find ourselves having just recently (cosmically speaking
 
 > This new and oncoming social order will not settle down complacently for a millennium. The human race must become reconciled to a procession of changes, adjustments, and readjustment. Mankind is on the march toward a new and unrevealed planetary destiny. [[UB 99:1.1](/en/The_Urantia_Book/99#p1_1)]  
 
-> Urantia society can never hope to settle down as in past ages. The social ship has steamed out of the sheltered bays of established tradition and has begun its cruise upon the high seas of evolutionary destiny; and the soul of man, as never before in the world’s history, needs carefully to scrutinize its charts of morality and painstakingly to observe the compass of religious guidance. [99.1.1]  
+> Urantia society can never hope to settle down as in past ages. The social ship has steamed out of the sheltered bays of established tradition and has begun its cruise upon the high seas of evolutionary destiny; and the soul of man, as never before in the world’s history, needs carefully to scrutinize its charts of morality and painstakingly to observe the compass of religious guidance. [[UB 99:1.3](/en/The_Urantia_Book/99#p1_3)]  
 
 ## Levels of Significance 
 
@@ -46,12 +46,12 @@ Michael’s completion of his bestowal career in Nebadon and his accession to th
 
 The revelation discloses that there are absolute potentials folded up in the unfathomable natures of the Michael Sons, potentials which are inherent in their origin in absolute beings— the Universal Father and the Eternal Son. Therefore, does the achievement of local universe sovereignty serve as another significant benchmark in the actualization of those unlimited potentials. In this regard, let me close with this quotation: 
 
-> When on Urantia, Christ Michael once said, “I am the way, the truth, and the life.” And we believe that in eternity the Michaels are literally destined to be “the way, the truth, and the life,” ever blazing the path for all universe personalities as it leads from supreme divinity through ultimate absonity to eternal deity finality. [[UB 21:6.4](/en/The_Urantia_Book/21#p6_4)]  
+> . . . When on Urantia, Christ Michael once said, “I am the way, the truth, and the life.” And we believe that in eternity the Michaels are literally destined to be “the way, the truth, and the life,” ever blazing the path for all universe personalities as it leads from supreme divinity through ultimate absonity to eternal deity finality. [[UB 21:6.4](/en/The_Urantia_Book/21#p6_4)]  
 
 > David Glass has been a student of _The Urantia Book_ since 1973 and has been active in many study groups and conferences in several states, including Florida, Oregon, and Texas. He gives private piano lessons and enjoys writing spiritually inspired poetry. Currently serving as Vice President of the North Texas Urantia Society, he has just begun his 16th reading of _The Urantia Book_.  
 {.is-info}
 
-> The appearance in and on your world, by apparently natural processes, of a divine Son, we regard as a miracle—the operation of universal laws beyond our understanding. Jesus of Nazareth was a miraculous person. [[UB 120:4.4](/en/The_Urantia_Book/120#p4_4)]  
+> . . . The appearance in and on your world, by apparently natural processes, of a divine Son, we regard as a miracle—the operation of universal laws beyond our understanding. Jesus of Nazareth was a miraculous person. [[LU 120:4.5](/es/The_Urantia_Book/120#p4_5)]  
 
 ## References
 

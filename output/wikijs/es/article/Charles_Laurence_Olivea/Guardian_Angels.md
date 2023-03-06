@@ -211,7 +211,7 @@ Finalmente, deseo ofrecer este tributo, una _muestra angelical_, presentado como
 
 > «_Hola Central, dame el Cielo, que mi mamá está allá; puedes encontrarla con los Ángeles en la Escalera Dorada; se alegrará de que sea yo quien hable, llámala, por favor; porque quiero decirle sin duda, estamos tan solos aquí._» —El coro, de la partitura del siglo XIX, Hello Central–Give Me Heaven,(El esfuerzo de un niño tratando de llegar a su difunta madre a través de los ángeles.)[^29]
 
-> Sigan amándose unos a otros con verdadero amor fraternal, no olviden ser amables con los extraños, porque algunos que han hecho esto han hospedado ángeles sin darse cuenta. —[Hebreos 13:1–2](/es/Bible/Hebrews/13#v1) [^30]
+> Sigan amándose unos a otros con verdadero amor fraternal, no olviden ser amables con los extraños, porque algunos que han hecho esto han hospedado ángeles sin darse cuenta. —[Hebreos 13:1-2](/es/Bible/Hebrews/13#v1) [^30]
 
 > Los ángeles de la guarda aman las costumbres caseras de los hombres, desean compartir las horas de trabajo y de ocio; el amor de los niños y sus juegos, y todo el ambiente alegre del hogar. Protegerían los hogares de los hombres, manteniendo alejadas todas las influencias del peligro y la lucha, de la oscuridad y la enfermedad. —Geoffrey Hodson [^31]
 
@@ -238,15 +238,15 @@ He leído _El Libro de Urantia_ durante muchos años como parte de mi decisión 
 
 ## Notas
 
-[^1]: Gilbert Highet, «Una iconografía de los seres celestiales», Horizon: una revista de las artes, volumen, III, número (noviembre de 1960) p. 33; Saggs, HWF, The Babylonians, Londres: The folio Society, 1999, págs. 316–317.
+[^1]: Gilbert Highet, «Una iconografía de los seres celestiales», Horizon: una revista de las artes, volumen, III, número (noviembre de 1960) p. 33; Saggs, HWF, The Babylonians, Londres: The folio Society, 1999, págs. 316-317.
 
-[^2]: Rosemary Ellen Guiley, _La enciclopedia de los ÁNGELES, de la A a la Z_, Washington, DC: Visible Ink Press, 1996, págs. 138–139.
+[^2]: Rosemary Ellen Guiley, _La enciclopedia de los ÁNGELES, de la A a la Z_, Washington, DC: Visible Ink Press, 1996, págs. 138-139.
 
-[^3]: James R. Lewis., Evelyn Dorothy Oliver, _Ángeles: de la A a la Z_, Washington, DC, Visible Ink Press, 1996, 138–139.
+[^3]: James R. Lewis., Evelyn Dorothy Oliver, _Ángeles: de la A a la Z_, Washington, DC, Visible Ink Press, 1996, 138-139.
 
 [^4]: Wendy Doniger, Merriam-Webster's _Encyclopedia of World Religions_, Springfield, Massachusetts: Merriam-Webster, 1999, p. 359; Smart, Ninian, _The World's Religions_, Cambridge, Reino Unido: Cambridge University Press, 1998, p. 223.
 
-[^5]: Richard Valantasis, ed., _Religiones de la antigüedad tardía en la práctica_, Princeton: Princeton University Press, 2000, págs. 311–312.
+[^5]: Richard Valantasis, ed., _Religiones de la antigüedad tardía en la práctica_, Princeton: Princeton University Press, 2000, págs. 311-312.
 
 [^6]: Rev. E. Cobham Brewer, _A Dictionary of Miracles: Imitative, Realistic, and Dogmatic_, Londres: Chatto & Windus, 1901, p. 503.
 
@@ -256,7 +256,7 @@ He leído _El Libro de Urantia_ durante muchos años como parte de mi decisión 
 
 [^9]: Keith Crim, ed., _Abingdon Dictionary of Living Religions_, Nashville, Tennessee: Parthenon Press, 1981, p. 44.
 
-[^10]: _Horizonte_, págs. 38-39; Dietrich Seckel,_The Art of Buddhism_, Nueva York: Crown Publishers, Inc., 1964, págs. 119, 175, 204–206.
+[^10]: _Horizonte_, págs. 38-39; Dietrich Seckel,_The Art of Buddhism_, Nueva York: Crown Publishers, Inc., 1964, págs. 119, 175, 204-206.
 
 [^11]: Jonathan Z. Smith., _The HarperCollins Dictionary of Religion_, San Francisco: HarperSanFrancisco, 1995, p. 399.
 
@@ -264,17 +264,17 @@ He leído _El Libro de Urantia_ durante muchos años como parte de mi decisión 
 
 [^13]: _HarperCollins Dictionary_, págs. 399-400.
 
-[^14]: Arlene Hirschfelder, Paulette Molin, _The Encyclopedia of Native American Religions_, Nueva York: Facts On File, Inc., 1992, págs. 109–110.
+[^14]: Arlene Hirschfelder, Paulette Molin, _The Encyclopedia of Native American Religions_, Nueva York: Facts On File, Inc., 1992, págs. 109-110.
 
 [^15]: Charles Panati, _Orígenes sagrados de las cosas profundas: las historias detrás de los ritos y rituales de las religiones del mundo_, Nueva York: Penguin Arkana, 1996, p. 2.
 
-[^16]: _Orígenes sagrados_, págs. 61–66, 72, 74–80.
+[^16]: _Orígenes sagrados_, págs. 61-66, 72, 74-80.
 
 [^17]: Andrew Wilson, _Escritura mundial: una antología comparativa de textos sagrados_, Nueva York: Paragon House, 1991, p. 257.
 
-[^18]: Steven Chase, traductor y editor, _Espiritualidad angelical: perspectivas medievales sobre los caminos de los ángeles_, Nueva York: Paulist Press, 2002, págs. 12–13. [Algunas referencias bíblicas: [Colosenses 1:16](/es/Bible/Colossians/1#v16), [2:10](/es/Bible/Colossians/2#v10), [2:15](/es/Bible/Colossians/2#v15); [Efesios 1:21](/es/Bible/Ephesians/1#v16), [3:10](/es/Bible/Ephesians/3#v10), [6:12](/es/Bible/Ephesians/6#v12); [1 Corintios 15:24](/es/Bible/1_Corinthians/15#v24); [Romanos 8:38](/es/Bible/Romans/8#v38); [1 Pedro 3:22](/es/Bible/1_Peter/3#v22). Chase enumera los grupos adicionales de ángeles de Paul como Gobernantes, Autoridades, Potestades, Señoríos y Tronos. Si bien las traducciones de Chase de los nombres de Pablo de las categorías angelicales varían con otras traducciones bíblicas, como la Biblia King James, las designaciones conceptuales de estos ángeles son esencialmente las mismas.]
+[^18]: Steven Chase, traductor y editor, _Espiritualidad angelical: perspectivas medievales sobre los caminos de los ángeles_, Nueva York: Paulist Press, 2002, págs. 12-13. [Algunas referencias bíblicas: [Colosenses 1:16](/es/Bible/Colossians/1#v16), [2:10](/es/Bible/Colossians/2#v10), [2:15](/es/Bible/Colossians/2#v15); [Efesios 1:21](/es/Bible/Ephesians/1#v16), [3:10](/es/Bible/Ephesians/3#v10), [6:12](/es/Bible/Ephesians/6#v12); [1 Corintios 15:24](/es/Bible/1_Corinthians/15#v24); [Romanos 8:38](/es/Bible/Romans/8#v38); [1 Pedro 3:22](/es/Bible/1_Peter/3#v22). Chase enumera los grupos adicionales de ángeles de Paul como Gobernantes, Autoridades, Potestades, Señoríos y Tronos. Si bien las traducciones de Chase de los nombres de Pablo de las categorías angelicales varían con otras traducciones bíblicas, como la Biblia King James, las designaciones conceptuales de estos ángeles son esencialmente las mismas.]
 
-[^19]: _Espiritualidad angelical_, págs. 25–31.
+[^19]: _Espiritualidad angelical_, págs. 25-31.
 
 [^20]: Arnold Nesselrath, _Ángeles del Vaticano: Lo invisible hecho visible_, Alexandria, Virginia: Art Services International, 1998, p. 7.
 
@@ -286,7 +286,7 @@ He leído _El Libro de Urantia_ durante muchos años como parte de mi decisión 
 
 [^24]: _El Libro de Urantia_, Chicago: Fundación Urantia, 1955, Documento 113, «Los guardianes seráficos del destino».
 
-[^25]: Corán, Sura 82: 10–12.
+[^25]: Corán, Sura 82: 10-12.
 
 [^26]: Clara Erskine Clement, _Angels in Art_, Boston: LC Page and Company, 1898, págs. 25, 33, 34, 140.
 
@@ -304,4 +304,4 @@ He leído _El Libro de Urantia_ durante muchos años como parte de mi decisión 
 
 [^33]: Colección del autor, postal de principios del siglo XX, hacia 1911.
 
-[^34]: _Ángeles en el arte_, págs. 139–140.
+[^34]: _Ángeles en el arte_, págs. 139-140.

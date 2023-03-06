@@ -78,7 +78,7 @@ We are told that angels like change, rest, reversion, and play. They enjoy our e
 
 Nearly every angelic order sets aside reserves and recorders. Many angel orders also have a transport division. But beyond these generic functions, celestial ministers seem to be primarily focused on teaching. One of many orders of angels that extensively minister to ascendant mortals is described this way: 
 
-These tertiary seconaphim are the time-savers, space abridgers, error detectors, faithful teachers, and everlasting guideposts—living signs of divine surety—in mercy placed at the crossroads of time, there to guide the feet of anxious pilgrims in moments of great perplexity and spiritual uncertainty. [[UB 28:7.3](/en/The_Urantia_Book/28#p7_3)] 
+> These tertiary seconaphim are the time-savers, space abridgers, error detectors, faithful teachers, and everlasting guideposts—living signs of divine surety—in mercy placed at the crossroads of time, there to guide the feet of anxious pilgrims in moments of great perplexity and spiritual uncertainty. [[UB 28:7.3](/en/The_Urantia_Book/28#p7_3)] 
 
 What is it that celestial ministers teach us? The list is mind boggling. 
 
@@ -145,7 +145,7 @@ Perfectors of Wisdom, Divine Counselors, Archangels, Solitary Messengers, and On
 
 Frankly, at this point in my life, a final destiny of service in the future worlds of outer space seems so far removed from present reality that it is nearly incomprehensible. Whatever God has planned for me in the ages to come, the question that most interests me is what God wants from me today. 
 
-Steve Dreier once said that people would be better off if we spent less time thinking about what we want the angels to do for us, and a little more time wondering what we could do to help the angels with their work. To imitate John F Kennedy, “Ask not what your angels can do for you, but what you can do for your angels!” 
+Steve Dreier once said that people would be better off if we spent less time thinking about what we want the angels to do for us, and a little more time wondering what we could do to help the angels with their work. To imitate John F. Kennedy, “Ask not what your angels can do for you, but what you can do for your angels!” 
 
 What can we do to help the angels with their work? First, each one of us could immediately work on eradicating our animal tendencies. We don’t have to wait until the mansion worlds to begin to clear our characters of the detrimental traits we harbor, the poor habits we keep that sabotage our health, our relationships, and our efforts in the world. 
 
@@ -157,27 +157,19 @@ Fourth, we can help our unseen friends accomplish what they need to do in the ma
 
 Recall the story of the shepherd boy to whom an angel appeared in the night. The angel whispered to the boy: 
 
-> The Gods are my caretakers; I shall not stray; 
-> Side by side they lead me in the beautiful paths and glorious 
-> refreshing of life everlasting. 
-> I shall not, in this Divine Presence, 
-> want for food nor thirst for water. 
-> Though I go down into the valley of uncertainty or  
-> ascend up into the worlds of doubt; 
-> Though I move in loneliness or with the 
-> fellows of my kind, 
-> Though I triumph in the choirs of light or falter in the 
-> solitary places of the spheres, 
-> Your good spirit shall minister to me, and your glorious angel 
-> will comfort me. 
-> Though I descend into the depths of darkness and death itself, 
-> I shall not doubt you nor fear you, 
-> For I know that in the fullness of time 
-> and the glory of your name 
-> You will raise me up to sit with you on the battlements 
-> on high. [[UB 48:6.8](/en/The_Urantia_Book/48#p6_8)]
+> “The Gods are my caretakers; I shall not stray;”
+> “Side by side they lead me in the beautiful paths and glorious refreshing of life everlasting.”
+> “I shall not, in this Divine Presence, want for food nor thirst for water.”
+> “Though I go down into the valley of uncertainty or ascend up into the worlds of doubt,”
+> “Though I move in loneliness or with the fellows of my kind,”
+> “Though I triumph in the choirs of light or falter in the solitary places of the spheres,”
+> “Your good spirit shall minister to me, and your glorious angel will comfort me.”
+> “Though I descend into the depths of darkness and death itself,”
+> “I shall not doubt you nor fear you,”
+> “For I know that in the fullness of time and the glory of your name”
+> “You will raise me up to sit with you on the battlements on high.” [[UB 48:6.9-19](/en/The_Urantia_Book/48#p6_9)]
 
-We recognize this text as the 23rd psalm: 
+We recognize this text as the [23rd psalm](/es/Bible/Psalms/23): 
 
 > The Lord is my shepherd; I shall not want. 
 > He makes me to lie down in green pastures, 

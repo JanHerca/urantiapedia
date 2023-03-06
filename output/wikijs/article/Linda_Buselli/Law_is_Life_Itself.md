@@ -12,7 +12,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
 
 _(The following presentation was delivered at the Fellowship Summer Study Session, at Dominican University in River Forest, IL in July, 2007)_  
 
-“_Law is life itself and not the rules of its conduct._” [[UB 48:6.22](/en/The_Urantia_Book/48#p6_22)] This statement is from page 555 of _The Urantia Book_, in the paper on “The Morontia Life.” This is one of my favorite papers because it introduces us to many suggestions for improving this life, things we can begin now and carry forward into our cosmic careers. 
+“_Law is life itself and not the rules of its conduct._” [[UB 48:6.33](/en/The_Urantia_Book/48#p6_33)] This statement is from page 555 of _The Urantia Book_, in the paper on “The Morontia Life.” This is one of my favorite papers because it introduces us to many suggestions for improving this life, things we can begin now and carry forward into our cosmic careers. 
 
 The law referred to here is divine law as differentiated from material law, which can be put into words. Divine law is life itself; it’s alive and dynamic in contrast to static, or dead, material law. And it can only be known by living it. Some years ago I heard a folk tale, one of those that circulate in the Urantia community. Supposedly, the revelators remarked that while the teachings of the book were “true,” over 95% of the “truth” was lost simply by putting it into words. That shocks some readers, but we have to remember that the book says “_... you cannot imprison truth in formulas, codes, creeds, or intellectual patterns of human conduct._” [[UB 180:5.2](/en/The_Urantia_Book/180#p5_2)]  
 
@@ -49,7 +49,7 @@ Another “applied divine law” is the absolute necessity to “act” upon our
 The following quote brings up an interesting point. “_What man himself takes with him as a personality possession are the character consequences of the experience of having used the mind and spirit circuits of the grand universe..._” [[UB 117:5.13](/en/The_Urantia_Book/117#p5_13)]    It is literally our actions that allow us to benefit from these mind and spirit circuits. From page 1638: “_The Father in heaven has forgiven you before you have even thought to ask him, but such forgiveness is not available in your personal religious experience until such a time as you forgive your fellow men. God’s forgiveness in_ fact _is not conditioned upon your forgiving your fellows, but in_ experience _it is exactly so conditioned._” [[UB 146:2.4](/en/The_Urantia_Book/146#p2_4)] This principle was so important to Jesus, he included it in the prayer he taught the apostles. Here’s how he said it: 
 
 > _And forgive every one of us our debts_
-> _As we also have forgiven our debtors._ [[UB 144:3.3](/en/The_Urantia_Book/144#p3_3)] 
+> _As we also have forgiven our debtors._ [[UB 144:3.9-10](/en/The_Urantia_Book/144#p3_9)] 
 
 Notice the past tense? We have to act first. Unless we are willing and able to pass on love, forgiveness, even knowledge, to others, we cannot truly experience them. This is an example of a very basic divine law. When we give something material away, we don’t have it anymore. But we don’t have things of the spirit until we give them away. 
 

@@ -259,7 +259,7 @@ Identificación con valores eternos: «_En la medida en que el alma morontial ev
 
 « ... _la memoria mortal de la experiencia humana vivida en los mundos materiales de origen sobrevive a la muerte en la carne porque el Ajustador interior ha adquirido una contrapartida, o transcripción, espiritual de aquellos acontecimientos de la vida humana que tuvieron un significado espiritual._» [[LU 40:9.4](/es/The_Urantia_Book/40#p9_4)]
 
-Mente: La arena de la elección: «_La mente material es el ámbito en el que viven las personalidades humanas, son conscientes de sí mismas, toman sus decisiones, escogen o abandonan a Dios, se eternizan o se destruyen a sí mismas.._» [[LU 111:1.3](/en/The_Urantia_Book/111#p1_3)]
+Mente: La arena de la elección: «_La mente material es el ámbito en el que viven las personalidades humanas, son conscientes de sí mismas, toman sus decisiones, escogen o abandonan a Dios, se eternizan o se destruyen a sí mismas.._» [[LU 111:1.3](/es/The_Urantia_Book/111#p1_3)]
 
 Más que físico: «_Una mente humana basada exclusivamente en la conciencia de las sensaciones físicas, nunca podría alcanzar los niveles espirituales; este tipo de mente material carecería totalmente del sentido de los valores morales y estaría desprovista del sentido director de dominación espiritual, que es tan esencial para conseguir la unidad armoniosa de la personalidad en el tiempo, y que es inseparable de la supervivencia de la personalidad en la eternidad._» [ [LU 133:7.10](/es/The_Urantia_Book/133#p7_10)]
 
