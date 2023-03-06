@@ -84,7 +84,7 @@ Jesús aseguró a sus apóstoles que habría otra revelación de la verdad: «_C
 
 ## El Hijo Maestro toma las decisiones en su Mundo de Otorgamiento
 
-En los mundos normales, el Hijo de autootorgamiento espera que las razas humanas alcancen estándares más altos de inteligencia y desarrollo espiritual, alta preparación cultural para enseñanzas avanzadas antes de llegar a su mundo de autootorgamiento terminal. [[LU 52:5.3](/es/The_Urantia_Book/52#p5_3)] Urantia no era normal; estábamos aislados, todavía acosados ​​por la barbarie. Solo los judíos y los chinos tenían una fuerte cultura familiar. Michael eligió entregarse a sí mismo entre los judíos durante un período de preparación para una nueva revelación. «_El siglo segundo después de Cristo fue el mejor período de toda la historia mundial para que una buena religión progresara en el mundo occidental._» [[LU 195:3.7](/es/The_Urantia_Book/195#p3_7)] ¿Podríamos preguntarnos ¿Dónde aparecerá el nuevo «demostrador»?
+En los mundos normales, el Hijo de autootorgamiento espera que las razas humanas alcancen estándares más altos de inteligencia y desarrollo espiritual, alta preparación cultural para enseñanzas avanzadas antes de llegar a su mundo de autootorgamiento terminal. [[LU 52:5.3](/es/The_Urantia_Book/52#p5_3)] Urantia no era normal; estábamos aislados, todavía acosados ​​por la barbarie. Solo los judíos y los chinos tenían una fuerte cultura familiar. Miguel eligió entregarse a sí mismo entre los judíos durante un período de preparación para una nueva revelación. «_El siglo segundo después de Cristo fue el mejor período de toda la historia mundial para que una buena religión progresara en el mundo occidental._» [[LU 195:3.7](/es/The_Urantia_Book/195#p3_7)] ¿Podríamos preguntarnos ¿Dónde aparecerá el nuevo «demostrador»?
 
 Un Hijo Maestro, como Miguel de Nebadon, tiene libertad en cuanto a cómo y cuándo él y otros Hijos planean sus visitas a los mundos:
 
@@ -92,7 +92,7 @@ Un Hijo Maestro, como Miguel de Nebadon, tiene libertad en cuanto a cómo y cuá
 
 > Después de su elevación a la soberanía estable en un universo local, un Miguel Paradisiaco tiene el pleno control sobre todos los otros Hijos de Dios que ejercen su actividad en su dominio, y puede gobernar libremente de acuerdo con el concepto que tenga sobre las necesidades de sus reinos. Un Hijo Maestro puede cambiar a voluntad el orden de los juicios espirituales y de los ajustes evolutivos de los planetas habitados. Y estos Hijos elaboran y llevan a cabo los planes elegidos por ellos mismos en todas las cuestiones relacionadas con las necesidades planetarias especiales, en particular con respecto a los mundos donde han vivido como criaturas, y mucho más en lo que concierne a la esfera de su donación final, al planeta de su encarnación en la similitud de la carne mortal. [[LU 21:5.9](/es/The_Urantia_Book/21#p5_9)]
 
-Aparentemente, Michael podría reorganizar el orden de los eventos incluso antes de alcanzar el estatus de Master Son. Anunció planes para venir a Urantia desde la fecha predeterminada de Adán, hace treinta y siete mil años. Envió a Maquiventa Melquisedec en una misión de emergencia para reintroducir el concepto de Un Dios, para preparar a la gente para su propio autootorgamiento mil novecientos años después. De hecho, _El Libro de Urantia_ Apocalipsis es un excelente ejemplo de la respuesta de Michael a las necesidades especiales de nuestro planeta al encargar un libro para el planeta semianalfabeto de su encarnación, Urantia. Los reveladores llamaron a los Documentos de Urantia «la Palabra hecha Libro».  
+Aparentemente, Miguel podría reorganizar el orden de los eventos incluso antes de alcanzar el estatus de Master Son. Anunció planes para venir a Urantia desde la fecha predeterminada de Adán, hace treinta y siete mil años. Envió a Maquiventa Melquisedec en una misión de emergencia para reintroducir el concepto de Un Dios, para preparar a la gente para su propio autootorgamiento mil novecientos años después. De hecho, _El Libro de Urantia_ Apocalipsis es un excelente ejemplo de la respuesta de Miguel a las necesidades especiales de nuestro planeta al encargar un libro para el planeta semianalfabeto de su encarnación, Urantia. Los reveladores llamaron a los Documentos de Urantia «la Palabra hecha Libro».  
 
 ## Una vana esperanza para el futuro inmediato: Trinity Teacher Sons
 
@@ -202,4 +202,4 @@ Folleto disponible: «Cronología: personalidades antirreligiosas, eventos y ten
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

@@ -97,4 +97,4 @@ Sí sabemos «_Ninguna criatura personal puede ser forzada a emprender la aventu
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

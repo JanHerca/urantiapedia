@@ -213,4 +213,4 @@ _El Libro de Urantia_ nos dice claramente que nos unamos a esta gran empresa esp
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

@@ -24,7 +24,7 @@ Las personas que presenciaron los OVNIs eran de todos los niveles educativos, de
 
 ## LECCIÓN 3: Da fruto en la tierra en la que estás plantado
 
-Uno de nuestros miembros de FSUB, Don Ware de Fort Walton Beach, ha sido una fuerza impulsora detrás de la organización UH. Don es uno de esos individuos extraordinarios de intelecto gigantesco y personalidad carismática que se equilibra con la gracia y el amor incondicional por los demás. Don presentó _El Libro de Urantia_ a sus amigos y asociados. Ha sido un verdadero Johnny Appleseed. La mayoría de los miembros de la junta de UH son lectores del libro gracias a él. Don alberga un grupo en Fort Walton Beach, y la mayoría de las personas de mi grupo están vinculadas a él de una forma u otra. En el festival del año pasado, Don y yo vendimos cerca de dos cajas de libros de la cajuela de nuestros autos. La gente me encontraba y decía: “¿Eres Arnie? Don Ware me envió. A lo largo de los años, Don ha difundido decenas, tal vez cientos, de libros en nuestra área y en muchos lugares del mundo.
+Uno de nuestros miembros de FSUB, Don Ware de Fort Walton Beach, ha sido una fuerza impulsora detrás de la organización UH. Don es uno de esos individuos extraordinarios de intelecto gigantesco y personalidad carismática que se equilibra con la gracia y el amor incondicional por los demás. Don presentó _El Libro de Urantia_ a sus amigos y asociados. Ha sido un verdadero Johnny Appleseed. La mayoría de los miembros de la junta de UH son lectores del libro gracias a él. Don alberga un grupo en Fort Walton Beach, y la mayoría de las personas de mi grupo están vinculadas a él de una forma u otra. En el festival del año pasado, Don y yo vendimos cerca de dos cajas de libros de la cajuela de nuestros autos. La gente me encontraba y decía: “¿Eres Arnie? Don Ware me envió. A lo largo de los años, Don ha difundido decenas, tal vez cientos, de libros en nuestra área y en muchos lugares del mundo. Don es un ejemplo sobresaliente de lo que una persona puede hacer.
 
 ## LECCIÓN 4: No temas, no estás solo
 
@@ -32,7 +32,7 @@ Puede ser desalentador darse cuenta de que usted será el abanderado de un event
 
 ## LECCIÓN 5: No juzgar
 
-Este evento atrae a más de mil personas del noroeste de Florida y del sur de Alabama. Hay dos salas llenas de todo tipo de vendedores, lectores intuitivos y curanderos. Otra sala sirve como auditorio para los oradores destacados. Haber etiquetado a estos vendedores, lectores y curanderos en esa categoría de «_ismos y cultos de una generación filosófica frustrada_» [[LU 100:5.1](/es/The_Urantia_Book/100#p5_1)] habría sido un grave error al juzgar , y me habría cegado a la verdad, los significados y los valores de lo que tenían para ofrecer. No habría reconocido oportunidades de compartir el libro con ellos desde puntos comunes. Un punto práctico para recordar en estos eventos metafísicos: no se refiera a sí mismo como un «lector» o la gente puede pensar que hace lecturas psíquicas intuitivas. «Estudiante» o «lector del libro» son mejores descriptores.
+Este evento atrae a más de mil personas del noroeste de Florida y del sur de Alabama. Hay dos salas llenas de todo tipo de vendedores, lectores intuitivos y curanderos. Otra sala sirve como auditorio para los oradores destacados. Haber etiquetado a estos vendedores, lectores y curanderos en esa categoría de «_ismos y los cultos de una era filosófica frustrada_» [[LU 100:5.1](/es/The_Urantia_Book/100#p5_1)] habría sido un grave error al juzgar , y me habría cegado a la verdad, los significados y los valores de lo que tenían para ofrecer. No habría reconocido oportunidades de compartir el libro con ellos desde puntos comunes. Un punto práctico para recordar en estos eventos metafísicos: no se refiera a sí mismo como un «lector» o la gente puede pensar que hace lecturas psíquicas intuitivas. «Estudiante» o «lector del libro» son mejores descriptores.
 
 ## LECCIÓN 6: Pide y todo se te dará
 
@@ -67,4 +67,4 @@ Sé la luz.
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

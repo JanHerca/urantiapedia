@@ -10,7 +10,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Sara Blackstock<br>© 2009 The Urantia Book Fellowship</p>
 
-> Una metáfora viviente para «… el fuego divino de la voluntad de servicio» [[LU 48:6.23](/es/The_Urantia_Book/48#p6_23)]
+> Una metáfora viviente para «… el fuego divino de la voluntad de servir» [[LU 48:6.34](/es/The_Urantia_Book/48#p6_34)]
 
 _Nota: La siguiente es una charla dada al Consejo General en 1995 y en la Conferencia Internacional de la Fraternidad, 2008._
 
@@ -20,7 +20,7 @@ En nuestra guardería para niños en edad escolar, apoyamos el medio ambiente en
 
 Pasamos un tiempo montando un contenedor de gusanos realmente bueno: periódicos, tierra, cien gusanos rojos ondulantes y agua. Agregamos semanalmente a nuestros refrigerios las sobras de apio, corazones de manzana, etc. Mientras los niños y yo trabajábamos juntos en este proyecto, vi desarrollarse ante mis ojos, una metáfora viviente, y después de esta experiencia saqué algunos principios de servicio de la suciedad de gusanos. Es posible que desee ver si puede detectar diez principios de servicio: llevar un registro en sus dedos, mientras le cuento la historia.
 
-Habíamos estado fuera durante un fin de semana de 4 días. Cuando regresamos el lunes, abrimos el contenedor de compostaje de lombrices y descubrimos con horror que no solo estaba demasiado seco, sino que la comida de los refrigerios no se había revuelto, por lo que se quedó allí encima de las lombrices secas, fermentando y oliendo
+Habíamos estado fuera durante un fin de semana de 4 días. Cuando regresamos el lunes, abrimos el contenedor de compostaje de lombrices y descubrimos con horror que no solo estaba demasiado seco, sino que la comida de los refrigerios no se había revuelto, por lo que se quedó allí encima de las lombrices secas, fermentando y oliendo.
 
 No hace falta decir que había que hacer algo de inmediato. Les di a los niños algunas cucharas para remover las cosas que estaban encima, pero resultó que las cucharas no eran lo suficientemente largas para hacer mucho bien. Solo podíamos hacer una cosa: alcanzar con las manos desnudas. Ninguno de ellos quería hacer esto, y mientras se tapaban la nariz me miraban, así que me arremangué.
 
@@ -30,9 +30,9 @@ Alcanzaba el fondo del contenedor, sacando la tierra seca junto con algunos gusa
 
 Después de que un niño dijera: «Yo salvé más que tú», a otro niño, tuve que evitar que discutieran sobre cuál había salvado más gusanos. La alegría que se sentía en el espacio de 4«por 4» cuando un gusano comatoso se agitaba después de ser rociado era medible. Y para colmo, un niño de jardín de infantes bastante serio dijo, con una cara perfectamente seria: «¡Eso huele a champán!» y por supuesto la fruta en fermentación tenía un toque de tal aroma.
 
-Entonces, ¿qué tiene que ver esta experiencia con el contenedor de gusanos con el servicio? Dudo que esto entre en la categoría de la que se habla en el Documento 131: «_Todas las buenas obras de verdadero servicio provienen del Supremo._» [[LU 131:8.3](/es/The_Urantia_Book/131#p8_3)] Pero también creo nuestros amigos celestiales tienen un sentido del humor maravilloso y juguetón y tienen «sensores de alegría» agudos.
+Entonces, ¿qué tiene que ver esta experiencia con el contenedor de gusanos con el servicio? Dudo que esto entre en la categoría de la que se habla en el Documento 131: «_Todas las buenas obras de servicio sincero proceden del Supremo._» [[LU 131:8.3](/es/The_Urantia_Book/131#p8_3)] Pero también creo nuestros amigos celestiales tienen un sentido del humor maravilloso y juguetón y tienen «sensores de alegría» agudos.
 
-Leemos en el Documento de Vida Morontial 48 lo que las reservas ministrantes pueden hacer por los mortales ascendentes: pueden encender «… _un fuego divino de la voluntad de servicio_». Esta frase realmente me llamó la atención del alma, porque la energía para salvar a los gusanos se convirtió en una metáfora de este «… _fuego divino de la voluntad de servicio_».
+Leemos en el Documento 48 sobre la Vida Morontial lo que las reservas ministrantes pueden hacer por los mortales ascendentes: pueden encender «… _un fuego divino de la voluntad de servir_». Esta frase realmente me llamó la atención del alma, porque la energía para salvar a los gusanos se convirtió en una metáfora de este «… _fuego divino de la voluntad de servir_».
 
 ## Principios de servicio
 
@@ -46,7 +46,7 @@ Por unos momentos permítame presentar los siguientes quince principios de servi
 
 4. Cada pequeña cosa cuenta. Mira cuántas veces Jesús anduvo haciendo el bien, una sonrisa. Sonreía a aquellos a quienes pasaba.
 
-5. Involucra a los que te rodean para que participen contigo en el servicio. No tienes que hacerlo solo. Brinde a otros la oportunidad de experimentar la euforia del servicio, la alegría del “… fuego divino de la voluntad de servicio.
+5. Involucra a los que te rodean para que participen contigo en el servicio. No tienes que hacerlo solo. Brinde a otros la oportunidad de experimentar la euforia del servicio, la alegría del «... fuego divino de la voluntad de servir».
 
 6. Riegue la tierra seca con el agua verdadera de la vida y ame dondequiera que vaya.
 
@@ -68,11 +68,11 @@ Por unos momentos permítame presentar los siguientes quince principios de servi
 
 15. Sea espontáneo, dejando que «el fuego divino de la voluntad de servir» arda brillantemente sin miedo a las consecuencias oa lo que otros puedan pensar.
 
-Podemos sentir este «_fuego divino del servicio de la voluntad_» en nuestras propias almas. Los Ajustadores son enviados para el servicio mortal desde Divington llevando las brasas de este fuego divino.
+Podemos sentir este «_fuego divino de la voluntad de servir_» en nuestras propias almas. Los Ajustadores son enviados para el servicio mortal desde Divington llevando las brasas de este fuego divino.
 
 > Sara Blackstock ha estado trabajando con niños durante 35 años como maestra acreditada y como directora de una gran guardería para niños en edad escolar durante los últimos 22 años. Actualmente es educadora de padres y consultora y formadora de adultos jóvenes sobre relaciones de calidad con los niños, también enseña yoga a niños pequeños.
 {.is-info}
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

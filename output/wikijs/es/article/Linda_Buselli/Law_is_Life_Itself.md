@@ -68,4 +68,4 @@ El Papa Juan XXIII fue probablemente el Papa más querido de la historia. En los
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

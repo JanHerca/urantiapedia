@@ -30,7 +30,7 @@ Urantia-University ofrece una oportunidad extraordinaria
 
 Con el fin de lograr los beneficios derivados de un conocimiento más profundo de la quinta revelación de época de la verdad que se proporciona en _El Libro de Urantia_, la Universidad de Urantia se ofrece como un régimen educativo de estudiantes y maestros de estudio progresivo de varios niveles, diseñado como una combinación de modelos educativos y lo mejor de los modelos de educación superior humana. La Universidad Urantia es una iniciativa educativa diseñada para ofrecer a los estudiantes y profesores del libro la oportunidad de comprender mejor sus enseñanzas reveladas sobre Dios y su realidad, para integrarlas más plenamente en sus mentes, corazones y almas, y para capacitarlos como emisarios de verdad revelada para compartir estas enseñanzas con sus semejantes.
 
-> Este entrenamiento de la mente y la educación del espíritu se lleva a cabo desde los mundos de origen humano a través de los mundos de estancia del sistema y las otras esferas de progreso asociadas con Jerusem, en los setenta reinos de socialización adjuntos a Edentia, y en los cuatrocientos noventa esferas de progreso espiritual rodeando a Salvington. En la sede misma del universo hay numerosas escuelas de Melquisedec, los colegios de los Hijos del Universo, las universidades seráficas y las escuelas de los Hijos Instructores y la Unión de los Días. Se hace todo lo posible para calificar a las diversas personalidades del universo para avanzar en el servicio y mejorar la función. El universo entero es una gran escuela. [[LU 37:6.2](/es/The_Urantia_Book/37#p6_2)]
+> Esta formación de la mente y esta educación del espíritu se llevan a cabo desde los mundos de origen humano, pasando por los mundos de las mansiones del sistema y las otras esferas de progreso asociadas a Jerusem, hasta los setenta reinos de vida social vinculados a Edentia y las cuatrocientas noventa esferas de progreso espiritual que rodean a Salvington. En la misma sede del universo se encuentran las numerosas escuelas de los Melquisedeks, las facultades de los Hijos del Universo, las universidades seráficas y las escuelas de los Hijos Instructores y del Unión de los Días. Se toman todas las disposiciones posibles a fin de capacitar a las diversas personalidades del universo para que realicen un servicio más elevado y una actividad mejor. Todo el universo es una inmensa escuela. [[LU 37:6.2](/es/The_Urantia_Book/37#p6_2)]
 
 ## Visión estratégica
 
@@ -74,8 +74,8 @@ Los maestros de los tres niveles rotarán a otros documentos/grupos de documento
 > Corrección:
 >
 > David Nash ha solicitado una corrección en relación con el artículo sobre la Universidad Urantia que apareció bajo su nombre en el último Fellowship Herald [este artículo]. El artículo no fue escrito solo por David Nash. Fue la colaboración de varios creyentes Urantia dedicados que trabajaron juntos en la Universidad Urantia y debería haber sido incluido como tal. Quiere dejar en claro que puede tomar muy poco crédito por el artículo y espera que disculpe este error y sepa que el proyecto es absolutamente un esfuerzo de equipo.
-{.es-advertencia}
+{.is-warning}
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

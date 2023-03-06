@@ -200,4 +200,4 @@ Nota del autor: Un agradecimiento especial a Jack Kane por darme los nombres de 
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

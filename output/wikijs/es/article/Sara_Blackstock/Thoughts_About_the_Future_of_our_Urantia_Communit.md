@@ -80,4 +80,4 @@ Si podemos permitir y guiar a nuestros hijos a desarrollar su propia religión, 
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

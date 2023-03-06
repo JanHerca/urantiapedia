@@ -97,4 +97,4 @@ El alcance es el ministerio de compartir el Evangelio, y cada individuo debe enc
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

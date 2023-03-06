@@ -76,4 +76,4 @@ Por último, espero abrazar a otras personas que tal vez se sientan demasiado ma
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

@@ -77,4 +77,4 @@ Los animales son conscientes. El hombre está despierto. El alma despierta a la 
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

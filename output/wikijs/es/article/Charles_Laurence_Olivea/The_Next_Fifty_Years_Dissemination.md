@@ -75,4 +75,4 @@ Probablemente seremos más útiles para influir en la sociedad humana a través 
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

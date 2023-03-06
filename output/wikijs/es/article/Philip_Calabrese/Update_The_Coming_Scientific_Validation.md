@@ -83,7 +83,7 @@ La pregunta obvia es ¿qué sucede si esas vastas capas de hielo polar se derrit
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
 ## Notas
 

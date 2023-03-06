@@ -32,7 +32,7 @@ Una gran pista que nos dan los reveladores, mientras luchamos con la física te�
 
 Nuestro lugar en el orden de nuestro universo local está asegurado debido a la séptima entrega de sí mismo de nuestro Hijo Creador aquí en nuestro mundo. Nos hemos convertido en el «lugar donde sucedió». Urantia es el santuario sentimental de todo Nebadon, como se nos dice. El patrón aparece en el logro de la Soberanía Suprema para nuestro Hijo Creador, quien pasó por siete autootorgamientos como varios seres creados dentro de su universo, culminando en la vida humana de Joshua ben Joseph, Jesús de Nazaret.
 
-Hasta que se completó el patrón de otorgamiento, Michael poseía plena soberanía como una realidad «potencial». Sin embargo, cuando la vida humana terminó con su resurrección, Miguel había alcanzado el lugar que le correspondía como soberano y abrió las puertas cósmicas al Supremo como un camino nuevo y abierto para la realización de nuestro potencial mortal, el camino hacia la vida eterna y el logro de la perfección. .
+Hasta que se completó el patrón de otorgamiento, Miguel poseía plena soberanía como una realidad «potencial». Sin embargo, cuando la vida humana terminó con su resurrección, Miguel había alcanzado el lugar que le correspondía como soberano y abrió las puertas cósmicas al Supremo como un camino nuevo y abierto para la realización de nuestro potencial mortal, el camino hacia la vida eterna y el logro de la perfección. .
 
 Paradise Pattern es un componente básico de toda la realidad porque declara el contexto de la creación, la matriz de la estructura atómica. La Isla del Paraíso es el centro nuclear de todas las cosas, el lugar perfecto, el objetivo final de nuestra transformación espiritual en Finalitarios, el destino de todos los mortales fusionados con el Ajustador y el hogar de nuestro Padre Universal.
 
@@ -54,4 +54,4 @@ Es por eso que el estudio del PATRÓN es vital para nuestra creciente apreciaci�
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

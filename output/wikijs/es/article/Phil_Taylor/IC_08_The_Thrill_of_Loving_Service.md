@@ -54,7 +54,7 @@ Además de una exploración del servicio espiritual avanzado, esta fase de la pr
 
 A la luz de estos niveles avanzados de servicio, ¿qué se requerirá de nosotros para ser más efectivos? Esperamos desarrollar programas y talleres que saquen a la luz las técnicas de cooperación social y espiritual respondiendo a las preguntas: ¿Cómo cultivamos la cooperación espiritual? ¿Cómo construimos grupos, asociaciones y amistades para servir juntos? ¿Cómo desarrollamos nuestras habilidades de liderazgo? ¿Cómo organizamos nuestra vida materialmente para darnos una mayor oportunidad de servir? ¿Cómo cooperamos para desarrollar un entendimiento común de la Voluntad del Padre?
 
-También esperamos ver qué herramientas y mecanismos están disponibles para mejorar nuestro servicio. ¿Cómo nos capacita Michael para un mayor servicio? ¿Cómo somos apoyados por nuestros ministros angélicos y cómo podemos ayudarlos a que nos sirvan?
+También esperamos ver qué herramientas y mecanismos están disponibles para mejorar nuestro servicio. ¿Cómo nos capacita Miguel para un mayor servicio? ¿Cómo somos apoyados por nuestros ministros angélicos y cómo podemos ayudarlos a que nos sirvan?
 
 Esta fase de la conferencia está dedicada a comprender cómo podemos mejorar nuestra capacidad de servir como individuos, pero también cómo podemos descubrir la unidad en el servicio: cómo hombres y mujeres se unen en el servicio y se dan cuenta de la verdadera hermandad espiritual: la cooperación espiritual.
 
@@ -70,4 +70,4 @@ El objetivo de esta última etapa de la programación es mejorar y expandir nues
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

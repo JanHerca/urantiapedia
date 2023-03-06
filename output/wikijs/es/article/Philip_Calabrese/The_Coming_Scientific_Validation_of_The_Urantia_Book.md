@@ -600,7 +600,7 @@ Cada Espíritu Maestro tiene su propio superuniverso. Pertenecemos al séptimo s
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
 ## Notas
 

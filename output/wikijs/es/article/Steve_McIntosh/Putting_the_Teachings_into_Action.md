@@ -239,4 +239,4 @@ Con este fin, he creado una petición en línea (según el modelo de la Declarac
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

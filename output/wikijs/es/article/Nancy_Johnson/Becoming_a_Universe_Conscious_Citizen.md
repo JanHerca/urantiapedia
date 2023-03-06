@@ -58,4 +58,4 @@ Creo que el esfuerzo que han hecho los lectores en general hacia el crecimiento 
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

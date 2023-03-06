@@ -61,7 +61,7 @@ Deberíamos abordar la eugenesia solo a través de una filosofía madura que rec
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
 ## Notas
 

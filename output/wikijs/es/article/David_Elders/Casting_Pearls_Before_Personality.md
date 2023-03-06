@@ -47,4 +47,4 @@ Así que terminamos donde empezamos. Cada ser humano construye una identidad ete
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

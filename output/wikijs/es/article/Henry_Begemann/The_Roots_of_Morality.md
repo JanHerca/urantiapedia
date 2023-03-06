@@ -23,4 +23,4 @@ Conocer la voluntad del Padre requiere un contacto real y vivo con él, que vive
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

@@ -74,4 +74,4 @@ Esta ética de la vida se aplica no sólo a las relaciones individuales sino a t
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

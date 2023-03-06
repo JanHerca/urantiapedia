@@ -86,7 +86,7 @@ Estas fuerzas espirituales primarias están enfocadas en reforzar e iluminar los
 
 ¿Cuánto durará la presente dispensación? Ciertamente, ninguno de nosotros puede responder a esta pregunta. Sin embargo, hay algunas pistas en el texto que debemos considerar. En referencia a su regreso, Jesús les dijo a los apóstoles: «... _deberíais comprender que cuando este evangelio del reino haya sido proclamado en el mundo entero para la salvación de todos los pueblos, y cuando la era haya alcanzado su plenitud, el Padre os enviará otra donación dispensacional, o si no, el Hijo del Hombre regresará para juzgar la era._» [[LU 176:2.5](/es/The_Urantia_Book/176#p2_5)] Esto implica que el trabajo de la próxima dispensación se construirá sobre una conciencia mundial de al menos menos los fundamentos del evangelio del reino de Jesús, una conciencia que se logrará durante la presente dispensación.
 
-Dado que gran parte de la administración celestial de nuestro planeta está orientada hacia el refuerzo y el apoyo de los propósitos del otorgamiento de Michael, será útil si revisamos algunos de esos propósitos.
+Dado que gran parte de la administración celestial de nuestro planeta está orientada hacia el refuerzo y el apoyo de los propósitos del otorgamiento de Miguel, será útil si revisamos algunos de esos propósitos.
 
 ## Propósitos del otorgamiento de Miguel
 
@@ -330,4 +330,4 @@ Como dijo el Maestro a sus apóstoles, «... _ahora es nuestro deber someternos 
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

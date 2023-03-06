@@ -39,4 +39,4 @@ Aprendí lo que significa ser digno de confianza. Aprendí que ser digno de conf
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

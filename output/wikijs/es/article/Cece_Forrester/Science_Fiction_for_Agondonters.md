@@ -105,7 +105,7 @@ Cómics | Superman | DC Cómics  | Creado por Jerry Siegel y Joe Shuster | 1938 
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
 ## Notas
 

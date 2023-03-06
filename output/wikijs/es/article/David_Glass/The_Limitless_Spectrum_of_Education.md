@@ -12,7 +12,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
 
 Un ensayo para una conferencia-retiro en Belton, Texas, 25-27 de julio de 2008
 
-La educación es un tema amplio, y lo que me gustaría hacer es intentar presentar una breve descripción general/descripción de este tema para demostrar cuán amplio es en realidad el tema «educación», y para familiarizarnos con la gama. del tema
+La educación es un tema amplio, y lo que me gustaría hacer es intentar presentar una breve descripción general/descripción de este tema para demostrar cuán amplio es en realidad el tema «educación», y para familiarizarnos con la gama del tema
 
 Primero un breve prólogo: En la eternidad, las Deidades Infinitas conocen todas las cosas; sin embargo, en el extremo opuesto del espectro creativo, el hombre planetario debe adquirir cada pedacito y porción de su educación terrestre y cósmica como una adquisición progresiva y continua.
 
@@ -58,7 +58,7 @@ Se espera que el surgimiento completo del Supremo sea el evento más grande del 
 
 Ninguna criatura «encuentra»—experiencialmente encuentra—personalmente conoce y «conoce»—al Supremo, hasta este momento; y en ese instante, _todas_ las criaturas lo conocerán, simultáneamente lo encontrarán. Siempre han sido hijos e hijas de la Primera Persona existencial de la Deidad, el Padre Universal; y ahora se han convertido en las criaturas experienciales y perfeccionadas de Dios el Supremo.
 
-La experiencia de atravesar el tiempo y el espacio, las múltiples dimensiones y arenas de la expansión de la mente; y la profundidad, amplitud y perspicacia del crecimiento espiritual de la carrera de ascensión al Paraíso, afirma un revelador, debería ser «_el estudio supremo del hombre mortal_» [[LU 40:7.4](/es/The_Urantia_Book/40#p7_4) ] Eso significa que _El Libro de Urantia_ se convierte y sigue siendo nuestro principal y principal libro de texto educativo mientras estemos aquí en este planeta.
+La experiencia de atravesar el tiempo y el espacio, las múltiples dimensiones y arenas de la expansión de la mente; y la profundidad, amplitud y perspicacia del crecimiento espiritual de la carrera de ascensión al Paraíso, afirma un revelador, debería ser «_el estudio supremo del hombre mortal_» [[LU 40:7.4](/es/The_Urantia_Book/40#p7_4)] Eso significa que _El Libro de Urantia_ se convierte y sigue siendo nuestro principal y principal libro de texto educativo mientras estemos aquí en este planeta.
 
 Me gustaría intercalar aquí una recomendación que me hizo Sheryl Cyr, una lectora de _El Libro de Urantia_ que vive en Miami, que advierte a sus asociados que lean «algo» de _El Libro de Urantia_ todos los días. Cuando la importancia, el significado y el valor de las enseñanzas de la quinta revelación de época son plenamente reconocidos por la mente del mortal que aprende y crece y por su alma hambrienta de verdad, la _motivación_ para el estudio diario y continuo de la revelación se vuelve espontánea, natural, provechosa, espiritualmente Edificante, sustentador personal, fortalecedor de la fe, benéfico en el dominio de la sabiduría y evocador de las reacciones más profundas de adoración y amor por y para el Padre Universal en un grado cada vez mayor.
 
@@ -78,11 +78,11 @@ Finalmente y eternamente: Dios el Supremo y Dios el Último, en sociedad con el 
 
 La educación experiencial—aprender y enseñar—recibir y dar—adquirir y compartir—es el plan del Padre Universal para nosotros los humildes mortales planetarios que aún ahora estamos vinculados con _nuestras eternas carreras educativas_ como anfitriones de nuestros divinos y eternos fragmentos de infinidad. A partir del momento de nuestras primeras decisiones morales, basados ​​en lo que hemos aprendido educativamente de la vida sobre el bien y el mal, estamos dotados de fragmentos espirituales perfectos del Padre Infinito como la garantía absoluta de que podemos graduarnos del régimen experiencial finito y supremo. ; aprender, amar, enseñar y servir en el nivel absonito; ¡y luego comience la búsqueda y exploración interminables del Padre ilimitado en el Cosmos Infinito ilimitado del futuro eterno!
 
-Y todo esto se nos ofrece como el regalo gratuito de nuestro incomparablemente Bueno y Perfecto, Amoroso e Infinito Padre Celestial. Revelándonos su voluntad y naturaleza y la de nuestro Padre, Jesús de Nazaret, Miguel de Nebadon—de origen directo en las infinitas personalidades del Padre Universal y su Hijo Eterno—dijo a todos los urantianos y a todos los mortales de Nebadon: «Aprended y Enséñalo: has recibido gratuitamente, da gratuitamente. _» _Tarde o temprano, todas las personalidades del universo comienzan a darse cuenta de que la búsqueda final de la eternidad es la exploración interminable del infinito, el viaje interminable de descubrimiento hacia el carácter absoluto de la Primera Fuente y Centro ._ [[LU 106:9.11](/es/The_Urantia_Book/106#p9_11)]
+Y todo esto se nos ofrece como el regalo gratuito de nuestro incomparablemente Bueno y Perfecto, Amoroso e Infinito Padre Celestial. Revelándonos su voluntad y naturaleza y la de nuestro Padre, Jesús de Nazaret, Miguel de Nebadon—de origen directo en las infinitas personalidades del Padre Universal y su Hijo Eterno—dijo a todos los urantianos y a todos los mortales de Nebadon: «_Aprended y Enséñad: has recibido gratuitamente, da gratuitamente._» _Tarde o temprano todas las personalidades del universo empiezan a darse cuenta de que la búsqueda final de la eternidad es la exploración sin fin de la infinidad, el viaje interminable de descubrimiento dentro de la absolutidad de la Fuente-Centro Primera._ [[LU 106:9.11](/es/The_Urantia_Book/106#p9_11)]
 
 > Lector del _El Libro de Urantia_ desde 1972, David Glass jugó un papel decisivo en la organización de los lectores de Florida en la década de 1970. Continuó asistiendo a grupos de estudio en Fort Worth, TX; Portland, Oregón; y en Dallas, TX. Se ha desempeñado en varios puestos oficiales en la Sociedad Urantia del Norte de Texas, como delegado y suplente de la TDA, como coordinador de área y actualmente es miembro del Comité de Publicaciones de la Fraternidad. David enseña piano de forma privada en Dallas.
 {.is-info}
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

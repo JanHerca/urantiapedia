@@ -10,7 +10,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Sara Blackstock<br>© 2009 The Urantia Book Fellowship</p>
 
-> A Living Metaphor for “… the divine fire of the will-to-service” [[UB 48:6.23](/en/The_Urantia_Book/48#p6_23)] 
+> A Living Metaphor for “… the divine fire of the will-to-service” [[UB 48:6.34](/en/The_Urantia_Book/48#p6_34)] 
 
 _Note: The following is a talk given to the General Council in 1995 and at the Fellowship International Conference, 2008. _
 
@@ -46,7 +46,7 @@ For a few moments allow me to present the following fifteen principles of servic
 
 4. Every little thing counts. Look how many times Jesus went about doing good—a smile. He smiled at those whom he passed by. 
 
-5. Involve those around you to participate with you in serving. You don’t have to do it alone. Give others a chance to experience the service exhilaration, the joy from the “… divine fire of the will-to-service. 
+5. Involve those around you to participate with you in serving. You don’t have to do it alone. Give others a chance to experience the service exhilaration, the joy from the “... divine fire of the will-to-service”. 
 
 6. Water the dry ground with the true water of life and love wherever you go. 
 

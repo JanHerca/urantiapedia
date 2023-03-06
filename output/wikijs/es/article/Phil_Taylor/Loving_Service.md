@@ -38,7 +38,7 @@ Durante un tiempo, después de dejar de trabajar para Hábitat, continué practi
 
 Recuerdo sentarme en oración y hablar con el Maestro. Le pregunté por qué no estaba siendo muy eficaz en mi ministerio de servicio. El pensamiento que volvió a mí reveló que estaba tan desesperado por compartir la verdad de Dios que había comenzado a pasar por alto el amor de Dios. Parecía como si el Maestro estuviera diciendo que el amor es lo primero. El verdadero servicio es un servicio amoroso; y este amor fluye del Padre a través de ti hacia tus semejantes, y te permite impartir la verdad. Pero el amor viene antes que la verdad.
 
-Lo que Michael me estaba enseñando era que no debía preocuparme por compartir la verdad, debía preocuparme más por encontrar oportunidades para mostrar bondad amorosa a mis semejantes; y esto abriría la puerta para compartir la verdad. Entonces me di cuenta de que el evangelio es el don de las buenas noticias envuelto en las acciones de amor-servicio.
+Lo que Miguel me estaba enseñando era que no debía preocuparme por compartir la verdad, debía preocuparme más por encontrar oportunidades para mostrar bondad amorosa a mis semejantes; y esto abriría la puerta para compartir la verdad. Entonces me di cuenta de que el evangelio es el don de las buenas noticias envuelto en las acciones de amor-servicio.
 
 Al reflexionar sobre mi experiencia de servicio en Hábitat, reconocí que había desarrollado un hábito inconsciente de hacer cosas buenas por otras personas, simplemente amándolas porque eran hijos de Dios. Esta fue la lección más valiosa sobre el servicio. El servicio debe hacerse con amor. Había aprendido a practicar el amor en acción, y esta práctica del ministerio del amor me preparó para convertirme en un mejor maestro del ministerio de la verdad, la verdad.
 
@@ -62,4 +62,4 @@ El próximo año _The Urantia Book_ Fellowship acogerá la Conferencia Internaci
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

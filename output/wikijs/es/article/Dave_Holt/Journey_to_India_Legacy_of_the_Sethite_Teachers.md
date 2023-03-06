@@ -165,4 +165,4 @@ Sin duda, tendrá otras ideas sobre cómo podemos eventualmente colaborar para c
 - Wolkstein y Kramer, Inanna, _Reina del Cielo y la Tierra_. (Harper and Row, 1983) cortesía de los trabajos de investigación de Robert Sarmast.
 - RC Zaehner, _Escrituras hindúes_. (JM Dent & Sons, Ltd. 1966) para Rig Veda X.82 y Chandogya Upanishad
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/

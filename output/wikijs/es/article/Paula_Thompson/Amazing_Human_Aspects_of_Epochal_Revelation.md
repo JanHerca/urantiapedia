@@ -104,4 +104,4 @@ Para terminar, tengo que preguntarme qué dirán las futuras revelaciones de la 
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
