@@ -25,5 +25,4 @@ This and other information about how articles are organized in the project can b
 
 ## List of articles
 
-- [Index of all articles planned](/en/index/articles)
-- [Index of currently available articles](/en/index/articles_ok)
+- [Index of all article groups](/en/index/articles)

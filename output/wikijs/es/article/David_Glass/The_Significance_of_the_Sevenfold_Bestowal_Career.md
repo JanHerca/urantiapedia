@@ -51,7 +51,7 @@ La revelación revela que hay potenciales absolutos envueltos en las naturalezas
 > David Glass ha sido estudiante de _El Libro de Urantia_ desde 1973 y ha participado activamente en muchos grupos de estudio y conferencias en varios estados, incluidos Florida, Oregón y Texas. Da lecciones privadas de piano y disfruta escribiendo poesía de inspiración espiritual. Actualmente se desempeña como vicepresidente de la Sociedad Urantia del Norte de Texas y acaba de comenzar su lectura número 16 de _El Libro de Urantia_.  
 {.is-info}
 
-> ... La aparición de un Hijo divino en vuestro mundo por un proceso aparentemente natural, nosotros la consideramos como un milagro —el funcionamiento de unas leyes universales que sobrepasan nuestra comprensión. Jesús de Nazaret era una persona milagrosa. [[UB 120:4.5](/en/The_Urantia_Book/120#p4_5)]  
+> ... La aparición de un Hijo divino en vuestro mundo por un proceso aparentemente natural, nosotros la consideramos como un milagro —el funcionamiento de unas leyes universales que sobrepasan nuestra comprensión. Jesús de Nazaret era una persona milagrosa. [[LU 120:4.5](/es/The_Urantia_Book/120#p4_5)]  
 
 ## Referencias
 

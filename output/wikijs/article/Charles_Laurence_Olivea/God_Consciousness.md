@@ -12,7 +12,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
 
 _The following article was presented as the plenary speech at the Summer Study Session, at Dominican University, River Forest, IL, July 31, 2009. _
 
-According to _The Urantia Book_, “_Ability to comprehend is the mortal passport to Paradise._” [[UB 26:4.8](/en/The_Urantia_Book/26#p4_8)] So it would appear that the ability to find God depends on our consciousness of him. 
+According to _The Urantia Book_, “_Ability to comprehend is the mortal passport to Paradise._” [[UB 26:4.15](/en/The_Urantia_Book/26#p4_15)] So it would appear that the ability to find God depends on our consciousness of him. 
 
 A definition of consciousness that appeals to me is the notion of an “inward awareness of an external object, state or fact…of what is really at stake in modern philosophy.” (Webster’s Third International Dictionary) If this is extended to God, then the stakes, indeed, are the highest possible. 
 
@@ -68,15 +68,15 @@ In addition to the significance of His name, there is a second general feature o
 As I re-read the papers, I counted the number of times these eight living-values of God were mentioned. Using them as criteria, certain assessments may be offered concerning the potential for shaping human comprehension of our Father-deity. Here are the eight divine facets of our beloved Father from the most frequently mentioned to the least referenced: 
 
 | Facet | Num. |
-| --- | --- |
-| Love............. | 69 |
-| Goodness......... | 28 |
-| Wisdom........... | 21 |
-| Mercy............ | 18 |
-| Righteousness.... | 16 |
-| Truth ........... | 15 |
-| Justice.......... | 12 |
-| Beauty........... | 8 |
+| :--- | --- |
+| Love              | 69 |
+| Goodness          | 28 |
+| Wisdom            | 21 |
+| Mercy             | 18 |
+| Righteousness     | 16 |
+| Truth             | 15 |
+| Justice           | 12 |
+| Beauty            | 8 |
 
 Love, perhaps as no surprise, is the winner! Love, goodness, and mercy make up a total of 115; yet, goodness and mercy, adding up to 46 together, do not total more than love. While mercy is love-applied and reflects the presence of goodness, it (mercy, that is) requires wisdom (insight and foresight). Interestingly, the Divine Counselor chose to point to love, goodness, wisdom, and mercy 136 times, or more than twice the other four characteristics combined—righteousness, truth, justice, and beauty. 
 

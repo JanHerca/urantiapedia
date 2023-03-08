@@ -25,5 +25,4 @@ Esta y otra información sobre cómo están organizados los artículos en el pro
 
 ## Listado de artículos
 
-- [Índice de todos los artículos planeados](/es/index/articles)
-- [Índice de artículos actualmente disponibles](/es/index/articles_ok)
+- [Índice de todos los grupos de artículos](/es/index/articles)

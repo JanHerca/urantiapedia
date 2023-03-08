@@ -28,7 +28,7 @@ Cuando el Supremo alcanza la plena madurez en el momento de la perfección del G
 
 Por supuesto que existe unidad y triunidad en diferentes reinos de la realidad, pero dentro de los siete superuniversos somos seres de origen dual (Supremo y Padre). Hay infinitas formas de ver la dualidad: masculino/femenino, perfecto/imperfecto, ser/hacer, espiritual/material; existencial/experiencial; el yin y el yang de prácticamente todo.
 
-Con esto en mente, veamos algunos de los fundamentos del Supremo. _El Libro de Urantia_ ofrece tres documentos sobre el Supremo: El Ser Supremo (Documento 115), El Todopoderoso Supremo (Documento 116) y Dios el Supremo (Documento 117). Como la mayor parte del Apocalipsis, estos documentos parecen estar presentados en orden inverso; pero tanto para el pensamiento humano. En el Prólogo dice: «_El Todopoderoso Supremo, que evoluciona en el nivel de valor de las actividades no personales, y la persona espiritual de Dios Supremo, son una sola realidad —el Ser Supremo._» [[LU 0:8.10](/es/El_Libro_de_Urantia/0#p8_10)]
+Con esto en mente, veamos algunos de los fundamentos del Supremo. _El Libro de Urantia_ ofrece tres documentos sobre el Supremo: El Ser Supremo (Documento 115), El Todopoderoso Supremo (Documento 116) y Dios el Supremo (Documento 117). Como la mayor parte del Apocalipsis, estos documentos parecen estar presentados en orden inverso; pero tanto para el pensamiento humano. En el Prólogo dice: «_El Todopoderoso Supremo, que evoluciona en el nivel de valor de las actividades no personales, y la persona espiritual de Dios Supremo, son una sola realidad —el Ser Supremo._» [[LU 0:8.10](/es/The_Urantia_Book/0#p8_10)]
 
 ## Los basicos
 

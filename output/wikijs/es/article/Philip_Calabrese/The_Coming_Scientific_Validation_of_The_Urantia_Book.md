@@ -457,7 +457,7 @@ Robert Sarmast[^34] ya ha realizado descubrimientos in situ a una milla bajo el 
 
 La galaxia de Andrómeda, siendo visible a simple vista, fue designada M31 por Edwin Hubble. A diferencia de tantas otras galaxias encontradas por Hubble, está desplazada hacia el azul.
 
-a) __Medidas de distancia.__ Mucha gente, especialmente los escépticos, pero también algunos creyentes, han señalado que la declaración de _El Libro de Urantia_ sobre el tiempo del viaje de la luz desde Andrómeda fue «_casi un millón de años_» [[LU 15:4.7](/en/The_Urantia_Book/15#p4_7)]
+a) __Medidas de distancia.__ Mucha gente, especialmente los escépticos, pero también algunos creyentes, han señalado que la declaración de _El Libro de Urantia_ sobre el tiempo del viaje de la luz desde Andrómeda fue «_casi un millón de años_» [[LU 15:4.7](/es/The_Urantia_Book/15#p4_7)]
 
 como un error de cara a la cosmología. Suponen que la estimación de distancia actual de 2,7 años luz es lo suficientemente precisa y fiable como para basar más conclusiones en ella, ¡incluso conclusiones sobre la motivación de los autores sobrehumanos para poner en _El Libro de Urantia_ lo que supuestamente sabían que era inexacto! Los escépticos lo han señalado como una fuerte evidencia de la autoría humana.
 
