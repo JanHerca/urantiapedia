@@ -311,7 +311,7 @@ Finalmente, terminamos con esas palabras especiales del Mensajero Poderoso que n
 
 ## Referencias
 
-- Artículo obtenido de: https://urantia-book.org/archive/newsletters/herald/
+- Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
 ## Notas
 

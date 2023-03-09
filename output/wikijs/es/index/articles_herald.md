@@ -296,7 +296,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 | Título                                                                                                                                            | Autor                           | Etiquestas |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ---------- |
 | [El mundo no está llegando a su fin](/es/article/Carolyn_Kendall_and_Barbara_Newsom/The_World_is_Not_Coming_to_an_End)                             | Carolyn Kendall, Barbara Newsom |
-| [Religión de la experiencia versus religión de la autoridad](/es/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Autority)                     | Richard S. Omura                |
+| [Religión de la experiencia versus religión de la autoridad](/es/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Authority)                     | Richard S. Omura                |
 | [Conciencia de Dios](/es/article/Charles_Laurence_Olivea/God_Consciousness)                                                                        | Charles Laurence Olivea         |
 | [El libro de Urantia, conceptos humanos y validación reveladora](/es/article/David_Elders/The_Urantia_Book_Human_Concepts_and_Revelatory_Validation) | David Elders                    |
 | [Comprender la relación del amor con la mente](/es/article/Sheila_Keene_Lund/Understanding_the_Relation_of_Love_to_the_Mind)                    | Sheila Keene-Lund               |
@@ -317,11 +317,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 | Título                                                                                                                                          | Autor                           | Etiquestas |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ---- |
-| [The First Epochal Revelation in American Indian Traditions](/es/article/Dave_Holt/The_First_Epochal_Revelation_in_American_Indian_Traditions) | Dave Holt                        |
-| [The Power of The Name of Jesus](/es/article/Charles_Laurence_Olivea/The_Power_of_The_Name_of_Jesus)                                           | Charles Laurence Olivea          |
-| [Machiventa Melchizedek: One of History's Mysteries](/es/article/Linda_Buselli/Machiventa_Melchizedek_One_of_Historys_Mysteries)               | Linda Buselli                    |
-| [“Nearer, My God, to Thee” Getting Closer to God](/es/article/David_Glass/Nearer_My_God_to_Thee_Getting_Closer_to_God)                         | David Glass                      |
-| [One Man's Tour Through The Evolutionary Debate](/es/article/One_Mans_Tour_Through_The_Evolutionary_Debate)                                    |                                  |
+| [La primera revelación de época en las tradiciones indígenas americanas](/es/article/Dave_Holt/The_First_Epochal_Revelation_in_American_Indian_Traditions) | Dave Holt                        |
+| [El poder del nombre de Jesús](/es/article/Charles_Laurence_Olivea/The_Power_of_The_Name_of_Jesus)                                           | Charles Laurence Olivea          |
+| [Maquiventa Melquisedec: uno de los misterios de la historia](/es/article/Linda_Buselli/Machiventa_Melchizedek_One_of_Historys_Mysteries)               | Linda Buselli                    |
+| [«Más cerca, Dios mío, de ti». Acercándonos a Dios](/es/article/David_Glass/Nearer_My_God_to_Thee_Getting_Closer_to_God)                         | David Glass                      |
+| [La gira de un hombre a través del debate evolutivo](/es/article/One_Mans_Tour_Through_The_Evolutionary_Debate)                                    |                                  |
 
 <br>
 
