@@ -2,36 +2,36 @@
 | ------------------------------------------------------ | -------------------------------------------------------------- |
 | “By what authority do you do these things?”            | “Com que autoridade você faz essas coisas?”                    |
 | “Gods” Ashtoreth and Chemosh                           | “Deuses” Astarote e Quemós                                     |
-| “Gods” Ashtoreth and Milcom                            | “Deuses” Ashtoreth e Milcom                                    |
+| “Gods” Ashtoreth and Milcom                            | “Deuses” Astarote e Milcom                                     |
 | “Lazarus will rise.”                                   | “Lázaro ressuscitará.”                                         |
 | “Meat” to do will of Father, “work”                    | “Carne” para fazer a vontade do Pai, “trabalho”                |
 | “Temptation” of Jesus                                  | “Tentação” de Jesus                                            |
-| # 1 God is faithful                                    | #1 Deus é fiel                                                 |
+| # 1 God is faithful                                    | # 1 Deus é fiel                                                |
 | # 1 Perfect in knowledge                               | # 1 Perfeito em conhecimento                                   |
 | # 1 Pilot light                                        | # 1 Luz piloto                                                 |
 | # 1 Pilot light                                        | # 1 Luz piloto                                                 |
-| # 1 Servant of the Lord                                | #1 Servo do Senhor                                             |
+| # 1 Servant of the Lord                                | # 1 Servo do Senhor                                            |
 | # 1 Takes a city                                       | # 1 Toma uma cidade                                            |
 | # 2 Eyes of Lord every place                           | # 2 Olhos do Senhor em todos os lugares                        |
-| # 2 God's laws are just                                | # 2 As leis de Deus são apenas                                 |
-| # 2 Light of life                                      | #2 Luz da vida                                                 |
-| # 2 The Son of Man                                     | #2 O Filho do Homem                                            |
+| # 2 God's laws are just                                | # 2 As leis de Deus são justas                                 |
+| # 2 Light of life                                      | # 2 Luz da vida                                                |
+| # 2 The Son of Man                                     | # 2 O Filho do Homem                                           |
 | 10 Taboos                                              | 10 tabus                                                       |
 | 10th Woe                                               | 10º Ai                                                         |
 | 12 legions of angels & others                          | 12 legiões de anjos e outros                                   |
 | 2,000 souls added to kingdom                           | 2.000 almas adicionadas ao reino                               |
 | 24 Counselors                                          | 24 Conselheiros                                                |
 | 2d Gethsemane prayer                                   | 2ª oração do Getsêmani                                         |
-| 3 disciples chosen                                     | discípulos escolhidos                                          |
+| 3 disciples chosen                                     | 3 discípulos escolhidos                                        |
 | 30 pieces of silver                                    | 30 peças de prata                                              |
-| 3d prayer, 3d sleep                                    | oração 3d, sono 3d                                             |
+| 3d prayer, 3d sleep                                    | 3ª oração, 3° sono                                             |
 | 40 days alone                                          | 40 dias sozinho                                                |
 | A god of great wrath, fierce anger                     | Um deus de grande ira, raiva feroz                             |
 | A new heaven & new earth                               | Um novo céu e nova terra                                       |
 | About John the Baptist                                 | Sobre João Batista                                             |
 | All nations to be blessed                              | Todas as nações serão abençoadas                               |
 | Alpheus twins: James & Judas                           | Gêmeos Alfeu: Tiago e Judas                                    |
-| Also known as Thaddeus & Lebbeus                       | Também conhecido como Tadeu e Lebeu                            |
+| Also known as Thaddeus & Lebbeus                       | Também conhecidos como Tadeu e Lebeu                           |
 | Amenemope wrote first Psalm                            | Amenemope escreveu o primeiro Salmo                            |
 | Amos' threat & warning                                 | Ameaça e aviso de Amós                                         |
 | Angels going up & down                                 | Anjos subindo e descendo                                       |
@@ -45,31 +45,31 @@
 | Ask — receive                                          | Peça - receba                                                  |
 | Barren fig tree                                        | Figueira estéril                                               |
 | Be like God and live                                   | Seja como Deus e viva                                          |
-| Be you Perfect                                         | Seja você perfeito                                             |
+| Be you Perfect                                         | Seja perfeito                                                  |
 | Become a byword                                        | Torne-se um sinônimo                                           |
 | Become as child in spirit                              | Torne-se como uma criança em espírito                          |
 | Become as child in spirit                              | Torne-se como uma criança em espírito                          |
 | Becomes cornerstone                                    | Torna-se pedra angular                                         |
 | Before all things...all things consist                 | Antes de todas as coisas... todas as coisas consistem          |
-| Beginning, 23d Psalm                                   | Começo, Salmo 23d                                              |
+| Beginning, 23d Psalm                                   | Começo, 23° Salmo                                              |
 | BEHOLD THE MAN                                         | OLHA O HOMEM                                                   |
 | Belief counted as righteousness                        | Crença contada como justiça                                    |
 | Believe end sudden, spectacular                        | Acredite no fim repentino, espetacular                         |
 | Believe truth, have eternal life                       | Acredite na verdade, tenha a vida eterna                       |
 | Believe, see glory of God                              | Acredite, veja a glória de Deus                                |
-| Believers lonely w/o new heart                         | Crentes solitários sem novo coração                            |
-| Better —heavenly— country                              | Melhor —celestial— país                                        |
+| Believers lonely w/o new heart                         | Crentes solitários sem coração novo                            |
+| Better —heavenly— country                              | Melhor país —celestial—                                        |
 | Bildad, second friend                                  | Bildade, segundo amigo                                         |
 | Blessed is he who comes —                              | Bem-aventurado aquele que vem –                                |
 | Blessed is the womb                                    | Abençoado é o ventre                                           |
 | Blind lead the blind                                   | Cego guia o cego                                               |
-| Book of Job                                            | Livro de Trabalho                                              |
+| Book of Job                                            | Livro de Jó                                                    |
 | Breath of life                                         | Sopro de vida                                                  |
 | Bring in first fruits                                  | Traga os primeiros frutos                                      |
 | Broad & narrow ways                                    | Caminhos largos e estreitos                                    |
 | By loving fellows as Jesus did)                        | Ao amar os companheiros como Jesus fez)                        |
 | By word of the Lord: creation                          | Pela palavra do Senhor: criação                                |
-| Cain slays Able                                        | Caim mata Able                                                 |
+| Cain slays Able                                        | Caim mata Abel                                                 |
 | Call no man “father”                                   | Não chame nenhum homem de “pai”                                |
 | Came to bring abundant life                            | Veio para trazer vida abundante                                |
 | Came to bring gladness                                 | Veio trazer alegria                                            |
@@ -77,14 +77,14 @@
 | Came to reveal Father                                  | Veio para revelar o Pai                                        |
 | Can any good thing come ...                            | Alguma coisa boa pode vir...                                   |
 | Can any good thing, Nazareth                           | Pode alguma coisa boa, Nazaré                                  |
-| Cannot see my face..                                   | Não consigo ver meu rosto..                                    |
+| Cannot see my face..                                   | Não consigo ver minha face...                                  |
 | Champions                                              | Campeões                                                       |
 | Change of mind by faith: new birth                     | Mudança de mentalidade pela fé: novo nascimento                |
-| Charge: go preach to the world                         | Charge: vá pregar ao mundo                                     |
-| Child-like faith / trust                               | Fé/confiança infantil                                          |
-| Childlike faith: spiritual simplicity                  | Fé infantil: simplicidade espiritual                           |
+| Charge: go preach to the world                         | Missão: vá pregar ao mundo                                     |
+| Child-like faith / trust                               | Fé/confiança como de criança                                   |
+| Childlike faith: spiritual simplicity                  | Fé de criança: simplicidade espiritual                         |
 | Children of the Most High                              | Filhos do Altíssimo                                            |
-| Cites prophecy Ho 11:1                                 | Cita a profecia Os 11:1                                        |
+| Cites prophecy Ho 11:1                                 | Cita profecia Os 11:1                                          |
 | Cites prophecy Is 42:1-4                               | Cita profecia Is 42:1-4                                        |
 | Cites prophecy Is 53:4                                 | Cita profecia Is 53:4                                          |
 | Cites prophecy Is 6:9-10                               | Cita profecia Is 6:9-10                                        |
@@ -97,7 +97,7 @@
 | Cites prophecy Ps 78:2                                 | Cita a profecia Sl 78:2                                        |
 | Cites prophecy Zc 11:12                                | Cita profecia Zc 11:12                                         |
 | Cites prophecy Zc 9:9                                  | Cita profecia Zc 9:9                                           |
-| City: builder, maker, is God                           | Cidade: construtor, construtor, é Deus                         |
+| City: builder, maker, is God                           | Cidade: edificador, construtor, é Deus                         |
 | Clean outside dirty inside                             | Limpa por fora suja por dentro                                 |
 | Cleanse congregation's sins                            | Purifique os pecados da congregação                            |
 | Cleanse individual sins                                | Purifique os pecados individuais                               |
@@ -105,12 +105,12 @@
 | Cleanse trespasses                                     | Limpar transgressões                                           |
 | Coming down from heaven                                | Descendo do céu                                                |
 | Commingle good & evil, die                             | Misture o bem e o mal, morra                                   |
-| Commit to Him keeping of souls                         | Comprometa-se com Ele guardando as almas                       |
-| Competing “gods” Ashtaroth                             | Competindo “deuses” Ashtaroth                                  |
-| Competing “gods” Baal                                  | Baal de “deuses” concorrentes                                  |
-| Competing “gods” Baal, Ashtaroth                       | Competindo “deuses” Baal, Ashtaroth                            |
-| Competing “gods” Molech                                | Competindo “deuses” Moloque                                    |
-| Contrite mind & humble spirit                          | Mente contrito e espírito humilde                              |
+| Commit to Him keeping of souls                         | Confie a Ele a guarda das almas                                |
+| Competing “gods” Ashtaroth                             | “Deuses” concorrentes, Astarote                                |
+| Competing “gods” Baal                                  | “Deuses” concorrentes, Baal                                    |
+| Competing “gods” Baal, Ashtaroth                       | “Deuses” concorrentes, Baal, Astarote                          |
+| Competing “gods” Molech                                | “Deuses” concorrentes, Moloque                                 |
+| Contrite mind & humble spirit                          | Mente contrita e espírito humilde                              |
 | Correcting views of God                                | Corrigindo visões de Deus                                      |
 | Created male & female                                  | Criado masculino e feminino                                    |
 | Creator speaks                                         | Criador fala                                                   |
@@ -124,37 +124,37 @@
 | Destroy temple, make another                           | Destrua o templo, faça outro                                   |
 | Did fish swallow Jonah?                                | O peixe engoliu Jonas?                                         |
 | Disciples consoled                                     | Discípulos consolados                                          |
-| Disciples given chance to quit                         | Discípulos dada a chance de desistir                           |
+| Disciples given chance to quit                         | Discípulos foi dada a chance de desistir                       |
 | Disciples, follow me                                   | Discípulos, sigam-me                                           |
 | Discourse on master & servant                          | Discurso sobre mestre e servo                                  |
 | Divorce                                                | Divórcio                                                       |
 | Do same spiritually                                    | Faça o mesmo espiritualmente                                   |
 | Don't prolong childhood                                | Não prolongue a infância                                       |
-| Don't seethe kid in mother's milk                      | Não veja a criança no leite materno                            |
+| Don't seethe kid in mother's milk                      | Não cozerás o cabrito no leite materno                         |
 | Drink pleasures, see light                             | Beba prazeres, veja a luz                                      |
-| Dwell in high, holy place                              | Habitar em alto, lugar santo                                   |
+| Dwell in high, holy place                              | Habitar no alto, lugar santo                                   |
 | Easy way out                                           | Saída fácil                                                    |
 | Education of parents                                   | Educação dos pais                                              |
 | Eighth Woe                                             | Oitavo Ai                                                      |
 | Eliphaz, the first friend                              | Elifaz, o primeiro amigo                                       |
 | Embalming, burial                                      | Embalsamamento, enterro                                        |
-| End, 23d Psalm                                         | Fim, Salmo 23d                                                 |
+| End, 23d Psalm                                         | Fim, 23° Salmo                                                 |
 | Ended by singing hymn                                  | Terminou cantando hino                                         |
-| Eternal / everlasting life                             | Vida eterna / eterna                                           |
+| Eternal / everlasting life                             | Eternal / Vida eterna                                          |
 | Eye, light of body                                     | Olho, luz do corpo                                             |
 | Eyes:are the windows of soul                           | Olhos: são as janelas da alma                                  |
 | Ezekiel: service / devotion                            | Ezequiel: serviço / devoção                                    |
-| Faith, hope, & charity                                 | Fé esperança caridade                                          |
+| Faith, hope, & charity                                 | Fé, esperança e caridade                                       |
 | Faithful in little / faithful in much                  | Fiel no pouco / Fiel no muito                                  |
 | Fate of hearers & believers                            | Destino dos ouvintes e crentes                                 |
-| Father & Jesus work                                    | Trabalho Pai e Jesus                                           |
+| Father & Jesus work                                    | Trabalho do Pai e de Jesus                                     |
 | Father & Son glorified                                 | Pai e Filho glorificados                                       |
-| Father & Son know all things                           | Pai e filho sabem todas as coisas                              |
-| Father gives sunshine & rain                           | Pai dá sol e chuva                                             |
+| Father & Son know all things                           | Pai e Filho sabem todas as coisas                              |
+| Father gives sunshine & rain                           | Pai dá brilho do sol e chuva                                   |
 | Father in Son in Father                                | Pai no Filho no Pai                                            |
 | Father in Son in us                                    | Pai no Filho em nós                                            |
 | Father of light, no variableness                       | Pai da luz, sem variação                                       |
-| Father's will becomes your will                        | A vontade do pai se torna a sua vontade                        |
+| Father's will becomes your will                        | A vontade do Pai se torna a sua vontade                        |
 | Fear and obey God                                      | Temer e obedecer a Deus                                        |
 | Fear not, I am wih you                                 | Não tenha medo, eu estou com você                              |
 | Fear of Lord, begins wisdom                            | Temor do Senhor, começa a sabedoria                            |
@@ -170,19 +170,19 @@
 | Five loaves, two fishes                                | Cinco pães, dois peixes                                        |
 | Follow the spirit, live forever                        | Siga o espírito, viva para sempre                              |
 | Foretold death, resurrection                           | Predisse a morte, ressurreição                                 |
-| Found (not) wanting                                    | Encontrado (não) querendo                                      |
+| Found (not) wanting                                    | (Não) encontrado em falta                                      |
 | Fourth Woe                                             | Quarto Ai                                                      |
 | Freely receive, freely give, love                      | Receba de graça, dê de graça, ame                              |
 | Fret not because of evildoers                          | Não se preocupe por causa dos malfeitores                      |
 | Friend of publicans and sinners                        | Amigo dos publicanos e pecadores                               |
 | Full of joy, happiness                                 | Cheio de alegria, felicidade                                   |
 | Genealogy                                              | Genealogia                                                     |
-| Gethsemane prayer                                      | oração do Getsêmani                                            |
+| Gethsemane prayer                                      | Oração do Getsêmani                                            |
 | Gnats and camels                                       | Moscas e camelos                                               |
 | Go tell apostles & Peter                               | Vá dizer aos apóstolos e Pedro                                 |
 | God created                                            | Deus criou                                                     |
 | God created man                                        | Deus criou o homem                                             |
-| God does not hear iniquitous                           | Deus não ouve iníquo                                           |
+| God does not hear iniquitous                           | Deus não ouve iníquos                                          |
 | God gracious, compassionate                            | Deus misericordioso, compassivo                                |
 | God is Father, redeemer                                | Deus é Pai, redentor                                           |
 | God is good, tender mercies                            | Deus é bom, ternas misericórdias                               |
@@ -190,33 +190,33 @@
 | God judges secrets                                     | Deus julga segredos                                            |
 | God looks at both inner & outer                        | Deus olha tanto para o interior como para o exterior           |
 | God not far                                            | Deus não está longe                                            |
-| God not for Hebrews in war                             | Deus não para hebreus em guerra                                |
+| God not for Hebrews in war                             | Deus não apoia hebreus em guerra                               |
 | God of power, judgment,                                | Deus de poder, julgamento,                                     |
-| God withholds no good thing                            | Deus não retém nenhuma coisa boa                               |
+| God withholds no good thing                            | Deus não nos priva de nenhuma coisa boa                        |
 | God: maker, preserver                                  | Deus: criador, preservador                                     |
 | God's divine character deep, wise                      | O caráter divino de Deus profundo, sábio                       |
-| God's spirit in you (T/A)                              | O espírito de Deus em você (T/A)                               |
-| God's Spirit in you (T/A)                              | O Espírito de Deus em você (T/A)                               |
+| God's spirit in you (T/A)                              | O espírito de Deus em você (Ajustador dos Pensamentos)         |
+| God's Spirit in you (T/A)                              | O Espírito de Deus em você (Ajustador dos Pensamentos)         |
 | God/Son no respecter of persons                        | Deus/Filho não faz acepção de pessoas                          |
-| Good man satisfied w/in self                           | Bom homem satisfeito c/em si mesmo                             |
-| Good to give thanks                                    | Bom para agradecer                                             |
+| Good man satisfied w/in self                           | Bom homem satisfeito consigo mesmo                             |
+| Good to give thanks                                    | É bom agradecer                                                |
 | Goodness of God / repentance                           | Bondade de Deus / arrependimento                               |
 | Gospel of Salvation of God                             | Evangelho da Salvação de Deus                                  |
 | Great peace to lovers of law                           | Grande paz para os amantes da lei                              |
 | Greeks: man is falling                                 | Gregos: o homem está caindo                                    |
 | Hasty temper / folly                                   | Temperamento precipitado / loucura                             |
-| Have an ear, hear theSpirit                            | Tenha um ouvido, ouça o Espírito                               |
+| Have an ear, hear the Spirit                           | Tem um ouvido, ouça o Espírito                                 |
 | He knows name, number of stars                         | Ele sabe nome, número de estrelas                              |
-| He knows your frame: dust                              | Ele conhece seu quadro: poeira                                 |
+| He knows your frame: dust                              | Ele conhece seu corpo: poeira                                  |
 | He who rules own spirit, mighty                        | Aquele que governa o próprio espírito, poderoso                |
-| Heals brokenhearted & binds                            | Cura o coração partido e liga                                  |
-| Hear cry of poor and needy                             | Ouça o clamor dos pobres e necessitados                        |
+| Heals brokenhearted & binds                            | Cura o coração partido e religa                                |
+| Hear cry of poor and needy                             | Ouve o clamor dos pobres e necessitados                        |
 | Heavens cry righteous, glory                           | Os céus clamam justos, glória                                  |
 | Hereditary priesthood                                  | Sacerdócio hereditário                                         |
 | His mercy is everlasting                               | Sua misericórdia é eterna                                      |
 | His mighty angels                                      | Seus anjos poderosos                                           |
 | His mighty angels                                      | Seus anjos poderosos                                           |
-| Hold the keys of heaven                                | Segure as chaves do céu                                        |
+| Hold the keys of heaven                                | Mantém as chaves do céu                                        |
 | Holy temple built on earth                             | Templo sagrado construído na terra                             |
 | Humbled / exalted                                      | Humilhado / exaltado                                           |
 | Hunger & thirst for righteousness                      | Fome e sede de justiça                                         |
@@ -227,27 +227,27 @@
 | I am resurrection & life                               | Eu sou ressurreição e vida                                     |
 | I am the resurrection & the life                       | Eu sou a ressurreição e a vida                                 |
 | I am the Way, Truth & Life                             | Eu sou o Caminho, a Verdade e a Vida                           |
-| I came / I go                                          | eu vim / eu vou                                                |
+| I came / I go                                          | Eu vim / eu vou                                                |
 | I go to Him who sent me.                               | Eu vou para Aquele que me enviou.                              |
-| I go, you cannot find me                               | eu vou, você não pode me encontrar                             |
-| If earth parents love, give gifts                      | Se os pais da terra amam, dê presentes                         |
+| I go, you cannot find me                               | Para onde eu vou, você não pode me encontrar                   |
+| If earth parents love, give                            | Se os pais da terra amam, dê presentes                         |
 | If have friends, be friendly                           | Se tiver amigos, seja amigável                                 |
 | If not do well, sin lies at door                       | Se não fizer bem, o pecado está à porta                        |
 | If not harken to God, curses                           | Se não ouvir a Deus, maldições                                 |
 | If world hates, persecutes                             | Se o mundo odeia, persegue                                     |
 | Ignorance no excuse                                    | Ignorância não é desculpa                                      |
 | Impetuous Peter                                        | Pedro impetuoso                                                |
-| In God man lives, moves..                              | Em Deus o homem vive, se move..                                |
+| In God man lives, moves..                              | Em Deus o homem vive, se move...                               |
 | In Him were hidden treasures                           | Nele estavam escondidos tesouros                               |
 | In our afflctions he is afflicted                      | Em nossas aflições ele é afligido                              |
 | Inaccuracies in Bible                                  | Imprecisões na Bíblia                                          |
 | Indwelling spirit: the Adjuster                        | Espírito residente: o Ajustador                                |
 | Innoent victims of time                                | Vítimas inocentes do tempo                                     |
-| Is man more just than God                              | O homem é mais justo que Deus                                  |
+| Is man more just than God                              | O homem é mais justo que Deus?                                 |
 | Is near the brokenhearted                              | Está perto do coração partido                                  |
 | Isaac's birth                                          | nascimento de Isaque                                           |
 | Jairus' request: heal daughter                         | Pedido de Jairo: curar a filha                                 |
-| James “drinks cup”                                     | James “bebe copo”                                              |
+| James “drinks cup”                                     | Tiago “bebe copo”                                              |
 | James & John selected                                  | Tiago e João selecionados                                      |
 | Jealous for                                            | Ciúmes por                                                     |
 | Jealous of                                             | Ciúmes de                                                      |
@@ -255,10 +255,10 @@
 | Jesus & apostles to Capernaum                          | Jesus e apóstolos para Cafarnaum                               |
 | Jesus & Father are one                                 | Jesus e Pai são um                                             |
 | Jesus & Father are one                                 | Jesus e Pai são um                                             |
-| Jesus & Mary grieve                                    | Jesus e Maria choram                                           |
-| Jesus and 12 to Caesarea-Philippi                      | Jesus e 12 a Cesareia-Filipenses                               |
-| Jesus ans questions re: divinity                       | Jesus e perguntas re: divindade                                |
-| Jesus appears to 500                                   | Jesus aparece a 500                                            |
+| Jesus & Mary grieve                                    | Jesus e Maria lamentam                                         |
+| Jesus and 12 to Caesarea-Philippi                      | Jesus e os 12 vão a Cesareia-Filipenses                        |
+| Jesus ans questions re: divinity                       | Jesus responde perguntas: divindade                            |
+| Jesus appears to 500                                   | Jesus aparece para 500                                         |
 | Jesus asks question, no answer.                        | Jesus faz pergunta, sem resposta.                              |
 | Jesus came to seek & save lost                         | Jesus veio buscar e salvar perdido                             |
 | Jesus came to seek & save lost                         | Jesus veio buscar e salvar perdido                             |
@@ -268,7 +268,7 @@
 | Jesus dies on cross                                    | Jesus morre na cruz                                            |
 | Jesus enters, seated                                   | Jesus entra, sentado                                           |
 | Jesus fasts / eats                                     | Jesus jejua / come                                             |
-| Jesus hanged with 2 malefactors                        | Jesus enforcado com 2 malfeitores                              |
+| Jesus hanged with 2 malefactors                        | Jesus crucificado com 2 malfeitores                            |
 | Jesus hears: John imprisoned                           | Jesus ouve: João preso                                         |
 | Jesus leaves                                           | Jesus sai                                                      |
 | Jesus quotes “scripture”                               | Jesus cita “escritura”                                         |
@@ -279,9 +279,9 @@
 | Jesus slept, awakened                                  | Jesus dormiu, despertou                                        |
 | Jesus speaks parable                                   | Jesus fala parábola                                            |
 | Jesus teaches crowd at well                            | Jesus ensina multidão no poço                                  |
-| Jesus to Bethany for night                             | Jesus para Betânia para a noite                                |
+| Jesus to Bethany for night                             | Jesus foi para Betânia para passar a noite                     |
 | Jesus told: Gabriel's visit Elizabeth                  | Jesus contou: Gabriel visita Isabel                            |
-| Jesus: not of Davidic line                             | Jesus: não da linhagem davídica                                |
+| Jesus: not of Davidic line                             | Jesus: não é da linhagem davídica                              |
 | Jesus: the way, the truth, the life                    | Jesus: o caminho, a verdade, a vida                            |
 | Jesus' apostles not baptizing                          | Apóstolos de Jesus não batizando                               |
 | Jesus' Baptism & God's voice                           | Batismo de Jesus e a voz de Deus                               |
@@ -289,47 +289,47 @@
 | Jesus' last talk in temple                             | A última palestra de Jesus no templo                           |
 | Jesus' prayer Re: Judas                                | Oração de Jesus Re: Judas                                      |
 | Job: God blesses faithful                              | Jó: Deus abençoa os fiéis                                      |
-| Job: good, rich & healthy                              | Trabalho: bom, rico e saudável                                 |
-| John but fore runner of Messiah                        | João, mas precursor do Messias                                 |
+| Job: good, rich & healthy                              | Jó: bom, rico e saudável                                       |
+| John but fore runner of Messiah                        | João, precursor do Messias                                     |
 | John the Baptist killed, buried                        | João Batista morto, enterrado                                  |
 | John's declaration re: Jesus                           | A declaração de João re: Jesus                                 |
 | John's social gospel                                   | O evangelho social de João                                     |
-| John's youth, dress                                    | juventude de John, vestido                                     |
-| Joseph not Davidic line                                | Joseph não linha davídica                                      |
+| John's youth, dress                                    | Juventude de João, vestimentas                                 |
+| Joseph not Davidic line                                | José não descendia de linha davídica                           |
 | Joseph sold                                            | José vendeu                                                    |
 | Joseph weds Mary                                       | José se casa com Maria                                         |
 | Judas leads armed band                                 | Judas lidera bando armado                                      |
 | Judas; “How much?”                                     | Judas; "Quantos?"                                              |
-| Judge motive, not acts                                 | Motivo do juiz, não atos                                       |
-| Justice, fairness, & mercy                             | Justiça, justiça e misericórdia                                |
-| Ketura not wife                                        | Ketura não esposa                                              |
+| Judge motive, not acts                                 | Julga motivos, não atos                                        |
+| Justice, fairness, & mercy                             | Justiça, equidade e misericórdia                               |
+| Ketura not wife                                        | Quetura era concubina de Abraão, não tinha status de esposa    |
 | Kingdom (spiritual)                                    | Reino (espiritual)                                             |
 | Kingdom comes in power & glory                         | Reino vem em poder e glória                                    |
 | Kingdom is everlasting                                 | Reino é eterno                                                 |
-| Kingdom not meat                                       | Reino não carne                                                |
-| Kingdom not noise, but in hearts                       | Reino não barulho, mas nos corações                            |
-| Kingdom not of world                                   | Reino não do mundo                                             |
-| Kingdom of God not meat..                              | Reino de Deus não é carne..                                    |
+| Kingdom not meat                                       | Reino não carne, nem comida, nem bebida                        |
+| Kingdom not noise, but in hearts                       | Reino não vem com barulho, mas sim com mudança nos corações    |
+| Kingdom not of world                                   | Reino não é deste mundo                                        |
+| Kingdom of God not meat..                              | Reino de Deus não é comida ...                                 |
 | Kingdom of heaven already here                         | Reino dos céus já está aqui                                    |
-| Kingdom of heaven is at hand                           | Reino dos céus está próximo                                    |
+| Kingdom of heaven is at hand                           | Reino dos céus está a mão                                      |
 | Kingdom:comes in power & glory                         | Reino: vem em poder e glória                                   |
 | Know God & self as a son                               | Conheça a Deus e a si mesmo como um filho                      |
-| Know Son, know Father                                  | Conheça o filho, conheça o pai                                 |
+| Know Son, know Father                                  | Conheça o Filho, conheça o Pai                                 |
 | Know truth , be free                                   | Conheça a verdade, seja livre                                  |
-| Laid foundation with first-born                        | Fundada com primogênito                                        |
-| Legend about pigs                                      | lenda sobre porcos                                             |
-| Let mind be in you as in Jesus                         | Deixe a mente estar em você como em Jesus                      |
+| Laid foundation with first-born                        | Sacrifício dos filhos sob as fundações de Jericó               |
+| Legend about pigs                                      | Lenda sobre porcos                                             |
+| Let mind be in you as in Jesus                         | Deixe a mente de Jesus estar em você                           |
 | Little faith                                           | Pouca fé                                                       |
-| Little of righteous / better                           | Pouco de justo / melhor                                        |
+| Little of righteous / better                           | Pouco de retidão / melhor                                      |
 | Live the will of Father, reveal Him                    | Viva a vontade do Pai, revele-O                                |
 | Live the will of Father, reveal Him                    | Viva a vontade do Pai, revele-O                                |
-| Living Spirit of the Father (TA)                       | Espírito Vivo do Pai (TA)                                      |
-| Long-suffering, good and true                          | Sofrimento, bom e verdadeiro                                   |
+| Living Spirit of the Father (TA)                       | Espírito Vivo do Pai (Ajustador dos Pensamentos)               |
+| Long-suffering, good and true                          | Sofrido, bom e verdadeiro                                      |
 | Lord God of hosts                                      | Senhor Deus dos Exércitos                                      |
 | Lord God of hosts                                      | Senhor Deus dos Exércitos                                      |
 | Lord near whoever calls                                | Senhor perto de quem chama                                     |
 | Lord of all                                            | Senhor de tudo                                                 |
-| Lord preserves going out ...                           | Senhor preserva sair...                                        |
+| Lord preserves going out ...                           | Senhor preservará o nosso sair e o nosso entrar ...            |
 | Lord says: I created you                               | Senhor diz: Eu te criei                                        |
 | Love God & neighbor as self                            | Amar a Deus e ao próximo como a si mesmo                       |
 | Love God & thy neighbor                                | Ame a Deus e ao seu próximo                                    |
@@ -337,21 +337,21 @@
 | Love neighbors as yourself                             | Ame os vizinhos como a si mesmo                                |
 | Love neighbors as yourself                             | Ame os vizinhos como a si mesmo                                |
 | Love the Lord supremely                                | Ame o Senhor supremamente                                      |
-| Love w/ everlasting love                               | Amor c/ amor eterno                                            |
+| Love w/ everlasting love                               | Amor com amor eterno                                           |
 | Loved w/ everlasting love                              | Amado com amor eterno                                          |
-| Lovingkindness                                         | Gentileza adorável                                             |
+| Lovingkindness                                         | Gentileza amável                                               |
 | Luminosity                                             | Luminosidade                                                   |
-| Lust is Adultery                                       | A luxúria é adultério                                          |
+| Lust is Adultery                                       | Luxúria é adultério                                            |
 | Make a new covenant                                    | Faça uma nova aliança                                          |
 | Man is what he thinks                                  | O homem é o que ele pensa                                      |
-| Man tears self in anger                                | Homem se rasga de raiva                                        |
+| Man tears self in anger                                | Homem se rasga na raiva                                        |
 | Manna vs. bread of life                                | Maná vs. pão da vida                                           |
-| Mary visits w/ Jesus                                   | Maria visita c/ Jesus                                          |
+| Mary visits w/ Jesus                                   | Maria visita com Jesus                                         |
 | Mary, women, saw crucifixion                           | Maria, mulheres, viu a crucificação                            |
 | Master & servant relationship                          | Relação mestre e servo                                         |
 | Meek inherit earth, peace                              | Mansos herdam a terra, a paz                                   |
 | Melchizedek, king of Salem ...                         | Melquisedeque, rei de Salém...                                 |
-| Melchizedek, priest of M. High                         | Melquisedeque, sacerdote de M. High                            |
+| Melchizedek, priest of M. High                         | Melquisedeque, sacerdote do Altíssimo                          |
 | Men reap evil they sow                                 | Os homens colhem o mal que semeiam                             |
 | Merciful and just to children                          | Misericordioso e justo com as crianças                         |
 | Mercy endures forever                                  | A misericórdia dura para sempre                                |
@@ -381,16 +381,16 @@
 | Mind of man mortal, spirit Divine                      | Mente do homem mortal, espírito Divino                         |
 | Mind of man mortal, spirit Divine                      | Mente do homem mortal, espírito Divino                         |
 | Minister to man, minister to me                        | Ministro para homem, ministro para mim                         |
-| money damages                                          | danos em dinheiro                                              |
-| More blessed to give More blessed to give              | Mais abençoado para dar Mais abençoado para dar                |
+| money damages                                          | Danos em dinheiro                                              |
+| More blessed to give More blessed to give              | Mais abençoado é dar do que receber                            |
 | Moses' teaching about sex                              | Ensinamento de Moisés sobre sexo                               |
 | Mt. Sinai                                              | Monte Sinai                                                    |
-| My God, why forsake me                                 | Meu Deus, por que me abandonar                                 |
+| My God, why forsake me                                 | Meu Deus, por que me abandonastes                              |
 | Name fetish                                            | Nome fetiche                                                   |
 | New birth societies                                    | Sociedades do novo nascimento                                  |
 | Ninth Woe                                              | Nono Ai                                                        |
 | No “atonement for sin” Contra:                         | Sem “expiação pelo pecado” Contra:                             |
-| No “miracles”                                          | Nenhum milagre"                                                |
+| No “miracles”                                          | Nenhum "milagre"                                               |
 | No adultery                                            | Sem adultério                                                  |
 | No fasting, sad faces                                  | Sem jejum, rostos tristes                                      |
 | No food left until morning                             | Sem comida até de manhã                                        |
@@ -398,7 +398,7 @@
 | No other savior                                        | Nenhum outro salvador                                          |
 | No sacrifice w/leavened bread                          | Nenhum sacrifício com pão levedado                             |
 | No star                                                | Sem estrela                                                    |
-| No varibleness, changing                               | Sem variabilidade, mudando                                     |
+| No varibleness, changing                               | Sem variabilidade, mudança                                     |
 | No virgin birth                                        | Sem nascimento virginal                                        |
 | Nothing hid,all will come to light                     | Nada escondido, tudo virá à luz                                |
 | Now is judgment: cast down                             | Agora é o julgamento: abatido                                  |
@@ -416,7 +416,7 @@
 | Parable of neighbor & loaves                           | Parábola do vizinho e pães                                     |
 | Parable of Pounds, concluded.                          | Parábola das Libras, concluída.                                |
 | Parable of Pounds, cont.                               | Parábola das Libras, cont.                                     |
-| Parable of sweep net, fish                             | Parábola da rede de varredura, peixe                           |
+| Parable of sweep net, fish                             | Parábola da rede de arrasto, peixe                             |
 | Parents return and search                              | Os pais voltam e procuram                                      |
 | Part 1: A holy people                                  | Parte 1: Um povo santo                                         |
 | Part 1: All things possible                            | Parte 1: Todas as coisas possíveis                             |
@@ -434,7 +434,7 @@
 | Part 1: God not far off                                | Parte 1: Deus não está longe                                   |
 | Part 1: God of knowledge                               | Parte 1: Deus do conhecimento                                  |
 | Part 1: God would not forget                           | Parte 1: Deus não esqueceria                                   |
-| Part 1: Gracious to the repentant                      | Parte 1: Gracioso com o arrependido                            |
+| Part 1: Gracious to the repentant                      | Parte 1: Cheio de graças para com o arrependido                |
 | Part 1: He heals brokenhearted                         | Parte 1: Ele cura o coração partido                            |
 | Part 1: He who formed mountain                         | Parte 1: Aquele que formou a montanha                          |
 | Part 1: Heart not troubled                             | Parte 1: Coração não perturbado                                |
