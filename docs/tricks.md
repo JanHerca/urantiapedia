@@ -24,6 +24,7 @@
     * `(\d)–(\d)` => `$1-$2` (do not apply this outside links)
 * `_El libro de Urantia_` => `_El Libro de Urantia_`
 * `. . .` => `...`
+* `Artículo obtenido de:` => `Artículo traducido. El original fue obtenido de:`
 * Images:
     * `<figura` => `<figure`
     * `="Figura` => `="Figure`
