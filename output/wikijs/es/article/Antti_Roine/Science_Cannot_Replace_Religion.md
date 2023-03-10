@@ -30,7 +30,7 @@ Necesitamos coraje para encontrar la verdad científica o religiosa. La verdad e
 
 Podemos encontrar mucha verdad, por ejemplo, en el Corán, la Biblia y también en _El Libro de Urantia_, que da una explicación lógica de por qué estamos aquí, de dónde venimos y hacia dónde vamos. Nuestro mundo e idioma están cambiando todo el tiempo; no necesitamos apegarnos a interpretaciones milenarias en ciencia y religión. Tenemos suficientes rituales antiguos, iconos sagrados y frases vacías. En cambio, merecemos ciencia, fe y religión dinámicas y vivas que realmente afecten nuestra vida diaria.
 
-Hace dos mil años los cobardes gritaban "Libertad para Barrabás" y "Crucifícales a Jesús". Muchos de nosotros podemos imaginar que esto no nos afecta; sin embargo, en el momento de partir cada uno de nosotros se enfrentará a esta misma selección personal.
+Hace dos mil años los cobardes gritaban «Libertad para Barrabás» y «Crucifícales a Jesús». Muchos de nosotros podemos imaginar que esto no nos afecta; sin embargo, en el momento de partir cada uno de nosotros se enfrentará a esta misma selección personal.
 
 
 

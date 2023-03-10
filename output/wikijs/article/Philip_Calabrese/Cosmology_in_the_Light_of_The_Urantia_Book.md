@@ -12,19 +12,19 @@ dateCreated: 2023-02-14T14:02:03.086Z
 
 According to _The Urantia Book_[^1] many of our basic contemporary scientific concepts are greatly in need of revision or completely new foundations.[^2] The Big Bang (BB) Theory, the so-called Standard Interpretation of Quantum Mechanics, and also Einstein’s Relativity Theory, all need revision or overthrow. 
 
-> It is indeed difficult to find suitable words in the English language whereby to designate and wherewith to describe the various levels of force and energy—physical, mindal, or spiritual. These narratives cannot altogether follow your accepted definitions of force, energy, and power. There is such paucity of language that we must use these terms in multiple meanings. In this paper, for example, the word energy is used to denote all phases and forms of phenomenal motion, action, and potential, while force is applied to the pregravity, and power to the postgravity, stages of energy.[^3] [[UB 42:2.1](/en/The_Urantia_Book/42#p2_1)] (Page 469) 
+> It is indeed difficult to find suitable words in the English language whereby to designate and wherewith to describe the various levels of force and energy—physical, mindal, or spiritual. These narratives cannot altogether follow your accepted definitions of force, energy, and power. There is such paucity of language that we must use these terms in multiple meanings. In this paper, for example, the word energy is used to denote all phases and forms of phenomenal motion, action, and potential, while force is applied to the pregravity, and power to the postgravity, stages of energy.[^3] [[UB 42:2.1](/en/The_Urantia_Book/42#p2_1)]
 
 ## Deficiencies in Contemporary Human Cosmology in the early twenty-first century addressed by _The Urantia Book_
 
-* Spectral misinterpretations of wavelength redshifts of light from outer space—the so-called Big Bang theory of universe birth in an explosion 13.6 billion years ago 
+* Spectral misinterpretations of wavelength redshifts of light from outer space—the so-called Big Bang theory of universe birth in an explosion 13.6 billion years ago.
 
-* The assumption that the universe is a summation of pre-existent parts (unable to influence one other at faster than light speeds); it is rather one infinite Whole, “The Universe,” divided into finitely many or infinitely many parts that can then be aggregated 
+* The assumption that the universe is a summation of pre-existent parts (unable to influence one other at faster than light speeds); it is rather one infinite Whole, “The Universe,” divided into finitely many or infinitely many parts that can then be aggregated.
 
-* The lack of a postulate of a unique fixed “center of inertia” of all matter and of each material quantum 
+* The lack of a postulate of a unique fixed “center of inertia” of all matter and of each material quantum.
 
-* The lack of any theory of the internal spatial composition and motion of the quantum of massenergy presently represented in the standard model as a geometric point in space with energy properties or as an indefinitely extended wave with the ability when measured to instantly collapse to the place and time of the measurement 
+* The lack of any theory of the internal spatial composition and motion of the quantum of massenergy presently represented in the standard model as a geometric point in space with energy properties or as an indefinitely extended wave with the ability when measured to instantly collapse to the place and time of the measurement.
 
-* The philosophical and scientific denial of the phenomenon of choice 
+* The philosophical and scientific denial of the phenomenon of choice.
 
 Concerning choice, some academic departments in prestigious universities are seriously suggesting that because the energy states of our brains are subject to antecedent energy causation, personal “free will” is completely impossible. This is a serious error that strikes at the very dignity of human persons and their prerogatives of choice and action. It assumes that a person’s brain is within a closed energy system including the environment and therefore cannot “at will” escape the pre-ordained energy consequences inherent in the initial energy relationships. 
 
@@ -359,7 +359,7 @@ If _all_ units of cosmic energy have primary revolution while also swinging arou
 
 If we take a particle to be localized at a specific position in space, but insist it be more than a mere position in space, rather be something extended in space, then we must imagine the geometric shape of an ultimate or prime unit of mass-energy that cannot be further divided into smaller units of mass. What could be the shape of the surface of such a unit? 
 
-From an energy point of view we can envision a spinning toroidal-shaped “space-energy” ring around the Paradise gravity nucleus thereby constituting it a unit of mass-energy of definite size (outer and inner distance from the nucleus) and spin velocity. Such a ring of spinning mass can have a velocity orbiting through space and a spin angular velocity about an axis. Aggregations of such spinning rings can move as a whole with a global velocity and also have a moment of inertia tensor and an angular momentum vector due to concentric spinning on different (possibly moving) axes and at various distances making up a composite spherical particle. This, together with pre-mass energy waves, is enough to embody the de Broglie-Bohm version of quantum mechanics.13 
+From an energy point of view we can envision a spinning toroidal-shaped “space-energy” ring around the Paradise gravity nucleus thereby constituting it a unit of mass-energy of definite size (outer and inner distance from the nucleus) and spin velocity. Such a ring of spinning mass can have a velocity orbiting through space and a spin angular velocity about an axis. Aggregations of such spinning rings can move as a whole with a global velocity and also have a moment of inertia tensor and an angular momentum vector due to concentric spinning on different (possibly moving) axes and at various distances making up a composite spherical particle. This, together with pre-mass energy waves, is enough to embody the de Broglie-Bohm version of quantum mechanics.[^13] 
 
 Notice that each unit of mass has relatively non-moving space within it in order to spin about the nucleus. This non-moving space is a property of the spinning particle as it impinges on the huge non-moving nuclear surface P of Paradise, which maintains its fixed location in the nucleus even as the body moves through space! 
 
@@ -441,15 +441,17 @@ _The Urantia Book_ qualifies its immensely valuable revelation of cosmology as f
 > 
 > 2. The co-ordination of known or about-to-be-known facts and observations. 
 > 
-> 3. The restoration of important bits of lost knowledge concerning epochal transactions in the distant past. 4. The supplying of information which will fill in vital missing gaps in otherwise earned knowledge. 
+> 3. The restoration of important bits of lost knowledge concerning epochal transactions in the distant past. 
 > 
-> 4. Presenting cosmic data in such a manner as to illuminate the spiritual teachings > contained in the accompanying revelation. [[UB 101:4.5](/en/The_Urantia_Book/101#p4_5)]
+> 4. The supplying of information which will fill in vital missing gaps in otherwise earned knowledge. 
+> 
+> 5. Presenting cosmic data in such a manner as to illuminate the spiritual teachings > contained in the accompanying revelation. [[UB 101:4.5-10](/en/The_Urantia_Book/101#p4_5)]
 
 Since there is so much in need of fundamental revision in human cosmology, recognition by most contemporary scientists will have to wait for some tipping point event that makes it quite impossible for science to further ignore the need for a new paradigm—a fixed geographic center of Infinity in the cosmos. Then will the “immense value” of the cosmology in _The Urantia Book_ be recognized and its limitations important to recall. This will overthrow the Big Bang theory, Einstein’s absolute relativity of motion, and the wave-particle duality interpretation of quantum mechanics. Mechanistic scientists and philosophers might even have to include some “living choices” in the cosmos reflecting the existence of the First Chooser of Heaven—the God of Paradise, our spiritual Father. 
 
 __Appendix 1.__ Computation of the Hubble Time T = 1/H~0~. The Hubble “constant” H~0~ is presently estimated to be about 72km/sec in additional recession speed for each additional million parsecs of distance. A parsec = 3.262 light years. 
 
-To 3 digit accuracy, there are 60*60*24*365.25 = 31,556,736 = 3.16\*10^7^ seconds in 1 year (yr). 
+To 3 digit accuracy, there are 60 * 60 * 24 * 365.25 = 31,556,736 = 3.16\*10^7^ seconds in 1 year (yr). 
 
 Note also that 72 km/sec = 72 km/sec \* (3.16\*10^7^ sec/yr) = (3.16\*10^7^) (72 km/yr). That is, an object going 72 km/sec is going (3.16\*10^7^) (72) km/yr. 
 
@@ -461,7 +463,7 @@ H~0~= [72 km/sec] / 106 parsecs
 = [(3.16 * 10^7^) (72 km/yr)] / (10^6^ parsecs) 
 = (3.16 * 10^7^) (72 km/yr) / (10^6^ \* 3.262 light years) 
 = (3.16 * 10^7^) (72 km/yr) / [10^6^ \* 3.262 \* (3.16 \* 10^7^) * (3.00 \* 10^5^) km] 
-= (72 km/yr) / (10^6^ \* 3.262) \* (3.00 \* 10^5^) km] 
+= (72 km/yr) / (10^6^ \* 3.262) \* (3.00 \* 10^5^) km
 = (72) / [(3.262) \* (3.00) \* 10^11^ yr] 
 
 Notice that the number of seconds in a year appeared in both the top and bottom of the fraction and so cancelled each. Therefore: 

@@ -293,17 +293,17 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <img src="/image/article/Herald_covers/Herald2010.jpg">
 </figure>
 
-| Título                                                                                                                                            | Autor                           | Etiquestas |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ---------- |
-| [El mundo no está llegando a su fin](/es/article/Carolyn_Kendall_and_Barbara_Newsom/The_World_is_Not_Coming_to_an_End)                             | Carolyn Kendall, Barbara Newsom |
-| [Religión de la experiencia versus religión de la autoridad](/es/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Authority)                     | Richard S. Omura                |
-| [Conciencia de Dios](/es/article/Charles_Laurence_Olivea/God_Consciousness)                                                                        | Charles Laurence Olivea         |
+| Título                                                                                                                                               | Autor                           | Etiquestas |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ---------- |
+| [El mundo no está llegando a su fin](/es/article/Carolyn_Kendall_and_Barbara_Newsom/The_World_is_Not_Coming_to_an_End)                               | Carolyn Kendall, Barbara Newsom |
+| [Religión de la experiencia versus religión de la autoridad](/es/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Authority)            | Richard S. Omura                |
+| [Conciencia de Dios](/es/article/Charles_Laurence_Olivea/God_Consciousness)                                                                          | Charles Laurence Olivea         |
 | [El libro de Urantia, conceptos humanos y validación reveladora](/es/article/David_Elders/The_Urantia_Book_Human_Concepts_and_Revelatory_Validation) | David Elders                    |
-| [Comprender la relación del amor con la mente](/es/article/Sheila_Keene_Lund/Understanding_the_Relation_of_Love_to_the_Mind)                    | Sheila Keene-Lund               |
-| [Socialización Cósmica y Ciudadanía Planetaria](/es/article/Dave_Holt/Cosmic_Socialization_and_Planetary_Citizenship)                            | Dave Holt                       |
+| [Comprender la relación del amor con la mente](/es/article/Sheila_Keene_Lund/Understanding_the_Relation_of_Love_to_the_Mind)                         | Sheila Keene-Lund               |
+| [Socialización Cósmica y Ciudadanía Planetaria](/es/article/Dave_Holt/Cosmic_Socialization_and_Planetary_Citizenship)                                | Dave Holt                       |
 | [Testimonio de un urantiano de segunda generación](/es/article/Angela_Thurston/Testimonial_of_One_Second_Generation_Urantian)                        | Angela Thurston                 |
-| [El problema de los negocios](/es/article/Dan_Amyx/The_Problem_of_Business)                                                                           | Dan Amyx                        |
-| [Deidad agazapada/Supremo oculto](/es/article/Bob_Debold/Crouching_Deity_Hidden_Supreme)                                                           | Bob Debold                      |
+| [El problema de los negocios](/es/article/Dan_Amyx/The_Problem_of_Business)                                                                          | Dan Amyx                        |
+| [Deidad agazapada/Supremo oculto](/es/article/Bob_Debold/Crouching_Deity_Hidden_Supreme)                                                             | Bob Debold                      |
 
 <br>
 
@@ -315,13 +315,13 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <img src="/image/article/Herald_covers/Herald2011.jpg">
 </figure>
 
-| Título                                                                                                                                          | Autor                           | Etiquestas |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ---- |
+| Título                                                                                                                                                     | Autor                            | Etiquestas |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ---- |
 | [La primera revelación de época en las tradiciones indígenas americanas](/es/article/Dave_Holt/The_First_Epochal_Revelation_in_American_Indian_Traditions) | Dave Holt                        |
-| [El poder del nombre de Jesús](/es/article/Charles_Laurence_Olivea/The_Power_of_The_Name_of_Jesus)                                           | Charles Laurence Olivea          |
-| [Maquiventa Melquisedec: uno de los misterios de la historia](/es/article/Linda_Buselli/Machiventa_Melchizedek_One_of_Historys_Mysteries)               | Linda Buselli                    |
-| [«Más cerca, Dios mío, de ti». Acercándonos a Dios](/es/article/David_Glass/Nearer_My_God_to_Thee_Getting_Closer_to_God)                         | David Glass                      |
-| [La gira de un hombre a través del debate evolutivo](/es/article/One_Mans_Tour_Through_The_Evolutionary_Debate)                                    |                                  |
+| [El poder del nombre de Jesús](/es/article/Charles_Laurence_Olivea/The_Power_of_The_Name_of_Jesus)                                                         | Charles Laurence Olivea          |
+| [Maquiventa Melquisedec: uno de los misterios de la historia](/es/article/Linda_Buselli/Machiventa_Melchizedek_One_of_Historys_Mysteries)                  | Linda Buselli                    |
+| [«Más cerca, Dios mío, de ti». Acercándonos a Dios](/es/article/David_Glass/Nearer_My_God_to_Thee_Getting_Closer_to_God)                                   | David Glass                      |
+| [La gira de un hombre a través del debate evolutivo](/es/article/One_Mans_Tour_Through_The_Evolutionary_Debate)                                            |                                  |
 
 <br>
 
@@ -333,16 +333,16 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <img src="/image/article/Herald_covers/Herald2012.jpg">
 </figure>
 
-| Título                                                                                                                                            | Autor           | Etiquestas |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---- |
-| [Souls on Purpose: The Personal Creed Project](/es/article/John_Creger/Souls_on_Purpose_The_Personal_Creed_Project)                              | John Creger      |
-| [Evolutionary Spirituality](/es/article/Steve_McIntosh/Evolutionary_Spirituality)                                                                | Steve Macintosh  |
-| [Urantia, 606 of Satania: Concerning the Inhabited Worlds of the Satania System](/es/article/Israel_Dix/Urantia_606_of_Satania)                  | Israel Dix       |
-| [Perfecting, Neuroplasticity, and the Supreme Actualizing](/es/article/Lawrence_Schkade/Perfecting_Neuroplasticity_and_the_Supreme_Actualizing)  | Lawrence Schkade |
-| [Race and The Urantia Book](/es/article/Earlene_Green/Race_and_The_Urantia_Book)                                                                 | Earlene Green    |
-| [Religion of Experience vs Religion of Autority](/es/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Autority_2)                 | Richard S. Omura |
-| [The Forgotten Urantian: Dr. Lena Sadler](/es/article/Larry_Mullins/The_Forgotten_Urantian_Dr_Lena_Sadler)                                       | Larry Mullins    |
-| [Cosmology in the Light of The Urantia Book](/es/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book)                            | Philip Calabrese |
+| Título                                                                                                                                                 | Autor            | Etiquestas |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---- |
+| [Almas con Propósito: El Proyecto del Credo Personal y el Impulso Central](/es/article/John_Creger/Souls_on_Purpose_The_Personal_Creed_Project)        | John Creger      |
+| [Espiritualidad Evolutiva](/es/article/Steve_McIntosh/Evolutionary_Spirituality)                                                                       | Steve Macintosh  |
+| [Urantia, 606 de Satania](/es/article/Israel_Dix/Urantia_606_of_Satania)                                                                               | Israel Dix       |
+| [Perfeccionamiento, Neuroplasticidad y la Suprema Actualización](/es/article/Lawrence_Schkade/Perfecting_Neuroplasticity_and_the_Supreme_Actualizing)  | Lawrence Schkade |
+| [Las razas y El Libro de Urantia](/es/article/Earlene_Green/Race_and_The_Urantia_Book)                                                                 | Earlene Green    |
+| [Religión de la experiencia versus religión de la autoridad](/es/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Autority_2)             | Richard S. Omura |
+| [La urantiana olvidada: La Dra. Lena Celestia (Kellogg) Sadler](/es/article/Larry_Mullins/The_Forgotten_Urantian_Dr_Lena_Sadler)                       | Larry Mullins    |
+| [Cosmología a la luz del Libro de Urantia](/es/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book)                                    | Philip Calabrese |
 
 <br>
 

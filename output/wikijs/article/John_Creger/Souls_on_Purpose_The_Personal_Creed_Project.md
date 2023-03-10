@@ -20,7 +20,7 @@ If you’d like to make a more permanent contribution to public education, just 
 
 Now, when I was in high school, the closest thing we had to a texting pose was even more obvious. The point then was to get the teacher’s attention without seeming to care. We used passive-aggressive technology from the back row. 
 
-_Strikes a bored-in-back-of-the-class-with-folded-arms pose. _
+_Strikes a bored-in-back-of-the-class-with-folded-arms pose._
 
 As you’re probably guessing, high school didn’t catch my attention very deeply, unless being disgruntled is deep. I don’t recall the thought of reporting for graduation crossing my mind as a serious option. The day after the ceremony I didn’t attend, I started my life with one plan: stay as far from classrooms as possible. 
 

@@ -12,7 +12,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
 
 In the “Discourse on Religion” Joshua ben Joseph (Jesus) talks to his apostles on the religion of authority versus the religion of spiritual experience. He names the traditional faiths as religions of authority, based on intellectual assent. 
 
-_At Jerusalem the religious leaders have formulated the various doctrines of their traditional teachers and the prophets of other days into an established system of intellectual beliefs, a religion of authority. The appeal of all such religions is largely to the mind. _
+_At Jerusalem the religious leaders have formulated the various doctrines of their traditional teachers and the prophets of other days into an established system of intellectual beliefs, a religion of authority. The appeal of all such religions is largely to the mind._
 
 He continues by talking about the religion of experience: 
 
@@ -24,13 +24,13 @@ It is my observation that many have not. I have been to many study groups, confe
 
 Religions of authority do not have to be old or traditional. A relatively new work such as _The Urantia Book_ can be the foundation of a religion of authority just as much as any traditional scripture. And because humans have a propensity for taking the easy way out, it seems we are allowing this to happen. 
 
-Until the human race progresses to the level of a higher and more general recognition of the realities of spiritual experience, large numbers of men and women will continue to show a personal preference for those religions of authority which require only intellectual assent, in contrast to the religion of the spirit, which entails active participation of mind and soul in the faith adventure of grappling with the rigorous realities of progressive human experience. [155.5.8] 
+> Until the human race progresses to the level of a higher and more general recognition of the realities of spiritual experience, large numbers of men and women will continue to show a personal preference for those religions of authority which require only intellectual assent, in contrast to the religion of the spirit, which entails active participation of mind and soul in the faith adventure of grappling with the rigorous realities of progressive human experience. [[UB 155:5.8](/en/The_Urantia_Book/155#p5_8)] 
 
-> While there are many Urantia Book readers who do not take the book as a religion of authority, there seem to be many more who do. I have talked with many, some even long-time readers, who claim that their religion is _The Urantia Book_. If this trend is not curtailed, the book will end up as another religion of authority, as Jesus’ teachings have become in the guise of Christianity. 
+While there are many Urantia Book readers who do not take the book as a religion of authority, there seem to be many more who do. I have talked with many, some even long-time readers, who claim that their religion is _The Urantia Book_. If this trend is not curtailed, the book will end up as another religion of authority, as Jesus’ teachings have become in the guise of Christianity. 
 
 _The Urantia Book_, as well as Jesus, talks of true religion as being a personal relationship with God, a living spiritual experience, rather than something written about in text. 
 
-> True religion is an insight into reality, the faith-child of the moral consciousness, and not a mere intellectual assent to any body of dogmatic doctrines. True religion consists in the experience that ‘the Spirit itself bears witness with our spirit that we are the children of God.’ __Religion consists not in theologic propositions but in spiritual insight and the sublimity of the soul’s trust.__ [[UB 101:2.11](/en/The_Urantia_Book/101#p2_11)] (Bold print is mine.) 
+> True religion is an insight into reality, the faith-child of the moral consciousness, and not a mere intellectual assent to any body of dogmatic doctrines. True religion consists in the experience that ‘the Spirit itself bears witness with our spirit that we are the children of God.’ __Religion consists not in theologic propositions but in spiritual insight and the sublimity of the soul’s trust.__ [[UB 101:2.13](/en/The_Urantia_Book/101#p2_13)] (Bold print is mine.) 
 
 When we have such a true relationship with the Father, this becomes a new religion that is on a level far and above the religions of authority such as Christianity, Islam, Buddhism, or any of the major denominations in the world today. As Jesus said, “_a new religion–a religion which is not a religion in the present-day meaning of that word, a religion that makes its chief appeal to the divine spirit of my Father which resides in the mind of man._” [[UB 155:5.12](/en/The_Urantia_Book/155#p5_12)] This still holds true even after all these years. It was new back then, and it still is, because humans have not taken heed; the world has not embraced this new religion. 
 
