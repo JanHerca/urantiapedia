@@ -29,7 +29,7 @@ Cosmic citizenship is not just a concept of identity, a concentric circles pin o
 
 The concept of “personality integration” derived from _The Urantia Book_ does not mean the attempt to bring order to one’s subjective labyrinth of psychological associations, but rather refers to the integration of one’s personality with the personalities of others in the living, evolving organism of the Supreme. 
 
-> The universe is a whole; no thing or being exists or lives in isolation. Self-realization is potentially evil if it is antisocial. It is literally true: “No man lives by himself.” Cosmic socialization constitutes the highest form of personality unification. Said Jesus: “He who would be greatest among you, let him become server of all.” [UB 56:10.14](/en/The_Urantia_Book/56#p10_14) 
+> The universe is a whole; no thing or being exists or lives in isolation. Self-realization is potentially evil if it is antisocial. It is literally true: “_No man lives by himself_.” Cosmic socialization constitutes the highest form of personality unification. Said Jesus: “_He who would be greatest among you, let him become server of all._” [UB 56:10.14](/en/The_Urantia_Book/56#p10_14) 
 
 We each have many concerns which consume our attention in daily life. We are concerned about our needs for shelter, food, clothing, economic security for our families, education and health care for our children—the list is long in our increasingly complex world. We have concerns about social and political matters. But we also have some concerns about our spiritual lives, our personal relationships with God and the service of his purposes—concerns that sometimes get pushed down on our list of priorities. 
 
@@ -114,7 +114,7 @@ _The Urantia Book_ refers to the paradigms within which we do our thinking and c
 
 > Partial, incomplete, and evolving intellects would be helpless in the master universe, would be unable to form the first rational thought pattern, were it not for the innate ability of all mind, high or low, to form a universe frame in which to think. If mind cannot fathom conclusions, if it cannot penetrate to true origins, then will such mind unfailingly postulate conclusions and invent origins that it may have a means of logical thought within the frame of these mind-created postulates. And while such universe frames for creature thought are indispensable to rational intellectual operations, they are, without exception, erroneous to a greater or lesser degree. 
 > 
-> Conceptual frames of the universe are only relatively true; they are serviceable scaffolding which must eventually give way before the expansions of enlarging cosmic comprehension. The understandings of truth, beauty, and goodness, morality, ethics, duty, love, divinity, origin, existence, purpose, destiny, time, space, even Deity, are only relatively true....Man must think in a mortal universe frame, but that does not mean that he cannot envision other and higher frames within which thought can take place. [115:1.1-2](/en/The_Urantia_Book/115#p1_1)
+> Conceptual frames of the universe are only relatively true; they are serviceable scaffolding which must eventually give way before the expansions of enlarging cosmic comprehension. The understandings of truth, beauty, and goodness, morality, ethics, duty, love, divinity, origin, existence, purpose, destiny, time, space, even Deity, are only relatively true....Man must think in a mortal universe frame, but that does not mean that he cannot envision other and higher frames within which thought can take place. [UB 115:1.1-2](/en/The_Urantia_Book/115#p1_1)
 
 The ascent through the psychic circles involves moving through a series of universe frames. We live within each one for a season, learning and growing. These are paradigms, frames of reference constructed of meanings and values. But sooner or later there comes a breakdown of our conceptual scaffolding, our universe frame, and we must move on to a more expanded one within which we may experience further growth. 
 
@@ -145,7 +145,7 @@ _The Urantia Book_ has a whole section devoted to this topic—Paper 101, sectio
 > 9\. Lives and triumphs irrespective of the crushing overload of the complex and partial civilizations of modern times. 
 > 10\. Contributes to the continued survival of altruism in spite of human selfishness, social antagonisms, industrial greeds, and political maladjustments. 
 > 11\. Steadfastly adheres to a sublime belief in universe unity and divine guidance regardless of the perplexing presence of evil and sin. 
-> 12\. Goes right on worshiping God in spite of anything and everything. Dares to declare, “Even though he slay me, yet will I serve him.” [UB 101:3.4](/en/The_Urantia_Book/101#p3_4)
+> 12\. Goes right on worshiping God in spite of anything and everything. Dares to declare, “Even though he slay me, yet will I serve him.” [UB 101:3.4-16](/en/The_Urantia_Book/101#p3_4)
 
 ## Faith, Love and Action 
 
@@ -153,7 +153,7 @@ The concern of faith is identical with the desire of love; deeper union with tha
 
 Faith as a function of our growing relationship with the Supreme reaches out into the world as unifying action. 
 
-> With God the Father, sonship is the great relationship. With God the Supreme, achievement is the prerequisite to status—one must do something as well as be something._ [UB 115:0.2](/en/The_Urantia_Book/115#p0_2)
+> With God the Father, sonship is the great relationship. With God the Supreme, achievement is the prerequisite to status—one must do something as well as be something. [UB 115:0.1](/en/The_Urantia_Book/115#p0_1)
 
 > If you love me, Peter, feed my lambs. Do not neglect to minister to the weak, the poor, and the young. Preach the gospel without fear or favor; remember always that God is no respecter of persons. Serve your fellow men even as I have served you; forgive your fellow mortals even as I have forgiven you. Let experience teach you the value of meditation and the power of intelligent reflection. [UB 192:2.2](/en/The_Urantia_Book/192#p2_2)
 

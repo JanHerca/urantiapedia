@@ -10,7 +10,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Rev. Gary Deinstadt<br>© 2013 The Urantia Book Fellowship</p>
 
-> True religion must ever be, at one and the same time, the eternal foundation and the guiding star of all enduring civilizations. (Melchizedek of Nebadon) [UB 92:7.11](/en/The_Urantia_Book/92#p7_11)
+> True religion must ever be, at one and the same time, the eternal foundation and the guiding star of all enduring civilizations. (Melchizedek of Nebadon) [UB 92:7.15](/en/The_Urantia_Book/92#p7_15)
 
 Evolution and the status of progressive civilization determine the time and place of the planetary missions of divine Sons. _The Urantia Book_ tells us that religious revelation is essential to the realization of brotherhood, which not only requires some spiritual pressure from above, but some progressive acts on our part. So how do we presently begin to look at ways we can best work together, along with revelation, to bring about the eventual societal goal of “one” religion? 
 
@@ -27,7 +27,7 @@ The whole “one” God at some point in eternity lovingly divested all of himse
 > 2. Intellectual cross-fertilization. Brotherhood is impossible on a world whose inhabitants are so primitive that they fail to recognize the folly of unmitigated selfishness. There must occur an exchange of national and racial literature. Each race must become familiar with the thought of all races; each nation must know the feelings of all nations. Ignorance breeds suspicion, and suspicion is incompatible with the essential attitude of sympathy and love. 
 > 3. Ethical awakening. Only ethical consciousness can unmask the immorality of human intolerance and the sinfulness of fratricidal strife. Only a moral conscience can condemn the evils of national envy and racial jealousy. Only moral beings will ever seek for that spiritual insight which is essential to living the golden rule. 
 > 4. Political wisdom. Emotional maturity is essential to self-control. Only emotional maturity will insure the substitution of international techniques of civilized adjudication for the barbarous arbitrament of war. Wise statesmen will sometime work for the welfare of humanity even while they strive to promote the interest of their national or racial groups. Selfish political sagacity is ultimately suicidal— destructive of all those enduring qualities which insure planetary group survival. 
-> 5. Spiritual insight. The brotherhood of man is, after all, predicated on the recognition of the fatherhood of God. The quickest way to realize the brotherhood of man on Urantia is to effect the spiritual transformation of present-day humanity. The only technique for accelerating the natural trend of social evolution is that of applying **spiritual pressure from above**, thus augmenting moral insight while enhancing the soul capacity of every mortal to understand and love every other mortal. Mutual understanding and fraternal love are transcendent civilizers and mighty factors in the world-wide realization of the brotherhood of man. (Emphasis mine) [52:6.2-7]
+> 5. Spiritual insight. The brotherhood of man is, after all, predicated on the recognition of the fatherhood of God. The quickest way to realize the brotherhood of man on Urantia is to effect the spiritual transformation of present-day humanity. The only technique for accelerating the natural trend of social evolution is that of applying **spiritual pressure from above**, thus augmenting moral insight while enhancing the soul capacity of every mortal to understand and love every other mortal. Mutual understanding and fraternal love are transcendent civilizers and mighty factors in the world-wide realization of the brotherhood of man. (Emphasis mine) [UB 52:6.2-7](/en/The_Urantia_Book/52#p6_2)
 
 So on Urantia today, how do we work with spiritual pressure from above while enhancing the soul capacity to love and understand each other better? Apparently, we will need to embrace the aforementioned personal transformations, multiplication of international contact/commerce, each race and each religion becoming familiar with the thought and feelings of all races and religions. With all the organized religions that we have in the world today, how do we begin to go about making one out of so many? Probably, the common response from most religious communities including our own, would say that the best way we can accomplish such unity is by concentrating on our commonalities. I think there is some truth to that. It does put us on the starting line of getting to know and work more effectively with each other. It gives us a place to begin, but I see just focusing on our commonalities as very limiting. It’s looking at their reality from the limitations of our own perspectives and experiences. 
 
@@ -41,7 +41,7 @@ Relying solely on our commonalities in the world’s religions really won’t ta
 
 When we look at the success and failure of past revelation we can determine that the Fifth Epochal Revelation alone will hardly bring about one race, language, and/or religion. Dalamatia only lasted 300,000 years and soon digressed following the breakout of rebellion. The Adam and Eve mission essentially failed. Machiventa’s bestowal was an emergency mission. We ended up crucifying our own Creator Son and it seems way too early to predict how far the Urantia Papers will take us. It appears that before we can begin to come close to having one religion, language, etc. it’s going to necessitate some more revelation and more spiritual pressure from above. 
 
-_The Urantia Book_ tells us that if we compare ourselves with a normal evolutionary world, we probably come closest to resembling the post Adamic age. “_Great ethical advancement characterizes this era; the brotherhood of man is the goal of its society._” [UB 52:3.12](/en/The_Urantia_Book/52#p3_12) Also in the postAdamic age it says that new revelations of truth characterize these ages, and “the Most Highs of the constellations begin to rule in the affairs of men. Truth is revealed up to the administration of the constellations.” [UB 52:3.11](/en/The_Urantia_Book/52#p3_11)
+_The Urantia Book_ tells us that if we compare ourselves with a normal evolutionary world, we probably come closest to resembling the post Adamic age. “_Great ethical advancement characterizes this era; the brotherhood of man is the goal of its society._” [UB 52:3.12](/en/The_Urantia_Book/52#p3_12) Also in the postAdamic age it says that new revelations of truth characterize these ages, and “_the Most Highs of the constellations begin to rule in the affairs of men. Truth is revealed up to the administration of the constellations._” [UB 52:3.11](/en/The_Urantia_Book/52#p3_11)
 
 Close to the end of the following magisterial age on a normal planet it reads: _“There are no race or color problems; literally all nations and races are of one blood. The brotherhood of man flourishes and the nations are learning to live on earth in peace and tranquility._ [UB 52:4.1](/en/The_Urantia_Book/52#p4_1) In the post-bestowal Son age it says: _“Under the spiritual influence of these ages, human character undergoes tremendous transformations and experiences phenomenal development. It becomes possible to put the golden rule into practical operation.”_ [UB 52:5.8](/en/The_Urantia_Book/52#p5_8) “_There are many nations, mostly determined by land distribution, but only one race, one language, and one religion.”_ [UB 52:5.10](/en/The_Urantia_Book/52#p5_10) Just now it becomes possible to put the golden rule into practical operation?? 
 
@@ -59,13 +59,16 @@ What’s so amazing to me is that it’s not like these marching orders came dir
 
 Monotheism was the common belief. The location was centered in and around Jerusalem. It was the mecca of its day, a centralized city with a good mix of people and the Father idea was already established. 
 
-> The centralization of the Jewish temple worship at Jerusalem constituted alike the secret of the survival of their monotheism and the promise of the nurture and sending forth to the world of a new and enlarged concept of that one God of all nations and Father of all mortals. 
+> The centralization of the Jewish temple worship at Jerusalem constituted alike the secret of the survival of their monotheism and the promise of the nurture and sending forth to the world of a new and enlarged concept of that one God of all nations and Father of all mortals. . . .
 > 
 > The Jewish people of this time, although under Roman suzerainty, enjoyed a considerable degree of self-government and, remembering the then only recent heroic exploits of deliverance executed by Judas Maccabee and his immediate successors, were vibrant with the expectation of the immediate appearance of a still greater deliverer, the long-expected Messiah. [UB 121:2.6-7](/en/The_Urantia_Book/121#p2_6)
 
 In revealing, it’s obvious, God needs us as much as we need him.   
 
-image
+<figure id="Figure_1" class="image urantiapedia">
+<img src="/image/article/Gary_Deinstadt/Religion_of_One/image01.png">
+<figcaption>Calvin and Hobbes, © Bill Watterson, May 6th 1986</figcaption>
+</figure>
 
 Look how the revelators go about revealing. First they learn much about those to whom they are revealing. Do you recall the thousands of years of training seraphim have to go through before they’re permitted to minister alongside a mortal?[^2] Adam and Eve spent 15,000 years in the trial and testing physical laboratories on Jerusem, and long before that they had been teachers in the citizenship schools for new arrivals on Jerusem. Look how long it takes a Creator Son before he can meet us where we are. And after all that training, to some degree, he becomes one of us. Even with all those thousands of years of preparation by brilliant beings, nothing can substitute for the experience of learning, loving, and teaching for themselves. I think that we can learn much by the example of our revelators. We, too, need to learn a lot more about whom we are revealing to and then, to some degree, become one of them. The pattern of revelation is reciprocal. It demonstrates that while the revelator is revealing he/she or they, are also being revealed to.  
 
@@ -155,7 +158,7 @@ I’m only scratching the surface here. Obviously, some theology has become outd
 [^8]: Adi Granth, P. 684 (Sikh scripture) 
 [^9]: Herbert A. Giles, _Confucianism and Its Rivals_, p. 134 
 [^10]: [1 Corinthians 9:20-21](/en/Bible/1_Corinthians/9#v20)
-[^11]: [Romans 8:38-39](/en/Bible/8#v38)
+[^11]: [Romans 8:38-39](/en/Bible/Romans/8#v38)
 [^12]: Huston Smith, _Islam_, p. 76 
 [^13]: Doctrine of the Mean 
 

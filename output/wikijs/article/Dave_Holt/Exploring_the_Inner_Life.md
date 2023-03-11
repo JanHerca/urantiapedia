@@ -71,7 +71,7 @@ Jungian psychology points out that the superconscious mind can work with archety
 
 Jung used “active imagination” as a technique of therapy involving an invitation to the unconscious to become part of the everyday mind.[^10] We can draw upon it to write down our mythological journey, finding heroic myths in our own life story. Those who are writers, artists, sculptors, or musicians will understand this use of craft: “Often the hands know how to solve a riddle with which the intellect has wrestled in vain.”[^11] One of the goals that naturally emerges from the pursuit of an inner life is the desire to live creatively. We can consciously seek in our prayer life to unify input from the superconscious with our own creative thinking, with whatever forms our creativity may take. A true mingling of our experience and ideas with the ministries of divine wisdom is possible, indeed desirable. 
 
-This is the “expansion of will” discussed in _The Urantia Book_, Paper 111: “...such choosing raises the creature will...to that higher estate wherein the personality of the creature son communes with the personality of the spirit Father,” [UB 111:5.5](/en/The_Urantia_Book/111#p5_5). 
+This is the “expansion of will” discussed in _The Urantia Book_, Paper 111: “_...such choosing raises the creature will...to that higher estate wherein the personality of the creature son communes with the personality of the spirit Father._” [UB 111:5.5](/en/The_Urantia_Book/111#p5_5). 
 
 > Why not allow the Adjuster to spiritualize your thinking...? [UB 111:7.3](/en/The_Urantia_Book/111#p7_3)
 
@@ -79,7 +79,7 @@ Besides the obvious creative activity involved in the arts of making a poem, a s
 
 ## Can We Know If We’Ve Had A Real Contact With The Spirit Guide Within? 
 
-_The Urantia Book_ says, “ You are quite incapable of distinguishing the product of your own material intellect from that of the conjoint activities of your soul and the Adjuster.” [UB 110:4.2](/en/The_Urantia_Book/110#p4_2) In spite of such strong discouragement, we are still encouraged to continue making the effort. _The Urantia Book_ suggests we adopt a goal of developing an unbroken communion, “Prayer... does so often dig out larger and deeper channels wherein the divine bestowals may flow to the hearts and souls of those who thus remember to maintain unbroken communion with their Maker...” [194:3.20](/en/The_Urantia_Book/194#p3_20)
+_The Urantia Book_ says, “_You are quite incapable of distinguishing the product of your own material intellect from that of the conjoint activities of your soul and the Adjuster._” [UB 110:4.2](/en/The_Urantia_Book/110#p4_2) In spite of such strong discouragement, we are still encouraged to continue making the effort. _The Urantia Book_ suggests we adopt a goal of developing an unbroken communion, “_Prayer... does so often dig out larger and deeper channels wherein the divine bestowals may flow to the hearts and souls of those who thus remember to maintain unbroken communion with their Maker..._” [UB 194:3.20](/en/The_Urantia_Book/194#p3_20)
 
 I have settled on this rule of thumb for myself: Whenever I put words to an inner life experience, I make myself remember that they are my words. But I have observed, usually in retrospect, times in my life where I must have received some divine help or inspiration. I’ve seen the “fruits” of spiritual contact in my own life—less of my energy consumed by fear, an expanded optimism, and the possession of a hopeful viewpoint. In recollection, I recognize that I have grown beyond the more constricted, fearful point of view I held before.  
 
@@ -124,7 +124,7 @@ The development of a personal relationship with God anticipates the next evoluti
 
 [^7]: [Psalm 42.5](/en/Bible/Psalms/42#v5) 
 
-[^8]: [2 Corinthians, 5, 17](/en/Bible/2_Corinthians/5) 
+[^8]: [2 Corinthians, 5:17](/en/Bible/2_Corinthians/5#v17) 
 
 [^9]: [Matthew 12:33, NIV](/en/Bible/Matthew/12#v33) 
 

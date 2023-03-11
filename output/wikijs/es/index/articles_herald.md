@@ -340,7 +340,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 | [Urantia, 606 de Satania](/es/article/Israel_Dix/Urantia_606_of_Satania)                                                                               | Israel Dix       |
 | [Perfeccionamiento, Neuroplasticidad y la Suprema Actualización](/es/article/Lawrence_Schkade/Perfecting_Neuroplasticity_and_the_Supreme_Actualizing)  | Lawrence Schkade |
 | [Las razas y El Libro de Urantia](/es/article/Earlene_Green/Race_and_The_Urantia_Book)                                                                 | Earlene Green    |
-| [Religión de la experiencia versus religión de la autoridad](/es/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Autority_2)             | Richard S. Omura |
+| [Religión de la experiencia versus religión de la autoridad](/es/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Authority_2)            | Richard S. Omura |
 | [La urantiana olvidada: La Dra. Lena Celestia (Kellogg) Sadler](/es/article/Larry_Mullins/The_Forgotten_Urantian_Dr_Lena_Sadler)                       | Larry Mullins    |
 | [Cosmología a la luz del Libro de Urantia](/es/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book)                                    | Philip Calabrese |
 
@@ -356,13 +356,13 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 | Título                                                                                                                                                                                            | Autor              | Etiquestas |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- | ---- |
-| [Spiritual Genetics](/es/article/Stephen_Dreier/Spiritual_Genetics)                                                                                                                              | Steve Dreier        |
-| [Religion of One](/es/article/Gary_Deinstadt/Religion_of_One)                                                                                                                                    | Rev. Gary Deinstadt |
-| [A Cosmology of Race](/es/article/Charles_Laurence_Olivea/A_Cosmology_of_Race)                                                                                                                   | Charles Olivea      |
-| [Exploring the Inner Life](/es/article/Dave_Holt/Exploring_the_Inner_Life)                                                                                                                       | Dave Holt           |
-| [Spiritual Faith, Incertainty and Cosmic Citizenship](/es/article/David_Kantor/Spiritual_Faith_Incertainty_and_Cosmic_Citizenship)                                                               | David Kantor        |
-| [Moods, Music and Magic of The Urantia Book](/es/article/David_Glass/Moods_Music_and_Magic_of_The_Urantia_Book)                                                                                  | David Glass         |
-| [A Statistical Test of the Hypothesis the That Urantia Book was authored by a Human Being](/es/article/Philip_Calabrese/A_Statistical_Test_of_Hypothesis_Urantia_Book_authored_by_a_Human_Being) | Philip Calabrese    |
+| [Genética espiritual](/es/article/Stephen_Dreier/Spiritual_Genetics)                                                                                                                              | Steve Dreier        |
+| [Religión de Uno](/es/article/Gary_Deinstadt/Religion_of_One)                                                                                                                                    | Rev. Gary Deinstadt |
+| [Una cosmología de la raza](/es/article/Charles_Laurence_Olivea/A_Cosmology_of_Race)                                                                                                                   | Charles Olivea      |
+| [Explorando la vida interior](/es/article/Dave_Holt/Exploring_the_Inner_Life)                                                                                                                       | Dave Holt           |
+| [Fe espiritual, incertidumbre y ciudadanía cósmica](/es/article/David_Kantor/Spiritual_Faith_Incertainty_and_Cosmic_Citizenship)                                                               | David Kantor        |
+| [Estados de ánimo, música y magia del libro de Urantia](/es/article/David_Glass/Moods_Music_and_Magic_of_The_Urantia_Book)                                                                                  | David Glass         |
+| [Una prueba estadística de la hipótesis de que El libro de Urantia fue escrito por seres humanos](/es/article/Philip_Calabrese/A_Statistical_Test_of_Hypothesis_Urantia_Book_authored_by_a_Human_Being) | Philip Calabrese    |
 
 <br>
 
