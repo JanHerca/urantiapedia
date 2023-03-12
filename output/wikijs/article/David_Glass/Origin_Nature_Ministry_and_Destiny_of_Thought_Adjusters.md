@@ -22,7 +22,7 @@ We may ask, “_Why is this so? What makes being host to a Thought Adjuster such
 
 ## We Are His Children 
 
-“_The Adjuster is the divine reality which factualizes the truth that God is man’s Father._” ([UB 107:0.6](/en/The_Urantia_Book/107#p0_6)] It is only in this spiritual sense that God is man’s Father. We all know that a father’s sons and daughters begin life as children. And we are all “_the children of God._” God loves us as his children; and we can love God in a similar fashion—as Jesus did—with “_childlike_” trust and affection. 
+“_The Adjuster is the divine reality which factualizes the truth that God is man’s Father._” [[UB 107:0.6](/en/The_Urantia_Book/107#p0_6)] It is only in this spiritual sense that God is man’s Father. We all know that a father’s sons and daughters begin life as children. And we are all “_the children of God._” God loves us as his children; and we can love God in a similar fashion—as Jesus did—with “_childlike_” trust and affection. 
 
 Many, perhaps most, of us have been _Urantia Book_ students for some time, and we may have attained a certain level of spiritual and intellectual sophistication. And perhaps we should give ourselves credit for having responded to the revelation to the extent we have. 
 
@@ -56,7 +56,7 @@ Moreover, the living universe is a purposeful creation, a dynamically thriving e
 
 This finite God, this over-soul of the evolving creation— the “_Supreme Being_”—is expressing itself and actualizing itself in, through, and as us. Our decisions and our actions have repercussive overtones in the growth of the Supreme. At the same time, this consciousness-of-the-cosmos aligns us with a far-reaching and progressive trajectory, beginning from an absolute Source and stretching toward an infinite Destiny. And each one of these eternal life-lines traces out a glorious future scenario of triumphant and never-ending spiritual attainment for every one of us—as we continue on forever, eternally exploring the reality of God with our faithful partner—the Adjuster. 
 
-A Mighty Messenger reveals: “_There is in the mind of God ***a plan*** which embraces every creature of all his vast domains, and this plan is an eternal purpose of boundless opportunity, unlimited progress, and endless life…yours for the striving._” [[UB 32:5.7](/en/The_Urantia_Book/32#p5_7)] (Emphasis mine.) 
+A Mighty Messenger reveals: “_There is in the mind of God ***a plan*** which embraces every creature of all his vast domains, and this plan is an eternal purpose of boundless opportunity, unlimited progress, and endless life . . .yours for the striving._” [[UB 32:5.7](/en/The_Urantia_Book/32#p5_7)] (Emphasis mine.) 
 
 Yes, my friends, make no mistake, our strenuous climb from chaos to glory will certainly entail striving; for “_Mankind does not ascend effortlessly in the universe._” [[UB 117:4.7](/en/The_Urantia_Book/117#p4_7)] (Emphasis mine.) 
 
@@ -102,7 +102,7 @@ Now, however, this mortal’s presentation must come to its end. So let’s just
 
 Our indwelling God-fragments similarly possess and in turn bestow upon us—in miniature we might say—all those same God-attributes: love, spirituality, divinity, immortality, will, perfection, eternity, a destiny of absolute value, and a purposeful existence which never comes to an end. 
 
-The Adjusters are the “_kingdom of God within you._” [[UB 170:2.24](/en/The_Urantia_Book/170#p2_24)] Your Adjuster is the secret of your ascension to Paradise, the illuminator of your path to God, your guarantee of perfection attainment, your living hope forever, your inexhaustible wellspring of joy, and your eternal passport to infinity. “_The quest for God is endless!_” [[UB 106:7.5](/en/The_Urantia_Book/106#p7_5)\] 
+The Adjusters are the “_kingdom of God within you._” [[UB 170:2.24](/en/The_Urantia_Book/170#p2_24)] Your Adjuster is the secret of your ascension to Paradise, the illuminator of your path to God, your guarantee of perfection attainment, your living hope forever, your inexhaustible wellspring of joy, and your eternal passport to infinity. “_The quest for God is endless!_” [[UB 106:7.5](/en/The_Urantia_Book/106#p7_5)] 
 
 > David Glass found _The Urantia Book_ in 1972 in California, but while living in Florida. He immediately became involved in _Urantia Book_-related study groups and activities all over Florida, later in the Fort Worth/Dallas metroplex, and from 1997–1999 in the Portland, Oregon area. David is a frequent speaker at Urantia conferences, and serves as an instructor in Urantia University, on the Publications Committee of the Fellowship, and as President of the Urantia Society of North Texas. 
 {.is-info}

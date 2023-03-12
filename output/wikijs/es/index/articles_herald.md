@@ -354,14 +354,14 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <img src="/image/article/Herald_covers/Herald2013.jpg">
 </figure>
 
-| Título                                                                                                                                                                                            | Autor              | Etiquestas |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- | ---- |
-| [Genética espiritual](/es/article/Stephen_Dreier/Spiritual_Genetics)                                                                                                                              | Steve Dreier        |
-| [Religión de Uno](/es/article/Gary_Deinstadt/Religion_of_One)                                                                                                                                    | Rev. Gary Deinstadt |
-| [Una cosmología de la raza](/es/article/Charles_Laurence_Olivea/A_Cosmology_of_Race)                                                                                                                   | Charles Olivea      |
-| [Explorando la vida interior](/es/article/Dave_Holt/Exploring_the_Inner_Life)                                                                                                                       | Dave Holt           |
-| [Fe espiritual, incertidumbre y ciudadanía cósmica](/es/article/David_Kantor/Spiritual_Faith_Incertainty_and_Cosmic_Citizenship)                                                               | David Kantor        |
-| [Estados de ánimo, música y magia del libro de Urantia](/es/article/David_Glass/Moods_Music_and_Magic_of_The_Urantia_Book)                                                                                  | David Glass         |
+| Título                                                                                                                                                                                                  | Autor              | Etiquestas |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ---- |
+| [Genética espiritual](/es/article/Stephen_Dreier/Spiritual_Genetics)                                                                                                                                    | Steve Dreier        |
+| [Religión de Uno](/es/article/Gary_Deinstadt/Religion_of_One)                                                                                                                                           | Rev. Gary Deinstadt |
+| [Una cosmología de la raza](/es/article/Charles_Laurence_Olivea/A_Cosmology_of_Race)                                                                                                                    | Charles Olivea      |
+| [Explorando la vida interior](/es/article/Dave_Holt/Exploring_the_Inner_Life)                                                                                                                           | Dave Holt           |
+| [Fe espiritual, incertidumbre y ciudadanía cósmica](/es/article/David_Kantor/Spiritual_Faith_Incertainty_and_Cosmic_Citizenship)                                                                        | David Kantor        |
+| [Estados de ánimo, música y magia del libro de Urantia](/es/article/David_Glass/Moods_Music_and_Magic_of_The_Urantia_Book)                                                                              | David Glass         |
 | [Una prueba estadística de la hipótesis de que El libro de Urantia fue escrito por seres humanos](/es/article/Philip_Calabrese/A_Statistical_Test_of_Hypothesis_Urantia_Book_authored_by_a_Human_Being) | Philip Calabrese    |
 
 <br>
@@ -374,15 +374,15 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <img src="/image/article/Herald_covers/Herald2014.jpg">
 </figure>
 
-| Título                                                                                                                                                                                   | Autor          | Etiquestas |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ---- |
-| [The Rehabilitation of Urantia](/es/article/Carolyn_Kendall/The_Rehabilitation_of_Urantia)                                                                                              | Carolyn Kendall |
-| [The Journey Following Mortal Death](/es/article/William_S_Sadler_Jr/The_Journey_Following_Mortal_Death)                                                                                | Bill Sadler Jr. |
-| [Pursuing Supremacy: How Might the Master Seraphim and Human Beings Collaborate?](/es/article/Bob_Debold/Pursuing_Supremacy_How_Might_the_Master_Seraphim_and_Human_Beings_Collaborate) | Bob Debold      |
-| [Urantian Language and the Preservation of Meaning](/es/article/Richard_Daunt/Urantian_Language_and_the_Preservation_of_Meaning)                                                        | Richard Daunt   |
-| [Origin, Nature, Ministry, and Destiny of Thought Adjusters](/es/article/David_Glass/Origin_Nature_Ministry_and_Destiny_of_Thought_Adjusters)                                           | David Glass     |
-| [Spiritual Unity](/es/article/Richard_Goodman/Spiritual_Unity)                                                                                                                          | Richard Goodman |
-| [Prayer? Why Bother?](/es/article/Linda_Buselli/Prayer_Why_Bother)                                                                                                                      | Linda Buselli   |
+| Título                                                                                                                                                                                                 | Autor          | Etiquestas |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- | ---- |
+| [La rehabilitación de Urantia](/es/article/Carolyn_Kendall/The_Rehabilitation_of_Urantia)                                                                                                              | Carolyn Kendall |
+| [El viaje que sigue a la muerte mortal](/es/article/William_S_Sadler_Jr/The_Journey_Following_Mortal_Death)                                                                                            | Bill Sadler Jr. |
+| [En busca de la supremacía: ¿Cómo podrían colaborar los maestros Serafines y los seres humanos?](/es/article/Bob_Debold/Pursuing_Supremacy_How_Might_the_Master_Seraphim_and_Human_Beings_Collaborate) | Bob Debold      |
+| [Lenguaje urantiano y la preservación del significado](/es/article/Richard_Daunt/Urantian_Language_and_the_Preservation_of_Meaning)                                                                    | Richard Daunt   |
+| [Origen, Naturaleza, Ministerio y Destino de los Ajustadores del Pensamiento](/es/article/David_Glass/Origin_Nature_Ministry_and_Destiny_of_Thought_Adjusters)                                         | David Glass     |
+| [Unidad Espiritual](/es/article/Richard_Goodman/Spiritual_Unity)                                                                                                                                       | Richard Goodman |
+| [¿La oración? ¿Por qué molestarse?](/es/article/Linda_Buselli/Prayer_Why_Bother)                                                                                                                       | Linda Buselli   |
 
 <br>
 

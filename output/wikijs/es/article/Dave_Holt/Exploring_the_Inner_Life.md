@@ -102,7 +102,7 @@ Cuando surge el tema de las tradiciones contemplativas de Oriente, a menudo escu
 El desarrollo de una relación personal con Dios anticipa el próximo paso evolutivo en la conciencia humana. Al dar conscientemente este próximo paso, comenzamos a crear una verdadera hermandad en el planeta. Entonces podremos comenzar a fijar nuestra mirada en un ideal mayor y más alto: la llegada de una era de paz y buena voluntad, una era de armonía espiritual.   
 
 > Nacido en Toronto, Canadá, de ascendencia irlandesa, inglesa e india ojibway, Dave Holt se mudó a California en 1970, donde descubrió _El Libro de Urantia_ (en 1978) a través de su esposa, Chappell. Ha presentado talleres y programas de adoración en IC96, IC 99, IC02, IC05, IC08 y en conferencias de estudio de verano (2001, 2006) como miembro del Comité de Educación de la Fraternidad. Se desempeña como responsable de comunicaciones de la Sociedad Urantia del Círculo Golden Gate.
-{.es-info}
+{.is-info}
 
 ## Referencias
 

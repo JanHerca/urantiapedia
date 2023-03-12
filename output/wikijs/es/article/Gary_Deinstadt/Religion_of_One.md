@@ -140,7 +140,7 @@ En el taoísmo, el camino de la realidad última, todo está habitado. Hace hinc
 Solo estoy arañando la superficie aquí. Obviamente, alguna teología se ha vuelto obsoleta, pero continúa inspirando al individuo que cree y busca activamente conocer al Espíritu/Dios a su manera personal. En las religiones del mundo todavía existe mucho de lo que podemos aprender y contribuir. Mi viaje a través de las religiones interreligiosas y del mundo me acaba de hacer más obvio que independientemente de la fe, la religión, los antecedentes, la profesión, el género, la raza, etc. vuélvete más como Dios, que sin importar las circunstancias, no te será negado. Muchos de nuestros hermanos y hermanas dan mucho fruto que ha crecido o se ha originado a partir de una creencia primitiva. Obviamente, el Padre respondió. Obviamente, el Padre respondió. Entonces, si el Padre va a responder al más mínimo destello de fe, ¿no deberíamos hacerlo nosotros?
 
 > Gary Deinstadt ha sido estudiante de _El Libro de Urantia_ desde 1982. Es un ministro interreligioso ordenado con una Maestría en Divinidad. También es músico y compositor que recibió dos premios Emmy por logros destacados en dirección y composición musical en 2007 y 2008. También recibió dos premios BMI de música para cine y televisión. Más información: http://www.rev.garydeinstadt.com y http://www.garydeinstadt.com   
-{.es-info}
+{.is-info}
 
 ## Referencias
 

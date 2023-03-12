@@ -11,7 +11,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 David Kantor<br>© 2013 The Urantia Book Fellowship</p>
 
 > Nota del autor: Este ensayo intenta explorar_ _El Libro de Urantia_ _una visión general de la aventura de la fe en el contexto de algunas de las observaciones de Paul Tillich sobre la fe en su obra clásica,_ «La dinámica de la fe»_—en particular, las opiniones de Tillich sobre la duda y la incertidumbre como componentes inevitables de la búsqueda de la fe.
-{.es-info}
+{.is-info}
 
 ## Introducción
 
@@ -168,7 +168,7 @@ En conclusión, es importante apreciar que no estamos solos en la aventura de la
 Que nuestros benefactores espirituales nos bendigan a cada uno de nosotros con desafíos y dificultades que estimulen una fe espiritual genuina y nos lleven a una actualización más plena de ciudadanía cósmica responsable y creativa.   
 
 > David Kantor ha sido lector durante casi 50 años. Desde l995, ha participado activamente en el desarrollo de la presencia en Internet y los servicios de TI de la Fraternidad y participó en el equipo que produjo el nuevo sitio web de la Fraternidad. Actualmente también está dirigiendo y produciendo el proyecto Joshua ben Joseph, un esfuerzo por crear un video inspirador de la obra de Jesús y el mundo en el que vivió y enseñó. David es vicepresidente de Rocky Mountain Spiritual Fellowship en Colorado, una Urantia Book Fellowship Society.  
-{.es-info}
+{.is-info}
 
 ## Referencias
 

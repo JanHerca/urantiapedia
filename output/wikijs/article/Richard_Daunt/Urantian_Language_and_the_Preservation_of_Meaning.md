@@ -16,7 +16,7 @@ Presented at _The Urantia Book_ Society of Greater New York, September 28, 1913
 
 Language changes, words change. Word meanings change. As human consciousness expands and evolves, our language must change in order to facilitate improved expression. In Paper 81 we read that the effectiveness of language is one of the main drivers of progressing civilization. 
 
-> 6\. Effectiveness of language. The spread of civilization must wait upon language. Live and growing languages insure the expansion of civilized thinking and planning. During the early ages important advances were made in language. Today, there is great need for further linguistic development to facilitate the expression of evolving thought. [[UB 81:6.15](/en/The_Urantia_Book/81#p6_15)] 
+> 6\. Effectiveness of language. The spread of civilization must wait upon language. Live and growing languages insure the expansion of civilized thinking and planning. During the early ages important advances were made in language. Today, there is great need for further linguistic development to facilitate the expression of evolving thought. [[UB 81:6.16](/en/The_Urantia_Book/81#p6_16)] 
 
 Although present-day English has standardized its spelling and grammar to some extent, changes in meaning are still occurring—and must continue if English is to participate in the expression of evolving thought. Reading further, we learn something of the process of language changes: 
 
@@ -42,9 +42,9 @@ It may seem obvious to any reader of today that the intended meaning of “_awfu
 
 The “_very bad_” meaning which is the primary one of today was once considered slang, as is recorded in a 1943 Webster’s definition list for “_awful_”: 
 
-1. Filling with awe: inspiring dread of deep reverence; profoundly impressive; terrible; appalling… 
-2. Filled with awe (awe-full)… “_A weak and awful reverence…_” 
-3. …ugly; very bad; ludicrous; shocking very bad…slang… 
+1. Filling with awe: inspiring dread of deep reverence; profoundly impressive; terrible; appalling . . . 
+2. Filled with awe (awe-full)… “_A weak and awful reverence. . ._” 
+3. . . . ugly; very bad; ludicrous; shocking very bad . . . slang. . . 
 
 ## Afterlife 
 
