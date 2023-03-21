@@ -82,7 +82,7 @@ There really was not a test of faith associated with Adam and Eve. In fact, thei
 
 Melchizedek also was given a human body in order to make contact with human beings. He, like Jesus and Adam, incorporated the use of human emissaries and missionaries.These human beings spread his teachings around the globe.
 
-The test of faith for the humans who experienced this revelation was whether or not to believe in this being who was proclaimed to be “priest of the Most High. . . king of peace; without father, without mother, without pedigree, having neither beginning of days nor end of life but made like a Son of God.” [Heb. 7:1–3](/en/Bible/Hebrews/7#v1) Let’s face it, such a claim is not an easy thing to accept without a big dose of faith.
+The test of faith for the humans who experienced this revelation was whether or not to believe in this being who was proclaimed to be “priest of the Most High. . . king of peace; without father, without mother, without pedigree, having neither beginning of days nor end of life but made like a Son of God.” [Heb. 7:1-3](/en/Bible/Hebrews/7#v1) Let’s face it, such a claim is not an easy thing to accept without a big dose of faith.
 
 ## The Fourth Epochal Revelation: Jesus Of Nazareth
 

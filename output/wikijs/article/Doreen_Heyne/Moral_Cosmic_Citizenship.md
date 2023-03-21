@@ -88,7 +88,7 @@ We have lots of helpers and one group is described on page 1256: “The Angels o
 
 On page 1255 [[UB 114:6.7](/en/The_Urantia_Book/114#p6_7)] under “The Religious Guardians,” _The Urantia Book_ describes how the angels of the churches maintain from one epoch to another those moral values worth saving. Since moralities sooner or later outlive themselves, the only ones that are sustainable are universal. The evolution of morals becomes obsolete in time unless they contain a way of living that transcends any present day mores and elevates itself to a godlike reflection driven by the Spirit of Truth. It must contain love for humanity through God, and faith in him that recognizes the spirit of God in each person. Our souls must be dominated by love. 
 
-_In and through all the historic vicissitudes of religion there ever persists that which is indispensable to human progress and survival: the ethical conscience and the moral consciousness. Faith-insight or spiritual intuition is the endowment of the cosmic mind in association with the Thought Adjuster...Holy Spirit...[and] Spirit of Truth._ [[UB 101:3.1–2](/en/The_Urantia_Book/101#p3_1)]
+_In and through all the historic vicissitudes of religion there ever persists that which is indispensable to human progress and survival: the ethical conscience and the moral consciousness. Faith-insight or spiritual intuition is the endowment of the cosmic mind in association with the Thought Adjuster...Holy Spirit...[and] Spirit of Truth._ [[UB 101:3.1-2](/en/The_Urantia_Book/101#p3_1)]
 
 This combination constitutes man a spirit personality in potential.  
 

@@ -128,7 +128,7 @@ In this informally published paper, Dr. William Sadler outlines 64 knowledge con
 
 58. **Explanation of Unintended Miracles:** The book presents a possible explanation of numerous unintended miracles. [Paper 136](/en/The_Urantia_Book/136) 
 
-59. **Jesus’ Attitude toward Art and Athletics and Women:** The Master’s attitude toward art, athletics, and women are nowhere else revealed. Art–[Paper 142:4](/en/The_Urantia_Book/142#p4), Athletics–[Paper 124:3](/en/The_Urantia_Book/124#p3), Women–[Papers 133:2](/en/The_Urantia_Book/133#p2), [138:8](/en/The_Urantia_Book/138#p8), [143:5](/en/The_Urantia_Book/143#p5), [149:2](/en/The_Urantia_Book/149#p2) 
+59. **Jesus’ Attitude toward Art and Athletics and Women:** The Master’s attitude toward art, athletics, and women are nowhere else revealed. Art–[Paper 142:4](/en/The_Urantia_Book/142#p4), Athletics–[Paper 124:3](/en/The_Urantia_Book/124#p3), Women–[Papers 133:2](/en/The_Urantia_Book/133#p2), [UB 138:8](/en/The_Urantia_Book/138#p8), [UB 143:5](/en/The_Urantia_Book/143#p5), [149:2](/en/The_Urantia_Book/149#p2) 
 
 60. **The Sermon on the Mount:** I am, of course. not familiar with all the literature on the Sermon on the Mount. But as far as I know, the interpretation of this address in _The Urantia Book_ is new and original. [Paper 140](/en/The_Urantia_Book/140) 
 

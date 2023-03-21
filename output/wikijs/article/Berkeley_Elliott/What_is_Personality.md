@@ -36,7 +36,7 @@ We know the Universal Father bestows personality on each of us; he gives us a un
 > 
 > Creature personality is distinguished by two self-manifesting and characteristic phenomena of mortal reactive behavior: self-consciousness and associated free will.
 > 
-> Self-consciousness consists in intellectual awareness of personality actuality; . . .  [[UB 16:8.4–6](/en/The_Urantia_Book/16#p8_4)]
+> Self-consciousness consists in intellectual awareness of personality actuality; . . .  [[UB 16:8.4-6](/en/The_Urantia_Book/16#p8_4)]
 
 When does personality arrive? We know that the Thought Adjuster now comes at the age of first moral choice. “_The Adjusters cannot invade the mortal mind until it has been duly prepared by the indwelling ministry of the adjutant mind-spirits and encircuited in the Holy Spirit. It requires the co-ordinate function of all seven adjutants to thus qualify the human mind for the reception of an Adjuster. Creature mind must exhibit the worship outreach and indicate wisdom function by exhibiting the ability to choose between the emerging values of good and evil􀀀moral choice._” [[UB 108:2.2](/en/The_Urantia_Book/108#p2_2)]
 

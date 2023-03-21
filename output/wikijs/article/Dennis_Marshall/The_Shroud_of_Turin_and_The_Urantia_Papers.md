@@ -43,7 +43,7 @@ Advice of Immanual to Michael (Jesus)
 
 > To the end that you may not unnecessarily contribute to the creation of subsequent stereotyped systems of Urantia religious beliefs or other types of nonprogressive religious loyalties, we advise you still further: **Leave no writings behind** you on the planet. Refrain from all writing upon permanent materials; enjoin your associates **to make no images or other likenesses of yourself in the flesh.** See that nothing potentially idolatrous is left on the planet at the time of your departure. (my emphasis) 
 > 
-> While you will live the normal and average social life of the planet, being a normal individual of the male sex, you will probably not enter the marriage relation, which would be honorable and consistent with your bestowal; but I must remind you that one of the incarnation **mandates of Sonarington forbids the leaving of human offspring on any planet by a bestowal Son of Paradise origin**. (my emphasis) [[UB 120:3.7–8](/en/The_Urantia_Book/120#p3_7)]
+> While you will live the normal and average social life of the planet, being a normal individual of the male sex, you will probably not enter the marriage relation, which would be honorable and consistent with your bestowal; but I must remind you that one of the incarnation **mandates of Sonarington forbids the leaving of human offspring on any planet by a bestowal Son of Paradise origin**. (my emphasis) [[UB 120:3.7-8](/en/The_Urantia_Book/120#p3_7)]
 
 ### Planning for Public Work 
 
@@ -53,7 +53,7 @@ Advice of Immanual to Michael (Jesus)
 
 > ...Meanwhile the four soldiers assigned to the Master’s crucifixion, as was the custom, had divided his clothes among them, one taking the sandals, one the turban, one the girdle, and the fourth the cloak. This left the tunic, or seamless vestment reaching down to near the knees, to be cut up into four pieces, but when the soldiers saw what an unusual garment it was, they decided to cast lots for it. Jesus looked down on them while they divided his garments,and the thoughtless crowd jeered at him. 
 > 
-> It was well that the Roman soldiers took possession of the Master’s clothing. Otherwise, if his followers had gained possession of these garments, they would have been tempted to resort to superstitious relic worship. The Master desired that his followers should have nothing material to associate with his life on earth. He wanted to leave mankind only the memory of a human life dedicated to the high spiritual ideal of being consecrated to doing the Father’s will. (my emphasis) [[UB 187:2.7–8](/en/The_Urantia_Book/187#p2_7)]
+> It was well that the Roman soldiers took possession of the Master’s clothing. Otherwise, if his followers had gained possession of these garments, they would have been tempted to resort to superstitious relic worship. The Master desired that his followers should have nothing material to associate with his life on earth. He wanted to leave mankind only the memory of a human life dedicated to the high spiritual ideal of being consecrated to doing the Father’s will. (my emphasis) [[UB 187:2.7-8](/en/The_Urantia_Book/187#p2_7)]
 
 These passages make it clear that if the Shroud is genuine then it is a genuine mistake. Since the ministering spirits had to seek permission to remove Jesus’ body, I think it’s safe to say that they didn’t have carte blanche to interject as they pleased and were powerless to remove the burial cloths. There are many instances in _The Urantia Book_ where the ministering spirits were not permitted to remediate problems in the mortal realm (the frog story), especially when the free will of humans was involved. 
 
@@ -71,7 +71,7 @@ _Urantia Book_ readers will find in the book twelve mentions of Jesus’ burial 
 
 > The tomb of Joseph was empty. Not because the body of Jesus had been rehabilitated or resurrected, but because the celestial hosts had been granted their request to afford it a **special and unique dissolution**, a return of the “dust to dust” without the intervention of the delays of time and without the operation of the ordinary and visible processes of mortal decay and material corruption. (my emphasis) 
 > 
-> The mortal remains of Jesus underwent the same natural process of elemental disintegration as characterizes all human bodies on earth except that, in point of time, this natural mode of dissolution was greatly accelerated, hastened to that point where it became **well-nigh instantaneous**. (my emphasis) [[UB 189:2.7–8](/en/The_Urantia_Book/189#p2_7)]
+> The mortal remains of Jesus underwent the same natural process of elemental disintegration as characterizes all human bodies on earth except that, in point of time, this natural mode of dissolution was greatly accelerated, hastened to that point where it became **well-nigh instantaneous**. (my emphasis) [[UB 189:2.7-8](/en/The_Urantia_Book/189#p2_7)]
 
 ### Discovery of the Empty Tomb
 

@@ -40,7 +40,7 @@ I have found that by using the Biblical record of Jesus I can effectively minist
 
 My second major reason for Christian ministry derives from _The Urantia Book_ itself. For if we look at what the Urantia Papers really teach we do not find that they direct us to spread _Urantia Books_—rather, they call for a new revelation of Jesus and his actual teachings. The following quotations should help make this clear: 
 
-> There must come a revival of the actual teachings of Jesus… [[UB 170:5.19](/en/The_Urantia_Book/170#p5_19)] 
+> There must come a revival of the actual teachings of Jesus. . . [[UB 170:5.19](/en/The_Urantia_Book/170#p5_19)] 
 
 > Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it. [[UB 196:1.3](/en/The_Urantia_Book/196#p1_3)] 
 
@@ -48,7 +48,7 @@ My second major reason for Christian ministry derives from _The Urantia Book_ it
 
 And let us take special note of this last quote: 
 
-> Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. [[UB 196:9.4](/en/The_Urantia_Book/196#p9_4)] 
+> Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. [[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)] 
 
 ## Christians are our Target Audience 
 
@@ -56,7 +56,7 @@ There is another aspect of Christian ministry that is important to realize: the 
 
 For example, consider this quotation from page 2082: 
 
-> …Christianity stands in need of new contact with the uncompromised teachings of Jesus; it languishes for lack of a new vision of the Master’s life on earth. [[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)] 
+> . . .Christianity stands in need of new contact with the uncompromised teachings of Jesus; it languishes for lack of a new vision of the Master’s life on earth. [[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)] 
 
 In Christian doctrine, an outward church has taken the place of Jesus’ inner spiritual kingdom of submission to God. But membership in the church is not equivalent to citizenship in the kingdom; one is spiritual and the other mainly social. Jesus’ spiritual kingdom still exists in those believers who are dedicated to doing the Father’s will. This brotherhood of the kingdom now slumbers within the Christian church, but it will eventually come forth. Our job is to help awaken and inspire sleeping Christians through a revival of Jesus’ actual teachings. 
 
@@ -130,7 +130,7 @@ My first and most basic purpose for the book was to have an easy to read, trustw
 
 This book was always readily received and even looked forward to by the students. In fact, one year my high school students repeatedly requested that we study the book. So that year I taught History of Religion to my eleventh grade class using _The Life and Teachings of Jesus_ as our textbook. 
 
-I have also given the book to many others, especially friends and individuals who are facing difficulty or crisis in their lives, and have received numerous reports of positive results. Other readers have also found the book useful. For example one long time _Urantia Book_ student told me it had helped heal his relationship with his parents who had been concerned about his being into _The Urantia Book_. In another instance, a couple reported using it with great success to teach a Sunday school class in a mainline church—in fact, most of the class later ordered the book 
+I have also given the book to many others, especially friends and individuals who are facing difficulty or crisis in their lives, and have received numerous reports of positive results. Other readers have also found the book useful. For example one long time _Urantia Book_ student told me it had helped heal his relationship with his parents who had been concerned about his being into _The Urantia Book_. In another instance, a couple reported using it with great success to teach a Sunday school class in a mainline church—in fact, most of the class later ordered the book. 
 
 The book has achieved remarkable success in a number of venues without any effort at distribution or marketing. For example, a seminary in Texas gave _The Life and Teachings of Jesus_ to graduates at their closing ceremonies for several years. A pastor from India, who discovered the book on the internet, (lifeandteachingsofjesus.org) heads a network of more than thirty pastors that use the book as a primary teaching tool. This pastor has even translated the book into Telegu, their native language. 
 
@@ -156,7 +156,7 @@ So, I urge you to make use of this book. It makes a great gift. It can be a valu
 
 I would like to close now with some words of encouragement from the _The Urantia Book_ for those who feel this call to spread Jesus’ religion in our world. Here is what the revelators say regarding our present time and the prospects for a new revelation of Jesus: 
 
-> The teachings of Jesus…are even now slowly triumphing over the materialism, mechanism, and secularism of the twentieth century. And such times of great testing and threatened defeat are always times of great revelation. [[UB 195:9.3](/en/The_Urantia_Book/195#p9_3)] 
+> The teachings of Jesus . . . are even now slowly triumphing over the materialism, mechanism, and secularism of the twentieth century. And such times of great testing and threatened defeat are always times of great revelation. [[UB 195:9.3](/en/The_Urantia_Book/195#p9_3)] 
 
 > The hour is striking for a rediscovery of the true and original foundations of present day distorted and compromised Christianity—the real life and teachings of Jesus. [[UB 195:9.5](/en/The_Urantia_Book/195#p9_5)] 
 

@@ -34,7 +34,7 @@ What you just read was about quite an array of emotions and feelings exhibited b
 > 
 > Very early they learned to engage in verbal communication; by the age of ten they had worked out an improved sign and word language of almost half a hundred ideas and had greatly improved and expanded the crude communicative technique of their ancestors. But try as hard as they might, they were able to teach only a few of their new signs and symbols to their parents. 
 > 
-> When about nine years of age, they journeyed off down the river one bright day and held a momentous conference. Every celestial intelligence stationed on Urantia, including myself, was present as an observer of the transactions of this noontide tryst. On this eventful day they arrived at an understanding to live with and for each other, and this was the first of a series of such agreements which finally culminated in the decision to flee from their inferior animal associates and to journey northward, little knowing that they were thus to found the human race. [[UB 62:5.4–8](/en/The_Urantia_Book/62#p5_4)] 
+> When about nine years of age, they journeyed off down the river one bright day and held a momentous conference. Every celestial intelligence stationed on Urantia, including myself, was present as an observer of the transactions of this noontide tryst. On this eventful day they arrived at an understanding to live with and for each other, and this was the first of a series of such agreements which finally culminated in the decision to flee from their inferior animal associates and to journey northward, little knowing that they were thus to found the human race. [[UB 62:5.4-8](/en/The_Urantia_Book/62#p5_4)] 
 
 ## The Struggle for Advancement 
 
@@ -70,7 +70,7 @@ Apparently all the emotions and feelings we experience today were experienced by
 
 > The early evolutionary mind gives origin to a feeling of social duty and moral obligation derived chiefly from emotional fear. The more positive urge of social service and the idealism of altruism are derived from the direct impulse of the divine spirit indwelling the human mind.
 > 
-> This idea-ideal of doing good to others—the impulse to deny the ego something for the benefit of one’s neighbor—is very circumscribed at first. Primitive man regards as neighbor only those very close to him, those who treat him neighborly; as religious civilization advances, one’s neighbor expands in concept to embrace the clan, the tribe, the nation. And then Jesus enlarged the neighbor scope to embrace the whole of humanity, even that we should love our enemies. There is something inside of every normal human being that tells him this teaching is right. Even those who practice this ideal least, admit that it is right in theory. [[UB 103:5.1–2](/en/The_Urantia_Book/103#p5_1)]
+> This idea-ideal of doing good to others—the impulse to deny the ego something for the benefit of one’s neighbor—is very circumscribed at first. Primitive man regards as neighbor only those very close to him, those who treat him neighborly; as religious civilization advances, one’s neighbor expands in concept to embrace the clan, the tribe, the nation. And then Jesus enlarged the neighbor scope to embrace the whole of humanity, even that we should love our enemies. There is something inside of every normal human being that tells him this teaching is right. Even those who practice this ideal least, admit that it is right in theory. [[UB 103:5.1-2](/en/The_Urantia_Book/103#p5_1)]
 
 Half a million years after the first humans evolved, after the appearance of the six colored races, the Planetary Prince and his corporeal staff of 100 men and women arrived on Urantia. It was a new dispensation of revealed religion and practical training in improved methods of living and learning. Emotional control was not a major focus at that time. We’ve learned that about 300,000 years later there was an outbreak of rebellion and virtually all the progress made during that time was lost, although physical development continued. 
 
@@ -92,7 +92,7 @@ Education during the Adamic dispensation was much more advanced. It was first em
 > 
 > 6. Co-ordination of conflicting duties and emotions. 
 > 
-> 7. The cultivation of play, humor, and competitive substitutes for physical fighting. [[UB 74:7.2–10](/en/The_Urantia_Book/74#p7_2)] 
+> 7. The cultivation of play, humor, and competitive substitutes for physical fighting. [[UB 74:7.2-10](/en/The_Urantia_Book/74#p7_2)] 
 
 ## Advanced Spiritual Revelations 
 

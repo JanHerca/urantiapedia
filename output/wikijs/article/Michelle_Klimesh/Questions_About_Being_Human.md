@@ -45,7 +45,7 @@ Our human fears try to protect us by building walls around our hearts, our thoug
 
 Anything that tends to move us toward separation from each other, even our own human instincts, should be suspect. The influence from these animal defense mechanisms is powerful and pervasive; it should not be underestimated. 
 
-Why did God set things up this way? I don’t know. Paper [3:5] (PP. 50–52) describes how evolutionary life is beset by certain inevitabilities—hardships, error, predicaments, social inequalities—challenges that help us develop into the creatures God needs us to become. Since God allows us to struggle with this phase of development, we must assume that our participation in the system accrues to some permanent spiritual value. The difficulties we face here are the fodder for our own spiritual growth. 
+Why did God set things up this way? I don’t know. Paper [3:5] (PP. 50-52) describes how evolutionary life is beset by certain inevitabilities—hardships, error, predicaments, social inequalities—challenges that help us develop into the creatures God needs us to become. Since God allows us to struggle with this phase of development, we must assume that our participation in the system accrues to some permanent spiritual value. The difficulties we face here are the fodder for our own spiritual growth. 
 
 As depressing as it sounds, the fact that our problems are caused by people is good news. If humans have the power to cause these problems, we also have the power to solve them. 
 

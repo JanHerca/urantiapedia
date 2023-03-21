@@ -396,14 +396,14 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 | Título                                                                                                                  | Autor                  | Etiquestas |
 | ---------------------------------------------------------------------------------------------------------------------- | ----------------------- | ---- |
-| [Effective Study Group Leadership](/es/article/David_Kulieke/Effective_Study_Group_Leadership)                         | David Kulieke           |
-| [Can We Have a Universal Standard of Morality](/es/article/Dave_Holt/Can_We_Have_a_Universal_Standard_of_Morality)     | Dave Holt               |
-| [Destiny of the Master Michaels?](/es/article/William_S_Sadler_Jr/Destiny_of_the_Master_Michaels)                      | Bill Sadler Jr.         |
-| [The Urantia Book and Its Mission](/es/article/Charles_Laurence_Olivea/The_Urantia_Book_and_Its_Mission)               | Charles Laurence Olivea |
-| [Is The Urantia Book a Sacred Text](/es/article/David_Kantor/Is_The_Urantia_Book_a_Sacred_Text)                        | David Kantor            |
-| [Sixty-Four Original Urantia Book Concepts](/es/article/William_S_Sadler/Sixty_Four_Original_Urantia_Book_Concepts)    | William S. Sadler       |
-| [Society Evolving: Chaos, Progress, and Order](/es/article/Lawrence_Schkade/Society_Evolving_Chaos_Progress_and_Order) | Lawrence Schkade        |
-| [The Importance of Christian Ministry](/es/article/Preston_Thomas/The_Importance_of_Christian_Ministry)                | Preston Thomas          |
+| [Liderazgo eficaz de los grupos de estudio: alumbrando el camino](/es/article/David_Kulieke/Effective_Study_Group_Leadership)                         | David Kulieke           |
+| [¿Podemos tener un estándar universal de moralidad?](/es/article/Dave_Holt/Can_We_Have_a_Universal_Standard_of_Morality)     | Dave Holt               |
+| [Destino de los Migueles Maestros](/es/article/William_S_Sadler_Jr/Destiny_of_the_Master_Michaels)                      | Bill Sadler Jr.         |
+| [El libro de Urantia y su misión](/es/article/Charles_Laurence_Olivea/The_Urantia_Book_and_Its_Mission)               | Charles Laurence Olivea |
+| [¿Es El libro de Urantia un texto sagrado?](/es/article/David_Kantor/Is_The_Urantia_Book_a_Sacred_Text)                        | David Kantor            |
+| [Sesenta y cuatro conceptos originales de El libro de Urantia](/es/article/William_S_Sadler/Sixty_Four_Original_Urantia_Book_Concepts)    | William S. Sadler       |
+| [Sociedad en evolución: caos, progreso y orden](/es/article/Lawrence_Schkade/Society_Evolving_Chaos_Progress_and_Order) | Lawrence Schkade        |
+| [La importancia del ministerio cristiano](/es/article/Preston_Thomas/The_Importance_of_Christian_Ministry)                | Preston Thomas          |
 
 <br>
 

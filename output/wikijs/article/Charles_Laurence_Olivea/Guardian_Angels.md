@@ -211,7 +211,7 @@ Finally, I wish to offer this tribute, an _angelic sampler_, presented as a furt
 
 > “_Hello Central, give me Heaven, for my mama’s there; you can find her with the Angels on the Golden Stair; she’ll be glad it’s me who’s speaking, call her, won’t you please; for I want to surely tell her, we’re so lonely here._” —The chorus, from nineteenth century sheet music, Hello Central–Give Me Heaven,( A child’s effort trying to reach her deceased mother through the angels.)[^29]
 
-> Continue to love each other with true brotherly love, don’t forget to be kind to strangers, for some who have done this have entertained angels without realizing it. —[Hebrews 13:1–2](/en/Bible/Hebrews/13#v1) [^30]
+> Continue to love each other with true brotherly love, don’t forget to be kind to strangers, for some who have done this have entertained angels without realizing it. —[Hebrews 13:1-2](/en/Bible/Hebrews/13#v1) [^30]
 
 > The guardian angels love the homely ways of men, they desire to share the hours of labour and of ease; the love of children and their play, and all the happy atmosphere of the home. They would guard men’s homes, keeping away all influences of danger and strife, of darkness and disease. —Geoffrey Hodson [^31]
 
@@ -226,7 +226,7 @@ Finally, I wish to offer this tribute, an _angelic sampler_, presented as a furt
 
 > But most of all, see that you despise not one of these little ones, for their angels do always behold the faces of the heavenly hosts. —Jesus (Emphasis mine) [[UB 158:8.1](/en/The_Urantia_Book/158#p8_1)]
 
-> The angelic hosts are a separate order of created beings; they are entirely different from the material order of mortal creatures…The Angelic hosts have…a spiritual kinship with the human race…and they are neither all-wise nor all-powerful. But all of the loyal angels are truly pure and holy…if you had your spiritual eyes anointed, you would then see the heavens opened and behold the angels of God ascending and descending…Many of these angels are engaged in the work of saving men…these angels [are] very much concerned with the means whereby man’s spirit is released from the tabernacles of the flesh and his soul escorted to the mansions in heaven. —Jesus (Emphasis mine) [[UB 167:7.2–6](/en/The_Urantia_Book/167#p7_2)]
+> The angelic hosts are a separate order of created beings; they are entirely different from the material order of mortal creatures…The Angelic hosts have…a spiritual kinship with the human race…and they are neither all-wise nor all-powerful. But all of the loyal angels are truly pure and holy…if you had your spiritual eyes anointed, you would then see the heavens opened and behold the angels of God ascending and descending…Many of these angels are engaged in the work of saving men…these angels [are] very much concerned with the means whereby man’s spirit is released from the tabernacles of the flesh and his soul escorted to the mansions in heaven. —Jesus (Emphasis mine) [[UB 167:7.2-6](/en/The_Urantia_Book/167#p7_2)]
 
 ---
 

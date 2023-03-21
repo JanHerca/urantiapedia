@@ -38,9 +38,9 @@ Such “_wise and vigorous_” leaders must understand what issues they will add
 
 _The Urantia Book_ makes clear the value of group prayer and worship, and a significant matter for leaders is how to fairly and appropriately enhance their groups’ approaches to prayer and worship. 
 
-Bill Sadler said “__The Urantia Book_ is not an end in itself; it is a means to an end._” I’ve actually heard this idea many times and said it myself. It should be obvious; after all, the physical reality of _The Urantia Book_ is nothing more than processed wood containing black abstract symbols on a white page that must be translated into words and then turned into facts, knowledge, meaning, and values. If applied, these values can eventually lead to relationships between personalities, including between us and God—finally, ends in themselves. So actually the book is a means to a means to a means to—well, you get the idea—to an end. 
+Bill Sadler said “_The Urantia Book is not an end in itself; it is a means to an end._” I’ve actually heard this idea many times and said it myself. It should be obvious; after all, the physical reality of _The Urantia Book_ is nothing more than processed wood containing black abstract symbols on a white page that must be translated into words and then turned into facts, knowledge, meaning, and values. If applied, these values can eventually lead to relationships between personalities, including between us and God—finally, ends in themselves. So actually the book is a means to a means to a means to—well, you get the idea—to an end. 
 
-Some of our most important goals or ends are clearly stated in the oft-quoted passage from the paper “_Personality Survival_”: _Everything nonspiritual in human experience, excepting personality, is a means to an end. Every true relationship of mortal man with other persons—human or divine—is an end in itself._ [[UB 112:2.4](/en/The_Urantia_Book/112#p2_4)] 
+Some of our most important goals or ends are clearly stated in the oft-quoted passage from the paper “_Personality Survival_”: _Everything nonspiritual in human experience, excepting personality, is a means to an end. Every true relationship of mortal man with other persons—human or divine—is an end in itself._ [[UB 112:2.8](/en/The_Urantia_Book/112#p2_8)] 
 
 We are also told that: _Spiritual experience is the real soul of man’s cosmos._ [[UB 102:4.6](/en/The_Urantia_Book/102#p4_6)] 
 
@@ -60,15 +60,15 @@ We read:
 
 > Prayer must never be so prostituted as to become a substitute for action. [[UB 91:4.2](/en/The_Urantia_Book/91#p4_2)] 
 
-> True praying is the sincere attitude of reaching heavenward for the attainment of your ideals. In all your praying be fair; do not expect God to show partiality, to love you more than his other children, your friends, neighbors, even enemies. [[UB 91:4.3](/en/The_Urantia_Book/91#p4_3)] 
+> True praying is the sincere attitude of reaching heavenward for the attainment of your ideals. [[UB 144:2.2](/en/The_Urantia_Book/144#p2_2)] In all your praying be fair; do not expect God to show partiality, to love you more than his other children, your friends, neighbors, even enemies. [[UB 91:4.3](/en/The_Urantia_Book/91#p4_3)] 
 
-> Remember, even if prayer does not change God, it very often effects great and lasting changes in the one who prays… [[UB 91:4.5](/en/The_Urantia_Book/91#p4_5)] 
+> Remember, even if prayer does not change God, it very often effects great and lasting changes in the one who prays . . . [[UB 91:4.5](/en/The_Urantia_Book/91#p4_5)] 
 
-_The Urantia Book_ warns of certain kinds of mysticism: “_Mysticism… is often something of a retreat from life which is embraced by those humans who do not relish the more robust activities of living a religious life in the open arenas of human society and commerce. True religion must act._” [[UB 102:2.8](/en/The_Urantia_Book/102#p2_8)] When prayer becomes overmuch aesthetic…, “_it loses much of its socializing influence and ends toward mysticism and the isolation of its devotees. There is a certain danger associated with overmuch private praying which is corrected and prevented by group praying, community devotions._” [[UB 91:7.6](/en/The_Urantia_Book/91#p7_6)] 
+_The Urantia Book_ warns of certain kinds of mysticism: “_Mysticism… is often something of a retreat from life which is embraced by those humans who do not relish the more robust activities of living a religious life in the open arenas of human society and commerce. True religion must act._” [[UB 102:2.8](/en/The_Urantia_Book/102#p2_8)] When prayer becomes overmuch aesthetic…, “_it loses much of its socializing influence and ends toward mysticism and the isolation of its devotees. There is a certain danger associated with overmuch private praying which is corrected and prevented by group praying, community devotions._” [[UB 91:7.13](/en/The_Urantia_Book/91#p7_13)] 
 
-Study group leaders also may consider what _The Urantia Book_ says about our actual working relationships with our Thought Adjusters as these leaders try to make their groups’ prayer and worship practices valid and attractive: We are told: “_Every decision you make either impedes or facilitates the function of the Adjuster…_” [[UB 110:6.6](/en/The_Urantia_Book/110#p6_6)] 
+Study group leaders also may consider what _The Urantia Book_ says about our actual working relationships with our Thought Adjusters as these leaders try to make their groups’ prayer and worship practices valid and attractive: We are told: “_Every decision you make either impedes or facilitates the function of the Adjuster . . ._” [[UB 110:6.6](/en/The_Urantia_Book/110#p6_6)] 
 
-> You must not regard co-operation with your Adjuster as a particularly conscious process, for it is not…[[UB 110:3.6](/en/The_Urantia_Book/110#p3_6)] 
+> You must not regard co-operation with your Adjuster as a particularly conscious process, for it is not. . . [[UB 110:3.6](/en/The_Urantia_Book/110#p3_6)] 
 
 > While the voice of the Adjuster is ever within you, most of you will hear it seldom during a lifetime. [[UB 110:7.9](/en/The_Urantia_Book/110#p7_9)] 
 
@@ -88,7 +88,7 @@ Thus, one of the most important tasks for study group leaders is to help readers
 
 Several references support this idea: 
 
-> The divine spirit makes contact with mortal man, not by feelings or emotions, but in the realm of the highest and most spiritualized thinking. It is your thoughts, not your feelings, that lead you Godward. [[UB 101:1.3](/en/The_Urantia_Book/101#p1_3)] (PP. 1104–05) 
+> The divine spirit makes contact with mortal man, not by feelings or emotions, but in the realm of the highest and most spiritualized thinking. It is your thoughts, not your feelings, that lead you Godward. [[UB 101:1.3](/en/The_Urantia_Book/101#p1_3)]
 
 > Material mind is the arena in which human personalities live, are self-conscious, make decisions, choose God or forsake him, eternalize or destroy themselves. [[UB 111:1.3](/en/The_Urantia_Book/111#p1_3)]
 

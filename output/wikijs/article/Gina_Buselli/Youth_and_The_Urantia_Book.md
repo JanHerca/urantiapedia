@@ -70,7 +70,7 @@ Lastly, I hope to embrace other individuals who perhaps feel too old to be part 
 {.is-info}
 
 
-> The contact of the mortal mind with its indwelling Adjuster, while often favored by devoted meditation, is more frequently facilitated by wholehearted and loving service in unselfish ministry to one’s fellow creatures.…The soul of man requires spiritual exercise as well as spiritual nourishment. [[UB 91:7.1–2](/en/The_Urantia_Book/91#p7_1)]
+> The contact of the mortal mind with its indwelling Adjuster, while often favored by devoted meditation, is more frequently facilitated by wholehearted and loving service in unselfish ministry to one’s fellow creatures.…The soul of man requires spiritual exercise as well as spiritual nourishment. [[UB 91:7.1-2](/en/The_Urantia_Book/91#p7_1)]
 
 
 

@@ -26,35 +26,35 @@ As the author, I represent no group or organization. I am expressing my reflecti
 
 ## Nature of the Revelation and Its Intended Audience: Humanity and Urantia 
 
-According to _The Urantia Book_, there are at least three basic types of revelatory experience: personal, racial, and planetary. The personal and racial dimensions are referenced in the context of how the divine spirit(s) impact mortal existence. “_We know [this] by three phenomena…religious faith; second, by revelation—personal and racial; and third, by the…extraordinary…reactions to the material environment…._” [[UB 101:3.17](/en/The_Urantia_Book/101#p3_17)] (PP. 1108-09) _The Urantia Book_ is described within as a celestial “_gift_” of revelation to all of humanity on Urantia. “_The Urantia Papers…constitute the most recent presentation of truth to the mortals of Urantia._” [[UB 92:4.9](/en/The_Urantia_Book/92#p4_9)] 
+According to _The Urantia Book_, there are at least three basic types of revelatory experience: personal, racial, and planetary. The personal and racial dimensions are referenced in the context of how the divine spirit(s) impact mortal existence. “_We know [this] by three phenomena…religious faith; second, by revelation—personal and racial; and third, by the…extraordinary…reactions to the material environment…._” [[UB 101:3.17](/en/The_Urantia_Book/101#p3_17)] _The Urantia Book_ is described within as a celestial “_gift_” of revelation to all of humanity on Urantia. “_The Urantia Papers…constitute the most recent presentation of truth to the mortals of Urantia._” [[UB 92:4.9](/en/The_Urantia_Book/92#p4_9)] 
 
 I presume all students of _The Urantia Book_ make personal interpretations and applications of the revelatory text to their individual lives. It is natural to do so. But the celestial narrative was not written for individual persons per se, albeit it may be viewed that way by some. Nor were the Urantia Papers designed for any particular race (or tribe or nation), but for all races, all peoples. 
 
 It was written to appeal to humanity, civilizations, and _The Urantia Book_ and Its Miss ion cultures, in other words, all Urantians. I would argue that this is hardly a moot point. There are those who refer only to readers of the book as “_Urantians._” I believe that this is an error. The term, “_Urantian,_” certainly applies to every mortal born in this world. This is the meaning I attach to “_Urantian._” I think this error reflects an unfortunate tendency to approximate the “_chosen-people syndrome._” Such a mindset assigns special value and significance to a group. This kind of thinking may have a wider attraction than the designation above. I will address that problem later on in this essay. 
 
-The idea of the “_Gift of Revelation_” as planetary in its nature is supported in other places in the book. One of them is the listing of composite religions. “_On Urantia, evolutionary and revelatory religions are progressing side by side while they blend and coalesce into the diversified theologic systems found in the world in the times of the inditement of these papers. These religions, the religions of twentiethcentury Urantia, may be enumerated as follows: 
+The idea of the “_Gift of Revelation_” as planetary in its nature is supported in other places in the book. One of them is the listing of composite religions. “_On Urantia, evolutionary and revelatory religions are progressing side by side while they blend and coalesce into the diversified theologic systems found in the world in the times of the inditement of these papers. These religions, the religions of twentiethcentury Urantia, may be enumerated as follows:_” 
 
-> 1. Hinduism—the most ancient 
+> 1. Hinduism—the most ancient.
 > 
-> 2. The Hebrew religion 
+> 2. The Hebrew religion.
 > 
-> 3. Buddhism 
+> 3. Buddhism.
 > 
-> 4. The Confucian teachings 
+> 4. The Confucian teachings.
 > 
-> 5. The Taoist beliefs 
+> 5. The Taoist beliefs.
 > 
-> 6. Zoroastrianism 
+> 6. Zoroastrianism.
 > 
-> 7. Shinto 
+> 7. Shinto.
 > 
-> 8. Jainism 
+> 8. Jainism.
 > 
-> 9.  Christianity 
+> 9.  Christianity.
 > 
-> 10. Islam 
+> 10. Islam.
 > 
-> 11. Sikhism—the most recent._” [UB 92:6.2-12](/en/The_Urantia_Book/92#p6_2)
+> 11. Sikhism—the most recent._” [UB 92:6.2-13](/en/The_Urantia_Book/92#p6_2)
 
 It seems to me that the Melchizedek who authored this paper is expressing the spiritual relevance of all religion in the progressive evolutionary civilization on Urantia. I believe the celestial government of Urantia wants all sincere religious faiths lifted up through revelatory presentations as led by the divine spirit(s). This listing of composite religions reminds me of the religions complied by Ganid and Jesus. [UB 131:1.10](/en/The_Urantia_Book/131#p1_10) What impresses me about their work was the supreme spiritual value they placed on the several religions, including “_Our Religion,_” Ganid postulated from the tutoring of Jesus. Comparative religion reinforces the long view, which in turn allows us to keep our eye on the ball, to employ a baseball metaphor. The revelatory message shows respect to the wisdom-spiritual traditions worldwide, while aiming to enlighten the makeup of evolutionary religion, helping to grow the mortal consciousness of truth. 
 
@@ -64,7 +64,7 @@ Is the name of our planet, “_Urantia,_” derived from the local universe lang
 
 Herein lays a fault line in thinking about the dissemination of _The Urantia Book_ and its teachings. I refer to the practice of targeting one religion as being more viable for presenting _The Urantia Book_, rather than craft an approach that recognizes the spiritual equality across human religious experiences. One might be forgiven for supposing that the practice of pitching to one religious tradition over or against others could convey the impression—to non-readers— that the Fifth Epochal Revelation contains a thread of religious favoritism. 
 
-Disagreements over how best to present the teachings of _The Urantia Book_ seem to stem from the tension between evolutionary behavior and revelatory knowledge. “_Evolutionary religion is sentimental….Revelatory religion is propounded by the real spiritual world; it is the response of the superintellectual cosmos to the mortal hunger to believe in, and depend upon, the universal Deities. Evolutionary religion pictures the circuitous gropings of humanity in quest of truth; revelatory religion is that very truth._” [[UB 92:4.3](/en/The_Urantia_Book/92#p4_3)] Even the composite religions of today contain a mix of advancements and animal-origin norms. 
+Disagreements over how best to present the teachings of _The Urantia Book_ seem to stem from the tension between evolutionary behavior and revelatory knowledge. “_Evolutionary religion is sentimental . . . Revelatory religion is propounded by the real spiritual world; it is the response of the superintellectual cosmos to the mortal hunger to believe in, and depend upon, the universal Deities. Evolutionary religion pictures the circuitous gropings of humanity in quest of truth; revelatory religion is that very truth._” [[UB 92:4.3](/en/The_Urantia_Book/92#p4_3)] Even the composite religions of today contain a mix of advancements and animal-origin norms. 
 
 Human cultural evolution takes origin in fear and is complicated by a sense of the unknown. Celestial culture arrives as a superior force of mind-spirit facing phenomena partly of animal-origin. The task or challenge of presenting revelation to evolution is necessarily a delicate one concerning proper and effective judgment. Discretion is usually called for, to go forward in service, yet be spirit-led in doing so. We should keep the big picture in sight. I think this is the fundamental responsibility of devotees of _The Urantia Book_. Hence, the supreme importance of crafting an approach that “_lets_” the text of the revelation “_speak for itself_” and by the way the revelation is manifested in our lives, the day to day living of the Fruits of the Spirit. 
 
@@ -78,9 +78,9 @@ However, the convolution of the two strikes me as unbalanced: unwise and unsound
 
 It is not at all my intention to disparage in any way my fellow students of the revelation whom I regard as misguided, however well meaning. It is not their sincerity I question; my dispute is with their judgment. I do believe firmly that this “_Gift_” of revelation provides us with a superlative advantage for mind and soul—a magnificent opportunity to see with an eagle’s perspective (flying high up with its superior eyesight). _The Urantia Book_ gives us the chance to penetrate a paradox, The best way to understand and appreciate any present moment is to incorporate past, present, and future, integrating origin, history, and destiny. 
 
-There is a rather explicit description (the revelation’s pedagogy) in the book. It is presented as the means of comprehending any phase of universe reality. It is worth quoting at length: “_The human mind would ordinarily crave to approach the cosmic philosophy portrayed in these revelations by proceeding from the simple and the finite to the complex and the infinite, from human origins to divine destinies. But that path does not lead to spiritual wisdom. Such a procedure is the easiest path to a certain form of genetic knowledge, but at best it can only reveal man’s origin; it reveals little or nothing about his divine destiny._”
+There is a rather explicit description (the revelation’s pedagogy) in the book. It is presented as the means of comprehending any phase of universe reality. It is worth quoting at length: “_The human mind would ordinarily crave to approach the cosmic philosophy portrayed in these revelations by proceeding from the simple and the finite to the complex and the infinite, from human origins to divine destinies. But that path does not lead to spiritual wisdom. Such a procedure is the easiest path to a certain form of genetic knowledge, but at best it can only reveal man’s origin; it reveals little or nothing about his divine destiny._” [[UB 19:1.5](/en/The_Urantia_Book/19#p1_5)]
 
-> Even in the study of man’s biologic evolution on Urantia, there are grave objections to the exclusive historic approach to his present-day status and his current problems. The true perspective of any reality problem—human or divine, terrestrial or cosmic—can be had only by the full and unprejudiced study and correlation of three phases of universe reality: origin, history, and destiny. The proper understanding of these three experiential realities affords the basis for a wise estimate of the current status. [[UB 19:1.5-6](/en/The_Urantia_Book/19#p1_5)]
+> Even in the study of man’s biologic evolution on Urantia, there are grave objections to the exclusive historic approach to his present-day status and his current problems. The true perspective of any reality problem—human or divine, terrestrial or cosmic—can be had only by the full and unprejudiced study and correlation of three phases of universe reality: origin, history, and destiny. The proper understanding of these three experiential realities affords the basis for a wise estimate of the current status. [[UB 19:1.6](/en/The_Urantia_Book/19#p1_6)]
 
 Briefly, here are some of the ways this is achieved in _The Urantia Book_. The light of universal “_origins_” is revealed in the first five papers concerning our Father. “_History_” is revealed in various contexts: the Central Universe (even though it is outside of time and space as we understand them); the development of the Superuniverses and especially ours, Orvonton; the unfolding of the local universe of Nebadon; and likewise for Urantia itself. “_Destiny,_” leading ultimately to Finaliter status, is detailed throughout the universe hierarchy. All three phases of reality are personified in Michael’s bestowal life of Jesus of Nazareth. He took origin as a babe born of woman, and made history as a man among men, reaching individual destiny by gaining light and life personally. It is the revelatory narrative mainly in Part IV of _The Urantia Book_ that fills in year-by-year his glorified earthly story. It is that narrative—greater, deeper, and more universal than anything before it—that must be preserved and disseminated, thoughtfully and meaningfully, now and in the long future ahead. 
 
