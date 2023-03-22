@@ -25,6 +25,7 @@ class Book {
 			paperTitle: 'h1[id=U{paperIndex}_0_0]',
 			secs: 'h2',
 			pars: 'p',
+			titlesFile: /02-.+html/,
 			languages: ['bg', 'cs', 'da', 'de', 'en', 'es', 'es-1993', 'et',
 				'fi', 'fr', 'hu', 'id', 'it', 'lt', 'nl', 'pl', 'pt', 'ro',
 				'ru', 'sv', 'tr']
@@ -34,6 +35,7 @@ class Book {
 			paperTitle: 'h3',
 			secs: 'h4',
 			pars: 'p',
+			titlesFile: /FM_Titles.htm/,
 			languages: ['el']
 		},
 		{
@@ -41,6 +43,7 @@ class Book {
 			paperTitle: 'h3',
 			secs: 'h4',
 			pars: 'p',
+			titlesFile: /FM_Titles.htm/,
 			languages: ['fa', 'ko']
 		},
 		{
@@ -48,6 +51,7 @@ class Book {
 			paperTitle: 'h1:last',
 			secs: 'h4',
 			pars: 'p',
+			titlesFile: /FM_Titles.htm/,
 			languages: ['he', 'ja']
 		}
 	];
@@ -1293,6 +1297,45 @@ class Book {
 		});
 	};
 
+	readAuthorsFromHTML = (dirPath) => {
+		return new Promise((resolve, reject) => {
+			fs.readdir(dirPath, (err, files) => {
+				const config = this.HTMLconfigs
+					.find(c => c.languages.indexOf(this.language) != -1);
+				if (err) {
+					reject([this.getError(this.language, 'folder_not_exists', 
+						dirPath)]);
+					return;
+				}
+				const file = files.find(filename => {
+					return config.titlesFile.test(filename);
+				});
+				if (!file) {
+					reject([this.getError(this.language, 'file_not_exists', 
+						'"Titles"')])
+					return;
+				}
+				const filePath = path.join(dirPath, file);
+				fs.readFile(filePath, (errFile, buf) => {
+					if (errFile) {
+						reject([errFile]);
+						return;
+					}
+					const content = buf.toString();
+					try {
+						const $ = cheerio.load(content);
+						const authors = this.getAuthorsFromHTML($, $('tr'));
+						//Write authors
+						this.papers.forEach((p,i) => p.author = authors[i]);
+						resolve(null);
+					} catch (err) {
+						reject([err]);
+					}
+				});
+			});
+		});
+	};
+
 	/**
 	 * Returns an array of section objects from the given HTML. Section zero
 	 * is not included.
@@ -1328,6 +1371,19 @@ class Book {
 				pars: []
 			});
 		};
+		return result;
+	};
+
+	getAuthorsFromHTML = ($, nodes) => {
+		let i, node, result = [], index, author;
+		for (i = 0; i < nodes.length; i++) {
+			node = nodes[i];
+			index = $($(node).find('td a')[0]).html();
+			author = $($(node).find('td')[2]).html();
+			if (index && author && !isNaN(parseInt(index))) {
+				result[parseInt(index)] = author;
+			}
+		}
 		return result;
 	};
 
