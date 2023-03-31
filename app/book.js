@@ -26,6 +26,10 @@ class Book {
 			secs: 'h2',
 			pars: 'p',
 			titlesFile: /02-.+html/,
+			authors: [
+				{item: 'tr', index: ['td a', 0], author: ['td', 2]},
+				{item: 'p', index: ['span', 0], author: ['span', 2]}
+			],
 			languages: ['bg', 'cs', 'da', 'de', 'en', 'es', 'es-1993', 'et',
 				'fi', 'fr', 'hu', 'id', 'it', 'lt', 'nl', 'pl', 'pt', 'ro',
 				'ru', 'sv', 'tr']
@@ -1253,6 +1257,18 @@ class Book {
 					//Add paragraphs
 					for (i = 0; i < pars.length; i++) {
 						p = pars[i];
+						//Special case of par with asterisks in document 144
+						if (paperIndex == 144 && $(p).html() === '* * *') {
+							pdata = {
+								par_ref: `${pId[0]}:${pId[1]}.${pId[2] + 1}`,
+								par_pageref: pdata.par_pageref,
+								par_content: '*  *  *',
+								hide_ref: true
+							};
+							pId = this.getRef(pdata.par_ref);
+							sec.pars.push(pdata);
+							continue;
+						}
 						pdata = this.getParFromHTML($, p, config, paperIndex);
 						if (!pdata) {
 							continue;
@@ -1324,9 +1340,9 @@ class Book {
 					const content = buf.toString();
 					try {
 						const $ = cheerio.load(content);
-						const authors = this.getAuthorsFromHTML($, $('tr'));
+						const authors = this.getAuthorsFromHTML($, config);
 						//Write authors
-						this.papers.forEach((p,i) => p.author = authors[i]);
+						this.papers.forEach(p => p.author = authors[p.paper_index]);
 						resolve(null);
 					} catch (err) {
 						reject([err]);
@@ -1374,12 +1390,19 @@ class Book {
 		return result;
 	};
 
-	getAuthorsFromHTML = ($, nodes) => {
+	getAuthorsFromHTML = ($, config) => {
 		let i, node, result = [], index, author;
-		for (i = 0; i < nodes.length; i++) {
-			node = nodes[i];
-			index = $($(node).find('td a')[0]).html();
-			author = $($(node).find('td')[2]).html();
+		const nodes = config.authors.map(a => $(a.item));
+		const n = nodes.findIndex(nn => nn.length > 0);
+		if (n === -1) return result;
+		const indexsel = config.authors[n].index[0];
+		const indexpos = config.authors[n].index[1];
+		const authorsel = config.authors[n].author[0];
+		const authorpos = config.authors[n].author[1];
+		for (i = 0; i < nodes[n].length; i++) {
+			node = nodes[n][i];
+			index = $($(node).find(indexsel)[indexpos]).html();
+			author = $($(node).find(authorsel)[authorpos]).html();
 			if (index && author && !isNaN(parseInt(index))) {
 				result[parseInt(index)] = author;
 			}
