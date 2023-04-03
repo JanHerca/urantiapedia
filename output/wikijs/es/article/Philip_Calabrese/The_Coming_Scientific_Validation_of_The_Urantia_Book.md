@@ -57,7 +57,7 @@ a) __Pangea y la deriva continental.__ Pangea («todas las tierras») fue la teo
 
 Como señaló T. Bishop[^6] «La reacción a la teoría de Wegener fue casi uniformemente hostil y, a menudo, excepcionalmente dura y mordaz».
 
-El Museo de Paleontología de la Universidad de California escribe: «Alfred Wegener (1880–1930). En 1929, cuando las ideas de Wegener comenzaron a ser descartadas, Arthur Holmes elaboró ​​​​una de las muchas hipótesis de Wegener; la idea de que el manto sufre convección térmica». «La idea de Holmes no recibió atención hasta la década de 1960».[^7]
+El Museo de Paleontología de la Universidad de California escribe: «Alfred Wegener (1880-1930). En 1929, cuando las ideas de Wegener comenzaron a ser descartadas, Arthur Holmes elaboró ​​​​una de las muchas hipótesis de Wegener; la idea de que el manto sufre convección térmica». «La idea de Holmes no recibió atención hasta la década de 1960».[^7]
 
 Pero ya en 1946 y antes, y en 1955 a más tardar, _El Libro de Urantia_ estaba registrado diciendo: _Hace *750.000.000* años empezaron a aparecer las primeras fracturas en la masa continental, como por ejemplo la gran grieta norte-sur, que más tarde dejó entrar las aguas del océano y preparó el camino para la deriva hacia el oeste de los continentes de América del Norte y del Sur, incluyendo a Groenlandia. La larga hendidura este-oeste separó a África de Europa y apartó del continente asiático a las masas terrestres de Australia, las Islas del Pacífico y la Antártida._ [[LU 57:8.23](/es/The_Urantia_Book/57#p8_23)]
 
@@ -270,7 +270,7 @@ Charles Austerberry, de la Universidad de Creighton, describe la historia del un
 > * Antes de una milésima de segundo, se forman protones y neutrones.
 > * En unos pocos minutos, se forman núcleos primarios.
 > * Toma casi un millón de años (al menos 300,000) para que el universo se enfríe a 3,000 grados Kelvin, suficiente para que se formen átomos (principalmente hidrógeno y helio). La opacidad del universo cayó abruptamente.
-> * Hace 10–14b. años—emergen las estrellas primarias; evolucionan las galaxias gigantes; los elementos más pesados ​​se forman en las estrellas y en las explosiones de supernovas.
+> * Hace 10-14b. años—emergen las estrellas primarias; evolucionan las galaxias gigantes; los elementos más pesados ​​se forman en las estrellas y en las explosiones de supernovas.
 > * Hace 4.5 b. años—nuestro sol, planetas y tierra nacieron
 > * Hace 4 b. años: emergen las primeras células procariotas
 > * Hace 2 b. años: emergen las primeras células eucariotas
@@ -658,7 +658,7 @@ Cada Espíritu Maestro tiene su propio superuniverso. Pertenecemos al séptimo s
 
 [^27]: Stefan Tallqvist, _El modelo electrónico_, 2002, http://www.vtt.fi/tte/samba/staff/st/electron.html.
 
-[^28]: John S. Bell, _Sobre la paradoja de Einstein-Podolsky-Rosen_, Física 1, 1964, 195–200.
+[^28]: John S. Bell, _Sobre la paradoja de Einstein-Podolsky-Rosen_, Física 1, 1964, 195-200.
 
 [^29]: para obtener más información, consulte Philip Calabrese, _Toward a More Natural Expression of Quantum Logic with Boolean Fractions_, J. of Philosophical Logic, aceptado para su publicación, 2005.
 

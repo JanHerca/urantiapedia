@@ -17,12 +17,12 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 | Título                                                                                                                                  | Autor            | Etiquetas |
-| -------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---- |
-| [Al borde de la época más asombrosa y apasionante](/es/article/Carolyn_Kendall/On_the_Brink_of_The_Most_Amazing)                       | Carolyn Kendall   |      |
-| [Deja que tu alma decida](/es/article/Richard_S_Omura/Let_our_Soul_Decide)                                                             | Richard S. Omura  |      |
-| [Los documentos de Urantia desde una perspectiva judía](/es/article/Martin_Greenhut/The_Urantia_Papers_From_a_Jewish_Perspective)      | Martin Greenhut   |      |
-| [Los conceptos de confianza y esperanza en _El Libro de Urantia_](/es/article/Marilyn_Kulieke/Trust_and_Hope_in_The_Urantia_Book)      | Marilyn Kulieke   |      |
-| [48 cromosomas: ¿estamos haciendo las preguntas correctas?](/es/article/Ken_Glasziou/48_Chromosomes_Are_We_Asking_the_Right_Questions) | Ken Glasziou      |      |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | --------- |
+| [Al borde de la época más asombrosa y apasionante](/es/article/Carolyn_Kendall/On_the_Brink_of_The_Most_Amazing)                       | Carolyn Kendall   |           |
+| [Deja que tu alma decida](/es/article/Richard_S_Omura/Let_our_Soul_Decide)                                                             | Richard S. Omura  |           |
+| [Los documentos de Urantia desde una perspectiva judía](/es/article/Martin_Greenhut/The_Urantia_Papers_From_a_Jewish_Perspective)      | Martin Greenhut   |           |
+| [Los conceptos de confianza y esperanza en _El Libro de Urantia_](/es/article/Marilyn_Kulieke/Trust_and_Hope_in_The_Urantia_Book)      | Marilyn Kulieke   |           |
+| [48 cromosomas: ¿estamos haciendo las preguntas correctas?](/es/article/Ken_Glasziou/48_Chromosomes_Are_We_Asking_the_Right_Questions) | Ken Glasziou      |           |
 
 <br>
 
@@ -35,15 +35,15 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 
-| Título                                                                                                                                                  | Autor            | Etiquetas |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- | ---- |
-| [El desafío del siglo XXI](/es/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century_2)                                                  | Meredith Sprunger |      |
-| [Sobre cómo enfrentar el cambio milenario](/es/article/Byron_Belitsos/On_facing_millenial_change)                                                      | Byron Belitsos    |      |
-| [Misiones magistrales](/es/article/Behzad_Sarmast/Magisterial_missions)                                                                                | Behzad Sarmast    |      |
-| [Primavera: un estudio del futuro](/es/article/Henry_Begemann/Springtime_a_study_of_the_future)                                                        | Henry Begemann    |      |
-| [¿Adónde vas, mujer?](/es/article/Jeanne_Melchior/Whither_Goest_Thou_Woman)                                                                            | Jeanne Melchior   |      |
-| [Los siete círculos psíquicos](/es/article/Linda_Buselli/The_seven_psychic_circles)                                                                    | Linda Buselli     |      |
-| [Sobre la eliminación de la barrera a una discusión civilizada de la eugenesia](/es/article/Stephen/On_removing_the_barrier_to_discussion_of_eugenics) | Stephen           |      |
+| Título                                                                                                                                                 | Autor             | Etiquetas |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- | --------- |
+| [El desafío del siglo XXI](/es/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century_2)                                                  | Meredith Sprunger |           |
+| [Sobre cómo enfrentar el cambio milenario](/es/article/Byron_Belitsos/On_facing_millenial_change)                                                      | Byron Belitsos    |           |
+| [Misiones magistrales](/es/article/Behzad_Sarmast/Magisterial_missions)                                                                                | Behzad Sarmast    |           |
+| [Primavera: un estudio del futuro](/es/article/Henry_Begemann/Springtime_a_study_of_the_future)                                                        | Henry Begemann    |           |
+| [¿Adónde vas, mujer?](/es/article/Jeanne_Melchior/Whither_Goest_Thou_Woman)                                                                            | Jeanne Melchior   |           |
+| [Los siete círculos psíquicos](/es/article/Linda_Buselli/The_seven_psychic_circles)                                                                    | Linda Buselli     |           |
+| [Sobre la eliminación de la barrera a una discusión civilizada de la eugenesia](/es/article/Stephen/On_removing_the_barrier_to_discussion_of_eugenics) | Stephen           |           |
 
 <br>
 
@@ -55,7 +55,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <img src="/image/article/Herald_covers/Herald1999Winter.jpg">
 </figure>
 
-| Título                                                                                                                                 | Autor                  | Etiquetas                                   |
+| Título                                                                                                                                | Autor                   | Etiquetas                              |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | -------------------------------------- |
 | [La Familia: Lugar de Nacimiento de los Ciudadanos Cósmicos](/es/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizens)        | Paul Snider             |                                        |
 | [Dos cosmologías — La astronomía y El Libro de Urantia](/es/article/Irwin_Ginsburgh/Two_Cosmologies_Astronomy_and_The_Urantia_Book)   | Irwin Ginsburgh         | The Urantia Book, Astronomy, Cosmology |
@@ -316,7 +316,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 | Título                                                                                                                                                     | Autor                            | Etiquestas |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ---- |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ---------- |
 | [La primera revelación de época en las tradiciones indígenas americanas](/es/article/Dave_Holt/The_First_Epochal_Revelation_in_American_Indian_Traditions) | Dave Holt                        |
 | [El poder del nombre de Jesús](/es/article/Charles_Laurence_Olivea/The_Power_of_The_Name_of_Jesus)                                                         | Charles Laurence Olivea          |
 | [Maquiventa Melquisedec: uno de los misterios de la historia](/es/article/Linda_Buselli/Machiventa_Melchizedek_One_of_Historys_Mysteries)                  | Linda Buselli                    |
@@ -334,7 +334,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 | Título                                                                                                                                                 | Autor            | Etiquestas |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---- |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ---------- |
 | [Almas con Propósito: El Proyecto del Credo Personal y el Impulso Central](/es/article/John_Creger/Souls_on_Purpose_The_Personal_Creed_Project)        | John Creger      |
 | [Espiritualidad Evolutiva](/es/article/Steve_McIntosh/Evolutionary_Spirituality)                                                                       | Steve Macintosh  |
 | [Urantia, 606 de Satania](/es/article/Israel_Dix/Urantia_606_of_Satania)                                                                               | Israel Dix       |
@@ -354,8 +354,8 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <img src="/image/article/Herald_covers/Herald2013.jpg">
 </figure>
 
-| Título                                                                                                                                                                                                  | Autor              | Etiquestas |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ---- |
+| Título                                                                                                                                                                                                  | Autor               | Etiquestas |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ---------- |
 | [Genética espiritual](/es/article/Stephen_Dreier/Spiritual_Genetics)                                                                                                                                    | Steve Dreier        |
 | [Religión de Uno](/es/article/Gary_Deinstadt/Religion_of_One)                                                                                                                                           | Rev. Gary Deinstadt |
 | [Una cosmología de la raza](/es/article/Charles_Laurence_Olivea/A_Cosmology_of_Race)                                                                                                                    | Charles Olivea      |
@@ -374,8 +374,8 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <img src="/image/article/Herald_covers/Herald2014.jpg">
 </figure>
 
-| Título                                                                                                                                                                                                 | Autor          | Etiquestas |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- | ---- |
+| Título                                                                                                                                                                                                 | Autor           | Etiquestas |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- | ---------- |
 | [La rehabilitación de Urantia](/es/article/Carolyn_Kendall/The_Rehabilitation_of_Urantia)                                                                                                              | Carolyn Kendall |
 | [El viaje que sigue a la muerte mortal](/es/article/William_S_Sadler_Jr/The_Journey_Following_Mortal_Death)                                                                                            | Bill Sadler Jr. |
 | [En busca de la supremacía: ¿Cómo podrían colaborar los maestros Serafines y los seres humanos?](/es/article/Bob_Debold/Pursuing_Supremacy_How_Might_the_Master_Seraphim_and_Human_Beings_Collaborate) | Bob Debold      |
@@ -394,16 +394,16 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <img src="/image/article/Herald_covers/Herald2015.jpg">
 </figure>
 
-| Título                                                                                                                  | Autor                  | Etiquestas |
-| ---------------------------------------------------------------------------------------------------------------------- | ----------------------- | ---- |
-| [Liderazgo eficaz de los grupos de estudio: alumbrando el camino](/es/article/David_Kulieke/Effective_Study_Group_Leadership)                         | David Kulieke           |
-| [¿Podemos tener un estándar universal de moralidad?](/es/article/Dave_Holt/Can_We_Have_a_Universal_Standard_of_Morality)     | Dave Holt               |
-| [Destino de los Migueles Maestros](/es/article/William_S_Sadler_Jr/Destiny_of_the_Master_Michaels)                      | Bill Sadler Jr.         |
-| [El libro de Urantia y su misión](/es/article/Charles_Laurence_Olivea/The_Urantia_Book_and_Its_Mission)               | Charles Laurence Olivea |
-| [¿Es El libro de Urantia un texto sagrado?](/es/article/David_Kantor/Is_The_Urantia_Book_a_Sacred_Text)                        | David Kantor            |
+| Título                                                                                                                                    | Autor                   | Etiquestas |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ---------- |
+| [Liderazgo eficaz de los grupos de estudio: alumbrando el camino](/es/article/David_Kulieke/Effective_Study_Group_Leadership)             | David Kulieke           |
+| [¿Podemos tener un estándar universal de moralidad?](/es/article/Dave_Holt/Can_We_Have_a_Universal_Standard_of_Morality)                  | Dave Holt               |
+| [Destino de los Migueles Maestros](/es/article/William_S_Sadler_Jr/Destiny_of_the_Master_Michaels)                                        | Bill Sadler Jr.         |
+| [El libro de Urantia y su misión](/es/article/Charles_Laurence_Olivea/The_Urantia_Book_and_Its_Mission)                                   | Charles Laurence Olivea |
+| [¿Es El libro de Urantia un texto sagrado?](/es/article/David_Kantor/Is_The_Urantia_Book_a_Sacred_Text)                                   | David Kantor            |
 | [Sesenta y cuatro conceptos originales de El libro de Urantia](/es/article/William_S_Sadler/Sixty_Four_Original_Urantia_Book_Concepts)    | William S. Sadler       |
-| [Sociedad en evolución: caos, progreso y orden](/es/article/Lawrence_Schkade/Society_Evolving_Chaos_Progress_and_Order) | Lawrence Schkade        |
-| [La importancia del ministerio cristiano](/es/article/Preston_Thomas/The_Importance_of_Christian_Ministry)                | Preston Thomas          |
+| [Sociedad en evolución: caos, progreso y orden](/es/article/Lawrence_Schkade/Society_Evolving_Chaos_Progress_and_Order)                   | Lawrence Schkade        |
+| [La importancia del ministerio cristiano](/es/article/Preston_Thomas/The_Importance_of_Christian_Ministry)                                | Preston Thomas          |
 
 <br>
 
@@ -415,16 +415,16 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <img src="/image/article/Herald_covers/Herald2016.jpg">
 </figure>
 
-| Título                                                                                                                                                                        | Autor                                | Etiquestas |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | ---- |
-| [A Circle of Kindred Spirits](/es/article/Bobbie_Dreier_and_Francis_Oliver_Lynn/A_Circle_of_Kindred_Spirits)                                                                 | Bobbie Dreier and Francis Oliver Lynn |
-| [Listen Up Grandparents and YaYAs](/es/article/Sara_Blackstock/Listen_Up_Grandparents_and_YaYAs)                                                                             | Sara Blackstock                       |
-| [Early Persecutions of Jesus’ Followers and Dispersion of the Apostles](/es/article/Lawrence_J_Bowman/Early_Persecutions_of_Jesus_Followers_and_Dispersion_of_the_Apostles)  | Lawrence J. Bowman                    |
-| [Thoughts on the Bestowals of Personality and the Thought Adjuster](/es/article/Kermit_Anderson/Thoughts_on_the_Bestowals_of_Personality_and_the_Thought_Adjuster)           | Kermit Anderson                       |
-| [Mindedness and Spirituality, Comments on the Absolutes](/es/article/William_S_Sadler_Jr/Mindedness_and_Spirituality_Comments_on_the_Absolutes)                              | Bill Sadler Jr.                       |
-| [Why Should You Support a Urantia Organization Like The Urantia Book Fellowship?](/es/article/Paula_Thompson/Why_Should_You_Support_a_Urantia_Organization)                  | Paula Thompson                        |
-| [Top/Down](/es/article/Gary_Deinstadt/Top_Down)                                                                                                                              | Gary Deinstadt                        |
-| [The Nature of Personal Reality](/es/article/Byron_Belitsos/The_Nature_of_Personal_Reality)                                                                                  | Byron Belitsos                        |
+| Título                                                                                                                                                                       | Autor                                 | Etiquestas |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | ---------- |
+| [Un círculo de espíritus afines](/es/article/Bobbie_Dreier_and_Francis_Oliver_Lynn/A_Circle_of_Kindred_Spirits)                                                                 | Bobbie Dreier and Francis Oliver Lynn |
+| [Escuchen a los abuelos y las YaYAs](/es/article/Sara_Blackstock/Listen_Up_Grandparents_and_YaYAs)                                                                             | Sara Blackstock                       |
+| [Primeras persecuciones de los seguidores de Jesús y dispersión de los apóstoles](/es/article/Lawrence_J_Bowman/Early_Persecutions_of_Jesus_Followers_and_Dispersion_of_the_Apostles)  | Lawrence J. Bowman                    |
+| [Pensamientos sobre los otorgamientos de la personalidad y el Ajustador del pensamiento](/es/article/Kermit_Anderson/Thoughts_on_the_Bestowals_of_Personality_and_the_Thought_Adjuster)           | Kermit Anderson                       |
+| [Mente y espiritualidad, comentarios sobre los absolutos](/es/article/William_S_Sadler_Jr/Mindedness_and_Spirituality_Comments_on_the_Absolutes)                              | Bill Sadler Jr.                       |
+| [¿Por qué debería apoyar a una organización de Urantia como The Urantia Book Fellowship?](/es/article/Paula_Thompson/Why_Should_You_Support_a_Urantia_Organization)                  | Paula Thompson                        |
+| [Arriba/Abajo](/es/article/Gary_Deinstadt/Top_Down)                                                                                                                              | Gary Deinstadt                        |
+| [La naturaleza de la realidad de la personalidad](/es/article/Byron_Belitsos/The_Nature_of_Personal_Reality)                                                                                  | Byron Belitsos                        |
 
 <br>
 

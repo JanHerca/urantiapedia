@@ -30,4 +30,4 @@ Ahora han surgido más problemas para el modelo estándar debido a las investiga
 
 [^3]: https://es.wikipedia.org/wiki/Nuu-chah-nulth
 
-[^4]: R H Ward, B L Frazier, K Dew-Jager, and S Pääbo, _Extensive mitochondrial diversity within a single Amerindian tribe_. PNAS 1991 Oct 1; 88(19): 8720–8724. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC52581/
+[^4]: R H Ward, B L Frazier, K Dew-Jager, and S Pääbo, _Extensive mitochondrial diversity within a single Amerindian tribe_. PNAS 1991 Oct 1; 88(19): 8720-8724. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC52581/

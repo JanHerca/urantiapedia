@@ -40,7 +40,7 @@ So, from this experience I learned:
 1. If possible, allow others to participate. They want to feel like they’re part of it. Not on the outside looking in. 
 2. Create an atmosphere of trust. Make them feel as if they were guests in your own home. 
 3. Be positive, respectfully humorous, humble and loving. Remember, they’re there to be inspired, not corrected. 
-4. Stay away from minutiae; keep out of _The Urantia Book_ minefield :) 
+4. Stay away from minutiae; keep out of _The Urantia Book_ minefield.
 5. If applicable, always try to answer from the top down approach. 
 6. Follow the pattern of Machiventa & Michael; become one of them. Let them get to know you and lovingly do all that you can to meet them where they are. 
 7. I’ve come to realize that a lot more people want to know about this revelation than I thought. I think we just have to get better at creating the atmosphere for the gifts of God to do their job. 

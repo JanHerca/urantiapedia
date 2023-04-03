@@ -497,7 +497,7 @@ T = 1/H~0~ = [(3,262) \* (3,00) \* 10^11^ año / 72] = 1,36 \* 10^10^ año = 13,
 
 [^9]: Conocido como el «gran atractor» http://www.world-science.net/exclusives/060419_attractorfrm.htm
 
-[^10]: John S Bell, «Sobre el problema de las variables ocultas en la mecánica cuántica» Rev. Modern Phys. 38 1966 447 –45 2. N. David Mermin, «Variables ocultas y los dos teoremas de John Bell» Rev. Modern Phys. 65 (1993), núm. 3, parte 1, 803–815.
+[^10]: John S Bell, «Sobre el problema de las variables ocultas en la mecánica cuántica» Rev. Modern Phys. 38 1966 447 –45 2. N. David Mermin, «Variables ocultas y los dos teoremas de John Bell» Rev. Modern Phys. 65 (1993), núm. 3, parte 1, 803-815.
 
 [^11]: teoría de Broglie-Bohm, el modelo de onda piloto, la interpretación causal de la mecánica cuántica http://plato.stanford.edu/entries/qm-bohm/
 
