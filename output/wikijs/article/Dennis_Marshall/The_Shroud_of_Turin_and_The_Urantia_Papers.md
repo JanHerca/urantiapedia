@@ -25,7 +25,7 @@ Myself, I was in a quandary. The radiocarbon dating, though convincing, didn’t
 
 Because I remained torn between two seemingly irreconcilable scientific positions, I tried to keep abreast of any new research of the Shroud that might help clarify the situation, but none of the explanations altered my uncertainty regarding the two seemingly contradictory scientific studies.   
 
-## ## Another Look At The Shroud 
+## Another Look At The Shroud 
 
 At some point I read an account about how Dr. Raymond Rogers, one of the principal participants and skeptics of the STURP study, had changed his mind about the credibility of the original radiocarbon dating. Apparently, two French investigators who work with fabric realized that the tested section of the Shroud was actually an amalgam of different materials. If you look at the Shroud’s full-body frontal view, the area that the sample was cut from was the bottom left of the Shroud (bottom left of image). Perhaps those in charge thought it was the least damaging area to remove from the Shroud, but as you look at the image you can see that nothing fluoresces in that lower section of the Shroud. It is essentially a data free section of the data rich Shroud. 
 
@@ -53,7 +53,7 @@ Advice of Immanual to Michael (Jesus)
 
 > ...Meanwhile the four soldiers assigned to the Master’s crucifixion, as was the custom, had divided his clothes among them, one taking the sandals, one the turban, one the girdle, and the fourth the cloak. This left the tunic, or seamless vestment reaching down to near the knees, to be cut up into four pieces, but when the soldiers saw what an unusual garment it was, they decided to cast lots for it. Jesus looked down on them while they divided his garments,and the thoughtless crowd jeered at him. 
 > 
-> It was well that the Roman soldiers took possession of the Master’s clothing. Otherwise, if his followers had gained possession of these garments, they would have been tempted to resort to superstitious relic worship. The Master desired that his followers should have nothing material to associate with his life on earth. He wanted to leave mankind only the memory of a human life dedicated to the high spiritual ideal of being consecrated to doing the Father’s will. (my emphasis) [[UB 187:2.7-8](/en/The_Urantia_Book/187#p2_7)]
+> It was well that the Roman soldiers took possession of the Master’s clothing. Otherwise, if his followers had gained possession of these garments, they would have been tempted to resort to superstitious relic worship. The Master desired that his followers should have nothing material to associate with his life on earth. He wanted to leave mankind only the memory of a human life dedicated to the high spiritual ideal of being consecrated to doing the Father’s will. (my emphasis) [[UB 187:2.8-9](/en/The_Urantia_Book/187#p2_8)]
 
 These passages make it clear that if the Shroud is genuine then it is a genuine mistake. Since the ministering spirits had to seek permission to remove Jesus’ body, I think it’s safe to say that they didn’t have carte blanche to interject as they pleased and were powerless to remove the burial cloths. There are many instances in _The Urantia Book_ where the ministering spirits were not permitted to remediate problems in the mortal realm (the frog story), especially when the free will of humans was involved. 
 

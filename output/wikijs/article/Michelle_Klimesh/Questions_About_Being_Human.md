@@ -17,7 +17,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 > Everywhere 
 > Everywhere  
 
-CS Lewis described the earth as enemy-occupied territory. There is no doubt that Urantia is a tough neighborhood. Lucifer’s betrayal was followed by Adam and Eve’s default, which was followed by the torture and murder of our Creator Son... clearly, this is not a normal planet. 
+C.S. Lewis described the earth as enemy-occupied territory. There is no doubt that Urantia is a tough neighborhood. Lucifer’s betrayal was followed by Adam and Eve’s default, which was followed by the torture and murder of our Creator Son... clearly, this is not a normal planet. 
 
 We face horrific problems. 
 
@@ -45,7 +45,7 @@ Our human fears try to protect us by building walls around our hearts, our thoug
 
 Anything that tends to move us toward separation from each other, even our own human instincts, should be suspect. The influence from these animal defense mechanisms is powerful and pervasive; it should not be underestimated. 
 
-Why did God set things up this way? I don’t know. Paper [3:5] (PP. 50-52) describes how evolutionary life is beset by certain inevitabilities—hardships, error, predicaments, social inequalities—challenges that help us develop into the creatures God needs us to become. Since God allows us to struggle with this phase of development, we must assume that our participation in the system accrues to some permanent spiritual value. The difficulties we face here are the fodder for our own spiritual growth. 
+Why did God set things up this way? I don’t know. Paper [UB 3:5](/en/The_Urantia_Book/3#p5) describes how evolutionary life is beset by certain inevitabilities—hardships, error, predicaments, social inequalities—challenges that help us develop into the creatures God needs us to become. Since God allows us to struggle with this phase of development, we must assume that our participation in the system accrues to some permanent spiritual value. The difficulties we face here are the fodder for our own spiritual growth. 
 
 As depressing as it sounds, the fact that our problems are caused by people is good news. If humans have the power to cause these problems, we also have the power to solve them. 
 
@@ -72,6 +72,7 @@ First, we are to love God with our whole hearts and souls and minds and strength
 > You cannot truly love your fellows by a mere act of the will. Love is only born of thoroughgoing understanding of your neighbor’s motives and sentiments. It is not so important to love all men today as it is that each day you learn to love one more human being. If each day or each week you achieve an understanding of one more of your fellows, and if this is the limit of your ability, then you are certainly socializing and truly spiritualizing your personality. Love is infectious, and when human devotion is intelligent and wise, love is more catching than hate. But only genuine and unselfish love is truly contagious. If each mortal could only become a focus of dynamic affection, this benign virus of love would soon pervade the sentimental emotion-stream of humanity to such an extent that all civilization would be encompassed by love, and that would be the realization of the brotherhood of man. [[UB 100:4.6](/en/The_Urantia_Book/100#p4_6)]
 
 Honestly, the solution to our list of problems is that we need to fall in love with each other. We need to get to know, really know, people who are not like us. We need to deeply listen to them so well that we fall in love with them. We need to stop listening to our animal instincts and start obeying the commandment to love each other the way God loves us. We need to trust God, the same God who set up the system that allowed us to be born onto this strange planet with all of these horrible problems and difficulties. We need to trust God completely, enough that we’re willing to trust people who are not like us. Even if they are a different color than we are. Even if they are a different gender, practice a different religion, or register with a different political party; even if they aren’t perfect; even if we aren’t perfect. 
+
 The only way we are going to activate the “benign virus” is to go outside of our natural comfort zones, and get close enough to be infected. Once infected, we need to return to the people with whom we identify, and help convince them of the value of the people who are different than we are. 
 
 Humans will solve these problems as soon as we learn to love each other so well that the whole world is infected with the contagious virus of love. It’s obviously easier said than done. We may as well get started. 
@@ -84,11 +85,7 @@ _This article is a written reflection of a presentation given to the Urantia Boo
 - The condensed version : https://vimeo.com/187755204 
 - Thich Nhat Hanh: “Compassionate Listening” interview: https://www.youtube.com/watch?v=lyUxYflkhzo
 - Elizabeth Lesser:“Take the Other to Lunch” initiative https://www.ted.com/talkselizabeth_lesser_take_the_other_to_lunch  
+- Article obtained from: https://urantia-book.org/archive/newsletters/herald/
 
 > Michelle Klimesh, past President of the Fellowship, author of The Story of Everything, has been reading _The Urantia Book_ since 1974. She is a member and past President of the Golden Gate Circle; attends study groups in San Ramon and Walnut Creek; and resides alternately in San Ramon, California and Spillville, Iowa.
 {.is-info}
-
-
-## References
-
-- Article obtained from: https://urantia-book.org/archive/newsletters/herald/

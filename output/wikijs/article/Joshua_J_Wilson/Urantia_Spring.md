@@ -48,7 +48,10 @@ The key figure in this period was initially Dr. Lena Sadler. Her patient was the
 
 The heading “Prophet” as used by Strauss and Howe is not meant to apply here in a direct sense; but it was the Sadlers’ _idealism_, complemented by the support of many “soldiers of the circles,” that energized the pivotal early efforts to bring forth the Revelation. During this season, or generation, the study group of the Seventy was formed, the Urantia Foundation and the Urantia Brotherhood were created under Dr. William Sadler’s supervision, and _The Urantia Book_ came into print. The mood was high, very high, as the teachings of celestials were finding their way into the hands of individual students around the world, study groups, and the first new societies. 
 
-image Lena Sadler
+<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Joshua_J_Wilson/Urantia_Spring/004215.jpg">
+<figcaption><em>Dr. Lena Sadler.</em></figcaption>
+</figure>
 
 Strauss and Howe describe this generation as a time when, 
 
@@ -56,7 +59,10 @@ Strauss and Howe describe this generation as a time when,
 
 This seems an appropriate insight, as the defining characteristic of this period in the Urantia movement was indeed the formation of Urantia institutions. If Egypt had kept to the one-God concept, it could have been the location of Michael’s seventh bestowal. No doubt other persons were considered for their role besides the Sadlers. It is the divine purpose in historical cycles that is essential, not the places or persons.   
 
-image Dr. William S. Sadler, MD (Credit: Urantia Book Historical Society)  
+<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<img src="/image/article/Joshua_J_Wilson/Urantia_Spring/004216.jpg">
+<figcaption><em>Dr. William S. Sadler, MD (Credit: Urantia Book Historical Society).</em></figcaption>
+</figure>
 
 ## Second Season 
 
@@ -70,7 +76,10 @@ Strauss and Howe describe a Reactive generation as follows:
 
 > “This is an era when institutions are attacked in the name of personal and spiritual autonomy. Just when society is reaching its high tide of public progress, people suddenly tire of social discipline and want to recapture a sense of self-awareness, spirituality and personal authenticity.” 
 
-image
+<figure id="Figure_3" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Joshua_J_Wilson/Urantia_Spring/004217.jpg">
+<figcaption><em>Dr. Meredith Sprunger.</em></figcaption>
+</figure>
 
 Dr. Meredith Sprunger was a significant voice during this Awakening period. He was a Christian minister and college president who came to know the Sadlers as a result of his sincere interest in the Revelation. Meredith embarked on a decades- long project of sharing it with the Christian community, and served closely with the movement in a number of posts. 
 
@@ -90,7 +99,10 @@ Toward the end of this period, due to their mutual interest in college ministry,
 
 In 1981 the international triennial conference of readers was held in Snowmass, Colorado. I and many others felt like heaven had come down to earth. We had a Revelation and the happy, shining people of God to share it all with. A most inspiring preacher, Vern Bennom Grimsley, was the keynote speaker. Vern had a radio broadcast in all fifty states and some stations outside the country, as well as on the Armed Services radio network. He fit the definition of a hero archetype, and this made matters all the worse when things went badly for him, and us. 
 
-image
+<figure id="Figure_4" class="image urantiapedia image-style-align-right">
+<img src="/image/article/Joshua_J_Wilson/Urantia_Spring/004218.jpg">
+<figcaption><em>Vern Bennom Grimsley.</em></figcaption>
+</figure>
 
 Vern began receiving “messages” and warned, in apocalyptic terms, of the soon outbreak of World War III on American soil. At first many thought, “Maybe he’s on to something. Maybe he knows.” After all, it had not been that many years since the Cuban Missile Crisis. It did not take long for many in the movement to think it over and then turn away; and when the predicted war did not occur, Vern’s Family of God Foundation and his radio ministry collapsed. 
 
@@ -124,11 +136,19 @@ I would even go so far as to say that our personal and group history is, in a wa
 
 _Generational Theory_ is a starting point for considering this idea. The goal of a good historian must be to make astute observations of the patterns of history. By making such inquiries, we can better understand our past, present, and potential future within the fabric—the warp and woof—of the material and the spiritual. This is the substance of our evolving lives, both individual and group, in our finite universe experience. 
 
-## Fourth Season **Winter. Artist (Adaptive). Mood:** **_Crisis and Opportunity_****. c. 2003–2024** 
+## Fourth Season 
+
+**Winter. Artist (Adaptive). Mood:** **_Crisis and Opportunity_****. c. 2003–2024** 
 
 Winter puts the plant and animal world into crisis. Resources are scant, and stored reserves are essential for survival. The adaptive artist plies his craft whether or not the hierarchy is able and willing to help. He writes his symphonies alone by candlelight. She paints on a lonely hillside, capturing the contours of the waving wheat. The writer makes his observations and quietly commits them to paper. The dancer cannot help but dance. Lack of income or resources may perhaps only spur them on to creativity. One day, their work may be read or performed to throngs of admirers or viewed in galleries or in the media, but who knows? And sometime a real musician may appear and forever change the course of world history for good. 
 
 The concert pianist from Germany, Urs Ruchti is a good example of an artist who made an important difference during this season. He was the chief translator of The Urantia Bo o k into the German language, heading up the team that brought us Das Urantia Buch. 
+
+<figure id="Figure_5" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Joshua_J_Wilson/Urantia_Spring/004219.jpg">
+<figcaption><em>Urs Ruchti.</em></figcaption>
+</figure>
+
 
 In the Urantia community, new ties and fellowship are being fostered in many countries, and the Urantia Association International (UAI) makes plans, travels, and visits new believers around the world. It is simply the work that must be done. A surge of new and pivotal foreign translations are completed or are underway. The new Fellowship committee, YaYAs (Youth and Young Adults) has been formed, and the youth are engaged. Truthseekers has introduced many young people to love and caring in a fun environment. New websites are online. A profusion of movies, soundtracks, and media enterprises have been undertaken, mostly as independent efforts. 
 
@@ -176,7 +196,7 @@ Especially in this fourth generation we’re now in, the Artist, we would be wis
 
 Learning to draw is really a matter of learning to see—to see correctly—and that means a good deal more than merely looking with the eye.” 
 
-Prophets have also been called seers, which means “seeers.” The prophet Daniel described the great kingdoms of this world as successive empires that he saw, or envisioned, as the statue of a man. Babylon’s King Nebuchadnezzar (ruling in Daniel’s time, circa 600 B.C.) was described as the head of gold; the Persian empire as the breast and arms of silver; the Greek as the waist and thighs of bronze; and the Roman Empire as legs of iron, terminating in feet of unstable mingled iron and clay ([[UB 135:3.2](/en/The_Urantia_Book/135#p3_2)]. In Daniel’s vision, the world kingdoms, came to an end when a “rock from the mountain, not cut by human hands” struck the feet of the image, whereupon the state of the worldly kingdoms collapsed and God’s everlasting kingdom was established in the earth. John wrestled to understand this image and vision, seeking to find his place in history, which he successfully did, as the forerunner of Christ. 
+Prophets have also been called seers, which means “seeers.” The prophet Daniel described the great kingdoms of this world as successive empires that he saw, or envisioned, as the statue of a man. Babylon’s King Nebuchadnezzar (ruling in Daniel’s time, circa 600 B.C.) was described as the head of gold; the Persian empire as the breast and arms of silver; the Greek as the waist and thighs of bronze; and the Roman Empire as legs of iron, terminating in feet of unstable mingled iron and clay [[UB 135:3.2](/en/The_Urantia_Book/135#p3_2)]. In Daniel’s vision, the world kingdoms, came to an end when a “rock from the mountain, not cut by human hands” struck the feet of the image, whereupon the state of the worldly kingdoms collapsed and God’s everlasting kingdom was established in the earth. John wrestled to understand this image and vision, seeking to find his place in history, which he successfully did, as the forerunner of Christ. 
 
 According to the Book, rugged John the Baptist read this description of the statue in the Scriptures “a thousand times.” [Ibid] We should be willing to read it at least once. (See [Daniel 2:32](/en/Bible/Daniel/2#v32)). 
 

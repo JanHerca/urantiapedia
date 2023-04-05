@@ -16,7 +16,7 @@ It is very instructive to set aside all that we have learned about the origin of
 2. Tasks related to addressing the spiritual needs of our world. 
 3. Tasks related to the improvement of world political and social conditions. 
 
-The first category of tasks—those related to personal spiritual growth—are found throughout the book and are characterized by such quotes as: _
+The first category of tasks—those related to personal spiritual growth—are found throughout the book and are characterized by such quotes as:
 
 > “God-knowing creatures have only one supreme ambition...” [[UB 1:0.3](/en/The_Urantia_Book/1#p0_3)]
 > 
@@ -24,7 +24,7 @@ The first category of tasks—those related to personal spiritual growth—are f
 > 
 > “The transcendent goal of the children of time...” [[UB 1:0.3](/en/The_Urantia_Book/1#p0_3)]
 
-Because the Fellowship is primarily dedicated to the tasks in Group two, I will not list Group one tasks. Neither will I list Group three tasks, many of which may be found in 52:6, 81:6, throughout Papers 70 and 71, and elsewhere in the text. Following are some of the Group two tasks noted in _The Urantia Book_. Had I included all of Jesus’ exhortations to the twelve the list would have been much longer. 
+Because the Fellowship is primarily dedicated to the tasks in Group two, I will not list Group one tasks. Neither will I list Group three tasks, many of which may be found in [UB 52:6](/en/The_Urantia_Book/52#p6), [UB 81:6](/en/The_Urantia_Book/81#p6), throughout [Papers 70](/en/The_Urantia_Book/70) and [71](/en/The_Urantia_Book/71), and elsewhere in the text. Following are some of the Group two tasks noted in _The Urantia Book_. Had I included all of Jesus’ exhortations to the twelve the list would have been much longer. 
 
 > “Of all human knowledge...” [[UB 196:1.3](/en/The_Urantia_Book/196#p1_3)] 
 > “If Christianity persists in neglecting its spiritual mission...” [[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)]
@@ -54,7 +54,7 @@ Because the Fellowship is primarily dedicated to the tasks in Group two, I will 
 > “The call to the adventure...” [[UB 195:10.6](/en/The_Urantia_Book/195#p10_6)]
 > “High-gear spiritual performances must await the new revelation...” [[UB 195:10.18](/en/The_Urantia_Book/195#p10_18)]
 > “If Christianity could only grasp more of Jesus’ teachings...” [[UB 195:10.19](/en/The_Urantia_Book/195#p10_19)]
-> “The hope of modern Christianity is that it should...” [[UB 195:10.20](/en/The_Urantia_Book/195#p10_20)]
+> “The hope of modern Christianity is that it should...” [[UB 195:10.21](/en/The_Urantia_Book/195#p10_21)]
 > “The great hope of Urantia...” [[UB 195:10.16](/en/The_Urantia_Book/195#p10_16)]
 > “Mortals in all stages of spirituality ... may find in the personal life of Jesus...” [[UB 196:2.4](/en/The_Urantia_Book/196#p2_4)]
 > “Let all mankind benefit from...” [[UB 178:1.11](/en/The_Urantia_Book/178#p1_11)]

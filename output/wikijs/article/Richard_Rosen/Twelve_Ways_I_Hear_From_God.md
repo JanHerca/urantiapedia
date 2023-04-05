@@ -1,5 +1,5 @@
 ---
-title: "Twelve Ways I Hear From God "
+title: "Twelve Ways I Hear From God"
 description: 
 published: true
 date: 2023-02-19T14:02:03.086Z

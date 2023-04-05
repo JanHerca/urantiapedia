@@ -71,7 +71,7 @@ Even though this musical metaphor suggests how the Urantia movement may transfor
 > With the limited range of mortal hearing, you can hardly conceive of morontia melodies. There is even a material range of beautiful sound unrecognized by the human sense of hearing, not to mention the inconceivable scope of morontia and spirit harmony. Spirit melodies are not material sound waves but spirit pulsations received by the spirits of celestial personalities. There is a vastness of range and a soul of expression, as well as a grandeur of execution, associated with the melody of the spheres, that are wholly beyond human comprehension. [[UB 44:1.1](/en/The_Urantia_Book/44#p1_1)]
 
 > Dr. Bruce Jackson, a reader since 1979, taught college music and humanities for 17 years, and served as a college administrator for 12. He worked with The Spiritual Fellowship Journal for 10 years. A working musician since 1969, he is now retired and focusing on _Urantia Book_ projects and church music.  
-{-is-info}
+{.is-info}
 
 ## References
 

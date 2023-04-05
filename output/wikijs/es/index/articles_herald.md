@@ -438,15 +438,15 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 | Título                                                                                                                                                                                          | Autor                  | Etiquestas |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ---- |
-| [Urantia Spring](/es/article/Joshua_J_Wilson/Urantia_Spring)                                                                                                                                   | Joshua J. Wilson        |
-| [A Musical Metaphor](/es/article/Bruce_Jackson/A_Musical_Metaphor)                                                                                                                             | Dr. Bruce Jackson       |
-| [The Temple Of Spiritual Brotherhood and the Greater Meaning Of Study Groups](/es/article/Charles_Laurence_Olivea/The_Temple_Of_Spiritual_Brotherhood_and_the_Greater_Meaning_Of_Study_Groups) | Charles Laurence Olivea |
-| [What Will We Find in Outer Space?](/es/article/William_S_Sadler_Jr/What_Will_We_Find_in_Outer_Space)                                                                                          | Bill Sadler Jr.         |
-| [What is Interfaith?](/es/article/Michael_Painter/What_is_Interfaith)                                                                                                                          | Michael Painter         |
-| [The Shroud of Turin and The Urantia Papers](/es/article/Dennis_Marshall/The_Shroud_of_Turin_and_The_Urantia_Papers)                                                                           | Dennis Marshall         |
-| [Questions About Being Human](/es/article/Michelle_Klimesh/Questions_About_Being_Human)                                                                                                        | Michelle Klimesh        |
-| [What Does The Urantia Book Tell Us Needs to be Accomplished?](/es/article/David_Kantor/What_Does_The_Urantia_Book_Tell_Us_Needs_to_be_Accomplished)                                           | David Kantor            |
-| [Twelve Ways I Hear From God](/es/article/Richard_Rosen/Twelve_Ways_I_Hear_From_God)                                                                                                           | Richard Rosen           |
+| [La Primavera de Urantia](/es/article/Joshua_J_Wilson/Urantia_Spring)                                                                                                                                   | Joshua J. Wilson        |
+| [Una metáfora musical](/es/article/Bruce_Jackson/A_Musical_Metaphor)                                                                                                                             | Dr. Bruce Jackson       |
+| [El templo de la fraternidad espiritual y el mayor significado de los grupos de estudio](/es/article/Charles_Laurence_Olivea/The_Temple_Of_Spiritual_Brotherhood_and_the_Greater_Meaning_Of_Study_Groups) | Charles Laurence Olivea |
+| [¿Qué encontraremos en el espacio exterior?](/es/article/William_S_Sadler_Jr/What_Will_We_Find_in_Outer_Space)                                                                                          | Bill Sadler Jr.         |
+| [¿Qué es la interreligiosidad?](/es/article/Michael_Painter/What_is_Interfaith)                                                                                                                          | Michael Painter         |
+| [La Sábana Santa de Turín y los Documentos de Urantia](/es/article/Dennis_Marshall/The_Shroud_of_Turin_and_The_Urantia_Papers)                                                                           | Dennis Marshall         |
+| [Preguntas sobre el ser humano](/es/article/Michelle_Klimesh/Questions_About_Being_Human)                                                                                                        | Michelle Klimesh        |
+| [¿Qué nos dice el libro de Urantia que debe lograrse?](/es/article/David_Kantor/What_Does_The_Urantia_Book_Tell_Us_Needs_to_be_Accomplished)                                           | David Kantor            |
+| [Doce maneras en que escucho de Dios](/es/article/Richard_Rosen/Twelve_Ways_I_Hear_From_God)                                                                                                           | Richard Rosen           |
 
 <br>
 
