@@ -482,17 +482,17 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 | Título                                                                                                                                      | Autor                                                               | Etiquestas |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | ---- |
-| [Following in the Footsteps of Enoch and Elijah](/es/article/Meredith_Tenney/Following_in_the_Footsteps_of_Enoch_and_Elijah)               | Meredith Tenney                                                      |
-| [The Inevitable (and Necessary) ‘Organized Religion’ Based on The Urantia Book](/es/article/Philip_Calabrese/Urantia_Book_Religion)        | Phil Calabrese                                                       |
-| [Gems of Wisdom by Father Robert Schuer](/es/article/Robert_Schuer/Gems_of_Wisdom_by_Father_Robert_Schuer)                                 | Robert Schuer                                                        |
-| [Personality Bestowal](/es/article/JJ_Johnson/Personality_Bestowal)                                                                        | JJ Johnson                                                           |
-| [Ancient Japan: Jōmon Culture](/es/article/Derek_Samaras/Ancient_Japan_Jomon_Culture)                                                      | Derek Samaras                                                        |
-| [Exploring Urantia Book Christology](/es/article/David_Kantor/Exploring_Urantia_Book_Christology)                                          | David Kantor                                                         |
-| [Working with Mother Spirit to Uplift the World](/es/article/Meredith_Tenney_and_others/Working_with_Mother_Spirit_to_Uplift_the_World)    | Meredith Tenney, Sharon Porter, Mary Huggins, and Elisabeth Callahan |
-| [Epochal Pathways](/es/article/Neal_Waldrop/Epochal_Pathways)                                                                              | Neal Waldrop                                                         |
-| [Urantia Book - A Spiritual Path](/es/article/Rabia_Harris/Urantia_Book_A_Spiritual_Path)                                                  | Rabia Harris                                                         |
-| [The Challenge of Revelation Based Education](/es/article/Bruce_Jackson/The_Challenge_of_Revelation_Based_Education)                       | Bruce Jackson                                                        |
-| [Mobilizing a Dispensation of Planetary Rehabilitation](/es/article/David_Kantor/Mobilizing_a_Dispensation_of_Planetary_Rehabilitation)    | David Kantor                                                         |
+| [Siguiendo los pasos de Enoc y Elías: El camino hacia la fusión con el Ajustador](/es/article/Meredith_Tenney/Following_in_the_Footsteps_of_Enoch_and_Elijah)               | Meredith Tenney                                                      |
+| [La inevitable (y necesaria) 'religión organizada' basada en El libro de Urantia](/es/article/Philip_Calabrese/Urantia_Book_Religion)        | Phil Calabrese                                                       |
+| [Gemas de sabiduría del pater Robert Schuer](/es/article/Robert_Schuer/Gems_of_Wisdom_by_Father_Robert_Schuer)                                 | Robert Schuer                                                        |
+| [Otorgamiento de personalidad](/es/article/JJ_Johnson/Personality_Bestowal)                                                                        | JJ Johnson                                                           |
+| [El Japón antiguo: la Cultura Jōmon](/es/article/Derek_Samaras/Ancient_Japan_Jomon_Culture)                                                      | Derek Samaras                                                        |
+| [Explorando la cristología del Libro de Urantia](/es/article/David_Kantor/Exploring_Urantia_Book_Christology)                                          | David Kantor                                                         |
+| [Trabajando con el Espíritu de la Madre para elevar el mundo](/es/article/Meredith_Tenney_and_others/Working_with_Mother_Spirit_to_Uplift_the_World)    | Meredith Tenney, Sharon Porter, Mary Huggins, and Elisabeth Callahan |
+| [Caminos de época](/es/article/Neal_Waldrop/Epochal_Pathways)                                                                              | Neal Waldrop                                                         |
+| [El libro de Urantia, un camino espiritual](/es/article/Rabia_Harris/Urantia_Book_A_Spiritual_Path)                                                  | Rabia Harris                                                         |
+| [El desafío de la educación basada en la revelación](/es/article/Bruce_Jackson/The_Challenge_of_Revelation_Based_Education)                       | Bruce Jackson                                                        |
+| [Movilizando una Dispensación de Rehabilitación Planetaria](/es/article/David_Kantor/Mobilizing_a_Dispensation_of_Planetary_Rehabilitation)    | David Kantor                                                         |
 
 <br>
 

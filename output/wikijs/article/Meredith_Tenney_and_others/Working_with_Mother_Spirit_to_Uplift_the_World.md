@@ -34,15 +34,15 @@ It could be said that the changes in the social fabric of Western society (and o
 
 Just as Michael and our Mother Spirit recognize their new fundamentally equal and mutual co-rulership of the universe, so too must men and women move into an entirely new stage of human existence on Urantia whereby each acknowledges and respects the equal rights of the other. We may have different gender traits but we are equal as persons and must be free to express our personalities in society. 
 
-## THE URANTIA MOVEMENT
+## The Urantia Movement
 
 In all the mustering of women, Mother Spirit has not overlooked the women in the Urantia movement. She seems to be calling them, too. First, with the surprisingly synchronous, separate yet simultaneous, rising of the _West Coast Women’s Corps_, the _Rocky Mountain Women’s Corps_, and the _East Coast Women’s Corps_ ; then, more recently, with two new groups, _Sisters in Spirit_, and _Daughters of God_. If you’ve had a chance to listen to the serendipitous stories of the women involved, you will know these groups did not come together by chance, but rather by divine design. Many Urantians of both genders report perceiving our Universe Mother Spirit or experiencing her presence. If you look with the eyes of the spirit, you can see the Divine Feminine moving in the world. It’s as though we are beginning a new dispensation in which women are being called to play a leadership role – a role they were unable to play given the religious and cultural restrictions on women during the times of the Fourth Epochal Revelation. 
 
 So why is our Universe Mother Spirit gathering the women? How are Urantians, men and women alike, uniquely positioned to help her? What does she want us to do? As _Urantia Book readers of the Fifth Epochal Revelation, _Urantia Book_ readers have a wealth of knowledge about Mother Spirit and her role in the universe others do not have. We have been given a treasure trove of information about the divine pattern of male/female spiritual partnership, and the relationship between Michael/Jesus and Mother. Consider these quotes: 
 
-> "Concerning identity, nature, and other attributes of personality, the [Universal Mother] is the full equal, the perfect complement, and the eternal counterpart of the Universal Father." [6:8:1]
+> "Concerning identity, nature, and other attributes of personality, the [Universal Mother] is the full equal, the perfect complement, and the eternal counterpart of the Universal Father." [[UB 6:8.1](/en/The_Urantia_Book/6#p8_1)]
 
-> "The Father in Heaven treats the Spirit Mother of the children of the universe as one equal to himself." [133:2:2]
+> The Father in Heaven treats the Spirit Mother of the children of the universe as one equal to himself. [[UB 133:2.2](/en/The_Urantia_Book/133#p2_2)]
 
 Almost no other faith tradition has a theology acknowledging the Divine Feminine as an equal co-partner to the Father in Heaven, and that information is sorely needed in the world. If Adam and Eve had not gone into default, we would have had a role model of the divine pattern for male/female spiritual and social partnership in our Material Son and Daughter that would have helped us to forego the gender imbalance on our planet which has been a root cause of so many problems. As it is, we Urantians have a unique body of knowledge that positions us to be of great assistance to our Mother Spirit in her efforts to uplift our world and move it towards Light and Life. As the true and equal co-creative Mother spirit parent with Michael, our Father spirit parent, this Universe has been created, held and sustained by the co- operative loving effort of both our Mother and Father Spirits. 
 

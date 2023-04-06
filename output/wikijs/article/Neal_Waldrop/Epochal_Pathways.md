@@ -10,7 +10,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Neal Waldrop<br>© 2019 The Urantia Book Fellowship</p>
 
-SUDDEN TRANSFORMATION is seldom sought or courted, for human beings prefer to tinker carefully, cautiously, slowly. This permits them to conduct a thorough review of potential innovations as they may affect a structure thought fundamentally sound. When, however, has the situation of Urantia been truly satisfactory, either in conceptual or cosmic terms? Not since Lucifer, Satan, and Caligastia rebelled approximately 200,000 years ago. Further, the remedial measures that Adam and Eve attempted fell far short of what they intended, for the Material Son and Daughter ultimately defaulted on their trust. 
+Sudden transformation is seldom sought or courted, for human beings prefer to tinker carefully, cautiously, slowly. This permits them to conduct a thorough review of potential innovations as they may affect a structure thought fundamentally sound. When, however, has the situation of Urantia been truly satisfactory, either in conceptual or cosmic terms? Not since Lucifer, Satan, and Caligastia rebelled approximately 200,000 years ago. Further, the remedial measures that Adam and Eve attempted fell far short of what they intended, for the Material Son and Daughter ultimately defaulted on their trust. 
 
 Although these defects and dilemmas had endured for many millennia, by the opening decades of the twentieth century there were many aspects of human life on Urantia that were already in crisis or rapidly hurtling toward it. Therefore, our spiritual superiors who sponsored the fifth epochal revelation concluded that continuity was no longer an option. Their arduous efforts to express themselves in English eventually bequeathed us extra­ordinary insights, but they also obliged us to respond with the utmost imagination and energy. In a memorandum dated January 19, 1955 that turned out to be as disconcerting as it was incisive, William S. Sadler, Jr. vented his profound preoccupations: 
 
@@ -76,10 +76,10 @@ January 12, 2019
 
 ## Notes
 
-[^1]: Here is the link to the memorandum by William S. Sadler, Jr.: [http://ubhistory.org/](http://ubhistory.org/Documents/BM19550119_SadlerB_04.pdf 
+[^1]: Here is the link to the memorandum by William S. Sadler, Jr.: [http://ubhistory.org/](http://ubhistory.org/Documents/BM19550119_SadlerB_04.pdf) 
 [^2]: For your convenience, I have reproduced the full text of the note provided at the end of my article “Epochal Pathways,” including the link on the Fellowship’s website from which readers can consult and/or download my long discussion document _Revelation Revealed_ : 
 
-    NOTE: For more extensive exploration of these and similar themes, please feel free to download Neal’s detailed discussion document Revelation Revealed _from the website of the Committee for the Global Endeavor (www.globalendeavor.net) or from the following location on the Fellowship’s website: [http://www.urantiabook.org/study/Revelation](http://www.urantiabook.org/study/Revelation-Revealed.pdf 
+    NOTE: For more extensive exploration of these and similar themes, please feel free to download Neal’s detailed discussion document Revelation Revealed _from the website of the Committee for the Global Endeavor (www.globalendeavor.net) or from the following location on the Fellowship’s website: [http://www.urantiabook.org/study/Revelation](http://www.urantiabook.org/study/Revelation-Revealed.pdf) 
     
     Warm regards, Neal. 
 

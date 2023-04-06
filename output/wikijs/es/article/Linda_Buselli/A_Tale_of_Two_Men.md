@@ -58,7 +58,7 @@ De _El Libro de Urantia_:
 
 El hermano Laurence en un momento indica que algunos de sus asociados pensaron que se estaba volviendo demasiado místico con estos ejercicios. Ambos hombres han sido acusados ​​de ser místicos, pero han funcionado en sus vidas con bastante éxito y con gran alegría y fe. De hecho, el hermano Laurence se rió cuando lo acusaron de ser un místico. Él dijo: «¿Cómo puede alguien que cree en Jesús no ser un místico?»
 
-Y Frank Laubach, quien se refirió a sí mismo como un «místico moderno», también lo comentó. Dijo: «Soy muy consciente de la probabilidad de crítica porque es “misticismo»... o porque mucha gente piensa que los días de contacto directo con Dios, o al menos las palabras de Dios, se detuvieron con el cierre de la Nueva Testamento.”
+Y Frank Laubach, quien se refirió a sí mismo como un «místico moderno», también lo comentó. Dijo: «Soy muy consciente de la probabilidad de crítica porque es «misticismo»... o porque mucha gente piensa que los días de contacto directo con Dios, o al menos las palabras de Dios, se detuvieron con el cierre de la Nueva Testamento.»
 
 Ahora, ¿cómo podemos seguir los ejemplos de estos dos hombres? En sus libros, ambos hombres adquirieron una mentalidad de la presencia de Dios, y ambos dan detalles del gozo y la paz que siguieron. Frank Laubach tiene algunas sugerencias que un principiante podría considerar:
 
