@@ -94,7 +94,7 @@ Varias referencias apoyan esta idea:
 
 > ...para emprender esta aventura tan magnífica y fascinante a través del espacio y por medio de la progresión del tiempo, [el hombre mortal] debe empezar por organizar sus conocimientos en ideas-decisiones... [[LU 101:6.7](/es/The_Urantia_Book/101#p6_7)]
 
-También vemos este énfasis en el aprendizaje humano en la vida de Jesús. La misión principal del otorgamiento de Michael en Urantia fue la de Dios conociendo al hombre, del Hijo Creador de Nebadon mejorando su comprensión y empatía por sus criaturas. La educación de Jesús mientras estuvo en la tierra fue suprema, y ​​aprendió todo lo que pudo sobre los seres humanos incluso cuando los amaba. Trabajó en muchas profesiones y se hizo experto en varias, viajó donde pudo por todo el mundo civilizado, y fue un estudioso de la religión y la historia y todo lo humano.
+También vemos este énfasis en el aprendizaje humano en la vida de Jesús. La misión principal del otorgamiento de Miguel en Urantia fue la de Dios conociendo al hombre, del Hijo Creador de Nebadon mejorando su comprensión y empatía por sus criaturas. La educación de Jesús mientras estuvo en la tierra fue suprema, y ​​aprendió todo lo que pudo sobre los seres humanos incluso cuando los amaba. Trabajó en muchas profesiones y se hizo experto en varias, viajó donde pudo por todo el mundo civilizado, y fue un estudioso de la religión y la historia y todo lo humano.
 
 Con respecto al aprendizaje permanente de Jesús, se nos dice que:
 

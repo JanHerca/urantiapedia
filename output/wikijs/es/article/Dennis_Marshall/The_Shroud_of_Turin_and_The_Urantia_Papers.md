@@ -39,7 +39,7 @@ Sin embargo, esta nueva prueba realmente no probó nada, excepto que las pruebas
 
 Los lectores de El libro de Urantia encontrarán varias advertencias que desaconsejan dejar en Urantia (la Tierra) cualquier cosa materialmente relacionada con Jesús que pueda terminar siendo adorada.
 
-Consejo de Emmanuel a Michael (Jesús)
+Consejo de Emmanuel a Miguel (Jesús)
 
 > «Con el fin de que no contribuyas innecesariamente a la creación de sistemas estereotipados posteriores de creencias religiosas en Urantia, o de otros tipos de lealtades religiosas no progresivas, te aconsejamos además: **No dejes ningún escrito detrás de ti** en el planeta. Abstente de escribir en materiales permanentes; ordena a tus asociados que **no hagan imágenes u otros retratos de tu aspecto físico**. Asegúrate de que nada potencialmente idólatra se quede en el planeta en el momento de tu partida» (énfasis mío)
 >

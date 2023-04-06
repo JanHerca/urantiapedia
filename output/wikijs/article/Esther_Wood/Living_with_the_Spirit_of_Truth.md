@@ -58,13 +58,13 @@ The emotional feeling represents the activity of courage, which manifests as beh
 > 
 > 2. **The spirit of understanding** [emphasis added]—the impulse of co- ordination, the spontaneous and apparently automatic association of ideas. This is the gift of the co-ordination of acquired knowledge, the phenomenon of quick reasoning, rapid judgment, and prompt decision. 
 > 
-> 3. **The spirit of courage** [emphasis added]—the fidelity endowment—in personal beings, the basis of character acquirement and the intellectual root of moral stamina and spiritual bravery. When enlightened by facts and inspired by truth, this becomes the secret of the urge of evolutionary ascension by the channels of intelligent and conscientious self-direction.” [[UB 36:5.6](/en/The_Urantia_Book/36#p5_6)] 
+> 3. **The spirit of courage** [emphasis added]—the fidelity endowment—in personal beings, the basis of character acquirement and the intellectual root of moral stamina and spiritual bravery. When enlightened by facts and inspired by truth, this becomes the secret of the urge of evolutionary ascension by the channels of intelligent and conscientious self-direction.” [[UB 36:5.6-8](/en/The_Urantia_Book/36#p5_6)] 
 
 Courage is also included in a triad with Knowledge and Counsel; this triad being the mindal construct commonly referred to as our ego, the part we identify with, our self- consciousness. A mind that is able to appease the fear-triggers is able to transcend into a more curious state of consciousness, which allows learning to occur. Taking in new information and experimenting with new concepts allows growth to take place. Playing and the scientific method both spring from this instinct. Art dabbles in this frame of consciousness as well. Science reverberates with Causality, one of the three Cosmic Intuitions. 
 
 > 4. **The spirit of knowledge** [emphasis added]—the curiosity-mother of adventure and discovery, the scientific spirit; the guide and faithful associate of the spirits of courage and counsel; the urge to direct the endowments of courage into useful and progressive paths of growth. 
 > 
-> 5. **The spirit of counsel** [emphasis added]—the social urge, the endowment of species co-operation; the ability of will creatures to harmonize with their fellows; the origin of the gregarious instinct among the more lowly creatures.” [[UB 36:5.9](/en/The_Urantia_Book/36#p5_9)] 
+> 5. **The spirit of counsel** [emphasis added]—the social urge, the endowment of species co-operation; the ability of will creatures to harmonize with their fellows; the origin of the gregarious instinct among the more lowly creatures.” [[UB 36:5.9-10](/en/The_Urantia_Book/36#p5_9)] 
 
 It’s curious to note that “faith” and “fidelity” stem from the same etymological root which means “to believe.” We crave order and are inclined to defend what we believe, because that’s what helps give us a sense of control over our lives. We need to believe we have the ability to do things in our environment so we can accomplish our goals, which are always based on our unfulfilled needs (whether consciously and unconsciously). Our beliefs control our triggers so that we can be more likely to survive the dangers of this world. We experience perceived dangers as well as real dangers, and we’ve reached the social stage of development such that we are able to comprehend that we can view our dangers more objectively. We can evaluate our beliefs and why we perceive certain stimuli as dangerous and others as neutral or beneficial. 
 
@@ -98,7 +98,7 @@ My awareness of the cosmic intuitions, which activate worship, duty, and science
 > 
 > 3. _Worship—_ the spiritual domain of the reality of religious experience, the personal realization of divine fellowship, the recognition of spirit values, the assurance of eternal survival, the ascent from the status of servants of God to the joy and liberty of the sons of God. This is the highest insight of the cosmic mind, the reverential and worshipful form of the cosmic discrimination. 
 > 
-> These scientific, moral, and spiritual insights, these cosmic responses, are innate in the cosmic mind, which endows all will creatures. The experience of living never fails to develop these three cosmic intuitions; they are constitutive in the self - consciousness of reflective thinking. But it is sad to record that so few persons on Urantia take delight in cultivating these qualities of courageous and independent cosmic thinking.” [[UB 16:6.5](/en/The_Urantia_Book/16#p6_5)] 
+> These scientific, moral, and spiritual insights, these cosmic responses, are innate in the cosmic mind, which endows all will creatures. The experience of living never fails to develop these three cosmic intuitions; they are constitutive in the self - consciousness of reflective thinking. But it is sad to record that so few persons on Urantia take delight in cultivating these qualities of courageous and independent cosmic thinking.” [[UB 16:6.5-9](/en/The_Urantia_Book/16#p6_5)] 
 
 My goal is to master my adjutant mind so that I can facilitate growth in my soul consciousness. Therefore I aim to be a first circler so that my beloved Adjuster has more room to express whatever needs to be said through my living being. I am willing to submit and learn and grow because life is far more interesting that way. My soul’s consciousness started in the adjutant of wisdom; and as I grow with my Adjuster, we’re expanding our soul consciousness “out” into intuition, so that my unconscious actions can be more in harmony with God’s will. 
 
@@ -112,7 +112,7 @@ I love God and seek to grow in every dimension that I can, so that my Adjuster a
 > 
 > 2. _Vertical depth_ embraces the organismal drives and attitudes, the varying levels of self-realization and the general phenomenon of reaction to environment. 
 > 
-> 3. _Breadth_ embraces the domain of co - ordination, association, and selfhood organization.” [[UB 112:1.5](/en/The_Urantia_Book/112#p1_5)] 
+> 3. _Breadth_ embraces the domain of co - ordination, association, and selfhood organization.” [[UB 112:1.5-8](/en/The_Urantia_Book/112#p1_5)] 
 
 > “The finite dimensions of personality have to do with cosmic length, depth, and breadth. Length denotes meaning; depth signifies value; breadth embraces insight—the capacity to experience unchallengeable consciousness of cosmic reality.” [[UB 112:1.10](/en/The_Urantia_Book/112#p1_10)] 
 
@@ -120,9 +120,7 @@ I am inspired by the fact that I am not alone; I accept the invitation to become
 
 > “But we know that there dwells within the human mind a fragment of God, and that there sojourns with the human soul the Spirit of Truth; and we further know that **these spirit forces conspire** [emphasis added] to enable material man to grasp the reality of spiritual values and to comprehend the philosophy of universe meanings. But even more certainly we know that these **spirits of the Divine Presence** [emphasis added] are able to assist man in the spiritual appropriation of all truth contributory to the enhancement of the ever-progressing reality of personal religious experience— God-consciousness.” [[UB 0:12.13](/en/The_Urantia_Book/0#p12_13)] 
 
-> “The mind-experience accumulations of the seven adjutant mind-spirits, in their ministry to the physical level of intellect, are a part of the local universe experience of the Divine Minister, and through this Creative Spirit they probably find registry in the mind of Supremacy. 
-> 
-> Likewise are mortal experiences with the Spirit of Truth and the Holy Spirit probably registered by similar techniques in the person of Supremacy.” [[UB 117:5.](/en/The_Urantia_Book/117#p5_)] 
+> “The mind-experience accumulations of the seven adjutant mind-spirits, in their ministry to the physical level of intellect, are a part of the local universe experience of the Divine Minister, and through this Creative Spirit they probably find registry in the mind of Supremacy. Likewise are mortal experiences with the Spirit of Truth and the Holy Spirit probably registered by similar techniques in the person of Supremacy.” [[UB 117:5.10](/en/The_Urantia_Book/117#p5_10)] 
 
 Jesus gave us this gift of himself, the Spirit of Truth, so that we might more surely find the Father through his experience, and he offers insights when we’re willing to exchange our mind for his. I know from experience that it really helps to know this, especially when I am aware that my reflexive triggers could hijack my behaviors if I don’t do something proactive: 
 

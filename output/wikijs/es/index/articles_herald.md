@@ -527,14 +527,14 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 | Título                                                                                                                                  | Autor          | Etiquestas |
 | -------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ---- |
-| [Cooperating with the Holy Spirit](/es/article/Kaye_Cooper/Cooperating_with_the_Holy_Spirit)                                           | Kaye Cooper     |
-| [Mother and Father](/es/article/Sharon_Porter/Mother_and_Father)                                                                       | Sharon Porter   |
-| [Living with the Spirit of Truth](/es/article/Esther_Wood/Living_with_the_Spirit_of_Truth)                                             | Esther Wood     |
-| [Of Two Minds: Human and Divine](/es/article/Dick_Bain/Of_Two_Minds_Human_and_Divine)                                                  | Richard Bain    |
-| [Divine Synergy](/es/article/Chuck_Thurston/Divine_Synergy)                                                                            | Chuck Thurston  |
-| [Introduce Urantia Teachings to 15,000 People a Month](/es/article/Jena_Lassiter/Introduce_Urantia_Teachings_to_15000_People_a_Month)  | Jena Lassiter   |
-| [Chronology of Death Resurrection Ascension of Jesus](/es/article/Mark_Blackham/Chronology_of_Death_Resurrection_Ascension_of_Jesus)   | Mark Blackham   |
-| [Sojourner of the Soul: Gardener of our Hearts](/es/article/Tom_Choquette/Sojourner_of_the_Soul_Gardener_of_our_Hearts)                | Tom Choquette   |
-| [Proclaim the Holiday of Holidays](/es/article/Joshua_J_Wilson/Proclaim_the_Holyday_of_Holydays)                                       | Joshua Wilson   |
+| [Cooperando con el Espíritu Santo](/es/article/Kaye_Cooper/Cooperating_with_the_Holy_Spirit)                                           | Kaye Cooper     |
+| [Madre y Padre](/es/article/Sharon_Porter/Mother_and_Father)                                                                       | Sharon Porter   |
+| [Vivir con el Espíritu de la Verdad](/es/article/Esther_Wood/Living_with_the_Spirit_of_Truth)                                             | Esther Wood     |
+| [De dos mentes: humana y divina](/es/article/Dick_Bain/Of_Two_Minds_Human_and_Divine)                                                  | Richard Bain    |
+| [Sinergia Divina](/es/article/Chuck_Thurston/Divine_Synergy)                                                                            | Chuck Thurston  |
+| [Presentar las Enseñanzas de Urantia a 15.000 personas por mes](/es/article/Jena_Lassiter/Introduce_Urantia_Teachings_to_15000_People_a_Month)  | Jena Lassiter   |
+| [Cronología de la muerte, resurrección y ascensión de Jesús](/es/article/Mark_Blackham/Chronology_of_Death_Resurrection_Ascension_of_Jesus)   | Mark Blackham   |
+| [Viajero del alma: Jardinero de nuestros corazones](/es/article/Tom_Choquette/Sojourner_of_the_Soul_Gardener_of_our_Hearts)                | Tom Choquette   |
+| [Proclamar el jubileo de jubileos](/es/article/Joshua_J_Wilson/Proclaim_the_Holyday_of_Holydays)                                       | Joshua Wilson   |
 
 <br>

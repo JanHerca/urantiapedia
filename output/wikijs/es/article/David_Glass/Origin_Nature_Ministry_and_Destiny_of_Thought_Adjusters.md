@@ -64,7 +64,7 @@ Como Jesús expresó esta idea: «_La ascensión al Paraíso es la aventura supr
 
 A continuación, Jesús se dirigió tanto a la gente de su tiempo como a la nuestra, diciendo: «_sois los primeros voluntarios de una larga serie de creyentes sinceros en el evangelio de este reino, que asombrarán a toda la humanidad por su consagración heroica a estas enseñanzas. Ningún ejército del mundo ha desplegado nunca más coraje y bravura que los que mostraréis vosotros y vuestros leales sucesores cuando salgáis para proclamar al mundo entero la buena nueva —la paternidad de Dios y la fraternidad de los hombres._» [[LU 143:1.7](/es/The_Urantia_Book/143#p1_7)] (Énfasis mío)
 
-¿Por qué no deberíamos dedicarnos a actualizar el reino del Padre en Urantia y permitir que nuestra devoción se vuelva «_asombrosa_» para toda la humanidad, incluso para nuestros supervisores del universo? Michael estaría encantado de saber que este es el objetivo que hemos elegido para nosotros.
+¿Por qué no deberíamos dedicarnos a actualizar el reino del Padre en Urantia y permitir que nuestra devoción se vuelva «_asombrosa_» para toda la humanidad, incluso para nuestros supervisores del universo? Miguel estaría encantado de saber que este es el objetivo que hemos elegido para nosotros.
 
 Hoy, y en nuestro mundo, la presencia de miles de millones de Ajustadores del Pensamiento que moran en los pueblos de nuestro planeta forman la base y establecen la realidad del «_reino de los cielos en la tierra_» de Jesús. La hermandad espiritual del hombre es un hecho, presente. día realidad AHORA. Nuestra tarea es unirnos a las fuerzas y ministros del planeta y del universo en el esfuerzo conjunto de _despertar a toda la humanidad a su herencia divina como hijos del Padre Universal_.
 

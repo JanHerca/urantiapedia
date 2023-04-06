@@ -22,7 +22,7 @@ Even without a commonly understood word for it, this idea that collaborative eff
 
 The partnership of our Creator Son and Creative Mother Spirit is clearly a major example of this. 
 
-> “AT THE head of all personality in Nebadon stands the Creator and Master Son, Michael, the universe father and sovereign. Co-ordinate in divinity and complemental in creative attributes is the local universe Mother Spirit, the Divine Minister of Salvington.” [[UB 37:0.1](/en/The_Urantia_Book/37#p0_1)] 
+> “At the head of all personality in Nebadon stands the Creator and Master Son, Michael, the universe father and sovereign. Co-ordinate in divinity and complemental in creative attributes is the local universe Mother Spirit, the Divine Minister of Salvington.” [[UB 37:0.1](/en/The_Urantia_Book/37#p0_1)] 
 > 
 > “From this central universe also came the bestowal of the personal prerogatives of creatorship which a Universe Divine Minister employs as complemental to a Creator Son in the work of creating living will creatures.” [[UB 14:6.35](/en/The_Urantia_Book/14#p6_35)] 
 
@@ -57,7 +57,7 @@ While these gifts of uplifting spirit influence are unified in functional harmon
 1. The personal influence of the Holy Spirit is a pervading presence: 
 
     “From and through this new personal segregation of the Conjoint Creator there proceed the established currents and the ordained circuits of spirit power and spiritual influence destined to pervade all the worlds and beings of that local universe.” [[UB 34:1.2](/en/The_Urantia_Book/34#p1_2)] 
-    (Online definitions of pervaded: diffused throughout every part, can be perceived in every part, exists in every part, is present throughout.
+    Online definitions of pervaded: diffused throughout every part, can be perceived in every part, exists in every part, is present throughout.
     “She is equally and diffusely present throughout her entire local universe” [[UB 34:3.3](/en/The_Urantia_Book/34#p3_3)]
 
 2. The Spirit of Truth is an enveloping, companion presence: 

@@ -80,14 +80,14 @@ Cristo, nuestro Padre, que nos visitó como Jesús de Nazaret, y nuestra Madre d
 
 ## Amar, Adorar, Exaltar, Honrar
 
-Escuchamos y hablamos sobre los términos: adoración, oración y meditación, y son partes intrínsecas de nuestras vidas. Es importante destacar que sabemos que en todos los universos se enseña que la adoración debe otorgarse solo a nuestro Padre Universal en el Paraíso. Pero, ¿qué pasa con nuestro afecto sincero por Michael y Madre? _Adoración_ es la palabra. «Exaltar, honrar y apreciar» son otras palabras apropiadas. «Honra a tu padre y a tu madre.»
+Escuchamos y hablamos sobre los términos: adoración, oración y meditación, y son partes intrínsecas de nuestras vidas. Es importante destacar que sabemos que en todos los universos se enseña que la adoración debe otorgarse solo a nuestro Padre Universal en el Paraíso. Pero, ¿qué pasa con nuestro afecto sincero por Miguel y Madre? _Adoración_ es la palabra. «Exaltar, honrar y apreciar» son otras palabras apropiadas. «Honra a tu padre y a tu madre.»
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Joshua_J_Wilson/Adoration_of_the_Mother/004164.jpg">
 <figcaption><em> Coronación por Giotto di Bondone. </em></figcaption>
 </figure>
 
-En este punto de mi viaje ascendente e interior, Michael y la Madre se están volviendo cada día más cercanos, más accesibles y más reales para mí. Ahora, cuando leo estímulos para «amar a Dios» o «amar a Dios con todo tu corazón, mente, alma y fuerza», es más probable que piense inmediatamente en Miguel y la Madre, el Padre creador y la Madre creativa de nuestro universo. [[LU 174:4.2](/es/The_Urantia_Book/174#p4_2)] Tal vez sea porque cada día que pasa estoy más avanzado en mi viaje para encontrarme con ellos cara a cara, y lo espero con ansias.
+En este punto de mi viaje ascendente e interior, Miguel y la Madre se están volviendo cada día más cercanos, más accesibles y más reales para mí. Ahora, cuando leo estímulos para «amar a Dios» o «amar a Dios con todo tu corazón, mente, alma y fuerza», es más probable que piense inmediatamente en Miguel y la Madre, el Padre creador y la Madre creativa de nuestro universo. [[LU 174:4.2](/es/The_Urantia_Book/174#p4_2)] Tal vez sea porque cada día que pasa estoy más avanzado en mi viaje para encontrarme con ellos cara a cara, y lo espero con ansias.
 
 Nuestras madres terrenales nos criaron y ayudaron a salir del nido como pequeños aguiluchos. En algún momento, nuestra Madre del Universo local nos entregará a Dios la Madre, el Supremo, a medida que nos graduamos a nuestra carrera en el superuniverso. Y luego, en otro punto, el Supremo nos enviará a descubrir a la Madre Eterna en el Paraíso.
 
@@ -103,7 +103,7 @@ Quizá amar a nuestra Madre divina signifique justamente eso... llamarla, con fr
 
 > Eres exaltado, exaltado para siempre en lo alto,
 > Te alabaré.
-> Eres exaltado, exaltado para siempre y alabaré tu nombre—Michael.
+> Eres exaltado, exaltado para siempre y alabaré tu nombre—Miguel.
 > Tú eres el Señor, por siempre reinas en lo alto.
 > El cielo y la tierra se regocijan en tu santo nombre, eres exaltado, por siempre exaltado en lo alto.
 > Eres exaltado, exaltado para siempre en lo alto,

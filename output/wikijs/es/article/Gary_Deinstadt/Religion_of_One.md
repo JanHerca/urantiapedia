@@ -49,13 +49,13 @@ Cerca del final de la siguiente era magisterial en un planeta normal se lee: _«
 
 Antes de Adán y Eva, los Portadores de Vida tomaron nota de las razas que se acercaban a su cúspide y los Melquisedec estuvieron de acuerdo. Entonces pidieron elevadores biológicos a los Altísimos. Tabamantia, supervisora ​​de mundos decimales/experimentales viene aquí, inspecciona y está de acuerdo en que es el momento. Cien años después tenemos a Adán y Eva.
 
-### ¿Qué tenía que suceder y/o estar en su lugar antes de que viniera Michael?
+### ¿Qué tenía que suceder y/o estar en su lugar antes de que viniera Miguel?
 
-Antes del otorgamiento de Miguel, los receptores de Melquisedec y Maquiventa vieron la pobreza espiritual que existía y sintieron que había que hacer algo. Sabían que Michael vendría, pero no sabían cuándo. Entonces pidieron permiso a los Altísimos. Su alegato inicial fue desestimado. Más tarde, Maquiventa se ofreció como voluntario, las autoridades de Salvington dieron el visto bueno y luego Maquiventa tuvo su misión de emergencia.
+Antes del otorgamiento de Miguel, los receptores de Melquisedec y Maquiventa vieron la pobreza espiritual que existía y sintieron que había que hacer algo. Sabían que Miguel vendría, pero no sabían cuándo. Entonces pidieron permiso a los Altísimos. Su alegato inicial fue desestimado. Más tarde, Maquiventa se ofreció como voluntario, las autoridades de Salvington dieron el visto bueno y luego Maquiventa tuvo su misión de emergencia.
 
 Lo que es tan sorprendente para mí es que no es como si estas órdenes de marcha vinieran directamente a los Portadores de Vida/Melquisedec, etc. de una autoridad superior como los Altísimos o incluso del mismo Miguel. Nadie vino a ellos diciendo; «Está bien, creemos que es hora de una misión adámica». Quedó en manos de los administradores locales hacer la llamada y actuar. ¿Ves un patrón aquí? Muchos de nosotros hemos dicho en un momento u otro «¡Oh Dios, por favor dime lo que quieres que haga!» Los Portadores de Vida y Maquiventa no le pidieron nada a Dios ni a Miguel. Tampoco esperaron a que se lo dijeran. Vieron el problema, asumieron la responsabilidad, obtuvieron el permiso de una autoridad superior y actuaron.
 
-### ¿Qué también tenía que estar en su lugar antes del otorgamiento de Michael?
+### ¿Qué también tenía que estar en su lugar antes del otorgamiento de Miguel?
 
 El monoteísmo era la creencia común. La ubicación se centró en Jerusalén y sus alrededores. Fue la meca de su época, una ciudad centralizada con una buena mezcla de gente y la idea del Padre ya estaba asentada.
 

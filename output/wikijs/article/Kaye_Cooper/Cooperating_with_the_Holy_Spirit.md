@@ -50,7 +50,7 @@ The more we learn how our Mother teaches us through all of her children, the eas
 
 There is one more reason I think it is important to get to know our Mother through her Holy Spirit. Religion passes through three phases as it matures on a planet. 
 
-Primitive human beings made little effort to put their religious convictions into words. Their religion was danced out rather than thought out. Modern mortals have thought out many creeds and created many tests of religious faith. Future religionists must live out their religion, dedicate themselves to the wholehearted service of the brotherhood of humankind. It is high time that human beings had a religious experience so personal and so sublime that it could be realized and expressed only by “feelings that lie too deep for words.” [99:5. (1091.8)] 
+Primitive human beings made little effort to put their religious convictions into words. Their religion was danced out rather than thought out. Modern mortals have thought out many creeds and created many tests of religious faith. Future religionists must live out their religion, dedicate themselves to the wholehearted service of the brotherhood of humankind. It is high time that human beings had a religious experience so personal and so sublime that it could be realized and expressed only by “feelings that lie too deep for words.” [[UB 99:5.9](/en/The_Urantia_Book/99#p5_9)] 
 
 It seems obvious that the writers of _The Urantia Book_ put most of the religionists on our planet into the second category—thinking out religion. I see no reason why we, as individuals, cannot move on to the third category of religion—living out our religion, dedicating ourselves to the wholehearted service of the family of mortals. 
 
@@ -65,6 +65,7 @@ Our Mother’s seraphim work tirelessly to put us into situations where we are i
 Being useful in service to others stimulates our spiritual growth and contributes to the spiritual health of those we serve. Think about how it changes us when we become constantly aware of the opportunities for service with which we are surrounded! Our internal lives are transformed. Our priorities change. We pay attention to being of service...all the time. And joy blooms in moment-to-moment life. Jesus promised “righteousness, peace, and joy in the Holy Spirit.” [[UB 34:6.13](/en/The_Urantia_Book/34#p6_13)] and [[UB 137:8.1](/en/The_Urantia_Book/137#p8_1)] Joy is the result of serving. I invite you to get acquainted with our Mother Spirit through her Holy Spirit and accept the abundant help she gives us to live our religion. 
 
 ## Serving in Everyday Life 
+
 Our Universe Mother Spirit’s seraphim work tirelessly to put us into situations where we are invited to be of service to others: 
 
 - The person you approach who needs eye contact with kind, understanding eyes. 
@@ -74,7 +75,7 @@ Our Universe Mother Spirit’s seraphim work tirelessly to put us into situation
 - The rental tenant who can only make rent payments irregularly because he is fighting a losing battle with cancer—and caring for his two preschool children by himself. 
 - The alcoholic who is celebrating three years of sobriety. 
 - The home health aide who hasn’t the money for transportation—and you have a reliable old car you were about to sell. 
-- A friend who often needs a friendly ear on the other end of her phone because she must spend long hours in the hospital during the COVID- 19 pandemic with her husband who has Alzheimer’s. 
+- A friend who often needs a friendly ear on the other end of her phone because she must spend long hours in the hospital during the COVID-19 pandemic with her husband who has Alzheimer’s. 
 - Grocery store clerks, delivery people, receptionists, tellers, panhandlers, noisy teens, fussy babies, and crabby neighbors who need you to see them as human beings who need attention and care. 
 
 Don’t dismiss the importance of responding to these service opportunities because they so commonly occur. We just need to pay attention, open ourselves to the Holy Spirit’s guidance, and act with love in our hearts. 

@@ -59,7 +59,7 @@
 
 ### Other replacements
 
-* Replace english plain quotes with curly ones: `"([^"]*)"` => `“$1”`
+* Replace english plain quotes with curly ones: `"([^"]*)"` => `“$1”` or `'([^']*)'` => `‘$1’`
 * Replace english curly quotes with spanish angular ones: `“([^”]*)”` => `«$1»`
 * Replace spanish plain quotes with angular ones: `"([^"]*)"` => `«$1»`
 * Replace LaTeX italics with Markdown: `\\textit\{([^\}]*)\}` => `_$1_`

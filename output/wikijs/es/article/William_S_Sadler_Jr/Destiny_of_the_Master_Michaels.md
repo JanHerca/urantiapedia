@@ -36,13 +36,13 @@ Creo que quizás los habitantes de estos mundos muy asentados en las etapas avan
 
 Si la muerte finalmente desaparece de los mundos habitados, probablemente no tendrá que seguir creando serafines.
 
-¿Se necesita más a Michael como creador? No. La creación ha terminado en un universo local. La administración es lo que se requiere. Y, cuando un universo local se asienta en luz y vida, se presagia su futura administración. Los deberes administrativos son asumidos en gran medida por tres excelentes administradores: el Embajador de la Trinidad, la Unión de los Días, Gabriel, y su asociado, el Padre Melquisedec.
+¿Se necesita más a Miguel como creador? No. La creación ha terminado en un universo local. La administración es lo que se requiere. Y, cuando un universo local se asienta en luz y vida, se presagia su futura administración. Los deberes administrativos son asumidos en gran medida por tres excelentes administradores: el Embajador de la Trinidad, la Unión de los Días, Gabriel, y su asociado, el Padre Melquisedec.
 
 Creo que en la próxima era del universo, la era del primer nivel del espacio exterior, la tercera era del universo, no creo que vaya a haber Hijos Creadores o Espíritus Creativos en los universos locales.
 
 Creo que van a ser dirigidos por estos tres seres: la Unión de los Días, la Estrella Brillante y Matutina y el Padre Melquisedec, aunque creo que Miguel siempre conservará el título de «_Soberano de Nebadon_», tal como el carpintero lleva el título, «_Príncipe Planetario de Urantia_». Ese no es un título para un Hijo Creador, pero es un gran honor para un ser humano llevar ese título.
 
-Y no te imaginas que de verdad engalanarán las calles de Salvington con farolillos japoneses y conejitos en aquellas ocasiones en que Michael vuelva a visitar su capital, viniendo del espacio exterior camino del Paraíso. Esta será la ocasión para un gran jamboree en Salvington.
+Y no te imaginas que de verdad engalanarán las calles de Salvington con farolillos japoneses y conejitos en aquellas ocasiones en que Miguel vuelva a visitar su capital, viniendo del espacio exterior camino del Paraíso. Esta será la ocasión para un gran jamboree en Salvington.
 
 ¿Pero no ves? Los dos Creadores se han quedado sin trabajo cuando su universo local se asienta en la luz y la vida.
 
@@ -264,7 +264,7 @@ Son Ajustadores personalizados.
 
 > Dice, «_Los Mensajeros de Gravedad y los finalitarios mortales glorificados llegan a tener un afecto profundo y conmovedor los unos por los otros; tienen muchas cosas en común: unos son la personalización directa de un fragmento del Padre Universal; los otros, una personalidad de criatura que existe en el alma inmortal sobreviviente fusionada con un fragmento del mismo Padre Universal, el Ajustador del Pensamiento espiritual._» [[LU 31:2.4](/es/The_Urantia_Book/31#p2_4)]
 
-La razón por la que creo que seguimos y seguimos y seguimos no es porque seamos tanto, sino porque los Ajustadores sí lo son. No estoy tan seguro de que tengamos las piernas para llegar tan lejos, pero estamos montando un caballo que es un fragmento de infinito. Creo que vamos a continuar, siguiendo a los Michaels. Los documentos sugieren que los Michaels nunca detendrán la invasión del espacio.
+La razón por la que creo que seguimos y seguimos y seguimos no es porque seamos tanto, sino porque los Ajustadores sí lo son. No estoy tan seguro de que tengamos las piernas para llegar tan lejos, pero estamos montando un caballo que es un fragmento de infinito. Creo que vamos a continuar, siguiendo a los Miguels. Los documentos sugieren que los Miguels nunca detendrán la invasión del espacio.
 
 Hay una declaración maravillosa aquí. A ver si puedo encontrarlo. Deséame suerte. Está en su discusión de la unidad absoluta universal. Estoy empezando un poco por debajo de la mitad de la página:
 

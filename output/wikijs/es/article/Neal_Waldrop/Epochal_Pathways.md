@@ -30,7 +30,7 @@ No obstante, no debemos descuidar los aspectos espirituales y religiosos de la q
 
 > «Como Hijo dispensacional, se te han concedido ciertos privilegios relacionados con el avance del estado espiritual y religioso de los pueblos del mundo». [[LU 120:3.5](/es/The_Urantia_Book/120#p3_5)]
 
-Sin embargo, en el párrafo inmediatamente posterior, Immanuel aclaró la naturaleza de la tarea de Michael:
+Sin embargo, en el párrafo inmediatamente posterior, Immanuel aclaró la naturaleza de la tarea de Miguel:
 
 > «5. Si lo consideras conveniente, puedes identificarte con los movimientos religiosos y espirituales existentes que puedan encontrarse en Urantia, pero trata de evitar, de todas las maneras posibles, el establecimiento formal de un culto organizado, de una religión cristalizada o de una agrupación ética separada de seres humanos. Tu vida y tus enseñanzas deben convertirse en la herencia común de todas las religiones y de todos los pueblos». [[LU 120:3.6](/es/The_Urantia_Book/120#p3_6)]
 

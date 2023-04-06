@@ -123,7 +123,7 @@ Nuestra recepción personal de su misión no solo fomenta el proceso de rehabili
 
 _Nuestro Hijo Creador nos ha comisionado para trabajar por el establecimiento de su reino espiritual en la tierra—¡qué emocionante aventura! ¡Qué fe tiene en nosotros!_
 
-La dispensación del Espíritu de la Verdad bajo la guía trascendente del espíritu personal de Michael será un tiempo de gran transición durante el cual nuestro atribulado mundo comenzará a abrazar más plenamente la marcha progresiva hacia adelante de la evolución en Nebadon. Es una marcha hacia la luz y la vida y hacia la realización más plena del reino proclamado por Jesús, catalizada por el compromiso de innumerables generaciones de sus fieles seguidores.
+La dispensación del Espíritu de la Verdad bajo la guía trascendente del espíritu personal de Miguel será un tiempo de gran transición durante el cual nuestro atribulado mundo comenzará a abrazar más plenamente la marcha progresiva hacia adelante de la evolución en Nebadon. Es una marcha hacia la luz y la vida y hacia la realización más plena del reino proclamado por Jesús, catalizada por el compromiso de innumerables generaciones de sus fieles seguidores.
 
 ¿La historia de su carrera en el universo mostrará que usted fue un participante creativo o simplemente un observador? Toda Urantia está esperando.
 

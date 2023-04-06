@@ -32,7 +32,7 @@ Las relaciones son los hilos del telar del tiempo que tejen el tapiz que es el S
     - a. Y esa asociación está representada en el ajustador y nosotros.
         -i. Buscamos conocer la voluntad de Dios y asociarnos con él para formar la forma en que vivimos nuestras vidas: esta es nuestra intención de relación con la Deidad.
     - b. [LU 0:8.9](/es/The_Urantia_Book/0#p8_9) Además, es a través de Dios Séptuplo que nosotros, los mortales, podemos alcanzar la presencia de Dios, que comienza con nuestro reconocimiento de la divinidad de nuestro Hijo Creador, Miguel y nuestra Divina Madre Espíritu.
-    - C. Entonces, hay dos caminos para que podamos hacer crecer nuestra relación con Dios: con el ajustador y con nuestro Hijo Creador, Michael, que es el primer peldaño en la escalera de Dios Séptuplo, así como con nuestra Madre Divina Espíritu.
+    - C. Entonces, hay dos caminos para que podamos hacer crecer nuestra relación con Dios: con el ajustador y con nuestro Hijo Creador, Miguel, que es el primer peldaño en la escalera de Dios Séptuplo, así como con nuestra Madre Divina Espíritu.
     - d. [LU 110:6.4](/es/The_Urantia_Book/110#p6_4) Para hacer crecer nuestra relación con el Supremo, necesitamos tener vidas con un
         - i. mente de equilibrio perfecto,
         - ii. alojado en un cuerpo de hábitos limpios,
