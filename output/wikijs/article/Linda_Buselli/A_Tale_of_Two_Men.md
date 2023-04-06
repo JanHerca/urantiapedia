@@ -22,7 +22,7 @@ What is so special about what Brother Laurence did? He seems to have reached a l
 
 Brother Laurence’s writings are very simple compared to passages in _The Urantia Book_, but they have touched so many minds and hearts because his was a living experience of God’s presence in everything he did. Many of the things he said are not too different from some of the book’s statements. For instance from _The Urantia Book_ : 
 
-> Those who know God have experienced the fact of his presence, such knowing mortals hold in their personal experience the only positive proof of the existence of the living God which one human being can offer to another. The existence of God is utterly beyond all possibility of demonstration except for the contact between the God- consciousness of the human mind and the God-presence of the Thought Adjuster that indwells the mortal intellect and is bestowed upon man as the free gift of the Universal Fath er. [[UB 1:2.5](/en/The_Urantia_Book/1#p2_5)]
+> Those who know God have experienced the fact of his presence, such knowing mortals hold in their personal experience the only positive proof of the existence of the living God which one human being can offer to another. The existence of God is utterly beyond all possibility of demonstration except for the contact between the God- consciousness of the human mind and the God-presence of the Thought Adjuster that indwells the mortal intellect and is bestowed upon man as the free gift of the Universal Father. [[UB 1:2.8](/en/The_Urantia_Book/1#p2_8)]
 
 Note this difference of delivery from Brother Laurence: 
 
@@ -30,17 +30,17 @@ Note this difference of delivery from Brother Laurence:
 
 Here is another comparison from _The Urantia Book_ : 
 
-> “ (Prayer) is a spontaneous outburst of God- consciousness .” [[UB 91:8.11](/en/The_Urantia_Book/91#p8_11)]
+> “ (Prayer) is a spontaneous outburst of God- consciousness .” [[UB 91:8.10](/en/The_Urantia_Book/91#p8_10)]
 
 And from Brother Laurence: “My prayers are nothing other than a sense of the presence of God”. 
 
 Brother Laurence also said: “I am more united to God in my outward employments than when I leave them for devotion and retirement.” 
 
-Compare that with this _Urantia Book_ quote: “ The contact of the mortal mind with its indwelling Adjuster, while often favored by devoted meditation, is more frequently facilitated by wholehearted and loving service in unselfish ministry to one’s fellow creatures .” [[UB 91:7.1](/en/The_Urantia_Book/91#p7_1)]
+Compare that with this _Urantia Book_ quote: “The contact of the mortal mind with its indwelling Adjuster, while often favored by devoted meditation, is more frequently facilitated by wholehearted and loving service in unselfish ministry to one’s fellow creatures.” [[UB 91:7.1](/en/The_Urantia_Book/91#p7_1)]
 
 _The Urantia Book_ tells us we will be known by our example of living the fruits of the spirit. Here is an observation of Brother Laurence written by someone who knew him: 
 
-> “ As Brother Laurence found such an advantage in walking in the presence of God, it was natural for him to recommend it earnestly to others. But his example was a stronger inducement than any arguments he could ever have proposed. His very countenance was edifying, with such a sweet and calm devotion appearing to it as could not but affect his beholders. It was observed that in the greatest hurry of business in the kitchen, he still preserved his recollection and heavenly minded business. He did each thing with an even, uninterrupted composure and tranquility of spirit. “The time of business said he, does not differ with me from the time of prayer; and in the noise and clatter of my kitchen, while several persons are at the same time calling for different things, I possess God in as great a tranquility as if I were upon my knees at the blessed sacrament.”” 
+> “ As Brother Laurence found such an advantage in walking in the presence of God, it was natural for him to recommend it earnestly to others. But his example was a stronger inducement than any arguments he could ever have proposed. His very countenance was edifying, with such a sweet and calm devotion appearing to it as could not but affect his beholders. It was observed that in the greatest hurry of business in the kitchen, he still preserved his recollection and heavenly minded business. He did each thing with an even, uninterrupted composure and tranquility of spirit. ‘The time of business said he, does not differ with me from the time of prayer; and in the noise and clatter of my kitchen, while several persons are at the same time calling for different things, I possess God in as great a tranquility as if I were upon my knees at the blessed sacrament’.” 
 
 For anyone interested in a more modern discussion of Brother Laurence’s spiritual journey, Frank Laubach, a Congregational Christian missionary in the mid-twentieth century, gives a detailed account of his attempts and successes in following in Brother Laurence’s footsteps. He served many years in the Philippines. It was during this time that he became known as “the Apostle of the Illiterate” because of his dedication to bringing literacy to the underprivileged. His efforts to accomplish this resulted in organizations around the world that exist today. He is the only American missionary to ever be honored on a U.S. postage stamp. 
 
@@ -62,7 +62,7 @@ And Frank Laubach, who referred to himself as a “modern mystic” commented on
 
 Now, how can we follow the examples of these two men? In their books both men gained a mindedness of God’s presence, and both give details of the joy and peace that ensued. Frank Laubach has some suggestions a beginner might consider: 
 
-“This is the best way to act: talk a great deal to the Lord. When reading, keep a running conversation with Him about the pages you are reading.” 
+> “This is the best way to act: talk a great deal to the Lord. When reading, keep a running conversation with Him about the pages you are reading.” 
 
 When you are strolling out of doors alone, you can recall the Lord at least once every minute with no effort. If you wander to a place where you can talk out loud without being overheard, you may speak to the invisible Companion inside you. 
 
@@ -70,21 +70,21 @@ I have found that we can establish ourselves in a sense of the presence of God b
 
 At one point he had become discouraged with his efforts: 
 
-“Oh, this thing of keeping in constant touch with God, of making Him the object of my thought I cannot do it even half of a day—not yet, but I believe I shall be doing it some day for the entire day. It is a matter of acquiring a new habit of thought. 
+> “Oh, this thing of keeping in constant touch with God, of making Him the object of my thought I cannot do it even half of a day—not yet, but I believe I shall be doing it some day for the entire day. It is a matter of acquiring a new habit of thought. 
 
 And later in his efforts: 
 
-> “Usually, you will feel no deep emotion, but will always have a “peace that passeth all understanding.” Remember, this statement from _The Urantia Book_? “ _Genuine spiritual ecstasy is usually associated with great outward calmness and almost perfect emotional control._ ” [91”7.3] (P. 1000) 
+> “Usually, you will feel no deep emotion, but will always have a “peace that passeth all understanding.” Remember, this statement from _The Urantia Book_? “ _Genuine spiritual ecstasy is usually associated with great outward calmness and almost perfect emotional control._ ” [UB 91:7.3](/en/The_Urantia_Book/91#p7_3)
 
 After almost two years of constant effort, Frank Laubach made this entry in his diary: 
 
-> “When one has struck some wonderful blessing that all mankind has a right to know about, no custom or false modesty should prevent him from telling it, even though it may mean the unbarring of his soul to the public gaze. 
+> “When one has struck some wonderful blessing that all mankind has a right to know about, no custom or false modesty should prevent him from telling it, even though it may mean the unbarring of his soul to the public gaze.” 
 
 This simple practice requires only a gentle pressure of the will, not more than a person can exert easily. It grows easier as the habit becomes fixed. 
 
-Yet it transforms life into heaven. Everybody takes on a new richness, and all the world seems tinted with glory. I do not, of course, know what others think of me, but the joy which I have within cannot be described. If there were never other reward than that, it would more than justify the practice to me.” 
+Yet it transforms life into heaven. Everybody takes on a new richness, and all the world seems tinted with glory. I do not, of course, know what others think of me, but the joy which I have within cannot be described. If there were never other reward than that, it would more than justify the practice to me. 
 
-> Even to approach the knowing of a divine personality, all of man’s personality endowments must be wholly consecrated to the effort; half- hearted partial devotion will be unavailing. You can argue over opinions about God, but experience with him and in him exists above and beyond all human controversy and mere intellectual logic. [[UB 1:6.5](/en/The_Urantia_Book/1#p6_5)]
+> Even to approach the knowing of a divine personality, all of man’s personality endowments must be wholly consecrated to the effort; half- hearted partial devotion will be unavailing. You can argue over opinions about God, but experience with him and in him exists above and beyond all human controversy and mere intellectual logic. [[UB 1:6.5-6](/en/The_Urantia_Book/1#p6_5)]
 
 I have tried to come up with some suggestions based on personal experiences and those of friends. Here some definitions may be needed. For instance, meditation is generally understood to imply the silencing of thought so that the Adjuster can communicate with the individual. The process Brother Laurence and Frank Laubach suggest, rather than an emptying of the mind, is a conscious filling of the mind with the presence of God. Everyone defines meditation according to the way they personally express it, including conversation, so expectations vary among individuals. 
 
@@ -96,7 +96,7 @@ Finally, the following was written by Brother Laurence shortly before he died:
 
 > “In a little time I will go to God. What comforts me in this life is that I now see my Lord by faith. In seeing Him by faith I actually see so well I sometimes say, ‘I believe no more! I see!” 
 
-I can feel that which faith teaches; I can sense what faith sees. This of course, works great assurance in me. In that assurance, and in that practice of faith, I will live and die with Him.”   
+I can feel that which faith teaches; I can sense what faith sees. This of course, works great assurance in me. In that assurance, and in that practice of faith, I will live and die with Him.  
 
 > **Linda Buselli** discovered _The Urantia Book_ in 1971 and she and her husband Bob have been developing study groups wherever they have lived ever since. She has also been active in serving the revelation as Chair of the Publications Committee and a member of the Fellowship General Council and Executive Committee for the past 18 years.  
 {.is-info}

@@ -16,9 +16,7 @@ Note: Appendix notes refer to Preston Thomas’ Book _The Life and Teachings of 
 
 There are many hopeful and inspiring statements about our future in _The Urantia Book_, but few can match the promise and opportunity that is foretold in the following lines: 
 
-> Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. [[UB 19:9.3](/en/The_Urantia_Book/19#p9_3)]
-> 
-> ...the spiritual renaissance must await the coming of these new teachers of Jesus’ religion who will be exclusively devoted to the spiritual regeneration of men._ [[UB 19:9.3](/en/The_Urantia_Book/19#p9_3)]
+> Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. . . . the spiritual renaissance must await the coming of these new teachers of Jesus’ religion who will be exclusively devoted to the spiritual regeneration of men._ [[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)]
 
 Let us reflect upon the amazing implications of these statements. The revelators are telling us that our world is in need of new teachers of Jesus’ religion. And they are prophesying the coming of these new teachers, predicting that these new religious leaders will help bring a spiritual renaissance to our “dark and confused world.” 
 
@@ -30,7 +28,7 @@ In many places the revelators point out that today’s world is beset by serious
 
 Yes, we do face serious problems, but great things lie ahead, and we are called to participate! We are called to join in a great adventure! Here is how the revelators describe what is to happen on our world and the thrilling possibilities that lie in our future: 
 
-> The call to the adventure of building a new and transformed human society by means of the spiritual rebirth of Jesus’ brotherhood of the kingdom should thrill all who believe in him as men have not been stirred since the days when they walked about on earth as his companions in the flesh. [[UB 195:10.6](/en/The_Urantia_Book/195#p10_6)]; (my bold) 
+> The **call** to the adventure of building a new and transformed human society by means of **the spiritual rebirth of Jesus’ brotherhood of the kingdom** should **thrill** all who believe in him as men have not been stirred since the days when they walked about on earth as his companions in the flesh. [[UB 195:10.6](/en/The_Urantia_Book/195#p10_6)]; (my bold) 
 
 The time for a new revelation of Jesus has come! The leaders of this new revelation will bring about the spiritual rebirth of Jesus’ brotherhood of the kingdom. They will spark a great new spiritual renaissance. For those who feel inclined to help bring about this new revelation, three fundamental requirements are set forth.  
 
@@ -43,13 +41,13 @@ The new teacher-leaders must:
 
 If we seek membership in this now forming corps of new teacher-leaders it is good to reflect upon each of these requirements. We will find that, just as the task is great, so also are the requirements. What follows may be thought of as a guide and basic training manual for those who aspire to become new teacher-leaders. As we ponder what role we might play in this great adventure let us be mindful what Jesus requires of his followers: 
 
-> In accordance with the truth committed to your hands will the Master of truth demand a reckoning. [[UB 176:3.8](/en/The_Urantia_Book/176#p3_8)]
+> In accordance with the truth committed to your hands will the Master of truth demand a reckoning. [[UB 176:3.7](/en/The_Urantia_Book/176#p3_7)]
 
 ## The Spirituality Requirement 
 
 The first and most basic requirement for the new teacher-leaders is that they be “spiritual men and women.” What does it mean to be “spiritual”? 
 
-Spirituality is a reflection of our closeness to God; it is the measure of our attunement to his indwelling spirit. It is directly proportional to the elimination of the selfish qualities of love. And crucially, it is also a measure of the effectiveness of our spiritual ministry. Here is how the revelators put it: _Spirituality becomes at once the indicator of one’s nearness to God and the_ **_measure of one’s usefulness to fellow beings_**_._ [[UB 100:2.4](/en/The_Urantia_Book/100#p2_4)] (my bold) 
+Spirituality is a reflection of our closeness to God; it is the measure of our attunement to his indwelling spirit. It is directly proportional to the elimination of the selfish qualities of love. And crucially, it is also a measure of the effectiveness of our spiritual ministry. Here is how the revelators put it: _Spirituality becomes at once the indicator of one’s nearness to God and the_ **_measure of one’s usefulness to fellow beings_**. [[UB 100:2.4](/en/The_Urantia_Book/100#p2_4)] (my bold) 
 
 ### The Birth Of The Spirit 
 
@@ -69,7 +67,7 @@ Since the birth of the spirit is a gradual process that is mostly unconscious, h
 
 > ...those who are born of the spirit will immediately begin to show forth the fruits of the spirit in loving service to their fellow creatures. [[UB 193:2.2](/en/The_Urantia_Book/193#p2_2)] 
 
-> But be not deceived; while salvation is the free gift of God and is bestowed upon all who accept it by faith, there follows the experience of bearing the fruits of this spirit life as it is lived in the flesh._ [[UB 193:1.2](/en/The_Urantia_Book/193#p1_2)] (P.2053) _If professed believers bear not these fruits of the divine spirit in their lives, they are dead. [[UB 193:2.2](/en/The_Urantia_Book/193#p2_2)]
+> But be not deceived; while salvation is the free gift of God and is bestowed upon all who accept it by faith, there follows the experience of bearing the fruits of this spirit life as it is lived in the flesh. [[UB 193:1.2](/en/The_Urantia_Book/193#p1_2)] If professed believers bear not these fruits of the divine spirit in their lives, they are dead. [[UB 193:2.2](/en/The_Urantia_Book/193#p2_2)]
 
 We must also realize that the Father requires of his faithful followers not only that they bear the fruits of the spirit, but that they grow and progress in spiritual fruit bearing. As we continue in the Father’s will we must increasingly show forth spiritual fruit in our personal lives. Here is how Jesus put it: 
 
@@ -99,11 +97,11 @@ So our first job is to be born of the spirit, but this spirit birth must be imme
 
 We cannot stand still in the kingdom. We must go forward, and the culminating result of such growth and advancement is spiritual adulthood and maturity. As new teacher-leaders we must understand that to effectively reveal Jesus we will have to reach spiritual adulthood. We are called to be living examples of the mature spirituality that may be attained by a true follower of Jesus. Here is what he taught about growing up to spiritual adulthood and maturity: 
 
-> You may enter the kingdom as a child, but_ **_the Father requires that you grow up, by grace, to the full stature of spiritual adulthood_**. [[UB 193:2.2](/en/The_Urantia_Book/193#p2_2)] (my bold) 
+> You may enter the kingdom as a child, but **the Father requires that you grow up, by grace, to the full stature of spiritual adulthood**. [[UB 193:2.2](/en/The_Urantia_Book/193#p2_2)] (my bold) 
 
-> Childlike trust secures man’s entrance into the kingdom of heavenly ascent, but progress is wholly dependent on the vigorous exercise of the_ **_robust and confident faith of the full- grown man_**. [[UB 102:1.1](/en/The_Urantia_Book/102#p1_1)] (my bold) 
+> Childlike trust secures man’s entrance into the kingdom of heavenly ascent, but progress is wholly dependent on the vigorous exercise of the **robust and confident faith of the full-grown man**. [[UB 102:1.1](/en/The_Urantia_Book/102#p1_1)] (my bold) 
 
-> Though Jesus taught that faith, simple childlike belief, is the key to the door of the kingdom, he also taught that, having entered the door, there are progressive steps of righteousness which every believing child must ascend in order to_ **_grow up to the full stature of the robust sons of God_**. [[UB 170:3.2](/en/The_Urantia_Book/170#p3_2)] (my bold) 
+> Though Jesus taught that faith, simple childlike belief, is the key to the door of the kingdom, he also taught that, having entered the door, there are progressive steps of righteousness which every believing child must ascend in order to_ **grow up to the full stature of the robust sons of God**. [[UB 170:3.2](/en/The_Urantia_Book/170#p3_2)] (my bold) 
 
 (See Appendix 1.3 Four Step Progression to Spiritual Adulthood) 
 
@@ -111,7 +109,7 @@ We cannot stand still in the kingdom. We must go forward, and the culminating re
 
 Spiritual adulthood and maturity qualifies us to progress to an even higher state of spirituality. This is the level wherein Jesus, through his indwelling spirit of Truth, is enabled to live again in us. The most successful teacher- leaders will reach this exalted state. This will make them truly effective representatives and ministers of Jesus. It is this level of spirituality that the revelators call for: 
 
-> **_The world needs to see Jesus living again on earth in the experience of spirit-born mortals_** who effectively reveal the Master to all men. [[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)]; (my bold) 
+> **The world needs to see Jesus living again on earth in the experience of spirit-born mortals** who effectively reveal the Master to all men. [[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)]; (my bold) 
 
 The new teacher-leaders are called to attain that level of spirituality such that their lives naturally reflect Jesus and his inner spirit. Just as Jesus provided a living demonstration of his religion to his day and age, so are we called to be the living demonstrations of Jesus and his teachings to our modern world. We must be spirit-filled such that when others see us they may see Jesus! 
 
@@ -162,7 +160,7 @@ We may take our first step by simply choosing to work for this goal. We can make
 
 We add power to our efforts by praying that we may be a force for spiritual regeneration in others. We may pray that Jesus live again in us and that he work through us to spiritually inspire and uplift those we contact. Here is the ideal the revelators call us to live up to: 
 
-> Jesus’ disciples should be more than conquerors, even overflowing sources of inspiration and enhanced living to all men. [195:10.] (P. 2084) 
+> Jesus’ disciples should be more than conquerors, even overflowing sources of inspiration and enhanced living to all men. [[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)]
 
 ## The Requirement to Depend Solely on Jesus 
 
@@ -198,7 +196,7 @@ His teachings are best understood by observing the perfected life he lived on ea
 
 The third reason for the exclusivity requirement is the fact that only Jesus and his incomparable teachings possess the power to bring about the spiritual renaissance. _The Urantia Book_ tells us that Christianity _“has truly been one of the greatest powers for good on the earth”_ [[UB 195:10.12](/en/The_Urantia_Book/195#p10_12)]. It has done its job carrying the kingdom of Jesus’ concept forward for 2000 years, up to and through our present material and secular age. But now more is needed. Only Jesus and his personal religion possess the power to see us through the three great problems that our world now faces: spiritual non-progression, materialistic secularism, and unceasing social change. Only Jesus and his teachings possess the power to stabilize us in this time of crisis and triumph over these modern threats to civilization. Only through Jesus and his teachings will we attain the new spiritual renaissance. Here is how the revelators put it: 
 
-> Christianity has indeed done a great service to this world but_ **_what is now most needed is Jesus_**. [[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)] (my bold) 
+> Christianity has indeed done a great service to this world but **what is now most needed is Jesus**. [[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)] (my bold) 
 
 (See Appendix 1.9 Summary of Reasons for the Exclusivity Requirement) 
 
@@ -218,9 +216,9 @@ Jesus said, _“I am the vine, you are the branches .”_ This is a wonderful id
 
 It should be clear that a revival of the actual teachings of Jesus that displaces the Christian teachings about Jesus is a gigantic task, and will not be easy. However, we may take solace and encouragement from the fact that our efforts to reveal Jesus will not be solitary. We are not undertaking this great work alone. The Spirit of Truth will be our full partner, in fact our guiding partner, in this great enterprise. The fact that Jesus’ Spirit of Truth was poured out upon us at Pentecost means that we are specially equipped to achieve our mission. In fact, our new revelation of Jesus’ life and teachings is really a part of the ongoing mission of the Spirit of Truth to reveal Jesus to each new generation of mortals on earth. Here is what the revelators tell us: 
 
-> ...the Spirit of Truth came to help the believer to witness to the realities of Jesus’ teachings and his life as he lived it in the flesh.... [[UB 194:2.6](/en/The_Urantia_Book/194#p2_6)] (my bold) 
+> ...the Spirit of Truth **came to help the believer to witness to the realities of Jesus’ teachings and his life** as he lived it in the flesh.... [[UB 194:2.6](/en/The_Urantia_Book/194#p2_6)] (my bold) 
 
-> This spirit was bestowed for the purpose of qualifying believers more effectively to preach the gospel of the kingdom ... [[UB 194:3.5](/en/The_Urantia_Book/194#p3_5)] (my bold) 
+> This spirit **was bestowed for the purpose of qualifying believers more effectively to preach the gospel of the kingdom** ... [[UB 194:3.5](/en/The_Urantia_Book/194#p3_5)] (my bold) 
 
 We should always remember and be strengthened by the fact that our revelation of Jesus will be accomplished in partnership with his Spirit of Truth working in and through us. We are not fighting alone, but rather in partnership with the God of the universe. Jesus’ spirit will help and guide us. Our part is to maintain our spiritual connection with him and grow ever more receptive to his spiritual guidance. 
 
@@ -240,9 +238,7 @@ Today I am happy to announce that there is another significant resource availabl
 
 The basic idea for the book was to take all the true verses regarding Jesus from the Bible and put them together in their proper sequence based on the chronology of _The Urantia Book_. Erroneous passages, such as the virgin birth or walking on water, were simply left out. The goal was to produce a book of Jesus’ life and teachings that would be fully acceptable to most Christians and at the same time be fully harmonious with the teachings of _The Urantia Book_. My first use of the book was at graduation ceremonies at a small school I founded many years ago. At these ceremonies I presented each departing student with a copy of the book, and I am happy to report that it was always well received. More recently the book has been given at graduation ceremonies at a small seminary in Texas. Also a number of readers have reported that they have successfully used the book to teach Sunday school. In India a group of some 30 pastors has used it for years to guide their ministry. It has even been translated into Telegu, their native language, for wider distribution. This group of Christian pastors uses both the Bible and The Life and Teachings in their services. 
 
-I do believe this book can be a valuable tool in our efforts to expand the revelation of Jesus. It provides us with a restatement of Jesus’ life and teachings that is wholly constructed from Biblical passages, while at the same time it is free from the misinterpretations, errors, 
-
-and false doctrines, generally associated with the Bible and Christianity. These words from the gospels are recognized and honored by Christians all over the world and by many others as well. In fact, the pure life and teachings of Jesus, freed from the surrounding Christian teachings and dogma, should also prove acceptable both to non-believers and to those of other faiths. The book itself is always well received as a gift, thereby providing an acceptable and trustworthy revelation of Jesus that we can leave with others for guidance, comfort, and inspiration. It is an easy way to transmit the true teachings of Jesus, here and now.  
+I do believe this book can be a valuable tool in our efforts to expand the revelation of Jesus. It provides us with a restatement of Jesus’ life and teachings that is wholly constructed from Biblical passages, while at the same time it is free from the misinterpretations, errors, and false doctrines, generally associated with the Bible and Christianity. These words from the gospels are recognized and honored by Christians all over the world and by many others as well. In fact, the pure life and teachings of Jesus, freed from the surrounding Christian teachings and dogma, should also prove acceptable both to non-believers and to those of other faiths. The book itself is always well received as a gift, thereby providing an acceptable and trustworthy revelation of Jesus that we can leave with others for guidance, comfort, and inspiration. It is an easy way to transmit the true teachings of Jesus, here and now.  
 
 ## The Future 
 
@@ -276,7 +272,7 @@ What is this “saving message” that would spiritually unite the various Chris
 
 The kingdom Jesus taught is the Father’s will dominant and transcendent in the heart of the believer. We enter the kingdom by faith in Jesus’ teaching that God is our Father, and then by choosing to do our Father’s will. Jesus showed us the way to life in the kingdom with his two great prayers, “your will be done,” and “Not my will but yours be done.” 
 
-In his first appearance after the crucifixion Jesus made clear to his assembled followers that, “Sonship with God by faith is still the saving truth of the gospel of the kingdom .” [[UB 193:0.4](/en/The_Urantia_Book/193#p0_4)] He emphasized that what the world needs most to know is that we are all sons and daughters of God and through faith we may actually realize and daily experience this great truth. In our work we must always teach others to see themselves as sons and daughters of God, our loving heavenly Father.   
+In his first appearance after the crucifixion Jesus made clear to his assembled followers that, “_Sonship with God by faith is still the saving truth of the gospel of the kingdom_.” [[UB 193:0.4](/en/The_Urantia_Book/193#p0_4)] He emphasized that what the world needs most to know is that we are all sons and daughters of God and through faith we may actually realize and daily experience this great truth. In our work we must always teach others to see themselves as sons and daughters of God, our loving heavenly Father.   
 
 ### The Success Of Our Mission 
 

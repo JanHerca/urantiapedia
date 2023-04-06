@@ -72,7 +72,7 @@ NO INDIVIDUAL can be considered SUPERIOR or INFERIOR based solely on Race
 
 The reaction of some is to pronounce _The Urantia Book_ as racist because it uses terms such as superior and inferior when discussing race. But _The Urantia Book_ is not racist, quite the contrary, though it purports a multiplicity of differentiated abilities to each race, it states quite clearly that all races have particular values that are intended to be biologically shared with all races once each individual race purged itself of its least worthy members. This was supposed to be accomplished 39,000 years ago but was not because of the earlier Dalmatia default. It left us in the difficult position of trying to remedy our racial situation today fairly, ethically, and morally without much guidance. 
 
-> “Variety is indispensable to opportunity for the wide functioning of natural selection, differential survival of superior strains. Stronger and better races are to be had from the interbreeding of diverse peoples when these different races are carriers of superior inheritance factors.”_ [[UB 64:6.31](/en/The_Urantia_Book/64#p6_31)]
+> “Variety is indispensable to opportunity for the wide functioning of natural selection, differential survival of superior strains. Stronger and better races are to be had from the interbreeding of diverse peoples when these different races are carriers of superior inheritance factors.”_ [[UB 64:6.31-32](/en/The_Urantia_Book/64#p6_31)]
 
 So, contrary to historical racist beliefs, _The Urantia Book_ clearly states that there was always a plan to merge the races and not, as some still think, to keep them separate according to “god and the laws of nature”. 
 

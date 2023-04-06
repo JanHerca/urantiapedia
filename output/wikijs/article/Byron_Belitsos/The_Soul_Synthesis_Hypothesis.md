@@ -1,6 +1,6 @@
 ---
 title: "The Soul-Synthesis Hypothesis"
-description: Paranormal Reflections on Soul-Making and Cosmic Spirituality""
+description: "Paranormal Reflections on Soul-Making and Cosmic Spirituality"
 published: true
 date: 2023-02-19T14:02:03.086Z
 tags: 

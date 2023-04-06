@@ -16,7 +16,7 @@ Asimismo, los grupos de estudio están echando raíces para un gran movimiento, 
 
 La socialización o difusión de la Quinta Revelación de Época a través de una creciente red de grupos de estudio dependerá de lo que los participantes traigan a tales reuniones y de lo que tomen de ellas. Las interacciones entre personas, cuando se realizan en una búsqueda reveladora de Dios, pueden aprovechar el espíritu de su gracia, elevando así la conciencia humana. Recuerda, la búsqueda de Dios es nada menos que la búsqueda de la fuente y el centro de todas las cosas y seres. Es más, un Arcángel de Nebadon nos asegura que, _«El conocimiento sólo se posee compartiéndolo; es salvaguardado por la sabiduría y se socializa por medio del amor.»_ [[LU 48:7.28](/es/The_Urantia_Book/48#p7_28)]
 
-Un Mensajero Solitario refuerza este punto con la generalización de que «La personalidad no puede trabajar muy bien cuando está aislada. El hombre es de manera innata una criatura sociable; está dominado por el ardiente deseo de la pertenencia». [[LU 112:1.16](/es/El_Libro_de_Urantia/112#p1_16)]
+Un Mensajero Solitario refuerza este punto con la generalización de que «La personalidad no puede trabajar muy bien cuando está aislada. El hombre es de manera innata una criatura sociable; está dominado por el ardiente deseo de la pertenencia». [[LU 112:1.16](/es/The_Urantia_Book/112#p1_16)]
 
 Conocer a otros que comparten mentes y almas afines es el gran beneficio inmediato de los grupos de estudio. La tesis que se ofrece en este ensayo se refiere a la lógica viva para que las personas individuales se reúnan en estudio de manera regular en busca de Dios intelectual y espiritualmente.   
 
@@ -26,7 +26,7 @@ Con ese espíritu, me gustaría sugerir que pensemos en cada grupo de estudio co
 
 Vamos más allá del rol de ser meros lectores del libro; estamos más en el papel de estudiantes que buscan el Agua Viva y el Pan de Vida. Un estudiante en este contexto puede definirse como un observador atento y sistemático, que está comprometido en mente y alma como un ciudadano cósmico que crece con el Supremo.
 
-Un nuevo punto de vista sobre hechos antiguos o desde una perspectiva convencional puede constituir un «odre nuevo». Eso es lo que se propone aquí. Un Arcángel explicó la utilidad de un punto de vista diferente, al hacer referencia a declaraciones de filosofía humana con fines instructivos sobre el Primer Mundo de Estancia: «Sólo un poeta puede discernir la poesía en la prosa corriente de la existencia rutinaria». [[LU 48:7.22](/es/El_Libro_de_Urantia/48#p7_22)]
+Un nuevo punto de vista sobre hechos antiguos o desde una perspectiva convencional puede constituir un «odre nuevo». Eso es lo que se propone aquí. Un Arcángel explicó la utilidad de un punto de vista diferente, al hacer referencia a declaraciones de filosofía humana con fines instructivos sobre el Primer Mundo de Estancia: «Sólo un poeta puede discernir la poesía en la prosa corriente de la existencia rutinaria». [[LU 48:7.22](/es/The_Urantia_Book/48#p7_22)]
 
 Esta designación de los grupos de estudio como «escuelas» con todas las implicaciones educativas allí contenidas, abre el acto de estudiar como un concepto más alto, más digno, más elevado, dado su carácter revelador y su (potencial) significado planetario. Profundiza y amplía la perspectiva del ***universo*** de ellos, por lo tanto, los «odres nuevos».
 

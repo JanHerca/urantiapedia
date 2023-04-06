@@ -118,9 +118,9 @@ La revelación automática o personal (iluminación espiritual) deleita tu alma.
 
 Este ejemplo tuvo lugar cuando Jesús con su padre José subió a Jerusalén alrededor de los 13 años.
 
-> El día anterior al sábado de la Pascua, una oleada de iluminación espiritual atravesó la mente mortal de Jesús e inundó su corazón humano de piedad afectuosa por las multitudes espiritualmente ciegas y moralmente ignorantes, reunidas para celebrar la antigua conmemoración de la Pascua. [[LU 124:6.15](/es/El_Libro_de_Urantia/124#p6_15)]
+> El día anterior al sábado de la Pascua, una oleada de iluminación espiritual atravesó la mente mortal de Jesús e inundó su corazón humano de piedad afectuosa por las multitudes espiritualmente ciegas y moralmente ignorantes, reunidas para celebrar la antigua conmemoración de la Pascua. [[LU 124:6.15](/es/The_Urantia_Book/124#p6_15)]
 
-> Otro ejemplo: Jesús preguntó a sus apóstoles «Pero ¿quién decís vosotros que soy?»... Simón Pedro se levantó de un salto, y exclamó: «Tú eres el Libertador, el Hijo del Dios vivo»... (Jesús ) dijo: «Esto os ha sido revelado por mi Padre». [[LU 157:3.5-6](/es/El_Libro_de_Urantia/157#p3_5)]
+> Otro ejemplo: Jesús preguntó a sus apóstoles «Pero ¿quién decís vosotros que soy?»... Simón Pedro se levantó de un salto, y exclamó: «Tú eres el Libertador, el Hijo del Dios vivo»... (Jesús ) dijo: «Esto os ha sido revelado por mi Padre». [[LU 157:3.5-6](/es/The_Urantia_Book/157#p3_5)]
 
 Y una experiencia personal: teniendo escasos recuerdos de mi padre humano después de su muerte cuando yo tenía siete años, sentí profundamente la falta de cuidado del reloj de un padre. Qué anhelo tenía por la guía de un padre amoroso. Con este trasfondo cuento una mañana crucial hace años.
 
@@ -132,7 +132,7 @@ Oh, cómo hablé con él, derramando mi corazón y agradeciéndole por ser mi pr
 
 **En resumen**, estas son formas en las que escucho y soy guiado. Todavía hay otros por revelar. La comunicación con lo Divino evoluciona. Esta cita de _El Libro de Urantia_ ilustra esto:
 
-> Desde esta posición de ventaja de la vida superior, el hombre es capaz de trascender las irritaciones materiales de los niveles inferiores de pensamiento —las preocupaciones, los celos, la envidia, la venganza y el orgullo de la personalidad inmadura. Las almas que ascienden a estas alturas se liberan de una multitud de conflictos a contracorriente de las nimiedades de la vida, volviéndose así libres para alcanzar la conciencia de las corrientes superiores de los conceptos espirituales y de las comunicaciones celestiales. [[LU 160:3.5](/es/El_Libro_de_Urantia/160#p3_5)]
+> Desde esta posición de ventaja de la vida superior, el hombre es capaz de trascender las irritaciones materiales de los niveles inferiores de pensamiento —las preocupaciones, los celos, la envidia, la venganza y el orgullo de la personalidad inmadura. Las almas que ascienden a estas alturas se liberan de una multitud de conflictos a contracorriente de las nimiedades de la vida, volviéndose así libres para alcanzar la conciencia de las corrientes superiores de los conceptos espirituales y de las comunicaciones celestiales. [[LU 160:3.5](/es/The_Urantia_Book/160#p3_5)]
 
 Harry McMullen, en una conferencia sobre El libro de Urantia, presentó su punto de vista sobre el discernimiento de la voluntad de Dios. Aquí hay un párrafo para darle una idea (vea la nota al pie para la referencia a su charla; vale la pena leerlo).
 

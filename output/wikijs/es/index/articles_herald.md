@@ -460,15 +460,15 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 | Título                                                                                                                             | Autor                         | Etiquestas |
 | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ---- |
-| [Survival of the Subnormal Mind](/es/article/Rick_Lyon/Survival_of_the_Subnormal_Mind)                                            | Rick Lyon                      |
-| [The Soul Synthesis Hypothesis](/es/article/Byron_Belitsos/The_Soul_Synthesis_Hypothesis)                                         | Byron Belitsos                 |
-| [I, Brother - The Urantia Papers and Issues of Race](/es/article/Dennis_Marshall/I_Brother_The_Urantia_Papers_and_Issues_of_Race) | DJ Marshall                    |
-| [A Tale of Two Men](/es/article/Linda_Buselli/A_Tale_of_Two_Men)                                                                  | Linda Buselli                  |
-| [Akhenaten](/es/article/Derek_Samaras/Akhenaten)                                                                                  | Derek Samaras                  |
-| [The New Teacher/Leaders](/es/article/Preston_Thomas/The_New_Teacher_Leaders)                                                     | Preston Thomas                 |
-| [Unsinkable and Unbreakable](/es/article/James_Perry/Unsinkable_and_Unbreakable)                                                  | James Perry                    |
-| [The Supreme Being in My Life](/es/article/Yvon_Gagne/The_Supreme_Being_in_My_Life)                                               | Yvon Gagne                     |
-| [The Eden-Atlantis Project](/es/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project)                                           | Commodore Robert Stanley Bates |
+| [Supervivencia de la mente subnormal](/es/article/Rick_Lyon/Survival_of_the_Subnormal_Mind)                                            | Rick Lyon                      |
+| [La hipótesis de la síntesis del alma](/es/article/Byron_Belitsos/The_Soul_Synthesis_Hypothesis)                                         | Byron Belitsos                 |
+| [Yo, hermano - Los documentos de Urantia y cuestiones de raza](/es/article/Dennis_Marshall/I_Brother_The_Urantia_Papers_and_Issues_of_Race) | DJ Marshall                    |
+| [Historia de dos hombres](/es/article/Linda_Buselli/A_Tale_of_Two_Men)                                                                  | Linda Buselli                  |
+| [Akenatón](/es/article/Derek_Samaras/Akhenaten)                                                                                  | Derek Samaras                  |
+| [El nuevo maestro/líderes](/es/article/Preston_Thomas/The_New_Teacher_Leaders)                                                     | Preston Thomas                 |
+| [Insumergible e irrompible](/es/article/James_Perry/Unsinkable_and_Unbreakable)                                                  | James Perry                    |
+| [El ser supremo en mi vida](/es/article/Yvon_Gagne/The_Supreme_Being_in_My_Life)                                               | Yvon Gagne                     |
+| [El Proyecto Edén-Atlántida](/es/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project)                                           | Commodore Robert Stanley Bates |
 
 <br>
 

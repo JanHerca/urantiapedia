@@ -34,10 +34,10 @@ Este ensayo analiza la historia del movimiento Urantia en un lapso de 85 años �
 
 Temporada | Arquetipos | Estado de ánimo | Años | Eventos significativos  
 --- | --- | --- | --- | ---
-1\. Primavera | Profeta (Idealista) | Cumbre | 1939–1960 | Se forman los «setenta»; fundación de la <br>Fundación y la Hermandad; primera<br>impresión del libro
-2\. Verano | Nómada (Reactivo) | Despertar | 1961–1980 | Crecimiento de grupos de estudio y sociedades;<br>restricciones en nombre, símbolo, promoción,<br>y cotización
-3\. Otoño | Héroe (cívico) | Desengaño | 1981–20 02 | Conferencia Snowmass; Familia de Dios<br>Picos de la Fundación; privación de derechos,<br>juicios, renuncias; nuevos administradores de la Fundación<br>nombrados
-4\. | Invierno | Artista (Adaptable) | Crisis &<br>Oportunidad | 2003–2024 | Aumento de las traducciones y presencia internacional; Comienza el Comité de Jóvenes de la<br>Fellowship; cooperación entre <br>la Fellowship y la UAI y «?»
+1\. Primavera | Profeta (Idealista) | Cumbre | 1939-1960 | Se forman los «setenta»; fundación de la <br>Fundación y la Hermandad; primera<br>impresión del libro
+2\. Verano | Nómada (Reactivo) | Despertar | 1961-1980 | Crecimiento de grupos de estudio y sociedades;<br>restricciones en nombre, símbolo, promoción,<br>y cotización
+3\. Otoño | Héroe (cívico) | Desengaño | 1981-20 02 | Conferencia Snowmass; Familia de Dios<br>Picos de la Fundación; privación de derechos,<br>juicios, renuncias; nuevos administradores de la Fundación<br>nombrados
+4\. | Invierno | Artista (Adaptable) | Crisis &<br>Oportunidad | 2003-2024 | Aumento de las traducciones y presencia internacional; Comienza el Comité de Jóvenes de la<br>Fellowship; cooperación entre <br>la Fellowship y la UAI y «?»
 1\. Primavera | Profeta (Idealista) | Alto | 2025– | El futuro de la construcción institucional
 
 ## Primera Estación
@@ -95,7 +95,7 @@ Hacia el final de este período, debido a su interés mutuo en el ministerio uni
 
 ## Tercera temporada
 
-**Otoño. Héroe (cívico). Estado de ánimo: _Desengaño_. c. 1981–2002**
+**Otoño. Héroe (cívico). Estado de ánimo: _Desengaño_. c. 1981-2002**
 
 En 1981 se llevó a cabo la conferencia trienal internacional de lectores en Snowmass, Colorado. Yo y muchos otros sentimos que el cielo había bajado a la tierra. Tuvimos una Revelación y el feliz y resplandeciente pueblo de Dios con quien compartirlo todo. Un predicador muy inspirador, Vern Bennom Grimsley, fue el orador principal. Vern tenía una transmisión de radio en los cincuenta estados y algunas estaciones fuera del país, así como en la red de radio de los Servicios Armados. Encajaba en la definición de un arquetipo de héroe, y esto empeoró las cosas cuando las cosas salieron mal para él y para nosotros.
 
@@ -138,7 +138,7 @@ _Teoría generacional_ es un punto de partida para considerar esta idea. El obje
 
 ## Cuarta Temporada 
 
-**Invierno. Artista (Adaptativo). Estado de ánimo:** **_Crisis y Oportunidad_****. C. 2003–2024**
+**Invierno. Artista (Adaptativo). Estado de ánimo:** **_Crisis y Oportunidad_****. C. 2003-2024**
 
 El invierno pone en crisis el mundo vegetal y animal. Los recursos son escasos y las reservas almacenadas son esenciales para la supervivencia. El artista adaptativo ejerce su oficio ya sea que la jerarquía pueda y esté dispuesta a ayudar o no. Escribe sus sinfonías solo a la luz de las velas. Pinta en una ladera solitaria, capturando los contornos del trigo ondulante. El escritor hace sus observaciones y tranquilamente las pone por escrito. El bailarín no puede evitar bailar. La falta de ingresos o de recursos tal vez sólo los estimule a la creatividad. Un día, su trabajo puede ser leído o interpretado ante multitudes de admiradores o visto en galerías o en los medios, pero ¿quién sabe? Y en algún momento puede aparecer un verdadero músico y cambiar para siempre el curso de la historia mundial.
 
@@ -183,7 +183,7 @@ Curiosamente, el análisis de Strauss-Howe del actual círculo de tiempo de oche
 
 La generación Baby Boomer ha tomado su turno, y su liderazgo ha estado dominado por abogados y empresarios. No lo digo a modo de crítica. Sus esfuerzos han establecido nuestras instituciones, y eso es parte de una progresión evolutiva normal. Sin embargo, esta generación y la próxima deben moverse hacia entregar la educación a maestros-filósofos y científicos.
 
-> La educación ha pasado recientemente del control del clero al de los juristas y los hombres de negocios. Con el tiempo deberá ser confiada a los filósofos y a los científicos. Los educadores deben ser unos seres libres, unos auténticos dirigentes, para que la filosofía, la búsqueda de la sabiduría, pueda convertirse en el objetivo principal de la educación. [[LU 71:7.4](/es/El_Libro_de_Urantia/71#p7_4)]
+> La educación ha pasado recientemente del control del clero al de los juristas y los hombres de negocios. Con el tiempo deberá ser confiada a los filósofos y a los científicos. Los educadores deben ser unos seres libres, unos auténticos dirigentes, para que la filosofía, la búsqueda de la sabiduría, pueda convertirse en el objetivo principal de la educación. [[LU 71:7.4](/es/The_Urantia_Book/71#p7_4)]
 
 La calidad de nuestros esfuerzos durante los próximos diez años será decisiva en la preparación de una nueva primavera de vida y crecimiento. Habrá avivamiento, pero lo único de lo que estoy seguro es que vendrá de maneras inesperadas pero altamente efectivas. Jesús dijo: «Oyes el sonido del viento, pero no sabes de dónde viene ni adónde va».  
 
