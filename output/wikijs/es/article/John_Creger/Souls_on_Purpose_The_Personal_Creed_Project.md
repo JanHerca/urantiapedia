@@ -50,7 +50,7 @@ Estas líneas provienen del prefacio de Walt Whitman a _Leaves of Grass_. Léelo
 
 Entonces, ¿te gustaría escanear rápidamente las almas de algunos de mis estudiantes? ¿Sí? ¿Trajeron todos sus escáneres de almas? Excelente. Sácalos y comencemos por echar un vistazo a dos estudiantes de diferentes lados de lo que se llama la brecha de rendimiento. Empezaremos con Lorato. Se graduó hace un año el mes pasado y se fue a una de las mejores universidades. En el semestre de primavera de su segundo año en la escuela secundaria, reflexionó para una tarea en su clase de inglés sobre lo que más le importaba en la vida. Lorato eligió escribir sobre su alma:
 
-> «Creo que lo que más me importa es tener un 'alma llena'... Veo mi alma como una mezcla de varios aspectos diferentes de la vida, que incluyen emoción, experiencia, sabiduría y otros factores que puedo sentir más que explicar. Es difícil de lograr, pero creo que una vez que alguien tiene uno, la persona gana una fuerza interior y un poder que puede usar para ayudar a su entorno». Lorato Anderson, promoción de 2010
+> «Creo que lo que más me importa es tener un ‘alma llena’... Veo mi alma como una mezcla de varios aspectos diferentes de la vida, que incluyen emoción, experiencia, sabiduría y otros factores que puedo sentir más que explicar. Es difícil de lograr, pero creo que una vez que alguien tiene uno, la persona gana una fuerza interior y un poder que puede usar para ayudar a su entorno». Lorato Anderson, promoción de 2010
 
 Entonces, ¿qué tan típico era Lorato como estudiante de segundo año de secundaria? ¿Ninguno demasiado típico? Definitivamente no. Entonces, ¿qué estaba diciendo este niño atípico de 15 años sobre las almas?
 

@@ -12,7 +12,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 In the 65-year history of Urantia Brotherhood/ Urantia Book Fellowship, there probably has been only one time when General Council lost three of its members from death in a very short time span. That moment occurred from the tail end of 2019 to early April 2020, with the passing of Emilio Coppola, Avi Dogim, and Stephen Dreier. 
 
-EMILIO COPPOLA DIED SUDDENLY on December 29 from surgery for an aortic tear. He was 55. A few weeks earlier, Emilio had resigned as Treasurer of _The Urantia Book_ Fellowship, effective with the upcoming midwinter meeting in Austin, Texas. 
+Emilio Coppola died suddenly on December 29 from surgery for an aortic tear. He was 55. A few weeks earlier, Emilio had resigned as Treasurer of _The Urantia Book_ Fellowship, effective with the upcoming midwinter meeting in Austin, Texas. 
 
 Emilio was elected to a vacancy on General Council in January 2008 and to a nine-year term in summer ’09, at which time he became Treasurer. He continued to serve in that position until his resignation. In 2010 he also became Treasurer of Urantia University, and for a number of years he also served as chair of the ad hoc IT Committee on the Fellowship. 
 
@@ -28,7 +28,7 @@ As he told the story, I hoped and hoped that this was not a true story, but as h
 
 Emilio missed his calling as an actor. 
 
-IN 1964, **AVI DOGIM** was at dockside in New York with his friend, Mark Sztejnberg, awaiting the arrival of Mark’s Russian- born cousin, Lila, who was coming from Poland, where she had lived for five years. When Avi caught sight of her coming down the gangplank, he commented, “Mark, you never told me you have such a pretty cousin!” It was love at first sight. 
+IN 1964, **Avi Dogim** was at dockside in New York with his friend, Mark Sztejnberg, awaiting the arrival of Mark’s Russian- born cousin, Lila, who was coming from Poland, where she had lived for five years. When Avi caught sight of her coming down the gangplank, he commented, “Mark, you never told me you have such a pretty cousin!” It was love at first sight. 
 
 Avi was born in 1946 in what was then Palestine, before the state of Israel was created. He was 14 when he came to the US. After he and Lila were married and began raising two daughters, he had an extensive career in vocational services for Jewish immigrants, while Lila became a doctor specializing in general medicine, geriatrics, and administration. A _New York Times_ article in June 1990 quoted Avi as saying that it was fairly easy to find clerical jobs for refugees, “but it’s tough to place engineers, computer programmers, scientists, and teachers.” 
 
@@ -38,7 +38,7 @@ In spring 2008 Avi and Lila conducted a tour to Israel for _Urantia Book_ reader
 
 In 2012 Avi joined Chuck Burton and John Hales on a weeklong bike ride along Erie Canal from Buffalo to Albany. Lila also participated by driving her car and doing some sightseeing each day along the way. At night she and Avi would stay at B&Bs, while Chuck and John would pitch their tents at designated campgrounds—along with about 500 other bikers. Each morning Avi would ride along with the guys for a while and then would say, “Well, I’ve got to get some exercise.” And his wiry body would whirl off, leaving the others in the dust. Avi had been an avid bike rider for years. 
 
-GOOGLE MAPS SHOWS that the distance from the Dogims’ condo tower to the one in Fort Lee, NJ, where Steve and Bobbie Dreier live, is just 1.2 miles. Knowing Barbara (her real name) as I do, she likely frequently walks that distance. **Steve Dreier** probably did not. I understand that their apartment looks out on George Washington Bridge. 
+Google Maps shows that the distance from the Dogims’ condo tower to the one in Fort Lee, NJ, where Steve and Bobbie Dreier live, is just 1.2 miles. Knowing Barbara (her real name) as I do, she likely frequently walks that distance. **Steve Dreier** probably did not. I understand that their apartment looks out on George Washington Bridge. 
 
 Bobbie taught grade school for 37 years. Steve was a chemistry professor and later chair of the chemistry department at New York City Technical College in Brooklyn. 
 
@@ -52,7 +52,7 @@ Among the many tributes to Steve was this one from Angie Thurston, who said, in 
 
 Steve was known for the many talks he gave over the years at conferences and retreats. Marc once asked him why he didn’t write his speeches, and Steve said he wanted to speak to the hearts of those who assembled, that he hoped to share personally what he understood and help bring them closer to God. The speech by Steve that I remember the most was one at a plenary at Summer Study Session at Lake Forest College sometime in the ‘90s. Steve used George Gershwin’s song, “Our Love is Here to Stay,” as his theme. In it he said that this was the last song that Gershwin ever wrote, as he was dying from a brain tumor. As I recall, Steve surmised that Gershwin knew he was about to die, so this was his farewell song. What I particularly remember is that Steve finished his speech by giving an a cappella rendition of the song and received a roaring response. His singing was not of the caliber of Francyl Gawryn, Barbara Hester, or Sally Annabella, but it was heartfelt. Last summer’s SSS at Techny Towers ended with a discussion about this very song and included a recording of Dinah Washington singing it. Afterwards I went up to Steve and commented on his speech of years earlier. He was pleased that I remembered it. 
 
-ON THE COVER of this issue of Fellowship _Herald_ , Stephen Sawyer has created a drawing of Steve Dreier, Emilio Coppola, and Avi Dogim in a canoe. Steve Sawyer could not have known at the time that Steve and Bobbie Dreier took their first (and perhaps only) canoe trip in the summer of 1984 after the conference in Green Lake, Wisconsin. The accompanying photo of that adventure in Boundary Waters Canoe Area in Minnesota shows them along with three other former Presidents of the Brotherhood/ Fellowship: Paul Snider, John Hales, and David Elders. Of those three, only John is still living. Paul, David, and Steve have all died within the past year. Paddle on, gentlemen. 
+On the cover of this issue of Fellowship _Herald_ , Stephen Sawyer has created a drawing of Steve Dreier, Emilio Coppola, and Avi Dogim in a canoe. Steve Sawyer could not have known at the time that Steve and Bobbie Dreier took their first (and perhaps only) canoe trip in the summer of 1984 after the conference in Green Lake, Wisconsin. The accompanying photo of that adventure in Boundary Waters Canoe Area in Minnesota shows them along with three other former Presidents of the Brotherhood/ Fellowship: Paul Snider, John Hales, and David Elders. Of those three, only John is still living. Paul, David, and Steve have all died within the past year. Paddle on, gentlemen. 
 
 ## References
 

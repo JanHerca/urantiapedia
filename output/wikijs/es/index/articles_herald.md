@@ -506,14 +506,14 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 | Título                                                                                                                                                                  | Autor            | Etiquestas |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---- |
-| [Avi Dogim, Emilio Coppola, and Steve Dreier](/es/article/Lawrence_J_Bowman/Avi_Dogim_Emilio_Coppola_and_Steve_Dreier)                                                 | Larry Bowman      |
-| [From the Supreme to the Three Person’d God: Seven Levels of Total Deity](/es/article/Dave_Holt/From_the_Supreme_to_the_Three_Persond_God_Seven_Levels_of_Total_Deity) | Dave Holt         |
-| [Growing the Supreme](/es/article/Michael_Hill/Growing_the_Supreme)                                                                                                    | Michael Hill      |
-| [Adoration of the Mother](/es/article/Joshua_J_Wilson/Adoration_of_the_Mother)                                                                                         | Joshua Wilson     |
-| [TODAY is the day for JOY!](/es/article/David_Glass/TODAY_is_the_day_for_JOY)                                                                                          | David Glass       |
-| [Uversa — the Future Headquarters of God the Supreme](/es/article/Tom_Allen/Uversa_the_Future_Headquarters_of_God_the_Supreme)                                         | Tom Allen         |
-| [To Beget Or Not to Beget That Is the Question](/es/article/JJ_Johnson/To_Beget_Or_Not_to_Beget_That_Is_the_Question)                                                  | JJ Johnson        |
-| [Contrasting Jesus and Paul](/es/article/David_Kantor/Contrasting_Jesus_and_Paul)                                                                                      | David Kantor      |
+| [Emilio Coppola, Avi Dogim, Steve Dreier](/es/article/Lawrence_J_Bowman/Avi_Dogim_Emilio_Coppola_and_Steve_Dreier)                                                 | Larry Bowman      |
+| [Del Supremo al Dios de las Tres Personas: Siete Niveles de Deidad Total](/es/article/Dave_Holt/From_the_Supreme_to_the_Three_Persond_God_Seven_Levels_of_Total_Deity) | Dave Holt         |
+| [Cultivando lo Supremo](/es/article/Michael_Hill/Growing_the_Supreme)                                                                                                    | Michael Hill      |
+| [Adoración de la Madre](/es/article/Joshua_J_Wilson/Adoration_of_the_Mother)                                                                                         | Joshua Wilson     |
+| [¡HOY es el día de la ALEGRÍA!](/es/article/David_Glass/TODAY_is_the_day_for_JOY)                                                                                          | David Glass       |
+| [Uversa — El futuro Cuartel General del Ser Supremo](/es/article/Tom_Allen/Uversa_the_Future_Headquarters_of_God_the_Supreme)                                         | Tom Allen         |
+| [Engendrar o no engendrar, esa es la cuestión0](/es/article/JJ_Johnson/To_Beget_Or_Not_to_Beget_That_Is_the_Question)                                                  | JJ Johnson        |
+| [Contraste de Jesús y Pablo](/es/article/David_Kantor/Contrasting_Jesus_and_Paul)                                                                                      | David Kantor      |
 
 <br>
 

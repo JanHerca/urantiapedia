@@ -22,11 +22,11 @@ Relationships are the threads on the loom of time that weave the tapestry that i
 3. [UB 0:9.2](/en/The_Urantia_Book/0#p9_2) “The Supreme is the Trinity unification comprehended by finite beings” 
 4. [UB 0:7.9](/en/The_Urantia_Book/0#p7_9) When finally actualized, this evolutionary Deity will constitute the eternal fusion of the finite and the infinite — the everlasting and indissoluble union of experiential power and spirit personality. 
 5. [UB 117:7.16](/en/The_Urantia_Book/117#p7_16) ...Certainly, though, the personality of the Supreme Being will be definitely contactable at some specific locality, although the ubiquity of his Deity presence will probably continue to permeate the universe of universes. 
-6. Reality of the Supreme - 130:4. Causation in the physical world, self- consciousness in the intellectual world, and progressing selfhood in the spirit world — these realities, projected on a universal scale, combined in eternal relatedness, and experienced with perfection of quality and divinity of value — constitute the reality of the Supreme.” 
+6. Reality of the Supreme - [UB 130:4.2](/en/The_Urantia_Book/130#p4_2) “Causation in the physical world, self- consciousness in the intellectual world, and progressing selfhood in the spirit world — these realities, projected on a universal scale, combined in eternal relatedness, and experienced with perfection of quality and divinity of value — constitute the reality of the Supreme.” 
 
 ## Growing The Supreme – Relationship With God What We Need To Do 
 
-1. [UB 115:0.1](/en/The_Urantia_Book/115#p0_1) WITH God the Father, sonship is the great relationship. With God the Supreme, achievement is the prerequisite to status — one must do something as well as be something 
+1. [UB 115:0.1](/en/The_Urantia_Book/115#p0_1) With God the Father, sonship is the great relationship. With God the Supreme, achievement is the prerequisite to status — one must do something as well as be something 
 2. [UB 116:1.1](/en/The_Urantia_Book/116#p1_1) The experience of every evolving creature personality is a phase of the experience of the Almighty Supreme. Our decision-actions either impede or further the actualization of the Supreme. 
 3. [UB 116:0.3](/en/The_Urantia_Book/116#p0_3) And such experiential growth implies creature-Creator partnership — God and man in association. 
     - a. And that partnership is represented in the adjuster and us 

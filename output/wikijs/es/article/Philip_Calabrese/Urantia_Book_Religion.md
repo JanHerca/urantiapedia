@@ -1,5 +1,5 @@
 ---
-title: "La inevitable (y necesaria) 'religión organizada' basada en El libro de Urantia"
+title: "La inevitable (y necesaria) ‘religión organizada’ basada en El libro de Urantia"
 description: 
 published: true
 date: 2023-02-19T14:02:03.086Z
@@ -192,7 +192,7 @@ Anteriormente en 7) se mencionan las siguientes restricciones significativas par
 
 Este simbolismo superior de una civilización más elevada debe estar basado en el concepto de la Paternidad de Dios y estar cargado del poderoso ideal de la fraternidad de los hombres. [[LU 87:7.6](/es/The_Urantia_Book/87#p7_6)]
 
-¿Qué contexto puede satisfacer todas estas restricciones? Aquí hay una posibilidad dinámica: Tener 'Celebraciones de los Espíritus de Dios que Viven en el Interior' periódicamente invitando a nuestros vecinos y amigos a nuestros hogares (o iglesia) para una comida familiar y un recuerdo ritual de la presencia de Jesús como el espíritu de la Verdad. Las expresiones individuales podrían entonces promover una evolución del simbolismo.
+¿Qué contexto puede satisfacer todas estas restricciones? Aquí hay una posibilidad dinámica: Tener ‘Celebraciones de los Espíritus de Dios que Viven en el Interior’ periódicamente invitando a nuestros vecinos y amigos a nuestros hogares (o iglesia) para una comida familiar y un recuerdo ritual de la presencia de Jesús como el espíritu de la Verdad. Las expresiones individuales podrían entonces promover una evolución del simbolismo.
 
 > Philip G Calabrese, PhD es un matemático y religioso que ha sido un entusiasta lector y presentador de _El Libro de Urantia_ desde 1970.
 

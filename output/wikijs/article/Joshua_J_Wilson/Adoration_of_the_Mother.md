@@ -10,7 +10,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Joshua Wilson<br>© 2020 Elianne Obadia, for the edition<br>© 2020 The Urantia Book Fellowship</p>
 
-EVERYONE has a birth mother. And, to foster greater love within the family circle, much can be gained from discovering and knowing the _divine feminine_. 
+Everyone has a birth mother. And, to foster greater love within the family circle, much can be gained from discovering and knowing the _divine feminine_. 
 
 The truth of motherhood begins all the way from the Trinity in Paradise, and continues to God the Mother, the Supreme Being. [[UB 117:6.8](/en/The_Urantia_Book/117#p6_8)] " _All soul- evolving humans are literally the evolutionary sons of God the Father and God the Mother, the Supreme Being._ " This truth is further revealed in the person of our Universe Mother residing at the center of our local universe, and extends to us creatures—parental procreators— and then on to more children. 
 
@@ -64,8 +64,8 @@ We are so very lovingly cared for and watched over by our Mother. “Mother, we 
 
 - The Mother Spirit of Salvington knows you fully, for her Holy Spirit on our world “searches all things.” [[UB 28:5.22](/en/The_Urantia_Book/28#p5_22)] It is comforting to know that if any personality in all the wide universes desires or has reason to know about us, such knowledge must be gained from the Mother. _She protects us_. 
 - The Universe Mother Spirit never leaves the local universe headquarters world. [[UB 34:4.7](/en/The_Urantia_Book/34#p4_7)] _She is always home_. 
-- Christ’s Spirit of Truth works as one with the presence of the spirit of the Mother. "This dual spirit liaison hovers over the world, seeking to teach truth and to spiritually enlighten your mind, to inspire your soul, and to lead you ever towards the Paradise goal of divine destiny." [[UB 34:5.4](/en/The_Urantia_Book/34#p5_4)] _Mom and Dad work together._ 
-- "The Holy Spirit is partly independent of your human attitude—and partially conditioned by the decisions and co- operation of your will. The ministry of the Holy Spirit becomes increasingly effective in sanctifying and spiritualizing your inner life as you more fully obey the divine leadings." [[UB 34:5.5](/en/The_Urantia_Book/34#p5_5)] _Do what Mom says._ 
+- Christ’s Spirit of Truth works as one with the presence of the spirit of the Mother. "_This dual spirit liaison hovers over the world, seeking to teach truth and to spiritually enlighten your mind, to inspire your soul, and to lead you ever towards the Paradise goal of divine destiny._" [[UB 34:5.4](/en/The_Urantia_Book/34#p5_4)] _Mom and Dad work together._ 
+- "_The Holy Spirit is partly independent of your human attitude—and partially conditioned by the decisions and co- operation of your will. The ministry of the Holy Spirit becomes increasingly effective in sanctifying and spiritualizing your inner life as you more fully obey the divine leadings._" [[UB 34:5.5](/en/The_Urantia_Book/34#p5_5)] _Do what Mom says._ 
 - "The Holy Spirit of the Mother ministers to your conscious realization of the faith-fact of your sonship with God." [[UB 34:5.7](/en/The_Urantia_Book/34#p5_7)] _You are her child._ 
 - We need truth “Not in word only but also in power and in the Holy Spirit.” "The seed of theoretical truth is dead, the highest moral concepts without effect, unless and until the divine Spirit breathes upon the forms of truth and quickens the formulas of righteousness." [[UB 34:6.6](/en/The_Urantia_Book/34#p6_6)] _She is powerful._ 
 - The spirit domination of your human life is increasingly attended by the characteristics of the Spirit in your life, “for the fruits of the spirit are love, joy, peace, long-suffering, gentleness, goodness, faith, meekness, and temperance.” [[UB 34:6.13](/en/The_Urantia_Book/34#p6_13)] _She brings fruitfulness._
@@ -84,7 +84,7 @@ We hear and talk about the terms: worship, prayer, and meditation, and they are 
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Joshua_J_Wilson/Adoration_of_the_Mother/004164.jpg">
-<figcaption><em> Coronation by Giotto di Bondone .</em></figcaption>
+<figcaption><em> Coronation by Giotto di Bondone. </em></figcaption>
 </figure>
 
 At this point in my upward, inward journey, Michael and Mother are becoming closer, more approachable, and more real to me day by day. Now when I read encouragements to “love God,” or to “love God with all your heart and mind and soul and strength” I’m more likely to immediately think of Michael and Mother, creator Father and creative Mother of our universe. [[UB 174:4.2](/en/The_Urantia_Book/174#p4_2)] Perhaps its because each passing day I’m farther along in my journey to meet them face to face, and I look forward to it greatly. 
@@ -93,7 +93,7 @@ Our earthly mothers raised us and helped us leave the nest like little eaglets. 
 
 I don’t remember my earthly father exactly telling me to love my mother, but he did tell me to do what she said, and the unspoken command was clearly “become what she hopes for you, and all you can be.” It has been natural for me to love my mother. I do read in the Revelation, regarding the Divine Mother, to “obey her leadings.” [[UB 34:5.5](/en/The_Urantia_Book/34#p5_5)] That is the way of love. And I read of the exquisite, divine love and mutual cooperation between our Creator Father and Mother, which is surely my best example and inspiration. Jesus said, 
 
-> “ **_The Father in heaven treats the Spirit Mother of the children of the universe as one equal to himself._** _It is Godlike to share your life and all that relates to it on equal terms with the mother partner who so fully shares with you that divine experience of reproducing yourselves in the lives of your children. If you can only love your children as God loves you, you will love and_ **_cherish your wife as the Father in heaven honors and exalts the Infinite Spirit, the mother_** _of all the spirit children of a vast universe.”_ (_The Urantia Book_, [UB 133:2.2](/en/The_Urantia_Book/133#p2_2)) 
+> “ **The Father in heaven treats the Spirit Mother of the children of the universe as one equal to himself.** It is Godlike to share your life and all that relates to it on equal terms with the mother partner who so fully shares with you that divine experience of reproducing yourselves in the lives of your children. If you can only love your children as God loves you, you will love and **cherish your wife as the Father in heaven honors and exalts the Infinite Spirit, the mother** of all the spirit children of a vast universe.” (_The Urantia Book_, [UB 133:2.2](/en/The_Urantia_Book/133#p2_2)) 
 
 Also, my earthly mother doesn’t need to say, “Love me,” but she did ask me to call more often, and she loved it when I came to visit. 
 

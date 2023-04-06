@@ -53,7 +53,7 @@ Sin embargo, nunca se encontró una «deriva del éter» (movimiento del éter c
 
 ### Mecánica Cuántica y Relatividad Absoluta del Movimiento
 
-Luego, a principios del siglo XX, después de demostrar que la luz actuaba como partículas cuánticas y no como ondas, en el fenómeno del efecto fotoeléctrico, Albert Einstein formuló su teoría de la «relatividad especial», que además de la constancia de la velocidad de la luz también suponía relatividad absoluta del movimiento de cuerpos que se mueven uniformemente entre sí. El resultado es que todos estamos 'incursionando' en un mundo extraño donde no hay, por _suposición_, ningún marco de referencia fijo en el cosmos.
+Luego, a principios del siglo XX, después de demostrar que la luz actuaba como partículas cuánticas y no como ondas, en el fenómeno del efecto fotoeléctrico, Albert Einstein formuló su teoría de la «relatividad especial», que además de la constancia de la velocidad de la luz también suponía relatividad absoluta del movimiento de cuerpos que se mueven uniformemente entre sí. El resultado es que todos estamos ‘incursionando’ en un mundo extraño donde no hay, por _suposición_, ningún marco de referencia fijo en el cosmos.
 
 Basada simplemente en la estética personal, la Teoría Especial de la Relatividad de Einstein postuló la relatividad absoluta de todos los marcos de referencia para las mediciones físicas, que ninguno debería considerarse en reposo, sino solo relativamente. Esta suposición, junto con la constante de la velocidad de la luz en todos estos marcos de referencia, implica (entre otras sorpresas) que la edad de los gemelos idénticos (o las manecillas de dos relojes inicialmente sincronizados) será diferente (cada uno más joven con respecto al otro) si se aceleran igualmente separados uno del otro y luego se juntan. La simultaneidad en el espacio en un momento específico en el tiempo se vuelve esencialmente relativa al marco de referencia. ¡Un mundo extraño en verdad!
 
@@ -213,7 +213,7 @@ La «interpretación estándar» es un callejón sin salida admitido para el con
 
 Antes de que las fracciones numéricas para el cálculo se hicieran populares, sin duda, muchas personas afirmaban que no eran necesarias, ya que todos los cálculos con fracciones se reducen a la aritmética de números enteros. Hoy en día esa posición es irrisoria.
 
-Si tomamos el Universo en primer lugar como un Todo unificado e infinito, entonces las calificaciones de este Todo, incluidas las separaciones espaciales, siempre están relacionadas entre sí por ser calificaciones del Todo único. 'En Dios (el Todo infinito) todas las cosas consisten y tienen su ser'. Consideremos más a fondo la idea del Todo Infinito utilizando _El Libro de Urantia_ como guía.
+Si tomamos el Universo en primer lugar como un Todo unificado e infinito, entonces las calificaciones de este Todo, incluidas las separaciones espaciales, siempre están relacionadas entre sí por ser calificaciones del Todo único. ‘En Dios (el Todo infinito) todas las cosas consisten y tienen su ser’. Consideremos más a fondo la idea del Todo Infinito utilizando _El Libro de Urantia_ como guía.
 
 ## Unidad, División y Agregación
 

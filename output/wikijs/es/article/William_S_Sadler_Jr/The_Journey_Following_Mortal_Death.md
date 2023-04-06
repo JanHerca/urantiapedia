@@ -10,9 +10,9 @@ dateCreated: 2023-02-14T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 William S. «Bill» Sadler, Jr.<br>© 2014 The Urantia Book Fellowship</p>
 
-La siguiente es la transcripción de una visita realizada por William S. 'Bill' Sadler, Jr. a un grupo de estudio en 1959 o 1960, cuando Bill visitó varios grupos de estudio en California, Oklahoma y otros lugares. Las transcripciones de otras sesiones grabadas se encuentran en los archivos del sitio web de la Fraternidad.
+La siguiente es la transcripción de una visita realizada por William S. ‘Bill’ Sadler, Jr. a un grupo de estudio en 1959 o 1960, cuando Bill visitó varios grupos de estudio en California, Oklahoma y otros lugares. Las transcripciones de otras sesiones grabadas se encuentran en los archivos del sitio web de la Fraternidad.
 
-Bill Sadler fue admitido en la comisión de contacto para la revelación de Urantia, uniéndose a sus padres, los Dres. William y Lena Sadler, Anna y Wilfred Kellogg, y Emma 'Christy' Christensen. Fue testigo de la llegada de la segunda serie de documentos ampliados y se dedicó a un estudio exhaustivo de ellos, haciendo preguntas que dieron lugar a los documentos Supremos. Eventualmente, asumió el liderazgo de las reuniones del Foro del domingo por la tarde.
+Bill Sadler fue admitido en la comisión de contacto para la revelación de Urantia, uniéndose a sus padres, los Dres. William y Lena Sadler, Anna y Wilfred Kellogg, y Emma ‘Christy’ Christensen. Fue testigo de la llegada de la segunda serie de documentos ampliados y se dedicó a un estudio exhaustivo de ellos, haciendo preguntas que dieron lugar a los documentos Supremos. Eventualmente, asumió el liderazgo de las reuniones del Foro del domingo por la tarde.
 
 Era una personalidad inusual. Era un intelectual pero tenía un sentido del humor único, a menudo descrito como irreverente, aunque podía emocionarse al leer partes de la historia de Adán y Eva y los documentos de Jesús. Fue el arquitecto principal de la organización y constitución de Urantia Brotherhood, ahora _The Urantia Book_ Fellowship. Bill fue autor de A Study of the Master Universe y Apéndices de A Study of the Master Universe, publicados póstumamente. Murió en Chicago, el 22 de noviembre de 1963.
 
