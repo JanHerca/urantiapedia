@@ -77,7 +77,7 @@ Para saber mais sobre o Marco do projeto, consulte [Marcos do Projeto](/pt/help/
 
 Atualmente, a *Urantiapedia* é a seguinte:
 * em todos os idiomas suportados (25): na fase I.
-* em inglês e espanhol: entre fase I e fase II.
+* em inglês, espanhol, francês e português: entre fase I e fase II.
 
 Para saber mais sobre o andamento atual do projeto, verifique aqui: [Status](/pt/help/status).
 

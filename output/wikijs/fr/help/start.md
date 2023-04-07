@@ -75,7 +75,7 @@ Pour en savoir plus sur les étapes du projet, consultez la rubrique[ Étapes du
 
 Actuellement, *Urantiapedia* se présente comme suit :
 * dans toutes les langues supportées (25) : en phase I.
-* en anglais et en espagnol : entre la phase I et la phase II.
+* en anglais, espagnol, français et portugais : entre la phase I et la phase II.
 
 Pour en savoir plus sur l'avancement actuel du projet, cliquez ici: [Statut](/fr/help/status).
 

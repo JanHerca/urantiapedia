@@ -32,7 +32,7 @@ Las relaciones son los hilos del telar del tiempo que tejen el tapiz que es el S
     - a. Y esa asociación está representada en el ajustador y nosotros.
         -i. Buscamos conocer la voluntad de Dios y asociarnos con él para formar la forma en que vivimos nuestras vidas: esta es nuestra intención de relación con la Deidad.
     - b. [LU 0:8.9](/es/The_Urantia_Book/0#p8_9) Además, es a través de Dios Séptuplo que nosotros, los mortales, podemos alcanzar la presencia de Dios, que comienza con nuestro reconocimiento de la divinidad de nuestro Hijo Creador, Miguel y nuestra Divina Madre Espíritu.
-    - C. Entonces, hay dos caminos para que podamos hacer crecer nuestra relación con Dios: con el ajustador y con nuestro Hijo Creador, Miguel, que es el primer peldaño en la escalera de Dios Séptuplo, así como con nuestra Madre Divina Espíritu.
+    - c. Entonces, hay dos caminos para que podamos hacer crecer nuestra relación con Dios: con el ajustador y con nuestro Hijo Creador, Miguel, que es el primer peldaño en la escalera de Dios Séptuplo, así como con nuestra Madre Divina Espíritu.
     - d. [LU 110:6.4](/es/The_Urantia_Book/110#p6_4) Para hacer crecer nuestra relación con el Supremo, necesitamos tener vidas con un
         - i. mente de equilibrio perfecto,
         - ii. alojado en un cuerpo de hábitos limpios,
@@ -42,16 +42,16 @@ Las relaciones son los hilos del telar del tiempo que tejen el tapiz que es el S
 4. [LU 100:1.5](/es/The_Urantia_Book/100#p1_5) Y esto constituye la base de nuestro crecimiento religioso. Y sabemos que los comportamientos esenciales para el crecimiento religioso son
     - a. vida progresiva de autorrealización,
     - b. la coordinación de las propensiones naturales,
-    - C. el ejercicio de la curiosidad y el disfrute de la aventura razonable,
+    - c. el ejercicio de la curiosidad y el disfrute de la aventura razonable,
     - d. la experiencia de sentimientos de satisfacción,
-    - mi. el funcionamiento del estímulo del miedo de la atención y la conciencia,
-    - F. la maravilla-señuelo, y una conciencia normal de pequeñez, humildad.
+    - e. el funcionamiento del estímulo del miedo de la atención y la conciencia,
+    - f. la maravilla-señuelo, y una conciencia normal de pequeñez, humildad.
     - g. El crecimiento también se basa en el descubrimiento de la individualidad acompañado de la autocrítica: la conciencia, porque la conciencia es realmente la crítica de uno mismo por los propios valores-hábitos, ideales personales.
 5. [LU 100:1.8](/es/The_Urantia_Book/100#p1_8) También se nos habla de los hábitos religiosos de pensar y actuar [que] contribuyen a la economía del crecimiento espiritual. Y estan:
     - i. sensibilidad cultivada a los valores divinos,
     - ii. reconocimiento de la vida religiosa en los demás,
     - iii. meditación reflexiva sobre significados cósmicos,
-    - IV. resolución de problemas de adoración,
+    - iv. resolución de problemas de adoración,
     - v. compartir la vida espiritual de uno con sus semejantes,
     - vi. evitar el egoísmo,
     - vii. negativa a presumir de la misericordia divina, viviendo como en la presencia de Dios.
@@ -60,7 +60,7 @@ Las relaciones son los hilos del telar del tiempo que tejen el tapiz que es el S
 7. Y esos frutos son:
     - a. [LU 34:6.13](/es/The_Urantia_Book/34#p6_13) amor, gozo, paz, longanimidad, mansedumbre, bondad, fe, mansedumbre y templanza
     - b. [LU 193:2.2](/es/The_Urantia_Book/193#p2_2) servicio amoroso, devoción desinteresada, lealtad valiente, justicia sincera, honestidad ilustrada, esperanza imperecedera, confianza confiada, ministerio misericordioso, bondad inagotable, tolerancia perdonadora y paz duradera
-    - C. [LU 115:7.2](/es/The_Urantia_Book/115#p7_2) El plan del Padre para nosotros ha ordenado
+    - c. [LU 115:7.2](/es/The_Urantia_Book/115#p7_2) El plan del Padre para nosotros ha ordenado
         - i. progreso finito sobre el esfuerzo,
         - ii. logro de la criatura sobre la perseverancia,
         - iii. y el desarrollo de la personalidad sobre la fe.

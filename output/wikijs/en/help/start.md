@@ -77,7 +77,7 @@ To find out about the Milestone of the project, check [Project Milestones](/en/h
 
 Currently *Urantiapedia* stands as follows:
 * in all supported languages (25): in phase I.
-* in English and Spanish: between phase I and phase II.
+* in English, Spanish, French and Portuguese: between phase I and phase II.
 
 To know more about the current progress of the project check here: [Status](/en/help/status).
 

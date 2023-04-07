@@ -93,7 +93,7 @@ Nuestras madres terrenales nos criaron y ayudaron a salir del nido como pequeño
 
 No recuerdo a mi padre terrenal diciéndome exactamente que amara a mi madre, pero sí me dijo que hiciera lo que ella decía, y la orden tácita era claramente «conviértete en lo que ella espera de ti, y todo lo que puedas ser». Ha sido natural para mí amar a mi madre. Y leo en el Apocalipsis, con respecto a la Madre Divina, «obedecer sus indicaciones». [[LU 34:5.5](/es/The_Urantia_Book/34#p5_5)] Ese es el camino del amor. Y leo del exquisito amor divino y la cooperación mutua entre nuestro Padre y Madre Creador, que es seguramente mi mejor ejemplo e inspiración. Jesus dijo,
 
-> « **El Padre que está en los cielos trata como a un igual al Espíritu Madre de los hijos del universo**. Es parecerse a Dios compartir tu vida y todo lo relacionado con ella en términos de igualdad con la compañera y madre que comparte contigo tan plenamente esa experiencia divina de reproduciros en las vidas de vuestros hijos. Si puedes amar a tus hijos como Dios te ama a ti, amarás y **apreciarás a tu esposa como el Padre que está en los cielos honra y exalta al Espíritu Infinito, la madre** de todos los hijos espirituales de un vasto universo.» ( _El Libro de Urantia_, [LU 133:2.2](/es/El_libro_de_Urantia/133#p2_2))
+> « **El Padre que está en los cielos trata como a un igual al Espíritu Madre de los hijos del universo**. Es parecerse a Dios compartir tu vida y todo lo relacionado con ella en términos de igualdad con la compañera y madre que comparte contigo tan plenamente esa experiencia divina de reproduciros en las vidas de vuestros hijos. Si puedes amar a tus hijos como Dios te ama a ti, amarás y **apreciarás a tu esposa como el Padre que está en los cielos honra y exalta al Espíritu Infinito, la madre** de todos los hijos espirituales de un vasto universo.» ( _El Libro de Urantia_, [LU 133:2.2](/es/The_Urantia_Book/133#p2_2))
 
 Además, mi madre terrenal no necesita decir: «Ámame», pero me pedía que la llamara más a menudo y le encantaba cuando venía a visitarla.
 
@@ -120,7 +120,7 @@ Quizá amar a nuestra Madre divina signifique justamente eso... llamarla, con fr
 Imagínese, si quiere, una gran corriente de poder y espíritu amoroso que se extiende desde el Paraíso, a través de Havona, y enfocándose en la capital de nuestro universo local de Nebadon. Luego imagina otra corriente que continúa desde esa capital del universo y se abre a las creaciones del tiempo y el espacio en el que vivimos, nos movemos y tenemos nuestro ser. Aquí hay otra forma de imaginar esto desde el centro, moviéndose hacia afuera:
 - a. La Madre Eterna, Fuente y Centro en el Paraíso
 - b. Dios Madre, el Ser Supremo que reside en Havona y supervisa el gran universo en evolución: nuestra madre experiencial
-- C. La Divina Ministra, el Espíritu Madre del Universo, la consorte de Cristo Miguel, sin la cual no podríamos ni respirar, ni pensar, ni dar un paso, que nos ha dado su Espíritu Santo.
+- c. La Divina Ministra, el Espíritu Madre del Universo, la consorte de Cristo Miguel, sin la cual no podríamos ni respirar, ni pensar, ni dar un paso, que nos ha dado su Espíritu Santo.
 - d. Nuestras propias madres biológicas, abuelas, bisabuelas y madres culturales en la tierra a quienes debemos nuestra vida inicial.
 
 Las personas son propensas a partir de lo que está «a la mano» y trabajar hacia atrás hasta los orígenes. Pero este no es el camino de la sabiduría. Debemos comenzar desde el centro (adentro) y trabajar nuestro camino hacia afuera.

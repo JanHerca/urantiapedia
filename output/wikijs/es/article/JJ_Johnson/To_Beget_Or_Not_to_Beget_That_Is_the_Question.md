@@ -37,7 +37,7 @@ El párrafo [[LU 129:3.9](/es/The_Urantia_Book/129#p3_9)], que figura a continua
 
 El párrafo [[LU 0:5.3](/es/The_Urantia_Book/0#p5_3)] a continuación revela cómo el Hijo del Hombre y el Hijo de Dios pueden coexistir en una personalidad unificada, en su estado actual. Este título fue dado en el bautismo, no antes. Después del bautismo, el estado actual de Cristo Miguel es Hijo del Hombre e Hijo de Dios. Esto sólo podía suceder después de su bautismo. Fue entonces cuando Cristo Miguel recogió este título combinado que ganó experiencialmente.
 
-> En los niveles experienciales conseguidos, todas las clases de personalidades y todos los valores de la personalidad son asociables e incluso cocreativos. Incluso Dios y el hombre pueden coexistir en una personalidad unificada, tal como lo demuestra de manera tan exquisita el estado actual de Cristo Miguel —Hijo del Hombre e Hijo de Dios. [[LU 0:5.3](/es/El_libro_de_Urantia/0#p5_3)]
+> En los niveles experienciales conseguidos, todas las clases de personalidades y todos los valores de la personalidad son asociables e incluso cocreativos. Incluso Dios y el hombre pueden coexistir en una personalidad unificada, tal como lo demuestra de manera tan exquisita el estado actual de Cristo Miguel —Hijo del Hombre e Hijo de Dios. [[LU 0:5.3](/es/The_Urantia_Book/0#p5_3)]
 
 > Deberíais comprender más cosas sobre el carácter y la naturaleza misericordiosa del Hijo Eterno de la misericordia a medida que reflexionéis sobre la revelación de estos atributos divinos, efectuada como servicio amoroso por vuestro propio Hijo Creador, en otro tiempo Hijo del Hombre en la Tierra, y **ahora** soberano exaltado de vuestro universo local —el Hijo del Hombre y el Hijo de Dios. [[LU 7:7.6](/es/The_Urantia_Book/7#p7_6)]
 

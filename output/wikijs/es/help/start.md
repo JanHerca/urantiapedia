@@ -77,7 +77,7 @@ Para conocer las fases del proyecto consulta [Fases del proyecto](/es/help/phase
 
 Actualmente *Urantiapedia* se encuentra como sigue:
 * en todos los idiomas soportados (25): en la fase I.
-* en inglés y español: entre la fase I y la fase II.
+* en inglés, español, francés y portugués: entre la fase I y la fase II.
 
 Para conocer más sobre el progreso del proyecto: [Status](/es/help/status)
 
