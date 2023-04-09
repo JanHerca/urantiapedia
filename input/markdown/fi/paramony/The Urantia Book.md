@@ -326,6 +326,7 @@
 | Bearing Jesus' cross                                                                    | Jeesuksen ristin kantaminen                                                            |
 | Bearing the cross                                                                       | Ristin kantaminen                                                                      |
 | Become as a child                                                                       | Tule kuin lapsi                                                                        |
+| Become as child in spirit                                                               | Tule lapseksi hengessä                                                                 |
 | Become as if had not been                                                               | Tulee kuin ei olisi ollutkaan                                                          |
 | Become great by ministry                                                                | Tule suureksi palvelutyön kautta                                                       |
 | Become spiritually perfected                                                            | Tulla hengellisesti täydelliseksi                                                      |

@@ -314,6 +314,7 @@
 | Bearing Jesus' cross                                                                    | Несение креста Иисуса                                               |
 | Bearing the cross                                                                       | Несение креста                                                      |
 | Become as a child                                                                       | Стань ребенком                                                      |
+| Deveniți ca un copil în spirit                                                          | Стань как ребенок в духе                                            |
 | Become as if had not been                                                               | Стать как будто и не было                                           |
 | Become great by ministry                                                                | Станьте великим благодаря служению                                  |
 | Become spiritually perfected                                                            | Стать духовно совершенным                                           |

@@ -315,6 +315,7 @@
 | Bearing Jesus' cross                                                                    | Portar la cruz de Jesús                                                     |
 | Bearing the cross                                                                       | Porteamiento de la cruz                                                     |
 | Become as a child                                                                       | Ser como un niño                                                            |
+| Become as child in spirit                                                               | Ser como un niño en espíritu                                                |
 | Become as if had not been                                                               | Serán como si no hubieran existido                                          |
 | Become great by ministry                                                                | Ser grande por el ministerio                                                |
 | Become spiritually perfected                                                            | Convertirse en perfectos espiritualmente                                    |

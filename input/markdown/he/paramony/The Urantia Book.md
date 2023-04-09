@@ -315,6 +315,7 @@
 | Bearing Jesus' cross                                                                    | נושאת הצלב של ישוע                                            |
 | Bearing the cross                                                                       | נושאת הצלב                                                    |
 | Become as a child                                                                       | להיות ילד                                                     |
+| Become as child in spirit                                                               | הפוך כילד ברוח                                                |
 | Become as if had not been                                                               | הפוך כאילו לא היה                                             |
 | Become great by ministry                                                                | להיות גדול על ידי משרד                                        |
 | Become spiritually perfected                                                            | להיות מושלם מבחינה רוחנית                                     |

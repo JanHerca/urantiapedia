@@ -323,6 +323,7 @@
 | Bearing Jesus' cross                                                                    | Porter la croix de Jésus                                                                    |
 | Bearing the cross                                                                       | Port de la croix                                                                            |
 | Become as a child                                                                       | Devenez comme un enfant                                                                     |
+| Become as child in spirit                                                               | Devenir comme un enfant dans l'esprit                                                       |
 | Become as if had not been                                                               | Devenir comme si on n'avait pas été                                                         |
 | Become great by ministry                                                                | Devenez grands par le ministère                                                             |
 | Become spiritually perfected                                                            | Devenir spirituellement parfait                                                             |

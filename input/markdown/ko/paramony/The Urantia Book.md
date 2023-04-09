@@ -314,6 +314,7 @@
 | Bearing Jesus' cross                                                                    | 예수님의 십자가를 지고                                                   |
 | Bearing the cross                                                                       | 십자가 베어링                                                            |
 | Become as a child                                                                       | 어린 시절이 되십시오                                                     |
+| Become as child in spirit                                                               | 영 안에서 어린 아이와 같이 되라                                            |
 | Become as if had not been                                                               | 없었던 것처럼 되십시오                                                   |
 | Become great by ministry                                                                | 사역으로 위대해지다                                                      |
 | Become spiritually perfected                                                            | 영적으로 완전해지십시오                                                  |

@@ -327,6 +327,7 @@
 | Bearing Jesus' cross                                                                    | حمل صلیب عیسی                                                              |
 | Bearing the cross                                                                       | حمل صلیب                                                                   |
 | Become as a child                                                                       | تبدیل شدن به کودکی                                                         |
+| Become as child in spirit                                                               | از نظر روحی کودک شوید                                                       |
 | Become as if had not been                                                               | طوری شوید که انگار نبوده اید                                               |
 | Become great by ministry                                                                | با وزارت عالی شوید                                                         |
 | Become spiritually perfected                                                            | از نظر روحی کامل شوید                                                      |

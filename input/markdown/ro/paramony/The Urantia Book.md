@@ -314,6 +314,7 @@
 | Bearing Jesus' cross                                                                    | Purtând crucea lui Isus                                                                        |
 | Bearing the cross                                                                       | Purtând crucea                                                                                 |
 | Become as a child                                                                       | Deveniți ca un copil                                                                           |
+| Become as child in spirit                                                               | Deveniți ca un copil în spirit                                                                 |
 | Become as if had not been                                                               | Deveniți ca și când nu ar fi fost                                                              |
 | Become great by ministry                                                                | Become great by ministry                                                                       |
 | Become spiritually perfected                                                            | Deveniți perfecționați spiritual                                                               |

@@ -355,6 +355,7 @@
 | Bearing Jesus' cross                                                                    | Носене на кръста на Исус                                                        |
 | Bearing the cross                                                                       | Носене на кръста                                                                |
 | Become as a child                                                                       | Станете като дете                                                               |
+| Become as child in spirit                                                               | Станете като дете по дух                                                        |
 | Become as if had not been                                                               | Стани, сякаш не си бил                                                          |
 | Become great by ministry                                                                | Станете велики чрез служение                                                    |
 | Become spiritually perfected                                                            | Станете духовно съвършени                                                       |

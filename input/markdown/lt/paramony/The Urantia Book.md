@@ -314,6 +314,7 @@
 | Bearing Jesus' cross                                                                    | Neša Jėzaus kryžių                                                       |
 | Bearing the cross                                                                       | Neša kryžių                                                              |
 | Become as a child                                                                       | Tapk vaiku                                                               |
+| Become as child in spirit                                                               | Dvasioje tapkite vaiku                                                   |
 | Become as if had not been                                                               | Tapk taip, lyg nebūtų buvę                                               |
 | Become great by ministry                                                                | Tapk puikiu pagal tarnybą                                                |
 | Become spiritually perfected                                                            | Tapk dvasiškai tobulu                                                    |

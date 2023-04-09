@@ -315,6 +315,7 @@
 | Bearing Jesus' cross                                                                    | İsa'nın haçını taşıyan                                                     |
 | Bearing the cross                                                                       | Haç taşıyan                                                                |
 | Become as a child                                                                       | Çocuk olmak                                                                |
+| Become as child in spirit                                                               | Ruhta çocuk gibi ol                                                        |
 | Become as if had not been                                                               | Olmamış gibi ol                                                            |
 | Become great by ministry                                                                | Bakanlık tarafından büyük ol                                               |
 | Become spiritually perfected                                                            | Ruhsal olarak mükemmel ol                                                  |

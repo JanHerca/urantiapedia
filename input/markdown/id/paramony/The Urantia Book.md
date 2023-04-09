@@ -314,6 +314,7 @@
 | Bearing Jesus' cross                                                                    | Memikul salib Yesus                                                                                                |
 | Bearing the cross                                                                       | Menjadi sempurna                                                                                                   |
 | Become as a child                                                                       | Memikul salib                                                                                                      |
+| Become as child in spirit                                                               | Menjadi seperti anak kecil dalam roh                                                                               |
 | Become as if had not been                                                               | Menjadi sebagai seorang anak                                                                                       |
 | Become great by ministry                                                                | Menjadi seolah-olah belum                                                                                          |
 | Become spiritually perfected                                                            | Menjadi hebat melalui pelayanan                                                                                    |

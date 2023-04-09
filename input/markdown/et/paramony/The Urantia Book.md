@@ -324,6 +324,7 @@
 | Bearing Jesus' cross                                                                    | Jeesuse risti kandmine                                                      |
 | Bearing the cross                                                                       | Risti kandmine                                                              |
 | Become as a child                                                                       | Ole nagu laps                                                               |
+| Become as child in spirit                                                               | Saa vaimselt lapseks                                                        |
 | Become as if had not been                                                               | Saabunud nagu polekski olnud                                                |
 | Become great by ministry                                                                | Saage suureks teenistuse kaudu                                              |
 | Become spiritually perfected                                                            | Vaimselt täiuslikuks saamine                                                |

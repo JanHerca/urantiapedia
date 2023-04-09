@@ -314,6 +314,7 @@
 | Bearing Jesus' cross                                                                    | イエスの十字架を負う                                                   |
 | Bearing the cross                                                                       | クロスベアリング                                                       |
 | Become as a child                                                                       | 子供のようになる                                                       |
+| Become as child in spirit                                                               | 精神的に子供のようになる                                                |
 | Become as if had not been                                                               | なかったかのようになる                                                 |
 | Become great by ministry                                                                | ミニストリーで偉大になる                                               |
 | Become spiritually perfected                                                            | 精神的に完成する                                                       |

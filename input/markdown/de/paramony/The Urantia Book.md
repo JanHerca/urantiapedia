@@ -327,6 +327,7 @@
 | Bearing Jesus' cross                                                                    | Das Kreuz von Jesus tragen                                                                                            |
 | Bearing the cross                                                                       | Das Kreuz tragen                                                                                                      |
 | Become as a child                                                                       | Werde wie ein Kind                                                                                                    |
+| Become as child in spirit                                                               | Werde wie ein Kind im Geiste                                                                                          |
 | Become as if had not been                                                               | Werden, als wäre es nicht gewesen                                                                                     |
 | Become great by ministry                                                                | Werdet groß durch den Dienst                                                                                          |
 | Become spiritually perfected                                                            | Spirituell vervollkommnet werden                                                                                      |

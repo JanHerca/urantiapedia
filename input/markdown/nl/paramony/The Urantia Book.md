@@ -314,6 +314,7 @@
 | Bearing Jesus' cross                                                                    | Het kruis van Jezus dragen                                                              |
 | Bearing the cross                                                                       | Het kruis dragen                                                                        |
 | Become as a child                                                                       | Word als kind                                                                           |
+| Become as child in spirit                                                               | Word als een kind van geest                                                             |
 | Become as if had not been                                                               | Word alsof het niet was                                                                 |
 | Become great by ministry                                                                | Word groot door bediening                                                               |
 | Become spiritually perfected                                                            | Word spiritueel geperfectioneerd                                                        |

@@ -328,6 +328,7 @@
 | Bearing Jesus' cross                                                                    | Jézus keresztjét hordozni                                              |
 | Bearing the cross                                                                       | A keresztet hordozva                                                   |
 | Become as a child                                                                       | Légy olyan, mint egy gyermek                                           |
+| Become as child in spirit                                                               | Lélekben legyél gyermeked                                              |
 | Become as if had not been                                                               | Legyenek, mintha nem is lettek volna                                   |
 | Become great by ministry                                                                | Legyetek nagyok a szolgálat által                                      |
 | Become spiritually perfected                                                            | Legyetek szellemileg tökéletesek                                       |

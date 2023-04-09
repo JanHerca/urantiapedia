@@ -333,6 +333,7 @@
 | Bearing Jesus' cross                                                                    | Φέρνοντας τον σταυρό του Ιησού                                                                     |
 | Bearing the cross                                                                       | Φέρνοντας το σταυρό                                                                                |
 | Become as a child                                                                       | Γίνε σαν παιδί                                                                                     |
+| Become as child in spirit                                                               | Γίνε σαν παιδί στο πνεύμα                                                                          |
 | Become as if had not been                                                               | Γίνε σαν να μην υπήρχε                                                                             |
 | Become great by ministry                                                                | Γίνε μεγάλος με τη διακονία                                                                        |
 | Become spiritually perfected                                                            | Γίνετε πνευματικά τελειοποιημένοι                                                                  |

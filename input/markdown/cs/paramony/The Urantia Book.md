@@ -355,6 +355,7 @@
 | Bearing Jesus' cross                                                                    | Nést Ježíšův kříž                                                |
 | Bearing the cross                                                                       | Nesení kříže                                                     |
 | Become as a child                                                                       | Staňte se jako dítě                                              |
+| Become as child in spirit                                                               | Staňte se duchem jako dítě                                       |
 | Become as if had not been                                                               | Stát se, jako by nebyl                                           |
 | Become great by ministry                                                                | Staňte se velkými službou                                        |
 | Become spiritually perfected                                                            | Staňte se duchovně dokonalými                                    |

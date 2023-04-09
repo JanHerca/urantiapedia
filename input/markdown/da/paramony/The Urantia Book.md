@@ -326,6 +326,7 @@
 | Bearing Jesus' cross                                                                    | Bærer Jesu kors                                                                          |
 | Bearing the cross                                                                       | Bære korset                                                                              |
 | Become as a child                                                                       | Bliv som et barn                                                                         |
+| Become as child in spirit                                                               | Bliv som et barn i ånden                                                                 |
 | Become as if had not been                                                               | Bliver som om de ikke havde været                                                        |
 | Become great by ministry                                                                | Bliv stor ved tjeneste                                                                   |
 | Become spiritually perfected                                                            | Bliv åndeligt fuldkommengjort                                                            |

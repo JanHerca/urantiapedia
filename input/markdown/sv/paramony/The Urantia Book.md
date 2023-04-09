@@ -314,6 +314,7 @@
 | Bearing Jesus' cross                                                                    | Bär Jesu kors                                                                         |
 | Bearing the cross                                                                       | Bär korset                                                                            |
 | Become as a child                                                                       | Bli som barn                                                                          |
+| Become as child in spirit                                                               | Bli som ett barn i anden                                                              |
 | Become as if had not been                                                               | Bli som om det inte hade varit                                                        |
 | Become great by ministry                                                                | Bli stor genom ministeriet                                                            |
 | Become spiritually perfected                                                            | Bli andligt fulländad                                                                 |
