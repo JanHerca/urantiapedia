@@ -949,20 +949,20 @@ Source: https://urantia-book.org/archive/newsletters/innerface/index.html
 
 | Título                                                                                                                                                                                       | Original                                                                           | Author | Tags |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------ | ---- |
-| [Are The Urantia Book's teachings impacting on Christian Theology? Jesus—a New Vision](/es/article/Are_The_Urantia_Books_teachings_impacting_on_Christian_Theology_Jesus_New_Vision_Part_I) | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_4/page2.html) |        |      |
+| [¿Las enseñanzas del Libro de Urantia tienen un impacto en la teología cristiana? Jesús: una nueva visión](/es/article/Are_The_Urantia_Books_teachings_impacting_on_Christian_Theology_Jesus_New_Vision_Part_I) | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_4/page2.html) |        |      |
 
 ### Volumen 12 - No. 5
 
 | Título                                                                                                                                                                                                 | Original                                                                           | Author | Tags |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------ | ---- |
-| [Are The Urantia Book's teachings impacting on Christian Theology? Jesus—a New Vision. Part II](/es/article/Are_The_Urantia_Books_teachings_impacting_on_Christian_Theology_Jesus_New_Vision_Part_II) | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_5/page2.html) |        |      |
+| [¿Las enseñanzas de El libro de Urantia tienen un impacto en la teología cristiana? Jesús: una nueva visión. Parte II](/es/article/Are_The_Urantia_Books_teachings_impacting_on_Christian_Theology_Jesus_New_Vision_Part_II) | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_5/page2.html) |        |      |
 
 ### Volumen 12 - No. 6
 
 | Título                                                                                    | Original                                                                            | Author | Tags |
 | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------ | ---- |
-| [The Historical Jesus—Who was He?](/es/article/The_Historical_Jesus_Who_was_He)          | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_6/page2.html)  |        |      |
-| [Reliability of New Testament Sources](/es/article/Reliability_of_New_Testament_Sources) | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_6/page5.html)  |        |      |
-| [The Effects of the Gospel Records](/es/article/The_Effects_of_the_Gospel_Records)       | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_6/page8.html)  |        |      |
-| [The Early Years of Jesus](/es/article/The_Early_Years_of_Jesus)                         | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_6/page9.html)  |        |      |
-| [What was the Gospel of Jesus?](/es/article/What_was_the_Gospel_of_Jesus)                | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_6/page11.html) |        |      |
+| [El Jesús histórico: ¿quién era?](/es/article/The_Historical_Jesus_Who_was_He)          | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_6/page2.html)  |        |      |
+| [Fiabilidad de las fuentes del Nuevo Testamento](/es/article/Reliability_of_New_Testament_Sources) | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_6/page5.html)  |        |      |
+| [Los efectos de los registros del Evangelio](/es/article/The_Effects_of_the_Gospel_Records)       | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_6/page8.html)  |        |      |
+| [Los primeros años de Jesús](/es/article/The_Early_Years_of_Jesus)                         | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_6/page9.html)  |        |      |
+| [¿Cuál fue el Evangelio de Jesús?](/es/article/What_was_the_Gospel_of_Jesus)                | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_6/page11.html) |        |      |

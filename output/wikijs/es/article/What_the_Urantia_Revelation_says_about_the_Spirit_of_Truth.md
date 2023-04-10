@@ -58,7 +58,7 @@ Y así debemos reconocer claramente que ni la regla de oro ni la enseñanza de l
 
 > La llegada del Espíritu de la Verdad **purifica el corazón humano y conduce a la persona que lo recibe a formular un proyecto de vida dedicado a la voluntad de Dios y al bienestar de los hombres**. El espíritu de egoísmo material ha sido absorbido en esta nueva donación espiritual de altruismo. Pentecostés, en aquel entonces como ahora, significa que el Jesús histórico se ha convertido en el Hijo divino de la experiencia viviente. Cuando la alegría de este espíritu derramado se experimenta conscientemente en la vida humana, es un tónico para la salud, un estímulo para la mente y una energía inagotable para el alma. ([LU 194:3.19](/es/The_Urantia_Book/194#p3_19))
 
-# Resumen
+## Resumen
 
 Durante casi 2000 años, solo un puñado de individuos aislados ha utilizado el potencial disponible con el Espíritu de la Verdad para avanzar aún más el reino de los cielos en la tierra. En cambio, la mayoría de los cristianos se han aferrado al dogma de que el propósito principal de la crucifixión de Jesús fue un sacrificio de sangre ofrecido a Dios por el perdón de sus pecados.
 

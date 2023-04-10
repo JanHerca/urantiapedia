@@ -117,7 +117,7 @@ Chuang Tzu dice: “_Un hombre considera a Dios como su padre y lo ama en la mis
 
 El jainismo dice: «Siendo eternos ellos mismos, los humanos también pueden alcanzar la »ser perfecta« o divinidad».
 
-¿Sabías que la mayoría de los eruditos católicos creen que Jesús probablemente nació en agosto y alrededor del 7 al 2 a. C.?
+¿Sabías que la mayoría de los eruditos católicos creen que Jesús probablemente nació en agosto y alrededor del 7 al 2 a.C.?
 
 Pablo experimentó el amor de Cristo y su llamado fue compartir y revelar ese amor a todos. Él era todo acerca de la traducción. «A los judíos me hice como judío para ganarme a los judíos... a los que están fuera de la Ley me hice como a los que están fuera de la Ley... para ganar a los que están fuera de la Ley»[^10]. Habilidades retóricas helenísticas, citaba las Escrituras en griego y sabía libros deuterocanónicos compuestos o conservados en griego. Su tenacidad nacida del amor y su conocimiento y respeto por aquellos a quienes enseñó son atributos que están tan vigentes hoy como lo fueron hace 2000 años.     
 

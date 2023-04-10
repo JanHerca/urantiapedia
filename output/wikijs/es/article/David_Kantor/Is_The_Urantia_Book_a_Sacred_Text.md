@@ -36,7 +36,7 @@ Las masas de personas que leen y manipulan los símbolos que ellos mismos crean 
 
 ¿Existe una relación entre esta transición y la aparición de tres revelaciones de época en rápida sucesión? ¿Cuál es la actividad potencial del espíritu dentro de una mente dedicada a procesar los símbolos materiales del lenguaje escrito?
 
-En el año 2000 aC, Melquisedec revitalizó el contenido espiritual fundamental de la tradición oral (símbolos abstractos asimilados a través de los oídos en lugar de los ojos). Su centro de formación y los misioneros que envió trabajaron completamente dentro de la tradición oral.
+En el año 2000 a.C., Melquisedec revitalizó el contenido espiritual fundamental de la tradición oral (símbolos abstractos asimilados a través de los oídos en lugar de los ojos). Su centro de formación y los misioneros que envió trabajaron completamente dentro de la tradición oral.
 
 Jesús vino durante una época en que la transición de lo oral a lo alfabetizado estaba muy avanzada tanto en el mundo hebreo como en el grecorromano. La sabiduría de la antigua tradición hebrea acababa de traducirse al griego en Alejandría, liberándola de siglos de ritual social acumulado y revigorizando sus potenciales espirituales.
 

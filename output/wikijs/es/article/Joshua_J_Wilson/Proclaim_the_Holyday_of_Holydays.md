@@ -85,7 +85,7 @@ Por el amor de Dios, haz algo para celebrar esta gran ocasión. El resto del uni
 
 **_Addendum:_** _El recital anterior cubre los puntos culminantes que ocurrieron después de la ascensión de Miguel de Urantia. En colaboración con académicos de la comunidad, se enumera la siguiente lista de sucesos emocionantes. No estoy al tanto de la hora exacta de la entronización de Miguel en el jubileo de jubileos, sin embargo, esta línea de tiempo sugiere o revela que muchos, si no todos, estos eventos ocurrieron rápidamente, incluso en el transcurso de un poco más de cinco horas, desde aproximadamente 7 :45 am hasta alrededor de la 1:00 pm el 18 de mayo de 30 d.C. (Salvington tiene su propia zona horaria, ja).
 
-1. Ascensión de Jesús desde el monte de los Olivos, alrededor de las 7:45 am, 18 de mayo de 30 d. C. [[LU 193:5.5](/es/The_Urantia_Book/193#p5_5)]_
+1. Ascensión de Jesús desde el monte de los Olivos, alrededor de las 7:45 am, 18 de mayo de 30 d.C. [[LU 193:5.5](/es/The_Urantia_Book/193#p5_5)]_
 2. Viajó a Edentia a través de Jerusem, y volvió al estado de filiación del Paraíso [[LU 193:5.4](/es/The_Urantia_Book/193#p5_4)]
 3. Confirmación formal por parte del Padre Universal de la soberanía completa de Miguel sobre el universo de Nebadon [[LU 193:5.5](/es/The_Urantia_Book/193#p5_5)]
 4. Entronización en Salvington, jubileo de jubileos [[LU 33:3.5](/es/The_Urantia_Book/33#p3_5)]

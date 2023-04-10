@@ -16,7 +16,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 <img src="/image/article/Derek_Samaras/Ancient_Japan_Jomon_Culture/004135.jpg">
 </figure>
 
-El final de la Edad de Hielo coincidió con el cierre de la era Paleolítica, cuando las herramientas de piedra se usaban como instrumentos principales, y cuando comenzó el período Jōmon en el antiguo Japón aproximadamente 12,000 aC La cultura prehistórica que floreció en ese momento y luego se fusionó en la moderna El pueblo japonés se llama la cultura Jōmon. El término Jōmon significa «estampado de cuerdas» en japonés, y describe los patrones que los artistas de esa época presionan en la arcilla. El período Jōmon generalmente se identifica con formas de vida de caza y recolección, especialmente la intensa utilización de los recursos marinos en la recolección de mariscos y la pesca en alta mar.
+El final de la Edad de Hielo coincidió con el cierre de la era Paleolítica, cuando las herramientas de piedra se usaban como instrumentos principales, y cuando comenzó el período Jōmon en el antiguo Japón aproximadamente 12,000 a.C. La cultura prehistórica que floreció en ese momento y luego se fusionó en la moderna El pueblo japonés se llama la cultura Jōmon. El término Jōmon significa «estampado de cuerdas» en japonés, y describe los patrones que los artistas de esa época presionan en la arcilla. El período Jōmon generalmente se identifica con formas de vida de caza y recolección, especialmente la intensa utilización de los recursos marinos en la recolección de mariscos y la pesca en alta mar.
 
 Jōmon significa «patrón de cuerdas» en referencia a la cerámica.
 
@@ -26,12 +26,12 @@ Jōmon significa «patrón de cuerdas» en referencia a la cerámica.
 
 El período Jōmon se divide en seis subperíodos. Algunos eruditos no están de acuerdo con las fechas exactas de cada período. Los subperíodos son:
 
-- Jōmon incipiente 13000-8000 a. C. o 11000 - 7500 a. C.
-- Jōmon más antiguo (inicial) 8000-5000 a. C. o 7500 - 4000 a. C.
-- Primeros Jōmon 5000-2500 a. C. o 4000 - 3000 a. C.
-- Jōmon medio 2500-1500 a. C. o 3000 - 2000 a. C.
-- Jōmon tardío 1500-1000 a. C. o 2000 - 1000 a. C.
-- Jōmon final (más reciente) 1000-300 a. C. o 1000 - 500 a. C.
+- Jōmon incipiente 13000-8000 a.C. o 11000 - 7500 a.C.
+- Jōmon más antiguo (inicial) 8000-5000 a.C. o 7500 - 4000 a.C.
+- Primeros Jōmon 5000-2500 a.C. o 4000 - 3000 a.C.
+- Jōmon medio 2500-1500 a.C. o 3000 - 2000 a.C.
+- Jōmon tardío 1500-1000 a.C. o 2000 - 1000 a.C.
+- Jōmon final (más reciente) 1000-300 a.C. o 1000 - 500 a.C.
 
 > Hace unos quince mil años, los anditas atravesaron en grandes cantidades el desfiladero de Ti Tao y se diseminaron por el valle superior del Río Amarillo entre las colonias chinas de Kansu. Luego penetraron hacia el este hasta llegar a Honan, donde se encontraban las colonias más progresivas. Esta infiltración procedente del oeste fue casi mitad andonita y mitad andita. [[LU 79:7.1](/es/The_Urantia_Book/79#p7_1)]
 
@@ -59,13 +59,13 @@ La mayoría de los profesionales de la historia parecen estar de acuerdo en que 
 <img src="/image/article/Derek_Samaras/Ancient_Japan_Jomon_Culture/004139.jpg">
 </figure>
 
-> Eran los tiempos del Neolítico, que coincidían en parte con la Edad del Bronce que se aproximaba. En Escandinavia se estaba viviendo la Edad del Bronce asociada con el culto a la madre. El sur de Francia y España se hallaban en el Neolítico asociado con el culto al Sol. Fue la época en que se construyeron los templos circulares y sin techo. (3000 a. C.) [[LU 80:9.13](/es/The_Urantia_Book/80#p9_13)]
+> Eran los tiempos del Neolítico, que coincidían en parte con la Edad del Bronce que se aproximaba. En Escandinavia se estaba viviendo la Edad del Bronce asociada con el culto a la madre. El sur de Francia y España se hallaban en el Neolítico asociado con el culto al Sol. Fue la época en que se construyeron los templos circulares y sin techo. (3000 a.C.) [[LU 80:9.13](/es/The_Urantia_Book/80#p9_13)]
 
-## Kazuno, Japón: círculos de piedra de Ōyu (2000 a. C.-1500 a. C.)
+## Kazuno, Japón: círculos de piedra de Ōyu (2000 a.C.-1500 a.C.)
 
-_El Libro de Urantia_ nos dice que la mayoría de las migraciones adámicas y anditas de Mesopotamia se dirigieron al norte de Europa, y hacia el año 3000 a. C. se diluyeron en la cultura hasta el punto de la fertilidad y el culto al sol. Esta es una regresión de la cultura edénica, pero aún nos da una idea de dónde la cultura del jardín hizo sus influencias. ¿Quién más traería estos avances a una nueva tierra que los anditas?
+_El Libro de Urantia_ nos dice que la mayoría de las migraciones adámicas y anditas de Mesopotamia se dirigieron al norte de Europa, y hacia el año 3000 a.C. se diluyeron en la cultura hasta el punto de la fertilidad y el culto al sol. Esta es una regresión de la cultura edénica, pero aún nos da una idea de dónde la cultura del jardín hizo sus influencias. ¿Quién más traería estos avances a una nueva tierra que los anditas?
 
-En el norte de Japón vemos círculos de piedra similares y figurillas de bronce de criaturas divinas alrededor de 2000 - 1500 a. C. Una nota interesante es que ciertas estatuas preincaicas en América del Sur parecen parecerse ligeramente a algunas estatuas Dogu. ¿Podrían ser estas las impresiones fugaces dejadas por los 132 marineros anditas que partieron de la costa de Japón, saltando de isla en isla en el camino a Perú, y se convirtieron en los predecesores de los incas?
+En el norte de Japón vemos círculos de piedra similares y figurillas de bronce de criaturas divinas alrededor de 2000 - 1500 a.C. Una nota interesante es que ciertas estatuas preincaicas en América del Sur parecen parecerse ligeramente a algunas estatuas Dogu. ¿Podrían ser estas las impresiones fugaces dejadas por los 132 marineros anditas que partieron de la costa de Japón, saltando de isla en isla en el camino a Perú, y se convirtieron en los predecesores de los incas?
 
 > Ciento treinta y dos miembros de esta raza se embarcaron en una flotilla de barcos pequeños en el Japón y llegaron finalmente hasta América del Sur; por medio de matrimonios mixtos con los nativos de los Andes, dieron nacimiento a los antepasados de los soberanos posteriores de los Incas. Atravesaron el Pacífico en pequeñas etapas, deteniéndose en las numerosas islas que encontraron por el camino. Las islas de Polinesia eran entonces más numerosas y más grandes que en la actualidad, y estos marineros anditas, junto con otros que los siguieron, modificaron biológicamente a su paso a los grupos indígenas. Como consecuencia de la penetración andita, muchos centros florecientes de civilización se desarrollaron en estas tierras ahora sumergidas. La Isla de Pascua fue durante mucho tiempo el centro religioso y administrativo de uno de estos grupos desaparecidos. Pero de todos los anditas que navegaron por el Pacífico en aquellos tiempos lejanos, los ciento treinta y dos mencionados fueron los únicos que llegaron al continente de las Américas. [[LU 78:5.7](/es/The_Urantia_Book/78#p5_7)]
 
@@ -92,7 +92,7 @@ En cuanto a la cultura Jōmon, creo que la academia moderna ha probado correctam
 
 > Los antepasados del pueblo japonés no fueron arrojados del continente hasta el año 12.000 a. de J.C., momento en que fueron expulsados debido a la poderosa presión de las tribus chinas nórdicas. [[LU 79:6.3](/es/The_Urantia_Book/79#p6_3)]
 
-Podemos ver quiénes eran estas personas y, lo que es más importante, podemos ver cómo el pueblo Jōmon fue el destinatario de una mejora cultural gradual a partir de la influencia que recibió de la cultura andita a medida que migraba y se homogeneizaba con las tribus circundantes. Japón tiene una historia fascinante y conocer las complejidades de los antiguos cimientos que culminaron en el Japón moderno solo ha revelado una mayor profundidad y sabiduría incrustadas en la cultura japonesa. Desde el año 12,000 a. C. hasta el 2017 d. C., la cultura real en Japón fue traída por el pueblo Jōmon y promovida por las influencias anditas a través de China y Japón. Aún quedan muchos misterios sin resolver respecto a la migración de los anditas a través de Japón, pero su huella quedó y ahora Japón y el resto del mundo son mejores gracias a ella.
+Podemos ver quiénes eran estas personas y, lo que es más importante, podemos ver cómo el pueblo Jōmon fue el destinatario de una mejora cultural gradual a partir de la influencia que recibió de la cultura andita a medida que migraba y se homogeneizaba con las tribus circundantes. Japón tiene una historia fascinante y conocer las complejidades de los antiguos cimientos que culminaron en el Japón moderno solo ha revelado una mayor profundidad y sabiduría incrustadas en la cultura japonesa. Desde el año 12,000 a.C. hasta el 2017 d.C., la cultura real en Japón fue traída por el pueblo Jōmon y promovida por las influencias anditas a través de China y Japón. Aún quedan muchos misterios sin resolver respecto a la migración de los anditas a través de Japón, pero su huella quedó y ahora Japón y el resto del mundo son mejores gracias a ella.
 
 
 > Derek Samaras es asistente del director de Urantia Book Fellowship y presidente del comité internacional.

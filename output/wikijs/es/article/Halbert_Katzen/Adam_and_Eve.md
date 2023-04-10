@@ -50,7 +50,7 @@ Un informe sobre el haplogrupo F del cromosoma Y establece:
 > 
 > Hoy en día, la antigua e indiferenciada línea del haplogrupo F original está localizada principalmente en Oriente Medio. Los descendientes del haplogrupo F están casi ausentes en el África subsahariana, lo que respalda aún más la teoría de que el haplogrupo F se formó poco después de que sus ancestros migraran fuera de África.
 
-Un estudio más reciente, publicado en 2008 y usando técnicas de datación más avanzadas, sitúa la fecha de inicio en el 48.000 a. C. (38.700 - 55.700 a. C.).
+Un estudio más reciente, publicado en 2008 y usando técnicas de datación más avanzadas, sitúa la fecha de inicio en el 48.000 a.C. (38.700 - 55.700 a.C.).
 
 ### La controversia
 
@@ -146,7 +146,7 @@ El otro estudio que vamos a considerar es el que trata con el haplogrupo F en el
 > 
 > Hoy en día, el linaje del haplogrupo F original antiguo e indiferenciado se localiza principalmente en Oriente Medio. Los descendientes del haplogrupo F están casi ausentes en África al sur del Sahara, apoyando aún más la teoría de que el haplogrupo F se formó poco después de que sus antepasados emigraran de África.[^24]
 
-Respecto a la edad del Y haplogrupo F, sin embargo, un estudio realizado en 2008 específicamente lo compara contra los resultados de los ensayos publicados en un estudio realizado en 2002 y afirma una mejor metodología para el cálculo de la MRCA. El estudio de 2002 puso la fecha de formalización para el Y haplogrupo F hacia 50.300 a. C. (± 6.500); el estudio de 2008 pone la fecha de formalización en 48.000 a. C. (38.700-55.700).[^25]
+Respecto a la edad del Y haplogrupo F, sin embargo, un estudio realizado en 2008 específicamente lo compara contra los resultados de los ensayos publicados en un estudio realizado en 2002 y afirma una mejor metodología para el cálculo de la MRCA. El estudio de 2002 puso la fecha de formalización para el Y haplogrupo F hacia 50.300 a.C. (± 6.500); el estudio de 2008 pone la fecha de formalización en 48.000 a.C. (38.700-55.700).[^25]
 
 Es importante observar que el método utilizado para calcular el MRCA, mientras que proporciona una indicación de cuándo se originó algo, no da una indicación de si había un solo progenitor. En la discusión de Wikipedia del MRCA se afirma: «La existencia de un MRCA (ancestro común más reciente) por tanto, no implica la existencia de un cuello de botella poblacional o una primera pareja».[^26]
 
@@ -209,7 +209,7 @@ Sin embargo, la expansión repentina del ASPM haplogrupo D no siguió el mismo p
 
 > Cuando los investigadores compararon los grupos étnicos en su muestra para el haplogrupo D del ASPM, se encontraron con que se presenta con mayor frecuencia en las poblaciones europeas y afines, incluida íberos, vascos, rusos, africanos del Norte, personas de Oriente Medio y asiáticos del sur. Ese haplogrupo se encontró con una incidencia menor en asiáticos del este, africanos al sur del Sahara e indios del Nuevo Mundo. Para la microcefalina, los investigadores encontraron que el haplogrupo D es más abundante en las poblaciones fuera de África que en las poblaciones del África subsahariana. [^22]
 
-Las pruebas realizadas en poblaciones de América del Sur y Central mostró una incidencia especialmente alta de la microcefalina haplogrupo D, teniendo las poblaciones de América Central un poco menos que la población de América del Sur. Esta distinción entre las poblaciones de América del Sur y América Central es consistente con *El Libro de Urantia*. En una sección que cubre el período desde 12.000 a. C. y 8.000 a. C., se relata que cierto número de descendientes de Adán y Eva navegaron en barco a América del Sur desde Asia. 
+Las pruebas realizadas en poblaciones de América del Sur y Central mostró una incidencia especialmente alta de la microcefalina haplogrupo D, teniendo las poblaciones de América Central un poco menos que la población de América del Sur. Esta distinción entre las poblaciones de América del Sur y América Central es consistente con *El Libro de Urantia*. En una sección que cubre el período desde 12.000 a.C. y 8.000 a.C., se relata que cierto número de descendientes de Adán y Eva navegaron en barco a América del Sur desde Asia. 
 
 > Ciento treinta y dos miembros de esta raza [anditas] se embarcaron en una flotilla de barcos pequeños en el Japón y llegaron finalmente hasta América del Sur; por medio de matrimonios mixtos con los nativos de los Andes, dieron nacimiento a los antepasados de los soberanos posteriores de los Incas. [^38]
 
@@ -594,7 +594,7 @@ Naturalmente, basándonos en la tendencia general hacia corroboraciones de infor
 
 [^2]: Las lenguas tonales, a diferencia de las no tonales, son aquellas que usan diferentes tonos o puntos de inflexión para distinguir significados en palabras que de otro modo sonarían idénticas. El ejemplo más claro es el chino. https://es.wikipedia.org/wiki/Lengua_tonal
 
-[^3]: [LU 62:5.1](/es/The_Urantia_Book/62#p5_1) Año 991.485 a. C. *El Libro de Urantia* da muchas fechas relativas al año 1934 porque aunque se publicó por primera vez en 1955 se terminó de escribir mucho antes, en 1934.
+[^3]: [LU 62:5.1](/es/The_Urantia_Book/62#p5_1) Año 991.485 a.C. *El Libro de Urantia* da muchas fechas relativas al año 1934 porque aunque se publicó por primera vez en 1955 se terminó de escribir mucho antes, en 1934.
 
 [^4]: [LU 74:0.1](/es/The_Urantia_Book/74#p0_1) Año 35.914 a.C.
 

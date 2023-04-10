@@ -53,7 +53,7 @@ mayo | 5 | viernes | Decimosexta aparición de Jesús, a los apóstoles en casa 
 mayo | 7 | domingo | Jesús se convierte en ciudadano de Jerusem. |
 mayo | 13 | sábado | 4 PM—Decimoséptima aparición de Jesús, a Nalda y setenta y cinco samaritanos en el pozo de Jacob en Sicar. |
 mayo | 14 | domingo | Jesús entra en el abrazo de los Altísimos de Edentia. Recuerde que Miguel había experimentado un otorgamiento morontial anterior (su sexto) en la sede de la constelación de Endantum [119:6 (1315.4)]. |
-mayo | 16 | martes | 21:00 - Decimoctava aparición de Jesús, en Tiro a una reunión de creyentes. Jesús y los apóstoles habían enseñado aquí durante dos semanas en julio del año 29 d. C. |
+mayo | 16 | martes | 21:00 - Decimoctava aparición de Jesús, en Tiro a una reunión de creyentes. Jesús y los apóstoles habían enseñado aquí durante dos semanas en julio del año 29 d.C. |
 mayo | 18 | jueves | **Mañana** —Última aparición de Jesús (décimo noveno) como personalidad morontial. Este era también el día de la fiesta de Pentecostés. Se reunió con los apóstoles el jueves por la mañana a las 7:30 AM en el Monte de los Olivos y los dejó a las 7:45. Total de cuarenta días desde la crucifixión. **Jesús asciende a Jerusem** y luego a Edentia, donde los Altísimos, bajo la observación del Hijo Eterno, lo liberan del estado morontial y lo devuelven al estado de filiación del Paraíso y soberanía suprema en Salvington. Del Padre Universal, recibe confirmación formal de su completa soberanía del universo de Nebadon. |
 mayo | 18 | jueves | 10:30 AM: Pedro convoca a una reunión de 120 discípulos, así como a la madre de Jesús y al hermano Santiago. Matthias reemplaza a Judas como apóstol y tesorero. |
 mayo | 18 | jueves | 13:00: **Espíritu de la Verdad** otorgado a Urantia. |

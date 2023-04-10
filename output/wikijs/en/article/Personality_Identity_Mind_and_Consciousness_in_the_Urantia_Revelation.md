@@ -18,7 +18,7 @@ In this article, we attempt an in-depth study of what the Urantia Revelation tel
 
 From where do we derive our minds?
 
-# Cosmic Mind
+## Cosmic Mind
 
 Cosmic mind at its origin is a manifestation of the mind of the third person of the Trinity, the Infinite Spirit. It comes to us indirectly via the Seven Master Spirits of Paradise, and directly from the Creative Spirit of our local universe, along with her team of helpers, the Adjutant Mind Spirits. These are comprised of the adjutants of: intuition, understanding, courage, knowledge, counsel, worship, and wisdom.
 

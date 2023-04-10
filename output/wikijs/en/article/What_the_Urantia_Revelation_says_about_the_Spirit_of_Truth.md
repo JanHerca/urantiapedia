@@ -58,7 +58,7 @@ And so must we clearly recognize that neither the golden rule nor the teaching o
 
 > The coming of the Spirit of Truth **purifies the human heart and leads the recipient to formulate a life purpose single to the will of God and the welfare of men**. The material spirit of selfishness has been swallowed up in this new spiritual bestowal of selflessness. Pentecost, then and now, signifies that the Jesus of history has become the divine Son of living experience. The joy of this outpoured spirit, when it is consciously experienced in human life, is a tonic for health, a stimulus for mind, and an unfailing energy for the soul. ([UB 194:3.19](/en/The_Urantia_Book/194#p3_19))
 
-# Summary
+## Summary
 
 Over almost 2000 years only a handful of isolated individuals have utilized the potential available with the Spirit of Truth to further advance the kingdom of heaven on earth. Instead, most Christians have clung to the dogma that the main purpose of Jesus’ crucifixion was as a blood sacrifice offered to God for the forgiveness of their sins.
 

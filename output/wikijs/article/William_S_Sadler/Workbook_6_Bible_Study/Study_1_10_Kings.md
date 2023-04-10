@@ -22,7 +22,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 Author: **William S. Sadler**
 
-# I. Outline-Brief
+## I. Outline-Brief
 
 ### 1 Kings
 

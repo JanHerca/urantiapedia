@@ -18,7 +18,7 @@ En este artículo, intentamos un estudio en profundidad de lo que la Revelación
 
 ¿De dónde derivamos nuestras mentes?
 
-# Mente Cósmica
+## Mente Cósmica
 
 La mente cósmica en su origen es una manifestación de la mente de la tercera persona de la Trinidad, el Espíritu Infinito. Nos llega indirectamente a través de los Siete Espíritus Maestros del Paraíso y directamente del Espíritu Creativo de nuestro universo local, junto con su equipo de ayudantes, los Espíritus Ayudantes de la Mente. Estos se componen de los ayudantes de: intuición, comprensión, coraje, conocimiento, consejo, adoración y sabiduría.
 
