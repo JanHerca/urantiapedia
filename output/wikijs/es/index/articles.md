@@ -19,7 +19,15 @@ Fuentes: Ver [Referencias](#referencias)
 | [Carta para astrónomos y astrofísicos – 2016](/es/article/A_Letter_to_Astronomers_and_Astrophysicists)                          |                   | Astronomy, Cosmology                                                                |
 | [Historia del Movimiento Urantia](/es/article/William_S_Sadler/A_History_of_the_Urantia_Movement)                               | William S. Sadler | The Urantia Book, The Urantia Book—Autorship                                       |
 
-1- Este artículo es una actualización de 2017 del artículo original publicado en Fellowship Herald, Vol 2. No. 1 y 2
+<small>1- Este artículo es una actualización de 2017 del artículo original publicado en Fellowship Herald, Vol 2. No. 1 y 2</small>
+
+## International Association Journal
+
+Revista cuatrimestral de artículos y ayudas de estudio creados por los lectores y para los lectores de _El libro de Urantia_. 
+
+El índice de todos los números disponibles está aquí: [Índice de artículos del International Association Journal](/en/index/articles_international_journal).
+
+Fuente: https://urantia-association.org/journal-online/
 
 ## Innerface International
 

@@ -258,7 +258,7 @@ Podemos aprender mucho de estas palabras; contienen tres ideas importantes: Prim
 
 Esta profecía apunta a un enfoque especial para nuestros esfuerzos. Esta hermandad dormida actualmente necesita un despertar y un renacimiento espiritual. Somos nosotros los que estamos llamados a proporcionar una nueva revelación de Jesús que despertará a estos cristianos dormidos a niveles más altos de vida espiritual. Lograr el renacimiento espiritual de la hermandad del reino de Jesús será nuestro primer gran paso en la iniciación del renacimiento espiritual. Aquí nuevamente está el llamado de los reveladores:
 
-> La **llamada** a la aventura de construir una sociedad humana nueva y transformada mediante **_el renacimiento espiritual de la fraternidad del reino de Jesús_** debería emocionar a todos los que creen en él.... [[LU 195 :10.6](/es/El_libro_de_Urantia/195#p10_6)](énfasis mío)
+> La **llamada** a la aventura de construir una sociedad humana nueva y transformada mediante **_el renacimiento espiritual de la fraternidad del reino de Jesús_** debería emocionar a todos los que creen en él.... [[LU 195 :10.6](/es/The_Urantia_Book/195#p10_6)](énfasis mío)
 
 ### Los cristianos unidos ayudarán a traer la nueva revelación al mundo
 

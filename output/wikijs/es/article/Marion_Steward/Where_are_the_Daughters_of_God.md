@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Marion Steward** | Traductor: **Olga López** | Editor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Marion Steward<br>© 1998 The Urantia Book Fellowship<br>© 2007 Olga López, por la traducción</p>
 
 [Presentado en la Conferencia de lectores de _El Libro de Urantia_ de Australia y Nueva Zelanda, Sydney, 1997]
 
@@ -77,6 +77,9 @@ Y el que posiblemente sea el momento más pintoresco de todos: su pequeña charl
 ## Enlaces externos
 
 * Este artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_1/page3.html
+
 * Traducción original: https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/HijasDios.pdf
+
+## Notas
 
 [^1]: _Nota del Editor_: Este párrafo y siguientes se han añadido a la traducción por faltar en la traducción original.

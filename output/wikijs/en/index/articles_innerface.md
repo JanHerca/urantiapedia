@@ -918,18 +918,12 @@ Source: https://urantia-book.org/archive/newsletters/innerface/index.html
 
 ### Volume 12 - No. 1
 
-| Title                                                                                                                       | Webpage                                                                            | Author | Tags |
-| --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------ | ---- |
-| [Urantia Personality](/en/article/Urantia_Personality)                                                                      | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page2.html)  |        |      |
-| [Identity and Personality](/en/article/Identity_and_Personality)                                                            | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page3.html)  |        |      |
-| [Urantia Personality](/en/article/Urantia_Personality)                                                                      | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page4.html)  |        |      |
-| [Life as Process](/en/article/Life_as_Process)                                                                              | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page5.html)  |        |      |
-| [The Self](/en/article/The_Self)                                                                                            | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page5.html)  |        |      |
-| [The Reality of Human Consciousness](/en/article/The_Reality_of_Human_Consciousness)                                        | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page6.html)  |        |      |
-| [The Soul of Man](/en/article/The_Soul_of_Man)                                                                              | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page7.html)  |        |      |
-| [Can Universes and Life Self-generate from Nothingness?](/en/article/Can_Universes_and_Life_Self_generate_from_Nothingness) | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page7.html)  |        |      |
-| [Creation of the Universe. Did God participate?](/en/article/Creation_of_the_Universe_Did_God_participate)                  | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page11.html) |        |      |
-| [Communing with God—from the Urantia Revelation](/en/article/Communing_with_God_from_the_Urantia_Revelation)                | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page14.html) |        |      |
+| Title                                                                                                                                                           | Webpage                                                                            | Author | Tags |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------ | ---- |
+| [Personality, Identity, Mind, and Consciousness, in the Urantia Revelation](/en/article/Personality_Identity_Mind_and_Consciousness_in_the_Urantia_Revelation)  | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page2.html)  |        |      |
+| [Can Universes and Life Self-generate from Nothingness?](/en/article/Can_Universes_and_Life_Self_generate_from_Nothingness)                                     | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page7.html)  |        |      |
+| [Creation of the Universe. Did God participate?](/en/article/Creation_of_the_Universe_Did_God_participate)                                                      | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page11.html) |        |      |
+| [Communing with God—from the Urantia Revelation](/en/article/Communing_with_God_from_the_Urantia_Revelation)                                                    | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page14.html) |        |      |
 
 ### Volume 12 - No. 2
 
@@ -948,8 +942,8 @@ Source: https://urantia-book.org/archive/newsletters/innerface/index.html
 | [“As Jesus Passed By”](/en/article/As_Jesus_Passed_By)                                                                                                   | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_3/page2.html)  |              |      |
 | [Creationism, Evolution, and The Urantia Book](/en/article/Dick_Bain/Creationism_Evolution_and_The_Urantia_Book)                                         | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_3/page3.html)  | Dick Bain    |      |
 | [Zircons and Earth-Moon Relations](/en/article/Ken_Glasziou/Zircons_and_Earth_Moon_Relations)                                                            | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_3/page6.html)  | Ken Glasziou |      |
-| [Is The Urantia Book Believable? Is it Logical?](/en/article/Dick_Bain/Is_The_Urantia_Book_Believable_Is_it_Logical)                                     | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_3/page14.html) | Dick Bain    |      |
 | [Why is it necessary for there to be error in The Urantia Book?](/en/article/Ken_Glasziou/Why_is_it_necessary_for_there_to_be_error_in_The_Urantia_Book) | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_3/page7.html)  | Ken Glasziou |      |
+| [Is The Urantia Book Believable? Is it Logical?](/en/article/Dick_Bain/Is_The_Urantia_Book_Believable_Is_it_Logical)                                     | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_3/page14.html) | Dick Bain    |      |
 
 ### Volume 12 - No. 4
 

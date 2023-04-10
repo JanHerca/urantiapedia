@@ -1,5 +1,5 @@
 ---
-title: "La ciencia y El Libro de Urantia. ¿Cuándo llegó el Hombre Rojo a las Américas?"
+title: «La ciencia y El Libro de Urantia. ¿Cuándo llegó el Hombre Rojo a las Américas?»
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z

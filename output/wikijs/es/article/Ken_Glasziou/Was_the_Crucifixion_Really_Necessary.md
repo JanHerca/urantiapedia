@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Ken Glasziou** | Traductor: **Olga López**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Urantia Book Fellowship<br>© 2005 Olga López, por la traducción</p>
 
 ¿Era la crucifixión realmente necesaria? Eso depende de la teología de cada uno. Para aquellos que suscriben la doctrina de la expiación del pecado original, ciertamente sí. La necesidad psicológica y profunda de expiación puede tener sus raíces en las costumbres de «restitución» de las sociedades primitivas, donde el castigo ritual por equivocaciones reales o imaginarias era obligatorio para la familia o tribu de la víctima (una muerte por otra, ojo por ojo, etc.) El pago de alguna forma de compensación como medio de evadir el daño físico requerido por el sistema de «restitución» es un desarrollo evolutivo natural que podría haber llevado también al concepto de expiación para apaciguar la ira de los dioses.
 

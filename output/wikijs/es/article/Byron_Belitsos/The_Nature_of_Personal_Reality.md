@@ -52,7 +52,7 @@ Los maestros del Vedanta no dual estarían de acuerdo con los budistas en que no
 
 Pero si volvemos a la idea clásica occidental de Dios en su máxima expresión, podemos decir que el ojo de Dios _puede_ verse a sí mismo, e incluso los humanos pueden verse al final de un largo proceso de evolución personal.
 
-La Deidad Original ve a «Dios Mismo» en perfección. Existe un «Otro» en la Deidad; Dios está absolutamente reflejado y revelado en la persona del Hijo, el Otro absoluto y el absoluto de la personalidad. _«El Hijo Eterno es el absoluto-personalidad incalificado,»_ dice _El Libro de Urantia_, _«ese ser divino que permanece a través de todos los tiempos y de la eternidad como la revelación perfecta de la naturaleza personal de Dios.»_ [LU 10:2.4](/es/El_libro_de_Urantia/10#p2_4)
+La Deidad Original ve a «Dios Mismo» en perfección. Existe un «Otro» en la Deidad; Dios está absolutamente reflejado y revelado en la persona del Hijo, el Otro absoluto y el absoluto de la personalidad. _«El Hijo Eterno es el absoluto-personalidad incalificado,»_ dice _El Libro de Urantia_, _«ese ser divino que permanece a través de todos los tiempos y de la eternidad como la revelación perfecta de la naturaleza personal de Dios.»_ [LU 10:2.4](/es/The_Urantia_Book/10#p2_4)
 
 El filósofo del siglo XIX G.W.F. Hegel llamó a esta intimidad de Dios y el Hijo el _reflejo absoluto_, es decir, la perfección existencial de la autoconciencia de Dios. Hegel declaró que esta transparencia divina es la base de la personalidad divina, así como la fuente y la esencia de la personalidad humana. La teología filosófica de Hegel hizo más explícito el significado interno de la doctrina tradicional de la Trinidad, y la Revelación de Urantia amplía enormemente estos mismos significados en sus discursos sobre la «personalización de la Deidad» en la Parte I.
 
@@ -86,7 +86,7 @@ Pero, por supuesto, el texto de Urantia también da un gran paso más allá de u
 
 Entonces, ¿qué es la personalidad humana, incluso la personalidad divina, en la medida en que podemos captarla en esta vida? Se dice que la personalidad humana está dotada por mandato divino sobre cada individuo, confiriendo poderes de conciencia reflexiva, autodeterminación, conciencia creativa, relativo libre albedrío y la capacidad de percepción cósmica. Más allá de eso, la descripción estándar para la mayoría de los estudiantes de Urantia es que la personalidad es tanto (1) un otorgamiento completamente único como (2) una realidad inmutable, como en estas declaraciones autorizadas.
 
-> Durante todas estas épocas y etapas sucesivas de crecimiento evolutivo, una parte de vosotros permanece absolutamente inalterable, y es la personalidad —la permanencia en presencia del cambio. [LU 112:0.1](/es/El_libro_de_Urantia/112#p0_1)
+> Durante todas estas épocas y etapas sucesivas de crecimiento evolutivo, una parte de vosotros permanece absolutamente inalterable, y es la personalidad —la permanencia en presencia del cambio. [LU 112:0.1](/es/The_Urantia_Book/112#p0_1)
 
 > La personalidad es esa parte del individuo que nos permite reconocer e identificar con precisión a esa persona como la que hemos conocido anteriormente, por mucho que haya cambiado debido a la modificación del vehículo que expresa y manifiesta su personalidad. [LU 16:8.4](/es/The_Urantia_Book/16#p8_4)
 

@@ -94,7 +94,7 @@ La alineación de la voluntad humana con la voluntad divina da como resultado el
 
 La fusión con un Ajustador del Pensamiento garantiza la eventual llegada de un mortal al Paraíso: su aparición triunfal en el Paraíso se considera a partir de entonces como una suprema inevitabilidad. A través de la fusión, un hijo de fe de Dios gana: inmortalidad, divinidad, el comienzo de una apreciación del pasado eterno y una fase de absolutismo calificado.
 
-Y más allá de eso, un Mensajero escribe: «_A fin de cuentas, los fragmentos del Padre deben ser un don del Dios absoluto a aquellas criaturas cuyo destino abarca la posibilidad de alcanzar a Dios como absoluto._» [[LU 107:1.6](/es/El_libro_de_Urantia/107#p1_6)] (Énfasis mío).
+Y más allá de eso, un Mensajero escribe: «_A fin de cuentas, los fragmentos del Padre deben ser un don del Dios absoluto a aquellas criaturas cuyo destino abarca la posibilidad de alcanzar a Dios como absoluto._» [[LU 107:1.6](/es/The_Urantia_Book/107#p1_6)] (Énfasis mío).
 
 Mediante la unión irrevocable con Dios, el hombre se asegura un destino que lo apunta y lo orienta para siempre hacia el infinito. «_Cuando el hombre mortal fusiona con un fragmento real de la Causa existencial del cosmos total, ya no se puede poner ningún límite al destino de esta asociación inimaginable y sin precedentes. El hombre descubrirá en la eternidad no solamente la infinidad de la Deidad objetiva, sino también la potencialidad sin fin del fragmento subjetivo de este mismo Dios. El Ajustador estará revelando siempre a la personalidad mortal la maravilla de Dios, y esta revelación celestial nunca podrá tener fin._» [[LU 107:4.7](/es/The_Urantia_Book/107#p4_7)] (Énfasis mío)
 

@@ -531,7 +531,7 @@ Source: https://urantia-book.org/archive/newsletters/innerface/index.html
 | [Mind and Consciousness](/es/article/Ken_Glasziou/Mind_and_Consciousness)                                                | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol7_1/page3.html)  | Ken Glasziou | Jesus, Jesus teachings           |
 | [Personal Realities](/es/article/Personal_Realities)                                                                     | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol7_1/page2.html)  |              | Morality, Spirituality, Theology |
 | [“Pity my Simplicity”](/es/article/Pity_my_Simplicity)                                                                   | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol7_1/page14.html) |              |                                  |
-| [What Really Survives?](/es/article/Ken_Glasziou/What_Really_Survives)                                                   | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol7_1/page15.html) | Ken Glasziou | Spirituality                     |
+| [¿Qué es lo que sobrevive en realidad?](/es/article/Ken_Glasziou/What_Really_Survives)                                                   | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol7_1/page15.html) | Ken Glasziou | Spirituality                     |
 
 ### Volumen 7 - No. 2
 
@@ -918,38 +918,32 @@ Source: https://urantia-book.org/archive/newsletters/innerface/index.html
 
 ### Volumen 12 - No. 1
 
-| Título                                                                                                                       | Original                                                                            | Author | Tags |
-| --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------ | ---- |
-| [Urantia Personality](/es/article/Urantia_Personality)                                                                      | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page2.html)  |        |      |
-| [Identity and Personality](/es/article/Identity_and_Personality)                                                            | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page3.html)  |        |      |
-| [Urantia Personality](/es/article/Urantia_Personality)                                                                      | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page4.html)  |        |      |
-| [Life as Process](/es/article/Life_as_Process)                                                                              | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page5.html)  |        |      |
-| [The Self](/es/article/The_Self)                                                                                            | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page5.html)  |        |      |
-| [The Reality of Human Consciousness](/es/article/The_Reality_of_Human_Consciousness)                                        | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page6.html)  |        |      |
-| [The Soul of Man](/es/article/The_Soul_of_Man)                                                                              | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page7.html)  |        |      |
-| [Can Universes and Life Self-generate from Nothingness?](/es/article/Can_Universes_and_Life_Self_generate_from_Nothingness) | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page7.html)  |        |      |
-| [Creation of the Universe. Did God participate?](/es/article/Creation_of_the_Universe_Did_God_participate)                  | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page11.html) |        |      |
-| [Communing with God—from the Urantia Revelation](/es/article/Communing_with_God_from_the_Urantia_Revelation)                | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page14.html) |        |      |
+| Título                                                                                                                                                          | Original                                                                           | Author | Tags |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------ | ---- |
+| [Personalidad, Identidad, Mente y Conciencia, en la Revelación de Urantia](/es/article/Personality_Identity_Mind_and_Consciousness_in_the_Urantia_Revelation)  | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page2.html)  |        |      |
+| [¿Pueden los Universos y la Vida Autogenerarse a partir de la Nada?](/es/article/Can_Universes_and_Life_Self_generate_from_Nothingness)                                     | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page7.html)  |        |      |
+| [Creación del Universo. ¿Dios participó?](/es/article/Creation_of_the_Universe_Did_God_participate)                                                      | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page11.html) |        |      |
+| [Comunión con Dios: de la Revelación de Urantia](/es/article/Communing_with_God_from_the_Urantia_Revelation)                                                    | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page14.html) |        |      |
 
 ### Volumen 12 - No. 2
 
 | Título                                                                                                                                                                                 | Original                                                                            | Author | Tags |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------ | ---- |
-| [Secrets of Jesus Spirituality](/es/article/Secrets_of_Jesus_Spirituality)                                                                                                            | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_2/page2.html)  |        |      |
-| [Did Jesus really need to be crucified?](/es/article/Did_Jesus_really_need_to_be_crucified)                                                                                           | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_2/page3.html)  |        |      |
-| [What the Urantia Revelation says about the Spirit of Truth](/es/article/What_the_Urantia_Revelation_says_about_the_Spirit_of_Truth)                                                  | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_2/page8.html)  |        |      |
-| [The relative role of miracles, resurrection, and forgiveness of sins in the rapid spread of Christianity](/es/article/Role_of_miracles_resurrection_forgiveness_spread_Christianity) | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_2/page11.html) |        |      |
-| [The Uniqueness of Jesus](/es/article/The_Uniqueness_of_Jesus)                                                                                                                        | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_2/page13.html) |        |      |
+| [Secretos de la espiritualidad de Jesús](/es/article/Secrets_of_Jesus_Spirituality)                                                                                                            | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_2/page2.html)  |        |      |
+| [¿Jesús realmente necesitaba ser crucificado?](/es/article/Did_Jesus_really_need_to_be_crucified)                                                                                           | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_2/page3.html)  |        |      |
+| [Lo que dice la Revelación de Urantia sobre el Espíritu de la Verdad](/es/article/What_the_Urantia_Revelation_says_about_the_Spirit_of_Truth)                                                  | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_2/page8.html)  |        |      |
+| [El papel relativo de los milagros, la resurrección y el perdón de los pecados en la rápida expansión del cristianismo](/es/article/Role_of_miracles_resurrection_forgiveness_spread_Christianity) | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_2/page11.html) |        |      |
+| [La singularidad de Jesús](/es/article/The_Uniqueness_of_Jesus)                                                                                                                        | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_2/page13.html) |        |      |
 
 ### Volumen 12 - No. 3
 
 | Título                                                                                                                                                    | Original                                                                            | Autor       | Tags |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------ | ---- |
-| [“As Jesus Passed By”](/es/article/As_Jesus_Passed_By)                                                                                                   | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_3/page2.html)  |              |      |
-| [Creationism, Evolution, and The Urantia Book](/es/article/Dick_Bain/Creationism_Evolution_and_The_Urantia_Book)                                         | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_3/page3.html)  | Dick Bain    |      |
-| [Zircons and Earth-Moon Relations](/es/article/Ken_Glasziou/Zircons_and_Earth_Moon_Relations)                                                            | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_3/page6.html)  | Ken Glasziou |      |
-| [Is The Urantia Book Believable? Is it Logical?](/es/article/Dick_Bain/Is_The_Urantia_Book_Believable_Is_it_Logical)                                     | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_3/page14.html) | Dick Bain    |      |
-| [Why is it necessary for there to be error in The Urantia Book?](/es/article/Ken_Glasziou/Why_is_it_necessary_for_there_to_be_error_in_The_Urantia_Book) | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_3/page7.html)  | Ken Glasziou |      |
+| [«Al pasar Jesús»](/es/article/As_Jesus_Passed_By)                                                                                                   | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_3/page2.html)  |              |      |
+| [Creacionismo, evolución y El libro de Urantia](/es/article/Dick_Bain/Creationism_Evolution_and_The_Urantia_Book)                                         | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_3/page3.html)  | Dick Bain    |      |
+| [Zirconios y Relaciones Tierra-Luna](/es/article/Ken_Glasziou/Zircons_and_Earth_Moon_Relations)                                                            | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_3/page6.html)  | Ken Glasziou |      |
+| [¿Por qué es necesario que haya errores en El libro de Urantia?](/es/article/Ken_Glasziou/Why_is_it_necessary_for_there_to_be_error_in_The_Urantia_Book) | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_3/page7.html)  | Ken Glasziou |      |
+| [¿Es creíble El libro de Urantia? ¿Es lógico?](/es/article/Dick_Bain/Is_The_Urantia_Book_Believable_Is_it_Logical)                                     | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_3/page14.html) | Dick Bain    |      |
 
 ### Volumen 12 - No. 4
 

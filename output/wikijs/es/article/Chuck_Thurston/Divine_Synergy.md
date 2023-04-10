@@ -79,7 +79,7 @@ Y aquí:
 
 Considere estos comentarios que describen el funcionamiento del Espíritu Santo:
 
-> «El Espíritu Santo —éste es el don supermental inicial y aparece infaliblemente en todas las personalidades humanas de buena fe. Este ministerio crea en la mente anhelante de adoración y deseosa de sabiduría la capacidad de desarrollar por sí misma el postulado de la supervivencia humana» [[LU 92:0.4](/es/El_libro_de_Urantia/92#p0_4)]
+> «El Espíritu Santo —éste es el don supermental inicial y aparece infaliblemente en todas las personalidades humanas de buena fe. Este ministerio crea en la mente anhelante de adoración y deseosa de sabiduría la capacidad de desarrollar por sí misma el postulado de la supervivencia humana» [[LU 92:0.4](/es/The_Urantia_Book/92#p0_4)]
 >
 > «La primera dotación supermental del hombre es la de la inclusión de su personalidad en el circuito del Espíritu Santo... esta influencia actúa para ampliar el punto de vista del hombre sobre la ética, la religión y la espiritualidad». [[LU 103:0.1](/es/The_Urantia_Book/103#p0_1)]
 >

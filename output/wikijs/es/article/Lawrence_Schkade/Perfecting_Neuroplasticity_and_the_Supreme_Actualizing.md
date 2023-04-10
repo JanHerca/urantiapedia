@@ -26,7 +26,7 @@ La invitación a participar en las asociaciones criatura-Creador presentada en e
 
 ## Vuélvete perfecto
 
-Jesús enseñó que debemos esforzarnos por ser como Dios, por llegar a ser perfectos como el Padre que está en los cielos es perfecto, aunque no esperaba que «_consiguiéramos una manifestación imposible de amor fraternal_» [[LU 140:5.3](/es/El_libro_de_Urantia/140#p5_3)]
+Jesús enseñó que debemos esforzarnos por ser como Dios, por llegar a ser perfectos como el Padre que está en los cielos es perfecto, aunque no esperaba que «_consiguiéramos una manifestación imposible de amor fraternal_» [[LU 140:5.3](/es/The_Urantia_Book/140#p5_3)]
 
 > Todo mortal ansía realmente ser una persona completa, ser perfecto como el Padre que está en los cielos es perfecto, y este logro es posible porque, a fin de cuentas, el «universo es verdaderamente paternal». [[LU 140:4.11](/es/The_Urantia_Book/140#p4_11)]
 
@@ -118,7 +118,7 @@ Cambiar un hábito de pensamiento requiere un esfuerzo dedicado. La repetición 
 
 > Experimentar, tomar decisiones y actuar en el tiempo-espacio es nuestra tarea. «Cuando el hombre toma una decisión, y consuma esta decisión en una acción, el hombre efectúa una experiencia; los significados y valores de esta experiencia forman parte para siempre de su carácter eterno en todos los niveles, desde el finito hasta el final». [[LU 117:5.13](/es/The_Urantia_Book/117#p5_13)]
 
-> A través de nosotros los mortales, el Supremo se actualiza, volviéndose «_un grado más real_» cuando un mortal ascendente se sintoniza con el Ajustador y «_la divinidad de la Supremacía ha avanzado entonces un paso más hacia su realización cósmica._» [[LU 117:0.3](/es/El_libro_de_Urantia/117#p0_3)]
+> A través de nosotros los mortales, el Supremo se actualiza, volviéndose «_un grado más real_» cuando un mortal ascendente se sintoniza con el Ajustador y «_la divinidad de la Supremacía ha avanzado entonces un paso más hacia su realización cósmica._» [[LU 117:0.3](/es/The_Urantia_Book/117#p0_3)]
 
 > Las manifestaciones siempre estarán abriendo nuevos caminos para que los potenciales, hasta entonces imposibles, se conviertan en realidades —cada decisión humana no sólo hace que se manifieste una nueva realidad en la experiencia humana, sino que desarrolla también una nueva capacidad para el crecimiento humano. [[LU 115:3.16](/es/The_Urantia_Book/115#p3_16)]
 

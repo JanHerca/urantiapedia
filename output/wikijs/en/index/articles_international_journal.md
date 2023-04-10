@@ -8,9 +8,9 @@ editor: markdown
 dateCreated: 2023-04-06T14:02:03.086Z
 ---
 
-Quarterly magazine of articles and study aids created by readers and for readers of The Urantia Book.
+Quarterly magazine of articles and study aids created by readers and for readers of _The Urantia Book_.
 
-https://urantia-association.org/journal-online/
+Source: https://urantia-association.org/journal-online/
 
 [Journal – November 2022](https://urantia-association.org/newsletter/journal-november-2022/)
 

@@ -93,7 +93,7 @@ Por el amor de Dios, haz algo para celebrar esta gran ocasión. El resto del uni
 6. Proclamación de Igualdad: Miguel y la Madre [[LU 33:3.6](/es/The_Urantia_Book/33#p3_6)]
 7. Otorgamiento mundial del Espíritu de la Verdad con la alegría, la seguridad y la confianza que lo acompañan, alrededor de la 1:00 p. m. del 18 de mayo [[LU 194:0.1](/es/The_Urantia_Book/194#p0_1),2]
 8. Preparación de todas las mentes normales para el otorgamiento universal de Ajustadores del Pensamiento sobre la gente de la tierra [[LU 194:2.3](/es/The_Urantia_Book/194#p2_3)]
-9. Miguel proclamó Príncipe Planetario de Urantia, por nuestro consejero del Paraíso, la Unión de los Días [[LU 114:1.1](/es/The_Urantia_Book/114#p1_1)] en el momento de la elevación de Miguel a la soberanía [[LU 23:2.18 ](/es/El_libro_de_Urantia/23#p2_18)]
+9. Miguel proclamó Príncipe Planetario de Urantia, por nuestro consejero del Paraíso, la Unión de los Días [[LU 114:1.1](/es/The_Urantia_Book/114#p1_1)] en el momento de la elevación de Miguel a la soberanía [[LU 23:2.18 ](/es/The_Urantia_Book/23#p2_18)]
 10. Institución de los Veinticuatro Consejeros en Jerusem y llegada de su representante, nuestro primer Gobernador General Residente, coincidiendo con el derramamiento del Espíritu de la Verdad, 18 de mayo de 30 d.C. [[LU 114:6.1](/es/The_Urantia_Book /114#p6_1)]
 11. Llegada de los doce cuerpos de los maestros serafines de la supervisión planetaria [[LU 114:6.1](/es/The_Urantia_Book/114#p6_1)]
 

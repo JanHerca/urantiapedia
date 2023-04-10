@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Ken Glasziou, Ph.D.** | Traductor: **Olga López**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Urantia Book Fellowship<br>© 2006 Olga López, por la traducción</p>
 
 > [...] La impregnación local del espacio por parte del calcio se debe al hecho de que escapa de la fotosfera solar, en forma modificada, cabalgando literalmente los rayos de sol salientes. [...] [LU 41:6.3](/es/The_Urantia_Book/41#p6_3)
 
@@ -60,6 +60,8 @@ De _«Estrellas y átomos»_ , por Sir Arthur Eddington:
 ## Enlaces externos
 
 * Este artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_3/page16.html
+
+* Traducción de Olga López: https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Surfporelsol.pdf
 
 ## Referencias
 

@@ -17,7 +17,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
 
 Cada uno de nosotros ha comenzado el camino de la fe. Si bien nuestra imaginación espiritual creativa nos brinda una idea de la naturaleza de la meta de nuestro viaje de fe, a veces nos encontramos perplejos y confundidos con respecto a la mejor manera de alcanzar esa meta.
 
-_El Libro de Urantia_ nos dice que al embarcarse en este viaje, «_... encontraréis con toda seguridad las escarpadas colinas de la elección moral y del progreso espiritual, y si tenéis valentía, las atravesaréis_» [LU 113:4.3](/es/El_libro_de_Urantia/113#p4_3)
+_El Libro de Urantia_ nos dice que al embarcarse en este viaje, «_... encontraréis con toda seguridad las escarpadas colinas de la elección moral y del progreso espiritual, y si tenéis valentía, las atravesaréis_» [LU 113:4.3](/es/The_Urantia_Book/113#p4_3)
 
 Si sabemos algo sobre el camino que tenemos por delante, que serpentea a través de estas «_escarpadas colinas de la elección moral_», tal vez estemos mejor equipados para enfrentar la incertidumbre y la dificultad que _El Libro de Urantia_ garantiza que encontraremos.
 
@@ -92,7 +92,7 @@ El lenguaje religioso de las historias sagradas se crea en la comunidad de creye
 
 Cuando participamos en grupos de estudio o compartimos puntos de vista con otros lectores, no solo profundizamos nuestra comprensión de _El Libro de Urantia_, sino que también nos volvemos más conscientes de las experiencias y puntos de vista de los demás; nos enriquecemos y contribuimos al fortalecimiento de la fe dentro de la comunidad compartiendo nuestras propias experiencias en la aventura.
 
-> La asociación íntima con otras personas religiosas estimula mutuamente el crecimiento espiritual. El amor suministra el terreno para el crecimiento religioso —una atracción objetiva en lugar de una satisfacción subjetiva— y sin embargo proporciona la satisfacción subjetiva suprema. La religión ennoblece el pesado trabajo común de la vida diaria. [LU 100:0.2](/es/El_libro_de_Urantia/100#p0_2)
+> La asociación íntima con otras personas religiosas estimula mutuamente el crecimiento espiritual. El amor suministra el terreno para el crecimiento religioso —una atracción objetiva en lugar de una satisfacción subjetiva— y sin embargo proporciona la satisfacción subjetiva suprema. La religión ennoblece el pesado trabajo común de la vida diaria. [LU 100:0.2](/es/The_Urantia_Book/100#p0_2)
 
 El problema que surge aquí es que la comunidad misma, con sus propias necesidades y atractivos, corre el peligro de reemplazar la vida de fe. Las comunidades de creyentes deben evolucionar de manera que faciliten la relación entre Dios y cada participante. El desafío para la comunidad es aprender cómo movilizar la fe en los corazones de los individuos hacia la integración del todo sin obsesionarse con la uniformidad ideológica o la estructura política interna, _sin convertirse en un reemplazo idólatra de la fe espiritual y la búsqueda de la verdad que originalmente llevó a las personas a la comunidad._
 

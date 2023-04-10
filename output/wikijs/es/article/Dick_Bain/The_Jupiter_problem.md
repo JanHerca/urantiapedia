@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Dick Bain** | Traductor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Dick Bain<br>© 1995 The Urantia Book Fellowship<br>© 2020 Jan Herca, por la traducción</p>
 
 <figure class="image urantiapedia">
 <img src="/image/article/Dick_Bain/The_Jupiter_problem/binarysystem.jpg">
@@ -82,7 +82,9 @@ La hipótesis del origen *catastrófico* («teoría de Angona») puede tener aho
 
 ## Enlaces externos
 
-https://urantia-book.org/archive/newsletters/innerface/vol2_4/page17.html
+* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page17.html
+
+* Traducción de Jan Herca: https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/El-problema-de-J%C3%BApiter.pdf
 
 ## Referencias
 

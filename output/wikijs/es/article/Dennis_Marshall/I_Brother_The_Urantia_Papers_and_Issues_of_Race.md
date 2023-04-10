@@ -49,8 +49,8 @@ Un ejemplo trillado de esto sería alguien que cree que debido a que «los hombr
 
 Para ilustrar un punto, asumí seis razas hipotéticas, relativamente homogéneas, y las arreglé en un gráfico simple. Cada una de las razas tiene poblaciones de diferentes tamaños y esas poblaciones tienen un talento musical diferente en relación con las otras razas. El eje vertical mide el rango superior e inferior de habilidad musical dentro de cada raza.
 
-<figure id=«Figure_1» class=«image urantiapedia»>
-<img src=«/image/article/Dennis_Marshall/I_Brother_The_Urantia_Papers_and_Issues_of_Race/image01.png»>
+<figure id="Figure_1" class="image urantiapedia">
+<img src="/image/article/Dennis_Marshall/I_Brother_The_Urantia_Papers_and_Issues_of_Race/image01.png">
 </figure>
 
 He colocado una línea de trazos cortos en el medio de cada raza para indicar su promedio (media) y usé esta medida para estipular que la RAZA 2 era la raza musicalmente superior porque tenía el promedio musical más alto. Además, se ha colocado una línea de trazos largos para indicar mi habilidad en relación con todas las razas. Se puede ver que, sin importar a qué raza pertenezco personalmente, el gráfico muestra que habrá personas con talento musical tanto mayor como menor que el mío. Otras observaciones incluyen:  

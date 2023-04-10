@@ -21,6 +21,14 @@ Sources: See [References](#references)
 
 <small>1 - This article is a 2017 update from original article published in Fellowship Herald, Vol 2. No. 1 and 2</small>
 
+## International Association Journal
+
+Quarterly magazine of articles and study aids created by readers and for readers of _The Urantia Book_.
+
+The index of all available issues is here: [International Association Journal Articles Index](/en/index/articles_international_journal).
+
+Source: https://urantia-association.org/journal-online/
+
 ## Innerface International
 
 The _Innerface International_ is an old bi-monthly publication that came to an end a few years ago.

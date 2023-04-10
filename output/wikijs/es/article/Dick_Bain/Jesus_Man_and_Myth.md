@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Dick Bain** | Traductor: **Olga López**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Dick Bain<br>© 1994 The Urantia Book Fellowship<br>© 2005 Olga López, por la traducción</p>
 
 Jesús preguntó a sus apóstoles en una ocasión: «¿Quién dicen los hombres que soy?». Los apóstoles le dijeron que le habían comparado con Moisés, Elías, Isaías, Jeremías e incluso con Juan el Bautista renacido de entre los muertos. Entonces Jesús les abordó con otra pregunta aún más asombrosa: «¿Quién decís vosotros que soy?». El impetuoso Simón Pedro se levantó de un salto y dijo: «¡El Libertador, el Hijo de Dios!». Muchos de aquellos que conocieron a Jesús sólo de oídas asumieron que era la reencarnación de algún profeta conocido. Algunos de sus enemigos parecían pensar que era un aliado del príncipe de los demonios. Pero los apóstoles, que habían vivido con él durante más de un año, creían que era el Hijo de Dios, y también de alguna forma el Mesías esperado por los judíos. Esto ciertamente no dejó zanjada la cuestión: la búsqueda de la identidad de Jesús ha continuado durante 1.900 años y no ha finalizado todavía. 
 
@@ -55,6 +55,8 @@ Sea lo que sea lo que pensemos sobre Jesús, la mayoría de nosotros estaría de
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page8.html
+
+* Traducción de Olga López: https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Hombreymito.pdf
 
 ## Referencias
 

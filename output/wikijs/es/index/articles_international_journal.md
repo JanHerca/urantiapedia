@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-04-06T14:02:03.086Z
 ---
 
-Revista cuatrimestral de artículos y ayudas de estudio creados por los lectores y para los lectores de El libro de Urantia. 
+Revista cuatrimestral de artículos y ayudas de estudio creados por los lectores y para los lectores de _El libro de Urantia_. 
 
 https://urantia-association.org/journal-en-linea/?lang=es
 
