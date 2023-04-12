@@ -18,7 +18,7 @@ Aunque la efectividad de algunas de las técnicas puede ser cuestionable, la fil
 
 Los autores sostienen que tenemos dos voces internas de nuestro verdadero ser. Uno es el de nuestro niño interior, el otro el de nuestro Padre Superior, para nosotros Dios. Al nacer, estas dos voces están conectadas. Nuestro ser interior es el:
 
-> [...] centro de nosotros, nuestra personalidad, nuestra naturaleza amorosa y confiada. Es esa parte de nosotros que está exquisitamente viva, vital, creativa, y de la cual extraemos nuestra energía. Es la parte de nosotros que siente nuestro dolor, ira y rabia Nuestro yo interior conoce el miedo Nuestro yo interior necesita amor, ternura y apoyo y se siente desesperanzado sin ellos.
+> [...] centro de nosotros, nuestra personalidad, nuestra naturaleza amorosa y confiada. Es esa parte de nosotros que está exquisitamente viva, vital, creativa, y de la cual extraemos nuestra energía. Es la parte de nosotros que siente nuestro dolor, ira y rabia. Nuestro yo interior conoce el miedo. Nuestro yo interior necesita amor, ternura y apoyo y se siente desesperanzado sin ellos.
 
 > Nuestro Padre superior es el centro gentil de nuestra sabiduría interna y conocimiento intuitivo. Nuestro Padre superior sabe lo que es mejor para nosotros. Nuestro Padre superior es objetivo y solucionador de problemas, la parte de nosotros que actúa como nuestra guía amorosa, si así lo elegimos.
 

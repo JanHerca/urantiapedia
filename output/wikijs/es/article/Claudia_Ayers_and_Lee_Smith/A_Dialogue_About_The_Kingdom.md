@@ -18,7 +18,7 @@ dateCreated: 2023-02-08T14:02:03.086Z
 
 Los Documentos de Urantia han enriquecido nuestras vidas y han guiado nuestros corazones y mentes durante prácticamente toda nuestra vida adulta. Cuando éramos lectores novatos, la frase «el reino de los cielos» traía imágenes mentales muy diferentes.
 
-**Lee:** Tenía un poco de formación bíblica, por lo que la frase «el reino de los cielos» me resultaba familiar, desde las imágenes eternas de las parábolas hasta las misteriosas profecías sobre el regreso de Jesús. Sin embargo, fue Jesús quien habló más directamente a mi alma cuando dijo: «el Reino de Dios está dentro de ti». ([Lucas 17:21](/es/Biblia/Lucas/17#v21))
+**Lee:** Tenía un poco de formación bíblica, por lo que la frase «el reino de los cielos» me resultaba familiar, desde las imágenes eternas de las parábolas hasta las misteriosas profecías sobre el regreso de Jesús. Sin embargo, fue Jesús quien habló más directamente a mi alma cuando dijo: «el Reino de Dios está dentro de ti». ([Lucas 17:21](/es/Bible/Luke/17#v21))
 
 **Claudia:** La frase «reino de los cielos» me trajo confusión. Había estado expuesto a muy poca conversación de la iglesia. «Reino» no era una palabra que hubiera usado nunca en mi visión del mundo. Estaba relegada a los cuentos de hadas y al estudio escolar de la Europa medieval. Para mí, la palabra «reino» no evocaba imágenes mentales que apoyaran el libre albedrío o la democracia, que eran los pilares de mi ideal global.
 

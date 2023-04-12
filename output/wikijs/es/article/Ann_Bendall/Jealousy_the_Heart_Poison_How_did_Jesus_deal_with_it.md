@@ -68,7 +68,7 @@ En la última cena, Jesús hizo un llamamiento final a Judas:
 
 Jesús reconoció la decisión final de Judas: «_Lo que has decidido hacer, hazlo enseguida_». ([LU 179:4.6](/es/The_Urantia_Book/179#p4_6)). Y cuando Judas lo saludó en el jardín más tarde esa noche: «le dio un beso en la frente, y dijo: «_Salve, Maestro e Instructor». Mientras Judas abrazaba así a su Maestro, Jesús dijo: «Amigo, ¡no te basta con hacer esto! ¿Traicionarás también al Hijo del Hombre con un beso?_» ([LU 183:3.5](/es/The_Urantia_Book/183#p3_5))
 
-Celos —una emoción muy poderosa! En combinación con otros atributos de Judas que inconscientemente alimentó hasta que florecieron en «_pensamientos perversos_» de venganza y deslealtad en su ser consciente. Perdió la objetividad e inició la acción que lo llevó a hacerse responsable de la «_sangre de un hombre inocente_»: el hombre que lo amaba mucho más de lo que eligió amarse a sí mismo.
+Celos —¡una emoción muy poderosa! En combinación con otros atributos de Judas que inconscientemente alimentó hasta que florecieron en «_pensamientos perversos_» de venganza y deslealtad en su ser consciente. Perdió la objetividad e inició la acción que lo llevó a hacerse responsable de la «_sangre de un hombre inocente_»: el hombre que lo amaba mucho más de lo que eligió amarse a sí mismo.
 
 _Los celos: ¡un veneno espiritual que ataca y destruye el corazón!_
 
