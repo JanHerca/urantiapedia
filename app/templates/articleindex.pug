@@ -1,0 +1,49 @@
+-
+	var classes = ['mr-1', 'mb-1', 'v-chip', 'v-chip--clickable', 
+	'v-chip--label', 'v-chip--link', 'theme--light', 'v-size--default', 'teal',
+	'lighten-5']
+	var classes2 = ['v-icon', 'notranslate', 'v-icon--left', 'mdi', 'mdi-tag',
+	'theme--light', 'teal--text']
+
+if volumes.length > 0
+	each volume in volumes
+		h2= volume.title
+		each issue in volume.issues
+			h3= issue.title
+			br
+			figure.image.urantiapedia.image-style-align-left
+				img(src=issue.imagePath)
+			table
+				tbody
+					each article in issue.articles
+						tr
+							td
+								a(href=article.path class="title")= article.title
+								br
+								a(href=article.authorLink class="mr-2")= article.author
+								each tag in article.tags
+									a(href="/t/" + tag, class=classes)
+										span.v-chip__content
+											i(aria-hidden="true" class=classes2 style="font-size: 16px;")
+											span(class="teal--text text--darken-2")= tag
+		br
+else if issues.length > 0
+	each issue in issues
+		h2= issue.title
+		br
+		figure.image.urantiapedia.image-style-align-left
+			img(src=issue.imagePath)
+		table
+			tbody
+				each article in issue.articles
+					tr
+						td
+							a(href=article.path class="title")= article.title
+							br
+							a(href=article.authorLink class="mr-2")= article.author
+							each tag in article.tags
+								a(href="/t/" + tag, class=classes)
+									span.v-chip__content
+										i(aria-hidden="true" class=classes2 style="font-size: 16px;")
+										span(class="teal--text text--darken-2")= tag
+		br

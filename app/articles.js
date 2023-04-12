@@ -7,16 +7,56 @@ const markdownIt = require('markdown-it')({
 	typographer: true
 });
 const {readFrom, readFile, reflectPromise, extendArray, getError, getAllIndexes,
-	writeFile, getWikijsHeader, sentenceSimilarity} = require('./utils');
+	writeFile, getWikijsHeader, sentenceSimilarity, strformat,
+	fixWikijsHeader} = require('./utils');
 const fs = require('fs');
 const path = require('path');
 const Strings = require('./strings');
+const pug = require('pug');
 
 class Articles {
 	language = 'en';
 	docs = [];
 	files = [];
 	onProgressFn = null;
+	index = {
+		title: null,
+		issues: [],
+		volumes: []
+	};
+
+	createIndexFn = pug.compileFile(path.join(app.getAppPath(), 'app', 'templates', 'articleindex.pug'), {pretty: true});
+
+	// issueTemplate =
+	// 	'<h2>{0}</h2>\r\n' +
+	// 	'<br />\r\n' +
+	// 	'<figure class="image urantiapedia image-style-align-left">\r\n' +
+	// 	'  <img src="{1}" />\r\n' +
+	// 	'</figure>\r\n' +
+	// 	'<table>\r\n' +
+	// 	'  <tbody>\r\n' +
+	// 	'  {2}' +
+	// 	'  </tbody>\r\n' +
+	// 	'</table>\r\n' +
+	// 	'<br />\r\n';
+
+	// articleTemplate =
+	// 	'<tr>\r\n' +
+	// 	'  <td>\r\n' +
+	// 	'    <a href="{0}" class="title">{1}</a>\r\n' +
+	// 	'    <br><a href="{2}" class="mr-2">{3}</span>\r\n' +
+	// 	'    {4}' +
+	// 	'  </td>\r\n' +
+	// 	'</tr>\r\n';
+
+	// tagTemplate = 
+	// 	'<a href="/t/{0}"\r\n' +
+	// 	'  class="mr-1 mb-1 v-chip v-chip--clickable v-chip--label v-chip--link theme--light v-size--default teal lighten-5">\r\n' +
+	// 	'  <span class="v-chip__content">\r\n' +
+	// 	'    <i aria-hidden="true" class="v-icon notranslate v-icon--left mdi mdi-tag theme--light teal--text" style="font-size: 16px;"></i>\r\n' +
+	// 	'    <span class="teal--text text--darken-2">{0}</span>\r\n' +
+	// 	'  </span>\r\n' +
+	// 	'</a>\r\n';
 
 	setLanguage = (language) => {
 		this.language = language;
@@ -110,6 +150,72 @@ class Articles {
 				}
 			});
 			
+		});
+	};
+
+	/**
+	 * Reads articles index file from TSV file.
+	 * @param {string} filePath Input TSV file (a TXT file with tabs).
+	 * @return {Promise}
+	 */
+	readIndexFileFromTXT = (filePath) => {
+		const baseName = path.basename(filePath);
+		return new Promise((resolve, reject) => {
+			if (this.onProgressFn) {
+				this.onProgressFn(baseName);
+			}
+
+			fs.readFile(filePath, (errFile, buf) => {
+				if (errFile) {
+					reject([errFile]);
+					return;
+				}
+				const lines = buf.toString().split('\n');
+				this.index.title = null;
+				this.index.issues.length = 0;
+				this.index.volumes.length = 0;
+				let currentVolume = null;
+				let currentIssue = null;
+				lines.forEach(line => {
+					const [title, path, author, tags] = line.trim().split('\t');
+					const author2 = (author ? 
+						author.replace(/\./g, '').replace(/ /g, '_') : null);
+					const authorLink = (author ? 
+						`/${this.language}/article/${author2}` : '');
+					if (title && author === 'is-title') {
+						this.index.title = title;
+					} else if (title && this.index.title && 
+						author === 'is-volume') {
+						currentVolume = {
+							title: title,
+							issues: []
+						};
+						this.index.volumes.push(currentVolume);
+					} else if (title && path && this.index.title && 
+						author === 'is-issue') {
+						currentIssue = {
+							title: title,
+							imagePath: path,
+							articles: []
+						};
+						if (currentVolume) {
+							currentVolume.issues.push(currentIssue);
+						} else {
+							this.index.issues.push(currentIssue);
+						}
+					} else if (currentIssue && title && path && author) {
+						currentIssue.articles.push({
+							title: title,
+							path: path,
+							author: author,
+							authorLink: authorLink,
+							tags: tags ? tags.split(',')
+								.map(t => t.trim().toLowerCase()) : []
+						});
+					}
+				});
+				resolve(null);
+			});
 		});
 	};
 
@@ -396,6 +502,74 @@ class Articles {
 					} else {
 						reject(errors);
 					}
+				});
+		});
+	};
+
+	/**
+	 * Writes the current index read to Wiki.js HTML format.
+	 * @param {string} filePath Output Wiki file.
+	 * @return {Promise}
+	 */
+	writeIndexFileToWikijs = (filePath) => {
+		return new Promise((resolve, reject) => {
+			if (this.onProgressFn) {
+				this.onProgressFn(filePath);
+			}
+			let html = '';
+			let html2 = '';
+
+			const writeFile = () => {
+				fs.writeFile(filePath, html2 + html, 'utf-8', (err) => {
+					if (err) {
+						reject([err]);
+						return;
+					}
+					resolve(null);
+				});
+			};
+
+			html2 += getWikijsHeader(this.index.title, ['index', 'article']);
+			html2 += '\r\n';
+
+			// html = this.index.issues
+			// 	.map(issue => {
+			// 		const { title, imagePath, articles } = issue;
+			// 		const htmlArticles = articles
+			// 			.map(article => {
+			// 				const { title: t, path, author, tags } = article;
+			// 				const htmlTags = tags
+			// 					.map(tag => {
+			// 						return strformat(this.tagTemplate, tag);
+			// 					})
+			// 					.join('');
+			// 				return strformat(this.articleTemplate, path, t, 
+			// 					author, htmlTags);
+			// 			})
+			// 			.join('');
+			// 		return strformat(this.issueTemplate, title, imagePath, 
+			// 			htmlArticles);
+			// 	})
+			// 	.join('');
+
+			html = this.createIndexFn(this.index);
+
+			//Only write if content is new or file not exists
+			//Update date created avoiding a new date for it
+			readFile(filePath)
+				.then(previousLines => {
+					const curLines = (html2 + html).split('\n');
+					const newHeader = fixWikijsHeader(html2, previousLines, 
+						curLines);
+					if (newHeader) {
+						html2 = newHeader;
+						writeFile();
+						return;
+					}
+					resolve(null);
+				})
+				.catch(err2 => {
+					writeFile();
 				});
 		});
 	};

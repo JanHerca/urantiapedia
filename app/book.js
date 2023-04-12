@@ -2756,7 +2756,9 @@ class Book {
 					reject([this.getError('folder_no_access', baseName)]);
 					return;
 				}
-				const promises = this.papers.map(paper => {
+				const promises = this.papers
+				.filter(paper => paper.paper_index === 181)
+				.map(paper => {
 					const bookName = Strings['bookName'][this.language]
 						.replace(/\s/g, '_');
 					const paperAbb = Strings['bookPaperAbb'][this.language];

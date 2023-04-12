@@ -69,6 +69,8 @@ const controls = {
 	lblLTextbox: '', dirLTextbox: '', dirLButton: '', 
 	lblJTextbox: '', dirJTextbox: '', dirJButton: '', 
 	lblWTextbox: '', dirWTextbox: '', dirWButton: '', 
+	lblfnTTextbox: '', fnTTextbox: '', fnTButton: '', 
+	lblfnHTextbox: '', fnHTextbox: '', fnHButton: '', 
 	lblTopics: '', drpTopics: '', 
 	lblLanguage: '', drpLanguage: '', 
 	lblCategories: '', drpCategories: '', lblLetters: '', drpLetters: '',
@@ -212,6 +214,8 @@ const onLoad = () => {
 		[c.dirLButton, 'click', handle_dirButtonClick, c.dirLTextbox],
 		[c.dirJButton, 'click', handle_dirButtonClick, c.dirJTextbox],
 		[c.dirWButton, 'click', handle_dirButtonClick, c.dirWTextbox],
+		[c.fnTButton, 'click', handle_fnButtonClick, c.fnTTextbox, 'TXT'],
+		[c.fnHButton, 'click', handle_fnButtonClick, c.fnHTextbox, 'HTML'],
 		[c.exeButton, 'click', handle_exeButtonClick],
 		[c.collapseButton, 'click', handle_collapseButtonClick],
 		[c.drpLanguage, 'change', handle_drpLanguageChange],
@@ -258,7 +262,9 @@ const onLoad = () => {
 	];
 
 	handlers.forEach(h => {
-		const handler = (h[3] ? h[2].bind(this, h[3]) : h[2]);
+		const handler = (h[4] ?
+			h[2].bind(this, h[3], h[4]) :
+			h[3] ? h[2].bind(this, h[3]) : h[2]);
 		h[0].addEventListener(h[1], handler);
 	});
 
@@ -392,6 +398,19 @@ const handle_dirButtonClick = (textbox) => {
 	});
 };
 
+const handle_fnButtonClick = (textbox, ext) => {
+	dialog.showOpenDialog({
+		title: strSelectFile,
+		properties: ['openFile'],
+		filters: [{name: ext, extensions: [ext.toLowerCase()]}]
+	}).then(result => {
+		if (!result.canceled && result.filePaths) {
+			const dirPath = result.filePaths[0];
+			textbox.value = dirPath;
+		}
+	});
+};
+
 const handle_collapseButtonClick = () => {
 	collapsed = !collapsed;
 	handle_drpProcessChange();
@@ -443,6 +462,8 @@ const handle_exeButtonClick = () => {
 	const jsonDir = controls.dirJTextbox.value;
 	const txtDir = controls.dirTTextbox.value;
 	const wikiDir = controls.dirWTextbox.value;
+	const txtFile = controls.fnTTextbox.value;
+	const htmlFile = controls.fnHTextbox.value;
 	const category = controls.drpCategories.value;
 	const letter = controls.drpLetters.value;
 	// const merge = controls.chkMerge.checked;
@@ -789,6 +810,13 @@ const handle_exeButtonClick = () => {
 		articles.readCatalog()
 			.then(() => articles.readFromMarkdown(inputFolder))
 			.then(() => articles.writeToWikijs(htmlDir, sourceName))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
+	} else if (process === 'ARTICLE_INDEX_TO_WIKIJS') {
+		// Reads Articles Index File (TSV)
+		// Writes in Wiki.js
+		articles.readIndexFileFromTXT(txtFile)
+			.then(() => articles.writeIndexFileToWikijs(htmlFile))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'ALL_INDEXES') {
