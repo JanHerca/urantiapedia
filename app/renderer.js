@@ -401,6 +401,7 @@ const handle_dirButtonClick = (textbox) => {
 const handle_fnButtonClick = (textbox, ext) => {
 	dialog.showOpenDialog({
 		title: strSelectFile,
+		defaultPath: path.dirname(textbox.value),
 		properties: ['openFile'],
 		filters: [{name: ext, extensions: [ext.toLowerCase()]}]
 	}).then(result => {

@@ -369,8 +369,8 @@ const Processes = {
 			es: "ARTICULOS: Convertir un Indice de Artículos (TXT) a Wiki.js"
 		},
 		controls: ['fnTTextbox', 'fnHTextbox'],
-		paths: [['input', 'txt', 'articles-{0}', 'articles_herald.txt'],
-				['output', 'wikijs', '{0}', 'index', 'articles_herald_.html']]
+		paths: [['input', 'txt', 'articles-{0}', 'study_aids.txt'],
+				['output', 'wikijs', '{0}', 'index', 'study_aids.html']]
 	},
 	"ALL_INDEXES": {
 		active: true,
