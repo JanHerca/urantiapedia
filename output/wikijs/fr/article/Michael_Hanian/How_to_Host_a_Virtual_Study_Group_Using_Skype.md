@@ -74,7 +74,7 @@ L’information additionnelle est immédiatement disponible au cours d’un grou
 
 À nouveau, la boite de dialogue est très pratique. Parfois on demande à l’un des membres de faire une recherche pendant que le groupe continue de travailler. Lorsque l’information devient disponible elle est copiée dans la boite de dialogue et mise à la disposition de tous. Si l’information n’est destinée qu’à une seule personne, une boite de dialogue individuelle est utilisée au lieu de celle du groupe. De même, lorsqu’un membre du groupe a préparé une présentation sur un sujet donné, le texte ou les points principaux de sa présentation sont publiés dans la boite de dialogue. Dans notre groupe, la boite de dialogue est devenue le moyen de communication de notre groupe durant une réunion aussi bien qu’entre des réunions.
 
-Les membres de notre groupe utilisent d’autres programmes électroniques d’aides à l’étude. Par exemple, un moteur de recherche que l’on trouve sur le site de la Fondation Urantia ainsi qu’une version bilingue du Livre d'Urantia  [https://www.urantia.org/fr/le-livre-d-urantia/lire](https://www.urantia.org/fr/le-livre-d-urantia/lire): (URL pour les lecteurs francophones). [^1]
+Les membres de notre groupe utilisent d’autres programmes électroniques d’aides à l’étude. Par exemple, un moteur de recherche que l’on trouve sur le site de la Fondation Urantia ainsi qu’une version bilingue du Livre d'Urantia  [https://www.urantia.org/fr/le-livre-durantia/lire](https://www.urantia.org/fr/le-livre-durantia/lire): (URL pour les lecteurs francophones). [^1]
 
 ![Rechercher](https://www.urantia.org/sites/default/files/images/Rechercher.jpg "Rechercher")
 

@@ -192,7 +192,7 @@ Avant environ 1000 av. J.-C., il n'y avait pas beaucoup d'écrits parmi les Juif
 	En 240 après JC, Origène a fait une [comparaison des textes grecs] à six colonnes (http://www.bible-researcher.com/origen.html).
 6. **Les principaux textes grecs**
 	**[Codex Vaticanus](https://fr.wikipedia.org/wiki/Codex_Vaticanus)**. Dans la bibliothèque du Vatican depuis le XVe siècle. Écrit à Alexandrie au milieu du IVe siècle de notre ère
-	**[Codex Sinaiticus](http://www.codexsinaiticus.org/en/)**. Trouvé sur le mont Sinaï en 1844. Transporté à Saint-Pétersbourg. Acheté par l'Angleterre en 1933. Maintenant au British Museum.
+	**[Codex Sinaiticus](http://www.codexsinaiticus.org/fr/)**. Trouvé sur le mont Sinaï en 1844. Transporté à Saint-Pétersbourg. Acheté par l'Angleterre en 1933. Maintenant au British Museum.
 	**[Codex Alexandrias](https://fr.wikipedia.org/wiki/Codex_Alexandrinus)**. Un manuscrit du cinquième siècle apporté en Angleterre en 1624. Maintenant au British Museum.
 	**[Codex Ephraemi](https://fr.wikipedia.org/wiki/Codex_Ephraemi_Rescriptus)**. Manuscrit du Ve siècle actuellement à Paris.
 	**REMARQUE** : La première LXX imprimée date de 1514.

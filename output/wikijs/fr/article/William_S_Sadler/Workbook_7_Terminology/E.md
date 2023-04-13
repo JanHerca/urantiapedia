@@ -144,7 +144,7 @@ Author: **William S. Sadler**
 
 > La puissance d’espace est une préréalité. Elle est le domaine de l’Absolu Non Qualifié et n’est sensible qu’à l’emprise personnelle du Père Universel, bien qu’en apparence elle soit modifiable par la présence des Maitres Organisateurs de Force Primaires.
 
-> Sur Uversa, la puissance d’espace s’appelle ABSOLUTA. [LU 42:2.5](/fr/The_Urantia_Book/42#p2_5) (et [(126.1) 11:8.5)](https://www.urantia.org/fr/le-livre-d-urantia/fascicule-11-l-ile-eternelle-du-paradis#U11_8_5)
+> Sur Uversa, la puissance d’espace s’appelle ABSOLUTA. [LU 42:2.5](/fr/The_Urantia_Book/42#p2_5) (et [LU 11:8.5)](/fr/The_Urantia_Book/11#p8_5))
 
 ## Espoir
 

@@ -76,7 +76,7 @@ Avant la Septante, le Premier et le Deuxième Samuel formaient un seul livre.
 	- E. Trahison des Ziphites. [23:14-24:22](/fr/Bible/1_Samuel/23#v14).
 	- F. David et Abigaïl. [25:1-44](/fr/Bible/1_Samuel/25#v1).
 	- G. Guerre des Philistins contre Saül. [27:1-31:13](/fr/Bible/1_Samuel/27#v1).
-8. Guerre des Philistins contre Saül. [27:1-31:13](https://en/Bible/1_Samuel/27#v1).
+8. Guerre des Philistins contre Saül. [27:1-31:13](https://fr/Bible/1_Samuel/27#v1).
 	- A. La vassalité de David envers Akish. [27:1-28:2](/fr/Bible/1_Samuel/27#v1).
 	- B. Saul et Sorcière d'Endor. [28:3-25](/fr/Bible/1_Samuel/28#v3).
 	- C. Licenciement de David. [29:1-11](/fr/Bible/1_Samuel/29#v1).

@@ -24,13 +24,13 @@ Auteur: **William S. Sadler**
 
 ## I. ARRIVEE D'ADAM ET EVE
 
-1. Les Adams et les Eves sont des édifiants biologiques. [LU 51:0.1](/fr/The_Urantia_Book/51#p0_1)
+1. Les Adams et les Eves sont des élévateurs biologiques. [LU 51:0.1](/fr/The_Urantia_Book/51#p0_1)
 2. Van avait longtemps proclamé l'arrivée d'un Fils de Dieu. [LU 73:2.1](/fr/The_Urantia_Book/73#p2_1)
 3. Les médians secondaires sont indigènes aux missions adamiques. [LU 51:3.6](/fr/The_Urantia_Book/51#p3_6)
 4. Adam et Eve sont arrivés sur Urantia, à partir de 1934 après JC, il y a 37 848 ans[LU 74:0.1](/fr/The_Urantia_Book/74#p0_1)
 5. Les corps d'Adam et d'Eve ont émis une lumière scintillante. [LU 74:6.5](/fr/The_Urantia_Book/74#p6_5)
 6. Van a proclamé Adam et Eve dirigeants d'Urantia. [LU 74:2.6](/fr/The_Urantia_Book/74#p2_6)
-7. Leur arrivée a mis fin à une dispense avec résurrection des survivants endormis. [LU 74:2.8](/fr/The_Urantia_Book/74#p2_8)
+7. Leur arrivée a mis fin à une dispensation avec résurrection des survivants endormis. [LU 74:2.8](/fr/The_Urantia_Book/74#p2_8)
 8. Adam a été confronté à la confusion, à la dégénérescence et à l'isolement – ​​il n'avait personne pour le conseiller. [LU 75:1.1](/fr/The_Urantia_Book/75#p1_1)
 
 ## II. LE JARDIN D'EDEN

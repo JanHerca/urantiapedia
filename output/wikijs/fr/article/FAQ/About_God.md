@@ -152,9 +152,9 @@ dateCreated: 2022-11-28T14:02:03.086Z
 
 **Dieu est Infaillible**
 
-> God is the first truth and the last fact; therefore does all truth take origin in him, while all facts exist relative to him. God is absolute truth. As truth one may know God, but to understand—to explain—God, one must explore the fact of the universe of universes. [LU 102:6.6](/en/The_Urantia_Book/102#p6_6)
+> God is the first truth and the last fact; therefore does all truth take origin in him, while all facts exist relative to him. God is absolute truth. As truth one may know God, but to understand—to explain—God, one must explore the fact of the universe of universes. [LU 102:6.6](/fr/The_Urantia_Book/102#p6_6)
 
-> To science God is a possibility, to psychology a desirability, to philosophy a probability, to religion a certainty, an actuality of religious experience. [LU 102:6.8](/en/The_Urantia_Book/102#p6_8)
+> To science God is a possibility, to psychology a desirability, to philosophy a probability, to religion a certainty, an actuality of religious experience. [LU 102:6.8](/fr/The_Urantia_Book/102#p6_8)
 
 **God Is Infallible**
 

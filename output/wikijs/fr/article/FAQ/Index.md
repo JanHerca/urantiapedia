@@ -48,4 +48,4 @@ dateCreated: 2022-11-28T14:02:03.086Z
 ## Références
 
 Étude obtenue auprès de:
-- https://www.urantia.org/fr/le-livre-durantia/faq
+- https://www.urantia.org/fr/The_Urantia_Book/faq

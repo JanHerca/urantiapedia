@@ -36,7 +36,7 @@ Auteur: **William S. Sadler**
 5. Jérémie a dicté à Baruch [Chap 36](/fr/Bible/Jeremiah/36#v4).
 6. Le langage sonore était plus efficace que le langage visuel.
 7. Les premiers prophètes étaient **extatiques**. Leur comportement était presque orgiaque. Il y avait de la musique, de la danse, une frénésie frénétique.
-8. Illustration : Saül rejoint les prophètes. Danses— [lance une lance sur David](http://www.painting-palace.com/en/paintings/17616). Danse avec frénésie toute la journée dans le nu.
+8. Illustration : Saül rejoint les prophètes. Danses— [lance une lance sur David](http://www.painting-palace.com/fr/paintings/17616). Danse avec frénésie toute la journée dans le nu.
 9. La danse et les cris étaient comme un derviche fou.
 
 ### II. Transformation du prophétisme

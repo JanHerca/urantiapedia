@@ -12,7 +12,7 @@ Auteur: **William S. Sadler**
 
 - [PARTIE I. ASTRONOMIE](/fr/article/William_S_Sadler/Workbook_2_Science/1)
     - [Section 1. Image globale du Maître Univers](/fr/article/William_S_Sadler/Workbook_2_Science/1#section-1-aper%C3%A7u-g%C3%A9n%C3%A9ral-du-maitre-univers)
-    - [Section 2. Orvonton—le Septième Superunivers]([/fr/article/William\_S\_Sadler/Workbook\_2\_Science/1#section-2-orvonton-le-septi%25C3%25A8me-superunivers](/fr/article/William_S_Sadler/Workbook_2_Science/1#section-2-orvonton-le-septi%25C3%25A8me-superunivers))
+    - [Section 2. Orvonton—le Septième Superunivers](/fr/article/William_S_Sadler/Workbook_2_Science/1#section-2-orvonton-le-septi%C3%A8me-superunivers)
     - [Section 3. Univers locaux](/fr/article/William_S_Sadler/Workbook_2_Science/1#section-3-univers-locaux)
     - [Section 4. Satania et Monmatia](/fr/article/William_S_Sadler/Workbook_2_Science/1#section-4-satania-et-monmatia)
     - [Section 5. Nébuleuses](/fr/article/William_S_Sadler/Workbook_2_Science/1#section-5-n%C3%A9buleuses)
