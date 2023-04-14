@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 
 Dieu l’Ultime est la deuxième Déité Expérientielle. Dans l’histoire de la croissance et du développement des créations post-havoniennes, son émergence interviendra entre l’apparition évolutionnaire de Dieu le Suprême et l’apparition plus tardive de Dieu l’Absolu. Le Suprême émerge «…sur le premier niveau de créature où se révèle, dans le temps et l’espace, la Déité unifiante». L’Ultime émerge «…sur le deuxième niveau expérientiel où se manifeste la Déité unifiante». Dieu l’Absolu apparaît sur «…le troisième niveau d’expansion et d’expression de Déité unifiante» [LU 0:2.16](/fr/The_Urantia_Book/0#p2_16).

@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 Nous avons tendance à considérer l'univers comme "une affaire qui marche", comme quelque chose qui est là depuis longtemps et qui y restera encore longtemps. C'est une façon tout à fait légitime de considérer l'univers, car c'est une création durable. Au centre, il y a l'Ile stationnaire et l'univers de perfection éternelle. Nous vivons sur le bord extérieur de l'un des superunivers qui l'encerclent et dont l'évolution lente pointe vers la perfection. Plus loin, au-delà de nous, dans les régions de l'espace extérieur, se trouvent les nouveaux univers des âges futurs, ces grandes créations physiques qui sont en cours d'organisation en vue du déroulement des âges futurs. Encore plus loin, dans les régions éloignées de l'espace extérieur, la création physique commence à s'amenuiser jusqu'à ce qu'il n'y ait plus rien, si ce n'est la quiétude de l'espace vide au fin fond de la création maîtresse.
 

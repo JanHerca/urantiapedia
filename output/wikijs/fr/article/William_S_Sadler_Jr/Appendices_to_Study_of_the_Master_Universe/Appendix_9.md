@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 Dans les appendices précédents, nous avons étudié les mécanismes de la croissance expérientielle et les techniques impliquées par ce processus. L'un des objectifs de cet appendice est d'observer quelque peu ce processus de croissance (particulièrement les techniques créatives et évolutionnaires) tel qu'il fonctionne dans un univers local. Notre intention est aussi de rassembler ici ce que les fascicules ont à nous dire à propos de la chronologie d'une création locale. Quelle est la séquence exacte des évènements depuis l'émergence physique d'une nébuleuse jusqu'à l'ère de lumière et de vie, en passant par les différents développements intermédiaires. Cette étude sera fondée sur l'histoire de notre univers (Nébadon) parce que l'on nous en dit davantage sur lui que sur n'importe quel autre univers.
 

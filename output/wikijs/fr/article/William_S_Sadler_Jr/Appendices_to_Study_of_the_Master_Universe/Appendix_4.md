@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 Les fascicules nous disent que le temps et l’espace s’associent pour former un mécanisme du maitre univers ( [LU 118:9.1](/fr/The_Urantia_Book/118#p9_1)) . Les principales divisions spatiales de la maitresse création sont les six niveaux d’espace ([appendice III](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_3)). Les principales divisions temporelles du maitre univers sont les six âges d’univers: l’âge de Havona, l’âge des superunivers et les quatre âges des niveaux d’espace extérieurs [LU 15:3.18](/fr/The_Urantia_Book/15#p3_18). Nous vivons, présentement, dans le deuxième âge de l’univers, l’âge des superunivers.
 

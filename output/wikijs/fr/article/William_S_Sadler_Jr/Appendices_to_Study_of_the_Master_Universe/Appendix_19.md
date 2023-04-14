@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 L’achèvement du maitre univers et l’accomplissement de la personnalisation-pouvoir de Dieu l’Ultime donnent la possibilité, à la deuxième Trinité expérientielle, d’émerger du statut de réalité qualifiée et de se former en tant que réalité factuelle. S’étant formée comme une réalité factuelle, cette trinité commencera alors le long processus de croissance conduisant à la tentative d’unification expérientielle. Puisque cette trinité est absolue dans l’étendue de sa fonction, il se pourrait qu’elle rencontre une sérieuse difficulté pour parvenir à sa complète unification. Ses buts ne semblent pas avoir de limites discernables et, si c’est le cas, la deuxième Trinité expérientielle, la Trinité Absolue, pourrait se heurter à un degré de frustration plus ou moins grand dans l’accomplissement de la destinée – la tentative d’unification finale.
 

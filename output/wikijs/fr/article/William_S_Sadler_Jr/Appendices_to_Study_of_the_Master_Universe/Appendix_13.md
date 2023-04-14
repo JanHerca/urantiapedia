@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 Le propos de cet appendice est d’assembler ce que les fascicules ont à dire au sujet de l’évolution des Fils Créateurs et des Esprits Créatifs. Nous serons particulièrement attentifs à la nature de ces créateurs et à leur croissance expérientielle dans les créations du temps et de l’espace . Et nous accorderons une attention particulière à leur destinée dans les univers de l’espace extérieur, particulièrement dans les créations du premier niveau d’espace extérieur.
 

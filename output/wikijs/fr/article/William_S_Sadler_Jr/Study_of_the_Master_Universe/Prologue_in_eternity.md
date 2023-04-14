@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1968 Urantia Foundation<br>© 1990 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 Le maitre univers est une réalité d’éternité future. Mais à l’exception de Havona, ce n’est pas une réalité d’éternité passée. Cette étude de la création du maitre univers ne commence donc pas avant que nous ne soyons prêts à considérer la position d’Havona par rapport aux univers post-Havoniens. Avant cette étude nous nous attacherons donc, dans ce Prologue, à ces actes d’éternité de la Déité qui ont préparé la scène de l’espace pour le maitre univers et même pour Havona.
 

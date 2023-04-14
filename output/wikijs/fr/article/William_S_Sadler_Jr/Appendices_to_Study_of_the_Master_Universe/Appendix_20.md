@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 Nous avons utilisé le terme «âges post-suprême» pour désigner ces âges de l’univers qui suivent l’émergence de l’Être Suprême et le parachèvement de la croissance évolutionnaire du grand univers . Il devrait logiquement s’ensuivre que nous devrions désigner la durée du temps qui commencera après l’émergence de l’Ultime (et le parachèvement du maitre univers ) comme étant «l’âge post-ultime».
 

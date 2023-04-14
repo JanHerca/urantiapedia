@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1968 Urantia Foundation<br>© 1990 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 Selon l’auteur, cet ouvrage est un développement des concepts du Livre d’Urantia. Il se propose d’explorer l’histoire du maitre univers, et cette histoire est l’histoire de la création et de l’évolution. Dans le prologue à cette étude nous explorerons ce qui vient avant l’ère de création et d’évolution dans le maitre univers; dans l’Epilogue, nous essaierons d’explorer ce qui pourrait à un moment donné se développer au-delà des frontières extérieures de la création du Maitre univers.
 

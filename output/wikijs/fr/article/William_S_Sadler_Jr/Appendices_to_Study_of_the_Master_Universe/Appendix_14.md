@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 Les Sept Maitres Esprits semblent être concernés par pratiquement tout ce qui se trouve sous le niveau des valeurs absolues et existentielles. La personnalisation de l’Esprit Infini complète la déité existentielle et elle est suivie par la personnalisation des Maitres Esprits – l’expression première de la déité expérientielle [LU 10:2.8](/fr/The_Urantia_Book/10#p2_8). Les sept Maitres Esprits représentent «le premier acte de création de Déité» de la Troisième Personne de la Déité [LU 9:8.2](/fr/The_Urantia_Book/9#p8_2) et, collectivement, ils englobent toutes les fonctions du Suprême, de l’Ultime et du Suprême-Ultime dans le maitre univers [LU 16:1.3](/fr/The_Urantia_Book/16#p1_3). Sur tous les niveaux subabsolus, ils représentent collectivement l’Esprit Infini [LU 16:2.5)](/fr/The_Urantia_Book/16#p2_5), les Déités du Paradis [LU 16:1.4](/fr/The_Urantia_Book/16#p1_4) et même la Trinité du Paradis [LU 16:1.3](/fr/The_Urantia_Book/16#p1_3).
 

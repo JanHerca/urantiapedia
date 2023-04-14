@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T11:12:37.284Z
 ---
 
-Auteur: **Dr. William S. Sadler**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler<br>© 1961 Urantia Foundation</p>
 
 Plusieurs membres du groupe ayant participé aux "contacts" préliminaires qui amenèrent à l'apparition des Fascicules d'Urantia, avaient eu une très grande expérience dans l'investigation de phénomènes psychiques. Ce groupe arriva rapidement à la conclusion que le phénomène connecté à la personnalité, qui fut plus tard associée avec les Fascicules d'Urantia, n'avait rien de commun avec d'autres types bien connus de performance psychique - comme l'hypnose, l'écriture automatique, la clairvoyance, les transes, la télépathie ou la double personnalité.
 

@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 Dieu le Septuple commença a fonctionner quand les sept superunivers furent organisés. Cette fonction «va probablement s’étendre» avec l’ouverture des niveaux de l’espace extérieur et l’inauguration de la quête absonite de la déité [LU 0:8.12](/fr/The_Urantia_Book/0#p8_12). Quelle signification pourrions-nous attacher à la phrase: «va probablement s’étendre» ? Certainement que ceci doit signifier une expansion fonctionnelle à partir du grand univers dans les créations d’espace extérieures. C’est une expansion quantitative. Cela signifie-t-il aussi une expansion qualitative ? Si les sept niveaux de Dieu le Septuple fournissent maintenant l’approche finie de la déité, des niveaux additionnels seront-ils requis pour une approche absonite?
 

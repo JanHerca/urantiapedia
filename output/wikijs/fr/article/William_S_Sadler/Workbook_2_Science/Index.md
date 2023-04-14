@@ -8,7 +8,9 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler<br>© 1961 Urantia Foundation</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1959 William S. Sadler<br>© 1961 Urantia Foundation</p>
+
+<br>
 
 - [PARTIE I. ASTRONOMIE](/fr/article/William_S_Sadler/Workbook_2_Science/1)
     - [Section 1. Image globale du Maître Univers](/fr/article/William_S_Sadler/Workbook_2_Science/1#section-1-aper%C3%A7u-g%C3%A9n%C3%A9ral-du-maitre-univers)

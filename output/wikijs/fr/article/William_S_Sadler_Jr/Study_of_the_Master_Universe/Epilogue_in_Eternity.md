@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1968 Urantia Foundation<br>© 1990 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 Notre étude du maitre univers commençait par un Prologue en Eternité dans lequel nous avons essayé d'examiner certains actes précréatifs de la Déité existentielle qui établirent la scène de l'espace pour la totalité de la suite de l'histoire de la maitresse création: l'expansion toute puissante vers l'extérieur de la créativité et de la divinité du Paradis et la consolidation subséquente des résultats expérientiels de cette expansion sur les niveaux Suprêmes et Ultimes de la réalité.
 

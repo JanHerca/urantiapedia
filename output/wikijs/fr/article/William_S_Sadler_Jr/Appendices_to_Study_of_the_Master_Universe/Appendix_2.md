@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 Aucune étude du maitre univers ne peut aller très loin sans prendre en considération l’Ile du Paradis. En tant que résidence du Dieu Éternel [LU 11:0.1](/fr/The_Urantia_Book/11#p0_1), le Paradis semble être tout à fait compréhensible ; en tant qu’un des sept Absolus de l’Infinité [LU 0:3.2](/fr/The_Urantia_Book/0#p3_2), il ne l’est pas. L’Ile éternelle est l’un des plus mystérieux des sept Absolus . C’est peutêtre parce que c’est un des quatre Absolus non personnels, un des deux Absolus de non-déité [LU 11:9.4](/fr/The_Urantia_Book/11#p9_4). L’Ile éternelle semble être la Machine Absolue que Dieu construisit pour les mêmes raisons que l’homme construit une machine – pour accomplir certaines fonctions et opérations répétitives – [LU 42:12.1](/fr/The_Urantia_Book/42#p12_1). Mais la machine du Paradis est en quelque sorte une machine qui sait ; c’est une machine consciente [LU 11:9.4](/fr/The_Urantia_Book/11#p9_4).
 

@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1959 William S. Sadler<br>© 1961 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
 	<table>
 		<tbody>
@@ -20,7 +24,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	</table>
 </figure>
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler<br>© 1961 Urantia Foundation</p>
 
 Emmanuel, l'Union des Jours, n° 611 121 des Personnalités Suprêmes de la Trinité, est le représentant personnel du Père Universel et l'ambassadeur de la Trinité du Paradis dans l'univers de Nébadon. [LU 33:5.1](/fr/The_Urantia_Book/33#p5_1)
 

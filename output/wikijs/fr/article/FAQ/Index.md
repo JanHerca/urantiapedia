@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-11-28T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Urantia Foundation</p>
+
+<br>
+
 **Index**
 
 - [A Propos de Jésus](/fr/article/FAQ/About_Jesus)

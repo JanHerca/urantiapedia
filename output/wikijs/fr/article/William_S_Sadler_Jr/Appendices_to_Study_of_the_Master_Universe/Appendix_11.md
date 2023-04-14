@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 Cet appendice ne traitera pas de la croissance expérientielle dans les âges post-suprême ; ce sujet est celui de l’[appendice VII: Les Mécanismes de la Croissance Expérientielle](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_7). L’objet du présent appendice est de tenter de réunir ce qui nous est dit avec ce que nous pouvons conjecturer à propos des âges post-suprême . Ce sont les quatre âges des quatre niveaux d’espace extérieurs, les «univers extérieurs». Ils sont les troisième, quatrième, cinquième et sixième âges des univers. Les développements de ces âges impliquent aussi l’univers central et les superunivers, les «univers intérieurs», car ces créations plus anciennes participeront à la croissance du post-suprême avec les niveaux d’espace extérieurs.
 

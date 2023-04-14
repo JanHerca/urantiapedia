@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1968 Urantia Foundation<br>© 1990 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 C’est l’histoire de l’évolution des sept superunivers, la plupart des Fascicules concernent cette narration. C’est le récit de la création et de l’évolution dans le temps et l’espace et de la manière dont toutes ces activités trouvent leur destinée dans les superunivers perfectionnés sous la souveraineté de l’Être Suprême.
 

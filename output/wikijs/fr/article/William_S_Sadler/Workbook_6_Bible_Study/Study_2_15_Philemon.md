@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1959 William S. Sadler<br>© 1961 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
 	<table>
 		<tbody>
@@ -20,7 +24,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	</table>
 </figure>
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler<br>© 1961 Urantia Foundation</p>
 
 1. C'est l'histoire d'un esclave fugitif converti - sa conversion et son retour à son maître.
 2. C'est l'un des [livres les plus courts de la Bible](/fr/Bible/Philemon/1), et le seul traitant entièrement des affaires d'un seul individu.

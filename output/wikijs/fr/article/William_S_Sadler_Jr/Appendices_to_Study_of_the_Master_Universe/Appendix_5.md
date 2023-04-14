@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 Les associations successives de Déité-duelle semblent opérer dans tous les univers et à tous les âges. Ces associations de nature duelle contrastent avec les trinités et autres opérations de la Déité-totale. La Déité-duelle et la Déité-totale sont toutes les deux actives au cours des âges successifs et dans les niveaux d’espace en expansion. Elles ont toutes les deux leurs racines dans l’éternité passée et leurs projets s’étendent vers l’extérieur, depuis l’univers d’éternité dans les présentes créations du temps, vers les futurs domaines de l’espace extérieur et au-delà dans les âges lointains de l’univers d’infinité.
 

@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1968 Urantia Foundation<br>© 1990 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 La trinitisation de Dieu l'Absolu, et la percée puissante dans le Cosmos Infini, ouvre des perspectives sans fin de croissance et de progrès au-delà des confins du maitre univers – dans l'expansion finale de l'univers sans limites. La brèche faite dans la Barrière de l'Infinité ouvre toute l'éternité future à une spéculation sans fin; tant et si bien qu'il devient utile de construire des digues conceptuelles de peur d'être noyé par un véritable océan de spéculations et de possibilités au conditionnel – les «si» qui n'en finissent pas et qui pourraient nous mener vers une absurdité finale. Afin de rendre l'Âge Final et le Cosmos Infini quelque peu intelligible, nous proposons d'établir trois concepts-limites à notre pensée.
 - _Étape une._ La première étape du Cosmos Infini que nous identifions avec sa zone la plus interne, cette partie de l'univers sans fin qui se factualise (s'actualise) en tant que répercussion de l'apparition trinitisée de Dieu l'Absolu. Nous associons aussi cette phase de développement avec l'association Déité-Duelle du Suprême Ultime.

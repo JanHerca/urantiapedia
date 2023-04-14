@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 À notre avis, l’association de Déité-duelle du Suprême-Ultime constitue un pont fonctionnel reliant le maitre univers (en tant que noyau) au cosmos infini (en tant que cytoplasme). Le Suprême est le souverain du cœur des univers, l’Ultime est le coordinateur du maitre univers, le Suprême-Ultime constitue le zénith de la déité expérientielle dans le maitre univers et il fonctionne probablement comme une «…projection des expérientiels sur un champ d’expression créative dépassant le maitre univers» [LU 106:0.7](/fr/The_Urantia_Book/106#p0_7). Étant une telle projection, le Suprême-Ultime doit être coabsolu en fonction. Nous pensons aussi que cette projection dans le cosmos infini peut être réfléchie sur le maitre univers à partir de ces royaumes périphériques.
 

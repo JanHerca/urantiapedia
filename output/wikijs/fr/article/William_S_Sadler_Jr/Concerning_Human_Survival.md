@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2022-11-28T11:12:37.284Z 
 ---
 
-Auteur: **William S. Sadler, Jr**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1960 William S. Sadler Jr.<br>© 1968 Urantia Foundation</p>
 
 ## Réponse de William S. Sadler, Jr à M. H. (Bud) Kagan
 

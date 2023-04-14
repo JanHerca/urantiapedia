@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 La trinitisation éventuelle de Dieu l’Absolu pourrait être un évènement constituant la plus grande éruption de pouvoir créatif depuis l’aurore de l’éternité et la personnalisation de l’Esprit Infini. L’apparition de l’Esprit Infini est associée à la naissance de l’univers central d’éternité et le commencement du premier âge de l’univers . L’apparition de Dieu l’Absolu peut être associée au commencement de l’univers périphérique d’infinité et à l’aurore de l’âge final de l’univers.
 

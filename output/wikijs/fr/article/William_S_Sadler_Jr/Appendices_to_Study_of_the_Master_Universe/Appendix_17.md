@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 Les fascicules ont moins à dire au sujet des dimensions temporelles que des dimensions spatiales du maitre univers . Il y a néanmoins suffisamment de données pour rendre possible des calculs raisonnables. Nous pouvons calculer l’âge d’un natif très âgé d’Uversa, puis l’âge d’Orvonton, puis la durée temporelle du deuxième âge de l’univers. Ensuite, nous pouvons rapporter les dimensions spatiales (Voir [appendice XVI](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_16)) aux dimensions temporelles et faire mieux qu’une supposition hasardeuse et non calculée quant aux durées temporelles des âges post-suprême des univers des espaces extérieurs.
 

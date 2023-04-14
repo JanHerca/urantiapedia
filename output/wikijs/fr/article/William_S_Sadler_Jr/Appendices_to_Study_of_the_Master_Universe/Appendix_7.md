@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 La réalité existentielle ne croît pas (par elle-même) ; mais la réalité expérientielle, oui . La croissance de la réalité expérientielle implique le partenariat du créateur et de la créature. Croître est la caractéristique de la déité expérientielle [LU 116:0.3](/fr/The_Urantia_Book/116#p0_3)). La croissance de la réalité expérientielle est expansive ; elle peut entrainer une croissance dans la réalité existentielle préexistante et non croissante ([appendice IV, §4-B](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_4#h-4-b-havona-au-cours-du-deuxi%C3%A8me-%C3%A2ge)).
 

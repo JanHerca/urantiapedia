@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1959 William S. Sadler<br>© 1961 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
 	<table>
 		<tbody>
@@ -20,7 +24,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	</table>
 </figure>
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler<br>© 1961 Urantia Foundation</p>
 
 Le Créateur, Magistral. et les Fils Instructeurs de la Trinité sont les dons des Déités éternelles aux enfants des hommes. [LU 20:10.2](/fr/The_Urantia_Book/20#p10_2)
 

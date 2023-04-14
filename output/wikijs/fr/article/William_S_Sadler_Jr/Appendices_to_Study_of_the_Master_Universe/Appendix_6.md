@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 Dans l’[appendice I — Les antécédents du maitre univers](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_1) — nous avons étudié l’arrière-plan d’éternité du maitre univers. Nous avons commencé avec le premier âge de l’univers, l’âge de Havona, et nous sommes revenus en arrière dans ce concept pour explorer l’éternité passée. Nous sommes allé aussi loin que nous le pouvions, en commençant avec le concept d’un âge Zéro ; puis nous avons examiné le concept pré-Zéro, et même pris en considération le concept Avant-pré-Zéro. Dans l’[appendice IV, §1 — Succession et Relation des âges d’univers](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_4#h-1-relations-et-succession-des-%C3%A2ges-dunivers) — nous avons fait l’inventaire de tous les âges de l’univers s: l’âge de Havona (le premier âge), l’âge des superunivers (le deuxième âge, le présent âge), les âges post-suprême des quatre niveaux d’espace extérieur, et l’âge postultime du maitre univers achevé.
 

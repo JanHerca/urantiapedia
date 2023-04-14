@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 Il y a bien des façons par lesquelles les choses et les êtres peuvent émerger des potentialités pour devenir réels — devenir des actualités — mais, à chaque fois, c’est un processus de transformation. Nous, qui vivons sur un monde évolutionnaire, nous ne devrions pas trouver trop difficile de penser à une création par un fiat divin en contraste avec une évolution lente. Il y a bien d'autres techniques de transformation (outre l'évolution et la création) par lesquelles les choses et les êtres sont amenés à l'existence et par lesquelles des modifications et des changements sont opérés sur ceux qui existent déjà.
 

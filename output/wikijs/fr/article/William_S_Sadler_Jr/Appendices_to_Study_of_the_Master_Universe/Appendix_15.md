@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 L’[appendice VIII , Techniques de Transformation](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_8), passe en revue d’une façon détaillée les différentes façons par lesquelles les êtres sont actualisés, sont amenés à l’existence ; et le §3 de cet appendice, Techniques d’Extériorisation, apporte une considération attentive à la méthode pouvant éventuellement donner origine aux Transcendantaux et à leur corps gouvernant, les Maitres Architectes de l’univers [LU 31:8.5](/fr/The_Urantia_Book/31#p8_5). En liaison avec cette étude , on a noté que ces êtres ne sont concernés que par «la superadministration du maitre univers» [LU 31:8.2](/fr/The_Urantia_Book/31#p8_2). Nous en déduisons qu’ils pourraient bien être la personnification des plans de Dieu pour le maitre univers entier – passé, présent et futur. Nous arrivons à la conclusion que ces êtres absonites ont été extériorisés ( sont venus à l’existence) comme une répercussion inhérente et pratiquement inévitable à la réalisation de tels plans pour le maitre univers. En d’autres termes, Dieu ne pourrait guère faire des plans sérieux concernant la Création Maitresse sans extérioriser les Architectes et les Transcendantaux (sans réfléchir sérieusement à leur existence) et ces «extériorisés» absonites pourraient ne venir à l’existence que comme un corollaire en réponse à la réalisation de tels plans.
 

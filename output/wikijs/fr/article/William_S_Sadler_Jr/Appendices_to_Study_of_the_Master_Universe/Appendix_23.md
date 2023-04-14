@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 Dans les époques très, très éloignées de l’âge post-ultime, l’émergence éventuelle de la Trinité des Trinités commencera la réunification finale de toute déité actuelle ( et s’actualisant ) — existentielle et expérientielle. Par rapport à la déité, cette trinité multiple paraît être le total des totaux. Lorsque nous contemplons l’origine d’éternité passée de la Trinité du Paradis, réfléchissons à l’apparition éventuelle de cette trinité triple dans la nuit des temps du futur presque éternel ; le sentiment de la nature cyclique de la personnalisation de la déité et la formation de trinité semblent nous envahir. Les fascicules nous disent:
 

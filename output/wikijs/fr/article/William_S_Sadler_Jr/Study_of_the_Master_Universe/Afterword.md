@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1968 Urantia Foundation<br>© 1990 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 Dans l'introduction, nous faisions un parallèle entre le livre d'Urantia et une symphonie. C'en est une. Dans cette postface, nous aimerions le comparer à un roman d'amour - une histoire d'amour et d'aventure. Jour après jour, durant l'élaboration de ce travail, l'auteur a été frappé d'une part par l'affection divine et, d'autre part, par le grand esprit d'aventure qui semble être à la base des desseins de Dieu - tels qu'ils semblent se révéler dans les événements de l'histoire du maitre univers, dans tout ce qui précède et dans tout ce qui suit.
 

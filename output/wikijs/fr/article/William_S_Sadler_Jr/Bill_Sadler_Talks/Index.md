@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-11-28T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1958-1959 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 ## Table des Matières
 
 - [Commentaires sur l’Introduction au Livre d’Urantia](/fr/article/William_S_Sadler_Jr/Bill_Sadler_Talks/1)

@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 Les fascicules présentent certains concepts se rapportant à la géographie générale de la création. Ils présentent la cosmographie suivante: le Paradis est au centre de toutes choses. Il est entouré par Havona, l’univers central. Havona, à son tour, est entouré par les sept superunivers, et cet agrégat entier est appelé le grand univers . Les quatre niveaux d’espace extérieurs tournent autour du grand univers et, pris tous ensemble, on les désigne sous le nom de maitre univers [LU 12:1.3](/fr/The_Urantia_Book/12#p1_3). On nous dit que l’espace s’étend au-delà des limites extérieures du maitre univers, mais de combien au-delà, nous ne le savons pas [LU 11:7.4](/fr/The_Urantia_Book/11#p7_4). Cette extension de l’espace au-delà des confins du maitre univers est le site géographique conjecturé de l’univers futur sans fin – le cosmos infini.
 

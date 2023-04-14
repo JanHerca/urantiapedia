@@ -8,6 +8,8 @@ editor: markdown
 dateCreated: 2022-11-28T11:12:37.284Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1960 William S. Sadler Jr.<br>© 1968 Urantia Foundation</p>
+
 ## PARTIE I - L’univers central et les superunivers (32 fascicules)
 
 | &nbsp; | &nbsp; |

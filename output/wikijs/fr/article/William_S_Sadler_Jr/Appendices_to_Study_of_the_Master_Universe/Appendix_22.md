@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Auteur: **William S. Sadler, Jr.**
 
 Maintes et maintes fois, les fascicules font référence à “ la synthèse pouvoir-personnalité ”, ou à “ l’unification pouvoir-personnalité ”, ou au “ pouvoir se personnalisant ”. C’est un processus utilisé pour rassembler le pouvoir et la personnalité. Cela semble être l’un des principes de base qui gouverne la croissance évolutionnaire et expérientielle dans le maitre univers, et qui concerne les déités expérientielles. C’est le but de cet appendice que d’examiner ce principe en détail.
 
