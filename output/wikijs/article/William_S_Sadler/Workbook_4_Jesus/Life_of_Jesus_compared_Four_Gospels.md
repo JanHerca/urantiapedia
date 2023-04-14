@@ -3,7 +3,7 @@ title: "Workbook IV — Jesus — The Life of Jesus as Compared with the Four Go
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
-tags: jesus, study aid, william sadler
+tags: jesus, jesus life, jesus teachings, study aid, william sadler
 editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---

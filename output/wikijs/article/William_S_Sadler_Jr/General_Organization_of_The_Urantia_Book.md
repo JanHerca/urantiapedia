@@ -3,7 +3,7 @@ title: General Organization of The Urantia Book
 description: 
 published: true
 date: 2022-11-28T11:16:41.388Z
-tags: The Urantia Book, study aid
+tags: The Urantia Book, The Urantia Book—Papers, Study Aid, Bill Sadler
 editor: markdown
 dateCreated: 2022-11-28T11:12:37.284Z
 ---

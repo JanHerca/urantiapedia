@@ -3,7 +3,7 @@ title: "Workbook III — Topical and Doctrinal Studies — Absolutes"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
-tags: theology, study aid, william sadler
+tags: theology, topical, study aid, william sadler
 editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---

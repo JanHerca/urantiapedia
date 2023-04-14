@@ -3,7 +3,7 @@ title: "Workbook III — Topical and Doctrinal Studies — The Supreme Spirit �
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
-tags: study aid, william sadler
+tags: The Supreme, topical, study aid, william sadler
 editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---

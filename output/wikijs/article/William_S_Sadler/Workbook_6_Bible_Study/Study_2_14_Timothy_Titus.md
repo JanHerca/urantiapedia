@@ -3,7 +3,7 @@ title: "Workbook VI — Bible Study — Timothy and Titus"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
-tags: study aid, william sadler
+tags: bible, Bible—1 Timothy, Bible—2 Timothy, study aid, william sadler
 editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---

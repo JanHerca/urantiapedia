@@ -3,7 +3,7 @@ title: "Considération de quelques critiques du Livre d'Urantia"
 description:
 published: true
 date: 2022-11-28T14:02:03.086Z
-tags: study aid
+tags: study aid, william sadler
 editor: markdown
 dateCreated: 2022-11-28T14:02:03.086Z
 ---

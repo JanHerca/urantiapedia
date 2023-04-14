@@ -3,7 +3,7 @@ title: Concerning Human Survival
 description: 
 published: true
 date: 2022-11-28T11:16:41.388Z
-tags: The Urantia Book, study aid
+tags: The Urantia Book, study aid, bill saler
 editor: markdown
 dateCreated: 2022-11-28T11:12:37.284Z
 ---

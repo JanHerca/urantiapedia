@@ -3,7 +3,7 @@ title: "Workbook VI — Bible Study — Kings"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
-tags: study aid, william sadler
+tags: bible, Bible—1 Kings, Bible—2 Kings, study aid, william sadler
 editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---

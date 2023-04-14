@@ -3,7 +3,7 @@ title: "Cahier III — Études thématiques et doctrinales — Table des matièr
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
-tags: Topical, Religion, topical, study aid, william sadler
+tags: Religion, topical, study aid, william sadler
 editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---

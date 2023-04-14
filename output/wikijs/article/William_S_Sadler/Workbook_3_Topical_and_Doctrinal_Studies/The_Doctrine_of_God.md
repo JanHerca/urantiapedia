@@ -3,7 +3,7 @@ title: "Workbook III — Topical and Doctrinal Studies — The Doctrine of God"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
-tags: study aid, william sadler
+tags: topical, study aid, william sadler
 editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
