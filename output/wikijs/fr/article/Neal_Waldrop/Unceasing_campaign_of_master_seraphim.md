@@ -3,7 +3,7 @@ title: La campagne incessante du maître séraphin
 description: "Favoriser la croissance progressive de la société et de la civilisation humaines"
 published: true
 date: 2022-11-28T14:02:03.086Z
-tags: The Urantia Book, study aid
+tags: History of Urantia, Epochal Revelations, Angels and midwayers, Study Aid
 editor: markdown
 dateCreated: 2022-11-28T14:02:03.086Z
 ---

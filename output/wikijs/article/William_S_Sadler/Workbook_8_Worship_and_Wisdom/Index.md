@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
-Author: **William S. Sadler**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler<br>© 1961 Urantia Foundation</p>
 
 
 - [Part I: The Central And Superuniverses](/en/article/William_S_Sadler/Workbook_8_Worship_and_Wisdom/1)

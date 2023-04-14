@@ -3,7 +3,7 @@ title: "Cahier III — Études thématiques et doctrinales — Yahweh"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
-tags: study aid, william sadler
+tags: god, topical, study aid, william sadler
 editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
@@ -20,7 +20,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	</table>
 </figure>
 
-Auteur: **William S. Sadler**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler<br>© 1961 Urantia Foundation</p>
 
 ## I. DIVINITÉ CHEZ LES SÉMITES
 
@@ -31,7 +31,7 @@ Auteur: **William S. Sadler**
 	4. El.
 	5. Élohim. [LU 96:1.2](/fr/The_Urantia_Book/96#p1_2)
 2. Les Hébreux ont désanthropomorphisé Dieu sans en faire une abstraction de la philosophie. [LU 97:0.1](/fr/The_Urantia_Book/97#p0_1)
-3. Les Kénites tenaient bon nombre des concepts de Melchisédek concernant la Déité. [LU 96:0.2
+3. Les Kénites tenaient bon nombre des concepts de Melchisédek concernant la Déité. [LU 96:0.2](/fr/The_Urantia_Book/96#p0_2)
 4. Il y a eu une évolution continue du concept de Déité depuis le Yahweh primitif jusqu'au niveau élevé des Isaïes. [LU 96:4.9](/fr/The_Urantia_Book/96#p4_9)
 
 ## II. TEMPS DE MOÏSE

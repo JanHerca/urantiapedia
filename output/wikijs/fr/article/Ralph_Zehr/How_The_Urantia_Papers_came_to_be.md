@@ -3,7 +3,7 @@ title: "Comment les Papiers d'Urantia ont vu le jour selon les Révélateurs"
 description:
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: The Urantia Book, study aid
+tags: The Urantia Book—History, Study Aid
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---

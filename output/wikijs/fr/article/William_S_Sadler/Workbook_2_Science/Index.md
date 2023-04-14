@@ -3,12 +3,12 @@ title: "Manuel II - La science dans le Livre d'Urantia — Table des matières"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
-tags: astronomy, study aid, william sadler
+tags: astronomy, geology, physics, chemistry, biology, anthropology, study aid, william sadler
 editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
-Auteur: **William S. Sadler**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler<br>© 1961 Urantia Foundation</p>
 
 - [PARTIE I. ASTRONOMIE](/fr/article/William_S_Sadler/Workbook_2_Science/1)
     - [Section 1. Image globale du Maître Univers](/fr/article/William_S_Sadler/Workbook_2_Science/1#section-1-aper%C3%A7u-g%C3%A9n%C3%A9ral-du-maitre-univers)

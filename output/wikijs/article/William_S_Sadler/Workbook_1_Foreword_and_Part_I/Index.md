@@ -3,7 +3,7 @@ title: "Workbook I — Foreword and Part I — Index"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
-tags: astronomy, study aid, william sadler
+tags: theology, study aid, william sadler
 editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---

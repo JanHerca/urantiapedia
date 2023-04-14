@@ -20,7 +20,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	</table>
 </figure>
 
-Author: **William S. Sadler**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler<br>© 1961 Urantia Foundation</p>
 
 1. Urantia belongs to a system which is well out towards the borderland of your local universe. [UB 15:1.6](/en/The_Urantia_Book/15#p1_6)
 2. Local evolutionary universes are the handiwork of the Paradise Creator Sons. [UB 32:0.1](/en/The_Urantia_Book/32#p0_1)

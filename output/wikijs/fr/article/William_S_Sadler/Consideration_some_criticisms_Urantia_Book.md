@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2022-11-28T14:02:03.086Z
 ---
 
-Auteur: **William S. Sadler**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler<br>© 1961 Urantia Foundation</p>
 
 ### 1. Critique: Les théologiens et les professeurs de séminaire n'approuveront jamais _Le Livre d'Urantia_.
 

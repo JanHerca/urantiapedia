@@ -20,7 +20,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	</table>
 </figure>
 
-Author: **William S. Sadler**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler<br>© 1961 Urantia Foundation</p>
 
 1. Ideal education provides for association of instruction and work. [UB 37:6.4](/en/The_Urantia_Book/37#p6_4)
 2. The purpose of education:

@@ -3,7 +3,7 @@ title: Les discussions de Bill Sadler — Table des Matières
 description:
 published: true
 date: 2022-11-28T14:02:03.086Z
-tags: study aid
+tags: study aid, bill sadler
 editor: markdown
 dateCreated: 2022-11-28T14:02:03.086Z
 ---

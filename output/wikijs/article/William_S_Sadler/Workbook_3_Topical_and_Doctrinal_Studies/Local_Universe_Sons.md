@@ -20,7 +20,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	</table>
 </figure>
 
-Author: **William S. Sadler**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler<br>© 1961 Urantia Foundation</p>
 
 Immanuel, the Union of Days, No. 611,121 of the Supreme Trinity Personalities, is the personal representative of the Universal Father and the ambassador of the Paradise Trinity to the universe of Nebadon. [UB 33:5.1](/en/The_Urantia_Book/33#p5_1)
 

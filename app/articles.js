@@ -157,7 +157,7 @@ class Articles {
 				lines.forEach(line => {
 					const [title, path, author, tags] = line.trim().split('\t');
 					const author2 = (author != '' ? 
-						author.replace(/\./g, '').replace(/ /g, '_') : '');
+						author.replace(/\./g, '').replace(/ |-/g, '_') : '');
 					const authorLink = (author ? 
 						`/${this.language}/article/${author2}` : '');
 					if (title && tags && author === 'is-title') {

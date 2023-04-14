@@ -3,7 +3,7 @@ title: "Cahier III — Études thématiques et doctrinales — L'univers local"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
-tags: study aid, william sadler
+tags: topical, study aid, william sadler
 editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
@@ -20,7 +20,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	</table>
 </figure>
 
-Auteur: **William S. Sadler**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler<br>© 1961 Urantia Foundation</p>
 
 1. Urantia appartient à un système qui se situe bien à la frontière de votre univers local. [LU 15:1.6](/fr/The_Urantia_Book/15#p1_6)
 2. Les univers évolutionnaires locaux sont l'œuvre des Fils Créateurs du Paradis. [LU 32:0.1](/fr/The_Urantia_Book/32#p0_1)

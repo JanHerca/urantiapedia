@@ -3,7 +3,7 @@ title: "Cahier III - Études thématiques et doctrinales - Le plan de survie"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
-tags: study aid, william sadler
+tags: topical, study aid, william sadler
 editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
@@ -20,7 +20,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	</table>
 </figure>
 
-Auteur: **William S. Sadler**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler<br>© 1961 Urantia Foundation</p>
 
 ## I. LE PLAN DE SALUT TEL QUE PRÉSENTÉ DANS LA RELIGION _À PROPOS DE JÉSUS : LA VERSION BIBLE
 

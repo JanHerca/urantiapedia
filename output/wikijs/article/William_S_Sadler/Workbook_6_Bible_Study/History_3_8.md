@@ -20,7 +20,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	</table>
 </figure>
 
-Author: **William S. Sadler**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler<br>© 1961 Urantia Foundation</p>
 
 
 1. Saul was born in Tarsus. Paul was his Latin or Roman name—his father was a Roman citizen. He did not change his name from Saul to Paul because of his conversion.

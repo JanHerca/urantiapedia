@@ -3,7 +3,7 @@ title: "Comment organiser un groupe d’étude virtuel avec Skype"
 description:
 published: true
 date: 2022-11-28T14:02:03.086Z
-tags: The Urantia Book, study aid
+tags: Study Groups, Study Aid
 editor: markdown
 dateCreated: 2022-11-28T14:02:03.086Z
 ---

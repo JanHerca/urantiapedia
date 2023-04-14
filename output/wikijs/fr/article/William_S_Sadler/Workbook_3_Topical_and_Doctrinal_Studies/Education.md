@@ -3,7 +3,7 @@ title: "Manuel III — Topical and Doctrinal Studies — Éducation"
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
-tags: study aid, william sadler
+tags: education, topical, study aid, william sadler
 editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
@@ -20,7 +20,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	</table>
 </figure>
 
-Auteur: **William S. Sadler**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler<br>© 1961 Urantia Foundation</p>
 
 1. L'éducation idéale prévoit l'association de l'instruction et du travail. [LU 37:6.4](/fr/The_Urantia_Book/37#p6_4)
 2. Le but de l'éducation :

@@ -20,7 +20,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	</table>
 </figure>
 
-Author: **William S. Sadler**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler<br>© 1961 Urantia Foundation</p>
 
 The Creator, Magisterial. and Trinity Teacher Sons are the gifts of the eternal Deities to the children of men. [UB 20:10.2](/en/The_Urantia_Book/20#p10_2)
 

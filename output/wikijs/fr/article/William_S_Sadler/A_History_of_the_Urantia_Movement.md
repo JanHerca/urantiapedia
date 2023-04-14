@@ -3,7 +3,7 @@ title: "L'Histoire du Mouvement Urantia"
 description: 
 published: true
 date: 2021-11-28T11:16:41.388Z
-tags: The Urantia Book, The Urantia Book—Authorship
+tags: The Urantia Book, The Urantia Book—Authorship, The Urantia Book—History, History of Urantia Movement
 editor: markdown
 dateCreated: 2021-11-28T11:12:37.284Z
 ---

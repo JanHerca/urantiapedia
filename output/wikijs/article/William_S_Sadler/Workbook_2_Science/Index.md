@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
-Author: **William S. Sadler**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler<br>© 1961 Urantia Foundation</p>
 
 - [PART I. ASTRONOMY](/en/article/William_S_Sadler/Workbook_2_Science/1)
     - [Section 1. Over-all Picture of the Master Universe](/en/article/William_S_Sadler/Workbook_2_Science/1#section-1-over-all-picture-of-the-master-universe)

@@ -231,7 +231,6 @@ Timelines
 Topic
 Topical
 Truth
-Truth, beauty, and goodness
 UAI Journal
 UB annotated
 Universe Mother Spirit

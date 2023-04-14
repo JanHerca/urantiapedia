@@ -20,7 +20,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	</table>
 </figure>
 
-Author: **William S. Sadler**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler<br>© 1961 Urantia Foundation</p>
 
 1. This is the story of a converted runaway slave-his conversion and return to his master.
 2. This is one of the [shortest books of the Bible](/en/Bible/Philemon/1), and the only one dealing wholly with the affairs of one individual.
