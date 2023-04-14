@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 
 The Papers give just enough information about the physical size of creation to allow us to make some reasonable calculations of the magnitude of the master universe. The calculations made in this Appendix are based on two groups of data: (1) Information pertaining to distances — space magnitudes, and (2) Information pertaining to physical creations — mass magnitudes.

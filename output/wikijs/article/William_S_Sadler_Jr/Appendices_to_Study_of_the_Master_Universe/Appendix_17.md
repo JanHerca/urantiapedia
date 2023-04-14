@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 The Papers have less to say about time magnitudes than space magnitudes of the master universe, but enough data is given to make possible some reasonable calculation. We can work out the age of an old Uversa native, then the age of Orvonton, then the time-span of the Second Universe Age. After that, we can apply space magnitudes (see [Appendix XVI](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_16)) to time magnitudes and make something better than an uncalculated guess as to the time-spans of the post-supreme ages of the universes of outer space.
 

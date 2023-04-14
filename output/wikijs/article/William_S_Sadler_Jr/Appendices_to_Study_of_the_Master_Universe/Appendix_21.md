@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 The Papers present certain concepts with regard to the general geography of creation. They present the following cosmography: Paradise is at the center of all things. It is encircled by Havona, the central universe. Havona, in turn, is encircled by the seven superuniverses, and this entire aggregation is named the grand universe. The four outer space levels swing around the grand universe and, taken all together, these are designated the master universe. [UB 12:1.3](/en/The_Urantia_Book/12#p1_3) We are informed that space now extends on beyond the outer limits of the master universe, but how far is not known. [UB 11:7.4](/en/The_Urantia_Book/11#p7_4) This extension of space beyond the confines of the master universe is he conjectured geographic site of the future unending universe — the Cosmos Infinite.
 

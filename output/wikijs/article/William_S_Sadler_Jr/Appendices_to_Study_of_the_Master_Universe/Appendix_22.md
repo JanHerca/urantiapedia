@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 Again and again, the Papers make reference to "power-personality synthesis," or to "power-personality unification," or to "power-personalizing." This is a process of the putting together of power and personality. It seems to be one of the basic principles that governs evolutionary and experiential growth in the master universe, and concerns the experiential deities. It is the purpose of this Appendix to examine this principle in detail.
 

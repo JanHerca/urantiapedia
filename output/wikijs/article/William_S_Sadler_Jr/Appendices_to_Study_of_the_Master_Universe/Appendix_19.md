@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 The completion of the master universe and the final power-personalization of God the Ultimate makes it possible for the Second Experiential Trinity to emerge from the status of a qualified reality and to form as a factual reality. Having formed as a factual reality, this trinity will then begin the long growth-process leading to attempted experiential unification. Since this trinity is absolute in range of function, it may encounter serious difficulty in achieving complete unification. Its goals do not appear to have discernible limits, and if this is the case then the Second Experiential Trinity, the Trinity Absolute, may encounter a greater or lesser degree of frustration in the attainment of destiny — attempted final unification.
 

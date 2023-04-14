@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 There is more than one way in which things and beings emerge from potentialities to become real — to become actualities — but, in each instance it is a transformative process. We, who live on an evolutionary world, should not find it too difficult to think of fiat creation as a contrast to slow evolution. There are several other transformative techniques (besides evolution and creation) by virtue of which things and beings are brought into existence, and through which changes and modifications are wrought in those already in existence.
 

@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 The successive partnerships of Dual-Deity seem to operate in all universes and in all ages. These associations of a dual nature stand in contrast to the trinities and to the other operations of Total Deity. Both Dual-Deity and Total Deity are active in the successive ages and in the expanding space levels. Both have their roots in past eternity and both project their functions outward from the universe of eternity into the present creations of time and space, into the future domains of outer space, and on into the most remote ages of the universes of infinity.
 

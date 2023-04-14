@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 God the Sevenfold began to function when the seven superuniverses were organized. This function "will probably expand" with the opening of the outer space levels and the inauguration of the absonite quest for deity. [UB 0:8.12](/en/The_Urantia_Book/0#p8_12) What meaning should we attach to the phrase, "will probably expand?" Certainly, this must mean a functional expansion from the grand universe into the outer space creations. This is a quantitative expansion. Does it also mean qualitative expansion? If the seven levels of God the Sevenfold now provide for the finite approach to deity, will additional levels to be required for the absonite approach?
 

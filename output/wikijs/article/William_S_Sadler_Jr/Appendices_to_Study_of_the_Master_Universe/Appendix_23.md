@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 In the far, far distant epochs of the post-ultimate age the something emergence of the Trinity of Trinities will begin the final reunification of all actual (and actualizing) deity — existential and experiential. In relation to deity, this multiple-trinity appears to be the total of totals. As we contemplate the past-eternity origin of the Paradise Trinity, then ponder the eventual appearance of this threefold trinity in the utter remoteness of the almost-eternal future, the feeling of the cyclical nature of deity personalization and trinity formation is likely to grow upon us. The Papers comment on this:
 

@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 In [Appendix XXI](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_21), we studied the concept of the universe of infinity and especially considered its relationship to the nuclear master universe. It is the purpose of this Appendix to examine the growth of the Cosmos Infinite and to see how far we can penetrate (in concept) this unending domain.
 

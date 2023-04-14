@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1968 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 The trinitization of God the Absolute, and the massive break-through into the Cosmos Infinite, opens unending vistas of growth and progress beyond the confines of the master universe – out into the final expanse of the limitless universe. The breaching of The Barrier of Infinity opens all future eternity to endless specula­tion; so much so, that it becomes needful to build some conceptual dykes lest we be flooded by a veritable ocean of speculative and subjunctive possibilities – “ifs” – that could go on and on into final absurdity. In an effort to make the Final Age and the Cosmos Infinite somewhat intelligible we propose to establish three concept-bound­aries to our thinking:
 - _Stage One._ The first stage of the Cosmos Infinite we identify with its inner­most zone, that part of the endless universe that factualizes (actualizes) as a reper­cussion of the trinitized appearance of God the Absolute. We also associate this phase of development with the Dual-Deity association of the Supreme-Ultimate.

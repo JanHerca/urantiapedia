@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 In [Appendix I, Master Universe Antecedents](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_1), we studied the eternity background of the master universe. We started with the First Universe Age, the age of Havona, and then went backward in concept to explore past eternity. We went back about as far as we could go; starting with the concept of a Zero Age we then examined the Pre-Zero concept, and even gave consideration to the Before Pre-Zero concept. Then in [Appendix IV § 1, Succession and Relationship of Universe Ages](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_4#h-1-succession-and-relationships-of-universe-ages), we took inventory of all the universe ages: the age of Havona (the First Age), the age of the superuniverses (the Second Age, the present age), the post-supreme ages of the four outer space levels, and the post-ultimate age of the completed master universe.
 

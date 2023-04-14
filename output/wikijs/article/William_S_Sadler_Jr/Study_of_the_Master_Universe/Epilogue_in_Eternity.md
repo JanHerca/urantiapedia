@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1968 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 Our study of the master universe began with a Prologue in Eternity. In it we attempted to examine certain precreative acts of existential Deity which set the space-stage for the whole ensuing story of the master creation: the mighty outward expansion of Paradise creativity and divinity, and the subsequent consolidation of the experiential results of this expansion on Supreme and on Ultimate levels of reality.
 

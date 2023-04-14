@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 In our study of the events of the remote future, it has often proven helpful to turn to the events of the remote past as an aid to comprehension. The study of absolute causes may offer clues as to the nature of those events that draw near to absolute destinies. We may evoke this approach once more as we seek to gain a better understanding of the nature of the Trinity of Trinities — especially the Second Level thereof. This level of the multiple-trinity seems to have the characteristics of an "internal trinity," a trinity that is inside of the larger, threefold trinity.
 

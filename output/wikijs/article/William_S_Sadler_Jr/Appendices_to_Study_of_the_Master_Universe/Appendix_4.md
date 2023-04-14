@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 The Papers inform us that time and space are associated as a mechanism of the master universe. [UB 118:9.1](/en/The_Urantia_Book/118#p9_1) The major space divisions of the master creation are the six space levels. ([Appendix III](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_3)) The major time divisions of the master universe are the six universe ages – the age of Havona, the age of the superuniverses, and the four ages of the outer space levels. [UB 15:3.18](/en/The_Urantia_Book/15#p3_18) We are now living in the Second Universe Age, the age of the superuniverses.
 

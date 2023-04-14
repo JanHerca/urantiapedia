@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 In previous Appendices we studied the mechanism of experiential growth and the techniques involved in this process. One of the objectives of this Appendix is to observe something of the growth process (especially the creative and the evolutionary techniques) as it operates in a local universe. It is also the purpose of this Appendix to bring together what the Papers have to say about the chronology of a local creation. What is the exact sequence of events from the physical emergence of a nebula, through the ensuing developments, to the era of light and life? This study will be based on the story of our universe (Nebadon) because we have been told more about it than any other.
 

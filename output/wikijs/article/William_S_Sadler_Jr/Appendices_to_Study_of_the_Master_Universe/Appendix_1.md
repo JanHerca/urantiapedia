@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 We tend to look at the master universe as a "going concern," as something that has been here for a long time and is going to be here for a long time. This is a very legitimate way of looking at the master universe; it is a durable creation. At its center is the stationary Isle and the universe of eternal perfection. We live on the outer edge of one of the encircling superuniverses that is slowly evolving in the direction of perfection. Out beyond us, in the outer space regions, are the new universes of the future ages – large physical creations that are being organized for the developments of the future ages. Still farther out, in the more remote regions of outer space, physical creation begins to taper off until finally there is nothing but the quietness of empty spaces in the outermost reaches of the master creation.
 

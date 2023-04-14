@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 We are informed all space comes from Paradise [UB 11:7.4](/en/The_Urantia_Book/11#p7_4), that there are two kinds of space, and these two kinds of space are separated from each other by something celled "midspace." This is something we can think of as "not-space." Both kinds of space are completely surrounded and enclosed, encapsulated, by this "not-space." [UB 11:7.1](/en/The_Urantia_Book/11#p7_1) In our study of the master universe, we are not at all concerned with one of the two kinds of space. The kind of space in which we have no interest is called "unpervaded space." It extends above and below the Isle of Paradise and is not pervaded by (does not contain) anything we know about. So far as we are informed, it is empty space. [UB 11:6.3](/en/The_Urantia_Book/11#p6_3)
 

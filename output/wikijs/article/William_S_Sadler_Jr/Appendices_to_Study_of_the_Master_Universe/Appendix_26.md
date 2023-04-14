@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 In our opinion, the Dual-Deity association of Supreme-Ultimate constitutes a functional bridge linking the master universe (as nucleus) with the Cosmos Infinite (as cytoplasm). The Supreme is sovereign of the core universes, the Ultimate is the co-ordinator of the master universe, the Supreme-Ultimate constitutes the zenith of experiential deity in the master universe and probably functions as a ". . . projection of experientials upon a supermaster universe field of creative expression." [UB 106:0.7](/en/The_Urantia_Book/106#p0_7) As such a projection, the Supreme-Ultimate must be coabsolute in function. We also have the belief that this projection into the Cosmos Infinite may be reflected back upon the master universe from these peripheral realms.
 

@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 We have used the term "post-supreme ages" to designate those universe ages that follow the emergence of the Supreme Being and the completion of the evolutionary growth of the grand universe. It would logically follow that we should designate the time-span which will begin after the emergence of the Ultimate (and the completion of the master universe) as "the post-ultimate age."
 

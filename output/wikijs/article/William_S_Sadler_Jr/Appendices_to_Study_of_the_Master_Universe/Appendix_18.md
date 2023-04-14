@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 
 God the Ultimate is the Second Experiential Deity. In the story of the Growth and development of the post-Havona creations, his emergence will intervene between the evolutionary appearance of God the Supreme and the sometime later appearance of God the Absolute. The Supreme emerges ". . . on the first creature level of unifying Deity revelation in time and space." The Ultimate emerges on the ". . . second experiential level of unifying Deity manifestation." God the Absolute appears on "the third level of unifying Deity expression and expansion." [UB 0:2.16-18](/en/The_Urantia_Book/0#p2_16)

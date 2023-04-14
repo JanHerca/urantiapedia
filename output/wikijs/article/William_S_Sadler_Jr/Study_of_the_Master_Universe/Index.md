@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1968 Urantia Foundation</p>
+
+<br>
+
 ## Summary of the Study
 
 * [Foreword](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Foreword)

@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1968 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 In the Foreword to this work we likened The Urantia Book to a symphony. And so it is. In this Afterword we would like to compare it to a romance – a story of love and adventure. Time after time, in the labor of this work, the writer has been struck with the divine affection on the on hand, and on the other by the great adventuresomeness that seems to underlie God’s purposes – as they appear to be revealed in the happenings of the history of the master universe, in all that goes before, and in all that follows after.
 

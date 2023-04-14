@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -20,9 +24,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
   </table>
 </figure>
 
-Author: **William S. Sadler, Jr.**
-
-Existential reality does not (of itself) grow; experiential reality does. The Growth of experiential reality implies the partnership of creator and creature. To grow is characteristic of experiential deity. [UB 116:0.3](/en/The_Urantia_Book/116#p0_3)) The growth of experiential reality is expansive; it may induce growth in pre-existent and non-growing existential reality. ([Appendix IV § 4-B](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_4#h-4-b-havona-in-the-second-age))
+Existential reality does not (of itself) grow; experiential reality does. The Growth of experiential reality implies the partnership of creator and creature. To grow is characteristic of experiential deity. [UB 116:0.3](/en/The_Urantia_Book/116#p0_3) The growth of experiential reality is expansive; it may induce growth in pre-existent and non-growing existential reality. ([Appendix IV § 4-B](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_4#h-4-b-havona-in-the-second-age))
 
 As we view the present process of experiential growth, it appears to have a dual relationship — a relationship to that which came before it, and a relationship to that which will follow it. The present mechanisms of experiential growth seem to govern in the post-Havona ages of the master universe. These mechanisms do not seem to have been operative in relation to the eternity-appearance of the central creation. Still other mechanisms will probably become operative in the ages after the completion of the entire master universe. As we perceive these three different mechanisms, they may be described as follows:
 - _The existential mechanism._ This is the mechanism which is presumed to have been operative in the First Universe Age, the age of Havona. For example: We are told that the universes of time and space have their beginnings when Force Organizers work in and on the space potency of the Unqualified Absolute, the source of all physical reality. ([Appendix IX § 1](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_9#h-1-ultimate-physical-beginnings)) But it is doubtful that either the Force Organizers of the Unqualified absolute had anything to do with the physical appearance of the central universe. ([Appendix II § 2](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_2#h-2-the-paradise-bestowal-of-space-potency)) If this is correct, present mechanisms of growth were non-operative in the First Universe Age. Havona appears to be reflective of what we presume is the existential mechanism of deity. ([Appendix VI § 4](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6#h-4-the-existential-mechanism))

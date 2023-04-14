@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1959 William S. Sadler<br>© 1961 Urantia Foundation</p>
+
+<br>
+
 ## Index
 
 * [Transcript of Lecture and Discussion of The Foreword by William Sadler, Jr.](/en/article/William_S_Sadler/Workbook_1_Foreword_and_Part_I/Transcript_of_Lecture)

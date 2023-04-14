@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 The sometime-trinitization of God the Absolute may be an event constituting the greatest eruption of creative power since the dawn of eternity and the personalization of the Infinite Spirit. The appearance of the Infinite Spirit is associated with the birth of the central universe of eternity and the beginning of the First Universe Age. The appearance of God the Absolute may be associated with the beginning of the peripheral universe of infinity and the dawn of the Final Universe Age.
 

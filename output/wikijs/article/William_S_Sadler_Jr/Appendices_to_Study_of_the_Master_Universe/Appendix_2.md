@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 No study of the master universe can proceed very far without taking the Isle of Paradise into consideration. As the dwelling place of the eternal God [UB 11:0.1](/en/The_Urantia_Book/11#p0_1), Paradise seems to be quite comprehensible; as one of the Seven Absolutes of Infinity [UB 0:3.2](/en/The_Urantia_Book/0#p3_2), it is not. The eternal Isle is one of the most mysterious of these Seven Absolutes. Perhaps this is because it is one of the four not-personal Absolutes, one of the two non-deity absolutes. [UB 11:9.4](/en/The_Urantia_Book/11#p9_4). The eternal Isle seems to be the Absolute Machine which God built for the same reasons that man builds a machine – to perform certain repetitive functions and operations – [UB 42:12.1](/en/The_Urantia_Book/42#p12_1) but the Paradise Machine is in some manner a knowing machine; it is a machine with awareness. [UB 11:9.4](/en/The_Urantia_Book/11#p9_4)
 

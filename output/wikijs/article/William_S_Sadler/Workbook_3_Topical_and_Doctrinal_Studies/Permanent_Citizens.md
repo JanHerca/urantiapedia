@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1959 William S. Sadler<br>© 1961 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
 	<table>
 		<tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		</tbody>
 	</table>
 </figure>
-
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler<br>© 1961 Urantia Foundation</p>
 
 1. _Inhabited Planets_. Midwayers are the permanent citizens of the inhabited worlds. [UB 37:9.11](/en/The_Urantia_Book/37#p9_11)
 2. _Local Systems_. The Material Sons and Daughters. [UB 45:5.5](/en/The_Urantia_Book/45#p5_5)

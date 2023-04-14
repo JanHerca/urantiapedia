@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1968 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 The master universe is a future-eternal reality. But, excepting Havona, it is not a past-eternal reality. This study of the master creation does not, therefore, properly begin until we are ready to consider Havona in relation to the post-Havona universes. In this Prologue to the study proper, we will accordingly give attention to those eternity acts of Deity which set the stage of space for the master universe – even for Havona, itself.
 

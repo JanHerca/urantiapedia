@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1968 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 We have completed our study of the master universe. It has been a long journey in concept since we first considered the dawn of time and he beginning of the Second Universe Age. We have traced the development of the master creation from the First Creative Thesis of Perfection (Havona in relation to the imperfect super­universes) – through the Finite Story, with the emergence of the Supreme Being and the perfecting of the superuniverses. We have explored the whole of the Absonite Story – starting with the Second Creative Thesis (the grand universe in relation to the outer space creations) and have followed it to the final emergence of the Ultimate and the completion of the vast master universe. We have twice seen the completion of the cycle of thesis, antithesis, and synthesis; we have observed the beginning, but not the ending of the third cycle. We have come a very long way and our study proper has drawn to its logical conclusion.
 

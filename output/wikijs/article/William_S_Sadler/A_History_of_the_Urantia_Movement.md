@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T11:12:37.284Z
 ---
 
-Author: **Dr. William S. Sadler**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler<br>© 1961 Urantia Foundation</p>
 
 Several members of this group who participated in the preliminary “contacts” which led up to the appearance of the Urantia Papers, had had considerable experience in the investigation of psychic phenomena. This group early arrived at the conclusion that the phenomena connected with the personality, who was later associated with the Urantia Papers, was in no way similar to any other well-known type of psychic performance —such as hypnosis, automatic writing, clairvoyance, trances, spirit mediumship, telepathy, or double personality.
 

@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 This Appendix will not deal with the subject of experiential growth in the post-supreme ages; this is the subject matter of [Appendix VII, The Mechanisms of Experiential Growth](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_7). It is the purpose of this Appendix to attempt to bring together what we are told and what we may conjecture about the post-supreme ages. These are the four ages of the four outer space levels, the "outer universes." They are the third, fourth, fifth, and sixth universe ages. The developments of these ages also involve the central universe and the superuniverses, the "inner universes," for these older creations will participate in post-supreme growth along with the outer space levels.
 

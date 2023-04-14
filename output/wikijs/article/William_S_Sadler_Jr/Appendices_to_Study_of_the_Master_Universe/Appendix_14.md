@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 The Seven Master Spirits seem to be concerned about almost everything below the level of absolute and existential values. The personalization of the Infinite Spirit completes existential deity and is followed by the personalization of the Master Spirits — the first expression of experiential deity. [UB 10:2.8](/en/The_Urantia_Book/10#p2_8) The Seven Master Spirits represent "the first Deity-creating act" of the Third Person of Deity [UB 9:8.2](/en/The_Urantia_Book/9#p8_2), and collectively they encompass all of the functions of the Supreme, the Ultimate, and the Supreme-Ultimate, in the master universe. [UB 16:1.3](/en/The_Urantia_Book/16#p1_3) On all subabsolute levels they collectively represent the Infinite Spirit [UB 16:2.5](/en/The_Urantia_Book/16#p2_5)), the Paradise Deities [UB 16:1.4](/en/The_Urantia_Book/16#p1_4), and even the Paradise Trinity. [UB 16:1.3](/en/The_Urantia_Book/16#p1_3)
 

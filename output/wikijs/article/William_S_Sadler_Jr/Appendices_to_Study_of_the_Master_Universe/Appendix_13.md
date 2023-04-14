@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 It is the purpose of this Appendix to assemble what the Papers have to say about the evolution of Creator Sons and Creative Spirits. We will pay particular attention to the nature of these creators, and to their experiential growth in the time-space creations; and will give careful consideration to their destiny in the outer space universes, particularly the creations of the first outer space level.
 

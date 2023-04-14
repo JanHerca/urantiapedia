@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 [Appendix VIII, Transformative Techniques](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_8), reviews in some detail the several ways in which beings are actualized, are brought into existence; and [§ 3 of that Appendix, Techniques of Eventuation](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_8#h-3-techniques-of-eventuation), gives careful consideration to the possible method of the origin of the Transcendentalers and of their governing corps, the Master Universe Architects. [UB 31:8.5](/en/The_Urantia_Book/31#p8_5) In connection with this study it was noted that these beings are concerned solely with "the superadministration of the master universe" [UB 31:8.2](/en/The_Urantia_Book/31#p8_2), and we deduced that they may well be the personification of God's plans for the entire master universe — past, present, and future. We arrived at the conclusion that these absonite beings eventuated (came into existence) as an inherent and virtually inevitable repercussion to the making of such plans for the master universe. In other words, God could hardly make serious plans concerning the master creation without eventuating (thinking out the existence of) the Architects and the Transcendentalers; and these absonite eventuators could come into existence only as a repercussive corollary to the making of such plans.
 

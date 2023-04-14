@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation</p>
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -19,8 +23,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
-Author: **William S. Sadler, Jr.**
 
 The factual emergence of the First Experiential Trinity introduces a new and a unique factor into the growth of the master universe. The original Trinity, the Paradise Trinity, is existential; this new trinity, the Trinity Ultimate, is experiential.[UB 0:12.1](/en/The_Urantia_Book/0#p12_1)
 
