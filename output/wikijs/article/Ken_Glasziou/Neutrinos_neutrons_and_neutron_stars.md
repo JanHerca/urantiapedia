@@ -117,7 +117,7 @@ Dennis Overbye, in his book *Lonely Hearts of the Cosmos*[^21] records that, for
 
 <figure class="image urantiapedia">
 <img src="/image/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars/supernova-1054-crab-nebula.jpg">
-<figcaption><em>Image 3. The most famous supernova, SN1054, or the Crab Nebula, whose explosion was seen from Earth in July 1054.</em></figcaption>
+<figcaption><em>Image 3. The most famous supernova, SN1054, or the Crab Nebula, whose explosion was seen from Earth in July 1054.</em>  © <a href="https://www.nasa.gov/feature/goddard/2017/messier-1-the-crab-nebula">NASA</a> </figcaption>
 </figure>
 
 A 1985 paper (Scientific American) by Hans A. Bethe[^34] and Gerald Brown[^35] entitled *How a Supernova Explodes* shows that understanding of the important role of the neutrinos was well advanced by that time. These authors attribute this understanding to the computer simulations of W. David Arnett of the University of Chicago and Thomas Weaver and Stanford Woosley of the University of California at Santa Cruz.
