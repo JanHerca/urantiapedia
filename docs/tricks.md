@@ -63,6 +63,7 @@
 * Replace english curly quotes with spanish angular ones: `“([^”]*)”` => `«$1»`
 * Replace spanish plain quotes with angular ones: `"([^"]*)"` => `«$1»`
 * Replace LaTeX italics with Markdown: `\\textit\{([^\}]*)\}` => `_$1_`
+* HTML links to Markdown links: `<a href="(.+)">(.+)</a>` => `[$2]($1)`
 * Urantia references to links
     - `\(\d{1,4}\.\d{1,2}\) (\d{1,3}):(\d{1,2})\.(\d{1,3})` or 
     - `\[(\d{1,3}):(\d{1,2})\.(\d{1,3})\]` or 

@@ -1,0 +1,42 @@
+// Replacements to convert HTML to Markdown
+
+filter "tests/markdown/*.md"
+
+replace-regex "<!--|-->"
+with "---"
+
+replace-regex "<p>|<ul>|</ul>|</li>|<u>|</u>|</blockquote>|<ol>|</ol>"
+with ""
+
+replace-regex "</p>|</h2>|</h3>"
+with "\n"
+
+replace "<h2>"
+with "## "
+
+replace "<h3>"
+with "### "
+
+replace "  <li>"
+with "- "
+
+replace-regex "<strong>|</strong>"
+with "**"
+
+replace-regex "<i>|</i>"
+with "_"
+
+replace-regex "<hr>"
+with "---\n"
+
+replace-regex "<a href="(.+)">(.+)</a>"
+with "[$2]($1)"
+
+replace "…"
+with ". . . "
+
+replace-regex "<blockquote>\n "
+with ">"
+
+replace-regex "<sup>|</sup>"
+with "^"
