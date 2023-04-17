@@ -3,7 +3,7 @@ title: "Can Universes and Life Self-generate from Nothingness?"
 description: 
 published: true
 date: 2023-04-09T09:46:30.436Z
-tags: 
+tags: Biology, Science, Evolution, History of Urantia, Innerface International, article
 editor: markdown
 dateCreated: 2022-09-26T04:29:56.106Z
 ---
@@ -70,9 +70,9 @@ How then would God go about creating a universe like ours containing people like
 
 Let’s imagine God is seated before a bank of celestial computers having the twenty dials that tune the parameters for providing the required outcome. He starts with the most important–tuning the force of gravity. The control dial is set in terms of proton masses and must be tuned so that stars are formed of the right size and lifetime to eventually provide a stable universe. If the stars are too small, they will not ignite to burn their hydrogen fuel to helium, if they are too big they won’t last long enough to be useful. Or they might collapse to a black hole.
 
-After some tinkering, the computers throw up the number, 1x10^\-38^ proton masses. That means one divided by 10 followed by 38 zeros. Now that’s tiny. God punches a few keys and gets some answers–the expected life of an average star comes out as ten billion years, which is about what is needed. Dropping a zero reduces lifetime by 1000-fold, drop another zero and the star lasts only 10,000 years. God accepts the computer value.
+After some tinkering, the computers throw up the number, 1x10^-38^ proton masses. That means one divided by 10 followed by 38 zeros. Now that’s tiny. God punches a few keys and gets some answers–the expected life of an average star comes out as ten billion years, which is about what is needed. Dropping a zero reduces lifetime by 1000-fold, drop another zero and the star lasts only 10,000 years. God accepts the computer value.
 
-The next important job is selecting a cosmological constant that will fix the mass-energy density of space. The computers say it must be set to no more than 10^\-40^ proton masses. More tinkering and it is found that for any bigger value, the universe won’t last long enough to produce stars. God again accepts the computer value.
+The next important job is selecting a cosmological constant that will fix the mass-energy density of space. The computers say it must be set to no more than 10^-40^ proton masses. More tinkering and it is found that for any bigger value, the universe won’t last long enough to produce stars. God again accepts the computer value.
 
 God still has 18 parameters (values) to assign. While he does the work, let’s find out what the chances are of getting our kind of stars in our kind of universe if we just spin those twenty tuning dials at random.
 

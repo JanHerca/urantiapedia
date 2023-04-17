@@ -3,7 +3,7 @@ title: "Is The Urantia Book Believable? Is it Logical?"
 description: 
 published: true
 date: 2023-04-09T13:00:47.165Z
-tags: 
+tags: The Urantia Book, The Urantia Book—Authorship, Innerface International, article
 editor: markdown
 dateCreated: 2022-09-26T05:38:41.148Z
 ---

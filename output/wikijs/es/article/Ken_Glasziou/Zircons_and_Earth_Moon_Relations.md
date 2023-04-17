@@ -3,7 +3,7 @@ title: "Zirconios y Relaciones Tierra-Luna"
 description: 
 published: true
 date: 2023-04-09T13:01:13.570Z
-tags: 
+tags: Geology, Physics, History of Urantia, Science, Innerface International, article
 editor: markdown
 dateCreated: 2023-01-22T21:33:20.280Z
 ---

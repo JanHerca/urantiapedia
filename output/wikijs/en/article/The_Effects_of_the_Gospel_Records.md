@@ -3,7 +3,7 @@ title: "The Effects of the Gospel Records"
 description: 
 published: true
 date: 2023-04-09T11:59:27.270Z
-tags: 
+tags: Exegesis, Bible—Matthew, Bible—Mark, Bible—Luke, Bible—John, Innerface International, article
 editor: markdown
 dateCreated: 2022-09-26T22:52:03.235Z
 ---

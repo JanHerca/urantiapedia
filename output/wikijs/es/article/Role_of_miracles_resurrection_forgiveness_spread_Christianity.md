@@ -3,7 +3,7 @@ title: "El papel relativo de los milagros, la resurrección y el perdón de los 
 description: 
 published: true
 date: 2023-04-09T10:50:10.292Z
-tags: 
+tags: Christianity, Jesus life, Jesus times, Innerface International, article
 editor: markdown
 dateCreated: 2022-09-26T21:06:42.285Z
 ---
@@ -46,4 +46,4 @@ Resumiendo esta evidencia, concluimos que la veracidad de las apariciones de la 
 
 ## Enlaces externos
 
-- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_2/ página11.html
+- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_2/page11.html

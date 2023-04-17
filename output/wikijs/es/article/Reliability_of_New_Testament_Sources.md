@@ -3,7 +3,7 @@ title: "Fiabilidad de las fuentes del Nuevo Testamento"
 description: 
 published: true
 date: 2023-04-09T12:32:21.074Z
-tags: 
+tags: Exegesis, Bible—Matthew, Bible—Mark, Bible—Luke, Bible—John, Innerface International, article
 editor: markdown
 dateCreated: 2022-09-26T20:25:13.138Z
 ---

@@ -3,7 +3,7 @@ title: "Secrets of Jesus Spirituality"
 description: 
 published: true
 date: 2023-04-09T09:50:45.653Z
-tags: 
+tags: Jesus, Spirituality, Innerface International, article
 editor: markdown
 dateCreated: 2022-09-26T21:17:53.801Z
 ---

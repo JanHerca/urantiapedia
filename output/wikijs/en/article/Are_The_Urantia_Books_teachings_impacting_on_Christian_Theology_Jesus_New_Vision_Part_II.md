@@ -3,7 +3,7 @@ title: "Are The Urantia Book's teachings impacting on Christian Theology? Jesusâ
 description: 
 published: true
 date: 2023-04-09T12:58:53.877Z
-tags: 
+tags: The Urantia Book, Christianity, Church, Jesus, Jesus times, Gender, Innerface International, article
 editor: markdown
 dateCreated: 2022-09-26T03:51:01.787Z
 ---

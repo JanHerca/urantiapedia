@@ -3,7 +3,7 @@ title: "What the Urantia Revelation says about the Spirit of Truth"
 description: 
 published: true
 date: 2023-04-09T10:48:37.926Z
-tags: 
+tags: The Urantia Book, Jesus teachings, Innerface International, article
 editor: markdown
 dateCreated: 2022-09-27T01:12:27.885Z
 ---
@@ -106,4 +106,4 @@ However take care not to make the mistake of expecting to become strongly intell
 
 ## External links
 
--   Article in Innerface International: [https://urantia-book.org/archive/newsletters/innerface/vol12\_2/page8.html](https://urantia-book.org/archive/newsletters/innerface/vol12_2/page8.html)
+-   Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_2/page8.html

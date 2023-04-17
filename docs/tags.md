@@ -125,6 +125,7 @@ Ethics
 Eugenics
 Evangelism
 Evolution
+Exegesis
 Faith
 Family
 Fear

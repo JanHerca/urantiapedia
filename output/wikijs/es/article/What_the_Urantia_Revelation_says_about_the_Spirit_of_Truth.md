@@ -3,7 +3,7 @@ title: "Lo que dice la Revelación de Urantia sobre el Espíritu de la Verdad"
 description: 
 published: true
 date: 2023-04-09T10:48:37.926Z
-tags: 
+tags: The Urantia Book, Jesus teachings, Innerface International, article
 editor: markdown
 dateCreated: 2022-09-27T01:12:27.885Z
 ---
@@ -106,4 +106,4 @@ Sin embargo, ten cuidado de no cometer el error de esperar volverte intelectualm
 
 ## Enlaces externos
 
-- Artículo en Innerface International: [https://urantia-book.org/archive/newsletters/innerface/vol12\_2/page8.html](https://urantia-book.org/archive/newsletters/innerface/vol12_2/ página8.html)
+- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_2/page8.html

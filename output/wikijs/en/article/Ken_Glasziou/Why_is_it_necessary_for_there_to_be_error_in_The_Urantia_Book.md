@@ -3,7 +3,7 @@ title: "Why is it necessary for there to be error in The Urantia Book?"
 description: 
 published: true
 date: 2023-04-09T12:59:32.170Z
-tags: 
+tags: Geology, Astronomy, Science, The Urantia Book, The Urantia Book—Errors, Innerface International, article
 editor: markdown
 dateCreated: 2022-09-26T16:26:00.991Z
 ---

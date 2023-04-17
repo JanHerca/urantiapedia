@@ -3,7 +3,7 @@ title: "Comunión con Dios: de la Revelación de Urantia"
 description: 
 published: true
 date: 2023-04-09T09:47:22.539Z
-tags: 
+tags: Prayer, Innerface International, article
 editor: markdown
 dateCreated: 2022-09-26T04:42:35.653Z
 ---

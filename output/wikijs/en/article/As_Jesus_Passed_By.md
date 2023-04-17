@@ -3,7 +3,7 @@ title: "As Jesus Passed By"
 description: 
 published: true
 date: 2023-04-09T11:04:34.353Z
-tags: 
+tags: Jesus, Jesus life, Jesus teachings, Innerface International, article
 editor: markdown
 dateCreated: 2022-09-26T03:56:17.001Z
 ---

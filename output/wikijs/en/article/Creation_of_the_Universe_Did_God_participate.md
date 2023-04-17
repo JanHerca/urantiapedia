@@ -3,7 +3,7 @@ title: "Creation of the Universe. Did God participate?"
 description: 
 published: true
 date: 2023-04-09T09:46:57.922Z
-tags: 
+tags: Cosmology, Physics, Innerface International, article
 editor: markdown
 dateCreated: 2022-09-26T04:57:00.996Z
 ---

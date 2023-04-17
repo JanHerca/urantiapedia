@@ -3,7 +3,7 @@ title: "What was the Gospel of Jesus?"
 description: 
 published: true
 date: 2023-04-09T11:58:49.412Z
-tags: 
+tags: Jesus, Jesus teachings, Innerface International, article
 editor: markdown
 dateCreated: 2022-09-27T01:15:17.858Z
 ---
