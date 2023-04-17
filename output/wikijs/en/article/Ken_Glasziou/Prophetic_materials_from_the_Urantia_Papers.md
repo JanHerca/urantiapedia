@@ -29,7 +29,7 @@ The words of Swann were reproduced in Paper 42, Section 6 but with the compariso
 > “_If the mass of matter should be magnified until that of an electron equaled one tenth of an ounce, then were size to be proportionately magnified, the volume of such an electron would become as large as that of the earth_.” ([UB 42:6.8](/en/The_Urantia_Book/42#p6_8))
 
 
-Taking the rest mass of the electron at 9.1 x 10^-28^ g, 0.1 ounce as 2.8 g, the radius of the earth as 6.4 x 10^6^ m and putting k as the magnification constant, then: k x 9.1 x 10-28 = 2.8 (1), and so
+Taking the rest mass of the electron at 9.1 x 10^-28^ g, 0.1 ounce as 2.8 g, the radius of the earth as 6.4 x 10^6^ m and putting k as the magnification constant, then: k x 9.1 x 10^-28^ = 2.8 (1), and so
 
 k = 3.1 x 10^27^ (2)
 
@@ -50,7 +50,7 @@ At the time of receipt of the Urantia Papers and up until the 1990’s this made
 
 The Urantia Book statement remained nonsensical until the 1990’s when Nobel prize winner, Hans Dehmelt, found a way to confine a single electron to a trap semi-permanently. This achievement allowed actual measurements to be made that assigned the radius of the electron to fall into the range of 10^-19^ m to 10^-22^ m.
 
-This estimate was noticed by physicist Stefan Talqvist, a Urantia Book student who had previously checked the calculation using the Urantia Paper’s version of Swann’s earlier work. A few years later at Dehmelt’s laboratory^1^, refining of their techniques allowed them to settle for the electron radius being in the order of 10^-22^ m, so even closer to the 2 x 10^-21^ that is calculated for the Urantia Papers’ modified version of Swann’s comparison.
+This estimate was noticed by physicist Stefan Talqvist, a Urantia Book student who had previously checked the calculation using the Urantia Paper’s version of Swann’s earlier work. A few years later at Dehmelt’s laboratory[^1], refining of their techniques allowed them to settle for the electron radius being in the order of 10^-22^ m, so even closer to the 2 x 10^-21^ that is calculated for the Urantia Papers’ modified version of Swann’s comparison.
 
 There was a second part to Swann’s comparison that went:
 

@@ -108,7 +108,7 @@ Para el cristianismo, como se enseña en la mayoría de las iglesias ortodoxas, 
 
 Para esta extraña situación, una gran parte de su rareza se puede atribuir a Pablo, ya que casi todos sus escritos se completaron y circularon entre los primeros cristianos mucho antes de que se registrara nada más en el Nuevo Testamento. Importante entre los escritos de Pablo es [1 Corintios 11:23-25](/es/Bible/1_Corinthians/11#v23):
 
-> «Porque yo he recibido del Señor lo que también os he entregado: que el Señor Jesús, la misma noche en que fue entregado, tomó pan. Y habiendo dado gracias, lo partió diciendo: 'Tomad, comed, esto es mi cuerpo que por vosotros es partido. Haced esto en memoria mía. Y de la misma manera tomó la copa, y habiendo cenado, dijo: 'Esta copa es el nuevo pacto de Dios, sellado con mi sangre. Siempre que lo beban, háganlo en memoria mía'».
+> «Porque yo he recibido del Señor lo que también os he entregado: que el Señor Jesús, la misma noche en que fue entregado, tomó pan. Y habiendo dado gracias, lo partió diciendo: ‘Tomad, comed, esto es mi cuerpo que por vosotros es partido. Haced esto en memoria mía. Y de la misma manera tomó la copa, y habiendo cenado, dijo: ’Esta copa es el nuevo pacto de Dios, sellado con mi sangre. Siempre que lo beban, háganlo en memoria mía'».
 
 Denominada la «Última Cena», estas mismas palabras se repitieron en los Evangelios Sinópticos, los tres de los cuales fueron escritos en una fecha posterior a las cartas de Pablo.
 

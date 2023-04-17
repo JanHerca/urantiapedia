@@ -48,9 +48,9 @@ Séforis no recibe una mención en relación con Jesús y no se menciona ni en e
 
 Una ciudad tan grande en las proximidades de Nazaret, donde Jesús parece haber pasado gran parte de su vida temprana, pero sin embargo, el hecho de no ser mencionado ni en la literatura evangélica ni por los historiadores modernos es un misterio sin explicación. Sin embargo, parece muy poco probable que Jesús pudiera haber vivido a poca distancia a pie de la capital provincial y no dejarse influir por su presencia.
 
-Ciertamente, la omisión se ha subsanado en _El libro de Urantia_ (publicado en 1955), que nos informa que no solo Jesús pasó varios años trabajando a tiempo completo en Séforis, sino que también su padre terrenal, José, murió allí mientras trabajaba en uno de los edificios de Herodes. proyectos
+Ciertamente, la omisión se ha subsanado en _El Libro de Urantia_ (publicado en 1955), que nos informa que no solo Jesús pasó varios años trabajando a tiempo completo en Séforis, sino que también su padre terrenal, José, murió allí mientras trabajaba en uno de los edificios de Herodes. proyectos
 
-Por lo tanto, Jesús no era un paleto del campo que nunca había estado expuesto a la civilización grecorromana1. Según _El libro de Urantia_, su padre, Joseph, hablaba tanto arameo como griego con fluidez, y le enseñó griego al joven Jesús a partir de una versión en griego de las Escrituras que un amigo de la familia le presentó a Jesús cuando era niño en Egipto.
+Por lo tanto, Jesús no era un paleto del campo que nunca había estado expuesto a la civilización grecorromana1. Según _El Libro de Urantia_, su padre, Joseph, hablaba tanto arameo como griego con fluidez, y le enseñó griego al joven Jesús a partir de una versión en griego de las Escrituras que un amigo de la familia le presentó a Jesús cuando era niño en Egipto.
 
 ## Enlaces externos
 

@@ -16,7 +16,7 @@ En nuestro número anterior proporcionamos la primera parte de la condensación 
 
 Anteriormente notamos que Borg hizo referencia a más de 100 trabajos de apoyo, prácticamente todos de académicos profesionales, lo que indica que de ninguna manera es el único que sostiene la opinión que tiene.
 
-En esta presentación, completamos el componente condensado del libro de Borg, al mismo tiempo que proporcionamos referencias a puntos de vista similares expresados ​​en _El libro de Urantia_.
+En esta presentación, completamos el componente condensado del libro de Borg, al mismo tiempo que proporcionamos referencias a puntos de vista similares expresados ​​en _El Libro de Urantia_.
 
 ## Jesús: Una Nueva Visión
 
@@ -84,7 +84,7 @@ En ese tiempo, Jerusalén tenía una población estimada entre cuarenta mil y se
 
 Jesús y sus seguidores llegaron del este, posiblemente el mismo día. Cuando entraron en la ciudad, Jesús realizó el primero de dos actos proféticos. Según los evangelios, hizo arreglos deliberados para entrar en la ciudad montado en un pollino de burro, aclamado por seguidores y simpatizantes. El sentido del acto queda claro cuando nos damos cuenta de que estaba representando intencionadamente un pasaje del profeta Zacarías que hablaba de un rey de paz «montado sobre un pollino, hijo de asna». Su entrada fue una manifestación planificada, **un llamado a Jerusalén a seguir el camino de la paz.** ([LU 172:5.5](/es/The_Urantia_Book/172#p5_5))
 
-Poco después, Jesús entró en el área del templo donde, en uno de los atrios exteriores, realizó un segundo y más dramático acto: expulsó a los cambistas y vendedores de aves de sacrificio. Fue una acción provocativa que debe haber creado algo de revuelo, pero apenas un alboroto. De haber sido así, los romanos cuya guarnición dominaba los patios del templo habrían intervenido rápidamente. Más bien fue un acto profético, realizado por el bien del mensaje que contenía. Como suele ocurrir con los actos proféticos, la acción iba acompañada del pronunciamiento que interpretaba su significado: «¿No está escrito: 'Mi casa será llamada casa de oración para todas las naciones'? Pero vosotros la habéis convertido en cueva de ladrones.'» ([LU 173:1](/es/The_Urantia_Book/173#p1))
+Poco después, Jesús entró en el área del templo donde, en uno de los atrios exteriores, realizó un segundo y más dramático acto: expulsó a los cambistas y vendedores de aves de sacrificio. Fue una acción provocativa que debe haber creado algo de revuelo, pero apenas un alboroto. De haber sido así, los romanos cuya guarnición dominaba los patios del templo habrían intervenido rápidamente. Más bien fue un acto profético, realizado por el bien del mensaje que contenía. Como suele ocurrir con los actos proféticos, la acción iba acompañada del pronunciamiento que interpretaba su significado: «¿No está escrito: ‘Mi casa será llamada casa de oración para todas las naciones’? Pero vosotros la habéis convertido en cueva de ladrones.'» ([LU 173:1](/es/The_Urantia_Book/173#p1))
 
 Tanto la acción en sí como las palabras de interpretación apuntan al acto como un ataque a la política de la santidad. Los cambistas y vendedores de aves de sacrificio estaban allí al servicio del ethos de la santidad. El impuesto anual del templo debía pagarse en monedas «sagradas», y no con monedas profanas con imágenes. Las aves sacrificatorias tenían que ser impecables.
 

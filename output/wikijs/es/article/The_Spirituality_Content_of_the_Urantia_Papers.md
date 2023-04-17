@@ -12,25 +12,25 @@ dateCreated: 2022-09-27T00:03:47.821Z
 
 En un futuro no muy lejano llegará un momento en que gran parte de El libro de Urantia quedará obsoleto. Esto se debe a la obsolescencia de gran parte de su ciencia, así como a porciones considerables del contenido histórico, incluido su material bíblico.
 
-Ahora puede haber pocas dudas de que los reveladores anticiparon esto. A lo largo del libro hay una gran cantidad de material disperso que se relaciona directamente con cosas de valor espiritual. De hecho, hay tanto en esta categoría que nos vemos obligados a especular sobre si la función principal de los Documentos de Urantia es desviar nuestra atención de lo material y lo secular a las "cosas del espíritu".
+Ahora puede haber pocas dudas de que los reveladores anticiparon esto. A lo largo del libro hay una gran cantidad de material disperso que se relaciona directamente con cosas de valor espiritual. De hecho, hay tanto en esta categoría que nos vemos obligados a especular sobre si la función principal de los Documentos de Urantia es desviar nuestra atención de lo material y lo secular a las «cosas del espíritu».
 
 Que esto es así de hecho se ilustra con:
 
-> “Solo aquellas experiencias humanas que tenían un valor espiritual son propiedad común del mortal sobreviviente y del Ajustador que ha regresado, y por eso son recordadas inmediatamente después de la supervivencia del mortal”. ([UB 40:9.7](/en/The_Urantia_Book/40#p9_7)) ¡¡Piensa en eso!!
+> «Solo aquellas experiencias humanas que tenían un valor espiritual son propiedad común del mortal sobreviviente y del Ajustador que ha regresado, y por eso son recordadas inmediatamente después de la supervivencia del mortal». ([LU 40:9.7](/es/The_Urantia_Book/40#p9_7)) ¡¡Piensa en eso!!
 
 
 
 ## Entonces, ¿qué es la espiritualidad?
 
-A pesar de la gran cantidad de referencias a la "espiritualidad" y al "valor espiritual" en los Documentos de Urantia, estos Documentos no proporcionan en ninguna parte una definición exacta de dichos términos. Entre los mejores que nos dan está:
+A pesar de la gran cantidad de referencias a la «espiritualidad» y al «valor espiritual» en los Documentos de Urantia, estos Documentos no proporcionan en ninguna parte una definición exacta de dichos términos. Entre los mejores que nos dan está:
 
-“*Todo lo que hacemos que es bueno contribuye a la mejora de la otra vida*”, combinado con afirmaciones como “*solo aquellas experiencias humanas de valor espiritual*” sobreviven: “*una gran parte de vuestra vida pasada y de sus recuerdos, que no tienen un significado espiritual ni un valor morontial, perecerán con el cerebro material*” ([UB 112:5.22](/en/The_Urantia_Book/112#p5_22)).
+«*Todo lo que hacemos que es bueno contribuye a la mejora de la otra vida*», combinado con afirmaciones como «*solo aquellas experiencias humanas de valor espiritual*» sobreviven: «*una gran parte de vuestra vida pasada y de sus recuerdos, que no tienen un significado espiritual ni un valor morontial, perecerán con el cerebro material*» ([LU 112:5.22](/es/The_Urantia_Book/112#p5_22)).
 
-Por lo tanto, podemos considerar que el valor espiritual significa “aquello que es bueno”. Otras declaraciones relevantes son:
+Por lo tanto, podemos considerar que el valor espiritual significa «aquello que es bueno». Otras declaraciones relevantes son:
 
-> La espiritualidad indica inmediatamente vuestra proximidad a Dios y la medida de vuestra utilidad para vuestros semejantes. La espiritualidad realza la aptitud para descubrir la belleza en las cosas, para reconocer la verdad en los significados y para descubrir la bondad en los valores. El desarrollo espiritual está determinado por la capacidad para llevarlo a cabo y es directamente proporcional a la eliminación de los elementos egoístas del amor. ([UB 100:2.4](/es/El_Libro_de_Urantia/100#p2_4))
+> La espiritualidad indica inmediatamente vuestra proximidad a Dios y la medida de vuestra utilidad para vuestros semejantes. La espiritualidad realza la aptitud para descubrir la belleza en las cosas, para reconocer la verdad en los significados y para descubrir la bondad en los valores. El desarrollo espiritual está determinado por la capacidad para llevarlo a cabo y es directamente proporcional a la eliminación de los elementos egoístas del amor. ([LU 100:2.4](/es/The_Urantia_Book/100#p2_4))
 
-> El verdadero estado espiritual representa la medida en que se ha alcanzado la Deidad, la armonización con el Ajustador. Conseguir la finalidad de la espiritualidad equivale a alcanzar el máximo de realidad, el máximo de semejanza con Dios. La vida eterna es la búsqueda interminable de los valores infinitos. ([UB 100:2.5](/es/El_Libro_de_Urantia/100#p2_5))
+> El verdadero estado espiritual representa la medida en que se ha alcanzado la Deidad, la armonización con el Ajustador. Conseguir la finalidad de la espiritualidad equivale a alcanzar el máximo de realidad, el máximo de semejanza con Dios. La vida eterna es la búsqueda interminable de los valores infinitos. ([LU 100:2.5](/es/The_Urantia_Book/100#p2_5))
 
 De lo cual concluimos: la espiritualidad es lo que Dios es, y se puede medir por nuestra cercanía a Dios, nuestra semejanza a Dios.
 
@@ -173,7 +173,7 @@ Dios, el Padre, es el dador y el conservador de cada personalidad. Así mismo el
 
 Dios es personalmente consciente y está en contacto personal con todas las personalidades de todos los niveles de existencia autoconsciente, y esta conciencia es independiente de la misión del Dios-Espíritu-Interior.
 
-> “La naturaleza de Dios se puede comprender mejor mediante la revelación del Padre que Miguel de Nebadon desarrolló en sus múltiples enseñanzas y en su magnífica vida humana en la carne. El hombre también puede comprender mejor la naturaleza divina si se considera a sí mismo como un hijo de Dios y aprecia al Creador Paradisiaco como un verdadero Padre espiritual”. ([UB 2:0.1](/es/El_Libro_de_Urantia/2#p0_1))
+> «La naturaleza de Dios se puede comprender mejor mediante la revelación del Padre que Miguel de Nebadon desarrolló en sus múltiples enseñanzas y en su magnífica vida humana en la carne. El hombre también puede comprender mejor la naturaleza divina si se considera a sí mismo como un hijo de Dios y aprecia al Creador Paradisiaco como un verdadero Padre espiritual». ([LU 2:0.1](/es/The_Urantia_Book/2#p0_1))
 
 
 
@@ -220,7 +220,7 @@ Debido a que la verdadera religión es un asunto de experiencia religiosa person
 
 Los futuros religiosos deben vivir su religión, dedicándose al servicio incondicional de Dios y la humanidad.
 
-Ya es hora de que los hombres y las mujeres tengan una experiencia religiosa tan personal y tan sublime que pueda ser realizada y expresada solo por "sentimientos que son demasiado profundos para las palabras".
+Ya es hora de que los hombres y las mujeres tengan una experiencia religiosa tan personal y tan sublime que pueda ser realizada y expresada solo por «sentimientos que son demasiado profundos para las palabras».
 
 La interdependencia económica y la confraternización social conducirán finalmente a la unificación de la humanidad. La gente, naturalmente, son soñadores, pero la ciencia los está volviendo serios para que la religión pueda convertirse en su activador y con mucho menos peligro que antes de precipitar reacciones fanáticas. La necesidad económica los ata a la realidad y la experiencia religiosa personal los pone cara a cara con las realidades eternas de la ciudadanía cósmica.
 
@@ -297,19 +297,19 @@ Aunque el mortal promedio no puede esperar alcanzar la perfección de carácter 
 
 La bondad inagotable y la firmeza de carácter de Jesús asombraron a sus seguidores. Era verdaderamente sincero, no tenía nada de hipócrita en él. Estaba libre de fingir—actuar. Vivió la verdad, incluso mientras la enseñaba. Él era la verdad. Era razonable, accesible, práctico, libre de todas las tendencias anormales, erráticas y excéntricas. Y no tenía miedo.
 
-De Jesús se dijo con verdad: “Él confió en Dios”. Como hombre entre los hombres, confió de la manera más sublime en el Padre que está en los cielos. Confió en su Padre como un niño pequeño confía en un padre terrenal. Su fe era perfecta pero nunca presuntuosa. Nunca vaciló en su fe. Era inmune a la desilusión, impermeable a la persecución y al margen del aparente fracaso. Amaba a la gente. Y anduvo haciendo el bien.
+De Jesús se dijo con verdad: «Él confió en Dios». Como hombre entre los hombres, confió de la manera más sublime en el Padre que está en los cielos. Confió en su Padre como un niño pequeño confía en un padre terrenal. Su fe era perfecta pero nunca presuntuosa. Nunca vaciló en su fe. Era inmune a la desilusión, impermeable a la persecución y al margen del aparente fracaso. Amaba a la gente. Y anduvo haciendo el bien.
 
 Jesús era inusualmente alegre, aunque nunca ciego e irrazonable. Siempre fue generoso, y nunca se cansó de afirmar que es más bienaventurado dar que recibir.
 
-Controló su entusiasmo; nunca lo controló. Se dedicó sin reservas a “estar en los asuntos de su Padre”.
+Controló su entusiasmo; nunca lo controló. Se dedicó sin reservas a «estar en los asuntos de su Padre».
 
-Jesús era un alma de alegría. Pero cuando el deber lo requería, estaba dispuesto a caminar valientemente a través del “valle de sombra de muerte”. Era alegre pero a la vez humilde.
+Jesús era un alma de alegría. Pero cuando el deber lo requería, estaba dispuesto a caminar valientemente a través del «valle de sombra de muerte». Era alegre pero a la vez humilde.
 
 Su coraje solo fue igualado por su paciencia. Nunca tenía prisa; su compostura era sublime.
 
-Jesús fue grande porque era bueno, pero fraternizó con los niños pequeños. Era gentil y sin pretensiones en su vida personal; sin embargo, era el hombre perfecto de un universo. Y sus asociados lo llamaron "Maestro" espontáneamente.
+Jesús fue grande porque era bueno, pero fraternizó con los niños pequeños. Era gentil y sin pretensiones en su vida personal; sin embargo, era el hombre perfecto de un universo. Y sus asociados lo llamaron «Maestro» espontáneamente.
 
-Jesús era una personalidad humana perfectamente unificada. Hoy continúa unificando la existencia mortal. Entra en la mente humana para elevar, transformar y transfigurar. Es literalmente cierto: “Si alguno tiene el espíritu de Jesucristo dentro de sí, nueva criatura es; las cosas viejas van pasando; he aquí todas las cosas se hacen nuevas.” ([2 Co. 5:17](/es/Bible/2_Corinthians/5#v17))
+Jesús era una personalidad humana perfectamente unificada. Hoy continúa unificando la existencia mortal. Entra en la mente humana para elevar, transformar y transfigurar. Es literalmente cierto: «Si alguno tiene el espíritu de Jesucristo dentro de sí, nueva criatura es; las cosas viejas van pasando; he aquí todas las cosas se hacen nuevas.» ([2 Co. 5:17](/es/Bible/2_Corinthians/5#v17))
 
 
 ## La base de la realidad de la religión
@@ -318,13 +318,13 @@ La religión como experiencia humana va desde la primitiva esclavitud del miedo 
 
 La religión es la vivencia de la divinidad en la conciencia de un ser moral de origen evolutivo. Representa la verdadera experiencia con realidades eternas en el tiempo, la realización de la satisfacción espiritual mientras aún está en la carne.
 
-Realmente hay una voz interior verdadera y genuina, “la luz verdadera que alumbra a todo hombre que viene al mundo”. Y este liderazgo espiritual es distinto del impulso ético de la conciencia humana.
+Realmente hay una voz interior verdadera y genuina, «la luz verdadera que alumbra a todo hombre que viene al mundo». Y este liderazgo espiritual es distinto del impulso ético de la conciencia humana.
 
 La seguridad de la religión trasciende la razón de la mente, incluso la lógica de la filosofía. La religión **ES** fe, confianza y seguridad.
 
 El Espíritu Divino se pone en contacto con los seres mortales, no por sentimientos o emociones, sino en el ámbito de vuestro pensamiento más elevado y espiritualizado. Son sus pensamientos y no sus sentimientos los que los guían hacia Dios.
 
-La naturaleza divina sólo puede percibirse con los ojos de la mente. Pero la mente que realmente discierne a Dios, escucha su Espíritu que mora en nosotros, es la mente pura. Porque “Sin santidad nadie puede ver al Señor”.
+La naturaleza divina sólo puede percibirse con los ojos de la mente. Pero la mente que realmente discierne a Dios, escucha su Espíritu que mora en nosotros, es la mente pura. Porque «Sin santidad nadie puede ver al Señor».
 
 La religión es una experiencia profunda y real de comunión espiritual con las influencias espirituales que residen dentro de la mente humana, y en la medida en que tal experiencia sea definible, es simplemente la experiencia de experimentar la realidad de creer en Dios como la realidad de tal una experiencia personal.
 
@@ -365,13 +365,13 @@ La religión proporciona así una vía de escape de las limitaciones mutuas del 
 
 ## Prueba y validez
 
-Nunca puede haber pruebas científicas o lógicas de la divinidad. La razón por sí sola nunca puede validar el valor y la bondad de la experiencia religiosa. Pero siempre será cierto: “**Quien quiera hacer la voluntad de Dios comprenderá la validez del valor espiritual**”. Este es el acercamiento más cercano que se puede hacer en el nivel mortal para ofrecer una prueba de la realidad de la experiencia religiosa. Es el único pasaporte para completar la realidad y la eternidad de la vida en una creación universal de amor, ley, unidad y logro progresivo de la deidad.
+Nunca puede haber pruebas científicas o lógicas de la divinidad. La razón por sí sola nunca puede validar el valor y la bondad de la experiencia religiosa. Pero siempre será cierto: «**Quien quiera hacer la voluntad de Dios comprenderá la validez del valor espiritual**». Este es el acercamiento más cercano que se puede hacer en el nivel mortal para ofrecer una prueba de la realidad de la experiencia religiosa. Es el único pasaporte para completar la realidad y la eternidad de la vida en una creación universal de amor, ley, unidad y logro progresivo de la deidad.
 
 Siguiendo el destello de justicia discernible en nuestra alma, podemos identificarnos con el plan del Infinito y el propósito del Eterno. Cuando experimentamos tal transformación de la fe, ya no somos una parte esclava del cosmos matemático, sino un hijo volitivo liberado del Padre Universal.
 
 El hambre de perfección en nuestros corazones es necesaria para asegurar la capacidad de comprender los caminos de la fe hacia el logro supremo.
 
-Es literalmente cierto: “Las cosas humanas deben ser conocidas para ser amadas, pero las cosas divinas deben ser amadas para ser conocidas”.
+Es literalmente cierto: «Las cosas humanas deben ser conocidas para ser amadas, pero las cosas divinas deben ser amadas para ser conocidas».
 
 El Padre-Espíritu que mora en nosotros indefectiblemente suscita en nuestras almas un hambre verdadera y escrutadora de perfección, junto con una curiosidad de largo alcance que sólo puede ser satisfecha por la comunión con Dios.
 
@@ -472,7 +472,7 @@ La verdad, una comprensión de las relaciones cósmicas, los hechos del universo
 
 En el estado mortal nada puede probarse absolutamente, tanto la ciencia como la religión se basan en suposiciones.
 
-Hay una verdadera “prueba” de la “realidad espiritual” en la presencia del Espíritu de Dios que mora en nosotros, pero la validez de la “prueba” no es demostrable al mundo externo, sino solo a quien experimenta así la morada de Dios. .
+Hay una verdadera «prueba» de la «realidad espiritual» en la presencia del Espíritu de Dios que mora en nosotros, pero la validez de la «prueba» no es demostrable al mundo externo, sino solo a quien experimenta así la morada de Dios. .
 
 
 ## Unidad funcional
@@ -492,26 +492,26 @@ Cuando la razón reconoce una vez el bien y el mal, exhibe sabiduría; cuando la
 
 ## Las enseñanzas de Jesús
 
-Para comprender los Documentos de Urantia, es vital comprender el papel atribuido al Espíritu de Dios que ahora habita en las mentes de prácticamente todos los seres humanos nacidos en este planeta. Se hace referencia a ella en el Nuevo Testamento en unos 25 de sus versículos, por ejemplo, “No sabéis que sois templo de Dios, que el Espíritu de Dios mora en vosotros” ([1. Cor. 3:16](/en/Bible/1_Corinthians/3#v16)), y, “Si nos amamos unos a otros, Dios habita en nosotros”. ([1 Juan 4:12](/es/Bible/1_John/4#v12)).
+Para comprender los Documentos de Urantia, es vital comprender el papel atribuido al Espíritu de Dios que ahora habita en las mentes de prácticamente todos los seres humanos nacidos en este planeta. Se hace referencia a ella en el Nuevo Testamento en unos 25 de sus versículos, por ejemplo, «No sabéis que sois templo de Dios, que el Espíritu de Dios mora en vosotros» ([1. Cor. 3:16](/es/Bible/1_Corinthians/3#v16)), y, «Si nos amamos unos a otros, Dios habita en nosotros». ([1 Juan 4:12](/es/Bible/1_John/4#v12)).
 
 Este Espíritu que mora en nosotros es la fuente de todos los verdaderos significados y valores de naturaleza no material. Por lo tanto, es la fuente de la verdadera moralidad, la verdad no material, la belleza y la bondad, y toda la verdad revelada. Entonces, de una forma u otra, toda verdadera revelación es de Dios sin importar el medio de su origen. Pero el reconocimiento de esta verdad es una función individual, crucialmente dependiente de la relación personal entre el individuo y el Dios-Espíritu interior. Las verdades empíricas de la ciencia pueden parecer diferentes, pero básicamente no lo son.
 
-Los Documentos de Urantia se han presentado al mundo como la Quinta Revelación de Época y, como tal, esto ha generado afirmaciones de infalibilidad por parte de algunos. La realidad es que los Documentos mismos afirman que “nada que la naturaleza humana haya tocado puede considerarse infalible”. Y no hay una sola declaración en todos los Documentos que, en algún momento, no haya estado abierta a la mano contaminante del hombre. Por lo tanto, todas las decisiones sobre la validez de la verdad revelada en estos Documentos, o en cualquier otro lugar, deben ser para siempre responsabilidad personal del individuo.
+Los Documentos de Urantia se han presentado al mundo como la Quinta Revelación de Época y, como tal, esto ha generado afirmaciones de infalibilidad por parte de algunos. La realidad es que los Documentos mismos afirman que «nada que la naturaleza humana haya tocado puede considerarse infalible». Y no hay una sola declaración en todos los Documentos que, en algún momento, no haya estado abierta a la mano contaminante del hombre. Por lo tanto, todas las decisiones sobre la validez de la verdad revelada en estos Documentos, o en cualquier otro lugar, deben ser para siempre responsabilidad personal del individuo.
 
-Ciertamente, hay muchos aspectos de los Documentos de Urantia, particularmente su historia y cosmología, que definitivamente deberían describirse con el término de los autores de 'un marco en el que pensar', en lugar de tomarse como una verdad fáctica. Pero también hay otras secciones, de hecho una gran parte de los Documentos, sobre las cuales muchos han dicho que si no es una revelación, entonces ciertamente debería serlo.
+Ciertamente, hay muchos aspectos de los Documentos de Urantia, particularmente su historia y cosmología, que definitivamente deberían describirse con el término de los autores de ‘un marco en el que pensar’, en lugar de tomarse como una verdad fáctica. Pero también hay otras secciones, de hecho una gran parte de los Documentos, sobre las cuales muchos han dicho que si no es una revelación, entonces ciertamente debería serlo.
 
-Lo que sigue en nuestro próximo número proviene únicamente de la Parte 4 de los Documentos: un resumen muy comprimido de la vida espiritual y las enseñanzas espirituales del que muchos llaman "Maestro". Esto también es totalmente coherente con el espíritu de la palabra de Jesús del Nuevo Testamento. La familiaridad con esta palabra ciertamente promoverá nuestra familiaridad con la mente de Jesús.
+Lo que sigue en nuestro próximo número proviene únicamente de la Parte 4 de los Documentos: un resumen muy comprimido de la vida espiritual y las enseñanzas espirituales del que muchos llaman «Maestro». Esto también es totalmente coherente con el espíritu de la palabra de Jesús del Nuevo Testamento. La familiaridad con esta palabra ciertamente promoverá nuestra familiaridad con la mente de Jesús.
 
 
 ## El propósito de Jesús
 
 Los Documentos de Urantia confirman que el propósito de
 
-La vida de Jesús en nuestro planeta incluyó revelar a Dios al hombre y al hombre a Dios, y que su vida iba a exhibir “las trascendentes posibilidades alcanzables por un ser mortal que conoce a Dios durante la corta carrera de la existencia mortal”.
+La vida de Jesús en nuestro planeta incluyó revelar a Dios al hombre y al hombre a Dios, y que su vida iba a exhibir «las trascendentes posibilidades alcanzables por un ser mortal que conoce a Dios durante la corta carrera de la existencia mortal».
 
-Habiendo logrado plenamente su propósito, Jesús nos dejó con este mandato: “Vuestra misión en el mundo se basa en el hecho de que viví una vida reveladora de Dios entre vosotros; en la verdad de que ustedes y todos los demás hombres y mujeres son hijos e hijas de Dios; *y consistirá en la vida que viviréis entre ellos*, la experiencia real y viva de amarlos y servirlos, así como yo os he amado y servido.”
+Habiendo logrado plenamente su propósito, Jesús nos dejó con este mandato: «Vuestra misión en el mundo se basa en el hecho de que viví una vida reveladora de Dios entre vosotros; en la verdad de que ustedes y todos los demás hombres y mujeres son hijos e hijas de Dios; *y consistirá en la vida que viviréis entre ellos*, la experiencia real y viva de amarlos y servirlos, así como yo os he amado y servido.»
 
-En consecuencia, los Documentos nos dicen: “lo que tiene mayor valor es conocer la vida religiosa de Jesús y cómo la vivió”.
+En consecuencia, los Documentos nos dicen: «lo que tiene mayor valor es conocer la vida religiosa de Jesús y cómo la vivió».
 
 <p style="text-align:center;"><strong>Continuará en nuestro próximo número</strong></p>
 

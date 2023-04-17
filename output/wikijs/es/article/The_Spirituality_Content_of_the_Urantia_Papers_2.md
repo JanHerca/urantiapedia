@@ -10,7 +10,7 @@ dateCreated: 2022-09-27T00:06:28.740Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 The Brotherhood of Man Library</p>
 
-(Continuación de [número de enero/febrero](/en/article/The_Spirituality_Content_of_the_Urantia_Papers))
+(Continuación de [número de enero/febrero](/es/article/The_Spirituality_Content_of_the_Urantia_Papers))
 
 Comenzamos esta narración cuando Jesús entró en su vigésimo octavo año, momento en el que comenzó a estar seguro de que el Espíritu de Dios moraba en él. A medida que esta relación creció, también se dio cuenta de que este mismo Espíritu del Padre mora en todos sus hijos terrenales como su mentor y guía.
 
@@ -40,7 +40,7 @@ Sólo hay dos grupos de mortales a los ojos de Dios; los que desean hacer su vol
 
 Si conocemos a Dios, nuestro verdadero negocio en la Tierra es vivir de tal manera que permitamos que el Padre se revele en nuestras vidas, y así todas las personas que buscan a Dios verán al Padre en nosotros y pedirán nuestra ayuda para descubrir más acerca de Dios. quien de esta manera encuentra expresión en nuestras vidas.
 
-Jesús enseñó a un joven asociado: “Tengo confianza absoluta en el cuidado excesivo de mi Padre; Estoy consagrado a hacer la voluntad de mi Padre que está en los cielos. No creo que me pueda ocurrir un daño real. Estoy absolutamente seguro de que todo el universo es amigo mío; insisto en creer en esta verdad todopoderosa con una confianza de todo corazón a pesar de todas las apariencias en contrario”.
+Jesús enseñó a un joven asociado: «Tengo confianza absoluta en el cuidado excesivo de mi Padre; Estoy consagrado a hacer la voluntad de mi Padre que está en los cielos. No creo que me pueda ocurrir un daño real. Estoy absolutamente seguro de que todo el universo es amigo mío; insisto en creer en esta verdad todopoderosa con una confianza de todo corazón a pesar de todas las apariencias en contrario».
 
 ## El alma
 
@@ -54,7 +54,7 @@ Después de su bautismo, las opciones que enfrentó Jesús para el tipo de minis
 
 Solo hubo un motivo en la vida post bautismal de Jesús y ese fue una revelación mejor y más verdadera de su Padre del Paraíso; fue el pionero del nuevo y mejor camino hacia Dios, *el camino de la fe y el amor*, que insistió en recorrer de la manera más tranquila y no dramática, evitando toda exhibición de poder.
 
-Jesús les dijo a sus apóstoles: “No se equivoquen; salimos a trabajar por una generación de buscadores de señales... pero serán lentos para reconocer en la revelación del amor de mi Padre, las credenciales de mi misión”.
+Jesús les dijo a sus apóstoles: «No se equivoquen; salimos a trabajar por una generación de buscadores de señales... pero serán lentos para reconocer en la revelación del amor de mi Padre, las credenciales de mi misión».
 
 ## Más sobre la enseñanza
 
@@ -70,15 +70,15 @@ El programa de Jesús: no se ocuparía de la gratificación física de su pueblo
 
 Jesús enseñó a los apóstoles a predicar el perdón de los pecados a través de la fe en Dios pero sin penitencia ni sacrificio. También aprendieron pronto que Jesús tenía un profundo respeto y una consideración comprensiva por cada ser humano con el que se encontraba, y que nada le parecía tan importante como el ser humano individual que por casualidad estaba en su presencia inmediata.
 
-Jesús nunca cesó de repetir que sólo la fe era necesaria en el negocio de encontrar a Dios, y agregó que “será por la vida que viváis que los demás sabrán que habéis estado conmigo y que habéis conocido las realidades del reino”.
+Jesús nunca cesó de repetir que sólo la fe era necesaria en el negocio de encontrar a Dios, y agregó que «será por la vida que viváis que los demás sabrán que habéis estado conmigo y que habéis conocido las realidades del reino».
 
-Les dijo a sus discípulos que el reino de Dios está dentro de ti, que no tienes que ver igual, sentir igual, incluso pensar igual para ser espiritualmente igual. “La armonía”, dijo, “crece del hecho de que cada uno de nosotros es idéntico en origen, naturaleza y destino.
+Les dijo a sus discípulos que el reino de Dios está dentro de ti, que no tienes que ver igual, sentir igual, incluso pensar igual para ser espiritualmente igual. «La armonía», dijo, “crece del hecho de que cada uno de nosotros es idéntico en origen, naturaleza y destino.
 
-“La unidad espiritual implica dos cosas: primero, posees un motivo común para el servicio del alma, hacer la voluntad del Padre, y segundo, tienes una meta común de existencia: encontrar al Padre y llegar a ser como él”.
+«La unidad espiritual implica dos cosas: primero, posees un motivo común para el servicio del alma, hacer la voluntad del Padre, y segundo, tienes una meta común de existencia: encontrar al Padre y llegar a ser como él».
 
 ## Advertencia contra los credos
 
-Una y otra vez Jesús advirtió contra la formulación de credos y el establecimiento de tradiciones como medio para guiar a los creyentes. “Guía a los hombres al reino”, dijo, “y las grandes y vivientes verdades del reino pronto expulsarán todo error grave. Tu negocio es revelar a Dios al individuo como su Padre celestial, guiar a hombres y mujeres a ser conscientes de Dios y presentarlos a Dios como sus hijos en la fe”.
+Una y otra vez Jesús advirtió contra la formulación de credos y el establecimiento de tradiciones como medio para guiar a los creyentes. «Guía a los hombres al reino», dijo, «y las grandes y vivientes verdades del reino pronto expulsarán todo error grave. Tu negocio es revelar a Dios al individuo como su Padre celestial, guiar a hombres y mujeres a ser conscientes de Dios y presentarlos a Dios como sus hijos en la fe».
 
 La única recompensa para los seguidores de Jesús: en este mundo, alegría espiritual y comunión divina; en el otro mundo, la vida eterna en el progreso de las realidades espirituales divinas del Padre.
 
@@ -102,7 +102,7 @@ Jesús dijo a sus discípulos: Los asuntos temporales son asunto de los hombres 
 
 El Maestro era un espécimen perfecto de autocontrol humano. Cuando lo insultaban, no insultaba; cuando sufría, no pronunció amenazas; cuando fue denunciado, simplemente se entregó al justo juicio del Padre.
 
-> “Pero yo vengo con un nuevo mensaje de olvido de sí mismo y de dominio de sí mismo. Os muestro el camino de la vida tal como mi Padre que está en los cielos me lo ha revelado. ... Por medio de vuestro amor recíproco vais a convencer al mundo de que habéis pasado de la esclavitud a la libertad, de la muerte a la vida eterna”. ([LU 143:2.2-3](/es/The_Urantia_Book/143#p2_2))
+> «Pero yo vengo con un nuevo mensaje de olvido de sí mismo y de dominio de sí mismo. Os muestro el camino de la vida tal como mi Padre que está en los cielos me lo ha revelado. ... Por medio de vuestro amor recíproco vais a convencer al mundo de que habéis pasado de la esclavitud a la libertad, de la muerte a la vida eterna». ([LU 143:2.2-3](/es/The_Urantia_Book/143#p2_2))
 
 ## Función del espíritu residente
 
@@ -128,7 +128,7 @@ Jesús trascendió las enseñanzas de sus antepasados ​​cuando valientemente
 
 Jesús enseñó: Emocionalmente, las personas reaccionan individualmente. Lo único uniforme acerca de ellos es el Espíritu de Dios que mora en nosotros. Por lo tanto, *solo a través y apelando a este Espíritu que mora en nosotros puede la humanidad alcanzar la unidad y la hermandad*.
 
-La ira es una manifestación material (animal) que indica el fracaso de la naturaleza espiritual para obtener el control. “La ira descansa en el seno de los necios”.
+La ira es una manifestación material (animal) que indica el fracaso de la naturaleza espiritual para obtener el control. «La ira descansa en el seno de los necios».
 
 Jesús dijo: Dejad que vuestros corazones estén tan dominados por el amor que vuestro Espíritu interior no tenga dificultad en libraros de la tendencia a dar rienda suelta a esos arrebatos de ira animal que son tan incompatibles con la condición de hijo del Padre.
 
@@ -136,7 +136,7 @@ Jesús siempre predicó la templanza y la coherencia, señalando que el celo exc
 
 Jesús dijo: Vuestros antepasados ​​temían a Dios porque era poderoso y misterioso. Lo adorarás porque es magnífico en amor, grande en misericordia y glorioso en verdad.
 
-## “He venido al mundo…”
+## «He venido al mundo…»
 
 He venido al mundo para poner el amor en el lugar del miedo, la alegría en el lugar del dolor, la confianza en el lugar del temor, el servicio amoroso y la adoración agradecida en el lugar de la servidumbre y las ceremonias sin sentido.
 
@@ -146,7 +146,7 @@ El Padre me ha enviado al mundo para mostrar cómo desea habitar y guiar a todos
 
 El reino de Jesús está fundado en el amor, proclamado en la misericordia y establecido por el servicio desinteresado.
 
-## “Permítanme decir enfáticamente…”
+## «Permítanme decir enfáticamente…»
 
 Permítanme afirmar enfáticamente esta verdad eterna: si ustedes, por la coordinación de la verdad, aprenden a ejemplificar en sus vidas esta hermosa totalidad de justicia, sus conocidos entonces los buscarán para que puedan obtener lo que han adquirido.
 
@@ -227,9 +227,9 @@ Jesús esparció buen ánimo dondequiera que iba. Estaba lleno de gracia y de ve
 
 La bondad es atractiva solo cuando es graciosa, y es efectiva solo cuando es atractiva.
 
-Jesús siempre estuvo listo y dispuesto a detener o detener a una multitud mientras atendía las necesidades de una sola persona o de un niño pequeño. La mayoría de las cosas realmente importantes que Jesús dijo o hizo parecían suceder casualmente, 'mientras pasaba'. Dispensó salud y felicidad de forma natural y elegante mientras viajaba por la vida. Era literalmente cierto, 'se fue haciendo el bien'.
+Jesús siempre estuvo listo y dispuesto a detener o detener a una multitud mientras atendía las necesidades de una sola persona o de un niño pequeño. La mayoría de las cosas realmente importantes que Jesús dijo o hizo parecían suceder casualmente, ‘mientras pasaba’. Dispensó salud y felicidad de forma natural y elegante mientras viajaba por la vida. Era literalmente cierto, ‘se fue haciendo el bien’.
 
-Y así, corresponde a los seguidores del Maestro en todas las épocas aprender a ministrar 'al pasar', a hacer el bien desinteresado mientras realizan sus deberes diarios.
+Y así, corresponde a los seguidores del Maestro en todas las épocas aprender a ministrar ‘al pasar’, a hacer el bien desinteresado mientras realizan sus deberes diarios.
 
 ## Amar a tu prójimo
 
@@ -243,7 +243,7 @@ No puedes quedarte quieto en los asuntos del reino eterno. Mi padre exige que to
 
 ## Responsabilidad
 
-Al enseñar a los niños a rezar el “Padre Nuestro”, se coloca una enorme responsabilidad sobre los padres terrenales para que vivan y ordenen sus hogares de modo que la palabra “padre” tenga connotaciones valiosas mientras se consagra en la mente y el corazón de los niños en crecimiento.
+Al enseñar a los niños a rezar el «Padre Nuestro», se coloca una enorme responsabilidad sobre los padres terrenales para que vivan y ordenen sus hogares de modo que la palabra «padre» tenga connotaciones valiosas mientras se consagra en la mente y el corazón de los niños en crecimiento.
 
 Los frutos del espíritu, vuestro servicio sincero y amoroso, son la poderosa palanca social para elevar las razas de las tinieblas. Y este Espíritu de la Verdad se convertirá en su poderoso punto de apoyo multiplicador.
 
@@ -277,9 +277,9 @@ Si permanecéis en mí y mis palabras viven en vosotros, podréis comulgar libre
 
 La oración es una manera de tomar el camino de Dios, una experiencia de aprender a reconocer y ejecutar la voluntad del Padre.
 
-Ustedes están en este mundo pero sus vidas no deben ser como un mundo. Te he elegido 'fuera del mundo' para representar el espíritu de otro mundo incluso en este.
+Ustedes están en este mundo pero sus vidas no deben ser como un mundo. Te he elegido ‘fuera del mundo’ para representar el espíritu de otro mundo incluso en este.
 
-## “Con la venida del Espíritu de la Verdad…”
+## «Con la venida del Espíritu de la Verdad…»
 
 Con la venida del Espíritu de la Verdad, todos los hijos de la luz serán atraídos unos hacia otros. Y mi Padre y yo podremos vivir en el alma de cada uno de ustedes, y también en el corazón de todos los demás hombres que nos aman y hacen real ese amor en sus experiencias amándose unos a otros como yo los estoy amando ahora. .
 
@@ -325,7 +325,7 @@ Cuando las burlas, los insultos y los golpes cayeron sobre Jesús, no fue vencid
 
 Jesús ni siquiera se enojó cuando, en su juicio, mortales ignorantes lo golpearon burlonamente en la cara después de vendarle los ojos.
 
-Cuando clavaron a Jesús en la cruz, sus únicas palabras fueron: “Padre, perdónalos porque no saben lo que hacen”. No podría haber intercedido tan misericordiosamente y amorosamente por sus verdugos *si tales pensamientos de afectuosa devoción no hubieran sido el motivo principal de toda su vida de servicio desinteresado*.
+Cuando clavaron a Jesús en la cruz, sus únicas palabras fueron: «Padre, perdónalos porque no saben lo que hacen». No podría haber intercedido tan misericordiosamente y amorosamente por sus verdugos *si tales pensamientos de afectuosa devoción no hubieran sido el motivo principal de toda su vida de servicio desinteresado*.
 
 ## Salvación
 
@@ -447,7 +447,7 @@ El secreto de la vida religiosa sin paralelo de Jesús fue su conciencia de la p
 
 Jesús confiaba en Dios tanto como el niño confía en un padre. Tenía una profunda confianza en el universo, la misma confianza que un niño tiene en sus padres.
 
-Jesús no pide a sus discípulos que crean en él, sino que crean con él en la realidad del amor de Dios y, con plena confianza, acepten la seguridad de la seguridad de pertenecer a la familia del Padre celestial. Él desea que todos sus seguidores compartan plenamente su fe trascendente. Desafió a sus seguidores a creer como él creía. Este es el significado completo de su mandato supremo: “Sígueme”.
+Jesús no pide a sus discípulos que crean en él, sino que crean con él en la realidad del amor de Dios y, con plena confianza, acepten la seguridad de la seguridad de pertenecer a la familia del Padre celestial. Él desea que todos sus seguidores compartan plenamente su fe trascendente. Desafió a sus seguidores a creer como él creía. Este es el significado completo de su mandato supremo: «Sígueme».
 
 Seguir a Jesús significa compartir personalmente su fe religiosa y entrar en el espíritu de la vida del Maestro de servicio desinteresado por el hombre.
 

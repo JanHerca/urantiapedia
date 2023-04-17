@@ -48,7 +48,7 @@ La personalidad es única, tanto en el espacio-tiempo como en la eternidad. Es i
 
 Durante la vida terrenal, el yo material tiene tanto personalidad como identidad, y el Espíritu de Dios mora en él. Después de la muerte, el cuerpo material regresa al lugar de donde vino, convirtiéndose finalmente en polvo. Sin embargo, persisten dos factores no materiales de la personalidad sobreviviente. Uno es la transcripción de la memoria de la carrera terrenal, que está en el mantenimiento de su fragmento personal de Dios-Espíritu. El otro, el alma inmortal, está bajo la custodia del Destiny Guardian.
 
-Tanto el alma como la transcripción de la memoria son esenciales para la repersonalización. Es la reunión del fragmento de Dios-Espíritu que anteriormente moraba en el alma lo que vuelve a ensamblar la personalidad sobreviviente y 're-consciente-iza' al individuo en el momento del despertar del sobreviviente.
+Tanto el alma como la transcripción de la memoria son esenciales para la repersonalización. Es la reunión del fragmento de Dios-Espíritu que anteriormente moraba en el alma lo que vuelve a ensamblar la personalidad sobreviviente y ‘re-consciente-iza’ al individuo en el momento del despertar del sobreviviente.
 
 ## Moral, virtud y personalidad
 

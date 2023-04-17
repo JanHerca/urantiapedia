@@ -36,7 +36,7 @@ If we accept Dr Sadler as our authority, all of the Papers of Parts 1, 2, and 3 
 
 For our present purpose, the period during which the Papers were received is our main interest. Lasting about ten years, according to Dr. Sadler it commenced in a contact experience when a “visitor,” speaking through the sleeping subject, answered a question with these words, “If only you knew what you are in contact with you would not ask such trivial questions. You would rather ask such questions as might elicit answers of supreme value to the human race.”
 
-Later that night one of Dr. Sadler’s group exclaimed: “**Now they have asked for it–let us give them questions that no human being can answer1**.”
+Later that night one of Dr. Sadler’s group exclaimed: “**Now they have asked for it–let us give them questions that no human being can answer**.[^1]”
 
 A group called the Forum was then organized, the arrangement being that Papers would be received only as answers to specific questions from the Forum. Questions were posed, collected by Dr Sadler, placed in an arranged location, and an answer later received through the medium of the “sleeping subject.”
 
@@ -80,6 +80,9 @@ A further consideration is the stated hope of the authors that their offering wi
 
 > “‘The kingdom of God is within you’ was probably the greatest pronouncement Jesus ever made, next to the declaration that his Father is a living and loving spirit.” ([UB 195:10.4](/en/The_Urantia_Book/195#p10_4))
 
+## External links
+
+- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page6.html
 
 ## References
 
@@ -87,8 +90,4 @@ A further consideration is the stated hope of the authors that their offering wi
 [^2]: Larry Mullins with Dr. M.J. Sprunger. (2000) _A History of the Urantia Papers_. (Penumbra Press, Boulder.)
 [^3]: Ernest P. Moyer. (2000) _The Birth of a Divine Revelation_. (Moyer Publishing, Hanover Pa)
 [^4]: Bryan Appleyard, _Understanding the Present_.
-
-## External links
-
-- Article in Innerface International: [https://urantia-book.org/archive/newsletters/innerface/vol11_3/page6.html](https://urantia-book.org/archive/newsletters/innerface/vol11_3/page6.html)
 

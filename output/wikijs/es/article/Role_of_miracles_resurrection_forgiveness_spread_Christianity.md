@@ -36,7 +36,7 @@ La increíble, casi logarítmica tasa de expansión de la religión cristiana de
 
 Difícilmente podrían haber sido las ideas presentadas a nuestra atención en el Sermón del Monte (Mateo 5 y 6) porque, aunque atraían de boquilla, tenían poco atractivo popular como una forma real de vida. Entonces, ¿qué le dio al cristianismo su enorme poder de atracción que permitió a sus prosélitos desafiar la persecución, o incluso ser alimentados a los leones en los anfiteatros romanos?
 
-El miedo irracional al castigo por parte de una deidad ofendida por el pecado cometido se remonta a mucho tiempo atrás, al menos 2500 años hasta Zoroastro en Persia y las religiones 'misteriosas'. Este temor había sido traído del este por soldados y marineros romanos y se había generalizado en el momento de la crucifixión de Jesús.
+El miedo irracional al castigo por parte de una deidad ofendida por el pecado cometido se remonta a mucho tiempo atrás, al menos 2500 años hasta Zoroastro en Persia y las religiones ‘misteriosas’. Este temor había sido traído del este por soldados y marineros romanos y se había generalizado en el momento de la crucifixión de Jesús.
 
 La muerte y resurrección de Jesús proporcionaron un medio listo para disipar tal temor si se consideraba que había sido una ofrenda sacrificial a Dios en pago por los pecados de la humanidad. Una vez que se planteó este concepto, los primeros cristianos debieron descubrir que tenía un éxito tremendo a la hora de atraer nuevos adeptos, y esto a pesar de la anomalía inherente de promover un Dios que es amor perfecto pero que también exige el sacrificio de la muerte en el cruz de su Hijo como ofrenda en pago por nuestros pecados!
 

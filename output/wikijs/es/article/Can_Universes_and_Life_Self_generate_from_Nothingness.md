@@ -50,7 +50,7 @@ Al considerar los orígenes de la vida en nuestro planeta, nadie ha llegado toda
 
 Pero este no es nuestro único conjunto de incógnitas para eventos altamente improbables. Ejemplo: ¿cuáles son las posibilidades de que un universo como el nuestro se cree solo? Hemos mencionado esto en una edición anterior de Innerface, pero es lo suficientemente importante como para merecer un recordatorio.
 
-Para diseñar realmente un universo como el nuestro, en nuestro estado actual de conocimiento hay alrededor de 20 parámetros (números) que deben ingresarse como una 'mejor suposición'. Estos incluyen: ¿qué tan fuerte hacemos la gravedad, o la carga eléctrica, o la fuerza que mantiene unido un núcleo atómico, y así sucesivamente?
+Para diseñar realmente un universo como el nuestro, en nuestro estado actual de conocimiento hay alrededor de 20 parámetros (números) que deben ingresarse como una ‘mejor suposición’. Estos incluyen: ¿qué tan fuerte hacemos la gravedad, o la carga eléctrica, o la fuerza que mantiene unido un núcleo atómico, y así sucesivamente?
 
 Idealmente, si tuviéramos una teoría perfecta que cubriera todos los aspectos de la realidad material, estos números naturalmente saldrían de la teoría. Pero, en la actualidad, tenemos dos teorías principales, una que cubre la realidad a gran escala (Relatividad General), la otra que cubre la escala del átomo e inferior con un grado similar de precisión (Teoría Cuántica), ¡y son incompatibles!
 
@@ -64,7 +64,7 @@ Idealmente, si tuviéramos una teoría perfecta que cubriera todos los aspectos 
 <figcaption><em>Un antiguo estromatolito que sobresale del núcleo de una roca en el norte de Canadá.</em></figcaption>
 </figure>
 
-El primero de ellos, la Relatividad General, en un estudio sobre dos estrellas de neutrones que giran en espiral una hacia la otra, ha demostrado tener una precisión de una parte en 10^14^ (100 millones de millones). Sin embargo, los físicos afirman que la teoría cuántica es la teoría más precisa conocida por el hombre. Pero a pesar de esta increíble precisión de la teoría actual, todavía tenemos que hacer conjeturas informadas sobre los valores de 20 parámetros que necesitamos para una teoría 'final'.
+El primero de ellos, la Relatividad General, en un estudio sobre dos estrellas de neutrones que giran en espiral una hacia la otra, ha demostrado tener una precisión de una parte en 10^14^ (100 millones de millones). Sin embargo, los físicos afirman que la teoría cuántica es la teoría más precisa conocida por el hombre. Pero a pesar de esta increíble precisión de la teoría actual, todavía tenemos que hacer conjeturas informadas sobre los valores de 20 parámetros que necesitamos para una teoría ‘final’.
 
 Entonces, ¿cómo haría Dios para crear un universo como el nuestro que contenga personas como nosotros? Para comenzar, hagamos que Dios simplemente intente crear un universo con estrellas como la nuestra.
 
