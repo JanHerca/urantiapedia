@@ -47,7 +47,7 @@ Young's two slit work was extended, and the puzzle deepened, in 1927 by Davisson
 Because of advances in technology over the more than one hundred year interval, Davisson and Germer could perform experiments that were not even remotely possible for Young. They could cut back the rate at which electrons were being fired at a screen to less than one per minute. Hence, there is no obvious way in which successive electrons fired at the screen could interfere with one another. But left for a long period of time, this system also produced a barred interference pattern!!
 
 <figure id="figure_1" class="image urantiapedia">
-<img src="/image/article/Thomas_Young_experiment.png">
+<img src="/image/article/Ken_Glasziou/Materialism_Idealism_and_the_Urantia_Revelation/Thomas_Young_experiment.png">
 <figcaption><em><b>Figure 1.</b> The Thomas Young type of experiment of 1803_ Light from the light source (far left) passed through a small hole (A) then two narrow, parallel slits (B) to shine on large screen (C) to produce a series of light and dark bars that Young interpreted in terms of waves interfering with one another as when waves from separate sources converge in a pond of water.</em></figcaption>
 </figure>
 
