@@ -26,7 +26,7 @@ The fact that what we call life has been upon this planet for billions of years 
 
 Evidence for the occurrence of ancient life forms comes from the deposition of certain kinds of sedimentary red sandstone deposits, the red coloration being due to a coating of the sand grains with fully oxidized iron. This process is thought to have been due to the water- soluble ferrous form of iron in the seas being used as a recipient for the oxygen formed during photosynthesis by various life forms. The product, the red ferric iron, was insoluble and was deposited on the sand grains. This kind of deposit dates as far back as 2.5 billion years ago.
 
-In later years the deposition of red sedimentary rocks in which the color is due to the ferric form of iron occurred when the oxygen content of the atmosphere rose to levels sufficiently high to trigger oxidation of soluble ferrous iron and the deposition of the insoluble ferric form
+In later years the deposition of red sedimentary rocks in which the color is due to the ferric form of iron occurred when the oxygen content of the atmosphere rose to levels sufficiently high to trigger oxidation of soluble ferrous iron and the deposition of the insoluble ferric form.
 
 The only known process to bring about such high levels of atmospheric oxygen is photosynthesis by living organisms. Many, possibly all, of these deposits date from times prior to 550 million years ago, and present evidence for the occurrence of life forms that pre-date the introduction of life plasm by the Life Carriers. Further evidence comes from the occurrence of several kinds of microfossils thought to be evidence for bacterial or algal cells.
 

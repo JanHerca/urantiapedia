@@ -218,7 +218,7 @@ With idealist science we have arrived at a science that excludes neither the sub
 
 (Please note that the words “consciousness” and “mind” are not precisely defined either in philosophy or in the Urantia revelation and tend to be interchangeable.)
 
-> "In the evaluation and recognition of mind it should be remembered that **the universe** is neither mechanical nor magical;** it is a creation of mind**) ([UB 42:11.1](/en/The_Urantia_Book/42#p11_1))
+> In the evaluation and recognition of mind it should be remembered that **the universe** is neither mechanical nor magical; **it is a creation of mind** ([UB 42:11.1](/en/The_Urantia_Book/42#p11_1))
 
 
 > “Mechanisms do not absolutely dominate the total creation; **the universe of universes in toto is mind planned, mind made, and mind administered**. But the divine mechanism of the universe of universes is altogether too perfect for the scientific methods of the finite mind of man to discern even a trace of the dominance of the infinite mind. For this creating, controlling, and upholding mind is neither material mind nor creature mind; it is spirit-mind functioning on and from creator levels of divine reality.” ([UB 42:11.2](/en/The_Urantia_Book/42#p11_2))
@@ -329,7 +329,7 @@ flowchart LR
     simply the classical analogue of a
     measurernent apparatus—an apparatus that
     amplifies and records the quantum mind
-    objects that are in the “Pure Mental State”
+    objects that are in the “Pure Mental State”.
     “**Pure Mental States**”
     The brain-mind's quantum system is a
     complex macro-quantum system Of many
@@ -416,7 +416,7 @@ Thus we conclude that the concepts of monistic idealism and the thoughts present
 
 > The cosmic mind encompasses all finite-mind levels and co-ordinates experientially with the evolutionary-deity levels of the Supreme Mind and transcendentally with the existential levels of absolute mind—the direct circuits of the Conjoint Actor. ([UB 42:10.6](/en/The_Urantia_Book/42#p10_6))
 
-> Mind always connotes the presence-activity of living ministry plus varied energy systems, and this is true of all levels and of all kinds of mind. But beyond the cosmic mind it becomes increasingly difficult to portray the relationships of mind to non-spiritual energy. Paradise mind is beyond human understanding; it is existential, non-spatial, and non-temporal. ([UB 42:10.7](/en/The_Urantia_Book/42#p10_7))
+> Mind always connotes the presence-activity of living ministry plus varied energy systems, and this is true of all levels and of all kinds of mind. But beyond the cosmic mind it becomes increasingly difficult to portray the relationships of mind to non-spiritual energy. . . . Paradise mind is beyond human understanding; it is existential, non-spatial, and non-temporal. ([UB 42:10.7](/en/The_Urantia_Book/42#p10_7))
 
 > Faith transmutes potentials to actuals in the spiritual world, but potentials become actuals in the finite realms of the Supreme only by and through the realization of choice-experience. ([UB 110:6.17](/en/The_Urantia_Book/110#p6_17)) [Note: the Supreme is the finite God of the finite.]
 
@@ -428,7 +428,9 @@ Thus we conclude that the concepts of monistic idealism and the thoughts present
 
 > The Supreme Being did not create man, but man was literally created out of, his very life was derived from, the potentiality of the Supreme. Nor does he evolve man; yet is the Supreme himself the very essence of evolution. From the finite standpoint, we actually live, move, and have our being within the immanence of the Supreme. ([UB 117:3.12](/en/The_Urantia_Book/117#p3_12))
 
-> The evolving soul of mortal man is created out of the pre-existent possibility for such experience within the Supreme. In this manner do the manifold experiences of all creation become a part of the evolution of Supremacy. Creatures merely utilize the qualities and quantities of the finite as they ascend to the Father; the impersonal consequences of such utilization remain forever a part of the living cosmos, the Supreme person. ([UB 117:5.12](/en/The_Urantia_Book/117#p5_12))
+> The evolving soul of mortal man is created out of the pre-existent possibility for such experience within the Supreme. 
+> 
+> In this manner do the manifold experiences of all creation become a part of the evolution of Supremacy. Creatures merely utilize the qualities and quantities of the finite as they ascend to the Father; the impersonal consequences of such utilization remain forever a part of the living cosmos, the Supreme person. ([UB 117:5.11-12](/en/The_Urantia_Book/117#p5_11))
 
 > Time, space, and experience are man's greatest aids to relative reality perception and yet his most formidable obstacles to complete reality perception. Mortals find it necessary to think of potentials as being actualized in space and evolving to fruition in time, but this entire process is a time-space phenomenon which does not actually take place in eternity. On the absolute level there is neither time nor space; all potentials may be there perceived as actuals. ([UB 106:9.3](/en/The_Urantia_Book/106#p9_3))
 
@@ -496,7 +498,7 @@ Philosophically and scientifically, the Urantia revelation accords well with wha
 ## References
 
 - R.Y. Chiao, P.G. Kwiat, &amp; A.M. Steinberg (1993) Scientific American 269, (2), 52.
-- J.Horgan (1992) _Quantum Philosophy_, Scientific American 267 (1) 72
+- J. Horgan (1992) _Quantum Philosophy_, Scientific American 267 (1) 72
 - Goswami, A., R.E. Reed, &amp; M. Goswami 1993. _The Self-Aware Universe_ (Simon &amp; Schuster.)
 - Hellmuth, T.,Zajonc, A. G., and H. Walther .In _New Techniques and Ideas in Quantum Measurement Theory_. Editor. Greenberger. (New York Academy of Science)
 - Grinberg-Zylberbaum et al. _The EPR paradox in the human brain_. Physics Essays 7 (4) 1994.

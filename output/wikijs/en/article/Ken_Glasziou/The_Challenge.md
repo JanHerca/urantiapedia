@@ -1,5 +1,5 @@
 ---
-title: The Challenge
+title: "The Challenge"
 description: 
 published: true
 date: 2022-12-22T21:25:00.446Z
@@ -24,7 +24,7 @@ Currently there is an urgent need for not just one new philosophy but one for ev
 
 What a challenge! The new philosophies must not only be short, sharp, and simple, but also suited to the immediate needs of its recipients.
 
-What the revelators are asking is not for some academic, scientific, and theological tome but something more along the lines of Jesus’ Sermon on the Mount as it is presented in Matthew 5 to 7.
+What the revelators are asking is not for some academic, scientific, and theological tome but something more along the lines of Jesus’ Sermon on the Mount as it is presented in [Matthew 5](/en/Bible/Matthew/5) to [7](/en/Bible/Matthew/7).
 
 Be aware though that it is not an educated and privileged leadership that constitutes the real menace to the advancement of the Brotherhood of Man. Rather, it is their armies of ignorant and misinformed followers, those who directly create all the havoc and the mayhem.
 

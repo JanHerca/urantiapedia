@@ -17,7 +17,7 @@ The best known ‘errors’ in the Papers are the distance to the Andromeda gala
 
 **Comment**: The fact that evidence is available for the occurrence of sedimentary rocks and oceans dating back to from 3.8 to 4.4 billion years ago and for life forms existing close to 4 billion years ago is impossible to reconcile with this statement. And there is much convincing evidence indicating the Earth and its moon were close to their full size by about 4.4 billion years ago.[^3],[^4]
 
-> “1,500,000,000 years ago the earth was two thirds its present size. . . Volcanic action is now at its height. The whole earth is a veritable fiery inferno, the surface resembling its earlier molten state before the heavier metals gravitated toward the center. This is the volcanic age. . . The primitive planetary atmosphere is slowly evolving, now containing some water vapor, carbon monoxide, carbon dioxide, and hydrogen chloride, but there is little or no free nitrogen or free oxygen. Presently, the atmosphere became more settled and cooled sufficiently to start precipitation of rain on the hot rocky surface of the planet. For thousands of years Urantia was enveloped in one vast and continuous blanket of steam. And during these ages the sun never shone upon the earth’s surface.” [UB 57:7.4](/en/The_Urantia_Book/57#p7_4)
+> “1,500,000,000 years ago the earth was two thirds its present size. . . Volcanic action is now at its height. The whole earth is a veritable fiery inferno, the surface resembling its earlier molten state before the heavier metals gravitated toward the center. This is the volcanic age. . . The primitive planetary atmosphere is slowly evolving, now containing some water vapor, carbon monoxide, carbon dioxide, and hydrogen chloride, but there is little or no free nitrogen or free oxygen. . . . Presently, the atmosphere became more settled and cooled sufficiently to start precipitation of rain on the hot rocky surface of the planet. For thousands of years Urantia was enveloped in one vast and continuous blanket of steam. And during these ages the sun never shone upon the earth’s surface.” [UB 57:7.4-7](/en/The_Urantia_Book/57#p7_4)
 
 **Comment**: There is no geological evidence to support such a scenario. Photosynthetic bacteria have been present in the oceans of the world since between 3.5 and 4 billion years ago, a fact demonstrated by the ratio of carbon isotopes in fossil remains that is unique to photosynthesis by living organisms. Additionally, studies of crater formation on the moon demonstrate that bombardment by large planetesimals virtually ceased by 3.8 billion years ago and that crater formation fell to the current level at about that time. An Earth, two thirds its present size just 1.5 billion years ago is not a possibility.
 
@@ -50,9 +50,9 @@ The description in the Paper is diametrically opposed to the evidence of modern 
 
 Fossils of red algae of the species Eosphaera and Huroniospora are dated at 1.9 billion years ago. The crawling trails of bottom-dwelling, worm-like creatures are found among Ediacaran fossils that occur as early as about 1 billion years ago. Amongst these Ediacaran creatures was a leaf-like organism called Charniodiscus that grew to about 10 feet in length and had a holdfast for anchoring it to the sea bed.
 
-> "400,000,000 years ago marine life, both vegetable and animal, is fairly well distributed over the whole world. The world climate grows slightly warmer and becomes more equable. There is a general inundation of the seashores of the various continents, particularly of North and South America. New oceans appear, and the older bodies of water are greatly enlarged. [UB 59:1.2](/en/The_Urantia_Book/59#p1_2)
+> 400,000,000 years ago marine life, both vegetable and animal, is fairly well distributed over the whole world. The world climate grows slightly warmer and becomes more equable. There is a general inundation of the seashores of the various continents, particularly of North and South America. New oceans appear, and the older bodies of water are greatly enlarged. [UB 59:1.2](/en/The_Urantia_Book/59#p1_2)
 
-> "Vegetation now for the first time crawls out upon the land and soon makes considerable progress in adaptation to a non-marine habitat. [UB 59:1.3](/en/The_Urantia_Book/59#p1_3)
+> Vegetation now for the first time crawls out upon the land and soon makes considerable progress in adaptation to a non-marine habitat. [UB 59:1.3](/en/The_Urantia_Book/59#p1_3)
 
 > “Suddenly and without gradation ancestry the first multicellular animals make their appearance.” [UB 59:1.4](/en/The_Urantia_Book/59#p1_4)
 
@@ -66,13 +66,13 @@ Fossils of red algae of the species Eosphaera and Huroniospora are dated at 1.9 
 
 **Comment**: Air-breathing scorpions (an animal) were present in the Silurian period 100 million years earlier. Fossil evidence for land plants exists in the Ordovician (505-438 million years ago) and fossilized tracheids (which are diagnostic of vascular plants) are found in the early Devonian (408-360 million years ago)
 
-> "200,000,000 years ago the really active stages of the Carboniferous period began. For twenty million years prior to this time the earlier coal deposits were being laid down, but now the more extensive coal-formation activities were in process. The length of the actual coal-deposition epoch was a little over twenty-five million years. [UB 59:5.13](/en/The_Urantia_Book/59#p5_13)
+> 200,000,000 years ago the really active stages of the Carboniferous period began. For twenty million years prior to this time the earlier coal deposits were being laid down, but now the more extensive coal-formation activities were in process. The length of the actual coal-deposition epoch was a little over twenty-five million years. [UB 59:5.13](/en/The_Urantia_Book/59#p5_13)
 
-> “180,000,000 years ago brought the close of the Carboniferous period, during which coal had been formed all over the world–in Europe, India, China, North Africa, and the Americas.”
+> “180,000,000 years ago brought the close of the Carboniferous period, during which coal had been formed all over the world–in Europe, India, China, North Africa, and the Americas.” [UB 59:5.20](/en/The_Urantia_Book/59#p5_20)
 
 **Comment**: Modern geology places the Carboniferous at from 360,000,000 to 286,000,000 years ago. In the 1950 period some geologists drew the boundaries at 320,000,000 to 260,000,000 years ago. It would be interesting to obtain information on the geological time scale for the 1920 to 1935 period. As with other commentaries on matters of science and cosmology in the Urantia Papers, it is possible that much of the information on paleontology is drawn from one or two text books that were current in that period. If so, they will eventually come to light.
 
-> "75,000,000 years ago, marks the end of continental drift. [UB 60:3.12](/en/The_Urantia_Book/60#p3_12)
+> 75,000,000 years ago, marks the end of continental drift. [UB 60:3.12](/en/The_Urantia_Book/60#p3_12)
 
 **Comment**: Drift continues. Satellite pictures show that, taking Africa as a fixed point, the Australian plate moves north at 8.4 cm/yr (4000 miles/75 million yrs); the South American plate west at 3.2 cm/yr; the Arabian plate north at 2.6 cm/yr; the Pacific plate north east at 10.6 cm/yr., etc. Plate movement is expected to continue far into the future.[^7]
 

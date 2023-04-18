@@ -22,7 +22,7 @@ The process of growth by accretion of the earth and its moon satellite while ret
 
 Thus it is difficult to see how, up to the time of the stated capture by planet earth of enormous space bodies 2 billion years ago, this planet and its satellite moon could have had other than similar densities. And if they did that then the revelators’ apparently careless use of the terms mass and size becomes explicable, because the relationship, density = mass/volume, means that 2 bodies having the same density and mass must have the same volume or if they have the same density and volume, they must also have the same mass.
 
-However readers should be aware that the slow co-accretion concept for moon and earth, while in favor at the time of receipt of the Urantia Papers, is now known to be quite incompatible with data since accumulated–hence in the category of “proscribed unearned knowledge” ([UB 115:1.1](/en/The_Urantia_Book/101#p4_1">UB 101:4.1)), but totally adequate as a “frame in which to think.” ([UB 115:1.1](/en/The_Urantia_Book/115#p1_1))
+However readers should be aware that the slow co-accretion concept for moon and earth, while in favor at the time of receipt of the Urantia Papers, is now known to be quite incompatible with data since accumulated–hence in the category of “proscribed unearned knowledge” ([UB 101:4.1](/en/The_Urantia_Book/101#p4_1)), but totally adequate as a “frame in which to think.” ([UB 115:1.1](/en/The_Urantia_Book/115#p1_1))
 
 <figure class="image urantiapedia">
 <img src="/image/article/Ken_Glasziou/The_Earth_Moon_System/004227.jpg">

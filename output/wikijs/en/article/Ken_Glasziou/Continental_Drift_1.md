@@ -55,3 +55,7 @@ A lucky guess seems to be the only alternative. But the odds against guessing co
 
 - Le Grand, H.E. “Drifting Continents and Shifting Theories.” (Cambridge University Press, 1988)
 - Encyclopedia Britannica (CDRom edition)
+
+## External links
+
+- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page26.html

@@ -12,15 +12,15 @@ dateCreated: 2022-09-26T00:55:54.259Z
 
 ## Summary
 
-The statements below from The Urantia Book gave rise to a vast outburst of contentious declarations. When, long after, the dust settled, most either agreed to forget it, or else settled for consigning them to the too hard basket.
+The statements below from _The Urantia Book_ gave rise to a vast outburst of contentious declarations. When, long after, the dust settled, most either agreed to forget it, or else settled for consigning them to the too hard basket.
 
-If the number sequence is based upon 12 and the series starting with twelve includes the human chromosome number, then the chromosome fusion that reduced our chromosome number to 46 appears to have been part of what makes us human. The discovery of that reduction did not occur until 1954, the year before The Urantia Book was published.
+If the number sequence is based upon 12 and the series starting with twelve includes the human chromosome number, then the chromosome fusion that reduced our chromosome number to 46 appears to have been part of what makes us human. The discovery of that reduction did not occur until 1954, the year before _The Urantia Book_ was published.
 
 ## Content
 
-> "There were, originally, twelve distinct and divine concepts of transmissible life. This number twelve, with its subdivisions and multiples, runs throughout all basic life patterns of all seven superuniverses. There are also seven architectural types of life design, fundamental arrangements of the reproducing configurations of living matter. The Orvonton life patterns are configured as twelve inheritance carriers. The differing orders of will creatures are configured as 12, 24, 48, 96, 192, 384, and 768. On Urantia there are forty-eight units of pattern control–trait determiners–in the sex cells of human reproduction. ([UB 36:2.11](/en/The_Urantia_Book/36#p2_11))
+> There were, originally, twelve distinct and divine concepts of transmissible life. This number twelve, with its subdivisions and multiples, runs throughout all basic life patterns of all seven superuniverses. There are also seven architectural types of life design, fundamental arrangements of the reproducing configurations of living matter. The Orvonton life patterns are configured as twelve inheritance carriers. The differing orders of will creatures are configured as 12, 24, 48, 96, 192, 384, and 768. On Urantia there are forty-eight units of pattern control–trait determiners–in the sex cells of human reproduction. ([UB 36:2.11](/en/The_Urantia_Book/36#p2_11))
 
-> "On Urantia there were twenty-four such custodian commissioners, two for each fundamental or parent pattern of the architectural organization of the life material. On planets such as yours the highest form of life is reproduced by a life-carrying bundle which possesses twenty-four pattern units. ([UB 36:2.16](/en/The_Urantia_Book/36#p2_16))
+> On Urantia there were twenty-four such custodian commissioners, two for each fundamental or parent pattern of the architectural organization of the life material. On planets such as yours the highest form of life is reproduced by a life-carrying bundle which possesses twenty-four pattern units. ([UB 36:2.16](/en/The_Urantia_Book/36#p2_16))
 
 > “These life circuits caused the chromosomes of the specialized Urantia pattern to re-organize. . . ” ([UB 77:2.5](/en/The_Urantia_Book/77#p2_5))
 

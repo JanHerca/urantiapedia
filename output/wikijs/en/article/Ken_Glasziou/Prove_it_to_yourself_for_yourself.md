@@ -1,5 +1,5 @@
 ---
-title: "Prove it to yourself for yourself"
+title: "“Prove it to yourself for yourself”"
 description: 
 published: true
 date: 2022-12-22T19:00:40.147Z
@@ -22,15 +22,15 @@ This summation has certainly proven itself true for Jewish, Islamic, and Christi
 
 Features of fundamentalism are the assumption of infallibility at the expense of truth-seeking, rigorous indoctrination of potential adherents, and the assumption of authority by the dominant hierarchy.
 
-> Physical facts are fairly uniform, but truth is a living and flexible factor in the philosophy of the universe. Evolving personalities are only partially wise and relatively true in their communications. They can be certain only as far as their personal experience extends ([UB 2:7.2](/en/The_Urantia_Book/2#p7_2))
+> Physical facts are fairly uniform, but truth is a living and flexible factor in the philosophy of the universe. Evolving personalities are only partially wise and relatively true in their communications. They can be certain only as far as their personal experience extends. ([UB 2:7.2](/en/The_Urantia_Book/2#p7_2))
 
 The revelators of the Urantia Papers would have been well aware of the potential for their revelation to come under the control of those preaching fundamentalism. Thus, they took steps to reduce the risks, among them, these declarations:
 
-> "It has appeared to be wise from time to time to provide instruction in cosmology. And always has this made trouble for the future. The laws of revelation hamper us greatly by their proscription of the impartation of unearned or premature knowledge. Any cosmology presented as a part of revealed religion is destined to be outgrown in a very short time. ([UB 101:4.1](/en/The_Urantia_Book/101#p4_1))
+> It has appeared to be wise from time to time to provide instruction in cosmology. And always has this made trouble for the future. The laws of revelation hamper us greatly by their proscription of the impartation of unearned or premature knowledge. Any cosmology presented as a part of revealed religion is destined to be outgrown in a very short time. ([UB 101:4.1](/en/The_Urantia_Book/101#p4_1))
 
-> "Mankind should understand that we who participate in the revelation of truth are very rigorously limited by the instructions of our superiors. We are not at liberty to anticipate the scientific discoveries of a thousand years. ([UB 101:4.2](/en/The_Urantia_Book/101#p4_2))
+> Mankind should understand that we who participate in the revelation of truth are very rigorously limited by the instructions of our superiors. We are not at liberty to anticipate the scientific discoveries of a thousand years. ([UB 101:4.2](/en/The_Urantia_Book/101#p4_2))
 
-> "We full well know that, while the historic facts and religious truths of this series of revelatory presentations will stand on the records of the ages to come, within a few short years many of our statements regarding the physical sciences will stand in need of revision in consequence of additional scientific developments and new discoveries. These new developments we even now foresee, but we are forbidden to include such humanly undiscovered facts in the revelatory records. Let it be made clear that revelations are not necessarily inspired. The cosmology of these revelations is not inspired. ([UB 101:4.2](/en/The_Urantia_Book/101#p4_2))
+> We full well know that, while the historic facts and religious truths of this series of revelatory presentations will stand on the records of the ages to come, within a few short years many of our statements regarding the physical sciences will stand in need of revision in consequence of additional scientific developments and new discoveries. These new developments we even now foresee, but we are forbidden to include such humanly undiscovered facts in the revelatory records. Let it be made clear that revelations are not necessarily inspired. The cosmology of these revelations is not inspired. ([UB 101:4.2](/en/The_Urantia_Book/101#p4_2))
 
 > “Partial, incomplete, and evolving intellects would be helpless in the master universe, would be unable to form the first rational thought pattern, were it not for the innate ability of all mind, high or low, to form a **universe frame in which to think**. If mind cannot fathom conclusions, if it cannot penetrate to true origins, then will such mind unfailingly postulate conclusions and invent origins that it may have a means of logical thought within the frame of these mind-created postulates. And while such universe frames for creature thought are indispensable to rational intellectual operations, they are, without exception, erroneous to a greater or lesser degree.” ([UB 115:1.1](/en/The_Urantia_Book/115#p1_1))
 

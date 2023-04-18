@@ -10,7 +10,7 @@ dateCreated: 2022-09-26T04:49:50.339Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
 
-The prophetic nature of The Urantia Book’s account of continental drift and some of its consequences have now received approval in a book by professor of geology, M.A.S. McMenamin, entitled “The Garden of Ediacara,” reported by Larry Mullins in the recent “Spiritual Fellowship Journal.” The following quotes coming from McMenamin’s book followed upon that author having his attention drawn to The Urantia Book’s content:
+The prophetic nature of _The Urantia Book_’s account of continental drift and some of its consequences have now received approval in a book by professor of geology, M.A.S. McMenamin, entitled “The Garden of Ediacara,” reported by Larry Mullins in the recent “Spiritual Fellowship Journal.” The following quotes coming from McMenamin’s book followed upon that author having his attention drawn to _The Urantia Book_’s content:
 
 "The anonymous members of the Urantia Corps hit on some remarkable scientific revelations in the mid-1930’s. They embraced continental drift at a time when it was decidedly out of vogue in the scientific community. They recognized the presence of a global super-continent (Rodinia) and superocean (Mirovia), in existence on Earth before Pangea. . . The concept of a billion year old supercontinent (the currently accepted age for the formation of Rodinia) that subsequently split apart, forming gradually widening ocean basins in which early marine life flourished, is unquestionably present in the book.
 

@@ -30,7 +30,7 @@ Many (most?) readers think that the Urantia Book claims that Andon and Fonta wer
 
 There appears to be little doubt that the origins of mankind were in Africa for there is to be found there, a group of hominid fossils belonging to the genus Australopithecus, any one of which may have been a forebear of the genus Homo–the one to which we belong, and fossils from which is also widely represented in Africa.
 
-The Urantia Book informs us that man arose just under 1 million years ago, and denies that it had a direct African ancestry. Also it places the origin of the modern types of simian–monkeys, baboons, chimpanzee, and gorilla–in the vicinity of one million years ago, and not in Africa but on a Mesopotamian peninsular. Science places this divergence as occurring in Africa about 5 to 6 million years ago.
+_The Urantia Book_ informs us that man arose just under 1 million years ago, and denies that it had a direct African ancestry. Also it places the origin of the modern types of simian–monkeys, baboons, chimpanzee, and gorilla–in the vicinity of one million years ago, and not in Africa but on a Mesopotamian peninsular. Science places this divergence as occurring in Africa about 5 to 6 million years ago.
 
 There are two main schemes for human ancestry, one, the ‘out of Africa alone’ hypothesis, the other ‘the multi-regional’ hypothesis, meaning that the ancient ancestors of various human groups lived where they are found today. Included is the possibility that the so-called Neanderthal man, a specialized form of man well adapted to the climate of an ice-age, could interbreed with modern man. An extreme view is that the Neanderthal was the progenitor of modern man.
 

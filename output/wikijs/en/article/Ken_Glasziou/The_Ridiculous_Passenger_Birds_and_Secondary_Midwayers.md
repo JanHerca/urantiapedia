@@ -30,7 +30,7 @@ These unusual offspring were called the secondary midwayers. Though incapable of
 
 If Urantia Book readers read such material in the Bible or the Koran they would likely collapse in raucous laughter. So surely these two examples must force us to consider whether the revelators have repeatedly challenged our intellects, virtually begging us to refrain from converting their precious revelation into an infallible icon.
 
-> Let it be made clear that revelations are not necessarily inspired. The cosmology of these revelations is not inspired. It is limited by our permission for the co-ordination and sorting of present-day knowledge. (<a href="/en/The_Urantia_Book/101#p4_2">UB 101:4.2</a>)
+> Let it be made clear that revelations are not necessarily inspired. The cosmology of these revelations is not inspired. It is limited by our permission for the co-ordination and sorting of present-day knowledge. ([UB 101:4.2](/en/The_Urantia_Book/101#p4_2))
 
 ## External links
 

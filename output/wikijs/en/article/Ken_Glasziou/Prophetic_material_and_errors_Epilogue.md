@@ -14,7 +14,7 @@ It cannot be doubted that these Urantia Papers sometimes meander between the sub
 
 Furthermore, the task of the revelators also had to be carried out without abrogating a divine decree:
 
-> "No other being, force, creator, or agency in all the wide universe of universes can interfere to any degree with the absolute sovereignty of the mortal free will, as it operates within the realms of choice, regarding the eternal destiny of the personality of the choosing mortal. As pertains to eternal survival, God has decreed the sovereignty of the material and mortal will, and that decree is absolute. ([UB 5:6.8](/en/The_Urantia_Book/5#p6_8))
+> No other being, force, creator, or agency in all the wide universe of universes can interfere to any degree with the absolute sovereignty of the mortal free will, as it operates within the realms of choice, regarding the eternal destiny of the personality of the choosing mortal. As pertains to eternal survival, God has decreed the sovereignty of the material and mortal will, and that decree is absolute. ([UB 5:6.8](/en/The_Urantia_Book/5#p6_8))
 
 > “No personal creature can be coerced into the eternal adventure; the portal of eternity opens only to the freewill choice of the freewill sons of the God of free will.” ([UB 5:6.12](/en/The_Urantia_Book/5#p6_12))
 
