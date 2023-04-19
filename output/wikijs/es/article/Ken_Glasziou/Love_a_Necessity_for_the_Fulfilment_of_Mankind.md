@@ -12,7 +12,7 @@ dateCreated: 2022-09-26T17:06:31.253Z
 
 _Casi 500 años antes de la era cristiana, Mo Tzu, en China, ganó muchos seguidores por sus conceptos sobre el amor mutuo y su potencial para reemplazar la guerra entre estados y naciones_.
 
-“¿De dónde surgen estas calamidades?” preguntó. Y me respondió de la siguiente manera:
+«¿De dónde surgen estas calamidades?» preguntó. Y me respondió de la siguiente manera:
 
 _Surgen de la **ausencia de amor mutuo**. En la actualidad los señores feudales sólo han aprendido a amar a sus propios Estados, pero no a los de los demás. Por lo tanto, no tienen escrúpulos en atacar a otros estados. Y los jefes de casa han aprendido sólo a amar su propia casa y nunca la de los demás. Por lo tanto, no tienen escrúpulos en usurpar las casas de otros. Y los individuos han aprendido sólo a amarse a sí mismos y no a los demás. Por lo tanto, ellos tampoco tienen escrúpulos en dañar a otros. Se sigue que todas las calamidades, luchas, conflictos, quejas y odios en el mundo tienen su origen en la falta de amor mutuo. ¿Cómo se puede alterar esta condición?_
 

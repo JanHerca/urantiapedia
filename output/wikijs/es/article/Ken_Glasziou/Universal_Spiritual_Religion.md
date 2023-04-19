@@ -16,7 +16,7 @@ Comenzando alrededor de 600 años a. C. y progresando hasta alrededor de 600 d. 
 
 Este es exactamente el mismo Espíritu de Dios que mora en nosotros y que fue amigo, guía y consejero de fuentes tan notables de revelación divina como Moisés, Lao Tzu, Siddartha Gautama, Jesús de Nazaret, Mahoma y muchos otros durante su breve interludio en el Planeta Tierra.
 
-Esta sinopsis constituye un marco para descubrir la existencia de Dios y la mente de Dios. También genera una base lógica para la creencia religiosa más básica incluso que la “Teología del proceso” de Whitehead.
+Esta sinopsis constituye un marco para descubrir la existencia de Dios y la mente de Dios. También genera una base lógica para la creencia religiosa más básica incluso que la «Teología del proceso» de Whitehead.
 
 > Ni fuego ni viento,
 > Nacimiento o muerte,
@@ -26,7 +26,7 @@ Esta sinopsis constituye un marco para descubrir la existencia de Dios y la ment
 
 ## La lógica de la navaja de Occam conduce a la creencia en Dios y la religión espiritual.
 
-El principio de la navaja de Occam es un procedimiento de resolución de problemas universalmente reconocido. Requiere la eliminación de todas las hipótesis innecesarias, dejando solo las más simples para una mayor exploración. Nuestra pregunta: “_cuál es el conjunto mínimo de axiomas que nos proporcionará un sistema válido de creencias religiosas_”.
+El principio de la navaja de Occam es un procedimiento de resolución de problemas universalmente reconocido. Requiere la eliminación de todas las hipótesis innecesarias, dejando solo las más simples para una mayor exploración. Nuestra pregunta: «_cuál es el conjunto mínimo de axiomas que nos proporcionará un sistema válido de creencias religiosas_».
 
 Considerando el comienzo de todas las cosas, solo tenemos dos opciones: el pensamiento estuvo involucrado o todo surgió espontáneamente de la nada.
 
@@ -34,9 +34,9 @@ Elegir esta última hipótesis genera automáticamente preguntas difíciles e in
 
 Pero si permitimos que el pensamiento se involucre, tenemos una explicación incorporada para tales fenómenos. Y entonces elegimos el más simple de los dos y lo expresamos como:
 
-Axioma 1. _Dios es el único hecho autocausado que existe en toda la realidad, por lo tanto debe ser la fuente y sustancia de todo lo que es. (del “Origen de los orígenes del Tao Te Ching”, alrededor del año 500 a. C.)._
+Axioma 1. _Dios es el único hecho autocausado que existe en toda la realidad, por lo tanto debe ser la fuente y sustancia de todo lo que es. (del «Origen de los orígenes del Tao Te Ching», alrededor del año 500 a. C.)._
 
-Damos a nuestro “Pensamiento Creativo Original” el nombre de “Dios”, señalando que dado que el tiempo y el espacio llegaron a existir juntos como espacio-tiempo, antes de ese momento solo existía el infinito y eterno AHORA. Por lo tanto, preguntas como qué vino antes de Dios son irrelevantes.
+Damos a nuestro «Pensamiento Creativo Original» el nombre de «Dios», señalando que dado que el tiempo y el espacio llegaron a existir juntos como espacio-tiempo, antes de ese momento solo existía el infinito y eterno AHORA. Por lo tanto, preguntas como qué vino antes de Dios son irrelevantes.
 
 Para mantener nuestro sistema simple, necesitamos un axioma principal más, y proponemos esto:
 
@@ -67,7 +67,7 @@ En resumen: _Dios es; Dios es bondad perfecta_.
 
 ## Una base para la creencia en Dios y la uniformidad espiritual.
 
-_En algún lugar hace unos 2.500 años, hubo un evento notable. Un nuevo concepto, al que a veces se le dio el nombre de “Filosofía Perenne”, entró en la psique humana. Con el tiempo se convirtió en la filosofía de referencia de todas las religiones principales. Sus cuatro principios fundamentales son:
+_En algún lugar hace unos 2.500 años, hubo un evento notable. Un nuevo concepto, al que a veces se le dio el nombre de «Filosofía Perenne», entró en la psique humana. Con el tiempo se convirtió en la filosofía de referencia de todas las religiones principales. Sus cuatro principios fundamentales son:
 
 1. La materia y la autoconciencia son manifestaciones de la Primera Fuente y Centro, conocidas también como Dios, Tao, Brahman, Yahvé, Padre Celestial, Alá, etc.
 
@@ -88,7 +88,7 @@ El conflicto entre tales religiones debe ser un anatema para el Dios que nos cre
 
 _Para entender la vida espiritual, es vital entender el papel que debe atribuirse al Espíritu de Dios que mora en nosotros._
 
-Aunque pocos lo saben, en el Nuevo Testamento de la Biblia se hace referencia a él en al menos 25 de sus versículos, por ejemplo, “No sabéis que sois templo de Dios, que el Espíritu de Dios mora en vosotros” ([1. Cor. 3:16](/es/Bible/1_Corinthians/3#v16)), y, “Si nos amamos unos a otros, Dios habita en nosotros”. ([1 Juan 4:12](/es/Bible/1_John/4#v12)). También era conocido entre los antiguos egipcios, persas, hindúes, sufíes y otros seguidores del Islam.
+Aunque pocos lo saben, en el Nuevo Testamento de la Biblia se hace referencia a él en al menos 25 de sus versículos, por ejemplo, «No sabéis que sois templo de Dios, que el Espíritu de Dios mora en vosotros» ([1. Cor. 3:16](/es/Bible/1_Corinthians/3#v16)), y, «Si nos amamos unos a otros, Dios habita en nosotros». ([1 Juan 4:12](/es/Bible/1_John/4#v12)). También era conocido entre los antiguos egipcios, persas, hindúes, sufíes y otros seguidores del Islam.
 
 Este Espíritu que mora en nosotros es la fuente en nuestras mentes de todos los verdaderos significados y valores de naturaleza no material. Por lo tanto, es la fuente de la verdadera moralidad, belleza y bondad, y de toda verdad revelada e inmaterial.
 

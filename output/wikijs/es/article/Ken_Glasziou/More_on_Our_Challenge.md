@@ -1,5 +1,5 @@
 ---
-title: "Más sobre “Nuestro Desafío”"
+title: "Más sobre «Nuestro Desafío»"
 description: 
 published: true
 date: 2022-12-22T22:00:30.266Z
@@ -28,7 +28,7 @@ Debido a la forma en que surgió la revelación de Urantia y su contenido, debem
 
 ¿Es posible que un simple hombre tenga tal fe? ¿O tal conciencia de la presencia de Dios? ¿Y tal dedicación a hacer la voluntad de Dios?
 
-La respuesta se da en la revelación misma. En una discusión con Emmanuel, la tarea de Jesús se describe como “_exhibir en su vida en la carne esas posibilidades trascendentes que puede alcanzar un humano que conoce a Dios._” ([LU 120:2.8](/es/The_Urantia_Book/120#p2_8 ))  
+La respuesta se da en la revelación misma. En una discusión con Emmanuel, la tarea de Jesús se describe como «_exhibir en su vida en la carne esas posibilidades trascendentes que puede alcanzar un humano que conoce a Dios._» ([LU 120:2.8](/es/The_Urantia_Book/120#p2_8 ))  
 
 ¿Qué se entiende por «posibilidades trascendentes»?
 

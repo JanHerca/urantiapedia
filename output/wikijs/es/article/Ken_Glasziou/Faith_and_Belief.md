@@ -27,7 +27,7 @@ Cuando experimentas tal transformación de la fe, ya no eres una parte esclava d
 
 ---
 
-Sigue un “**asalto combinado**”. (ver pág. 2)
+Sigue un «**asalto combinado**». (ver pág. 2)
 
 ## Enlaces externos
 

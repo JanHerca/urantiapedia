@@ -10,7 +10,7 @@ dateCreated: 2022-09-26T23:09:13.189Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
 
-> “_Haz a los demás lo que quieras que te hagan a ti_” ([Tobías 4:15](/es/Bible/Tobías/4#v15); [Mateo 7:12](/es/Biblia/Mateo/7# v12); [Lucas 6:3](/es/Bible/Luke/6#v3); [LU 131:2.11](/es/The_Urantia_Book/131#p2_11), [LU 140:3.15](/es/The_Urantia_Book/140#p3_15), etc.)
+> «_Haz a los demás lo que quieras que te hagan a ti_» ([Tobías 4:15](/es/Bible/Tobías/4#v15); [Mateo 7:12](/es/Biblia/Mateo/7# v12); [Lucas 6:3](/es/Bible/Luke/6#v3); [LU 131:2.11](/es/The_Urantia_Book/131#p2_11), [LU 140:3.15](/es/The_Urantia_Book/140#p3_15), etc.)
 
 Algunas personas disciernen e interpretan la regla de oro como una afirmación puramente intelectual de la fraternidad humana. Otros experimentan esta expresión de la relación humana como una gratificación emocional de los tiernos sentimientos de la personalidad humana. Otro mortal reconoce esta misma regla de oro como el criterio para medir todas las relaciones sociales, el estándar de conducta social. Aún otros lo ven como el mandato positivo de un gran maestro moral que incorporó en esta declaración el concepto más alto de obligación moral con respecto a todas las relaciones fraternales. En la vida de tales seres morales, la regla de oro se convierte en el sabio centro y circunferencia de toda su filosofía.
 

@@ -22,7 +22,7 @@ Pero aprende que incluso la expresión de un buen pensamiento puede necesitar se
 
 Eso concluye nuestros ejemplos de intentar cumplir los edictos de esa solicitud de la página 43 para producir una visión nueva y justa de la moralidad. El fundamento de tal visión seguramente debería ser que amemos a todos los hombres sin importar cómo sean. El secreto para poder hacerlo está en las palabras:
 
-“_En cuanto comprendéis a vuestro prójimo, os volvéis tolerantes, y esta tolerancia se convierte en amistad y madura en amor._” ([LU 100:4.4](/es/The_Urantia_Book/100#p4_4))
+«_En cuanto comprendéis a vuestro prójimo, os volvéis tolerantes, y esta tolerancia se convierte en amistad y madura en amor._» ([LU 100:4.4](/es/The_Urantia_Book/100#p4_4))
 
 Parece improbable que una obra filosófica de estilo académico de la intensidad incluso de la revelación de Urantia alcance la popularidad suficiente para ser eficaz. Una novela sin connotaciones religiosas pero con un personaje central que hace precisamente eso que posiblemente podría hacer.
 
