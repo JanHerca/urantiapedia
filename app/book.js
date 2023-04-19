@@ -30,9 +30,9 @@ class Book {
 				{item: 'tr', index: ['td a', 0], author: ['td', 2]},
 				{item: 'p', index: ['span', 0], author: ['span', 2]}
 			],
-			languages: ['bg', 'cs', 'da', 'de', 'en', 'es', 'es-1993', 'et',
-				'fi', 'fr', 'hu', 'id', 'it', 'lt', 'nl', 'pl', 'pt', 'ro',
-				'ru', 'sv', 'tr']
+			languages: ['bg', 'cs', 'da', 'de', 'en', 'es', 'es-1993', 
+				'es-2021', 'et', 'fi', 'fr', 'hu', 'id', 'it', 'lt', 'nl', 
+				'pl', 'pt', 'ro', 'ru', 'sv', 'tr']
 		},
 		{
 			name: 'greek',
