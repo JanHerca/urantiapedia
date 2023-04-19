@@ -522,15 +522,18 @@ exports.getWikijsBookRefLink = (book_ref, language) => {
  * If paper = 'index' returns the Index page link.
  * @param {(Object|string)} paper Paper object or 'index'.
  * @param {string} language Language code.
+ * @param {boolean} isMultiple If it is The Urantia Book shown as multiple
+ * versions or not.
  * @return {string}
  */
-exports.getWikijsBookLink = (paper, language) => {
+exports.getWikijsBookLink = (paper, language, isMultiple) => {
 	if (!paper) {
 		return ' ';
 	}
+	const multiple = isMultiple ? '_Multiple' : '';
 	const bookName = Strings.bookName.en.replace(/ /g,"_");
 	const lan = (language === 'en' ? '' : '/' + language);
-	const path = `${lan}/${bookName}`;
+	const path = `${lan}/${bookName}${multiple}`;
 	const indexName = Strings['bookIndexName'][language];
 	const indexNameEN = Strings['bookIndexName'].en;
 	if (paper === 'index') {

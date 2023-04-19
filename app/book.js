@@ -1541,10 +1541,61 @@ class Book {
 	};
 
 	/**
+	 * Writes `The Urantia Book` (mutiple versions mode) in HTML format that can 
+	 * be imported in Wiki.js, each paper a file.
+	 * @param {string} dirPath Folder path.
+	 * @param {Book[]} books Array of Book objects with the book in several versions. 
+	 * The first one must be the master version, which will have links to footnotes.
+	 * @param {?TopicIndex} topicIndex An optional Topic Index.
+	 * @param {?TopicIndex} topicIndexEN An optional Topic Index in english. If
+	 * previous param is english then this is not required. If it is not english
+	 * then this param is required.
+	 * @param {?ImageCatalog} imageCatalog Image catalog.
+	 * @param {?MapCatalog} mapCatalog Map catalog.
+	 * @param {?Paralells} paralells Paralells.
+	 * @return {Promise} Promise that returns null in resolve function or an
+	 * array of errors in reject function.
+	 */
+	writeMultipleToWikijs = (dirPath, books, topicIndexEN, imageCatalog,
+		mapCatalog, paralells) => {
+		const baseName = path.basename(dirPath);
+		return new Promise((resolve, reject) => {
+			fs.access(dirPath, fs.constants.W_OK, (err) => {
+				if (err) {
+					reject([this.getError('folder_no_access', baseName)]);
+					return;
+				}
+			});
+			const promises = books[0].papers.map(paper => {
+				const index = paper.paper_index;
+				const papers = books.map(b => {
+					return b.papers.find(p => p.paper_index === index);
+				});
+				const filePath = path.join(dirPath, `${index}.html`);
+				const p = this.writeFileToWikijs(filePath, papers, topicIndexEN,
+					imageCatalog, mapCatalog, paralells);
+				return reflectPromise(p);
+			});
+			Promise.all(promises)
+				.then((results) => {
+					const errors = [];
+					results.forEach(r => extendArray(errors, r.error));
+					if (errors.length === 0) {
+						resolve(null);
+					} else {
+						reject(errors);
+					}
+				});
+		});
+	};
+
+	/**
 	 * Writes a paper of `The Urantia Book` in HTML format that can be imported 
 	 * in Wiki.js.
 	 * @param {string} filePath Output file.
-	 * @param {Object} paper JSON object with the paper.
+	 * @param {(Object|Object[])} papers JSON object with the paper or array of
+	 * JSON objects with paper in several versions. The first one must be the
+	 * master version, which will have links to footnotes.
 	 * @param {?TopicIndex} topicIndex An optional Topic Index.
 	 * @param {?ImageCatalog} imageCatalog Image catalog.
 	 * @param {?MapCatalog} mapCatalog Map catalog.
@@ -1552,9 +1603,11 @@ class Book {
 	 * @return {Promise} Promise that returns null in resolve function and an
 	 * error in reject function.
 	 */
-	writeFileToWikijs = (filePath, paper, topicIndex, imageCatalog, mapCatalog, 
-		paralells) => {
+	writeFileToWikijs = (filePath, papers, topicIndex, imageCatalog, 
+		mapCatalog, paralells) => {
 		return new Promise((resolve, reject) => {
+			const multi = Array.isArray(papers);
+			const paper = (multi ? papers[0] : papers);
 			const index = paper.paper_index;
 			const prev = index - 1;
 			const next = index + 1;
@@ -1568,7 +1621,7 @@ class Book {
 			const paramonyFnErr = paramonyFn
 				.filter(f => f.html === 'FOOTNOTE ERROR')
 				.map(f => f.index);
-			const paralellsFn = paralells.getParalells(index);
+			const paralellsFn = (paralells ? paralells.getParalells(index) : []);
 			const allFn = [...paramonyFn, ...paralellsFn];
 			allFn.sort((a, b) => a.sorting - b.sorting);
 
@@ -1596,9 +1649,9 @@ class Book {
 			let error_par_ref;
 			const prevPaper = this.papers.find(p=>p.paper_index === prev);
 			const nextPaper = this.papers.find(p=>p.paper_index === next);
-			const prevLink = getWikijsBookLink(prevPaper, this.language);
-			const nextLink = getWikijsBookLink(nextPaper, this.language);
-			const indexLink = getWikijsBookLink('index', this.language);
+			const prevLink = getWikijsBookLink(prevPaper, this.language, multi);
+			const nextLink = getWikijsBookLink(nextPaper, this.language, multi);
+			const indexLink = getWikijsBookLink('index', this.language, multi);
 			const title = getBookTitle(paper, this.language, true);
 
 			//Write header
@@ -1610,10 +1663,10 @@ class Book {
 
 			//Sections & paragraphs
 			let footnoteIndex = 0, fni;
-			let replaceErr = [];
+			let rErr = [];
 			let topicErr = [];
 			
-			paper.sections.forEach(section => {
+			paper.sections.forEach((section, sec_i) => {
 				let previousPar = null;
 				const stitle = (section.section_title ? 
 					this.replaceSpecialChars(section.section_title)
@@ -1627,10 +1680,15 @@ class Book {
 						`<a href="#p${sind}" class="toc-anchor">¶</a> </span>\r\n`;
 				}
 
-				section.pars.forEach(par => {
-					let pcontent, aref, topics, di, si, pi, image, map, used;
+				section.pars.forEach((par, par_i) => {
+					const pars = (multi ? papers.map(p => {
+						return (p.sections[sec_i] ? 
+							p.sections[sec_i].pars[par_i] : null);
+					}) : [par]);
+					let aref, di, si, pi, image, map;
 					par.usedTopicNames = [];
 					const topicNames = [];
+
 					if (!par.par_ref || !par.par_content) {
 						error = 'book_par_no_refcontent';
 						return;
@@ -1648,71 +1706,91 @@ class Book {
 					di = aref[0];
 					si = aref[1];
 					pi = aref[2];
-					body += `<p id="p${si}_${pi}">`;
-					body += `<sup><small>${par.par_ref}</small></sup>  `;
+					rErr = [];
 
-					replaceErr = [];
-					// Urantia Book has a paragraph with `*  *  *` so check here
-					pcontent = (par.par_content === '*  *  *' ? 
-						par.par_content :
-						replaceTags(par.par_content, '*', '*', '<i>', '</i>', 
-						replaceErr));
-					pcontent = replaceTags(pcontent, '$', '$', 
-						'<span style="font-variant: small-caps;">', '</span>',
-						replaceErr);
-					if (replaceErr.length > 0) {
-						error_par_ref = par.par_ref;
-						error = replaceErr[0];
-					}
-					//Topic index links
-					if (topicIndex) {
-						used = (previousPar ? previousPar.usedTopicNames : []);
-						topics = topicIndex.filterTopicsInParagraph(
-							par.par_content, di, si, pi, topicNames, used);
-						previousPar = par;
-						extendArray(par.usedTopicNames, 
-							topics.map(t => t.name));
-						if (topicNames.length > 0) {
-							topicNames.sort((a,b) => {
-								if (a.name === b.name) {
-									return (a.link.length - b.link.length);
-								}
-								return (b.name.length - a.name.length);
-							});
-							pcontent = replaceWords(topicNames.map(i=>i.name),
-								topicNames.map(i=>i.link), pcontent);
+					const parHtmls = pars.map((p, ppi) => {
+						let parHtml = '';
+						let pcontent = p.par_content;
+						let used, topics;
+						parHtml += `<p id="p${si}_${pi}">`;
+						parHtml += `<sup><small>${p.par_ref}</small></sup>  `;
+						// Urantia Book has a paragraph with `*  *  *` so check here
+						pcontent = (pcontent === '*  *  *' ? pcontent :
+							replaceTags(pcontent, '*', '*', '<i>', '</i>', rErr));
+						pcontent = replaceTags(pcontent, '$', '$', 
+							'<span style="font-variant: small-caps;">', '</span>', rErr);
+						if (rErr.length > 0) {
+							error_par_ref = p.par_ref;
+							error = rErr[0];
 						}
-					}
-					//Add footnote marks to paragraph content
-					allFn
-						.filter(fn => fn.par_ref === par.par_ref)
-						.forEach(fn => {
-							footnoteIndex++;
-							const text = strformat(cite, footnoteIndex);
-							if (fn.index != null) {
-								pcontent = pcontent.replace(`{${fn.index}}`, 
-									text);
-							} else if (fn.location === 999) {
-								pcontent += text;
-							} else if (fn.location != null) {
-								const indexes = getAllIndexes(pcontent, '.');
-								const tindex = indexes[fn.location - 1];
-								pcontent = pcontent.substring(0, tindex) +
-									text + pcontent.substring(tindex);
+						if (ppi === 0) {
+							//Topic index links
+							if (topicIndex) {
+								used = (previousPar ? previousPar.usedTopicNames : []);
+								topics = topicIndex.filterTopicsInParagraph(
+									p.par_content, di, si, pi, topicNames, used);
+								previousPar = p;
+								extendArray(p.usedTopicNames, topics.map(t => t.name));
+								if (topicNames.length > 0) {
+									topicNames.sort((a,b) => {
+										if (a.name === b.name) {
+											return (a.link.length - b.link.length);
+										}
+										return (b.name.length - a.name.length);
+									});
+									pcontent = replaceWords(topicNames.map(i=>i.name),
+										topicNames.map(i=>i.link), pcontent);
+								}
 							}
-						});
-					body += `${pcontent}</p>\r\n`;
+							//Add footnote marks to paragraph content
+							allFn
+								.filter(fn => fn.par_ref === p.par_ref)
+								.forEach(fn => {
+									footnoteIndex++;
+									const text = strformat(cite, footnoteIndex);
+									if (fn.index != null) {
+										pcontent = pcontent.replace(`{${fn.index}}`, text);
+									} else if (fn.location === 999) {
+										pcontent += text;
+									} else if (fn.location != null) {
+										const indexes = getAllIndexes(pcontent, '.');
+										const tindex = indexes[fn.location - 1];
+										pcontent = pcontent.substring(0, tindex) +
+											text + pcontent.substring(tindex);
+									}
+								});
+						}
+						parHtml += `${pcontent}</p>\r\n`;
+						return parHtml;
+					});
+
+					if (multi) {
+						body += '<div class="d-sm-flex">\r\n';
+						body += parHtmls.map((ph, n, arrp) => {
+							var cls = (n < arrp.length ? 
+								' class="pr-sm-5"' : '') +
+								' style="flex-basis:100%"';
+							return `  <div${cls}>\r\n    ${ph}  </div>\r\n`;
+						}).join('');
+						body += '</div>\r\n';
+					} else {
+						body += parHtmls[0];
+					}
 
 					//Image if exists
-					image = imageCatalog.getImageForRef(par.par_ref);
-					if (image) {
-						body += image;
+					if (imageCatalog) {
+						image = imageCatalog.getImageForRef(par.par_ref);
+						if (image) {
+							body += image;
+						}
 					}
 
 					//Map if exists
-					map = mapCatalog.getMapForRef(par.par_ref);
-					if (map) {
-						body += map;
+					if (mapCatalog) {
+						map = mapCatalog.getMapForRef(par.par_ref);
+						if (map) {
+							body += map;
+						}
 					}
 				});
 			});
@@ -2757,7 +2835,7 @@ class Book {
 					return;
 				}
 				const promises = this.papers
-				.filter(paper => paper.paper_index === 181)
+				// .filter(paper => paper.paper_index === 181)
 				.map(paper => {
 					const bookName = Strings['bookName'][this.language]
 						.replace(/\s/g, '_');

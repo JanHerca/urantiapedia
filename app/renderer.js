@@ -386,6 +386,39 @@ const updateDefaultPaths = () => {
 	});
 };
 
+const getPathsOfBookVersions = (jsonDir) => {
+	if (lan === 'en') {
+		return Promise.reject([new Error('English language cannot be used')]);
+	}
+	return new Promise((resolve, reject) => {
+		fs.readdir(jsonDir, { withFileTypes: true }, (err, files) => {
+			if (err) {
+				reject([new Error('Error reading folder ' + jsonDir)]);
+				return;
+			}
+			const regEx = new RegExp(`book-(en|${lan})-.+`);
+			const folders = files
+				.filter(dirent => {
+					return (dirent.isDirectory() && 
+						dirent.name.match(regEx) != null);
+				})
+				.map(dirent => dirent.name)
+				.reduce((acc, cur) => {
+					if (cur === `book-${lan}-footnotes`) {
+						acc.unshift(cur);
+					} else if (acc[acc.length-1] === 'book-en-footnotes') {
+						acc.splice(acc.length - 1, 0, cur);
+					} else {
+						acc.push(cur);
+					}
+					return acc;
+				}, [])
+				.map(name => path.join(jsonDir, name));
+			resolve(folders);
+		});
+	});
+};
+
 const handle_dirButtonClick = (textbox) => {
 	dialog.showOpenDialog({
 		title: strSelectFolder,
@@ -589,6 +622,39 @@ const handle_exeButtonClick = () => {
 			.then(() => topicindex.updateTopicNames(topicindexEN))
 			.then(() => book.writeToWikijs(htmlDir, topicindex, imageCatalog, 
 				mapCatalog, paralells))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
+	} else if (process === 'BOOK_MULTIPLE_JSON_TOPICS_TXT_TO_WIKIJS') {
+		// Reads image catalog (*.md) + 
+		// Reads map catalog (*.md) +
+		// Reads paralells (*.md) +
+		// Reads several UB (*.json) + 
+		// Reads Topic Index (*.txt) => 
+		// Writes (Wiki.js *.html)
+		///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+		//TODO: 1. CSS width here mmust be reset to 100% of screen (not 1000px)
+		//TODO: 2. Add all document titles and section titles
+		//TODO: 3. Remove the marks for footnotes in English
+		//TODO: 4. Add images, maps and paralells (only for master language)
+		//TODO: 5. Add 2021 version in Spanish
+		getPathsOfBookVersions(jsonDir)
+			.then((folders) => {
+				var books = folders.map((f, i, ar) => {
+					var folderLan = (i === ar.length - 1 ? 'en' : lan);
+					var folderBook = new Book();
+					folderBook.setLanguage(folderLan);
+					return folderBook;
+				});
+				var promises = books.map((b, i) => {
+					return b.readFromJSON(folders[i]);
+				});
+				return Promise.all(promises).then(() => {
+					return books;
+				});
+			})
+			.then(books => {
+				book.writeMultipleToWikijs(htmlDir, books);
+			})
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BOOK_JSON_TO_TEX') {
