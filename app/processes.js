@@ -19,8 +19,8 @@ const Processes = {
 	"BIBLEREF_TXT_BOOK_JSON_TO_TXT": {
 		active: true,
 		desc: {
-			en: "BIBLE: Translate Bible Refs (TXT) + UB (JSON) to TXT",
-			es: "BIBLIA: Traducir Refs Biblia (TXT) + LU (JSON) a TXT"
+			en: "BIBLE REFS.: Translate Bible Refs (TXT) + UB (JSON) to TXT",
+			es: "REFS. DE LA BIBLIA: Traducir Refs Biblia (TXT) + LU (JSON) a TXT"
 		},
 		controls: ['dirJTextbox', 'dirTTextbox'],
 		paths: [['input','json', 'book-{0}-footnotes'], ['input','txt', 'bible-refs-{0}']]
@@ -28,8 +28,8 @@ const Processes = {
 	"BIBLEREF_JSON_TO_MARKDOWN": {
 		active: true,
 		desc: {
-			en: "BIBLE: Convert Bible Refs in Urantia Book (JSON) to Markdown",
-			es: "BIBLIA: Convertir Refs Biblia en Libro de Urantia (JSON) a Markdown"
+			en: "BIBLE REFS.: Convert Bible Refs in Urantia Book (JSON) to Markdown",
+			es: "REFS. DE LA BIBLIA: Convertir Refs Biblia en Libro de Urantia (JSON) a Markdown"
 		},
 		controls: ['dirJTextbox', 'dirTTextbox'],
 		paths: [['input', 'json', 'footnotes-book-{0}.json'],
@@ -38,14 +38,14 @@ const Processes = {
 	"BOOK_JSON_TO_BIBLEREF_JSON": {
 		active: true,
 		desc: {
-			en: "THE URANTIA BOOK: Save Bible Refs in (JSON) in JSON",
-			es: "EL LIBRO DE URANTIA: Guardar Refs Biblia en (JSON) en JSON"
+			en: "BIBLE REFS.: Save Bible Refs in (JSON) in JSON",
+			es: "REFS. DE LA BIBLIA: Guardar Refs Biblia en (JSON) en JSON"
 		},
 		controls: ['dirJTextbox'],
 		paths: [['input', 'json', 'book-{0}-footnotes']]
 	},
 	"BOOK_JSON_BIBLEREF_JSON_TO_JSON": {
-		active: true,
+		active: false,
 		desc: {
 			en: "THE URANTIA BOOK: Update Bible Refs in Urantia Book (JSON)",
 			es: "EL LIBRO DE URANTIA: Actualizar Refs Biblia en Libro de Urantia (JSON)"

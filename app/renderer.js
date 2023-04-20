@@ -402,18 +402,18 @@ const getPathsOfBookVersions = (jsonDir) => {
 					return (dirent.isDirectory() && 
 						dirent.name.match(regEx) != null);
 				})
-				.map(dirent => dirent.name)
-				.reduce((acc, cur) => {
-					if (cur === `book-${lan}-footnotes`) {
-						acc.unshift(cur);
-					} else if (acc[acc.length-1] === 'book-en-footnotes') {
-						acc.splice(acc.length - 1, 0, cur);
-					} else {
-						acc.push(cur);
-					}
-					return acc;
-				}, [])
-				.map(name => path.join(jsonDir, name));
+				.map(dirent => {
+					const vals = dirent.name.split('-');
+					let year = parseInt(vals[2]);
+					year = (dirent.name === 'book-en-footnotes' ?
+						1955 : isNaN(year) ? 2006 : year);
+					return {name: dirent.name, year: year};
+				})
+				.sort((a, b) => {
+					//Sort from left (older) to right (newer)
+					return (a.year - b.year);
+				})
+				.map(obj => path.join(jsonDir, obj.name));
 			resolve(folders);
 		});
 	});
@@ -625,27 +625,50 @@ const handle_exeButtonClick = () => {
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BOOK_MULTIPLE_JSON_TOPICS_TXT_TO_WIKIJS') {
-		// Reads image catalog (*.md) + 
-		// Reads map catalog (*.md) +
 		// Reads paralells (*.md) +
-		// Reads several UB (*.json) + 
-		// Reads Topic Index (*.txt) => 
-		// Writes (Wiki.js *.html)
-		///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-		//TODO: 1. CSS width here mmust be reset to 100% of screen (not 1000px)
-		//TODO: 2. Add all document titles and section titles
-		//TODO: 3. Remove the marks for footnotes in English
-		//TODO: 4. Add images, maps and paralells (only for master language)
-		//TODO: 5. Add 2021 version in Spanish
-		getPathsOfBookVersions(jsonDir)
+		// Reads master UB (*.json) + 
+		// Reads Topic Index (*.txt) + 
+		// Get paths to several UB versions +
+		// Reads all UB versions (*.json) +
+		// Checks book versions + Writes (Wiki.js *.html)
+		//TODO: CSS width here mmust be reset to 100% of screen (not 1000px)
+		//TODO: Add badges with year of version before par refs
+		//TODO: Add top checkboxes to show/hide versions
+		//TODO: Indexes multi-version
+		//TODO: Links between single and multi-version pages
+		//TODO: Create for all languages
+		paralells.read()
+			.then(() => {
+				const masterDir = path.join(jsonDir, `book-${lan}-footnotes`);
+				return book.readFromJSON(masterDir);
+			})
+			.then(() => topicindex.exists(txtDir))
+			.then((exists) => {
+				return (exists ? topicindex.readFromTXT(txtDir) : 
+					Promise.resolve(null));
+			})
+			.then(() => {
+				const ti = txtDir.replace(`topic-index-${lan}`, 'topic-index-en');
+				return (lan === 'en' ? Promise.resolve(null) : 
+					topicindexEN.readFromTXT(ti));
+			})
+			.then(() => getPathsOfBookVersions(jsonDir))
 			.then((folders) => {
-				var books = folders.map((f, i, ar) => {
-					var folderLan = (i === ar.length - 1 ? 'en' : lan);
-					var folderBook = new Book();
+				const books = folders.map((f, i) => {
+					const folderLan = (i === 0 ? 'en' : lan);
+					const folderBook = new Book();
 					folderBook.setLanguage(folderLan);
+					if (f.endsWith(`book-${lan}-footnotes`)) {
+						folderBook.setAsMaster();
+						folderBook.setYear(Strings['bookMasterYear'][lan]);
+					} else if (f.endsWith('book-en-footnotes')) {
+						folderBook.setYear(Strings['bookMasterYear']['en']);
+					} else {
+						folderBook.setYear(f.substring(f.lastIndexOf('-')+1));
+					}
 					return folderBook;
 				});
-				var promises = books.map((b, i) => {
+				const promises = books.map((b, i) => {
 					return b.readFromJSON(folders[i]);
 				});
 				return Promise.all(promises).then(() => {
@@ -653,7 +676,19 @@ const handle_exeButtonClick = () => {
 				});
 			})
 			.then(books => {
-				book.writeMultipleToWikijs(htmlDir, books);
+				//Checks
+				const master = books.find(b => b.isMaster);
+				const bookErrors = books
+					.map(b => {
+						if (b.isMaster) return null;
+						const bErrs = master.checkBook(b);
+						if (bErrs.length === 0) return null;
+						return bErrs;
+					});
+				const errs = bookErrors.find(e => e != null);
+				if (errs) return Promise.reject(errs)
+				//No errors, proceed
+				return book.writeMultipleToWikijs(htmlDir, books);
 			})
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);

@@ -161,6 +161,33 @@ const Strings = {
 		sv: "DEL IV - Jesu liv och förkunnelse",
 		tr: "Kısım IV / Bölüm 4 - İsa’nın Hayatı ve Öğretileri"
 	},
+	"bookMasterYear": {
+		bg: "2014",
+		cs: "2019",
+		da: "2015",
+		de: "2015",
+		el: "2018",
+		en: "1955",
+		es: "2006",
+		et: "2010",
+		fa: "2018",
+		fi: "1993",
+		fr: "2014",
+		he: "2018",
+		hu: "2010",
+		id: "2020",
+		it: "2006",
+		ja: "2015",
+		ko: "2016",
+		lt: "2004",
+		nl: "1997",
+		pl: "2010",
+		pt: "2007",
+		ro: "2004",
+		ru: "1997",
+		sv: "2010",
+		tr: "2021"
+	},
 	"bookAbb": {
 		bg: "КУ",
 		cs: "KU",
@@ -1080,6 +1107,10 @@ const Strings = {
 	"book_no_closing_footnote": {
 		en: "{0}, line {1}: Closing footnote tag not found",
 		es: "{0}, línea {1}: No existe cierre de nota al pie correcto"
+	},
+	"book_paper_not_found": {
+		en: "Paper {0} not found",
+		es: "Documento {0} no encontrado."
 	},
 	"book_section_not_found": {
 		en: "Section {0} not found",

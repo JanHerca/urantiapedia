@@ -61,10 +61,63 @@ class Book {
 	];
 	footnotes = [];
 	audio = ['en', 'es', 'fr', 'it', 'pt', 'de'];
+	isMaster = false;
+	year = 0;
 
 	setLanguage = (language) => {
 		this.language = language;
 	};
+
+	setAsMaster = () => {
+		this.isMaster = true;
+	};
+
+	setYear = (year) => {
+		this.year = year;
+	};
+
+	/**
+	 * Checks if a book has the same papers, sections, and pars as current.
+	 * @param {Book} book Another book to check.
+	 * @return {Error[]}
+	 */
+	checkBook = (book) => {
+		const errs = [];
+		this.papers.forEach(paper => {
+			const index = paper.paper_index;
+			const paper2 = book.papers.find(p => p.paper_index === index);
+			if (!paper2) {
+				errs.push(this.getError('book_paper_not_found', index));
+				return;
+			}
+			if (!Array.isArray(paper2.sections) || paper2.sections.length == 0) {
+				errs.push(this.getError('book_no_sections', index));
+				return;
+			}
+			paper.sections.forEach(section => {
+				const sref = section.section_ref;
+				const section2 = paper2.sections.find(s => s.section_ref === sref);
+				if (!section2) {
+					errs.push(this.getError('book_section_not_found', sref));
+					return;
+				}
+				if (!Array.isArray(section2.pars) || section2.pars.length == 0) {
+					errs.push(this.getError('book_section_no_pars', sref));
+					return;
+				}
+				section.pars.forEach(par => {
+					const pref = par.par_ref;
+					const par2 = section2.pars.find(p => p.par_ref == pref);
+					if (!par2) {
+						errs.push(this.getError('book_par_not_found', pref, index));
+						return;
+					}
+				});
+			})
+		});
+
+		return errs;
+	}
 
 	/**
 	 * Returns an array with three values [paper_id, section_id, par_id]
@@ -1257,8 +1310,9 @@ class Book {
 					//Add paragraphs
 					for (i = 0; i < pars.length; i++) {
 						p = pars[i];
-						//Special case of par with asterisks in document 144
-						if (paperIndex == 144 && $(p).html() === '* * *') {
+						//Special case of par with asterisks in document 134, 144
+						if ((paperIndex == 134 || paperIndex == 144) && 
+							$(p).html() === '* * *') {
 							pdata = {
 								par_ref: `${pId[0]}:${pId[1]}.${pId[2] + 1}`,
 								par_pageref: pdata.par_pageref,
@@ -1392,6 +1446,7 @@ class Book {
 
 	getAuthorsFromHTML = ($, config) => {
 		let i, node, result = [], index, author;
+		if (!config.authors) return result;
 		const nodes = config.authors.map(a => $(a.item));
 		const n = nodes.findIndex(nn => nn.length > 0);
 		if (n === -1) return result;
@@ -1569,7 +1624,10 @@ class Book {
 			const promises = books[0].papers.map(paper => {
 				const index = paper.paper_index;
 				const papers = books.map(b => {
-					return b.papers.find(p => p.paper_index === index);
+					const p2 = b.papers.find(p1 => p1.paper_index === index);
+					p2.isMaster = b.isMaster;
+					p2.year = b.year;
+					return p2;
 				});
 				const filePath = path.join(dirPath, `${index}.html`);
 				const p = this.writeFileToWikijs(filePath, papers, topicIndexEN,
@@ -1607,11 +1665,14 @@ class Book {
 		mapCatalog, paralells) => {
 		return new Promise((resolve, reject) => {
 			const multi = Array.isArray(papers);
-			const paper = (multi ? papers[0] : papers);
+			const masterIndex = (multi ? 
+				papers.findIndex(pp => pp.isMaster) : -1);
+			const paper = (multi ? papers[masterIndex] : papers);
 			const index = paper.paper_index;
 			const prev = index - 1;
 			const next = index + 1;
 			const cite = `<sup id="cite{0}"><a href="#fn{0}">[{0}]</a></sup>`;
+			const colors = ['blue', 'purple', 'teal', 'deep-orange'];
 			let error = null;
 
 			//Get all footnotes (paramony + paralells)
@@ -1662,22 +1723,57 @@ class Book {
 			body += this.audioToWikijs(index);
 
 			//Sections & paragraphs
-			let footnoteIndex = 0, fni;
+			let footnoteIndex = 0;
 			let rErr = [];
 			let topicErr = [];
+
+			// Add paper title (only for multi-version)
+			if (multi) {
+				body += '<div class="d-sm-flex">\r\n' +
+					papers.map((p, pi) => {
+						const plan = (pi === 0 ? 'en' : this.language);
+						const paperWord = Strings['bookPaper'][plan];
+						const pt = p.paper_title
+							.replace(paperWord, '').toUpperCase();
+						return (
+							'  <div class="pr-sm-5" style="flex-basis:100%">\r\n' +
+							`    <p class="text-h4 font-weight-bold"> ${pt} </p>\r\n` +
+							'  </div>\r\n'
+						);
+					}).join('') +
+					'</div>\r\n';
+			}
 			
 			paper.sections.forEach((section, sec_i) => {
 				let previousPar = null;
+				//Add of section title (or titles in multi-version)
 				const stitle = (section.section_title ? 
 					this.replaceSpecialChars(section.section_title)
 					.toUpperCase() : null);
 				const sind = section.section_index;
+				const hidden1 = (multi ? 
+					' style="visibility: hidden; height: 5px;"' : '');
+				
 				if (stitle) {
-					body += `<h2 id="p${sind}" class="toc-header">` +
+					body += `<h2 id="p${sind}" class="toc-header${(multi ? ' mt-0' : '')}"${hidden1}>` +
 						`<a href="#p${sind}" class="toc-anchor">¶</a> ${stitle} </h2>\r\n`;
 				} else {
-					body += `<span id="p${sind}"> ` +
+					body += `<span id="p${sind}"${(multi ? ' class="mt-0"' : '')}${hidden1}>` +
 						`<a href="#p${sind}" class="toc-anchor">¶</a> </span>\r\n`;
+				}
+
+				if (multi && stitle) {
+					body += '<div class="d-sm-flex">\r\n' +
+						papers.map(p => {
+							const st = p.sections[sec_i].section_title;
+							const st2 = this.replaceSpecialChars(st).toUpperCase();
+							return (
+								'  <div class="pr-sm-5" style="flex-basis:100%">\r\n' +
+								`    <p class="text-h5 font-weight-bold"> ${st2} </p>\r\n` +
+								'  </div>\r\n'
+							);
+						}).join('') +
+						'</div>\r\n';
 				}
 
 				section.pars.forEach((par, par_i) => {
@@ -1713,6 +1809,10 @@ class Book {
 						let pcontent = p.par_content;
 						let used, topics;
 						parHtml += `<p id="p${si}_${pi}">`;
+						if (multi) {
+							parHtml += `<sup class="white--text ${colors[ppi]} rounded px-1">` +
+								`<small>${papers[ppi].year}</small></sup>   `;
+						}
 						parHtml += `<sup><small>${p.par_ref}</small></sup>  `;
 						// Urantia Book has a paragraph with `*  *  *` so check here
 						pcontent = (pcontent === '*  *  *' ? pcontent :
@@ -1723,7 +1823,8 @@ class Book {
 							error_par_ref = p.par_ref;
 							error = rErr[0];
 						}
-						if (ppi === 0) {
+						// If par is from master UB or only one UB
+						if (masterIndex === ppi || !multi) {
 							//Topic index links
 							if (topicIndex) {
 								used = (previousPar ? previousPar.usedTopicNames : []);
@@ -1759,6 +1860,11 @@ class Book {
 											text + pcontent.substring(tindex);
 									}
 								});
+						}
+						//The first item is always in English
+						if (multi && ppi === 0) {
+							//Remove footnote marks (they are in master)
+							pcontent = pcontent.replace(/\{(\d+)\}/g, '');
 						}
 						parHtml += `${pcontent}</p>\r\n`;
 						return parHtml;
