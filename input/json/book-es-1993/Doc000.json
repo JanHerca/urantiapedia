@@ -927,7 +927,7 @@
                 {
                     "par_ref": "0:12.10",
                     "par_pageref": "16.7",
-                    "par_content": "*Agradecimiento*"
+                    "par_content": "*Reconocimiento*"
                 },
                 {
                     "par_ref": "0:12.11",
@@ -953,5 +953,6 @@
         }
     ],
     "footnotes": [],
-    "paper_title": "Prólogo"
+    "paper_title": "Prólogo",
+    "author": "Consejero Divino"
 }
