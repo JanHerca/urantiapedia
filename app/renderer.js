@@ -631,12 +631,10 @@ const handle_exeButtonClick = () => {
 		// Get paths to several UB versions +
 		// Reads all UB versions (*.json) +
 		// Checks book versions + Writes (Wiki.js *.html)
-		//TODO: CSS width here mmust be reset to 100% of screen (not 1000px)
-		//TODO: Add badges with year of version before par refs
-		//TODO: Add top checkboxes to show/hide versions
 		//TODO: Indexes multi-version
 		//TODO: Links between single and multi-version pages
 		//TODO: Create for all languages
+		//TODO: Add links to topics in english and master versions
 		paralells.read()
 			.then(() => {
 				const masterDir = path.join(jsonDir, `book-${lan}-footnotes`);

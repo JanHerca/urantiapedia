@@ -5,8 +5,10 @@ const HSep = require('./enums').HTMLSeparator;
 const BibleAbbs = require('./abb');
 const {extractStr, reflectPromise, extendArray, replaceTags, removeHTMLTags,
 	readFrom, replaceWords, getAllIndexes, strformat, getWikijsHeader,
-	getWikijsLinks, getWikijsBookLink, writeHTMLToWikijs, 
-	getBookTitle, getError} = require('./utils');
+	getWikijsLinks, getWikijsBookLink, getWikijsBookCopyright, writeHTMLToWikijs, 
+	getWikijsBookButtons, getWikijsBookTitles, getBookTitle, getError,
+	replaceSpecialChars, replaceInverseSpecialChars, getWikijsBookSectionTitles,
+	getWikijsBookParRef} = require('./utils');
 const fs = require('fs');
 const path = require('path');
 const cheerio = require('cheerio');
@@ -458,46 +460,6 @@ class Book {
 	};
 
 	/**
-	 * Converts a text in LaTeX format to HTML format, replacing special chars 
-	 * with same chars but adapted to Wiki formats.
-	 * @param {string} content Content.
-	 * @returns {string}
-	 */
-	replaceSpecialChars = (content) => {
-		return content
-			.replace(/(\\\"u)/g, 'ü')
-			.replace(/(---)/g, '—')
-			.replace(/`/g, '‘')
-			.replace(/'/g, '’')
-			.replace(/\\bigbreak/g, '<br/>')
-			.replace(/{\\textdegree}/g, '&deg;')
-			.replace(/{\\textordmasculine}/g, 'º')
-			.replace(/{\\textordfeminine}/g, 'ª')
-			.replace(/\\textsuperscript\{27\}/g, '<sup>27</sup>')
-			.replace(/\\textsuperscript\{3\}/g, '<sup>3</sup>')
-			.replace(/{\\textonequarter}/g, '&frac14;');
-	};
-	
-	/**
-	 * Returns a text in any format except LaTeX replacing special chars with  
-	 * the same chars but adapted to LaTeX format.
-	 * @param {string} content Content.
-	 * @returns {string}
-	 */
-	replaceInverseSpecialChars = (content) => {
-		return content
-			.replace(/(ü)/g, '\\\"u')
-			.replace(/(—)/g, '---')
-			.replace(/<br\/>/g, '\\bigbreak')
-			.replace(/&deg;/g, '{\\textdegree}')
-			.replace(/º/g, '{\\textordmasculine}')
-			.replace(/ª/g, '{\\textordfeminine}')
-			.replace(/<sup>27<\/sup>/g, '\\textsuperscript{27}')
-			.replace(/<sup>3<\/sup>/g, '\\textsuperscript{3}')
-			.replace(/&frac14;/g, '{\\textonequarter}');
-	};
-
-	/**
 	 * Clears any content read.
 	 */
 	clear = () => {
@@ -599,7 +561,7 @@ class Book {
 				if (!extract) {
 					errors.push(this.getError('book_no_section_start', baseName, i + 1));
 				} else {
-					extract = this.replaceSpecialChars(extract);
+					extract = replaceSpecialChars(extract);
 					//Special case of section 139:9 (that do not exists)
 					if (extract.startsWith('9. y 10.')) {
 						currentSectionIndex += 2;
@@ -696,7 +658,7 @@ class Book {
 				extendArray(errors, replaceErr.map(e => 
 					this.getError(e, baseName, lnum + 1)));
 			}
-			footnoteExtract = this.replaceSpecialChars(footnoteExtract);
+			footnoteExtract = replaceSpecialChars(footnoteExtract);
 			footnotes.push(footnoteExtract);
 		}
 		replaceErr = [];
@@ -706,7 +668,7 @@ class Book {
 			extendArray(errors, replaceErr.map(e => 
 				this.getError(e, baseName, lnum + 1)));
 		}
-		extract = this.replaceSpecialChars(extract);
+		extract = replaceSpecialChars(extract);
 		return extract;
 	};
 
@@ -772,7 +734,7 @@ class Book {
 						error = replaceErr[0];
 						return;
 					}
-					pcontent = this.replaceInverseSpecialChars(pcontent);
+					pcontent = replaceInverseSpecialChars(pcontent);
 					while (lfootnotes.length > 0 &&
 						footnoteIndex < lfootnotes.length &&
 						pcontent.indexOf(`{${footnoteIndex}}`) != -1) {
@@ -814,7 +776,7 @@ class Book {
 			let text, fs, replaceErr = [];
 			text = replaceTags(f, '*', '*', LSep.ITALIC_START, LSep.END, 
 				replaceErr);
-			text = this.replaceInverseSpecialChars(text);
+			text = replaceInverseSpecialChars(text);
 			if (replaceErr.length > 0) {
 				return 'FOOTNOTE ERROR';
 			}
@@ -1667,7 +1629,7 @@ class Book {
 			const multi = Array.isArray(papers);
 			const masterIndex = (multi ? 
 				papers.findIndex(pp => pp.isMaster) : -1);
-			const paper = (multi ? papers[masterIndex] : papers);
+			const paper = (multi ? papers[masterIndex] : papers[0]);
 			const index = paper.paper_index;
 			const prev = index - 1;
 			const next = index + 1;
@@ -1714,67 +1676,34 @@ class Book {
 			const nextLink = getWikijsBookLink(nextPaper, this.language, multi);
 			const indexLink = getWikijsBookLink('index', this.language, multi);
 			const title = getBookTitle(paper, this.language, true);
-
-			//Write header
-			header += getWikijsHeader(title, ['the urantia book—papers']);
-			header += '\r\n';
-			//Write top links
-			body += getWikijsLinks(prevLink, indexLink, nextLink);
-			body += this.audioToWikijs(index);
-
-			//Sections & paragraphs
 			let footnoteIndex = 0;
 			let rErr = [];
 			let topicErr = [];
 
-			// Add paper title (only for multi-version)
+			//Write header
+			header += getWikijsHeader(title, ['the urantia book—papers']);
+			header += '\r\n';
+			//Write copyright
+			body += getWikijsBookCopyright(papers, this.language);
+			//Write top links
+			body += getWikijsLinks(prevLink, indexLink, nextLink);
+			//Write top buttons
 			if (multi) {
-				body += '<div class="d-sm-flex">\r\n' +
-					papers.map((p, pi) => {
-						const plan = (pi === 0 ? 'en' : this.language);
-						const paperWord = Strings['bookPaper'][plan];
-						const pt = p.paper_title
-							.replace(paperWord, '').toUpperCase();
-						return (
-							'  <div class="pr-sm-5" style="flex-basis:100%">\r\n' +
-							`    <p class="text-h4 font-weight-bold"> ${pt} </p>\r\n` +
-							'  </div>\r\n'
-						);
-					}).join('') +
-					'</div>\r\n';
+				body += getWikijsBookButtons(papers, this.language);
 			}
-			
+			//Write audio controls (only in single-mode)
+			if (!multi) {
+				body += this.audioToWikijs(index);
+			}
+			// Write papers title (only for multi-version)
+			if (multi) {
+				body += getWikijsBookTitles(papers, this.language);
+			}
+			//Sections & paragraphs
 			paper.sections.forEach((section, sec_i) => {
 				let previousPar = null;
 				//Add of section title (or titles in multi-version)
-				const stitle = (section.section_title ? 
-					this.replaceSpecialChars(section.section_title)
-					.toUpperCase() : null);
-				const sind = section.section_index;
-				const hidden1 = (multi ? 
-					' style="visibility: hidden; height: 5px;"' : '');
-				
-				if (stitle) {
-					body += `<h2 id="p${sind}" class="toc-header${(multi ? ' mt-0' : '')}"${hidden1}>` +
-						`<a href="#p${sind}" class="toc-anchor">¶</a> ${stitle} </h2>\r\n`;
-				} else {
-					body += `<span id="p${sind}"${(multi ? ' class="mt-0"' : '')}${hidden1}>` +
-						`<a href="#p${sind}" class="toc-anchor">¶</a> </span>\r\n`;
-				}
-
-				if (multi && stitle) {
-					body += '<div class="d-sm-flex">\r\n' +
-						papers.map(p => {
-							const st = p.sections[sec_i].section_title;
-							const st2 = this.replaceSpecialChars(st).toUpperCase();
-							return (
-								'  <div class="pr-sm-5" style="flex-basis:100%">\r\n' +
-								`    <p class="text-h5 font-weight-bold"> ${st2} </p>\r\n` +
-								'  </div>\r\n'
-							);
-						}).join('') +
-						'</div>\r\n';
-				}
+				body += getWikijsBookSectionTitles(papers, sec_i);
 
 				section.pars.forEach((par, par_i) => {
 					const pars = (multi ? papers.map(p => {
@@ -1808,12 +1737,10 @@ class Book {
 						let parHtml = '';
 						let pcontent = p.par_content;
 						let used, topics;
-						parHtml += `<p id="p${si}_${pi}">`;
-						if (multi) {
-							parHtml += `<sup class="white--text ${colors[ppi]} rounded px-1">` +
-								`<small>${papers[ppi].year}</small></sup>   `;
-						}
-						parHtml += `<sup><small>${p.par_ref}</small></sup>  `;
+						parHtml += (!multi || ppi === masterIndex ?
+							`<p id="p${si}_${pi}">` : '<p>');
+						parHtml += getWikijsBookParRef(multi, p.par_ref, 
+							this.language, colors[ppi], papers[ppi].year);
 						// Urantia Book has a paragraph with `*  *  *` so check here
 						pcontent = (pcontent === '*  *  *' ? pcontent :
 							replaceTags(pcontent, '*', '*', '<i>', '</i>', rErr));
@@ -1874,7 +1801,7 @@ class Book {
 						body += '<div class="d-sm-flex">\r\n';
 						body += parHtmls.map((ph, n, arrp) => {
 							var cls = (n < arrp.length ? 
-								' class="pr-sm-5"' : '') +
+								` class="urantiapedia-column-${n+1} pr-sm-5"` : '') +
 								' style="flex-basis:100%"';
 							return `  <div${cls}>\r\n    ${ph}  </div>\r\n`;
 						}).join('');
@@ -2110,7 +2037,7 @@ class Book {
 
 				let part = null;
 				title = getBookTitle(paper, this.language, false);
-				title = this.replaceSpecialChars(title);
+				title = replaceSpecialChars(title);
 
 				if (i === 0) {
 					part = `<h2> ${part0} </h2>`;
@@ -2138,7 +2065,7 @@ class Book {
 				paper.sections.forEach(section => {
 					const j = section.section_index;
 					if (section.section_title) {
-						const stitle = this.replaceSpecialChars(section.section_title);
+						const stitle = replaceSpecialChars(section.section_title);
 						html2 += `  <li><a href="${path}#p${j}">${stitle}</a></li>\r\n`;
 					}
 				});
@@ -2257,7 +2184,7 @@ class Book {
 						.join(', ');
 	
 					title = getBookTitle(paper, this.language, false);
-					title = this.replaceSpecialChars(title);
+					title = replaceSpecialChars(title);
 					md += (i === 0 ? `### ${part0}\r\n\r\n` : '');
 					md += (i === 1 ? `### ${part1}\r\n\r\n` : '');
 					md += (i === 32 ? `### ${part2}\r\n\r\n` : '');
@@ -2359,7 +2286,7 @@ class Book {
 				`| ${docPrev} || [[${eldu} ${indexName}|${indexName}]] ||` +
 				` ${docNext}\r\n|}${end}`;
 
-			ptitle = this.replaceSpecialChars(paper.paper_title);
+			ptitle = replaceSpecialChars(paper.paper_title);
 			ptitle = ptitle.toUpperCase();
 			wiki += '<div class="noautonum">__TOC__</div>\r\n';
 			wiki += header;
@@ -2373,7 +2300,7 @@ class Book {
 				ref = section.section_ref.replace(':', '_');
 				anchor = `{{anchor|${abb}_${ref}}}`;
 				if (section.section_title) {
-					stitle = this.replaceSpecialChars(section.section_title);
+					stitle = replaceSpecialChars(section.section_title);
 					stitle = stitle.toUpperCase();
 					wiki += `== ${anchor} ${stitle} ==${end}`;
 				} else {
@@ -2512,7 +2439,7 @@ class Book {
 				}
 
 				let part = null;
-				title = this.replaceSpecialChars(title);
+				title = replaceSpecialChars(title);
 
 				if (i === 0) {
 					part = `== ${part0} ==`;
@@ -2536,7 +2463,7 @@ class Book {
 				paper.sections.forEach((section, n) => {
 					const ref = section.section_ref.replace(':', '_');
 					if (section.section_title) {
-						const stitle = this.replaceSpecialChars(section.section_title);
+						const stitle = replaceSpecialChars(section.section_title);
 						wiki2 += `* [[${lu}_${pabb}_${i}#${abb}_${ref}|${stitle}]]\r\n`;
 					}
 					if (n === paper.sections.length - 1) {

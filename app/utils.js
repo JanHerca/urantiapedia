@@ -172,6 +172,46 @@ exports.removeHTMLTags = function(content, initTag, endTag, removeContent, error
 };
 
 /**
+ * Converts a text in LaTeX format to HTML format, replacing special chars 
+ * with same chars but adapted to Wiki formats.
+ * @param {string} content Content.
+ * @returns {string}
+ */
+exports.replaceSpecialChars = (content) => {
+	return content
+		.replace(/(\\\"u)/g, 'ü')
+		.replace(/(---)/g, '—')
+		.replace(/`/g, '‘')
+		.replace(/'/g, '’')
+		.replace(/\\bigbreak/g, '<br/>')
+		.replace(/{\\textdegree}/g, '&deg;')
+		.replace(/{\\textordmasculine}/g, 'º')
+		.replace(/{\\textordfeminine}/g, 'ª')
+		.replace(/\\textsuperscript\{27\}/g, '<sup>27</sup>')
+		.replace(/\\textsuperscript\{3\}/g, '<sup>3</sup>')
+		.replace(/{\\textonequarter}/g, '&frac14;');
+};
+
+/**
+ * Returns a text in any format except LaTeX replacing special chars with  
+ * the same chars but adapted to LaTeX format.
+ * @param {string} content Content.
+ * @returns {string}
+ */
+exports.replaceInverseSpecialChars = (content) => {
+	return content
+		.replace(/(ü)/g, '\\\"u')
+		.replace(/(—)/g, '---')
+		.replace(/<br\/>/g, '\\bigbreak')
+		.replace(/&deg;/g, '{\\textdegree}')
+		.replace(/º/g, '{\\textordmasculine}')
+		.replace(/ª/g, '{\\textordfeminine}')
+		.replace(/<sup>27<\/sup>/g, '\\textsuperscript{27}')
+		.replace(/<sup>3<\/sup>/g, '\\textsuperscript{3}')
+		.replace(/&frac14;/g, '{\\textonequarter}');
+};
+
+/**
  * Returns a promise that reads a folder, search files in a format and executes
  * a given function with each file. If any file rejects, then all the promise
  * rejects.
@@ -490,6 +530,157 @@ exports.getWikijsLinks = (prevLink, indexLink, nextLink) => {
 		`  </table>\r\n` +
 		`</figure>\r\n`;
 	return links;
+};
+
+/**
+ * Gets the HTML fragment in Wiki.js for the copyright of the Urantia Book.
+ * @param {Object[]} papers The array of objects with the papers of each
+ * translation.
+ * @param {string} language Language code.
+ * @returns {string}
+ */
+exports.getWikijsBookCopyright = (papers, language) => {
+	const multi = Array.isArray(papers);
+	const masterYear = Strings.bookMasterYear[language];
+	const foundation = Strings.foundation[language];
+	const freedomain = Strings.freedomain[language];
+	const translations = Strings.translations[language];
+	const copyright = (language === 'en' ? freedomain : 
+		`© ${masterYear} ${foundation}`);
+	let html = '<p class="v-card v-sheet theme--light grey lighten-3 px-2 mb-4">';
+	if (multi) {
+		const years = papers.slice(1).map(p => p.year).join(', ');
+		html += `${freedomain}. <br>` +
+			`${translations} © ${years} ${foundation}`;
+	} else {
+		html += copyright;
+	}
+	html += '</p>\r\n';
+	return html;
+};
+
+/**
+ * Gets the HTML fragment in Wiki.js for the top buttons that switch the
+ * visibility of translations in a multi-version mode.
+ * @param {Object[]} papers The array of objects with the papers of each
+ * translation.
+ * @param {string} language Language code.
+ * @returns {string}
+ */
+exports.getWikijsBookButtons = (papers, language) => {
+	const colors = ['blue', 'purple', 'teal', 'deep-orange'];
+	let html = '<div class="d-sm-flex mt-2">\r\n';
+	html += papers.map((p, pi) => {
+		const lname = (pi === 0 ? Strings.enLanguage[language] :
+			Strings.ownLanguage[language]);
+		return (
+			'  <div class="pr-sm-5" style="flex-basis:100%">\r\n' +
+			`    <a id="urantiapedia-button-${pi+1}"` +
+				` class="v-btn title white--text ${colors[pi]} rounded-lg ` +
+				`py-1 px-2 d-flex align-center">\r\n` +
+			`      <i class="mdi mdi-radiobox-marked pr-2"></i>` +
+				`<span>${lname} ${p.year}</span>\r\n` +
+			'    </a>\r\n' +
+			'  </div>\r\n'
+		);
+	}).join('');
+	html += '</div>\r\n';
+	return html
+};
+
+/**
+ * Gets the HTML in Wiki.js for the titles of papers in a multi-version mode.
+ * @param {Object[]} papers The array of objects with the papers of each
+ * translation.
+ * @param {string} language Language code.
+ * @returns {string}
+ */
+exports.getWikijsBookTitles = (papers, language) => {
+	const html = '<div class="d-sm-flex">\r\n' +
+		papers.map((p, pi) => {
+			const lan = (pi === 0 ? 'en' : language);
+			const paperWord = Strings.bookPaper[lan];
+			const pt = p.paper_title.replace(paperWord, '').toUpperCase();
+			return (
+				`  <div class="urantiapedia-column-${pi+1} pr-sm-5" ` +
+					`style="flex-basis:100%">\r\n` +
+				`    <p class="text-h4 font-weight-bold"> ${pt} </p>\r\n` +
+				'  </div>\r\n'
+			);
+		}).join('') +
+		'</div>\r\n';
+	return html;
+};
+
+/**
+ * Gets the HTML in Wiki.js for the titles of sections in single-version or 
+ * multi-version mode.
+ * @param {(Object|Object[])} papers The array of objects with the papers of each
+ * translation or only one object to obtain the single version.
+ * @returns {string}
+ */
+exports.getWikijsBookSectionTitles = (papers, section_index) => {
+	let html = '';
+	const multi = Array.isArray(papers);
+	const masterIndex = (multi ? papers.findIndex(p => p.isMaster) : -1);
+	const paper = (multi ? papers[masterIndex] : papers[0]);
+	const section = paper.sections[section_index];
+	const stitle = (section.section_title ? 
+		exports.replaceSpecialChars(section.section_title).toUpperCase() : null);
+	const cls = (multi ? ' mt-0' : '');
+	const cls2 = (multi ? ' class="mt-0"' : '');
+	const hidden1 = (multi ? ' style="visibility: hidden; height: 5px;"' : '');
+	if (stitle) {
+		html += `<h2 id="p${section_index}" class="toc-header${cls}"${hidden1}>` +
+			`<a href="#p${section_index}" class="toc-anchor">¶</a> ${stitle} </h2>\r\n`;
+	} else {
+		html += `<span id="p${section_index}"${cls2}${hidden1}>` +
+			`<a href="#p${section_index}" class="toc-anchor">¶</a> </span>\r\n`;
+	}
+
+	if (multi && stitle) {
+		html += '<div class="d-sm-flex">\r\n' +
+			papers.map((p, pi) => {
+				const st = p.sections[section_index].section_title;
+				const st2 = exports.replaceSpecialChars(st).toUpperCase();
+				return (
+					`  <div class="urantiapedia-column-${pi+1} pr-sm-5" ` +
+						`style="flex-basis:100%">\r\n` +
+					`    <p class="text-h5 font-weight-bold"> ${st2} </p>\r\n` +
+					'  </div>\r\n'
+				);
+			}).join('') +
+			'</div>\r\n';
+	}
+
+	return html;
+};
+
+/**
+ * Gets the HTML fragment in Wiki.js with the reference that is added before
+ * each paragraph.
+ * @param {boolean} multi If HTML is for multi-version or not.
+ * @param {string} ref The reference of the 
+ * @param {string} language Language code.
+ * @param {?string} color Optional color.
+ * @param {?number} year Optional year.
+ * @returns {string}
+ */
+exports.getWikijsBookParRef = (multi, ref, language, color, year) => {
+	color = color || 'blue';
+	year = (year != null ? year : 1955);
+	let html = '';
+	if (multi) {
+		html += `<sup class="white--text ${color} rounded px-1">` +
+			`<small>${year}</small></sup>   `;
+	}
+	const vals = ref.replace(/[:.]/g,"|").split('|');
+	const suffix = (multi ? '_Multiple' : '');
+	const path = `/${language}/The_Urantia_Book${suffix}/` +
+		`${vals[0]}#p${vals[1]}_${vals[2]}`;
+	const link = `<a href="${path}">${ref}</a>`
+	html += `<sup><small>${link}</small></sup>  `;
+	return html;
 };
 
 /**
