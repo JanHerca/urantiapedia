@@ -176,11 +176,22 @@ const Processes = {
 		active: true,
 		desc: {
 			en: "THE URANTIA BOOK: Convert Urantia Book Index (JSON) to Wiki.js",
-			es: "EL LIBRO DE URANTIA: Convertir Indice de Libro de Urantia (JSON) a Wiki.js"
+			es: "EL LIBRO DE URANTIA: Convertir Indice del Libro de Urantia (JSON) a Wiki.js"
 		},
 		controls: ['dirJTextbox', 'dirHTextbox'],
 		paths: [['input', 'json', 'book-{0}-footnotes'], 
 			['output', 'wikijs', '{0}', 'The_Urantia_Book']]/*,
+		emptyLan: [null, 'en']*/
+	},
+	"BOOK_INDEX_MULTIPLE_JSON_TO_WIKIJS": {
+		active: true,
+		desc: {
+			en: "THE URANTIA BOOK: Convert Multiple Urantia Book Index (JSON) to Wiki.js",
+			es: "EL LIBRO DE URANTIA: Convertir Múltiples Indices del Libro de Urantia (JSON) a Wiki.js"
+		},
+		controls: ['dirJTextbox', 'dirHTextbox'],
+		paths: [['input', 'json'], 
+			['output', 'wikijs', '{0}', 'The_Urantia_Book_Multiple']]/*,
 		emptyLan: [null, 'en']*/
 	},
 	"BIBLE_TEX_BIBLEREF_TXT_TO_MEDIAWIKI": {

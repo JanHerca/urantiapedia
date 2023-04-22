@@ -6,12 +6,7 @@ window.addEventListener('load', function(event) {
   const keyCol = 'urantiapedia-column-';
   let visibility = [true, true, true, true];
   const upcontents = document.querySelector('.contents');
-
-  try {
-    if (upcontents && document.querySelector(`#${keyBtn}1`)) {
-      upcontents.classList.add('urantiapedia-full-width');
-    }
-  } catch (er) {}
+  const multiVersion = (upcontents && document.querySelector(`#${keyBtn}1`));
 
   function writeCookie(key, value) {
     const date = new Date();
@@ -51,36 +46,41 @@ window.addEventListener('load', function(event) {
     }
   };
 
-  try {
-    const cookie = getCookie('visibility');
-    if (cookie && cookie.split(',').length === 4) {
-      visibility = cookie.split(',').map(v => v == 'false' ? false : true);
-      if (visibility.indexOf(true) === -1) visibility = [true, true, true, true];
-      visibility.forEach((visible, n) => setVisible(n, visible));
-    }
-  } catch (er) {}
-
-  [1,2,3,4].forEach(n => {
-    const btn = document.querySelector(`#${keyBtn}${n}`);
-    if (!btn) return;
-    btn.addEventListener('click', (evt) => {
+  if (multiVersion) {
       try {
-        const target = (evt.target.id.startsWith(keyBtn) ? evt.target : 
-          (evt.target.parentNode.id.startsWith(keyBtn) ? evt.target.parentNode : null)
-        );
-        if (!target) return;
-        const index = parseInt(target.id.split('-')[2]);
-        if (isNaN(index)) return;
-        const nodes = document.querySelectorAll(`.contents div.${keyCol}${index}`);
-        const onlyOne = (visibility.filter(v=> v == true).length === 1);
-        if (visibility[index - 1] && onlyOne) return;
-        visibility[index - 1] = !visibility[index - 1];
-        setVisible(index - 1, visibility[index - 1]);
-        writeCookie('visibility', visibility.join(','));
-        evt.stopPropagation();
-        evt.preventDefault();
+        upcontents.classList.add('urantiapedia-full-width');
+
+        const cookie = getCookie('visibility');
+        if (cookie && cookie.split(',').length === 4) {
+          visibility = cookie.split(',').map(v => v == 'false' ? false : true);
+          if (visibility.indexOf(true) === -1) visibility = [true, true, true, true];
+          visibility.forEach((visible, n) => setVisible(n, visible));
+        }
       } catch (er) {}
-    });
-  });
+
+      [1,2,3,4].forEach(n => {
+        const btn = document.querySelector(`#${keyBtn}${n}`);
+        if (!btn) return;
+        btn.addEventListener('click', (evt) => {
+          try {
+            const target = (evt.target.id.startsWith(keyBtn) ? evt.target : 
+              (evt.target.parentNode.id.startsWith(keyBtn) ? evt.target.parentNode : null)
+            );
+            if (!target) return;
+            const index = parseInt(target.id.split('-')[2]);
+            if (isNaN(index)) return;
+            const nodes = document.querySelectorAll(`.contents div.${keyCol}${index}`);
+            const onlyOne = (visibility.filter(v=> v == true).length === 1);
+            if (visibility[index - 1] && onlyOne) return;
+            visibility[index - 1] = !visibility[index - 1];
+            setVisible(index - 1, visibility[index - 1]);
+            writeCookie('visibility', visibility.join(','));
+            evt.stopPropagation();
+            evt.preventDefault();
+          } catch (er) {}
+        });
+      });
+    }
+
 });
 </script>

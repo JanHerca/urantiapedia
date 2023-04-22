@@ -4,8 +4,11 @@ Injecting too much CSS code will result in poor page load performance!
 CSS will automatically be minified. */
 
 .v-main .contents:not(.urantiapedia-full-width) {
-    max-width: 1000px
+    max-width: 1000px;
 }
+.v-main .contents img.is-imagemap {
+    max-width: none;
+  }
 .v-main .contents figure.urantiapedia {
     display: table;
 }
@@ -23,22 +26,23 @@ CSS will automatically be minified. */
 .v-list--dense .v-list-item.v-list-item--link {
     min-height: 30px;
 }
-.v-list-item--link .v-list-item__subtitle, .v-list-item--link .v-list-item__title {
+.v-list-item--link .v-list-item__subtitle, 
+.v-list-item--link .v-list-item__title {
     overflow: auto;
     text-overflow: initial;
     white-space: inherit;
 }
 .v-main .contents figure.chapter-navigator table {
-    border-bottom: 0.2em solid #c8ccd1;
+    /* border-bottom: 0.2em solid #c8ccd1;
     border-left: 1px solid #c8ccd1;
     border-right: 1px solid #c8ccd1;
-    border-top: 1px solid #c8ccd1;
+    border-top: 1px solid #c8ccd1; */
     table-layout: fixed; 
     width: 100%;
 }
 .v-main .contents figure.chapter-navigator table tbody tr td {
     padding: 0.4em 0.5em;
-    border: 1px solid #c8ccd1;
+    border: none;
     width:33%;
 }
 .v-main .contents figure.chapter-navigator table tbody tr td:nth-child(2) {

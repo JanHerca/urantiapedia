@@ -631,10 +631,9 @@ const handle_exeButtonClick = () => {
 		// Get paths to several UB versions +
 		// Reads all UB versions (*.json) +
 		// Checks book versions + Writes (Wiki.js *.html)
-		//TODO: Indexes multi-version
-		//TODO: Links between single and multi-version pages
-		//TODO: Create for all languages
 		//TODO: Add links to topics in english and master versions
+		//FIXME: Anchors to pars must be in "overflow:hidden;height:0" divs to allow links work
+		// or better idea is to put id to <div class="d-sm-flex">
 		paralells.read()
 			.then(() => {
 				const masterDir = path.join(jsonDir, `book-${lan}-footnotes`);
@@ -658,9 +657,9 @@ const handle_exeButtonClick = () => {
 					folderBook.setLanguage(folderLan);
 					if (f.endsWith(`book-${lan}-footnotes`)) {
 						folderBook.setAsMaster();
-						folderBook.setYear(Strings['bookMasterYear'][lan]);
+						folderBook.setYear(Strings.bookMasterYear[lan]);
 					} else if (f.endsWith('book-en-footnotes')) {
-						folderBook.setYear(Strings['bookMasterYear']['en']);
+						folderBook.setYear(Strings.bookMasterYear.en);
 					} else {
 						folderBook.setYear(f.substring(f.lastIndexOf('-')+1));
 					}
@@ -726,6 +725,51 @@ const handle_exeButtonClick = () => {
 		// Writes Indexes (*.html)
 		book.readFromJSON(jsonDir)
 			.then(() => book.writeIndexToWikijs(htmlDir))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
+	} else if (process === 'BOOK_INDEX_MULTIPLE_JSON_TO_WIKIJS') {
+		// Reads Master UB (*.json) => 
+		// Writes Indexes (*.html)
+		const masterDir = path.join(jsonDir, `book-${lan}-footnotes`);
+		book.readFromJSON(masterDir)
+			.then(() => getPathsOfBookVersions(jsonDir))
+			.then((folders) => {
+				const books = folders.map((f, i) => {
+					const folderLan = (i === 0 ? 'en' : lan);
+					const folderBook = new Book();
+					folderBook.setLanguage(folderLan);
+					if (f.endsWith(`book-${lan}-footnotes`)) {
+						folderBook.setAsMaster();
+						folderBook.setYear(Strings.bookMasterYear[lan]);
+					} else if (f.endsWith('book-en-footnotes')) {
+						folderBook.setYear(Strings.bookMasterYear.en);
+					} else {
+						folderBook.setYear(f.substring(f.lastIndexOf('-')+1));
+					}
+					return folderBook;
+				});
+				const promises = books.map((b, i) => {
+					return b.readFromJSON(folders[i]);
+				});
+				return Promise.all(promises).then(() => {
+					return books;
+				});
+			})
+			.then(books => {
+				//Checks
+				const master = books.find(b => b.isMaster);
+				const bookErrors = books
+					.map(b => {
+						if (b.isMaster) return null;
+						const bErrs = master.checkBook(b);
+						if (bErrs.length === 0) return null;
+						return bErrs;
+					});
+				const errs = bookErrors.find(e => e != null);
+				if (errs) return Promise.reject(errs)
+				//No errors, proceed
+				return book.writeIndexToWikijs(htmlDir, books);
+			})
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BIBLE_TEX_BIBLEREF_TXT_TO_MEDIAWIKI') {

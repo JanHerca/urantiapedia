@@ -522,9 +522,15 @@ exports.getWikijsLinks = (prevLink, indexLink, nextLink) => {
 		`  <table>\r\n` +
 		`    <tbody>\r\n` +
 		`      <tr>\r\n` +
-		`        <td>${prevLink}</td>\r\n` +
-		`        <td>${indexLink}</td>\r\n` +
-		`        <td>${nextLink}</td>\r\n` +
+		`        <td>\r\n` +
+				`${prevLink}` +
+		`        </td>\r\n` +
+		`        <td>\r\n` +
+				`${indexLink}` +
+		`        </td>\r\n` +
+		`        <td>\r\n` +
+				`${nextLink}` +
+		`        </td>\r\n` +
 		`      </tr>\r\n` +
 		`    </tbody>\r\n` +
 		`  </table>\r\n` +
@@ -534,13 +540,13 @@ exports.getWikijsLinks = (prevLink, indexLink, nextLink) => {
 
 /**
  * Gets the HTML fragment in Wiki.js for the copyright of the Urantia Book.
- * @param {Object[]} papers The array of objects with the papers of each
- * translation.
+ * @param {(number[]|number)} years The array of years of each translation or 
+ * only one year if copyright is for single translation.
  * @param {string} language Language code.
  * @returns {string}
  */
-exports.getWikijsBookCopyright = (papers, language) => {
-	const multi = Array.isArray(papers);
+exports.getWikijsBookCopyright = (years, language) => {
+	const multi = Array.isArray(years);
 	const masterYear = Strings.bookMasterYear[language];
 	const foundation = Strings.foundation[language];
 	const freedomain = Strings.freedomain[language];
@@ -549,9 +555,9 @@ exports.getWikijsBookCopyright = (papers, language) => {
 		`© ${masterYear} ${foundation}`);
 	let html = '<p class="v-card v-sheet theme--light grey lighten-3 px-2 mb-4">';
 	if (multi) {
-		const years = papers.slice(1).map(p => p.year).join(', ');
+		const strYears = years.slice(1).join(', ');
 		html += `${freedomain}. <br>` +
-			`${translations} © ${years} ${foundation}`;
+			`${translations} © ${strYears} ${foundation}`;
 	} else {
 		html += copyright;
 	}
@@ -709,30 +715,98 @@ exports.getWikijsBookRefLink = (book_ref, language) => {
 };
 
 /**
- * Gets the HTML fragment in Wiki.js for a paper of The Urantia Book.
- * If paper = 'index' returns the Index page link.
- * @param {(Object|string)} paper Paper object or 'index'.
+ * Gets the HTML fragment in Wiki.js for a top header link to a paper of 
+ * The Urantia Book.
+ * @param {(Object|null)} paper Paper object or null.
  * @param {string} language Language code.
  * @param {boolean} isMultiple If it is The Urantia Book shown as multiple
  * versions or not.
+ * @param {(boolean|null)} isPrev If the link is for a previous paper (true),
+ * a next paper (false) or other (null).
  * @return {string}
  */
-exports.getWikijsBookLink = (paper, language, isMultiple) => {
+exports.getWikijsBookLink = (paper, language, isMultiple, isPrev) => {
 	if (!paper) {
 		return ' ';
 	}
+	const i = paper.paper_index;
+	const isIndex = (isPrev === null);
 	const multiple = isMultiple ? '_Multiple' : '';
 	const bookName = Strings.bookName.en.replace(/ /g,"_");
-	const lan = (language === 'en' ? '' : '/' + language);
-	const path = `${lan}/${bookName}${multiple}`;
-	const indexName = Strings['bookIndexName'][language];
-	const indexNameEN = Strings['bookIndexName'].en;
-	if (paper === 'index') {
-		return `<a href="${path}/${indexNameEN}">${indexName}</a>`;
+	const path = `/${language}/${bookName}${multiple}`;
+	
+	let html = '';
+	if (isIndex) {
+		const indexName = Strings.bookIndexName[language];
+		const indexNameEN = Strings.bookIndexName.en;
+		const path2 = (isMultiple ? `/${language}/${bookName}/${i}` :
+			`/${language}/${bookName}${multiple}/${i}`);
+		const icon = (isMultiple ? 'mdi-view-array' : 'mdi-view-parallel');
+		const key = (isMultiple ? 'bookSingleVersion' : 'bookMultipleVersion');
+		const text2 = Strings[key][language];
+		html += (
+			`        <a href="${path}/${indexNameEN}">\r\n` +
+			`          <span class="mdi mdi-book-open-variant"></span>` +
+				`<span class="pl-2">${indexName}</sp<n>\r\n` +
+			`        </a>\r\n`
+		);
+		if (language != 'en') {
+			html += '        <br>\r\n';
+			html += (
+				`        <a href="${path2}">\r\n` +
+				`          <span class="mdi ${icon}"></span>` +
+					`<span class="pl-2">${text2}</span>\r\n` +
+				`        </a>\r\n`
+			);
+		}
+		return html;
+	} else {
+		const text = exports.getBookTitle(paper, language);
+		if (isPrev === true) {
+			html += (
+				`        <a href="${path}/${i}">\r\n` +
+				`          <span class="mdi mdi-arrow-left-drop-circle"></span>` +
+					`<span class="pl-2">${text}</span>\r\n` +
+				`        </a>\r\n`
+			);
+		} else if (isPrev === false) {
+			html += (
+				`        <a href="${path}/${i}">\r\n` +
+				`          <span class="pr-2">${text}</span>` +
+					`<span class="mdi mdi-arrow-right-drop-circle"></span>\r\n` +
+				`        </a>\r\n`
+			);
+		}
 	}
-	const i = paper.paper_index;
-	const text = exports.getBookTitle(paper, language);
-	return `<a href="${path}/${i}">${text}</a>`;
+	return html;
+};
+
+/**
+ * Gets the HTML fragment in Wiki.js top header link in index of The Urantia Book.
+ * @param {string} language Language code.
+ * @param {boolean} isMultiple If it is The Urantia Book shown as multiple
+ * versions or not.
+ * @param {boolean} isExtended If index is extended one.
+ * @return {string}
+ */
+exports.getWikijsBookIndexLink = (language, isMultiple, isExtended) => {
+	let html = '';
+	const bookName = Strings.bookName.en.replace(/ /g,"_");
+	const multiple = (isMultiple ? '' : '_Multiple');
+	const icon = (isMultiple ? 'mdi-view-array' : 'mdi-view-parallel');
+	const key = (isMultiple ? 'bookSingleVersion' : 'bookMultipleVersion');
+	const suffix = (isExtended ? '_Extended' : '');
+	const path2 = `${lan}/${bookName}${multiple}/Index${suffix}`;
+	const text2 = Strings[key][language];
+	if (language != 'en') {
+		html += (
+			`        <a href="${path2}">\r\n` +
+			`          <span class="mdi ${icon}"></span>` +
+				`<span class="pl-2">${text2}</span>\r\n` +
+			`        </a>\r\n`
+		);
+	}
+	return html;
 };
 
 /**

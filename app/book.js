@@ -8,7 +8,7 @@ const {extractStr, reflectPromise, extendArray, replaceTags, removeHTMLTags,
 	getWikijsLinks, getWikijsBookLink, getWikijsBookCopyright, writeHTMLToWikijs, 
 	getWikijsBookButtons, getWikijsBookTitles, getBookTitle, getError,
 	replaceSpecialChars, replaceInverseSpecialChars, getWikijsBookSectionTitles,
-	getWikijsBookParRef} = require('./utils');
+	getWikijsBookParRef, getWikijsBookIndexLink} = require('./utils');
 const fs = require('fs');
 const path = require('path');
 const cheerio = require('cheerio');
@@ -1615,7 +1615,7 @@ class Book {
 	 * @param {string} filePath Output file.
 	 * @param {(Object|Object[])} papers JSON object with the paper or array of
 	 * JSON objects with paper in several versions. The first one must be the
-	 * master version, which will have links to footnotes.
+	 * english version, and one must be the master version, with links to footnotes.
 	 * @param {?TopicIndex} topicIndex An optional Topic Index.
 	 * @param {?ImageCatalog} imageCatalog Image catalog.
 	 * @param {?MapCatalog} mapCatalog Map catalog.
@@ -1627,6 +1627,8 @@ class Book {
 		mapCatalog, paralells) => {
 		return new Promise((resolve, reject) => {
 			const multi = Array.isArray(papers);
+			const years = (multi ? papers.map(p=>p.year) : 
+				Strings.bookMasterYear[this.language]);
 			const masterIndex = (multi ? 
 				papers.findIndex(pp => pp.isMaster) : -1);
 			const paper = (multi ? papers[masterIndex] : papers[0]);
@@ -1672,9 +1674,9 @@ class Book {
 			let error_par_ref;
 			const prevPaper = this.papers.find(p=>p.paper_index === prev);
 			const nextPaper = this.papers.find(p=>p.paper_index === next);
-			const prevLink = getWikijsBookLink(prevPaper, this.language, multi);
-			const nextLink = getWikijsBookLink(nextPaper, this.language, multi);
-			const indexLink = getWikijsBookLink('index', this.language, multi);
+			const prevLink = getWikijsBookLink(prevPaper, this.language, multi, true);
+			const nextLink = getWikijsBookLink(nextPaper, this.language, multi, false);
+			const indexLink = getWikijsBookLink(paper, this.language, multi, null);
 			const title = getBookTitle(paper, this.language, true);
 			let footnoteIndex = 0;
 			let rErr = [];
@@ -1684,7 +1686,7 @@ class Book {
 			header += getWikijsHeader(title, ['the urantia book—papers']);
 			header += '\r\n';
 			//Write copyright
-			body += getWikijsBookCopyright(papers, this.language);
+			body += getWikijsBookCopyright(years, this.language);
 			//Write top links
 			body += getWikijsLinks(prevLink, indexLink, nextLink);
 			//Write top buttons
@@ -1737,8 +1739,7 @@ class Book {
 						let parHtml = '';
 						let pcontent = p.par_content;
 						let used, topics;
-						parHtml += (!multi || ppi === masterIndex ?
-							`<p id="p${si}_${pi}">` : '<p>');
+						parHtml += (multi ? '<p>' : `<p id="p${si}_${pi}">`);
 						parHtml += getWikijsBookParRef(multi, p.par_ref, 
 							this.language, colors[ppi], papers[ppi].year);
 						// Urantia Book has a paragraph with `*  *  *` so check here
@@ -1798,7 +1799,7 @@ class Book {
 					});
 
 					if (multi) {
-						body += '<div class="d-sm-flex">\r\n';
+						body += `<div id="p${si}_${pi}" class="d-sm-flex">\r\n`;
 						body += parHtmls.map((ph, n, arrp) => {
 							var cls = (n < arrp.length ? 
 								` class="urantiapedia-column-${n+1} pr-sm-5"` : '') +
@@ -1846,7 +1847,7 @@ class Book {
 			}
 			//Only write if content is new or file not exists
 			//Update date created avoiding a new date for it
-			resolve(null);
+			// resolve(null);
 			writeHTMLToWikijs(filePath, header, body)
 				.then(resolve, reject);
 		});
@@ -1996,31 +1997,71 @@ class Book {
 	 * Writes index pages of `The Urantia Book` in Wiki.js format.
 	 * The name of resulting files are `Index.html` and `Index_Extended.html`.
 	 * @param {string} dirPath Folder path.
+	 * @param {?Book[]} papers Optional array of other Books with the papers
+	 * in several versions. The first one must be the english version, and one
+	 * must be the master version, with links to footnotes.
 	 * @return {Promise} Promise that returns null in resolve function or an
 	 * error in reject function.
 	 */
-	writeIndexToWikijs = (dirPath) => {
+	writeIndexToWikijs = (dirPath, books) => {
 		return new Promise((resolve, reject) => {
-			const ub = Strings['bookName'].en.replace(/\s/g, '_');
-			const part0 = Strings['bookPart0'][this.language].toUpperCase();
-			const part1 = Strings['bookPart1'][this.language].toUpperCase();
-			const part2 = Strings['bookPart2'][this.language].toUpperCase();
-			const part3 = Strings['bookPart3'][this.language].toUpperCase();
-			const part4 = Strings['bookPart4'][this.language].toUpperCase();
+			const lan = this.language;
+			const years = (books ? books.map(b => b.year) : 
+				Strings.bookMasterYear[this.language]);
+			const ub = Strings.bookName.en.replace(/\s/g, '_');
+			const iparts = [0, 1, 2, 3, 4];
+			const idocs = [0, 1, 32, 57, 120];
+			const tparts = iparts.map(i => {
+				return Strings[`bookPart${i}`][lan].toUpperCase();
+			});
+			const dparts = iparts.map(i => {
+				if (i === 0) return null;
+				return Strings[`bookPart${i}Desc`][lan]
+					.split('|').map(d=>d.trim());
+			});
 			const filePath1 = path.join(dirPath, 'Index.html');
 			const filePath2 = path.join(dirPath, 'Index_Extended.html');
-			let html1 = '';
-			let html2 = '';
+			const title1 = Strings.bookName[this.language] + ' — ' +
+				Strings.bookIndexName[this.language];
+			const title2 = Strings.bookName[this.language] + ' — ' +
+				Strings.bookExtIndexName[this.language];
+			const copyright = getWikijsBookCopyright(years, this.language);
+			const indexLink1 = getWikijsBookIndexLink(this.language, 
+				(books != null), false);
+			const indexLink2 = getWikijsBookIndexLink(this.language, 
+				(books != null), true);
+			let header1 = '';
+			let header2 = '';
+			let body1 = '';
+			let body2 = '';
 			let errs = [];
 
 			let papers = this.papers.slice().sort((a, b) => 
 				a.paper_index - b.paper_index);
 
+			//Write header
+			header1 += getWikijsHeader(title1, ['the urantia book—papers']);
+			header1 += '\r\n';
+			header2 += getWikijsHeader(title2, ['the urantia book—papers']);
+			header2 += '\r\n';
+
+			//Write copyright
+			body1 += copyright;
+			body2 += copyright;
+
+			//Write top links
+			if (this.language != 'en') {
+				body1 += getWikijsLinks('', indexLink1, '');
+				body2 += getWikijsLinks('', indexLink2, '');
+			}
+
 			papers.forEach(paper => {
 				const i = paper.paper_index;
+				const ipart = idocs.indexOf(i);
 				let title = paper.paper_title;
 				const path = `/${this.language}/${ub}/${i}`;
 				let error = null;
+				let descs = null;
 
 				if (!Array.isArray(paper.sections)) {
 					error = 'book_no_sections';
@@ -2035,58 +2076,56 @@ class Book {
 					return;
 				}
 
-				let part = null;
 				title = getBookTitle(paper, this.language, false);
 				title = replaceSpecialChars(title);
-
-				if (i === 0) {
-					part = `<h2> ${part0} </h2>`;
-				} else if (i === 1) {
-					part = `<h2> ${part1} </h2>`;
-				} else if (i === 32) {
-					part = `<h2> ${part2} </h2>`;
-				} else if (i === 57) {
-					part = `<h2> ${part3} </h2>`;
-				} else if (i === 120) {
-					part = `<h2> ${part4} </h2>`;
+				if (ipart != -1) {
+					body1 += `<h2> ${tparts[ipart]} </h2>\r\n`;
+					if (dparts[ipart]) {
+						descs = dparts[ipart].map((d, n) => {
+							return `<p id="p${ipart}_${n+1}">${d}</p>\r\n`;
+						}).join('');
+					}
+					if (descs) {
+						body1 += descs;
+					}
+					body1 += '<ul>\r\n';
+					body2 += `<h2> ${tparts[ipart]} </h2>\r\n`;
+					if (descs) {
+						body2 += descs;
+					}
 				}
-				if (part) {
-					html1 += `${part}\r\n`;
-					html1 += '<ul>\r\n';
-					html2 += `${part}\r\n`;
-				}
 
-				html1 += `  <li><a href="${path}">${title}</a></li>\r\n`;
+				body1 += `  <li><a href="${path}">${title}</a></li>\r\n`;
 				if (i === 0 || i === 31 || i === 56 || i === 119 || i === 196) {
-					html1 += '</ul>\r\n';
+					body1 += '</ul>\r\n';
 				}
-				html2 += `<h3> ${title} </h3>\r\n`;
-				html2 += '<ul>\r\n';
+				body2 += `<h3> ${title} </h3>\r\n`;
+				body2 += '<ul>\r\n';
 				paper.sections.forEach(section => {
 					const j = section.section_index;
 					if (section.section_title) {
 						const stitle = replaceSpecialChars(section.section_title);
-						html2 += `  <li><a href="${path}#p${j}">${stitle}</a></li>\r\n`;
+						body2 += `  <li><a href="${path}#p${j}">${stitle}</a></li>\r\n`;
 					}
 				});
-				html2 += '</ul>\r\n';
+				body2 += '</ul>\r\n';
 			});
+
+			//Write bottom links
+			if (this.language != 'en') {
+				body1 += '<br>\r\n';
+				body1 += getWikijsLinks('', indexLink1, '');
+				body2 += '<br>\r\n';
+				body2 += getWikijsLinks('', indexLink2, '');
+			}
 
 			if (errs.length > 0) {
 				reject(errs);
 				return;
 			}
 
-			const p1 = new Promise((resolve1, reject1) => {
-				fs.writeFile(filePath1, html1, 'utf-8', (err) => {
-					resolve1(err ? {error: err} : {value: null});
-				});
-			});
-			const p2 = new Promise((resolve2, reject2) => {
-				fs.writeFile(filePath2, html2, 'utf-8', (err) => {
-					resolve2(err ? {error: err} : {value: null});
-				});
-			});
+			const p1 = reflectPromise(writeHTMLToWikijs(filePath1, header1, body1));
+			const p2 = reflectPromise(writeHTMLToWikijs(filePath2, header2, body2));
 
 			Promise.all([p1,p2])
 				.then((results) => {
