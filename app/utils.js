@@ -540,26 +540,23 @@ exports.getWikijsLinks = (prevLink, indexLink, nextLink) => {
 
 /**
  * Gets the HTML fragment in Wiki.js for the copyright of the Urantia Book.
- * @param {(number[]|number)} years The array of years of each translation or 
- * only one year if copyright is for single translation.
+ * @param {number[]} years The array of years of each translation.
  * @param {string} language Language code.
  * @returns {string}
  */
 exports.getWikijsBookCopyright = (years, language) => {
-	const multi = Array.isArray(years);
+	const multi = years.length > 1;
 	const masterYear = Strings.bookMasterYear[language];
 	const foundation = Strings.foundation[language];
 	const freedomain = Strings.freedomain[language];
 	const translations = Strings.translations[language];
-	const copyright = (language === 'en' ? freedomain : 
-		`© ${masterYear} ${foundation}`);
 	let html = '<p class="v-card v-sheet theme--light grey lighten-3 px-2 mb-4">';
 	if (multi) {
 		const strYears = years.slice(1).join(', ');
 		html += `${freedomain}. <br>` +
 			`${translations} © ${strYears} ${foundation}`;
 	} else {
-		html += copyright;
+		html += (language === 'en' ? freedomain : `© ${masterYear} ${foundation}`);
 	}
 	html += '</p>\r\n';
 	return html;
@@ -568,30 +565,29 @@ exports.getWikijsBookCopyright = (years, language) => {
 /**
  * Gets the HTML fragment in Wiki.js for the top buttons that switch the
  * visibility of translations in a multi-version mode.
- * @param {Object[]} papers The array of objects with the papers of each
- * translation.
+ * @param {number[]} years The array of years of each translation.
  * @param {string} language Language code.
  * @returns {string}
  */
-exports.getWikijsBookButtons = (papers, language) => {
+exports.getWikijsBookButtons = (years, language) => {
 	const colors = ['blue', 'purple', 'teal', 'deep-orange'];
 	let html = '<div class="d-sm-flex mt-2">\r\n';
-	html += papers.map((p, pi) => {
-		const lname = (pi === 0 ? Strings.enLanguage[language] :
+	html += years.map((year, i) => {
+		const lname = (i === 0 ? Strings.enLanguage[language] :
 			Strings.ownLanguage[language]);
 		return (
 			'  <div class="pr-sm-5" style="flex-basis:100%">\r\n' +
-			`    <a id="urantiapedia-button-${pi+1}"` +
-				` class="v-btn title white--text ${colors[pi]} rounded-lg ` +
+			`    <a id="urantiapedia-button-${i+1}"` +
+				` class="v-btn title white--text ${colors[i]} rounded-lg ` +
 				`py-1 px-2 d-flex align-center">\r\n` +
 			`      <i class="mdi mdi-radiobox-marked pr-2"></i>` +
-				`<span>${lname} ${p.year}</span>\r\n` +
+				`<span>${lname} ${year}</span>\r\n` +
 			'    </a>\r\n' +
 			'  </div>\r\n'
 		);
 	}).join('');
 	html += '</div>\r\n';
-	return html
+	return html;
 };
 
 /**
@@ -681,7 +677,7 @@ exports.getWikijsBookParRef = (multi, ref, language, color, year) => {
 			`<small>${year}</small></sup>   `;
 	}
 	const vals = ref.replace(/[:.]/g,"|").split('|');
-	const suffix = (multi ? '_Multiple' : '');
+	const suffix = (multi && language != 'en' ? '_Multiple' : '');
 	const path = `/${language}/The_Urantia_Book${suffix}/` +
 		`${vals[0]}#p${vals[1]}_${vals[2]}`;
 	const link = `<a href="${path}">${ref}</a>`
@@ -761,7 +757,7 @@ exports.getWikijsBookLink = (paper, language, isMultiple, isPrev) => {
 		}
 		return html;
 	} else {
-		const text = exports.getBookTitle(paper, language);
+		const text = exports.getBookPaperTitle(paper, language);
 		if (isPrev === true) {
 			html += (
 				`        <a href="${path}/${i}">\r\n` +
@@ -796,7 +792,7 @@ exports.getWikijsBookIndexLink = (language, isMultiple, isExtended) => {
 	const icon = (isMultiple ? 'mdi-view-array' : 'mdi-view-parallel');
 	const key = (isMultiple ? 'bookSingleVersion' : 'bookMultipleVersion');
 	const suffix = (isExtended ? '_Extended' : '');
-	const path2 = `${lan}/${bookName}${multiple}/Index${suffix}`;
+	const path2 = `/${language}/${bookName}${multiple}/Index${suffix}`;
 	const text2 = Strings[key][language];
 	if (language != 'en') {
 		html += (
@@ -810,13 +806,168 @@ exports.getWikijsBookIndexLink = (language, isMultiple, isExtended) => {
 };
 
 /**
+ * Gets the HTML fragment in Wiki.js for the part title in index of The Urantia Book.
+ * @param {Object[]} data Array of objects with needed data.
+ * @param {number} index Index of the part.
+ * @param {boolean} isMultiple If it is The Urantia Book shown as multiple
+ * versions or not.
+ * @return {string}
+ */
+exports.getWikijsBookIndexPartTitle = (data, index, isMultiple) => {
+	let html = '';
+	if (isMultiple) {
+		const mtitle = data.find(d => d.isMaster).parts_titles[index];
+		html += `<h2 class="toc-header mt-0" style="visibility: hidden; height: 5px;">${mtitle}</h2>\r\n`;
+		html += (
+			'<div class="d-sm-flex">\r\n' +
+			data.map((d, c) => {
+				const title = d.parts_titles[index];
+				return (
+					`  <div class="urantiapedia-column-${c+1} pr-sm-5" ` +
+						`style="flex-basis:100%">\r\n` +
+					`    <p class="text-h5 font-weight-bold"> ${title} </p>\r\n` +
+					`  </div>\r\n`
+				);
+			}).join('') +
+			'</div>\r\n'
+		);
+	} else {
+		html += `<h2> ${data[0].parts_titles[index]} </h2>\r\n`;
+	}
+	return html;
+};
+
+/**
+ * Gets the HTML fragment in Wiki.js for the part description in index of The Urantia Book.
+ * @param {Object[]} data Array of objects with needed data.
+ * @param {number} index Index of the part.
+ * @param {boolean} isMultiple If it is The Urantia Book shown as multiple
+ * versions or not.
+ * @return {string}
+ */
+exports.getWikijsBookIndexPartDesc = (data, index, isMultiple) => {
+	let html = '';
+	const firstDescs = data[0].parts_descs[index];
+	if (!firstDescs) return html;
+	if (isMultiple) {
+		html += firstDescs
+			.map((desc0, n) => {
+				return (
+					`<div id="p${index}_${n+1}" class="d-sm-flex">\r\n` +
+					data.map((d, c) => {
+						const desc = d.parts_descs[index];
+						return (
+							`  <div class="urantiapedia-column-${c+1} pr-sm-5" ` +
+								`style="flex-basis:100%">\r\n` +
+							`    <p>${desc}</p>\r\n` +
+							`  </div>\r\n`
+						);
+					}).join('') +
+					'</div>\r\n'
+				);
+			}).join('');
+	} else {
+		html += firstDescs.map((desc0, n) => {
+				return `<p id="p${index}_${n+1}">${desc0}</p>\r\n`;
+			}).join('');
+	}
+	return html;
+};
+
+/**
+ * Gets the HTML fragment in Wiki.js for the paper content in index of The Urantia Book.
+ * @param {Object[]} data Array of objects with needed data.
+ * @param {number} index Index of the paper.
+ * @param {boolean} isMultiple If it is The Urantia Book shown as multiple
+ * versions or not.
+ * @param {boolean} isExtended If index is extended one.
+ * @return {string}
+ */
+exports.getWikijsBookIndexPaper = (data, index, isMultiple, isExtended) => {
+	let html = '';
+	const ub = Strings.bookName.en.replace(/\s/g, '_');
+	const getExtended = (d) => {
+		const space = (isMultiple ? '    ' : '');
+		let h = `${space}<ul>\r\n`;
+		const suffix = (isMultiple && d.language != 'en' ? '_Multiple' : '');
+		const p = `/${d.language}/${ub}${suffix}/${index}`;
+		d.papers[index].sections.forEach(section => {
+			if (section.title) {
+				h += `${space}  <li><a href="${p}#p${section.index}">` +
+					`${section.title}</a></li>\r\n`;
+			}
+		});
+		h += `${space}</ul>\r\n`;
+		return h;
+	};
+	if (isMultiple) {
+		if (isExtended) {
+			const mtitle = data.find(d => d.isMaster).papers[index].title;
+			html += `<h3 class="toc-header mt-0" ` +
+				`style="visibility: hidden; height: 2px;">${mtitle}</h3>\r\n`;
+			html += (
+				`<div class="d-sm-flex">\r\n` +
+				data.map((d, c) => {
+					const title = d.papers[index].title;
+					return (
+						`  <div class="urantiapedia-column-${c+1} pr-sm-5" ` +
+							`style="flex-basis:100%">\r\n` +
+						`    <p class="text-h6 font-weight-bold">${title}</p>\r\n` +
+						`  </div>\r\n`
+					);
+				}).join('') +
+				'</div>\r\n'
+			);
+			html += (
+				`<div class="d-sm-flex">\r\n` +
+				data.map((d, c) => {
+					return (
+						`  <div class="urantiapedia-column-${c+1} pr-sm-5" ` +
+							`style="flex-basis:100%">\r\n` +
+						getExtended(d) +
+						`  </div>\r\n`
+					);
+				}).join('') +
+				'</div>\r\n'
+			);
+		} else {
+			html += (
+				`<div class="d-sm-flex">\r\n` +
+				data.map((d, c) => {
+					const title = d.papers[index].title;
+					const suffix = (isMultiple && d.language != 'en' ? '_Multiple' : '');
+					const path = `/${d.language}/${ub}${suffix}/${index}`;
+					return (
+						`  <div class="urantiapedia-column-${c+1} pr-sm-5" ` +
+							`style="flex-basis:100%">\r\n` +
+						`    <p><a href="${path}">${title}</a></p>\r\n` +
+						`  </div>\r\n`
+					);
+				}).join('') +
+				'</div>\r\n'
+			);
+		}
+	} else {
+		const pTitle = data[0].papers[index].title;
+		const pPath = `/${data[0].language}/${ub}/${index}`;
+		if (isExtended) {
+			html += `<h3> ${pTitle} </h3>\r\n`;
+			html += getExtended(data[0]);
+		} else {
+			html += `  <li><a href="${pPath}">${pTitle}</a></li>\r\n`;
+		}
+	}
+	return html;
+};
+
+/**
  * Returns the title of a paper from The Urantia Book.
  * @param {?Object} paper Paper.
  * @param {string} language Language code.
  * @param {?boolean} upper If return in upper case or not.
  * @returns {string}
  */
-exports.getBookTitle = (paper, language, upper) => {
+exports.getBookPaperTitle = (paper, language, upper) => {
 	upper = (upper != undefined ? upper : false);
 	if (!paper) {
 		return ' ';

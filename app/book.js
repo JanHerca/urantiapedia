@@ -6,9 +6,10 @@ const BibleAbbs = require('./abb');
 const {extractStr, reflectPromise, extendArray, replaceTags, removeHTMLTags,
 	readFrom, replaceWords, getAllIndexes, strformat, getWikijsHeader,
 	getWikijsLinks, getWikijsBookLink, getWikijsBookCopyright, writeHTMLToWikijs, 
-	getWikijsBookButtons, getWikijsBookTitles, getBookTitle, getError,
+	getWikijsBookButtons, getWikijsBookTitles, getBookPaperTitle, getError,
 	replaceSpecialChars, replaceInverseSpecialChars, getWikijsBookSectionTitles,
-	getWikijsBookParRef, getWikijsBookIndexLink} = require('./utils');
+	getWikijsBookParRef, getWikijsBookIndexLink, getWikijsBookIndexPartTitle,
+	getWikijsBookIndexPartDesc, getWikijsBookIndexPaper} = require('./utils');
 const fs = require('fs');
 const path = require('path');
 const cheerio = require('cheerio');
@@ -1628,7 +1629,7 @@ class Book {
 		return new Promise((resolve, reject) => {
 			const multi = Array.isArray(papers);
 			const years = (multi ? papers.map(p=>p.year) : 
-				Strings.bookMasterYear[this.language]);
+				[Strings.bookMasterYear[this.language]]);
 			const masterIndex = (multi ? 
 				papers.findIndex(pp => pp.isMaster) : -1);
 			const paper = (multi ? papers[masterIndex] : papers[0]);
@@ -1677,7 +1678,7 @@ class Book {
 			const prevLink = getWikijsBookLink(prevPaper, this.language, multi, true);
 			const nextLink = getWikijsBookLink(nextPaper, this.language, multi, false);
 			const indexLink = getWikijsBookLink(paper, this.language, multi, null);
-			const title = getBookTitle(paper, this.language, true);
+			const title = getBookPaperTitle(paper, this.language, true);
 			let footnoteIndex = 0;
 			let rErr = [];
 			let topicErr = [];
@@ -1691,7 +1692,7 @@ class Book {
 			body += getWikijsLinks(prevLink, indexLink, nextLink);
 			//Write top buttons
 			if (multi) {
-				body += getWikijsBookButtons(papers, this.language);
+				body += getWikijsBookButtons(papers.map(p=>p.year), this.language);
 			}
 			//Write audio controls (only in single-mode)
 			if (!multi) {
@@ -2006,30 +2007,52 @@ class Book {
 	writeIndexToWikijs = (dirPath, books) => {
 		return new Promise((resolve, reject) => {
 			const lan = this.language;
-			const years = (books ? books.map(b => b.year) : 
-				Strings.bookMasterYear[this.language]);
-			const ub = Strings.bookName.en.replace(/\s/g, '_');
+			const multi = (books != null);
 			const iparts = [0, 1, 2, 3, 4];
 			const idocs = [0, 1, 32, 57, 120];
-			const tparts = iparts.map(i => {
-				return Strings[`bookPart${i}`][lan].toUpperCase();
+			const data = (books ? books : [this]).map(book => {
+				const isMaster = (books ? book.isMaster : true);
+				const isExtra = (book.language != 'en' && !isMaster);
+				const key = book.language + (isExtra ? `${book.year}` : '');
+				const tparts = iparts.map(i => {
+					return Strings[`bookPart${i}`][key].toUpperCase();
+				});
+				const dparts = iparts.map(i => {
+					if (i === 0) return null;
+					return Strings[`bookPart${i}Desc`][key]
+						.split('|').map(d=>d.trim());
+				});
+				const tpapers = book.papers
+					.slice()
+					.sort((a, b) => a.paper_index - b.paper_index)
+					.map(paper => ({
+						index: paper.paper_index,
+						title: replaceSpecialChars(getBookPaperTitle(paper, 
+							book.language, false)),
+						sections: paper.sections.map(s=> ({
+							index: s.section_index,
+							title: (s.section_title ?
+								replaceSpecialChars(s.section_title) : null)
+						})),
+						author: paper.author
+					}));
+				return {
+					language: book.language,
+					parts_titles: tparts,
+					parts_descs: dparts,
+					year: book.year,
+					papers: tpapers,
+					isMaster: isMaster
+				};
 			});
-			const dparts = iparts.map(i => {
-				if (i === 0) return null;
-				return Strings[`bookPart${i}Desc`][lan]
-					.split('|').map(d=>d.trim());
-			});
+			const years = data.map(d => d.year);
 			const filePath1 = path.join(dirPath, 'Index.html');
 			const filePath2 = path.join(dirPath, 'Index_Extended.html');
-			const title1 = Strings.bookName[this.language] + ' — ' +
-				Strings.bookIndexName[this.language];
-			const title2 = Strings.bookName[this.language] + ' — ' +
-				Strings.bookExtIndexName[this.language];
-			const copyright = getWikijsBookCopyright(years, this.language);
-			const indexLink1 = getWikijsBookIndexLink(this.language, 
-				(books != null), false);
-			const indexLink2 = getWikijsBookIndexLink(this.language, 
-				(books != null), true);
+			const title1 = `${Strings.bookName[lan]} — ${Strings.bookIndexName[lan]}`;
+			const title2 = `${Strings.bookName[lan]} — ${Strings.bookExtIndexName[lan]}`;
+			const copyright = getWikijsBookCopyright(years, lan);
+			const indexLink1 = getWikijsBookIndexLink(lan, multi, false);
+			const indexLink2 = getWikijsBookIndexLink(lan, multi, true);
 			let header1 = '';
 			let header2 = '';
 			let body1 = '';
@@ -2044,24 +2067,24 @@ class Book {
 			header1 += '\r\n';
 			header2 += getWikijsHeader(title2, ['the urantia book—papers']);
 			header2 += '\r\n';
-
 			//Write copyright
 			body1 += copyright;
 			body2 += copyright;
-
 			//Write top links
-			if (this.language != 'en') {
+			if (lan != 'en') {
 				body1 += getWikijsLinks('', indexLink1, '');
 				body2 += getWikijsLinks('', indexLink2, '');
 			}
-
+			//Write top buttons
+			if (multi) {
+				const buttons = getWikijsBookButtons(years, lan);
+				body1 += buttons;
+				body2 += buttons;
+			}
 			papers.forEach(paper => {
 				const i = paper.paper_index;
 				const ipart = idocs.indexOf(i);
-				let title = paper.paper_title;
-				const path = `/${this.language}/${ub}/${i}`;
 				let error = null;
-				let descs = null;
 
 				if (!Array.isArray(paper.sections)) {
 					error = 'book_no_sections';
@@ -2075,44 +2098,28 @@ class Book {
 					errs.push(this.getError(error, filePath1));
 					return;
 				}
-
-				title = getBookTitle(paper, this.language, false);
-				title = replaceSpecialChars(title);
+				//Part title & description
 				if (ipart != -1) {
-					body1 += `<h2> ${tparts[ipart]} </h2>\r\n`;
-					if (dparts[ipart]) {
-						descs = dparts[ipart].map((d, n) => {
-							return `<p id="p${ipart}_${n+1}">${d}</p>\r\n`;
-						}).join('');
-					}
-					if (descs) {
-						body1 += descs;
-					}
-					body1 += '<ul>\r\n';
-					body2 += `<h2> ${tparts[ipart]} </h2>\r\n`;
-					if (descs) {
-						body2 += descs;
-					}
+					const partTitle = getWikijsBookIndexPartTitle(data, ipart,
+						multi);
+					const partDesc = getWikijsBookIndexPartDesc(data, ipart,
+						multi);
+					body1 += partTitle;
+					body2 += partTitle;
+					body1 += partDesc;
+					body2 += partDesc;
+					if (!multi) body1 += '<ul>\r\n';
 				}
-
-				body1 += `  <li><a href="${path}">${title}</a></li>\r\n`;
-				if (i === 0 || i === 31 || i === 56 || i === 119 || i === 196) {
+				//Paper titles (and section titles for extended index)
+				body1 += getWikijsBookIndexPaper(data, i, multi, false);
+				body2 += getWikijsBookIndexPaper(data, i, multi, true);
+				if (ipart != -1 && !multi) {
 					body1 += '</ul>\r\n';
 				}
-				body2 += `<h3> ${title} </h3>\r\n`;
-				body2 += '<ul>\r\n';
-				paper.sections.forEach(section => {
-					const j = section.section_index;
-					if (section.section_title) {
-						const stitle = replaceSpecialChars(section.section_title);
-						body2 += `  <li><a href="${path}#p${j}">${stitle}</a></li>\r\n`;
-					}
-				});
-				body2 += '</ul>\r\n';
 			});
 
 			//Write bottom links
-			if (this.language != 'en') {
+			if (lan != 'en') {
 				body1 += '<br>\r\n';
 				body1 += getWikijsLinks('', indexLink1, '');
 				body2 += '<br>\r\n';
@@ -2222,7 +2229,7 @@ class Book {
 						.map(a => `[${a[0]}](${a[1]}/Index)`)
 						.join(', ');
 	
-					title = getBookTitle(paper, this.language, false);
+					title = getBookPaperTitle(paper, this.language, false);
 					title = replaceSpecialChars(title);
 					md += (i === 0 ? `### ${part0}\r\n\r\n` : '');
 					md += (i === 1 ? `### ${part1}\r\n\r\n` : '');
