@@ -1635,7 +1635,7 @@ class Book {
 				[Strings.bookMasterYear[this.language]]);
 			const topicIndexes = (multi ? papers.map((p, i) => {
 				return (i === 0 ? topicIndexEN : topicIndex);
-			}) : [(this.language === 'en' ? topicIndexEN : topicIndex)]);
+			}) : [topicIndex]);
 			const masterIndex = (multi ? 
 				papers.findIndex(pp => pp.isMaster) : -1);
 			const paper = (multi ? papers[masterIndex] : papers);
@@ -2124,7 +2124,7 @@ class Book {
 				//Paper titles (and section titles for extended index)
 				body1 += getWikijsBookIndexPaper(data, i, multi, false);
 				body2 += getWikijsBookIndexPaper(data, i, multi, true);
-				if (idocs.indexOf(i+1) != -1 && !multi) {
+				if ((idocs.indexOf(i+1) != -1 || i === papers.length - 1) && !multi) {
 					body1 += '</ul>\r\n';
 				}
 			});
