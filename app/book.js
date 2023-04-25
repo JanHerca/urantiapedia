@@ -120,7 +120,7 @@ class Book {
 		});
 
 		return errs;
-	}
+	};
 
 	/**
 	 * Returns an array with three values [paper_id, section_id, par_id]
@@ -1574,8 +1574,8 @@ class Book {
 	 * @return {Promise} Promise that returns null in resolve function or an
 	 * array of errors in reject function.
 	 */
-	writeMultipleToWikijs = (dirPath, books, topicIndexEN, imageCatalog,
-		mapCatalog, paralells) => {
+	writeMultipleToWikijs = (dirPath, books, topicIndex, topicIndexEN, 
+		imageCatalog, mapCatalog, paralells) => {
 		const baseName = path.basename(dirPath);
 		return new Promise((resolve, reject) => {
 			fs.access(dirPath, fs.constants.W_OK, (err) => {
@@ -1593,8 +1593,8 @@ class Book {
 					return p2;
 				});
 				const filePath = path.join(dirPath, `${index}.html`);
-				const p = this.writeFileToWikijs(filePath, papers, topicIndexEN,
-					imageCatalog, mapCatalog, paralells);
+				const p = this.writeFileToWikijs(filePath, papers, topicIndex, 
+					topicIndexEN, imageCatalog, mapCatalog, paralells);
 				return reflectPromise(p);
 			});
 			Promise.all(promises)
@@ -1618,21 +1618,27 @@ class Book {
 	 * JSON objects with paper in several versions. The first one must be the
 	 * english version, and one must be the master version, with links to footnotes.
 	 * @param {?TopicIndex} topicIndex An optional Topic Index.
+	 * @param {?TopicIndex} topicIndexEN An optional Topic Index in english. If
+	 * previous param is english then this is not required. If it is not english
+	 * then this param is required.
 	 * @param {?ImageCatalog} imageCatalog Image catalog.
 	 * @param {?MapCatalog} mapCatalog Map catalog.
 	 * @param {?Paralells} paralells Paralells.
 	 * @return {Promise} Promise that returns null in resolve function and an
 	 * error in reject function.
 	 */
-	writeFileToWikijs = (filePath, papers, topicIndex, imageCatalog, 
+	writeFileToWikijs = (filePath, papers, topicIndex, topicIndexEN, imageCatalog, 
 		mapCatalog, paralells) => {
 		return new Promise((resolve, reject) => {
 			const multi = Array.isArray(papers);
 			const years = (multi ? papers.map(p=>p.year) : 
 				[Strings.bookMasterYear[this.language]]);
+			const topicIndexes = (multi ? papers.map((p, i) => {
+				return (i === 0 ? topicIndexEN : topicIndex);
+			}) : [(this.language === 'en' ? topicIndexEN : topicIndex)]);
 			const masterIndex = (multi ? 
 				papers.findIndex(pp => pp.isMaster) : -1);
-			const paper = (multi ? papers[masterIndex] : papers[0]);
+			const paper = (multi ? papers[masterIndex] : papers);
 			const index = paper.paper_index;
 			const prev = index - 1;
 			const next = index + 1;
@@ -1704,7 +1710,7 @@ class Book {
 			}
 			//Sections & paragraphs
 			paper.sections.forEach((section, sec_i) => {
-				let previousPar = null;
+				const previousPars = [];
 				//Add of section title (or titles in multi-version)
 				body += getWikijsBookSectionTitles(papers, sec_i);
 
@@ -1714,8 +1720,7 @@ class Book {
 							p.sections[sec_i].pars[par_i] : null);
 					}) : [par]);
 					let aref, di, si, pi, image, map;
-					par.usedTopicNames = [];
-					const topicNames = [];
+					pars.forEach(p => p.usedTopicNames = []);
 
 					if (!par.par_ref || !par.par_content) {
 						error = 'book_par_no_refcontent';
@@ -1740,9 +1745,12 @@ class Book {
 						let parHtml = '';
 						let pcontent = p.par_content;
 						let used, topics;
+						const topicNames = [];
+
 						parHtml += (multi ? '<p>' : `<p id="p${si}_${pi}">`);
 						parHtml += getWikijsBookParRef(multi, p.par_ref, 
-							this.language, colors[ppi], papers[ppi].year);
+							this.language, colors[ppi], 
+							(multi ? papers[ppi].year : null));
 						// Urantia Book has a paragraph with `*  *  *` so check here
 						pcontent = (pcontent === '*  *  *' ? pcontent :
 							replaceTags(pcontent, '*', '*', '<i>', '</i>', rErr));
@@ -1752,26 +1760,29 @@ class Book {
 							error_par_ref = p.par_ref;
 							error = rErr[0];
 						}
+
+						//Topic index links
+						if (topicIndexes[ppi]) {
+							used = (previousPars[ppi] ? 
+								previousPars[ppi].usedTopicNames : []);
+							topics = topicIndexes[ppi].filterTopicsInParagraph(
+								p.par_content, di, si, pi, topicNames, used);
+							previousPars[ppi] = p;
+							extendArray(p.usedTopicNames, topics.map(t => t.name));
+							if (topicNames.length > 0) {
+								topicNames.sort((a,b) => {
+									if (a.name === b.name) {
+										return (a.link.length - b.link.length);
+									}
+									return (b.name.length - a.name.length);
+								});
+								pcontent = replaceWords(topicNames.map(i=>i.name),
+									topicNames.map(i=>i.link), pcontent);
+							}
+						}
+
 						// If par is from master UB or only one UB
 						if (masterIndex === ppi || !multi) {
-							//Topic index links
-							if (topicIndex) {
-								used = (previousPar ? previousPar.usedTopicNames : []);
-								topics = topicIndex.filterTopicsInParagraph(
-									p.par_content, di, si, pi, topicNames, used);
-								previousPar = p;
-								extendArray(p.usedTopicNames, topics.map(t => t.name));
-								if (topicNames.length > 0) {
-									topicNames.sort((a,b) => {
-										if (a.name === b.name) {
-											return (a.link.length - b.link.length);
-										}
-										return (b.name.length - a.name.length);
-									});
-									pcontent = replaceWords(topicNames.map(i=>i.name),
-										topicNames.map(i=>i.link), pcontent);
-								}
-							}
 							//Add footnote marks to paragraph content
 							allFn
 								.filter(fn => fn.par_ref === p.par_ref)
@@ -2113,10 +2124,11 @@ class Book {
 				//Paper titles (and section titles for extended index)
 				body1 += getWikijsBookIndexPaper(data, i, multi, false);
 				body2 += getWikijsBookIndexPaper(data, i, multi, true);
-				if (ipart != -1 && !multi) {
+				if (idocs.indexOf(i+1) != -1 && !multi) {
 					body1 += '</ul>\r\n';
 				}
 			});
+
 
 			//Write bottom links
 			if (lan != 'en') {
@@ -2899,13 +2911,16 @@ class Book {
 	 * @param {string} format Output format: `json`, `tex`, `wiki`, `html`,
 	 * `txt`.
 	 * @param {?TopicIndex} topicIndex An optional Topic Index.
+	 * @param {?TopicIndex} topicIndexEN An optional Topic Index in english. If
+	 * previous param is english then this is not required. If it is not english
+	 * then this param is required.
 	 * @param {?ImageCatalog} imageCatalog Image catalog.
 	 * @param {?Paralells} paralells Paralells.
 	 * @return {Promise} Promise that returns null in resolve function or
 	 * an array of errors in reject function.
 	 */
-	writeTo = (dirPath, format, topicIndex, imageCatalog, mapCatalog, 
-		paralells) => {
+	writeTo = (dirPath, format, topicIndex, topicIndexEN, imageCatalog, 
+		mapCatalog, paralells) => {
 		const baseName = path.basename(dirPath);
 		return new Promise((resolve, reject) => {
 			fs.access(dirPath, fs.constants.W_OK, (err) => {
@@ -2934,7 +2949,7 @@ class Book {
 					} else if (format === 'html') {
 						filePath = path.join(dirPath, `${i}.${format}`);
 						p = this.writeFileToWikijs(filePath, paper, topicIndex,
-							imageCatalog, mapCatalog, paralells);
+							topicIndexEN, imageCatalog, mapCatalog, paralells);
 					} else if (format === 'txt') {
 						filePath = path.join(dirPath, 
 							`UB_${stri}${i == 0 ? '_1' : ''}.${format}`);

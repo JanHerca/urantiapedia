@@ -55,6 +55,15 @@ class TopicIndex {
 	 * ];
 	 */
 	topics = [];
+	
+	/**
+	 * Array, each item for one paper ordered by index. 
+	 * Each paper item an array, each item for one section ordered by index.
+	 * Each section item an array, each item for one paragrpah ordered by index.
+	 * Each paragrpah item an array, each item with topics names that reference
+	 * that paragrpah.
+	 */
+	ref_topics = [];
 
 	onProgressFn = null;
 	language = 'en';
@@ -265,17 +274,13 @@ class TopicIndex {
 
 	/**
 	 * Updates the list of topic names.
-	 * @param {?TopicIndex} topicIndexEN Topic index in English.
+	 * @param {TopicIndex} topicIndexEN Topic index in English.
 	 * @return {Promise}
 	 */
 	updateTopicNames = (topicindexEN) => {
-		if (!topicindexEN) {
-			return Promise.resolve(null);
-		}
 		return new Promise((resolve, reject) => {
 			const topicErr = [];
-			const lan = (this.language === 'en' ? '' : '/' + this.language);
-			const tpath = `${lan}/topic/`;
+			const tpath = `/${this.language}/topic/`;
 			this.topics.forEach(topic => {
 				const tEN = (this.language === 'en' ? topic :
 					topicindexEN.topics.find(t => {
@@ -302,6 +307,40 @@ class TopicIndex {
 			} else {
 				resolve(null);
 			}
+		});
+	};
+
+	/**
+	 * Updates an internal array to be be used for fast searches.
+	 * @param {Book} book Book to be used for extract references.
+	 * @return {Promise}
+	 */
+	updateRefsForSearching = (book) => {
+		return new Promise((resolve, reject) => {
+			this.topics.forEach(topic => {
+				const refs = [];
+				extendArray(refs, topic.refs);
+				topic.lines.forEach(line => extendArray(refs, line.refs));
+				const nrefs = book.getArrayOfRefs(refs);
+				nrefs.forEach(nref => {
+					if (nref) {
+						const [pi, si, par_i] = nref;
+						if (!this.ref_topics[pi]) {
+							this.ref_topics[pi] = [];
+						}
+						if (!this.ref_topics[pi][si]) {
+							this.ref_topics[pi][si] = [];
+						}
+						if (!this.ref_topics[pi][si][par_i]) {
+							this.ref_topics[pi][si][par_i] = [];
+						}
+						if (this.ref_topics[pi][si][par_i].indexOf(topic.name) === -1) {
+							this.ref_topics[pi][si][par_i].push(topic.name);
+						}
+					}
+				});
+			});
+			resolve(null);
 		});
 	};
 
@@ -1606,6 +1645,7 @@ class TopicIndex {
 	 * @param {string} content Full paragraph in which search for topic name.
 	 */
 	isLinkableName = (name, content) => {
+		//TODO: This function now is very specific only to Spanish
 		//TODO: checks if there is any single sentence starting with name
 		// How to check if we have name in the middle of a sentence
 		// and how to return that position when creating link
@@ -1641,19 +1681,13 @@ class TopicIndex {
 	 * @return {Array.<Object>} Objects with topics.
 	 */
 	filterTopicsWithRef = (paper, section, par) => {
-		return this.topics.filter(topic => {
-			let contains = (topic.refs.find(r => 
-				containsRef(r, paper, section, par)) != null);
-			if (!contains) {
-				topic.lines.forEach(line => {
-					if (line.refs.find(r => 
-						containsRef(r, paper, section, par))) {
-						contains = true;
-					}
-				});
-			}
-			return contains;
-		});
+		if (!this.ref_topics[paper]) return [];
+		if (!this.ref_topics[paper][section]) return [];
+		if (!this.ref_topics[paper][section][par]) return [];
+		const topicNames = this.ref_topics[paper][section][par];
+		return topicNames.map(n => {
+			return this.topics.find(t => t.name === n);
+		})
 	};
 
 	/**
@@ -1667,18 +1701,22 @@ class TopicIndex {
 	 * @param {number} par Paragraph index.
 	 * @param {Array.<Object>} topicNames Array in which store the names and 
 	 * links for the paragraph, avoiding repetition.
-	 * @param {Array.<Object>} used Array of topics already used in previous
+	 * @param {string[]} used Array of topic names already used in previous
 	 * paragraph that must be avoided.
 	 * @return {Array.<Object>} Objects with topics.
 	 */
 	filterTopicsInParagraph = (text, paper, section, par, topicNames, used) => {
 		//TODO: Next regex only works in English and Spanish
+		//How to separate words in all languages??
 		const words = text
 			.match(/[a-z0-9áéíóúüñ'-]+(?:'[a-z0-9áéíóúüñ'-]+)*/gi);
 		
 		return this.topics.filter(t => {
-			return !used.includes(t.name);
-		}).filter(t => {
+			if (used.includes(t.name)) {
+				return false;
+			}
+			const isProperNoun = ((t.name.toUpperCase()[0] === t.name[0] ||
+				t.type === 'ORDER') && isNaN(parseInt(t.name)));
 			const index = t.names.findIndex(n => {
 				if (!this.isLinkableName(n, text) || text.indexOf(n) === -1) {
 					return false;
@@ -1687,7 +1725,7 @@ class TopicIndex {
 				if (!word) {
 					return false;
 				}
-				if (!isNaN(parseInt(word))) {
+				if (!isProperNoun || !isNaN(parseInt(word))) {
 					const tts = this.filterTopicsWithRef(paper, section, par);
 					return tts.filter(tt => tt.names.includes(n)).length > 0;
 				}
@@ -1702,14 +1740,6 @@ class TopicIndex {
 			return (index != -1);
 		});
 	};
-
-	//TODO: A new two way filtering
-	// When a topic has category use filterTopicsInParagraph
-	// When a topic has not category (OTHER) use filterTopicsWithRef
-	// So we need a new function that finds topics in paragraph and then
-	// checks category and makes correct checks
-
-
 };
 
 module.exports = TopicIndex;

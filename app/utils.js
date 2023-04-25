@@ -318,6 +318,37 @@ exports.readFilePairs = (filePathEN, filePathOther, language, clearFn,
 };
 
 /**
+ * Read several books in JSON. First book must be in English, the others one or 
+ * several translations in a given language.
+ * @param {string[]} folders Paths to folders with JSON files.
+ * @param {string} language The language of books from second on.
+ * @returns {Promise} Promise that returns an array of Book for resolve function
+ * or an array of errors for reject function.
+ */
+exports.readBooksFromJSON = (folders, language) => {
+	const books = folders.map((f, i) => {
+		const folderLan = (i === 0 ? 'en' : language);
+		const folderBook = new Book();
+		folderBook.setLanguage(folderLan);
+		if (f.endsWith(`book-${language}-footnotes`)) {
+			folderBook.setAsMaster();
+			folderBook.setYear(Strings.bookMasterYear[language]);
+		} else if (f.endsWith('book-en-footnotes')) {
+			folderBook.setYear(Strings.bookMasterYear.en);
+		} else {
+			folderBook.setYear(f.substring(f.lastIndexOf('-')+1));
+		}
+		return folderBook;
+	});
+	const promises = books.map((b, i) => {
+		return b.readFromJSON(folders[i]);
+	});
+	return Promise.all(promises).then(() => {
+		return books;
+	});
+};
+
+/**
  * Writes a text file.
  * @param {string} filePath File.
  * @param {string} content Content.
@@ -625,7 +656,7 @@ exports.getWikijsBookSectionTitles = (papers, section_index) => {
 	let html = '';
 	const multi = Array.isArray(papers);
 	const masterIndex = (multi ? papers.findIndex(p => p.isMaster) : -1);
-	const paper = (multi ? papers[masterIndex] : papers[0]);
+	const paper = (multi ? papers[masterIndex] : papers);
 	const section = paper.sections[section_index];
 	const stitle = (section.section_title ? 
 		exports.replaceSpecialChars(section.section_title).toUpperCase() : null);

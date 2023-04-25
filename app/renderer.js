@@ -20,7 +20,7 @@ const Strings = require('./strings');
 const BibleAbbs = require('./abb');
 const {strformat, extendArray, replaceWords, getMostSimilarSentence, 
 	getWikijsHeader, writeHTMLToWikijs, getError, 
-	readFile, writeFile} = require('./utils');
+	readFile, writeFile, readBooksFromJSON} = require('./utils');
 const DialogEditAlias = require('./dialog_editalias');
 const DialogEditRefs = require('./dialog_editrefs');
 const DialogEditSeeAlsos = require('./dialog_editseealsos');
@@ -620,11 +620,13 @@ const handle_exeButtonClick = () => {
 					topicindexEN.readFromTXT(ti));
 			})
 			.then(() => topicindex.updateTopicNames(topicindexEN))
-			.then(() => book.writeToWikijs(htmlDir, topicindex, imageCatalog, 
-				mapCatalog, paralells))
+			.then(() => topicindex.updateRefsForSearching(book))
+			.then(() => book.writeToWikijs(htmlDir, topicindex, topicindexEN, 
+				imageCatalog, mapCatalog, paralells))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
-	} else if (process === 'BOOK_MULTIPLE_JSON_TOPICS_TXT_TO_WIKIJS') {
+	} else if (process === 'BOOK_MULTIPLE_JSON_TOPICS_TXT_TO_WIKIJS' && 
+		lan != 'en') {
 		// Reads paralells (*.md) +
 		// Reads master UB (*.json) + 
 		// Reads Topic Index (*.txt) + 
@@ -632,8 +634,9 @@ const handle_exeButtonClick = () => {
 		// Reads all UB versions (*.json) +
 		// Checks book versions + Writes (Wiki.js *.html)
 		//TODO: Add links to topics in english and master versions
-		//FIXME: Anchors to pars must be in "overflow:hidden;height:0" divs to allow links work
-		// or better idea is to put id to <div class="d-sm-flex">
+		//TODO: Add Extended index in headers
+		//TODO: Add authors in Index (not in Extended)
+		//TODO: Add links in home page & About UB page to go directly to multi
 		paralells.read()
 			.then(() => {
 				const masterDir = path.join(jsonDir, `book-${lan}-footnotes`);
@@ -646,32 +649,14 @@ const handle_exeButtonClick = () => {
 			})
 			.then(() => {
 				const ti = txtDir.replace(`topic-index-${lan}`, 'topic-index-en');
-				return (lan === 'en' ? Promise.resolve(null) : 
-					topicindexEN.readFromTXT(ti));
+				return topicindexEN.readFromTXT(ti);
 			})
+			.then(() => topicindex.updateTopicNames(topicindexEN))
+			.then(() => topicindexEN.updateTopicNames(topicindexEN))
+			.then(() => topicindex.updateRefsForSearching(book))
+			.then(() => topicindexEN.updateRefsForSearching(book))
 			.then(() => getPathsOfBookVersions(jsonDir))
-			.then((folders) => {
-				const books = folders.map((f, i) => {
-					const folderLan = (i === 0 ? 'en' : lan);
-					const folderBook = new Book();
-					folderBook.setLanguage(folderLan);
-					if (f.endsWith(`book-${lan}-footnotes`)) {
-						folderBook.setAsMaster();
-						folderBook.setYear(Strings.bookMasterYear[lan]);
-					} else if (f.endsWith('book-en-footnotes')) {
-						folderBook.setYear(Strings.bookMasterYear.en);
-					} else {
-						folderBook.setYear(f.substring(f.lastIndexOf('-')+1));
-					}
-					return folderBook;
-				});
-				const promises = books.map((b, i) => {
-					return b.readFromJSON(folders[i]);
-				});
-				return Promise.all(promises).then(() => {
-					return books;
-				});
-			})
+			.then((folders) => readBooksFromJSON(folders, lan))
 			.then(books => {
 				//Checks
 				const master = books.find(b => b.isMaster);
@@ -685,7 +670,9 @@ const handle_exeButtonClick = () => {
 				const errs = bookErrors.find(e => e != null);
 				if (errs) return Promise.reject(errs)
 				//No errors, proceed
-				return book.writeMultipleToWikijs(htmlDir, books);
+				return topicindexEN.updateRefsForSearching(books[0])
+					.then(() => book.writeMultipleToWikijs(htmlDir, books, 
+						topicindex, topicindexEN, null, null, paralells));
 			})
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
@@ -729,32 +716,14 @@ const handle_exeButtonClick = () => {
 			.catch(onFail);
 	} else if (process === 'BOOK_INDEX_MULTIPLE_JSON_TO_WIKIJS') {
 		// Reads Master UB (*.json) => 
+		// Get paths to several UB versions +
+		// Reads all UB versions (*.json) +
+		// Checks book versions + Writes (Wiki.js *.html)
 		// Writes Indexes (*.html)
 		const masterDir = path.join(jsonDir, `book-${lan}-footnotes`);
 		book.readFromJSON(masterDir)
 			.then(() => getPathsOfBookVersions(jsonDir))
-			.then((folders) => {
-				const books = folders.map((f, i) => {
-					const folderLan = (i === 0 ? 'en' : lan);
-					const folderBook = new Book();
-					folderBook.setLanguage(folderLan);
-					if (f.endsWith(`book-${lan}-footnotes`)) {
-						folderBook.setAsMaster();
-						folderBook.setYear(Strings.bookMasterYear[lan]);
-					} else if (f.endsWith('book-en-footnotes')) {
-						folderBook.setYear(Strings.bookMasterYear.en);
-					} else {
-						folderBook.setYear(f.substring(f.lastIndexOf('-')+1));
-					}
-					return folderBook;
-				});
-				const promises = books.map((b, i) => {
-					return b.readFromJSON(folders[i]);
-				});
-				return Promise.all(promises).then(() => {
-					return books;
-				});
-			})
+			.then((folders) => readBooksFromJSON(folders, lan))
 			.then(books => {
 				//Checks
 				const master = books.find(b => b.isMaster);
