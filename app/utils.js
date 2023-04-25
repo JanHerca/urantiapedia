@@ -767,7 +767,7 @@ exports.getWikijsBookLink = (paper, language, isMultiple, isPrev) => {
 		const indexName = Strings.bookIndexName[language];
 		const indexNameEN = Strings.bookIndexName.en;
 		const path2 = (isMultiple ? `/${language}/${bookName}/${i}` :
-			`/${language}/${bookName}${multiple}/${i}`);
+			`/${language}/${bookName}_Multiple/${i}`);
 		const icon = (isMultiple ? 'mdi-view-array' : 'mdi-view-parallel');
 		const key = (isMultiple ? 'bookSingleVersion' : 'bookMultipleVersion');
 		const text2 = Strings[key][language];
