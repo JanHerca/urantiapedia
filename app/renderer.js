@@ -406,7 +406,8 @@ const getPathsOfBookVersions = (jsonDir) => {
 					const vals = dirent.name.split('-');
 					let year = parseInt(vals[2]);
 					year = (dirent.name === 'book-en-footnotes' ?
-						1955 : isNaN(year) ? 2006 : year);
+						Strings.bookMasterYear.en : isNaN(year) ? 
+						Strings.bookMasterYear[lan] : year);
 					return {name: dirent.name, year: year};
 				})
 				.sort((a, b) => {
