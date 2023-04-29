@@ -16,9 +16,9 @@ Inevitablemente, sigue algún tipo de vigilancia para asegurar un grado mínimo 
 
 La religión del espíritu difiere. En primer lugar, no es una actividad grupal, aunque no prohíbe que los adherentes se reúnan. Es una búsqueda personal de la verdad y es una experiencia personal con Dios que generalmente resulta en una interacción personal del individuo con el espíritu de Dios que mora en él.
 
-> Esta elección de la criatura no supone un abandono de la voluntad. Es una consagración de la voluntad, una expansión de la voluntad, una glorificación de la voluntad, un perfeccionamiento de la voluntad. ([UB 111:5.5](/es/El_Libro_de_Urantia/111#p5_5))
+> Esta elección de la criatura no supone un abandono de la voluntad. Es una consagración de la voluntad, una expansión de la voluntad, una glorificación de la voluntad, un perfeccionamiento de la voluntad. ([LU 111:5.5](/es/The_Urantia_Book/111#p5_5))
 
-> La paz en esta vida, la supervivencia en la muerte, la perfección en la próxima vida, el servicio en la eternidad —todo esto se logra desde ahora (en espíritu) cuando la personalidad de la criatura consiente— elige —someter su voluntad a la voluntad del Padre. ([UB 111:5.4](/es/El_Libro_de_Urantia/111#p5_4))
+> La paz en esta vida, la supervivencia en la muerte, la perfección en la próxima vida, el servicio en la eternidad —todo esto se logra desde ahora (en espíritu) cuando la personalidad de la criatura consiente— elige —someter su voluntad a la voluntad del Padre. ([LU 111:5.4](/es/The_Urantia_Book/111#p5_4))
 
 La conciencia de Dios y la conciencia de Dios siempre acompañan a la religión del espíritu, pero no exclusivamente. Muchos seguidores de la religión autoritaria logran la conciencia de Dios, la conciencia de Dios, incluso una relación personal con su Dios. La diferencia radica en la fuente de autoridad.
 

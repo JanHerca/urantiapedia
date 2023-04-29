@@ -1,5 +1,5 @@
 ---
-title: "Lecciones del “discurso de ciencia de Jesús”"
+title: "Lecciones del «discurso de ciencia de Jesús»"
 description: 
 published: true
 date: 2023-03-02T20:26:50.417Z
@@ -10,9 +10,9 @@ dateCreated: 2022-09-26T16:50:33.688Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
 
-Este discurso ([UB 133:5.4](/en/The_Urantia_Book/133#p5_4)) fue entre Jesús y un filósofo griego, ostensiblemente alrededor del año 20 d. C. Junto con el conocimiento de nuestra morada personal por el espíritu del Padre, describe todo lo que se necesita para comprender el propósito de nuestra existencia humana.
+Este discurso ([LU 133:5.4](/es/The_Urantia_Book/133#p5_4)) fue entre Jesús y un filósofo griego, ostensiblemente alrededor del año 20 d. C. Junto con el conocimiento de nuestra morada personal por el espíritu del Padre, describe todo lo que se necesita para comprender el propósito de nuestra existencia humana.
 
-> “Algún día, los científicos podrán medir la energía o las manifestaciones de fuerza de la gravedad, de la luz y de la electricidad, pero estos mismos científicos nunca podrán decir (científicamente) qué son estos fenómenos del universo”. ([UB 133:5.4](/es/El_Libro_de_Urantia/133#p5_4))
+> «Algún día, los científicos podrán medir la energía o las manifestaciones de fuerza de la gravedad, de la luz y de la electricidad, pero estos mismos científicos nunca podrán decir (científicamente) qué son estos fenómenos del universo». ([LU 133:5.4](/es/The_Urantia_Book/133#p5_4))
 
 Hoy esto sigue siendo tan cierto como siempre. Algunos pueden pensar que lo sabemos, o podemos saberlo todo. La realidad es que cuando ponemos nuestro conocimiento bajo el microscopio, la extensión de ese conocimiento, aunque loable y en muchos sentidos bastante increíble en su ingenio, básicamente es superficial.
 
@@ -24,25 +24,25 @@ Cada elemento de nuestro conocimiento puede extenderse más profundamente hasta 
 
 > Oh Timoteo, guarda lo que se te ha encomendado, evitando las palabrerías profanas y vanas, y las oposiciones de la falsamente llamada ciencia. [Timoteo 6:20](/es/Bible/Timothy/6#v20).
 
-> El hacer la Voluntad de Dios no es ni más ni menos que una exhibición de la disposición de la criatura a compartir la vida interior con Dios. [UB 111:5.1](/es/El_Libro_de_Urantia/111#p5_1)
+> El hacer la Voluntad de Dios no es ni más ni menos que una exhibición de la disposición de la criatura a compartir la vida interior con Dios. [LU 111:5.1](/es/The_Urantia_Book/111#p5_1)
 
-> “La ciencia trata de las actividades de la energía física; la religión trata de los valores eternos. La verdadera filosofía procede de la sabiduría, que hace todo lo que puede por correlacionar estas observaciones cuantitativas y cualitativas”. ([UB 133:5.4](/es/El_Libro_de_Urantia/133#p5_4))
+> «La ciencia trata de las actividades de la energía física; la religión trata de los valores eternos. La verdadera filosofía procede de la sabiduría, que hace todo lo que puede por correlacionar estas observaciones cuantitativas y cualitativas». ([LU 133:5.4](/es/The_Urantia_Book/133#p5_4))
 
-El filósofo Ludwig Wittgenstein escribió: “_La filosofía no es una disciplina cognitiva. No hay proposiciones filosóficas, no hay conocimiento filosófico. La meta de la filosofía no es el conocimiento sino la comprensión._”
+El filósofo Ludwig Wittgenstein escribió: «_La filosofía no es una disciplina cognitiva. No hay proposiciones filosóficas, no hay conocimiento filosófico. La meta de la filosofía no es el conocimiento sino la comprensión._»
 
-> “Siempre existe el peligro de que el científico que se ocupa de lo puramente físico pueda llegar a sufrir de orgullo matemático y de egoísmo estadístico, sin mencionar la ceguera espiritual”. ([UB 133:5.4](/es/El_Libro_de_Urantia/133#p5_4))
+> «Siempre existe el peligro de que el científico que se ocupa de lo puramente físico pueda llegar a sufrir de orgullo matemático y de egoísmo estadístico, sin mencionar la ceguera espiritual». ([LU 133:5.4](/es/The_Urantia_Book/133#p5_4))
 
 Este problema parece ser raro entre los grandes científicos. El dogmatismo y la arrogancia, como ocurre con los religiosos, pertenecen a una raza menor.
 
-> “La cantidad puede ser identificada como un hecho, convirtiéndose así en una uniformidad científica. La calidad, como está sujeta a la interpretación de la mente, representa una estimación de valores, y por lo tanto, debe permanecer como una experiencia del individuo”. ([UB 133:5.7](/es/El_Libro_de_Urantia/133#p5_7))
+> «La cantidad puede ser identificada como un hecho, convirtiéndose así en una uniformidad científica. La calidad, como está sujeta a la interpretación de la mente, representa una estimación de valores, y por lo tanto, debe permanecer como una experiencia del individuo». ([LU 133:5.7](/es/The_Urantia_Book/133#p5_7))
 
 El valor y la calidad son siempre relativos. Como la belleza, están en el ojo del espectador.
 
-> “Hay unidad en el universo cósmico, si tan sólo pudierais discernir su funcionamiento en su estado actual. El universo real es amistoso para cada hijo del Dios eterno”. ([UB 133:5.8](/es/El_Libro_de_Urantia/133#p5_8))
+> «Hay unidad en el universo cósmico, si tan sólo pudierais discernir su funcionamiento en su estado actual. El universo real es amistoso para cada hijo del Dios eterno». ([LU 133:5.8](/es/The_Urantia_Book/133#p5_8))
 
 El universo real es el universo de Dios y es amigable con las personalidades reales que entregan su libre albedrío a Dios para buscar la perfección que es Dios. La elección alternativa es la soberanía de la voluntad propia, cuyo efecto final es la alienación de la realidad misma.
 
-> “El verdadero problema es: ¿Cómo puede conseguir la mente finita del hombre una unidad de pensamiento lógica, verdadera y proporcionada? Este estado mental de conocimiento del universo sólo se puede obtener concibiendo la idea de que los hechos cuantitativos y los valores cualitativos tienen una causación común: el Padre Paradisiaco”. ([UB 133:5.8](/es/El_Libro_de_Urantia/133#p5_8))
+> «El verdadero problema es: ¿Cómo puede conseguir la mente finita del hombre una unidad de pensamiento lógica, verdadera y proporcionada? Este estado mental de conocimiento del universo sólo se puede obtener concibiendo la idea de que los hechos cuantitativos y los valores cualitativos tienen una causación común: el Padre Paradisiaco». ([LU 133:5.8](/es/The_Urantia_Book/133#p5_8))
 
 > Quien quiera hacer el bien a otro debe hacerlo en detalles minuciosos. El bien general es el alegato del sinvergüenza, del hipócrita y del adulador.
 > Guillermo Blake
@@ -50,35 +50,35 @@ El universo real es el universo de Dios y es amigable con las personalidades rea
 > Nadie debe acercarse al templo de la ciencia con alma de cambista.
 > Thomas Browne
 
-Jesús nos informó que solo Dios es bueno, que toda bondad tiene su origen en Dios. También tenemos: “El hombre puede temer a un gran Dios, pero confía y ama solo a un Dios bueno. Esta bondad de Dios es parte de la personalidad de Dios, y su plena revelación aparece sólo en la experiencia religiosa personal de los creyentes hijos de Dios”. **Si nos esforzamos por el bien, nos esforzamos por Dios**. Jesús también dijo: “Estoy absolutamente seguro de que todo el universo es amigo mío. Insisto en creer en esta verdad todopoderosa con una confianza de todo corazón a pesar de todas las apariencias en contrario”.
+Jesús nos informó que solo Dios es bueno, que toda bondad tiene su origen en Dios. También tenemos: «El hombre puede temer a un gran Dios, pero confía y ama solo a un Dios bueno. Esta bondad de Dios es parte de la personalidad de Dios, y su plena revelación aparece sólo en la experiencia religiosa personal de los creyentes hijos de Dios». **Si nos esforzamos por el bien, nos esforzamos por Dios**. Jesús también dijo: «Estoy absolutamente seguro de que todo el universo es amigo mío. Insisto en creer en esta verdad todopoderosa con una confianza de todo corazón a pesar de todas las apariencias en contrario».
 
 Nuestra fe y confianza total en la bondad de Dios y la amabilidad de todo su universo unifica nuestras mentes y nuestras personalidades con el Dios-Espíritu-Interno—ya pesar de todas y cada una de las apariencias conflictivas, hay unidad.
 
-> “Una concepción así de la realidad permite una comprensión más amplia de la unidad intencional de los fenómenos del universo; revela incluso una meta espiritual que la personalidad alcanza de manera progresiva”. ([UB 133:5.8](/es/El_Libro_de_Urantia/133#p5_8))
+> «Una concepción así de la realidad permite una comprensión más amplia de la unidad intencional de los fenómenos del universo; revela incluso una meta espiritual que la personalidad alcanza de manera progresiva». ([LU 133:5.8](/es/The_Urantia_Book/133#p5_8))
 
 Hay un propósito en la vida mortal: la meta espiritual del logro de la bondad.
 
-> “Éste es un concepto de unidad que puede percibir el trasfondo inmutable de un universo viviente donde las relaciones impersonales cambian sin cesar y donde las relaciones personales evolucionan continuamente”. ([UB 133:5.8](/es/El_Libro_de_Urantia/133#p5_8))
+> «Éste es un concepto de unidad que puede percibir el trasfondo inmutable de un universo viviente donde las relaciones impersonales cambian sin cesar y donde las relaciones personales evolucionan continuamente». ([LU 133:5.8](/es/The_Urantia_Book/133#p5_8))
 
 Lo único que no cambia en ninguna parte es el Dios Eterno. Dios es el trasfondo estable cuya presencia nuestras mentes unificadas pueden sentir.
 
-> “La materia, el espíritu y el estado intermedio entre ambos, son tres niveles interrelacionados e interasociados de la verdadera unidad del universo real. Por muy divergentes que puedan parecer los fenómenos universales de los hechos y de los valores, a fin de cuentas están unificados en el Supremo”. ([UB 133:5.9](/es/El_Libro_de_Urantia/133#p5_9))
+> «La materia, el espíritu y el estado intermedio entre ambos, son tres niveles interrelacionados e interasociados de la verdadera unidad del universo real. Por muy divergentes que puedan parecer los fenómenos universales de los hechos y de los valores, a fin de cuentas están unificados en el Supremo». ([LU 133:5.9](/es/The_Urantia_Book/133#p5_9))
 
-El estado que interviene entre la materia y el espíritu es “morontia”. Pero todo es uno en el Dios experiencial de los universos finitos, el Ser Supremo.
+El estado que interviene entre la materia y el espíritu es «morontia». Pero todo es uno en el Dios experiencial de los universos finitos, el Ser Supremo.
 
-> “La realidad de la existencia material está vinculada a la energía no reconocida así como a la materia visible. Cuando las energías del universo son frenadas hasta el punto de adquirir el grado requerido de movimiento, entonces, en condiciones favorables, estas mismas energías se convierten en masa”. ([UB 133:5.10](/es/El_Libro_de_Urantia/133#p5_10))
+> «La realidad de la existencia material está vinculada a la energía no reconocida así como a la materia visible. Cuando las energías del universo son frenadas hasta el punto de adquirir el grado requerido de movimiento, entonces, en condiciones favorables, estas mismas energías se convierten en masa». ([LU 133:5.10](/es/The_Urantia_Book/133#p5_10))
 
 Antes de la bomba atómica, este concepto era prácticamente impensable para la psique humana. Nuestros físicos ahora buscan confirmar que en algún lugar por encima de un nivel de energía de 20 billones de billones de electronvoltios, hay una zona de masa cero. A medida que los niveles de energía disminuyen, una partícula aún hipotética, el bosón de Higgs, proporciona el mecanismo que rompe la simetría de la hipótesis de masa cero, lo que permite la existencia de partículas de baja masa que conforman nuestro mundo finito de materia.
 
-> “Y no olvides que la mente que es la única que puede percibir la presencia de realidades aparentes también es real”.
+> «Y no olvides que la mente que es la única que puede percibir la presencia de realidades aparentes también es real».
 
 La mente es real y distinta de la materia incluso al nivel de la mente mecánica asociada con la energía física de los organismos inferiores. La mente se ocupa de los niveles apropiados para los estados materiales espirituales, morontiales y finitos.
 
 > Es mejor dejar de intentar que los demás te amen y concentrarte en ser alguien a quien los demás puedan amar.
 
-> De todos los peligros que acechan a la naturaleza mortal del hombre y ponen en peligro su integridad espiritual, el orgullo es el peor. ([UB 111:6.9](/es/El_Libro_de_Urantia/111#p6_9))
+> De todos los peligros que acechan a la naturaleza mortal del hombre y ponen en peligro su integridad espiritual, el orgullo es el peor. ([LU 111:6.9](/es/The_Urantia_Book/111#p6_9))
 
-> “Y la causa fundamental de este universo de energía-masa, mente y espíritu, es eterna—existe y consiste en la naturaleza y reacciones del Padre Universal y sus coordenadas absolutas.”
+> «Y la causa fundamental de este universo de energía-masa, mente y espíritu, es eterna—existe y consiste en la naturaleza y reacciones del Padre Universal y sus coordenadas absolutas.»
 
 Falta en este discurso al filósofo griego, pero se requiere para completar nuestra comprensión tanto de la realidad como de nuestro lugar y propósito en esa realidad, está la asociación que nosotros, los mortales, debemos establecer con el Padre-Espíritu que mora en nosotros: el regalo de Dios de una parte única de sí mismo. a cada mortal ascendente.
 

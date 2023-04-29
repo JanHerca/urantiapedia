@@ -16,7 +16,7 @@ El yo se ha rendido al intrigante impulso de una motivación que lo abarca todo 
 
 Pero la verdadera religión es un amor vivo, una vida de servicio. El desapego del religioso de mucho de lo que es puramente temporal y trivial nunca conduce al aislamiento, ni debe destruir el sentido del humor. La religión genuina no le quita nada a la existencia humana, pero agrega nuevos significados a toda la vida; genera nuevos tipos de entusiasmo, celo y coraje.
 
-Una de las características más asombrosas de la vida religiosa es esa paz dinámica y sublime, esa paz que sobrepasa todo entendimiento humano, ese equilibrio cósmico que presagia la ausencia de toda duda y agitación. Tales niveles de estabilidad espiritual son inmunes a la decepción. Tales religiosos son como el Apóstol Pablo, quien dijo: “Estoy convencido de que ni la muerte, ni la vida, ni los ángeles, ni los principados, ni los poderes, ni las cosas presentes, ni las cosas por venir, ni lo alto, ni lo profundo, ni ninguna otra cosa podrá separarnos del amor de Dios._” ([UB 100:6.6](/en/The_Urantia_Book/100#p6_6))
+Una de las características más asombrosas de la vida religiosa es esa paz dinámica y sublime, esa paz que sobrepasa todo entendimiento humano, ese equilibrio cósmico que presagia la ausencia de toda duda y agitación. Tales niveles de estabilidad espiritual son inmunes a la decepción. Tales religiosos son como el Apóstol Pablo, quien dijo: «Estoy convencido de que ni la muerte, ni la vida, ni los ángeles, ni los principados, ni los poderes, ni las cosas presentes, ni las cosas por venir, ni lo alto, ni lo profundo, ni ninguna otra cosa podrá separarnos del amor de Dios._» ([LU 100:6.6](/es/The_Urantia_Book/100#p6_6))
 
 ## Enlaces externos
 
