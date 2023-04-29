@@ -809,9 +809,9 @@ Source: https://urantia-book.org/archive/newsletters/innerface/index.html
 
 ### Volume 10 - No. 4
 
-| Title                                              | Webpage                                                                           | Author | Tags                                         |
-| -------------------------------------------------- | --------------------------------------------------------------------------------- | ------ | -------------------------------------------- |
-| [The Mind of Jesus](/en/article/The_Mind_of_Jesus) | [Link](https://urantia-book.org/archive/newsletters/innerface/vol10_4/page2.html) |        | Jesus, Jesus teachings, Morality, Revelation, Innerface International, article |
+| Title                                                           | Webpage                                                                           | Author       | Tags                                         |
+| --------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------ | -------------------------------------------- |
+| [The Mind of Jesus](/en/article/Ken_Glasziou/The_Mind_of_Jesus) | [Link](https://urantia-book.org/archive/newsletters/innerface/vol10_4/page2.html) | Ken Glasziou | Jesus, Jesus teachings, Morality, Revelation, Innerface International, article |
 
 ### Volume 10 - No. 5
 
