@@ -8,6 +8,8 @@ editor: markdown
 dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+
 Estos Documentos confirman que el propósito de la vida de Jesús en nuestro planeta incluía revelar a Dios al hombre y al hombre a Dios, y que su vida debía exhibir «las posibilidades trascendentes que puede alcanzar un humano que conoce a Dios durante la breve carrera de la existencia mortal. » ([LU 120:2.8](/es/The_Urantia_Book/120#p2_8))
 
 Habiendo logrado plenamente su propósito, Jesús nos dejó con este mandato: «Vuestra misión en el mundo está basada en el hecho de que he vivido entre vosotros una vida revelando a Dios, está basada en la verdad de que vosotros y todos los demás hombres sois los hijos de Dios; y **esta misión consistirá en la vida que viviréis entre los hombres** —en la experiencia real y viviente de amar y servir a los hombres como yo os he amado y servido». ([LU 191:5.3](/es/The_Urantia_Book/191#p5_3))

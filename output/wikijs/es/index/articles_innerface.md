@@ -817,24 +817,24 @@ Source: https://urantia-book.org/archive/newsletters/innerface/index.html
 
 | Título                                                                                              | Original                                                                             | Author | Tags |
 | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------ | ---- |
-| [Spiritual Communion](/es/article/Spiritual_Communion)                                              | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol10_5/page2.html)  |        |      |
-| [Further Exploring the Mind of Jesus](/es/article/Further_Exploring_the_Mind_of_Jesus)              | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol10_5/page3.html)  |        |      |
-| [Agree with your Adversary](/es/article/Agree_with_your_Adversary)                                  | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol10_5/page9.html)  |        |      |
-| [Christianity and Archaeology—An Update](/es/article/Christianity_and_Archaeology_An_Update)        | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol10_5/page10.html) |        |      |
-| [Religion of the Spirit—what could it mean?](/es/article/Religion_of_the_Spirit_what_could_it_mean) | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol10_5/page12.html) |        |      |
-| [Criticality](/es/article/Criticality)                                                              | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol10_5/page13.html) |        |      |
+| [Comunión Espiritual](/es/article/Ken_Glasziou/Spiritual_Communion)                                              | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol10_5/page2.html)  | Ken Glasziou | Religion, Worship, Christianity, Innerface International, article     |
+| [Explorando aún más la mente de Jesús](/es/article/Ken_Glasziou/Further_Exploring_the_Mind_of_Jesus)              | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol10_5/page3.html)  | Ken Glasziou | Jesus teachings, Bible—Matthew, Innerface International, article     |
+| [“De acuerdo con tu adversario”](/es/article/Ken_Glasziou/Agree_with_your_Adversary)                                  | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol10_5/page9.html)  | Ken Glasziou | Jesus teachings, Innerface International, article     |
+| [Cristianismo y arqueología: una actualización](/es/article/Ken_Glasziou/Christianity_and_Archaeology_An_Update)        | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol10_5/page10.html) | Ken Glasziou | Archaeology, Bible, Christianity, Judaism, Innerface International, article     |
+| [La religión del Espíritu: ¿qué podría significar?](/es/article/Ken_Glasziou/Religion_of_the_Spirit_what_could_it_mean) | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol10_5/page12.html) | Ken Glasziou | Religion, Spirituality, Innerface International, article     |
+| [Criticidad](/es/article/Ken_Glasziou/Criticality)                                                              | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol10_5/page13.html) | Ken Glasziou | Archaeology, Bible, Christianity, Judaism, Innerface International, article     |
 
 ### Volumen 10 - No. 6
 
 | Título                                                                                              | Original                                                                             | Autor         | Tags |
 | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------- | ---- |
-| [Subjectivity and Reality](/es/article/Subjectivity_and_Reality)                                    | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol10_6/page2.html)  |               |      |
-| [Mind! Do I have one?](/es/article/Charles_Birch/Mind_Do_I_have_one)                                | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol10_6/page3.html)  | Charles Birch |      |
-| [What do the Urantia Papers say about mind?](/es/article/What_do_the_Urantia_Papers_say_about_mind) | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol10_6/page8.html)  |               |      |
-| [What does God want from us?](/es/article/What_does_God_want_from_us)                               | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol10_6/page9.html)  |               |      |
-| [Can I “be” what God wants me to “be”?](/es/article/Can_I_be_what_God_wants_me_to_be)               | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol10_6/page10.html) |               |      |
-| [Why Worry?](/es/article/Why_Worry)                                                                 | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol10_6/page11.html) |               |      |
-| [How and where did mankind arise?](/es/article/How_and_Where_did_Mankind_arise)                     | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol10_6/page13.html) |               |      |
+| [Subjectivity and Reality](/es/article/Subjectivity_and_Reality)                                    | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol10_6/page2.html)  |               | , Innerface International, article     |
+| [Mind! Do I have one?](/es/article/Charles_Birch/Mind_Do_I_have_one)                                | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol10_6/page3.html)  | Charles Birch | , Innerface International, article     |
+| [What do the Urantia Papers say about mind?](/es/article/What_do_the_Urantia_Papers_say_about_mind) | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol10_6/page8.html)  |               | , Innerface International, article     |
+| [What does God want from us?](/es/article/What_does_God_want_from_us)                               | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol10_6/page9.html)  |               | , Innerface International, article     |
+| [Can I “be” what God wants me to “be”?](/es/article/Can_I_be_what_God_wants_me_to_be)               | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol10_6/page10.html) |               | , Innerface International, article     |
+| [Why Worry?](/es/article/Why_Worry)                                                                 | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol10_6/page11.html) |               | , Innerface International, article     |
+| [How and where did mankind arise?](/es/article/How_and_Where_did_Mankind_arise)                     | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol10_6/page13.html) |               | , Innerface International, article     |
 
 ## Volumen 11
 

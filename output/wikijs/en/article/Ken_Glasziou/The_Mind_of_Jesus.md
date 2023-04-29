@@ -8,6 +8,8 @@ editor: markdown
 dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+
 These Papers confirm that the purpose of Jesus' life on our planet included revealing God to man and man to God, and that his life was to exhibit “the transcendent possibilities attainable by a God-knowing mortal being during the short career of mortal existence.” ([UB 120:2.8](/en/The_Urantia_Book/120#p2_8))
 
 Having fully achieved his purpose, Jesus left us with this injunction: “Your mission to the world is founded on the fact that I lived a God-revealing life among you; on the truth that you and all other men and women are the sons and daughters of God. And **this mission shall consist in the life which you will live among them**—the actual and living experience of loving them and serving them, even as I have loved and served you.” ([UB 191:5.3](/en/The_Urantia_Book/191#p5_3))

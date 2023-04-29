@@ -1,6 +1,6 @@
 // Replacements to convert HTML to Markdown
 
-filter "tests/markdown/*.md"
+filter "tests/markdown/en/*.md"
 
 replace-regex "<!--|-->"
 with "---"
@@ -40,3 +40,6 @@ with ">"
 
 replace-regex "<sup>|</sup>"
 with "^"
+
+replace "ckeditor"
+with "markdown"
