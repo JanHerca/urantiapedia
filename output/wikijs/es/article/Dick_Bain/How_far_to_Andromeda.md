@@ -12,7 +12,7 @@ dateCreated: 2022-09-26T00:53:24.466Z
 
 ## Resumen
 
-Este parece ser uno de esos errores del _Libro de Urantia_ en los que los autores simplemente han usado el valor actual ya que, para nuestro 'marco en el que pensar' (P.1260) la verdadera distancia a Andrómeda tiene poca importancia, pero como un error que pronto sería ampliamente conocido, su utilidad como inhibidor del fundamentalismo es bastante grande.
+Este parece ser uno de esos errores del _Libro de Urantia_ en los que los autores simplemente han usado el valor actual ya que, para nuestro ‘marco en el que pensar’ (P.1260) la verdadera distancia a Andrómeda tiene poca importancia, pero como un error que pronto sería ampliamente conocido, su utilidad como inhibidor del fundamentalismo es bastante grande.
 
 <figure class="image urantiapedia">
 <img src="/image/article/Dick_Bain/How_far_to_Andromeda/M31bobo.jpg">

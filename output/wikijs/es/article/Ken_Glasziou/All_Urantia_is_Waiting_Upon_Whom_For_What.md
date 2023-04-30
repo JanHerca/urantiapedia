@@ -14,7 +14,7 @@ dateCreated: 2022-09-26T01:27:35.398Z
 
 “¿Soy yo Señor? ¿Estás realmente esperando a alguien como yo? ¿Es por eso que tengo el Libro de Urantia? ¿Y seguramente no puede ser cierto que se espera que los lectores de El libro de Urantia llevemos su mensaje a personas intolerantes, poco receptivas y atrasadas cuyas mentes están cerradas a cualquier mensaje que no sea el suyo propio?
 
-Pero, ¿qué pasa con todos esos conceptos emocionantes sobre nosotros, los lectores de libros? ¿No somos un grupo de emergencia muy especial elegido para ser trasladado a algún nuevo planeta cuando estas 'otras personas' han hecho que este sea inhabitable? ¿O no somos un acervo genético especial elegido para ser los sobrevivientes de un holocausto atómico para fundar una raza nueva y superior? ¿Y no somos todos miembros de élite del Cuerpo de Reserva del Destino?
+Pero, ¿qué pasa con todos esos conceptos emocionantes sobre nosotros, los lectores de libros? ¿No somos un grupo de emergencia muy especial elegido para ser trasladado a algún nuevo planeta cuando estas ‘otras personas’ han hecho que este sea inhabitable? ¿O no somos un acervo genético especial elegido para ser los sobrevivientes de un holocausto atómico para fundar una raza nueva y superior? ¿Y no somos todos miembros de élite del Cuerpo de Reserva del Destino?
 
 ¿Y qué hay de todos esos ovnis preparados especialmente para nosotros? ¿Era solo un rumor? ¿Es nuestro destino simplemente estar aquí, viviendo una vida mundana a tu imagen para demostrar bondad a las personas que no quieren escuchar? ¿Seguramente debe haber algo mejor para personas especiales como nosotros?
 

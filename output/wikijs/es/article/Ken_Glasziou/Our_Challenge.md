@@ -26,7 +26,7 @@ Por lo tanto, la realidad es que la gran mayoría de tales autores se darán cue
 
 Pero, ¿es un libro completo la forma de difundir el mensaje de la revelación de Urantia? En el número anterior de este boletín, refiriéndose al párrafo «desafío religioso de esta época», se concluyó que:
 
-«Actualmente, existe una necesidad urgente no solo de una nueva filosofía, sino de una para cada raza, nación, religión, facción, idioma, todas y cada una de las barreras que nos dividen. Y todas esas filosofías tienen que ser breves, nítidas y sencillas, y basarse directamente en esos conceptos reveladores de '_verdad cósmica, belleza del universo y bondad divina_'».
+«Actualmente, existe una necesidad urgente no solo de una nueva filosofía, sino de una para cada raza, nación, religión, facción, idioma, todas y cada una de las barreras que nos dividen. Y todas esas filosofías tienen que ser breves, nítidas y sencillas, y basarse directamente en esos conceptos reveladores de ‘_verdad cósmica, belleza del universo y bondad divina_’».
 
 La necesidad de ser «breve, nítido y simple» parece descartar las obras del tamaño de un libro. En las páginas 3 a 6 de este número, se presentan algunos ejemplos de condensación de secciones de los Documentos en el intento de «construir filosofías nuevas y atractivas» que parecen encajar también con la descripción de «verdad cósmica, belleza universal y bondad divina».
 

@@ -10,7 +10,7 @@ dateCreated: 2022-09-26T18:06:08.036Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
 
-Los 'errores' más conocidos en los Documentos son la distancia a la galaxia de Andrómeda, la «disrupción instantánea» de elementos superiores a la centésima, el planeta Mercurio siempre girando la misma cara hacia el sol y el número de cromosomas humanos. Todos ellos eran simplemente citas directas del conocimiento actual en ese momento.
+Los ‘errores’ más conocidos en los Documentos son la distancia a la galaxia de Andrómeda, la «disrupción instantánea» de elementos superiores a la centésima, el planeta Mercurio siempre girando la misma cara hacia el sol y el número de cromosomas humanos. Todos ellos eran simplemente citas directas del conocimiento actual en ese momento.
 
 > «Hace *2.500.000.000* de años, el tamaño de los planetas había aumentado inmensamente. Urantia era una esfera bien desarrollada; tenía aproximadamente una décima parte de su masa actual y continuaba aumentando rápidamente por acreción meteórica.». [LU 57:6.10](/es/The_Urantia_Book/57#p6_10)
 

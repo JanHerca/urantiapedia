@@ -289,7 +289,7 @@ La bondad es atractiva solo cuando es graciosa, y es efectiva solo cuando es atr
 
 Jesús siempre estuvo listo y dispuesto a detener o detener a una multitud mientras atendía las necesidades de una sola persona o de un niño pequeño. La mayoría de las cosas realmente importantes que Jesús dijo o hizo parecían suceder casualmente, «mientras pasaba». Dispensó salud y felicidad de forma natural y elegante mientras viajaba por la vida. Era literalmente cierto, «él anduvo haciendo el bien».
 
-Y así, corresponde a los seguidores del Maestro en todas las épocas aprender a ministrar 'al pasar', a hacer el bien desinteresado mientras realizan sus deberes diarios.
+Y así, corresponde a los seguidores del Maestro en todas las épocas aprender a ministrar ‘al pasar’, a hacer el bien desinteresado mientras realizan sus deberes diarios.
 
 ## Amar a tu prójimo
 
@@ -326,7 +326,7 @@ Al enseñar a los niños a rezar el «Padre Nuestro», se coloca una enorme resp
 > Aquellos que buscan el verdadero camino hacia la iluminación no deben esperar una tarea fácil o placentera por ofrecimientos de respeto, honor y devoción.
 > Buda
 
-> Debemos 'ser' ese cambio que deseamos ver en el mundo.
+> Debemos ‘ser’ ese cambio que deseamos ver en el mundo.
 
 ## Recordar
 

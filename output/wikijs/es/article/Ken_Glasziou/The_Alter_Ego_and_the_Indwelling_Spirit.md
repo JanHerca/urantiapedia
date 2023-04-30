@@ -1,5 +1,5 @@
 ---
-title: "El 'alter ego' y el espíritu interior"
+title: "El ‘alter ego’ y el espíritu interior"
 description: 
 published: true
 date: 2023-03-05T20:52:21.266Z

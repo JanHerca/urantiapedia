@@ -20,11 +20,11 @@ Tal mundo carece de esas cosas que muchos de nosotros creemos que dan sentido a 
 
 Estos organismos imaginarios de un mundo imaginario son en realidad réplicas de lo que muchos científicos del comportamiento afirman que somos: máquinas que hacen lo que hacen porque no pueden hacer otra cosa.
 
-«Hágase esta pregunta», dice el autor, “¿Hay algo inmoral en desconectar su computadora? Si no, ¿cómo podría haber algo inmoral en 'desconectar' a tu vecino por algún medio conveniente si él/ella es solo un organismo insensato y resulta ser una molestia para ti por alguna razón?
+«Hágase esta pregunta», dice el autor, “¿Hay algo inmoral en desconectar su computadora? Si no, ¿cómo podría haber algo inmoral en ‘desconectar’ a tu vecino por algún medio conveniente si él/ella es solo un organismo insensato y resulta ser una molestia para ti por alguna razón?
 
 **Este es el tipo de mundo en el que viviríamos si palabras como bien o mal no tuvieran significado**. Lo más extraño de este mundo imaginario es que es exactamente el tipo de mundo en el que esperaríamos que se convirtiera el nuestro si hubiera evolucionado a lo largo de un camino en el que la conciencia y la conciencia fueran epifenómenos sin función y la moralidad, la bondad y el altruismo fueran aberraciones mentales que no tienen nada. función efectiva en las respuestas conductuales reales, como afirman tantos científicos conductuales.
 
-Llevando nuestra imaginación un paso más allá, **¿por qué el altruismo evolucionaría o existiría en cualquier parte de cualquier universo si no existiera ninguna fuerza o poder de ningún tipo que de alguna manera fomentara su eventual aparición**? Supuestamente, las máquinas como nosotros hacemos lo que hacemos porque no podemos hacer otra cosa. Entonces, ¿qué llevó a los robots como nosotros a 'imaginar' todas estas cosas que no tienen realidad? ¿Cuál podría ser la fuente de tales imaginaciones?
+Llevando nuestra imaginación un paso más allá, **¿por qué el altruismo evolucionaría o existiría en cualquier parte de cualquier universo si no existiera ninguna fuerza o poder de ningún tipo que de alguna manera fomentara su eventual aparición**? Supuestamente, las máquinas como nosotros hacemos lo que hacemos porque no podemos hacer otra cosa. Entonces, ¿qué llevó a los robots como nosotros a ‘imaginar’ todas estas cosas que no tienen realidad? ¿Cuál podría ser la fuente de tales imaginaciones?
 
 > Las ostras son más hermosas que cualquier religión. No hay nada en el cristianismo ni en el budismo que iguale el desinterés simpático de una ostra.
 >

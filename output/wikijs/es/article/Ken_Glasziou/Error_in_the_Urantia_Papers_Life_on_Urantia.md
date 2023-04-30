@@ -12,7 +12,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 ## Resumen
 
-La única forma de reconciliar la historia del Libro de Urantia sobre la implantación de la vida con la de la arqueología moderna es asumir que la definición de vida de los autores incluye el potencial para desarrollar el 'intelecto'. Sin embargo, incluso el genoma de las bacterias más primitivas puede autogenerarse espontáneamente a partir de un grupo de nucleótidos fácilmente disponibles (el ADN consiste en un polímero largo de cuatro nucleótidos unidos en un orden específico) parece imposible. ¿La razón? Las posibilidades de que incluso un solo gen surja espontáneamente en tal situación es una posibilidad en 10^150^, un número mucho mayor que el número de estrellas en el universo visible.
+La única forma de reconciliar la historia del Libro de Urantia sobre la implantación de la vida con la de la arqueología moderna es asumir que la definición de vida de los autores incluye el potencial para desarrollar el ‘intelecto’. Sin embargo, incluso el genoma de las bacterias más primitivas puede autogenerarse espontáneamente a partir de un grupo de nucleótidos fácilmente disponibles (el ADN consiste en un polímero largo de cuatro nucleótidos unidos en un orden específico) parece imposible. ¿La razón? Las posibilidades de que incluso un solo gen surja espontáneamente en tal situación es una posibilidad en 10^150^, un número mucho mayor que el número de estrellas en el universo visible.
 
 Lo cual es indicativo de que ni siquiera la generación espontánea de la forma de vida más primitiva es una posibilidad racional.
 
