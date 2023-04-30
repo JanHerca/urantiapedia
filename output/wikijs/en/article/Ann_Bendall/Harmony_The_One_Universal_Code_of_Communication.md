@@ -1,14 +1,14 @@
 ---
-title: Harmony: The One Universal Code of Communication
+title: "Harmony: The One Universal Code of Communication"
 description: 
 published: true
 date: 2022-12-23T20:06:31.316Z
-tags: psychology
+tags: psychology, Innerface International, article
 editor: markdown
 dateCreated: 2022-09-26T02:09:16.433Z
 ---
 
-Author: **Ann Bendall, B.A. Dip.**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
 
 > Harmony, the music of the seven levels of melodious association, is the one universal code of spirit communication. Music, such as Urantia mortals understand, attains its highest expression in the schools of Jerusem, . . . [UB 44:1.11](/en/The_Urantia_Book/44#p1_11)
 

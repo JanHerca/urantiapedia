@@ -3,14 +3,16 @@ title: El Alfa y la Omega
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion
+tags: religion, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
+
 _Resumido de «El camino menos transitado», por M. Scott Peck_
 
-Todos los que postulamos un Dios amoroso eventualmente llegamos a una sola idea aterradora: _Dios quiere que lleguemos a ser como Él mismo._ Estamos creciendo hacia la divinidad, porque es Dios quien es la fuente de la fuerza evolutiva y Dios quien es su destino. Esto es lo que queremos decir cuando decimos que Él es el Alfa y la Omega, el principio y el fin.
+Todos los que postulamos un Dios amoroso eventualmente llegamos a una sola idea aterradora: **Dios quiere que lleguemos a ser como Él mismo.** Estamos creciendo hacia la divinidad, porque es Dios quien es la fuente de la fuerza evolutiva y Dios quien es su destino. Esto es lo que queremos decir cuando decimos que Él es el Alfa y la Omega, el principio y el fin.
 
 Dije que esta es una idea aterradora porque nunca se le ocurrió una idea a la mente del hombre que imponga tal carga sobre nosotros. Es la idea más exigente en la historia de la humanidad porque, si la creemos, exige todo lo que podamos dar, todo lo que tenemos. Una cosa es creer en un Dios amoroso y cariñoso, y otra muy distinta creer en un Dios que tiene en mente para nosotros precisamente que debamos alcanzar Su posición, Su poder, Su sabiduría, Su identidad. Si creyéramos que es posible que el hombre llegara a ser como Dios, esta creencia, por su propia naturaleza, nos impondría la obligación de intentar alcanzar lo posible.
 
@@ -20,7 +22,7 @@ La idea de que Dios nos está nutriendo activamente para que podamos crecer y se
 
 En la historia bíblica, Adán y Eva quebrantaron la ley de Dios. Ellos escucharon a la serpiente sin obtener el lado de la historia de Dios antes de actuar. Al debatir la sabiduría de un curso de acción propuesto, los seres humanos fallan rutinariamente en obtener el punto de vista de Dios en el asunto. No consultan ni escuchan al Dios dentro de ellos, para aprovechar el conocimiento de la rectitud que reside inherentemente dentro de las mentes de toda la humanidad. Hacemos este fracaso porque somos flojos. Es trabajo llevar a cabo estos debates internos, requieren tiempo y energía. Y si los tomamos en serio, por lo general nos encontramos con que se nos insta a tomar el camino más difícil, el camino de más esfuerzo en lugar de menos, uno que puede abrirnos al sufrimiento y la lucha. Como Adán y Eva, y cada uno de nuestros antepasados ​​antes que nosotros, todos somos perezosos.
 
-_El pecado original existe; es nuestra pereza._ Una forma importante que adopta la pereza es el miedo. El mito de Adán y Eva se puede utilizar para ilustrar esto. Se podría decir que no fue la pereza lo que impidió que Adán y Eva cuestionaran a Dios sobre las razones detrás de su ley, sino el miedo, el miedo ante la grandeza de Dios. Si bien no todo miedo es pereza, mucho miedo es exactamente eso. Gran parte de nuestro miedo es el miedo al cambio en el statu quo, el miedo a lo que podríamos perder si nos aventuramos a salir de donde estamos ahora. Las personas encuentran la nueva información claramente amenazante porque puede requerir que trabajen para revisar sus mapas de la realidad, e instintivamente buscan evitar ese trabajo. La mayoría de las veces lucharán contra la nueva información más que por su asimilación. Su resistencia está motivada por el miedo, sí, pero la fuente de ese miedo es la pereza, es el miedo al trabajo que tendrían que hacer.
+**El pecado original existe; es nuestra pereza.** Una forma importante que adopta la pereza es el miedo. El mito de Adán y Eva se puede utilizar para ilustrar esto. Se podría decir que no fue la pereza lo que impidió que Adán y Eva cuestionaran a Dios sobre las razones detrás de su ley, sino el miedo, el miedo ante la grandeza de Dios. Si bien no todo miedo es pereza, mucho miedo es exactamente eso. Gran parte de nuestro miedo es el miedo al cambio en el statu quo, el miedo a lo que podríamos perder si nos aventuramos a salir de donde estamos ahora. Las personas encuentran la nueva información claramente amenazante porque puede requerir que trabajen para revisar sus mapas de la realidad, e instintivamente buscan evitar ese trabajo. La mayoría de las veces lucharán contra la nueva información más que por su asimilación. Su resistencia está motivada por el miedo, sí, pero la fuente de ese miedo es la pereza, es el miedo al trabajo que tendrían que hacer.
 
 Adán y Eva buscaron el camino fácil: comer del fruto que les conferiría conocimiento inmerecido. Esperaban poder salirse con la suya. Pero no lo hicieron. Buscar el conocimiento del Dios interior puede implicar mucho trabajo. Pero la moraleja de la historia es esta: en la búsqueda de la meta de ser como Dios, _debe_ hacerse.
 

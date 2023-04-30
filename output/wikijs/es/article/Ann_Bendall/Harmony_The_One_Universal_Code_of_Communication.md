@@ -3,12 +3,12 @@ title: "Armonía: El Único Código Universal de Comunicación"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: psychology
+tags: psychology, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Ann Bendall, B.A. Dip.** | Traductor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
 
 > La armonía, la música de los siete niveles de la asociación melódica, es el único código universal de comunicación espiritual. La música, tal como la comprenden los mortales de Urantia, alcanza su máxima expresión en las escuelas de Jerusem, [...] [LU 44:1.11](/es/The_Urantia_Book/44#p1_11)
 

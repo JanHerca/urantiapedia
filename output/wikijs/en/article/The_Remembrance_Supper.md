@@ -1,12 +1,14 @@
 ---
-title: The Remembrance Supper
+title: "The Remembrance Supper"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book
+tags: religion, The Urantia Book, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
+
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 The Brotherhood of Man Library</p>
 
 _The Sunshine Coast Study Group_
 
@@ -18,9 +20,16 @@ In discussion, it transpired that there was some uncertainty about what _The Ura
 
 The Epochal Sermon in _The Urantia Book_,  preached by Jesus shortly after the feeding of the five thousand, is closely parallel to the biblical account given in [Jn 6](/es/Bible/John/6). In _The Urantia Book_ account, Jesus states: “_You have thought that your forefathers in the wilderness ate manna—the bread of heaven—but I say to you that this was the bread of earth. While Moses did not give your fathers bread from heaven, my Father now stands ready to give you the true bread of life. The bread of heaven is that which comes down from God and gives eternal life to the men of the world. And when you say to me, Give us this living bread, I will answer: I am this bread of life. He who comes to me shall not hunger, while he who believes me shall never thirst._” [UB 153:2.8](/en/The_Urantia_Book/153#p2_8)
 
+<figure id="Figure_1" class="image">
+<img src="/image/article/Seven_Sacraments_-_Holy_Eucharist_II_(1647)_-_Poussin_-_NGofScotland.jpg">
+<figcaption><em>Artists throughout the ages have concentrated on one of two dramatic moments either the betrayal, or the institution of the Remembrance Supper. Artist, Nicholas Poussin (1647) chose the latter for his painting called “Eucharist” in a work unmatched for its sense of spirituality, peace and love.</em> <a href="https://commons.wikimedia.org/wiki/File:Seven_Sacraments_-_Holy_Eucharist_II_%281647%29_-_Poussin_-_NGofScotland.jpg">Wikipedia</a></figcaption>
+</figure>
+
 Here, Jesus says that he is the  bread of life and that whoever comes to him will neither hunger or thirst. A pharisee in the audience later picked up on this. Refusing to acknowledge that Jesus was speaking symbolically, he shouted out a question: “_You tell us you are the bread of life. How can you give us your flesh to eat or your blood to drink?_” Jesus response was: “_I did not teach you that my flesh is the bread of life nor that my blood is the water thereof. But I did say that my life in the flesh is a bestowal of the bread of heaven._” A little further on he elaborated: “_You cannot eat my flesh nor can you drink my blood, but you can become one in spirit with me even as I am one in spirit with the Father. You can be nourished by the eternal word of God which is indeed the bread of life, and which has been bestowed in the likeness of mortal flesh; and you can be watered in soul by the divine spirit, which is truly the water of life._” [UB 153:3.2](/en/The_Urantia_Book/153#p3_2)
 
 There is a lot more of this kind of symbolism and an explanation of its meaning in this epochal sermon. How many of us could have hoped to get it right if called upon to put the sermon down in writing even immediately after the event? John is said to have dictated his gospel many years later when he was a very old man. If we compare [Jn 6](/es/Bible/John/6) with _The Urantia Book_ version then it is pretty impressive. John made it obvious that Jesus was speaking symbolically but he confused the water of life as a symbol of that which derives from God with the blood of Jesus as a symbol of the water of life. We can find nowhere in _The Urantia Book_ where Jesus talks symbolically about drinking his blood but he did refer to himself as the bread of life and he did say: “_and this is the bread of life which the Son gives to all who will take it and eat, for the Father has given the Son this life without measure._” [UB 153:2.7](/en/The_Urantia_Book/153#p2_7)
+
+> Jesus arose from the couch and, taking the cup in his hands, blessed it, saying, “Take this cup, all of you, and drink ofit. This shall be the cup ofmy remembrance. This is the cup of the blessing of a new dispensation of grace and truth. This shall be to you the emblem of the bestowal and ministry of the divine Spirit of Truth.” ([UB 179:5.1](/en/The_Urantia_Book/179#p5_1))
 
 In view of the complexity of this symbolism, we can hardly blame John, the other apostles, and the early Christians for confusing the symbolism of the bread and wine of the Remembrance Supper with the symbolic body and blood of Christ.
 

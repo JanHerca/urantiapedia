@@ -1,14 +1,14 @@
 ---
-title: Adam and Eve
+title: "Adam and Eve"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book
+tags: religion, The Urantia Book, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Author: **Ann Bendall**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
 
 Apart from God, the two most maligned personalities in the history of Urantia would have to be Adam and Eve. They were the couple whose “apple-eating” venture cost us humans the glory that once was ours. As a result of their mistake all humans are born inherently evil instead of good! The belief in the innate evil of mankind was embraced by the father of psychology, Freud, and I suspect his religious background would have coloured his theories—which have  subsequently been proved  wrong.
 
@@ -28,11 +28,11 @@ Those must have been very sad times for Adam and Eve and their children, as they
 
 And then came the post of Urantia. All of the Material Sons put in for this “plum” assignment, and Adam and Eve were chosen as the most suitable. They had all the necessary skills as well as vast experience with new arrivals, having been teachers in the citizenship schools on Jerusem.
 
-They were told of the difficulties they would experience, the problems they must deal with, but there is no substitute for real life experience. They were given responsibilities for which they were deemed to be adequately equipped and fully instructed; but, their task was also regarded as nigh on impossible. We can all criticize them for being so impatient, particularly Eve. If they had been more patient they would have succeeded, but the reality was they had a mountain of obstacles to overcome. _Other Material Sons and Daughters normally arrive on a planet at a time when the inhabitants are starting to undertake programs for the eradication of their defective stock._ _Not so on Urantia_ (which still has not embarked on such a scheme). Nor could Adam and Eve obtain any enthusiasm from the inhabitants to any interference with the way things were.
+They were told of the difficulties they would experience, the problems they must deal with, but there is no substitute for real life experience. They were given responsibilities for which they were deemed to be adequately equipped and fully instructed; but, their task was also regarded as nigh on impossible. We can all criticize them for being so impatient, particularly Eve. If they had been more patient they would have succeeded, but the reality was they had a mountain of obstacles to overcome. **Other Material Sons and Daughters normally arrive on a planet at a time when the inhabitants are starting to undertake programs for the eradication of their defective stock. Not so on Urantia** (which still has not embarked on such a scheme). Nor could Adam and Eve obtain any enthusiasm from the inhabitants to any interference with the way things were.
 
 I can imagine the excitement on Satania when they were appointed. All their friends would have given them advice on how to approach the Urantia assignment. There would have been parties and lots of love and warmth on the beautiful sphere of Satania. Then it is all over and they arrive on Urantia and they are so very, very lonely. They have left  every vestige of familiarity behind; their children, their friends, civilization as they had known it for all of their lives to date—their whole life changed overnight.
 
-No sooner did they arrive and the locals became hysterical and wanted to make them gods. That must have been both traumatic and sobering as the midwayers used their power to get the two physically to the scene of uproar before it became totally uncontrollable. And as the days passed, the two must have clung to each other. _Gradually each of their illusions became shattered by the  primitiveness of the inhabitants of Urantia, and the practical appreciation of how slow progress was going to be._
+No sooner did they arrive and the locals became hysterical and wanted to make them gods. That must have been both traumatic and sobering as the midwayers used their power to get the two physically to the scene of uproar before it became totally uncontrollable. And as the days passed, the two must have clung to each other. **Gradually each of their illusions became shattered by the  primitiveness of the inhabitants of Urantia, and the practical appreciation of how slow progress was going to be.**
 
 Seven years the Melchizadeks and Van remained—such a short time. Adam did not want them to leave but the time had come. Who could they talk to? Did they not grieve as their birthdays came around? Or those of their 100 children? There were no fun times, no escape from the incessant trauma and pressure of their work.
 
@@ -47,6 +47,11 @@ The sadness and disappointment of the midwayers and seraphim who so loved the co
 They left the garden with no knowledge of what the future would hold for them, knowing the judges on Salvington would be currently deliberating their fate. The only thing keeping the two functioning would have been the incredible loving pity and sympathy of Adam for his mate.
 
 The ruling was handed down and they were judged in default. They had violated the covenant of their trusteeship as the rulers of Urantia, but had been absolved from all charges of standing in contempt of the Universe Government. They were not held guilty of rebellion!
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-right">
+<img src="/image/article/Ann_Bendall/Adam_and_Eve/406px-Lucas_Cranach.jpg">
+<figcaption><em>Adam & Eve and the forbidden fruit of the Tree of Knowdedge of good and evil in the Garden of Eden. (by 16th century artist, Lucas Cranach).</em> <a href="https://es.m.wikipedia.org/wiki/Archivo:Lucas_Cranach_d._%C3%84._001.jpg">Wikipedia</a></figcaption>
+</figure>
 
 We are told that there never has been (probably) a more disheartening miscarriage of wisdom on any planet in the whole of Nebadon, and I verily believe Adam and Eve realized this, and, wondrous couple as they are, they accepted this miscarriage as their deed.
 

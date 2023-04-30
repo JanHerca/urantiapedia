@@ -1,12 +1,14 @@
 ---
-title: La Cena del Recuerdo
+title: "La Cena del Recuerdo"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book
+tags: religion, The Urantia Book, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
+
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 The Brotherhood of Man Library</p>
 
 _El grupo de estudio de Sunshine Coast_
 
@@ -18,9 +20,16 @@ En el debate, se supo que había cierta incertidumbre sobre lo que dice realment
 
 El sermón de época en _El Libro de Urantia_, predicado por Jesús poco después de la alimentación de los cinco mil, es muy similar al relato bíblico que se da en [Jn 6](/es/Bible/John/6). En el relato de _El Libro de Urantia_, Jesús dice: «_Habéis creído que vuestros antepasados comieron en el desierto el maná —el pan del cielo— pero yo os digo que aquello era el pan de la tierra. Aunque Moisés no dio a vuestros padres el pan procedente del cielo, mi Padre está ahora dispuesto a daros el verdadero pan de la vida. El pan del cielo es lo que desciende de Dios y da la vida eterna a los hombres del mundo. Cuando me digáis: Danos de ese pan viviente, yo contestaré: Yo soy ese pan de la vida. El que viene a mí no tendrá hambre, y el que cree en mí nunca tendrá sed_.» [LU 153:2.8](/es/The_Urantia_Book/153#p2_8)
 
+<figure id="Figure_1" class="image">
+<img src="/image/article/Seven_Sacraments_-_Holy_Eucharist_II_(1647)_-_Poussin_-_NGofScotland.jpg">
+<figcaption><em>Artistas de todos los tiempos se han concentrado en uno de los dos momentos dramáticos, ya sea la traición o la institución de la Cena del Recuerdo. El artista Nicholas Poussin (1647) eligió este último para su cuadro llamado “Eucaristía” en una obra inigualable por su sentido de la espiritualidad, la paz y el amor.</em> <a href="https://commons.wikimedia.org/wiki/File:Seven_Sacraments_-_Holy_Eucharist_II_%281647%29_-_Poussin_-_NGofScotland.jpg">Wikipedia</a></figcaption>
+</figure>
+
 Aquí, Jesús dice que él es el pan de vida y que quien viene a él no tendrá hambre ni sed. Un fariseo en la audiencia luego se dio cuenta de esto. Negándose a reconocer que Jesús estaba hablando simbólicamente, gritó una pregunta: «_Nos dices que eres el pan de la vida. ¿Cómo puedes darnos tu carne para comer o tu sangre para beber?_» La respuesta de Jesús fue: «Yo no os he enseñado que mi carne sea el pan de la vida ni mi sangre el agua viva. Pero os he dicho que mi vida en la carne es una donación del pan del cielo.». Un poco más adelante explicó: «_No podéis comer mi carne ni beber mi sangre, pero podéis volveros uno conmigo, en espíritu, como yo soy uno en espíritu con el Padre. Podéis ser alimentados con la palabra eterna de Dios, que es en verdad el pan de la vida, y que ha sido donada en la similitud de la carne mortal; y vuestra alma puede ser regada con el espíritu divino, que es verdaderamente el agua de la vida._» [LU 153:3.2](/es/The_Urantia_Book/153#p3_2)
 
 Hay mucho más de este tipo de simbolismo y una explicación de su significado en este sermón de época. ¿Cuántos de nosotros podríamos haber esperado hacerlo bien si se nos pidiera que pusiéramos el sermón por escrito incluso inmediatamente después del evento? Se dice que Juan dictó su evangelio muchos años después, cuando era un anciano. Si comparamos [Jn 6](/es/Bible/John/6) con la versión de _El Libro de Urantia_, es bastante impresionante. Juan hizo obvio que Jesús estaba hablando simbólicamente pero confundió el agua de vida como símbolo de lo que deriva de Dios con la sangre de Jesús como símbolo del agua de vida. No podemos encontrar en ninguna parte de _El Libro de Urantia_ un lugar donde Jesús hable simbólicamente acerca de beber su sangre, pero se refirió a sí mismo como el pan de vida y dijo: «_éste es el pan de la vida que el Hijo da a todos los que quieran cogerlo y comerlo, porque el Padre ha dado esta vida al Hijo sin restricción._» [LU 153:2.7](/es/The_Urantia_Book/153#p2_7)
+
+> Cuando trajeron a Jesús la tercera copa de vino, la «copa de la bendición», se levantó del diván, tomó la copa en sus manos y la bendijo, diciendo: «Tomad todos esta copa, y bebed de ella. Ésta será la copa de mi recuerdo. Ésta es la copa de la bendición de una nueva dispensación de gracia y de verdad. Será para vosotros el emblema de la donación y del ministerio del Espíritu divino de la Verdad». ([LU 179:5.1](/es/The_Urantia_Book/179#p5_1))
 
 En vista de la complejidad de este simbolismo, difícilmente podemos culpar a Juan, a los otros apóstoles y a los primeros cristianos por confundir el simbolismo del pan y el vino de la Cena del Recuerdo con el cuerpo y la sangre simbólicos de Cristo.
 

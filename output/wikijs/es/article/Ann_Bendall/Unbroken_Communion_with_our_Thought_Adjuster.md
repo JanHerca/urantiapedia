@@ -3,14 +3,14 @@ title: Comunión ininterrumpida con nuestro Ajustador del Pensamiento
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: psychology; Thought Adjusters
+tags: psychology; Thought Adjusters, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Ann Bendall** | Traductor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
 
-Esto realmente no parece un proceso demasiado complicado; en realidad, es sorprendentemente simple siempre y cuando decidas aquí y ahora volver al nivel de un niño de cinco años —un niño promedio, ordinario, de cinco años, para mí el modelo perfecto a seguir— el niño llamado «Jesús.» Emmanuel le dijo a Miguel que solo debería preocuparse por _la comunión ininterrumpida entre él y su Padre del Paraíso_ mientras viviera como Jesús en Urantia. [LU 120:1.4](/es/The_Urantia_Book/120#p1_4) ¡Si fue lo suficientemente bueno para mi modelo de perfección, es lo suficientemente bueno para mí!
+Esto realmente no parece un proceso demasiado complicado; en realidad, es sorprendentemente simple siempre y cuando decidas aquí y ahora volver al nivel de un niño de cinco años —un niño promedio, ordinario, de cinco años, para mí el modelo perfecto a seguir— el niño llamado «Jesús.» Emmanuel le dijo a Miguel que solo debería preocuparse por **la comunión ininterrumpida entre él y su Padre del Paraíso** mientras viviera como Jesús en Urantia. [LU 120:1.4](/es/The_Urantia_Book/120#p1_4) ¡Si fue lo suficientemente bueno para mi modelo de perfección, es lo suficientemente bueno para mí!
 
 Por supuesto, primero tendremos que eliminar los bloqueos que nos impiden volver al Jesús de los cinco años de edad. En su mayor parte estos consistirán en:
 
@@ -21,17 +21,33 @@ A Jesús se le proporcionó un ambiente para estimular el desarrollo de su mente
 
 Ahora bien, mis padres hicieron el mejor trabajo que pudieron, armados con su conocimiento. Soy consciente de que entre ellos, yo y mis experiencias de vida hasta la fecha, tengo mucha basura que limpiar antes de que Jesús realmente me enseñe a jugar en su arenero. _El Libro de Urantia_ me dice que «_el hecho de la vida viene en primer lugar, y que su evaluación o interpretación viene después. En la economía cósmica, la perspicacia precede a la previsión_». El hecho de que yo esté vivo está fuera de toda duda. Sin embargo, la intuición y, por lo tanto, la previsión están llenas de muchas ilusiones. Debo erradicar todas mis interpretaciones de mis experiencias de vida y SER AQUELLA NIÑA DE CABEZA RIZADA DE CINCO JUGANDO EN EL ARENERO CON MI AMIGO DE LA MISMA EDAD, JESÚS.
 
+> Sobre volverse como un niño pequeño
+> Cuando os he pedido que os volváis como niños pequeños, como precio de entrada en el reino, no me refería a la facilidad de dejarse engañar, a la simple buena voluntad de creer, ni a la rapidez para confiar en los extraños agradables. Lo que deseaba que pudierais deducir con este ejemplo era la relación entre un niño y su padre. Tú eres el hijo, y es en el reino de tu padre donde pretendes entrar. Entre todo niño normal y su padre existe ese afecto natural que asegura una relación comprensiva y amorosa, y que excluye para siempre toda tendencia al regateo para obtener el amor y la misericordia del Padre. ([UB 140:10.4](/en/The_Urantia_Book/140#p10_4)).
+
+> Indicaciones de inmortalidad
+>
+> No en el completo olvido,
+> Y no en completa desnudez,
+> pero arrastrando nubes de gloria, venimos.
+> Las sombras de la prisión-casa comienzan a cerrarse
+> Sobre el niño que crece,
+> Pero contempla la luz y de dónde fluye...
+> Muy pronto su alma tendrá
+> carga terrenal, y la costumbre pesa sobre él como un peso
+> ¡Pesado como la escarcha y profundo como el agua!
+>    William Wordsworth
+
 Para ser fiel a mi modelo tengo que hacer una tarea más - tengo que quitar de mi mente mi conocimiento de nuestro Padre Universal, para que Jesús pueda decirme cómo es realmente nuestro Padre. ¿Y ahora podemos jugar a un juego? Él me enseñará las reglas.
 
 Jesús a los cinco años era un niño bastante inteligente. Sabía arameo y estaba empezando a aprender griego. Estaba muy interesado en la religión; sus costumbres impregnaron toda su vida. Cuando tenía cinco años, mi vida fue totalmente diferente. Me esforcé más en el fútbol ​​que en aprender a conocer a Dios (y realmente no estaba muy interesada en el fútbol). Pero ahora, con un «0» agregado al final de mi edad, estoy tratando de vivir la vida como él, para poder estar en el nivel en el que podamos deambular mirando las flores de día, mirando las estrellas de noche. [LU 123:3.10](/es/The_Urantia_Book/123#p3_10) Y me enseñará, con toda la creatividad de un niño de cinco años, cómo desarrollar una mejor comunicación con mi Ajustador del Pensamiento. Él me asegura que es simple: solo habla con Dios como yo hablaría con un padre amoroso, teniendo «_una pequeña charla con mi Padre que está en los cielos_» [LU 123:3.6](/es/The_Urantia_Book/123#p3_6).
 
 ¿Suena esto descabellado? ¿Necesito unas copas de vino antes de entrar en el estado de ánimo? ¡Yo creo que no! ¿Cuántas veces he soñado despierta con una verdadera alma gemela? ¿Cuántas veces hermosas canciones románticas como «Until the Twelfth of Never» han despertado mis emociones? ¿Cuántas veces he soñado con una relación maravillosa con alguien a quien pueda amar, con quien pueda reír y crecer, y de quien nunca me separe? El niño Jesús me ha mostrado cómo este sueño es una realidad en este momento, porque la persona de mis sueños es Dios. La relación es con Él a través de mi Ajustador del Pensamiento que convierte mis sueños de un amante eterno en una realidad de mi mente.
 
-Escucho al joven Jesús hablándome de nuestro Papá Universal y luego me dice algo más. Me recuerda que esta es mi relación personal con nuestro Padre. Así como mi padre humano tenía relaciones diferentes y únicas con cada uno de mis hermanos y hermanas, también las tiene nuestro Padre Universal. Así como cada persona tiene una relación única con cada otra persona que conoce, tan diferente que podrías describirme a un amigo en común, con la mayor honestidad y esa persona sonaría totalmente ajena a la persona que conozco. Esto se debe a que estamos interactuando con esa persona en diferentes niveles de subjetividad (basados ​​en diferentes grados de ilusión/honestidad/realidad). _Somos únicos y, por lo tanto, nuestras relaciones con los demás (incluido Dios) también serán únicas._ Dios es la única constante. La relación es personal y creativa.
+Escucho al joven Jesús hablándome de nuestro Papá Universal y luego me dice algo más. Me recuerda que esta es mi relación personal con nuestro Padre. Así como mi padre humano tenía relaciones diferentes y únicas con cada uno de mis hermanos y hermanas, también las tiene nuestro Padre Universal. Así como cada persona tiene una relación única con cada otra persona que conoce, tan diferente que podrías describirme a un amigo en común, con la mayor honestidad y esa persona sonaría totalmente ajena a la persona que conozco. Esto se debe a que estamos interactuando con esa persona en diferentes niveles de subjetividad (basados ​​en diferentes grados de ilusión/honestidad/realidad). **Somos únicos y, por lo tanto, nuestras relaciones con los demás (incluido Dios) también serán únicas.** Dios es la única constante. La relación es personal y creativa.
 
 Como todas las relaciones se distorsionan grandemente a medida que pasan a través de nuestros filtros perceptuales (tan distorsionadas que algunas personas pueden ver lo negro como blanco, y viceversa), del mismo modo yo soy propensa a distorsionar mi imagen de Dios. Pero si trato, como lo hizo Jesús cuando era solo un niño, de mantener una imagen de Dios como siempre la más alta de verdad, belleza y bondad que puedo imaginar, entonces lo estaré viendo en la luz más realista en mi estado actual de desarrollo.
 
-Ahora sé que mi «_El Ajustador del Pensamiento no posee ningún mecanismo especial para poder expresarse; no existe ninguna facultad religiosa mística para recibir o expresar las emociones religiosas. Estas experiencias son asequibles a través del mecanismo naturalmente ordenado de la mente mortal. Y en esto se halla una explicación de las dificultades que encuentra el Ajustador para ponerse en comunicación directa con la mente material donde reside constantemente_». [LU 101:1.2](/es/The_Urantia_Book/101#p1_2) También conozco el potencial de mi alter ego para crear personalidades y desarrollar relaciones con ellas. Vi cuán reales eran los amigos «imaginarios» de mis hermanos cuando tenían entre 4 y 6 años. Un día Davey Crockett; los siguientes, grandes aventureros o filósofos o amigos de la misma edad que tuvieron que aprender una lección sobre cómo seguir las «reglas». Eran cualquier cosa y todo lo que mis hermanos pequeños deseaban.
+Ahora sé que mi «**El Ajustador del Pensamiento no posee ningún mecanismo especial para poder expresarse; no existe ninguna facultad religiosa mística para recibir o expresar las emociones religiosas. Estas experiencias son asequibles a través del mecanismo naturalmente ordenado de la mente mortal. Y en esto se halla una explicación de las dificultades que encuentra el Ajustador para ponerse en comunicación directa con la mente material donde reside constantemente**». [LU 101:1.2](/es/The_Urantia_Book/101#p1_2) También conozco el potencial de mi alter ego para crear personalidades y desarrollar relaciones con ellas. Vi cuán reales eran los amigos «imaginarios» de mis hermanos cuando tenían entre 4 y 6 años. Un día Davey Crockett; los siguientes, grandes aventureros o filósofos o amigos de la misma edad que tuvieron que aprender una lección sobre cómo seguir las «reglas». Eran cualquier cosa y todo lo que mis hermanos pequeños deseaban.
 
 Jesús se apegó a un solo amigo. Lo llamó «Papá». Soñó su sueño, lo creó tan bien que su Ajustador del Pensamiento pudo tomar la verdad y agregarle algo. Y Jesús pasó a alcanzar el dominio perfecto de su mente humana.
 

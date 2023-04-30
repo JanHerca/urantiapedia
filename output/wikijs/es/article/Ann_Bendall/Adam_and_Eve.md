@@ -1,14 +1,14 @@
 ---
-title: Adán y Eva
+title: "Adán y Eva"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book
+tags: religion, The Urantia Book, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Ann Bendall** | Traductor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
 
 Aparte de Dios, las dos personalidades más calumniadas de la historia de Urantia tendrían que ser Adán y Eva. Eran la pareja cuya aventura de «comer manzanas» nos costó a los humanos la gloria que una vez fue nuestra. ¡Como resultado de su error, todos los humanos nacen intrínsecamente malos en lugar de buenos! La creencia en el mal innato de la humanidad fue abrazada por el padre de la psicología, Freud, y sospecho que sus antecedentes religiosos habían influido en sus teorías, que posteriormente demostraron ser erróneas.
 
@@ -28,11 +28,11 @@ Esos deben haber sido tiempos muy tristes para Adán y Eva y sus hijos, ya que v
 
 Y luego vino el anuncio de Urantia. Todos los Hijos Materiales se presentaron para esta «codiciada» tarea, y Adán y Eva fueron elegidos como los más adecuados. Tenían todas las habilidades necesarias así como una vasta experiencia con los recién llegados, habiendo sido maestros en las escuelas de ciudadanía en Jerusem.
 
-Se les habló de las dificultades que experimentarían, los problemas que debían enfrentar, pero no hay sustituto para la experiencia de la vida real. Se les encomendaron responsabilidades para las que se consideró que estaban adecuadamente equipados y totalmente instruidos; pero, su tarea también fue considerada casi imposible. Todos podemos criticarles por ser tan impacientes, especialmente a Eva. Si hubieran tenido más paciencia, habrían tenido éxito, pero la realidad era que tenían una montaña de obstáculos que superar. _Otros Hijos e Hijas Materiales normalmente llegan a un planeta en un momento en que los habitantes están comenzando a emprender programas para la erradicación de su población defectuosa._ _No así en Urantia_ (que aún no se ha embarcado en tal esquema). Adán y Eva tampoco pudieron obtener ningún entusiasmo de los habitantes por cualquier interferencia con la forma en que estaban las cosas.
+Se les habló de las dificultades que experimentarían, los problemas que debían enfrentar, pero no hay sustituto para la experiencia de la vida real. Se les encomendaron responsabilidades para las que se consideró que estaban adecuadamente equipados y totalmente instruidos; pero, su tarea también fue considerada casi imposible. Todos podemos criticarles por ser tan impacientes, especialmente a Eva. Si hubieran tenido más paciencia, habrían tenido éxito, pero la realidad era que tenían una montaña de obstáculos que superar. **Otros Hijos e Hijas Materiales normalmente llegan a un planeta en un momento en que los habitantes están comenzando a emprender programas para la erradicación de su población defectuosa. No así en Urantia** (que aún no se ha embarcado en tal esquema). Adán y Eva tampoco pudieron obtener ningún entusiasmo de los habitantes por cualquier interferencia con la forma en que estaban las cosas.
 
 Puedo imaginar la emoción en Satania cuando fueron designados. Todos sus amigos les debieron dar consejos sobre cómo abordar la tarea de Urantia. Debió haber fiestas y mucho amor y calidez en la hermosa esfera de Satania. Pero todo termina y llegan a Urantia y se sienten muy, muy solos. Han dejado atrás todo vestigio de familiaridad; sus hijos, sus amigos, la civilización tal como la habían conocido durante toda su vida hasta la fecha: toda su vida cambió de la noche a la mañana.
 
-Apenas llegaron, los lugareños se pusieron histéricos y querían convertirlos en dioses. Eso debe haber sido tan traumático como aleccionador, ya que los intermedios usaron su poder para llevarse a los dos físicamente de la escena del alboroto antes de que se volviera totalmente incontrolable. Y a medida que pasaban los días, los dos debieron haberse aferrado el uno al otro. _Gradualmente, cada una de sus ilusiones se hizo añicos por el primitivismo de los habitantes de Urantia y la apreciación práctica de cuán lento iba a ser el progreso._
+Apenas llegaron, los lugareños se pusieron histéricos y querían convertirlos en dioses. Eso debe haber sido tan traumático como aleccionador, ya que los intermedios usaron su poder para llevarse a los dos físicamente de la escena del alboroto antes de que se volviera totalmente incontrolable. Y a medida que pasaban los días, los dos debieron haberse aferrado el uno al otro. **Gradualmente, cada una de sus ilusiones se hizo añicos por el primitivismo de los habitantes de Urantia y la apreciación práctica de cuán lento iba a ser el progreso.**
 
 Sólo siete años permanecieron los Melchizadek y Van, tan poco tiempo. Adán no quería que se fueran pero había llegado el momento. ¿Con quién podrían hablar? ¿No se apenaron cuando llegó su cumpleaños? ¿O el de sus 100 hijos? No hubo momentos divertidos, ni escapatoria del incesante trauma y la presión de su trabajo.
 
@@ -47,6 +47,11 @@ La tristeza y la decepción de los intermedios y los serafines que amaban tanto 
 Salieron del jardín sin saber qué les depararía el futuro, sabiendo que los jueces de Salvington estarían deliberando sobre su destino. Lo único que habría mantenido a los dos funcionando habría sido la increíble piedad amorosa y la simpatía de Adán por su pareja.
 
 Se dictó sentencia y fueron juzgados en rebeldía. Habían violado el pacto de su tutela como gobernantes de Urantia, pero habían sido absueltos de todos los cargos de desacato al Gobierno del Universo. ¡No fueron considerados culpables de rebelión!
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-right">
+<img src="/image/article/Ann_Bendall/Adam_and_Eve/406px-Lucas_Cranach.jpg">
+<figcaption><em>Adán y Eva y el fruto prohibido del Árbol del Conocimiento del bien y del mal en el Jardín del Edén. (por el artista del siglo XVI, Lucas Cranach).</em> <a href="https://es.m.wikipedia.org/wiki/Archivo:Lucas_Cranach_d._%C3%84._001.jpg">Wikipedia</a></figcaption>
+</figure>
 
 Se nos dice que nunca ha habido (probablemente) un error de sabiduría más desalentador en ningún planeta de todo Nebadon, y realmente creo que Adán y Eva se dieron cuenta de esto, y, como pareja maravillosa que son, aceptaron este error como su acto.
 

@@ -3,12 +3,12 @@ title: ¿Tiempo para más cambios? Símbolos, cultos y El libro de Urantia
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book
+tags: religion, The Urantia Book, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Ken Glasziou** | Traductor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
 
 A menudo, cuando me enfrento a tener que hacer algo que preferiría relegar a la canasta de «demasiado difícil», mi estómago reacciona con «náuseas» reales en lugar de simbólicas. Esto ocurrió cuando Ann Bendall me entregó unas 300 páginas de literatura sobre simbolismo y religión. El simbolismo no estaba en mi lista de pasatiempos favoritos. Sin embargo, era consciente de que _El Libro de Urantia_ tenía algunas cosas importantes que decir, a favor y en contra del simbolismo:
 
