@@ -1,14 +1,14 @@
 ---
-title: El hijo pródigo
+title: "El hijo pródigo"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Jesus, Jesus teachings, religion
+tags: Jesus, Jesus teachings, religion, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Ann Bendall** | Traductor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
 
 Una de las historias favoritas de Jesús fue la del «Hijo Pródigo». Ciertamente es una historia de final feliz para el padre. Tenía a sus dos hijos con él en la granja. Sin embargo, desde el punto de vista de los hijos, ¡sospecho que iba a haber problemas!
 
@@ -39,6 +39,9 @@ Para aquellos pródigos que deciden regresar a casa, un discurso de perdón genu
 Tal vez si los hijos mayores declararan una tregua con los hijos pródigos, podrían enseñarles a los hijos pródigos cómo ser trabajadores y aceptar la responsabilidad, mientras que los hijos pródigos les enseñaron a reír a los hijos mayores. Entonces la familia sería realmente feliz.
 
 Dios como Padre, es paciente y sufrido. Él espera mucho tiempo a que regresen Sus hijos e hijas pródigos. Él siempre está alerta, esperando y deseando que llegue el día.
+
+> He aprendido el silencio de los habladores, la tolerancia de los intolerantes y la amabilidad de los desagradables. No debo ser desagradecido con esos maestros.
+>    Kahlil Gibran
 
 ## Enlaces externos
 

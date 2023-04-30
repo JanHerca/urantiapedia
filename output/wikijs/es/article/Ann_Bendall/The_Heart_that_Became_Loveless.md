@@ -1,5 +1,5 @@
 ---
-title: El corazón que se quedó sin amor
+title: "El corazón que se quedó sin amor"
 description: "Un perfil de personalidad: Judas Iscariote, el apóstol que eligió ser el «hijo de la venganza» en lugar de ser un hijo de Dios."
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -8,9 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Ann Bendall, B.A. Dip.** | Traductor: **Jan Herca**
-
-Un perfil de personalidad: Judas Iscariote, el apóstol que eligió ser el «hijo de la venganza» en lugar de ser un hijo de Dios.
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
 
 _El Libro de Urantia_ brinda una gran cantidad de información sobre Judas: su infancia, características de personalidad y estrategias de afrontamiento al lidiar con los eventos de la vida. Los reveladores, al indicar que un atributo o característica en particular era un obstáculo para el desarrollo espiritual de un individuo (en particular, Judas), describen de dónde se originó y dan consejos sobre cómo superarlo (para aquellos lectores que puedan reconocer alguna similitud en sí mismos).
 
@@ -26,6 +24,15 @@ Principalmente Judas «se equivocó» porque era «una personalidad aislada». N
 
 * c) su persistente manía a albergar rencores, además de ansias de venganza por sus propias decepciones en la vida, llevó a Judas a encontrar «la derrota en sus batallas de la lucha terrestre». Él «fracasó en subyugar estos males por medio del amor, la fe y la confianza». Finalmente se volvió sin amor e incapaz de reconocer el amor en los demás.
 
+> **Las palabras más famosas de la teología del siglo XX**
+> Él viene a nosotros como Uno desconocido, sin nombre, como antaño, junto a la orilla del lago, Él vino a aquellos que no lo conocían. Él nos dirige la misma palabra: “Sígueme tú” y nos pone en las tareas que Él tiene que cumplir para nuestro tiempo. Él manda. Y a los que le obedecen, sean sabios o sencillos, se les revelará en las fatigas, en los conflictos, en los sufrimientos por los que pasarán en su comunión, y, como misterio inefable, aprenderán en su propia experiencia. Quien es él.
+> Alberto Schweitzer
+> “La Búsqueda del Jesús Histórico”. (1901)
+
+> **Traición a sí mismo**
+> La traición a sí mismo significa que la persona no usa sus propias facultades para determinar qué experiencias contribuyen a la autorrealización y cuáles son irrelevantes o obstaculizan; la persona ya no usa sus propios poderes y órganos para crear una realidad y aventurarse en una nueva vida. Se obliga a sí mismo a encajar en los planes de otra persona ya hacer un trabajo que no tiene significado ni valor. Por lo tanto, no confía en su propia experiencia inmediata y no está abierto a sí mismo ni al mundo.
+> C. Moustakos, 1974
+
 Algunos de los otros apóstoles tenían características similares a las de Judas pero eligieron crecer en amor por Jesús y los otros apóstoles, lo que los llevó a crecer en gracia y verdad. Se volvieron más confiados, desarrollaron la confianza para confiar en los demás y, honestamente, ansiaban saber y ser conocidos.
 
 > «Judas no aprendió nunca que, después de todo, las verdaderas recompensas de una noble vida consisten en premios espirituales, que no siempre se distribuyen durante esta corta y única vida en la carne». [LU 193:4.11](/es/The_Urantia_Book/193#p4_11)
@@ -36,23 +43,23 @@ Con el honor mundano siendo el centro del ser de Judas, su visión se nubló tan
 
 Si diseccionamos a Judas en personalidad, mente, temperamento, emociones, etc., encontramos que:
 
-* _En personalidad_ estaba aislado. A pesar de estar rodeado de amigos, Judas se aisló por negarse a formar relaciones profundas, honestas y significativas con ninguno de ellos.
+* __En personalidad__ estaba aislado. A pesar de estar rodeado de amigos, Judas se aisló por negarse a formar relaciones profundas, honestas y significativas con ninguno de ellos.
 
-* _En mente_ era sospechoso y vengativo. No le gustaba enfrentar los hechos con franqueza y era deshonesto en su actitud hacia las situaciones de la vida.
+* __En mente__ era sospechoso y vengativo. No le gustaba enfrentar los hechos con franqueza y era deshonesto en su actitud hacia las situaciones de la vida.
 
-* _En el intelecto_ se volvió vanaglorioso.
+* __En el intelecto__ se volvió vanaglorioso.
 
-* _De temperamento_ era hosco y vengativo.
+* __De temperamento__ era hosco y vengativo.
 
-* _Emocionalmente,_ no tenía amor y no perdonaba.
+* __Emocionalmente,__ no tenía amor y no perdonaba.
 
-* _Socialmente,_ era desconfiado y casi totalmente autosuficiente y, sin embargo, no podía soportar el ridículo. El ridículo fue la influencia más poderosa «en su determinación final de abandonar a Jesús y a sus compañeros apóstoles» [LU 172:5.13](/es/The_Urantia_Book/172#p5_13).
+* __Socialmente,__ era desconfiado y casi totalmente autosuficiente y, sin embargo, no podía soportar el ridículo. El ridículo fue la influencia más poderosa «en su determinación final de abandonar a Jesús y a sus compañeros apóstoles» [LU 172:5.13](/es/The_Urantia_Book/172#p5_13).
 
-* _En espíritu,_ se volvió arrogante y egoístamente ambicioso.
+* __En espíritu,__ se volvió arrogante y egoístamente ambicioso.
 
-* _En la vida,_ ignoró a los que le amaban, y en la muerte, no tuvo ningún amigo. [LU 193:4.13](/es/The_Urantia_Book/193#p4_13)
+* __En la vida,__ ignoró a los que le amaban, y en la muerte, no tuvo ningún amigo. [LU 193:4.13](/es/The_Urantia_Book/193#p4_13)
 
-* _En el tiempo de oración,_ se entregó a pensamientos de miedo humanos, persistió en albergar sutiles dudas sobre la misión de Jesús y cedió a su desafortunada tendencia a albergar sentimientos de venganza.
+* __En el tiempo de oración,__ se entregó a pensamientos de miedo humanos, persistió en albergar sutiles dudas sobre la misión de Jesús y cedió a su desafortunada tendencia a albergar sentimientos de venganza.
 
 Y así, Judas parece haber tenido una muerte lenta y dolorosa. Debido a su persistencia en aferrarse a las características anteriores, «sus penas se multiplicaron, sus aflicciones crecieron, sus ansiedades aumentaron y su desesperación alcanzó una profundidad casi insoportable» [LU 193:4.12](/es/The_Urantia_Book/193#p4_12). Al describir el proceso que llevó a Judas a convertirse en traidor, Jesús dijo:
 

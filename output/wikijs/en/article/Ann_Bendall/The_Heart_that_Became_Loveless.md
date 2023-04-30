@@ -1,5 +1,5 @@
 ---
-title: The Heart that Became Loveless
+title: "The Heart that Became Loveless"
 description: "A Personality Profile: Judas Iscariot, the apostle who chose to be the “son of revenge” in preference to being a son of God."
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Author: **Ann Bendall, B.A. Dip.**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
 
 _The Urantia Book_ gives a wealth of information on Judas—his childhood, personality characteristics and coping strategies in dealing with life events. The revelators, in indicating that a particular attribute or characteristics was a hindrance to the spiritual development of an individual (in particular, Judas), describe where it eventuated from as well as giving advice on how to overcome it (for those readers who might recognize some similarity in themselves).
 
@@ -24,6 +24,16 @@ He never once went to the Master with a purely personal problem! This fact coupl
 
 * c) his persistent harbouring of grudges, plus cravings of revenge for his own disappointments in life, led to Judas meeting “defeat in his battles of the earth struggle”. He “failed to subdue these evils by love, faith, and trust.” Finally he became loveless, and incapable of recognizing love in others.
 
+> **The Most Famous Words of Twehtieth Century Theology**
+> He comes to us as One unnknown, without a name, as of old, by the lake-side, He came to those who knew Him not. He speaks to us the same word: “Follow thou me” and sets us to the tasks which he has to fulfil for our time. He commands. And to those who obey Him, whether they be wise or simple, He will reveal Himself in the toils, the conflicts, the sufferings which they will pass through in His fellowship, and, as an inefable mystery, they shall learn in their own experience, Who He is. 
+>     Albert Schweitzer 
+> “The Quest of the Historical Jesus.” (1901)
+
+
+> **Self Betrayal**
+> Self-betrayal means that the person does not use his own faculties in determining which experiences contribute to self-realization and which are irrelevant or impeding; the person no longer uses his own powers and organs to create a reality and venture into new life. He forces himself to fit into another person's plans and to do work that has no meaning or value. Thus, he does not trust his own immediate experience and is neither open to himself nor to the world. 
+>     C. Moustakos, 1974
+
 Some of the other apostles had similar characteristics to Judas but they chose to grow in love for Jesus and the other apostles, leading to growth in grace and truth. They became more trusting, developed the confidence to confide in others, and in honesty, they craved to know and be known.
 
 > “Judas never learned that the real rewards for noble living are, after all, spiritual prizes, which are not always distributed during this one short life in the flesh.” [UB 193:4.11](/en/The_Urantia_Book/193#p4_11)
@@ -34,23 +44,23 @@ With worldly honour being the centre of Judas' being, his vision became so cloud
 
 If we dissect Judas into personality, mind, temperament, emotions etc., we find that:
 
-* _In personality_ he was isolated. Despite being surrounded by friends, Judas isolated himself by his refusal to form deep, honest meaningful relationships with any of them.
+* __In personality__ he was isolated. Despite being surrounded by friends, Judas isolated himself by his refusal to form deep, honest meaningful relationships with any of them.
 
-* _In mind_ he was suspicious and vengeful. He did not like to face facts frankly and was dishonest in his attitude toward life situations.
+* __In mind__ he was suspicious and vengeful. He did not like to face facts frankly and was dishonest in his attitude toward life situations.
 
-* _In intellect_ he became vainglorious.
+* __In intellect__ he became vainglorious.
 
-* _In temperament_ he was surly and vindictive.
+* __In temperament__ he was surly and vindictive.
 
-* _Emotionally,_ he was loveless and unforgiving.
+* __Emotionally,__ he was loveless and unforgiving.
 
-* _Socially,_ he was unconfiding and almost wholly self-contained, and yet he could not stand ridicule. It was ridicule which was the most powerful influence “in his final determination to forsake Jesus and his fellow apostles” [UB 172:5.13](/en/The_Urantia_Book/172#p5_13).
+* __Socially,__ he was unconfiding and almost wholly self-contained, and yet he could not stand ridicule. It was ridicule which was the most powerful influence “in his final determination to forsake Jesus and his fellow apostles” [UB 172:5.13](/en/The_Urantia_Book/172#p5_13).
 
-* _In spirit,_ he became arrogant and selfishly ambitious.
+* __In spirit,__ he became arrogant and selfishly ambitious.
 
-* _In life,_ he ignored those who loved him, and in death, he was friendless. [UB 193:4.13](/en/The_Urantia_Book/193#p4_13)
+* __In life,__ he ignored those who loved him, and in death, he was friendless. [UB 193:4.13](/en/The_Urantia_Book/193#p4_13)
 
-* _In prayer time,_ he indulged in thoughts of human fear, persisted in the entertainment of subtle doubts about the mission of Jesus as well as giving in to his unfortunate tendency to harbor feelings of revenge.
+* __In prayer time,__ he indulged in thoughts of human fear, persisted in the entertainment of subtle doubts about the mission of Jesus as well as giving in to his unfortunate tendency to harbor feelings of revenge.
 
 And so, Judas appears to have died a slow painful death. Due to his persistence in clinging to the above characteristics “his griefs multiplied, his sorrows increased, his anxieties augmented, and his despair deepened almost beyond endurance” [UB 193:4.12](/en/The_Urantia_Book/193#p4_12). In describing the process leading to Judas becoming a traitor, Jesus said:
 

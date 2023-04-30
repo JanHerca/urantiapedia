@@ -3,12 +3,12 @@ title: "Science and The Urantia Book. When Did the Red Man Arrive in the America
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: anthropology
+tags: anthropology, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Author: **Ken Glasziou**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
 
 _Prepared from material supplied by: Dr Edmund Roach, Watertown, N.Y., U.S.A._
 

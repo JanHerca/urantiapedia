@@ -1,14 +1,14 @@
 ---
-title: Primate Ancestry
+title: "Primate Ancestry"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: anthropology
+tags: anthropology, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Author: **Ken Glasziou**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
 
 An article appearing in Natural History (8/92) indicates that the ancient North American lemur (Notharctus) was previously thought to be more primitive than the European variety and not to have contributed directly to primate and the human lineage. Recent fossil discoveries made at Bitter Creek, east of the Bridger Basin, Wyoming, have completely altered this view. Formerly described as a fox-faced little primate similar to today's ring tailed lemur, the finding of an almost complete skull shows Notharctus to have had a much smaller muzzle than either extinct adapids or many living lemurs. Its discoverer states that it may have independently evolved a few features of the anthropoids, such as the reduced lachrymal bone of the face, and that, in some ways, Northarctus more closely resembles the ancestral stock that produced the monkeys and apes than the line that led to the Malagasy lemurs and sifakas of Madagasca. _The Urantia Book_ states:
 

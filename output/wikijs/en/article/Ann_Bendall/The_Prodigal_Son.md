@@ -1,14 +1,14 @@
 ---
-title: The Prodigal Son
+title: "The Prodigal Son"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Jesus, Jesus teachings, religion
+tags: Jesus, Jesus teachings, religion, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Author: **Ann Bendall, Qld.**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
 
 One of Jesus' favourite stories was the “Prodigal Son”. It certainly was a happy-ever-after ending for the dad. He had both of his sons back with him on the farm. However, from the sons' point of view I suspect there was going to be trouble!
 
@@ -39,6 +39,9 @@ The older brother? Being in the family of God can be rough for those steadfastly
 Perhaps if the older sons declared a truce with the prodigal sons then they could teach the prodigals how to be industrious and accept responsibility, whilst the prodigals taught the older sons to laugh. Then the family would really be a happy one. 
 
 God as a Father, is patient and long suffering. He waits a long time for His prodigal sons and daughters to return.  He is always on the watch, waiting and hoping for the day.
+
+> I have learned silence from the talkative, tolerance from the intolerant and kindness from the unkind. I should not be ungrateful to those teachers. 
+>    Kahlil Gibran
 
 ## External links
 

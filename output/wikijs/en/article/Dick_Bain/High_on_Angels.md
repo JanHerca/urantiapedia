@@ -1,14 +1,14 @@
 ---
-title: High on Angels
+title: "High on Angels"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book
+tags: Angels and midwayers, religion, The Urantia Book, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Author: **Dick Bain**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Dick Bain<br>© 1994 The Brotherhood of Man Library</p>
 
 Do I believe in angels? Well...yes; but why am I so reluctant to say so? Could it be that angels are a little like Tinker Bell? Because they have wings and do magical things? Or perhaps it isn't respectable to believe in such magical beings. Have angels gotten bad press?
 
@@ -21,6 +21,11 @@ Seraphim are mentioned 240 times in _The Urantia Book_. There are 8 papers devot
 No doubt most of us would like to see an angel, but very few people say that they can see angels. This is no doubt fortunate, because much of the angels' work would be hampered if we could see them. And we would certainly be nervous if we were aware of their constant attention to us, especially when our motives are less than honorable. The angels can be made visible to us if there is a reason to do so. _The Urantia Book_ states that the tradition of angels having wings got started when mortals were allowed to observe transport angels being readied for takeoff from our planet. The energy fields around them appeared to be wings to the mortal observers.
 
 Students of _The Urantia Book_ soon realize that angels are some of the unsung heroes on our world, especially guardian angels. Consider their challenges: they have to guide reluctant, lazy, materialistic mortals into situations that promote spiritual growth. And to make their task more interesting they can influence us only by manipulating external circumstances. It's sort of like playing ping-pong by remote control. Furthermore, it appears that they must work at least 12 hours per day, seven days per week, since there are two who take turns being on duty. One does the guardian's job and the other records the proceedings. But like mortals who run down and need to sleep, the guardian angel must take time periodically to spiritually recharge. The guardian's complement takes over the guardian tasks and a cherubim takes over the recording duties.
+
+<figure id="Figure_1" class="image urantiapedia">
+<img src="/image/article/Dick_Bain/High_on_Angels/RAFAEL_-_Madonna_Sixtina_Detail.jpg">
+<figcaption><em>Raphael cherubs.</em> <a href="https://en.wikipedia.org/wiki/Sistine_Madonna">Wikipedia</a></figcaption>
+</figure>
 
 The job of guardian angel must be demanding and arduous because the seraphim are required to spend a long time qualifying for this job. Their training is as follows:
 * Noncommissioned observers of Salvington — 1 millennium

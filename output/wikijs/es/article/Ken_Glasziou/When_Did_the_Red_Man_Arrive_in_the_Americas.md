@@ -3,12 +3,12 @@ title: "La ciencia y El Libro de Urantia. ¿Cuándo llegó el Hombre Rojo a las 
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: anthropology
+tags: anthropology, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Ken Glasziou** | Traductor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
 
 _Preparado a partir de material suministrado por: Dr. Edmund Roach, Watertown, Nueva York, EE.UU._
 

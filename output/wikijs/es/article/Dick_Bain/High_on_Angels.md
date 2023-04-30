@@ -1,14 +1,14 @@
 ---
-title: Arriba con los Ángeles
+title: "Arriba con los Ángeles"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book
+tags: Angels and midwayers, religion, The Urantia Book, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Dick Bain** | Traductor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Dick Bain<br>© 1994 The Brotherhood of Man Library</p>
 
 ¿Creo en los ángeles? Bueno, sí; pero ¿por qué soy tan reacio a decirlo? ¿Será que los ángeles son un poco como Campanilla? ¿Porque tienen alas y hacen cosas mágicas? O tal vez no sea respetable creer en seres tan mágicos. ¿Los ángeles han tenido mala prensa?
 
@@ -21,6 +21,11 @@ Los serafines se mencionan 240 veces en _El Libro de Urantia_. Hay 8 documentos 
 Sin duda, a la mayoría de nosotros nos gustaría ver un ángel, pero muy pocas personas dicen que pueden ver ángeles. Sin duda, esto es una suerte, porque gran parte del trabajo de los ángeles se vería obstaculizado si pudiéramos verlos. Y ciertamente estaríamos nerviosos si fuéramos conscientes de su constante atención hacia nosotros, especialmente cuando nuestros motivos son menos que honorables. Los ángeles pueden hacerse visibles para nosotros si hay una razón para hacerlo. _El Libro de Urantia_ afirma que la tradición de los ángeles con alas comenzó cuando a los mortales se les permitió observar cómo los ángeles de transporte se preparaban para despegar de nuestro planeta. Los campos de energía a su alrededor parecían ser alas para los observadores mortales.
 
 Los estudiantes de _El Libro de Urantia_ pronto se dan cuenta de que los ángeles son algunos de los héroes anónimos de nuestro mundo, especialmente los ángeles de la guarda. Considere sus desafíos: tienen que guiar a los mortales reacios, perezosos y materialistas a situaciones que promuevan el crecimiento espiritual. Y para hacer más interesante su tarea, sólo pueden influir en nosotros manipulando las circunstancias externas. Es algo así como jugar al ping-pong por control remoto. Además, parece que deben trabajar por lo menos 12 horas diarias, los siete días de la semana, ya que hay dos que se turnan en el turno de trabajo. Uno hace el trabajo de tutor y el otro registra los procedimientos. Pero al igual que los mortales que se agotan y necesitan dormir, el ángel guardián debe tomarse un tiempo de vez en cuando para recargarse espiritualmente. El complemento del guardián se hace cargo de las tareas de guardián y un querubín se hace cargo de las tareas de registro.
+
+<figure id="Figure_1" class="image urantiapedia">
+<img src="/image/article/Dick_Bain/High_on_Angels/RAFAEL_-_Madonna_Sixtina_Detail.jpg">
+<figcaption><em>Querubines de Rafael.</em> <a href="https://en.wikipedia.org/wiki/Sistine_Madonna">Wikipedia</a></figcaption>
+</figure>
 
 El trabajo de ángel de la guarda debe ser exigente y arduo porque se requiere que los serafines pasen mucho tiempo para calificar para este trabajo. Su formación es la siguiente:
 * Observadores sin cometido de Salvington — 1 milenio
