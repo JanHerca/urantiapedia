@@ -3,12 +3,12 @@ title: A Time for Change?
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, revelation
+tags: religion, revelation, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Author: **Ken Glasziou**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
 
 The stimulus that prompted this article came from some remarks in a letter from Matthew Block who lead just attended the World Parliament of Religions at Chicago. Matthew said:
 

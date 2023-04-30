@@ -8,9 +8,9 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Author: **Ann Bendall B.A., Dip. Psyche**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall B.A., Dip. Psyche<br>© 1994 The Brotherhood of Man Library</p>
 
-The need for children to establish acceptable behavioural patterns is indisputable. The manner in which it achieved is critical to the well-being of the child. *The Urantia Book* explains the “family conference” method that Jesus utilized with his family, which is an excellent technique, currently encouraged as one of the better methods of family discipline by psychologists. However, for any method to be effective (including hitting the child over the head with a hammer to teach them not to be cruel), *four critical pre-essentials are*:
+The need for children to establish acceptable behavioural patterns is indisputable. The manner in which it achieved is critical to the well-being of the child. *The Urantia Book* explains the “family conference” method that Jesus utilized with his family, which is an excellent technique, currently encouraged as one of the better methods of family discipline by psychologists. However, for any method to be effective (including hitting the child over the head with a hammer to teach them not to be cruel), **four critical pre-essentials are**:
 * Realistic values and beliefs as to what a person is, a child is, and a parent is.
 * Acceptance of yourself, and high self-esteem
 * Appropriate ways of interacting.
@@ -56,7 +56,7 @@ For example, when children are meant to express their genuine concerns freely, a
 
 The problem of a depleted “storehouse of good will” may be more frequently associated with fathers than with mothers. Father, who may come home late at night, not only has little chance to develop a storehouse but also finds that the minute he arrives home he is expected to start drawing on whatever good will he has in order to deal with his children's misbehaviour—“Just you wait until your father gets home. He will deal with you!”
 
-*Although the need for a storehouse will be obvious to some*, it is interesting to note that many parents are unwilling or unable to put themselves out for their children. Recent studies show that, on average, fathers are unlikely to spend much time actually playing with their children, and, surprisingly, mothers spend only a little more time than fathers do. Most of the time which parents spend with their children is devoted to their dressing, feeding, bathing, etc. These findings seem to suggest that nowadays, with both parents working, or in many single parent families, parents may find themselves holding down a job, keeping house as well as trying to safeguard some of their own leisure time. In such situations their need to develop good will with their children is often overlooked.
+**Although the need for a storehouse will be obvious to some**, it is interesting to note that many parents are unwilling or unable to put themselves out for their children. Recent studies show that, on average, fathers are unlikely to spend much time actually playing with their children, and, surprisingly, mothers spend only a little more time than fathers do. Most of the time which parents spend with their children is devoted to their dressing, feeding, bathing, etc. These findings seem to suggest that nowadays, with both parents working, or in many single parent families, parents may find themselves holding down a job, keeping house as well as trying to safeguard some of their own leisure time. In such situations their need to develop good will with their children is often overlooked.
 
 Where there is little opportunity for parents and children to enjoy time together, children will find ways of being noticed. Misbehaviour can be one of these ways. Attention-seeking, misbehaviour can result in parents spending a large amount of whatever time they do devote to their children in disciplining them. So there is little opportunity for parents and children to enjoy time together, and therefore the cycle continues.
 

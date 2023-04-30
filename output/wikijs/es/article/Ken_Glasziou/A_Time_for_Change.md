@@ -3,12 +3,12 @@ title: ¿Tiempo de cambio?
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, revelation
+tags: religion, revelation, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Ken Glasziou** | Traductor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
 
 La motivación para este artículo ha venido de algunos comentarios en una carta de Matthew Block, quien acaba de asistir al Parlamento Mundial de Religiones en Chicago. Matthew dijo: 
 

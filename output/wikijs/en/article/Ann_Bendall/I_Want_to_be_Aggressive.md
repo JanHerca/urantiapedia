@@ -1,14 +1,14 @@
 ---
-title: I Want to be Aggressive!
+title: "I Want to be Aggressive!"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: psychology, religion
+tags: psychology, religion, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Author: **Ann Bendall**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
 
 Once upon a time, before I read *The Urantia Book*, I thought being aggressive was being decidedly anti-social. The dictionary said aggressive people were “quarrelsome or belligerent.” I agreed with them. Gosh the women's movement was screaming that the whole problem with the world was men and their aggression—their aggressive tendencies! We women heaved a sigh of relief that we were not so cursed (despite research which begs to differ—women are just as aggressive as men, if provoked. However, it appears lots of men are just naturally aggressive and can easily imagine provocation has occurred, if the urge to be aggressive comes on strong).
 
@@ -30,7 +30,7 @@ One day I was reading a book called “Brain Sex”, and bells started to ring a
 > 
 > Success at any venture usually demands a mixture of talent and *aggression*, a rare enough combination. Most men don't have it—very few are talented enough to be a top scientist. Most women don't have the elusive combination either; and they are differentially handicapped by the fact that those sex differences which may give them an abundance of talent do not, on average, also endow them with the aggression and ambition for its ultimate fulfilment.[^1]
 
-*Jesus had these traits they referred to!* He was the most talented person to ever walk this earth. He was aggressive, I know because *The Urantia Book* told me—he was consistently aggressive right from the time he was a child! Thomas admired him because, amongst many tilings, he was “so pure and innocent but at the same time so virile, aggressive, and forceful”. [UB 139:8.7](/en/The_Urantia_Book/139#p8_7) He had ambition. With the combination of talent, aggression, ambition (plus hundreds/thousands of other qualities, not to mention his beautiful personality), he was the most successful man this world has and will ever know.
+**Jesus had these traits they referred to!** He was the most talented person to ever walk this earth. He was aggressive, I know because *The Urantia Book* told me—he was consistently aggressive right from the time he was a child! Thomas admired him because, amongst many tilings, he was “so pure and innocent but at the same time so virile, aggressive, and forceful”. [UB 139:8.7](/en/The_Urantia_Book/139#p8_7) He had ambition. With the combination of talent, aggression, ambition (plus hundreds/thousands of other qualities, not to mention his beautiful personality), he was the most successful man this world has and will ever know.
 
 I was on an aircraft at the time. That wretched aircraft took a painfully long time to arrive at my home city. The very first thing I went to when I arrived home?—the dictionary. And if it didn't tell me something really nice about this aggressive trait then it was useless, and I had better buy a different one. Sure enough after, the “not nice” definition are these definitions—forceful; self-assertive; assertive.
 

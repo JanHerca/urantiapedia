@@ -1,14 +1,14 @@
 ---
-title: ¡Quiero ser agresiva!
+title: "¡Quiero ser agresiva!"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: psychology, religion
+tags: psychology, religion, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Ann Bendall** | Traductor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
 
 Érase una vez, antes de leer *El libro de Urantia*, en que pensaba que ser agresiva era ser decididamente antisocial. El diccionario decía que las personas agresivas eran «pendencieras o beligerantes». Y estuve de acuerdo con esto. Dios mío, el movimiento de mujeres gritaba que todo el problema del mundo eran los hombres y su agresión, ¡sus tendencias agresivas! Nosotras, las mujeres, suspiramos aliviadas porque no estábamos tan malditas (a pesar de la investigación que discrepa: las mujeres son tan agresivas como los hombres, si se las provoca). Sin embargo, parece que muchos hombres son naturalmente agresivos y pueden imaginar fácilmente que ha ocurrido una provocación, si el impulso de ser agresivo es fuerte).
 
@@ -30,7 +30,7 @@ Un día estaba leyendo un libro llamado «Brain Sex», y las campanas comenzaron
 >
 > El éxito en cualquier empresa por lo general exige una mezcla de talento y *agresividad*, una combinación bastante rara. La mayoría de los hombres no lo tienen; muy pocos tienen el talento suficiente para ser un científico destacado. La mayoría de las mujeres tampoco tienen la esquiva combinación; y tienen una desventaja diferente por el hecho de que esas diferencias de sexo que pueden darles una gran cantidad de talento no los dotan, en promedio, también con la agresividad y la ambición para su realización final.[^1]
 
-*¡Jesús tenía estos rasgos a los que se referían!* Era la persona más talentosa que jamás haya caminado en la Tierra. Era agresivo, lo sé porque *El libro de Urantia* me lo dice: ¡fue consistentemente agresivo desde que era niño! Tomás el apóstol lo admiraba porque, entre muchas cosas, era «tan puro e inocente pero al mismo tiempo tan viril, agresivo y contundente». [LU 139:8.7](/es/The_Urantia_Book/139#p8_7) Tenía ambición. Con la combinación de talento, agresividad, ambición (además de cientos/miles de otras cualidades, sin mencionar su hermosa personalidad), fue el hombre más exitoso que este mundo ha conocido y jamás conocerá.
+**¡Jesús tenía estos rasgos a los que se referían!** Era la persona más talentosa que jamás haya caminado en la Tierra. Era agresivo, lo sé porque *El libro de Urantia* me lo dice: ¡fue consistentemente agresivo desde que era niño! Tomás el apóstol lo admiraba porque, entre muchas cosas, era «tan puro e inocente pero al mismo tiempo tan viril, agresivo y contundente». [LU 139:8.7](/es/The_Urantia_Book/139#p8_7) Tenía ambición. Con la combinación de talento, agresividad, ambición (además de cientos/miles de otras cualidades, sin mencionar su hermosa personalidad), fue el hombre más exitoso que este mundo ha conocido y jamás conocerá.
 
 Estaba en un avión en ese momento. Ese miserable avión tardó dolorosamente en llegar a mi ciudad natal. ¿La primera cosa que pillé cuando llegué a casa?—el diccionario. Y como no me dijo algo realmente bueno sobre el rasgo agresivo, no sirvió para nada, y será mejor que me compre uno diferente. Efectivamente tiempo después, la definición de «no agradable» son estas definiciones: contundente; autoafirmativo; positivo.
 

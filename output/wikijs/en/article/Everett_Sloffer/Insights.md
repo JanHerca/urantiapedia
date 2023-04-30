@@ -3,10 +3,12 @@ title: Insights
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: 
+tags: Religion, Spirituality, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
+
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Everett Sloffer<br>© 1994 The Brotherhood of Man Library</p>
 
 At some stage during our lives, virtually everybody has some special experience, a spiritual insight that we might desire to share with our fellow seekers. Surely such experiences derive from the God-spirit within. Some may be too intensely personal for sharing. Others may have spiritual value that we should not keep to ourselves.
 

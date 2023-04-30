@@ -1,12 +1,14 @@
 ---
-title: On the Urgent Need for Secondary Works
+title: "On the Urgent Need for Secondary Works"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book
+tags: religion, The Urantia Book, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
+
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">>© 1994 The Brotherhood of Man Library</p>
 
 **The Sunshine Coast Study Group, Qld., Australia**
 
