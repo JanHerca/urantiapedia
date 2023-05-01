@@ -26,7 +26,7 @@ Se anulan las actitudes tradicionales como el ojo por ojo y el diente por diente
 
 El «Sermón de la Ordenación» dado a los apóstoles en los Documentos de Urantia se desvía muy poco en principio del «Sermón de la Montaña» en el evangelio de Mateo. Y los Documentos también adoptan una actitud fuertemente positiva:
 
-> _El gran error de las religiones modernas es el negativismo. . . .Los caracteres fuertes no se derivan de no hacer el mal, sino de hacer el bien._
+> _El gran error de las religiones modernas es el negativismo... .Los caracteres fuertes no se derivan de no hacer el mal, sino de hacer el bien._
 
 A juzgar por algunos de los correos electrónicos que circulan entre los seguidores del Libro de Urantia, estar rápidamente de acuerdo con el adversario no está tan de moda.
 

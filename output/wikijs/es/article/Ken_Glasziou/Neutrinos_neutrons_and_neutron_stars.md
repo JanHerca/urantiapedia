@@ -3,12 +3,12 @@ title: Neutrinos, neutrones, y estrellas de neutrones
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: 
+tags: Physics, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Ken Glasziou, Ph.D.** | Traductor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
 
 <figure class="image urantiapedia">
 <img src="/image/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars/neutron_star.jpg" width="580" height="387">

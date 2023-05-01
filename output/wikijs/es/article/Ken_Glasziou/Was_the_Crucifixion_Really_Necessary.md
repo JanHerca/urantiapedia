@@ -24,7 +24,7 @@ El sentido de justicia legal entre los romanos era tan acusado que, posiblemente
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Ken_Glasziou/Was_the_Crucifixion_Really_Necessary/Giovanni_Bellini_-_Il_sangue_del_Redentore.jpg">
-<figcaption>La sangre de Cristo es atrapada por un ángel en la pintura de Giovanni Bellini “La sangre o el redentor”. simbolizando dramáticamente la fuerza y la energía o ese “fluido vital”. <a href="https://en.wikipedia.org/wiki/The_Blood_of_the_Redeemer">Wikipedia</a></figcaption>
+<figcaption>La sangre de Cristo es atrapada por un ángel en la pintura de Giovanni Bellini «La sangre o el redentor». simbolizando dramáticamente la fuerza y la energía o ese «fluido vital». <a href="https://en.wikipedia.org/wiki/The_Blood_of_the_Redeemer">Wikipedia</a></figcaption>
 </figure>
 
 ¿Podría una consecuencia así, tan evidentemente deseable, haber retirado el perdón de Dios por el pecado heredado de Adán? ¿O habría necesitado Dios exigir a Jesús que llevara a la muerte a alguien más? ¿Qué clase de Dios haría esto último? Algo en estas líneas puede desafiar lo menos fundamental de los fundamentalistas para que abran sus mentes a conceptos alternativos.

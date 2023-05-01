@@ -16,7 +16,7 @@ Tarde o temprano, los lectores de El libro de Urantia tendrán que prestar atenc
 
 Se asigna una alta prioridad a hacer que el cristianismo regrese de su estado actual de religión autoritaria a lo que siempre tuvo que ser: una religión del espíritu centrada en la relación entre el individuo, el Espíritu de la Verdad y el Padre Espíritu interior. Esta prioridad se enfatiza en al menos diez párrafos en los Documentos, tales como:
 
-> «En verdad, el cristianismo ha hecho un gran servicio a este mundo, pero a quien más se necesita ahora es a Jesús. El mundo necesita ver a Jesús viviendo de nuevo en la Tierra en la experiencia de los mortales nacidos del espíritu que revelan el Maestro eficazmente a todos los hombres. . . .»([LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
+> «En verdad, el cristianismo ha hecho un gran servicio a este mundo, pero a quien más se necesita ahora es a Jesús. El mundo necesita ver a Jesús viviendo de nuevo en la Tierra en la experiencia de los mortales nacidos del espíritu que revelan el Maestro eficazmente a todos los hombres... .»([LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
 
 Los lectores del Libro de Urantia que ya se han tomado esta tarea en serio han aprendido mucho sobre lo que es poco probable que logre mucho en el camino del éxito a largo plazo.
 
@@ -44,11 +44,11 @@ El cambio a una religión del espíritu exige, como primer paso esencial, el est
 
 Hay más de veinte versículos del Nuevo Testamento que hablan de nuestra morada de los Espíritus del Padre y del Hijo. Algunos de estos son:
 
-> [Juan 14:23](/es/Bible/John/14#v23) . . . el que me ama, mis palabras guardará; y mi Padre le amará, y vendremos a él, y **haremos morada en él**.
+> [Juan 14:23](/es/Bible/John/14#v23) ... el que me ama, mis palabras guardará; y mi Padre le amará, y vendremos a él, y **haremos morada en él**.
 
 > [Juan 14:26](/es/Bible/John/14#v26). El Consolador, el Espíritu Santo, que el Padre enviará en mi nombre **os enseñará todo y os hará recordar todo lo que os he dicho**.
 
-> [Lucas 17:21](/es/Bible/Luke/17#v21) . . . porque el **reino de Dios está dentro de ti**. Mateo 10: 20. Porque no sois vosotros los que habláis, sino el **Espíritu de vuestro Padre que habla en vosotros**.
+> [Lucas 17:21](/es/Bible/Luke/17#v21) ... porque el **reino de Dios está dentro de ti**. Mateo 10: 20. Porque no sois vosotros los que habláis, sino el **Espíritu de vuestro Padre que habla en vosotros**.
 
 > [Juan 4:12](/es/Bible/1_John/4#v12) A Dios nadie lo ha visto jamás. Si nos amamos unos a otros, **Dios habita en nosotros, y su amor se perfecciona en nosotros.**
 

@@ -12,7 +12,7 @@ dateCreated: 2022-09-27T00:52:55.262Z
 
 Durante la discusión entre Jesús y Emmanuel sobre el propósito del otorgamiento de Jesús, Emmanuel recomendó lo siguiente:
 
-> «Demuestra en tu corta y única vida en la carne, como nunca antes se ha visto en todo Nebadon, **las posibilidades trascendentes que puede alcanzar un humano que conoce a Dios** durante la breve carrera de la existencia mortal. . . y mostrar al universo entero la hazaña de Dios que busca al hombre y lo encuentra, y el fenómeno del hombre que busca a Dios y lo encuentra.» ([LU 120:2.8](/es/The_Urantia_Book/120#p2_8))
+> «Demuestra en tu corta y única vida en la carne, como nunca antes se ha visto en todo Nebadon, **las posibilidades trascendentes que puede alcanzar un humano que conoce a Dios** durante la breve carrera de la existencia mortal... y mostrar al universo entero la hazaña de Dios que busca al hombre y lo encuentra, y el fenómeno del hombre que busca a Dios y lo encuentra.» ([LU 120:2.8](/es/The_Urantia_Book/120#p2_8))
 
 Por eso no es de extrañar que se nos diga: «_De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió_». ([LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
 

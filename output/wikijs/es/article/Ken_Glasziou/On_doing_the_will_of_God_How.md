@@ -21,7 +21,7 @@ Así, nuestra personalidad, junto con nuestra mente, puede actuar sobre la volun
 Pero, ¿cómo podemos estar seguros en nuestras propias mentes de que hablamos en serio? Decir eso no lo convierte en eso. ¿Qué puede significar tal compromiso para una criatura material finita?
 
 Los Documentos describen el significado de hacer la voluntad de Dios en estos términos:
-- El hacer la voluntad de Dios no es ni más ni menos que una exhibición de la disposición de la criatura a compartir la vida interior con Dios. . . Compartir es divino, divino.
+- El hacer la voluntad de Dios no es ni más ni menos que una exhibición de la disposición de la criatura a compartir la vida interior con Dios... Compartir es divino, divino.
 - La imitación de Dios es la clave de la perfección; el hacer su voluntad es el secreto de la supervivencia y de la perfección en la supervivencia.
 - La paz en esta vida, la supervivencia en la muerte, la perfección en la otra vida, el servicio en la eternidad, todo esto se logra (en espíritu) AHORA cuando la personalidad de la criatura consiente -elige- en someter la voluntad de la criatura a la voluntad del Padre.
 - Esta elección de la voluntad del Padre es el hallazgo espiritual del Padre espiritual por el hombre mortal.

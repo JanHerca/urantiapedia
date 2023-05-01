@@ -18,7 +18,7 @@ dateCreated: 2022-09-26T23:03:26.250Z
 
 > La sociedad de Urantia nunca puede esperar estabilizarse como en las épocas pasadas. ... La misión suprema de la religión, como influencia social, consiste en **estabilizar los ideales de la humanidad** durante esos peligrosos períodos de transición entre una fase de civilización y la siguiente, entre un nivel de cultura y el siguiente. ([LU 99:1.3](/es/The_Urantia_Book/99#p1_3))
 
-> La religión no tiene ningún deber nuevo que cumplir, pero se le pide que actúe urgentemente como guía sabia y consejera experimentada. . . . ([LU 99:1.4](/es/The_Urantia_Book/99#p1_4))
+> La religión no tiene ningún deber nuevo que cumplir, pero se le pide que actúe urgentemente como guía sabia y consejera experimentada... . ([LU 99:1.4](/es/The_Urantia_Book/99#p1_4))
 
 > Humanamente hablando, un humanitarismo ateo es un noble gesto, pero la verdadera religión es la única fuerza que puede acrecentar de forma duradera la sensibilidad de un grupo social hacia las necesidades y los sufrimientos de otros grupos. ([LU 99:1.5](/es/The_Urantia_Book/99#p1_5))
 

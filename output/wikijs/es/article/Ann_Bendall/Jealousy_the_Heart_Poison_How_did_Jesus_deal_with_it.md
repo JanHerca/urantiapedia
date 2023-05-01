@@ -15,7 +15,7 @@ Jesús llamó a todos «amigo» porque no tenía ninguna duda de que, de hecho, 
 Muchas emociones bloquean efectivamente el desarrollo de una amistad y una de las más destructivas es la emoción de los celos. Definidos como «el estado de desconfianza o miedo de ser desplazado por un rival» (diccionario de Oxford), los celos se basan en el miedo, la emoción opuesta a la que conduce a la formación de una amistad. Además implica una falta de confianza y un gran error de pensamiento, totalmente en contradicción con la realidad del universo, a saber, que una persona puede ser rival de otra. ¿Rival de qué, cuando cada uno de nosotros es único, cada uno de nosotros tiene un plan preferido por Dios, un plan que ninguna otra personalidad puede cumplir?
 
 > Solo hay una manera en la que uno puede soportar la inhumanidad del hombre hacia el hombre, y es intentar en la propia vida, ejemplificar la humanidad del hombre hacia el hombre.
-> Alan Paton “Llora la Patria Amada”.
+> Alan Paton «Llora la Patria Amada».
 
 ## Entonces, ¿qué causa los celos?
 
