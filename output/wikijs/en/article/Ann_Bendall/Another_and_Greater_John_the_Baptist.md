@@ -3,12 +3,12 @@ title: "Another and Greater John the Baptist!"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Morality, Psychology
+tags: Morality, Psychology, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Author: **Ann Bendall**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
 
 In our second issue we asked for suggestions as to how “another and greater John the Baptist is going to arise proclaiming the kingdom of God is at hand without referring to the visible church or the second coming of Christ.”
 
@@ -30,21 +30,24 @@ Recovery is about joining the family of man. “It's about learning to share our
 
 The “inner child” work which we must undertake to recover (i.e., to re-establish the link between our “inner child”" and our Higher Parent) consists of:
 
-* a) _becoming self-accepting._ Self acceptance is defined by the authors as “the gift we give ourselves when we look openly at our inner self and Our Higher Parent and bear witness to their existence within us. From this we learn to value all that we are and all that we can become.”
+* a) __becoming self-accepting.__ Self acceptance is defined by the authors as “the gift we give ourselves when we look openly at our inner self and Our Higher Parent and bear witness to their existence within us. From this we learn to value all that we are and all that we can become.”
 
-* b) _allowing a spiritual awakening_ by letting “God into our lives (our Higher Parent) and learning how to reach out for love. It is about letting go of the baggage of the past, healing old wounds and learning how to avoid recreating these painful patterns in our present. It is about allowing our inner self to be spontaneous, joyful, alive, free. It is about allowing our Higher Parent to guide us with inner wisdom.”
+* b) __allowing a spiritual awakening__ by letting “God into our lives (our Higher Parent) and learning how to reach out for love. It is about letting go of the baggage of the past, healing old wounds and learning how to avoid recreating these painful patterns in our present. It is about allowing our inner self to be spontaneous, joyful, alive, free. It is about allowing our Higher Parent to guide us with inner wisdom.”
 
-* c) _creating intimacy_ by joining with our Higher Parent and following “Him trustingly through the dark times while our inner self makes its healing energy of love available to us and those around us.”
+* c) __creating intimacy__ by joining with our Higher Parent and following “Him trustingly through the dark times while our inner self makes its healing energy of love available to us and those around us.”
 
-* d) _becoming humble._ “Humility is the acceptance of reality. It is the acknowledgment of the truth about ourselves. It is accepting the truth of a situation whether we like it or not. Humility is knowing we all fit into God's plan equally and are no better nor worse than anyone else.” Humility is not self-deprecation, which is a form of false humility because the “focus remains on us even though we are putting ourselves down.”
+* d) __becoming humble.__ “Humility is the acceptance of reality. It is the acknowledgment of the truth about ourselves. It is accepting the truth of a situation whether we like it or not. Humility is knowing we all fit into God's plan equally and are no better nor worse than anyone else.” Humility is not self-deprecation, which is a form of false humility because the “focus remains on us even though we are putting ourselves down.”
 
-* e) _stopping comparing ourselves_ with others with our self-esteem being dependent upon being better than others. We are all unique!
+* e) __stopping comparing ourselves__ with others with our self-esteem being dependent upon being better than others. We are all unique!
 
-* f) _forgiving_ - “We should regard forgiveness as making space within us so that we may eventually replace with love the pain and rage which have driven us. Forgiveness is largely about seeing more in others than just their actions. . . . Our Higher Parent can help us rationally perceive life's events as neutral . . . and can help us to put space between hurtful events and our reaction to them. Also our higher Parent can help us to gain understanding so that we do not feel so helplessly consumed by our memories.”
+* f) __forgiving__ - “We should regard forgiveness as making space within us so that we may eventually replace with love the pain and rage which have driven us. Forgiveness is largely about seeing more in others than just their actions. . . . Our Higher Parent can help us rationally perceive life's events as neutral . . . and can help us to put space between hurtful events and our reaction to them. Also our higher Parent can help us to gain understanding so that we do not feel so helplessly consumed by our memories.”
 
 “Our legacy from our creator is to know relationships where love is given and received, where we are valued and respected and nurtured by one another. Our legacy is to play to the fullest extent our part in the greater plan of creation.”
 
 Indeed it is a joy to live in an era where Jesus' living message of “the Kingdom within” is being espoused by the self-development perspectives. Where once God was the monopoly of the churches, in this century He is being freed to become the “Higher Parent” of the individual, with this part of Jesus' message finally gaining general populace acceptance! 
+
+> It is impossible to love Christ without loving others (in proportion as these others are moving towards Christ). And it is impossible to love others (in a spirit of broad human communion) without moving nearer to Christ. 
+>     Pierre Teühard de Chardin, The Divine Milieu
 
 ## External links
 

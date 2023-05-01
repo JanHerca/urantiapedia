@@ -3,16 +3,16 @@ title: "Cognitive Dissonance. Can The Urantia Book help?"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Jesus, Jesus teachings, Morality, Psychology
+tags: Jesus, Jesus teachings, Morality, Psychology, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Author: **Ann Bendall, BA, Dip. Psych.**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
 
-_Cognitive dissonance is a state of mental confusion/conflict caused by having inconsistency between values and behavior._
+__Cognitive dissonance is a state of mental confusion/conflict caused by having inconsistency between values and behavior.__
 
-Because nobody likes to live with constant inner turmoil, most folks will seek some way to resolve their inner conflict. And, most commonly, _rather than changing their established behavior patterns, they will modify their beliefs and values to make them consistent with their habitual actions._
+Because nobody likes to live with constant inner turmoil, most folks will seek some way to resolve their inner conflict. And, most commonly, __rather than changing their established behavior patterns, they will modify their beliefs and values to make them consistent with their habitual actions.__
 
 Why is it that we opt for change of behavior as an alternative to be avoided if at all possible? Perhaps the reason for this is that behavior is overt, public, conspicuous. If we change our behavior, other people will notice, and may not necessarily approve. We might get ostracized by our friends, members of the groups to which we belong, maybe even our family (similar to that which occurred in Jesus' life). So we simply change our values, or relegate them to a level of non-importance. We can do this in a number of ways, examples of which are:
 
@@ -74,7 +74,7 @@ Despite the fact that, “_All conflict is evil in that it inhibits the creative
 
 > The religion of the spirit means effort, struggle, conflict, faith, determination, love, loyalty, and progress. . . . [UB 155:5.11](/en/The_Urantia_Book/155#p5_11)
 
-> Religious perplexities are inevitable; _there can be no growth without psychic conflict and spiritual agitation._ The organization of a philosophic standard of living entails considerable commotion in the philosophic realms of the mind. Loyalties are not exercised in behalf of the great, the good, the true, and the noble without a struggle. Effort is attendant upon clarification of spiritual vision and enhancement of cosmic insight. And the human intellect protests against being weaned from subsisting upon the nonspiritual energies of temporal existence. The slothful animal mind rebels at the effort required to wrestle with cosmic problem solving. [UB 100:4.2](/en/The_Urantia_Book/100#p4_2)
+> Religious perplexities are inevitable; __there can be no growth without psychic conflict and spiritual agitation.__ The organization of a philosophic standard of living entails considerable commotion in the philosophic realms of the mind. Loyalties are not exercised in behalf of the great, the good, the true, and the noble without a struggle. Effort is attendant upon clarification of spiritual vision and enhancement of cosmic insight. And the human intellect protests against being weaned from subsisting upon the nonspiritual energies of temporal existence. The slothful animal mind rebels at the effort required to wrestle with cosmic problem solving. [UB 100:4.2](/en/The_Urantia_Book/100#p4_2)
 
 So it looks as if we cannot happily chant an affirmation like, “it is my will that Thy will be done,” fold our arms in ecstatic pleasure and await the scenic ride to Paradise. Sorry! That is not the way to perfection. After deciding to make the decision that we truly want our will and God's will to be so alike that they cannot be individually identified, we have heaps of work to do for a long, long time to come. And we might as well get started.
 

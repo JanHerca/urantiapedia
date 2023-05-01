@@ -3,12 +3,12 @@ title: "Nouveau-Assertiveness"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Sociology, Spirituality
+tags: Sociology, Spirituality, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Author: **Jacques Tetrault**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Jacques Tetrault<br>© 1994 The Brotherhood of Man Library</p>
 
 Today in western culture, social values promote self-assertiveness. It is important to show oneself to be strong, independent, capable, to resist any type of domination. We learn to do our own thing, to make the best of most situations. It is the age of emancipation, of claiming one's rights, of demanding. It applies equally to all individuals—teen-agers, women, the crippled, the aged, low income people, all minority groups. Each individual and each group wants more rights. It also applies to nations and states.
 

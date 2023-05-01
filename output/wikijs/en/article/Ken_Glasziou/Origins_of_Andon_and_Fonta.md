@@ -3,12 +3,12 @@ title: "Science and The Urantia Book. Origins of Andon and Fonta"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Anthropology, Biology and Genetics
+tags: Anthropology, Biology and Genetics, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Author: **Ken Glasziou**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
 
 Conventional wisdom on the origin of the human species is that, 4 million years ago in Africa, a little creature just over a meter tall emerged from the evolutionary melting pot, and stood up.
 
@@ -32,7 +32,10 @@ What this says is that even if the data are correct it only means that there cou
 
 Of more interest to Urantia Book readers are the other scraps that have come from these studies. Most of the work has been on the “MHC” genes of the human immune system concerned with “self-recognition.” These ensure that if you get a skin graft from your neighbor, it will drop off. But if you get it from your identical twin, it might stick. Besides telling us that we derive these genes from a cross species ancestry going back at least 65,000,000 years, it also permits an estimate of the size of breeding populations that give rise to a species, including the human species. Quote: “The MHC data imply that the early hominid line split, at some stage, into at least two populations—one of which led to modern Homo sapiens (us). This population consisted of at least 500 but more likely 10,000 breeding individuals who carried most of the MHC alleles and allelic lineages now found in human populations.”[^7]
 
-Many (most?) readers think that _The Urantia Book_ claims that Andon and Fonta were the sole ancestral parents of all of us. In fact, it does not. It says: “Even the loss of Andon and Fonta before they had offspring, though delaying human evolution, would not have prevented it. Subsequent to the appearance of Andon and Fonta, and before the mutating potentials of animal life were exhausted, there evolved no less than seven thousand favorable strains which could have achieved some sort of human type of development. And many of these better stocks were subsequently assimilated by the various branches of the expanding human species.” ([UB 65:3.4](/en/The_Urantia_Book/65#p3_4)). Which would account quite nicely for the present polymorphism of the MHC alleles, as well as the estimates of the initial size of the breeding population at between 500 and 10,000. Ain't that marvellous?
+Many (most?) readers think that _The Urantia Book_ claims that Andon and Fonta were the sole ancestral parents of all of us. In fact, it does not. It says: “Even the loss of Andon and Fonta before they had offspring, though delaying human evolution, would not have prevented it. Subsequent to the appearance of Andon and Fonta, and before the mutating potentials of animal life were exhausted, there evolved no less than __seven thousand__ favorable strains which could have achieved some sort of human type of development. And __many of these better stocks were subsequently assimilated by the various branches of the expanding human species__.” ([UB 65:3.4](/en/The_Urantia_Book/65#p3_4)). Which would account quite nicely for the present polymorphism of the MHC alleles, as well as the estimates of the initial size of the breeding population at between 500 and 10,000. Ain't that marvellous?
+
+> To observe and explore the world is the task of science; to judge it and determine our attitudes toward it is the the task of religion.
+>    Leo Baeck, _The essence of Judaism_
 
 ## External links
 

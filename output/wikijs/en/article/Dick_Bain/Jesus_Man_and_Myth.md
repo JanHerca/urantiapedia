@@ -1,14 +1,14 @@
 ---
-title: Jesus, Man, and Myth
+title: "Jesus, Man, and Myth"
 description: 
 published: true
 date: 2022-12-23T20:32:59.004Z
-tags: religion, jesus, jesus teachings
+tags: religion, jesus, jesus teachings, Innerface International, article
 editor: markdown
 dateCreated: 2022-09-26T05:41:03.577Z
 ---
 
-Author: **Dick Bain**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Dick Bain<br>© 1994 The Brotherhood of Man Library</p>
 
 Jesus once asked his Apostles this question: “Who do men say that I am?” The Apostles told him that he had been identified as Moses, Elijah, Isaiah, Jeremiah, or even John the Baptist raised from the dead. Then Jesus confronted them with an even more startling question: “Who do you say I am?” The impetuous Simon Peter jumped up and said, “The deliverer, the Son of God!” Many of those who knew Jesus only by reputation assumed that he was the reincarnation of some well known prophet. Some of his enemies seemed to think that he was a person in league with the prince of devils. But the Apostles, who had lived with him for more than a year, believed he was the Son of God and in some way the Messiah expected by the Jews. That certainly didn't settle the matter; the search for Jesus' identity has continued for over 1900 years and hasn't ended yet.
 
@@ -51,6 +51,9 @@ We know that women played a significant part in the early church; perhaps this w
 It is sad that the heroes of many young people are rock stars and TV characters. It is unfortunate that the majesty of the glorified and risen Christ has obscured the heroism of the human Jesus in Christian teachings, and that much of his life has been unknown to us. If young people could only hear the story of the young Jesus, bravely sustaining his family after the untimely death of his father, wouldn't they admire such courage, and wouldn't they be willing to follow such an admirable leader? The authors of the Jesus papers of _The Urantia Book_ tell us, “*If the Christian church would only dare to espouse the Master's program, thousands of apparently indifferent youths would rush forward to enlist in such a spiritual undertaking...*” ([UB 195:10.10](/en/The_Urantia_Book/195#p10_10)) How excellent it will be when religious teachers someday use stories from _The Urantia Book_ to inspire young people to live their lives in the spirit Jesus exemplified in his life.
 
 Whatever we think about Jesus, most of us would agree that no individual has had a greater impact on the history of our planet than this spiritual teacher from Galilee. Through the means of the Christian church, his teachings have penetrated every corner of our planet. Where receptive minds and hearts are found, Jesus' ethical and moral teachings leaven the home life, the laws and institutions of government, and even the conduct of business. And as the expanded and clarified story of the life and teachings of Jesus in _The Urantia Book_ slowly penetrate the world's cultures, we can anticipate still greater advances in all human endeavors. Even after 2000 years, his words still encourage us to spiritual growth and will do so throughout the ages to come. Jesus said, “*...my words will never pass away.*” ([Matthew 24:35](/en/Bible/Matthew/24#v35), [UB 156:2.5](/en/The_Urantia_Book/156#p2_5))
+
+> If anyone could prove to me that Christ is outside the truth, and if the truth really did exclude Christ, I would stay with Christ rather than with the truth. 
+>     Fyodor Dostoevsky, Letter to N. A. Fonvizina, February 20th 1854
 
 ## External links
 

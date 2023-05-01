@@ -3,16 +3,16 @@ title: "Disonancia cognitiva. ¿Puede ayudar El libro de Urantia?"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Jesus, Jesus teachings, Morality, Psychology
+tags: Jesus, Jesus teachings, Morality, Psychology, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Ann Bendall, B.A., Dip.** | Traductor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
 
-_La disonancia cognitiva es un estado de confusión/conflicto mental causado por tener una inconsistencia entre los valores y el comportamiento._
+__La disonancia cognitiva es un estado de confusión/conflicto mental causado por tener una inconsistencia entre los valores y el comportamiento.__
 
-Debido a que a nadie le gusta vivir con una agitación interna constante, la mayoría de la gente busca alguna forma para resolver sus conflictos internos. Y, más comúnmente, _en lugar de cambiar sus patrones de comportamiento establecidos, modificarán sus creencias y valores para hacerlos consistentes con sus acciones habituales._
+Debido a que a nadie le gusta vivir con una agitación interna constante, la mayoría de la gente busca alguna forma para resolver sus conflictos internos. Y, más comúnmente, __en lugar de cambiar sus patrones de comportamiento establecidos, modificarán sus creencias y valores para hacerlos consistentes con sus acciones habituales.__
 
 ¿Por qué optamos por el cambio de comportamiento como algo a evitar siempre que sea posible? Quizás la razón de esto es que el comportamiento es abierto, público, conspicuo. Si cambiamos nuestro comportamiento, otras personas lo notarán y no necesariamente lo aprobarán. Podríamos ser condenados al ostracismo por nuestros amigos, miembros de los grupos a los que pertenecemos, tal vez incluso nuestra familia (similar a lo que ocurrió en la vida de Jesús). Así que simplemente cambiamos nuestros valores, o los relegamos a un nivel de no importancia. Podemos hacer esto de varias maneras, ejemplos de los cuales son:
 
@@ -74,7 +74,7 @@ A pesar de que «_Todo conflicto es malo en el sentido de que inhibe la función
 
 > La religión del espíritu significa esfuerzo, lucha, conflicto, fe, determinación, amor, lealtad y progreso. [...] [LU 155:5.11](/es/The_Urantia_Book/155#p5_11)
 
-Las perplejidades religiosas son inevitables; _no puede existir ningún crecimiento sin conflicto psíquico y sin agitación espiritual._ La organización de un modelo filosófico de vida ocasiona una conmoción considerable en el terreno filosófico de la mente. La lealtad hacia lo grande, lo bueno, lo verdadero y lo noble no se ejerce sin lucha. La clarificación de la visión espiritual y el realce de la perspicacia cósmica van acompañados de esfuerzo. Y el intelecto humano protesta cuando se le quita el sustento de las energías no espirituales de la existencia temporal. La mente indolente animal se rebela ante el esfuerzo que exige la lucha para resolver los problemas cósmicos. [LU 100:4.2](/es/The_Urantia_Book/100#p4_2)
+> Las perplejidades religiosas son inevitables; __no puede existir ningún crecimiento sin conflicto psíquico y sin agitación espiritual.__ La organización de un modelo filosófico de vida ocasiona una conmoción considerable en el terreno filosófico de la mente. La lealtad hacia lo grande, lo bueno, lo verdadero y lo noble no se ejerce sin lucha. La clarificación de la visión espiritual y el realce de la perspicacia cósmica van acompañados de esfuerzo. Y el intelecto humano protesta cuando se le quita el sustento de las energías no espirituales de la existencia temporal. La mente indolente animal se rebela ante el esfuerzo que exige la lucha para resolver los problemas cósmicos. [LU 100:4.2](/es/The_Urantia_Book/100#p4_2)
 
 Así que parece que no podemos cantar felizmente una afirmación como «es mi voluntad que se haga tu voluntad», cruzarnos de brazos con placer extático y esperar el paseo panorámico hacia el Paraíso. ¡Lo siento! Ese no es el camino a la perfección. Después de tomar la decisión de que realmente queremos que nuestra voluntad y la voluntad de Dios sean tan parecidas que no puedan identificarse individualmente, tenemos mucho trabajo por hacer durante mucho, mucho tiempo por venir. Y bien podríamos empezar.
 

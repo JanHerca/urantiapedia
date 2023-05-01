@@ -3,7 +3,7 @@ title: "Jesús, Hombre y Mito"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Jesus, Jesus teachings, Religion
+tags: Jesus, Jesus teachings, Religion, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -51,6 +51,9 @@ Sabemos que las mujeres desempeñaron un papel significativo en la iglesia tempr
 Es triste que los héroes de muchos jóvenes sean estrellas del rock y personajes de la televisión. Es desafortunado que la majestuosidad del Cristo glorificado y elevado haya oscurecido el heroísmo del Jesús humano en las enseñanzas cristianas, y que mucho de su vida haya sido desconocido para nosotros. Si los jóvenes pudieran simplemente escuchar la historia del joven Jesús, manteniendo con valentía a su familia tras la muerte prematura de su padre, ¿no admirarían ese coraje? ¿No estarían dispuestos a seguir a un líder tan admirable? Los autores de los documentos sobre Jesús en _El Libro de Urantia_ nos dicen: «_Si la iglesia cristiana se atreviera tan sólo a abrazar el programa del Maestro, miles de jóvenes aparentemente indiferentes se precipitarían para alistarse en esta empresa espiritual, y no dudarían en llevar a cabo hasta el fin esta gran aventura._» ([LU 195:10.10](/es/The_Urantia_Book/195#p10_10)). Qué magnífico será el día que los maestros religiosos utilicen historias de _El Libro de Urantia_ para inspirar a los jóvenes a que vivan sus vidas con el espíritu con que Jesús vivió la suya. 
 
 Sea lo que sea lo que pensemos sobre Jesús, la mayoría de nosotros estaría de acuerdo en que ningún individuo ha tenido un impacto tan grande en la historia de nuestro planeta como este maestro espiritual de Galilea. A través de la iglesia cristiana sus enseñanzas han penetrado en todos los rincones del planeta. Allí donde hay mentes y corazones receptivos, las enseñanzas éticas y morales de Jesús impregnan la vida del hogar, las leyes y las instituciones de gobierno, e incluso la dirección de los negocios. Y mientras la historia extendida y clarificada de la vida y enseñanzas de Jesús penetra en las culturas del mundo, podemos anticipar todavía mayores avances en todos los esfuerzos humanos. Incluso tras 2.000 años, sus palabras todavía nos animan a crecer espiritualmente y lo seguirán haciendo a lo largo de las eras por venir. Jesús dijo: « _mis palabras de verdad no desaparecerán_ ». ([Mt 24:35](/es/Bible/Matthew/24#v35), [LU 156:2.5](/es/The_Urantia_Book/156#p2_5)). 
+
+> Si alguien pudiera probarme que Cristo está fuera de la verdad, y si la verdad realmente excluyera a Cristo, me quedaría con Cristo en lugar de con la verdad.
+>     Fyodor Dostoievski, Carta a N. A. Fonvizina, 20 de febrero de 1854
 
 ## Enlaces externos
 

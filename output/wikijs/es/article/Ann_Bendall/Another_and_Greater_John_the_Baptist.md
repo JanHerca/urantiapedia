@@ -3,12 +3,12 @@ title: "Otro y Mayor Juan Bautista!"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Morality, Psychology
+tags: Morality, Psychology, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Ann Bendall** | Traductor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
 
 En nuestro segundo número pedimos sugerencias sobre cómo «otro y más grande Juan el Bautista se levantará proclamando que el reino de Dios está cerca sin referirse a la iglesia visible o la segunda venida de Cristo».
 
@@ -30,21 +30,24 @@ La recuperación consiste en unirse a la familia del hombre. «Se trata de apren
 
 El trabajo del «niño interior» cuya recuperación debemos emprender (es decir, para restablecer el vínculo entre nuestro «niño interior» y nuestro Padre Superior) consiste en:
 
-* a) _aceptarse a sí mismo._ La autoaceptación es definida por los autores como «el regalo que nos damos a nosotros mismos cuando miramos abiertamente a nuestro yo interior y a Nuestro Padre Superior y damos testimonio de su existencia dentro de nosotros. De esto aprendemos a valorar todo lo que somos y todo en lo que podemos convertirnos».
+* a) __aceptarse a sí mismo.__ La autoaceptación es definida por los autores como «el regalo que nos damos a nosotros mismos cuando miramos abiertamente a nuestro yo interior y a Nuestro Padre Superior y damos testimonio de su existencia dentro de nosotros. De esto aprendemos a valorar todo lo que somos y todo en lo que podemos convertirnos».
 
-* b) _permitir un despertar espiritual_ dejando entrar a «Dios en nuestras vidas (nuestro Padre Superior) y aprendiendo a tender la mano al amor. Se trata de soltar el equipaje del pasado, sanar viejas heridas y aprender a evitar recrear estos dolorosos patrones en nuestro presente. Se trata de permitir que nuestro yo interior sea espontáneo, alegre, vivo, libre. Se trata de permitir que nuestro Padre Superior nos guíe con sabiduría interior».
+* b) __permitir un despertar espiritual__ dejando entrar a «Dios en nuestras vidas (nuestro Padre Superior) y aprendiendo a tender la mano al amor. Se trata de soltar el equipaje del pasado, sanar viejas heridas y aprender a evitar recrear estos dolorosos patrones en nuestro presente. Se trata de permitir que nuestro yo interior sea espontáneo, alegre, vivo, libre. Se trata de permitir que nuestro Padre Superior nos guíe con sabiduría interior».
 
-* c) _crear intimidad_ uniéndonos con nuestro Padre Superior y «siguiéndolo con confianza a través de los tiempos oscuros mientras nuestro yo interior pone a disposición de nosotros y los que nos rodean su energía curativa de amor».
+* c) __crear intimidad__ uniéndonos con nuestro Padre Superior y «siguiéndolo con confianza a través de los tiempos oscuros mientras nuestro yo interior pone a disposición de nosotros y los que nos rodean su energía curativa de amor».
 
-* d) _volverse humilde._ «La humildad es la aceptación de la realidad. Es el reconocimiento de la verdad sobre nosotros mismos. Es aceptar la verdad de una situación, nos guste o no. La humildad es saber que todos encajamos en el plan de Dios por igual y no somos mejores ni peores que nadie más.» La humildad no es autodesprecio, que es una forma de falsa humildad porque «el enfoque permanece en nosotros a pesar de que nos estamos menospreciando».
+* d) __volverse humilde.__ «La humildad es la aceptación de la realidad. Es el reconocimiento de la verdad sobre nosotros mismos. Es aceptar la verdad de una situación, nos guste o no. La humildad es saber que todos encajamos en el plan de Dios por igual y no somos mejores ni peores que nadie más.» La humildad no es autodesprecio, que es una forma de falsa humildad porque «el enfoque permanece en nosotros a pesar de que nos estamos menospreciando».
 
-* e) _dejar de compararnos con los demás_ y hacer depender nuestra autoestima de creernos ser mejores que los demás. ¡Todos somos únicos!
+* e) __dejar de compararnos con los demás__ y hacer depender nuestra autoestima de creernos ser mejores que los demás. ¡Todos somos únicos!
 
-* f) _perdonar_ - «Deberíamos considerar el perdón como hacer espacio dentro de nosotros para que eventualmente podamos reemplazar con amor el dolor y la ira que nos ha motivado. El perdón se trata en gran medida de ver más en los demás que solo sus acciones. [...] Nuestro Padre Superior puede ayudarnos a percibir racionalmente los eventos de la vida como neutrales [...] y puede ayudarnos a poner espacio entre los eventos dolorosos y nuestra reacción a ellos. También nuestro Padre superior puede ayudarnos a obtener comprensión para que no nos sintamos tan impotentes consumidos por nuestros recuerdos».
+* f) __perdonar__ - «Deberíamos considerar el perdón como hacer espacio dentro de nosotros para que eventualmente podamos reemplazar con amor el dolor y la ira que nos ha motivado. El perdón se trata en gran medida de ver más en los demás que solo sus acciones. [...] Nuestro Padre Superior puede ayudarnos a percibir racionalmente los eventos de la vida como neutrales [...] y puede ayudarnos a poner espacio entre los eventos dolorosos y nuestra reacción a ellos. También nuestro Padre superior puede ayudarnos a obtener comprensión para que no nos sintamos tan impotentes consumidos por nuestros recuerdos».
 
 «Nuestro legado de nuestro creador es conocer relaciones en las que se da y se recibe amor, en las que somos valorados, respetados y nutridos unos por otros. Nuestro legado es desempeñar al máximo nuestro papel en el gran plan de la creación».
 
 De hecho, es una alegría vivir en una era donde el mensaje vivo de Jesús del «Reino interior» está siendo adoptado por las perspectivas de autodesarrollo. Donde una vez Dios fue el monopolio de las iglesias, en este siglo Él está siendo liberado para convertirse en el «Padre Superior» del individuo, ¡con esta parte del mensaje de Jesús finalmente ganando la aceptación de la población general!  
+
+> Es imposible amar a Cristo sin amar a los demás (en la medida en que estos otros se encaminan hacia Cristo). Y es imposible amar a los demás (en un espíritu de amplia comunión humana) sin acercarse a Cristo.
+>     Pierre Teühard de Chardin, El medio divino
 
 ## Enlaces externos
 

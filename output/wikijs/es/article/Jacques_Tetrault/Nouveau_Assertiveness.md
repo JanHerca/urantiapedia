@@ -3,12 +3,12 @@ title: "Nouveau-Asertividad"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Sociology, Spirituality
+tags: Sociology, Spirituality, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Jacques Tetrault** | Traductor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Jacques Tetrault<br>© 1994 The Brotherhood of Man Library</p>
 
 Hoy en la cultura occidental, los valores sociales promueven la autoafirmación. Es importante mostrarse fuerte, independiente, capaz, para resistir cualquier tipo de dominación. Aprendemos a hacer lo nuestro, a sacar lo mejor de la mayoría de las situaciones. Es la era de la emancipación, de la reivindicación de los derechos, de la exigencia. Se aplica por igual a todas las personas: adolescentes, mujeres, lisiados, ancianos, personas de bajos ingresos, todos los grupos minoritarios. Cada individuo y cada grupo quiere más derechos. También se aplica a las naciones y estados.
 

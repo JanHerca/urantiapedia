@@ -3,12 +3,12 @@ title: "La ciencia y El libro de Urantia. Orígenes de Andon y Fonta"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Anthropology, Biology and Genetics
+tags: Anthropology, Biology and Genetics, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Ken Glasziou** | Traductor: **Jan Herca**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
 
 La sabiduría convencional sobre el origen de la especie humana es que, hace 4 millones de años en África, una pequeña criatura de poco más de un metro de altura emergió del crisol evolutivo y se puso de pie.
 
@@ -32,7 +32,10 @@ Lo que esto dice es que incluso si los datos son correctos, solo significa que p
 
 De mayor interés para los lectores de _El Libro de Urantia_ son los otros fragmentos que han surgido de estos estudios. La mayor parte del trabajo se ha centrado en los genes «MHC» del sistema inmunitario humano relacionados con el «autorreconocimiento». Estos aseguran que si te implantas un injerto de piel de tu vecino, se caerá. Pero si lo obtienes de tu gemelo idéntico, podría quedarse. Además de decirnos que derivamos estos genes de una ascendencia cruzada de especies que se remonta al menos a 65.000.000 de años, también permite estimar el tamaño de las poblaciones reproductoras que dan lugar a una especie, incluida la especie humana. Cita: «Los datos del MHC implican que la primera línea de homínidos se dividió, en algún momento, en al menos dos poblaciones, una de las cuales condujo al moderno _Homo sapiens_ (nosotros). Esta población constaba de al menos 500, pero más probablemente de 10.000 individuos reproductores que portaban la mayoría de los alelos MHC y linajes alélicos que ahora se encuentran en las poblaciones humanas».[^7]
 
-Muchos (¿la mayoría?) de los lectores piensan que _El Libro de Urantia_ afirma que Andon y Fonta fueron los únicos padres ancestrales de todos nosotros. De hecho, no. Dice: «Incluso la pérdida de Andón y Fonta antes de que tuvieran descendencia no hubiera impedido la evolución humana, aunque la habría retrasado. Después de la aparición de Andón y Fonta, y antes de que se agotaran los potenciales humanos en mutación de la vida animal, evolucionaron no menos de siete mil cepas favorables que podrían haber alcanzado alguna clase de desarrollo de tipo humano. Muchas de estas mejores cepas fueron asimiladas posteriormente por las diversas ramas de la especie humana en expansión». ([LU 65:3.4](/es/The_Urantia_Book/65#p3_4)). Lo que explicaría bastante bien el polimorfismo actual de los alelos MHC, así como las estimaciones del tamaño inicial de la población reproductora entre 500 y 10.000. ¿No es maravilloso?
+Muchos (¿la mayoría?) de los lectores piensan que _El Libro de Urantia_ afirma que Andon y Fonta fueron los únicos padres ancestrales de todos nosotros. De hecho, no. Dice: «Incluso la pérdida de Andón y Fonta antes de que tuvieran descendencia no hubiera impedido la evolución humana, aunque la habría retrasado. Después de la aparición de Andón y Fonta, y antes de que se agotaran los potenciales humanos en mutación de la vida animal, evolucionaron no menos de __siete mil__ cepas favorables que podrían haber alcanzado alguna clase de desarrollo de tipo humano. __Muchas de estas mejores cepas fueron asimiladas posteriormente por las diversas ramas de la especie humana en expansión__». ([LU 65:3.4](/es/The_Urantia_Book/65#p3_4)). Lo que explicaría bastante bien el polimorfismo actual de los alelos MHC, así como las estimaciones del tamaño inicial de la población reproductora entre 500 y 10.000. ¿No es maravilloso?
+
+> Observar y explorar el mundo es tarea de la ciencia; juzgarlo y determinar nuestras actitudes hacia él es la tarea de la religión.
+>     Leo Baeck, _La esencia del judaísmo_
 
 ## Enlaces externos
 
