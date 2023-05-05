@@ -138,6 +138,8 @@ Other special chars:
 - Ö => ...
 - ±
 - °
+- Superscript: 10^5^
+- Subscript: H~2~O
 
 omissions in quotes:
 * english . . .

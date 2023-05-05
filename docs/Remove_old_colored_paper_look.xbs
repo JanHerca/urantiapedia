@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><XnView_script version="1.0" name="Remove_old_colored_paper_look">
+    <Color_balance red="2" green="11" blue="43"/>
+    <White_Balance value="4"/>
+    <Reduce_noise/>
+    <Sharpen value="15"/>
+    <Exposure value="4"/>
+    <Output folder="" filename="{Filename}" case="0" startIndex="1" format="JPEG">
+        <Options overwrite="1" orgDate="false" keepMeta="true" keepICC="false" keepFolder="false" keepParentFolder="false" keepExtension="false" delOrg="true" multipage="false" allPages="false" openExplorer="false" openBrowser="false" clearItems="false"/>
+        <JPEG quality="80" progressive="false" optimizeHuffman="false" rebuildThumb="true" orgQuality="false" DCTMethod="0" subSampling="0" smoothFactor="0"/>
+    </Output>
+</XnView_script>
