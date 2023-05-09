@@ -8,6 +8,8 @@ editor: markdown
 dateCreated: 2023-04-06T14:02:03.086Z
 ---
 
+This list is completed in articles_spiritual_fellowship_journal.md (so remove this index)
+
 | Issue                    | Title                                                                    | Author                  | Tags |
 | ------------------------ | ------------------------------------------------------------------------ | ----------------------- | ---- |
 | Vol. 01, No. 1 Spring 91 | A Faith Adventure                                                        | Meredith Sprunger       |
