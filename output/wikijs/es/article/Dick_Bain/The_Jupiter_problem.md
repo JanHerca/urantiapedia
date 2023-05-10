@@ -3,12 +3,12 @@ title: El problema de Júpiter
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: 
+tags: Astronomy, Innerface International, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Dick Bain<br>© 1995 The Urantia Book Fellowship<br>© 2020 Jan Herca, por la traducción</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Dick Bain<br>© 1995 The Urantia Book Fellowship<br>© 2020 Jan Herca, por la traducción y adiciones</p>
 
 <figure class="image urantiapedia">
 <img src="/image/article/Dick_Bain/The_Jupiter_problem/binarysystem.jpg">
@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Júpiter ha fascinado siempre a los astrónomos y a los no astrónomos. Para Héctor Berlioz, Júpiter era el que incorporaba jovialidad en su composición *Los Planetas*. Pero algunos teóricos del sistema solar no se sienten tan joviales cuando consideran una teoría reciente acerca de la probabilidad de la existencia de Júpiter. Un grupo de astrónomos ha encontrado evidencias de que planetas gaseosos gigantes como Júpiter resultan raros en otros sistemas solares, y esto puede indicar algo importante acerca del origen de nuestro sistema solar.
 
-*El Libro de Urantia* nos informa de que nuestro sistema solar se formó a partir de material arrojado por nuestro Sol cuando pasó cerca de un «gigante oscuro del espacio», Angona:
+El autor del documento 57 de *El Libro de Urantia* nos informa de que nuestro sistema solar se formó a partir de material arrojado por nuestro Sol cuando pasó cerca de un «gigante oscuro del espacio», Angona:
 
 > [...] Vuestro Sol se encontraba precisamente en este estado de poderosa pulsación cuando el masivo sistema de Angona se acercó considerablemente, y la superficie exterior del Sol empezó a arrojar verdaderas corrientes —capas continuas— de materia. [...] [^1]
 
@@ -78,7 +78,7 @@ El acercamiento de una estrella al sistema solar no es algo que en la actualidad
 
 Un descubrimiento reciente de un planeta gigante orbitando una pequeña estrella, pone en tela de juicio todo lo que se sabe acerca de la formación de planetas. La estrella, una enana roja a 39 años luz de nosotros, tiene una masa mayor que la de su planeta, llamado GJ 3512b, pero la diferencia en su tamaño es mucho menor que el que existe entre el Sol y Júpiter. Esta estrella es sólo 270 veces más grande que el planeta, mientras que nuestro Sol es 1.050 veces más masivo que Júpiter. Según los modelos actuales, tal planeta no debería existir. Las predicciones para una estrella enana roja son que debería estar orbitada por pequeños planetas[^20].
 
-La hipótesis del origen *catastrófico* («teoría de Angona») puede tener ahora más detractores que la hipótesis *nebular*, pero parece que el marcador está empezando a cambiar. Quizás ahora en el tercer milenio los astrónomos resuciten la hipótesis catastrófica y lleguen a la misma conclusión que el autor del documento 57.
+La hipótesis del origen *catastrófico* («teoría de Angona») puede tener ahora más detractores que la hipótesis *nebular*, pero parece que el marcador está empezando a cambiar. Quizás ahora en el tercer milenio los astrónomos resuciten la hipótesis catastrófica y lleguen a la misma conclusión que el autor del documento 57. Y 2001 no está tan lejos, ¿verdad?
 
 ## Enlaces externos
 
