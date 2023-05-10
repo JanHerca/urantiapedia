@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Nang Johnson<br>© 2003 The Urantia Book Fellowship</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Nancy Johnson<br>© 2003 The Urantia Book Fellowship</p>
 
 I've been pondering the attributes and attitudes of God these many years and marvel more and more at how he can always be objective about everything that happens. He understands everything so perfectly that when they nailed his son to the cross, he loved “them” as much as he did Christ and forgave them even before they asked. He must have seen the situation in an entirely different light than we do.
 

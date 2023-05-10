@@ -1,5 +1,5 @@
 ---
-title: Two Cosmologies — Astronomy and The Urantia Book
+title: "Two Cosmologies — Astronomy and The Urantia Book"
 description: 
 published: true
 date: 2021-11-28T11:16:41.388Z
