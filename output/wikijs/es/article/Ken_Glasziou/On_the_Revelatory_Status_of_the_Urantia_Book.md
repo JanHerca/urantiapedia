@@ -33,7 +33,7 @@ Otro punto que debemos tener en cuenta es que esta revelación en ninguna parte 
 También vale la pena señalar que la Parte 1 del libro ha sido proporcionada por el grupo más antiguo de autores, probablemente todos los cuales habrían experimentado la presencia misma del Padre Universal en el Paraíso. Sin embargo, estos mismos seres son lo suficientemente humildes como para usar las palabras “Yo/nosotros no sabemos/entendemos/comprendemos... ¡al menos 35 veces en esa primera sección del Apocalipsis!
 
 > La gloria del Señor será revelada, y toda carne juntamente la verá, porque la boca del Señor lo ha dicho.
-> [Isaías, 40:5](/es/Biblia/Isaías/40#v5)
+> [Isaías, 40:5](/es/Bible/Isaiah/40#v5)
 
 «_La verdad, ¿qué es la verdad?_» es una frase que Poncio Pilato hizo infame durante el juicio de Jesús de Nazaret. En _El Libro de Urantia_, dirigiéndose a Nathaniel, Jesús dice: «_Nada de lo que la naturaleza humana ha tocado puede ser considerado como infalible. Es cierto que la verdad divina puede brillar a través de la mente humana, pero siempre con una pureza relativa y una divinidad parcial. La criatura puede desear ardientemente la infalibilidad, pero sólo los Creadores la poseen._» ([LU 159:4.8](/es/The_Urantia_Book/159#p4_8)) ¡¡Solo los Creadores poseen la infalibilidad!! ¡Ninguno de los autores de los Documentos de Urantia tenía el estatus de Creador! Por lo tanto, seríamos realmente tontos si esperáramos una revelación infalible. El libro también nos dice:
 

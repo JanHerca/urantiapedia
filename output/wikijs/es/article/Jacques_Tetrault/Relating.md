@@ -10,9 +10,9 @@ dateCreated: 2022-9-9T8:13:38Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Jacques Tetrault<br>© 1995 The Brotherhood of Man Library</p>
 
-Los lectores de _El libro de Urantia_ deberían aprovechar cuando sientan la necesidad de comunicarse entre ellos, de compartir sus conocimientos pero, lo que es más importante, de compartir su experiencia religiosa.
+Los lectores de _El Libro de Urantia_ deberían aprovechar cuando sientan la necesidad de comunicarse entre ellos, de compartir sus conocimientos pero, lo que es más importante, de compartir su experiencia religiosa.
 
-El crecimiento espiritual no parece seguir una línea recta. . . Parece seguir una forma de espiral con algunas mesetas, a veces dando vueltas e incluso cayendo hacia atrás como si quisiera alcanzar la información útil que dejó atrás.
+El crecimiento espiritual no parece seguir una línea recta... Parece seguir una forma de espiral con algunas mesetas, a veces dando vueltas e incluso cayendo hacia atrás como si quisiera alcanzar la información útil que dejó atrás.
 
 Siempre existe el riesgo de que cavemos una trinchera en la que nos atrapemos a nosotros mismos ya veces a otros con nosotros. Es la vieja historia de las sagradas escrituras, los ritos fijos y los dogmas. Y esto sucede tanto a nivel colectivo como individual. Las causas comunes de tales situaciones son el aislamiento mental del grupo o del individuo, el orgullo por el conocimiento y la autosatisfacción con demasiada facilidad.
 
@@ -43,11 +43,11 @@ La hermandad invisible de los hijos e hijas de Dios está muy unida, pero los te
 
 ¿No deberíamos usar mejor nuestras energías para servirnos unos a otros a medida que aprendemos a servir a todos nuestros semejantes? Podemos beneficiarnos al cooperar con todo tipo de otros creyentes; no trabajando para organizarlos, sino para crecer junto con ellos mediante la generosidad y la gratuidad, la comprensión y el amor.
 
-He estado en contacto con lectores de _El libro de Urantia_, grupos de estudio, hermandades, compañerismos y tantas otras formaciones e instituciones o instituciones pseudo-Urantia durante más de veinte años. También he desarrollado relaciones personales con numerosos lectores en todo el planeta. Mi conclusión personal es que sólo las relaciones íntimas y personales me han ayudado a producir los frutos del Espíritu. Sin embargo, no han producido estos frutos, eso es otra cosa.
+He estado en contacto con lectores de _El Libro de Urantia_, grupos de estudio, hermandades, compañerismos y tantas otras formaciones e instituciones o instituciones pseudo-Urantia durante más de veinte años. También he desarrollado relaciones personales con numerosos lectores en todo el planeta. Mi conclusión personal es que sólo las relaciones íntimas y personales me han ayudado a producir los frutos del Espíritu. Sin embargo, no han producido estos frutos, eso es otra cosa.
 
 ¿Podríamos tratar de imaginar lo que hubiera sucedido si cada uno de los once o doce apóstoles de Jesús, más los evangelistas y los creyentes prominentes griegos y alejandrinos hubieran elegido ir individualmente, o de dos en dos, cada uno para expandirse a varias tierras para difundir el mensaje esencial y sencillo del evangelio de Jesús, en lugar del elaborado por la iglesia de Jerusalén o la de Roma? Además, si este mensaje de amor hubiera sido verdaderamente compartido por la vida misma de estos mensajeros, y ejemplificado por sus acciones a sus descendientes y asociados, ¿se habría perdido para el mundo debido a la falta de organización para _distribuir_ y/o _promover_ el ¿mensaje? ¿Somos de tan poca fe?
 
-Cualquiera que sea la respuesta, ya no estamos en ese momento. Que yo sepa, ningún apóstol específico ha sido debidamente designado, o debería serlo, para difundir esta nueva buena noticia. Desconfiaría incluso de cualquier individuo o grupo que me dijera: “_La verdad está aquí o allá; escúchame, escúchanos._”
+Cualquiera que sea la respuesta, ya no estamos en ese momento. Que yo sepa, ningún apóstol específico ha sido debidamente designado, o debería serlo, para difundir esta nueva buena noticia. Desconfiaría incluso de cualquier individuo o grupo que me dijera: «_La verdad está aquí o allá; escúchame, escúchanos._»
 
 En la medida en que cada uno de nosotros se ponga a disposición para hacer libremente Su voluntad, para crecer espiritualmente, y trate de hacer el bien a su paso, sin alboroto y sin mucho ruido, entonces seremos útiles y seremos sostenidos. Ruego que todos podamos convertirnos en agentes transformadores simplemente por la forma en que vivamos honestamente, ya que nuestras tareas diarias requieren que hagamos nuestro trabajo con mucho amor y con un espíritu de servicio desinteresado. No nos preocupemos por nuestra utilidad en el plan de Dios. La economía espiritual seguramente proporciona el menor desperdicio posible. Seremos utilizados en toda la extensión de nuestras capacidades espirituales. Entonces debemos poner nuestros esfuerzos en crecer espiritualmente por encima de todo.
 
