@@ -3,14 +3,14 @@ title: "God-Playing"
 description: 
 published: true
 date: 2023-01-21T14:02:03.086Z
-tags: 
+tags: God, Innerface International, article
 editor: markdown
 dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
-Author: **Earl Jabay**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Earl Jabay<br>© 1995 The Brotherhood of Man Library</p>
 
-Condensed from the Kingdom of Self by Earl Jabay. (Logos International, New Jersey)
+Condensed from the _Kingdom of Self_ by Earl Jabay. (Logos International, New Jersey)
 
 Earl Jabay is an ordained minister with an extensive grounding in modern psychiatry. While working on the staff of the Neuro-Psychiatric Institute at Princeton, he had a personal revelation that, for all of his life, he had been god-playing. He discovered that there is a vast difference between a petition to God for help and the “You take over” prayer that signals our submission to the will of God. In the first, God is asked to be the co-pilot, in the second, the Pilot.
 
@@ -19,6 +19,14 @@ When he began his work as a mental hospital chaplain, Jabay was accustomed to co
 The authority issue—we might call it the “god-problem”—is a core problem in human life. It is almost insultingly simple. It seeks to answer the question: “Who is Number  One?” The candidates are only two, God or self. For much of our lives, all humans nominate themselves.
 
 Right from the very beginning, most of the precious time in our lives is devoted to the resolution of the difficult yet fascinating problem of who is in charge. The first thing a baby does when it comes into the world is to seek to establish its kingdom. It is hungry. It cries. A weary mother hears, understands, and responds. At a later time, the baby will feel uncomfortable in its nether regions. Again it will cry. Each time the king cries, it is obeyed. Roughly nine times each day, it cries to be fed or have its diaper changed. Each occasion tests the authority of its kingdom. And after each victory, the king will conclude there is none in the world higher than itself. The king is number one. The king is a god.
+
+> By all means they try to hold me secure who love me in this world. But it is otherwise with thy love which is greater than theirs, and thou keepest me free.
+> 
+> Lest I forget them they never venture to leave me alone. But day passes by after day and thou art not seen. 
+> 
+> If I call not thee in my prayers, if I keep not thee in my heart, thy love for me still waits for my love. 
+> 
+> _Gitanjali_
 
 Not too far into the future, its authority will be challenged. Mostly the problem is mother. Over matters such as toilet training. The king is furious about lack of consultation. The enemies are recognized. The battle begins. Every parent can testify to the unbelievable strength and persistence of a young child's will. The tragedy is, of course, that when a young child wins the contest of wills, it loses. The battle continues throughout childhood into adulthood, with individuals all the time learning increasingly sophisticated strategies to get their own way. A great deal of time is spent on learning divide and conquer tactics. When firstly parents and later, other authorities, are divided, it is possible to go through the breach. The holy crusade graduates from the home to the schools, the streets, and the community.
 
@@ -33,6 +41,25 @@ One of the saddest and most painful expressions of adult egoism is loneliness. W
 Though we might be kings in our kingdom, we are all in bondage to something. Our bondages may include anger, fear, guilt, hatred of authority, an attraction to violence, or to material goods, words, sex, drugs, even ideologies. Or we may become hooked on being a protester no matter what the issue. All these are expressions of our egoism, our bondage to self. 
 
 Bondage may be of a type from which, try as we may, we are unable to break free. It is like being seated on a toboggan in the snow at the top of a hill. A little push and we start to slide. We are free, out of bondage. But when we want to stop there are no brakes or steering apparatus. And so, though wanting to stop, we are unable to do so, we are trapped in our bondage. This is the problem of the addict, those unfortunates enslaved by alcohol, tobacco, drugs, etc. But it also the problem of all humanity, for we all commence our lives plagued with the universal addiction of nominating ourselves as being the focal point of the kingdom of self.
+
+> God's Grandeur
+>
+> The world is charged with the grandeur of God.
+> It will flame out, like flaming from shook foil,
+> It gathers to a greatness, like the ooze of oil
+> Prushed. Why do men then now not reck his rod?
+> Generations have trod, have trod, have trod,
+> And all is seared with trade; bleared, smeared with toil;
+> And wears man's smudge and shares man's smell the soil
+> Is bare now, nor can foot feel, being shod.
+> An all for this, nature is never spent;
+> There lives the dearest freshness, deep down things;
+> And though the last lights off the black West went,
+> Oh, morning, at the brown brink eastward, springs—
+> Because the Holy Ghost over the bent
+> World broods with warm breast and with ah! bright wings.
+>
+> Gerard Manley Hopkin
 
 Earl Jabay found release after many distressing failures in his ministry, failures that brought him to the point of wanting to resign as a chaplain and get into something more useful. His release came through association with recovering alcoholics from Alcoholics Anonymous. He had even written a paper against these people before he discovered that they were what he himself needed. On meeting them, he found they were new people. Their whole style of life was changed. They were quiet inside— something they called serenity. They were also joyful. Best of all, they were free, free from their alcoholic prisons and a number of other prisons besides.
 
@@ -49,6 +76,10 @@ At first he felt anger and jealousy towards them. As an ordained minister with q
 10. To continue to take personal inventory, and when wrong to promptly admit it. 
 11. Through prayer and meditation to seek to improve their conscious contact with God as they understand Him, praying only for knowledge of His will for them, and the power to carry that out.
 12. Having had a spiritual awakening as a result of these steps, to try to carry this message to alcoholics  and to practice these principles in all their affairs.
+
+> Jesus never prayed as a religious duty. To him, prayer was a transcendental surrender of will. ([UB 196:0.10](/en/The_Urantia_Book/196#p0_10))
+
+> When God's will is your law, you are noble slave subjects; but when you believe in the new gospel of divine sonship, my Father's will becomes your will, and you are elevated to the high position of the free children of God, liberated sons of the kingdom. ([UB 141:2.2](/en/The_Urantia_Book/141#p2_2))
 
 Jabay says that these steps work, not only with alcoholics, but with mixed-up ministers. God became real to him for the first time in his life, and so, ten years after his ordination, he vacated the throne and stumbled into the kingdom.
 
