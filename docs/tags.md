@@ -169,10 +169,12 @@ Le Lien
 Leadership
 Leadership Development
 Life after death
+Logic
 Love and the Golden Rule
 Luz y Vida
 Map
 Materialism
+Mathematics
 Meditation
 Michael
 Mind

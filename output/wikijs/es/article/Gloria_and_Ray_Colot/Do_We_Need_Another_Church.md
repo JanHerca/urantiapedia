@@ -20,7 +20,7 @@ El artículo de Dick Bain en el Innerface de marzo/abril nos entusiasmó a todos
 
 4. Lo que dice el libro:
 
-> _El culto preservaba los sentimientos y satisfacía las emociones, pero siempre ha sido el mayor obstáculo para la reconstrucción social y el progreso espiritual. A pesar de que el culto siempre ha retrasado el progreso social, es lamentable que tantos creyentes modernos en las normas morales y en los ideales espirituales no posean un simbolismo adecuado —un culto donde apoyarse mutuamente— nada a lo que puedan pertenecer._ ([LU 87:7.2-3](/es/El_libro_de_Urantia/87#p7_2))
+> _El culto preservaba los sentimientos y satisfacía las emociones, pero siempre ha sido el mayor obstáculo para la reconstrucción social y el progreso espiritual. A pesar de que el culto siempre ha retrasado el progreso social, es lamentable que tantos creyentes modernos en las normas morales y en los ideales espirituales no posean un simbolismo adecuado —un culto donde apoyarse mutuamente— nada a lo que puedan pertenecer._ ([LU 87:7.2-3](/es/The_Urantia_Book/87#p7_2))
 >
 > _El hombre moderno debe encontrar un simbolismo adecuado para sus nuevos ideales, ideas y lealtades en expansión. Este símbolo realzado debe surgir de la vida religiosa, de la experiencia espiritual. Este simbolismo superior de una civilización más elevada debe estar basado en el concepto de la Paternidad de Dios y estar cargado del poderoso ideal de la fraternidad de los hombres._ ([LU 87:7.6](/es/The_Urantia_Book/87#p7_6))
 >

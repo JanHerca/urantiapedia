@@ -22,7 +22,7 @@ Respuestas de _El Libro de Urantia_.
 - Respuesta Pregúntese: «¿Qué habría hecho Jesús?»
 
 - Pregunta. ¿Y cómo podemos saber lo que habría hecho Jesús?
-- Respuesta. Una de las cosas más importantes en la vida humana es. . . conocer la vida religiosa de Jesús y cómo la vivió. ([LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
+- Respuesta. Una de las cosas más importantes en la vida humana es... conocer la vida religiosa de Jesús y cómo la vivió. ([LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
 
 - Pregunta. ¿Cómo podemos hacer la voluntad de Dios?
 - Respuesta. Hacemos la voluntad de Dios haciéndonos más y más semejantes a Dios.

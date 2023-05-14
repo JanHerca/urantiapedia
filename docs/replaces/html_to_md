@@ -29,7 +29,7 @@ with "_"
 replace-regex "<hr>"
 with "---\n"
 
-replace-regex "<a href="(.+)">(.+)</a>"
+replace-regex "<a.*?href=["']([^"']*)["'][^>]*>([^<]*)</a>"
 with "[$2]($1)"
 
 replace "…"

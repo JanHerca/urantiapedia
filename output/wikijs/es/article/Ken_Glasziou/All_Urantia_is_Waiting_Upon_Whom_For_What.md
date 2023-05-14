@@ -43,7 +43,7 @@ El detalle de la vida reveladora de Dios de Jesús se proporciona en la Parte 4.
 
 Uno fue el fracaso de los misioneros de Melquisedec. «_Melquisedek había advertido a sus seguidores que enseñaran la doctrina de un solo Dios, el Padre y Creador de todos, y que se limitaran a predicar el evangelio de la obtención del favor divino a través de la fe sola. Pero los instructores de una nueva verdad han cometido a menudo el error de intentar abarcar demasiado, de intentar sustituir la lenta evolución por la revolución repentina._» ([LU 95:1.8](/es/The_Urantia_Book/95#p1_8))
 
-Otro se refería al increíble Ikhnaton de la historia egipcia: «_La debilidad de la doctrina de Akenatón residía en el hecho de que proponía una religión tan avanzada, que sólo los egipcios instruidos podían comprender plenamente sus enseñanzas._» ([LU 95:5.12](/es/El_libro_de_Urantia/95#p5_12))
+Otro se refería al increíble Ikhnaton de la historia egipcia: «_La debilidad de la doctrina de Akenatón residía en el hecho de que proponía una religión tan avanzada, que sólo los egipcios instruidos podían comprender plenamente sus enseñanzas._» ([LU 95:5.12](/es/The_Urantia_Book/95#p5_12))
 
 La religión de El libro de Urantia es, con mucho, la más avanzada que jamás haya estado disponible para nosotros. Es demasiado avanzado para la gran mayoría de las personas en la Tierra. Entonces, ¿qué podemos hacer? Primero reconozca el error de los misioneros de Melquisedec: intentaron demasiado, demasiado rápido. Entonces reconozca el error de Ikhnaton y manténgalo simple.
 
