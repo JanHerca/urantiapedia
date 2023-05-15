@@ -37,7 +37,7 @@ That's like the Greek judging the Italian, through Greek eyes, for the Italian's
 
 As a result of fully participating with the hearts of Ken and Gloria, and Jerry and Jesse, as they shared their hearts' working relationship with God's heart, my heart has shown me very personal and wonderful dimensions of Jesus' words:
 
-> “Judge not, that ye be not judged. For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.” [Mt 7:1-2](/es/Bible/Matthew/7#v1)
+> “Judge not, that ye be not judged. For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.” [Mt 7:1-2](/en/Bible/Matthew/7#v1)
 
 Their spirited, typically evangelical and pentecostal call to people to give _your heart to Jesus_ is such a personal and wonderful call. It is a call for people to take the opportunity to meet God personally. And the words, “_Do you know Jesus?_” refers to knowing Jesus personally and in your own heart to the point that you can say, “_Hello Jesus, hello Father,_” and He will respond, “_Hi Rob, how are you son?_”
 

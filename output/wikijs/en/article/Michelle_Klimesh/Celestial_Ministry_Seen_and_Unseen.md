@@ -169,7 +169,7 @@ Recall the story of the shepherd boy to whom an angel appeared in the night. The
 > “For I know that in the fullness of time and the glory of your name”
 > “You will raise me up to sit with you on the battlements on high.” [[UB 48:6.9-19](/en/The_Urantia_Book/48#p6_9)]
 
-We recognize this text as the [23rd psalm](/es/Bible/Psalms/23): 
+We recognize this text as the [23rd psalm](/en/Bible/Psalms/23): 
 
 > The Lord is my shepherd; I shall not want. 
 > He makes me to lie down in green pastures, 

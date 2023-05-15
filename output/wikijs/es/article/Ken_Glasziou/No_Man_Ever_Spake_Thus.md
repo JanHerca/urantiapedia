@@ -12,7 +12,7 @@ dateCreated: 2022-9-9T8:13:38Z
 
 Los oyentes de Jesús estaban repetidamente «_asombrados de su palabra porque enseñaba como quien tiene autoridad y no como los escribas_» ([Marcos 1:22](en/Bible/Mark/1#v22); [LU 145:2.11](/es/The_Urantia_Book/145#p2_11))
 
-Bien podemos reflexionar con asombro sobre las palabras que podemos descubrir en _El libro de Urantia_ porque seguramente «ningún hombre jamás escribió así». La sección del libro que sigue es solo una de una multitud que debe obligarnos a preguntarnos: «¿Podría algún hombre escribir así?».
+Bien podemos reflexionar con asombro sobre las palabras que podemos descubrir en _El Libro de Urantia_ porque seguramente «ningún hombre jamás escribió así». La sección del libro que sigue es solo una de una multitud que debe obligarnos a preguntarnos: «¿Podría algún hombre escribir así?».
 
 ## La Mente Absoluta. (Documento 9. Sección 4.)
 

@@ -151,7 +151,7 @@ Consider the following teachings about the kingdom and the Supreme.
 
 ### Doing The Will of God in Teachings about The Kingdom:
 
-> He described the most basic phase of the kingdom as, “The kingdom of God in this world, the supreme desire to do the will of God, the unselfish love of man which yields the good fruits of improved ethical and moral conduct.” [[LU 170:2.18](/es/The_Urantia_Book/170#p2_18)]
+> He described the most basic phase of the kingdom as, “The kingdom of God in this world, the supreme desire to do the will of God, the unselfish love of man which yields the good fruits of improved ethical and moral conduct.” [[UB 170:2.18](/en/The_Urantia_Book/170#p2_18)]
 
 > Jesus . . . proclaimed that the kingdom is the will of his heavenly Father dominant and transcendent in the heart of the believer. . .  [[UB 170:5.19](/en/The_Urantia_Book/170#p5_19)]
 

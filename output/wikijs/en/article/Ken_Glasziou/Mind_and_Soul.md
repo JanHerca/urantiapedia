@@ -57,7 +57,7 @@ If we interpret Jesus’ life and sayings as the basis of a set of rules to foll
 
 > To “follow Jesus” means to personally share his religious faith and to enter into the spirit of the Master’s life of unselfish service for man. One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it. ([UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
 
-> And the everlasting truth is: If your own mind does not serve you well, you can always exchange it for the mind of Jesus of Nazareth, who forever serves you well. ([LU 48:6.26](/es/The_Urantia_Book/48#p6_26))
+> And the everlasting truth is: If your own mind does not serve you well, you can always exchange it for the mind of Jesus of Nazareth, who forever serves you well. ([UB 48:6.26](/en/The_Urantia_Book/48#p6_26))
 
 ## External links
 

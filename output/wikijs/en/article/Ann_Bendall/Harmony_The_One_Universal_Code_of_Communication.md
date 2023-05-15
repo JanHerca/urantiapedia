@@ -64,7 +64,7 @@ Article in Innerface International: https://urantia-book.org/archive/newsletters
 
 ## References
 
-[^1]: James Beament, «The Biology of Music», 1977, p.7. https://journals.sagepub.com/doi/abs/10.1177/030573567751001
+[^1]: James Beament, “The Biology of Music”, 1977, p.7. https://journals.sagepub.com/doi/abs/10.1177/030573567751001
 
 [^2]: The New Grove Dictionary of Music and Musicians. ( Ed. S. Sadie)
 

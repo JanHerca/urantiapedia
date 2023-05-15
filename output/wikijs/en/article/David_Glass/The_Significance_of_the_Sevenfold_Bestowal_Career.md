@@ -51,7 +51,7 @@ The revelation discloses that there are absolute potentials folded up in the unf
 > David Glass has been a student of _The Urantia Book_ since 1973 and has been active in many study groups and conferences in several states, including Florida, Oregon, and Texas. He gives private piano lessons and enjoys writing spiritually inspired poetry. Currently serving as Vice President of the North Texas Urantia Society, he has just begun his 16th reading of _The Urantia Book_.  
 {.is-info}
 
-> . . . The appearance in and on your world, by apparently natural processes, of a divine Son, we regard as a miracle—the operation of universal laws beyond our understanding. Jesus of Nazareth was a miraculous person. [[LU 120:4.5](/es/The_Urantia_Book/120#p4_5)]  
+> . . . The appearance in and on your world, by apparently natural processes, of a divine Son, we regard as a miracle—the operation of universal laws beyond our understanding. Jesus of Nazareth was a miraculous person. [[UB 120:4.5](/en/The_Urantia_Book/120#p4_5)]  
 
 ## References
 
