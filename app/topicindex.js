@@ -141,6 +141,12 @@ class TopicIndex {
 			return Promise.resolve(null);
 		}
 		return new Promise((resolve, reject) => {
+			const captionPattern = '\t<figcaption>{0}</figcaption>\r\n';
+			const imgPattern = 
+				'<figure id="Figure_{0}" class="image urantiapedia{1}">\r\n' +
+				'\t<img src="{2}">\r\n' +
+				'{3}' +
+				'</figure>\r\n';
 			if (this.onProgressFn) {
 				this.onProgressFn(baseName);
 			}
@@ -160,7 +166,7 @@ class TopicIndex {
 				let current = null;
 				let topicline = null;
 				lines.forEach((line, i) => {
-					let data, texts, refs, seeAlso, level;
+					let data, texts, refs, seeAlso, level, groups, img;
 					const tline = line.trim();
 					const err = this.getError('topic_err', baseName, i+1, tline);
 					if (line.startsWith('<')) {
@@ -181,8 +187,34 @@ class TopicIndex {
 							current.externalLinks = [];
 						}
 						current.externalLinks.push(tline.substring(1).trim());
+					} else if (current && tline.length > 0 && tline.startsWith('[')) {
+						//Line with an image
+						groups = [...tline.matchAll(/\[(.+)\]|\((.+)\)|{(.+)}/g)];
+						if (groups.length < 2) {
+							errors.push(err);
+						} else {
+							img = groups
+								.reduce((ac, cur) => {
+									if (cur[1]) ac[0] = cur[1];
+									if (cur[2]) ac[1] = cur[2];
+									if (cur[3]) ac[2] = cur[3];
+									return ac;
+								}, [null, null, null]);
+
+							topicline = {
+								text: strformat(imgPattern, i + 1, 
+									(img[2] ? ' ' + img[2] : ''), img[1],
+									(img[0] ? strformat(captionPattern, img[0]) : '')),
+								level: level,
+								fileline: i + 1,
+								seeAlso: [],
+								refs: []
+							};
+							current.lines.push(topicline);
+						}
+						
 					} else if (current && tline.length > 0) {
-						//Line of entry without a link (any other line)
+						//Line of entry without a link or image (any other line)
 						topicline = {
 							text: '',
 							level: level,
@@ -821,26 +853,28 @@ class TopicIndex {
 
 
 				const topicErr = [];
-				const promises = this.topics.map(topic => {
-					const topicEN = (this.language === 'en' ? topic :
-						tiEN.topics.find(t => {
-							return (t.filename === topic.filename &&
-								t.fileline === topic.fileline);
-						}));
-					if (!topicEN) {
-						topicErr.push(this.getError('topic_en_not_found',
-							topic.name));
-						return;
-					}
-					const fileName = topicEN.name.replace(/ /g, '_');
-					const filePath = path.join(dirPath, `${fileName}.html`);
-					const isLetter = letter != 'ALL' && 
-						!topicEN.name.toLowerCase().startsWith(letter);
-					const p = (isLetter ? Promise.resolve(null) :
-						this.writeFileToWikijs(filePath, topic, topicEN,
-						tiNames));
-					return reflectPromise(p);
-				});
+				const promises = this.topics
+					// .filter(t => t.name === 'Miguel de Nebadon')
+					.map(topic => {
+						const topicEN = (this.language === 'en' ? topic :
+							tiEN.topics.find(t => {
+								return (t.filename === topic.filename &&
+									t.fileline === topic.fileline);
+							}));
+						if (!topicEN) {
+							topicErr.push(this.getError('topic_en_not_found',
+								topic.name));
+							return;
+						}
+						const fileName = topicEN.name.replace(/ /g, '_');
+						const filePath = path.join(dirPath, `${fileName}.html`);
+						const isLetter = letter != 'ALL' && 
+							!topicEN.name.toLowerCase().startsWith(letter);
+						const p = (isLetter ? Promise.resolve(null) :
+							this.writeFileToWikijs(filePath, topic, topicEN,
+							tiNames));
+						return reflectPromise(p);
+					});
 				if (topicErr.length > 0) {
 					reject(topicErr);
 					return;
@@ -938,12 +972,16 @@ class TopicIndex {
 					nextline.text.match(/^[#|\*]*/g)[0] : "");
 				const large = (content.length > 150);
 				const nextlarge = (nextline && nextline.text.length > 150);
+				const isImage = (content.startsWith('<figure'));
 				
 				let subcontent = content.replace(/^[#|\*]*/g,'').trim();
 				subcontent = subcontent.substring(0, 1).toUpperCase() + 
 						subcontent.substring(1);
-				
-				if (nextline && level < nextlevel) {
+
+				if (isImage) {
+					//Image content is already in HTML
+					html += content;
+				} else if (nextline && level < nextlevel) {
 					const h = `h${line.level + 2}`;
 					html += `<${h}> ${subcontent} </${h}>\r\n`;
 					otherRefs = [...otherRefs, ...line.refs];
