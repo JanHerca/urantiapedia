@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
 
-Apart from God, the two most maligned personalities in the history of Urantia would have to be Adam and Eve. They were the couple whose “apple-eating” venture cost us humans the glory that once was ours. As a result of their mistake all humans are born inherently evil instead of good! The belief in the innate evil of mankind was embraced by the father of psychology, Freud, and I suspect his religious background would have coloured his theories—which have  subsequently been proved  wrong.
+Apart from God, the two most maligned personalities in the history of Urantia would have to be Adam and Eve. They were the couple whose “apple-eating” venture cost us humans the glory that once was ours. As a result of their mistake all humans are born inherently evil instead of good! The belief in the innate evil of mankind was embraced by the father of psychology, Freud, and I suspect his religious background would have coloured his theories—which have  subsequently been proved wrong.
 
 Humans are born innately moral and social beings, that is the findings of psychology. The Church still has great difficulties in trying to discover whether we are good or bad. It appears that a major problem is the old testament story of Adam and Eve. That couple did such a dastardly deed that even Jesus who died on the cross as payment for mankind's (or is it personkind's?) sins was unable to meet the debt owing for Adam and Eve's goof.  In the best of atonement believing religions, so also is the concept that we are born bad, so Jesus could not have been able to fit Adam and Eve's sin on the cross.
 
