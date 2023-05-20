@@ -16,7 +16,7 @@ Si aprecias solo a las personas cuyo papel es inspirar tu amor, mientras que odi
 
 Intenta crear un nuevo uso para el tiempo que has estado desperdiciando en la duda.
 
-[Nota: el autor, nativo de Japón, escribió en japonés y, hasta donde sabemos, no tiene ningún contacto real con Occidente ni con _El libro de Urantia_.]
+[Nota: el autor, nativo de Japón, escribió en japonés y, hasta donde sabemos, no tiene ningún contacto real con Occidente ni con _El Libro de Urantia_.]
 
 > Sopla sobre mí, aliento de Dios,
 > hasta que sea completamente tuyo;

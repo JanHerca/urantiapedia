@@ -10,7 +10,7 @@ dateCreated: 2022-9-9T8:13:38Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Sydney Harris<br>© 1997 The Brotherhood of Man Library</p>
 
-Una de las convicciones profundas de las personas que no creen en el Cielo es que si existe un Cielo, está ocupado por gente estúpida. “Todos mis amigos interesantes”, dicen sonrientes estos escépticos, “estarán en el otro lugar”.
+Una de las convicciones profundas de las personas que no creen en el Cielo es que si existe un Cielo, está ocupado por gente estúpida. «Todos mis amigos interesantes», dicen sonrientes estos escépticos, «estarán en el otro lugar».
 
 Si tuvieran razón, entonces la religión sería una farsa y un fraude. Pero están equivocados, porque en ninguna parte de las Escrituras encontrarás la más mínima sugerencia de que las personas aburridas y respetables tengan un pase al cielo.
 
@@ -28,7 +28,7 @@ Ningún hombre puede saber si hay un Cielo o no, y cada hombre tiene derecho a c
 
 No me gustaría pasar la eternidad en un lugar habitado por los aburridos, los faltos de imaginación, los tímidos y los meramente correctos: este no es el Cielo de la Biblia.
 
-El cielo, si existe, está poblado por hombres y mujeres que han aprendido a amar, amplia, profunda y audazmente, por más reprobables que parezcan sus acciones a los ojos de las personas “buenas”.
+El cielo, si existe, está poblado por hombres y mujeres que han aprendido a amar, amplia, profunda y audazmente, por más reprobables que parezcan sus acciones a los ojos de las personas «buenas».
 
 Vale la pena recordar que solo un ser humano recibió la seguridad personal de Jesús de ir al cielo. ¡¡Era un ladrón!!**
 

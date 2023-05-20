@@ -24,15 +24,15 @@ Es básicamente una cuestión de carácter más que de credo, de tus sentimiento
 
 De hecho, esto es lo que creo que Jesús estaba tratando de transmitir, y fracasó, incluso con la mayoría de sus discípulos.
 
-Cuando dijo: “Yo soy el camino”, quería que la gente imitara sus acciones y comportamiento, y no que lo adoraran. En mi lectura del Nuevo Testamento, él no tenía la noción de establecer una nueva religión, y mucho menos una nueva iglesia.
+Cuando dijo: «Yo soy el camino», quería que la gente imitara sus acciones y comportamiento, y no que lo adoraran. En mi lectura del Nuevo Testamento, él no tenía la noción de establecer una nueva religión, y mucho menos una nueva iglesia.
 
-Como creyente, no estoy convencido de que Dios esté particularmente interesado en lo que llamamos “religión”, o que incluso exista como concepto para él. Lo que se exige de nosotros es que seamos amables y justos unos con otros, incluso si no hay redentor, ni cielo, ni infierno, ni más allá.
+Como creyente, no estoy convencido de que Dios esté particularmente interesado en lo que llamamos «religión», o que incluso exista como concepto para él. Lo que se exige de nosotros es que seamos amables y justos unos con otros, incluso si no hay redentor, ni cielo, ni infierno, ni más allá.
 
 Todo esto me parece publicidad y promoción; indigno de una deidad cósmica, demasiado pequeño y mezquino para el creador de un universo infinito e insondable. Impulsado más por los miedos humanos que por la fe divina.
 
 Lo que pidieron los profetas del Antiguo Testamento, a diferencia del sacerdocio, es que nos brindemos justicia y misericordia unos a otros. Lo que Jesús pidió, a diferencia de sus seguidores posteriores, es que vayamos aún más lejos, caminando esa milla extra, devolviendo bien por mal.
 
-Esto es difícil, lo más difícil del mundo. Es tan difícil que la religión trata de hacerlo más fácil permitiéndonos obedecer credos y murmurar oraciones y apoyar iglesias, y así sentirnos “religiosos” sin serlo realmente. Mira el mundo de hoy y trata de negarlo.
+Esto es difícil, lo más difícil del mundo. Es tan difícil que la religión trata de hacerlo más fácil permitiéndonos obedecer credos y murmurar oraciones y apoyar iglesias, y así sentirnos «religiosos» sin serlo realmente. Mira el mundo de hoy y trata de negarlo.
 
 ## Enlaces externos
 

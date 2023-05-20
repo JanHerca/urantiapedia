@@ -22,9 +22,9 @@ La primera parte del viaje es crucial porque se espera que tomemos una decisión
 
 El libro nos dice que el más leve atisbo de fe nos asegura una segunda oportunidad para hacer esa elección de libre albedrío requerida cuando lleguemos a la siguiente etapa de nuestro viaje, la ubicación que conocemos como los Mundos de las Mansiones. El libro dice:
 
-> “_Y ahora, no os equivoquéis, mi Padre responderá siempre a la más tenue llama vacilante de fe. Él toma nota de las emociones físicas y supersticiosas del hombre primitivo. Y con esas almas honradas pero temerosas, cuya fe es tan débil que no llega a ser mucho más que un conformismo intelectual a una actitud pasiva de asentimiento a las religiones de autoridad, el Padre siempre está alerta para honrar y fomentar incluso todas estas débiles tentativas por llegar hasta él. ***Pero se espera que vosotros, que habéis sido sacados de las tinieblas y traídos a la luz, creáis de todo corazón; vuestra fe dominará las actitudes combinadas del cuerpo, la mente y el espíritu***._” ([UB 155:6.17](/en/The_Urantia_Book/155#p6_17))
+> «_Y ahora, no os equivoquéis, mi Padre responderá siempre a la más tenue llama vacilante de fe. Él toma nota de las emociones físicas y supersticiosas del hombre primitivo. Y con esas almas honradas pero temerosas, cuya fe es tan débil que no llega a ser mucho más que un conformismo intelectual a una actitud pasiva de asentimiento a las religiones de autoridad, el Padre siempre está alerta para honrar y fomentar incluso todas estas débiles tentativas por llegar hasta él. ***Pero se espera que vosotros, que habéis sido sacados de las tinieblas y traídos a la luz, creáis de todo corazón; vuestra fe dominará las actitudes combinadas del cuerpo, la mente y el espíritu***._» ([LU 155:6.17](/es/The_Urantia_Book/155#p6_17))
 
-Para aquellos lectores de _El libro de Urantia_ que han tomado este leve atisbo de fe como una garantía de supervivencia, puede ser recomendable echar un vistazo de cerca a la última frase de la cita anterior.
+Para aquellos lectores de _El Libro de Urantia_ que han tomado este leve atisbo de fe como una garantía de supervivencia, puede ser recomendable echar un vistazo de cerca a la última frase de la cita anterior.
 
 ## ¿Podemos ser buscadores a tiempo parcial?
 
@@ -32,7 +32,7 @@ Un requisito para los buscadores del reino es que busquen hacer la voluntad de D
 
 Vale la pena señalar que algunos creen que no es posible ser un hacedor de la voluntad de Dios a tiempo parcial, que cualquier desprecio continuo y deliberado de lo que, en nuestros corazones, realmente sabemos que es la voluntad de Dios para nosotros significa que nuestra desobediencia es total, que simplemente estamos tratando de engañar a Dios al aceptar algunos de sus requisitos mientras seguimos nuestro propio camino cuando la voluntad de Dios no se ajusta a nuestras intenciones o propósitos. Si esto es así, tal vez tengamos la mala suerte de tener un _Libro de Urantia_ para instruirnos.
 
-## En la casa de mi Padre. . .
+## En la casa de mi Padre...
 
 Pero tomemos una visión optimista y supongamos que logramos llegar a los Mundos de las Mansiones, que hemos llegado al Mundo de las Mansiones número 1, un satélite de una de las siete esferas que rodean la sede de nuestro sistema local conocido como Jerusem. El diseño general de Jerusem y las funciones de los mundos de estancia son:
 
@@ -48,7 +48,7 @@ Pero tomemos una visión optimista y supongamos que logramos llegar a los Mundos
 
 Una vez que hayamos atravesado con seguridad los mundos de las mansiones, seremos elegibles para la ciudadanía de Jerusem y unas breves vacaciones antes de dar nuestro próximo paso a los mundos de formación de nuestra constelación de Norlatiadek. Allí comenzamos un riguroso entrenamiento de socialización en el que debemos aprender a vivir y trabajar felizmente con seres tanto similares como disímiles.
 
-Este curso no será pan comido, pero después de graduarnos del mundo de formación #70, somos recibidos como residentes de la sede de la constelación llamada Edentia. En las “Asambleas del Paraíso”, una personalidad suprema de origen trinitario, un Fiel de los Días, nos ilumina sobre otros aspectos de nuestras carreras universales. Todo esto es para prepararnos para el próximo movimiento, que es la sede de nuestro universo local en Salvington.
+Este curso no será pan comido, pero después de graduarnos del mundo de formación #70, somos recibidos como residentes de la sede de la constelación llamada Edentia. En las «Asambleas del Paraíso», una personalidad suprema de origen trinitario, un Fiel de los Días, nos ilumina sobre otros aspectos de nuestras carreras universales. Todo esto es para prepararnos para el próximo movimiento, que es la sede de nuestro universo local en Salvington.
 
 ## En Salvington
 
@@ -98,7 +98,7 @@ En el segundo círculo, los consejeros y asesores comienzan nuestra preparación
 
 ## El final del viaje y un nuevo comienzo
 
-En el Paraíso, cuando despertemos del sueño transitorio del tiempo a las nuevas experiencias de la eternidad, seremos recibidos por nuestros guardianes seráficos permanentes que han sido nuestros compañeros desde los primeros días de la carrera universal. Habiéndonos concedido el estatus residencial en el Paraíso, comenzamos un curso progresivo en divinidad y absonidad. Debemos fraternizar con más de 3000 órdenes de ciudadanos del Paraíso y varios grupos de trascendentales. Y aquí, en el Paraíso, en realidad “encontramos” a Dios como persona. Somos designados como graduados de Paradise después de completar un curso con los Conductores de Adoración. Luego, al hacer el juramento de la Trinidad de la eternidad, avanzamos al nivel de un espíritu de sexta etapa y luego somos reclutados en el Cuerpo Mortal de la Finalidad.
+En el Paraíso, cuando despertemos del sueño transitorio del tiempo a las nuevas experiencias de la eternidad, seremos recibidos por nuestros guardianes seráficos permanentes que han sido nuestros compañeros desde los primeros días de la carrera universal. Habiéndonos concedido el estatus residencial en el Paraíso, comenzamos un curso progresivo en divinidad y absonidad. Debemos fraternizar con más de 3000 órdenes de ciudadanos del Paraíso y varios grupos de trascendentales. Y aquí, en el Paraíso, en realidad «encontramos» a Dios como persona. Somos designados como graduados de Paradise después de completar un curso con los Conductores de Adoración. Luego, al hacer el juramento de la Trinidad de la eternidad, avanzamos al nivel de un espíritu de sexta etapa y luego somos reclutados en el Cuerpo Mortal de la Finalidad.
 
 ## Las Etapas Espirituales del Progreso Ascendente son:
 
@@ -116,7 +116,7 @@ Como Finalitarios, estamos asignados al servicio cooperativo y de observación h
 
 Se desconoce el destino final del Cuerpo de la Finalidad. Se especula que intentaremos conocer a Dios como Último, y habiendo alcanzado ese objetivo, comenzaremos la búsqueda del Absoluto.
 
-Podría ser una buena idea leer ahora la sección titulada “Conductores de adoración” en [UB 27:0.4](/en/The_Urantia_Book/27#p0_4)  del libro para tener una idea de lo que realmente es este viaje. Buen viaje.
+Podría ser una buena idea leer ahora la sección titulada «Conductores de adoración» en [LU 27:0.4](/es/The_Urantia_Book/27#p0_4)  del libro para tener una idea de lo que realmente es este viaje. Buen viaje.
 
 > Al cielo no se llega de un solo salto. Pero construimos la escalera por la que subimos.
 > G.J. Holland

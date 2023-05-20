@@ -26,7 +26,7 @@ Durante las conferencias vespertinas en el monte Gerizim, Jesús enseñó muchas
 > 
 > La adoración es el acto de un fragmento que se identifica con el Todo, lo finito con lo Infinito, el hijo con el Padre, el tiempo en la operación de ajustarse al ritmo de la eternidad. La adoración es el acto de la comunión personal del hijo con el Padre divino, la aceptación de unas actitudes vivificantes, creativas, fraternales y románticas por parte del alma-espíritu del hombre.
 > 
-> Aunque los apóstoles sólo comprendieron una pequeña parte de las enseñanzas del Maestro en el campamento, otros mundos las comprendieron, y otras generaciones de la Tierra las comprenderán. ([UB 143:7.2-9](/en/The_Urantia_Book/143#p7_2))
+> Aunque los apóstoles sólo comprendieron una pequeña parte de las enseñanzas del Maestro en el campamento, otros mundos las comprendieron, y otras generaciones de la Tierra las comprenderán. ([LU 143:7.2-9](/es/The_Urantia_Book/143#p7_2))
 
 ## Enlaces externos
 

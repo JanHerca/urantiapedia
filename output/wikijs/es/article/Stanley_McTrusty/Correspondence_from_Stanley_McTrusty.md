@@ -74,7 +74,7 @@ En resumen: necesito hacer lo correcto, de la manera correcta, en el momento cor
 
 Tengo mucha confianza en lo que he hecho y explicado porque me ayudará a reducir drásticamente mis transgresiones a la Ley Divina.
 
-_El Libro de Urantia_ afirma ([UB 2:5.3](/en/The_Urantia_Book/2#p5_3)) “_Los Creadores son los primeros que intentan salvar al hombre de los resultados desastrosos de sus insensatas transgresiones de las leyes divinas_”.
+_El Libro de Urantia_ afirma ([LU 2:5.3](/es/The_Urantia_Book/2#p5_3)) «_Los Creadores son los primeros que intentan salvar al hombre de los resultados desastrosos de sus insensatas transgresiones de las leyes divinas_».
 
 Si una sola persona realmente entiende lo que he deducido en este resumen, y si le ayuda tanto como a mí, tendré mi recompensa.
 

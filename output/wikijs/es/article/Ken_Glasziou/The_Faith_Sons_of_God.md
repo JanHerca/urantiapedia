@@ -20,7 +20,7 @@ dateCreated: 2022-9-9T8:13:38Z
 > «2. Un Hijo Creador surgido de Dios se volvió uno de vosotros; es de hecho vuestro hermano mayor; y si os convertís, en espíritu, en hermanos verdaderamente emparentados con Cristo, el victorioso Miguel, entonces también debéis ser, en espíritu, los hijos de ese Padre que tenéis en común, el mismo Padre Universal de todos.»
 > «3. Sois hijos porque el espíritu de un Hijo ha sido derramado sobre vosotros, ha sido conferido de manera gratuita y segura a todas las razas de Urantia. Este espíritu siempre os atrae hacia el Hijo divino, que es su fuente, y hacia el Padre Paradisiaco, que es la fuente de ese Hijo divino.»
 > «4. El Padre Universal os ha dado, por su libre albedrío divino, vuestra personalidad de criatura. Habéis sido dotados de una parte de esa divina espontaneidad de acción, basada en el libre albedrío, que Dios comparte con todos aquellos que pueden convertirse en sus hijos.»
-> «5. Dentro de vosotros reside un fragmento del Padre Universal, y estáis así directamente emparentados con el Padre divino de todos los Hijos de Dios.» ([UB 40:6.1-8](/es/El_Libro_de_Urantia/40#p6_1))
+> «5. Dentro de vosotros reside un fragmento del Padre Universal, y estáis así directamente emparentados con el Padre divino de todos los Hijos de Dios.» ([LU 40:6.1-8](/es/The_Urantia_Book/40#p6_1))
 
 ## Enlaces externos
 

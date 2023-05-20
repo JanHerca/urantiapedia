@@ -22,7 +22,7 @@ dateCreated: 2022-9-9T8:13:38Z
 > 
 > «**La fe actúa para liberar las actividades superhumanas de la chispa divina, el germen inmortal que vive dentro de la mente del hombre, y que es el potencial de la supervivencia eterna.** Las plantas y los animales sobreviven en el tiempo mediante la técnica de transmitir partículas idénticas de sí mismos de una generación a la siguiente. El alma humana del hombre (la personalidad) sobrevive a la muerte física asociando su identidad con esta chispa interior de divinidad, que es inmortal, y que actúa para perpetuar la personalidad humana en un nivel continuo y más elevado de existencia progresiva en el universo. La semilla oculta del alma humana es un espíritu inmortal. La segunda generación del alma es la primera de una serie de manifestaciones de la personalidad en existencias espirituales y progresivas, que sólo terminan cuando esta entidad divina alcanza la fuente de su existencia, la fuente personal de toda existencia, Dios, el Padre Universal.»
 > 
-> «La vida humana continúa —sobrevive— porque tiene una función en el universo, la tarea de encontrar a Dios. El alma del hombre, activada por la fe, no puede detenerse hasta haber alcanzado esta meta de su destino; y una vez que ha conseguido esta meta divina, ya no puede tener fin porque se ha vuelto como Dios —eterna.» ([UB 132:3.1-7](/en/The_Urantia_Book/132#p3_1))
+> «La vida humana continúa —sobrevive— porque tiene una función en el universo, la tarea de encontrar a Dios. El alma del hombre, activada por la fe, no puede detenerse hasta haber alcanzado esta meta de su destino; y una vez que ha conseguido esta meta divina, ya no puede tener fin porque se ha vuelto como Dios —eterna.» ([LU 132:3.1-7](/es/The_Urantia_Book/132#p3_1))
 
 ## External links
 
