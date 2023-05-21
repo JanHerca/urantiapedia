@@ -122,7 +122,7 @@ The gospel of John ([14:9](/en/Bible/John/14#v9)) reports Jesus as saying words 
 
 Thus it appears that the 13th century re-discovery of Aristotelian logic in the Western world, and its subsequent application to Christian theology, may have had enormous deleterious effects on the progressive spiritualization of Christians]
 
-> De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió. ([LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
+> De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió. ([UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
 
 ## External links
 

@@ -14,7 +14,7 @@ dateCreated: 2023-01-25T11:12:37.284Z
 
 Saludo al Dios dentro de ti.
 
-Traemos un niño al mundo. Una cosa simple y ordinaria, pero maravillosamente compleja. Lo sepamos o no, ahora nos hemos comprometido con la suprema responsabilidad de la existencia humana[^1]. Ahora hemos comenzado el proceso de nutrir y dar forma a un ciudadano cósmico. Cuánta fe tiene el Padre que está en los cielos en nosotros para permitirnos el privilegio de hacer esto[^2]. Encomendar a Sus hijos a nuestra vigilancia[^3]. De todos los deberes humanos, este es el más sagrado[^4], nuestro mayor deber humano[^5]. Ya sea que lo sepamos o no, estos son los hechos de la vida. (Por cierto, notará bastantes referencias al _Libro de Urantia_ en lo que tengo que decir. Mencionaré solo algunas de ellas específicamente.) ¿Qué tiene la idea de familia que la hace tan profundamente importante? ¿Por qué _El Libro de Urantia_ dice que casi todo lo que tiene un valor duradero tiene sus raíces en la familia[^6], que el hogar es la única esperanza de supervivencia de la civilización[^7]? ¿Por qué la familia ocupó el centro mismo de la filosofía de vida de Jesús, aquí y en el más allá[^8]? ¿Qué hay en esta simple noción que resuena desde aquí hasta el Paraíso y más allá?
+Traemos un niño al mundo. Una cosa simple y ordinaria, pero maravillosamente compleja. Lo sepamos o no, ahora nos hemos comprometido con la suprema responsabilidad de la existencia humana[^1]. Ahora hemos comenzado el proceso de nutrir y dar forma a un ciudadano cósmico. Cuánta fe tiene el Padre que está en los cielos en nosotros para permitirnos el privilegio de hacer esto[^2]. Encomendar a sus hijos a nuestra vigilancia[^3]. De todos los deberes humanos, este es el más sagrado[^4], nuestro mayor deber humano[^5]. Ya sea que lo sepamos o no, estos son los hechos de la vida. (Por cierto, notará bastantes referencias al _Libro de Urantia_ en lo que tengo que decir. Mencionaré solo algunas de ellas específicamente.) ¿Qué tiene la idea de familia que la hace tan profundamente importante? ¿Por qué _El Libro de Urantia_ dice que casi todo lo que tiene un valor duradero tiene sus raíces en la familia[^6], que el hogar es la única esperanza de supervivencia de la civilización[^7]? ¿Por qué la familia ocupó el centro mismo de la filosofía de vida de Jesús, aquí y en el más allá[^8]? ¿Qué hay en esta simple noción que resuena desde aquí hasta el Paraíso y más allá?
 
 Creo que podemos encontrar algunas de las respuestas observando lo que hacen las familias. Cada familia es única. No hay dos que tengan exactamente la misma dinámica. Y, sin embargo, todas las familias hacen las mismas cosas, con mayor o menor destreza.
 
@@ -46,7 +46,7 @@ Lo que empezó a funcionar fue bastante simple y práctico. Comenzó en la mesa 
 
 Mary y yo habíamos tomado medidas para arreglar nuestras vidas de modo que pudiéramos tener cenas familiares sentadas. Sin televisión. Sin distracciones. Restringí mis viajes a solo unos pocos días al año.
 
-Sentados alrededor de la mesa empezamos a contar historias de _El Libro de Urantia_. No planeamos esto como un ejercicio de enseñanza. Simplemente se desarrolló naturalmente a partir de nuestro entusiasmo. Empezamos a contar historias sobre el Jardín del Edén, Adamson y Ratta, los fandors, los intermedios, lo que sucede en Dalamatia, la rebelión de Lucifer, Van y Amadon, la vida en un planeta vecino, lo que sucede cuando despiertas después de la muerte mortal, el viaje morontial, Jesús en el monte Hermón, Jesús y Rebeca, tantas historias de Jesús. _El Libro de Urantia_ tiene muchas buenas historias. Algunos de ellos son espectaculares.
+Sentados alrededor de la mesa empezamos a contar historias de _El Libro de Urantia_. No planeamos esto como un ejercicio de enseñanza. Simplemente se desarrolló naturalmente a partir de nuestro entusiasmo. Empezamos a contar historias sobre el Jardín del Edén, Adamson y Ratta, los fandors, los intermedios, lo que sucede en Dalamatia, la rebelión de Lucifer, Van y Amadon, la vida en un planeta vecino, lo que sucede cuando despiertas después de la muerte mortal, el viaje morontial, Jesús en el monte Hermón, Jesús y Rebeca, tantas historias de Jesús. _El Libro de Urantia_ tiene muchas buenas historias. Algunas de ellas son espectaculares.
 
 Los niños encontraron estas historias fascinantes y hacían preguntas. Fue una transición natural y fácil pasar de las historias a la enseñanza. En las conversaciones normales sobre los acontecimientos del día, siempre surgirían cuestiones a partir de las cuales las perspectivas de los Documentos de Urantia podrían arrojar una mayor iluminación.
 
@@ -56,7 +56,7 @@ Debido a su propio entusiasmo por las enseñanzas, es posible que no siempre obs
 
 Cuando la mirada a los ojos se detenga, cuando el lenguaje corporal diga detente, muérdete la lengua y detente. Deje que el niño mantenga el control. Esto hace toda la diferencia. Mantiene las cosas relajadas. Estimula al niño a seguir haciendo preguntas... Puedo recordar noches en las que nunca nos levantábamos de la mesa hasta la medianoche. Dos niños en una rodilla, otro niño en la otra rodilla. Preguntas, preguntas, preguntas. Fue estimulante.
 
-Hay otra cosa que debo mencionar sobre las discusiones en la mesa de la cena. Mary y yo a menudo vemos las cosas de manera diferente. Compartimos los mismos valores, pero nuestras percepciones vienen desde diferentes ángulos. También debo mencionar que Mary, bendita sea su corazón, nunca ha dudado en decir lo que piensa. A lo largo de los años hubo muchas ocasiones en las que Mary y yo presentábamos diferentes interpretaciones de algunas de las enseñanzas de Urantia. En ese momento pensé para mis adentros: Dios mío, realmente vamos a confundir a los niños. No fue sino hasta muchos años después que supimos que no estaban confundidos en absoluto. Lo que sacaron de estos intercambios fue esto: No hay dogma. Eres libre de tener tu propia opinión. Para una mente joven, esta fue una revelación liberadora.
+Hay otra cosa que debo mencionar sobre las discusiones en la mesa de la cena. Mary y yo a menudo vemos las cosas de manera diferente. Compartimos los mismos valores, pero nuestras percepciones vienen desde diferentes ángulos. También debo mencionar que Mary, bendito sea su corazón, nunca ha dudado en decir lo que piensa. A lo largo de los años hubo muchas ocasiones en las que Mary y yo presentábamos diferentes interpretaciones de algunas de las enseñanzas de Urantia. En ese momento pensé para mis adentros: Dios mío, realmente vamos a confundir a los niños. No fue sino hasta muchos años después que supimos que no estaban confundidos en absoluto. Lo que sacaron de estos intercambios fue esto: No hay dogma. Eres libre de tener tu propia opinión. Para una mente joven, esta fue una revelación liberadora.
 
 En nuestros años de crianza de los hijos, había dos cosas que intentábamos hacer conscientemente. Más que cualquier otra cosa, queríamos que cada uno de nuestros hijos desarrollara una relación personal, privada y poderosa con Dios, y un deseo de seguir la inspiración de la vida y las enseñanzas de Jesús dondequiera que los llevara.
 
@@ -90,7 +90,7 @@ Para la mente casual[^32], el compromiso a este nivel (el nivel del 100 %) serí
 
 No me refiero a holgazanear en tus batas de baño. Me refiero a interiormente relajado. Relajado espiritualmente. No sigas sintiendo tu pulso espiritual. El núcleo de acción de esta idea viene de pasar de un estado de tensión a algo cercano a la serenidad espiritual. Tendremos que hacer esto mucho tiempo en el futuro. No puedes crecer cuando estás tenso.
 
-La historia espiritualmente más relajante que he escuchado surgió de una reunión hace mucho tiempo entre George Foxx, fundador de los cuáqueros, y William Penn, antes de mudarse a Filadelfia. Tal como me contaron la historia, Penn era entonces un joven inglés, un tipo bastante duro, un espadachín espadachín. Se estaba interesando en los cuáqueros y estaba pensando en unirse a su sociedad religiosa. Pero estaba vacilante. Así que se reunió con George Fox.
+La historia espiritualmente más relajante que he escuchado surgió de una reunión hace mucho tiempo entre George Foxx, fundador de los cuáqueros, y William Penn, antes de mudarse a Filadelfia. Tal como me contaron la historia, Penn era entonces un joven inglés, un tipo bastante duro, un tío que lleva espada en mano. Se estaba interesando en los cuáqueros y estaba pensando en unirse a su sociedad religiosa. Pero estaba vacilante. Así que se reunió con George Fox.
 
 Penn dijo: «Si me convierto en cuáquero, ¿cuánto tiempo puedo llevar mi espada?»
 
@@ -124,7 +124,7 @@ Jesús le dio un valor muy alto a la lealtad. Y también la raza humana. Los Doc
 
 Cuando hayamos establecido la soberanía de la verdad, la belleza y la bondad en nuestro corazón[^38], la nutriremos y apoyaremos dondequiera que la encontremos. Seremos leales a lo que estos valores representan.
 
-La gente tiende a decir verdad, belleza y bondad casi como una frase singular. Comprenden lo que significa la verdad. Entienden la bondad. Pero con demasiada frecuencia, con demasiada frecuencia, la gente olvida que la belleza es la palabra del medio, de igual valor que las otras dos. La belleza es un aspecto primario de Dios que a menudo ignoramos.
+La gente tiende a decir verdad, belleza y bondad casi como una frase singular. Comprenden lo que significa la verdad. Entienden la bondad. Pero con demasiada frecuencia, con mucha frecuencia, la gente olvida que la belleza es la palabra del medio, de igual valor que las otras dos. La belleza es un aspecto primario de Dios que a menudo ignoramos.
 
 No solo la belleza de las cosas físicas y materiales, sino también la belleza de las relaciones en las que se honra la integridad de la relación y nunca se viola ni se traiciona. Belleza del espíritu de las cosas. Niveles cósmicos de belleza. Belleza que surge dentro del gran poder espiritual de la entrega incondicional a una causa común, la lealtad mutua a una Deidad cósmica[^39].
 
@@ -146,7 +146,7 @@ En el camerino, algunos reporteros rodearon a Archie. Ya sabes cómo son los rep
 
 Archie pensó por unos momentos, luego dijo: «Bueno, me puse a pensar», como si tuviera toda la tarde, «si no me levanto de la lona, ​​voy a perder la pelea».
 
-Esa historia ha inspirado a toda nuestra familia durante 30 años. Cuando los tiempos son realmente difíciles, cuando ha trabajado hasta el agotamiento total y todavía hay más por hacer, cuando se enfrenta a una fecha límite imposible y toda la energía parece haberse ido, cuando las probabilidades en su contra parecen abrumadoras, simplemente diga para ti mismo: si no me levanto de la lona, ​​voy a perder la pelea. Entonces levántate de la lona y gana la pelea.  
+Esa historia ha inspirado a toda nuestra familia durante 30 años. Cuando los tiempos son realmente difíciles, cuando ha trabajado hasta el agotamiento total y todavía hay más por hacer, cuando se enfrenta a una fecha límite imposible y toda la energía parece haberse ido, cuando las probabilidades en su contra parecen abrumadoras, simplemente diga para sí mismo: si no me levanto de la lona, ​​voy a perder la pelea. Entonces levántate de la lona y gana la pelea.  
 
 ## La sexta acción es permanecer sin juzgar
 
@@ -158,7 +158,7 @@ Ser crítico es ser rápido para condenar, rápido para asignar motivos, rápido
 
 A veces lo que crees que ves no es lo que estás viendo en absoluto. El retrato de El libro de Urantia de nuestro ancestro primitivo gruñendo frente a un tigre dientes de sable es solo uno de los innumerables ejemplos que podríamos usar. Lo que se nos indica que busquemos es el contenido de verdad de lo que está sucediendo.
 
-Este es uno de mis ejemplos favoritos[^41]. Hace unos mil años, el rey Canuto el Grande unió Dinamarca, Noruega, el sur de Suecia e Inglaterra en un imperio vikingo. Los libros de historia que probablemente leíste te dijeron que Canute tenía un ego enorme y estaba tan intoxicado con el poder que hizo algo extraño. Llevó su silla del trono a la orilla del mar y ordenó que las olas se detuvieran. Esta es la historia del falso historiador.
+Este es uno de mis ejemplos favoritos[^41]. Hace unos mil años, el rey Canuto el Grande unió Dinamarca, Noruega, el sur de Suecia e Inglaterra en un imperio vikingo. Los libros de historia que probablemente leíste te dijeron que Canuto tenía un ego enorme y estaba tan intoxicado con el poder que hizo algo extraño. Llevó su silla del trono a la orilla del mar y ordenó que las olas se detuvieran. Esta es la historia del falso historiador.
 
 El verdadero historiador te diría esto. Sí, Canuto llevó su silla del trono a la orilla del mar. Sí, ordenó a las olas que se detuvieran. Pero veamos el motivo detrás del acto.
 
@@ -166,7 +166,7 @@ Canuto estaba enojado por los constantes halagos de quienes lo rodeaban. Seguía
 
 Después de ordenar que el mar retrocediera y mojarse los pies, Canuto dijo entonces: «Que todos sepan cuán vacío e inútil es el poder de los reyes, porque no hay nadie digno de ese nombre sino Aquel a quien el cielo, la tierra y el mar obedecen por leyes eternas. .»
 
-Después, Canuto nunca más usó su corona. En cambio, lo colgó en la catedral de Winchester.
+Después, Canuto nunca más usó su corona. En cambio, la colgó en la catedral de Winchester.
 
 Así que lo que parecía egoísmo e intoxicación de poder para un falso historiador era en verdad una demostración de profunda humildad para un verdadero historiador. No nos convirtamos en falsos historiadores, ni siquiera en los pequeños detalles de nuestra vida e interacciones cotidianas. Esta es una lección para todos los tiempos.
 
@@ -190,7 +190,7 @@ La _técnica_ de progresión es muy sencilla, y siempre la llevas contigo estés
 
 Al enfrentar decisiones, acciones, situaciones, piense para sí mismo: ¿Qué haría Jesús? Sus respuestas honestas a esa pregunta comenzarán a guiar sus acciones con gran poder espiritual. Una vez que haya hecho esto con verdadero éxito la primera vez, una vez que realmente experimente la mente de Jesús, aunque sea brevemente, nunca querrá volver a sus viejas costumbres.
 
-La actitud de progresión primaria es igualmente simple. Un revelador de Melquisedec nos dice que las llaves del reino de los cielos son: sinceridad, más sinceridad y más sinceridad. Todos nosotros tenemos estas llaves dentro de nosotros, y las usamos con decisiones, con más decisiones y con más decisiones[^46]. Con el tiempo, acumulamos un impulso creciente que nos lleva siempre hacia Dios.
+La actitud de progresión primaria es igualmente simple. Un revelador Melquisedec nos dice que las llaves del reino de los cielos son: sinceridad, más sinceridad y más sinceridad. Todos nosotros tenemos estas llaves dentro de nosotros, y las usamos con decisiones, con más decisiones y con más decisiones[^46]. Con el tiempo, acumulamos un impulso creciente que nos lleva siempre hacia Dios.
 
 Mary y yo enseñamos a nuestros hijos que _El Libro de Urantia_ no es el final de la búsqueda, sino solo el comienzo. Todo en la vida se vuelve más fascinante en el resplandor cósmico de las enseñanzas de Urantia. La primera vez que leí el libro de cabo a rabo fue en 1967. Descubrí la majestuosa belleza de la escritura, el carácter supremo de las observaciones filosóficas, la calidad sinfónica en la forma en que se desarrolla la revelación. A menudo he dicho: solo me he aburrido cuatro veces desde 1967.
 

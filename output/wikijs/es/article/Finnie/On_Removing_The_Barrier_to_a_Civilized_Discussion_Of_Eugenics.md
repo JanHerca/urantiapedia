@@ -31,7 +31,7 @@ Algunos ejemplos de su lógica fracturada son:
 
 La religión con sabor cristiano de Rousseau, entonces, es profundamente antibíblica, mientras que su socialismo es hostil a todas las formaciones sociales excepto a las que él imagina. De vez en cuando expresa honestamente su hostilidad hacia el cristianismo. «Una sociedad de verdaderos cristianos ya no sería una sociedad de hombres» debido al pacifismo y la extramundanidad del cristianismo. «El cristianismo predica sólo la servidumbre y la dependencia. Su espíritu es demasiado favorable a la tiranía para que ésta no se beneficie siempre de ella. Los verdaderos cristianos están hechos para ser esclavos».[^5] ¡Aquí podemos ver tanto a Nietzsche como a Marx brillando en los ojos de Rousseau! ¡Ojalá pudiéramos retroceder en el tiempo y advertir a Europa que no se deje seducir por este hombre!
 
-Su rebelión central es contra un Dios bíblico. «Las ideas más grandiosas de la naturaleza Divina nos vienen de la razón solamente... La conciencia nunca nos engaña... El servicio que Dios requiere es del corazón... Con respecto a la revelación... Yo no la acepto ni la rechazo, yo sólo rechazan toda obligación de estar convencidos de su verdad.» [^6]
+Su rebelión central es contra un Dios bíblico. «Las ideas más grandiosas de la naturaleza Divina nos vienen de la razón solamente... La conciencia nunca nos engaña... El servicio que Dios requiere es del corazón... Con respecto a la revelación... Yo no la acepto ni la rechazo, yo sólo rechazo toda obligación de estar convencidos de su verdad.» [^6]
 
 Aquí muestra su mano. Si uno cree en una revelación de Dios, no puede ser neutral acerca de sus mensajes.
 

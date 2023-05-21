@@ -47,7 +47,7 @@ Sometimes one doesn't have to try very hard to interest another person in the bo
 
 But others have encountered rejection from those who mean the most to them, as Dennis Neuman of Redwood City, CA, so poignantly recounted in a re­cent letter to the Fellowship: “My father had a strong religious faith that was unshakable, but it also did not allow for any questioning. When I tried to discuss *The Urantia* Book with my parents, my mother left the room. My father listened for a while and then said, 'You have your beliefs, and we have ours.' End of conversation. He was a man who did not question, nor allow ques­tions. He was not introspective about his beliefs.”
 
-One young woman of the '60s, critical of the policy of not advertising the book, demanded, “Why did I have to hear about the book from a hippie named 'Bugs'?” The rejoinder to which was, “Well, you did hear about the book, didn't you?” +
+One young woman of the '60s, critical of the policy of not advertising the book, demanded, “Why did I have to hear about the book from a hippie named 'Bugs'?” The rejoinder to which was, “Well, you did hear about the book, didn't you?”
 
 ## The Spiritual Approach
 
@@ -58,12 +58,12 @@ Speaking at confer­ences, Vern Grimsley often said that if you button the top b
 At the end of his three-year term as president, William Sadler, Jr., wrote in 1958: “God is the only true end. Our primary spiritual loyalty and dedication is to the Universal Father, and to him alone. When we en­counter some spiritually hungry brother, our first ob­jective is to bring him closer to his spiritual Father. This we may attempt with, or without, the book.” ... “The book itself is not an end—it is a most important means to an end. It is designed to bring God closer to man and to bring man closer to God. We may minister to our spiritually hungry brothers with or without the aid of *The Urantia Book.* But, if the book ever becomes man­datory in our ministry, then have we truly become sec­tarian.” ... “Neither is the Brotherhood, nor member­ship in it, a true end.” ... “The Brotherhood is designed to promote the book and the book is designed to bring God and man closer to each other.”
 
 > **The Urantian Religionist**
-> _(The author, Paul Snider, was President of Urantia Brotherhood from 1973 to 1976. The following is aportion of a Presentation given at a conference of Urantia Book readers in Atlanta, (GA, May 20, 1983.)_
+> _The author, Paul Snider, was President of Urantia Brotherhood from 1973 to 1976. The following is aportion of a Presentation given at a conference of Urantia Book readers in Atlanta, (GA, May 20, 1983.)_
 >
 > 
-> The desire to share is thefirst consequence of the process of spiritual transformation. The love of God is stirring within us. The thrill of God cannot be contained. Our cup is overflowing. And deep within us there is a powerful need to share the wonder and richness of this discovery with everyone who will listen. The world will never be the same again. All things are becoming new And we know that the transforming power of these teachings is the hope of the world.
+> The desire to share is thefirst consequence of the process of spiritual transformation. The love of God is stirring within us. The thrill of God cannot be contained. Our cup is overflowing. And deep within us there is a powerful need to share the wonder and richness of this discovery with everyone who will listen. The world will never be the same again. All things are becoming new. And we know that the transforming power of these teachings is the hope of the world.
 > 
-> This is where the sharing starts. I think there are at least two levels of sharing. We can share at the level of *fact* and we can share at the level of truth. At the intellectual level, the level of fact, we share by what we say. At the factual or intellectual level we exchange facts and information. We might say something like, “Did you know that the Bible refers to God as *Father* 233 times?” Or, any number of magnificent passages from *The* Urantia *Book.*
+> This is where the sharing starts. I think there are at least two levels of sharing. We can share at the level of *fact* and we can share at the level of truth. At the intellectual level, the level of fact, we share by what we say. At the factual or intellectual level we exchange facts and information. We might say something like, “Did you know that the Bible refers to God as *Father* 233 times?” Or, any number of magnificent passages from *The Urantia *Book.*
 > 
 > But let us not ever confuse sharing at the intellectual level with the deeper and more profound level, which is the level of inspiration, the sharing of truth. This is the level at which we share not by what we say, but rather by what we do. Or what we are willing to do. This is the level of living example. This is the spiritual level of sharing.
 > 
@@ -115,7 +115,7 @@ The very frst pamphlet having material derived from the Urantia Papers was “Th
 
 The Brotherhood early recognized that it would be impossible to get a foot in the door with new people without some type of brochure. There was apprehen­sion, however, about the potential for producing a tract that may, in the words of the former Foundation Trustee Emma “Christy” Christensen, “cheapen the book.”
 
-A conservative route was taken. The first brochure, published in 1956 was “Excerpts from *The Uran tia Book*,” which contained nothing but many soaring  1978 quotations from the book. Next came “A Description of *The Urantia Book*,” containing a brief review of each part of the book and a list of the papers. For years, the Foundation and the Brotherhood jointly resisted efforts by individuals or groups to pro­duce brochures, insisting that the book should speak for itself.
+A conservative route was taken. The first brochure, published in 1956 was “Excerpts from *The Urantia Book*,” which contained nothing but many soaring 1978 quotations from the book. Next came “A Description of *The Urantia Book*,” containing a brief review of each part of the book and a list of the papers. For years, the Foundation and the Brotherhood jointly resisted efforts by individuals or groups to pro­duce brochures, insisting that the book should speak for itself.
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Linda_Buselli/On_the_Brink_of_The_Most_Amazing/image1.png">
@@ -152,13 +152,11 @@ During the 1970s, rumors had been heard that Urantia Books were being stolen fro
 > **The Concordex**
 > Clyde Bedell _“saw an index combined with Personal commentary the perfect companion to The Urantia Book, with the first 43 Pages serving as an introduction to the book.”_
 > 
-> Usually doesn't associate an index with the idea of promoting the book it references. The Concordex was a different matter. Ordinarily, an index consists of a few pages at the back of a non-fiction book. Since an exhaustive index for The Urantia Book would have doubled the size of an already formidable tome, Urantia Foundation announced in 1956 that an index would be prepared and published separately. Several individuals worked on it, but with each new index, previous work had to be redone to maintain consistency.
+> Usually doesn't associate an index with the idea of promoting the book it references. The Concordex was a different matter. Ordinarily, an index consists of a few pages at the back of a non-fiction book. Since an exhaustive index for _The Urantia Book_ would have doubled the size of an already formidable tome, Urantia Foundation announced in 1956 that an index would be prepared and published separately. Several individuals worked on it, but with each new index, previous work had to be redone to maintain consistency.
 > 
-> Clyde Bedell watched all of these false starts with growing impatience. He set about to provide readers with a study aid to help them find favorite references. Clyde Bedell's Personal List of References was published in 1966. But very soon he envisioned an index that would do more —it could be an enticement to browsers in bookstores and libraries to seek out The Urantia Book and to locate intriguing passages.
+> Clyde Bedell watched all of these false starts with growing impatience. He set about to provide readers with a study aid to help them find favorite references. Clyde Bedell's Personal List of References was published in 1966. But very soon he envisioned an index that would do more —it could be an enticement to browsers in bookstores and libraries to seek out _The Urantia Book_ and to locate intriguing passages.
 >
-> His enlarged book was renamed The Concordex to The Urantia Book and included an impressive group of testimonials—all longtime readers. He saw an index combined with personal commentary as the perfect companion to The Urantia Book, with the first 43 pages serving as an introduction to the book. Clyde implored the Foundation and Brotherhood to inform all purchasers of the existence of The Concordex, and that all bookstores be notified.
->
-> Clyde implored the Foundation and Brotherhood to inform all purchasers of the existence of The Concordex, and that all bookstores be notified.
+> His enlarged book was renamed The Concordex to _The Urantia Book_ and included an impressive group of testimonials—all longtime readers. He saw an index combined with personal commentary as the perfect companion to _The Urantia Book_, with the first 43 pages serving as an introduction to the book. Clyde implored the Foundation and Brotherhood to inform all purchasers of the existence of The Concordex, and that all bookstores be notified.
 >
 > Many years of heated correspondence with headquarters ensued and continued until his death in 1985. The Concordex is Still available as a low-priced handy helper for those who cannot afford the Foundation's pricier hard cover Index nor utilize a computer version.
 {.is-info}
@@ -236,7 +234,7 @@ Neal Waldrup, who had recently returned from China, advanced the idea of a globa
 
 Catholic priest, Robert Schuer, described how he labored in his vineyard: “I share *The Urantia Book* with my bishop and other priests every Wednesday. We for­mulate sermons and I always share my quotations. They are tolerant and listen. Each priest has his own favorite books that he uses in his sermons. The Holy Spirit is really moving.”
 
-“Bloom where you're planted,” Pat Devine of the Bronx, NY, stated simply. “Where you are—that's where you begin.” +
+“Bloom where you're planted,” Pat Devine of the Bronx, NY, stated simply. “Where you are—that's where you begin.”
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Linda_Buselli/On_the_Brink_of_The_Most_Amazing/image2.png">
@@ -249,7 +247,7 @@ The first reader to promote the book on radio was B.M. Salyer, pastor of the New
 
 The earliest exposure of the book on television in Europe occurred in September 1964 in Switzerland. Jacques Weiss, translator of the book into French, ap­peared on a Geneva station to promote La *Cosmogonie D'Urantia.* He had sought for two years—since its pub­lication—to appear on French television, but was re­buffed. He believed it was due to media unwillingness to publicize non-Catholic and unconventional religious ideas. Weiss presented a balanced picture of the rev­elation in the Swiss interview but received only mod­est reaction from viewers.
 
-First Urantia Society of Los Angeles sponsored a seminar in Septem­ber 1983, “The Me­dia and the Message: Is There a Place for *The Urantia Book?”* They addressed whether more public means to spread the teachings should be employed, i.e., adver­tising and mass media exposure, and, can the teachings of Jesus be restated through media ministry? Urantia Foundation, Urantia Brotherhood and several societies sent representatives.
+First Urantia Society of Los Angeles sponsored a seminar in Septem­ber 1983, “The Me­dia and the Message: Is There a Place for *The Urantia Book*?” They addressed whether more public means to spread the teachings should be employed, i.e., adver­tising and mass media exposure, and, can the teachings of Jesus be restated through media ministry? Urantia Foundation, Urantia Brotherhood and several societies sent representatives.
 
 Roxy Allesandro, a television writer and producer, dramatically portrayed for the audience the conditions and climate of the broadcast media in 1983: “The net­works control the programs. They all think alike; they are all motivated by ratings and commercial profits. What gets on TV? Things that don't rock the boat.... When I was turned onto *The Urantia Book,* I wanted to get God on TV There is no God-consciousness in TV—spiritual values are rarely allowed in the script. If some­how an uplifting idea got into a script, and it failed, the writer would never work again.” She spoke of the read­ers in Hollywood who long to transform the media. “We have the responsibility to go out and break the silence about God on this world!” “This is the time to train ourselves, hone our skills, write better stories and lyr­ics, and to put God into our work.” Eight years later, in 1991, Roxy and her husband Vincent Ventola wrote for TV's “Sunday Dinner”, one of the first sitcoms to have an attractive, outspoken lead character who pro­moted faith in God. Roxy's personal spiritual journey was later dramatized in a cable TV movie and in Connie Chung interviews. She, Vince and their baby lost their battle with AIDS in the early 1990s.
 
@@ -264,11 +262,11 @@ TV and movie celebrities have called or visited over the years, beginning with L
 > *“Throughout the journey to Paradise there will always be time for rest and spirit play; and in the career of light and life there is always time for worship and new achievement.”* ([UB 25:7.2](/en/The_Urantia_Book/25#p7_2))
 
 
-> **Proclaiming the Coning Spiritual Renaissance on Radio**
+> **Proclaiming the Coming Spiritual Renaissance on Radio**
 > _“The quickest way to realize the brotherhood of man on Urantia is to effect the spiritual transformation of Present-day humanity. The only technique for accelerating the natural trend of social evolution is that of applying spiritual pressure from above;”_ ([UB 52:6.7](/en/The_Urantia_Book/52#p6_7))
 > 
 > 
-> Prior to fe cenieramnig controversy among the reader community in 1983 with 1-16 predictions of** the outbreak of World War III, Vern Grimsley had established himself as the foremost radio broad caster of the teachings of Jesus according to *The* Urantia *Book.* As he had agreed with Dr. William Sadler and Christy, Vern did not mention *The Urantia Book* in his broadcasts and simply proclaimed the Fatherhood of God and the Brotherhood of Man as well as the coming-spiritual renaissance on this planet.
+> Prior to his generating controversy among the reader community in 1983 with his predictions of the outbreak of World War III, Vern Grimsley had established himself as the foremost radio broadcaster of the teachings of Jesus according to *The Urantia Book.* As he had agreed with Dr. William Sadler and Christy, Vern did not mention *The Urantia Book* in his broadcasts and simply proclaimed the Fatherhood of God and the Brotherhood of Man as well as the coming-spiritual renaissance on this planet.
 > 
 > Vern Bennom Grimsley established the Family of God Foundation in 1967 and that year began his broadcasts from San Francisco. Early broadcasts con­sisted of 15 minute street debates and discussions with college students, pro­jecting their issues and concerns during the turbulent years of campus protest onto a spiritual overview.
 > 
@@ -311,7 +309,7 @@ The Urantia Foundation declared its commitment to having some sixty translations
 
 ## Trolling for New Readers
 
-Over the years many programs have been tried to raise the public's awareness of** *The Urantia Book* and the groups associated with it. Beginning in 1964 Orvonton Society engaged in a 20 year campaign in Chicago newspapers to advertise their study group meetings. Small weekly ads were placed on the Satur­day religion page of *The Chicago Daily News,* and later, in *The Chicago Tribune*. Results were modest, and even­tually, cost became a factor in the project's termina­tion.
+Over the years many programs have been tried to raise the public's awareness of *The Urantia Book* and the groups associated with it. Beginning in 1964 Orvonton Society engaged in a 20 year campaign in Chicago newspapers to advertise their study group meetings. Small weekly ads were placed on the Satur­day religion page of *The Chicago Daily News,* and later, in *The Chicago Tribune*. Results were modest, and even­tually, cost became a factor in the project's termina­tion.
 
 Groups across the U.S. have tried the telephone message program. Ads are placed in local and neigh­borhood newspapers, inviting interested persons to listen to a three-minute taped telephone message. Subjects change every two or three weeks, and are ideas likely to intrigue truth seekers: “Are Angels Real?” “Does Hell Really Exist?” “Are There People on Other Planets?” “Finding Strength Through Crisis or Tragedy,” “Are You Spiritually Hungry and Still Searching?” Callers leave their names, addresses or telephone numbers if they wish to receive information about the book or study group meetings. Up to five responses a month have been tallied by the Arizona Society. Some callers already know about the book, or have read the book in the past, and want to reinvolve themselves in active study.
 

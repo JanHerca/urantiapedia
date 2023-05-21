@@ -33,7 +33,7 @@ Hay varias formas en que estas declaraciones del libro pueden malinterpretarse. 
 
 La mención de cromosomas en [LU 77:2.5](/es/The_Urantia_Book/77#p2_5) muestra que los reveladores estaban familiarizados con el término y puede indicar que los determinantes de rasgos o unidades de control de patrones no son necesariamente sinónimos de cromosomas. También debemos tener en cuenta que equiparar «determinantes de rasgos», «unidades de control de patrones» y «portadores de herencia» entre sí puede no ser una suposición válida.
 
-No fue hasta 1954 que se dio cuenta de que el número de cromosomas humanos, que hasta entonces se pensaba que era 48, era en realidad 46. Es 48 en nuestros primos, los monos y los simios, pero debido a la fusión de dos de nuestros cromosomas. , ahora solo tenemos 46. A algunos lectores les preocupa que los reveladores hayan cometido un error.
+No fue hasta 1954 que se dio cuenta de que el número de cromosomas humanos, que hasta entonces se pensaba que era 48, era en realidad 46. Es 48 en nuestros primos, los monos y los simios, pero debido a la fusión de dos de nuestros cromosomas, ahora solo tenemos 46. A algunos lectores les preocupa que los reveladores hayan cometido un error.
 
 Ahora se sabe que solo alrededor del 5% del ADN en nuestros cromosomas codifica de uno a doscientos mil genes que nos hacen un ser funcional. Nuestro ADN está compuesto por alrededor de tres mil millones de letras de ADN y el gen promedio usa la información codificada en solo unas pocas miles de bases.
 
