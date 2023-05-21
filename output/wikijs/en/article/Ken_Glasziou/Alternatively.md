@@ -34,7 +34,7 @@ If  we take "not inspired" to mean "without dogmatic celestial authority" and "
 
 The authors leave it to the reader to sort out what, for them, is "inspired" from mere "cosmology" which is not.
 
-This is really not so difficult once we rid our minds of our fundamentalist-type of preconceived notions. And if we err, the fault is ours, not the revelators. They have given us specific warning. ([LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
+This is really not so difficult once we rid our minds of our fundamentalist-type of preconceived notions. And if we err, the fault is ours, not the revelators. They have given us specific warning. ([UB 101:4.2](/en/The_Urantia_Book/101#p4_2))
 
 ## External links
 
