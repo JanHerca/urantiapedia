@@ -16,7 +16,7 @@ Este resumen ciertamente ha demostrado ser cierto para el fundamentalismo judío
 
 Las características del fundamentalismo son la suposición de la infalibilidad a expensas de la búsqueda de la verdad, el adoctrinamiento riguroso de los adherentes potenciales y la asunción de la autoridad por parte de la jerarquía dominante.
 
-> No seas curioso en cosas innecesarias: porque se te muestran más cosas de las que los hombres entienden. [Eclesiastés 3:23](/es/Bible/Eclesiastés/3#v23)
+> No seas curioso en cosas innecesarias: porque se te muestran más cosas de las que los hombres entienden. [Eclesiastés 3:23](/es/Bible/Ecclesiastes/3#v23)
 
 > La menor de las cosas con sentido vale más en la vida que la mayor de las cosas sin él.
 > Carlos Gustav Jung

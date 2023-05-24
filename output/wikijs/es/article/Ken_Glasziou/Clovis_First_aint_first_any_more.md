@@ -30,9 +30,9 @@ _Arqueología prohibida_ proporciona a los lectores de _El Libro de Urantia_ una
 
 También está documentada la evidencia de la fabricación de herramientas desde hace 3 millones de años en África, Europa y las Américas. _El Libro de Urantia_ analiza las líneas directas de evolución de Andon y Fonta. No descarta la existencia de homínidos fabricantes de herramientas que no estén en esa línea directa. _Forbidden Archaeology_ ofrece un fantástico índice de la literatura arqueológica olvidada.
 
-<figura id="Figura_1" clase="imagen urantiapedia imagen-estilo-alineación-derecha">
+<figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Ken_Glasziou/Clovis_First_aint_first_any_more/img13.jpg">
-</figura>
+</figure>
 
 ## Enlaces externos
 

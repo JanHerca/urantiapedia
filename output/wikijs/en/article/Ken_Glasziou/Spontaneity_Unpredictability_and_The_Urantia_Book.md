@@ -46,7 +46,7 @@ So did The Urantia Book go along with a determinate universe and a God who does 
 
 Our quotes from _The Urantia Book_ are quite conclusive about the pivotal roles of spontaneity and unpredictability in the finite universes. The sources may be Deity, Experiential Deity, the Absolutes, down to created beings including us humans—a necessity if we are to be endowed with the capacity to think and choose for ourselves.
 
-> Design precedes creation. ([LU 2:7.5](/es/The_Urantia_Book/2#p7_5))
+> Design precedes creation. ([UB 2:7.5](/en/The_Urantia_Book/2#p7_5))
 
 ## External links
 

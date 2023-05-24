@@ -19,7 +19,7 @@ dateCreated: 2022-9-9T8:13:39Z
 - A medida que madura, nuestra alma se acerca más y más a actualizarse como una entidad que interviene entre lo material y lo espiritual, el yo material y el espíritu divino interior.
 - El mortal moralmente consciente «sabe» intuitivamente de la existencia de su alma como una experiencia espiritual real y personal.
 
-Fuente: _El libro de Urantia_, [LU 133:6.5-7](/es/The_Urantia_Book/133#p6_5)
+Fuente: _El Libro de Urantia_, [LU 133:6.5-7](/es/The_Urantia_Book/133#p6_5)
 
 > La fe es la osadía del alma de ir más allá de lo que puede ver.
 > _Inspiraciones_ (anon.)

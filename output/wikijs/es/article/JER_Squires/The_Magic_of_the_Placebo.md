@@ -14,7 +14,7 @@ Un placebo es una sustancia farmacológicamente inerte administrada a ciegas (de
 
 Supuestamente, la creencia del paciente en la eficacia de un fármaco o tratamiento a menudo provoca una cura o una mejora en sí misma: el efecto placebo.
 
-Este hecho crea una situación que exige una terapia “filosófica”.
+Este hecho crea una situación que exige una terapia «filosófica».
 
 Hay condiciones (como las verrugas, por ejemplo) en las que no existe un tratamiento conocido que sea eficaz, a menos que el paciente tenga fe en la eficacia del tratamiento.
 

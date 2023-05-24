@@ -10,13 +10,13 @@ dateCreated: 2022-9-9T8:13:39Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
 
-> “Hace mucho, mucho tiempo, un hombre llamado Moisés hizo un anuncio a los miembros de su nación. Moisés dijo: ‘Jehová ha dicho que de ahora en adelante debemos adorarlo sin el uso de imágenes de ídolos hechas a mano. De ahora en adelante, nada en el medio, solo tú y Dios’”.
+> «Hace mucho, mucho tiempo, un hombre llamado Moisés hizo un anuncio a los miembros de su nación. Moisés dijo: ‘Jehová ha dicho que de ahora en adelante debemos adorarlo sin el uso de imágenes de ídolos hechas a mano. De ahora en adelante, nada en el medio, solo tú y Dios’».
 >
-> “Casi puedo escuchar la reacción de los hijos de Israel: ‘¡Esta nueva ley nunca funcionará! Cualquier tonto sabe que necesitas una imagen de ídolo para hacer contacto con Jehová. Uno necesita al otro, y nosotros necesitamos a ambos. ¡Moisés! te advertimos, mucha gente inocente se descarriará si eliminas estas hermosas imágenes. Dios usa esos medios’”. (de E. Jabay, “El reino del yo”)
+> «Casi puedo escuchar la reacción de los hijos de Israel: ‘¡Esta nueva ley nunca funcionará! Cualquier tonto sabe que necesitas una imagen de ídolo para hacer contacto con Jehová. Uno necesita al otro, y nosotros necesitamos a ambos. ¡Moisés! te advertimos, mucha gente inocente se descarriará si eliminas estas hermosas imágenes. Dios usa esos medios’». (de E. Jabay, «El reino del yo»)
 
-En el _Libro de Urantia_ podemos leer las palabras de Jesús: “El que tenga oídos para oír, que oiga”. El simbolismo se ha utilizado ampliamente en el movimiento Urantia como medio de poder. Pero los símbolos no podrían tener poder sobre nosotros si escucháramos el mandato de Moisés. Todavía no está desactualizado.
+En el _Libro de Urantia_ podemos leer las palabras de Jesús: «El que tenga oídos para oír, que oiga». El simbolismo se ha utilizado ampliamente en el movimiento Urantia como medio de poder. Pero los símbolos no podrían tener poder sobre nosotros si escucháramos el mandato de Moisés. Todavía no está desactualizado.
 
-Nosotros, los humanos, tenemos dos “maneras” extremas de proclamar o demostrar nuestra fe y lealtad a lo que sea que podamos valorar. Un “camino” es que, habiendo elegido la causa del momento por el cual estamos preparados para ofrecer esta lealtad, de ahora en adelante dediquemos la mayor parte de nuestras energías a luchar por esa causa.
+Nosotros, los humanos, tenemos dos «maneras» extremas de proclamar o demostrar nuestra fe y lealtad a lo que sea que podamos valorar. Un «camino» es que, habiendo elegido la causa del momento por el cual estamos preparados para ofrecer esta lealtad, de ahora en adelante dediquemos la mayor parte de nuestras energías a luchar por esa causa.
 
 > El propósito de la vida es evitar la muerte.
 > _(un escéptico)_
@@ -24,11 +24,11 @@ Nosotros, los humanos, tenemos dos “maneras” extremas de proclamar o demostr
 > El propósito de luchar por una causa es evitar simplemente servir a una causa.
 > _(otro escéptico)_
 
-> Cuando el hombre consagra su voluntad a hacer la voluntad del Padre, cuando el hombre da a Dios todo lo que tiene, entonces Dios hace que ese hombre sea más de lo que es. ([UB 117:4.14](/es/El_Libro_de_Urantia/117#p4_14))
+> Cuando el hombre consagra su voluntad a hacer la voluntad del Padre, cuando el hombre da a Dios todo lo que tiene, entonces Dios hace que ese hombre sea más de lo que es. ([LU 117:4.14](/es/The_Urantia_Book/117#p4_14))
 
-Un resultado automático es que nos encontramos contra todos aquellos cuya opinión, relativa a “la causa”, difiere de la nuestra.
+Un resultado automático es que nos encontramos contra todos aquellos cuya opinión, relativa a «la causa», difiere de la nuestra.
 
-En nuestro trasfondo genético tenemos una herencia animal de “dientes y garras”, apenas por debajo de una barrera superficial erigida sobre el andamiaje de las costumbres “civilizadas”.
+En nuestro trasfondo genético tenemos una herencia animal de «dientes y garras», apenas por debajo de una barrera superficial erigida sobre el andamiaje de las costumbres «civilizadas».
 
 Esta barrera se rompe fácilmente y, de hecho, la mayoría de las "causas" tienden a recurrir a las habilidades de aquellos que han desarrollado experiencia en estimular nuestros instintos animales para romper las barreras.
 

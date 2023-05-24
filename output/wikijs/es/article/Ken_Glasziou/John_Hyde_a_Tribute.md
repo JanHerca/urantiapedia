@@ -14,7 +14,7 @@ Muchos lectores que conocieron a John Hyde personalmente oa través de correspon
 
 Conocí a John solo por correspondencia y por su contribución a Innerface International. Pero debido a esto, había desarrollado un profundo respeto tanto por su agudeza de percepción como por la espiritualidad que brillaba en su escritura. El artículo que sigue se compone de la correspondencia en nuestros registros. Lamentablemente, no es posible obtener la aprobación de John, pero espero que su Ajustador del Pensamiento haya tenido algún aporte indirecto para ayudar a hacerlo bien. Adiós por el momento, John, hasta que nos volvamos a encontrar en Mansion Worlds. Al expresar su preocupación por las organizaciones involucradas en la difusión del mensaje de los Documentos de Urantia, John escribió:
 
-«Mi participación en los Cooper y _The Circles_ me ha llevado a la conclusión de que nosotros, como movimiento, debemos tratar de alejarnos de la feroz aversión a la 'religión' que ha caracterizado tanto la perspectiva de muchos de nuestros líderes como de la de los antiguos “cristianos» descontentos que forman un gran bloque de lectores”.
+«Mi participación en los Cooper y _The Circles_ me ha llevado a la conclusión de que nosotros, como movimiento, debemos tratar de alejarnos de la feroz aversión a la 'religión' que ha caracterizado tanto la perspectiva de muchos de nuestros líderes como de la de los antiguos «cristianos» descontentos que forman un gran bloque de lectores».
 
 «La falta de voluntad para explorar la verdadera espiritualidad se está convirtiendo cada vez más en un obstáculo para un mayor crecimiento del movimiento, y el punto muerto al que nos acercamos, tarde o temprano, deberá romperse de alguna manera».
 

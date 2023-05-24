@@ -22,7 +22,7 @@ Probablemente muy pocos cristianos alguna vez piensan en las implicaciones que e
 
 En la base de esta doctrina encontramos a Pablo y San Agustín, quienes dedujeron que la humanidad está plagada de pecados congénitos, que Dios elige quién se salvará y quién no, incluso antes de nacer, y que Dios tiene un conocimiento previo de que aceptará o rechazará la gracia cuando se le ofrece. Por el pecado congénito, le echaron la culpa a Adán y su caída.
 
-Por lo tanto, si seguimos el tema de “salvados por la sangre de Cristo” hasta sus orígenes, para ser consistentes tenemos que suscribir una creencia en Adán y Eva como el primer hombre y mujer, y su caída en desgracia, un evento que se supone haber ocurrido hace unos pocos miles de años!
+Por lo tanto, si seguimos el tema de «salvados por la sangre de Cristo» hasta sus orígenes, para ser consistentes tenemos que suscribir una creencia en Adán y Eva como el primer hombre y mujer, y su caída en desgracia, un evento que se supone haber ocurrido hace unos pocos miles de años!
 
 Es un hecho que la mayoría de los cristianos practicantes no saben casi nada acerca de estas doctrinas. Sin embargo, les encanta la parte de "salvados por la sangre de Cristo", ya que sienten que los saca de algunos agujeros bastante profundos.
 
@@ -52,19 +52,19 @@ La respuesta parece estar directamente en aquellos que estuvieron allí en los o
 
 Y, por supuesto, lo es y lo será, pero ¿cuánto tiempo pasará antes de que nos demos cuenta de que la forma en que su magnífico mensaje ha sido transmitido al mundo en general ha fallado estrepitosamente? Seguramente la experiencia ahora ha confirmado que el mensaje no puede venderse al cristianismo, y probablemente tampoco a ninguna otra religión, si se presenta como otra revelación autenticada por Dios.
 
-Meredith Sprunger es, con mucho, nuestra observadora mejor calificada en esta área, y afirma: “Más de cuarenta años de experiencia interactuando con el **segmento más progresista de la corriente principal del cristianismo** me ha enseñado que cualquier cosa que pretenda ser una nueva revelación no está dentro los límites de la respetabilidad teológico-institucional actual”. (Christian Fellowship Journal 8 (1) 23, 1998)
+Meredith Sprunger es, con mucho, nuestra observadora mejor calificada en esta área, y afirma: «Más de cuarenta años de experiencia interactuando con el **segmento más progresista de la corriente principal del cristianismo** me ha enseñado que cualquier cosa que pretenda ser una nueva revelación no está dentro los límites de la respetabilidad teológico-institucional actual». (Christian Fellowship Journal 8 (1) 23, 1998)
 
 Incluso pensar que los reveladores no sabían que ese sería el caso es lanzar calumnias que indican ingenuidad de su parte. ¡Sin embargo, los Documentos no dejan ninguna duda de que su contenido está destinado a mejorar todas las religiones! Se espera que encontremos una manera.
 
-> “El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina.” ([UB 2:7.10](/es/El_Libro_de_Urantia/2#p7_10))
+> «El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina.» ([LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
 
-> «El reino de Dios está dentro de vosotros» fue probablemente la proclamación más grande que Jesús hiciera nunca, después de la declaración de que su Padre es un espíritu vivo y amoroso. ([UB 195:10.4](/es/El_Libro_de_Urantia/195#p10_4))
+> «El reino de Dios está dentro de vosotros» fue probablemente la proclamación más grande que Jesús hiciera nunca, después de la declaración de que su Padre es un espíritu vivo y amoroso. ([LU 195:10.4](/es/The_Urantia_Book/195#p10_4))
 
 En esta sección, se nos dice que tomemos el mensaje de los Documentos y lo presentemos de una manera aceptable para todo tipo de hombres.
 
-Un hecho inquietante es que muchos lectores del Libro de Urantia transmiten una actitud antagónica hacia el cristianismo y las iglesias, junto con una actitud de “no me importa” que los cristianos no acepten El Libro de Urantia.
+Un hecho inquietante es que muchos lectores del Libro de Urantia transmiten una actitud antagónica hacia el cristianismo y las iglesias, junto con una actitud de «no me importa» que los cristianos no acepten El Libro de Urantia.
 
-Pero el Documento 196 dice: “Qué trascendente servicio si, a través de esta revelación, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional y fuera presentado como el Jesús viviente a la iglesia que lleva su nombre, y a todas las demás religiones. ” **Obviamente a los reveladores les importa.**
+Pero el Documento 196 dice: «Qué trascendente servicio si, a través de esta revelación, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional y fuera presentado como el Jesús viviente a la iglesia que lleva su nombre, y a todas las demás religiones. » **Obviamente a los reveladores les importa.**
 
 Cuando una empresa comercial quiebra, desaparece o aparece otra persona, despide a la antigua dirección y comienza de nuevo. Y si fallan, el ciclo podría reiniciarse hasta que alguien lo haga bien y la empresa prospere. De lo contrario, la muerte está asegurada.
 
@@ -74,7 +74,7 @@ Entonces, ¿qué nueva táctica podemos probar con nuestro precioso Libro de Ura
 
 Para tener éxito, tendríamos que olvidarnos de la autoría celestial y simplemente admitir que se desconocen los verdaderos orígenes del texto (que es la verdad). Como señaló Meredith Sprunger, **el origen y la autoría de un libro no es un criterio filosófico de la verdad.** Independientemente de si supermortales o seres humanos escribieron el Libro de Urantia, todavía debe evaluarse por su contenido de verdad y no por paternidad literaria. (CFJ, 8 (1) 6)
 
-Probablemente sería mejor omitir los nombres de los autores de una tabla de contenido, y tal vez podrían agregarse al final de cada artículo como, “atribuido a a. . . Pero si los nombres extraños de los autores pueden ser un obstáculo para la aceptación, entonces deben omitirse.
+Probablemente sería mejor omitir los nombres de los autores de una tabla de contenido, y tal vez podrían agregarse al final de cada artículo como, “atribuido a a... Pero si los nombres extraños de los autores pueden ser un obstáculo para la aceptación, entonces deben omitirse.
 
 Debemos recordar cómo Jesús les dijo a sus oponentes que no era importante que creyeran en él, sino que lo importante era que creyeran en el Dios-Padre acerca del cual enseñaba.
 

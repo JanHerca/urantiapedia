@@ -20,7 +20,7 @@ dateCreated: 2022-9-9T8:13:39Z
 > 
 > La oración es en verdad una parte de la experiencia religiosa, pero las religiones modernas han hecho hincapié erróneamente en ella, descuidando en gran parte la comunión más esencial de la adoración. La adoración intensifica y amplía los poderes reflexivos de la mente. La oración puede enriquecer la vida, pero la adoración ilumina el destino.
 > 
-> La religión revelada es el elemento unificador de la existencia humana. La revelación unifica la historia, coordina la geología, la astronomía, la física, la química, la biología, la sociología y la psicología. La experiencia espiritual es la verdadera alma del cosmos del hombre. ([UB 102:4.1-6](/en/The_Urantia_Book/102#p4_1))
+> La religión revelada es el elemento unificador de la existencia humana. La revelación unifica la historia, coordina la geología, la astronomía, la física, la química, la biología, la sociología y la psicología. La experiencia espiritual es la verdadera alma del cosmos del hombre. ([LU 102:4.1-6](/es/The_Urantia_Book/102#p4_1))
 
 > La revelación es validada solo por la experiencia humana.
 
