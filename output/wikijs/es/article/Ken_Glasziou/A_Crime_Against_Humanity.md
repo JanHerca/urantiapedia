@@ -82,7 +82,7 @@ Entonces tendríamos que retroceder, ver qué sucede y modificar los enfoques en
 
 Tal vez el libro necesite un nombre diferente, tal vez "Los documentos de Urantia" o tal vez un nombre neutral como "Una filosofía de la religión".
 
-También se debe pensar en hacer que la Parte 4 esté disponible como una "Vida de Jesús" sin los matices reveladores. Podría comenzar en la Sección 1 del Documento 121 pero modificarse para sustituir "Michael" por "Jesús" cuando corresponda.
+También se debe pensar en hacer que la Parte 4 esté disponible como una "Vida de Jesús" sin los matices reveladores. Podría comenzar en la Sección 1 del Documento 121 pero modificarse para sustituir "Miguel" por "Jesús" cuando corresponda.
 
 Si pudiéramos hacer que los cristianos se sintieran cómodos con tener los Documentos en sus estanterías, y particularmente que el clero y los académicos lo hicieran, un nuevo comienzo podría estar a la vuelta de la esquina.
 

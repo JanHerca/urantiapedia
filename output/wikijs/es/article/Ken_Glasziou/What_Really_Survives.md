@@ -30,89 +30,101 @@ La presencia de este Ajustador divino en la mente humana queda desvelada por tre
 2. Nuestro impulso espiritual de encontrar a Dios: búsqueda de Dios
 3. El ansia de nuestra personalidad de ser como Dios: el deseo sincero de hacer la voluntad del Padre (p.24).
 
-For better understanding of the next stage in our universe career, we need to be critically aware that all that is «personal» about ourselves that survives into the morontia life, is processed by our Thought Adjuster because it has some kind of potential «spiritual value.»
+Para entender mejor la siguiente etapa de nuestra carrera universal, necesitamos ser conscientes críticamente de que todo lo que es “personal” en nosotros y que sobrevive en la vida morontial, es procesado por nuestro Ajustador del Pensamiento porque tiene algún tipo de “valor espiritual” potencial.
 
-The reason for this is that in the spirit world which is to follow our temporary morontia existence, the things of this world, those things associated with material matter, simply have no existence, hence are useless. If we value our experience on this planet and hope to take at least some traces of it with us, then we need to develop a «feeling» for those intangible concepts so frequently referred to as «spiritual meanings and values.» The Papers tell us :
+La razón de esto es que en el mundo espiritual, que es el que sigue a nuestra existencia morontial temporal, las cosas de este mundo, aquellas cosas asociadas con asuntos materiales, simplemente no tienen existencia y por tanto son inútiles. Si evaluamos nuestra experiencia en este planeta y esperamos llevarnos al menos algunos rasgos de ella con nosotros, entonces necesitamos desarrollar un “sentimiento” para esos conceptos intangibles tan frecuentemente referidos como “significados y valores espirituales”. Los documentos nos dicen:
 
-«…when an attempt is made to make plain the realities of the spirit world to the physical minds of the material order, mystery appears: mysteries so subtle and so profound that only the faith-grasp of the God-knowing mortal can achieve the philosophic miracle of the recognition of the Infinite by the finite, the discernment of the eternal God by the evolving mortals of the material worlds of time and space.» (27)
+> “...cuando se intentan aclarar las realidades del mundo del espíritu para las mentes físicas de orden material, aparece el misterio: misterios tan sutiles y tan profundos que sólo el entendimiento de fe del mortal que conoce a Dios puede lograr el milagro filosófico del reconocimiento del Infinito por parte del finito, el discernimiento del Dios eterno por parte de los mortales evolutivos de los mundos materiales del tiempo y el espacio” ([LU 1:4.7](/es/The_Urantia_Book/1#p4_7)).
 
-What applies to «infinite» and «eternal» also applies to «spiritual.» Over and over again, the Papers refer to spiritual meanings and values with no further elaboration.
+Lo que se aplica a “infinito” y “eterno” también se aplica a “espiritual”. Una y otra vez, los documentos se refieren a los significados y valores espirituales sin elaboración adicional.
 
-«Spiritual» is a term that has similarities to concepts in our language for which the meaning is «in the eye of the beholder.» To specify exactly what we mean by holding that a particular object is more beautiful than another, we would need some scale to judge their relative beauty against our ideal of perfect beauty.
+“Espiritual” es un término que tiene similitudes con conceptos de nuestro lenguaje para los que el significado es “en el ojo del que mira”. Para especificar más exactamente que lo que queremos decir es que un determinado objeto es más bello que otro, necesitaremos alguna escala para juzgar su belleza relativa frente a nuestro ideal de belleza perfecta.
 
-We can think about «spiritual» in a similar way if we make the characteristics and nature of God himself, our ideal of «perfection.» But in doing so we are immediately confronted by our absence of real knowledge of the perfection of God—except in so far as that perfection has already been revealed to us.
+Podemos pensar sobre lo “espiritual” de forma similar si establecemos las características y naturaleza de Dios mismo, nuestro ideal de “perfección”. Pero al hacerlo así nos enfrentamos inmediatamente con nuestra falta de conocimiento real de la perfección de Dios (excepto en la medida en que la perfección nos ha sido ya revelada).
 
-For this, we have two main sources—personal and individual revelation between each of us and our Thought Adjusters and the revelation of God’s nature provided for us in the bestowal life of Jesus of Nazareth. And because of the real difficulties beings such as ourselves have with establishing reliable communication with our Thought Adjuster, that revelatory life of Jesus is our principal source for understanding «spiritual meanings and values» in so far as they can be comprehended by beings whose total experience is dominated by association with matter…
+En consecuencia, tenemos dos fuentes principales: la revelación personal e individual entre cada uno de nosotros y nuestros Ajustadores del Pensamiento, y la revelación de la naturaleza de Dios provista para nosotros en la vida de donación de Jesús de Nazaret. Y debido a las dificultades reales que tenemos de establecer una comunicación fiable con nuestro Ajustador del Pensamiento, la vida revelatoria de Jesús es nuestra fuente principal para comprender “los significados y valores espirituales”, en la medida en que pueden ser comprendidos por seres cuya experiencia total está dominada por la asociación con la materia.
 
-And surely it goes without saying that nothing could be more important for our spiritual progress than an understanding of what spiritual progress really entails.
+Y seguramente funciona sin decir que nada podría ser más importante para nuestro progreso espiritual que una comprensión de lo que implica realmente el progreso espiritual.
 
-What is spiritual?
+## ¿Qué es lo espiritual?
 
-There are two approaches to understanding what spiritual «is.» Since God is pure spirit, all that pertains to the character and nature of deity must reflect God’s spirituality. This will encompass all deity, including the revelation of the nature of God given to Urantians through the life of Jesus. Our second source is direct statement in the Papers about what spirituality is. The following quotations may be of help:
+Hay dos aproximaciones para comprender lo que significa “espiritual”. Puesto que Dios es puro espíritu, todo lo que pertenece al carácter y a la naturaleza de la deidad debe reflejar la espiritualidad de Dios. Esto abarca a toda la deidad, incluyendo la revelación de la naturaleza de Dios dada a los urantianos en la vida de Jesús. Nuestra segunda fuente es la declaración directa en los documentos sobre lo que es la espiritualidad. Las siguientes citas pueden sernos de ayuda:
 
-«But the love of God is an intelligent and farseeing parental affection. The divine love functions in unified association with divine wisdom and all other infinite characteristics of the perfect nature of the Universal Father. God is love, but love is not God. The greatest manifestation of the divine love for mortal beings is observed in the bestowal of the Thought Adjusters, but your greatest revelation of the Father’s love is seen in the bestowal life of his Son Michael as he lived on earth the ideal spiritual life. It is the indwelling Adjuster who individualizes the love of God to each human soul.» (40)
+> “Pero el amor de Dios es un afecto paterno inteligente y previsor. El amor divino funciona en asociación unificada con la divina sabiduría y con todas las otras características infinitas de la naturaleza perfecta del Padre Universal. Dios es amor, pero el amor no es Dios. La mayor manifestación del amor divino para con los seres mortales es la dádiva de los Ajustadores del Pensamiento, pero vuestra mayor revelación del amor del Padre se ve en la vida de otorgamiento de su Hijo Micael que vivió en la tierra el ideal de la vida espiritual. Es el Ajustador residente quien individualiza el amor de Dios para cada alma humana.” ([UB 2:5.10](/en/The_Urantia_Book/2#p5_10)).
 
-«The Eternal Son is the great mercy minister to all creation. Mercy is the essence of the Son’s spiritual character. The mandates of the Eternal Son, as they go forth over the spirit circuits of the Second Source and Center, are keyed in tones of mercy.» (75)
+> “El Hijo Eterno es el gran ministro de la misericordia a toda la creación. La misericordia es la esencia del carácter espiritual del Hijo. Los mandatos del Hijo Eterno, tal como salen de los circuitos espirituales de la Segunda Fuente y Centro, son afinados en las notas de la misericordia.” ([UB 6:3.2](/en/The_Urantia_Book/6#p3_2)).
 
-«The Eternal Son is wholly spiritual; man is very nearly entirely material;» (78)
+> “El Hijo Eterno es completamente espiritual; el hombre es casi completamente material” ([UB 6:6.4](/en/The_Urantia_Book/6#p6_4))
 
-«Spirit is the basic personal reality in the universes, and personality is basic to all progressing experience with spiritual reality. Every phase of personality experience on every successive level of universe progression swarms with clues to the discovery of alluring personal realities. Man’s true destiny consists in the creation of new and spirit goals and then in responding to the cosmic allurements of such supernal goals of nonmaterial value.» (141)
+> “El espíritu es la realidad personal básica de los universos, y la personalidad es básica para toda experiencia progresiva con la realidad espiritual. Cada fase de la experiencia de la personalidad en cada nivel sucesivo de progresión universal abunda en pistas para el descubrimiento de fascinantes realidades personales. El verdadero destino del hombre consiste en la creación de metas nuevas y espirituales y luego responder a los atractivos cósmicos de tales metas excelsas de valor no material.” ([LU 12:9.1](/es/The_Urantia_Book/12#p9_1)).
 
-«When the spiritual tests of greatness are applied, the moral elements are not disregarded, but the quality of unselfishness revealed in disinterested labor for the welfare of one’s earthly fellows, particularly worthy beings in need and in distress, that is the real measure of planetary greatness. And the manifestation of greatness on a world like Urantia is the exhibition of self-control. The great man is not he who ‘takes a city’ or ‘overthrows a nation,’ but rather ‘he who subdues his own tongue.’» (317)
+> “Cuando se aplican las pruebas espirituales de la grandeza los elementos morales no se desatienden, pero la calidad de altruismo revelada en la labor desinteresada para el bienestar de los propios semejantes terrenales, particularmente de los seres merecedores en necesidad y en dolor, ésa es la verdadera medida de la grandeza planetaria. Y la manifestación de la grandeza en un mundo como Urantia es la exhibición del autocontrol. El gran hombre no es el que «conquista una ciudad» o «derrota a una nación», sino más bien «el que domina su propia lengua».” ([UB 28:6.20](/en/The_Urantia_Book/28#p6_20)).
 
-«To finite man, truth, beauty, and goodness embrace the full revelation of divinity reality. As this love-comprehension of Deity finds spiritual expression in the lives of God-knowing mortals, there are yielded the fruits of divinity: intellectual peace, social progress, moral satisfaction, spiritual joy, and cosmic wisdom… Advanced mortals have learned that love is the greatest thing in the universe—and they know that God is love. Love is the desire to do good to others.» (648)
+> “Para el hombre finito la verdad, la belleza, y la bondad abrazan la revelación plena de la realidad de divinidad. A medida que esta comprensión y amor de la Deidad encuentra expresión espiritual en la vida de los mortales que conocen a Dios, se producen los frutos de la divinidad: paz intelectual, progreso social, satisfacción moral, felicidad espiritual, y sabiduría cósmica. Los mortales avanzados en un mundo en la séptima etapa de luz y vida han aprendido que el amor es lo más grande en el universo —y saben que Dios es amor. El amor es el deseo de hacer el bien a los demás.” ([UB 56:10.20](/en/The_Urantia_Book/56#p10_20)).
 
-«Spirituality becomes at once the indicator of one’s nearness to God and the measure of one’s usefulness to fellow beings. Spirituality enhances the ability to discover beauty in things, recognize truth in meanings, and discover goodness in values. Spiritual development is determined by capacity therefor and is directly proportional to the elimination of the selfish qualities of love.» (1096)
+> “La espiritualidad se vuelve de inmediato el indicador de la propia cercanía a Dios y la medida de nuestra propia utilidad para con los semejantes. La espiritualidad eleva la habilidad de descubrir la belleza en las cosas, de reconocer la verdad en los significados y la bondad en los valores. El desarrollo espiritual está determinado por la capacidad para eso y es directamente proporcional a la eliminación de las características egoístas del amor.” ([UB 100:2.4](/en/The_Urantia_Book/100#p2_4)).
 
-«The goal of human self-realization should be spiritual, not material. The only realities worth striving for are divine, spiritual, and eternal.» (1096)
+> “El objetivo de la autorrealización humana debe ser espiritual, no material. Las únicas realidades por las que vale luchar son divinas, espirituales y eternas.” ([UB 100:2.6](/en/The_Urantia_Book/100#p2_6)).
 
-&quot;One of the most amazing earmarks of religious living is that dynamic and sublime peace, that peace which passes all human understanding, that cosmic poise which betokens the absence of all doubt and turmoil. Such levels of spiritual stability are immune to disappointment. (1101)
+> “Una de las características más sorprendentes de la vida religiosa, es esa paz dinámica y sublime, esa paz que trasciende toda comprensión humana, esa calma cósmica que simboliza la ausencia de toda duda y confusión. Tales niveles de estabilidad espiritual son inmunes a la decepción.” ([UB 100:6.6](/en/The_Urantia_Book/100#p6_6)).
 
-«The divine spirit makes contact with mortal man, not by feelings or emotions, but in the realm of the highest and most spiritualized thinking. It is your thoughts, not your feelings, that lead you Godward. The divine nature may be perceived only with the eyes of the mind. But the mind that really discerns God, hears the indwelling Adjuster, is the pure mind. «Without holiness no man may see the Lord.» All such inner and spiritual communion is termed spiritual insight. Such religious experiences result from the impress made upon the mind of man by the combined operations of the Adjuster and the Spirit of Truth as they function amid and upon the ideas, ideals, insights, and spirit strivings of the evolving sons of God.» (1104)
+> “El espíritu divino hace contacto con el hombre mortal, no mediante sentimientos o emociones, sino en el dominio del pensamiento más elevado y más espiritualizado. Son vuestros pensamientos los que os conducen hacia Dios. Se puede percibir la naturaleza divina tan sólo con los ojos de la mente. Pero la mente que verdaderamente discierne a Dios, escucha al Ajustador residente, es la mente limpia. «Sin santidad ningún hombre podrá ver a Dios». Toda comunión interna y espiritual de este tipo se denomina discernimiento espiritual. Estas experiencias religiosas son el resultado de la impresión producida sobre la mente del hombre por la actuación combinada del Ajustador y del Espíritu de la Verdad a medida que éstos funcionan sobre y por intermedio de las ideas, ideales, visiones y luchas espirituales de los hijos evolutivos de Dios.” ([UB 101:1.3](/en/The_Urantia_Book/101#p1_3)).
 
-&quot;Through religious faith the soul of man reveals itself and demonstrates the potential divinity of its emerging nature by the characteristic manner in which it induces the mortal personality to react to certain trying intellectual and testing social situations. Genuine spiritual faith (true moral consciousness) is revealed in that it:
-
-
-* Causes ethics and morals to progress despite inherent and adverse animalistic tendencies.
-* Produces a sublime trust in the goodness of God even in the face of bitter disappointment and crushing defeat.
-* Generates profound courage and confidence despite natural adversity and physical calamity.
-* Exhibits inexplicable poise and sustaining tranquillity notwithstanding baffling diseases and even acute physical suffering.
-* Maintains a mysterious poise and composure of personality in the face of maltreatment and the rankest injustice.
-* Maintains a divine trust in ultimate victory in spite of the cruelties of seemingly blind fate and the apparent utter indifference of natural forces to human welfare.
-* Persists in the unswerving belief in God despite all contrary demonstrations of logic and successfully withstands all other intellectual sophistries.
-* Continues to exhibit undaunted faith in the soul’s survival regardless of the deceptive teachings of false science and the persuasive delusions of unsound philosophy.
-* Lives and triumphs irrespective of the crushing overload of the complex and partial civilizations of modern times.
-* Contributes to the continued survival of altruism in spite of human selfishness, social antagonisms, industrial greeds, and political maladjustments.
-* Steadfastly adheres to a sublime belief in universe unity and divine guidance regardless of the perplexing presence of evil and sin.
-* Goes right on worshiping God in spite of anything and everything. Dares to declare, «Even though he slay me, yet will I serve him.» (1108)
-
-«The Supreme is the beauty of physical harmony, the truth of intellectual meaning, and the goodness of spiritual value.» (1278)
-
-«Goodness is always growing toward new levels of the increasing liberty of moral self-realization and spiritual personality attainment—the discovery of, and identification with, the indwelling Adjuster. An experience is good when it heightens the appreciation of beauty, augments the moral will, enhances the discernment of truth, enlarges the capacity to love and serve one’s fellows, exalts the spiritual ideals, and unifies the supreme human motives of time with the eternal plans of the indwelling Adjuster, all of which lead directly to an increased desire to do the Father’s will, thereby fostering the divine passion to find God and to be more like him.» (1458)
-
-«Goodness is living, relative, always progressing, invariably a personal experience, and everlastingly correlated with the discernment of truth and beauty. Goodness is found in the recognition of the positive truth-values of the spiritual level, which must, in human experience, be contrasted with the negative counterpart—the shadows of potential evil.» (1458)
-
-«There is unity in the cosmic universe if you could only discern its workings in actuality. The real universe is friendly to every child of the eternal God. The real problem is: How can the finite mind of man achieve a logical, true, and corresponding unity of thought? This universe-knowing state of mind can be had only by conceiving that the quantitative fact and the qualitative value have a common causation in the Paradise Father. Such a conception of reality yields a broader insight into the purposeful unity of universe phenomena; it even reveals a spiritual goal of progressive personality achievement.» (1477)
-
-«Jesus made it plain that he had come to establish personal and eternal relations with men which should forever take precedence over all other human relationships. And he emphasized that this intimate spiritual fellowship was to be extended to all men of all ages and of all social conditions among all peoples. The only reward which he held out for his children was: in this world—spiritual joy and divine communion; in the next world—eternal life in the progress of the divine spirit realities of the Paradise Father.» (1593)
-
-«Spiritual destiny is dependent on faith, love, and devotion to truth—hunger and thirst for righteousness—the wholehearted desire to find God and to be like him.» (1739)
-
-«The forces of the spiritual world will not coerce man; they allow him to go the way of his own choosing.» (1802)
-
-«Jesus is the spiritual lens in human likeness which makes visible to the material creature Him who is invisible. He is your elder brother who, in the flesh, makes known to you a Being of infinite attributes whom not even the celestial hosts can presume fully to understand. But all of this must consist in the personal experience of the individual believer. God who is spirit can be known only as a spiritual experience. God can be revealed to the finite sons of the material worlds, by the divine Son of the spiritual realms, only as a Father. You can know the Eternal as a Father; you can worship him as the God of universes, the infinite Creator of all existences.» (1857)
-
-«And the fruits of the divine spirit which are yielded in the lives of spirit-born and God-knowing mortals are: loving service, unselfish devotion, courageous loyalty, sincere fairness, enlightened honesty, undying hope, confiding trust, merciful ministry, unfailing goodness, forgiving tolerance, and enduring peace.» (2054)
-
-«The teachers of this new religion are now equipped with spiritual weapons. They are to go out to conquer the world with unfailing forgiveness, matchless good will, and abounding love. They are equipped to overcome evil with good, to vanquish hate by love, to destroy fear with a courageous and living faith in truth.» (2064)
-
-«The Master’s entire life was consistently conditioned by this living faith, this sublime religious experience. This spiritual attitude wholly dominated his thinking and feeling, his believing and praying, his teaching and preaching. This personal faith of a son in the certainty and security of the guidance and protection of the heavenly Father imparted to his unique life a profound endowment of spiritual reality.» (2088)
-
-[The purpose in providing these quotations is to aid readers in gaining understanding of what is meant by those difficult to define concepts, «spiritual meanings and values»—the truth being that such are the only components of our mortal existence that survive with us to the next stage of existence. Lest we do the same, it is also worth noting that Jesus had great difficulty in teaching the apostles spiritual concepts for they invariably turned them into rules to be obeyed.]
+> El alma del hombre se revela por medio de la fe religiosa, y demuestra la divinidad potencial de su naturaleza emergente por la manera característica en que induce a la personalidad mortal a reaccionar ante ciertas situaciones intelectuales y sociales duras y difíciles. La fe espiritual auténtica (la verdadera conciencia moral) se revela en que:
+> 
+> 1. Provoca el progreso de la ética y de la moral a pesar de las tendencias animales inherentes y adversas.
+> 
+> 2. Produce una confianza sublime en la bondad de Dios, en medio incluso de amargas decepciones y de derrotas aplastantes.
+> 
+> 3. Genera un valor y una confianza profundos a pesar de las adversidades naturales y de las calamidades físicas.
+> 
+> 4. Muestra una serenidad inexplicable y una tranquilidad continua a pesar de las enfermedades desconcertantes e incluso de los sufrimientos físicos agudos.
+> 
+> 5. Mantiene a la personalidad en una calma y un equilibrio misteriosos en medio de los malos tratos y de las injusticias más flagrantes.
+> 
+> 6. Mantiene una confianza divina en la victoria final, a pesar de las crueldades de un destino aparentemente ciego y de la aparente indiferencia total de las fuerzas naturales hacia el bienestar humano.
+> 
+> 7. Insiste en creer inquebrantablemente en Dios a pesar de todas las demostraciones contrarias de la lógica, y resiste con éxito a todos los demás sofismas intelectuales.
+> 
+> 8. Continúa mostrando una fe intrépida en la supervivencia del alma, sin tener en cuenta las enseñanzas engañosas de la falsa ciencia ni las ilusiones persuasivas de una filosofía errónea.
+> 
+> 9. Vive y triunfa a pesar de la sobrecarga abrumadora de las civilizaciones complejas y parciales de los tiempos modernos.
+> 
+> 10. Contribuye a la supervivencia continua del altruismo a pesar del egoísmo humano, los antagonismos sociales, las avaricias industriales y los desajustes políticos.
+> 
+> 11. Se adhiere firmemente a una creencia sublime en la unidad universal y en la guía divina, sin tener en cuenta la presencia desconcertante del mal y del pecado.
+> 
+> 12. Continúa muy acertadamente adorando a Dios a pesar de todo y por encima de todo. Se atreve a declarar: «Aunque Él me mate, seguiré sirviéndole». ([LU 101:3.4-16](/es/The_Urantia_Book/101#p3_4))
 
 
+> “El Supremo es la belleza de la armonía física, la verdad del significado intelectual y la bondad del valor espiritual.” ([UB 117:1.1](/en/The_Urantia_Book/117#p1_1)).
 
-## External links
+> La bondad siempre está creciendo hacia nuevos niveles de mayor libertad para autorrealizarse moralmente y alcanzar la personalidad espiritual —el descubrimiento del Ajustador interior y la identificación con él. Una experiencia es buena cuando eleva la apreciación de la belleza, aumenta la voluntad moral, realza el discernimiento de la verdad, aumenta la capacidad para amar y servir a nuestros semejantes, exalta los ideales espirituales y unifica los supremos motivos humanos del tiempo con los planes eternos del Ajustador interior. Todo esto conduce directamente a un mayor deseo de hacer la voluntad del Padre, alimentando así la pasión divina de encontrar a Dios y de parecerse más a él. ([LU 132:2.5](/es/The_Urantia_Book/132#p2_5))
 
-* Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_1/page15.html
+> La bondad es viviente, relativa, siempre en progreso; es invariablemente una experiencia personal y está perpetuamente correlacionada con el discernimiento de la verdad y de la belleza. La bondad se encuentra en el reconocimiento de los valores positivos de verdad del nivel espiritual, que deben contrastar, en la experiencia humana, con su contrapartida negativa —las sombras del mal potencial. ([LU 132:2.7](/es/The_Urantia_Book/132#p2_7))
+
+> Hay unidad en el universo cósmico, si tan sólo pudierais discernir su funcionamiento en su estado actual. El universo real es amistoso para cada hijo del Dios eterno. El verdadero problema es: ¿Cómo puede conseguir la mente finita del hombre una unidad de pensamiento lógica, verdadera y proporcionada? Este estado mental de conocimiento del universo sólo se puede obtener concibiendo la idea de que los hechos cuantitativos y los valores cualitativos tienen una causación común: el Padre Paradisiaco. Una concepción así de la realidad permite una comprensión más amplia de la unidad intencional de los fenómenos del universo; revela incluso una meta espiritual que la personalidad alcanza de manera progresiva. ([LU 133:5.8](/es/The_Urantia_Book/133#p5_8))
+
+> Jesús indicó francamente que había venido para establecer unas relaciones personales y eternas con los hombres, que siempre tendrían prioridad sobre todas las demás relaciones humanas. Y recalcó que esta hermandad espiritual íntima debía extenderse a todos los hombres de todas las épocas y de todas las condiciones sociales, en todos los pueblos. La única recompensa que ofrecía a sus hijos era: en este mundo, la alegría espiritual y la comunión divina; y en el mundo siguiente, la vida eterna en el desarrollo de las realidades espirituales divinas del Padre Paradisiaco. ([LU 141:7.5](/es/The_Urantia_Book/141#p7_5))
+
+> El destino espiritual depende de la fe, el amor y la devoción a la verdad —el hambre y la sed de rectitud— el deseo entusiasta de encontrar a Dios y parecerse a él. ([LU 156:5.7](/es/The_Urantia_Book/156#p5_7))
+
+> Las fuerzas del mundo espiritual no desean coaccionar al hombre; le permiten seguir el camino que él mismo ha elegido. ([LU 163:2.8](/es/The_Urantia_Book/163#p2_8))
+
+> Jesús es, en su semejanza humana, la lente espiritual que hace visible para la criatura material a Aquel que es invisible. Es vuestro hermano mayor que, en la carne, os hace *conocer* a un Ser con atributos infinitos que ni siquiera las huestes celestiales pueden vanagloriarse de comprender plenamente. Pero todo esto debe consistir en la experiencia personal del *creyente individual*. Dios, que es espíritu, sólo se puede conocer como experiencia espiritual. A los hijos finitos de los mundos materiales, el Hijo divino de los reinos espirituales sólo les puede revelar a Dios como *Padre*. Podéis conocer al Eterno como Padre, pero podéis adorarlo como el Dios de los universos, el Creador infinito de todo lo que existe. ([LU 169:4.13](/es/The_Urantia_Book/169#p4_13))
+
+> «Y los frutos del espíritu divino, producidos en la vida de los mortales nacidos del espíritu y que conocen a Dios, son: servicio amoroso, consagración desinteresada, lealtad valiente, equidad sincera, honradez iluminada, esperanza imperecedera, confianza fiel, ministerio misericordioso, bondad inagotable, tolerancia indulgente y paz duradera» ([LU 193:2.2](/es/The_Urantia_Book/193#p2_2))
+
+> «Los instructores de esta nueva religión ahora están provistos de armas espirituales. Deben partir a la conquista del mundo con una indulgencia inagotable, una buena voluntad incomparable y un amor abundante. Están equipados para dominar el mal con el bien, para vencer el odio con el amor, para destruir el miedo con una fe valiente y viviente en la verdad.» ([LU 194:3.11](/es/The_Urantia_Book/194#p3_11))
+
+> Toda la vida del Maestro estuvo constantemente condicionada por esta fe viviente, esta experiencia religiosa sublime. Esta actitud espiritual dominaba totalmente sus pensamientos y sentimientos, su creencia y su oración, su enseñanza y su predicación. Esta fe personal de un hijo en la certidumbre y la seguridad de la guía y la protección del Padre celestial confirió a su vida excepcional una profunda dotación de realidad espiritual. ([LU 196:0.9](/es/The_Urantia_Book/196#p0_9))
+
+[El propósito de proveer estas citas es el de ayudar a los lectores a adquirir comprensión sobre lo que se quiere decir debido a las dificultades de definir conceptos como “significados y valores espirituales”, siendo éstos los únicos componentes de nuestra existencia mortal que continúan con nosotros en la siguiente etapa de la existencia. Vale la pena remarcar que Jesús tuvo gran dificultad en enseñar a los apóstoles conceptos espirituales, que ellos convertían invariablemente en reglas que debían ser obedecidas.]
+
+
+
+## Enlaces externos
+
+* Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_1/page15.html
+* Traducción de Olga López: https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Sobrevive.pdf
 

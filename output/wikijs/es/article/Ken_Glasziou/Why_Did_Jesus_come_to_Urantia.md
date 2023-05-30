@@ -26,7 +26,7 @@ Al emprender su misión de esta manera, la culminación exitosa significó que s
 
 - Durante toda tu donación en Urantia sólo tienes que preocuparte de una sola cosa, de la comunión ininterrumpida entre tú y tu Padre Paradisiaco; la perfección de esa relación permitirá que el mundo de tu donación, e incluso todo el universo creado por ti, contemplen una revelación nueva y más comprensible de tu Padre y de mi Padre, del Padre Universal de todos. ([LU 120:1.4](/es/The_Urantia_Book/120#p1_4))
 
-Parece que Immanuel y Michael habían consultado juntos bastante extensamente sobre el qué, cómo y por qué del otorgamiento. Emanuel continuó diciendo:
+Parece que Emmanuel y Miguel habían consultado juntos bastante extensamente sobre el qué, cómo y por qué del otorgamiento. Emanuel continuó diciendo:
 
 Tu gran misión a ser realizada y experimentada en la encarnación mortal está abrazada en tu decisión de vivir una vida motivada de todo corazón a hacer la voluntad de tu Padre del Paraíso, para así revelar a Dios, tu Padre, en la carne y especialmente a las criaturas del carne.
 

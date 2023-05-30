@@ -14,7 +14,7 @@ Resumido de los documentos [160](/es/The_Urantia_Book/160) y [161](/es/The_Urant
 
 Rodan se presenta en la Parte 4 de El libro de Urantia como un filósofo griego de Alejandría. Los dos Documentos sobre Rodan y sus discusiones con los apóstoles, Nathaniel y Thomas, se destacan como distintivos del resto de la Parte 4 de tal manera que invitan a especular sobre su autoría y propósito reales.
 
-Contienen un mensaje específicamente adaptado a las necesidades urgentes de las etapas finales de este siglo XX. Algunos creen que se originan en el mismo Michael. Otros piensan que Rodan es un seudónimo, quizás del famoso Filón de Alejandría, quien tuvo una gran influencia en el cristianismo primitivo, y que sus enseñanzas han sido actualizadas por los Intermedios.
+Contienen un mensaje específicamente adaptado a las necesidades urgentes de las etapas finales de este siglo XX. Algunos creen que se originan en el mismo Miguel. Otros piensan que Rodan es un seudónimo, quizás del famoso Filón de Alejandría, quien tuvo una gran influencia en el cristianismo primitivo, y que sus enseñanzas han sido actualizadas por los Intermedios.
 
 Cualquiera que sea la verdad del asunto, hay un mensaje personal para todos nosotros en estos documentos. Lo que sigue es una condensación de su contenido.
 
