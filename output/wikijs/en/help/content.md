@@ -163,9 +163,9 @@ Other book related with Bible as non canonical books can be placed under the sam
 Regarding any other book apart from Bible that is a possible source of *The Urantia Book*, they can be added in a `book` path, with one page for book title, author, copyright and date, one for the index, and one for each chapter. It is important that if books are old and have been scanned, both the scanned images and the text be made available. Images can be added as a collection of images linked in an *Original* section at the bottom of each chapter text.
 
 For example, Matthew Block is a reader that has done a great work finding source material of *The Urantia Book*, as explained in https://urantiabooksources.com/. One of the books he has identified as a possible source of revelators is *The Universe Around Us*, from sir James Jeans, published in 1930. As this book has entered public domain, it can be added to *Urantiapedia*, and links to this book can be like this:
-- https://urantiapedia.org/en/book/The_Universe_Around_Us
-- https://urantiapedia.org/en/book/The_Universe_Around_Us/Index
-- https://urantiapedia.org/en/book/The_Universe_Around_Us/3
+- https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us
+- https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us/Index
+- https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us/3
 
 ### Other books from readers
 

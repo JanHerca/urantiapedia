@@ -163,9 +163,9 @@ Otros libros relacionados con la Biblia y que no son canónicos pueden colocarse
 Con respecto a cualquier otro libro, aparte de la Biblia, que sea una posible fuente de *El libro de Urantia*, se pueden agregar en la ruta `book`, con una página para el título del libro, autor, derechos de autor y fecha, una para el índice y una para cada capítulo. Es importante que si los libros son viejos y han sido escaneados, tanto las imágenes escaneadas como el texto estén disponibles. Las imágenes se pueden agregar como una colección de imágenes vinculadas en una sección *Original* en la parte inferior del texto de cada capítulo.
 
 Por ejemplo, Matthew Block es un lector que ha hecho un gran trabajo encontrando material fuente de *El libro de Urantia*, como se explica en https://urantiabooksources.com/. Uno de los libros que ha identificado como una posible fuente de los reveladores es *The Universe Around Us*, de sir James Jeans, publicado en 1930. Como este libro ha pasado a ser de dominio público, se puede añadir a *Urantiapedia* y los enlaces a este libro pueden ser así:
-- https://urantiapedia.org/en/book/The_Universe_Around_Us
-- https://urantiapedia.org/en/book/The_Universe_Around_Us/Index
-- https://urantiapedia.org/en/book/The_Universe_Around_Us/3
+- https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us
+- https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us/Index
+- https://urantiapedia.org/en/book/Sir_James_Jeans/The_Universe_Around_Us/3
 
 ### Otros libros de lectores
 
@@ -322,7 +322,7 @@ Cada página de la *Urantiapedia* tiene un título y una URL. Los títulos se pu
 	- Otros libros: `book`
 	- Término: `topic`
 	- Índice: `index`
-	- Article: `article`
+	- Artículo: `article`
 	- Imagen: `image`
 	- Presentación: `slides`
 	- Mapa: `map`

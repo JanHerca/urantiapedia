@@ -3,12 +3,14 @@ title: "Prayer"
 description:
 published: true
 date: 2023-01-21T14:02:03.086Z
-tags: Religion, Worship
+tags: Religion, Worship, Innerface International, article
 editor: markdown
 dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
-As long as prayer is sincere and uttered in faith, no matter how ill-advised or impossible of a direct answer, all such prayer never fails to expand our spiritual receptivity. (from 1621)
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+
+As long as prayer is sincere and uttered in faith, no matter how ill-advised or impossible of a direct answer, all such prayer never fails to expand our spiritual receptivity. (from [UB 144:4.2](/en/The_Urantia_Book/144#p4_2))
 
 Thus, anything that expands our spiritual receptivity must be for our good. It is our capacity for spiritual receptivity that determines the spiritual presence of Divinity in our lives, hence our potential for soul growth. The good news is that our receptivity can be increased.
 
