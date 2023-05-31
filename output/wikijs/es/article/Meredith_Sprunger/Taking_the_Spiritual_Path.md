@@ -11,7 +11,7 @@ dateCreated: 2022-9-9T8:13:39Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Meredith Sprunger<br>© 1999 The Brotherhood of Man Library</p>
 
 
-Cómo llevamos a cabo nuestro ministerio de divulgación es más importante que cuándo o dónde presentamos a la gente _El libro de Urantia_. La indiferencia y la oposición social deben enfrentarse con amor, franqueza intelectual y buen humor.
+Cómo llevamos a cabo nuestro ministerio de divulgación es más importante que cuándo o dónde presentamos a la gente _El Libro de Urantia_. La indiferencia y la oposición social deben enfrentarse con amor, franqueza intelectual y buen humor.
 
 Dado que no estamos iniciando una nueva religión, nuestro ministerio público es relativamente benigno. Jesús nos asegura: «Mi yugo es fácil y ligera mi carga». Esta misión lleva la sencillez de la invitación de Felipe: «Ven y ve».
 
@@ -25,7 +25,7 @@ Servir por amor, por un corazón agradecido y por la alegría del acto mismo. El
 
 ## Crecimiento Espiritual Personal
 
-Cierro con el aspecto más importante de nuestro ministerio. Dado que la divulgación es el imperativo principal del movimiento Urantia, tome medidas personales y lleve las buenas nuevas de _El libro de Urantia_ a los rincones más remotos de la tierra. Pero si le falta el talento o el llamado para el ministerio de extensión, hay otro llamado al que todos debemos responder. Este es el llamado amoroso del Padre para que os dediquéis al crecimiento espiritual.
+Cierro con el aspecto más importante de nuestro ministerio. Dado que la divulgación es el imperativo principal del movimiento Urantia, tome medidas personales y lleve las buenas nuevas de _El Libro de Urantia_ a los rincones más remotos de la tierra. Pero si le falta el talento o el llamado para el ministerio de extensión, hay otro llamado al que todos debemos responder. Este es el llamado amoroso del Padre para que os dediquéis al crecimiento espiritual.
 
 Nada en su vida es más importante que su cooperación activa para lograr el dominio del Espíritu sobre su mente y cuerpo, sus actitudes y apetitos, sus emociones y acciones. Esto no se logra meramente deseándolo; exige una participación activa.
 

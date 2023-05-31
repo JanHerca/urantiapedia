@@ -30,7 +30,7 @@ Con todas las posibilidades aparentemente agotadas, lo que quedó fue un univers
 
 Para hacer que esto último funcione, tenemos una reintroducción de la constante cosmológica abandonada hace mucho tiempo por Einstein, que actúa para oponerse al efecto de la gravedad con una fuerza repulsiva en lugar de atractiva, la antigravedad. Suena bastante simple, pero ahora tiene que ajustarse a una precisión de 123 decimales; 124 no es suficiente. Así que no es de extrañar que Einstein se complaciera en dejarlo pasar.
 
-Entre otras cosas, _El Libro de Urantia_ nos dice que, «_la antigravedad es un poder del Espíritu Infinito. . . .Puede anular la gravedad dentro de un marco local. Lo hace mediante el ejercicio de una presencia de fuerza equivalente. Sólo funciona con relación a la gravedad material, y no es una acción de la mente._» ([UB 9:3.3](/en/The_Urantia_Book/9#p3_3)) Me pregunto quién tiene la tarea de equilibrarlo al 123. ¿decimal?
+Entre otras cosas, _El Libro de Urantia_ nos dice que, «_la antigravedad es un poder del Espíritu Infinito... .Puede anular la gravedad dentro de un marco local. Lo hace mediante el ejercicio de una presencia de fuerza equivalente. Sólo funciona con relación a la gravedad material, y no es una acción de la mente._» ([LU 9:3.3](/es/The_Urantia_Book/9#p3_3)) Me pregunto quién tiene la tarea de equilibrarlo al 123. ¿decimal?
 
 Imagen aquí
 

@@ -14,13 +14,13 @@ dateCreated: 2022-9-9T8:13:39Z
 
 El Documento de Urantia 115 nos habla de los «armazones universales».
 
-> «Los intelectos parciales, incompletos y evolutivos se encontrarían impotentes en el universo maestro, serían incapaces de formar el más mínimo modelo de pensamiento racional si no fuera porque todas las mentes, superiores o inferiores, tienen la **capacidad innata de construir un marco universal dentro del cual poder pensar**.» ([UB 115:1.1](/es/El_Libro_de_Urantia/115#p1_1))
+> «Los intelectos parciales, incompletos y evolutivos se encontrarían impotentes en el universo maestro, serían incapaces de formar el más mínimo modelo de pensamiento racional si no fuera porque todas las mentes, superiores o inferiores, tienen la **capacidad innata de construir un marco universal dentro del cual poder pensar**.» ([LU 115:1.1](/es/The_Urantia_Book/115#p1_1))
 
 Algunos psicólogos creen que completamos nuestro «marco universal» antes de llegar a los 10 años de edad y luego permanece con nosotros, casi invariable, por el resto de nuestras vidas.
 
 Nuestro «marco universal» no necesita ser invariable. Podemos cambiarlo si ese es nuestro deseo. La mayoría de nosotros formamos nuestros marcos en ausencia de muchas de las verdades que se nos proporcionan en los Documentos de Urantia. Necesitamos reformular nuestro marco de pensamiento a la luz de este nuevo conocimiento. No se requiere magia ni técnicas especiales. La fe, la determinación y la persistencia cumplirán la tarea.
 
-Los Documentos de Urantia nos dicen que tenemos un Ajustador del Pensamiento, un espíritu residente del Padre Universal. La fe es así, confirmará que es así. Si quisiéramos una seguridad adicional, entonces _El libro de Urantia_ confirma que «nadie es bueno sino Dios» ([LU 8:2.7](/es/The_Urantia_Book/8#p2_7)) y que «toda bondad tiene su origen en el Padre». ([LU 196:3.26](/es/El_Libro_de_Urantia/196#p3_26))
+Los Documentos de Urantia nos dicen que tenemos un Ajustador del Pensamiento, un espíritu residente del Padre Universal. La fe es así, confirmará que es así. Si quisiéramos una seguridad adicional, entonces _El Libro de Urantia_ confirma que «nadie es bueno sino Dios» ([LU 8:2.7](/es/The_Urantia_Book/8#p2_7)) y que «toda bondad tiene su origen en el Padre». ([LU 196:3.26](/es/The_Urantia_Book/196#p3_26))
 
 Así que mantengamos nuestro proceso de pensamiento simple. ¿Alguna vez hemos tenido un buen pensamiento? Si es así, sabemos que vino de Dios. ¿Y de qué otra manera sino a través de nuestro Ajustador del Pensamiento? Así que incorporemos ese conocimiento en nuestro propio «marco universal».
 

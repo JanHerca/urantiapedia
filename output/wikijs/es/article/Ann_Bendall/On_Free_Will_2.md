@@ -10,7 +10,7 @@ dateCreated: 2022-9-9T8:12:18Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ann Bendall<br>© 1999 The Brotherhood of Man Library</p>
 
-El único regalo posible de verdadero valor para Dios es nuestro libre albedrío. ([UB 1:1.2](/en/The_Urantia_Book/1#p1_2)) Dios pide que alineemos nuestra voluntad con la suya. Pero no podemos darle nuestra voluntad o dejar que él tome el control, lo cual sería un proceso deliciosamente simple, si fuera posible. En cambio, Dios pide que seamos reales para el universo alineando nuestra voluntad con la suya, es decir, esforzándonos por elegir lo que es divino en cada decisión que tomamos. Y así, se requieren de nosotros decisiones, decisiones, decisiones y más decisiones.
+El único regalo posible de verdadero valor para Dios es nuestro libre albedrío. ([LU 1:1.2](/es/The_Urantia_Book/1#p1_2)) Dios pide que alineemos nuestra voluntad con la suya. Pero no podemos darle nuestra voluntad o dejar que él tome el control, lo cual sería un proceso deliciosamente simple, si fuera posible. En cambio, Dios pide que seamos reales para el universo alineando nuestra voluntad con la suya, es decir, esforzándonos por elegir lo que es divino en cada decisión que tomamos. Y así, se requieren de nosotros decisiones, decisiones, decisiones y más decisiones.
 
 El ejemplo más perfecto de «hacer la voluntad de Dios» fue la crucifixión. Jesús podría haber evitado una muerte tan ignominiosa. Pudo haberse mudado a Roma con los apóstoles, pero en su corazón «sabía» que esto no era lo que Dios requería de él.
 
@@ -39,9 +39,9 @@ Y así, hasta la noche de su arresto, continuó orando, «_si esta copa no pasa,
 
 2. Luego estaba Judas. Durante años había vivido con Jesús. Durante años Jesús le había enseñado su filosofía de vida y sus creencias. Y Jesús vivió lo que enseñó. ¡Sin embargo, Judas lo consideró un cobarde!
 
-	Judas fue testigo de muchas de las cosas que hizo Jesús, los milagros, el cuidado, la compasión. ¿Cómo podría no entender que Jesús era lo que dijo que era: el Hijo de Dios? Cuando Pedro lo hubo declarado así, Judas se había levantado con los demás en confirmación de lo que Pedro había dicho. Sí, apreciamos que Judas tuvo más de su parte de fallas, pero él quiso que mataran a Jesús, ¡porque consideró que había frustrado sus propios sueños personales! Judas antepuso el amor por el honor mundano a su amor por Jesús y, al final, «_llegó a amar este deseo con todo su corazón_» ([UB 177:4.10](/en/The_Urantia_Book/177#p4_10)) Siendo este el principal deseo de su vida, consideró que tal honor mundano podía asegurarse convirtiéndose en traidor. Y cuando traicionó a Jesús, sabía muy bien que Jesús sería condenado a muerte.
+	Judas fue testigo de muchas de las cosas que hizo Jesús, los milagros, el cuidado, la compasión. ¿Cómo podría no entender que Jesús era lo que dijo que era: el Hijo de Dios? Cuando Pedro lo hubo declarado así, Judas se había levantado con los demás en confirmación de lo que Pedro había dicho. Sí, apreciamos que Judas tuvo más de su parte de fallas, pero él quiso que mataran a Jesús, ¡porque consideró que había frustrado sus propios sueños personales! Judas antepuso el amor por el honor mundano a su amor por Jesús y, al final, «_llegó a amar este deseo con todo su corazón_» ([LU 177:4.10](/es/The_Urantia_Book/177#p4_10)) Siendo este el principal deseo de su vida, consideró que tal honor mundano podía asegurarse convirtiéndose en traidor. Y cuando traicionó a Jesús, sabía muy bien que Jesús sería condenado a muerte.
 
-	Sí, el poder de la voluntad humana es verdaderamente asombroso. Puede declarar como realidad algo que ignora las verdades que conoce. De hecho, Judas evaluó correctamente que Jesús iba a permitir que los gobernantes judíos lo destruyeran, pero dedujo falsamente que esto «_derrotaría al movimiento_» ([UB 177:4.6](/en/The_Urantia_Book/177#p4_6) ) Aunque él «_no podía creer del todo que las grandes obras del Maestro habían sido realizadas por el poder del príncipe de los demonios_», ([LU 177:4.3](/es/The_Urantia_Book/177#p4_3)) todavía estaba preparado para traicionarlo ante aquellos que parecían creerlo.
+	Sí, el poder de la voluntad humana es verdaderamente asombroso. Puede declarar como realidad algo que ignora las verdades que conoce. De hecho, Judas evaluó correctamente que Jesús iba a permitir que los gobernantes judíos lo destruyeran, pero dedujo falsamente que esto «_derrotaría al movimiento_» ([LU 177:4.6](/es/The_Urantia_Book/177#p4_6) ) Aunque él «_no podía creer del todo que las grandes obras del Maestro habían sido realizadas por el poder del príncipe de los demonios_», ([LU 177:4.3](/es/The_Urantia_Book/177#p4_3)) todavía estaba preparado para traicionarlo ante aquellos que parecían creerlo.
 
 	Y se consideró que Judas había pecado.
 
@@ -57,13 +57,13 @@ Y así, hasta la noche de su arresto, continuó orando, «_si esta copa no pasa,
 
 5. Adán y Eva. Se les dio una dirección clara en relación con la cantidad de niños de línea pura que debían producir antes de mezclarse con los lugareños. Por su propia voluntad decidieron ir en contra de las directivas de sus superiores. Los desastrosos resultados de su error fueron instantáneos.
 
-	** Entonces, ¿cómo dedicamos nuestra voluntad, alineamos nuestra voluntad con la de Dios? ** ¡Simple! El libro nos instruye: «_La voluntad de Dios es el camino de Dios, el asociarse con la elección de Dios frente a cualquier alternativa potencial._» ([UB 130:2.7](/en/The_Urantia_Book/130#p2_7))
+	** Entonces, ¿cómo dedicamos nuestra voluntad, alineamos nuestra voluntad con la de Dios? ** ¡Simple! El libro nos instruye: «_La voluntad de Dios es el camino de Dios, el asociarse con la elección de Dios frente a cualquier alternativa potencial._» ([LU 130:2.7](/es/The_Urantia_Book/130#p2_7))
 
-	Para ayudarnos a hacer la voluntad de Dios se nos informa, «_De todos los conocimientos humanos, el que tiene mayor valor es conocer la vida religiosa de Jesús y cómo la vivió._» ([UB 196:1.3](/es/El_libro_de_Urantia/196#p1_3))
+	Para ayudarnos a hacer la voluntad de Dios se nos informa, «_De todos los conocimientos humanos, el que tiene mayor valor es conocer la vida religiosa de Jesús y cómo la vivió._» ([LU 196:1.3](/es/El_libro_de_Urantia/196#p1_3))
 
 	Por lo tanto, si adquirimos ese conocimiento, en cualquier situación de la vida en la que nos encontremos, podemos buscar la ayuda del Espíritu de la Verdad de Jesús para responder a la pregunta: «¿Qué haría Jesús?». Y si se hace con sinceridad, podemos estar seguros de que nuestra respuesta será como la de Dios.
 
-> La puerta de la eternidad sólo se abre en respuesta a la libre elección de los hijos con libre albedrío del Dios del libre albedrío. ([UB 5:6.12](/es/El_Libro_de_Urantia/5#p6_12))
+> La puerta de la eternidad sólo se abre en respuesta a la libre elección de los hijos con libre albedrío del Dios del libre albedrío. ([LU 5:6.12](/es/The_Urantia_Book/5#p6_12))
 
 ## Enlaces externos
 

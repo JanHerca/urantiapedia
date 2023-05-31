@@ -10,7 +10,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 The Brotherhood of Man Library</p>
 
-Most of the basic particles of sub-atomic physics have at least two modes of spin. Looking in their direction of travel, the spin of a particle can be either to the left or to the right. The exception is the neutrino, the tiny particles devoid of electrical potential referred to in the Urantia Papers that escape from a collapsing star ([LU 41:8.3](/es/The_Urantia_Book/41#p8_3)). Neutrinos spin only to the left--and nobody knows why this is so.
+Most of the basic particles of sub-atomic physics have at least two modes of spin. Looking in their direction of travel, the spin of a particle can be either to the left or to the right. The exception is the neutrino, the tiny particles devoid of electrical potential referred to in the Urantia Papers that escape from a collapsing star ([UB 41:8.3](/en/The_Urantia_Book/41#p8_3)). Neutrinos spin only to the left--and nobody knows why this is so.
 
 Black holes are thermodynamic systems having both temperature and entropy. Entropy, besides being the measure of disorganization, is also the measure of information of a system. What is remarkable about a black hole is that its entropy is proportional to the area of its event horizon, the latter being the boundary  of no-escape. Jacob Beckenstein discovered that there is a limit to the amount of information that may be contained inside a given region of space. Guess what? The limit is given by the entropy of the largest black hole that would fit into the region.
 

@@ -16,9 +16,9 @@ A la manera antigua buscas suprimir, obedecer y ajustarte a las reglas de la vid
 
 No lo olvides: es tu fe personal en las preciosas y grandísimas promesas de Dios lo que te asegura ser partícipe de la naturaleza divina. Así, por vuestra fe y la transformación del espíritu, os convertís en realidad en templos de Dios, y su espíritu habita realmente en vosotros.
 
-Si, pues, el espíritu habita en vosotros, ya no sois esclavos de la carne, sino hijos libres y liberados del espíritu. La nueva ley del espíritu os otorga la libertad del dominio propio en lugar de la antigua ley del miedo a la esclavitud propia y la esclavitud de la abnegación. ([UB 143:2.4](/es/El_Libro_de_Urantia/143#p2_4))
+Si, pues, el espíritu habita en vosotros, ya no sois esclavos de la carne, sino hijos libres y liberados del espíritu. La nueva ley del espíritu os otorga la libertad del dominio propio en lugar de la antigua ley del miedo a la esclavitud propia y la esclavitud de la abnegación. ([LU 143:2.4](/es/The_Urantia_Book/143#p2_4))
 
-> Pero no lo dudéis, este mismo reino de los cielos que el Maestro enseñó que existe en el corazón de los creyentes, será proclamado aún a esta iglesia cristiana, así como a todas las demás religiones, razas y naciones de la Tierra —e incluso a cada individuo. ([UB 170:5.8](/es/El_Libro_de_Urantia/170#p5_8))
+> Pero no lo dudéis, este mismo reino de los cielos que el Maestro enseñó que existe en el corazón de los creyentes, será proclamado aún a esta iglesia cristiana, así como a todas las demás religiones, razas y naciones de la Tierra —e incluso a cada individuo. ([LU 170:5.8](/es/The_Urantia_Book/170#p5_8))
 
 ## Enlaces externos
 

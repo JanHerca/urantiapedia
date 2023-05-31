@@ -30,9 +30,9 @@ La moralidad nunca puede ser promovida por la ley o por la fuerza. Es un asunto 
 
 Los actos morales son aquellas actuaciones humanas que se caracterizan por la más alta inteligencia, dirigidas por la discriminación selectiva en la elección de fines superiores así como en la **selección de medios morales para alcanzar estos fines**. Tal conducta es virtuosa.
 
-La virtud suprema, entonces, es elegir de todo corazón hacer la voluntad del Padre en el cielo. ([Documento 16, Secc. 7](/es/El_Libro_de_Urantia/16#_par))
+La virtud suprema, entonces, es elegir de todo corazón hacer la voluntad del Padre en el cielo. ([Documento 16, Secc. 7](/es/The_Urantia_Book/16#_par))
 
-> Los hombres mueren buscando al mismo Dios que habita en ellos. ([UB 159:3.8](/es/El_Libro_de_Urantia/159#p3_8))
+> Los hombres mueren buscando al mismo Dios que habita en ellos. ([LU 159:3.8](/es/The_Urantia_Book/159#p3_8))
 
 ## Enlaces externos
 

@@ -28,11 +28,11 @@ Las citas que me vienen a la mente son: «Nuestra relación con Jesús tiene pri
 
 Si nuestra relación con Jesús debe tener prioridad sobre todo lo demás, y si «no permanecer» significa «sin frutos» y «sin frutos» significa «sin crecimiento del alma», entonces, ¿no corremos el riesgo, quizás la certeza, de la muerte del alma?
 
-¿O hay un «fuera» en la declaración sobre el más mínimo destello de fe que siempre nos da otra oportunidad? Probablemente no, porque si seguimos leyendo llegamos a: «_Pero se espera que vosotros, que habéis sido sacados de las tinieblas y traídos a la luz, creáis de todo corazón; vuestra fe dominará las actitudes combinadas del cuerpo, la mente y el espíritu.._» ([UB 155:6.17](/en/The_Urantia_Book/155#p6_17))
+¿O hay un «fuera» en la declaración sobre el más mínimo destello de fe que siempre nos da otra oportunidad? Probablemente no, porque si seguimos leyendo llegamos a: «_Pero se espera que vosotros, que habéis sido sacados de las tinieblas y traídos a la luz, creáis de todo corazón; vuestra fe dominará las actitudes combinadas del cuerpo, la mente y el espíritu.._» ([LU 155:6.17](/es/The_Urantia_Book/155#p6_17))
 
 Evidentemente Jesús no vivió en ningún tipo de mundo «real» en el que, para él, el fin justificase el uso de medios inmorales. Siempre fue la voluntad del Padre la que tuvo la primera prioridad, con el resultado de que Jesús siempre parece haber sido forzado a tomar el camino difícil. Sin milagros, sin caminar sobre el agua, sin indulto de la cruz.
 
-El camino de Jesús fue el camino de la cruz. Sorprendentemente, fue a su muerte con un gozo supremo en su corazón, aunque experimentaba tristeza exterior. ([LU 180:1.2](/es/El_Libro_de_Urantia/180#p1_2))
+El camino de Jesús fue el camino de la cruz. Sorprendentemente, fue a su muerte con un gozo supremo en su corazón, aunque experimentaba tristeza exterior. ([LU 180:1.2](/es/The_Urantia_Book/180#p1_2))
 
 El corazón humano de Jesús había anhelado encontrar alguna vía legítima de escape de la terrible situación de sufrimiento y dolor que lo enfrentaba. Hubo un millón de formas en las que Jesús pudo haber escapado de la cruz, pero ninguna cayó dentro del requisito del Padre de que la terminación de su otorgamiento en este planeta debería ser «en el curso natural de los acontecimientos».
 
