@@ -623,7 +623,7 @@ Source: https://urantia-book.org/archive/newsletters/innerface/index.html
 | [Do Urantians have a Special Task with Christianity?](/en/article/Do_Urantians_have_a_Special_Task_with_Christianity) | [Link](https://urantia-book.org/archive/newsletters/innerface/vol8_1/page11.html) |               | Church, Religion, Innerface International, article                |
 | [Eternity](/en/article/Ken_Glasziou/Eternity)                                                                         | [Link](https://urantia-book.org/archive/newsletters/innerface/vol8_1/page13.html) | Ken Glasziou  | The Urantia Book—Purpose, Innerface International, article        |
 | [The Crucifixion—Why??](/en/article/The_Crucifixion_Why)                                                              | [Link](https://urantia-book.org/archive/newsletters/innerface/vol8_1/page14.html) |               | Purpose, Jesus, Jesus teachings, Innerface International, article |
-| [Physics is a Religion!](/en/article/Lewis_Epstein/Physics_is_a_Religion)                                             | [Link](https://urantia-book.org/archive/newsletters/innerface/vol8_1/page16.html) | Lewis Epstein | Religion, Innerface International, article                        |
+| [Physics is a Religion!](/en/article/Ken_Glasziou/Physics_is_a_Religion)                                             | [Link](https://urantia-book.org/archive/newsletters/innerface/vol8_1/page16.html) | Ken Glasziou | Physics, Religion, Innerface International, article                        |
 
 ### Volume 8 - No. 2
 
