@@ -14,7 +14,7 @@ dateCreated: 2022-09-26T04:52:13.783Z
 
 <figure class="image urantiapedia">
 <img src="/image/article/Ken_Glasziou/Continental_Drift_3_Secondary_Effects/Subduction-en.jpg">
-<figcaption><em>Continental drift. Oceanic plate subduction and concurrent mountain building at the fringe of a continental plate (model).</em> <a href="https://commons.wikimedia.org/wiki/File:Subduction-en.svg">Wikimeia Commons</a> </figcaption>
+<figcaption><em>Continental drift. Oceanic plate subduction and concurrent mountain building at the fringe of a continental plate (model).</em> <a href="https://commons.wikimedia.org/wiki/File:Subduction-en.svg">Wikimedia Commons</a> </figcaption>
 </figure>
 
 <figure class="image urantiapedia">
