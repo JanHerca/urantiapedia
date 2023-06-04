@@ -1,5 +1,5 @@
 ---
-title: "Coherencia en El libro de Urantia"
+title: "Coherencia en El Libro de Urantia"
 description: 
 published: true
 date: 2022-9-8T14:13:8Z

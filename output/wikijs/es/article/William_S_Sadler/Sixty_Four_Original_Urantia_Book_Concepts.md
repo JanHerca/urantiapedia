@@ -1,5 +1,5 @@
 ---
-title: "Sesenta y cuatro conceptos originales de El libro de Urantia"
+title: "Sesenta y cuatro conceptos originales de El Libro de Urantia"
 description: 
 published: true
 date: 2023-02-19T14:02:03.086Z

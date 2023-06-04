@@ -250,7 +250,7 @@ The power prerogatives of the Almighty derive from the Creator Sons via the Mast
 
 We are reminded that the Father is actual in the Son, Spirit, and Paradise; that he is potential in the three Absolutes. The Supreme is both, he is actual and potential, and is expressive of both in the total finite sense. [UB 117:1.9](/en/The_Urantia_Book/117#p1_9) The impersonal, and not-personal, aspects of cosmic reality are in process of being unified with the spirit and personal aspects of reality in the experiential deities. [UB 106:5.2](/en/The_Urantia_Book/106#p5_2)
 
-_A new relationship between Pattern and Person._ The unification of the other-than-divinity aspects of the cosmos with the divinity values of deity appears to result in the establishment of a new relationship between Pattern and Person. This is a transaction that is taking place in the unification of the experiential deities and trinities. [LU 106:8.10-11](/es/The_Urantia_Book/106#p8_10) Consider the following statements concerning Pattern and Person:
+_A new relationship between Pattern and Person._ The unification of the other-than-divinity aspects of the cosmos with the divinity values of deity appears to result in the establishment of a new relationship between Pattern and Person. This is a transaction that is taking place in the unification of the experiential deities and trinities. [UB 106:8.10-11](/en/The_Urantia_Book/106#p8_10) Consider the following statements concerning Pattern and Person:
 
 > [UB 118:9.7](/en/The_Urantia_Book/118#p9_7) The Conjoint Actor correlates the Paradise mechanism with the Eternal Son.
 > 

@@ -1,5 +1,5 @@
 ---
-title: "La profecía y El libro de Urantia"
+title: "La profecía y El Libro de Urantia"
 description: 
 published: true
 date: 2023-02-13T14:02:03.086Z

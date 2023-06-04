@@ -1,5 +1,5 @@
 ---
-title: "El Reino y lo Supremo: ideas para simplificar la comprensión de El libro de Urantia"
+title: "El Reino y lo Supremo: ideas para simplificar la comprensión de _El Libro de Urantia_"
 description: 
 published: true
 date: 2023-02-13T14:02:03.086Z

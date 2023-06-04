@@ -1,5 +1,5 @@
 ---
-title: "Aristóteles, la lógica difusa y El libro de Urantia"
+title: "Aristóteles, la lógica difusa y El Libro de Urantia"
 description: 
 published: true
 date: 2022-9-9T8:13:38Z

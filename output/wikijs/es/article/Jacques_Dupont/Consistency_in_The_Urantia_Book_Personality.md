@@ -1,5 +1,5 @@
 ---
-title: "Coherencia en El libro de Urantia: personalidad"
+title: "Coherencia en El Libro de Urantia: personalidad"
 description: 
 published: true
 date: 2022-9-9T8:13:38Z

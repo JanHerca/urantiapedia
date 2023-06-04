@@ -1,5 +1,5 @@
 ---
-title: ¿Tiempo para más cambios? Símbolos, cultos y El libro de Urantia
+title: ¿Tiempo para más cambios? Símbolos, cultos y El Libro de Urantia
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z

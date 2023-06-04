@@ -12,7 +12,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 > «Si la masa de la materia se pudiera aumentar hasta que la masa de un electrón equivaliera a una décima parte de una onza [2,8 gramos], y si su tamaño aumentara proporcionalmente, el volumen de dicho electrón sería tan grande como el de la Tierra». ([LU 42:6](/es/The_Urantia_Book/42#p6))
 
-A menudo me he preguntado cuántos lectores de El libro de Urantia se tomaron la molestia de calcular las sumas y luego dejaron la respuesta a un lado desconcertados. Porque no fue hasta alrededor de 1990 que esta declaración comenzó a tener algún sentido.
+A menudo me he preguntado cuántos lectores de _El Libro de Urantia_ se tomaron la molestia de calcular las sumas y luego dejaron la respuesta a un lado desconcertados. Porque no fue hasta alrededor de 1990 que esta declaración comenzó a tener algún sentido.
 
 Si se toma la masa del electrón como 9.1 x 10^-28^ gramos, 1/10^th^ de onza como 2.8 gramos y el radio de la tierra como 6.4 x 10^6^ metros, entonces el radio de un electrón se calcula en 2 x 10^-21^ metros.
 

@@ -10,7 +10,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Richard Guevara<br>© 2009 The Urantia Book Fellowship</p>
 
-El tercer círculo cósmico es importante para los lectores de El libro de Urantia. Así como se usa una piedra de toque para determinar la pureza del oro, este círculo de logros encierra una mística similar para los lectores del Libro de Urantia. Es en este círculo donde los ascendentes reciben beneficios adicionales. Es en este círculo, alcanzable mientras aún está en la carne, que la mayor capacidad espiritual comienza a manifestarse.
+El tercer círculo cósmico es importante para los lectores de _El Libro de Urantia_. Así como se usa una piedra de toque para determinar la pureza del oro, este círculo de logros encierra una mística similar para los lectores del Libro de Urantia. Es en este círculo donde los ascendentes reciben beneficios adicionales. Es en este círculo, alcanzable mientras aún está en la carne, que la mayor capacidad espiritual comienza a manifestarse.
 
 Si bien este no es un documento sobre los siete círculos cósmicos de logro, unas palabras son necesarias para saber cuáles son. Todo progreso espiritual es individual. De _El Libro de Urantia_:
 

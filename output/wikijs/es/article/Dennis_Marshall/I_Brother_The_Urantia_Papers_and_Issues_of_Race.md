@@ -68,7 +68,7 @@ A la luz de lo anterior, invocar a su raza para establecer su superioridad indiv
 
 NINGUN INDIVIDUO puede ser considerado SUPERIOR o INFERIOR basado únicamente en Raza  
 
-## ¿Es racista El libro de Urantia?
+## ¿Es racista El Libro de Urantia?
 
 La reacción de algunos es pronunciar _El Libro de Urantia_ como racista porque usa términos como superior e inferior cuando habla de raza. Pero _El Libro de Urantia_ no es racista, todo lo contrario, aunque pretende una multiplicidad de habilidades diferenciadas para cada raza, establece muy claramente que todas las razas tienen valores particulares que están destinados a ser biológicamente compartidos con todas las razas una vez que cada raza individual se purgó a sí misma. de sus miembros menos dignos. Se suponía que esto se lograría hace 39.000 años, pero no fue así debido al incumplimiento anterior de Dalmacia. Nos dejó en la difícil posición de tratar de remediar nuestra situación racial actual de manera justa, ética y moral sin mucha orientación.
 

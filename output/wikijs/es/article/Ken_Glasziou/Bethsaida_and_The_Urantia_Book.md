@@ -1,5 +1,5 @@
 ---
-title: "Betsaida y El libro de Urantia"
+title: "Betsaida y El Libro de Urantia"
 description: 
 published: true
 date: 2022-9-9T8:13:38Z
@@ -51,7 +51,7 @@ Siguieron los incidentes de los panes y los peces y el intento de las multitudes
 
 Se desató una tormenta mientras los apóstoles regresaban a Betsaida que les impidió llegar a su destino antes de que oscureciera. Como resultado, anclaron su bote en alta mar «_cerca de la casa de Zebedeo_» y durmieron hasta el mediodía del día siguiente. ([LU 152:5.1](/es/The_Urantia_Book/152#p5_1)) Esto puede explicar parte de la aparente confusión generada por los relatos de los Evangelios que los llevan tanto a Genesaret como a Betsaida (ver el siguiente artículo). _El Libro de Urantia_ dice que poco después de la medianoche, Jesús, en compañía de Mark lad, caminó "_alrededor del lago y cruzó el río, de regreso a Betsaida_" llegando allí a tiempo para encontrarse con Andrew, quien fue el primero en despertar y bajar a tierra. ([LU 152:5.1](/es/The_Urantia_Book/152#p5_1))
 
-Nuestros lectores ahora pueden correlacionar los resultados de la investigación bíblica y arqueológica moderna con el relato de estos eventos en El libro de Urantia.
+Nuestros lectores ahora pueden correlacionar los resultados de la investigación bíblica y arqueológica moderna con el relato de estos eventos en _El Libro de Urantia_.
 
 ## Enlaces externos
 

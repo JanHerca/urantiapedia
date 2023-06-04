@@ -26,7 +26,7 @@ Conocí a John solo por correspondencia y por su contribución a Innerface Inter
 
 «Hay mucha confusión en el movimiento Urantia sobre el concepto de la religión verdadera, que es algo individual, y la religión organizada, que es una actividad grupal».
 
-«No hay forma de avanzar si los lectores de El libro de Urantia no pueden reconocer que estas dos actividades no se excluyen mutuamente, que ambas son esenciales».
+«No hay forma de avanzar si los lectores de _El Libro de Urantia_ no pueden reconocer que estas dos actividades no se excluyen mutuamente, que ambas son esenciales».
 
 «En _El Libro de Urantia_ hay una cita que dice: ‘La verdadera religión es la actuación de un alma individual en sus relaciones conscientes con el Creador; la religión organizada es el intento del hombre por socializar la adoración de los practicantes individuales de la religión... ’ ([LU 143:7.2](/es/The_Urantia_Book/143#p7_2))»
 
@@ -38,7 +38,7 @@ Conocí a John solo por correspondencia y por su contribución a Innerface Inter
 
 «**En la etapa actual de las cosas, un enfoque de este tipo asustará a la mayoría de los nuevos lectores potenciales**».
 
-«Es probable que ningún observador externo quede impresionado por el desempeño individual o colectivo de la mayoría de los lectores actuales de El libro de Urantia. Actualmente tenemos los 'ir más rápidos' y los 'ir más lentos' (las dos facciones originales), los 'pro-UFers', los 'pro-Fellowshipers', los 'channelers', el 'Curso en Milagros', los 'fumadores de marihuana' y 'promovamos a los que crecen espiritualmente por dentro'».
+«Es probable que ningún observador externo quede impresionado por el desempeño individual o colectivo de la mayoría de los lectores actuales de _El Libro de Urantia_. Actualmente tenemos los 'ir más rápidos' y los 'ir más lentos' (las dos facciones originales), los 'pro-UFers', los 'pro-Fellowshipers', los 'channelers', el 'Curso en Milagros', los 'fumadores de marihuana' y 'promovamos a los que crecen espiritualmente por dentro'».
 
 «Probablemente los dos más divisivos son los canalizadores 'pro-UFers' y 'Teaching Mission'—pero por razones diferentes. Los primeros son intolerantes con la gran mayoría de los lectores y las opiniones que tienen, mientras que es la intolerancia de la mayoría de los lectores lo que causa la división creada por los canalizadores dogmáticos y vocales de la 'Misión de Enseñanza'».
 

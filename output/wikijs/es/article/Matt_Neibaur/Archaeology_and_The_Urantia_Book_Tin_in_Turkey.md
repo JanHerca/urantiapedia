@@ -1,5 +1,5 @@
 ---
-title: "La arqueología y El libro de Urantia. El estaño en Turquía"
+title: "La arqueología y El Libro de Urantia. El estaño en Turquía"
 description: 
 published: true
 date: 2022-9-9T8:12:17Z
@@ -20,7 +20,7 @@ A pesar de la importancia del bronce y el papel que jugó el estaño en su produ
 
 Aunque los investigadores habían encontrado mineral de estaño en Kestel, algunos escépticos pensaron que no había suficiente estaño para demostrar que la mina era en realidad una mina de estaño. Trabajando el verano pasado con expertos en estaño de Cornualles en el suroeste de Inglaterra, un área famosa por sus depósitos de estaño, Yener descubrió desechos industriales en el pueblo minero de Goltepe (cerca de Tarsus) que proporcionaron pistas sobre cómo probablemente se fundió el estaño. En lugar de evidencia de solo estaño de bajo grado, en Goltepe se descubrió una tonelada de crisoles con escoria de estaño con un contenido de estaño del 30 por ciento. Esto establece sin lugar a dudas que se estaba produciendo estaño-metal, y fue la motivación para la industria minera y de fundición.
 
-[Entonces, ¿los autores de El libro de Urantia han hecho otra suposición afortunada? ¿O son lo que dicen que son? Tu elección. ed.]
+[Entonces, ¿los autores de _El Libro de Urantia_ han hecho otra suposición afortunada? ¿O son lo que dicen que son? Tu elección. ed.]
 
 ## Enlaces externos
 

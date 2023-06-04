@@ -15,7 +15,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 > «... una gran parte de vuestra vida pasada y de sus recuerdos, **que no tienen un significado espiritual ni un valor morontial, perecerán con el cerebro material**; muchas experiencias materiales desaparecerán como antiguos andamiajes que os sirvieron de puente para pasar al nivel morontial, pero que ya no tienen utilidad en el universo» ([LU 112:5.22](/es/The_Urantia_Book/112#p5_22))
 
-Solo lo que tiene significado y valor espiritual sobrevive con nuestra alma. Entonces, ¿qué tiene valor espiritual? Muchas horas de búsqueda en El libro de Urantia pueden no encontrar ni siquiera una pista. La dificultad es que palabras como significado y valor no tienen una definición clara y precisa y, para casi todas las ocurrencias concebibles, deben considerarse en términos relativos.
+Solo lo que tiene significado y valor espiritual sobrevive con nuestra alma. Entonces, ¿qué tiene valor espiritual? Muchas horas de búsqueda en _El Libro de Urantia_ pueden no encontrar ni siquiera una pista. La dificultad es que palabras como significado y valor no tienen una definición clara y precisa y, para casi todas las ocurrencias concebibles, deben considerarse en términos relativos.
 
 El problema fue destacado por un obispo que, al luchar por definir la moralidad, se dio cuenta de que todos los actos morales son situacionales: suceden en una situación particular que nunca se repetirá con todos los detalles de la situación exactamente iguales. Por lo tanto, ni siquiera es posible una definición precisa.
 

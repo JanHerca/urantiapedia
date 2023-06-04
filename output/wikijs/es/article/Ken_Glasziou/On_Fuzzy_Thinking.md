@@ -10,7 +10,7 @@ dateCreated: 2022-9-9T8:13:38Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
 
-[nota: El artículo anterior, [«Aristóteles, la lógica difusa y El libro de Urantia»](/es/article/Ken_Glasziou/Aristotle_Fuzzy_Logic_and_The_Urantia_Book) presenta al lector la lógica difusa.]
+[nota: El artículo anterior, [«Aristóteles, la lógica difusa y _El Libro de Urantia_»](/es/article/Ken_Glasziou/Aristotle_Fuzzy_Logic_and_The_Urantia_Book) presenta al lector la lógica difusa.]
 
 En el número anterior de Innerface revisamos el trabajo de David Bohm sobre la teoría cuántica. Bohm creía que la función de onda de Schrödinger realmente determina un potencial cuántico que representa información activa que da forma al movimiento de partículas que se mueven bajo su propia energía. El físico John Bell es el creador bien conocido del teorema de Bell, un paso ‘revolucionario’ que proporcionó la base para la prueba empírica de los efectos no locales a nivel cuántico. Bell afirmó que los artículos de Bohm (1952) fueron una revelación que lo ayudó a comprender las implicaciones de la teoría cuántica. En una revisión reciente, David Albert dijo que la teoría de Bohm explica todos los comportamientos de aspecto insondable de los electrones tan bien como la interpretación de Copenhague (Bohr).
 

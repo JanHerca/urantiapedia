@@ -38,7 +38,7 @@ Si los astrónomos que estudian el sol están contentos, ¡entonces los cosmólo
 
 Parece que los rumores sobre la muerte de la teoría del Big Bang son muy exagerados. Mientras los cosmólogos puedan encontrar ideas para sustentar el Big Bang e ignoren cualquier evidencia que sugiera otros orígenes para el universo, será difícil convencer a algunas personas de que la evolución intencional del universo descrita en _El Libro de Urantia_ es válida. Pero podemos apreciar el problema de los cosmólogos; si admitieran que el propósito opera en el universo, tendrían que abandonar la idea de que sólo hay causas accidentales para las cosas. ¡Dios sabe, sería algo terrible para los cosmólogos admitir que hay algunos misterios fundamentales que no pueden explicar! ¿Cómo podrían volver a tener credibilidad después de haber sido tan humildes? Tal vez si no hubieran afirmado que podrían llegar a una teoría que lo explica todo, no tendrían que caer tan lejos cuando fallan. Pero entonces, realmente hay una teoría de todo, ¿no es así? Cuando los cosmólogos busquen la verdad hasta su fuente última, encontrarán la Primera Fuente y Centro. Entonces serán verdaderos cosmólogos.
 
-## ¿Están utilizando los geólogos El libro de Urantia como obra de referencia?
+## ¿Están utilizando los geólogos El Libro de Urantia como obra de referencia?
 
 Cuando se recibieron los Documentos de Urantia a mediados de los años treinta, el concepto de deriva continental fue rechazado por prácticamente todos los geólogos de EE.UU. Esto permaneció así hasta fines del período de 1950. Wegener había propuesto la teoría de la deriva continental en la que un supercontinente, Pangea, se rompió y los continentes se separaron hace unos 200 millones de años.
 

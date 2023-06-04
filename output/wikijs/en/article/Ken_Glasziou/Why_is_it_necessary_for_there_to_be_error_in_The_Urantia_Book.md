@@ -114,7 +114,7 @@ But according to modern science the reality was entirely different. Colored sedi
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Ken_Glasziou/Why_is_it_necessary_for_there_to_be_error_in_The_Urantia_Book/charniodiscus.jpg">
-<figcaption><em><b>Charniodiscus</b>. This leaf-like organism had a "holdfast" at its base to anchor it to the sea bed. The leaf-like structure grew to about 10 feet in length and may have housed tiny filter feeding polyps from which it gained its nutriments.</em></figcaption>
+<figcaption><em><b>Charniodiscus</b>. This leaf-like organism had a “holdfast” at its base to anchor it to the sea bed. The leaf-like structure grew to about 10 feet in length and may have housed tiny filter feeding polyps from which it gained its nutriments.</em></figcaption>
 </figure>
 
 Another group of organisms are called the Ediacarans, named after the mountain range in South Australia where their fossil remains were first found. In the fossilized crawling trails of sea-bottom-dwelling worm-like creatures that date back close to 1 billion years ago, the Ediacarans provide the first unequivocal evidence of more highly developed life forms than the bacteria. All Ediacarans were sea dwelling forms. One type, Charniodiscus had a holdfast to anchor it to the sea bed and a leaf-like structure that grew to about 10 feet in length. Others used dwelling tubes composed of calcium carbonate (lime) and were most probably sessile, filter feeding worm-like creatures. Though very primitive, some of these animals are now believed to have possessed muscles, internal organs, and head and tail regions.

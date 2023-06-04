@@ -1,5 +1,5 @@
 ---
-title: "El libro de Urantia, conceptos humanos y validación reveladora"
+title: "El Libro de Urantia, conceptos humanos y validación reveladora"
 description: 
 published: true
 date: 2023-02-14T14:02:03.086Z

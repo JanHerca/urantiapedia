@@ -1,5 +1,5 @@
 ---
-title: "¿Es El libro de Urantia un texto sagrado?"
+title: "¿Es El Libro de Urantia un texto sagrado?"
 description: 
 published: true
 date: 2023-02-19T14:02:03.086Z
@@ -10,7 +10,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 David Kantor<br>© 2015 The Urantia Book Fellowship</p>
 
-_Nota del autor: este ensayo proporciona una sinopsis de los conceptos presentados en los libros enumerados en la bibliografía adjunta, intentando relacionarlos con el contexto en evolución dentro del cual El libro de Urantia se lee, interpreta y utiliza como objeto social._
+_Nota del autor: este ensayo proporciona una sinopsis de los conceptos presentados en los libros enumerados en la bibliografía adjunta, intentando relacionarlos con el contexto en evolución dentro del cual _El Libro de Urantia_ se lee, interpreta y utiliza como objeto social._
 
 En lo profundo de un bosque prehistórico, cae la noche. Un círculo de piedras sagradas contiene un pequeño fuego. Cerca, un viejo chamán arrugado canta suavemente mientras toca un pequeño tambor de piel. De vez en cuando rocía una ofrenda de hojas de tabaco sobre las llamas. En el momento en que la luna llena se ve por primera vez entre los árboles, saca del fuego el omóplato de un castor.
 
@@ -20,7 +20,7 @@ Me siento junto a una pequeña lámpara en mi estudio. En mis manos tengo una co
 
 Entre el chamán y yo mucho es lo mismo; cada uno de nosotros busca la guía de lo que está más allá de nuestras limitadas percepciones humanas, aceptando colecciones de símbolos abstractos como revelación.
 
-¿Son estos textos sagrados que estamos leyendo el chamán y yo? Empleamos colecciones de símbolos para conectarnos con un cosmos más grande. Nos involucramos en la misma actividad que innumerables otros seres humanos que leen diariamente la _Biblia_, la _Torá_, el _Rig-Veda_, el _Corán_, el _Mahabharata_, el _Avesta_, o cualquiera de las innumerables otras colecciones de escritos. ¿El libro de Urantia pertenece a esta categoría de textos? ¿O trasciende esta categoría? ¿Calificarlo como «_texto sagrado_» lo abarata?
+¿Son estos textos sagrados que estamos leyendo el chamán y yo? Empleamos colecciones de símbolos para conectarnos con un cosmos más grande. Nos involucramos en la misma actividad que innumerables otros seres humanos que leen diariamente la _Biblia_, la _Torá_, el _Rig-Veda_, el _Corán_, el _Mahabharata_, el _Avesta_, o cualquiera de las innumerables otras colecciones de escritos. ¿_El Libro de Urantia_ pertenece a esta categoría de textos? ¿O trasciende esta categoría? ¿Calificarlo como «_texto sagrado_» lo abarata?
 
 ## Alfabetización y rehabilitación de un mundo aislado
 
@@ -188,7 +188,7 @@ Pero, ¿en qué momento comenzamos a considerar que una colección de escritos e
 
 Un paso implica que los miembros de un grupo social crean que el texto es una transcripción de la palabra real de Dios o de una persona divinamente inspirada. Otro paso es la incorporación del texto a la vida de adoración de una comunidad. A veces se cree que las palabras del texto son las palabras reales de Dios.
 
-En nuestra comunidad de lectores de El libro de Urantia, a veces parece haber habido una obsesión por evitar el establecimiento de cualquier cosa que se pareciera a una religión, ¡casi hasta el punto de convertir esta evitación en el ritual central de una nueva religión! Pero a pesar de esta renuencia, _El Libro de Urantia_ puede estar bien encaminado para convertirse en lo que clásicamente se considera un «_texto sagrado_».
+En nuestra comunidad de lectores de _El Libro de Urantia_, a veces parece haber habido una obsesión por evitar el establecimiento de cualquier cosa que se pareciera a una religión, ¡casi hasta el punto de convertir esta evitación en el ritual central de una nueva religión! Pero a pesar de esta renuencia, _El Libro de Urantia_ puede estar bien encaminado para convertirse en lo que clásicamente se considera un «_texto sagrado_».
 
 El factor principal en esta transición es el desarrollo continuo de actividades sociales centradas en el texto. Leer en voz alta en un grupo de estudio, leer un pasaje antes de una reunión del Consejo General, participar en discusiones sobre el significado de un pasaje, hacer un momento de silencio antes y después de un grupo de estudio, recordar historias sobre Jesús durante una cena en memoria (por no decir nada de asociar el ritual de la cena conmemorativa misma con el texto), cada uno de ellos es una actividad social centrada en el texto. En nuestros grupos de estudio y conferencias, el texto impreso es solo una parte de la experiencia total.
 

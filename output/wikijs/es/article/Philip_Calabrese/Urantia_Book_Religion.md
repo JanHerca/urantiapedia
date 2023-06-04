@@ -1,5 +1,5 @@
 ---
-title: "La inevitable (y necesaria) ‘religión organizada’ basada en El libro de Urantia"
+title: "La inevitable (y necesaria) ‘religión organizada’ basada en El Libro de Urantia"
 description: 
 published: true
 date: 2023-02-19T14:02:03.086Z

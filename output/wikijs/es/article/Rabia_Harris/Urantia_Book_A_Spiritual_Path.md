@@ -1,5 +1,5 @@
 ---
-title: "El libro de Urantia, un camino espiritual"
+title: "El Libro de Urantia, un camino espiritual"
 description: 
 published: true
 date: 2023-02-19T14:02:03.086Z
@@ -38,13 +38,13 @@ Según el libro, tanto la adoración como el servicio son necesarios para la vid
 
 ## Entonces, ¿cómo nos llamamos ahora?
 
-Cuando los estudiantes de El libro de Urantia se reúnan como uno en espíritu, ¿cuál sería el nombre que mejor describe a este colectivo? El término ‘lectores del Libro de Urantia’ suena como miembros de un club de lectura. De manera similar, a los cristianos no se les llama ‘lectores de la Biblia’. La designación, ‘Jesusonianos’ parece más deseable, denotando no una organización formal sino el colectivo espiritual que naturalmente se une cuando uno cree y sigue las enseñanzas originales de Jesús tal como se revelan en _El Libro de Urantia_.
+Cuando los estudiantes de _El Libro de Urantia_ se reúnan como uno en espíritu, ¿cuál sería el nombre que mejor describe a este colectivo? El término ‘lectores del Libro de Urantia’ suena como miembros de un club de lectura. De manera similar, a los cristianos no se les llama ‘lectores de la Biblia’. La designación, ‘Jesusonianos’ parece más deseable, denotando no una organización formal sino el colectivo espiritual que naturalmente se une cuando uno cree y sigue las enseñanzas originales de Jesús tal como se revelan en _El Libro de Urantia_.
 
 Lo que Jesús llamó el ‘Reino del Padre’ es en realidad la vasta hermandad espiritual de todos los mortales habitados por espíritus que eligen hacer la voluntad del Padre, no la ‘iglesia’ humana como fue concebida por el Apóstol Pablo. El ‘Reino de los Cielos’ suena arcaico en un mundo moderno donde las monarquías gobernantes casi han desaparecido y los ideales de democracia e igualdad son valorados, aunque no siempre practicados. Independientemente de nuestras afiliaciones religiosas, todos somos parte de ese gran ‘colectivo cósmico’, que se experimenta espiritualmente. No se requiere membresía formal. En el término ‘hermandad universal’, la palabra ‘hermandad’ es específica de género y, por lo tanto, ya no es ‘políticamente correcta’. ¿Por qué no decir, ‘Unidad Universal?’ El Reino podría convertirse en la ‘Familia del Padre’, ya que todos somos hermanos y hermanas, sus hijos, lo que implica una relación aún más estrecha que la palabra ‘reino’, que denota una forma de gobierno humano.
 
 Tal vez sea hora de comenzar a usar nuevas palabras para nuestras conexiones espirituales. La forma en que lo hacemos es simplemente comenzar a usarlos en nuestro lenguaje cotidiano. Un libro que se escribió por primera vez en inglés en la década de 1930 sigue siendo una poderosa revelación, llena de profundas verdades. Se sugiere, por lo tanto, que el lenguaje se modifique verbalmente para adaptarse a las sensibilidades y sensibilidades modernas.
 
-> Rabia Harris ha sido estudiante de _El Libro de Urantia_ durante veinte años. Ella participa en un grupo de estudio local y también sirve como contacto para su región. Rabia también es la coordinadora de retiros del «Retiro del Corazón de las Montañas», que se reúne cada agosto en las montañas del oeste de Carolina del Norte, al que asisten lectores de El libro de Urantia del sureste de los Estados Unidos. Ella reside en Mars Hill, NC, cerca de Asheville y puede ser contactada en: rabiaharris@yahoo.com
+> Rabia Harris ha sido estudiante de _El Libro de Urantia_ durante veinte años. Ella participa en un grupo de estudio local y también sirve como contacto para su región. Rabia también es la coordinadora de retiros del «Retiro del Corazón de las Montañas», que se reúne cada agosto en las montañas del oeste de Carolina del Norte, al que asisten lectores de _El Libro de Urantia_ del sureste de los Estados Unidos. Ella reside en Mars Hill, NC, cerca de Asheville y puede ser contactada en: rabiaharris@yahoo.com
 {.is-info}
 
 ## Referencias

@@ -10,11 +10,11 @@ dateCreated: 2022-9-9T8:13:39Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
 
-> “La moralidad es el terreno preexistente esencial de la conciencia personal de Dios, la comprensión personal de la presencia interior del Ajustador, pero esta moralidad no es el origen de la experiencia religiosa ni de la perspicacia espiritual resultante. La naturaleza moral es superanimal pero subespiritual. La moralidad equivale a reconocer el deber, a comprender la existencia del bien y del mal. La zona moral se interpone entre el tipo de mente animal y el tipo de mente humana, al igual que la morontia desempeña su función entre las esferas materiales y las esferas espirituales que alcanza la personalidad”. ([UB 196:3.25](/es/El_Libro_de_Urantia/196#p3_25))
+> «La moralidad es el terreno preexistente esencial de la conciencia personal de Dios, la comprensión personal de la presencia interior del Ajustador, pero esta moralidad no es el origen de la experiencia religiosa ni de la perspicacia espiritual resultante. La naturaleza moral es superanimal pero subespiritual. La moralidad equivale a reconocer el deber, a comprender la existencia del bien y del mal. La zona moral se interpone entre el tipo de mente animal y el tipo de mente humana, al igual que la morontia desempeña su función entre las esferas materiales y las esferas espirituales que alcanza la personalidad». ([LU 196:3.25](/es/The_Urantia_Book/196#p3_25))
 
 La primera parte de la primera oración necesita mucho pensamiento cuidadoso:
 
-“La moralidad es el terreno preexistente ESENCIAL de la conciencia personal de Dios, la comprensión personal de la presencia interior del Ajustador. . . ”
+«La moralidad es el terreno preexistente ESENCIAL de la conciencia personal de Dios, la comprensión personal de la presencia interior del Ajustador... »
 
 La implicación directa es que la falta de moralidad nos impedirá alcanzar la conciencia personal de Dios y cualquier relación significativa con nuestro Ajustador.
 
@@ -28,13 +28,13 @@ Podemos, de hecho debemos, crecer progresivamente para ser más y más morales. 
 
 El paso atrás que engendra la inmoralidad parecería separarnos de la conciencia de Dios y de la realización de la presencia del Ajustador. Es un rechazo de lo que sabemos que es correcto porque nuestro Ajustador nos dio ese conocimiento. Por lo tanto, equivale a un rechazo de Dios, porque el Ajustador es el espíritu residente de Dios.
 
-¿Podemos ser parcialmente morales, parcialmente conscientes de Dios? Cumplir parcialmente con lo que ya sabemos que es moral es un resultado de “hágase mi voluntad”, en lugar de “hágase tu voluntad”. Y se nos informa que el Dios de adoración reclama toda nuestra lealtad o ninguna. ([UB 102:6.1](/es/El_Libro_de_Urantia/102#p6_1))
+¿Podemos ser parcialmente morales, parcialmente conscientes de Dios? Cumplir parcialmente con lo que ya sabemos que es moral es un resultado de «hágase mi voluntad», en lugar de «hágase tu voluntad». Y se nos informa que el Dios de adoración reclama toda nuestra lealtad o ninguna. ([LU 102:6.1](/es/The_Urantia_Book/102#p6_1))
 
-entonces cual es la alternativa? En algún momento de nuestras vidas, la mayoría de nosotros nos habremos engañado a nosotros mismos y nos volveremos “parcialmente morales” (eso es inmoral) cuando nos convenía. Y aunque podamos generar explicaciones bastante ingeniosas para engañarnos a nosotros mismos acerca de por qué teníamos razón, la única realidad disponible es la antigua que ya pasó de moda: ¡arrepentirse y ser salvo!
+entonces cual es la alternativa? En algún momento de nuestras vidas, la mayoría de nosotros nos habremos engañado a nosotros mismos y nos volveremos «parcialmente morales» (eso es inmoral) cuando nos convenía. Y aunque podamos generar explicaciones bastante ingeniosas para engañarnos a nosotros mismos acerca de por qué teníamos razón, la única realidad disponible es la antigua que ya pasó de moda: ¡arrepentirse y ser salvo!
 
-El arrepentimiento a veces requiere algo más que un “Dios arrepentido”. Sabremos cuando hayamos logrado lo que se requiere de nosotros: la conciencia de Dios y la realización del Ajustador habrán sido restauradas.
+El arrepentimiento a veces requiere algo más que un «Dios arrepentido». Sabremos cuando hayamos logrado lo que se requiere de nosotros: la conciencia de Dios y la realización del Ajustador habrán sido restauradas.
 
-> “La característica principal de la enseñanza de Jesús consistía en que la moralidad de su filosofía se originaba en la relación personal del individuo con Dios.” ([UB 140:10.5](/es/El_Libro_de_Urantia/140#p10_5))
+> «La característica principal de la enseñanza de Jesús consistía en que la moralidad de su filosofía se originaba en la relación personal del individuo con Dios.» ([LU 140:10.5](/es/The_Urantia_Book/140#p10_5))
 
 > Veo el mejor camino y lo apruebo. Pero sigo lo peor.
 > _Ovidio, poeta romano_

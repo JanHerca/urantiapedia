@@ -22,7 +22,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 Autor: **William S. Sadler, Jr.**
 
-En el prólogo de esta obra, comparamos El libro de Urantia con una sinfonía. Y así es. En este epílogo, nos gustaría compararlo con un romance, con una historia de amor y aventura. Una y otra vez, al hacer este trabajo, el autor se ha sentido sacudido, por un lado por el afecto divino, y por otro por la gran aventura que parece subyacer a los propósitos de Dios, a medida que parecen revelarse en los acontecimientos de la historia del universo maestro, en todo lo que le precede y en todo lo que le sigue.
+En el prólogo de esta obra, comparamos _El Libro de Urantia_ con una sinfonía. Y así es. En este epílogo, nos gustaría compararlo con un romance, con una historia de amor y aventura. Una y otra vez, al hacer este trabajo, el autor se ha sentido sacudido, por un lado por el afecto divino, y por otro por la gran aventura que parece subyacer a los propósitos de Dios, a medida que parecen revelarse en los acontecimientos de la historia del universo maestro, en todo lo que le precede y en todo lo que le sigue.
 
 Dios se derrama sobre la creación de manera profusa. Entrega sin medida todo lo que puede enriquecerse por estos dones. Esos son los frutos del amor infinito que parece tener hacia todos los seres.
 

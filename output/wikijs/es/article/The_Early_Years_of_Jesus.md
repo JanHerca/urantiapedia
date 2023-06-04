@@ -10,11 +10,11 @@ dateCreated: 2022-09-26T22:46:20.684Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 The Brotherhood of Man Library</p>
 
-Para los lectores del Libro de Urantia, y suponiendo la ausencia de la revelación de Urantia, es interesante y educativo darse cuenta de lo poco que se sabe sobre la fase prebautismal de la vida de Jesús. Sin El libro de Urantia ni siquiera se conoce la fecha o el año del nacimiento de Jesús.
+Para los lectores del Libro de Urantia, y suponiendo la ausencia de la revelación de Urantia, es interesante y educativo darse cuenta de lo poco que se sabe sobre la fase prebautismal de la vida de Jesús. Sin _El Libro de Urantia_ ni siquiera se conoce la fecha o el año del nacimiento de Jesús.
 
 La revelación también nos proporciona un relato detallado de aquellos años de formación de Jesús en los que él era un hombre completamente mortal, sin conocimiento de su propia divinidad y apenas un indicio de la vida post-bautismal que lo confrontaría como Dios y como Dios. hombre.
 
-Una vez más, sin El libro de Urantia, ¿qué podríamos haber sabido acerca de esa vida temprana? Aparte de los pocos fragmentos de información contenidos en los Evangelios del Nuevo Testamento, nuestro único recurso es suponer que Jesús habría recibido el mismo tipo de formación que cualquier otro niño galileo que tuviera padres como María y José, que viviera en un pueblo como como Nazaret en Galilea donde José era carpintero.
+Una vez más, sin _El Libro de Urantia_, ¿qué podríamos haber sabido acerca de esa vida temprana? Aparte de los pocos fragmentos de información contenidos en los Evangelios del Nuevo Testamento, nuestro único recurso es suponer que Jesús habría recibido el mismo tipo de formación que cualquier otro niño galileo que tuviera padres como María y José, que viviera en un pueblo como como Nazaret en Galilea donde José era carpintero.
 
 Los Evangelios nos cuentan que el nacimiento de Jesús tuvo lugar en Belén, donde María y José habían ido a participar en un censo ordenado por el emperador romano César Augusto. Pero mientras estaba en Belén, un «ángel del Señor se le apareció a José en sueños y le dijo: Levántate, toma al niño y a su madre, y huye a Egipto, y quédate allí hasta que yo te diga, porque Herodes buscará al niño. para destruirlo.» ([Mateo 2:13](/es/bible/Matthew/2#v13))
 
@@ -40,7 +40,7 @@ La «Biblia» o «Antiguo Testamento» y la «Mishna» generalmente estaban en h
 
 No hay registro en los Evangelios de que Jesús haya procedido a los estudios en las Academias. Sin embargo, es obvio por el contenido de los Evangelios que tenía un conocimiento muy avanzado tanto de la ley como de los profetas. Edersheim afirma que Jesús hablaba hebreo, griego, posiblemente latín y arameo.
 
-Por lo tanto, hay una gran diferencia entre los primeros años de vida de Jesús según lo que se sabe de los Evangelios y lo que se da en El libro de Urantia. Particularmente esto es cierto para escritores como Bundy1 quien asume que Jesús era un provinciano sin educación y sin conocimiento de los mundos griego y romano más allá de Galilea.
+Por lo tanto, hay una gran diferencia entre los primeros años de vida de Jesús según lo que se sabe de los Evangelios y lo que se da en _El Libro de Urantia_. Particularmente esto es cierto para escritores como Bundy1 quien asume que Jesús era un provinciano sin educación y sin conocimiento de los mundos griego y romano más allá de Galilea.
 
 Tanto en el relato bíblico como en el de nuestros historiadores seleccionados falta el hecho de que durante la infancia de Jesús, la ciudad capital de la provincia de Galilea era Séforis. La capital se trasladó a Tiberíades, a orillas del lago, en el año 21 d. C., pero Séforis permaneció como una importante ciudad grecorromana. Este sitio de la ciudad antigua estaba siendo excavado en 1985 en un proyecto conjunto entre las Universidades Hebrea y Duke. Está situada en una colina a menos de cinco millas de Nazaret, y era una ciudad relativamente grande con anfiteatro, palacio, etc., como era de esperar de una ciudad construida por alguien tan vanidoso como Herodes Antipas.
 

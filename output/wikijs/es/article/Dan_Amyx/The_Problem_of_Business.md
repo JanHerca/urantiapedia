@@ -58,7 +58,7 @@ En Conclusión: Los negocios, en función de las relaciones humanas, no necesita
 
 No podemos cambiar el mundo ahora, pero podemos cambiar el mundo de mañana actuando ahora.
 
-> Dan ha sido un lector activo de El libro de Urantia durante más de treinta años. Recientemente completó una presidencia de dos mandatos de los Estudiantes de Florida de _El Libro de Urantia_ y actualmente está trabajando en varios proyectos nuevos para promover las enseñanzas de _El Libro de Urantia_. Su esposa, Lara, es miembro del Consejo General de la Fraternidad.
+> Dan ha sido un lector activo de _El Libro de Urantia_ durante más de treinta años. Recientemente completó una presidencia de dos mandatos de los Estudiantes de Florida de _El Libro de Urantia_ y actualmente está trabajando en varios proyectos nuevos para promover las enseñanzas de _El Libro de Urantia_. Su esposa, Lara, es miembro del Consejo General de la Fraternidad.
 >
 > Información de contacto: Emprendedores UB: https://www.facebook.com/home.php?ref=home#/group.php?gid=137503970209
 {.is-info}

@@ -1,5 +1,5 @@
 ---
-title: "El papel intelectual de «El libro de Urantia»"
+title: "El papel intelectual de «El Libro de Urantia»"
 description: 
 published: true
 date: 2023-02-06T14:02:03.086Z
@@ -12,7 +12,7 @@ dateCreated: 2023-02-06T14:02:03.086Z
 
 _(Nota: El autor nos ha pedido que no revelemos su identidad completa para proteger su estatus profesional y sus conexiones. Estamos cumpliendo con su solicitud. - Editores)_
 
-**¿Por qué se entregó** El libro de Urantia? I. encuentro una respuesta aquí: «_Al hombre le es útil conseguir, para su orientación cósmica, la máxima comprensión posible de la relación de la Deidad con el cosmos..._» ([LU 118:1.1](/es/The_Urantia_Book/118#p1_1)) Comprensión es una función intelectual. Uno de los puntos que deseo probar en este artículo es que El libro de Urantia tiene más una función de verdad que una función de bondad o belleza.
+**¿Por qué se entregó** _El Libro de Urantia_? I. encuentro una respuesta aquí: «_Al hombre le es útil conseguir, para su orientación cósmica, la máxima comprensión posible de la relación de la Deidad con el cosmos..._» ([LU 118:1.1](/es/The_Urantia_Book/118#p1_1)) Comprensión es una función intelectual. Uno de los puntos que deseo probar en este artículo es que _El Libro de Urantia_ tiene más una función de verdad que una función de bondad o belleza.
 
 En varios lugares donde el libro habla de una tríada de ciencia-filosofía-religión, o de materia-mente-espíritu, encontramos que la revelación cae consistentemente en la categoría de filosofía/mente:
 

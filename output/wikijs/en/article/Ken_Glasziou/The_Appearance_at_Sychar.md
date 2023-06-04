@@ -81,7 +81,7 @@ The Papers make it quite clear that our teaching role must be through the actual
 
 “**Go thou and do likewise.**”
 
-> The teachers of the new religion are equipped with spiritual weapons. They are to go out to conquer the world with unfailing forgiveness, matchless good Will, and abounding love. They are equipped to overcome evil with good, to vanquish hate by love, to destroy fear with a courageous and living faith in truth. ([LU 194:3.11](/es/The_Urantia_Book/194#p3_11))
+> The teachers of the new religion are equipped with spiritual weapons. They are to go out to conquer the world with unfailing forgiveness, matchless good Will, and abounding love. They are equipped to overcome evil with good, to vanquish hate by love, to destroy fear with a courageous and living faith in truth. ([UB 194:3.11](/en/The_Urantia_Book/194#p3_11))
 
 ## External links
 

@@ -1,5 +1,5 @@
 ---
-title: "El libro de Urantia. ¿Por qué es tan extraño?"
+title: "El Libro de Urantia. ¿Por qué es tan extraño?"
 description: 
 published: true
 date: 2022-9-9T8:13:38Z

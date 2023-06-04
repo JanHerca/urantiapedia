@@ -1,5 +1,5 @@
 ---
-title: "La arqueología y El libro de Urantia"
+title: "La arqueología y El Libro de Urantia"
 description: 
 published: true
 date: 2022-9-9T8:13:38Z
@@ -10,7 +10,7 @@ dateCreated: 2022-9-9T8:13:38Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
 
-Hay más de ciento sesenta elementos de interés arqueológico (nombres de lugares o información sobre lugares y personas) contenidos en la Parte 4 de _El Libro de Urantia_. Los reveladores afirman que su mandato requería que usaran fuentes humanas siempre que fuera posible. Para la Parte 4 se han utilizado más de 2000 fuentes de este tipo. ([LU 121:8.13](/es/The_Urantia_Book/121#p8_13)) De ello se deduce que es posible que podamos descubrir muchas de las fuentes de información arqueológica en la Parte 4 que pertenecen a la Palestina del primer siglo. A lo largo de los años, varios lectores de El libro de Urantia se han interesado en localizar estas fuentes.
+Hay más de ciento sesenta elementos de interés arqueológico (nombres de lugares o información sobre lugares y personas) contenidos en la Parte 4 de _El Libro de Urantia_. Los reveladores afirman que su mandato requería que usaran fuentes humanas siempre que fuera posible. Para la Parte 4 se han utilizado más de 2000 fuentes de este tipo. ([LU 121:8.13](/es/The_Urantia_Book/121#p8_13)) De ello se deduce que es posible que podamos descubrir muchas de las fuentes de información arqueológica en la Parte 4 que pertenecen a la Palestina del primer siglo. A lo largo de los años, varios lectores de _El Libro de Urantia_ se han interesado en localizar estas fuentes.
 
 Para muchos lectores, las verdades espirituales y cósmicas de _El Libro de Urantia_ se autoautentifican, y la realidad de su contenido materialista tiene poca importancia. Pero hay otros, en particular lectores nuevos o casuales, que todavía tienen que alcanzar el grado necesario de confianza en el ministerio del Espíritu de la Verdad que les permita abrazar, con fe, las verdades espirituales y cosmológicas reveladas en el libro. Es para estas personas que se debe llamar la atención sobre el componente de ciencia predictiva de _El Libro de Urantia_, así como la riqueza de su contenido arqueológico e histórico que, como mínimo, requirió una enorme inversión de tiempo y esfuerzo para extraer y verificar a partir de materiales fuente oscuros y difíciles de obtener.
 

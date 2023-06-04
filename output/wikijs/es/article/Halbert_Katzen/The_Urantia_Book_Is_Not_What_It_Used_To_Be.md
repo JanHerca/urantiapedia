@@ -1,5 +1,5 @@
 ---
-title: "El libro de Urantia ya no es lo que solía ser"
+title: "El Libro de Urantia ya no es lo que solía ser"
 description: 
 published: true
 date: 2023-02-14T14:02:03.086Z
@@ -131,7 +131,7 @@ El cambio en la relación del libro con la ciencia y la historia, junto con nues
 
 Usar el patrón emergente de corroboraciones para demostrar la cualidad única de credibilidad de _El Libro de Urantia_ es una idea cuyo momento ha llegado. Este es el período de transición cuando la cosecha es mucha y los trabajadores son pocos.
 
-Lo más importante es aprender de nuevo cómo presentar el libro. En términos generales, todos nos encontramos con personas que ningún otro lector de El libro de Urantia probablemente conocerá en un futuro próximo. Estas son las almas que necesitan que les informemos sobre la revelación de Urantia. En este planeta cada vez más increíble, la credibilidad es cada vez más difícil de encontrar. Alimenta a las ovejas perdidas y hambrientas.
+Lo más importante es aprender de nuevo cómo presentar el libro. En términos generales, todos nos encontramos con personas que ningún otro lector de _El Libro de Urantia_ probablemente conocerá en un futuro próximo. Estas son las almas que necesitan que les informemos sobre la revelación de Urantia. En este planeta cada vez más increíble, la credibilidad es cada vez más difícil de encontrar. Alimenta a las ovejas perdidas y hambrientas.
 
 No estoy sugiriendo que eliminemos todo lo que hemos aprendido a lo largo de los años acerca de la presentación del libro. Hemos desarrollado muchos talentos porque ha sido muy difícil. Más bien, la sugerencia es que al asegurarnos primero de que la otra persona en la conversación conozca la cualidad única de credibilidad del libro, todas estas otras habilidades que hemos aprendido a lo largo de los años se volverán más poderosas. En estos días, la credibilidad lo es todo. Curiosamente, al hablar primero sobre el aspecto impersonal y verificable de la credibilidad de _El Libro de Urantia_, aumentamos nuestra propia credibilidad personal.
 

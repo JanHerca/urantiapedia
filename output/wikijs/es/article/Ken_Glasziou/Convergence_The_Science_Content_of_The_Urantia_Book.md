@@ -1,5 +1,5 @@
 ---
-title: "Convergencia: el contenido científico de El libro de Urantia"
+title: "Convergencia: el contenido científico de El Libro de Urantia"
 description: 
 published: true
 date: 2022-10-18T06:26:50.726Z
@@ -22,7 +22,7 @@ Dos eventos relativamente recientes fueron fundamentales para lograr la inclusi�
 
 ## Artículo
 
-Durante una conferencia reciente sobre El libro de Urantia, tuve la oportunidad de asistir a una discusión entre varios grupos que estaban en el proceso de traducir el texto de _El Libro de Urantia_ a sus propios idiomas. Prácticamente todos tenían lo que, para mí, parecía una actitud extraña, pero comprensible, hacia el texto. Actuaron como si fuera una verdad divinamente santificada en el mismo sentido en que los fundamentalistas tratan su Biblia, un libro dictado por el mismo Dios, y por lo tanto infalible. Estas personas dieron la impresión de que temían cometer un error en su traducción, no fuera que un rayo del cielo acabara con sus esfuerzos.
+Durante una conferencia reciente sobre _El Libro de Urantia_, tuve la oportunidad de asistir a una discusión entre varios grupos que estaban en el proceso de traducir el texto de _El Libro de Urantia_ a sus propios idiomas. Prácticamente todos tenían lo que, para mí, parecía una actitud extraña, pero comprensible, hacia el texto. Actuaron como si fuera una verdad divinamente santificada en el mismo sentido en que los fundamentalistas tratan su Biblia, un libro dictado por el mismo Dios, y por lo tanto infalible. Estas personas dieron la impresión de que temían cometer un error en su traducción, no fuera que un rayo del cielo acabara con sus esfuerzos.
 
 Sin embargo, es un hecho que, entre los muchos autores de _El Libro de Urantia_, ninguno tiene ese estatus de "Creador" que les otorgaría infalibilidad ([LU 159:4.6](/es/The_Urantia_Book/159#p4_6))— ni siquiera esos Consejeros Divinos que escribieron los artículos de la Parte 1. En realidad, algunos de los autores, los intermedios y los serafines, están solo un poco por encima del nivel de nosotros los mortales. Además de eso, los reveladores nos informan que alrededor de 3000 contribuciones han venido de fuentes humanas, y que las condiciones del mandato eran que se utilizaran fuentes humanas siempre que fuera posible. Los reveladores nos dicen que la cosmología del libro no está "inspirada", y que esperaban que gran parte de la ciencia y la cosmología quedaran obsoletas y necesitaran corrección. Por lo tanto, al pensar en este libro, debemos acertar con nuestras expectativas,
 
@@ -52,7 +52,7 @@ Tal hipótesis plantea muchos problemas, uno de los cuales es la preservación d
 
 [Había copias gratuitas disponibles en Flagstaff de un folleto titulado «La ciencia, la antropología y la arqueología de _El Libro de Urantia_». Se hace referencia en este artículo. Si desea una copia, comuníquese con David Biggs o Ken Glasziou.]
 
-El título de esta dirección aparece como "Convergencia", un término utilizado por algunos lectores de El libro de Urantia en Internet que implica hacer un seguimiento de los nuevos hallazgos científicos que podrían tener relación con el contenido profético del libro y juzgar si esta nueva ciencia es convergente o divergente de las profecías del libro. Consulte la página 7 del folleto de ciencia (Urantia Book [LU 42:8.3](/es/The_Urantia_Book/42#p8_3)) y me esforzaré por aclarar dos piezas bastante difíciles de material profético en el libro que ahora han convergido con el conocimiento científico moderno. Más adelante veremos el trabajo de un científico-lector de Finlandia que descubrió algunas convergencias bastante asombrosas enterradas profundamente en el contenido de lo que parecen ser ejercicios de matemáticas para estudiantes de secundaria.
+El título de esta dirección aparece como "Convergencia", un término utilizado por algunos lectores de _El Libro de Urantia_ en Internet que implica hacer un seguimiento de los nuevos hallazgos científicos que podrían tener relación con el contenido profético del libro y juzgar si esta nueva ciencia es convergente o divergente de las profecías del libro. Consulte la página 7 del folleto de ciencia (Urantia Book [LU 42:8.3](/es/The_Urantia_Book/42#p8_3)) y me esforzaré por aclarar dos piezas bastante difíciles de material profético en el libro que ahora han convergido con el conocimiento científico moderno. Más adelante veremos el trabajo de un científico-lector de Finlandia que descubrió algunas convergencias bastante asombrosas enterradas profundamente en el contenido de lo que parecen ser ejercicios de matemáticas para estudiantes de secundaria.
 
 [Las siguientes citas de [LU 42:8.3](/es/The_Urantia_Book/42#p8_3) de _The Urantia Book_ se proporcionan por conveniencia]
 
@@ -131,7 +131,7 @@ Ahora, si nuestra gente de Triple "A" estuviera trabajando fingiendo una revelac
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Ken_Glasziou/Convergence_The_Science_Content_of_The_Urantia_Book/005522.png">
-<figcaption>Fig. 4. <em>El libro de Urantia</em> (y el moderno) esquema para la descomposición radiactiva a través de una partícula intermedia pesada.</figcaption>
+<figcaption>Fig. 4. <em>El Libro de Urantia</em> (y el moderno) esquema para la descomposición radiactiva a través de una partícula intermedia pesada.</figcaption>
 </figure>
 
 La principal diferencia con el esquema de Heisenberg (Fig. 3) fue la introducción de otra partícula no identificada (y en esos días, no identificable) que los reveladores llamaron mesotrón, pero que ahora se conoce como partícula W. Claramente, no es el mismo mesotrón que se postula para mediar en la estabilidad del núcleo, ya que ese mesotrón transporta una carga positiva, y este segundo mesotrón lleva una carga negativa, como lo muestra su descomposición en el electrón con carga negativa y la pequeña partícula sin carga.

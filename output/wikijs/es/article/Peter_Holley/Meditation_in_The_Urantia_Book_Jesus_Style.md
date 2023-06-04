@@ -1,5 +1,5 @@
 ---
-title: "Meditación en El libro de Urantia: al estilo de Jesús"
+title: "Meditación en El Libro de Urantia: al estilo de Jesús"
 description: 
 published: true
 date: 2023-02-08T14:02:03.086Z
@@ -165,7 +165,7 @@ Como ilustración del poder de la imaginación creativa, los niños en «_los al
 
 > La eliminación filosófica del miedo religioso y el progreso continuo de la ciencia aumentan enormemente la mortandad de los falsos dioses; y aunque esta desaparición de las deidades creadas por los hombres pueda nublar momentáneamente la visión espiritual, termina por destruir la ignorancia y la superstición que tanto tiempo ocultaron al Dios viviente del amor eterno. ... [[LU 102:6.1](/es/The_Urantia_Book/102#p6_1)]
 
-Desafortunadamente, la percepción privada de lo divino del lector de El libro de Urantia se ve no sólo en términos del Padre del Paraíso, sino también como el Ajustador del pensamiento de uno. Es decir, la mente puede crear fácilmente, por así decirlo, un Ajustador de pensamiento falso:
+Desafortunadamente, la percepción privada de lo divino del lector de _El Libro de Urantia_ se ve no sólo en términos del Padre del Paraíso, sino también como el Ajustador del pensamiento de uno. Es decir, la mente puede crear fácilmente, por así decirlo, un Ajustador de pensamiento falso:
 
 > ... Pero un ser humano haría mejor en equivocarse, rechazando la expresión de un Ajustador por creer que se trata de una experiencia puramente humana, que _cometer el error de elevar una reacción de la mente mortal a la esfera de dignidad divina_. ... Vosotros os comunicáis con vuestro Ajustador en grados variables y de forma creciente a medida que ascendéis los círculos psíquicos, a veces directamente, pero más a menudo de manera indirecta. Pero es peligroso albergar la idea de que cada nuevo concepto que se origina en la mente humana es dictado por el Ajustador. Con más frecuencia, y en los seres de vuestra orden, aquello que aceptáis como la voz del Ajustador es en realidad la emanación de vuestro propio intelecto. _El terreno es peligroso_, y cada ser humano debe resolver estos problemas por sí mismo de acuerdo con su sabiduría humana natural y su perspicacia superhumana. [[LU 110:5.5-6](/es/The_Urantia_Book/110#p5_5)]
 

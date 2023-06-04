@@ -1,5 +1,5 @@
 ---
-title: "La ciencia en El libro de Urantia"
+title: "La ciencia en El Libro de Urantia"
 description: "Un misterio de profecía inexplicable que se ve agravado por un error inexplicable"
 published: true
 date: 2023-01-21T14:02:03.086Z
@@ -19,7 +19,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 
 Este artículo aspira a demostrar que hay material verdaderamente profético de naturaleza científica en los Documentos de Urantia (recibidos en 1935) que no pueden ser engañados como conjeturas fortuitas. Supuestamente, los autores de estos Documentos eran extraterrestres. Si han demostrado que tenían un conocimiento que no estaba disponible para nosotros los terrícolas, ¡quizás lo tenían! En este documento, se le presentan muestras de la ciencia profética. Sin embargo, el verdadero significado de estos Documentos está en su "contemplación de las realidades espirituales y los valores universales de los significados eternos", que es bastante independiente de su contenido científico y el estatus de sus autores.
 
-Estos Documentos también contienen errores, la mayoría de los cuales están de acuerdo con haber sido proporcionados simplemente como un marco en el que pensar sobre la cosmología de la creación. ([Documento 115, Sección 1](/en/The_Urantia_Book/115#p1)) Pero algunos de los errores son difíciles de ubicar en esa categoría. Por ejemplo, los Documentos dan la temperatura de la superficie del sol como un poco menos de 6000 grados F. Pero las mediciones actuales muestran que la fotosfera tiene la temperatura más baja en alrededor de 10,800 F. La cromosfera, a 18,000 F, es lo que muchos consideran que es el superficie. A partir de ahí, la temperatura de la corona aumenta rápidamente hasta millones de grados. Y los documentos dan el núcleo a 35 000 F, mientras que la ciencia moderna lo sitúa en 27 000 F.
+Estos Documentos también contienen errores, la mayoría de los cuales están de acuerdo con haber sido proporcionados simplemente como un marco en el que pensar sobre la cosmología de la creación. ([Documento 115, Sección 1](/es/The_Urantia_Book/115#p1)) Pero algunos de los errores son difíciles de ubicar en esa categoría. Por ejemplo, los Documentos dan la temperatura de la superficie del sol como un poco menos de 6000 grados F. Pero las mediciones actuales muestran que la fotosfera tiene la temperatura más baja en alrededor de 10,800 F. La cromosfera, a 18,000 F, es lo que muchos consideran que es el superficie. A partir de ahí, la temperatura de la corona aumenta rápidamente hasta millones de grados. Y los documentos dan el núcleo a 35 000 F, mientras que la ciencia moderna lo sitúa en 27 000 F.
 
 Sorprendentemente, los Documentos proporcionaron información correcta para eventos tales como los comienzos del sistema solar hace 4.500 millones de años, la deriva continental que comenzó hace 750 millones de años, los radios del electrón y el protón, etc., mucho antes de que la ciencia pudiera confirmarlos, pero hizo un trabajo menos que notable al explicar el origen de nuestro sistema tierra-luna y los océanos de la tierra.
 
@@ -27,11 +27,11 @@ El propósito de este y el siguiente artículo es comprender por qué es así.
 
 ## Física de partículas: dos profecías notables: los radios del electrón y el protón
 
-En un libro de texto publicado en una universidad estadounidense en 1934 titulado “La arquitectura del universo”, el físico W.F.G. Swann escribió: “La masa del electrón es tan pequeña que si se magnifican todas las masas para que el electrón alcance una masa de uno décimo de onza, ese décimo de onza sería, en la misma escala de ampliación, tan pesado como la tierra”.
+En un libro de texto publicado en una universidad estadounidense en 1934 titulado «La arquitectura del universo», el físico W.F.G. Swann escribió: «La masa del electrón es tan pequeña que si se magnifican todas las masas para que el electrón alcance una masa de uno décimo de onza, ese décimo de onza sería, en la misma escala de ampliación, tan pesado como la tierra».
 
 Las palabras de Swann fueron reproducidas en el Documento 42, Sección 6 pero con la comparación obviamente cambiada deliberadamente de masa a volumen. Se lee:
 
-> “Si la masa de la materia se pudiera aumentar hasta que la masa de un electrón equivaliera a una décima parte de una onza [2,8 gramos], y si su tamaño aumentara proporcionalmente, el volumen de dicho electrón sería tan grande como el de la Tierra”. ([UB 42:6.8](/en/The_Urantia_Book/42#p6_8))
+> «Si la masa de la materia se pudiera aumentar hasta que la masa de un electrón equivaliera a una décima parte de una onza [2,8 gramos], y si su tamaño aumentara proporcionalmente, el volumen de dicho electrón sería tan grande como el de la Tierra». ([LU 42:6.8](/es/The_Urantia_Book/42#p6_8))
 
 Tomando la masa en reposo del electrón en 9,1 x 10^-28^ g, 0,1 onzas como 2,8 g, el radio de la tierra como 6,4 x 10^6^ m y poniendo k como la constante de aumento, entonces:
 
@@ -55,13 +55,13 @@ Esta nueva estimación fue notada por el físico Stefan Talqvist, un estudiante 
 
 ¿Cuáles son las posibilidades de que estas cifras sean coincidentes, que la correspondencia se haya producido solo por accidente o conjetura? Seamos conservadores y consideremos solo el orden de magnitud. El rango posible podría extenderse a la longitud de Planck de 10 ^ -35 ^ m, por lo que aproximadamente un rango de 25-30 veces, con posibilidades de una estimación aproximada de aproximadamente una en veinticinco. Pero había una segunda parte de la comparación de Swann que decía:
 
-“Luego tenemos el protón, la unidad fundamental de carga positiva, una cosa 1800 veces más pesada que el electrón, pero 1800 veces más pequeña en tamaño, de modo que si lo agrandas al tamaño de la cabeza de un alfiler, ese alfiler cabeza alcanzaría, en la misma escala de aumento, un diámetro igual al de la órbita de la tierra alrededor del sol”.
+«Luego tenemos el protón, la unidad fundamental de carga positiva, una cosa 1800 veces más pesada que el electrón, pero 1800 veces más pequeña en tamaño, de modo que si lo agrandas al tamaño de la cabeza de un alfiler, ese alfiler cabeza alcanzaría, en la misma escala de aumento, un diámetro igual al de la órbita de la tierra alrededor del sol».
 
 [Nota: la estimación de Swann del tamaño del protón como 1800 veces **más pequeño** que el electrón provino de usar r = e^2^/mc^2^, donde e es la carga del electrón. La relación de carga a masa para el electrón se conocía con precisión a principios del período 1900. Millikan determinó la carga en 1909. Su masa se determinó entonces como 9,11 x 10^-28^ g.]
 
 El autor del Documento de Urantia no usó esta ecuación, cambiando la comparación a:
 
-> “Si el volumen de un protón —mil ochocientas veces más pesado que un electrón— se pudiera aumentar hasta tener el tamaño de la cabeza de un alfiler, entonces, en comparación, la cabeza de un alfiler alcanzaría un diámetro igual al de la órbita de la Tierra alrededor del Sol.” ([UB 42:6.8](/en/The_Urantia_Book/42#p6_8))
+> «Si el volumen de un protón —mil ochocientas veces más pesado que un electrón— se pudiera aumentar hasta tener el tamaño de la cabeza de un alfiler, entonces, en comparación, la cabeza de un alfiler alcanzaría un diámetro igual al de la órbita de la Tierra alrededor del Sol.» ([LU 42:6.8](/es/The_Urantia_Book/42#p6_8))
 
 > Solo puedes encontrar la verdad con la lógica si ya has encontrado la verdad sin ella.
 > _G.K. Chesterton_
@@ -95,7 +95,7 @@ Cuando tomamos en consideración que los detalles de Swann fueron modificados de
 
 ## Astrofísica: más profecías: neutrinos, estrellas de neutrones y agujeros negros
 
-> “En los soles grandes —en las pequeñas nebulosas circulares—, cuando el hidrógeno está agotado y la contracción gravitatoria tiene lugar a continuación, si dicho cuerpo no es lo suficientemente opaco como para retener la presión interna que apoya las regiones gaseosas exteriores, entonces se produce un colapso repentino. Los cambios eléctrico-gravitatorios dan origen a inmensas cantidades de minúsculas partículas desprovistas de potencial eléctrico, y estas partículas se escapan rápidamente del interior solar, ocasionando así en pocos días el desmoronamiento de un sol gigantesco”. ([Documento 41, Sección 9](/es/El_Libro_de_Urantia/41#p8_3))
+> «En los soles grandes —en las pequeñas nebulosas circulares—, cuando el hidrógeno está agotado y la contracción gravitatoria tiene lugar a continuación, si dicho cuerpo no es lo suficientemente opaco como para retener la presión interna que apoya las regiones gaseosas exteriores, entonces se produce un colapso repentino. Los cambios eléctrico-gravitatorios dan origen a inmensas cantidades de minúsculas partículas desprovistas de potencial eléctrico, y estas partículas se escapan rápidamente del interior solar, ocasionando así en pocos días el desmoronamiento de un sol gigantesco». ([Documento 41, Sección 9](/es/The_Urantia_Book/41#p8_3))
 
 En el momento de recibir los Documentos de Urantia (1935), generalmente se creía que el destino de las estrellas grandes que superaban con mucho el tamaño de nuestro sol era que sus capas externas se desprendieran mediante una serie de explosiones hasta que pudieran retirarse cómodamente. como una enana blanca, el mismo destino que se esperaba para nuestro propio sol. Los nombres de las estrellas de neutrones, los neutrinos y los agujeros negros ni siquiera se habían inventado y todos eran, en el mejor de los casos, producto de la imaginación.
 
@@ -112,7 +112,7 @@ Es indiscutible que la descripción anterior, tal como se da en los Documentos d
 
 El concepto de una supernova fue planteado por primera vez por Zwicky y Baade en 1933 como una explicación de alrededor de media docena de explosiones gigantescas inexplicables que habían sido observadas por los astrónomos. Sin embargo, la idea de que pudieran surgir del colapso de grandes estrellas no tenía respaldo teórico. Zwicky calculó que alrededor del diez por ciento de la masa de la estrella podría perderse de esta manera. En su libro sobre agujeros negros[^3], el físico KS Thorne afirma que Zwicky no sabía nada sobre el posible papel de las "pequeñas partículas neutras" que se liberan en la implosión de una gran estrella. En cambio, había atribuido toda la pérdida de masa y energía a los rayos cósmicos. Zwicky's idea that a supernova-type collapse could occur was ridiculed by many and was also strongly opposed in 1939 by the most prominent physicist of the time, Albert Einstein, as well as the most prominent astronomer, Sir Arthur Eddington.
 
-Según el eminente astrofísico ruso, Igor Novikov, los astrónomos no intentaron buscar en serio estrellas de neutrones o agujeros negros antes de la década de 1960. Él dice: “Se asumió tácitamente que estos objetos eran demasiado excéntricos y muy probablemente eran el fruto de las ilusiones de los teóricos. . . en cualquier caso, si existieran, entonces no podrían ser detectados.[^4]”.
+Según el eminente astrofísico ruso, Igor Novikov, los astrónomos no intentaron buscar en serio estrellas de neutrones o agujeros negros antes de la década de 1960. Él dice: «Se asumió tácitamente que estos objetos eran demasiado excéntricos y muy probablemente eran el fruto de las ilusiones de los teóricos... en cualquier caso, si existieran, entonces no podrían ser detectados.[^4]».
 
 La oportunidad de confirmar la liberación de neutrinos durante la explosión de una supernova se produjo en 1987 cuando se observó una supernova, visible a simple vista, en la Gran Nube de Magallanes vecina a nuestra galaxia, la Vía Láctea. Los cálculos indicaron que esta supernova, denominada SN1987A, debería dar lugar a un estallido de neutrinos con una densidad de 50.000 millones por centímetro cuadrado cuando finalmente alcanzara la Tierra. Este estallido de neutrinos, que duró solo 12 segundos, se observó en los enormes detectores de neutrinos en Kamiokande en Japón y también en Fairport, Ohio.
 

@@ -1,5 +1,5 @@
 ---
-title: "Swann, Gardner y El libro de Urantia: protones y electrones"
+title: "Swann, Gardner y El Libro de Urantia: protones y electrones"
 description: 
 published: true
 date: 2022-9-9T8:13:38Z

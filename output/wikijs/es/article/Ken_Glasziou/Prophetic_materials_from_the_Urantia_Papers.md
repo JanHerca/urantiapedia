@@ -16,7 +16,7 @@ Este breve extracto de los Documentos de Urantia debería ser suficiente para en
 
 En la década de 1930, el electrón y el protón eran las partículas subatómicas más conocidas. El protón era lo suficientemente grande como para medir muchas de sus propiedades incluso a principios del siglo XX. Pero el electrón era tan pequeño que durante la mayor parte del siglo XX, muchos lo consideraron un punto adimensional. Los Documentos de Urantia incluyen ‘fábulas’ breves tomadas de un popular libro de texto de física de la década de 1930 que involucraba los radios del electrón y el protón. Pero antes de la década de 1990, no había forma de que el lector verificara estas fábulas, que, en cualquier caso, parecían ridículas.
 
-Todo cambió cuando, en la década de 1990, el ganador del premio Nobel, Hans Dehmelt, encontró una forma de retener un solo electrón en una trampa. Esto le permitió medir el diámetro del electrón. A su vez, se abrió el camino para el lector de El libro de Urantia, el físico Stefan Tallqvist, para comprobar las dos fábulas del libro, con los resultados realmente asombrosos de que, dentro de los límites de la incertidumbre de Heisenberg, tanto el radio del electrón como el del protón se estimaron correctamente.
+Todo cambió cuando, en la década de 1990, el ganador del premio Nobel, Hans Dehmelt, encontró una forma de retener un solo electrón en una trampa. Esto le permitió medir el diámetro del electrón. A su vez, se abrió el camino para el lector de _El Libro de Urantia_, el físico Stefan Tallqvist, para comprobar las dos fábulas del libro, con los resultados realmente asombrosos de que, dentro de los límites de la incertidumbre de Heisenberg, tanto el radio del electrón como el del protón se estimaron correctamente.
 
 ## Contenido
 

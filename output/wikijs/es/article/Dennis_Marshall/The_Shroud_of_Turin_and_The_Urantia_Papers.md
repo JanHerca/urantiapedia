@@ -37,7 +37,7 @@ Sin embargo, esta nueva prueba realmente no probó nada, excepto que las pruebas
 
 ## Advertencias de _El Libro de Urantia_ 
 
-Los lectores de El libro de Urantia encontrarán varias advertencias que desaconsejan dejar en Urantia (la Tierra) cualquier cosa materialmente relacionada con Jesús que pueda terminar siendo adorada.
+Los lectores de _El Libro de Urantia_ encontrarán varias advertencias que desaconsejan dejar en Urantia (la Tierra) cualquier cosa materialmente relacionada con Jesús que pueda terminar siendo adorada.
 
 Consejo de Emmanuel a Miguel (Jesús)
 

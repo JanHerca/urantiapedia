@@ -46,7 +46,7 @@ Al estudiar estos Documentos de Urantia y reflexionar sobre por qué fueron escr
 
 Las partes 1-3 del libro fueron inicialmente el resultado de preguntas planteadas por los miembros del Foro para probar las credenciales de los reveladores.[^5] Por lo tanto, en retrospectiva, parece posible que el objetivo original de los reveladores se limitara a preparar un grupo de personas para la recepción de la Parte 4, La Vida de Jesús.
 
-Tomado en sí mismo, esto está escrito de una manera que nunca habría obtenido el estatus de revelación divina, y el contenido erróneo de la ciencia y la historia presentes en lo que se convirtió en «El libro de Urantia» nunca se habría convertido en un tema polémico.
+Tomado en sí mismo, esto está escrito de una manera que nunca habría obtenido el estatus de revelación divina, y el contenido erróneo de la ciencia y la historia presentes en lo que se convirtió en «_El Libro de Urantia_» nunca se habría convertido en un tema polémico.
 
 Pero ahora, aproximadamente 70 años después de la finalización de ese libro, además de una extraordinaria explosión de conocimiento en prácticamente todas las esferas de la actividad humana, tenemos que enfrentar el hecho de que los Documentos abundan en materiales y conceptos obsoletos y obsoletos.
 
@@ -70,7 +70,7 @@ La realidad de la vida de Jesús fue y es una revelación de la naturaleza de Di
 
 Nuestra mejor fuente serán los Documentos de Urantia. El material que necesitaremos no será el relativo a hechos materiales. Más bien, encontraremos lo que necesitamos entre lo que tiene «_significado y valor espiritual_», esa parte de la que podemos tener certeza sobre su estado revelador.
 
-Las dos mil páginas de El libro de Urantia proporcionan un contenido demasiado extenso para permitir una ubicación eficiente del material de referencia. En los próximos números de Innerface aparecerá una versión de referencia muy resumida de su contenido relacionado con la espiritualidad que puede ayudar a facilitar esta tarea vital.
+Las dos mil páginas de _El Libro de Urantia_ proporcionan un contenido demasiado extenso para permitir una ubicación eficiente del material de referencia. En los próximos números de Innerface aparecerá una versión de referencia muy resumida de su contenido relacionado con la espiritualidad que puede ayudar a facilitar esta tarea vital.
 
 > Nunca te puede pasar nada que no pueda ser revertido y posteriormente utilizado para tu mayor bien posible.
 

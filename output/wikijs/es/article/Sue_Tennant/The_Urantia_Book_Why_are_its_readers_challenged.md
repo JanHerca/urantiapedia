@@ -1,5 +1,5 @@
 ---
-title: "El libro de Urantia: ¿¿¿Por qué sus lectores se ven retados con más de 2000 páginas de hechos profusos y nombres prodigiosos???"
+title: "El Libro de Urantia: ¿¿¿Por qué sus lectores se ven retados con más de 2000 páginas de hechos profusos y nombres prodigiosos???"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -20,7 +20,7 @@ Alcanzar esa perfección lleva mucho tiempo, mucho más de lo que nuestras mente
 
 **Somos la preciosa descendencia de Dios, nacidos para crecer perfectos, para amar y servir por toda la eternidad.**
 
-En sus 2097 páginas, El libro de Urantia nos anima a hacer de Dios nuestra prioridad personal. Cuanto más sabemos acerca de Dios, el Padre Cósmico asombroso, creativo y nutritivo, más empoderados estamos para servir a los demás. Amar y servir como Dios ama y sirve es el negocio de la vida y la fuente de todo gozo y satisfacción duraderos. Conocer a Dios como Padre Universal, ya toda la humanidad como familia, es la suprema experiencia de vivir. Este es el gran destino al que estamos llamados los humanos. Es una empresa interminable, apasionante, que colma nuestros más profundos y profundos anhelos personales. Es realizar, con absoluta seguridad, nuestra inmutable identidad de hijos e hijas de Dios.
+En sus 2097 páginas, _El Libro de Urantia_ nos anima a hacer de Dios nuestra prioridad personal. Cuanto más sabemos acerca de Dios, el Padre Cósmico asombroso, creativo y nutritivo, más empoderados estamos para servir a los demás. Amar y servir como Dios ama y sirve es el negocio de la vida y la fuente de todo gozo y satisfacción duraderos. Conocer a Dios como Padre Universal, ya toda la humanidad como familia, es la suprema experiencia de vivir. Este es el gran destino al que estamos llamados los humanos. Es una empresa interminable, apasionante, que colma nuestros más profundos y profundos anhelos personales. Es realizar, con absoluta seguridad, nuestra inmutable identidad de hijos e hijas de Dios.
 
 **El pensamiento crítico y la toma de decisiones son más importantes de lo que imaginamos.**
 

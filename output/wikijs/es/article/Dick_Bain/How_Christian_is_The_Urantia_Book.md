@@ -1,5 +1,5 @@
 ---
-title: "Cuán cristiano es El libro de Urantia"
+title: "Cuán cristiano es El Libro de Urantia"
 description: 
 published: true
 date: 2023-04-09T11:05:44.719Z

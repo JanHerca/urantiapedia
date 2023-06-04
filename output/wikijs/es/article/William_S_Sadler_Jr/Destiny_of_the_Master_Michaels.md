@@ -10,7 +10,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1959 William S. «_Bill_» Sadler<br>© 2015 The Urantia Book Fellowship</p>
 
-_La siguiente es la transcripción de una visita realizada por William S. «Bill» Sadler, Jr. a un grupo de estudio de California en 1959 o 1960. Era hijo de los Dres. William y Lena Sadler, y miembro del Foro, así como miembro de la Comisión de Contacto para la revelación de Urantia. Presenció la llegada de la serie de documentos ampliados e hizo las preguntas que dieron lugar a los documentos Supremos en El libro de Urantia._
+_La siguiente es la transcripción de una visita realizada por William S. «Bill» Sadler, Jr. a un grupo de estudio de California en 1959 o 1960. Era hijo de los Dres. William y Lena Sadler, y miembro del Foro, así como miembro de la Comisión de Contacto para la revelación de Urantia. Presenció la llegada de la serie de documentos ampliados e hizo las preguntas que dieron lugar a los documentos Supremos en _El Libro de Urantia_._
 
 ¿Por qué los mundos del Hijo Eterno deberían ser impersonales cuando él es un ser personal?
 

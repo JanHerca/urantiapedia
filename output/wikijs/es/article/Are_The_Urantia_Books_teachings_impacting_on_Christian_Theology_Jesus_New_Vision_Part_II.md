@@ -1,5 +1,5 @@
 ---
-title: "¿Las enseñanzas de El libro de Urantia tienen un impacto en la teología cristiana? Jesús: una nueva visión. Parte II"
+title: "¿Las enseñanzas de _El Libro de Urantia_ tienen un impacto en la teología cristiana? Jesús: una nueva visión. Parte II"
 description: 
 published: true
 date: 2023-04-09T12:58:53.877Z

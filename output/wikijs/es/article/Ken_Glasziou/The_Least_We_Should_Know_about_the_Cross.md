@@ -24,9 +24,9 @@ Los sufrimientos de Jesús no se limitaron a la crucifixión. En realidad, Jesú
 
 En millones de mundos habitados, decenas de billones de criaturas en evolución que pueden haber sido tentadas a renunciar a la lucha moral y abandonar la buena batalla de la fe, han mirado una vez más a Jesús en la cruz y luego han seguido adelante, inspiradas por la visión de Dios entregando su vida encarnada en devoción al servicio desinteresado del hombre.
 
-El triunfo de la muerte en la cruz se resume en el espíritu de la actitud de Jesús hacia los que lo agredían. Hizo de la cruz un símbolo eterno del triunfo del amor sobre el odio y la victoria de la verdad sobre el mal cuando oró: “Padre, perdónalos, porque no saben lo que hacen”.
+El triunfo de la muerte en la cruz se resume en el espíritu de la actitud de Jesús hacia los que lo agredían. Hizo de la cruz un símbolo eterno del triunfo del amor sobre el odio y la victoria de la verdad sobre el mal cuando oró: «Padre, perdónalos, porque no saben lo que hacen».
 
-Esa devoción de amor fue contagiosa a lo largo de un vasto universo; los discípulos la contagiaron de su Maestro. El primer maestro de su evangelio que fue llamado a dar su vida en este servicio, dijo, mientras lo apedreaban hasta la muerte: “No les toméis en cuenta este pecado”.
+Esa devoción de amor fue contagiosa a lo largo de un vasto universo; los discípulos la contagiaron de su Maestro. El primer maestro de su evangelio que fue llamado a dar su vida en este servicio, dijo, mientras lo apedreaban hasta la muerte: «No les toméis en cuenta este pecado».
 
 La cruz hace un llamamiento supremo a lo mejor del hombre porque revela a alguien que estuvo dispuesto a dar su vida al servicio de sus semejantes.
 
@@ -34,7 +34,7 @@ La cruz hace un llamamiento supremo a lo mejor del hombre porque revela a alguie
 
 > Predicas un sermón más verdadero con tu vida que con tus labios.
 
-> Cuando los hombres y las mujeres inteligentes contemplan a Jesús ofreciendo su vida en la cruz, difícilmente se atreverán a quejarse de nuevo ni siquiera de las penalidades más duras de la vida, y mucho menos de las pequeñas incomodidades y sus muchas molestias puramente ficticias. ([UB 188:5.10](/en/The_Urantia_Book/188#p5_10))
+> Cuando los hombres y las mujeres inteligentes contemplan a Jesús ofreciendo su vida en la cruz, difícilmente se atreverán a quejarse de nuevo ni siquiera de las penalidades más duras de la vida, y mucho menos de las pequeñas incomodidades y sus muchas molestias puramente ficticias. ([LU 188:5.10](/es/The_Urantia_Book/188#p5_10))
 
 ## Enlaces externos
 

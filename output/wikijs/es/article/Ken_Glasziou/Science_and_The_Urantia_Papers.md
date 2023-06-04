@@ -38,8 +38,8 @@ De los materiales cubiertos en este artículo, solo el artículo sobre la energ�
 
 ## Referencias
 
-- Bain, R., K. Glasziou, M. Neibaur y F. Wright. «El contenido científico de El libro de Urantia». (Biblioteca de la Hermandad del Hombre, 1991)
-- Glasziou, K. "Ciencia, antropología y arqueología en El libro de Urantia". (Biblioteca de la Hermandad del Hombre, 1996)
+- Bain, R., K. Glasziou, M. Neibaur y F. Wright. «El contenido científico de _El Libro de Urantia_». (Biblioteca de la Hermandad del Hombre, 1991)
+- Glasziou, K. "Ciencia, antropología y arqueología en _El Libro de Urantia_". (Biblioteca de la Hermandad del Hombre, 1996)
 
 ## Enlaces externos
 

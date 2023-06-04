@@ -12,7 +12,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 Al detallar su relato de la vida y la evolución de la tierra en nuestro planeta en los Documentos de Urantia [LU 57](/es/The_Urantia_Book/57), [58](/es/The_Urantia_Book/58), [59](/es/The_Urantia_Book/59 ) y [60](/es/The_Urantia_Book60), sus autores han abrazado de todo corazón el concepto de deriva continental, una idea promovida por primera vez por Alfred Wegener en 1910. Quite la deriva continental de estos cuatro Documentos y colapsarán como un montón irracional.
 
-En un artículo titulado _El contenido científico de El libro de Urantia_,[^1] mis coautores y yo llamamos la atención sobre el hecho de que, durante el período en el que se recibieron y publicaron los artículos de Urantia (1934-1955), el concepto de la deriva continental se sostuvo tenuemente y por muy pocos geólogos. Se afirmó que la antipatía hacia el concepto había sido particularmente fuerte en los Estados Unidos. Esta antipatía duró desde principios de la década de 1920 hasta bien entrado el período de 1960.
+En un artículo titulado _El contenido científico de _El Libro de Urantia__,[^1] mis coautores y yo llamamos la atención sobre el hecho de que, durante el período en el que se recibieron y publicaron los artículos de Urantia (1934-1955), el concepto de la deriva continental se sostuvo tenuemente y por muy pocos geólogos. Se afirmó que la antipatía hacia el concepto había sido particularmente fuerte en los Estados Unidos. Esta antipatía duró desde principios de la década de 1920 hasta bien entrado el período de 1960.
 
 En nuestra opinión, si los Documentos de Urantia fueran una revelación falsa de autores humanos, habría sido bastante extraño que los autores postulados fueran en contra de la opinión profesional prevaleciente al hacer que su historia de la vida y la evolución de la tierra dependiera en gran medida de la verdad de la teoría de la deriva continental. En apoyo de nuestra opinión de que la oposición a la teoría era extremadamente fuerte, citamos un libro reciente del historiador de la ciencia, H.E. Le Grand[^2], así como críticas anteriores a la teoría de Wegener por parte del eminente geólogo R.T. Chamberlin, en las que enumera 18 puntos que consideró destructivos de la hipótesis.
 
@@ -42,7 +42,7 @@ La «opacidad» a la que se refieren los autores es tal que incluso los fotones 
 
 Ahora se ha confirmado que el neutrino, una «pequeña partícula desprovista de potencial eléctrico», es ese portador y responsable de la transferencia de más del 90% de la energía liberada en una supernova. Sin embargo, recuerde que la realidad real de los neutrinos no se estableció hasta 1956, el año posterior a la publicación del libro.
 
-Personalmente, me resulta imposible creer que alguien con la reputación de Martin Gardner como crítico de los conceptos científicos avanzados pueda ignorar la notable naturaleza de estas secciones de El libro de Urantia. Ciegos para ellos, sí, pero no ignorantes. Sus motivos para no mencionar los detalles de la formación de estrellas de neutrones y elementos como el comienzo de la deriva continental solo los conoce él mismo. Independientemente de lo demás que esto revele, demuestra que Gardner no busca la verdad, al menos no en el sentido en que se usa ese concepto en la terminología de los Documentos de Urantia.
+Personalmente, me resulta imposible creer que alguien con la reputación de Martin Gardner como crítico de los conceptos científicos avanzados pueda ignorar la notable naturaleza de estas secciones de _El Libro de Urantia_. Ciegos para ellos, sí, pero no ignorantes. Sus motivos para no mencionar los detalles de la formación de estrellas de neutrones y elementos como el comienzo de la deriva continental solo los conoce él mismo. Independientemente de lo demás que esto revele, demuestra que Gardner no busca la verdad, al menos no en el sentido en que se usa ese concepto en la terminología de los Documentos de Urantia.
 
 La pregunta que planteo de nuevo a los lectores es ¿por qué hipotéticos autores humanos de estos Documentos de Urantia han incluido materiales que eran tan altamente especulativos desde un punto de vista humano? Seguramente cualquiera que intentara agregar ciencia «profética» en apoyo de una afirmación de revelación habría evitado ideas que aparentemente tenían muy pocas posibilidades de ser correctas.
 
@@ -62,7 +62,7 @@ Entre muchas otras cosas, afirman: «_La existencia de Dios nunca puede probarse
 
 ## Referencias
 
-[^1]: Bain, R., Glasziou, K., Neibaur, M. y Wright, F. «El contenido científico de El libro de Urantia». (Biblioteca de la Hermandad del Hombre, 1991)
+[^1]: Bain, R., Glasziou, K., Neibaur, M. y Wright, F. «El contenido científico de _El Libro de Urantia_». (Biblioteca de la Hermandad del Hombre, 1991)
 
 [^2]: Le Grand HE «Continentes a la deriva y teorías cambiantes». (Prensa de la Universidad de Cambridge, 1988)
 

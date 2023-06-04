@@ -22,9 +22,9 @@ Resumir adecuadamente los eventos de esta histórica semana es una tarea casi im
 
 ¡Elegir de este rico menú de opciones fue en sí mismo una experiencia religiosa!
 
-## El libro de Urantia y el parlamento
+## El Libro de Urantia y el parlamento
 
-Es lamentable que ninguna organización que represente a El libro de Urantia haya participado en ninguna de estas actividades interreligiosas. Solo se dio una conferencia de un lector-creyente de El libro de Urantia, un evento improvisado al que asistieron menos de diez personas. Esta conferencia no figuraba en el folleto del programa de 151 páginas del Parlamento, que incluía más de 600 conferencias, seminarios y talleres de una asombrosa variedad. ¿Por qué? La Fellowship of Urantia Book Readers había votado para no unirse a las 125 organizaciones patrocinadoras. Se revirtió solo unas semanas antes, pero demasiado tarde para ser visible en el programa del Parlamento. En el último momento, un comité de la Fraternidad patrocinó un stand estrictamente promocional. La Fundación Urantia, con sede en Chicago, estuvo completamente ausente, ni siquiera envió un observador de los procedimientos.
+Es lamentable que ninguna organización que represente a _El Libro de Urantia_ haya participado en ninguna de estas actividades interreligiosas. Solo se dio una conferencia de un lector-creyente de _El Libro de Urantia_, un evento improvisado al que asistieron menos de diez personas. Esta conferencia no figuraba en el folleto del programa de 151 páginas del Parlamento, que incluía más de 600 conferencias, seminarios y talleres de una asombrosa variedad. ¿Por qué? La Fellowship of Urantia Book Readers había votado para no unirse a las 125 organizaciones patrocinadoras. Se revirtió solo unas semanas antes, pero demasiado tarde para ser visible en el programa del Parlamento. En el último momento, un comité de la Fraternidad patrocinó un stand estrictamente promocional. La Fundación Urantia, con sede en Chicago, estuvo completamente ausente, ni siquiera envió un observador de los procedimientos.
 
 Todo esto es especialmente desconcertante en vista de las enseñanzas progresivas del Libro sobre la unidad religiosa y el diálogo interreligioso. En la página [LU 92:7.3](/es/The_Urantia_Book/92#p7_3) leemos: «No existe una religión en Urantia que no pueda estudiar y asimilar provechosamente lo mejor de las verdades contenidas en todas las otras doctrinas, porque todas contienen verdades.» ¿No podría esto aplicarse también a los creyentes en la revelación de Urantia?
 
@@ -58,7 +58,7 @@ El Parlamento de las Religiones del Mundo fue más que una oportunidad para el i
 
 A lo largo de la semana, laicos, teólogos y líderes religiosos se enfrentaron a varios enfoques del diálogo interreligioso. Todos nosotros, incluso los proselitistas, fuimos arrastrados a una vasta experiencia de compartir y escuchar.
 
-Orador tras orador abogó por que cada uno de nosotros escuche abierta y amablemente las creencias de todos los demás, sin importar cuán diferentes o extrañas sean. Se nos instó a permitir que el otro compartiera y permitir que el otro escuchara. Esta filosofía reinante incitó a aquellos de nosotros que estamos acostumbrados a disfrazar nuestra afiliación religiosa, **especialmente a los lectores del Libro de Urantia, a salir del armario. Después de 19 años de leer el Libro, esta fue la primera reunión religiosa a la que asistí en la que me sentí bastante desinhibido a la hora de compartir mi fe en El libro de Urantia**.
+Orador tras orador abogó por que cada uno de nosotros escuche abierta y amablemente las creencias de todos los demás, sin importar cuán diferentes o extrañas sean. Se nos instó a permitir que el otro compartiera y permitir que el otro escuchara. Esta filosofía reinante incitó a aquellos de nosotros que estamos acostumbrados a disfrazar nuestra afiliación religiosa, **especialmente a los lectores del Libro de Urantia, a salir del armario. Después de 19 años de leer el Libro, esta fue la primera reunión religiosa a la que asistí en la que me sentí bastante desinhibido a la hora de compartir mi fe en _El Libro de Urantia_**.
 
 El espíritu del Parlamento era de apertura general, pero pude identificar al menos cuatro modelos distintos para el diálogo interreligioso que parecía animar a los participantes: exclusivista, inclusivista, pluralista y funcionalista.
 
@@ -94,7 +94,7 @@ Los académicos lucharon con modelos más exigentes para la creación de una bas
 
 Defino el modelo funcionalista del diálogo interreligioso como la búsqueda de objetivos y propósitos ampliamente comunes, especialmente el de unir a toda la humanidad, incluso a los no creyentes, por el bien de la supervivencia del planeta. Los funcionalistas son pragmáticos. Se dan cuenta de lo difícil que sería unirnos «...el seguidor de las diferentes teologías intelectuales que tanto caracterizan a Urantia». ([LU 92:5.16](/es/The_Urantia_Book/92#p5_16))
 
-Los funcionalistas pueden encontrar apoyo considerable para su enfoque en El libro de Urantia, que predica que «... Las personas religiosas se unirán algún día y se pondrán a cooperar realmente sobre la base de la unidad de los ideales y los objetivos, en lugar de intentar hacerlo sobre la base de las opiniones psicológicas y de las creencias teológicas». ([LU 99:5.7](/es/The_Urantia_Book/99#p5_7))
+Los funcionalistas pueden encontrar apoyo considerable para su enfoque en _El Libro de Urantia_, que predica que «... Las personas religiosas se unirán algún día y se pondrán a cooperar realmente sobre la base de la unidad de los ideales y los objetivos, en lugar de intentar hacerlo sobre la base de las opiniones psicológicas y de las creencias teológicas». ([LU 99:5.7](/es/The_Urantia_Book/99#p5_7))
 
 ¡Esta declaración del Libro de Urantia es una descripción justa del Parlamento! La Asamblea de Líderes Religiosos y Espirituales logró unificarse en torno a la Declaración de una Ética Global, que se emitió el último día del Parlamento. Reunidos durante tres días en el auditorio del Instituto de Arte de Chicago, sede del Parlamento de 1893, los delegados debatieron esta y muchas otras propuestas y, con algunas abstenciones, aprobaron el documento.
 
@@ -102,7 +102,7 @@ La Declaración basa la unidad en principios éticos compartidos, no en la teolo
 
 La Declaración fue redactada por el destacado teólogo suizo Hans Kung, por invitación del Consejo del Parlamento. Un argumento extenso para tal ética mundial aparece en su libro más reciente, Responsabilidad global: en busca de una nueva ética, revisado en una edición reciente de The Spiritual Fellowship Journal.
 
-Esperemos que las muchas lecciones del Parlamento de las Religiones del Mundo de 1993 lleguen a los lectores de El libro de Urantia. ¿Podemos imaginar un día en que los lectores-creyentes de la quinta revelación de época abran el camino hacia una nueva época de tolerancia religiosa y comprensión interreligiosa, incluso de unidad religiosa mundial?
+Esperemos que las muchas lecciones del Parlamento de las Religiones del Mundo de 1993 lleguen a los lectores de _El Libro de Urantia_. ¿Podemos imaginar un día en que los lectores-creyentes de la quinta revelación de época abran el camino hacia una nueva época de tolerancia religiosa y comprensión interreligiosa, incluso de unidad religiosa mundial?
 
 ## Enlaces externos
 

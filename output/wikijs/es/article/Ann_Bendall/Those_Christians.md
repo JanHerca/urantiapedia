@@ -32,7 +32,7 @@ Dentro de cada vida humana está encerrada una riqueza de amor y alegría que pa
 
 > La prueba para el mundo entero de que habéis nacido del espíritu es que os amáis sinceramente los unos a los otros.
 >
-> Jesús, El libro de Urantia, [LU 142:5.4](/es/The_Urantia_Book/142#p5_4)
+> Jesús, _El Libro de Urantia_, [LU 142:5.4](/es/The_Urantia_Book/142#p5_4)
 
 > Por accidente de la fortuna un hombre puede gobernar el mundo por un tiempo, pero en virtud del amor puede gobernar el mundo para siempre.
 >

@@ -57,7 +57,7 @@ Pero hace 1500 millones de años, su historia dice que **la luna estaba cerca de
 
 <figure class="image urantiapedia">
 <img src="/image/article/Ken_Glasziou/Prove_it_to_yourself_for_yourself_2/004233.png">
-<figcaption>Fig. 1. <em>El origen del sistema Tierra-Luna según El libro de Urantia.</em> </figcaption>
+<figcaption>Fig. 1. <em>El origen del sistema Tierra-Luna según _El Libro de Urantia_.</em> </figcaption>
 </figure>
 
 Las cifras citadas en Microsoft Encarta, Encyclopedia Britannica y en otros lugares dan la masa actual de la tierra como 5,94 x 10^21^ toneladas métricas con un radio de 6378 km, mientras que la masa actual de la luna se da como 7,5 x 10^19^ toneladas métricas con un radio de 1738 km.
@@ -70,7 +70,7 @@ En la actualidad, la luna tiene aproximadamente 1/80^th^ de la masa de la tierra
 
 En la actualidad, toda la superficie de la luna está marcada por cráteres de impacto y gigantescos flujos de lava y, gracias a las misiones Apolo, la roca basáltica muestreada de estos flujos en la superficie de la luna data de hace entre 3100 y 3900 millones de años. atrás. Estos son hechos que son simplemente incompatibles con la historia provista en los Documentos.
 
-La realidad de nuestro presente análisis es fácilmente confirmable por casi cualquier persona dispuesta a tomarse la molestia. No se requiere ningún conocimiento científico ni ningún otro conocimiento especializado para ver que el relato de El libro de Urantia sobre la evolución del sistema tierra-luna es simplemente imposiblemente erróneo.
+La realidad de nuestro presente análisis es fácilmente confirmable por casi cualquier persona dispuesta a tomarse la molestia. No se requiere ningún conocimiento científico ni ningún otro conocimiento especializado para ver que el relato de _El Libro de Urantia_ sobre la evolución del sistema tierra-luna es simplemente imposiblemente erróneo.
 
 (Consulte la nota al final de este documento para obtener una forma rápida y sencilla de confirmar los puntos de datos de masa/radio de -2.500 millones de años).
 

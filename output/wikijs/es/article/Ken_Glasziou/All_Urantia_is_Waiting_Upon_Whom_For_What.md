@@ -12,7 +12,7 @@ dateCreated: 2022-09-26T01:27:35.398Z
 
 > «Toda Urantia está esperando la proclamación del mensaje ennoblecedor de Miguel, sin las trabas de las doctrinas y los dogmas acumulados durante diecinueve siglos de contacto con las religiones de origen evolutivo. Ha llegado la hora de presentar al budismo, al cristianismo, al hinduismo, e incluso a los pueblos de todas las religiones, no el evangelio acerca de Jesús, sino la realidad viviente y espiritual del evangelio de Jesús». ([LU 94:12.7](/es/The_Urantia_Book/94#p12_7))
 
-“¿Soy yo Señor? ¿Estás realmente esperando a alguien como yo? ¿Es por eso que tengo el Libro de Urantia? ¿Y seguramente no puede ser cierto que se espera que los lectores de El libro de Urantia llevemos su mensaje a personas intolerantes, poco receptivas y atrasadas cuyas mentes están cerradas a cualquier mensaje que no sea el suyo propio?
+“¿Soy yo Señor? ¿Estás realmente esperando a alguien como yo? ¿Es por eso que tengo el Libro de Urantia? ¿Y seguramente no puede ser cierto que se espera que los lectores de _El Libro de Urantia_ llevemos su mensaje a personas intolerantes, poco receptivas y atrasadas cuyas mentes están cerradas a cualquier mensaje que no sea el suyo propio?
 
 Pero, ¿qué pasa con todos esos conceptos emocionantes sobre nosotros, los lectores de libros? ¿No somos un grupo de emergencia muy especial elegido para ser trasladado a algún nuevo planeta cuando estas ‘otras personas’ han hecho que este sea inhabitable? ¿O no somos un acervo genético especial elegido para ser los sobrevivientes de un holocausto atómico para fundar una raza nueva y superior? ¿Y no somos todos miembros de élite del Cuerpo de Reserva del Destino?
 
@@ -45,7 +45,7 @@ Uno fue el fracaso de los misioneros de Melquisedec. «_Melquisedek había adver
 
 Otro se refería al increíble Ikhnaton de la historia egipcia: «_La debilidad de la doctrina de Akenatón residía en el hecho de que proponía una religión tan avanzada, que sólo los egipcios instruidos podían comprender plenamente sus enseñanzas._» ([LU 95:5.12](/es/The_Urantia_Book/95#p5_12))
 
-La religión de El libro de Urantia es, con mucho, la más avanzada que jamás haya estado disponible para nosotros. Es demasiado avanzado para la gran mayoría de las personas en la Tierra. Entonces, ¿qué podemos hacer? Primero reconozca el error de los misioneros de Melquisedec: intentaron demasiado, demasiado rápido. Entonces reconozca el error de Ikhnaton y manténgalo simple.
+La religión de _El Libro de Urantia_ es, con mucho, la más avanzada que jamás haya estado disponible para nosotros. Es demasiado avanzado para la gran mayoría de las personas en la Tierra. Entonces, ¿qué podemos hacer? Primero reconozca el error de los misioneros de Melquisedec: intentaron demasiado, demasiado rápido. Entonces reconozca el error de Ikhnaton y manténgalo simple.
 
 > E incluso las cosas más sólidas y más reales, las más queridas y las más conocidas, son solo sombras de manos en la pared. Espacio vacío y puntos de luz.
 > Jeanette Winterson
@@ -56,7 +56,7 @@ Para comenzar nuestra misión, además de nuestra vida real en la imitación de 
 
 Si vamos a seguir a Jesús entonces, en su mayor parte, nuestro servicio debe ser discretamente discreto, de forma personal e individual, y totalmente en manos de nuestro Padre-Espíritu que mora en nosotros.
 
-Tampoco es esencial que busquemos promover El libro de Urantia. El simple mensaje de que Dios es nuestro Padre, que todos somos sus hijos, y que Dios se encuentra dentro de nosotros, es todo lo que realmente se necesita.
+Tampoco es esencial que busquemos promover _El Libro de Urantia_. El simple mensaje de que Dios es nuestro Padre, que todos somos sus hijos, y que Dios se encuentra dentro de nosotros, es todo lo que realmente se necesita.
 
 Hay muchos versículos en el Nuevo Testamento que hablan de la morada de Dios. Se adjuntan algunos.
 

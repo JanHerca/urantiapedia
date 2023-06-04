@@ -1,5 +1,5 @@
 ---
-title: "La próxima validación científica de El libro de Urantia"
+title: "La próxima validación científica de El Libro de Urantia"
 description: 
 published: true
 date: 2023-02-13T14:02:03.086Z
@@ -19,7 +19,7 @@ dateCreated: 2023-02-13T14:02:03.086Z
 
 Aunque _El Libro de Urantia_ se publicó por primera vez en 1955, ya en 1942 estaba «arreglado» y en 1946 las versiones finales de las planchas de la primera edición estaban en la bóveda de la imprenta RR Donnelley & Sons de Chicago, listas para producir 10.000 copias.[^1] Sin fanfarria, el libro fue publicado y se enviaron copias a personajes destacados de la época. La reacción fue un sonido resonante de una mano aplaudiendo. Y así ha sido prácticamente desde entonces, a excepción de unas pocas personas aquí y allá de todo el mundo que han encontrado un valor real, un gran valor, incluso un valor inmenso en las páginas de lo que reconocemos como el «Fifth Revelación de época» de hechos científicos y verdades espirituales para nuestro mundo, Urantia.
 
-¿El libro de Urantia fue escrito por seres humanos? Imagine a algunas personas cooperando en el esfuerzo de armar silenciosamente los Documentos de Urantia.
+¿_El Libro de Urantia_ fue escrito por seres humanos? Imagine a algunas personas cooperando en el esfuerzo de armar silenciosamente los Documentos de Urantia.
 
 Tuvieron que usar una máquina de escribir ya que no había computadoras en ese momento. Su equipo de investigación se encargó de encontrar a los mejores escritores humanos en astronomía, geología, paleontología, química, física, biología, botánica y cualquier otro campo que se te ocurra, y luego usar de forma selectiva sus ideas y, a veces, incluso su fraseo, pero para evitar todos sus errores.
 
@@ -31,7 +31,7 @@ Pero se ha pasado por alto otra posibilidad, que seamos contactados por vida sob
 
 ## Error potencialmente desacreditador evitado
 
-Un buen ejemplo de la extraña habilidad de El libro de Urantia para evitar trampas es el engaño del doble fósil del hombre de Piltdown. Según lo dicho por Wayne Jackson[^2]: «En diciembre de 1912, Charles Dawson, un arqueólogo aficionado, y Sir Arthur Smith Woodward del Museo Británico de Historia Natural, anunciaron que habían descubierto un cráneo con forma de hombre en un pozo cerca de Piltdown, Inglaterra. Junto con el cráneo había una mandíbula que parecía muy parecida a la de un simio, excepto por los dientes, que eran más aplanados, como era de esperar en los humanos».
+Un buen ejemplo de la extraña habilidad de _El Libro de Urantia_ para evitar trampas es el engaño del doble fósil del hombre de Piltdown. Según lo dicho por Wayne Jackson[^2]: «En diciembre de 1912, Charles Dawson, un arqueólogo aficionado, y Sir Arthur Smith Woodward del Museo Británico de Historia Natural, anunciaron que habían descubierto un cráneo con forma de hombre en un pozo cerca de Piltdown, Inglaterra. Junto con el cráneo había una mandíbula que parecía muy parecida a la de un simio, excepto por los dientes, que eran más aplanados, como era de esperar en los humanos».
 
 Cuando un segundo fósil, Piltdown II, apareció más tarde en 1917, casi todos los científicos en el campo fueron engañados, incluidos los escépticos anteriores Henry F. Osborn y William Gregory. Según el maestro detective de libros de consulta y escéptico de autoría sobrehumana Matthew Block[^3], Osborn fue la fuente principal del material de _El Libro de Urantia_ sobre el hombre prehistórico.
 
@@ -75,7 +75,7 @@ c) __Formación de Montañas.__ Con respecto a las cadenas montañosas occidenta
 
 Wegener había ofrecido tal escenario para explicar la cordillera occidental de montañas en América del Norte y del Sur. Esto ahora ha sido corroborado y elaborado en gran medida con conocimiento que _El Libro de Urantia_ no reveló en ese momento. Se podría decir que la cuenta ahora podría beneficiarse de una revisión en vista de la nueva información científica aprendida desde 1955.
 
-Si los autores de El libro de Urantia hubieran elegido un relato básicamente erróneo, eso lo habría desacreditado. La probabilidad de elegir al azar la posición de Wegener y elegir al azar el mecanismo adecuado de la deriva continental es mucho menor que 1/20. La falta de una descripción detallada aquí no es un descalificador de la autoría sobrehumana.
+Si los autores de _El Libro de Urantia_ hubieran elegido un relato básicamente erróneo, eso lo habría desacreditado. La probabilidad de elegir al azar la posición de Wegener y elegir al azar el mecanismo adecuado de la deriva continental es mucho menor que 1/20. La falta de una descripción detallada aquí no es un descalificador de la autoría sobrehumana.
 
 Entonces, elegir correctamente al azar tanto en «Piltdown» como en «Wegener» es menos de (1/50)(1/20)=1/1000. Factorice otro 1/2 para la formación de montañas, y la probabilidad es 1/2000. Ya ves a dónde lleva esto. Una secuencia de trampas probables y posiciones impopulares y otras posiciones difícilmente pueden TODAS salir bien sin una autoría sobrehumana. Por lo tanto, _El Libro de Urantia_ tuvo autores sobrehumanos. Más apoyo para esta estimación sigue.
 
@@ -229,7 +229,7 @@ _El Libro de Urantia_ hace muchas predicciones de este tipo y, cuando se observe
 
 Mi favorito personal en esta categoría es la sensacional predicción de que hay una forma de vida que no respira en una esfera muy próxima a nuestro mundo. Como tal, podríamos estar buscando el tipo de vida equivocado en nuestro sistema solar, entreteniendo un concepto de vida demasiado estrecho. Si _El Libro de Urantia_ es lo que dice que es, entonces debe haber un mundo así en las proximidades. Algunos lectores piensan que eso implica que el mundo debe estar en nuestro sistema solar, pero supongo que estar dentro de un rango de comunicación fácil, como a unos pocos años luz de distancia, también podría estar muy cerca en términos astronómicos porque podríamos conocernos por comunicación interestelar. . Incluso eso sería emocionante. Más sobre esto más adelante.
 
-¿Por qué creer en la ciencia de _El Libro de Urantia_? Ciertamente no es sólo porque _El Libro de Urantia_ declara muchas verdades espirituales. Más bien, la ciencia de _El Libro de Urantia_ también debe valerse por sí misma, al menos por un tiempo, durante estos tiempos en los que la mayor parte del mundo aún no la ha tomado en serio. La verdadera razón por la que creo en la ciencia de _El Libro de Urantia_ y en la autenticidad de _El Libro de Urantia_ como revelación divina para nuestro mundo es por su forma humanamente improbable de evitar el error y la serpenteante convergencia a lo largo de los años de la ciencia contemporánea hacia las posiciones adoptadas por _El El libro de Urantia_ autores.
+¿Por qué creer en la ciencia de _El Libro de Urantia_? Ciertamente no es sólo porque _El Libro de Urantia_ declara muchas verdades espirituales. Más bien, la ciencia de _El Libro de Urantia_ también debe valerse por sí misma, al menos por un tiempo, durante estos tiempos en los que la mayor parte del mundo aún no la ha tomado en serio. La verdadera razón por la que creo en la ciencia de _El Libro de Urantia_ y en la autenticidad de _El Libro de Urantia_ como revelación divina para nuestro mundo es por su forma humanamente improbable de evitar el error y la serpenteante convergencia a lo largo de los años de la ciencia contemporánea hacia las posiciones adoptadas por _El _El Libro de Urantia__ autores.
 
 ## Resumen de la evidencia del conocimiento sobrehumano
 
@@ -604,7 +604,7 @@ Cada Espíritu Maestro tiene su propio superuniverso. Pertenecemos al séptimo s
 
 ## Notas
 
-[^1]: Larry Mullins con la Dra. Meredith Sprunger, _A History of the Urantia Papers_, Penumbra Press, Boulder, CO., 2000. (El Apéndice A es el exhaustivo _Cambios en el texto de las ediciones de El libro de Urantia de la Fundación Urantia_ de Merritt Horn. )
+[^1]: Larry Mullins con la Dra. Meredith Sprunger, _A History of the Urantia Papers_, Penumbra Press, Boulder, CO., 2000. (El Apéndice A es el exhaustivo _Cambios en el texto de las ediciones de _El Libro de Urantia_ de la Fundación Urantia_ de Merritt Horn. )
 
 [^2]: _Frauds in Science_, Wayne Jackson, Christian Courier: Archives, 3 de octubre de 2001, http://www.christiancourier.com/archives/scienceFrauds.htm.
 

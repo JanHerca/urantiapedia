@@ -1,5 +1,5 @@
 ---
-title: "¿Quién escribió El libro de Urantia? En mi opinión, no importa"
+title: "¿Quién escribió El Libro de Urantia? En mi opinión, no importa"
 description: 
 published: true
 date: 2022-9-9T8:13:39Z
@@ -16,7 +16,7 @@ Parece probable que tales lectores inconscientemente comiencen a dar por sentado
 
 ¿Qué pasaría si salieran a la luz pruebas contundentes de que el Dr. Sadler conspiró con otros para escribir y presentar los Documentos de Urantia como si fueran una revelación de seres celestiales? ¿Serían menos ciertas las verdades que se descubrirán en los Documentos? ¿O menos autoritario?
 
-Para muchos la respuesta es no. La verdad en El libro de Urantia y la verdad de cualquier otra fuente siguen siendo verdaderas independientemente de la fuente. El Evangelio de Juan nos reveló a los mortales que el Espíritu de la Verdad vendría después de que Jesús «se fuera». Su propósito sería guiar nuestra vida y conducirnos a toda la verdad.
+Para muchos la respuesta es no. La verdad en _El Libro de Urantia_ y la verdad de cualquier otra fuente siguen siendo verdaderas independientemente de la fuente. El Evangelio de Juan nos reveló a los mortales que el Espíritu de la Verdad vendría después de que Jesús «se fuera». Su propósito sería guiar nuestra vida y conducirnos a toda la verdad.
 
 El Espíritu de la Verdad fue «derramado» en Pentecostés. Fue tan efectivo que los apóstoles progresaron más espiritualmente en un mes después de su otorgamiento que en cuatro años de contacto personal y diario con Jesús. Esto sucedió a pesar de que no tenían una guía escrita. ([LU 194:2.9](/es/The_Urantia_Book/194#p2_9))
 
@@ -28,7 +28,7 @@ Sin embargo, cuando la incertidumbre y la inseguridad se convierten en una neces
 
 > Pero mucho antes de llegar a Havona, estos hijos ascendentes del tiempo han aprendido a deleitarse con las incertidumbres, a enriquecerse con las decepciones, a entusiasmarse con los fracasos aparentes, a estimularse en presencia de las dificultades, a mostrar un valor indomable frente a la inmensidad, y a ejercer una fe invencible cuando se enfrentan con el desafío de lo inexplicable. Hace mucho tiempo que el grito de guerra de estos peregrinos se ha vuelto: «En unión con Dios, nada —absolutamente nada— es imposible». ([LU 26:5.3](/es/The_Urantia_Book/26#p5_3))
 
-Una lectura cuidadosa de El libro de Urantia muestra que ninguno de sus autores, ni siquiera los Consejeros divinos, tienen realmente un estatus divino. El libro también dice que solo aquellos con el estatus de Creador divino pueden conocer la verdad absoluta.
+Una lectura cuidadosa de _El Libro de Urantia_ muestra que ninguno de sus autores, ni siquiera los Consejeros divinos, tienen realmente un estatus divino. El libro también dice que solo aquellos con el estatus de Creador divino pueden conocer la verdad absoluta.
 
 Los autores de los Documentos de Urantia no afirman que su trabajo tenga autoridad divina o incluso sanción divina. El camino a la verdad es evolutivo y progresivo. Por lo tanto, puede que tenga que proceder mediante una serie de aproximaciones. La revelación todavía puede ser revelación, pero no ser verdad.
 

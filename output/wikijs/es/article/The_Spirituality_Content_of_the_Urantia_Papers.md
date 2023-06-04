@@ -10,7 +10,7 @@ dateCreated: 2022-09-27T00:03:47.821Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 The Brotherhood of Man Library</p>
 
-En un futuro no muy lejano llegará un momento en que gran parte de El libro de Urantia quedará obsoleto. Esto se debe a la obsolescencia de gran parte de su ciencia, así como a porciones considerables del contenido histórico, incluido su material bíblico.
+En un futuro no muy lejano llegará un momento en que gran parte de _El Libro de Urantia_ quedará obsoleto. Esto se debe a la obsolescencia de gran parte de su ciencia, así como a porciones considerables del contenido histórico, incluido su material bíblico.
 
 Ahora puede haber pocas dudas de que los reveladores anticiparon esto. A lo largo del libro hay una gran cantidad de material disperso que se relaciona directamente con cosas de valor espiritual. De hecho, hay tanto en esta categoría que nos vemos obligados a especular sobre si la función principal de los Documentos de Urantia es desviar nuestra atención de lo material y lo secular a las «cosas del espíritu».
 

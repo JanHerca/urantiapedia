@@ -1,5 +1,5 @@
 ---
-title: "La ciencia y el contenido histórico de El libro de Urantia"
+title: "La ciencia y el contenido histórico de El Libro de Urantia"
 description: "¿Hecho, o hecho puntuado por simbolismo, mitología y alegoría?"
 published: true
 date: 2023-01-21T14:02:03.086Z

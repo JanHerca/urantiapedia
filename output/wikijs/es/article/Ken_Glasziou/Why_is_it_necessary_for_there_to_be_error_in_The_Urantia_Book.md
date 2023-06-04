@@ -1,5 +1,5 @@
 ---
-title: "¿Por qué es necesario que haya errores en El libro de Urantia?"
+title: "¿Por qué es necesario que haya errores en El Libro de Urantia?"
 description: 
 published: true
 date: 2023-04-09T12:59:32.170Z
@@ -18,7 +18,7 @@ Por esta importante razón, primero planteamos la pregunta: ¿hay errores sustan
 
 ## El sistema Tierra-Luna: Una comparación de la versión del Libro de Urantia con la de la ciencia moderna
 
-En [LU 57:5.1](/es/The_Urantia_Book/57#p5_1) de El libro de Urantia leemos:
+En [LU 57:5.1](/es/The_Urantia_Book/57#p5_1) de _El Libro de Urantia_ leemos:
 
 «_Hace 5.000.000.000 de años, vuestro Sol era una esfera llameante comparativamente aislada..._» seguido de:
 
@@ -95,7 +95,7 @@ Las cuencas grandes y oscuras como Mare Imbrium son gigantescos cráteres de imp
 
 **9\. Desde las misiones Apolo ha habido dos visitas de sobrevuelo a principios de la década de 1990 de la nave espacial Galileo con destino a Júpiter que, usando filtros espectrales para mapear la superficie lunar, notó la presencia de rocas altas de hierro en el suelo de la cuenca Polo Sur-Aitkin. En 1994, la nave espacial Clementine realizó otras visitas, que orbitó la luna durante 71 días y obtuvo un mapa global completo de la superficie lunar en 11 longitudes de onda. Más tarde, el Lunar Prospector en 1998 cartografió la composición de la superficie de la luna utilizando espectroscopia de rayos gamma y neutrones. Ambos encontraron evidencia de hielo de agua en los polos.**
 
-Los números 7 y 8 anteriores ilustran la enorme diferencia entre el relato de El libro de Urantia sobre las relaciones entre la Tierra y la Luna durante su fase de construcción y el formulado a partir de investigaciones científicas. El Libro de Urantia muestra a la Tierra y la Luna siguiendo un camino paralelo de crecimiento durante el período de hace 2500 millones de años, pero divergiendo hace 2000 millones de años, cuando la Tierra capturó «enormes cuerpos espaciales». En contraste, la ciencia moderna ha utilizado técnicas avanzadas para producir una imagen en la que tanto la Tierra como la Luna utilizaron el mismo conjunto de materiales de construcción en un proceso (la acumulación de masa) que fue prácticamente completo para cada uno hace unos 4600 millones de años.
+Los números 7 y 8 anteriores ilustran la enorme diferencia entre el relato de _El Libro de Urantia_ sobre las relaciones entre la Tierra y la Luna durante su fase de construcción y el formulado a partir de investigaciones científicas. El Libro de Urantia muestra a la Tierra y la Luna siguiendo un camino paralelo de crecimiento durante el período de hace 2500 millones de años, pero divergiendo hace 2000 millones de años, cuando la Tierra capturó «enormes cuerpos espaciales». En contraste, la ciencia moderna ha utilizado técnicas avanzadas para producir una imagen en la que tanto la Tierra como la Luna utilizaron el mismo conjunto de materiales de construcción en un proceso (la acumulación de masa) que fue prácticamente completo para cada uno hace unos 4600 millones de años.
 
 En el caso de la luna, la actividad volcánica y el flujo de lava continuaron hasta hace 3200 millones de años, después de lo cual cesó la actividad, excepto por colisiones ocasionales con meteoritos.
 
@@ -103,7 +103,7 @@ En el caso de la luna, la actividad volcánica y el flujo de lava continuaron ha
 
 ## El océano mundial y el primer continente
 
-Según El libro de Urantia, hace entre 1500 y 1000 millones de años, «toda la tierra era un verdadero infierno de fuego» hacia el final del cual «durante miles de años Urantia estuvo envuelta en un manto continuo de vapor» a través del cual “el sol nunca brilló sobre La superficie de la tierra.« Este, afirma el Libro, fue el momento de la aparición del primer océano primitivo y la formación de sedimentos en el fondo del océano. Sin embargo, debido a que no había oxígeno libre en la atmósfera, estos primeros depósitos oceánicos carecían de »piedras coloreadas o esquistos". ([LU 57:7.9](/es/The_Urantia_Book/57#p7_9)) Presumiblemente, este comentario se refiere a la ausencia de sales de hierro en su forma férrica (oxidada), que son de color rojo a marrón rojizo. 
+Según _El Libro de Urantia_, hace entre 1500 y 1000 millones de años, «toda la tierra era un verdadero infierno de fuego» hacia el final del cual «durante miles de años Urantia estuvo envuelta en un manto continuo de vapor» a través del cual “el sol nunca brilló sobre La superficie de la tierra.« Este, afirma el Libro, fue el momento de la aparición del primer océano primitivo y la formación de sedimentos en el fondo del océano. Sin embargo, debido a que no había oxígeno libre en la atmósfera, estos primeros depósitos oceánicos carecían de »piedras coloreadas o esquistos". ([LU 57:7.9](/es/The_Urantia_Book/57#p7_9)) Presumiblemente, este comentario se refiere a la ausencia de sales de hierro en su forma férrica (oxidada), que son de color rojo a marrón rojizo. 
 
 Pero según la ciencia moderna, la realidad era completamente diferente. Los depósitos sedimentarios coloreados que se originaron en los océanos datan de al menos 2500 millones de años y son el resultado de la oxigenación de las aguas oceánicas a través de la fotosíntesis.[^1] Los estromatolitos que se forman en los océanos poco profundos pueden tener hasta treinta metros de espesor y diez metros de altura. –y son el producto de colonias de organismos vivos. Las más destacadas son las bacterias fotosintéticas Cyanacae, a menudo llamadas erróneamente algas verdeazuladas. Algunos estromatolitos datan de hace 3.900 millones de años, y el análisis de circones de rocas sedimentarias en Australia Occidental ubica la formación de océanos más allá de hace 4.300 millones de años [^6] [^7], una conclusión en línea con la datación de estromatolitos oceánicos de 3.900 millones de años. atrás.
 
@@ -125,7 +125,7 @@ Ninguno de estos organismos podría haber sobrevivido a ese intervalo entre hace
 
 Mientras que hay una gran cantidad de evidencia para apoyar la conclusión de que los océanos primitivos existieron hace 4 mil millones de años y para las formas de vida que vivieron en ellos, no hay evidencia física para respaldar la versión del Libro de Urantia del primer océano primitivo que ocurrió hace poco más de mil millones de años. hace ni por la afirmación de que su aparición fue precedida por «miles de años» cuando el «sol nunca brillaba sobre la superficie de la tierra».
 
-Pedir a los lectores de El libro de Urantia que crean en esta evidencia sin respaldo frente a la evidencia científica verificada de lo contrario es similar a la demanda de muchos cristianos fundamentalistas de creer que tanto el Antiguo como el Nuevo testamento son la palabra absoluta de Dios y, por lo tanto, que Noé realmente metió un par de todas las especies animales del mundo en su arco, que la ballena realmente se tragó a Jonás y lo vomitó tres días después en tierra firme, que Dios mantuvo el sol estacionario en el cielo proporcionando así la luz que permitió Josué para matar a los amorreos, los enemigos de su pueblo elegido!
+Pedir a los lectores de _El Libro de Urantia_ que crean en esta evidencia sin respaldo frente a la evidencia científica verificada de lo contrario es similar a la demanda de muchos cristianos fundamentalistas de creer que tanto el Antiguo como el Nuevo testamento son la palabra absoluta de Dios y, por lo tanto, que Noé realmente metió un par de todas las especies animales del mundo en su arco, que la ballena realmente se tragó a Jonás y lo vomitó tres días después en tierra firme, que Dios mantuvo el sol estacionario en el cielo proporcionando así la luz que permitió Josué para matar a los amorreos, los enemigos de su pueblo elegido!
 
 Eso nos lleva a los Portadores de Vida hace 550 millones de años y su introducción de la «vida» en Urantia. Hay casi un exceso de evidencia de lo que tanto los científicos como los legos llaman «vida» a lo largo del tiempo casi hasta el nacimiento de nuestro planeta hace más de 4 mil millones de años. La presencia de estromatolitos en ese momento es una evidencia abrumadora de que la vida ya estaba presente y, debido a la complejidad de la «vida», incluso considerablemente antes. Todos los estromatolitos están formados por colonias de organismos, al menos uno de los cuales era fotosintético para proporcionar una fuente de energía a la colonia. El requisito mínimo para un organismo de este tipo es que pueda reproducirse, así como sintetizar un sistema orgánico complejo capaz de atrapar la energía de la luz solar (fotosíntesis) y hacerla disponible en una forma que el organismo pueda usar.
 
@@ -159,7 +159,7 @@ Solo recientemente, con la ayuda de tecnología avanzada, hemos tenido un relato
 
 ¿Cómo podemos explicar tal error en una revelación? La verdadera respuesta a esa pregunta es leer toda la revelación y descubrir lo que realmente dice.
 
-## ¡Lo que realmente dice la Revelación de Urantia! ¿Por qué hay errores en El libro de Urantia?
+## ¡Lo que realmente dice la Revelación de Urantia! ¿Por qué hay errores en _El Libro de Urantia_?
 
 Una respuesta es que debido a que existen limitaciones definidas para la revelación, algunas de las cuales se establecen bajo el título *Las limitaciones de la revelación* en [LU 101:4.1](/es/The_Urantia_Book/101#p4_1):
 

@@ -26,7 +26,7 @@ dateCreated: 2023-02-13T14:02:03.086Z
 
 El monstruo llamado «Debe hacerse ahora» siempre estaba al teléfono o golpeando la puerta. Durante los últimos cinco años, algún evento imprevisto nos había impedido realizar este viaje largamente anhelado. ¡No esta vez! ¡Por fin nos dimos cuenta, por fin estamos en camino! Este viaje de alegría y alegría indulgentes a través de los EE. UU. en una casa rodante que llamamos «Mota Home» fue la acumulación de años de arduo trabajo. Veremos y experimentaremos, de primera mano, la belleza y la diversidad de la «obra de Dios», caminos panorámicos, senderos apartados, cascadas escondidas y visitas a bodegas. Empacamos libros sobre cómo detectar animales salvajes sin que ellos te vean a ti, cámaras para cada ocasión y una guía para acampar libremente en el oeste; lo teníamos todo. Ah, sí, y algunos nombres y números de teléfono de grupos de estudio aquí y allá. El servicio que habíamos planeado para el año estaba casi terminado. Hicimos nuestra parte en «IC05», la conferencia de Estudiantes de Florida de _El Libro de Urantia_ (FSUB), la Feria del Libro de Miami, los boletines, los grupos de estudio y los proyectos de la Fundación Urantia, ¿verdad? ¡Está bien tener una gloriosa parada de cinco días en Filadelfia para que «IC05» nos dé inicio y luego seguir nuestro camino alegre!
 
-Allí estábamos sentados en un Beach Grill soleado en St. Augustine, un cielo espléndido, olas rompiendo y hablando con un lector local de El libro de Urantia. La discusión, traducida, es cómo la «Jerarquía de necesidades de Maslow» (las necesidades básicas deben satisfacerse antes de la autorrealización), afecta nuestra capacidad de servir. Estaba claramente interfiriendo con sus deseos superiores.
+Allí estábamos sentados en un Beach Grill soleado en St. Augustine, un cielo espléndido, olas rompiendo y hablando con un lector local de _El Libro de Urantia_. La discusión, traducida, es cómo la «Jerarquía de necesidades de Maslow» (las necesidades básicas deben satisfacerse antes de la autorrealización), afecta nuestra capacidad de servir. Estaba claramente interfiriendo con sus deseos superiores.
 
 __Ingrediente #1: La oportunidad de servir es un privilegio.__
 
@@ -80,7 +80,7 @@ __Ingrediente #11: Todos podemos servir, a nuestra manera, con nuestros propios 
 
 Justo allí en el campamento el domingo, ¡Susan nos dirigió en un servicio de adoración absorbente! Ella iba a dar una presentación en Toastmasters esa mañana y nos invitó a venir. ¿Su tema? «¡Estoy enamorado!» y continuó entregando un destacado relato de su historia de amor con Dios, terminando con una breve introducción a _El Libro de Urantia_.
 
-__Ingrediente # 12: Sea creativo y dinámico al presentar El libro de Urantia.__
+__Ingrediente # 12: Sea creativo y dinámico al presentar _El Libro de Urantia_.__
 
 Todos hemos oído hablar de las «olas de grano de color ámbar», bueno, están ahí. Millas y millas y millas de ellos. También hay mares verdes de soja, paredes doradas de trigo, ríos marrones de arroz y un océano de cielo altísimo, hasta donde alcanza la vista. Antes de salir de Kansas, me estaba ahogando en las olas y los mares y me emocionaba ver colinas áridas y voluptuosas más adelante. Las Montañas Rocosas aparecieron a la vista.
 
@@ -100,7 +100,7 @@ El día antes de irnos de Boulder, Lugena organizó una reunión encantadora que
 
 __Ingrediente n.° 16: El hospedaje brinda vínculos que no están disponibles en otras situaciones.__
 
-Saliendo de Colorado nos dirigimos al norte hacia Coeur d'Alene, Idaho, para experimentar un nuevo formato para presentar los conceptos de _El Libro de Urantia_ sin mencionar _El Libro de Urantia_. Programamos nuestro viaje para llegar el lunes por la noche, la noche en que Cosmic Cafe estaba en sesión. Asistieron unas 12 personas, algunas eran lectores de El libro de Urantia. El tema de la noche fue «Tiempo y espacio». Estábamos extremadamente interesados ​​en ver cómo este tema podría entretejerse tentadoramente con las verdades espirituales presentadas en _El Libro de Urantia_. Esta sesión de dos horas fue un diálogo de preguntas y opiniones (no de respuestas). Thomas y Aurora hicieron un trabajo espléndido de facilitar. Dirigían constantemente la conversación hacia la belleza y la simetría de nuestro Padre y cómo sus leyes naturales coordinan el tiempo y el espacio para la máxima bondad.
+Saliendo de Colorado nos dirigimos al norte hacia Coeur d'Alene, Idaho, para experimentar un nuevo formato para presentar los conceptos de _El Libro de Urantia_ sin mencionar _El Libro de Urantia_. Programamos nuestro viaje para llegar el lunes por la noche, la noche en que Cosmic Cafe estaba en sesión. Asistieron unas 12 personas, algunas eran lectores de _El Libro de Urantia_. El tema de la noche fue «Tiempo y espacio». Estábamos extremadamente interesados ​​en ver cómo este tema podría entretejerse tentadoramente con las verdades espirituales presentadas en _El Libro de Urantia_. Esta sesión de dos horas fue un diálogo de preguntas y opiniones (no de respuestas). Thomas y Aurora hicieron un trabajo espléndido de facilitar. Dirigían constantemente la conversación hacia la belleza y la simetría de nuestro Padre y cómo sus leyes naturales coordinan el tiempo y el espacio para la máxima bondad.
 
 __Ingrediente #17: Se puede incorporar contenido espiritual, independientemente del tema.__
 

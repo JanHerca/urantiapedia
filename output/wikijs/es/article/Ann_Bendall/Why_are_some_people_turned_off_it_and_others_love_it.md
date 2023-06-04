@@ -1,5 +1,5 @@
 ---
-title: "El libro de Urantia. ¿Por qué algunas personas lo rechazan y a otras les encanta?"
+title: "El Libro de Urantia. ¿Por qué algunas personas lo rechazan y a otras les encanta?"
 description: 
 published: true
 date: 2022-9-9T8:13:38Z
@@ -21,7 +21,7 @@ A medida que nos desarrollamos mentalmente a lo largo de la infancia, estas idea
 > La verdad nunca cayó muerta en las calles; tiene tal afinidad con el alma del hombre, que la semilla, sin importar cómo se esparza, se atrapará en alguna parte y producirá su céntuplo.
 > Theodore Parker, Un discurso sobre asuntos relacionados con la religión
 
-Tal vez hemos sido bendecidos al haber sido criados en un ambiente religioso que puso más énfasis en el cielo que en el infierno, como resultado de lo cual «_la mente del niño normal avanza positivamente hacia la rectitud moral y el servicio social, en lugar de alejarse negativamente del pecado y la culpa._» ([LU 103:2.6](/es/The_Urantia_Book/103#p2_6)) En este caso, El libro de Urantia supondrá un choque cultural mucho menor que para aquellos de nosotros criados en el ambiente opuesto.
+Tal vez hemos sido bendecidos al haber sido criados en un ambiente religioso que puso más énfasis en el cielo que en el infierno, como resultado de lo cual «_la mente del niño normal avanza positivamente hacia la rectitud moral y el servicio social, en lugar de alejarse negativamente del pecado y la culpa._» ([LU 103:2.6](/es/The_Urantia_Book/103#p2_6)) En este caso, _El Libro de Urantia_ supondrá un choque cultural mucho menor que para aquellos de nosotros criados en el ambiente opuesto.
 
 Con la adolescencia y la capacidad mental extendida para el pensamiento abstracto, comenzamos a observar los valores y creencias de nuestros padres y la sociedad, y comenzamos a preguntarnos ¿por qué? Ahora existe la capacidad mental, pero no necesariamente el deseo, de cuestionar todo lo que se nos ha ofrecido como hecho y realidad. La adolescencia es un período maravilloso en el que no solo se ha desarrollado la capacidad mental para cuestionar, sino que el desarrollo físico ha mantenido el ritmo mental, y podemos realmente hacer cumplir nuestra voluntad, nuestros deseos, así como ser capaces de rechazar la voluntad y los deseos de los demás. otros.
 

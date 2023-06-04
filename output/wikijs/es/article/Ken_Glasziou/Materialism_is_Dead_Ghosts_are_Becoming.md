@@ -30,7 +30,7 @@ Ahora eche un vistazo al otro punto focal de la elipse y, ¡sorpresa, sorpresa, 
 
 Adivina qué. La gente ahora está tratando de usar la imagen fantasma del átomo de cobalto real para ver si pueden unirlo con otro átomo real para hacer una molécula híbrida que tenga un átomo fantasma y un átomo real.
 
-> En la mente de Dios hay un plan que incluye a todas las criaturas de todos sus inmensos dominios, y este plan consiste en un propósito eterno de oportunidades sin límites, de progreso ilimitado y de vida sin fin. ¡Y los tesoros infinitos de esta carrera incomparable serán vuestros con tal que os esforcéis por alcanzarlos! ([UB 32:5.7](/es/El_Libro_de_Urantia/32#p5_7))
+> En la mente de Dios hay un plan que incluye a todas las criaturas de todos sus inmensos dominios, y este plan consiste en un propósito eterno de oportunidades sin límites, de progreso ilimitado y de vida sin fin. ¡Y los tesoros infinitos de esta carrera incomparable serán vuestros con tal que os esforcéis por alcanzarlos! ([LU 32:5.7](/es/The_Urantia_Book/32#p5_7))
 
 ## Enlaces externos
 

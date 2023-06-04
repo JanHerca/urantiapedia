@@ -26,7 +26,7 @@ Pero si su respuesta es no (porque no tendría sentido), entonces debe haber otr
 
 Cualquiera que sea tu respuesta, nunca olvides que realmente estás habitado por tu Dios-espíritu que siempre está listo para ayudarte a resolverte.
 
-> No olvidéis que sólo estáis encargados de salir a predicar la buena nueva. No debéis atacar las viejas costumbres; debéis introducir hábilmente la levadura de la nueva verdad en medio de las antiguas creencias. Dejad que el Espíritu de la Verdad efectúe su propio trabajo. ([UB 178:1.16](/es/El_Libro_de_Urantia/178#p1_16))
+> No olvidéis que sólo estáis encargados de salir a predicar la buena nueva. No debéis atacar las viejas costumbres; debéis introducir hábilmente la levadura de la nueva verdad en medio de las antiguas creencias. Dejad que el Espíritu de la Verdad efectúe su propio trabajo. ([LU 178:1.16](/es/The_Urantia_Book/178#p1_16))
 
 ## Enlaces externos
 

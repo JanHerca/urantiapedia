@@ -1,5 +1,5 @@
 ---
-title: "Las fuentes humanas de El libro de Urantia. La fuerza nuclear fuerte y las supernovas"
+title: "Las fuentes humanas de El Libro de Urantia. La fuerza nuclear fuerte y las supernovas"
 description: 
 published: true
 date: 2022-9-8T14:13:9Z

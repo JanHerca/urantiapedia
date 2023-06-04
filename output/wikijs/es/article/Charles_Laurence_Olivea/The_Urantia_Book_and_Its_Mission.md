@@ -1,5 +1,5 @@
 ---
-title: "El libro de Urantia y su misión"
+title: "El Libro de Urantia y su misión"
 description: 
 published: true
 date: 2023-02-19T14:02:03.086Z

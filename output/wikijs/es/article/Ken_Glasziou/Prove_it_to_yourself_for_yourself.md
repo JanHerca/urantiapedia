@@ -40,7 +40,7 @@ Una estratagema favorita es citar ocasiones en las que la ciencia se ha equivoca
 
 Contrariamente a esta actitud, el estudiante de mente abierta de la revelación no sólo aceptará lo que se afirma en las citas anteriores, sino que, con el paso del tiempo, esperará encontrar un contenido de error cada vez mayor en el material cosmológico, y también descubrir cosas similares. error que se acumula en lo que se ha proporcionado como un «marco universal en el que pensar».
 
-Para aquellos que están preocupados por sucesos en los que la ciencia y El libro de Urantia expresan opiniones contrarias, pero que no tienen esa experiencia especial que les permita hacer un juicio racional entre las alternativas, los reveladores han incluido secciones en los Documentos para las cuales es posible que prácticamente todos los lectores tomen su propia decisión sobre la veracidad de la información suministrada. Y seguramente cuando los Documentos están equivocados, este error está, no obstante, de acuerdo con las reglas y los propósitos del universo para la revelación, como se describe en las páginas 1109 y 1260 de los Documentos de Urantia.
+Para aquellos que están preocupados por sucesos en los que la ciencia y _El Libro de Urantia_ expresan opiniones contrarias, pero que no tienen esa experiencia especial que les permita hacer un juicio racional entre las alternativas, los reveladores han incluido secciones en los Documentos para las cuales es posible que prácticamente todos los lectores tomen su propia decisión sobre la veracidad de la información suministrada. Y seguramente cuando los Documentos están equivocados, este error está, no obstante, de acuerdo con las reglas y los propósitos del universo para la revelación, como se describe en las páginas 1109 y 1260 de los Documentos de Urantia.
 
 Sin embargo, en última instancia, estos errores deben operar para evitar que la revelación se presente al mundo como una autoridad divina o se use como base para el fundamentalismo. ¿Y tal vez esta es la política del universo para toda revelación en todas partes?
 
@@ -60,7 +60,7 @@ Pero hace 1500 millones de años, su historia dice que **la luna estaba cerca de
 
 <figure class="image urantiapedia">
 <img src="/image/article/Ken_Glasziou/Prove_it_to_yourself_for_yourself/004225.png">
-<figcaption>Fig. 1. <em>Origen del sistema Tierra-Luna según El libro de Urantia.</em> <a href="/es/The_Urantia_Book/57#p7_2">UB 57:7.2</a> </figcaption>
+<figcaption>Fig. 1. <em>Origen del sistema Tierra-Luna según El Libro de Urantia.</em> <a href="/es/The_Urantia_Book/57#p7_2">UB 57:7.2</a> </figcaption>
 </figure>
 
 Las cifras citadas en Microsoft Encarta, Encyclopedia Britannica y en otros lugares dan la masa actual de la tierra como 5,94 x 1021 toneladas métricas con un radio de 6378 km, mientras que la masa actual de la luna es de aproximadamente 7,5 x 1019 toneladas métricas con un radio de 1738 kilometros
@@ -73,7 +73,7 @@ En la actualidad, la luna tiene aproximadamente 1/80 de la masa de la tierra, y 
 
 En la actualidad, toda la superficie de la luna está marcada por cráteres de impacto y gigantescos flujos de lava y, gracias a las misiones Apolo, la roca basáltica muestreada de estos flujos en la superficie de la luna data de hace entre 3100 y 3900 millones de años. atrás. Estos son hechos que son simplemente incompatibles con la historia provista en los Documentos.
 
-La realidad de nuestro presente análisis es fácilmente confirmable por casi cualquier persona dispuesta a tomarse la molestia. No se requiere ningún conocimiento científico ni ningún otro conocimiento especializado para ver que el relato de El libro de Urantia sobre la evolución del sistema tierra-luna es simplemente imposiblemente erróneo.
+La realidad de nuestro presente análisis es fácilmente confirmable por casi cualquier persona dispuesta a tomarse la molestia. No se requiere ningún conocimiento científico ni ningún otro conocimiento especializado para ver que el relato de _El Libro de Urantia_ sobre la evolución del sistema tierra-luna es simplemente imposiblemente erróneo.
 
 Una pregunta importante que debemos hacernos es por qué los reveladores parecen haberse esforzado tanto para asegurarse de que, con el tiempo, se volvería progresivamente más y más imposible que los Documentos de Urantia en su conjunto se impusieran a las personas inteligentes como la palabra autorizada. de Dios.
 

@@ -20,12 +20,12 @@ Los visitantes son de todo el mundo, pero en su mayoría son de los EE. UU. y en
 
 El programa Stepping Stones se creó el año pasado con el objetivo de presentar los conceptos de _El Libro de Urantia_ a los visitantes del sitio sin esperar que esos visitantes lean el libro (aunque esperamos presentar el libro donde y cuando sea apropiado). Este es nuestro plan:
 
-1. Cree páginas en nuestro sitio web que respondan preguntas con contenido basado en El libro de Urantia, bellas imágenes y videos.
-2. Crear una forma para que los moderadores que son lectores de El libro de Urantia tengan compañerismo con los visitantes interesados ​​del sitio.
-3. Cree campañas publicitarias de Google para cada tema utilizando palabras clave específicas. Detalles: Cree páginas en nuestro sitio web que respondan preguntas con contenido basado en El libro de Urantia e imágenes hermosas. Ejemplo aquí (tenga en cuenta que el enlace a «conversaciones» aún no funciona): urantiabook.org/Take-Charge-of-Your-Own-Spiritual-Growth/ Incluya videos cortos de personas que comparten sus verdades sobre estos temas sin hacer referencia directa a _The El libro de Urantia._
+1. Cree páginas en nuestro sitio web que respondan preguntas con contenido basado en _El Libro de Urantia_, bellas imágenes y videos.
+2. Crear una forma para que los moderadores que son lectores de _El Libro de Urantia_ tengan compañerismo con los visitantes interesados ​​del sitio.
+3. Cree campañas publicitarias de Google para cada tema utilizando palabras clave específicas. Detalles: Cree páginas en nuestro sitio web que respondan preguntas con contenido basado en _El Libro de Urantia_ e imágenes hermosas. Ejemplo aquí (tenga en cuenta que el enlace a «conversaciones» aún no funciona): urantiabook.org/Take-Charge-of-Your-Own-Spiritual-Growth/ Incluya videos cortos de personas que comparten sus verdades sobre estos temas sin hacer referencia directa a _El Libro de Urantia_.
        - a. Incluya videos más largos que incorporen esos «videos testimoniales» con citas parafraseadas de _El Libro de Urantia_.
        - b. A medida que el visitante del sitio profundice en el camino, comience a presentar _El Libro de Urantia_ según corresponda.
-4. Crear una manera para que los moderadores que son lectores de El libro de Urantia tengan compañerismo con los visitantes del sitio. La idea es que todos crezcamos discutiendo nuestras preguntas entre nosotros.
+4. Crear una manera para que los moderadores que son lectores de _El Libro de Urantia_ tengan compañerismo con los visitantes del sitio. La idea es que todos crezcamos discutiendo nuestras preguntas entre nosotros.
     - a. Estas conversaciones serán a través de videoconversaciones programadas. (Esperamos eventualmente ofrecer una función de chat, pero primero estamos comenzando con conversaciones de video).
     - b. Esperamos poder dirigir algunas de las conversaciones a _El Libro de Urantia_ cuando sea apropiado.
 5. Cree campañas publicitarias de Google para cada tema utilizando palabras clave específicas para llevar a las personas a las páginas que hemos creado. Palabras clave explicadas aquí: ahrefs.com/blog/what-are-keywords/.

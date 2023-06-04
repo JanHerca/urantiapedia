@@ -119,7 +119,7 @@ Los nuevos maestros-líderes están llamados a alcanzar ese nivel de espirituali
 
 Para un mayor estudio y contemplación que nos guíe en la consecución de la espiritualidad requerida, se recomienda encarecidamente lo siguiente:
 
-(Ver Apéndice 2 «Meditación en El libro de Urantia» por Peter Holly)
+(Ver Apéndice 2 «Meditación en _El Libro de Urantia_» por Peter Holly)
 
 Documento 100 La religión en la experiencia humana. _El Libro de Urantia_  
 

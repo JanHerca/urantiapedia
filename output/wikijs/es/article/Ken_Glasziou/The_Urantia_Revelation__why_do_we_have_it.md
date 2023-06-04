@@ -34,7 +34,7 @@ El conocimiento del **destino** es el elemento esencial que falta para completar
 
 **Los peligros inherentes a la falta de información sobre el destino humano son eliminados por los Documentos de Urantia.** Proporcionan amplia información sobre nuestro destino divino, no solo en cuanto a nuestro logro de la presencia del Padre en el Paraíso, sino mucho más allá en detallando los roles reales y posibles para el Finaliter Corps del cual eventualmente seremos miembros.
 
-Tal vez el efecto de El libro de Urantia ha sido mucho mayor de lo que podrían indicar las estadísticas sobre las ventas de libros (un libro por cada 4000 habitantes de Urantia), tal vez incluso aumentando la confianza en el hecho de un destino divino hasta el punto de que ahora se expresa como una realidad internacional mejorada. moralidad.
+Tal vez el efecto de _El Libro de Urantia_ ha sido mucho mayor de lo que podrían indicar las estadísticas sobre las ventas de libros (un libro por cada 4000 habitantes de Urantia), tal vez incluso aumentando la confianza en el hecho de un destino divino hasta el punto de que ahora se expresa como una realidad internacional mejorada. moralidad.
 
 Pero eso es solo un incierto «tal vez». Lo cierto es que se ha desatado una fuerza moral entre las naciones a un nivel nunca antes visto.
 

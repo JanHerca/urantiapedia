@@ -10,7 +10,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Dr. Bruce Jackson<br>© 2017 The Urantia Book Fellowship</p>
 
-¿Qué pasaría si me presentara ante una asamblea de lectores de El libro de Urantia y afirmara que podría sacarnos de la oscuridad y convertir nuestra revelación en una nueva religión mundial? Estoy seguro de que educadamente pero rápidamente me mostrarían la puerta. Hace unos 200 años nos habríamos convertido en mormones. ¿Lo que ha sucedido?
+¿Qué pasaría si me presentara ante una asamblea de lectores de _El Libro de Urantia_ y afirmara que podría sacarnos de la oscuridad y convertir nuestra revelación en una nueva religión mundial? Estoy seguro de que educadamente pero rápidamente me mostrarían la puerta. Hace unos 200 años nos habríamos convertido en mormones. ¿Lo que ha sucedido?
 
 Desde el siglo XX se ha cuestionado seriamente la conveniencia de un «líder fuerte». En los negocios, el estilo de gestión de arriba hacia abajo ha sido desafiado por un modelo plano de «servicio al cliente». Este método de gestión bien demostrado respeta y valora a todos los empleados, alienta a los líderes a salir del grupo y recompensa el esfuerzo del equipo. Sin embargo, a pesar de que las escuelas de negocios han enseñado durante mucho tiempo la conveniencia de este enfoque en las clases de MBA, hay pocas instituciones académicas que realmente practican lo que predican, ya que el modelo de microgestión jerárquica de arriba hacia abajo sigue firmemente arraigado en la educación superior.
 
@@ -70,7 +70,7 @@ Aunque esta metáfora musical sugiere cómo el movimiento Urantia puede transfor
 
 > Con el alcance limitado del oído humano, difícilmente podéis concebir las melodías morontiales. Existe incluso una gama material de hermosos sonidos que el sentido humano del oído no reconoce, sin mencionar la amplitud inconcebible de la armonía morontial y espiritual. Las melodías espirituales no son ondas sonoras materiales, sino pulsaciones espirituales que reciben los espíritus de las personalidades celestiales. La inmensidad del alcance y el alma de la expresión, así como la grandiosidad de la ejecución asociadas a la melodía de las esferas, sobrepasan por completo la comprensión humana. [[LU 44:1.1](/es/The_Urantia_Book/44#p1_1)]
 
-> El Dr. Bruce Jackson, lector desde 1979, enseñó música y humanidades en la universidad durante 17 años y se desempeñó como administrador de la universidad durante 12. Trabajó con The Spiritual Fellowship Journal durante 10 años. Músico en activo desde 1969, ahora está jubilado y se centra en los proyectos de El libro de Urantia y en la música de la iglesia.  
+> El Dr. Bruce Jackson, lector desde 1979, enseñó música y humanidades en la universidad durante 17 años y se desempeñó como administrador de la universidad durante 12. Trabajó con The Spiritual Fellowship Journal durante 10 años. Músico en activo desde 1969, ahora está jubilado y se centra en los proyectos de _El Libro de Urantia_ y en la música de la iglesia.  
 {.is-info}
 
 ## Referencias

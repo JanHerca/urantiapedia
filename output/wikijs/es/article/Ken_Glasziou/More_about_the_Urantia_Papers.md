@@ -10,7 +10,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
 
-En cierto modo, parece desafortunado que un nombre alternativo para El libro de Urantia sea «La quinta revelación de época». Es el efecto de este nombre adquirido lo que ha hecho que tantos lectores atribuyan un estatus de «verdad absoluta e infalible» de estilo fundamentalista a su contenido.
+En cierto modo, parece desafortunado que un nombre alternativo para _El Libro de Urantia_ sea «La quinta revelación de época». Es el efecto de este nombre adquirido lo que ha hecho que tantos lectores atribuyan un estatus de «verdad absoluta e infalible» de estilo fundamentalista a su contenido.
 
 Los propios autores no hacen tal afirmación. Y en ninguna parte usan el término «la Quinta Revelación de Época». El comentario más cercano es que entre muchos eventos de revelación religiosa, «solo cinco son de importancia histórica». De estos, la vida y enseñanza de Jesús quizás podría aspirar a la autoridad divina pero, aun así, sólo tenemos registros que, de una forma u otra, han sentido el toque de manos humanas.
 
@@ -38,11 +38,11 @@ Algunos libros que leemos pueden estimular la necesidad de leerlos una y otra ve
 
 Hay algunas excepciones. Uno se produjo a través de mi adquisición de una Biblia que tenía la palabra hablada de Jesús de los Evangelios destacada en letra roja. Descubrí que podía leer cantidades sustanciales de los Evangelios de Mateo y Juan sin cansarme de ellos.
 
-La otra excepción son ciertos Documentos de El libro de Urantia. Los he estado leyendo a diario durante treinta años, y nunca espero dominar lo que contienen, ni cansarme de intentarlo.
+La otra excepción son ciertos Documentos de _El Libro de Urantia_. Los he estado leyendo a diario durante treinta años, y nunca espero dominar lo que contienen, ni cansarme de intentarlo.
 
 Siento que soy una persona muy crítica. Durante mis quince años como jefe de un laboratorio de investigación, solía decirles a los recién graduados que venían a trabajar con nosotros que su productividad se vería limitada hasta que aprendieran a cuestionar todo lo que alguna vez pensaron que sabían.
 
-Había abordado la Biblia y El libro de Urantia con este enfoque, y suponiendo que no descubres la verdad, la sientes.
+Había abordado la Biblia y _El Libro de Urantia_ con este enfoque, y suponiendo que no descubres la verdad, la sientes.
 
 Mi carrera científica fue predominantemente en el campo de la bioquímica. La física teórica y las matemáticas son campos en los que el sentido de la verdad es ultra importante. La verdad tiene un olor propio. Los matemáticos y los físicos extraen la verdad de las profundidades de sus mentes. Los bioquímicos, aunque puedan oler la verdad, tienen que trabajar empíricamente: tamizar los datos, formular una hipótesis, hacer un experimento, mejorar la hipótesis, etc., etc. Puede ser algo tedioso.
 
@@ -56,11 +56,11 @@ Todos tenemos el don de sentir la verdad, independientemente de la educación su
 
 El discernimiento de la verdad es el don que debemos usar para ayudarnos a evaluar los Documentos de Urantia. Despejar nuestra mente de prejuicios preconcebidos puede ser de gran ayuda.
 
-Es cierto que las circunstancias de la vida pueden haber precondicionado a algunas personas a ser crédulas cuando encuentran El libro de Urantia por primera vez. Después de que se les haya dicho que los Documentos tienen autores celestiales, y se les haya dado una vívida propaganda sobre su estado revelador, tal vez acompañado de la necesidad de dar sentido a sus vidas, algunos pueden estar listos para creer algo que sienten que ayudará a resolver sus problemas personales. . El tiempo a menudo hace que esas personas sean mucho más perspicaces, particularmente a medida que desarrollan su sentido de la verdad.
+Es cierto que las circunstancias de la vida pueden haber precondicionado a algunas personas a ser crédulas cuando encuentran _El Libro de Urantia_ por primera vez. Después de que se les haya dicho que los Documentos tienen autores celestiales, y se les haya dado una vívida propaganda sobre su estado revelador, tal vez acompañado de la necesidad de dar sentido a sus vidas, algunos pueden estar listos para creer algo que sienten que ayudará a resolver sus problemas personales. . El tiempo a menudo hace que esas personas sean mucho más perspicaces, particularmente a medida que desarrollan su sentido de la verdad.
 
 Para muchos de nosotros, nuestra introducción a los Documentos se produce en ausencia de cualquier necesidad psicológica aparente de un accesorio que salve vidas. Quizás éramos consumidores voraces de material escrito, o quizás simplemente éramos buscadores de la verdad. O tal vez alguna combinación aleatoria de circunstancias puede haber hecho que comencemos a navegar a través de ellos.
 
-Sea lo que sea lo que inicia nuestra búsqueda, rápidamente nos enfrentamos al hecho de que hay más de dos mil páginas en El libro de Urantia, la mayoría de las cuales requieren una concentración atenta para comprender su significado. Entonces, tal vez alguna ayuda externa pueda ayudar en la búsqueda de la verdad.
+Sea lo que sea lo que inicia nuestra búsqueda, rápidamente nos enfrentamos al hecho de que hay más de dos mil páginas en _El Libro de Urantia_, la mayoría de las cuales requieren una concentración atenta para comprender su significado. Entonces, tal vez alguna ayuda externa pueda ayudar en la búsqueda de la verdad.
 
 Como ilustración de que el conocimiento previo puede ser una ayuda para la comprensión de los Documentos de Urantia, permítanme señalar que el mandato bajo el cual sus autores tenían que trabajar no se discute en profundidad hasta pasada la mitad del libro. Y el mandato era tal que aseguraba que la cosmología de los Documentos quedaría obsoleta rápidamente.
 

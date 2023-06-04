@@ -10,7 +10,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Dick Bain<br>© 1998 The Brotherhood of Man Library</p>
 
-La charla de la iglesia está en el aire. La comunidad de Urantia está maldiciendo y discutiendo la posibilidad de una iglesia[^1], una religión o algún tipo de organización religiosa que incorpore las enseñanzas de El libro de Urantia. Así como la clonación humana es controvertida en la comunidad en general, este tema también es divisivo en la comunidad de Urantia. Independientemente del calor generado por el debate, esta puede ser una idea cuyo momento ha llegado. Si es así, entonces es un momento apropiado para discutir la forma que podría tomar tal religión u organización religiosa.
+La charla de la iglesia está en el aire. La comunidad de Urantia está maldiciendo y discutiendo la posibilidad de una iglesia[^1], una religión o algún tipo de organización religiosa que incorpore las enseñanzas de _El Libro de Urantia_. Así como la clonación humana es controvertida en la comunidad en general, este tema también es divisivo en la comunidad de Urantia. Independientemente del calor generado por el debate, esta puede ser una idea cuyo momento ha llegado. Si es así, entonces es un momento apropiado para discutir la forma que podría tomar tal religión u organización religiosa.
 
 Hay muchos modelos a considerar. Dado que la mayoría de las personas en nuestra cultura están familiarizadas con el cristianismo, parece natural considerarlo primero como un modelo para una organización religiosa. Pero el cristianismo tradicional no es el único modelo en nuestra cultura; hay quienes marchan al compás de otro tambor. Entre estos se encuentran los Amigos o Cuáqueros, Unity y los Unitarios Universalistas. ¿Hay ideas de valor para nosotros entre las formas y contenidos de organizaciones religiosas como estas?
 
@@ -66,7 +66,7 @@ Las celebraciones navideñas en muchas iglesias UU difieren considerablemente de
 
 Los UU han desarrollado algunos símbolos únicos. El símbolo más distintivo del UUismo es el cáliz. Este símbolo fue ideado para honrar a Jan Huss, un sacerdote de la época medieval. Abogó por tener la Misa en la lengua vernácula de la gente y que la gente bebiera el vino de la comunión al igual que los sacerdotes. Fue quemado en la hoguera por promover estas ideas heréticas. El símbolo del cáliz fue utilizado durante la Segunda Guerra Mundial por el Comité de Servicio Unitario en sus barcos de transporte para que no les dispararan mientras intentaban sacar a los refugiados, en su mayoría niños, de la Europa devastada por la guerra.
 
-Las iglesias UU en Checoslovaquia tienen el girasol como uno de sus símbolos. El sello Unitario de Transilvania es la paloma rodeada por una serpiente. Esto se deriva de la instrucción de Jesús a sus apóstoles citada en Mateo: «Sed astutos como serpientes y sencillos como palomas». Los autores de El libro de Urantia nos enseñan que:
+Las iglesias UU en Checoslovaquia tienen el girasol como uno de sus símbolos. El sello Unitario de Transilvania es la paloma rodeada por una serpiente. Esto se deriva de la instrucción de Jesús a sus apóstoles citada en Mateo: «Sed astutos como serpientes y sencillos como palomas». Los autores de _El Libro de Urantia_ nos enseñan que:
 
 > «_A pesar de los inconvenientes y las desventajas, cada nueva revelación de la verdad ha dado nacimiento a un nuevo culto, e incluso la nueva exposición de la religión de Jesús debe desarrollar un simbolismo nuevo y apropiado. El hombre moderno debe encontrar un simbolismo adecuado para sus nuevos ideales, ideas y lealtades en expansión. Este símbolo realzado debe surgir de la vida religiosa, de la experiencia espiritual._» ([LU 87:7.6](/es/The_Urantia_Book/87#p7_6))
 
@@ -94,7 +94,7 @@ Podríamos beneficiarnos de tomar lo mejor de estas fuentes y adaptarlo a nuestr
 
 Creo que tenemos mucho que aprender de las religiones e instituciones religiosas del mundo. Han desarrollado símbolos, rituales y música psicológicamente satisfactorios durante siglos y milenios. No creo que debamos rebajarnos a la mera imitación, pero debemos aprovechar tanto los errores como las lecciones ganadas con tanto esfuerzo de todas estas fuentes, y seleccionar y adaptar lo mejor de ellas para que se ajuste a nuestras necesidades. Isaac Newton dijo que se subió a hombros de gigantes. No dudo que estaremos parados sobre los hombros de gigantes espirituales también.
 
-**Reconocimiento:** Gracias a la Rev. Heather Collins de la Congregación de Gwinnett de la UU por sus sugerencias mientras preparaba este artículo. Salvo que se indique lo contrario, las citas son de El libro de Urantia.
+**Reconocimiento:** Gracias a la Rev. Heather Collins de la Congregación de Gwinnett de la UU por sus sugerencias mientras preparaba este artículo. Salvo que se indique lo contrario, las citas son de _El Libro de Urantia_.
 
 1. **Notas:** Si bien «iglesia» es un término exclusivamente cristiano, uso iglesia de Urantia en este artículo en el sentido de una organización religiosa compuesta por personas de la comunidad de Urantia, al igual que «iglesia» puede referirse al cuerpo de cristianos
 

@@ -10,7 +10,7 @@ dateCreated: 2022-09-26T16:45:14.471Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
 
-Tarde o temprano, los lectores de El libro de Urantia tendrán que prestar atención a las llamadas de sus reveladores. Uno de ellos está en [LU 2:7.10](/es/The_Urantia_Book/2#p7_10):
+Tarde o temprano, los lectores de _El Libro de Urantia_ tendrán que prestar atención a las llamadas de sus reveladores. Uno de ellos está en [LU 2:7.10](/es/The_Urantia_Book/2#p7_10):
 
 > «El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina.»
 
@@ -56,7 +56,7 @@ Hay más de veinte versículos del Nuevo Testamento que hablan de nuestra morada
 
 > [Gálatas 4:6](/es/Bible/Galatians/4#v6). Y por cuanto sois hijos, Dios ha enviado a vuestros corazones el **Espíritu de su Hijo**, que clama: Abba, Padre.
 
-Esto significa que ni siquiera necesitamos mencionar El libro de Urantia ni el Ajustador del pensamiento. En cualquier caso, este último término ha adquirido connotaciones desafortunadas desde que se recibieron los Documentos por el uso del «lavado de cerebro» y el «control del pensamiento» como instrumentos para controlar a los ciudadanos de países con regímenes totalitarios.
+Esto significa que ni siquiera necesitamos mencionar _El Libro de Urantia_ ni el Ajustador del pensamiento. En cualquier caso, este último término ha adquirido connotaciones desafortunadas desde que se recibieron los Documentos por el uso del «lavado de cerebro» y el «control del pensamiento» como instrumentos para controlar a los ciudadanos de países con regímenes totalitarios.
 
 En esta etapa parecería mucho mejor seguir a Jesús:
 

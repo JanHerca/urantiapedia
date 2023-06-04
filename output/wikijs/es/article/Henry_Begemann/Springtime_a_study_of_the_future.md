@@ -110,7 +110,7 @@ Hay tanto que podemos hacer ahora para la cuarta fase del reino. Nuestros herman
 
 De esta manera y en muchas otras podríamos prepararnos para «_la próxima era._» Y así cooperamos con nuestros superiores. Si tratamos sinceramente de darnos cuenta de qué cambios ocurrirán, esto brindará una amplia oportunidad para el pensamiento constructivo. Lo que se necesita es perspicacia espiritual y conciencia del universo (que solo viene después de la conciencia de Dios). Pero podríamos comenzar con la mentalidad universal, la voluntad de superar los prejuicios de la inercia y la falta de imaginación. Y falta de fe en lo ya revelado de los planes de nuestro Maestro. Dios y los hombres se necesitan mutuamente. ¡Ánimo, ya es primavera!   
 
-> Buscando entre religiones alternativas en Holanda, Henry Begemann encontró El libro de Urantia cuando se retiraba de su carrera como vendedor de seguros. Reconociendo su importancia, inmediatamente comenzó a traducir el libro al idioma holandés. Su dedicación lo inspiró a organizar y facilitar grupos de estudio como representante de campo europeo. Sirvió en el Consejo General de la Hermandad antes de su muerte en 1990.
+> Buscando entre religiones alternativas en Holanda, Henry Begemann encontró _El Libro de Urantia_ cuando se retiraba de su carrera como vendedor de seguros. Reconociendo su importancia, inmediatamente comenzó a traducir el libro al idioma holandés. Su dedicación lo inspiró a organizar y facilitar grupos de estudio como representante de campo europeo. Sirvió en el Consejo General de la Hermandad antes de su muerte en 1990.
 {.is-info}
 
 ## Referencias

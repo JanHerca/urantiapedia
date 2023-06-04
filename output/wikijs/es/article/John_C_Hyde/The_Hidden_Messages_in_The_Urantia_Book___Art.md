@@ -1,5 +1,5 @@
 ---
-title: "Los mensajes ocultos en El libro de Urantia — Arte"
+title: "Los mensajes ocultos en El Libro de Urantia — Arte"
 description: 
 published: true
 date: 2022-9-9T8:13:39Z

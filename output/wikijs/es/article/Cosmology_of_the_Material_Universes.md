@@ -1,5 +1,5 @@
 ---
-title: "Cosmología de los universos materiales. Por qué la ciencia y El libro de Urantia tienen perspectivas diferentes"
+title: "Cosmología de los universos materiales. Por qué la ciencia y _El Libro de Urantia_ tienen perspectivas diferentes"
 description:
 published: true
 date: 2023-01-21T14:02:03.086Z

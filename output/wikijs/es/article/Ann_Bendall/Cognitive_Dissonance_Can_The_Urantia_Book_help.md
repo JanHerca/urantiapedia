@@ -1,5 +1,5 @@
 ---
-title: "Disonancia cognitiva. ¿Puede ayudar El libro de Urantia?"
+title: "Disonancia cognitiva. ¿Puede ayudar _El Libro de Urantia_?"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z

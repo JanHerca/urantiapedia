@@ -18,7 +18,7 @@ Si creemos que lo son, entonces todavía podemos tomar de los Documentos, lo que
 
 Para cualquier lector nuevo, puede ser mucho más productivo ignorar todo lo que haya visto u oído sobre los Documentos y simplemente leerlos por su valor intrínseco inmediato.
 
-Prejuzgar los Documentos y traer prejuicios previos a la evaluación puede ser contraproducente. Un ejemplo es Martin Gardner, autor de una crítica titulada “Urantia. El gran misterio del culto. Antes de escribir su libro, Gardner fue autor de un artículo de revista que denigraba El libro de Urantia. Sin embargo, cometió tantos errores que luego admitió que en realidad no lo había leído. Su libro posterior fue principalmente un ejercicio de autojustificación.
+Prejuzgar los Documentos y traer prejuicios previos a la evaluación puede ser contraproducente. Un ejemplo es Martin Gardner, autor de una crítica titulada “Urantia. El gran misterio del culto. Antes de escribir su libro, Gardner fue autor de un artículo de revista que denigraba _El Libro de Urantia_. Sin embargo, cometió tantos errores que luego admitió que en realidad no lo había leído. Su libro posterior fue principalmente un ejercicio de autojustificación.
 
 ## Enlaces externos
 

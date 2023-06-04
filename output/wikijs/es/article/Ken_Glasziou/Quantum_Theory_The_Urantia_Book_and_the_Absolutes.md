@@ -1,5 +1,5 @@
 ---
-title: "Teoría cuántica, El libro de Urantia y los Absolutos"
+title: "Teoría cuántica, El Libro de Urantia y los Absolutos"
 description: 
 published: true
 date: 2022-9-9T8:13:38Z
@@ -48,13 +48,13 @@ La teoría cuántica tiene muchas otras peculiaridades divertidas que la gente n
 
 Einstein y otros realistas se opusieron al indeterminismo cuántico durante mucho, mucho tiempo. Einstein sintió que Dios no jugaría a los dados con el mundo, y murió protestando (Einstein, claro). Los experimentos para demostrar la no localidad surgieron para probar un experimento ‘ideal’ propuesto por Einstein y sus compañeros en 1935. Se conoce como el experimento EPR y era una hipótesis no comprobable hasta que un físico irlandés, John Bell, inventó el teorema de Bell y llegó con una forma de probarlo. Esto ya se ha hecho a satisfacción de todos. Los efectos no locales ocurren instantáneamente incluso a una distancia infinita cuando ningún mensaje que viaja a la velocidad de la luz podría permitir una comunicación directa. Hasta la fecha, nadie ha encontrado una forma de enviar un mensaje a velocidades superiores a la de la luz, pero no cabe duda de que las partículas «saben» lo que deben hacer.
 
-## Algunas moscas en la sopa: Bohm y El libro de Urantia
+## Algunas moscas en la sopa: Bohm y El Libro de Urantia
 
 Al menos un físico cuántico, David Bohm, se negó a aceptar la deificación de los observadores cuánticos. Bohm mantuvo el universo y todo lo que hay en él (en cuanto a la materia) está determinado. Los físicos cuánticos ordinarios proponen una función de onda que contiene todas las posibilidades para describir un sistema. Luego reparten las probabilidades de ocurrencia de cada posibilidad. Afirman que cuando un observador mira para ver lo que ha sucedido, una de estas posibilidades de repente se convierte en algo real y todas las demás se derrumban en la nada. Así, el gato de Schrödinger permanece vivo y muerto en una superposición de estados hasta que un físico levanta la tapa y anuncia su destino. A nivel subatómico, miles de observaciones confirman que este concepto es una descripción aparentemente válida de la realidad. Por entrenamiento, los físicos cuánticos (y muchos otros científicos) están condicionados a creer que la única verdad es la verdad observable. El papel del observador es sacrosanto. Nada sucede hasta que él, ella o ello observa. Esto a menudo se llama la interpretación de Copenhague, por la cual se culpa a Neils Bohr.
 
 La interpretación de Copenhague propone al menos tres ‘hechos’ (?) curiosos sobre el mundo físico. Primero, la pura casualidad gobierna el funcionamiento más interno de la naturaleza. En segundo lugar, aunque los objetos materiales siempre ocupan espacio, existen situaciones en las que no ocupan ninguna región particular del espacio. Tercero, al observador y sus instrumentos se les otorga un estatus privilegiado fuera de las leyes que gobiernan las cosas que se observan. En una revisión reciente, David Albert afirma: «**aunque la interpretación de Copenhague probablemente siga siendo el dogma rector del físico en activo promedio, los estudiantes serios de los fundamentos de la mecánica cuántica rara vez defienden la formulación estándar.**»
 
-En 1952, David Bohm publicó una interpretación alternativa, más tarde pulida por el físico irlandés John Bell. Las nuevas nociones de la interpretación de Bohm se pueden resumir en términos del concepto de que la función de onda de la teoría cuántica determina un potencial cuántico que representa **información activa** que da forma al movimiento de partículas que, sin embargo, **se mueven bajo su propia energía**. Hay numerosos **fragmentos de las teorías de Bohm que tienen una expresión paralela en El libro de Urantia**.
+En 1952, David Bohm publicó una interpretación alternativa, más tarde pulida por el físico irlandés John Bell. Las nuevas nociones de la interpretación de Bohm se pueden resumir en términos del concepto de que la función de onda de la teoría cuántica determina un potencial cuántico que representa **información activa** que da forma al movimiento de partículas que, sin embargo, **se mueven bajo su propia energía**. Hay numerosos **fragmentos de las teorías de Bohm que tienen una expresión paralela en _El Libro de Urantia_**.
 
 ## QEPD el gato de Schrödinger?
 

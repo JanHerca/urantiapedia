@@ -1,5 +1,5 @@
 ---
-title: "La ciencia y El libro de Urantia. Orígenes de Andon y Fonta"
+title: "La ciencia y El Libro de Urantia. Orígenes de Andon y Fonta"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z

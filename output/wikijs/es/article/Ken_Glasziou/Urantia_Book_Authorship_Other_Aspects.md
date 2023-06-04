@@ -1,5 +1,5 @@
 ---
-title: "Autoría de El libro de Urantia: otros aspectos"
+title: "Autoría de El Libro de Urantia: otros aspectos"
 description: 
 published: true
 date: 2022-9-9T8:13:39Z
@@ -16,7 +16,7 @@ Al menos para la Parte 4, "La vida de Jesús", al examinar la presentación pode
 
 La Parte 4 está repleta de detalles arqueológicos y antropológicos: una multitud de nombres de lugares, nombres de personas, fechas de eventos, etc., cuya precisión se puede verificar. Podría haberse escrito sin este detalle y la historia de Jesús se habría perdido poco al contarla. Entonces, ¿por qué los autores se cargaron con la necesidad de una investigación tan tediosa para asegurarse de no cometer errores en su presentación? Por supuesto, si la autoría realmente fuera sobrehumana, es posible que no se incurra en una carga de trabajo adicional. Pero para los autores humanos que escribieron en el siglo XX, la cantidad de detalles que requirieron investigación fue realmente grande.
 
-Se citan muchos ejemplos en un folleto, «Ciencia, antropología y arqueología en El libro de Urantia», que está disponible (gratis) en las direcciones que figuran en nuestra página principal. Uno de esos ejemplos está en [LU 156:4.2](/es/The_Urantia_Book/156#p4_2) cuando Jesús estaba visitando Tiro en Fenicia, "le abrieron las puertas del templo de Melkarth".
+Se citan muchos ejemplos en un folleto, «Ciencia, antropología y arqueología en _El Libro de Urantia_», que está disponible (gratis) en las direcciones que figuran en nuestra página principal. Uno de esos ejemplos está en [LU 156:4.2](/es/The_Urantia_Book/156#p4_2) cuando Jesús estaba visitando Tiro en Fenicia, "le abrieron las puertas del templo de Melkarth".
 
 ¿Quién o qué fue Melkarth? El nombre no se menciona en la Biblia ni en el Diccionario de la Biblia de Hastings, la enciclopedia más autorizada de su clase que estaba disponible a principios de este siglo. Investigaciones posteriores indican que el historiador griego Herodoto (nacido alrededor del 484 a. C.) fue la principal autoridad antigua. Melkarth (Melqart, Melkart), fue un importante dios fenicio. Parece que en tiempos bíblicos era costumbre que muchas ciudades de esa región del mundo tuvieran el patrocinio de su propio dios amigo. Cada dios recibió el título general de Baal. Así Melkarth era Baal para la ciudad de Tiro.
 

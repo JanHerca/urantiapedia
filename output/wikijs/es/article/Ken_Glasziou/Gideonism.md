@@ -24,11 +24,11 @@ El costo total debe haber sido de muchos cientos de millones de dólares. Entonc
 
 ## ¿Podría el gideonismo penetrar en el movimiento Urantia?
 
-Me vienen a la mente dos comentarios de El libro de Urantia. Uno que hace un nueve en la escala de Richter dice:
+Me vienen a la mente dos comentarios de _El Libro de Urantia_. Uno que hace un nueve en la escala de Richter dice:
 
 > «El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina. Una visión así nueva y justa de la moralidad atraerá todo lo que hay de bueno en la mente del hombre y desafiará lo que hay de mejor en el alma humana». ([LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
 
-Siempre he sentido que las palabras «conceptos modernos exquisitamente integrados de la verdad cósmica, la belleza del universo y la bondad divina» son autorreferenciales a El libro de Urantia. Si es así, seguramente estamos siendo instruidos para construir filosofías nuevas y atractivas a partir de los materiales que se nos dan en ese libro. **Pero en ninguna parte se nos indica que acreditemos el libro como fuente**. ¡Quizás ese es un punto importante!
+Siempre he sentido que las palabras «conceptos modernos exquisitamente integrados de la verdad cósmica, la belleza del universo y la bondad divina» son autorreferenciales a _El Libro de Urantia_. Si es así, seguramente estamos siendo instruidos para construir filosofías nuevas y atractivas a partir de los materiales que se nos dan en ese libro. **Pero en ninguna parte se nos indica que acreditemos el libro como fuente**. ¡Quizás ese es un punto importante!
 
 La otra cita del libro es:
 
@@ -36,9 +36,9 @@ La otra cita del libro es:
 
 Esta tarea debe realizarse «a través de esta revelación», no «por esta revelación». Ya deberíamos haber aprendido que el cristianismo, tal como es actualmente, nunca aceptará una nueva revelación. Tal vez [Apocalipsis 22:18](/es/Bible/Revelation/22#v18) tiene a los cristianos asustados. Y tal vez hay una multitud de otras razones.
 
-Sea cual sea la causa, el tiempo ha demostrado que El libro de Urantia no puede, por sí mismo, realizar estas tareas concretas que los reveladores nos han pedido, **pero sus enseñanzas sí**.
+Sea cual sea la causa, el tiempo ha demostrado que _El Libro de Urantia_ no puede, por sí mismo, realizar estas tareas concretas que los reveladores nos han pedido, **pero sus enseñanzas sí**.
 
-De otra cosa podemos estar bastante seguros. Un enfoque gideonista de la difusión de El libro de Urantia seguirá siendo totalmente ineficaz para lograr estas mismas tareas. Es hora de probar alternativas.
+De otra cosa podemos estar bastante seguros. Un enfoque gideonista de la difusión de _El Libro de Urantia_ seguirá siendo totalmente ineficaz para lograr estas mismas tareas. Es hora de probar alternativas.
 
 > La fe es la osadía del alma para ir más allá de lo que puede ver.
 

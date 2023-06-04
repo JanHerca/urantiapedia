@@ -12,7 +12,7 @@ dateCreated: 2022-9-9T8:13:38Z
 
 _El Libro de Urantia_ nos dice que «Jesús habló durante más de una hora a los grupos reunidos sobre ‘La misión de la adversidad y el valor espiritual de la decepción’». ([LU 151:0.1](/es/The_Urantia_Book/151#p0_1))
 
-Llevo poco tiempo estudiando El libro de Urantia, pero cuando leí este pasaje me di cuenta de que tenía un gran significado para mí, de que me relacionaba con él.
+Llevo poco tiempo estudiando _El Libro de Urantia_, pero cuando leí este pasaje me di cuenta de que tenía un gran significado para mí, de que me relacionaba con él.
 
 Tuve una educación convencional en la Iglesia Anglicana pero, como suele suceder en estos días, mi fe se volvió menos relevante para mí a medida que envejecía. Había actividades más picantes y materialistas. Todo bastante habitual.
 

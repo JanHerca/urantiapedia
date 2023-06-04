@@ -40,7 +40,7 @@ A través de la gracia del Espíritu de la Verdad, todos tenemos la capacidad de
 
 Hablando pragmáticamente, todo lo que tenemos que hacer para practicar la tolerancia es _aceptar a otras personas como son, no como nos gustaría que fueran_. Este proceso se ayuda preguntándonos: ¿Es esta persona conscientemente malévola o, desde su perspectiva, está actuando de buena fe?
 
-Cuando se trata de la intolerancia hacia las creencias religiosas de otro grupo, es interesante que El libro de Urantia afirme: «_El egotismo teológico autocrático e intolerante sólo apareció con la religión revelada._» ([LU 92:7.2](/es/The_Urantia_Book/92#p7_2))
+Cuando se trata de la intolerancia hacia las creencias religiosas de otro grupo, es interesante que _El Libro de Urantia_ afirme: «_El egotismo teológico autocrático e intolerante sólo apareció con la religión revelada._» ([LU 92:7.2](/es/The_Urantia_Book/92#p7_2))
 
 Parece que uno de los riesgos de la religión revelada es que tiene la tendencia a disminuir la necesidad de una fe viva:
 

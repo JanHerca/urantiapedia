@@ -1,5 +1,5 @@
 ---
-title: "La eugenesia y El libro de Urantia: otra perspectiva"
+title: "La eugenesia y El Libro de Urantia: otra perspectiva"
 description: 
 published: true
 date: 2023-02-07T14:02:03.086Z

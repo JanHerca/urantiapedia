@@ -10,7 +10,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Stanley McTrusty<br>© 1997 The Brotherhood of Man Library</p>
 
-Stanley McTrusty, un antiguo lector de El libro de Urantia que es matemático profesional, nos envió su tesis sobre la realidad seguida de una carta en elaboración. Primero la tesis:
+Stanley McTrusty, un antiguo lector de _El Libro de Urantia_ que es matemático profesional, nos envió su tesis sobre la realidad seguida de una carta en elaboración. Primero la tesis:
 
 - El Universo y todo lo que contiene es Energía.
 	La energía no puede ser creada o destruída.

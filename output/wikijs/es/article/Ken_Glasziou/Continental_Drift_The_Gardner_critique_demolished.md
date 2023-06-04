@@ -24,7 +24,7 @@ La naturaleza profética del relato de _El Libro de Urantia_ sobre la deriva con
 
 «Los argumentos científicos ortodoxos para tal propuesta no aparecieron hasta finales de la década de 1960, y nunca se describió un supercontinente anterior a Pangea hasta que Valentine y Moores hicieron el intento en 1970. El Urantia Corps no solo tenía la edad de formación de Rodinia aproximadamente correcta en 1 mil millones de años, pero fueron los primeros en vincular la ruptura de Rodinia con la aparición de animales... Uno se pregunta cómo llegaron los autores del Libro de Urantia al concepto de un supercontinente proterozoico y al vínculo entre la ruptura de este supercontinente y el surgimiento de vida compleja en los océanos del rift subsiguiente, 30 años antes de que la mayoría de los geólogos aceptaran la deriva continental, y casi cuatro décadas antes de cualquier cambio. El científico tenía alguna idea de que Rodinia existía.»
 
-Lectores de El libro de Urantia, tengan en cuenta que el profesor McMenamim también comentó sobre otro material de _El Libro de Urantia_ que ahora está desactualizado o es científicamente insostenible.
+Lectores de _El Libro de Urantia_, tengan en cuenta que el profesor McMenamim también comentó sobre otro material de _El Libro de Urantia_ que ahora está desactualizado o es científicamente insostenible.
 
 Entonces, ¿por qué esta extraña mezcla de material altamente profético ambientado en un trasfondo de ciencia y cosmología de principios de 1900 que desde entonces se ha vuelto obsoleto o insostenible?
 

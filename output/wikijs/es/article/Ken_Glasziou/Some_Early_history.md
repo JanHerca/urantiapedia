@@ -10,11 +10,11 @@ dateCreated: 2022-9-9T8:13:39Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
 
-Los Documentos de Urantia tuvieron un mal comienzo cuando se publicaron por primera vez como El libro de Urantia en 1955. Con las mejores intenciones, muchos de los responsables de su introducción inicial hicieron todo lo posible para imponerlo al mundo totalmente como una revelación divinamente autorizada.
+Los Documentos de Urantia tuvieron un mal comienzo cuando se publicaron por primera vez como _El Libro de Urantia_ en 1955. Con las mejores intenciones, muchos de los responsables de su introducción inicial hicieron todo lo posible para imponerlo al mundo totalmente como una revelación divinamente autorizada.
 
 Las expectativas de estos primeros lectores no eran diferentes a las de Juan el Bautista en su campaña como heraldo del Mesías. Enviaron el libro a reyes, reinas, papas, presidentes, senadores, congresistas. Muchos parecen haber esperado que nuestros líderes mundiales lo aceptaran instantáneamente como mandatos directos de Dios, que se arrodillaran en arrepentimiento y comenzaran la inauguración inmediata de la era de la Luz y la Vida.
 
-Los reveladores nos dieron los Documentos de Urantia, no «El libro de Urantia» ni su transformación en «La quinta revelación de época». Eso fue obra del hombre. Un efecto fue enviar a la cristiandad ortodoxa a buscar refugio. Estoy seguro de que los reveladores no pretendían eso. De hecho, parece ser una de sus grandes esperanzas que la cristiandad sea persuadida a cambiar su enseñanza principal lejos de la cristología de Pablo y a la revelación de Jesús de la naturaleza de Dios.
+Los reveladores nos dieron los Documentos de Urantia, no «_El Libro de Urantia_» ni su transformación en «La quinta revelación de época». Eso fue obra del hombre. Un efecto fue enviar a la cristiandad ortodoxa a buscar refugio. Estoy seguro de que los reveladores no pretendían eso. De hecho, parece ser una de sus grandes esperanzas que la cristiandad sea persuadida a cambiar su enseñanza principal lejos de la cristología de Pablo y a la revelación de Jesús de la naturaleza de Dios.
 
 Esto no es realmente una crítica a Pablo. Los reveladores indican su plena conciencia del papel esencial de Pablo para la supervivencia de cualquier conocimiento de un Jesús de Nazaret en los tiempos modernos. Sin Pablo, la memoria de Jesús probablemente habría desaparecido de nuestros registros. Los Documentos hablan del discípulo Abner, quien se aferró rigurosamente a las enseñanzas de Jesús sin una actitud de compromiso. Abner y sus seguidores desaparecieron rápidamente de las páginas de la historia.
 

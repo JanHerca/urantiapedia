@@ -12,7 +12,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 Los documentos sitúan el tiempo de origen del sistema solar en 4.500 millones de años, en un momento en que se pensaba (y sigue siendo) que la expansión del universo por Hubble era el mejor indicador de la edad del universo. En 1952, se descubrió que la estimación actual de la edad del universo de aproximadamente 2 mil millones de años era incorrecta porque se había utilizado el tipo incorrecto de estrella variable Cefeida para ayudar a hacer la estimación. Una estimación revisada fue de alrededor de 4 a 5 mil millones de años, lo que hizo que el universo tuviera la misma edad que la estimación del Documento de Urantia para la edad del sistema solar.
 
-En 1955, el año de impresión de El libro de Urantia, una medición radiométrica de la edad del material meteorítico dio un valor de 4600 millones de años. Algunos astrónomos pensaron que esta sería una estimación válida de la edad del sistema solar.
+En 1955, el año de impresión de _El Libro de Urantia_, una medición radiométrica de la edad del material meteorítico dio un valor de 4600 millones de años. Algunos astrónomos pensaron que esta sería una estimación válida de la edad del sistema solar.
 
 ¿Era posible que la estimación del Documento de Urantia se basara en esta medida? Hacerlo habría requerido una reescritura considerable de otro material sobre la historia evolutiva de nuestro planeta. Las placas de impresión de metal de estilo antiguo para el libro estaban con la impresora. Parece probable que el factor tiempo por sí solo descarte tal posibilidad. Otros factores también necesitan consideración.
 

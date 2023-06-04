@@ -82,7 +82,7 @@ Esta visión moderna se basa en mediciones reales de materiales terrestres, luna
 
 ## ¡El error es liberador!
 
-Sin embargo, como un espacio intermedio para completar un «marco universal» de los reveladores, la imagen del libro es completamente adecuada. Que sea erróneo no tiene absolutamente ningún efecto significativo sobre, por ejemplo, mi propio «marco universal» que se deriva directamente del dado por los reveladores. El fino detalle del relato de los orígenes planetarios de El libro de Urantia no tiene importancia en relación con la cosmología general presentada en el libro. Para mí, la importancia de su «marco universal» debe verse en términos de su contenido espiritual y no material.
+Sin embargo, como un espacio intermedio para completar un «marco universal» de los reveladores, la imagen del libro es completamente adecuada. Que sea erróneo no tiene absolutamente ningún efecto significativo sobre, por ejemplo, mi propio «marco universal» que se deriva directamente del dado por los reveladores. El fino detalle del relato de los orígenes planetarios de _El Libro de Urantia_ no tiene importancia en relación con la cosmología general presentada en el libro. Para mí, la importancia de su «marco universal» debe verse en términos de su contenido espiritual y no material.
 
 ## ¿Intolerante o simplemente tonto?
 

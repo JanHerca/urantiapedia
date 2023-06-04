@@ -1,5 +1,5 @@
 ---
-title: "Espontaneidad, imprevisibilidad y El libro de Urantia"
+title: "Espontaneidad, imprevisibilidad y El Libro de Urantia"
 description: 
 published: true
 date: 2022-9-9T8:13:39Z
@@ -14,7 +14,7 @@ _El Libro de Urantia_ fue entregado al mundo en un momento en que los conceptos 
 
 «Dios no juega a los dados con nosotros», dijo Einstein, mientras se daba cuenta de que esa filosofía también significaba que incluso los peores de nuestros criminales no eran responsables de sus acciones porque hicieron lo que hicieron porque no podían hacer otra cosa. Los filósofos europeos en particular llevaron este tipo de pensamiento al límite, culminando en la conclusión de que este universo sin Dios y sin propósito es simplemente una broma absurda.
 
-Entonces, ¿El libro de Urantia siguió un universo determinado y un Dios que no juega a los dados, o se inclinó por el libre albedrío, la elección de acción y la indeterminación? Veamos lo que tiene que decir:
+Entonces, ¿_El Libro de Urantia_ siguió un universo determinado y un Dios que no juega a los dados, o se inclinó por el libre albedrío, la elección de acción y la indeterminación? Veamos lo que tiene que decir:
 
 > «La concesión de la personalidad a las criaturas les confiere una liberación relativa respecto a la reacción servil a la causalidad precedente, y la personalidad de todos estos seres morales, evolutivos u otros, está centrada en la personalidad del Padre Universal. Siempre es atraída hacia su presencia en el Paraíso por ese parentesco de existencia que constituye el inmenso círculo familiar universal y el circuito fraternal del Dios eterno. Existe un parentesco de espontaneidad divina en toda personalidad.» ([LU 5:6.9](/es/The_Urantia_Book/5#p6_9))
 

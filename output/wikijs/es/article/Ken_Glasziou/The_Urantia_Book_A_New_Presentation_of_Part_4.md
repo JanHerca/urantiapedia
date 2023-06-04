@@ -20,7 +20,7 @@ Al menos inicialmente, es más importante que la influencia del texto de los Doc
 
 Actualmente, una alta proporción de los graduados de la escuela secundaria reciben una educación que promueve una perspectiva materialista y sin religión de la vida y el modo de vivir. Pero dentro de los próximos 10 a 20 años, los descubrimientos de los físicos cuánticos que descartan de manera concluyente el "universo de relojería" determinista serán más ampliamente conocidos, y la caída del determinismo dejará espacio para el libre albedrío, para la creencia en Dios y para un resurgimiento de la religión.
 
-Tal como está ahora, es poco probable que El libro de Urantia contribuya significativamente a un renacimiento religioso. Una «Vida de Jesús» revisada y modificada podría cambiar esa perspectiva, y eventualmente traer respetabilidad al estudio de la Quinta Revelación de Época en el mundo académico y entre la gente de la iglesia.
+Tal como está ahora, es poco probable que _El Libro de Urantia_ contribuya significativamente a un renacimiento religioso. Una «Vida de Jesús» revisada y modificada podría cambiar esa perspectiva, y eventualmente traer respetabilidad al estudio de la Quinta Revelación de Época en el mundo académico y entre la gente de la iglesia.
 
 ## Enlaces externos
 

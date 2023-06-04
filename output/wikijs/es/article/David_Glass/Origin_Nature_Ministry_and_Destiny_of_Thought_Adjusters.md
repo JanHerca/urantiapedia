@@ -104,7 +104,7 @@ Nuestros fragmentos de Dios que moran en nosotros poseen de manera similar y, a 
 
 Los Ajustadores son el «_reino de Dios dentro de ti._» [[LU 170:2.24](/es/The_Urantia_Book/170#p2_24)] Tu Ajustador es el secreto de tu ascensión al Paraíso, el iluminador de tu camino hacia Dios, tu garantía de alcanzar la perfección, tu esperanza viva para siempre, tu fuente inagotable de alegría y tu eterno pasaporte al infinito. «_¡La búsqueda de Dios es interminable!_» [[LU 106:7.5](/es/The_Urantia_Book/106#p7_5)]
 
-> David Glass encontró _El Libro de Urantia_ en 1972 en California, pero mientras vivía en Florida. Inmediatamente se involucró en actividades y grupos de estudio relacionados con El libro de Urantia por toda Florida, más tarde en el área metropolitana de Fort Worth/Dallas y entre 1997 y 1999 en el área de Portland, Oregón. David es un orador frecuente en las conferencias de Urantia y se desempeña como instructor en la Universidad de Urantia, en el Comité de Publicaciones de la Fraternidad y como presidente de la Sociedad Urantia del Norte de Texas.
+> David Glass encontró _El Libro de Urantia_ en 1972 en California, pero mientras vivía en Florida. Inmediatamente se involucró en actividades y grupos de estudio relacionados con _El Libro de Urantia_ por toda Florida, más tarde en el área metropolitana de Fort Worth/Dallas y entre 1997 y 1999 en el área de Portland, Oregón. David es un orador frecuente en las conferencias de Urantia y se desempeña como instructor en la Universidad de Urantia, en el Comité de Publicaciones de la Fraternidad y como presidente de la Sociedad Urantia del Norte de Texas.
 {.is-info}
 
 ## Referencias

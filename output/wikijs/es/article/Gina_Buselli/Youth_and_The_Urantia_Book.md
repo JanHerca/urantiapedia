@@ -1,5 +1,5 @@
 ---
-title: "La juventud y El libro de Urantia"
+title: "La juventud y El Libro de Urantia"
 description: 
 published: true
 date: 2023-02-13T14:02:03.086Z
@@ -18,7 +18,7 @@ Un par de años más tarde nos mudamos a Indianápolis y mis padres una vez más
 
 Cuando tenía quince años, comencé a leer algunos de los periódicos por mi cuenta y al año siguiente les pedí a mis padres mi propio _El Libro de Urantia_. Mis padres nunca me obligaron a leer _El Libro de Urantia_; lo dejaron ahí para que yo descubriera y decidiera independientemente si las enseñanzas eran algo que quería estudiar y seguir. Tenía muchas ganas de asistir a las conferencias, pero la euforia siempre se apagaba cuando no podía encontrar adultos jóvenes o incluso otros adolescentes en las conferencias locales, regionales e internacionales. Durante unos años pensé en mi hermano (él también se convirtió en un lector activo del libro) y yo vivía en un mundo relativamente aislado. Fui a IC '96 en Flagstaff y cuando asistí a los talleres me consternó descubrir que las personas más cercanas a mi edad eran 25 años mayores que yo.
 
-A principios de 1999, cuando estaba terminando mi último año de universidad, un destacado joven lector se puso en contacto conmigo y estaba intentando formar una red activa de jóvenes lectores de El libro de Urantia. En el próximo IC en Vancouver, me alegró conocer muchas caras nuevas y frescas y ser parte de una comunidad aparentemente creciente. Para IC '02, sin embargo, mi entusiasmo había disminuido considerablemente y por primera vez hablé abiertamente con varios lectores adultos jóvenes que tenían las mismas preocupaciones. Las preguntas y frustraciones que tenía en 2002 son las mismas que tengo ahora. ¿Dónde están todos los lectores adultos jóvenes? ¿Cuáles son las cosas buenas que están pasando? ¿Qué estaba pasando mal dentro de la comunidad? ¿Cuál es el futuro de la comunidad de adultos jóvenes?
+A principios de 1999, cuando estaba terminando mi último año de universidad, un destacado joven lector se puso en contacto conmigo y estaba intentando formar una red activa de jóvenes lectores de _El Libro de Urantia_. En el próximo IC en Vancouver, me alegró conocer muchas caras nuevas y frescas y ser parte de una comunidad aparentemente creciente. Para IC '02, sin embargo, mi entusiasmo había disminuido considerablemente y por primera vez hablé abiertamente con varios lectores adultos jóvenes que tenían las mismas preocupaciones. Las preguntas y frustraciones que tenía en 2002 son las mismas que tengo ahora. ¿Dónde están todos los lectores adultos jóvenes? ¿Cuáles son las cosas buenas que están pasando? ¿Qué estaba pasando mal dentro de la comunidad? ¿Cuál es el futuro de la comunidad de adultos jóvenes?
 
 La comunidad de Urantia es verdaderamente un microcosmos del macrocosmos de la sociedad actual. Hablaré de los aspectos positivos y negativos que impactan en la comunidad de adultos jóvenes de Urantia y hablaré de experiencias personales tanto perturbadoras como esperanzadoras y ofreceré algunas sugerencias sobre lo que se puede hacer a partir de este punto.
 

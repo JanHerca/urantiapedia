@@ -140,7 +140,7 @@ Esta historia tendrá que servir como ilustración de lo que debe ascender a mil
 
 Llevó mucho tiempo arrojar una luz más clara sobre la naturaleza y la misión de los ángeles guardianes. Teniendo debidamente en cuenta otras tradiciones de sabiduría, creo que la evolución de la creencia en los ángeles guardianes personales en la teología cristiana desde el siglo XV puede haber preparado el terreno para una aceptación más fácil de las revelaciones de los Guardianes Seráficos del Destino en _El Libro de Urantia_. La Quinta Revelación de Época tiene la promesa para sus lectores, intelectual y espiritualmente, de desarrollar una relación de trabajo mucho más efectiva con estos ángeles.
 
-## El libro de Urantia
+## El Libro de Urantia
 
 Es mi opinión que _El Libro de Urantia_ presenta la presentación más sofisticada y profunda sobre los ángeles de la guarda que cualquier fuente anterior en la historia humana. El conocimiento que se da de los ángeles guardianes en _El Libro de Urantia_ debería ayudarnos poderosamente en nuestro esfuerzo por crear una conexión más consciente para hacer el bien. Valdría la pena esbozar algunos de los aspectos más destacados del libro sobre la naturaleza y la misión de nuestros amigos y aliados invisibles.[^24]
 

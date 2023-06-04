@@ -73,7 +73,7 @@ El misterio de estas extrañas criaturas se profundizó cuando la Dra. Mary Wade
 
 Inicialmente, se declaró que estos ediacaranos eran un grupo de organismos completamente separado y se les dio el nombre de vendobiontes. Sin embargo, cuanto más se aprendía sobre ellos, más se los aceptaba como los probables ancestros del reino animal actual. Aunque muy primitivos, ahora se cree que algunos de estos animales poseían músculos, órganos internos y regiones de la cabeza y la cola.
 
-Entonces, ¿cómo explicamos la afirmación de El libro de Urantia de que los Portadores de vida trajeron vida a este planeta por primera vez hace sólo 550 millones de años?
+Entonces, ¿cómo explicamos la afirmación de _El Libro de Urantia_ de que los Portadores de vida trajeron vida a este planeta por primera vez hace sólo 550 millones de años?
 
 Una posibilidad es que esto fuera parte de la cosmología de los reveladores declarada como «no inspirada» que puede consistir en un «_marco universal_» por el cual ayudar a nuestra comprensión de nuestro lugar en el esquema universal de las cosas. ([LU 115:1.1](/es/The_Urantia_Book/115#p1_1))
 

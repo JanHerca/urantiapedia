@@ -95,7 +95,7 @@ Entonces, parece que desde lo más bajo hasta lo más alto, desde la Tierra hast
 ## Referencias
 
 - Slagle, Robert W (1985). «Manual de reuniones familiares: Lograr la armonía familiar felizmente». (Prensa de la Fundación de Relaciones Familiares, Box 462, Sebastopol, CA) 95473
-- «El libro de Urantia». (La Fundación Urantia, Chicago, 1955)
+- «_El Libro de Urantia_». (La Fundación Urantia, Chicago, 1955)
 
 > Todo el amor que llegamos a conocer en la vida brota del amor que conocimos de niños.
 > Anónimo.

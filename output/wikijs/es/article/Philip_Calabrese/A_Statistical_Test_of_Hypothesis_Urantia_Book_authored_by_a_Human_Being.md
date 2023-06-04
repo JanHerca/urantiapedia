@@ -1,5 +1,5 @@
 ---
-title: "Una prueba estadística de la hipótesis de que El libro de Urantia fue escrito por seres humanos"
+title: "Una prueba estadística de la hipótesis de que El Libro de Urantia fue escrito por seres humanos"
 description: 
 published: true
 date: 2023-02-14T14:02:03.086Z
@@ -178,13 +178,13 @@ En ese sentido, deben saber que _El Libro de Urantia_ predica el Evangelio de Je
 
 [^ix]: [LU 12:4.7](/es/The_Urantia_Book/12#p4_7). Véase también [«La próxima validación científica de _El Libro de Urantia_»](/es/article/Philip_Calabrese/The_Coming_Scientific_Validation_of_The_Urantia_Book), Philip Calabrese, _El Libro de Urantia_ Fellowship Herald, 2006.
 
-[^x]: [LU 11:5.8](/es/The_Urantia_Book/11#p5_8); [LU 11:6.1](/es/The_Urantia_Book/11#p6_1), 4-5. Véase también [La próxima validación científica de El libro de Urantia](/es/article/Philip_Calabrese/The_Coming_Scientific_Validation_of_The_Urantia_Book), Philip Calabrese, _The Urantia Book_ Fellowship Herald, 2006.
+[^x]: [LU 11:5.8](/es/The_Urantia_Book/11#p5_8); [LU 11:6.1](/es/The_Urantia_Book/11#p6_1), 4-5. Véase también [La próxima validación científica de _El Libro de Urantia_](/es/article/Philip_Calabrese/The_Coming_Scientific_Validation_of_The_Urantia_Book), Philip Calabrese, _The Urantia Book_ Fellowship Herald, 2006.
 
 [^xi]: [LU 119:0.7](/es/The_Urantia_Book/119#p0_7) «... Miguel de Nebadon... empezó la organización de vuestro universo local hace unos cuatrocientos mil millones de años». Pero «Big Bang no tiene sombras» http://www.moondaily.com/reports/Big_Bang_Afterglow_Fails_An_Intergalactic_Shadow_Test_999.html
 
 [^xii]: Hay aproximadamente un electrón por pulgada cúbica en el espacio interestelar [LU 42:4.6](/es/The_Urantia_Book/42#p4_6) Paul Herrick, en «Nobel Prize Ideas», dice que la temperatura espacial por encima del cero absoluto era descubierto en 1964 y galardonado con el Premio Nobel en 1978. _El Libro de Urantia_ Fellowship Community Newsletter, agosto de 2010.
 
-[^xiii]: [LU 15:4.7](/es/The_Urantia_Book/15#p4_7). Para referencias de CS, véase [La próxima validación científica de El libro de Urantia](/es/article/Philip_Calabrese/The_Coming_Scientific_Validation_of_The_Urantia_Book), Philip Calabrese, _The Urantia Book_ Fellowship Herald, 2006.
+[^xiii]: [LU 15:4.7](/es/The_Urantia_Book/15#p4_7). Para referencias de CS, véase [La próxima validación científica de _El Libro de Urantia_](/es/article/Philip_Calabrese/The_Coming_Scientific_Validation_of_The_Urantia_Book), Philip Calabrese, _The Urantia Book_ Fellowship Herald, 2006.
 
 [^xiv]: [LU 57:6.2](/es/The_Urantia_Book/57#p6_2). Consulte también http://www.ubthenews.com/topics/mercury.htm
 

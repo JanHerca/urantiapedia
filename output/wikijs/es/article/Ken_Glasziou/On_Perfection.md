@@ -20,7 +20,7 @@ Tal perfección puede no ser universal en el sentido material, ilimitada en la c
 
 Este es el verdadero significado de ese mandato divino: «Sed perfectos, como yo soy perfecto».
 
-> Todo lector serio de El libro de Urantia debería tener la esperanza de experimentar la posibilidad de que un pariente cercano o un amigo en algún momento observe que su vida de amor vivo recuerda a la de Jesús de Nazaret.
+> Todo lector serio de _El Libro de Urantia_ debería tener la esperanza de experimentar la posibilidad de que un pariente cercano o un amigo en algún momento observe que su vida de amor vivo recuerda a la de Jesús de Nazaret.
 
 ## Enlaces externos
 

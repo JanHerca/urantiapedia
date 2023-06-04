@@ -26,7 +26,7 @@ La historia que salió a la luz fue que lo hizo por un sentimiento de gratitud p
 
 Aparentemente, la pura persistencia del escritor que, en todo tipo de clima, se deslizó en medio de la noche renovando la palabra "Eternidad" con la desesperada esperanza de que pudiera tocar a alguien, finalmente tuvo precisamente ese efecto, y realmente salvó del suicidio la persona que finalmente complació al mundo entero con su obra de arte y artesanía.
 
-La moraleja de la historia? ¿Esa persona que escribió “Eternidad” con tiza y en alabanza a su Dios, alguna vez habría soñado que, en última instancia, sería vista con asombro por miles de millones de personas, y tal vez afectaría a millones?
+La moraleja de la historia? ¿Esa persona que escribió «Eternidad» con tiza y en alabanza a su Dios, alguna vez habría soñado que, en última instancia, sería vista con asombro por miles de millones de personas, y tal vez afectaría a millones?
 
 No importa cuán pequeños, incluso triviales, puedan parecer nuestros esfuerzos, no sabemos, y no podemos saber, lo que el poder de Dios puede lograr con nuestras ofrendas sinceras.
 
