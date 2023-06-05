@@ -24,17 +24,17 @@ Los mundos de las mansiones son los mundos morontiales, siendo «morontia» un t
 
 Los seres materiales como nosotros no podrían nunca enfrentarse a estos cambios que nos llevan a una existencia enteramente espiritual si no fuera por ese regalo directo de Dios que tenemos, un fragmento real de él mismo que conocemos como su «Espíritu residente» o «Ajustador del Pensamiento».
 
-La presencia de este Ajustador divino en la mente humana queda desvelada por tres fenómenos experienciales:
-
-1. Nuestra capacidad intelectual de conocer a Dios: conciencia de Dios
-2. Nuestro impulso espiritual de encontrar a Dios: búsqueda de Dios
-3. El ansia de nuestra personalidad de ser como Dios: el deseo sincero de hacer la voluntad del Padre (p.24).
+> La presencia de este Ajustador divino en la mente humana queda desvelada por tres fenómenos experienciales:
+> 
+> 1. Nuestra capacidad intelectual de conocer a Dios: conciencia de Dios
+> 2. Nuestro impulso espiritual de encontrar a Dios: búsqueda de Dios
+> 3. El ansia de nuestra personalidad de ser como Dios: el deseo sincero de hacer la voluntad del Padre ([LU 1:2.3-6](/es/The_Urantia_Book/1#p2_3)).
 
 Para entender mejor la siguiente etapa de nuestra carrera universal, necesitamos ser conscientes críticamente de que todo lo que es «personal» en nosotros y que sobrevive en la vida morontial, es procesado por nuestro Ajustador del Pensamiento porque tiene algún tipo de «valor espiritual» potencial.
 
 La razón de esto es que en el mundo espiritual, que es el que sigue a nuestra existencia morontial temporal, las cosas de este mundo, aquellas cosas asociadas con asuntos materiales, simplemente no tienen existencia y por tanto son inútiles. Si evaluamos nuestra experiencia en este planeta y esperamos llevarnos al menos algunos rasgos de ella con nosotros, entonces necesitamos desarrollar un «sentimiento» para esos conceptos intangibles tan frecuentemente referidos como «significados y valores espirituales». Los documentos nos dicen:
 
-> «...cuando se intentan aclarar las realidades del mundo del espíritu para las mentes físicas de orden material, aparece el misterio: misterios tan sutiles y tan profundos que sólo el entendimiento de fe del mortal que conoce a Dios puede lograr el milagro filosófico del reconocimiento del Infinito por parte del finito, el discernimiento del Dios eterno por parte de los mortales evolutivos de los mundos materiales del tiempo y el espacio» ([LU 1:4.7](/es/The_Urantia_Book/1#p4_7)).
+> «...cuando se intentan aclarar las realidades del mundo del espíritu para las mentes físicas de orden material, **aparece el misterio**: misterios tan sutiles y tan profundos que sólo el entendimiento de fe del mortal que conoce a Dios puede lograr el milagro filosófico del reconocimiento del Infinito por parte del finito, el discernimiento del Dios eterno por parte de los mortales evolutivos de los mundos materiales del tiempo y el espacio» ([LU 1:4.7](/es/The_Urantia_Book/1#p4_7)).
 
 Lo que se aplica a «infinito» y «eterno» también se aplica a «espiritual». Una y otra vez, los documentos se refieren a los significados y valores espirituales sin elaboración adicional.
 
@@ -56,9 +56,9 @@ Hay dos aproximaciones para comprender lo que significa «espiritual». Puesto q
 
 > «El Hijo Eterno es completamente espiritual; el hombre es casi completamente material» ([LU 6:6.4](/es/The_Urantia_Book/6#p6_4))
 
-> «El espíritu es la realidad personal básica de los universos, y la personalidad es básica para toda experiencia progresiva con la realidad espiritual. Cada fase de la experiencia de la personalidad en cada nivel sucesivo de progresión universal abunda en pistas para el descubrimiento de fascinantes realidades personales. El verdadero destino del hombre consiste en la creación de metas nuevas y espirituales y luego responder a los atractivos cósmicos de tales metas excelsas de valor no material.» ([LU 12:9.1](/es/The_Urantia_Book/12#p9_1)).
+> «El espíritu es la realidad personal básica de los universos, y la personalidad es básica para toda experiencia progresiva con la realidad espiritual. Cada fase de la experiencia de la personalidad en cada nivel sucesivo de progresión universal abunda en pistas para el descubrimiento de fascinantes realidades personales. **El verdadero destino del hombre consiste en la creación de metas nuevas y espirituales** y luego responder a los atractivos cósmicos de tales metas excelsas de valor no material.» ([LU 12:9.1](/es/The_Urantia_Book/12#p9_1)).
 
-> «Cuando se aplican las pruebas espirituales de la grandeza los elementos morales no se desatienden, pero la calidad de altruismo revelada en la labor desinteresada para el bienestar de los propios semejantes terrenales, particularmente de los seres merecedores en necesidad y en dolor, ésa es la verdadera medida de la grandeza planetaria. Y la manifestación de la grandeza en un mundo como Urantia es la exhibición del autocontrol. El gran hombre no es el que «conquista una ciudad» o «derrota a una nación», sino más bien «el que domina su propia lengua».» ([LU 28:6.20](/es/The_Urantia_Book/28#p6_20)).
+> «Cuando se aplican las **pruebas espirituales de la grandeza** los elementos morales no se desatienden, pero **la calidad de altruismo revelada en la labor desinteresada para el bienestar de los propios semejantes terrenales**, particularmente de los seres merecedores en necesidad y en dolor, **ésa es la verdadera medida de la grandeza planetaria**. Y la manifestación de la grandeza en un mundo como Urantia es la exhibición del autocontrol. El gran hombre no es el que «conquista una ciudad» o «derrota a una nación», sino más bien «el que domina su propia lengua».» ([LU 28:6.20](/es/The_Urantia_Book/28#p6_20)).
 
 > «Para el hombre finito la verdad, la belleza, y la bondad abrazan la revelación plena de la realidad de divinidad. A medida que esta comprensión y amor de la Deidad encuentra expresión espiritual en la vida de los mortales que conocen a Dios, se producen los frutos de la divinidad: paz intelectual, progreso social, satisfacción moral, felicidad espiritual, y sabiduría cósmica. Los mortales avanzados en un mundo en la séptima etapa de luz y vida han aprendido que el amor es lo más grande en el universo —y saben que Dios es amor. El amor es el deseo de hacer el bien a los demás.» ([LU 56:10.20](/es/The_Urantia_Book/56#p10_20)).
 
@@ -66,36 +66,24 @@ Hay dos aproximaciones para comprender lo que significa «espiritual». Puesto q
 
 > «El objetivo de la autorrealización humana debe ser espiritual, no material. Las únicas realidades por las que vale luchar son divinas, espirituales y eternas.» ([LU 100:2.6](/es/The_Urantia_Book/100#p2_6)).
 
-> «Una de las características más sorprendentes de la vida religiosa, es esa paz dinámica y sublime, esa paz que trasciende toda comprensión humana, esa calma cósmica que simboliza la ausencia de toda duda y confusión. Tales niveles de estabilidad espiritual son inmunes a la decepción.» ([LU 100:6.6](/es/The_Urantia_Book/100#p6_6)).
+> «Una de las características más sorprendentes de la vida religiosa, es esa paz dinámica y sublime, esa paz que trasciende toda comprensión humana, esa calma cósmica que simboliza la ausencia de toda duda y confusión. Tales niveles de **estabilidad espiritual** son inmunes a la decepción.» ([LU 100:6.6](/es/The_Urantia_Book/100#p6_6)).
 
-> «El espíritu divino hace contacto con el hombre mortal, no mediante sentimientos o emociones, sino en el dominio del pensamiento más elevado y más espiritualizado. Son vuestros pensamientos los que os conducen hacia Dios. Se puede percibir la naturaleza divina tan sólo con los ojos de la mente. Pero la mente que verdaderamente discierne a Dios, escucha al Ajustador residente, es la mente limpia. «Sin santidad ningún hombre podrá ver a Dios». Toda comunión interna y espiritual de este tipo se denomina discernimiento espiritual. Estas experiencias religiosas son el resultado de la impresión producida sobre la mente del hombre por la actuación combinada del Ajustador y del Espíritu de la Verdad a medida que éstos funcionan sobre y por intermedio de las ideas, ideales, visiones y luchas espirituales de los hijos evolutivos de Dios.» ([LU 101:1.3](/es/The_Urantia_Book/101#p1_3)).
+> «El espíritu divino hace contacto con el hombre mortal, no mediante sentimientos o emociones, sino en el dominio del pensamiento más elevado y más espiritualizado. Son vuestros pensamientos los que os conducen hacia Dios. Se puede percibir la naturaleza divina tan sólo con los ojos de la mente. Pero la mente que verdaderamente discierne a Dios, escucha al Ajustador residente, es la mente limpia. «Sin santidad ningún hombre podrá ver a Dios». Toda comunión interna y espiritual de este tipo se denomina **discernimiento espiritual**. Estas experiencias religiosas son el resultado de la impresión producida sobre la mente del hombre por la actuación combinada del Ajustador y del Espíritu de la Verdad a medida que éstos funcionan sobre y por intermedio de las ideas, ideales, visiones y luchas espirituales de los hijos evolutivos de Dios.» ([LU 101:1.3](/es/The_Urantia_Book/101#p1_3)).
 
-> El alma del hombre se revela por medio de la fe religiosa, y demuestra la divinidad potencial de su naturaleza emergente por la manera característica en que induce a la personalidad mortal a reaccionar ante ciertas situaciones intelectuales y sociales duras y difíciles. La fe espiritual auténtica (la verdadera conciencia moral) se revela en que:
+> El alma del hombre se revela por medio de la fe religiosa, y demuestra la divinidad potencial de su naturaleza emergente por la manera característica en que induce a la personalidad mortal a reaccionar ante ciertas situaciones intelectuales y sociales duras y difíciles. La **fe espiritual** auténtica (la verdadera conciencia moral) se revela en que:
 > 
 > 1. Provoca el progreso de la ética y de la moral a pesar de las tendencias animales inherentes y adversas.
-> 
 > 2. Produce una confianza sublime en la bondad de Dios, en medio incluso de amargas decepciones y de derrotas aplastantes.
-> 
 > 3. Genera un valor y una confianza profundos a pesar de las adversidades naturales y de las calamidades físicas.
-> 
 > 4. Muestra una serenidad inexplicable y una tranquilidad continua a pesar de las enfermedades desconcertantes e incluso de los sufrimientos físicos agudos.
-> 
 > 5. Mantiene a la personalidad en una calma y un equilibrio misteriosos en medio de los malos tratos y de las injusticias más flagrantes.
-> 
 > 6. Mantiene una confianza divina en la victoria final, a pesar de las crueldades de un destino aparentemente ciego y de la aparente indiferencia total de las fuerzas naturales hacia el bienestar humano.
-> 
 > 7. Insiste en creer inquebrantablemente en Dios a pesar de todas las demostraciones contrarias de la lógica, y resiste con éxito a todos los demás sofismas intelectuales.
-> 
 > 8. Continúa mostrando una fe intrépida en la supervivencia del alma, sin tener en cuenta las enseñanzas engañosas de la falsa ciencia ni las ilusiones persuasivas de una filosofía errónea.
-> 
 > 9. Vive y triunfa a pesar de la sobrecarga abrumadora de las civilizaciones complejas y parciales de los tiempos modernos.
-> 
 > 10. Contribuye a la supervivencia continua del altruismo a pesar del egoísmo humano, los antagonismos sociales, las avaricias industriales y los desajustes políticos.
-> 
 > 11. Se adhiere firmemente a una creencia sublime en la unidad universal y en la guía divina, sin tener en cuenta la presencia desconcertante del mal y del pecado.
-> 
 > 12. Continúa muy acertadamente adorando a Dios a pesar de todo y por encima de todo. Se atreve a declarar: «Aunque Él me mate, seguiré sirviéndole». ([LU 101:3.4-16](/es/The_Urantia_Book/101#p3_4))
-
 
 > «El Supremo es la belleza de la armonía física, la verdad del significado intelectual y la bondad del valor espiritual.» ([LU 117:1.1](/es/The_Urantia_Book/117#p1_1)).
 
@@ -120,8 +108,6 @@ Hay dos aproximaciones para comprender lo que significa «espiritual». Puesto q
 > Toda la vida del Maestro estuvo constantemente condicionada por esta fe viviente, esta experiencia religiosa sublime. Esta actitud espiritual dominaba totalmente sus pensamientos y sentimientos, su creencia y su oración, su enseñanza y su predicación. Esta fe personal de un hijo en la certidumbre y la seguridad de la guía y la protección del Padre celestial confirió a su vida excepcional una profunda dotación de realidad espiritual. ([LU 196:0.9](/es/The_Urantia_Book/196#p0_9))
 
 [El propósito de proveer estas citas es el de ayudar a los lectores a adquirir comprensión sobre lo que se quiere decir debido a las dificultades de definir conceptos como «significados y valores espirituales», siendo éstos los únicos componentes de nuestra existencia mortal que continúan con nosotros en la siguiente etapa de la existencia. Vale la pena remarcar que Jesús tuvo gran dificultad en enseñar a los apóstoles conceptos espirituales, que ellos convertían invariablemente en reglas que debían ser obedecidas.]
-
-
 
 ## Enlaces externos
 
