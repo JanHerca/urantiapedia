@@ -1,5 +1,5 @@
 ---
-title: "¿Qué nos dice el libro de Urantia que debe lograrse?"
+title: "¿Qué nos dice _El Libro de Urantia_ que debe lograrse?"
 description: 
 published: true
 date: 2023-02-19T14:02:03.086Z

@@ -44,7 +44,7 @@ Does “ungodlike” experience become part of the Supreme? Certainly that which
 
 The seven adjutant mind spirits who are so important for our growth are called by names consonant with their purpose—intuition, understanding, courage, knowledge, counsel, worship and wisdom. Though the adjutants have an aura of being personal, they are not actual entities. We are told they are more like circuits but that would have been an analogy coined in the mid-thirties. Perhaps the concept of “field” as it has become important in quantum physics might now be a better description.
 
-In reality, the adjutants are levels of consciousness of the Universe Mother Spirit ([LU 36:5.4](/es/The_Urantia_Book/36#p5_4)) who is the direct source of our individual minds. We are informed that there are no comparable influences to the adjutant mind spirits once we depart this Earth.
+In reality, the adjutants are levels of consciousness of the Universe Mother Spirit ([UB 36:5.4](/en/The_Urantia_Book/36#p5_4)) who is the direct source of our individual minds. We are informed that there are no comparable influences to the adjutant mind spirits once we depart this Earth.
 
 But though we depart forever from their presence, our souls will possess a continuing character derived from the decisions we made during our association with adjutant mind.
 

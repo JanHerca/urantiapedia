@@ -10,9 +10,9 @@ dateCreated: 2022-9-9T8:13:39Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 The Brotherhood of Man Library</p>
 
-> “. . . las simples enseñanzas del evangelio de Jesús: la filiación con Dios, la fraternidad entre los hombres y la ciudadanía siempre ascendente en el universo eterno”. ([UB 94:10.3](/es/El_Libro_de_Urantia/94#p10_3))
+> «... las simples enseñanzas del evangelio de Jesús: la filiación con Dios, la fraternidad entre los hombres y la ciudadanía siempre ascendente en el universo eterno». ([LU 94:10.3](/es/The_Urantia_Book/94#p10_3))
 
-La clave de esta doctrina “sencilla” es la naturaleza misma de Dios tal como fue revelada en la vida de Jesús de Nazaret. Esta naturaleza se reveló más efectivamente en las parábolas de Jesús, en particular, en estas:
+La clave de esta doctrina «sencilla» es la naturaleza misma de Dios tal como fue revelada en la vida de Jesús de Nazaret. Esta naturaleza se reveló más efectivamente en las parábolas de Jesús, en particular, en estas:
 
 - El hijo pródigo
 - La oveja perdida
@@ -27,7 +27,7 @@ El Dios revelado en la vida de Jesús era un Dios de infinito amor, compasión y
 
 El evangelio jesusoniano incluía la filiación con Dios y la ciudadanía ascendente en el universo eterno. En su contexto moderno, la filiación con Dios significa ser miembro de la familia de Dios en la tierra. En ninguna parte se le da a su significado un mayor grado de realidad que en ese componente de la historia de la vida de Jesús en la tierra cuando asume el «papel de padre» para su familia de Nazaret después de la muerte prematura de su padre terrenal, José.
 
-El significado de “ciudadanía siempre ascendente en el universo eterno” implica una espiritualización de nuestro propio ser y en ninguna parte se ilustra mejor su significado como una posibilidad para simples mortales que en la historia de la vida de Jesús desde su nacimiento hasta su bautismo en el Jordán.
+El significado de «ciudadanía siempre ascendente en el universo eterno» implica una espiritualización de nuestro propio ser y en ninguna parte se ilustra mejor su significado como una posibilidad para simples mortales que en la historia de la vida de Jesús desde su nacimiento hasta su bautismo en el Jordán.
 
 Hasta su bautismo, Jesús vivió exactamente como todos los demás humanos desde el otorgamiento de su Espíritu de la Verdad en Pentecostés, una vida en la que tuvo que recorrer su propio camino de descubrimiento del significado de la centralidad de Dios en el desarrollo de su individualidad.
 

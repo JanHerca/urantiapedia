@@ -14,7 +14,7 @@ La información en los Documentos que se relaciona directamente con esta pregunt
 
 Las exposiciones sobre la relatividad y la naturaleza evolutiva de la verdad se mencionan en muchos lugares diferentes. Esta peculiaridad de presentación ha hecho que sea bastante difícil obtener una visión general coordinada e ininterrumpida del grado de autoridad que se otorga a la revelación que proviene de una variedad de fuentes celestiales, algunas reconocidamente de un estatus marginalmente superior al de los destinatarios previstos.
 
-Posiblemente debido a su asociación con la afirmación frecuentemente declarada de que la Biblia es la palabra infalible de Dios, para muchos de nosotros esta palabra “revelación” tiene la connotación subconsciente de ser “ordenado por Dios, por lo tanto, infalible”. Quizá no sea sorprendente que se haya otorgado una expectativa similar de infalibilidad divina al texto de los Documentos de Urantia. Pero, ¿es esta realmente una expectativa válida? La naturaleza dispersa de la evidencia hace que sea difícil decidir. Entonces, ¿hay alguna manera de mejorar nuestra comprensión en tales circunstancias?
+Posiblemente debido a su asociación con la afirmación frecuentemente declarada de que la Biblia es la palabra infalible de Dios, para muchos de nosotros esta palabra «revelación» tiene la connotación subconsciente de ser «ordenado por Dios, por lo tanto, infalible». Quizá no sea sorprendente que se haya otorgado una expectativa similar de infalibilidad divina al texto de los Documentos de Urantia. Pero, ¿es esta realmente una expectativa válida? La naturaleza dispersa de la evidencia hace que sea difícil decidir. Entonces, ¿hay alguna manera de mejorar nuestra comprensión en tales circunstancias?
 
 Investigaciones recientes han demostrado que, para muchos de nosotros, la presentación gráfica de la información es una valiosa ayuda complementaria para la comprensión. Los diagramas de flujo que se presentan en las páginas siguientes emplean este medio con la esperanza de aclarar el significado de estos Documentos únicos y notables.
 
@@ -27,24 +27,24 @@ flowchart TD
 	verídicas. Sólo pueden estar seguras dentro de lo que alcanza su 
 	experiencia personal. Aquello que puede parecer enteramente cierto en un 
 	lugar, sólo puede ser relativamente cierto en otro segmento de la creación. 
-	[UB 2:7.2]
+	[LU 2:7.2]
 	La verdad divina, la verdad final, es uniforme y universal, pero la 
 	historia de las cosas espirituales, tal como la cuentan numerosas 
 	personalidades procedentes de esferas diversas, puede variar a veces en los 
 	detalles debido a esta relatividad en la totalidad del conocimiento y en la 
 	plenitud de la experiencia personal, así como en la longitud y la extensión 
-	de esa experiencia. [UB 2:7.3]")
+	de esa experiencia. [LU 2:7.3]")
 	s3("¿Son los ocumentos la
 	Verdad absoluta?")
 	s4("Todo conocimiento finito y toda comprensión por parte de las criaturas 
 	son relativos. La información y los datos, aunque procedan de fuentes 
 	elevadas, sólo son relativamente completos, localmente exactos y 
-	personalmente verdaderos. [UB 2:7.1]
+	personalmente verdaderos. [LU 2:7.1]
 	...nada de lo que la naturaleza humana ha tocado puede ser considerado como 
 	infalible. Es cierto que la verdad divina puede brillar a través de la 
 	mente humana, pero siempre con una pureza relativa y una divinidad parcial. 
 	La criatura puede desear ardientemente la infalibilidad, pero sólo los 
-	Creadores la poseen. [UB 159:4.8]")
+	Creadores la poseen. [LU 159:4.8]")
 	s5("Revelación, Verdad y
 	Completitud")
 	s6("Los documentos, de los cuales éste mismo forma parte, constituyen la 
@@ -60,7 +60,7 @@ flowchart TD
 	es conveniente hacer estas sinceras declaraciones incluso a riesgo de 
 	debilitar la influencia y la autoridad futuras de esta obra, que es la 
 	revelación más reciente de la verdad para las razas mortales de Urantia. 
-	[UB 92:4.9]")
+	[LU 92:4.9]")
 	s7("Limitaciones de la revelación: Cosmología")
 	s8 ("Puesto que vuestro mundo ignora generalmente el origen de las cosas, 
 	incluso de las cosas físicas, ha parecido sabio proporcionarle de vez en 
@@ -72,7 +72,7 @@ flowchart TD
 	revelación se sienten tentados a desechar cualquier elemento de verdad 
 	religiosa auténtica que pueda contener, porque descubren errores a primera 
 	vista en las cosmologías asociadas que se presentan en ella.
-	[UB 101:4.1]
+	[LU 101:4.1]
 	La humanidad debería comprender que nosotros, que participamos en la 
 	revelación de la verdad, estamos muy rigurosamente limitados por las 
 	instrucciones de nuestros superiores. No tenemos libertad para anticipar 
@@ -92,7 +92,7 @@ flowchart TD
 	Está limitada por el permiso que nos han concedido para coordinar y 
 	clasificar el conocimiento de hoy en día. Aunque la perspicacia divina o 
 	espiritual sea un don, la sabiduría humana tiene que evolucionar. 
-	[UB 101:4.2]
+	[LU 101:4.2]
 	")
 	s9("Uso de fuentes humanas")
 	s10("Los documentos siguientes describen el carácter del Padre Universal y 
@@ -104,7 +104,7 @@ flowchart TD
 	tenemos que dar preferencia a los conceptos humanos más elevados que 
 	existen relacionados con los temas que se van a presentar. Sólo podemos 
 	recurrir a la revelación pura cuando el concepto a presentar no haya sido 
-	expresado anteriormente de manera adecuada por la mente humana. [UB 0:12.11]
+	expresado anteriormente de manera adecuada por la mente humana. [LU 0:12.11]
 	Agradecimientos: Para llevar a cabo mi misión de reexponer las enseñanzas 
 	de Jesús de Nazaret y contar de nuevo sus acciones, he utilizado 
 	ampliamente todas las fuentes de archivos y de informaciones planetarias. 
@@ -118,22 +118,22 @@ flowchart TD
 	los archivos superhumanos. Cuando las ideas y los conceptos de la vida y de 
 	las enseñanzas de Jesús han sido expresados aceptablemente por una mente 
 	humana, he dado preferencia invariablemente a estos modelos de pensamiento 
-	aparentemente humanos. . . .[UB 121:8.12]
+	aparentemente humanos... .[LU 121:8.12]
 	Mi misión de revelación me prohibía recurrir a fuentes extrahumanas de 
 	información o de expresión, hasta que pudiera atestiguar que había agotado 
 	todas las posibilidades para encontrar la expresión conceptual necesaria en 
-	las fuentes puramente humanas. [UB 121:8.13]")
+	las fuentes puramente humanas. [LU 121:8.13]")
 	s11 ("Bueno, ¿son los Documentos una revelación divina?")
 	s12("La verdad siempre es una revelación: es una autorrevelación cuando 
 	emerge como resultado del trabajo del Ajustador interior, y es una 
 	revelación que hace época cuando es presentada mediante la actuación de 
-	algún otro agente, grupo o personalidad celestial. [UB 101:4.3]
+	algún otro agente, grupo o personalidad celestial. [LU 101:4.3]
 	En último análisis, la religión debe ser juzgada por sus frutos,
 	de acuerdo con la manera y la medida en que exhibe su propia
-	excelencia inherente y divina. [UB 101:4.4]
+	excelencia inherente y divina. [LU 101:4.4]
 	A fin de cuentas, la religión ha de ser juzgada por sus frutos, con arreglo 
 	a la manera y a la amplitud en que manifiesta su propia excelencia 
-	inherente y divina. [UB 101:4.5]
+	inherente y divina. [LU 101:4.5]
 	Eso parece devolver la decisión al individuo, cada uno de los cuales puede
 	reclutar las fuerzas espirituales internas para ayudarlos a formular su 
 	libre albedrío elección.")
@@ -146,14 +146,14 @@ flowchart TD
 	completos e imparciales de tres fases de la realidad universal: el origen, 
 	la historia y el destino. La comprensión adecuada de estas tres realidades 
 	experienciales proporciona la base para apreciar sabiamente el estado 
-	actual. [UB 19:1.6]")
+	actual. [LU 19:1.6]")
 	s15("Un eslabón perdido es un conocimiento real del DESTINO humano")
 	s16("La historia por sí sola no consigue revelar adecuadamente el 
 	desarrollo futuro —el DESTINO. Los orígenes finitos son útiles, pero sólo 
 	las causas divinas revelan los efectos finales. Los fines eternos no se 
 	manifiestan en los comienzos temporales. El presente sólo se puede 
 	interpretar verdaderamente a la luz de su correlación con el pasado y el 
-	futuro. [UB 19:1.11]
+	futuro. [LU 19:1.11]
 	Los Documentos de Urantia proporcionan un conocimiento detallado de nuestro 
 	potencial eterno destino, tanto hasta el logro del Padre Universal como 
 	posterior al mismo en Paraíso. Este destino se vuelve disponible como 
@@ -176,7 +176,7 @@ flowchart TD
 	dentro del marco de esos postulados creados por la mente. Aunque estos 
 	marcos universales para el pensamiento de las criaturas son indispensables 
 	para las operaciones intelectuales racionales, todos son erróneos en mayor 
-	o menor grado, sin ninguna excepción. [UB 115:1.1]
+	o menor grado, sin ninguna excepción. [LU 115:1.1]
 	Los marcos conceptuales del universo sólo son relativamente verdaderos; son 
 	unos andamios útiles que al final deben ceder el paso a la expansión de una 
 	comprensión cósmica más amplia. Las maneras de comprender la verdad, la 
@@ -190,12 +190,12 @@ flowchart TD
 	Orvonton, en Havona y en el Paraíso. El hombre está obligado a pensar 
 	dentro de un marco universal humano, pero esto no significa que no pueda 
 	imaginar otros marcos más elevados dentro de los cuales pueda tener lugar 
-	el pensamiento. [UB 115:1.2]
+	el pensamiento. [LU 115:1.2]
 	[Nota: la cosmología en los Documentos era para principios de la década de 
 	1930, y parte es ahora anticuado. Sin embargo, esto sólo tiene efectos 
 	triviales sobre la utilidad del marco de universo provisto]")
 	s20("Un extra final")
-	s21("Los Documentos de la Parte 1 de El libro de Urantia proporcionan una 
+	s21("Los Documentos de la Parte 1 de _El Libro de Urantia_ proporcionan una 
 	exposición única de las relaciones de la deidad que no tiene precedentes en 
 	este planeta. Incluido es una revelación del Padre Universal que detalla 
 	las interrelaciones con aspectos absolutos, eternos e infinitos de la 

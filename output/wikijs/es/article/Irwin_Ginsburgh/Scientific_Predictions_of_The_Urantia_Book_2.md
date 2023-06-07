@@ -102,7 +102,7 @@ Hay mucho material en _El Libro de Urantia_ que está de acuerdo con nuestra cie
 
 4. **Separación del quinto planeta del sol**. (Astronomía, Cosmología, [LU 57:6.5](/es/The_Urantia_Book/57#p6_5)). El libro dice que el quinto planeta desde el sol fue atraído lentamente por la gravedad del sexto planeta gigante, Júpiter. Cuando estuvo lo suficientemente cerca, la gravedad de Júpiter separó al quinto planeta para crear la banda de asteroides entre Marte y Júpiter. La ciencia ahora dice que nunca hubo un quinto planeta, y que los asteroides son pedazos de materia espacial (planetesimales) que nunca formaron un planeta. Las Crónicas de la Tierra [^3] afirman que una colisión planetaria destrozó el quinto planeta y creó los asteroides.
 
-Número de Habitados | Nombre del libro de Urantia | Nombre científico Mundos
+Número de Habitados | Nombre del_Libro de Urantia_ | Nombre científico Mundos
 --- | --- | ---
 un mundo, el nuestro | Urantia | Tierra
 1.000 o menos | sistema | constelación visible

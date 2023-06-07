@@ -12,7 +12,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 > Hace doce años, el Dr. Jim Mills, entonces profesor de filosofía en la Universidad de Florida y ex fideicomisario de la Fundación Urantia, me introdujo a la filosofía del proceso. Jim expresó su ferviente esperanza de que pudiera ser la clave para encontrar un lugar para los Documentos de Urantia en el plan de estudios de las instituciones terciarias para el estudio de los estudiantes de filosofía y teología. Jim murió sin ver cumplida su esperanza.
 >
-> Recientemente, asistí a una conferencia introductoria sobre la teología del proceso presentada a la congregación de una iglesia local y, con el permiso de su autor, la he reproducido como un tema de gran interés. Su autor, dicho sea de paso, nunca había oído hablar de _El libro de Urantia_.
+> Recientemente, asistí a una conferencia introductoria sobre la teología del proceso presentada a la congregación de una iglesia local y, con el permiso de su autor, la he reproducido como un tema de gran interés. Su autor, dicho sea de paso, nunca había oído hablar de _El Libro de Urantia_.
 >
 > Ken Glasziou
 {.is-info}
@@ -29,13 +29,13 @@ Como cristianos, creemos en un Ser Supremo al que llamamos Dios. Nuestra compren
 
 La Biblia y gran parte de nuestra liturgia actual usan palabras, símbolos y metáforas de esa época. Dios fue descrito en términos de un rey y un gobernante que tenía control absoluto sobre todo. Dios era todopoderoso, eterno, nunca cambiaba. Describieron a Dios en términos de su comprensión de los seres humanos, siendo Dios más grande que cualquier cosa que pueda ser humanamente imaginada. Dios fue descrito como un sobrehumano.
 
-A medida que aumentaba nuestra comprensión del universo, muchas de estas imágenes y metáforas anteriores ya no tenían sentido para nosotros. Sin embargo, parecemos reacios a renunciar a ellos porque está “en la Biblia”. La mayoría de ellos no están en la Biblia; provienen de nuestros padres de la iglesia, personas como nosotros, tratando de explicar lo que se nos revela en la Biblia.
+A medida que aumentaba nuestra comprensión del universo, muchas de estas imágenes y metáforas anteriores ya no tenían sentido para nosotros. Sin embargo, parecemos reacios a renunciar a ellos porque está «en la Biblia». La mayoría de ellos no están en la Biblia; provienen de nuestros padres de la iglesia, personas como nosotros, tratando de explicar lo que se nos revela en la Biblia.
 
 La mayoría de los teólogos y maestros serios ahora piensan que ya es hora de que usemos palabras, imágenes y metáforas que tengan sentido y sean apropiadas para nuestra comprensión moderna del universo y nuestro lugar en él. Permítanme dar dos citas para ilustrar esto:
 
-- “Si creemos que todo conocimiento nuevo nos es revelado por Dios con un propósito, entonces es necesario reformular nuestra teología para tomar en cuenta el mundo tal como lo conocemos.” (Papa Juan Pablo 11)
+- «Si creemos que todo conocimiento nuevo nos es revelado por Dios con un propósito, entonces es necesario reformular nuestra teología para tomar en cuenta el mundo tal como lo conocemos.» (Papa Juan Pablo 11)
 
-- “Existe una gran y alarmante disonancia entre el lenguaje de la devoción, la doctrina y la liturgia, y la forma en que las personas se ven a sí mismas y a la realidad del mundo”. (Arthur Peacocke, Decano de Clare College, Cambridge)
+- «Existe una gran y alarmante disonancia entre el lenguaje de la devoción, la doctrina y la liturgia, y la forma en que las personas se ven a sí mismas y a la realidad del mundo». (Arthur Peacocke, Decano de Clare College, Cambridge)
 
 En la teología del proceso hay un intento de reconciliar nuestra creencia en un Dios amoroso, el Dios que vemos en las Escrituras y el Dios que experimentamos personalmente, con el Dios que vemos en el mundo y las maravillas de Dios que los científicos nos han mostrado.
 
@@ -55,8 +55,8 @@ Esto es muy diferente de lo que se entendía cuando se escribió la Biblia, cuan
 La teoría detrás de la teología del proceso es muy complicada, pero trato de entender una versión simplificada de la siguiente manera:
 
 - Todas las cosas, incluidos los seres humanos, están hechas de estallidos de eventos de energía llamados "actividades" u "ocasiones de experiencia" que se combinan en "sociedades" o "comunidades".
-- Los átomos, las moléculas, las rocas, etc., son “comunidades” elementales, mientras que los seres vivos son “comunidades” avanzadas.
-- Los seres humanos son posiblemente la más avanzada de las “comunidades de eventos”.
+- Los átomos, las moléculas, las rocas, etc., son «comunidades» elementales, mientras que los seres vivos son «comunidades» avanzadas.
+- Los seres humanos son posiblemente la más avanzada de las «comunidades de eventos».
 
 Todas las actividades, incluidos los seres humanos, están influenciadas por tres fuerzas:
 - En primer lugar, Dios nos da un objetivo inicial que nos hace lo que somos: humanos y no flores, y un humano específico en eso.
@@ -120,7 +120,7 @@ Aprender acerca de Dios es un ejercicio de toda la vida con Dios dirigiendo nues
 
 La teología del proceso no pretende tener todas las respuestas, Dios sigue siendo un misterio. Sin embargo, me da una forma más creíble de pensar en Dios. Creo que la teología del proceso hace que la iglesia sea más creíble y más relevante para el mundo moderno y nos brinda una mejor oportunidad de enfrentar los desafíos del próximo milenio. ¡Gracias a Dios!
 
-> El tiempo mismo se vuelve una mera sombra de la eternidad, proyectada por las realidades del Paraíso sobre la panoplia móvil del espacio. ([UB 101:10.9](/es/El_Libro_de_Urantia/101#p10_9))
+> El tiempo mismo se vuelve una mera sombra de la eternidad, proyectada por las realidades del Paraíso sobre la panoplia móvil del espacio. ([LU 101:10.9](/es/The_Urantia_Book/101#p10_9))
 
 ## Enlaces externos
 

@@ -1,5 +1,5 @@
 ---
-title: "Actualización del año 2006 sobre la próxima validación científica del libro de Urantia"
+title: "Actualización del año 2006 sobre la próxima validación científica del_Libro de Urantia_"
 description: 
 published: true
 date: 2023-02-13T14:02:03.086Z

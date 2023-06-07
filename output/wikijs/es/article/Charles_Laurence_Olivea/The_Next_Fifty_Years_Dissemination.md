@@ -1,6 +1,6 @@
 ---
 title: "Los próximos cincuenta años"
-description: "Difusión del libro de Urantia y sus enseñanzas"
+description: "Difusión del_Libro de Urantia_ y sus enseñanzas"
 published: true
 date: 2023-02-09T14:02:03.086Z
 tags: 

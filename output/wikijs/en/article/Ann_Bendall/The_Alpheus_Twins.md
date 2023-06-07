@@ -18,7 +18,7 @@ John and his brother, James, solved what was apparently a dilemma by choosing Ja
 
 There is not much to be said about these two commonplace fisherfolk. They loved their Master and Jesus loved them, but they never interrupted his discourses with questions. They understood very little about the philosophical discussions or the theological debates of their fellow apostles, but they rejoiced to find themselves numbered amongst such a group of mighty men.
 
-Andrew assigned them to the work of policing the multitudes. They were the chief ushers of the preaching hours, and, in fact, the general servants and errand boys of the twelve—and they were always ready to lend a helping hand to any one of the apostles. ([LU 139:10.3](/es/The_Urantia_Book/139#p10_3))
+Andrew assigned them to the work of policing the multitudes. They were the chief ushers of the preaching hours, and, in fact, the general servants and errand boys of the twelve—and they were always ready to lend a helping hand to any one of the apostles. ([UB 139:10.3](/en/The_Urantia_Book/139#p10_3))
 
 Rarely are the referred to separately in the Urantia Papers. Never is there a reference to Jesus speaking to them individually. The “mediocre twins” were “almost identical in personal appearance, mental characteristics, and extent of spiritual perception. What can be said of one should be recorded of the other.”
 

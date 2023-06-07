@@ -109,7 +109,7 @@ Entonces, ¿cómo vamos nosotros los terrícolas, limitados por nuestra incapaci
 
 Para mí, el mayor regalo asociado con la recepción de _El Libro de Urantia_ ha sido la sustitución de la comunicación en oración con un "Dios allá afuera" por una experiencia personal de "Jesús conmigo", un amigo, siempre a mi lado, siempre ahí, siempre listo para proporcionar lo que sea necesario para avanzar en mi progreso espiritual, pero al mismo tiempo siempre instándome a pararme sobre mis propios pies y tomar mis propias decisiones. ¡Si pudiera recordar que él siempre está ahí!
 
-He conocido a lectores del libro de Urantia que quieren pasar por alto esta fase de vivir con Jesús, que solo quieren tratar con «el hombre en la cima». Tal vez se hayan perdido esa parte del libro que nos informa que, para todos los efectos, un Hijo Creador es Dios para su universo. ([LU 5:3.6](/es/The_Urantia_Book/5#p3_6)) Ahora que se acerca el cumpleaños de Jesús, ¿qué regalo podemos ofrecerle? Las palabras que me vienen a la mente son de un popular himno popular estadounidense:
+He conocido a lectores del_Libro de Urantia_ que quieren pasar por alto esta fase de vivir con Jesús, que solo quieren tratar con «el hombre en la cima». Tal vez se hayan perdido esa parte del libro que nos informa que, para todos los efectos, un Hijo Creador es Dios para su universo. ([LU 5:3.6](/es/The_Urantia_Book/5#p3_6)) Ahora que se acerca el cumpleaños de Jesús, ¿qué regalo podemos ofrecerle? Las palabras que me vienen a la mente son de un popular himno popular estadounidense:
 
 > “Solo un paseo más cercano contigo;
 > Concédeme, Señor, esta oración;

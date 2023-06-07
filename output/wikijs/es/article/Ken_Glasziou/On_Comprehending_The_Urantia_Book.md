@@ -1,5 +1,5 @@
 ---
-title: "Sobre la comprensión del libro de Urantia"
+title: "Sobre la comprensión del_Libro de Urantia_"
 description: 
 published: true
 date: 2022-9-9T8:13:39Z

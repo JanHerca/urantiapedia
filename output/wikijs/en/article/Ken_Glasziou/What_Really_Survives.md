@@ -28,7 +28,7 @@ Material beings like ourselves could never cope with these changes that lead to 
 > 
 > 1. Our intellectual capacity for knowing God—God-consciousness.
 > 2. Our spiritual urge to find God—to be God-seeking.
-> 3. The craving of our personality to be like God—the wholehearted desire to do the Father’s will. ([LU 1:2.3-6](/es/The_Urantia_Book/1#p2_3))
+> 3. The craving of our personality to be like God—the wholehearted desire to do the Father’s will. ([UB 1:2.3-6](/en/The_Urantia_Book/1#p2_3))
 
 For better understanding of the next stage in our universe career, we need to be critically aware that all that is “personal” about ourselves that survives into the morontia life, is processed by our Thought Adjuster because it has some kind of potential “spiritual value.”
 

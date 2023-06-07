@@ -10,13 +10,13 @@ dateCreated: 2022-9-9T8:13:39Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
 
-El alma en evolución del hombre mortal se crea a partir de “posibilidades” preexistentes dentro del Supremo (ver [UB 117:5.11](/en/The_Urantia_Book/117#p5_11)).
+El alma en evolución del hombre mortal se crea a partir de «posibilidades» preexistentes dentro del Supremo (ver [LU 117:5.11](/es/The_Urantia_Book/117#p5_11)).
 
-Esa declaración plantea más preguntas de las que responde. ¿Cómo sucede esto? ¿Cómo, de qué y de dónde surgen estas “posibilidades”? ¿Cómo llegaron a estar dentro del Supremo, que es “el Supremo”, y cómo obtenemos estas “posibilidades” para construir nuestras almas? Pero primero, ¿qué son estas cosas llamadas "posibilidades"?
+Esa declaración plantea más preguntas de las que responde. ¿Cómo sucede esto? ¿Cómo, de qué y de dónde surgen estas «posibilidades»? ¿Cómo llegaron a estar dentro del Supremo, que es «el Supremo», y cómo obtenemos estas «posibilidades» para construir nuestras almas? Pero primero, ¿qué son estas cosas llamadas "posibilidades"?
 
 El concepto de "posibilidades dentro del Supremo" incluye las estrellas, los planetas, los universos y "todo lo que hay en ellos", es decir, todo en el mundo finito. Abarca toda la vida ya sea espiritual, morontial o mortal. Abarca todo lo potencialmente posible para la experiencia evolutiva finita.
 
-Pero todo lo que es “posible” originalmente tuvo un origen infinito. Entonces, ¿cómo es posible que lo que pertenece al infinito se manifieste en el nivel finito?
+Pero todo lo que es «posible» originalmente tuvo un origen infinito. Entonces, ¿cómo es posible que lo que pertenece al infinito se manifieste en el nivel finito?
 
 No se nos da una respuesta directa. Sin embargo, se señala que el infinito abarca todas las cosas, desde la existencia finita más baja y cualificada hasta las realidades absolutas más elevadas y no cualificadas. (1264)
 
@@ -26,7 +26,7 @@ El Supremo se convierte así en el almacén de "posibilidades" al que las criatu
 
 Los medios por los cuales recurrimos al Supremo en busca de "posibilidades" están dominados casi por completo por los Siete Espíritus Ayudantes de la Mente, que tienen una influencia mucho mayor en nuestros pensamientos, si no en nuestras acciones, de lo que la mayoría de nosotros jamás consideró posible.
 
-En realidad, estos espíritus ayudantes de la mente parecen ser casi la única fuente de lo que reconocemos como nuestras propias mentes. Es una de sus responsabilidades llamar nuestra atención sobre las “posibilidades” disponibles para nosotros.
+En realidad, estos espíritus ayudantes de la mente parecen ser casi la única fuente de lo que reconocemos como nuestras propias mentes. Es una de sus responsabilidades llamar nuestra atención sobre las «posibilidades» disponibles para nosotros.
 
 Como el Espíritu de la Madre del Universo es la fuente directa de los espíritus ayudantes de la mente, todo lo que proviene de ellos no puede ser más que divino. También debe llevar las potencialidades y características inherentes de la mente cósmica, la fuente de toda mente finita.
 
@@ -38,9 +38,9 @@ Presumiblemente, se debe a los instintos evolutivos que derivamos de nuestra asc
 
 Lo que inicialmente estaba destinado a la autosupervivencia se ha convertido en un medio de autodestrucción, pero solo si esa es nuestra elección de libre albedrío, porque ahora estamos más allá de la fase animal en la evolución, y tenemos el intelecto para razonar, además de un construido. -en el conocimiento de la moralidad y el bien y el mal que vino con nuestra adquisición de personalidad más un potencial superior para utilizar la mente cósmica.
 
-Cualquiera que sea la fuente de nuestros dilemas, estos son parte de las “posibilidades” con las que debemos luchar para convertirnos en experiencias que tengan valor espiritual, si queremos que se conviertan en un componente de los recuerdos que nos acompañan a lo largo de nuestra carrera eterna.
+Cualquiera que sea la fuente de nuestros dilemas, estos son parte de las «posibilidades» con las que debemos luchar para convertirnos en experiencias que tengan valor espiritual, si queremos que se conviertan en un componente de los recuerdos que nos acompañan a lo largo de nuestra carrera eterna.
 
-¿Se convierte la experiencia “no divina” en parte del Supremo? Ciertamente, lo que es “no semejante a Dios” no puede existir en presencia del Padre Universal, pero tal vez toda experiencia finita pueda contribuir a la constitución del Supremo.
+¿Se convierte la experiencia «no divina» en parte del Supremo? Ciertamente, lo que es «no semejante a Dios» no puede existir en presencia del Padre Universal, pero tal vez toda experiencia finita pueda contribuir a la constitución del Supremo.
 
 Los siete espíritus auxiliares de la mente que son tan importantes para nuestro crecimiento reciben nombres en consonancia con su propósito: intuición, comprensión, coraje, conocimiento, consejo, adoración y sabiduría. Aunque los ayudantes tienen un aura de ser personal, no son entidades reales. Se nos dice que son más como circuitos, pero esa habría sido una analogía acuñada a mediados de los años treinta. Quizás el concepto de "campo", tal como se ha vuelto importante en la física cuántica, ahora podría ser una mejor descripción.
 
@@ -48,7 +48,7 @@ En realidad, los ayudantes son niveles de conciencia del Espíritu Madre del Uni
 
 Pero aunque nos apartemos para siempre de su presencia, nuestras almas poseerán un carácter continuo derivado de las decisiones que tomamos durante nuestra asociación con la mente ayudante.
 
-> La volición espiritual es la autoidentificación con la voluntad de Dios. ([UB 118:6.6](/es/El_Libro_de_Urantia/118#p6_6))
+> La volición espiritual es la autoidentificación con la voluntad de Dios. ([LU 118:6.6](/es/The_Urantia_Book/118#p6_6))
 
 ## Enlaces externos
 
