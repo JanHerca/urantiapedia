@@ -2,7 +2,7 @@
 title: Tests de Jan en Markdown
 description: 
 published: true
-date: 2023-01-10T23:17:53.799Z
+date: 2023-06-04T17:48:53.393Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-12T09:12:29.765Z
@@ -58,4 +58,19 @@ classDiagram
     Plant --> Presentation : Described in
     Plant --> Race : Used by
     Presentation
+```
+
+```mermaid
+flowchart TD
+	s1("What do their author's say?")
+	s2("`Physical facts are fairly uniform, but truth is a living and flexible factor in the philosophy 
+	of the universe. Evolving personalities are only partially wise and relatively true in their 
+	communications. They can be certain only as far as their personal experience extends. That 
+	which apparently may be wholly true in one place may be only relatively true in another 
+	segment of creation.)
+	Divine truth, final truth, is uniform and **universal**, but the story of things spiritual, as it is told 
+	by numerous individuals hailing from various spheres, may sometimes vary in details owing 
+	to this relativity in the completeness of knowledge and in the repleteness of personal 
+	experience as well as in the length and extent of that experience.`")
+	s1 --> s2
 ```
