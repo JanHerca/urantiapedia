@@ -3,10 +3,12 @@ title: "On Truth"
 description:
 published: true
 date: 2023-01-21T14:02:03.086Z
-tags:
+tags: Truth, Innerface International, article
 editor: markdown
 dateCreated: 2023-01-21T14:02:03.086Z
 ---
+
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Ken Glasziou<br>© 2002 The Brotherhood of Man Library</p>
 
 - Things are time conditioned but truth is timeless. The more truth you know, the more truth you are, the more of the past you can understand and of the future you can comprehend.
 - Truth is inconcussible--forever exempt from all transient vicissitudes, albeit never dead and formal, always vibrant and adaptable--radiantly alive.
@@ -20,6 +22,12 @@ dateCreated: 2023-01-21T14:02:03.086Z
 Nothing which human mind nature has touched can be regarded as infallible. Through the mind of man, divine truth may indeed shine forth, but always of relative purity and partial divinity. The creature may crave infallibility, but only the Creators possess it.
 
 Divine truth is a spirit-discerned and living reality. Truth exists only on high spiritual levels of the realization of divinity and the consciousness of communion with God. You can know the truth, and you can live the truth; you can experience the growth of truth in the soul and enjoy the liberty of its enlightenment in the mind, but you cannot imprison truth in formulas, codes, creeds, or intellectual patterns of human conduct.  When you undertake the human formulation of divine truth, it speedily dies.
+
+> It is an old maxim of mine that when you have excluded the impossible, whatever remains, however improbable, must be the truth.
+> _Arthur C. Doyle_
+
+> Plato is dear to me, but dearer still is truth.
+> _Aristotle_
 
 ## External links
 

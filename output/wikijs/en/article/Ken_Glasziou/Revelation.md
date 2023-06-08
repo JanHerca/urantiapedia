@@ -1,12 +1,14 @@
 ---
-title: "Revelation"
+title: "On Revelation"
 description:
 published: true
 date: 2023-01-21T14:02:03.086Z
-tags: Revelation
+tags: Revelation, Innerface International, article
 editor: markdown
 dateCreated: 2023-01-21T14:02:03.086Z
 ---
+
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Ken Glasziou<br>© 2002 The Brotherhood of Man Library</p>
 
 If revelation is to exalt and upstep the religions of evolution, then must such divine visitations portray teachings which are not too far removed from the thought and reactions of the age in which they are presented. Thus must and does revelation always keep in touch with evolution. Always must the religion of revelation be limited by man's capacity of receptivity.
 
@@ -27,6 +29,12 @@ These new developments we even now foresee, but we are forbidden to include such
 Mark you well my words, Nathaniel, nothing which human nature has touched can be regarded as infallible. Through the mind of man divine truth may indeed shine forth, but always of relative purity and partial divinity. The creature may crave infallibility, but only the Creators possess it.
 
 But the greatest error of the teaching about the Scriptures is the doctrine of their being sealed books of mystery and wisdom which only the wise minds of the nation dare to interpret. The revelations of divine truth are not sealed except by human ignorance, bigotry, and narrow-minded intolerance. The light of the Scriptures is only dimmed by prejudice and darkened by superstition. A false fear of sacredness has prevented religion from being safeguarded by common sense. The fear of the authority of the sacred writings of the past effectively prevents the honest souls of today from accepting the new light of the gospel, the light which these very God-knowing men of another generation so intensely longed to see.
+
+> The least pain in our little finger gives us more concern and uneasiness than the destruction of millions of our fellow-beings.
+> _William Hazlitt_
+
+> Beware that you do not lose the substance by grasping at the shadow.
+> _Aesop_
 
 ## External links
 

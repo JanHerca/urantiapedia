@@ -3,10 +3,12 @@ title: "On the Will of God"
 description:
 published: true
 date: 2023-01-21T14:02:03.086Z
-tags: God
+tags: God, Innerface International, article
 editor: markdown
 dateCreated: 2023-01-21T14:02:03.086Z
 ---
+
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Ken Glasziou<br>© 2002 The Brotherhood of Man Library</p>
 
 In the universes God the Father is, in potential, the overcontroller of matter, mind, and spirit. Only by means of his far-flung personality circuit does God deal directly with the personalities of his vast creation of will creatures, but he is contactable (outside of Paradise) only in the presences of his fragmented entities, the will of God abroad in the universes.
 
@@ -39,6 +41,13 @@ Peace in this life, survival in death, perfection in the next life, service in e
 This choosing of the Father's will is the spiritual finding of the spirit Father by mortal man.
 
 This choosing does not so much consist in the negation of creature will--"Not my will but yours be done"--as it consists in the creature's positive affirmation: "It is my will that your will be done." Jesus said: The will of God is the way of God, partnership with the choice of God in the face of any potential alternative. To do the will of God, therefore, is the progressive experience of becoming more and more like God, and God is the source and destiny of all that is good and beautiful and true. The will of man is the way of man, the sum and substance of that which the mortal chooses to be and do. Will is the deliberate choice of a self-conscious being which leads to decision-conduct based on intelligent reflection.
+
+> Ethical arioms are found and tested not very differently from the axioms of science. Truth is what stands the test of experience.
+> _Albert Einstein_
+
+> Errors, like Straws, upon the surface flow;
+> He who would search for Pearls must dive below.
+> _John Dryden_
 
 ## External links
 
