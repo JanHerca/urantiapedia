@@ -10,7 +10,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
 
-“**El Dios de la adoración reclama toda la lealtad o ninguna**.”
+«**El Dios de la adoración reclama toda la lealtad o ninguna**.»
 
 La adoración es **por sí misma**; la oración encarna un elemento de interés propio o de la criatura; esa es la gran diferencia entre la adoración y la oración. No hay absolutamente ningún auto-pedido u otro elemento de interés personal en la adoración verdadera; simplemente adoramos a Dios por lo que entendemos que es. La adoración no pide nada ni espera nada del adorador. No adoramos al Padre por nada que podamos derivar de tal veneración; brindamos tal devoción y participamos en tal adoración como una reacción natural y espontánea al reconocimiento de la personalidad incomparable del Padre y debido a su naturaleza amable y atributos adorables.
 

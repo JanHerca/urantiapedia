@@ -18,7 +18,7 @@ No era evidente para los apóstoles que su Maestro estaba comprometido en vivir 
 
 El Maestro les estaba enseñando a estos apóstoles lo esencial de la verdad **durante toda una época en la tierra**.
 
-Con razón estos apóstoles no comprendieron completamente las palabras del Maestro, porque les estaba proyectando **el plan de una nueva era.** \[Siguen 500 páginas de texto en las que los autores deben cumplir con su pretensión potencialmente vanagloriosa de proporcionar “ un alto ideal espiritual e inspirador para todos los seres mortales en todos los mundos”, además de “un plan para una nueva era en la tierra”. Y tienen éxito, una hazaña verdaderamente notable si los autores hubieran sido humanos, pero no si no lo fueran. Es alimento para el pensamiento.\]
+Con razón estos apóstoles no comprendieron completamente las palabras del Maestro, porque les estaba proyectando **el plan de una nueva era.** \[Siguen 500 páginas de texto en las que los autores deben cumplir con su pretensión potencialmente vanagloriosa de proporcionar « un alto ideal espiritual e inspirador para todos los seres mortales en todos los mundos», además de «un plan para una nueva era en la tierra». Y tienen éxito, una hazaña verdaderamente notable si los autores hubieran sido humanos, pero no si no lo fueran. Es alimento para el pensamiento.\]
 
 ## Revelación
 

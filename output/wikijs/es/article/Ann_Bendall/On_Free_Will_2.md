@@ -59,7 +59,7 @@ Y así, hasta la noche de su arresto, continuó orando, «_si esta copa no pasa,
 
 	** Entonces, ¿cómo dedicamos nuestra voluntad, alineamos nuestra voluntad con la de Dios? ** ¡Simple! El libro nos instruye: «_La voluntad de Dios es el camino de Dios, el asociarse con la elección de Dios frente a cualquier alternativa potencial._» ([LU 130:2.7](/es/The_Urantia_Book/130#p2_7))
 
-	Para ayudarnos a hacer la voluntad de Dios se nos informa, «_De todos los conocimientos humanos, el que tiene mayor valor es conocer la vida religiosa de Jesús y cómo la vivió._» ([LU 196:1.3](/es/El_libro_de_Urantia/196#p1_3))
+	Para ayudarnos a hacer la voluntad de Dios se nos informa, «_De todos los conocimientos humanos, el que tiene mayor valor es conocer la vida religiosa de Jesús y cómo la vivió._» ([LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
 
 	Por lo tanto, si adquirimos ese conocimiento, en cualquier situación de la vida en la que nos encontremos, podemos buscar la ayuda del Espíritu de la Verdad de Jesús para responder a la pregunta: «¿Qué haría Jesús?». Y si se hace con sinceridad, podemos estar seguros de que nuestra respuesta será como la de Dios.
 

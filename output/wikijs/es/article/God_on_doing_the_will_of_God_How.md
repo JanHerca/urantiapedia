@@ -22,7 +22,7 @@ La paz en esta vida, la supervivencia en la muerte, la perfección en la próxim
 
 Esta elección de la voluntad del Padre es el **hallazgo espiritual del Espíritu Padre** por parte del hombre mortal.
 
-Esta elección no consiste tanto en la negación de la voluntad de la criatura —“No se haga mi voluntad sino la tuya”— cuanto que consiste en la afirmación positiva de la criatura: “Es mi voluntad que se haga tu voluntad”.
+Esta elección no consiste tanto en la negación de la voluntad de la criatura —«No se haga mi voluntad sino la tuya»— cuanto que consiste en la afirmación positiva de la criatura: «Es mi voluntad que se haga tu voluntad».
 
 El Dios-Espíritu que mora en nosotros no puede aliviar las dificultades de la vida mientras viajamos por este mundo de trabajo. El habitante divino solo puede tolerar pacientemente mientras ustedes pelean la batalla de la vida tal como se vive en su planeta; pero podrías, si tan solo quisieras, mientras trabajas y te preocupas, mientras luchas y te afanas, permitir que tu valiente Ayudador luche contigo y por ti. Podrías sentirte tan consolado e inspirado, tan cautivado e intrigado, si tan solo permitieras que el Auxiliar constantemente presentara las imágenes del motivo real, el objetivo final y el propósito eterno de toda esta lucha difícil y cuesta arriba con los problemas comunes. de su mundo material actual.
 
@@ -44,11 +44,11 @@ Pero, ¿cómo podemos estar seguros de que hablamos en serio? Todo lo que necesi
 2. La imitación de Dios es la clave de la perfección; el hacer su voluntad es el secreto de la supervivencia y de la perfección en la supervivencia.
 3. La paz en esta vida, la supervivencia en la muerte, la perfección en la próxima vida, el servicio en la eternidad—todo esto se logra (en espíritu) **AHORA** cuando la personalidad de la criatura consiente—elige—sujetar la voluntad de la criatura a la voluntad del Padre. voluntad.
 4. Esta elección de la voluntad del Padre es el hallazgo espiritual del Padre espiritual por parte del hombre mortal.
-5. Esta elección no consiste tanto en la negación de la voluntad de la criatura —“No se haga mi voluntad, sino la tuya”— cuanto que consiste en la afirmación positiva de la criatura: “Es mi voluntad que se haga tu voluntad”.
+5. Esta elección no consiste tanto en la negación de la voluntad de la criatura —«No se haga mi voluntad, sino la tuya»— cuanto que consiste en la afirmación positiva de la criatura: «Es mi voluntad que se haga tu voluntad».
 
 \[Pero por mucho que lo intentemos, no podemos formular una definición precisa ni un conjunto de reglas para especificar cuál es realmente la voluntad de Dios. Tal vez se describa mejor en la respuesta que Jesús le dio una vez a un joven indagador:\]
 
-> “Fue una conversación que duró hasta bien entrada la noche, en el transcurso de la cual el joven pidió a Jesús que le explicara la diferencia entre la voluntad de Dios y el acto mental humano de elegir, que también se llama voluntad. En sustancia, Jesús dijo: La voluntad de Dios es el camino de Dios, el asociarse con la elección de Dios frente a cualquier alternativa potencial. En consecuencia, hacer la voluntad de Dios es la experiencia progresiva de parecerse cada vez más a Dios, y Dios es la fuente y el destino de todo lo que es bueno, bello y verdadero. La voluntad del hombre es el camino del hombre, la suma y la sustancia de lo que el mortal escoge ser y hacer. La voluntad es la elección deliberada de un ser auto-consciente, que conduce a una decisión y a un comportamiento basados en una reflexión inteligente”. ([UB 130:2.7](/es/El_Libro_de_Urantia/130#p2_7))
+> «Fue una conversación que duró hasta bien entrada la noche, en el transcurso de la cual el joven pidió a Jesús que le explicara la diferencia entre la voluntad de Dios y el acto mental humano de elegir, que también se llama voluntad. En sustancia, Jesús dijo: La voluntad de Dios es el camino de Dios, el asociarse con la elección de Dios frente a cualquier alternativa potencial. En consecuencia, hacer la voluntad de Dios es la experiencia progresiva de parecerse cada vez más a Dios, y Dios es la fuente y el destino de todo lo que es bueno, bello y verdadero. La voluntad del hombre es el camino del hombre, la suma y la sustancia de lo que el mortal escoge ser y hacer. La voluntad es la elección deliberada de un ser auto-consciente, que conduce a una decisión y a un comportamiento basados en una reflexión inteligente». ([LU 130:2.7](/es/The_Urantia_Book/130#p2_7))
 
 > Una a una las arenas van fluyendo,
 > Uno a uno caen los momentos;

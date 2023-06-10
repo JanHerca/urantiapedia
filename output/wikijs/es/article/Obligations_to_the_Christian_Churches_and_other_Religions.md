@@ -28,7 +28,7 @@ dateCreated: 2022-09-26T18:28:13.933Z
 
 > La era moderna rehusará aceptar una religión que sea incompatible con los hechos y que no se armonice con sus conceptos más elevados de la verdad, la belleza y la bondad. Ha llegado la hora de volver a descubrir los verdaderos fundamentos originales del cristianismo de hoy deformado y comprometido —la vida y las enseñanzas reales de Jesús. ([LU 195:9.5](/es/The_Urantia_Book/195#p9_5))
 
-> En verdad, el cristianismo ha hecho un gran servicio a este mundo, pero a quien más se necesita ahora es a Jesús. El mundo necesita ver a Jesús viviendo de nuevo en la Tierra en la experiencia de los mortales nacidos del espíritu que revelan el Maestro eficazmente a todos los hombres ([LU 195:10.1](/en/The_Urantia_Book/195#p10_1))
+> En verdad, el cristianismo ha hecho un gran servicio a este mundo, pero a quien más se necesita ahora es a Jesús. El mundo necesita ver a Jesús viviendo de nuevo en la Tierra en la experiencia de los mortales nacidos del espíritu que revelan el Maestro eficazmente a todos los hombres ([LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
 
 > Jesús no fundó la llamada iglesia cristiana, pero de todas las maneras compatibles con su naturaleza, la ha fomentado como la mejor representante existente de la obra de su vida en la Tierra. ([LU 195:10.9](/es/The_Urantia_Book/195#p10_9))
 

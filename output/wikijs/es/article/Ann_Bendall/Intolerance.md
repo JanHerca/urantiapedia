@@ -16,7 +16,7 @@ Jesús definió la intolerancia como «_la máscara que cubre las dudas que se m
 
 Jesús nunca mostró intolerancia a ninguna persona, pero él era, «_no toleraba el pecado. Con frecuencia se sintió impulsado a oponerse enérgicamente a aquello que iba en contra del bienestar de sus hijos en la Tierra. Pero su indignación contra el pecado nunca le condujo a enojarse con los pecadores._» ([LU 100:7.14](/es/The_Urantia_Book/100#p7_14))
 
-De manera similar, Jesús dijo: «_Decid a mis hijos que no solamente soy sensible a sus sentimientos y paciente con sus debilidades, sino que también soy despiadado con el pecado e intolerante con la iniquidad. En verdad, soy manso y humilde en presencia de mi Padre, pero también soy implacablemente inexorable cuando hay una acción malvada deliberada y una rebelión pecaminosa contra la voluntad de mi Padre que está en los cielos._» ([LU 159:3.9](/es/El_libro_de_Urantia/159#p3_9))
+De manera similar, Jesús dijo: «_Decid a mis hijos que no solamente soy sensible a sus sentimientos y paciente con sus debilidades, sino que también soy despiadado con el pecado e intolerante con la iniquidad. En verdad, soy manso y humilde en presencia de mi Padre, pero también soy implacablemente inexorable cuando hay una acción malvada deliberada y una rebelión pecaminosa contra la voluntad de mi Padre que está en los cielos._» ([LU 159:3.9](/es/The_Urantia_Book/159#p3_9))
 
 El apóstol Juan era «_un poco fanático y extremadamente intolerante. ... Pero no era el único de los doce que estaba infectado con esta clase de amor propio y de conciencia de superioridad._» ([LU 139:4.8](/es/The_Urantia_Book/139#p4_8))
 

@@ -44,7 +44,7 @@ Tal vez sería mejor no haber tenido nunca estos Documentos que ignorar su conte
 
 ¿No sería maravilloso que la escena que se describe a continuación pudiera algún día reflejarse en las vidas terrenales de los privilegiados que poseen los Documentos de Urantia de tal manera que los observadores dirían:
 
-> «_Y cuando el mundo vea estos sarmientos fructíferos —mis amigos que se aman los unos a los otros como yo los he amado— todos los hombres sabrán que sois realmente mis discípulos._» ([LU 180:2.1](/es/El_libro_de_Urantia/180#p2_1))
+> «_Y cuando el mundo vea estos sarmientos fructíferos —mis amigos que se aman los unos a los otros como yo los he amado— todos los hombres sabrán que sois realmente mis discípulos._» ([LU 180:2.1](/es/The_Urantia_Book/180#p2_1))
 
 > Jesús concluye: «_Así como el Padre me ha amado, yo os he amado. Vivid en mi amor como yo vivo en el amor del Padre. Si hacéis lo que os he enseñado, permaneceréis en mi amor al igual que yo he guardado la palabra del Padre y permanezco eternamente en su amor_». ([LU 180:2.2](/es/The_Urantia_Book/180#p2_2))
 

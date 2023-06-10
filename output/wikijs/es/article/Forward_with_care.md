@@ -24,7 +24,7 @@ Los maestros de la religión de Jesús deben acercarse a otras religiones con el
 
 El cristianismo está amenazado por una muerte lenta por el formalismo, el exceso de organización, el intelectualismo y otras tendencias no espirituales.
 
-Sin embargo, a la larga podemos confiar en dos realidades universales por excelencia: “Todas las cosas ayudan a bien en aquellos que aman a Dios", y de la revelación de Urantia, "... la revelación de Dios al mundo, en y a través de Jesús, no fallará.” _Lo que ahora se necesita es un ejército voluntario de buscadores de la verdad que vayan “hasta el final” viviendo como Jesús vivió—***primero en casa, luego en el extranjero***—mientras permanezcan seguros en el conocimiento de que “todas las cosas trabajen juntos para el bien”, y “la revelación de Dios al mundo, en y por medio de Jesús, no fallará”._
+Sin embargo, a la larga podemos confiar en dos realidades universales por excelencia: «Todas las cosas ayudan a bien en aquellos que aman a Dios", y de la revelación de Urantia, "... la revelación de Dios al mundo, en y a través de Jesús, no fallará.» _Lo que ahora se necesita es un ejército voluntario de buscadores de la verdad que vayan «hasta el final» viviendo como Jesús vivió—***primero en casa, luego en el extranjero***—mientras permanezcan seguros en el conocimiento de que «todas las cosas trabajen juntos para el bien», y «la revelación de Dios al mundo, en y por medio de Jesús, no fallará»._
 
 ## Enlaces externos
 

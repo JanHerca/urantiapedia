@@ -16,7 +16,7 @@ La existencia de Dios está absolutamente más allá de toda posibilidad de demo
 
 Si los seres mortales están motivados espiritualmente de todo corazón, consagrados sin reservas a hacer la voluntad del Padre, entonces, dado que están dotados espiritualmente con tanta certeza y eficacia por el Espíritu divino que mora en ellos, no puede dejar de materializarse en la experiencia del individuo lo sublime la conciencia de conocer a Dios y la suprema seguridad de sobrevivir con el propósito de encontrar a Dios por la experiencia progresiva de llegar a ser cada vez más como él.
 
-El reconocimiento de los valores espirituales es una experiencia superideacional. **No hay palabra en ningún lenguaje humano** que pueda emplearse para designar este “sentido”, “sentimiento”, “intuición” o “experiencia” que hemos elegido llamar **Conciencia de Dios**. El espíritu de Dios que habita en nosotros no es personal, es prepersonal, pero este Monitor presenta un valor, emana un sabor de divinidad, que es personal en el sentido más alto e infinito. Si Dios no fuera al menos personal, no podría ser consciente, y si no fuera consciente sería infrahumano.
+El reconocimiento de los valores espirituales es una experiencia superideacional. **No hay palabra en ningún lenguaje humano** que pueda emplearse para designar este «sentido», «sentimiento», «intuición» o «experiencia» que hemos elegido llamar **Conciencia de Dios**. El espíritu de Dios que habita en nosotros no es personal, es prepersonal, pero este Monitor presenta un valor, emana un sabor de divinidad, que es personal en el sentido más alto e infinito. Si Dios no fuera al menos personal, no podría ser consciente, y si no fuera consciente sería infrahumano.
 
 La conciencia de la presencia de tu Dios-Espíritu que mora en ti es conciencia de la presencia de Dios. Su fusión eterna con el alma evolutiva del hombre es la experiencia real de la unión eterna con Dios como asociado universal de la Deidad.
 
@@ -40,13 +40,13 @@ No dejéis de recordar que la voluntad de Dios se puede hacer en cualquier ocupa
 
 El reino de Dios en este mundo consiste en el deseo supremo de hacer la voluntad de Dios y el amor desinteresado de la humanidad que produce los buenos frutos de una conducta ética y moral mejorada.
 
-“Cuando la voluntad de Dios es vuestra ley, sois nobles súbditos esclavos; pero cuando creéis en este nuevo evangelio de la filiación divina, la voluntad de mi Padre se convierte en vuestra voluntad, y sois elevados a la alta posición de los hijos libres de Dios, hijos liberados del reino”. (Jesús)
+«Cuando la voluntad de Dios es vuestra ley, sois nobles súbditos esclavos; pero cuando creéis en este nuevo evangelio de la filiación divina, la voluntad de mi Padre se convierte en vuestra voluntad, y sois elevados a la alta posición de los hijos libres de Dios, hijos liberados del reino». (Jesús)
 
 Aunque no podemos ver a Dios, podemos conocerlo. Y **al vivir diariamente la voluntad del Padre** en el cielo, **podemos revelarlo a nuestros semejantes.
 
 En el reino venidero, no os preocupéis de aquellas cosas que os inquietan, sino más bien preocupaos en todo momento **SÓLO** de hacer la voluntad del Padre que está en los cielos.
 
-El Jesús humano vio a Dios como santo, justo y grande, así como verdadero, hermoso y bueno. Todos estos atributos de la divinidad los enfocó en su mente como la “voluntad del Padre que está en los cielos”.
+El Jesús humano vio a Dios como santo, justo y grande, así como verdadero, hermoso y bueno. Todos estos atributos de la divinidad los enfocó en su mente como la «voluntad del Padre que está en los cielos».
 
 La voluntad de Dios no prevalece uniformemente en el corazón del mortal material que busca a Dios, pero si el marco de tiempo se amplía más allá del momento para abarcar la totalidad de la primera vida, entonces la voluntad de Dios se vuelve cada vez más discernible en los frutos espirituales que nacen en la vida de los hijos de Dios guiados por el espíritu.
 

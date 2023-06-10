@@ -18,7 +18,7 @@ Dichos lectores son entonces libres de determinar por sí mismos cómo los compo
 
 **Entonces, ¿cuál es el papel previsto de la información extraordinariamente profética que también se incluye en el texto de los Documentos?**: información como el radio del electrón descubierto por Stefan Tallqvist que habría sido bastante imposible de conocer para cualquier ser humano en el momento. momento de la primera publicación del libro. (ver artículo posterior [«El radio del electrón.»](/es/article/Stefan_Tallqvist/Radius_of_the_Electron))
 
-Parece que los autores de los Documentos se enfrentaron a una tarea del tipo de «equilibrio en el filo de la navaja». Los Documentos explican el valor de nuestro libre albedrío, «_En lo que concierne a la supervivencia eterna, Dios ha decretado que la voluntad material y humana es soberana, y ***este decreto es absoluto***._» ([LU 5:6.8](/es/El_libro_de_Urantia/5#p6_8))
+Parece que los autores de los Documentos se enfrentaron a una tarea del tipo de «equilibrio en el filo de la navaja». Los Documentos explican el valor de nuestro libre albedrío, «_En lo que concierne a la supervivencia eterna, Dios ha decretado que la voluntad material y humana es soberana, y ***este decreto es absoluto***._» ([LU 5:6.8](/es/The_Urantia_Book/5#p6_8))
 
 No se necesita una concentración excesiva para percibir cómo las demostraciones milagrosas de cualquier tipo pueden interferir con nuestro libre albedrío para elegir nuestro propio camino preferido en lugar de lo que podríamos percibir como el camino de Dios. La creencia en los milagros ha obligado a muchos cristianos a aceptar la ley mosaica en contra de los deseos de su propia voluntad.
 

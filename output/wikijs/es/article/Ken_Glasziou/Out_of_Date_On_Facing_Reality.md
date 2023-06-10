@@ -48,7 +48,7 @@ Parece bastante probable que los seguidores del Libro de Urantia no produzcan es
 
 Quienes estén familiarizados con la escena de la "pobreza absoluta" conocerán bien la frase "Gracias a Dios por los Salvos". Tal vez habrá poco progreso con la revelación de Urantia hasta que "Gracias a Dios por los urantianos" también se vuelva familiar entre aquellos que lo necesitan desesperadamente.
 
-> ¿Para qué es tu vida? Es incluso un vapor que aparece por un poco de tiempo y luego se desvanece. [Santiago 4:14](/es/Bible/Santiago/4#v14)
+> ¿Para qué es tu vida? Es incluso un vapor que aparece por un poco de tiempo y luego se desvanece. [Santiago 4:14](/es/Bible/James/4#v14)
 
 ## Enlaces externos
 

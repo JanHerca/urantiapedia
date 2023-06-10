@@ -43,7 +43,7 @@ Surgieron puntos de diferencia con respecto a muchos temas, como la naturaleza d
 >
 > «Si tenéis dificultades personales en vuestras relaciones con Dios, venid a mí; os escucharé y os aconsejaré para que solucionéis vuestro problema».
 >
-> «Pero si os ponéis a coordinar las interpretaciones humanas divergentes de las cuestiones religiosas, y a socializar la religión, estáis destinados a solucionar todos esos problemas con **vuestras propias decisiones.**» ([LU 144:6.3](/es/El_libro_de_Urantia/144#p6_3))
+> «Pero si os ponéis a coordinar las interpretaciones humanas divergentes de las cuestiones religiosas, y a socializar la religión, estáis destinados a solucionar todos esos problemas con **vuestras propias decisiones.**» ([LU 144:6.3](/es/The_Urantia_Book/144#p6_3))
 
 Muchas veces en los Documentos de Urantia se nos informa que tenemos una misión que realizar, «que consistirá en la vida que viviréis entre los hombres».
 

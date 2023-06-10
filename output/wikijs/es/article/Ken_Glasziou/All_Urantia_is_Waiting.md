@@ -20,7 +20,7 @@ dateCreated: 2022-9-9T8:12:18Z
 >
 > «_Y he aquí la buena nueva del evangelio: por medio de la fe, cada mortal puede poseer todas estas cosas esenciales para la salvación._» ([LU 140:10.9](/es/The_Urantia_Book/140#p10_9))
 
-El mismo Papel nos dice: «_Cuando la voluntad de Dios es vuestra ley, sois unos nobles súbditos esclavos; pero cuando creéis en este nuevo evangelio de filiación divina, la voluntad de mi Padre se convierte en vuestra voluntad, y sois elevados a la alta posición de los hijos libres de Dios, los hijos liberados del reino._» ([LU 141:2.2]( /es/El_libro_de_Urantia/141#p2_2))
+El mismo Papel nos dice: «_Cuando la voluntad de Dios es vuestra ley, sois unos nobles súbditos esclavos; pero cuando creéis en este nuevo evangelio de filiación divina, la voluntad de mi Padre se convierte en vuestra voluntad, y sois elevados a la alta posición de los hijos libres de Dios, los hijos liberados del reino._» ([LU 141:2.2]( /es/The_Urantia_Book/141#p2_2))
 
 Cabría esperar que los devotos sinceros de las enseñanzas de _El Libro de Urantia_ estén bien encaminados para convertirse en hijos de Dios libres y liberados. Eso también implica un deseo de «ser como Dios».
 

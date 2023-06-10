@@ -10,7 +10,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ann Bendall<br>© 1999 The Brotherhood of Man Library</p>
 
-> «_En el cosmos no se producen accidentes ciegos e imprevistos_» ([LU 48:7.9](/es/The_Urantia_Book/48#p7_9)) y «_Las personalidades celestiales no intervienen arbitrariamente en los accidentes materiales, que son acontecimientos comunes de naturaleza física. En las circunstancias ordinarias, sólo las criaturas intermedias pueden intervenir sobre las condiciones materiales para salvaguardar a las personas, hombres o mujeres, con un destino determinado; incluso en las situaciones especiales, estos seres sólo pueden actuar así de conformidad con las órdenes específicas de sus superiores._» ([LU 123:4.7](/es/El_libro_de_Urantia/123#p4_7))
+> «_En el cosmos no se producen accidentes ciegos e imprevistos_» ([LU 48:7.9](/es/The_Urantia_Book/48#p7_9)) y «_Las personalidades celestiales no intervienen arbitrariamente en los accidentes materiales, que son acontecimientos comunes de naturaleza física. En las circunstancias ordinarias, sólo las criaturas intermedias pueden intervenir sobre las condiciones materiales para salvaguardar a las personas, hombres o mujeres, con un destino determinado; incluso en las situaciones especiales, estos seres sólo pueden actuar así de conformidad con las órdenes específicas de sus superiores._» ([LU 123:4.7](/es/The_Urantia_Book/123#p4_7))
 
 Y por lo tanto, parece que no se aprobó ni se deseó ninguna intervención cuando José sufrió lesiones en el sitio de construcción que lo llevaron a la muerte cuando Jesús tenía solo 14 años. Y se nos informa que,
 
@@ -36,7 +36,7 @@ A la edad de 13 años, «_con la agitación de una intensa emoción_», declaró
 
 Es muy probable que, si se hubiera visto obligado a asistir a la escuela en Jerusalén, esta justa indignación se hubiera manifestado en un corto período de tiempo, ya que, a la edad de 13 años, estaba planteando tales preguntas a los escribas y maestros como , «_Si Dios es un padre que ama a sus hijos, ¿por qué toda esta carnicería de animales para obtener el favor divino? ¿Se ha interpretado erróneamente la enseñanza de Moisés? ... Puesto que el templo está consagrado al culto del Padre celestial, ¿no es incongruente tolerar la presencia de aquellos que se dedican al trueque y al comercio mundanos?_» ([LU 125:5.5-6](/es/The_Urantia_Book/125#p5_5 ))
 
-Además, «_Tenía que completar su formación como hombre del mundo antes de emprender su carrera de enseñanza y de predicación como hombre-Dios perfeccionado de las fases divina y posthumana de su donación en Urantia._» ([LU 129:1.15](/es/El_libro_de_Urantia/129#p1_15)) Y no se consideró que había llegado a esta etapa hasta que comenzó su carrera pública. Obviamente, era el deseo de Dios que Jesús recibiera un entrenamiento intenso en «_cómo el hombre vivía y forjaba su existencia en Urantia_», lo que parece exceder los requisitos de su mandato de otorgamiento. ([LU 129:3.7](/es/The_Urantia_Book/129#p3_7))
+Además, «_Tenía que completar su formación como hombre del mundo antes de emprender su carrera de enseñanza y de predicación como hombre-Dios perfeccionado de las fases divina y posthumana de su donación en Urantia._» ([LU 129:1.15](/es/The_Urantia_Book/129#p1_15)) Y no se consideró que había llegado a esta etapa hasta que comenzó su carrera pública. Obviamente, era el deseo de Dios que Jesús recibiera un entrenamiento intenso en «_cómo el hombre vivía y forjaba su existencia en Urantia_», lo que parece exceder los requisitos de su mandato de otorgamiento. ([LU 129:3.7](/es/The_Urantia_Book/129#p3_7))
 
 A la vuelta de su viaje por la cuenca mediterránea el único oficio que no había tocado era el de la minería y, más adelante en su carrera pública, corrigió este déficit mientras él y los apóstoles estaban en Hierro. ([LU 146:4.2](/es/The_Urantia_Book/146#p4_2))
 
@@ -44,13 +44,13 @@ Una vez más, se postula que, si se le hubiera pedido que asistiera a las escuel
 
 Luego, su mandato de otorgamiento le prohibía involucrarse en política, y se vio obligado a usar su necesidad de cuidar a su familia como excusa para no unirse a una causa nacionalista porque, «_no podía insinuar que era más que un hombre; no podía revelar su idea de la misión que le esperaba al alcanzar una madurez más madura._» ([LU 127:2.7](/es/The_Urantia_Book/127#p2_7)).
 
-De manera similar, con la propuesta de Rebecca, usó sus responsabilidades familiares como excusa, pero agregó: «_si soy un hijo del destino, no debo asumir obligaciones para toda la vida hasta el momento en que mi destino se haga manifiesto._» ([LU 127:5.5](/es/El_libro_de_Urantia/127#p5_5))
+De manera similar, con la propuesta de Rebecca, usó sus responsabilidades familiares como excusa, pero agregó: «_si soy un hijo del destino, no debo asumir obligaciones para toda la vida hasta el momento en que mi destino se haga manifiesto._» ([LU 127:5.5](/es/The_Urantia_Book/127#p5_5))
 
 Sin embargo, desde la perspectiva de José, al morir prematuramente, ¿qué ganó o perdió?
 
 Se nos informa que para el año 12 de Jesús, «_José creía cada vez más en la naturaleza espiritual de la misión de Jesús; y si no fuera por otras razones más importantes, de hecho es una pena que no viviera lo suficiente como para ver realizarse su concepto de la donación de Jesús en la Tierra._» ([LU 124:4.6](/es/The_Urantia_Book/124#p4_6 ))
 
-Sin embargo, «_La mayor parte de la familia de José se hizo creyente en las enseñanzas de Jesús, pero muy pocos miembros de la familia de María creyeron en él hasta después de su partida de este mundo. José se inclinaba más hacia el concepto espiritual del Mesías esperado, pero María y su familia, y sobre todo su padre, mantenían la idea de un Mesías como liberador temporal y gobernante político._» ([LU 122:5.10](/es/El_libro_de_Urantia/122#p5_10))
+Sin embargo, «_La mayor parte de la familia de José se hizo creyente en las enseñanzas de Jesús, pero muy pocos miembros de la familia de María creyeron en él hasta después de su partida de este mundo. José se inclinaba más hacia el concepto espiritual del Mesías esperado, pero María y su familia, y sobre todo su padre, mantenían la idea de un Mesías como liberador temporal y gobernante político._» ([LU 122:5.10](/es/The_Urantia_Book/122#p5_10))
 
 Se describe a José como «_sujeto a períodos de ligero desaliento espiritual. Estas manifestaciones temperamentales se atenuaron considerablemente poco antes de su muerte prematura y después de que la situación económica de su familia hubiera mejorado gracias a su ascenso desde la categoría de carpintero a la función de próspero contratista._» ([LU 122:5.1](/es/The_Urantia_Book/122#p5_1))
 

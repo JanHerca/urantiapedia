@@ -10,9 +10,9 @@ dateCreated: 2023-01-21T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
 
-> ¡Qué servicio trascendente prestaría la presente revelación si, a través de ella, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional, y fuera presentado como el Jesús vivo a la iglesia que lleva su nombre y a todas las demás religiones! La hermandad cristiana de creyentes no dudará seguramente en reajustar su fe y sus costumbres de vida para poder «seguir» al Maestro en la manifestación de su vida real de devoción religiosa a la tarea de hacer la voluntad de su Padre, y de consagración al servicio desinteresado de los hombres. ([LU 196:1.2](/en/The_Urantia_Book/196#p1_2))
+> ¡Qué servicio trascendente prestaría la presente revelación si, a través de ella, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional, y fuera presentado como el Jesús vivo a la iglesia que lleva su nombre y a todas las demás religiones! La hermandad cristiana de creyentes no dudará seguramente en reajustar su fe y sus costumbres de vida para poder «seguir» al Maestro en la manifestación de su vida real de devoción religiosa a la tarea de hacer la voluntad de su Padre, y de consagración al servicio desinteresado de los hombres. ([LU 196:1.2](/es/The_Urantia_Book/196#p1_2))
 
-> Si el cristianismo tan sólo pudiera captar una mayor cantidad de enseñanzas de Jesús, podría hacer mucho más para ayudar al hombre moderno a resolver sus problemas nuevos y cada vez más complejos. ([LU 195:10.19](/en/The_Urantia_Book/195#p10_19))
+> Si el cristianismo tan sólo pudiera captar una mayor cantidad de enseñanzas de Jesús, podría hacer mucho más para ayudar al hombre moderno a resolver sus problemas nuevos y cada vez más complejos. ([LU 195:10.19](/es/The_Urantia_Book/195#p10_19))
 
 > La esperanza del cristianismo moderno consiste en dejar de patrocinar los sistemas sociales y las políticas industriales de la civilización occidental, e inclinarse humildemente ante la cruz que ensalza tan valientemente, para aprender allí otra vez de Jesús de Nazaret las verdades más grandes que el hombre mortal pueda escuchar jamás —el evangelio viviente de la paternidad de Dios y de la fraternidad de los hombres. ([LU 195:10.21](/es/The_Urantia_Book/195#p10_21))
 

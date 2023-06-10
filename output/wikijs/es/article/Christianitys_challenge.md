@@ -22,7 +22,7 @@ El desafío religioso de esta era está dirigido a aquellos hombres y mujeres co
 
 La religión revelada es el elemento unificador de la existencia humana. La revelación unifica la historia, coordina la geología, la astronomía, la física, la química, la biología, la sociología y la psicología. La experiencia espiritual es el alma real del cosmos del hombre.
 
-> Dios dijo: “Estoy cansado de los reyes, no los sufro más”;
+> Dios dijo: «Estoy cansado de los reyes, no los sufro más»;
 > Hasta mi oído la mañana trae
 > La indignación de los pobres.
 > _Emerson, Himno de Boston_

@@ -14,9 +14,9 @@ No es posible que el Espíritu pueda tener más bondad que el Padre, ya que toda
 
 La ciencia sólo se satisface con las causas primeras, la religión con la personalidad suprema y la filosofía con la unidad. Apocalipsis afirma que estos tres son uno y que todos son buenos. Lo real eterno es el bien del universo y no las ilusiones del tiempo del mal del espacio. En la experiencia espiritual de todas las personalidades, siempre es cierto que lo real es bueno y lo bueno es real.
 
-“¿Por qué me llamas bueno? Ninguno es bueno sino Dios,” (Jesús)
+«¿Por qué me llamas bueno? Ninguno es bueno sino Dios,» (Jesús)
 
-El Jesús humano vio a Dios como santo, justo y grande, así como verdadero, hermoso y bueno. Todos estos atributos de la divinidad los enfocó en su mente como la “voluntad del Padre que está en los cielos”. El Dios de Jesús era al mismo tiempo “El Santo de Israel” y “El Padre viviente y amoroso que está en los cielos”.
+El Jesús humano vio a Dios como santo, justo y grande, así como verdadero, hermoso y bueno. Todos estos atributos de la divinidad los enfocó en su mente como la «voluntad del Padre que está en los cielos». El Dios de Jesús era al mismo tiempo «El Santo de Israel» y «El Padre viviente y amoroso que está en los cielos».
 
 El pecado es una experiencia de la conciencia de la criatura; no es una parte de la conciencia de Dios.
 

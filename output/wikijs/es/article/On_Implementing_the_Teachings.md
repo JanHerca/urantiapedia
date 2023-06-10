@@ -18,7 +18,7 @@ En el segundo de los Documentos de Urantia, «La naturaleza de Dios», los revel
 
 La frase, "conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza del universo y la bondad divina", es obviamente autorreferencial, ya que en ninguna parte se encuentra una declaración más exquisita de tales verdades que la que se presenta en los Documentos de Urantia. El autor de este artículo continúa:
 
-> «La verdad es coherente, la belleza es atractiva y la bondad es estabilizadora. Cuando estos valores de lo que es real se coordinan en la experiencia de la personalidad, el resultado es un elevado tipo de amor condicionado por la sabiduría y capacitado por la lealtad. La verdadera finalidad de toda la educación en el universo consiste en coordinar de la mejor manera a los hijos aislados de los mundos con las realidades más amplias de su experiencia en expansión». ([LU 2:7.12](/en/The_Urantia_Book/2#p7_12))
+> «La verdad es coherente, la belleza es atractiva y la bondad es estabilizadora. Cuando estos valores de lo que es real se coordinan en la experiencia de la personalidad, el resultado es un elevado tipo de amor condicionado por la sabiduría y capacitado por la lealtad. La verdadera finalidad de toda la educación en el universo consiste en coordinar de la mejor manera a los hijos aislados de los mundos con las realidades más amplias de su experiencia en expansión». ([LU 2:7.12](/es/The_Urantia_Book/2#p7_12))
 
 Sin duda, otro propósito importante de esta revelación es la educación, con la difusión de su mensaje en formas que sean comprensibles para personas de todas las razas y religiones y en todos los niveles de capacidad espiritual e intelectual.
 

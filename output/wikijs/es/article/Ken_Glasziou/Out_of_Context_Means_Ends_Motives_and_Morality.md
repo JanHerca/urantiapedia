@@ -14,7 +14,7 @@ El significado de casi cualquier grupo de palabras dentro de un texto se puede c
 
 ## ¿Es el motivo lo que cuenta?
 
-Probablemente hay muchas citas de _El Libro de Urantia_ que tienen el potencial de causar un gran daño si se sacan del contexto al que se refiere el libro. Uno de estos es el sujeto del «motivo». En un caso, Jesús dice: «_Para conseguir entrar en el reino de los cielos, lo que cuenta es el móvil. Mi Padre mira dentro del corazón de los hombres y los juzga por sus deseos internos y sus intenciones sinceras._» ([LU 140:3.19](/es/The_Urantia_Book/140#p3_19)) En otros, dice: «_Pero yo miro más allá del acto para descubrir el móvil_» ([LU 140:6.4](/es/The_Urantia_Book/140#p6_4)) y, «_la moralidad de un acto cualquiera está determinada por el móvil del individuo._» ([LU 140:10.5]( /es/El_libro_de_Urantia/140#p10_5))
+Probablemente hay muchas citas de _El Libro de Urantia_ que tienen el potencial de causar un gran daño si se sacan del contexto al que se refiere el libro. Uno de estos es el sujeto del «motivo». En un caso, Jesús dice: «_Para conseguir entrar en el reino de los cielos, lo que cuenta es el móvil. Mi Padre mira dentro del corazón de los hombres y los juzga por sus deseos internos y sus intenciones sinceras._» ([LU 140:3.19](/es/The_Urantia_Book/140#p3_19)) En otros, dice: «_Pero yo miro más allá del acto para descubrir el móvil_» ([LU 140:6.4](/es/The_Urantia_Book/140#p6_4)) y, «_la moralidad de un acto cualquiera está determinada por el móvil del individuo._» ([LU 140:10.5]( /es/The_Urantia_Book/140#p10_5))
 
 ## ¿O es eso?
 

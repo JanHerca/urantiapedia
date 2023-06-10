@@ -10,7 +10,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
 
-También sabemos que a los que aman a Dios, todas las cosas les ayudan a bien. (Pablo en [Romanos 8:28](/en/Bible/Romans/8#v28))
+También sabemos que a los que aman a Dios, todas las cosas les ayudan a bien. (Pablo en [Romanos 8:28](/es/Bible/Romans/8#v28))
 
 Grandeza es sinónimo de divinidad. Dios es supremamente grande y bueno. La grandeza y la bondad simplemente no pueden divorciarse. Son hechos uno para siempre en Dios. Esta verdad está ilustrada de manera literal y sorprendente por la interdependencia reflexiva del Secreto de la Grandeza y el Alma de la Bondad, ya que ninguno puede funcionar sin el otro... Por lo tanto, en cualquier mundo, en cualquier universo, estos reflectores de grandeza y bondad deben trabajan juntos, mostrando siempre un informe dual y mutuamente dependiente de cada ser en el que se enfocan. La grandeza no se puede estimar sin conocer el contenido de la bondad, mientras que la bondad no se puede representar sin exhibir su inherente y divina grandeza.
 
@@ -18,7 +18,7 @@ Los retrasos de misericordia del tiempo son por mandato del libre albedrío de l
 
 Para realizar la providencia a tiempo, la humanidad debe cumplir la tarea de alcanzar la perfección. Pero el individuo puede incluso ahora saborear esta providencia en sus significados eternos cuando cada uno reflexiona sobre el hecho universal de que todas las cosas, sean buenas o malas, trabajan juntas para el avance de los mortales que conocen a Dios en la búsqueda del Padre de todos.
 
-Jesús dijo: “Tengo una confianza absoluta en la protección de mi Padre celestial. Estoy consagrado a hacer la voluntad de mi Padre que está en los cielos. No creo que pueda sucederme ningún daño real; no creo que la obra de mi vida pueda ser puesta en peligro realmente por cualquier cosa que mis enemigos pudieran desear hacerme, y es seguro que no tenemos que temer ninguna violencia por parte de nuestros amigos. Estoy absolutamente convencido de que el universo entero es amistoso conmigo —insisto en creer en esta verdad todopoderosa con una confianza total, a pesar de todas las apariencias en contra”. ([UB 133:1.4](/es/El_Libro_de_Urantia/133#p1_4))
+Jesús dijo: «Tengo una confianza absoluta en la protección de mi Padre celestial. Estoy consagrado a hacer la voluntad de mi Padre que está en los cielos. No creo que pueda sucederme ningún daño real; no creo que la obra de mi vida pueda ser puesta en peligro realmente por cualquier cosa que mis enemigos pudieran desear hacerme, y es seguro que no tenemos que temer ninguna violencia por parte de nuestros amigos. Estoy absolutamente convencido de que el universo entero es amistoso conmigo —insisto en creer en esta verdad todopoderosa con una confianza total, a pesar de todas las apariencias en contra». ([LU 133:1.4](/es/The_Urantia_Book/133#p1_4))
 
 ## Enlaces externos
 
