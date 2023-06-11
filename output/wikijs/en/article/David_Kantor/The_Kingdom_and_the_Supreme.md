@@ -3,7 +3,7 @@ title: "The Kingdom and the Supreme – Insights for Simplifying Comprehension o
 description: 
 published: true
 date: 2023-02-13T14:02:03.086Z
-tags: 
+tags: The Supreme, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-13T14:02:03.086Z
 ---

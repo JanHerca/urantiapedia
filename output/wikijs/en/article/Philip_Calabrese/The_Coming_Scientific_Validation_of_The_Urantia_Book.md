@@ -3,7 +3,7 @@ title: "The Coming Scientific Validation of The Urantia Book"
 description: 
 published: true
 date: 2023-02-13T14:02:03.086Z
-tags: 
+tags: Science, The Urantia Book, The Urantia Book—Errors, Revelation, Geology, Biology, Astronomy, Cosmology, Physics, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-13T14:02:03.086Z
 ---

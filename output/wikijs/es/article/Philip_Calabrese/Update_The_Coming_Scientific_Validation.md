@@ -3,7 +3,7 @@ title: "Actualización del año 2006 sobre la próxima validación científica d
 description: 
 published: true
 date: 2023-02-13T14:02:03.086Z
-tags: 
+tags: Science, The Urantia Book, The Urantia Book—Errors, Geology, Astronomy, Cosmology, Physics, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-13T14:02:03.086Z
 ---

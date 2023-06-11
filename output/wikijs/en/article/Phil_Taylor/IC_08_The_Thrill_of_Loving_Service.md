@@ -3,7 +3,7 @@ title: "IC 08—The Thrill of Loving Service"
 description: 
 published: true
 date: 2023-02-13T14:02:03.086Z
-tags: 
+tags: Service, Service Opportunities, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-13T14:02:03.086Z
 ---
