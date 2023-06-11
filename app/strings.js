@@ -1151,6 +1151,10 @@ const Strings = {
 		sv: "”",
 		tr: "”"
 	},
+	"articlesSource": {
+		en: "Source",
+		es: "Fuente"
+	},
 	"lblLanguage": {
 		en: "Urantiapedia Language:",
 		es: "Idioma de la Urantiapedia:"
@@ -1658,6 +1662,14 @@ const Strings = {
 	"article_bad_title": {
 		en: "Article title is not correct",
 		es: "El título del artículo no es correcto"
+	},
+	"article_index_no_lines": {
+		en: "Article index has no lines",
+		es: "Índice de artículos sin líneas"
+	},
+	"article_index_missing_data": {
+		en: "Article index missing data in line {0}",
+		es: "Índice de artículos requiere datos en línea {0}"
 	},
 	"folder_no_access": {
 		en: "Folder {0} is not accessible",

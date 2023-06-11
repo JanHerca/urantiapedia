@@ -929,10 +929,19 @@ const handle_exeButtonClick = () => {
 	} else if (process === 'ARTICLE_INDEX_TO_WIKIJS') {
 		// Reads Articles Index File (TSV)
 		// Writes in Wiki.js
-		articles.readIndexFileFromTXT(txtFile)
-			.then(() => articles.writeIndexFileToWikijs(htmlFile))
-			.then(() => onSuccess(okMsgs))
-			.catch(onFail);
+		if (lan === 'en') {
+			articles.readIndexFileFromTSV(txtFile)
+				.then(() => articles.writeIndexFileToWikijs(htmlFile))
+				.then(() => onSuccess(okMsgs))
+				.catch(onFail);
+		} else {
+			const txtFileEN = txtFile.replace('articles-' + lan, 'articles-en');
+			articles.readIndexFileFromTSV(txtFileEN)
+				.then(() => articles.readIndexFileFromTSV(txtFile))
+				.then(() => articles.writeIndexFileToWikijs(htmlFile))
+				.then(() => onSuccess(okMsgs))
+				.catch(onFail);
+		}
 	} else if (process === 'ALL_INDEXES') {
 		// Creates a page of all indexes
 		getListOfAllIndexes(htmlDir)

@@ -1,5 +1,6 @@
 //https://studybible.info/version/
 //https://www.wordproject.org/
+//https://quod.lib.umich.edu/k/kjv/browse.html
 //http://www.viceregency.com/Abbrev.htm
 //https://www.jjs-online.net/pdfs/SBL-Abbrev.pdf
 //English (biblical & extrabiblical): https://www.biblija.net/help.es/abbrevs.es.php
@@ -507,7 +508,9 @@ const BibleAbbreviations = {
 		'Tb': ['Tobit', '/Bible/Tobit', 'APO'],
 		'Jdt': ['Judith', '/Bible/Judith', 'APO'],
 		'1 Enoch': ['Book of Enoch', '/Bible/Book_of_Enoch', 'APO'],
-		'As. Mos.': ['Assumption of Moses', '/Bible/Assumption_of_Moses', 'APO']
+		'As. Mos.': ['Assumption of Moses', '/Bible/Assumption_of_Moses', 'APO'],
+		'1 Esdras': ['1 Esdras', '/Bible/1_Esdras', 'APO'],
+		'2 Esdras': ['2 Esdras', '/Bible/2_Esdras', 'APO']
 	},
 	es: {
 		'Gn': ['Génesis', '/es/Bible/Genesis', 'OT'],

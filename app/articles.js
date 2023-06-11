@@ -21,10 +21,13 @@ class Articles {
 	onProgressFn = null;
 	index = {
 		title: null,
+		link: null,
+		sourceText: "Source: ",
 		tags: [],
 		issues: [],
 		volumes: []
 	};
+	items = [];
 
 	createIndexFn = pug.compileFile(path.join(app.getAppPath(), 'app', 'templates', 'articleindex.pug'), {pretty: true});
 
@@ -69,9 +72,11 @@ class Articles {
 	 */
 	clearIndex = () => {
 		this.index.title = null;
+		this.index.link = null;
 		this.index.tags.length = 0;
 		this.index.issues.length = 0;
 		this.index.volumes.length = 0;
+		this.items.length = 0;
 	};
 
 	//***********************************************************************
@@ -138,7 +143,7 @@ class Articles {
 	 * @param {string} filePath Input TSV file (a TXT file with tabs).
 	 * @return {Promise}
 	 */
-	readIndexFileFromTXT = (filePath) => {
+	readIndexFileFromTSV = (filePath) => {
 		const baseName = path.basename(filePath);
 		return new Promise((resolve, reject) => {
 			if (this.onProgressFn) {
@@ -146,54 +151,109 @@ class Articles {
 			}
 
 			fs.readFile(filePath, (errFile, buf) => {
+				const lan = this.language;
 				if (errFile) {
 					reject([errFile]);
 					return;
 				}
 				const lines = buf.toString().split('\n');
-				this.clearIndex();
+				if (lines.length === 0) {
+					reject([this.getError('article_index_no_lines')]);
+					return;
+				}
+				if (filePath.indexOf('articles-en') != -1) {
+					this.clearIndex();
+				}
 				let currentVolume = null;
 				let currentIssue = null;
-				lines.forEach(line => {
-					const [title, path, author, tags] = line.trim().split('\t');
-					const author2 = (author != '' ? 
-						author.replace(/\./g, '').replace(/ |-/g, '_') : '');
-					const authorLink = (author ? 
-						`/${this.language}/article/${author2}` : '');
-					if (title && tags && author === 'is-title') {
-						this.index.title = title;
-						this.index.tags = tags ? tags.split(',')
-							.map(t => t.trim().toLowerCase()) : [];
-					} else if (title && this.index.title && 
-						author === 'is-volume') {
-						currentVolume = {
-							title: title,
-							issues: []
-						};
-						this.index.volumes.push(currentVolume);
-					} else if (title && this.index.title && 
-						author === 'is-issue') {
-						currentIssue = {
-							title: title,
-							imagePath: path ? path : '',
-							articles: []
-						};
-						if (currentVolume) {
-							currentVolume.issues.push(currentIssue);
-						} else {
-							this.index.issues.push(currentIssue);
-						}
-					} else if (currentIssue && title && path) {
-						currentIssue.articles.push({
-							title: title,
-							path: path,
-							author: author ? author : '',
-							authorLink: authorLink,
-							tags: tags ? tags.split(',')
-								.map(t => t.trim().toLowerCase()) : []
-						});
-					}
+				let currentArticle = null;
+				const len = lines[0].trim().split('\t').length;
+				if (len != 2 && len != 4) {
+					reject([this.getError('article_index_missing_data', 1)]);
+					return;
+				}
+				const errIndex = lines.findIndex(line => {
+					return (line.trim().split('\t').length != len);
 				});
+				if (errIndex != -1) {
+					reject([this.getError('article_index_missing_data', 
+						errIndex + 1)]);
+					return;
+				}
+				if (len === 2) {
+					lines.forEach((line, i) => {
+						const [title, translation] =
+							line.trim().split('\t');
+						if (i === 0) {
+							this.index.title = translation;
+						} else {
+							const item = this.items.find(t => t.line === i);
+							if (item) {
+								item.title = translation;
+							}
+							if (item.path) {
+								item.path = 
+									item.path.replace('/en/', `/${lan}/`);
+							}
+							if (item.authorLink) {
+								item.authorLink =
+									item.authorLink.replace('/en/', `/${lan}/`);
+							}
+						}
+					});
+				} else {
+					lines.forEach((line, i) => {
+						const [title, path, author, tags] = 
+							line.trim().split('\t');
+						const author2 = (author != '' && 
+							!author.startsWith('-') ? 
+							author.replace(/\./g, '')
+							.replace(/ |-/g, '_') : '');
+						const authorLink = (author ? 
+							`/${lan}/article/${author2}` : '');
+						if (author === 'is-title') {
+							this.index.title = title;
+							this.index.link = path;
+							this.index.tags = ['Index', 'Article', tags];
+							this.index.sourceText = 
+								Strings.articlesSource[lan] + ': ';
+						} else if (this.index.title && author === 'is-volume') {
+							currentVolume = {
+								title: title,
+								line: i,
+								issues: []
+							};
+							this.index.volumes.push(currentVolume);
+							this.items.push(currentVolume);
+						} else if (this.index.title && author === 'is-issue') {
+							currentIssue = {
+								title: title,
+								line: i,
+								imagePath: path ? path : '',
+								articles: []
+							};
+							if (currentVolume) {
+								currentVolume.issues.push(currentIssue);
+							} else {
+								this.index.issues.push(currentIssue);
+							}
+							this.items.push(currentIssue);
+						} else if (currentIssue && title && path) {
+							currentArticle = {
+								title: title,
+								line: i,
+								path: path,
+								author: (author != '' && 
+									!author.startsWith('-') ? author : ''),
+								authorLink: authorLink,
+								tags: tags ? tags.split(',')
+									.map(t => t.trim().toLowerCase()) : []
+							};
+							currentIssue.articles.push(currentArticle);
+							this.items.push(currentArticle);
+						}
+					});
+				}
 				resolve(null);
 			});
 		});

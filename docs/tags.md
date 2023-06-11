@@ -183,6 +183,7 @@ Morality
 Music
 Mystery Monitors
 Mysticism
+Mithology
 Nebadon
 Order
 Paleontology

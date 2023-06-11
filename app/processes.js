@@ -387,12 +387,12 @@ const Processes = {
 	"ARTICLE_INDEX_TO_WIKIJS": {
 		active: true,
 		desc: {
-			en: "ARTICLES: Convert a Articles Index File (TXT) to Wiki.js",
-			es: "ARTICULOS: Convertir un Indice de Artículos (TXT) a Wiki.js"
+			en: "ARTICLES: Convert a Articles Index File (TSV) to Wiki.js",
+			es: "ARTICULOS: Convertir un Indice de Artículos (TSV) a Wiki.js"
 		},
 		controls: ['fnTTextbox', 'fnHTextbox'],
-		paths: [['input', 'txt', 'articles-{0}', 'study_aids.txt'],
-				['output', 'wikijs', '{0}', 'index', 'study_aids.html']]
+		paths: [['input', 'txt', 'articles-{0}', 'articles_innerface.tsv'],
+				['output', 'wikijs', '{0}', 'index', 'articles_innerface.html']]
 	},
 	"ALL_INDEXES": {
 		active: true,

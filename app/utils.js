@@ -774,7 +774,7 @@ exports.getWikijsBookLink = (paper, language, isMultiple, isPrev) => {
 		html += (
 			`        <a href="${path}/${indexNameEN}">\r\n` +
 			`          <span class="mdi mdi-book-open-variant"></span>` +
-				`<span class="pl-2">${indexName}</sp<n>\r\n` +
+				`<span class="pl-2">${indexName}</span>\r\n` +
 			`        </a>\r\n`
 		);
 		if (language != 'en') {

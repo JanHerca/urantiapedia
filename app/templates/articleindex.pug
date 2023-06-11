@@ -5,6 +5,9 @@
 	var classes2 = ['v-icon', 'notranslate', 'v-icon--left', 'mdi', 'mdi-tag',
 	'theme--light', 'teal--text']
 
+p= sourceText
+	a(href=link)= link
+
 if volumes.length > 0
 	each volume in volumes
 		h2= volume.title
@@ -28,6 +31,20 @@ if volumes.length > 0
 										span.v-chip__content
 											i(aria-hidden="true" class=classes2 style="font-size: 16px;")
 											span(class="teal--text text--darken-2")= tag
+			if issue.articles.length == 1
+				each val in [1,2,3]
+					br
+					br
+					br
+			else if issue.articles.length == 2
+				each val in [1,2]
+					br
+					br
+					br
+			else if issue.articles.length == 3
+				br
+				br
+				br
 			br
 		br
 else if issues.length > 0
@@ -51,4 +68,18 @@ else if issues.length > 0
 									span.v-chip__content
 										i(aria-hidden="true" class=classes2 style="font-size: 16px;")
 										span(class="teal--text text--darken-2")= tag
+		if issue.articles.length == 1
+			each val in [1,2,3]
+				br
+				br
+				br
+		else if issue.articles.length == 2
+			each val in [1,2]
+				br
+				br
+				br
+		else if issue.articles.length == 3
+			br
+			br
+			br
 		br
