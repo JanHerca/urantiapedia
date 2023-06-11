@@ -3,7 +3,7 @@ title: "Thoughts About The Future Of Our Urantia Community"
 description: 
 published: true
 date: 2023-02-09T14:02:03.086Z
-tags: 
+tags: History of Urantia Movement, Future, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-09T14:02:03.086Z
 ---

@@ -3,7 +3,7 @@ title: "A Demystification and Redefinition of Cult"
 description: 
 published: true
 date: 2023-02-07T14:02:03.086Z
-tags: 
+tags: Religion, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-07T14:02:03.086Z
 ---
@@ -142,9 +142,9 @@ The drive toward melding one's personality with God arrives early and naturally 
 
 > Fear, joined with ignorance of natural phenomena, is about to give [gives] birth to primitive religion. [[UB 62:5.4](/en/The_Urantia_Book/62#p5_4)]
 
-> Early religion was [is] wholly intellectual in nature and was [is] entirely predicated on associational circumstances. The objects of worship were [are] altogether suggestive; they consisted [consist] of the things of nature which were [are] close at hand, or which loomed [loom' large in the commonplace experience of the simple-minded primitive...[man]. [[UB 85:0.2](/en/The_Urantia_Book/85#p0_2)]
+> Early religion was [is] wholly intellectual in nature and was [is] entirely predicated on associational circumstances. The objects of worship were [are] altogether suggestive; they consisted [consist] of the things of nature which were [are] close at hand, or which loomed [loom] large in the commonplace experience of the simple-minded primitive...[man]. [[UB 85:0.2](/en/The_Urantia_Book/85#p0_2)]
 
-> Man's earliest prereligious fear of the forces of nature gradually became [becomes] religious as nature became [becomes' personalized, spiritized, and eventually deified in human consciousness. Religion of a primitive type was [is] therefore a natural biologic consequence of the psychologic inertia of evolving animal minds after such minds had once entertained tentertaini concepts of the supernatural. [[UB 86:0.2](/en/The_Urantia_Book/86#p0_2)]
+> Man's earliest prereligious fear of the forces of nature gradually became [becomes] religious as nature became [becomes] personalized, spiritized, and eventually deified in human consciousness. Religion of a primitive type was [is] therefore a natural biologic consequence of the psychologic inertia of evolving animal minds after such minds had once entertained tentertaini concepts of the supernatural. [[UB 86:0.2](/en/The_Urantia_Book/86#p0_2)]
 
 > Aside from the natural worship urge, early evolutionary, religion had [has] its roots of origin in the human experiences of chance—so-called luck, commonplace happenings. . . and this gives certain origin to those experiences which man interprets as _good luck_ and _bad luck_. Mischance was [is] a great factor in the lives of men and women who lived [live] constantly on the ragged edge of a precarious and harassed existence. [[UB 86:1.1](/en/The_Urantia_Book/86#p1_1)]
 

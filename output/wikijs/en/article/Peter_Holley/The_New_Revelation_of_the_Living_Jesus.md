@@ -3,7 +3,7 @@ title: "The New Revelation of the Living Jesus"
 description: "(“...an enhanced demonstration of righteousness”)"
 published: true
 date: 2023-02-09T14:02:03.086Z
-tags: 
+tags: The Urantia Book, The Urantia Book—Purpose, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-09T14:02:03.086Z
 ---

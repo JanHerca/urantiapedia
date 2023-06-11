@@ -3,7 +3,7 @@ title: "The Golden Rule in Business"
 description: 
 published: true
 date: 2023-02-08T14:02:03.086Z
-tags: 
+tags: Love and the Golden Rule, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-08T14:02:03.086Z
 ---

@@ -3,7 +3,7 @@ title: "Journey to India"
 description: "The Legacy of the Sethite Teachers"
 published: true
 date: 2023-02-09T14:02:03.086Z
-tags: 
+tags: Religion, Mithology, Archaeology, Hinduism, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-09T14:02:03.086Z
 ---

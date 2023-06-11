@@ -3,7 +3,7 @@ title: "On Removing The Barrier To A Civilized Discussion Of Eugenics"
 description: 
 published: true
 date: 2023-02-09T14:02:03.086Z
-tags: 
+tags: Eugenics, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-09T14:02:03.086Z
 ---

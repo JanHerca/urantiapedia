@@ -3,7 +3,7 @@ title: "El surgimiento de la tecnología espiritual"
 description: 
 published: true
 date: 2023-02-08T14:02:03.086Z
-tags: 
+tags: The Urantia Book, Fruits of the Spirit, Meditation, Worship, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-08T14:02:03.086Z
 ---
@@ -14,7 +14,7 @@ Presentado por primera vez en 2003 como un taller en la sesión de estudio de ve
 
 ## ¿Qué son los Frutos del Espíritu?
 
-> ... porque los frutos del espíritu son el amor, la alegría, la paz, la paciencia, la amabilidad, la bondad, la fe, la mansedumbre y la templanza. ... [[LU 34:6.13](/es/The_Urantia_Book/34#p6_13)
+> ... porque los frutos del espíritu son el amor, la alegría, la paz, la paciencia, la amabilidad, la bondad, la fe, la mansedumbre y la templanza. ... [[LU 34:6.13](/es/The_Urantia_Book/34#p6_13)]
 
 > ... Y los frutos del espíritu divino, producidos en la vida de los mortales nacidos del espíritu y que conocen a Dios, son: servicio amoroso, consagración desinteresada, lealtad valiente, equidad sincera, honradez iluminada, esperanza imperecedera, confianza fiel, ministerio misericordioso, bondad inagotable, tolerancia indulgente y paz duradera .... [[LU 193:2.2](/es/The_Urantia_Book/193#p2_2)]
 

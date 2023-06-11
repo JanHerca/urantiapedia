@@ -3,7 +3,7 @@ title: "La ciencia no puede reemplazar a la religión"
 description: 
 published: true
 date: 2023-02-09T14:02:03.086Z
-tags: 
+tags: Science, Religion, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-09T14:02:03.086Z
 ---

@@ -3,7 +3,7 @@ title: "The Next Fifty Years"
 description: "Dissemination Of The Urantia Book And Its Teachings"
 published: true
 date: 2023-02-09T14:02:03.086Z
-tags: 
+tags: History of Urantia Movement, Future, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-09T14:02:03.086Z
 ---

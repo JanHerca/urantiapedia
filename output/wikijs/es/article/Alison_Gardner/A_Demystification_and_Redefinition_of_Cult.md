@@ -3,7 +3,7 @@ title: "Una desmitificación y redefinición del culto"
 description: 
 published: true
 date: 2023-02-07T14:02:03.086Z
-tags: 
+tags: Religion, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-07T14:02:03.086Z
 ---
@@ -142,9 +142,9 @@ El impulso hacia la fusión de la personalidad de uno con Dios llega temprano y 
 
 > El miedo, unido a la ignorancia de los fenómenos naturales, está a punto de dar nacimiento a la religión primitiva. [[LU 62:5.4](/es/The_Urantia_Book/62#p5_4)]
 
-> La religión primitiva era [es] totalmente de naturaleza intelectual y se basaba enteramente en circunstancias asociativas. Los objetos de adoración eran [son] totalmente sugerentes; consistían [consistían] en las cosas de la naturaleza que estaban [están] al alcance de la mano, o que asomaban [aparecen' grandes en la experiencia común del primitivo de mente simple... [el hombre]. [[LU 85:0.2](/es/The_Urantia_Book/85#p0_2)]
+> La religión primitiva era [es] totalmente de naturaleza intelectual y se basaba enteramente en circunstancias asociativas. Los objetos de adoración eran [son] totalmente sugerentes; consistían [consistían] en las cosas de la naturaleza que estaban [están] al alcance de la mano, o que asomaban [aparecen] grandes en la experiencia común del primitivo de mente simple... [el hombre]. [[LU 85:0.2](/es/The_Urantia_Book/85#p0_2)]
 
-> El temor prerreligioso más temprano del hombre a las fuerzas de la naturaleza gradualmente se volvió [se vuelve] religioso a medida que la naturaleza se vuelve [se vuelve' personalizada, espiritizada y eventualmente deificada en la conciencia humana. La religión de tipo primitivo era [es], por lo tanto, una consecuencia biológica natural de la inercia psicológica de las mentes animales en evolución después de que tales mentes habían entretenido una vez los conceptos de lo sobrenatural. [[LU 86:0.2](/es/The_Urantia_Book/86#p0_2)]
+> El temor prerreligioso más temprano del hombre a las fuerzas de la naturaleza gradualmente se volvió [se vuelve] religioso a medida que la naturaleza se vuelve [se vuelve] personalizada, espiritizada y eventualmente deificada en la conciencia humana. La religión de tipo primitivo era [es], por lo tanto, una consecuencia biológica natural de la inercia psicológica de las mentes animales en evolución después de que tales mentes habían entretenido una vez los conceptos de lo sobrenatural. [[LU 86:0.2](/es/The_Urantia_Book/86#p0_2)]
 
 > Aparte del impulso de adoración natural, la religión evolutiva temprana tenía [tiene] sus raíces de origen en las experiencias humanas del azar: la llamada suerte, sucesos comunes... y esto da cierto origen a aquellas experiencias que el hombre interpreta como _buena suerte_ y _mala suerte_. La desgracia fue [es] un gran factor en la vida de hombres y mujeres que vivían [viven] constantemente al borde de una existencia precaria y agobiada. [[LU 86:1.1](/es/The_Urantia_Book/86#p1_1)]
 

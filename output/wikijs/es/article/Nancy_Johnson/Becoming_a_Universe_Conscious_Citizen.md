@@ -3,7 +3,7 @@ title: "Desafío de los próximos cincuenta años..."
 description: "Convertirse en un ciudadano consciente del universo—Parte 1"
 published: true
 date: 2023-02-09T14:02:03.086Z
-tags: 
+tags: Cosmic consciousness, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-09T14:02:03.086Z
 ---

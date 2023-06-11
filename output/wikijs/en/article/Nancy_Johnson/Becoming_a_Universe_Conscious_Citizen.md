@@ -3,7 +3,7 @@ title: "Challenge Of The Next Fifty Years..."
 description: "Becoming A Universe-Conscious Citizen—Part 1"
 published: true
 date: 2023-02-09T14:02:03.086Z
-tags: 
+tags: Cosmic consciousness, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-09T14:02:03.086Z
 ---

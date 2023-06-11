@@ -3,7 +3,7 @@ title: "The Rise of Spiritual Technology"
 description: 
 published: true
 date: 2023-02-08T14:02:03.086Z
-tags: 
+tags: The Urantia Book, Fruits of the Spirit, Meditation, Worship, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-08T14:02:03.086Z
 ---
@@ -14,7 +14,7 @@ At first presented in 2003 as a workshop at _The Urantia Book_ Fellowship Summer
 
 ## What are the Fruits of the Spirit?
 
-> ... for the fruits of the spirit are love, joy, peace, long-suffering, gentleness, goodness, faith, meekness, and temperance. . . . [[UB 34:6.13](/en/The_Urantia_Book/34#p6_13)
+> ... for the fruits of the spirit are love, joy, peace, long-suffering, gentleness, goodness, faith, meekness, and temperance. . . . [[UB 34:6.13](/en/The_Urantia_Book/34#p6_13)]
 
 > . . . And the fruits of the divine spirit which are yielded in the lives of spirit-born and God-knowing mortals are: loving service, unselfish devotion, courageous loyalty, sincere fairness, enlightened honesty, undying hope, confiding trust, merciful ministry, unfailing goodness, forgiving tolerance, and enduring peace. . . . [[UB 193:2.2](/en/The_Urantia_Book/193#p2_2)]
 

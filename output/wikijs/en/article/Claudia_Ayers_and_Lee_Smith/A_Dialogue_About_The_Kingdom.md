@@ -3,7 +3,7 @@ title: "A Dialogue about “The Kingdom of Heaven”"
 description: 
 published: true
 date: 2023-02-08T14:02:03.086Z
-tags: 
+tags: Jesus teachings, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-08T14:02:03.086Z
 ---

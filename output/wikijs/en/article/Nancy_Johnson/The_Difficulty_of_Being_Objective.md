@@ -3,7 +3,7 @@ title: "The Difficulty of Being Objective"
 description: 
 published: true
 date: 2023-02-08T14:02:03.086Z
-tags: 
+tags: God, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-08T14:02:03.086Z
 ---

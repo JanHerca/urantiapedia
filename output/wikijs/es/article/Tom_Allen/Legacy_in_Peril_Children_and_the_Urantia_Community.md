@@ -3,7 +3,7 @@ title: "Legado en peligro"
 description: "Los niños y la comunidad Urantia"
 published: true
 date: 2023-02-09T14:02:03.086Z
-tags: 
+tags: Children, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-09T14:02:03.086Z
 ---

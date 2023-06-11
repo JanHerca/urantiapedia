@@ -3,7 +3,7 @@ title: "Closed Circle or Open Book?"
 description: 
 published: true
 date: 2023-02-08T14:02:03.086Z
-tags: 
+tags: The Urantia Book, Jesus teachings, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-08T14:02:03.086Z
 ---
@@ -16,7 +16,7 @@ The shape of a mustard seed is like an oblong or a tiny spheroid. It is an enclo
 
 For over 2,000 years opinions historical and theological, cultural and political, have battled for authority concerning the person of Jesus of Nazareth. The traditions and superstitions, the powerful miraculous attributions about this most intriguing person have preoccupied millions. Theological opinion concerning this one human being ranges from God incarnate to elaborate hoax. At the outset of the third millennium since his lifetime Jesus, as the risen Christ, has become an object of intense scholarly debate and research, while for many he is the focus of fanatical devotion.
 
-During the anal century of the second millennium after Jesus' birth, a new compilation and restatement of the teachings of Jesus came into existence as part of a new revelation, of cosmic scope with epochal significance, titled _The Urantia Book_.
+During the final century of the second millennium after Jesus' birth, a new compilation and restatement of the teachings of Jesus came into existence as part of a new revelation, of cosmic scope with epochal significance, titled _The Urantia Book_.
 
 Suddenly, the universe made contact with mortals, between the First and Second World Wars. In the pages of this unusual book, the person of Jesus took on a vastly altered significance, and became associated with real universe power and authority, yet oddly free of human religious entanglements.
 

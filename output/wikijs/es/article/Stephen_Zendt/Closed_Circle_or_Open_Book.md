@@ -3,7 +3,7 @@ title: "¿Círculo cerrado o libro abierto?"
 description: 
 published: true
 date: 2023-02-08T14:02:03.086Z
-tags: 
+tags: The Urantia Book, Jesus teachings, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-08T14:02:03.086Z
 ---
@@ -16,7 +16,7 @@ La forma de una semilla de mostaza es como un oblongo o un pequeño esferoide. E
 
 Durante más de 2.000 años, opiniones históricas y teológicas, culturales y políticas, se han disputado la autoridad sobre la persona de Jesús de Nazaret. Las tradiciones y supersticiones, las poderosas atribuciones milagrosas sobre esta persona tan intrigante han preocupado a millones. La opinión teológica con respecto a este ser humano va desde Dios encarnado hasta un elaborado engaño. Al comienzo del tercer milenio desde su vida, Jesús, como el Cristo resucitado, se ha convertido en un objeto de intenso debate e investigación académica, mientras que para muchos es el foco de una devoción fanática.
 
-Durante el siglo anal del segundo milenio después del nacimiento de Jesús, surgió una nueva compilación y reafirmación de las enseñanzas de Jesús como parte de una nueva revelación, de alcance cósmico con trascendencia histórica, titulada _El Libro de Urantia_.
+Durante el último siglo del segundo milenio después del nacimiento de Jesús, surgió una nueva compilación y reafirmación de las enseñanzas de Jesús como parte de una nueva revelación, de alcance cósmico con trascendencia histórica, titulada _El Libro de Urantia_.
 
 De repente, el universo hizo contacto con los mortales, entre la Primera y la Segunda Guerra Mundial. En las páginas de este libro inusual, la persona de Jesús asumió un significado muy diferente y se asoció con el poder y la autoridad del universo real, pero extrañamente libre de enredos religiosos humanos.
 
