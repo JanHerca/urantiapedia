@@ -3,7 +3,7 @@ title: "Ethical Eugenics: A Modest Proposal For The 21st Century"
 description: 
 published: true
 date: 2023-02-06T14:02:03.086Z
-tags: 
+tags: Eugenics, Ethics, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-06T14:02:03.086Z
 ---

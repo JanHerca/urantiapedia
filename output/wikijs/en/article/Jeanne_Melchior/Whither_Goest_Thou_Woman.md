@@ -3,7 +3,7 @@ title: "Whither goes thou, woman?"
 description: "Exploring gender bias in The Urantia Book"
 published: true
 date: 2023-01-25T11:16:41.388Z
-tags:
+tags: Gender, Family, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-01-25T11:12:37.284Z
 ---

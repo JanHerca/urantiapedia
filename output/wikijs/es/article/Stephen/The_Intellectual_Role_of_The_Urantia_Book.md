@@ -3,7 +3,7 @@ title: "El papel intelectual de «El Libro de Urantia»"
 description: 
 published: true
 date: 2023-02-06T14:02:03.086Z
-tags: 
+tags: The Urantia Book, The Urantia Book—Purpose, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-06T14:02:03.086Z
 ---

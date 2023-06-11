@@ -3,7 +3,7 @@ title: "The Ethics of Genetic Control and Social Engineering"
 description: 
 published: true
 date: 2023-02-06T14:02:03.086Z
-tags: 
+tags: Ethics, Eugenics, Sociology, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-06T14:02:03.086Z
 ---

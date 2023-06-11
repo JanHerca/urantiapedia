@@ -3,7 +3,7 @@ title: "48 Chromosomes —Are We Asking the Right Questions?"
 description: 
 published: true
 date: 2023-01-25T11:16:41.388Z
-tags:
+tags: Genetics, Science, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-01-25T11:12:37.284Z
 ---

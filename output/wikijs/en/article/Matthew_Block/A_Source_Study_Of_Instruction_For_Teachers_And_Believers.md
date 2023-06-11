@@ -3,7 +3,7 @@ title: "A Source Study Of “Instruction For Teachers And Believers”"
 description: "Paper 159 of The Urantia Book"
 published: true
 date: 2023-02-06T14:02:03.086Z
-tags: 
+tags: The Urantia Book, The Urantia Book—Authorship, Source authors, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-06T14:02:03.086Z
 ---

@@ -3,7 +3,7 @@ title: "“I Will Tell Them A Story”"
 description: 
 published: true
 date: 2023-02-06T14:02:03.086Z
-tags: 
+tags: Jesus teachings, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-06T14:02:03.086Z
 ---

@@ -3,7 +3,7 @@ title: "Predicciones científicas de El Libro de Urantia - Parte II"
 description: 
 published: true
 date: 2023-02-06T14:02:03.086Z
-tags: 
+tags: Science, Geology, Cosmology, Genetics, Physics, Anthropology, Biology, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-06T14:02:03.086Z
 ---

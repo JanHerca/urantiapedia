@@ -3,7 +3,7 @@ title: "The Concepts of Trust and Hope in The Urantia Book"
 description: 
 published: true
 date: 2023-01-25T11:16:41.388Z
-tags:
+tags: Jesus teachings, The Urantia Book, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-01-25T11:12:37.284Z
 ---

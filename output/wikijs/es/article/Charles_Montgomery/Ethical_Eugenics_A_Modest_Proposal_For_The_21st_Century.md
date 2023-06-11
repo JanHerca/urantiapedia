@@ -3,7 +3,7 @@ title: "Eugenesia ética: una modesta propuesta para el siglo XXI"
 description: 
 published: true
 date: 2023-02-06T14:02:03.086Z
-tags: 
+tags: Eugenics, Ethics, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-06T14:02:03.086Z
 ---

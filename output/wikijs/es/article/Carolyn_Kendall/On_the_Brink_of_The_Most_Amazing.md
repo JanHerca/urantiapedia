@@ -3,7 +3,7 @@ title: "Al borde de la época más asombrosa y apasionante"
 description: 
 published: true
 date: 2023-01-25T11:16:41.388Z
-tags:
+tags: Future, The Urantia Book, The Urantia Book—History, The Publication Mandate, History of Urantia Movement, Study Groups, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-01-25T11:12:37.284Z
 ---
@@ -19,7 +19,7 @@ A medida que se acerca el cambio de milenio, la perspectiva de una nueva era de 
 
 Han pasado unos 72 años desde que se iniciaron los Documentos de Urantia, 63 años desde que se completaron y 43 años desde que se publicó el libro.
 
-En abril de 1955, William S. Sadler, Jr. presentó al Foro un documento que había preparado para guiar el trabajo de la Hermandad Urantia recientemente establecida. Se basó en material que él y ellos creían que eran advertencias del revelador sobre el momento de la revelación, la preparación futura del mundo para ella y lo que los creyentes debían hacer mientras tanto. Las supuestas instrucciones fueron reformuladas para parecer haber sido escritas por Sadler y «ciertos miembros del Consejo General» para la edificación de los futuros líderes. Sin embargo, la elocuencia de la pieza solo es superada por los elevados pasajes del libro mismo; y traiciona un origen distinto al humano.
+En abril de 1955, William S. Sadler, Jr. presentó al Foro un documento que había preparado para guiar el trabajo de la Hermandad Urantia recientemente establecida. Se basó en material que él y ellos creían que eran advertencias de los reveladores sobre el momento de la revelación, la preparación futura del mundo para ella y lo que los creyentes debían hacer mientras tanto. Las supuestas instrucciones fueron reformuladas para parecer haber sido escritas por Sadler y «ciertos miembros del Consejo General» para la edificación de los futuros líderes. Sin embargo, la elocuencia de la pieza solo es superada por los elevados pasajes del libro mismo; y traiciona un origen distinto al humano.
 
 El artículo de Bill Sadler destacó la propensión de los reveladores a llegar mucho antes de la preparación del mundo para la aceptación masiva, y escribió: «El libro pertenece a la era inmediatamente posterior a la conclusión de la lucha ideológica actual. Ese será el día en que los hombres estarán dispuestos a buscar la verdad y la justicia». ... «un tiempo en el que será más fácil formular el cosmos de una nueva y mejorada era de relaciones humanas. Y es para este *mejor* orden de cosas en la tierra que el libro ha sido preparado». Cada revelación del pasado llegó en el momento óptimo, *vis a vis*, la estimación de la evolución futura del planeta.
 

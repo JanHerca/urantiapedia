@@ -3,7 +3,7 @@ title: "Show Us a Miracle!"
 description: 
 published: true
 date: 2023-02-06T14:02:03.086Z
-tags: 
+tags: The Urantia Book, Mithology, Civilizations past, Epochal Revelations, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-06T14:02:03.086Z
 ---
@@ -16,7 +16,7 @@ We know that Jesus did not wish to resort to miracles as a way of procuring fait
 
 From the very First Epochal Revelation, being the arrival of Caligastia, we can see the development of this trend. The staff of 100 was not only extraordinary to look at, but they also lived perpetually for hundreds of thousands of years, never aging a day. From their head-quarters in Dalamatia, they taught humanity the art of civilization and provided tools that were nothing short of miracles for that day and age. Would the natives have listened to the new and bizarre teachings of this small group if they had not displayed some wonder? Not likely.
 
-The Second Epochal Revelation was no less intrigu-ing, as Adam and Eve were even more wondrous to be-hold. Radiating a violet hue and standing eight feet tall, they were striking in appearance. Clearly, the celestial overseers were not hesitant to manifest the supernatural nature of this dynamic couple, as their earthly career began with a public materialization directly in the center of Eden. From this first amazing phenomenon, witnessed by the “mighty throng” of people who were in the temple, to the later creation of agricultural tools, medicines and foods, there was little associated with the Adatnic mission that was not e_xtraordinary. Would the people of that day have listened to Adam and Eve's description of a heavenly Father if the couple had not performed incredible feats? Not likely.
+The Second Epochal Revelation was no less intrigu-ing, as Adam and Eve were even more wondrous to be-hold. Radiating a violet hue and standing eight feet tall, they were striking in appearance. Clearly, the celestial overseers were not hesitant to manifest the supernatural nature of this dynamic couple, as their earthly career began with a public materialization directly in the center of Eden. From this first amazing phenomenon, witnessed by the “mighty throng” of people who were in the temple, to the later creation of agricultural tools, medicines and foods, there was little associated with the Adamic mission that was not extraordinary. Would the people of that day have listened to Adam and Eve's description of a heavenly Father if the couple had not performed incredible feats? Not likely.
 
 Melchizedek's arrival as the Third Epochal Revelation was certainly more low-key, as it was an unusual emergency mission, but he was hardly an ordinary man. An outstanding teacher and organizer, in a short time he became the King of Salem and the light of the world. What did his students think as they aged and grew old while their king lived on generation after generation, never aging a day? How much stronger of an impression did he make on the races because of his outrageous and death-defying nature? Would the people of that day have deified this mighty celestial, had he not shown himself to be extraordinary? Not likely.
 
@@ -60,7 +60,7 @@ As for this reader, after an exhaustive research into the spiritual, historical,
 
 I have seen a miracle!
 
-> Born in Tehran, Iran, in 1966, Behzad Sarmast came to the US with his family, shortly before Iran was taken over by the Islamic Fundamentalists. He discovered _The Urantia Book_ in his early 20's, and began researching Biblical and world myth• oo in relation to the hooks historical accounts. His book regarding his findings, _Garden of the Gods: The Lost History of Eden In World Mythology & The Discovery of Atlantis_ is soon to be published. Behzad and his finance, Marielte reside in Berkeley, CA.
+> Born in Tehran, Iran, in 1966, Behzad Sarmast came to the US with his family, shortly before Iran was taken over by the Islamic Fundamentalists. He discovered _The Urantia Book_ in his early 20's, and began researching Biblical and world myth• oo in relation to the hooks historical accounts. His book regarding his findings, _Garden of the Gods: The Lost History of Eden In World Mythology & The Discovery of Atlantis_ is soon to be published. Behzad and his fiancee, Marielte reside in Berkeley, CA.
 {.is-info}
 
 ## References
