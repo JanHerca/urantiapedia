@@ -3,8 +3,8 @@ title: "El contenido espiritual de los Documentos de Urantia II"
 description: 
 published: true
 date: 2022-12-25T17:52:23.484Z
-tags: 
-editor: ckeditor
+tags: Love and the Golden Rule, Jesus teachings, Religion, Innerface International, article
+editor: markdown
 dateCreated: 2022-09-27T00:06:28.740Z
 ---
 

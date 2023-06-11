@@ -3,7 +3,7 @@ title: "“Pity my Simplicity”"
 description: 
 published: true
 date: 2022-9-9T8:13:39Z
-tags: , Innerface International, article
+tags: God, Jesus teachings, Innerface International, article
 editor: markdown
 dateCreated: 2022-9-9T8:13:39Z
 ---

@@ -3,7 +3,7 @@ title: "About “Prophetic” Science"
 description: 
 published: true
 date: 2022-9-9T8:13:39Z
-tags: 
+tags: The Urantia Book, The Urantia Book—Errors, Science, Revelation, Innerface International, article
 editor: markdown
 dateCreated: 2022-9-9T8:13:39Z
 ---
@@ -60,4 +60,4 @@ Of course, new readers must find their own pathway to truth. Some may find my ex
 
 [^4]: Sprunger, Meredith, “The Purpose of Revelation.” Innerface International Vol. 3. No. 1 (1996)
 
-[^5]: New Scientist 160 2157 (1998)
+[^5]: _New Scientist_ 160 2157 (1998)

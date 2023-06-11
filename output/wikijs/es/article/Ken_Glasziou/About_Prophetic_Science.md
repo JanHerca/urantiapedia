@@ -3,7 +3,7 @@ title: "Acerca de la ciencia «profética»"
 description: 
 published: true
 date: 2022-9-9T8:13:39Z
-tags: 
+tags: The Urantia Book, The Urantia Book—Errors, Science, Revelation, Innerface International, article
 editor: markdown
 dateCreated: 2022-9-9T8:13:39Z
 ---
@@ -28,13 +28,13 @@ Este comentario es seguido por:
 
 En nuestra lectura, la mayoría de nosotros probablemente pasamos por alto esta amonestación, descartándola como aplicable a los apóstoles. Pero en el mismo párrafo Jesús dice: «_También debéis recordar que tengo ovejas que no pertenecen a este rebaño, y que también estoy en deuda con ellos, ya que he de proporcionarles el modelo para hacer la voluntad de Dios, mientras vivo la vida de la naturaleza mortal._» ([LU 140:6.8](/es/The_Urantia_Book/140#p6_8))
 
-Me pregunto si nosotros, las personas del siglo XX, podríamos ser «ovejas no de este rebaño». Estos pescadores galileos ya estaban flotando más allá de sus profundidades. Acababan de pedir ayuda a Jesús para comprenderlo. El comentario de Jesús, si se les hubiera dicho a ellos, los habría desconcertado por completo. Entonces, ¿está incluido en los Documentos específicamente para nuestro beneficio? Si es así, ¿nos está diciendo que no tomemos las enseñanzas literalmente?
+Me pregunto si nosotros, las personas del siglo XX, podríamos ser «ovejas que no son de este rebaño». Estos pescadores galileos ya estaban flotando más allá de sus profundidades. Acababan de pedir ayuda a Jesús para comprenderlo. El comentario de Jesús, si se les hubiera dicho a ellos, los habría desconcertado por completo. Entonces, ¿está incluido en los Documentos específicamente para nuestro beneficio? Si es así, ¿nos está diciendo que no tomemos las enseñanzas literalmente?
 
 ¿Quizás solo si interpretamos gran parte de los Documentos de Urantia metafórica o alegóricamente descubriremos el verdadero espíritu de esta revelación?
 
 Desde esta perspectiva diferente, puedo percibir que lo que yo y otros tratábamos anteriormente de interpretar como ciencia e historia serias o precisas no son necesariamente eso en absoluto. El propósito real es proporcionar una cosmología de fondo que abarque la totalidad de la creación como telón de fondo de un sistema de creencias religiosas. Para ese propósito, las imágenes que entendemos pueden ser más significativas que las meticulosas exactitudes.
 
-Antes de leer los Documentos de Urantia, mi conocimiento total de la vida más allá de esta vida terrenal estaba contenido en las palabras del Nuevo Testamento de Jesús: «En la casa de mi Padre hay muchas moradas. Voy a prepararos un lugar», además de su comentario de que en el cielo no somos tomados ni dados en matrimonio, sino que somos como los ángeles. Y mi conocimiento de Dios fue confundido por las imágenes opuestas de un Dios de amor, compasión y misericordia en un polo y un Dios vengativo de justicia justa, juicio y retribución en el otro polo.
+Antes de leer los Documentos de Urantia, mi conocimiento total de la vida más allá de esta vida terrenal estaba contenido en las palabras del Nuevo Testamento de Jesús: «En la casa de mi Padre hay muchas moradas. Voy a prepararos un lugar», además de su comentario de que en el cielo no somos tomados ni dados en matrimonio, sino que somos como los ángeles. Y mi conocimiento de Dios fue confundido por las imágenes opuestas de un Dios de amor, compasión y misericordia en un polo y un Dios vengativo de justicia recta, juicio y retribución en el otro polo.
 
 Los Documentos de Urantia eliminan esta polaridad con una declaración bellamente profunda y simple: **el amor y la misericordia de Dios, como mi Padre celestial, siempre trascenderá su justicia como mi juez**. Para mí, estudiar los Documentos de Urantia valió la pena solo por esa declaración. Pero, de hecho, ha habido muchas más recompensas.
 
@@ -42,7 +42,7 @@ Con esta actitud hacia los Documentos de Urantia, ya no necesito percibir la his
 
 Independientemente de si mi interpretación es correcta o incorrecta en casos particulares, esta actitud me libera para buscar lecciones ocultas y tratar de discernir el espíritu de estas enseñanzas reveladoras en contraste con estar en desacuerdo conmigo mismo sobre cuestiones de factualidad.
 
-Por supuesto, los nuevos lectores deben encontrar su propio camino hacia la verdad. Algunos pueden encontrar mi experiencia útil, otros no. Independientemente de los errores que podamos cometer en nuestra búsqueda sincera de la verdad, el Dios, cuya naturaleza se revela en los Documentos de Urantia, nunca nos rechazaría a causa de tales errores.
+Por supuesto, los nuevos lectores deben encontrar su propio camino hacia la verdad. Algunos pueden encontrar mi experiencia útil, otros no. Independientemente de los errores que podamos cometer en nuestra búsqueda sincera de la verdad, Dios, cuya naturaleza se revela en los Documentos de Urantia, nunca nos rechazaría a causa de tales errores.
 
 
 ## Enlaces externos
@@ -52,12 +52,12 @@ Por supuesto, los nuevos lectores deben encontrar su propio camino hacia la verd
 
 ## Referencias
 
-[^1]: "El compañero de Oxford para la filosofía". (Ed. T. Honderich) (Oxford University Press, 1995)
+[^1]: «El compañero de Oxford para la filosofía». (Ed. T. Honderich) (Oxford University Press, 1995)
 
-[^2]: Penrose, R. "Lo grande, lo pequeño y la mente humana". (Prensa de la Universidad de Cambridge, 1997)
+[^2]: Penrose, R. «Lo grande, lo pequeño y la mente humana». (Cambridge University Press, 1997)
 
 [^3]: Juan, Capítulos. 14 y 15; [1 Juan 4:16](/es/Bible/1_John/4#v16); [Romanos 8:14,15](/es/Bible/Romans/8#v14); [Gálatas 4:6](/es/Bible/Galatians/4#v6).
 
-[^4]: Sprunger, Meredith, "El propósito de la revelación". Innerface internacional vol. 3. Nº 1 (1996)
+[^4]: Sprunger, Meredith, «El propósito de la revelación». Innerface internacional vol. 3. Nº 1 (1996)
 
-[^5]: Nuevo científico 160 2157 (1998)
+[^5]: _New Scientist_ 160 2157 (1998)
