@@ -3,7 +3,7 @@ title: "Revelatory Mouthpiecing"
 description: 
 published: true
 date: 2023-02-07T14:02:03.086Z
-tags: 
+tags: The Urantia Book—Authorship, Source authors, Revelation, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-07T14:02:03.086Z
 ---
@@ -22,7 +22,7 @@ In this article, I want to focus on what is involved in using a human source as 
 
 When truth is put into words, it is put into a succession. All truth, on the human level, is part of a truth-stream, a tradition. It may shock us to find out that the narrative of Part IV is not a direct translation of Jesus' actual words, that it is a reinterpretation, or even a reshaping of a series of interpretations; but that seems to he God's way. He always uses human conduits when it comes to communicating truth to humans. We may think of truth as “thought gems;” but is turns out that all these gems have been rolling along a streambed of tradition, getting their shine, their polish, from the human religionists whose lives they touched, and who then handed them on. Each truth-morsel is part of an age-old conversation.
 
-All truth makes use of a truth-tradition. Jesus constantly interpreted Scripture, Scripture itself interpreted the old portions of Scripture, and Moses made use of the traditions of Melchizedek [[UB 96:5.3](/en/The_Urantia_Book/96#p5_3)]; Melchizedek based his commandments upon those of Eden and 1)alamatia [[UB 93:4.6](/en/The_Urantia_Book/93#p4_6)]; and the Eden teachers restated the seven commandments of Dalamada. [[UB 74:7.8](/en/The_Urantia_Book/74#p7_8)] The revelators have plugged some new links into the “Scriptural” truth-chain, using 20th-century human authors to give voice to truths spoken by Jesus.
+All truth makes use of a truth-tradition. Jesus constantly interpreted Scripture, Scripture itself interpreted the old portions of Scripture, and Moses made use of the traditions of Melchizedek [[UB 96:5.3](/en/The_Urantia_Book/96#p5_3)]; Melchizedek based his commandments upon those of Eden and Dalamatia [[UB 93:4.6](/en/The_Urantia_Book/93#p4_6)]; and the Eden teachers restated the seven commandments of Dalamada. [[UB 74:7.8](/en/The_Urantia_Book/74#p7_8)] The revelators have plugged some new links into the “Scriptural” truth-chain, using 20th-century human authors to give voice to truths spoken by Jesus.
 
 In the same way as they used Weatherhead, the midwayers used Henry Wieman as Rodan's mouthpiece, as Matthew Block has reported. Once again, the same three choices are available: either Rodan is an invention of the authors, or their reshaping of Wieman's hook is a faithful recounting of Rodan's teaching, or it includes actual Rodanian expressions along with Wieman's own 20th•century equivalent of Rodan's concerns. The interests of Rodan (the art of living, the effect of healthy values upon society, stable and progressive institutions) were also the interests of Wieman. If we can accept that there are such things as “_creature-kinship serials_” [[UB 49:5.6](/en/The_Urantia_Book/49#p5_22)], it should not be hard to imagine that a person may have the same truth-concerns, be “akin” to, someone who lived in the past.
 

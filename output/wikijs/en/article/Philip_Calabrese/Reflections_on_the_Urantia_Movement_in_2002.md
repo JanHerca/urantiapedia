@@ -3,7 +3,7 @@ title: "Reflections on the Urantia Movement in 2002"
 description: 
 published: true
 date: 2023-02-07T14:02:03.086Z
-tags: 
+tags: Science, Cosmology, History of Urantia Movement, The Urantia Book—Authorship, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-07T14:02:03.086Z
 ---

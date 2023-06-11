@@ -3,7 +3,7 @@ title: "Boquilla reveladora"
 description: 
 published: true
 date: 2023-02-07T14:02:03.086Z
-tags: 
+tags: The Urantia Book—Authorship, Source authors, Revelation, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-07T14:02:03.086Z
 ---
@@ -22,7 +22,7 @@ En este artículo, quiero centrarme en lo que implica el uso de una fuente human
 
 Cuando la verdad se pone en palabras, se pone en una sucesión. Toda verdad, a nivel humano, es parte de una corriente de verdad, una tradición. Puede sorprendernos descubrir que la narración de la Parte IV no es una traducción directa de las palabras reales de Jesús, que es una reinterpretación, o incluso una remodelación de una serie de interpretaciones; pero ese parece ser el camino de Dios. Siempre usa conductos humanos cuando se trata de comunicar la verdad a los humanos. Podemos pensar en la verdad como «gemas de pensamiento»; pero resulta que todas estas gemas han estado rodando a lo largo de un cauce de tradición, obteniendo su brillo, su pulido, de los religiosos humanos cuyas vidas tocaron, y quienes luego las transmitieron. Cada bocado de verdad es parte de una vieja conversación.
 
-Toda verdad hace uso de una verdad-tradición. Jesús constantemente interpretó las Escrituras, las Escrituras mismas interpretaron las antiguas porciones de las Escrituras, y Moisés hizo uso de las tradiciones de Melquisedec [[LU 96:5.3](/es/The_Urantia_Book/96#p5_3)]; Melquisedec basó sus mandamientos en los de Edén y 1)alamatia [[LU 93:4.6](/es/The_Urantia_Book/93#p4_6)]; y los maestros de Edén reafirmaron los siete mandamientos de Dalamada. [[LU 74:7.8](/es/The_Urantia_Book/74#p7_8)] Los reveladores han conectado algunos eslabones nuevos en la cadena de verdad «bíblica», utilizando autores humanos del siglo XX para dar voz a las verdades dichas por Jesús.
+Toda verdad hace uso de una verdad-tradición. Jesús constantemente interpretó las Escrituras, las Escrituras mismas interpretaron las antiguas porciones de las Escrituras, y Moisés hizo uso de las tradiciones de Melquisedec [[LU 96:5.3](/es/The_Urantia_Book/96#p5_3)]; Melquisedec basó sus mandamientos en los de Edén y Dalamatia [[LU 93:4.6](/es/The_Urantia_Book/93#p4_6)]; y los maestros de Edén reafirmaron los siete mandamientos de Dalamada. [[LU 74:7.8](/es/The_Urantia_Book/74#p7_8)] Los reveladores han conectado algunos eslabones nuevos en la cadena de verdad «bíblica», utilizando autores humanos del siglo XX para dar voz a las verdades dichas por Jesús.
 
 De la misma manera que usaron a Weatherhead, los intermedios usaron a Henry Wieman como portavoz de Rodan, como ha informado Matthew Block. Una vez más, las mismas tres opciones están disponibles: Rodan es una invención de los autores, o su remodelación del gancho de Wieman es un recuento fiel de las enseñanzas de Rodan, o incluye expresiones rodanianas reales junto con el equivalente de Wieman del siglo XX de las preocupaciones de Rodan. . Los intereses de Rodan (el arte de vivir, el efecto de los valores saludables en la sociedad, instituciones estables y progresistas) eran también los intereses de Wieman. Si podemos aceptar que existen cosas como «_series de las criaturas emparentadas_» [[LU 49:5.6](/es/The_Urantia_Book/49#p5_22)], no debería ser difícil imaginar que una persona pueda tener el mismo preocupaciones de la verdad, ser «similar» a alguien que vivió en el pasado.
 

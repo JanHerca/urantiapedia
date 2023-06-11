@@ -3,7 +3,7 @@ title: "Conexión de la fe en el cerebro"
 description: "Una mirada a la investigación en el campo de la neuroteología y algunas implicaciones para la crianza espiritual: crianza con el espíritu"
 published: true
 date: 2023-02-07T14:02:03.086Z
-tags: 
+tags: Faith, Medicine, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-07T14:02:03.086Z
 ---
