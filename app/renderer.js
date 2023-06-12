@@ -214,7 +214,7 @@ const onLoad = () => {
 		[c.dirLButton, 'click', handle_dirButtonClick, c.dirLTextbox],
 		[c.dirJButton, 'click', handle_dirButtonClick, c.dirJTextbox],
 		[c.dirWButton, 'click', handle_dirButtonClick, c.dirWTextbox],
-		[c.fnTButton, 'click', handle_fnButtonClick, c.fnTTextbox, 'TXT'],
+		[c.fnTButton, 'click', handle_fnButtonClick, c.fnTTextbox, 'TXT,TSV'],
 		[c.fnHButton, 'click', handle_fnButtonClick, c.fnHTextbox, 'HTML'],
 		[c.exeButton, 'click', handle_exeButtonClick],
 		[c.collapseButton, 'click', handle_collapseButtonClick],
@@ -433,11 +433,14 @@ const handle_dirButtonClick = (textbox) => {
 };
 
 const handle_fnButtonClick = (textbox, ext) => {
+	const filters = ext.split(',').map(e => {
+		return {name: e, extensions: [e.toLowerCase()]};
+	});
 	dialog.showOpenDialog({
 		title: strSelectFile,
 		defaultPath: path.dirname(textbox.value),
 		properties: ['openFile'],
-		filters: [{name: ext, extensions: [ext.toLowerCase()]}]
+		filters: filters
 	}).then(result => {
 		if (!result.canceled && result.filePaths) {
 			const dirPath = result.filePaths[0];
