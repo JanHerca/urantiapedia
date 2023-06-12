@@ -3,7 +3,7 @@ title: "The New Teacher/Leaders"
 description: "A training manual"
 published: true
 date: 2023-02-19T14:02:03.086Z
-tags: 
+tags: Leadership, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-19T14:02:03.086Z
 ---

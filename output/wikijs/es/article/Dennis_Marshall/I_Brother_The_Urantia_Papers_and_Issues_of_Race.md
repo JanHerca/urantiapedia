@@ -3,7 +3,7 @@ title: "Yo, hermano - Los documentos de Urantia y cuestiones de raza"
 description: 
 published: true
 date: 2023-02-19T14:02:03.086Z
-tags: 
+tags: Race, The Urantia Book, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-19T14:02:03.086Z
 ---
@@ -29,7 +29,7 @@ Hombres a Mujeres, los poderosos a los impotentes
 
 Podría seguir, pero creo que entiendes la idea, el prejuicio y su disfunción social no es difícil de encontrar.   
 
-## Puntos de vista contemporáneos no urantianos de Race
+## Puntos de vista contemporáneos no urantianos de las razas
 
 El prejuicio, por supuesto, a menudo está respaldado por ideas de que la superioridad o inferioridad racial está establecida por «hechos», pero cuando observa la investigación y la literatura, descubre que los estudios generalmente giran en torno al antiguo debate de si la crianza o la naturaleza es la base del carácter individual y/o racial/cultural. Sorprendentemente, ambas partes creen que el argumento se ha decidido a su favor. Debido a que los avances en genómica no han logrado proporcionar pruebas definitivas, todavía hay pocos datos científicos sobre las diferencias en las razas, por lo que las personas con demasiada frecuencia deciden de antemano qué verdad prefieren y seleccionan estudios o apócrifos que respaldan esa opinión.   
 

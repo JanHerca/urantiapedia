@@ -3,7 +3,7 @@ title: "La Sábana Santa de Turín"
 description:
 published: true
 date: 2023-01-21T14:02:03.086Z
-tags: Jesus, Jesus life, Jesus teachings, Innerface International, article
+tags: Shroud of Turin, Jesus, Jesus life, Jesus teachings, Innerface International, article
 editor: markdown
 dateCreated: 2023-01-21T14:02:03.086Z
 ---

@@ -3,7 +3,7 @@ title: "The Eden-Atlantis Project"
 description: "The Proposed Archeological Site of Eden and Atlantis in the Eastern Mediterranean"
 published: true
 date: 2023-02-19T14:02:03.086Z
-tags: 
+tags: History, Mithology, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-19T14:02:03.086Z
 ---

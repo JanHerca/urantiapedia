@@ -3,7 +3,7 @@ title: "El desafío de la educación basada en la revelación"
 description: 
 published: true
 date: 2023-02-19T14:02:03.086Z
-tags: 
+tags: Education, Revelation, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-19T14:02:03.086Z
 ---

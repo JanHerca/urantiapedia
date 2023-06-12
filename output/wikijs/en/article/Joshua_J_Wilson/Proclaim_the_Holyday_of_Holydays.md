@@ -3,7 +3,7 @@ title: "Proclaim the Holiday of Holidays—May 18"
 description: "Michael Confirmed as Universe Sovereign, Mother's Greater Personal Revealing"
 published: true
 date: 2023-02-19T14:02:03.086Z
-tags: 
+tags: Michael, Jesus, Jesus life, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-19T14:02:03.086Z
 ---

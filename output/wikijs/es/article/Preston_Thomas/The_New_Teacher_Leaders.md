@@ -3,7 +3,7 @@ title: "El nuevo maestro/líderes"
 description: "Un manual de entrenamiento"
 published: true
 date: 2023-02-19T14:02:03.086Z
-tags: 
+tags: Leadership, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-19T14:02:03.086Z
 ---

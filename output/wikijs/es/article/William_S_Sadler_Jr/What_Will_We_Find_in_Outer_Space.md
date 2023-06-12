@@ -3,7 +3,7 @@ title: "¿Qué encontraremos en el espacio exterior?"
 description: 
 published: true
 date: 2023-02-19T14:02:03.086Z
-tags: 
+tags: Astronomy, Cosmology, Bill Sadler, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-19T14:02:03.086Z
 ---

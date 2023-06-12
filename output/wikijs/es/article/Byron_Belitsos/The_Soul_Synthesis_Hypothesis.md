@@ -3,7 +3,7 @@ title: "La hipótesis de la síntesis del alma"
 description: "Paranormal Reflections on Soul-Making and Cosmic Spirituality"
 published: true
 date: 2023-02-19T14:02:03.086Z
-tags: 
+tags: Soul, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-19T14:02:03.086Z
 ---
@@ -12,7 +12,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 Un caluroso y húmedo día de verano de 1962 en los suburbios de Cincinnati, estaba jugando sin rumbo fijo en la piscina de nuestro vecindario como cualquier otro niño de nueve años. En un momento, salté al lado de la piscina de los niños, o eso pensé. En lugar de tocar suavemente el fondo, de repente me perdí en diez pies de agua. Me sorprendió tanto la profundidad que empecé a sentir pánico, porque aún no había aprendido a nadar. Luché y me agité, frenética por orientarme. En un instante, el tiempo se ralentizó cuando entré en un lugar de puro terror. Y luego crucé a un estado paranormal atemporal. Pero antes de que pudiera inhalar un trago de agua, un salvavidas vigilante me liberó.
 
-En esos pocos momentos antes del rescate, tuve una experiencia cercana a la muerte (ECM), incluida lo que ahora llamamos una «revisión de vida». En mi mente, vi pasar mi corta vida ante mí en una revisión completa: escenas de mis padres, hermanos, compañeros de escuela, maestros, nuestro gato, mi dormitorio, yo montando en bicicleta, una explosión de imágenes distintas de encuentros con cada uno. persona o cosa importante en mi joven mundo. Y cada escena que desfilaba a través de mí tenía un aura de verdad y luz a su alrededor. El sentimiento asociado con esta experiencia instantánea fue de éxtasis, aunque mi cuerpo estaba paralizado por el miedo. Mirando hacia atrás, ahora creo que tuve una rara visión de la infancia del contenido real de mi alma.
+En esos pocos momentos antes del rescate, tuve una experiencia cercana a la muerte (ECM), incluida lo que ahora llamamos una «revisión de vida». En mi mente, vi pasar mi corta vida ante mí en una revisión completa: escenas de mis padres, hermanos, compañeros de escuela, maestros, nuestro gato, mi dormitorio, yo montando en bicicleta, una explosión de imágenes distintas de encuentros con cada persona o cosa importante en mi joven mundo. Y cada escena que desfilaba a través de mí tenía un aura de verdad y luz a su alrededor. El sentimiento asociado con esta experiencia instantánea fue de éxtasis, aunque mi cuerpo estaba paralizado por el miedo. Mirando hacia atrás, ahora creo que tuve una rara visión de la infancia del contenido real de mi alma.
 
 Más tarde descubrí que el fenómeno de las «revisiones de vida de ECM» es bien conocido en la literatura científica y popular; de hecho, mi propia minirevisión de vida es solo un pequeño ejemplo entre cientos de relatos de ECM espectaculares documentados en numerosos libros populares, sitios web e incluso estudios académicos. Leer estos relatos hoy, además de mi propia experiencia de niño, me lleva a suponer que estos eventos ofrecen una prueba paranormal de la existencia del alma humana.
 

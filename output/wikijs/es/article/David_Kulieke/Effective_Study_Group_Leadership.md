@@ -3,7 +3,7 @@ title: "Liderazgo eficaz de los grupos de estudio: alumbrando el camino"
 description: 
 published: true
 date: 2023-02-19T14:02:03.086Z
-tags: 
+tags: Leadership, Study Groups, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-19T14:02:03.086Z
 ---
@@ -14,7 +14,7 @@ _El siguiente discurso se pronunció en el Simposio del Grupo de Estudio de la U
 
 ## Introducción
 
-Un día, un joven que caminaba por la calle vio a tres personas luchando con un piano en el marco de una puerta. El piano estaba muy apretado y los tres no podían moverlo. Siendo un buen samaritano, el joven se puso a ayudar. Media hora más tarde, hizo una pausa, se secó la frente sudorosa y dijo: «No sé si alguna vez sacaremos esta cosa de este edificio». Los otros tres lo miraron y dijeron: ¿Quieres decir?_”
+Un día, un joven que caminaba por la calle vio a tres personas luchando con un piano en el marco de una puerta. El piano estaba muy apretado y los tres no podían moverlo. Siendo un buen samaritano, el joven se puso a ayudar. Media hora más tarde, hizo una pausa, se secó la frente sudorosa y dijo: «No sé si alguna vez sacaremos esta cosa de este edificio». Los otros tres lo miraron y dijeron: ¿Quieres decir?
 
 Esta pequeña historia ilustra un punto que se hace en el Documento 81:
 

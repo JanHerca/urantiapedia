@@ -3,7 +3,7 @@ title: "What Does The Urantia Book Tell Us Needs To Be Accomplished?"
 description: 
 published: true
 date: 2023-02-19T14:02:03.086Z
-tags: 
+tags: Purpose, The Urantia Book—Purpose, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-19T14:02:03.086Z
 ---

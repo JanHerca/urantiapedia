@@ -3,7 +3,7 @@ title: "Pensamientos sobre los otorgamientos de la personalidad y el Ajustador d
 description: 
 published: true
 date: 2023-02-19T14:02:03.086Z
-tags: 
+tags: Personality, Thought Adjusters, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-19T14:02:03.086Z
 ---

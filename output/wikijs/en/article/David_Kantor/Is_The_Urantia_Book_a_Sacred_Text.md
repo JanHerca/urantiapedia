@@ -3,7 +3,7 @@ title: "Is The Urantia Book a Sacred Text?"
 description: 
 published: true
 date: 2023-02-19T14:02:03.086Z
-tags: 
+tags: The Urantia Book, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-19T14:02:03.086Z
 ---
@@ -58,7 +58,7 @@ Reading and writing are not merely skills related to figuring out print or writi
 
 Literacy is at heart a social process and does not exist outside of a social context. In the case of religious or sacred texts the social interaction around the texts may become very complex or ritualized. And these social activities have a great deal to do with the way in which particular manuscripts come to be considered “_sacred texts._” (There are important implications of this fact which lie beyond the scope of this present essay; they relate to an understanding of specific social contexts within which dissemination of _The Urantia Book_ might most effectively take place.) 
 
-## Literacy and Abstract Conceptual Represe ntation 
+## Literacy and Abstract Conceptual Representation 
 
 Any understanding of reading must begin with an acknowledgement of the role which the oral tradition has played throughout human history. Mass literacy is a very new phenomenon, present for less than one tenth of one percent of human history. 
 

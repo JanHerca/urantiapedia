@@ -3,7 +3,7 @@ title: "¿Qué nos dice _El Libro de Urantia_ que debe lograrse?"
 description: 
 published: true
 date: 2023-02-19T14:02:03.086Z
-tags: 
+tags: Purpose, The Urantia Book—Purpose, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-19T14:02:03.086Z
 ---

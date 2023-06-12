@@ -3,7 +3,7 @@ title: "¿Podemos tener un estándar universal de moralidad?"
 description: 
 published: true
 date: 2023-02-19T14:02:03.086Z
-tags: 
+tags: Morality, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-19T14:02:03.086Z
 ---

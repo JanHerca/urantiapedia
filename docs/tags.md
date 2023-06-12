@@ -157,14 +157,17 @@ Hope
 Index
 Inner Life
 Innerface International
+Intellectual disability
 Interfaith
 Islam
+Japan
 Jesus
 Jesus life
 Jesus teachings
 Jesus times
 Jesus' followers
 Jesus' places
+Joy
 Judaism
 Latin America
 Le Lien
@@ -215,8 +218,10 @@ Secularism
 Self Development
 Service
 Service Opportunities
+Shroud of Turin
 Slides
 Sociology
+Soul
 Source authors
 Source Book
 Spirituality
