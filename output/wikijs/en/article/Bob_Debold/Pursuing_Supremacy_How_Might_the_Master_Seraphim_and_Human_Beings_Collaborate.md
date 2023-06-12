@@ -3,7 +3,7 @@ title: "Pursuing Supremacy: How Might the Master Seraphim and Human Beings Colla
 description: 
 published: true
 date: 2023-02-14T14:02:03.086Z
-tags: 
+tags: The Supreme, Angels and midwayers, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-14T14:02:03.086Z
 ---

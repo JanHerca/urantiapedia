@@ -3,7 +3,7 @@ title: "Alegría en el contenedor de gusanos"
 description: 
 published: true
 date: 2023-02-14T14:02:03.086Z
-tags: 
+tags: Service, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-14T14:02:03.086Z
 ---
@@ -28,7 +28,7 @@ Cuando comenzamos este proceso, parecía que habíamos perdido toda nuestra pobl
 
 Alcanzaba el fondo del contenedor, sacando la tierra seca junto con algunos gusanos apáticos en mis manos. Los sostenía en mis manos mientras los niños apuntaban sus botellas con chorro de agua a los cuerpos inmóviles de los gusanos, llenos de esperanza sin aliento de que pudieran revivir.
 
-Después de que un niño dijera: «Yo salvé más que tú», a otro niño, tuve que evitar que discutieran sobre cuál había salvado más gusanos. La alegría que se sentía en el espacio de 4«por 4» cuando un gusano comatoso se agitaba después de ser rociado era medible. Y para colmo, un niño de jardín de infantes bastante serio dijo, con una cara perfectamente seria: «¡Eso huele a champán!» y por supuesto la fruta en fermentación tenía un toque de tal aroma.
+Después de que un niño dijera: «Yo salvé más que tú», a otro niño, tuve que evitar que discutieran sobre cuál había salvado más gusanos. La alegría que se sentía en el espacio de «4 por 4» cuando un gusano comatoso se agitaba después de ser rociado era medible. Y para colmo, un niño de jardín de infantes bastante serio dijo, con una cara perfectamente seria: «¡Eso huele a champán!» y por supuesto la fruta en fermentación tenía un toque de tal aroma.
 
 Entonces, ¿qué tiene que ver esta experiencia con el contenedor de gusanos con el servicio? Dudo que esto entre en la categoría de la que se habla en el Documento 131: «_Todas las buenas obras de servicio sincero proceden del Supremo._» [[LU 131:8.3](/es/The_Urantia_Book/131#p8_3)] Pero también creo nuestros amigos celestiales tienen un sentido del humor maravilloso y juguetón y tienen «sensores de alegría» agudos.
 

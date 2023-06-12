@@ -107,7 +107,7 @@ Church
 Civilization & Society
 Civilizations past
 Code-of-Ethics
-Commerce, industry & trade
+Commerce
 Conference Archives
 Conference Presentations
 Cosmic consciousness
@@ -125,6 +125,7 @@ Ethics
 Eugenics
 Evangelism
 Evolution
+Evolutionism
 Exegesis
 Faith
 Family
@@ -132,7 +133,7 @@ Fear
 Fellowship
 Fellowship Herald
 Fellowship Journal
-Forces, energies, powers
+Forces
 Foreword
 Forgiveness
 Free Will
@@ -152,6 +153,7 @@ History
 History of Urantia
 History of Urantia Foundation
 History of Urantia Movement
+Hope
 Index
 Inner Life
 Innerface International
@@ -199,6 +201,7 @@ Place
 Planetary government
 Prayer
 Presentation
+Prophecy
 Psychology
 Purpose
 Questions and answers
@@ -208,6 +211,7 @@ Rebellion
 Religion
 Revelation
 Science
+Secularism
 Self Development
 Service
 Service Opportunities
@@ -242,6 +246,7 @@ Truth
 UAI Journal
 UB annotated
 Universe Mother Spirit
+Urantia
 Urantiapedia
 Urantian Journal
 Video

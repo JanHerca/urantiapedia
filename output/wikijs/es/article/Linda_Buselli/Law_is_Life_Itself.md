@@ -3,7 +3,7 @@ title: "«La ley es la vida misma...»"
 description: 
 published: true
 date: 2023-02-14T14:02:03.086Z
-tags: 
+tags: Divine love, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-14T14:02:03.086Z
 ---
@@ -12,7 +12,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
 
 _(La siguiente presentación se hizo en la Sesión de Estudio de Verano de la Beca, en la Universidad Dominicana en River Forest, IL en julio de 2007)_  
 
-«_La ley es la vida misma, y no las reglas de su conducta._» [[LU 48:6.33](/es/The_Urantia_Book/48#p6_33)] Esta afirmación es de la página 555 de _El Libro de Urantia_, en el artículo sobre «El Vida Morontial.» Este es uno de mis artículos favoritos porque nos presenta muchas sugerencias para mejorar esta vida, cosas que podemos comenzar ahora y llevar adelante en nuestras carreras cósmicas.
+«_La ley es la vida misma, y no las reglas de su conducta._» [[LU 48:6.33](/es/The_Urantia_Book/48#p6_33)] Esta afirmación es del párrafo 48:6.33 de _El Libro de Urantia_, en el artículo sobre «El Vida Morontial.» Este es uno de mis artículos favoritos porque nos presenta muchas sugerencias para mejorar esta vida, cosas que podemos comenzar ahora y llevar adelante en nuestras carreras cósmicas.
 
 La ley a la que se hace referencia aquí es la ley divina a diferencia de la ley material, que se puede poner en palabras. La ley divina es la vida misma; está viva y dinámica en contraste con la ley material estática o muerta. Y sólo se puede conocer viviéndolo. Hace algunos años escuché un cuento popular, de esos que circulan en la comunidad Urantia. Supuestamente, los reveladores comentaron que si bien las enseñanzas del libro eran «verdaderas», más del 95% de la «verdad» se perdió simplemente al ponerla en palabras. Eso sorprende a algunos lectores, pero debemos recordar que el libro dice «_...no podéis aprisionar la verdad en unas fórmulas, códigos, credos o modelos intelectuales de conducta humana._» [[LU 180:5.2](/es/The_Urantia_Book/180#p5_2)]  
 
@@ -20,7 +20,7 @@ El libro define continuamente la verdad como una _experiencia viviente_. No se p
 
 Como ejemplo, se han escrito miles de millones de palabras sobre cómo es ser padre. Para alguien que nunca ha sido padre de un niño, las palabras son inadecuadas, y para alguien que ha sido padre de un niño, las palabras son innecesarias. La relación padre/hijo es una verdad primordial del universo; y es tan importante experimentarlo, que si no criamos a un niño aquí, debemos hacerlo poco después de llegar a los mundos de las mansiones, justo al comienzo de nuestras carreras universales. La verdad debe ser experimentada.
 
-Como hijos del Supremo, tenemos que «_...hacer algo además de ser algo_». por «_condiciones locales en el tiempo y el espacio._» [[LU 92:4.9](/es/The_Urantia_Book/92#p4_9)] _The_Urantia Book_ no nos da ninguna lista de leyes divinas, pero a lo largo del libro los autores repiten ciertas temas o formas de hacer las cosas que parecen bastante consistentes en significado y función. Usaremos estas técnicas para cumplir la ley divina a lo largo de nuestras carreras universales.  
+Como hijos del Supremo, tenemos que «_...hacer algo además de ser algo_», por «_condiciones locales en el tiempo y el espacio._» [[LU 92:4.9](/es/The_Urantia_Book/92#p4_9)] _The_Urantia Book_ no nos da ninguna lista de leyes divinas, pero a lo largo del libro los autores repiten ciertas temas o formas de hacer las cosas que parecen bastante consistentes en significado y función. Usaremos estas técnicas para cumplir la ley divina a lo largo de nuestras carreras universales.  
 
 La ley divina es la voluntad del Padre en el universo, y cuanto mejor conocemos al Padre, más probable es que comencemos a determinar la voluntad divina. Por supuesto, si quieres conocer mejor a alguien, tienes que pasar algún tiempo con esa persona. El método más común es la meditación, retirarse del mundo y escuchar la voz del Ajustador. Hay muchas variaciones en las que no entraré aquí, pero implican una relación uno a uno con el Padre y escuchar en silencio para recibir orientación. Sin embargo, pienso en este método como una forma pasiva de experimentar la presencia del Padre en contraste con otro enfoque más agresivo que consiste literalmente en llegar al mundo e involucrar a otra persona. Como dice el libro, «_El amor del Padre sólo puede volverse real para el hombre mortal cuando pasa a través de la personalidad de ese hombre a medida que otorga a su vez este amor a sus semejantes._» [[LU 117:6.10](/es/The_Urantia_Book/117#p6_10)] 
 

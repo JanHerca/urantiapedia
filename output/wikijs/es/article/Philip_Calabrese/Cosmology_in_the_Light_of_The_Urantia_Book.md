@@ -3,7 +3,7 @@ title: "Cosmología a la luz del Libro de Urantia"
 description: 
 published: true
 date: 2023-02-14T14:02:03.086Z
-tags: 
+tags: Cosmology, Physics, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-14T14:02:03.086Z
 ---
@@ -135,7 +135,7 @@ Si estas subpartículas se ralentizaran en sus órbitas intrafotónicas (por eje
 
 Esto nos lleva a la «materia oscura».
 
-### Redshifts que implican materia oscura
+### Corrimientos al rojo que implican materia oscura
 
 Con el advenimiento de una mejor espectroscopia, se hizo posible medir el cambio de longitud de onda (o frecuencia) en patrones característicos entre los extremos opuestos de las galaxias giratorias del espacio exterior vistas más o menos de lado. La velocidad de rotación de una galaxia se puede determinar a partir de la diferencia en los patrones de longitud de onda del borde exterior de la galaxia que se mueve hacia el observador (la Tierra) frente al borde que se aleja del observador.
 

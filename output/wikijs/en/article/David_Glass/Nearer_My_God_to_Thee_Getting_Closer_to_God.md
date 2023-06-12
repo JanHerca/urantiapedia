@@ -3,7 +3,7 @@ title: "“Nearer, My God, to Thee” Getting Closer to God"
 description: "Approaching the Universal Father"
 published: true
 date: 2023-02-14T14:02:03.086Z
-tags: 
+tags: God, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-14T14:02:03.086Z
 ---

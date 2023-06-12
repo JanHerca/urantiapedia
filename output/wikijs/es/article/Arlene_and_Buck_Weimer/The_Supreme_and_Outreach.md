@@ -1,9 +1,9 @@
 ---
-title: "El Supremo y el alcance"
+title: "El Supremo y su alcance"
 description: 
 published: true
 date: 2023-02-14T14:02:03.086Z
-tags: 
+tags: The Supreme, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-14T14:02:03.086Z
 ---
@@ -12,7 +12,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
 
 _Lo siguiente se presentó en la sesión de verano de becarios en julio de 2007._  
 
-A primera vista, puede parecer que Supreme y Outreach pueden ser una combinación inusual de temas para una presentación. A medida que avancemos, esta integración se hará más clara.  
+A primera vista, puede parecer que El Supremo y su alcance pueden ser una combinación inusual de temas para una presentación. A medida que avancemos, esta integración se hará más clara.
 
 ## Entendiendo al Supremo
 

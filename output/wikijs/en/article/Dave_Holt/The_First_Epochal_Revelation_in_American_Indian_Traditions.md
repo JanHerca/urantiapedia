@@ -3,7 +3,7 @@ title: "The First Epochal Revelation In American Indian Traditions"
 description: 
 published: true
 date: 2023-02-14T14:02:03.086Z
-tags: 
+tags: History, History of Urantia, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-14T14:02:03.086Z
 ---

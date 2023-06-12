@@ -3,7 +3,7 @@ title: "Una prueba estadística de la hipótesis de que El Libro de Urantia fue 
 description: 
 published: true
 date: 2023-02-14T14:02:03.086Z
-tags: 
+tags: The Urantia Book, The Urantia Book—Authorship, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-14T14:02:03.086Z
 ---

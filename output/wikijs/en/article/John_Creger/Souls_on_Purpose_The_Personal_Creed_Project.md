@@ -3,7 +3,7 @@ title: "Souls on Purpose: The Personal Creed Project and the Core Drive"
 description: 
 published: true
 date: 2023-02-14T14:02:03.086Z
-tags: 
+tags: Purpose, Personal growth, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-14T14:02:03.086Z
 ---

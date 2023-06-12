@@ -3,7 +3,7 @@ title: "¿Adivina quién viene después?"
 description: 
 published: true
 date: 2023-02-14T14:02:03.086Z
-tags: 
+tags: The Urantia Book, The Urantia Book—Purpose, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-14T14:02:03.086Z
 ---
@@ -94,11 +94,11 @@ Un Hijo Maestro, como Miguel de Nebadon, tiene libertad en cuanto a cómo y cuá
 
 Aparentemente, Miguel podría reorganizar el orden de los eventos incluso antes de alcanzar el estatus de Master Son. Anunció planes para venir a Urantia desde la fecha predeterminada de Adán, hace treinta y siete mil años. Envió a Maquiventa Melquisedec en una misión de emergencia para reintroducir el concepto de Un Dios, para preparar a la gente para su propio autootorgamiento mil novecientos años después. De hecho, _El Libro de Urantia_ Apocalipsis es un excelente ejemplo de la respuesta de Miguel a las necesidades especiales de nuestro planeta al encargar un libro para el planeta semianalfabeto de su encarnación, Urantia. Los reveladores llamaron a los Documentos de Urantia «la Palabra hecha Libro».  
 
-## Una vana esperanza para el futuro inmediato: Trinity Teacher Sons
+## Una vana esperanza para el futuro inmediato: Los Hijos Instructores Trinitarios
 
 Estos Hijos inauguran «_la transición entre las épocas evolutivas y la era de luz y de vida._» [[LU 52:7.2](/es/The_Urantia_Book/52#p7_2)] Esta era se caracteriza por la paz, el autocontrol y la conciencia de los asuntos en el universo más grande. Los problemas materiales y las dificultades físicas han sido resueltos. El planeta funciona suavemente y se exalta la iluminación cósmica. [[LU 52:7](/es/The_Urantia_Book/52#p7)]
 
-Cualquier expectativa de la llegada inmanente de Trinity Teacher Sons es prematura. Su misión está muy lejos en el futuro: miles de años. ¿Alguien que lea esto cree que nos estamos acercando a la Era de la Luz y la Vida, que administran los Hijos Instructores, los Daynales?
+Cualquier expectativa de la llegada inmanente de los Hijos Instructores Trinitarios es prematura. Su misión está muy lejos en el futuro: miles de años. ¿Alguien que lea esto cree que nos estamos acercando a la Era de la Luz y la Vida, que administran los Hijos Instructores, los Daynales?
 
 Jesús ciertamente cumplirá su promesa de regresar, «_pero nadie sabe si su segunda venida precederá o seguirá a la aparición del Hijo Magistral o de los Hijos Instructores en Urantia._» [[LU 52:7.1](/es/The_Urantia_Book/52#p7_1 )] Un Melquisedec anónimo escribe, con esperanza en su corazón:
 

@@ -3,7 +3,7 @@ title: "Socialización Cósmica y Ciudadanía Planetaria"
 description: "¿Podemos convertirnos en ciudadanos cósmicos aquí y ahora?"
 published: true
 date: 2023-02-14T14:02:03.086Z
-tags: 
+tags: Cosmic consciousness, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-14T14:02:03.086Z
 ---
@@ -68,7 +68,7 @@ Muchos lectores de _El Libro de Urantia_ son miembros de redes interreligiosas. 
 
 Jesús una vez le enseñó a un ateniense: «_Hay unidad en el universo cósmico, si tan sólo pudierais discernir su funcionamiento en su estado actual. El universo real es amistoso para cada hijo del Dios eterno._» [[LU 133:5.8](/es/The_Urantia_Book/133#p5_8)]
 
-## Lealtades Nacionales y Cosmos
+## Las lealtades nacionales y el Cosmos
 
 En 1989, cuando me naturalicé, el Departamento de Inmigración del gobierno de los Estados Unidos me pidió que renunciara a mi «tarjeta verde» y que la tirara a un montón con las demás. Descarté ese símbolo visible de mi ciudadanía canadiense y asumí mi nuevo estatus estadounidense. Fue un paso adelante para mí, aunque todavía lloré al dar el paso.
 

@@ -1,9 +1,9 @@
 ---
-title: "Ministerio Celestial: Origen Visto e Invisible, Naturaleza y Destino"
+title: "Ministerio Celestial: Origen Visible e Invisible, Naturaleza y Destino"
 description: 
 published: true
 date: 2023-02-14T14:02:03.086Z
-tags: 
+tags: Angels and midwayers, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-14T14:02:03.086Z
 ---
@@ -30,14 +30,14 @@ Mientras reflexionamos sobre la fuente última de los ángeles, el Espíritu Inf
 
 El progreso humano en la vida comienza en el planeta de nuestro nacimiento. Viajaremos desde aquí a través del sistema, la constelación, el universo local, el superuniverso, el universo central y el Paraíso. Dado que el universo local es el punto medio de este viaje, y dado que se nos ha dado una gran cantidad de información sobre los seres espirituales que sirven en el universo local, se me ocurrió que podíamos acercarnos a la enormidad de la familia del Espíritu Infinito. por matemáticas simples; sumando lo que sabemos sobre el número de ángeles en nuestro nivel local y luego multiplicándolo hacia afuera.
 
-Veamos los números en el universo local.  
+Veamos los números en el universo local.
 
 Tipo | Número
 --- | ---
 Arcángeles | Casi 800.000
 Altos Comisionados | Más de 1.500 millones
 Supervisores celestiales | 3 millones
- Conciliadores Universales | 400 millones
+Conciliadores Universales | 400 millones
 Asesores Técnicos | 500 millones
 Los Registradores Celestiales | 75
 Ángeles registradores | 4000000000

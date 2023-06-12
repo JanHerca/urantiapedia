@@ -246,8 +246,8 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 | Título                                                                                                                                                  | Autor                  | Etiquestas |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ---------- |
-| [Ministerio Celestial: Origen Visto e Invisible, Naturaleza y Destino](/es/article/Michelle_Klimesh/Celestial_Ministry_Seen_and_Unseen)                 | Michelle Klimesh       |
-| [El Supremo y el alcance](/es/article/Arlene_and_Buck_Weimer/The_Supreme_and_Outreach)                                                                  | Arlene and Buck Weimer |
+| [Ministerio Celestial: Origen Visible e Invisible, Naturaleza y Destino](/es/article/Michelle_Klimesh/Celestial_Ministry_Seen_and_Unseen)                 | Michelle Klimesh       |
+| [El Supremo y su alcance](/es/article/Arlene_and_Buck_Weimer/The_Supreme_and_Outreach)                                                                  | Arlene and Buck Weimer |
 | [¿Adivina quién viene después?](/es/article/Carolyn_Kendall/Guess_Whos_Coming_Next)                                                                     | Carolyn Kendall        |
 | [Una experiencia misionera en Turquía](/es/article/Bill_Rocap/A_Missionary_Experience_in_Turkey)                                                        | Bill Rocap             |
 | [Sé tú el libro](/es/article/Michael_Painter/You_Be_The_Book)                                                                                           | Michael Painter        |

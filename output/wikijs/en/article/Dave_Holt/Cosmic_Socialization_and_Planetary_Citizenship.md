@@ -3,7 +3,7 @@ title: "Cosmic Socialization and Planetary Citizenship"
 description: "Can We Become Cosmic Citizens in the Here and Now? "
 published: true
 date: 2023-02-14T14:02:03.086Z
-tags: 
+tags: Cosmic consciousness, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-14T14:02:03.086Z
 ---

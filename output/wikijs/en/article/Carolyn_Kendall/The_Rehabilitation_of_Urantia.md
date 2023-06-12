@@ -3,7 +3,7 @@ title: "The Rehabilitation of Urantia"
 description: 
 published: true
 date: 2023-02-14T14:02:03.086Z
-tags: 
+tags: Urantia, Epochal Revelations, Planetary government, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-14T14:02:03.086Z
 ---

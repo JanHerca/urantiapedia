@@ -3,7 +3,7 @@ title: "The Urantia Book is not What Used to Be"
 description: 
 published: true
 date: 2023-02-14T14:02:03.086Z
-tags: 
+tags: The Urantia Book, The Urantia Book—Errors, Science, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-14T14:02:03.086Z
 ---

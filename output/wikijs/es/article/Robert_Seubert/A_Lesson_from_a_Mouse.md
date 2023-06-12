@@ -3,14 +3,14 @@ title: "Una lección de un ratón"
 description: 
 published: true
 date: 2023-02-14T14:02:03.086Z
-tags: 
+tags: Meditation, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Robert Seubert<br>© 2009 The Urantia Book Fellowship</p>
 
-Hace varios años leí el libro Flowers for Algernon de Daniel Keyes. Era una novela ficticia sobre un hombre que tenía un coeficiente intelectual muy bajo y fue seleccionado para ser parte de un experimento científico para aumentar su inteligencia. El experimento había tenido bastante éxito con un ratón de laboratorio llamado Algernon. El experimento convirtió al hombre en un supergenio. No podía dejar el libro y no podía dejar de hablar de él.
+Hace varios años leí el libro _Flowers for Algernon_ de Daniel Keyes. Era una novela ficticia sobre un hombre que tenía un coeficiente intelectual muy bajo y fue seleccionado para ser parte de un experimento científico para aumentar su inteligencia. El experimento había tenido bastante éxito con un ratón de laboratorio llamado Algernon. El experimento convirtió al hombre en un supergenio. No podía dejar el libro y no podía dejar de hablar de él.
 
 Un día, por mi cumpleaños, una amiga me hizo un regalo muy sorprendente y novedoso. En una jaula del tamaño de una jaula para pájaros había un diminuto ratón negro que había comprado en una tienda de mascotas. Al principio me quedé estupefacto por el regalo, pero luego comencé a sonreír y luego a reír. Mi amigo miró mi rostro con alegría y luego sugirió que nombrara al ratón Algernon. Y así lo hice. Ahora tenía un nuevo amigo, Algernon, un ratoncito negro. Rápidamente me empezó a gustar y luego a amarlo.
 

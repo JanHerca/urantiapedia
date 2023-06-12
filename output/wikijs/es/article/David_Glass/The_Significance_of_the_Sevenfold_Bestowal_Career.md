@@ -3,14 +3,14 @@ title: "El significado de la carrera de autootorgamiento séptuple de Cristo Mig
 description: 
 published: true
 date: 2023-02-14T14:02:03.086Z
-tags: 
+tags: Michael, Jesus teachings, Fellowship Herald, article
 editor: markdown
 dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 David Glass<br>© 2008 The Urantia Book Fellowship</p>
 
-Las siete dádivas de Cristo Miguel, a diferencia de las siete dádivas del Hijo Eterno en Havona, están dentro del alcance de la apreciación de la mente de los hombres y mujeres urantianos contemporáneos. Un estudio de los Documentos de Urantia, en particular del Documento 119, «Las dádivas de Cristo Miguel», revela al lector que lo que nuestro mundo ha conocido de la vida, las enseñanzas, la muerte y la resurrección de Jesús en la tierra, llamado «el Cristo, » es sólo una pequeña parte del significado total de incluso los registros fragmentarios de la vida de Jesús que se han presentado tradicionalmente en y como los cuatro Evangelios del Nuevo Testamento de la Biblia cristiana. Visto desde la perspectiva de los Documentos de Urantia, el comienzo, desarrollo, terminación y reanudación de la vida terrestre de Jesús en Urantia, junto con los relatos parciales de sus otras seis dádivas hasta ahora no reveladas y ganadoras de soberanía, tienen un significado mucho más profundo y más amplio. significado cósmicamente relevante.
+Las siete donaciones de Cristo Miguel, a diferencia de las siete donaciones del Hijo Eterno en Havona, están dentro del alcance de la apreciación de la mente de los hombres y mujeres urantianos contemporáneos. Un estudio de los Documentos de Urantia, en particular del Documento 119, «Las donaciones de Cristo Miguel», revela al lector que lo que nuestro mundo ha conocido de la vida, las enseñanzas, la muerte y la resurrección de Jesús en la tierra, llamado «el Cristo, » es sólo una pequeña parte del significado total de incluso los registros fragmentarios de la vida de Jesús que se han presentado tradicionalmente en y como los cuatro Evangelios del Nuevo Testamento de la Biblia cristiana. Visto desde la perspectiva de los Documentos de Urantia, el comienzo, desarrollo, terminación y reanudación de la vida terrestre de Jesús en Urantia, junto con los relatos parciales de sus otras seis donaciones hasta ahora no reveladas y ganadoras de soberanía, tienen un significado mucho más profundo y más amplio. significado cósmicamente relevante.
 
 Para comenzar en el nivel planetario y luego ascender a través de todos los niveles de alcance y relevancia cada vez mayores, el otorgamiento de Miguel en Urantia, según los reveladores, llegó en el momento más auspicioso para la apreciación global y el efecto del otorgamiento en toda la historia. hasta ese momento y, hasta ahora, desde ese momento. _El Libro de Urantia_ afirma que nuestro mundo aún no ha alcanzado un nivel más favorablemente inclinado a recibir a Miguel con aprecio y de manera adecuada que el que prevalecía en el momento del otorgamiento real en Urantia del Hijo de Dios y del Hijo del Hombre. Lo que los Documentos de Urantia realmente dicen de acuerdo con este punto es:
 
