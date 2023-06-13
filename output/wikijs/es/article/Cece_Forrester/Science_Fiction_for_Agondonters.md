@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Cece Forrester<br>© 2007 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Burns/The_Golden_Rule">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La regla de oro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-8-número-1-2007-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8, Número 1, 2007 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Phil_Taylor/Loving_Service">
+          <span class="pr-2">Servicio amoroso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Esta charla fue preparada para la Miniconferencia de la Primera Sociedad, el 30 de abril de 2006 y presentada nuevamente en la Sesión de Estudio de Verano de la Fraternidad, el 7 de julio de 2006. Ha sido revisada para su publicación.
 
@@ -106,6 +130,31 @@ Cómics | Superman | DC Cómics  | Creado por Jerry Siegel y Joe Shuster | 1938 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Burns/The_Golden_Rule">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La regla de oro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-8-número-1-2007-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8, Número 1, 2007 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Phil_Taylor/Loving_Service">
+          <span class="pr-2">Servicio amoroso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

@@ -9,6 +9,30 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Byron Belitsos<br>© 2002 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Alison_Gardner/A_Demystification_and_Redefinition_of_Cult">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una desmitificación y redefinición del culto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-4-número-1-2002-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4, Número 1, 2002 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Karen_Larson/The_Gift_of_Tolerance">
+          <span class="pr-2">El regalo de la tolerancia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Los lectores-creyentes de _El Libro de Urantia_ a veces olvidamos que la revelación de Urantia es un misterio perfecto, un total desconocido para los creyentes religiosos y los practicantes espirituales que nos rodean. Nuestra vida religiosa se deriva de una enseñanza reveladora no reconocida con casi ningún vínculo práctico con las religiones evolutivas del planeta. Y debido a que nosotros, como movimiento religioso, estamos en nuestra infancia, nuestra identidad religiosa es un profundo enigma, incluso para nosotros mismos. De una manera extraña, ambos somos un misterio para nosotros mismos y para el resto del mundo.
 
@@ -82,3 +106,27 @@ Realmente todo se reduce al individuo hambriento de la verdad que se encuentra d
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Alison_Gardner/A_Demystification_and_Redefinition_of_Cult">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una desmitificación y redefinición del culto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-4-número-1-2002-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4, Número 1, 2002 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Karen_Larson/The_Gift_of_Tolerance">
+          <span class="pr-2">El regalo de la tolerancia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

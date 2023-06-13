@@ -9,6 +9,27 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Philip Calabrese<br>© 2013 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Glass/Moods_Music_and_Magic_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Estados de ánimo, música y magia del libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-13-número-1-2013-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 13, Número 1, 2013 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Pruebas estadísticas en general.** Al realizar cualquier prueba estadística, se debe tener una distribución de probabilidad a priori contra la cual realizar la prueba. Por ejemplo, sabiendo que la madera difícilmente puede crecer sin ayuda en la forma de una silla de 4 patas en un bosque arbolado, si encontramos un trozo de madera en el bosque entonces estamos justificados para concluir (estadísticamente, no lógicamente) que era diseñado y construido por algún agente inteligente en lugar de que evolucionó o emergió en una silla por medios totalmente no inteligentes. De manera similar, si lanzamos una moneda 100 veces y sale «cara» menos de 33 veces, entonces podríamos concluir estadísticamente que la moneda está sesgada hacia cruz debido a la probabilidad de que una moneda **_justa_** produzca 33 «caras» o menos en 100 lanzamientos es 1 oportunidad en 5000. La prueba es posible porque tenemos una distribución a priori contra la que contrastar el número de «caras» en 100 lanzamientos de una moneda justa. Asumiendo la «hipótesis nula» de una moneda justa, calculamos la baja probabilidad de una muestra de como máximo 33 caras en 100 lanzamientos y concluimos la «hipótesis alternativa» de que la moneda está sesgada.
 
@@ -248,3 +269,25 @@ En ese sentido, deben saber que _El Libro de Urantia_ predica el Evangelio de Je
 [^xliii]: Ver [LU 80:2.4](/es/The_Urantia_Book/80#p2_4) Ver también http://www.en.wikipedia.org/wiki/Zanclean_flood
 
 [^xliv]: Ver [LU 58:2.6](/es/The_Urantia_Book/58#p2_6). Ver también Blue Jets, http://www.news.stanford.edu/news/2002/march20/bluejet-320.html, Ver también UBTheNews.com
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Glass/Moods_Music_and_Magic_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Estados de ánimo, música y magia del libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-13-número-1-2013-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 13, Número 1, 2013 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

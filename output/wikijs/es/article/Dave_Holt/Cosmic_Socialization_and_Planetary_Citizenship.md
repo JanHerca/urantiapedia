@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Dave Holt<br>© 2010 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sheila_Keene_Lund/Understanding_the_Relation_of_Love_to_the_Mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comprender la relación del amor con la mente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-11-número-1-2010-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11, Número 1, 2010 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Angela_Thurston/Testimonial_of_One_Second_Generation_Urantian">
+          <span class="pr-2">Testimonio de un urantiano de segunda generación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 No se requieren disciplinas espirituales extremas. Incluso el mayor crecimiento o desarrollo de la conciencia puede no ser necesario. Aunque no viajaremos astralmente para llegar allí, nuestra intención es convertirnos en ciudadanos cósmicos mientras aún somos conscientes de nuestra estación terrenal. Puede ser simplemente una cuestión de elegir, simplemente tomar la decisión de vivir como ciudadanos del cosmos. «Estamos al borde de la ciudadanía cósmica, al llegar a conocer algo de los otros planetas de nuestra comunidad galáctica». [^1]
 
@@ -142,6 +166,31 @@ _El Libro de Urantia_ enseña que los buscadores pueden descubrir la verdad de e
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sheila_Keene_Lund/Understanding_the_Relation_of_Love_to_the_Mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comprender la relación del amor con la mente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-11-número-1-2010-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11, Número 1, 2010 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Angela_Thurston/Testimonial_of_One_Second_Generation_Urantian">
+          <span class="pr-2">Testimonio de un urantiano de segunda generación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

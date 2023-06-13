@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Charles Laurence Olivea<br>© 2017 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bruce_Jackson/A_Musical_Metaphor">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una metáfora musical</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-17-número-1-2017-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 17, Número 1, 2017 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_S_Sadler_Jr/What_Will_We_Find_in_Outer_Space">
+          <span class="pr-2">¿Qué encontraremos en el espacio exterior?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Los grandes árboles poseen una presencia majestuosa, como el Grizzly Giant del Sequoia Forest en Yosemite, California. Es bastante interesante, incluso instructivo, reflexionar sobre el hecho de que comienzan como pequeñas plántulas, emergen como árboles jóvenes y, durante un **_largo_** período de tiempo, crecen hasta convertirse en los monarcas de la naturaleza.
 
@@ -148,3 +172,27 @@ Sin duda, debemos amar a nuestros semejantes mortales como Jesús nos ama. Podem
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bruce_Jackson/A_Musical_Metaphor">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una metáfora musical</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-17-número-1-2017-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 17, Número 1, 2017 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_S_Sadler_Jr/What_Will_We_Find_in_Outer_Space">
+          <span class="pr-2">¿Qué encontraremos en el espacio exterior?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

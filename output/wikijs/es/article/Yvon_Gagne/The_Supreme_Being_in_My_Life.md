@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Yvon Gagne<br>© 2018 Matthew Block, para la traducción del francés<br>© 2018 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/James_Perry/Unsinkable_and_Unbreakable">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Insumergible e irrompible</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-18-número-1-2018-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 18, Número 1, 2018 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project">
+          <span class="pr-2">El Proyecto Edén-Atlántida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El siguiente artículo es de los Archivos de la Fellowship.
 
@@ -87,3 +111,27 @@ La conciencia del Supremo nos convierte en pilares espirituales al servicio del 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/James_Perry/Unsinkable_and_Unbreakable">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Insumergible e irrompible</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-18-número-1-2018-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 18, Número 1, 2018 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project">
+          <span class="pr-2">El Proyecto Edén-Atlántida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

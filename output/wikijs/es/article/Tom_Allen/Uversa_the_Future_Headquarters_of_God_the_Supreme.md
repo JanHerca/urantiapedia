@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Tom Allen<br>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Glass/TODAY_is_the_day_for_JOY">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡HOY es el día de la ALEGRÍA!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-20-número-1-2020-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 20, Número 1, 2020 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/JJ_Johnson/To_Beget_Or_Not_to_Beget_That_Is_the_Question">
+          <span class="pr-2">Engendrar o no engendrar, esa es la cuestión0</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Los documentos de Urantia revelan que cada uno de los siete superuniversos tiene un propósito principal en la expresión de su totalidad. El propósito principal de llegar tarde a Orvonton es otorgarnos una generosa misericordia a todos nosotros. [[LU 15:14.2-3](/es/The_Urantia_Book/15#p14_2)] Debido a que esta generosa concesión de amor y misericordia abarca el «significado-del-todo», es probable que Dios el Supremo, en un futuro lejano , para ejercer Su completo poder personal y soberano Todopoderoso como el Ser Supremo de Uversa. Esto hace de Uversa un lugar muy especial en el gran universo.
 
@@ -101,6 +125,31 @@ Cuando el gran universo esté en luz y vida, la máxima realización finita de n
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Glass/TODAY_is_the_day_for_JOY">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡HOY es el día de la ALEGRÍA!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-20-número-1-2020-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 20, Número 1, 2020 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/JJ_Johnson/To_Beget_Or_Not_to_Beget_That_Is_the_Question">
+          <span class="pr-2">Engendrar o no engendrar, esa es la cuestión0</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

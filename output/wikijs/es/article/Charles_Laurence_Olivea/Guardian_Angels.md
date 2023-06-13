@@ -9,6 +9,27 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Charles Olivea<br>© 2006 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-7-número-1-2006-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7, Número 1, 2006 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gina_Buselli/Youth_and_The_Urantia_Book">
+          <span class="pr-2">La juventud y El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 «Ángel de Dios, mi querido guardián, a quien su amor me encomienda aquí, quédate siempre a mi lado, para alumbrar y custodiar, para gobernar y guiar». Esta es una oración común y popular al ángel de la guarda. Por lo general, se considera como la oración de un niño, pronunciada por la mañana o por la noche. Hay una cualidad entrañable al respecto, la inocencia acompañada de poder. ¿Cuántos de nosotros, tanto adultos como niños, anhelamos amar y ser amados por alguien, tener la sensación tranquilizadora de ser vigilados y protegidos? _Hay un gran consuelo y valor en saber que no estamos solos_.
 
@@ -235,6 +256,28 @@ He leído _El Libro de Urantia_ durante muchos años como parte de mi decisión 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-7-número-1-2006-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7, Número 1, 2006 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gina_Buselli/Youth_and_The_Urantia_Book">
+          <span class="pr-2">La juventud y El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

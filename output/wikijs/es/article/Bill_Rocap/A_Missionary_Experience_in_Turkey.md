@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Bill Rocap<br>© 2008 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Guess_Whos_Coming_Next">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Adivina quién viene después?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-9-número-1-2008-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9, Número 1, 2008 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Michael_Painter/You_Be_The_Book">
+          <span class="pr-2">Sé tú el libro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Cuando asistí al Parlamento de las Religiones del Mundo en Barcelona hace unos veranos, me provocó una exploración del Islam. Compré un Corán y, a mi regreso, lo leí y comencé a contactarme con musulmanes en línea. Utilizando un enfoque amable, me encontré con personas pidiéndoles que compartieran algo de su viaje espiritual. Hasta la fecha, podría escribir un breve volumen sobre los encuentros memorables que he tenido la suerte de experimentar. Uno de esos encuentros fue con una familia en el sur de Turquía, quienes finalmente me imploraron que los visitara.
 
@@ -64,3 +88,27 @@ Estoy nadando en reflexiones no expresadas de esta experiencia. Sigo profundamen
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Guess_Whos_Coming_Next">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Adivina quién viene después?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-9-número-1-2008-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9, Número 1, 2008 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Michael_Painter/You_Be_The_Book">
+          <span class="pr-2">Sé tú el libro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

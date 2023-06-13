@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Richard S. Omura<br>© 2012 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Earlene_Green/Race_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las razas y El Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-12-número-1-2012-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12, Número 1, 2012 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/The_Forgotten_Urantian_Dr_Lena_Sadler">
+          <span class="pr-2">La urantiana olvidada: La Dra. Lena Celestia (Kellogg) Sadler</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En el «Discurso sobre la religión», Joshua ben Joseph (Jesús) habla a sus apóstoles sobre la religión de la autoridad frente a la religión de la experiencia espiritual. Él nombra las creencias tradicionales como religiones de autoridad, basadas en el asentimiento intelectual.
 
@@ -68,3 +92,27 @@ Josué: «_Y ahora, no os equivoquéis, mi Padre responderá siempre a la más t
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Earlene_Green/Race_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las razas y El Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-12-número-1-2012-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12, Número 1, 2012 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/The_Forgotten_Urantian_Dr_Lena_Sadler">
+          <span class="pr-2">La urantiana olvidada: La Dra. Lena Celestia (Kellogg) Sadler</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

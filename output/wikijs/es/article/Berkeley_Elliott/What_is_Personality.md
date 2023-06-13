@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Berkeley Elliott<br>© 2006 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bill_and_Share_Beasley/Serving_A_Cookbook_for_the_Soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Servir: un libro de cocina para el alma</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-7-número-1-2006-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7, Número 1, 2006 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Philip_Calabrese/The_Coming_Scientific_Validation_of_The_Urantia_Book">
+          <span class="pr-2">La próxima validación científica de El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _El siguiente artículo contiene extractos de un discurso pronunciado por el autor el 22 de julio de 1973._
 
@@ -98,3 +122,27 @@ Sí sabemos «_Ninguna criatura personal puede ser forzada a emprender la aventu
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bill_and_Share_Beasley/Serving_A_Cookbook_for_the_Soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Servir: un libro de cocina para el alma</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-7-número-1-2006-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7, Número 1, 2006 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Philip_Calabrese/The_Coming_Scientific_Validation_of_The_Urantia_Book">
+          <span class="pr-2">La próxima validación científica de El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

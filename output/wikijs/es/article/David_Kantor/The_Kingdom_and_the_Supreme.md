@@ -9,6 +9,27 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 David Kantor<br>© 2007 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Phil_Taylor/Loving_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Servicio amoroso</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-8-número-1-2007-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8, Número 1, 2007 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > ... ningún mortal que conoce a Dios estará nunca solo en su viaje por el cosmos, porque sabe que el Padre camina a su lado en cada etapa del camino, mientras que el camino mismo que atraviesa es la presencia del Supremo. [[LU 117:6.27](/es/The_Urantia_Book/117#p6_27)]
 
@@ -331,3 +352,24 @@ Como dijo el Maestro a sus apóstoles, «... _ahora es nuestro deber someternos 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Phil_Taylor/Loving_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Servicio amoroso</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-8-número-1-2007-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8, Número 1, 2007 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Peter Holley<br>© 2004 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Richard_S_Omura/The_Rise_of_Spiritual_Technology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El surgimiento de la tecnología espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-5-número-2-2004-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 2, 2004 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Arlene_and_Buck_Weimer/The_Art_of_Marriage">
+          <span class="pr-2">El arte del matrimonio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Nota del editor: todas las palabras en negrita indican énfasis agregado por el autor.
 
@@ -251,6 +275,31 @@ En este asunto, como en la mayoría, no podemos equivocarnos demasiado si manten
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Richard_S_Omura/The_Rise_of_Spiritual_Technology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El surgimiento de la tecnología espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-5-número-2-2004-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 2, 2004 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Arlene_and_Buck_Weimer/The_Art_of_Marriage">
+          <span class="pr-2">El arte del matrimonio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Phil Taylor<br>© 2007 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Cece_Forrester/Science_Fiction_for_Agondonters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ciencia ficción para Agondonters</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-8-número-1-2007-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8, Número 1, 2007 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Kantor/The_Kingdom_and_the_Supreme">
+          <span class="pr-2">El Reino y lo Supremo: ideas para simplificar la comprensión de El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Hace quince años tomé la decisión de servir. Fui voluntario como gerente de construcción en Habitat for Humanity por un período de un año, un trabajo de tiempo completo por cuatro dólares la hora. Yo era carpintero y ganaba mucho mejor salario en otro lugar, pero decidí aceptar el trabajo por una razón; después de la meditación en oración se hizo evidente que esa era la voluntad de mi Padre del Paraíso. El pensamiento que se me había pasado por la cabeza era que esa oportunidad me proporcionaría una valiosa formación en liderazgo; y viendo este pensamiento como una idea de mi ajustador, acepté el trabajo. Todavía no estaba seguro de cómo iba a pagar el alquiler; pero si era la voluntad del Padre, entonces sabía que algo saldría bien.
 
@@ -63,3 +87,27 @@ El próximo año _The Urantia Book_ Fellowship acogerá la Conferencia Internaci
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Cece_Forrester/Science_Fiction_for_Agondonters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ciencia ficción para Agondonters</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-8-número-1-2007-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8, Número 1, 2007 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Kantor/The_Kingdom_and_the_Supreme">
+          <span class="pr-2">El Reino y lo Supremo: ideas para simplificar la comprensión de El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

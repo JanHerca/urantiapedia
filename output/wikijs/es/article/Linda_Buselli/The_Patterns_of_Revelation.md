@@ -9,6 +9,30 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Linda Buselli<br>© 2003 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Al_Lockett/When_Belief_Becomes_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cuando la creencia se convierte en fe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-5-número-1-2003-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 1, 2003 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Nancy_Johnson/The_Difficulty_of_Being_Objective">
+          <span class="pr-2">La dificultad de ser objetivo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Para un lector del _Libro de Urantia_, el tema de la revelación tiene muchos significados y muchos niveles dentro de cada significado. La mayoría de las religiones modernas ya tienen sus Sagradas Escrituras, las consideran inviolables y realmente no esperan que se revelen nuevas «Escrituras». Sin embargo, en el siglo pasado, un despertar espiritual se extendió por el mundo, trayendo consigo no solo _El Libro de Urantia_, sino también una serie de otros escritos que se cree que son nuevas revelaciones de Dios. ¿Qué es este despertar espiritual y cuál es el lugar de _El Libro de Urantia_ en él?
 
@@ -76,3 +100,27 @@ _El Libro de Urantia,_ al igual que las revelaciones anteriores, es un depósito
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Al_Lockett/When_Belief_Becomes_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cuando la creencia se convierte en fe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-5-número-1-2003-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 1, 2003 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Nancy_Johnson/The_Difficulty_of_Being_Objective">
+          <span class="pr-2">La dificultad de ser objetivo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

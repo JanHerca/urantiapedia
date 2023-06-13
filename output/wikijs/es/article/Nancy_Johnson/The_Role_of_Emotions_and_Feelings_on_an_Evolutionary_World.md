@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Nancy Johnson<br>© 2009 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dave_Holt/In_Search_of_the_Historical_Onamonalonton">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En busca del Onamonalonton histórico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-10-número-1-2009-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10, Número 1, 2009 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sara_Blackstock/Joy_in_the_Worm_Bin">
+          <span class="pr-2">Alegría en el contenedor de gusanos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 A menudo me he preguntado por qué nunca ha habido una conferencia que se ocupe específicamente del papel de las emociones y los sentimientos en la evolución. Podría ser que simplemente no estaba al tanto de que se llevara a cabo en alguna otra región.
 
@@ -122,3 +146,27 @@ Somos afortunados de haber recibido una revelación con tanta instrucción sobre
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dave_Holt/In_Search_of_the_Historical_Onamonalonton">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En busca del Onamonalonton histórico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-10-número-1-2009-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10, Número 1, 2009 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sara_Blackstock/Joy_in_the_Worm_Bin">
+          <span class="pr-2">Alegría en el contenedor de gusanos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

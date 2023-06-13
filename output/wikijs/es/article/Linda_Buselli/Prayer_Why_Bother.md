@@ -9,6 +9,27 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Linda Buselli<br>© 2014 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Richard_Goodman/Spiritual_Unity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Unidad Espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-14-número-1-2014-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 14, Número 1, 2014 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Hace más de treinta años, como uno de los editores originales del _Urantian Journal_, decidí hacer un número sobre la oración y pedí a varias personas de la comunidad de Urantia que enviaran artículos sobre el tema. Todas las personas a las que pregunté parecían avergonzadas y tartamudearon prácticamente la misma respuesta: «_Uh, yo no oro, yo adoro._» La gente finalmente donó artículos, pero sólo si podían escribir sobre la adoración además de la oración. Nadie se sentía lo suficientemente cómodo con el tema de la oración en sí mismo como para tratarlo. Y una persona, un lector muy respetado, dijo: «_¿Oración? ¿Por qué molestarse? Dios ya lo sabe todo de todos modos._»
 
@@ -108,3 +129,24 @@ Podemos vivir con una conciencia orante de asociación con Dios a lo largo de nu
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Richard_Goodman/Spiritual_Unity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Unidad Espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-14-número-1-2014-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 14, Número 1, 2014 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

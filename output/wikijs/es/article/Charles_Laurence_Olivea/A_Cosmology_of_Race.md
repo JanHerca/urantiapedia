@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Charles Laurence Olivea<br>© 2013 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gary_Deinstadt/Religion_of_One">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religión de Uno</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-13-número-1-2013-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 13, Número 1, 2013 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dave_Holt/Exploring_the_Inner_Life">
+          <span class="pr-2">Explorando la vida interior</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El siguiente artículo forma parte de la Serie Wrightwood del Fellowship Forum para lectores de _El Libro de Urantia_, «Perspectivas sobre la raza en _El Libro de Urantia_», del 1 al 3 de mayo de 1992 y del 30 de abril al 2 de mayo de 1993.
 
@@ -299,3 +323,27 @@ Lo anterior fue presentado por un Mensajero Poderoso que fue llamado a trabajar 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gary_Deinstadt/Religion_of_One">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religión de Uno</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-13-número-1-2013-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 13, Número 1, 2013 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dave_Holt/Exploring_the_Inner_Life">
+          <span class="pr-2">Explorando la vida interior</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

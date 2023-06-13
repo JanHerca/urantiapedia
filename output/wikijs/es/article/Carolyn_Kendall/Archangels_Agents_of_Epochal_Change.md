@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Carolyn Kendall<br>© 2007 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Paula_Thompson/Amazing_Human_Aspects_of_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aspectos humanos asombrosos de la revelación de época: verdad versus hecho</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-8-número-1-2007-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8, Número 1, 2007 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Phil_Taylor/IC_08_The_Thrill_of_Loving_Service">
+          <span class="pr-2">IC 08—La emoción del servicio amoroso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _El Libro de Urantia_ abre un conocimiento de los arcángeles mucho mayor que la concepción popular de estos seres. Los arcángeles de la revelación son una gran orden de trabajadores del universo local que están encargados de una amplia gama de funciones vitales y deberes importantes: Facilitan la implantación de la vida en los planetas habitados; inician la resurrección de inimaginables billones de mortales sobre los mundos habitados; operan circuitos de comunicación vital entre los planetas individuales y los mundos centrales de arriba; y acompañan al sistema ya los Hijos del Paraíso en sus misiones de otorgamiento, así como en sus visitas judiciales. Hay proyectos y programas aún más sorprendentes en los que se involucran. De hecho, podríamos haber titulado nuestro tema, «Arcángeles e Hijos Magisteriales, » porque son ellos quienes están proyectados para ser la próxima orden en visitar nuestro planeta con una revelación ampliada de la verdad. Los arcángeles son la vanguardia y los asociados de la mano derecha de los Paradise Avonals en sus misiones magisteriales.
 
@@ -144,3 +168,27 @@ Si buscamos sinceramente cumplir con estos estándares, estaremos mejor preparad
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Paula_Thompson/Amazing_Human_Aspects_of_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aspectos humanos asombrosos de la revelación de época: verdad versus hecho</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-8-número-1-2007-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8, Número 1, 2007 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Phil_Taylor/IC_08_The_Thrill_of_Loving_Service">
+          <span class="pr-2">IC 08—La emoción del servicio amoroso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

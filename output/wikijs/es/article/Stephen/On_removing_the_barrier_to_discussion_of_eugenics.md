@@ -9,6 +9,27 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Stephen<br>© 1999 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Linda_Buselli/The_seven_psychic_circles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los siete círculos psíquicos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-1-número-2-1999-primavera">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, 1999 (Primavera) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (Nota: el autor nos ha pedido que no revelemos su identidad completa para proteger su estatus profesional y sus conexiones. Estamos cumpliendo con su solicitud. — Editores)
 
@@ -86,3 +107,24 @@ Es importante reconocer que el factor dominante en la ideología nazi no tenía 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Linda_Buselli/The_seven_psychic_circles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los siete círculos psíquicos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-1-número-2-1999-primavera">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, 1999 (Primavera) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

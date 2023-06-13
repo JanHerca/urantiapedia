@@ -9,6 +9,30 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Meredith J. Sprunger<br>© 2003 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stephen_Zendt/Closed_Circle_or_Open_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Círculo cerrado o libro abierto?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-5-número-1-2003-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 1, 2003 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claudia_Ayers_and_Lee_Smith/A_Dialogue_About_The_Kingdom">
+          <span class="pr-2">Un diálogo sobre “El Reino de los Cielos”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «Si no sois unos evangelistas convencidos y misioneros de vuestra religión, os engañáis a vosotros mismos, en el sentido de que aquello que llamáis religión no es más que una creencia tradicional o un simple sistema de filosofía intelectual». [[LU 160:5.3](/es/The_Urantia_Book/160#p5_3)]
 
@@ -161,6 +185,31 @@ Este ministerio de alcance no será fácil. No es para almas tímidas. Es difíc
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stephen_Zendt/Closed_Circle_or_Open_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Círculo cerrado o libro abierto?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-5-número-1-2003-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 1, 2003 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claudia_Ayers_and_Lee_Smith/A_Dialogue_About_The_Kingdom">
+          <span class="pr-2">Un diálogo sobre “El Reino de los Cielos”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

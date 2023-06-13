@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Joshua Wilson<br>© 2020 Elianne Obadia, por la edición<br>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michael_Hill/Growing_the_Supreme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cultivando lo Supremo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-20-número-1-2020-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 20, Número 1, 2020 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Glass/TODAY_is_the_day_for_JOY">
+          <span class="pr-2">¡HOY es el día de la ALEGRÍA!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Todos tienen una madre biológica. Y, para fomentar un mayor amor dentro del círculo familiar, mucho se puede ganar descubriendo y conociendo el _divino femenino_.
 
@@ -138,3 +162,27 @@ Los filósofos del universo han declarado que hay múltiples, muchas, tal vez in
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michael_Hill/Growing_the_Supreme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cultivando lo Supremo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-20-número-1-2020-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 20, Número 1, 2020 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Glass/TODAY_is_the_day_for_JOY">
+          <span class="pr-2">¡HOY es el día de la ALEGRÍA!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

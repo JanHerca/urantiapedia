@@ -9,6 +9,30 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Nancy Johnson<br>© 2002 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sara_Blackstock/Faith_Wiring_in_the_Brain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conexión de la fe en el cerebro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-4-número-1-2002-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4, Número 1, 2002 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ron_Besser/Jesus_Miracles_and_the_Fathers_Will">
+          <span class="pr-2">Los milagros de Jesús y la voluntad del Padre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (Presentado por primera vez en la Conferencia Internacional de Becas de 1990, Snowmass, CO.)
 
@@ -175,3 +199,27 @@ _El Libro de Urantia_ nos dice que nuestra realidad perdurable es que somos frag
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sara_Blackstock/Faith_Wiring_in_the_Brain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conexión de la fe en el cerebro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-4-número-1-2002-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4, Número 1, 2002 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ron_Besser/Jesus_Miracles_and_the_Fathers_Will">
+          <span class="pr-2">Los milagros de Jesús y la voluntad del Padre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

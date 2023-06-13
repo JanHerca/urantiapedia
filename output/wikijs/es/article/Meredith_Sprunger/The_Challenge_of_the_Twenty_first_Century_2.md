@@ -9,6 +9,27 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Meredith J. Sprunger<br>© 1999 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-1-número-2-1999-primavera">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, 1999 (Primavera) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Byron_Belitsos/On_facing_millenial_change">
+          <span class="pr-2">Sobre cómo enfrentar el cambio milenario</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (La siguiente presentación se realizó en la Conferencia Regional del Medio Oeste celebrada en Fall Creek, Illinois State Park, el 7 y 8 de octubre de 1995).
 
@@ -52,3 +73,24 @@ El sólido núcleo del movimiento Urantia ha superado estas tribulaciones con re
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
 - Este artículo también se publicó (en formato corto) aquí: https://urantia-book.org/archive/newsletters/innerface/vol3_3/page3.html (y también está disponible en Urantiapedia aquí: [El desafío del siglo XXI](/es/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-1-número-2-1999-primavera">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, 1999 (Primavera) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Byron_Belitsos/On_facing_millenial_change">
+          <span class="pr-2">Sobre cómo enfrentar el cambio milenario</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

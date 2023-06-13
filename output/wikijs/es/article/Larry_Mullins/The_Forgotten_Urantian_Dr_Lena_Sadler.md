@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Larry Mullins<br>© 2012 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Authority_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religión de la experiencia versus religión de la autoridad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-12-número-1-2012-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12, Número 1, 2012 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book">
+          <span class="pr-2">Cosmología a la luz del Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Lena_Sadler" class="image urantiapedia image-style-align-right">
@@ -30,3 +54,27 @@ Lena Sadler fue una gran urantiana. Su importancia, como la de muchas mujeres ex
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Authority_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religión de la experiencia versus religión de la autoridad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-12-número-1-2012-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12, Número 1, 2012 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book">
+          <span class="pr-2">Cosmología a la luz del Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

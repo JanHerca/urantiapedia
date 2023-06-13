@@ -9,6 +9,27 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Carolyn Kendall<br>© 2014 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-14-número-1-2014-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 14, Número 1, 2014 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_S_Sadler_Jr/The_Journey_Following_Mortal_Death">
+          <span class="pr-2">El viaje que sigue a la muerte mortal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Cuando un nuevo lector pregunta por qué _El Libro de Urantia_ vino de Dios o de los ángeles, nuestra respuesta suele ser una o más de varias razones: revelar la verdadera naturaleza de Dios, el Padre celestial; divulgar la verdad sobre la vida y misión de Jesús de Nazaret; proporcionar una narrativa completa de la evolución del universo y nuestro mundo; para describir la maravillosa vida que nos espera después de la muerte; o simplemente, para salvar almas. Podríamos añadir que otro digno propósito de la Revelación de Urantia es inspirar a la sociedad humana a emprender el camino hacia la iluminación social y espiritual e impulsar a este mundo hacia las etapas planetarias de luz y vida.
 
@@ -164,6 +185,28 @@ En otra ocasión, el 30 de julio de 1971, en la sesión de apertura de la Sesió
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-14-número-1-2014-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 14, Número 1, 2014 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_S_Sadler_Jr/The_Journey_Following_Mortal_Death">
+          <span class="pr-2">El viaje que sigue a la muerte mortal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

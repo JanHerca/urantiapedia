@@ -9,6 +9,30 @@ dateCreated: 2023-02-09T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Stephen Zendt<br>© 2005 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Nancy_Johnson/Becoming_a_Universe_Conscious_Citizen">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Desafío de los próximos cincuenta años...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-6-número-1-2005-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6, Número 1, 2005 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Pierre_Heudier/Pattern_of_Unity">
+          <span class="pr-2">Patrón de unidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ¿Has considerado cómo encajas en el esquema de las cosas? ¿Tienes una idea de tu lugar en el ámbito más amplio de la evolución cósmica? ¿Qué función cumple usted, como personalidad? Me gustaría invitarlos al complejo pero ricamente satisfactorio estudio de las muchas cosas que la revelación de Urantia tiene que decir sobre _patrón_.
 
@@ -55,3 +79,27 @@ Es por eso que el estudio del PATRÓN es vital para nuestra creciente apreciaci�
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Nancy_Johnson/Becoming_a_Universe_Conscious_Citizen">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Desafío de los próximos cincuenta años...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-6-número-1-2005-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6, Número 1, 2005 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Pierre_Heudier/Pattern_of_Unity">
+          <span class="pr-2">Patrón de unidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

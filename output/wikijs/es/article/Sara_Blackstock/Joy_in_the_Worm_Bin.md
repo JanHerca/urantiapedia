@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Sara Blackstock<br>© 2009 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Nancy_Johnson/The_Role_of_Emotions_and_Feelings_on_an_Evolutionary_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El papel de las emociones y los sentimientos en un mundo evolutivo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-10-número-1-2009-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10, Número 1, 2009 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Arnie_Ondis/Ten_Lessons_from_the_Vineyard">
+          <span class="pr-2">Diez lecciones del viñedo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Una metáfora viviente para «… el fuego divino de la voluntad de servir» [[LU 48:6.34](/es/The_Urantia_Book/48#p6_34)]
 
@@ -76,3 +100,27 @@ Podemos sentir este «_fuego divino de la voluntad de servir_» en nuestras prop
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Nancy_Johnson/The_Role_of_Emotions_and_Feelings_on_an_Evolutionary_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El papel de las emociones y los sentimientos en un mundo evolutivo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-10-número-1-2009-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10, Número 1, 2009 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Arnie_Ondis/Ten_Lessons_from_the_Vineyard">
+          <span class="pr-2">Diez lecciones del viñedo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

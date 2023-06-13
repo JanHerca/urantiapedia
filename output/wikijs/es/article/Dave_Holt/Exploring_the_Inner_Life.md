@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Dave Holt<br>© 2013 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/A_Cosmology_of_Race">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una cosmología de la raza</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-13-número-1-2013-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 13, Número 1, 2013 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Kantor/Spiritual_Faith_Incertainty_and_Cosmic_Citizenship">
+          <span class="pr-2">Fe espiritual, incertidumbre y ciudadanía cósmica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Hacer la voluntad de Dios es ni más ni menos que una manifestación de la buena voluntad de la criatura por compartir su vida interior con Dios. [LU 111:5.1](/es/The_Urantia_Book/111#p5_1)
@@ -107,6 +131,31 @@ El desarrollo de una relación personal con Dios anticipa el próximo paso evolu
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/A_Cosmology_of_Race">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una cosmología de la raza</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-13-número-1-2013-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 13, Número 1, 2013 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Kantor/Spiritual_Faith_Incertainty_and_Cosmic_Citizenship">
+          <span class="pr-2">Fe espiritual, incertidumbre y ciudadanía cósmica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

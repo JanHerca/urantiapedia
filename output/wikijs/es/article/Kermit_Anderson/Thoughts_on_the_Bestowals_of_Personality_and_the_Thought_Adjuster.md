@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Kermit Anderson<br>© 2016 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Lawrence_J_Bowman/Early_Persecutions_of_Jesus_Followers_and_Dispersion_of_the_Apostles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Primeras persecuciones de los seguidores de Jesús y dispersión de los apóstoles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-16-número-1-2016-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 16, Número 1, 2016 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_S_Sadler_Jr/Mindedness_and_Spirituality_Comments_on_the_Absolutes">
+          <span class="pr-2">Mente y espiritualidad, comentarios sobre los absolutos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Introducción
 
@@ -82,3 +106,27 @@ El otorgamiento universal y virtualmente automático de Ajustadores del Pensamie
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Lawrence_J_Bowman/Early_Persecutions_of_Jesus_Followers_and_Dispersion_of_the_Apostles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Primeras persecuciones de los seguidores de Jesús y dispersión de los apóstoles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-16-número-1-2016-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 16, Número 1, 2016 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_S_Sadler_Jr/Mindedness_and_Spirituality_Comments_on_the_Absolutes">
+          <span class="pr-2">Mente y espiritualidad, comentarios sobre los absolutos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

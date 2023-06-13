@@ -9,6 +9,30 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Charles Laurence Olivea<br>© 2000 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sara_Blackstock/The_Science_of_Parenting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La ciencia de la crianza de los hijos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-2-número-2-2000-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2, Número 2, 2000 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen/The_Intellectual_Role_of_The_Urantia_Book">
+          <span class="pr-2">El papel intelectual de «El libro de Urantia»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (Este discurso se presentó en la Sesión de estudio de verano de la beca 2000, en Elmhurst, IL, el 2 de julio de 2000)
 
@@ -66,3 +90,27 @@ Pero para llegar allí, debemos lograr emplear la doctrina del juego limpio, bas
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sara_Blackstock/The_Science_of_Parenting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La ciencia de la crianza de los hijos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-2-número-2-2000-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2, Número 2, 2000 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen/The_Intellectual_Role_of_The_Urantia_Book">
+          <span class="pr-2">El papel intelectual de «El libro de Urantia»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

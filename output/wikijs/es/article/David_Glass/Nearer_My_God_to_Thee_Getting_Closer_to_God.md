@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 David Glass<br>© 2011 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Linda_Buselli/Machiventa_Melchizedek_One_of_Historys_Mysteries">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Maquiventa Melquisedec: uno de los misterios de la historia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-11-número-2-2011-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11, Número 2, 2011 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/One_Mans_Tour_Through_The_Evolutionary_Debate">
+          <span class="pr-2">La gira de un hombre a través del debate evolutivo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > La comprensión progresiva de la realidad equivale a acercarse a Dios. [[LU 196:3.3](/es/The_Urantia_Book/196#p3_3)]
 
@@ -156,3 +180,27 @@ Es tanto mi oración como mi propósito que esta encuesta de información sobre 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Linda_Buselli/Machiventa_Melchizedek_One_of_Historys_Mysteries">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Maquiventa Melquisedec: uno de los misterios de la historia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-11-número-2-2011-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11, Número 2, 2011 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/One_Mans_Tour_Through_The_Evolutionary_Debate">
+          <span class="pr-2">La gira de un hombre a través del debate evolutivo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

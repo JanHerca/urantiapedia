@@ -9,6 +9,30 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Jeanne Melchior<br>© 1999 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Henry_Begemann/Springtime_a_study_of_the_future">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Primavera: un estudio del futuro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-1-número-2-1999-primavera">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, 1999 (Primavera) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Linda_Buselli/The_seven_psychic_circles">
+          <span class="pr-2">Los siete círculos psíquicos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Además de ser un lector de _El Libro de Urantia_ desde hace mucho tiempo, he estado enseñando inglés, lectura y habilidades de comunicación durante más de veinte años. En ese tiempo, algunos de los cambios más profundos que he visto ocurrir han sido los relacionados con el género. Entre los hablantes del idioma inglés, existe una mayor conciencia de la necesidad de un uso imparcial; y palabras como «hombre» y «humanidad» ahora se cambian comúnmente a «humanidad» para reflejar la presencia de más del cincuenta por ciento de la población, mientras que el pronombre masculino genérico se está extinguiendo rápidamente.
 
@@ -54,3 +78,27 @@ Estoy esperando el día en que, clara e inequívocamente, Dios comience a hablar
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Henry_Begemann/Springtime_a_study_of_the_future">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Primavera: un estudio del futuro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-1-número-2-1999-primavera">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, 1999 (Primavera) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Linda_Buselli/The_seven_psychic_circles">
+          <span class="pr-2">Los siete círculos psíquicos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

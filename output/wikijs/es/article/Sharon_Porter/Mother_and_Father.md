@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Sharon Porter<br>© 2021 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kaye_Cooper/Cooperating_with_the_Holy_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cooperando con el Espíritu Santo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-21-número-1-2021-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 21, Número 1, 2021 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Esther_Wood/Living_with_the_Spirit_of_Truth">
+          <span class="pr-2">Vivir con el Espíritu de la Verdad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Nuestro _Libro de Urantia_ nos enseña que tenemos una Madre del Universo y un Padre del Universo y que ellos son nuestros padres espirituales. Establece que ambos son coiguales creadores y coiguales administradores. «Un Hijo Creador... y un Espíritu Creativo... os han creado, a vosotros y a vuestro universo... [y ellos] ministran a las criaturas de su propia creación». [[LU 8:3.4](/es/The_Urantia_Book/8#p3_4)]
 
@@ -37,3 +61,27 @@ Cuando encontremos nuestro equilibrio en nuestro movimiento, cuando realmente ab
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kaye_Cooper/Cooperating_with_the_Holy_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cooperando con el Espíritu Santo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-21-número-1-2021-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 21, Número 1, 2021 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Esther_Wood/Living_with_the_Spirit_of_Truth">
+          <span class="pr-2">Vivir con el Espíritu de la Verdad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

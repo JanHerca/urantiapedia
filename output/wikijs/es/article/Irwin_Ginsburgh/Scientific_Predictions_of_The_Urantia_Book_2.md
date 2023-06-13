@@ -9,6 +9,30 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Irwin Ginsburgh, Ph.D.<br>© 2000 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Elders/Restated_in_modern_phraseology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reformulado en fraseología moderna</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-2-número-2-2000-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2, Número 2, 2000 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen_Zendt/I_Will_Tell_Them_A_Story">
+          <span class="pr-2">«Les contaré una historia»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Este documento analiza siete descubrimientos predichos por _El Libro de Urantia_ y dieciocho más que se encuentran actualmente en desarrollo. Esto es bastante milagroso y está más allá de las capacidades de los humanos, especialmente porque muchos de los descubrimientos son nuevos y no extensiones de la ciencia conocida.
 
@@ -163,6 +187,31 @@ La revelación puede no ser una verdad absoluta, pero se adapta a las necesidade
 
 > Irwin Ginsburgh es Ph.D. físico. Su libro, First Man! El Adán, fue publicado por Simon and Schuster. Entre las cartas que recibió de los lectores, había varias que le sugerían que leyera _El Libro de Urantia_. Así es como, dice, el libro lo «encontró». Ha sido lector durante veinte años y escribe comentarios sobre ciencia y _El Libro de Urantia_.
 {.is-info}
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Elders/Restated_in_modern_phraseology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reformulado en fraseología moderna</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-2-número-2-2000-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2, Número 2, 2000 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen_Zendt/I_Will_Tell_Them_A_Story">
+          <span class="pr-2">«Les contaré una historia»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

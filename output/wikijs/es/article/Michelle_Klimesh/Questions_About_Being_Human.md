@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Michelle Klimesh<br>© 2017 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dennis_Marshall/The_Shroud_of_Turin_and_The_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Sábana Santa de Turín y los Documentos de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-17-número-1-2017-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 17, Número 1, 2017 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Kantor/What_Does_The_Urantia_Book_Tell_Us_Needs_to_be_Accomplished">
+          <span class="pr-2">¿Qué nos dice el libro de Urantia que debe lograrse?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Abrí el atlas y pregunté,
 > «¿Dónde te duele?»   
@@ -90,3 +114,28 @@ _Este artículo es un reflejo escrito de una presentación dada a la Sociedad de
 > Michelle Klimesh, expresidenta de la Fraternidad, autora de La historia de todo, lee _El Libro de Urantia_ desde 1974. Es miembro y expresidenta del Golden Gate Circle; asiste a grupos de estudio en San Ramon y Walnut Creek; y reside alternativamente en San Ramon, California y Spillville, Iowa.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dennis_Marshall/The_Shroud_of_Turin_and_The_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Sábana Santa de Turín y los Documentos de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-17-número-1-2017-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 17, Número 1, 2017 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Kantor/What_Does_The_Urantia_Book_Tell_Us_Needs_to_be_Accomplished">
+          <span class="pr-2">¿Qué nos dice el libro de Urantia que debe lograrse?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

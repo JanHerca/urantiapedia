@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Gina Buselli<br>© 2006 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/Guardian_Angels">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ángeles de la guarda</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-7-número-1-2006-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7, Número 1, 2006 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Preston_Thomas/Prophecy_and_The_Urantia_Book">
+          <span class="pr-2">La profecía y El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Como una persona «joven» en la comunidad de Urantia, he hecho varias observaciones sobre su crecimiento a lo largo de los años, y he visto cómo se presentaba el libro a nuevas personas.
 
@@ -77,3 +101,27 @@ Por último, espero abrazar a otras personas que tal vez se sientan demasiado ma
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/Guardian_Angels">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ángeles de la guarda</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-7-número-1-2006-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7, Número 1, 2006 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Preston_Thomas/Prophecy_and_The_Urantia_Book">
+          <span class="pr-2">La profecía y El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

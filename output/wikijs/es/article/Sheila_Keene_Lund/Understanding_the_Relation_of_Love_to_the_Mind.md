@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Sheila Keene-Lund<br>© 2010 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Elders/The_Urantia_Book_Human_Concepts_and_Revelatory_Validation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia, conceptos humanos y validación reveladora</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-11-número-1-2010-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11, Número 1, 2010 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dave_Holt/Cosmic_Socialization_and_Planetary_Citizenship">
+          <span class="pr-2">Socialización Cósmica y Ciudadanía Planetaria</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En 1990, le pregunté a Ammachi, un gurú indio, si alguna vez sentiría devoción en mi vida. Su respuesta, «Ama a Dios porque solo Dios te ama de verdad», me catapultó a una montaña rusa espiritual que duró muchos años. Me llevó a descubrir _El Libro de Urantia_, a sentirme intrigado por él y luego rechazarlo, y luego volver a sus páginas en un desafío personal para detectar sus fallas y refutarlo. Pero las aventuras de la mente y el espíritu desencadenadas por mi búsqueda de devoción dieron como resultado la aceptación de la fe de una revelación de época y, finalmente, escribir un libro que reconcilia su mensaje sobrehumano con una amplia franja de conocimiento y creencias humanas.
 
@@ -72,6 +96,31 @@ La mente es la clave para alcanzar significados y valores espirituales nuevos y 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Elders/The_Urantia_Book_Human_Concepts_and_Revelatory_Validation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia, conceptos humanos y validación reveladora</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-11-número-1-2010-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11, Número 1, 2010 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dave_Holt/Cosmic_Socialization_and_Planetary_Citizenship">
+          <span class="pr-2">Socialización Cósmica y Ciudadanía Planetaria</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

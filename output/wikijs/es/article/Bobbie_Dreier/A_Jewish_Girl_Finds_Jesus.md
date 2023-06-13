@@ -9,6 +9,27 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Bobbie Dreier<br>© 2003 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-5-número-1-2003-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 1, 2003 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Steven_Hecht/Ruminations_on_Revelation">
+          <span class="pr-2">Reflexiones sobre la revelación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Este artículo es una adaptación de la presentación: dada en la ciudad de Oklahoma en agosto de 2001 y en Chicago, (¿Qué hace una linda chica judía como yo en un lugar como este?) en octubre de 2001._
 
@@ -64,3 +85,24 @@ Mi papá no tenía que preocuparse. Soy judío. Creer en la divinidad de Jesús 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-5-número-1-2003-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 1, 2003 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Steven_Hecht/Ruminations_on_Revelation">
+          <span class="pr-2">Reflexiones sobre la revelación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

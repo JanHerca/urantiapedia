@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Joshua J. Wilson<br>© 2017 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-17-número-1-2017-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 17, Número 1, 2017 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bruce_Jackson/A_Musical_Metaphor">
+          <span class="pr-2">Una metáfora musical</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Las cuatro estaciones del Movimiento Urantia hasta ahora
 
@@ -223,3 +244,24 @@ Podría ser un momento muy gratificante e incluso emocionante. Este, creo, es nu
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-17-número-1-2017-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 17, Número 1, 2017 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bruce_Jackson/A_Musical_Metaphor">
+          <span class="pr-2">Una metáfora musical</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

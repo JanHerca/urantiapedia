@@ -9,6 +9,30 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Finlan<br>© 2002 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Paul_Premsagar/Eugenics_and_The_Urantia_Book_Another_Perspective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La eugenesia y El libro de Urantia: otra perspectiva</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-4-número-1-2002-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4, Número 1, 2002 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sara_Blackstock/Faith_Wiring_in_the_Brain">
+          <span class="pr-2">Conexión de la fe en el cerebro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Matthew Block ha abierto una nueva era en la erudición de _El Libro de Urantia_ con su descubrimiento y documentación del uso de fuentes humanas. En su artículo más reciente ([_The Fellowship Herald_, verano de 2001](/es/article/Matthew_Block/A_Source_Study_Of_Instruction_For_Teachers_And_Believers)), detalla cómo se usó _Jesus and Ourselves_ de Weatherhead en la composición de «Instruction for Teachers and Believers». [[LU 159:3.1-14](/es/The_Urantia_Book/159#p3_1)]
 
@@ -57,3 +81,27 @@ Al utilizar autores como Weatherhead, _El Libro de Urantia_ ha salvado una gran 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Paul_Premsagar/Eugenics_and_The_Urantia_Book_Another_Perspective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La eugenesia y El libro de Urantia: otra perspectiva</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-4-número-1-2002-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4, Número 1, 2002 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sara_Blackstock/Faith_Wiring_in_the_Brain">
+          <span class="pr-2">Conexión de la fe en el cerebro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

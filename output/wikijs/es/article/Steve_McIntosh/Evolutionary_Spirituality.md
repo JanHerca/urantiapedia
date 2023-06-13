@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Steve McIntosh<br>© 2012 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/John_Creger/Souls_on_Purpose_The_Personal_Creed_Project">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Almas con Propósito: El Proyecto del Credo Personal y el Impulso Central</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-12-número-1-2012-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12, Número 1, 2012 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Israel_Dix/Urantia_606_of_Satania">
+          <span class="pr-2">Urantia, 606 de Satania</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La sesión de estudio de verano de 2012 contará con Steve McIntosh como orador principal. Su libro de 2007, Integral Consciousness and the Future of Evolution (Paragon House), así como su próximo libro, Evolution's Purpose: An Integral Interpretation of the Scientific Story of Our Origins (Select Books 2012), presentan una filosofía espiritual de la evolución que ha muchas afinidades con las enseñanzas de _El Libro de Urantia_. El siguiente es un extracto del Propósito de la evolución, que estará disponible el 14 de agosto de 2012. Este extracto es del capítulo final, titulado «La promesa de una nueva cosmovisión evolutiva». El capítulo en su conjunto describe los contornos de la perspectiva integral o evolutiva emergente, incluida la forma en que esta perspectiva se puede aplicar para el crecimiento personal y la acción política. Este breve extracto se centra en el componente espiritual de esta cosmovisión emergente. Tenga en cuenta que las palabras «tradicional», «modernista» y «posmoderno» se utilizan como términos definidos que describen los principales segmentos de población que componen la cultura del mundo desarrollado.
 
@@ -56,3 +80,27 @@ Y como la perspectiva evolutiva se esfuerza por discernir las enseñanzas espiri
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/John_Creger/Souls_on_Purpose_The_Personal_Creed_Project">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Almas con Propósito: El Proyecto del Credo Personal y el Impulso Central</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-12-número-1-2012-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12, Número 1, 2012 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Israel_Dix/Urantia_606_of_Satania">
+          <span class="pr-2">Urantia, 606 de Satania</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

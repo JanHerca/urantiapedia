@@ -9,6 +9,27 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Dave Holt<br>© 2011 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-11-número-2-2011-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11, Número 2, 2011 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/The_Power_of_The_Name_of_Jesus">
+          <span class="pr-2">El poder del nombre de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Las afirmaciones referentes a la cosmología nunca son inspiradas, pero estas revelaciones tienen un inmenso valor ya que al menos clarifican transitoriamente los conocimientos mediante: ... El restablecimiento de importantes fragmentos de conocimientos perdidos relacionados con acontecimientos históricos del pasado lejano ... [[LU 101:4.5-8](/es/The_Urantia_Book/101#p4_5)]
 
@@ -198,6 +219,28 @@ Los Hopi y otras tribus nativas americanas tienen una profecía más moderna que
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-11-número-2-2011-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11, Número 2, 2011 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/The_Power_of_The_Name_of_Jesus">
+          <span class="pr-2">El poder del nombre de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

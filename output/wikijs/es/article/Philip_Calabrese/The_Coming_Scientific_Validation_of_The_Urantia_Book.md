@@ -9,6 +9,27 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Dr. Philip Calabrese<br>© 2006 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Berkeley_Elliott/What_is_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué es la personalidad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-7-número-1-2006-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7, Número 1, 2006 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (La siguiente presentación se realizó en la Conferencia Internacional de la Fraternidad en Villanova en agosto de 2005).
 
@@ -601,6 +622,28 @@ Cada Espíritu Maestro tiene su propio superuniverso. Pertenecemos al séptimo s
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Berkeley_Elliott/What_is_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué es la personalidad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-7-número-1-2006-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7, Número 1, 2006 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

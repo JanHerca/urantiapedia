@@ -9,6 +9,30 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Sara Blackstock<br>© 2002 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Finlan/Revelatory_Mouthpiecing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Boquilla reveladora</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-4-número-1-2002-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4, Número 1, 2002 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Nancy_Johnson/In_Search_of_the_Error_So_Great">
+          <span class="pr-2">En busca del error tan grande</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (Nota del editor: este artículo es una adaptación de un taller impartido por Sara Blackstock en la Universidad de California en Santa Cruz durante la Sesión de estudio de verano de la beca de 2001).
 
@@ -122,3 +146,28 @@ Estas realidades no necesitan estudios con cuerdas e imanes para probarlas. Anne
 - Zohar, D. y Marshall, I. (2000). _Sq Conectando con Nuestra Inteligencia Espiritual_. Bloomsbury.
 
 > La criatura personal dotada de mente cósmica, habitada por el Ajustador, posee reconocimiento-realización innata de la realidad energética, la realidad mental y la realidad espiritual. \[[16:9.1](/es/The_Urantia_Book/16#p9_1)\]
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Finlan/Revelatory_Mouthpiecing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Boquilla reveladora</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-4-número-1-2002-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4, Número 1, 2002 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Nancy_Johnson/In_Search_of_the_Error_So_Great">
+          <span class="pr-2">En busca del error tan grande</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 David Glass<br>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Joshua_J_Wilson/Adoration_of_the_Mother">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Adoración de la Madre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-20-número-1-2020-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 20, Número 1, 2020 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Tom_Allen/Uversa_the_Future_Headquarters_of_God_the_Supreme">
+          <span class="pr-2">Uversa — El futuro Cuartel General del Ser Supremo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ¡Todas estas verdades serán válidas para cualquier día que HOY esté explorando el amor divino de Dios!
 
@@ -115,3 +139,27 @@ Tarde o temprano, todas las personalidades del universo comienzan a darse cuenta
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Joshua_J_Wilson/Adoration_of_the_Mother">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Adoración de la Madre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-20-número-1-2020-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 20, Número 1, 2020 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Tom_Allen/Uversa_the_Future_Headquarters_of_God_the_Supreme">
+          <span class="pr-2">Uversa — El futuro Cuartel General del Ser Supremo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

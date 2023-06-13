@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Richard Goodman<br>© 2014 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Glass/Origin_Nature_Ministry_and_Destiny_of_Thought_Adjusters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Origen, Naturaleza, Ministerio y Destino de los Ajustadores del Pensamiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-14-número-1-2014-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 14, Número 1, 2014 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Linda_Buselli/Prayer_Why_Bother">
+          <span class="pr-2">¿La oración? ¿Por qué molestarse?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Lo siguiente fue presentado el 17 de mayo de 2014, en la Mini-Conferencia de la Primera Sociedad en Chicago. _
 
@@ -56,3 +80,27 @@ El gran comediante y pionero del sarcasmo cinematográfico, Groucho Marx, se hiz
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Glass/Origin_Nature_Ministry_and_Destiny_of_Thought_Adjusters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Origen, Naturaleza, Ministerio y Destino de los Ajustadores del Pensamiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-14-número-1-2014-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 14, Número 1, 2014 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Linda_Buselli/Prayer_Why_Bother">
+          <span class="pr-2">¿La oración? ¿Por qué molestarse?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Dave Holt<br>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Lawrence_J_Bowman/Avi_Dogim_Emilio_Coppola_and_Steve_Dreier">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Emilio Coppola, Avi Dogim, Steve Dreier</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-20-número-1-2020-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 20, Número 1, 2020 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Michael_Hill/Growing_the_Supreme">
+          <span class="pr-2">Cultivando lo Supremo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ¿Cómo ponemos en nuestras mentes que el Dios absoluto e inmutable también puede ser un Dios que crece y evoluciona, que se manifiesta de nuevas maneras? En conversaciones con mi primo católico, tuvo muchos problemas para unificar estas ideas aparentemente contradictorias de la Deidad, por no decir que yo no lo hice. Podemos hacerlo si comenzamos a aceptar la idea fundamental de que no solo la vida continúa evolucionando, sino que Dios también está evolucionando para satisfacer las necesidades provocadas por los cambios en la tierra, el universo y las transformaciones iniciadas por los seres humanos. Por eso _El Libro de Urantia_ (La UB) nos ofrece su nueva visión, una revelación de un Ser Supremo. «La acción, la consumación de las decisiones, es esencial para alcanzar ... la conciencia del parentesco progresivo con ... el Ser Supremo». [LU 110:6.17](/es/The_Urantia_Book/110#p6_17)
 
@@ -41,3 +65,27 @@ Nosotros, como artistas, músicos, escritores y otros que buscan revelar al Supr
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Lawrence_J_Bowman/Avi_Dogim_Emilio_Coppola_and_Steve_Dreier">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Emilio Coppola, Avi Dogim, Steve Dreier</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-20-número-1-2020-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 20, Número 1, 2020 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Michael_Hill/Growing_the_Supreme">
+          <span class="pr-2">Cultivando lo Supremo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

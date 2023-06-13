@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Charles Laurence Olivea<br>© 2015 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_S_Sadler_Jr/Destiny_of_the_Master_Michaels">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Destino de los Migueles Maestros</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-15-número-1-2015-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 15, Número 1, 2015 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Kantor/Is_The_Urantia_Book_a_Sacred_Text">
+          <span class="pr-2">¿Es El libro de Urantia un texto sagrado?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Prefacio
 
@@ -144,3 +168,27 @@ La verdad, la belleza y la bondad aún prevalecerán.
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_S_Sadler_Jr/Destiny_of_the_Master_Michaels">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Destino de los Migueles Maestros</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-15-número-1-2015-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 15, Número 1, 2015 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Kantor/Is_The_Urantia_Book_a_Sacred_Text">
+          <span class="pr-2">¿Es El libro de Urantia un texto sagrado?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

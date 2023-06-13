@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 James Perry<br>© 2018 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Preston_Thomas/The_New_Teacher_Leaders">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El nuevo maestro/líderes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-18-número-1-2018-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 18, Número 1, 2018 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Yvon_Gagne/The_Supreme_Being_in_My_Life">
+          <span class="pr-2">El ser supremo en mi vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Marion y yo nos gustaría compartir algunas ideas sobre el matrimonio que hemos descubierto después de 52 años de vivir juntos. Esperamos que estas ideas lo inspiren al comenzar su vida de casado. La ceremonia de la boda, con todos sus preparativos y con familiares y amigos reunidos para celebrar, es el comienzo de vuestra vida juntos.
 
@@ -38,3 +62,27 @@ Reggie y Sherry, ¿quieren tener un matrimonio inquebrantable e inquebrantable? 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Preston_Thomas/The_New_Teacher_Leaders">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El nuevo maestro/líderes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-18-número-1-2018-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 18, Número 1, 2018 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Yvon_Gagne/The_Supreme_Being_in_My_Life">
+          <span class="pr-2">El ser supremo en mi vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 David Nash (see note at footpage)<br>© 2009 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Glass/The_Limitless_Spectrum_of_Education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El espectro ilimitado de la educación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-10-número-1-2009-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10, Número 1, 2009 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Linda_Buselli/Our_Creative_Deities_A_Supreme_Relationship">
+          <span class="pr-2">Nuestras deidades creativas: una relación suprema</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Si es la primera vez que conoce Urantia-University, le damos la bienvenida y le animamos a que visite www.urantiauniversity.org. O lea el manual de la Universidad de Urantia que se encuentra en el sitio web para comprender mejor los objetivos, las directivas y la visión al proporcionar una base para crear eruditos y emisarios de las enseñanzas reveladoras de _El Libro de Urantia_.
 
@@ -79,3 +103,27 @@ Los maestros de los tres niveles rotarán a otros documentos/grupos de documento
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Glass/The_Limitless_Spectrum_of_Education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El espectro ilimitado de la educación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-10-número-1-2009-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10, Número 1, 2009 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Linda_Buselli/Our_Creative_Deities_A_Supreme_Relationship">
+          <span class="pr-2">Nuestras deidades creativas: una relación suprema</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

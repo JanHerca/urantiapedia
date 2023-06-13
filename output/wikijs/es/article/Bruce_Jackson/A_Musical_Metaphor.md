@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Dr. Bruce Jackson<br>© 2017 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Joshua_J_Wilson/Urantia_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Primavera de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-17-número-1-2017-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 17, Número 1, 2017 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/The_Temple_Of_Spiritual_Brotherhood_and_the_Greater_Meaning_Of_Study_Groups">
+          <span class="pr-2">El templo de la fraternidad espiritual y el mayor significado de los grupos de estudio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ¿Qué pasaría si me presentara ante una asamblea de lectores de _El Libro de Urantia_ y afirmara que podría sacarnos de la oscuridad y convertir nuestra revelación en una nueva religión mundial? Estoy seguro de que educadamente pero rápidamente me mostrarían la puerta. Hace unos 200 años nos habríamos convertido en mormones. ¿Lo que ha sucedido?
 
@@ -76,3 +100,27 @@ Aunque esta metáfora musical sugiere cómo el movimiento Urantia puede transfor
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Joshua_J_Wilson/Urantia_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Primavera de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-17-número-1-2017-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 17, Número 1, 2017 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/The_Temple_Of_Spiritual_Brotherhood_and_the_Greater_Meaning_Of_Study_Groups">
+          <span class="pr-2">El templo de la fraternidad espiritual y el mayor significado de los grupos de estudio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

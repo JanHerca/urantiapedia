@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Richard Daunt<br>© 2014 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bob_Debold/Pursuing_Supremacy_How_Might_the_Master_Seraphim_and_Human_Beings_Collaborate">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En busca de la supremacía: ¿Cómo podrían colaborar los maestros Serafines y los seres humanos?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-14-número-1-2014-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 14, Número 1, 2014 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Glass/Origin_Nature_Ministry_and_Destiny_of_Thought_Adjusters">
+          <span class="pr-2">Origen, Naturaleza, Ministerio y Destino de los Ajustadores del Pensamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Presentado en _The Urantia Book_ Society of Greater New York, 28 de septiembre de 1913
 
@@ -122,3 +146,27 @@ También es necesario tener en cuenta los cambios en los idiomas distintos del i
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bob_Debold/Pursuing_Supremacy_How_Might_the_Master_Seraphim_and_Human_Beings_Collaborate">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En busca de la supremacía: ¿Cómo podrían colaborar los maestros Serafines y los seres humanos?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-14-número-1-2014-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 14, Número 1, 2014 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Glass/Origin_Nature_Ministry_and_Destiny_of_Thought_Adjusters">
+          <span class="pr-2">Origen, Naturaleza, Ministerio y Destino de los Ajustadores del Pensamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

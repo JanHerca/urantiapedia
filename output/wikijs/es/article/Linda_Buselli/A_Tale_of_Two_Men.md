@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Linda Buselli<br>© 2018 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dennis_Marshall/I_Brother_The_Urantia_Papers_and_Issues_of_Race">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Yo, hermano - Los documentos de Urantia y cuestiones de raza</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-18-número-1-2018-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 18, Número 1, 2018 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Derek_Samaras/Akhenaten">
+          <span class="pr-2">Akenatón</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Lo siguiente fue presentado como un discurso plenario en la Sesión de Estudio de Verano 2015._
 
@@ -104,3 +128,27 @@ Puedo sentir lo que enseña la fe; Puedo sentir lo que ve la fe. Esto por supues
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dennis_Marshall/I_Brother_The_Urantia_Papers_and_Issues_of_Race">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Yo, hermano - Los documentos de Urantia y cuestiones de raza</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-18-número-1-2018-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 18, Número 1, 2018 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Derek_Samaras/Akhenaten">
+          <span class="pr-2">Akenatón</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

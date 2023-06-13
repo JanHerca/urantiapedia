@@ -9,6 +9,27 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Karen Lee Larsen<br>© 2002 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Byron_Belitsos/Religious_Practice_and_the_Urantia_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La práctica religiosa y la revelación de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-4-número-1-2002-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4, Número 1, 2002 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _El Libro de Urantia_ nos enseña que el libre albedrío es uno de los mayores dones que el Padre ha dado a todas sus criaturas. «_Ningún otro ser, ninguna fuerza, ningún creador o agente en todo el extenso universo de universos puede interferir en ninguna medida en la soberanía absoluta del libre albedrío humano, tal como éste funciona dentro del campo de la elección, en lo referente al destino eterno de la personalidad del mortal que escoge. En lo que concierne a la supervivencia eterna, Dios ha decretado que la voluntad material y humana es soberana, y este decreto es absoluto._» [[LU 5:6.8](/es/The_Urantia_Book/5#p6_8)]
 
@@ -62,3 +83,24 @@ Para terminar, ofrezco las ideas de Jesús sobre la madurez y el crecimiento:
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Byron_Belitsos/Religious_Practice_and_the_Urantia_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La práctica religiosa y la revelación de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-4-número-1-2002-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4, Número 1, 2002 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

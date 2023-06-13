@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Gary Deinstadt<br>© 2016 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Paula_Thompson/Why_Should_You_Support_a_Urantia_Organization">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Por qué debería apoyar a una organización de Urantia como The Urantia Book Fellowship?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-16-número-1-2016-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 16, Número 1, 2016 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Byron_Belitsos/The_Nature_of_Personal_Reality">
+          <span class="pr-2">La naturaleza de la realidad de la personalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Me invitaron a hablar sobre _El Libro de Urantia_ en un servicio interreligioso que una iglesia cristiana local suele programar el tercer domingo de cada mes. Conozco bien a estas personas, porque he trabajado con ellos en otros esfuerzos interreligiosos. Los participantes involucrados provienen de diversos orígenes religiosos, incluido el clero. Recientemente crearon una serie de altavoces. Además del orador invitado, hay un equipo interreligioso de aproximadamente cinco personas, cada una de las cuales contribuye con una charla de cinco minutos relacionada con el tema de los oradores.
 
@@ -52,3 +76,27 @@ Entonces, de esta experiencia aprendí:
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Paula_Thompson/Why_Should_You_Support_a_Urantia_Organization">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Por qué debería apoyar a una organización de Urantia como The Urantia Book Fellowship?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-16-número-1-2016-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 16, Número 1, 2016 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Byron_Belitsos/The_Nature_of_Personal_Reality">
+          <span class="pr-2">La naturaleza de la realidad de la personalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

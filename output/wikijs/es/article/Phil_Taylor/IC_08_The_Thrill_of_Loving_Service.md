@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Phil Taylor<br>© 2007 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Archangels_Agents_of_Epochal_Change">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Arcángeles - Agentes del cambio de época</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-8-número-1-2007-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8, Número 1, 2007 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Philip_Calabrese/Update_The_Coming_Scientific_Validation">
+          <span class="pr-2">Actualización del año 2006 sobre la próxima validación científica del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > He vivido mi vida en la carne para mostraros cómo podéis ser, a través del servicio amoroso, una revelación de Dios para vuestros semejantes, al igual que yo he sido, amándoos y sirviéndoos, una revelación de Dios para vosotros. ... Amad a todos los hombres como yo os he amado; servid a vuestros compañeros mortales como yo os he servido. ... [[LU 193:0.5](/es/The_Urantia_Book/193#p0_5)]
 
@@ -71,3 +95,27 @@ El objetivo de esta última etapa de la programación es mejorar y expandir nues
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Archangels_Agents_of_Epochal_Change">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Arcángeles - Agentes del cambio de época</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-8-número-1-2007-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8, Número 1, 2007 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Philip_Calabrese/Update_The_Coming_Scientific_Validation">
+          <span class="pr-2">Actualización del año 2006 sobre la próxima validación científica del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

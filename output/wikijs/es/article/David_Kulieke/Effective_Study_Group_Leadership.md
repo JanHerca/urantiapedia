@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 David Kulieke<br>© 2015 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-15-número-1-2015-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 15, Número 1, 2015 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dave_Holt/Can_We_Have_a_Universal_Standard_of_Morality">
+          <span class="pr-2">¿Podemos tener un estándar universal de moralidad?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _El siguiente discurso se pronunció en el Simposio del Grupo de Estudio de la UAI, del 11 al 15 de junio de 2014 en Madison, WI._
 
@@ -185,3 +206,24 @@ Los grupos de estudio son lugares muy, muy importantes y los anfitriones de los 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-15-número-1-2015-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 15, Número 1, 2015 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dave_Holt/Can_We_Have_a_Universal_Standard_of_Morality">
+          <span class="pr-2">¿Podemos tener un estándar universal de moralidad?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

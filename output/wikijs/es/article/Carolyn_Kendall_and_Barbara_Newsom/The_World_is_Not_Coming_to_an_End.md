@@ -9,6 +9,27 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Carolyn Kendall and Barbara Newsom<br>© 2010 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-11-número-1-2010-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11, Número 1, 2010 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Authority">
+          <span class="pr-2">Religión de la experiencia versus religión de la autoridad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Presentado por Carolyn Kendall y Barbara Newsom, 11 de abril de 2010, Schaumburg, Illinois _
 
@@ -132,3 +153,24 @@ Muchos de nuestros congéneres están buscando algo más allá de sí mismos par
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-11-número-1-2010-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11, Número 1, 2010 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Authority">
+          <span class="pr-2">Religión de la experiencia versus religión de la autoridad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

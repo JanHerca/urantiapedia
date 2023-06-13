@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Richard Guevara<br>© 2009 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Seubert/A_Lesson_from_a_Mouse">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una lección de un ratón</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-10-número-1-2009-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10, Número 1, 2009 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Kantor/Becoming_an_Effective_Missionary_Evangel">
+          <span class="pr-2">Convirtiéndonos en un evangelista misionero eficaz</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El tercer círculo cósmico es importante para los lectores de _El Libro de Urantia_. Así como se usa una piedra de toque para determinar la pureza del oro, este círculo de logros encierra una mística similar para los lectores del Libro de Urantia. Es en este círculo donde los ascendentes reciben beneficios adicionales. Es en este círculo, alcanzable mientras aún está en la carne, que la mayor capacidad espiritual comienza a manifestarse.
 
@@ -190,3 +214,27 @@ Las deidades del Paraíso han creado un Universo Maestro que responde a nuestras
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Seubert/A_Lesson_from_a_Mouse">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una lección de un ratón</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-10-número-1-2009-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10, Número 1, 2009 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Kantor/Becoming_an_Effective_Missionary_Evangel">
+          <span class="pr-2">Convirtiéndonos en un evangelista misionero eficaz</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Lawrence J. Bowman<br>© 2016 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sara_Blackstock/Listen_Up_Grandparents_and_YaYAs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Escuchen a los abuelos y las YaYAs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-16-número-1-2016-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 16, Número 1, 2016 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kermit_Anderson/Thoughts_on_the_Bestowals_of_Personality_and_the_Thought_Adjuster">
+          <span class="pr-2">Pensamientos sobre los otorgamientos de la personalidad y el Ajustador del pensamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Considere los siguientes pasajes de _El Libro de Urantia_:
 
@@ -242,6 +266,31 @@ c49 | El choque de Pedro con Pablo en Antioquía
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sara_Blackstock/Listen_Up_Grandparents_and_YaYAs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Escuchen a los abuelos y las YaYAs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-16-número-1-2016-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 16, Número 1, 2016 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kermit_Anderson/Thoughts_on_the_Bestowals_of_Personality_and_the_Thought_Adjuster">
+          <span class="pr-2">Pensamientos sobre los otorgamientos de la personalidad y el Ajustador del pensamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

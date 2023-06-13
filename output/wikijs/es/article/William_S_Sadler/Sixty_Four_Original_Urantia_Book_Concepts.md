@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1950 Dr. William Sadler<br>© 2015 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Kantor/Is_The_Urantia_Book_a_Sacred_Text">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Es El libro de Urantia un texto sagrado?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-15-número-1-2015-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 15, Número 1, 2015 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Lawrence_Schkade/Society_Evolving_Chaos_Progress_and_Order">
+          <span class="pr-2">Sociedad en evolución: caos, progreso y orden</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En este artículo publicado informalmente, el Dr. William Sadler describe 64 conceptos de conocimiento que describe como originales en _El Libro de Urantia_ basándose en su propia comprensión e investigación. No se conoce la fecha de su elaboración pero se especula que fue redactado a mediados del siglo XX.
 
@@ -143,3 +167,27 @@ En este artículo publicado informalmente, el Dr. William Sadler describe 64 con
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Kantor/Is_The_Urantia_Book_a_Sacred_Text">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Es El libro de Urantia un texto sagrado?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-15-número-1-2015-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 15, Número 1, 2015 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Lawrence_Schkade/Society_Evolving_Chaos_Progress_and_Order">
+          <span class="pr-2">Sociedad en evolución: caos, progreso y orden</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

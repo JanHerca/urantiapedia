@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Preston Thomas<br>© 2015 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Lawrence_Schkade/Society_Evolving_Chaos_Progress_and_Order">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sociedad en evolución: caos, progreso y orden</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-15-número-1-2015-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 15, Número 1, 2015 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Me gustaría comenzar pidiéndole que considere una pregunta que los estudiantes de la revelación de Urantia a menudo ignoran:
 
@@ -182,3 +203,24 @@ Enseña el camino de Jesús: Cuando hayas aprendido y estés viviendo el camino 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Lawrence_Schkade/Society_Evolving_Chaos_Progress_and_Order">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sociedad en evolución: caos, progreso y orden</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-15-número-1-2015-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 15, Número 1, 2015 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

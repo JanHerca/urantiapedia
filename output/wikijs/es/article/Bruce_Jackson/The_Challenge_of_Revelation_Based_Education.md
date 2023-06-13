@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Dr. Bruce R. Jackson<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rabia_Harris/Urantia_Book_A_Spiritual_Path">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia, un camino espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-19-número-1-2019-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 19, Número 1, 2019 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Kantor/Mobilizing_a_Dispensation_of_Planetary_Rehabilitation">
+          <span class="pr-2">Movilizando una Dispensación de Rehabilitación Planetaria</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Reconocer el cambio de instrucción necesario para la educación basada en la revelación que empodera el crecimiento morontiano de los jesusonianos y fomenta la unidad espiritual y la diversidad humana del Movimiento Urantia.
 
@@ -78,3 +102,27 @@ En nuestro entusiasmo por desarrollar la experiencia espiritual en nuestra educa
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rabia_Harris/Urantia_Book_A_Spiritual_Path">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia, un camino espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-19-número-1-2019-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 19, Número 1, 2019 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Kantor/Mobilizing_a_Dispensation_of_Planetary_Rehabilitation">
+          <span class="pr-2">Movilizando una Dispensación de Rehabilitación Planetaria</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Philip Calabrese<br>© 2002 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-4-número-1-2002-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4, Número 1, 2002 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marvin_Gawryn/Centering_A_Method_of_Divine_Embrace">
+          <span class="pr-2">Centrar: un método de abrazo divino</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Prefacio: Mi tema para estas reflexiones son las reacciones personales y sociales de los lectores a _El Libro de Urantia_, y especialmente a la cosmología de _El Libro de Urantia_. Permítanme comenzar con mi propia experiencia.
 
@@ -161,3 +182,24 @@ Hay ciencia por descubrir, cosmología por proponer y emocionantes eventos por e
 ## Notas
 
 [^1] JS Bell 1964 _Sobre la paradoja de Einstein-Podolsky-Rosen_. Física 1 195-200; Andrew Steane 1997 Quantum Computing, Universidad de Oxford Clarendon Laboratory, 1-65; RY Chiao, PG Kwiat. y AM Steinberg 1995 Quantum NonLocality in Two-Photon Experiments at Berkeley, 1-16; A. Zeilinger, abril de 2000 Quantum Teleportation, Scientific American, 50-59.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-4-número-1-2002-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4, Número 1, 2002 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marvin_Gawryn/Centering_A_Method_of_Divine_Embrace">
+          <span class="pr-2">Centrar: un método de abrazo divino</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

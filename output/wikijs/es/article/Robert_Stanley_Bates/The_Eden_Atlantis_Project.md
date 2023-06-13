@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Comodoro Robert Stanley Bates, Marina Mercante de los Estados Unidos<br>© 2018 The Urantia Book Fellowship<br>© 2018 Batek Marine Publishing </p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Yvon_Gagne/The_Supreme_Being_in_My_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El ser supremo en mi vida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-18-número-1-2018-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 18, Número 1, 2018 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El relato legendario de Platón sobre una civilización en una isla hundida que llamó Atlantis, o lo que algunos llaman Edén, ha fascinado a los aventureros durante siglos. Pero la búsqueda arqueológica sofisticada de esta cultura perdida tuvo que esperar a nuestro tiempo, con su tecnología digital y capacidades avanzadas de investigación submarina.
 
@@ -340,3 +361,25 @@ Los planes para la tercera expedición incluyen muchos estudios adicionales de b
 
 > **_Comodoro Robert Stanley Bates_** , (USMM), BS, MS El comodoro Bates se graduó en 1960 de la Academia de la Guardia Costera de los Estados Unidos y sirvió los siguientes 22 años como oficial de carrera que incluyó una gira en Vietnam. En 1969, obtuvo una maestría en matemáticas en la Universidad de Rhode Island. Al retirarse de la Guardia Costera en 1982, obtuvo su licencia de maestría ilimitada y comenzó una segunda carrera en la Marina Mercante de EE. UU. . Participó en la Guerra Fría como capitán de buques de vigilancia oceánica y capitán de un barco de inspección durante la Operación Tormenta del Desierto en el Golfo Pérsico. Durante los siguientes nueve años, se desempeñó como capitán a bordo del R/V ENDEAVOR de la Universidad de Rhode Island y del Instituto Oceanográfico Woods Hole R/V OCEANUS para numerosos proyectos submarinos. Entre giras en el mar, sirvió en la facultad adjunta en la Universidad de Connecticut, Campus Avery Point, la Academia de la Guardia Costera de los Estados Unidos y el Centro STAR en Florida. En 2004, fue el líder de la expedición al presunto sitio de la Atlántida en la costa de Chipre. En 2006 fue consultor de _The History Channel_ para la segunda expedición. Desde 1988 es autor de numerosos artículos en diversas publicaciones periódicas. En 1995, fundó Batek Marine, una firma de consultoría marítima. En 2011, publicó el libro: _The Authority to Sail: The History of US Maritime Licenses and Documents_. Para obtener más información sobre su trabajo en el Proyecto Eden-Atlantis, visite: http://edenatlantisproject.org/.
 {.is-info}
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Yvon_Gagne/The_Supreme_Being_in_My_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El ser supremo en mi vida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-18-número-1-2018-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 18, Número 1, 2018 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

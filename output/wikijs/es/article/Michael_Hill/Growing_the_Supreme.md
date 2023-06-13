@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Michael Hill<br>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dave_Holt/From_the_Supreme_to_the_Three_Persond_God_Seven_Levels_of_Total_Deity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Del Supremo al Dios de las Tres Personas: Siete Niveles de Deidad Total</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-20-número-1-2020-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 20, Número 1, 2020 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Joshua_J_Wilson/Adoration_of_the_Mother">
+          <span class="pr-2">Adoración de la Madre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (De una presentación realizada en la reunión de UCNOW de 2018 en el lago Wallowa por Michael Hill) Para obtener más información sobre Urantian Communities Northwest, consulte https://www.ucnow.net/
 
@@ -88,3 +112,27 @@ Las relaciones son los hilos del telar del tiempo que tejen el tapiz que es el S
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dave_Holt/From_the_Supreme_to_the_Three_Persond_God_Seven_Levels_of_Total_Deity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Del Supremo al Dios de las Tres Personas: Siete Niveles de Deidad Total</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-20-número-1-2020-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 20, Número 1, 2020 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Joshua_J_Wilson/Adoration_of_the_Mother">
+          <span class="pr-2">Adoración de la Madre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Byron Belitsos<br>© 2018 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rick_Lyon/Survival_of_the_Subnormal_Mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Supervivencia de la mente subnormal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-18-número-1-2018-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 18, Número 1, 2018 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dennis_Marshall/I_Brother_The_Urantia_Papers_and_Issues_of_Race">
+          <span class="pr-2">Yo, hermano - Los documentos de Urantia y cuestiones de raza</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Un caluroso y húmedo día de verano de 1962 en los suburbios de Cincinnati, estaba jugando sin rumbo fijo en la piscina de nuestro vecindario como cualquier otro niño de nueve años. En un momento, salté al lado de la piscina de los niños, o eso pensé. En lugar de tocar suavemente el fondo, de repente me perdí en diez pies de agua. Me sorprendió tanto la profundidad que empecé a sentir pánico, porque aún no había aprendido a nadar. Luché y me agité, frenética por orientarme. En un instante, el tiempo se ralentizó cuando entré en un lugar de puro terror. Y luego crucé a un estado paranormal atemporal. Pero antes de que pudiera inhalar un trago de agua, un salvavidas vigilante me liberó.
 
@@ -42,3 +66,27 @@ Se nos enseña que las situaciones más potentes para sintetizar el alma son aqu
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rick_Lyon/Survival_of_the_Subnormal_Mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Supervivencia de la mente subnormal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-18-número-1-2018-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 18, Número 1, 2018 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dennis_Marshall/I_Brother_The_Urantia_Papers_and_Issues_of_Race">
+          <span class="pr-2">Yo, hermano - Los documentos de Urantia y cuestiones de raza</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

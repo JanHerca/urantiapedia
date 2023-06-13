@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 JJ Johnson<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Schuer/Gems_of_Wisdom_by_Father_Robert_Schuer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gemas de sabiduría del pater Robert Schuer</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-19-número-1-2019-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 19, Número 1, 2019 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Derek_Samaras/Ancient_Japan_Jomon_Culture">
+          <span class="pr-2">El Japón antiguo: la Cultura Jōmon</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Introducción
 
@@ -211,6 +235,31 @@ Habéis recibido gratis, dad gratis... JJ Johnson _Urantia Book_ referencias uti
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Schuer/Gems_of_Wisdom_by_Father_Robert_Schuer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gemas de sabiduría del pater Robert Schuer</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-19-número-1-2019-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 19, Número 1, 2019 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Derek_Samaras/Ancient_Japan_Jomon_Culture">
+          <span class="pr-2">El Japón antiguo: la Cultura Jōmon</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

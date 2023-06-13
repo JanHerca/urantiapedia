@@ -9,6 +9,30 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Sara Blackstock<br>© 2000 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stephen_Zendt/I_Will_Tell_Them_A_Story">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Les contaré una historia»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-2-número-2-2000-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2, Número 2, 2000 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/The_Ethics_of_Genetic_Control_and_Social_Engineering">
+          <span class="pr-2">La ética del control genético y la ingeniería social</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La crianza de los hijos siempre ha sido una extraña mezcla de tradición y mito (que a menudo no es diferente al azar). Los padres se esfuerzan por expresar una de las emociones más poderosas y arraigadas, el amor de los padres, a sus hijos ya través de ellos. Aquí estamos, miles y miles de libros y métodos más tarde, y miles de millones de consejos de abuelos y otros familiares y amigos bien intencionados, todavía confundidos acerca de cómo «hacer» este trabajo tan difícil, que, cuando se hace bien trae gran alegría y satisfacción. Contribuye al bienestar de la familia y la comunidad, y cuando parece que no funciona bien, trae culpa y grandes pruebas a la familia y la comunidad.
 
@@ -56,3 +80,27 @@ No soy un científico. Solo trabajo con cientos de niños al día y lo he hecho 
 
 > Sara Blackstock ha trabajado con niños la mayor parte de su vida. Actualmente, es directora de una gran guardería y su trabajo para el movimiento Urantia gira en torno a su interés por las familias y los niños. Sara tiene un hijo mayor que se crió con _El Libro de Urantia_. Se dedica a encender la chispa de Dios en los niños y jóvenes.
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stephen_Zendt/I_Will_Tell_Them_A_Story">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Les contaré una historia»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-2-número-2-2000-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2, Número 2, 2000 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/The_Ethics_of_Genetic_Control_and_Social_Engineering">
+          <span class="pr-2">La ética del control genético y la ingeniería social</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

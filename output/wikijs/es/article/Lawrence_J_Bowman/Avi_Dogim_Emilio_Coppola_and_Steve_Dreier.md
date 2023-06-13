@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Larry Bowman<br>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-20-número-1-2020-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 20, Número 1, 2020 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dave_Holt/From_the_Supreme_to_the_Three_Persond_God_Seven_Levels_of_Total_Deity">
+          <span class="pr-2">Del Supremo al Dios de las Tres Personas: Siete Niveles de Deidad Total</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En los 65 años de historia de Urantia Brotherhood/ Urantia Book Fellowship, probablemente solo hubo una vez en la que el Consejo General perdió a tres de sus miembros por muerte en un lapso de tiempo muy corto. Ese momento ocurrió desde finales de 2019 hasta principios de abril de 2020, con el fallecimiento de Emilio Coppola, Avi Dogim y Stephen Dreier.
 
@@ -57,3 +78,24 @@ En la portada de este número de Fellowship _Herald_ , Stephen Sawyer ha creado 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-20-número-1-2020-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 20, Número 1, 2020 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dave_Holt/From_the_Supreme_to_the_Three_Persond_God_Seven_Levels_of_Total_Deity">
+          <span class="pr-2">Del Supremo al Dios de las Tres Personas: Siete Niveles de Deidad Total</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

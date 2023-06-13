@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1950 William Sadler, Jr.<br>© 2017 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/The_Temple_Of_Spiritual_Brotherhood_and_the_Greater_Meaning_Of_Study_Groups">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El templo de la fraternidad espiritual y el mayor significado de los grupos de estudio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-17-número-1-2017-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 17, Número 1, 2017 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Michael_Painter/What_is_Interfaith">
+          <span class="pr-2">¿Qué es la interreligiosidad?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Transcripción de una grabación de Bill Sadler en un grupo de estudio_
 
@@ -87,3 +111,27 @@ Es un número mucho más grande. Entonces, cuando razono aquí que los siete sup
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/The_Temple_Of_Spiritual_Brotherhood_and_the_Greater_Meaning_Of_Study_Groups">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El templo de la fraternidad espiritual y el mayor significado de los grupos de estudio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-17-número-1-2017-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 17, Número 1, 2017 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Michael_Painter/What_is_Interfaith">
+          <span class="pr-2">¿Qué es la interreligiosidad?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

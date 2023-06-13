@@ -9,6 +9,30 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Linda Buselli<br>© 1999 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeanne_Melchior/Whither_Goest_Thou_Woman">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Adónde vas, mujer?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-1-número-2-1999-primavera">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, 1999 (Primavera) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen/On_removing_the_barrier_to_discussion_of_eugenics">
+          <span class="pr-2">Sobre la eliminación de la barrera a una discusión civilizada de la eugenesia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 De todos los enigmas que nos presenta _El Libro de Urantia_, uno de los más desconcertantes para mí siempre ha sido el de los siete círculos psíquicos. Solo a tres de ellos se les da alguna definición y, sin embargo, debemos alcanzar estas etapas de logro espiritual en preparación para la fusión con el Ajustador. Acepté esta falta de diferenciación entre estos círculos porque el libro establece claramente que son diferentes para cada individuo. Sin embargo, he encontrado una forma posible de darles forma en el trabajo de la autora más vendida, Caroline Myss, Ph.D.
 
@@ -56,3 +80,27 @@ No podemos encontrar un mejor ejemplo de progresión humana a través de los cí
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeanne_Melchior/Whither_Goest_Thou_Woman">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Adónde vas, mujer?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-1-número-2-1999-primavera">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, 1999 (Primavera) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen/On_removing_the_barrier_to_discussion_of_eugenics">
+          <span class="pr-2">Sobre la eliminación de la barrera a una discusión civilizada de la eugenesia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

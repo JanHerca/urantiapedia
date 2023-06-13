@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Preston Thomas<br>© 2018 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Derek_Samaras/Akhenaten">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Akenatón</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-18-número-1-2018-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 18, Número 1, 2018 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Perry/Unsinkable_and_Unbreakable">
+          <span class="pr-2">Insumergible e irrompible</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Nota: Las notas del apéndice se refieren al libro de Preston Thomas _La vida y las enseñanzas de Jesús_  
 
@@ -310,3 +334,27 @@ Así que seamos nosotros quienes cumplamos la profecía de El Libro de Urantia d
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Derek_Samaras/Akhenaten">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Akenatón</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-18-número-1-2018-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 18, Número 1, 2018 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/James_Perry/Unsinkable_and_Unbreakable">
+          <span class="pr-2">Insumergible e irrompible</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

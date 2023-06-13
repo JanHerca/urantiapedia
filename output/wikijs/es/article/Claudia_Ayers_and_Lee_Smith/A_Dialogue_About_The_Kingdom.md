@@ -9,6 +9,27 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Claudia Ayers and Lee Smith<br>© 2003 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Origin_of_the_Spiritual_Fellowship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Origen de la Fraternidad Espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-5-número-1-2003-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 1, 2003 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «La duda es un dolor demasiado solitario para saber que la fe es su hermano».
 > Kahlil Gibran, _El Profeta_
@@ -67,6 +88,28 @@ Los reinos humanos están desapareciendo del planeta, pero esperamos y rezamos p
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Origin_of_the_Spiritual_Fellowship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Origen de la Fraternidad Espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-5-número-1-2003-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 1, 2003 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

@@ -9,6 +9,27 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Carolyn Kendall<br>© 1998 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-1-número-1-1998-otoño">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 1, 1998 (Otoño) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Richard_S_Omura/Let_our_Soul_Decide">
+          <span class="pr-2">Deja que tu alma decida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > *El siguiente artículo se basa en gran medida en los recuerdos de Carolyn Kendall, miembro del Foro de 1951 a 1956. Otros familiarizados con los eventos que se describen a continuación, pueden recordar las cosas de manera diferente. Se invita a los lectores a comentar o agregar sus propios recuerdos de estos eventos escribiendo a The Fellowship Herald.*
 {.is-info}
@@ -362,3 +383,24 @@ El siguiente artículo destaca la preocupación que a veces se expresa sobre có
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-1-número-1-1998-otoño">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 1, 1998 (Otoño) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Richard_S_Omura/Let_our_Soul_Decide">
+          <span class="pr-2">Deja que tu alma decida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

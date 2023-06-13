@@ -9,6 +9,27 @@ dateCreated: 2023-02-09T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Charles Laurence Olivea<br>© 2005 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-6-número-1-2005-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6, Número 1, 2005 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Peter_Holley/The_New_Revelation_of_the_Living_Jesus">
+          <span class="pr-2">La Nueva Revelación del Jesús Viviente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Muy probablemente, nuestro movimiento continuará descentralizándose en muchas formas mientras el mundo experimenta sus vicisitudes nacionales y planetarias. Sin duda habrá un aumento en el número de experimentos sobre la mejor manera de difundir _El Libro de Urantia_ y sus enseñanzas en diferentes niveles. Los mejores pueden persistir como ejemplos de lo que el mundo necesitará para reformarse.
 
@@ -76,3 +97,24 @@ Probablemente seremos más útiles para influir en la sociedad humana a través 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-6-número-1-2005-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6, Número 1, 2005 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Peter_Holley/The_New_Revelation_of_the_Living_Jesus">
+          <span class="pr-2">La Nueva Revelación del Jesús Viviente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

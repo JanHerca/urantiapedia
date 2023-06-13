@@ -9,6 +9,30 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Stephen Zendt<br>© 2000 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Irwin_Ginsburgh/Scientific_Predictions_of_The_Urantia_Book_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Predicciones científicas de _El libro de Urantia_ - Parte II</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-2-número-2-2000-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2, Número 2, 2000 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sara_Blackstock/The_Science_of_Parenting">
+          <span class="pr-2">La ciencia de la crianza de los hijos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jesús comenzó a usar parábolas con esta declaración ([LU 151:1.1](/es/The_Urantia_Book/151#p1_1)) y procedió a contarle a la multitud la historia del sembrador de la semilla. Posteriormente, el apóstol Mateo le preguntó: «_¿Por qué hablas en parábolas a los que buscan la verdad?» Jesús es instructivo en su respuesta a ellos, diciendo, en parte, «... aquellos que desean entrar realmente en el reino puedan discernir el significado de la enseñanza y encontrar así la salvación, mientras que los que escuchan únicamente para atraparnos se quedarán aún más confundidos, en el sentido de que verán sin ver y oirán sin oír._» ([LU 151:1.3-4](/es/The_Urantia_Book/151#p1_3)) Estoy fascinado con esta narración que el Maestro utiliza con tanta perspicacia. Es mi creencia que las parábolas de Jesús son expresiones de su genio y son genuinas obras de arte. Durante muchos años, Atesoré la historia del hijo pródigo, porque me habló profundamente en un momento en que me sentía como un pródigo. Pregúntele a mucha gente, y recordarán las parábolas más que cualquier otra característica de la enseñanza de Jesús.
 
@@ -40,3 +64,27 @@ Mientras practica perfeccionar sus habilidades de escritura, tenga en cuenta la 
 
 > Stephen Zendt, lector desde 1971 y anfitrión de un grupo de estudio en San Francisco, actualmente es miembro del Consejo General, el Comité de Educación de la Fraternidad y está creando un panel de Wrightwood sobre parábolas. Ha trabajado en varios proyectos como narrador, incluido _El Libro de Urantia_ en cinta.
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Irwin_Ginsburgh/Scientific_Predictions_of_The_Urantia_Book_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Predicciones científicas de _El libro de Urantia_ - Parte II</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-2-número-2-2000-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2, Número 2, 2000 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sara_Blackstock/The_Science_of_Parenting">
+          <span class="pr-2">La ciencia de la crianza de los hijos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

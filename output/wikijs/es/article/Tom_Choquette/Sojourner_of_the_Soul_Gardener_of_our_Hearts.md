@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Tom Choquette<br>© 2021 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mark_Blackham/Chronology_of_Death_Resurrection_Ascension_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cronología de la muerte, resurrección y ascensión de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-21-número-1-2021-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 21, Número 1, 2021 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Joshua_J_Wilson/Proclaim_the_Holyday_of_Holydays">
+          <span class="pr-2">Proclamar el jubileo de jubileos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Este compartir se basa en mi viaje personal hacia la asociación con el Espíritu de la Verdad. El espíritu de nuestro amado Jesús, nuestro entrenador espiritual y verdadero norte, el jardinero de nuestros corazones, reside dentro de aquellos que son honestos y sinceros de corazón y están dispuestos a cumplir Sus órdenes.
 
@@ -81,3 +105,27 @@ Tom Choquette en la Conferencia Internacional Urantia Book Fellowship 2011
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mark_Blackham/Chronology_of_Death_Resurrection_Ascension_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cronología de la muerte, resurrección y ascensión de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-21-número-1-2021-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 21, Número 1, 2021 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Joshua_J_Wilson/Proclaim_the_Holyday_of_Holydays">
+          <span class="pr-2">Proclamar el jubileo de jubileos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

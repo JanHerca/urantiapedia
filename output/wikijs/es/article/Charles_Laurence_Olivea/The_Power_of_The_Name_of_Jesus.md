@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Charles Laurence Olivea<br>© 2011 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dave_Holt/The_First_Epochal_Revelation_in_American_Indian_Traditions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La primera revelación de época en las tradiciones indígenas americanas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-11-número-2-2011-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11, Número 2, 2011 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Linda_Buselli/Machiventa_Melchizedek_One_of_Historys_Mysteries">
+          <span class="pr-2">Maquiventa Melquisedec: uno de los misterios de la historia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ¡Aclamen todos el poder del nombre de Jesús!
 Que los ángeles se postren;
@@ -173,6 +197,31 @@ Un amigo mío, ex miembro del Foro, que se graduó, me escribió una carta hace 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dave_Holt/The_First_Epochal_Revelation_in_American_Indian_Traditions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La primera revelación de época en las tradiciones indígenas americanas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-11-número-2-2011-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11, Número 2, 2011 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Linda_Buselli/Machiventa_Melchizedek_One_of_Historys_Mysteries">
+          <span class="pr-2">Maquiventa Melquisedec: uno de los misterios de la historia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

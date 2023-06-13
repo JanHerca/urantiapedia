@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Michael Painter<br>© 2017 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_S_Sadler_Jr/What_Will_We_Find_in_Outer_Space">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué encontraremos en el espacio exterior?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-17-número-1-2017-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 17, Número 1, 2017 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dennis_Marshall/The_Shroud_of_Turin_and_The_Urantia_Papers">
+          <span class="pr-2">La Sábana Santa de Turín y los Documentos de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ¿Alguna vez has observado a dos extraños que se encuentran por primera vez? Hay un proceso común por el que pasan. Cada uno hace preguntas al otro. Los temas habituales son si están casados ​​o solteros, si tienen hijos, qué tipo de trabajo hacen, dónde crecieron, etc. El propósito de esta consulta mutua es tratar de encontrar algún punto en común. ¿Por qué? Cuando tenemos algo en común con otra persona, sentimos una conexión con ella. Queremos continuar la conversación para conocerlos mejor y ver si existe la posibilidad de una amistad en algún nivel. Por el contrario, cuando no encontramos áreas en común, nos sentimos alienados de esa persona. Los síntomas afectivos de no conectar con alguien son la tensión, la incomodidad, el querer alejarse de él e incluso el miedo en diversos grados. Como ejemplo, considere lo difícil que es entablar incluso una conversación civilizada, y mucho menos desarrollar una amistad, cuando conoce a alguien cuyas opiniones políticas son opuestas a las suyas. Se necesita un verdadero esfuerzo para que ambas personas se mantengan civilizadas y traten de encontrar un terreno común. ¿Por qué molestarse? ¿No son simplemente una persona equivocada, inmadura o desinformada que se niega a ver la verdad cuando se la presentas?
 
@@ -40,3 +64,27 @@ El propósito de la interreligión es un ejemplo clásico de «unidad, pero no u
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_S_Sadler_Jr/What_Will_We_Find_in_Outer_Space">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué encontraremos en el espacio exterior?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-17-número-1-2017-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 17, Número 1, 2017 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dennis_Marshall/The_Shroud_of_Turin_and_The_Urantia_Papers">
+          <span class="pr-2">La Sábana Santa de Turín y los Documentos de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

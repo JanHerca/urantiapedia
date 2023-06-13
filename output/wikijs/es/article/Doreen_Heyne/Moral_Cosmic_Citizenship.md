@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Doreen Heyne<br>© 2008 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Linda_Buselli/Law_is_Life_Itself">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«La ley es la vida misma...»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-9-número-1-2008-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9, Número 1, 2008 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Henry_Begemann/The_Roots_of_Morality">
+          <span class="pr-2">Las raíces de la moralidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Lo siguiente fue presentado como un taller en la Sesión de Estudio de Verano 2007 en la Universidad Dominicana, River Forest, IL_  
 
@@ -112,6 +136,31 @@ Estas decisiones están en nuestras manos. Las elecciones que hacemos nos llevan
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Linda_Buselli/Law_is_Life_Itself">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«La ley es la vida misma...»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-9-número-1-2008-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9, Número 1, 2008 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Henry_Begemann/The_Roots_of_Morality">
+          <span class="pr-2">Las raíces de la moralidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

@@ -9,6 +9,30 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 David Elders<br>© 2000 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Thinking_about_tomorrow">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pensando en el mañana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-2-número-2-2000-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2, Número 2, 2000 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Irwin_Ginsburgh/Scientific_Predictions_of_The_Urantia_Book_2">
+          <span class="pr-2">Predicciones científicas de _El libro de Urantia_ - Parte II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Uno de los aspectos más provocativos y misteriosos de _El Libro de Urantia_ es la afirmación de los reveladores de que injertaron la verdad recién revelada en los «_conceptos humanos más elevados que existen relacionados con los temas que se van a presenta_». ([LU 0:12.11](/es/The_Urantia_Book/0#p12_11)) Un lector veterano del libro, Matthew Block, ha dedicado una década a la causa de identificar, cuando sea posible, a aquellos autores humanos cuyo pensamiento y expresión podrían haber sido utilizados en la construcción de esta revelación. Su labor incansable pronto dará frutos que servirán en las edades venideras para profundizar nuestro aprecio y comprensión del proceso por el cual la humanidad se eleva por medio de la revelación, tanto personal como de época. En vísperas de la publicación del trabajo seminal de Block de descubrir, compilar, comparar,
 
@@ -64,3 +88,27 @@ Hace dos mil años, hubo algunos que vieron al Hijo Creador de Dios en el ser de
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Thinking_about_tomorrow">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pensando en el mañana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-2-número-2-2000-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2, Número 2, 2000 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Irwin_Ginsburgh/Scientific_Predictions_of_The_Urantia_Book_2">
+          <span class="pr-2">Predicciones científicas de _El libro de Urantia_ - Parte II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

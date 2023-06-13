@@ -9,6 +9,30 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Behzad Sarmast<br>© 1999 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Byron_Belitsos/On_facing_millenial_change">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre cómo enfrentar el cambio milenario</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-1-número-2-1999-primavera">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, 1999 (Primavera) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Henry_Begemann/Springtime_a_study_of_the_future">
+          <span class="pr-2">Primavera: un estudio del futuro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Miles de años antes de la llegada de Miguel a Urantia, los misioneros de Maquiventa Melquisedec predijeron la inminente llegada de un Hijo del Paraíso a Urantia. Del mismo modo, Van y sus asociados prepararon al mundo civilizado para la llegada de Adán y Eva, discerniendo correctamente su llegada inminente. La historia muestra que tales visitas divinas siempre se predicen, y que el cielo da suficientes señales para «preparar el camino» para tales dones celestiales; hoy no es diferente.
 
@@ -90,3 +114,27 @@ Sigan con su vida, continúen con la labor que Miguel nos encomendó, pero no de
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Byron_Belitsos/On_facing_millenial_change">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre cómo enfrentar el cambio milenario</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-1-número-2-1999-primavera">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, 1999 (Primavera) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Henry_Begemann/Springtime_a_study_of_the_future">
+          <span class="pr-2">Primavera: un estudio del futuro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

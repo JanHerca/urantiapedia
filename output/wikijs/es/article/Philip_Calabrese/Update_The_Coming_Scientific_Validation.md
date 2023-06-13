@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Philip Calabrese, Ph.D.<br>© 2007 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Phil_Taylor/IC_08_The_Thrill_of_Loving_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IC 08—La emoción del servicio amoroso</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-8-número-1-2007-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8, Número 1, 2007 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jacob_Dix/Participatory_Evolution">
+          <span class="pr-2">Evolución participativa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Una de las formas científicas de validar una supuesta revelación divina, aunque no la única, o necesariamente la mejor, es probar estadísticamente su cosmología asociada. Esta puede ser la única manera de convencer a un científico de que _El Libro de Urantia_ vale la pena leerlo por la ciencia útil, aunque transitoria, que contiene. En el caso de _El Libro de Urantia_, se supone que la cosmología asociada es «de un valor inmenso» para nosotros durante esta etapa transitoria del desarrollo científico de la Tierra en comparación con las eras venideras.
 
@@ -84,6 +108,31 @@ La pregunta obvia es ¿qué sucede si esas vastas capas de hielo polar se derrit
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Phil_Taylor/IC_08_The_Thrill_of_Loving_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IC 08—La emoción del servicio amoroso</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-8-número-1-2007-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8, Número 1, 2007 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jacob_Dix/Participatory_Evolution">
+          <span class="pr-2">Evolución participativa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

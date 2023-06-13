@@ -9,6 +9,27 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Dave Holt<br>© 2009 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-10-número-1-2009-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10, Número 1, 2009 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Nancy_Johnson/The_Role_of_Emotions_and_Feelings_on_an_Evolutionary_World">
+          <span class="pr-2">El papel de las emociones y los sentimientos en un mundo evolutivo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La migración de la raza roja a través del puente terrestre del Estrecho de Bering comenzó hace 100.000 años. Se necesitaron muchas generaciones y vidas para completarse. Durante la última era de la glaciación, cuando las capas de hielo absorbieron grandes cantidades de agua, una caída de 300 pies en el nivel del mar creó una masa de tierra expuesta de mil millas de ancho de norte a sur. Los primeros grupos del pueblo Sangik que viajaron a través de Beringia hasta la actual Alaska eran tribus nómadas, desarraigadas por las guerras y que buscaban un refugio seguro. Pero no eran pastores y, por ejemplo, no trajeron caballos a América como lo hicieron los españoles más tarde. Fue una era de culturas de cazadores-recolectores, _cazadores que practicaban la agricultura en pequeña medida._ [[LU 79:5.7](/es/The_Urantia_Book/79#p5_7)]
 
@@ -262,6 +283,28 @@ hace 500.000 años | Comienza la dispensación del Príncipe Planetario. La raza
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-10-número-1-2009-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10, Número 1, 2009 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Nancy_Johnson/The_Role_of_Emotions_and_Feelings_on_an_Evolutionary_World">
+          <span class="pr-2">El papel de las emociones y los sentimientos en un mundo evolutivo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

@@ -9,6 +9,30 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Martin Greenhut<br>© 1998 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Richard_S_Omura/Let_our_Soul_Decide">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Deja que tu alma decida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-1-número-1-1998-otoño">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 1, 1998 (Otoño) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marilyn_Kulieke/Trust_and_Hope_in_The_Urantia_Book">
+          <span class="pr-2">Los conceptos de confianza y esperanza en _El Libro de Urantia_</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Me gradué de Talmudical Academy High School y de Yeshiva College en la ciudad de Nueva York. También asistí al Instituto de Maestros de Hebreo en Yeshiva durante seis años. Durante toda mi juventud fui intensamente activo en la vida judía y fui un estudiante ortodoxo practicante de Yeshiva hasta mi último año en la universidad cuando decidí abandonar mi ortodoxia y su consiguiente segregación del resto del mundo. Me convertí en lo que hoy se conoce en Israel como «un judío secular». Simplemente significa que renuncié a mis compromisos y prácticas ortodoxas y viví como un agnóstico... no hostil a la religión... simplemente incapaz de relacionarme con las diversas doctrinas sectarias. Creía que si Dios existiera, no amaría a ninguna persona en la tierra mejor que a las demás y ciertamente no excluiría a nadie de la salvación eterna solo porque nació en la religión equivocada.
 
@@ -29,3 +53,27 @@ La revelación del amor de Dios en la vida humana del Hijo del Hombre seguirá e
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Richard_S_Omura/Let_our_Soul_Decide">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Deja que tu alma decida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-1-número-1-1998-otoño">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 1, 1998 (Otoño) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marilyn_Kulieke/Trust_and_Hope_in_The_Urantia_Book">
+          <span class="pr-2">Los conceptos de confianza y esperanza en _El Libro de Urantia_</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

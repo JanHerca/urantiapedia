@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Richard S. Omura<br>© 2010 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carolyn_Kendall_and_Barbara_Newsom/The_World_is_Not_Coming_to_an_End">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El mundo no está llegando a su fin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-11-número-1-2010-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11, Número 1, 2010 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/God_Consciousness">
+          <span class="pr-2">Conciencia de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En el «Discurso sobre la religión», Joshua ben Joseph (Jesús) habla a sus apóstoles sobre la religión de la autoridad frente a la religión de la experiencia espiritual. Él nombra las creencias tradicionales como religiones de autoridad, basadas en el asentimiento intelectual.
 
@@ -68,3 +92,27 @@ Josué: «_Y ahora, no os equivoquéis, mi Padre responderá siempre a la más t
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carolyn_Kendall_and_Barbara_Newsom/The_World_is_Not_Coming_to_an_End">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El mundo no está llegando a su fin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-11-número-1-2010-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11, Número 1, 2010 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/God_Consciousness">
+          <span class="pr-2">Conciencia de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

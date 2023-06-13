@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 David Glass<br>© 2008 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Start_of_a_Worthy_New_Tradition">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El comienzo de una nueva tradición digna</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-9-número-1-2008-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9, Número 1, 2008 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Halbert_Katzen/The_Urantia_Book_Is_Not_What_It_Used_To_Be">
+          <span class="pr-2">El libro de Urantia ya no es lo que solía ser</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Las siete donaciones de Cristo Miguel, a diferencia de las siete donaciones del Hijo Eterno en Havona, están dentro del alcance de la apreciación de la mente de los hombres y mujeres urantianos contemporáneos. Un estudio de los Documentos de Urantia, en particular del Documento 119, «Las donaciones de Cristo Miguel», revela al lector que lo que nuestro mundo ha conocido de la vida, las enseñanzas, la muerte y la resurrección de Jesús en la tierra, llamado «el Cristo, » es sólo una pequeña parte del significado total de incluso los registros fragmentarios de la vida de Jesús que se han presentado tradicionalmente en y como los cuatro Evangelios del Nuevo Testamento de la Biblia cristiana. Visto desde la perspectiva de los Documentos de Urantia, el comienzo, desarrollo, terminación y reanudación de la vida terrestre de Jesús en Urantia, junto con los relatos parciales de sus otras seis donaciones hasta ahora no reveladas y ganadoras de soberanía, tienen un significado mucho más profundo y más amplio. significado cósmicamente relevante.
 
@@ -56,3 +80,27 @@ La revelación revela que hay potenciales absolutos envueltos en las naturalezas
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Start_of_a_Worthy_New_Tradition">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El comienzo de una nueva tradición digna</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-9-número-1-2008-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9, Número 1, 2008 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Halbert_Katzen/The_Urantia_Book_Is_Not_What_It_Used_To_Be">
+          <span class="pr-2">El libro de Urantia ya no es lo que solía ser</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

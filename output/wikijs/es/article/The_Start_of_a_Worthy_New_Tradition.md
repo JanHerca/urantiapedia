@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michael_Painter/You_Be_The_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sé tú el libro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-9-número-1-2008-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9, Número 1, 2008 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Glass/The_Significance_of_the_Sevenfold_Bestowal_Career">
+          <span class="pr-2">El significado de la carrera de autootorgamiento séptuple de Cristo Miguel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _La Sociedad Urantia del norte de Texas informa sobre la celebración de las primeras donaciones_  
 
@@ -63,3 +87,27 @@ Todos | Nuestra relación con el Supremo | Como Dios
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michael_Painter/You_Be_The_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sé tú el libro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-9-número-1-2008-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9, Número 1, 2008 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Glass/The_Significance_of_the_Sevenfold_Bestowal_Career">
+          <span class="pr-2">El significado de la carrera de autootorgamiento séptuple de Cristo Miguel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

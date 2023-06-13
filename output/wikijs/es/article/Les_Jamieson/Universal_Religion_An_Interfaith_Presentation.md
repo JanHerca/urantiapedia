@@ -9,6 +9,30 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Les Jamieson<br>© 2001 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Behzad_Sarmast/Show_Us_a_Miracle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡Muéstranos un milagro!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-3-número-1-2001-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3, Número 1, 2001 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Charles_Montgomery/Ethical_Eugenics_A_Modest_Proposal_For_The_21st_Century">
+          <span class="pr-2">Eugenesia ética: una modesta propuesta para el siglo XXI</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Durante muchos años quise encontrar una manera de contribuir a fomentar una mayor comprensión entre las religiones. Cuando Peter Laurence, un lector de mucho tiempo, me guió al Consejo Interreligioso de Nueva York, encontré su enfoque integral y basado en la comunidad muy refrescante. El Consejo Interreligioso invita a la participación de todas las religiones y credos y crea programas diseñados para facilitar el diálogo y la interacción entre ellos, y fui aceptado como representante de la comunidad local del Libro de Urantia, aunque no tenían idea de qué trataba el libro.
 
@@ -94,3 +118,27 @@ Para obtener más información sobre los lectores involucrados en el movimiento 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Behzad_Sarmast/Show_Us_a_Miracle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡Muéstranos un milagro!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-3-número-1-2001-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3, Número 1, 2001 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Charles_Montgomery/Ethical_Eugenics_A_Modest_Proposal_For_The_21st_Century">
+          <span class="pr-2">Eugenesia ética: una modesta propuesta para el siglo XXI</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

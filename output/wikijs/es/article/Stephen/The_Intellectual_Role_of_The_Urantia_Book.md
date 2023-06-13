@@ -9,6 +9,27 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Stephen<br>© 2000 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/The_Ethics_of_Genetic_Control_and_Social_Engineering">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La ética del control genético y la ingeniería social</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-2-número-2-2000-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2, Número 2, 2000 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _(Nota: El autor nos ha pedido que no revelemos su identidad completa para proteger su estatus profesional y sus conexiones. Estamos cumpliendo con su solicitud. - Editores)_
 
@@ -31,3 +52,24 @@ En nuestros intentos de ser reveladores de la verdad, debemos volvernos «sensib
 También podemos beneficiarnos de la sensibilidad de la audiencia en un sentido personal: usando el método de Jesús de «_establecer contacto íntimo y personal_» ([LU 134:2.3](/es/The_Urantia_Book/134#p2_3)) con la gente. Cuando existe intimidad, cualquier instancia de insensibilidad por parte del lector de _El Libro de Urantia_ provocará una protesta, y el lector se verá obligado a apreciar la motivación de la protesta oa romper la relación. Nuestra eficacia como fermentadores filosóficos mejorará mucho si aprendemos a ser intelectual y personalmente sensibles a nuestros oyentes.
 
 He hecho mis puntos centrales. Hay un punto consecuente importante que también involucra la sensibilidad de la audiencia. Anteriormente cité el pasaje sobre los cinco valores de la revelación, pero no cité el quinto valor, que es este: «_Presentación de datos cósmicos de tal manera que ilumine las enseñanzas espirituales contenidas en la revelación que los acompaña._» ([LU 101:4.10](/es/The_Urantia_Book/101#p4_10)). Este es un argumento convincente contra la publicación de los Documentos de Jesús (o una parte de ellos) por separado: no están acompañados por los datos cósmicos que se necesitan para dar sentido a gran parte del contenido: ¿Quiénes son los Ancianos de los Días? ¿Qué se entiende por «ganar la soberanía perfeccionada»? ¿Cuáles eran los «asuntos de... la rebelión de Lucifer» que iba a «desenredar»? ¿Qué es un Ajustador de Pensamiento Personalizado? una forma morontial, una vida de otorgamiento? Alguien puede decir que estas preguntas impulsarán a los nuevos lectores a comprar el libro completo, y algunos sin duda lo harán. Pero otros ignorarán o malinterpretarán estos importantes términos. El hecho es que aquí «datos cósmicos» insuficientes «acompañan» a las «enseñanzas espirituales». Si vamos a lanzar estos términos a los nuevos lectores, debemos contarles la historia completa.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/The_Ethics_of_Genetic_Control_and_Social_Engineering">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La ética del control genético y la ingeniería social</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-2-número-2-2000-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2, Número 2, 2000 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

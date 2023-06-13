@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Byron Belitsos<br>© 2016 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gary_Deinstadt/Top_Down">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Arriba/Abajo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-16-número-1-2016-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 16, Número 1, 2016 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La verdad sobre la personalidad es un misterio universal, pero sabemos algunas cosas buenas al respecto. En este ensayo, nos sumergimos en las sólidas enseñanzas de _El Libro de Urantia_ sobre la naturaleza de la personalidad, o lo que también llamo «personalidad» o «personalidad». Compararé estas ideas con nociones relacionadas tanto de las tradiciones de sabiduría del mundo como con algunos representantes de la psicología profunda mientras examinamos la compleja relación entre el desarrollo saludable del ego y el logro espiritual superior. A lo largo del camino, también haré algunas incursiones arriesgadas en la psicología filosófica y la teología especulativa, y señalaré las formas en que la idea de personalidad de _El Libro de Urantia_ constituye una sorprendente revelación para la psicología moderna y las religiones vivas de hoy.
 
@@ -280,6 +301,28 @@ La Persona Divina abarca y trasciende la evolución y todos los seres evolutivos
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gary_Deinstadt/Top_Down">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Arriba/Abajo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-16-número-1-2016-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 16, Número 1, 2016 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

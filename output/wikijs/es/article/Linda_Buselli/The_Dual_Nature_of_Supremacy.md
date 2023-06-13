@@ -9,6 +9,27 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Linda Buselli<br>© 1999 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stephen_Dreier/Reflections_on_cosmic_citizenship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones sobre la ciudadanía cósmica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-2-número-1-1999-invierno">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2, Número 1, 1999 (Invierno) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 «Por cada acción hay una reacción igual y opuesta». Este axioma de la física ha influido profundamente en nuestra visión del mundo físico. Pero si, de hecho, esta es una «verdad» del universo, entonces debe ser verdad en todos los niveles de la realidad. En mi intento por comprender la naturaleza del Supremo, he descubierto que esta idea es crucial para comprender cómo funciona la supremacía, no solo en las manifestaciones físicas del Todopoderoso Supremo, sino también en el espíritu, la mente e incluso la personalidad.  
 
@@ -60,3 +81,24 @@ El Supremo parece crecer desde todos los posibles puntos de partida experiencial
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stephen_Dreier/Reflections_on_cosmic_citizenship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones sobre la ciudadanía cósmica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-2-número-1-1999-invierno">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2, Número 1, 1999 (Invierno) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

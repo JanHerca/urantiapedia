@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Robert Burns<br>© 2007 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/George_Park/Personality_and_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personalidad y hombre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-8-número-1-2007-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8, Número 1, 2007 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Cece_Forrester/Science_Fiction_for_Agondonters">
+          <span class="pr-2">Ciencia ficción para Agondonters</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La Regla de Oro es un principio avalado por todas las grandes religiones del mundo; sin embargo, este principio simple no se aplica en ningún grado de lo que es posible en las comunidades de todo el mundo. Tan simple y directa como es la Regla de Oro, a muchos les resulta difícil ponerla en práctica de manera consistente. Vivir de acuerdo con el estándar de la regla de oro requiere un esfuerzo constante y consciente para ser utilizado en nuestros asuntos personales, familiares, comerciales y comunitarios/organizacionales. Sin embargo, Jesús nos dio esta regla para ayudarnos a encontrar gozo, placer y deleite y no para ser una carga. «_«Al daros este nuevo mandamiento, no pongo ninguna nueva carga sobre vuestra alma; os traigo más bien una nueva alegría y os doy la posibilidad de experimentar un nuevo placer, conociendo las delicias de dar el afecto de vuestro corazón a vuestros semejantes._» [[LU 180:1.2](/es/The_Urantia_Book/180#p1_2)]
 
@@ -51,3 +75,27 @@ El Maestro nos pide lealtad, no sacrificio, pues quiere nuestro cariño de todo 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/George_Park/Personality_and_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personalidad y hombre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-8-número-1-2007-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8, Número 1, 2007 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Cece_Forrester/Science_Fiction_for_Agondonters">
+          <span class="pr-2">Ciencia ficción para Agondonters</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

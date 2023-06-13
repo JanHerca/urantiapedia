@@ -9,6 +9,30 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Henry Begemann<br>© 1999 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Behzad_Sarmast/Magisterial_missions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Misiones magistrales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-1-número-2-1999-primavera">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, 1999 (Primavera) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeanne_Melchior/Whither_Goest_Thou_Woman">
+          <span class="pr-2">¿Adónde vas, mujer?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (Tomado de The URANTIAN, Journal of the URANTIA Brotherhood (ahora conocido como Fellowship), verano de 1988)
 
@@ -116,3 +140,27 @@ De esta manera y en muchas otras podríamos prepararnos para «_la próxima era.
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Behzad_Sarmast/Magisterial_missions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Misiones magistrales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-1-número-2-1999-primavera">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, 1999 (Primavera) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeanne_Melchior/Whither_Goest_Thou_Woman">
+          <span class="pr-2">¿Adónde vas, mujer?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

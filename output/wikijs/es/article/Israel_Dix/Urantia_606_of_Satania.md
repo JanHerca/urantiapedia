@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Israel Dix<br>© 2012 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Steve_McIntosh/Evolutionary_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Espiritualidad Evolutiva</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-12-número-1-2012-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12, Número 1, 2012 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Lawrence_Schkade/Perfecting_Neuroplasticity_and_the_Supreme_Actualizing">
+          <span class="pr-2">Perfeccionamiento, Neuroplasticidad y la Suprema Actualización</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Numeración de las estrellas
 
@@ -259,6 +283,31 @@ En cuanto a la capacidad de contar de Abraham, si su posteridad estaba destinada
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Steve_McIntosh/Evolutionary_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Espiritualidad Evolutiva</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-12-número-1-2012-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12, Número 1, 2012 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Lawrence_Schkade/Perfecting_Neuroplasticity_and_the_Supreme_Actualizing">
+          <span class="pr-2">Perfeccionamiento, Neuroplasticidad y la Suprema Actualización</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

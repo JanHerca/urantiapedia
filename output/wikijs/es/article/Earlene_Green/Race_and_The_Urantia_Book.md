@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Earlene Green<br>© 2012 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Lawrence_Schkade/Perfecting_Neuroplasticity_and_the_Supreme_Actualizing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Perfeccionamiento, Neuroplasticidad y la Suprema Actualización</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-12-número-1-2012-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12, Número 1, 2012 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Authority_2">
+          <span class="pr-2">Religión de la experiencia versus religión de la autoridad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Nota del editor: Lo siguiente ha sido actualizado de un ensayo anterior del autor._
 
@@ -86,6 +110,31 @@ Un pensamiento de despedida: cuando Ganid le preguntó a Jesús qué pensaba sob
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Lawrence_Schkade/Perfecting_Neuroplasticity_and_the_Supreme_Actualizing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Perfeccionamiento, Neuroplasticidad y la Suprema Actualización</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-12-número-1-2012-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12, Número 1, 2012 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Authority_2">
+          <span class="pr-2">Religión de la experiencia versus religión de la autoridad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

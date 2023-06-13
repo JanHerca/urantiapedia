@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Arlene and Buck Weimer<br>© 2008 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michelle_Klimesh/Celestial_Ministry_Seen_and_Unseen">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ministerio Celestial: Origen Visible e Invisible, Naturaleza y Destino</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-9-número-1-2008-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9, Número 1, 2008 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Guess_Whos_Coming_Next">
+          <span class="pr-2">¿Adivina quién viene después?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Lo siguiente se presentó en la sesión de verano de becarios en julio de 2007._  
 
@@ -98,3 +122,27 @@ El alcance es el ministerio de compartir el Evangelio, y cada individuo debe enc
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michelle_Klimesh/Celestial_Ministry_Seen_and_Unseen">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ministerio Celestial: Origen Visible e Invisible, Naturaleza y Destino</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-9-número-1-2008-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9, Número 1, 2008 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Guess_Whos_Coming_Next">
+          <span class="pr-2">¿Adivina quién viene después?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

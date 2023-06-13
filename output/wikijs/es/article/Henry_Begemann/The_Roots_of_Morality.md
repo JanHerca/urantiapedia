@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Henry Begemann<br>© 2008 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Doreen_Heyne/Moral_Cosmic_Citizenship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ciudadanía Moral Cósmica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-9-número-1-2008-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9, Número 1, 2008 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Elders/Casting_Pearls_Before_Personality">
+          <span class="pr-2">Arrojando perlas antes de la personalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Puede haber una gran diferencia entre actuar por buenos motivos humanos y hacer la voluntad del Padre. La moralidad y su motivación correlativa es, en primer lugar, un fenómeno evolutivo. Entonces es «súper animal, pero sub-espiritual». La moralidad derivada de este nivel no es actividad espiritual, sino una actividad derivada de un sentido del deber. La moralidad como enseñó Jesús es más que evolutiva, es revelatoria porque su origen está en la relación Padre-hijo. Esta relación experimentada tiene como consecuencia una mayor moralidad que trasciende el deber. «_La característica principal de la enseñanza de Jesús consistía en que la moralidad de su filosofía se originaba en la relación personal del individuo con Dios —la misma relación que entre el niño y su padre._» [[LU 140:10.5](/es/The_Urantia_Book/140#p10_5)]
 
@@ -24,3 +48,27 @@ Conocer la voluntad del Padre requiere un contacto real y vivo con él, que vive
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Doreen_Heyne/Moral_Cosmic_Citizenship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ciudadanía Moral Cósmica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-9-número-1-2008-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9, Número 1, 2008 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Elders/Casting_Pearls_Before_Personality">
+          <span class="pr-2">Arrojando perlas antes de la personalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -8,7 +8,31 @@ editor: markdown
 dateCreated: 2021-11-28T11:12:37.284Z
 ---
 
-Autor: **Irwin Ginsburgh Ph.D.** | Traductor: **Agustín Arellano Tirado**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Irwin Ginsburgh Ph.D.<br>© 1999 The Urantia Book Fellowship<br>© 1999 Agustín Arellano Tirado, por la traducción</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizens">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Familia: Lugar de Nacimiento de los Ciudadanos Cósmicos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-2-número-1-1999-invierno">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2, Número 1, 1999 (Invierno) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen_Dreier/Reflections_on_cosmic_citizenship">
+          <span class="pr-2">Reflexiones sobre la ciudadanía cósmica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (Este documento es un compuesto de dos documentos presentados en la Conferencia Internacional de la Fellowship en Vancouver en Agosto de 1999. La porción que trata con el conocimiento común en el campo de la astronomía fue presentada por el Dr. Douglas Scott de la Universidad de British Columbia. La visión de la cosmología de _El Libro de Urantia_ fue presentada por el Dr. Irwin Ginsburg.) 
 
@@ -120,6 +144,31 @@ Entre los futuros lectores de _El Libro de Urantia_, habrá más y más escépti
 
 * Este artículo en _The Fellowship Herald_: https://urantia-book.org/archive/newsletters/herald/herald_w1999.pdf
 * Traducción de Agustín Arellano Tirado en la web de la _Asociación Urantia de Chile_: http://www.urantiachile.org/documentos/ensayos/2_dos_cosmologias.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizens">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Familia: Lugar de Nacimiento de los Ciudadanos Cósmicos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-2-número-1-1999-invierno">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2, Número 1, 1999 (Invierno) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen_Dreier/Reflections_on_cosmic_citizenship">
+          <span class="pr-2">Reflexiones sobre la ciudadanía cósmica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Notas
 
 [^1]: _Nota del editor_: En lugar de «nebulosa» es más exacto decir un «sistema planetario». _El Libro de Urantia_ da varias indicaciones sobre este objeto que se acercó a nuestro sol, y no era una nebulosa ([LU 54:5.4-6](/es/The_Urantia_Book/54#p5_4)). Era un sistema llamado Angona, formado por un gran objeto masivo en su centro, llamado en el libro «gigante oscuro del espacio», y una colección de planetas que lo orbitaban.

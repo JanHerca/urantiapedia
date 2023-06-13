@@ -9,6 +9,27 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marilyn_Kulieke/Trust_and_Hope_in_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los conceptos de confianza y esperanza en _El Libro de Urantia_</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-1-número-1-1998-otoño">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 1, 1998 (Otoño) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > (El siguiente artículo, de Kenneth Glasziou, Qkl., Australia, apareció en [Innerface International, noviembre/diciembre de 1997](/es/article/Ken_Glasziou/48_Chromosomes_Or_Jumping_to_Conclusions). Se reimprime con autorización.)
 {.is-info}
@@ -42,3 +63,24 @@ No parece haber ninguna razón esencial para equiparar una unidad de control de 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marilyn_Kulieke/Trust_and_Hope_in_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los conceptos de confianza y esperanza en _El Libro de Urantia_</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-1-número-1-1998-otoño">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 1, 1998 (Otoño) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

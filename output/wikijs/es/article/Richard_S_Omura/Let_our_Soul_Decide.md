@@ -9,6 +9,30 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Richard S. Omura<br>© 1998 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/On_the_Brink_of_The_Most_Amazing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Al borde de la época más asombrosa y apasionante</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-1-número-1-1998-otoño">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 1, 1998 (Otoño) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Martin_Greenhut/The_Urantia_Papers_From_a_Jewish_Perspective">
+          <span class="pr-2">Los documentos de Urantia desde una perspectiva judía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **¿No sería grandioso si pudiéramos partir de cada grupo de estudio y presentación de *El Libro de Urantia* con un sentimiento de nueva esperanza, empoderamiento, vigor espiritual y una mayor sensación de bienestar?** Hay un cierto sentido de eso a veces, pero en mi opinión, no lo suficiente. Lo que es triste es cuando un recién llegado asiste a una presentación muy específica sobre _El Libro de Urantia_ y descubre que no puede relacionarse con él en absoluto porque es demasiado intelectual y no atrae al alma.
 
@@ -61,3 +85,27 @@ Que sea un punto para orar por esto hoy. Dirijamos desde nuestras almas en cada 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/On_the_Brink_of_The_Most_Amazing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Al borde de la época más asombrosa y apasionante</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-1-número-1-1998-otoño">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 1, 1998 (Otoño) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Martin_Greenhut/The_Urantia_Papers_From_a_Jewish_Perspective">
+          <span class="pr-2">Los documentos de Urantia desde una perspectiva judía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

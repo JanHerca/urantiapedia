@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Bob Debold<br>© 2014 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_S_Sadler_Jr/The_Journey_Following_Mortal_Death">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El viaje que sigue a la muerte mortal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-14-número-1-2014-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 14, Número 1, 2014 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Richard_Daunt/Urantian_Language_and_the_Preservation_of_Meaning">
+          <span class="pr-2">Lenguaje urantiano y la preservación del significado</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Si no fuera por _El Libro de Urantia_, ciertamente no sabría nada acerca de los maestros serafines; Difícilmente podría haber pasado los últimos veinte años tratando de sondear las ideas que rodean a la Supremacía, ni siquiera romper las descripciones conceptualmente ricas del origen de los siete absolutos del infinito de la Primera Fuente y Centro, la historia más completa y racional de Génesis, por todos estos conceptos habrían estado totalmente fuera de mi alcance. Mi transición de la religión institucional tradicional a la religión reveladora personal comenzó (al menos que yo sepa) hace aproximadamente cincuenta años. Pero la causa principal para que los periódicos arraiguen profundamente en mí es sin duda un resultado directo de algunas experiencias sublimes de la religión tradicional (catolicismo) en mis años de formación. Tomar nota: estas causas inspiradoras no fueron el resultado de la alta actitud espiritual que me proporcionó esta religión institucional en particular. No, por el contrario, entre una marea creciente de hechos y conceptos cognitivamente disonantes que se hicieron más evidentes para mí a medida que envejecía, se destacaban las distorsiones implícitas y obvias de la historia de Adán y Eva. Como resultado de la narración bíblica que relaciona el génesis de la humanidad con una fábula, no me habría interesado la afirmación de la persona que me presentó _El Libro de Urantia_ de que describe a la pareja original bíblica como «_de dos metros y medio de altura y violáceos_».
 
@@ -146,6 +170,31 @@ Y, por último, será a través de una comprensión intelectual, moroncial y esp
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_S_Sadler_Jr/The_Journey_Following_Mortal_Death">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El viaje que sigue a la muerte mortal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-14-número-1-2014-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 14, Número 1, 2014 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Richard_Daunt/Urantian_Language_and_the_Preservation_of_Meaning">
+          <span class="pr-2">Lenguaje urantiano y la preservación del significado</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

@@ -9,6 +9,30 @@ dateCreated: 2023-02-09T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Dave Holt<br>© 2005 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Pierre_Heudier/Pattern_of_Unity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Patrón de unidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-6-número-1-2005-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6, Número 1, 2005 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sara_Blackstock/Thoughts_About_the_Future_of_our_Urantia_Communit">
+          <span class="pr-2">Pensamientos sobre el futuro de nuestra comunidad Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > No existe una religión en Urantia que no pueda estudiar y asimilar provechosamente lo mejor de las verdades contenidas en todas las otras doctrinas, porque todas contienen verdades. [[LU 92:7.3](/es/The_Urantia_Book/92#p7_3)]
 
@@ -166,3 +190,27 @@ Sin duda, tendrá otras ideas sobre cómo podemos eventualmente colaborar para c
 - RC Zaehner, _Escrituras hindúes_. (JM Dent & Sons, Ltd. 1966) para Rig Veda X.82 y Chandogya Upanishad
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Pierre_Heudier/Pattern_of_Unity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Patrón de unidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-6-número-1-2005-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6, Número 1, 2005 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sara_Blackstock/Thoughts_About_the_Future_of_our_Urantia_Communit">
+          <span class="pr-2">Pensamientos sobre el futuro de nuestra comunidad Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

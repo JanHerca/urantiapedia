@@ -9,6 +9,30 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Ronald Besser<br>© 2002 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Nancy_Johnson/In_Search_of_the_Error_So_Great">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En busca del error tan grande</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-4-número-1-2002-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4, Número 1, 2002 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Alison_Gardner/A_Demystification_and_Redefinition_of_Cult">
+          <span class="pr-2">Una desmitificación y redefinición del culto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Más de un estudiante de _El Libro de Urantia_ se ha preguntado si los milagros realizados por Jesús contravienen sus propias decisiones posteriores al bautismo que se propusieron no usar poderes sobrehumanos para completar la obra de su vida en Urantia. Tratar de comprender la voluntad del Padre o las acciones del Hijo Creador en cualquier nivel es un proceso pesado, ya que intenta comprender las mentes divinas, la personalidad de la Deidad, el poder espiritual y lo que motiva las acciones y reacciones de la Deidad ante las circunstancias.
 
@@ -72,3 +96,27 @@ Sea como sea que lo logró, ya pesar de las apariencias, Jesús no cometió erro
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Nancy_Johnson/In_Search_of_the_Error_So_Great">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En busca del error tan grande</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-4-número-1-2002-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4, Número 1, 2002 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Alison_Gardner/A_Demystification_and_Redefinition_of_Cult">
+          <span class="pr-2">Una desmitificación y redefinición del culto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

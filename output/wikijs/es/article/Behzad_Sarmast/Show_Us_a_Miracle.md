@@ -9,6 +9,30 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Behzad Sarmast<br>© 2001 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Matthew_Block/A_Source_Study_Of_Instruction_For_Teachers_And_Believers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un estudio fuente de «Instrucción para maestros y creyentes»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-3-número-1-2001-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3, Número 1, 2001 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Les_Jamieson/Universal_Religion_An_Interfaith_Presentation">
+          <span class="pr-2">Religión universal: una presentación interreligiosa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Desde que la historia da testimonio, la naturaleza humana siempre ha asociado la piedad con alguna maravilla milagrosa. Existe un anhelo natural por alguna fuente destacada de autoridad que pueda mostrar el camino, pero las palabras sabias y las enseñanzas exaltadas por sí solas no son suficientes; también debe haber una demostración de poderes sobrenaturales. Esto era tan cierto en los días de la llegada de Caligastia como lo es hoy, y el mundo aún espera que la llegada del próximo ser celestial coincida con un fenómeno estupendo en el cielo, una desaparición milagrosa de los elegidos o alguna otra maravilla que desafía la razón.
 
@@ -66,3 +90,27 @@ En cuanto a este lector, después de una investigación exhaustiva sobre la aute
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Matthew_Block/A_Source_Study_Of_Instruction_For_Teachers_And_Believers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un estudio fuente de «Instrucción para maestros y creyentes»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-3-número-1-2001-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3, Número 1, 2001 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Les_Jamieson/Universal_Religion_An_Interfaith_Presentation">
+          <span class="pr-2">Religión universal: una presentación interreligiosa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

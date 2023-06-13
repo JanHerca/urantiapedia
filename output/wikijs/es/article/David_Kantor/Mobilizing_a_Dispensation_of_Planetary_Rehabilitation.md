@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 David Kantor<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bruce_Jackson/The_Challenge_of_Revelation_Based_Education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El desafío de la educación basada en la revelación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-19-número-1-2019-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 19, Número 1, 2019 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 No es raro escuchar a un lector de _El Libro de Urantia_ expresando el ideal de poder ayudar a nuestros amigos invisibles de alguna manera con su trabajo. Con demasiada frecuencia, esto no va mucho más allá de imaginar cómo sería ser un reservista. Pero hay algunas necesidades espirituales muy profundas y potenciales de servicio cósmicamente convincentes en nuestro mundo con repercusiones que se extienden mucho más allá de esta vida.
 
@@ -138,3 +159,24 @@ La dispensación del Espíritu de la Verdad bajo la guía trascendente del espí
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bruce_Jackson/The_Challenge_of_Revelation_Based_Education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El desafío de la educación basada en la revelación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-19-número-1-2019-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 19, Número 1, 2019 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Marvin Gawryn<br>© 2002 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Philip_Calabrese/Reflections_on_the_Urantia_Movement_in_2002">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones sobre el Movimiento Urantia en 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-4-número-1-2002-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4, Número 1, 2002 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Paul_Premsagar/Eugenics_and_The_Urantia_Book_Another_Perspective">
+          <span class="pr-2">La eugenesia y El libro de Urantia: otra perspectiva</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Cuando comencé a leer _El Libro de Urantia_ hace muchos años, la posibilidad que prometía que más me emocionaba era que podía tener una relación directa con Dios. Afirmó que yo era un hijo de Dios y que en realidad podía experimentar esta verdad a diario. ¿Cómo podemos experimentar vívidamente la filiación con nuestro Padre cada día? ¿Cómo podemos disfrutar de una comunión íntima con nuestros Ajustadores residentes, una amistad constante llena de afecto con Dios? Después de todo, Jesús dijo: «_No es tan importante que conozcáis el hecho de Dios, como que desarrolléis cada vez más la habilidad de sentir la presencia de Dios._» [LU 155:6.12](/es/The_Urantia_Book/155#p6_12)
 
@@ -101,3 +125,27 @@ Todos estos maravillosos resultados, creo, fluyen naturalmente de la simple prá
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Philip_Calabrese/Reflections_on_the_Urantia_Movement_in_2002">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones sobre el Movimiento Urantia en 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-4-número-1-2002-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4, Número 1, 2002 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Paul_Premsagar/Eugenics_and_The_Urantia_Book_Another_Perspective">
+          <span class="pr-2">La eugenesia y El libro de Urantia: otra perspectiva</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

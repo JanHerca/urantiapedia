@@ -9,6 +9,27 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Larry Mullins<br>© 2004 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Steven_Hecht/A_Trace_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un rastro de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-5-número-2-2004-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 2, 2004 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En 1923, Arthur Nash publicó un libro, La regla de oro en los negocios. Durante la Primera Guerra Mundial, Nash compró y se hizo cargo de la gestión de una pequeña «taller de explotación» de ropa de Cincinnati. Tenga en cuenta que esas pequeñas tiendas estaban compuestas por trabajadores ineficientes que no podían conseguir trabajo en mejores talleres de fabricación de prendas de vestir. Los salarios eran muy bajos y las condiciones de trabajo extremadamente malas. La mujer mejor pagada de la tienda recibía siete dólares a la semana, extremadamente bajo incluso para esos días.
 
@@ -48,3 +69,24 @@ Nash dijo que nunca hubiera continuado en el mundo de los negocios si no fuera p
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Steven_Hecht/A_Trace_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un rastro de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-5-número-2-2004-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 2, 2004 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

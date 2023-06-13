@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Lawrence Schkade<br>© 2012 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Israel_Dix/Urantia_606_of_Satania">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia, 606 de Satania</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-12-número-1-2012-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12, Número 1, 2012 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Earlene_Green/Race_and_The_Urantia_Book">
+          <span class="pr-2">Las razas y El Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Lo siguiente fue presentado en la Conferencia Lone Star Roundup, Argyle, TX, 31 de marzo de 2012_
 
@@ -144,6 +168,31 @@ En resumen, estamos en una situación de ganar-ganar. Haciendo la voluntad de Di
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Israel_Dix/Urantia_606_of_Satania">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia, 606 de Satania</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-12-número-1-2012-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12, Número 1, 2012 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Earlene_Green/Race_and_The_Urantia_Book">
+          <span class="pr-2">Las razas y El Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

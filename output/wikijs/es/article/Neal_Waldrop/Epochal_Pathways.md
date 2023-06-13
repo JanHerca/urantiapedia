@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Neal Waldrop<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Tenney_and_others/Working_with_Mother_Spirit_to_Uplift_the_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trabajando con el Espíritu de la Madre para elevar el mundo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-19-número-1-2019-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 19, Número 1, 2019 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rabia_Harris/Urantia_Book_A_Spiritual_Path">
+          <span class="pr-2">El libro de Urantia, un camino espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La transformación repentina rara vez se busca o corteja, porque los seres humanos prefieren jugar con cuidado, cautela, lentamente. Esto les permite realizar una revisión exhaustiva de las posibles innovaciones, ya que pueden afectar una estructura que se considera fundamentalmente sólida. Sin embargo, ¿cuándo ha sido verdaderamente satisfactoria la situación de Urantia, ya sea en términos conceptuales o cósmicos? No desde que Lucifer, Satanás y Caligastia se rebelaron hace aproximadamente 200.000 años. Además, las medidas correctivas que Adán y Eva intentaron quedaron muy por debajo de lo que pretendían, ya que el Hijo y la Hija Materiales finalmente fallaron en su confianza.
 
@@ -73,6 +97,31 @@ Neal Waldrop
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Tenney_and_others/Working_with_Mother_Spirit_to_Uplift_the_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trabajando con el Espíritu de la Madre para elevar el mundo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-19-número-1-2019-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 19, Número 1, 2019 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rabia_Harris/Urantia_Book_A_Spiritual_Path">
+          <span class="pr-2">El libro de Urantia, un camino espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

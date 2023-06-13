@@ -9,6 +9,30 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Byron Belitsos<br>© 1999 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El desafío del siglo XXI</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-1-número-2-1999-primavera">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, 1999 (Primavera) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Behzad_Sarmast/Magisterial_missions">
+          <span class="pr-2">Misiones magistrales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Con el fin del milenio acercándose y la crisis del Y2K inminente, la palabra «apocalipsis» va a ser esencial en el léxico de todos, especialmente en los medios. Originalmente, bíblicamente, el término apocalipsis significaba una revelación de secretos, una «revelación» de verdades ocultas. El «milenialismo apocalíptico», una frase imposible de pronunciar con soltura por parte de los medios (y por lo tanto mucho menos abusada), se refiere a la revelación de los secretos ocultos de los tiempos, al final del tiempo histórico, más específicamente al final de un milenio. En los últimos tiempos, como dice el cuento apocalíptico milenarista, el mal y el sufrimiento, todas las cosas y personas que uno encuentra insufribles, finalmente llegarán a un final decisivo en una utopía nueva e inimaginable.
 
@@ -52,3 +76,27 @@ Así encontramos que la fe (práctica espiritual) y la esperanza son interdepend
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El desafío del siglo XXI</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-1-número-2-1999-primavera">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, 1999 (Primavera) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Behzad_Sarmast/Magisterial_missions">
+          <span class="pr-2">Misiones magistrales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

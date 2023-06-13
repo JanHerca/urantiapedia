@@ -9,6 +9,27 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Matthew Block<br>© 2001 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-3-número-1-2001-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3, Número 1, 2001 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Behzad_Sarmast/Show_Us_a_Miracle">
+          <span class="pr-2">¡Muéstranos un milagro!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Este ensayo explora la relación entre una sección de _El Libro de Urantia_, «La vida y las enseñanzas de Jesús»—[sección 3 del documento 159](/es/The_Urantia_Book/159#p3)—y un libro publicado anteriormente, _Jesus and Ourselves_ (_Jesús y nosotros_) de Leslie D. Weatherhead,[^1] que fue claramente su fuente principal. Es el primero de una serie de ensayos y libros que estoy preparando y que someten varias secciones y artículos de la Parte IV a un nuevo método de estudio, el del análisis comparativo con sus respectivos textos fuente. Este enfoque ha sido posible gracias al descubrimiento reciente de que gran parte del contenido de cientos de secciones en la Parte IV se derivó de un número relativamente pequeño de libros estadounidenses y británicos publicados entre las décadas de 1880 y 1930. Se espera que estos estudios de fuentes, que identifican los libros fuente y sus autores y trazan sus paralelismos textuales con el material de la Parte IV, contribuirán a una comprensión mucho mayor de «La vida y las enseñanzas de Jesús», tanto de sus secciones individuales como en un todo.
 
@@ -258,6 +279,28 @@ El único caso en [LU 159:3](/es/The_Urantia_Book/159#p3) de una desviación dir
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-3-número-1-2001-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3, Número 1, 2001 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Behzad_Sarmast/Show_Us_a_Miracle">
+          <span class="pr-2">¡Muéstranos un milagro!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

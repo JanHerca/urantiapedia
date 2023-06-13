@@ -9,6 +9,27 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Philip Calabrese<br>© 2012 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/The_Forgotten_Urantian_Dr_Lena_Sadler">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La urantiana olvidada: La Dra. Lena Celestia (Kellogg) Sadler</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-12-número-1-2012-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12, Número 1, 2012 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Según _El Libro de Urantia_[^1], muchos de nuestros conceptos científicos contemporáneos básicos necesitan una gran revisión o fundamentos completamente nuevos.[^2] La teoría del Big Bang (BB), la llamada interpretación estándar de la mecánica cuántica y también la Teoría de la Relatividad de Einstein, todo necesita revisión o derrocamiento.
 
@@ -476,6 +497,28 @@ T = 1/H~0~ = [(3,262) \* (3,00) \* 10^11^ año / 72] = 1,36 \* 10^10^ año = 13,
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Larry_Mullins/The_Forgotten_Urantian_Dr_Lena_Sadler">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La urantiana olvidada: La Dra. Lena Celestia (Kellogg) Sadler</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-12-número-1-2012-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12, Número 1, 2012 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

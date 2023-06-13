@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 David Glass<br>© 2009 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Kantor/Becoming_an_Effective_Missionary_Evangel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convirtiéndonos en un evangelista misionero eficaz</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-10-número-1-2009-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10, Número 1, 2009 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Nash/Urantia_University_U2">
+          <span class="pr-2">Universidad de Urantia - U2</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Un ensayo para una conferencia-retiro en Belton, Texas, 25-27 de julio de 2008
 
@@ -86,3 +110,27 @@ Y todo esto se nos ofrece como el regalo gratuito de nuestro incomparablemente B
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Kantor/Becoming_an_Effective_Missionary_Evangel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convirtiéndonos en un evangelista misionero eficaz</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-10-número-1-2009-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10, Número 1, 2009 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Nash/Urantia_University_U2">
+          <span class="pr-2">Universidad de Urantia - U2</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

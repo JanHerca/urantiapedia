@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1950 William «Bill» Sadler Jr.<br>© 2016 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kermit_Anderson/Thoughts_on_the_Bestowals_of_Personality_and_the_Thought_Adjuster">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pensamientos sobre los otorgamientos de la personalidad y el Ajustador del pensamiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-16-número-1-2016-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 16, Número 1, 2016 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Paula_Thompson/Why_Should_You_Support_a_Urantia_Organization">
+          <span class="pr-2">¿Por qué debería apoyar a una organización de Urantia como The Urantia Book Fellowship?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Transcrito de una grabación de Bill Sadler Jr. en un grupo de estudio. Ligeramente editado para mejorar la legibilidad._
 
@@ -129,3 +153,27 @@ Los 21 Ancianos de los Días fueron creados y comisionados, creo, esta es la ese
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kermit_Anderson/Thoughts_on_the_Bestowals_of_Personality_and_the_Thought_Adjuster">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pensamientos sobre los otorgamientos de la personalidad y el Ajustador del pensamiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-16-número-1-2016-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 16, Número 1, 2016 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Paula_Thompson/Why_Should_You_Support_a_Urantia_Organization">
+          <span class="pr-2">¿Por qué debería apoyar a una organización de Urantia como The Urantia Book Fellowship?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

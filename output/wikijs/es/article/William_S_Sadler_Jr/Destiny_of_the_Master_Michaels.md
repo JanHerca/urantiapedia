@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1959 William S. «_Bill_» Sadler<br>© 2015 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dave_Holt/Can_We_Have_a_Universal_Standard_of_Morality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Podemos tener un estándar universal de moralidad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-15-número-1-2015-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 15, Número 1, 2015 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/The_Urantia_Book_and_Its_Mission">
+          <span class="pr-2">El libro de Urantia y su misión</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _La siguiente es la transcripción de una visita realizada por William S. «Bill» Sadler, Jr. a un grupo de estudio de California en 1959 o 1960. Era hijo de los Dres. William y Lena Sadler, y miembro del Foro, así como miembro de la Comisión de Contacto para la revelación de Urantia. Presenció la llegada de la serie de documentos ampliados e hizo las preguntas que dieron lugar a los documentos Supremos en _El Libro de Urantia_._
 
@@ -305,3 +329,27 @@ Creemos que hemos encontrado más de Dios. Él siempre estuvo ahí. Simplemente 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dave_Holt/Can_We_Have_a_Universal_Standard_of_Morality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Podemos tener un estándar universal de moralidad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-15-número-1-2015-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 15, Número 1, 2015 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/The_Urantia_Book_and_Its_Mission">
+          <span class="pr-2">El libro de Urantia y su misión</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

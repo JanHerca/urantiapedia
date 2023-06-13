@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Derek Samaras<br>© 2018 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Linda_Buselli/A_Tale_of_Two_Men">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Historia de dos hombres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-18-número-1-2018-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 18, Número 1, 2018 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Preston_Thomas/The_New_Teacher_Leaders">
+          <span class="pr-2">El nuevo maestro/líderes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Akenatón (Iknatón)
 
@@ -145,3 +169,28 @@ He seleccionado algunos de mis pasajes favoritos del libro de Proverbios y un po
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Linda_Buselli/A_Tale_of_Two_Men">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Historia de dos hombres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-18-número-1-2018-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 18, Número 1, 2018 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Preston_Thomas/The_New_Teacher_Leaders">
+          <span class="pr-2">El nuevo maestro/líderes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 David Elders<br>© 2010 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/God_Consciousness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conciencia de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-11-número-1-2010-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11, Número 1, 2010 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sheila_Keene_Lund/Understanding_the_Relation_of_Love_to_the_Mind">
+          <span class="pr-2">Comprender la relación del amor con la mente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bueno. Esto es lo que nosotros, o al menos yo, sabemos hasta ahora sobre el tema de los conceptos de autores humanos utilizados por los reveladores al construir _El Libro de Urantia_.
 
@@ -38,3 +62,27 @@ Las herramientas de los escépticos son inadecuadas para la validación de la re
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/God_Consciousness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conciencia de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-11-número-1-2010-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11, Número 1, 2010 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sheila_Keene_Lund/Understanding_the_Relation_of_Love_to_the_Mind">
+          <span class="pr-2">Comprender la relación del amor con la mente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Halbert Katzen, JD<br>© 2008 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Glass/The_Significance_of_the_Sevenfold_Bestowal_Career">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El significado de la carrera de autootorgamiento séptuple de Cristo Miguel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-9-número-1-2008-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9, Número 1, 2008 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Linda_Buselli/Law_is_Life_Itself">
+          <span class="pr-2">«La ley es la vida misma...»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _El Libro de Urantia_ no es lo que solía ser. Ahora exhibe una calidad de credibilidad única y extraordinaria. La buena noticia es que el libro está haciendo más que resistir la prueba del tiempo; su credibilidad sigue mejorando con el paso del tiempo. En pocas palabras, no hay otro documento en ninguna parte del planeta que aborde de manera tan específica una gama tan amplia de cuestiones históricas y científicas y que también muestre el patrón peculiar de tener afirmaciones corroboradas que estaban en desacuerdo con la ciencia y la erudición o que aún no las habían considerado. fue publicado.
 
@@ -143,3 +167,27 @@ Desde que comencé este proyecto, mi vida se ha abierto de maneras casi milagros
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Glass/The_Significance_of_the_Sevenfold_Bestowal_Career">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El significado de la carrera de autootorgamiento séptuple de Cristo Miguel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-9-número-1-2008-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9, Número 1, 2008 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Linda_Buselli/Law_is_Life_Itself">
+          <span class="pr-2">«La ley es la vida misma...»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

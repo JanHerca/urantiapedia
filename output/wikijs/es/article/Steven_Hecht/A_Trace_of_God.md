@@ -9,6 +9,30 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Steven Hecht<br>© 2004 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Arlene_and_Buck_Weimer/The_Art_of_Marriage">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El arte del matrimonio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-5-número-2-2004-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 2, 2004 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/The_Golden_Rule_in_Business">
+          <span class="pr-2">La regla de oro en los negocios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La verdad no es tanto un estado como un proceso, el proceso de vivir. _El Libro de Urantia_ enseña esto. Esta idea es crucial para la religión posmoderna y su comprensión de la divinidad: Dios, la divinidad, no se encuentra en un cuerpo de creencias o en un cuerpo de conocimiento. Dios no es un estado del ser, ni siquiera el estado más elevado del ser. Dios está más allá del Ser. El Dios posmoderno es divinidad en el proceso de encontrar a Dios en la otra persona, en el llamado, en el mandato divino, en ese servir al otro, en encontrar a Dios. En _El Libro de Urantia_, Jesús pudo describir este llamado como el reino de los cielos, la voluntad de Dios. La filosofía posmoderna y _El Libro de Urantia_ pueden decir que la capacidad de escuchar ese mandato tiene poco que ver con la creencia y todo que ver con la fe.
 
@@ -126,3 +150,27 @@ Habrá una nueva voz para Dios, una voz con la que todos podamos cantar.
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Arlene_and_Buck_Weimer/The_Art_of_Marriage">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El arte del matrimonio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-5-número-2-2004-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 2, 2004 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Larry_Mullins/The_Golden_Rule_in_Business">
+          <span class="pr-2">La regla de oro en los negocios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

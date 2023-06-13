@@ -9,6 +9,30 @@ dateCreated: 2023-02-09T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Nancy Johnson<br>© 2005 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Finnie/On_Removing_The_Barrier_to_a_Civilized_Discussion_Of_Eugenics">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la eliminación de la barrera a una discusión civilizada de la eugenesia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-6-número-1-2005-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6, Número 1, 2005 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen_Zendt/At_Home_In_The_Universe">
+          <span class="pr-2">En casa en el universo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (Nota del editor: las palabras en negrita indican énfasis del autor).
 
@@ -59,3 +83,27 @@ Creo que el esfuerzo que han hecho los lectores en general hacia el crecimiento 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Finnie/On_Removing_The_Barrier_to_a_Civilized_Discussion_Of_Eugenics">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la eliminación de la barrera a una discusión civilizada de la eugenesia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-6-número-1-2005-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6, Número 1, 2005 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen_Zendt/At_Home_In_The_Universe">
+          <span class="pr-2">En casa en el universo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 William S. «Bill» Sadler, Jr.<br>© 2014 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/The_Rehabilitation_of_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La rehabilitación de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-14-número-1-2014-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 14, Número 1, 2014 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bob_Debold/Pursuing_Supremacy_How_Might_the_Master_Seraphim_and_Human_Beings_Collaborate">
+          <span class="pr-2">En busca de la supremacía: ¿Cómo podrían colaborar los maestros Serafines y los seres humanos?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La siguiente es la transcripción de una visita realizada por William S. ‘Bill’ Sadler, Jr. a un grupo de estudio en 1959 o 1960, cuando Bill visitó varios grupos de estudio en California, Oklahoma y otros lugares. Las transcripciones de otras sesiones grabadas se encuentran en los archivos del sitio web de la Fraternidad.
 
@@ -257,3 +281,27 @@ No. El papel dice, y ahora el finalista se enfrenta cara a cara con el desafío 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/The_Rehabilitation_of_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La rehabilitación de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-14-número-1-2014-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 14, Número 1, 2014 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bob_Debold/Pursuing_Supremacy_How_Might_the_Master_Seraphim_and_Human_Beings_Collaborate">
+          <span class="pr-2">En busca de la supremacía: ¿Cómo podrían colaborar los maestros Serafines y los seres humanos?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

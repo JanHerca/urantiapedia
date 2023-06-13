@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Lawrence Schkade<br>© 2015 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_S_Sadler/Sixty_Four_Original_Urantia_Book_Concepts">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sesenta y cuatro conceptos originales de El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-15-número-1-2015-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 15, Número 1, 2015 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Preston_Thomas/The_Importance_of_Christian_Ministry">
+          <span class="pr-2">La importancia del ministerio cristiano</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «¿No podéis ... reconocer que la consigna del universo es el progreso? ... A lo largo de todos esos milenios, la Providencia ha estado realizando el plan de la evolución progresiva». [[LU 4:1.2](/es/The_Urantia_Book/4#p1_2)]
 
@@ -106,6 +130,31 @@ Si bien no es probable que alcancemos la luz y la vida en Urantia, estamos desti
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_S_Sadler/Sixty_Four_Original_Urantia_Book_Concepts">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sesenta y cuatro conceptos originales de El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-15-número-1-2015-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 15, Número 1, 2015 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Preston_Thomas/The_Importance_of_Christian_Ministry">
+          <span class="pr-2">La importancia del ministerio cristiano</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 David Kantor<br>© 2013 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dave_Holt/Exploring_the_Inner_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Explorando la vida interior</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-13-número-1-2013-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 13, Número 1, 2013 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Glass/Moods_Music_and_Magic_of_The_Urantia_Book">
+          <span class="pr-2">Estados de ánimo, música y magia del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Nota del autor: Este ensayo intenta explorar_ _El Libro de Urantia_ _una visión general de la aventura de la fe en el contexto de algunas de las observaciones de Paul Tillich sobre la fe en su obra clásica,_ «La dinámica de la fe»_—en particular, las opiniones de Tillich sobre la duda y la incertidumbre como componentes inevitables de la búsqueda de la fe.
 {.is-info}
@@ -173,3 +197,27 @@ Que nuestros benefactores espirituales nos bendigan a cada uno de nosotros con d
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dave_Holt/Exploring_the_Inner_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Explorando la vida interior</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-13-número-1-2013-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 13, Número 1, 2013 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Glass/Moods_Music_and_Magic_of_The_Urantia_Book">
+          <span class="pr-2">Estados de ánimo, música y magia del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Al Lockett<br>© 2003 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Kantor/Safeguarding_the_Symbols_of_Urantian_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Salvaguardar los símbolos de la fe de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-5-número-1-2003-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 1, 2003 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Linda_Buselli/The_Patterns_of_Revelation">
+          <span class="pr-2">Los patrones de la revelación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La creencia puede existir sin fe; pero la fe no puede existir sin la creencia. La creencia puede existir sin Dios; pero la fe no puede existir sin Dios.
 
@@ -84,3 +108,27 @@ exigiendo que los hombres dediquen su vida a buscar el conocimiento de la volunt
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Kantor/Safeguarding_the_Symbols_of_Urantian_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Salvaguardar los símbolos de la fe de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-5-número-1-2003-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 1, 2003 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Linda_Buselli/The_Patterns_of_Revelation">
+          <span class="pr-2">Los patrones de la revelación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

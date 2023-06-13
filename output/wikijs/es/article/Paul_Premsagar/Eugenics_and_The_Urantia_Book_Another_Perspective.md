@@ -9,6 +9,30 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Paul Premsagar, MD<br>© 2002 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marvin_Gawryn/Centering_A_Method_of_Divine_Embrace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Centrar: un método de abrazo divino</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-4-número-1-2002-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4, Número 1, 2002 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Finlan/Revelatory_Mouthpiecing">
+          <span class="pr-2">Boquilla reveladora</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El Fellowship Herald del verano de 2001 publicó un artículo titulado «Eugenesia ética: una propuesta modesta para el siglo XXI», escrito por Charles (Chick) Montgomery. Estoy escribiendo esto en respuesta a ello, señalando dónde no estoy de acuerdo con Chick en base a mi comprensión de las enseñanzas de _El Libro de Urantia_. Lo que sigue no es una refutación, sino otra perspectiva. He utilizado citas de _El Libro de Urantia_ para respaldar mis argumentos.
 
@@ -92,3 +116,27 @@ El mensaje central de _El Libro de Urantia_ es la paternidad de Dios y la herman
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marvin_Gawryn/Centering_A_Method_of_Divine_Embrace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Centrar: un método de abrazo divino</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-4-número-1-2002-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4, Número 1, 2002 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Finlan/Revelatory_Mouthpiecing">
+          <span class="pr-2">Boquilla reveladora</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Linda Buselli<br>© 2011 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/The_Power_of_The_Name_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El poder del nombre de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-11-número-2-2011-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11, Número 2, 2011 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Glass/Nearer_My_God_to_Thee_Getting_Closer_to_God">
+          <span class="pr-2">«Más cerca, Dios mío, de ti». Acercándonos a Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Lo siguiente fue presentado como un taller en la Sesión de Estudio de Verano de la Fellowship, del 7 al 9 de julio de 2006, en la Universidad Dominicana, River Forest, Illinois._
 
@@ -158,3 +182,28 @@ Creo que todos podemos esperar conocerlo en los mundos de las mansiones, y yo, p
 [^5]: David Sacks, _Letter Perfect_, Random House, 2003
 
 [^6]: notas personales del padre de Carolyn Kendall, Clarence Bowman, miembro del foro
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Charles_Laurence_Olivea/The_Power_of_The_Name_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El poder del nombre de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-11-número-2-2011-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11, Número 2, 2011 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Glass/Nearer_My_God_to_Thee_Getting_Closer_to_God">
+          <span class="pr-2">«Más cerca, Dios mío, de ti». Acercándonos a Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Dan Amyx<br>© 2010 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Angela_Thurston/Testimonial_of_One_Second_Generation_Urantian">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Testimonio de un urantiano de segunda generación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-11-número-1-2010-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11, Número 1, 2010 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bob_Debold/Crouching_Deity_Hidden_Supreme">
+          <span class="pr-2">Deidad agazapada/Supremo oculto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 A lo largo de mi vida ha habido aspectos de los negocios que me han preocupado. He observado que corporaciones internacionales ricas dañan el medio ambiente, causan problemas culturales en países en desarrollo, incluso causan muertes, todo por falta de dinero. Para algunas personas, esto podría sugerir que el dinero y los negocios son malos o perversos. Pero no es el dinero el problema, es la administración del mismo; el ejercicio del poder financiero sin ética ni moralidad. Claro, muchas empresas siguen la ley, pero a menudo encuentran «lagunas» que les permiten hacer lo que quieran, sin tener en cuenta las consecuencias periféricas. En otras palabras, las empresas generalmente hacen lo que pueden y no lo que es correcto. Creo que parte de la razón es que durante siglos, los negocios han sido tratados como una entidad separada de nuestra vida diaria. Se considera amoral, sin moral, ni buena ni mala, simplemente sin. Esto ha permitido que hombres y mujeres que normalmente viven sus vidas de manera ética o moral, tomen un año sabático del comportamiento adecuado mientras realizan sus negocios.
 
@@ -67,3 +91,27 @@ No podemos cambiar el mundo ahora, pero podemos cambiar el mundo de mañana actu
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Angela_Thurston/Testimonial_of_One_Second_Generation_Urantian">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Testimonio de un urantiano de segunda generación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-11-número-1-2010-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11, Número 1, 2010 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bob_Debold/Crouching_Deity_Hidden_Supreme">
+          <span class="pr-2">Deidad agazapada/Supremo oculto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

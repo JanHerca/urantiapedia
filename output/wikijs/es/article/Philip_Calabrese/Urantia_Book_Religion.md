@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Philip G Calabrese<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Tenney/Following_in_the_Footsteps_of_Enoch_and_Elijah">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Siguiendo los pasos de Enoc y Elías: El camino hacia la fusión con el Ajustador</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-19-número-1-2019-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 19, Número 1, 2019 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Schuer/Gems_of_Wisdom_by_Father_Robert_Schuer">
+          <span class="pr-2">Gemas de sabiduría del pater Robert Schuer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## 1) Religión individual vs. organizada
 
@@ -199,3 +223,27 @@ Este simbolismo superior de una civilización más elevada debe estar basado en 
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Tenney/Following_in_the_Footsteps_of_Enoch_and_Elijah">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Siguiendo los pasos de Enoc y Elías: El camino hacia la fusión con el Ajustador</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-19-número-1-2019-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 19, Número 1, 2019 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Schuer/Gems_of_Wisdom_by_Father_Robert_Schuer">
+          <span class="pr-2">Gemas de sabiduría del pater Robert Schuer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

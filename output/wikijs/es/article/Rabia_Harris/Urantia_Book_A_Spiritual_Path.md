@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Rabia Harris<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Neal_Waldrop/Epochal_Pathways">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Caminos de época</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-19-número-1-2019-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 19, Número 1, 2019 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bruce_Jackson/The_Challenge_of_Revelation_Based_Education">
+          <span class="pr-2">El desafío de la educación basada en la revelación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Hubo un tiempo en que la religión de una cultura definía a una persona a lo largo de la vida. No se presentó ninguna elección como parte de su socialización. Esto nunca fue para ser cuestionado. Aunque puede haber dudas y escepticismo, pocos en cualquier sociedad establecida se atrevieron a cuestionar el paradigma religioso dominante.
 
@@ -50,6 +74,31 @@ Tal vez sea hora de comenzar a usar nuevas palabras para nuestras conexiones esp
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Neal_Waldrop/Epochal_Pathways">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Caminos de época</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-19-número-1-2019-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 19, Número 1, 2019 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bruce_Jackson/The_Challenge_of_Revelation_Based_Education">
+          <span class="pr-2">El desafío de la educación basada en la revelación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

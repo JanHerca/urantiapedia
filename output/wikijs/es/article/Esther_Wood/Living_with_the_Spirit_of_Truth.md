@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Esther Wood<br>© 2021 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sharon_Porter/Mother_and_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Madre y Padre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-21-número-1-2021-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 21, Número 1, 2021 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Of_Two_Minds_Human_and_Divine">
+          <span class="pr-2">De dos mentes: humana y divina</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Mi teoría es esta: lo que los ayudantes hacen por la mente mortal, el Espíritu de la Verdad y el Espíritu Santo lo hacen por la conciencia del alma.
 
@@ -129,3 +153,27 @@ Jesús nos dio este regalo de sí mismo, el Espíritu de la Verdad, para que pod
 ## Referencias
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sharon_Porter/Mother_and_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Madre y Padre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_herald#volumen-21-número-1-2021-verano">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 21, Número 1, 2021 (Verano) — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Of_Two_Minds_Human_and_Divine">
+          <span class="pr-2">De dos mentes: humana y divina</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
