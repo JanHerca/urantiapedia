@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Turning_of_the_Tables">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El cambio de tornas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Learning_to_Keep_a_Guard_on_Our_Mouths">
+          <span class="pr-2">Aprendiendo a vigilar nuestra boca</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Si desea participar en una oración eficaz, debe tener en cuenta lo siguiente:
 
@@ -25,3 +49,27 @@ Si desea participar en una oración eficaz, debe tener en cuenta lo siguiente:
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page6.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Turning_of_the_Tables">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El cambio de tornas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Learning_to_Keep_a_Guard_on_Our_Mouths">
+          <span class="pr-2">Aprendiendo a vigilar nuestra boca</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Ken Glasziou<br>© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la Revelación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_the_Will_of_God">
+          <span class="pr-2">Sobre la Voluntad de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 - Las cosas están condicionadas por el tiempo pero la verdad es atemporal. Cuanta más verdad sepas, más verdad eres, más del pasado puedes entender y del futuro puedes comprender.
 - La verdad es inconfundible, siempre exenta de todas las vicisitudes transitorias, aunque nunca muerta y formal, siempre vibrante y adaptable, radiantemente viva.
@@ -32,3 +56,27 @@ La verdad divina es una realidad viva y discernida por el espíritu. La verdad e
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page11.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la Revelación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_the_Will_of_God">
+          <span class="pr-2">Sobre la Voluntad de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

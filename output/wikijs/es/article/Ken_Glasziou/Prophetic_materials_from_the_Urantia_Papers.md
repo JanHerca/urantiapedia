@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T20:03:34.958Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Why_is_there_both_Error_and_Prophecy_in_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Por qué hay error y profecía en la Revelación de Urantia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/What_fuels_our_Sun_and_other_Stars">
+          <span class="pr-2">¿Qué alimenta nuestro Sol y otras estrellas?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Resumen
 
@@ -85,3 +109,28 @@ Cuando tomamos en consideración que los detalles de Swann fueron modificados de
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page10.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Why_is_there_both_Error_and_Prophecy_in_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Por qué hay error y profecía en la Revelación de Urantia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/What_fuels_our_Sun_and_other_Stars">
+          <span class="pr-2">¿Qué alimenta nuestro Sol y otras estrellas?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

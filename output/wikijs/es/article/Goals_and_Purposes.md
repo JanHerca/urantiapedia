@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Angona_Nemesis_and_the_Solar_System">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Angona, Némesis y el Sistema Solar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Living_as_Jesus_Lived">
+          <span class="pr-2">Vivir como Jesús vivió</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «La meta de la autorrealización humana debería ser espiritual, no material. Las únicas realidades por las que vale la pena luchar son divinas, espirituales y eternas». ([LU 100:2.6](/es/The_Urantia_Book/100#p2_6))
 
@@ -58,3 +82,28 @@ Por lo tanto, este significado revelado para el amor funciona para cambiar la me
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_4/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Angona_Nemesis_and_the_Solar_System">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Angona, Némesis y el Sistema Solar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Living_as_Jesus_Lived">
+          <span class="pr-2">Vivir como Jesús vivió</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

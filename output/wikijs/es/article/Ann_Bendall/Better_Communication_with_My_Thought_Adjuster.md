@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Elizabeth_Mitchell/More_about_Secondary_Works">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más sobre obras secundarias</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Science_and_The_Urantia_Book_The_Mesotron">
+          <span class="pr-2">La ciencia y El libro de Urantia. El mesotrón</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Mi Ajustador del Pensamiento puede dar fe del hecho de que he intentado todas las formas simples e ingenuas de conversar con Él. En un artículo anterior mencioné algunos de mis esfuerzos desequilibrados, exigentes, insanos y decididamente desesperados para que Él me hablara. Si elijo ser honesto conmigo mismo, ¡todos fallaron!
 
@@ -45,3 +69,28 @@ Al llegar a conocer a Dios y a Jesús, y luego ejercer mi voluntad de una manera
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_5/page15.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Elizabeth_Mitchell/More_about_Secondary_Works">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más sobre obras secundarias</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Science_and_The_Urantia_Book_The_Mesotron">
+          <span class="pr-2">La ciencia y El libro de Urantia. El mesotrón</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

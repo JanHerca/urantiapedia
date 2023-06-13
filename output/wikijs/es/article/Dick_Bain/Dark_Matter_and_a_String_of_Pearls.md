@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T05:01:49.054Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Dick Bain<br>© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/On_Becoming_More_Spiritual_Living_as_Jesus_Lived">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre volverse más espiritual: vivir como vivió Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Mind_of_Jesus">
+          <span class="pr-2">La mente de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 A medida que los astrónomos han cartografiado el universo, han descubierto que las galaxias están dispuestas en largos filamentos y teorizan que la estructura filamentosa se debe a la presencia de una sustancia misteriosa conocida como materia oscura. ¿Cómo podría la materia oscura hipotética ser responsable de la estructura del universo?
 
@@ -51,6 +75,31 @@ Por lo que nuestros astrónomos pueden ver ahora, parece que la imagen simple de
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_5/page13.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/On_Becoming_More_Spiritual_Living_as_Jesus_Lived">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre volverse más espiritual: vivir como vivió Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Mind_of_Jesus">
+          <span class="pr-2">La mente de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

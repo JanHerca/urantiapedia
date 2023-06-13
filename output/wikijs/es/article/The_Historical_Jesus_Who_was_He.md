@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T23:14:44.883Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Reliability_of_New_Testament_Sources">
+          <span class="pr-2">Fiabilidad de las fuentes del Nuevo Testamento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 De «*The Essential Jesus*» 2002, (Ed. BW Ball y WG Johnson) (Pacific Press, Idaho)
 
@@ -77,3 +98,24 @@ Así, de fuentes judías y paganas existen suficientes referencias para corrobor
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_6/page2.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Reliability_of_New_Testament_Sources">
+          <span class="pr-2">Fiabilidad de las fuentes del Nuevo Testamento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

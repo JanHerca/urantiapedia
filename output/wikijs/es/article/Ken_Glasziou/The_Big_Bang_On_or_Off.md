@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T22:31:31.642Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_doing_the_will_of_God_How">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre hacer la voluntad de Dios, ¿cómo?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Papers_on_the_Will_of_God">
+          <span class="pr-2">Los Documentos de Urantia sobre la voluntad de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Actualmente, los avances en la física de partículas esenciales para un mayor desarrollo de la teoría sobre los comienzos de nuestro universo se han ralentizado a paso de tortuga. La razón: todavía falta la partícula de Higgs.
 
@@ -60,3 +84,28 @@ Así que es un mal viento que no trae ningún bien a nadie. La prueba crítica s
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_3/page8.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_doing_the_will_of_God_How">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre hacer la voluntad de Dios, ¿cómo?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Papers_on_the_Will_of_God">
+          <span class="pr-2">Los Documentos de Urantia sobre la voluntad de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

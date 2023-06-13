@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Sydney Harris<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Masami_Saionji/On_Seeing_Others_as_Benefactors">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre ver a los demás como benefactores</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Evolution_of_the_Solar_System">
+          <span class="pr-2">Evolución del Sistema Solar: El papel del caos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Una de las convicciones profundas de las personas que no creen en el Cielo es que si existe un Cielo, está ocupado por gente estúpida. «Todos mis amigos interesantes», dicen sonrientes estos escépticos, «estarán en el otro lugar».
 
@@ -40,3 +64,28 @@ Vale la pena recordar que solo un ser humano recibió la seguridad personal de J
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_3/page14.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Masami_Saionji/On_Seeing_Others_as_Benefactors">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre ver a los demás como benefactores</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Evolution_of_the_Solar_System">
+          <span class="pr-2">Evolución del Sistema Solar: El papel del caos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

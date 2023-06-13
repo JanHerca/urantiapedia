@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/What_the_Urantia_Revelation_reveals">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lo que revela la Revelación de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/All_things_work_together_for_good_despite_2">
+          <span class="pr-2">Todas las cosas obran juntas para bien, aunque no lo parezca</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Las realidades del Padre se revelan dentro de las cualidades de la divinidad. Y estas cualidades de la divinidad son apropiadas personalmente por las criaturas del universo en la experiencia de vivir divinamente, y vivir divinamente significa realmente vivir la voluntad de Dios.
 
@@ -26,3 +50,27 @@ Y ya sabemos hacia dónde se dirige Urantia, porque «la revelación de Dios al 
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page3.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/What_the_Urantia_Revelation_reveals">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lo que revela la Revelación de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/All_things_work_together_for_good_despite_2">
+          <span class="pr-2">Todas las cosas obran juntas para bien, aunque no lo parezca</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

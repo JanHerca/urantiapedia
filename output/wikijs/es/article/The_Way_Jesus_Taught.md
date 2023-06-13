@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Fatherly_and_Brotherly_Love">
+          <span class="pr-2">Amor paterno y fraterno</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > He aquí el método que utilizó para instruirlos: ni una sola vez atacó sus errores ni tampoco mencionó nunca los defectos de sus enseñanzas. En cada caso seleccionaba la verdad que había en lo que enseñaban, y luego procedía a embellecer e iluminar esta verdad en sus mentes de tal manera que en muy poco tiempo este realzamiento de la verdad desplazaba eficazmente el error que la acompañaba; ([LU 132:0.4](/es/The_Urantia_Book/132#p0_4))
 
@@ -43,3 +64,25 @@ Y corresponde a los seguidores del Maestro en todas las épocas aprender a minis
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_4/page2.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Fatherly_and_Brotherly_Love">
+          <span class="pr-2">Amor paterno y fraterno</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

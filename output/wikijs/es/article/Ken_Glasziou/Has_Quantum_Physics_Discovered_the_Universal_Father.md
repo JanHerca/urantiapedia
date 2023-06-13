@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Prayer_and_Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Oración y Adoración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Heisenberg_and_God">
+          <span class="pr-2">Heisenberg y Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En los últimos 100 años, los físicos cuánticos han revelado un mundo subatómico que es consistente con una visión idealista más que materialista de la realidad.
 
@@ -251,3 +275,28 @@ _El Libro de Urantia_ nos dice que toda la materia es energía, pero ¿qué es l
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_4/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Prayer_and_Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Oración y Adoración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Heisenberg_and_God">
+          <span class="pr-2">Heisenberg y Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

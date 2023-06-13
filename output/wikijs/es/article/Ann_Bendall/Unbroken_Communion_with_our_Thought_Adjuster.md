@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Alpha_and_the_Omega">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Alfa y la Omega</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Was_the_Crucifixion_Really_Necessary">
+          <span class="pr-2">¿Era realmente necesaria la crucifixión?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Esto realmente no parece un proceso demasiado complicado; en realidad, es sorprendentemente simple siempre y cuando decidas aquí y ahora volver al nivel de un niño de cinco años —un niño promedio, ordinario, de cinco años, para mí el modelo perfecto a seguir— el niño llamado «Jesús.» Emmanuel le dijo a Miguel que solo debería preocuparse por **la comunión ininterrumpida entre él y su Padre del Paraíso** mientras viviera como Jesús en Urantia. [LU 120:1.4](/es/The_Urantia_Book/120#p1_4) ¡Si fue lo suficientemente bueno para mi modelo de perfección, es lo suficientemente bueno para mí!
 
@@ -66,3 +90,27 @@ Ayúdame y guíame para dominarme, transformarme, para que pueda hacer del hogar
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_2/page5.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Alpha_and_the_Omega">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Alfa y la Omega</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Was_the_Crucifixion_Really_Necessary">
+          <span class="pr-2">¿Era realmente necesaria la crucifixión?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Gideonism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gideonismo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La mayoría de los lectores son conscientes del conflicto entre una declaración en _El Libro de Urantia_ sobre la llegada del hombre rojo a las Américas hace unos 85.000 años y la visión de «Clovis Primero» de la prehistoria americana temprana. El último punto de vista afirmaba que la penetración humana en el continente americano estuvo bloqueada por una capa de hielo canadiense hasta hace 12.000 años.
 
@@ -39,3 +60,25 @@ También está documentada la evidencia de la fabricación de herramientas desde
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page15.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Gideonism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gideonismo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

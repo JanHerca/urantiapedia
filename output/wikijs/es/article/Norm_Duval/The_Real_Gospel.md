@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Norm Duval<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ron_Cyr/Do_We_All_Have_A_Soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Todos tenemos un alma?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Elizabeth_Mitchell/More_about_Secondary_Works">
+          <span class="pr-2">Más sobre obras secundarias</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ¿Qué es el evangelio? Si le preguntaras a varias personas, probablemente obtendrías varias respuestas diferentes. Algunos dirán que la palabra evangelio significa «buenas nuevas», y lo es, pero esa es solo una definición. Quiere saber, __cuáles son las buenas noticias, y de dónde vienen__.
 
@@ -115,3 +139,28 @@ Y finalmente, como se esperaría del Hijo de un Dios amoroso, palabras de consue
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_5/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ron_Cyr/Do_We_All_Have_A_Soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Todos tenemos un alma?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Elizabeth_Mitchell/More_about_Secondary_Works">
+          <span class="pr-2">Más sobre obras secundarias</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

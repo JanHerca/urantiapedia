@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T05:38:41.148Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Dick Bain<br>© 2005 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Why_is_it_necessary_for_there_to_be_error_in_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Por qué es necesario que haya errores en El libro de Urantia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Si estuviéramos mostrando _El Libro de Urantia_ a alguien por primera vez, ¿podríamos convencer a esa persona de que los conceptos principales son lógicos y creíbles? ¿Por qué algunas personas creen en algo como _El Libro de Urantia_ y otras lo rechazan? ¿La lógica dicta lo que creemos? ¿Por qué una persona es escéptica y otra fundamentalista?
 
@@ -77,6 +98,28 @@ Todas las citas son de _El Libro de Urantia_ excepto cuando se indique lo contra
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_3/page14.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Why_is_it_necessary_for_there_to_be_error_in_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Por qué es necesario que haya errores en El libro de Urantia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

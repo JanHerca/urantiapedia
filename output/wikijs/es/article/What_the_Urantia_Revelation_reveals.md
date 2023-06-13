@@ -9,6 +9,27 @@ dateCreated: 2022-09-27T01:09:36.176Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meanings_and_Goals">
+          <span class="pr-2">Significados y metas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## ¿Cuál es su mensaje principal?
 
@@ -36,3 +57,25 @@ El estado espiritual real es la medida del logro de la Deidad: la sintonía con 
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page2.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meanings_and_Goals">
+          <span class="pr-2">Significados y metas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

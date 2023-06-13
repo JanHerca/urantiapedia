@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Dick Bain<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la adoración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En la teología hindú, cuando Brahma exhala, aparece el universo; cuando inhala, el universo desaparece. El Libro de Urantia tiene un concepto similar llamado respiración espacial. Los autores proporcionan una imagen verbal de este fenómeno, pero hay mucho que no se nos dice. ¿Qué detalles adicionales podemos deducir de la información del libro?
 
@@ -82,6 +103,28 @@ La especulación no necesariamente proporcionará respuestas correctas, pero pue
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_1/page12.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la adoración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

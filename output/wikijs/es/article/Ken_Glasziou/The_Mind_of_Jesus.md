@@ -9,6 +9,24 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Estos Documentos confirman que el propósito de la vida de Jesús en nuestro planeta incluía revelar a Dios al hombre y al hombre a Dios, y que su vida debía exhibir «las posibilidades trascendentes que puede alcanzar un humano que conoce a Dios durante la breve carrera de la existencia mortal. » ([LU 120:2.8](/es/The_Urantia_Book/120#p2_8))
 
@@ -607,3 +625,21 @@ El Padre es amor vivo y esta vida del Padre está en su Hijo. Y el Espíritu del
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_4/page2.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

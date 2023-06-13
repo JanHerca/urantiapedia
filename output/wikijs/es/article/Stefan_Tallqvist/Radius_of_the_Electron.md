@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Stefan Tallqvist<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Introducing_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la presentación de El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Urantia_Book_versus_its_Philosophy">
+          <span class="pr-2">El Libro de Urantia frente a su filosofía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _Si la masa de la materia se pudiera aumentar hasta que la masa de un electrón equivaliera a una décima parte de una onza [2,8 gramos], y si su tamaño aumentara proporcionalmente, el volumen de dicho electrón sería tan grande como el de la Tierra._ (_El Libro de Urantia_, [LU 42:6.8](/es/The_Urantia_Book/42#p6_8))
 
@@ -40,3 +64,28 @@ No hay forma posible de que esto pueda ser algún tipo de coincidencia. Si miram
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Introducing_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la presentación de El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Urantia_Book_versus_its_Philosophy">
+          <span class="pr-2">El Libro de Urantia frente a su filosofía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

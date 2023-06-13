@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ann Bendall<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Limitations_of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Limitaciones de la Revelación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Purpose_and_Limitations_of_the_5th_Epochal_Revelation">
+          <span class="pr-2">El Propósito y las Limitaciones de la Quinta Revelación de Época</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ¡Qué delicia sería para nuestro Ajustador del Pensamiento si fuéramos de mente abierta cuando leemos por primera vez _El Libro de Urantia_, pero la realidad es que muy pocos de nosotros lo somos! Leeremos el libro a través de nuestro sistema de filtrado perceptivo que traducirá su contenido de acuerdo con nuestras ideas actuales de verdad y realidad.
 
@@ -101,3 +125,28 @@ El camino del estudiante se convierte en una aventura de fe en la que tenemos el
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_1/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Limitations_of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Limitaciones de la Revelación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Purpose_and_Limitations_of_the_5th_Epochal_Revelation">
+          <span class="pr-2">El Propósito y las Limitaciones de la Quinta Revelación de Época</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

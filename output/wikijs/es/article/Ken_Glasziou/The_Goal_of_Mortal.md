@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Alter_Ego_and_the_Indwelling_Spirit">
+          <span class="pr-2">El 'alter ego' y el espíritu interior</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > ... La gran meta de la existencia humana consiste en sintonizarse con la divinidad del Ajustador interior; el gran logro de la vida mortal consiste en alcanzar una verdadera consagración comprensiva a los objetivos eternos del espíritu divino que espera y trabaja dentro de vuestra mente. Pero un esfuerzo ferviente y determinado por hacer realidad el destino eterno es enteramente compatible con una vida despreocupada y alegre, y con una carrera lograda y honorable en la Tierra. La cooperación con el Ajustador del Pensamiento no implica que haya que torturarse, fingir piedad o autodegradarse de manera hipócrita y ostentosa; la vida ideal consiste en servir con amor, en lugar de llevar una existencia de aprensión temerosa.
 > 
@@ -26,3 +47,25 @@ dateCreated: 2022-9-9T8:13:39Z
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_3/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Alter_Ego_and_the_Indwelling_Spirit">
+          <span class="pr-2">El 'alter ego' y el espíritu interior</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

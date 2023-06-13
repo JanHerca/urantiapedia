@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T22:28:40.037Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Goal_of_Mortal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El objetivo de la vida mortal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Indwelling_Father_Spirit">
+          <span class="pr-2">El Padre-Espíritu que mora en nosotros</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «_El gran desafío para el hombre moderno consiste en conseguir una mejor comunicación con el Monitor divino que reside en la mente humana._» ([LU 196:3.34](/es/The_Urantia_Book/196#p3_34))
 
@@ -60,3 +84,28 @@ Cuando la oración no busca nada para el que ora ni nada para sus semejantes, en
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_3/page3.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Goal_of_Mortal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El objetivo de la vida mortal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Indwelling_Father_Spirit">
+          <span class="pr-2">El Padre-Espíritu que mora en nosotros</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

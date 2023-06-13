@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ann Bendall<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Papers_are_self_authenticating">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los Documentos de Urantia se autoautentican</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/On_Prayer">
+          <span class="pr-2">Sobre la oración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La imagen popular de Jesús, como nuestro ideal de perfección, es la de una persona mansa y mansa. Se negó a defenderse física y verbalmente, nunca corrigió la opinión de otra persona sobre sí mismo, era el epítome del desinterés. Pero en este modelo de mansedumbre, tolerancia y paciencia, también había rectitud e intolerancia a la hipocresía, ejemplificado por su acto extraordinario el lunes antes de ser crucificado cuando limpió el templo de comerciantes seculares (un acto que había prometido llevar a cabo 20 años antes). ([LU 125:6.9](/es/The_Urantia_Book/125#p6_9))
 
@@ -35,3 +59,28 @@ La parábola de acción del «lavatorio de los pies» era para demostrar lo que 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page5.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Papers_are_self_authenticating">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los Documentos de Urantia se autoautentican</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/On_Prayer">
+          <span class="pr-2">Sobre la oración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Matt_Neibaur/On_Copyright_and_Plagiarism_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre los derechos de autor y el plagio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Crime_Against_Humanity">
+          <span class="pr-2">¿Un crimen contra la humanidad?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «Pero ninguna revelación puede ser nunca completa hasta que no se alcanza al Padre Universal. **Todos los demás ministerios celestiales no son más que parciales, transitorios y prácticamente adaptados a las condiciones locales en el tiempo y el espacio.**» ([LU 92:4.9](/es/The_Urantia_Book/92#p4_9))
 
@@ -151,3 +175,28 @@ Ciertamente parece que la vida mortal está destinada a estar cargada de incerti
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Matt_Neibaur/On_Copyright_and_Plagiarism_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre los derechos de autor y el plagio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Crime_Against_Humanity">
+          <span class="pr-2">¿Un crimen contra la humanidad?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

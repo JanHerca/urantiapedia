@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 William Wentworth<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ian_Stephen/Adversity_and_the_Spiritual_Value_of_Disappointment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La adversidad y el valor espiritual de la decepción</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ron_Cyr/Do_We_All_Have_A_Soul">
+          <span class="pr-2">¿Todos tenemos un alma?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Si hay un solo tema que ejercita las mentes de los lectores de _El Libro de Urantia_, la cuestión de cómo atraer a más lectores o, alternativamente, cómo difundir las enseñanzas, debería ocupar un lugar privilegiado. Parece que prestamos más atención a esta cuestión que a casi cualquier otra. Dondequiera que se reúnan los lectores, en grupos de estudio, conferencias o situaciones sociales cotidianas, la conversación suele girar en torno a esta pregunta. Y aunque no se ha intentado ninguna encuesta, es una apuesta justa decir que los lectores han escrito más palabras sobre este tema que sobre cualquier otro. En todas nuestras mentes la pregunta insiste en incidir en sí misma. ¿Cómo vamos a presentar la Quinta Revelación de Época a la gente de Urantia? ¿Cómo va a ser consciente la población de nuestro planeta de la información más avanzada que se ha puesto a nuestra disposición hasta ahora? ¿Qué podemos hacer para ayudar a las personas a tomar en serio el mensaje de esperanza que contiene la Revelación?
 
@@ -34,3 +58,28 @@ Sin embargo, incluso para el mismo Jesús, «todo debe esperar la llegada de su 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_5/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ian_Stephen/Adversity_and_the_Spiritual_Value_of_Disappointment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La adversidad y el valor espiritual de la decepción</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ron_Cyr/Do_We_All_Have_A_Soul">
+          <span class="pr-2">¿Todos tenemos un alma?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

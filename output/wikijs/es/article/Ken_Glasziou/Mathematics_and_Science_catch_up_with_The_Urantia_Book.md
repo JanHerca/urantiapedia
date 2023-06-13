@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T11:49:05.941Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Ken Glasziou<br>© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Mind_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mente de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Matemáticas y Ciencias se ponen al día con _El Libro de Urantia_ «En el estado mortal, nada se puede probar absolutamente; tanto la ciencia como la religión se basan en suposiciones». ([LU 103:7.10](/es/The_Urantia_Book/103#p7_10))
 
@@ -49,3 +70,25 @@ La base de la física, de hecho de toda ciencia, son las matemáticas. Por lo ta
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_5/page17.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Mind_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mente de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

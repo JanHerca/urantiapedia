@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/God_consciousness_of_God_the_will_of">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La conciencia de ios y la voluntad de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Living_as_Jesus_lived_2">
+          <span class="pr-2">Vivir como vivió Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Los significados son inexistentes en un mundo totalmente sensorial o material. Los significados y los valores solo se perciben en las esferas internas o supramateriales de la experiencia humana.
 
@@ -65,3 +89,27 @@ Pero, ¿cómo podemos estar seguros de que hablamos en serio? Todo lo que necesi
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page6.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/God_consciousness_of_God_the_will_of">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La conciencia de ios y la voluntad de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Living_as_Jesus_lived_2">
+          <span class="pr-2">Vivir como vivió Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

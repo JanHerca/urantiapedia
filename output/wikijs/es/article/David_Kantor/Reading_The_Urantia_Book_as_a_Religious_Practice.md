@@ -9,6 +9,30 @@ dateCreated: 2022-09-07T12:15:17.611Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 David Kantor<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Purpose_of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Propósito de la Revelación: Una respuesta a «Urantia: El gran culto de misterio» de Martin Gardner</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_response_to_some_of_the_Gardner_criticisms">
+          <span class="pr-2">Una respuesta a algunas de las críticas de Gardner</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > No te desanimes; la evolución humana aún está en marcha, y la revelación de Dios al mundo, en ya través de Jesús, no fallará. ([LU 196:3.33](/es/The_Urantia_Book/196#p3_33))
 
@@ -125,3 +149,27 @@ Estos se convierten en los problemas en las fronteras del crecimiento y el servi
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_1/page11.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Purpose_of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Propósito de la Revelación: Una respuesta a «Urantia: El gran culto de misterio» de Martin Gardner</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_response_to_some_of_the_Gardner_criticisms">
+          <span class="pr-2">Una respuesta a algunas de las críticas de Gardner</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

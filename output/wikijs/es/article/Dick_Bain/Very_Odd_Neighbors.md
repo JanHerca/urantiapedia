@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Dick Bain<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rob_Crickett/Providing_Urantianite_Spiritual_Leadership">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Proporcionar Liderazgo Espiritual Urantianita</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/James_the_Brother_of_Jesus_What_happened_to_him">
+          <span class="pr-2">Santiago, el hermano de Jesús. ¿Qué le pasó?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La idea inusual de los vecinos de al lado ha sido el tema de muchas películas y programas de televisión. Pero sería difícil imaginar vecinos tan extraños como algunos vecinos mencionados en _El Libro de Urantia_. Viven en un planeta 'cercano' y se les llama no respiradores. Las criaturas de voluntad inteligentes vienen en muchos tamaños y estilos para adaptarse a las condiciones de su planeta pero, según los autores, de todos los demás mortales, los que no respiran son los más radicalmente diferentes de nosotros.
 
@@ -37,3 +61,28 @@ En [LU 40:5.15](/es/The_Urantia_Book/40#p5_15), el autor del Documento 41 nos in
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page6.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rob_Crickett/Providing_Urantianite_Spiritual_Leadership">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Proporcionar Liderazgo Espiritual Urantianita</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/James_the_Brother_of_Jesus_What_happened_to_him">
+          <span class="pr-2">Santiago, el hermano de Jesús. ¿Qué le pasó?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

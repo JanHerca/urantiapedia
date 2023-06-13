@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Truth_and_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Verdad y Fe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Swann_Gardner_and_The_Urantia_Book">
+          <span class="pr-2">Swann, Gardner y El libro de Urantia: protones y electrones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > El gran desafío para el hombre moderno consiste en conseguir una mejor comunicación con el Monitor divino que reside en la mente humana. ([LU 196:3.34](/es/The_Urantia_Book/196#p3_34))
 
@@ -62,3 +86,28 @@ Lo que sigue a esta cita de [LU 193:2.2](/es/The_Urantia_Book/193#p2_2) es proba
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_2/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Truth_and_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Verdad y Fe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Swann_Gardner_and_The_Urantia_Book">
+          <span class="pr-2">Swann, Gardner y El libro de Urantia: protones y electrones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

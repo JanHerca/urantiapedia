@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Has_Quantum_Physics_Discovered_the_Universal_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Ha descubierto la Física Cuántica al Padre Universal?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Well_Has_It">
+          <span class="pr-2">Bueno, ¿lo tenemos?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 de un ensayo, «Positivismo, metafísica y religión». por Werner Heisenberg.
 
@@ -29,3 +53,28 @@ A pesar de lo avanzado de la hora, un pequeño bote atracó en el embarcadero y 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_4/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Has_Quantum_Physics_Discovered_the_Universal_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Ha descubierto la Física Cuántica al Padre Universal?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Well_Has_It">
+          <span class="pr-2">Bueno, ¿lo tenemos?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

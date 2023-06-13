@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T08:02:29.703Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Materialism_is_Dead">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conciencia cuántica, materialismo y los documentos de Urantia: por qué el materialismo está muerto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Perfection">
+          <span class="pr-2">Sobre la perfección</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Imagina otro planeta en el que se desarrolla la vida. Pequeños fragmentos de material autorreplicante (equivalente a nuestros genes) se encierran a sí mismos a través de la selección natural en una armadura particular que exhibe flexibilidad de comportamiento. Una especie en particular, casualmente un organismo inteligente de dos patas, se vuelve capaz de hazañas excepcionales como comunicarse con sutileza, crear obras maestras artísticas, mirar televisión, jugar juegos de computadora, etc.
 
@@ -42,3 +66,28 @@ Si bien sigue siendo cierto que la certeza nos evade, también sigue siendo cier
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_1/page8.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Materialism_is_Dead">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conciencia cuántica, materialismo y los documentos de Urantia: por qué el materialismo está muerto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Perfection">
+          <span class="pr-2">Sobre la perfección</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

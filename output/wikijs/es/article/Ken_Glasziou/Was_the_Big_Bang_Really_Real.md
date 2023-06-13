@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Living_as_Jesus_Lived">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivir como Jesús vivió</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/De_Imitatione_Jesu">
+          <span class="pr-2">De Imitatione Jesu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 No si tomamos la cosmología de los Documentos de Urantia literalmente en lugar de su propósito declarado de proporcionar un marco universal temporal en el que pensar sobre nuestras carreras universales. Ha aparecido nueva evidencia desde nuestra discusión anterior sobre este tema.
 
@@ -45,3 +69,28 @@ Si las predicciones resultan ser correctas, será una prueba más de que el Big 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_4/page12.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Living_as_Jesus_Lived">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivir como Jesús vivió</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/De_Imitatione_Jesu">
+          <span class="pr-2">De Imitatione Jesu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

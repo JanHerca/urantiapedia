@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Christianitys_Needs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El cristianismo necesita...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Alegría profética. Tal vez sea difícil para los mortales imaginar esta fase del humor, pero obtenemos una satisfacción peculiar de la seguridad de que «todas las cosas obran juntas para bien», tanto para los espíritus y los morontianos como para los mortales. Este aspecto del humor celestial surge de nuestra fe en el cuidado amoroso de nuestros superiores y en la estabilidad divina de nuestros Directores Supremos.
 
@@ -24,3 +45,25 @@ Jesús le dijo a Ganid, un muchacho indio: «Ganid, tengo una confianza absoluta
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page22.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Christianitys_Needs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El cristianismo necesita...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

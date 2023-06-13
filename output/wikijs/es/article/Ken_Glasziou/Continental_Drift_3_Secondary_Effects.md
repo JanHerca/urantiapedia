@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T04:52:13.783Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Continental_Drift_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Deriva continental 2</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Radiometric_chemistry_Age_of_the_Earth">
+          <span class="pr-2">Edad de la Tierra según la química radiométrica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 «Existe una curiosa historia paralela entre las historias de los agujeros negros y la deriva continental. La evidencia de ambas ya no era ignorable en 1916, pero ambas ideas fueron detenidas en seco durante medio siglo por una resistencia que bordeaba lo irracional... pero la resistencia a ambos comenzó a desmoronarse alrededor de 1960». (Werner Israel, citado en Thorne[^1])
 
@@ -37,6 +61,31 @@ La presencia de fósiles de marsupiales en estratos del Oligoceno (alrededor de 
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page28.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Continental_Drift_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Deriva continental 2</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Radiometric_chemistry_Age_of_the_Earth">
+          <span class="pr-2">Edad de la Tierra según la química radiométrica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

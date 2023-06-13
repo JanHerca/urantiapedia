@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Purpose_and_Limitations_of_the_5th_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Propósito y las Limitaciones de la Quinta Revelación de Época</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Song_of_Joy">
+          <span class="pr-2">La canción de la alegría de Beethovan</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Hace algunos años escribí un artículo para el boletín Six-O-Six dando a entender que el contenido científico de _El Libro de Urantia_ puede contener errores. Esta declaración trajo una respuesta apasionada negando categóricamente que el libro pudiera contener error y afirmando que en ninguna circunstancia los reveladores nos mentirían. La inclusión de una sección de contenido científico en Innerface ha provocado respuestas emocionales similares, siendo la más extrema que cada vez que la ciencia actual está en desacuerdo con _El Libro de Urantia_, es la ciencia la que está equivocada y nunca el libro.
 
@@ -71,3 +95,28 @@ Aunque sea un rompecabezas, la existencia de sus acertijos solo ha servido para 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_1/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Purpose_and_Limitations_of_the_5th_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Propósito y las Limitaciones de la Quinta Revelación de Época</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Song_of_Joy">
+          <span class="pr-2">La canción de la alegría de Beethovan</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

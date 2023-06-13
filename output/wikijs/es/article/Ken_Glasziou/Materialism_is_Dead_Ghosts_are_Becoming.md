@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/What_Was_Jesus_Like">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cómo era Jesús?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El pensamiento materialista-determinista se remonta al menos a David Hume (m. 1776), de quien surgió el paradigma de que una propuesta sólo tenía sentido si podía verificarse por medios empíricos. Pierre La Place (m. 1827) agregó que si la posición y el movimiento de todos los átomos pudieran conocerse al mismo tiempo, todo podría predecirse en el futuro.
 
@@ -37,3 +58,25 @@ Adivina qué. La gente ahora está tratando de usar la imagen fantasma del átom
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_1/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/What_Was_Jesus_Like">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cómo era Jesús?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-09-27T01:34:22.556Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Papers_What_should_our_expectations_be">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los documentos de Urantia: ¿cuáles deberían ser nuestras expectativas?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Prophetic_materials_from_the_Urantia_Papers">
+          <span class="pr-2">Materiales proféticos de los Documentos de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Resumen
 
@@ -83,6 +107,31 @@ Otra consideración es la esperanza declarada de los autores de que su ofrenda a
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page6.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Papers_What_should_our_expectations_be">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los documentos de Urantia: ¿cuáles deberían ser nuestras expectativas?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Prophetic_materials_from_the_Urantia_Papers">
+          <span class="pr-2">Materiales proféticos de los Documentos de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

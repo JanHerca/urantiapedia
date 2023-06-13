@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T19:14:54.696Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Indwelling_Presence_of_God">
+          <span class="pr-2">La presencia de Dios que mora en nosotros</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina. Una visión así nueva y justa de la moralidad atraerá todo lo que hay de bueno en la mente del hombre y desafiará lo que hay de mejor en el alma humana. ([LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
 
@@ -48,3 +69,25 @@ Tal vez solo diez personas leerían nuestros esfuerzos. Pero si lo pasan, diez p
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page2.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Indwelling_Presence_of_God">
+          <span class="pr-2">La presencia de Dios que mora en nosotros</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

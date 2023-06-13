@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/What_fuels_our_Sun_and_other_Stars">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué alimenta nuestro Sol y otras estrellas?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/What_If">
+          <span class="pr-2">¿Y si?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Al detallar su relato de la evolución de la vida y la tierra en nuestro planeta en los Documentos de Urantia [57](/es/The_Urantia_Book/57), [58](/es/The_Urantia_Book/58), [59](/es/The_Urantia_Book/59) y [60](/es/The_Urantia_Book/60), los autores han abrazado de todo corazón el concepto de deriva continental, una idea promovida por primera vez por Alfred Wegener en 1910. Quite la deriva continental de estos cuatro Documentos y colapsarán como un montón algo desordenado.
 
@@ -37,6 +61,31 @@ Una suposición afortunada parece ser la única alternativa. Pero las probabilid
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page14.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/What_fuels_our_Sun_and_other_Stars">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué alimenta nuestro Sol y otras estrellas?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/What_If">
+          <span class="pr-2">¿Y si?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

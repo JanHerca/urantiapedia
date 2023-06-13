@@ -9,6 +9,30 @@ dateCreated: 2022-9-8T14:13:9Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Christianity_a_Different_Perspective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cristianismo: una perspectiva diferente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Forgiveness_Reconciliation_and_Reparation_the_Dilemma">
+          <span class="pr-2">Perdón, reconciliación y reparación: ¿el dilema?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Sobre la base de que la revelación de Urantia nos fue dada en el período 1934/5, anteriormente he considerado ciertas declaraciones en _El Libro de Urantia_ como proféticas. Entre estos había descripciones de la fuerza que mantiene unido el núcleo atómico, también la llamada fuerza débil de desintegración radiactiva y el papel del neutrino en las explosiones de supernova. A través de su exploración de fuentes humanas para los materiales de _Urantia Book_, Matthew Block ahora ha descubierto artículos científicos, publicados a principios de la década de 1940, que obviamente proporcionaron material de origen para lo que yo había considerado una declaración profética.
 
@@ -63,6 +87,31 @@ Gamow estaba adivinando. Quien haya escrito el Documento 41 sabía muy bien que 
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page5.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Christianity_a_Different_Perspective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cristianismo: una perspectiva diferente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Forgiveness_Reconciliation_and_Reparation_the_Dilemma">
+          <span class="pr-2">Perdón, reconciliación y reparación: ¿el dilema?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

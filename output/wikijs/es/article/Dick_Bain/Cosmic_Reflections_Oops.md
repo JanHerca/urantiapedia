@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Dick Bain<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Origin_of_Life_on_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El origen de la vida en Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Red_Shift_Shifted">
+          <span class="pr-2">El corrimiento al rojo, desplazado</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La astronomía y cosmología de _El Libro de Urantia_ ha sido un problema para muchos de los que nos preocupamos por este campo del conocimiento. Nos resulta difícil armonizar las descripciones y los números de _El Libro de Urantia_ con los conceptos actuales de nuestros astrónomos. Uno de mis intentos recientes de hacerlo en un artículo de Innerface [^1] tiene una falla grave causada por un simple error matemático, así como algunos errores tipográficos.
 
@@ -45,6 +69,31 @@ Cuando el universo está en la fase de expansión del ciclo de respiración espa
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_2/page11.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Origin_of_Life_on_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El origen de la vida en Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Red_Shift_Shifted">
+          <span class="pr-2">El corrimiento al rojo, desplazado</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

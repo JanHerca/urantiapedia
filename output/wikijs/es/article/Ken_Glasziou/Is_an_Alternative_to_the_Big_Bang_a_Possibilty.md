@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Beyond_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más allá de los documentos de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Proclamation">
+          <span class="pr-2">Proclamación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Ken_Glasziou/The_Red_Shift_Shifted/NGC1097_-_ESO_-_eso0438d.jpg">
@@ -86,3 +110,28 @@ Estas visiones de estado casi estacionario proporcionan un ajuste mucho más cer
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_6/page6.html
 
 - Explorando el Cosmos. Conferencias de la Universidad de California, Irvine. https://faculty.humanities.uci.edu/bjbecker/ExploringtheCosmos/lecture20.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Beyond_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más allá de los documentos de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Proclamation">
+          <span class="pr-2">Proclamación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

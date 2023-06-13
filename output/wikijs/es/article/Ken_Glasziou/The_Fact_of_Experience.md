@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bob_Slagle/Democratic_Parenting_The_Importance_of_Family_and_the_Family_Council">
+          <span class="pr-2">Paternidad Democrática: La Importancia de la Familia y el Consejo de Familia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Debido a la presencia del Ajustador del Pensamiento en vuestra mente, para vosotros no es más misterioso conocer la mente de Dios que estar seguros de que tenéis conciencia de conocer cualquier otra mente, humana o superhumana. La religión y la conciencia social tienen esto en común: están basadas en la conciencia de que existen otras mentes. La técnica que utilizáis para aceptar como vuestra la idea de otra persona, es la misma que podéis emplear para «dejar que la mente que estaba en Cristo esté también en vosotros».
 > 
@@ -27,3 +48,24 @@ dateCreated: 2022-9-9T8:13:39Z
 ## Enlaces externos
 
 - Artículo en Innerface International: https://archive.urantiabook.org/archive/newsletters/innerface/vol5_6/page2.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bob_Slagle/Democratic_Parenting_The_Importance_of_Family_and_the_Family_Council">
+          <span class="pr-2">Paternidad Democrática: La Importancia de la Familia y el Consejo de Familia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

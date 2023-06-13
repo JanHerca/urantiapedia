@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T04:27:09.642Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/What_does_God_want_from_us">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué quiere Dios de nosotros?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Why_Worry">
+          <span class="pr-2">¿Por qué preocuparse?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «_Sois mis mensajeros. estáis obligados a vivir vuestra vida como yo he vivido la mía en espíritu._» ([LU 140:6.8](/es/The_Urantia_Book/140#p6_8))
 
@@ -47,3 +71,28 @@ Para los llamados grandes hombres de la historia, hombres como Alejandro Magno, 
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_6/page10.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/What_does_God_want_from_us">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué quiere Dios de nosotros?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Why_Worry">
+          <span class="pr-2">¿Por qué preocuparse?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

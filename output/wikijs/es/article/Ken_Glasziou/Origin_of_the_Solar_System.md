@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/What_If">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Y si?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Arrival_of_the_Red_Man_in_the_Americas">
+          <span class="pr-2">Llegada del Hombre Rojo a las Américas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Los documentos sitúan el tiempo de origen del sistema solar en 4.500 millones de años, en un momento en que se pensaba (y sigue siendo) que la expansión del universo por Hubble era el mejor indicador de la edad del universo. En 1952, se descubrió que la estimación actual de la edad del universo de aproximadamente 2 mil millones de años era incorrecta porque se había utilizado el tipo incorrecto de estrella variable Cefeida para ayudar a hacer la estimación. Una estimación revisada fue de alrededor de 4 a 5 mil millones de años, lo que hizo que el universo tuviera la misma edad que la estimación del Documento de Urantia para la edad del sistema solar.
 
@@ -25,3 +49,28 @@ Entonces, incluso si el factor tiempo permitiera el uso de los datos del meteori
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page16.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/What_If">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Y si?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Arrival_of_the_Red_Man_in_the_Americas">
+          <span class="pr-2">Llegada del Hombre Rojo a las Américas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

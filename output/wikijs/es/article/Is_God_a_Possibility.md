@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Evolution_or_Revolution">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Evolución o revolución?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Contacting_God_What_can_we_expect">
+          <span class="pr-2">Contactar a Dios: ¿qué podemos esperar?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En teoría de juegos, el término ‘suma cero’ se refiere a una situación que claramente tiene un ganador y un perdedor que, sumados, tienen una suma cero. Por el contrario, en los juegos de suma distinta de cero, los intereses de los jugadores pueden superponerse. Ejemplos de los primeros son el tenis, el ajedrez y el boxeo. La suma distinta de cero se ve en la caza y la pesca, donde los participantes pueden ayudarse unos a otros de manera que beneficien a todos. Por lo tanto, la suma cero tiende a ser totalmente competitiva, mientras que la tendencia con la suma distinta de cero puede ser hacia una mayor cooperación.
 
@@ -113,6 +137,31 @@ Wright concluye con este comentario: «Ya sea que creas o no que la historia de 
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_6/page9.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Evolution_or_Revolution">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Evolución o revolución?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Contacting_God_What_can_we_expect">
+          <span class="pr-2">Contactar a Dios: ¿qué podemos esperar?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

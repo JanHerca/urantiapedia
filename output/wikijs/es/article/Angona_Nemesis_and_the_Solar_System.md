@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Nature_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La naturaleza de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Goals_and_Purposes">
+          <span class="pr-2">Objetivos y Propósitos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «Hace *4.500.000.000* de años, el enorme sistema de Angona empezó a aproximarse a los alrededores de este Sol solitario. El centro de este gran sistema era un gigante oscuro del espacio, sólido, muy cargado y con una enorme atracción gravitatoria». (de [LU 57:5.4](/es/The_Urantia_Book/57#p5_4))
 
@@ -44,3 +68,28 @@ Esta sección del libro precede inmediatamente a la que trata del crecimiento de
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_4/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Nature_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La naturaleza de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Goals_and_Purposes">
+          <span class="pr-2">Objetivos y Propósitos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

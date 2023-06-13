@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/A_Chance_Meeting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un encuentro casual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Morality_Motive_and_Virtue">
+          <span class="pr-2">Moralidad, motivo y virtud</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En _El Libro de Urantia_, la palabra _altruista_ se usa como sustantivo y adjetivo. También hacen acto de presencia sus derivados, el sustantivo _unselfishness_ y el adverbio _unselfishly_. Como sustantivo, _altruista_ se asocia con la experiencia religiosa, el impulso religioso y la reflexión religiosa, así como con la percepción espiritual y la conciencia de Dios. Como adjetivo, hay una diferencia en la forma en que se usa en las Partes 1-3 del libro en comparación con la Parte 4. En esta última, califica el servicio (20 veces), la devoción (4 veces) y el bien y el amor una vez. cada. En las Partes 1-3, _altruista_ se usa para calificar el ministerio, el compañerismo, el servicio, el amor, la oración y el interés en el bienestar de nuestros semejantes.
 
@@ -58,3 +82,28 @@ Tanto la Biblia como _El Libro de Urantia_ nos informan que toda bondad tiene su
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_3/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/A_Chance_Meeting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un encuentro casual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Morality_Motive_and_Virtue">
+          <span class="pr-2">Moralidad, motivo y virtud</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

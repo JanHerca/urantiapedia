@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Matt Neibaur<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Importance_of_Symbols__Their_Use_and_Misuse">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La importancia de los símbolos: su uso y mal uso</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Revelators_Unenviable_Task">
+          <span class="pr-2">Los documentos de Urantia. La poco envidiable tarea de los reveladores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Este artículo apareció en Innerface hace tres años. Se reimprime debido a la importancia de las opiniones y conceptos expresados ​​en él:
 
@@ -51,3 +75,28 @@ Matt Neibaur agrega lo siguiente:
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_6/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Importance_of_Symbols__Their_Use_and_Misuse">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La importancia de los símbolos: su uso y mal uso</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Revelators_Unenviable_Task">
+          <span class="pr-2">Los documentos de Urantia. La poco envidiable tarea de los reveladores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

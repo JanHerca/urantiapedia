@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Indwelling_of_the_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La morada del Espíritu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Free_Will_and_the_Will_of_God">
+          <span class="pr-2">El libre albedrío y la Voluntad de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Yo rogaré al Padre, y os dará otro Consolador, para que **esté con vosotros para siempre**; incluso el Espíritu de la Verdad; a quien el mundo no puede recibir, porque no le ve, ni le conoce; pero vosotros le conocéis; porque **él mora con vosotros, y estará en vosotros**. ([Juan 14:16-17](/es/Bible/John/14#v16))
 
@@ -59,3 +83,28 @@ dateCreated: 2022-9-9T8:13:39Z
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_6/page12.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Indwelling_of_the_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La morada del Espíritu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Free_Will_and_the_Will_of_God">
+          <span class="pr-2">El libre albedrío y la Voluntad de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

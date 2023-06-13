@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T19:36:22.107Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Can_Universes_and_Life_Self_generate_from_Nothingness">
+          <span class="pr-2">¿Pueden los Universos y la Vida Autogenerarse a partir de la Nada?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Resumen
 
@@ -184,3 +205,24 @@ Al responder a una pregunta sobre el alma, Jesús dijo:
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_1/page2.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Can_Universes_and_Life_Self_generate_from_Nothingness">
+          <span class="pr-2">¿Pueden los Universos y la Vida Autogenerarse a partir de la Nada?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

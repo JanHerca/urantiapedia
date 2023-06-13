@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Arrival_of_the_Red_Man_in_the_Americas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Llegada del Hombre Rojo a las Américas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Monster_dinosaurs_in_Australia">
+          <span class="pr-2">Dinosaurios monstruosos en Australia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Los Documentos de Urantia asocian los procesos de formación de montañas y continentes a la deriva como responsables de la cadena de montañas en la costa oeste de las Américas que se extiende desde Alaska hasta lo más meridional de América del Sur. ([LU 60:3.2](/es/The_Urantia_Book/60#p3_2))
 
@@ -27,3 +51,28 @@ La respuesta que damos a esa pregunta refleja nuestro progreso en la comprensió
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page18.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Arrival_of_the_Red_Man_in_the_Americas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Llegada del Hombre Rojo a las Américas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Monster_dinosaurs_in_Australia">
+          <span class="pr-2">Dinosaurios monstruosos en Australia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

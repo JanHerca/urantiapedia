@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T22:40:28.893Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/On_Implementing_the_Teachings">
+          <span class="pr-2">Sobre la implementación de las enseñanzas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Esta presentación intenta explorar las dificultades que enfrentó un grupo de seres celestiales a quienes se les encomendó la tarea de brindar una nueva revelación a la gente de cierto planeta desfavorecido al que llaman Urantia. ¿El propósito de la revelación? La gente de Urantia sufre no solo por una serie de eventos imprevistos en su historia, sino también por los efectos de esos eventos sobre su tasa de progreso evolutivo, que, en circunstancias universales más normales, los habría hecho avanzar mucho más por un camino que los llevaría lejos de sus instintos congénitos de comportamiento animal y hacia una forma de coexistencia mucho más espiritual.
 
@@ -281,6 +302,28 @@ Para los creyentes serios en el alto valor y la calidad de este aspecto de los D
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_2/page2.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/On_Implementing_the_Teachings">
+          <span class="pr-2">Sobre la implementación de las enseñanzas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

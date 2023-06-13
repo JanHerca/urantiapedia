@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/More_on_Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más sobre la oración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Future_What_The_Urantia_Book_tells_us">
+          <span class="pr-2">El futuro. Lo que nos dice El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Sin movimiento, sin tiempo. Eso parece ser fundamental. Incluso considerando el tiempo como una medida de secuencialidad, si no hay movimiento, ¿cómo puede haber secuencialidad? Pero, ¿cómo puede haber movimiento si no hay nada móvil?
 
@@ -58,3 +82,28 @@ Si te sirve de consuelo, quizás lo sea saber que nuestros primos animales solo 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page12.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/More_on_Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más sobre la oración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Future_What_The_Urantia_Book_tells_us">
+          <span class="pr-2">El futuro. Lo que nos dice El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

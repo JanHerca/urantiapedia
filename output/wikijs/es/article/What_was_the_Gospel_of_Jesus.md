@@ -9,6 +9,27 @@ dateCreated: 2022-09-27T01:15:17.858Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Early_Years_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los primeros años de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Si buscamos en el _Libro de Urantia_ la aparición de una frase concisa como «evangelio de Jesús», obtenemos 13 «coincidencias exactas», ninguna de las cuales proporciona información sobre el contenido real del evangelio de Jesús. Si la búsqueda se repite usando una traducción King James del Nuevo Testamento, obtenemos una única «coincidencia exacta»: el versículo inicial del evangelio de Marcos. Sin embargo, si se usa una traducción moderna al inglés de Marcos, podemos quedarnos en blanco.
 
@@ -149,6 +170,28 @@ Suyo con amor, Ken Glasziou
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_6/page11.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Early_Years_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los primeros años de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

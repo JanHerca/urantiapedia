@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Book_why_is_it_so_strange">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia. ¿Por qué es tan extraño?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Ésta es siempre la técnica más eficaz en todas las formas y fases de la enseñanza. Incluso los padres pueden aprender de Felipe la mejor manera de decir a sus hijos, no «Id a hacer esto o aquello», sino más bien: «Venid con nosotros, vamos a mostraros y a compartir con vosotros el mejor camino». ([LU 139:5.8](/es/The_Urantia_Book/139#p5_8))
 
@@ -54,3 +75,25 @@ _Expresado en su forma más simple, el evangelio del reino es el reconocimiento 
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_5/page15.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Book_why_is_it_so_strange">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia. ¿Por qué es tan extraño?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Was_the_Crucifixion_Really_Necessary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Era realmente necesaria la crucifixión?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Remembrance_Supper">
+          <span class="pr-2">La Cena del Recuerdo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Aparte de Dios, las dos personalidades más calumniadas de la historia de Urantia tendrían que ser Adán y Eva. Eran la pareja cuya aventura de «comer manzanas» nos costó a los humanos la gloria que una vez fue nuestra. ¡Como resultado de su error, todos los humanos nacen intrínsecamente malos en lugar de buenos! La creencia en el mal innato de la humanidad fue abrazada por el padre de la psicología, Freud, y sospecho que sus antecedentes religiosos habían influido en sus teorías, que posteriormente demostraron ser erróneas.
 
@@ -72,3 +96,27 @@ Cuando llegue a Jerusem, espero que Adán y Eva todavía estén allí y tengan t
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_2/page9.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Was_the_Crucifixion_Really_Necessary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Era realmente necesaria la crucifixión?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Remembrance_Supper">
+          <span class="pr-2">La Cena del Recuerdo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

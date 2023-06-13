@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Bob Slagle<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Fact_of_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El hecho de la experiencia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Soul">
+          <span class="pr-2">El alma</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «La gran esperanza de Urantia reside en la posibilidad de una nueva revelación de Jesús, con una presentación nueva y ampliada de su mensaje salvador, que uniría espiritualmente en un servicio amoroso a las numerosas familias de sus seguidores declarados de hoy en día.» ([LU 195:10.16](/es/The_Urantia_Book/195#p10_16))
 
@@ -105,3 +129,28 @@ Entonces, parece que desde lo más bajo hasta lo más alto, desde la Tierra hast
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_6/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Fact_of_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El hecho de la experiencia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Soul">
+          <span class="pr-2">El alma</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Paper_140_The_Ordination_Is_it_Important">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Documento 140. La ordenación: ¿es importante?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spirit_Unity">
+          <span class="pr-2">Unidad espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Jesús tomó entonces la palabra y dijo: «Ahora que sois embajadores del reino de mi Padre, os habéis convertido así en una clase de hombres separada y distinta de todos los demás hombres de la Tierra. Ahora ya no sois como unos hombres entre los hombres, sino como unos ciudadanos iluminados de otro país celestial entre las criaturas ignorantes de este mundo tenebroso. Ya no es suficiente con que viváis como habéis hecho hasta ahora, sino que de aquí en adelante deberéis de vivir como aquellos que han saboreado las glorias de una vida mejor, y han sido enviados de vuelta a la Tierra como embajadores del Soberano de ese mundo nuevo y mejor.»
 >
@@ -61,3 +85,28 @@ dateCreated: 2022-9-9T8:13:39Z
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_1/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Paper_140_The_Ordination_Is_it_Important">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Documento 140. La ordenación: ¿es importante?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Spirit_Unity">
+          <span class="pr-2">Unidad espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Urantia Book Fellowship<br>© 2006 Olga López, por la traducción</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stephen_Finlan/Bethsaida_Julias_and_Bethsaida_of_Galilee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Betsaida-Julias y Betsaida de Galilea</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Ken_Glasziou/Surfing_the_Sunbeams_Calcium_Wanderer_Space/406px-Lucas_Cranach.jpg">
@@ -76,6 +97,28 @@ De _«Estrellas y átomos»_ , por Sir Arthur Eddington:
 ## Referencias
 
 * _«Estrellas y átomos»_, p. 66, Sir Arthur Eddington, Yale University Press, New Haven; Oxford University Press, Londres. https://archive.org/details/in.ernet.dli.2015.173636
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stephen_Finlan/Bethsaida_Julias_and_Bethsaida_of_Galilee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Betsaida-Julias y Betsaida de Galilea</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

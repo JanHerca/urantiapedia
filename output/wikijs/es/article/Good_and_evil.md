@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/About_Certainty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Acerca de la certeza</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/God_consciousness_of_God_the_will_of">
+          <span class="pr-2">La conciencia de ios y la voluntad de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 No es posible que el Espíritu pueda tener más bondad que el Padre, ya que toda bondad tiene su origen en el Padre, pero en los actos del Espíritu podemos comprender mejor tal bondad. La fidelidad del Padre y la constancia del Hijo se hacen muy reales para los seres espirituales y las criaturas materiales de las esferas por el ministerio amoroso y el servicio incesante de las personalidades del Espíritu Infinito.
 
@@ -25,3 +49,27 @@ La posibilidad del mal es necesaria para la elección moral, pero no la actualid
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page4.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/About_Certainty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Acerca de la certeza</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/God_consciousness_of_God_the_will_of">
+          <span class="pr-2">La conciencia de ios y la voluntad de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

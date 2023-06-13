@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T16:45:14.471Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Revelatory_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religión reveladora</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_the_Value_of_Spiritual_Value">
+          <span class="pr-2">Sobre el valor del valor espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Tarde o temprano, los lectores de _El Libro de Urantia_ tendrán que prestar atención a las llamadas de sus reveladores. Uno de ellos está en [LU 2:7.10](/es/The_Urantia_Book/2#p7_10):
 
@@ -74,3 +98,28 @@ La fase en la que nuestra tarea principal es ayudar a los cristianos a tomar con
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_2/page3.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Revelatory_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religión reveladora</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_the_Value_of_Spiritual_Value">
+          <span class="pr-2">Sobre el valor del valor espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

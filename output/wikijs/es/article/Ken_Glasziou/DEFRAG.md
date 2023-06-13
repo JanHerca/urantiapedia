@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Cognitive_Dissonance_Can_The_Urantia_Book_help">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Disonancia cognitiva. ¿Puede ayudar El libro de Urantia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Jesus_Man_and_Myth">
+          <span class="pr-2">Jesús, Hombre y Mito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Cuando las computadoras almacenan tus letras y documentos en la memoria para que puedas recuperarlos más tarde, realmente hacen un _hash_ (¿un _mash_ o machacado?) de todo eso. El almacenamiento se realiza como un archivo en un disco que se subdivide en secciones. Un sistema de contabilidad mantiene un índice y cuando desea recuperar tu archivo, simplemente escribes su nombre y presionas el botón mágico. Sin embargo, el archivo no está necesariamente todo en un archivador. Cuando se está almacenando, el bibliotecario dentro de la computadora busca cualquier espacio libre en archivadores parcialmente llenos y, siendo quisquilloso, insiste en llenar todos los espacios vacíos con fragmentos de tu archivo. Así pues tu archivo en realidad se almacena en todas partes. Con el tiempo eso hace que la tarea del bibliotecario sea lenta y tediosa. ¡Pero hay una cura a mano! Simplemente escribes `DEFRAG` (que es la abreviatura de desfragmentar) y he aquí, todos los fragmentos de todos tus archivos se vuelven a juntar, se almacenan en un solo lugar y el índice se actualiza para que pueda recuperarse rápida y fácilmente. Funciona como magia.
 
@@ -36,3 +60,28 @@ Aquí es donde podemos volver a hacer uso de `DEFRAG2`. Piensa bien en el nombre
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page6.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Cognitive_Dissonance_Can_The_Urantia_Book_help">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Disonancia cognitiva. ¿Puede ayudar El libro de Urantia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Jesus_Man_and_Myth">
+          <span class="pr-2">Jesús, Hombre y Mito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

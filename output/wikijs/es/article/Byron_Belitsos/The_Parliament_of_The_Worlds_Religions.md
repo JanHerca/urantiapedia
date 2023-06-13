@@ -9,6 +9,27 @@ dateCreated: 2022-09-07T11:50:43.548Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Byron Belitsos<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Joanne_Scheffler/Apartheid_Mandeled">
+          <span class="pr-2">El Apartheid tras Mandela</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Para cualquier persona interesada en el futuro de la religión, el Parlamento de las Religiones del Mundo de 1993, celebrado en Chicago en septiembre pasado, fue un evento central de nuestro tiempo, un jubileo para el diálogo interreligioso. También marcó el centenario del histórico Parlamento Mundial de Religiones de 1893, ahora reconocido como el evento fundacional del movimiento interreligioso. El Parlamento de 1993 anunció un nuevo comienzo para el movimiento por la unidad religiosa en un mundo posmoderno.
 
@@ -108,3 +129,25 @@ Esperemos que las muchas lecciones del Parlamento de las Religiones del Mundo de
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_5/page2.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Joanne_Scheffler/Apartheid_Mandeled">
+          <span class="pr-2">El Apartheid tras Mandela</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

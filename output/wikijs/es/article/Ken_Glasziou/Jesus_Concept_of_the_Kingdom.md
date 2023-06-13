@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Kingdom_Commentary">
+          <span class="pr-2">Un comentario del Reino</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > El Maestro indicó claramente que el reino de los cielos debe empezar por el doble concepto de la verdad de la paternidad de Dios y el hecho correlativo de la fraternidad de los hombres, y debe permanecer centrado en este doble concepto. Jesús declaró que la aceptación de esta enseñanza liberaría a los hombres de la esclavitud milenaria al miedo animal, y al mismo tiempo enriquecería la vida humana con los dones siguientes de la nueva vida de libertad espiritual:
 >
@@ -33,3 +54,25 @@ dateCreated: 2022-9-9T8:13:39Z
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Kingdom_Commentary">
+          <span class="pr-2">Un comentario del Reino</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T21:42:37.616Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Charles_Birch/Mind_Do_I_have_one">
+          <span class="pr-2">¡Mente! ¿Tengo una?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > La experiencia exquisita y trascendente de amar y ser amado es puramente subjetiva, pero eso no significa que sea solamente una ilusión psíquica. La única realidad verdaderamente divina y objetiva que está asociada con los seres mortales, el Ajustador del Pensamiento, funciona aparentemente para la observación humana como un fenómeno exclusivamente subjetivo. El contacto del hombre con la realidad objetiva más elevada —Dios— sólo se efectúa a través de la experiencia puramente subjetiva de conocerlo, adorarlo y comprender la filiación con él. ([LU 196:3.21](/es/The_Urantia_Book/196#p3_21))
 
@@ -35,3 +56,25 @@ dateCreated: 2022-09-26T21:42:37.616Z
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_6/page2.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Charles_Birch/Mind_Do_I_have_one">
+          <span class="pr-2">¡Mente! ¿Tengo una?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

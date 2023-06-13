@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Beyond_Fundamentalism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más allá del fundamentalismo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Self_Fulfilling_Prophecy">
+          <span class="pr-2">Profecía autocumplida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Midrash es un nombre dado a un método interpretativo utilizado por los rabinos judíos para **especular sobre significados ocultos en sus antiguas Escrituras**. Al explicar que los primeros cristianos usaron este mismo método para encontrar significado en los eventos de la vida de Jesús y sus alrededores, el obispo episcopal, Sheldon Spong, (autor de ***Rescatando la Biblia del fundamentalismo***) habló a una iglesia reunida en New Jersey sobre el relato de Lucas de los eventos en Pentecostés. Los primeros cristianos, dijo, compararon a Jesús con un Elías nuevo y más grande. Así que cuando el poder del Espíritu Santo descendió sobre los discípulos en Pentecostés, lo describieron como un fuerte viento que soplaba porque la palabra hebrea para espíritu, *ruach*, también es el nombre para viento, que se pensaba que era nada menos que el aliento de Dios.
 
@@ -33,3 +57,28 @@ Los reveladores de _El Libro de Urantia_ también usan midrash, por ejemplo, par
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_3/page12.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Beyond_Fundamentalism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más allá del fundamentalismo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Self_Fulfilling_Prophecy">
+          <span class="pr-2">Profecía autocumplida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

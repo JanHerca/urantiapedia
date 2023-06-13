@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ann Bendall<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Smaller_Beatitudes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las pequeñas Bienaventuranzas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/To_Drink_the_Cup">
+          <span class="pr-2">Para beber la copa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Los negadores de Dios.
 
@@ -94,3 +118,28 @@ Y si una persona postula filosóficamente, me pregunto qué quiere Dios de mí a
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_3/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Smaller_Beatitudes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las pequeñas Bienaventuranzas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/To_Drink_the_Cup">
+          <span class="pr-2">Para beber la copa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

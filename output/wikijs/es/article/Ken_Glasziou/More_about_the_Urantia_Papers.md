@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Are_The_Urantia_Papers_demonstrably_of_superhuman_origin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Se puede demostrar que los Documentos de Urantia tienen un origen sobrehumano?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Some_Early_history">
+          <span class="pr-2">Los albores de la historia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En cierto modo, parece desafortunado que un nombre alternativo para _El Libro de Urantia_ sea «La quinta revelación de época». Es el efecto de este nombre adquirido lo que ha hecho que tantos lectores atribuyan un estatus de «verdad absoluta e infalible» de estilo fundamentalista a su contenido.
 
@@ -75,3 +99,28 @@ Un gran número de cristianos, a lo largo de los siglos, han llegado a conceptos
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Are_The_Urantia_Papers_demonstrably_of_superhuman_origin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Se puede demostrar que los Documentos de Urantia tienen un origen sobrehumano?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Some_Early_history">
+          <span class="pr-2">Los albores de la historia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

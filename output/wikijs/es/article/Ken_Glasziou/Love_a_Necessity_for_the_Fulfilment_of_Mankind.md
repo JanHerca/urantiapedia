@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T17:06:31.253Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Universal_Spiritual_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religión espiritual universal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Our_Chores">
+          <span class="pr-2">Nuestras tareas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Casi 500 años antes de la era cristiana, Mo Tzu, en China, ganó muchos seguidores por sus conceptos sobre el amor mutuo y su potencial para reemplazar la guerra entre estados y naciones_.
 
@@ -46,3 +70,28 @@ El amor debe comprender el concepto siempre cambiante del bien cósmico más alt
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page11.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Universal_Spiritual_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religión espiritual universal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Our_Chores">
+          <span class="pr-2">Nuestras tareas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jesus_Discourse_on_True_Religion">
+          <span class="pr-2">Discurso de Jesús sobre la religión</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En el momento de la «alimentación de los cinco mil», la fama de Jesús como sanador y obrador de milagros había hecho que una parte importante de la nación judía estuviera lista para levantarse y seguirlo a la muerte o la gloria como su Mesías, el que expulsaría a los romanos y restauraría el reino legendario de David, centrado en Jerusalén.
 
@@ -72,3 +93,25 @@ Los reveladores también expresan la esperanza adicional de que su revelación i
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_5/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jesus_Discourse_on_True_Religion">
+          <span class="pr-2">Discurso de Jesús sobre la religión</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

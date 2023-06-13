@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ann Bendall<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Spontaneity_Unpredictability_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Espontaneidad, imprevisibilidad y El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Creative_Imagination">
+          <span class="pr-2">Imaginación creativa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 One of the most wonderful times of childhood is the «imaginary friend» period, which seems to develop at about the age of three or four. If honored by the child in being allowed to view its world, the imaginary friend or friends are discovered to have names and personalities, and are well known to the child. The role of these friends appears to fluctuate between being a wise counsel, or being the object of a developing moral conscience. Consequently the friend is a wise sage or a naughty child, with the persona either taking advice from or berating the «friend» for transgressions.
 
@@ -29,3 +53,28 @@ The ability to live as if in the presence of God is through the «alter ego.» A
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_5/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Spontaneity_Unpredictability_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Espontaneidad, imprevisibilidad y El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Creative_Imagination">
+          <span class="pr-2">Imaginación creativa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Rebuke_to_One_Friend_in_Defence_of_Another">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La reprensión a un amigo en defensa de otro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Fuzzy_Thinking">
+          <span class="pr-2">Sobre la lógica difusa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La fe en que todas las cosas son blancas o negras se remonta en Occidente al menos a los antiguos griegos cuando Demócrito redujo el universo a átomos y vacío, Platón llenó su mundo con formas puras y Aristóteles escribió sus reglas de lógica que científicos y matemáticos todavía usan para describir y discutir lo que es esencialmente un universo gris. Aristóteles nos enseñó a trazar siempre la línea entre los opuestos, entre la cosa y la no-cosa. Cuanto mejor dibujes estas líneas, más lógica será tu mente y más exacta tu ciencia. La lógica binaria de Aristóteles se reduce a una sola ley: A o no A, el cielo es azul o no es azul, la rosa es roja o no es roja.
 
@@ -43,3 +67,28 @@ Dentro de la próxima década, nuestros hábitos de pensamiento sobre lo que es 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_2/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Rebuke_to_One_Friend_in_Defence_of_Another">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La reprensión a un amigo en defensa de otro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Fuzzy_Thinking">
+          <span class="pr-2">Sobre la lógica difusa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

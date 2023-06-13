@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la fe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Hace muchas, muchas lunas, cuando era un joven surfero, mis amigos y yo podíamos estar en el mar en algún lugar, sentados en nuestras tablas de surf, esperando que el dios de las olas nos enviara un ‘set’. En la jerga surfera, un ‘set’ era un grupo de grandes olas que parecen surgir de la nada. El dios de las olas se llamaba ‘Hughie’ y era alguien a quien los surfistas rezaban fervientemente con la súplica: «Envíalos arriba, Hughie». Muchas lunas después, supe que la causa principal de un ‘set’ era el mismo fenómeno que los físicos llaman ‘interferencia’. Esto puede suceder cuando los picos de dos ondas de diferentes fuentes coinciden, sumándose para formar una gran ola. Sin embargo, si el pico de una coincide con el valle de la otro, se cancelan y el mar se vuelve plano. Dado que los surfistas, en aquellos días, rara vez eran físicos, los _sets_ se consideraban actos creativos por parte de la deidad. Hughie era un tipo de dios del Antiguo Testamento, iracundo, celoso y perverso, que ejercía su autoridad haciendo que los surfistas adivinaran dónde y cuándo ocurrirían las series.
 
@@ -103,3 +124,25 @@ Sin embargo, al bloquear el camino de los electrones de corriente «ascendente»
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_1/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la fe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ann Bendall<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Convergence_The_Science_Content_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergencia: el contenido científico de El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sydney_Harris/Walking_the_Second_Mile">
+          <span class="pr-2">Caminando la segunda milla</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > El Jesús humano veía a Dios como santo, justo y grande, así como verdadero, bello y bueno. Todos estos atributos de la divinidad los enfocó en su mente como «la voluntad del Padre que está en los cielos». ([LU 196:0.2](/es/The_Urantia_Book/196#p0_2))
 
@@ -41,3 +65,28 @@ Como lectores de _El Libro de Urantia_, probablemente la mayoría de nosotros co
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_1/page16.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Convergence_The_Science_Content_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergencia: el contenido científico de El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sydney_Harris/Walking_the_Second_Mile">
+          <span class="pr-2">Caminando la segunda milla</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

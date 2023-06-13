@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_the_Birth_of_Love">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre el nacimiento del amor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Importance_of_Symbols__Their_Use_and_Misuse">
+          <span class="pr-2">La importancia de los símbolos: su uso y mal uso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jugar a Dios es una ocupación muy apreciada pero en gran parte no reconocida entre nosotros los humanos.
 
@@ -39,3 +63,28 @@ Jugar a Dios y el orgullo asociado con ello es una trampa continua. Porque una v
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_the_Birth_of_Love">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre el nacimiento del amor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Importance_of_Symbols__Their_Use_and_Misuse">
+          <span class="pr-2">La importancia de los símbolos: su uso y mal uso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

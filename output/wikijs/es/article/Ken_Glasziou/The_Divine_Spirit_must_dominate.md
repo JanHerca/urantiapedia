@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Peter_Vardy/What_Does_It_Mean_to_Talk_about_God_A_Catholic_View">
+          <span class="pr-2">¿Qué significa hablar de Dios? Una visión católica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > La teoría muerta, incluso de las doctrinas religiosas más elevadas, no tiene poder para transformar el carácter humano o para controlar el comportamiento de los mortales. Lo que el mundo de hoy necesita es la verdad que vuestro instructor de antaño declaró: «No solamente en palabras, sino también en poder y en el Espíritu Santo». La semilla de la verdad teórica está muerta y los conceptos morales más elevados no tienen efecto a menos que, y hasta que, el Espíritu divino sople sobre las formas de la verdad y vivifique las fórmulas de la rectitud.
 > 
@@ -23,3 +44,25 @@ dateCreated: 2022-9-9T8:13:38Z
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_5/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Peter_Vardy/What_Does_It_Mean_to_Talk_about_God_A_Catholic_View">
+          <span class="pr-2">¿Qué significa hablar de Dios? Una visión católica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

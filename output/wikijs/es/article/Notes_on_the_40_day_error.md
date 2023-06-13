@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Forty_Days_and_Forty_Nights">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cuarenta días y cuarenta noches</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Our_Problem">
+          <span class="pr-2">Nuestro problema</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Este problema fue discutido en correspondencia fechada el 9 de marzo de 1959 entre el Dr. Sadler y el Dr. Earl L. Douglass, cuya especialidad eran los estudios bíblicos. Deja en claro que el Dr. Sadler y sus asociados conocían el problema antes de que se imprimiera el libro.
 
@@ -46,3 +70,28 @@ Para terminar, y en caso de que algún fundamentalista logre encontrar la manera
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_4/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Forty_Days_and_Forty_Nights">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cuarenta días y cuarenta noches</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Our_Problem">
+          <span class="pr-2">Nuestro problema</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

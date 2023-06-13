@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Parable_of_a_Parrot">
+          <span class="pr-2">Parábola de un loro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 «Mientras Jesús se ponía en camino, un joven llegó corriendo, se arrodilló ante él y le preguntó: 'Maestro bueno, ¿qué debo hacer para recibir la vida eterna?' __'¿Por qué me llamas bueno?'__ Jesús le preguntó: __'Nadie es bueno sino sólo Dios'__» ([Marcos, 10:17,18](/es/Bible/Mark/10#v17 ))
 
@@ -62,3 +83,25 @@ Independientemente de la realidad, tener a mi Ajustador del Pensamiento descrito
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_6/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Parable_of_a_Parrot">
+          <span class="pr-2">Parábola de un loro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

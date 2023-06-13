@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Why_are_some_people_turned_off_it_and_others_love_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia. ¿Por qué algunas personas lo rechazan y a otras les encanta?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_the_Revelatory_Status_of_the_Urantia_Book">
+          <span class="pr-2">Sobre el estado revelador del Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Al llegar a Urantia la **Tercera Revelación de Época**, su portador anunció: «_Yo soy Melquisedec, sacerdote de El Elyon, el Altísimo, el único Dios._». Su mandato: **mantener viva la verdad. del único Dios y preparar el camino para el otorgamiento de Miguel**. ([LU 93:3.8](/es/The_Urantia_Book/93#p3_8))
 
@@ -62,3 +86,28 @@ Desde que _El Libro de Urantia_ se lanzó al público en general, tal vez ha hab
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_1/page6.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Why_are_some_people_turned_off_it_and_others_love_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia. ¿Por qué algunas personas lo rechazan y a otras les encanta?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_the_Revelatory_Status_of_the_Urantia_Book">
+          <span class="pr-2">Sobre el estado revelador del Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Paul Jaworski<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Our_Problem">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestro problema</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Did_you_know">
+          <span class="pr-2">¿Lo sabías?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Centro de la Tierra revelado.
 
@@ -44,3 +68,28 @@ Matthew Block considera que el libro de Reginald A. Daly, «Our Mobile Earth» (
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_4/page14.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Our_Problem">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestro problema</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Did_you_know">
+          <span class="pr-2">¿Lo sabías?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

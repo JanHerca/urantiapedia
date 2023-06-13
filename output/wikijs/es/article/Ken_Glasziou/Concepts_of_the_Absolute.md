@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Hinduism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hinduismo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Judgment_Day">
+          <span class="pr-2">El Día del Juicio Final</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El Absoluto es un término usado por los metafísicos para denotar cualquier cosa que no dependa ni esté limitada por ninguna otra cosa. Así, en ética un valor absoluto es aquel que es bueno en sí mismo más que útil para obtener otra cosa, y un principio absoluto es aquel que no admite excepciones. En la teoría política, un derecho absoluto es un derecho que la sociedad no puede quitarle a un individuo.
@@ -24,3 +48,27 @@ En teología y metafísica, el término Absoluto generalmente se refiere a Dios.
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page12.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Hinduism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hinduismo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Judgment_Day">
+          <span class="pr-2">El Día del Juicio Final</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

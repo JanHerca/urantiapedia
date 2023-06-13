@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Death_of_Joseph">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La muerte de José</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stefan_Tallqvist/Radius_of_the_Electron">
+          <span class="pr-2">Radio del electrón</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Al final de este artículo, hay una breve discusión de un segmento de _El Libro de Urantia_ que contiene información desconocida en el momento de la primera impresión del libro, información imposible de adivinar y que permaneció desconocida hasta la década actual. Es uno entre varios segmentos similares de información científica, presumiblemente presentados bajo los términos de exclusión de su mandato. ([LU 101:4.2](/es/The_Urantia_Book/101#p4_2)) Sin embargo, esto es inusual y, en su mayor parte, los autores han utilizado conocimientos científicos que estaban vigentes cuando se recibieron los Documentos de Urantia a mediados de la década de 1930. Como se anticipó, gran parte de esto ha quedado obsoleto hace mucho tiempo. ([LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
 
@@ -42,6 +66,31 @@ Nota: El artículo «Radio del electrón» que sigue se puede copiar y utilizar 
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page11.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Death_of_Joseph">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La muerte de José</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stefan_Tallqvist/Radius_of_the_Electron">
+          <span class="pr-2">Radio del electrón</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Jacques Tetrault<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Cognitive_Dissonance_Can_The_Urantia_Book_help">
+          <span class="pr-2">Disonancia cognitiva. ¿Puede ayudar El libro de Urantia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Hoy en la cultura occidental, los valores sociales promueven la autoafirmación. Es importante mostrarse fuerte, independiente, capaz, para resistir cualquier tipo de dominación. Aprendemos a hacer lo nuestro, a sacar lo mejor de la mayoría de las situaciones. Es la era de la emancipación, de la reivindicación de los derechos, de la exigencia. Se aplica por igual a todas las personas: adolescentes, mujeres, lisiados, ancianos, personas de bajos ingresos, todos los grupos minoritarios. Cada individuo y cada grupo quiere más derechos. También se aplica a las naciones y estados.
 
@@ -43,3 +64,24 @@ Bien puede ser que la asertividad deba preceder a la sumisión voluntaria y la a
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page2.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Cognitive_Dissonance_Can_The_Urantia_Book_help">
+          <span class="pr-2">Disonancia cognitiva. ¿Puede ayudar El libro de Urantia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

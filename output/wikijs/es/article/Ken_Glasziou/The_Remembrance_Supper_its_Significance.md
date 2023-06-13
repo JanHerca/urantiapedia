@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sydney_Harris/How_Would_You_Label_This_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cómo etiquetarías a este Hombre?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Universe_is_Friendly">
+          <span class="pr-2">¿El Universo es Amigable?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Las actitudes de muchos lectores del Libro de Urantia hacia la cena del recuerdo adolece de un precondicionamiento derivado de la asociación de la cena de la iglesia cristiana con su doctrina del perdón de los pecados a través de la muerte sacrificial de Jesús. Pero los autores de los Documentos de Urantia, aunque plenamente conscientes de esta dificultad, ponen gran énfasis en el significado simbólico de la última cena para todos los que siguen a Jesús.
 
@@ -83,3 +107,28 @@ Una nueva era realmente está amaneciendo. Es hora de «activarse». Nosotros, l
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sydney_Harris/How_Would_You_Label_This_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cómo etiquetarías a este Hombre?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Universe_is_Friendly">
+          <span class="pr-2">¿El Universo es Amigable?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

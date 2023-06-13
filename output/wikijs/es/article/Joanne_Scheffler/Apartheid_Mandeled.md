@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Joanne Scheffler<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Byron_Belitsos/The_Parliament_of_The_Worlds_Religions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Parlamento de las Religiones del Mundo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ian_Stephen/Adversity_and_the_Spiritual_Value_of_Disappointment">
+          <span class="pr-2">La adversidad y el valor espiritual de la decepción</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 «Ocurrió un milagro; Un buen hombre;» Estas fueron las palabras que leí cuando cogí el periódico tras la elección de Nelson Mandela para ser presidente de Sudáfrica.
 
@@ -48,6 +72,31 @@ Gracias, Nelson Mandela, por mostrarnos, una vez más, lo que se puede lograr cu
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_5/page6.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Byron_Belitsos/The_Parliament_of_The_Worlds_Religions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Parlamento de las Religiones del Mundo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ian_Stephen/Adversity_and_the_Spiritual_Value_of_Disappointment">
+          <span class="pr-2">La adversidad y el valor espiritual de la decepción</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

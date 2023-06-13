@@ -9,6 +9,24 @@ dateCreated: 2022-12-10T00:54:48.033Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ¿Están teniendo las enseñanzas «radicales» del Libro de Urantia un impacto en la teología «popular» actual tal como se enseña en la mayoría de las iglesias cristianas?
 
@@ -320,3 +338,21 @@ Comparando a Borg con lo que encontramos en el Libro de Urantia, seguramente deb
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_4/page2.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

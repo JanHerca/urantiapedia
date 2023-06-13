@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Papers_are_self_authenticating">
+          <span class="pr-2">Los Documentos de Urantia se autoautentican</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «La Paternidad de Dios y la fraternidad de los hombres presentan la paradoja de la parte y del todo al nivel de la personalidad. Dios ama a *cada* individuo como a un hijo particular de la familia celestial. Sin embargo, Dios ama así a *todos* los individuos; no hace acepción de personas, y la universalidad de su amor engendra una relación de totalidad, la fraternidad universal.»
 > 
@@ -21,3 +42,25 @@ dateCreated: 2022-9-9T8:13:39Z
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Papers_are_self_authenticating">
+          <span class="pr-2">Los Documentos de Urantia se autoautentican</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

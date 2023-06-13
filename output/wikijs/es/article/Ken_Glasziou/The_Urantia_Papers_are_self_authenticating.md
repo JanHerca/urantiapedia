@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Love_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El amor de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Turning_of_the_Tables">
+          <span class="pr-2">El cambio de tornas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ¿Es posible que los Documentos de Urantia fueran escritos por seres humanos? Esta es una pregunta natural e importante que debe hacerse. Ciertamente hay mucho en los Documentos que podría haber sido escrito de esa manera. Pero eso no es de extrañar, ya que los reveladores aparentemente celestiales reconocen que utilizaron fuentes humanas siempre que pudieron encontrar una expresión adecuada por parte de un ser humano en relación con un concepto que deseaban presentar. ([LU 0:12.12](/es/The_Urantia_Book/0#p12_12), [LU 121:8.12](/es/The_Urantia_Book/121#p8_12)) Pero también hay Documentos, como muchos de los de la Parte 1 de el libro, que expresan ideas y conceptos que son bastante diferentes a las presentaciones humanas existentes. Hay una cualidad única, algo esotérico y sobrenatural en estos Documentos que, de parte de un lector crítico y perspicaz, puede invocar la respuesta: «Ningún hombre habló jamás así».
 
@@ -51,3 +75,28 @@ Seguramente sería una contradicción lógica que el autor de estas palabras (y 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Love_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El amor de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Turning_of_the_Tables">
+          <span class="pr-2">El cambio de tornas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

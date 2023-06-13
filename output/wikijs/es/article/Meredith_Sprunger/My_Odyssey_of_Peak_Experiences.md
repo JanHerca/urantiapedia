@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Meredith Sprunger<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Consistency_Column">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre ser moralmente fragante</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Cosmology_of_the_Material_Universes">
+          <span class="pr-2">Cosmología de los universos materiales. Por qué la ciencia y El libro de Urantia tienen perspectivas diferentes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Nuestras vidas están moldeadas por nuestras experiencias cumbre. Estos episodios de trascendencia son a veces difíciles de explicar, pero la mayoría de las personas tienen el sentido del ministerio de una realidad más allá de ellos mismos que está dando sentido a sus vidas: «... en cada encrucijada en la lucha hacia adelante, el Espíritu de la Verdad siempre hablará, diciendo: 'Este es el camino'». ([LU 34:7.8](/es/The_Urantia_Book/34#p7_8))
 
@@ -39,3 +63,28 @@ Para buscar la voluntad de Dios al tomar esta decisión, pasé horas bajo las es
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_6/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Consistency_Column">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre ser moralmente fragante</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Cosmology_of_the_Material_Universes">
+          <span class="pr-2">Cosmología de los universos materiales. Por qué la ciencia y El libro de Urantia tienen perspectivas diferentes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

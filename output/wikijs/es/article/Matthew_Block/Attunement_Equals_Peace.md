@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Matthew Block<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Out_of_Context_Means_Ends_Motives_and_Morality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fuera de contexto: medios, fines, motivos y moralidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Wrestling_with_Jesus">
+          <span class="pr-2">Luchar con Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En el Documento 39 ([LU 39:5.5](/es/The_Urantia_Book/39#p5_5)) de _El Libro de Urantia_ (437, edición de 1955), se nos presenta a un grupo de serafines, llamados las "Almas de la Paz". Estos ángeles pertenecen a la orden de los Auxiliares Planetarios, que inician su ministerio en un mundo habitado durante el régimen adámico. Además de ayudar a fomentar la realización de «la paz en la tierra y la buena voluntad entre los hombres», se nos dice que: «En las épocas más avanzadas de la evolución planetaria, estos serafines son fundamentales para suplantar la idea de la expiación por el concepto de la sintonía divina como una filosofía de supervivencia mortal.»
 
@@ -37,3 +61,28 @@ _El Cristo del Camino Indio_ contiene otros paralelos con _El Libro de Urantia_,
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_3/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Out_of_Context_Means_Ends_Motives_and_Morality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fuera de contexto: medios, fines, motivos y moralidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Wrestling_with_Jesus">
+          <span class="pr-2">Luchar con Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

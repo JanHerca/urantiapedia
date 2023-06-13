@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Communication_with_our_Thought_Adjuster">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la comunicación con nuestro Ajustador del Pensamiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Beliefs_and_Values">
+          <span class="pr-2">Creencias y valores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En el número anterior de Innerface, presentamos un relato de la revelación alucinante de Stefan Tallqvist de dos "profecías" bastante asombrosas que han permanecido sin descubrir en _El Libro de Urantia_ hasta que Stefan las sacó a la luz.
 
@@ -56,3 +80,28 @@ Las modificaciones a las comparaciones de Swann tal como aparecen en _El Libro d
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_2/page6.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Communication_with_our_Thought_Adjuster">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la comunicación con nuestro Ajustador del Pensamiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Beliefs_and_Values">
+          <span class="pr-2">Creencias y valores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

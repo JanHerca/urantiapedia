@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T18:52:49.984Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Developing_Saga_of_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La saga del desarrollo de los documentos de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/About_the_Universal_Father">
+          <span class="pr-2">Sobre el Padre Universal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## El desafío religioso de la época
 
@@ -112,3 +136,28 @@ Pero se requiere cuidado para asegurar que no nos engañemos a nosotros mismos. 
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_2/page15.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Developing_Saga_of_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La saga del desarrollo de los documentos de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/About_the_Universal_Father">
+          <span class="pr-2">Sobre el Padre Universal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

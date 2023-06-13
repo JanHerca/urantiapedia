@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T18:30:58.892Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Occams_Razor_applied_to_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La navaja de Occam aplicada a la religión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La siguiente sugerencia proviene de la literatura sufí islámica en la que se conoce con el término «nuestro ideal de Dios». Afirma: "La realidad de Dios está más allá de la comprensión humana. También es un misterio para nuestro pensamiento. Sin embargo, sigue siendo un hecho que para desarrollar nuestra relación con Dios, debemos tener algún tipo de imagen, algún tipo de imagen mental de Dios. , quién es y qué es.
 
@@ -23,3 +44,24 @@ Si bien es un concepto valioso para ayudar a cada individuo a evolucionar y crec
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_3/page16.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Occams_Razor_applied_to_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La navaja de Occam aplicada a la religión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

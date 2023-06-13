@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/What_does_Good_mean">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué significa «bueno»?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Obligations_to_the_Christian_Churches_and_other_Religions">
+          <span class="pr-2">Obligaciones para con las iglesias cristianas y otras religiones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Este evangelio del reino pertenece tanto a judíos como a gentiles, a ricos y pobres, a libres y esclavos, a hombres y mujeres, incluso a los niños pequeños. Y todos ustedes deben proclamar este evangelio de amor y verdad por las vidas que viven en la carne. Os amaréis los unos a los otros con un afecto nuevo y sorprendente, como yo os he amado. Servirás a la humanidad con una devoción nueva y asombrosa, tal como yo te he servido a ti. Y cuando los hombres vean que los aman tanto, y cuando vean cuán fervientemente los sirven, percibirán que se han convertido en compañeros de fe del reino de los cielos, y seguirán el Espíritu de Verdad que ven en sus vidas. , al hallazgo de la salvación eterna.
 
@@ -27,3 +51,28 @@ Mi Padre requiere de los hijos de la fe que den mucho fruto espiritual. Por tant
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page17.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/What_does_Good_mean">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué significa «bueno»?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Obligations_to_the_Christian_Churches_and_other_Religions">
+          <span class="pr-2">Obligaciones para con las iglesias cristianas y otras religiones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Robert Walker<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Earl_Jabay/God_playing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jugando a Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Archaeology_and_The_Urantia_Book">
+          <span class="pr-2">La arqueología y El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _El Libro de Urantia_ da a los humanos la esperanza de una salvación personal a través de la fe en Dios. Al hacerlo, brinda muchas razones para que los humanos no se suiciden, razones que están directamente relacionadas con las explicaciones de la fe misma. Dejando a un lado la cuestión moral de si el suicidio es un acto de falta de fe, puede ser instructivo enumerar las razones proporcionadas en el libro para no poner fin a esta vida terrenal.
 
@@ -25,3 +49,28 @@ La vida de Jesús proporciona un vívido ejemplo de cómo enfrentar las vicisitu
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_6/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Earl_Jabay/God_playing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jugando a Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Archaeology_and_The_Urantia_Book">
+          <span class="pr-2">La arqueología y El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

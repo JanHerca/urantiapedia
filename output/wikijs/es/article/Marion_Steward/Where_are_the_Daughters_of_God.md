@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Marion Steward<br>© 1998 The Urantia Book Fellowship<br>© 2007 Olga López, por la traducción</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Forbid_him_not">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«¡No se lo prohíbas!»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/John_C_Hyde/The_Hidden_Messages_in_The_Urantia_Book___Art">
+          <span class="pr-2">Los mensajes ocultos en El libro de Urantia — Arte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 [Presentado en la Conferencia de lectores de _El Libro de Urantia_ de Australia y Nueva Zelanda, Sydney, 1997]
 
@@ -79,6 +103,31 @@ Y el que posiblemente sea el momento más pintoresco de todos: su pequeña charl
 * Este artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_1/page3.html
 
 * Traducción original: https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/HijasDios.pdf
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Forbid_him_not">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«¡No se lo prohíbas!»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/John_C_Hyde/The_Hidden_Messages_in_The_Urantia_Book___Art">
+          <span class="pr-2">Los mensajes ocultos en El libro de Urantia — Arte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

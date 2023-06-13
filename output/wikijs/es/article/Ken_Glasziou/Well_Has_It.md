@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Heisenberg_and_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Heisenberg y Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Spiritual_Growth">
+          <span class="pr-2">Crecimiento Espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ¿Lo tenemos? ¿Ha demostrado la física cuántica al Padre Universal? Bueno, no, eso está más allá de las capacidades de la ciencia. Pero después de toda una vida dedicada a investigar los misterios de los efectos cuánticos, físicos verdaderamente grandes como Heisenberg y Pauli han expresado su creencia de que la existencia de «un orden central de las cosas» es indiscutible, y Heisenberg ha optado por identificar el «orden central» con su Dios personal.
 
@@ -74,3 +98,28 @@ _El Libro de Urantia_ tiene mucho que decir sobre la realidad trascendente. Pero
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_4/page11.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Heisenberg_and_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Heisenberg y Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Spiritual_Growth">
+          <span class="pr-2">Crecimiento Espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

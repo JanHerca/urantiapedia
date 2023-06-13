@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Le'Ruth Ward Tyau<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Universe_is_Friendly">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿El Universo es Amigable?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Lo que sigue es parte de una carta al editor de Le‘Ruth Ward Tyau, una lectora que vive en Hawái y probó el método recomendado por los reveladores para mejorar el contacto con nuestros Ajustadores del Pensamiento. El método se discutió en el Innerface de enero/febrero en un artículo titulado «Sobre la adoración». Le’Ruth descubrió una variación del método que, para muchos, probablemente sería de gran ayuda. Ella escribió:
 
@@ -57,3 +78,25 @@ Le'Ruth Ward Tyau
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Universe_is_Friendly">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿El Universo es Amigable?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

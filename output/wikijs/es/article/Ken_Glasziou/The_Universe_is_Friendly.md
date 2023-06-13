@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Remembrance_Supper_its_Significance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Cena del Recuerdo: su significado</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/LeRuth_Ward_Tyau/A_letter_to_the_Editor_Communicating_with_our_Indwelling_God_Spirit">
+          <span class="pr-2">Comunicándonos con nuestro Dios-Espíritu que mora en nosotros</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «_Ganid, tengo una confianza absoluta en la protección de mi Padre celestial. Estoy consagrado a hacer la voluntad de mi Padre que está en los cielos. No creo que pueda sucederme ningún daño real; no creo que la obra de mi vida pueda ser puesta en peligro realmente por cualquier cosa que mis enemigos pudieran desear hacerme, y es seguro que no tenemos que temer ninguna violencia por parte de nuestros amigos. Estoy absolutamente convencido de que el universo entero es amistoso conmigo —insisto en creer en esta verdad todopoderosa con una confianza total, a pesar de todas las apariencias en contra._» ([LU 133:1.4](/es/The_Urantia_Book/133#p1_4))
 
@@ -41,3 +65,28 @@ Por lo tanto, las actitudes marcan la diferencia. Jesús nunca percibió la apar
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page12.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Remembrance_Supper_its_Significance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Cena del Recuerdo: su significado</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/LeRuth_Ward_Tyau/A_letter_to_the_Editor_Communicating_with_our_Indwelling_God_Spirit">
+          <span class="pr-2">Comunicándonos con nuestro Dios-Espíritu que mora en nosotros</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

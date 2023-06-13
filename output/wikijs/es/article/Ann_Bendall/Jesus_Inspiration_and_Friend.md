@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T02:19:42.812Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Ann Bendall<br>© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Building_upon_the_Quaker_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Construyendo sobre la Experiencia Cuáquera</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En algunas perspectivas de la vida de Jesús lo considero un modelo más que una inspiración, y esto es predominantemente en relación con sus experiencias de vida.
 
@@ -69,3 +90,25 @@ Y a lo largo del resto de su vida, sus experiencias incluyeron:
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_3/page13.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Building_upon_the_Quaker_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Construyendo sobre la Experiencia Cuáquera</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

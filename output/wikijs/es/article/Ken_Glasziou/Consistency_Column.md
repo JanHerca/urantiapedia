@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Science_and_Historical_Content_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mi odisea de experiencias cumbre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/My_Odyssey_of_Peak_Experiences">
+          <span class="pr-2">La ciencia y el contenido histórico de El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Incluso para un autor que escribe sobre hechos registrados, no siempre es fácil mantener la coherencia en una obra tan extensa como _El libro de Uranti_a. Para los autores hipotéticos que buscan imponer una revelación falsa al mundo, y por lo tanto confiar en su imaginación, mantener la coherencia sería una pesadilla y mucho más antes de la disponibilidad de las computadoras y la tecnología de la información moderna. Esta columna bimensual presenta información sobre nuestras investigaciones sobre la coherencia en _El Libro de Urantia_. Las aportaciones de los lectores serán bienvenidas.
 
@@ -32,3 +56,28 @@ La otra posibilidad está en [LU 29:4.36](/es/The_Urantia_Book/29#p4_36) que est
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_6/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Science_and_Historical_Content_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mi odisea de experiencias cumbre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/My_Odyssey_of_Peak_Experiences">
+          <span class="pr-2">La ciencia y el contenido histórico de El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Who_Wrote_The_Urantia_Book_It_doesnt_really_matter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Quién escribió El libro de Urantia? En mi opinión, no importa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Urantia_Book_Authorship_Other_Aspects">
+          <span class="pr-2">Autoría de El libro de Urantia: otros aspectos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Sucumbir a las presiones de la masa ha arruinado un sinnúmero de vidas, tanto jóvenes como adultas. ¿Por qué las personas de inteligencia normal y coraje normal se vuelven indefensos, cobardes idiotas sin carácter frente a la presión del grupo?
 
@@ -33,3 +57,28 @@ En realidad nunca estás solo. El Dios-Espíritu que mora en ti está siempre co
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Who_Wrote_The_Urantia_Book_It_doesnt_really_matter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Quién escribió El libro de Urantia? En mi opinión, no importa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Urantia_Book_Authorship_Other_Aspects">
+          <span class="pr-2">Autoría de El libro de Urantia: otros aspectos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

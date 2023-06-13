@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Truth_and_the_Spirit_of_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La verdad y el espíritu de la verdad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Mr_Hubble_and_the_Urantia_Papers">
+          <span class="pr-2">El señor Hubble y El Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Los Documentos de Urantia elevan la verdad, y la búsqueda de la verdad, a niveles mucho más elevados que el simple esfuerzo por ser correcto, correcto o de acuerdo con la letra o la ley de la verdad. Redefinen la verdad como aquello que tiene «verdaderos significados en los niveles espirituales».
 
@@ -51,3 +75,28 @@ Entonces, aunque sea «per ardua ad astra», busquemos las estrellas.
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_3/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Truth_and_the_Spirit_of_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La verdad y el espíritu de la verdad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Mr_Hubble_and_the_Urantia_Papers">
+          <span class="pr-2">El señor Hubble y El Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

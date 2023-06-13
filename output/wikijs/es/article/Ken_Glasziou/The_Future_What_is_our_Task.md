@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T23:03:26.250Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Religion_of_the_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La religión del Espíritu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Prove_it_to_yourself_for_yourself_2">
+          <span class="pr-2">Pruébalo por ti mismo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _Pero la religión no debería ocuparse directamente de crear nuevos órdenes sociales ni de conservar los antiguos_. ([LU 99:0.2](/es/The_Urantia_Book/99#p0_2))
 
@@ -35,3 +59,28 @@ dateCreated: 2022-09-26T23:03:26.250Z
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_2/page11.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Religion_of_the_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La religión del Espíritu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Prove_it_to_yourself_for_yourself_2">
+          <span class="pr-2">Pruébalo por ti mismo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

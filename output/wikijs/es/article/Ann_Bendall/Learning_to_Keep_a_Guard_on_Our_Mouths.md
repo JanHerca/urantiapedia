@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ann Bendall<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/On_Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la oración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Trinity_Teacher_Sons">
+          <span class="pr-2">Los Hijos Maestros de la Trinidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jesús tenía la capacidad de pensar antes de hablar. Hay una serie de referencias en _El Libro de Urantia_ que certifican su «pausa» antes de responder, una técnica que me esfuerzo tanto por adquirir y que fracasé estrepitosamente. En particular, esto es así en aquellos casos en que la emoción es provocada por un comentario, una acción, por la frustración o la ira.
 
@@ -43,3 +67,28 @@ Y fue solo cuando cantó el gallo que Pedro se dio cuenta de que había negado a
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/On_Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la oración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Trinity_Teacher_Sons">
+          <span class="pr-2">Los Hijos Maestros de la Trinidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

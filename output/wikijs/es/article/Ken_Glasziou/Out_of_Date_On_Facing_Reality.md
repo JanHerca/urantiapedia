@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Proofn_Spoof">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prueba y parodia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Really_Out_of_Date">
+          <span class="pr-2">¡Realmente desactualizado!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «**Sabemos muy bien** que los hechos históricos y las verdades religiosas de esta serie de presentaciones revelatorias permanecerán en los anales de las épocas venideras, pero dentro de pocos años muchas de nuestras **afirmaciones relacionadas con las ciencias físicas necesitarán una revisión** a consecuencia de los desarrollos científicos adicionales y de los nuevos descubrimientos. Estos nuevos desarrollos los prevemos incluso desde ahora, pero **se nos prohíbe incluir en nuestros escritos revelatorios esos hechos aún no descubiertos** por la humanidad. Que quede muy claro que las revelaciones no son necesariamente inspiradas. **La cosmología que figura en estas revelaciones no es inspirada.** Está limitada por el permiso que nos han concedido para coordinar y clasificar el conocimiento de **hoy en día**. Aunque la perspicacia divina o espiritual sea un don, la sabiduría humana tiene que evolucionar». ([LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
 
@@ -55,3 +79,28 @@ Quienes estén familiarizados con la escena de la "pobreza absoluta" conocerán 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_5/page12.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Proofn_Spoof">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prueba y parodia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Really_Out_of_Date">
+          <span class="pr-2">¡Realmente desactualizado!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

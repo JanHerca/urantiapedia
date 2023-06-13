@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Crime_Against_Humanity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Un crimen contra la humanidad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Cross_as_a_Symbol">
+          <span class="pr-2">La cruz como símbolo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Para justificar un cambio significativo, primero debemos admitir que nuestro enfoque actual ha fallado. Jim Mills, quien era un veterano destacado de los días del Foro, me advirtió de esto antes de su muerte hace unos años. En sus años de jubilación, Jim estudió filosofía, se graduó cuando tenía ochenta años y enseñó en el campus de Pensacola de la Universidad de Florida. Se dedicó a lograr que _El Libro de Urantia_ fuera aceptado para estudiar en el nivel terciario. Pero sus esfuerzos fueron en vano.
 
@@ -39,3 +63,28 @@ Así que, por favor, no seamos como la mayoría de la cosecha actual de cristian
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Crime_Against_Humanity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Un crimen contra la humanidad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Cross_as_a_Symbol">
+          <span class="pr-2">La cruz como símbolo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

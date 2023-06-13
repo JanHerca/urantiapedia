@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Further_Exploring_the_Mind_of_Jesus">
+          <span class="pr-2">Explorando aún más la mente de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La diferencia característica entre una ocasión social y una reunión religiosa es que, en contraste con lo secular, lo religioso está impregnado por la atmósfera de comunión. De esta manera la asociación humana genera un sentimiento de comunión con lo divino, y este es el comienzo del culto grupal.
 
@@ -33,3 +54,25 @@ Dios, el Padre, trata con el hombre, su hijo, sobre la base, no de la virtud o e
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_5/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Further_Exploring_the_Mind_of_Jesus">
+          <span class="pr-2">Explorando aún más la mente de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

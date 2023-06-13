@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Personality_and_Communication">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personalidad y Comunicación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Angona_Nemesis_and_the_Solar_System">
+          <span class="pr-2">Angona, Némesis y el Sistema Solar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Conceptos como la inmutabilidad de Dios, su perfección, rectitud, justicia, misericordia, amor y perdón siempre han terminado en confusión cuando los seres mortales finitos intentan atarlos a definiciones significativas. Los teólogos, en particular, han cometido el error primordial de creer en su propia capacidad para afirmar con precisión lo que Dios es o no es, o lo que Dios puede o no puede hacer.
 
@@ -80,3 +104,28 @@ Sin embargo, nunca estamos solos: «Ese fragmento de la Deidad pura del Padre Un
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_4/page6.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Personality_and_Communication">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personalidad y Comunicación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Angona_Nemesis_and_the_Solar_System">
+          <span class="pr-2">Angona, Némesis y el Sistema Solar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

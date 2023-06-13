@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Brotherhood">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hermandad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/When_is_Epochal_Revelation_not_Epochal">
+          <span class="pr-2">¿Cuándo no es Epochal Revelation?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Primero algunas definiciones para ayudar a nuestra comprensión:
 
@@ -61,3 +85,28 @@ Habiendo alcanzado ese estado deseable, calificamos para convertirnos en «uno»
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_3/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Brotherhood">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hermandad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/When_is_Epochal_Revelation_not_Epochal">
+          <span class="pr-2">¿Cuándo no es Epochal Revelation?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

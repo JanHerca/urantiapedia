@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Dick Bain<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Why_we_need_to_know_the_earthly_life_of_Jesus_and_how_he_lived_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Por qué necesitamos saber «La vida terrenal de Jesús y cómo la vivió»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Intolerance">
+          <span class="pr-2">Intolerancia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Ahora que tengo tu atención... Estoy seguro de que los que estamos en la comunidad de Urantia daríamos un NO vehemente a tal idea, pero el problema es que hay otros que no son estudiantes de _El Libro de Urantia_ que darían una respuesta diferente. Supongamos que el difunto grupo Heaven's Gate recientemente de San Diego hubiera mencionado _El Libro de Urantia_ en su sitio web o si el libro se hubiera encontrado en su casa alquilada después de su suicidio en masa. Quizás algunos reporteros de investigación habrían hecho una investigación en profundidad de la comunidad de Urantia. ¿Su exposición nos retrataría como un culto peligroso o extraño?
 
@@ -76,3 +100,28 @@ Hay muchas buenas razones para estar al servicio de nuestros congéneres mortale
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_5/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Why_we_need_to_know_the_earthly_life_of_Jesus_and_how_he_lived_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Por qué necesitamos saber «La vida terrenal de Jesús y cómo la vivió»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Intolerance">
+          <span class="pr-2">Intolerancia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

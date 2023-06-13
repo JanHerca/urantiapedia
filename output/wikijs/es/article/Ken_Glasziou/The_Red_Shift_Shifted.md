@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Cosmic_Reflections_Oops">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflejos cósmicos. ¡¡Ups!!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «_Aunque vuestras estimaciones espectroscópicas de las velocidades astronómicas son bastante fiables cuando se aplican a los reinos estelares pertenecientes a vuestro superuniverso y a los superuniversos asociados, estos cálculos carecen por completo de fiabilidad cuando se refieren a los dominios del espacio exterior. Las líneas espectrales se desplazan desde lo normal hacia el violeta para una estrella que se acerca; estas líneas se desplazan igualmente hacia el rojo para una estrella que se aleja. Muchas influencias se interponen para dar la impresión de que la velocidad de recesión de los universos exteriores aumenta a razón de más de ciento sesenta kilómetros por segundo por cada millón de años-luz que aumente la distancia. Después de que se perfeccionen unos telescopios más potentes, con este método de cálculo parecerá que estos sistemas tan remotos se alejan de esta parte del universo a la velocidad increíble de cerca de cincuenta mil kilómetros por segundo. Pero esta velocidad aparente de recesión no es real; es el resultado de numerosos factores erróneos entre los que se incluyen los ángulos de observación y otras distorsiones del espacio-tiempo._» ([LU 12:4.14](/es/The_Urantia_Book/12#p4_14))
 
@@ -70,3 +91,25 @@ Es interesante el hecho de que los autores del Documento de Urantia hayan dado, 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_2/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Cosmic_Reflections_Oops">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflejos cósmicos. ¡¡Ups!!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

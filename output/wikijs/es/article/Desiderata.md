@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Listening_to_Your_Dreams">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Escuchando tus sueños</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Dare_to_be_Godlike">
+          <span class="pr-2">Atrévete a ser como Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Encontrado en Old Saint Paul's Church, Baltimore, con fecha de 1692
 {.is-info}
@@ -39,3 +63,27 @@ Ten cuidado. Esfuérzate por ser feliz.
 ## Enlaces externos
 
 * Artículo en Innerface International: https://archive.urantiabook.org/archive/newsletters/innerface/vol5_1/page13.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Listening_to_Your_Dreams">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Escuchando tus sueños</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Dare_to_be_Godlike">
+          <span class="pr-2">Atrévete a ser como Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

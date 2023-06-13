@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Heart_that_Became_Loveless">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El corazón que se quedó sin amor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/High_on_Angels">
+          <span class="pr-2">Arriba con los Ángeles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jesús llamó a todos «amigo» porque no tenía ninguna duda de que, de hecho, él era solo eso. Si tenía una amistad con una persona era su decisión, y solo su decisión. Para existir, la amistad dependía 100% de que la persona considerara a Jesús como un amigo y eligiera ser también su amigo.
 
@@ -91,3 +115,27 @@ _Los celos: ¡un veneno espiritual que ataca y destruye el corazón!_
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_3/page11.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Heart_that_Became_Loveless">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El corazón que se quedó sin amor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/High_on_Angels">
+          <span class="pr-2">Arriba con los Ángeles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

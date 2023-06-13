@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/God_the_Universal_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dios, el Padre Universal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Is_God_a_mathematician">
+          <span class="pr-2">¿Es Dios un matemático?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 «El pecado es la transgresión deliberada de la voluntad divina». [LU 75:4.3](/es/The_Urantia_Book/75#p4_3), [LU 148:4.4](/es/The_Urantia_Book/148#p4_4)
 
@@ -37,3 +61,28 @@ Entonces, sí, si tomamos la revelación en serio, entonces debemos tomar el pec
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_1/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/God_the_Universal_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dios, el Padre Universal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Is_God_a_mathematician">
+          <span class="pr-2">¿Es Dios un matemático?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

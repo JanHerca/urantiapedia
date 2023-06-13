@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Sydney Harris<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Papers_on_loving_our_Neighbor">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los documentos de Urantia sobre amar a nuestro prójimo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Remembrance_Supper_its_Significance">
+          <span class="pr-2">La Cena del Recuerdo: su significado</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El censista de Roma fue enviado a Galilea alrededor del año 28 d. C. Al entrar en la región, se encontró con un hombre montado en un burro. El hombre tenía el pelo largo y una barba suelta; vestía una vieja capa andrajosa, sandalias y cuentas.
 
@@ -62,3 +86,28 @@ El barbudo sonrió con tristeza. «Algunos me llaman el Hijo del Hombre». Ambos
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Papers_on_loving_our_Neighbor">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los documentos de Urantia sobre amar a nuestro prójimo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Remembrance_Supper_its_Significance">
+          <span class="pr-2">La Cena del Recuerdo: su significado</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

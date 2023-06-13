@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T21:06:42.285Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/What_the_Urantia_Revelation_says_about_the_Spirit_of_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lo que dice la Revelación de Urantia sobre el Espíritu de la Verdad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Uniqueness_of_Jesus">
+          <span class="pr-2">La singularidad de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Mientras que la fama de Jesús como sanador se extendió rápidamente por todas partes de Palestina, Siria y los países vecinos ([LU 149:1.1](/es/The_Urantia_Book/149#p1_1)), la capacidad de sus apóstoles para mantener esta reputación rápidamente se desvaneció después de la muerte y resurrección de Jesús. La razón probable se puede encontrar en:
 
@@ -47,3 +71,27 @@ Resumiendo esta evidencia, concluimos que la veracidad de las apariciones de la 
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_2/page11.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/What_the_Urantia_Revelation_says_about_the_Spirit_of_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lo que dice la Revelación de Urantia sobre el Espíritu de la Verdad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Uniqueness_of_Jesus">
+          <span class="pr-2">La singularidad de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

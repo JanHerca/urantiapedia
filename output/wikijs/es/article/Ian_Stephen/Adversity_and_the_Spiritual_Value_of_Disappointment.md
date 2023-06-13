@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ian Stephen<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Joanne_Scheffler/Apartheid_Mandeled">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Apartheid tras Mandela</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_Wentworth/Its_a_Worry">
+          <span class="pr-2">Es una preocupación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _El Libro de Urantia_ nos dice que «Jesús habló durante más de una hora a los grupos reunidos sobre ‘La misión de la adversidad y el valor espiritual de la decepción’». ([LU 151:0.1](/es/The_Urantia_Book/151#p0_1))
 
@@ -40,3 +64,28 @@ Si no hubiera ocurrido mi «adversidad» particular, nunca hubiera encontrado el
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_5/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Joanne_Scheffler/Apartheid_Mandeled">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Apartheid tras Mandela</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_Wentworth/Its_a_Worry">
+          <span class="pr-2">Es una preocupación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

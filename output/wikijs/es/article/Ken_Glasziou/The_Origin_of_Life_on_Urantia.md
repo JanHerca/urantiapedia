@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Harbingers_of_Hope_and_Keepers_of_the_Copyright_Hear_This">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡Escuchen! ¡Escuchen! Todos los heraldos de la esperanza, guardianes de los derechos de autor y protectores de un texto inviolable, escuchen esto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Cosmic_Reflections_Oops">
+          <span class="pr-2">Reflejos cósmicos. ¡¡Ups!!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La descripción en los Documentos de Urantia que cuenta cómo, hace 550 millones de años, los Portadores de Vida trajeron vida a este planeta causa problemas a muchos lectores, tanto nuevos como antiguos, que se encuentran con afirmaciones de fuentes científicas que afirman que la vida ha estado en este planeta durante mucho tiempo. exceso de 3 mil millones de años.
@@ -80,6 +104,31 @@ Mi opinión personal, detallada en [Innerface International Vol.5 No.7](/es/arti
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_2/page8.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Harbingers_of_Hope_and_Keepers_of_the_Copyright_Hear_This">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡Escuchen! ¡Escuchen! Todos los heraldos de la esperanza, guardianes de los derechos de autor y protectores de un texto inviolable, escuchen esto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Cosmic_Reflections_Oops">
+          <span class="pr-2">Reflejos cósmicos. ¡¡Ups!!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

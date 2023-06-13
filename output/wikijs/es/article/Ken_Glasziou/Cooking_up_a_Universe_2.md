@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T04:54:41.956Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Quantum_Stuff_Basic_Physics">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cosas cuánticas, física básica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Antigravity_is_Back_2">
+          <span class="pr-2">La antigravedad está de vuelta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Resumen
 
@@ -43,3 +67,28 @@ PD **¿Sabías que?** Si una sopa compuesta de los ingredientes de nucleótidos 
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page21.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Quantum_Stuff_Basic_Physics">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cosas cuánticas, física básica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Antigravity_is_Back_2">
+          <span class="pr-2">La antigravedad está de vuelta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

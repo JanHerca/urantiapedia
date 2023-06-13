@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T19:14:54.696Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/More_on_Our_Challenge">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más sobre “Nuestro Desafío”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Las llaves del reino de los cielos son la sinceridad, más sinceridad y aún más sinceridad. Todos los hombres poseen estas llaves. Los hombres las utilizan —elevan su estado espiritual— mediante sus decisiones, más decisiones y aún más decisiones. La elección moral más elevada consiste en elegir el valor más elevado posible, y ésta siempre consiste —en cualquier esfera, y en todas ellas— en elegir hacer la voluntad de Dios. Si el hombre elige hacerla, *es* grande, aunque sea el ciudadano más humilde de Jerusem o incluso el mortal más insignificante de Urantia. ([LU 39:4.14](/es/The_Urantia_Book/39#p4_14))
 
@@ -54,3 +75,24 @@ dateCreated: 2022-09-26T19:14:54.696Z
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page16.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/More_on_Our_Challenge">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más sobre “Nuestro Desafío”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

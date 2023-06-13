@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/The_E_Word">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La palabra «E»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Book_and_Moral_Consciousness">
+          <span class="pr-2">El Libro de Urantia y extractos de la conciencia moral</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La conciencia es importante porque su estudio se ha convertido en el punto focal de una cooperación interdisciplinaria que poco a poco está socavando el determinismo y el materialismo en nuestra sociedad. Por lo tanto, cuanto más sabemos sobre los fundamentos de la evidencia a favor y en contra de las filosofías alternativas, aumentamos nuestro potencial para contribuir al renacimiento de la religión verdadera.
 
@@ -148,6 +172,31 @@ Hoy no son sólo los físicos cuánticos los que han abandonado el materialismo 
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_6/page6.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/The_E_Word">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La palabra «E»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Book_and_Moral_Consciousness">
+          <span class="pr-2">El Libro de Urantia y extractos de la conciencia moral</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

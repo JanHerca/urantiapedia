@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Shroud_of_Turin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Sábana Santa de Turín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Proof_and_the_Urantia_Papers">
+          <span class="pr-2">Las pruebas y los documentos de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Los apóstoles aprendieron que los judíos estaban espiritualmente estancados y moribundos porque habían cristalizado la verdad en un credo; que cuando se formula la verdad como una línea divisoria de exclusivismo presuntuoso, en lugar de servir como un poste indicador para la orientación y el progreso espiritual, dichas enseñanzas pierden su poder creativo y vivificante, y acaban por volverse simplemente conservadoras y fosilizantes.
 > 
@@ -29,3 +53,28 @@ dateCreated: 2022-9-9T8:13:39Z
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_4/page12.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Shroud_of_Turin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Sábana Santa de Turín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Proof_and_the_Urantia_Papers">
+          <span class="pr-2">Las pruebas y los documentos de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Truth_What_is_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡La verdad! ¿Qué es la verdad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/On_Free_Will_2">
+          <span class="pr-2">Sobre el libre albedrío</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Sería bastante extraño que todos los lectores interpretaran de la misma manera nuestro artículo «Lugares favoritos». Sin embargo, muchos de los que han considerado el contenido de esos pasajes han llegado a apreciar _El Libro de Urantia_ bajo una nueva luz, una en la que el contenido espiritual de su texto se ve bastante aparte de aquellos segmentos del texto que son más relevantes para el mundo secular.
 
@@ -40,3 +64,28 @@ Vistos bajo esta luz, los reveladores han cumplido su tarea magníficamente, has
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Truth_What_is_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡La verdad! ¿Qué es la verdad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/On_Free_Will_2">
+          <span class="pr-2">Sobre el libre albedrío</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

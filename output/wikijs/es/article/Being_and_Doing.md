@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Blessed_Assurance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bendita seguridad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Living_as_Jesus_lived_in_a_family_environment">
+          <span class="pr-2">Vivir como vivió Jesús: en un ambiente familiar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _Aquella noche, Jesús enseñó dentro de la casa porque había empezado a llover; habló muy extensamente a los doce para tratar de mostrarles lo que debían ser, y no lo que debían hacer. Sólo conocían una religión que imponía hacer ciertas cosas para poder alcanzar la rectitud —la salvación. Pero Jesús les repetía: «En el reino, tenéis que ser rectos para hacer el trabajo»._ ([LU 140:10.1](/es/The_Urantia_Book/140#p10_1))
 
@@ -84,3 +108,28 @@ Y así, de acuerdo con la evidencia citada, concluimos que las vidas vividas a i
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_6/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Blessed_Assurance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bendita seguridad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Living_as_Jesus_lived_in_a_family_environment">
+          <span class="pr-2">Vivir como vivió Jesús: en un ambiente familiar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Revelation__why_do_we_have_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Revelación de Urantia. ¿Por qué la tenemos?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/More_on_Prayer">
+          <span class="pr-2">Más sobre la oración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _La mente siempre es creativa. La dotación mental individual de un animal, un mortal, un ser morontial, un ascendente espiritual o un ser que ha alcanzado la finalidad, siempre es capaz de producir un cuerpo adecuado y útil para la identidad de la criatura viviente._ ([LU 42:12.9](/es/The_Urantia_Book/42#p12_9))
 
@@ -40,3 +64,28 @@ Nunca debemos rechazar las tareas que se nos presentan por motivos falsos de nue
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Revelation__why_do_we_have_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Revelación de Urantia. ¿Por qué la tenemos?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/More_on_Prayer">
+          <span class="pr-2">Más sobre la oración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

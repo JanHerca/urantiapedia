@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ann Bendall<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_the_Revelatory_Status_of_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre el estado revelador del Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Faith">
+          <span class="pr-2">Sobre la fe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Mientras que la sociedad occidental celebra la Navidad con rituales y simbolismos que consisten en la adoración del árbol, el recuerdo de la muerte de San Nicolás y el nacimiento de Mitra (por conveniencia, también se nombra como el cumpleaños de Jesús), la tierra no cristianizada de Japón ha decidido tener su propia celebración del 25 de diciembre. Por eso, este día está reservado para las interpretaciones en todo el país del 'segundo himno nacional' de Japón, esa parte de la novena sinfonía de Beethoven conocida como "_Oh, canta una canción de alegría".
 
@@ -63,3 +87,28 @@ por amor y comprensión. <br>
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_1/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_the_Revelatory_Status_of_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre el estado revelador del Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Faith">
+          <span class="pr-2">Sobre la fe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

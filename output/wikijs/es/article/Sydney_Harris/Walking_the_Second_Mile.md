@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Sydney Harris<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Reflections_on_The_Dangers_of_Presumption">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones sobre los peligros de la presunción</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Lo que vagamente llamamos «religión» en nuestra sociedad enciende a algunas personas y las aleja de otras. Lo que me parece especialmente interesante es que tantas buenas personas se apagan como se excitan. No separa las ovejas de las cabras de ninguna manera.
 
@@ -39,3 +60,25 @@ Esto es difícil, lo más difícil del mundo. Es tan difícil que la religión t
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_1/page18.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Reflections_on_The_Dangers_of_Presumption">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexiones sobre los peligros de la presunción</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

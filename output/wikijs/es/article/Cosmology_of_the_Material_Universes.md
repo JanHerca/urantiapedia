@@ -9,6 +9,27 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/My_Odyssey_of_Peak_Experiences">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La ciencia y el contenido histórico de El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Si bien no existe una definición oficial del método científico, ni lo que constituye la lógica y los objetivos de la ciencia, hay algunas cosas que la mayoría de los científicos profesionales entienden.
 
@@ -63,3 +84,24 @@ La ciencia habrá descubierto que el flujo de energía en los universos está co
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_6/page13.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/My_Odyssey_of_Peak_Experiences">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La ciencia y el contenido histórico de El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ann Bendall<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Concepts_of_the_Absolute">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conceptos del Absoluto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Twinkle__Twinkle">
+          <span class="pr-2">Brilla, brilla</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Qué alivio descubrir que no estaré presente en los procedimientos que decidirán si sobrevivo o no. Antes de leer _El Libro de Urantia_, creía que me esperaba una prueba terrible, y la vida en el más allá parecía comenzar con un proceso aterrador en el que sería convocado ante los jueces que se enfrentaban a tres opciones: el infierno, el purgatorio o cielo. Es cierto que ya sabía la decisión, el purgatorio definitivamente iba a ser mi próxima morada. Por un simple proceso de deducción, a pesar de mis muchos pecados, tenía la máxima fe en que Dios era un tipo de padre tolerante con los imbéciles y estaba convencido de que Él me daría una oportunidad justa porque la mayoría de mis pecados se debieron a no descubrir que mis acciones caían en esa categoría hasta que se realizó un análisis post hoc. El cielo estaba definitivamente fuera,
 
@@ -56,3 +80,28 @@ Y así, mientras me abro camino ignorantemente a través del ascenso al Paraíso
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Concepts_of_the_Absolute">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conceptos del Absoluto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Twinkle__Twinkle">
+          <span class="pr-2">Brilla, brilla</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

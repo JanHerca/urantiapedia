@@ -9,6 +9,27 @@ dateCreated: 2022-9-8T15:10:22Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Why_are_some_people_turned_off_it_and_others_love_it">
+          <span class="pr-2">El libro de Urantia. ¿Por qué algunas personas lo rechazan y a otras les encanta?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > **Un anuncio importante**
 > Estamos encantados de anunciar que Dick Bain, el editor de Cosmic Reflections, ha aceptado unirse a nuestro panel editorial y, además, fusionar su boletín con Innerface International. Predominantemente, Cosmic Reflections se ha concentrado en ayudar a los estudiantes de _El Libro de Urantia_ a obtener una comprensión más profunda del propósito revelador de la ciencia y la cosmología del libro.
@@ -35,3 +56,25 @@ Para arrojar un poco de luz sobre este tema, hemos convertido el propósito y la
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_1/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Why_are_some_people_turned_off_it_and_others_love_it">
+          <span class="pr-2">El libro de Urantia. ¿Por qué algunas personas lo rechazan y a otras les encanta?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

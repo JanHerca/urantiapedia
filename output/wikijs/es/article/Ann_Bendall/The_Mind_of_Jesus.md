@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Ann Bendall<br>© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Dark_Matter_and_a_String_of_Pearls">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Materia oscura y un collar de perlas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Mathematics_and_Science_catch_up_with_The_Urantia_Book">
+          <span class="pr-2">La ciencia y El Libro de Urantia. El mesotrón</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Es posible adquirir la mente de Jesús. Como percibo actualmente esa mente, es en términos de su desarrollo de un nivel de moralidad, filosofía y ética universales, además de los atributos mentales que acompañan las formas de acercarse a los demás y las actitudes para enfrentar los problemas para reflejar su nivel de moralidad.
 
@@ -33,6 +57,31 @@ Jesús fue activo en la interacción con los demás y proactivo en ser «sabio y
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_5/page15.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Dark_Matter_and_a_String_of_Pearls">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Materia oscura y un collar de perlas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Mathematics_and_Science_catch_up_with_The_Urantia_Book">
+          <span class="pr-2">La ciencia y El Libro de Urantia. El mesotrón</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

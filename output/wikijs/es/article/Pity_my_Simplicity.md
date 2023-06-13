@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Are_the_Urantia_Papers_the_Divine_Word_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Son los Documentos de Urantia la palabra divina de Dios?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/What_Really_Survives">
+          <span class="pr-2">¿Qué es lo que sobrevive en realidad?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «... las simples enseñanzas del evangelio de Jesús: la filiación con Dios, la fraternidad entre los hombres y la ciudadanía siempre ascendente en el universo eterno». ([LU 94:10.3](/es/The_Urantia_Book/94#p10_3))
 
@@ -43,3 +67,28 @@ Si nos vemos a nosotros mismos como personas escogidas, de alguna manera siendo 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_1/page14.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Are_the_Urantia_Papers_the_Divine_Word_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Son los Documentos de Urantia la palabra divina de Dios?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/What_Really_Survives">
+          <span class="pr-2">¿Qué es lo que sobrevive en realidad?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

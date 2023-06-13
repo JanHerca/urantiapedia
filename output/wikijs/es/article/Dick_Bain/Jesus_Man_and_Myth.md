@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Dick Bain<br>© 1994 The Urantia Book Fellowship<br>© 2005 Olga López, por la traducción</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/DEFRAG">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">DEFRAG</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Another_and_Greater_John_the_Baptist">
+          <span class="pr-2">¡Otro Juan Bautista más grande!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jesús preguntó a sus apóstoles en una ocasión: «¿Quién dicen los hombres que soy?». Los apóstoles le dijeron que le habían comparado con Moisés, Elías, Isaías, Jeremías e incluso con Juan el Bautista renacido de entre los muertos. Entonces Jesús les abordó con otra pregunta aún más asombrosa: «¿Quién decís vosotros que soy?». El impetuoso Simón Pedro se levantó de un salto y dijo: «¡El Libertador, el Hijo de Dios!». Muchos de aquellos que conocieron a Jesús sólo de oídas asumieron que era la reencarnación de algún profeta conocido. Algunos de sus enemigos parecían pensar que era un aliado del príncipe de los demonios. Pero los apóstoles, que habían vivido con él durante más de un año, creían que era el Hijo de Dios, y también de alguna forma el Mesías esperado por los judíos. Esto ciertamente no dejó zanjada la cuestión: la búsqueda de la identidad de Jesús ha continuado durante 1.900 años y no ha finalizado todavía. 
 
@@ -60,6 +84,31 @@ Sea lo que sea lo que pensemos sobre Jesús, la mayoría de nosotros estaría de
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page8.html
 
 * Traducción de Olga López: https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Hombreymito.pdf
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/DEFRAG">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">DEFRAG</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Another_and_Greater_John_the_Baptist">
+          <span class="pr-2">¡Otro Juan Bautista más grande!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

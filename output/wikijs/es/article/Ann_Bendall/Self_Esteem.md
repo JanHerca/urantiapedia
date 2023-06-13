@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ann Bendall<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Wouldnt_It_Be_Great_If">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿No sería genial si...?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Second_Great_Commandment_A_Reminder">
+          <span class="pr-2">El Segundo Gran Mandamiento. Un Recordatorio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Para atender la forma simplista en la que los individuos exploran la complejidad de la naturaleza humana, la psicología ha acuñado el concepto de "autoestima" para representar lo que _El Libro de Urantia_ llama conciencia y sus advertencias por parte del Ajustador del Pensamiento, la autoestima y la individualidad.
 
@@ -34,3 +58,28 @@ En la segunda instancia en [LU 139:4.8](/es/The_Urantia_Book/139#p4_8), se refle
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page5.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Wouldnt_It_Be_Great_If">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿No sería genial si...?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Second_Great_Commandment_A_Reminder">
+          <span class="pr-2">El Segundo Gran Mandamiento. Un Recordatorio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

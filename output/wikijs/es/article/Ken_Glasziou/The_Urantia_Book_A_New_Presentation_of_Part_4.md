@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Sower">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El sembrador</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Con la esperanza de influir en el pensamiento de la corriente principal de los cristianos a través de ideas y conceptos que se encuentran en la «Vida de Jesús» del Libro de Urantia, la experiencia, por ahora, ha indicado que este efecto solo se logrará si se presenta esa «Vida». en una forma diferente.
 
@@ -27,3 +48,25 @@ Tal como está ahora, es poco probable que _El Libro de Urantia_ contribuya sign
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page16.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Sower">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El sembrador</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Meredith Sprunger<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El desafío del siglo XXI</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Q_P_Quid/Here_and_There">
+          <span class="pr-2">Aquí y allá</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La cosmología material del mundo bíblico precientífico era una visión simplista de una tierra plana cubierta por un firmamento que tenía agujeros (estrellas) a través de los cuales brillaba la luz del cielo. Nuestra actual cosmología material científica de cuatro dimensiones en la que las distancias se miden en años luz indica cuán anticuada es la astronomía bíblica. Incluso los fundamentalistas religiosos de hoy han abandonado una cosmología material de la tierra plana.
 
@@ -29,3 +53,28 @@ Aquí, como en tantas otras áreas de iluminación espiritual, _El Libro de Uran
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_3/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El desafío del siglo XXI</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Q_P_Quid/Here_and_There">
+          <span class="pr-2">Aquí y allá</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

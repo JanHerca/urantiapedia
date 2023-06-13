@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Steady_State_Big_Bang_or_Architects_of_the_Master_Universe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Estado estacionario, Big Bang o arquitectos del universo maestro?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Los lectores del Libro de Urantia con una inclinación científica pueden haber notado un tipo de fenómeno de la Ley de Murphy en la revisión de los medios de comunicación sobre temas científicos. Básicamente se reduce a "no oponerse al sistema", y tiene el efecto de que, independientemente de lo que pueda indicar un conjunto de resultados experimentales, se debe encontrar una manera de hacer que se ajusten a cualquiera que sea la línea actual.
 
@@ -35,3 +56,25 @@ El establecimiento respondió a esta afirmación arrojando dudas sobre las técn
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_4/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Steady_State_Big_Bang_or_Architects_of_the_Master_Universe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Estado estacionario, Big Bang o arquitectos del universo maestro?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

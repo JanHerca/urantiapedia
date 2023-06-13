@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Dick Bain<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Papers_Was_Immediate_Publication_Intended">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los Documentos de Urantia. ¿Estaba prevista su publicación inmediata?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Consciousness">
+          <span class="pr-2">Conciencia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Siempre he considerado _El Libro de Urantia_ incomparable entre los libros espirituales, pero después de muchos años de estudio, parece diferente en algunos aspectos del libro que leí por primera vez. Estoy seguro de que mi experiencia no es única. Veo nuestra relación con el libro pasando por etapas similares a las de un romance.
 
@@ -72,3 +96,28 @@ Matthew sugiere leer el libro de Mark Haller, «_Eugenics_», para tener una ide
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_6/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Papers_Was_Immediate_Publication_Intended">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los Documentos de Urantia. ¿Estaba prevista su publicación inmediata?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Consciousness">
+          <span class="pr-2">Conciencia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

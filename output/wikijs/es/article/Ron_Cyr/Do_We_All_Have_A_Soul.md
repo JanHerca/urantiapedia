@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ron Cyr<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_Wentworth/Its_a_Worry">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Es una preocupación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Norm_Duval/The_Real_Gospel">
+          <span class="pr-2">El verdadero evangelio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Como lector de _El Libro de Urantia_, me parece que Urantia es, y ha sido, lo que puedo llamar un «pozo negro genético» causado por la rebelión de Lucifer y la caída de la misión adámica. Se nos dice cómo este estado de cosas afectó emocionalmente a Jesús cuando se enfrentó al «espectáculo de estos mortales afligidos, hombres, mujeres y niños, que sufrían en gran parte a consecuencia de las equivocaciones y transgresiones de sus propios Hijos a quienes había confiado la administración del universo, conmovió particularmente el corazón humano de Jesús y puso a prueba la misericordia divina de este benévolo Hijo Creador.» ([LU 145:3.7](/es/The_Urantia_Book/145#p3_7))
 
@@ -29,3 +53,28 @@ Entonces, ¿no se enfrenta ahora Urantia a una situación en la que millones y m
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_5/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_Wentworth/Its_a_Worry">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Es una preocupación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Norm_Duval/The_Real_Gospel">
+          <span class="pr-2">El verdadero evangelio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

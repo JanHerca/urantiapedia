@@ -9,6 +9,27 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/48_Chromosomes_Or_Jumping_to_Conclusions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cuarenta y ocho cromosomas? O saltamos a las conclusiones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Hay una interpretación alternativa y bastante diferente de la polémica de los 48 cromosomas. En este caso, simplemente aceptamos que los autores cumplieron su mandato al pie de la letra. Por lo tanto, aunque sabían que dos de nuestros cromosomas se habían fusionado para llevar el número a 46, se ajustaron a la regla de que no se les permitía darnos conocimiento no ganado (excepto en circunstancias especiales), y así permanecieron con el entonces cuenta actual de 48.
 
@@ -39,6 +60,28 @@ Esto realmente no es tan difícil una vez que liberamos nuestras mentes de nuest
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_6/page15.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/48_Chromosomes_Or_Jumping_to_Conclusions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cuarenta y ocho cromosomas? O saltamos a las conclusiones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

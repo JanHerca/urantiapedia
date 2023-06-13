@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Frederick Beckner<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Birth_of_the_Solar_System">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El nacimiento del Sistema Solar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Matt_Neibaur/Archaeology_and_The_Urantia_Book_Tin_in_Turkey">
+          <span class="pr-2">La arqueología y El libro de Urantia. El estaño en Turquía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _El Libro de Urantia_ afirma «_En el superuniverso de Orvonton hay cien octavas de energía ondulatoria_» ([LU 42:5.1](/es/The_Urantia_Book/42#p5_1)).
 
@@ -45,3 +69,28 @@ Esto nos lleva a la pregunta de por qué se proporcionó esta información. Como
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page18.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Birth_of_the_Solar_System">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El nacimiento del Sistema Solar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Matt_Neibaur/Archaeology_and_The_Urantia_Book_Tin_in_Turkey">
+          <span class="pr-2">La arqueología y El libro de Urantia. El estaño en Turquía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

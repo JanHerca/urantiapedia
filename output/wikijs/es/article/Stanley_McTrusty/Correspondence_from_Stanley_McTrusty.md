@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Stanley McTrusty<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jacques_Dupont/Consistency_in_The_Urantia_Book_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Coherencia en El libro de Urantia: personalidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Mars_The_Bearer_of_Life">
+          <span class="pr-2">Marte: ¿El portador de la vida?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Stanley McTrusty, un antiguo lector de _El Libro de Urantia_ que es matemático profesional, nos envió su tesis sobre la realidad seguida de una carta en elaboración. Primero la tesis:
 
@@ -83,3 +107,27 @@ Si una sola persona realmente entiende lo que he deducido en este resumen, y si 
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_2/page13.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jacques_Dupont/Consistency_in_The_Urantia_Book_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Coherencia en El libro de Urantia: personalidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Mars_The_Bearer_of_Life">
+          <span class="pr-2">Marte: ¿El portador de la vida?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

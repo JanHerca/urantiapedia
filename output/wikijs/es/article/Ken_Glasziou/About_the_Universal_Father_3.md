@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:12:18Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/About_the_Universal_Father_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre el Padre Universal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Secondary_Midwayers">
+          <span class="pr-2">Los Intermedios Secundarios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Aunque los mortales materiales no pueden ver la persona de Dios, deberían regocijarse en la seguridad de que es una persona; aceptar por la fe la verdad que indica que el Padre Universal ha amado tanto al mundo que ha tomado precauciones para el progreso espiritual eterno de sus humildes habitantes; que «se deleita en sus hijos». Dios no carece de ninguno de esos atributos superhumanos y divinos que constituyen la personalidad perfecta, eterna, amorosa e infinita del Creador.
 >
@@ -40,3 +64,28 @@ dateCreated: 2022-9-9T8:12:18Z
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_2/page19.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/About_the_Universal_Father_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre el Padre Universal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Secondary_Midwayers">
+          <span class="pr-2">Los Intermedios Secundarios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

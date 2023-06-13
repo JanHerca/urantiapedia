@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Sheila Kemish<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/John_C_Hyde/The_Hidden_Messages_in_The_Urantia_Book___Art">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los mensajes ocultos en El libro de Urantia — Arte</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Listening_to_Your_Dreams">
+          <span class="pr-2">Escuchando tus sueños</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Reportado en una revista parroquial por la Sra. Sheila Kemish (esposa de un ministro ordenado)
 {.is-info}
@@ -71,6 +95,31 @@ Todo lo que esté fuera del credo mínimo podría ser personal. Algo de esta nat
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_1/page9.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/John_C_Hyde/The_Hidden_Messages_in_The_Urantia_Book___Art">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los mensajes ocultos en El libro de Urantia — Arte</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Listening_to_Your_Dreams">
+          <span class="pr-2">Escuchando tus sueños</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

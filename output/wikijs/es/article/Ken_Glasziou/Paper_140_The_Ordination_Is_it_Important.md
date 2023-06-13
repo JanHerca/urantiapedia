@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/No_Morality_No_Nothing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sin moralidad, nada</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Ordination_Sermon">
+          <span class="pr-2">El sermón de la ordenación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Hace unos días, estaba rebuscando en mi estantería y noté que mi antigua versión King James de la Biblia tenía un pequeño número de páginas que, debido al desgaste, sobresalían del resto. Al revisar, las maltratadas páginas comenzaban en el Evangelio de Mateo y avanzaban hasta el de Marcos. La primera de estas desgastadas páginas empezaba en Mateo 5, el Sermón de la Montaña.
 
@@ -103,3 +127,28 @@ Este comentario se encuentra justo después del sermón.
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_1/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/No_Morality_No_Nothing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sin moralidad, nada</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Ordination_Sermon">
+          <span class="pr-2">El sermón de la ordenación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

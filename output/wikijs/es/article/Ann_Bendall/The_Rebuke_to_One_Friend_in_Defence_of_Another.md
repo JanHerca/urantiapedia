@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ann Bendall<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Webb/On_Space_and_Nothing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre el espacio y la nada</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Aristotle_Fuzzy_Logic_and_The_Urantia_Book">
+          <span class="pr-2">Aristóteles, la lógica difusa y El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 A los trece años, y en su primer viaje a Jerusalén, Jesús y sus padres se detuvieron a descansar en los límites de un pueblecito llamado Betania. Allí Jesús conoció a Lázaro (de la misma edad), María (dos años menor) y Marta (un año mayor), quienes se convertirían en amigos para toda la vida ([LU 124:6.9](/es/The_Urantia_Book/124#p6_9)). Más tarde esa semana, sus padres le dieron permiso para pasar la noche del miércoles de la semana de la Pascua en la casa de sus nuevos amigos, y aquí se estableció el vínculo amoroso entre los cuatro cuando Lázaro, Marta y María «escucharon a Jesús disertar sobre las cosas temporales y eternas, humanas y divinas._» ([LU 125:2.7](/es/The_Urantia_Book/125#p2_7)).
 
@@ -47,3 +71,28 @@ Y en el mismo instante, y sobre el mismo conjunto de eventos, una amiga, María,
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_2/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Webb/On_Space_and_Nothing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre el espacio y la nada</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Aristotle_Fuzzy_Logic_and_The_Urantia_Book">
+          <span class="pr-2">Aristóteles, la lógica difusa y El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

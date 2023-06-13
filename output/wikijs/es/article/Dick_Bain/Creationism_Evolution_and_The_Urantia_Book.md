@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T05:28:50.812Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Dick Bain<br>© 2005 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/As_Jesus_Passed_By">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Al pasar Jesús»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Zircons_and_Earth_Moon_Relations">
+          <span class="pr-2">Zirconios y Relaciones Tierra-Luna</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La evolución ha sido la manzana de la discordia entre la ciencia y la religión desde que Darwin publicó su famoso *El origen de las especies* en 1859. Darwin debe haber tenido alguna idea de la tormenta que estaba a punto de desatar sobre el mundo, ya que retrasó la publicación por un número de años.
 
@@ -47,6 +71,31 @@ Creo que debido a que _El Libro de Urantia_ es amigable con la evolución, atrae
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_3/page3.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/As_Jesus_Passed_By">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Al pasar Jesús»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Zircons_and_Earth_Moon_Relations">
+          <span class="pr-2">Zirconios y Relaciones Tierra-Luna</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

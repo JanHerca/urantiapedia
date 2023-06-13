@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Way_Jesus_Taught">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La forma en que Jesús enseñó</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Earl_Jabay/God_playing_au_Jabay">
+          <span class="pr-2">Jugar a ser Dios “estilo Jabay”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Comenzando con el sermón de ordenación a sus apóstoles, y durante el resto de su carrera terrenal, Jesús alentó a sus posibles seguidores a elevar el estándar de amor implícito en la antigua invocación judía de amar a nuestro prójimo como a nosotros mismos. Jesús exigió a sus seguidores que manifestaran amor paternal.
 
@@ -28,3 +52,28 @@ Jesús elevó el estándar, en su nivel más bajo, al tipo de amor que se espera
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_4/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Way_Jesus_Taught">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La forma en que Jesús enseñó</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Earl_Jabay/God_playing_au_Jabay">
+          <span class="pr-2">Jugar a ser Dios “estilo Jabay”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T06:50:10.195Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_the_Philosophy_of_Philosophy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la filosofía de la filosofía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Universal_Spiritual_Religion">
+          <span class="pr-2">Religión espiritual universal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La creencia ha alcanzado el nivel de la fe cuando motiva la vida y configura el modo de vivir. La aceptación de una enseñanza como verdadera no es fe; eso es mera creencia. Ni la certeza ni la convicción son fe. Un estado mental alcanza los niveles de fe sólo cuando realmente domina el modo de vida. La fe es un atributo vivo de la genuina experiencia religiosa personal. Uno cree en la verdad, admira la belleza y reverencia la bondad, pero no las adora; tal actitud de fe salvadora se centra sólo en Dios, que es todo eso personificado e infinitamente más.
 
@@ -33,3 +57,28 @@ Sigue un «**asalto combinado**». (ver pág. 2)
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page6.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_the_Philosophy_of_Philosophy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la filosofía de la filosofía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Universal_Spiritual_Religion">
+          <span class="pr-2">Religión espiritual universal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

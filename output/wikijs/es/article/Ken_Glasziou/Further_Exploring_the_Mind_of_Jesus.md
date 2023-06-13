@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T07:02:53.956Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Spiritual_Communion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comunión Espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Agree_with_your_Adversary">
+          <span class="pr-2">“De acuerdo con tu adversario”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Vuestra misión en el mundo está basada en el hecho de que he vivido entre vosotros una vida revelando a Dios ... y esta misión consistirá en la vida que viviréis entre los hombres —en la experiencia real y viviente de amar y servir a los hombres como yo os he amado y servido. ([LU 191:5.3](/es/The_Urantia_Book/191#p5_3))
 
@@ -287,3 +311,28 @@ De hecho, incluso el pensamiento de que nuestras vidas son, o incluso deberían 
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_5/page3.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Spiritual_Communion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comunión Espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Agree_with_your_Adversary">
+          <span class="pr-2">“De acuerdo con tu adversario”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

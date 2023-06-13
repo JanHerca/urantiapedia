@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Mr_Hubble_and_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El señor Hubble y El Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Materialism_is_Dead_Ghosts_are_Becoming">
+          <span class="pr-2">El materialismo está muerto. Los fantasmas ya están ‘apareciendo’</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «Vuestra misión en el mundo está basada en el hecho de que he vivido entre vosotros una vida revelando a Dios, está basada en la verdad de que vosotros y todos los demás hombres sois los hijos de Dios; y esta misión consistirá en la vida que viviréis entre los hombres —en la experiencia real y viviente de amar y servir a los hombres como yo os he amado y servido». ([LU 191:5.3](/es/The_Urantia_Book/191#p5_3))
 
@@ -82,3 +106,28 @@ Gradualmente, la mayoría de nosotros aprenderá que el más importante de todos
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_3/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Mr_Hubble_and_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El señor Hubble y El Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Materialism_is_Dead_Ghosts_are_Becoming">
+          <span class="pr-2">El materialismo está muerto. Los fantasmas ya están ‘apareciendo’</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

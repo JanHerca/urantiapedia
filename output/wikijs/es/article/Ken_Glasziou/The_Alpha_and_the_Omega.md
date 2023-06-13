@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Time_for_More_Change_Symbols_Cults">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Tiempo para más cambios? Símbolos, cultos y _El libro de Urantia_</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Unbroken_Communion_with_our_Thought_Adjuster">
+          <span class="pr-2">Comunión ininterrumpida con nuestro Ajustador del Pensamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Resumido de «El camino menos transitado», por M. Scott Peck_
 
@@ -29,3 +53,27 @@ Adán y Eva buscaron el camino fácil: comer del fruto que les conferiría conoc
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_2/page4.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Time_for_More_Change_Symbols_Cults">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Tiempo para más cambios? Símbolos, cultos y _El libro de Urantia_</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Unbroken_Communion_with_our_Thought_Adjuster">
+          <span class="pr-2">Comunión ininterrumpida con nuestro Ajustador del Pensamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

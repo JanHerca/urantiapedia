@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rob_Crickett/Providing_Urantianite_Spiritual_Leadership">
+          <span class="pr-2">Proporcionar Liderazgo Espiritual Urantianita</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Varios escépticos han propuesto los nombres de varios autores individuales que creen que pueden haber sido los responsables de escribir _El Libro de Urantia_. Entre estas sugerencias se encuentran el Dr. W. Sadler, Wilfred Kellogg, Carl Jung, H.G. Wells y Robert Millikin. Primero leí el libro en respuesta a una solicitud de dar una opinión sobre las afirmaciones de sus autores por su estado revelador. Mi actitud inicial fue muy escéptica y mi primera reacción fue que debía haber sido escrito por un grupo de académicos bien intencionados en una misión para salvar el mundo.
 
@@ -51,3 +72,25 @@ No hay una buena razón por la que tales familiares, o asociados que aún viven,
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rob_Crickett/Providing_Urantianite_Spiritual_Leadership">
+          <span class="pr-2">Proporcionar Liderazgo Espiritual Urantianita</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

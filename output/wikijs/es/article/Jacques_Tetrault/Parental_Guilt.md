@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Jacques Tetrault<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Limitations_of_Revelation_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Limitaciones de la Revelación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sandy_Garrick/Divine_Music">
+          <span class="pr-2">Música divina</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Los padres que se sienten culpables (cualquiera que sea la razón, y muchas veces sin razón) son:
 - **Inseguros e inestables**
@@ -76,3 +100,28 @@ Dile SÍ a tu Padre celestial, la vida te dirá SÍ. Y tus hijos también estar�
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_2/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Limitations_of_Revelation_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Limitaciones de la Revelación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sandy_Garrick/Divine_Music">
+          <span class="pr-2">Música divina</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

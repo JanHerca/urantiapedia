@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Being_and_Doing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ser y Hacer</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Evolution_or_Revolution">
+          <span class="pr-2">¿Evolución o revolución?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Intentar vivir nuestra vida como Jesús vivió la suya mientras estamos en casa y entre los que mejor nos conocen puede ponernos cara a cara con problemas que ni siquiera sabíamos que teníamos. Dichos problemas se derivan de hábitos que comenzaron a desarrollarse en nuestra primera infancia y se mantienen de manera más o menos inconsciente, tanto que los ignoramos como un comportamiento normal.
 
@@ -70,6 +94,31 @@ Hace trescientos cincuenta años, los cuáqueros casi acertaron. Se perdieron cu
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_6/page5.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Being_and_Doing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ser y Hacer</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Evolution_or_Revolution">
+          <span class="pr-2">¿Evolución o revolución?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

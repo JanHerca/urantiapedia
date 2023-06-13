@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T14:51:02.524Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Ken Glasziou<br>© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Philosophy_of_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Filosofía de la religión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Is_The_Urantia_Books_Life_of_Jesus_Outdated">
+          <span class="pr-2">¿Está obsoleta la «vida de Jesús» del Libro de Urantia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Ken_Glasziou/The_Shroud_of_Turin/shroud_of_turin.jpg">
@@ -101,6 +125,31 @@ Hay una serie de posibles explicaciones para la debacle de la datación por carb
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_4/page9.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Philosophy_of_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Filosofía de la religión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Is_The_Urantia_Books_Life_of_Jesus_Outdated">
+          <span class="pr-2">¿Está obsoleta la «vida de Jesús» del Libro de Urantia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

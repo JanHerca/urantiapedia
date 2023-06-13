@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Materialistic_Determinism_Last_Rites">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Determinismo materialista: últimos ritos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Dawn_of_Creative_Imagination_The_Alter_Ego">
+          <span class="pr-2">El amanecer de la imaginación creativa: el alter ego</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _El Libro de Urantia_ fue entregado al mundo en un momento en que los conceptos de materialismo y un universo determinado estaban en la cúspide de su influencia. La impiedad que acompaña al materialismo puede haber alcanzado su punto máximo en el tercer cuarto de siglo y tal vez ahora esté en declive. Pero en la primera mitad de nuestro siglo, muchas de las mentes realmente grandes, como la de Albert Einstein, por ejemplo, creían firmemente en un universo determinado, basando esa creencia en la inmutabilidad de funcionamiento de las leyes universales de la física.
 
@@ -53,3 +77,28 @@ Nuestras citas de _El Libro de Urantia_ son bastante concluyentes acerca de los 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_5/page6.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Materialistic_Determinism_Last_Rites">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Determinismo materialista: últimos ritos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Dawn_of_Creative_Imagination_The_Alter_Ego">
+          <span class="pr-2">El amanecer de la imaginación creativa: el alter ego</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

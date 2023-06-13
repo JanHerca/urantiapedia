@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Learning_in_Phoenicia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Enseñanzas en Fenicia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Process_Theology_and_the_Urantia_Papers">
+          <span class="pr-2">La teología del proceso y los documentos de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En el momento de este incidente, los apóstoles y los evangelistas estaban recorriendo los pueblos y aldeas de Decápolis, un área al este del Jordán y el Mar de Galilea. Iban en pequeños grupos ya veces solos. Jesús estaba en un pueblo llamado Gamala, de donde el apóstol Juan había ido el día anterior para enseñar en el pueblo de Astarot.
 
@@ -45,3 +69,28 @@ Más tarde, Juan superó sus tendencias anteriores y finalmente se convirtió en
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_5/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Learning_in_Phoenicia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Enseñanzas en Fenicia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Process_Theology_and_the_Urantia_Papers">
+          <span class="pr-2">La teología del proceso y los documentos de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

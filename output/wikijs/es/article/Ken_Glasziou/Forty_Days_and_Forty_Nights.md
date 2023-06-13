@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sydney_Harris/What_I_Wish_I_Had_Known_at_Eighteen">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lo que me hubiera gustado saber a los dieciocho</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Notes_on_the_40_day_error">
+          <span class="pr-2">Notas sobre el error de cuarenta días</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Un artículo anterior de este número discutió el error extraño y bastante sorprendente en la Parte 4 de _El Libro de Urantia_ con respecto al uso de un intervalo de cuarenta días que transcurre entre el momento de la crucifixión de Jesús en la víspera de la Pascua judía y el momento de su ascensión en el día señalado para la fiesta de Pentecostés. Esta antigua fiesta judía de la cosecha llegaba siete semanas y un día después de la Pascua, un período de cincuenta días cuyo nombre deriva de la palabra griega «pentekostos», que significa cincuenta días.
 
@@ -85,3 +109,28 @@ Si vamos a preocuparnos por llevar a la humanidad de regreso a la Cuarta Revelac
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_4/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sydney_Harris/What_I_Wish_I_Had_Known_at_Eighteen">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lo que me hubiera gustado saber a los dieciocho</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Notes_on_the_40_day_error">
+          <span class="pr-2">Notas sobre el error de cuarenta días</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

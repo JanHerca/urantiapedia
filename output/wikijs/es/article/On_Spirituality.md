@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Errors_in_the_Science_of_the_Urantia_Papers">
+          <span class="pr-2">Errores en la ciencia de los documentos de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > La espiritualidad indica inmediatamente vuestra proximidad a Dios y la medida de vuestra utilidad para vuestros semejantes. La espiritualidad realza la aptitud para descubrir la belleza en las cosas, para reconocer la verdad en los significados y para descubrir la bondad en los valores. El desarrollo espiritual está determinado por la capacidad para llevarlo a cabo y es directamente proporcional a la eliminación de los elementos egoístas del amor.
 >
@@ -26,3 +47,25 @@ dateCreated: 2022-9-9T8:13:39Z
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_3/page2.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Errors_in_the_Science_of_the_Urantia_Papers">
+          <span class="pr-2">Errores en la ciencia de los documentos de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

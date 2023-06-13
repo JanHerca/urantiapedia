@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Forgiveness_Reconciliation_and_Reparation_the_Dilemma">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Perdón, reconciliación y reparación: ¿el dilema?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Peer_Group_Pressure">
+          <span class="pr-2">Sobre la presión del grupo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Por supuesto, siempre será importante para algunos, particularmente cuando son nuevos lectores. Pero una pequeña encuesta muestra que cuanto más tiempo un individuo ha estado leyendo este libro, también disminuye su necesidad intelectual de una declaración autoritaria sobre lo que uno debe o no debe creer.
 
@@ -41,3 +65,28 @@ Los fundamentalistas bíblicos se han burlado mucho de sí mismos y de la religi
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Forgiveness_Reconciliation_and_Reparation_the_Dilemma">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Perdón, reconciliación y reparación: ¿el dilema?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Peer_Group_Pressure">
+          <span class="pr-2">Sobre la presión del grupo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

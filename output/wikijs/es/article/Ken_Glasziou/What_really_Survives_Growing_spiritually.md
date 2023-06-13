@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Secrets_of_Jesus_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Secretos de la espiritualidad de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/How_Grows_the_Soul_By_Decision_making">
+          <span class="pr-2">¿Cómo crece el alma? Mediante la toma de decisiones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La espiritualidad se puede «sentir» dentro. No se puede definir. Qué es la espiritualidad, qué significa la espiritualidad, el valor o contenido espiritual de cualquier pensamiento, palabra o acción, todo esto debe crecer en nosotros a medida que consumimos y digerimos lo que se nos revela sobre la espiritualidad. La paciencia y la familiaridad con el contenido de los Documentos de Urantia son claves para comprender la espiritualidad.
 
@@ -83,3 +107,28 @@ En un artículo de la edición anterior de Innerface, exploramos citas de los Do
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_2/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Secrets_of_Jesus_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Secretos de la espiritualidad de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/How_Grows_the_Soul_By_Decision_making">
+          <span class="pr-2">¿Cómo crece el alma? Mediante la toma de decisiones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

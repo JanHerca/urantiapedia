@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Virtues_of_Uncertainty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las virtudes de la incertidumbre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Truth_and_the_Spirit_of_Truth">
+          <span class="pr-2">La verdad y el espíritu de la verdad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «El plan de supervivencia de los mortales tiene un objetivo práctico y útil; no sois los destinatarios de toda esta labor divina y de todo este esmerado entrenamiento sólo para que podáis sobrevivir y disfrutar de una felicidad sin fin y de un descanso eterno. Existe una meta de servicio trascendente oculta más allá del horizonte de la presente era del universo. Si los Dioses simplemente hubieran planeado llevaros a una larga excursión de alegría eterna, ciertamente no habrían transformado en tan gran medida todo el universo en una inmensa y compleja escuela de educación práctica... » ([LU 48:8.3](/es/The_Urantia_Book/48#p8_3))
 
@@ -56,3 +80,28 @@ Dada la devoción y el esfuerzo, muchas personas podrían ser conscientes de los
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_3/page5.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Virtues_of_Uncertainty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las virtudes de la incertidumbre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Truth_and_the_Spirit_of_Truth">
+          <span class="pr-2">La verdad y el espíritu de la verdad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

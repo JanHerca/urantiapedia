@@ -9,6 +9,30 @@ dateCreated: 2022-09-27T01:01:06.817Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Prophetic_materials_from_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Materiales proféticos de los Documentos de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Neutrinos_Neutrons_and_Neutron_Stars_2">
+          <span class="pr-2">Neutrinos, neutrones y estrellas de neutrones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Ken_Glasziou/What_fuels_our_Sun_and_other_Stars/Solar_prominence_2011-04-14T202956.120.jpg">
@@ -36,3 +60,28 @@ De hecho, el ciclo del carbono opera solo en estrellas grandes de alta temperatu
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page12.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Prophetic_materials_from_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Materiales proféticos de los Documentos de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Neutrinos_Neutrons_and_Neutron_Stars_2">
+          <span class="pr-2">Neutrinos, neutrones y estrellas de neutrones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

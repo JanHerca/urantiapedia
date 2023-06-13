@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Parable_of_a_Parrot">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Parábola de un loro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Music_Functions_and_Changes">
+          <span class="pr-2">Funciones de la música y cambio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Resumido de los documentos [160](/es/The_Urantia_Book/160) y [161](/es/The_Urantia_Book/161) de _El Libro de Urantia_.
 
@@ -49,3 +73,28 @@ La religión de Jesús trasciende todos nuestros conceptos anteriores de la idea
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_6/page6.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Parable_of_a_Parrot">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Parábola de un loro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Music_Functions_and_Changes">
+          <span class="pr-2">Funciones de la música y cambio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Who_will_come_to_Phoenicia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Quién vendrá a «Fenicia»?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Learning_in_Phoenicia">
+          <span class="pr-2">Enseñanzas en Fenicia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Habéis surgido de entre aquellos semejantes vuestros que han elegido permanecer satisfechos con una religión de la mente, que ansían la seguridad y prefieren el conformismo. Habéis elegido cambiar vuestros sentimientos de certidumbre autoritaria por las seguridades del espíritu de una fe aventurera y progresiva. Os habéis atrevido a protestar contra la esclavitud abrumadora de una religión institucional y a rechazar la autoridad de las tradiciones escritas actualmente consideradas como la palabra de Dios. Nuestro Padre habló en verdad a través de Moisés, Elías, Isaías, Amós y Oseas, pero no ha dejado de suministrar al mundo palabras de verdad cuando estos antiguos profetas terminaron sus proclamaciones. Mi Padre no hace acepción de razas ni de generaciones, en el sentido de que la palabra de la verdad sea otorgada a una época y ocultada a la siguiente. No cometáis la locura de llamar divino a lo que es puramente humano, y no dejéis de discernir las palabras de la verdad, aunque no provengan de los oráculos tradicionales de una supuesta inspiración.
 > 
@@ -41,3 +65,28 @@ dateCreated: 2022-9-9T8:13:39Z
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_5/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Who_will_come_to_Phoenicia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Quién vendrá a «Fenicia»?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Learning_in_Phoenicia">
+          <span class="pr-2">Enseñanzas en Fenicia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

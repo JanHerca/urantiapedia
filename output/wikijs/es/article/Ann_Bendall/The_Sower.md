@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ann Bendall<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Cross_as_a_Symbol">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La cruz como símbolo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Book_A_New_Presentation_of_Part_4">
+          <span class="pr-2">El Libro de Urantia: ¿una nueva presentación de la parte 4?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jesús optó por enseñar en parábolas, «_para que aquellos que desean entrar realmente en el reino puedan discernir el significado de la enseñanza y encontrar así la salvación, mientras que los que escuchan únicamente para atraparnos se quedarán aún más confundidos, en el sentido de que verán sin ver y oirán sin oír._» ([ UB 151:1.4](/es/The_Urantia_Book/151#p1_4))
 
@@ -25,3 +49,28 @@ Después de su explicación, Jesús agregó, «_lo último de la parábola del s
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page15.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Cross_as_a_Symbol">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La cruz como símbolo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Book_A_New_Presentation_of_Part_4">
+          <span class="pr-2">El Libro de Urantia: ¿una nueva presentación de la parte 4?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Dick Bain<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Instructions_from_a_Higher_Authority">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Instrucciones de una autoridad superior</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/More_on_Gardner_Goofs">
+          <span class="pr-2">Más pifias de Gardner</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En el [Documento 12](/es/The_Urantia_Book/12) de _El Libro de Urantia_, «El Universo de los Universos», el autor, un Perfeccionador de la Sabiduría, nos da algunas pistas sobre la estructura y el tamaño de nuestro universo. En otro lugar del libro, se nos informa que dicha información puede algún día quedar obsoleta a medida que avanzamos en nuestra comprensión del universo. [^1] ¿Está desactualizada esta información ahora, unos 64 años después de que nos la proporcionaron? ¿Han desacreditado los descubrimientos de nuestros astrónomos el tamaño del universo visible dado en _El Libro de Urantia_?
 
@@ -70,6 +94,31 @@ Esta especulación sobre el tamaño del universo es un paso necesario para obser
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_6/page11.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Instructions_from_a_Higher_Authority">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Instrucciones de una autoridad superior</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/More_on_Gardner_Goofs">
+          <span class="pr-2">Más pifias de Gardner</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Contacting_God_What_can_we_expect">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Contactar a Dios: ¿qué podemos esperar?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «La meta de la autorrealización humana debería ser espiritual, no material. Las únicas realidades por las que vale la pena luchar son divinas, espirituales y eternas». ([LU 100:2.6](/es/The_Urantia_Book/100#p2_6))
 
@@ -48,3 +69,25 @@ Pero a nivel consciente de eliminar el egoísmo de nuestra naturaleza, la tarea 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_6/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Contacting_God_What_can_we_expect">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Contactar a Dios: ¿qué podemos esperar?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

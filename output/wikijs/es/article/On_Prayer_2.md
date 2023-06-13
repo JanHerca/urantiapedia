@@ -9,6 +9,27 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Brotherhood">
+          <span class="pr-2">Hermandad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > La oración es una expresión de la mente finita en su esfuerzo por acercarse al Infinito. Por consiguiente, la formulación de una oración está necesariamente limitada por el conocimiento, la sabiduría y los atributos de lo finito; del mismo modo, la respuesta ha de estar condicionada por la visión, los objetivos, los ideales y las prerrogativas del Infinito.
 > 
@@ -31,3 +52,24 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_3/page2.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Brotherhood">
+          <span class="pr-2">Hermandad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

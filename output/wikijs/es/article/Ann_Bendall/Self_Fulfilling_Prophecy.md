@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ann Bendall<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Midrash">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Midrash</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Darryl_Reanney/The_Death_of_Forever_A_new_future_for_human_consciousness">
+          <span class="pr-2">La muerte de la eternidad: un nuevo futuro para la conciencia humana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Lo que creemos, sucederá, ¡simplemente porque somos creadores! Si creo que los demás no me aceptarán, existe una gran posibilidad de que no seré aceptado simplemente porque me acercaré a estos otros de manera cerrada y autoprotectora. Mi temor de ser rechazado proporciona un entorno en el que las posibilidades de rechazo han aumentado proporcionalmente. Incluso puedo ir tan lejos como para convencerme de que esa persona ni siquiera vale la pena asociarse con ella. Si bien reconocen que es muy posible que sean hermanos/hermanas en espíritu (quizás con reservas al respecto), son decididamente no-hermanos/hermanas en este plano de existencia. En otras palabras, adopto la estrategia de entrar primero, rechazando anticipando el rechazo.
 
@@ -42,3 +66,28 @@ Los psicólogos sociales Snyder, Tanke y Berscheid (1977) llevaron a cabo un exp
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_3/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Midrash">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Midrash</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Darryl_Reanney/The_Death_of_Forever_A_new_future_for_human_consciousness">
+          <span class="pr-2">La muerte de la eternidad: un nuevo futuro para la conciencia humana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

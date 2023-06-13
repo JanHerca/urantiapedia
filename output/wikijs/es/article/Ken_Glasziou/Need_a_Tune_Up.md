@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Journey_to_the_Stars">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un viaje a las estrellas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Out_of_Context_Means_Ends_Motives_and_Morality">
+          <span class="pr-2">Fuera de contexto: medios, fines, motivos y moralidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ¿Qué podemos hacer para hacer realidad el verdadero poder de una vida espiritual que está perfectamente en sintonía con la voluntad de Dios para nosotros? Jesús dijo: «En el antiguo camino, intentáis suprimir, obedecer y conformaros a unas reglas de vida... » ([LU 143:2.4](/es/The_Urantia_Book/143#p2_4)) Luego describió una nueva forma:
 
@@ -30,3 +54,28 @@ Probablemente no haya mejor manera que esta para nosotros, los urantianos, de lo
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_3/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Journey_to_the_Stars">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un viaje a las estrellas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Out_of_Context_Means_Ends_Motives_and_Morality">
+          <span class="pr-2">Fuera de contexto: medios, fines, motivos y moralidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

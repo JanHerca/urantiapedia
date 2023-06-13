@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Adoración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Christianitys_challenge">
+          <span class="pr-2">El desafío del cristianismo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ¡Qué trascendente servicio si, a través de esta revelación, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional y fuera presentado como el Jesús vivo a la iglesia que lleva su nombre, ya todas las demás religiones! Seguramente la comunidad cristiana de creyentes no dudará en hacer tales ajustes de fe y de prácticas de vida que le permitan «seguir» al Maestro en la demostración de su vida real de devoción religiosa para hacer la voluntad de su Padre y de consagración al servicio desinteresado del hombre.
 
@@ -37,3 +61,27 @@ El cristianismo ciertamente ha hecho un gran servicio a este mundo, pero ahora l
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page14.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Adoración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Christianitys_challenge">
+          <span class="pr-2">El desafío del cristianismo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

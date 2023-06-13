@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 William Trimble<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Infinity_Finity_Transform">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La transformación finito-infinito</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Transmutation_of_Existential">
+          <span class="pr-2">La transmutación de las potencialidades y realidades existenciales al nivel finito de realidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 - Estar en el mundo es sentirse incompleto.
 - La finalización tendrá lugar en una fecha futura desconocida.
@@ -41,3 +65,28 @@ Cuando despertemos de nuestro sueño terrenal, tendremos un cuerpo nuevo y más 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_2/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Infinity_Finity_Transform">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La transformación finito-infinito</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Transmutation_of_Existential">
+          <span class="pr-2">La transmutación de las potencialidades y realidades existenciales al nivel finito de realidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

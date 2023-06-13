@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Alpheus_Twins">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los gemelos Alfeo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Pity_my_Simplicity">
+          <span class="pr-2">«Lástima de mi simplicidad»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La información en los Documentos que se relaciona directamente con esta pregunta está dispersa a lo largo del texto de sus páginas. Extraordinariamente, el mandato que define las "reglas universales" de la revelación no se describe hasta la mitad de los Documentos, y las explicaciones de los autores sobre el uso de fuentes humanas se dividen entre casi el comienzo y dos tercios del camino. Estas importantes referencias seguramente deberían haber estado en un prefacio o en una introducción.
 
@@ -235,3 +259,28 @@ flowchart TD
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_1/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Alpheus_Twins">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los gemelos Alfeo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Pity_my_Simplicity">
+          <span class="pr-2">«Lástima de mi simplicidad»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

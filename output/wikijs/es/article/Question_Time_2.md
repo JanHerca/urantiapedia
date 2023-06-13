@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/As_Jesus_Passed_By">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Al pasar Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Virtues_of_Uncertainty">
+          <span class="pr-2">Las virtudes de la incertidumbre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Hágase esta pregunta, reflexionando detenidamente antes de responder:
 
@@ -33,3 +57,28 @@ Cualquiera que sea tu respuesta, nunca olvides que realmente estás habitado por
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_3/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/As_Jesus_Passed_By">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Al pasar Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Virtues_of_Uncertainty">
+          <span class="pr-2">Las virtudes de la incertidumbre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

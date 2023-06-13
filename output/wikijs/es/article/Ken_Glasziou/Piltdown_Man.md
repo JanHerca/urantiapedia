@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/100_stable_elements">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">100 elementos estables</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Prophesy">
+          <span class="pr-2">Sobre la «profecía»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Un tema muy actual de interés público y científico en la década de 1930 fue el concepto de "eslabón perdido", la evidencia fósil que vincularía indiscutiblemente la evolución humana con la de nuestros "primos", la familia de los simios.
 
@@ -23,3 +47,28 @@ En _A Scientific Forgery_ (1990), que no estuvo disponible para nosotros para nu
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page22.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/100_stable_elements">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">100 elementos estables</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Prophesy">
+          <span class="pr-2">Sobre la «profecía»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

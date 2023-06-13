@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Sandy Garrick<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jacques_Tetrault/Parental_Guilt">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Culpa de los padres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Webb/On_Space_and_Nothing">
+          <span class="pr-2">Sobre el espacio y la nada</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Mi principal punto de insatisfacción sobre el origen de los documentos de Urantia siempre ha sido la ausencia de un músico de buena fe en el primer panel del Foro que el Dr. Sadler reunió en su casa de Chicago para traernos este magnífico documento sobre la magnitud de la realidad cósmica de Dios.
 
@@ -43,3 +67,28 @@ Cuando nos asombramos ante el Universo Maestro, debemos hacer una pausa para con
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_2/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jacques_Tetrault/Parental_Guilt">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Culpa de los padres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Webb/On_Space_and_Nothing">
+          <span class="pr-2">Sobre el espacio y la nada</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

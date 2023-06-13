@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T01:19:50.367Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Further_Exploring_the_Mind_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Explorando aún más la mente de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Christianity_and_Archaeology_An_Update">
+          <span class="pr-2">Cristianismo y arqueología: una actualización</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Este consejo del Sermón de la Montaña está calificado por el mandato de hacerlo rápidamente mientras todavía está en comunicación con su adversario. Le sigue un conjunto completo de mandatos en su mayoría positivos:
 
@@ -54,3 +78,28 @@ Si alguna vez queremos que nuestras fuerzas espirituales residentes se hagan car
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_5/page9.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Further_Exploring_the_Mind_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Explorando aún más la mente de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Christianity_and_Archaeology_An_Update">
+          <span class="pr-2">Cristianismo y arqueología: una actualización</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

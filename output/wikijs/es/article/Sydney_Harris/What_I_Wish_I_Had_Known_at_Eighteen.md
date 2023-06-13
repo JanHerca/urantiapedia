@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Sydney Harris<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/All_Our_Cosmologies_Are_Erroneous">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡¡Todas nuestras Cosmologías son Erróneas!!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Forty_Days_and_Forty_Nights">
+          <span class="pr-2">Cuarenta días y cuarenta noches</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 - Que cada día marca una bifurcación en el camino, de alguna manera; y que para cuando llega la gran bifurcación, ya hemos tomado tantas pequeñas decisiones que no nos queda otra opción real en el giro crucial.
 - Que es más fácil sentir que pensar, y más fácil sentir odio que sentir amor, y más fácil actuar sobre el odio que actuar sobre el amor, y debemos resistir el camino más fácil cada centímetro del camino todos los días de nuestras vidas. .
@@ -29,3 +53,28 @@ dateCreated: 2022-9-9T8:13:39Z
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_4/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/All_Our_Cosmologies_Are_Erroneous">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡¡Todas nuestras Cosmologías son Erróneas!!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Forty_Days_and_Forty_Nights">
+          <span class="pr-2">Cuarenta días y cuarenta noches</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

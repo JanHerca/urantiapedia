@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Intolerance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Intolerancia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/More_on_the_gospel_of_the_kingdom">
+          <span class="pr-2">Más sobre el Evangelio del Reino</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Durante mucho tiempo ha habido un grupo de lectores del Libro de Urantia que han reflexionado sobre el problema de por qué el libro se ha escrito de una manera tan extraña.
 
@@ -101,3 +125,28 @@ Entonces, ¿qué es lo que se debe proclamar? Estos son algunos de sus component
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_5/page12.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Intolerance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Intolerancia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/More_on_the_gospel_of_the_kingdom">
+          <span class="pr-2">Más sobre el Evangelio del Reino</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

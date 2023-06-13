@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Dick Bain<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Without_or_Within">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fuera o dentro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Dick_Bain/Black_Holes_Re_visited/noao-03036.jpg">
@@ -34,6 +55,28 @@ Tal vez tengamos que esperar hasta llegar a los mundos de las mansiones para obt
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_5/page15.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Without_or_Within">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fuera o dentro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

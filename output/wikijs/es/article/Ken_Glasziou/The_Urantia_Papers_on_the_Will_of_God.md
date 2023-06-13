@@ -9,6 +9,30 @@ dateCreated: 2022-09-27T00:17:26.999Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Big_Bang_On_or_Off">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Big Bang, ¿encendido o apagado?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/All_Urantia_is_Waiting_Upon_Whom_For_What">
+          <span class="pr-2">Toda Urantia está esperando. ¿A quién? ¿Para qué?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En los universos, Dios el Padre es, en potencia, el supercontrolador de la materia, la mente y el espíritu. Sólo por medio de su extenso circuito de personalidad trata Dios directamente con las personalidades de su vasta creación de criaturas volitivas, pero es contactable (fuera del Paraíso) sólo en la presencia de sus entidades fragmentadas, la voluntad de Dios en el exterior en el universos.
 
@@ -46,3 +70,28 @@ El Jesús humano vio a Dios como santo, justo y grande, así como verdadero, her
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_3/page10.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Big_Bang_On_or_Off">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Big Bang, ¿encendido o apagado?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/All_Urantia_is_Waiting_Upon_Whom_For_What">
+          <span class="pr-2">Toda Urantia está esperando. ¿A quién? ¿Para qué?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

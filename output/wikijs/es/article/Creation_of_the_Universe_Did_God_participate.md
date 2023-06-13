@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T04:57:00.996Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Can_Universes_and_Life_Self_generate_from_Nothingness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Pueden los Universos y la Vida Autogenerarse a partir de la Nada?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Communing_with_God_from_the_Urantia_Revelation">
+          <span class="pr-2">Comunión con Dios: de la Revelación de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Las curiosidades de la teoría cuántica (ver Innerface vol. 11, No. 5) tienen a muchos de nuestros físicos en un titubeo no materialista. Al tratar de dar sentido a sus propios resultados experimentales bastante extraordinarios y bastante brillantes, han propuesto explicaciones aparentemente escandalosas.
 
@@ -86,6 +110,31 @@ Nosotros, los humanos terrestres, tenemos una larga historia de atribuir a Dios 
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_1/page11.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Can_Universes_and_Life_Self_generate_from_Nothingness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Pueden los Universos y la Vida Autogenerarse a partir de la Nada?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Communing_with_God_from_the_Urantia_Revelation">
+          <span class="pr-2">Comunión con Dios: de la Revelación de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

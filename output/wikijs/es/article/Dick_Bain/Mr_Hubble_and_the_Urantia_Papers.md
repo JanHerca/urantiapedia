@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Dick Bain<br>© 2001 The Brotherhood of Man Library<br>© 2020 Jan Herca, adición de notas y citas</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Are_You_a_Truth_Seeker">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Eres un buscador de la verdad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/What_Was_Jesus_Like">
+          <span class="pr-2">¿Cómo era Jesús?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Maldita sea Henrietta Leavitt. Si no hubiera sido por ella, Edwin Hubble no habría descubierto nunca que el universo está separándose debido a un hecho que sería conocido después como el «Big Bang». La señora Leavitt, mientras estudiaba las estrellas variables Cefeidas de la Pequeña Nube de Magallanes en 1912, descubrió que la luminosidad o brillo de estas estrellas variables está directamente relacionada con el tiempo requerido para que la estrella cambie del máximo al mínimo brillo o luminosidad. Es desafortunado que esta brillante mujer astrónoma no haya recibido más crédito por su trabajo.
 
@@ -80,6 +104,31 @@ Me parece que los autores han creado un misterio para nosotros intencionadamente
 * «La controvertida Constante de Hubble», publicación de la NASA, sep. 2017. https://ciencia.nasa.gov/la-controvertida-constante-de-hubble
 
 * Francisco R. Villatoro, «El problema de la constante de Hubble», junio 2017.  https://francis.naukas.com/2017/06/12/el-problema-de-la-constante-de-hubble/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Are_You_a_Truth_Seeker">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Eres un buscador de la verdad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/What_Was_Jesus_Like">
+          <span class="pr-2">¿Cómo era Jesús?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

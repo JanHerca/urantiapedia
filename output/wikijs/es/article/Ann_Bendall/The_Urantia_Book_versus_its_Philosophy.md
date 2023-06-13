@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ann Bendall<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stefan_Tallqvist/Radius_of_the_Electron">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Radio del electrón</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Cest_Important">
+          <span class="pr-2">¡C'est Important!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Pedro y los apóstoles, ardiendo con el Espíritu de la Verdad, fueron directamente en contra de la petición/exigencia/mandato de Jesús de enseñar el evangelio del reino en lugar de enseñar su vida, y así crearon una religión acerca de Jesús en lugar de la religión de Jesús. —convirtiendo instantáneamente una religión basada en la revelación en una basada en la evolución. Por lo tanto, «_el reino tal como Jesús lo concibió ha fracasado en gran medida en la tierra_» ([LU 170:5.21](/es/The_Urantia_Book/170#p5_21))
 
@@ -42,3 +66,28 @@ Como actualmente veo el futuro de Urantia a la luz de la lectura de _El Libro de
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page14.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stefan_Tallqvist/Radius_of_the_Electron">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Radio del electrón</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Cest_Important">
+          <span class="pr-2">¡C'est Important!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

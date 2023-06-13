@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Paul_Jaworski/Whats_at_the_Center_of_the_Earth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflejos cósmicos. ¿Qué hay en el centro de la Tierra?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Antigravity_is_Back">
+          <span class="pr-2">¡La antigravedad está de vuelta!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La mayoría de las partículas básicas de la física subatómica tienen al menos dos modos de giro. Mirando en su dirección de viaje, el giro de una partícula puede ser hacia la izquierda o hacia la derecha. La excepción son los neutrinos, las diminutas partículas desprovistas de potencial eléctrico a las que se hace referencia en los Documentos de Urantia que escapan de una estrella que colapsa ([LU 41:8.3](/es/The_Urantia_Book/41#p8_3)). Los neutrinos giran solo hacia la izquierda, y nadie sabe por qué es así.
 
@@ -32,3 +56,27 @@ Si es o no posible explicar nuestro universo completamente desde dentro del sist
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_4/page15.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Paul_Jaworski/Whats_at_the_Center_of_the_Earth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflejos cósmicos. ¿Qué hay en el centro de la Tierra?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Antigravity_is_Back">
+          <span class="pr-2">¡La antigravedad está de vuelta!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

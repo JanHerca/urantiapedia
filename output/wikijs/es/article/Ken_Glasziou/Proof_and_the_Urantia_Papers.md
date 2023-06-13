@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/At_Caesarea_Philippi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En Cesarea de Filipo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Problem_Solving">
+          <span class="pr-2">Solucionar problemas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Desde que a Euclides se le ocurrió la idea de un conjunto de axiomas mediante los cuales pudiera probar las verdades de su geometría, los primeros filósofos, seguidos por el resto de nosotros, han estado buscando un medio de aplicar alguna forma de sistema axiomático mediante el cual, en combinación con la lógica deductiva, las hipótesis en otros campos del conocimiento podrían ser absolutamente probadas. Si esto fuera posible, la esperanza era que, únicamente a través de nuestro propio poder de razonamiento, nosotros, simples humanos, estaríamos capacitados para generar todas las verdades posibles.
 
@@ -66,3 +90,28 @@ La primera oración de la declaración del Documento de Urantia tiene el sello d
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_4/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/At_Caesarea_Philippi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En Cesarea de Filipo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Problem_Solving">
+          <span class="pr-2">Solucionar problemas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Transmutation_of_Existential">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La transmutación de las potencialidades y realidades existenciales al nivel finito de realidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Appearance_at_Sychar">
+          <span class="pr-2">La aparición en Sicar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La cruz muestra para siempre que la actitud de Jesús hacia los pecadores no fue ni de condena ni de condonación, sino de salvación eterna y amorosa. Jesús es verdaderamente un salvador en el sentido de que su vida y muerte ganan a los hombres para la bondad y la supervivencia justa. Jesús ama tanto a los hombres que su amor despierta la respuesta del amor en el corazón humano. El amor es verdaderamente contagioso y eternamente creativo. La muerte de Jesús en la cruz ejemplifica un amor que es lo suficientemente fuerte y divino para perdonar el pecado y absorber toda maldad. Jesús reveló a este mundo una cualidad más alta de rectitud que de justicia: meramente técnicamente correcto e incorrecto.
 
@@ -41,3 +65,28 @@ La cruz hace un llamamiento supremo a lo mejor del hombre porque revela a alguie
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_2/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Transmutation_of_Existential">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La transmutación de las potencialidades y realidades existenciales al nivel finito de realidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Appearance_at_Sychar">
+          <span class="pr-2">La aparición en Sicar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

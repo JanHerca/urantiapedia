@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Lets_Make_and_Keep_it_Simple">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hagámoslo y mantengámoslo simple</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Origin_of_Life_on_Urantia">
+          <span class="pr-2">El origen de la vida en Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 De la parábola de los talentos: El siervo que había recibido un solo talento se adelantó y dijo a su señor: “...tenía miedo de arriesgar algo de lo que se me había confiado. Escondí tu talento en un lugar seguro en la tierra; aquí está; ahora tienes lo que es tuyo”. ([UB 176:3.4](/es/El_Libro_de_Urantia/176#p3_4))
 
@@ -35,3 +59,27 @@ Cualquiera que piense en términos de “difundir el mensaje” entregando el te
 ## Enlaces externos
 
 - Artículo en Innerface International: https://archive.urantiabook.org/archive/newsletters/innerface/vol6_2/page7.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Lets_Make_and_Keep_it_Simple">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hagámoslo y mantengámoslo simple</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Origin_of_Life_on_Urantia">
+          <span class="pr-2">El origen de la vida en Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

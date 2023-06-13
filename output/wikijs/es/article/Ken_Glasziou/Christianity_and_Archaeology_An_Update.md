@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T04:35:20.588Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Agree_with_your_Adversary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“De acuerdo con tu adversario”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Religion_of_the_Spirit_what_could_it_mean">
+          <span class="pr-2">La religión del Espíritu: ¿qué podría significar?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Lo que sigue es una crítica por correo electrónico de un ministro ordenado de la Iglesia Anglicana en Australia (en adelante llamado **AA**) de un trabajo publicado recientemente por un obispo electo de la Iglesia Anglicana en Inglaterra (en adelante llamado **AB** ). La arqueología en la que se basa la crítica se deriva de académicos israelíes que, después de la guerra de 1967, buscaron verificar la evidencia bíblica que respalda las adquisiciones territoriales de Israel.
 
@@ -111,3 +135,28 @@ Y quizás finalmente:_ «Cuando los hombres vean que los aman tanto y cuán ferv
 
 - Artículo en Innerface International: ttps://urantia-book.org/archive/newsletters/innerface/vol10_5/page10.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Agree_with_your_Adversary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“De acuerdo con tu adversario”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Religion_of_the_Spirit_what_could_it_mean">
+          <span class="pr-2">La religión del Espíritu: ¿qué podría significar?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

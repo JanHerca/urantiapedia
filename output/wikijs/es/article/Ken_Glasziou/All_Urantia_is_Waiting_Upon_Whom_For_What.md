@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T01:27:35.398Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Papers_on_the_Will_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los Documentos de Urantia sobre la voluntad de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/What_can_one_believe">
+          <span class="pr-2">¿Qué se puede creer?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «Toda Urantia está esperando la proclamación del mensaje ennoblecedor de Miguel, sin las trabas de las doctrinas y los dogmas acumulados durante diecinueve siglos de contacto con las religiones de origen evolutivo. Ha llegado la hora de presentar al budismo, al cristianismo, al hinduismo, e incluso a los pueblos de todas las religiones, no el evangelio acerca de Jesús, sino la realidad viviente y espiritual del evangelio de Jesús». ([LU 94:12.7](/es/The_Urantia_Book/94#p12_7))
 
@@ -68,3 +92,28 @@ Hay muchos versículos en el Nuevo Testamento que hablan de la morada de Dios. S
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_3/page11.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Papers_on_the_Will_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los Documentos de Urantia sobre la voluntad de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/What_can_one_believe">
+          <span class="pr-2">¿Qué se puede creer?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

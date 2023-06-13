@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Red_Alert">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Alerta roja</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Rodan_on_Prejudice_and_Goals">
+          <span class="pr-2">Rodán, sobre los prejuicios y las metas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Muchos lectores que conocieron a John Hyde personalmente oa través de correspondencia y correo electrónico se habrán sentido desconcertados y consternados ante la noticia de su muerte. Pero aquellos que estaban al tanto de los muchos 'demonios' que acecharon a John durante su vida anterior tal vez supongan que esos demonios sacaron lo mejor de él en un momento en que fue tomado por sorpresa.
 
@@ -56,3 +80,28 @@ Tal vez Rodan tenía una respuesta.
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_3/page6.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Red_Alert">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Alerta roja</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Rodan_on_Prejudice_and_Goals">
+          <span class="pr-2">Rodán, sobre los prejuicios y las metas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

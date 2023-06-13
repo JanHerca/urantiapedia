@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Dick Bain<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Kingdom_Commentary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un comentario del Reino</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Cooking_up_a_Universe">
+          <span class="pr-2">Cocinando un Universo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Una de las tareas a las que se enfrentan muchas personas de la comunidad de Urantia en un momento u otro es enseñar a un individuo oa un grupo sobre _El Libro de Urantia_. A veces podemos sentirnos inadecuados para la tarea, pero tenemos una excelente guía disponible. Aunque Jesús vivió en una cultura que era muy diferente a la nuestra, y aunque no somos seres de naturaleza dual como Jesús, podemos aprender de sus métodos de enseñanza. Nuestra cultura puede diferir de la suya, pero la naturaleza humana es la misma hoy que hace 2000 años. Los métodos de enseñanza de Jesús deberían ser tan efectivos hoy como lo fueron cuando caminó por la tierra. Los estudiantes de _El Libro de Urantia_ tenemos el privilegio de poseer un relato detallado de la vida y las enseñanzas de Jesús.
 
@@ -57,3 +81,28 @@ Los autores de _El Libro de Urantia_ nos informan que hubo varias buenas razones
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Kingdom_Commentary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un comentario del Reino</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Cooking_up_a_Universe">
+          <span class="pr-2">Cocinando un Universo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

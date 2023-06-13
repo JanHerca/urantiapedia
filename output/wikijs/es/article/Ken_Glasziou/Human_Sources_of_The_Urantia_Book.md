@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Learning_About_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aprendiendo acerca de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En nuestra edición anterior, discutimos un artículo escrito por el Dr. G. Gamow en 1942 titulado _Neutrinos VS Supernovae_ que fue publicado en la edición de enero de ese año de la revista _The Scientific Monthly_. Este artículo había sido identificado por Matthew Block como una de las fuentes de declaraciones en _El Libro de Urantia_ sobre el colapso de las estrellas envejecidas. También se mencionó un documento suprimido durante mucho tiempo en el que el Dr. Sadler señaló que se habían hecho adiciones y alteraciones a los Documentos de Urantia durante el período de 1935 a 1942.
 
@@ -67,3 +88,25 @@ Como punto de interés, el «mesotrón» de Yukawa, el que se describe en _El Li
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_3/page16.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Learning_About_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aprendiendo acerca de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Ken Glasziou<br>© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Personality_of_the_Universal_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la personalidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Truth">
+          <span class="pr-2">Sobre la verdad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Si la revelación ha de exaltar y mejorar las religiones de la evolución, entonces tales visitas divinas deben presentar enseñanzas que no estén demasiado alejadas del pensamiento y las reacciones de la era en la que se presentan. Por lo tanto, la revelación debe y se mantiene siempre en contacto con la evolución. La religión de la revelación debe estar siempre limitada por la capacidad de receptividad del hombre.
 
@@ -39,3 +63,27 @@ Pero el mayor error de la enseñanza sobre las Escrituras es la doctrina de que 
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page10.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Personality_of_the_Universal_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la personalidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Truth">
+          <span class="pr-2">Sobre la verdad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

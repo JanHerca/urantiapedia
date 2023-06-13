@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">Author unknown.<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Colliding_Black_Holes_and_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La colisión de agujeros negros y los documentos de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Taking_the_Spiritual_Path">
+          <span class="pr-2">Tomando el Camino Espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La próxima vez que vea gansos volando en su característica formación en «V», considere lo que la ciencia ha descubierto acerca de por qué hacen lo que hacen.
 
@@ -29,3 +53,28 @@ Compartir la carga y turnarse para hacer el trabajo duro tiene sentido, ya sean 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_1/page5.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Colliding_Black_Holes_and_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La colisión de agujeros negros y los documentos de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Taking_the_Spiritual_Path">
+          <span class="pr-2">Tomando el Camino Espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

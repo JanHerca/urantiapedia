@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Monster_dinosaurs_in_Australia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dinosaurios monstruosos en Australia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/100_stable_elements">
+          <span class="pr-2">100 elementos estables</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Los documentos dicen que los ancestros de los canguros vagaban por Australia hace 45 millones de años y que hace 35 millones de años había un puente terrestre que reconectaba Australia, la Antártida y América del Sur.
 
@@ -23,3 +47,28 @@ Por lo tanto, la declaración sobre la migración marsupial y los continentes a 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page20.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Monster_dinosaurs_in_Australia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dinosaurios monstruosos en Australia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/100_stable_elements">
+          <span class="pr-2">100 elementos estables</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

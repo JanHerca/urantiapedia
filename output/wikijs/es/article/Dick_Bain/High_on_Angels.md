@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Dick Bain<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Jealousy_the_Heart_Poison_How_did_Jesus_deal_with_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡Los celos, el veneno del corazón! ¿Cómo lo enfrentó Jesús?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Second_Great_Commandment">
+          <span class="pr-2">El Segundo Gran Mandamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ¿Creo en los ángeles? Bueno, sí; pero ¿por qué soy tan reacio a decirlo? ¿Será que los ángeles son un poco como Campanilla? ¿Porque tienen alas y hacen cosas mágicas? O tal vez no sea respetable creer en seres tan mágicos. ¿Los ángeles han tenido mala prensa?
 
@@ -53,6 +77,31 @@ A pesar de una naturaleza lógicamente escéptica, posiblemente debido a mi form
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_3/page13.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Jealousy_the_Heart_Poison_How_did_Jesus_deal_with_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡Los celos, el veneno del corazón! ¿Cómo lo enfrentó Jesús?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Second_Great_Commandment">
+          <span class="pr-2">El Segundo Gran Mandamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

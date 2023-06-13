@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Stephen Finlan<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Bethsaida_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Betsaida y El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Surfing_the_Sunbeams_Calcium_Wanderer_Space">
+          <span class="pr-2">Haciendo surf por los rayos de sol. El calcio, el errante del espacio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La ubicación de la Betsaida bíblica ha sido un problema controvertido de la erudición bíblica durante casi doscientos años, y un problema en la historia de la peregrinación cristiana desde al menos el siglo VI.
 
@@ -154,6 +178,31 @@ El otro lugar de peregrinaje en Tabgha es la «Iglesia de la Primacía», refiri
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_3/page10.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Bethsaida_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Betsaida y El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Surfing_the_Sunbeams_Calcium_Wanderer_Space">
+          <span class="pr-2">Haciendo surf por los rayos de sol. El calcio, el errante del espacio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

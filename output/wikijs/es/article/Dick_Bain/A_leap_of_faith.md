@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Dick Bain<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Tarichea">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tariquea</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Those_Christians">
+          <span class="pr-2">Esos cristianos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ¿Cómo fue que a la madura edad de 16 años me encontré debatiéndome sobre la existencia de Dios? Tal vez porque nadie trató de adoctrinarme con su teología, gracias a Dios. Pero ocasionalmente tuve algún incentivo (léase crisis) que me motivó a buscar ayuda de un poder superior. Se me ocurrió en una de estas ocasiones que no estaba seguro de creer en tal ser. ¿Cómo podría rezarle a alguien en quien no creía? Después de un largo diálogo interno, decidí que era más lógico (y mucho más reconfortante) creer en un universo creado que en un universo que siempre existió. Por lo tanto, existió un creador. Sí, tuve que justificar mi decisión con una lógica débil, sin embargo, fue para mí un acto de fe.
 
@@ -48,3 +72,28 @@ Mi viaje con _El Libro de Urantia_ comenzó con curiosidad, pasó de un salto de
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_6/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Tarichea">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tariquea</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Those_Christians">
+          <span class="pr-2">Esos cristianos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

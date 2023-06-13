@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Georgina Merrill<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stefan_Tallqvist/Ancient_Cyprus_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El antiguo Chipre y El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Why_Did_Jesus_come_to_Urantia">
+          <span class="pr-2">¿Por qué vino Jesús a Urantia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 No hace mucho tiempo, yo (un Mensajero Solitario) estuve presente en Salvington y escuché a un guardián del destino presentar una declaración formal para atenuar las dificultades de ministrar a su súbdito mortal. Este serafín dijo:
 
@@ -41,3 +65,28 @@ Entonces me vino otro pensamiento a pesar de que todavía estaba llorando, todav
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_4/page5.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stefan_Tallqvist/Ancient_Cyprus_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El antiguo Chipre y El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Why_Did_Jesus_come_to_Urantia">
+          <span class="pr-2">¿Por qué vino Jesús a Urantia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

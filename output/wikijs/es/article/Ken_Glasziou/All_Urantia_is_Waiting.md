@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:12:18Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Journey_to_the_Stars">
+          <span class="pr-2">Un viaje a las estrellas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «Toda Urantia está esperando la proclamación del mensaje ennoblecedor de Miguel, sin las trabas de las doctrinas y los dogmas acumulados durante diecinueve siglos de contacto con las religiones de origen evolutivo. Ha llegado la hora de presentar al budismo, al cristianismo, al hinduismo, e incluso a los pueblos de todas las religiones, no el evangelio acerca de Jesús, sino la realidad viviente y espiritual del evangelio de Jesús.». ([LU 94:12.7](/es/The_Urantia_Book/94#p12_7))
 
@@ -55,3 +76,25 @@ El libro nos informa que Jesús es el mejor modelo que tenemos de la semejanza a
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_3/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Journey_to_the_Stars">
+          <span class="pr-2">Un viaje a las estrellas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

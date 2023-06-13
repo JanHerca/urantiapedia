@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Communication_with_our_Thought_Adjuster">
+          <span class="pr-2">Sobre la comunicación con nuestro Ajustador del Pensamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «Nabon era un judío griego y el más importante de los dirigentes del principal culto de misterio en Roma, el culto mitríaco. Aunque este sumo sacerdote del mitracismo mantuvo muchas conversaciones con el escriba de Damasco, lo que le influyó de manera más permanente fue la discusión que tuvieron una noche sobre la verdad y la fe. Nabon había pensado en convertir a Jesús e incluso le había sugerido que regresara a Palestina como educador mitríaco. No sospechaba que Jesús lo estaba preparando para volverse uno de los primeros convertidos al evangelio del reino. Transcrito en una terminología moderna, he aquí en esencia lo que Jesús le enseñó:»
 > 
@@ -29,3 +50,25 @@ dateCreated: 2022-9-9T8:13:38Z
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_2/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Communication_with_our_Thought_Adjuster">
+          <span class="pr-2">Sobre la comunicación con nuestro Ajustador del Pensamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

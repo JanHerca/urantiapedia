@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sue_Tennant/The_Urantia_Book_Why_are_its_readers_challenged">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia: ¿¿¿Por qué sus lectores se ven retados con más de 2000 páginas de hechos profusos y nombres prodigiosos???</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Webb/Pain_and_Conflict_in_Time_and_Space">
+          <span class="pr-2">Dolor y Conflicto en el Tiempo y el Espacio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jesús no se anduvo con rodeos en sus analogías, símiles y metáforas sobre nosotros los humanos. Éramos vistos como corderos y ovejas, mientras que debajo éramos «_lobos voraces._» ([LU 140:3.19](/es/The_Urantia_Book/140#p3_19)) Y este es el hombre que «_podía ayudar tanto a los hombres porque también los amaba sinceramente. __Amaba realmente a cada hombre, a cada mujer y a cada niño__. Podía ser un amigo así de auténtico debido a su perspicacia extraordinaria —conocía plenamente el contenido del corazón y de la mente del hombre. Era un observador penetrante y lleno de interés. Era experto en comprender las necesidades humanas y hábil en detectar los anhelos humanos_»([LU 171:7.4](/es/The_Urantia_Book/171#p7_4)).
 
@@ -40,3 +64,28 @@ Y finalmente el papel de oveja/cordero: ¡esta es la relación entre Jesús y yo
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_6/page12.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sue_Tennant/The_Urantia_Book_Why_are_its_readers_challenged">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia: ¿¿¿Por qué sus lectores se ven retados con más de 2000 páginas de hechos profusos y nombres prodigiosos???</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Webb/Pain_and_Conflict_in_Time_and_Space">
+          <span class="pr-2">Dolor y Conflicto en el Tiempo y el Espacio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

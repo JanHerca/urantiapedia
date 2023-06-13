@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Space_and_Time_and_Seven_Dimensions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Espacio y tiempo y siete dimensiones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Continental_Drift_The_Gardner_critique_demolished">
+          <span class="pr-2">Deriva continental. Desmontando la crítica de Gardner</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Viniendo hasta hace cinco décadas, los Documentos de Urantia se publicaron en forma de libro. ¿Qué tenemos que mostrar para ello?
 
@@ -61,3 +85,28 @@ Jesús también fue directo cuando fue necesario. Como resultado, cinco mil se c
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page14.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Space_and_Time_and_Seven_Dimensions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Espacio y tiempo y siete dimensiones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Continental_Drift_The_Gardner_critique_demolished">
+          <span class="pr-2">Deriva continental. Desmontando la crítica de Gardner</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

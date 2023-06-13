@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Jacques Tetrault<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Decisions_Decisions_the_Doing_of_Gods_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Decisiones, decisiones: hacer la voluntad de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Religions_of_Man">
+          <span class="pr-2">Las religiones del hombre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Los lectores de _El Libro de Urantia_ deberían aprovechar cuando sientan la necesidad de comunicarse entre ellos, de compartir sus conocimientos pero, lo que es más importante, de compartir su experiencia religiosa.
 
@@ -60,3 +84,28 @@ Ayudémonos, relacionémonos; mientras permanecemos siempre humildemente disponi
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Decisions_Decisions_the_Doing_of_Gods_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Decisiones, decisiones: hacer la voluntad de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Religions_of_Man">
+          <span class="pr-2">Las religiones del hombre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Science_in_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La ciencia en El libro de Urantia. Profecías inexplicables y errores inexplicables</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Prophetic_Science_in_the_Urantia_Papers_Discussion">
+          <span class="pr-2">Ciencia profética en los Documentos de Urantia—Discusión</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image">
 <img src="/image/article/Ken_Glasziou/Geophysics_further_prophecies_Continental_Drift_and_Age_of_the_Solar_System/Paleoglobe_NO_1040_mya.jpg">
@@ -60,6 +84,31 @@ Entonces, ¿por qué se incluyó material profético? La razón más probable pa
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_5/page7.html
 
 - Aplicación web interactiva que muestra la Tierra desde 750 M años hasta hoy: https://dinosaurpictures.org/ancient-earth/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Science_in_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La ciencia en El libro de Urantia. Profecías inexplicables y errores inexplicables</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Prophetic_Science_in_the_Urantia_Papers_Discussion">
+          <span class="pr-2">Ciencia profética en los Documentos de Urantia—Discusión</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

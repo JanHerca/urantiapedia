@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T18:06:08.036Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Ridiculous_Passenger_Birds_and_Secondary_Midwayers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Algo absurdo: pájaros transportadores e intermedios secundarios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Prophetic_material_and_errors_Epilogue">
+          <span class="pr-2">Material profético y errores en la revelación de Urantia—Epílogo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Los ‘errores’ más conocidos en los Documentos son la distancia a la galaxia de Andrómeda, la «disrupción instantánea» de elementos superiores a la centésima, el planeta Mercurio siempre girando la misma cara hacia el sol y el número de cromosomas humanos. Todos ellos eran simplemente citas directas del conocimiento actual en ese momento.
 
@@ -79,6 +103,31 @@ Los fósiles de algas rojas de las especies Eosphaera y Huroniospora datan de ha
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_4/page16.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Ridiculous_Passenger_Birds_and_Secondary_Midwayers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Algo absurdo: pájaros transportadores e intermedios secundarios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Prophetic_material_and_errors_Epilogue">
+          <span class="pr-2">Material profético y errores en la revelación de Urantia—Epílogo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

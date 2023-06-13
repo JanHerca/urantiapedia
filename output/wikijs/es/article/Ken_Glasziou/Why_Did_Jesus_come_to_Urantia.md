@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georgina_Merrill/Defamation_of_Character">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Difamación del carácter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Consistency_in_The_Urantia_Book">
+          <span class="pr-2">Coherencia en El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Con el cumpleaños de Jesús acercándose en agosto, tal vez sea el momento de reflexionar sobre por qué alguien que es, a todos los efectos, Dios para su propio universo, sin embargo, debería haber venido a este humilde planeta como un bebé indefenso y vivir entre nosotros, no reconocidos. Haciendo abstracción de [LU 120:0.4](/es/The_Urantia_Book/120#p0_4), encontramos estas declaraciones:
 
@@ -140,3 +164,28 @@ He conocido a lectores del_Libro de Urantia_ que quieren pasar por alto esta fas
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_4/page6.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georgina_Merrill/Defamation_of_Character">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Difamación del carácter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Consistency_in_The_Urantia_Book">
+          <span class="pr-2">Coherencia en El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

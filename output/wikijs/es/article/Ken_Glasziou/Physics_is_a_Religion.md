@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Crucifixion_Why">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La crucifixión, ¿por qué?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > La física es en realidad una religión. Una religión se basa en artículos (axiomas) de fe no probada. En física estos artículos no probados son:
 >
@@ -49,3 +70,25 @@ Como la física, toda religión depende de una fe no probada. Parece que Dios qu
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_1/page16.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Crucifixion_Why">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La crucifixión, ¿por qué?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

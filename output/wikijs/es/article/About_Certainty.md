@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/All_things_work_together_for_good_despite_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Todas las cosas obran juntas para bien, aunque no lo parezca</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Good_and_evil">
+          <span class="pr-2">El bien y el mal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Antes del autootorgamiento de Jesús, su hermano Creador-Hijo, Emmanuel, aconsejó: "En este autootorgamiento te has despojado voluntariamente de todo apoyo extraplanetario y asistencia especial.
 
@@ -41,3 +65,27 @@ Ninguna persona se inquieta en ningún momento por la actitud de un prójimo cua
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page4.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/All_things_work_together_for_good_despite_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Todas las cosas obran juntas para bien, aunque no lo parezca</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Good_and_evil">
+          <span class="pr-2">El bien y el mal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

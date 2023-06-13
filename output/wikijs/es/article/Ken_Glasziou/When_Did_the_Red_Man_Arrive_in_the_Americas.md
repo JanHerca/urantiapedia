@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Second_Great_Commandment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Segundo Gran Mandamiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Primate_Ancestry">
+          <span class="pr-2">Ascendencia de los primates</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Preparado a partir de material suministrado por: Dr. Edmund Roach, Watertown, Nueva York, EE.UU._
 
@@ -21,6 +45,31 @@ Ahora han surgido más problemas para el modelo estándar debido a las investiga
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_3/page17.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Second_Great_Commandment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Segundo Gran Mandamiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Primate_Ancestry">
+          <span class="pr-2">Ascendencia de los primates</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

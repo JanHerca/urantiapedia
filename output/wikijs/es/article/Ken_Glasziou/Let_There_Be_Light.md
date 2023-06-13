@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jacques_Tetrault/Personal_Religion_A_Sign_of_the_Times">
+          <span class="pr-2">La religión personal: un signo de los tiempos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «La idea de Dios como Padre verdadero y amoroso es el único concepto que Jesús enseñó. Una vez que captáis esta idea, debéis, con toda coherencia, abandonar por completo y de manera inmediata todas esas nociones primitivas sobre Dios. ... El amor infinito de Dios ocupa el primer lugar en la naturaleza divina.» ([LU 188:4.8](/es/The_Urantia_Book/188#p4_8))
 
@@ -38,3 +59,25 @@ No es que no haya cristianos que estén íntimamente familiarizados con el Dios 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jacques_Tetrault/Personal_Religion_A_Sign_of_the_Times">
+          <span class="pr-2">La religión personal: un signo de los tiempos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

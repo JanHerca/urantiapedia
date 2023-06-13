@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Morals_Virtue_and_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Moralidad, virtud y personalidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Patience_a_Millennium_is_1000_Years">
+          <span class="pr-2">Paciencia: un milenio son 1000 años</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _Mientras cenaban, Jesús tuvo una conversación con Mateo en la que le explicó que ***la moralidad de un acto cualquiera está determinada por el móvil del individuo***. La moralidad de Jesús era siempre positiva. La regla de oro, tal como Jesús la expuso de nuevo con más claridad, exige un contacto social activo; la antigua regla negativa podía ser obedecida en la soledad. Jesús despojó a la moralidad de todas las reglas y ceremonias, y la elevó a los niveles majestuosos del pensamiento espiritual y de la vida verdaderamente recta._ ([LU 140:10.5](/es/The_Urantia_Book/140#p10_5))
 
@@ -45,3 +69,28 @@ Adoptar el concepto de «el fin justifica los medios» parece ser una estratagem
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_2/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Morals_Virtue_and_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Moralidad, virtud y personalidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Patience_a_Millennium_is_1000_Years">
+          <span class="pr-2">Paciencia: un milenio son 1000 años</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

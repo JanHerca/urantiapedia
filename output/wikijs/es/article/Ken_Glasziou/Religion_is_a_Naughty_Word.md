@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/On_Free_Will_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre el libre albedrío</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sydney_Harris/On_Hyping_up_our_Hypothesis">
+          <span class="pr-2">Sobre la exageración de nuestra hipótesis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La plétora de profundidad vertida en los Documentos de Urantia es tal que simples mortales como nosotros lo leemos sin digerirlo, lo repasamos sin entenderlo.
 
@@ -44,3 +68,28 @@ Seguramente es sopa para el pensamiento.
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/On_Free_Will_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre el libre albedrío</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sydney_Harris/On_Hyping_up_our_Hypothesis">
+          <span class="pr-2">Sobre la exageración de nuestra hipótesis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

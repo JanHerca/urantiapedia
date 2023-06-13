@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ann Bendall<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Human_Sources_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las fuentes humanas de El libro de Urantia. La fuerza nuclear fuerte y las supernovas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Who_Wrote_The_Urantia_Book_It_doesnt_really_matter">
+          <span class="pr-2">¿Quién escribió El libro de Urantia? En mi opinión, no importa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 «Perdonar es divino». Así nos dicen. Y a medida que cada uno de nosotros se esfuerza por parecerse más a Dios, nos enfrentamos al dilema de identificar quién nos hizo qué y por qué y cuáles son las consecuencias.
 
@@ -83,3 +107,28 @@ Aunque puedo llamar la atención sobre algunos de estos problemas, las solucione
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Human_Sources_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las fuentes humanas de El libro de Urantia. La fuerza nuclear fuerte y las supernovas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Who_Wrote_The_Urantia_Book_It_doesnt_really_matter">
+          <span class="pr-2">¿Quién escribió El libro de Urantia? En mi opinión, no importa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

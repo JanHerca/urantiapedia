@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Song_of_Joy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La canción de la alegría de Beethovan</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Quantum_Theory_The_Urantia_Book_and_the_Absolutes">
+          <span class="pr-2">Teoría cuántica, El libro de Urantia y los Absolutos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En su libro «_Comprender el presente_», Bryan Appleyard afirma: «_¡Fe! ¿Qué significa la fe? Claramente no puede significar estar racionalmente persuadido de algo. Si tuviéramos una razón para la fe, entonces no sería fe en absoluto, sería lógica._ __La fe solo puede ser irrazonable.__»
 
@@ -31,3 +55,27 @@ Tal vez por eso los reveladores nos dicen que, «_La razón es la prueba de la c
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_1/page12.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Song_of_Joy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La canción de la alegría de Beethovan</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Quantum_Theory_The_Urantia_Book_and_the_Absolutes">
+          <span class="pr-2">Teoría cuántica, El libro de Urantia y los Absolutos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

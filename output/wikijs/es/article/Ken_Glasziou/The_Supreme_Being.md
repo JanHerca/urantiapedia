@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Atonement_Jewish_Origins">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La expiación: sus orígenes judíos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Keith_McPaul/Relation_of_The_Urantia_Papers_and_Process_Theology">
+          <span class="pr-2">Relación de los documentos de Urantia y la teología del proceso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En los Documentos de Urantia, algunos autores tienden a referirse al Ser Supremo como existente y aún no existente, por lo tanto, de manera similar a cómo los físicos de partículas tratan a las partículas como ondas y partículas simultáneamente.
 
@@ -170,3 +194,28 @@ flowchart TB
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_3/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Atonement_Jewish_Origins">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La expiación: sus orígenes judíos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Keith_McPaul/Relation_of_The_Urantia_Papers_and_Process_Theology">
+          <span class="pr-2">Relación de los documentos de Urantia y la teología del proceso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

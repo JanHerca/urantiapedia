@@ -9,6 +9,30 @@ dateCreated: 2022-9-8T14:13:8Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Why_Did_Jesus_come_to_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Por qué vino Jesús a Urantia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Steady_State_Big_Bang_or_Architects_of_the_Master_Universe">
+          <span class="pr-2">¿Estado estacionario, Big Bang o arquitectos del universo maestro?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «_El hecho de ser consciente de sí mismo da origen a la moralidad; ésta es superanimal pero totalmente evolutiva. La evolución humana abarca en su desarrollo todos los dones que preceden a la concesión de los Ajustadores y al derramamiento del Espíritu de la Verdad._» ([LU 5:5.1](/es/The_Urantia_Book/5#p5_1))
 
@@ -49,3 +73,28 @@ En la oficina australiana de Innerface International estaremos encantados de rec
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_4/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Why_Did_Jesus_come_to_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Por qué vino Jesús a Urantia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Steady_State_Big_Bang_or_Architects_of_the_Master_Universe">
+          <span class="pr-2">¿Estado estacionario, Big Bang o arquitectos del universo maestro?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

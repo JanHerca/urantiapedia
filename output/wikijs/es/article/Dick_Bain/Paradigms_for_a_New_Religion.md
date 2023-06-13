@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Dick Bain<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/What_Constitutes_Spiritual_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qué constituye una «experiencia espiritual»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La charla de la iglesia está en el aire. La comunidad de Urantia está maldiciendo y discutiendo la posibilidad de una iglesia[^1], una religión o algún tipo de organización religiosa que incorpore las enseñanzas de _El Libro de Urantia_. Así como la clonación humana es controvertida en la comunidad en general, este tema también es divisivo en la comunidad de Urantia. Independientemente del calor generado por el debate, esta puede ser una idea cuyo momento ha llegado. Si es así, entonces es un momento apropiado para discutir la forma que podría tomar tal religión u organización religiosa.
 
@@ -110,3 +131,25 @@ El valor y la dignidad inherentes a cada persona; Justicia, equidad y compasión
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_5/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/What_Constitutes_Spiritual_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qué constituye una «experiencia espiritual»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

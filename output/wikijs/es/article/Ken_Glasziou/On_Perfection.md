@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T19:14:54.696Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Imagine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡Imagina!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/God_the_Universal_Father">
+          <span class="pr-2">Dios, el Padre Universal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 «Sed perfectos, como yo soy perfecto». Con amor y misericordia, los mensajeros del Paraíso han llevado esta divina exhortación a través de las edades y de los universos, incluso a criaturas tan humildes de origen animal como las razas humanas de Urantia.
 
@@ -25,3 +49,27 @@ Este es el verdadero significado de ese mandato divino: «Sed perfectos, como yo
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_1/page2.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Imagine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡Imagina!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/God_the_Universal_Father">
+          <span class="pr-2">Dios, el Padre Universal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

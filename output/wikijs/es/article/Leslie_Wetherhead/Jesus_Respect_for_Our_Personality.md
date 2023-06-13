@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Leslie Wetherhead<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Spiritual_Growth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Crecimiento Espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 de «Jesus and Ourselves» de Leslie Weatherhead
 
@@ -92,3 +113,25 @@ El libro citado anteriormente, publicado en 1930, fue una de las fuentes utiliza
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_4/page14.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Spiritual_Growth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Crecimiento Espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

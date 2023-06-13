@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T19:17:35.750Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Love_a_Necessity_for_the_Fulfilment_of_Mankind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El amor: una necesidad para la realización de la humanidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/More_on_Our_Challenge">
+          <span class="pr-2">Más sobre “Nuestro Desafío”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dedica tu vida a demostrar la combinación del afecto humano y la dignidad divina del mortal que conoce a Dios.
 
@@ -34,3 +58,28 @@ Pero principalmente, debemos vivir como vivió Jesús.
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page13.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Love_a_Necessity_for_the_Fulfilment_of_Mankind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El amor: una necesidad para la realización de la humanidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/More_on_Our_Challenge">
+          <span class="pr-2">Más sobre “Nuestro Desafío”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

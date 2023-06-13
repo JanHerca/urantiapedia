@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Is_God_a_Possibility">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Es Dios una posibilidad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/On_Growing_Spiritually">
+          <span class="pr-2">Sobre el crecimiento espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «Pero la mente que discierne realmente a Dios, que escucha al Ajustador interior, es la mente pura». ([LU 101:1.3](/es/The_Urantia_Book/101#p1_3))
 
@@ -54,3 +78,28 @@ Y en conclusión:
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_6/page12.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Is_God_a_Possibility">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Es Dios una posibilidad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/On_Growing_Spiritually">
+          <span class="pr-2">Sobre el crecimiento espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

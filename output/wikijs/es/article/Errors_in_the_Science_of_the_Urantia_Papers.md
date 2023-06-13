@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T06:39:42.741Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/On_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la espiritualidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Why_Did_the_Quakers_Fail">
+          <span class="pr-2">¿Por qué fracasaron los cuáqueros?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En publicaciones anteriores[^5],[^6],[^7] hemos concentrado la atención en lo que llamamos el componente profético en la cosmología de los Documentos. Aunque éramos conscientes de las discrepancias en su historia de la geología y la paleontología del planeta, estas se descartaron con el argumento de que los procedimientos de datación eran demasiado inexactos para estar seguros de que los Documentos estaban equivocados.
 
@@ -170,6 +194,31 @@ Obviamente, este extraordinario contraste entre el error y la declaración asomb
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_3/page3.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/On_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la espiritualidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Why_Did_the_Quakers_Fail">
+          <span class="pr-2">¿Por qué fracasaron los cuáqueros?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

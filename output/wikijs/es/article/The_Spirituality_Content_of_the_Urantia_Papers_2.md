@@ -9,6 +9,24 @@ dateCreated: 2022-09-27T00:06:28.740Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (Continuación de [número de enero/febrero](/es/article/The_Spirituality_Content_of_the_Urantia_Papers))
 
@@ -528,3 +546,21 @@ Realmente, solo entre aquellos que nos conocen y nos aman mejor podemos vivir un
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_2/page2.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

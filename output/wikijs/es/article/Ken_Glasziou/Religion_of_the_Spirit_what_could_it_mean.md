@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Christianity_and_Archaeology_An_Update">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cristianismo y arqueología: una actualización</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Criticality">
+          <span class="pr-2">Criticidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En una dimensión más allá de lo mundano y finito, la religión del espíritu define un estado trascendental que deriva su realidad de la experiencia colectiva de las almas de los hombres y mujeres de toda la humanidad.
 
@@ -35,3 +59,28 @@ Y ese parece haber sido su único propósito, y su religión del espíritu.
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_5/page12.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Christianity_and_Archaeology_An_Update">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cristianismo y arqueología: una actualización</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Criticality">
+          <span class="pr-2">Criticidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

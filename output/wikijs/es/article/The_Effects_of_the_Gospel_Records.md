@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T22:52:03.235Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Reliability_of_New_Testament_Sources">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fiabilidad de las fuentes del Nuevo Testamento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Early_Years_of_Jesus">
+          <span class="pr-2">Los primeros años de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Una búsqueda minuciosa y objetiva del Jesús histórico nos lleva de regreso a los documentos históricamente confiables que constituyen el registro del Nuevo Testamento de su vida y enseñanzas. Aunque no estamos seguros del día exacto del nacimiento de Jesús, sin embargo, fue un evento que ha dividido la historia: AC antes de Cristo y AD, Anno domini, «en el año de nuestro Señor». Difícilmente se habría hecho una demarcación tan clara si no hubiera una base histórica para la vida de Jesús.
 
@@ -46,3 +70,27 @@ Todo lo cual demuestra una notable congruencia de información proveniente de lo
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_6/page8.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Reliability_of_New_Testament_Sources">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fiabilidad de las fuentes del Nuevo Testamento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Early_Years_of_Jesus">
+          <span class="pr-2">Los primeros años de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

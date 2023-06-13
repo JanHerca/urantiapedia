@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Meredith Sprunger<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Book_and_Secondary_Works">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia y las obras secundarias</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Midrash">
+          <span class="pr-2">Midrash</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Los fundamentalistas cristianos creen en la infalibilidad literal de la Biblia. Están tan impresionados con las verdades espirituales de las Escrituras que asumen que la ciencia, la economía, la sociología y la historia de la Biblia son de igual calidad. La erudición de la corriente principal del cristianismo hace mucho tiempo que ha librado a la iglesia de tales ilusiones ingenuas. Nos hemos dado cuenta de que el propósito de la revelación es la iluminación espiritual que debe distinguirse de los hechos científicos e históricos que pueden acompañar a esta percepción espiritual. El cuerpo principal del cristianismo ha alcanzado la madurez espiritual para diferenciar estas verdades espirituales permanentes de los hechos materiales pasajeros y, a veces, erróneos que acompañan a estas percepciones.
 
@@ -39,3 +63,28 @@ La evaluación académica muestra que el fundamentalismo del Libro de Urantia es
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_3/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Book_and_Secondary_Works">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia y las obras secundarias</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Midrash">
+          <span class="pr-2">Midrash</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T07:15:49.499Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Perfection">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la perfección</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Sin_should_we_take_it_seriously">
+          <span class="pr-2">El pecado, ¿deberíamos tomarlo en serio?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 «_**Sé perfecto como yo soy perfecto**_.» Este magnífico mandato universal —esforzarse por alcanzar la perfección de la divinidad— es tanto el primer deber como la mayor ambición de todos los hijos mortales de Dios que luchan.
 
@@ -198,3 +222,28 @@ Dios es personalmente consciente y está en contacto personal con todas las pers
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_1/page9.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Perfection">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la perfección</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Sin_should_we_take_it_seriously">
+          <span class="pr-2">El pecado, ¿deberíamos tomarlo en serio?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

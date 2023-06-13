@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/When_is_a_Heart_not_a_Heart">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cuándo un «Corazón» no es un «Corazón»?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rob_Crickett/Heart_Alpha_and_Omega_of_Spirituality">
+          <span class="pr-2">Corazón —el Alfa y Omega de la Espiritualidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Condensado de Jacob Needleman, «El cristianismo perdido. Un viaje de redescubrimiento al centro de la experiencia cristiana»._
 
@@ -86,3 +110,28 @@ Según Needleman, limpiar el interior para que el exterior también esté limpio
 ## Referencias
 
 * Jacob Needleman, «Lost Christianity. A Journey of Rediscovery to the Centre of Christian Experience», Element Books; New edition (Febrero 1990)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/When_is_a_Heart_not_a_Heart">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cuándo un «Corazón» no es un «Corazón»?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rob_Crickett/Heart_Alpha_and_Omega_of_Spirituality">
+          <span class="pr-2">Corazón —el Alfa y Omega de la Espiritualidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Peter_Vardy/What_Does_It_Mean_to_Talk_about_God_A_Catholic_View">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué significa hablar de Dios? Una visión católica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/A_Urantia_Cult">
+          <span class="pr-2">Un culto Urantiano</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Seguramente hay una muy buena razón. El libro nos dice que los urantianos en desventaja nos paralizamos espiritualmente si no lo hacemos.
 
@@ -65,3 +89,28 @@ _El hecho de que Jesús vivió por nosotros es infinitamente más significativo 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_5/page.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Peter_Vardy/What_Does_It_Mean_to_Talk_about_God_A_Catholic_View">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué significa hablar de Dios? Una visión católica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/A_Urantia_Cult">
+          <span class="pr-2">Un culto Urantiano</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

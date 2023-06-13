@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Least_We_Should_Know_about_the_Cross">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lo menos que debemos saber sobre la Cruz</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Who_Wrote_the_Urantia_Papers">
+          <span class="pr-2">¿Quién escribió los documentos de Urantia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Imagina que fueras el Jesús morontial con solo cuarenta días disponibles para cimentar los propósitos de la Cuarta Revelación de Época y asegurar su supervivencia. Por primera vez, tus seguidores finalmente se ven obligados a aceptar que no vas a tomar Jerusalén, liberar a tu pueblo del dominio romano y restaurar las glorias en gran parte míticas del trono de David.
 
@@ -88,3 +112,28 @@ Los Documentos dejan bastante claro que nuestro papel docente debe ser a través
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_2/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Least_We_Should_Know_about_the_Cross">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lo menos que debemos saber sobre la Cruz</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Who_Wrote_the_Urantia_Papers">
+          <span class="pr-2">¿Quién escribió los documentos de Urantia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Urantia_Book_versus_its_Philosophy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Libro de Urantia frente a su filosofía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «_Jesús no le pide a sus discípulos que crean en él, sino más bien que crean *con* él, que crean en la realidad del amor de Dios y que acepten con toda confianza la seguridad de su filiación con el Padre celestial. El Maestro desea que todos sus seguidores compartan plenamente su fe trascendente. Jesús desafió a sus seguidores, de la manera más enternecedora, no sólo a creer *lo que* él creía, sino también a creer *como* él creía. Éste es el significado completo de su única exigencia suprema: «Sígueme»._» [LU 196:0.13](/es/The_Urantia_Book/196#p0_13)
 
@@ -37,3 +58,25 @@ Pero no dejes que la fe sea vencida. Más bien, que prevalezca esta seguridad: �
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page16.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Urantia_Book_versus_its_Philosophy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Libro de Urantia frente a su filosofía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

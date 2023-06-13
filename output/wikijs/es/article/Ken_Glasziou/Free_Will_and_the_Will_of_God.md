@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Indwelling_Spirit_in_the_New_Testament">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La morada del Espíritu en el Nuevo Testamento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ¿Cuán libre es nuestro libre albedrío? Hasta donde se extiende. Los límites deben estar ahí. En un extremo, no somos libres de hacer lo imposible. Un examen minucioso de lo que se nos da en los Documentos de Urantia nos dice más sobre lo que podemos hacer que sobre lo que no podemos hacer.
 
@@ -74,3 +95,25 @@ Además de la guía que obtenemos del «bien cósmico supremo» al servir a nues
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_6/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Indwelling_Spirit_in_the_New_Testament">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La morada del Espíritu en el Nuevo Testamento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T22:46:20.684Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Effects_of_the_Gospel_Records">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los efectos de los registros del Evangelio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/What_was_the_Gospel_of_Jesus">
+          <span class="pr-2">¿Cuál fue el Evangelio de Jesús?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Para los lectores del Libro de Urantia, y suponiendo la ausencia de la revelación de Urantia, es interesante y educativo darse cuenta de lo poco que se sabe sobre la fase prebautismal de la vida de Jesús. Sin _El Libro de Urantia_ ni siquiera se conoce la fecha o el año del nacimiento de Jesús.
 
@@ -55,3 +79,27 @@ Por lo tanto, Jesús no era un paleto del campo que nunca había estado expuesto
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_6/page9.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Effects_of_the_Gospel_Records">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los efectos de los registros del Evangelio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/What_was_the_Gospel_of_Jesus">
+          <span class="pr-2">¿Cuál fue el Evangelio de Jesús?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

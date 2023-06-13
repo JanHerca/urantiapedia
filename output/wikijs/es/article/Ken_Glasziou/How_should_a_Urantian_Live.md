@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Keith_McPaul/Relation_of_The_Urantia_Papers_and_Process_Theology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Relación de los documentos de Urantia y la teología del proceso</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Este es un problema al que deben enfrentarse todos los lectores dedicados de los Documentos de Urantia. Muchos de nosotros los recibimos en circunstancias muy inusuales, que a veces parecían rayar en lo milagroso. Y así fuimos tentados, como Jesús fue tentado, a concluir que somos especiales, seleccionados, de alguna manera diferentes, tal vez incluso superiores a nuestros semejantes.
 
@@ -75,3 +96,25 @@ Hubo una sexta decisión:
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_3/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Keith_McPaul/Relation_of_The_Urantia_Papers_and_Process_Theology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Relación de los documentos de Urantia y la teología del proceso</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

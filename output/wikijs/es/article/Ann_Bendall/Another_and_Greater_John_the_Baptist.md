@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Jesus_Man_and_Myth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesús, Hombre y Mito</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Plan_A_What_was_it">
+          <span class="pr-2">Plan A. Cúal era?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En nuestro segundo número pedimos sugerencias sobre cómo «otro y más grande Juan el Bautista se levantará proclamando que el reino de Dios está cerca sin referirse a la iglesia visible o la segunda venida de Cristo».
 
@@ -52,3 +76,28 @@ De hecho, es una alegría vivir en una era donde el mensaje vivo de Jesús del �
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page11.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Jesus_Man_and_Myth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesús, Hombre y Mito</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Plan_A_What_was_it">
+          <span class="pr-2">Plan A. Cúal era?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

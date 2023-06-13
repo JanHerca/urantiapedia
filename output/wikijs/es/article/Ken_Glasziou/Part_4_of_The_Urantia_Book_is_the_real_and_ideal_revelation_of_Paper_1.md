@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Purpose_of_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El propósito de los Documentos de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Our_Future_Task">
+          <span class="pr-2">¿Nuestra tarea futura?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Según el Documento de Urantia 7, el plan divino de consecución de la perfección para nosotros, los hijos finitos de Dios, tiene tres componentes únicos. El primero de ellos está catalogado como «El Plan de Logro Progresivo». El segundo es «El Plan de Otorgamiento». Y el tercero es «El Ministerio del Plan de la Misericordia». (ver [LU 7:4.4-6](/es/The_Urantia_Book/7#p4_4))
 
@@ -49,3 +73,28 @@ Esto es para evitar que la confusión sobre errores aparentes en la cosmología 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_6/page14.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Purpose_of_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El propósito de los Documentos de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Our_Future_Task">
+          <span class="pr-2">¿Nuestra tarea futura?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

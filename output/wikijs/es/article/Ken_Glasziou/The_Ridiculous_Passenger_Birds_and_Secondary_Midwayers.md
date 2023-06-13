@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T23:50:13.379Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Prove_it_to_yourself_for_yourself">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Pruébalo por ti mismo»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Miscellaneous_erroneous_material_summarized">
+          <span class="pr-2">Miscelánea de material erróneo: un resumen</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Resumen
 
@@ -36,3 +60,28 @@ Si los lectores del Libro de Urantia leyeran este tipo de material en la Biblia 
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_4/page15.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Prove_it_to_yourself_for_yourself">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Pruébalo por ti mismo»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Miscellaneous_erroneous_material_summarized">
+          <span class="pr-2">Miscelánea de material erróneo: un resumen</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

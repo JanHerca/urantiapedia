@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Those_Christians">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Esos cristianos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 De Freeman Dyson, «_From Eros to Gaia_» (Penguin Books, Londres, 1992)
 
@@ -40,3 +61,25 @@ Sería de gran interés conocer las fechas reales de publicación de cualquier a
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_6/page17.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Those_Christians">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Esos cristianos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

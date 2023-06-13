@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ann Bendall<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jacques_Tetrault/Relating">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡Relacionarse!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gloria_and_Ray_Colot/Do_We_Need_Another_Church">
+          <span class="pr-2">¿Necesitamos otra iglesia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Sobre el libro _Las religiones del hombre_, de Huston Smith, 1958 (Harper and Row Inc. New York)
 
@@ -59,3 +83,28 @@ Al final, especialmente cuando dio su vida por sus amigos, a quienes mejor lo co
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jacques_Tetrault/Relating">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡Relacionarse!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Gloria_and_Ray_Colot/Do_We_Need_Another_Church">
+          <span class="pr-2">¿Necesitamos otra iglesia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

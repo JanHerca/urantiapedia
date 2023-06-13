@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Dick Bain<br>© 1995 The Urantia Book Fellowship<br>© 2020 Jan Herca, por la traducción y adiciones</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Turning_Point">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡¡Punto de inflexión!!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure class="image urantiapedia">
 <img src="/image/article/Dick_Bain/The_Jupiter_problem/binarysystem.jpg">
@@ -85,6 +106,28 @@ La hipótesis del origen *catastrófico* («teoría de Angona») puede tener aho
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page17.html
 
 * Traducción de Jan Herca: https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/El-problema-de-J%C3%BApiter.pdf
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Turning_Point">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡¡Punto de inflexión!!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

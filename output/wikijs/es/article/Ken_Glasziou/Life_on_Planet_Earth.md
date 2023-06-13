@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Proclamation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Proclamación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Purpose_of_the_Urantia_Papers">
+          <span class="pr-2">El propósito de los Documentos de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 No existe una definición universalmente aceptada de lo que constituye la vida. Sin embargo, la gran mayoría de nosotros acepta que los animales y las plantas son formas de vida, una gran mayoría incluye bacterias y hongos como formas de vida, mientras que casi todos piensan que los virus y las entidades que causan enfermedades, como los priones, no tienen vida. Si aceptamos la opinión de la mayoría, entonces la «vida» parece haber estado presente en nuestro planeta por cerca de cuatro mil millones de años.
 
@@ -71,3 +95,28 @@ Si es así, la función probable de los Portadores de Vida habría sido reorgani
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_6/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Proclamation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Proclamación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Purpose_of_the_Urantia_Papers">
+          <span class="pr-2">El propósito de los Documentos de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

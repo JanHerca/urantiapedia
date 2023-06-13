@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Has_Quantum_Physics_Discovered_the_Universal_Father">
+          <span class="pr-2">¿Ha descubierto la Física Cuántica al Padre Universal?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Durante las conferencias vespertinas en el monte Gerizim, Jesús enseñó muchas grandes verdades, y en particular puso énfasis en lo siguiente:
 
@@ -33,3 +54,25 @@ Durante las conferencias vespertinas en el monte Gerizim, Jesús enseñó muchas
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_4/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Has_Quantum_Physics_Discovered_the_Universal_Father">
+          <span class="pr-2">¿Ha descubierto la Física Cuántica al Padre Universal?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

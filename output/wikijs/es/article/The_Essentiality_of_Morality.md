@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Be_Not_Discouraged">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡No te desanimes!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Personality_and_Communication">
+          <span class="pr-2">Personalidad y Comunicación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Esencialmente, los Documentos de Urantia son una campaña de reclutamiento de voluntarios que responderán al llamado de Jesús:
 
@@ -84,3 +108,28 @@ Pregúntese: «Si no fuera así, ¿por qué tengo los Documentos de Urantia?».
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_4/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Be_Not_Discouraged">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡No te desanimes!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Personality_and_Communication">
+          <span class="pr-2">Personalidad y Comunicación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

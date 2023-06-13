@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T18:03:19.267Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Indwelling_Father_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Padre-Espíritu que mora en nosotros</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_doing_the_will_of_God_How">
+          <span class="pr-2">Sobre hacer la voluntad de Dios, ¿cómo?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La mente es todo lo que tenemos de la realidad del universo que está sujeta a nuestra voluntad, y nuestra alma replica fielmente y representa la cosecha de las decisiones temporales que toma el yo mortal. Pero no es tanto lo que la mente comprende como lo que la mente desea comprender lo que asegura el crecimiento del alma; no es tanto cómo es la mente sino cómo la mente se esfuerza por ser lo que constituye la identificación con el espíritu. Y no es tanto que seamos conscientes de Dios como que anhelemos a Dios lo que resulta en la ascensión del universo. Lo que somos hoy no es tan importante como lo que nos estamos convirtiendo día a día y en la eternidad.
 
@@ -63,3 +87,28 @@ Si interpretamos la vida y los dichos de Jesús como la base de un conjunto de r
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_3/page5.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Indwelling_Father_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Padre-Espíritu que mora en nosotros</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_doing_the_will_of_God_How">
+          <span class="pr-2">Sobre hacer la voluntad de Dios, ¿cómo?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

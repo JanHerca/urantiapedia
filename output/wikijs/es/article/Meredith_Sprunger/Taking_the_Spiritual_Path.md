@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Meredith Sprunger<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Goose_Bumps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La piel de gallina</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Way_Jesus_Baptismal_Decisions_Aims_and_Motivs">
+          <span class="pr-2">El camino: decisiones, objetivos y motivos bautismales de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cómo llevamos a cabo nuestro ministerio de divulgación es más importante que cuándo o dónde presentamos a la gente _El Libro de Urantia_. La indiferencia y la oposición social deben enfrentarse con amor, franqueza intelectual y buen humor.
@@ -46,3 +70,28 @@ Nuestra sociedad necesita desesperadamente una visión espiritual ampliada para 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_1/page6.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Goose_Bumps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La piel de gallina</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Way_Jesus_Baptismal_Decisions_Aims_and_Motivs">
+          <span class="pr-2">El camino: decisiones, objetivos y motivos bautismales de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Need_a_Tune_Up">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Necesita una puesta a punto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Matthew_Block/Attunement_Equals_Peace">
+          <span class="pr-2">Sintonización es igual a paz</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El significado de casi cualquier grupo de palabras dentro de un texto se puede cambiar, a menudo radicalmente, por el simple medio de citar fuera de contexto. Un ejemplo jocoso sería: «**Jesús estaba constantemente alegre, a pesar de que a veces bebía mucho.**» Dejaremos al lector descubrir el contexto real que, podemos asegurar, es bastante diferente de lo que parece ser.
 
@@ -31,3 +55,28 @@ En el debate, siempre podemos encontrar circunstancias hipotéticas en las que d
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_3/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Need_a_Tune_Up">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Necesita una puesta a punto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Matthew_Block/Attunement_Equals_Peace">
+          <span class="pr-2">Sintonización es igual a paz</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

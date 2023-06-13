@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Oración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Eternity">
+          <span class="pr-2">Eternidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Así parecería. Hay tantas declaraciones en los Documentos que parecen expresar las esperanzas de los reveladores de que algún tipo de movimiento de renovación llevará a las iglesias de vuelta a las enseñanzas originales de Jesús. La primera línea más o menos de algunos de estos sigue:
 
@@ -115,3 +139,28 @@ Nuestra tarea es difundir el mensaje de Jesús, no necesariamente difundir un li
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_1/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Oración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Eternity">
+          <span class="pr-2">Eternidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

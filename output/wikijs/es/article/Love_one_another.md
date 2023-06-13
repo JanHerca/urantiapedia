@@ -9,6 +9,27 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Editorial_Windows_of_Opportunity">
+          <span class="pr-2">Ventanas de Oportunidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «En el reino de la fraternidad creyente de los amantes de la verdad que conocen a Dios, esta regla de oro adquiere cualidades vivientes de realización espiritual en aquellos niveles superiores de interpretación que inducen a los hijos mortales de Dios a considerar que este mandato del Maestro les exige que se relacionen con sus semejantes de tal manera, que éstos reciban el mayor bien posible como resultado de su contacto con los creyentes. Ésta es la esencia de la verdadera religión: que améis a vuestro prójimo como a vosotros mismos.»
 > 
@@ -34,3 +55,24 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_2/page2.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Editorial_Windows_of_Opportunity">
+          <span class="pr-2">Ventanas de Oportunidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

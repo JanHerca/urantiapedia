@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/About_the_Universal_Father_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Positivismo: el único camino</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Celestial_Guardians">
+          <span class="pr-2">Los guardianes celestiales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Parece que cada uno surgió como resultado de alguna extraña interacción espiritual-psicológica entre pares de los extraordinarios hijos de Adamson y Ratta, quienes "a menudo eran invisibles". Leída en contexto, la cláusula "invisible" se puede tomar de dos maneras, una de las cuales es que cada individuo a veces era visible, a veces invisible. O puede interpretarse en el sentido de que algunos de estos niños extraordinarios eran visibles, mientras que otros eran invisibles. El libro dice: «Cada cuarto hijo que nacía era de una clase única: a menudo se volvía invisible». ([LU 77:5.6](/es/The_Urantia_Book/77#p5_6))
 
@@ -42,3 +66,27 @@ Al hacer tales preguntas debemos conservar nuestra humildad. Los Revelators hici
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_5/page5.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/About_the_Universal_Father_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Positivismo: el único camino</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Celestial_Guardians">
+          <span class="pr-2">Los guardianes celestiales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

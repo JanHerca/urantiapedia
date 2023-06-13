@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/No_Man_Ever_Spake_Thus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nadie ha hablado jamás así</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars">
+          <span class="pr-2">Neutrinos y Estrellas de neutrones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Algunos de nuestros fundamentalistas del _Libro de Urantia_ creen firmemente en la verdad absoluta de todo lo que se encuentra en el material textual del libro, al igual que los fundamentalistas cristianos creen en la teoría de la dictadura divina para la Biblia. Y esto a pesar de las advertencias dadas por los Reveladores acerca de su mandato:
 
@@ -37,3 +61,28 @@ Los Mensajeros Poderosos no tienen el estatus de "Creador", por lo tanto, son fa
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_2/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/No_Man_Ever_Spake_Thus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nadie ha hablado jamás así</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars">
+          <span class="pr-2">Neutrinos y Estrellas de neutrones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

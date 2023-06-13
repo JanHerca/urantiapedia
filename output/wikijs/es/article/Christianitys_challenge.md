@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Christianity_hopes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cristianismo—esperanzas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Forward_with_care">
+          <span class="pr-2">Adelante con cuidado</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 No descuidéis el valor de vuestra herencia espiritual, el río de la verdad que corre a través de los siglos, incluso hasta los tiempos áridos de una era materialista y secular. En todos vuestros dignos esfuerzos por libraros de los credos supersticiosos de épocas pasadas, aseguraos de aferraros a la verdad eterna. ¡Pero ten paciencia! cuando la rebelión actual de la superstición termine, las verdades del evangelio de Jesús persistirán gloriosamente para iluminar un camino nuevo y mejor.
 
@@ -35,3 +59,27 @@ La religión revelada es el elemento unificador de la existencia humana. La reve
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page15.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Christianity_hopes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cristianismo—esperanzas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Forward_with_care">
+          <span class="pr-2">Adelante con cuidado</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

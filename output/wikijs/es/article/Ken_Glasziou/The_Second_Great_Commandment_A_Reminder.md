@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Self_Esteem">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Autoestima</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/What_Am_I">
+          <span class="pr-2">¿Qué soy yo?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En la época de Jesús, los judíos fieles recitaban el **Shemá** dos veces al día. «Escucha, oh Israel, el Señor nuestro Dios es el único Señor, y amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y ​​con todas tus fuerzas». Este fue el primer gran mandamiento mencionado en los evangelios. La Cuarta Revelación de Época actualizó su significado debido a su revelación de la verdadera naturaleza de Dios a través y en la vida de Jesús. Para los judíos, el segundo gran mandamiento era amar a tu prójimo como a ti mismo. La revelación de la Cuarta Época dio un salto cuántico a su significado al actualizarlo de un nivel material a uno espiritual. Nos dijo que debemos amarnos unos a otros como Jesús nos amó.
 
@@ -48,3 +72,28 @@ La esencia de la instrucción de la Quinta Revelación de Época sobre el segund
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page6.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Self_Esteem">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Autoestima</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/What_Am_I">
+          <span class="pr-2">¿Qué soy yo?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

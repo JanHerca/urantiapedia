@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Where_Jesus_Leads_">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dónde nos conduce Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Paper_140_The_Ordination_Is_it_Important">
+          <span class="pr-2">Documento 140. La ordenación: ¿es importante?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «La moralidad es el terreno preexistente esencial de la conciencia personal de Dios, la comprensión personal de la presencia interior del Ajustador, pero esta moralidad no es el origen de la experiencia religiosa ni de la perspicacia espiritual resultante. La naturaleza moral es superanimal pero subespiritual. La moralidad equivale a reconocer el deber, a comprender la existencia del bien y del mal. La zona moral se interpone entre el tipo de mente animal y el tipo de mente humana, al igual que la morontia desempeña su función entre las esferas materiales y las esferas espirituales que alcanza la personalidad». ([LU 196:3.25](/es/The_Urantia_Book/196#p3_25))
 
@@ -47,3 +71,28 @@ El arrepentimiento a veces requiere algo más que un «Dios arrepentido». Sabre
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_1/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Where_Jesus_Leads_">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dónde nos conduce Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Paper_140_The_Ordination_Is_it_Important">
+          <span class="pr-2">Documento 140. La ordenación: ¿es importante?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

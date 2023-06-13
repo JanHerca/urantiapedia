@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Divine_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la verdad divina</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Geophysics_further_prophecies_Continental_Drift_and_Age_of_the_Solar_System">
+          <span class="pr-2">Geofísica: más profecías: la deriva continental y la edad del sistema solar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Ken_Glasziou/Science_in_The_Urantia_Book/462977main_sun_layers_full.jpg">
@@ -126,6 +150,31 @@ Así, SN 1987A proporcionó una notable confirmación del panorama general de la
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_5/page2.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Divine_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la verdad divina</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Geophysics_further_prophecies_Continental_Drift_and_Age_of_the_Solar_System">
+          <span class="pr-2">Geofísica: más profecías: la deriva continental y la edad del sistema solar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

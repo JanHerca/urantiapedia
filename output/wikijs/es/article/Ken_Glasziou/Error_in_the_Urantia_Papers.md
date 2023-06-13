@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:12:18Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Prophetic_Science_in_the_Urantia_Papers_Discussion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ciencia profética en los Documentos de Urantia—Discusión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Nuestra discusión anterior ha presentado líneas de razonamiento que pueden arrojar luz sobre las muchas ocurrencias de errores en los Documentos de Urantia. Que estos errores constituyan un misterio se deriva de la observación por parte de muchos de que los autores de estos Documentos tenían un conocimiento excelente y altamente especializado en múltiples áreas de la ciencia, así como en la religión, la Biblia, la teología y la filosofía.
 
@@ -120,6 +141,28 @@ Tenemos los Documentos y la obligación.
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_5/page12.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Prophetic_Science_in_the_Urantia_Papers_Discussion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ciencia profética en los Documentos de Urantia—Discusión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Science_in_The_Urantia_Book">
+          <span class="pr-2">La ciencia en El libro de Urantia. Profecías inexplicables y errores inexplicables</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Todo conocimiento finito y toda comprensión por parte de las criaturas son relativos. La información y los datos, aunque procedan de fuentes elevadas, sólo son relativamente completos, localmente exactos y personalmente verdaderos.
 > 
@@ -23,3 +44,25 @@ dateCreated: 2022-9-9T8:13:39Z
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Science_in_The_Urantia_Book">
+          <span class="pr-2">La ciencia en El libro de Urantia. Profecías inexplicables y errores inexplicables</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

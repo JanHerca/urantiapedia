@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sydney_Harris/Jesus_would_not_appeal_to_the_Moral_Majority">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Columna de consistencia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Science_and_Historical_Content_of_The_Urantia_Book">
+          <span class="pr-2">Mi odisea de experiencias cumbre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «Nunca es posible hacer progresar la moralidad por medio de la ley o de la fuerza. Es un asunto personal y de libre albedrío, y ha de propagarse por contagio mediante el contacto entre las personas con fragancia moral y aquellas que son menos sensibles a la moral, pero que tienen también en cierta medida el deseo de hacer la voluntad del Padre». ([LU 16:7.9](/es/The_Urantia_Book/16#p7_9))
 
@@ -40,3 +64,28 @@ Sin un Dios que sea amor y la promesa de una vida futura deseable, la adopción 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_6/page5.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sydney_Harris/Jesus_would_not_appeal_to_the_Moral_Majority">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Columna de consistencia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Science_and_Historical_Content_of_The_Urantia_Book">
+          <span class="pr-2">Mi odisea de experiencias cumbre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

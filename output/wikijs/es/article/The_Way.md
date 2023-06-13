@@ -9,6 +9,27 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/All_Our_Cosmologies_Are_Erroneous">
+          <span class="pr-2">¡¡Todas nuestras Cosmologías son Erróneas!!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El que se gobierna a sí mismo es mayor que el que conquista una ciudad. El autodominio es la medida de la naturaleza moral del hombre y el indicador de su desarrollo espiritual. En el antiguo orden ayunabas y orabas; como nueva criatura del renacimiento del espíritu, se te enseña a creer y regocijarte. En el reino del Padre os convertiréis en nuevas criaturas; las cosas viejas han de pasar; he aquí, os muestro cómo todas las cosas han de hacerse nuevas. Y por vuestro amor mutuo debéis convencer al mundo de que habéis pasado de la servidumbre a la libertad, de la muerte a la vida eterna.
 
@@ -23,3 +44,24 @@ Si, pues, el espíritu habita en vosotros, ya no sois esclavos de la carne, sino
 ## Enlaces externos
 
 * Artículo en Innerface Internacional: https://urantia-book.org/archive/newsletters/innerface/vol6_4/page2.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/All_Our_Cosmologies_Are_Erroneous">
+          <span class="pr-2">¡¡Todas nuestras Cosmologías son Erróneas!!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

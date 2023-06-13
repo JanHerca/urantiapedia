@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T18:28:13.933Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/What_is_expected_of_Urantia_Book_Readers_Who_Me">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué se espera de los lectores de El libro de Urantia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Christianitys_Needs">
+          <span class="pr-2">El cristianismo necesita...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Vuestra misión en el mundo está basada en el hecho de que he vivido entre vosotros una vida revelando a Dios, está basada en la verdad de que vosotros y todos los demás hombres sois los hijos de Dios; y esta misión consistirá en la vida que viviréis entre los hombres —en la experiencia real y viviente de amar y servir a los hombres como yo os he amado y servido. Que la fe revele vuestra luz al mundo; que la revelación de la verdad abra los ojos cegados por la tradición; que vuestro servicio amoroso destruya eficazmente los prejuicios engendrados por la ignorancia. ([LU 191:5.3](/es/The_Urantia_Book/191#p5_3))
 
@@ -72,3 +96,28 @@ Este único paso, que implica el desarrollo individual de la conciencia de Dios,
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page18.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/What_is_expected_of_Urantia_Book_Readers_Who_Me">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué se espera de los lectores de El libro de Urantia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Christianitys_Needs">
+          <span class="pr-2">El cristianismo necesita...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

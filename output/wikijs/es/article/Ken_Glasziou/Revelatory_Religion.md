@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T16:45:14.471Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Learning_to_Teach">
+          <span class="pr-2">Aprender a enseñar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Las marcas de la respuesta humana al impulso religioso abarcan las cualidades de nobleza y grandeza. El religioso sincero es consciente de la ciudadanía del universo y es consciente de hacer contacto con fuentes de poder sobrehumano. Está emocionado y lleno de energía con la seguridad de pertenecer a una comunidad superior y ennoblecida de los hijos de Dios. La conciencia de la valía propia se ha visto aumentada por el estímulo de la búsqueda de los objetivos más elevados del universo: las metas supremas.
 
@@ -22,3 +43,25 @@ Una de las características más asombrosas de la vida religiosa es esa paz din�
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_2/page2.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Learning_to_Teach">
+          <span class="pr-2">Aprender a enseñar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

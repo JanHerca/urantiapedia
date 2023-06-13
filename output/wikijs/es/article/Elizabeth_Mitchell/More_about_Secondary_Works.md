@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Elizabeth Mitchell<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Norm_Duval/The_Real_Gospel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El verdadero evangelio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Better_Communication_with_My_Thought_Adjuster">
+          <span class="pr-2">Mejor comunicación con mi ajustador del pensamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El primer número de Innerface contenía un artículo del Sunshine Coast Study Group que citaba referencias de _El Libro de Urantia_ que indicaban que los reveladores tenían la expectativa de que las obras secundarias se convirtieran en un medio importante para difundir su mensaje. Uno de ellos anticipó con ansia el momento en que «el Hijo del Hombre debe ser rescatado de la tumba de la teología tradicional y ser presentado como el Jesús vivo a las iglesias que llevan su nombre». ([LU 196:1.2](/es/The_Urantia_Book/196#p1_2))
 
@@ -39,3 +63,28 @@ Recuerda, el nombre del libro es:
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_5/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Norm_Duval/The_Real_Gospel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El verdadero evangelio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Better_Communication_with_My_Thought_Adjuster">
+          <span class="pr-2">Mejor comunicación con mi ajustador del pensamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Rodan_on_The_Personality_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rodán, sobre la personalidad de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Red_Alert">
+          <span class="pr-2">Alerta roja</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Desde que publicamos esta cláusula como una cita de _El Libro de Urantia_ en el número final de 1997 de Innerface con un punto (punto) después de la palabra «mal», hemos recibido varias reprimendas de diversos grados de intensidad. Así que nuestra disculpa por ese error editorial.
 
@@ -61,3 +85,28 @@ Los editores
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_3/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Rodan_on_The_Personality_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rodán, sobre la personalidad de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Red_Alert">
+          <span class="pr-2">Alerta roja</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

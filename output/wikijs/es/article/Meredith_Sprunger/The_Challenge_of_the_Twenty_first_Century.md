@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Meredith Sprunger<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Favorite_Places_On_Prayer_and_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la oración y la fe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Scandal_of_Current_Spiritual_Cosmology">
+          <span class="pr-2">El escándalo de la cosmología espiritual actual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Vivimos en uno de los grandes puntos de inflexión de la historia. Nuestros tiempos han sido etiquetados de diversas formas como la era posindustrial, posmoderna y poscristiana. Los paradigmas tradicionales de cosmología, valor y realidad han perdido su relevancia y autoridad incuestionables entre la gente contemporánea. Las instituciones sociales que fueron estructuradas por estos conceptos y valores tradicionales se están deteriorando en vitalidad e influencia. Las infraestructuras económicas y políticas de la sociedad se están derrumbando y perdiendo credibilidad y eficacia. Las costumbres que han sido la base del comportamiento humano y los estándares éticos en la sociedad se están desmoronando y la inmoralidad, el crimen y la violencia son endémicos. Las instituciones religiosas que alguna vez fueron los pilares centrales de la sociedad ahora están relegadas a una posición periférica.
 
@@ -29,3 +53,28 @@ El ingrediente singular que traerá significado y unidad a la existencia planeta
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_3/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Favorite_Places_On_Prayer_and_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la oración y la fe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Scandal_of_Current_Spiritual_Cosmology">
+          <span class="pr-2">El escándalo de la cosmología espiritual actual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

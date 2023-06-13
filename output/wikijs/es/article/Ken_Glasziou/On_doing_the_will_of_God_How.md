@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T19:01:14.495Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Mind_and_Soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mente y alma</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Big_Bang_On_or_Off">
+          <span class="pr-2">El Big Bang, ¿encendido o apagado?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ¿Sabías que es posible que el alma humana tome la decisión final de fusionarse con el Padre-Espíritu que mora en ti? Y puedes hacerlo AHORA. ([LU 111:3.2](/es/The_Urantia_Book/111#p3_2))
 
@@ -45,3 +69,28 @@ Entonces, en pocas palabras, hacer la voluntad de Dios significa, con Jesús com
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_3/page7.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Mind_and_Soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mente y alma</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Big_Bang_On_or_Off">
+          <span class="pr-2">El Big Bang, ¿encendido o apagado?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

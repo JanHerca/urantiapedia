@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Ashtaroth_Incident">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El incidente de Ashtaroth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Proofn_Spoof">
+          <span class="pr-2">Prueba y parodia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Cuando las visitas a nuestro sitio web, que tiene el título anterior, comenzaron a superar las quinientas por día, en comparación con las cincuenta visitas por semana de su sitio hermano, "Una introducción a _El Libro de Urantia_", nos vimos obligados a darnos cuenta de que aquí , por fin, es una forma de presentar los Documentos de Urantia a los cristianos con mentalidad académica.
 
@@ -90,3 +114,28 @@ Muy poca de esta literatura está disponible en Australia, pero parece estar dis
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_5/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Ashtaroth_Incident">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El incidente de Ashtaroth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Proofn_Spoof">
+          <span class="pr-2">Prueba y parodia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

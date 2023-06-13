@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/All_Conflict_is_Evil">
+          <span class="pr-2">Todo conflicto es malo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > El lunes por la noche, Tomás se rindió. Pero el martes por la noche, Natanael había conseguido que Rodán creyera en la personalidad del Padre, y había producido este cambio de opinión en el griego mediante las etapas de razonamiento siguientes:
 > 
@@ -31,3 +52,25 @@ dateCreated: 2022-9-9T8:13:39Z
 - Artículo en in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_3/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/All_Conflict_is_Evil">
+          <span class="pr-2">Todo conflicto es malo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

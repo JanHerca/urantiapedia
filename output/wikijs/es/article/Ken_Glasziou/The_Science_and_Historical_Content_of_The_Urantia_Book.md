@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Being_Morally_Fragrant">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesús no apelaría a la Mayoría Moral</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Consistency_Column">
+          <span class="pr-2">Sobre ser moralmente fragante</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Basado en una charla dada en IC96 por Ken Glasziou, Maleny, Australia
 {.is-info}
@@ -100,3 +124,27 @@ En conclusión, veamos lo que dice el libro:
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_6/page6.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Being_Morally_Fragrant">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesús no apelaría a la Mayoría Moral</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Consistency_Column">
+          <span class="pr-2">Sobre ser moralmente fragante</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

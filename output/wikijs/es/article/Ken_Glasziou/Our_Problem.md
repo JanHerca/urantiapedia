@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Notes_on_the_40_day_error">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Notas sobre el error de cuarenta días</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Paul_Jaworski/Whats_at_the_Center_of_the_Earth">
+          <span class="pr-2">Reflejos cósmicos. ¿Qué hay en el centro de la Tierra?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## La materia no conoce la verdad
 
@@ -56,6 +80,31 @@ Otra alternativa son las obras secundarias. Debido a los acontecimientos precede
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_4/page12.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Notes_on_the_40_day_error">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Notas sobre el error de cuarenta días</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Paul_Jaworski/Whats_at_the_Center_of_the_Earth">
+          <span class="pr-2">Reflejos cósmicos. ¿Qué hay en el centro de la Tierra?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

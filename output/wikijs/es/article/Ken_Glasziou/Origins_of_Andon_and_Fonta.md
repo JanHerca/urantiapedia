@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Plan_A_What_was_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Plan A. Cúal era?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/When_did_life_start_on_Urantia">
+          <span class="pr-2">¿Cuándo comenzó la «vida» en Urantia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La sabiduría convencional sobre el origen de la especie humana es que, hace 4 millones de años en África, una pequeña criatura de poco más de un metro de altura emergió del crisol evolutivo y se puso de pie.
 
@@ -40,6 +64,31 @@ Muchos (¿la mayoría?) de los lectores piensan que _El Libro de Urantia_ afirma
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page15.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Plan_A_What_was_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Plan A. Cúal era?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/When_did_life_start_on_Urantia">
+          <span class="pr-2">¿Cuándo comenzó la «vida» en Urantia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

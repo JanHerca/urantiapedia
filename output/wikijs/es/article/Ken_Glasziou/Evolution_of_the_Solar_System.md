@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sydney_Harris/Heaven_wont_be_dull">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El cielo no será aburrido, a pesar de los incrédulos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La historia de _El Libro de Urantia_ sobre el origen de nuestro sistema solar difiere de los relatos populares, ya menudo dogmáticos, de los libros de texto. El pensamiento actual indica que, en cualquier descripción de los orígenes, puede haber un alto grado de incertidumbre.
 
@@ -60,3 +81,25 @@ Un atractor extraño es un gráfico de espacio de fase que traza la trayectoria 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_3/page.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sydney_Harris/Heaven_wont_be_dull">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El cielo no será aburrido, a pesar de los incrédulos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

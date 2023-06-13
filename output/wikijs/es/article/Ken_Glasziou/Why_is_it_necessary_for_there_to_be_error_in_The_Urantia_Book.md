@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T16:26:00.991Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Ken Glasziou<br>© 2005 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Zircons_and_Earth_Moon_Relations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Zirconios y Relaciones Tierra-Luna</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Is_The_Urantia_Book_Believable_Is_it_Logical">
+          <span class="pr-2">¿Es creíble El libro de Urantia? ¿Es lógico?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Introducción
 
@@ -210,6 +234,31 @@ La ocurrencia de un error en _El Libro de Urantia_ no nos da otra opción que to
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_3/page7.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Zircons_and_Earth_Moon_Relations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Zirconios y Relaciones Tierra-Luna</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Is_The_Urantia_Book_Believable_Is_it_Logical">
+          <span class="pr-2">¿Es creíble El libro de Urantia? ¿Es lógico?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

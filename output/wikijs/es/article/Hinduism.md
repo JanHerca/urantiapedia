@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/A_True_Story">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una historia real</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Concepts_of_the_Absolute">
+          <span class="pr-2">Conceptos del Absoluto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «Toda Urantia está esperando la proclamación del mensaje ennoblecedor de Miguel, sin las trabas de las doctrinas y los dogmas acumulados durante diecinueve siglos de contacto con las religiones de origen evolutivo. Ha llegado la hora de presentar al budismo, al cristianismo, al hinduismo, e incluso a los pueblos de todas las religiones, no el evangelio acerca de Jesús, sino la realidad viviente y espiritual del evangelio de Jesús». ([LU 94:12.7](/es/The_Urantia_Book/94#p12_7))
 
@@ -61,3 +85,28 @@ La belleza y la verdad de las enseñanzas del hinduismo fueron capturadas por Je
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/A_True_Story">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una historia real</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Concepts_of_the_Absolute">
+          <span class="pr-2">Conceptos del Absoluto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

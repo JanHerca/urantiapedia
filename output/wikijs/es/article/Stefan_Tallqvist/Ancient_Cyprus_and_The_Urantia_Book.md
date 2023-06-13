@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Stefan Tallqvist<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Discourse_on_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un discurso sobre la religión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georgina_Merrill/Defamation_of_Character">
+          <span class="pr-2">Difamación del carácter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Stefan escribe: Queridos amigos,
 
@@ -56,3 +80,28 @@ Stefan concluye que encuentra que toda la información arqueológica concuerda b
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_4/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Discourse_on_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un discurso sobre la religión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georgina_Merrill/Defamation_of_Character">
+          <span class="pr-2">Difamación del carácter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

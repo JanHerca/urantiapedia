@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/When_is_Epochal_Revelation_not_Epochal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cuándo no es Epochal Revelation?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Supreme_Being">
+          <span class="pr-2">El Ser Supremo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El Día de la Expiación, con su impresionante ritual, se lleva a cabo el día 10 del mes 7 (Tishi) del calendario judío, y es tanto la culminación como la coronación de la adoración sacrificial en el Antiguo Testamento. Descrita en detalle en el Libro del Pentateuco de Levítico, la ceremonia implica tanto el ayuno como la matanza de dos machos cabríos. Uno se ofrece como sacrificio de sangre para limpiar el "Lugar Santo" en el Templo y el altar de la Ofrenda quemada. El segundo se convierte en el chivo expiatorio de los pecados de la nación.
 
@@ -50,3 +74,28 @@ Su gran atractivo es que nos deja «libres de culpa» por nuestra maldad con un 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_3/page6.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/When_is_Epochal_Revelation_not_Epochal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cuándo no es Epochal Revelation?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Supreme_Being">
+          <span class="pr-2">El Ser Supremo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

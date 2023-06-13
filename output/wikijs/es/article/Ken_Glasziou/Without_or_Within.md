@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Walker/What_Are_Dreams_Made_Of">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿De qué están hechos los sueños?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Black_Holes_Re_visited">
+          <span class="pr-2">Agujeros negros revisitados</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Después de haber asistido a la Iglesia Anglicana (Episcopal) de forma regular durante más de sesenta años, fue un poco impactante para mi sistema cuando me peleé con el ministro local por etiquetar a los aviadores del Bomber Command en la Segunda Guerra Mundial como criminales de guerra. Como el 75 % de los aviadores australianos que sirvieron en Gran Bretaña con Bomber Command murieron para garantizar que nuestro ministro tuviera derecho a la libertad de expresión, y un buen número eran amigos con quienes yo serví, sentí la necesidad de ayudarlo a aclarar los hechos. Sin embargo, este señor no se interesó y las cosas fueron de mal en peor, culminando en que dejé de ser miembro de la iglesia. Cinco años más tarde, este ministro fue trasladado a otro lugar y me sentí capaz de volver al redil. No defenderé mis actitudes y acciones ya que, en retrospectiva, fueron algo inmaduras.
 
@@ -79,3 +103,28 @@ Encontrar formas y medios de enseñar o demostrar que la esencia de nuestra reli
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_5/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Walker/What_Are_Dreams_Made_Of">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿De qué están hechos los sueños?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Black_Holes_Re_visited">
+          <span class="pr-2">Agujeros negros revisitados</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

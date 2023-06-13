@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Pragmatism">
+          <span class="pr-2">Sobre el pragmatismo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La inteligencia por sí sola no puede explicar la naturaleza moral. **La moralidad, la virtud, es inherente a la personalidad humana.** La intuición moral, la realización del deber, es un componente de la dotación de la mente humana y está asociada con los otros elementos inalienables de la naturaleza humana: la curiosidad científica y la perspicacia espiritual. La mentalidad del hombre trasciende con mucho la de sus primos animales, pero son sus naturalezas moral y religiosa las que lo distinguen especialmente del mundo animal.
 
@@ -39,3 +60,25 @@ La virtud suprema, entonces, es elegir de todo corazón hacer la voluntad del Pa
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_2/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Pragmatism">
+          <span class="pr-2">Sobre el pragmatismo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

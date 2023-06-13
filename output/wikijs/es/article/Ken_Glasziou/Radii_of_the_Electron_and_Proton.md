@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Science_and_The_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La ciencia y los documentos de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/What_fuels_our_Sun_and_other_Stars">
+          <span class="pr-2">¿Qué alimenta nuestro Sol y otras estrellas?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «Si la masa de la materia se pudiera aumentar hasta que la masa de un electrón equivaliera a una décima parte de una onza [2,8 gramos], y si su tamaño aumentara proporcionalmente, el volumen de dicho electrón sería tan grande como el de la Tierra». ([LU 42:6](/es/The_Urantia_Book/42#p6))
 
@@ -70,3 +94,28 @@ El cínico, el escéptico, el agnóstico, el ateo, el egocéntrico, el que simpl
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Science_and_The_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La ciencia y los documentos de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/What_fuels_our_Sun_and_other_Stars">
+          <span class="pr-2">¿Qué alimenta nuestro Sol y otras estrellas?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

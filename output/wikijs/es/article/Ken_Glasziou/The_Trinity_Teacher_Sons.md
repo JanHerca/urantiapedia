@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Learning_to_Keep_a_Guard_on_Our_Mouths">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aprendiendo a vigilar nuestra boca</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Revelation__why_do_we_have_it">
+          <span class="pr-2">La Revelación de Urantia. ¿Por qué la tenemos?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ¿Quiénes y qué son los Trinity Teacher Sons? Bueno, para empezar, están bastante arriba en el orden de las cosas, pertenecen a la Orden de los Daynales, una de las tres Órdenes de los Hijos de Dios del Paraíso. Los otros dos de esta Orden son los Hijos Creadores y los Hijos Magisteriales.
 
@@ -32,3 +56,28 @@ Es obvio que los urantianos tenemos un largo, largo camino por recorrer antes de
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Learning_to_Keep_a_Guard_on_Our_Mouths">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aprendiendo a vigilar nuestra boca</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Revelation__why_do_we_have_it">
+          <span class="pr-2">La Revelación de Urantia. ¿Por qué la tenemos?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

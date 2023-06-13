@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Learning_to_Teach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aprender a enseñar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Lessons_from_Jesus_Discourse_on_Science">
+          <span class="pr-2">Lecciones del “discurso de ciencia de Jesús”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > El corazón tiene sus razones de las que la razón no sabe nada.
 > Pascal, _Pensamientos IV_
@@ -81,3 +105,28 @@ El cumplimiento de la promesa reveladora depende de nuestra búsqueda consciente
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_2/page5.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Learning_to_Teach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aprender a enseñar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Lessons_from_Jesus_Discourse_on_Science">
+          <span class="pr-2">Lecciones del “discurso de ciencia de Jesús”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

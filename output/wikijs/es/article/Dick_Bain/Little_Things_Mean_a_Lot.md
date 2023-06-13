@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Dick Bain<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Darryl_Reanney/The_Death_of_Forever_A_new_future_for_human_consciousness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La muerte de la eternidad: un nuevo futuro para la conciencia humana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Durante muchos años, los físicos han estado discutiendo si los neutrinos tienen masa o no. Si bien este no es el tipo de cosa que causaría una pelea familiar alrededor de la mesa para la mayoría de nosotros, tiene profundas implicaciones para la cosmología.
 
@@ -47,6 +68,28 @@ La historia geológica 'reciente' de Urantia, tal como se presenta en _El Libro 
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_3/page17.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Darryl_Reanney/The_Death_of_Forever_A_new_future_for_human_consciousness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La muerte de la eternidad: un nuevo futuro para la conciencia humana</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

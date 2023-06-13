@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T23:09:13.189Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Indwelling_Presence_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La presencia de Dios que mora en nosotros</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_the_Philosophy_of_Philosophy">
+          <span class="pr-2">Sobre la filosofía de la filosofía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «_Haz a los demás lo que quieras que te hagan a ti_» ([Tobías 4:15](/es/Bible/Tobías/4#v15); [Mateo 7:12](/es/Bible/Matthew/7# v12); [Lucas 6:3](/es/Bible/Luke/6#v3); [LU 131:2.11](/es/The_Urantia_Book/131#p2_11), [LU 140:3.15](/es/The_Urantia_Book/140#p3_15), etc.)
 
@@ -37,3 +61,28 @@ Y así debemos reconocer claramente que ni la regla de oro ni la enseñanza de l
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page4.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Indwelling_Presence_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La presencia de Dios que mora en nosotros</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_the_Philosophy_of_Philosophy">
+          <span class="pr-2">Sobre la filosofía de la filosofía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

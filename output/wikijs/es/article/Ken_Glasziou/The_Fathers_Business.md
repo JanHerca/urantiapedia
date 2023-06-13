@@ -9,6 +9,27 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Papers_Was_Immediate_Publication_Intended">
+          <span class="pr-2">Los Documentos de Urantia. ¿Estaba prevista su publicación inmediata?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > No podéis permanecer inmóviles en los asuntos del reino eterno. Mi Padre exige que todos sus hijos crezcan en la gracia y en el conocimiento de la verdad. Vosotros, que conocéis estas verdades, debéis producir cada vez más frutos del espíritu y manifestar una devoción creciente al servicio desinteresado de vuestros compañeros servidores. Y recordad que, en la medida en que ayudáis al más humilde de mis hermanos, ese servicio me lo habréis hecho a mí
 > 
@@ -25,3 +46,24 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_6/page2.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Papers_Was_Immediate_Publication_Intended">
+          <span class="pr-2">Los Documentos de Urantia. ¿Estaba prevista su publicación inmediata?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

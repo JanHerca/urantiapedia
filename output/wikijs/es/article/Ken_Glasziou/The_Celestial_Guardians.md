@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Secondary_Midwayers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los Intermedios Secundarios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Uncertainties">
+          <span class="pr-2">Sobre las incertidumbres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Los Guardianes Celestiales se describen como hijos trinidizados por criaturas que han sido abrazados por la Trinidad del Paraíso. Los hijos trinidizados pueden ser de origen único o dual. Algunos, como los Mensajeros Poderosos, son mortales ascendentes fusionados con el Ajustador que ya alcanzaron el Paraíso y el Cuerpo de la Finalidad, pero también pasaron una prueba especial de lealtad universal que los calificó para ser abrazados por la Trinidad del Paraíso e iniciados en el servicio de mensajería.
 
@@ -54,3 +78,28 @@ Hay muchas secciones de _El Libro de Urantia_ que pueden ayudarnos en esos momen
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_5/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Secondary_Midwayers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los Intermedios Secundarios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Uncertainties">
+          <span class="pr-2">Sobre las incertidumbres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

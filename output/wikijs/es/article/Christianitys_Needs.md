@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Obligations_to_the_Christian_Churches_and_other_Religions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Obligaciones para con las iglesias cristianas y otras religiones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/All_things_work_together_for_good_despite">
+          <span class="pr-2">Todas las cosas obran juntas para bien, aunque no lo parezca</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > ¡Qué servicio trascendente prestaría la presente revelación si, a través de ella, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional, y fuera presentado como el Jesús vivo a la iglesia que lleva su nombre y a todas las demás religiones! La hermandad cristiana de creyentes no dudará seguramente en reajustar su fe y sus costumbres de vida para poder «seguir» al Maestro en la manifestación de su vida real de devoción religiosa a la tarea de hacer la voluntad de su Padre, y de consagración al servicio desinteresado de los hombres. ([LU 196:1.2](/es/The_Urantia_Book/196#p1_2))
 
@@ -63,3 +87,27 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page20.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Obligations_to_the_Christian_Churches_and_other_Religions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Obligaciones para con las iglesias cristianas y otras religiones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/All_things_work_together_for_good_despite">
+          <span class="pr-2">Todas las cosas obran juntas para bien, aunque no lo parezca</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

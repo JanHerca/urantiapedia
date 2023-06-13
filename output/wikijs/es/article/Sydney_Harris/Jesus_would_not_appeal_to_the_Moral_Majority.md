@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Sydney Harris<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Christmas_Message_to_all_Urantia_Book_Readers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un mensaje de Navidad de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Being_Morally_Fragrant">
+          <span class="pr-2">Jesús no apelaría a la Mayoría Moral</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Una de las ricas ironías del llamado movimiento «fundamentalista» es que mientras predica a Cristo, se olvida de Jesús.
 
@@ -40,3 +64,28 @@ Sea lo que sea que el fundamentalista moderno afirme ser, en el nombre de Cristo
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_6/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Christmas_Message_to_all_Urantia_Book_Readers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un mensaje de Navidad de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Being_Morally_Fragrant">
+          <span class="pr-2">Jesús no apelaría a la Mayoría Moral</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

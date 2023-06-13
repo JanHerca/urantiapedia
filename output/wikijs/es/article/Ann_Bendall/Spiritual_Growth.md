@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ann Bendall<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Well_Has_It">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bueno, ¿lo tenemos?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Leslie_Wetherhead/Jesus_Respect_for_Our_Personality">
+          <span class="pr-2">El respeto de Jesús por nuestra personalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «_Spiritual growth yields lasting joy, peace which passes all understanding._» ([LU 100:4.3](/es/The_Urantia_Book/100#p4_3))
 
@@ -33,3 +57,28 @@ Esta no es la filosofía de progreso aceptada por nuestra cultura. Para aquellos
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_4/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Well_Has_It">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bueno, ¿lo tenemos?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Leslie_Wetherhead/Jesus_Respect_for_Our_Personality">
+          <span class="pr-2">El respeto de Jesús por nuestra personalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Papers_on_Finite_Reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los documentos de Urantia sobre la realidad finita</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Atonement_Jewish_Origins">
+          <span class="pr-2">La expiación: sus orígenes judíos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «La verdad siempre es una revelación: es una autorrevelación cuando emerge como resultado del trabajo del Ajustador interior, y es una revelación que hace época cuando es presentada mediante la actuación de algún otro agente, grupo o personalidad celestial». ([LU 101:4.3](/es/The_Urantia_Book/101#p4_3))
 
@@ -59,3 +83,28 @@ Este es un requisito esencial para que la elección de la voluntad de Dios en nu
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_3/page5.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Papers_on_Finite_Reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los documentos de Urantia sobre la realidad finita</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Atonement_Jewish_Origins">
+          <span class="pr-2">La expiación: sus orígenes judíos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

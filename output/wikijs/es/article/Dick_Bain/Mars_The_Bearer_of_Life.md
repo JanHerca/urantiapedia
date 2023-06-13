@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Dick Bain<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stanley_McTrusty/Correspondence_from_Stanley_McTrusty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Correspondencia de Stanley McTrusty</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Dick_Bain/Mars_The_Bearer_of_Life/Mars.jpg">
@@ -48,3 +69,25 @@ El jurado científico aún no sabe si existió vida en Marte. Pero si existió v
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_2/page15.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Stanley_McTrusty/Correspondence_from_Stanley_McTrusty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Correspondencia de Stanley McTrusty</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

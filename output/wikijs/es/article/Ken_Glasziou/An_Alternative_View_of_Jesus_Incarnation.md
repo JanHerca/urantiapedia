@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Cooking_up_a_Universe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cocinando un Universo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Papers_on_loving_our_Neighbor">
+          <span class="pr-2">Los documentos de Urantia sobre amar a nuestro prójimo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 [Este artículo apareció en un boletín de la iglesia, autor anónimo y sin derechos de autor. Si se publicara algo similar en otras publicaciones de la iglesia, podría ayudar a preparar el camino para el mensaje del Libro de Urantia.]
 
@@ -39,3 +63,28 @@ Desde que emprendí mi aventura con los evangelios también he aprendido que mi 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Cooking_up_a_Universe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cocinando un Universo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Papers_on_loving_our_Neighbor">
+          <span class="pr-2">Los documentos de Urantia sobre amar a nuestro prójimo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Darryl Reanney<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Self_Fulfilling_Prophecy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Profecía autocumplida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Little_Things_Mean_a_Lot">
+          <span class="pr-2">Pequeñas cosas. Significan mucho: ¿los neutrinos tienen masa?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En este trabajo, el autor hace uso de un modelo del biólogo Paul McLean, que trata el cerebro humano como una estructura compuesta de tres capas de elementos entrelazados, cada uno con su propio software y canales de entrada y salida. La capa más antigua es el cerebro reptiliano. Por encima de esto está la paleocorteza o sistema límbico (paleomamífero), y por encima de eso la neocorteza (neomamífero). [paleo, antiguo; neo, nuevo]
 
@@ -78,3 +102,28 @@ Deberíamos aprender a acercarnos a la muerte con gratitud, viéndola por lo que
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_3/page14.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Self_Fulfilling_Prophecy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Profecía autocumplida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Little_Things_Mean_a_Lot">
+          <span class="pr-2">Pequeñas cosas. Significan mucho: ¿los neutrinos tienen masa?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

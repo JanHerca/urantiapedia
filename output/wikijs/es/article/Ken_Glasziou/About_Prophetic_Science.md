@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Some_Early_history">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los albores de la historia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Science_and_The_Urantia_Papers">
+          <span class="pr-2">La ciencia y los documentos de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dispersos por todo el componente científico encontramos afirmaciones bastante proféticas. Esta inclusión es coherente con una declaración del mandato ([LU 101:4.8](/es/The_Urantia_Book/101#p4_8)) de que se permitía la provisión de fragmentos clave de conocimiento esencial u olvidado. Sin embargo, la inclusión de esta información esotérica contrasta extrañamente con gran parte de la otra ciencia en el libro que habrían conocido incluso los estudiantes de secundaria de la década de 1930, cuando se recibieron los Documentos por primera vez.
 
@@ -49,6 +73,31 @@ Por supuesto, los nuevos lectores deben encontrar su propio camino hacia la verd
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page7.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Some_Early_history">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los albores de la historia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Science_and_The_Urantia_Papers">
+          <span class="pr-2">La ciencia y los documentos de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Robert Walker<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Uncertainties">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre las incertidumbres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Without_or_Within">
+          <span class="pr-2">Fuera o dentro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Hay por lo menos doce páginas en _El Libro de Urantia_ que hacen mención de sueños, desde el sueño fantasma ordinario del hombre antiguo hasta los sueños extraordinarios de José y el apóstol Pedro. La mayoría de estas referencias desacreditan el sueño ordinario de sus poderes proféticos al tiempo que reconocen su influencia supermaterializadora. Se critica a los sueños por usarse para sugerir mucho más sobre la vida de lo que contienen, como los hombres son propensos a hacer. «_La interpretación de los sueños es ampliamente un sistema supersticioso e infundado de especulaciones ignorantes y fantásticas_». ([LU 150:3.9](/es/The_Urantia_Book/150#p3_9)) Es necesario aclarar algunas de las implicaciones de las referencias aparentemente dispares a los sueños en el libro.
 
@@ -53,3 +77,28 @@ Por lo tanto, parecería que la elección intelectual de aceptar cualquier siste
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_5/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Uncertainties">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre las incertidumbres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Without_or_Within">
+          <span class="pr-2">Fuera o dentro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

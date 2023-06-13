@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Shroud_of_Turin__An_Update">
+          <span class="pr-2">Novedades de la Sábana Santa de Turín</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > La unidad de la experiencia religiosa de un grupo social o racial proviene de la naturaleza idéntica del fragmento de Dios que reside en el individuo. Esta partícula divina en el hombre es la que origina su interés generoso por el bienestar de los demás hombres. Pero, puesto que la personalidad es única —no hay dos mortales que sean iguales— la consecuencia inevitable es que no hay dos seres humanos que puedan interpretar de la misma manera las directrices y los impulsos del espíritu de la divinidad que vive en sus mentes.
 >
@@ -35,3 +56,25 @@ dateCreated: 2022-9-9T8:13:39Z
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_5/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Shroud_of_Turin__An_Update">
+          <span class="pr-2">Novedades de la Sábana Santa de Turín</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

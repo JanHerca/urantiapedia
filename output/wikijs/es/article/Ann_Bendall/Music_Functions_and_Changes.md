@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Who_was_Rodan">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Quién fue Rodan?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sue_Tennant/The_Urantia_Book_Why_are_its_readers_challenged">
+          <span class="pr-2">El libro de Urantia: ¿¿¿Por qué sus lectores se ven retados con más de 2000 páginas de hechos profusos y nombres prodigiosos???</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Una forma de arte que ha cambiado dramáticamente en los últimos 100 años, no necesariamente en su producción pero ciertamente en su apreciación, es la música. Hasta el siglo XX la cantidad de tiempo dedicado a escuchar música era insignificante. Sólo los ricos podían permitirse el lujo de la música. El resto de la civilización planeó su música cuidadosamente y esperaba con ansias la boda, la muerte o las pocas ocasiones festivas durante el año para disfrutarla.
 
@@ -54,3 +78,28 @@ La música puede pasar desapercibida para nuestro oído consciente, pero nunca p
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_6/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Who_was_Rodan">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Quién fue Rodan?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sue_Tennant/The_Urantia_Book_Why_are_its_readers_challenged">
+          <span class="pr-2">El libro de Urantia: ¿¿¿Por qué sus lectores se ven retados con más de 2000 páginas de hechos profusos y nombres prodigiosos???</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

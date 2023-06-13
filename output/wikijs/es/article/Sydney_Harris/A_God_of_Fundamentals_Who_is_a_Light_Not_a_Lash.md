@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Sydney Harris<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Beliefs_and_Values">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Creencias y valores</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jacques_Dupont/Consistency_in_The_Urantia_Book_Personality">
+          <span class="pr-2">Coherencia en El libro de Urantia: personalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Todo este argumento y controversia sobre la evolución del hombre, y ningún pensamiento sobre la evolución de Dios. Los fundamentalistas y los modernistas disputan el origen de las especies, y no consideran cómo nuestra especie ha cambiado su visión de Dios desde los primeros tiempos.
 
@@ -35,3 +59,28 @@ Dios crece, a medida que nosotros crecemos, porque refleja en lo que nos convert
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_2/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Beliefs_and_Values">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Creencias y valores</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jacques_Dupont/Consistency_in_The_Urantia_Book_Personality">
+          <span class="pr-2">Coherencia en El libro de Urantia: personalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

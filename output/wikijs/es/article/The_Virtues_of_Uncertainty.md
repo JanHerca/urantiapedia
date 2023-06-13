@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Question_Time_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tiempo de preguntas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Paving_the_Way">
+          <span class="pr-2">Pavimentando el camino</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Mucho antes de llegar a Havona, los hijos ascendientes del espacio y el tiempo, probados en su fe y convertidos en grandes viajeros, «_han aprendido a deleitarse con las incertidumbres, a enriquecerse con las decepciones, a entusiasmarse con los fracasos aparentes, a estimularse en presencia de las dificultades, a mostrar un valor indomable frente a la inmensidad, y a ejercer una fe invencible cuando se enfrentan con el desafío de lo inexplicable. Hace mucho tiempo que el grito de guerra de estos peregrinos se ha vuelto: «En unión con Dios, nada —absolutamente nada— es imposible»_» ([LU 26:5.3](/es/The_Urantia_Book/26#p5_3))
 
@@ -33,3 +57,28 @@ La transición a la vida en el espíritu no tiene por qué ser demasiado traumá
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_3/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Question_Time_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tiempo de preguntas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Paving_the_Way">
+          <span class="pr-2">Pavimentando el camino</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

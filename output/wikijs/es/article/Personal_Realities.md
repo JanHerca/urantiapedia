@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Mind_and_Consciousness">
+          <span class="pr-2">Mente y conciencia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «El espíritu es la realidad personal fundamental en los universos, y la personalidad es fundamental para todas las experiencias progresivas con la realidad espiritual. Cada fase de la experiencia de la personalidad en cada nivel sucesivo de progresión universal rebosa de indicios que conducen al descubrimiento de atractivas realidades personales. El verdadero destino del hombre consiste en crear metas nuevas y espirituales, y luego en responder a los atractivos cósmicos de esas metas celestiales que tienen un valor no material.» ([LU 12:9.1](/es/The_Urantia_Book/12#p9_1))
 
@@ -32,3 +53,25 @@ Consulte el artículo "Lo que realmente sobrevive" para obtener información sob
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_1/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Mind_and_Consciousness">
+          <span class="pr-2">Mente y conciencia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

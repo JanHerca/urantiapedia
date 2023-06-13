@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T01:53:28.853Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ann Bendall<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/As_Jesus_Passed_By">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Al pasar Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Keys_to_the_Kingdom">
+          <span class="pr-2">Las Llaves del Reino</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Los humanos simplemente se resisten naturalmente al cambio. Una vez que nos hemos acostumbrado a una determinada visión de nosotros mismos y de quienes nos rodean, podemos aterrorizarnos y luchar enérgicamente contra cualquier cosa nueva o diferente. Esta resistencia al cambio es un fenómeno universal, y cuando nos enfrentamos al cambio, nos asustamos, lo que en realidad intensifica nuestro conflicto. El cambio es una amenaza, simplemente porque nos desafía, nos hace cuestionar la idoneidad de nuestras habilidades para hacer frente al nuevo entorno producido por el cambio, y nos saca de la complacencia y el letargo. El cambio también, la mayoría de las veces, nos obliga a aprender nuevos comportamientos y, a menudo, a descartar viejas creencias y valores.
 
@@ -34,3 +58,27 @@ Y así continúa todo el camino hacia el Paraíso, la lenta rutina evolutiva de 
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_2/page3.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/As_Jesus_Passed_By">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Al pasar Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Keys_to_the_Kingdom">
+          <span class="pr-2">Las Llaves del Reino</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

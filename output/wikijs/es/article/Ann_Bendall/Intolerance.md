@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ann Bendall<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/A_Urantia_Cult">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un culto Urantiano</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Book_why_is_it_so_strange">
+          <span class="pr-2">El libro de Urantia. ¿Por qué es tan extraño?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La intolerancia—falta de respeto por las prácticas y creencias ajenas a las propias—es uno de los seis _venenos mentales_ que «interfieren tremendamente con el progreso espiritual del alma en evolución».
 
@@ -61,3 +85,28 @@ Hacemos esto estando en comunicación constante con nuestro Ajustador residente,
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_5/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/A_Urantia_Cult">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un culto Urantiano</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Book_why_is_it_so_strange">
+          <span class="pr-2">El libro de Urantia. ¿Por qué es tan extraño?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Convergence_The_Science_Content_of_The_Urantia_Book">
+          <span class="pr-2">Convergencia: el contenido científico de El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «Las razas mortales figuran como representantes de la orden más humilde de la creación inteligente y personal. Vosotros, los mortales, sois divinamente amados, y cada uno de vosotros puede elegir aceptar el destino seguro de una experiencia gloriosa, pero todavía no pertenecéis por naturaleza a la orden divina; sois totalmente mortales. Seréis considerados como hijos ascendentes en el instante en que tenga lugar la fusión, pero antes del acontecimiento de la amalgamación final del alma mortal sobreviviente con algún tipo de espíritu eterno e inmortal, el estado de los mortales del tiempo y del espacio es el de hijos por la fe.»
 > 
@@ -27,3 +48,25 @@ dateCreated: 2022-9-9T8:13:38Z
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_1/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Convergence_The_Science_Content_of_The_Urantia_Book">
+          <span class="pr-2">Convergencia: el contenido científico de El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

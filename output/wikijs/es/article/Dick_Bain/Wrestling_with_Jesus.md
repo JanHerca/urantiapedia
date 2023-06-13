@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Dick Bain<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Matthew_Block/Attunement_Equals_Peace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sintonización es igual a paz</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Masami_Saionji/On_Seeing_Others_as_Benefactors">
+          <span class="pr-2">Sobre ver a los demás como benefactores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En el libro de Génesis en el Antiguo Testamento, leemos de Jacob luchando toda la noche con un hombre que podría ser un ángel o tal vez Dios. He tenido mi propio combate de lucha libre; fue con el concepto de Jesús.
 
@@ -69,3 +93,28 @@ De la misma manera, las recompensas espirituales de una relación con Miguel/Jes
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_3/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Matthew_Block/Attunement_Equals_Peace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sintonización es igual a paz</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Masami_Saionji/On_Seeing_Others_as_Benefactors">
+          <span class="pr-2">Sobre ver a los demás como benefactores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

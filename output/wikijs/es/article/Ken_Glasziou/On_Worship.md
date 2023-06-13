@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Way_Jesus_Baptismal_Decisions_Aims_and_Motivs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El camino: decisiones, objetivos y motivos bautismales de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Brahma_Breathes">
+          <span class="pr-2">Brahma respira</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _El Libro de Urantia_ nos informa que la calidad de nuestra adoración está determinada por la profundidad de nuestra percepción que, a su vez, varía en proporción a la profundidad de nuestro conocimiento de Dios. De ello se deduce que nuestra experiencia de adoración puede mejorarse de dos maneras: en primer lugar, aumentando nuestra comprensión de nosotros mismos y, en segundo lugar, aumentando nuestro conocimiento de Dios. Así que empecemos por intentar saber más sobre nosotros mismos.
 
@@ -124,3 +148,28 @@ Obviamente, la idea se nos ha dado por una razón: ¿no es solo una charla ocios
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_1/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Way_Jesus_Baptismal_Decisions_Aims_and_Motivs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El camino: decisiones, objetivos y motivos bautismales de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Brahma_Breathes">
+          <span class="pr-2">Brahma respira</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

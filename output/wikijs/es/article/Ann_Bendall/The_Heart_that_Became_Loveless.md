@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rob_Crickett/Heart_Alpha_and_Omega_of_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Corazón —el Alfa y Omega de la Espiritualidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Jealousy_the_Heart_Poison_How_did_Jesus_deal_with_it">
+          <span class="pr-2">¡Los celos, el veneno del corazón! ¿Cómo lo enfrentó Jesús?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _El Libro de Urantia_ brinda una gran cantidad de información sobre Judas: su infancia, características de personalidad y estrategias de afrontamiento al lidiar con los eventos de la vida. Los reveladores, al indicar que un atributo o característica en particular era un obstáculo para el desarrollo espiritual de un individuo (en particular, Judas), describen de dónde se originó y dan consejos sobre cómo superarlo (para aquellos lectores que puedan reconocer alguna similitud en sí mismos).
 
@@ -72,3 +96,27 @@ Y el veredicto de Jesús sobre la forma en que Judas sería juzgado se refleja e
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_3/page9.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rob_Crickett/Heart_Alpha_and_Omega_of_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Corazón —el Alfa y Omega de la Espiritualidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Jealousy_the_Heart_Poison_How_did_Jesus_deal_with_it">
+          <span class="pr-2">¡Los celos, el veneno del corazón! ¿Cómo lo enfrentó Jesús?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

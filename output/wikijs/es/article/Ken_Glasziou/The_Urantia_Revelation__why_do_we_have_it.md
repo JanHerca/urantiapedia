@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Trinity_Teacher_Sons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los Hijos Maestros de la Trinidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Mind_over_Matter">
+          <span class="pr-2">La mente sobre la materia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Obviamente, como sociedad, los urantianos hemos estropeado bastante bien las cosas. Y tal vez, con el advenimiento de las armas nucleares, las posibilidades de que desaparezcan son relativamente altas. Por el contrario, puede haber algunas señales de que ahora hemos doblado la esquina y realmente nos dirigimos hacia «Luz y vida» como un objetivo lejano.
 
@@ -45,3 +69,27 @@ Lo que también es seguro es que a medida que crezca la confianza en la realidad
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page8.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Trinity_Teacher_Sons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los Hijos Maestros de la Trinidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Mind_over_Matter">
+          <span class="pr-2">La mente sobre la materia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

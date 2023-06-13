@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Faith_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La fe de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Purpose">
+          <span class="pr-2">Propósito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El fracaso parcial de la Cuarta Revelación de Época que finalmente condujo al estancamiento actual del cristianismo, fue provocado por dos tergiversaciones importantes del mensaje de Jesús a la humanidad. Uno de estos fue en realidad la razón principal por la que el mensaje sobrevivió: la introducción del concepto de que la muerte de Jesús en la cruz de alguna manera indujo a Dios a perdonar a la humanidad por su pecado personal y heredado.
 
@@ -109,3 +133,28 @@ Para los lectores sinceros y dedicados de los Documentos de Urantia, el futuro s
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_6/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Faith_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La fe de Jesús</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Purpose">
+          <span class="pr-2">Propósito</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

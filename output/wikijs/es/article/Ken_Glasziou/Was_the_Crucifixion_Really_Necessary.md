@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Urantia Book Fellowship<br>© 2005 Olga López, por la traducción</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Unbroken_Communion_with_our_Thought_Adjuster">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comunión ininterrumpida con nuestro Ajustador del Pensamiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Adam_and_Eve">
+          <span class="pr-2">Adán y Eva</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ¿Era la crucifixión realmente necesaria? Eso depende de la teología de cada uno. Para aquellos que suscriben la doctrina de la expiación del pecado original, ciertamente sí. La necesidad psicológica y profunda de expiación puede tener sus raíces en las costumbres de «restitución» de las sociedades primitivas, donde el castigo ritual por equivocaciones reales o imaginarias era obligatorio para la familia o tribu de la víctima (una muerte por otra, ojo por ojo, etc.) El pago de alguna forma de compensación como medio de evadir el daño físico requerido por el sistema de «restitución» es un desarrollo evolutivo natural que podría haber llevado también al concepto de expiación para apaciguar la ira de los dioses.
 
@@ -68,3 +92,27 @@ Estas razones me bastan. No había otro curso posible de acción. Rezo para pode
 * Traducción de Olga López: https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Crucifixion.pdf
 
 * https://es.wikipedia.org/wiki/Ireneo_de_Lyon
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Unbroken_Communion_with_our_Thought_Adjuster">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comunión ininterrumpida con nuestro Ajustador del Pensamiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Adam_and_Eve">
+          <span class="pr-2">Adán y Eva</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

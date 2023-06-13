@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jacques_Tetrault/Personal_Religion_A_Sign_of_the_Times">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La religión personal: un signo de los tiempos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Self_Esteem">
+          <span class="pr-2">Autoestima</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 A mi alrededor veo gente de organizaciones cristianas trabajando en el campo, socorriendo a los necesitados, a los desafortunados, a los desamparados, a los oprimidos, tal como lo preconiza el Maestro. Estas son personas de organizaciones como el Ejército de Salvación, St. Vincent's de Paul, Meals on Wheels para los ancianos y los inválidos, los comedores populares para los que están deprimidos y muchos otros. Pero todavía tengo que ver u oír acerca de alguna operación similar específicamente atribuible a los pertenecientes al movimiento Urantia. No hay duda de que existen en alguna parte. Si conoce uno, ¿qué le parece escribir un currículum para Innerface?
 
@@ -26,3 +50,28 @@ Nosotros, los urantianos, somos buenos para producir boletines informativos edif
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jacques_Tetrault/Personal_Religion_A_Sign_of_the_Times">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La religión personal: un signo de los tiempos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Self_Esteem">
+          <span class="pr-2">Autoestima</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

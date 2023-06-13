@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Urantia Book Fellowship<br>© 2005 Olga López, por la traducción</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Pity_my_Simplicity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Lástima de mi simplicidad»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La mayoría de lectores de los documentos de Urantia experimentan un sentimiento de regocijo y alivio cuando conocen que incluso aquellos urantianos en los parpadea el más débil destello de fe tendrán la oportunidad de continuar hacia los mundos de las mansiones tras la muerte física. Podemos incluso tener la impresión de que, excepto por un cuerpo y una mente mejores, reanudamos nuestro camino en el primer mundo de las mansiones exactamente donde lo dejamos aquí en Urantia. Pero, ¿qué sobrevive realmente de nuestra vida en Urantia?
 
@@ -114,3 +135,25 @@ Hay dos aproximaciones para comprender lo que significa «espiritual». Puesto q
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_1/page15.html
 * Traducción de Olga López: https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Sobrevive.pdf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Pity_my_Simplicity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Lástima de mi simplicidad»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

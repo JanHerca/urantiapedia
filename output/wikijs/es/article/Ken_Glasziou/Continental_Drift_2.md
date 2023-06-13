@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T04:49:50.339Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Continental_Drift_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Deriva continental</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Continental_Drift_3_Secondary_Effects">
+          <span class="pr-2">Deriva continental 3—Efectos secundarios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La naturaleza profética del relato de _El Libro de Urantia_ sobre la deriva continental y algunas de sus consecuencias ahora han recibido aprobación en un libro del profesor de geología, M.A.S. McMenamin, titulado «El jardín de Ediacara», informado por Larry Mullins en el reciente "Spiritual Fellowship Journal .” Las siguientes citas del libro de McMenamin siguieron a la atención del autor por el contenido de _El Libro de Urantia_:
 
@@ -36,3 +60,28 @@ Obviamente, hay muchas secciones en el libro que deben permanecer tal como se pr
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page27.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Continental_Drift_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Deriva continental</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Continental_Drift_3_Secondary_Effects">
+          <span class="pr-2">Deriva continental 3—Efectos secundarios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

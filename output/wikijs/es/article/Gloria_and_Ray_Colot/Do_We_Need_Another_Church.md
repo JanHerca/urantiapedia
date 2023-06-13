@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Gloria and Ray Colot<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Religions_of_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las religiones del hombre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Turning_Point">
+          <span class="pr-2">¡¡Punto de inflexión!!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El artículo de Dick Bain en el Innerface de marzo/abril nos entusiasmó a todos con su idea de la iglesia de Urantia. Después de unos tres días de meditar sobre este pensamiento y hablar con otros lectores que también estaban «entusiasmados», lentamente dimos un giro radical. Estos son los puntos que me vinieron a la mente.
 
@@ -39,3 +63,28 @@ El artículo de Dick Bain en el Innerface de marzo/abril nos entusiasmó a todos
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page15.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Religions_of_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las religiones del hombre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Turning_Point">
+          <span class="pr-2">¡¡Punto de inflexión!!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

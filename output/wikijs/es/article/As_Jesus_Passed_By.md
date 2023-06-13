@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T03:56:17.001Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Creationism_Evolution_and_The_Urantia_Book">
+          <span class="pr-2">Creacionismo, evolución y El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Jesús sembraba la alegría por dondequiera que iba. Estaba lleno de benevolencia y de verdad. Sus compañeros nunca dejaron de maravillarse por las palabras agradables que salían de su boca. Podéis cultivar la gentileza, pero la dulzura es el aroma de la amistad que emana de un alma saturada de amor.La bondad impone siempre el respeto, pero cuando está desprovista de agrado, a menudo repele el afecto. 
 > 
@@ -35,3 +56,24 @@ dateCreated: 2022-09-26T03:56:17.001Z
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_3/page2.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Creationism_Evolution_and_The_Urantia_Book">
+          <span class="pr-2">Creacionismo, evolución y El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

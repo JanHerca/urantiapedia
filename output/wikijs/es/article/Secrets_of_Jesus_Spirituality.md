@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T21:17:53.801Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Did_Jesus_really_need_to_be_crucified">
+          <span class="pr-2">¿Jesús realmente necesitaba ser crucificado?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El secreto de su (Jesús) vida religiosa sin igual fue esta conciencia de la presencia de Dios; y lo alcanzó mediante la oración inteligente y la adoración sincera, la comunión inquebrantable con Dios, y no mediante direcciones, voces, visiones o prácticas religiosas extraordinarias.
 
@@ -21,3 +42,29 @@ Jesús confiaba en Dios tanto como el niño confía en un padre. Tenía una prof
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_2/page2.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Did_Jesus_really_need_to_be_crucified">
+          <span class="pr-2">¿Jesús realmente necesitaba ser crucificado?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+/td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

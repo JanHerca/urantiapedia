@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/The_Visible_Universe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El universo visible</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Al detallar su relato de la vida y la evolución de la tierra en nuestro planeta en los Documentos de Urantia [LU 57](/es/The_Urantia_Book/57), [58](/es/The_Urantia_Book/58), [59](/es/The_Urantia_Book/59 ) y [60](/es/The_Urantia_Book60), sus autores han abrazado de todo corazón el concepto de deriva continental, una idea promovida por primera vez por Alfred Wegener en 1910. Quite la deriva continental de estos cuatro Documentos y colapsarán como un montón irracional.
 
@@ -59,6 +80,28 @@ Entre muchas otras cosas, afirman: «_La existencia de Dios nunca puede probarse
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_6/page14.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/The_Visible_Universe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El universo visible</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

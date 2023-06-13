@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Life_on_Planet_Earth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La vida en el planeta Tierra</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Part_4_of_The_Urantia_Book_is_the_real_and_ideal_revelation_of_Paper_1">
+          <span class="pr-2">La Parte 4 de El libro de Urantia es la «revelación real e ideal» mencionada en el Documento 1</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «La regla de los Altísimos... es una regla diseñada para fomentar el mayor bien para el mayor número». ([LU 134:5.4](/es/The_Urantia_Book/134#p5_4))
 
@@ -67,3 +91,28 @@ En cierto modo, los lectores del Libro de Urantia han tratado los Documentos de 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_6/page12.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Life_on_Planet_Earth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La vida en el planeta Tierra</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Part_4_of_The_Urantia_Book_is_the_real_and_ideal_revelation_of_Paper_1">
+          <span class="pr-2">La Parte 4 de El libro de Urantia es la «revelación real e ideal» mencionada en el Documento 1</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

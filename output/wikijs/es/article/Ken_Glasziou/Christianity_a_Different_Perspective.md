@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Favorite_Places_Religion_is_a_Spiritual_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La religión es una experiencia espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Human_Sources_and_The_Urantia_Book">
+          <span class="pr-2">Las fuentes humanas de El libro de Urantia. La fuerza nuclear fuerte y las supernovas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Como la mayoría de los procesos asociados con la sociedad evolutiva en esta Tierra, la historia de la religión occidental ha estado dominada por la hormona sexual masculina, la testosterona. Uno de los principales fundadores del cristianismo, Pablo, tenía muy poco. Otro, Agustín de Hipona, conocido también como San Agustín, padecía un exceso. Los efectos de los niveles de testosterona sobre su funcionamiento mental parecen haberse combinado de una manera curiosa para causar una división en la teología cristiana hacia dos extremos en la interpretación de la encarnación de Jesús. Un extremo hizo que la vida de Jesús y su revelación divina de la naturaleza de Dios tuvieran un significado primordial. El otro prácticamente ignoró tanto la vida de Jesús como su enseñanza, atribuyendo importancia sólo a su muerte en la cruz como el cordero simbólico sacrificado por el pecado del mundo.
 
@@ -44,6 +68,31 @@ Hasta el presente, los hombres cristianos se han contentado con excusar su compo
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page3.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Favorite_Places_Religion_is_a_Spiritual_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La religión es una experiencia espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Human_Sources_and_The_Urantia_Book">
+          <span class="pr-2">Las fuentes humanas de El libro de Urantia. La fuerza nuclear fuerte y las supernovas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

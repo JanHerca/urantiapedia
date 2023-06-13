@@ -9,6 +9,30 @@ dateCreated: 2022-09-27T01:26:18.156Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Errors_in_the_Science_of_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Errores en la ciencia de los documentos de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Building_upon_the_Quaker_experience">
+          <span class="pr-2">Construyendo sobre la Experiencia Cuáquera</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El movimiento cuáquero fue fundado hace 350 años. Tenía sorprendentes similitudes con las principales enseñanzas de los Documentos de Urantia. Una rama del cristianismo, los cuáqueros se dedicaron a vivir de acuerdo con la "Luz interior", lo que significa una aprehensión interior directa del Dios interior, nuestro Ajustador del pensamiento. Operaban sin credos, clero u otros cuerpos eclesiásticos. Sus líderes fundadores creían que este enfoque experimental para el descubrimiento de Dios eventualmente conduciría a la purificación de toda la cristiandad.
 
@@ -95,3 +119,28 @@ En pocas palabras, el movimiento cuáquero se vino abajo porque promovió los te
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_3/page8.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Errors_in_the_Science_of_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Errores en la ciencia de los documentos de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Building_upon_the_Quaker_experience">
+          <span class="pr-2">Construyendo sobre la Experiencia Cuáquera</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

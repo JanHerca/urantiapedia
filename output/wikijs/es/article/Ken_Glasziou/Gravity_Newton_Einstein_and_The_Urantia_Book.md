@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library<br>© 2006 Olga López, traducción</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Fuzzy_Thinking">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la lógica difusa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > El aumento de la masa en la materia es igual al aumento de la energía dividido por el cuadrado de la velocidad de la luz. En un sentido dinámico, el trabajo que puede realizar la materia en reposo es igual a la energía gastada en reunir sus partes desde el Paraíso, menos la resistencia de las fuerzas superadas en el tránsito y la atracción ejercida por las partes de la materia unas sobre las otras. [LU 42:4.11](/es/The_Urantia_Book/42#p4_11)
 
@@ -60,3 +81,25 @@ Todavía es pronto y sólo el tiempo dirá si estas ideas se comprobarán. Sus a
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Fuzzy_Thinking">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la lógica difusa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

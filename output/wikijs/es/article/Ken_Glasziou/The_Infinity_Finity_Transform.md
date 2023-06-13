@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Editorial_Windows_of_Opportunity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ventanas de Oportunidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_Trimble/On_Completion">
+          <span class="pr-2">Al finalizar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En los últimos años, se ha desarrollado un fuerte interés en la descendencia teológica de una rama poco conocida de la filosofía conocida como filosofía del proceso. Este desarrollo debe mucho a Charles Hartshorne, antiguo alumno y más tarde asociado de Alfred North Whitehead, el verdadero fundador de la filosofía de procesos moderna. Whitehead, dicho sea de paso, también ganó fama como matemático y lógico, siendo el autor, con Bertrand Russell, de una enorme obra clásica, Principia Mathematica.
 
@@ -91,3 +115,28 @@ Se puede encontrar más información en el Centro de Estudios de Procesos. Su di
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_2/page5.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Editorial_Windows_of_Opportunity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ventanas de Oportunidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_Trimble/On_Completion">
+          <span class="pr-2">Al finalizar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

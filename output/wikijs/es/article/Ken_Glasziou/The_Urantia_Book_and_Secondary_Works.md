@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Morality_Motive_and_Virtue">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Moralidad, motivo y virtud</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Beyond_Fundamentalism">
+          <span class="pr-2">Más allá del fundamentalismo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «_El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que ***se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina***. Una visión así nueva y justa de la moralidad atraerá todo lo que hay de bueno en la mente del hombre y desafiará lo que hay de mejor en el alma humana._» ([LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
 
@@ -72,3 +96,28 @@ Creo que el mayor potencial para difundir el mensaje esencial sobre la verdadera
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_3/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Morality_Motive_and_Virtue">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Moralidad, motivo y virtud</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Beyond_Fundamentalism">
+          <span class="pr-2">Más allá del fundamentalismo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Ordination_Sermon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El sermón de la ordenación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Prayer">
+          <span class="pr-2">Oración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > 
 «Lo que yo os pido, a mis apóstoles, es la unidad espiritual —y eso lo podéis experimentar en la alegría de vuestra dedicación unida a hacer de todo corazón la voluntad de mi Padre que está en los cielos. **No necesitáis tener el mismo punto de vista, sentir de la misma manera o ni siquiera pensar de la misma manera, para ser iguales espiritualmente.**» ([LU 141:5.1](/es/The_Urantia_Book/141#p5_1))
@@ -48,3 +72,28 @@ No puedes ser ni siquiera un poco fanático de un equipo de fútbol, ​​o de 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_1/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Ordination_Sermon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El sermón de la ordenación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Prayer">
+          <span class="pr-2">Oración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

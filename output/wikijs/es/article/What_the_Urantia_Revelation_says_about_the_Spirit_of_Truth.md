@@ -9,6 +9,30 @@ dateCreated: 2022-09-27T01:12:27.885Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Did_Jesus_really_need_to_be_crucified">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Jesús realmente necesitaba ser crucificado?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Role_of_miracles_resurrection_forgiveness_spread_Christianity">
+          <span class="pr-2">El papel relativo de los milagros, la resurrección y el perdón de los pecados en la rápida expansión del cristianismo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Cuando el Hijo del Hombre haya terminado su obra en la Tierra, el Espíritu viviente de la Verdad será derramado sobre **todo el género humano**. Los que reciban este espíritu no conocerán nunca la sed espiritual." ([LU 162:6.1](/es/The_Urantia_Book/162#p6_1))
 
@@ -107,3 +131,27 @@ Sin embargo, ten cuidado de no cometer el error de esperar volverte intelectualm
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_2/page8.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Did_Jesus_really_need_to_be_crucified">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Jesús realmente necesitaba ser crucificado?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Role_of_miracles_resurrection_forgiveness_spread_Christianity">
+          <span class="pr-2">El papel relativo de los milagros, la resurrección y el perdón de los pecados en la rápida expansión del cristianismo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

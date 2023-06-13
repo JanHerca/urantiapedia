@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Deep_Stuff_on_Souls">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cosas profundas sobre las almas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Necessity_for_Going_Forward_Backwardly">
+          <span class="pr-2">La necesidad de ir hacia adelante, hacia atrás</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Curiosamente, los antiguos griegos plantaron el germen de un concepto que creció y floreció como el concepto de «posibilidades». Platón lo resumió como «ideas» que existen en sí mismas de las que deriva todo lo demás.
 
@@ -32,3 +56,27 @@ Por lo tanto, en virtud del camino a través del cual nos llegaron los Documento
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_6/page6.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Deep_Stuff_on_Souls">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cosas profundas sobre las almas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Necessity_for_Going_Forward_Backwardly">
+          <span class="pr-2">La necesidad de ir hacia adelante, hacia atrás</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

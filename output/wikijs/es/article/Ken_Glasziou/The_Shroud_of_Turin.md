@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jesus_ignored_the_great_men_of_earth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesús explicó que había ignorado deliberadamente a los grandes hombres de la Tierra</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/At_Caesarea_Philippi">
+          <span class="pr-2">En Cesarea de Filipo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La más conocida de todas las reliquias cristianas, la Sábana Santa de Turín, es un sudario funerario que lleva la imagen negativa más tenue de un hombre crucificado cuyo cuerpo presenta todas las marcas, heridas, contusiones y manchas de sangre consistentes con los registros que tenemos de la flagelación y muerte de Jesús. crucifixión de hace casi dos mil años.
 
@@ -89,3 +113,27 @@ A pesar de la debacle de la datación por carbono, todavía parece posible que e
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_4/page9.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jesus_ignored_the_great_men_of_earth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesús explicó que había ignorado deliberadamente a los grandes hombres de la Tierra</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/At_Caesarea_Philippi">
+          <span class="pr-2">En Cesarea de Filipo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

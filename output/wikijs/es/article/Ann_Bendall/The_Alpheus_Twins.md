@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ann Bendall<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Is_there_Certainty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Hay certeza?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Are_the_Urantia_Papers_the_Divine_Word_of_God">
+          <span class="pr-2">¿Son los Documentos de Urantia la palabra divina de Dios?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Los apóstoles deseaban apasionadamente que el 'reino' fuera uno terrenal que vendría con poder y gloria, y Santiago y Juan Zebedeo se percibieron como si estuvieran en una posición de honor, los primeros embajadores elegidos. Regresar de su búsqueda de Jesús en las colinas de Perean para descubrir que Pedro y Andrés «se habían convertido en los primeros consejeros aceptados del nuevo reino» los entristeció hasta el punto de despertar a Jesús exigiendo una explicación.
 
@@ -60,3 +84,28 @@ Los gemelos Alfeo «vivieron y murieron conscientes de haber sido honrados y ben
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_1/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Is_there_Certainty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Hay certeza?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Are_the_Urantia_Papers_the_Divine_Word_of_God">
+          <span class="pr-2">¿Son los Documentos de Urantia la palabra divina de Dios?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

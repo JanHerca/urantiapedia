@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Sue Tennant<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Music_Functions_and_Changes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Funciones de la música y cambio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Ravening_Wolves_Swine_Dogs_Sheep_Serpents_and_Doves">
+          <span class="pr-2">Lobos voraces, cerdos, y otros</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _El Libro de Urantia_ proclama: ¡La vida en la tierra es solo la punta del iceberg! ¡El drama de la eternidad acaba de comenzar! ¡Una aventura cósmica llama!
 
@@ -57,3 +81,27 @@ No existe ninguna autoridad humana, religiosa o de otro tipo, mediante la cual s
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_6/page11.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Music_Functions_and_Changes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Funciones de la música y cambio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Ravening_Wolves_Swine_Dogs_Sheep_Serpents_and_Doves">
+          <span class="pr-2">Lobos voraces, cerdos, y otros</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/God_playing_an_Avocation">
+          <span class="pr-2">Jugando a ser Dios: una vocación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > En la vida física, los sentidos comunican la existencia de las cosas; la mente descubre la realidad de los significados; pero la experiencia espiritual revela al individuo los verdaderos valores de la vida. Estos niveles elevados de vida humana se alcanzan mediante el amor supremo a Dios y el amor desinteresado a los hombres. Si amáis a vuestros semejantes, es porque habéis descubierto sus valores. Jesús amaba tanto a los hombres porque les atribuía un alto valor. Podéis descubrir mejor los valores de vuestros compañeros descubriendo sus motivaciones. Si alguien os irrita, os produce sentimientos de rencor, deberíais tratar de discernir con simpatía su punto de vista, las razones de su comportamiento censurable. En cuanto comprendéis a vuestro prójimo, os volvéis tolerantes, y esta tolerancia se convierte en amistad y madura en amor.
 > 
@@ -23,3 +44,25 @@ dateCreated: 2022-9-9T8:13:39Z
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/God_playing_an_Avocation">
+          <span class="pr-2">Jugando a ser Dios: una vocación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

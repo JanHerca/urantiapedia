@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century">
+          <span class="pr-2">El desafío del siglo XXI</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «Jesús le entregó a Dios, como hombre del reino, la más grande de todas las ofrendas: la consagración y la dedicación de su propia voluntad al servicio majestuoso de hacer la voluntad divina. Jesús siempre interpretó la religión, de manera sistemática, totalmente en función de la voluntad del Padre. Cuando estudiéis la carrera del Maestro, en lo referente a la oración o a cualquier otra característica de la vida religiosa, no busquéis tanto lo que enseñó como lo que hizo. Jesús nunca oraba porque fuera un deber religioso. Para él, la oración era una expresión sincera de la actitud espiritual, una declaración de la lealtad del alma, una recitación de devoción personal, una expresión de acción de gracias, una manera de evitar la tensión emocional, una prevención de los conflictos, una exaltación del intelecto, un ennoblecimiento de los deseos, una confirmación de las decisiones morales, un enriquecimiento del pensamiento, una estimulación de las tendencias más elevadas, una consagración del impulso, una clarificación de un punto de vista, una declaración de fe, una rendición trascendental de la voluntad, una sublime afirmación de confianza, una revelación de valentía, la proclamación de un descubrimiento, una confesión de devoción suprema, la validación de una consagración, una técnica para ajustar las dificultades y la poderosa movilización de los poderes combinados del alma para resistir todas las tendencias humanas al egoísmo, al mal y al pecado. Vivió precisamente este tipo de vida consagrada piadosamente a hacer la voluntad de su Padre, y terminó su vida triunfalmente con una oración de este tipo. El secreto de su incomparable vida religiosa fue esta conciencia de la presencia de Dios; y la consiguió mediante oraciones inteligentes y una adoración sincera —una comunión ininterrumpida con Dios— y no por medio de directrices, voces, visiones, apariciones o prácticas religiosas extraordinarias.»
 > 
@@ -34,3 +55,25 @@ dateCreated: 2022-9-9T8:13:39Z
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_3/page6.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century">
+          <span class="pr-2">El desafío del siglo XXI</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

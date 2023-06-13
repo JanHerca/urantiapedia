@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T19:06:39.834Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Golden_Rule">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La regla de oro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Faith_and_Belief">
+          <span class="pr-2">Fe y creencia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Cuando el hombre se acerca al estudio y examen del universo desde el exterior, trae a la existencia las diversas ciencias físicas; cuando aborda la investigación de sí mismo y del universo desde adentro, da origen a la teología ya la metafísica. El arte posterior de la filosofía se desarrolló en un esfuerzo por armonizar las muchas discrepancias que inevitablemente aparecían entre los hallazgos y las enseñanzas de estas dos avenidas diametralmente opuestas de acercamiento al universo de las cosas y los seres.
 
@@ -37,3 +61,28 @@ La revelación es la única esperanza realista del hombre evolutivo de salvar el
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page5.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Golden_Rule">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La regla de oro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Faith_and_Belief">
+          <span class="pr-2">Fe y creencia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

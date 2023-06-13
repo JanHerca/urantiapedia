@@ -9,6 +9,27 @@ dateCreated: 2022-09-27T00:09:11.694Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Role_of_miracles_resurrection_forgiveness_spread_Christianity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El papel relativo de los milagros, la resurrección y el perdón de los pecados en la rápida expansión del cristianismo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Desde el comienzo de su ministerio público en adelante hasta su crucifixión, la vida de Jesús fue vivida como una revelación de la naturaleza de Dios y de acuerdo con las restricciones impuestas por el pacto con Emmanuel explicado en el documento de Urantia 120 ([LU 120: 1.1](/es/The_Urantia_Book/120#p1_1)).
 
@@ -101,3 +122,24 @@ Estos dichos están destinados a guiar nuestra transformación, y no a convertir
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_2/page13.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Role_of_miracles_resurrection_forgiveness_spread_Christianity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El papel relativo de los milagros, la resurrección y el perdón de los pecados en la rápida expansión del cristianismo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

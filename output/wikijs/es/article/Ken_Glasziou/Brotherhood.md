@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/On_Prayer_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la oración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Papers_on_Finite_Reality">
+          <span class="pr-2">Los documentos de Urantia sobre la realidad finita</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «La paz religiosa —la fraternidad— nunca podrá existir a menos que todas las religiones estén dispuestas a despojarse por completo de toda autoridad eclesiástica, y a abandonar plenamente todo concepto de soberanía espiritual. **Sólo Dios es el soberano espiritual**.» ([LU 134:4.4](/es/The_Urantia_Book/134#p4_4))
 
@@ -45,3 +69,28 @@ Es alimento para el pensamiento.
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_3/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/On_Prayer_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la oración</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Papers_on_Finite_Reality">
+          <span class="pr-2">Los documentos de Urantia sobre la realidad finita</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

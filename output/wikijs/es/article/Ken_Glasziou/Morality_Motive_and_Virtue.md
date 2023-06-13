@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Unselfishness_Its_Relationship_to_God_Consciousness_and_Religious_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Altruismo. Su relación con la conciencia de Dios y la experiencia religiosa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Book_and_Secondary_Works">
+          <span class="pr-2">El libro de Urantia y las obras secundarias</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Utilizando la sabiduría por palabra como medida del contenido significativo, la Sección 7 del Documento 16 debe clasificarse entre las secciones más poderosas de _El Libro de Urantia_. Está repleto de fragmentos de información increíblemente precisos y decisivos para nosotros los urantianos que son dignos de un estudio minucioso y continuo. Entre otras cosas, la Sección 7 instruye sobre cómo difundir el mensaje principal de nuestra Revelación, y también cómo no intentar difundirlo. Tal vez la siguiente cita merezca una calificación de 10 de 10 en sabiduría por palabra:
 
@@ -40,3 +64,28 @@ Para concluir en positivo, examinemos lo que se dice acerca de la virtud: «_La 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_3/page6.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Unselfishness_Its_Relationship_to_God_Consciousness_and_Religious_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Altruismo. Su relación con la conciencia de Dios y la experiencia religiosa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Book_and_Secondary_Works">
+          <span class="pr-2">El libro de Urantia y las obras secundarias</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

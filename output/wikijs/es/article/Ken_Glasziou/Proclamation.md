@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Is_an_Alternative_to_the_Big_Bang_a_Possibilty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Es posible una alternativa al Big Bang?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Life_on_Planet_Earth">
+          <span class="pr-2">La vida en el planeta Tierra</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 No puede haber ninguna duda de que una tarea principal de los Documentos de Urantia era proporcionarnos una apreciación del significado completo de «la paternidad de Dios y la hermandad de todos los hombres», tal como Jesús nos presentó estos conceptos por primera vez.
 
@@ -100,3 +124,28 @@ Los habitantes de Urantia realmente necesitan organizarse en grupos de servicio 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_6/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Is_an_Alternative_to_the_Big_Bang_a_Possibilty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Es posible una alternativa al Big Bang?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Life_on_Planet_Earth">
+          <span class="pr-2">La vida en el planeta Tierra</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T05:33:58.935Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Dick Bain<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Keys_to_the_Kingdom">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las Llaves del Reino</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Book_What_is_it_and_why_is_it_so">
+          <span class="pr-2">El Libro de Urantia. ¿Qué es y por qué es así?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Algún día, cuando los eruditos estudien las influencias religiosas de los siglos XX y XXI, estoy seguro de que _El Libro de Urantia_ será una de esas influencias estudiadas. E inevitablemente, la teología del libro será comparada con el pensamiento y la teología cristiana. ¿Qué relación con el cristianismo determinarán estos futuros eruditos desde su perspectiva? ¿Sentirán que el libro es simplemente otro retoño de los márgenes del cristianismo, o lo verán como una obra genuinamente nueva? De hecho, cuando presentamos el libro a los cristianos de hoy, ¿cómo perciben este libro?
 
@@ -66,3 +90,27 @@ Me parece que _El Libro de Urantia_ contiene suficiente material nuevo para dist
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_2/page6.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Keys_to_the_Kingdom">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Las Llaves del Reino</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Book_What_is_it_and_why_is_it_so">
+          <span class="pr-2">El Libro de Urantia. ¿Qué es y por qué es así?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

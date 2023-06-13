@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Millennium_of_Cosmic_Enlightenment_Is_it_Here">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un milenio de iluminación cósmica: ¿está aquí?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Indwelling_Spirit_in_the_New_Testament">
+          <span class="pr-2">La morada del Espíritu en el Nuevo Testamento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Quizás ningún concepto único tiene más potencial para marcar la diferencia en el progreso espiritual y el bienestar de este planeta que el conocimiento generalizado de que el espíritu del Padre en realidad habita en cada uno de los hijos humanos de Dios, y que el Espíritu de la Verdad también está disponible para todos. su ayuda y orientación, simplemente con pedirla.
 
@@ -50,3 +74,28 @@ Y en el caso de que alguno de nuestros lectores se encuentre en posición de pod
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_6/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Millennium_of_Cosmic_Enlightenment_Is_it_Here">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un milenio de iluminación cósmica: ¿está aquí?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Indwelling_Spirit_in_the_New_Testament">
+          <span class="pr-2">La morada del Espíritu en el Nuevo Testamento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

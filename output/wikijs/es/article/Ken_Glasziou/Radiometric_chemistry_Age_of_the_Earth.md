@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T20:19:52.836Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Continental_Drift_3_Secondary_Effects">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Deriva continental 3—Efectos secundarios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/What_if_the_Papers_had_been_written">
+          <span class="pr-2">¿Qué pasaría si...?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Antes de aproximadamente 1955-6, la suposición más popular sobre la edad de nuestra Tierra era de 3 a 3.400 millones de años. Todo estaba a punto de cambiar con la llegada del uso de radioisótopos en los procedimientos de datación.
 
@@ -31,3 +55,28 @@ No hay absolutamente ninguna forma de que en 1955, las planchas de impresión de
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page30.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Continental_Drift_3_Secondary_Effects">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Deriva continental 3—Efectos secundarios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/What_if_the_Papers_had_been_written">
+          <span class="pr-2">¿Qué pasaría si...?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

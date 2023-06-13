@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Sydney Harris<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Holism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Holismo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Deep_Stuff_on_Souls">
+          <span class="pr-2">Cosas profundas sobre las almas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La mayoría de la gente considera que el mandato bíblico "Ama a tus enemigos" es imposiblemente utópico o increíblemente sentimental. Esto se debe a que no han captado el significado de "ágape" o "amor", como lo dijo Jesús.
 
@@ -40,3 +64,28 @@ Qué tragedia que lo honremos solo en nuestros juegos, que nos tomamos tan en se
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_2/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Holism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Holismo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Deep_Stuff_on_Souls">
+          <span class="pr-2">Cosas profundas sobre las almas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

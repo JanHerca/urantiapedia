@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T08:20:29.592Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Shroud_of_Turin__An_Update">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Novedades de la Sábana Santa de Turín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/On_Becoming_More_Spiritual_Living_as_Jesus_Lived">
+          <span class="pr-2">Sobre volverse más espiritual: vivir como vivió Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Aparentemente comenzando entre los teólogos y filósofos alemanes en el siglo XIX, un movimiento que cuestiona cada aspecto de la historicidad y autenticidad bíblica ha ganado vigor lentamente y ahora parece haber entrado en una fase de crecimiento exponencial.
 
@@ -64,3 +88,28 @@ Es maravilloso que ahora haya un movimiento tan poderoso hacia la reforma en las
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_5/page6.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Shroud_of_Turin__An_Update">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Novedades de la Sábana Santa de Turín</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/On_Becoming_More_Spiritual_Living_as_Jesus_Lived">
+          <span class="pr-2">Sobre volverse más espiritual: vivir como vivió Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

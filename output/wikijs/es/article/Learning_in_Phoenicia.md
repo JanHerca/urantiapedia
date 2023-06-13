@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jesus_Discourse_on_True_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Discurso de Jesús sobre la religión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Ashtaroth_Incident">
+          <span class="pr-2">El incidente de Ashtaroth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **«Este mundo es sólo un puente; puedes pasar por encima de él, pero no debes pensar en construir una morada sobre él.»**
 
@@ -57,3 +81,28 @@ Un incidente importante ocurrió muy temprano en este período, y su importancia
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_5/page6.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jesus_Discourse_on_True_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Discurso de Jesús sobre la religión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Ashtaroth_Incident">
+          <span class="pr-2">El incidente de Ashtaroth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

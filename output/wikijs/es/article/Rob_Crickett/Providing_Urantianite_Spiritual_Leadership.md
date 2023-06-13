@@ -9,6 +9,30 @@ dateCreated: 2022-9-7T11:35:36Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Robert Crickett<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Who_Wrote_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Quién escribió El libro de Urantia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Very_Odd_Neighbors">
+          <span class="pr-2">Los No-Respiradores: unos vecinos muy extraños</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La provisión de liderazgo espiritual dentro del contexto de _El Libro de Urantia_ actualmente está desafiando a un número de personas en todo el mundo. Como debería. El contexto es de época.
 
@@ -40,3 +64,28 @@ De esta manera, el Epochal arroja y refunde la gran fe y perseverancia que está
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Who_Wrote_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Quién escribió El libro de Urantia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Very_Odd_Neighbors">
+          <span class="pr-2">Los No-Respiradores: unos vecinos muy extraños</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

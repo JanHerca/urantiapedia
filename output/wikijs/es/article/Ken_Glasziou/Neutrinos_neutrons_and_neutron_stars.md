@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Conundrum_for_the_Hardcore_Fundamentalists">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un enigma para los fundamentalistas incondicionales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure class="image urantiapedia">
 <img src="/image/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars/neutron_star.jpg" width="580" height="387">
@@ -150,6 +171,28 @@ El lenguaje, el nivel de conocimiento y la terminología de la referencia del do
 * Este informe agrupa dos artículos publicados en la revista Innerface International, disponibles en el sitio web de la Urantia Fellowship:
     Vol. 1 No. 6, nov/dic 1994: https://urantia-book.org/archive/newsletters/innerface/vol1_6/page15.html
     Vol. 3 No. 2, marzo/abril 1996: https://urantia-book.org/archive/newsletters/innerface/vol3_2/page12.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Conundrum_for_the_Hardcore_Fundamentalists">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un enigma para los fundamentalistas incondicionales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T20:25:13.138Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Historical_Jesus_Who_was_He">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Jesús histórico: ¿quién era?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Effects_of_the_Gospel_Records">
+          <span class="pr-2">Los efectos de los registros del Evangelio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Obviamente, las fuentes de información más importantes sobre Jesús se encuentran en el Nuevo Testamento. Los Evangelios son evidentemente documentos de fe escritos desde un punto de vista cristiano. Pero, ¿son documentos históricos fiables?
 
@@ -79,3 +103,27 @@ La arqueología ha descubierto símbolos cristianos y oraciones a Jesús que se 
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_6/ página5.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Historical_Jesus_Who_was_He">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Jesús histórico: ¿quién era?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Effects_of_the_Gospel_Records">
+          <span class="pr-2">Los efectos de los registros del Evangelio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:12:17Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Matt Neibaur<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Frederick_Beckner/Wave_energy_octaves">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Octavas de energía ondulatoria</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «_El oro fue el primer metal que buscaron los hombres; era fácil de trabajar y al principio sólo se utilizó como adorno. Luego se empleó el cobre, pero no de manera abundante hasta que se mezcló con el estaño para fabricar el bronce más duro. El descubrimiento de la mezcla del cobre con el estaño para hacer el bronce fue realizado por un adansonita del Turquestán, cuya mina de cobre en las tierras altas se encontraba situada por casualidad al lado de un yacimiento de estaño._» ([LU 81:3.5](/es/The_Urantia_Book/81#p3_5 ))
 
@@ -27,3 +48,25 @@ Aunque los investigadores habían encontrado mineral de estaño en Kestel, algun
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_6/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Frederick_Beckner/Wave_energy_octaves">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Octavas de energía ondulatoria</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ann Bendall<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Dawn_of_Creative_Imagination_The_Alter_Ego">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El amanecer de la imaginación creativa: el alter ego</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/JER_Squires/The_Magic_of_the_Placebo">
+          <span class="pr-2">La Magia del Placebo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Después de la última lectura de _El Libro de Urantia_, la resolución de este Año Nuevo seguía siendo que este era definitivamente el año en el que iba a tratar consciente y concertadamente de seguir una de las dos sugerencias finales de la Comisión Reveladora: enfrentar el desafío... para lograr una mejor comunicación con el Monitor divino que habita dentro de la mente humana. ([LU 196:3.34](/es/The_Urantia_Book/196#p3_34))
 
@@ -45,3 +69,28 @@ Tanto anhelo ser la verdad. «_Pero el hombre nunca puede poseer la verdad sin e
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_5/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Dawn_of_Creative_Imagination_The_Alter_Ego">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El amanecer de la imaginación creativa: el alter ego</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/JER_Squires/The_Magic_of_the_Placebo">
+          <span class="pr-2">La Magia del Placebo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

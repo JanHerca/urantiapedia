@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/En_Passant">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En Passant</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Gaia_Hypothesis_and_the_Urantia_Papers">
+          <span class="pr-2">La hipótesis de Gaia y los Documentos de Urantia: ¿una convergencia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Pero si la revelación ha de engrandecer y elevar las religiones de la evolución, entonces estas visitas divinas deben presentar unas enseñanzas que no estén demasiado alejadas de las ideas y reacciones de la época en que son presentadas. Por eso la revelación debe mantenerse siempre en contacto con la evolución, y lo hace de hecho. La religión revelada ha de estar siempre limitada por la capacidad del hombre para recibirla. ([LU 92:4.1](/es/The_Urantia_Book/92#p4_1))
 
@@ -39,3 +63,28 @@ Pero incluso cuando hemos encontrado ese núcleo, también descubrimos que la fe
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_2/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/En_Passant">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En Passant</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Gaia_Hypothesis_and_the_Urantia_Papers">
+          <span class="pr-2">La hipótesis de Gaia y los Documentos de Urantia: ¿una convergencia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

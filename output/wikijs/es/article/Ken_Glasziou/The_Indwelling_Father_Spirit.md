@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T23:20:22.364Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Alter_Ego_and_the_Indwelling_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El 'alter ego' y el espíritu interior</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Mind_and_Soul">
+          <span class="pr-2">Mente y alma</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El Padre-Espíritu que mora en nosotros: ¿cuáles son sus funciones? ([LU 110:0.1](/es/The_Urantia_Book/110#p0_1))
 
@@ -48,3 +72,28 @@ No debemos confundir y enredar la misión y la influencia de nuestro Dios-Espír
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_3/page4.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Alter_Ego_and_the_Indwelling_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El 'alter ego' y el espíritu interior</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Mind_and_Soul">
+          <span class="pr-2">Mente y alma</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2022-09-07T15:31:20.599Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Martin_Gardners_Urantia_The_Great_Cult_Mystery">
+          <span class="pr-2">«Urantia, el gran culto de misterio» de Martin Gardner</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El libro recientemente publicado de Martin Gardner *Urantia, el gran culto de misterio* (traducido al español como «Urantia. ¿Revelación divina o negocio editorial?») no es solo un intento de desacreditar _El Libro de Urantia_, sino que también es una exposición pública sobre diversas actividades, personas y liderazgo del movimiento Urantia. El libro de Gardner está tan sesgado en su presentación de algunos aspectos asociados con los Documentos de Urantia que parece que podría ignorarse con seguridad. Sin embargo, Gardner también ha profundizado en la historia de los comienzos del movimiento Urantia, hasta el presente. Al hacerlo, ha publicado mucho material que no refleja bien el movimiento y sus miembros, material que la mayoría de nosotros preferiríamos ver enterrado y olvidado. Pero ahora se ha hecho público y nos corresponde poner nuestro acto en orden, porque el Maestro no nos ha instruido:
 
@@ -21,3 +42,24 @@ Un viejo proverbio dice que no debemos preocuparnos por lo que no sabemos. Pero 
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_1/page2.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Martin_Gardners_Urantia_The_Great_Cult_Mystery">
+          <span class="pr-2">«Urantia, el gran culto de misterio» de Martin Gardner</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

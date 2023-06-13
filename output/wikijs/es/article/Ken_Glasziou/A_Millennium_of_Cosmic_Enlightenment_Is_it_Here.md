@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Religions_of_the_Mind_and_the_Religion_of_the_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religiones de la mente y la religión del espíritu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Indwelling_of_the_Spirit">
+          <span class="pr-2">La morada del Espíritu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «Cuando el progreso de los acontecimientos en un mundo evolutivo indica que ha llegado el momento oportuno de iniciar una era espiritual, los Hijos Instructores Trinitarios se ofrecen siempre como voluntarios para este servicio. No estáis familiarizados con esta orden de filiación porque Urantia no ha experimentado nunca una era espiritual, un milenio de iluminación cósmica. Pero los Hijos Instructores están ya visitando vuestro mundo con el objeto de formular los planes relacionados con su proyecto de residir en vuestra esfera. Deberán aparecer en Urantia después de que **sus habitantes se hayan liberado relativamente de las trabas del animalismo y de las cadenas del materialismo.**» ([LU 20:9.1](/es/The_Urantia_Book/20#p9_1))
 
@@ -51,3 +75,28 @@ Mientras que parecería que la gente de nuestro planeta está a muchos miles, ta
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_6/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Religions_of_the_Mind_and_the_Religion_of_the_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religiones de la mente y la religión del espíritu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Indwelling_of_the_Spirit">
+          <span class="pr-2">La morada del Espíritu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

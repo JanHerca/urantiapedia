@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/What_Am_I">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué soy yo?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Hinduism">
+          <span class="pr-2">Hinduismo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Esta historia se escuchó durante una entrevista de la BBC a un alto policía británico que también era miembro de un grupo cristiano dentro de la fuerza policial. El entrevistador preguntó cómo el ser cristiano podría haber ayudado al policía durante su carrera policial. Aquí está su respuesta:
 
@@ -28,3 +52,28 @@ Esta historia se escuchó durante una entrevista de la BBC a un alto policía br
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/What_Am_I">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué soy yo?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Hinduism">
+          <span class="pr-2">Hinduismo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

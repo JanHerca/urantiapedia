@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Ken Glasziou<br>© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la verdad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Faith_2">
+          <span class="pr-2">Sobre la fe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En los universos, Dios el Padre es, en potencia, el supercontrolador de la materia, la mente y el espíritu. Sólo por medio de su extenso circuito de personalidad trata Dios directamente con las personalidades de su vasta creación de criaturas volitivas, pero es contactable (fuera del Paraíso) sólo en la presencia de sus entidades fragmentadas, la voluntad de Dios en el exterior en el universos.
 
@@ -52,3 +76,27 @@ Esta elección no consiste tanto en la negación de la voluntad de la criatura -
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page12.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la verdad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Faith_2">
+          <span class="pr-2">Sobre la fe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

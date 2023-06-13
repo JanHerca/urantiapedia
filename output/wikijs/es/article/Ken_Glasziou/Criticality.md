@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Religion_of_the_Spirit_what_could_it_mean">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La religión del Espíritu: ¿qué podría significar?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En un futuro no muy lejano, la civilización occidental puede enfrentar un período crítico en el que la religión cristiana tradicional habrá experimentado un colapso.
 
@@ -77,3 +98,25 @@ Es posible que los Documentos de Urantia hayan sido diseñados específicamente 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_5/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Religion_of_the_Spirit_what_could_it_mean">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La religión del Espíritu: ¿qué podría significar?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

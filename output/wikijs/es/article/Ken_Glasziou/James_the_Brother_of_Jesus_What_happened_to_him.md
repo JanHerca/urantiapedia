@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Very_Odd_Neighbors">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los No-Respiradores: unos vecinos muy extraños</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Decisions_Decisions_the_Doing_of_Gods_Will">
+          <span class="pr-2">Decisiones, decisiones: hacer la voluntad de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _El Libro de Urantia_ nos dice que Santiago, el hermano de Jesús, se convirtió en la cabeza titular de la Iglesia en Jerusalén. Pero aunque el libro describe la muerte de los doce apóstoles, así como de Esteban y Pablo, no arroja luz sobre el destino final de Santiago.
 
@@ -29,3 +53,28 @@ La autora, Elaine Pagels, comenta sobre otra referencia de Josefo que menciona a
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Very_Odd_Neighbors">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los No-Respiradores: unos vecinos muy extraños</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Decisions_Decisions_the_Doing_of_Gods_Will">
+          <span class="pr-2">Decisiones, decisiones: hacer la voluntad de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

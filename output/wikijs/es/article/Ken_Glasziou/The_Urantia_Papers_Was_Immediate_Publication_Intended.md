@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Fathers_Business">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los asuntos del Padre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/The_E_Word">
+          <span class="pr-2">La palabra «E»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Después de un período de prueba que abarcó más de veinte años, los reveladores de los Documentos de Urantia finalmente produjeron su versión completa en los años 1934/5. ¿Cuál era su intención en cuanto a la fecha de publicación? ¿Fue inmediato, o dentro de cinco, diez o veinte años?
 
@@ -53,3 +77,28 @@ Trepando nuestro camino de regreso a la realidad, tenemos que aceptar que no suc
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_6/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Fathers_Business">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los asuntos del Padre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/The_E_Word">
+          <span class="pr-2">La palabra «E»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

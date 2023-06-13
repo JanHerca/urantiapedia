@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Revelation_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revelación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Worship">
+          <span class="pr-2">Adoración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La conciencia espiritual iluminada del hombre civilizado no se preocupa tanto por alguna creencia intelectual específica o por algún modo particular de vivir como por descubrir la verdad del vivir, la técnica buena y correcta para reaccionar ante las situaciones siempre recurrentes de la existencia mortal. La conciencia moral es sólo un nombre que se aplica al reconocimiento y la conciencia humana de aquellos valores éticos y espirituales emergentes cuyo deber exige que el hombre se atenga en el control y la orientación de la conducta en el día a día.
 
@@ -72,3 +96,27 @@ El hombre mortal tiene derecho al disfrute de los **placeres físicos** ya la sa
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page11.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Revelation_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revelación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Worship">
+          <span class="pr-2">Adoración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

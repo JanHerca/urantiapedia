@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Future_What_The_Urantia_Book_tells_us">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El futuro. Lo que nos dice El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En 1991, Dick Bain, Ken Glasziou, Matt Neibaur y Frank Wright publicaron un folleto, «El contenido científico de _El Libro de Urantia_», que analizaba las declaraciones proféticas del libro sobre la deriva continental y ciertos aspectos de la física de partículas.
 
@@ -45,3 +66,25 @@ Obviamente, hay muchas secciones en el libro que deben permanecer tal como se pr
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page16.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Future_What_The_Urantia_Book_tells_us">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El futuro. Lo que nos dice El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

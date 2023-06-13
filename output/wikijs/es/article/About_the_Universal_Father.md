@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T01:11:40.721Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/On_Implementing_the_Teachings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la implementación de las enseñanzas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 - El Padre Universal es Causa Primera y Controlador de todo lo que es.
 - Creó los universos finitos para que fueran habitados por criaturas inteligentes que pudieran conocerlo y amarlo, y ser amados por él. La meta suprema de las criaturas volitivas es alcanzar a Dios, ser como él.
@@ -59,3 +80,25 @@ Por eso la verdad de cualquier religión se evidencia únicamente por los frutos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_2/page19.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/On_Implementing_the_Teachings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la implementación de las enseñanzas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

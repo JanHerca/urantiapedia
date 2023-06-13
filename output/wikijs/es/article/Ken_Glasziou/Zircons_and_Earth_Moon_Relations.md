@@ -9,6 +9,30 @@ dateCreated: 2023-01-22T21:33:20.280Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Ken Glasziou<br>© 2005 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Creationism_Evolution_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Creacionismo, evolución y El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Why_is_it_necessary_for_there_to_be_error_in_The_Urantia_Book">
+          <span class="pr-2">¿Por qué es necesario que haya errores en El libro de Urantia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Los circones son cristales diminutos que se forman en ciertos tipos de rocas. Son extremadamente duraderos y tienen una notable capacidad para registrar muchos eventos geológicos al agregar más capas de crecimiento a su superficie mientras conservan intacto el núcleo del cristal. Y debido a que contienen el elemento radiactivo de larga duración, el uranio, también contienen un reloj incorporado mediante el cual se pueden fechar con precisión las diversas capas dentro de la estructura cristalina.
 
@@ -35,3 +59,27 @@ Estos son el tipo de técnicas utilizadas por la ciencia moderna para fechar eve
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_3/page6.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Creationism_Evolution_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Creacionismo, evolución y El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-12-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Why_is_it_necessary_for_there_to_be_error_in_The_Urantia_Book">
+          <span class="pr-2">¿Por qué es necesario que haya errores en El libro de Urantia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

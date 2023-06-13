@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T18:33:39.898Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Is_The_Urantia_Books_Life_of_Jesus_Outdated">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Está obsoleta la «vida de Jesús» del Libro de Urantia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Dark_Matter_and_a_String_of_Pearls">
+          <span class="pr-2">Materia oscura y un collar de perlas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La Parte 4 de los Documentos de Urantia contiene más de 700 páginas donde podemos aprender cómo pensaba y vivía Jesús, y cómo su propia vida reveló la naturaleza del Dios al que llamó Padre. Sin embargo, para casi todos nosotros, memorizar el texto de esas 700 páginas presenta una tarea imposible. Afortunadamente, los reveladores han proporcionado un punto de partida, una condensación de la enseñanza de Jesús en un documento que afirman es "una filosofía maestra de la vida". Presentan esto como el sermón de ordenación a los doce. Luego, al unir este sermón con las parábolas de enseñanza favoritas de Jesús, surge un resumen condensado que puede servir como marco para construir una comprensión profunda de la revelación de Jesús.
 
@@ -197,3 +221,28 @@ La vida de Jesús es, por lo tanto, un modelo de vida para todos aquellos de cua
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_5/page8.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Is_The_Urantia_Books_Life_of_Jesus_Outdated">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Está obsoleta la «vida de Jesús» del Libro de Urantia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Dark_Matter_and_a_String_of_Pearls">
+          <span class="pr-2">Materia oscura y un collar de perlas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

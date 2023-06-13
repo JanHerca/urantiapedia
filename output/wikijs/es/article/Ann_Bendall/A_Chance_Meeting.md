@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ann Bendall<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Unselfishness_Its_Relationship_to_God_Consciousness_and_Religious_Experience">
+          <span class="pr-2">Altruismo. Su relación con la conciencia de Dios y la experiencia religiosa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 A la edad de veintitrés años, Jesús esperaba con ansias sus primeras verdaderas vacaciones desde la muerte de su padre. Después de llevar a Simón a Jerusalén para la Pascua, los dos planearon recorrer toda Palestina al norte del distrito de Jerusalén durante su descanso de tres semanas.
 
@@ -55,3 +76,25 @@ Y todos los eventos esenciales, según las apariencias externas, fueron un conju
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_3/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Unselfishness_Its_Relationship_to_God_Consciousness_and_Religious_Experience">
+          <span class="pr-2">Altruismo. Su relación con la conciencia de Dios y la experiencia religiosa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

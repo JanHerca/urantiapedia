@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/God_playing_an_Avocation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jugando a ser Dios: una vocación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Matt_Neibaur/On_Copyright_and_Plagiarism_2">
+          <span class="pr-2">Sobre los derechos de autor y el plagio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «Hace mucho, mucho tiempo, un hombre llamado Moisés hizo un anuncio a los miembros de su nación. Moisés dijo: ‘Jehová ha dicho que de ahora en adelante debemos adorarlo sin el uso de imágenes de ídolos hechas a mano. De ahora en adelante, nada en el medio, solo tú y Dios’».
 >
@@ -45,3 +69,28 @@ Pero el resultado neto es siempre el mismo. Nadie realmente gana. Con el tiempo,
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/God_playing_an_Avocation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jugando a ser Dios: una vocación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Matt_Neibaur/On_Copyright_and_Plagiarism_2">
+          <span class="pr-2">Sobre los derechos de autor y el plagio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jacques_Tetrault/Nouveau_Assertiveness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nouveau-Asertividad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/DEFRAG">
+          <span class="pr-2">DEFRAG</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 __La disonancia cognitiva es un estado de confusión/conflicto mental causado por tener una inconsistencia entre los valores y el comportamiento.__
 
@@ -95,3 +119,28 @@ Y aunque me sentiré decepcionada conmigo misma si tengo disonancia cognitiva y 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page3.html
 
 * Disonancia cognitiva: https://es.wikipedia.org/wiki/Disonancia_cognitiva
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jacques_Tetrault/Nouveau_Assertiveness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nouveau-Asertividad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/DEFRAG">
+          <span class="pr-2">DEFRAG</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

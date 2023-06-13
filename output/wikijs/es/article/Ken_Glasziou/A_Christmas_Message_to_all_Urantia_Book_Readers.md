@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sydney_Harris/Jesus_would_not_appeal_to_the_Moral_Majority">
+          <span class="pr-2">Columna de consistencia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Jesús tomó entonces la palabra y dijo: «Ahora que sois embajadores del reino de mi Padre, os habéis convertido así en una clase de hombres separada y distinta de todos los demás hombres de la Tierra. Ahora ya no sois como unos hombres entre los hombres, sino como unos ciudadanos iluminados de otro país celestial entre las criaturas ignorantes de este mundo tenebroso. Ya no es suficiente con que viváis como habéis hecho hasta ahora, sino que de aquí en adelante deberéis de vivir como aquellos que han saboreado las glorias de una vida mejor, y han sido enviados de vuelta a la Tierra como embajadores del Soberano de ese mundo nuevo y mejor. Se espera más del profesor que del alumno; al amo se le exige más que al servidor. A los ciudadanos del reino celestial se les pide más que a los ciudadanos del gobierno terrestre. Algunas de las cosas que estoy a punto de deciros os parecerán duras, pero habéis elegido representarme en el mundo como yo ahora represento al Padre. Y como agentes míos en la Tierra, estaréis obligados a acatar las enseñanzas y las prácticas que reflejan mis ideales de vida mortal en los mundos del espacio, lo que ejemplifico en mi vida terrestre revelando al Padre que está en los cielos».
 > 
@@ -55,3 +76,25 @@ dateCreated: 2022-9-9T8:13:38Z
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_6/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sydney_Harris/Jesus_would_not_appeal_to_the_Moral_Majority">
+          <span class="pr-2">Columna de consistencia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

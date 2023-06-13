@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Patience_a_Millennium_is_1000_Years">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paciencia: un milenio son 1000 años</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Harbingers_of_Hope_and_Keepers_of_the_Copyright_Hear_This">
+          <span class="pr-2">¡Escuchen! ¡Escuchen! Todos los heraldos de la esperanza, guardianes de los derechos de autor y protectores de un texto inviolable, escuchen esto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ¿Cómo podemos saber si estamos habitados por el espíritu? ¿Cómo podemos saber si somos guiados por el espíritu? ¿Cómo podemos saber lo correcto de lo incorrecto? ¿Cómo podemos saber la verdad? Abandonados por completo a nuestros propios recursos, simplemente no podíamos estar seguros. Pero los Documentos de Urantia nos proporcionan formas sencillas de comprobarnos a nosotros mismos. Así que vamos a hacer y mantenerlo simple.
 
@@ -44,3 +68,28 @@ Así que hazlo simple y mantenlo simple. En todas las cosas, busca servir a Dios
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_2/page6.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Patience_a_Millennium_is_1000_Years">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paciencia: un milenio son 1000 años</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Harbingers_of_Hope_and_Keepers_of_the_Copyright_Hear_This">
+          <span class="pr-2">¡Escuchen! ¡Escuchen! Todos los heraldos de la esperanza, guardianes de los derechos de autor y protectores de un texto inviolable, escuchen esto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

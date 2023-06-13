@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:12:18Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Matt Neibaur<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Answers_from_The_Urantia_Book">
+          <span class="pr-2">Respuestas de El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Al final del Prólogo de _El Libro de Urantia_, los Reveladores nos dicen que se han cotejado más de 1000 de los conceptos humanos más elevados para producir la primera parte del libro y, para la Parte 4, se han reunido gemas de pensamiento y conceptos superiores a partir de más de 2000 seres humanos que vivieron en la Tierra desde los días de Jesús hasta el momento de editar estas revelaciones, más correctamente reafirmaciones.
 
@@ -48,3 +69,25 @@ Matt Neibaur agrega lo siguiente:
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page5.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Answers_from_The_Urantia_Book">
+          <span class="pr-2">Respuestas de El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Do_Urantians_have_a_Special_Task_with_Christianity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Tienen los urantianos una tarea especial con el cristianismo?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Crucifixion_Why">
+          <span class="pr-2">La crucifixión, ¿por qué?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En la víspera de Año Nuevo del año pasado, miles de millones de personas fueron testigos de la llegada del Nuevo Milenio anunciada por enormes y espectaculares fuegos artificiales que se mostraron a las audiencias televisivas en una cobertura mundial.
 
@@ -41,3 +65,28 @@ No importa cuán pequeños, incluso triviales, puedan parecer nuestros esfuerzos
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_1/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Do_Urantians_have_a_Special_Task_with_Christianity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Tienen los urantianos una tarea especial con el cristianismo?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/The_Crucifixion_Why">
+          <span class="pr-2">La crucifixión, ¿por qué?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sydney_Harris/Love_Your_Enemies">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡Ama a tus enemigos!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/En_Passant">
+          <span class="pr-2">En Passant</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El alma en evolución del hombre mortal se crea a partir de «posibilidades» preexistentes dentro del Supremo (ver [LU 117:5.11](/es/The_Urantia_Book/117#p5_11)).
 
@@ -55,3 +79,28 @@ Pero aunque nos apartemos para siempre de su presencia, nuestras almas poseerán
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_2/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sydney_Harris/Love_Your_Enemies">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡Ama a tus enemigos!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/En_Passant">
+          <span class="pr-2">En Passant</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

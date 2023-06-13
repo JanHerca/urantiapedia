@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Remembrance_Supper">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Cena del Recuerdo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > La armonía, la música de los siete niveles de la asociación melódica, es el único código universal de comunicación espiritual. La música, tal como la comprenden los mortales de Urantia, alcanza su máxima expresión en las escuelas de Jerusem, [...] [LU 44:1.11](/es/The_Urantia_Book/44#p1_11)
 
@@ -57,6 +78,28 @@ Por el contrario, las melodías simples y suaves pueden reducir el nivel de exci
 Es interesante deliberar si la música podría ser la clave de un trastorno humano generalizado: la amnesia global de los acontecimientos de los dos primeros años de vida. Este es el período crítico en el que el niño aprende a confiar y establece la identidad del ego. El recuerdo de este período está ahí, pero no puede evaluarse porque se encuentra en alguna forma de codificación previa al lenguaje. Dado que el reconocimiento de sonidos musicales significativos precede a la adquisición del lenguaje, parte de esta memoria debe conservarse en una forma que simbolice los sonidos musicales.
 
 Cualquiera que sea la verdad, es seguro que nuestro Ajustador del Pensamiento tiene los medios necesarios para interpretar todos los eventos que ocurrieron antes de Su morada en una forma que pueda ser útil para la mejora de nuestro crecimiento espiritual. Una posibilidad es que los eventos, emociones, creencias y actitudes de la fase infantil previa al lenguaje de nuestra existencia, esos críticos primeros años de nuestra vida, se interpreten a través del simbolismo de lo que el libro llama «buena» música.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Remembrance_Supper">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Cena del Recuerdo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

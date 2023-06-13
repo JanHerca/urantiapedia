@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:12:18Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ann Bendall<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Comprehending_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la comprensión del libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Religion_is_a_Naughty_Word">
+          <span class="pr-2">«¿Religión» es una palabra traviesa?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El único regalo posible de verdadero valor para Dios es nuestro libre albedrío. ([LU 1:1.2](/es/The_Urantia_Book/1#p1_2)) Dios pide que alineemos nuestra voluntad con la suya. Pero no podemos darle nuestra voluntad o dejar que él tome el control, lo cual sería un proceso deliciosamente simple, si fuera posible. En cambio, Dios pide que seamos reales para el universo alineando nuestra voluntad con la suya, es decir, esforzándonos por elegir lo que es divino en cada decisión que tomamos. Y así, se requieren de nosotros decisiones, decisiones, decisiones y más decisiones.
 
@@ -70,3 +94,28 @@ Y así, hasta la noche de su arresto, continuó orando, «_si esta copa no pasa,
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page5.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_Comprehending_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la comprensión del libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Religion_is_a_Naughty_Word">
+          <span class="pr-2">«¿Religión» es una palabra traviesa?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

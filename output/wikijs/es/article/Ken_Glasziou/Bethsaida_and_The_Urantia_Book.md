@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Matthew_Block/Science_and_Archaeology_in_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Visión de Matthew Block sobre ciencia y arqueología en los documentos de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen_Finlan/Bethsaida_Julias_and_Bethsaida_of_Galilee">
+          <span class="pr-2">Betsaida-Julias y Betsaida de Galilea</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Ken_Glasziou/Bethsaida_and_The_Urantia_Book/Bethsaida.png">
@@ -58,3 +82,28 @@ Nuestros lectores ahora pueden correlacionar los resultados de la investigación
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_3/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Matthew_Block/Science_and_Archaeology_in_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Visión de Matthew Block sobre ciencia y arqueología en los documentos de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Stephen_Finlan/Bethsaida_Julias_and_Bethsaida_of_Galilee">
+          <span class="pr-2">Betsaida-Julias y Betsaida de Galilea</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

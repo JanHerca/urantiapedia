@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Dick Bain<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Judgment_Day">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Día del Juicio Final</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Birth_of_the_Solar_System">
+          <span class="pr-2">El nacimiento del Sistema Solar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Los astrónomos usan varios tipos de velas estándar o varas cósmicas para medir distancias a estrellas y galaxias. Uno de estos criterios es la clase de estrellas conocidas como estrellas variables Cefeidas. Uno de los errores aparentes en _El Libro de Urantia_ proviene del uso de la distancia a la galaxia de Andrómeda que los astrónomos sostuvieron en la década de 1930. Esta distancia se determinó usando estrellas variables Cefeidas en M31, también llamada galaxia de Andrómeda.
 
@@ -29,6 +53,31 @@ El telescopio es en efecto una máquina del tiempo. Cuanto más viaja la luz des
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page15.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Judgment_Day">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Día del Juicio Final</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Birth_of_the_Solar_System">
+          <span class="pr-2">El nacimiento del Sistema Solar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

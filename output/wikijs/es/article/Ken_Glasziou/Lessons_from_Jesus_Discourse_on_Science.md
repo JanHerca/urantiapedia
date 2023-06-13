@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T16:50:33.688Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_the_Value_of_Spiritual_Value">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre el valor del valor espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Out_Of_Africa">
+          <span class="pr-2">¿Fuera de África?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Este discurso ([LU 133:5.4](/es/The_Urantia_Book/133#p5_4)) fue entre Jesús y un filósofo griego, ostensiblemente alrededor del año 20 d. C. Junto con el conocimiento de nuestra morada personal por el espíritu del Padre, describe todo lo que se necesita para comprender el propósito de nuestra existencia humana.
 
@@ -96,3 +120,28 @@ En resumen:
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_2/page7.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/On_the_Value_of_Spiritual_Value">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre el valor del valor espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Out_Of_Africa">
+          <span class="pr-2">¿Fuera de África?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/High_on_Angels">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Arriba con los Ángeles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/When_Did_the_Red_Man_Arrive_in_the_Americas">
+          <span class="pr-2">La ciencia y El Libro de Urantia. ¿Cuándo llegó el Hombre Rojo a las Américas?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En la época de Jesús, los judíos fieles recitaban el Shemá dos veces al día: «_Escucha, oh Israel, el Señor nuestro Dios, el Señor uno es; y amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y ​​con todas tus fuerzas._» Este fue el primer gran mandamiento mencionado en los evangelios. La Cuarta Revelación de Época actualizó su significado debido a su revelación de la verdadera naturaleza de Dios a través de la vida de Jesús. El segundo gran mandamiento fue que debemos amar a nuestro prójimo como a nosotros mismos. La Cuarta Revelación de Época dio un salto cuántico a su significado al actualizarlo de un nivel material a uno espiritual. Nos dijo que debemos amarnos unos a otros como Jesús nos ama.
 
@@ -51,3 +75,27 @@ La esencia de la instrucción de la Quinta Revelación de Época sobre el segund
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_3/page15.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/High_on_Angels">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Arriba con los Ángeles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/When_Did_the_Red_Man_Arrive_in_the_Americas">
+          <span class="pr-2">La ciencia y El Libro de Urantia. ¿Cuándo llegó el Hombre Rojo a las Américas?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

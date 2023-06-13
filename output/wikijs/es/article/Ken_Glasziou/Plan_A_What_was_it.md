@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Another_and_Greater_John_the_Baptist">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡Otro Juan Bautista más grande!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Origins_of_Andon_and_Fonta">
+          <span class="pr-2">La ciencia y El libro de Urantia. Orígenes de Andon y Fonta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Según _El Libro de Urantia_, cuando Jesús nos dio la _Cuarta Revelación de Época_, estaba proyectando un plan para una nueva era. Sí, realmente dice eso: __¡un plan para una nueva era!__ ([LU 141:7.15](/es/The_Urantia_Book/141#p7_15)) Dado que esta nueva era aún no ha llegado, se puede suponer que las instrucciones del Maestro todavía están vigentes. ¿Cuál era el plan? Fue dado a aquellos a quienes pidió que fueran maestros del evangelio del reino. ([LU 141:7.6-7](/es/The_Urantia_Book/141#p7_6)) Tenía pocas instrucciones, siendo la primera: «lo único que tenían que hacer era __revelar al hombre individual que Dios es su Padre__ —llevar a ese hombre individual a hacerse consciente de su filiación; y luego, presentar este mismo hombre a Dios como su hijo por la fe.» ([LU 141:7.4](/es/The_Urantia_Book/141#p7_4))
 
@@ -37,3 +61,28 @@ Un corolario de esta afirmación es que __si implementamos el Plan A, el Plan B 
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page13.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Another_and_Greater_John_the_Baptist">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡Otro Juan Bautista más grande!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Origins_of_Andon_and_Fonta">
+          <span class="pr-2">La ciencia y El libro de Urantia. Orígenes de Andon y Fonta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

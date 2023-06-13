@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Twinkle__Twinkle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Brilla, brilla</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Frederick_Beckner/Wave_energy_octaves">
+          <span class="pr-2">Octavas de energía ondulatoria</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Ken_Glasziou/Birth_of_the_Solar_System/Keplers_supernova.jpg">
@@ -41,6 +65,31 @@ Un ejemplo de información clave puede ser el tiempo dado para el origen del sis
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page16.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Twinkle__Twinkle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Brilla, brilla</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 5 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Frederick_Beckner/Wave_energy_octaves">
+          <span class="pr-2">Octavas de energía ondulatoria</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

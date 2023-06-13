@@ -9,6 +9,30 @@ dateCreated: 2022-09-27T00:52:55.262Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/What_do_the_Urantia_Papers_say_about_mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué dicen los Documentos de Urantia sobre la mente?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Can_I_be_what_God_wants_me_to_be">
+          <span class="pr-2">¿Puedo «ser» lo que Dios quiere que yo «sea»?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Durante la discusión entre Jesús y Emmanuel sobre el propósito del otorgamiento de Jesús, Emmanuel recomendó lo siguiente:
 
@@ -48,3 +72,28 @@ Pero con Jesús como mi modelo, con el Espíritu de la Verdad de Jesús como mi 
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_6/page9.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/What_do_the_Urantia_Papers_say_about_mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué dicen los Documentos de Urantia sobre la mente?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Can_I_be_what_God_wants_me_to_be">
+          <span class="pr-2">¿Puedo «ser» lo que Dios quiere que yo «sea»?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

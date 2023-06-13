@@ -9,6 +9,30 @@ dateCreated: 2022-9-8T13:35:19Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Out_Of_Africa">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Fuera de África?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Future_What_is_our_Task">
+          <span class="pr-2">El futuro. ¿Cuál es nuestra tarea?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ¿Qué se entiende por religión del espíritu? En primer lugar, difiere ampliamente de las religiones ordinarias que sigue la humanidad. Esencialmente, estas son actividades grupales que virtualmente siempre resultan en la cristalización de un conjunto de rituales y credos que definen lo que los miembros deben hacer y ser.
 
@@ -44,3 +68,28 @@ Sin embargo, el centro de la religión del espíritu es la búsqueda personal de
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_2/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Out_Of_Africa">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Fuera de África?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Future_What_is_our_Task">
+          <span class="pr-2">El futuro. ¿Cuál es nuestra tarea?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

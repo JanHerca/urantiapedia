@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T18:06:08.036Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Miscellaneous_erroneous_material_summarized">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Miscelánea de material erróneo: un resumen</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Continental_Drift_1">
+          <span class="pr-2">Deriva continental</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 No se puede dudar de que estos Documentos de Urantia a veces serpentean entre lo sublime y lo ridículo. Esto se vuelve más comprensible si recordamos que gran parte del contenido inicial constituye la respuesta a las preguntas de los miembros del «Foro» que intentaban deliberadamente tender trampas para que los reveladores se traicionaran a sí mismos. La realidad del libro en sí da testimonio de que los reveladores sobrevivieron a este período de prueba a pesar de las limitaciones que les impusieron las reglas del universo sobre la revelación que proscribían revelar conocimiento no ganado, lo cual estaba en conflicto directo con la determinación de los miembros del Foro de «hacer preguntas que ningún ser humano podría responder».
 
@@ -33,3 +57,27 @@ Si la revelación no tuvo el propósito de brindar nuevos conocimientos en campo
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_4/page19.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Miscellaneous_erroneous_material_summarized">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Miscelánea de material erróneo: un resumen</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Continental_Drift_1">
+          <span class="pr-2">Deriva continental</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

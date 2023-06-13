@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ann Bendall<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Swann_Gardner_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Swann, Gardner y El libro de Urantia: protones y electrones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sydney_Harris/A_God_of_Fundamentals_Who_is_a_Light_Not_a_Lash">
+          <span class="pr-2">Un Dios de Fundamentos que es una Luz, no un Latigazo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 “_El proceso de esforzarse por dar sentido a un mundo de experiencias potencialmente abrumador implica internalizar pensamientos y sentimientos sobre lo que está bien o mal, lo normal o lo anormal, lo bueno o lo malo, etc. Estos son los juicios de valor que sirven para definir los límites de la experiencia. y no es capaz de hacer.
 
@@ -53,3 +77,28 @@ Introyectados sin mucha consideración por parte de los padres y la sociedad en 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_2/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Swann_Gardner_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Swann, Gardner y El libro de Urantia: protones y electrones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sydney_Harris/A_God_of_Fundamentals_Who_is_a_Light_Not_a_Lash">
+          <span class="pr-2">Un Dios de Fundamentos que es una Luz, no un Latigazo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

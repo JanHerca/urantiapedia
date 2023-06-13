@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Robert Webb<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sandy_Garrick/Divine_Music">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Música divina</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Rebuke_to_One_Friend_in_Defence_of_Another">
+          <span class="pr-2">La reprensión a un amigo en defensa de otro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La sustancia literal del Paraíso es una organización homogénea de potencia espacial que no se encuentra en ningún otro lugar en todo el amplio Universo de Universos. ([LU 11:2.9](/es/The_Urantia_Book/11#p2_9)) La potencia espacial es pre-realidad; es el dominio del Absoluto No Cualificado. ([LU 42:2.3](/es/The_Urantia_Book/42#p2_3"></a>)) En Nebadon, se habla de la potencia espacial como _absolutum_, material fuente del Paraíso ni vivo ni muerto ([LU 11:2.9]( /es/The_Urantia_Book/11#p2_9))
 
@@ -27,3 +51,28 @@ La potencia espacial no está sujeta a las interacciones de la gravitación. Es 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_2/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sandy_Garrick/Divine_Music">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Música divina</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2 - No. 2 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/The_Rebuke_to_One_Friend_in_Defence_of_Another">
+          <span class="pr-2">La reprensión a un amigo en defensa de otro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

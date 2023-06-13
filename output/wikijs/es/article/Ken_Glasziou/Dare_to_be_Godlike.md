@@ -9,6 +9,27 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Desiderata">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Desiderata</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > «_El secreto de la supervivencia está envuelto en el supremo deseo humano de ser semejante a Dios, y en la buena voluntad asociada de hacer y de ser todas las cosas que son esenciales para alcanzar finalmente ese deseo dominante_.» ([LU 110:3.2](/es/The_Urantia_Book/110#p3_2))
 
@@ -41,3 +62,24 @@ Si, después de hacerlo, podemos responder que sí, que aún continuamos intenta
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_1/page14.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Desiderata">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Desiderata</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

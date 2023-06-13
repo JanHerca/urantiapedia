@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:12:18Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/About_Prophetic_Science">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Acerca de la ciencia «profética»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Radii_of_the_Electron_and_Proton">
+          <span class="pr-2">Radios del electrón y del protón</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dado que el mandato de los reveladores les impedía darnos conocimiento no ganado, ([LU 101:4.1](/es/The_Urantia_Book/101#p4_1)) se deduce que el nivel de información científica en los Documentos no debe incluir información aún no descubierta por mediados de la década de 1930. La excepción es que se podrían llenar los "vacíos que faltan" o restaurar el "conocimiento perdido" esencial.
 
@@ -46,3 +70,28 @@ De los materiales cubiertos en este artículo, solo el artículo sobre la energ�
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/About_Prophetic_Science">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Acerca de la ciencia «profética»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 7 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Radii_of_the_Electron_and_Proton">
+          <span class="pr-2">Radios del electrón y del protón</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

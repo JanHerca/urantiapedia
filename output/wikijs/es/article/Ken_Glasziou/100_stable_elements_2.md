@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T00:53:24.466Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/48_Chromosomes_Or_Jumping_to_Conclusions_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿48 cromosomas? ¡Nos precipitamos con las conclusiones!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/How_far_to_Andromeda">
+          <span class="pr-2">Cómo de lejos está Andrómeda</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Resumen
 
@@ -42,6 +66,31 @@ Entonces, aunque, técnicamente hablando, la declaración de los autores puede d
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_4/page9.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/48_Chromosomes_Or_Jumping_to_Conclusions_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿48 cromosomas? ¡Nos precipitamos con las conclusiones!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11 - No. 4 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/How_far_to_Andromeda">
+          <span class="pr-2">Cómo de lejos está Andrómeda</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

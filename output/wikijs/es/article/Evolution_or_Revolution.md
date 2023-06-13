@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Living_as_Jesus_lived_in_a_family_environment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivir como vivió Jesús: en un ambiente familiar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Is_God_a_Possibility">
+          <span class="pr-2">¿Es Dios una posibilidad?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ¿Qué podría haber sucedido si los líderes de todas las principales sectas cristianas hubieran respaldado por completo los Documentos de Urantia como una revelación dada por Dios inmediatamente después de que se imprimiera el libro en 1955?
 
@@ -96,3 +120,28 @@ Recordando que la evolución más que la revolución es la opción preferida, en
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_6/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Living_as_Jesus_lived_in_a_family_environment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivir como vivió Jesús: en un ambiente familiar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 6 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Is_God_a_Possibility">
+          <span class="pr-2">¿Es Dios una posibilidad?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

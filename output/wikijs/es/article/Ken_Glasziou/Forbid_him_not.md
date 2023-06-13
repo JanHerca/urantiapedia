@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marion_Steward/Where_are_the_Daughters_of_God">
+          <span class="pr-2">¿Dónde están las Hijas de Dios?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Jesús fue a Gamala para visitar a Juan y a los que trabajaban con él en aquel lugar. Aquella noche, después de la sesión de preguntas y respuestas, Juan le dijo a Jesús: «Maestro, ayer fui a Astarot para ver a un hombre que enseñaba en tu nombre y que incluso pretendía ser capaz de echar a los diablos. Pero este hombre nunca ha estado con nosotros, ni tampoco nos sigue; por consiguiente, le he prohibido hacer esas cosas». Jesús dijo entonces:
 > 
@@ -23,3 +44,25 @@ dateCreated: 2022-9-9T8:13:39Z
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_1/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marion_Steward/Where_are_the_Daughters_of_God">
+          <span class="pr-2">¿Dónde están las Hijas de Dios?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T04:24:32.789Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Why_Did_the_Quakers_Fail">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Por qué fracasaron los cuáqueros?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Jesus_Inspiration_and_Friend">
+          <span class="pr-2">Jesús: inspiración y amigo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 El objetivo final establecido por George Fox, uno de los padres fundadores del movimiento cuáquero alrededor de 1650, era que cada individuo se relacionara de tal manera con el Espíritu de Dios que mora en ellos que pudieran vivir como vivió Jesús: en total dedicación a la voluntad. de Dios. Fox tenía otro propósito: influir en toda la cristiandad para que hiciera lo mismo.
 
@@ -133,6 +157,31 @@ En otras palabras, el hacer la voluntad de Dios es solo eso. No es nuestra volun
 ## Enlaces externos
 
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_3/page10.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Why_Did_the_Quakers_Fail">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Por qué fracasaron los cuáqueros?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Jesus_Inspiration_and_Friend">
+          <span class="pr-2">Jesús: inspiración y amigo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

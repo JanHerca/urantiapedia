@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/To_Drink_the_Cup">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Para beber la copa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Human_Sources_of_The_Urantia_Book">
+          <span class="pr-2">Fuentes humanas del libro de Urantia. El mesotrón evanescente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _El Libro de Urantia_ ([LU 169:4.3-13](/es/The_Urantia_Book/169#p4_3)).
 
@@ -90,3 +114,28 @@ Somos bendecidos con este regalo. Su eficacia está en nuestras propias manos.
 - Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_3/page14.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/To_Drink_the_Cup">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Para beber la copa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5 - No. 3 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Human_Sources_of_The_Urantia_Book">
+          <span class="pr-2">Fuentes humanas del libro de Urantia. El mesotrón evanescente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
