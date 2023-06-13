@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Doreen Heyne<br>© 2008 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Linda_Buselli/Law_is_Life_Itself">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Law is Life Itself</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-9-number-1-2008-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, Number 1, 2008 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Henry_Begemann/The_Roots_of_Morality">
+          <span class="pr-2">The Roots of Morality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The following was presented as a workshop at the 2007 Summer Study Session at Dominican University, River Forest, IL_  
 
@@ -112,6 +136,31 @@ Do we have one foot in our tribal beginnings and one foot groping in the dark, r
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Linda_Buselli/Law_is_Life_Itself">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Law is Life Itself</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-9-number-1-2008-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, Number 1, 2008 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Henry_Begemann/The_Roots_of_Morality">
+          <span class="pr-2">The Roots of Morality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

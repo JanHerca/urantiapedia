@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Irwin Ginsburgh Ph.D.<br>© 1999 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizens">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Family: Birthplace of Cosmic Citizens</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-2-number-1-1999-winter">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, Number 1, 1999 (Winter) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stephen_Dreier/Reflections_on_cosmic_citizenship">
+          <span class="pr-2">Reflections on cosmic citizenship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (This paper is a composite of two papers presented at the Fellowship’s International Conference in Vancouver in August 1999. The portion dealing with current knowledge in the field of astronomy was presented by Dr. Douglas Scott of the University of British Columbia. _The Urantia Book_ view of cosmology was presented by Dr. Irwin Ginsburgh.)  
 
@@ -120,6 +144,31 @@ Among future readers of _The Urantia Book_ , there will be more and more skeptic
 
 * This article in _The Fellowship Herald_: https://urantia-book.org/archive/newsletters/herald/
 * Translation by Agustín Arellano Tirado in the website of _Asociación Urantia de Chile_: http://www.urantiachile.org/documentos/ensayos/2_dos_cosmologias.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizens">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Family: Birthplace of Cosmic Citizens</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-2-number-1-1999-winter">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, Number 1, 1999 (Winter) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stephen_Dreier/Reflections_on_cosmic_citizenship">
+          <span class="pr-2">Reflections on cosmic citizenship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Notes
 
 [^1]: _Editor's note_: Instead of “nebula” is more exact to say a “planetary system”. _The Urantia Book_ gives several indications about this object that approached our sun, and it was not a nebula ([UB 54:5.4-6](/en/The_Urantia_Book/54#p5_4)). It was a system called Angona, formed by a big massive object at its center, called in the book a “dark giant of space”, and a collection of planets orbiting it.

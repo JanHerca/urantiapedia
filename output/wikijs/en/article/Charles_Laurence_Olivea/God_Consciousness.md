@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Charles Laurence Olivea<br>© 2010 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Authority">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion of Experience vs. Religion of Authority</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-11-number-1-2010-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, Number 1, 2010 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Elders/The_Urantia_Book_Human_Concepts_and_Revelatory_Validation">
+          <span class="pr-2">The Urantia Book, Human Concepts, and Revelatory Validation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The following article was presented as the plenary speech at the Summer Study Session, at Dominican University, River Forest, IL, July 31, 2009. _
 
@@ -113,3 +137,27 @@ It is a recurring wonder to me, dear Father, that somehow You validate that crea
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Authority">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion of Experience vs. Religion of Authority</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-11-number-1-2010-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, Number 1, 2010 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Elders/The_Urantia_Book_Human_Concepts_and_Revelatory_Validation">
+          <span class="pr-2">The Urantia Book, Human Concepts, and Revelatory Validation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

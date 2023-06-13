@@ -9,6 +9,30 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Irwin Ginsburgh, Ph.D.<br>© 2000 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Elders/Restated_in_modern_phraseology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Restated in Modern Phraseology</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-2-number-2-2000-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, Number 2, 2000 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stephen_Zendt/I_Will_Tell_Them_A_Story">
+          <span class="pr-2">“I Will Tell Them A Story”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 This paper discusses seven discoveries predicted by _The Urantia Book_, and eighteen more that are currently under development. This is quite miraculous, and beyond the capabilities of humans, especially since many of the discoveries are new and not extensions of known science.
 
@@ -163,6 +187,31 @@ Revelation may not be absolute truth but is matched to the needs and understandi
 
 > Irwin Ginsburgh is a Ph.D. physicist. His book, First Man! The Adam, was published by Simon and Schuster. Among the letters he received from readers, there were several that suggested he read _The Urantia Book_. This is how, he says, the book "found" him. He has been a reader for twenty years, and writes commentary on science and _The Urantia Book_.
 {.is-info}
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Elders/Restated_in_modern_phraseology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Restated in Modern Phraseology</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-2-number-2-2000-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, Number 2, 2000 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stephen_Zendt/I_Will_Tell_Them_A_Story">
+          <span class="pr-2">“I Will Tell Them A Story”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

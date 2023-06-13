@@ -9,6 +9,30 @@ dateCreated: 2023-02-09T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Peter Holley<br>© 2005 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/The_Next_Fifty_Years_Dissemination">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Next Fifty Years: Dissemination</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-6-number-1-2005-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Number 1, 2005 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Finnie/On_Removing_The_Barrier_to_a_Civilized_Discussion_Of_Eugenics">
+          <span class="pr-2">On Removing The Barrier to a Civilized Discussion Of Eugenics</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (Editor’s Note: All words in bold print indicate emphasis by the author.)
 
@@ -216,6 +240,31 @@ I shall end this article with some quotes found scattered around _The Urantia Bo
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/The_Next_Fifty_Years_Dissemination">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Next Fifty Years: Dissemination</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-6-number-1-2005-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Number 1, 2005 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Finnie/On_Removing_The_Barrier_to_a_Civilized_Discussion_Of_Eugenics">
+          <span class="pr-2">On Removing The Barrier to a Civilized Discussion Of Eugenics</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

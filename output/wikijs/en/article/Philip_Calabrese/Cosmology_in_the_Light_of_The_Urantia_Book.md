@@ -9,6 +9,27 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Philip Calabrese<br>© 2012 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/The_Forgotten_Urantian_Dr_Lena_Sadler">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Forgotten Urantian: Dr. Lena Sadler</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-12-number-1-2012-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, Number 1, 2012 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 According to _The Urantia Book_[^1] many of our basic contemporary scientific concepts are greatly in need of revision or completely new foundations.[^2] The Big Bang (BB) Theory, the so-called Standard Interpretation of Quantum Mechanics, and also Einstein’s Relativity Theory, all need revision or overthrow. 
 
@@ -476,6 +497,28 @@ T = 1/H~0~ = [(3.262) \* (3.00) \* 10^11^ yr / 72] = 1.36 \* 10^10^ yr = 13.6 bi
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Mullins/The_Forgotten_Urantian_Dr_Lena_Sadler">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Forgotten Urantian: Dr. Lena Sadler</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-12-number-1-2012-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, Number 1, 2012 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes 
 

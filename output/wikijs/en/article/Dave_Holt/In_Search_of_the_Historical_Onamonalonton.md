@@ -9,6 +9,27 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Dave Holt<br>© 2009 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-10-number-1-2009-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, Number 1, 2009 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Nancy_Johnson/The_Role_of_Emotions_and_Feelings_on_an_Evolutionary_World">
+          <span class="pr-2">The Role of Emotions and Feelings on an Evolutionary World</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The migration of the red race across the Bering Strait landbridge began 100,000 years ago. It took many generations and lifetimes to complete. During the last era of glaciation when ice sheets absorbed large amounts of water, a drop of 300 feet in sea level created an exposed land mass one thousand miles wide from north to south. Early groups of the Sangik people who traveled through Beringia to present-day Alaska were nomadic tribes, uprooted by wars and looking for safe shelter. But they were not herders, and did not, for example, bring horses to America as the Spanish did later. It was an era of hunter-gatherer cultures, _hunters who practiced agriculture to a small extent._ [[UB 79:5.7](/en/The_Urantia_Book/79#p5_7)] 
 
@@ -262,6 +283,28 @@ Time | Events
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-10-number-1-2009-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, Number 1, 2009 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Nancy_Johnson/The_Role_of_Emotions_and_Feelings_on_an_Evolutionary_World">
+          <span class="pr-2">The Role of Emotions and Feelings on an Evolutionary World</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

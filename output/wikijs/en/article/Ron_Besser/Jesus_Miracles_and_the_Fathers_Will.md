@@ -9,6 +9,30 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Ronald Besser<br>© 2002 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nancy_Johnson/In_Search_of_the_Error_So_Great">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">In Search of the Error So Great</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-4-number-1-2002-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, Number 1, 2002 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Alison_Gardner/A_Demystification_and_Redefinition_of_Cult">
+          <span class="pr-2">A Demystification and Redefinition of Cult</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 More than one student of _The Urantia Book_ has wondered if the miracles performed by Jesus contravene his own post-baptismal decisions which purposed not to use superhuman powers in completing his lifework on Urantia. Trying to fathom the Father's will or the Creator Son's actions on any level is a weighty process, for it attempts to understand divine minds, Deity personality, spiritual power, and what motivates Deity actions and reactions to circumstances.
 
@@ -72,3 +96,27 @@ However he managed it, and in spite of appearances, Jesus committed no errors—
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nancy_Johnson/In_Search_of_the_Error_So_Great">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">In Search of the Error So Great</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-4-number-1-2002-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, Number 1, 2002 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Alison_Gardner/A_Demystification_and_Redefinition_of_Cult">
+          <span class="pr-2">A Demystification and Redefinition of Cult</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

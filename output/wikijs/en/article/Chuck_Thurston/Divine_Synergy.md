@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Chuck Thurston<br>© 2021 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Of_Two_Minds_Human_and_Divine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Of Two Minds: Human and Divine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-21-number-1-2021-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, Number 1, 2021 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jena_Lassiter/Introduce_Urantia_Teachings_to_15000_People_a_Month">
+          <span class="pr-2">Introduce Urantia Teachings to 15,000 People a Month</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The concept of “synergy” first appeared in theology and the natural sciences in the mid- nineteenth century, but with a meaning that was less focused than today’s understanding of the term. It was not until later, after _The Urantia Book_ was published, that the idea of synergy came into popular use with the definition that we have today: 
 
@@ -150,3 +174,27 @@ Our creative partnership with these endowments of spirit presence, as they are u
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Of_Two_Minds_Human_and_Divine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Of Two Minds: Human and Divine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-21-number-1-2021-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, Number 1, 2021 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jena_Lassiter/Introduce_Urantia_Teachings_to_15000_People_a_Month">
+          <span class="pr-2">Introduce Urantia Teachings to 15,000 People a Month</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

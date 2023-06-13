@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Arnie Ondis<br>© 2009 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sara_Blackstock/Joy_in_the_Worm_Bin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Joy in the Worm Bin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-10-number-1-2009-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, Number 1, 2009 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Philip_Calabrese/Solar_System_Discoveries_that_Corroborate_The_Urantia_Book">
+          <span class="pr-2">Solar System Discoveries that Corroborate The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The 7th Annual Emerald Coast Metaphysical Festival, which took place March 21–22 in Navarre, Florida presented a wonderful opportunity for me to share the Urantia revelation with others. I would like to share with you some of the lessons—values— that I experienced along the way, in the hope that this may be helpful to you when you are presented with opportunities to promote _The Urantia Book_. 
 
@@ -68,3 +92,27 @@ Be the Light.
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sara_Blackstock/Joy_in_the_Worm_Bin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Joy in the Worm Bin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-10-number-1-2009-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, Number 1, 2009 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Philip_Calabrese/Solar_System_Discoveries_that_Corroborate_The_Urantia_Book">
+          <span class="pr-2">Solar System Discoveries that Corroborate The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-09T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Nancy Johnson<br>© 2005 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Finnie/On_Removing_The_Barrier_to_a_Civilized_Discussion_Of_Eugenics">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Removing The Barrier to a Civilized Discussion Of Eugenics</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-6-number-1-2005-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Number 1, 2005 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stephen_Zendt/At_Home_In_The_Universe">
+          <span class="pr-2">At Home In The Universe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (Editor’s Note: Words in bold type throughout indicate emphasis by the author.)
 
@@ -59,3 +83,27 @@ I think the effort the readership at large has made toward spiritual growth sinc
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Finnie/On_Removing_The_Barrier_to_a_Civilized_Discussion_Of_Eugenics">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Removing The Barrier to a Civilized Discussion Of Eugenics</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-6-number-1-2005-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Number 1, 2005 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stephen_Zendt/At_Home_In_The_Universe">
+          <span class="pr-2">At Home In The Universe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

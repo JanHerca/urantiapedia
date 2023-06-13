@@ -9,6 +9,30 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Sara Blackstock<br>© 2002 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Finlan/Revelatory_Mouthpiecing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revelatory Mouthpiecing</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-4-number-1-2002-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, Number 1, 2002 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Nancy_Johnson/In_Search_of_the_Error_So_Great">
+          <span class="pr-2">In Search of the Error So Great</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (Editor's note: This article is adapted from a workshop given by Sara Blackstock at the University of California at Santa Cruz during the Fellowship's Summer Study Session 2001.)
 
@@ -122,3 +146,27 @@ These realities do not need studies with string and magnets to prove them. Anne 
 - Zohar, D. & Marshall, I. (2000). _Sq Connecting with Our Spiritual Intelligence_. Bloomsbury.
 
 > The cosmic-mind-endowed, Adjuster-indwelt, personal creature posseses innate recognition-realization of energy reality, mind reality, and spirit reality. \[[16:9.1](/en/The_Urantia_Book/16#p9_1)\]
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Finlan/Revelatory_Mouthpiecing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revelatory Mouthpiecing</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-4-number-1-2002-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, Number 1, 2002 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Nancy_Johnson/In_Search_of_the_Error_So_Great">
+          <span class="pr-2">In Search of the Error So Great</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

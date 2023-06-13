@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Larry Mullins<br>© 2012 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Authority_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion of Experience vs Religion of Authority</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-12-number-1-2012-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, Number 1, 2012 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book">
+          <span class="pr-2">Cosmology in the Light of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Lena_Sadler" class="image urantiapedia image-style-align-right">
@@ -30,3 +54,27 @@ Lena Sadler was a great Urantian. Her significance, like that of many extraordin
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Authority_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion of Experience vs Religion of Authority</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-12-number-1-2012-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, Number 1, 2012 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book">
+          <span class="pr-2">Cosmology in the Light of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

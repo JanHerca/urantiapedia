@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Rick Lyon<br>© 2018 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-18-number-1-2018-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, Number 1, 2018 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Byron_Belitsos/The_Soul_Synthesis_Hypothesis">
+          <span class="pr-2">The Soul Synthesis Hypothesis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 This article was first published in the UAI Journal, in April, 2012. 
 
@@ -174,3 +195,24 @@ This is the story of my progressive journey concerning my son and his eternal fu
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-18-number-1-2018-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, Number 1, 2018 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Byron_Belitsos/The_Soul_Synthesis_Hypothesis">
+          <span class="pr-2">The Soul Synthesis Hypothesis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

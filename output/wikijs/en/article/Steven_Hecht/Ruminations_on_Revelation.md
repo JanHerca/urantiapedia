@@ -9,6 +9,30 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Steven Hecht<br>© 2003 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bobbie_Dreier/A_Jewish_Girl_Finds_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Jewish Girl Finds Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-5-number-1-2003-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, Number 1, 2003 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Kantor/Safeguarding_the_Symbols_of_Urantian_Faith">
+          <span class="pr-2">Safeguarding the Symbols of Urantian Faith</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (Presented at the New York/New England Readers' Conference, November, 2002)
 
@@ -56,3 +80,27 @@ Then the Master proceeded to warn his hearers against entertaining the notion th
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bobbie_Dreier/A_Jewish_Girl_Finds_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Jewish Girl Finds Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-5-number-1-2003-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, Number 1, 2003 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Kantor/Safeguarding_the_Symbols_of_Urantian_Faith">
+          <span class="pr-2">Safeguarding the Symbols of Urantian Faith</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

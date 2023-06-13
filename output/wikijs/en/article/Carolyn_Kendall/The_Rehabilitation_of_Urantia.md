@@ -9,6 +9,27 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Carolyn Kendall<br>© 2014 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-14-number-1-2014-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, Number 1, 2014 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_S_Sadler_Jr/The_Journey_Following_Mortal_Death">
+          <span class="pr-2">The Journey Following Mortal Death</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 When a new reader asks why _The Urantia Book_ came down from God or the angels, our response is usually one or more of several reasons: To reveal the true nature of God, the Heavenly Father; to disclose the truth about the life and mission of Jesus of Nazareth; to provide a full narrative of the evolution of the universe and our world; to describe the wondrous life in store for us after death; or simply, to save souls. We might add that another worthy purpose of the Urantia Revelation is to inspire human society to embark upon the pathway toward social and spiritual enlightenment and to propel this world toward the planetary stages of light and life. 
 
@@ -164,6 +185,28 @@ On another occasion, the July 30, 1971 opening session of the Summer Study Sessi
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-14-number-1-2014-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, Number 1, 2014 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_S_Sadler_Jr/The_Journey_Following_Mortal_Death">
+          <span class="pr-2">The Journey Following Mortal Death</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

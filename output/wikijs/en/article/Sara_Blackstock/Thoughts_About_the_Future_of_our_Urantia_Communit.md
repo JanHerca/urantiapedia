@@ -9,6 +9,30 @@ dateCreated: 2023-02-09T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Sara Blackstock<br>© 2005 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dave_Holt/Journey_to_India_Legacy_of_the_Sethite_Teachers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journey to India: Legacy of the Sethite Teachers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-6-number-1-2005-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Number 1, 2005 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Tom_Allen/Legacy_in_Peril_Children_and_the_Urantia_Community">
+          <span class="pr-2">Legacy in Peril: Children and the Urantia Community</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (Editor’s Note: All words in bold print indicate emphasis by the author.)
 
@@ -81,3 +105,27 @@ If we can allow and guide our children to grow their own religion, to experience
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dave_Holt/Journey_to_India_Legacy_of_the_Sethite_Teachers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journey to India: Legacy of the Sethite Teachers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-6-number-1-2005-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Number 1, 2005 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Tom_Allen/Legacy_in_Peril_Children_and_the_Urantia_Community">
+          <span class="pr-2">Legacy in Peril: Children and the Urantia Community</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

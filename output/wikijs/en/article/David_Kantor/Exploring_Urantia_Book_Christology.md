@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 David Kantor<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Derek_Samaras/Ancient_Japan_Jomon_Culture">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ancient Japan: Jōmon Culture</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-19-number-1-2019-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, Number 1, 2019 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Tenney_and_others/Working_with_Mother_Spirit_to_Uplift_the_World">
+          <span class="pr-2">Working with Mother Spirit to Uplift the World</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/David_Kantor/Exploring_Urantia_Book_Christology/004144.jpg">
@@ -67,3 +91,27 @@ Christianity in the first few centuries of the Christian era was characterized b
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Derek_Samaras/Ancient_Japan_Jomon_Culture">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ancient Japan: Jōmon Culture</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-19-number-1-2019-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, Number 1, 2019 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Tenney_and_others/Working_with_Mother_Spirit_to_Uplift_the_World">
+          <span class="pr-2">Working with Mother Spirit to Uplift the World</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

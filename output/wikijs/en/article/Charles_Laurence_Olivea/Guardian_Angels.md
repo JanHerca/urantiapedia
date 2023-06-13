@@ -9,6 +9,27 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Charles Olivea<br>© 2006 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-7-number-1-2006-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, Number 1, 2006 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gina_Buselli/Youth_and_The_Urantia_Book">
+          <span class="pr-2">Youth and The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 “Angel of God, my guardian dear, to whom his love commits me here, ever this day be at my side, to light and guard, to rule and guide.” This is a commonplace, popular prayer to one’s guardian angel. It is usually thought of as a child’s prayer, spoken in the morning or the evening. There is an endearing quality about it, innocence accompanied by power. How many of us, adults as well as children, crave to love and be loved by someone, of having the reassuring sense of being watched over and protected? _There is great comfort and value in knowing we are not alone_.
 
@@ -235,6 +256,28 @@ I have read _The Urantia Book_ for many years as part of my decision to consciou
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-7-number-1-2006-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, Number 1, 2006 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gina_Buselli/Youth_and_The_Urantia_Book">
+          <span class="pr-2">Youth and The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

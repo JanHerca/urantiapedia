@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Jena Lassiter<br>© 2021 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chuck_Thurston/Divine_Synergy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Divine Synergy</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-21-number-1-2021-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, Number 1, 2021 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mark_Blackham/Chronology_of_Death_Resurrection_Ascension_of_Jesus">
+          <span class="pr-2">Chronology of Death Resurrection Ascension of Jesus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Many of us have introduced the teachings to people we know. Our lives are richer because of our understanding of _The Urantia Book_ teachings. Many of us believe that there would be more joy and peace in the world if everyone on the planet could see that our physical lives here are a part of a larger journey as spirit beings. I am so inspired by the teachings that I have tried to introduce the book to my friends and family hoping that they could experience a similar transformation. 
 
@@ -55,3 +79,27 @@ Training will be available so moderators will know how to truly listen and suppo
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chuck_Thurston/Divine_Synergy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Divine Synergy</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-21-number-1-2021-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, Number 1, 2021 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mark_Blackham/Chronology_of_Death_Resurrection_Ascension_of_Jesus">
+          <span class="pr-2">Chronology of Death Resurrection Ascension of Jesus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

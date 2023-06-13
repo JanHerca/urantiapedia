@@ -9,6 +9,27 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Carolyn Kendall and Barbara Newsom<br>© 2010 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-11-number-1-2010-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, Number 1, 2010 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Authority">
+          <span class="pr-2">Religion of Experience vs. Religion of Authority</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Presented by Carolyn Kendall and Barbara Newsom, April 11, 2010, Schaumburg, Illinois _
 
@@ -132,3 +153,24 @@ Many of our fellow humans are seeking for something beyond themselves to enrich 
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-11-number-1-2010-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, Number 1, 2010 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Authority">
+          <span class="pr-2">Religion of Experience vs. Religion of Authority</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

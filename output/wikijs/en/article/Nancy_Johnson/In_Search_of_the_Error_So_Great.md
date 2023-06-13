@@ -9,6 +9,30 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Nancy Johnson<br>© 2002 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sara_Blackstock/Faith_Wiring_in_the_Brain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faith Wiring in the Brain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-4-number-1-2002-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, Number 1, 2002 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ron_Besser/Jesus_Miracles_and_the_Fathers_Will">
+          <span class="pr-2">Jesus' Miracles and the Father's Will</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (First presented at the 1990 Fellowship International Conference, Snowmass, CO.)
 
@@ -175,3 +199,27 @@ _The Urantia Book_ tells us our enduring reality is that we are fragments of the
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sara_Blackstock/Faith_Wiring_in_the_Brain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faith Wiring in the Brain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-4-number-1-2002-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, Number 1, 2002 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ron_Besser/Jesus_Miracles_and_the_Fathers_Will">
+          <span class="pr-2">Jesus' Miracles and the Father's Will</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

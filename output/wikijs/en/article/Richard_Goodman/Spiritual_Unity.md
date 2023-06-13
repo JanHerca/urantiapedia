@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Richard Goodman<br>© 2014 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Glass/Origin_Nature_Ministry_and_Destiny_of_Thought_Adjusters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Origin, Nature, Ministry, and Destiny of Thought Adjusters</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-14-number-1-2014-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, Number 1, 2014 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Linda_Buselli/Prayer_Why_Bother">
+          <span class="pr-2">Prayer? Why Bother?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The following was presented on May 17, 2014, at the First Society Mini-Conference in Chicago. _
 
@@ -56,3 +80,27 @@ The great comedian and pioneer of cinematic sarcasm, Groucho Marx, echoed Jesus�
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Glass/Origin_Nature_Ministry_and_Destiny_of_Thought_Adjusters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Origin, Nature, Ministry, and Destiny of Thought Adjusters</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-14-number-1-2014-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, Number 1, 2014 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Linda_Buselli/Prayer_Why_Bother">
+          <span class="pr-2">Prayer? Why Bother?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

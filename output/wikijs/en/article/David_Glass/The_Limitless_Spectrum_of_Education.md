@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 David Glass<br>© 2009 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Kantor/Becoming_an_Effective_Missionary_Evangel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Becoming an Effective Missionary Evangel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-10-number-1-2009-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, Number 1, 2009 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Nash/Urantia_University_U2">
+          <span class="pr-2">Urantia University - U2</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 An essay for a conference-retreat at Belton, Texas, July 25-27, 2008 
 
@@ -86,3 +110,27 @@ And all this is offered to us as the free gift of our matchlessly Good and Perfe
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Kantor/Becoming_an_Effective_Missionary_Evangel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Becoming an Effective Missionary Evangel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-10-number-1-2009-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, Number 1, 2009 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Nash/Urantia_University_U2">
+          <span class="pr-2">Urantia University - U2</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

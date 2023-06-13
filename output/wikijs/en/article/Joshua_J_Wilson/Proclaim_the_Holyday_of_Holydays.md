@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Bro. Joshua J. Wilson<br>© 2021 Elianne Obadia, for the edition<br>© 2021 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Tom_Choquette/Sojourner_of_the_Soul_Gardener_of_our_Hearts">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sojourner of the Soul: Gardener of our Hearts</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-21-number-1-2021-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, Number 1, 2021 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## The Coronation 
 
@@ -113,3 +134,24 @@ Available upon request by writing to musical@cox.net.
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Tom_Choquette/Sojourner_of_the_Soul_Gardener_of_our_Hearts">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sojourner of the Soul: Gardener of our Hearts</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-21-number-1-2021-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, Number 1, 2021 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Rabia Harris<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Neal_Waldrop/Epochal_Pathways">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Epochal Pathways</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-19-number-1-2019-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, Number 1, 2019 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bruce_Jackson/The_Challenge_of_Revelation_Based_Education">
+          <span class="pr-2">The Challenge of Revelation Based Education</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 There was a time when the religion of a culture defined a person throughout life. No choice was presented as a part of his socialization. This was never to be questioned. Though there may have been doubt and skepticism, few in any established society dared questioned the dominant religious paradigm. 
 
@@ -50,6 +74,31 @@ Maybe it’s time to begin to use new words for our spiritual connections. The w
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Neal_Waldrop/Epochal_Pathways">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Epochal Pathways</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-19-number-1-2019-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, Number 1, 2019 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bruce_Jackson/The_Challenge_of_Revelation_Based_Education">
+          <span class="pr-2">The Challenge of Revelation Based Education</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

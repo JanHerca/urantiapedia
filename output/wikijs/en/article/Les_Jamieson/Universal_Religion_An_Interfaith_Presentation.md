@@ -9,6 +9,30 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Les Jamieson<br>© 2001 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Behzad_Sarmast/Show_Us_a_Miracle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Show Us A Miracle!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-3-number-1-2001-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3, Number 1, 2001 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Charles_Montgomery/Ethical_Eugenics_A_Modest_Proposal_For_The_21st_Century">
+          <span class="pr-2">Ethical Eugenics: A Modest Proposal For The 21st Century</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 For many years I wanted to find a way to contribute to fostering greater understanding between religions. When Peter Laurence, a long time reader, led me to the Interfaith Council of New York, I found their all-inclusive, community-based focus very refreshing. The Interfaith Council invites participation from all religions and faiths and creates programs designed to facilitate dialogue and interaction between them, and I was accepted as a representative of the local Urantia Book community, even though they had no idea of what the book was about.
 
@@ -94,3 +118,27 @@ To learn more about readers involved in the inter-faith movement, and how you ca
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Behzad_Sarmast/Show_Us_a_Miracle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Show Us A Miracle!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-3-number-1-2001-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3, Number 1, 2001 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Charles_Montgomery/Ethical_Eugenics_A_Modest_Proposal_For_The_21st_Century">
+          <span class="pr-2">Ethical Eugenics: A Modest Proposal For The 21st Century</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

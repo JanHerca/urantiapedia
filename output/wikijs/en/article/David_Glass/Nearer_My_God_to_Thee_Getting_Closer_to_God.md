@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 David Glass<br>© 2011 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Linda_Buselli/Machiventa_Melchizedek_One_of_Historys_Mysteries">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Machiventa Melchizedek: One of History's Mysteries</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-11-number-2-2011-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, Number 2, 2011 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/One_Mans_Tour_Through_The_Evolutionary_Debate">
+          <span class="pr-2">One Man's Tour Through The Evolutionary Debate</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > The progressive comprehension of reality is the equivalent of approaching God. [[UB 196:3.3](/en/The_Urantia_Book/196#p3_3)] 
 
@@ -156,3 +180,27 @@ It is both my prayer and purpose that this survey of information about the Unive
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Linda_Buselli/Machiventa_Melchizedek_One_of_Historys_Mysteries">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Machiventa Melchizedek: One of History's Mysteries</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-11-number-2-2011-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, Number 2, 2011 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/One_Mans_Tour_Through_The_Evolutionary_Debate">
+          <span class="pr-2">One Man's Tour Through The Evolutionary Debate</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

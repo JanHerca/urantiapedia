@@ -9,6 +9,30 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Steven Hecht<br>© 2004 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Arlene_and_Buck_Weimer/The_Art_of_Marriage">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Art of Marriage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-5-number-2-2004-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, Number 2, 2004 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/The_Golden_Rule_in_Business">
+          <span class="pr-2">The Golden Rule in Business</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Truth is not a state so much as a process, the process of living. _The Urantia Book_ teaches this. This insight is crucial for postmodern religion and its understanding of divinity: God, divinity, is not to be found in a body of belief or in a body of knowledge. God is not a state of being, even the highest state of being. God is beyond Being. The postmodern God is divinity in the process of finding God in the other person, in the call, the divine command, in that to serve the other, to find God. In _The Urantia Book_, Jesus was able to describe this call as the kingdom of heaven, the will of God. Postmodern philosophy and _The Urantia Book_ are able to say that the ability to hear that command has little to do with belief and everything to do with faith.
 
@@ -126,3 +150,27 @@ There will be a new voice for God, a voice with which we all can sing.
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Arlene_and_Buck_Weimer/The_Art_of_Marriage">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Art of Marriage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-5-number-2-2004-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, Number 2, 2004 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Mullins/The_Golden_Rule_in_Business">
+          <span class="pr-2">The Golden Rule in Business</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

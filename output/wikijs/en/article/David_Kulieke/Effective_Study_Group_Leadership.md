@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 David Kulieke<br>© 2015 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-15-number-1-2015-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, Number 1, 2015 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dave_Holt/Can_We_Have_a_Universal_Standard_of_Morality">
+          <span class="pr-2">Can We Have a Universal Standard of Morality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The following speech was delivered at the UAI Study Group Symposium, June 11–15, 2014 in Madison, WI. _
 
@@ -185,3 +206,24 @@ Study groups are very, very important places and study group hosts are very, ver
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-15-number-1-2015-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, Number 1, 2015 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dave_Holt/Can_We_Have_a_Universal_Standard_of_Morality">
+          <span class="pr-2">Can We Have a Universal Standard of Morality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

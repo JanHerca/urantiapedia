@@ -9,6 +9,27 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Steve Dreier<br>© 2013 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-13-number-1-2013-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, Number 1, 2013 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gary_Deinstadt/Religion_of_One">
+          <span class="pr-2">Religion of One</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The following is a plenary speech given at_ The Urantia Book _Fellowship’s International Conference at Villanova University in Philadelphia, PA, in 2005._ 
 
@@ -99,3 +120,24 @@ Personality is central. I don’t think we focus on it nearly enough. We need to
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-13-number-1-2013-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, Number 1, 2013 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gary_Deinstadt/Religion_of_One">
+          <span class="pr-2">Religion of One</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

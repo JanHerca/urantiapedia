@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Paula Thompson<br>© 2016 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_S_Sadler_Jr/Mindedness_and_Spirituality_Comments_on_the_Absolutes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mindedness and Spirituality, Comments on the Absolutes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-16-number-1-2016-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, Number 1, 2016 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gary_Deinstadt/Top_Down">
+          <span class="pr-2">Top/Down</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Well, because if you are reading _The Urantia Book_ you know what it means to be spiritually hungry and you know firsthand what a difference the revelation makes when one’s soul is truly fed. 
 
@@ -35,3 +59,27 @@ To donate online, go to the Fellowship website, http://www.urantiabook.org and c
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_S_Sadler_Jr/Mindedness_and_Spirituality_Comments_on_the_Absolutes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mindedness and Spirituality, Comments on the Absolutes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-16-number-1-2016-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, Number 1, 2016 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gary_Deinstadt/Top_Down">
+          <span class="pr-2">Top/Down</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

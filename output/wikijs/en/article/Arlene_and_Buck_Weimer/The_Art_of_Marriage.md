@@ -9,6 +9,30 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Arlene and Buck Weimer<br>© 2004 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Peter_Holley/Meditation_in_The_Urantia_Book_Jesus_Style">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meditation in The Urantia Book, Jesus Style</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-5-number-2-2004-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, Number 2, 2004 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Steven_Hecht/A_Trace_of_God">
+          <span class="pr-2">A Trace of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (Below is a restatement of a workshop presented at the Summer Study Session in East Stroudsburg, PA on July 18, 2003. It was presented by Arlene and Buck Weimer, with loving assistance from Sara Blackstock, in 2 parts: “The Art of Marriage” and “Family Meetings and Discipline.”)
 
@@ -103,3 +127,27 @@ Family Meetings and the Respect Method of discipline offer a “win-win” situa
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Peter_Holley/Meditation_in_The_Urantia_Book_Jesus_Style">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Meditation in The Urantia Book, Jesus Style</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-5-number-2-2004-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, Number 2, 2004 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Steven_Hecht/A_Trace_of_God">
+          <span class="pr-2">A Trace of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

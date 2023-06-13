@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Preston Thomas<br>© 2006 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gina_Buselli/Youth_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Youth and The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-7-number-1-2006-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, Number 1, 2006 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bill_and_Share_Beasley/Serving_A_Cookbook_for_the_Soul">
+          <span class="pr-2">Serving: A Cookbook for the Soul</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Secularism And The Prophetic Viewpoint
 
@@ -214,3 +238,27 @@ _The Urantia Book_ clearly tells us to join in this great spiritual undertaking 
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gina_Buselli/Youth_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Youth and The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-7-number-1-2006-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, Number 1, 2006 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bill_and_Share_Beasley/Serving_A_Cookbook_for_the_Soul">
+          <span class="pr-2">Serving: A Cookbook for the Soul</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

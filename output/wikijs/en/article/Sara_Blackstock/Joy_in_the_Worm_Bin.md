@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Sara Blackstock<br>© 2009 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nancy_Johnson/The_Role_of_Emotions_and_Feelings_on_an_Evolutionary_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Role of Emotions and Feelings on an Evolutionary World</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-10-number-1-2009-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, Number 1, 2009 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Arnie_Ondis/Ten_Lessons_from_the_Vineyard">
+          <span class="pr-2">Ten Lessons from the Vineyard</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > A Living Metaphor for “… the divine fire of the will-to-service” [[UB 48:6.34](/en/The_Urantia_Book/48#p6_34)] 
 
@@ -76,3 +100,27 @@ We can feel this “_divine fire of the will-service_” in our very souls. The 
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nancy_Johnson/The_Role_of_Emotions_and_Feelings_on_an_Evolutionary_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Role of Emotions and Feelings on an Evolutionary World</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-10-number-1-2009-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, Number 1, 2009 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Arnie_Ondis/Ten_Lessons_from_the_Vineyard">
+          <span class="pr-2">Ten Lessons from the Vineyard</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

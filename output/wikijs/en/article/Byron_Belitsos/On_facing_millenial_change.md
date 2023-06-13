@@ -9,6 +9,30 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Byron Belitsos<br>© 1999 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Challenge of the 21st Century</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-1-number-2-1999-spring">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, Number 2, 1999 (Spring) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Behzad_Sarmast/Magisterial_missions">
+          <span class="pr-2">Magisterial Missions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 With the end of the millennium upon us and the Y2K crisis imminent, the word “apocalypse” is going to be essential in everyone’s lexicon, especially the media. Originally — biblically — the term apocalypse meant a revealing of secrets, an “unveiling” of hidden truths. “Apocalyptical millennialism” — an impossible phrase for the media to pronounce glibly (and thus much less overused) — refers to the unveiling of the hidden secrets of times, at the end of historical time — more specifically at a millenium’s end. In the end-times, as the apocalyptical millennialist tale goes, evil and suffering — all the things and people one finds insufferable — will finally come to a decisive end in a new and undreamed-of Utopia. 
 
@@ -52,3 +76,27 @@ Thus we find that faith (spiritual practice) and hope are interdependent; we fin
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Challenge of the 21st Century</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-1-number-2-1999-spring">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, Number 2, 1999 (Spring) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Behzad_Sarmast/Magisterial_missions">
+          <span class="pr-2">Magisterial Missions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

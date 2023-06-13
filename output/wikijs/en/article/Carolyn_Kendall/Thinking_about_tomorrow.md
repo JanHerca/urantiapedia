@@ -9,6 +9,27 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Carolyn Kendall<br>© 2000 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-2-number-2-2000-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, Number 2, 2000 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Elders/Restated_in_modern_phraseology">
+          <span class="pr-2">Restated in Modern Phraseology</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Excerpts from the address presented at the observance of the 50th Anniversary of the founding of Urantia Foundation, Chicago, IL, Saturday, March 18, 2000_
 
@@ -82,3 +103,24 @@ It might be useful to think about where our true loyalties and priorities should
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-2-number-2-2000-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, Number 2, 2000 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Elders/Restated_in_modern_phraseology">
+          <span class="pr-2">Restated in Modern Phraseology</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

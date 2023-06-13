@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Berkeley Elliott<br>© 2006 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bill_and_Share_Beasley/Serving_A_Cookbook_for_the_Soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Serving: A Cookbook for the Soul</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-7-number-1-2006-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, Number 1, 2006 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Philip_Calabrese/The_Coming_Scientific_Validation_of_The_Urantia_Book">
+          <span class="pr-2">The Coming Scientific Validation of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The following article contains excerpts of a speech given by the author on July 22, 1973._
 
@@ -98,3 +122,27 @@ We do know “_No personal creature can be coerced into the eternal adventure; t
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bill_and_Share_Beasley/Serving_A_Cookbook_for_the_Soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Serving: A Cookbook for the Soul</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-7-number-1-2006-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, Number 1, 2006 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Philip_Calabrese/The_Coming_Scientific_Validation_of_The_Urantia_Book">
+          <span class="pr-2">The Coming Scientific Validation of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

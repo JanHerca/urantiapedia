@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Joshua Wilson<br>© 2020 Elianne Obadia, for the edition<br>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michael_Hill/Growing_the_Supreme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Growing the Supreme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-20-number-1-2020-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, Number 1, 2020 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Glass/TODAY_is_the_day_for_JOY">
+          <span class="pr-2">TODAY is the day for JOY!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Everyone has a birth mother. And, to foster greater love within the family circle, much can be gained from discovering and knowing the _divine feminine_. 
 
@@ -138,3 +162,27 @@ Universe philosophers have stated there are multiple, many, perhaps even infinit
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michael_Hill/Growing_the_Supreme">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Growing the Supreme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-20-number-1-2020-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, Number 1, 2020 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Glass/TODAY_is_the_day_for_JOY">
+          <span class="pr-2">TODAY is the day for JOY!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

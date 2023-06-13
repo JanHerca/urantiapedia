@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Larry Bowman<br>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-20-number-1-2020-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, Number 1, 2020 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dave_Holt/From_the_Supreme_to_the_Three_Persond_God_Seven_Levels_of_Total_Deity">
+          <span class="pr-2">From the Supreme to the Three Person’d God: Seven Levels of Total Deity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In the 65-year history of Urantia Brotherhood/ Urantia Book Fellowship, there probably has been only one time when General Council lost three of its members from death in a very short time span. That moment occurred from the tail end of 2019 to early April 2020, with the passing of Emilio Coppola, Avi Dogim, and Stephen Dreier. 
 
@@ -57,3 +78,24 @@ On the cover of this issue of Fellowship _Herald_ , Stephen Sawyer has created a
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-20-number-1-2020-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, Number 1, 2020 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dave_Holt/From_the_Supreme_to_the_Three_Persond_God_Seven_Levels_of_Total_Deity">
+          <span class="pr-2">From the Supreme to the Three Person’d God: Seven Levels of Total Deity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

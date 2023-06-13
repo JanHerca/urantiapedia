@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Arlene and Buck Weimer<br>© 2008 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michelle_Klimesh/Celestial_Ministry_Seen_and_Unseen">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Celestial Ministry: Seen and Unseen</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-9-number-1-2008-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, Number 1, 2008 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Carolyn_Kendall/Guess_Whos_Coming_Next">
+          <span class="pr-2">Guess Who's Coming Next?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The following was presented at the Fellowship Summer Session in July, 2007._  
 
@@ -98,3 +122,27 @@ Outreach is the ministry of sharing the Gospel, and each individual must find th
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michelle_Klimesh/Celestial_Ministry_Seen_and_Unseen">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Celestial Ministry: Seen and Unseen</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-9-number-1-2008-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, Number 1, 2008 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Carolyn_Kendall/Guess_Whos_Coming_Next">
+          <span class="pr-2">Guess Who's Coming Next?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

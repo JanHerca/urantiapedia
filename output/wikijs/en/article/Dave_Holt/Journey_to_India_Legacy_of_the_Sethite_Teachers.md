@@ -9,6 +9,30 @@ dateCreated: 2023-02-09T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Dave Holt<br>© 2005 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Pierre_Heudier/Pattern_of_Unity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pattern of Unity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-6-number-1-2005-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Number 1, 2005 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sara_Blackstock/Thoughts_About_the_Future_of_our_Urantia_Communit">
+          <span class="pr-2">Thoughts About the Future of our Urantia Community</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > There is not a Urantia religion that could not profitably study and assimilate the best of the truths contained in every other faith, for all contain truth. [[UB 92:7.3](/en/The_Urantia_Book/92#p7_3)]
 
@@ -166,3 +190,27 @@ Undoubtedly, you will have other ideas as to how we can eventually collaborate t
 - R.C. Zaehner, _Hindu Scriptures_. (J. M. Dent & Sons, Ltd. 1966) for Rig Veda X.82, and Chandogya Upanishad
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jean_Pierre_Heudier/Pattern_of_Unity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pattern of Unity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-6-number-1-2005-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Number 1, 2005 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sara_Blackstock/Thoughts_About_the_Future_of_our_Urantia_Communit">
+          <span class="pr-2">Thoughts About the Future of our Urantia Community</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

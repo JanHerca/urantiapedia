@@ -9,6 +9,27 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Larry Mullins<br>© 2004 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Steven_Hecht/A_Trace_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Trace of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-5-number-2-2004-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, Number 2, 2004 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In 1923 Arthur Nash published a book, The Golden Rule in Business. During World War I Nash bought and took over management of a small Cincinnati clothing “sweat shop.” Bear in mind that such small shops were composed of inefficient workers who could not get jobs in better garment manufacturing shops. Wages were very low, and working conditions extremely bad. The highest paid woman in the shop received seven dollars a week—extremely low even for those days.
 
@@ -48,3 +69,24 @@ Nash said he would never have continued in the business world were it not for th
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Steven_Hecht/A_Trace_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Trace of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-5-number-2-2004-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, Number 2, 2004 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

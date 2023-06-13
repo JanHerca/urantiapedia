@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Richard S. Omura<br>© 2010 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carolyn_Kendall_and_Barbara_Newsom/The_World_is_Not_Coming_to_an_End">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The World is Not Coming to an End</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-11-number-1-2010-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, Number 1, 2010 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/God_Consciousness">
+          <span class="pr-2">God Consciousness</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In the “Discourse on Religion” Joshua ben Joseph (Jesus) talks to his apostles on the religion of authority versus the religion of spiritual experience. He names the traditional faiths as religions of authority, based on intellectual assent. 
 
@@ -68,3 +92,27 @@ Joshua: “_Now, mistake not, my Father will ever respond to the faintest flicke
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carolyn_Kendall_and_Barbara_Newsom/The_World_is_Not_Coming_to_an_End">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The World is Not Coming to an End</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-11-number-1-2010-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, Number 1, 2010 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/God_Consciousness">
+          <span class="pr-2">God Consciousness</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

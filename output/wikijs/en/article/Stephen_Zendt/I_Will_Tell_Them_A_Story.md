@@ -9,6 +9,30 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Stephen Zendt<br>© 2000 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Irwin_Ginsburgh/Scientific_Predictions_of_The_Urantia_Book_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Scientific Predictions of The Urantia Book - Part II</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-2-number-2-2000-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, Number 2, 2000 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sara_Blackstock/The_Science_of_Parenting">
+          <span class="pr-2">The Science of Parenting</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jesus began to use parables with this declaration ([UB 151:1.1](/en/The_Urantia_Book/151#p1_1)) and proceeded to tell the multitude the story of the sower of the seed. Later, the apostle Matthew asked him: "_Why do you speak in parables to those who seek the truth?" Jesus is instructive in his reply to them, saying, in part, " .. . those who really desire to enter the kingdom may discern the meaning of the teaching and thus find salvation, while those who listen only to ensnare us may be the more confounded in that they will see without seeing and will hear without hearing._" ([UB 151:1.3-4](/en/The_Urantia_Book/151#p1_3)) I am fascinated with this storytelling which the Master uses so perceptively. It is my belief that the parables of Jesus are expressions of his genius and are genuine pieces of art. For many years, I treasured the story of the Prodigal Son, for it spoke to me deeply at a time when I felt like a prodigal. Ask many people, and they will remember the parables more than any other feature of Jesus' teaching.
 
@@ -40,3 +64,27 @@ As you practice honing your writing skills, keep Jesus' admonition in mind:
 
 > Stephen Zendt, a reader since 1971, and host of a study group in San Francisco, is currently a member of the General Council, the Fellowship Education Committee, and is creating a Wrightwood Panel on parables. He has worked on various projects as a narration voice, including _The Urantia Book_ on tape.
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Irwin_Ginsburgh/Scientific_Predictions_of_The_Urantia_Book_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Scientific Predictions of The Urantia Book - Part II</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-2-number-2-2000-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, Number 2, 2000 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sara_Blackstock/The_Science_of_Parenting">
+          <span class="pr-2">The Science of Parenting</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Jeanne Melchior<br>© 1999 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Henry_Begemann/Springtime_a_study_of_the_future">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Springtime: A Study of the Future</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-1-number-2-1999-spring">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, Number 2, 1999 (Spring) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Linda_Buselli/The_seven_psychic_circles">
+          <span class="pr-2">The Seven Psychic Circles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In addition to being a longtime reader of _The Urantia Book_, I have been teaching English, reading, and communication skills for over twenty years. In that time, some of the most profound changes I’ve seen come about have been those involving gender. Among speakers of the English language, there is an increased awareness of the need for non-biased usage; and words like “man” and “mankind” are now commonly changed to “humankind” in order to reflect the presence of over fifty percent of the population, while the generic masculine pronoun is fast becoming extinct. 
 
@@ -54,3 +78,27 @@ I’m awaiting the day when clearly and unequivocally, God begins speaking to wo
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Henry_Begemann/Springtime_a_study_of_the_future">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Springtime: A Study of the Future</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-1-number-2-1999-spring">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, Number 2, 1999 (Spring) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Linda_Buselli/The_seven_psychic_circles">
+          <span class="pr-2">The Seven Psychic Circles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

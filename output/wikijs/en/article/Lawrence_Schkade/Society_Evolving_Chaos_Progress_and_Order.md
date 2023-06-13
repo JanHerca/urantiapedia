@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Lawrence Schkade<br>© 2015 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_S_Sadler/Sixty_Four_Original_Urantia_Book_Concepts">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sixty-Four Original Urantia Book Concepts</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-15-number-1-2015-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, Number 1, 2015 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Preston_Thomas/The_Importance_of_Christian_Ministry">
+          <span class="pr-2">The Importance of Christian Ministry</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “Can you not … recognize that the watchword of the universe is progress? … Throughout all these millenniums Providence has been working out the plan of progressive evolution.” [[UB 4:1.2](/en/The_Urantia_Book/4#p1_2)] 
 
@@ -106,6 +130,31 @@ While we are not likely to reach light and life on Urantia, we are destined to h
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_S_Sadler/Sixty_Four_Original_Urantia_Book_Concepts">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sixty-Four Original Urantia Book Concepts</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-15-number-1-2015-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, Number 1, 2015 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Preston_Thomas/The_Importance_of_Christian_Ministry">
+          <span class="pr-2">The Importance of Christian Ministry</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes 
 

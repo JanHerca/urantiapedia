@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Michael Hill<br>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dave_Holt/From_the_Supreme_to_the_Three_Persond_God_Seven_Levels_of_Total_Deity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">From the Supreme to the Three Person’d God: Seven Levels of Total Deity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-20-number-1-2020-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, Number 1, 2020 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Joshua_J_Wilson/Adoration_of_the_Mother">
+          <span class="pr-2">Adoration of the Mother</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (From a presentation given a the 2018 UCNOW Gathering at Lake Wallowa by Michael Hill) For more information on the Urantian Communities Northwest see https://www.ucnow.net/ 
 
@@ -88,3 +112,27 @@ Relationships are the threads on the loom of time that weave the tapestry that i
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dave_Holt/From_the_Supreme_to_the_Three_Persond_God_Seven_Levels_of_Total_Deity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">From the Supreme to the Three Person’d God: Seven Levels of Total Deity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-20-number-1-2020-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, Number 1, 2020 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Joshua_J_Wilson/Adoration_of_the_Mother">
+          <span class="pr-2">Adoration of the Mother</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

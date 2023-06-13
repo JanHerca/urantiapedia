@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Dennis Marshall<br>© 2017 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michael_Painter/What_is_Interfaith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What is Interfaith?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-17-number-1-2017-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Number 1, 2017 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Michelle_Klimesh/Questions_About_Being_Human">
+          <span class="pr-2">Questions About Being Human</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 First of all, let me declare that I enter this discussion without prejudice. For though I was raised a Roman Catholic, I left the church around age sixteen and never had put much stock in virgin births, visions of Mary, or the Shroud of Turin. 
@@ -103,3 +127,27 @@ If it turns out that the Shroud is authentic, what will it mean to readers of th
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michael_Painter/What_is_Interfaith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What is Interfaith?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-17-number-1-2017-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Number 1, 2017 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Michelle_Klimesh/Questions_About_Being_Human">
+          <span class="pr-2">Questions About Being Human</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

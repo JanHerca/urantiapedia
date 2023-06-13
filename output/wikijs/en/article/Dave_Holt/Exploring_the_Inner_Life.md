@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Dave Holt<br>© 2013 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/A_Cosmology_of_Race">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Cosmology of Race</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-13-number-1-2013-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, Number 1, 2013 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Kantor/Spiritual_Faith_Incertainty_and_Cosmic_Citizenship">
+          <span class="pr-2">Spiritual Faith, Incertainty and Cosmic Citizenship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God. [UB 111:5.1](/en/The_Urantia_Book/111#p5_1) 
@@ -107,6 +131,31 @@ The development of a personal relationship with God anticipates the next evoluti
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/A_Cosmology_of_Race">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Cosmology of Race</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-13-number-1-2013-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, Number 1, 2013 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Kantor/Spiritual_Faith_Incertainty_and_Cosmic_Citizenship">
+          <span class="pr-2">Spiritual Faith, Incertainty and Cosmic Citizenship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

@@ -9,6 +9,30 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 David Kantor<br>© 2003 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Steven_Hecht/Ruminations_on_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ruminations on Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-5-number-1-2003-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, Number 1, 2003 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Al_Lockett/When_Belief_Becomes_Faith">
+          <span class="pr-2">When Belief Becomes Faith</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 This essay is based almost entirely upon ideas found in theologian Paul Tillich's book, _Dynamics of Faith._
 
@@ -78,3 +102,27 @@ Because of the religious nature of these symbols, the responsibility for their p
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Steven_Hecht/Ruminations_on_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ruminations on Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-5-number-1-2003-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, Number 1, 2003 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Al_Lockett/When_Belief_Becomes_Faith">
+          <span class="pr-2">When Belief Becomes Faith</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

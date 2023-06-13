@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Richard Guevara<br>© 2009 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Seubert/A_Lesson_from_a_Mouse">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Lesson from a Mouse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-10-number-1-2009-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, Number 1, 2009 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Kantor/Becoming_an_Effective_Missionary_Evangel">
+          <span class="pr-2">Becoming an Effective Missionary Evangel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The third cosmic circle is of significance to _Urantia Book_ readers. Just as a touchstone is used to determine the purity of gold, this circle of attainment holds a similar mystique for _Urantia Book_ readers. It is in this circle that ascenders receive additional benefits. It is in this circle, attainable while still in the flesh, that increased spiritual ability begins to exhibit itself. 
 
@@ -190,3 +214,27 @@ The Paradise deities have created a Master Universe responsive to our individual
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Seubert/A_Lesson_from_a_Mouse">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Lesson from a Mouse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-10-number-1-2009-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, Number 1, 2009 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Kantor/Becoming_an_Effective_Missionary_Evangel">
+          <span class="pr-2">Becoming an Effective Missionary Evangel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Henry Begemann<br>© 1999 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Behzad_Sarmast/Magisterial_missions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Magisterial Missions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-1-number-2-1999-spring">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, Number 2, 1999 (Spring) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeanne_Melchior/Whither_Goest_Thou_Woman">
+          <span class="pr-2">Whither Goest Thou, Woman?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (From The URANTIAN, Journal of the URANTIA Brotherhood (now known as the Fellowship), Summer 1988) 
 
@@ -116,3 +140,27 @@ In this way and in many others we could prepare ourselves for “_the next age._
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Behzad_Sarmast/Magisterial_missions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Magisterial Missions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-1-number-2-1999-spring">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, Number 2, 1999 (Spring) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeanne_Melchior/Whither_Goest_Thou_Woman">
+          <span class="pr-2">Whither Goest Thou, Woman?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

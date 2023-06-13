@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Joshua J. Wilson<br>© 2017 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-17-number-1-2017-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Number 1, 2017 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bruce_Jackson/A_Musical_Metaphor">
+          <span class="pr-2">A Musical Metaphor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Four Urantia Movement Seasons so Far 
 
@@ -224,3 +245,24 @@ It could be a most fulfilling and even thrilling time. This, I believe, is our n
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-17-number-1-2017-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Number 1, 2017 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bruce_Jackson/A_Musical_Metaphor">
+          <span class="pr-2">A Musical Metaphor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

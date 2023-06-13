@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Richard Rosen<br>© 2017 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Kantor/What_Does_The_Urantia_Book_Tell_Us_Needs_to_be_Accomplished">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What Does The Urantia Book Tell Us Needs to be Accomplished?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-17-number-1-2017-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Number 1, 2017 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Hearing from the Divine may seem mysterious, abstract of something that just happens to you, but we have control. There are principles by which we hear from God. These are the ones that wok for me. Each of us, because we have a unique relationship with God, will differ in how he hears the divine voice. These are here to stimulate your thinking. 
 
@@ -146,3 +167,24 @@ McMullen III, Harry. _Principles of Knowing God’s Will_. From the 1981 Urantia
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Kantor/What_Does_The_Urantia_Book_Tell_Us_Needs_to_be_Accomplished">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What Does The Urantia Book Tell Us Needs to be Accomplished?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-17-number-1-2017-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Number 1, 2017 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

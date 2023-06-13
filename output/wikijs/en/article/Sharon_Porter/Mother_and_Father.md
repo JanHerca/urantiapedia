@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Sharon Porter<br>© 2021 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kaye_Cooper/Cooperating_with_the_Holy_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cooperating with the Holy Spirit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-21-number-1-2021-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, Number 1, 2021 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Esther_Wood/Living_with_the_Spirit_of_Truth">
+          <span class="pr-2">Living with the Spirit of Truth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Our _Urantia Book_ teaches us that we have a Universe Mother and a Universe Father and that they are our spiritual parents. It states that they both are coequal creators as well as coequal administrators. “A Creator Son ... and a Creative Spirit ... created you and your universe ... [and they] minister to the creatures of their own making.” [[UB 8:3.4](/en/The_Urantia_Book/8#p3_4)] 
 
@@ -37,3 +61,27 @@ When we find our balance in our movement, when we really fully embrace God as ou
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kaye_Cooper/Cooperating_with_the_Holy_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cooperating with the Holy Spirit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-21-number-1-2021-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, Number 1, 2021 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Esther_Wood/Living_with_the_Spirit_of_Truth">
+          <span class="pr-2">Living with the Spirit of Truth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

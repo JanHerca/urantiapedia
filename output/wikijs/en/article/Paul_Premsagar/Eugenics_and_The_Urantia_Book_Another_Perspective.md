@@ -9,6 +9,30 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Paul Premsagar, MD<br>© 2002 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marvin_Gawryn/Centering_A_Method_of_Divine_Embrace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Centering — A Method of Divine Embrace</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-4-number-1-2002-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, Number 1, 2002 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Finlan/Revelatory_Mouthpiecing">
+          <span class="pr-2">Revelatory Mouthpiecing</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The Fellowship Herald of the summer of 2001 published an article entitled “Ethical Eugenics: A Modest Proposal for the 21st Century” written by Charles (Chick) Montgomery. I am writing this in response to it, pointing out where I disagree with Chick based on my understanding of the teaching of _The Urantia Book_. What follows is not a rebuttal, but another perspective. I have used quotes from _The Urantia Book_ to support my arguments.
 
@@ -92,3 +116,27 @@ The central message of _The Urantia Book_ is the fatherhood of God and the broth
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marvin_Gawryn/Centering_A_Method_of_Divine_Embrace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Centering — A Method of Divine Embrace</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-4-number-1-2002-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, Number 1, 2002 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Finlan/Revelatory_Mouthpiecing">
+          <span class="pr-2">Revelatory Mouthpiecing</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

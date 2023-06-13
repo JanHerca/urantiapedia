@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Robert Seubert<br>© 2009 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Philip_Calabrese/Solar_System_Discoveries_that_Corroborate_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Solar System Discoveries that Corroborate The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-10-number-1-2009-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, Number 1, 2009 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_Guevara/The_Third_Cosmic_Circle">
+          <span class="pr-2">The Third Cosmic Circle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Several years ago I read the book Flowers for Algernon by Daniel Keyes. It was a fictional novel about a man who had a very low IQ and was selected to be part of a scientific experiment to increase his intelligence. The experiment had been quite successful with a laboratory mouse named Algernon. The experiment turned the man into a super-genius. I couldn’t put the book down and I couldn’t stop talking about it. 
 
@@ -40,3 +64,27 @@ I learned what it meant to be trustworthy. I learned that being trustworthy was 
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Philip_Calabrese/Solar_System_Discoveries_that_Corroborate_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Solar System Discoveries that Corroborate The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-10-number-1-2009-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, Number 1, 2009 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_Guevara/The_Third_Cosmic_Circle">
+          <span class="pr-2">The Third Cosmic Circle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

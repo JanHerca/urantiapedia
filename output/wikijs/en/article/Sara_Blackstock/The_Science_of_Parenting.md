@@ -9,6 +9,30 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Sara Blackstock<br>© 2000 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Stephen_Zendt/I_Will_Tell_Them_A_Story">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“I Will Tell Them A Story”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-2-number-2-2000-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, Number 2, 2000 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/The_Ethics_of_Genetic_Control_and_Social_Engineering">
+          <span class="pr-2">The Ethics of Genetic Control and Social Engineering</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Parenting has,always been a strange mixture of tradition and myth (which is often no different than hit and miss). Parents strive to express one of the most powerful and ingrained emotions - parental love - to and through their children. Here we are - thousands upon thousands of books and methods later, and billions of bits of advice from grandparents and other well-meaning family members and friends - still in confusion about how to "do" this most difficult of jobs, which, when done well brings great joy and satisfaction. It contributes to the welfare of family and community, and when it doesn't seem to work well, brings guilt and great trials to family and community.
 
@@ -56,3 +80,27 @@ I am not a scientist. I just work with hundreds of kids a day, and have for 30 y
 
 > Sara Blackstock has worked with children for most of her life. Currently, she is the director of a large day care center, and her work for the Urantia movement has revolved around her interest in families and children. Sara has a grown son who was brought up with _The Urantia Book_. She is devoted to kindling the spark of God in children and youth.
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Stephen_Zendt/I_Will_Tell_Them_A_Story">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“I Will Tell Them A Story”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-2-number-2-2000-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, Number 2, 2000 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/The_Ethics_of_Genetic_Control_and_Social_Engineering">
+          <span class="pr-2">The Ethics of Genetic Control and Social Engineering</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

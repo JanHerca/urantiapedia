@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Halbert Katzen, JD<br>© 2008 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Glass/The_Significance_of_the_Sevenfold_Bestowal_Career">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Significance of the Sevenfold Bestowal Career</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-9-number-1-2008-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, Number 1, 2008 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Linda_Buselli/Law_is_Life_Itself">
+          <span class="pr-2">Law is Life Itself</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The Urantia Book_ is not what it used to be. It now exhibits a unique and extraordinary quality of credibility. The good news is that the book is doing more than standing up to the test of time; its credibility keeps improving with the passage of time. Simply put, there is not another document anywhere on the planet that so specifically addresses such a wide range of historic and scientific issues and also exhibits the peculiar pattern of having assertions corroborated that were at odds with or not yet considered by science and scholarship when it was published. 
 
@@ -143,3 +167,27 @@ Since starting this project, my life has been opening up in well nigh miraculous
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Glass/The_Significance_of_the_Sevenfold_Bestowal_Career">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Significance of the Sevenfold Bestowal Career</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-9-number-1-2008-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, Number 1, 2008 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Linda_Buselli/Law_is_Life_Itself">
+          <span class="pr-2">Law is Life Itself</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

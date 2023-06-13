@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Jacob Dix<br>© 2007 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Philip_Calabrese/Update_The_Coming_Scientific_Validation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Year 2006 Update on The Coming Scientific Validation of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-8-number-1-2007-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, Number 1, 2007 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/George_Park/Personality_and_Man">
+          <span class="pr-2">Personality and Man</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 When the Gods in unity projected eternal Havona, “_the eternal pattern of co-ordinate participation in creation—sharing,_” was forever revealed. And the Sons and Daughters of God have ever since attempted “_to duplicate in time the central universe of eternal perfection._” To achieve this, the Father “_actually goes into partnership with us by means of his own spirit._” [[UB 54:2.1](/en/The_Urantia_Book/54#p2_1)]
 
@@ -75,3 +99,27 @@ This ethic for living applies not just to individual relations but to all other 
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Philip_Calabrese/Update_The_Coming_Scientific_Validation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Year 2006 Update on The Coming Scientific Validation of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-8-number-1-2007-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, Number 1, 2007 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/George_Park/Personality_and_Man">
+          <span class="pr-2">Personality and Man</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

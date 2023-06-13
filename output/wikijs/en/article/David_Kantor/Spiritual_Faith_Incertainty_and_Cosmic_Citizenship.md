@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 David Kantor<br>© 2013 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dave_Holt/Exploring_the_Inner_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Exploring the Inner Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-13-number-1-2013-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, Number 1, 2013 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Glass/Moods_Music_and_Magic_of_The_Urantia_Book">
+          <span class="pr-2">Moods, Music and Magic of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Author’s note: This essay attempts to explore_ _The Urantia Book_ _overview of the faith adventure in the context of some of Paul Tillich’s observations on faith in his classic work,_ “The Dynamics of Faith” _—in particular Tillich’s views on doubt and uncertainty as inevitable components of the faith quest.
 {.is-info}
@@ -173,3 +197,27 @@ May our spiritual benefactors bless each of us with challenges and difficulties 
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dave_Holt/Exploring_the_Inner_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Exploring the Inner Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-13-number-1-2013-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, Number 1, 2013 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Glass/Moods_Music_and_Magic_of_The_Urantia_Book">
+          <span class="pr-2">Moods, Music and Magic of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

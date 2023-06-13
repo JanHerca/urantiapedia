@@ -9,6 +9,30 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Stephen Zendt<br>© 2003 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nancy_Johnson/The_Difficulty_of_Being_Objective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Difficulty of Being Objective</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-5-number-1-2003-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, Number 1, 2003 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Origin_of_the_Spiritual_Fellowship">
+          <span class="pr-2">The Origin of the Spiritual Fellowship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “Sometimes the planting of a seed necessitates its death, the death of your fondest hopes, before it can be reborn to bear the fruits of new life and new opportunity.” [[UB 48:6.36](/en/The_Urantia_Book/48#p6_36)]
 
@@ -135,3 +159,27 @@ Perhaps the times of the present will see a planetary upending of the ancient cl
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nancy_Johnson/The_Difficulty_of_Being_Objective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Difficulty of Being Objective</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-5-number-1-2003-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, Number 1, 2003 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Origin_of_the_Spiritual_Fellowship">
+          <span class="pr-2">The Origin of the Spiritual Fellowship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

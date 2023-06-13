@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Meredith Tenney<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-19-number-1-2019-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, Number 1, 2019 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Philip_Calabrese/Urantia_Book_Religion">
+          <span class="pr-2">The Inevitable (and Necessary) ‘Organized Religion’ Based on The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 For most of us, adjuster fusion seems a distant and unobtainable dream; an unreachable, lofty goal that is not achievable within this lifetime. Many consider it hardly worth thinking about adjuster fusion, much less working towards it, believing that accomplishing this divine objective would require a millennium at least. We dismiss the magnificent potential for union with our thought adjusters as an egoistic fantasy that is too unlikely to waste time contemplating, rather than the path to eternal salvation each of us is invited to take. Because union with our adjusters is generally considered impossible in this lifetime, there is a dearth of workshops or discussions that focus on the steps to adjuster fusion, yet it is not an implausible dream, and is more within reach than we realize. 
 
@@ -138,3 +159,24 @@ Even though Jesus ministered in an age before many people on earth had adjusters
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-19-number-1-2019-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, Number 1, 2019 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Philip_Calabrese/Urantia_Book_Religion">
+          <span class="pr-2">The Inevitable (and Necessary) ‘Organized Religion’ Based on The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

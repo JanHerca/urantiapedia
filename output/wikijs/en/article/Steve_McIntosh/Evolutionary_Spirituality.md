@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Steve McIntosh<br>© 2012 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/John_Creger/Souls_on_Purpose_The_Personal_Creed_Project">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Souls on Purpose: The Personal Creed Project</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-12-number-1-2012-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, Number 1, 2012 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Israel_Dix/Urantia_606_of_Satania">
+          <span class="pr-2">Urantia, 606 of Satania: Concerning the Inhabited Worlds of the Satania System</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The 2012 Summer Study Session will feature Steve McIntosh as keynote speaker. His 2007 book, Integral Consciousness and the Future of Evolution (Paragon House), as well as his forthcoming book, Evolution’s Purpose: An Integral Interpretation of the Scientific Story of Our Origins (Select Books 2012), present a spiritual philosophy of evolution that has many affinities with the teachings of _The Urantia Book_. The following is an excerpt from Evolution’s Purpose, which will be available August 14, 2012. This excerpt is from the final chapter, entitled “The Promise of a New Evolutionary Worldview.” The chapter as a whole describes the contours of the emerging integral or evolutionary perspective, including how this perspective can be applied for personal growth and political action. This brief excerpt focuses on the spiritual component of this emerging worldview. Please note that the words “traditional,” “modernist,” and “postmodern” are used as defined terms that describe the major population segments that comprise the culture of the developed world. 
 
@@ -56,3 +80,27 @@ And as the evolutionary perspective endeavors to discern the spiritual teachings
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/John_Creger/Souls_on_Purpose_The_Personal_Creed_Project">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Souls on Purpose: The Personal Creed Project</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-12-number-1-2012-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, Number 1, 2012 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Israel_Dix/Urantia_606_of_Satania">
+          <span class="pr-2">Urantia, 606 of Satania: Concerning the Inhabited Worlds of the Satania System</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

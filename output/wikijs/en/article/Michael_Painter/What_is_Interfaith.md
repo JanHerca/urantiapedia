@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Michael Painter<br>© 2017 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_S_Sadler_Jr/What_Will_We_Find_in_Outer_Space">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What Will We Find in Outer Space?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-17-number-1-2017-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Number 1, 2017 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dennis_Marshall/The_Shroud_of_Turin_and_The_Urantia_Papers">
+          <span class="pr-2">The Shroud of Turin and The Urantia Papers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Have you ever observed two strangers who meet for the first time? There is a common process that they go through. Each asks questions of the other. The usual topics are whether they are married or single, do they have children, what kind of work they do, where they grew up, etc. The purpose of this mutual query is to try to find some common ground. Why? When we have something in common with another person, we feel a connection to them. We want to continue the conversation to get to know them better to see if there is a possibility for friendship at some level. Conversely, when we don’t find any areas of commonality, we feel alienated from that person. The affective symptoms of not connecting with someone are tension, uncomfortableness, wanting to distance ourselves from them, and even fear to varying degrees. As an example, consider how difficult it is to engage even in civil conversation, let alone develop a friendship, when you meet someone whose political views are opposed to yours. It takes a real effort for both people to remain civil and try to find some common ground. Why bother? Aren’t they just a misguided, immature, or uninformed person who refuses to see the truth when you present it to them? 
 
@@ -40,3 +64,27 @@ The purpose of interfaith is a classic example of “unity, but not uniformity.�
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_S_Sadler_Jr/What_Will_We_Find_in_Outer_Space">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What Will We Find in Outer Space?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-17-number-1-2017-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Number 1, 2017 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dennis_Marshall/The_Shroud_of_Turin_and_The_Urantia_Papers">
+          <span class="pr-2">The Shroud of Turin and The Urantia Papers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

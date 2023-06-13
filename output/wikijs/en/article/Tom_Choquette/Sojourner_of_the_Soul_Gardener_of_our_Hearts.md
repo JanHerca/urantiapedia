@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Tom Choquette<br>© 2021 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mark_Blackham/Chronology_of_Death_Resurrection_Ascension_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chronology of Death Resurrection Ascension of Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-21-number-1-2021-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, Number 1, 2021 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Joshua_J_Wilson/Proclaim_the_Holyday_of_Holydays">
+          <span class="pr-2">Proclaim the Holiday of Holidays</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 This sharing is based on my personal journey into partnership with the Spirit of Truth. The spirit of our beloved Jesus—our spiritual trainer and true north, the gardener of our hearts— resides within those that are honest and sincere of heart and willing to do His bidding. 
 
@@ -81,3 +105,27 @@ Tom Choquette at the Urantia Book Fellowship International Conference 2011
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mark_Blackham/Chronology_of_Death_Resurrection_Ascension_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chronology of Death Resurrection Ascension of Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-21-number-1-2021-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, Number 1, 2021 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Joshua_J_Wilson/Proclaim_the_Holyday_of_Holydays">
+          <span class="pr-2">Proclaim the Holiday of Holidays</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

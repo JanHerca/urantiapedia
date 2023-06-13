@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 David Glass<br>© 2008 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Start_of_a_Worthy_New_Tradition">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Start of a Worthy New Tradition</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-9-number-1-2008-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, Number 1, 2008 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Halbert_Katzen/The_Urantia_Book_Is_Not_What_It_Used_To_Be">
+          <span class="pr-2">The Urantia Book Is Not What It Used To Be</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The seven bestowals of Christ Michael, unlike the sevenfold bestowals of the Eternal Son in Havona, are within the range of the appreciation of the mind of contemporary Urantian men and women. A study of the Urantia Papers, in particular of Paper 119, “The Bestowals of Christ Michael,” reveals to the reader that what our world has known of the earth life, teachings, death, and resurrection of Jesus, called “the Christ,” is only a tiny part of the full significance of even those fragmentary records of Jesus’ life that have been traditionally presented in and as the four Gospels of the New Testament of the Christian Bible. Seen from the perspective of the Urantia Papers, the beginning, outworking, termination, and resumption of the earth life of Jesus on Urantia, together with the partial accounts of his six other heretofore unrevealed, sovereignty-winning bestowals, have a far deeper and more cosmically relevant significance. 
 
@@ -56,3 +80,27 @@ The revelation discloses that there are absolute potentials folded up in the unf
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Start_of_a_Worthy_New_Tradition">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Start of a Worthy New Tradition</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-9-number-1-2008-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, Number 1, 2008 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Halbert_Katzen/The_Urantia_Book_Is_Not_What_It_Used_To_Be">
+          <span class="pr-2">The Urantia Book Is Not What It Used To Be</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1950 William Sadler, Jr.<br>© 2017 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/The_Temple_Of_Spiritual_Brotherhood_and_the_Greater_Meaning_Of_Study_Groups">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Temple Of Spiritual Brotherhood and the Greater Meaning Of Study Groups</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-17-number-1-2017-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Number 1, 2017 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Michael_Painter/What_is_Interfaith">
+          <span class="pr-2">What is Interfaith?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Transcript of a tape recording of Bill Sadler at a study group_ 
 
@@ -87,3 +111,27 @@ It’s an altogether bigger number. So when I reason here that the seven superun
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/The_Temple_Of_Spiritual_Brotherhood_and_the_Greater_Meaning_Of_Study_Groups">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Temple Of Spiritual Brotherhood and the Greater Meaning Of Study Groups</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-17-number-1-2017-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Number 1, 2017 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Michael_Painter/What_is_Interfaith">
+          <span class="pr-2">What is Interfaith?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

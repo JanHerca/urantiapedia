@@ -9,6 +9,27 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Karen Lee Larsen<br>© 2002 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Religious_Practice_and_the_Urantia_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religious Practice and the Urantia Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-4-number-1-2002-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, Number 1, 2002 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The Urantia Book_ teaches us that free will is one of the greatest gifts Father has given to all of his creatures. “_No other being, force, creator, or agency in all the wide universe of universes can interfere to any degree with the absolute sovereignty of the mortal free will, as it operates within the realms of choice, regarding the eternal destiny of the personality of the choosing mortal. As pertains to eternal survival, God has decreed the sovereignty of the material and mortal will, and that decree is absolute._” [[UB 5:6.8](/en/The_Urantia_Book/5#p6_8)]
 
@@ -62,3 +83,24 @@ He calls them “gifts.” Perhaps tolerance is more than just “putting up wit
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Religious_Practice_and_the_Urantia_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religious Practice and the Urantia Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-4-number-1-2002-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, Number 1, 2002 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

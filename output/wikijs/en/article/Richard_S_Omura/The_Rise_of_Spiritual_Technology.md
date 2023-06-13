@@ -9,6 +9,30 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Richard S. Omura<br>© 2004 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Kantor/An_Essay_on_Hope">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">An Essay on Hope</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-5-number-2-2004-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, Number 2, 2004 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Peter_Holley/Meditation_in_The_Urantia_Book_Jesus_Style">
+          <span class="pr-2">Meditation in The Urantia Book, Jesus Style</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 At first presented in 2003 as a workshop at _The Urantia Book_ Fellowship Summer Study Session at East Stroudsburg University in Pennsylvania, the purpose of this tract is not only to validate the truths in _The Urantia Book_ and the meanings and values it has in our lives, but to actually suggest ways to use these nuggets of information for enriching and facilitating our spiritual growth. _The Urantia Book_ is taken metaphorically as a treasure map and the only criteria we will use for verifying the truth and validity of the map is its ability to lead us to the treasure. The “treasure” in the case of _The Urantia Book_, or any spiritual path for that matter, are the truths in it that will enable us to exhibit in our lives the “fruits of the spirit.” (Also online at: www.RichardOmura.com/st)
 
@@ -291,3 +315,27 @@ _The Urantia Book_ contains many more such “treasures” as I have mentioned. 
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Kantor/An_Essay_on_Hope">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">An Essay on Hope</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-5-number-2-2004-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, Number 2, 2004 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Peter_Holley/Meditation_in_The_Urantia_Book_Jesus_Style">
+          <span class="pr-2">Meditation in The Urantia Book, Jesus Style</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

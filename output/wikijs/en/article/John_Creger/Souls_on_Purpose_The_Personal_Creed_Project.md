@@ -9,6 +9,27 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 John Creger<br>© 2012 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-12-number-1-2012-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, Number 1, 2012 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Steve_McIntosh/Evolutionary_Spirituality">
+          <span class="pr-2">Evolutionary Spirituality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _(Re-creation of a talk given at IC 2011)_
 
@@ -228,3 +249,24 @@ It took two years for Shabnam to finally convince her Afghan refugee parents tha
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-12-number-1-2012-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, Number 1, 2012 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Steve_McIntosh/Evolutionary_Spirituality">
+          <span class="pr-2">Evolutionary Spirituality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

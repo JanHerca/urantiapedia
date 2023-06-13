@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Bobbie Dreier and Francis Oliver Lynn<br>© 2016 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-16-number-1-2016-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, Number 1, 2016 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sara_Blackstock/Listen_Up_Grandparents_and_YaYAs">
+          <span class="pr-2">Listen Up Grandparents and YaYAs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## From Bobbie... 
 
@@ -108,3 +129,24 @@ Although the challenges of competing commitments and not living in close proximi
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-16-number-1-2016-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, Number 1, 2016 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sara_Blackstock/Listen_Up_Grandparents_and_YaYAs">
+          <span class="pr-2">Listen Up Grandparents and YaYAs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Stephen<br>© 1999 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Linda_Buselli/The_seven_psychic_circles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Seven Psychic Circles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-1-number-2-1999-spring">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, Number 2, 1999 (Spring) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (Note: The author has asked us to withhold his full identity to protect his professional status and connections. We are complying with his request. — Editors) 
 
@@ -86,3 +107,24 @@ It is important to recognize that the dominant factor in Nazi ideology had nothi
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Linda_Buselli/The_seven_psychic_circles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Seven Psychic Circles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-1-number-2-1999-spring">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, Number 2, 1999 (Spring) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Bill and Share Beasley<br>© 2006 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Preston_Thomas/Prophecy_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prophecy and The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-7-number-1-2006-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, Number 1, 2006 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Berkeley_Elliott/What_is_Personality">
+          <span class="pr-2">What is Personality?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 “Are all the bills set up on auto-pay?”
 
@@ -140,3 +164,27 @@ __Ingredient #23: But wait, there are more lessons! Sooner or later we run out o
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Preston_Thomas/Prophecy_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prophecy and The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-7-number-1-2006-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, Number 1, 2006 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Berkeley_Elliott/What_is_Personality">
+          <span class="pr-2">What is Personality?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

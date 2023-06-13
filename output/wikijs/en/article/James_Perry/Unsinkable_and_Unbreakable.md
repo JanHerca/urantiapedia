@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 James Perry<br>© 2018 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Preston_Thomas/The_New_Teacher_Leaders">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The New Teacher/Leaders</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-18-number-1-2018-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, Number 1, 2018 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Yvon_Gagne/The_Supreme_Being_in_My_Life">
+          <span class="pr-2">The Supreme Being in My Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Marion and I would like to share some insights into marriage that we’ve discovered after 52 years of living together. We hope these insights will inspire you as you begin married life. The wedding ceremony, with all its preparations and with family and friends gathered to celebrate, is the beginning of your life together. 
 
@@ -38,3 +62,27 @@ Reggie and Sherry, do you want to have an unsinkable and unbreakable marriage? T
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Preston_Thomas/The_New_Teacher_Leaders">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The New Teacher/Leaders</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-18-number-1-2018-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, Number 1, 2018 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Yvon_Gagne/The_Supreme_Being_in_My_Life">
+          <span class="pr-2">The Supreme Being in My Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

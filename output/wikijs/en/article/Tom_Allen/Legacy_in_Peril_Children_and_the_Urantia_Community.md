@@ -9,6 +9,30 @@ dateCreated: 2023-02-09T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Tom Allen<br>© 2005 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sara_Blackstock/Thoughts_About_the_Future_of_our_Urantia_Communit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Thoughts About the Future of our Urantia Community</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-6-number-1-2005-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Number 1, 2005 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Steve_McIntosh/Putting_the_Teachings_into_Action">
+          <span class="pr-2">Putting the Teachings into Action</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Because I have an avocation of comparing famous quotes with passages from _The Urantia Book_, it makes sense that I would start out this article with a comparison. I am a Registered Nurse. In the United States, there are approximately 2.7 million nurses. Only 9 percent of these nurses are below the age of 30. There is a very serious nursing shortage right now. This simple statistic portends a severe nursing shortage of even greater and disastrous proportions in the near future because young people are not choosing nursing as a career path.
 
@@ -55,3 +79,27 @@ The day will come when we overcome our sluggish presentation of the most beautif
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sara_Blackstock/Thoughts_About_the_Future_of_our_Urantia_Communit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Thoughts About the Future of our Urantia Community</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-6-number-1-2005-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Number 1, 2005 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Steve_McIntosh/Putting_the_Teachings_into_Action">
+          <span class="pr-2">Putting the Teachings into Action</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

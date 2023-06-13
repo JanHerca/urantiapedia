@@ -9,6 +9,27 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Carolyn Kendall<br>© 1998 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-1-number-1-1998-fall">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, Number 1, 1998 (Fall) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_S_Omura/Let_our_Soul_Decide">
+          <span class="pr-2">Let Your Soul Decide</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > *The following article is based largely on the recollections of Carolyn Kendall, a member of the Forum from 1951 -1956. Others familiar with the events described below, may recol­lect things differently. Readers are invited to comment or to add their own recollections of these events by writing to The Fellowship Herald.*
 {.is-info}
@@ -362,3 +383,24 @@ The following article highlights the concern some­times expressed about how our
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-1-number-1-1998-fall">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, Number 1, 1998 (Fall) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_S_Omura/Let_our_Soul_Decide">
+          <span class="pr-2">Let Your Soul Decide</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

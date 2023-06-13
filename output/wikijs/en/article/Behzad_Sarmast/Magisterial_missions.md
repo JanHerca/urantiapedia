@@ -9,6 +9,30 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Behzad Sarmast<br>© 1999 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Byron_Belitsos/On_facing_millenial_change">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Facing Millennial Change</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-1-number-2-1999-spring">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, Number 2, 1999 (Spring) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Henry_Begemann/Springtime_a_study_of_the_future">
+          <span class="pr-2">Springtime: A Study of the Future</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Thousands of years before the arrival of Michael on Urantia, Machiventa Melchizedek’s missionaries foretold of the impending arrival of a Paradise Son on Urantia. Likewise did Van and his associates prepare the civilized world for the arrival of Adam and Eve, correctly discerning their imminent arrival. History shows that such divine visitations are always foretold, and that heaven gives enough signs to “prepare the way” for such heavenly gifts — today is no different. 
 
@@ -90,3 +114,27 @@ Go about your life, continue the labor Michael entrusted us with, but do not neg
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Byron_Belitsos/On_facing_millenial_change">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Facing Millennial Change</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-1-number-2-1999-spring">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, Number 2, 1999 (Spring) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Henry_Begemann/Springtime_a_study_of_the_future">
+          <span class="pr-2">Springtime: A Study of the Future</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

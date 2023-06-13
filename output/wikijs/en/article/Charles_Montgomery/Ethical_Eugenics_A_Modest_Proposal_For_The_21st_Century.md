@@ -9,6 +9,27 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Charles Montgomery<br>© 2001 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Les_Jamieson/Universal_Religion_An_Interfaith_Presentation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Universal Religion: An Interfaith Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-3-number-1-2001-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3, Number 1, 2001 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Civilization is in danger when youth neglect to interest themselves in ethics, .sociolozy, eugenics, philosophy, the fine arts, religion,and cosmology. _The Urantia Book_, ([UB 111:4.4](/en/The_Urantia_Book/111#p4_4))
 
@@ -91,3 +112,24 @@ We are told that, on worlds settled in light and life, “_reproduction is regul
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Les_Jamieson/Universal_Religion_An_Interfaith_Presentation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Universal Religion: An Interfaith Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-3-number-1-2001-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3, Number 1, 2001 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

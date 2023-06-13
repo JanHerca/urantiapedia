@@ -9,6 +9,30 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 David Kantor<br>© 2004 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Doreen_Heyne/Illumination_Transformation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Illumination/Transformation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-5-number-2-2004-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, Number 2, 2004 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_S_Omura/The_Rise_of_Spiritual_Technology">
+          <span class="pr-2">The Rise of Spiritual Technology</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Last year I was invited to speak to a group of readers in an Eastern European country. When I asked the host about a topic he said, “Life is so depressed here, please tell us something about hope.” This essay, then, is about hope in the context of daily life—not about metaphysical or intellectual abstractions. It is about an important element of the psychological, social and spiritual struggles that we encounter in daily life.
 
@@ -150,3 +174,27 @@ There is much to be done. Let’s get to work!
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Doreen_Heyne/Illumination_Transformation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Illumination/Transformation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-5-number-2-2004-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, Number 2, 2004 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_S_Omura/The_Rise_of_Spiritual_Technology">
+          <span class="pr-2">The Rise of Spiritual Technology</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

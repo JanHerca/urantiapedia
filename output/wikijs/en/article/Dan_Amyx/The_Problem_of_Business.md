@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Dan Amyx<br>© 2010 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Angela_Thurston/Testimonial_of_One_Second_Generation_Urantian">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Testimonial of One Second-Generation Urantian</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-11-number-1-2010-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, Number 1, 2010 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bob_Debold/Crouching_Deity_Hidden_Supreme">
+          <span class="pr-2">Crouching Deity/Hidden Supreme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Throughout my life there have been aspects of business that have troubled me. I have observed wealthy international corporations damage the environment, cause cultural problems in developing nations, even cause deaths, all for the want of money. For some people, this might suggest that money and business are bad or evil. But it is not the money that’s the problem, it is the administration of it; the wielding of financial power without ethics or morality. Sure, many businesses follow the law, but often they find “loopholes” that allow them to do what they will, without regard to peripheral consequences. In other words, business generally does what it can get away with, and not what is right. I believe part of the reason is that for centuries, business has been treated as a separate entity from our daily lives. It is considered amoral, without morals either good or bad—just without. This has allowed men and women who normally live their lives ethically or morally, to take a sabbatical from proper behavior while they conduct their business. 
 
@@ -67,3 +91,27 @@ We cannot change the world now, but we can change the world of tomorrow by actin
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Angela_Thurston/Testimonial_of_One_Second_Generation_Urantian">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Testimonial of One Second-Generation Urantian</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-11-number-1-2010-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, Number 1, 2010 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bob_Debold/Crouching_Deity_Hidden_Supreme">
+          <span class="pr-2">Crouching Deity/Hidden Supreme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

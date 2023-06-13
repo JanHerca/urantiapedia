@@ -9,6 +9,27 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Linda Buselli<br>© 2014 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Richard_Goodman/Spiritual_Unity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Unity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-14-number-1-2014-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, Number 1, 2014 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 More than thirty years ago, as one of the original editors of the _Urantian Journal_, I decided to do an issue on prayer, and I asked a number of people in the Urantia community to submit articles on the subject. Every person I asked looked embarrassed and stammered out virtually the same answer: “_Uh, I don’t pray, I worship._” People finally donated articles, but only if they could write about worship as well as prayer. No one was comfortable enough with the subject of prayer in itself to deal with it. And one person, a well-respected reader, said: “_Prayer? Why Bother? God knows everything already anyway._” 
 
@@ -108,3 +129,24 @@ We can live with a prayerful consciousness of partnership with God throughout ou
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Richard_Goodman/Spiritual_Unity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Unity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-14-number-1-2014-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, Number 1, 2014 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

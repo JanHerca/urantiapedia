@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Lawrence J. Bowman<br>© 2016 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sara_Blackstock/Listen_Up_Grandparents_and_YaYAs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Listen Up Grandparents and YaYAs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-16-number-1-2016-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, Number 1, 2016 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kermit_Anderson/Thoughts_on_the_Bestowals_of_Personality_and_the_Thought_Adjuster">
+          <span class="pr-2">Thoughts on the Bestowals of Personality and the Thought Adjuster</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Consider the following passages from _The Urantia Book_ :
 
@@ -242,6 +266,31 @@ c49 | Peter’s clash with Paul at Antioch
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sara_Blackstock/Listen_Up_Grandparents_and_YaYAs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Listen Up Grandparents and YaYAs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-16-number-1-2016-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, Number 1, 2016 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kermit_Anderson/Thoughts_on_the_Bestowals_of_Personality_and_the_Thought_Adjuster">
+          <span class="pr-2">Thoughts on the Bestowals of Personality and the Thought Adjuster</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

@@ -9,6 +9,27 @@ dateCreated: 2023-02-09T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Charles Laurence Olivea<br>© 2005 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-6-number-1-2005-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Number 1, 2005 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Peter_Holley/The_New_Revelation_of_the_Living_Jesus">
+          <span class="pr-2">The New Revelation of the Living Jesus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Very likely, our movement will continue to decentralize into many forms while the world experiences its national and planetary vicissitudes. There will undoubtedly be an increase in the number of experiments as to how best to disseminate _The Urantia Book_ and its teachings on different levels. The best ones may persist as examples of what the world will need in order to reform itself.
 
@@ -76,3 +97,24 @@ We will probably be more instrumental in influencing human society through the l
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-6-number-1-2005-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Number 1, 2005 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Peter_Holley/The_New_Revelation_of_the_Living_Jesus">
+          <span class="pr-2">The New Revelation of the Living Jesus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

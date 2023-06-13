@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Earlene Green<br>© 2012 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Lawrence_Schkade/Perfecting_Neuroplasticity_and_the_Supreme_Actualizing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Perfecting, Neuroplasticity, and the Supreme Actualizing</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-12-number-1-2012-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, Number 1, 2012 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Authority_2">
+          <span class="pr-2">Religion of Experience vs Religion of Authority</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Editor’s note: The following has been updated from a previous essay by the author._
 
@@ -86,6 +110,31 @@ One parting thought: When Ganid asked Jesus what he thought about India’s cast
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Lawrence_Schkade/Perfecting_Neuroplasticity_and_the_Supreme_Actualizing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Perfecting, Neuroplasticity, and the Supreme Actualizing</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-12-number-1-2012-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, Number 1, 2012 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Authority_2">
+          <span class="pr-2">Religion of Experience vs Religion of Authority</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes 
 

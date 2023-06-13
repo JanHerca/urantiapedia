@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Nancy Johnson<br>© 2009 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dave_Holt/In_Search_of_the_Historical_Onamonalonton">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">In Search of the Historical Onamonalonton</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-10-number-1-2009-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, Number 1, 2009 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sara_Blackstock/Joy_in_the_Worm_Bin">
+          <span class="pr-2">Joy in the Worm Bin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 I’ve often pondered why it is that there’s never been a conference that dealt specifically with the role of emotions and feelings in evolution. It could be that I just wasn’t aware of one taking place in some other region. 
 
@@ -122,3 +146,27 @@ We’re fortunate to have been given a revelation with so much instruction in th
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dave_Holt/In_Search_of_the_Historical_Onamonalonton">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">In Search of the Historical Onamonalonton</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-10-number-1-2009-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, Number 1, 2009 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sara_Blackstock/Joy_in_the_Worm_Bin">
+          <span class="pr-2">Joy in the Worm Bin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

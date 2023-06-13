@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 David Nash (see note at footpage)<br>© 2009 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Glass/The_Limitless_Spectrum_of_Education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Limitless Spectrum of Education</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-10-number-1-2009-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, Number 1, 2009 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Linda_Buselli/Our_Creative_Deities_A_Supreme_Relationship">
+          <span class="pr-2">Our Creative Deities—A Supreme Relationship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 If this is your first awareness of Urantia-University, we welcome and encourage you to visit www.urantiauniversity.org. Or read the manual to Urantia-University found on the website to gain a better understanding of the goals, directives, and vision in providing a foundation to create scholars and emissaries of the revelatory teachings of _The Urantia Book_. 
 
@@ -79,3 +103,27 @@ Teachers at all three levels will be rotated to other papers/ groups of papers (
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Glass/The_Limitless_Spectrum_of_Education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Limitless Spectrum of Education</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-10-number-1-2009-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, Number 1, 2009 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Linda_Buselli/Our_Creative_Deities_A_Supreme_Relationship">
+          <span class="pr-2">Our Creative Deities—A Supreme Relationship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

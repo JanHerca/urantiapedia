@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Philip Calabrese, Ph.D.<br>© 2007 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Phil_Taylor/IC_08_The_Thrill_of_Loving_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IC 08 —The Thrill of Loving Service</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-8-number-1-2007-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, Number 1, 2007 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jacob_Dix/Participatory_Evolution">
+          <span class="pr-2">Participatory Evolution</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 One of the scientific ways to validate a purported divine revelation, though not the only way, or necessarily the best way, is to statistically test its associated cosmology. This may be the only way to convince a scientist that _The Urantia Book_ is worth reading for the helpful albeit transitional science that it contains. In the case of _The Urantia Book_, the associated cosmology is supposed to be “of immense value” to us during this transient stage of Earth’s scientific development compared to the ages to come.
 
@@ -84,6 +108,31 @@ The obvious question is what happens if those vast polar ice sheets melt?
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Phil_Taylor/IC_08_The_Thrill_of_Loving_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IC 08 —The Thrill of Loving Service</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-8-number-1-2007-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, Number 1, 2007 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jacob_Dix/Participatory_Evolution">
+          <span class="pr-2">Participatory Evolution</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

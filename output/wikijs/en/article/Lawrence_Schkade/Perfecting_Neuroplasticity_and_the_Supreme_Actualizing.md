@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Lawrence Schkade<br>© 2012 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Israel_Dix/Urantia_606_of_Satania">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia, 606 of Satania: Concerning the Inhabited Worlds of the Satania System</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-12-number-1-2012-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, Number 1, 2012 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Earlene_Green/Race_and_The_Urantia_Book">
+          <span class="pr-2">Race and The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The following was presented at the Lone Star Roundup Conference, Argyle, TX, March 31, 2012_ 
 
@@ -144,6 +168,31 @@ In sum, we are in a win-win situation. By doing God’s will we achieve; that’
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Israel_Dix/Urantia_606_of_Satania">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia, 606 of Satania: Concerning the Inhabited Worlds of the Satania System</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-12-number-1-2012-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, Number 1, 2012 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Earlene_Green/Race_and_The_Urantia_Book">
+          <span class="pr-2">Race and The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes 
 

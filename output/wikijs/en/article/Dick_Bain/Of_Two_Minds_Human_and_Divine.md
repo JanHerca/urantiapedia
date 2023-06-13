@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Richard Bain<br>© 2021 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Esther_Wood/Living_with_the_Spirit_of_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Living with the Spirit of Truth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-21-number-1-2021-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, Number 1, 2021 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chuck_Thurston/Divine_Synergy">
+          <span class="pr-2">Divine Synergy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Both Christian theology and _The Urantia Book_ affirm that Jesus was both human and divine. In orthodox Christian theology, Jesus is portrayed as the second person of the Trinity, God the Son. This is his divine nature according to that theology. _The Urantia Book_ authors tell us that Jesus was indwelt by Christ Michael, a Creator Son, a Godlike being who is a creator and the spiritual head of the local universe of Nebadon. Jesus’ divine nature consisted of this being who indwelt him. 
 
@@ -136,3 +160,27 @@ So when we finally meet Christ Michael in person, will he seem like the human Je
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Esther_Wood/Living_with_the_Spirit_of_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Living with the Spirit of Truth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-21-number-1-2021-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, Number 1, 2021 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chuck_Thurston/Divine_Synergy">
+          <span class="pr-2">Divine Synergy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

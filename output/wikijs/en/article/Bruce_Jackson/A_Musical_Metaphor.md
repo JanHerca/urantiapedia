@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Dr. Bruce Jackson<br>© 2017 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Joshua_J_Wilson/Urantia_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Spring</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-17-number-1-2017-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Number 1, 2017 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/The_Temple_Of_Spiritual_Brotherhood_and_the_Greater_Meaning_Of_Study_Groups">
+          <span class="pr-2">The Temple Of Spiritual Brotherhood and the Greater Meaning Of Study Groups</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 What would happen if I were to stand before a covocation of _Urantia Book_ readers and claim that I could lead us out of obscurity and turn our revelation into a new worldwide religion? I am certain that they would politely but quickly show me to the door. Some 200 years ago we would have become Mormons. What has happened? 
 
@@ -76,3 +100,27 @@ Even though this musical metaphor suggests how the Urantia movement may transfor
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Joshua_J_Wilson/Urantia_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Spring</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-17-number-1-2017-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Number 1, 2017 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/The_Temple_Of_Spiritual_Brotherhood_and_the_Greater_Meaning_Of_Study_Groups">
+          <span class="pr-2">The Temple Of Spiritual Brotherhood and the Greater Meaning Of Study Groups</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

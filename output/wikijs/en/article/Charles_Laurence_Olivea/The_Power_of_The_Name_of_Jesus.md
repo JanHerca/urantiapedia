@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 Charles Laurence Olivea<br>© 2011 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dave_Holt/The_First_Epochal_Revelation_in_American_Indian_Traditions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The First Epochal Revelation in American Indian Traditions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-11-number-2-2011-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, Number 2, 2011 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Linda_Buselli/Machiventa_Melchizedek_One_of_Historys_Mysteries">
+          <span class="pr-2">Machiventa Melchizedek: One of History's Mysteries</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 All hail the power of Jesus’ name! 
 Let angels prostrate fall; 
@@ -173,6 +197,31 @@ A friend of mine, a former Forum member, who has since graduated, wrote a letter
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dave_Holt/The_First_Epochal_Revelation_in_American_Indian_Traditions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The First Epochal Revelation in American Indian Traditions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-11-number-2-2011-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, Number 2, 2011 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Linda_Buselli/Machiventa_Melchizedek_One_of_Historys_Mysteries">
+          <span class="pr-2">Machiventa Melchizedek: One of History's Mysteries</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes 
 

@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 David Kantor<br>© 2015 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/The_Urantia_Book_and_Its_Mission">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book and Its Mission</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-15-number-1-2015-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, Number 1, 2015 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_S_Sadler/Sixty_Four_Original_Urantia_Book_Concepts">
+          <span class="pr-2">Sixty-Four Original Urantia Book Concepts</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Author’s note: This essay provides a synopsis of concepts presented in the books listed in the accompanying bibliography, attempting to relate them to the evolving context within which The Urantia Book is read, interpreted, and used as a social object._
 
@@ -214,6 +238,31 @@ I suppose that makes it a sacred text of sorts, something I read in a manner not
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/The_Urantia_Book_and_Its_Mission">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book and Its Mission</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-15-number-1-2015-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, Number 1, 2015 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_S_Sadler/Sixty_Four_Original_Urantia_Book_Concepts">
+          <span class="pr-2">Sixty-Four Original Urantia Book Concepts</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes 
 

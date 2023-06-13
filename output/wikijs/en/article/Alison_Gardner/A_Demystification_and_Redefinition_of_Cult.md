@@ -9,6 +9,30 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Alison Gardner<br>© 2002 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ron_Besser/Jesus_Miracles_and_the_Fathers_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesus' Miracles and the Father's Will</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-4-number-1-2002-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, Number 1, 2002 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Religious_Practice_and_the_Urantia_Revelation">
+          <span class="pr-2">Religious Practice and the Urantia Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 A couple of years ago, a diverse group of long-time _Urantia Book_ readers took on the daunting task of establishing a new and expanded meaning for the word, cult. The panel is now preparing to publish their work through _The Urantia Book_ Fellowship's Wrightwood Series, a program that sponsors the scholarly pursuit of mainstream topical studies. These publications are intended for a broad audience including people new to _The Urantia Book_ or learning of its existence for the very first time.
 
@@ -182,3 +206,27 @@ It is the individual himself, who must break free from these profane interruptio
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ron_Besser/Jesus_Miracles_and_the_Fathers_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesus' Miracles and the Father's Will</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-4-number-1-2002-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, Number 1, 2002 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Byron_Belitsos/Religious_Practice_and_the_Urantia_Revelation">
+          <span class="pr-2">Religious Practice and the Urantia Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

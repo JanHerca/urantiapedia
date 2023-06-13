@@ -9,6 +9,27 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 David Elders<br>© 2008 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Henry_Begemann/The_Roots_of_Morality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Roots of Morality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-9-number-1-2008-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, Number 1, 2008 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Presented at_ _The Urantia Book_ _Fellowship Summer Study Session, July 22, 2007_  
 
@@ -48,3 +69,24 @@ So we end where we began. Each human being constructs an eternal identity at the
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Henry_Begemann/The_Roots_of_Morality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Roots of Morality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-9-number-1-2008-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, Number 1, 2008 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

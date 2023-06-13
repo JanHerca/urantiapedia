@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Father Robert Schuer<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Philip_Calabrese/Urantia_Book_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Inevitable (and Necessary) ‘Organized Religion’ Based on The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-19-number-1-2019-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, Number 1, 2019 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/JJ_Johnson/Personality_Bestowal">
+          <span class="pr-2">Personality Bestowal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 A Beloved _Urantia Book_ Scholar and an Ordained Priest for 60 Years 
 
@@ -64,3 +88,27 @@ A Beloved _Urantia Book_ Scholar and an Ordained Priest for 60 Years
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Philip_Calabrese/Urantia_Book_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Inevitable (and Necessary) ‘Organized Religion’ Based on The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-19-number-1-2019-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, Number 1, 2019 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/JJ_Johnson/Personality_Bestowal">
+          <span class="pr-2">Personality Bestowal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

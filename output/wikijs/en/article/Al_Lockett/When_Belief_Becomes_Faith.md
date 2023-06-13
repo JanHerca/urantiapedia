@@ -9,6 +9,30 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Al Lockett<br>© 2003 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Kantor/Safeguarding_the_Symbols_of_Urantian_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Safeguarding the Symbols of Urantian Faith</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-5-number-1-2003-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, Number 1, 2003 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Linda_Buselli/The_Patterns_of_Revelation">
+          <span class="pr-2">The Patterns of Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Belief can exist without faith; but faith cannot exist without belief Belief can exist without God; but faith cannot exist without God.
 
@@ -84,3 +108,27 @@ As we observe and live in a world where God exists, we can't presume to judge wh
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Kantor/Safeguarding_the_Symbols_of_Urantian_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Safeguarding the Symbols of Urantian Faith</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-5-number-1-2003-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, Number 1, 2003 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Linda_Buselli/The_Patterns_of_Revelation">
+          <span class="pr-2">The Patterns of Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

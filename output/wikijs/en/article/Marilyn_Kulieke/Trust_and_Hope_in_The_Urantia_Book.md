@@ -9,6 +9,30 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Marilyn Kulieke<br>© 1998 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Martin_Greenhut/The_Urantia_Papers_From_a_Jewish_Perspective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Papers From a Jewish Perspective</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-1-number-1-1998-fall">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, Number 1, 1998 (Fall) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/48_Chromosomes_Are_We_Asking_the_Right_Questions">
+          <span class="pr-2">48 Chromosomes - Are We Asking the Right Questions?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > *In February 1998, Marilyn Kulieke, Lincolnshire, IL, por­trayed two qualities of the spiritually evolving personality—trust and hope. This was one of an ongoing series of special programs sponsored by The First Society, Chicago.*
 {.is-info}
@@ -49,3 +73,27 @@ It was only after Jesus began to “have faith in the loyalty and integrity of h
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Martin_Greenhut/The_Urantia_Papers_From_a_Jewish_Perspective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Papers From a Jewish Perspective</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-1-number-1-1998-fall">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, Number 1, 1998 (Fall) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/48_Chromosomes_Are_We_Asking_the_Right_Questions">
+          <span class="pr-2">48 Chromosomes - Are We Asking the Right Questions?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

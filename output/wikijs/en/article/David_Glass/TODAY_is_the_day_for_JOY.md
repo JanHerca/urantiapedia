@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 David Glass<br>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Joshua_J_Wilson/Adoration_of_the_Mother">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Adoration of the Mother</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-20-number-1-2020-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, Number 1, 2020 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Tom_Allen/Uversa_the_Future_Headquarters_of_God_the_Supreme">
+          <span class="pr-2">Uversa — the Future Headquarters of God the Supreme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 All of these truths shall be valid for any day that is TODAY exploring the divine love of God! 
 
@@ -115,3 +139,27 @@ Sooner or later all universe personalities begin to realize that the final quest
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Joshua_J_Wilson/Adoration_of_the_Mother">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Adoration of the Mother</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-20-number-1-2020-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, Number 1, 2020 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Tom_Allen/Uversa_the_Future_Headquarters_of_God_the_Supreme">
+          <span class="pr-2">Uversa — the Future Headquarters of God the Supreme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

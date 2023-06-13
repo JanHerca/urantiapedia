@@ -9,6 +9,27 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Dr. Philip Calabrese<br>© 2006 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Berkeley_Elliott/What_is_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What is Personality?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-7-number-1-2006-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, Number 1, 2006 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (The following presentation was delivered at the Fellowship International Conference at Villanova in August, 2005.)
 
@@ -601,6 +622,28 @@ Each Master Spirit has his own superuniverse. We belong to the seventh superuniv
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Berkeley_Elliott/What_is_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What is Personality?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-7-number-1-2006-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, Number 1, 2006 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

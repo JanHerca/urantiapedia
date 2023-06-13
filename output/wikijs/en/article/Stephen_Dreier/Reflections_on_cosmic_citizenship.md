@@ -9,6 +9,30 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Stephen Dreier<br>© 1999 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Irwin_Ginsburgh/Two_Cosmologies_Astronomy_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Two Cosmologies — Astronomy and The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-2-number-1-1999-winter">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, Number 1, 1999 (Winter) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Linda_Buselli/The_Dual_Nature_of_Supremacy">
+          <span class="pr-2">The Dual Nature of Supremacy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Immortality is a fundamental concern of human living. Does personal life, with its relationships, values and memories survive physical death, or does it come to a sudden and permanent end? The question holds profound personal and philosophic significance. 
 
@@ -66,3 +90,27 @@ We are just at the beginning of this adventure of discovery. There are an endles
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Irwin_Ginsburgh/Two_Cosmologies_Astronomy_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Two Cosmologies — Astronomy and The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-2-number-1-1999-winter">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, Number 1, 1999 (Winter) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Linda_Buselli/The_Dual_Nature_of_Supremacy">
+          <span class="pr-2">The Dual Nature of Supremacy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

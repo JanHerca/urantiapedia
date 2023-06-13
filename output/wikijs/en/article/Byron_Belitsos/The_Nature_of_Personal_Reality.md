@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Byron Belitsos<br>© 2016 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gary_Deinstadt/Top_Down">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Top/Down</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-16-number-1-2016-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, Number 1, 2016 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The truth about personality is a universal mystery—but we do know a few good things about it. In this essay, we dive into _The Urantia Book_ ’s robust teachings on the nature of personality, or what I also call “selfhood” or “personhood.” I’ll compare these ideas with related notions from both the world’s wisdom traditions as well as a few representatives of depth psychology as we examine the complex relationship between healthy ego development and higher spiritual attainment. Along the way I will also make a few risky excursions into philosophic psychology and speculative theology, and call out ways that _The Urantia Book_ ’s idea of personality constitutes a startling revelation to modern psychology and today’s living religions. 
 
@@ -280,6 +301,28 @@ The Divine Person encompasses and transcends evolution and all evolutionary bein
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gary_Deinstadt/Top_Down">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Top/Down</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-16-number-1-2016-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, Number 1, 2016 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

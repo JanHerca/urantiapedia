@@ -9,6 +9,30 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Martin Greenhut<br>© 1998 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Richard_S_Omura/Let_our_Soul_Decide">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Let Your Soul Decide</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-1-number-1-1998-fall">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, Number 1, 1998 (Fall) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Marilyn_Kulieke/Trust_and_Hope_in_The_Urantia_Book">
+          <span class="pr-2">The Concepts of Trust and Hope in The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 I am a graduate of Talmudical Academy High School and of Yeshiva College in New York City. I also attended the Hebrew Teachers Institute at Yeshiva for six years. For my entire youth I was intensely active in Jewish life and was a practicing orthodox Yeshiva stu­dent until my senior year in college when I chose to give up my orthodoxy and its consequent segregation from the rest of the world. I became what is known in Israel today as “a secular Jew”. It simply means that I gave up my orthodox involvements and practices and lived as an agnostic...not hostile to religion... just not able to relate to the various sectarian doctrines. I be­lieved that if God existed he didn't love any people on earth any better than the others and certainly wouldn't exclude anyone from eternal salvation just because they were born into the wrong religion.
 
@@ -29,3 +53,27 @@ The revelation of God's love in the human life of the Son of Man will continue t
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Richard_S_Omura/Let_our_Soul_Decide">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Let Your Soul Decide</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-1-number-1-1998-fall">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, Number 1, 1998 (Fall) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Marilyn_Kulieke/Trust_and_Hope_in_The_Urantia_Book">
+          <span class="pr-2">The Concepts of Trust and Hope in The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

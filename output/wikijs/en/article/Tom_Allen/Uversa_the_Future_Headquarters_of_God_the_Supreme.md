@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Tom Allen<br>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Glass/TODAY_is_the_day_for_JOY">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">TODAY is the day for JOY!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-20-number-1-2020-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, Number 1, 2020 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/JJ_Johnson/To_Beget_Or_Not_to_Beget_That_Is_the_Question">
+          <span class="pr-2">To Beget Or Not to Beget That Is the Question</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The Urantia papers reveal that each of the seven superuniverses has a major purpose in the expression of its totality. The major purpose of tardy Orvonton is the bestowal of lavish mercy upon us all. [[UB 15:14.2-3](/en/The_Urantia_Book/15#p14_2)] Because this bountiful conferral of love and mercy encompasses the “meaning-of-the-whole,” God the Supreme is likely, in the distant future, to wield Her completed personal and sovereign Almighty power as the Supreme Being from Uversa. This makes Uversa a very special place in the grand universe. 
 
@@ -101,6 +125,31 @@ When the grand universe is in light and life, the maximum finite completion of o
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Glass/TODAY_is_the_day_for_JOY">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">TODAY is the day for JOY!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-20-number-1-2020-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, Number 1, 2020 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/JJ_Johnson/To_Beget_Or_Not_to_Beget_That_Is_the_Question">
+          <span class="pr-2">To Beget Or Not to Beget That Is the Question</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

@@ -9,6 +9,27 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Matthew Block<br>© 2001 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-3-number-1-2001-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3, Number 1, 2001 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Behzad_Sarmast/Show_Us_a_Miracle">
+          <span class="pr-2">Show Us A Miracle!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 This essay explores the relationship between one section of _The Urantia Book_'s, “The Life and Teachings of Jesus”—[section 3 of Paper 159](/en/The_Urantia_Book/159#p3)—and a previously published book, Leslie D. Weatherhead's _Jesus and Ourselves_,[^1] which was clearly its main source. It is the first in a series of essays and books I am preparing which submit various sections and papers of Part IV to a new method of study, that of comparative analysis with their respective source texts. This approach has been made possible by the recent discovery, that much of the content of hundreds of sections in Part IV was derived from a relatively small number of American and British books published between the 1880's and the 1930's. It is hoped that these source studies, which identify the source books and their authors and trace their textual parallelisms with material in Part IV, will contribute to a greatly enhanced understanding of “The Life and Teachings of Jesus,” both of its individual sections and as a whole.
 
@@ -258,6 +279,28 @@ The only case in [UB 159:3](/en/The_Urantia_Book/159#p3) of a direct and contrar
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-3-number-1-2001-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3, Number 1, 2001 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Behzad_Sarmast/Show_Us_a_Miracle">
+          <span class="pr-2">Show Us A Miracle!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

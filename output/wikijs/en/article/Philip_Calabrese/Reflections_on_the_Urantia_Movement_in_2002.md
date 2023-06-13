@@ -9,6 +9,27 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Philip Calabrese<br>© 2002 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-4-number-1-2002-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, Number 1, 2002 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Marvin_Gawryn/Centering_A_Method_of_Divine_Embrace">
+          <span class="pr-2">Centering — A Method of Divine Embrace</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Preface: My theme for these reflections is the personal and social reactions by readers to _The Urantia Book_, and especially to the cosmology of _The Urantia Book_. Let me start with my own experience.
 
@@ -161,3 +182,24 @@ There is science to be discovered, cosmology to be propounded, and exciting even
 ## Notes
 
 [^1] J S Bell 1964 _On the Einstein-Podolsky-Rosen paradox_. Physics 1 195-200; Andrew Steane 1997 Quantum Computing, Univerxity of Oxford Clarendon Laboratory, 1-65; R Y Chiao, P G Kwiat. and A M Steinberg 1995 Quantum NonLocality in Two-Photon Experiments at Berkeley, 1-16; A. Zeilinger, Apr 2000 Quantum Teleportation, Scientific American, 50-59.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-4-number-1-2002-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, Number 1, 2002 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Marvin_Gawryn/Centering_A_Method_of_Divine_Embrace">
+          <span class="pr-2">Centering — A Method of Divine Embrace</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

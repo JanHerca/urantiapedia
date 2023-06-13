@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Phil Taylor<br>© 2007 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Cece_Forrester/Science_Fiction_for_Agondonters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Science Fiction for Agondonters</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-8-number-1-2007-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, Number 1, 2007 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Kantor/The_Kingdom_and_the_Supreme">
+          <span class="pr-2">The Kingdom and the Supreme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Fifteen years ago I made a decision to serve. I had volunteered as a construction manager with Habitat for Humanity for a period of one year, a fulltime job for four dollars an hour. I was a carpenter making much better wages elsewhere but I decided to take the job for one reason; after prayerful meditation it became apparent that such was the will of my Paradise Father. The thought that had entered my mind was that such an opportunity would provide me with valuable leadership training; and seeing this thought as an insight from my adjuster, I took the job. I was not sure yet how I was going to pay the rent; but if it was the Father’s will, then I knew something would work out.
 
@@ -63,3 +87,27 @@ Next year _The Urantia Book_ Fellowship will host the 2008 International Confere
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Cece_Forrester/Science_Fiction_for_Agondonters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Science Fiction for Agondonters</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-8-number-1-2007-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, Number 1, 2007 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Kantor/The_Kingdom_and_the_Supreme">
+          <span class="pr-2">The Kingdom and the Supreme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

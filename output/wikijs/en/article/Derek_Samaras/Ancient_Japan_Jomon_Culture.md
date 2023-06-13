@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Derek Samaras<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/JJ_Johnson/Personality_Bestowal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personality Bestowal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-19-number-1-2019-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, Number 1, 2019 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Kantor/Exploring_Urantia_Book_Christology">
+          <span class="pr-2">Exploring Urantia Book Christology</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > The ancestors of the Japanese people were not driven off the mainland until 12,000 B.C., when they were dislodged by a powerful southern-coastwise thrust of the northern Chinese tribes. [[UB 79:6.3](/en/The_Urantia_Book/79#p6_3)]
 
@@ -105,3 +129,27 @@ We can see who these people were, and more importantly we can see how the Jōmon
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/JJ_Johnson/Personality_Bestowal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personality Bestowal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-19-number-1-2019-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, Number 1, 2019 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Kantor/Exploring_Urantia_Book_Christology">
+          <span class="pr-2">Exploring Urantia Book Christology</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

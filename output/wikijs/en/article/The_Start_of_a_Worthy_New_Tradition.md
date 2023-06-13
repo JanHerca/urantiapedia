@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michael_Painter/You_Be_The_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">You Be The Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-9-number-1-2008-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, Number 1, 2008 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Glass/The_Significance_of_the_Sevenfold_Bestowal_Career">
+          <span class="pr-2">The Significance of the Sevenfold Bestowal Career</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The Urantia Society of North Texas Reports on the First Bestowals Celebration_  
 
@@ -63,3 +87,27 @@ All | Our relation to the Supreme | Like God
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michael_Painter/You_Be_The_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">You Be The Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-9-number-1-2008-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, Number 1, 2008 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Glass/The_Significance_of_the_Sevenfold_Bestowal_Career">
+          <span class="pr-2">The Significance of the Sevenfold Bestowal Career</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

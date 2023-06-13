@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Yvon Gagne<br>© 2018 Matthew Block, for the translation from the French<br>© 2018 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/James_Perry/Unsinkable_and_Unbreakable">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Unsinkable and Unbreakable</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-18-number-1-2018-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, Number 1, 2018 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project">
+          <span class="pr-2">The Eden-Atlantis Project</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The following article is from the Fellowship Archives. 
 
@@ -87,3 +111,27 @@ The consciousness of the Supreme renders us spiritual pillars in the service of 
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/James_Perry/Unsinkable_and_Unbreakable">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Unsinkable and Unbreakable</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-18-number-1-2018-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, Number 1, 2018 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Stanley_Bates/The_Eden_Atlantis_Project">
+          <span class="pr-2">The Eden-Atlantis Project</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

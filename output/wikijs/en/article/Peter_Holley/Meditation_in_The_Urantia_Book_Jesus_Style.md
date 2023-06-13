@@ -9,6 +9,30 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Peter Holley<br>© 2004 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Richard_S_Omura/The_Rise_of_Spiritual_Technology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Rise of Spiritual Technology</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-5-number-2-2004-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, Number 2, 2004 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Arlene_and_Buck_Weimer/The_Art_of_Marriage">
+          <span class="pr-2">The Art of Marriage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Editor’s Note: All bold words throughout indicate emphasis added by the author.
 
@@ -251,6 +275,31 @@ In this matter, as in most, we cannot go too wrong if we keep our eyes on Jesus:
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Richard_S_Omura/The_Rise_of_Spiritual_Technology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Rise of Spiritual Technology</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-5-number-2-2004-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, Number 2, 2004 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Arlene_and_Buck_Weimer/The_Art_of_Marriage">
+          <span class="pr-2">The Art of Marriage</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

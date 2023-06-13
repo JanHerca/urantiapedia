@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 David Kantor<br>© 2017 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michelle_Klimesh/Questions_About_Being_Human">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Questions About Being Human</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-17-number-1-2017-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Number 1, 2017 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_Rosen/Twelve_Ways_I_Hear_From_God">
+          <span class="pr-2">Twelve Ways I Hear From God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 It is very instructive to set aside all that we have learned about the origin of the revelation and the conjectured intentions of its authors and look at what the book itself has to say about the most important tasks at hand. If we go through the book and note every point where the authors suggest that we do some particular thing, we find ourselves with a list of tasks which can be divided into three major categories: 
 
@@ -108,3 +132,27 @@ _Could the major hope and concern of the revelators be any clearer?_ It should b
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michelle_Klimesh/Questions_About_Being_Human">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Questions About Being Human</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-17-number-1-2017-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Number 1, 2017 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_Rosen/Twelve_Ways_I_Hear_From_God">
+          <span class="pr-2">Twelve Ways I Hear From God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

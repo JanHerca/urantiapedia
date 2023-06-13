@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Bob Debold<br>© 2014 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_S_Sadler_Jr/The_Journey_Following_Mortal_Death">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Journey Following Mortal Death</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-14-number-1-2014-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, Number 1, 2014 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_Daunt/Urantian_Language_and_the_Preservation_of_Meaning">
+          <span class="pr-2">Urantian Language and the Preservation of Meaning</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 If it wasn’t for _The Urantia Book_, I most certainly would not know about the master seraphim; I hardly could have spent the last twenty years attempting to fathom the ideas surrounding Supremacy, nor even breech the conceptually rich descriptions of the origin of the First Source and Center’s seven absolutes of infinity—the more replete and rational story of Genesis—for all these concepts would have been totally out of my reach. My transition from traditional, institutional religion to personal, revelatory religion commenced (at least to my knowledge) roughly fifty years ago now. But the primary cause for growing a deep personal taproot into the papers is without a doubt a direct result of some sublime experiences from traditional religion (Catholicism) in my formative years. Take note: these inspirational causes were not a result of the high spiritual attitude that this particular institutional religion afforded me. No, on the contrary, among a rising tide of cognitively dissonant facts and concepts which became more apparent to me as I became older, the implied and obvious distortions of the Adam and Eve story stood out. As a result of the Biblical narrative connecting humanity’s genesis to a fable, I would not have been interested in the assertion by the person who introduced me to _The Urantia Book_ that it describes the Biblical original pair as “_eight feet tall and purple._” 
 
@@ -146,6 +170,31 @@ And lastly, it will be through a progressive intellectual, morontial, and spirit
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_S_Sadler_Jr/The_Journey_Following_Mortal_Death">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Journey Following Mortal Death</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-14-number-1-2014-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, Number 1, 2014 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_Daunt/Urantian_Language_and_the_Preservation_of_Meaning">
+          <span class="pr-2">Urantian Language and the Preservation of Meaning</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes 
 

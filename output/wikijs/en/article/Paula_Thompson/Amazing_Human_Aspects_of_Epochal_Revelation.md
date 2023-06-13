@@ -9,6 +9,27 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Paula Thompson<br>© 2007 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-8-number-1-2007-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, Number 1, 2007 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Carolyn_Kendall/Archangels_Agents_of_Epochal_Change">
+          <span class="pr-2">Archangels: Agents of Epochal Change</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The following was presented in a workshop at the Summer Study Session 2004 in East Stroudsburg, PA._
 
@@ -105,3 +126,24 @@ In closing, I have to wonder what future revelations of truth will say about the
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-8-number-1-2007-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, Number 1, 2007 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Carolyn_Kendall/Archangels_Agents_of_Epochal_Change">
+          <span class="pr-2">Archangels: Agents of Epochal Change</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

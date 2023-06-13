@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Charles Laurence Olivea<br>© 2017 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bruce_Jackson/A_Musical_Metaphor">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Musical Metaphor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-17-number-1-2017-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Number 1, 2017 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_S_Sadler_Jr/What_Will_We_Find_in_Outer_Space">
+          <span class="pr-2">What Will We Find in Outer Space?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Great trees possess a majestical presence, such as the Grizzly Giant of the Sequoia Forest in Yosemite, California. It is quite interesting, even instructive, to reflect upon the fact that they begin as small seedlings, emerging as saplings, and over a **_long_** period of time grow to become nature’s monarchs. 
 
@@ -148,3 +172,27 @@ For sure, we ought to love our fellow mortals as Jesus loves us. We may sensibly
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bruce_Jackson/A_Musical_Metaphor">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Musical Metaphor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-17-number-1-2017-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Number 1, 2017 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_S_Sadler_Jr/What_Will_We_Find_in_Outer_Space">
+          <span class="pr-2">What Will We Find in Outer Space?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

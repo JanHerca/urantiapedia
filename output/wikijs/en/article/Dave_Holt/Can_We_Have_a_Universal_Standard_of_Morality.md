@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Dave Holt<br>© 2015 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Kulieke/Effective_Study_Group_Leadership">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Effective Study Group Leadership</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-15-number-1-2015-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, Number 1, 2015 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_S_Sadler_Jr/Destiny_of_the_Master_Michaels">
+          <span class="pr-2">Destiny of the Master Michaels?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 People are throwing rocks at our shining city on the hill. Do we too, carrying our heavy stones, prepare to meet them on a battle ground? Most observers agree that moral differences and disagreements lie behind the enmity raging between Islam and the West. Polls that measure public opinion back them up. 
 
@@ -148,3 +172,27 @@ Wattles, Jeff. The Golden Rule. New York/Oxford: Oxford University Press, 1996.
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Kulieke/Effective_Study_Group_Leadership">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Effective Study Group Leadership</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-15-number-1-2015-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, Number 1, 2015 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_S_Sadler_Jr/Destiny_of_the_Master_Michaels">
+          <span class="pr-2">Destiny of the Master Michaels?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

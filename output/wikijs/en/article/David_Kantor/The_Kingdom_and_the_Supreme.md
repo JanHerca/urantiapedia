@@ -9,6 +9,27 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 David Kantor<br>© 2007 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Phil_Taylor/Loving_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Loving Service</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-8-number-1-2007-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, Number 1, 2007 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > . . . no God-knowing mortal can ever be lonely in his journey through the cosmos, for he knows that the Father walks beside him each step of the way, while the very way that he is traversing is the presence of the Supreme. [[UB 117:6.27](/en/The_Urantia_Book/117#p6_27)]
 
@@ -331,3 +352,24 @@ As the Master said to his apostles, “. . . _it behooves us now to submit to th
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Phil_Taylor/Loving_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Loving Service</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-8-number-1-2007-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, Number 1, 2007 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

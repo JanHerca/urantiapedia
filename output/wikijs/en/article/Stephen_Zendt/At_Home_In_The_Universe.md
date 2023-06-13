@@ -9,6 +9,30 @@ dateCreated: 2023-02-09T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Stephen Zendt<br>© 2005 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nancy_Johnson/Becoming_a_Universe_Conscious_Citizen">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Becoming a Universe-Conscious Citizen</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-6-number-1-2005-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Number 1, 2005 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Pierre_Heudier/Pattern_of_Unity">
+          <span class="pr-2">Pattern of Unity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Have you considered how you fit into the scheme of things? Do you have a sense of your place in the wider realm of cosmic evolution? What function do you, as a personality, fulfill? I would like to invite you into the complex but richly satisfying study of the many things the Urantia revelation has to say about _pattern_.
 
@@ -55,3 +79,27 @@ That is why study of PATTERN is vital to our growing appreciation and comprehens
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nancy_Johnson/Becoming_a_Universe_Conscious_Citizen">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Becoming a Universe-Conscious Citizen</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-6-number-1-2005-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Number 1, 2005 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jean_Pierre_Heudier/Pattern_of_Unity">
+          <span class="pr-2">Pattern of Unity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

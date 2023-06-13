@@ -9,6 +9,30 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Charles Laurence Olivea<br>© 2000 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sara_Blackstock/The_Science_of_Parenting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Science of Parenting</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-2-number-2-2000-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, Number 2, 2000 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stephen/The_Intellectual_Role_of_The_Urantia_Book">
+          <span class="pr-2">The Intellectual Role of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (This address was presented at the Fellowship Summer Study Session 2000, in Elmhurst, IL on July 2, 2000)
 
@@ -66,3 +90,27 @@ But to get there, we must succeed in employing the doctrine of fair play, predic
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sara_Blackstock/The_Science_of_Parenting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Science of Parenting</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-2-number-2-2000-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, Number 2, 2000 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stephen/The_Intellectual_Role_of_The_Urantia_Book">
+          <span class="pr-2">The Intellectual Role of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

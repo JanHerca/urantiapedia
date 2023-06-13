@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 George Park<br>© 2007 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jacob_Dix/Participatory_Evolution">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Participatory Evolution</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-8-number-1-2007-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, Number 1, 2007 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Burns/The_Golden_Rule">
+          <span class="pr-2">The Golden Rule</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The following was presented at _The Urantia Book_ Fellowship International Conference, Villanova University, July 31, 2005.
 
@@ -78,3 +102,27 @@ Animals are aware. Man is awake. The soul awakens to moral self-consciousness in
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jacob_Dix/Participatory_Evolution">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Participatory Evolution</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-8-number-1-2007-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, Number 1, 2007 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Burns/The_Golden_Rule">
+          <span class="pr-2">The Golden Rule</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

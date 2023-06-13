@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Carolyn Kendall<br>© 2008 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Arlene_and_Buck_Weimer/The_Supreme_and_Outreach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Supreme and Outreach</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-9-number-1-2008-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, Number 1, 2008 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bill_Rocap/A_Missionary_Experience_in_Turkey">
+          <span class="pr-2">A Missionary Experience in Turkey</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Presented Sunday, July 22, 2007, Fellowship Summer Study Session, Dominican University, River Grove, IL_  
 
@@ -203,3 +227,27 @@ Handout available: “Timeline: Anti-religious Personalities, Events & Trends, 1
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Arlene_and_Buck_Weimer/The_Supreme_and_Outreach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Supreme and Outreach</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-9-number-1-2008-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, Number 1, 2008 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bill_Rocap/A_Missionary_Experience_in_Turkey">
+          <span class="pr-2">A Missionary Experience in Turkey</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

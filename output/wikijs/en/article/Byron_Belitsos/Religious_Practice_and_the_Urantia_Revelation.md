@@ -9,6 +9,30 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Byron Belitsos<br>© 2002 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Alison_Gardner/A_Demystification_and_Redefinition_of_Cult">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Demystification and Redefinition of Cult</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-4-number-1-2002-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, Number 1, 2002 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Karen_Larson/The_Gift_of_Tolerance">
+          <span class="pr-2">The Gift of Tolerance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 We reader-believers in _The Urantia Book_ sometimes forget that the Urantia revelation is a perfect mystery, a total unknown, to the religious believers and spiritual practitioners around us. Our religious life derives from an unacknowledged revelatory teaching with almost no practical link with the evolutionary religions of the planet. And because we as a religious movement are in our infancy, our religious identity is a deep enigma—even to ourselves. In an odd way, we are both a mystery to our-selves, and to the rest of the world.
 
@@ -82,3 +106,27 @@ It all really does come down to the truth-hungry individual standing nakedly bef
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Alison_Gardner/A_Demystification_and_Redefinition_of_Cult">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Demystification and Redefinition of Cult</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-4-number-1-2002-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, Number 1, 2002 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Karen_Larson/The_Gift_of_Tolerance">
+          <span class="pr-2">The Gift of Tolerance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

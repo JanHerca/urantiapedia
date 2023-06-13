@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 David Glass<br>© 2013 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Kantor/Spiritual_Faith_Incertainty_and_Cosmic_Citizenship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Faith, Incertainty and Cosmic Citizenship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-13-number-1-2013-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, Number 1, 2013 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Philip_Calabrese/A_Statistical_Test_of_Hypothesis_Urantia_Book_authored_by_a_Human_Being">
+          <span class="pr-2">A Statistical Test of the Hypothesis the That Urantia Book was authored by a Human Being</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 There are a great many _Urantia Book_ readers who have made various and valorous and concerted efforts to rise to the occasion of responding “adequately” to the message, the import—even the simple fact of the existence, of _The Urantia Book_. I personally know and have met and heard of many, many readers of the Fifth Epochal Revelation who have done, are doing, or are intending to do their utmost to respond to the highest vocations which it makes to its readers. The very uniqueness of each reader’s personality insures a diversity of individual responses to its existence and to its astounding contents. 
 
@@ -128,3 +152,27 @@ Concluding, I would say that the many moods, musics, and magic of _The Urantia B
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Kantor/Spiritual_Faith_Incertainty_and_Cosmic_Citizenship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Faith, Incertainty and Cosmic Citizenship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-13-number-1-2013-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, Number 1, 2013 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Philip_Calabrese/A_Statistical_Test_of_Hypothesis_Urantia_Book_authored_by_a_Human_Being">
+          <span class="pr-2">A Statistical Test of the Hypothesis the That Urantia Book was authored by a Human Being</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

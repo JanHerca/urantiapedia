@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Esther Wood<br>© 2021 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sharon_Porter/Mother_and_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mother and Father</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-21-number-1-2021-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, Number 1, 2021 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Of_Two_Minds_Human_and_Divine">
+          <span class="pr-2">Of Two Minds: Human and Divine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 My theory is this: What the adjutants do for the mortal mind, the Spirit of Truth and the Holy Spirit do for soul consciousness. 
 
@@ -129,3 +153,27 @@ Jesus gave us this gift of himself, the Spirit of Truth, so that we might more s
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sharon_Porter/Mother_and_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mother and Father</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-21-number-1-2021-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, Number 1, 2021 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Of_Two_Minds_Human_and_Divine">
+          <span class="pr-2">Of Two Minds: Human and Divine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2011 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Glass/Nearer_My_God_to_Thee_Getting_Closer_to_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“Nearer, My God, to Thee” Getting Closer to God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-11-number-2-2011-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, Number 2, 2011 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 __NOTE: The editors of The Fellowship Herald have granted the request of the author for anonymity.__ 
 
@@ -514,6 +535,28 @@ Increasingly, in modern civilization authority on matters of Truth is assessed t
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Glass/Nearer_My_God_to_Thee_Getting_Closer_to_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“Nearer, My God, to Thee” Getting Closer to God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-11-number-2-2011-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, Number 2, 2011 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes 
 

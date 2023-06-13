@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Carolyn Kendall<br>© 2007 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Paula_Thompson/Amazing_Human_Aspects_of_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amazing Human Aspects of Epochal Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-8-number-1-2007-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, Number 1, 2007 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Phil_Taylor/IC_08_The_Thrill_of_Loving_Service">
+          <span class="pr-2">IC 08 —The Thrill of Loving Service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The Urantia Book_ opens up a knowledge of archangels far greater than the popular conception of these beings. The archangels of the revelation are a grand order of local universe workers who are charged with a wide array of vital functions and important duties: They facilitate life implantation on inhabited planets; they initiate the resurrection of unimaginable billions of mortals on the inhabited worlds; they operate circuits of vital communication between individual planets and the headquarters worlds above; and they accompany the system and Paradise Sons on their missions of bestowal, as well as their judicial visitations. There are even more surprising projects and programs in which they engage. We could, in fact, have titled our subject, “Archangels and Magisterial Sons,” because it is they who are projected to be the next order to visit our planet with an enlarged revelation of truth. Archangels are the advance guard and right-hand associates of the Paradise Avonals on their magisterial missions.
 
@@ -144,3 +168,27 @@ If we sincerely seek to meet these standards, we will be better prepared to part
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Paula_Thompson/Amazing_Human_Aspects_of_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amazing Human Aspects of Epochal Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-8-number-1-2007-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, Number 1, 2007 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Phil_Taylor/IC_08_The_Thrill_of_Loving_Service">
+          <span class="pr-2">IC 08 —The Thrill of Loving Service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

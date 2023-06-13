@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Philip Calabrese<br>© 2009 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Arnie_Ondis/Ten_Lessons_from_the_Vineyard">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ten Lessons from the Vineyard</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-10-number-1-2009-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, Number 1, 2009 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Seubert/A_Lesson_from_a_Mouse">
+          <span class="pr-2">A Lesson from a Mouse</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## I. Solar system discoveries. 
 
@@ -92,6 +116,31 @@ Since its 1955 publication I have repeatedly noticed [^16] contemporary science 
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Arnie_Ondis/Ten_Lessons_from_the_Vineyard">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ten Lessons from the Vineyard</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-10-number-1-2009-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, Number 1, 2009 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Seubert/A_Lesson_from_a_Mouse">
+          <span class="pr-2">A Lesson from a Mouse</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

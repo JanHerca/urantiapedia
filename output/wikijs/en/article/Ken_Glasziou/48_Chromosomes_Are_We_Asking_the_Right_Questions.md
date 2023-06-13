@@ -9,6 +9,27 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marilyn_Kulieke/Trust_and_Hope_in_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Concepts of Trust and Hope in The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-1-number-1-1998-fall">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, Number 1, 1998 (Fall) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > (The following article, by Kenneth Glasziou, Qkl., Aus­tralia, appeared in [Innerface International, November/December 1997](/en/article/Ken_Glasziou/48_Chromosomes_Or_Jumping_to_Conclusions). It is being reprinted with permission.)
 {.is-info}
@@ -42,3 +63,24 @@ There appears to be no essential reason to equate a unit of pattern control with
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marilyn_Kulieke/Trust_and_Hope_in_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Concepts of Trust and Hope in The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-1-number-1-1998-fall">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, Number 1, 1998 (Fall) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

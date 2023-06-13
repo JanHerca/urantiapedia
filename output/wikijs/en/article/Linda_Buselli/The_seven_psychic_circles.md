@@ -9,6 +9,30 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Linda Buselli<br>© 1999 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeanne_Melchior/Whither_Goest_Thou_Woman">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Whither Goest Thou, Woman?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-1-number-2-1999-spring">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, Number 2, 1999 (Spring) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stephen/On_removing_the_barrier_to_discussion_of_eugenics">
+          <span class="pr-2">On Removing The Barrier To A Civilized Discussion Of Eugenics</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Of all the enigmas presented to us by _The Urantia Book,_ one of the most puzzling to me has always been the seven psychic circles. Only three of them are given any definition at all, and yet we must attain these stages of spiritual achievement in preparation for Adjuster fusion. I accepted this lack of differentiation between these circles because the book clearly states that they are different for each individual. However, I have found a possible way of giving them shape and form in the work of best-selling author, Caroline Myss, Ph.D. 
 
@@ -56,3 +80,27 @@ We cannot find a better example of human progression through the circles than in
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeanne_Melchior/Whither_Goest_Thou_Woman">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Whither Goest Thou, Woman?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-1-number-2-1999-spring">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, Number 2, 1999 (Spring) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stephen/On_removing_the_barrier_to_discussion_of_eugenics">
+          <span class="pr-2">On Removing The Barrier To A Civilized Discussion Of Eugenics</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

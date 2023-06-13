@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Richard Daunt<br>© 2014 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bob_Debold/Pursuing_Supremacy_How_Might_the_Master_Seraphim_and_Human_Beings_Collaborate">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pursuing Supremacy: How Might the Master Seraphim and Human Beings Collaborate?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-14-number-1-2014-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, Number 1, 2014 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Glass/Origin_Nature_Ministry_and_Destiny_of_Thought_Adjusters">
+          <span class="pr-2">Origin, Nature, Ministry, and Destiny of Thought Adjusters</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Presented at _The Urantia Book_ Society of Greater New York, September 28, 1913 
 
@@ -122,3 +146,27 @@ There is also a need to note changes in non-English languages that affect how th
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bob_Debold/Pursuing_Supremacy_How_Might_the_Master_Seraphim_and_Human_Beings_Collaborate">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pursuing Supremacy: How Might the Master Seraphim and Human Beings Collaborate?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-14-number-1-2014-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, Number 1, 2014 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Glass/Origin_Nature_Ministry_and_Destiny_of_Thought_Adjusters">
+          <span class="pr-2">Origin, Nature, Ministry, and Destiny of Thought Adjusters</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 David Elders<br>© 2010 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/God_Consciousness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">God Consciousness</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-11-number-1-2010-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, Number 1, 2010 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sheila_Keene_Lund/Understanding_the_Relation_of_Love_to_the_Mind">
+          <span class="pr-2">Understanding the Relation of Love to the Mind</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Okay. Here is what we, or at least I, know so far about the subject of human authors’ concepts used by the revelators in constructing _The Urantia Book_. 
 
@@ -38,3 +62,27 @@ The skeptics’ tools are inadequate for the validation of revelation and truth.
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/God_Consciousness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">God Consciousness</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-11-number-1-2010-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, Number 1, 2010 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sheila_Keene_Lund/Understanding_the_Relation_of_Love_to_the_Mind">
+          <span class="pr-2">Understanding the Relation of Love to the Mind</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

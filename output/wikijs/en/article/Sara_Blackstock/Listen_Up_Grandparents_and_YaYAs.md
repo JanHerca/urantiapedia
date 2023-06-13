@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Sara Blackstock<br>© 2016 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bobbie_Dreier_and_Francis_Oliver_Lynn/A_Circle_of_Kindred_Spirits">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Circle of Kindred Spirits</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-16-number-1-2016-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, Number 1, 2016 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Lawrence_J_Bowman/Early_Persecutions_of_Jesus_Followers_and_Dispersion_of_the_Apostles">
+          <span class="pr-2">Early Persecutions of Jesus’ Followers and Dispersion of the Apostles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Parents of today and those to come who have found the teachings of _The Urantia Book_ to be essential to their spiritual development NEED your experience, your suggestions, your mentoring. To pass on what you have learned is actually a principle found at all levels of our universe career. Many of us who are long time “UBers” were on our own as we attempted to pass the truths of _The Urantia Book_ to our children. We did it by the seat of our pants with various levels of success. There is now a generation of grandparents, and the younger generation who you raised, who can benefit measurably by your willingness to share some of your experiences. 
 
@@ -34,3 +58,27 @@ Thank you on behalf of the current parents and parents-to-be for your time and r
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bobbie_Dreier_and_Francis_Oliver_Lynn/A_Circle_of_Kindred_Spirits">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Circle of Kindred Spirits</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-16-number-1-2016-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, Number 1, 2016 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Lawrence_J_Bowman/Early_Persecutions_of_Jesus_Followers_and_Dispersion_of_the_Apostles">
+          <span class="pr-2">Early Persecutions of Jesus’ Followers and Dispersion of the Apostles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

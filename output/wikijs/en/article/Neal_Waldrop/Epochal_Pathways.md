@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Neal Waldrop<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Tenney_and_others/Working_with_Mother_Spirit_to_Uplift_the_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Working with Mother Spirit to Uplift the World</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-19-number-1-2019-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, Number 1, 2019 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rabia_Harris/Urantia_Book_A_Spiritual_Path">
+          <span class="pr-2">Urantia Book - A Spiritual Path</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Sudden transformation is seldom sought or courted, for human beings prefer to tinker carefully, cautiously, slowly. This permits them to conduct a thorough review of potential innovations as they may affect a structure thought fundamentally sound. When, however, has the situation of Urantia been truly satisfactory, either in conceptual or cosmic terms? Not since Lucifer, Satan, and Caligastia rebelled approximately 200,000 years ago. Further, the remedial measures that Adam and Eve attempted fell far short of what they intended, for the Material Son and Daughter ultimately defaulted on their trust. 
 
@@ -73,6 +97,31 @@ January 12, 2019
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Tenney_and_others/Working_with_Mother_Spirit_to_Uplift_the_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Working with Mother Spirit to Uplift the World</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-19-number-1-2019-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, Number 1, 2019 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rabia_Harris/Urantia_Book_A_Spiritual_Path">
+          <span class="pr-2">Urantia Book - A Spiritual Path</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

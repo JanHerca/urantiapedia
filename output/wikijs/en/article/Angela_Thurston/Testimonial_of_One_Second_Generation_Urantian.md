@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Angela Thurston<br>© 2010 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dave_Holt/Cosmic_Socialization_and_Planetary_Citizenship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cosmic Socialization and Planetary Citizenship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-11-number-1-2010-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, Number 1, 2010 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dan_Amyx/The_Problem_of_Business">
+          <span class="pr-2">The Problem of Business</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 My name is Angela Thurston and I’m twenty-five years old. In many ways, I know the upbringing my siblings and I received was not unique; many children are lucky enough to grow up with _The Urantia Book_ in their homes and as part of their family routines. Some of these children embrace the book and some do not. It’s not my intention to posit the critical factors that led my two younger siblings and me to accept the book as truth and identify whole-heartedly as Urantians in our young adult lives. Our free will precludes that blueprint. However, there are ways in which I believe our experience growing up in a Urantian household and community was, if not unique, at least a positive example. I will elucidate some of them in the article that follows. 
 
@@ -64,3 +88,27 @@ Not all eight-year-olds immersed in the teachings of _The Urantia Book_ become U
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dave_Holt/Cosmic_Socialization_and_Planetary_Citizenship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cosmic Socialization and Planetary Citizenship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-11-number-1-2010-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, Number 1, 2010 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dan_Amyx/The_Problem_of_Business">
+          <span class="pr-2">The Problem of Business</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 David Kantor<br>© 2009 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Richard_Guevara/The_Third_Cosmic_Circle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Third Cosmic Circle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-10-number-1-2009-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, Number 1, 2009 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Glass/The_Limitless_Spectrum_of_Education">
+          <span class="pr-2">The Limitless Spectrum of Education</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > . . . If you are not a positive and missionary evangel of your religion, you are self-deceived in that what you call a religion is only a traditional belief or a mere system of intellectual philosophy. . . . [[UB 160:5.3](/en/The_Urantia_Book/160#p5_3)] 
 
@@ -191,3 +215,27 @@ May your adventure as an effective missionary evangel be sublime.
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Richard_Guevara/The_Third_Cosmic_Circle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Third Cosmic Circle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-10-number-1-2009-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, Number 1, 2009 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Glass/The_Limitless_Spectrum_of_Education">
+          <span class="pr-2">The Limitless Spectrum of Education</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

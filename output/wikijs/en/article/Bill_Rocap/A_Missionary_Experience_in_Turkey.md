@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Bill Rocap<br>© 2008 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carolyn_Kendall/Guess_Whos_Coming_Next">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Guess Who's Coming Next?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-9-number-1-2008-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, Number 1, 2008 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Michael_Painter/You_Be_The_Book">
+          <span class="pr-2">You Be The Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 When I attended the Parliament for World Religions in Barcelona a few summers back, it sparked, for me, an exploration into Islam. I purchased a Quran and on my return, read it and began contacting Muslims online. Using a gracious approach, I encountered people by asking them to share something of their spiritual journey. To date, I could write a short volume on the memorable encounters I have been blessed to experience. One such encounter was with a family in southern Turkey, who eventually implored me to visit. 
 
@@ -64,3 +88,27 @@ I am swimming in unexpressed reflections from this experience. I remain deeply t
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carolyn_Kendall/Guess_Whos_Coming_Next">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Guess Who's Coming Next?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-9-number-1-2008-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9, Number 1, 2008 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Michael_Painter/You_Be_The_Book">
+          <span class="pr-2">You Be The Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

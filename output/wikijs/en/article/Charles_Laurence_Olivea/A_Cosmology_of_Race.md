@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Charles Laurence Olivea<br>© 2013 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gary_Deinstadt/Religion_of_One">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion of One</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-13-number-1-2013-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, Number 1, 2013 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dave_Holt/Exploring_the_Inner_Life">
+          <span class="pr-2">Exploring the Inner Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The following article is part of the Wrightwood Series of the Fellowship Forum for readers of _The Urantia Book_, “Perspectives on Race in _The Urantia Book_,” May 1-3, 1992 and April 30-May 2, 1993. 
 
@@ -299,3 +323,27 @@ The preceding was presented by a Mighty Messenger who was called upon to work te
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gary_Deinstadt/Religion_of_One">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion of One</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-13-number-1-2013-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, Number 1, 2013 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dave_Holt/Exploring_the_Inner_Life">
+          <span class="pr-2">Exploring the Inner Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

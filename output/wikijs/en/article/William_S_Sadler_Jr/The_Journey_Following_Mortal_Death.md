@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 William S. “Bill” Sadler, Jr.<br>© 2014 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carolyn_Kendall/The_Rehabilitation_of_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Rehabilitation of Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-14-number-1-2014-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, Number 1, 2014 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bob_Debold/Pursuing_Supremacy_How_Might_the_Master_Seraphim_and_Human_Beings_Collaborate">
+          <span class="pr-2">Pursuing Supremacy: How Might the Master Seraphim and Human Beings Collaborate?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The following is the transcript of a visit made by William S. ‘Bill’ Sadler, Jr. to a study group in 1959 or 1960, when Bill visited various study groups in California, Oklahoma, and other locations. Transcripts of other taped sessions are in the Fellowship website archives. 
 
@@ -257,3 +281,27 @@ No. The paper says, and now the finaliter is face to face with the challenge of 
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carolyn_Kendall/The_Rehabilitation_of_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Rehabilitation of Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-14-number-1-2014-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, Number 1, 2014 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bob_Debold/Pursuing_Supremacy_How_Might_the_Master_Seraphim_and_Human_Beings_Collaborate">
+          <span class="pr-2">Pursuing Supremacy: How Might the Master Seraphim and Human Beings Collaborate?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

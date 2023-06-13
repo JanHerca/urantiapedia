@@ -9,6 +9,30 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Meredith J. Sprunger<br>© 2003 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Stephen_Zendt/Closed_Circle_or_Open_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Closed Circle or Open Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-5-number-1-2003-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, Number 1, 2003 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claudia_Ayers_and_Lee_Smith/A_Dialogue_About_The_Kingdom">
+          <span class="pr-2">A Dialogue About The Kingdom</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “If you are not a positive and missionary evangel of your religion, you are self-deceived in that what you call religion is only a traditional belief or a mere system of intellectual philosophy.” [[UB 160:5.3](/en/The_Urantia_Book/160#p5_3)]
 
@@ -161,6 +185,31 @@ This outreach ministry will not be easy. It is not for timid Souls. It is difhcu
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Stephen_Zendt/Closed_Circle_or_Open_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Closed Circle or Open Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-5-number-1-2003-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, Number 1, 2003 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claudia_Ayers_and_Lee_Smith/A_Dialogue_About_The_Kingdom">
+          <span class="pr-2">A Dialogue About The Kingdom</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

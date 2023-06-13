@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Dr. Bruce R. Jackson<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rabia_Harris/Urantia_Book_A_Spiritual_Path">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Book - A Spiritual Path</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-19-number-1-2019-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, Number 1, 2019 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Kantor/Mobilizing_a_Dispensation_of_Planetary_Rehabilitation">
+          <span class="pr-2">Mobilizing a Dispensation of Planetary Rehabilitation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Recognizing the instructional shift needed for revelation based education that empowers morontian growth of Jesusonians and fosters the spiritual unity and human diversity of the Urantia Movement. 
 
@@ -78,3 +102,27 @@ In our enthusiasm for developing spiritual experience in our revelatory educatio
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rabia_Harris/Urantia_Book_A_Spiritual_Path">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Book - A Spiritual Path</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-19-number-1-2019-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, Number 1, 2019 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Kantor/Mobilizing_a_Dispensation_of_Planetary_Rehabilitation">
+          <span class="pr-2">Mobilizing a Dispensation of Planetary Rehabilitation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

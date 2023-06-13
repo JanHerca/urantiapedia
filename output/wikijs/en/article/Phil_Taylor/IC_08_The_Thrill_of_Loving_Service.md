@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Phil Taylor<br>© 2007 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carolyn_Kendall/Archangels_Agents_of_Epochal_Change">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Archangels: Agents of Epochal Change</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-8-number-1-2007-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, Number 1, 2007 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Philip_Calabrese/Update_The_Coming_Scientific_Validation">
+          <span class="pr-2">Year 2006 Update on The Coming Scientific Validation of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > I lived my life in the flesh to show how you can, through loving service, become God revealing to your fellow men even as, by loving you and serving you, I have become God-revealing to you. . . . Love all men as I have loved you; serve your fellow mortals as I have served you. . . .  [[UB 193:0.5](/en/The_Urantia_Book/193#p0_5)]
 
@@ -71,3 +95,27 @@ The goal of this last stage of the programming is to enhance and expand our perc
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carolyn_Kendall/Archangels_Agents_of_Epochal_Change">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Archangels: Agents of Epochal Change</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-8-number-1-2007-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, Number 1, 2007 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Philip_Calabrese/Update_The_Coming_Scientific_Validation">
+          <span class="pr-2">Year 2006 Update on The Coming Scientific Validation of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

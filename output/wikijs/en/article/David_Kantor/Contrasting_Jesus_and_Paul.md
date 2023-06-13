@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 David Kantor<br>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/JJ_Johnson/To_Beget_Or_Not_to_Beget_That_Is_the_Question">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">To Beget Or Not to Beget That Is the Question</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-20-number-1-2020-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, Number 1, 2020 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 What we know as Christianity—as well as most of the New Testament—is based almost exclusively on the experience of Paul of Tarsus with “the risen and glorified Christ” on the Damascus Road. 
 
@@ -43,3 +64,24 @@ Said Jesus, “You are to go forth preaching the love of God and the service of 
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/JJ_Johnson/To_Beget_Or_Not_to_Beget_That_Is_the_Question">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">To Beget Or Not to Beget That Is the Question</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-20-number-1-2020-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, Number 1, 2020 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

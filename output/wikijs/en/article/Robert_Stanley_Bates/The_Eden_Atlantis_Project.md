@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Commodore Robert Stanley Bates, United States Merchant Marine<br>© 2018 The Urantia Book Fellowship<br>© 2018 Batek Marine Publishing </p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Yvon_Gagne/The_Supreme_Being_in_My_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Supreme Being in My Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-18-number-1-2018-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, Number 1, 2018 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Plato’s legendary account of a sunken island civilization that he called Atlantis—or what some call Eden—has fascinated adventurers for centuries. But the sophisticated archeological search for this lost culture as had to wait for our time, with its digital technology and advanced underwater research capabilities. 
 
@@ -341,3 +362,25 @@ Plans for the third expedition include many additional side-scan and SBP surveys
 > **_Commodore Robert Stanley Bates_** , (USMM), BS, MS Commodore Bates is a 1960 graduate from the United States Coast Guard Academy and served the next 22 years as a career officer which included a tour in Vietnam. In 1969, he earned a masters degree in mathematics at the University of Rhode Island. Upon retirement from the Coast Guard in 1982, he sat for his unlimited master’s license and commenced a second career in the U .S. Merchant Marine. He participated in the Cold War as captain on Ocean Surveillance Vessels and captain on a survey ship during Operation Desert Storm in the Persian Gulf. During the following nine years, he served as captain on board the University of Rhode Island R/V ENDEAVOR and the Woods Hole Oceanographic Institute R/V OCEANUS for numerous sub-sea projects. Between tours at sea, he served on the adjunct faculty at the University of Connecticut, Avery Point Campus, the United States Coast Guard Academy and the STAR Center in Florida. In 2004, he was the expedition leader to the suspected site of Atlantis off the coast of Cyprus. In 2006 he was the consultant to _The History Channel_ for the second expedition. Since 1988 he has authored numerous articles in a variety of periodicals. In 1995, he founded Batek Marine, a maritime consulting firm. In 2011, he published the book: _The Authority to Sail: The History of US Maritime Licenses and Documents_. For more about his work on the Eden-Atlantis Project, go to: http://edenatlantisproject.org/.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Yvon_Gagne/The_Supreme_Being_in_My_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Supreme Being in My Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-18-number-1-2018-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, Number 1, 2018 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

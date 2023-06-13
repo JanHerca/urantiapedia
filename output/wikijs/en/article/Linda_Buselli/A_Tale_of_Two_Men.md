@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Linda Buselli<br>© 2018 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dennis_Marshall/I_Brother_The_Urantia_Papers_and_Issues_of_Race">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">I, Brother - The Urantia Papers and Issues of Race</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-18-number-1-2018-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, Number 1, 2018 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Derek_Samaras/Akhenaten">
+          <span class="pr-2">Akhenaten</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The following was presented as a plenary speech at the Summer Study Session 2015._ 
 
@@ -104,3 +128,27 @@ I can feel that which faith teaches; I can sense what faith sees. This of course
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dennis_Marshall/I_Brother_The_Urantia_Papers_and_Issues_of_Race">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">I, Brother - The Urantia Papers and Issues of Race</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-18-number-1-2018-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 18, Number 1, 2018 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Derek_Samaras/Akhenaten">
+          <span class="pr-2">Akhenaten</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

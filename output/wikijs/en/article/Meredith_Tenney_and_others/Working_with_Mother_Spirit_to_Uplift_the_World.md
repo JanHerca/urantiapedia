@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Meredith Tenney, Sharon Porter, Mary Huggins, and Elisabeth Callahan<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Kantor/Exploring_Urantia_Book_Christology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Exploring Urantia Book Christology</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-19-number-1-2019-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, Number 1, 2019 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Neal_Waldrop/Epochal_Pathways">
+          <span class="pr-2">Epochal Pathways</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Meredith_Tenney_and_others/Working_with_Mother_Spirit_to_Uplift_the_World/004147.jpg">
@@ -88,3 +112,27 @@ Since the start of the current millennium a growing collective of women in the U
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Kantor/Exploring_Urantia_Book_Christology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Exploring Urantia Book Christology</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-19-number-1-2019-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, Number 1, 2019 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Neal_Waldrop/Epochal_Pathways">
+          <span class="pr-2">Epochal Pathways</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

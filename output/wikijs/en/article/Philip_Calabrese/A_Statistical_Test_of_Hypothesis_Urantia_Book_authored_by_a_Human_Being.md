@@ -9,6 +9,27 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Philip Calabrese<br>© 2013 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Glass/Moods_Music_and_Magic_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Moods, Music and Magic of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-13-number-1-2013-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, Number 1, 2013 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Statistical Tests in General.** In performing any statistical test one must have an a priori probability distribution to test against. For example, knowing that wood can hardly grow unaided into the shape of a 4-legged chair in a wooded forest, if we encounter such a piece of wood in the forest then we are justified in concluding (statistically, not logically) that it was designed and built by some intelligent agent rather than that it evolved or emerged into a chair by wholly non-intelligent means. Similarly, if we flip a coin 100 times and “heads” comes up less than 33 times, then we could statistically conclude that the coin is biased toward tails because the probability of a **_fair_** coin producing 33 or less “heads” in 100 flips is 1 chance in 5000. The test is possible because we have an a priori distribution to test against concerning the number of “heads” in 100 flips of a fair coin. Assuming the “null hypothesis” of a fair coin, we calculate the low probability of a sample of at most 33 heads in 100 flips and conclude the “alternative hypothesis” that the coin is biased. 
 
@@ -249,3 +270,25 @@ In that regard, they should know that _The Urantia Book_ preaches the Gospel of 
 
 [^xliv]: See [UB 58:2.6](/en/The_Urantia_Book/58#p2_6). Also see Blue Jets, http://www.news.stanford.edu/news/2002/march20/bluejet-320.html, Also see UBTheNews.com
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Glass/Moods_Music_and_Magic_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Moods, Music and Magic of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-13-number-1-2013-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, Number 1, 2013 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

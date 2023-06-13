@@ -9,6 +9,30 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Behzad Sarmast<br>© 2001 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Matthew_Block/A_Source_Study_Of_Instruction_For_Teachers_And_Believers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Source Study Of “Instruction For Teachers And Believers”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-3-number-1-2001-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3, Number 1, 2001 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Les_Jamieson/Universal_Religion_An_Interfaith_Presentation">
+          <span class="pr-2">Universal Religion: An Interfaith Presentation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 For as long as history bears record, human nature has always associated godliness with some miraculous wonder. There is a natural craving for some outstanding source of authority that can show the way, but wise words and exalted teachings alone will not do - there must also be a display of supernatural powers. This was as true in the days of Caligastia's arrival as it is today, and the world still expects the arrival of the next celestial being to coincide with either a stupendous phenomenon in the sky, a miraculous disappearance of the elect, or some other wonder that defies reason.
 
@@ -67,3 +91,28 @@ I have seen a miracle!
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Matthew_Block/A_Source_Study_Of_Instruction_For_Teachers_And_Believers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Source Study Of “Instruction For Teachers And Believers”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-3-number-1-2001-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3, Number 1, 2001 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Les_Jamieson/Universal_Religion_An_Interfaith_Presentation">
+          <span class="pr-2">Universal Religion: An Interfaith Presentation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

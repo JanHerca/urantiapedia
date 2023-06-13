@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1959 William S. “_Bill_” Sadler<br>© 2015 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dave_Holt/Can_We_Have_a_Universal_Standard_of_Morality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Can We Have a Universal Standard of Morality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-15-number-1-2015-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, Number 1, 2015 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/The_Urantia_Book_and_Its_Mission">
+          <span class="pr-2">The Urantia Book and Its Mission</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The following is the transcript of a visit made by William S. “Bill” Sadler, Jr. to a California study group in 1959 or 1960. He was the son of Drs. William and Lena Sadler, and a member of the Forum as well as a member of the Contact Commission for the Urantia revelation. He witnessed the arrival of the series of expanded papers, and asked the questions that brought about the Supreme papers in The Urantia Book._
 
@@ -305,3 +329,27 @@ We think we have found more of God. He was always there. We just had more findin
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dave_Holt/Can_We_Have_a_Universal_Standard_of_Morality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Can We Have a Universal Standard of Morality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-15-number-1-2015-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 15, Number 1, 2015 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/The_Urantia_Book_and_Its_Mission">
+          <span class="pr-2">The Urantia Book and Its Mission</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

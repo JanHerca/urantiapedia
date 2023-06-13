@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 David Kantor<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bruce_Jackson/The_Challenge_of_Revelation_Based_Education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Challenge of Revelation Based Education</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-19-number-1-2019-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, Number 1, 2019 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 It is not uncommon to hear a reader of _The Urantia Book_ expressing an ideal of being able to assist our unseen friends in some way with their work. Too often this doesn't go much beyond imagining what it would be like to be a reservist. But there are some very deep spiritual needs and cosmically compelling service potentials in our world with repercussions extending far beyond this life. 
 
@@ -138,3 +159,24 @@ Will the story of your universe career show that you were a creative participant
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bruce_Jackson/The_Challenge_of_Revelation_Based_Education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Challenge of Revelation Based Education</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-19-number-1-2019-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, Number 1, 2019 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

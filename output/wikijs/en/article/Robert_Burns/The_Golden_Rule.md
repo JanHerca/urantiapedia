@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Robert Burns<br>© 2007 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/George_Park/Personality_and_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personality and Man</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-8-number-1-2007-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, Number 1, 2007 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cece_Forrester/Science_Fiction_for_Agondonters">
+          <span class="pr-2">Science Fiction for Agondonters</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The Golden Rule is a principle endorsed by all the great world religions; yet this simple tenet is not applied to any degree of what is possible in the communities around the world. As simple and straight forward as the Golden Rule is, many find it difficult to consistently put into practice. Living up to the standard of the Golden Rule requires consistent and conscious effort to be used in our personal, family, business and community/organizational affairs. Yet Jesus gave us this rule to help us find joy, pleasure, and delight and not to be a burden. “_When I give you this new commandment, I do not place any new burden upon your souls; rather do I bring you new joy and make it possible for you to experience new pleasure in knowing the delights of the bestowal of your heart’s affection upon your fellow men._” [[UB 180:1.2](/en/The_Urantia_Book/180#p1_2)] When we align our will in doing our Father’s will, we experience new pleasure and delights.
 
@@ -51,3 +75,27 @@ The Master asks us for loyalty, not sacrifice, as he wants our wholehearted affe
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/George_Park/Personality_and_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personality and Man</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-8-number-1-2007-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, Number 1, 2007 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cece_Forrester/Science_Fiction_for_Agondonters">
+          <span class="pr-2">Science Fiction for Agondonters</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

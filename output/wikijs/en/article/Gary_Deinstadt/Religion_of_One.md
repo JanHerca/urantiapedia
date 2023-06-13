@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2013 Rev. Gary Deinstadt<br>© 2013 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Stephen_Dreier/Spiritual_Genetics">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Genetics</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-13-number-1-2013-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, Number 1, 2013 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/A_Cosmology_of_Race">
+          <span class="pr-2">A Cosmology of Race</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > True religion must ever be, at one and the same time, the eternal foundation and the guiding star of all enduring civilizations. (Melchizedek of Nebadon) [UB 92:7.15](/en/The_Urantia_Book/92#p7_15)
 
@@ -145,6 +169,31 @@ I’m only scratching the surface here. Obviously, some theology has become outd
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Stephen_Dreier/Spiritual_Genetics">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Genetics</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-13-number-1-2013-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 13, Number 1, 2013 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/A_Cosmology_of_Race">
+          <span class="pr-2">A Cosmology of Race</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes  
 

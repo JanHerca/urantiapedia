@@ -9,6 +9,27 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Stephen<br>© 2000 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/The_Ethics_of_Genetic_Control_and_Social_Engineering">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Ethics of Genetic Control and Social Engineering</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-2-number-2-2000-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, Number 2, 2000 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _(Note: The author has asked us to withhold his full identity to protect his professional status and connections. We are complying with his request. - Editors)_
 
@@ -31,3 +52,25 @@ In our attempts to be truth-revealers, we must be-come "audience-sensitive", bot
 We can also benefit from having audience-sensitivity in a personal sense: using Jesus' method of "_making intimate and personal contact_" ([UB 134:2.3](/en/The_Urantia_Book/134#p2_3)) with the people. When intimacy exists, any instance of insensitivity on _The Urantia Book_ reader's part will evoke a protest, and the reader will be forced either to appreciate the motivation of the protest or to break off the relationship. Our effectiveness as philosophic leaveners will improve greatly if we learn to be intellectually and personally sensitive to our hearers.
 
 I have made my central points. There is an impor-tant consequential point that also involves audience-sen-sitivity. Earlier I cited the passage on five values of revelation, but I did not quote the fifth value, which is this: "_Presenting cosmic data in such a manner as to illuminate the spiritual teachings contained in the accompanying revelation._" ([UB 101:4.10](/en/The_Urantia_Book/101#p4_10)). This is a compelling argument against pub-lishing the Jesus Papers (or a portion thereof) separately: they are not accompanied by the cosmic data that is needed to make sense of much of the content: Who are the Ancients of Days? What is meant by "earning of the perfected sovereignty?" What were the "affairs of...the Lucifer rebellion" that he was to "untangle?" What is a Personalized Thought Adjuster, a morontia form, a bestowal life? Some-one may say that these questions will prompt the new read-ers to go purchase the whole book, and a few will undoubtedly do that. But others will either ignore or mis-interpret these important terms. The fact is, insufficient "cosmic data" are here "accompanying" the "spiritual teach-ings." If we're going to throw these terms at new readers, we need to give them the whole story.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/The_Ethics_of_Genetic_Control_and_Social_Engineering">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Ethics of Genetic Control and Social Engineering</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-2-number-2-2000-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, Number 2, 2000 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

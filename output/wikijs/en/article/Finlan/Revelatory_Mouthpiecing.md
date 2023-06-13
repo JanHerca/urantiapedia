@@ -9,6 +9,30 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Finlan<br>© 2002 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Paul_Premsagar/Eugenics_and_The_Urantia_Book_Another_Perspective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Eugenics and The Urantia Book: Another Perspective</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-4-number-1-2002-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, Number 1, 2002 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sara_Blackstock/Faith_Wiring_in_the_Brain">
+          <span class="pr-2">Faith Wiring in the Brain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Matthew Block has opened up a new age in Urantia Book scholarship by his discovery and documentation of the use of human sources. In his most recent article ([_The Fellowship Herald_, Summer 2001](/en/article/Matthew_Block/A_Source_Study_Of_Instruction_For_Teachers_And_Believers)), he details how Weatherhead's _Jesus and Ourselves_ was used in the composition of “Instruction for Teachers and Believers.” [[UB 159:3.1-14](/en/The_Urantia_Book/159#p3_1)]
 
@@ -57,3 +81,27 @@ By utilizing authors like Weatherhead, _The Urantia Book_ has salvaged a great l
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Paul_Premsagar/Eugenics_and_The_Urantia_Book_Another_Perspective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Eugenics and The Urantia Book: Another Perspective</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-4-number-1-2002-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, Number 1, 2002 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sara_Blackstock/Faith_Wiring_in_the_Brain">
+          <span class="pr-2">Faith Wiring in the Brain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

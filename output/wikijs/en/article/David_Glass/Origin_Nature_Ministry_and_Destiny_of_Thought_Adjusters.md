@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 David Glass<br>© 2014 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Richard_Daunt/Urantian_Language_and_the_Preservation_of_Meaning">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantian Language and the Preservation of Meaning</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-14-number-1-2014-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, Number 1, 2014 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_Goodman/Spiritual_Unity">
+          <span class="pr-2">Spiritual Unity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The following was presented at the TOKAN Conference in Irving, TX, on March 8, 2014 _
 
@@ -110,3 +134,27 @@ The Adjusters are the “_kingdom of God within you._” [[UB 170:2.24](/en/The_
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Richard_Daunt/Urantian_Language_and_the_Preservation_of_Meaning">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantian Language and the Preservation of Meaning</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-14-number-1-2014-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 14, Number 1, 2014 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_Goodman/Spiritual_Unity">
+          <span class="pr-2">Spiritual Unity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

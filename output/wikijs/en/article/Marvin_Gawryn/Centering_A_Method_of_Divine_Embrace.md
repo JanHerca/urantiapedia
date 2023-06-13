@@ -9,6 +9,30 @@ dateCreated: 2023-02-07T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Marvin Gawryn<br>© 2002 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Philip_Calabrese/Reflections_on_the_Urantia_Movement_in_2002">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflections on the Urantia Movement in 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-4-number-1-2002-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, Number 1, 2002 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Paul_Premsagar/Eugenics_and_The_Urantia_Book_Another_Perspective">
+          <span class="pr-2">Eugenics and The Urantia Book: Another Perspective</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 When I began reading _The Urantia Book_ many years ago, the possibility it promised that most excited me was that I could have a direct relationship with God. It asserted that I was a child of God and that I could actually experience this truth daily. How can we vividly experience sonship with our Father each day? How can we enjoy intimate communion with our indwelling Adjusters, a constant affection-filled friendship with God? After all Jesus said, “_It is not so important that you should know about the fact of God as that you should increasingly grow in the ability to feel the presence of God._” [UB 155:6.12](/en/The_Urantia_Book/155#p6_12)
 
@@ -101,3 +125,27 @@ All of these marvelous results, I believe, flow naturally from the simple practi
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Philip_Calabrese/Reflections_on_the_Urantia_Movement_in_2002">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflections on the Urantia Movement in 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-4-number-1-2002-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4, Number 1, 2002 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Paul_Premsagar/Eugenics_and_The_Urantia_Book_Another_Perspective">
+          <span class="pr-2">Eugenics and The Urantia Book: Another Perspective</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Dave Holt<br>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Lawrence_J_Bowman/Avi_Dogim_Emilio_Coppola_and_Steve_Dreier">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Avi Dogim, Emilio Coppola, and Steve Dreier</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-20-number-1-2020-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, Number 1, 2020 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Michael_Hill/Growing_the_Supreme">
+          <span class="pr-2">Growing the Supreme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 How do we put it together in our minds that the absolute, unchanging God can also be a growing, evolving God, manifesting in new ways? In conversations with my Catholic cousin, he had a great deal of trouble unifying these seemingly contradictory ideas of Deity, not to say I didn’t. We can do it if we begin to accept the fundamental idea that not only life continues to evolve, but also God is evolving to meet the needs brought about by changes in the earth, the universe, and transformations initiated by human beings. That is why _The Urantia Book_ (The UB) offers us its new vision, a revelation of a Supreme Being. “Action, completion of decisions, is essential to the evolutionary attainment of ... progressive kinship with ... the Supreme Being.” [UB 110:6.17](/en/The_Urantia_Book/110#p6_17)
 
@@ -41,3 +65,27 @@ We as artists, musicians, writers, and others who seek to reveal the Supreme thr
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Lawrence_J_Bowman/Avi_Dogim_Emilio_Coppola_and_Steve_Dreier">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Avi Dogim, Emilio Coppola, and Steve Dreier</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-20-number-1-2020-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, Number 1, 2020 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Michael_Hill/Growing_the_Supreme">
+          <span class="pr-2">Growing the Supreme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

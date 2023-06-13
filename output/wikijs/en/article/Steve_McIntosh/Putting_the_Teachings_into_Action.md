@@ -9,6 +9,30 @@ dateCreated: 2023-02-09T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Steve McIntosh<br>© 2005 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Tom_Allen/Legacy_in_Peril_Children_and_the_Urantia_Community">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Legacy in Peril: Children and the Urantia Community</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-6-number-1-2005-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Number 1, 2005 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Antti_Roine/Science_Cannot_Replace_Religion">
+          <span class="pr-2">Science Cannot Replace Religion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 A growing number of _Urantia Book_ readers are discovering the power of a new evolutionary philosophy that compliments the book’s teachings and provides significant opportunities for their application. Known as “integral philosophy,” this new worldview promises to have a major impact on the history of the 21st century.
 
@@ -240,3 +264,27 @@ Towards this end, I have created an online petition (modeled after Jefferson's D
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Tom_Allen/Legacy_in_Peril_Children_and_the_Urantia_Community">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Legacy in Peril: Children and the Urantia Community</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-6-number-1-2005-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Number 1, 2005 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Antti_Roine/Science_Cannot_Replace_Religion">
+          <span class="pr-2">Science Cannot Replace Religion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

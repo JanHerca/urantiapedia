@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Gary Deinstadt<br>© 2016 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Paula_Thompson/Why_Should_You_Support_a_Urantia_Organization">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Why Should You Support a Urantia Organization Like The Urantia Book Fellowship?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-16-number-1-2016-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, Number 1, 2016 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Byron_Belitsos/The_Nature_of_Personal_Reality">
+          <span class="pr-2">The Nature of Personal Reality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 I was invited to speak on _The Urantia Book_ at an interfaith service that a local Christian church usually schedules on the third Sunday of every month. I know these people well, because I’ve worked with them in other interfaith endeavors. Participants involved come from diverse religious backgrounds, including clergy. They recently created a speaker series. In addition to the invited speaker, there’s an interfaith team of approximately five people, who each contribute a five-minute talk related to the speakers subject matter. 
 
@@ -52,3 +76,27 @@ So, from this experience I learned:
 ## References
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Paula_Thompson/Why_Should_You_Support_a_Urantia_Organization">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Why Should You Support a Urantia Organization Like The Urantia Book Fellowship?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_herald#volume-16-number-1-2016-summer">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, Number 1, 2016 (Summer) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Byron_Belitsos/The_Nature_of_Personal_Reality">
+          <span class="pr-2">The Nature of Personal Reality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
