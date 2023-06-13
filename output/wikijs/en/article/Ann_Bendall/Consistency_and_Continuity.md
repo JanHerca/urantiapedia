@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T01:53:28.853Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ann Bendall<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/As_Jesus_Passed_By">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">As Jesus Passed By</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Keys_to_the_Kingdom">
+          <span class="pr-2">Keys to the Kingdom</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Humans just naturally resist change. Once we’ve grown accustomed to a certain view of ourselves and those around us, we can be terrified by, and fight vigorously against, anything new or different. This resistance to change is a universal phenomenon, and when we are pitted against change, we become fearful, which actually intensifies our conflict. Change is threatening, simply because it challenges us, has us question the adequacy of our skills to cope with the new environment produced by change, and it shakes us from complacency and lethargy. Change also, more often than not, forces us to learn new behaviors, and often discard old beliefs and values.
 
@@ -34,3 +58,27 @@ And so there continues all the way to Paradise, the slow evolutionary grind of c
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_2/page3.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/As_Jesus_Passed_By">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">As Jesus Passed By</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Keys_to_the_Kingdom">
+          <span class="pr-2">Keys to the Kingdom</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

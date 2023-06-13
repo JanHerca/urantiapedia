@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T18:52:49.984Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Developing_Saga_of_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Developing Saga of the Urantia Papers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/About_the_Universal_Father">
+          <span class="pr-2">About the Universal Father</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## The religious challenge of the age
 
@@ -112,3 +136,28 @@ But care is required to ensure that we do not deceive ourselves. If concepts and
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_2/page15.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Developing_Saga_of_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Developing Saga of the Urantia Papers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/About_the_Universal_Father">
+          <span class="pr-2">About the Universal Father</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -8,7 +8,28 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">>© 1994 The Brotherhood of Man Library</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/I_Want_to_be_Aggressive">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">I Want to be Aggressive</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **The Sunshine Coast Study Group, Qld., Australia**
 
@@ -73,6 +94,28 @@ Part of the task to be accomplished needs to be done without direct reference to
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_1/page11.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/I_Want_to_be_Aggressive">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">I Want to be Aggressive</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

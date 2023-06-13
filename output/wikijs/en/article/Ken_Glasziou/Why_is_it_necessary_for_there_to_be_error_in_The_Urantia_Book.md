@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T16:26:00.991Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Ken Glasziou<br>© 2005 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Zircons_and_Earth_Moon_Relations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Zircons and Earth-Moon Relations</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-12-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Is_The_Urantia_Book_Believable_Is_it_Logical">
+          <span class="pr-2">Is The Urantia Book Believable? Is it Logical?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Introduction
 
@@ -210,6 +234,31 @@ The occurrence of error in _The Urantia Book_ gives us no option other than to m
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_3/page7.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Zircons_and_Earth_Moon_Relations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Zircons and Earth-Moon Relations</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-12-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Is_The_Urantia_Book_Believable_Is_it_Logical">
+          <span class="pr-2">Is The Urantia Book Believable? Is it Logical?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

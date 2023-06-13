@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme—light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Challenge">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Challenge</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Earth_Moon_System">
+          <span class="pr-2">The Earth-Moon System</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Most Westerners accept as scientific fact the idea that we live in a materialist world–a world in which everything is made of matter and in which matter is taken as being the only fundamental reality.
 
@@ -510,3 +534,28 @@ Philosophically and scientifically, the Urantia revelation accords well with wha
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_5/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Challenge">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Challenge</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Earth_Moon_System">
+          <span class="pr-2">The Earth-Moon System</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Pragmatism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Pragmatism</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Lets_Make_and_Keep_it_Simple">
+          <span class="pr-2">Let's make and keep it simple</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “_Mechanical inventions and the dissemination of knowledge are modifying civilization; certain economic adjustments and social changes are imperative if cultural disaster is to be avoided. ***This new and oncoming social order will not settle down complacently for a millennium.*** The human race must become reconciled to a procession of changes, adjustments, and readjustments. Mankind is on the march toward a new and unrevealed planetary destiny._” ([Paper 99, Section 1](/en/The_Urantia_Book/99#p1_1))
 
@@ -73,3 +97,28 @@ We have a whole millennium in which to work. A gradual approach appears to be th
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_2/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Pragmatism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Pragmatism</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Lets_Make_and_Keep_it_Simple">
+          <span class="pr-2">Let's make and keep it simple</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

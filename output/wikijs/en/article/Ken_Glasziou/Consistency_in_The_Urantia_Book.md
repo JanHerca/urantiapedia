@@ -9,6 +9,30 @@ dateCreated: 2022-9-8T14:13:8Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Why_Did_Jesus_come_to_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Why did Jesus come to Urantia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Steady_State_Big_Bang_or_Architects_of_the_Master_Universe">
+          <span class="pr-2">Steady State, Big Bang, or Architects of the Master Universe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “_Morality has its origin in the reason of self- consciousness, it is superanimal but wholly evolutionary. Human evolution embraces in its unfolding all endowments antecedent to the bestowal of the Adjusters and the Spirit of Truth._” ([UB 5:5.1](/en/The_Urantia_Book/5#p5_1))
 
@@ -49,3 +73,28 @@ At the Australian office of Innerface International, we will be pleased to recei
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_4/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Why_Did_Jesus_come_to_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Why did Jesus come to Urantia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Steady_State_Big_Bang_or_Architects_of_the_Master_Universe">
+          <span class="pr-2">Steady State, Big Bang, or Architects of the Master Universe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

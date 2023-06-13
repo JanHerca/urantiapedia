@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ann Bendall<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Soul</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Instructions_from_a_Higher_Authority">
+          <span class="pr-2">Instructions from a Higher Authority</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 I strive to know the truth in capital letters and accept that I never will. This “truth” excites me, as finality is a concept that I find almost terrifying as it would mean no more discovery, nothing more to learn. Is my idea true? To me it is for “_the power of any idea lies, not in its certainty or truth, but rather in the vividness of its human appeal._” ([UB 92:3.3](/en/The_Urantia_Book/92#p3_3))
 
@@ -55,3 +79,28 @@ I can aid my partner, my Thought Adjuster by:
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_6/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Soul</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Instructions_from_a_Higher_Authority">
+          <span class="pr-2">Instructions from a Higher Authority</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

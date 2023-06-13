@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:12:18Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Prophetic_Science_in_the_Urantia_Papers_Discussion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prophetic Science in the Urantia Papers—Discussion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Our previous discussion has presented lines of reasoning that may shed light upon the many occurrences of errors in the Urantia Papers. That these errors do constitute a mystery derives from the observation by so many that the authors of these Papers had an excellent, highly specialized knowledge in multiple areas of science, as well as in religion, the Bible, theology and philosophy.
 
@@ -120,6 +141,28 @@ We have the Papers—and the obligation.
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_5/page12.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Prophetic_Science_in_the_Urantia_Papers_Discussion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prophetic Science in the Urantia Papers—Discussion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

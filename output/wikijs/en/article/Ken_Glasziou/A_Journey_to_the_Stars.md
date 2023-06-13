@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/All_Urantia_is_Waiting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">All Urantia is Waiting</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Need_a_Tune_Up">
+          <span class="pr-2">Need a Tune-Up</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The Urantia Book_ describes, in detail, God’s plan for the ascending evolutionary mortals of time to finally make it to Paradise. Here we provide a short summary about that marvelous journey which commences with our birth as beings only marginally more advanced than the animals. But there is a major difference—we are provided with the precious gift of a mind capable of both self-awareness and of making a moral decision.
 
@@ -126,3 +150,28 @@ It might be a good idea to now read the Section entitled “Conductors of Worshi
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_3/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/All_Urantia_is_Waiting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">All Urantia is Waiting</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Need_a_Tune_Up">
+          <span class="pr-2">Need a Tune-Up</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

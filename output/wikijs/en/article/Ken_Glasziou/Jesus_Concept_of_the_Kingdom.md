@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/A_Kingdom_Commentary">
+          <span class="pr-2">A Kingdom Commentary</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > The Master made it clear that the kingdom of heaven must begin with, and be centered in, the dual concept of the truth of the fatherhood of God and the correlated fact of the brotherhood of man. The acceptance of such a teaching, Jesus declared, would liberate man from the age-long bondage of animal fear and at the same time enrich human living with the following endowments of the new life of spiritual liberty:
 > 
@@ -33,3 +54,25 @@ dateCreated: 2022-9-9T8:13:39Z
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/A_Kingdom_Commentary">
+          <span class="pr-2">A Kingdom Commentary</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

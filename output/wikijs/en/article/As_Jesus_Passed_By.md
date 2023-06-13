@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T03:56:17.001Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-12-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Creationism_Evolution_and_The_Urantia_Book">
+          <span class="pr-2">Creationism, Evolution, and The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Jesus spread good cheer everywhere he went. He was full of grace and truth. His associates never ceased to wonder at the gracious words that proceeded out of his mouth. You can cultivate gracefulness, but graciousness is the aroma of friendliness which emanates from a love-saturated soul.
 > 
@@ -35,3 +56,24 @@ dateCreated: 2022-09-26T03:56:17.001Z
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_3/page2.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-12-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Creationism_Evolution_and_The_Urantia_Book">
+          <span class="pr-2">Creationism, Evolution, and The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Way">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Way</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sydney_Harris/What_I_Wish_I_Had_Known_at_Eighteen">
+          <span class="pr-2">What I wish I had known at Eighteen</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Meaning of “cosmology”
 
@@ -115,6 +139,31 @@ At enormous risk to life and limb, I’m forced to speculate that since the pres
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_4/page3.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Way">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Way</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sydney_Harris/What_I_Wish_I_Had_Known_at_Eighteen">
+          <span class="pr-2">What I wish I had known at Eighteen</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

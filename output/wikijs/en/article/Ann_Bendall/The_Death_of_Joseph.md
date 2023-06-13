@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ann Bendall<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sydney_Harris/On_Hyping_up_our_Hypothesis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Hyping up our Hypothesis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Introducing_the_Urantia_Book">
+          <span class="pr-2">On Introducing The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “_Blind and unforeseen accidents do not occur in the cosmos_” ([UB 48:7.9](/en/The_Urantia_Book/48#p7_9)) and “_material accidents, commonplace occurrences of a physical nature, are not arbitrarily interfered with by celestial personalities. Under ordinary circumstances only midway creatures can intervene in material conditions to safeguard the persons of men and women of destiny, and even in special situations these beings can so act only in obedience to the specific mandates of their superiors._” ([UB 123:4.7](/en/The_Urantia_Book/123#p4_7))
 
@@ -72,3 +96,28 @@ And so: “_Jesus naturally loved his people; he loved his family, and this natu
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sydney_Harris/On_Hyping_up_our_Hypothesis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Hyping up our Hypothesis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Introducing_the_Urantia_Book">
+          <span class="pr-2">On Introducing The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

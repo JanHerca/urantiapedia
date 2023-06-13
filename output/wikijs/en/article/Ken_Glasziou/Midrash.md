@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Beyond_Fundamentalism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Beyond Fundamentalism</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Self_Fulfilling_Prophecy">
+          <span class="pr-2">Self-fulfilling Prophecy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Midrash is a name given to an interpretive method used by Jewish rabbis for **speculating upon hidden meanings in their ancient Scriptures**. In explaining that the early Christians used this same method to find meaning in events in and surrounding the life of Jesus, Episcopalian bishop, Sheldon Spong, (author of ***Rescuing the Bible from Fundamentalism***) spoke to a church gathering in New Jersey about Luke’s account of events at Pentecost. The early Christians, he said, likened Jesus to a new and greater Elijah. So when the power of the Holy Spirit descended upon the disciples at Pentecost, they described it as a mighty rushing wind because the Hebrew word for spirit, *ruach*, is also the name for wind—which was thought to be nothing less than the breath of God. It also came as a tongue of fire which lighted upon the disciples’ heads because Elijah was renowned for his power to call down fire from Heaven.
 
@@ -33,3 +57,28 @@ The revelators of _The Urantia Book_ also use midrash, for example, in describin
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_3/page12.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Beyond_Fundamentalism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Beyond Fundamentalism</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Self_Fulfilling_Prophecy">
+          <span class="pr-2">Self-fulfilling Prophecy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Eternity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Eternity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Physics_is_a_Religion">
+          <span class="pr-2">Physics is a Religion!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “The erroneous supposition that the righteousness of God was irreconcilable with the selfless love of the heavenly Father, presupposed absence of unity in the nature of Deity and led directly to the elaboration of the atonement doctrine, which is a philosophic assault upon both the unity and the free-willness of God.” ([UB 2:6.5](/en/The_Urantia_Book/2#p6_5))
 
@@ -63,3 +87,28 @@ The change that appears to be necessary is one that will mold what is now a loos
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_1/page14.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Eternity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Eternity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Physics_is_a_Religion">
+          <span class="pr-2">Physics is a Religion!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Stefan Tallqvist<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Introducing_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Introducing The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Urantia_Book_versus_its_Philosophy">
+          <span class="pr-2">The Urantia Book versus Its Philosophy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _If the mass of matter should be magnified until that of an electron equaled one tenth of an ounce, then were the size to be proportionately magnified, the volume of such an electron would become as large as that of the Earth._ (_The Urantia Book_, [UB 42:6.8](/en/The_Urantia_Book/42#p6_8))
 
@@ -40,3 +64,28 @@ There is no possible way that this could be some kind of coincidence. If we look
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Introducing_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Introducing The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Urantia_Book_versus_its_Philosophy">
+          <span class="pr-2">The Urantia Book versus Its Philosophy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

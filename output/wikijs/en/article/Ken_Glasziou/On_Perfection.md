@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T19:14:54.696Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Imagine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Imagine!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/God_the_Universal_Father">
+          <span class="pr-2">God—the Universal Father</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 "Be you perfect, even as I am perfect." In love and mercy the messengers of Paradise have carried this divine exhortation down through the ages and out through the universes, even to such lowly animal-origin creatures as the human races of Urantia.
 
@@ -25,3 +49,27 @@ This is the true meaning of that divine command, "Be you perfect, even as I am p
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_1/page2.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Imagine">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Imagine!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/God_the_Universal_Father">
+          <span class="pr-2">God—the Universal Father</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

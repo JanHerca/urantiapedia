@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Stefan Tallqvist<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/A_Discourse_on_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Discourse on Religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georgina_Merrill/Defamation_of_Character">
+          <span class="pr-2">Defamation of Character</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Stefan writes: Dear friends,
 
@@ -56,3 +80,28 @@ Stefan concludes that he finds all of the archaeological information is in good 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_4/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/A_Discourse_on_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Discourse on Religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Georgina_Merrill/Defamation_of_Character">
+          <span class="pr-2">Defamation of Character</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

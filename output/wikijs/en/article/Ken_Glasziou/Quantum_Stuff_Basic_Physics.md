@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T20:08:53.675Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Renewal_of_the_Search_for_the_Neutron_Star">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Renewal of the Search for the Neutron Star</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Cooking_up_a_Universe_2">
+          <span class="pr-2">Cooking up a Universe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Summary
 
@@ -55,3 +79,28 @@ The mandate to the revelators permitted “_the supplying of information which w
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page19.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Renewal_of_the_Search_for_the_Neutron_Star">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Renewal of the Search for the Neutron Star</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Cooking_up_a_Universe_2">
+          <span class="pr-2">Cooking up a Universe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

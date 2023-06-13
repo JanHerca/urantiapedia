@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Robert Walker<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Uncertainties">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Uncertainties</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Without_or_Within">
+          <span class="pr-2">Without or Within</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 There are at least twelve pages in _The Urantia Book_ which make mention of dreams from the ordinary ghost dream of ancient man to the extra-ordinary dreams of Joseph and the apostle Peter. Most of these references debunk the ordinary dream of its prophetic powers while recognizing their supermaterializing influence. Dreams are railed against for being used to suggest much more about life than they contain—as men are prone to do. “_The interpretation of dreams is largely a superstitious and groundless system of ignorant fantastic speculation._” ([UB 150:3.9](/en/The_Urantia_Book/150#p3_9)) Some sorting out of the implications of seemingly disparate references to dreams in the book is in order.
 
@@ -53,3 +77,28 @@ Thus, it would seem the intellectual choice to accept any rational system of dre
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_5/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Uncertainties">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Uncertainties</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Without_or_Within">
+          <span class="pr-2">Without or Within</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

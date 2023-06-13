@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ann Bendall<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Human_Sources_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Human Sources and The Urantia Book. The Strong Force and Supernova</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Who_Wrote_The_Urantia_Book_It_doesnt_really_matter">
+          <span class="pr-2">Who Wrote The Urantia Book? It doesn't really matter—IMHO</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 “To forgive is divine.” So we are told. And as each of us strives to be more god-like, we are confronted with the dilemma of identifying who did what to us and why and what are the consequences.
 
@@ -83,3 +107,28 @@ Although I can draw attention to some of these problems, real solutions are in t
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Human_Sources_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Human Sources and The Urantia Book. The Strong Force and Supernova</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Who_Wrote_The_Urantia_Book_It_doesnt_really_matter">
+          <span class="pr-2">Who Wrote The Urantia Book? It doesn't really matter—IMHO</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

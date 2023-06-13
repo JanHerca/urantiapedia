@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/A_Crime_Against_Humanity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Crime against Humanity?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Cross_as_a_Symbol">
+          <span class="pr-2">The Cross as a Symbol</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 To justify significant change, we must first admit to ourselves that our present approach has failed. Jim Mills, who was a prominent oldie from Forum days, warned me of this prior to his death a few years ago. In his retiring years, Jim studied philosophy, graduated while in his eighties, and taught at the Pensacola Campus of the University of Florida. He was dedicated to getting _The Urantia Book_ accepted for study at tertiary level. But his efforts were in vain.
 
@@ -39,3 +63,28 @@ So please, let us not be as the majority of the current crop of Christians with 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/A_Crime_Against_Humanity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Crime against Humanity?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Cross_as_a_Symbol">
+          <span class="pr-2">The Cross as a Symbol</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Need_a_Tune_Up">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Need a Tune-Up</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Matthew_Block/Attunement_Equals_Peace">
+          <span class="pr-2">Attunement Equals Peace</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The meaning of almost any group of words within a text can be changed, often radically, by the simple means of quoting out of context. A facetious example would be: “**Jesus was consistently cheerful, not-withstanding that he sometimes drank deeply.**” We’ll leave it to the reader to discover the real context which, we can assure you, is quite different from what it appears to be.
 
@@ -31,3 +55,28 @@ In debate, we can always come up with hypothetical circumstances where telling t
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_3/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Need_a_Tune_Up">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Need a Tune-Up</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Matthew_Block/Attunement_Equals_Peace">
+          <span class="pr-2">Attunement Equals Peace</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

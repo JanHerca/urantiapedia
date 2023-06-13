@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T11:49:05.941Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Ken Glasziou<br>© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Mind_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Mind of Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Mathematics and Science catch up with _The Urantia Book_ “In the mortal state, nothing can be absolutely proved; both science and religion are predicated on assumptions.” ([UB 103:7.10](/en/The_Urantia_Book/103#p7_10))
 
@@ -49,3 +70,25 @@ The basis of physics, in fact of all science, is mathematics. Hence the conclusi
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_5/page17.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Mind_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Mind of Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

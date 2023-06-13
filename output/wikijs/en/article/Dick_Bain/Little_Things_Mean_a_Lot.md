@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Dick Bain<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Darryl_Reanney/The_Death_of_Forever_A_new_future_for_human_consciousness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Death of Forever: A new future for human Consciousness</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 For many years, physicists have been arguing about whether or not neutrinos have mass. While this isn’t the sort of thing that would cause a family feud around the dinner table for most of us, it has profound implications for cosmology.
 
@@ -47,6 +68,28 @@ The ‘recent’ geological history of Urantia, as it is presented in _The Urant
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_3/page17.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Darryl_Reanney/The_Death_of_Forever_A_new_future_for_human_consciousness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Death of Forever: A new future for human Consciousness</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

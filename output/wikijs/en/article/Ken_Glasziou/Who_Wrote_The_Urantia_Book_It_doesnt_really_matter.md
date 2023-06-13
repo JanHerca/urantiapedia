@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Forgiveness_Reconciliation_and_Reparation_the_Dilemma">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Forgiveness, Reconciliation, and Reparation—the Dilemma</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Peer_Group_Pressure">
+          <span class="pr-2">On Peer Group Pressure</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Of course it will always matter to some, particularly when they are new readers. But a small survey shows that the longer an individual has been reading this book, so does their intellectual need decline for an authoritarian statement about what one should or should not believe.
 
@@ -41,3 +65,28 @@ The Biblical fundamentalists have brought much derision upon themselves and the 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Forgiveness_Reconciliation_and_Reparation_the_Dilemma">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Forgiveness, Reconciliation, and Reparation—the Dilemma</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Peer_Group_Pressure">
+          <span class="pr-2">On Peer Group Pressure</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

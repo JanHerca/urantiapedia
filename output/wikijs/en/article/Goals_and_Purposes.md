@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Angona_Nemesis_and_the_Solar_System">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Angona, Nemesis, and the Solar System</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Living_as_Jesus_Lived">
+          <span class="pr-2">Living as Jesus Lived</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “The goal of self-realization should be spiritual, not material. The only realities worth striving for are divine, spiritual, and eternal.” ([UB 100:2.6](/en/The_Urantia_Book/100#p2_6))
 
@@ -58,3 +82,28 @@ Thus does this revealed meaning for love function to change life’s traditional
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_4/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Angona_Nemesis_and_the_Solar_System">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Angona, Nemesis, and the Solar System</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Living_as_Jesus_Lived">
+          <span class="pr-2">Living as Jesus Lived</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

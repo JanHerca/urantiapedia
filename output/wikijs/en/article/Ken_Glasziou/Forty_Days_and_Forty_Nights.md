@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sydney_Harris/What_I_Wish_I_Had_Known_at_Eighteen">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What I wish I had known at Eighteen</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Notes_on_the_40_day_error">
+          <span class="pr-2">Notes on the Forty Day Error</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 A previous article in this issue discussed the strange and quite astonishing error in Part 4 of The Urantia Book regarding its use of a forty day interval elapsing between the time of Jesus crucifixion on the eve of the Jewish Passover and the time of his ascension on the day appointed for the feast of Pentecost. This ancient Jewish harvest festival came seven weeks and one day after Passover, a fifty day period that derived its name from the Greek word “pentekostos” which means fifty days.
 
@@ -85,3 +109,28 @@ If we are to be concerned with leading humanity back to Jesus’ Fourth Epochal 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_4/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sydney_Harris/What_I_Wish_I_Had_Known_at_Eighteen">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What I wish I had known at Eighteen</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Notes_on_the_40_day_error">
+          <span class="pr-2">Notes on the Forty Day Error</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

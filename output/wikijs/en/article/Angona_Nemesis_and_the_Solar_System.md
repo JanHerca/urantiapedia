@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Nature_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Nature of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Goals_and_Purposes">
+          <span class="pr-2">Goals and Purposes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “Four and a half billion years ago the enormous Angona system began its approach to the neighborhood of our solitary sun. The center of this great system was a dark giant of space, solid, highly charged, and possessing tremendous gravity pull.” (from [UB 57:5.4](/en/The_Urantia_Book/57#p5_4))
 
@@ -44,3 +68,28 @@ This section in the book immediately precedes that which deals with the growth o
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_4/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Nature_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Nature of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Goals_and_Purposes">
+          <span class="pr-2">Goals and Purposes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

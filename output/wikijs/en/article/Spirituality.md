@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Revelation_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Worship">
+          <span class="pr-2">Worship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The enlightened spiritual consciousness of civilized man is not concerned so much with some specific intellectual belief or with any one particular mode of living as with discovering the truth of living, the good and right technique of reacting to the ever-recurring situations of mortal existence. Moral consciousness is just a name applied to the human recognition and awareness of those ethical and emerging spiritual values which duty demands that man shall abide by in the day-by-day control and guidance of conduct.
 
@@ -72,3 +96,27 @@ Mortal man is entitled to the enjoyment of **physical pleasures** and to the sat
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page11.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Revelation_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Worship">
+          <span class="pr-2">Worship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

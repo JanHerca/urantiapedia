@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Gideonism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gideonism</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Most readers are aware of the clash between a statement in _The Urantia Book_ about the coming of the red man to the Americas about 85,000 years ago and the “Clovis First” view of early American pre-history. The latter view claimed that human penetration of the American continent was blocked by a Canadian ice sheet until 12,000 yers ago.
 
@@ -39,3 +60,25 @@ Also documented is evidence of toolmaking as far back as 3 million years ago fro
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page15.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Gideonism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gideonism</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

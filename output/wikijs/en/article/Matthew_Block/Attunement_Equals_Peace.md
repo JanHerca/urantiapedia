@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Matthew Block<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Out_of_Context_Means_Ends_Motives_and_Morality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Out of Context: Means, Ends, Motives and Morality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Wrestling_with_Jesus">
+          <span class="pr-2">Wrestling with Jesus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In Paper 39 ([UB 39:5.5](/en/The_Urantia_Book/39#p5_5)) of _The Urantia Book_ (437, 1955 edition), we are introduced to a group of seraphim, called the “Souls of Peace.” These angels belong to the order of Planetary Helpers, who begin their ministry on an inhabited world during the Adamic regime. As well as helping to foster the realization of “peace on earth and good will among men,” we are told that: “In the more advanced epochs of planetary evolution these seraphim are instrumental in supplanting the atonement idea by the concept of divine attunement as a philosophy of mortal survival.”
 
@@ -37,3 +61,28 @@ _The Christ of the Indian Road_ contains other parallels with _The Urantia Book_
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_3/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Out_of_Context_Means_Ends_Motives_and_Morality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Out of Context: Means, Ends, Motives and Morality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Wrestling_with_Jesus">
+          <span class="pr-2">Wrestling with Jesus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

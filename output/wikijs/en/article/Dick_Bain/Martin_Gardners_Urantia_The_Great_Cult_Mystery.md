@@ -9,6 +9,30 @@ dateCreated: 2022-09-07T12:41:28.028Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Dick Bain<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Editorial_Martin_Gardners_Urantia_The_Great_Cult_Mystery">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial: Martin Gardner's Urantia, The Great Cult Mystery</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Purpose_of_Revelation">
+          <span class="pr-2">The Purpose of Revelation: A Response to Martin Gardner's Urantia: The Great Cult Mystery</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Several years ago, Martin Gardner, a columnist for a journal called *The Skeptical Inquirer* wrote two very uncomplimentary columns about *The Urantia Book*. About a year later, he decided to write a book on the same subject. He began to interview people in the Urantia community and to research material for his book. I was invited to his home for an interview and I accepted. That was how I met Martin Gardner.
 
@@ -65,3 +89,27 @@ I told Gardner at the end of our interview that I am a pragmatist. I try to eval
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_1/page14.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Editorial_Martin_Gardners_Urantia_The_Great_Cult_Mystery">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial: Martin Gardner's Urantia, The Great Cult Mystery</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Purpose_of_Revelation">
+          <span class="pr-2">The Purpose of Revelation: A Response to Martin Gardner's Urantia: The Great Cult Mystery</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

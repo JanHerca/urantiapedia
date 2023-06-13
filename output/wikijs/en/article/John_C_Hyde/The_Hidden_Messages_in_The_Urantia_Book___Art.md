@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 John C. Hyde<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marion_Steward/Where_are_the_Daughters_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Where are the Daughters of God?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sheila_Kemish/Religion_Science_and_Outdatedness">
+          <span class="pr-2">Religion, Science, and Outdatedness</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 One of my favorite topics is, “the hidden messages in _The Urantia Book_.” Occasionally when the inspiration hits me, I try to write about these hidden messages, even though they are not really so hidden. This article deals with the true nature of art from the cosmic perspective, and why art defined in this fashion is so vitally important to us. It also offers up a new way to differentiate the offerings of _The Urantia Book_ from other “religions” and “revelations” in the broad marketplace of ideas.
 
@@ -75,3 +99,28 @@ And that, I submit, could be portrayed as the message that makes _The Urantia Bo
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_1/page6.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marion_Steward/Where_are_the_Daughters_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Where are the Daughters of God?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sheila_Kemish/Religion_Science_and_Outdatedness">
+          <span class="pr-2">Religion, Science, and Outdatedness</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

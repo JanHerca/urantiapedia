@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Keith McPaul<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Supreme_Being">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Supreme Being</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/How_should_a_Urantian_Live">
+          <span class="pr-2">How Should a Urantian Live?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Twelve years ago, Dr Jim Mills, then a lecturer in philosophy at the University of Florida, and a former trustee of the Urantia Foundation, introduced me to process philosophy. Jim expressed his fervent hope that it could be the key to the finding of a place for the Urantia Papers in the curriculum of tertiary institutions for study by philosophy and theology students. Jim died without seeing his hope fulfilled.
 > 
@@ -127,3 +151,28 @@ Process theology does not claim to have all the answers, God still remains a mys
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_3/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Supreme_Being">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Supreme Being</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/How_should_a_Urantian_Live">
+          <span class="pr-2">How Should a Urantian Live?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/The_E_Word">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The 'E' Word</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Urantia_Book_and_Moral_Consciousness">
+          <span class="pr-2">The Urantia Book and Moral Consciousness Extracts</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Consciousness is important because its study has become the focal point for an interdisciplinary co-operation that is slowly undermining determinism and materialism in our society. Hence the more we know about the basics of the evidence for and against the alternative philosophies, so do we increase our potential to contribute to the renaissance of true religion.
 
@@ -148,6 +172,31 @@ Today it is not only quantum physicists who have forsaken materialism and determ
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_6/page6.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/The_E_Word">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The 'E' Word</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Urantia_Book_and_Moral_Consciousness">
+          <span class="pr-2">The Urantia Book and Moral Consciousness Extracts</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

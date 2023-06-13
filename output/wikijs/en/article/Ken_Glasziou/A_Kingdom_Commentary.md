@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Jesus_Concept_of_the_Kingdom">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesus' concept of the Kingdom</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Jesus_Master_Teacher">
+          <span class="pr-2">Jesus, Master Teacher</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Our “Favorite Places” section stresses the new meaning that a knowledge of our future destiny in God’s heavenly kingdom can bring to the way we conceive that our earthly careers should unfold.
 
@@ -45,3 +69,28 @@ Only then does the “your kingdom come, your will be done” petition of the Lo
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Jesus_Concept_of_the_Kingdom">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesus' concept of the Kingdom</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Jesus_Master_Teacher">
+          <span class="pr-2">Jesus, Master Teacher</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

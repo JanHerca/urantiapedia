@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Hinduism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hinduism</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Judgment_Day">
+          <span class="pr-2">Judgment Day</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The Absolute is a term used by metaphysicians to denote whatever is in no way dependent on or limited by anything else. Thus, in ethics an absolute value is one that is good in itself rather than useful for obtaining something else, and an absolute principle is one that permits of no exceptions. In political theory an absolute right is a right that society cannot take away from an individual.
@@ -24,3 +48,27 @@ In theology and metaphysics the term Absolute usually refers to God. According t
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page12.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Hinduism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hinduism</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Judgment_Day">
+          <span class="pr-2">Judgment Day</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

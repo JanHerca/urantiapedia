@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Divine_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On divine truth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Geophysics_further_prophecies_Continental_Drift_and_Age_of_the_Solar_System">
+          <span class="pr-2">Geophysics—further prophecies: Continental Drift and Age of the Solar System</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Ken_Glasziou/Science_in_The_Urantia_Book/462977main_sun_layers_full.jpg">
@@ -126,6 +150,31 @@ Thus SN 1987A provided a remarkable confirmation of the general picture of neutr
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_5/page2.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Divine_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On divine truth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Geophysics_further_prophecies_Continental_Drift_and_Age_of_the_Solar_System">
+          <span class="pr-2">Geophysics—further prophecies: Continental Drift and Age of the Solar System</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

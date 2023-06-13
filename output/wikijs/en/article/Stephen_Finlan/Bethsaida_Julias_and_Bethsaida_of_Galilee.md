@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Stephen Finlan<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Bethsaida_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bethsaida and The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Surfing_the_Sunbeams_Calcium_Wanderer_Space">
+          <span class="pr-2">Surfing the Sunbeams: Calcium, the Wanderer of Space</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The location of Biblical Bethsaida has been a vexed problem of Biblical scholarship for almost two hundred years, and a problem in the history of Christian pilgrimage since at least the sixth century.
 
@@ -154,6 +178,31 @@ The other pilgrim site at Tabgha is the “Church of the Primacy,” referring t
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_3/page10.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Bethsaida_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bethsaida and The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Surfing_the_Sunbeams_Calcium_Wanderer_Space">
+          <span class="pr-2">Surfing the Sunbeams: Calcium, the Wanderer of Space</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T16:45:14.471Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Revelatory_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revelatory Religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_the_Value_of_Spiritual_Value">
+          <span class="pr-2">On the value of spiritual value</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Sooner or later Urantia Book readers are going to need to heed the calls put out by its revelators. One such is on [UB 2:7.10](/en/The_Urantia_Book/2#p7_10):
 
@@ -74,3 +98,28 @@ The phase in which our principal task is to help Christians to become aware of t
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_2/page3.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Revelatory_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revelatory Religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_the_Value_of_Spiritual_Value">
+          <span class="pr-2">On the value of spiritual value</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

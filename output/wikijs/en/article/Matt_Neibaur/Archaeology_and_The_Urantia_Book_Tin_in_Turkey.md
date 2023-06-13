@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:12:17Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Matt Neibaur<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Frederick_Beckner/Wave_energy_octaves">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Wave Energy Octets</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “_Gold was the first metal to be sought by man; it is easy to work and, at first, was used only as an ornament. Copper was next employed but not extensively until it was admixed with tin to make the harder bronze. The discovery of mixing copper and tin to make bronze was made by one of the Adamsonites of Turkestan whose highland copper mine happened to be located alongside a tin deposit._” ([UB 81:3.5](/en/The_Urantia_Book/81#p3_5))
 
@@ -27,3 +48,25 @@ Although the researchers had found tin ore at Kestel, some skeptics thought ther
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_6/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Frederick_Beckner/Wave_energy_octaves">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Wave Energy Octets</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

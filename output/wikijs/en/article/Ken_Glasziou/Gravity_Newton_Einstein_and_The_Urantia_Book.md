@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Fuzzy_Thinking">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Fuzzy Thinking</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > The increase of mass in matter is equal to the increase of energy divided by the square of the velocity of light. In a dynamic sense the work which resting matter can perform is equal to the energy expended in bringing its parts together from Paradise minus the resistance of the forces overcome in transit and the attraction exerted by the parts of matter on one another. [UB 42:4.11](/en/The_Urantia_Book/42#p4_11)
 
@@ -55,3 +76,25 @@ It is early days yet and time only will tell whether these ideas will be verifie
 * https://en.wikipedia.org/wiki/Stochastic_electrodynamics
 * https://en.wikipedia.org/wiki/Lamb_shift
 * https://en.wikipedia.org/wiki/Casimir_effect
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Fuzzy_Thinking">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Fuzzy Thinking</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

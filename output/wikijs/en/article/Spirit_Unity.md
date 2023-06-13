@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Ordination_Sermon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Ordination Sermon</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Prayer">
+          <span class="pr-2">Prayer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “What I require of you, my apostles, is spirit unity—and that you can experience in the joy of your united dedication to the wholehearted doing of the will of my Father in heaven. **You do not have to see alike or feel alike or even think alike in order spiritually to be alike.**” ([UB 141:5.1](/en/The_Urantia_Book/141#p5_1))
 
@@ -47,3 +71,28 @@ You cannot be even mildly fanatical about a football team—or any other worldly
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_1/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Ordination_Sermon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Ordination Sermon</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Prayer">
+          <span class="pr-2">Prayer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

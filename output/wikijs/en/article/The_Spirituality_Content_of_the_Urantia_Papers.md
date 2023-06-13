@@ -9,6 +9,24 @@ dateCreated: 2022-09-27T00:03:47.821Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In the not too far distant future there will come a time when much of The Urantia Book will have become outdated. This will be because of the outdated-ness of much of its science as well as considerable portions of the historical content, including its biblical material.
 
@@ -520,3 +538,22 @@ Consequently the Papers tell us: “that which is of greatest value is to know t
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_1/page2.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

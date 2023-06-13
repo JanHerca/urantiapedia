@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Norm Duval<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ron_Cyr/Do_We_All_Have_A_Soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Do We All Have a Soul?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Elizabeth_Mitchell/More_about_Secondary_Works">
+          <span class="pr-2">More About Secondary Works</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 What is the gospel? If you were to ask several people you would probably get several different answers. Some will say that the word gospel means “good news,” and it does, but that’s just a definition. You want to know, __what is the good news, and where does it come from__.
 
@@ -115,3 +139,28 @@ And finally, as would be expected from the Son of a loving God, comforting words
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_5/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ron_Cyr/Do_We_All_Have_A_Soul">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Do We All Have a Soul?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Elizabeth_Mitchell/More_about_Secondary_Works">
+          <span class="pr-2">More About Secondary Works</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall B.A., Dip. Psyche<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Everett_Sloffer/Insights">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Insights</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Further_Comments_on_Channeling">
+          <span class="pr-2">Further Comments on Channeling</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The need for children to establish acceptable behavioural patterns is indisputable. The manner in which it achieved is critical to the well-being of the child. *The Urantia Book* explains the “family conference” method that Jesus utilized with his family, which is an excellent technique, currently encouraged as one of the better methods of family discipline by psychologists. However, for any method to be effective (including hitting the child over the head with a hammer to teach them not to be cruel), **four critical pre-essentials are**:
 * Realistic values and beliefs as to what a person is, a child is, and a parent is.
@@ -67,6 +91,31 @@ Parents must devote the time to accumulating a “storehouse of good will” wit
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_1/page5.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Everett_Sloffer/Insights">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Insights</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Further_Comments_on_Channeling">
+          <span class="pr-2">Further Comments on Channeling</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

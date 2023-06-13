@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ann Bendall<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Cross_as_a_Symbol">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Cross as a Symbol</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Urantia_Book_A_New_Presentation_of_Part_4">
+          <span class="pr-2">The Urantia Book: A New Presentation of Part 4?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jesus opted to teach in parables, “_to the end that our friends and those who so desire to know the truth may find that for which they seek, while our enemies and those who love not the truth may hear without understanding._” ([UB 151:1.4](/en/The_Urantia_Book/151#p1_4))
 
@@ -25,3 +49,28 @@ Following his explanation, Jesus added, “_the last of the parable of the sower
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page15.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Cross_as_a_Symbol">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Cross as a Symbol</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Urantia_Book_A_New_Presentation_of_Part_4">
+          <span class="pr-2">The Urantia Book: A New Presentation of Part 4?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

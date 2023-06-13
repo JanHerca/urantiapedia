@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Conflict">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conflict</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Alternatively">
+          <span class="pr-2">Alternatively...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The statements below from _The Urantia Book_ gave rise to a vast outburst of contentious declarations. When, long after, the dust settled, most either agreed to forget it, or else settled for consigning them to the too hard basket.
 
@@ -55,3 +79,28 @@ There appears to be no essential reason to equate a unit of pattern control with
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_6/page14.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Conflict">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conflict</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Alternatively">
+          <span class="pr-2">Alternatively...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

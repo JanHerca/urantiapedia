@@ -9,6 +9,27 @@ dateCreated: 2022-09-07T15:31:20.599Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Martin_Gardners_Urantia_The_Great_Cult_Mystery">
+          <span class="pr-2">Martin Gardner's The Great Cult Mystery a review</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Martin Gardner's recently published book *Urantia: The Great Cult Mystery* is not only an attempt to debunk *The Urantia Book* but is also a public exposé about various activities, people, and leadership of the Urantia movement. Gardner's book is so biased in its presentation of some aspects associated with the Urantia Papers that it appears it could safely be ignored. However Gardner has also delved deeply into the history of the beginnings of the Urantia movement, right through to the present time. In doing so, he has publicized much material that does not reflect well upon the movement and its members, material that most of us would prefer to see buried and forgotten. But now it has been made public and it behooves us to get our act in order—for has not the Master instructed us:
 
@@ -21,3 +42,24 @@ An old proverb states that what we don't know about we need not worry about. But
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_1/page2.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Martin_Gardners_Urantia_The_Great_Cult_Mystery">
+          <span class="pr-2">Martin Gardner's The Great Cult Mystery a review</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

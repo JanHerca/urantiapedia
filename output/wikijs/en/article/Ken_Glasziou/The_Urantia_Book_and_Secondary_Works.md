@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Morality_Motive_and_Virtue">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Morality, Motive, and Virtue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Beyond_Fundamentalism">
+          <span class="pr-2">Beyond Fundamentalism</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “_The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will ***dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness***. Such a new and righteous vision of morality will attract all that is good in the mind of man and challenge that which is best in the human soul._” ([UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
 
@@ -72,3 +96,28 @@ I believe that the greatest potential for spreading the essential message about 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_3/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Morality_Motive_and_Virtue">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Morality, Motive, and Virtue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Beyond_Fundamentalism">
+          <span class="pr-2">Beyond Fundamentalism</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

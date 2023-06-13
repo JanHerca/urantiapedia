@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Revelators_Unenviable_Task">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Papers. The Revelators' Unenviable Task</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Urantia_Books_Message_has_Failed_or_has_it">
+          <span class="pr-2">The Urantia Book's Message has failed—or has it?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 To knowingly deprive future generations of the chance to know a God of love who is both our heavenly Father and the Father-God of Jesus of Nazareth—would that be a crime against humanity?
 
@@ -91,3 +115,28 @@ If we could get Christians to be comfortable with having the Papers on their boo
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Revelators_Unenviable_Task">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Papers. The Revelators' Unenviable Task</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Urantia_Books_Message_has_Failed_or_has_it">
+          <span class="pr-2">The Urantia Book's Message has failed—or has it?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

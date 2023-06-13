@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Gloria and Ray Colot<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Religions_of_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Religions of Man</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Turning_Point">
+          <span class="pr-2">Turning Point!!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dick Bain’s article in the March/April Innerface had us all fired up with enthusiasm for his Urantia church idea. After about three days of meditating on this thought and talking to other readers who were also “fired up,” we slowly did an about face. These are the points that came to mind.
 
@@ -39,3 +63,28 @@ Dick Bain’s article in the March/April Innerface had us all fired up with enth
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page15.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Religions_of_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Religions of Man</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Turning_Point">
+          <span class="pr-2">Turning Point!!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

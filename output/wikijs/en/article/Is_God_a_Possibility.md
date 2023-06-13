@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Evolution_or_Revolution">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Evolution or Revolution?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Contacting_God_What_can_we_expect">
+          <span class="pr-2">Contacting God—what can we expect?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In games theory, the term ‘zero-sum’ refers to a situation that clearly has a winner and a loser that, added together, have zero sum. In contrast, in non-zerosum games the interests of the players may overlap. Examples of the first are tennis, chess, and boxing. Non-zero-sumness is seen in hunting and fishing where participants can help one another in ways that bring benefit to all. Thus zero-sumness tends to be totally competitive while the tendency with non-zero-sumness can be towards increased cooperation.
 
@@ -113,6 +137,31 @@ Wright concludes with this comment: “Whether or not you believe that the story
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_6/page9.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Evolution_or_Revolution">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Evolution or Revolution?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Contacting_God_What_can_we_expect">
+          <span class="pr-2">Contacting God—what can we expect?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

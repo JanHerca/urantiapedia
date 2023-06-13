@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T19:06:39.834Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Golden_Rule">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Golden Rule</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Faith_and_Belief">
+          <span class="pr-2">Faith and Belief</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 When man approaches the study and examination of the universe from the outside, he brings into being the various physical sciences; when he approaches the research of himself and the universe from the inside, he gives origin to theology and metaphysics. The later art of philosophy was developed in an effort to harmonize the many discrepancies which inevitably appeared between the findings and teachings of these two diametrically opposite avenues of approach to the universe of things and beings.
 
@@ -37,3 +61,28 @@ Revelation is evolutionary man’s only realistic hope of bridging the gulf betw
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page5.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Golden_Rule">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Golden Rule</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Faith_and_Belief">
+          <span class="pr-2">Faith and Belief</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

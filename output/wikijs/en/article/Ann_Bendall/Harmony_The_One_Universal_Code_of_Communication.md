@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T02:09:16.433Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Remembrance_Supper">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Remembrance Supper</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Harmony, the music of the seven levels of melodious association, is the one universal code of spirit communication. Music, such as Urantia mortals understand, attains its highest expression in the schools of Jerusem, . . . [UB 44:1.11](/en/The_Urantia_Book/44#p1_11)
 
@@ -61,6 +82,28 @@ Whatever the truth may be, it is certain that our Thought Adjuster has the neces
 ## External links
 
 Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_2/page14.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Remembrance_Supper">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Remembrance Supper</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

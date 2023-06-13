@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/What_does_Good_mean">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What does “good” mean?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Obligations_to_the_Christian_Churches_and_other_Religions">
+          <span class="pr-2">Obligations to the Christian Churches and other Religions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 This gospel of the kingdom belongs to both Jew and gentile, to rich and poor, to free and bond, to male and female, even to the little children. And you are all to proclaim this gospel of love and truth by the lives which you live in the flesh. You shall love one another with a new and startling affection, even as I have loved you. You will serve mankind with a new and amazing devotion, even as I have served you. And when men see you so love them, and when they behold how fervently you serve them, they will perceive that you have become faith-fellows of the kingdom of heaven, and they will follow after the Spirit of Truth which they see in your lives, to the finding of eternal salvation.
 
@@ -27,3 +51,28 @@ My Father requires of the children of faith that they bear much spirit fruit. If
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page17.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/What_does_Good_mean">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What does “good” mean?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Obligations_to_the_Christian_Churches_and_other_Religions">
+          <span class="pr-2">Obligations to the Christian Churches and other Religions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

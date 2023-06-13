@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Convergence_The_Science_Content_of_The_Urantia_Book">
+          <span class="pr-2">Convergence—The Science Content of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > The mortal races stand as the representatives of the lowest order of intelligent and personal creation. You mortals are divinely beloved, and every one of you may choose to accept the certain destiny of a glorious experience, but you are not yet by nature of the divine order; you are wholly mortal. You will be reckoned as ascending sons the instant fusion takes place, but the status of the mortals of time and space is that of faith sons prior to the event of the final amalgamation of the surviving mortal soul with some type of eternal and immortal spirit.
 > 
@@ -27,3 +48,25 @@ dateCreated: 2022-9-9T8:13:38Z
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_1/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Convergence_The_Science_Content_of_The_Urantia_Book">
+          <span class="pr-2">Convergence—The Science Content of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

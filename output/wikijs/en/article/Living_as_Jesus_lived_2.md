@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/God_on_doing_the_will_of_God_How">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">God—on doing the will of God—How?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Love_Meanings_and_Values_Miracles_Morality">
+          <span class="pr-2">Love, Meanings and Values, Miracles, Morality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Living as Jesus lived—Jesus' task
 
@@ -59,3 +83,27 @@ Jesus had come “**to establish and demonstrate a standard of human life for al
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page7.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/God_on_doing_the_will_of_God_How">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">God—on doing the will of God—How?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Love_Meanings_and_Values_Miracles_Morality">
+          <span class="pr-2">Love, Meanings and Values, Miracles, Morality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

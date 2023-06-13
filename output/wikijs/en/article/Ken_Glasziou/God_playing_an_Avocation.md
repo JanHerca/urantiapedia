@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_the_Birth_of_Love">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On the Birth of Love</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Importance_of_Symbols__Their_Use_and_Misuse">
+          <span class="pr-2">The Importance of Symbols—their Use and Mis-use</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 God-playing is a much cherished but largely unrecognized occupation among us humans.
 
@@ -39,3 +63,28 @@ God-playing and the pride associated with it is an ongoing trap. For once our mo
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_the_Birth_of_Love">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On the Birth of Love</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Importance_of_Symbols__Their_Use_and_Misuse">
+          <span class="pr-2">The Importance of Symbols—their Use and Mis-use</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

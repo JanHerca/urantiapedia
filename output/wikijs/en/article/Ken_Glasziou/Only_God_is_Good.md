@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Parable_of_a_Parrot">
+          <span class="pr-2">Parable of a Parrot</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 “As Jesus was starting on his way, a young man ran up, knelt before him, and asked him, ‘Good Master, what must I do to receive eternal life?’ __‘Why do you call me good?’__ Jesus asked of him, __‘No one is good except God alone.’__” ([Mark, 10:17,18](/en/Bible/Mark/10#v17))
 
@@ -62,3 +83,25 @@ Regardless of the reality, having my Thought Adjuster described as a child of Go
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_6/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Parable_of_a_Parrot">
+          <span class="pr-2">Parable of a Parrot</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

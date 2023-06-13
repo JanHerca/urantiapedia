@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Cognitive_Dissonance_Can_The_Urantia_Book_help">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cognitive Dissonance. Can The Urantia Book help?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Jesus_Man_and_Myth">
+          <span class="pr-2">Jesus, Man, and Myth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 When computers store your letters and articles in memory so that you can get them back later, they really make a hash (mash?) of it. Storage is done as a file to a disk that is subdivided into sections. A bookkeeping system keeps an index and when you want your file back, you just type its name and press the magic button. However, the file isn't necessarily all in the one filing cabinet. When it is being stored, the librarian inside the computer goes looking for any spare space in partly filled cabinets and, being fastidious, insists on filling all vacant spaces with bits and pieces of your file. So your file actually gets stored all over the place. Eventually that makes the librarian's task slow and tedious. But a cure is at hand! Just type `DEFRAG` (which is short for defragment) and lo and behold, all the bits and pieces of all your files are put back together, are stored in one place, and the index is updated so it can be recovered swiftly and easily. It works like magic.
 
@@ -37,3 +61,28 @@ This is where we can again make use of `DEFRAG2`. Think hard on the name “`DEF
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page6.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Cognitive_Dissonance_Can_The_Urantia_Book_help">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cognitive Dissonance. Can The Urantia Book help?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Jesus_Man_and_Myth">
+          <span class="pr-2">Jesus, Man, and Myth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

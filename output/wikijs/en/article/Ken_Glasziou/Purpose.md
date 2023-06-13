@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Future_Following_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Future—Following Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Religions_of_the_Mind_and_the_Religion_of_the_Spirit">
+          <span class="pr-2">Religions of the Mind and Spirit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Little by little, as the years roll by, and we can stand back and look over past events, the real plan and purpose for the Urantia revelation may begin to become more clearly defined.
 
@@ -37,3 +61,28 @@ Can we rectify our error? We could try by sincerely dedicating our wills back to
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_6/page6.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Future_Following_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Future—Following Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Religions_of_the_Mind_and_the_Religion_of_the_Spirit">
+          <span class="pr-2">Religions of the Mind and Spirit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

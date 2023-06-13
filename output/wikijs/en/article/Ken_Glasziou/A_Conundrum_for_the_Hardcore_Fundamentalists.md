@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/No_Man_Ever_Spake_Thus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">No Man Ever Spake Thus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars">
+          <span class="pr-2">Neutrinos and Neutron Stars</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Some of our Urantia Book fundamentalists firmly believe in the absolute truth of everything in the book’s textual material—much like Christian fundamentalists believe in the divine dictatorship theory for the Bible. And this despite the warnings given by the Revelators concerning their mandate:
 
@@ -37,3 +61,28 @@ Mighty Messengers do not have “Creator” status, hence are fallible, as are a
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_2/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/No_Man_Ever_Spake_Thus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">No Man Ever Spake Thus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars">
+          <span class="pr-2">Neutrinos and Neutron Stars</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

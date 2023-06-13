@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Everett_Sloffer/Insights">
+          <span class="pr-2">Insights</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The stimulus that prompted this article came from some remarks in a letter from Matthew Block who lead just attended the World Parliament of Religions at Chicago. Matthew said:
 
@@ -63,6 +84,28 @@ Let first things come first.
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_1/page2.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Everett_Sloffer/Insights">
+          <span class="pr-2">Insights</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Peer_Group_Pressure">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Peer Group Pressure</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sydney_Harris/Charity_Doesnt_Start_at_Home">
+          <span class="pr-2">Charity Doesn't Start at Home!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Besides the inclusion of certain prophetic information in the Urantia Papers and, more importantly, the remarkable quality of their presentation, are there other ways by which readers may find confirmation in their minds that the authors were superhuman?
 
@@ -39,3 +63,28 @@ Could there have been a human being so egotistical, so arrogant, so conceited, s
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page12.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Peer_Group_Pressure">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Peer Group Pressure</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sydney_Harris/Charity_Doesnt_Start_at_Home">
+          <span class="pr-2">Charity Doesn't Start at Home!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

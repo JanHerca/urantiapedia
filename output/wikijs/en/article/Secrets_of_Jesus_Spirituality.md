@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T21:17:53.801Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-12-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Did_Jesus_really_need_to_be_crucified">
+          <span class="pr-2">Did Jesus really need to be crucified?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The secret of his (Jesus) unparalleled religious life was this consciousness of the presence of God; and he attained it by intelligent prayer and sincere worship–unbroken communion with God–and not by leadings, voices, visions, or extra-ordinary religious practices.
 
@@ -21,3 +42,24 @@ Jesus trusted God much as the child trusts a parent. He had a profound confidenc
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_2/page2.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-12-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Did_Jesus_really_need_to_be_crucified">
+          <span class="pr-2">Did Jesus really need to be crucified?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

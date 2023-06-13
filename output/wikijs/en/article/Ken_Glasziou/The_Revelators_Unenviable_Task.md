@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Matt_Neibaur/On_Copyright_and_Plagiarism_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Copyright and Plagiarism adapted</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/A_Crime_Against_Humanity">
+          <span class="pr-2">A Crime against Humanity?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “But no revelation short of the Universal Father can ever be complete. **All other celestial ministrations are no more than partial, transient, and practically adapted to local conditions in time and space.**” ([UB 92:4.9](/en/The_Urantia_Book/92#p4_9))
 
@@ -151,3 +175,28 @@ It certainly seems that mortal life is meant to be charged with uncertainty. Thu
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Matt_Neibaur/On_Copyright_and_Plagiarism_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Copyright and Plagiarism adapted</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/A_Crime_Against_Humanity">
+          <span class="pr-2">A Crime against Humanity?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

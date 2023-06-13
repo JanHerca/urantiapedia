@@ -9,6 +9,30 @@ dateCreated: 2022-09-27T00:52:55.262Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/What_do_the_Urantia_Papers_say_about_mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What do the Urantia Papers say about mind?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Can_I_be_what_God_wants_me_to_be">
+          <span class="pr-2">Can I “be” what God wants me to “be”?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 During discussion between Jesus and Immanuel on the purpose of Jesus’ bestowal, Immanuel recommended as follows:
 
@@ -48,3 +72,28 @@ But with Jesus as my model, with Jesus’ Spirit of Truth as my guide and counse
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_6/page9.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/What_do_the_Urantia_Papers_say_about_mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What do the Urantia Papers say about mind?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Can_I_be_what_God_wants_me_to_be">
+          <span class="pr-2">Can I “be” what God wants me to “be”?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

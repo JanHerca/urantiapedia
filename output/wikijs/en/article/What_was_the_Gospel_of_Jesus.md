@@ -9,6 +9,27 @@ dateCreated: 2022-09-27T01:15:17.858Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Early_Years_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Early Years of Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 If we search the _Urantia Book_ for the occurrence of a concise phrase such as “gospel of Jesus,” we get 13 “exact matches,”–not one of which provides any information on the actual content of Jesus’ gospel. If the search is repeated using a King James translation of the New Testament, we get a single “exact match,”–the opening verse of Mark’s gospel. However if a modern English translation of Mark is used, we may draw a blank.
 
@@ -149,6 +170,28 @@ Yours with love, Ken Glasziou
 ## External links
 
 -   Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_6/page11.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Early_Years_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Early Years of Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

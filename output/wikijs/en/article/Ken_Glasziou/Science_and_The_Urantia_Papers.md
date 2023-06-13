@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:12:18Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/About_Prophetic_Science">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">About “Prophetic” Science</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 7 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Radii_of_the_Electron_and_Proton">
+          <span class="pr-2">Radii of the Electron and Proton</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Since the mandate for the revelators prevented them from giving us unearned knowledge, ([UB 101:4.1](/en/The_Urantia_Book/101#p4_1)) it follows that the level of scientific information in the Papers should not include information still undiscovered by the mid-1930’s. The exception is that “missing gaps” could be filled, or essential “lost knowledge” restored.
 
@@ -46,3 +70,28 @@ Of the materials covered in this article, only the article on the energy of star
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/About_Prophetic_Science">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">About “Prophetic” Science</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 7 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Radii_of_the_Electron_and_Proton">
+          <span class="pr-2">Radii of the Electron and Proton</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

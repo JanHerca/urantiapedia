@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Very_Odd_Neighbors">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Non-Breathers: Very Odd Neighbors</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Decisions_Decisions_the_Doing_of_Gods_Will">
+          <span class="pr-2">Decisions, Decisions—the Doing of God's Will</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The Urantia Book_ tells us that James, the brother of Jesus, became the titular head of the Church in Jerusalem. But although the book describes the deaths of all twelve apostles, as well as Stephen and Paul, it sheds no light on the ultimate fate of James.
 
@@ -29,3 +53,28 @@ So maybe there really once was a person named Jesus of Nazareth who had a brothe
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Very_Odd_Neighbors">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Non-Breathers: Very Odd Neighbors</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Decisions_Decisions_the_Doing_of_Gods_Will">
+          <span class="pr-2">Decisions, Decisions—the Doing of God's Will</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

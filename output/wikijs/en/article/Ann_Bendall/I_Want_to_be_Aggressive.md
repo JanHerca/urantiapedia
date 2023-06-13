@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Further_Comments_on_Channeling">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Further Comments on Channeling</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/On_the_Urgent_Need_for_Secondary_Works">
+          <span class="pr-2">On the Urgent Need for Secondary Works</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Once upon a time, before I read *The Urantia Book*, I thought being aggressive was being decidedly anti-social. The dictionary said aggressive people were “quarrelsome or belligerent.” I agreed with them. Gosh the women's movement was screaming that the whole problem with the world was men and their aggression—their aggressive tendencies! We women heaved a sigh of relief that we were not so cursed (despite research which begs to differ—women are just as aggressive as men, if provoked. However, it appears lots of men are just naturally aggressive and can easily imagine provocation has occurred, if the urge to be aggressive comes on strong).
 
@@ -45,6 +69,31 @@ I do not envisage any difficulties on Jesus'/Michael's part because I am female.
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_1/page9.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/Further_Comments_on_Channeling">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Further Comments on Channeling</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/On_the_Urgent_Need_for_Secondary_Works">
+          <span class="pr-2">On the Urgent Need for Secondary Works</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

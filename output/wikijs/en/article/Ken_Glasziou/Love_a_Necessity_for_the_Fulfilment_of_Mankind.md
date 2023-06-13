@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T17:06:31.253Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Universal_Spiritual_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Universal Spiritual Religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Our_Chores">
+          <span class="pr-2">Our Chores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Almost 500 years before the Christian era, Mo Tzu, in China, gained a large following for his concepts regarding mutual love and its potential to replace war among states and nations_.
 
@@ -46,3 +70,28 @@ Love must grasp the ever changing concept of the highest cosmic good of the indi
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page11.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Universal_Spiritual_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Universal Spiritual Religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Our_Chores">
+          <span class="pr-2">Our Chores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

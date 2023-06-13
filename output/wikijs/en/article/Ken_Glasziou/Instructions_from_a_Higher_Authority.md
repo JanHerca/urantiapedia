@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Power_of_an_Idea">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Power of an Idea</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/The_Visible_Universe">
+          <span class="pr-2">The Visible Universe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 “_The religious challenge of this age is to those far-seeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness_” (as found in a concentrated form in the text of _The Urantia Book_, [UB 2:7.10](/en/The_Urantia_Book/2#p7_10)).
 
@@ -36,3 +60,28 @@ Both the text of _The Urantia Book_ and the instructions of Jesus contained ther
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_6/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Power_of_an_Idea">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Power of an Idea</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/The_Visible_Universe">
+          <span class="pr-2">The Visible Universe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

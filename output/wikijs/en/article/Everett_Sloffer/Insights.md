@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Everett Sloffer<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/A_Time_for_Change">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Time for Change?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Do_You_Want_Your_Children_to_Like_You">
+          <span class="pr-2">Do You Want Your Children to Like You? Jesus Provided a Model</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 At some stage during our lives, virtually everybody has some special experience, a spiritual insight that we might desire to share with our fellow seekers. Surely such experiences derive from the God-spirit within. Some may be too intensely personal for sharing. Others may have spiritual value that we should not keep to ourselves.
 
@@ -35,3 +59,27 @@ God is ever gently leading us forward. He knows that in time and with His help, 
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_1/page4.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/A_Time_for_Change">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Time for Change?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Do_You_Want_Your_Children_to_Like_You">
+          <span class="pr-2">Do You Want Your Children to Like You? Jesus Provided a Model</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

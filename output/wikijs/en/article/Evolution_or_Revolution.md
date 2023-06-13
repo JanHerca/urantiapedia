@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Living_as_Jesus_lived_in_a_family_environment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Living as Jesus lived—in a family environment</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Is_God_a_Possibility">
+          <span class="pr-2">Is God a Possibility?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 What might have happened if leaders of all major Christian sects had fully endorsed the Urantia Papers as being God-given revelation immediately after the book was printed in 1955?
 
@@ -96,3 +120,28 @@ Remembering that evolution rather than revolution is the preferred option, then 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_6/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Living_as_Jesus_lived_in_a_family_environment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Living as Jesus lived—in a family environment</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Is_God_a_Possibility">
+          <span class="pr-2">Is God a Possibility?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

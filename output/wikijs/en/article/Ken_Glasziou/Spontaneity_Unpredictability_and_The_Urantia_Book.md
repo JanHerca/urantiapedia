@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Materialistic_Determinism_Last_Rites">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Materialistic Determinism—Last Rites</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Dawn_of_Creative_Imagination_The_Alter_Ego">
+          <span class="pr-2">The Dawn of Creative Imagination—the Alter Ego</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The Urantia Book_ was given to the world at a time when the concepts of materialism and a determinate universe were at the peak of their influence. The accompanying godlessness that goes with materialism may have peaked by the third quarter of the century and is perhaps now in decline. But in the first half of our century, many of the really great minds, such as that of Albert Einstein for example, firmly believed in a determinate universe, basing that belief upon the immutability of operation of the universal laws of physics.
 
@@ -53,3 +77,28 @@ Our quotes from _The Urantia Book_ are quite conclusive about the pivotal roles 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_5/page6.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Materialistic_Determinism_Last_Rites">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Materialistic Determinism—Last Rites</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Dawn_of_Creative_Imagination_The_Alter_Ego">
+          <span class="pr-2">The Dawn of Creative Imagination—the Alter Ego</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,24 @@ dateCreated: 2022-09-27T00:06:28.740Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 (Continued from [January/February issue](/en/article/The_Spirituality_Content_of_the_Urantia_Papers))
 
@@ -528,3 +546,22 @@ Our purpose? To grow spiritually–as demonstrated by our awakening to the needs
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_2/page2.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

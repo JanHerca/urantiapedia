@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Earl Jabay<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Answers_from_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Answers from The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Walker/Remarks_on_Suicide">
+          <span class="pr-2">Remarks on Suicide</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Condensed from the _Kingdom of Self_ by Earl Jabay. (Logos International, New Jersey)
 
@@ -92,3 +116,27 @@ Although apparently signaling capitulation, a cry for divine help is inappropria
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_6/page5.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Answers_from_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Answers from The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Walker/Remarks_on_Suicide">
+          <span class="pr-2">Remarks on Suicide</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T04:27:09.642Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/What_does_God_want_from_us">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What does God want from us?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Why_Worry">
+          <span class="pr-2">Why Worry?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “_You are my messengers. You are beholden to live your lives as I have in spirit lived mine._” ([UB 140:6.8](/en/The_Urantia_Book/140#p6_8))
 
@@ -47,3 +71,28 @@ Can I live the way Jesus lived? Of course I can. All that is required is the sin
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_6/page10.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/What_does_God_want_from_us">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What does God want from us?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Why_Worry">
+          <span class="pr-2">Why Worry?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

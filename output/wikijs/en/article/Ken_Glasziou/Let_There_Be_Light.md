@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jacques_Tetrault/Personal_Religion_A_Sign_of_the_Times">
+          <span class="pr-2">Personal Religion: A Sign of the Times</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “When once you grasp the idea of God as a true and loving Father, the only concept which Jesus ever taught, you must forthwith, in all consistency, utterly abandon all those primitive notions about God. . . The infinite love of God is not secondary to anything in the divine nature.” ([UB 188:4.8](/en/The_Urantia_Book/188#p4_8))
 
@@ -38,3 +59,25 @@ Not that there are no Christians who are intimately familiar with the God portra
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jacques_Tetrault/Personal_Religion_A_Sign_of_the_Times">
+          <span class="pr-2">Personal Religion: A Sign of the Times</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/What_fuels_our_Sun_and_other_Stars">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What fuels our Sun and other Stars?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 7 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/What_If">
+          <span class="pr-2">What If?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In detailing their account of  life and land evolution  on our planet in Urantia Papers [57](/en/The_Urantia_Book/57), [58](/en/The_Urantia_Book/58), [59](/en/The_Urantia_Book/59) and [60](/en/The_Urantia_Book/60), the authors have wholeheartedly embraced the concept of continental drift, an idea first touted by Alfred Wegener in 1910. Take away continental drift from these four Papers and they collapse as a somewhat messy heap.
 
@@ -37,6 +61,31 @@ A lucky guess seems to be the only alternative. But the odds against guessing co
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page14.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/What_fuels_our_Sun_and_other_Stars">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What fuels our Sun and other Stars?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 7 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/What_If">
+          <span class="pr-2">What If?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

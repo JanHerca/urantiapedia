@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Alpheus_Twins">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Alpheus Twins</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Pity_my_Simplicity">
+          <span class="pr-2">“Pity my Simplicity”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The information in the Papers that relates directly to this question is scattered right throughout the text of their pages. Extraordinarily, the mandate defining the “universe rules” of revelation is not described until midway through the Papers, and the authors’ explanations of their use of human sources are split between near the beginning and two thirds of the way through. Such important references surely ought to have been in a preface or in an introduction?
 
@@ -217,3 +241,28 @@ flowchart TD
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_1/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Alpheus_Twins">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Alpheus Twins</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Pity_my_Simplicity">
+          <span class="pr-2">“Pity my Simplicity”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

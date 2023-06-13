@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_Trimble/On_Completion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Completion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Least_We_Should_Know_about_the_Cross">
+          <span class="pr-2">The Least we should know about the Cross</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Existential Potentials and Patterns In Universe terminology a pattern is unchangeable though copies can be projected as material, spiritual, or mindal—or in any combination ofthese energies. It can pervade personalities, identities, entities, or non-living matter. Patterns are the substance of potentials. Pattern may configure energy but does not control it. Gravity is the sole control of energy matter. Neither space nor pattern are gravity responsive and there is no relationship between space and pattern. The reality of any pattern consists ofits energies, its mind, spirit, or material components. Pattern is a master design from which copies are made. Eternal Paradise is the absolute of pattern; the Eternal Son is the pattern personality; the Universal Father is the direct ancestor-source of both. Eut Paradise does not bestow pattern and the Son does not bestow personality That quality of energy or of personality by virtue of which pattern is caused to appear may be attributed to God, and to the coexistence of personality and power.
 {.is-info}
@@ -159,3 +183,28 @@ flowchart TB
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_2/page8.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_Trimble/On_Completion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Completion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Least_We_Should_Know_about_the_Cross">
+          <span class="pr-2">The Least we should know about the Cross</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Paul_Jaworski/Whats_at_the_Center_of_the_Earth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cosmic Reflections. What's at the Center of the Earth?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Antigravity_is_Back">
+          <span class="pr-2">Antigravity is Back!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Most of the basic particles of sub-atomic physics have at least two modes of spin. Looking in their direction of travel, the spin of a particle can be either to the left or to the right. The exception is the neutrino, the tiny particles devoid of electrical potential referred to in the Urantia Papers that escape from a collapsing star ([UB 41:8.3](/en/The_Urantia_Book/41#p8_3)). Neutrinos spin only to the left--and nobody knows why this is so.
 
@@ -32,3 +56,27 @@ Whether or not it is possible to explain our universe entirely from within the s
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_4/page15.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Paul_Jaworski/Whats_at_the_Center_of_the_Earth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cosmic Reflections. What's at the Center of the Earth?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Antigravity_is_Back">
+          <span class="pr-2">Antigravity is Back!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

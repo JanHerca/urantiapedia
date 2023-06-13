@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T04:49:50.339Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Continental_Drift_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Continental Drift</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Continental_Drift_3_Secondary_Effects">
+          <span class="pr-2">Continental Drift 3—Secondary Effects</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The prophetic nature of _The Urantia Book_’s account of continental drift and some of its consequences have now received approval in a book by professor of geology, M.A.S. McMenamin, entitled “The Garden of Ediacara,” reported by Larry Mullins in the recent “Spiritual Fellowship Journal.” The following quotes coming from McMenamin’s book followed upon that author having his attention drawn to _The Urantia Book_’s content:
 
@@ -36,3 +60,28 @@ Obviously there are many sections in the book that must remain as originally pro
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page27.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Continental_Drift_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Continental Drift</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Continental_Drift_3_Secondary_Effects">
+          <span class="pr-2">Continental Drift 3—Secondary Effects</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

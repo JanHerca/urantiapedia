@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T04:35:20.588Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Agree_with_your_Adversary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Agree with your Adversary</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Religion_of_the_Spirit_what_could_it_mean">
+          <span class="pr-2">Religion of the Spirit—what could it mean?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 What follows is an e-mail critique by an ordained minister of the Anglican Church in Australia (herein called **AA**) of a recently published work by a bishop elect of the Anglican Church in England (herein called **AB**). The archaeology upon which the critique is based derives from Israeli scholars who, after the 1967 war, sought to verify biblical evidence supporting Israel’s territorial acquisitions.
 
@@ -111,3 +135,28 @@ And perhaps finally:_ “When men see you so love them, and how fervently you se
 
 - Article in Innerface International: ttps://urantia-book.org/archive/newsletters/innerface/vol10_5/page10.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Agree_with_your_Adversary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Agree with your Adversary</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Religion_of_the_Spirit_what_could_it_mean">
+          <span class="pr-2">Religion of the Spirit—what could it mean?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2022-09-27T00:09:11.694Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Role_of_miracles_resurrection_forgiveness_spread_Christianity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The relative role of miracles, resurrection, and forgiveness of sins in the rapid spread of Christianity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-12-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 From the commencement of his public ministry onwards to his crucifixion, Jesus’ life was lived as a revelation of the nature of God and in accordance with the constraints imposed by the pact with Immanuel spelled out in Urantia Paper 120 ([UB 120:1.1](/en/The_Urantia_Book/120#p1_1)).
 
@@ -101,3 +122,24 @@ These sayings are meant to guide our transformation, and not to be converted int
 ## External links
 
 -   Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_2/page13.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Role_of_miracles_resurrection_forgiveness_spread_Christianity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The relative role of miracles, resurrection, and forgiveness of sins in the rapid spread of Christianity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-12-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

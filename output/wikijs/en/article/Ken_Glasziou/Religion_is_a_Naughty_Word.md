@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/On_Free_Will_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Free Will</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sydney_Harris/On_Hyping_up_our_Hypothesis">
+          <span class="pr-2">On Hyping up our Hypothesis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The plethora of profundity poured out in the Urantia Papers is such that mere mortals like ourselves read it without digesting, pass over it without understanding.
 
@@ -44,3 +68,28 @@ It surely is soup for thought.
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/On_Free_Will_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Free Will</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sydney_Harris/On_Hyping_up_our_Hypothesis">
+          <span class="pr-2">On Hyping up our Hypothesis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

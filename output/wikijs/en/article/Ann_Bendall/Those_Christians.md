@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ann Bendall<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/A_leap_of_faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Leap of Faith</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Zwicky">
+          <span class="pr-2">Zwicky</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Prepared from Huston Smith, _The Religions of Man_, (1965, Harper and Row, N.Y.), by Ann Bendall, Nambour, Qld.
 
@@ -50,3 +74,28 @@ As we modern day Christians look back at the early heady days of the disciples o
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_6/page15.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/A_leap_of_faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Leap of Faith</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Zwicky">
+          <span class="pr-2">Zwicky</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

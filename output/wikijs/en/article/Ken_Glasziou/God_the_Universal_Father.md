@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T07:15:49.499Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Perfection">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Perfection</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Sin_should_we_take_it_seriously">
+          <span class="pr-2">Sin—should we take it seriously?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 “_**Be you perfect even as I am perfect**_.” This magnificent universal injunction—to strive for the attainment of the perfection of divinity—is both the first duty and must be the highest ambition of all God’s struggling mortal children.
 
@@ -198,3 +222,28 @@ God is personally conscious of, and in personal touch with, all personalities of
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_1/page9.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Perfection">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Perfection</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Sin_should_we_take_it_seriously">
+          <span class="pr-2">Sin—should we take it seriously?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T20:25:13.138Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Historical_Jesus_Who_was_He">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Historical Jesus—Who was He?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Effects_of_the_Gospel_Records">
+          <span class="pr-2">The Effects of the Gospel Records</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Obviously the most important sources of information on Jesus are in the New Testament. The Gospels are evidently faith documents written from a Christian viewpoint. But are they reliable historical documents?
 
@@ -79,3 +103,27 @@ Christian symbols and prayers to Jesus have been discovered by archaeology that 
 ## External links
 
 -   Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_6/page5.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Historical_Jesus_Who_was_He">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Historical Jesus—Who was He?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Effects_of_the_Gospel_Records">
+          <span class="pr-2">The Effects of the Gospel Records</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

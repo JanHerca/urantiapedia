@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Proclamation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Proclamation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Purpose_of_the_Urantia_Papers">
+          <span class="pr-2">The Purpose of the Urantia Papers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 There is no universally accepted definition of what constitutes life. However the vast majority of us accept that animals and plants are life forms, a large majority includes bacteria and fungi as life forms, while almost all think of viruses and disease-causing entities like prions as non-living. If we accept majority opinion, then “life” appears to have been present on our planet for something close to four billion years.
 
@@ -71,3 +95,28 @@ If so, the probable function of the Life Carriers would have been to re-arrange 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_6/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Proclamation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Proclamation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Purpose_of_the_Urantia_Papers">
+          <span class="pr-2">The Purpose of the Urantia Papers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

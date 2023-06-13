@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Faith_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Faith of Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Purpose">
+          <span class="pr-2">Purpose</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The partial failure of the Fourth Epochal Revelation that eventually led to the current stagnation of Christianity, was brought about by two major misrepresentations of Jesus’ message to mankind. One of these was actually the primary reason that the message survived at all—the introduction of the concept that Jesus’ death on the cross somehow induced God to forgive mankind for their personal and their inherited sin.
 
@@ -109,3 +133,28 @@ For sincere and dedicated readers of the Urantia Papers, the future surely will 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_6/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Faith_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Faith of Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Purpose">
+          <span class="pr-2">Purpose</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

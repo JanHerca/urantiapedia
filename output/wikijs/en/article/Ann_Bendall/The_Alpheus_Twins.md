@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ann Bendall<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Is_there_Certainty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Is there Certainty?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Are_the_Urantia_Papers_the_Divine_Word_of_God">
+          <span class="pr-2">Are the Urantia Papers the divine word of God?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The apostles passionately desired the ‘kingdom’ to be an earthly one which would come in power and glory, and James and John Zebedee perceived themselves as being in a position of honor, the first chosen ambassadors. Returning from their search for Jesus in the Perean hills to discover that Peter and Andrew “had become the first accepted counselors of the new kingdom” saddened them to the extent of waking Jesus demanding an explanation.
 
@@ -60,3 +84,28 @@ The Alpheus twins “lived and died conscious of having been honored and blessed
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_1/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Is_there_Certainty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Is there Certainty?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Are_the_Urantia_Papers_the_Divine_Word_of_God">
+          <span class="pr-2">Are the Urantia Papers the divine word of God?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

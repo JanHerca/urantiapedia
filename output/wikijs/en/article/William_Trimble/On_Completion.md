@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 William Trimble<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Infinity_Finity_Transform">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Finity-Infinity Transform</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Transmutation_of_Existential">
+          <span class="pr-2">The Transmutation of Existential Potentialities and Actualities to the Finite Level of Reality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 - To be in the world is to feel incomplete.
 - Completion will take place at some unknown future date.
@@ -41,3 +65,28 @@ When we awake from our earthly slumber, we will have a new and more perfect body
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_2/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Infinity_Finity_Transform">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Finity-Infinity Transform</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Transmutation_of_Existential">
+          <span class="pr-2">The Transmutation of Existential Potentialities and Actualities to the Finite Level of Reality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

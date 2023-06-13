@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Everett Sloffer<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Time_for_Change">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Tiempo de cambio?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Do_You_Want_Your_Children_to_Like_You">
+          <span class="pr-2">¿Quieres que tus hijos te quieran? Jesús tiene un modo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 En algún momento de nuestras vidas, prácticamente todo el mundo tiene alguna experiencia especial, una percepción espiritual que desearíamos compartir con nuestros compañeros de búsqueda. Seguramente tales experiencias se derivan del espíritu de Dios interior. Algunas pueden ser muy intensamente personales para ser compartidas. Otras pueden tener un valor espiritual que no debemos guardar para nosotros.
 
@@ -35,3 +59,27 @@ Dios siempre nos está guiando suavemente hacia adelante. Él sabe que con el ti
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_1/page4.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Time_for_Change">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Tiempo de cambio?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Do_You_Want_Your_Children_to_Like_You">
+          <span class="pr-2">¿Quieres que tus hijos te quieran? Jesús tiene un modo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

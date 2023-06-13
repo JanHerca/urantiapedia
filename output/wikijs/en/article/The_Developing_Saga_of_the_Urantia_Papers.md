@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T22:40:28.893Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/On_Implementing_the_Teachings">
+          <span class="pr-2">On Implementing the Teachings</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 This presentation attempts to explore the difficulties that faced a group of celestial beings who were given the task of providing a new revelation to the people of a certain disadvantaged planet they call Urantia. The purpose of the revelation? The people of Urantia suffer not only from a set of unforeseen events in their history but also from the effects of those events upon their rate of evolutionary progress—which, under more normal universe circumstances, would have advanced them very much further along a path leading away from their congenital animal behavioral instincts and towards a far more spiritual way of co-existence.
 
@@ -281,6 +302,28 @@ For serious believers in the high value and quality of this aspect of the Uranti
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_2/page2.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/On_Implementing_the_Teachings">
+          <span class="pr-2">On Implementing the Teachings</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

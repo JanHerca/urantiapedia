@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Life_on_Planet_Earth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Life on Planet Earth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Part_4_of_The_Urantia_Book_is_the_real_and_ideal_revelation_of_Paper_1">
+          <span class="pr-2">Part 4 of The Urantia Book is the “real and ideal revelation” mentioned in Paper 1</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “The rule of the Most Highs. . . is a rule designed to foster the greatest good to the greatest number.” ([UB 134:5.4](/en/The_Urantia_Book/134#p5_4))
 
@@ -67,3 +91,28 @@ In some ways Urantia Book readers have treated the Papers in the same way as Chr
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_6/page12.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Life_on_Planet_Earth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Life on Planet Earth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Part_4_of_The_Urantia_Book_is_the_real_and_ideal_revelation_of_Paper_1">
+          <span class="pr-2">Part 4 of The Urantia Book is the “real and ideal revelation” mentioned in Paper 1</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

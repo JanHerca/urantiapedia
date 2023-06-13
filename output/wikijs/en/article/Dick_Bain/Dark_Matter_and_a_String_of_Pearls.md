@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T05:01:49.054Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Dick Bain<br>© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/On_Becoming_More_Spiritual_Living_as_Jesus_Lived">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Becoming More Spiritual—Living as Jesus Lived</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Mind_of_Jesus">
+          <span class="pr-2">The Mind of Jesus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 As astronomers have mapped the universe, they have discovered that the galaxies are arranged in long filaments, and they theorize that the filamentary structure is due to the presence of a mysterious substance known as dark matter. How could the hypothesized dark matter be responsible for the structure of the universe?
 
@@ -51,6 +75,31 @@ From what our astronomers can see now, it appears that the simple picture of a t
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_5/page13.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/On_Becoming_More_Spiritual_Living_as_Jesus_Lived">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Becoming More Spiritual—Living as Jesus Lived</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Mind_of_Jesus">
+          <span class="pr-2">The Mind of Jesus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

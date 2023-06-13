@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Earl_Jabay/God_playing_au_Jabay">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">God playing “au Jabay”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Shroud_of_Turin">
+          <span class="pr-2">The Shroud of Turin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 For a Jew living in Palestine two thousand years ago, who would have been the “great men of earth?”
 
@@ -91,3 +115,28 @@ The core of our revelation is in that last sentence—that we lead our lives as 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_4/page6.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Earl_Jabay/God_playing_au_Jabay">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">God playing “au Jabay”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Shroud_of_Turin">
+          <span class="pr-2">The Shroud of Turin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

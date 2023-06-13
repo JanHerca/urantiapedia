@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Lets_Make_and_Keep_it_Simple">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Let's make and keep it simple</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Origin_of_Life_on_Urantia">
+          <span class="pr-2">The Origin of Life on Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 From the parable of the talents: The servant who had received only the one talent came forward, saying to his master: “...I was afraid to risk aught of that which was intrusted to me. I safely hid your talent in the earth; here it is; you now have what belongs to you.” ([UB 176:3.4](/en/The_Urantia_Book/176#p3_4))
 
@@ -35,3 +59,27 @@ Everybody who thinks in terms of “spreading the message” by handing out the 
 ## External links
 
 - Article in Innerface International: https://archive.urantiabook.org/archive/newsletters/innerface/vol6_2/page7.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Lets_Make_and_Keep_it_Simple">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Let's make and keep it simple</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Origin_of_Life_on_Urantia">
+          <span class="pr-2">The Origin of Life on Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Elizabeth Mitchell<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Norm_Duval/The_Real_Gospel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Real Gospel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Better_Communication_with_My_Thought_Adjuster">
+          <span class="pr-2">Better Communication with My Thought Adjuster</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The first issue of Innerface contained an article from the Sunshine Coast Study Group citing references from The Urantia Book indicating that the revelators had the expectation of secondary works becoming a major means of disseminating its message. One of these eagerly anticipated the time when “the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the churches that bear his name”. ([UB 196:1.2](/en/The_Urantia_Book/196#p1_2))
 
@@ -39,3 +63,28 @@ Remember, the name of the book is:
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_5/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Norm_Duval/The_Real_Gospel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Real Gospel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Better_Communication_with_My_Thought_Adjuster">
+          <span class="pr-2">Better Communication with My Thought Adjuster</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

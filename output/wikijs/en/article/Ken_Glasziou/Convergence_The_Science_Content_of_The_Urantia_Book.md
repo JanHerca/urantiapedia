@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T10:32:47.751Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Faith_Sons_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faith Sons of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Reflections_on_The_Dangers_of_Presumption">
+          <span class="pr-2">Reflections on the Dangers of Presumption</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Editorial
 
@@ -338,3 +362,28 @@ Put another way, it says that the harvest of belief is faith; that just as even 
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_1/page4.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Faith_Sons_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faith Sons of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Reflections_on_The_Dangers_of_Presumption">
+          <span class="pr-2">Reflections on the Dangers of Presumption</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

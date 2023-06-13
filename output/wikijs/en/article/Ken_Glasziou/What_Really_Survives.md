@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Pity_my_Simplicity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“Pity my Simplicity”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Most new readers of the Urantia Papers experience a feeling of exultation and relief as they learn that even those Urantians in whom the faintest flicker of faith still flickers will receive the chance to go on to the mansion worlds after mortal death. We may even get the impression that, except for a new and better body and a new and better mind, we more or less start off on the first mansion world exactly where we left off here on Urantia. But what actually does survive from our life on Urantia?
 
@@ -114,3 +135,25 @@ There are two approaches to understanding what spiritual “is.” Since God is 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_1/page15.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Pity_my_Simplicity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“Pity my Simplicity”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

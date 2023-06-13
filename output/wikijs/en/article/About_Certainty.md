@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/All_things_work_together_for_good_despite_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">All things work together for good--despite</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Good_and_evil">
+          <span class="pr-2">Good and evil</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Prior to Jesus' bestowal his brother Creator-Son, Immanuel, advised: "In this bestowal you have voluntarily divested yourself from all extra-planetary support and special assistance.
 
@@ -41,3 +65,27 @@ No person is at any time disturbed by a neighbor's attitude when that person has
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page4.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/All_things_work_together_for_good_despite_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">All things work together for good--despite</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Good_and_evil">
+          <span class="pr-2">Good and evil</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

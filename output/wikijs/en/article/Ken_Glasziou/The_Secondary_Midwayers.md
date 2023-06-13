@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/About_the_Universal_Father_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Positivism—The Only Way</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Celestial_Guardians">
+          <span class="pr-2">The Celestial Guardians</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 It appears that each came into being as a result of some strange spiritual-psychological interaction between pairs of the extraordinary children of Adamson and Ratta, who “were often invisible.” Read in context, the “invisible” clause can be taken in two ways, one being that each individual was sometimes visible, sometimes invisible. Or it can be taken to mean that some of these extraordinary children were visible, while others were invisible. The book states, “Every fourth child born to them was of a unique order. It was often invisible.” ([UB 77:5.6](/en/The_Urantia_Book/77#p5_6))
 
@@ -42,3 +66,27 @@ In asking such questions we must retain our humility. The Revelators did what th
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_5/page5.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/About_the_Universal_Father_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Positivism—The Only Way</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Celestial_Guardians">
+          <span class="pr-2">The Celestial Guardians</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

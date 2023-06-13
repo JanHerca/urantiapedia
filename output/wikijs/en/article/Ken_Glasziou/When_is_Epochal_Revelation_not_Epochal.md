@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Urantia_Papers_on_Finite_Reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Papers on Finite Reality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Atonement_Jewish_Origins">
+          <span class="pr-2">Atonement: Jewish Origins</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “Truth is always a revelation: autorevelation when it emerges as a result of the work of the indwelling Adjuster; epochal revelation when it is presented by the function of some other celestial agency, group, or personality.” ([UB 101:4.3](/en/The_Urantia_Book/101#p4_3))
 
@@ -59,3 +83,28 @@ This is an essential requirement if the choosing of God’s will in our daily li
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_3/page5.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Urantia_Papers_on_Finite_Reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Papers on Finite Reality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Atonement_Jewish_Origins">
+          <span class="pr-2">Atonement: Jewish Origins</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

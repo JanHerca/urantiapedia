@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Stanley McTrusty<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jacques_Dupont/Consistency_in_The_Urantia_Book_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Consistency in The Urantia Book—Personality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Mars_The_Bearer_of_Life">
+          <span class="pr-2">Mars: The Bearer of Life?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Stanley McTrusty, a long term Urantia Book reader who is a professional mathematician, sent us his thesis on reality followed by a letter in elaboration. First the thesis:
 
@@ -83,3 +107,27 @@ If just one person really understands what I have deduced in this summary, and i
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_2/page13.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jacques_Dupont/Consistency_in_The_Urantia_Book_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Consistency in The Urantia Book—Personality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Mars_The_Bearer_of_Life">
+          <span class="pr-2">Mars: The Bearer of Life?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

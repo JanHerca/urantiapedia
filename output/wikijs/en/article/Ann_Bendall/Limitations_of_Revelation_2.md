@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ann Bendall<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Not_If_But_When">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Not If, But When</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jacques_Tetrault/Parental_Guilt">
+          <span class="pr-2">Parental Guilt</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 I see so many arguments and presentations from we “informed” religionists, we folks who can quote chapter and verse on the terms “revelation” and “evolution,” as well as spend heaps of time, energy and money defending, or questioning, whether _The Urantia Book_ is one, or the other, or both.
 
@@ -64,3 +88,28 @@ What were we supposed to do? The apostles were clearly told to preach the good n
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_2/page5.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Not_If_But_When">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Not If, But When</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jacques_Tetrault/Parental_Guilt">
+          <span class="pr-2">Parental Guilt</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

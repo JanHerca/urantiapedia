@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T22:31:31.642Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_doing_the_will_of_God_How">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On doing the will of God—How?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Urantia_Papers_on_the_Will_of_God">
+          <span class="pr-2">The Urantia Papers on the will of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Currently, advances in particle physics essential for further development of theory about the beginnings of our universe have slowed down to a crawl. The reason–the Higgs particle is still missing.
 
@@ -60,3 +84,28 @@ So it is an ill wind that brings nobody no good. The critical test will be the o
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_3/page8.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_doing_the_will_of_God_How">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On doing the will of God—How?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Urantia_Papers_on_the_Will_of_God">
+          <span class="pr-2">The Urantia Papers on the will of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

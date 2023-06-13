@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Who_Wrote_The_Urantia_Book_It_doesnt_really_matter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Who Wrote The Urantia Book? It doesn't really matter—IMHO</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Urantia_Book_Authorship_Other_Aspects">
+          <span class="pr-2">Urantia Book Authorship—Other Aspects</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Succumbing to peer group pressures has ruined a countless number of both young and adult lives. Why do people of normal intelligence and normal courage become helpless, spineless idiotic cowards in the face of peer group pressure?
 
@@ -33,3 +57,28 @@ In reality you are never alone. The indwelling God-Spirit is always with you, as
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Who_Wrote_The_Urantia_Book_It_doesnt_really_matter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Who Wrote The Urantia Book? It doesn't really matter—IMHO</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Urantia_Book_Authorship_Other_Aspects">
+          <span class="pr-2">Urantia Book Authorship—Other Aspects</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

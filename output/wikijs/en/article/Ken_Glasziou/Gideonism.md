@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sydney_Harris/Charity_Doesnt_Start_at_Home">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Charity Doesn't Start at Home!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Clovis_First_aint_first_any_more">
+          <span class="pr-2">“Clovis First” ain't first any more</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 First, an apology to all those members of the Gideons movement whose perception of what the Gideons are all about is entirely different from mine.
 
@@ -47,3 +71,28 @@ Of one other thing we can be quite certain. A Gideonist approach to the spreadin
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page14.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sydney_Harris/Charity_Doesnt_Start_at_Home">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Charity Doesn't Start at Home!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Clovis_First_aint_first_any_more">
+          <span class="pr-2">“Clovis First” ain't first any more</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

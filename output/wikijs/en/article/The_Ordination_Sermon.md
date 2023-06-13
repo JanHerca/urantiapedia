@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Paper_140_The_Ordination_Is_it_Important">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paper 140. The Ordination—Is it Important?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spirit_Unity">
+          <span class="pr-2">Spirit Unity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Then Jesus spoke, saying: “Now that you are ambassadors of my Father’s kingdom, you have thereby become a class of men separate and distinct from all other men on earth. You are not now as men among men but as the enlightened citizens of another and heavenly country among the ignorant creatures of this dark world. It is not enough that you live as you were before this hour, but henceforth must you live as those who have tasted the glories of a better life and have been sent back to earth as ambassadors of the Sovereign of that new and better world.”
 > 
@@ -63,3 +87,28 @@ dateCreated: 2022-9-9T8:13:39Z
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_1/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Paper_140_The_Ordination_Is_it_Important">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paper 140. The Ordination—Is it Important?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spirit_Unity">
+          <span class="pr-2">Spirit Unity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

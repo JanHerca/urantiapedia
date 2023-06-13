@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T22:46:20.684Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Effects_of_the_Gospel_Records">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Effects of the Gospel Records</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/What_was_the_Gospel_of_Jesus">
+          <span class="pr-2">What was the Gospel of Jesus?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 For Urantia Book readers, and assuming the absence of the Urantia revelation, it is both interesting and educational to realise how little is known about the pre-baptismal phase of Jesus’ life. Without The Urantia Book not even the date or year of Jesus’ birth is known.
 
@@ -55,3 +79,27 @@ Thus Jesus was not a country yokel who had never been exposed to Greco-Roman civ
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_6/page9.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Effects_of_the_Gospel_Records">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Effects of the Gospel Records</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/What_was_the_Gospel_of_Jesus">
+          <span class="pr-2">What was the Gospel of Jesus?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sydney_Harris/Jesus_would_not_appeal_to_the_Moral_Majority">
+          <span class="pr-2">Jesus would not appeal to the Moral Majority</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Then Jesus spoke, saying: “Now that you are ambassadors of my Father’s kingdom, you have thereby become a class of men separate and distinct from all other men on earth. You are not now as men among men but as the enlightened citizens of another and heavenly country among the ignorant creatures of this dark world. It is not enough that you live as you were before this hour, but henceforth must you live as those who have tasted the glories of a better life and have been sent back to earth as ambassadors of the Sovereign of that new and better world. Of the teacher more is expected than of the pupil; of the master more is exacted than of the servant. Of the citizens of the heavenly kingdom more is required than of the citizens of the earthly rule. Some of the things which I am about to say to you may seem hard, but you have elected to represent me in the world even as I now represent the Father; and as my agents on earth you will be obligated to abide by those teachings and practices which are reflective of my ideals of mortal living on the worlds of space, and which I exemplify in my earth life of revealing the Father who is in heaven.”
 > 
@@ -55,3 +76,25 @@ dateCreated: 2022-9-9T8:13:38Z
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_6/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sydney_Harris/Jesus_would_not_appeal_to_the_Moral_Majority">
+          <span class="pr-2">Jesus would not appeal to the Moral Majority</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

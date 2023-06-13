@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Steady_State_Big_Bang_or_Architects_of_the_Master_Universe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Steady State, Big Bang, or Architects of the Master Universe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Urantia Book readers with a scientific bent may have noticed a Murphy’s Law type of phenomenon in media reviewing of topical science. Basically it boils down to “don’t buck the system,” and has the effect that, regardless of what a set of experimental results might indicate, a way has to be found to make them conform to whatever the current line might be.
 
@@ -35,3 +56,25 @@ The establishment countered this claim by throwing doubt on the dating technique
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_4/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Steady_State_Big_Bang_or_Architects_of_the_Master_Universe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Steady State, Big Bang, or Architects of the Master Universe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

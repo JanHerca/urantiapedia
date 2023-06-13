@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sydney_Harris/Heaven_wont_be_dull">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Heaven won't be Dull—Despite the Disbelievers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The Urantia Book_’s story about the origin of our solar system is at variance with the popular, and often dogmatic, text-book accounts. Current thought indicates that, in any account of origins, there may be a high degree of uncertainty.
 
@@ -60,3 +81,25 @@ A strange attractor is a phase-space graph that charts the trajectory of a syste
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_3/page.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sydney_Harris/Heaven_wont_be_dull">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Heaven won't be Dull—Despite the Disbelievers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

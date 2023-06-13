@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Tolerating_the_Views_of_Others">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Tolerating the Views of Others</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Beyond_the_Urantia_Papers">
+          <span class="pr-2">Beyond the Urantia Papers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Having the Urantia Papers, reading them, comprehending their message, and believing their revelatory truths, places enormous obligations upon those fortunate enough (or unfortunate enough, depending on your views) to have been recipients.
 
@@ -51,3 +75,28 @@ Soon after the Papers were published the concept grew that the main function of 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_6/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Tolerating_the_Views_of_Others">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Tolerating the Views of Others</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Beyond_the_Urantia_Papers">
+          <span class="pr-2">Beyond the Urantia Papers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

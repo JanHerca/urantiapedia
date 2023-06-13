@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ann Bendall<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Wouldnt_It_Be_Great_If">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Wouldn't It be Great If?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Second_Great_Commandment_A_Reminder">
+          <span class="pr-2">The Second Great Commandment. A Reminder</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 To cater to the simplistic way in which individuals explore the complexity of human nature, psychology has coined the concept ‘self esteem’ to represent what _The Urantia Book_ refers to as conscience and its admonitions by the Thought Adjuster, self worth, and selfhood.
 
@@ -34,3 +58,28 @@ In the second instance on [UB 139:4.8](/en/The_Urantia_Book/139#p4_8), it is ref
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page5.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Wouldnt_It_Be_Great_If">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Wouldn't It be Great If?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Second_Great_Commandment_A_Reminder">
+          <span class="pr-2">The Second Great Commandment. A Reminder</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

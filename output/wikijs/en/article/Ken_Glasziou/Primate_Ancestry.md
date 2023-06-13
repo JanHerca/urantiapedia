@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/When_Did_the_Red_Man_Arrive_in_the_Americas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Science and The Urantia Book. When Did the Red Man Arrive in the Americas?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 An article appearing in Natural History (8/92) indicates that the ancient North American lemur (Notharctus) was previously thought to be more primitive than the European variety and not to have contributed directly to primate and the human lineage. Recent fossil discoveries made at Bitter Creek, east of the Bridger Basin, Wyoming, have completely altered this view. Formerly described as a fox-faced little primate similar to today's ring tailed lemur, the finding of an almost complete skull shows Notharctus to have had a much smaller muzzle than either extinct adapids or many living lemurs. Its discoverer states that it may have independently evolved a few features of the anthropoids, such as the reduced lachrymal bone of the face, and that, in some ways, Northarctus more closely resembles the ancestral stock that produced the monkeys and apes than the line that led to the Malagasy lemurs and sifakas of Madagasca. _The Urantia Book_ states:
 
@@ -17,3 +38,24 @@ An article appearing in Natural History (8/92) indicates that the ancient North 
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_3/page18.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/When_Did_the_Red_Man_Arrive_in_the_Americas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Science and The Urantia Book. When Did the Red Man Arrive in the Americas?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

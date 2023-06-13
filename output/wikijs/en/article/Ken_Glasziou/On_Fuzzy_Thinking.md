@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Aristotle_Fuzzy_Logic_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aristotle, Fuzzy Logic, and The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Gravity_Newton_Einstein_and_The_Urantia_Book">
+          <span class="pr-2">Gravity, Newton, Einstein, and The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 [note: The prior article, [“Aristotle, Fuzzy Logic, and The Urantia Book”](/en/article/Ken_Glasziou/Aristotle_Fuzzy_Logic_and_The_Urantia_Book) introduces the reader to Fuzzy Logic.]
 
@@ -44,3 +68,28 @@ God is He who wrote the math. Or She who wrote the math. Or It that wrote the ma
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_2/page15.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Aristotle_Fuzzy_Logic_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aristotle, Fuzzy Logic, and The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Gravity_Newton_Einstein_and_The_Urantia_Book">
+          <span class="pr-2">Gravity, Newton, Einstein, and The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

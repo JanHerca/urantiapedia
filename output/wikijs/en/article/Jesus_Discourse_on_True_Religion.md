@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Who_will_come_to_Phoenicia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Who will come to “Phoenicia?”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Learning_in_Phoenicia">
+          <span class="pr-2">Learning in Phoenicia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > You have come out from among those of your fellows who choose to remain satisfied with a religion of mind, who crave security and prefer conformity. You have elected to exchange your feelings of authoritative certainty for the assurances of the spirit of adventurous and progressive faith. You have dared to protest against the grueling bondage of institutional religion and to reject the authority of the traditions of record which are now regarded as the word of God. . . My Father is no respecter of races or generations in that the word of truth is vouchsafed one age and withheld from another. Commit not the folly of calling that divine which is wholly human, and fail not to discern the words of truth which come not through the traditional oracles of supposed inspiration.
 > 
@@ -41,3 +65,28 @@ dateCreated: 2022-9-9T8:13:39Z
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_5/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Who_will_come_to_Phoenicia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Who will come to “Phoenicia?”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Learning_in_Phoenicia">
+          <span class="pr-2">Learning in Phoenicia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

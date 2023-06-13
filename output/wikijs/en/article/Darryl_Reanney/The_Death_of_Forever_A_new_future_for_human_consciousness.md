@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Darryl Reanney<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Self_Fulfilling_Prophecy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Self-fulfilling Prophecy</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Little_Things_Mean_a_Lot">
+          <span class="pr-2">Little Things Mean a Lot—Do neutrinos have mass?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In this work, the author makes use of a model by biologist, Paul McLean, that treats the human brain as a composite structure composed of three-layered interlocking elements, each with its own software and input and output channels. The oldest layer is the reptilian brain. Above this is the paleocortex or limbic system (paleomammalian), and above that the neocortex (neomammalian).[paleo, ancient; neo, new]
 
@@ -78,3 +102,28 @@ We should learn to approach death with gratitude, seeing it for what it is, the 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_3/page14.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Self_Fulfilling_Prophecy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Self-fulfilling Prophecy</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Little_Things_Mean_a_Lot">
+          <span class="pr-2">Little Things Mean a Lot—Do neutrinos have mass?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

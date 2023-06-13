@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spirituality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Christianity_hopes">
+          <span class="pr-2">Christianity—hopes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 “**The God of worship claims all allegiance or none**.”
 
@@ -33,3 +57,27 @@ The prelude to true worship is the **practice of the presence of God** which eve
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page13.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spirituality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Christianity_hopes">
+          <span class="pr-2">Christianity—hopes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

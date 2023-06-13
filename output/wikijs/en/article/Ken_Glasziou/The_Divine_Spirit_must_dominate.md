@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Peter_Vardy/What_Does_It_Mean_to_Talk_about_God_A_Catholic_View">
+          <span class="pr-2">What Does It Mean to Talk about God? A Catholic View</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > The dead theory of even the highest religious doctrines is powerless to transform human character or to control mortal behavior. What the world of today needs is the truth which your teacher of old declared: “Not in word only but also in power and in the Holy Spirit.” The seed of theoretical truth is dead, the highest moral concepts without effect, unless and until the divine Spirit breathes upon the forms of truth and quickens the formulas of righteousness.
 > 
@@ -23,3 +44,25 @@ dateCreated: 2022-9-9T8:13:38Z
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_5/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Peter_Vardy/What_Does_It_Mean_to_Talk_about_God_A_Catholic_View">
+          <span class="pr-2">What Does It Mean to Talk about God? A Catholic View</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

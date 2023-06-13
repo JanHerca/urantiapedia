@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Being_and_Doing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Being and Doing</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Evolution_or_Revolution">
+          <span class="pr-2">Evolution or Revolution?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Attempting to live our life as Jesus lived his while we are at home and among those who know us best may bring us face to face with problems we didn’t even know we had. Such problems derive from habits that commenced developing in our early childhood and are held more or less unconsciously—so much so that we ignore them as being normal behavior.
 
@@ -70,6 +94,31 @@ Three hundred and fifty years ago the Quakers almost got it right. They lost the
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_6/page5.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Being_and_Doing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Being and Doing</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Evolution_or_Revolution">
+          <span class="pr-2">Evolution or Revolution?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

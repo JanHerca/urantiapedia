@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Was_the_Crucifixion_Really_Necessary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Was the Crucifixion really Necessary?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Remembrance_Supper">
+          <span class="pr-2">The Remembrance Supper</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Apart from God, the two most maligned personalities in the history of Urantia would have to be Adam and Eve. They were the couple whose “apple-eating” venture cost us humans the glory that once was ours. As a result of their mistake all humans are born inherently evil instead of good! The belief in the innate evil of mankind was embraced by the father of psychology, Freud, and I suspect his religious background would have coloured his theories—which have  subsequently been proved wrong.
 
@@ -72,3 +96,27 @@ When I get to Jerusem I hope that Adam and Eve are still there and have the time
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_2/page9.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Was_the_Crucifixion_Really_Necessary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Was the Crucifixion really Necessary?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Remembrance_Supper">
+          <span class="pr-2">The Remembrance Supper</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

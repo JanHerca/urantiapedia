@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Sydney Harris<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Holism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Holism</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Deep_Stuff_on_Souls">
+          <span class="pr-2">Deep Stuff on Souls</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Most people look upon the biblical injunction “Love your enemies” either as impossibly utopian or as impossibly sentimental. This is because they have not grasped the meaning of “agape,” or “love,” as Jesus meant it.
 
@@ -40,3 +64,28 @@ What a tragedy that we honor it only in our games, which we take so seriously, b
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_2/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Holism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Holism</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Deep_Stuff_on_Souls">
+          <span class="pr-2">Deep Stuff on Souls</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

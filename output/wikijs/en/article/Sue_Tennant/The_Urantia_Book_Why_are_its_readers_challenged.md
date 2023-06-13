@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Sue Tennant<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Music_Functions_and_Changes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Music Functions and Change</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Ravening_Wolves_Swine_Dogs_Sheep_Serpents_and_Doves">
+          <span class="pr-2">Ravening Wolves, Swine, et al</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The Urantia Book_ proclaims: Life on earth is only the tip of the iceberg! The drama of eternity has only just begun! A cosmic adventure beckons!
 
@@ -57,3 +81,27 @@ There is no human authority, religious or otherwise, by which the truth of _The 
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_6/page11.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Music_Functions_and_Changes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Music Functions and Change</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Ravening_Wolves_Swine_Dogs_Sheep_Serpents_and_Doves">
+          <span class="pr-2">Ravening Wolves, Swine, et al</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

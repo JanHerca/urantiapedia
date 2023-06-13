@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/High_on_Angels">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">High on Angels</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/When_Did_the_Red_Man_Arrive_in_the_Americas">
+          <span class="pr-2">Science and The Urantia Book. When Did the Red Man Arrive in the Americas?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 At the time of Jesus, the Shema was recited twice daily by faithful Jews: “_Hear, O Israel, the Lord our God is one Lord; and you shall love the Lord your God with all your heart, and with all your soul, and with all your might._” This was the first great commandment referred to in the gospels. The Fourth Epochal Revelation upgraded its meaning because of its revelation of the true nature of God through the life of Jesus. The second great commandment was that we should love our neighbor as ourselves. The Fourth Epochal Revelation brought a quantum leap to its meaning by upgrading it from a material to a spiritual level. It told us that we must love one another as Jesus loves us.
 
@@ -51,3 +75,27 @@ How did Jesus love? Real love, God-like love, divine love, is gracious, compassi
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_3/page15.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/High_on_Angels">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">High on Angels</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/When_Did_the_Red_Man_Arrive_in_the_Americas">
+          <span class="pr-2">Science and The Urantia Book. When Did the Red Man Arrive in the Americas?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

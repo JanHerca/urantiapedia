@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Cooking_up_a_Universe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cooking up a Universe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Urantia_Papers_on_loving_our_Neighbor">
+          <span class="pr-2">The Urantia Papers on Loving our Neighbor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 [This article appeared in a church newsletter, author unnamed and no copyright. If something similar went into other church publications it may help prepare the way for the Urantia Book’s message.]
 
@@ -39,3 +63,28 @@ Since undertaking my adventure with the gospels I have also learned that my reli
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Cooking_up_a_Universe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cooking up a Universe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Urantia_Papers_on_loving_our_Neighbor">
+          <span class="pr-2">The Urantia Papers on Loving our Neighbor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

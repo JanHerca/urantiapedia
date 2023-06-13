@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Urantia_Book_versus_its_Philosophy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book versus Its Philosophy</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “_Jesus does not require his disciples to believe in him but rather to believe with him, believe in the reality of the love of God and in full confidence accept the security of the assurance of sonship with the heavenly Father. The Master desires that all his followers should fully share his transcendent faith. Jesus most touchingly challenged his followers, not only to believe what he believed, but also to believe as he believed. This is the full significance of his one supreme requirement, ‘Follow me.’_” [UB 196:0.13](/en/The_Urantia_Book/196#p0_13)
 
@@ -37,3 +58,25 @@ But let not faith be overcome. Rather let this assurance prevail: “_Love is in
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page16.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Urantia_Book_versus_its_Philosophy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book versus Its Philosophy</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

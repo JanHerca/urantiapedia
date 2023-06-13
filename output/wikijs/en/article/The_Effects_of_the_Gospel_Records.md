@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T22:52:03.235Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Reliability_of_New_Testament_Sources">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reliability of New Testament Sources</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Early_Years_of_Jesus">
+          <span class="pr-2">The Early Years of Jesus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 A thorough and objective search for the historical Jesus leads us back to the historically reliable documents that constitute the New Testament record of his life and teachings. Although we are not certain of the exact day of Jesus’ birth, nevertheless it was an event that has divided history–B.C. before Christ and A.D., Anno domini, “in the year of our Lord.” Such a clear demarcation would hardly have been made were there no historical basis for the life of Jesus.
 
@@ -46,3 +70,27 @@ All of which demonstrates a remarkable congruence of information stemming from L
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_6/page8.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Reliability_of_New_Testament_Sources">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reliability of New Testament Sources</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-12-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Early_Years_of_Jesus">
+          <span class="pr-2">The Early Years of Jesus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

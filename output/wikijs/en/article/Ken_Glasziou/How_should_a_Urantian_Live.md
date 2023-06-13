@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Keith_McPaul/Relation_of_The_Urantia_Papers_and_Process_Theology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Relation of the Urantia Papers and Process Theology</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 This is a problem that all dedicated readers of the Urantia Papers must face. Many of us received them in circumstances that were highly unusual, sometimes appearing to border on the miraculous. And so we were tempted, as Jesus was tempted, to conclude that we are special, selected, in some way different, maybe even superior to our fellows.
 
@@ -75,3 +96,25 @@ There was a sixth decision:
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_3/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Keith_McPaul/Relation_of_The_Urantia_Papers_and_Process_Theology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Relation of the Urantia Papers and Process Theology</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -8,6 +8,29 @@ editor: markdown
 dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/My_Odyssey_of_Peak_Experiences">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">My Odyssey of Peak Experiences</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+
 Whereas there is no such thing as an official definition of the scientific method, nor what constitutes the logic and goals of science, there are some things that are understood by a majority of professional scientists.
 
 The core of the scientific method is simply to explore the available data, formulate a hypothesis to explain as much as of the data as possible, then do experiments to test the hypothesis. This tends to be a never-ending sequence of modifying the hypothesis to accommodate new data, then repeat.
@@ -61,3 +84,24 @@ Science will have discovered that energy flow in the universes is controlled lon
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_6/page13.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/My_Odyssey_of_Peak_Experiences">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">My Odyssey of Peak Experiences</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

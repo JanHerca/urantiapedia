@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spirit_Unity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spirit Unity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Do_Urantians_have_a_Special_Task_with_Christianity">
+          <span class="pr-2">Do Urantians have a Special Task with Christianity?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 As long as prayer is sincere and uttered in faith, no matter how ill-advised or impossible of a direct answer, all such prayer never fails to expand our spiritual receptivity. (from [UB 144:4.2](/en/The_Urantia_Book/144#p4_2))
 
@@ -25,3 +49,27 @@ True prayer is a reflection of our sincere spiritual longing for awareness of th
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_1/page10.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spirit_Unity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spirit Unity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Do_Urantians_have_a_Special_Task_with_Christianity">
+          <span class="pr-2">Do Urantians have a Special Task with Christianity?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

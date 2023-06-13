@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Sandy Garrick<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jacques_Tetrault/Parental_Guilt">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Parental Guilt</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Webb/On_Space_and_Nothing">
+          <span class="pr-2">On Space and Nothing</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 My main point of dissatisfaction about the origin of the Urantia papers has always been the absence of a bonafide musician on the early Forum panel that Dr Sadler put together in his Chicago home so as to bring us this superb document on the magnitude of God’s cosmic reality.
 
@@ -43,3 +67,28 @@ When we stand in awe of the Master Universe, we must pause to consider that this
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_2/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jacques_Tetrault/Parental_Guilt">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Parental Guilt</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Webb/On_Space_and_Nothing">
+          <span class="pr-2">On Space and Nothing</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

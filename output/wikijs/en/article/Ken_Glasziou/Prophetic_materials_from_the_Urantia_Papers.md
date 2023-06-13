@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T20:03:34.958Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Why_is_there_both_Error_and_Prophecy_in_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Why is there both Error and Prophecy in the Urantia Revelation?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/What_fuels_our_Sun_and_other_Stars">
+          <span class="pr-2">What fuels our Sun and other Stars?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Summary
 
@@ -85,3 +109,28 @@ When we take into consideration that Swann’s details were deliberately modifie
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page10.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Why_is_there_both_Error_and_Prophecy_in_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Why is there both Error and Prophecy in the Urantia Revelation?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/What_fuels_our_Sun_and_other_Stars">
+          <span class="pr-2">What fuels our Sun and other Stars?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

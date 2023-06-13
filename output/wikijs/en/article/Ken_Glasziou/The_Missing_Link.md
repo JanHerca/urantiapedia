@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/When_is_a_Heart_not_a_Heart">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">When is a “Heart” not a “Heart?”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rob_Crickett/Heart_Alpha_and_Omega_of_Spirituality">
+          <span class="pr-2">Heart—the Alpha and Omega of Spirituality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Condensed from Jacob Needleman, “Lost Christianity. A Journey of Rediscovery to the Centre of Christian Experience.”_
 
@@ -86,3 +110,27 @@ According to Needleman, cleansing the inside so that the outside, too, may be cl
 ## References
 
 * Jacob Needleman, “Lost Christianity. A Journey of Rediscovery to the Centre of Christian Experience”, Element Books; New edition (February 1990)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/When_is_a_Heart_not_a_Heart">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">When is a “Heart” not a “Heart?”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rob_Crickett/Heart_Alpha_and_Omega_of_Spirituality">
+          <span class="pr-2">Heart—the Alpha and Omega of Spirituality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

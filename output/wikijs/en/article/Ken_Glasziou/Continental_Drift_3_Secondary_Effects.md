@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T04:52:13.783Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Continental_Drift_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Continental Drift 2</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Radiometric_chemistry_Age_of_the_Earth">
+          <span class="pr-2">Radiometric chemistry Age of the Earth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 “There is a curious parallel history between the histories of black holes and continental drift. Evidence for both was already non-ignorable by 1916, but both ideas were stopped in their tracks for half a century by a resistance bordering on the irrational. . . but resistance to both began to crumble around 1960.” (Werner Israel, quoted in Thorne[^1])
 
@@ -37,6 +61,31 @@ The presence of marsupial fossils in Oligocene strata (about 35 to 40 million ye
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page28.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Continental_Drift_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Continental Drift 2</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Radiometric_chemistry_Age_of_the_Earth">
+          <span class="pr-2">Radiometric chemistry Age of the Earth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

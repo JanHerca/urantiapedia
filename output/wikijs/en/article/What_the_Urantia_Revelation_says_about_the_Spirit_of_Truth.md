@@ -9,6 +9,30 @@ dateCreated: 2022-09-27T01:12:27.885Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Did_Jesus_really_need_to_be_crucified">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Did Jesus really need to be crucified?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-12-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Role_of_miracles_resurrection_forgiveness_spread_Christianity">
+          <span class="pr-2">The relative role of miracles, resurrection, and forgiveness of sins in the rapid spread of Christianity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > When the Son of Man has finished his work on earth, there shall be poured out upon **all flesh** the living Spirit of Truth. Those who receive this spirit shall never know spiritual thirst." ([UB 162:6.1](/en/The_Urantia_Book/162#p6_1))
 
@@ -107,3 +131,27 @@ However take care not to make the mistake of expecting to become strongly intell
 ## External links
 
 -   Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_2/page8.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Did_Jesus_really_need_to_be_crucified">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Did Jesus really need to be crucified?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-12-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Role_of_miracles_resurrection_forgiveness_spread_Christianity">
+          <span class="pr-2">The relative role of miracles, resurrection, and forgiveness of sins in the rapid spread of Christianity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

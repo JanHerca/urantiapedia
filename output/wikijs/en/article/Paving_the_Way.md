@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Virtues_of_Uncertainty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Virtues of Uncertainty</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Truth_and_the_Spirit_of_Truth">
+          <span class="pr-2">Truth and the Spirit of Truth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “The mortal-survival plan has a practical and serviceable objective; you are not the recipients of all this divine labor and painstaking training only that you may survive just to enjoy endless bliss and eternal ease. There is a goal of transcendent service concealed beyond the horizon of the present universe age. If the Gods designed merely to take you on one long and eternal joy excursion, they certainly would not so largely turn the whole universe into one vast and intricate practical training school. . . ” ([UB 48:8.3](/en/The_Urantia_Book/48#p8_3))
 
@@ -56,3 +80,28 @@ Given devotion and effort, many people could be made aware of key universal prin
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_3/page5.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Virtues_of_Uncertainty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Virtues of Uncertainty</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Truth_and_the_Spirit_of_Truth">
+          <span class="pr-2">Truth and the Spirit of Truth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

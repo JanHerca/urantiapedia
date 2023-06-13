@@ -9,6 +9,30 @@ dateCreated: 2022-09-27T00:55:39.184Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Free_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Free Will</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/What_is_expected_of_Urantia_Book_Readers_Who_Me">
+          <span class="pr-2">What is expected of Urantia Book Readers?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 It is not possible that the Spirit could have more of goodness than the Father since all goodness takes origin in the Father, but in the acts of the Spirit we can the better comprehend such goodness.
 
@@ -28,3 +52,28 @@ All good things come down from the Father of light, in whom there is no variable
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page16.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Free_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Free Will</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/What_is_expected_of_Urantia_Book_Readers_Who_Me">
+          <span class="pr-2">What is expected of Urantia Book Readers?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

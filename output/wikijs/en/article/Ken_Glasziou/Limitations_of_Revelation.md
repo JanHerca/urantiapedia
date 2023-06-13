@@ -9,6 +9,27 @@ dateCreated: 2022-9-8T15:10:22Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Why_are_some_people_turned_off_it_and_others_love_it">
+          <span class="pr-2">The Urantia Book. Why are some people turned off it and others love it?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > **An Important Announcement**
 > We are thrilled to announce that Dick Bain, the editor of Cosmic Reflections, has agreed to join our editorial panel and, in addition, to amalgamate his newsletter with Innerface International. Predominantly, Cosmic Reflections has concentrated on aiding students of _The Urantia Book_ to gain a deeper understanding of the revelatory purpose of the science and cosmology of the book.
@@ -35,3 +56,25 @@ In order to shed a little light on this topic, we have made the purpose, and the
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_1/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Why_are_some_people_turned_off_it_and_others_love_it">
+          <span class="pr-2">The Urantia Book. Why are some people turned off it and others love it?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

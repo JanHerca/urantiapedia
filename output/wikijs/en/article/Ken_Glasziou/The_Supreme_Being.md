@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Atonement_Jewish_Origins">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Atonement: Jewish Origins</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Keith_McPaul/Relation_of_The_Urantia_Papers_and_Process_Theology">
+          <span class="pr-2">Relation of the Urantia Papers and Process Theology</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In the Urantia Papers, some authors tend to refer to the Supreme Being as both existent and not yet existent—hence in ways similar to how particle physicists treat particles as simultaneously being both wave and particle.
 
@@ -170,3 +194,28 @@ flowchart TB
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_3/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Atonement_Jewish_Origins">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Atonement: Jewish Origins</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Keith_McPaul/Relation_of_The_Urantia_Papers_and_Process_Theology">
+          <span class="pr-2">Relation of the Urantia Papers and Process Theology</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

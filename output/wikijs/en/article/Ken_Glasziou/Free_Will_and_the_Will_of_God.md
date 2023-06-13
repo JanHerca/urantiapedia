@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Indwelling_Spirit_in_the_New_Testament">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Indwelling of the Spirit in the New Testament</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 How free is our free will? How far does it extend. Limits must be there. At one extreme, we are not free to do the undoable deed. A close examination of what we are given in the Urantia Papers tells us more about what we can do than what we cannot do.
 
@@ -74,3 +95,25 @@ Besides the lead we get from “highest cosmic good” in serving our brothers a
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_6/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Indwelling_Spirit_in_the_New_Testament">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Indwelling of the Spirit in the New Testament</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Walker/Remarks_on_Suicide">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Remarks on Suicide</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Tarichea">
+          <span class="pr-2">Tarichea</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 There are more than one hundred and sixty items of archaeological interest—place names or information about places and people—contained in Part 4 of _The Urantia Book_. The revelators state that their mandate required that they use human sources whenever possible. For Part 4 more than 2000 such sources have been used. ([UB 121:8.13](/en/The_Urantia_Book/121#p8_13)) It follows that we may be able to discover many of the sources of archaeological information in Part 4 that pertain to first century Palestine. Over the years, a number of Urantia Book readers have taken an interest in locating these sources.
 
@@ -29,3 +53,28 @@ The article that follows concerns the location of Tarichea on the Sea of Galilee
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_6/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Walker/Remarks_on_Suicide">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Remarks on Suicide</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Tarichea">
+          <span class="pr-2">Tarichea</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Dick Bain<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rob_Crickett/Providing_Urantianite_Spiritual_Leadership">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Providing Urantianite Spiritual Leadership</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/James_the_Brother_of_Jesus_What_happened_to_him">
+          <span class="pr-2">James, the brother of Jesus. What happened to him?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The unusual-neighbors-next-door idea has been the theme of many a movie and TV show. But it would be hard to imagine neighbors as odd as some neighbors mentioned in _The Urantia Book_. They live on a ‘nearby’ planet and they are called nonbreathers. Intelligent will creatures come in many sizes and styles to fit their planet’s conditions but, according to the authors, of all other mortals the nonbreathers are the most radically different from us.
 
@@ -37,3 +61,28 @@ On [UB 40:5.15](/en/The_Urantia_Book/40#p5_15), the author of Paper 41 informs u
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page6.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rob_Crickett/Providing_Urantianite_Spiritual_Leadership">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Providing Urantianite Spiritual Leadership</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/James_the_Brother_of_Jesus_What_happened_to_him">
+          <span class="pr-2">James, the brother of Jesus. What happened to him?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

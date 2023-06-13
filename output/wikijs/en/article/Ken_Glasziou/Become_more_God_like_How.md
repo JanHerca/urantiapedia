@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T18:30:58.892Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Occams_Razor_applied_to_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Occam's Razor applied to religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The following suggestion comes from Islamic Sufi literature in which it is known by the term, "our God-ideal." It states: "The reality of God is beyond human comprehension. It is also a mystery to our thinking. However, it remains factual that to develop our relationship with God, we must have some kind imagery, some kind of mind-picture of God, who he is and what he is.
 
@@ -23,3 +44,24 @@ It may be worth a try?
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_3/page16.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Occams_Razor_applied_to_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Occam's Razor applied to religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

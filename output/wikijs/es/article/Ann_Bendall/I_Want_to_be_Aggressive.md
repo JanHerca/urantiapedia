@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Further_Comments_on_Channeling">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más comentarios sobre la canalización</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/On_the_Urgent_Need_for_Secondary_Works">
+          <span class="pr-2">Sobre la urgente necesidad de obras secundarias</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Érase una vez, antes de leer _El Libro de Urantia_, en que pensaba que ser agresiva era ser decididamente antisocial. El diccionario decía que las personas agresivas eran «pendencieras o beligerantes». Y estuve de acuerdo con esto. Dios mío, el movimiento de mujeres gritaba que todo el problema del mundo eran los hombres y su agresión, ¡sus tendencias agresivas! Nosotras, las mujeres, suspiramos aliviadas porque no estábamos tan malditas (a pesar de la investigación que discrepa: las mujeres son tan agresivas como los hombres, si se las provoca). Sin embargo, parece que muchos hombres son naturalmente agresivos y pueden imaginar fácilmente que ha ocurrido una provocación, si el impulso de ser agresivo es fuerte).
 
@@ -49,6 +73,31 @@ No preveo ninguna dificultad por parte de Jesús/Miguel porque soy mujer. Nos he
 ## Referencias
 
 [^1]: «Brain Sex: The Real Difference Between Men and Women», Dr Anne Moir, Ph.D. y David Jessel, Wise Owl Secrets Publishing, 1989.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Further_Comments_on_Channeling">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más comentarios sobre la canalización</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/On_the_Urgent_Need_for_Secondary_Works">
+          <span class="pr-2">Sobre la urgente necesidad de obras secundarias</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

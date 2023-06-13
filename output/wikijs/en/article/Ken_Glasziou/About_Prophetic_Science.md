@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Some_Early_history">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Some Early History</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 7 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Science_and_The_Urantia_Papers">
+          <span class="pr-2">Science and the Urantia Papers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Scattered throughout the scientific component we find statements that are quite prophetic. This inclusion is consistent with a statement from the mandate ([UB 101:4.8](/en/The_Urantia_Book/101#p4_8)) that the provision of key bits of essential or forgotten knowledge was permitted. However, the inclusion of this esoteric information is strangely in contrast with much of the other science in the book that would have been known even to high school students of the 1930’s, when the Papers were first received.
 
@@ -49,6 +73,31 @@ Of course, new readers must find their own pathway to truth. Some may find my ex
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_7/page7.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Some_Early_history">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Some Early History</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-7">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 7 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Science_and_The_Urantia_Papers">
+          <span class="pr-2">Science and the Urantia Papers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

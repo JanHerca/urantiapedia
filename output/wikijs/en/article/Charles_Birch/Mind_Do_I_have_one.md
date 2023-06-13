@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T04:32:39.812Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Charles Birch<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Subjectivity_and_Reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Subjectivity and Reality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/What_do_the_Urantia_Papers_say_about_mind">
+          <span class="pr-2">What do the Urantia Papers say about mind?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 From “Feelings” by Charles Birch
 
@@ -213,6 +237,31 @@ Whereas the God of Aristotle and of classical theism is totally unaffected by wh
 [^2]: Davies, Paul, “The Mind of God.”
 
 [^3]: Hartshorne was an associate of Whitehead.
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Subjectivity_and_Reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Subjectivity and Reality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/What_do_the_Urantia_Papers_say_about_mind">
+          <span class="pr-2">What do the Urantia Papers say about mind?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## External links
 

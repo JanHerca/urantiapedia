@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Unbroken_Communion_with_our_Thought_Adjuster">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Unbroken Communion with our Thought Adjuster</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Adam_and_Eve">
+          <span class="pr-2">Adam and Eve</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Was the crucifixion really necessary? That depends on one's theology. For those who subscribe to the doctrine of atonement for original sin, it certainly was. A deep psychological need for atonement may have  roots in the “pay-back” customs found in primitive societies, whereby ritual retribution for real or imaginary wrongs was mandatory upon the family or tribe of the victim —a death for a death, an eye for an eye, etc. The payment of some form of compensation, as a means of avoidance of the physical injury demanded by the “payback” system, is a natural evolutionary development that could have also led to the concept of atonement to appease the wrath of the gods.
 
@@ -66,3 +90,27 @@ Those reasons are enough for me. There was no possible alternative course of act
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_2/page7.html
 
 * https://en.wikipedia.org/wiki/Irenaeus
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Unbroken_Communion_with_our_Thought_Adjuster">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Unbroken Communion with our Thought Adjuster</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Adam_and_Eve">
+          <span class="pr-2">Adam and Eve</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

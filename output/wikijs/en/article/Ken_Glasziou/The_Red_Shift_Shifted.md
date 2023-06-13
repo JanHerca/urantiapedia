@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Cosmic_Reflections_Oops">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cosmic Reflections. Oops!!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “_Although your spectroscopic estimations of astronomic velocities are fairly reliable when applied to the starry realms belonging to your superuniverse and its associate superuniverses, such reckonings with reference to the realms of outer space are wholly unreliable. Spectral lines are displaced from the normal towards the violet by an approaching star; likewise these lines are displaced towards the red by a receding star. Many influences interpose to make it appear that the recessional velocity of the external universes increases at the rate of more than one hundred miles a second for every million light-years increase in distance. By this method of reckoning, subsequent to the perfection of more powerful telescopes, it will appear that these far-distant systems are in flight from this part of the universe at the unbelievable rate of more than thirty thousand miles a second. But this apparent speed of recession is not real; it results from numerous factors of error embracing angles of observation and other time-space distortions._” ([UB 12:4.14](/en/The_Urantia_Book/12#p4_14))
 
@@ -70,3 +91,25 @@ Of interest is the fact that the authors of the Urantia Paper have taken, for th
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_2/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Cosmic_Reflections_Oops">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cosmic Reflections. Oops!!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

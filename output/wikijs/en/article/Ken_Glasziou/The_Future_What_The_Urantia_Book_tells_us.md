@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Space_and_Time_and_Seven_Dimensions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Space and Time and Seven Dimensions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Continental_Drift_The_Gardner_critique_demolished">
+          <span class="pr-2">Continental Drift. The Gardner Critique Demolished</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Coming up to five decades ago, the Urantia Papers were published in book form. What do we have to show for it?
 
@@ -61,3 +85,28 @@ Jesus was also forthright when necessary. As a result, five thousand became five
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page14.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Space_and_Time_and_Seven_Dimensions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Space and Time and Seven Dimensions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Continental_Drift_The_Gardner_critique_demolished">
+          <span class="pr-2">Continental Drift. The Gardner Critique Demolished</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

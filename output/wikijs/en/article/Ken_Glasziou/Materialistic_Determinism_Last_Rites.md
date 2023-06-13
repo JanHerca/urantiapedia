@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Why_is_The_Urantia_Books_Life_of_Jesus_so_important">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Why is The Urantia Book's “Life of Jesus” so Important?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Spontaneity_Unpredictability_and_The_Urantia_Book">
+          <span class="pr-2">Spontaneity, Unpredictability and The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The combined philosophies of materialism and determinism have dominated thinking in the Western world for many centuries. Put simply, materialism claims that matter is all there is and determinism claims that all matter obeys cause-effect relationships. Logically there is no room for free will or purpose in such a philosophy thus promoting an automatic tendency to godlessness
 
@@ -51,3 +75,28 @@ Indeed we are fortunate to live in these exciting times in which our world can h
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_5/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Why_is_The_Urantia_Books_Life_of_Jesus_so_important">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Why is The Urantia Book's “Life of Jesus” so Important?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Spontaneity_Unpredictability_and_The_Urantia_Book">
+          <span class="pr-2">Spontaneity, Unpredictability and The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

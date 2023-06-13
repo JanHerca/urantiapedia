@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/JER_Squires/The_Magic_of_the_Placebo">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Magic of the Placebo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Paradigms_for_a_New_Religion">
+          <span class="pr-2">Paradigms for a New Religion. Unitarianism—a Lesson in Tolerance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “. . . the spiritual experience (having realized God) demands that man find him and sincerely strive to be like him.” ([UB 5:5.1](/en/The_Urantia_Book/5#p5_1))
 
@@ -55,3 +79,28 @@ Perhaps also, it is whenever a worldly experience brings forth a “thank you, G
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_5/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/JER_Squires/The_Magic_of_the_Placebo">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Magic of the Placebo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Paradigms_for_a_New_Religion">
+          <span class="pr-2">Paradigms for a New Religion. Unitarianism—a Lesson in Tolerance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

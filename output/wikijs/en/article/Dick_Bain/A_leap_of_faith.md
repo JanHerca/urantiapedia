@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Dick Bain<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Tarichea">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tarichea</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Those_Christians">
+          <span class="pr-2">Those Christians</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 How was it that at the ripe old age of 16 I found myself debating myself about the existence of God? Perhaps because no one tried to indoctrinate me with their theology—thank goodness. But I occasionally had some incentive (read crisis) that motivated me to seek some help from a higher power. It occurred to me on one of these occasions that I wasn’t sure if I believed in such a being. How could I pray to someone in whom I didn’t believe? After a long internal dialogue, I decided that it was more logical (and much more comforting) to believe in a created universe than in a universe that always existed. Therefore, a creator existed. Yes, I did have to justify my decision with feeble logic, nevertheless it was for me a leap of faith.
 
@@ -48,3 +72,28 @@ My journey with _The Urantia Book_ started with curiosity, moved through a leap 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_6/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Tarichea">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tarichea</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Those_Christians">
+          <span class="pr-2">Those Christians</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

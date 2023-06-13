@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sydney_Harris/Jesus_would_not_appeal_to_the_Moral_Majority">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesus would not appeal to the Moral Majority</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Science_and_Historical_Content_of_The_Urantia_Book">
+          <span class="pr-2">The Science and Historical Content of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “Morality can never be advanced by law or by force. It is a personal and freewill matter and must be disseminated by the contagion of the contact of morally fragrant persons with those who are less morally responsive, but who are also in some measure desirous of doing the Father’s will.” ([UB 16:7.9](/en/The_Urantia_Book/16#p7_9))
 
@@ -40,3 +64,28 @@ Could it be that a major intention of the revelators in providing us with the Fi
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_6/page5.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sydney_Harris/Jesus_would_not_appeal_to_the_Moral_Majority">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jesus would not appeal to the Moral Majority</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Science_and_Historical_Content_of_The_Urantia_Book">
+          <span class="pr-2">The Science and Historical Content of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

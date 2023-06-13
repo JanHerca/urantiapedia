@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:12:18Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Matt Neibaur<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Answers_from_The_Urantia_Book">
+          <span class="pr-2">Answers from The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 At the conclusion of the Foreword to _The Urantia Book_, the Revelators tell us that more than 1000 of the highest human concepts have been collated in producing the first part of the book and, for Part 4, thought gems and superior concepts have been assembled from more than 2000 human beings who lived on Earth from the days of Jesus down to the time of editing these revelations—more correctly restatements.
 
@@ -48,3 +69,25 @@ Matt Neibaur adds as follows:
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page5.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Answers_from_The_Urantia_Book">
+          <span class="pr-2">Answers from The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

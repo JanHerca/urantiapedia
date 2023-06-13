@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jacques_Tetrault/Nouveau_Assertiveness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nouveau-Assertiveness</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/DEFRAG">
+          <span class="pr-2">DEFRAG</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 __Cognitive dissonance is a state of mental confusion/conflict caused by having inconsistency between values and behavior.__
 
@@ -95,3 +119,27 @@ And although I will be disappointed in myself if I get cognitive dissonance and 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page3.html
 
 * Cognitive dissonance: https://en.wikipedia.org/wiki/Cognitive_dissonance
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jacques_Tetrault/Nouveau_Assertiveness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nouveau-Assertiveness</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/DEFRAG">
+          <span class="pr-2">DEFRAG</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

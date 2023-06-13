@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Secrets_of_Jesus_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Secrets of Jesus Spirituality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/How_Grows_the_Soul_By_Decision_making">
+          <span class="pr-2">How Grows the Soul? By Decision-making</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Spirituality can be “felt” within. It cannot be defined. What spirituality is, what spirituality means, the spiritual value or content of any thought, words, or action, all of these must grow upon us as we consume and digest what is revealed to us about spirituality. Patience, and familiarity with the Urantia Papers’ content are keys to understanding spirituality.
 
@@ -83,3 +107,28 @@ In an article in the previous issue of Innerface we explored quotations from the
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_2/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Secrets_of_Jesus_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Secrets of Jesus Spirituality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/How_Grows_the_Soul_By_Decision_making">
+          <span class="pr-2">How Grows the Soul? By Decision-making</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

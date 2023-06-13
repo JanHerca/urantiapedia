@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Heart_that_Became_Loveless">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Heart that became Loveless</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/High_on_Angels">
+          <span class="pr-2">High on Angels</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jesus called everyone “friend” for he was in no doubt that indeed he was just that. Whether he had a friendship with the person was their decision, and their decision alone. To exist, the friendship was 100% dependent upon the person regarding Jesus as a friend and choosing to also be a friend to him.
 
@@ -91,3 +115,28 @@ _Jealousy: a spiritual poison which attacks and destroys the heart!_
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_3/page11.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Heart_that_Became_Loveless">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Heart that became Loveless</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/High_on_Angels">
+          <span class="pr-2">High on Angels</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Religion_of_the_Spirit_what_could_it_mean">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion of the Spirit—what could it mean?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In the not far distant future, western civilization may face a critical period in which traditional Christian religion will have experienced a collapse.
 
@@ -77,3 +98,25 @@ It is possible that the Urantia Papers were specifically designed to help humani
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_5/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Religion_of_the_Spirit_what_could_it_mean">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion of the Spirit—what could it mean?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

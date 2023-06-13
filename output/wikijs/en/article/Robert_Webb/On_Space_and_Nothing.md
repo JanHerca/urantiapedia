@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Robert Webb<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sandy_Garrick/Divine_Music">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Divine Music</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Rebuke_to_One_Friend_in_Defence_of_Another">
+          <span class="pr-2">The Rebuke to One Friend in Defence of Another</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The literal substance of Paradise is a homogeneous organization of space potency not to be found anywhere else in all the wide Universe of Universes. ([UB 11:2.9](/en/The_Urantia_Book/11#p2_9)) Space potency is pre-reality; it is the domain of the Unqualified Absolute. ([UB 42:2.3](/en/The_Urantia_Book/42#p2_3"></a>)) In Nebadon, space potency is spoken of as _absolutum_, Paradise source material neither alive nor dead ([UB 11:2.9](/en/The_Urantia_Book/11#p2_9))
 
@@ -27,3 +51,28 @@ May we say that space in the Universe is the basis for all material reality? Can
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_2/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sandy_Garrick/Divine_Music">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Divine Music</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Rebuke_to_One_Friend_in_Defence_of_Another">
+          <span class="pr-2">The Rebuke to One Friend in Defence of Another</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

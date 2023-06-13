@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Remembrance_Supper_its_Significance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Remembrance Supper—its Significance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/LeRuth_Ward_Tyau/A_letter_to_the_Editor_Communicating_with_our_Indwelling_God_Spirit">
+          <span class="pr-2">Communicating with our Indwelling God-Spirit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “_Ganid, I have absolute confidence in my heavenly Father’s overcare; I am consecrated to doing the will of my Father in heaven. I do not believe that real harm can befall me; I do not believe that my lifework can really be jeopardized by anything my enemies might wish to visit upon me, and surely we have no violence to fear from our friends. I am absolutely assured that the entire universe is friendly to me—this all-powerful truth I insist on believing with a wholehearted trust in spite of all appearances to the contrary._” ([UB 133:1.4](/en/The_Urantia_Book/133#p1_4))
 
@@ -41,3 +65,28 @@ Attitudes thus make all the difference. Jesus never perceived the apparent hosti
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page12.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Remembrance_Supper_its_Significance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Remembrance Supper—its Significance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/LeRuth_Ward_Tyau/A_letter_to_the_Editor_Communicating_with_our_Indwelling_God_Spirit">
+          <span class="pr-2">Communicating with our Indwelling God-Spirit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

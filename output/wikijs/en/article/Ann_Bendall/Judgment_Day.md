@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ann Bendall<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Concepts_of_the_Absolute">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Concepts of the Absolute</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Twinkle__Twinkle">
+          <span class="pr-2">Twinkle, Twinkle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 What a relief to discover that I will not be present at the proceedings which decide whether I survive or not. Prior to reading The Urantia Book, I believed that a dreadful ordeal awaited my death, and the life hereafter appeared to be going to commence with a terrifying process whereby I would be summoned before the judges who were faced with three choices - hell, purgatory or heaven. Admittedly, I already knew the decision, purgatory was definitely going to be my next abode. By a simple process of deduction, despite my many sins I had the utmost of faith in God being a tolerant-of-imbeciles type of parent and was convinced that He would give me a fair go because most of my sins were due to not discovering that my actions fell into that category until a post hoc analysis was undertaken. Heaven was definitely out, for I had no illusions about my status on the perfection score and Heaven was the place for perfect people who knew how to do perfect things all day every day.
 
@@ -56,3 +80,28 @@ And so as I ignorantly trip my way through the Paradise ascent I prepare myself 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Concepts_of_the_Absolute">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Concepts of the Absolute</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Twinkle__Twinkle">
+          <span class="pr-2">Twinkle, Twinkle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

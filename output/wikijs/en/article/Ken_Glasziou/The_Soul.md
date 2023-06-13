@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bob_Slagle/Democratic_Parenting_The_Importance_of_Family_and_the_Family_Council">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Democratic Parenting: The Importance of the Family and Family Council</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Power_of_an_Idea">
+          <span class="pr-2">The Power of an Idea</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 - The soul is the self-reflective, truth-discerning, and spirit-perceiving part of us which forever elevates the human being above the level of the animal world.
 - Self-consciousness is not the soul.
@@ -28,3 +52,27 @@ Source: _The Urantia Book_, [UB 133:6.5-7](/en/The_Urantia_Book/133#p6_5)
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_6/page7.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bob_Slagle/Democratic_Parenting_The_Importance_of_Family_and_the_Family_Council">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Democratic Parenting: The Importance of the Family and Family Council</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Power_of_an_Idea">
+          <span class="pr-2">The Power of an Idea</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

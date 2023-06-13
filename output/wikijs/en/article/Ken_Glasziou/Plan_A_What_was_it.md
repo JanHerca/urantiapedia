@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Another_and_Greater_John_the_Baptist">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Another and Greater John the Baptist!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Origins_of_Andon_and_Fonta">
+          <span class="pr-2">Science and The Urantia Book. Origins of Andon and Fonta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 According to _The Urantia Book_, when Jesus gave us the _Fourth Epochal Revelation_ he was projecting a plan for a new age. Yes, it really does say that - __a plan for a new age!__ ([UB 141:7.15](/en/The_Urantia_Book/141#p7_15)) Since this new age has yet to arrive, it may be presumed that the Master's instructions are still current. What was the plan? It was given to those whom he asked to be teachers of the gospel of the kingdom. ([UB 141:7.6-7](/en/The_Urantia_Book/141#p7_6)) It had few instructions, the first being: “_their only business was to __reveal God to the individual as his Father__—to lead this individual to become son-conscious—then to present this same man to God as his faith son._” ([UB 141:7.4](/en/The_Urantia_Book/141#p7_4))
 
@@ -37,3 +61,27 @@ A corollary to this statement is that __if we implement Plan A, Plan B (the book
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page13.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Another_and_Greater_John_the_Baptist">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Another and Greater John the Baptist!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Origins_of_Andon_and_Fonta">
+          <span class="pr-2">Science and The Urantia Book. Origins of Andon and Fonta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

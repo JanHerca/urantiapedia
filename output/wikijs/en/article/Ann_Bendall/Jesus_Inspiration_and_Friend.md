@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T02:19:42.812Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Ann Bendall<br>© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Building_upon_the_Quaker_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Building on the Quaker Experience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In some perspectives of Jesus’ life I consider him to be a model rather than an inspiration, and this is predominantly in relation to his life experiences.
 
@@ -69,3 +90,25 @@ And yet he lived a life of joy! He never summated his experiences, or viewed him
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_3/page13.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Building_upon_the_Quaker_experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Building on the Quaker Experience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

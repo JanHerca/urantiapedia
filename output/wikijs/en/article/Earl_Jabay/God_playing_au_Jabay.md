@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Earl Jabay<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Fatherly_and_Brotherly_Love">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fatherly and Brotherly Love</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jesus_ignored_the_great_men_of_earth">
+          <span class="pr-2">Jesus explained that he had purposely ignored the great men of Earth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 An understanding of the term “God-playing” as used by Rev’d Earl Jabay in his book “The Kingdom of Self” may be helpful to all of us in our efforts to fulfil the hopes of Jesus as announced in the Urantia Papers by their authors.
 
@@ -67,3 +91,28 @@ We now have a full and unsullied record of that life and death. What are we goin
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_4/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Fatherly_and_Brotherly_Love">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fatherly and Brotherly Love</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jesus_ignored_the_great_men_of_earth">
+          <span class="pr-2">Jesus explained that he had purposely ignored the great men of Earth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

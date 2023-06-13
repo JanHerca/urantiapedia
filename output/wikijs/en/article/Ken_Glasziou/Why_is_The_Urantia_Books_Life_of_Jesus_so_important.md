@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Belief_is_Reasonable">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Belief is Reasonable</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Materialistic_Determinism_Last_Rites">
+          <span class="pr-2">Materialistic Determinism—Last Rites</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > If the faith of the creature were perfect, he would assuredly know that when he had seen a Creator Son he had seen the Universal Father; in seeking for the Father, he would not ask nor expect to see other than the Son. Mortal man simply cannot see God until he achieves completed spirit transformation and actually attains Paradise. ([UB 1:5.5](/en/The_Urantia_Book/1#p5_5))
 
@@ -31,3 +55,28 @@ dateCreated: 2022-9-9T8:13:39Z
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_5/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Belief_is_Reasonable">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Belief is Reasonable</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Materialistic_Determinism_Last_Rites">
+          <span class="pr-2">Materialistic Determinism—Last Rites</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

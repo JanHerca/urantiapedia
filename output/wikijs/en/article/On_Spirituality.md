@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Errors_in_the_Science_of_the_Urantia_Papers">
+          <span class="pr-2">Errors in the Science of the Urantia Papers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Spirituality becomes at once the indicator of one’s nearness to God and the measure of one’s usefulness to fellow beings. Spirituality enhances the ability to discover beauty in things, recognize truth in meanings, and discover goodness in values. Spiritual development is determined by capacity therefore and is directly proportional to the elimination of the selfish qualities of love.
 > 
@@ -26,3 +47,25 @@ dateCreated: 2022-9-9T8:13:39Z
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_3/page2.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Errors_in_the_Science_of_the_Urantia_Papers">
+          <span class="pr-2">Errors in the Science of the Urantia Papers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:12:18Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ann Bendall<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Comprehending_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Comprehending the Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Religion_is_a_Naughty_Word">
+          <span class="pr-2">“Religion” is a Naughty Word?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The only possible gift of true value to God is our free will. ([UB 1:1.2](/en/The_Urantia_Book/1#p1_2)) God asks that we align our will to his. But we cannot give him our will or let him take over, which would be a delightfully simple process—if it were possible. Instead God asks that we become real to the universe by aligning our will to his, that is by striving to choose that which is godlike in each decision we make. And so—decisions, decisions, decisions and more decisions are required from us.
 
@@ -70,3 +94,28 @@ Incredibly so! In _The Urantia Book_ there are a number of classic exemplars of 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page5.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Comprehending_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Comprehending the Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Religion_is_a_Naughty_Word">
+          <span class="pr-2">“Religion” is a Naughty Word?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

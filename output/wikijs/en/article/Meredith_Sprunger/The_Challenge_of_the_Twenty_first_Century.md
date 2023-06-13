@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Meredith Sprunger<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Favorite_Places_On_Prayer_and_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Prayer and Faith</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Scandal_of_Current_Spiritual_Cosmology">
+          <span class="pr-2">The Scandal of Current Spiritual Cosmology</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 We are living in one of the major turning points of history. Our times have been labelled variously as the post-industrial, post-modern, and post-Christian era. The traditional paradigms of cosmology, value, and reality have lost their unquestioned relevance and authority among contemporary people. The social institutions which were structured by these traditional concepts and values are deteriorating in vitality and influence. The economic and political infrastructures of society are breaking down and losing their credibility and effectiveness. The mores that have been the foundation of human behavior and ethical standards in society are crumbling and immorality, crime, and violence are endemic. Religious institutions that were once the central pillars of society are now relegated to a peripheral position.
 
@@ -29,3 +53,28 @@ The singular ingredient which will bring meaning and unity into planetary existe
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_3/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Favorite_Places_On_Prayer_and_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Prayer and Faith</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Scandal_of_Current_Spiritual_Cosmology">
+          <span class="pr-2">The Scandal of Current Spiritual Cosmology</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

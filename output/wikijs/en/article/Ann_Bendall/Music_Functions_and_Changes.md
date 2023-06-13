@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Who_was_Rodan">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Who was Rodan?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sue_Tennant/The_Urantia_Book_Why_are_its_readers_challenged">
+          <span class="pr-2">The Urantia Book: Why are its readers challenged with over 2000 pages of profuse facts and prodigious names???</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 One art form which has changed dramatically over the past 100 years, not necessarily in its production but most certainly in its appreciation, is music. Up until the twentieth century the amount of time spent listening to music was negligible. Only the wealthy could afford the luxury of music. The rest of civilization planned their music carefully, and looked forward to the wedding, death or the few festive occasions during the year to enjoy it.
 
@@ -54,3 +78,28 @@ Music may go unnoticed to our conscious ear, but never to our emotions and uncon
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_6/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Who_was_Rodan">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Who was Rodan?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sue_Tennant/The_Urantia_Book_Why_are_its_readers_challenged">
+          <span class="pr-2">The Urantia Book: Why are its readers challenged with over 2000 pages of profuse facts and prodigious names???</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

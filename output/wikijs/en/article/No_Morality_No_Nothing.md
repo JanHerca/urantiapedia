@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Where_Jesus_Leads_">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Where Jesus Leads</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Paper_140_The_Ordination_Is_it_Important">
+          <span class="pr-2">Paper 140. The Ordination—Is it Important?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “Morality is the essential pre-existent soil of personal God-consciousness, the personal realization of the Adjuster’s inner presence, but such morality is not the source of religious experience and the resultant spiritual insight. The moral nature is superanimal but subspiritual. Morality is equivalent to the recognition of duty, the realization of the existence of right and wrong. The moral zone intervenes between the animal and the human types of mind as morontia functions between the material and the spiritual spheres of personality attainment.” ([UB 196:3.25](/en/The_Urantia_Book/196#p3_25))
 
@@ -47,3 +71,28 @@ Repentance sometimes requires more than just a “sorry God.” We will know whe
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_1/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Where_Jesus_Leads_">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Where Jesus Leads</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Paper_140_The_Ordination_Is_it_Important">
+          <span class="pr-2">Paper 140. The Ordination—Is it Important?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

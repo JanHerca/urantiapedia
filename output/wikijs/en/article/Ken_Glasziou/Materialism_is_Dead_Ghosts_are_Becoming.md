@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/What_Was_Jesus_Like">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What was Jesus Like?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Materialist-determinist thinking traces back at least to David Hume (d. 1776) from whom came the paradigm that a proposal made sense only if it could be verified by empirical means. Pierre La Place (d. 1827) added that if the position and motion of all atoms could be known at one time, everything in the future could be predicted.
 
@@ -37,3 +58,25 @@ Guess what. People are now trying to use the ghost-image of the real cobalt atom
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_1/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/What_Was_Jesus_Like">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What was Jesus Like?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

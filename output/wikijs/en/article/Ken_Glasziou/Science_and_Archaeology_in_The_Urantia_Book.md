@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Q_P_Quid/Here_and_There">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Here and There</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Matthew_Block/Science_and_Archaeology_in_the_Urantia_Papers">
+          <span class="pr-2">Matthew Block's Vision on Urantia Book Science and Archaeology</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Recently I’ve been occupied in revising part of a publication entitled “The Science Content of _The Urantia Book_” by R. Bain, M. Neibaur, F. Wright & myself. Draft copies of the revision text were sent to a number of Urantia Book readers for comment, and the question was posed as to whether observations upon the wealth of archaeological information contained in Part 4 of the Papers should be included. In part, the reason for the inclusion was the Martin Gardner hypothesis that Dr Sadler and associates were the real authors of the Urantia Papers.
 
@@ -18,3 +42,28 @@ Part 4 of _The Urantia Book_ contains literally hundreds of historical and archa
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_3/page6.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Q_P_Quid/Here_and_There">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Here and There</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Matthew_Block/Science_and_Archaeology_in_the_Urantia_Papers">
+          <span class="pr-2">Matthew Block's Vision on Urantia Book Science and Archaeology</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

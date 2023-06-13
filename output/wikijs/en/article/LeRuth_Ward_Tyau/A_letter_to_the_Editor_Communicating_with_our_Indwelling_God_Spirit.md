@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Le'Ruth Ward Tyau<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Universe_is_Friendly">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Universe is Friendly?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 What follows is part of a letter to the editor from Le’Ruth Ward Tyau, a reader living in Hawaii who tried out the revelators’ recommended method for improving contact with our Thought Adjusters. The method was discussed in the January/February Innerface in an article entitled, “On Worship.” Le’Ruth discovered a variation of the method that, for many, would probably be a great help. She wrote:
 
@@ -57,3 +78,25 @@ Le’Ruth Ward Tyau
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Universe_is_Friendly">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Universe is Friendly?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

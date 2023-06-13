@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jesus_Discourse_on_True_Religion">
+          <span class="pr-2">Jesus' Discourse on Religion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 At the time of the “Feeding of the five thousand,” Jesus’ fame as a healer and miracle worker had caused a major section of the Jewish nation to be ready to rise and follow him to death or glory as their Messiah—the one who would drive out the Romans and restore David’s fabled kingdom, centered in Jerusalem.
 
@@ -72,3 +93,25 @@ The revelators also express the additional hope that their revelation will initi
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_5/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jesus_Discourse_on_True_Religion">
+          <span class="pr-2">Jesus' Discourse on Religion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

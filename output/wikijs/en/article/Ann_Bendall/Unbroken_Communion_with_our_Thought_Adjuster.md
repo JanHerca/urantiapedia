@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Alpha_and_the_Omega">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Alpha and the Omega</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Was_the_Crucifixion_Really_Necessary">
+          <span class="pr-2">Was the Crucifixion really Necessary?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 This really does not appear an overly complicated process; actually it is surprisingly simple as long as I decide right here and now to revert to about the level of a five year old child—an average, ordinary, five year old child, the perfect model for me to follow being—the child named, “Jesus.” Emmanuel stated to Michael that he should only be concerned with **unbroken communion between you and your Paradise Father** while living as Jesus on Urantia. [UB 120:1.4](/en/The_Urantia_Book/120#p1_4) If it was good enough for my model of perfection it is good enough for me!
 
@@ -66,3 +90,27 @@ Help and guide me to dominate me, transform me, so that I can make the home of m
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_2/page5.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Alpha_and_the_Omega">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Alpha and the Omega</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Was_the_Crucifixion_Really_Necessary">
+          <span class="pr-2">Was the Crucifixion really Necessary?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

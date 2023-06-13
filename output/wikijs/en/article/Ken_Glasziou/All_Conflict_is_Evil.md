@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Rodan_on_The_Personality_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rodan on the Personality of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Red_Alert">
+          <span class="pr-2">Red Alert</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Since we printed this clause as a quotation from _The Urantia Book_ in the final 1997 issue of Innerface with a full stop (period) after the word “evil,” we have had several reprimands of varying degrees of intensity. So our apology for that editorial error.
 
@@ -61,3 +85,28 @@ Editors
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_3/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Rodan_on_The_Personality_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rodan on the Personality of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Red_Alert">
+          <span class="pr-2">Red Alert</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

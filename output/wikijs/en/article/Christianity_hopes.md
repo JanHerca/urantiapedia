@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Worship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Christianitys_challenge">
+          <span class="pr-2">Christianity's challenge</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions! Surely the Christian fellowship of believers will not hesitate to make such adjustments of faith and of practices of living as will enable it to “follow after” the Master in the demonstration of his real life of religious devotion to the doing of his Father's will and of consecration to the unselfish service of man.
 
@@ -37,3 +61,27 @@ Christianity has indeed done a great service for this world, but what is now mos
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page14.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Worship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Christianitys_challenge">
+          <span class="pr-2">Christianity's challenge</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

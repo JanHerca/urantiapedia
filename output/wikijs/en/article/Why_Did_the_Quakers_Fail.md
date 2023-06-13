@@ -9,6 +9,30 @@ dateCreated: 2022-09-27T01:26:18.156Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Errors_in_the_Science_of_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Errors in the Science of the Urantia Papers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Building_upon_the_Quaker_experience">
+          <span class="pr-2">Building on the Quaker Experience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The Quaker movement was founded 350 years ago. It had striking similarities with the principal teachings of the Urantia Papers. An offshoot of Christianity, the Quakers were dedicated to living in accordance with the “Inward Light,” meaning a direct inward apprehension of the God-Within—our Thought Adjuster. They operated without creeds, clergy, or other ecclesiastical bodies. Their founding leaders believed that this experimental approach to the discovery of God would eventually lead to the purification of all of Christendom.
 
@@ -95,3 +119,28 @@ In a nutshell, the Quaker movement fell apart because it promoted secular issues
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_3/page8.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Errors_in_the_Science_of_the_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Errors in the Science of the Urantia Papers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Building_upon_the_Quaker_experience">
+          <span class="pr-2">Building on the Quaker Experience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

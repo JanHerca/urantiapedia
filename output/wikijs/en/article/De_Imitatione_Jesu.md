@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Was_the_Big_Bang_Really_Real">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Was the Big Bang Really Real?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jesus’ religion was a religion of the spirit. He saw God as being holy, just, great, true, beautiful, and good, and these attributes of divinity, he saw as being the will of God for him. ([UB 196:0.2](/en/The_Urantia_Book/196#p0_2)) Thus his life was lived in a spiritual mode, meaning in dedication to ideals having spiritual value in contrast to things, events and occasions the value for which is confined to the material, finite world. The quotations that follow are illustrative of Jesus’ way of living.
 
@@ -86,3 +107,25 @@ Possibly the best model available to us of a group of dedicated people, united i
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_4/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Was_the_Big_Bang_Really_Real">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Was the Big Bang Really Real?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

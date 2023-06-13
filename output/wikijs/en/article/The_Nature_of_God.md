@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Personality_and_Communication">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personality and Communication</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Angona_Nemesis_and_the_Solar_System">
+          <span class="pr-2">Angona, Nemesis, and the Solar System</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Concepts such as the changelessness of God, his perfection, righteousness, justice, mercy, love and forgiveness have always ended in confusion when finite mortal beings attempt to tie them down to meaningful definitions. Theologians, in particular, have made the primal mistake of believing in their own ability to precisely state what God is or is not, or what God can or cannot do.
 
@@ -80,3 +104,28 @@ However we are never alone: “That fragment of the pure Deity of the Universal 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_4/page6.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Personality_and_Communication">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personality and Communication</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Angona_Nemesis_and_the_Solar_System">
+          <span class="pr-2">Angona, Nemesis, and the Solar System</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

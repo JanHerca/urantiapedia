@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Is_an_Alternative_to_the_Big_Bang_a_Possibilty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Is an Alternative to the Big Bang a Possibility?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Life_on_Planet_Earth">
+          <span class="pr-2">Life on Planet Earth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 There can be no doubt that a primary task for the Urantia Papers was to provide us with an appreciation of the full meaning of “the Fatherhood of God and the brotherhood of all men” as these concepts were first presented to us by Jesus.
 
@@ -100,3 +124,28 @@ Urantians really do need to get organized in service groups if the “through th
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_6/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Is_an_Alternative_to_the_Big_Bang_a_Possibilty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Is an Alternative to the Big Bang a Possibility?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Life_on_Planet_Earth">
+          <span class="pr-2">Life on Planet Earth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

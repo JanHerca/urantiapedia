@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Morals_Virtue_and_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Morals, Virtue, and Personality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Patience_a_Millennium_is_1000_Years">
+          <span class="pr-2">Patience—a millennium is a 1000 years</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _While eating supper, Jesus had the talk with Matthew in which he explained that ***the morality of any act is determined by the individual’s motive***. Jesus’ morality was always positive. The golden rule as restated by Jesus demands active social contact; the older negative rule could be obeyed in isolation. Jesus stripped morality of all rules and ceremonies and elevated it to majestic levels of spiritual thinking and truly righteous living._ ([UB 140:10.5](/en/The_Urantia_Book/140#p10_5))
 
@@ -45,3 +69,28 @@ Embracing “the end justifies the means” concept appears to be a dangerous pl
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_2/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Morals_Virtue_and_Personality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Morals, Virtue, and Personality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Patience_a_Millennium_is_1000_Years">
+          <span class="pr-2">Patience—a millennium is a 1000 years</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Urantia_Revelation__why_do_we_have_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Revelation. Why do we have it?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/More_on_Prayer">
+          <span class="pr-2">More on Prayer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _Mind is always creative. The mind endowment of an individual animal, mortal, morontian, spirit ascender, or finality attainer is always competent to produce a suitable and serviceable body for the living creature identity._ ([UB 42:12.9](/en/The_Urantia_Book/42#p12_9))
 
@@ -40,3 +64,28 @@ We need never reject the tasks that come our way on false grounds of our physica
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Urantia_Revelation__why_do_we_have_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Revelation. Why do we have it?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/More_on_Prayer">
+          <span class="pr-2">More on Prayer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

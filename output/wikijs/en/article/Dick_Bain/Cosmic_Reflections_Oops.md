@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Dick Bain<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Origin_of_Life_on_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Origin of Life on Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Red_Shift_Shifted">
+          <span class="pr-2">The Red Shift Shifted</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The astronomy and cosmology of _The Urantia Book_ has been a problem for many of us who care about this field of knowledge. We find it difficult to harmonize the descriptions and numbers in _The Urantia Book_ with the current concepts of our astronomers. One of my recent attempts to do so in an Innerface article [^1] has a serious flaw caused by a simple math error, as well as some typos.
 
@@ -45,6 +69,31 @@ When the universe is in the expansion phase of the space respiration cycle, the 
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_2/page11.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Origin_of_Life_on_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Origin of Life on Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Red_Shift_Shifted">
+          <span class="pr-2">The Red Shift Shifted</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

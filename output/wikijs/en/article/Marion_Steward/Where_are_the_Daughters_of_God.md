@@ -8,7 +8,31 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Author: **Marion Steward**
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 © Marion Steward<br>1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Forbid_him_not">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“Forbid him not!”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/John_C_Hyde/The_Hidden_Messages_in_The_Urantia_Book___Art">
+          <span class="pr-2">The Hidden Messages in The Urantia Book — Art</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 [Presented at the Australian & New Zealand Conference of Urantia Book readers, Sydney,1997]
 
@@ -77,3 +101,27 @@ Where, then, are the Daughters of God? They are everywhere—the spirit beings c
 ## External links
 
 * This article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_1/page3.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Forbid_him_not">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“Forbid him not!”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/John_C_Hyde/The_Hidden_Messages_in_The_Urantia_Book___Art">
+          <span class="pr-2">The Hidden Messages in The Urantia Book — Art</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

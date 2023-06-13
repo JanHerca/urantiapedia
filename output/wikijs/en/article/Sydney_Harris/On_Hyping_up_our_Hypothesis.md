@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Sydney Harris<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Religion_is_a_Naughty_Word">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“Religion” is a Naughty Word?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Death_of_Joseph">
+          <span class="pr-2">The Death of Joseph</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 There are those who look for truth and those who look for vindication. Those who only seek evidence to bolster or justify their position, and those who scrupulously search for all the evidence, for and against.
 
@@ -32,3 +56,28 @@ The human capacity to process new facts so that they agree with our prior conclu
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Religion_is_a_Naughty_Word">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“Religion” is a Naughty Word?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Death_of_Joseph">
+          <span class="pr-2">The Death of Joseph</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

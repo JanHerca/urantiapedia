@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Fatherly_and_Brotherly_Love">
+          <span class="pr-2">Fatherly and Brotherly Love</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > This was his method of instruction: Never once did he attack their errors or even mention the flaws in their teachings. In each case he would select the truth in what they taught and then proceed so to embellish and illuminate this truth in their minds that in a very short time this enhancement of the truth effectively crowded out the associated error; ([UB 132:0.4](/en/The_Urantia_Book/132#p0_4))
 
@@ -43,3 +64,25 @@ And it behooves the Master’s followers in all ages to learn to minister as “
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_4/page2.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Fatherly_and_Brotherly_Love">
+          <span class="pr-2">Fatherly and Brotherly Love</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

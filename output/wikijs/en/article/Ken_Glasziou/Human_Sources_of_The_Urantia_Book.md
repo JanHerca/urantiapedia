@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Learning_About_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Learning about God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In our previous issue, we discussed an article written by Dr G. Gamow in 1942 entitled _Neutrinos VS Supernovae_ that was published in that year’s January issue of the journal, _The Scientific Monthly_. This article had been identified by Matthew Block as being one of the sources for statements in _The Urantia Book_ about the collapse of aging stars. Also mentioned was a long-suppressed document in which Dr Sadler noted that additions and alterations had been made to the Urantia Papers during the period, 1935 to 1942.
 
@@ -67,3 +88,25 @@ As a point of interest, Yukawa’s “mesotron,” the one described in _The Ura
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_3/page16.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Learning_About_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Learning about God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

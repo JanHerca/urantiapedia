@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall B.A., Dip. Psyche<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Everett_Sloffer/Insights">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Percepciones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Further_Comments_on_Channeling">
+          <span class="pr-2">Más comentarios sobre la canalización</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 La necesidad de que los niños establezcan patrones de conducta aceptables es indiscutible. La manera en que se logra es fundamental para el bienestar del niño. *El Libro de Urantia* explica el método de la «reunión familiar» que Jesús utilizó con su familia, que es una técnica excelente, actualmente fomentada como uno de los mejores métodos de disciplina familiar por parte de los psicólogos. Sin embargo, para que cualquier método sea efectivo (incluido golpear al niño en la cabeza con un martillo para enseñarle a no ser cruel), **son fundamentales cuatro elementos**:
 * Valores y creencias realistas sobre lo que es una persona, un niño y un padre.
@@ -67,6 +91,31 @@ Los padres deben dedicar tiempo a acumular un «almacén de buena voluntad» con
 ## Enlaces externos
 
 * Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_1/page5.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Everett_Sloffer/Insights">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Percepciones</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_innerface#volumen-1-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1 - No. 1 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Meredith_Sprunger/Further_Comments_on_Channeling">
+          <span class="pr-2">Más comentarios sobre la canalización</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Referencias
 

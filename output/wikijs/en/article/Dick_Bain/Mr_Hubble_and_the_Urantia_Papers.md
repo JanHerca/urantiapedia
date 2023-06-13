@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Dick Bain<br>© 2001 The Brotherhood of Man Library<br>© 2020 Jan Herca, addition of notes and quotes</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Are_You_a_Truth_Seeker">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Are You a Truth-Seeker?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/What_Was_Jesus_Like">
+          <span class="pr-2">What was Jesus Like?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Blame it all on Henrietta Leavitt. If it hadn't been for her, Edwin Hubble might never have discovered that the universe is flying apart due to an event that would later be known as the “Big Bang.” Ms. Leavitt, while studying Cepheid variable stars in the Small Magellanic Cloud in 1912, discovered that the luminosity or brightness of these variable stars is directly related to the time required for the star to go from maximum to minimum brightness or luminosity. It's unfortunate that this brilliant woman astronomer hasn't received more credit for her work.
 
@@ -80,6 +104,31 @@ It appears to me that the authors intentionally created a mystery for us. I thin
 * «Hubble’s Contentious Constant», NASA publication, sept. 2017. https://science.nasa.gov/science-news/news-articles/hubbles-contentious-constant-news
 
 * Francisco R. Villatoro, «The Hubble constant problem», june 2017.  https://francis.naukas.com/2017/06/12/el-problema-de-la-constante-de-hubble/
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Are_You_a_Truth_Seeker">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Are You a Truth-Seeker?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/What_Was_Jesus_Like">
+          <span class="pr-2">What was Jesus Like?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/On_Prayer_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Prayer</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Urantia_Papers_on_Finite_Reality">
+          <span class="pr-2">The Urantia Papers on Finite Reality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “Religious peace—brotherhood—can never exist unless all religions are willing to completely divest themselves of all ecclesiastical authority and fully surrender all concept of spiritual sovereignty. **God alone is spirit sovereign.**” ([UB 134:4.4](/en/The_Urantia_Book/134#p4_4))
 
@@ -45,3 +69,28 @@ On reaching the mansion worlds, a surprise may be in store. Many of these ignora
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_3/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/On_Prayer_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Prayer</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Urantia_Papers_on_Finite_Reality">
+          <span class="pr-2">The Urantia Papers on Finite Reality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

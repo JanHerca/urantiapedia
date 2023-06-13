@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/No_Morality_No_Nothing">
+          <span class="pr-2">No Morality, No Nothing</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “Jesus led men to feel at home in the world; he delivered them from the slavery of taboo and taught them that the world was not fundamentally evil. He did not long to escape from his earthly life; he mastered a technique of acceptably doing the Father’s will while in the flesh. He attained an idealistic religious life in the very midst of a realistic world. Jesus did not share Paul’s pessimistic view of humankind. The Master looked upon men as the sons of God and foresaw a magnificent and eternal future for those who chose survival. He was not a moral skeptic; he viewed man positively, not negatively. He saw most men as weak rather than wicked, more distraught than depraved. But no matter what their status, they were all God’s children and his brethren.”
 > 
@@ -21,3 +42,25 @@ dateCreated: 2022-9-9T8:13:39Z
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_1/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/No_Morality_No_Nothing">
+          <span class="pr-2">No Morality, No Nothing</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Truth_What_is_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Truth! What is Truth?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/On_Free_Will_2">
+          <span class="pr-2">On Free Will</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 It would be quite strange if all readers interpreted our “Favorite Places” article in the same way. However, many who have considered the content of those passages have come to appreciate _The Urantia Book_ in a new light—one in which the spiritual content of its text is viewed quite apart from those segments of the text that are more relevant to the secular world.
 
@@ -40,3 +64,28 @@ Looked upon in this light, the revelators have accomplished their assignment mag
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Truth_What_is_Truth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Truth! What is Truth?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/On_Free_Will_2">
+          <span class="pr-2">On Free Will</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

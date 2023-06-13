@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T08:20:29.592Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Shroud_of_Turin__An_Update">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Shroud of Turin—An Update</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/On_Becoming_More_Spiritual_Living_as_Jesus_Lived">
+          <span class="pr-2">On Becoming More Spiritual—Living as Jesus Lived</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Apparently commencing among German theologians and philosophers in the 19th century, a movement that questions every aspect of biblical historicity and authenticity has slowly gained vigor and now appears to have entered upon an exponential growth phase.
 
@@ -64,3 +88,28 @@ Did we fail to take up that challenge by getting bogged down in things secular w
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_5/page6.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Shroud_of_Turin__An_Update">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Shroud of Turin—An Update</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/On_Becoming_More_Spiritual_Living_as_Jesus_Lived">
+          <span class="pr-2">On Becoming More Spiritual—Living as Jesus Lived</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

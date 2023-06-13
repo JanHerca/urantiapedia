@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Is_God_a_Possibility">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Is God a Possibility?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/On_Growing_Spiritually">
+          <span class="pr-2">On Growing Spiritually</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “But the mind that really discerns God, hears the indwelling Adjuster, is the pure mind.” ([UB 101:1.3](/en/The_Urantia_Book/101#p1_3))
 
@@ -54,3 +78,28 @@ And in conclusion:
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_6/page12.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Is_God_a_Possibility">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Is God a Possibility?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/On_Growing_Spiritually">
+          <span class="pr-2">On Growing Spiritually</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

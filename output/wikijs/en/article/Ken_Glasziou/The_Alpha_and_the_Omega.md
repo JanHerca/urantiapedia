@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Time_for_More_Change_Symbols_Cults">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Time for More Change? Symbols, Cults, and _The Urantia Book_</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Unbroken_Communion_with_our_Thought_Adjuster">
+          <span class="pr-2">Unbroken Communion with our Thought Adjuster</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Condensed from “The Road Less Travelled”. by M. Scott Peck_
 
@@ -29,3 +53,27 @@ Adam and Eve sought the easy way - to eat of the fruit that would confer unearne
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_2/page4.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Time_for_More_Change_Symbols_Cults">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Time for More Change? Symbols, Cults, and _The Urantia Book_</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Unbroken_Communion_with_our_Thought_Adjuster">
+          <span class="pr-2">Unbroken Communion with our Thought Adjuster</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

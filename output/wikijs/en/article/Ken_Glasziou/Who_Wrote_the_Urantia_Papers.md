@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Appearance_at_Sychar">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Appearance at Sychar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 This article has been published previously in a paper entitled _Science, Archaeology, and Anthropology in The Urantia Book_. Its results are given here for those who have not seen the original and also to make it available for perusal on the Fellowship’s web site.
 
@@ -107,3 +128,25 @@ Those who comprehend the full significance of these words need nothing more.
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_2/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Appearance_at_Sychar">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Appearance at Sychar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

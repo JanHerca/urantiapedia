@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Sower">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Sower</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In the hope of influencing the thinking of mainstream Christians through ideas and concepts to be found in The Urantia Book’s “Life of Jesus,” experience has, by now, indicated that this effect is only likely to be achieved if that “Life” is presented in a different form.
 
@@ -27,3 +48,25 @@ As it now stands, The Urantia Book is unlikely to contribute significantly to a 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page16.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Sower">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Sower</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

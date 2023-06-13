@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Notes_on_the_40_day_error">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Notes on the Forty Day Error</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Paul_Jaworski/Whats_at_the_Center_of_the_Earth">
+          <span class="pr-2">Cosmic Reflections. What's at the Center of the Earth?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Matter knows not truth
 
@@ -56,6 +80,31 @@ Another alternative is secondary works. Because of preceding events in the Urant
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_4/page12.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Notes_on_the_40_day_error">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Notes on the Forty Day Error</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Paul_Jaworski/Whats_at_the_Center_of_the_Earth">
+          <span class="pr-2">Cosmic Reflections. What's at the Center of the Earth?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

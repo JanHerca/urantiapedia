@@ -9,6 +9,30 @@ dateCreated: 2022-9-7T11:35:36Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Robert Crickett<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Who_Wrote_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Who Wrote The Urantia Book?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Very_Odd_Neighbors">
+          <span class="pr-2">Non-Breathers: Very Odd Neighbors</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The provision of spiritual leadership within _The Urantia Book_ context is currently challenging a number of people around the world. As it should. The context is Epochal.
 
@@ -40,3 +64,28 @@ In this manner, the Epochal casts and recasts the great faith and perseverance w
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Who_Wrote_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Who Wrote The Urantia Book?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Very_Odd_Neighbors">
+          <span class="pr-2">Non-Breathers: Very Odd Neighbors</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

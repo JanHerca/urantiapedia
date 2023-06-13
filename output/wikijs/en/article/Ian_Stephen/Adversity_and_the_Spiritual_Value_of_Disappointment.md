@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ian Stephen<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Joanne_Scheffler/Apartheid_Mandeled">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apartheid Mandeled</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_Wentworth/Its_a_Worry">
+          <span class="pr-2">It's a Worry</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The Urantia Book tells us that “Jesus talked for more than an hour to the assembled groups on, ‘The Mission of adversity and the spiritual value of dis-appointment.’” ([UB 151:0.1](/en/The_Urantia_Book/151#p0_1))
 
@@ -40,3 +64,28 @@ If my particular “adversity” had not occurred, I would never have found the 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_5/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Joanne_Scheffler/Apartheid_Mandeled">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apartheid Mandeled</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_Wentworth/Its_a_Worry">
+          <span class="pr-2">It's a Worry</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gloria_and_Ray_Colot/Do_We_Need_Another_Church">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Do We Need Another Church</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/The_Jupiter_problem">
+          <span class="pr-2">The Jupiter Problem</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 It is now 60 years since the Urantia Papers were brought to our planet and an organization developed, firstly to get the Papers published in book form, and then to generate systems to commence to spread the book throughout the world. That phase has now been achieved. In the process, a pseudo-papacy developed. Whether or not this was the intention of the revelators we cannot know. Let us presume that it was and that the initial task proceeded according to plan. Since it appears that this phase has now concluded, perhaps we are meant to prepare the way for a new phase of development. What might this new phase be?
 
@@ -44,3 +68,28 @@ Surely, then, the correcting of that primary error is the cardinal requirement f
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page16.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gloria_and_Ray_Colot/Do_We_Need_Another_Church">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Do We Need Another Church</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/The_Jupiter_problem">
+          <span class="pr-2">The Jupiter Problem</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jacques_Tetrault/Personal_Religion_A_Sign_of_the_Times">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personal Religion: A Sign of the Times</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Self_Esteem">
+          <span class="pr-2">Self Esteem</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 All around I see people from Christian organizations working in the field, succoring the needy, the unfortunate, the helpless, the oppressed—just as advocated by the Master. These are people from organizations such as the Salvation Army, St. Vincent’s de Paul, Meals on Wheels for the elderly and the invalids, the soup kitchens for those who are down and out, and a myriad of others. But I have yet to see or hear about any similar operation specifically attributable to those belonging to the Urantia movement. No doubt they exist somewhere. If you know about one, how about writing a resume for Innerface?
 
@@ -26,3 +50,28 @@ Is it time for the teachings of _The Urantia Book_ to not only become visible in
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jacques_Tetrault/Personal_Religion_A_Sign_of_the_Times">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personal Religion: A Sign of the Times</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Self_Esteem">
+          <span class="pr-2">Self Esteem</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

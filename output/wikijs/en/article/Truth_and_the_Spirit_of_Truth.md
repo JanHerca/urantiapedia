@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Paving_the_Way">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paving the Way</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Are_You_a_Truth_Seeker">
+          <span class="pr-2">Are You a Truth-Seeker?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 from [Urantia Paper 180, Sect. 5](/en/The_Urantia_Book/180#p5).
 
@@ -93,3 +117,28 @@ It certainly provides us with something to work on.
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_3/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Paving_the_Way">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paving the Way</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Are_You_a_Truth_Seeker">
+          <span class="pr-2">Are You a Truth-Seeker?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T18:06:08.036Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Miscellaneous_erroneous_material_summarized">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Miscellaneous erroneous material summarized</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Continental_Drift_1">
+          <span class="pr-2">Continental Drift</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 It cannot be doubted that these Urantia Papers sometimes meander between the sublime and the ridiculous. This becomes more comprehensible if we remind ourselves that much of the initial content constitutes the response to questions from “Forum” members who were deliberately attempting to set traps for the revelators to betray themselves. The reality of the book itself pays witness that the revelators survived this period of testing despite the limitations imposed upon them by universe rules on revelation that proscribed revealing unearned knowledge–which was in direct conflict with the determination of Forum members ‘to ask questions that no human being could answer.’
 
@@ -33,3 +57,27 @@ If the revelation did not have the purpose of providing new knowledge in fields 
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_4/page19.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Miscellaneous_erroneous_material_summarized">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Miscellaneous erroneous material summarized</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Continental_Drift_1">
+          <span class="pr-2">Continental Drift</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

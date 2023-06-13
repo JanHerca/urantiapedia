@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Dick Bain<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Matthew_Block/Attunement_Equals_Peace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Attunement Equals Peace</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Masami_Saionji/On_Seeing_Others_as_Benefactors">
+          <span class="pr-2">On Seeing Others as Benefactors</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In the book of Genesis in the Old Testament, we read of Jacob wrestling all night with a man who could be an angel or perhaps God. I have had my own wrestling match; it was with the concept of Jesus.
 
@@ -69,3 +93,28 @@ Just so, the spiritual rewards of a relationship with Michael/Jesus far outweigh
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_3/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Matthew_Block/Attunement_Equals_Peace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Attunement Equals Peace</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Masami_Saionji/On_Seeing_Others_as_Benefactors">
+          <span class="pr-2">On Seeing Others as Benefactors</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Sydney Harris<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Reflections_on_The_Dangers_of_Presumption">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflections on the Dangers of Presumption</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 What we loosely call “religion” in our society turns some people on and some people off. What I find especially interesting is that just as many good people are turned off as are turned on. It does not separate the sheep from the goats by any means.
 
@@ -39,3 +60,25 @@ This is hard, the hardest thing in the world to do. It is so hard that religion 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_1/page18.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Reflections_on_The_Dangers_of_Presumption">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflections on the Dangers of Presumption</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

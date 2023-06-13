@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Favorite_Places_Religion_is_a_Spiritual_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion is a Spiritual Experience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Human_Sources_and_The_Urantia_Book">
+          <span class="pr-2">Human Sources and The Urantia Book. The Strong Force and Supernova</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Like most processes associated with evolutionary society on this Earth, the history of western religion has been dominated by the male sex hormone, testosterone. One of Christianity’s principal founders, Paul, had too little. Another, Augustine of Hippo, known also as Saint Augustine, suffered from an excess. The effects of testosterone levels upon their mental functioning appears to have combined in a curious way to cause a split in Christian theology towards two extremes in the interpretation of the incarnation of Jesus. One extreme made Jesus’ life, and its divine revelation of the nature of God, as having paramount significance. The other virtually ignored both Jesus’ life and his teaching, attributing importance only to his death on the cross as the symbolic lamb sacrificed for the sin of the world.
 
@@ -44,6 +68,31 @@ Until the present, Christian men have been content to excuse their selfish and a
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_2/page3.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Favorite_Places_Religion_is_a_Spiritual_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion is a Spiritual Experience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Human_Sources_and_The_Urantia_Book">
+          <span class="pr-2">Human Sources and The Urantia Book. The Strong Force and Supernova</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/God_playing_an_Avocation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">God-playing—An Avocation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Matt_Neibaur/On_Copyright_and_Plagiarism_2">
+          <span class="pr-2">On Copyright and Plagiarism adapted</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “A long, long time ago, a man called Moses made an announcement to the members of his nation. Moses said, ‘Jehovah has said that henceforth we are to worship Him without the use of hand made idol images. From now on, nothing in between—just you and God.’”
 > 
@@ -45,3 +69,28 @@ But the net result is always the same. Nobody really wins. Over time, both sides
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/God_playing_an_Avocation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">God-playing—An Avocation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Matt_Neibaur/On_Copyright_and_Plagiarism_2">
+          <span class="pr-2">On Copyright and Plagiarism adapted</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

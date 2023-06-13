@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ann Bendall<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/On_Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Prayer</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Trinity_Teacher_Sons">
+          <span class="pr-2">The Trinity Teacher Sons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jesus had the ability to think before he spoke. There are a number of references in _The Urantia Book_ certifying to his “pausing” before he replied—a technique which I try so hard to acquire, and so abysmally fail to accomplish. Particularly this is so in those instances when emotion is triggered by a comment, an action, by frustration, or anger.
 
@@ -43,3 +67,28 @@ And it was only as the cock crowed that Peter realized he had denied his Master.
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/On_Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Prayer</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Trinity_Teacher_Sons">
+          <span class="pr-2">The Trinity Teacher Sons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

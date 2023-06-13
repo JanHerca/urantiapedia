@@ -9,6 +9,24 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 These Papers confirm that the purpose of Jesus' life on our planet included revealing God to man and man to God, and that his life was to exhibit “the transcendent possibilities attainable by a God-knowing mortal being during the short career of mortal existence.” ([UB 120:2.8](/en/The_Urantia_Book/120#p2_8))
 
@@ -607,3 +625,21 @@ The Father is living love and this life of the Father is in his Son. And the Spi
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_4/page2.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

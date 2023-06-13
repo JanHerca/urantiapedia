@@ -9,6 +9,30 @@ dateCreated: 2022-9-8T13:35:19Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Out_Of_Africa">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Out of Africa?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Future_What_is_our_Task">
+          <span class="pr-2">The future. What is our task?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 What is meant by religion of the spirit? Firstly it differs widely from the ordinary religions that mankind follows. Essentially these are group activities that virtually always eventuate in the crystallization of a set of rituals and creeds defining what members must do and be.
 
@@ -44,3 +68,28 @@ However, central to religion of the spirit is the personal quest for truth that 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_2/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Out_Of_Africa">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Out of Africa?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Future_What_is_our_Task">
+          <span class="pr-2">The future. What is our task?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

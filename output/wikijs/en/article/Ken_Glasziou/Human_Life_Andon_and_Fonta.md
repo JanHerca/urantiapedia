@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T07:52:13.144Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Error_in_the_Urantia_Papers_Life_on_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Error in the Urantia Papers—Life on Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/48_Chromosomes_Or_Jumping_to_Conclusions_2">
+          <span class="pr-2">48 Chromosomes? Or Jumping to Conclusions!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Summary
 
@@ -59,3 +83,28 @@ Herto man (pictured above) is dated to 154-160,000 years BP, and is the earliest
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_4/page5.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Error_in_the_Urantia_Papers_Life_on_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Error in the Urantia Papers—Life on Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/48_Chromosomes_Or_Jumping_to_Conclusions_2">
+          <span class="pr-2">48 Chromosomes? Or Jumping to Conclusions!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

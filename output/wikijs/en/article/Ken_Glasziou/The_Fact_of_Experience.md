@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bob_Slagle/Democratic_Parenting_The_Importance_of_Family_and_the_Family_Council">
+          <span class="pr-2">Democratic Parenting: The Importance of the Family and Family Council</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Because of the presence in your minds of the Thought Adjuster, it is no more of a mystery for you to know the mind of God than for you to be sure of the consciousness of knowing any other mind, human or superhuman. Religion and social consciousness have this in common: They are predicated on the consciousness of other-mindness. The technique whereby you can accept another's idea as yours is the same whereby you may ‘let the mind which was in Christ be also in you.’
 > 
@@ -27,3 +48,24 @@ dateCreated: 2022-9-9T8:13:39Z
 ## External links
 
 - Article in Innerface International: https://archive.urantiabook.org/archive/newsletters/innerface/vol5_6/page2.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bob_Slagle/Democratic_Parenting_The_Importance_of_Family_and_the_Family_Council">
+          <span class="pr-2">Democratic Parenting: The Importance of the Family and Family Council</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Sydney Harris<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/All_Our_Cosmologies_Are_Erroneous">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">All our Cosmologies are Erroneous!!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Forty_Days_and_Forty_Nights">
+          <span class="pr-2">Forty Days and Forty Nights</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 - That every day marks a fork in the road, in some little way; and that by the time the big fork comes along we have already made so many little decisions that we have no real choice left at the crucial turning.
 - That it is easier to feel than to think, and easier to feel hate than to feel love, and easier to act on hate than to act on love—and we must resist the easier path every inch of the way every day of our lives.
@@ -29,3 +53,28 @@ dateCreated: 2022-9-9T8:13:39Z
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_4/page7.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/All_Our_Cosmologies_Are_Erroneous">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">All our Cosmologies are Erroneous!!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Forty_Days_and_Forty_Nights">
+          <span class="pr-2">Forty Days and Forty Nights</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

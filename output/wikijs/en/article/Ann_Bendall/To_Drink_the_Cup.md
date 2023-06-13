@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ann Bendall<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/On_the_Serving_of_Palatable_Food">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On the Serving of Palatable Food, “As We Pass By”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Learning_About_God">
+          <span class="pr-2">Learning about God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 A severely incapacitated client with whom I once worked always impressed me with his ability to cope with incredible pain. He had exceeded the specialist’s expectations in his recovery to date and, a tall, fit, and stately gentleman, you would never suspect this person’s numerous disabilities.
 
@@ -31,3 +55,28 @@ I have no doubt that any adversity I may experience in life will pale into insig
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_3/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/On_the_Serving_of_Palatable_Food">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On the Serving of Palatable Food, “As We Pass By”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Learning_About_God">
+          <span class="pr-2">Learning about God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

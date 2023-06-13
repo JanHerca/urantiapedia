@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Why_is_The_Urantia_Books_Life_of_Jesus_so_important">
+          <span class="pr-2">Why is The Urantia Book's “Life of Jesus” so Important?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > How unreasonable that you should not worship God because the limitations of human nature and the handicaps of your material creation make it impossible for you to see him. Between you and God there is a tremendous distance (physical space) to be traversed. There likewise exists a great gulf of spiritual differential which must be bridged; but notwithstanding all that physically and spiritually separates you from the Paradise personal presence of God, stop and ponder the solemn fact that God lives within you; he has in his own way already bridged the gulf. He has sent of himself, his spirit, to live in you and to toil with you as you pursue your eternal universe career.
 > 
@@ -25,3 +46,25 @@ dateCreated: 2022-9-9T8:13:39Z
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_5/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Why_is_The_Urantia_Books_Life_of_Jesus_so_important">
+          <span class="pr-2">Why is The Urantia Book's “Life of Jesus” so Important?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Mind_and_Consciousness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mind and Consciousness</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Alpheus_Twins">
+          <span class="pr-2">The Alpheus Twins</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Early in the century, mathematician-philosopher Kurt Godell staggered the academic world when he proved that no system of mathematics could ever be shown to be totally self-consistent. And since mathematics is the base upon which all science is built, and since science is the basis of all verifiable knowledge, then we are left with a conundrum. We can only speak in terms of probabilities.
 
@@ -24,3 +48,28 @@ Is there a God? And if there is, and God created all things, then am I not a “
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_1/page6.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Mind_and_Consciousness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mind and Consciousness</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Alpheus_Twins">
+          <span class="pr-2">The Alpheus Twins</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

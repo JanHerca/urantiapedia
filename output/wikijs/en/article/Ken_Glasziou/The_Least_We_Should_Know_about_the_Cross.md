@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Transmutation_of_Existential">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Transmutation of Existential Potentialities and Actualities to the Finite Level of Reality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Appearance_at_Sychar">
+          <span class="pr-2">The Appearance at Sychar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The cross forever shows that the attitude of Jesus toward sinners was neither condemnation nor condonation, but rather eternal and loving salvation. Jesus is truly a savior in the sense that his life and death do win men over to goodness and righteous survival. Jesus loves men so much that his love awakens the response of love in the human heart. Love is truly contagious and eternally creative. Jesus’ death on the cross exemplifies a love which is sufficiently strong and divine to forgive sin and swallow up all evil-doing. Jesus disclosed to this world a higher quality of righteousness than justice—mere technical right and wrong.
 
@@ -41,3 +65,28 @@ The cross makes a supreme appeal to the best in man because it discloses one who
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_2/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Transmutation_of_Existential">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Transmutation of Existential Potentialities and Actualities to the Finite Level of Reality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Appearance_at_Sychar">
+          <span class="pr-2">The Appearance at Sychar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Harbingers_of_Hope_and_Keepers_of_the_Copyright_Hear_This">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hear Ye! Hear Ye! All Harbingers of Hope, Keepers of the Copyright, and Protectors of an Inviolate Text, hear this</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Cosmic_Reflections_Oops">
+          <span class="pr-2">Cosmic Reflections. Oops!!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 The description in the Urantia Papers telling how, 550 million years ago, the Life Carriers brought life to this planet causes problems for many readers, both new and old, who come across statements from scientific sources stating that life has been on this planet for in excess of 3 billion years.
@@ -80,6 +104,31 @@ My personal view, detailed in [Innerface International Vol.5 No.7](/en/article/K
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_2/page8.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Harbingers_of_Hope_and_Keepers_of_the_Copyright_Hear_This">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hear Ye! Hear Ye! All Harbingers of Hope, Keepers of the Copyright, and Protectors of an Inviolate Text, hear this</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Cosmic_Reflections_Oops">
+          <span class="pr-2">Cosmic Reflections. Oops!!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

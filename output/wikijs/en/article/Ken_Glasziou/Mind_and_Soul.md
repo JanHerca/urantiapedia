@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T18:03:19.267Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Indwelling_Father_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Indwelling Father-Spirit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_doing_the_will_of_God_How">
+          <span class="pr-2">On doing the will of God—How?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Mind is about all we have of universe reality that is subject to our will–and our soul faithfully replicates and portrays the harvest of the temporal decisions that the mortal self makes. But it is not so much what mind comprehends as what mind desires to comprehend that ensures soul growth; it is not so much what mind is like as what mind is striving to be like that constitutes spirit identification. And it is not so much that we are conscious of God as that we yearn for God that results in universe ascension. What we are today is not so important as what we are becoming day by day and in eternity.
 
@@ -63,3 +87,28 @@ If we interpret Jesus’ life and sayings as the basis of a set of rules to foll
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_3/page5.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Indwelling_Father_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Indwelling Father-Spirit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_doing_the_will_of_God_How">
+          <span class="pr-2">On doing the will of God—How?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

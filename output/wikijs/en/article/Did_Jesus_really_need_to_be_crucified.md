@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T06:22:32.518Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Secrets_of_Jesus_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Secrets of Jesus Spirituality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-12-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/What_the_Urantia_Revelation_says_about_the_Spirit_of_Truth">
+          <span class="pr-2">What the Urantia Revelation says about the Spirit of Truth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Summary
 
@@ -133,3 +157,27 @@ However, the remedy is in our own hands. When enough of us enlist the aid of Jes
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol12_2/page3.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Secrets_of_Jesus_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Secrets of Jesus Spirituality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-12-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/What_the_Urantia_Revelation_says_about_the_Spirit_of_Truth">
+          <span class="pr-2">What the Urantia Revelation says about the Spirit of Truth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

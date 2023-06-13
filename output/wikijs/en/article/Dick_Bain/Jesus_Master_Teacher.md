@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Dick Bain<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/A_Kingdom_Commentary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Kingdom Commentary</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Cooking_up_a_Universe">
+          <span class="pr-2">Cooking up a Universe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 One of the tasks that many people in the Urantia community are faced with at one time or another is teaching an individual or a group about The Urantia Book. Sometimes we may feel inadequate to the task, but we have some excellent guidance available. Though Jesus lived in a culture that was very different from ours, and though we are not dual nature beings like Jesus, nevertheless we can learn from his teaching methods. Our culture may differ from his, but human nature is the same today as it was 2000 years ago. The teaching methods of Jesus should be just as effective today as they were when he walked the earth. We students of _The Urantia Book_ have the privilege of possessing a detailed account of Jesus’ life and teachings. I believe that we who aspire to be teachers can profit greatly from studying and attempting to use Jesus’ teaching methods.
 
@@ -57,3 +81,28 @@ The authors of _The Urantia Book_ inform us that there were a number of good rea
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/A_Kingdom_Commentary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Kingdom Commentary</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Cooking_up_a_Universe">
+          <span class="pr-2">Cooking up a Universe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

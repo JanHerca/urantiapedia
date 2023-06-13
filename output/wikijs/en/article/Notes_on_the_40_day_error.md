@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Forty_Days_and_Forty_Nights">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Forty Days and Forty Nights</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Our_Problem">
+          <span class="pr-2">Our Problem</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 This problem was discussed in correspondence dated March 9, 1959 between Dr Sadler and Dr Earl L. Douglass, whose expertise was biblical studies. It makes it clear that Dr. Sadler and associates were aware of the problem prior to the book being printed.
 
@@ -46,3 +70,28 @@ In closing, and just in case any fundamentalist manages to find a way to call bl
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_4/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Forty_Days_and_Forty_Nights">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Forty Days and Forty Nights</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Our_Problem">
+          <span class="pr-2">Our Problem</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/God_consciousness_of_God_the_will_of">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">God—consciousness of; God—the will of</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Living_as_Jesus_lived_2">
+          <span class="pr-2">Living as Jesus lived</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Meanings are nonexistent in a wholly sensory or material world. Meanings and values are only perceived in the inner or super-material spheres of human experience.
 
@@ -65,3 +89,27 @@ But how can we be sure that we are serious? All we need to do is to commit ourse
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page6.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/God_consciousness_of_God_the_will_of">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">God—consciousness of; God—the will of</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Living_as_Jesus_lived_2">
+          <span class="pr-2">Living as Jesus lived</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

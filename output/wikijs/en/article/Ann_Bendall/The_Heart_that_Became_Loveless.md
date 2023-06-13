@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rob_Crickett/Heart_Alpha_and_Omega_of_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Heart—the Alpha and Omega of Spirituality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Jealousy_the_Heart_Poison_How_did_Jesus_deal_with_it">
+          <span class="pr-2">Jealousy, the Heart-Poison! How did Jesus deal with it?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The Urantia Book_ gives a wealth of information on Judas—his childhood, personality characteristics and coping strategies in dealing with life events. The revelators, in indicating that a particular attribute or characteristics was a hindrance to the spiritual development of an individual (in particular, Judas), describe where it eventuated from as well as giving advice on how to overcome it (for those readers who might recognize some similarity in themselves).
 
@@ -73,3 +97,27 @@ And Jesus' verdict of the manner in which Judas would be adjudged is reflected i
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_3/page9.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rob_Crickett/Heart_Alpha_and_Omega_of_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Heart—the Alpha and Omega of Spirituality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Jealousy_the_Heart_Poison_How_did_Jesus_deal_with_it">
+          <span class="pr-2">Jealousy, the Heart-Poison! How did Jesus deal with it?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

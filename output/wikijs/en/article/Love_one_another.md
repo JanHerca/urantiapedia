@@ -9,6 +9,27 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Editorial_Windows_of_Opportunity">
+          <span class="pr-2">Windows of Opportunity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > In the kingdom of the believing brotherhood of God-knowing truth lovers, this golden rule takes on living qualities of spiritual realization on those higher levels of interpretation which cause the mortal sons of God to view this injunction of the Master as requiring them so to relate themselves to their fellows that they will receive the **highest possible good** as a result of the believer's contact with them. This is the essence of true religion: that you love your neighbor as yourself.
 > 
@@ -34,3 +55,24 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_2/page2.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Editorial_Windows_of_Opportunity">
+          <span class="pr-2">Windows of Opportunity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

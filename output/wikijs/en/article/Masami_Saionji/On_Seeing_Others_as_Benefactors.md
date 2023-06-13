@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Masami Saionji<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Wrestling_with_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Wrestling with Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sydney_Harris/Heaven_wont_be_dull">
+          <span class="pr-2">Heaven won't be Dull—Despite the Disbelievers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 All the people around us are there to help us encounter the truth. Their existence has great value for us. If not for them, our spirits would have no opportunity for advancement. We would lack the means for bringing out our divinity. We may find some people lovable, some hateful, some admirable, and some distasteful. Yet, each of them, through their connection with us, has a role to play in putting us on the path to truth.
 
@@ -28,3 +52,28 @@ Try creating a new use for the time that you have been squandering on doubt.
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_3/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Wrestling_with_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Wrestling with Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sydney_Harris/Heaven_wont_be_dull">
+          <span class="pr-2">Heaven won't be Dull—Despite the Disbelievers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

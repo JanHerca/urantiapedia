@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Second_Great_Commandment_A_Reminder">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Second Great Commandment. A Reminder</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/A_True_Story">
+          <span class="pr-2">A True Story</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boiled down to its indestructible basics, we mortals consist of two elements both of which have their immediate origin in the Universal Father. One of these elements is my Thought Adjuster, the other my personality. The Adjuster part has an absolute quality and displays traits of the nature of its origin. My personality has inbuilt potentialities also derived from its origin. Between them they can generate a soul. Additional potentials that contribute to soul-building stem from a mind and spirit endowment derived from the Universe Mother Spirit and a material body and brain, the evolutionary result of the work of the Life Carriers. Other influences derive directly from the Eternal Spirit and from our universe Creator-Son and indirectly through other celestial beings.
 
@@ -27,3 +51,28 @@ Assuming it is my irreversible intention to survive, then it is the disposable p
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Second_Great_Commandment_A_Reminder">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Second Great Commandment. A Reminder</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/A_True_Story">
+          <span class="pr-2">A True Story</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

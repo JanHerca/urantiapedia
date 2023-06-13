@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T19:17:35.750Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Love_a_Necessity_for_the_Fulfilment_of_Mankind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Love—a Necessity for the Fulfilment of Mankind</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/More_on_Our_Challenge">
+          <span class="pr-2">More on “Our Challenge”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dedicate your life to demonstrating the combined human affection and divine dignity of the God-knowing mortal.
 
@@ -34,3 +58,28 @@ But primarily, we must live as Jesus lived.
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page13.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Love_a_Necessity_for_the_Fulfilment_of_Mankind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Love—a Necessity for the Fulfilment of Mankind</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/More_on_Our_Challenge">
+          <span class="pr-2">More on “Our Challenge”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

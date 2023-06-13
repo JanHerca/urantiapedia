@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Dick Bain<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Judgment_Day">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Judgment Day</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Birth_of_the_Solar_System">
+          <span class="pr-2">Birth of the Solar System</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Astronomers use various types of standard candles or cosmic yardsticks to measure distances to stars and galaxies. One of these yardsticks is the class of stars known as the Cepheid variable stars. One of the apparent errors in The Urantia Book comes from using the distance to the Andromeda galaxy that astronomers held in the 1930’s. This distance was determined using Cepheid variable stars in M31, also called the Andromeda galaxy.
 
@@ -29,6 +53,31 @@ The telescope is in effect a time machine. The further light travels from a dist
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page15.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Judgment_Day">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Judgment Day</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Birth_of_the_Solar_System">
+          <span class="pr-2">Birth of the Solar System</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

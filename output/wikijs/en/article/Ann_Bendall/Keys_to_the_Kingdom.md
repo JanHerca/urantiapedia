@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T02:24:59.960Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ann Bendall<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Consistency_and_Continuity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Consistency and Continuity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/How_Christian_is_The_Urantia_Book">
+          <span class="pr-2">How Christian is The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 If asked, “Are you in the Kingdom?” most of us would unequivocally reply, “Of course!” After all, we love and believe in God, we recognize that we are all his children, and we want to be perfect like him.
 
@@ -43,3 +67,27 @@ Once in the kingdom, which is an evolutionary experience, beginning here on eart
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_2/page5.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Consistency_and_Continuity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Consistency and Continuity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/How_Christian_is_The_Urantia_Book">
+          <span class="pr-2">How Christian is The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

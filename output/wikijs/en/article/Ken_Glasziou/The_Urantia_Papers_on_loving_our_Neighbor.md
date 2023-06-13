@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/An_Alternative_View_of_Jesus_Incarnation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">An Alternative View of Jesus' Incarnation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sydney_Harris/How_Would_You_Label_This_Man">
+          <span class="pr-2">How would you label this Man?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 What constitutes loving our neighbor? And how do we go about actually doing it?
 
@@ -42,3 +66,28 @@ Loving our neighbor is not something we can do on our own. We must learn to list
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_3/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/An_Alternative_View_of_Jesus_Incarnation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">An Alternative View of Jesus' Incarnation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sydney_Harris/How_Would_You_Label_This_Man">
+          <span class="pr-2">How would you label this Man?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

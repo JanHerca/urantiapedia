@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Pragmatism">
+          <span class="pr-2">On Pragmatism</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Intelligence alone cannot explain the moral nature. **Morality, virtue, is indigenous to human personality.** Moral intuition, the realization of duty, is a component of human mind endowment and is associated with the other inalienables of human nature: scientific curiosity and spiritual insight. Man’s mentality far transcends that of his animal cousins, but it is his moral and religious natures that especially distinguish him from the animal world.
 
@@ -39,3 +60,25 @@ Supreme virtue, then, is wholeheartedly to choose to do the will of the Father i
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_2/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Pragmatism">
+          <span class="pr-2">On Pragmatism</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

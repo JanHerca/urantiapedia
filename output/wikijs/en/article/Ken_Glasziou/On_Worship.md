@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Way_Jesus_Baptismal_Decisions_Aims_and_Motivs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Way—Jesus Baptismal Decisions, Aims, and Motives</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Brahma_Breathes">
+          <span class="pr-2">Brahma Breathes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The Urantia Book_ informs us that the quality of our worship is determined by the depth of our perception which, in turn, varies in proportion to the depth of our knowledge of God. It follows that our worship experience may be enhanced in two ways, firstly by increasing our understanding of ourselves and secondly by increasing our knowledge of God. So let’s make a start by attempting to know more about ourselves.
 
@@ -124,3 +148,28 @@ Obviously the idea has been given to us for a reason—it is not just idle chatt
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_1/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Way_Jesus_Baptismal_Decisions_Aims_and_Motivs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Way—Jesus Baptismal Decisions, Aims, and Motives</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Brahma_Breathes">
+          <span class="pr-2">Brahma Breathes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

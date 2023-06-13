@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Dick Bain<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Worship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In Hindu theology, when Brahma breathes out, the universe appears; when he breathes in, the universe disappears. The Urantia Book has a similar concept called space respiration. The authors provide a verbal picture of this phenomenon, but there is much that we are not told. What additional details can we deduce from the information in the book?
 
@@ -82,6 +103,28 @@ Speculation won’t necessarily provide correct answers, but it can help us to f
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_1/page12.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Worship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

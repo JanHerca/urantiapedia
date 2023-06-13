@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Way_Jesus_Taught">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The way Jesus Taught</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Earl_Jabay/God_playing_au_Jabay">
+          <span class="pr-2">God playing “au Jabay”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Starting with the ordination sermon to his apostles, and for the remainder of his earthly career, Jesus encouraged his would-be followers to raise the standard of love implied in the age old Jewish invocation to love our neighbors as ourselves. Jesus required his followers to manifest fatherly love.
 
@@ -28,3 +52,28 @@ Jesus raised the standard to, at its lowest, the kind of love expected from real
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_4/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Way_Jesus_Taught">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The way Jesus Taught</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Earl_Jabay/God_playing_au_Jabay">
+          <span class="pr-2">God playing “au Jabay”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

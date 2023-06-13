@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Listening_to_Your_Dreams">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Listening to your Dreams</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Dare_to_be_Godlike">
+          <span class="pr-2">Dare to be God-like</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Found in Old Saint Paul's Church, Baltimore, dated 1692
 {.is-info}
@@ -39,3 +63,27 @@ Be careful. Strive to be happy.
 ## External links
 
 * Article in Innerface International: https://archive.urantiabook.org/archive/newsletters/innerface/vol5_1/page13.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Listening_to_Your_Dreams">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Listening to your Dreams</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Dare_to_be_Godlike">
+          <span class="pr-2">Dare to be God-like</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

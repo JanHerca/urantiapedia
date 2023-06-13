@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T23:09:13.189Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Indwelling_Presence_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Indwelling Presence of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_the_Philosophy_of_Philosophy">
+          <span class="pr-2">On the Philosophy of Philosophy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “_Do unto others as you would have them do unto you_” ([Tobit 4:15](/en/Bible/Tobit/4#v15); [Matt 7:12](/en/Bible/Matthew/7#v12); [Luke 6:3](/en/Bible/Luke/6#v3); [UB 131:2.11](/en/The_Urantia_Book/131#p2_11), [UB 140:3.15](/en/The_Urantia_Book/140#p3_15), etc. )
 
@@ -37,3 +61,28 @@ And so must we clearly recognize that neither the golden rule nor the teaching o
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page4.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Indwelling_Presence_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Indwelling Presence of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_the_Philosophy_of_Philosophy">
+          <span class="pr-2">On the Philosophy of Philosophy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ann Bendall<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Stefan_Tallqvist/Radius_of_the_Electron">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Radius of the Electron</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Cest_Important">
+          <span class="pr-2">C'est Important!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Peter and the apostles, afire with the Spirit of Truth, went right against Jesus’ request/demand/injunction that they teach the gospel of the kingdom rather than teach his life, and so they created a religion about Jesus rather than the religion of Jesus—instantly turning a revelation-based religion into an evolution-based one. Hence, “_the kingdom as Jesus conceived it has to a large extent failed on earth_” ([UB 170:5.21](/en/The_Urantia_Book/170#p5_21))
 
@@ -42,3 +66,28 @@ As I currently view the future of Urantia in the light of reading _The Urantia B
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page14.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Stefan_Tallqvist/Radius_of_the_Electron">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Radius of the Electron</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Cest_Important">
+          <span class="pr-2">C'est Important!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

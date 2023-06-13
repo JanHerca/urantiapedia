@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century">
+          <span class="pr-2">The Challenge of the Twenty First Century</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Jesus brought to God, as a man of the realm, the greatest of all offerings: the consecration and dedication of his own will to the majestic service of doing the divine will. Jesus always and consistently interpreted religion wholly in terms of the Father’s will. When you study the career of the Master, as concerns prayer or any other feature of the religious life, look not so much for what he taught as for what he did. Jesus never prayed as a religious duty. To him prayer was a sincere expression of spiritual attitude, a declaration of soul loyalty, a recital of personal devotion, an expression of thanksgiving, an avoidance of emotional tension, a prevention of conflict, an exaltation of intellection, an ennoblement of desire, a vindication of moral decision, an enrichment of thought, an invigoration of higher inclinations, a consecration of impulse, a clarification of viewpoint, a declaration of faith, a transcendental surrender of will, a sublime assertion of confidence, a revelation of courage, the poclamation of discovery, a confession of supreme devotion, the validation of consecration, a technique for the adjustment of difficulties, and the mighty mobilization of the combined soul powers to withstand all human tendencies toward selfishness, evil, and sin. He lived just such a life of prayerful consecration to the doing of his Father’s will and ended his life triumphantly with just such a prayer. The secret of his unparalleled religious life was this consciousness of the presence of God; and he attained it by intelligent prayer and sincere worship unbroken communion with Godñ and not by leadings, voices, visions, or extraordinary religious practices.
 > 
@@ -34,3 +55,25 @@ dateCreated: 2022-9-9T8:13:39Z
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_3/page6.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century">
+          <span class="pr-2">The Challenge of the Twenty First Century</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

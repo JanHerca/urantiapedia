@@ -9,6 +9,27 @@ dateCreated: 2022-09-24T17:46:11.444Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Kantor/Reading_The_Urantia_Book_as_a_Religious_Practice">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reading The Urantia Book as a Religious Practice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In his book *Urantia: The Great Cult Mystery*, Martin Gardner has used all the tricks of his trade of debunking in his efforts to ridicule the science content of *The Urantia Book*. For example, from the late 1920's to the late 1950's, Wegener's theory of continental drift was held in disrepute among geologists, and particularly so in the USA. The theory proposed that approximately 200 million years ago, all the land masses of the earth were joined together and commenced to drift apart at that time. So if, as claimed by Gardner, Wilfred Kellogg and Dr Sadler were conspirators in the production of the Urantia Papers, why did they include an account of continental drift far exceeding Wegener's in its detail and nominating the time of commencement of drift at the vastly different date of 750 million years ago?
 
@@ -43,3 +64,24 @@ The book defines “life” on Urantia as an “*unbalanced equilibrium of energ
 ## External links
 
 - Article in Innerface: https://urantia-book.org/archive/newsletters/innerface/vol3_1/page14.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Kantor/Reading_The_Urantia_Book_as_a_Religious_Practice">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reading The Urantia Book as a Religious Practice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

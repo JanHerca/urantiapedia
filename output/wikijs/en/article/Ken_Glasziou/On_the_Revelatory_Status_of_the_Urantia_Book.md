@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Purpose_and_Limitations_of_the_5th_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Purpose and Limitations of the Fifth Epochal Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Song_of_Joy">
+          <span class="pr-2">Beethovan's Song of Joy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Some years ago I wrote an article for the Six-O-Six newsletter implying that the scientific content of _The Urantia Book_ may contain errors. This statement brought an impassioned response categorically denying that the book could contain error and stating that in no circumstances would the revelators lie to us. The inclusion of a science content section in Innerface has stirred similar emotional responses, the most extreme being that whenever current science is in disagreement with _The Urantia Book_, it is science that is wrong and never the book.
 
@@ -71,3 +95,28 @@ Though it be a puzzle, the existence of its riddles has only served to increase 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_1/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Purpose_and_Limitations_of_the_5th_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Purpose and Limitations of the Fifth Epochal Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Song_of_Joy">
+          <span class="pr-2">Beethovan's Song of Joy</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 William Wentworth<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ian_Stephen/Adversity_and_the_Spiritual_Value_of_Disappointment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Adversity and the Spiritual Value of Disappointment</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ron_Cyr/Do_We_All_Have_A_Soul">
+          <span class="pr-2">Do We All Have a Soul?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 If there is any single issue which exercises the minds of readers of The Urantia Book, the question of how to attract more readers, or alternatively how to spread the teachings, would have to be given pride of place. We seem to give more attention to this question than to almost any other. Wherever readers gather, at study groups, conferences, or everyday social situations, the conversation usually seems to come around to this question. And although no survey has been attempted, it’s a fair bet to say that more words have been written by readers about this topic than any other. Upon all of our minds the question insists on impinging itself. How are we to introduce the Fifth Epochal Revelation to the people of Urantia? How is the population of our planet to become aware of the most advanced information yet made available to us? What can we do to assist people to take to heart the message of hope which the Revelation contains?
 
@@ -34,3 +58,28 @@ Nevertheless, even for Jesus himself, “everything must await the coming of its
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_5/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ian_Stephen/Adversity_and_the_Spiritual_Value_of_Disappointment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Adversity and the Spiritual Value of Disappointment</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ron_Cyr/Do_We_All_Have_A_Soul">
+          <span class="pr-2">Do We All Have a Soul?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

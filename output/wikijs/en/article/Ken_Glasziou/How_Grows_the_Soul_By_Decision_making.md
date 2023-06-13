@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/What_really_Survives_Growing_spiritually">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What Really Survives? Growing Spiritually</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Holism">
+          <span class="pr-2">Holism</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “What man himself takes with him as a personality possession are the character consequences of the experience of having used the mind and spirit circuits of the grand universe in his Paradise ascent.” ([UB 117:5.13](/en/The_Urantia_Book/117#p5_13))
 
@@ -36,3 +60,27 @@ This implies that only those decisions that are about the kind of experiences po
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_2/page6.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/What_really_Survives_Growing_spiritually">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What Really Survives? Growing Spiritually</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Holism">
+          <span class="pr-2">Holism</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

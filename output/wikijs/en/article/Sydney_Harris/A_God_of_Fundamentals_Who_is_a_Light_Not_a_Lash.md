@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Sydney Harris<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Beliefs_and_Values">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Beliefs and Values</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jacques_Dupont/Consistency_in_The_Urantia_Book_Personality">
+          <span class="pr-2">Consistency in The Urantia Book—Personality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 All this argument and controversy about the evolution of man, and no thought about the evolution of God. Fundamentalists and modernists disputing the origin of species, and no consideration of how our species has changed its view of God since the earliest times.
 
@@ -35,3 +59,28 @@ God grows, as we grow, for he reflects what we become; and when we grow to the f
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_2/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Beliefs_and_Values">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Beliefs and Values</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jacques_Dupont/Consistency_in_The_Urantia_Book_Personality">
+          <span class="pr-2">Consistency in The Urantia Book—Personality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

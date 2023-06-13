@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ann Bendall<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Midrash">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Midrash</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Darryl_Reanney/The_Death_of_Forever_A_new_future_for_human_consciousness">
+          <span class="pr-2">The Death of Forever: A new future for human Consciousness</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 What we believe, will eventuate, simply because we are creators! If I believe I will not be accepted by others, there is a strong possibility that I will not be accepted simply because I will approach these others in a closed and self-protective manner. My apprehension of being rejected provides an environment where the chances of rejection have increased commensurately. I may even go so far as to convince myself that that person is not even worth associating with. Whilst acknowledging that they are quite possibly a brother/sister in spirit (with, perhaps, reservations on this score) they are decidedly un-brotherly/sisterly on this plane of existence. In other words, I adopt the strategy of getting in first, rejecting in anticipation of rejection.
 
@@ -42,3 +66,28 @@ Do we approach others free from anticipatory biases? Do we approach others as Je
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_3/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Midrash">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Midrash</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Darryl_Reanney/The_Death_of_Forever_A_new_future_for_human_consciousness">
+          <span class="pr-2">The Death of Forever: A new future for human Consciousness</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

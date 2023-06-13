@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Question_Time_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Question Time</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Paving_the_Way">
+          <span class="pr-2">Paving the Way</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Long before reaching Havona, the faith-tested and much-traveled ascendant children of space and time “_have learned to feast upon uncertainty, to fatten upon disappointment, to enthuse over apparent defeat, to invigorate in the presence of difficulties, to exhibit indomitable courage in the face of immensity, and to exercise unconquerable faith when confronted with the challenge of the inexplicable. Long since, the battle cry of these pilgrims became: ‘In liaison with God, nothing—absolutely nothing—is impossible.’_” ([UB 26:5.3](/en/The_Urantia_Book/26#p5_3))
 
@@ -33,3 +57,28 @@ What has spiritual value? Jesus saw the Father as holy, just, and great, true, b
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_3/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Question_Time_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Question Time</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Paving_the_Way">
+          <span class="pr-2">Paving the Way</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

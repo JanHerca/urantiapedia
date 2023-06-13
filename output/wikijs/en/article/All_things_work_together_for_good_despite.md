@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Christianitys_Needs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Christianity's Needs and Problems</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Prophetic joy. It will perhaps be difficult for mortals to envisage this phase of humor, but we do get a peculiar satisfaction out of the assurance “that all things work together for good”—for spirits and morontians as well as for mortals. This aspect of celestial humor grows out of our faith in the loving overcare of our superiors and in the divine stability of our Supreme Directors.
 
@@ -24,3 +45,25 @@ Said Jesus to Ganid, an Indian lad, “Ganid, I have absolute confidence in my h
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page22.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Christianitys_Needs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Christianity's Needs and Problems</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

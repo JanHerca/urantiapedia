@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T05:33:58.935Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Dick Bain<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Keys_to_the_Kingdom">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Keys to the Kingdom</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Urantia_Book_What_is_it_and_why_is_it_so">
+          <span class="pr-2">The Urantia Book. What is it and why is it so?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Some day when scholars study the religious influences of the twentieth and twenty first centuries, I am sure that _The Urantia Book_ will be one of those influences studied. And inevitably, the theology of the book will be compared to Christian thought and theology. What relationship to Christianity will these future scholars determine from their perspective? Will they feel that the book is just another off-spring of the fringes of Christianity, or will they see it as a genuinely new work? For that matter, when we introduce the book to Christians today, how do they perceive this book?
 
@@ -66,3 +90,27 @@ It seems to me that _The Urantia Book_ contains enough new material to forever d
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_2/page6.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Keys_to_the_Kingdom">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Keys to the Kingdom</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Urantia_Book_What_is_it_and_why_is_it_so">
+          <span class="pr-2">The Urantia Book. What is it and why is it so?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

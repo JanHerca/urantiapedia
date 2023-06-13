@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Essentiality_of_Morality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Essentiality of Morality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Nature_of_God">
+          <span class="pr-2">The Nature of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “Some degree of moral affinity and spiritual harmony is essential to friendship between two persons; a loving personality can hardly reveal himself to a loveless person.” ([UB 1:6.5](/en/The_Urantia_Book/1#p6_5))
 
@@ -50,3 +74,28 @@ All of which means the achieving of God-consciousness as a priority aim for our 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_4/page5.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Essentiality_of_Morality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Essentiality of Morality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Nature_of_God">
+          <span class="pr-2">The Nature of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

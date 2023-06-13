@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Sydney Harris<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/A_Christmas_Message_to_all_Urantia_Book_Readers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Christmas Message from Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Being_Morally_Fragrant">
+          <span class="pr-2">On Being Morally Fragrant</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 One of the rich ironies of the so-called “fundamentalist” movement is that while it preaches Christ, it forgets Jesus.
 
@@ -40,3 +64,28 @@ Whatever the modern fundamentalist claims to be, in the name of Christ, he is ta
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_6/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/A_Christmas_Message_to_all_Urantia_Book_Readers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Christmas Message from Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Being_Morally_Fragrant">
+          <span class="pr-2">On Being Morally Fragrant</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

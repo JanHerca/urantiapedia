@@ -9,6 +9,30 @@ dateCreated: 2022-09-27T00:50:16.501Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Charles_Birch/Mind_Do_I_have_one">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mind! Do I have one?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/What_does_God_want_from_us">
+          <span class="pr-2">What does God want from us?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The Urantia Papers’ concepts about mind are most similar to those found in Whitehead’s Process Philosophy[^1]–which has it that even primary particles down to sub-atomic levels are, to some extent, ‘minded,’ and this mindedness is grounded in the ‘consequent’ nature of God.
 
@@ -35,6 +59,31 @@ For mankind, mind is in addition to personality, body, and soul. Our earth-mind 
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_6/page8.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Charles_Birch/Mind_Do_I_have_one">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mind! Do I have one?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/What_does_God_want_from_us">
+          <span class="pr-2">What does God want from us?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

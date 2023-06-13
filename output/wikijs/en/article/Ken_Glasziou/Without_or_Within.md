@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Walker/What_Are_Dreams_Made_Of">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What are Dreams Made of?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Black_Holes_Re_visited">
+          <span class="pr-2">Black Holes Re-visited</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Having attended the Anglican (Episcopalian) Church on a regular basis for more than sixty years, it came as a bit of a shock to my system when I fell out with the local minister over him labelling the airmen of Bomber Command in World War 2 as war criminals. As 75% of Australian airmen who served in Britain with Bomber Command were killed in ensuring that our minister had the right to free speech, and a goodly number were friends with whom I served, I felt some need to help him get his facts right. However, this gentleman was not interested and things went from bad to worse, culminating in me ceasing to be a church member. Five years later, this minister was moved elsewhere, and I felt able to return to the fold. I will not defend my attitudes and actions as, in retrospect, they were somewhat immature.
 
@@ -79,3 +103,28 @@ Finding ways and means of teaching or demonstrating, that the essence of our rel
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_5/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Walker/What_Are_Dreams_Made_Of">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What are Dreams Made of?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Black_Holes_Re_visited">
+          <span class="pr-2">Black Holes Re-visited</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

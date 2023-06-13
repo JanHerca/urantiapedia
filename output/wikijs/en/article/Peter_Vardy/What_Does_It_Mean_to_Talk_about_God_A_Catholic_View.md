@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Peter Vardy<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Divine_Spirit_must_dominate">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Divine Spirit Must Dominate...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Why_we_need_to_know_the_earthly_life_of_Jesus_and_how_he_lived_it">
+          <span class="pr-2">Why we need to know 'The Earthly Life of Jesus and How He Lived It.'</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 If a human being is said to be good, this means that the person has some characteristics which are regarded as admirable when they might have been otherwise. A person who is kind, gentle, forgiving, compassionate, who gives to the poor, visits the sick, and acts unselfishly might well be regarded as good and might be praised for these virtues when so many other people are selfish, impatient, cold and indifferent to the needs of others. In this case good is being used in a moral sense.
 
@@ -129,3 +153,28 @@ Thus it appears that the 13th century re-discovery of Aristotelian logic in the 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_5/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Divine_Spirit_must_dominate">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Divine Spirit Must Dominate...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Why_we_need_to_know_the_earthly_life_of_Jesus_and_how_he_lived_it">
+          <span class="pr-2">Why we need to know 'The Earthly Life of Jesus and How He Lived It.'</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

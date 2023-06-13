@@ -9,6 +9,27 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Desiderata">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Desiderata</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “_The secret of survival is wrapped up in the supreme human desire to be Godlike and in the associated willingness to do and be any and all things essential to the final attainment of that overmastering desire_.” ([UB 110:3.2](/en/The_Urantia_Book/110#p3_2))   
 
@@ -41,3 +62,24 @@ If, after doing so, we can answer that yes, we would still continue to attempt t
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_1/page14.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Desiderata">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Desiderata</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T06:50:10.195Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_the_Philosophy_of_Philosophy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On the Philosophy of Philosophy</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Universal_Spiritual_Religion">
+          <span class="pr-2">Universal Spiritual Religion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Belief has attained the level of faith when it motivates life and shapes the mode of living. The acceptance of a teaching as true is not faith; that is mere belief. Neither is certainty nor conviction faith. A state of mind attains to faith levels only when it actually dominates the mode of living. Faith is a living attribute of genuine personal religious experience. One believes truth, admires beauty, and reverences goodness, but does not worship them; such an attitude of saving faith is centered on God alone, who is all of these personified and infinitely more.
 
@@ -33,3 +57,28 @@ There follows a “**combined assault**.” (see p. 2)
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page6.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_the_Philosophy_of_Philosophy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On the Philosophy of Philosophy</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Universal_Spiritual_Religion">
+          <span class="pr-2">Universal Spiritual Religion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

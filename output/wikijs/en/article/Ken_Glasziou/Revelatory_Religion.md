@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T16:45:14.471Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Learning_to_Teach">
+          <span class="pr-2">Learning to Teach</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The marks of human response to the religious impulse embrace the qualities of nobility and grandeur. The sincere religionist is conscious of universe citizenship and is aware of making contact with sources of superhuman power. He is thrilled and energized with the assurance of belonging to a superior and ennobled fellowship of the sons of God. The consciousness of self-worth has become augmented by the stimulus of the quest for the highest universe objectives—supreme goals.
 
@@ -22,3 +43,25 @@ One of the most amazing earmarks of religious living is that dynamic and sublime
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_2/page2.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Learning_to_Teach">
+          <span class="pr-2">Learning to Teach</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

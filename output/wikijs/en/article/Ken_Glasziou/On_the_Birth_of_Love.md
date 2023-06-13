@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/God_playing_an_Avocation">
+          <span class="pr-2">God-playing—An Avocation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > In physical life the senses tell of the existence of things; mind discovers the reality of meanings; but the spiritual experience reveals to the individual the true values of life. These high levels of human living are attained in the supreme love of God and in the unselfish love of man. If you love your fellow men, you must have discovered their values. Jesus loved men so much because he placed such a high value upon them. You can best discover values in your associates by discovering their motivation. If some one irritates you, causes feelings of resentment, you should sympathetically seek to discern his viewpoint, his reasons for such objectionable conduct. If once you understand your neighbor, you will become tolerant, and this tolerance will grow into friendship and ripen into love.
 > 
@@ -23,3 +44,25 @@ dateCreated: 2022-9-9T8:13:39Z
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_4/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/God_playing_an_Avocation">
+          <span class="pr-2">God-playing—An Avocation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

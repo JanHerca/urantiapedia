@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Love_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Love of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Turning_of_the_Tables">
+          <span class="pr-2">The Turning of the Tables</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Is it possible that the Urantia Papers were written by human beings? This is a natural and important question that should be asked. Certainly there is much in the Papers that could have been so written. But that is hardly surprising since the ostensibly celestial revelators acknowledge that they used human sources wherever they could find adequate expression by a human being concerning a concept they wished to present. ([UB 0:12.12](/en/The_Urantia_Book/0#p12_12), [UB 121:8.12](/en/The_Urantia_Book/121#p8_12)) But there are also Papers, such as many of those in Part 1 of the book, that express ideas and concepts that are quite unlike existing human presentations. There is some unique quality, something esoteric and supernal about these Papers that, from a critical and discerning reader, can invoke the response, “No man ever spoke thus.”
 
@@ -51,3 +75,28 @@ Surely it would be a logical contradiction for the author of these words (and th
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Love_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Love of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Turning_of_the_Tables">
+          <span class="pr-2">The Turning of the Tables</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

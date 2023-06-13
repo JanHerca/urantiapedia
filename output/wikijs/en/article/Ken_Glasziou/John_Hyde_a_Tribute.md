@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Red_Alert">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Red Alert</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Rodan_on_Prejudice_and_Goals">
+          <span class="pr-2">Rodan on Prejudice and Goals</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Many readers who knew John Hyde personally or through correspondence and e-mail will have been bewildered and dismayed at the news of his death. But those who were aware of the many ‘demons’ that haunted John during his earlier life will perhaps presume that those demons got the better of him in a moment when he was caught off guard.
 
@@ -56,3 +80,28 @@ Maybe Rodan had an answer.
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_3/page6.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Red_Alert">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Red Alert</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Rodan_on_Prejudice_and_Goals">
+          <span class="pr-2">Rodan on Prejudice and Goals</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

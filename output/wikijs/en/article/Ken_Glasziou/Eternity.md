@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Ken Glasziou<br>© 2001 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Do_Urantians_have_a_Special_Task_with_Christianity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Do Urantians have a Special Task with Christianity?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Crucifixion_Why">
+          <span class="pr-2">The Crucifixion—Why??</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 On last year’s New Year’s Eve, billions of people witnessed the coming in of the New Millennium heralded by massive and spectacular fireworks displays that were shown to TV audiences in a world-wide coverage.
 
@@ -41,3 +65,28 @@ No matter how small, even trivial, our efforts may appear to be, we do not know,
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol8_1/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Do_Urantians_have_a_Special_Task_with_Christianity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Do Urantians have a Special Task with Christianity?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-8-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Crucifixion_Why">
+          <span class="pr-2">The Crucifixion—Why??</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

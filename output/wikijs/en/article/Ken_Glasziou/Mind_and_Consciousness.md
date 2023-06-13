@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Personal_Realities">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personal Realities</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Is_there_Certainty">
+          <span class="pr-2">Is there Certainty?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The purpose of this article is to provide a brief discussion about why “classical” concepts of the mind are considered to have failed, and how new work invoking quantum theory may eventually provide a viable alternative. These new ideas are compared with what the Urantia Papers state about mind and personality.
 
@@ -67,3 +91,27 @@ It appears to be unlikely that any scientific methodology could ever be develope
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_1/page3.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Personal_Realities">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Personal Realities</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Is_there_Certainty">
+          <span class="pr-2">Is there Certainty?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T06:39:42.741Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/On_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Spirituality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Why_Did_the_Quakers_Fail">
+          <span class="pr-2">Why Did the Quakers Fail?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In previous publications[^5],[^6],[^7] we have concentrated attention on what we called the prophetic component in the cosmology of the Papers. Though we were aware of discrepancies in their history of the geology and paleontology of the planet, these were set aside on the grounds that dating procedures were too inaccurate to be certain that the Papers were in error.
 
@@ -170,6 +194,31 @@ Obviously this extraordinary contrast between error and amazingly prophetic stat
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_3/page3.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/On_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Spirituality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Why_Did_the_Quakers_Fail">
+          <span class="pr-2">Why Did the Quakers Fail?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

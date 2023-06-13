@@ -9,6 +9,30 @@ dateCreated: 2022-09-07T18:33:46.811Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Meredith Sprunger<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Martin_Gardners_Urantia_The_Great_Cult_Mystery">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Martin Gardner's The Great Cult Mystery a review</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Kantor/Reading_The_Urantia_Book_as_a_Religious_Practice">
+          <span class="pr-2">Reading The Urantia Book as a Religious Practice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The purpose of revelation is to reveal and enlarge spiritual truth. All presentations of revelation are communicated in the intellectual-cultural frames of reference of the times in which they are given. These human concepts carrying the revelation are transitory, but the truth they proclaim is eternal. For instance, the 7-day creation story in the Bible which theologians now classify as “myth,” made sense in the simplistic cosmology of pre-scientific times and effectively transmitted the spiritual truth that God is the source of all creation.
 
@@ -138,3 +162,27 @@ The solid core of the Urantia movement has come through these tribulations with 
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_1/page6.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Martin_Gardners_Urantia_The_Great_Cult_Mystery">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Martin Gardner's The Great Cult Mystery a review</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Kantor/Reading_The_Urantia_Book_as_a_Religious_Practice">
+          <span class="pr-2">Reading The Urantia Book as a Religious Practice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

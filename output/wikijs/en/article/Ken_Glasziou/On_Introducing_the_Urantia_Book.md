@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Death_of_Joseph">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Death of Joseph</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stefan_Tallqvist/Radius_of_the_Electron">
+          <span class="pr-2">Radius of the Electron</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 At the conclusion of this article, there is a short discussion of a segment in The Urantia Book that contains information unknown at the time of the first printing of the book, information impossible to guess and that remained unknown until the current decade. It is one among several similar segments of scientific information, presumably presented under the exclusion terms of their mandate. ([UB 101:4.2](/en/The_Urantia_Book/101#p4_2)) However this is unusual, and for the most part, the authors have used scientific knowledge that was current when the Urantia Papers were received in the mid-1930’s. As was anticipated, much of this has long since been outdated. ([UB 101:4.2](/en/The_Urantia_Book/101#p4_2))
 
@@ -42,6 +66,31 @@ Note: The article “Radius of the Electron” that follows may be copied and us
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_5/page11.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Death_of_Joseph">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Death of Joseph</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stefan_Tallqvist/Radius_of_the_Electron">
+          <span class="pr-2">Radius of the Electron</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

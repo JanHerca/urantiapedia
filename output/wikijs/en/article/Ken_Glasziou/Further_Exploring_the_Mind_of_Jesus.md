@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T07:02:53.956Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Spiritual_Communion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Communion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Agree_with_your_Adversary">
+          <span class="pr-2">Agree with your Adversary</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Your mission to the world is founded on the fact that I lived a God-revealing life among you;. . . and it shall consist in the life that you will live among men–the actual and living experience of loving men and serving them, even as I have loved and served you. ([UB 191:5.3](/en/The_Urantia_Book/191#p5_3))
 
@@ -287,3 +311,28 @@ In fact, even the thought that our lives are, or even should be, examples to the
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_5/page3.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Spiritual_Communion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Communion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Agree_with_your_Adversary">
+          <span class="pr-2">Agree with your Adversary</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

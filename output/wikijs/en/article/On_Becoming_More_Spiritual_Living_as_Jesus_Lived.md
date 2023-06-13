@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T18:33:39.898Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Is_The_Urantia_Books_Life_of_Jesus_Outdated">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Is the Urantia Book's “Life of Jesus” Oudated?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Dark_Matter_and_a_String_of_Pearls">
+          <span class="pr-2">Dark Matter and a String of Pearls</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Part 4 of the Urantia Papers contains more than 700 pages where we can learn how Jesus thought and lived, and how his very life revealed the nature of the God he called Father. However, for almost all of us, to memorize the text of those 700 pages presents an impossible task. Fortunately the revelators have provided a starting point, a condensation of Jesus’ teaching into a document they state is “a master philosophy of life.” They present this as the ordination sermon to the twelve. Then, by coupling this sermon with Jesus’ favorite teaching parables, a condensed summary emerges that can serve as a framework for building an in-depth understanding of Jesus’ revelation.
 
@@ -197,3 +221,28 @@ Jesus’ life is therefore a pattern life for all those of any religion who trul
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_5/page8.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Is_The_Urantia_Books_Life_of_Jesus_Outdated">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Is the Urantia Book's “Life of Jesus” Oudated?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Dark_Matter_and_a_String_of_Pearls">
+          <span class="pr-2">Dark Matter and a String of Pearls</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

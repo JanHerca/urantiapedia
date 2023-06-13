@@ -9,6 +9,27 @@ dateCreated: 2022-09-07T11:50:43.548Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Byron Belitsos<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Joanne_Scheffler/Apartheid_Mandeled">
+          <span class="pr-2">Apartheid Mandeled</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 For anyone interested in the future of religion, the 1993 Parliament of the World’s Religions, held in Chicago last September, was a central event of our times, a jubilee for inter-religious dialogue. It also marked the centennial of the world-historic 1893 Parliament of World Religion, now recognized as the founding event in the interfaith movement. The 1993 Parliament heralded a new beginning for the movement for religious unity in a postmodern world.
 
@@ -108,3 +129,25 @@ Let us hope that the many lessons from the 1993 Parliament of the World’s Reli
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_5/page2.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Joanne_Scheffler/Apartheid_Mandeled">
+          <span class="pr-2">Apartheid Mandeled</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

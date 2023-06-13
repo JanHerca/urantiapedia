@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T18:28:13.933Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/What_is_expected_of_Urantia_Book_Readers_Who_Me">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What is expected of Urantia Book Readers?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Christianitys_Needs">
+          <span class="pr-2">Christianity's Needs and Problems</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > Your mission to the world is founded on the fact that I lived a God-revealing life among you; on the truth that you and all other men are the sons of God; and it shall consist in the life which you will live among men—the actual and living experience of loving men and serving them, even as I have loved and served you. Let faith reveal your light to the world; let the revelation of truth open the eyes blinded by tradition; let your loving service effectually destroy the prejudice engendered by ignorance. ([UB 191:5.3](/en/The_Urantia_Book/191#p5_3))
 
@@ -72,3 +96,28 @@ This one step, involving individual development of God-consciousness, is absolut
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_1/page18.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/What_is_expected_of_Urantia_Book_Readers_Who_Me">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What is expected of Urantia Book Readers?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Christianitys_Needs">
+          <span class="pr-2">Christianity's Needs and Problems</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

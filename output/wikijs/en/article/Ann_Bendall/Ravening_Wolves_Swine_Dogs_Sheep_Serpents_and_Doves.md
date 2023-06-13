@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sue_Tennant/The_Urantia_Book_Why_are_its_readers_challenged">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book: Why are its readers challenged with over 2000 pages of profuse facts and prodigious names???</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Webb/Pain_and_Conflict_in_Time_and_Space">
+          <span class="pr-2">Pain and Conflict in Time and Space</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jesus did not pull any punches in his analogies, similes and metaphors about us humans. We were seen as lambs and sheep, whilst underneath we were “_ravening wolves._” ([UB 140:3.19](/en/The_Urantia_Book/140#p3_19)) And this is the man who “_could help men so much because he loved them so sincerely. __He truly loved each man, each woman, and each child.__ He could be such a true friend because of his remarkable insight—he knew so fully what was in the heart and in the mind of man. He was an interested and keen observer. He was an expert in the comprehension of human need, clever in detecting human longings._”([UB 171:7.4](/en/The_Urantia_Book/171#p7_4)).
 
@@ -40,3 +64,28 @@ And finally the role of sheep/lamb—this is the relationship between me and Jes
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_6/page12.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sue_Tennant/The_Urantia_Book_Why_are_its_readers_challenged">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book: Why are its readers challenged with over 2000 pages of profuse facts and prodigious names???</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Webb/Pain_and_Conflict_in_Time_and_Space">
+          <span class="pr-2">Pain and Conflict in Time and Space</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

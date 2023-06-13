@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T20:19:52.836Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Continental_Drift_3_Secondary_Effects">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Continental Drift 3—Secondary Effects</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/What_if_the_Papers_had_been_written">
+          <span class="pr-2">What If?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Prior to about 1955-6, the most popular guess at the age of our Earth was 3 to 3.4 billion years. All was about to change with the advent the use of radioisotopes in dating procedures.
 
@@ -31,3 +55,28 @@ There is absolutely no way that in 1955, the printing plates of The Urantia Book
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page30.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Continental_Drift_3_Secondary_Effects">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Continental Drift 3—Secondary Effects</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/What_if_the_Papers_had_been_written">
+          <span class="pr-2">What If?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

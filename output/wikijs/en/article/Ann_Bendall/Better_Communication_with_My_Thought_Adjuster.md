@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ann Bendall<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Elizabeth_Mitchell/More_about_Secondary_Works">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">More About Secondary Works</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Science_and_The_Urantia_Book_The_Mesotron">
+          <span class="pr-2">Science and The Urantia Book. The Mesotron</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 My Thought Adjuster can vouch for the fact that I have attempted every naive and simple way to chat with Him. In a prior article I mentioned some of my unbalanced, demanding, insane, and decidedly desperate efforts to have Him talk to me. If I choose to be honest with myself, they all failed!
 
@@ -45,3 +69,28 @@ By getting to know God and Jesus, and then exercising my will in a manner which 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_5/page15.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Elizabeth_Mitchell/More_about_Secondary_Works">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">More About Secondary Works</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Science_and_The_Urantia_Book_The_Mesotron">
+          <span class="pr-2">Science and The Urantia Book. The Mesotron</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

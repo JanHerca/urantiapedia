@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T12:14:56.217Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/A_Conundrum_for_the_Hardcore_Fundamentalists">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Conundrum for the Hardcore Fundamentalists</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure class="image urantiapedia">
 <img src="/image/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars/neutron_star.jpg" width="580" height="387">
@@ -150,6 +171,28 @@ The language, level of knowledge, and the terminology of the paper 41 reference 
 * This report groups together two articles published in Innerface International newsletter, available in Urantia Fellowship website:
     Vol. 1 No. 6, Nov/Dec 1994: https://urantia-book.org/archive/newsletters/innerface/vol1_6/page15.html
     Vol. 3 No. 2, March/April 1996: https://urantia-book.org/archive/newsletters/innerface/vol3_2/page12.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/A_Conundrum_for_the_Hardcore_Fundamentalists">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Conundrum for the Hardcore Fundamentalists</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

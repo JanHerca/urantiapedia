@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Meredith Sprunger<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Consistency_Column">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Consistency Column</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cosmology_of_the_Material_Universes">
+          <span class="pr-2">Cosmology of the Material Universes. Why Science and The Urantia Book have different perspectives</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Our lives are shaped by our peak experiences. These episodes of transcendence are sometimes difficult to explain, but most people have a sense of the ministry of a reality above and beyond themselves which is bringing meaning to their lives: “. . . at every crossroad in the forward struggle, the Spirit of Truth will always speak, saying, ‘This is the way.’” ([UB 34:7.8](/en/The_Urantia_Book/34#p7_8))
 
@@ -39,3 +63,28 @@ To seek the will of God in making this decision I spent hours under the stars in
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_6/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Consistency_Column">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Consistency Column</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cosmology_of_the_Material_Universes">
+          <span class="pr-2">Cosmology of the Material Universes. Why Science and The Urantia Book have different perspectives</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

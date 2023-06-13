@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T01:11:40.721Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/On_Implementing_the_Teachings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Implementing the Teachings</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 - The Universal Father is First Cause and Controller of all that is.
 - He created the finite universes to be inhabited by intelligent creatures who could know and love him, and be loved by him. The supreme goal of will-creatures is to attain God—to be like him.
@@ -59,3 +80,25 @@ Which is why the truth of any religion is evidenced solely by the fruits of the 
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_2/page19.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/On_Implementing_the_Teachings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Implementing the Teachings</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

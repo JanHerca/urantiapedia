@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Robert Walker<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Earl_Jabay/God_playing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">God-Playing</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Archaeology_and_The_Urantia_Book">
+          <span class="pr-2">Archaeology and The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The Urantia Book_ gives humans hope for personal salvation through faith in God. In doing so, it provides many reasons for humans not to commit suicide—reasons that are directly related to explanations of faith itself. Putting aside the moral issue of whether suicide is a faithless act, it may be instructive to enumerate reasons supplied in the book for not ending this earthly life.
 
@@ -25,3 +49,28 @@ Jesus’ life provides vivid example of how to face the vicissitudes of temporal
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_6/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Earl_Jabay/God_playing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">God-Playing</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Archaeology_and_The_Urantia_Book">
+          <span class="pr-2">Archaeology and The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

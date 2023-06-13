@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T05:41:03.577Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Dick Bain<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/DEFRAG">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">DEFRAG</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Another_and_Greater_John_the_Baptist">
+          <span class="pr-2">Another and Greater John the Baptist!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jesus once asked his Apostles this question: “Who do men say that I am?” The Apostles told him that he had been identified as Moses, Elijah, Isaiah, Jeremiah, or even John the Baptist raised from the dead. Then Jesus confronted them with an even more startling question: “Who do you say I am?” The impetuous Simon Peter jumped up and said, “The deliverer, the Son of God!” Many of those who knew Jesus only by reputation assumed that he was the reincarnation of some well known prophet. Some of his enemies seemed to think that he was a person in league with the prince of devils. But the Apostles, who had lived with him for more than a year, believed he was the Son of God and in some way the Messiah expected by the Jews. That certainly didn't settle the matter; the search for Jesus' identity has continued for over 1900 years and hasn't ended yet.
 
@@ -58,6 +82,31 @@ Whatever we think about Jesus, most of us would agree that no individual has had
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page8.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/DEFRAG">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">DEFRAG</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Another_and_Greater_John_the_Baptist">
+          <span class="pr-2">Another and Greater John the Baptist!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

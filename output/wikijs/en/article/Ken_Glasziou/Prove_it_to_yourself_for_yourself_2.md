@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T23:03:26.250Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Future_What_is_our_Task">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The future. What is our task?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “_When a religion becomes fundamentalist, it inevitably becomes counter-productive, counter-intuitive, and an impediment to the social and spiritual progress of its adherents_.”
 
@@ -122,3 +143,25 @@ But does that not still leave us floundering with an unanswered question—how c
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_2/page12.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Future_What_is_our_Task">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The future. What is our task?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-10-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

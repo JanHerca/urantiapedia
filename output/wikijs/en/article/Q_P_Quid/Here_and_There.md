@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Q. P. Quid<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Scandal_of_Current_Spiritual_Cosmology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Scandal of Current Spiritual Cosmology</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Science_and_Archaeology_in_The_Urantia_Book">
+          <span class="pr-2">Science and Archaeology in The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Once, in a moderately large city, there lived a man gifted with many gifts including an imposing presence, a talent for oratory, and a charismatic personality tempered by a not insignificant touch of egotism. After giving his life to God at a rousing and inspiring renewal crusade, this man dedicated his many talents to the Almighty, and set about using them to raise the funds for a wonderfully spacious and sublimely decorated temple to be erected as close as possible to the very heart of his city where all might come to hear his oratory and to join in worship of the Almighty with resounding and inspiring songs of praise.
 
@@ -38,3 +62,27 @@ All this took place simultaneously with the continual hubbub that was going on a
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_3/page5.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Scandal_of_Current_Spiritual_Cosmology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Scandal of Current Spiritual Cosmology</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Science_and_Archaeology_in_The_Urantia_Book">
+          <span class="pr-2">Science and Archaeology in The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

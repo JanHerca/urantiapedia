@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Origins_of_Andon_and_Fonta">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Science and The Urantia Book. Origins of Andon and Fonta</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Many readers will be aware of claims that life has been on Urantia for close to 4 billion years but that _The Urantia Book_ states the original life patterns were planted here 550,000,000 years ago by the Life Carriers. This discrepancy may be due to differences in the definition of what constitutes “life” and has been discussed in “The Science Content of _The Urantia Book_”[^1] (Bain, Glasziou, Neibaur, Wright) which is available for free from the Brotherhood of Man Library. _The Urantia Book_ is not necessarily entirely consistent in the way it uses the term “life.” A point that was overlooked in the above paper is this sentence: “_The material self, the ego-entity of human identity, is dependent during the physical life on the continuing function of the material life vehicle, on the continued existence of the unbalanced equilibrium of energies __and intellect which, on Urantia, has been given the name, life__._” ([UB 112:2.20](/en/The_Urantia_Book/112#p2_20))
 
@@ -22,6 +43,28 @@ The book says, “The original life plasm of the evolutionary world must contain
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_4/page17.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Origins_of_Andon_and_Fonta">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Science and The Urantia Book. Origins of Andon and Fonta</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Faith</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Many, many moons ago, when I was a young surfie, my friends and I could be found out to sea somewhere, sitting on our surf boards, waiting for the god of the waves to send us a ‘set.’ In surfie parlance, a ‘set’ was a group of big waves that seems to come from nowhere. The god of the waves was called ‘Hughie’ and was one to whom surfies prayed fervently by using the supplication, “Send them up, Hughie.” Further moons later, I learned that the principal cause of a ‘set’ was the same phenomenon that physicists call ‘interference.’ This can happen when the peaks of two waves from different sources coincide, adding themselves together to form one big wave. If, however, the peak of one coincides with the trough of the other, they cancel and the sea becomes flat. Since surfies, in those days, were rarely physicists, sets were considered to be creative acts on the part of deity. Hughie was an Old Testament type of god—wrathful, jealous, and perverse—who exerted his authority by keeping surfies guessing where and when sets would occur.
 
@@ -103,3 +124,25 @@ However blocking the path of the “up” stream electrons so they do not enter 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_1/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Faith</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

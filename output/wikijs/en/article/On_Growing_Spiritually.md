@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Contacting_God_What_can_we_expect">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Contacting God—what can we expect?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “The goal of human self-realization should be spiritual, not material. The only realities worth striving for are divine, spiritual, and eternal.” ([UB 100:2.6](/en/The_Urantia_Book/100#p2_6))
 
@@ -48,3 +69,25 @@ But at the conscious level of eliminating selfishness from our nature, the task 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_6/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Contacting_God_What_can_we_expect">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Contacting God—what can we expect?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

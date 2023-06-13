@@ -8,6 +8,8 @@ editor: markdown
 dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 The Brotherhood of Man Library</p>
+
 Si bien no existe una definición oficial del método científico, ni lo que constituye la lógica y los objetivos de la ciencia, hay algunas cosas que la mayoría de los científicos profesionales entienden.
 
 El núcleo del método científico es simplemente explorar los datos disponibles, formular una hipótesis para explicar la mayor cantidad posible de datos y luego hacer experimentos para probar la hipótesis. Esto tiende a ser una secuencia interminable de modificar la hipótesis para acomodar nuevos datos y luego repetir.

@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 Ann Bendall<br>© 1999 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Urantia_Papers_are_self_authenticating">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Papers are Self-Authenticating</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/On_Prayer">
+          <span class="pr-2">On Prayer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The popular image of Jesus, as our ideal of perfection, is as a meek and gentle person. He refused to defend himself physically and verbally, he never corrected another person’s opinion of himself, he was the epitome of selflessness. But in this model of meekness, tolerance, and forbearance, there was also righteousness and intolerance of hypocrisy—exemplified by his extraordinary act on the Monday before he was crucified when he cleared the temple of secular traders (an act he had vowed to carry out 20 years earlier). ([UB 125:6.9](/en/The_Urantia_Book/125#p6_9))
 
@@ -35,3 +59,28 @@ The “washing of the feet” action parable was to demonstrate what Jesus meant
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol6_6/page5.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Urantia_Papers_are_self_authenticating">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Papers are Self-Authenticating</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-6-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/On_Prayer">
+          <span class="pr-2">On Prayer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

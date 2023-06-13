@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/A_Chance_Meeting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Chance Meeting</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Morality_Motive_and_Virtue">
+          <span class="pr-2">Morality, Motive, and Virtue</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In _The Urantia Book_, the word _unselfish_ is used as both a noun and an adjective. Its derivatives, the noun _unselfishness_ and the adverb _unselfishly_, also make an appearance. As a noun, _unselfish_ is associated with religious experience, religious impulse, and religious reflection, as well as with spiritual insight and God-consciousness. As an adjective, there is a difference in the way it is used in Parts 1-3 of the book as compared with Part 4. In the latter, it qualifies service (20 times), devotion (4 times) and good and love once each. In Parts 1-3 _unselfish_ is used to qualify ministry, fellowship, service, love, prayer, and interest in the welfare of our fellows.
 
@@ -58,3 +82,28 @@ Both the Bible and _The Urantia Book_ inform us that all goodness has its origin
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_3/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/A_Chance_Meeting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Chance Meeting</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Morality_Motive_and_Virtue">
+          <span class="pr-2">Morality, Motive, and Virtue</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

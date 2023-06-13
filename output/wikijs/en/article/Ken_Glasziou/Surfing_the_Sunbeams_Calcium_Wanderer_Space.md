@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Stephen_Finlan/Bethsaida_Julias_and_Bethsaida_of_Galilee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bethsaida-Julias and Bethsaida of Galilee</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Ken_Glasziou/Surfing_the_Sunbeams_Calcium_Wanderer_Space/406px-Lucas_Cranach.jpg">
@@ -74,6 +95,28 @@ From “Stars and Atoms” by Sir Arthur Eddington:
 ## References
 
 * _“Stars and Atoms”_, p. 66, Sir Arthur Eddington, Yale University Press, New Haven; Oxford University Press, London. https://archive.org/details/in.ernet.dli.2015.173636
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Stephen_Finlan/Bethsaida_Julias_and_Bethsaida_of_Galilee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bethsaida-Julias and Bethsaida of Galilee</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

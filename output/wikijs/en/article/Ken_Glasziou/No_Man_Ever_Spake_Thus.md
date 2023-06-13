@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Urantia_Book_What_is_it_and_why_is_it_so">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book. What is it and why is it so?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/A_Conundrum_for_the_Hardcore_Fundamentalists">
+          <span class="pr-2">A Conundrum for the Hardcore Fundamentalists</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Jesus’ listeners were repeatedly “_astonished at his word for he taught as one having authority and not as the scribes._” ([Mark 1:22](en/Bible/Mark/1#v22); [UB 145:2.11](/en/The_Urantia_Book/145#p2_11))
 
@@ -35,3 +59,28 @@ Mind transmutes the values of spirit into the meanings of intellect; volition ha
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_2/page10.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Urantia_Book_What_is_it_and_why_is_it_so">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book. What is it and why is it so?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/A_Conundrum_for_the_Hardcore_Fundamentalists">
+          <span class="pr-2">A Conundrum for the Hardcore Fundamentalists</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

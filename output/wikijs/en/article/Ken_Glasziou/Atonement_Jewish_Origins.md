@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/When_is_Epochal_Revelation_not_Epochal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">When is Epochal Revelation not Epochal?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Supreme_Being">
+          <span class="pr-2">The Supreme Being</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The Day of Atonement, with its impressive ritual, is held on the 10th day of the 7th month (Tishi) of the Jewish calendar, and is both the culmination and the crowning of sacrificial worship in the Old Testament. Described in detail in the Pentateuch Book of Leviticus, the ceremony involves both fasting and the slaying of two goats. One is offered as a blood sacrifice to cleanse the “Holy Place” in the Temple and the altar of Burnt Offering. The second becomes the scapegoat for the nation’s sins.
 
@@ -50,3 +74,28 @@ Its great attraction is that it lets us “off the hook” for our nastiness wit
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_3/page6.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/When_is_Epochal_Revelation_not_Epochal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">When is Epochal Revelation not Epochal?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Supreme_Being">
+          <span class="pr-2">The Supreme Being</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

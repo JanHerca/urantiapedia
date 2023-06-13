@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Robert Webb<br>© 1994 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Ravening_Wolves_Swine_Dogs_Sheep_Serpents_and_Doves">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ravening Wolves, Swine, et al</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars">
+          <span class="pr-2">Neutrinos, Neutrons, and Neutron Stars</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The root cause of pain and conflict in the present realm of time and space in which we live is very simple. Tiny material particles exist as constituents of atoms. Space is a three dimensional expanse in which material particles are located. Time is a sequence of moments in which events occur. Physicists have shown that no two material particles can occupy the same space in the same moment of time. At the macro level, when any two bodies attempt to occupy the same moment of space-time, conflict will be automatically generated—which will bring pain.
 
@@ -31,3 +55,28 @@ The physical time-space universe in which we live was created by God—and there
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol1_6/page14.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Ravening_Wolves_Swine_Dogs_Sheep_Serpents_and_Doves">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ravening Wolves, Swine, et al</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-1-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Neutrinos_neutrons_and_neutron_stars">
+          <span class="pr-2">Neutrinos, Neutrons, and Neutron Stars</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

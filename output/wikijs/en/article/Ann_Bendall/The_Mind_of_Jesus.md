@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 Ann Bendall<br>© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Dark_Matter_and_a_String_of_Pearls">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dark Matter and a String of Pearls</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Mathematics_and_Science_catch_up_with_The_Urantia_Book">
+          <span class="pr-2">Mathematics and Science catch up with The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 It is possible to acquire the mind of Jesus. As I currently perceive that mind, it is in terms of his developing a level of universal morality, philosophy and ethics, plus the mental attributes that accompany ways for approaching others and attitudes for dealing with problems so as to reflect his level of morality.
 
@@ -33,6 +57,31 @@ How did he curb the tendency to react to the social environment? It would be nic
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_5/page15.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Dark_Matter_and_a_String_of_Pearls">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dark Matter and a String of Pearls</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Mathematics_and_Science_catch_up_with_The_Urantia_Book">
+          <span class="pr-2">Mathematics and Science catch up with The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

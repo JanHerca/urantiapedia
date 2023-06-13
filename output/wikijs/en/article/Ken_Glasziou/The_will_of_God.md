@@ -9,6 +9,27 @@ dateCreated: 2022-09-26T19:14:54.696Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/More_on_Our_Challenge">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">More on “Our Challenge”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > The keys of the kingdom of heaven are: sincerity, more sincerity, and more sincerity. All men have these keys. Men use them--advance in spirit status--by decisions, by more decisions, and by more decisions. The highest moral choice is the choice of the highest possible value, and always--in any sphere, in all of them--this is to choose to do the _will of God_. If man thus chooses, he is great, though he be the humblest citizen of Jerusem or even the least of mortals on Urantia. ([UB 39:4.14](/en/The_Urantia_Book/39#p4_14))
 
@@ -54,3 +75,24 @@ dateCreated: 2022-09-26T19:14:54.696Z
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_6/page16.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/More_on_Our_Challenge">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">More on “Our Challenge”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

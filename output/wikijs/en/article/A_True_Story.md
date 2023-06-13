@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/What_Am_I">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What Am I?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Hinduism">
+          <span class="pr-2">Hinduism</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 This story was heard during a BBC interview of a senior British policeman who was also a member of a Christian group within the police force. The interviewer asked how being a Christian might have helped the policeman during his police career. Here is his answer:
 
@@ -28,3 +52,28 @@ This story was heard during a BBC interview of a senior British policeman who wa
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_5/page9.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/What_Am_I">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What Am I?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Hinduism">
+          <span class="pr-2">Hinduism</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

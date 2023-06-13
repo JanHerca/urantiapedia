@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Dick Bain<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Why_we_need_to_know_the_earthly_life_of_Jesus_and_how_he_lived_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Why we need to know 'The Earthly Life of Jesus and How He Lived It.'</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Intolerance">
+          <span class="pr-2">Intolerance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Now that I have your attention. . .  I’m sure that those of us in the Urantia community would give a vehement NO to such an idea, but the problem is that there are others who are not students of _The Urantia Book_ who would give a different answer. Suppose that the late Heaven’s Gate group recently of San Diego had mentioned _The Urantia Book_ on their web site or if the book had been found in their rented home after their mass suicide. Perhaps some investigative reporters would have done an in-depth investigation of the Urantia community. Would their exposé portray us as a dangerous or weird cult?
 
@@ -76,3 +100,28 @@ There are many good reasons to be of service to our fellow mortals. Service is j
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_5/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Why_we_need_to_know_the_earthly_life_of_Jesus_and_how_he_lived_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Why we need to know 'The Earthly Life of Jesus and How He Lived It.'</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Intolerance">
+          <span class="pr-2">Intolerance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

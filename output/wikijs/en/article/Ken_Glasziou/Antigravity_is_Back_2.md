@@ -9,6 +9,30 @@ dateCreated: 2022-09-26T03:43:24.961Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Cooking_up_a_Universe_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cooking up a Universe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Colliding_Black_Holes_and_the_Urantia_Papers">
+          <span class="pr-2">Colliding Black Holes and the Urantia Papers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Summary
 
@@ -42,3 +66,28 @@ Among other things The Urantia Book tells us that, “_antigravity is a power of
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol11_3/page22.html
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Cooking_up_a_Universe_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cooking up a Universe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-11-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Colliding_Black_Holes_and_the_Urantia_Papers">
+          <span class="pr-2">Colliding Black Holes and the Urantia Papers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

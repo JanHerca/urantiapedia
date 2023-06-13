@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Meredith Sprunger<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Challenge of the Twenty First Century</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Q_P_Quid/Here_and_There">
+          <span class="pr-2">Here and There</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The material cosmology of the prescientific Biblical world was a simplistic view of a flat earth overarched by a firmament that had holes (stars) through which the light of heaven shone forth. Our current four dimensional scientific material cosmology in which distances are measured in light years indicates how out-of-date Biblical astronomy is. Even religious fundamentalists today have abandoned a flat earth material cosmology.
 
@@ -29,3 +53,28 @@ Here, as in so many other areas of spiritual enlightenment, The Urantia Book pre
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_3/page4.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Challenge of the Twenty First Century</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Q_P_Quid/Here_and_There">
+          <span class="pr-2">Here and There</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

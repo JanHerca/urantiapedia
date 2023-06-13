@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georgina_Merrill/Defamation_of_Character">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Defamation of Character</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Consistency_in_The_Urantia_Book">
+          <span class="pr-2">Consistency in The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 With Jesus birthday coming up in August, perhaps it is the time to give thought to why one who is, to all intents and purposes, God to his own universe, nevertheless should have had come to this lowly planet as a helpless babe and live among us, unrecognized. Abstracting from [UB 120:0.4](/en/The_Urantia_Book/120#p0_4), we find these statements:
 
@@ -140,3 +164,28 @@ And what greater Gift can we offer the God of Nebadon than ourselves? Happy birt
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol3_4/page6.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Georgina_Merrill/Defamation_of_Character">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Defamation of Character</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-3-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 3 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Consistency_in_The_Urantia_Book">
+          <span class="pr-2">Consistency in The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

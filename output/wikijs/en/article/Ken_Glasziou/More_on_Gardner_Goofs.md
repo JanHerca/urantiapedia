@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/The_Visible_Universe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Visible Universe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In detailing their account of life and land evolution on our planet in Urantia Papers [UB 57](/en/The_Urantia_Book/57), [58](/en/The_Urantia_Book/58), [59](/en/The_Urantia_Book/59) and [60](/en/The_Urantia_Book60), their authors have wholeheartedly embraced the concept of continental drift, an idea first touted by Alfred Wegener in 1910. Take away continental drift from these four Papers and they collapse as an irrational heap.
 
@@ -59,6 +80,28 @@ Among much else they state, “_The existence of God can never be proved by scie
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_6/page14.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/The_Visible_Universe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Visible Universe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

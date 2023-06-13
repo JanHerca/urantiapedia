@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Blessed_Assurance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Blessed Assurance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Living_as_Jesus_lived_in_a_family_environment">
+          <span class="pr-2">Living as Jesus lived—in a family environment</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _That evening while teaching in the house, for it had begun to rain, Jesus talked at great length, trying to show the twelve what they must be, not what they must do. They knew only a religion that imposed the doing of certain things as the means of attaining righteousness—salvation. But Jesus would reiterate, “In the kingdom you must be righteous in order to do the work.”_ ([UB 140:10.1](/en/The_Urantia_Book/140#p10_1))
 
@@ -84,3 +108,28 @@ And so, in accord with the cited evidence, we conclude that lives lived in the i
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_6/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Blessed_Assurance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Blessed Assurance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Living_as_Jesus_lived_in_a_family_environment">
+          <span class="pr-2">Living as Jesus lived—in a family environment</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

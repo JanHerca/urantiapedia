@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Unselfishness_Its_Relationship_to_God_Consciousness_and_Religious_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Unselfishness. Its Relationship to God-Consciousness and Religious Experience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Urantia_Book_and_Secondary_Works">
+          <span class="pr-2">The Urantia Book and Secondary Works</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Using wisdom per word as the measure of meaningful content, Section 7 of Paper 16 must rate among the most powerful sections of _The Urantia Book_. It is packed with incredibly precise and decisive snippets of information for we Urantians that are worthy of close and continued study. Among other things, Section 7 instructs about how to spread the principal message of our Revelation—and also how not to attempt to spread it. Maybe the following quote deserves a 10 out of 10 wisdom per word rating:
 
@@ -40,3 +64,28 @@ Is choosing morality and virtue difficult? It should not be so for we have the S
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_3/page6.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Unselfishness_Its_Relationship_to_God_Consciousness_and_Religious_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Unselfishness. Its Relationship to God-Consciousness and Religious Experience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 3 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Urantia_Book_and_Secondary_Works">
+          <span class="pr-2">The Urantia Book and Secondary Works</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

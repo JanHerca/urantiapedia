@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Ken Glasziou<br>© 2000 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Proofn_Spoof">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Proof'n Spoof</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Really_Out_of_Date">
+          <span class="pr-2">Really Out of Date!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > “We **full well know** that, while the historic facts and religious truths of this series of revelatory presentations will stand on the records of the ages to come, within a few short years many of our **statements regarding the physical sciences will stand in need of revision** in consequence of additional scientific developments and new discoveries. These new developments we even now foresee, but **we are forbidden to include such humanly undiscovered facts** in the revelatory records. Let it be made clear that revelations are not necessarily inspired. **The cosmology of these revelations is not inspired.** It is limited by our permission for the co-ordination and sorting of **present-day** (pre-1934) knowledge. While divine or spiritual insight is a gift, human wisdom must evolve.” ([UB 101:4.2](/en/The_Urantia_Book/101#p4_2))
 
@@ -55,3 +79,28 @@ Those familiar with the “grinding poverty” scene will well know the phrase, 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol7_5/page12.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Proofn_Spoof">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Proof'n Spoof</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-7-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Really_Out_of_Date">
+          <span class="pr-2">Really Out of Date!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

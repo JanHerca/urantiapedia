@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ann Bendall<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Swann_Gardner_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Swann, Gardner, and The Urantia Book—Protons and Electrons</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sydney_Harris/A_God_of_Fundamentals_Who_is_a_Light_Not_a_Lash">
+          <span class="pr-2">A God of Fundamentals who is a Light, not a Lash</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 “_The process of striving to make sense out of a potentially overwhelming world of experience involves internalizing thoughts and feelings about what is right or wrong, normal or abnormal, good or bad, and so forth. These are the value judgments that serve to define the limits of experience._” (_When Living Hurts_, Michael Yappo, 1994) And it is a person’s value system, more than any other single factor, that is the greatest determinant of what one is and is not able to do.
 
@@ -53,3 +77,28 @@ Can we rid ourselves of false values? “And when Jesus heard these words, he lo
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_2/page8.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Swann_Gardner_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Swann, Gardner, and The Urantia Book—Protons and Electrons</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sydney_Harris/A_God_of_Fundamentals_Who_is_a_Light_Not_a_Lash">
+          <span class="pr-2">A God of Fundamentals who is a Light, not a Lash</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

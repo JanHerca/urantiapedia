@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ann Bendall<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Webb/On_Space_and_Nothing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Space and Nothing</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Aristotle_Fuzzy_Logic_and_The_Urantia_Book">
+          <span class="pr-2">Aristotle, Fuzzy Logic, and The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In his thirteenth year, and on his first trip to Jerusalem, Jesus and his parents paused to rest in the borders of a little village called Bethany. There Jesus first met Lazarus (same age), Mary (two years younger), and Martha (one year older), who were to become lifelong friends ([UB 124:6.9](/en/The_Urantia_Book/124#p6_9)). Later that week, he was given permission by his parents to spend the Wednesday night of the Passover week at his new-found friends’ home, and here the loving bond was established between the four as Lazarus, Martha and Mary “_heard Jesus discuss things temporal and eternal, human and divine._” ([UB 125:2.7](/en/The_Urantia_Book/125#p2_7)).
 
@@ -47,3 +71,28 @@ And at the same instant, and over the same set of events one friend, Mary, demon
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_2/page11.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Webb/On_Space_and_Nothing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On Space and Nothing</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Aristotle_Fuzzy_Logic_and_The_Urantia_Book">
+          <span class="pr-2">Aristotle, Fuzzy Logic, and The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

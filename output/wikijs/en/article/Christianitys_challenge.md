@@ -9,6 +9,30 @@ dateCreated: 2023-01-21T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2002 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Christianity_hopes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Christianity—hopes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Forward_with_care">
+          <span class="pr-2">Forward with care</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Do not overlook the value of your spiritual heritage, the river of truth running down through the centuries, even to the barren times of a materialistic and secular age. In all your worthy efforts to rid yourselves of the superstitious creeds of past ages, make sure that you hold fast the eternal truth. But be patient! when the present superstition revolt is over, the truths of Jesus' gospel will persist gloriously to illuminate a new and better way.
 
@@ -35,3 +59,27 @@ Revealed religion is the unifying element of human existence. Revelation unifies
 ## External links
 
 * Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol9_4/page15.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Christianity_hopes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Christianity—hopes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-9-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 9 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Forward_with_care">
+          <span class="pr-2">Forward with care</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

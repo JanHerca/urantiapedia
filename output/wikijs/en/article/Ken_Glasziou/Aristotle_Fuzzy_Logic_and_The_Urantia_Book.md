@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Rebuke_to_One_Friend_in_Defence_of_Another">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Rebuke to One Friend in Defence of Another</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Fuzzy_Thinking">
+          <span class="pr-2">On Fuzzy Thinking</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Faith that all things are either black or white reaches back in the West to at least the ancient Greeks when Democritus reduced the universe to atoms and void, Plato filled his world with pure forms, and Aristotle wrote down his rules of logic that scientists and mathematicians still use to describe and discuss what is essentially a gray universe. Aristotle taught us to always draw the line between opposites, between thing and not-thing. The better you draw these lines, the more logical your mind, and the more exact your science. Aristotle’s binary logic reduces to one law—either A or not-A, either the sky is blue or not-blue, either a rose is red or not-red.
 
@@ -43,3 +67,28 @@ Within the next decade, our habits of thinking about what is wholly true and wha
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_2/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Rebuke_to_One_Friend_in_Defence_of_Another">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Rebuke to One Friend in Defence of Another</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 2 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/On_Fuzzy_Thinking">
+          <span class="pr-2">On Fuzzy Thinking</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

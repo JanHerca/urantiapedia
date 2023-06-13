@@ -9,6 +9,27 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ken Glasziou<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rob_Crickett/Providing_Urantianite_Spiritual_Leadership">
+          <span class="pr-2">Providing Urantianite Spiritual Leadership</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Various skeptics have put forward the names of a number of single authors whom they think may have been responsible for writing _The Urantia Book_. Among these suggestions are Dr W. Sadler, Wilfred Kellogg, Carl Jung, H.G. Wells, and Robert Millikin. I first read the book in response to a request to give an opinion on the claims by its authors for its revelatory status. My initial attitude was highly skeptical and my first reaction was that it must have been written by a group of well-meaning academics on a save-the-world mission.
 
@@ -51,3 +72,25 @@ There is no good reason why such family members, or still living associates, sho
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page2.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rob_Crickett/Providing_Urantianite_Spiritual_Leadership">
+          <span class="pr-2">Providing Urantianite Spiritual Leadership</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

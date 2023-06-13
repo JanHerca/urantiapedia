@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Fathers_Business">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Father's Business</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/The_E_Word">
+          <span class="pr-2">The 'E' Word</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 After a test period spanning more than twenty years, the revelators of the Urantia Papers finally produced their completed version in the years 1934/5. What was their intention as to publication date? Was it immediate—or five, ten, or twenty years hence?
 
@@ -53,3 +77,28 @@ Clambering our way back to reality, we have to accept that it didn’t happen th
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol4_6/page3.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Fathers_Business">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Father's Business</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-4-no-6">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 4 - No. 6 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/The_E_Word">
+          <span class="pr-2">The 'E' Word</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

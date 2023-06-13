@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 J.E.R. Squires<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Creative_Imagination">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Creative Imagination</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/What_Constitutes_Spiritual_Experience">
+          <span class="pr-2">What Constitutes “Spiritual Experience”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 A placebo is a pharmacologically inert substance administered blind (unknown to them) to a control group in a test procedure as a way of detecting the activity of substances or procedures purported to be effective in treating a particular illness.
 
@@ -31,3 +55,28 @@ Whoever said rationality had survival value?
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_5/page12.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Creative_Imagination">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Creative Imagination</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 5 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/What_Constitutes_Spiritual_Experience">
+          <span class="pr-2">What Constitutes “Spiritual Experience”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

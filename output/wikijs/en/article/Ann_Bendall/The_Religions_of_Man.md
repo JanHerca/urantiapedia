@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1995 Ann Bendall<br>© 1995 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jacques_Tetrault/Relating">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Relating!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gloria_and_Ray_Colot/Do_We_Need_Another_Church">
+          <span class="pr-2">Do We Need Another Church</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 About the book _The Religions of Man_, by Huston Smith, 1958 (Harper and Row Inc. New York)
 
@@ -59,3 +83,28 @@ In the end, especially when he laid down his life for his friends, it seemed to 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol2_4/page13.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jacques_Tetrault/Relating">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Relating!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-2-no-4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2 - No. 4 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gloria_and_Ray_Colot/Do_We_Need_Another_Church">
+          <span class="pr-2">Do We Need Another Church</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

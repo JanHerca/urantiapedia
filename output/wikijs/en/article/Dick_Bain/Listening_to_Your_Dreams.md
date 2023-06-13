@@ -9,6 +9,30 @@ dateCreated: 2022-9-9T8:13:39Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Dick Bain<br>© 1998 The Brotherhood of Man Library</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sheila_Kemish/Religion_Science_and_Outdatedness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion, Science, and Outdatedness</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Desiderata">
+          <span class="pr-2">Desiderata</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Our song titles are full of dreams: Beautiful Dreamer, Dream Lover, I’m Dreaming of a White Christmas, etc. Dreams often announced important events to people in the Bible. Two prominent psychologists, Carl Jung and Sigmund Freud, found great, though different, psychological import in dreams. The discoverer of the structure of the benzene ring was led to that discovery by a dream picturing a ring of snakes. Martin Luther King said, “I have a dream. . . ”
 
@@ -46,6 +70,31 @@ As far as I’m concerned, I will continue to look for spiritual meaning in my d
 ## External links
 
 - Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol5_1/page11.html
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sheila_Kemish/Religion_Science_and_Outdatedness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion, Science, and Outdatedness</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_innerface#volume-5-no-1">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5 - No. 1 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Desiderata">
+          <span class="pr-2">Desiderata</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 
