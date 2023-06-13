@@ -3,7 +3,7 @@ title: "The Developing Saga of the Urantia Papers"
 description: 
 published: true
 date: 2023-04-06T21:29:28.075Z
-tags: History, _The Urantia Book_, _The Urantia Book_—Purpose, Innerface International, article
+tags: History, The Urantia Book, The Urantia Book—Purpose, Innerface International, article
 editor: markdown
 dateCreated: 2022-09-26T22:40:28.893Z
 ---
