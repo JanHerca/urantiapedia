@@ -8,7 +8,7 @@ const markdownIt = require('markdown-it')({
 });
 const {readFrom, readFile, reflectPromise, extendArray, getError, getAllIndexes,
 	writeFile, getWikijsHeader, sentenceSimilarity, strformat,
-	fixWikijsHeader} = require('./utils');
+	fixWikijsHeader, getWikijsArticleLinks} = require('./utils');
 const fs = require('fs');
 const path = require('path');
 const Strings = require('./strings');
@@ -25,7 +25,8 @@ class Articles {
 		sourceText: "Source: ",
 		tags: [],
 		issues: [],
-		volumes: []
+		volumes: [],
+		language: 'en'
 	};
 	items = [];
 
@@ -33,6 +34,7 @@ class Articles {
 
 	setLanguage = (language) => {
 		this.language = language;
+		this.index.language = language;
 	};
 	
 	/**
@@ -145,6 +147,8 @@ class Articles {
 	 */
 	readIndexFileFromTSV = (filePath) => {
 		const baseName = path.basename(filePath);
+		const baseName2 = path.basename(filePath, '.tsv');
+		const indexPath = `/${this.language}/index/${baseName2}`;
 		return new Promise((resolve, reject) => {
 			if (this.onProgressFn) {
 				this.onProgressFn(baseName);
@@ -167,6 +171,7 @@ class Articles {
 				let currentVolume = null;
 				let currentIssue = null;
 				let currentArticle = null;
+				let issueAnchor = null;
 				const len = lines[0].trim().split('\t').length;
 				if (len != 2 && len != 4) {
 					reject([this.getError('article_index_missing_data', 1)]);
@@ -186,19 +191,25 @@ class Articles {
 							line.trim().split('\t');
 						if (i === 0) {
 							this.index.title = translation;
-						} else {
-							const item = this.items.find(t => t.line === i);
-							if (item) {
-								item.title = translation;
-							}
-							if (item.path) {
-								item.path = 
-									item.path.replace('/en/', `/${lan}/`);
-							}
-							if (item.authorLink) {
-								item.authorLink =
-									item.authorLink.replace('/en/', `/${lan}/`);
-							}
+							return;
+						}
+						const item = this.items.find(t => t.line === i);
+						if (item) {
+							item.title = translation;
+						}
+						if (item.articles) {
+							issueAnchor = translation
+								.replace(/[\.,\(\)—\-]/g, '')
+								.replace(/( +)/g, '-')
+								.toLowerCase();
+							item.path = indexPath + '#' + issueAnchor;
+						} else if (item.path) {
+							item.path = 
+								item.path.replace('/en/', `/${lan}/`);
+						}
+						if (item.authorLink) {
+							item.authorLink =
+								item.authorLink.replace('/en/', `/${lan}/`);
 						}
 					});
 				} else {
@@ -226,9 +237,14 @@ class Articles {
 							this.index.volumes.push(currentVolume);
 							this.items.push(currentVolume);
 						} else if (this.index.title && author === 'is-issue') {
+							issueAnchor = title
+								.replace(/[\.,\(\)—\-]/g, '')
+								.replace(/( +)/g, '-')
+								.toLowerCase();
 							currentIssue = {
 								title: title,
 								line: i,
+								path: indexPath + '#' + issueAnchor,
 								imagePath: path ? path : '',
 								articles: []
 							};
@@ -590,6 +606,102 @@ class Articles {
 				.catch(err2 => {
 					writeFile();
 				});
+		});
+	};
+
+	/**
+	 * Writes naviagation headers of articles in Wiki.js format. 
+	 * Articles must be in Markdown format, and if a header is already 
+	 * detected, it is not added.
+	 * @param {string} dirPath Output folder.
+	 * @return {Promise}
+	 */
+	writeNavigationHeadersToWikijs = (dirPath) => {
+		return new Promise((resolve, reject) => {
+			//Loop through issues/articles
+			const issues = [];
+			if (this.index.issues.length > 0) {
+				this.index.issues.forEach(issue => issues.push(issue));
+			} else if (this.index.volumes.length > 0) {
+				this.index.volumes.forEach(volume => {
+					volume.issues.forEach(issue => issues.push(issue));
+				});
+			}
+			if (issues.length == 0) {
+				reject([this.getError('article_index_no_issues')]);
+				return;
+			}
+
+			const promises = [];
+			const hStart = '<figure class="table chapter-navigator">';
+			issues.forEach(issue => {
+				issue.articles.forEach((article, i) => {
+					const apath = article.path
+						.replace(`/${this.language}/article/`, '')
+						.split('/');
+					const filePath = path.join(dirPath, ...apath) + '.md';
+					const promise = readFile(filePath)
+						.then(lines => {
+							if (lines.find(line => line.startsWith(hStart))) {
+								return Promise.resolve(null);
+							}
+							const index = lines.findIndex(line => {
+								return line.startsWith('<p class="v-card');
+							});
+							if (index === -1) {
+								const err = this.getError(
+									'article_has_no_copyright_card', 
+									article.path);
+								return Promise.reject(err);
+							}
+							const prev = (i === 0 ? null : issue.articles[i-1]);
+							const next = (i === issue.articles.length - 1 ?
+								null : issue.articles[i+1]);
+							const header = getWikijsArticleLinks(prev, issue, 
+								next);
+							const hasNotes = (lines.findIndex(line => {
+								return line.startsWith('[^1]:');
+							}) != -1);
+							let index2 = -1;
+							lines.forEach((line, j) => {
+								if (line.startsWith('## ')) {
+									index2 = j;
+								}
+							});
+							index2 = (hasNotes && index2 != -1 ? index2 : -1);
+							const n1 = lines.slice(0, index+1);
+							const n2 = header.split('\n');
+							const n3 = (index2 != -1 ? 
+								lines.slice(index+1, index2) :
+								lines.slice(index+1));
+							const n4 = ['', ...header.split('\n')];
+							const n5 = (index2 != -1 ?
+								lines.slice(index2) : []);
+							const newlines = [
+								...n1, ...n2, ...n3, ...n4, ...n5];
+							return Promise.resolve(newlines);
+						})
+						.then(lines => {
+							if (!lines) {
+								return null;
+							}
+							const content = lines.join('\n');
+							return writeFile(filePath, content);
+						});
+					promises.push(reflectPromise(promise));
+				});
+			});
+
+			Promise.all(promises)
+				.then((results) => {
+					const errors = [];
+					results.forEach(r => extendArray(errors, r.error));
+					if (errors.length === 0) {
+						resolve(null);
+					} else {
+						reject(errors);
+					}
+				})
 		});
 	};
 

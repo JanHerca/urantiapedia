@@ -394,6 +394,16 @@ const Processes = {
 		paths: [['input', 'txt', 'articles-{0}', 'articles_innerface.tsv'],
 				['output', 'wikijs', '{0}', 'index', 'articles_innerface.html']]
 	},
+	"ARTICLE_NAVIGATION_HEADERS_IN_WIKIJS": {
+		active: true,
+		desc: {
+			en: "ARTICLES: Add a navigation header to articles in Wiki.js",
+			es: "ARTICULOS: Añadir cabecera a los artículos en Wiki.js"
+		},
+		controls: ['fnTTextbox', 'dirHTextbox'],
+		paths: [['input', 'txt', 'articles-{0}', 'articles_innerface.tsv'],
+			['output', 'wikijs', '{0}', 'article']]
+	},
 	"ALL_INDEXES": {
 		active: true,
 		desc: {

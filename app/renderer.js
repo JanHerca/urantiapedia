@@ -945,6 +945,22 @@ const handle_exeButtonClick = () => {
 				.then(() => onSuccess(okMsgs))
 				.catch(onFail);
 		}
+	} else if (process === 'ARTICLE_NAVIGATION_HEADERS_IN_WIKIJS') {
+		// Reads Articles Index File (TSV)
+		// Writes in articles in Wiki.js
+		if (lan === 'en') {
+			articles.readIndexFileFromTSV(txtFile)
+				.then(() => articles.writeNavigationHeadersToWikijs(htmlDir))
+				.then(() => onSuccess(okMsgs))
+				.catch(onFail);
+		} else {
+			const txtFileEN = txtFile.replace('articles-' + lan, 'articles-en');
+			articles.readIndexFileFromTSV(txtFileEN)
+				.then(() => articles.readIndexFileFromTSV(txtFile))
+				.then(() => articles.writeNavigationHeadersToWikijs(htmlDir))
+				.then(() => onSuccess(okMsgs))
+				.catch(onFail);
+		}
 	} else if (process === 'ALL_INDEXES') {
 		// Creates a page of all indexes
 		getListOfAllIndexes(htmlDir)

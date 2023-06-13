@@ -1671,6 +1671,14 @@ const Strings = {
 		en: "Article index missing data in line {0}",
 		es: "Índice de artículos requiere datos en línea {0}"
 	},
+	"article_index_no_issues": {
+		en: "Article index has no issues",
+		es: "Índice de artículos no tiene números de revista"
+	},
+	"article_has_no_copyright_card": {
+		en: "Article has no copyright card: {0}",
+		es: "El artículo no tiene nota de copyright: {0}"
+	},
 	"folder_no_access": {
 		en: "Folder {0} is not accessible",
 		es: "El directorio {0} no está accesible"

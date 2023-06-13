@@ -27,7 +27,7 @@ if volumes.length > 0
 								if article.author != ''
 									a(href=article.authorLink class="mr-2")= article.author
 								each tag in article.tags
-									a(href="/t/" + tag, class=classes)
+									a(href="/t/" + tag + "?lang=" + language + "&sort=title", class=classes)
 										span.v-chip__content
 											i(aria-hidden="true" class=classes2 style="font-size: 16px;")
 											span(class="teal--text text--darken-2")= tag
@@ -64,7 +64,7 @@ else if issues.length > 0
 							if article.author != ''
 								a(href=article.authorLink class="mr-2")= article.author
 							each tag in article.tags
-								a(href="/t/" + tag, class=classes)
+								a(href="/t/" + tag + "?lang=" + language + "&sort=title", class=classes)
 									span.v-chip__content
 										i(aria-hidden="true" class=classes2 style="font-size: 16px;")
 										span(class="teal--text text--darken-2")= tag

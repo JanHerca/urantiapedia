@@ -570,6 +570,34 @@ exports.getWikijsLinks = (prevLink, indexLink, nextLink) => {
 };
 
 /**
+ * Returns the links to show on top and bottom of an article of a issue.
+ * @param {?Object} prevArticle Previous article.
+ * @param {Object} issue Issue.
+ * @param {?Object} nextArticle Next article.
+ * @return {string}
+ */
+exports.getWikijsArticleLinks = (prevArticle, issue, nextArticle) => {
+	const lan = issue.path.split('/')[1];
+	const indexName = issue.title + ' — ' + Strings.bookIndexName[lan];
+	const prevLink = (prevArticle ?
+		`        <a href="${prevArticle.path}">\r\n` +
+		`          <span class="mdi mdi-arrow-left-drop-circle"></span>` +
+			`<span class="pl-2">${prevArticle.title}</span>\r\n` +
+		`        </a>\r\n` : '');
+	const indexLink = 
+		`        <a href="${issue.path}">\r\n` +
+		`          <span class="mdi mdi-book-open-variant"></span>` +
+			`<span class="pl-2">${indexName}</span>\r\n` +
+		`        </a>\r\n`;
+	const nextLink = (nextArticle ?
+		`        <a href="${nextArticle.path}">\r\n` +
+		`          <span class="pr-2">${nextArticle.title}</span>` +
+			`<span class="mdi mdi-arrow-right-drop-circle"></span>\r\n` +
+		`        </a>\r\n` : '');
+	return exports.getWikijsLinks(prevLink, indexLink, nextLink);
+};
+
+/**
  * Gets the HTML fragment in Wiki.js for the copyright of the Urantia Book.
  * @param {number[]} years The array of years of each translation.
  * @param {string} language Language code.
