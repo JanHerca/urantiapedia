@@ -1,5 +1,5 @@
 ---
-title: "The Mighty Messenger — Fall 1997 Issue"
+title: "The Mighty Messenger — Spring 2014 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -8,24 +8,24 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Avi Dogim, Meredith J. Sprunger, Peter Laurence<br>© 1997 The Urantia Book Fellowship</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Avi Dogim, Meredith J. Sprunger, Peter Laurence<br>© 2014 The Urantia Book Fellowship</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/The_Mighty_Messenger_1997_Summer">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Summer 1997</span>
+        <a href="/en/article/The_Mighty_Messenger_2013_Winter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Winter 2013</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-1997">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1997 — Index</span>
+        <a href="/en/index/articles_mighty_messenger#spring-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2014 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/The_Mighty_Messenger_1997_Winter">
-          <span class="pr-2">Winter 1997</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/The_Mighty_Messenger_2014_Winter">
+          <span class="pr-2">Winter 2014</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -37,7 +37,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## External Links
 
-* Newsletter in The Urantia Book Fellowship: https://archive.urantiabook.org/archive/newsletters/mmfall97.htm
+* Newsletter in The Urantia Book Fellowship: https://archive.urantiabook.org/archive/newsletters/mightymessenger/MMspring14.pdf
 
 
 <figure class="table chapter-navigator">
@@ -45,18 +45,18 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/The_Mighty_Messenger_1997_Summer">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Summer 1997</span>
+        <a href="/en/article/The_Mighty_Messenger_2013_Winter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Winter 2013</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-1997">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1997 — Index</span>
+        <a href="/en/index/articles_mighty_messenger#spring-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2014 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/The_Mighty_Messenger_1997_Winter">
-          <span class="pr-2">Winter 1997</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/The_Mighty_Messenger_2014_Winter">
+          <span class="pr-2">Winter 2014</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
