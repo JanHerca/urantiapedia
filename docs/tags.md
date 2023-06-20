@@ -173,6 +173,7 @@ Latin America
 Le Lien
 Leadership
 Leadership Development
+LGBT
 Life after death
 Logic
 Love and the Golden Rule
@@ -183,6 +184,7 @@ Mathematics
 Medicine
 Meditation
 Michael
+Mighty Messenger
 Mind
 Morality
 Music
