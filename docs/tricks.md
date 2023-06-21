@@ -152,14 +152,21 @@ Convert Word file to Markdown:
 - Ensure Pandoc is installed with `pandoc -h`
 - Convert with: `pandoc -t markdown_mmd --extract-media . <word_file>.docx -o <md_file>.md` (it is required to be inside the folder with the files)
 
+Unfortunately Pandoc cannot convert from pdf, only uses pdf as output.
+
 ## Other tools
 
 * Test regular expressions: https://regex101.com/
-
-* Convert pdf to markdown: https://pdf2md.morethan.io/
-
+* Convert pdf to markdown (only text, not images): 
+  * https://pdf2md.morethan.io/
+  * https://github.com/jzillmann/pdf-to-markdown
+  * https://github.com/bsorrentino/pdf-tools
+* Convert pdf to markdown (really good results, export images): 
+  * https://products.aspose.app/words/es/conversion/pdf-to-md
+  * Previous product as API for creating our own apps (problem, this aPI is super expensive): https://github.com/aspose-words/Aspose.Words-for-.NET
+  * Documentation of previous product: https://reference.aspose.com/words/net/
 * Convert pdf, even scanned pdf, to MS Word: https://www.onlineocr.net/
-
+* Split pdf in several files by size: https://deftpdf.com/split-pdf-by-size
 * Scan books: see HOWTO_scan_books
 
 ## Sample of Markdown article header

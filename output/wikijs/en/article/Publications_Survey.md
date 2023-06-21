@@ -1,0 +1,45 @@
+---
+title: "Publications Survey"
+description: "The Mighty Messenger — Spring 2019 Issue: News and opinions for Readers of The Urantia Book"
+published: true
+date: 2023-6-21T8:13:38Z
+tags: Fellowship, Mighty Messenger, article
+editor: markdown
+dateCreated: 2023-6-21T8:13:38Z
+---
+
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 The Urantia Book Fellowship</p>
+
+## Publications Survey
+
+Would you prefer to receive our magazines, the Mighty Messenger and Fellowship Herald, in electronic form or in print? Please let us know here: Publications Survey
+
+Point your phone at this QR code to take the Publications Survey:
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<img src="/image/article/The_Mighty_Messenger/2019_Spring/029.jpg">
+</figure>
+
+Thank you, Cristina Seaborn, Publications Chair
+
+You can help the Fellowship to keep our great publications FREE.
+
+Please consider donating $35.00 a year! Donate Today!!! Point your phone at this code to donate to the Urantia Book Fellowship:
+
+<figure id="Figure_2" class="image urantiapedia image-style-align-left">
+<img src="/image/article/The_Mighty_Messenger/2019_Spring/030.jpg">
+</figure>
+
+Or send a check to:
+
+Urantia Book Fellowship
+8774 Yates Drive, Suite 310
+Westminster CO 80031
+(303) 467-7858
+
+Urantia Book Fellowship Publication deadlines are:
+- Mighty Messenger September 15^th^ and March 15^th^
+- Fellowship Herald April 15^th^
+- Mini Messenger 15^th^ of every month.
+
+Submit articles to: Cristina Seaborn, Publications Chair publications@urantiabook.org 

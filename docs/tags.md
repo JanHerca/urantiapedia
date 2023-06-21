@@ -204,6 +204,7 @@ Philosophy of organizing
 Physics
 Place
 Planetary government
+Poetry
 Prayer
 Presentation
 Prophecy
@@ -254,6 +255,8 @@ UAI Journal
 UB annotated
 Universe Mother Spirit
 Urantia
+Urantia Movement
+Urantia Movement Event
 Urantiapedia
 Urantian Journal
 Video
