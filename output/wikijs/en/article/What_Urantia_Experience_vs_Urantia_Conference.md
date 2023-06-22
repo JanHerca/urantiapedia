@@ -1,0 +1,31 @@
+---
+title: "What is a “Urantia Experience” vs. “Urantia Conference?”"
+description: "The Mighty Messenger — Spring 2020  Issue: News and opinions for Readers of The Urantia Book"
+published: true
+date: 2023-6-21T8:13:38Z
+tags: Urantia Movement Event, Mighty Messenger, article
+editor: markdown
+dateCreated: 2023-6-21T8:13:38Z
+---
+
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 The Urantia Book Fellowship</p>
+
+This is an Experiment. Rather than presenting to you, we want you to be a part of the experience. Rather than being a passive attendee, we want you to be actively engaged in focused discussions aimed directly at working with God the Supreme to improve civilization.
+
+Come prepared to contribute to the advancement of civilization and to share your vision of how to move the planet along towards light and life.
+
+There will be an emphasis on worshipful problem solving.
+
+We want it to be less about “Me” and more about “We” and more about “us” collectively than “we and they” separately. More about unity and less about division. In addition to focus discussions on improvements to civilization, there will be presentations from farseeing individuals who are already trying to advance civilization. These people (and we are still looking for more) will be presenting their ideas, sharing their efforts and looking for input on their individual projects.
+
+We want you to come away with the feeling that together we can contribute to advancing the revelation and civilization.
+
+Experience - Urantia Global Experience
+
+Find out more and register here:
+
+https://urantiaglobalexperience.com/
+
+<figure id="Figure_1" class="image urantiapedia">
+<img src="/image/article/The_Mighty_Messenger/2020_Spring/002.jpg">
+</figure>

@@ -15,6 +15,7 @@ Article
 Ascendant Career
 Astronomy
 Author
+Bahai
 Beginner Studies
 Bible
 Bible—1 Chronicles
@@ -233,6 +234,7 @@ Spiritual Growth
 Study Aid
 Study Groups
 Suffering
+Sufism
 Teaching Methods
 The Publication Mandate
 The Supreme

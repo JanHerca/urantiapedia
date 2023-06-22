@@ -3,7 +3,7 @@ title: "The Parliament of the World's Religions"
 description: "The Mighty Messenger — Fall 2018 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
+tags: Interfaith, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---

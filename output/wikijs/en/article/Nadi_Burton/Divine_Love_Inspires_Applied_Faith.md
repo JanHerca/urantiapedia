@@ -3,7 +3,7 @@ title: "Divine Love Inspires Applied Faith"
 description: "The Mighty Messenger — Fall 2018 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
+tags: Divine love, Faith, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -40,7 +40,9 @@ by _Nadi Burton_
 </figure>
 
 Divine love energizes and, stimulates the living powers of faith-the Creator's gift-spiritually activating, and divinely inspiring wholehearted, consecrated, lovefilled actions; true love, actuating high ethical and moral values, and, staunchly, faithfully enacted in the very midst of any and all opposing, and resisting challenges-even seeming hopelessness-is not necessarily evidential in the exterior life, for it leads forth from its interior presence, galvanizing, urging on the faith-realization, and love-embraced personality, through the experience of real love shared in affectionate relationship to the Divine Heart present and, personalizing inand-through one's soul.
+
 Through applied faith in the verities of agape love, we endeavor to maintain a spiritual attachment, faithful connection, trusting contact, and, come what may, devoted knowing, faithfully upholding that supreme relationship with the invisible reality of the indwelling God-self of love, even while the world at large may seem lost to the everpresent actuality of such love; our numerous trials of love reinforces the heart, builds spiritual character, and, in being steadfast in loving faith, our eternal life-line to love is everstrengthened; our spiritualizing future is fostered by keeping the heart single to the endearing companionship of the Spirit of Love.
+
 Our dedicated, and faith-fortified works of love and loving services, are anchored, enhanced, and emboldened, by the dynamic free flowing nature of infinite love; through every adversity divine love conjoins with applied faith, in the soul, for the full enactment of an ever-trusting hope that embodies convictions, loyalties, aspirations, and deeds rooted in the Spirit of Love, and creatively performed upon the living stage of life; thus, faithfully sharing the inner-life of love with our dearly beloved Creator, in the righteous faithfulness of doing the Eternal One's will-whose universal loving ministry is applied love-without a doubt, is our certain spiritual grounds for sustained inspirational faithfulness in truthfully, unreservedly, loving one another.
 
 NADI
