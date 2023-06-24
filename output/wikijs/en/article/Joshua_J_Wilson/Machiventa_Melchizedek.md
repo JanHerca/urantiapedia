@@ -3,7 +3,7 @@ title: "Machiventa Melchizedek"
 description: "The Mighty Messenger — Spring 2019 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
-tags: Epochal Revelations, Mighty Messenger, article
+tags: Machiventa, Epochal Revelations, Mighty Messenger, article
 editor: markdown
 dateCreated: 2023-6-21T8:13:38Z
 ---
