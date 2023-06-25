@@ -1,6 +1,6 @@
 ---
 title: "The Mighty Messenger Spring 2021 — Cover"
-description: "The Mighty Messenger — Spring 2021  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Spring 2021 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Machiventa, Mighty Messenger, article

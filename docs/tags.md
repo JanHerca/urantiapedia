@@ -13,7 +13,9 @@ Archaeology
 Art
 Article
 Ascendant Career
+Asia
 Astronomy
+Atheism
 Author
 Bahai
 Beginner Studies

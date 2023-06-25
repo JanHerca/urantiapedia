@@ -10,7 +10,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Chuck Thurston<br>© 2021 The Urantia Book Fellowship</p>
 
-<figure id="Figure_1" class="image urantiapedia  image-style-align-left">
+<figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/011.jpg">
 </figure>
 
