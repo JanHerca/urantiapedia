@@ -12,25 +12,29 @@ dateCreated: 2023-6-21T8:13:38Z
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/002.jpg">
+<figcaption><em>Cover art by Patrick Yesh</em></figcaption>
 </figure>
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/003.jpg">
+<figcaption><em>Inside cover art by Jeff Haworth</em></figcaption>
 </figure>
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/The_Mighty_Messenger/2021_Spring/004.jpg">
+<img src="/image/article/The_Mighty_Messenger/2021_Spring/055.jpg">
+<figcaption><em>Inside back cover art by John Byron</em></figcaption>
 </figure>
-
-Cover art by Patrick Yesh
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/The_Mighty_Messenger/2021_Spring/005.jpg">
+<img src="/image/article/The_Mighty_Messenger/2021_Spring/004.jpg">
+<figcaption><em>Patrick Yesh</em></figcaption>
 </figure>
 
-Inside cover art by Jeff Haworth
+<figure id="Figure_5" class="image urantiapedia">
+<img src="/image/article/The_Mighty_Messenger/2021_Spring/005.jpg">
+<figcaption><em>Jeff Haworth</em></figcaption>
+</figure>
 
-Inside back cover art by John Byron
 
 DISCLAIMER STATEMENT
 
