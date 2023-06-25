@@ -18,6 +18,7 @@ Este é o principal índice para documentação na própria Urantiapedia. Por fa
   5. [Idiomas suportados](/pt/help/languages)
   6. [Status Atual](/pt/help/status)
   7. [Sites para referências](/pt/help/websites)
+  8. [Urantiapedia - Links](/pt/help/links)
 - Sobre funções
   1. [Perfis de colaborador](/pt/help/roles)
   2. [Ajuda dos administradores](/pt/help/admin)

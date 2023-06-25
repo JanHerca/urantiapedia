@@ -17,7 +17,8 @@ C'est l'index principal de la documentation sur Urantiapedia elle-même. Veuille
   4. [Jalons du projet](/fr/help/phases)
   5. [Langues prises en charge](/fr/help/languages)
   6. [État actuel](/fr/help/status)
-  7. [Sites de références](/fr/help(websites))
+  7. [Sites de références](/fr/help/websites)
+  8. [Urantiapedia - Liens](/fr/help/links)
 - À propos des rôles
   1. [Profils des collaborateurs](/fr/help/roles)
   2. [Aide des administrateurs](/fr/help/admin)

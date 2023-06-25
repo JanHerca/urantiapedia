@@ -14,7 +14,7 @@ dateCreated: 2022-12-18T14:02:03.086Z
       <tr>
         <td><a href="/es/help/status">Progreso actual del proyecto</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/roles">Perfiles de colaboradores</a></td>
+        <td><a href="/es/help/links">Enlaces en Urantiapedia</a></td>
       </tr>
     </tbody>
   </table>
@@ -134,9 +134,9 @@ En el listado a continuación indicamos el catálogo de sitios web cuyos conteni
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/languages">Progreso actual del proyecto</a></td>
+        <td><a href="/es/help/status">Progreso actual del proyecto</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/roles">Perfiles de colaboradores</a></td>
+        <td><a href="/es/help/links">Enlaces en Urantiapedia</a></td>
       </tr>
     </tbody>
   </table>

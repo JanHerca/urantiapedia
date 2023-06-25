@@ -14,7 +14,7 @@ dateCreated: 2022-12-18T14:02:03.086Z
       <tr>
         <td><a href="/fr/help/status">Avancement actuel du projet</a></td>
         <td><a href="/fr/help">Table des matières</a></td>
-        <td><a href="/fr/help/roles">Collaborators profiles</a></td>
+        <td><a href="/fr/help/links">Urantiapedia - Liens</a></td>
       </tr>
     </tbody>
   </table>
@@ -137,7 +137,7 @@ Dans la liste ci-dessous, nous indiquons le catalogue des sites Web dont le cont
       <tr>
         <td><a href="/fr/help/status">Avancement actuel du projet</a></td>
         <td><a href="/fr/help">Table des matières</a></td>
-        <td><a href="/fr/help/roles">Collaborators profiles</a></td>
+        <td><a href="/fr/help/links">Urantiapedia - Liens</a></td>
       </tr>
     </tbody>
   </table>

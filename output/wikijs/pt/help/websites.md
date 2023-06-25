@@ -14,7 +14,7 @@ dateCreated: 2022-12-18T14:02:03.086Z
       <tr>
         <td><a href="/pt/help/status">Progresso atual do projeto</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/roles">Perfis de Colaboradores</a></td>
+        <td><a href="/pt/help/links">Urantiapedia - Links</a></td>
       </tr>
     </tbody>
   </table>
@@ -137,7 +137,7 @@ Na lista abaixo indicamos o catálogo de websites cujos conteúdos pendentes ser
       <tr>
         <td><a href="/pt/help/status">Progresso atual do projeto</a></td>
         <td><a href="/pt/help">Índice</a></td>
-        <td><a href="/pt/help/roles">Perfis de Colaboradores</a></td>
+        <td><a href="/pt/help/links">Urantiapedia - Links</a></td>
       </tr>
     </tbody>
   </table>

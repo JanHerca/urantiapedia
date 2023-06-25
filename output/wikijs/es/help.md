@@ -18,6 +18,7 @@ Este es el índice principal de documentación sobre Urantiapedia en sí. Por fa
   5. [Idiomas soportados](/es/help/languages)
   6. [Progreso actual del proyecto](/es/help/status)
   7. [Sitios web de referencia](/es/help/websites)
+  8. [Enlaces en Urantiapedia](/es/help/links)
 - Acerca de los perfiles
   1. [Perfiles de colaboradores](/es/help/roles)
   2. [Manual para Administradores](/es/help/admin)
