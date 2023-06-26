@@ -51,7 +51,7 @@ Source:
 
 ### Mighty Messenger
 
-![](/image/article/Group_banners/Mighty_Messenger.jpg)
+![](/image/article/Group_banners/Study_Group_Herald.jpg)
 
 Mighty Messenger is a annual or bi-annual publication edited by The Urantia Book Fellowship with news and opinions for Readers of The Urantia Book.
 
@@ -88,7 +88,7 @@ Source: https://urantia-book.org/archive/newsletters/urantian_journal/
 
 ![](/image/article/Group_banners/UAI_Journal.jpg)
 
-Quarterly magazine of articles and study aids created by readers and for readers of _The Urantia Book_.
+The International Association _Journal_ is a quarterly magazine of articles and study aids created by readers and for readers of _The Urantia Book_.
 
 The index of all available issues is here: [International Association Journal Articles Index](/en/index/articles_international_journal).
 
@@ -98,7 +98,7 @@ Source: https://urantia-association.org/journal-online/
 
 ![](/image/article/Group_banners/Tidings.jpg)
 
-The Tidings newsletter is a quarterly on-line publication that serves as Urantia Association International’s primary communication tool.
+The _Tidings_ newsletter is a quarterly on-line publication that serves as Urantia Association International’s primary communication tool.
 
 The index of all available issues is here: [International Association Tidings](/en/index/articles_tidings).
 
@@ -107,7 +107,7 @@ Source: https://urantia-association.org/about-tidings-newsletter/
 ## Brotherhood of Man Library
 ### Innerface International
 
-![](/image/article/Group_banners/UAI_Journal.jpg)
+![](/image/article/Group_banners/Innerface.jpg)
 
 The _Innerface International_ is an old bi-monthly publication that came to an end a few years ago.
 
@@ -120,7 +120,7 @@ Source: https://urantia-book.org/archive/newsletters/innerface/index.html
 
 ![](/image/article/Group_banners/Spiritual_Fellowship_Journal.jpg)
 
-The Spiritual Fellowship Journal is an ecumenical publication published twice yearly between 1991 and 2006 by The Spiritual Fellowship. Its purpose is to support the larger Urantia Community, especially as it seeks to interface with the cultures and religious institutions of our world. It also seeks to address issues of special concern in the establishment of new religious institutions with roots in the Fifth Epochal Revelation.
+The _Spiritual Fellowship Journal_ is an ecumenical publication published twice yearly between 1991 and 2006 by The Spiritual Fellowship. Its purpose is to support the larger Urantia Community, especially as it seeks to interface with the cultures and religious institutions of our world. It also seeks to address issues of special concern in the establishment of new religious institutions with roots in the Fifth Epochal Revelation.
 
 The index of all available issues is here: [The Urantian Journal of Urantia BrotherHood](/en/index/articles_spiritual_fellowship_journal).
 
@@ -143,7 +143,7 @@ Source:
 
 ![](/image/article/Group_banners/Jan_Herca.jpg)
 
-Jan Herca is a reader of _The Urantia Book_ who has a website where he shares progress on a novel about the life of Jesus based on _The Urantia Book_ as well as her research on Jesus' time and teachings.
+Jan Herca is a reader of _The Urantia Book_ who has a website where he shares progress on a novel about the life of Jesus based on _The Urantia Book_ as well as his research on Jesus' time and teachings.
 
 The index of all available articles is here: [Jan Herca's Articles Index](/en/index/articles_jan_herca).
 
