@@ -12,6 +12,7 @@ Tidings is a regular publication from International Urantia Association. We repr
 
 https://urantia-association.org/tidings-online-archives/
 
+This list are just extracts of each newsletter, but the list will be redone with all the content. The purpose of Urantiapedia is to offer the journal completely as it is published in UAI, with the benefits of linking the journal to the rest of contents in Urantiapedia.
 ## 2005
 
 | Issue | Title                                                    | Author                  |
