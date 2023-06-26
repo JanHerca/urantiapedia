@@ -51,7 +51,7 @@ Source:
 
 ### Mighty Messenger
 
-![](/image/article/Group_banners/Study_Group_Herald.jpg)
+![](/image/article/Group_banners/Mighty_Messenger.jpg)
 
 Mighty Messenger is a annual or bi-annual publication edited by The Urantia Book Fellowship with news and opinions for Readers of The Urantia Book.
 
@@ -63,7 +63,7 @@ Source:
 
 ### The Study Group Herald
 
-![](/image/article/Group_banners/Mighty_Messenger.jpg)
+![](/image/article/Group_banners/Study_Group_Herald.jpg)
 
 The Study Group Herald was an old publication by The Fellowship, former The Urantia Book Fellowship, published during a few years in the 90's.
 
