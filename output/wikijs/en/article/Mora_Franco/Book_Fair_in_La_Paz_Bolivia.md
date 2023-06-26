@@ -48,7 +48,7 @@ Alejandro arrived at the (August 3-14, 2022) book fair in La Paz on August 3, an
 
 But guess what? Those booths just happened to be right in front of _The Urantia Book_ booth.
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/057.jpg">
 <figcaption><em>Alejandro Ampudia, Area coordinator for Peru, and Ernesto Chicher.</em><figcaption>
 </figure>
@@ -57,7 +57,7 @@ Alejandro saw the president and without hesitation talked with Ernesto and Eddy 
 
 They tried to do it, and they very much succeeded. Alejandro, who is tall with a loud voice, approached the president without hesitation, until he was abruptly stopped by the presidential guard. With a loud voice he kept repeating, “Mr. President, sir please, I want to give you a book!” And he kept on repeating this until he caught the President's attention, and the President told security to allow him to come forward. And so Alejandro, approaching emotionally, handed him a copy of _The Urantia Book_, managing to say a few words and even to proudly pose with him for a photograph.
 
-<figure id="Figure_3" class="image urantiapedia image-style-align-right">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/009.jpg">
 <figcaption><em>President of Bolivia: Don Luis Arce Catacora, who received a gifted Libro de Urantia from Alejandro.</em><figcaption>
 </figure>
@@ -66,17 +66,17 @@ Alejandro tells us, “In truth it was the Father who motivated me to insist, an
 
 Throughout the days of the book fair, the friendliness, kindness, and brotherhood between Alejandro, Ernesto, and Eddy, the three Urantia Book readers who were attending the booth, stood out, hopefully demonstrating to all the fruits of the spirit in action.
 
-<figure id="Figure_4" class="image urantiapedia image-style-align-right">
+<figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/010.jpg">
+</figure>
+
+<figure id="Figure_5" class="image urantiapedia image-style-align-right">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/058.jpg">
 </figure>
 
 Ernesto tells us that thirty-nine Urantia Books were sold at the fair and more than a hundred copies of his own book, _Answers of the Fifth Revelation_, that he wrote during the pandemic, were sold or given away. He explained that his book, having a much smaller number of pages and a reasonable price tag, was more effective at arousing the curiosity of the more casual or half-hearted seeker of truth. Besides _The Urantia Book_ given to the President of Bolivia, another was given to a young schoolgirl who visited the book fair together with a couple of classmates. In his own words, Ernesto tells us, “The young student asked and asked for and about the book, and while I was talking to her, I felt this plan forming in my mind. At one point in the conversation she shook her head and said, ‘I feel like crying.’ I could tell she was poor and of humble origin, and wasn't going to be able to afford the book, and suddenly something prompted me to give it to her, so I excitedly handed her the book.” 
 
 Between the three of them present at the booth, contact was made with a local bookstore requesting to be regularly supplied with copies of _The Urantia Book_. Many interested people who approached the booth freely gave their contact information, and an important database was established for future use. These people Will be made aware of future events, such as conferences, Zoom meetings, and study groups.
-
-<figure id="Figure_5" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2023_Spring/058.jpg">
-</figure>
 
 It should be noted that _The Urantia Book_ Fellowship (a.k.a. the Fellowship), working side-by-side with the Urantia Association of Bolivia, collaborated in this book fair by donating the printed copies and by helping to sponsor the participants. 
 

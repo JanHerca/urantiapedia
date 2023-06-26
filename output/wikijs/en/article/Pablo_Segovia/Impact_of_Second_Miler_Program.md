@@ -58,7 +58,7 @@ The team working on this project has a lot of experience with the book, with som
 
 ## Marcelino Ramirez
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/038.jpg">
 </figure>
 
@@ -66,7 +66,7 @@ The team working on this project has a lot of experience with the book, with som
 
 ## Maria Auxiliadora Moreno
 
-<figure id="Figure_3" class="image urantiapedia image-style-align-right">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/041.jpg">
 </figure>
 
@@ -74,7 +74,7 @@ The team working on this project has a lot of experience with the book, with som
 
 ## Marinett Morales
 
-<figure id="Figure_4" class="image urantiapedia image-style-align-right">
+<figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/042.jpg">
 </figure>
 
@@ -82,7 +82,7 @@ The team working on this project has a lot of experience with the book, with som
 
 ## Pablo Morales
 
-<figure id="Figure_5" class="image urantiapedia image-style-align-right">
+<figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/043.jpg">
 </figure>
 
@@ -96,7 +96,7 @@ From one of Pablo's videos on YouTube. Search for SalEnSatUrn on YouTube.
 
 ## Nathalie Jaimes
 
-<figure id="Figure_7" class="image urantiapedia image-style-align-right">
+<figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/040.jpg">
 </figure>
 
@@ -106,7 +106,7 @@ From one of Pablo's videos on YouTube. Search for SalEnSatUrn on YouTube.
 
 ## Jairo Miranda
 
-<figure id="Figure_8" class="image urantiapedia image-style-align-right">
+<figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/045.jpg">
 </figure>
 

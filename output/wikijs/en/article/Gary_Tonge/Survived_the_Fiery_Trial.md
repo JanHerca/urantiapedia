@@ -34,7 +34,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-<figure id="Figure_1" class="image urantiapedia  image-style-align-left">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/050.jpg">
 </figure>
 
@@ -54,11 +54,11 @@ First, I should point out that there are no specific statistics to explain the r
 
 > “While practically all surviving mortals are fused with their Adjusters on one of the mansion worlds or immediately upon their arrival on the higher morontia spheres, there are certain cases of delayed fusion, some not experiencing this final surety of survival until they reach the last educational worlds of the universe headquarters; and a few of these mortal candidates for never-ending life utterly fail to attain identity fusion with their faithful Adjusters.” [[UB 40:8.1](/en/The_Urantia_Book/40#p8_1)]
 
-So in an abundance of simplicity, let's imagine that the ratio for those who had not fused before Jerusem is quite low (1:1000 ascenders — or maybe 1: 2000). It seems logical that this ratio could be considerably higher than this, of course. To start out, let's use 1:1000 as the ratio: $187,432,811 \times 1,000 / 607$ (607 being the number of inhabited worlds in Satania at the time) would calculate to 308,785,520 (about 308 million) total residents on Jerusem from each of the worlds in Satania at the time of the Lucifer rebellion.
+So in an abundance of simplicity, let's imagine that the ratio for those who had not fused before Jerusem is quite low (1:1000 ascenders — or maybe 1: 2000). It seems logical that this ratio could be considerably higher than this, of course. To start out, let's use 1:1000 as the ratio: 187,432,811 x 1,000 / 607 (607 being the number of inhabited worlds in Satania at the time) would calculate to 308,785,520 (about 308 million) total residents on Jerusem from each of the worlds in Satania at the time of the Lucifer rebellion.
 
 Next, let's use a 1:2000 ratio:
 
-$187,432,811 \times 2,000 / 607$ equals 617,571,041 (about 617 million) residents on Jerusem - per mortal sphere in our local system of Satania at the time.
+187,432,811 x 2,000 / 607 equals 617,571,041 (about 617 million) residents on Jerusem - per mortal sphere in our local system of Satania at the time.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/051.jpg">

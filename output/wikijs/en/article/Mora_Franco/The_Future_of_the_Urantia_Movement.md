@@ -46,13 +46,13 @@ Many readers of _The Urantia Book_ who are fifty years old (or maybe a little Ol
 
 We had the opportunity to talk with María Auxiliadora, Rocío, and Andrea—three women sowers and diffusers of the teachings revealed in _The Urantia Book_. They represent three generations of a single family who inspire, through their art, the sharing of the legacy of Jesus from their homeland— beautiful Venezuela—to the rest of the world.
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/021.jpg">
 </figure>
 
 Andrea, from a very young age, began to attend Andrea in 2010—at the Venezuelan Nacional Encounter conferences held in her country with her mother and her _ma abu_ (grandmother). They also took her to face-to-face study groups, principally the group led by Marcelino Ramírez, who is a pioneer in the dissemination of _The Urantia Book_ in Venezuela. The girl was always very attentive to everything that was happening around her. Her faith in God the Father and in Jesus grew, following the example of brotherly love exhibited in her family nucleus and friends. She was encouraged to be creative from an early age, since her talent and her gifted nature manifested themselves even as a child.
 
-<figure id="Figure_3" class="image urantiapedia image-style-align-right">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/020.jpg">
 </figure>
 
@@ -62,11 +62,11 @@ To share a bit of history, the first reader of _The Urantia Book_ in this family
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/064.jpg">
 </figure>
 
-In 2011 there was a gathering in [Maracaibo](https://en.wikipedia.org/wiki/Maracaibo) where these three generations of women also participated. María Auxiliadora always sowed the seeds so that her granddaughter Andrea could get closer to _The Urantia Book_, and begin to understand it as best she could. 
-
-<figure id="Figure_4" class="image urantiapedia image-style-align-right">
+<figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/065.jpg">
 </figure>
+
+In 2011 there was a gathering in [Maracaibo](https://en.wikipedia.org/wiki/Maracaibo) where these three generations of women also participated. María Auxiliadora always sowed the seeds so that her granddaughter Andrea could get closer to _The Urantia Book_, and begin to understand it as best she could. 
 
 Two years later, at the second Encounter in Maracaibo, these two women, María Auxiliadora and Rocío, had the audacity to incorporate the six-year-old girl in a presentation to the public. Andrea was asked simple questions, so that she could express herself freely, and this experience helped her to internalize the revelation to such a point that a video _Los niños también sabemos de Urantia_ (We children also know about Urantia) was filmed. This film represented Andrea's public debut in the Urantia community. The Other participants were amazed to see someone so young and yet so knowledgeable; it was a complete success. Just search YouTube for [“Los niños también  sabemos de Urantia”](https://www.youtube.com/watch?v=-7ng9ddkS4k) (or even "los ninos tambien sabemos de Urantia" [sic]) to find and watch this three-minute video. 
 
@@ -76,17 +76,17 @@ Andrea began to draw from a very early age; she seemed to have been born with th
 
 In 2020 María Auxiliadora asked Andrea to do some drawings for María's next presentation. The Child did freehand colored sketches of Adam and Eve, the Planetary Prince, and Machiventa Melchizedek, much to the amazement of many who saw them. After the presentation, and having seen the beautiful, natural and innate artwork of Andrea, Marinett Morales asked Andrea's family for authorization to incorporate this material into that year's Urantiathon. They produced a tasteful audiovisual with her images, bringing great joy to the many participants of that event, who thereby witnessed Andrea spreading her artistic wings.
 
-<figure id="Figure_5" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2023_Spring/066.jpg">
-</figure>
-
 It should be noted that Marinett and Pablo Morales (_The Urantia Book_ Fellowship's Latin America Subcommittee [LASC] Area Coordinator for Venezuela) are siblings, and Marinett has recently been designated as the LASC Field Worker for Buenos Aires, Argentina, collaborating with Mora Franco, who is the Area Coordinator for Argentina. Pablo and Marinett are members of another multi-generational family of Urantia Book readers, and have always fomented and supported Andrea's artistic creations.
 
 The following year Marinett began another audiovisual production. This new project was adorned with digital drawings by Andrea and had the textual content written by her grandmother María Auxiliadora, with the voice track of her mother, Rocío. The subject matter of this presentation focused on the Lucifer rebellion, a subject that Andrea soon became passionate about. She asked her grandmother and everyone else she came in contact with a series of complex questions related to this dire event, and asked her mother to read to her the papers covering the sordid details. She was deeply touched with disbelief that Lucifer could deny the existence of the Paradise Father of all.
 
+<figure id="Figure_5" class="image urantiapedia">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/066.jpg">
+</figure>
+
 This year for the birthday anniversary of our beloved Universe Sovereign, Andrea created a drawing of Jesus, beginning with a blank sheet of paper and creating the beautiful image before the very eyes of over 280 online participants. Her mother Rocío also participated by reading aloud several passages about the Master's life. This work had a mesmerizing impact on the entire community of readers. For another presentation of the same event, she digitized the drawings of Mary and Joseph, Mary and the [Annunciation](https://en.wikipedia.org/wiki/Annunciation), Mary pregnant, and Mary with the newborn Jesus in her arms.
 
-<figure id="Figure_6" class="image urantiapedia image-style-align-right">
+<figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/067.jpg">
 </figure>
 
@@ -100,7 +100,7 @@ Maria Auxiliadora, Andrea's grandmother, tells us,
 
 > I always sowed the seeds of this revelation [The Urantia Book] in my family, but without forcing it on anyone. I instilled the teachings through the testimony of my life itself, with my own spiritual evolution. And that's how it has been with Andrea since she was in her mother's womb. I intuitively knew that she would be special, and I thank our Paradise Father for the privileged talent and gracious demeanor of this child. We have shared a deep and meaningful relationship since she was a little girl. She is always asking me things about our planet Earth, and little by little it is paying off.
 
-<figure id="Figure_7" class="image urantiapedia image-style-align-right">
+<figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/022.jpg">
 </figure>
 

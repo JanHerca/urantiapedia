@@ -52,7 +52,7 @@ _Pasko_ is a festive holiday on December 25 celebrating the birth of Jesus. The 
 
 _Urantia Books_ are part of giving and receiving gifts. Service is in giving, in sharing newly acquired truths with others. Jesus of Nazareth was never in a hurry; he never stopped talking to people, especially those who sought him out. 
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/012.jpg">
 </figure>
 

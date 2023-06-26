@@ -34,7 +34,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/017.jpg">
 </figure>
 
@@ -46,6 +46,10 @@ By _Duane Johnson_
 
 The revelators of _The Urantia Book_ never seem to tire of stating how difficult it is for us to grasp the true nature of spiritual reality. The limits of our senses as well as the limits of the human mind, we are given to understand, make it impossible for us to comprehend much of the larger reality of which we are a part. 
 
+<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/063.jpg">
+</figure>
+
 True, we have all benefited by discussing and analyzing, in our most eloquent prose, every Urantia Book paper, passage by passage, in study groups. We come to understand more by reading articles and commentary in Urantia related publications and on social media. We learn much, but we also come away with a keener understanding that, as songwriter Stephen Stills might say, “There's something happening here, but what it is ain't exactly clear.”
 
 Because of this, we look to the arts to foreshadow these higher universe realities. (see [UB 48:7.23](/en/The_Urantia_Book/48#p7_23))
@@ -55,10 +59,6 @@ The poet in each of us seems to intuitively know that words cannot adequately co
 Toward this end, Byron Belitsos in 1982 published _Ardent Ascent_, a collection of poetry by poets whose lives have been touched and inspired by _The Urantia Book_.
 
 Now, forty years later, we are publishing another volume of poetry entitled _Sailing to Salvington: Poetry Inspired by the Fifth Epochal Revelation_. Poets included in this collection are Jean Ascher, Byron Belitsos, Peri Best, James Cleveland, David Glass, Dave Holt, Bruce Jackson, Gard Jameson, Duane Johnson, K. Brendi Poppel, and Errol Strider.
-
-<figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2023_Spring/063.jpg">
-</figure>
 
 This anthology also Will include twenty photographs and paintings, mostly from the collection Of Jesus paintings Of MO and Jennifer Siegel, who have been so kind as to allow us to include them. The inclusion of these full-color paintings increases the book's value, but also markedly increases printing costs; fortunately, the Urantia Book Fellowship's Second Miler Grant Committee has seen fit to help finance this project. 
 

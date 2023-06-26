@@ -24,7 +24,7 @@ dateCreated: 2023-6-21T8:13:38Z
         </a>
         </td>
         <td>
-        <a href="/en/article/André_Radatus/International_Committee_Chair">
+        <a href="/en/article/Andre_Radatus/International_Committee_Chair">
           <span class="pr-2">International Committee Chair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -61,7 +61,7 @@ The goal for the rest of 2019 and 2020 is for continued retreats and community b
         </a>
         </td>
         <td>
-        <a href="/en/article/André_Radatus/International_Committee_Chair">
+        <a href="/en/article/Andre_Radatus/International_Committee_Chair">
           <span class="pr-2">International Committee Chair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

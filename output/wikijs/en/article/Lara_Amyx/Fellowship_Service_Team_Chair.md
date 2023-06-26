@@ -14,7 +14,7 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/André_Radatus/International_Committee_Chair">
+        <a href="/en/article/Andre_Radatus/International_Committee_Chair">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">International Committee Chair</span>
         </a>
         </td>
@@ -41,7 +41,7 @@ The Fellowship Team is composed of the Judicial, Membership, Education, and Fina
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/André_Radatus/International_Committee_Chair">
+        <a href="/en/article/Andre_Radatus/International_Committee_Chair">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">International Committee Chair</span>
         </a>
         </td>

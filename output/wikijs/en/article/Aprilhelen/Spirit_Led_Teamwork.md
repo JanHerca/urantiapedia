@@ -34,7 +34,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/043.jpg">
 </figure>
 
@@ -48,7 +48,7 @@ You may have read my other article in this _Mighty Messenger_, [“The First Ura
 
 As with all of our siblings on Urantia, we each bring unique gifts to offer; and getting to know individuals, their talents, and their cultures will help us to better serve one another. As we reassess how we fund our international communities, it behooves us to consider the momentum ignited at this first Urantia Book conference in the "Pearl of Africa" (a nickname for Uganda), and in other areas of the World, while continuing to empower our siblings toward deeper understanding and elevated integration of spiritual values revealed by Jesus. 
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/044.jpg">
 <figcaption><em>Geri Johnson</em></figcaption>
 </figure>
@@ -81,12 +81,12 @@ Requiring that a representative, who is in more intimate association with both t
 
 It was curious to me that in the unfortunate local economy of Uganda, the money spent on promotional goods was extreme compared to what I am used to experiencing at many other conferences, in and outside of the Urantia Book community. This overspending could have been reallocated for helping more attendees to participate. The booklet which was produced for conference attendees (printed from the Fellowship's website) for guiding new study group leaders was a decent asset; however, it would have been best if the contacts listed for further advice were seasoned Urantia Book students who live the teachings.
 
-As far as sending money in the future, there seems to be wisdom in the collaboration of co-sponsoring events. We also would be wise to address concerns of poverty by striking the harmony chords of self-sufficiency.
-
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/045.jpg">
 <figcaption><em>Pato Banton</em></figcaption>
 </figure>
+
+As far as sending money in the future, there seems to be wisdom in the collaboration of co-sponsoring events. We also would be wise to address concerns of poverty by striking the harmony chords of self-sufficiency.
 
 Pato Banton reflects with these words:
 

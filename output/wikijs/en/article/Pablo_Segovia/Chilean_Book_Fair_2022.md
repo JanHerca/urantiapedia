@@ -78,7 +78,7 @@ Felipe Arrigorriaga tells us:
 
 > Different readers of the book helped to attend the booth, which was very positive from his point of view, since it united readers from different study groups, whose leaders in the past had chosen not to work together for a unified movement Of Urantia Chile, this being a very important mission for the present and future of the Urantia Book movement in this country. 
 
-<figure id="Figure_3" class="image urantiapedia image-style-align-right">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/032.jpg">
 <figcaption><em>Felipe Arrigorriaga with visitors to the booth</em></figcaption>
 </figure>
@@ -87,7 +87,7 @@ Flor Robles achieved this unification of efforts when she was in Chile leading t
 
 Regarding the dissemination Of the book, an important agreement was reached with an independent bookstore that holds traveling book fairs in the north and south of Chile, promoting only books from the spiritual field. This focus will help us reach readers searching for truth, and will thereby help to spread the revelation. There are truth-hungry individuals in a large part of Chile. These organizers also plan to be present at Other book fairs that take place in different regions of Chile, along with Special book presentations.
 
-<figure id="Figure_4" class="image urantiapedia image-style-align-right">
+<figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/033.jpg">
 <figcaption><em>Pablo Segovia with Maria Jose</em></figcaption>
 </figure>
@@ -115,7 +115,7 @@ Overall statistics:
 - Four books gifted to readers who attended the booth 
 - Three books left on reserve 
 
-<figure id="Figure_5" class="image urantiapedia image-style-align-right">
+<figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/034.jpg">
 <figcaption><em>Jon Detoy, Maria José, Pablo Segovia, Horacio Gamboa</em></figcaption>
 </figure>

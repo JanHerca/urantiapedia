@@ -34,7 +34,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/013.jpg">
 </figure>
 
@@ -83,11 +83,11 @@ Several conversations with Antoinette have helped me to see a bigger picture of 
 
 > We stand on the shoulders of great pioneers like Norman Ingram, who planted the Fifth Epochal Revelation [which is a nickname for _The Urantia Book_] seeds across the African continent. But what is needed most right now, is teamwork. The Urantia movement has enough resources and capable people to bring about great changes not only in Africa but around the world.
 
-Spiritual Family Network has also done much for _The Urantia Book_ readers of Uganda long before 2019. More specifically, it was through this organization that a generous donation was given to fund a popular Christian Bishop of Uganda, Moses Kaharwa, who was interested in infusing the _Urantia Book_ message into his own life and teachings. He was brought to Canada by Spiritual Family Network for an intensive three-week workshop, mostly on the Jesus papers (Part IV of _The Urantia Book_). Moses then returned to Africa and has helped spread the word about _The Urantia Book_ into Uganda, The Congo, Kenya, and several Other countries. The Spiritual Family Network website acts as a social media platform for several African regions and South Asia. In many ways, their continued efforts also identified the original team of conference planners.
-
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/060.jpg">
 </figure>
+
+Spiritual Family Network has also done much for _The Urantia Book_ readers of Uganda long before 2019. More specifically, it was through this organization that a generous donation was given to fund a popular Christian Bishop of Uganda, Moses Kaharwa, who was interested in infusing the _Urantia Book_ message into his own life and teachings. He was brought to Canada by Spiritual Family Network for an intensive three-week workshop, mostly on the Jesus papers (Part IV of _The Urantia Book_). Moses then returned to Africa and has helped spread the word about _The Urantia Book_ into Uganda, The Congo, Kenya, and several Other countries. The Spiritual Family Network website acts as a social media platform for several African regions and South Asia. In many ways, their continued efforts also identified the original team of conference planners.
 
 The IFC began to support the Ugandan efforts when a founding member of Spiritual Family Network became an adjunct member of the IFC in 2019. They came on board to promote and cosponsor this first major Urantia Book based event in that country. Three years later, Toni and I, as General Councilors of _The Urantia Book_ Fellowship, were sponsored delegates of the IFC. During this same time frame, the [Second Miler Grant Program](https://urantiabook.org/Second-Miler-Fund) started, and it also funded approved projects in Uganda. Additionally, hundreds of Urantia Books were sent to Uganda through the [Pipeline of Light](https://urantiabook.org/pipeline) book placement program and Other library projects. In total, I observed that our siblings in the "Pearl of Africa" (a nickname for Uganda) have been very generously cared for over the last four years. With so many organizations now involved and trying to help the Ugandan readers, it is my opinion that ()ur organizations, donors, and the Ugandan readers would all be better served by true and open collaboration on funding, responsibility, accounting accuracy, and transparency.
 

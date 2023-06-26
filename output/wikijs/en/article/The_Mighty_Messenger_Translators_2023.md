@@ -34,7 +34,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/030.jpg">
 </figure>
 
@@ -42,13 +42,13 @@ Translators helped make our first multilingual publications possible in English,
 
 Mora Franco helped by interviewing and writing for many people in the Spanish- speaking world about their projects related to spreading the teachings of _The Urantia Book_. 
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-left">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/041.jpg">
 </figure>
 
 André Gurgel is Brazilian and translated the Mighty Messenger International Outreach edition into Portuguese. André and _The Urantia Book_ met each Other in 1977. He is more than Willing to travel to Latin American countries and help in the local events sponsored by The Urantia Book Fellowship. 
 
-<figure id="Figure_3" class="image urantiapedia image-style-align-left">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/052.jpg">
 </figure>
 

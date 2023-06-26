@@ -80,7 +80,7 @@ The Dalamatian teachings were first promulgated on Urantia by the one hundred co
 
 The Thought Adjuster who indwelt this incarnated Melchizedek superhuman personality also functioned valiantly in the human mind of the later Son of God, Michael, when he appeared on earth in the likeness of mortal flesh: “And this is the only Thought Adjuster who ever functioned in two minds on Urantia, but both minds were divine as well as human.” [[UB 93:2.7](/en/The_Urantia_Book/93#p2_7)]
 
-<figure id="Figure_5" class="image urantiapedia image-style-align-right">
+<figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/030.jpg">
 </figure>
 
@@ -94,7 +94,7 @@ Machiventa Melchizedek was this great teacher who came to keep alive on earth th
 
 Melchizedek taught elementary “revealed truth” at Salem for ninety-four years, and Abraham attended the Salem school three different times. He became a convert to the Salem teachings and one of Melchizedek's most brilliant pupils and chief supporters. Melchizedek chose Abraham to take on the responsibility of keeping alive the truth of one God as distinguished from the prevailing belief in many gods. Abraham became a great leader in Palestine, held in reverence by all groups and honored by all kings. He was the spiritual leader of all the surrounding tribes. The Melchizedek mission in Palestine and the subsequent appearance of Michael among the Hebrew people were supported by the fact that Palestine was centrally located with reference to the then existing trade, travel, and civilization of the world. The Melchizedek receivers had anticipated that the ancestors of Abraham would be characterized by intelligence, initiative, sagacity, and sincerity.
 
-<figure id="Figure_6" class="image urantiapedia image-style-align-right">
+<figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/031.jpg">
 </figure>
 
