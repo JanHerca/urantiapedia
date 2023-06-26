@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/UBF_organizational_chart">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">UBF organizational chart</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Brent_St_Denis/Worldwide_Service_Team_Chair">
+          <span class="pr-2">Worldwide Service Team Chair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dear Friends,
 
@@ -65,3 +89,28 @@ Michelle Klimesh, Pipeline Reporter
 <figcaption><em>Grateful recipient in Venezuela </em></figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/UBF_organizational_chart">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">UBF organizational chart</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Brent_St_Denis/Worldwide_Service_Team_Chair">
+          <span class="pr-2">Worldwide Service Team Chair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

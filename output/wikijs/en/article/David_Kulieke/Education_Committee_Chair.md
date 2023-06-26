@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 David Kulieke<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dan_Amyx/Membership_Committee_Chair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Membership Committee Chair</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Summer_Study_Session_2019_Fall">
+          <span class="pr-2">Summer Study Session</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/030.jpg">
@@ -55,3 +79,27 @@ David Kulieke has been chair of the Education Committee since 2012, which he con
 </figure>
 
 > “The entire universe is one vast school.” [UB 37:6.2](/en/The_Urantia_Book/37#p6_2)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dan_Amyx/Membership_Committee_Chair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Membership Committee Chair</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Summer_Study_Session_2019_Fall">
+          <span class="pr-2">Summer Study Session</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

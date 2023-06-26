@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Mighty_Messenger/The_Mighty_Messenger_2020_Fall_Cover">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cover</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chuck_Thurston/Working_with_the_Angels_of_Progress">
+          <span class="pr-2">Working with the Angels of Progress</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/002.jpg">
@@ -40,4 +64,28 @@ In addition, I asked people in our community what they are doing inspired by the
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/004.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Mighty_Messenger/The_Mighty_Messenger_2020_Fall_Cover">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cover</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chuck_Thurston/Working_with_the_Angels_of_Progress">
+          <span class="pr-2">Working with the Angels of Progress</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

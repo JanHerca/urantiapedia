@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Claire and Angie Thurston<br>© 2022 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Trudi_Cooper/Rebecca_A_Love_Story">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rebecca - A Love Story</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bill_Cooper/How_Jesus_Taught_Each_Person">
+          <span class="pr-2">How Jesus Taught Each Person</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2022_Summer/010.jpg">
@@ -390,3 +414,27 @@ Spirit is with you, always.
 Claire and Angie Thurston
 
 We are a mother and daughter who both wanted something different from our lives and found it. Now we want to share it. Find us at [innersourcing.io](https://www.innersourcing.io/).
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Trudi_Cooper/Rebecca_A_Love_Story">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rebecca - A Love Story</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bill_Cooper/How_Jesus_Taught_Each_Person">
+          <span class="pr-2">How Jesus Taught Each Person</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

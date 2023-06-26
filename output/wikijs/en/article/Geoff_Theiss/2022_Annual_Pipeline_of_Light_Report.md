@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Geoff Theiss<br>© 2023 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Aprilhelen/The_First_Urantia_Book_Conference_in_Uganda">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The First Urantia Book Conference in Uganda: A Personal Account</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2023-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Duane_Johnson/Urantia_Poets_to_Publish_Book">
+          <span class="pr-2">Urantia Poets to Publish Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/015.jpg">
@@ -44,4 +68,29 @@ We deeply appreciate the contributions of our
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/016.jpg">
+</figure>
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Aprilhelen/The_First_Urantia_Book_Conference_in_Uganda">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The First Urantia Book Conference in Uganda: A Personal Account</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2023-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Duane_Johnson/Urantia_Poets_to_Publish_Book">
+          <span class="pr-2">Urantia Poets to Publish Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

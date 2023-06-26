@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Kaye and William Cooper<br>© 2022 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chuck_Thurston/Stepping_Into_a_New_Sense_of_Reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Stepping Into a New Sense of Reality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Trudi_Cooper/Rebecca_A_Love_Story">
+          <span class="pr-2">Rebecca - A Love Story</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2022_Summer/008.jpg">
@@ -45,3 +69,27 @@ No. Wanting something lacks the opening and abiding in relationship with your in
 ## How do I pray?
 
 Just talk to your spiritual parent the way you would to a trusted friend or a loving, supportive human parent. Ask for spiritual blessings for others and yourself-blessings such as tolerance, understanding, peace, empathy for another's suffering, selfunderstanding, self-control, forgivingness, respect, and other virtues. Be careful to pay attention and allow receptive time to access spiritual impressions. Intentionally await responses. Ponder your requests as well as any responses and ask questions to better understand what you receive. Honest doubt is okay, but question your doubt too. Mindfully resist fear-based doubt. Give your inner spirit plenty of opportunity to enlighten you and to assure you that trust in your spiritual parent is appropriate. You are blessed and supported. May you experience this fully and feel the joy flowing from your gratitude, appreciation, and love for your spiritual parent. In prayer, you can feel this and express it. 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chuck_Thurston/Stepping_Into_a_New_Sense_of_Reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Stepping Into a New Sense of Reality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Trudi_Cooper/Rebecca_A_Love_Story">
+          <span class="pr-2">Rebecca - A Love Story</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

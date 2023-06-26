@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Cristina Seaborn and Stephen Sawyer<br>© 2021 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Upcoming_Publications_Themes_and_Deadlines_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Upcoming Publications Themes and Deadlines 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2021-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gary_Tonge/Survived_the_Fiery_Trial">
+          <span class="pr-2">Survived the Fiery Trial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by _Cristina Seaborn and Stephen Sawyer_
 
@@ -89,3 +113,27 @@ Because I have the time, experience and desire to serve and take on a larger rol
 I have been a student of the book since 1972. I was an early instructor in what was then the inauguration of the Urantia Book Internet School. I have given numerous workshops, presented topical addresses at conferences, served as a minister and teacher for Sunday services, done radio and television interviews on behalf of the Fellowship, worked book fairs, participated in over five study groups, shared and discussed _The Urantia Book_ with hundreds of readers and searchers of truth, published several articles, and served once before on the Fellowship's General Council.
 
 > I really want to serve. I have benefited greatly from the Fellowship and the book. I believe I have some knowledge and experience to share and contribute. I consider service the next step in my journey. 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Upcoming_Publications_Themes_and_Deadlines_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Upcoming Publications Themes and Deadlines 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2021-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gary_Tonge/Survived_the_Fiery_Trial">
+          <span class="pr-2">Survived the Fiery Trial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

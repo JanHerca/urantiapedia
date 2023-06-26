@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Michael Hagan and Monica Kemp<br>© 2022 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claudia_Ayers/Try_a_Little_Faithfulness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Try a Little Faithfulness</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_Rosen/Twelve_Ways_I_Hear_from_God_2">
+          <span class="pr-2">Twelve Ways I Hear from God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2022_Summer/020.jpg">
@@ -37,3 +61,27 @@ For most, this virus will last only a few days, a brief interruption followed by
 The luckiest and the hardiest will themselves become super-spreaders. They will not rest until they have done everything possible to spread this _benign virus_ of love to the corners of their experience, maybe to the corners of the earth.
 
 Take note-there is no known vaccine, and no pill designed to foster any level of immunity. At some time in your life, if not already, you will encounter it. When you do, look deep inside. Allow God's spirit that lives within you to guide your reaction. 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claudia_Ayers/Try_a_Little_Faithfulness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Try a Little Faithfulness</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_Rosen/Twelve_Ways_I_Hear_from_God_2">
+          <span class="pr-2">Twelve Ways I Hear from God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

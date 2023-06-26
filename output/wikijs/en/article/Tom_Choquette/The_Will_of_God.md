@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Tom Choquette<br>© 2021 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gary_Tonge/Survived_the_Fiery_Trial">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Survived the Fiery Trial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2021-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Pipeline_of_Light_Report_2021_Spring">
+          <span class="pr-2">Pipeline of Light Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia  image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/053.jpg">
@@ -65,3 +89,27 @@ The Will of God, Part 2 “Mercy” ... Coming to a publication near you this su
 > "Jesus disclosed to this world a higher quality of righteousness than justice mere technical right and wrong. Divine love does not merely forgive wrongs; it absorbs and actually destroys them. The forgiveness of love utterly transcends the forgiveness of mercy. Mercy sets the guilt of evil-doing to one side; but love destroys forever the sin and all weakness resulting therefrom. Jesus brought a new method of living to Urantia. Hetaught us not to resist evil but to find through him a goodness which effectually destroys evil [emphasis added]. The forgiveness of Jesus is not condonation; it is salvation from condemnation. Salvation does not slight wrongs; it makes them right. True love does not compromise nor condone hate; it destroys it [emphasis added]. The love of Jesus is never satisfied with mere forgiveness. The Master's love implies rehabilitation, eternal survival.” [[UB 188:5.2](/en/The_Urantia_Book/188#p5_2)]
 
 We are blessed with the privilege of helping God to help others, so that they too may embark on an eternal journey, seeking and partnering with the Infinite in all things.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gary_Tonge/Survived_the_Fiery_Trial">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Survived the Fiery Trial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2021-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Pipeline_of_Light_Report_2021_Spring">
+          <span class="pr-2">Pipeline of Light Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

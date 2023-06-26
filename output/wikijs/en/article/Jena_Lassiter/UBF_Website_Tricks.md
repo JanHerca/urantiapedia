@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Jena Lassiter<br>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Graduation_Memorial_Page">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Graduation Memorial Page</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Upcoming_Publication_Deadlines">
+          <span class="pr-2">Upcoming Publication Deadlines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by _Jena Lassiter_, UrantiaBook.org
 
@@ -58,3 +82,27 @@ Thank you in advance for your comments and/ or suggestions that may be emailed t
 In Your Service,
 
 _The Urantia Book_ Fellowship Website Team
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Graduation_Memorial_Page">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Graduation Memorial Page</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Upcoming_Publication_Deadlines">
+          <span class="pr-2">Upcoming Publication Deadlines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

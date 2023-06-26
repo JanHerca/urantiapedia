@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 David Glass<br>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Biggs_and_Peter_Laurence/Definition_of_Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Definition of Prayer</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bill_Rocap/Turkish_translation_of_the_Urantia_Book">
+          <span class="pr-2">Turkish translation of the Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By _David Glass_
 
@@ -28,3 +52,27 @@ the Focus of Eternal Harmony<br>
 The primacy of spirit gives us kinship<br>
 a universal family of friendship
 </p>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Biggs_and_Peter_Laurence/Definition_of_Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Definition of Prayer</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bill_Rocap/Turkish_translation_of_the_Urantia_Book">
+          <span class="pr-2">Turkish translation of the Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

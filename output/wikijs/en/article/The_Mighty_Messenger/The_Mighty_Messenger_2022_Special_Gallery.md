@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gard_Jameson/Auto_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Auto-Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#special-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Summary_Data_for_18_Selected_Human_Sources">
+          <span class="pr-2">Summary Data for 18 Selected Human Sources</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/040.jpg">
@@ -93,4 +117,29 @@ dateCreated: 2023-6-21T8:13:38Z
 <figure id="Figure_17" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/056.jpg">
 <figcaption><em>William Ernest Hocking </em> </figcaption>
+</figure>
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gard_Jameson/Auto_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Auto-Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#special-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Summary_Data_for_18_Selected_Human_Sources">
+          <span class="pr-2">Summary Data for 18 Selected Human Sources</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

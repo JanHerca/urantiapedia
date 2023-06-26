@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Gary Tonge<br>© 2021 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Cristina_Seaborn_and_Stephen_Sawyer/New_General_Councilors">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">New General Councilors</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2021-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Tom_Choquette/The_Will_of_God">
+          <span class="pr-2">The Will of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia  image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/050.jpg">
@@ -92,4 +116,28 @@ Love to you - fellow inconstant but potentially eternal and perfected brethren!
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/052.jpg">
 <figcaption><em>Satania headquarters - Jerusem and its satellite worlds</em>by Gary Tonge<figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Cristina_Seaborn_and_Stephen_Sawyer/New_General_Councilors">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">New General Councilors</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2021-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Tom_Choquette/The_Will_of_God">
+          <span class="pr-2">The Will of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

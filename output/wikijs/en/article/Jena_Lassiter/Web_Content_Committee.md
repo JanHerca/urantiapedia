@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Jena Lassiter<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Pablo_Segovia/Spanish_Website_Committee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spanish Website Committee</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Emilio_Coppola/IT_Committee">
+          <span class="pr-2">IT Committee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/060.jpg">
@@ -55,3 +79,28 @@ After initial release:
 
 - The Fellowship has a grant from Google to use $\$ 40,000$ of AdWords per month. We have plans in place to determine how to optimally use those ads to help bring people to the revelation.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Pablo_Segovia/Spanish_Website_Committee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spanish Website Committee</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Emilio_Coppola/IT_Committee">
+          <span class="pr-2">IT Committee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

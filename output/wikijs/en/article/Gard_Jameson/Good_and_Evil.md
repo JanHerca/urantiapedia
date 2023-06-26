@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Gard Jameson<br>© 2022 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gard_Jameson/True_Values">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">True Values</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#special-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gard_Jameson/Truth_and_Faith">
+          <span class="pr-2">Truth and Faith</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by _Gard Jameson_ 
 
@@ -175,4 +199,28 @@ Our moral will is indissolubly linked to the idea of being *a person*; it provid
 
 <figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/029.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gard_Jameson/True_Values">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">True Values</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#special-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gard_Jameson/Truth_and_Faith">
+          <span class="pr-2">Truth and Faith</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

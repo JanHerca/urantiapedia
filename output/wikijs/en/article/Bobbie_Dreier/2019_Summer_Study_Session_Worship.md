@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Bobbie Dreier<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bobbie_Dreier/Vice_President_Bobbie_Dreier_interim">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vice President Bobbie Dreier (interim)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stephen_Dreier/Secretary">
+          <span class="pr-2">Secretary</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by _Bobbie Dreier_
 
@@ -22,4 +46,28 @@ The experience of working with the loving and productive worship team, Geri John
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/004.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bobbie_Dreier/Vice_President_Bobbie_Dreier_interim">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vice President Bobbie Dreier (interim)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stephen_Dreier/Secretary">
+          <span class="pr-2">Secretary</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

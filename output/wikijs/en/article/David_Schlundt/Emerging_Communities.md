@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 David Schlundt<br>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Stevie_Shaefer/Commonality_Among_Faiths">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Commonality Among Faiths</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Graduation_Memorial_Page">
+          <span class="pr-2">Graduation Memorial Page</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By _David G. Schlundt_, Vice President of the Urantia Book Fellowship
 
@@ -53,3 +77,27 @@ The UBF should engage in three lines of work:
 3. Dissemination to bring the book to those who are ready for it. Much work remains to be done to translate these ideas into concrete strategies. We will need to identify ways to measure our success and build in mechanisms for adjusting strategies to improve outcomes. It is work I believe the UBF will embrace with enthusiasm.
 
 If you are interested in the full report on the survey and its discussion by the General Council, https://healthbehavior.psy.vanderbilt.edu/Fellowship/UBF_SurveyReport.pdf.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Stevie_Shaefer/Commonality_Among_Faiths">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Commonality Among Faiths</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Graduation_Memorial_Page">
+          <span class="pr-2">Graduation Memorial Page</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Gard Jameson<br>© 2022 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gard_Jameson/Good_and_Evil">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Good and Evil</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#special-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gard_Jameson/Auto_Revelation">
+          <span class="pr-2">Auto-Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by _Gard Jameson_ 
 
@@ -203,3 +227,27 @@ Is goodness—the moral expression of divine selflessness—desirable? Then must
 **(C)** These passages provide the culminating statement to what has come before; it provides the relational technique that connects each person to the divine: prayer. It is reminiscent of Jesus’ inspired remark:*“You shall know the truth and the truth shall make you free.*” [[UB 162:7.2](/en/The_Urantia_Book/162#p7_2) ] To know *that* truth, faith assumes the reality of Deity, Divinity, and Personality, and acts upon those assumptions by praying to Deity, by communion with Divinity, by loving and being loved as a Personality of Divine Dignity. When such faith actions are engaged, what might have once carried the appearance of *self-restraint* becomes the experience of *completeness of universe freedom and personal liberty*! 
 
 Is freedom, spiritual freedom, desirable? Then must we commune and communicate with the supernal source of such freedom, God. 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gard_Jameson/Good_and_Evil">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Good and Evil</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#special-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gard_Jameson/Auto_Revelation">
+          <span class="pr-2">Auto-Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

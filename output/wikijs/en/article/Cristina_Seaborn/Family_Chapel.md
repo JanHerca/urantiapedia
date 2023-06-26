@@ -9,6 +9,27 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Cristina Seaborn<br>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Upcoming_Events_2020_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Upcoming Events</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by _Cristina Seaborn_
 
@@ -69,3 +90,24 @@ https://docs.google.com/document/d/1TrXiGtEaOpoGpJfG4xdee6TnBwiCYjvD1iu8rMRlM/ed
 </figure>
 
 Photos by Chuck Thurston
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Upcoming_Events_2020_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Upcoming Events</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

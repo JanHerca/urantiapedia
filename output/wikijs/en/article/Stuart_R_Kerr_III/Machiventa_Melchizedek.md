@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Stuart R. Kerr III<br>© 2021 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Pato_Banton/The_Urantia_Book_is_Not_a_Cult">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book is Not a Cult</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2021-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Kulieke/Virtual_Summer_Study_Session">
+          <span class="pr-2">Virtual Summer Study Session</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia  image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/025.jpg">
@@ -101,3 +125,27 @@ Today, we await a possible formal arrival of Machiventa Melchizedek with the vic
 </figure>
 
 > From Palestine some of the Melchizedek missionaries passed on through Mesopotamia and to the great Iranian plateau. For more than five hundred years the Salem teachers made headway in Iran, and the whole nation was suinging to the Melchizedek religion when a change of rulers precipitated a bitter persecution which practically ended the monotheistic teachings of the Salem cult. The doctrine of the Abrahamic covenant was virtually extinct in Persia when, in that great century of moral renaissance, the sixth before Christ, Zoroaster appeared to revive the smouldering embers of the Salem gospel. [[UB 95:6.1](/en/The_Urantia_Book/95#p6_1)] 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Pato_Banton/The_Urantia_Book_is_Not_a_Cult">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book is Not a Cult</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2021-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Kulieke/Virtual_Summer_Study_Session">
+          <span class="pr-2">Virtual Summer Study Session</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

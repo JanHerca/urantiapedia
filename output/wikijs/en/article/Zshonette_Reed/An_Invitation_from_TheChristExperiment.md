@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Zshonette Reed<br>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Pablo_Segovia/Spanish_Outreach_Committee_Report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spanish Outreach Committee Report</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spirit_of_Truth_Angie_Thurston_Interview">
+          <span class="pr-2">Spirit of Truth - Angie Thurston Interview</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/064.jpg">
@@ -43,4 +67,29 @@ AnointedJW - A ministry designed to uplift Jehovah's Witnesses - [www.AnointedJW
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/062.jpg">
+</figure>
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Pablo_Segovia/Spanish_Outreach_Committee_Report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spanish Outreach Committee Report</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Spirit_of_Truth_Angie_Thurston_Interview">
+          <span class="pr-2">Spirit of Truth - Angie Thurston Interview</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

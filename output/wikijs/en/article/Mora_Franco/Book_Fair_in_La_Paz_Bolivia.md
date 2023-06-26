@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Mora Franco<br>© 2023 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mora_Franco/Grand_World_Celebration_Anniversary_Birth_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Grand World Celebration of the Anniversary of the Birth of Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2023-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Eugene_Asidao/Pasko_Christmas">
+          <span class="pr-2">Pasko (Christmas)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/056.jpg">
@@ -61,3 +85,27 @@ The three tireless workers expressed how much they missed our dear Norita Ferrel
 Alejandro Ampudia, in his closing statement said, “We experienced great success in disseminating the teachings of _The Urantia Book_ at the book fair in La Paz, Bolivia. It was a week of learning, full of wonderful experiences. Again, a thousand thanks to the Fellowship, without whose support this would not have been possible.”
 
 > It was a week of learning, full of wonderful experiences.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mora_Franco/Grand_World_Celebration_Anniversary_Birth_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Grand World Celebration of the Anniversary of the Birth of Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2023-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Eugene_Asidao/Pasko_Christmas">
+          <span class="pr-2">Pasko (Christmas)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

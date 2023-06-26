@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 David Glass<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Saskia_Praamsa/The_Urantia_Diaries_of_Harold_and_Martha_Sherman">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Diaries of Harold and Martha Sherman</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jacky_Koury_and_others/Our_Pilgrimage_to_The_Holy_Land_of_Jesus">
+          <span class="pr-2">Our Pilgrimage to The Holy Land of Jesus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **GREETINGS-BELOVED CHILDREN OF GOD-**
@@ -45,4 +69,28 @@ David Glass
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/017.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Saskia_Praamsa/The_Urantia_Diaries_of_Harold_and_Martha_Sherman">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Diaries of Harold and Martha Sherman</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jacky_Koury_and_others/Our_Pilgrimage_to_The_Holy_Land_of_Jesus">
+          <span class="pr-2">Our Pilgrimage to The Holy Land of Jesus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

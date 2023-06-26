@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 André Radatus<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sean_Privitera/Youth_and_Young_Adult_Committee_Chair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Youth and Young Adult Committee Chair</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Lara_Amyx/Fellowship_Service_Team_Chair">
+          <span class="pr-2">Fellowship Service Team Chair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/027.jpg">
@@ -35,3 +59,27 @@ We value their direction and wisdom for best service to our world outside the bo
 I'm grateful to be serving with such a remarkable and dedicated team.
 
 I look forward to seeing where next the revelation may take root!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sean_Privitera/Youth_and_Young_Adult_Committee_Chair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Youth and Young Adult Committee Chair</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Lara_Amyx/Fellowship_Service_Team_Chair">
+          <span class="pr-2">Fellowship Service Team Chair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Gard Jameson<br>© 2022 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gard_Jameson/Discourse_on_Reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Discourse on Reality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#special-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gard_Jameson/Good_and_Evil">
+          <span class="pr-2">Good and Evil</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by _Gard Jameson_ 
 
@@ -89,4 +113,28 @@ The final thought with respect to this reflection is to encourage the reader to 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/022.jpg">
 <figcaption><em>Shutterstock 262243</em></figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gard_Jameson/Discourse_on_Reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Discourse on Reality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#special-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gard_Jameson/Good_and_Evil">
+          <span class="pr-2">Good and Evil</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

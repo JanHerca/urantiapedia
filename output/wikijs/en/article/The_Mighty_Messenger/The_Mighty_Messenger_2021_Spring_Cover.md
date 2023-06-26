@@ -9,6 +9,27 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Patrick Yesh, Jeff Haworth<br>© 2021 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2021-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_E_Warren/The_Melchizedek_Mission_Salvaging_Truth">
+          <span class="pr-2">The Melchizedek Mission: Salvaging Truth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/002.jpg">
@@ -51,3 +72,24 @@ Broomfield, CO
 (303) 467-7858
 
 > High civilizations are born of the sagacious correlation of material wealth, intellectual greatness, moral worth, social cleverness, and cosmic insight. [UB 81:6.38](/en/The_Urantia_Book/81#p6_38)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2021-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_E_Warren/The_Melchizedek_Mission_Salvaging_Truth">
+          <span class="pr-2">The Melchizedek Mission: Salvaging Truth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

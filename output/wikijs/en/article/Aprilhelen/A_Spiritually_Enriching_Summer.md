@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Aprilhelen<br>© 2023 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Aprilhelen/Spirit_Led_Teamwork">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spirit-Led Teamwork: The Pearl of the Universes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2023-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bobbie_Dreier/Memories_of_International_Conferences">
+          <span class="pr-2">Memories of International Conferences</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/048.jpg">
@@ -68,3 +92,27 @@ With love and anticipation from your IC23 Family leadership team,
 - Missy Theiss, Infants and Toddlers Lead
 - Ruthie Wilde Wenger, Urantia Family Life Chair
 - Anthony Finstad, Urantia Family Life Chair, Elder Chair
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Aprilhelen/Spirit_Led_Teamwork">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spirit-Led Teamwork: The Pearl of the Universes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2023-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bobbie_Dreier/Memories_of_International_Conferences">
+          <span class="pr-2">Memories of International Conferences</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

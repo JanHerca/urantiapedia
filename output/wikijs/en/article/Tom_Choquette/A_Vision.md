@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Tom Choquette<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jacky_Koury_and_others/Our_Pilgrimage_to_The_Holy_Land_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Pilgrimage to The Holy Land of Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dave_Holt/An_Awareness">
+          <span class="pr-2">An Awareness</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/026.jpg">
@@ -29,3 +53,27 @@ The question filled my mind and my soul. I immediately started sorting through m
 What could I share with this amazing group of beings? What did I have that was uniquely mine? What in fact did I “bring to the table?” I started to freeze up inside. It was hard to think or even breathe. And then I felt this gentle nudge. So gentle that at first, I thought to ignore it. It became more constant and I looked within towards the direction of the nudge. There cuddled up to me was my infinite partner and best friend, that fragment of God that taught me to love, show mercy, and minister to His children. That piece of God that I chose to share my life with. I flashed back to all those times I had let Him come into my life and live through me on our wonderful planet. I realized that we had become one and that my spiritual siblings around that table had come to hear what He brought to the table through His unique life shared with me. As He started to tell our story to those at the table, I relaxed back into His arms and there was peace in heaven and in my soul. My vision slowly faded.
 
 Love you all so much, May we all more fully turn our lives over to that source of grace within.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jacky_Koury_and_others/Our_Pilgrimage_to_The_Holy_Land_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Pilgrimage to The Holy Land of Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dave_Holt/An_Awareness">
+          <span class="pr-2">An Awareness</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

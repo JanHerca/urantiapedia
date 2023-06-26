@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Pablo_Segovia/Impact_of_Second_Miler_Program">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Impact of Second Miler Program</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2021-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cristina_Seaborn_and_Stephen_Sawyer/New_General_Councilors">
+          <span class="pr-2">New General Councilors</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Calling all Urantia authors, poets, videographers, musicians, and artists!
 
@@ -33,3 +57,27 @@ Review ed by the Policy and Procedure Ad-hoc Committee 06/19/2015
 Revised by the Executive Committee 09/17/2020
 
 Fellowship's Project Promotion Policy 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Pablo_Segovia/Impact_of_Second_Miler_Program">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Impact of Second Miler Program</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2021-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cristina_Seaborn_and_Stephen_Sawyer/New_General_Councilors">
+          <span class="pr-2">New General Councilors</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

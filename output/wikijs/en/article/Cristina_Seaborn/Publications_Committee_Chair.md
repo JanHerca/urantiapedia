@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Cristina Seaborn<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michael_Challis/Media_and_Communications_Service_Team_Chair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Media and Communications Service Team Chair</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Pablo_Segovia/Spanish_Website_Committee">
+          <span class="pr-2">Spanish Website Committee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/059.jpg">
@@ -86,3 +110,27 @@ Broomfield CO 80021
 **From Barbara Newsom**
 
 1. Produce an annual report of what the Urantia Book Fellowship does.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michael_Challis/Media_and_Communications_Service_Team_Chair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Media and Communications Service Team Chair</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Pablo_Segovia/Spanish_Website_Committee">
+          <span class="pr-2">Spanish Website Committee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

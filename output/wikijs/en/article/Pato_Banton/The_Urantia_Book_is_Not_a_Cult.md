@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Pato Banton<br>© 2021 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Duane_Johnson/Abrahams_Salute">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Abraham's Salute</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2021-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stuart_R_Kerr_III/Machiventa_Melchizedek">
+          <span class="pr-2">Machiventa Melchizedek</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia  image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/023.jpg">
@@ -53,3 +77,27 @@ When Jesus walked on this planet he had a direct relationship with God. He rejec
 Urantians do believe that Jesus is the way, the truth and the life, but we also know that in our Father's house there are many mansions for all the people who won't find Jesus in this lifetime. So we all get to wake up together in the resurrection halls of mansonia number one. Yes all of us! Regardless of what we believe! And once we have experienced the celebrations of life after death, we will actually be able to see our guardian angels and know the one truth, sing the same song, praise the one God and recognize the King of Kings who is Jesus Christ, the sovereign ruler of this local universe. Some Urantians, like me, are excited to share this good news with the world, even though we get criticized for being in a so-called cult. 0 thers are quite happy to just read _The Urantia Book_ privately (and sometimes even secretly) while enjoying a unique personal spiritual experience from having an inner relationship with our heavenly Father. And it's all good because, “the will of God can be done in any earthly occupation.” [[UB 155:6.11](/en/The_Urantia_Book/155#p6_11)]
 
 The Urantia Movement is not a cult in the negative meaning of that word. But if we are a new cult with one million people quietly studying in the comfort of their own homes, many of us will not be activated until Jesus Christ our cult leader, personally returns to this world or sends one of His representatives (as revealed in _The Urantia Book_) to unite all people and make this world more like Heaven. Closer to Light & Life!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Duane_Johnson/Abrahams_Salute">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Abraham's Salute</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2021-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stuart_R_Kerr_III/Machiventa_Melchizedek">
+          <span class="pr-2">Machiventa Melchizedek</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

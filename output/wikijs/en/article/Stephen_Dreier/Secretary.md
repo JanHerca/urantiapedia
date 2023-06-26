@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Stephen Dreier<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bobbie_Dreier/2019_Summer_Study_Session_Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2019 Summer Study Session Worship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Emilio_Coppola/Treasurer">
+          <span class="pr-2">Treasurer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/005.jpg">
@@ -21,3 +45,27 @@ The Secretary is a member of the General Council and Executive Committee and par
 I am now 79 years old and nearing the end of my 40+ year service with the Fellowship. During that period I have held several offices, including President, Judicial Committee chair, Membership Committee chair, co-chair of three international conferences, and a number of ad-hoc committees. I feel truly blessed to have had these service opportunities, and especially to have served with the many persons I have come to know and love through this work.
 
 I would like to help the next Secretary get up to speed with the job. That person would need to be a member of the General Council willing to serve on the Executive Committee. Anyone interested? Please let me know.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bobbie_Dreier/2019_Summer_Study_Session_Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2019 Summer Study Session Worship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Emilio_Coppola/Treasurer">
+          <span class="pr-2">Treasurer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

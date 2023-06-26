@@ -9,6 +9,27 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Mighty_Messenger/The_Mighty_Messenger_2022_Special_Gallery">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gallery</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#special-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 - John Baillie, 1886-1960, Theologian, *The Interpretation of Religion*: (Papers 101-103) 
 - James Breasted, 1865-1935, Anthropologist, *The Dawn of Conscience*: (95,111) 
@@ -44,3 +65,25 @@ Matthew Block’s website: [https://urantiabooksources.com/ ](https://urantiaboo
 <figcaption><em>Scan QR code to view </em> Source Documents Special Edition online  </figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Mighty_Messenger/The_Mighty_Messenger_2022_Special_Gallery">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gallery</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#special-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

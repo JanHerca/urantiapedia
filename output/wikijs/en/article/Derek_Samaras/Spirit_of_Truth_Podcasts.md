@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Derek Samaras<br>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Barb_Maier/Africa_Outreach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Africa Outreach</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Urantia_Book_Fellowship_Donation">
+          <span class="pr-2">Urantia Book Fellowship Donation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Spirit of Truth - Karo Kanye Akamune 
 
@@ -40,4 +64,29 @@ Pato is a present-day apostle who nourishes spiritual orphans with the welcoming
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/037.jpg">
+</figure>
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Barb_Maier/Africa_Outreach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Africa Outreach</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Urantia_Book_Fellowship_Donation">
+          <span class="pr-2">Urantia Book Fellowship Donation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

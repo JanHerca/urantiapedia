@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 David Kulieke<br>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Joshua_J_Wilson/Checkmate_The_Progress_Angels">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Checkmate: The Progress Angels and the Religious Guardians in Play</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jorgey_Krupa/On_the_Subject_of_Love">
+          <span class="pr-2">On the Subject of Love</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/014.jpg">
@@ -45,3 +69,27 @@ Some of these ideals can be achieved online; it is a blessing to live in a time 
 In addition to the regular summer study sessions, efforts to visit and support local groups (let the committee know if you would like a visiting presenter), and the online workshop forums, the committee seeks through its resources to combine “what should be” with progress. The committee's webpage is soon to exist on the new Fellowship website much as it used to be. Meanwhile, many of our downloadable resources are available at https://urantiabook.org/EducationCommittee-Resources.
 
 The committee looks forward to seeing you online and at SSS21, all issues of isolation willing! 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Joshua_J_Wilson/Checkmate_The_Progress_Angels">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Checkmate: The Progress Angels and the Religious Guardians in Play</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jorgey_Krupa/On_the_Subject_of_Love">
+          <span class="pr-2">On the Subject of Love</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

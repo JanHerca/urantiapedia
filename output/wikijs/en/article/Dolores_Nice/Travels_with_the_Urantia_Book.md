@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Dolores Nice<br>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Agustin_Arellano/Report_on_CN20_Conference_and_Urantia_TV">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Report on CN20 Conference and Urantia TV</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sue_Snider_Seccombe/Organizational_Guidance_Committee_Report">
+          <span class="pr-2">Organizational Guidance Committee Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/043.jpg">
@@ -38,3 +62,27 @@ A scary experience was in Istanbul, Turkey. Charlene Morrow and I were in a cab 
 </figure>
 
 These travels have given me the opportunity to meet many readers and the ability to introduce the Urantia Book to new truth seekers. I feel very grateful and humbled to have been able to be part of this important service and to be a member of a team of workers for the Revelation.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Agustin_Arellano/Report_on_CN20_Conference_and_Urantia_TV">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Report on CN20 Conference and Urantia TV</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sue_Snider_Seccombe/Organizational_Guidance_Committee_Report">
+          <span class="pr-2">Organizational Guidance Committee Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

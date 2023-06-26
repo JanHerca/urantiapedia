@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Pablo Segovia<br>© 2021 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jena_Lassiter_and_Brent_St_Denis/The_Second_Miler_Program">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Second Miler Program</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2021-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Upcoming_Publications_Themes_and_Deadlines_2021">
+          <span class="pr-2">Upcoming Publications Themes and Deadlines 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia  image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/037.jpg">
@@ -97,3 +121,27 @@ This amazing group is attempting to upgrade their equipment so they can continue
 From one of Jairo's videos on YouTube. Search for Jairo Miranda Urantia on YouTube.
 
 We are very excited about the growth of our Latin American reader groups and look forward to the great service work this dedicated and devoted team is providing to reader communities across the region. As this project continues to grow we will share stories and updates along the way. You can see updates at [urantiabook.org/Second-Miler-Pablo-Morales/](https://urantiabook.org/Second-Miler-Pablo-Morales/).
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jena_Lassiter_and_Brent_St_Denis/The_Second_Miler_Program">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Second Miler Program</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2021-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Upcoming_Publications_Themes_and_Deadlines_2021">
+          <span class="pr-2">Upcoming Publications Themes and Deadlines 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

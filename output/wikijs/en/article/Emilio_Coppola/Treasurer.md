@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Emilio Coppola<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Stephen_Dreier/Secretary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Secretary</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Bowman/Secretary_General">
+          <span class="pr-2">Secretary General</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/006.jpg">
@@ -33,3 +57,27 @@ As part of our ongoing efforts to move _The Urantia Book_ Fellowship to a more �
 It is my desire that the Treasurer continues to improve upon the “transparency” and “scalability” of _The Urantia Book_ Fellowship organization--to create and implement policies and procedures that promote accountability and transparency, while being scalable in its nature. It is my intention to concentrate efforts on implementing “Best Practices” organization wide.
 
 In the interest of transparency, many of you know that I have been personally struggling with business and family health challenges that stretch my ability to be truly productive to the organization and _The Urantia Book_ movement in general. I was hoping that I would be past all of these challenges by the end of 2017, I am now hopeful that it will be by the end of 2019 .
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Stephen_Dreier/Secretary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Secretary</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Bowman/Secretary_General">
+          <span class="pr-2">Secretary General</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

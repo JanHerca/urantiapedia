@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Lifting_Together">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lifting Together</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Joshua_J_Wilson/Machiventa_Melchizedek">
+          <span class="pr-2">Machiventa Melchizedek</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Publications Survey
 
@@ -43,3 +67,27 @@ Urantia Book Fellowship Publication deadlines are:
 - Mini Messenger 15^th^ of every month.
 
 Submit articles to: Cristina Seaborn, Publications Chair publications@urantiabook.org 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Lifting_Together">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lifting Together</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Joshua_J_Wilson/Machiventa_Melchizedek">
+          <span class="pr-2">Machiventa Melchizedek</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

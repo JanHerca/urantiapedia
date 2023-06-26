@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Paula Thompson and Derek Samaras<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Emilio_Coppola/IT_Committee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IT Committee</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stephen_Sawyer/Is_Time_a_Circus_or_a_Flower">
+          <span class="pr-2">Is Time a Circus or a Flower?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/062.jpg">
@@ -35,3 +59,27 @@ Now that you've read all that all of us do at _The Urantia Book_ Fellowship, you
 5. **Office Space** was not always a benefit we enjoyed. For more than 12 years we did all of these tasks from an upstairs bedroom in our Director's home. Eleven months ago we secured an office space which allows us space for meetings, visitors, and volunteers who want to come and help out and because of the support of friends like you we now have ample space just to do our work. Thank you! We hope this gives you a small idea of the work we do at the Fellowship's central office. We know you have many worthy causes that you can donate funds to, and we also know that administration work is not a really sexy cause, so we are deeply grateful for donations that go to general purposes. Thank you sincerely for helping us keep the lights on!
 
 Your friends at the Fellowship Office, Paula Thompson and Derek Samaras!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Emilio_Coppola/IT_Committee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IT Committee</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stephen_Sawyer/Is_Time_a_Circus_or_a_Flower">
+          <span class="pr-2">Is Time a Circus or a Flower?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

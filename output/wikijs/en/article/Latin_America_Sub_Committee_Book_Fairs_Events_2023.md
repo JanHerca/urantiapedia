@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bobbie_Dreier/Memories_of_International_Conferences">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Memories of International Conferences</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2023-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Urantia_Book_Fellowship_International_Conference_2023">
+          <span class="pr-2">Urantia Book Fellowship International Conference 2023 (IC23)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **The Urantia Book Fellowship International Fellowship Committee** [^1]
 
@@ -30,6 +54,31 @@ November 25-December 3 | Guadalajara, Mexico | Xochitl, Quintero | xochilquinter
 November or December | Santiago de Chile | Felipe Arrigorriaga | felipe.arrigorriaga@urantiabook.org
 December (dates to be announced) | Quito, Ecuador | Gabriel Pino | galepino@yahoo.com
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bobbie_Dreier/Memories_of_International_Conferences">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Memories of International Conferences</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2023-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Urantia_Book_Fellowship_International_Conference_2023">
+          <span class="pr-2">Urantia Book Fellowship International Conference 2023 (IC23)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

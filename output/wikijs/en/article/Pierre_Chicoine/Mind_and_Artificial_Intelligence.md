@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Pierre Chicoine<br>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chuck_Thurston/Burning_Man_AI">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Burning Man AI</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Bowman/New_GC_and_EC_Members">
+          <span class="pr-2">New GC and EC Members</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/011.jpg">
@@ -57,3 +81,27 @@ The human body is also built of switches. DNA uses four switches instead of two 
 We are marvelous creatures. When you see the fruits of AI, which will free the world of toil, remember that there is more to life than the physical.
 
 For a description of what AI will do for the world and how AI is **already** bringing abundance the world, watch “SU Global Summit 2019 | Keynote | Peter Diamandis” on YouTube https://youtu.be/ZeHoFuOtUp8
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Chuck_Thurston/Burning_Man_AI">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Burning Man AI</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Larry_Bowman/New_GC_and_EC_Members">
+          <span class="pr-2">New GC and EC Members</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Yman Juran (aka Jean Ascher)<br>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/Why_Place_The_Urantia_Book_Initially_In_America">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Why Place The Urantia Book Initially In America?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cristina_Seaborn/Family_Chapel">
+          <span class="pr-2">Family Chapel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Because of the global Covid-19 pandemic, please contact the event coordinator for the current status of the event.
 
@@ -38,4 +62,28 @@ Because of the global Covid-19 pandemic, please contact the event coordinator fo
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/028.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/Why_Place_The_Urantia_Book_Initially_In_America">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Why Place The Urantia Book Initially In America?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cristina_Seaborn/Family_Chapel">
+          <span class="pr-2">Family Chapel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Rabia Harris<br>© 2022 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Richard_Rosen/Twelve_Ways_I_Hear_from_God_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Twelve Ways I Hear from God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chuck_Thurston/The_Long_Path_photo">
+          <span class="pr-2">“The Long Path” photo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2022_Summer/022.jpg">
@@ -47,3 +71,27 @@ This illuminating treasure (The Impersonal Life), in both text and audio format,
 {.is-info}
 
 > The voice speaking, called the “I AM,” is of course that same “My Presence within”, the pure indwelling spirit revealed in _The Urantia Book_, which I now call my “Divine Self.” 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Richard_Rosen/Twelve_Ways_I_Hear_from_God_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Twelve Ways I Hear from God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Chuck_Thurston/The_Long_Path_photo">
+          <span class="pr-2">“The Long Path” photo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

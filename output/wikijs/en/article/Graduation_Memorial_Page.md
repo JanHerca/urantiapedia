@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Schlundt/Emerging_Communities">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Emerging Communities</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jena_Lassiter/UBF_Website_Tricks">
+          <span class="pr-2">UBF Website Tricks</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Over the past few months, we have developed a Graduation Memorial Page on the new Urantia Book Fellowship website at https://urantiabook.org/
 
@@ -28,4 +52,28 @@ Cristina Seaborn, Joshua Wilson, Jena Lassiter, and Richard Daunt
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/017.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Schlundt/Emerging_Communities">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Emerging Communities</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jena_Lassiter/UBF_Website_Tricks">
+          <span class="pr-2">UBF Website Tricks</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

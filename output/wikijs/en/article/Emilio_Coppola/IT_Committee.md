@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Emilio Coppola<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jena_Lassiter/Web_Content_Committee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Web Content Committee</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Paula_Thompson_and_Derek_Samaras/Office_Report_2019">
+          <span class="pr-2">Office Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The “ad-hoc” (*) IT Committee is comprised of diverse members (see members listed below) to help guide and advise the EC with the overall organizational IT needs. The purpose of this Committee is to guide and implement “Technology” solutions for _The Urantia Book_ Fellowship. There has been a second “ad-hoc” Committee (Chaired by Dana Bredemeyer) to address “Content” as well as overall look and feel - functionality-- of the website(s). 
 
@@ -29,3 +53,27 @@ Current Members of _The Urantia Book_ Fellowship “ad-hoc” IT Committee: Disb
 ## Future Goals
 
 It is my desire that as the EC Liaison I will continue to lead the newly constructed IT WildApricot (WA) Migration Team of Consultants in moving forward in implementing group wisdom on the organization's needs with website solutions that are scalable and sustainable. We should be completed with the Migration by the end of August 2019. The “switchover” is going to be about a month later than was previously noted in my February 2019 GC Report. As you might imagine a lot of additional work has been added into the scope, like a wonderful new “Read _The Urantia Book_” feature that is sure to be a destination for website visitors and a tremendous resource for Urantia Book students everywhere. 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jena_Lassiter/Web_Content_Committee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Web Content Committee</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Paula_Thompson_and_Derek_Samaras/Office_Report_2019">
+          <span class="pr-2">Office Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

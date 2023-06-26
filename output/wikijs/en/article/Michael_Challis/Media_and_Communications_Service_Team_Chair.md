@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Michael Challis<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Lara_Amyx/Finance_Committee_Chair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Finance Committee Chair</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cristina_Seaborn/Publications_Committee_Chair">
+          <span class="pr-2">Publications Committee Chair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/058.jpg">
@@ -27,3 +51,27 @@ I believe the restrictive qualifications for Service Team Chairs are unfair as t
 My observation is that the newly structured Executive Committee is working well under Geoff Theiss' leadership. However, although I do not like the “middle management” structure now in place and believe in lean management, I think an eight member Executive Committee is too small a body. It's a cumbersome model for communication that adds a layer between the committees and the EC and feels isolated from the membership.
 
 One of the justifications for the new structure was the desire of some committee members to do the work without having the travel and expense of attending four EC meetings a year. The use of regular Zoom meetings and fewer face to face meetings has somewhat diminished that objection. And personally I miss all the variety and wisdom of the voices on the EC! 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Lara_Amyx/Finance_Committee_Chair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Finance Committee Chair</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cristina_Seaborn/Publications_Committee_Chair">
+          <span class="pr-2">Publications Committee Chair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

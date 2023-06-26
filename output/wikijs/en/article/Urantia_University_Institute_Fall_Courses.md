@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Cristina_Seaborn/Graduation_Memorial_Page">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Graduation Memorial Page</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Pablo_Segovia/Spanish_Outreach_Committee_Report">
+          <span class="pr-2">Spanish Outreach Committee Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/048.jpg">
@@ -96,3 +120,27 @@ Each day of the week has a different focus or theme from _The Urantia Book_. Oft
 
 
 The sessions are moderated by members of the UUI staff. We use passages from _The Urantia Book_ for conversation starters, and pause for moments of focused worship now and then. 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Cristina_Seaborn/Graduation_Memorial_Page">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Graduation Memorial Page</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Pablo_Segovia/Spanish_Outreach_Committee_Report">
+          <span class="pr-2">Spanish Outreach Committee Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

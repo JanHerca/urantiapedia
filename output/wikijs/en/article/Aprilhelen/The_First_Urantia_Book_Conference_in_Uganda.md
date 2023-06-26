@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Aprilhelen<br>© 2023 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Eugene_Asidao/Pasko_Christmas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pasko (Christmas)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2023-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Geoff_Theiss/2022_Annual_Pipeline_of_Light_Report">
+          <span class="pr-2">2022 Annual Pipeline of Light Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/013.jpg">
@@ -107,3 +131,27 @@ Most of the personal conversations I had were fully endowed with the fruits of t
 Let us continue to remember the first of any endeavors always has the distinct opportunity for growth. Both Toni and I View the conference as a success, specifically because it was beset with challenges that are now being considered by Spiritual Family Network and the IFC. To be explicit, we recognize that various cultures allow for some differences in management, organization, and structure. However, we Will forever agree upon the importance of actualizing the examples of God's pattern of serving. Teamwork is a part of the universal whole. Expressing spiritual values in teamwork is the key!
 
 My gratitude abounds for the continued spiritual and financial support I have been given over the years from my family who are _The Urantia Book_ Fellowship and the _Urantia Book_ movement in general. It is especially an honor to have been a delegate to the first conference in Uganda. Surely this is a great step for the expansion of the community of _Urantia Book_ students. It was a pleasure to serve the bridge that is being built across Urantia. Toni and I are both full of appreciation to have been of service in this way. Our Ugandan experiences, albeit radically different from each Other, were necessary for helping to shape the future of the relationships between continents, organizations, _Urantia Book_ students, and each Other. We know the celestials had much to do with our involvement and safety. We are blessed that God knows inconceivably more than we do. We continue to live up to the faith we say we have.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Eugene_Asidao/Pasko_Christmas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pasko (Christmas)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2023-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Geoff_Theiss/2022_Annual_Pipeline_of_Light_Report">
+          <span class="pr-2">2022 Annual Pipeline of Light Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

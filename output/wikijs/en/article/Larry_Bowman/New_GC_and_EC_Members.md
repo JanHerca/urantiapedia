@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Larry Bowman<br>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Pierre_Chicoine/Mind_and_Artificial_Intelligence">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mind and Artificial Intelligence</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Urantia_Book_Study_Group_Directory">
+          <span class="pr-2">Urantia Book Study Group Directory</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/013.jpg">
@@ -61,3 +85,27 @@ By profession, Sue is a market research consultant and has been a focus group mo
 Those skills will come in handy serving on General Council.
 
 > Social service is the result of moral thinking and religious living. [UB 5:5.4](/en/The_Urantia_Book/5#p5_4)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Pierre_Chicoine/Mind_and_Artificial_Intelligence">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mind and Artificial Intelligence</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Urantia_Book_Study_Group_Directory">
+          <span class="pr-2">Urantia Book Study Group Directory</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

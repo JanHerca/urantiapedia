@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Chuck Thurston<br>© 2022 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jena_Lassiter/Introduction_Stepping_Stones_to_Spiritual_Growth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Introduction: Stepping Stones to Spiritual Growth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kaye_and_William_Cooper/Why_Pray">
+          <span class="pr-2">Why Pray?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2022_Summer/006.jpg">
@@ -57,4 +81,28 @@ It is this combination of extraordinary cosmic scope and the unprecedented quali
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Summer/007.jpg">
 <figcaption><em>Green</em>, by Chuck Thurston</figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jena_Lassiter/Introduction_Stepping_Stones_to_Spiritual_Growth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Introduction: Stepping Stones to Spiritual Growth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kaye_and_William_Cooper/Why_Pray">
+          <span class="pr-2">Why Pray?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

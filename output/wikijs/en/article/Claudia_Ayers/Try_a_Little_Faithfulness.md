@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Claudia Ayers<br>© 2022 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Cristina_Seaborn/Will_My_Atheist_Mom_Resurrect_from_the_Dead">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Will My Atheist Mom Resurrect from the Dead?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Michael_Hagan_and_Monica_Kemp/Beware_I_am_Contagious">
+          <span class="pr-2">Beware! I am Contagious!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2022_Summer/018.jpg">
@@ -100,3 +124,27 @@ Anyone needing a little something to kickstart or restart your spiritual journey
 > There is in the mind of God a plan which embraces every creature of all his vast domains, and this plan is an eternal purpose of boundless opportunity, unlimited progress, and endless life. And the infinite treasures of such a matchless career are yours for the striving! ([UB 32:5.7](/en/The_Urantia_Book/32#p5_7))
 
 In this presence let me be . . always knocking on heaven's door.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Cristina_Seaborn/Will_My_Atheist_Mom_Resurrect_from_the_Dead">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Will My Atheist Mom Resurrect from the Dead?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Michael_Hagan_and_Monica_Kemp/Beware_I_am_Contagious">
+          <span class="pr-2">Beware! I am Contagious!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

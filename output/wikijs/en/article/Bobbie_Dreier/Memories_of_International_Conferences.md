@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Bobbie Dreier<br>© 2023 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Aprilhelen/A_Spiritually_Enriching_Summer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Spiritually Enriching Summer Vacation for the Whole Family (IC23)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2023-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Latin_America_Sub_Committee_Book_Fairs_Events_2023">
+          <span class="pr-2">Latin America Sub Committee Book Fairs and Events 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/049.jpg">
@@ -37,3 +61,28 @@ I urge you to take a look at the conference information on the Fellowship's webs
 <figcaption><em>Hilton Oak Brook Hills Resort and Conference Center, Chicago, Illinois, USA</em><figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Aprilhelen/A_Spiritually_Enriching_Summer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Spiritually Enriching Summer Vacation for the Whole Family (IC23)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2023-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Latin_America_Sub_Committee_Book_Fairs_Events_2023">
+          <span class="pr-2">Latin America Sub Committee Book Fairs and Events 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

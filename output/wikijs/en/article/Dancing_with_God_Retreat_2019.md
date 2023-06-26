@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Summer_Study_Session_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Summer Study Session 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Youth_and_Young_Adults_in_Boulder">
+          <span class="pr-2">Youth and Young Adults in Boulder</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 New Mexico, Synergia Ranch April 4-7
 Chicago, Urantia Foundation, September 12-15
@@ -28,4 +52,28 @@ For more information and to reserve a place, please contact line.stpierre@gmail.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/008.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Summer_Study_Session_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Summer Study Session 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Youth_and_Young_Adults_in_Boulder">
+          <span class="pr-2">Youth and Young Adults in Boulder</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Tom Choquette<br>© 2022 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bill_Cooper/How_Jesus_Taught_Each_Person">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">How Jesus Taught Each Person</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cristina_Seaborn/Will_My_Atheist_Mom_Resurrect_from_the_Dead">
+          <span class="pr-2">Will My Atheist Mom Resurrect from the Dead?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2022_Summer/014.jpg">
@@ -46,4 +70,28 @@ We know, deep in our soul, that we are to love everyone, forgive everything, and
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Summer/015.jpg">
 <figcaption><em>Shtterstock 763086595</em></figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bill_Cooper/How_Jesus_Taught_Each_Person">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">How Jesus Taught Each Person</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cristina_Seaborn/Will_My_Atheist_Mom_Resurrect_from_the_Dead">
+          <span class="pr-2">Will My Atheist Mom Resurrect from the Dead?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

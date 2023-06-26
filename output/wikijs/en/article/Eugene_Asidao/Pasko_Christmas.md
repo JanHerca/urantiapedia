@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Eugene Asidao<br>© 2023 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mora_Franco/Book_Fair_in_La_Paz_Bolivia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Book Fair in La Paz, Bolivia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2023-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Aprilhelen/The_First_Urantia_Book_Conference_in_Uganda">
+          <span class="pr-2">The First Urantia Book Conference in Uganda: A Personal Account</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/011.jpg">
@@ -37,3 +61,27 @@ Here in the United States, many female Filipino professionals are in the medical
 With an ever-evolving culture in family life, women remain the citadel of love and compassion.
 
 > Service is in giving, in sharing newly acquired truths with others.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mora_Franco/Book_Fair_in_La_Paz_Bolivia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Book Fair in La Paz, Bolivia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2023-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Aprilhelen/The_First_Urantia_Book_Conference_in_Uganda">
+          <span class="pr-2">The First Urantia Book Conference in Uganda: A Personal Account</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

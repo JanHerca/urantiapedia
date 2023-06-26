@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Chuck Thurston<br>© 2021 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Peri_Best/Planetary_Government">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Planetary Government</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2021-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Duane_Johnson/Abrahams_Salute">
+          <span class="pr-2">Abraham's Salute</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/011.jpg">
@@ -188,3 +212,27 @@ It's also interesting, I think, to see that many of these ideas reappear in Jesu
 > “... If God is with me, I have determined to have no doubt in my heart. Faith must be very near the truth of things, and I do not see how a man can live without this good faith. ...“ [[UB 131:9.3](/en/The_Urantia_Book/131#p9_3)]
 
 > “ ... To attain the perfection of Heaven is the goal of man.... God is with you; have no doubt in your heart. ...” [[UB 131:9.4](/en/The_Urantia_Book/131#p9_4)]
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Peri_Best/Planetary_Government">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Planetary Government</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2021-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Duane_Johnson/Abrahams_Salute">
+          <span class="pr-2">Abraham's Salute</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Mighty_Messenger/The_Mighty_Messenger_2020_Spring_Cover">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cover</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/What_Urantia_Experience_vs_Urantia_Conference">
+          <span class="pr-2">What is a “Urantia Experience” vs. “Urantia Conference?”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The co-chairs of Urantia Global Experience 2020 are working in collaboration with our movement at large on launching Urantia Global Experience 2020 as a
 
@@ -133,3 +157,28 @@ Additionally, we respectfully ask that participants do not schedule any committe
 
 > “To enjoy privilege without abuse, to have liberty without license, to possess power and steadfastly refuse to use it for selfaggrandizement - these are the marks of high civilization.” [UB 48:7.8](/en/The_Urantia_Book/48#p7_8)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Mighty_Messenger/The_Mighty_Messenger_2020_Spring_Cover">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cover</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/What_Urantia_Experience_vs_Urantia_Conference">
+          <span class="pr-2">What is a “Urantia Experience” vs. “Urantia Conference?”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

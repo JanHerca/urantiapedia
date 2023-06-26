@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Richard E. Warren<br>© 2021 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Mighty_Messenger/The_Mighty_Messenger_2021_Spring_Cover">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cover</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2021-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Peri_Best/Planetary_Government">
+          <span class="pr-2">Planetary Government</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia  image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/006.jpg">
@@ -35,3 +59,27 @@ A young man, an exceptional student, one named Nordan attends the school. A long
 This little-known story encapsulates the fascinating life of Urantia's second most important teacher, after Jesus. It was a genuine joy fleshing out the details of Machiventa's 94 year self-bestowal in my novel The Melchizedek Mission - Salvaging Truth. I imagined his dinner with the Amdon's family, a meeting with donors, the building of the school, living with the Katro family, training the missionaries, meeting Abraham, A braham's sojourn to Egypt, the making of the covenant, M achiventa's disappearance, A braham's loss and restoration of confidence, Isaac's birth and marriage, and the aftereffects of the Sage's teachings as they were disseminated by the Salem missionaries, east, west, north, and south of Palestine. The novel is 155 pages and prefaced with a map of the region where $M$ achiventa taught and $A$ braham ruled. There are vignettes with Sarah, A bimelech, the Pharaoh of Egypt, and Abraham's turmoil when M el chizedek disappeared. I wrote the book for two reasons, first to make this pivotal historical event available and accessible to all, and second, to attract truthseekers to the Urantia Book. It is available in ebook and print format, and soon to be published in Spanish and French.
 
 A Kindle Book “Look inside” sample from The Melchizedek M ission: Salvaging Truth may be accessed on Amazon at: https://www.amazon.com/gp/product/B08MY7Y68P
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Mighty_Messenger/The_Mighty_Messenger_2021_Spring_Cover">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cover</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2021-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Peri_Best/Planetary_Government">
+          <span class="pr-2">Planetary Government</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

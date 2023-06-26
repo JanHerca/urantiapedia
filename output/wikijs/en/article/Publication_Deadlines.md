@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sue_Snider_Seccombe/Organizational_Guidance_Committee_Report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Organizational Guidance Committee Report</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cristina_Seaborn/Graduation_Memorial_Page">
+          <span class="pr-2">Graduation Memorial Page</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <ins>Magazine Publications</ins>
 
@@ -36,3 +60,27 @@ This survey will take one minute. Please let us know here: https://www.surveymon
 Thank you!
 
 Cristina Seaborn, Publications Chair 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sue_Snider_Seccombe/Organizational_Guidance_Committee_Report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Organizational Guidance Committee Report</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Cristina_Seaborn/Graduation_Memorial_Page">
+          <span class="pr-2">Graduation Memorial Page</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

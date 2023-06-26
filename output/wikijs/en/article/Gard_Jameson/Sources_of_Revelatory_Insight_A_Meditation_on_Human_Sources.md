@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Gard Jameson<br>© 2022 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bobbie_Dreier/Steves_Revelation_Gifts">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Steve’s Revelation Gifts</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#special-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gard_Jameson/Discourse_on_Reality">
+          <span class="pr-2">Discourse on Reality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/007.jpg">
@@ -61,3 +85,27 @@ My hope in these essays is to encourage the reader to read closely the text of *
 What emerges is the acknowledgement of personal or auto revelation in the life of a truth seeking mortal, such as Ralph Tyler Flewelling. His work on personality was groundbreaking. Flewelling’s book, [*Creative Personality*](https://www.amazon.com/Creative-Personality-Study-Philosophical-Reconciliation/dp/125845114X), was very popular in its day, and was utilized heavily in most of the discourses associated with Jesus’ travels to Rome. Revelation is not always from on high; it sits before our eyes for those who cultivate eyes to see. 
 
 I wish you well in your own personal discovery.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bobbie_Dreier/Steves_Revelation_Gifts">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Steve’s Revelation Gifts</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#special-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gard_Jameson/Discourse_on_Reality">
+          <span class="pr-2">Discourse on Reality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

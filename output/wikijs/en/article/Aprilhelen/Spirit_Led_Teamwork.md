@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Aprilhelen<br>© 2023 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Barb_Maier_and_Sally_Annabella/Thirty_Fifth_Conference_Mazatlán_Mexico">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Thirty-Fifth Conference in Mazatlán, Mexico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2023-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Aprilhelen/A_Spiritually_Enriching_Summer">
+          <span class="pr-2">A Spiritually Enriching Summer Vacation for the Whole Family (IC23)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/043.jpg">
@@ -120,3 +144,27 @@ The eye-opening experience in Uganda has raised big questions for me in regard t
 - How do we evaluate needs when we haven't been to a country and only know people through online communication?
 
 Do these questions intrigue you? Do you have experiences to share and the desire to serve the International Fellowship Committee? We will enjoy your feedback and dedication. You may email The Urantia Book Fellowship office (at [urantiabook.org/Contact-Us](https://urantiabook.org/Contact-Us)) for more information on how to get involved.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Barb_Maier_and_Sally_Annabella/Thirty_Fifth_Conference_Mazatlán_Mexico">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Thirty-Fifth Conference in Mazatlán, Mexico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2023-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Aprilhelen/A_Spiritually_Enriching_Summer">
+          <span class="pr-2">A Spiritually Enriching Summer Vacation for the Whole Family (IC23)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

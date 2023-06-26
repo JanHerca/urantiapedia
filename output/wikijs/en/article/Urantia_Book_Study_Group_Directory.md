@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Bowman/New_GC_and_EC_Members">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">New GC and EC Members</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stevie_Shaefer/Commonality_Among_Faiths">
+          <span class="pr-2">Commonality Among Faiths</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The Urantia Book_ Study Group Directory recently surpassed the largest number of listings added in any single year since 2011. A total of 68 new groups were added in 2019 . This is more than double the number of new groups added in 2018. The Study Group Directory continues to grow as readers from more than 55 countries have found the Directory and added their study group information. At the end of 2019, the Directory had a total of 463 study groups.
 
@@ -53,3 +77,27 @@ Only study group hosts can list their group or update their information. The Dir
 In Joyful Service,
 
 Urantia Book Study Group Directory Admin Team
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Larry_Bowman/New_GC_and_EC_Members">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">New GC and EC Members</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stevie_Shaefer/Commonality_Among_Faiths">
+          <span class="pr-2">Commonality Among Faiths</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

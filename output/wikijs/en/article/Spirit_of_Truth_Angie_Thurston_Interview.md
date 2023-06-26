@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Zshonette_Reed/An_Invitation_from_TheChristExperiment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">An Invitation from TheChristExperiment</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Planned_Giving_to_The_Urantia_Book_Fellowship">
+          <span class="pr-2">Planned Giving to The Urantia Book Fellowship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 One day, the vocations that sustain our living will also honor our souls. Angie is building bridges, today, toward that eventuality.
 
@@ -34,3 +58,27 @@ We are invited to contribute, she tells us, and it's fun to put Jesus' teachings
 See Spirit of Truth interviews and the
 
 Urantia Book Network videos at: https://www.youtube.com/c/URANTIABOOKNETWORK/videos 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Zshonette_Reed/An_Invitation_from_TheChristExperiment">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">An Invitation from TheChristExperiment</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Planned_Giving_to_The_Urantia_Book_Fellowship">
+          <span class="pr-2">Planned Giving to The Urantia Book Fellowship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

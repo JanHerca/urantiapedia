@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Geoff Taylor<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Brent_St_Denis/Worldwide_Service_Team_Chair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Worldwide Service Team Chair</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Biggs/Wild_Goose">
+          <span class="pr-2">Wild Goose</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/019.jpg">
@@ -25,3 +49,27 @@ I used to feel that the challenge of the Interfaith Committee was to search for 
 One language, the language of love; one religion, service; one goal, being more loving (more like the loving God we have faith in).
 
 No religion has all the right answers, but we should ask: What do all religions have in common? 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Brent_St_Denis/Worldwide_Service_Team_Chair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Worldwide Service Team Chair</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Biggs/Wild_Goose">
+          <span class="pr-2">Wild Goose</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Stephen Sawyer<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Paula_Thompson_and_Derek_Samaras/Office_Report_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Office Report</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/First_Meeting_of_the_Urantia_Uganda">
+          <span class="pr-2">First Meeting of the Urantia Uganda August 2020 Planning Committee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by _Stephen Sawyer_
 
@@ -81,3 +105,27 @@ Time could be a flower unless you really need a circus.
 The opposable thumb, like the **hyoid bone** in our throats which help us create the sounds of communicated language, is uniquely human. We ***can*** build a tree house high above predators. The upright bipedal form allows for everything which is the precursor for becoming “self-aware” which is necessary to imagine the unknown, death prior to its arrival, and ultimately God.
 
 (The hyoid bone is a horseshoe shaped bone found in the **neck** which protects the esophagus and facilitates a wide range of **muscle** activity required for speaking and swallowing.)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Paula_Thompson_and_Derek_Samaras/Office_Report_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Office Report</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/First_Meeting_of_the_Urantia_Uganda">
+          <span class="pr-2">First Meeting of the Urantia Uganda August 2020 Planning Committee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

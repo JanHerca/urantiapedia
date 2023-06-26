@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Paula Thompson<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Biggs/Wild_Goose">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Wild Goose</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sean_Privitera/Youth_and_Young_Adult_Committee_Chair">
+          <span class="pr-2">Youth and Young Adult Committee Chair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/023.jpg">
@@ -43,3 +67,27 @@ Finally, the radio show The Cosmic Citizen just celebrated its $11^{\text {th }}
 Thurston and Derek Samaras for giving many hours of time hosting the program.
 
 The Fellowship's Outreach Committee celebrates all evangels of the revelation who endeavor to share its amazingly deep and life changing teachings. If you have an idea for an outreach project, we want to hear from you! Please write to us in care of the Fellowship, at fellowship@urantiabook.org 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Biggs/Wild_Goose">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Wild Goose</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sean_Privitera/Youth_and_Young_Adult_Committee_Chair">
+          <span class="pr-2">Youth and Young Adult Committee Chair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

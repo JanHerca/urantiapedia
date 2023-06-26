@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Joshua J. Wilson<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Publications_Survey">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Publications Survey</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Pato_Banton_and_Antoinette_Hall/Our_Experience_at_the_Parliament_of_Worlds_Religions">
+          <span class="pr-2">Our Experience at the Parliament of World’s Religions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Working on Earth since 200,000 BC as One of twelve Planetary Peceivers, Sage of Salem (1980-1886 BC), Collaborator with Prophets and Seers (a. 1866 BC-30AD), Resident Governor General (c. 950-1050 AD), Vicegerent Planetary Prince (current)
 
@@ -123,3 +147,27 @@ Let us put our hand to the plow of world progress and move forward with dedicati
 Joshua J. Wilson is a musician, pastoral counselor, and essayist who writes on historical and scientific subjects harmonizing science, philosophy, and spirituality.
 
 He holds a bachelor's degree in Business Administration and Decision Information Systems, specializing in Human Behavior in Organizations, and certificates in Not-forProfit Management and Active Parenting Instruction.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Publications_Survey">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Publications Survey</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Pato_Banton_and_Antoinette_Hall/Our_Experience_at_the_Parliament_of_Worlds_Religions">
+          <span class="pr-2">Our Experience at the Parliament of World’s Religions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

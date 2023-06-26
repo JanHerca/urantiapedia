@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Bill Cooper<br>© 2022 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claire_and_Angie_Thurston/For_You_Who_Want_Something_Different_From_Your_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">For You Who Want Something Different From Your Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Tom_Choquette/Our_Journey_from_Selfish_to_Selfless">
+          <span class="pr-2">Our Journey from Selfish to Selfless</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2022_Summer/012.jpg">
@@ -61,4 +85,28 @@ If you don't know what on earth you could say to overburdened, anxious, and deje
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Summer/013.jpg">
 <figcaption><em>As I Have Loved You</em>, by Greg Olsen</figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Claire_and_Angie_Thurston/For_You_Who_Want_Something_Different_From_Your_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">For You Who Want Something Different From Your Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Tom_Choquette/Our_Journey_from_Selfish_to_Selfless">
+          <span class="pr-2">Our Journey from Selfish to Selfless</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Bobbie Dreier<br>© 2022 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gard_Jameson/Dedication">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dedication</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#special-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gard_Jameson/Sources_of_Revelatory_Insight_A_Meditation_on_Human_Sources">
+          <span class="pr-2">Sources of Revelatory Insight: A Meditation on the “Human Sources”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by _Bobbie Dreier_ 
 
@@ -37,3 +61,28 @@ In *The Urantia Book it is written:*
 Steve had tears in his eyes as he said, “Jesus *knew* this woman. He knew that the sin was not hers. In this small difference in the account,” he said, “we see the matchless character of the Master. How fully and intimately he knows and loves each one of us.” 
 
 I hope the following essays which are the fruit of the insights of Gard's and Steve's studies will give you a taste for the value of the source materials and enhance your study of *The Urantia Book.*
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gard_Jameson/Dedication">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dedication</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#special-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gard_Jameson/Sources_of_Revelatory_Insight_A_Meditation_on_Human_Sources">
+          <span class="pr-2">Sources of Revelatory Insight: A Meditation on the “Human Sources”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

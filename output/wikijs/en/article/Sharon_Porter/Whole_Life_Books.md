@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Sharon Porter<br>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sharon_Porter/The_Angels_of_Progress">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Angels of Progress</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Joshua_J_Wilson/Checkmate_The_Progress_Angels">
+          <span class="pr-2">Checkmate: The Progress Angels and the Religious Guardians in Play</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by _Sharon Porter_
 
@@ -33,3 +57,27 @@ It was especially enjoyable when our different Urantia Book reader friends, when
 Over all, we sold many, many Urantia Books. I was always astonished at the number of books that came and went out of the doors of that store and very, very grateful to all the many Angels of Progress for their continuous work “towards the good” of all.
 
 Many thanks go to Joe Crow, a Urantia Book reader and financial contributor, Tim Traylor, a Urantia reader and beloved friend, Gerry Caffey, a Urantia reader and computer expert, and Jim Cochran, a Urantia reader and store partner for their service and long commitment to the store's spiritual goals. Ted Lanier, my beloved husband passed from this world in 2017. He was the original lifeblood of this store. He was my partner and friend as we both went through this adventure together. Thank you Ted! Thank you Angels of Progress! 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sharon_Porter/The_Angels_of_Progress">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Angels of Progress</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Joshua_J_Wilson/Checkmate_The_Progress_Angels">
+          <span class="pr-2">Checkmate: The Progress Angels and the Religious Guardians in Play</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

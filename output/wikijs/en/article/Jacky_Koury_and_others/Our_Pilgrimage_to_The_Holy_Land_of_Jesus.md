@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Jackie Koury, Chuck Thurston, Francisco Fuentes<br>© 2019 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Glass/United_Nations_Day">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">United Nations Day</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Tom_Choquette/A_Vision">
+          <span class="pr-2">A Vision</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Jackie Koury
 
@@ -77,3 +101,27 @@ Each and every one of these stones continue singing (if you pay attention, you w
 Lord's Prayer, photo by Chuck Thurston 
 
 > The Son of Man is still there, there is a continuous praise of the stones who were witnesses of His Bestowal.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Glass/United_Nations_Day">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">United Nations Day</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2019-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Tom_Choquette/A_Vision">
+          <span class="pr-2">A Vision</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

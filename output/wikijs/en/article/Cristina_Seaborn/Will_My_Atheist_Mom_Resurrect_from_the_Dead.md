@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Cristina Seaborn<br>© 2022 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Tom_Choquette/Our_Journey_from_Selfish_to_Selfless">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Journey from Selfish to Selfless</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claudia_Ayers/Try_a_Little_Faithfulness">
+          <span class="pr-2">Try a Little Faithfulness</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2022_Summer/016.jpg">
@@ -124,3 +148,27 @@ Freedom and joy arrives!
 We will likely experience astonishment at the new reality we will find ourselves in. We will be better able to make an informed choice about eternal survival in that reality.
 
 That will be a very enticing world to explore!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Tom_Choquette/Our_Journey_from_Selfish_to_Selfless">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Journey from Selfish to Selfless</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claudia_Ayers/Try_a_Little_Faithfulness">
+          <span class="pr-2">Try a Little Faithfulness</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

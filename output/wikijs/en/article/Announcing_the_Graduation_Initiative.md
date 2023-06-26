@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/What_Urantia_Experience_vs_Urantia_Conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What is a “Urantia Experience” vs. “Urantia Conference?”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Yman_Juran/A_Urantia_in_Second_Life">
+          <span class="pr-2">A Urantia in Second Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/004.jpg">
@@ -31,3 +55,27 @@ A receipt will be sent to you by email.
 Memorial Donation link
 
 https://urantiabook.org/Memorial-Donations 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/What_Urantia_Experience_vs_Urantia_Conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What is a “Urantia Experience” vs. “Urantia Conference?”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Yman_Juran/A_Urantia_in_Second_Life">
+          <span class="pr-2">A Urantia in Second Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

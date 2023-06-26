@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Jena Lassiter and Brent St. Denis<br>© 2021 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Joshua_J_Wilson/Machiventa_Melchizedek_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Machiventa Melchizedek</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2021-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Pablo_Segovia/Impact_of_Second_Miler_Program">
+          <span class="pr-2">Impact of Second Miler Program</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia  image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/036.jpg">
@@ -59,3 +83,27 @@ Just to give you an idea of the range of projects currently underway ...
 - Bicycles and technical infrastructure support in Uganda so leaders can reach farther into their communities with _The Urantia Book_ and start creating community and village-level meetings - Infrastructure to create meeting spaces for study in Cameroon
 
 The grantees are updating us with their progress. Watch for progress reports on the Fellowship News Blog (urantiabook.org/fellowship-news) and through our publications.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Joshua_J_Wilson/Machiventa_Melchizedek_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Machiventa Melchizedek</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2021-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Pablo_Segovia/Impact_of_Second_Miler_Program">
+          <span class="pr-2">Impact of Second Miler Program</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Michelle Klimesh<br>© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Yman_Juran/A_Urantia_in_Second_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Urantia in Second Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ted_Blaney/Fellowship_Field_Worker_Program">
+          <span class="pr-2">Fellowship Field Worker Program</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 December 31, 2019
 
@@ -41,3 +65,27 @@ So THANK YOU to DEREK and PAULA in the office, SOREN and MICHAEL in the field, a
 Pipeline placement = planting seeds. Thanks for your support.
 
 > The current effort brings our Pipeline all-time totals to nine thousand, four hundred and seventy-eight copies of _The Urantia Book_ placed into ninety countries around the world.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Yman_Juran/A_Urantia_in_Second_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Urantia in Second Life</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#spring-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ted_Blaney/Fellowship_Field_Worker_Program">
+          <span class="pr-2">Fellowship Field Worker Program</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

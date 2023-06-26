@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Trudi Cooper<br>© 2022 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kaye_and_William_Cooper/Why_Pray">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Why Pray?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claire_and_Angie_Thurston/For_You_Who_Want_Something_Different_From_Your_Life">
+          <span class="pr-2">For You Who Want Something Different From Your Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2022_Summer/009.jpg">
@@ -25,3 +49,27 @@ A thoroughly practical youth as well as an idealist, Jesus vigorously applied hi
 Poor Rebecca was heartbroken, could not be consoled, and convinced her father to move his family away to Sepphoris. Many men subsequently sought her hand in marriage, but she turned them all away. She lived devotedly to see Jesus fulfill his career as a teacher of living truth. She followed him throughout his years of public labor. She stood by and watched as he rode the donkey into Jerusalem on the day of preparation of the Jewish Passover, and was one of the women standing at the foot of the cross on the fateful night of his crucifixion.
 
 To me, this is such a tragic and beautiful story, one that we could not know except for the teachings of _The Urantia Book_. We are given insight about Jesus's motivations and decisions. He was conscious of his purpose here, yet sympathetic and sensitive to the feelings of those whose lives he touched. This and other stories in _The Urantia Book_ show the true and deeply-felt humanity of our beloved Creator, Son of God, and Son of Man-Jesus. 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kaye_and_William_Cooper/Why_Pray">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Why Pray?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Claire_and_Angie_Thurston/For_You_Who_Want_Something_Different_From_Your_Life">
+          <span class="pr-2">For You Who Want Something Different From Your Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

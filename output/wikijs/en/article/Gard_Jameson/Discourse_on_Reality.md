@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Gard Jameson<br>© 2022 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gard_Jameson/Sources_of_Revelatory_Insight_A_Meditation_on_Human_Sources">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sources of Revelatory Insight: A Meditation on the “Human Sources”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#special-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gard_Jameson/True_Values">
+          <span class="pr-2">True Values</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by _Gard Jameson_ 
 
@@ -262,3 +286,27 @@ The great mystery of existence is how God, in whom we move, live, and have our b
 
 
 > A one-eyed person can never hope to visualize depth of perspective. Neither can single-eyed material scientists nor single-eyed spiritual mystics and allegorists correctly visualize and adequately comprehend the true depths of universe reality. *The Urantia Book,* [UB 130:4.4](/en/The_Urantia_Book/130#p4_4)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gard_Jameson/Sources_of_Revelatory_Insight_A_Meditation_on_Human_Sources">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sources of Revelatory Insight: A Meditation on the “Human Sources”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#special-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gard_Jameson/True_Values">
+          <span class="pr-2">True Values</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

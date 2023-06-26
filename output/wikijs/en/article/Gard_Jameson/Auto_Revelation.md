@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Gard Jameson<br>© 2022 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gard_Jameson/Truth_and_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Truth and Faith</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#special-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Mighty_Messenger/The_Mighty_Messenger_2022_Special_Gallery">
+          <span class="pr-2">Gallery</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by _Gard Jameson_
 
@@ -33,3 +57,27 @@ These are some of the contemporary conceptual expressions that are opening the d
 May your eyes and ears be blessed by the radical amazement of creation! May your soul be blessed by the sublime joy of knowing God and the Unconditional Love of the Indwelling Presence, _even now!_
 
 > We are living in an axial moment as noted by many seminal thinkers, wherein there is a growing appreciation of the complementary nature of Science and Religion.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gard_Jameson/Truth_and_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Truth and Faith</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#special-2022-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Mighty_Messenger/The_Mighty_Messenger_2022_Special_Gallery">
+          <span class="pr-2">Gallery</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

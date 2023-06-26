@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spirit_of_Truth_Angie_Thurston_Interview">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spirit of Truth - Angie Thurston Interview</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Mighty_Messenger/The_Mighty_Messenger_2020_Fall_Endpage">
+          <span class="pr-2">End page</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Many of us are reaching a point in our life where we realize that we may not have many years left on this world, lovingly known to us as Urantia. Depending on how we look at this, it can be both good news and bad news, at the same time.
 
@@ -37,4 +61,28 @@ Thank you for your support and contributions!
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/070.jpg">
 <figcaption><em>Resurrection Morning</em>, © 2020 Gary Tonge</figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Spirit_of_Truth_Angie_Thurston_Interview">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spirit of Truth - Angie Thurston Interview</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#fall-2020-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Mighty_Messenger/The_Mighty_Messenger_2020_Fall_Endpage">
+          <span class="pr-2">End page</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

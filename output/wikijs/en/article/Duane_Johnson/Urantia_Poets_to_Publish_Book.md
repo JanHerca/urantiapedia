@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Duane Johnson<br>© 2023 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Geoff_Theiss/2022_Annual_Pipeline_of_Light_Report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2022 Annual Pipeline of Light Report</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2023-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mora_Franco/The_Future_of_the_Urantia_Movement">
+          <span class="pr-2">The Future of the Urantia Movement—Young People in Sight!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/017.jpg">
@@ -43,3 +67,27 @@ Of course, we are keenly aware that poetry has a limited market. To get a sense 
 If you would like to preorder a copy of _Sailing to Salvington_, send your order to Duane Johnson (duanej747@gmail.com). We Will mail you your copy in early July, or if you are attending _The Urantia Book_ Fellowship's International Conference 2023 in Chicago, Illinois, USA, you can pick it up then- For more information on the conference go to urantiabook.oWic2.3.
 
 > Poets use Symbolic and Metaphorical Language in an Effort to Lift our human Type of Mind up to the Level of Cosmic Mind.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Geoff_Theiss/2022_Annual_Pipeline_of_Light_Report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2022 Annual Pipeline of Light Report</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2023-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mora_Franco/The_Future_of_the_Urantia_Movement">
+          <span class="pr-2">The Future of the Urantia Movement—Young People in Sight!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
