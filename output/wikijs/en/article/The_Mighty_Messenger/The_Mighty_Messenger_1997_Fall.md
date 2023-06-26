@@ -39,7 +39,7 @@ The Mighty Messenger endeavors to bring to its readers news and opinions which t
 
 ## Foundation-Fellowship Agreement
 
-by Avi Dogim
+by _Avi Dogim_
 
 Ever since the split between Urantia Foundation and the, then, Urantia Brotherhood in 1989, many in _The Urantia Book_ reader community have hoped and prayed for a reconciliation between the two organizations whose fundamental purposes center around making the fifth epochal revelation available to the peoples of the world. Early this fall it seemed as if these prayers were answered when, on October 10, Fellowship President Janet Farrington Graham and Foundation President Patricia Mundelius issued a joint statement heralding a new era of cooperation between the two organizations.
 
@@ -87,7 +87,7 @@ GLAD is now accepting articles, stories, poetry and artwork for the next issue o
 
 ## A socioreligious expression of the Fifth Epochal Revelation
 
-by Meredith J. Sprunger
+by _Meredith J. Sprunger_
 
 The major responsibility in the Urantia movement, in my judgment, is disseminating the unique spiritual-cosmological paradigm of the fifth epochal revelation. The authors of _The Urantia Book_ project two venues in which this will take place: (1) by establishing new religious groups (p. 966), and (2) by leavening traditional religions (p. 1041 and p. 2082).
 
@@ -121,7 +121,7 @@ The resolve to make this an annual event was unanimous. It was decided that plan
 
 ## The varieties of religious expression
 
-by Peter Laurence, Armonk, NY
+by _Peter Laurence_, Armonk, NY
 
 It was in 1902 that William James first published the classic series of lectures that described his studies of religious experience. James made it clear that he was interested only in first-hand religious experience, in contrast with religion that “has been made...by others, communicated...by tradition, determined to fixed forms by imitation, and retained by habit.” He felt that “It would profit us little to study this second-hand religious life. We must...search rather for the original experiences which were the pattern-setters to all this mass of suggested feeling and imitated conduct.” (William James, The Varieties of Religious Experience, New York: The Modern Library, 1936, p.8)
 

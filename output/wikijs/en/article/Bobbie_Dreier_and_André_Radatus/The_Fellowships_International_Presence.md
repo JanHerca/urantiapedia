@@ -1,6 +1,6 @@
 ---
 title: "The Fellowship's International Presence"
-description: "The Mighty Messenger — Summer 2023 Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Spring 2023 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Mighty Messenger, article
@@ -11,7 +11,7 @@ dateCreated: 2023-6-21T8:13:38Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Bobbie Dreier and André Radatus<br>© 2023 The Urantia Book Fellowship</p>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/002.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/002.jpg">
 </figure>
 
 _The Urantia Book_ Fellowship (a.k.a the Fellowship) may not have a presence on another planet yet, but we are actively involved in many countries around the world. In the late 1980s, John Lange, chair, and Berkeley Elliot, former chair, of the Foreign Extension Committee, now called the International Fellowship Committee (IFC), traveled to South America to meet with readers who had contacted Urantia Brotherhood, now called _The Urantia Book_ Fellowship. Berkeley and John planted the seeds that have borne fruit, and there is so much Urantia Book activity in Latin America now that the IFC created the Latin America Subcommittee (LASC) to manage the work.

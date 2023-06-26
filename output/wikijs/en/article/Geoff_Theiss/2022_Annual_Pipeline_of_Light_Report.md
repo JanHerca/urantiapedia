@@ -1,6 +1,6 @@
 ---
 title: "2022 Annual Pipeline of Light Report"
-description: "The Mighty Messenger — Summer 2023 Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Spring 2023 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Mighty Messenger, article
@@ -11,7 +11,7 @@ dateCreated: 2023-6-21T8:13:38Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Geoff Theiss<br>© 2023 The Urantia Book Fellowship</p>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/015.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/015.jpg">
 </figure>
 
 by _Geoff Theiss_
@@ -43,5 +43,5 @@ Thank you so much for your support.
 We deeply appreciate the contributions of our
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/016.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/016.jpg">
 </figure>

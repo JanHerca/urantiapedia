@@ -1,6 +1,6 @@
 ---
 title: "Chilean Book Fair 2022"
-description: "The Mighty Messenger — Summer 2023 Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Spring 2023 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Urantia Movement Event, Mighty Messenger, article
@@ -11,7 +11,7 @@ dateCreated: 2023-6-21T8:13:38Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Pablo Segovia<br>© 2023 The Urantia Book Fellowship</p>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/029.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/029.jpg">
 </figure>
 
 by _Pablo Segovia_
@@ -42,7 +42,7 @@ The Chilean Book Chamber stated:
 > We are very happy to be able to return again to the commitment we have with the reading public and to be back in person with this version of [the Santiago International Book Fair], after having been forced to use virtual means during a long and difficult pandemic which was difficult for everyone. Thus do we give continuity to our role of being a bridge between creators and their readers. 
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/031.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/031.jpg">
 <figcaption><em>The Santiago International Book Fair returns again to Mapocho Station!</em></figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ Felipe Arrigorriaga tells us:
 > Different readers of the book helped to attend the booth, which was very positive from his point of view, since it united readers from different study groups, whose leaders in the past had chosen not to work together for a unified movement Of Urantia Chile, this being a very important mission for the present and future of the Urantia Book movement in this country. 
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/032.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/032.jpg">
 <figcaption><em>Felipe Arrigorriaga with visitors to the booth</em></figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ Flor Robles achieved this unification of efforts when she was in Chile leading t
 Regarding the dissemination Of the book, an important agreement was reached with an independent bookstore that holds traveling book fairs in the north and south of Chile, promoting only books from the spiritual field. This focus will help us reach readers searching for truth, and will thereby help to spread the revelation. There are truth-hungry individuals in a large part of Chile. These organizers also plan to be present at Other book fairs that take place in different regions of Chile, along with Special book presentations.
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/033.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/033.jpg">
 <figcaption><em>Pablo Segovia with Maria Jose</em></figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ Overall statistics:
 - Three books left on reserve 
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/034.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/034.jpg">
 <figcaption><em>Jon Detoy, Maria José, Pablo Segovia, Horacio Gamboa</em></figcaption>
 </figure>
 
@@ -121,7 +121,7 @@ In response to his personal experience Pablo Segovia said:
 > The Fellowship and its mission have a great future. I am blessed to be able to live this experience, and grateful that it has been this way with each of the wonderful beings I have met on this path. The actions are ours, the consequences God's. Momentary discouragement is only part Of the process of expanding our consciousness. Let's embrace it as one more gift in the magnificent design of existence. 
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/035.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/035.jpg">
 <figcaption><em>Horacio Gamboa, Pablo Segovia, Maria Jose, Kenya Bailey, Gael DeToy, Robert DeToy</em></figcaption>
 </figure>
 
@@ -132,6 +132,6 @@ Felipe Arrigorriaga said: “Thank you all! We are already thinking about an upc
 Let us all make an intelligent effort to be present in the largest possible number of book fairs in Latin America. We have the unconditional support of our beloved Fellowship to achieve it, so let's unite our intentions and make it happen! I have no doubt that it will be so. We can do it!
 
 <figure id="Figure_7" class="image urantiapedia">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/036.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/036.jpg">
 <figcaption><em>Felipe Arrigorriaga with visitors to the booth</em></figcaption>
 </figure>

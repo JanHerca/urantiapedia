@@ -1,6 +1,6 @@
 ---
 title: "Artwork"
-description: "The Mighty Messenger — Summer 2023 Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Spring 2023 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Art, Mighty Messenger, article
@@ -28,11 +28,11 @@ Sincerely,
 Steve Sawyer
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/068.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/068.jpg">
 </figure>
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/069.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/069.jpg">
 </figure>
 
 <figure id="Figure_3" class="image urantiapedia">

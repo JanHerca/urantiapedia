@@ -35,7 +35,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## English first
 
-by Josephe DeCosmo, Boynton Beach, FL
+by _Josephe DeCosmo_, Boynton Beach, FL
 
 In the opening paragraphs of the Urantia papers, we are told that English was chosen by the Orvonton Revelatory Commission as the language-vehicle for the fifth epochal revelation: “Our mandate admonishes us to make every effort to convey our meanings by using the word symbols of the English tongue” (F:0.1).
 
@@ -101,7 +101,7 @@ Next project: Africa, in September 1998, says Norman, who is looking for books a
 
 ## Urantia Church ...Not Yet!
 
-by Saskia Raevouri
+by _Saskia Raevouri_
 
 Having lived in several different countries, I know firsthand that what is considered normal in one culture is regarded as absurd in another. Born in Holland, I moved to Australia as a child; my Aussie peers regarded me as foreign and strange. Nine years later we emigrated to Los Angeles. I soon discovered that my odd speech, dress and mannerisms once again branded me as an alien. No sooner had I transformed myself into Sandra Dee than I was sent to high school in Holland, where I found myself looked upon as an American curiosity by my Dutch counterparts. Each culture found the other peculiar預nd I was dealing with three “white” cultures!
 
@@ -113,9 +113,9 @@ Whenever people get together around a religious teaching, they tend to develop r
 
 Rather than form a church just yet, let's remain a low-key brotherhood, forget about ourselves, and do whatever we can to get the teachings into the hands of educated people in all countries of the world. Let's exercise patience and self-restraint, and consider the needs of those who still need books and translations. When later we follow the growth of the Urantia movement from our various mansion world vantage points, do we want to look back and see that it failed because it had become a Westernized religion?
 
-## Gc meeting highlights
+## GC meeting highlights
 
-By Fellowship President, Janet Farrington-Graham
+By Fellowship President, _Janet Farrington-Graham_
 
 During the first weekend of February the General Council of the Fellowship met in Oklahoma City to review the work of the past six months and to plan for the future. The progress reported by various members of the Council is the result of thousands of hours of service to the revelation by dedicated readers. Fellowship committees are engaged in international and interfaith work in addition to the following projects.
 
@@ -153,7 +153,7 @@ JESUSONIAN FOUNDATION c/o Study Group Directory PO Box 18764 Boulder, CO 80308
 
 ## Character
 
-by Stephen
+by _Stephen_
 
 What is the character of my testimony? What kind of ambassador am I?
 

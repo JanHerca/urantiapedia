@@ -1,6 +1,6 @@
 ---
 title: "Translators"
-description: "The Mighty Messenger — Summer 2023 Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Spring 2023 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Mighty Messenger, article
@@ -11,7 +11,7 @@ dateCreated: 2023-6-21T8:13:38Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 The Urantia Book Fellowship</p>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/030.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/030.jpg">
 </figure>
 
 Translators helped make our first multilingual publications possible in English, Spanish, and Portuguese. Special thanks go to Mora Franco, André Gurgel, Jack Holloway, and Felipe Arrigorriaga. Thank you, obrigada, e gracias!
@@ -19,13 +19,13 @@ Translators helped make our first multilingual publications possible in English,
 Mora Franco helped by interviewing and writing for many people in the Spanish- speaking world about their projects related to spreading the teachings of _The Urantia Book_. 
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/041.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/041.jpg">
 </figure>
 
 André Gurgel is Brazilian and translated the Mighty Messenger International Outreach edition into Portuguese. André and _The Urantia Book_ met each Other in 1977. He is more than Willing to travel to Latin American countries and help in the local events sponsored by The Urantia Book Fellowship. 
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/052.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/052.jpg">
 </figure>
 
 Jack Holloway, an avid reader of _The Urantia Book_ since the late 1970s, worked with numerous others in the mid-1990s to correct the many errors found in the original 1993 edition of _El Libro de Urantia_. This experience left him knowledgeable in translations in either direction, but particularly adept at translations from Spanish into English, the latter being his native language. 
@@ -33,7 +33,7 @@ Jack Holloway, an avid reader of _The Urantia Book_ since the late 1970s, worked
 As part of the International Fellowship Committee, Jack is a co-founder of the Latin America Subcommittee (LASC), connecting and supporting students of _The Urantia Book_ throughout the Spanish-speaking countries of the world with their projects. 
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/054.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/054.jpg">
 </figure>
 
 Felipe Arrigorriaga 

@@ -1,6 +1,6 @@
 ---
 title: "Translators"
-description: "The Mighty Messenger — Summer 2023 Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Spring 2023 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Mighty Messenger, article
@@ -11,7 +11,7 @@ dateCreated: 2023-6-21T8:13:38Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Sue Snider Seccombe<br>© 2023 The Urantia Book Fellowship</p>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/055.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/055.jpg">
 </figure>
 
 by _Sue Snider Seccombe_
@@ -27,5 +27,5 @@ _The Urantia Book_ Fellowship now has fourteen Area Coordinators and Field Worke
 Another _first_, inside is an extensive report on the first-ever Urantia conference in Uganda, held in Jinja City in August, 2022, with the theme "The Gift of Revelation: The Life and Teachings of Jesus." We also have recent updates from the Philippines, and from our very busy [International Fellowship Committee](https://urantiabook.org/About-The-Urantia-Book-Fellowship#international). We are delighted to take this next step with you and hope you Will enjoy being one step closer, through shared culture, language, and art, to our brothers and sisters in once-distant lands. Please write to us with your feedback: publications@urantiabook.org
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/001.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/001.jpg">
 </figure>

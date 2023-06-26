@@ -1,6 +1,6 @@
 ---
 title: "Grand World Celebration of the Anniversary of the Birth of Jesus"
-description: "The Mighty Messenger — Summer 2023 Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Spring 2023 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Urantia Movement Event, Mighty Messenger, article
@@ -11,7 +11,7 @@ dateCreated: 2023-6-21T8:13:38Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Mora Franco<br>© 2023 The Urantia Book Fellowship</p>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/030.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/030.jpg">
 </figure>
 
 by _Mora Franco_
@@ -33,5 +33,5 @@ Another remarkable situation was the attendance of people unfamiliar with _The U
 For those who wish to see the three-hour recording of this celebration of the anniversary of the birth of Jesus (in Spanish) navigate to [vimeo.com/741487767](https://vimeo.com/741487767).
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/003.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/003.jpg">
 </figure>

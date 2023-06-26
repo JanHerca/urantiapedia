@@ -1,6 +1,6 @@
 ---
 title: "Pasko_Christmas"
-description: "The Mighty Messenger — Summer 2023 Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Spring 2023 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Dissemination, Asia, Mighty Messenger, article
@@ -11,7 +11,7 @@ dateCreated: 2023-6-21T8:13:38Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Eugene Asidao<br>© 2023 The Urantia Book Fellowship</p>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/011.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/011.jpg">
 </figure>
 
 by _Eugene Asidao_
@@ -29,7 +29,7 @@ _Pasko_ is a festive holiday on December 25 celebrating the birth of Jesus. The 
 _Urantia Books_ are part of giving and receiving gifts. Service is in giving, in sharing newly acquired truths with others. Jesus of Nazareth was never in a hurry; he never stopped talking to people, especially those who sought him out. 
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/012.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/012.jpg">
 </figure>
 
 Here in the United States, many female Filipino professionals are in the medical profession. They are part of the healing force of the communities. In the Philippines, just under half of the population are women and just over half are men. When traveling in neigh borhoods, small towns, villages, and cities, women are inherently able to bridge the gap between the esus A New Revelation spiritual and the material worlds. We are pleased with the welcoming spirits of most women in accepting Urantia Books in schools, colleges, universities, trade schools, and also in their homes.

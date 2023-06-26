@@ -1,6 +1,6 @@
 ---
 title: "The Future of the Urantia Movement—Young People in Sight!"
-description: "The Mighty Messenger — Summer 2023 Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Spring 2023 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Urantia Movement, Mighty Messenger, article
@@ -11,7 +11,7 @@ dateCreated: 2023-6-21T8:13:38Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Mora Franco<br>© 2023 The Urantia Book Fellowship</p>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/018.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/018.jpg">
 </figure>
 
 by _Mora Franco_
@@ -23,25 +23,25 @@ Many readers of _The Urantia Book_ who are fifty years old (or maybe a little Ol
 We had the opportunity to talk with María Auxiliadora, Rocío, and Andrea—three women sowers and diffusers of the teachings revealed in _The Urantia Book_. They represent three generations of a single family who inspire, through their art, the sharing of the legacy of Jesus from their homeland— beautiful Venezuela—to the rest of the world.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/021.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/021.jpg">
 </figure>
 
 Andrea, from a very young age, began to attend Andrea in 2010—at the Venezuelan Nacional Encounter conferences held in her country with her mother and her _ma abu_ (grandmother). They also took her to face-to-face study groups, principally the group led by Marcelino Ramírez, who is a pioneer in the dissemination of _The Urantia Book_ in Venezuela. The girl was always very attentive to everything that was happening around her. Her faith in God the Father and in Jesus grew, following the example of brotherly love exhibited in her family nucleus and friends. She was encouraged to be creative from an early age, since her talent and her gifted nature manifested themselves even as a child.
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/020.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/020.jpg">
 </figure>
 
 To share a bit of history, the first reader of _The Urantia Book_ in this family was María Auxiliadora who, little by little, managed to arouse the spiritual curiosity of those around her. In the beginning she attended study groups alone. But soon her daughter Rocío began to accompany her, bringing along Andrea, who was two years old at the time. Rocio tells us, “I knew that the girl was not going to understand what was being talked about at least not mentally, but her spirit might,” and with that hope she was taken to the First National Meeting of Urantia Book Students in [Barquisimeto](https://en.wikipedia.org/wiki/Barquisimeto) in 2010, She was only three years Old at the time of that meeting, but seemed to pay attention to everything said. According to Rocio, “She was always a very calm child, and she Still is. This conference could be called Andrea's presentation to the public, as there were people from various parts of the country, and they all got to know her as the belle of the party.”
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/064.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/064.jpg">
 </figure>
 
 In 2011 there was a gathering in [Maracaibo](https://en.wikipedia.org/wiki/Maracaibo) where these three generations of women also participated. María Auxiliadora always sowed the seeds so that her granddaughter Andrea could get closer to _The Urantia Book_, and begin to understand it as best she could. 
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/065.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/065.jpg">
 </figure>
 
 Two years later, at the second Encounter in Maracaibo, these two women, María Auxiliadora and Rocío, had the audacity to incorporate the six-year-old girl in a presentation to the public. Andrea was asked simple questions, so that she could express herself freely, and this experience helped her to internalize the revelation to such a point that a video _Los niños también sabemos de Urantia_ (We children also know about Urantia) was filmed. This film represented Andrea's public debut in the Urantia community. The Other participants were amazed to see someone so young and yet so knowledgeable; it was a complete success. Just search YouTube for [“Los niños también  sabemos de Urantia”](https://www.youtube.com/watch?v=-7ng9ddkS4k) (or even "los ninos tambien sabemos de Urantia" [sic]) to find and watch this three-minute video. 
@@ -53,7 +53,7 @@ Andrea began to draw from a very early age; she seemed to have been born with th
 In 2020 María Auxiliadora asked Andrea to do some drawings for María's next presentation. The Child did freehand colored sketches of Adam and Eve, the Planetary Prince, and Machiventa Melchizedek, much to the amazement of many who saw them. After the presentation, and having seen the beautiful, natural and innate artwork of Andrea, Marinett Morales asked Andrea's family for authorization to incorporate this material into that year's Urantiathon. They produced a tasteful audiovisual with her images, bringing great joy to the many participants of that event, who thereby witnessed Andrea spreading her artistic wings.
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/066.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/066.jpg">
 </figure>
 
 It should be noted that Marinett and Pablo Morales (_The Urantia Book_ Fellowship's Latin America Subcommittee [LASC] Area Coordinator for Venezuela) are siblings, and Marinett has recently been designated as the LASC Field Worker for Buenos Aires, Argentina, collaborating with Mora Franco, who is the Area Coordinator for Argentina. Pablo and Marinett are members of another multi-generational family of Urantia Book readers, and have always fomented and supported Andrea's artistic creations.
@@ -63,7 +63,7 @@ The following year Marinett began another audiovisual production. This new proje
 This year for the birthday anniversary of our beloved Universe Sovereign, Andrea created a drawing of Jesus, beginning with a blank sheet of paper and creating the beautiful image before the very eyes of over 280 online participants. Her mother Rocío also participated by reading aloud several passages about the Master's life. This work had a mesmerizing impact on the entire community of readers. For another presentation of the same event, she digitized the drawings of Mary and Joseph, Mary and the [Annunciation](https://en.wikipedia.org/wiki/Annunciation), Mary pregnant, and Mary with the newborn Jesus in her arms.
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/067.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/067.jpg">
 </figure>
 
 If we go back in time, when Andrea was collaborating with the Lucifer rebellion presentation, the only tool she had to work with was an outdated and severely damaged Android tablet. She managed to keep it functioning until the two dark areas on the screen grew so large that she could no longer see her work. So, by early this year, she no longer had this essential tool, and when she was asked to participate in the Jesus Birthday Celebration on August 21, her grandfather Tito lent her his tablet for brief periods when he was not using it. She would work diligently, almost non-stop, and then reluctantly return it to Tito.
@@ -77,20 +77,20 @@ Maria Auxiliadora, Andrea's grandmother, tells us,
 > I always sowed the seeds of this revelation [The Urantia Book] in my family, but without forcing it on anyone. I instilled the teachings through the testimony of my life itself, with my own spiritual evolution. And that's how it has been with Andrea since she was in her mother's womb. I intuitively knew that she would be special, and I thank our Paradise Father for the privileged talent and gracious demeanor of this child. We have shared a deep and meaningful relationship since she was a little girl. She is always asking me things about our planet Earth, and little by little it is paying off.
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/022.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/022.jpg">
 </figure>
 
 > Like all young people she is distracted by worldly things, and has many Other interests. However, despite her youth and all of that, Andrea is a very, very, spiritual girl, very given to that life of peace and tranquility; she is a girl who harbors no hate in her heart.
 
 <figure id="Figure_7" class="image urantiapedia">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/023.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/023.jpg">
 <figcaption><em>Pablo presents Andrea with the new iPad.</em><figcaption>
 </figure>
 
 > This project is mainly directed to children and adolescents, using a comic book format to attract their attention, while presenting the teachings of _The Urantia Book_.
 
 <figure id="Figure_8" class="image urantiapedia">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/028.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/028.jpg">
 <figcaption><em>Génesis Andrea Paredes Moreno</em><figcaption>
 </figure>
 

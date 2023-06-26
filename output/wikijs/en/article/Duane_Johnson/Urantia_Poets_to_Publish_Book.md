@@ -1,6 +1,6 @@
 ---
 title: "Urantia Poets to Publish Book"
-description: "The Mighty Messenger — Summer 2023 Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Spring 2023 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Poetry, Mighty Messenger, article
@@ -11,7 +11,7 @@ dateCreated: 2023-6-21T8:13:38Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Duane Johnson<br>© 2023 The Urantia Book Fellowship</p>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/017.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/017.jpg">
 </figure>
 
 By _Duane Johnson_
@@ -33,7 +33,7 @@ Toward this end, Byron Belitsos in 1982 published _Ardent Ascent_, a collection 
 Now, forty years later, we are publishing another volume of poetry entitled _Sailing to Salvington: Poetry Inspired by the Fifth Epochal Revelation_. Poets included in this collection are Jean Ascher, Byron Belitsos, Peri Best, James Cleveland, David Glass, Dave Holt, Bruce Jackson, Gard Jameson, Duane Johnson, K. Brendi Poppel, and Errol Strider.
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/063.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/063.jpg">
 </figure>
 
 This anthology also Will include twenty photographs and paintings, mostly from the collection Of Jesus paintings Of MO and Jennifer Siegel, who have been so kind as to allow us to include them. The inclusion of these full-color paintings increases the book's value, but also markedly increases printing costs; fortunately, the Urantia Book Fellowship's Second Miler Grant Committee has seen fit to help finance this project. 

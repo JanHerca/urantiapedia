@@ -51,7 +51,7 @@ Carolyn Kendall coordinated the presentation and Marilynn Kulieke arranged the r
 
 ## Readers enjoy '97 Summer Seminar in The Great Northwest 
 
-By Marvin Gawryn
+By _Marvin Gawryn_
 
 Approximately 310 people from all over North America and as far away as Mexico City and Hungary gathered in Vancouver for the Fellowship's 1997 Summer Seminar. Local readers worked closely with the Education Committee to develop a program of plenaries and study groups in the mornings, varied workshops and reversion activities in the afternoons, and worship and entertainment in the evenings. For the first time Fellowship and IUA members worked side by side putting on a large conference, a practice which hopefully can continue in the years ahead.
 
@@ -73,7 +73,7 @@ If you are interested in more information, please write to Nick Curto, PO Box 38
 
 ## Inside the TDA — A Perspective
 
-By David Elders
+By _David Elders_
 
 Every three years elected representatives from the Fellowship's Societies gather together to elect the new class of General Councilors, that group of 36 people who function as The Fellowship's policy-making body. Typically, 12 new Councilors are elected for 9-year terms at each TDA, but often, due to resignations and the like, more are elected. The idea is to refresh the leadership with new personalities, new energy, fresh ideas, and thoughtful creativity to blend with the remaining experienced people.
 
@@ -174,7 +174,7 @@ Committees and their chairs are:
 
 ## United Religions Initiative
 
-By Gard Jameson
+By _Gard Jameson_
 
 On June 23rd, 200 delegates from established world religions (Christianity, Judaism, Islam, Buddhism, Hinduism, Jainism, Zoroastrianism, Sikhism) and from both newer spiritual movements and aboriginal traditions gathered together at Stanford University. The purpose of the gathering was to consider moving toward the charter of a “United Religions” organization in the year 2000 that would begin, in the words of the initiative's organizer, Episcopal Bishop William Swig, to tap the “untapped solidarity among religions” in relation to the major issue of peace on our planet. With a focus on that value, the delegates will research and develop in 1997/1998 questions of common mission, agenda, organizational design, and building world-wide commitment.
 

@@ -1,6 +1,6 @@
 ---
 title: "The First Urantia Book Conference in Uganda: A Personal Account"
-description: "The Mighty Messenger — Summer 2023 Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Spring 2023 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Urantia Movement Event, Mighty Messenger, article
@@ -11,7 +11,7 @@ dateCreated: 2023-6-21T8:13:38Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Aprilhelen<br>© 2023 The Urantia Book Fellowship</p>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/013.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/013.jpg">
 </figure>
 
 by _Aprilhelen_
@@ -25,7 +25,7 @@ August, 2022, is marked as a highlight in our community. We a experienced the fi
 I've recently become the Youth and Young Adult (Ya YA) Committee chair of The Urantia Book Fellowship (a.k.a. the Fellowship), having served the committee for a decade. Two of our main goals have been inreach (multi-committee action) and outreach (trans-organizational collaboration). Oluwatooni "Toni" Oyeyemi and I are prime examples of this goal. We have worked very well together over the past several years, currently as Ya YA Committee members, and serving several Other Urantia Book committees, programs, and organizations. He and I have bonded over our passion for nurturing youth. We agree that the most efficient route is to live the teachings to the best of our abilities, being good examples, and bearing the fruits of the divine spirit.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/014.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/014.jpg">
 <figcaption><em>Aprilhelen and Oluwatooni "Toni" Oyeyemi</em><figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ The birth of _The Urantia Book_ revelation in Africa was at least two decades pr
 [Ubuntu Reflections — Phase I by Pato Banton & Crew](https://www.youtube.com/watch?v=joUZ9_3NlLI)
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/059.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/059.jpg">
 </figure>
 
 The short translation of Ubuntu is: "I am, because we are.
@@ -62,7 +62,7 @@ Several conversations with Antoinette have helped me to see a bigger picture of 
 Spiritual Family Network has also done much for _The Urantia Book_ readers of Uganda long before 2019. More specifically, it was through this organization that a generous donation was given to fund a popular Christian Bishop of Uganda, Moses Kaharwa, who was interested in infusing the _Urantia Book_ message into his own life and teachings. He was brought to Canada by Spiritual Family Network for an intensive three-week workshop, mostly on the Jesus papers (Part IV of _The Urantia Book_). Moses then returned to Africa and has helped spread the word about _The Urantia Book_ into Uganda, The Congo, Kenya, and several Other countries. The Spiritual Family Network website acts as a social media platform for several African regions and South Asia. In many ways, their continued efforts also identified the original team of conference planners.
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Mighty_Messenger/2023_Summer/060.jpg">
+<img src="/image/article/The_Mighty_Messenger/2023_Spring/060.jpg">
 </figure>
 
 The IFC began to support the Ugandan efforts when a founding member of Spiritual Family Network became an adjunct member of the IFC in 2019. They came on board to promote and cosponsor this first major Urantia Book based event in that country. Three years later, Toni and I, as General Councilors of _The Urantia Book_ Fellowship, were sponsored delegates of the IFC. During this same time frame, the [Second Miler Grant Program](https://urantiabook.org/Second-Miler-Fund) started, and it also funded approved projects in Uganda. Additionally, hundreds of Urantia Books were sent to Uganda through the [Pipeline of Light](https://urantiabook.org/pipeline) book placement program and Other library projects. In total, I observed that our siblings in the "Pearl of Africa" (a nickname for Uganda) have been very generously cared for over the last four years. With so many organizations now involved and trying to help the Ugandan readers, it is my opinion that ()ur organizations, donors, and the Ugandan readers would all be better served by true and open collaboration on funding, responsibility, accounting accuracy, and transparency.
