@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Fall 2011 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, LGBT, Mighty Messenger, article
+tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2011">
+        <a href="/en/index/articles_mighty_messenger#fall-2011-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2011 — Index</span>
         </a>
         </td>
@@ -109,7 +109,7 @@ Besides Carolyn Kendall and Frank Sgaraglino, the founding members alive today a
 
 By _Michelle Klimesh_
 
-<figure id="Figure_6" class="image urantiapedia image-style-align-left">
+<figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2011_Fall/005766.jpg">
 </figure>
 
@@ -313,13 +313,13 @@ If you have any questions, please contact our chair person, Eileen Laurence, Lau
 
 **which means we’re looking for some NEW UBFellowship General Councilors**
 
-<figure id="Figure_22" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2011_Fall/005785.jpg">
-</figure>
-
 Every three years, the terms of 12 councilors are up for election. Next summer the TDA will need candidates. Do you know someone qualified and willing to step up serve?
 
 So come on folks, start thinking about it. After group, during socials, start talking about who might be a good candidate for the General Council. For applications, please go to: http://fefadmin.org/forms/UBF_App_For_Organizational_Service.pdf
+
+<figure id="Figure_22" class="image urantiapedia">
+<img src="/image/article/The_Mighty_Messenger/2011_Fall/005785.jpg">
+</figure>
 
 ## Upcoming events
 
@@ -356,7 +356,7 @@ www.urantiabook.org
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2011">
+        <a href="/en/index/articles_mighty_messenger#fall-2011-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2011 — Index</span>
         </a>
         </td>

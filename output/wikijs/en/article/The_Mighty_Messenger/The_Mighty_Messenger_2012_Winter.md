@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Winter 2012 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, LGBT, Mighty Messenger, article
+tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#winter-2012">
+        <a href="/en/index/articles_mighty_messenger#winter-2012-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 2012 — Index</span>
         </a>
         </td>
@@ -112,49 +112,49 @@ _Mo Siegel_ and _Barry Clark_, IT Roundtable Chairs
 
 ## Meet Your New General Councilors
 
-<figure id="Figure_3" class="image urantiapedia image-style-align-left">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/Angela_Thurston.jpg">
 </figure>
 
 **Angela Thurston** is a playwright and arts administrator living in Brooklyn, New York. A founding member of the Fellowship’s Youth and Young Adult Committee, she was raised on the teachings of _The Urantia Book_ and is actively involved with fostering community among the next generation of readers. She is chairing the Fellowship’s International Conference in 2014 and has enjoyed planning a series of regional conferences for young readers as the YaYA Committee’s Events Chair.
 
-<figure id="Figure_4" class="image urantiapedia image-style-align-right">
+<figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/Dana_Bredemeyer.jpg">
 </figure>
 
 **Dana Bredemeyer** discovered the book in 1972 in the San Francisco Bay area. He hosted a study group there and joined the local Urantia Society. Since then he has served as a delegate in two Triennial Delegate Assemblies. Currently he is a co-leader of his study group in Bloomington, Indiana, and Vice President of the Orvonton Urantia Society. He has his own software consulting business with his wife Ruth, and he is thrilled to be able to serve the revelation on the General Council.
 
-<figure id="Figure_5" class="image urantiapedia image-style-align-left">
+<figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/Cayce_Snider.jpg">
 </figure>
 
 **Cayce Snider** is the president of the Urantia Society in Glenvew, Illinois. She hopes to help the Fellowship to become fertile, central, and relevant in a world dominated by technology. Cayce says “For this to happen, the Fellowship must be agile, connected, and innovative. There is a great deal of will and inspiration to achieve these goals, and I believe my skills and experience can help facilitate this next phase of our organization’s development.”
 
-<figure id="Figure_6" class="image urantiapedia image-style-align-right">
+<figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/Agustin_Arellano.jpg">
 </figure>
 
 **Agustin Arellano** has been reading _The Urantia Book_ since 1985. He has started three study groups—in Mazatlan, Mexico City, and Monterey. He has done extensive work in Latin America in terms of personal outreach, and he hopes to bring that personal experience into new projects.
 
-<figure id="Figure_7" class="image urantiapedia image-style-align-left">
+<figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/Paul_Klaver.jpg">
 </figure>
 
 Canadian **Paul Klaver** discovered _The Urantia Book_ at the age of 21, and established the Kitchener-Waterloo study group in 2002. He is currently the president of “_The Urantia Book_ Outreach Organization” which he hopes will introduce the book to ten million people in ten years. He is producing and advertising animated and advertising shorts of Jesus’ life and teachings. He also matches timeless Urantia Book quotes with intriguing images, all of which are posted on TUBOO’s Facebook page and getting considerable attention. Paul has read the book at least twenty times and looks forward to learning from and helping the Fellowship reach its goals during his 9-year term on the council.
 
-<figure id="Figure_8" class="image urantiapedia image-style-align-right">
+<figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/David_Kulieke.jpg">
 </figure>
 
 **David Kulieke** joined the First Urantia Society in 1973 and served as President for 14 years over three tenures. He also served on the Domestic Extension Committee (now the Outreach Committee) from 1976 to 1988. David created the first study group databank, which was the foundation for the study group directory. He has been instrumental in creating numerous study groups, publications, and conferences for readers of _The Urantia Book_. His aspirations while serving on the Council are to help facilitate continuity and institutional memory, and to strengthen and grow study groups.
 
-<figure id="Figure_9" class="image urantiapedia image-style-align-right">
+<figure id="Figure_9" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/Arlene_Weimer.jpg">
 </figure>
 
 **Arlene Weimer** was born in Brooklyn, NY, to Jewish parents who emmigrated from Poland. She studied science and philosophy at Brooklyn College before discovering _The Urantia Book_ forty years ago. She is a founding member of the Rocky Mountain Urantia Society of Denver (currently the Rocky Mountain Spiritual Fellowship) and has hosted a Urantia study group in Pueblo, CO, since 1975. Arlene would like to help all Urantia Book readers to find mutual respect and also to spread the teaching of _The Urantia Book_. She has enthusiastically accompanied her husband Buck on many international trips to places like India and Africa to share the revelation
 
-<figure id="Figure_10" class="image urantiapedia image-style-align-left">
+<figure id="Figure_10" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/Teuvo_Orjala.jpg">
 </figure>
 
@@ -231,7 +231,7 @@ I sense our job is not to judge, second-guess, assume, be overly polite, patient
 
 We sold and/or gifted 39 books and handed out 62 Free Book cards plus various literature. 
 
-<figure id="Figure_19" class="image urantiapedia image-style-align-left">
+<figure id="Figure_19" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/005808.jpg">
 </figure>
 
@@ -318,7 +318,7 @@ www.urantiabook.org
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#winter-2012">
+        <a href="/en/index/articles_mighty_messenger#winter-2012-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 2012 — Index</span>
         </a>
         </td>

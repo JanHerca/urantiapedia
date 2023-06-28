@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Winter 2005 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, LGBT, Mighty Messenger, article
+tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#winter-2005">
+        <a href="/en/index/articles_mighty_messenger#winter-2005-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 2005 — Index</span>
         </a>
         </td>
@@ -101,7 +101,7 @@ New York, NY 10163
 
 ## North American Interfaith Network
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2005_Winter/005613.jpg">
 </figure>
 
@@ -111,7 +111,7 @@ The presence of the Urantia revelation was strongly felt at the joint gathering 
 
 ## Jesus Birthday Celebrations
 
-<figure id="Figure_3" class="image urantiapedia image-style-align-right">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2005_Winter/005614.jpg">
 </figure>
 
@@ -123,7 +123,7 @@ Readers in the San Francisco Bay area met on Saturday, August 20th, at Mercy Cen
 
 On Sunday, August 21st, interfaith minister and Urantia Book reader, led a worship service based on the book at Unity Church of the Valley in Vacaville. The service included prayer, meditation, and music, and was followed by a potluck dinner.
 
-<figure id="Figure_4" class="image urantiapedia image-style-align-right">
+<figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2005_Winter/005615.jpg">
 </figure>
 
@@ -139,7 +139,7 @@ Spontaneity led to closer personal relationships between the attendees at the 5t
 
 ## Serving A Revelation
 
-Robert Burns
+_Robert Burns_
 
 Many reading this article serve the revelation. We do so, each in our own way. It is important take a moment every now and then to appreciate the work of others. Most of us serve so much! We serve our families, our work, our communities, and this revelation.
 
@@ -178,7 +178,7 @@ Pictures taken by a number af attendees at IC'05 are now on the Fellowship websi
 Those IC '05 attendees who wish to order a print of their pcrsonal portrait, contact the photographer Art Segal at ABS Visuals by calling 1.800.707.1114 or absvisuals@aol.com.
 
 <figure id="Figure_7" class="image urantiapedia">
-<img src="/image/article/The_Mighty_Messenger/2005_Winter/005618.jpg">
+<img src="/image/article/The_Mighty_Messenger/2005_Winter/005619.jpg">
 </figure>
 
 We laughed...
@@ -233,18 +233,18 @@ _“This is a close to heaven as I've been!”_
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/The_Mighty_Messenger/The_Mighty_Messenger_1997_Summer">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Summer 1997</span>
+        <a href="/en/article/The_Mighty_Messenger/The_Mighty_Messenger_2005_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spring 2005</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-1997">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1997 — Index</span>
+        <a href="/en/index/articles_mighty_messenger#winter-2005-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 2005 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/The_Mighty_Messenger/The_Mighty_Messenger_1997_Winter">
-          <span class="pr-2">Winter 1997</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/The_Mighty_Messenger/The_Mighty_Messenger_2006_Spring">
+          <span class="pr-2">Spring 2006</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

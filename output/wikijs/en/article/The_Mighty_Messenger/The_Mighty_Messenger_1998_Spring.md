@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-1998">
+        <a href="/en/index/articles_mighty_messenger#spring-1998-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1998 — Index</span>
         </a>
         </td>
@@ -108,7 +108,7 @@ Their success will be a blessing to us all.
 
 ## Many ways to serve
 
-By H. Denis Neumann  
+By _H. Denis Neumann_  
 
 Nearly every reader I have met over the years is well educated. A college education teaches the student to analyze and to question what he reads. This is particularly true if he is in the sciences.
 
@@ -208,7 +208,7 @@ Members: Avi Dogim, Chair Nancy Johnson, Carolyn Kendall, Linda Buselli, Geri Jo
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-1998">
+        <a href="/en/index/articles_mighty_messenger#spring-1998-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 1998 — Index</span>
         </a>
         </td>

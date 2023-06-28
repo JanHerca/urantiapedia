@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Winter 2010 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, LGBT, Mighty Messenger, article
+tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#winter-2010">
+        <a href="/en/index/articles_mighty_messenger#winter-2010-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 2010 — Index</span>
         </a>
         </td>
@@ -43,7 +43,7 @@ Nestled in the beauty of the mountains and nurtured by music, inspiration and ed
 
 Tom and Fred will be taking the Truthseekers on a Quest and they’ll return to us on Sunday morning to present an all-youth plenary. We’ll enjoy young musicians, speakers, and hope in our growing youth.
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2010_Winter/005734.jpg">
 </figure>
 
@@ -53,7 +53,7 @@ We’ve created all-inclusive packages for everyone’s budget, from $440 per pe
 
 Hotel space is incredibly limited and is based on a first come, first served basis. When the hotel is sold out, there are plenty of dorm rooms. You must register to book a hotel room. Registration will begin the end of September and is available via the IC11.org website which will have all information regarding the conference and on our Fellowship website. 
 
-<figure id="Figure_3" class="image urantiapedia image-style-align-right">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2010_Winter/005735.jpg">
 </figure>
 
@@ -133,7 +133,7 @@ Worship had a prominent place in the conference, with meditations twice a day in
 
 Another conference feature was the feedback sessions. Here a representative from each workshop gave a threeto-five minute report on the workshop to the entire group. At the end of the Summer Study Session, a meeting of the Fellowship General Council was held.
 
-<figure id="Figure_6" class="image urantiapedia image-style-align-right">
+<figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2010_Winter/005739.jpg">
 </figure>
 
@@ -143,7 +143,7 @@ The setting for the Summer Study Session was Techny Towers, built in the early t
 
 Norman Ingram is the first recipient of the David Zebedee Award ever given by _The Urantia Book_ Fellowship, in recognition of his devoted service in disseminating the revelation. Norman has spent many years traveling the globe, placing Urantia Books wherever he could find willing recipients, and he did this as his own personal contribution to the spread of the teachings.
 
-<figure id="Figure_7" class="image urantiapedia image-style-align-right">
+<figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2010_Winter/005740.jpg">
 </figure>
 
@@ -250,7 +250,7 @@ The cost for the Truthseekers program, Tuesday afternoon through Sunday afternoo
 
 The Northern Light Society of Alaska celebrated its 25th anniversary on August 29, 2010, in Anchorage. It was officially chartered on November 1, 1985 and was registered as the l7th society of The Urantia Brotherhood. 
 
-<figure id="Figure_20" class="image urantiapedia image-style-align-right">
+<figure id="Figure_20" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2010_Winter/005753.jpg">
 </figure>
 
@@ -260,7 +260,7 @@ Please feel free to come on up and visit us. We have guest rooms available and w
 
 ## Waldine Stump Remembered
 
-<figure id="Figure_21" class="image urantiapedia image-style-align-left">
+<figure id="Figure_21" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2010_Winter/005754.jpg">
 </figure>
 
@@ -297,10 +297,10 @@ The International Conference of 2011 is coming next summer. The theme is “The 
 
 We have an amazing core group of younger readers who are preparing themselves to become the next generation of teachers and leaders. Please pass this along to your study groups and send us your thoughts of how best to serve this exciting new movement within _The Urantia Book_ Fellowship.
 
-## Gc Welcomes New Member
+## GC Welcomes New Member
 
 
-<figure id="Figure_22" class="image urantiapedia image-style-align-left">
+<figure id="Figure_22" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2010_Winter/005755.jpg">
 </figure>
 
@@ -368,7 +368,7 @@ Readers Roberto Vieira de Paula and Lucia Borelli came to lend their help at the
 
 In the end, we forged new relationships, developed a book fair model, and demonstrated our commitment to working together with the UAI, Foundation, and our brothers and sisters with a language and culture unlike our own.
 
-<figure id="Figure_28" class="image urantiapedia image-style-align-right">
+<figure id="Figure_28" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2010_Winter/005761.jpg">
 </figure>
 
@@ -476,7 +476,7 @@ Please send us news of your study group and/or society activities. We also would
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#winter-2010">
+        <a href="/en/index/articles_mighty_messenger#winter-2010-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 2010 — Index</span>
         </a>
         </td>

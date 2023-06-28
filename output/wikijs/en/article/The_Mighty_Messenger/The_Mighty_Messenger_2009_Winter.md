@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Winter 2009 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, LGBT, Mighty Messenger, article
+tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#winter-2009">
+        <a href="/en/index/articles_mighty_messenger#winter-2009-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 2009 — Index</span>
         </a>
         </td>
@@ -56,43 +56,43 @@ Four months of prayer preceded her decision to run for president and she writes:
 
 **9 year terms . . .**
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2009_Winter/Tony_Finstad.jpg">
 </figure>
 
 Tony Finstad was born and raised in Seattle, lived in Washington, D.C., and now resides in Anchorage where he is currently president of the Northern Light Society of Alaska. Tony began his study of the book in the mid 1970s at the age of 19. He has enjoyed hosting study groups, forming a society, being involved with numerous conferences and outreach activities, and was on the General Council from 1988 to 1991. Tony is excited about working together with all readers in advancing the fifth epochal revelation to our world community. He is blessed with two adult daughters and three grandchildren.
 
-<figure id="Figure_3" class="image urantiapedia image-style-align-right">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2009_Winter/Janet_Graham.jpg">
 </figure>
 
 Janet Graham was a charter member of Pilot Light Urantia Society (PLUSS) and an active member until she moved with her husband, Keith, and three children to Enterprise, Oregon. From this remote setting she continued to be involved in Urantia Book Fellowship administration, including a term as General Councilor, vice-president, and president. Janet has been reading _The Urantia Book_ since 1982. She currently works in the mental health field with high-risk children and is actively involved with non-profit organizations in the county.
 
-<figure id="Figure_4" class="image urantiapedia image-style-align-right">
+<figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2009_Winter/Tom_Choquette.jpg">
 </figure>
 
 Tom Choquette has been dancing and interacting with the Urantia revelation for almost forty years. He considers _The Urantia Book_ a major catalyst in his life, and has been able to grow in grace, love, mercy, and service through the understanding of its teachings. Tom has spent a large part of his life workaing with youth and families. He is a co-founder of Truthseekers, an eventoriented group for young people whose goal is to help guide and encourage the discovery of truth within the individual. Tom has been a businessman for over thirty-five years. His three children are the delight of his life.
 
-<figure id="Figure_5" class="image urantiapedia image-style-align-right">
+<figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2009_Winter/Lara_Amyx.jpg">
 </figure>
 
 Lara Amyx has been involved in the Urantia community for twenty years, originally finding the book sitting atop the tank of a toilet at a friend’s father’s house when she was 22. She has been Conference Chair for the Florida Students of _The Urantia Book_ annual gatherings for the last six years, and was also Secretary for FSUB. Lara is currently an administrator with the Urantia University. She is married to Daniel Amyx, another active reader, and they own and operate two optical shops on the Treasure Coast of Florida. Not only are they growing their businesses, but they are using them in personal ministry.
 
-<figure id="Figure_6" class="image urantiapedia image-style-align-right">
+<figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2009_Winter/Barry_Clark.jpg">
 </figure>
 
 Barry Clark is a recently retired Citigroup Senior Technoloy Manager who has been a reader since 1976. As a long time member of _The Urantia Book_ Society of Greater New York, as well as a former Treasurer and Secretary, for the last 19 years he has co-managed the society’s Korean translation and publication with his wife Kay. He founded and is the webmaster of www. Urantia.info the UB translation portal that presents all existing Urantia Book translations, and which distributes 10,000 ebooks annually. He is also a member of the Fellowship’s IT group, and is the newly elected chair of the Special Projects Committee.
 
-<figure id="Figure_7" class="image urantiapedia image-style-align-right">
+<figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2009_Winter/Merritt_Horn.jpg">
 </figure>
 
 Merritt Horn’s secret identity is I.T. Director for Aurora Organic Dairy in Boulder, Colorado, where he lives with his wife, Jeanney, and any of his four daughters who happen to be visiting at the time. He has been a reader for over forty years; he was co-founder and Academic Officer of the Boulder School for Students of _The Urantia Book_, and he recorded the audio version of _The Urantia Book_ published by the Fellowship. Merritt is the author of The Call of the Spirit and currently serves on the Standard Reference Text Committee.
 
-<figure id="Figure_8" class="image urantiapedia image-style-align-right">
+<figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2009_Winter/Tim_Hobbs.jpg">
 </figure>
 
@@ -100,7 +100,7 @@ Tim Hobbs, recently elected Outreach Chair of the Fellowship, is the current Pre
 
 **6 year term . . .**
 
-<figure id="Figure_9" class="image urantiapedia image-style-align-right">
+<figure id="Figure_9" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2009_Winter/Janet_L_Falbo.jpg">
 </figure>
 
@@ -173,10 +173,10 @@ Heart of America Society
 
 ## General Council Ceremony
 
-By Cece Forrester
+By _Cece Forrester_
 
 <figure id="Figure_20" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Mighty_Messenger/2009_Winter/005523.jpg">
+<img src="/image/article/The_Mighty_Messenger/2009_Winter/005723.jpg">
 </figure>
 
 This past summer, Fellowship members and friends gathered for a new celebration instituted to recognize newly elected and outgoing members of the Fellowship General Council, following the triennial elections and prior to the convening of the Council.
@@ -189,8 +189,8 @@ To conclude the ceremony, Council members joined hands in a circle around a repr
 
 The impetus for the ceremony was the sense some Councilors felt, during preparations for the triennial elections, of a need to mark the significance of the change in General Council membership and set the tone for the Council to serve and support the reader community during the next three years. As Cristina put it, “the sacredness of our task is in cooperation with each other and our celestial helpers. We may not always know the consequence and importance of our work.” Inspired by a ceremony used by the Garden Project, she suggested the idea during preparations for this summer’s Triennial elections, and took on the work of organizing it.
 
-<figure id="Figure_20" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2009_Winter/005524.jpg">
+<figure id="Figure_20" class="image urantiapedia">
+<img src="/image/article/The_Mighty_Messenger/2009_Winter/005724.jpg">
 </figure>
 
 Cristina set out to create an event that would incorporate meaningful symbolism without being overly ritualistic. She recruited three Urantia women who were recently ordained through InnerLife International: Aurora Hill, Christilyn Biek Larson, and Meredith Tenney. Francyl Gawryn and Barbara Hester provided music, to help create a sacred space. Other helpers included Jo Ann Weidman, Robert Burns, Paula Thompson, Michael Tanesky, Phil Taylor, Dolores Nice and Charles Olivea. Commented Cristina, “The spiritual power of the ceremony at the beginning was so much more than I had imagined. I believe all our angels were celebrating with us too.”
@@ -267,7 +267,7 @@ Prerequisites: This seminar has required reading and study. All participants mus
 
 ## A Life of Service
 
-<figure id="Figure_21" class="image urantiapedia image-style-align-right">
+<figure id="Figure_21" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2009_Winter/Lynda_DArcangelo.jpg">
 </figure>
 
@@ -341,7 +341,7 @@ www.urantiabook.org
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#winter-2009">
+        <a href="/en/index/articles_mighty_messenger#winter-2009-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 2009 — Index</span>
         </a>
         </td>

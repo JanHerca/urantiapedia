@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Spring 2001 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, LGBT, Mighty Messenger, article
+tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2001">
+        <a href="/en/index/articles_mighty_messenger#spring-2001-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2001 — Index</span>
         </a>
         </td>
@@ -37,7 +37,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 The closely watched federal civil case of _Michael Foundation v. Urantia Foundation_ ended on June 20th in Oklahoma City, the jury deciding in favor of Michael Foundation. This historic decision declares _The Urantia Book_ to be in the public domain, effectively ending Urantia Foundation's domination over the text of the fifth epochal revelation. The jury of eight brought in its decision at approximately 2:30PM after concluding deliberations that had started on the previous day. Harry McMullan III, a longtime reader of _The Urantia Book_ from Oklahoma City, is President of Michael Foundation. 
 
-The Oklahoma City trial, which began on June l2^th^, was the latest installment in a chain of events beginning in the summer of 1999 with the publication of Michael Foundation's _Jesus-A NewRevelation,_ comprising papers 121-196(Part IV minus its first paper) of _The Urantia Book._ Urantia Foundation initially sued Michael Foundation for copyright violation in Arizona,where the judge's ruling that the copyright was invalid in the case of _Urantia Foundation v. Maaherra_ had been reversed on appeal. This time, the Foundation's complaint was dismissed on grounds of improper venue—the Foundation failed to provide adequate rationale for filing the suit in Arizona where neither the defendant nor the plaintiff live or do business—and Mr. McMullan counter-sued the Foundation in Oklahoma City, challenging its copyright in _The Urantia Book_ and its trademarks. The trademark issues never reached the jury, having been summarily disposed of by Judge West in favor of the Foundation prior to the trial. Urantia Foundation may appeal the jury's findings that led to the copyright decision.
+The Oklahoma City trial, which began on June 12^th^, was the latest installment in a chain of events beginning in the summer of 1999 with the publication of Michael Foundation's _Jesus-A NewRevelation,_ comprising papers 121-196(Part IV minus its first paper) of _The Urantia Book._ Urantia Foundation initially sued Michael Foundation for copyright violation in Arizona,where the judge's ruling that the copyright was invalid in the case of _Urantia Foundation v. Maaherra_ had been reversed on appeal. This time, the Foundation's complaint was dismissed on grounds of improper venue—the Foundation failed to provide adequate rationale for filing the suit in Arizona where neither the defendant nor the plaintiff live or do business—and Mr. McMullan counter-sued the Foundation in Oklahoma City, challenging its copyright in _The Urantia Book_ and its trademarks. The trademark issues never reached the jury, having been summarily disposed of by Judge West in favor of the Foundation prior to the trial. Urantia Foundation may appeal the jury's findings that led to the copyright decision.
 
 The trial's outcome is bound to affect an agreement between Urantia Foundation and _The Urantia Book_ Fellowship signed on March 18 in Chicago. That agreement, reached after many hours of professionally mediated legal negotiations, was designed to address Urantia Foundation allegations of copyright and trademark infringements by the Fellowship on the Fellowship's web site. One of the agreement's provisions is that, should the law no longer protect the trademarks or the copyright, the Fellowship will be in no worse position than if it had not entered into the agreement. It seems then that,while aspects of the agreement dealing with trademarks still hold, it may be necessary to give further thought to those that address copyright issues in light of the Michael Foundation case.
 
@@ -155,7 +155,7 @@ website, http://www.ubfellowship.org
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2001">
+        <a href="/en/index/articles_mighty_messenger#spring-2001-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2001 — Index</span>
         </a>
         </td>

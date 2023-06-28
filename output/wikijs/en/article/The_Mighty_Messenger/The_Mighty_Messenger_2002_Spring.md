@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Spring 2002 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, LGBT, Mighty Messenger, article
+tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2002">
+        <a href="/en/index/articles_mighty_messenger#spring-2002-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2002 — Index</span>
         </a>
         </td>
@@ -181,7 +181,7 @@ As a continuation of a special event begun at IC99, we will again, at IC02, host
 
 ### Rebecca Kantor
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-left">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2002_Spring/Rebecca_Kantor.jpg">
 </figure>
 
@@ -189,7 +189,7 @@ Rebecca Kantor is a member of the Golden Gate Society and has been studying _The
 
 ### Thomas Orjala
 
-<figure id="Figure_3" class="image urantiapedia image-style-align-left">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2002_Spring/Thomas_Orjala.jpg">
 </figure>
 
@@ -223,7 +223,7 @@ website: http://wvw.ubfellowship.org
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2002">
+        <a href="/en/index/articles_mighty_messenger#spring-2002-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2002 — Index</span>
         </a>
         </td>

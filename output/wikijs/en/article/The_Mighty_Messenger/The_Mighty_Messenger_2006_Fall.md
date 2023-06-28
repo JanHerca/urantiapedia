@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Fall 2006 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, LGBT, Mighty Messenger, article
+tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2006">
+        <a href="/en/index/articles_mighty_messenger#fall-2006-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2006 — Index</span>
         </a>
         </td>
@@ -51,7 +51,7 @@ Robert is the owner of Share-Up Fitness Center in Irvine. He and his wife, Cindy
 
 ## Marvin Gawryn to Chair New Liaison Committee
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2006_Fall/Marvin_Gawryn.jpg">
 </figure>
 
@@ -99,25 +99,25 @@ Saying goodbye to someone like John Hales, who has served as our Director for th
 
 **Nine Year Term**
 
-<figure id="Figure_4" class="image urantiapedia image-style-align-right">
+<figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2006_Fall/Cece_Forrester.jpg">
 </figure>
 
 **Cece Forrester** has been a reader since 1969 and a member of Fitst Society (Chicago) since 1976 Where she serves as Secretary. She regularly attends various study groups including the Forum Study Group, the direct descendant of the original Forum. Cece was a co-editor of the Pervaded Space newsletter from 1978 to 1994 and helped compile the first directory of study groups in the 1980s while a member of the Domestic Extension Committee. She has helped to plan and has presented talks and workshops at various conferences. She has many years of experience in the advertising media and communications field.
 
-<figure id="Figure_5" class="image urantiapedia image-style-align-right">
+<figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2006_Fall/Peter_Laurence.jpg">
 </figure>
 
 **Peter Laurence** began studying The Urantia in the late 1960s, and has been president of the Connecticut Society and chair of the former Fraternal Relations Committee. He is currently chair of an ad hoc group set up by the Executive Committed to review the Fellowship's website and a member of the Interfaith Committee. In the interfaith field he has served as chair of the board of the North American Interfaith Network (NAIN) and as a member of the Assembly of Religious and Spiritual Leaders for the Parliament of the World's Religions (Chicago, 1993, Cape Town, 1999.) He is currently executive director of the Education as Transformation project at Wellesley College.
 
-<figure id="Figure_6" class="image urantiapedia image-style-align-right">
+<figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2006_Fall/Phil_Taylor.jpg">
 </figure>
 
 **Phil Taylor** is a carpenter/builder living in southern Vermont with his wife Lisa and children, Allyson and Zachary. He has been reading _The Urantia Book_ for fifteen years and hosts two study groups in his local area. Phil serves as the Vice President for the Urantia Association of New England and has written several articles for the UAI Journal. He is also training to be a teacher at _The Urantia Book_ Internet School. Currently, he is working with Susan Cook to organize the 2008 International Conference in San Diego and to involve younger readers in the conference planning and presentations of workshops.
 
-<figure id="Figure_7" class="image urantiapedia image-style-align-right">
+<figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2006_Fall/Buck_Weimer.jpg">
 </figure>
 
@@ -125,13 +125,13 @@ Saying goodbye to someone like John Hales, who has served as our Director for th
 
 **Six Year Term**
 
-<figure id="Figure_8" class="image urantiapedia image-style-align-right">
+<figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2006_Fall/Charlene_Morrow.jpg">
 </figure>
 
 **Charlene Morrow** was a charter member of _The Urantia Book_ Society of Oklahoma (First Society of Oklahoma) founded in 1957, and has served as President, Vice President, Secretary, and Treasurer of this society. She has also served previously on the General Council for nine years. Her interests are book fairs and placing _Urantia Books_ in libraries. She is involved in interfaith work as a member of Interfaith Alliance and NAIN and is currently on the Interfaith Committee of the Fellowship. She feels especially blessed to be the mother of and the grandmother of five.
 
-<figure id="Figure_9" class="image urantiapedia image-style-align-right">
+<figure id="Figure_9" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2006_Fall/Al_Lockett.jpg">
 </figure>
 
@@ -139,7 +139,7 @@ Saying goodbye to someone like John Hales, who has served as our Director for th
 
 **Three Year Term**
 
-<figure id="Figure_10" class="image urantiapedia image-style-align-right">
+<figure id="Figure_10" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2006_Fall/Christina_Seaborn.jpg">
 </figure>
 
@@ -179,7 +179,7 @@ Smithville, MO 64089
 
 Pipeline of Light Report
 
-By Michelle Klimesh
+By _Michelle Klimesh_
 
 The Pipeline of Light kicked into high gear during the first Six months of 2006. Between January and June, we placed 352 copies of _The Urantia Book_ (including translations, the audio version, and English) into twenty-two countries: Colombia, Costa Rica, South Africa, Lithuania, Pakistan, Republic of Guinea, Zambia, Croacia, Argentina, Chile, Myanmar, Greece, Panama, Nicaragua, India, Brazil, Egypt, France, Bulgaria, Ecuador, Algeria and the Philippines. We have since placed books readers in Iceland, Germany, Chechnya, and Peru for a total of twenty-six countries so far this year.
 
@@ -207,7 +207,7 @@ Our online contributions page is simple, fast and secure. A beautiful special ed
 
 A Personal View
 
-By Deb Manske Biechler
+By _Deb Manske Biechler_
 
 For twenty-plus years, I have been reading _The Urantia Book_, on my own and with a study group. As I anticipated my first conference, the Summer Study Session at the Dominican University outside of Chicago, I was hoping for more of the doubling and tripling of insight that my study group affords me. What happened was even better. Coming to the conference popped things open another dimension, adding the depth of experiential wisdom.
 
@@ -237,13 +237,13 @@ All seven living ex-presidents of the Fellowship gathered to honor John Hales on
 
 ## Into Africa
 
-By Buck and Arlene Weimer
-
-Africa! The very name dormant emotions, excites adventurousness, and prompts a creative vision. At the behest of the International Committee of the Fellowship, we traveled to Africa from February 23 to March 12, 2006, spending most of our time in Zambia and a few days in South Africa.
+By _Buck and Arlene Weimer_
 
 <figure id="Figure_14" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2006_Fall/005643.jpg">
 </figure>
+
+Africa! The very name dormant emotions, excites adventurousness, and prompts a creative vision. At the behest of the International Committee of the Fellowship, we traveled to Africa from February 23 to March 12, 2006, spending most of our time in Zambia and a few days in South Africa.
 
 Our goals were to foster relationships with as many Urantia Book readers as possible, while delivering books, placing books in libraries, instigating study group activity, identifying leaders, and answering questions. We carried wich us three cases of books, a stack of various brochures, three dozen t-shirts, many copies each of two different posters, a bag of spiritual vitamins, and Fellowship business cards, as well as many personal gifts.
 
@@ -253,7 +253,7 @@ The next day, our presentation at the Mindolo Ecumenical Foundation School of Th
 
 On our flight to Cape Town, South Africa, we stopped for a short layover in Johannesburg where we had prearranged to meet with Simone Cox. What a fireball! She is full of energy and on fire with _The Urantia Book_, a great pesrson, and an emerging leader in the region.
 
-<figure id="Figure_15" class="image urantiapedia image-style-align-right">
+<figure id="Figure_15" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2006_Fall/005644.jpg">
 </figure>
 
@@ -261,13 +261,13 @@ Once in Cape Town, the Rev John Oliver, an Anglican priest, met us and quickly i
 
 The Africa we saw is a Utantia Book stronghold “waiting to happen.”" Everywhere we went people talked easily about God as if it were an integral part of their lives, no inhibitions, no political correctness, without reservations. The revelation is alive and thriving in Zambia and South Africa.
 
-<figure id="Figure_16" class="image urantiapedia image-style-align-right">
+<figure id="Figure_16" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2006_Fall/005645.jpg">
 </figure>
 
 ## On the Road to Ecuador
 
-By Dolores Nice
+By _Dolores Nice_
 
 <figure id="Figure_17" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2006_Fall/005646.jpg">
@@ -279,7 +279,7 @@ We visited four cities, Quito, Ibarra, Ambato and Quayaquil and we gave presenta
 
 Some lasting memories were being 15,000 feet up in the mountains near Quito, the wonderful dinner and musical entertainment hosted by the study group in Ambato, and the bus trip down mountain roads back to Quayaquil. I recall Susan trying to hang on to her laptop as she, Jose Manuel, and I translated some materials for our next presentation. We gave away four cases _Urantia Books_, book marks, posters, t-shirts, and coupons for more books. Meeting so many new readers was a real honor and we could not help but be inspired by their hunger for the Revelation.
 
-<figure id="Figure_18" class="image urantiapedia image-style-align-right">
+<figure id="Figure_18" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2006_Fall/005647.jpg">
 </figure>
 
@@ -307,7 +307,7 @@ Some lasting memories were being 15,000 feet up in the mountains near Quito, the
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2006">
+        <a href="/en/index/articles_mighty_messenger#fall-2006-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2006 — Index</span>
         </a>
         </td>

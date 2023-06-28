@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Spring 2003 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, LGBT, Mighty Messenger, article
+tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2003">
+        <a href="/en/index/articles_mighty_messenger#spring-2003-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2003 — Index</span>
         </a>
         </td>
@@ -125,9 +125,9 @@ With increasing public exposure, these papers will soon face further scrutiny in
 
 _"Owing to the isolation of rebellion, the revelation of truth on Urantia has all too often been mixed up with the statements of partial and transient cosmologies. Truth remains unchanged from generation to generation, but the associated teachings about the physical world vary from day to day and from year to year. Eternal truth should not be slighted because it chances to be found in company with obsolete ideas regarding the material world. The more of science you know, the less sure you can be; the more of religion you_ have, _the more certain you are._
 
-> _The certainties of science proceed entirely from the intellect; the certitudes of religion spring from the very foundations of the_ entire personality_. Science appeals to the understanding of the mind; religion appeals to the loyalty and devotion of the body, mind, and spirit, even to the whole personality._ [[UB 102:1.3-4](/en/The_Urantia_Book/102#p1_3)]
+> _The certainties of science proceed entirely from the intellect; the certitudes of religion spring from the very foundations of the entire personality. Science appeals to the understanding of the mind; religion appeals to the loyalty and devotion of the body, mind, and spirit, even to the whole personality._ [[UB 102:1.3-4](/en/The_Urantia_Book/102#p1_3)]
 
-When asked about the validity of “holy scripture” as the authority for daily living, Jesus replied to Nathaniel: _“Mark you well my words, Nathaniel, nothing which human nature has touched can be regarded as infallible. Through the mind of man divine truth may indeed shine forth, but always of relative purity and partial divinity. The creature may crave infallibility, but only the Creators possess it.”_ [[UB 159:4.8](/en/The_Urantia_Book/159#p4_8)]
+When asked about the validity of “holy scripture” as the authority for daily living, Jesus replied to Nathaniel: “_Mark you well my words, Nathaniel, nothing which human nature has touched can be regarded as infallible. Through the mind of man divine truth may indeed shine forth, but always of relative purity and partial divinity. The creature may crave infallibility, but only the Creators possess it._” [[UB 159:4.8](/en/The_Urantia_Book/159#p4_8)]
 
 As pioneers in the discovery and study of many of the human sources Matthew Block, Steve Dreier and others will be on hand to present personal perspectives on their findings. Dan Massey will re-examine some of the scientific facts offered in the papers, along with their context. And David Kantor will present “Divine Values and Sacred Texts: Linguistic Issues in the Textural Presentation of Revelation.”
 
@@ -150,7 +150,7 @@ Let's come together for this year's summer session with renewed truth hunger and
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2003">
+        <a href="/en/index/articles_mighty_messenger#spring-2003-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2003 — Index</span>
         </a>
         </td>

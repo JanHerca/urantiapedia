@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Winter 2007 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, LGBT, Mighty Messenger, article
+tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#winter-2007">
+        <a href="/en/index/articles_mighty_messenger#winter-2007-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 2007 — Index</span>
         </a>
         </td>
@@ -57,7 +57,7 @@ More details will be forthcoming. Registration begins in November. Please contac
 
 ## International Readers’ Services Position Filled
 
-By Susan Ransbottom
+By _Susan Ransbottom_
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2007_Winter/Agustin_Arellano.jpg">
@@ -69,7 +69,7 @@ Agustin is a linguist and is fluent in at least six languages. He is a life-time
 
 Agustin is creative in his outreach efforts, describing _The Urantia Book_ as something inclusive that can touch the life of any person who may be a truth seeker, or even simply curious. Through his travels he has introduced the book and started study groups in almost every country in Latin America, as well as Cuba, France, Italy, Spain, the Czech Republic, and even Asia. He is skilled at using the media (television, radio, internet, as well as newspapers and magazines) in his outreach efforts. 
 
-<figure id="Figure_3" class="image urantiapedia image-style-align-right">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2007_Winter/Agustin_Arellano_2.jpg">
 </figure>
 
@@ -88,13 +88,13 @@ During the third weekend in October, New York readers participated in an introdu
 
 Great backup support for the Jorgensens’ outreach activities has been provided by the “core members” of the Tuesday night study group. If the Jorgensens are not available for some reason, the others hold the meeting at someone else’s home, or even a restaurant, so the momentum isn’t lost. Robin likes to point out “they really make all this stuff happen, we just open the door.” The Jorgensens are willing to share their comments on their experiences in outreach efforts and can be contacted at heleneandrobin@earthlink.net. 
 
-<figure id="Figure_5" class="image urantiapedia image-style-align-right">
+<figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2007_Winter/005656.jpg">
 </figure>
 
 ## Pipeline Of Light Report
 
-By Michelle Klimesh, Pipeline Coordinator
+By _Michelle Klimesh_, Pipeline Coordinator
 
 During the third quarter of 2007, Pipeline of Light Volunteers placed a total of 111 copies of translations of _The Urantia Book_ into twelve countries including books to the Sinai Peninsula in Egypt, Nigeria, Ecuador, Zambia, Lithuania, France, Colombia, Peru, Germany, Turkey, Argentina, and Costa Rica.
 
@@ -108,7 +108,7 @@ Thank you so much for your support!
 
 ## Quenching A Thirst, Feeding The Hunger
 
-By Agustin Arellano and Buck Weimer
+By _Agustin Arellano and Buck Weimer_
 
 In late May and early June of this year, the International Fellowship Committee mounted an outreach mission to Argentina and Chile. Team members included: Agustin Arellano, Jorge Ortiga (Mexico), Nelida Oliver (Argentina/Ecuador), Dr. Rafael and Nidia Arias Rojas (Costa Rica), Dolores Nice (San Francisco), and Arlene and Buck Weimer (Colorado).
 
@@ -151,7 +151,7 @@ We returned home and spent time processing all that happened during such a short
 
 ## Why Interfaith?
 
-By Peter Laurence
+By _Peter Laurence_
 
 Why should students of _The Urantia Book_ be interested or involved in interfaith activity? What does the interfaith movement have to do with fostering the evolution of religion on this planet?
 
@@ -250,7 +250,7 @@ First Society of Oklahoma
 
 ## An Invitation To Membership
 
-By Lenny Cowles, Membership Chair
+By _Lenny Cowles_, Membership Chair
 
 “A social group of human beings in coordinated working harmony stands for a force far greater than the simple sum of its parts.” [[UB 133:5.6](/en/The_Urantia_Book/133#p5_6)] We associate with each other in order to share a common purpose the worldwide dissemination of _The Urantia Book_ and its teachings. More simply stated; organized efforts build wonders to behold. 
 
@@ -330,7 +330,7 @@ www.urantiabook.org
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#winter-2007">
+        <a href="/en/index/articles_mighty_messenger#winter-2007-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 2007 — Index</span>
         </a>
         </td>

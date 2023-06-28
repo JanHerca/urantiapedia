@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Spring 2004 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, LGBT, Mighty Messenger, article
+tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2004">
+        <a href="/en/index/articles_mighty_messenger#spring-2004-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2004 — Index</span>
         </a>
         </td>
@@ -51,7 +51,7 @@ This is your conference. Help to make it more so by planning to attend and possi
 
 ## News from Eastern Europe...The Continuing Adventure
 
-By David Kantor, Chair, International Committee
+By _David Kantor_, Chair, International Committee
 
 The statement of purpose in the Fellowship constitution says that our organization is dedicated to creating interest in the revelation “through the medium of fraternal association.” I am increasingly viewing the international work as a work of social architecting—identifying individuals with leadership position and/or potentials and creating a social context in which they can get to know each other and develop working relationships.
 
@@ -207,7 +207,7 @@ website: http://www.urantiabook.org
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2004">
+        <a href="/en/index/articles_mighty_messenger#spring-2004-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2004 — Index</span>
         </a>
         </td>

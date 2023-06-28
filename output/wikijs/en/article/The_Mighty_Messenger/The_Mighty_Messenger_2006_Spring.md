@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Spring 2006 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, LGBT, Mighty Messenger, article
+tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2006">
+        <a href="/en/index/articles_mighty_messenger#spring-2006-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2006 — Index</span>
         </a>
         </td>
@@ -35,13 +35,13 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Summer Study Session ‘06
 
-“Celestial Ministry - Seen and Unseen” is the theme of this summer’s study session to be held July 7-9 at Dominican University in River Forest, Illinois, a western suburb of Chicago. Accommodations are air-conditioned, and the beautiful campus is easily reached from O’hare airport.
-
-Workshop positions are still open to those interested in presenting programs based on the theme. The fascinating possibilities for programs range from examining individual types of unseen helpers to understanding the results of their ministry to us and to the planet as a whole. (See page 2 for further information.)
-
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2006_Spring/005622.jpg">
 </figure>
+
+“Celestial Ministry - Seen and Unseen” is the theme of this summer’s study session to be held July 7-9 at Dominican University in River Forest, Illinois, a western suburb of Chicago. Accommodations are air-conditioned, and the beautiful campus is easily reached from O’hare airport.
+
+Workshop positions are still open to those interested in presenting programs based on the theme. The fascinating possibilities for programs range from examining individual types of unseen helpers to understanding the results of their ministry to us and to the planet as a whole. (See page 2 for further information.)
 
 Registration for conference attendees will begin at 3:00 pm on Thursday, July 6, and the opening session of the program will start at 9:00 am on Friday, July 7. The summer study session will conclude at noon on Sunday, July 9.
 
@@ -310,7 +310,7 @@ www.urantiabook.org
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2006">
+        <a href="/en/index/articles_mighty_messenger#spring-2006-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2006 — Index</span>
         </a>
         </td>

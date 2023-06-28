@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Fall 1999 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, LGBT, Mighty Messenger, article
+tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-1999">
+        <a href="/en/index/articles_mighty_messenger#fall-1999-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1999 — Index</span>
         </a>
         </td>
@@ -99,7 +99,7 @@ _Binion:_  Issue a statement, take a stand. That stand could be as innocuous as
 
 August 14th, 1999, Vancouver B.C.  
 
-By Janet Farrington Graham
+By _Janet Farrington Graham_
 
 The Fellowship has been transforming itself. We are fully committed to an embrace of the entire readership through an encompassing philosophy of service; we actively seek to meet the needs of each individual and group regardless of their interest in, or affiliation with, any other organization. To that end, the General Council, in its annual meeting following the wonderfully invigorating SpiritQuest 2000 conference in Vancouver, passed two resolutions that represent our vision of community.
 
@@ -137,7 +137,7 @@ At the end of the conference, on a sprawling lawn, the participants were treated
 
 ## The Fellowship announces: The Special Interest Group Network (S.I.G.N.) Program
 
-By Lee Smith
+By _Lee Smith_
 
 At the IC 99 conference, the Urantia Book Fellowship embarked on a new program for disseminating the teachings of the Fifth Epochal Revelation. It is called the Special Interest Group Network  (S.I.G.N.). The purpose of this effort is to bring together or “network” individuals who share common interests, avocations or professions, and whose lives are dominated by the teachings of the Fifth Epochal Revelation. The thrust of this effort is to provide a platform wherein individuals, who have been imbued with the revelation, can relate to other like minded persons the experiential meanings and values that they have gained while embracing of the faith of Jesus and the teachings of _The Urantia Book._
 
@@ -180,7 +180,7 @@ The long awaited Wrightwood Series #2, “Perspectives on Race in _The Urantia B
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-1999">
+        <a href="/en/index/articles_mighty_messenger#fall-1999-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 1999 — Index</span>
         </a>
         </td>

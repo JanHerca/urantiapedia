@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Fall 2003 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, LGBT, Mighty Messenger, article
+tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2003">
+        <a href="/en/index/articles_mighty_messenger#fall-2003-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2003 — Index</span>
         </a>
         </td>
@@ -47,7 +47,7 @@ The latest and most significant of these legal contests is over. We hope that it
 
 ## The Parliament of the World's Religions
 
-_The Urantia Book_ Fellowship recently decided to combine its 2004 Summer Study Session with the Heart of America Society's annual conference, taking place September 17—19. This decision was made to facilitate greater Urantian attendance at the Parliament of the World's Religions, taking place July 7—1 3, 2004 in Barcelona, Spain. 
+_The Urantia Book_ Fellowship recently decided to combine its 2004 Summer Study Session with the Heart of America Society's annual conference, taking place September 17—19. This decision was made to facilitate greater Urantian attendance at the Parliament of the World's Religions, taking place July 7—13, 2004 in Barcelona, Spain. 
 
 The Fellowship participated in both the 1993 and 1999 Parliaments and many Fellowship members would like to attend the 2004 Parliament. SSS04 was originally planned for mid-July, which made attendance at both events nearly impossible. However, the idea of combining SSS04 with the Kansas City conference at Unity Village will facilitate a larger group of readers being able to attend both events. The Summer Seminar theme was to be on Interfaith, but the theme at the Kansas City conference is “The Universal Mother Spirit.” Though the conference focus will be on the Mother Spirit, Parliament attendees are planning a special presentation on interfaith for those who could not attend. In addition, the Fellowship's General Council will be meeting on Sunday afternoon and Monday (September 19th and 20th) directly following the Kansas City conference. 
 
@@ -57,7 +57,7 @@ For those who would normally have attended the Summer Seminar in July and can't 
 
 The Parliament is giving us a special group rate for program registration of $325 per person, which will be good until January 15, 2004. (If you register, please select the $325 fee and note on the registration that this is the Urantia Group Discount per Francessca.) T his is for the program only and does not include meals or lodging. We have someone looking into a discounted air package for us. If you would like to go, keep in mind that you will need to have a valid US passport and that it takes at least four weeks to secure one. There are student rates for lodging that are reasonable, being just $30 nightly for a shared room. If you have miles saved up you can get a free international ticket for 50,000 miles. It looks like the overall cost for an individual to attend may be as low as $1700 (allowing $1000 for air fare). We will have _The Urantia Book_ exhibit booth there and volunteering at the booth could make the cost of the trip tax deductible. You can register online and read atl about The Parliament and its amazing history at www.CPWR.org. We hope to see you in Barcelona, Spain! If you would like more information about this wonderful opportunity, please contact either Rebecca Kantor at 707-823-4368 (or rebkant@aol.com) or Paula Thompson at 303-440-0688 (or Ubooksrus@aol.com).
 
-## IC'05 PLANNING PROCESS UNDERWAY!!
+## IC'05 Planning Process Underway!!
 
 **The Next 50 Years**
 
@@ -161,7 +161,7 @@ website: http://www.urantiabook.org
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2003">
+        <a href="/en/index/articles_mighty_messenger#fall-2003-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2003 — Index</span>
         </a>
         </td>

@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Spring 2008 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, LGBT, Mighty Messenger, article
+tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2008">
+        <a href="/en/index/articles_mighty_messenger#spring-2008-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2008 — Index</span>
         </a>
         </td>
@@ -47,7 +47,11 @@ In the evenings, Urantia musicians including Pato Banton, Common Ground, and oth
 
 Friday, July 4, will be a “light” day. You can be on your own in LA, or stay on campus and enjoy in-depth study groups and workshops. 
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<br>
+
+<br>
+
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2008_Spring/005674.jpg">
 </figure>
 
@@ -87,7 +91,7 @@ Duane became the 101st member of The First Urantia Society of Los Angeles on Jan
 
 He is also known for his compiled work, the Paramony, a 588- page book which contains nearly 60,000 references paralleling and harmonizing the Bible and _The Urantia Book_. In addition, it contains over 10,000 cross-references internal to the Bible and several thousand internal to _The Urantia Book_. Duane’s grandfather and father were Presbyterian clergymen and he was an amazing scholar of both books. Duane’s Paramony is an invaluable aid for people who study both the Bible and _The Urantia Book_. Whether you are a student, a truth seeker, a Bible or Urantia Book teacher, a Christian minister, a Jewish rabbi, a theologian, a philosopher or a God-seeker, the Paramony is a gem.
 
-<figure id="Figure_4" class="image urantiapedia image-style-align-right">
+<figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2008_Spring/Duane_Faw_2.jpg">
 </figure>
 
@@ -115,7 +119,7 @@ After a long journey, we were exhausted but grateful to be in India in one piece
 
 Over the course of the next ten days in Delhi we made life-long friends. There are so many, but a few stand out for me. Yuyutsu Sharma, a poet and book seller from Nepal, had a booth right across from us. He came over on the first day and greeted us with warmth and friendship. In the course of a week we got to know him well. We learned of his family at home in Nepal and that his 12-year-old daughter is strongly drawn to Jesus. Yuyutsu encourages her to follow her heart and learn all she can about Jesus, but he explained with a gleam in his eye that his wife thinks he’s crazy to tell her that. Of course, we traded our magnificent story of Jesus for one of his books of poems and he sent it to his child the next day, via express mail. Imagine being twelve years old, inexplicably drawn to Jesus, and being able to read Part IV of _The Urantia Book_! Yuyutsu is a very successful poet, and he’s coming to Boulder soon to read his poetry and promote his book.
 
-<figure id="Figure_6" class="image urantiapedia image-style-align-left">
+<figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2008_Spring/005679.jpg">
 </figure>
 
@@ -123,7 +127,7 @@ I had an encounter with two young Muslim brothers, Fraz and Kashif Hasan Khan. T
 
 Incidentally, the Muslims we talked to all reiterated that they accept and recognize Jesus as a true prophet and believe that he is the one prophet that is coming back. As I spoke to them I would often preface my words with, “Well, as I said, Jesus is my prophet and he teaches that…” I found it to be an effective way to engage them, but it is important to note that, just as with Christians, the New Testament is their only source for his teachings.
 
-<figure id="Figure_7" class="image urantiapedia image-style-align-right">
+<figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2008_Spring/005680.jpg">
 </figure>
 
@@ -133,7 +137,7 @@ Following the fair, Buck, Arlene, and Charlene headed to Jabulpur to visit with 
 
 We conducted splendid and effective outreach there. This is our work, the work of the revelation and the work of the Fellowship. I give my personal heartfelt thanks to Buck Weimer who worked tirelessly to arrange this trip.
 
-<figure id="Figure_8" class="image urantiapedia image-style-align-right">
+<figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2008_Spring/005681.jpg">
 </figure>
 
@@ -141,11 +145,11 @@ We conducted splendid and effective outreach there. This is our work, the work o
 
 By _Gerry Pando_
 
-I would especially like to thank the Oklahoma Society and George Thornbury in Kentucky for the El Libros de Urantia they donated to this mission. They arrived safely and were given to Patricia Rozo, founder of Exito Verde, a foundation dedicated to improving the material and spiritual conditions by emphasizing environmental and social relationships with the planet of all who live here.
-
 <figure id="Figure_9" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2008_Spring/005682.jpg">
 </figure>
+
+I would especially like to thank the Oklahoma Society and George Thornbury in Kentucky for the El Libros de Urantia they donated to this mission. They arrived safely and were given to Patricia Rozo, founder of Exito Verde, a foundation dedicated to improving the material and spiritual conditions by emphasizing environmental and social relationships with the planet of all who live here.
 
 My primary mission in coming here is to repair the Teusaquillo house occupied by Exito Verde and used as a center for community outreach. Also, my trip is to emphasize relationships with all Urantia Book readers in Colombia. To this end my wife Bibi and I renewed friendships with Carlos Zapata (first reader in Colombia to be my friend) and Juan B. and Marta Garcia, readers who visited us last summer in Oklahoma. Juan has graciously volunteered his civil engineering experience to the help with the repairs at the Teusaquillo house. These two were listed in the International Urantia Book Study Group Directory (that I still carry,) and have been essential to achievements realized.
 
@@ -268,7 +272,7 @@ www.urantiabook.org
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2008">
+        <a href="/en/index/articles_mighty_messenger#spring-2008-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2008 — Index</span>
         </a>
         </td>

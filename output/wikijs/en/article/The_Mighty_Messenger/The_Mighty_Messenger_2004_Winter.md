@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Winter 2004 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, LGBT, Mighty Messenger, article
+tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#winter-2004">
+        <a href="/en/index/articles_mighty_messenger#winter-2004-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 2004 — Index</span>
         </a>
         </td>
@@ -41,7 +41,7 @@ Looking to the furure of the Urantia movement, all three program tracks will fea
 
 There will be many oportunities for soctalizing, including a dinner-dance on the last evening of the conference. Music and entertainment will be provided each evening, and the beautiful campus at Villanova offers many opportunities for various outdoor activities. A combined art gallery and bookstore will offer oppotunities for artists and writers to display their creations, although those wishing to do so will have to fill out a form as space is limited. Quite a few foreign readers are expectcd to attend and share their experiences in their own countries. On the free day, the City of Philadelphia and its surroundings are a history lesson in themselves, and superb rail transportacion is available to downtown and other local areas for those who elect not to join the planned tours. 
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-right">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2004_Winter/005971.jpg">
 </figure>
 
@@ -49,7 +49,7 @@ Every effort is being made to celebrate the “birthday” of _The Urantia Book_
 
 ## President's Report - 2004
 
-By Avi Dogim
+By _Avi Dogim_
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2004_Winter/Avi_Dogim.jpg">
@@ -71,7 +71,7 @@ A planning retreat held by the Council during its last mid-year meeting generate
 
 **John Hay, Treasurer**
 
-<figure id="Figure_3" class="image urantiapedia image-style-align-right">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2004_Winter/John_Hay.jpg">
 </figure>
 
@@ -83,7 +83,7 @@ John and his wife, Laura, (Publication Committee) keep busy with six children ra
 
 **Susan Cook, Chair Interfaith Committee** 
 
-<figure id="Figure_4" class="image urantiapedia image-style-align-right">
+<figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2004_Winter/Susan_Cook.jpg">
 </figure>
 
@@ -95,7 +95,7 @@ I grew up going to Native American powwows, for the purpose of feasting, dancing
 
 **Tom Allen, General Councilor** 
 
-<figure id="Figure_5" class="image urantiapedia image-style-align-right">
+<figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2004_Winter/Tom_Allen.jpg">
 </figure>
 
@@ -103,7 +103,7 @@ Raised in Bartlesville, Oklahoma, I was introduced to _The Urantia Book_ in 1973
 
 **Gene Narducy, General Councilor** 
 
-<figure id="Figure_6" class="image urantiapedia image-style-align-right">
+<figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2004_Winter/Gene_Narducy.jpg">
 </figure>
 
@@ -138,7 +138,7 @@ For further information on becotning a member of the Speakers Bureau, please con
 Maria Downing at 303-444-3789 or maridown@aol.com or M
 Mary Jo Garascia at 303-698-2752 or pilgrim_mj@yahoo.com
 
-# Art, Art, and more Art!
+## Art, Art, and more Art!
 
 Beautiful and exciting oil paintings, watercolors, graphic designs, ceramics, sculpture in different media, mobiles and much more will be on display at _The Urantia Book_ Fellowship International Conference Art Gallery to be held at Villanova near Philadelphia from July 30 through August 4, 2005. 
 
@@ -159,7 +159,7 @@ Auction Relics Needed:
 
 ## The 2004 Parliament of World Religions
 
-By Paula Thompson
+By _Paula Thompson_
 
 The first Parliament of Religions was held in 1893 at the historic Palmer House Hotel in downtown Chicago. So far as we know, it was the very first time in history that the great religious traditions of the world came together to share their faith and explore methods of cooperation. Many of the great religions of the 20th Century made their debut at this Parliament. 
 
@@ -251,7 +251,7 @@ Send entries to: Thomas Orjala, 782 South Ruby Rd, Coeur d 'Alerte, Idaho 83814 
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#winter-2004">
+        <a href="/en/index/articles_mighty_messenger#winter-2004-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter 2004 — Index</span>
         </a>
         </td>

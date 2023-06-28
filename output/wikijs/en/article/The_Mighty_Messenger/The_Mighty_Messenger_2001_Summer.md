@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Summer 2001 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, LGBT, Mighty Messenger, article
+tags: religion, The Urantia Book, Global Seeding, Poetry, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#summer-2001">
+        <a href="/en/index/articles_mighty_messenger#summer-2001-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2001 — Index</span>
         </a>
         </td>
@@ -86,7 +86,7 @@ Avi Dogim
 
 ## Gratitude
 
-by David Glass
+by _David Glass_
 
 I thank you, God, for creating me
 In the midst of a Universe Family.
@@ -120,7 +120,7 @@ You are my Upholder, I rise now to greet you.
 
 ## Report on a Visit to Colombia
 
-By David Kantor
+By _David Kantor_
 
 On August 5, 2001, Agustin Arellano and I arrived for a one-week visit with various reader groups in Bogota, Colombia. Both of us were presenters at the Colombian IUA conference where some 120 readers gathered to study and socialize over the Jesus birthday weekend. The Fellowship provided eleven scholarships to the conference for local readers who would not otherwise have been able to attend. 
 
@@ -219,7 +219,7 @@ website: http://www.ubfelloship.org
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#summer-2001">
+        <a href="/en/index/articles_mighty_messenger#summer-2001-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2001 — Index</span>
         </a>
         </td>

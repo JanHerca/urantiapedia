@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Summer 1998 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, LGBT, Mighty Messenger, article
+tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#summer-1998">
+        <a href="/en/index/articles_mighty_messenger#summer-1998-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 1998 — Index</span>
         </a>
         </td>
@@ -41,7 +41,7 @@ The present configuration of the Executive Committee is as follows: Janet Farrin
 
 ## Readers Meet in Finland and Estonia
 
-by Marvin Gawryn
+by _Marvin Gawryn_
 
 Approximately 160 people attended the IUA's International Conference in Helsinki, Finland in early August-30-40 from North America, about 30 from assorted other countries (anywhere from 1-5 participants from Holland, Russia, France, Belgium, Norway, Estonia, Columbia, Peru, Germany and a few other countries) and the rest from Finland. Almost all the talks were printed in English and Finnish and read to the audience, much like papers presented at a professional conference. Two that I particularly enjoyed were by a Russian reader, Andrei Reznikov, on the admonition, “Be You Perfect and the talk by Nienke Begemann-Brugman from the Netherlands on ”Religious Intrepidity."
 
@@ -51,7 +51,7 @@ His talk on the future of our planet was intriguing. It was fascinating to talk 
 
 ## 1998 Summer Study Session
 
-by Steve Dreier
+by _Steve Dreier_
 
 The 1998 Summer Study Session was held at Mount Vernon College in the beautiful Georgetown area of Washington, DC. From July 9-12 about 150 readers gathered for three days of study, worship, recreation and fellowship. This year's overall theme was “The Art of Spiritual Living.” It was explored through three daily themes: Day one, “Fellowship with the Father,” considered our personal relationship with God; day two, “The Living Brotherhood,” examined our relationships with one another; day three, “Vision of the Future,” attempted to predict the developmental course of the revelation and its effect upon Urantia. A variety of stimulating viewpoints were presented. in morning plenary talks, followed by small thematic discussion groups in both mornings and afternoons. Evening activities featured entertainment provided by talented members of our community supplemented by professional musicians.
 
@@ -91,7 +91,7 @@ The monastery was also reputed to be the final resting place of the apostle John
 
 ## The Urantia Book Reader's Survey: Golden Gate Circle-Summer 1998
 
-by Michelle Klimesh
+by _Michelle Klimesh_
 
 The Golden Gate Circle is a society of Urantia Book readers from the San Francisco bay area in Northern California. This summer surveys were sent to all GGC members and to a random batch of nonmembers from our mailing list. Within four weeks of the mailing I had received a 52% response from our members and 13% response from nonmembers. Let's call the imaginary composite of our active membership Mr. GGC (not because I'm sexist, but because we have 34 male and 30 female members). Mr. GGC is between 50 and 65, has been reading _The Urantia Book_ for more than 20 years, and has a Master's degree.
 
@@ -119,7 +119,7 @@ _Holiday Program Party_ Jointly sponsored by First Society and Urantia Foundatio
 
 _VIPs Preparing to Become a Society_ Cristel Garrick and Bud Kagen report that the Vancouver Island People Study Group (VIPs) are “now in the process of becoming a full fledged society under the Constitution of _The Urantia Book_ Fellowship.” The group celebrated the Master's birthday on August 22 at Shawnigan Lake on Vancouver Island.
 
-> > Did you know that if you buy books through Amazon.com on the internet, you can help raise money for _The Urantia Book_ Fellowship by clicking onto Amazon.corn through the Fellowship's website? The Fellowship gets a fee from Amazon every time a purchase is made in this fashion.
+> Did you know that if you buy books through Amazon.com on the internet, you can help raise money for _The Urantia Book_ Fellowship by clicking onto Amazon.corn through the Fellowship's website? The Fellowship gets a fee from Amazon every time a purchase is made in this fashion.
 
 ## Mighty Messenger
 
@@ -140,7 +140,7 @@ Published quarterly by Uversa Press for the Publications Committee of _The Urant
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#summer-1998">
+        <a href="/en/index/articles_mighty_messenger#summer-1998-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 1998 — Index</span>
         </a>
         </td>

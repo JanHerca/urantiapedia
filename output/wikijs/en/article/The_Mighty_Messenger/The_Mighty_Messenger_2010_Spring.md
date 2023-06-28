@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Spring 2010 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, LGBT, Mighty Messenger, article
+tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2010">
+        <a href="/en/index/articles_mighty_messenger#spring-2010-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2010 — Index</span>
         </a>
         </td>
@@ -38,7 +38,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 _The Urantia Book_ Fellowship will hold its Summer Study Session of 2010 from July 21−26 at Techny Towers, a conference and retreat center located in Chicago’s North Shore. The conference theme, “God Consciousness and Cosmic Morality: Living the Gospel,” has already drawn the attention of a number of experienced readers of _The Urantia Book_ who volunteered to lead workshops that will provide participants the opportunity to engage in in-depth discussion of topics related to that theme. The Fellowship’s Education Committee, responsible for organizing the event, promises to continue the tradition of high quality study experienced last summer. 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/The_Mighty_Messenger/2010_Winter/005726.jpg">
+<img src="/image/article/The_Mighty_Messenger/2010_Spring/005726.jpg">
 </figure>
 
 The three plenary speakers will be Michelle Klimesh, Andre Radatus, and Tamara Wood Strumfeld. Among the workshop presenters will be Angela Thurston, Vicki Arkens, Charles Olivea, David Glass, and Bill and Share Beasley. 
@@ -152,7 +152,7 @@ By _Cristina Seaborn_
 This is the fourth Parliament in which the Fellowship has participated. The previous Parliaments were in Chicago 1993; Cape Town, South Africa 1999; and Barcelona, Spain 2004. The Australia and New Zealand readers, ANZURA, sponsored and artfully organized _The Urantia Book_ booth, which the Fellowship, Urantia Foundation, and UAI co-funded.
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/The_Mighty_Messenger/2009_Winter/005727.jpg">
+<img src="/image/article/The_Mighty_Messenger/2010_Spring/005727.jpg">
 </figure>
 
 Top row: Cristina Seaborn, Paula Thompson, Buck Weimer, William Wentworth, Kathleen Swadling, Marvin Gawryn, Trevor Swadling, Jeff Cantin, Verner Verass, James Woodward, Verner Sutter Row 2: Susan Wentworth, Arlene Weimer, Francyl Gawryn, Doug Childers
@@ -171,7 +171,7 @@ Arlene Weimer commented that we were singing and dancing in our apartment (the C
 My favorite workshop was ‘Heaven is Not the Last Stop’ by Urantia Book reader Sheila Keene-Lund, who encouraged us to define our life’s goal, then measure our decisions and actions against that goal. Sheila has since given copies of her book to General Councilors, and it is a great guide for personal spiritual growth.
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2009_Winter/005728.jpg">
+<img src="/image/article/The_Mighty_Messenger/2010_Spring/005728.jpg">
 </figure>
 
 After this workshop, we met Reverend Peter Ravikumar from Madurai, India, who teaches at a school for the untouchables, the Tamilnadu Theological Seminary. His school may become a contact place for the International Outreach Committee in India. One of my favorite moments was playing music with Francyl Gawryn for two hours in the hallway. A Native man sitting behind us had a stream of visitors getting their moments of wisdom from a sage. I would also like to recommend Steve Rohrbach’s many photos available on the Parliament website, and Larry Geis as hospitality suite coordinator for any event!
@@ -185,7 +185,7 @@ Marvin Gawryn reported to the General Council that “A lot of people have worke
 The most powerful thing I heard at the Parliament was “Harness the Spiritual Revolution in Your Community!” Each one of us can define that in our own way according to where we live, then act on our spiritual impulse. Let’s support the creative translation of the Fifth Epochal Revelation to uplift people with cosmic consciousness!
 
 <figure id="Figure_5" class="image urantiapedia">
-<img src="/image/article/The_Mighty_Messenger/2009_Winter/005729.jpg">
+<img src="/image/article/The_Mighty_Messenger/2010_Spring/005729.jpg">
 </figure>
 
 > Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. If Christianity persists in neglecting spiritual mission while it continues to busy itself with social and material problems, the spiritual renaissance must await the coming of these new teachers of Jesus’ religion who will be exclusively devoted to the spiritual regeneration of men. And then will these spirit-born souls quickly supply the leadership and inspiration requisite for the social, moral, economic, and political reorganization of the world. [[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)]
@@ -212,7 +212,7 @@ I close this out with a promise to keep you posted on our progress. If any of yo
 We came together 
 
 <figure id="Figure_6" class="image urantiapedia">
-<img src="/image/article/The_Mighty_Messenger/2009_Winter/005730.jpg">
+<img src="/image/article/The_Mighty_Messenger/2010_Spring/005730.jpg">
 </figure>
 
 - Front row: Cece Forrester, Linda Buselli, Janet Falbo, Lila Dogim, Steve Dreier
@@ -225,11 +225,11 @@ We came together
 We Deliverate, We Visioned, We Socialized, We Worshiped
 
 <figure id="Figure_7" class="image urantiapedia">
-<img src="/image/article/The_Mighty_Messenger/2009_Winter/005731.jpg">
+<img src="/image/article/The_Mighty_Messenger/2010_Spring/005731.jpg">
 </figure>
 
 <figure id="Figure_8" class="image urantiapedia">
-<img src="/image/article/The_Mighty_Messenger/2009_Winter/005732.jpg">
+<img src="/image/article/The_Mighty_Messenger/2010_Spring/005732.jpg">
 </figure>
 
 ## This N’ That
@@ -265,7 +265,7 @@ www.urantiabook.org
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2010">
+        <a href="/en/index/articles_mighty_messenger#spring-2010-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2010 — Index</span>
         </a>
         </td>

@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Spring 2007 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, LGBT, Mighty Messenger, article
+tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2007">
+        <a href="/en/index/articles_mighty_messenger#spring-2007-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2007 — Index</span>
         </a>
         </td>
@@ -35,11 +35,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Embrace Cosmic Citizenship!
 
-Join us for the Fellowship Summer Study Session 2007, at Dominican University in River Forest, Illinois, a western suburb of Chicago, from 9:00 am Friday, July 20 through noon on Sunday, July 22. The accommodations Cosmic Citizenship, to be held are air-conditioned, and the beautiful campus is easily reached from O’Hare airport. Registration for conference attendees will begin at 3:00 pm on Thursday, July 19.
-
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2007_Spring/005648.jpg">
 </figure>
+
+Join us for the Fellowship Summer Study Session 2007, at Dominican University in River Forest, Illinois, a western suburb of Chicago, from 9:00 am Friday, July 20 through noon on Sunday, July 22. The accommodations Cosmic Citizenship, to be held are air-conditioned, and the beautiful campus is easily reached from O’Hare airport. Registration for conference attendees will begin at 3:00 pm on Thursday, July 19.
 
 In addition to the conference itself, the Triennial Delegate Assembly will meet on Thursday, July 19, at 9:00 am, and the General Council meeting will begin following lunch on Sunday. Gard Jameson will also host a spiritual retreat beginning at 8:00 am on Thursday through 8:00 A.M. on Friday. Please note that participants in the TDA or the retreat will need to include room reservations for Wednesday night in their plans.
 
@@ -60,7 +60,7 @@ The Heart of America Society (thank you Ken Raveill), The Urantia Foundation, an
 
 ## Buck Weimer New International Chair
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2006_Fall/Buck_Weimer.jpg">
 </figure>
 
@@ -98,7 +98,7 @@ Pato will be taking time out during his extensive tour schedule to provide grass
 
 Anyone interested in hosting a meeting with Pato in their area, please contact: Norman Ingram (Central Outreach Facilitator) at norlastar@aol.com or 562-698-2122.
 
-<figure id="Figure_4" class="image urantiapedia image-style-align-right">
+<figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2007_Spring/005650.jpg">
 </figure>
 
@@ -174,7 +174,7 @@ www.urantiabook.org
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2007">
+        <a href="/en/index/articles_mighty_messenger#spring-2007-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2007 — Index</span>
         </a>
         </td>

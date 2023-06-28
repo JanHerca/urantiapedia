@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Summer 2018 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, LGBT, Mighty Messenger, article
+tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#summer-2018">
+        <a href="/en/index/articles_mighty_messenger#summer-2018-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2018 — Index</span>
         </a>
         </td>
@@ -366,7 +366,7 @@ www.urantiabook.org
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#summer-2018">
+        <a href="/en/index/articles_mighty_messenger#summer-2018-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2018 — Index</span>
         </a>
         </td>

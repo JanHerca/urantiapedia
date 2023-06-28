@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Summer 1999 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, LGBT, Mighty Messenger, article
+tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#summer-1999">
+        <a href="/en/index/articles_mighty_messenger#summer-1999-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 1999 — Index</span>
         </a>
         </td>
@@ -70,7 +70,7 @@ _The Urantia Book_ Fellowship is looking for twelve young adults (17-25) to part
 
 ## The Deity Adventure
 
-by Alison Gardner and Sioux Harvey
+by _Alison Gardner and Sioux Harvey_
 
 The eight-person panel comprising the latest Wrightwood Series presentation on the subjectof cult is planning a major panel presentation and workshop at IC 99 in Vancouveron Day 3 (August 11): Quest for the Divine Presence in Our Human Institutions, in anticipation of the publication of this secondary work later this year. Here are some highlights. 
 
@@ -141,7 +141,7 @@ Currently available on the Fellowship web site is a wide range of historic docum
 
 ## Project Palomita
 
-by Rosey Lieske
+by _Rosey Lieske_
 
 “Palomita” (pahl-oh-MEET-ah) means “little dove” in Spanish. Project Palomita was founded six years ago when the Spanish translation first rolled off the presses. It's both a book-sending and cultural-exchange project to serve Latin American readers unable to afford the book, and to help create understanding between readers in the Americas. It's named after the symbol of the Holy Spirit, the messenger of peace, because the book itself containsa message of peace for all of us. 
 
@@ -213,7 +213,7 @@ Phone: 773-327-0424. Fax: 713-327-6159 email: fellowship@urantiabook.org website
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#summer-1999">
+        <a href="/en/index/articles_mighty_messenger#summer-1999-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 1999 — Index</span>
         </a>
         </td>

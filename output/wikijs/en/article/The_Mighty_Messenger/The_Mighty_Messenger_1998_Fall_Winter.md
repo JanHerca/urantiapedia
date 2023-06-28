@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Fall/Winter 1998 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Dissemination, The Urantia Book, Global Seeding, LGBT, Mighty Messenger, article
+tags: Dissemination, The Urantia Book, Global Seeding, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-winter-1998">
+        <a href="/en/index/articles_mighty_messenger#fall-winter-1998-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall/Winter 1998 — Index</span>
         </a>
         </td>
@@ -35,7 +35,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## How Is the Unity Initiative Going?
 
-by Janet Farrington-Graham, President
+by _Janet Farrington-Graham_, President
 
 During the past year members of the Fellowship have explored the issues and opportunities related to the unity initiative introduced by the Foundation Trustees in February 1997. As a result of this exploration, our comprehension of spiritual unity and our relationships with other readers, regardless of organizational affiliation, have grown significantly.
 
@@ -65,7 +65,7 @@ Alison Gardner welcomes input and interest from other readers as this work proce
 
 ## Urantia Book placement on the High Seas
 
-by Jerry Pando
+by _Jerry Pando_
 
 When the Golden Gate Society got involved with distributing remnants of the Uversa Press edition of _The Urantia Book_, I volunteered to serve as book steward. My role is to coordinate placement of these books for the society. My approach has been to encourage placements with “systems” such as city and county libraries. The Navy ship idea came from extending our placement aboard 10 merchant ships to include nuclear aircraft carriers and nuclear submarines due to their extended deployments. Having served as an officer in the U.S. Coast Guard, I am aware the services have standard distribution lists. I have a standard letter to the Commanding Officer, which I include with each book.
 
@@ -75,9 +75,9 @@ Even though placement of the books has been rewarding for all involved, I found 
 
 ## Upcoming Events
 
-February 5-7 — Fellowship General Council Meeting, Carlsbad, CA. General Council meetings are open to Fellowship members. For more information, contact _The Urantia Book_ Fellowship at (773) 327-042,1; e-mail: fellowship@ urantiabook.org. 
+February 5-7 — Fellowship General Council Meeting, Carlsbad, CA. General Council meetings are open to Fellowship members. For more information, contact _The Urantia Book_ Fellowship at (773) 327-042,1; e-mail: fellowship@urantiabook.org. 
 
-March 21-28 — Society of Greater New York Retreat, Warwick Center, Warwick, NY. A weckend of study, worship and reversion in a bucolic setting. For more information, contact Gary Deinstadt (914) 276-1026; e-mail: deinstadt@ cyburban.com. 
+March 21-28 — Society of Greater New York Retreat, Warwick Center, Warwick, NY. A weckend of study, worship and reversion in a bucolic setting. For more information, contact Gary Deinstadt (914) 276-1026; e-mail: deinstadt@cyburban.com. 
 
 April 29-May 2 — United States Urantia Associatíon Study Conference, Nashville, TN. For more information, call Urantia Foundation (773) 525-3319.
 
@@ -85,7 +85,7 @@ For more detail on events listed above or to find out about other events not lis
 
 ## Societies—A brief history and current thoughts
 
-By Carolyn Kendall
+By _Carolyn Kendall_
 
 Societies are not quite as old as the Fellowship (formerly known as Urantia Brotherhood). The Brotherhood was founded January 2, 1955, whereas the first society was not chartered until June of 1956. The concept behind the formation of societies was that they were to be where the real action takes place. Although the Constitution is purposely vague, it was understood that societies were primarily to foster formation of new study groups in their immediate areas. The society was to be the Brotherhood to new readers in a geographic area and steer them to groups where they would be happy. Society study groups would be where readers share their interpretations of the teachings and offer opportunities for students to hone their teaching skills in a friendly environment. Over the years societies have undertaken these and additional functions: library book placement, regional conferences, newsletters, worship services, and community ministry to those in need. Societies are autonomous; the Fellowship may not prescribe or interfere with internal activities.
 
@@ -97,7 +97,7 @@ The many websites that feature information about _The Urantia Book_ and related 
 
 ## New York outreach
 
-by Gary Deinstadt
+by _Gary Deinstadt_
 
 When I became president of the Society of Greater New York for Readers of _The Urantia Book_ about a year and half ago, some people came to me sharing their ideas and interests for outreach. As a result, the ad-hoc Outreach Committee was formed. This committee has provided the venue for various interests in outreach with group participation and Society support. We meet once a month. Our chair, Dale Sztejnberg, has collected all our ideas and has submitted them to the Society for moral and financial support. With Society support, individuats and the group have been empowered to break new ground in outreach. Our Outreach Committee members are: Nick Curto, Dale Sztejnberg, Robin Jorgensen, Phil Shiffman, Al Lockett, Doreen Heyne, Les Jamieson and myself.
 
@@ -113,7 +113,7 @@ According to Christel Garrick, one of the group's organizers who spoke to the Mi
 
 ## Florida students of The Urantia Book
 
-by Tom French
+by _Tom French_
 
 Florida Students of _The Urantia Book_ (FSUB) is a group comprising readers from various parts of Florida and was organized over ten years ago for the purpose of promoting and publicizing _The Urantia Book_ and related study groups. 
 
@@ -153,7 +153,7 @@ Members: Avi Dogim, Chair Nancy Johnson, Carolyn Kendall, Linda Buselli, Sage Wa
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-winter-1998">
+        <a href="/en/index/articles_mighty_messenger#fall-winter-1998-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall/Winter 1998 — Index</span>
         </a>
         </td>

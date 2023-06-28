@@ -16,7 +16,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#summer-1997">
+        <a href="/en/index/articles_mighty_messenger#summer-1997-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 1997 — Index</span>
         </a>
         </td>
@@ -195,7 +195,7 @@ A proposal was made to seek for a 24-hour religious cease-fire on December 31, 1
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#summer-1997">
+        <a href="/en/index/articles_mighty_messenger#summer-1997-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 1997 — Index</span>
         </a>
         </td>

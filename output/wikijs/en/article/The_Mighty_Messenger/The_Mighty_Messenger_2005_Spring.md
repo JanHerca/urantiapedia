@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Spring 2005 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, LGBT, Mighty Messenger, article
+tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2005">
+        <a href="/en/index/articles_mighty_messenger#spring-2005-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2005 — Index</span>
         </a>
         </td>
@@ -74,7 +74,7 @@ After months of preliminary work on a logo design for the Fellowship, Robert Bur
 
 Uversa Press reports that the printing of 5,000 hardback copies of _The Urantia Book_ is proceeding apace and is expected to be completed in time for IC’05. As reported earlier, this printing was made possible through a generous donation from one of our friends and fellow readers. John Hay has proposed an ambitious marketing plan for the book which we hope will increase the book’s distribution.
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-right">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2005_Spring/005607.jpg">
 </figure>
 
@@ -82,7 +82,12 @@ Uversa Press reports that the printing of 5,000 hardback copies of _The Urantia 
 
 Old friendships were strengthened and new ones made during a two-week trip to Latin America by several members of the Fellowship’s International Committee last February. General Councilors David Kantor, Augustin Arellano, and Susan Ransbottom were among the participants. 
 
-The first stop was San Jose, Costa Rica, for a 3-day conference. About 40 people attended, and this was the first time many of them had met with other readers. Enthusiasm was high, and commitments were made to form seven new study groups to be located in different places throughout the country. Local readers gave the American visitors a delightful tour of the Costa Rican countryside, including a trip to the top of one of the volcanoes. 
+<figure id="Figure_2" class="image urantiapedia image-style-align-left">
+<img src="/image/article/The_Mighty_Messenger/2005_Spring/005608.jpg">
+<figcaption><em>Susan Ransbottom and Agustin Arellano answer questions about The Urantia Book on live radio program in Guayaquil, Ecuador.</em></figcaption>
+</figure>
+
+The first stop was San Jose, Costa Rica, for a 3-day conference. About 40 people attended, and this was the first time many of them had met with other readers. Enthusiasm was high, and commitments were made to form seven new study groups to be located in different places throughout the country. Local readers gave the American visitors a delightful tour of the Costa Rican countryside, including a trip to the top of one of the volcanoes.
 
 The group’s arrival in Guayaquil, Ecuador found a number of readers waiting to greet them, eager to ask questions about the book. The following day, David, Augustin, and Susan did their first of several radio programs. These programs have proved to be successful at inspiring new study group formation. Newspaper articles appeared about the conference as well as a large paid ad the local readers took out. 
 
@@ -90,21 +95,15 @@ Many hours were spent in planning for the Conference of the Three Americas to be
 
 For more information on the Mazatlan conference in May, check the “What’s New” page on the Fellowship website: www.urantiabook.org. 
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2005_Spring/005608.jpg">
-<figcaption><em>Susan Ransbottom and Agustin Arellano answer questions about The Urantia Book on live radio program in Guayaquil, Ecuador.</em></figcaption>
-</figure>
-
-<figure id="Figure_3" class="image urantiapedia image-style-align-right">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2005_Spring/005609.jpg">
 <figcaption><em>Minister who uses The Urantia Book in his church in San Jose, Costa Rica, participates in discussion during conference.</em></figcaption>
 </figure>
 
-<figure id="Figure_4" class="image urantiapedia image-style-align-right">
+<figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2005_Spring/005610.jpg">
 <figcaption><em>Public meeting in Guayaquil, Ecuador, to introduce The Urantia Book.</em></figcaption>
 </figure>
-
 
 ## Cultivating the Spirit of Religion
 
@@ -148,6 +147,11 @@ Requirements are very simple. Photographs should be accompanied by a caption or 
 
 ## Let There Be Light…
 
+<figure id="Figure_5" class="image urantiapedia image-style-align-right">
+<img src="/image/article/The_Mighty_Messenger/2005_Spring/005611.jpg">
+<figcaption><em>Barb Newsom lights a candle representing a major world religion during holiday program in Chicago.</em></figcaption>
+</figure>
+
 For many years the First Society (Chicago) has planned a program around the Christmas holidays, often jointly with the Chicago area IUA group. On December 11, at their Festival of the World’s Religions, they reviewed “Religions of the 20th Century.” The program, held at 533 Diversey, included presentations on various religious traditions by individuals from both groups. 
 
 The program centered about light, as light seems to have special importance in every religion. Thus, candles representing many different religions were lit in turn, and the ceremony included the lighting of a menorah in acknowledgement of Chanukah. 
@@ -155,11 +159,6 @@ The program centered about light, as light seems to have special importance in e
 This holiday tradition began many years ago when the revelatory commission suggested to the Forum that they might not wish to discontinue the customary celebration of Christmas within their families, but that they could instead add an observance honoring great religious teachers of the past and present, or presentations about the world’s religions. 
 
 About 55 people attended the festivities which included a potluck buffet and a party, and the old Forum room was decorated with generations of collected holiday decorations.
-
-<figure id="Figure_5" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2005_Spring/005611.jpg">
-<figcaption><em>Barb Newsom lights a candle representing a major world religion during holiday program in Chicago.</em></figcaption>
-</figure>
 
 ## Interfaith Action in Our World
 
@@ -185,17 +184,19 @@ This event has been designed to be as inexpensive as possible to draw all to its
 
 ## New General Council Member
 
-**Barbara Newsom**
-
 <figure id="Figure_6" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2005_Spring/005612.jpg">
 </figure>
+
+**Barbara Newsom**
 
 Study groups are my first love. Raised in Wichita, Kansas, I became active in study groups in 1965 and later in Oklahoma and the Kansas City area. In 1975 I moved to Chicago and was employed by Urantia Brotherhood and Urantia Foundation from 1975-1976. I now serve the First Society on their governing committee and I was their Triennial Delegate in 2003. 
 
 Serving again on the General Council comes as both a surprise and a joy to me. From 1976-1985, I served a nine-year term on the Council and also on the Executive Committee as Publications Committee Chair, then on the Special Projects Committee from 1987 to the present, specializing in Urantia organization archives and history. In 2000, I joined the IUA; and I was on the steering committee for the 2004 International IUA Conference in the Chicago area. 
 
 I am devoted to enhancing the coordination and cooperation of readers around the word as our beloved revelation spreads. My career as a training and development consultant has allowed me to visit study groups as I travel for business, and I hope my 40 years of experience with Urantia study groups will help in the creation and support of thousands of new study groups worldwide.
+
+<br>
 
 ## Jerusalem Marketplace — Shop Assistants Sought
 
@@ -296,7 +297,7 @@ www.urantiabook.org
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2005">
+        <a href="/en/index/articles_mighty_messenger#spring-2005-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2005 — Index</span>
         </a>
         </td>
