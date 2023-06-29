@@ -39,9 +39,9 @@ dateCreated: 2023-6-21T8:13:38Z
 
 A note from your Publications Chair:
 
-This Mighty Messenger is dedicated to "what we do" as The Urantia Book Fellowship. I have asked each officer and committee chair to submit an article. Enjoy the service these folks offer our community!
+This Mighty Messenger is dedicated to "what we do" as _The Urantia Book_ Fellowship. I have asked each officer and committee chair to submit an article. Enjoy the service these folks offer our community!
 
-Cristina Seaborn, Publications Committee Chair of The Urantia Book Fellowship.
+Cristina Seaborn, Publications Committee Chair of _The Urantia Book_ Fellowship.
 
 Cover Artwork:
 **"DIVINE INVASION"**

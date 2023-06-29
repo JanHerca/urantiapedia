@@ -39,7 +39,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 You may see [in text citations](https://en.wikipedia.org/wiki/Citation) for Urantia Book quotations in this publication that look like this: ([UB 62:5.1](/en/The_Urantia_Book/62#p5_1)). The “62:5.1” portion can be used to look in a _Urantia Book_ at paper 62, section 5, paragraph 1. The “707.7” portion can be used to look in a Urantia Book published by Urantia Foundation before 2009 on page 707, paragraph 7. These citations may also include an embedded URL link that can take you to the quotation within _The Urantia Book_. 
 
-These citations show the source of the quotation as coming from  The Urantia Book  Standard Reference Text. The entire notation  sequence can be represented as (paper:section.paragraph \[page.paragraph\]). For more information see: [https://urantiabook.org/what-is-the-standard-reference-text-Urantia-Book](https://urantiabook.org/what-is-the-standard-reference-text-Urantia-Book) and [https://urantiabook.org/text-standardization-Urantia-Book](https://urantiabook.org/text-standardization-Urantia-Book) 
+These citations show the source of the quotation as coming from  _The Urantia Book_  Standard Reference Text. The entire notation  sequence can be represented as (paper:section.paragraph \[page.paragraph\]). For more information see: [https://urantiabook.org/what-is-the-standard-reference-text-Urantia-Book](https://urantiabook.org/what-is-the-standard-reference-text-Urantia-Book) and [https://urantiabook.org/text-standardization-Urantia-Book](https://urantiabook.org/text-standardization-Urantia-Book) 
 
 > **NOTE FROM URANTIAPEDIA EDITORS**
 > 
@@ -48,9 +48,9 @@ These citations show the source of the quotation as coming from  The Urantia Boo
 
 ## DISCLAIMER STATEMENT 
 
-We strive to publish a variety of views, understanding that students of  The Urantia Book  can differ significantly in their interpretations of the teachings. The opinions and descriptions of the authors do not necessarily reflect the views of the Fellowship or initiatives that the Fellowship supports. Articles are being published in the interest of allowing the expression of a diversity o f v iewpoints held within the reader community. 
+We strive to publish a variety of views, understanding that students of  _The Urantia Book_  can differ significantly in their interpretations of the teachings. The opinions and descriptions of the authors do not necessarily reflect the views of the Fellowship or initiatives that the Fellowship supports. Articles are being published in the interest of allowing the expression of a diversity o f v iewpoints held within the reader community. 
 
-Mighty Messenger is a publication of The Urantia Book Fellowship 
+Mighty Messenger is a publication of _The Urantia Book_ Fellowship 
 1580 Grand Point Way #34743 
 Reno, NV 89533 USA 
 (303) 456 4471 

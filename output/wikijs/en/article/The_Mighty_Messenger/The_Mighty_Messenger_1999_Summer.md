@@ -166,7 +166,7 @@ Cultural exchange projects have entailed going down into these countries to part
 <figcaption><em>Outdoor theater scene at Camp Buckner near Kingsland, TX</em></figcaption>
 </figure>
 
-## Calling a Choir of Angles!
+## Calling a Choir of Angels!
 
 Know all things heavenly...
 
@@ -194,7 +194,9 @@ Interested vocalists and instrumentalists contact Barbara Hester at bhester@tele
 
 ## Mighty Messenger
 
-Published quarterly by Uversa Press for the Publications Commiltee of _The Urantia Book_ Fellowship Members: Avi Dogim, Chair Nancy Johnson, Carolyn Kendall, Linda Buselli, Sage Waitts, Gary Deinstadt
+Published quarterly by Uversa Press for the Publications Committee of _The Urantia Book_ Fellowship 
+
+Members: Avi Dogim, Chair Nancy Johnson, Carolyn Kendall, Linda Buselli, Sage Waitts, Gary Deinstadt
 
 Phone: 773-327-0424. Fax: 713-327-6159 email: fellowship@urantiabook.org website: http://www.ubfellowship.org
 

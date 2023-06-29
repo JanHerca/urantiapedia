@@ -107,9 +107,9 @@ Having lived in several different countries, I know firsthand that what is consi
 
 Whenever people get together around a religious teaching, they tend to develop rituals which will attract some and repel others. We who have been given this revelation early must realize the responsibility that has been placed in our hands. If we start a Urantia Church before the book has spread to all the world, and develop ceremonies and rites that are considered American, potential readers in other countries may be turned off. Urantia Book readers hug each other a lot; yet I once lived in a country where people did not openly touch each other. If they saw a group with a big blue book publicly hugging, they might say, “That book is not for me.” And this is only one example悠 can think of many more.
 
-“No revealed religion can spread to all the world when it makes the serious mistake of becoming permeated with some national culture or associated with established racial, social, or economic practices” (2064).
+> “No revealed religion can spread to all the world when it makes the serious mistake of becoming permeated with some national culture or associated with established racial, social, or economic practices” ([UB 194:3.9](/en/The_Urantia_Book/194#p3_9)).
 
-“The gospel of the kingdom was to be identified with no particular race, culture, or language” (2064).
+> “The gospel of the kingdom was to be identified with no particular race, culture, or language” ([UB 194:3.9](/en/The_Urantia_Book/194#p3_9)).
 
 Rather than form a church just yet, let's remain a low-key brotherhood, forget about ourselves, and do whatever we can to get the teachings into the hands of educated people in all countries of the world. Let's exercise patience and self-restraint, and consider the needs of those who still need books and translations. When later we follow the growth of the Urantia movement from our various mansion world vantage points, do we want to look back and see that it failed because it had become a Westernized religion?
 

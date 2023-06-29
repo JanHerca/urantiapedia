@@ -47,7 +47,7 @@ Scan for electronic version of this Mighty Messenger
 
 ## The Mighty Messenger Staff
 
-Published by Uversa Press for the Publications Committee of The Urantia Book Fellowship.
+Published by Uversa Press for the Publications Committee of _The Urantia Book_ Fellowship.
 
 Publications Committee:
 - Cristina Seaborn, Chair

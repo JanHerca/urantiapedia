@@ -181,7 +181,7 @@ images---
 
 ## Happy 50th Video
 
-As you know next year is the 50th birthday of _The Urantia Book_. A large part of IC05 will be in celebration of this incredible event. I'm putting together a video for the conference of study groups, societies, IUA groups, trustees etc. saying “Harry Birthday” to _The Urantia Book_. Get to me a videotape or DVD of your group. In order to allow as many groups as possible to participate, it shouldn't be any longer than 30 to 40 seconds. We need you to make this memorable event in history a successful one. Let's give readers of the futute something that can play at their centennial conference. It's going to take time to edit, add music etc. So, get creative and get it to me no later than March 1st. Gary Deinstadt. c/o The Urantia Book Fellowship, P.O. Box 4583, Grand Central station, New York, NY 10163 or e-mail me at dynstat@optonline.net
+As you know next year is the 50th birthday of _The Urantia Book_. A large part of IC05 will be in celebration of this incredible event. I'm putting together a video for the conference of study groups, societies, IUA groups, trustees etc. saying “Harry Birthday” to _The Urantia Book_. Get to me a videotape or DVD of your group. In order to allow as many groups as possible to participate, it shouldn't be any longer than 30 to 40 seconds. We need you to make this memorable event in history a successful one. Let's give readers of the futute something that can play at their centennial conference. It's going to take time to edit, add music etc. So, get creative and get it to me no later than March 1st. Gary Deinstadt. c/o _The Urantia Book_ Fellowship, P.O. Box 4583, Grand Central station, New York, NY 10163 or e-mail me at dynstat@optonline.net
 
 
 ## We need you...
