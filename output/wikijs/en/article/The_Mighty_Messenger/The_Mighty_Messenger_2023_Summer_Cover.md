@@ -55,7 +55,11 @@ Mighty Messenger is a publication of The Urantia Book Fellowship
 Reno, NV 89533 USA 
 (303) 456 4471 
 
+## External Links
 
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2023-05-English-Spring.pdf
+
+<br>
 
 
 

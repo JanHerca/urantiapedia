@@ -84,6 +84,12 @@ https://www.youtube.com/watch?v=NBny4fEfXg
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/014.jpg">
 </figure>
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Spring.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -122,6 +122,12 @@ From one of Jairo's videos on YouTube. Search for Jairo Miranda Urantia on YouTu
 
 We are very excited about the growth of our Latin American reader groups and look forward to the great service work this dedicated and devoted team is providing to reader communities across the region. As this project continues to grow we will share stories and updates along the way. You can see updates at [urantiabook.org/Second-Miler-Pablo-Morales/](https://urantiabook.org/Second-Miler-Pablo-Morales/).
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2021-03-21-Spring.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -1,6 +1,6 @@
 ---
 title: "My Grandmother the Survivor"
-description: "The Mighty Messenger — Fall 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Fall 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Adversity, Mighty Messenger, article
@@ -42,11 +42,11 @@ by _Paula Thompson_
 
 I woke up the other day with the haunting news of this ongoing pandemic still in my head and I started thinking of my own paternal grandmother. Her maiden name was Mae Porter. She had no middle name. As I woke, I began reflecting on her life. I know her history so well because I always listened attentively to her colorful stories. Mae was a master storyteller and she lived to be 90-yearsold. While contemplating all of the challenges she faced in her life, it helped me to put these current challenges into perspective, and that gave me peace. For me, my grandmother embodied this Urantia Book teaching, “The greatest affliction of the cosmos is never to have been afflicted. Mortals only learn wisdom by experiencing tribulation.” [UB 48:7.14](/en/The_Urantia_Book/48#p7_14)
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-left">
+Mae Porter was born in 1892 in a poor farming community in Iowa. She was the first born in her family of five. Her mother and two siblings died of TB when she was three, after her family had moved into an infected cabin. She and her father were the only ones who survived. He subsequently married a woman who had a farm but no husband. It worked well for him because he was a farmer who had no farm, and had a 3-year-old daughter with nobody to care for her.
+
+<figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/028_2.jpg">
 </figure>
-
-Mae Porter was born in 1892 in a poor farming community in Iowa. She was the first born in her family of five. Her mother and two siblings died of TB when she was three, after her family had moved into an infected cabin. She and her father were the only ones who survived. He subsequently married a woman who had a farm but no husband. It worked well for him because he was a farmer who had no farm, and had a 3-year-old daughter with nobody to care for her.
 
 Mae lived for 9 decades. The first decade of her life was spent trying to survive the tyranny of her stepmother, who despised her and tried to kill her, more than once. When she was just 8-years-old, her stepmother took a piece of hardwood and beat her so hard that it broke her hip. That injury left her with lifelong pain and a limp. Her father ignored the neglect and abuse. He and stepmother went on to have eight more children. From the age of four, Mae had to do strenuous chores and care for her younger siblings.
 
@@ -54,7 +54,7 @@ Mae found peace and salvation as a child in the rare visits she made to her mate
 
 During the second decade of her life she became a mother; she married Floyd Garrett at the age of 16. Most of life was a struggle to make ends meet for herself and her family. Life was not easy in rural Iowa in the early 1900s. They had very little and she worked very hard.
 
-<figure id="Figure_3" class="image urantiapedia image-style-align-right">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/028_3.jpg">
 </figure>
 
@@ -66,7 +66,7 @@ The Spanish Flu Pandemic and WWI characterized the third decade of her life. She
 
 The Great Depression characterized the fourth decade of her life. Her husband had a job, and she spent much of her time sharing food and baked goods with the jobless and homeless. She would meet them in the alley behind her home in Denver. She loved giving and serving.
 
-<figure id="Figure_5" class="image urantiapedia image-style-align-left">
+<figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/028_5.jpg">
 </figure>
 
@@ -82,7 +82,7 @@ By the seventh decade of her life, she experienced the trauma of three assassina
 
 Mae lived until the summer of 1982; she was 90 years of age when she died.
 
-<figure id="Figure_7" class="image urantiapedia image-style-align-right">
+<figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/030.jpg">
 </figure>
 
@@ -92,12 +92,16 @@ The insight I had as I awoke the other day, thinking of all of this and remember
 
 Therefore, to you, gentle reader, I send all the love in my heart today and pray for your well-being and strength to get through this, our current, tribulation.
 
-<figure id="Figure_8" class="image urantiapedia image-style-align-right">
+<figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/029.jpg">
 <figcaption><em>Mae Porter </em></figcaption>
 </figure>
 
+## External Links
 
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

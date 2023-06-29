@@ -50,6 +50,12 @@ The link to all of the photos I have received is HERE. There is a link on each p
 
 To donate to the Pipeline of Light go to: https://tinyurl.com/PipelineOfLight
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

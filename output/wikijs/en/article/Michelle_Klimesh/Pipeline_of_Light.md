@@ -1,6 +1,6 @@
 ---
 title: "Pipeline of Light"
-description: "The Mighty Messenger — Spring 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Spring 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Mighty Messenger, article
@@ -54,7 +54,7 @@ _The Urantia Book_ Fellowship, PO Box 6631, Broomfield, CO 80021 Thank you so mu
 
 Michelle Klimesh, Pipeline Reporter
 
-## P.S. from Michelle Xlimesh
+## P.S. from Michelle Klimesh
 
 Dear Friends,
 
@@ -65,6 +65,12 @@ So THANK YOU to DEREK and PAULA in the office, SOREN and MICHAEL in the field, a
 Pipeline placement = planting seeds. Thanks for your support.
 
 > The current effort brings our Pipeline all-time totals to nine thousand, four hundred and seventy-eight copies of _The Urantia Book_ placed into ninety countries around the world.
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/WEB-VERSION-MMApril20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

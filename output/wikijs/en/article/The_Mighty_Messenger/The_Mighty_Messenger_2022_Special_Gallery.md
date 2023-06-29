@@ -120,6 +120,12 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/EBooks/Sources%20of%20Revelatory%20Insight.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

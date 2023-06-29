@@ -62,6 +62,12 @@ The luckiest and the hardiest will themselves become super-spreaders. They will 
 
 Take note-there is no known vaccine, and no pill designed to foster any level of immunity. At some time in your life, if not already, you will encounter it. When you do, look deep inside. Allow God's spirit that lives within you to guide your reaction. 
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2022-06-Stepping-Stones.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

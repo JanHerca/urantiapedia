@@ -58,6 +58,12 @@ Revised by the Executive Committee 09/17/2020
 
 Fellowship's Project Promotion Policy 
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2021-03-21-Spring.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

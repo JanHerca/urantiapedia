@@ -1,6 +1,6 @@
 ---
 title: "End page"
-description: "The Mighty Messenger — Fall 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Fall 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Urantia Movement Event, Mighty Messenger, article
@@ -41,9 +41,15 @@ dateCreated: 2023-6-21T8:13:38Z
 
 Scan for electronic version of this Mighty Messenger
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/068.jpg">
 </figure>
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

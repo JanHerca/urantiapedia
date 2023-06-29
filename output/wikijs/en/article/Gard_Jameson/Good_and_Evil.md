@@ -58,7 +58,7 @@ This statement clearly establishes that: there are true and absolute values whic
 
 In understanding the relativity of goodness in relation to its absolute ground, it is perhaps worthwhile to share a story. There was once a Rabbi who had two very bright students. They were all discussing the nature of truth when one of the students, Isaac, looked at the Rabbi and asked: “Truth is relative, yes?” The great Rabbi responded: “True!” Upon hearing this the other student, Jacob, asked: “But Rabbi, if God is eternal, infinite, and universal, truth must therefore be absolute, yes?” Once again, the great Rabbi responded emphatically: “True!” The Rabbi’s assistant exclaimed: “This is going to be a public relations and theological nightmare; it will not sit well with the congregation.” The Rabbi turned toward his assistant with a smile and said: “True!” 
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-right">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/023.jpg">
 <figcaption><em>Epicurus </em> by Eutichio Ajello [Museo del Prado]  </figcaption>
 </figure>
@@ -81,7 +81,7 @@ Goodness is known in its relation to both the possibility and actuality of evil.
 
 In the spiritual realm, humanity has free will. We can actually “*make a gift to God— dedication of the free will to the doing of the will of God*.” [[UB 112:0.10](/en/The_Urantia_Book/112#p0_10)] Life has many choices. We each choose the values by which we live. Those choices are predicated upon our basic assumptions about existence, as well as upon our basic attitudes toward life. 
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/024.jpg">
 <figcaption><em>Shutterstock 1504121</em> </figcaption>
 </figure>
@@ -200,6 +200,12 @@ Our moral will is indissolubly linked to the idea of being *a person*; it provid
 <figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/029.jpg">
 </figure>
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/EBooks/Sources%20of%20Revelatory%20Insight.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

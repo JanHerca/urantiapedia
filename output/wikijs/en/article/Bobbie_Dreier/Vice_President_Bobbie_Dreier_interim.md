@@ -44,6 +44,12 @@ Section 9.4. VicePresident: In the event of the inability of the President to ac
 
 I agreed to be nominated as it seemed highly unlikely that Geoff would be unable to act as president, and having been involved in many aspects of Fellowship functioning for 45 years I suspected that I would be able to perform “such other duties and exercises” that might be imposed on me. Since being elected to the General Council I have either attended or observed EC meetings, and I look forward to adding my voice to the EC's variety of diverse and thoughtful discussions until October when the General Council will fill the position for the balance of the term. 
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

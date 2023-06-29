@@ -54,6 +54,12 @@ The purposes of _The Urantia Book_ Fellowship are to foster and support an evolv
 <img src="/image/article/The_Mighty_Messenger/2022_Summer/005.jpg">
 </figure>
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2022-06-Stepping-Stones.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

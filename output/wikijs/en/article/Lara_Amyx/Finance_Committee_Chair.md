@@ -59,6 +59,12 @@ Broomfield, CO 80021
 
 Thank you so much for your support. We couldn't do it without you! 
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

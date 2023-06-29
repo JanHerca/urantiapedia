@@ -36,6 +36,12 @@ dateCreated: 2023-6-21T8:13:38Z
 
 The Fellowship Team is composed of the Judicial, Membership, Education, and Finance Committees. As chair, I coordinate information and integrate activities among the four committees and the Executive Committee. The constitution recently has been amended to include Service Teams in an effort to help the committees cooperate in creating service projects. This year Membership, Education and Outreach provided a Society Conclave at SSS'19, and currently Membership and Education are working on a project to reinvigorate inactive societies.
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

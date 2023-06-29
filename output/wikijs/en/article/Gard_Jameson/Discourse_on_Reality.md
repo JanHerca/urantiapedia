@@ -40,7 +40,7 @@ There are three segments that follow: The Urantia Book **(TUB)**, the Human Sour
 
 > **(TUB) “** The night before they left Alexandria Ganid and Jesus had a long visit with one of the government professors at the university who lectured on the teachings of Plato. Jesus interpreted for the learned Greek teacher but injected no teaching of his own in refutation of Greek [philosophy](http://en.wikipedia.org/wiki/Greek_philosophy). Gonod was away on business that evening; so, after the professor had departed, the teacher and his pupil had a long and heart-to-heart talk about [Plato’s doctrines](http://en.wikipedia.org/wiki/Platonic_epistemology). While Jesus gave qualified approval of some of the Greek teachings which had to do with **the theory that the material things of the world are shadowy reflections of invisible but more substantial spiritual realities**, he sought to lay a more trustworthy foundation for the lad's thinking; so he began a long dissertation concerning **the nature of reality in the universe**. In substance and in modern phraseology Jesus said to Ganid:” [[*The Urantia Book* [UB 130:4.1](/en/The_Urantia_Book/130#p4_1)]]
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-right">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/010.jpg">
 <figcaption><em>Jesus and Ganid at the Great Lighthouse</em> by Slawa Radziszewska </figcaption>
 </figure>
@@ -181,7 +181,7 @@ As persons we have both a moral or horizontal dimension, our *interassociation* 
 
 \*\*\*\*\*\*\* 
 
-<figure id="Figure_5" class="image urantiapedia image-style-align-right">
+<figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/016.jpg">
 </figure>
 
@@ -286,6 +286,12 @@ The great mystery of existence is how God, in whom we move, live, and have our b
 
 
 > A one-eyed person can never hope to visualize depth of perspective. Neither can single-eyed material scientists nor single-eyed spiritual mystics and allegorists correctly visualize and adequately comprehend the true depths of universe reality. *The Urantia Book,* [UB 130:4.4](/en/The_Urantia_Book/130#p4_4)
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/EBooks/Sources%20of%20Revelatory%20Insight.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

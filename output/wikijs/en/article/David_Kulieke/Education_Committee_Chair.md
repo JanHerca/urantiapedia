@@ -80,6 +80,12 @@ David Kulieke has been chair of the Education Committee since 2012, which he con
 
 > “The entire universe is one vast school.” [UB 37:6.2](/en/The_Urantia_Book/37#p6_2)
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -54,6 +54,12 @@ What could I share with this amazing group of beings? What did I have that was u
 
 Love you all so much, May we all more fully turn our lives over to that source of grace within.
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Spring.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -52,6 +52,12 @@ My observation is that the newly structured Executive Committee is working well 
 
 One of the justifications for the new structure was the desire of some committee members to do the work without having the travel and expense of attending four EC meetings a year. The use of regular Zoom meetings and fewer face to face meetings has somewhat diminished that objection. And personally I miss all the variety and wisdom of the voices on the EC! 
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

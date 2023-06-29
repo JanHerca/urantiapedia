@@ -41,7 +41,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 Scan for electronic version of this Mighty Messenger
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-right">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/056.jpg">
 </figure>
 
@@ -57,9 +57,15 @@ Publications Committee:
 - Stephen Sawyer
 - Cece Forrester
 
-877.288 .3772
+877.288.3772
 fellowship@urantiabook.org 
 www.urantiabook.org
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2021-03-21-Spring.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

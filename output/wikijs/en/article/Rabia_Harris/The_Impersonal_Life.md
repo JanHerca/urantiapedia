@@ -46,6 +46,10 @@ Eventually, I felt led to pass my copy of _The Impersonal Life_ to a friend who 
 
 In the early 1990s, I received my first Urantia Book from a dear friend who reverently presented it to me, declaring that he believed the book to be a sacred revelation. For three years, this large tome sat on a shelf as I never seemed capable of groping my way through the “Foreword.” Then, a client who read the book suggested that I start with “Part IV.” Obviously, that was divine intervention, for I couldn't stop studying it, eventually reading _The Urantia Book_ cover to cover, backwards by section! Study groups in Austin, TX, Boulder, CO, East Tennessee, and Asheville, NC, reinforced my devotion to these inspiring contemporary scriptures. Attending various gatherings of Urantia Book “readers” (I prefer the term “students”) brought an even stronger connection to this evolving global spiritual community called “The Urantia Movement.”
 
+<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<img src="/image/article/The_Mighty_Messenger/2022_Summer/023.jpg">
+</figure>
+
 The teachings on the “Thought Adjuster,” _The Urantia Book_'s term for our divine spirit within, have been incredibly meaningful to me. I had already come to understand, through healing modality training, that there is a “Higher Self” we could connect to who guides us in our work. Diligent contemplation of these concepts gave me a more expansive understanding of this divine spirit within. Those papers (which are chapters in _The Urantia Book_) have been read often and discussed with other Urantia Book students. At a Urantia Book retreat in North Carolina, during a workshop on the “Mystery Monitor,” (another Urantia Book term for the Thought Adjuster), we were encouraged to name our own. Mine seems feminine though there is no attribution to any gender in _The Urantia Book_ to Mystery Monitors. I call her “Divinia.” Though she may be impersonal, she has come to feel very personal to me!
 
 Jesus' example and teachings of God's will, revealed in _The Urantia Book_, has long inspired me to surrender to God daily. My inner guidance has become more trustworthy as I have lived this practice in my everyday life. “Turning it over to God” has become so familiar to me now; as I witness serendipity and miracles continue to manifest, the thought of deferring to the needs and fears of my lower nature now seems foolish and self-sabotaging. God only wants our good!
@@ -58,10 +62,6 @@ The following text is taken from a handwritten letter by the author:
 
 > August 13, 1916-Dear God Thou AllProvider, Thou Who art my Inexhaustible Supply, my Sufficiency in all things: I hereby covenant with Thee to devote my life and everything Thou givest me in Thy Service; to work henceforth only for Thee, letting Thee guide and direct me in all things. In return I ask only for Wisdom and Understanding that I may know Thy Will and Thy Meaning when Thou speakest, and for Strength never to doubt Thy unfailing Supply and Support. Joseph S. Benner
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2022_Summer/023.jpg">
-</figure>
-
 This illuminating treasure (The Impersonal Life), in both text and audio format, can be downloaded free from the internet at [https://theimpersonallife.weebly.com/theimpersonal-life.html](https://theimpersonallife.weebly.com/the-impersonal-life.html). Both new and used books are available from many sources at quite reasonable prices.
 
 > Eliria (Rabia) Harris is an interfaith minister with the Alliance of Divine Love as well as a healing prayer minister with the Order of St. Luke the Physician, an international ecumenical ministry. She volunteers for ecumenical Taize' services at the local Episcopal church. Rabia (her interfaith Sufi name) now lives in Abingdon, Virginia, and occasionally officiates at weddings. She performed a Urantia-Book-inspired ceremony for a couple in North Carolina while still living there, and would be honored to do so again.
@@ -71,6 +71,12 @@ This illuminating treasure (The Impersonal Life), in both text and audio format,
 {.is-info}
 
 > The voice speaking, called the “I AM,” is of course that same “My Presence within”, the pure indwelling spirit revealed in _The Urantia Book_, which I now call my “Divine Self.” 
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2022-06-Stepping-Stones.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

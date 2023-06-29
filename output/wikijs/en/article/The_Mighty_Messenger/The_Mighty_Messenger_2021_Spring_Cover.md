@@ -73,6 +73,12 @@ Broomfield, CO
 
 > High civilizations are born of the sagacious correlation of material wealth, intellectual greatness, moral worth, social cleverness, and cosmic insight. [UB 81:6.38](/en/The_Urantia_Book/81#p6_38)
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2021-03-21-Spring.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

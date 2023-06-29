@@ -68,7 +68,7 @@ A high point of the trip, for me, was our group reading from Paper 140, The Ordi
 
 One of the most dramatic and emotional examples of an experience from the trip bringing life to my understanding of Jesus is directly related to the unusual characteristics of the Sea of Galilee. The midwayers tell us that Jesus experienced great sorrow and loneliness during the evening of his arrest, as he thought about the impending separation from his apostles, his isolation from his family, and the rejection of his mission by his father Joseph's people.
 
-<figure id="Figure_4" class="image urantiapedia image-style-align-right">
+<figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/021.jpg">
 </figure>
 
@@ -94,13 +94,18 @@ The stones, each one of them, continues to sing His name, shout His name, and in
 
 Each and every one of these stones continue singing (if you pay attention, you will hear it); “Hallelujah,” “Blessed is He who came in the Name of the Lord.” The Son of Man is still there, there is a continuous praise of the stones who were witnesses of His Bestowal. An eternal and wonderful song that floods your soul until you know that everything you have seen, and read, and imagined about Jesus and His Teachings, are true. He was there. With us. Then, and forever. It was, it sure is, and will be. It will be Forever.
 
-<figure id="Figure_6" class="image urantiapedia image-style-align-left">
+<figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/024.jpg">
+<figcaption><em>Lord's Prayer</em>, photo by Chuck Thurston<figcaption>
 </figure>
 
-Lord's Prayer, photo by Chuck Thurston 
-
 > The Son of Man is still there, there is a continuous praise of the stones who were witnesses of His Bestowal.
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Spring.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

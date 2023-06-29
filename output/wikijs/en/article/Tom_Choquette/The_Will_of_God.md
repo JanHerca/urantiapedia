@@ -90,6 +90,12 @@ The Will of God, Part 2 “Mercy” ... Coming to a publication near you this su
 
 We are blessed with the privilege of helping God to help others, so that they too may embark on an eternal journey, seeking and partnering with the Infinite in all things.
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2021-03-21-Spring.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -106,6 +106,12 @@ The opposable thumb, like the **hyoid bone** in our throats which help us create
 
 (The hyoid bone is a horseshoe shaped bone found in the **neck** which protects the esophagus and facilitates a wide range of **muscle** activity required for speaking and swallowing.)
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

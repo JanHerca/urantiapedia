@@ -1,6 +1,6 @@
 ---
 title: "“The Long Path” photo"
-description: "The Mighty Messenger — Spring 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Spring 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Art, Mighty Messenger, article
@@ -24,7 +24,7 @@ dateCreated: 2023-6-21T8:13:38Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Michael_Benisty/This_is_Sacred_Grounds_sculpture">
+        <a href="/en/article/Chuck_Thurston/This_is_Sacred_Grounds_sculpture">
           <span class="pr-2">“This is Sacred Grounds” sculpture</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -35,8 +35,14 @@ dateCreated: 2023-6-21T8:13:38Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/The_Mighty_Messenger/2020_Spring/024.jpg">
+<img src="/image/article/The_Mighty_Messenger/2022_Summer/024.jpg">
 </figure>
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/WEB-VERSION-MMApril20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>
@@ -53,7 +59,7 @@ dateCreated: 2023-6-21T8:13:38Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Michael_Benisty/This_is_Sacred_Grounds_sculpture">
+        <a href="/en/article/Chuck_Thurston/This_is_Sacred_Grounds_sculpture">
           <span class="pr-2">“This is Sacred Grounds” sculpture</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

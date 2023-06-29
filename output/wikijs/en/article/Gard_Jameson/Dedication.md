@@ -47,7 +47,7 @@ Steve was a consummate student of the *The Urantia Book.* His smile and thoughtf
 
 Those that knew him know that he had a passion for the texts that were utilized by the Revelatory Commission in their presentation of the revelation. Not many have taken up the mantle to investigate those texts and their authors, but it is an important field of inquiry for any serious student of the revelation. He and I would spend a great deal of time discussing this material and the implications. Mostly, I knew Steve as a friend. I was cheered by his presence and by his gracious manner. Watching and being with Steve and Bobbie was an inspiration for both my wife, Florence, and me. We got to spend some of the last days of his life with the two of them, reading the revelation, pondering the imponderables, and sharing humor and memories. Steve embodied what it means to be a son of God. For that I shall ever be thankful! 
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/003.jpg">
 <figcaption><em>Bobbie Dreier</em></figcaption>
 </figure>
@@ -60,6 +60,12 @@ I look forward to seeing you again on high, brother Steve, in the eternal advent
 > 
 > *The opinions and descriptions of the author(s) do not necessarily reflect the views of The Urantia Book Fellowship or initiatives that The Urantia Book Fellowship supports. Articles are being published in the interest of allowing the expression of a diversity of viewpoints held within the reader community.* 
 {.is-info}
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/EBooks/Sources%20of%20Revelatory%20Insight.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

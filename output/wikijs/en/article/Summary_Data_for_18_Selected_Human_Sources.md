@@ -50,7 +50,7 @@ dateCreated: 2023-6-21T8:13:38Z
 - Henry Wieman, 1884-1975, Philosopher, *The Issues of Life*: (Rodan Papers, 160, 161) 
 - William Wright, 1877-1956, Philosopher, *Student’s Philosophy of Religion*: (91, 97-98) 
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-right">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/057.jpg">
 <figcaption><em>Pottery With Three Concentric Circles, </em> From Cyprus, Hebron, Bethlehem. Home of 2nd, 3rd, 4th Epochal Revelations  </figcaption>
 </figure>
@@ -60,12 +60,16 @@ Matthew Block’s website: [https://urantiabooksources.com/ ](https://urantiaboo
 
 > Those who are born of the spirit of God shall henceforth discern the word of God regardless of whence it appears to take origin. Divine truth must not be discounted because the channel of its bestowal is apparently human. ([UB 155:6.12](/en/The_Urantia_Book/155#p6_12))
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/057.jpg">
 <figcaption><em>Scan QR code to view </em> Source Documents Special Edition online  </figcaption>
 </figure>
 
+## External Links
 
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/EBooks/Sources%20of%20Revelatory%20Insight.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

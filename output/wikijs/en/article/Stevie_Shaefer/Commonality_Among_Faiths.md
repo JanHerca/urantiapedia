@@ -1,6 +1,6 @@
 ---
 title: "Interfaith Committee’s “Commonality Among Faiths” Project"
-description: "The Mighty Messenger — Spring 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Spring 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Bahai, Sufism, Mighty Messenger, article
@@ -68,14 +68,20 @@ The three central figures of the Baha'i religion: 1. The Bab (the “gate” or 
 
 ### SUFISM - A Bridge Between Religions A Mystical Path branching from Islam
 
-MAJOR TENETS OF SUFISM | COMPARATIVE PASSAGES FROM THE URANTIA BOOK
+MAJOR TENETS OF SUFISM &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | COMPARATIVE PASSAGES FROM THE URANTIA BOOK
 --- | ---
-Sufism (in Arabic Tasawwuf) often defined as “Islamic mysticism” or “the Inward dimension of Islam” - identifies the practice of Sufism. | “Doing the will of God... willingness to share your inner life with God.” (Paper [UB 111:5.1](/en/The_Urantia_Book/111#p5_1)). ”Although the approach to the Paradise presence of the Father must await your attainment of the highest finite levels of spirit progression, you should rejoice in the recognition of the ever-present possibility of immediate communion with the bestowal spirit of the Father so intimately associated with your inner soul and your spiritualizing self." (Paper [UB 5:13](/en/The_Urantia_Book/5#p13) God's Relation to the Individual).
+Sufism (in Arabic Tasawwuf) often defined as “Islamic mysticism” or “the Inward dimension of Islam” - identifies the practice of Sufism. | “Doing the will of God... willingness to share your inner life with God.”  (Paper [UB 111:5.1](/en/The_Urantia_Book/111#p5_1)). ”Although the approach to the Paradise presence of the Father must await your attainment of the highest finite levels of spirit progression, you should rejoice in the recognition of the ever-present possibility of immediate communion with the bestowal spirit of the Father so intimately associated with your inner soul and your spiritualizing self." (Paper [UB 5:13](/en/The_Urantia_Book/5#p13) God's Relation to the Individual).
 The important contribution of the Sufi movement to religious thought is that God is an inner experience | “The creature not only exists in God, but God also lives in the creature.” “We know we dwell in him because he lives in us; he has given us his spirit. This gift from the Paradise Father is man's inseparable companion.” “He is the ever-present and all-pervading God.” “The spirit of the everlasting Father is concealed in the mind of every mortal child.” “Man goes forth searching for a friend while that very friend lives within his own heart.” “The true God is not afar off; he is a part of us; his spirit speaks from within us.” “The Father lives in the child. God is always with us. He is the guiding spirit of eternal destiny. (Paper [UB 3:1.4](/en/The_Urantia_Book/3#p1_4) - The Attributes of God). 
 Sufis are characterized by their practice of “_dhikr_”, the practice of the remembrance of God, often performed after prayers. | Remember to listen to God's response after praying. “Jesus taught his followers that, when they had made their prayers to the Father, they should remain for a time in silent receptivity to afford the indwelling spirit the better opportunity to speak.” 
 Sufis strive for “_ihsan_” (or _perfection_ of _Worship_), as detailed in a “_hadith_”. “Ihsan is to worship Allah as you see Him: if you can't see him, surely He sees you.” | Worship and prayer: “Although the approach to the Paradise presence of the Father must await your attainment of the highest finite levels of spirit progression, you should rejoice in the recognition of the ever-present possibility of immediate communion with the bestowal spirit of the Father so intimately associated with your inner soul and your spiritualizing self. Paper [UB 5:1.3](/en/The_Urantia_Book/5#p1_3)... the greatest evidence of the goodness of God and the supreme reason for loving him is the indwelling gift of the Father-the Adjuster who so patiently awaits the hour when you both shall be eternally made one. Though you cannot find God by searching, if you will submit to the leading of the indwelling spirit, you will be unerringly guided, step by step, life by life, through universe upon universe, and age by age, until you finally stand in the presence of the Paradise personality of the Universal Father.”(Paper [UB 2:5.5](/en/The_Urantia_Book/2#p5_5) -The Nature and Love of God).
 Sufism has been described as the “interiorization and intensification of Islamic faith and practice.” | "Those who have received and recognized the indwelling of God have been born of the Spirit. 'You are the temple of God, and the spirit of God dwells in you.' It is not enough that this spirit be poured out upon you; the divine Spirit must dominate and control every phase of human experience. It is the presence of the divine Spirit..." (Paper 34.6 - The Spirit in...)
 Sufi monastic practice emphasizes discipline, poverty, abstinence, and sometimes celibacy. The practice of the “whirling dervish” is worship to “The One”. | “Prayer, when indited by the spirit, leads to cooperative spiritual progress. The ideal prayer is a form of spiritual communion which leads to intelligent worship. True praying is the sincere attitude of reaching heavenward for the attainment of your ideals.” (Paper [UB 144:2.2](/en/The_Urantia_Book/144#p2_2) - The Discourse on Prayer). 
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/WEB-VERSION-MMApril20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

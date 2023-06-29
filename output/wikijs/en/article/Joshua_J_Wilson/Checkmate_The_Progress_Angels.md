@@ -1,6 +1,6 @@
 ---
 title: "Checkmate: The Progress Angels and the Religious Guardians in Play"
-description: "The Mighty Messenger — Fall 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Fall 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Angels and midwayers, Mighty Messenger, article
@@ -34,7 +34,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/011.jpg">
 </figure>
 
@@ -131,6 +131,12 @@ No doubt every occupation and profession touches upon the work of the progress a
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/013.jpg">
 </figure>
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

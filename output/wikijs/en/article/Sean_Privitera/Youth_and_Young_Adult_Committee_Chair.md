@@ -46,6 +46,12 @@ Last year started the planning for a large undertaking that culminated in a trip
 
 The goal for the rest of 2019 and 2020 is for continued retreats and community building regionally. If you have an idea or would like a youth retreat near you just reach out! The next large event will be a pre-retreat before the Vancouver BC conference July 2020. The longer term goal is to go to Peru in 2021!
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

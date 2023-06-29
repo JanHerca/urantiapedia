@@ -1,6 +1,6 @@
 ---
 title: "Graduation Memorial Page"
-description: "The Mighty Messenger — Fall 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Fall 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Mighty Messenger, article
@@ -53,6 +53,12 @@ Please send a name with a photo and story you would like to see here to: cristin
 Thank you for your help! We can't do this alone!
 
 Cristina Seaborn, Joshua Wilson, Jena Lassiter, and Richard Daunt
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

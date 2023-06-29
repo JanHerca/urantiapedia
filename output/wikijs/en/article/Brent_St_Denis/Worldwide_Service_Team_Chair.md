@@ -34,7 +34,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/017.jpg">
 </figure>
 
@@ -62,6 +62,12 @@ We are all starting to prepare for the 2020 Fellowship budget which is targeted 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/018.jpg">
 </figure>
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

@@ -47,37 +47,41 @@ Register online at https://www.regonline.com/urantia_fellowship_sss19
 
 ## Photos from Summer Study Session 2018
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/002.jpg">
 <figcaption><em>Jackie Koury and Ann Biggs preparing for the SSS18 “Friendly Universe Worship Circle”</em></figcaption>
 </figure>
 
-<figure id="Figure_3" class="image urantiapedia image-style-align-right">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/003.jpg">
 <figcaption><em>Marilynn Kulieke and Ellen Macias</em></figcaption>
 </figure>
 
-<figure id="Figure_4" class="image urantiapedia image-style-align-right">
+<figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/007.jpg">
 <figcaption><em>Preconference retreat in the Africa Chapel</em></figcaption>
 </figure>
 
-<figure id="Figure_5" class="image urantiapedia image-style-align-right">
+<figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/004.jpg">
 <figcaption><em>Andre Radatus, Bobbie Dreier, John Hales, and Dana Bredemeyer at the Circle of Trust Retreat</em></figcaption>
 </figure>
 
-<figure id="Figure_6" class="image urantiapedia image-style-align-right">
+<figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/005.jpg">
 <figcaption><em>12 apostles en route</em></figcaption>
 </figure>
 
-<figure id="Figure_7" class="image urantiapedia image-style-align-right">
+<figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/006.jpg">
 <figcaption><em>12 apostles</em></figcaption>
 </figure>
 
+## External Links
 
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Spring.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

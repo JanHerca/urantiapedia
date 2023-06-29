@@ -1,6 +1,6 @@
 ---
 title: "New GC and EC Members"
-description: "The Mighty Messenger — Spring 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Spring 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Mighty Messenger, article
@@ -34,7 +34,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/013.jpg">
 </figure>
 
@@ -52,7 +52,7 @@ The three new Councilors are Karen Larsen, Albert Einstein Lassiter, and Sue Sni
 
 As a second-generation reader, Karen, who lives in Goshen, NY, has been a reader of the Urantia Book for 23 years. She has been active in study groups since 1999 , the year she attended her first UBF international conference (Vancouver). Since then she has been to all subsequent Fellowship conferences and numerous Summer Study Sessions.
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-left">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/012.jpg">
 </figure>
 
@@ -60,7 +60,7 @@ Karen formerly was a member of Urantia Society of Greater New York (USGNY) and w
 
 ## Albert Einstein Lassiter
 
-<figure id="Figure_3" class="image urantiapedia image-style-align-left">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/015.jpg">
 </figure>
 
@@ -72,7 +72,7 @@ Albert's decades of experience in Research and Development and Quality Assurance
 
 ## Sue Snider Seccombe
 
-<figure id="Figure_3" class="image urantiapedia image-style-align-left">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/014.jpg">
 </figure>
 
@@ -85,6 +85,12 @@ By profession, Sue is a market research consultant and has been a focus group mo
 Those skills will come in handy serving on General Council.
 
 > Social service is the result of moral thinking and religious living. [UB 5:5.4](/en/The_Urantia_Book/5#p5_4)
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/WEB-VERSION-MMApril20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

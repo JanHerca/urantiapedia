@@ -159,7 +159,11 @@ dateCreated: 2023-6-21T8:13:38Z
 <figcaption><em>Lara Amyx and Karen Allen </em></figcaption>
 </figure>
 
+## External Links
 
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

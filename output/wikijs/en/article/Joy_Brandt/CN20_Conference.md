@@ -1,6 +1,6 @@
 ---
 title: "CN20 Conference"
-description: "The Mighty Messenger — Fall 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Fall 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Urantia Movement Event, Mighty Messenger, article
@@ -48,12 +48,16 @@ Agustin Arellano, conference organizer and leader, did a superb job of directing
 
 All in all, it was an exceptional experience that drew $40+$ participants together from 10 or more different countries and at least 3 different languages into a brotherhood team of people, all who are willing and eager students, teachers, servers, and loving children of our heavenly Father. Thank you, Agustin, and all the participants and volunteers who worked so long and hard to make this international Congreso CN20 such a marvelous experience!!!
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/038.jpg">
 <figcaption><em>Joy Brandt holding conference gifts from Agustín Arellano </em></figcaption>
 </figure>
 
+## External Links
 
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

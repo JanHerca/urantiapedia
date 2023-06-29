@@ -1,6 +1,6 @@
 ---
 title: "Burning Man AI"
-description: "The Mighty Messenger — Spring 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Spring 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Art, Mighty Messenger, article
@@ -37,6 +37,12 @@ dateCreated: 2023-6-21T8:13:38Z
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/010.jpg">
 </figure>
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/WEB-VERSION-MMApril20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

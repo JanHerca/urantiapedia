@@ -58,6 +58,12 @@ It is my desire that the Treasurer continues to improve upon the “transparency
 
 In the interest of transparency, many of you know that I have been personally struggling with business and family health challenges that stretch my ability to be truly productive to the organization and _The Urantia Book_ movement in general. I was hoping that I would be past all of these challenges by the end of 2017, I am now hopeful that it will be by the end of 2019 .
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

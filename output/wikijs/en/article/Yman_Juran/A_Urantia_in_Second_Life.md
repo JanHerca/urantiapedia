@@ -1,6 +1,6 @@
 ---
 title: "A Urantia in Second Life"
-description: "The Mighty Messenger — Spring 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Spring 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Self Development, Mighty Messenger, article
@@ -81,6 +81,12 @@ And here's a link to our show at the Second Life 16th Birthday 29 June 2019:
 https://www.youtube.com/watch?v=HlyH58FtknU
 
 I look forward to meeting you in Second Life! Yman Juran alias Jean Ascher 
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/WEB-VERSION-MMApril20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

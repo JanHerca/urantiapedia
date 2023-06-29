@@ -36,6 +36,10 @@ dateCreated: 2023-6-21T8:13:38Z
 
 by _Bobbie Dreier_
 
+<figure id="Figure_1" class="image urantiapedia image-style-align-right">
+<img src="/image/article/The_Mighty_Messenger/2019_Fall/004.jpg">
+</figure>
+
 The high quality study program and the pleasure of fellowship at this year's Summer Study Session was complemented with a variety of opportunities to commune, pray and worship together. Pre-breakfast and dinner meditations in the Africa Chapel offered extended silent time, morning and afternoon plenary sessions were introduced with short _Urantia Book_ passages to inspire a brief quiet prayer time, and evening plenaries were preceded by personal offerings from readers with backgrounds in Judaism, Christianity and Islam.
 
 The twice daily “divine” meditation time was provided for those _Urantia Book_ readers who have a regular meditation practice and those who would like to learn how. It's a time to enjoy the opportunity of sharing the experience with others. The Africa Chapel, whose array of stained glass windows is inspired by the spirituality of the Akan people of Ghana, is perfectly suited for group meditation, and it has been gratifying that the number who attend before breakfast and dinner increases each year.
@@ -44,9 +48,11 @@ In the evenings, inspired by a Melchizidek of Nebadon who advises us to “be ex
 
 The experience of working with the loving and productive worship team, Geri Johnson, Rob Mastroianni, Susan Meyers, Geoff Taylor, and Steve Sawyer was a memorable and blessed experience, and I pray that our work together to share an experience of our Father's love will inspire all who participated into increased loving service to our brothers and sisters.
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2019_Fall/004.jpg">
-</figure>
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

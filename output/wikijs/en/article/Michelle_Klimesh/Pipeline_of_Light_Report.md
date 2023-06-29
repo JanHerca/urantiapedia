@@ -1,6 +1,6 @@
 ---
 title: "Pipeline of Light Report"
-description: "The Mighty Messenger — Fall 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Fall 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Mighty Messenger, article
@@ -53,6 +53,12 @@ or by mail to:
 _The Urantia Book_ Fellowship, PO Box 6631, Broomfield, CO 80021
 
 Thank you so much for your support.
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

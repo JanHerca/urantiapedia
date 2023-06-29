@@ -86,6 +86,12 @@ Alejandro Ampudia, in his closing statement said, “We experienced great succes
 
 > It was a week of learning, full of wonderful experiences.
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2023-05-English-Spring.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

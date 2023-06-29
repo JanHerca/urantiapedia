@@ -50,6 +50,12 @@ One language, the language of love; one religion, service; one goal, being more 
 
 No religion has all the right answers, but we should ask: What do all religions have in common? 
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

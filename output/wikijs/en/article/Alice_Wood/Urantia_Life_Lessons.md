@@ -1,6 +1,6 @@
 ---
 title: "Urantia Life Lessons"
-description: "The Mighty Messenger — Fall 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Fall 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Dissemination, Mighty Messenger, article
@@ -78,6 +78,12 @@ Search for Urantia Life Lessons on YouTube, Instagram, or Facebook.
 **I can bring joy into people's lives**
 **An enthusiastic, creative, and intimate existence**
 **God unwraps my potential**
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

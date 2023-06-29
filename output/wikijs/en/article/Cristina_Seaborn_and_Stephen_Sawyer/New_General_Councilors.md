@@ -114,6 +114,12 @@ I have been a student of the book since 1972. I was an early instructor in what 
 
 > I really want to serve. I have benefited greatly from the Fellowship and the book. I believe I have some knowledge and experience to share and contribute. I consider service the next step in my journey. 
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2021-03-21-Spring.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -1,6 +1,6 @@
 ---
 title: "Mr. Frog"
-description: "The Mighty Messenger — Spring 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Spring 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Art, Mighty Messenger, article
@@ -39,6 +39,12 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 > You can hardly realize by what narrow margins your prehuman ancestors missed extinction from time to time. Had the ancestral frog of all humanity jumped two inches less on a certain occasion, the whole course of evolution would have been markedly changed. [UB 62:3.9](/en/The_Urantia_Book/62#p3_9)
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/WEB-VERSION-MMApril20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

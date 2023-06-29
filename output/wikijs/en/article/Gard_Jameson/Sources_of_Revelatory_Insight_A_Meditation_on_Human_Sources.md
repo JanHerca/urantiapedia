@@ -58,7 +58,7 @@ In “Part IV. The Life and Teachings of Jesus,” the secondary midwayer of one
 
 > “The memoranda which I have collected, and from which I have prepared this narrative of the life and teachings of Jesus—aside from the memory of the record of the Apostle Andrew—embrace thought gems and superior concepts of Jesus’ teachings assembled from **more than two thousand human beings** who have lived on earth from the days of Jesus down to the time of the inditing of these revelations, more correctly restatements. The revelatory permission has been utilized only when the human record and human concepts failed to supply an adequate thought pattern. My revelatory commission forbade me to resort to extrahuman sources of either information or expression until such a time as I could testify that I had failed in my efforts to find the required conceptual expression in purely **human sources**.” [[UB 121:8.13](/en/The_Urantia_Book/121#p8_13)]
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/008.jpg">
 <figcaption><em>Melchizedek Library at Urantia Foundation</em></figcaption>
 </figure>
@@ -85,6 +85,12 @@ My hope in these essays is to encourage the reader to read closely the text of *
 What emerges is the acknowledgement of personal or auto revelation in the life of a truth seeking mortal, such as Ralph Tyler Flewelling. His work on personality was groundbreaking. Flewelling’s book, [*Creative Personality*](https://www.amazon.com/Creative-Personality-Study-Philosophical-Reconciliation/dp/125845114X), was very popular in its day, and was utilized heavily in most of the discourses associated with Jesus’ travels to Rome. Revelation is not always from on high; it sits before our eyes for those who cultivate eyes to see. 
 
 I wish you well in your own personal discovery.
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/EBooks/Sources%20of%20Revelatory%20Insight.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

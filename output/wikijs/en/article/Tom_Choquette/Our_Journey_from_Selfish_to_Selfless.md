@@ -33,15 +33,14 @@ dateCreated: 2023-6-21T8:13:38Z
   </table>
 </figure>
 
-
-<figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Mighty_Messenger/2022_Summer/014.jpg">
-</figure>
-
 by _Tom Choquette_
 
 > Author's note: We use the proper noun “Divine” to mean the personality that is the source of all love and everything spiritual.
 {.is-info}
+
+<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<img src="/image/article/The_Mighty_Messenger/2022_Summer/014.jpg">
+</figure>
 
 There are few absolutes in our journey through life, however one of them is the universal attribute; a newborn baby is undeniably selfish. It is a matter of survival and completely necessary for the animal instinct within each of us to succeed in living. This starting off as a self-focused human is exactly how the creator planned it. For the first few years of life everything we do revolves around getting something we need regardless of anyone else's needs. If we are wet, change us. If we are hungry, feed us. If we are uncomfortable, comfort us. In other words, as a young animal, we really don't care about anyone except ourselves and that our needs are met. When working to meet our needs, we give no heed to how stressed-out our mom or our dad may be.
 
@@ -71,6 +70,12 @@ We know, deep in our soul, that we are to love everyone, forgive everything, and
 <img src="/image/article/The_Mighty_Messenger/2022_Summer/015.jpg">
 <figcaption><em>Shtterstock 763086595</em></figcaption>
 </figure>
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2022-06-Stepping-Stones.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

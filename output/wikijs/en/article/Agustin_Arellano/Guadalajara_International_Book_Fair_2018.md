@@ -25,7 +25,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </td>
         <td>
         <a href="/en/article/Joy_Brandt/Spanish_Urantia_Book_at_Guadalajara_International_Book_Fair">
-          <span class="pr-2">Spanish Urantia Book at Gudalajara International Book Fair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Spanish Urantia Book at Guadalajara International Book Fair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -67,7 +67,9 @@ Or call us at: 303-467-7858
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://urantiabook.org/Research-Resources?filter=Mighty-M#arc-ArchiveHdr##arc-ArchiveHdr#
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2018-Fall.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>
@@ -84,8 +86,8 @@ Or call us at: 303-467-7858
         </a>
         </td>
         <td>
-        <a href="/en/article/Joy_Brandt/Spanish_Urantia_Book_at_Gudalajara_International_Book_Fair">
-          <span class="pr-2">Spanish Urantia Book at Gudalajara International Book Fair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/Joy_Brandt/Spanish_Urantia_Book_at_Guadalajara_International_Book_Fair">
+          <span class="pr-2">Spanish Urantia Book at Guadalajara International Book Fair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

@@ -54,6 +54,12 @@ Current Members of _The Urantia Book_ Fellowship “ad-hoc” IT Committee: Disb
 
 It is my desire that as the EC Liaison I will continue to lead the newly constructed IT WildApricot (WA) Migration Team of Consultants in moving forward in implementing group wisdom on the organization's needs with website solutions that are scalable and sustainable. We should be completed with the Migration by the end of August 2019. The “switchover” is going to be about a month later than was previously noted in my February 2019 GC Report. As you might imagine a lot of additional work has been added into the scope, like a wonderful new “Read _The Urantia Book_” feature that is sure to be a destination for website visitors and a tremendous resource for Urantia Book students everywhere. 
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -1,6 +1,6 @@
 ---
 title: "Letter from the Publications Chair"
-description: "The Mighty Messenger — Fall 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Fall 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Mighty Messenger, article
@@ -44,12 +44,12 @@ The Angels of Progress theme for this Mighty Messenger came to me when Gard Jame
 
 _The Urantia Book_ Fellowship has a new committee led by Sue Snider Seccombe, the Organizational Guidance Committee. The new vision and direction for the Fellowship is a featured article in this Mighty Messenger.
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/005.jpg">
 <figcaption><em>Gard Jameson</em></figcaption>
 </figure>
 
-<figure id="Figure_3" class="image urantiapedia image-style-align-left">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/003.jpg">
 <figcaption><em>Michelle Klimesh</em></figcaption>
 </figure>
@@ -65,6 +65,12 @@ In addition, I asked people in our community what they are doing inspired by the
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/004.jpg">
 </figure>
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

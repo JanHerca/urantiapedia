@@ -68,6 +68,12 @@ Thurston and Derek Samaras for giving many hours of time hosting the program.
 
 The Fellowship's Outreach Committee celebrates all evangels of the revelation who endeavor to share its amazingly deep and life changing teachings. If you have an idea for an outreach project, we want to hear from you! Please write to us in care of the Fellowship, at fellowship@urantiabook.org 
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

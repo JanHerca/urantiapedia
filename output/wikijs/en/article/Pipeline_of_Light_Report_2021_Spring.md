@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-6-21T8:13:38Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">>© 2021 The Urantia Book Fellowship</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 The Urantia Book Fellowship</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -49,6 +49,12 @@ https://urantiabook.org/donate
 or by mail to:
 
 _The Urantia Book_ Fellowship, PO Box 6631, Broomfield, CO 80021 
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2021-03-21-Spring.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

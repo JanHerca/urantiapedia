@@ -1,6 +1,6 @@
 ---
 title: "Travels with the Urantia Book"
-description: "The Mighty Messenger — Fall 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Fall 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Dissemination, Mighty Messenger, article
@@ -62,6 +62,12 @@ A scary experience was in Istanbul, Turkey. Charlene Morrow and I were in a cab 
 </figure>
 
 These travels have given me the opportunity to meet many readers and the ability to introduce the Urantia Book to new truth seekers. I feel very grateful and humbled to have been able to be part of this important service and to be a member of a team of workers for the Revelation.
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

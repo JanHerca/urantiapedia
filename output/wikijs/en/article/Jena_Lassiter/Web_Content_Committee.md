@@ -79,7 +79,11 @@ After initial release:
 
 - The Fellowship has a grant from Google to use $\$ 40,000$ of AdWords per month. We have plans in place to determine how to optimally use those ads to help bring people to the revelation.
 
+## External Links
 
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

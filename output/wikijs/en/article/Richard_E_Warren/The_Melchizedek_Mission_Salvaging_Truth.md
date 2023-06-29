@@ -60,6 +60,12 @@ This little-known story encapsulates the fascinating life of Urantia's second mo
 
 A Kindle Book “Look inside” sample from The Melchizedek M ission: Salvaging Truth may be accessed on Amazon at: https://www.amazon.com/gp/product/B08MY7Y68P
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2021-03-21-Spring.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -50,6 +50,12 @@ To Make A Donation https://urantiabook.wildapricot.org/Donations
 $117,000
 Our Goal 
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

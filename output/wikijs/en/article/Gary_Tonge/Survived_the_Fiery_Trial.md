@@ -62,7 +62,7 @@ Next, let's use a 1:2000 ratio:
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/051.jpg">
-<figcaption><em>Survived the Fiery Trial</em>by Gary Tonge<figcaption>
+<figcaption><em>Survived the Fiery Trial</em>, by <a href="https://visionafar.com/">Gary Tonge</a><figcaption>
 </figure>
 
 Upon this realization, I researched the revelation to identify any corroborating quotes to this possibility; but it seemed logical and truthful to me that post-fusion ascenders are rebellion-proof; surely they cannot fall!
@@ -115,8 +115,14 @@ Love to you - fellow inconstant but potentially eternal and perfected brethren!
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/052.jpg">
-<figcaption><em>Satania headquarters - Jerusem and its satellite worlds</em>by Gary Tonge<figcaption>
+<figcaption><em>Satania headquarters - Jerusem and its satellite worlds</em>, by <a href="https://visionafar.com/">Gary Tonge</a><figcaption>
 </figure>
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2021-03-21-Spring.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

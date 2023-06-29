@@ -38,15 +38,19 @@ dateCreated: 2023-6-21T8:13:38Z
 
 Would you prefer to receive our magazines, the Mighty Messenger and Fellowship Herald, in electronic form or in print? Please let us know here: Publications Survey
 
-Point your phone at this QR code to take the Publications Survey:
-
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/029.jpg">
 </figure>
 
+Point your phone at this QR code to take the Publications Survey:
+
 Thank you, Cristina Seaborn, Publications Chair
 
 You can help the Fellowship to keep our great publications FREE.
+
+<br>
+
+<br>
 
 Please consider donating $35.00 a year! Donate Today!!! Point your phone at this code to donate to the Urantia Book Fellowship:
 
@@ -67,6 +71,12 @@ Urantia Book Fellowship Publication deadlines are:
 - Mini Messenger 15^th^ of every month.
 
 Submit articles to: Cristina Seaborn, Publications Chair publications@urantiabook.org 
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Spring.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

@@ -1,6 +1,6 @@
 ---
 title: "Urantia Global Experience 2020 UPDATE"
-description: "The Mighty Messenger — Spring 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Spring 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Urantia Movement Event, Mighty Messenger, article
@@ -157,7 +157,11 @@ Additionally, we respectfully ask that participants do not schedule any committe
 
 > “To enjoy privilege without abuse, to have liberty without license, to possess power and steadfastly refuse to use it for selfaggrandizement - these are the marks of high civilization.” [UB 48:7.8](/en/The_Urantia_Book/48#p7_8)
 
+## External Links
 
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/WEB-VERSION-MMApril20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

@@ -1,6 +1,6 @@
 ---
 title: "Supporting, Engaging, and Reaching Existing and Emerging Communities of Urantia Book Readers"
-description: "The Mighty Messenger — Spring 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Spring 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Global Seeding, Mighty Messenger, article
@@ -77,6 +77,12 @@ The UBF should engage in three lines of work:
 3. Dissemination to bring the book to those who are ready for it. Much work remains to be done to translate these ideas into concrete strategies. We will need to identify ways to measure our success and build in mechanisms for adjusting strategies to improve outcomes. It is work I believe the UBF will embrace with enthusiasm.
 
 If you are interested in the full report on the survey and its discussion by the General Council, https://healthbehavior.psy.vanderbilt.edu/Fellowship/UBF_SurveyReport.pdf.
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/WEB-VERSION-MMApril20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

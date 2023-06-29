@@ -132,6 +132,12 @@ Let us continue to remember the first of any endeavors always has the distinct o
 
 My gratitude abounds for the continued spiritual and financial support I have been given over the years from my family who are _The Urantia Book_ Fellowship and the _Urantia Book_ movement in general. It is especially an honor to have been a delegate to the first conference in Uganda. Surely this is a great step for the expansion of the community of _Urantia Book_ students. It was a pleasure to serve the bridge that is being built across Urantia. Toni and I are both full of appreciation to have been of service in this way. Our Ugandan experiences, albeit radically different from each Other, were necessary for helping to shape the future of the relationships between continents, organizations, _Urantia Book_ students, and each Other. We know the celestials had much to do with our involvement and safety. We are blessed that God knows inconceivably more than we do. We continue to live up to the faith we say we have.
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2023-05-English-Spring.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

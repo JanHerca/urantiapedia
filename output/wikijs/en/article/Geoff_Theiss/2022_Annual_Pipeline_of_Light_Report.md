@@ -70,6 +70,11 @@ We deeply appreciate the contributions of our
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/016.jpg">
 </figure>
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2023-05-English-Spring.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

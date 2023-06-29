@@ -134,6 +134,12 @@ We close this article with the words of Andrea herself:
 
 > What do I think about the “Dialogues with Andrea” project? I'm super excited. I can hardly believe it!
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2023-05-English-Spring.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

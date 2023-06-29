@@ -149,6 +149,12 @@ We will likely experience astonishment at the new reality we will find ourselves
 
 That will be a very enticing world to explore!
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2022-06-Stepping-Stones.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -228,6 +228,12 @@ Is goodness—the moral expression of divine selflessness—desirable? Then must
 
 Is freedom, spiritual freedom, desirable? Then must we commune and communicate with the supernal source of such freedom, God. 
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/EBooks/Sources%20of%20Revelatory%20Insight.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

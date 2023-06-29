@@ -54,6 +54,12 @@ For more information and to reserve a place, please contact line.stpierre@gmail.
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/008.jpg">
 </figure>
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Spring.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

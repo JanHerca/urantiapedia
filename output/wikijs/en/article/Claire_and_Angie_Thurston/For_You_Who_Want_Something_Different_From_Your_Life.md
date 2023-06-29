@@ -34,7 +34,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Summer/010.jpg">
 </figure>
 
@@ -414,6 +414,12 @@ Spirit is with you, always.
 Claire and Angie Thurston
 
 We are a mother and daughter who both wanted something different from our lives and found it. Now we want to share it. Find us at [innersourcing.io](https://www.innersourcing.io/).
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2022-06-Stepping-Stones.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

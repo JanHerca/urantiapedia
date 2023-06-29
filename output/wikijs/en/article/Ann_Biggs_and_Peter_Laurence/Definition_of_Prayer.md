@@ -1,6 +1,6 @@
 ---
 title: "Definition of Prayer"
-description: "The Mighty Messenger — Fall 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Fall 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Prayer, Mighty Messenger, article
@@ -75,6 +75,12 @@ The next day, Peter Laurence developed a series of 24 or so questions on this, w
 19. the validation of consecration - See number eleven.
 20. a technique for the adjustment of difficulties - How does that work?
 21. the mighty mobilization of the combined soul powers to withstand all human tendencies toward selfishness, evil, and sin - How does that work? 
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

@@ -85,7 +85,7 @@ The skeptic among us will continue to deny. But the evidence lies in the consequ
 
 *The Urantia Book* provides a deep appreciation of the nature of *personality* that is unlike the understanding of much contemporary psychological thought. At the heart of that appreciation is the realization that personality is three dimensional, vertical, breadth, and length dimensions. [Cf. [UB 112:1.5](/en/The_Urantia_Book/112#p1_5)] The vertical dimension invites the *spiritual goal of attainment* while the breadth dimension invites the experiential realization of *moral values*. Together, *spiritual attainment* and *moral insight*, a combination theme repeated throughout the revelation, brings coherence and harmony with the will of God in the life of the individual, the *length* dimension of personality. In finding the will of God lies our greatest joy! 
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/021.jpg">
 <figcaption><em>Plumb line and plumb bob</em> by Pearson Scott Foresman </figcaption>
 </figure>
@@ -114,6 +114,12 @@ The final thought with respect to this reflection is to encourage the reader to 
 <img src="/image/article/The_Mighty_Messenger/2022_Special/022.jpg">
 <figcaption><em>Shutterstock 262243</em></figcaption>
 </figure>
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/EBooks/Sources%20of%20Revelatory%20Insight.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

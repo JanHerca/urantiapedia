@@ -1,6 +1,6 @@
 ---
 title: "Fellowship Education Committee"
-description: "The Mighty Messenger — Fall 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Fall 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Mighty Messenger, article
@@ -69,6 +69,12 @@ Some of these ideals can be achieved online; it is a blessing to live in a time 
 In addition to the regular summer study sessions, efforts to visit and support local groups (let the committee know if you would like a visiting presenter), and the online workshop forums, the committee seeks through its resources to combine “what should be” with progress. The committee's webpage is soon to exist on the new Fellowship website much as it used to be. Meanwhile, many of our downloadable resources are available at https://urantiabook.org/EducationCommittee-Resources.
 
 The committee looks forward to seeing you online and at SSS21, all issues of isolation willing! 
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

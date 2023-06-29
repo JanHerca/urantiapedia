@@ -1,6 +1,6 @@
 ---
 title: "Spirit of Truth - Angie Thurston Interview"
-description: "The Mighty Messenger — Fall 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Fall 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Podcast, Mighty Messenger, article
@@ -58,6 +58,12 @@ We are invited to contribute, she tells us, and it's fun to put Jesus' teachings
 See Spirit of Truth interviews and the
 
 Urantia Book Network videos at: https://www.youtube.com/c/URANTIABOOKNETWORK/videos 
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

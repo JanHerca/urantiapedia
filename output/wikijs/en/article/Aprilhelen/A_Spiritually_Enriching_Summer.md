@@ -93,6 +93,12 @@ With love and anticipation from your IC23 Family leadership team,
 - Ruthie Wilde Wenger, Urantia Family Life Chair
 - Anthony Finstad, Urantia Family Life Chair, Elder Chair
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2023-05-English-Spring.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

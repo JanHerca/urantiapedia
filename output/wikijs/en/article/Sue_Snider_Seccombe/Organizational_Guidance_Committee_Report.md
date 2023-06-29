@@ -1,6 +1,6 @@
 ---
 title: "Organizational Guidance Committee Report"
-description: "The Mighty Messenger — Fall 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Fall 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Mighty Messenger, article
@@ -34,7 +34,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/045.jpg">
 </figure>
 
@@ -86,12 +86,12 @@ As we prepare to move forward, we are using the valuable insights from the in-de
 
 ## Young Adult Survey
 
-We are working on maximizing how the Fellowship fosters engagement, with both current and potential audience, so that we are all in a better position to respond to the next phase of interest in and spread of the revelation.
-
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/047.jpg">
 <figcaption><em>Dr. David Schlundt</em></figcaption>
 </figure>
+
+We are working on maximizing how the Fellowship fosters engagement, with both current and potential audience, so that we are all in a better position to respond to the next phase of interest in and spread of the revelation.
 
 Dr. David Schlundt, the VP of the Fellowship and our committee's resident research guru, has been serving a key role by spearheading a large survey of young adults about their attitudes and beliefs about spirituality, religion, worship, God, faith and values in the 21 st century.
 
@@ -121,6 +121,12 @@ Albert Einstein Lassiter
 Jena Lassiter
 Dr. David Schlundt
 Sue Snider Seccombe, Chair
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

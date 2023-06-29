@@ -42,6 +42,12 @@ by _Kaye and William Cooper_
 
 The purpose of prayer is not to tell your spiritual parent what to do. It is to establish and maintain a loving and trusting relationship between you and your spiritual parent. Love and trust make it comfortable to follow spiritual guidance. In order to achieve that love and trust, your prayers need to express your sincere concerns about all sorts of things that really matter to you, and then you need to pay attention to the response.
 
+<br>
+
+<br>
+
+<br>
+
 ## If prayer works, why don't I get what I pray for when I want it?
 
 Counter to initial thinking, many of the favors we seek and many of the adversities we try to end by prayer actually have spiritual growth potential. We grow as we grapple with challenges. Our spiritual growth is extremely important. Consequently, removing life challenges will probably be contrary to our best interests. At a minimum, our prayer will always be answered by reinforcement of our resilience and reassurance that we are cared for and loved. All challenges can be turned into benefits. They are an important part of our education. Through difficulties, we can grow to be strong, courageous, dependable, and resourceful, eventually becoming more selfconfident action takers and decision makers. Those growth objectives are not served by being delivered from problems that our talents and creativity can resolve. To preserve these educational opportunities, such prayers are often answered by your spiritual parent, instead of by having your adversities ended. The reply we get is in the form of supporting us to think clearly, to promote peace, to calm ourselves, to be charming, to apply our accumulated wisdom, and to do what we already know is better. When we make those better choices, we experience more frequent success. We grow in self-mastery and confidence in our ability to employ the gentle spiritual tools of grace, charm, respect, forbearance, and calm.
@@ -69,6 +75,12 @@ No. Wanting something lacks the opening and abiding in relationship with your in
 ## How do I pray?
 
 Just talk to your spiritual parent the way you would to a trusted friend or a loving, supportive human parent. Ask for spiritual blessings for others and yourself-blessings such as tolerance, understanding, peace, empathy for another's suffering, selfunderstanding, self-control, forgivingness, respect, and other virtues. Be careful to pay attention and allow receptive time to access spiritual impressions. Intentionally await responses. Ponder your requests as well as any responses and ask questions to better understand what you receive. Honest doubt is okay, but question your doubt too. Mindfully resist fear-based doubt. Give your inner spirit plenty of opportunity to enlighten you and to assure you that trust in your spiritual parent is appropriate. You are blessed and supported. May you experience this fully and feel the joy flowing from your gratitude, appreciation, and love for your spiritual parent. In prayer, you can feel this and express it. 
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2022-06-Stepping-Stones.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

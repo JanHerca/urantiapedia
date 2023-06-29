@@ -89,7 +89,11 @@ Michelle Klimesh, Pipeline Reporter
 <figcaption><em>Grateful recipient in Venezuela </em></figcaption>
 </figure>
 
+## External Links
 
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

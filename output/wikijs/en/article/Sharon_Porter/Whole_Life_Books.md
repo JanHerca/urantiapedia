@@ -1,6 +1,6 @@
 ---
 title: "Whole Life Books"
-description: "The Mighty Messenger — Fall 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Fall 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Dissemination, Mighty Messenger, article
@@ -57,6 +57,12 @@ It was especially enjoyable when our different Urantia Book reader friends, when
 Over all, we sold many, many Urantia Books. I was always astonished at the number of books that came and went out of the doors of that store and very, very grateful to all the many Angels of Progress for their continuous work “towards the good” of all.
 
 Many thanks go to Joe Crow, a Urantia Book reader and financial contributor, Tim Traylor, a Urantia reader and beloved friend, Gerry Caffey, a Urantia reader and computer expert, and Jim Cochran, a Urantia reader and store partner for their service and long commitment to the store's spiritual goals. Ted Lanier, my beloved husband passed from this world in 2017. He was the original lifeblood of this store. He was my partner and friend as we both went through this adventure together. Thank you Ted! Thank you Angels of Progress! 
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

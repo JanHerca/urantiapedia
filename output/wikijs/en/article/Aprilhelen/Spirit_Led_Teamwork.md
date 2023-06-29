@@ -14,7 +14,7 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Barb_Maier_and_Sally_Annabella/Thirty_Fifth_Conference_Mazatlán_Mexico">
+        <a href="/en/article/Barb_Maier_and_Sally_Annabella/Thirty_Fifth_Conference_Mazatlan_Mexico">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Thirty-Fifth Conference in Mazatlán, Mexico</span>
         </a>
         </td>
@@ -145,12 +145,18 @@ The eye-opening experience in Uganda has raised big questions for me in regard t
 
 Do these questions intrigue you? Do you have experiences to share and the desire to serve the International Fellowship Committee? We will enjoy your feedback and dedication. You may email The Urantia Book Fellowship office (at [urantiabook.org/Contact-Us](https://urantiabook.org/Contact-Us)) for more information on how to get involved.
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2023-05-English-Spring.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Barb_Maier_and_Sally_Annabella/Thirty_Fifth_Conference_Mazatlán_Mexico">
+        <a href="/en/article/Barb_Maier_and_Sally_Annabella/Thirty_Fifth_Conference_Mazatlan_Mexico">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Thirty-Fifth Conference in Mazatlán, Mexico</span>
         </a>
         </td>

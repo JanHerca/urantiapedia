@@ -87,6 +87,12 @@ If you don't know what on earth you could say to overburdened, anxious, and deje
 <figcaption><em>As I Have Loved You</em>, by Greg Olsen</figcaption>
 </figure>
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2022-06-Stepping-Stones.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

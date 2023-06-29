@@ -1,6 +1,6 @@
 ---
 title: "Urantia University Institute- Fall Courses"
-description: "The Mighty Messenger — Fall 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Fall 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Mighty Messenger, article
@@ -34,7 +34,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-right">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/048.jpg">
 </figure>
 
@@ -68,7 +68,7 @@ Learn more and register at **_The Urantia Book_ New Reader Course**:
 
 https://urantiauniversity.org/page-1804203
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/050.jpg">
 </figure>
 
@@ -94,7 +94,7 @@ Spiritual Formation is a process wherein we clarify, organize and integrate the 
 
 ## The UUI Cafe
 
-<figure id="Figure_4" class="image urantiapedia image-style-align-right">
+<figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/053.jpg">
 </figure>
 
@@ -106,20 +106,25 @@ https://urantiauniversity.org/page-1804221
 
 Contact Admin@urantiauniversity.org to request the Zoom link to the daily UUI Cafe gatherings and to receive the daily email with the day's topic and questions, or refer to the weekly email blast sent to the UUI community.
 
-The UUI Café operates as a Zoom meeting each weekday and often on Saturdays at a different time each day to accommodate various time zones and schedules as best we can.
-
-Each day of the week has a different focus or theme from _The Urantia Book_. Often the theme is connected to how we are handling the current world and national crises from a spiritually illuminated point of view.
-
 <figure id="Figure_5" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/052.jpg">
 </figure>
+
+The UUI Café operates as a Zoom meeting each weekday and often on Saturdays at a different time each day to accommodate various time zones and schedules as best we can.
+
+Each day of the week has a different focus or theme from _The Urantia Book_. Often the theme is connected to how we are handling the current world and national crises from a spiritually illuminated point of view.
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/054.jpg">
 </figure>
 
-
 The sessions are moderated by members of the UUI staff. We use passages from _The Urantia Book_ for conversation starters, and pause for moments of focused worship now and then. 
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

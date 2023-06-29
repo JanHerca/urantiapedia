@@ -52,7 +52,9 @@ And then there was a great conversation on our “worship sites” tour bus with
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://urantiabook.org/Research-Resources?filter=Mighty-M#arc-ArchiveHdr##arc-ArchiveHdr#
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2018-Fall.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

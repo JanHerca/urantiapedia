@@ -34,7 +34,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/003.jpg">
 </figure>
 
@@ -52,6 +52,12 @@ Aside from the inspiring efforts you will read about below, the Executive Commit
 This organization has an amazing team of volunteers and staff who are passionately engaged in sharing this life-changing revelation.
 
 Please enjoy an update from some of our team!
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

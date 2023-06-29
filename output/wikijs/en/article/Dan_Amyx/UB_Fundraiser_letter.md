@@ -24,7 +24,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Michael Hil/The_Fellowships_Inmate_Correspondence Program_ICP">
+        <a href="/en/article/Michael Hill/The_Fellowships_Inmate_Correspondence">
           <span class="pr-2">The Fellowship's Inmate Correspondence Program (ICP)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -58,7 +58,9 @@ Chair
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://urantiabook.org/Research-Resources?filter=Mighty-M#arc-ArchiveHdr##arc-ArchiveHdr#
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2018-Fall.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>
@@ -75,7 +77,7 @@ Chair
         </a>
         </td>
         <td>
-        <a href="/en/article/Michael Hil/The_Fellowships_Inmate_Correspondence Program_ICP">
+        <a href="/en/article/Michael Hill/The_Fellowships_Inmate_Correspondence">
           <span class="pr-2">The Fellowship's Inmate Correspondence Program (ICP)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

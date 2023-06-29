@@ -24,7 +24,7 @@ dateCreated: 2023-6-21T8:13:38Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Bobbie_Dreier_and_André_Radatus/The_Fellowships_International_Presence">
+        <a href="/en/article/Bobbie_Dreier_and_Andre_Radatus/The_Fellowships_International_Presence">
           <span class="pr-2">The Fellowship's International Presence</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -54,6 +54,11 @@ Another _first_, inside is an extensive report on the first-ever Urantia confere
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/001.jpg">
 </figure>
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2023-05-English-Spring.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>
@@ -70,7 +75,7 @@ Another _first_, inside is an extensive report on the first-ever Urantia confere
         </a>
         </td>
         <td>
-        <a href="/en/article/Bobbie_Dreier_and_André_Radatus/The_Fellowships_International_Presence">
+        <a href="/en/article/Bobbie_Dreier_and_Andre_Radatus/The_Fellowships_International_Presence">
           <span class="pr-2">The Fellowship's International Presence</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

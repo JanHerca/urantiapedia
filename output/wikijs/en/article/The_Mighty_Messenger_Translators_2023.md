@@ -66,6 +66,11 @@ In 2004. i participated a couple of times in a Urantia Book study group, not kno
 
 From that moment my life began to change. Later I met Flor Robles in Santiago and participated in her study group. Today I cannot conceive my life without the revelation of _The Urantia Book_. By understanding everything better, I see life with different eyes, and I look for opportunities to serve my brothers and do the Will of the Father. In 2023, I began as Area Coordinator[^l] for Chile and assistant for _The Urantia Book_ Fellowship in Spanish, helping Geoff Theiss in his great work.
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2023-05-English-Spring.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

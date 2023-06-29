@@ -68,6 +68,12 @@ Here's a sample of one of the great letters we received in 2020:
 
 > It is the most beautiful, gratifying, and humbling experience of my life.
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2021-03-21-Spring.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

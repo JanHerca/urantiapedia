@@ -68,6 +68,12 @@ If you would like to preorder a copy of _Sailing to Salvington_, send your order
 
 > Poets use Symbolic and Metaphorical Language in an Effort to Lift our human Type of Mind up to the Level of Cosmic Mind.
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2023-05-English-Spring.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

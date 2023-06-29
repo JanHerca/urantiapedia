@@ -40,13 +40,13 @@ Many of you knew Steve Dreier as a gifted public speaker. At the General Confere
 
 Steve was a natural teacher but his ability to speak so effectively was the consequence of devoted and serious study. He knew *The Urantia Book* well, and those of us fortunate enough to participate in study groups with him were the beneficiaries of his ability to explain difficult concepts like the Supreme, the Absolutes, and the triodities in language that began to make sense. 
 
-When Matthew Block revealed his discovery of the source books, Steve read them with great interest, and in spite of much community resistance, became an early advocate and defender of Matthew's work. Steve was disappointed that there were no readers who took an interest in the source authors, as he felt that a serious study of their insights added depth and dimension to an understanding of the revelation. 
-
-Gard Jameson early on had introduced Matthew to some sources (e.g., regarding Morontia Mota), which lit Matthew’s fire of discovery. Gard subsequently began studying these books in earnest. Steve found a kindred spirit in Gard and the two of them shared many hours of enlightening discussions. 
-
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/006.jpg">
 </figure>
+
+When Matthew Block revealed his discovery of the source books, Steve read them with great interest, and in spite of much community resistance, became an early advocate and defender of Matthew's work. Steve was disappointed that there were no readers who took an interest in the source authors, as he felt that a serious study of their insights added depth and dimension to an understanding of the revelation. 
+
+Gard Jameson early on had introduced Matthew to some sources (e.g., regarding Morontia Mota), which lit Matthew’s fire of discovery. Gard subsequently began studying these books in earnest. Steve found a kindred spirit in Gard and the two of them shared many hours of enlightening discussions. 
 
 Steve's latest source of interest was in comparing the biblical references in Part Four to the Old and New Testament versions. He shared his analysis of [“The Women Taken in Adultery”](https://en.wikipedia.org/wiki/Jesus_and_the_woman_taken_in_adultery) with Angie Thurston at a New York Society meeting. In Angie's condolence remembrance for Steve she wrote: 
 
@@ -62,6 +62,11 @@ Steve had tears in his eyes as he said, “Jesus *knew* this woman. He knew that
 
 I hope the following essays which are the fruit of the insights of Gard's and Steve's studies will give you a taste for the value of the source materials and enhance your study of *The Urantia Book.*
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/EBooks/Sources%20of%20Revelatory%20Insight.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

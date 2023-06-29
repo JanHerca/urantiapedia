@@ -57,8 +57,9 @@ Mighty Messenger is a annual or bi-annual publication edited by The Urantia Book
 
 The index of all available issues is here: [Index of The Urantia Book Fellowship Mighty Messenger](/en/index/articles_mighty_messenger).
 
-Source:
+Sources:
 - https://archive.urantiabook.org/archive/newsletters
+- https://urantiabook.org/Research-Resources?filter=Mighty-M#arc-ArchiveHdr##arc-ArchiveHdr#
 - https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
 
 ### The Study Group Herald

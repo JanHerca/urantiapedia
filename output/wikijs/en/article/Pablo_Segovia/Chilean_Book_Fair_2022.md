@@ -24,7 +24,7 @@ dateCreated: 2023-6-21T8:13:38Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Barb_Maier_and_Sally_Annabella/Thirty_Fifth_Conference_Mazatlán_Mexico">
+        <a href="/en/article/Barb_Maier_and_Sally_Annabella/Thirty_Fifth_Conference_Mazatlan_Mexico">
           <span class="pr-2">Thirty-Fifth Conference in Mazatlán, Mexico</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -160,6 +160,12 @@ Let us all make an intelligent effort to be present in the largest possible numb
 <figcaption><em>Felipe Arrigorriaga with visitors to the booth</em></figcaption>
 </figure>
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2023-05-English-Spring.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -175,7 +181,7 @@ Let us all make an intelligent effort to be present in the largest possible numb
         </a>
         </td>
         <td>
-        <a href="/en/article/Barb_Maier_and_Sally_Annabella/Thirty_Fifth_Conference_Mazatlán_Mexico">
+        <a href="/en/article/Barb_Maier_and_Sally_Annabella/Thirty_Fifth_Conference_Mazatlan_Mexico">
           <span class="pr-2">Thirty-Fifth Conference in Mazatlán, Mexico</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

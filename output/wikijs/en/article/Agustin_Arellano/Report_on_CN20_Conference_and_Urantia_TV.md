@@ -1,6 +1,6 @@
 ---
 title: "Report on CN20 Conference and Urantia TV"
-description: "The Mighty Messenger — Fall 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Fall 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Urantia Movement Event, Mighty Messenger, article
@@ -95,6 +95,12 @@ On Sunday August 23rd
 </figure>
 
 Thanks for supporting and attending!
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

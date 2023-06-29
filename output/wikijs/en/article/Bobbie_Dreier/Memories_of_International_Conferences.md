@@ -61,7 +61,11 @@ I urge you to take a look at the conference information on the Fellowship's webs
 <figcaption><em>Hilton Oak Brook Hills Resort and Conference Center, Chicago, Illinois, USA</em><figcaption>
 </figure>
 
+## External Links
 
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2023-05-English-Spring.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

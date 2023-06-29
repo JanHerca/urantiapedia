@@ -69,6 +69,12 @@ Trinity Western University - July 15^th^ to July 19^th^
 
 https://urantiaglobalexperience.com/
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Spring.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

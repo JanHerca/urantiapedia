@@ -37,7 +37,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Produced by _David Linthicum_ (set up by Alain Cyr)
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2018_Fall/David_Linthicum.jpg">
 </figure>
 
@@ -125,7 +125,9 @@ International numbers available: https://zoom.us/u/bffljM0Ak
 
 ## External Links
 
-* Newsletter in _The Urantia Book_ Fellowship: https://urantiabook.org/Research-Resources?filter=Mighty-M#arc-ArchiveHdr##arc-ArchiveHdr#
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2018-Fall.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

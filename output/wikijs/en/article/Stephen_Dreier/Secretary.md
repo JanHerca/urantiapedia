@@ -46,6 +46,12 @@ I am now 79 years old and nearing the end of my 40+ year service with the Fellow
 
 I would like to help the next Secretary get up to speed with the job. That person would need to be a member of the General Council willing to serve on the Executive Committee. Anyone interested? Please let me know.
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -125,6 +125,12 @@ Anyone needing a little something to kickstart or restart your spiritual journey
 
 In this presence let me be . . always knocking on heaven's door.
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2022-06-Stepping-Stones.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

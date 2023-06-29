@@ -1,6 +1,6 @@
 ---
 title: "Spanish Outreach Committee Report"
-description: "The Mighty Messenger — Fall 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Fall 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Dissemination, Mighty Messenger, article
@@ -42,16 +42,16 @@ After our March meeting this year, Jack Halloway and I started working with the 
 
 By the time we decided to close the survey we had just over 50 people who had answered it out of a total of 500 emails sent. This is a similar proportion obtained in the survey in English that David Schlundt conducted.
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2020_Fall/057.jpg">
-<figcaption><em>Pablo Morales</em></figcaption>
-</figure>
-
 Of the total responses, 25 readers considered that they were interested in creating an online study group.
 
 Another of our objectives was to know how feasible our idea was to provide one or more zoom accounts for groups in Latin America. Several responded positively and appreciated the initiative. Today we have Pablo Morales from Venezuela who administers three study groups on different days and times every week, and Nelida Oliver who administers a study group on Fridays. 
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-right">
+<figure id="Figure_2" class="image urantiapedia">
+<img src="/image/article/The_Mighty_Messenger/2020_Fall/057.jpg">
+<figcaption><em>Pablo Morales</em></figcaption>
+</figure>
+
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/058.jpg">
 <figcaption><em>Nelida Oliver</em></figcaption>
 </figure>
@@ -64,7 +64,7 @@ There were many more people interested in our zoom account, unfortunately many o
 
 We are convinced that in the future more people will benefit from this resource. We sent individualized emails to all the leaders who decided to contact us. Many of them responded with joy knowing that we were beginning to take action in relation to this matter.
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-right">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/056.jpg">
 <figcaption><em>Agustin Arellano</em></figcaption>
 </figure>
@@ -75,7 +75,7 @@ We consider the meeting to be a success, since we feel that this may be the begi
 
 This week we have received four proposals that we will analyze and see if we can somehow help them with the budget that we have for this year. The budget could not be used for the different face-to-face conferences around the world.
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-right">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/060.jpg">
 <figcaption><em>Geoff Theiss</em></figcaption>
 </figure>
@@ -86,7 +86,7 @@ The next request we are working on is for Venezuela, where Pablo Morales, a dedi
 
 Before the meeting, the possibility that some leaders were interested in creating societies that were linked to the Fellowship was mentioned, and we offered to cooperate with them so they could achieve their objectives.
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-right">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/059.jpg">
 <figcaption><em>André Radatus</em></figcaption>
 </figure>
@@ -101,6 +101,12 @@ It is my personal opinion that we have a bright and extremely fruitful future in
 Your Brother in Spirit and Service 
 Pablo Segovia 
 pablo.segovia@urantiabook.org
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

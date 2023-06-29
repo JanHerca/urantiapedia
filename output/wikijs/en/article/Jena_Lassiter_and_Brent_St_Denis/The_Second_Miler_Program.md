@@ -84,6 +84,12 @@ Just to give you an idea of the range of projects currently underway ...
 
 The grantees are updating us with their progress. Watch for progress reports on the Fellowship News Blog (urantiabook.org/fellowship-news) and through our publications.
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2021-03-21-Spring.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

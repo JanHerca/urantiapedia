@@ -1,6 +1,6 @@
 ---
 title: "Why Place The Urantia Book Initially In America?"
-description: "The Mighty Messenger — Spring 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Spring 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: The Urantia Book, Mighty Messenger, article
@@ -44,7 +44,7 @@ The question of what factors were involved in locating _The Urantia Book_, initi
 
 Those who manage celestial planetary government seem to always set up circumstances that have to wait until the “fullness of time” arrives. So, when the “time is ripe,” they act. I do not think my list to be exhaustive or complete. Still, I believe it instructive to explore the question of ***why*** they chose America and chose the first half of the 20th Century. Essentially, my list speaks to the “why” and the “when” of the Fifth Epochal Revelation.
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-left">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/019.jpg">
 </figure>
 
@@ -58,7 +58,7 @@ Here is my list:
 
 (4). Modernity. The early decades of the 20th Century saw the emergence of modern art (Cubism; Abstract Expressionism; Fauvism; etc.) and modern physics (Relativity; Quantum Physics, etc.). I believe that these developments manifested the tendency in modern society to “***unravel***” boundaries of the mind. This in turn may have anticipated open mindedness as a prerequisite toward responding to a new revelation of facts, meanings and values.
 
-<figure id="Figure_3" class="image urantiapedia image-style-align-left">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/020.jpg">
 <figcaption>Chinese Music by Arthur Dove</figcaption>
 </figure>
@@ -76,7 +76,7 @@ Here is my list:
 
 (8). The right to vote for women (1920). The right to vote for women signified that modern society was ***moving along*** more civilizing lines, putting the United States in a better position (by the spread of freedom) to receive the Fifth Epochal Revelation.
 
-<figure id="Figure_5" class="image urantiapedia image-style-align-right">
+<figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/022.jpg">
 </figure>
 
@@ -88,13 +88,13 @@ Here is my list:
 
 (12). The Coming Space Age (1957). The celestial forces probably anticipated the new perspective the space age would afford. Seeing the planet from space was another way that altered the view of people when thinking about the “world.” (The first crude modern rockets had been experimented on in the United States at least by the 1930s.) The Age of Exploration, starting in the late 15 th Century, dramatically changed the way Europeans perceived the “world.”
 
-<figure id="Figure_6" class="image urantiapedia image-style-align-right">
+<figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/025.jpg">
 </figure>
 
 (13). World Wars; secular Totalitarianism; and, Holocausts. Beginning with the First World War (1914-1918), many people question in various degrees the prospects of humanity's survival and the question (in one form or the other): Why does God seem to permit evil? A new perspective and explanation of human origin, history and destiny were needed. _The Urantia Book_ I think addresses that need.
 
-<figure id="Figure_7" class="image urantiapedia image-style-align-right">
+<figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/027.jpg">
 </figure>
 
@@ -106,7 +106,7 @@ Here is my list:
 
 (15). The Advent of the “Global Village.” Modern industry, technology and science have rendered the world a “neighborhood;” religion, spirituality and higher ethics have heretofore failed to make a “brotherhood.” Celestial revelation is needed to address the real possibility of “arrested growth” in our world because of the great tension between the two. I believe this tension is the primary source of discontent today and in the past 100+ years. To truly progress toward life and light, we require a genuinely enlightened sense of ***Who are we? Why are we here? and, Where are we going?***
 
-<figure id="Figure_9" class="image urantiapedia image-style-align-right">
+<figure id="Figure_9" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/026.jpg">
 </figure>
 
@@ -115,6 +115,12 @@ I will close here. Best wishes, Charles Laurence Olivea
 Former General Councilor
 
 Santa Fe, New Mexico 
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/WEB-VERSION-MMApril20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

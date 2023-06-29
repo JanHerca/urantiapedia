@@ -54,7 +54,11 @@ November 25-December 3 | Guadalajara, Mexico | Xochitl, Quintero | xochilquinter
 November or December | Santiago de Chile | Felipe Arrigorriaga | felipe.arrigorriaga@urantiabook.org
 December (dates to be announced) | Quito, Ecuador | Gabriel Pino | galepino@yahoo.com
 
+## External Links
 
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2023-05-English-Spring.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

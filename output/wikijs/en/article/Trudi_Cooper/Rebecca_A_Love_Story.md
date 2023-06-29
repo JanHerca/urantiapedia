@@ -50,6 +50,12 @@ Poor Rebecca was heartbroken, could not be consoled, and convinced her father to
 
 To me, this is such a tragic and beautiful story, one that we could not know except for the teachings of _The Urantia Book_. We are given insight about Jesus's motivations and decisions. He was conscious of his purpose here, yet sympathetic and sensitive to the feelings of those whose lives he touched. This and other stories in _The Urantia Book_ show the true and deeply-felt humanity of our beloved Creator, Son of God, and Son of Man-Jesus. 
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2022-06-Stepping-Stones.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

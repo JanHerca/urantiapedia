@@ -1,6 +1,6 @@
 ---
 title: "Planned Giving to The Urantia Book Fellowship"
-description: "The Mighty Messenger — Fall 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Fall 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Mighty Messenger, article
@@ -62,6 +62,12 @@ Thank you for your support and contributions!
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/070.jpg">
 <figcaption><em>Resurrection Morning</em>, © 2020 Gary Tonge</figcaption>
 </figure>
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MMFall20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

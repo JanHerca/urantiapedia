@@ -34,7 +34,13 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-This article is a reedition of one article published in [Fellowship Herald 2017](/en/article/Richard_Rosen/Twelve_Ways_I_Hear_from_God).
+This article is a reedition of one article published in [Fellowship Herald 2017](/en/article/Richard_Rosen/Twelve_Ways_I_Hear_From_God).
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2022-06-Stepping-Stones.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

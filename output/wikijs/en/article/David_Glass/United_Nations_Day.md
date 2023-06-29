@@ -57,7 +57,7 @@ These overseers of and contributors to our world's development bring us more ins
 
 Therefore, while we can and should be grateful and pleased that we live in the historical era during which these initial measures towards the realization of the Master's ideal of the brotherhood of man underneath the Fatherhood of God have been realized--even as we continue to celebrate the advent of the fifth epochal revelation which has come in part to assist us in the development of our increasingly mature wisdom regarding the realization of the creative and cosmic intention of our Father that our “human wisdom must evolve.”
 
-<figure id="Figure_3" class="image urantiapedia image-style-align-right">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/016.jpg">
 </figure>
 
@@ -67,9 +67,15 @@ Peace--not passivity
 
 David Glass
 
-<figure id="Figure_4" class="image urantiapedia image-style-align-left">
+<figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/017.jpg">
 </figure>
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Spring.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

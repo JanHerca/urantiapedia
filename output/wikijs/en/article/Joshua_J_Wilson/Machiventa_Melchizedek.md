@@ -38,7 +38,7 @@ Working on Earth since 200,000 BC as One of twelve Planetary Peceivers, Sage of 
 
 **Historical overlay of significant world events**
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/011.jpg">
 </figure>
 
@@ -147,6 +147,12 @@ Let us put our hand to the plow of world progress and move forward with dedicati
 Joshua J. Wilson is a musician, pastoral counselor, and essayist who writes on historical and scientific subjects harmonizing science, philosophy, and spirituality.
 
 He holds a bachelor's degree in Business Administration and Decision Information Systems, specializing in Human Behavior in Organizations, and certificates in Not-forProfit Management and Active Parenting Instruction.
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Spring.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

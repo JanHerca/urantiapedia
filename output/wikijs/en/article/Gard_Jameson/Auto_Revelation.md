@@ -58,6 +58,12 @@ May your eyes and ears be blessed by the radical amazement of creation! May your
 
 > We are living in an axial moment as noted by many seminal thinkers, wherein there is a growing appreciation of the complementary nature of Science and Religion.
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/EBooks/Sources%20of%20Revelatory%20Insight.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

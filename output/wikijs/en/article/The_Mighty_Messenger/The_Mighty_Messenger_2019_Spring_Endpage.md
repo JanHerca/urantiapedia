@@ -56,7 +56,14 @@ Publications Committee:
 - Cece Forrester
 
 877.288.3772
-fellowship@urantiabook.org www.urantiabook.org
+fellowship@urantiabook.org 
+www.urantiabook.org
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Spring.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

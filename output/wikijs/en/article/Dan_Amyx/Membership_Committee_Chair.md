@@ -50,6 +50,12 @@ Previous discussions and interviews with officers and former officers of our Soc
 
 We invite you to join us with your ideas, experiences, or your participation.
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

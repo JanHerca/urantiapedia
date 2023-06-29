@@ -1,6 +1,6 @@
 ---
 title: "Fellowship Field Worker Program"
-description: "The Mighty Messenger — Spring 2020  Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Spring 2020 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Mighty Messenger, article
@@ -45,6 +45,12 @@ Ted Blaney in Ohio and Kentucky, and Brent St. Denis in Ontario, Canada have dem
 An ad hoc committee, chaired by Ted Blaney, has been formed to make recommendations to the General Council, including how to engage societies, find motivated AC/FWs, create a search process, and determine reader populated zones. The committee will propose an efficient, non-burdensome reporting regime, and consider how AC/FW might selforganize in mutual support to encourage gatherings and study groups and to keep the contact list current and growing. Contact Ted Blaney, tblaney@mykrcc.com if you have an interest in participating in the Area Coordinator/ Field Worker effort.
 
 > Isolation tends to exhaust the energy charge of the soul. Association with one's fellows is essential to the renewal of the zest for life and is indispensable to the maintenance of the courage to fight those battles consequent upon the ascent to the higher levels of human living. Friendship enhances the joys and glorifies the triumphs of life. Loving and intimate human association tend to rob suffering of its sorrow and hardship of much of its bitterness. The presence of a friend enhances all beauty and exalts every goodness. By intelligent symbols man is able to quicken and enlarge the appreciative capacities of his friends. One of the crowning glories of human friendship is this power and possibility of the mutual stimulation of the imagination. Great spiritual power is inherent in the consciousness of wholehearted devotion to a common cause, mutual loyalty to a cosmic Deity. [UB 160:28.par](/en/The_Urantia_Book/160#p28_par)
+
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/WEB-VERSION-MMApril20.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

@@ -36,6 +36,12 @@ dateCreated: 2023-6-21T8:13:38Z
 
 This article is a reedition of the same article in the [Mighty Messenger — Spring 1019 Issue](/en/article/Joshua_J_Wilson/Machiventa_Melchizedek).
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2021-03-21-Spring.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

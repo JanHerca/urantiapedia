@@ -40,6 +40,12 @@ dateCreated: 2023-6-21T8:13:38Z
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/009.jpg">
 </figure>
 
+## External Links
+
+* Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2019-Fall.pdf
+
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
