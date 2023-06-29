@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2018">
+        <a href="/en/index/articles_mighty_messenger#fall-2018-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
         </a>
         </td>
@@ -76,7 +76,7 @@ On Cristina's service team, the only standing committee is Publications, which f
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2018">
+        <a href="/en/index/articles_mighty_messenger#fall-2018-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
         </a>
         </td>

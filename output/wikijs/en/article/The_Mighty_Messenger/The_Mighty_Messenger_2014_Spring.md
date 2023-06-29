@@ -43,15 +43,15 @@ The journey begins with a pre-conference retreat called Grow Godward: A Circle o
 
 After a celebratory opening night reception, we’ll kick off the conference at the first of four morning plenaries. Experience extraordinary music and worship our heavenly Father among hundreds of other Urantia Book readers from around the world. We will have one keynote speaker each morning, whose speeches will be followed by engaging small group discussions on some of the most pertinent and thought-provoking topics of concern to our community.
 
+<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<img src="/image/article/The_Mighty_Messenger/2014_Spring/005835.jpg">
+</figure>
+
 Your fellow UB readers will present more than 40 workshops and activities at IC’14, expressing their many approaches to God and sharing what they have learned about growing closer to Him. The program offers different tracks to help inform your decisions about what to attend. These include: “Study the Book,” “Serve with Love,” “Live the Teachings,” “Seek Truth,” “Bring the Family,” “Grow Personally,” and “Engage the World.”
 
 The Family Life program at IC’14 will highlight some of the best ideas we have gathered through the years regarding the spiritual play life of children and effective tools for parenting. It will all happen under a big tent just outside the main conference venue. In the morning, the famous Jerusalem Marketplace will come to life, complete with costumes and a village commerce. In the afternoon, a values program developed by a team of dedicated teachers and youth leaders will offer materials for parents and hands-on experience for children.
 
 The Truthseekers program will engage our teenagers in a meanings and values curriculum each morning, grounded in the teachings of the UB. Then they will head off in the afternoons for water boarding, kayaking, canoeing, sliding down waterfalls, rock climbing, zip lining, and caving. In the evening, the big tent will become a gathering place for Youth Group, where our youth and young adults will share their experiences living _The Urantia Book_’s teachings and imagine what is to come in the future of our movement.
-
-<figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Mighty_Messenger/2014_Spring/005835.jpg">
-</figure>
 
 We invite you to sell your books and art at the conference store, submit to the YouTube Film Festival, and perform your music, poetry, and comedy at the evening open mics. Come see a documentary film and a musical based on _The Urantia Book_, test your knowledge at the UB Quiz Show, and check out the project fair for UB-based projects you might want to get involved in.
 
@@ -88,7 +88,7 @@ Daniel Amyx, the society’s first president, designed a charter certificate whi
 ## Delivering the Good News
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/The_Mighty_Messenger/2014_Spring/005837.jpg">
+<img src="/image/article/The_Mighty_Messenger/2014_Spring/005838.jpg">
 </figure>
 
 People are languishing for the TRUTH.

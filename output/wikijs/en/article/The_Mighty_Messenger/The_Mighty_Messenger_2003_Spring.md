@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">>© 2003 The Urantia Book Fellowship</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 The Urantia Book Fellowship</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -41,7 +41,7 @@ The selection of a Delegate and an Alternate is a very important duty and privil
 
 Society representatives should be chosen for qualities that match the tasks of the Assembly. When the representatives, themselves, have attended Council meetings, know how it functions, and appreciate the kind of volunteers the Council needs to function effectively, then the Assembly can select the best members for the Council. Knowledge of the Fellowship Constitution and how the organization functions is important. Of course, there is no substitute for knowing candidates personally and being aware of their contributions to the revelation. Finally, Society representatives who are level-headed and team players contribute greatly to the Assembly's deliberative process.
 
-> _“10._ Intelligent and trained representation_. The survival of democracy is dependent on successful representative government; and that is conditioned upon the practice of electing to public offices only those individuals who are technically trained, intellectually competent, socially loyal, and morally fit.”_ [[UB 71:2.14](/en/The_Urantia_Book/71#p2_14)]
+> “_10. Intelligent and trained representation_. The survival of democracy is dependent on successful representative government; and that is conditioned upon the practice of electing to public offices only those individuals who are technically trained, intellectually competent, socially loyal, and morally fit.”_ [[UB 71:2.14](/en/The_Urantia_Book/71#p2_14)]
 
 ## Executive Committee Letter
 
@@ -123,8 +123,8 @@ Our theme, “Revelation and the Religionist,” has been chosen to promote the 
 
 With increasing public exposure, these papers will soon face further scrutiny in regard to their mysterious origins in relation to the employment of some of the highest human thoughts and writings of the early 1900s. It is becoming more apparent that some of the science content in various papers in _The Urantia Book_ may be in “need of revision.” This may be troubling to many believers. Yet, we are repeatedly cautioned about crystallizing our truth receptivity and faith acceptance within the limited frame of a written document.
 
-_"Owing to the isolation of rebellion, the revelation of truth on Urantia has all too often been mixed up with the statements of partial and transient cosmologies. Truth remains unchanged from generation to generation, but the associated teachings about the physical world vary from day to day and from year to year. Eternal truth should not be slighted because it chances to be found in company with obsolete ideas regarding the material world. The more of science you know, the less sure you can be; the more of religion you_ have, _the more certain you are._
-
+> _"Owing to the isolation of rebellion, the revelation of truth on Urantia has all too often been mixed up with the statements of partial and transient cosmologies. Truth remains unchanged from generation to generation, but the associated teachings about the physical world vary from day to day and from year to year. Eternal truth should not be slighted because it chances to be found in company with obsolete ideas regarding the material world. The more of science you know, the less sure you can be; the more of religion you have, the more certain you are._
+> 
 > _The certainties of science proceed entirely from the intellect; the certitudes of religion spring from the very foundations of the entire personality. Science appeals to the understanding of the mind; religion appeals to the loyalty and devotion of the body, mind, and spirit, even to the whole personality._ [[UB 102:1.3-4](/en/The_Urantia_Book/102#p1_3)]
 
 When asked about the validity of “holy scripture” as the authority for daily living, Jesus replied to Nathaniel: “_Mark you well my words, Nathaniel, nothing which human nature has touched can be regarded as infallible. Through the mind of man divine truth may indeed shine forth, but always of relative purity and partial divinity. The creature may crave infallibility, but only the Creators possess it._” [[UB 159:4.8](/en/The_Urantia_Book/159#p4_8)]

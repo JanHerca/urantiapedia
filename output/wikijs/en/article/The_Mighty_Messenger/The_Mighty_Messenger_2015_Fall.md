@@ -318,7 +318,7 @@ We here in the Inland Northwest are truly excited to announce that this Septembe
 
 This was all possible through the combined efforts of many Urantia Book readers here in our area. Our Inland Northwest Uranita Society is going to try and be a beacon of innovation and progress for the Fellowship society model.
 
-## SSS 15 and the 6oth Anniversary Celebration of the First Printing
+## SSS 15 and the 60th Anniversary Celebration of the First Printing
 
 Summer Study Session 2015 was an occasion to remember!
 
@@ -330,16 +330,16 @@ After two days of high quality workshops we celebrated with a funfilled party on
 
 The Summer Study Session was preceded by a retreat (“Creating Circles of Trust”) and the TDA and followed by a General Council meeting. It was a time to reflect on the past and look forward to the future! 
 
-<figure id="Figure_18" class="image urantiapedia image-style-align-left">
+<figure id="Figure_18" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2015_Fall/005879.jpg">
 </figure>
 
 
-## nternational Book Fair in Guatemala
+## International Book Fair in Guatemala
 
 By _Dolores Nice_
 
-<figure id="Figure_19" class="image urantiapedia image-style-align-right">
+<figure id="Figure_19" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2015_Fall/005880.jpg">
 </figure>
 

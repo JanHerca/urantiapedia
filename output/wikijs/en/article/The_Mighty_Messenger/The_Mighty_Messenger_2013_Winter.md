@@ -75,6 +75,10 @@ This track is for in-depth study of _The Urantia Book_. A workshop unpacking the
 
 Chair, Marilynn Kulieke - study@ic14.org
 
+<br>
+
+<br>
+
 **Bring the Family**
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left">
@@ -84,6 +88,10 @@ Chair, Marilynn Kulieke - study@ic14.org
 This track provides workshops and activities for whole families and new readers. It is focused on family culture and concepts that participants will find valuable whether or not they are familiar with the UB.
 
 Chair, Janet Graham - families@ic14.org
+
+<br>
+
+<br>
 
 **Serve with Love**
 
@@ -95,6 +103,10 @@ This track provides inspiration and hands-on opportunities for outreach and serv
 
 Chair, Andrea Barnes - service@ic14.org
 
+<br>
+
+<br>
+
 **Seek Truth**
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-left">
@@ -105,6 +117,10 @@ The Truthseekers program has been established as a valuable path for young peopl
 
 Chair, Tom Choquette - truthseekers@ic14.org
 
+<br>
+
+<br>
+
 **Live the Teachings**
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
@@ -114,6 +130,10 @@ Chair, Tom Choquette - truthseekers@ic14.org
 This track offers strategies and experiences to help make the teachings manifest. For instance, a middle school teacher could share how she incorporates character development in the classroom and give participants a chance to practice on each other.
 
 Chair, Cristina Seaborn - music@ic14.org
+
+<br>
+
+<br>
 
 **Engage the World**
 
@@ -126,6 +146,8 @@ Many Urantia Book students are engaged in interfaith work and international dial
 International Chair, Buck Weimer - international@ic14.org
 
 Interfaith Chair, Gary Deinstadt - interfaith@ic14.org
+
+<br>
 
 ## Online Study Groups—So Easy to Join In
 
@@ -195,11 +217,11 @@ If you want to run virtual/telephone study groups, or support an existing physic
 </figure>
 
 <figure id="Figure_9" class="image urantiapedia">
-<img src="/image/article/The_Mighty_Messenger/2013_Winter/005827.jpg">
+<img src="/image/article/The_Mighty_Messenger/2013_Winter/005828.jpg">
 </figure>
 
 <figure id="Figure_10" class="image urantiapedia">
-<img src="/image/article/The_Mighty_Messenger/2013_Winter/005828.jpg">
+<img src="/image/article/The_Mighty_Messenger/2013_Winter/005830.jpg">
 </figure>
 
 ## We Didn’t Call Them Service Projects
@@ -214,15 +236,15 @@ In my opinion, it’s one of the reasons our study group was a vital part of so 
 
 At a study group meeting in that new home, Archie Anderson asked if we would help build a boardwalk through mountain wilderness so that handicapped people could enjoy a mountain trail. Our members said “Yes!” We camped out with our families and worked for the weekend. Last weekend I drove by Wilderness on Wheels and remembered that project with fondness.
 
+<figure id="Figure_11" class="image urantiapedia image-style-align-right">
+<img src="/image/article/The_Mighty_Messenger/2013_Winter/005833.jpg">
+</figure>
+
 While I lived in Pueblo, one of our study group members was suffering the effects of a traumatic brain injury that changed nearly every aspect of his life. He was not able to read even a paragraph aloud at study group. After suddenly reaching a new level of healing, George was motivated to be of service. A project called Eco-Village inspired him. After helping to create a website for the project, he wanted to get his old band together and have a concert to raise funds and awareness. George found an outdoor venue behind a restaurant. We cleaned the patio, arranged the tables, and set up an admission gate. And on the evening of the event, those of us who were not musicians helped set up the stage, sold tickets, and even bartended. We all enjoyed hearing George sing and play with his band again. Even more, our group became closer and we felt like a TEAM for having worked together on this project.
 
 The Boulder Women’s Corps, a group of Urantia Book readers from several study groups, was created to do service for women and children. I still feel close to these women because we imagined, created, and completed some very meaningful acts of service together.
 
 _The Urantia Book_ states: “One of the most important lessons to be learned during your mortal career is teamwork. The spheres of perfection are manned by those who have mastered this art of working with other beings.” [[UB 28:5.14](/en/The_Urantia_Book/28#p5_14)] Becoming a service team with your study group may be one of the most valuable things Urantia Book readers can do together.
-
-<figure id="Figure_11" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2013_Winter/005833.jpg">
-</figure>
 
 Jesus sent the apostles out in pairs for a reason. Perhaps sharing the experience adds to the meaning and value. Even if every person in your study group is not inspired to do this kind of thing together, there are likely to be several who will be willing to join you. Personally, I have noticed that service done as a group is somehow more satisfying. All these projects were experienced because one person with a passion came to the group and asked “Will you help?” Maybe you know of a need in your own community that you could bring to your group. Group service can be a great study group experience.
 

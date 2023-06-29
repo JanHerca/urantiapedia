@@ -164,7 +164,7 @@ They have graciously supplied us with the following pictures of some of the grou
 ## Is Your Study Group Listed?
 
 Is the listing accurate? A Urantia Book study group list can be found on
-the Fellowship’s website at http://urantiabook.org/study_groups/domestic_study _groups.htm.
+the Fellowship’s website at http://urantiabook.org/study_groups/domestic_study_groups.htm.
 
 This list is constantly being updated by the volunteer efforts of Bobbie Dreier, of the New York Society. She needs to be sure the information on your group is current. If you have a group to add, or a correction to make on the current list, please contact Bobbie at bdreier@earthlink.net. 
 

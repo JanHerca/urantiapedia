@@ -113,15 +113,15 @@ More than a year ago, Chris Wood, president of the UAI, approached David Kulieke
 
 Once the leadership of the Fellowship agreed, the joint conference was on.
 
+<figure id="Figure_3" class="image urantiapedia image-style-align-right">
+<img src="/image/article/The_Mighty_Messenger/2016_Fall/005898.jpg">
+</figure>
+
 The planning was the charge of the UAUS with Katrina Glavan-Heise, of San Antonio, doing much of the day to day work. Katrina’s herculean efforts paid off with a fine attendance of about 200 people, with healthy representations of many organizations as well as unaffiliated individuals. There were people from all over the world, including a strong representation of young people, who both presented and met together.
 
 The Fellowship Education Committee was given responsibility for the program, and the Program Committee consisted both of members of Education and others. It was ably chaired by Sherry Layton, an adjunct member of the Education Committee. Sherry said, “We were blessed to have the time and talents of our workshop presenters, plenary speakers, and conference organizers, and youth volunteers. Those talents were put to good use for the greatest good.”
 
 There were four main plenary speakers: Mo Siegel, Carolyn Prentice, Jeffrey Wattles, and David Kulieke. Their presentations can be seen at: https://www.youtube.com/playlist?list=PLQYC6XW8Ev1dVcV1kTXosnJ4CpMU0dbWI.
-
-<figure id="Figure_3" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2016_Fall/005898.jpg">
-</figure>
 
 As to be expected in a first-time, joint event such as the San Antonio conference, there was plenty to be learned. David Kulieke stated, “In the end it was extremely valuable to have had this joint event. While it became clear to many of us that such combined efforts in the future will work better if both groups are involved at the beginning, it was also clear that many individuals made new friends with other readers of _The Urantia Book_ and that we liked being with each other. The Fellowship Education Committee was pleased that the conference met expectations for a worthwhile educational experience.”
 
@@ -301,7 +301,7 @@ Sean is a first generation reader, his brother introduced him to the book in 200
 
 Two seats have become vacant on the General Council (GC) for an 18 month term ending in the summer of 2018.
 
-<figure id="Figure_7" class="image urantiapedia image-style-align-left">
+<figure id="Figure_7" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2016_Fall/005902.jpg">
 </figure>
 

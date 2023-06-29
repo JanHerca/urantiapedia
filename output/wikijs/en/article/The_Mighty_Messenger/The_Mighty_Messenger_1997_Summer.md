@@ -107,7 +107,7 @@ Marian was born and grew up in upstate New York. She attended Wells College and 
 
 ## Letter from the President
 
-Janet Farrington Graham
+_Janet Farrington Graham_
 
 When Peter declared that Jesus was the Son of the living God, Jesus replied: “Upon this rock of spiritual reality will I build the living temple of spiritual fellowship in the eternal realities of my Father's kingdom.” This is the foundation upon which the fourth epochal revelation stands. Those of us dedicated to the fifth epochal revelation also talk of building spiritual community, of manifesting the revealed truth of cosmic citizenship in our work together.
 

@@ -85,7 +85,7 @@ Education Committee Chair Gary Deinstadt, reponed that the Education website is 
 
 ## Pipeline of Light
 
-Michelle Klimesh
+_Michelle Klimesh_
 
 The Pipeline of Light was launched three years ago to address the enormous demand for _The Urantia Book_ in countries where readers cannot afford them. When I first heard the story of a group of seventy readers in South America who were sharing eleven books between them, I knew I would be irresistibly drawn to this project. Groups of readers around the world are studying the revelation in extraordinary circumstances. How fortunate we are to be blessed with the resources to help them!
 
@@ -193,7 +193,7 @@ and we worshiped... together.
 
 ## Making Spirit Matter: Reflections On IC 05
 
-Bobbie Dreier
+_Bobbie Dreier_
 
 I look forward to internacional conferences. They bring together hundreds of Urantia Book readers, and the spiritual energy is palpable as we share our desire to do God's will. This year there were readers from thirteen countries.
 

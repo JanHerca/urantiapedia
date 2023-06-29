@@ -39,7 +39,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 The summer conference/summer study session of 2016 is gaining momentum! The In This Issue first plenary will begin Thursday evening, June 9, and the conference will concludes at noon on Sunday, June 12. The organizing entities are the Lone Star Urantia Association and the Education Committee of the Fellowship. www.Urantia-LSUA.org is also the address at which people should register, if they haven’t already. There is still plenty of time to be a part of what promises to be a warm and spiritual gathering of reunion and education.
 
-Katrina Glavan-Heise of the LSUA is the overall head of the details, registration, and logistics for the conference. She wants people to know that there is scholarship money for which individuals may apply. “At our website where it describes the conference is a button to apply for a scholarship: www.Urantia-LSUA.org.” Katrina added that 2016 UAUS/Fellowship conference attendees wishing to rent should use the specific Budget Customer Discount (BCD) number of U001963 when they call Budget at 1-800-842-5628 to make a reservation. The BCD is effective from 7 days prior to the event until 7 days after the conference. The BCD number will automatically be placed in the reservation detail when used with this hyperlink: https://www.budgetcarrental.com/budget/meetings/go.html?BCD=U001963&NAME=Lone+Star+Urantia+Assocaition+&FDATE=06072016&TDATE=06142016&LOCATION2=&LOCATION1=San+Antonio%2cTX&EVENT=0&IN=&AA=0. (You can also use the active link in the March mini-Messenger.)
+Katrina Glavan-Heise of the LSUA is the overall head of the details, registration, and logistics for the conference. She wants people to know that there is scholarship money for which individuals may apply. “At our website where it describes the conference is a button to apply for a scholarship: www.Urantia-LSUA.org.” Katrina added that 2016 UAUS/Fellowship conference attendees wishing to rent should use the specific Budget Customer Discount (BCD) number of U001963 when they call Budget at 1-800-842-5628 to make a reservation. The BCD is effective from 7 days prior to the event until 7 days after the conference. The BCD number will automatically be placed in the reservation detail when used with this hyperlink: [Reservation](https://www.budgetcarrental.com/budget/meetings/go.html?BCD=U001963&NAME=Lone+Star+Urantia+Assocaition+&FDATE=06072016&TDATE=06142016&LOCATION2=&LOCATION1=San+Antonio%2cTX&EVENT=0&IN=&AA=0). (You can also use the active link in the March mini-Messenger.)
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2016_Spring/005885.jpg">
@@ -128,13 +128,13 @@ Councilors Paul M. Anderson of Boston and Guillermo Deoto of Florida, who were e
 
 ## MM Spring 2016 – New GC Members 
 
-<figure id="Figure_7" class="image urantiapedia image-style-align-left">
+<figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2016_Spring/Miranda_Clendening.jpg">
 </figure>
 
 **Miranda Clendening**, a member of the Rocky Mountain Spiritual Fellowship, has already been deeply involved in service activities, both within the Fellowship, and the community. She is a youth counselor, an Interfaith minister, and served on the Family Committee for the 2014 Fellowship International Conference. She hopes to bring an enthusiastic and positive spirit to disseminating _The Urantia Book_ teachings in new and creative ways world-wide, putting most of her time toward family life activities at the 2017 International Conference, and assisting the YaYA committee.
 
-<figure id="Figure_8" class="image urantiapedia image-style-align-left">
+<figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2016_Spring/Avi_Dogim.jpg">
 </figure>
 

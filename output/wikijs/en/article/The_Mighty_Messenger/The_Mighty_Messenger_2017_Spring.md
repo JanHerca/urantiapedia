@@ -57,7 +57,7 @@ Teens 13 and older may join the Truthseekers’ adventure, their parents as work
 
 Our team is the backbone of the program, yet to really “spread our wings” and fly, we will need volunteers. Each attending parent will be relied upon to volunteer, as usual, and we welcome all folks who have a love for and care about children to serve—we’ll only be as good as all the minds, hearts, and hands involved. To quote our friend Paula Thompson, “If you want to change the world, love a child”! I pray any and all of us want to change the world enough to come love children for a while during the IC’17 children’s program. 
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-left">
+<figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2017_Spring/005909.jpg">
 </figure>
 
@@ -77,7 +77,7 @@ Truthseeker scholarships are available with paying parent registration. Please c
 
 Store We will again have a store at this year’s International Conference. 
 
-<figure id="Figure_3" class="image urantiapedia image-style-align-left">
+<figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2017_Spring/005910.jpg">
 </figure>
 
@@ -136,7 +136,7 @@ www.TheBoulderSchool.com – Please pass it on !!
 
 ## Remembering at IC’17: 
 
-<figure id="Figure_6" class="image urantiapedia image-style-align-left">
+<figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2017_Spring/005913.jpg">
 </figure>
 
@@ -154,7 +154,7 @@ Pueblo, CO
 
 ## Meet the New General Councilors 
 
-<figure id="Figure_7" class="image urantiapedia image-style-align-left">
+<figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2017_Spring/Susan_Rowland.jpg">
 </figure>
 
@@ -164,13 +164,13 @@ Through her work, she has found many of the concepts in _The Urantia Book_ regar
 
 As a student of text and study group host since 1990, she has been blessed with the opportunity to now serve on the General Council at a time when our beloved Fellowship is in the process of adjusting to the challenges of unity and moving forward in a new generation. She looks forward to serving her faith and new friends to the best of her ability. 
 
-<figure id="Figure_8" class="image urantiapedia image-style-align-left">
+<figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2017_Spring/Diane_Labrecque.jpg">
 </figure>
 
 **Diane Labrecque** has been a reader of _The Urantia Book_ since 1991 and an active member of the Urantia Community ever since. Diane founded The United Urantia Family in 2010 offering triennial gatherings for UB readers meeting together from different countries, coupled with the Easter Renewal Retreats aimed at renewing our spirit with Jesus Christ Michael during the yearly time of His Resurrection. In 2013, she started to organize trips or pilgrimages to the Holy Land of Jesus for UB readers which was met with great success. Diane was a frequent guest on the Blogtalk Radio Show Cosmic Citizen hosted by Paula Thompson along with her co-hosts. Diane has a Urantia Book study group at her house in Montreal every Wednesday evening. 
 
-<figure id="Figure_9" class="image urantiapedia image-style-align-left">
+<figure id="Figure_9" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2017_Spring/Derek_Samaras.jpg">
 </figure>
 

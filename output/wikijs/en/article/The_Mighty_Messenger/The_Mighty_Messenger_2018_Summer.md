@@ -24,7 +24,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/article/The_Mighty_Messenger/The_Mighty_Messenger_2018_Fall">
+        <a href="/en/article/Cristina_Seaborn/The_Parliament_of_Worlds_Religions">
           <span class="pr-2">Fall 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -149,15 +149,15 @@ If, after reading this and checking in with our Father, you feel you would like 
 
 Have you ever wondered what your life would have been like without _The Urantia Book_? We at the Fellowship have asked ourselves this question, and we find we can’t imagine life without the revelation; and that has profoundly determined our constant efforts to spread the revelation to the world.
 
+<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<img src="/image/article/The_Mighty_Messenger/2018_Summer/005931.jpg">
+</figure>
+
 We have many projects going among our societies, committees, and even individuals who take on special projects on their own. One project which has engrossed the Fellowship for some time is the Pipeline of Light. The Pipeline is an effort of _The Urantia Book_ Fellowship to get all translations of _The Urantia Book_ into the hands of people around the world, especially those in developing countries. It was our response to a need presented in the 1990s by people from Estonia, Mexico, and Chile. In one instance there were 100 sincere revelation students sharing just one Spanish Urantia Book.
 
 In just the first quarter of 2018 the Pipeline placed 456 copies of _The Urantia Book_ into seven countries. With a ready supply of affordable translations from Urantia Foundation and donations to the Pipeline books were given to readers and study groups in Argentina, Mexico, Venezuela, the United States, Peru, Australia, and Columbia. Books sent out this quarter include 428 Spanish translations and 28 English books. Current efforts bring the Pipeline grand totals to 8,309 copies placed into 90 countries around the world.
 
 For three decades the Fellowship’s Outreach Committee has been highly active in a variety of ways. Concentrating especially in the U.S., this committee sends volunteers to book fairs, college campuses, and other venues to present _The Urantia Book_ to people from all walks of life. Most of them have never heard of the book before. Interested readers at these presentations may also receive a free Urantia Book on request by filling out a card provided by the Fellowship representative. Through the Outreach Committee Urantia Books are now reaching new readers around the country via a prison book program. The response in this area is encouraging.
-
-<figure id="Figure_2" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2018_Summer/005931.jpg">
-</figure>
 
 To keep all of our readers informed of Fellowship community building activities, the Publications Committee produces three different types of communications: a monthly online newsletter, the Mini Messenger, a printed, twice annual Mighty Messenger with news of upcoming events, and the Fellowship Herald featuring the best thoughts and insights of individuals who have been inspired by the revelation. These are only some of the projects engaging the members of the Fellowship for over 60 years, but costs, needs, and opportunities have continued to increase. You have helped bring wonderful accomplishments about in the past, but there is so much more that we can and must do to bring this revelation to the world.
 
@@ -206,15 +206,17 @@ Alaskans love to travel, as we enjoy reaching out into the world! Many of our me
 
 June 22 – 24,2018 Edgewood College, Madison, WI
 
+<figure id="Figure_5" class="image urantiapedia image-style-align-right">
+<img src="/image/article/The_Mighty_Messenger/2018_Summer/005934.jpg">
+</figure>
+
 Children (people in high school and younger) are free. They will not be merely accommodated, we are actively inviting you to bring your children and grandchildren. We have a second generation reader experienced with young children and youth ministry leading the children’s program. There’s even a budget. I think they’re planning on buying a million dollars worth of glue and glitter.
 
 Fees are great. $150 for both nights and all meals from Friday supper through Sunday lunch. Commuters (attending and eating Friday – Sunday, but not staying overnight) pay $100. Meals are good for omnivores and plantivores.
 
 _The Urantia Book_ provides us with a new understanding of the concept of Family, using it as a platform to expand our understanding of the Creator Son and Mother Spirit, of our responsibilities to our fellow men and women, and of God, the Universal Father.
 
-<figure id="Figure_5" class="image urantiapedia image-style-align-right">
-<img src="/image/article/The_Mighty_Messenger/2018_Summer/005934.jpg">
-</figure>
+
 
 Join us in Madison to explore how our understanding of Family influences our daily lives and our relationships with the Divine. Worship experiences are being planned.
 
@@ -223,10 +225,6 @@ For registration and further information: https://sites.google.com/view/urantiaw
 
 ## Save the Date
 
-<figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Mighty_Messenger/2018_Summer/005935.jpg">
-</figure>
-
 **Greater Lake Michigan Urantia Association** cordially invites you to save the date and plan to attend our: Jesus’ Birthday Celebration at Turkey Run State Park, Indiana, Sunday, August 19th, 2018, 11 am EST
 
 Potluck Dinner • Jesus’ Birthday Celebration Program •Family Day Of Fun
@@ -234,6 +232,10 @@ Potluck Dinner • Jesus’ Birthday Celebration Program •Family Day Of Fun
 The Tennis Shelter is on Sugar Creek and will accommodate up to 96 people inside (in case of inclement weather.) fireplace and 2 grills, plenty of parking, restrooms nearby, outdoor pool, nature center, tennis courts, hiking trails, riding stables, handicapped accessible, Camping, tubing, canoeing, golf, and go-cart is also available within just a few minutes of the shelter. For those interested in a longer stay, cabins & lodge are available with a full service restaurant, indoor pool, game room.
 
 This is covered bridge country - scenic and beautiful and there is plenty to do to keep the whole family entertained! State Park Entrance Fee is $7 per car for Indiana residents / $9 per car for out-of-state residents / $2 per person bikes/buses.
+
+<figure id="Figure_6" class="image urantiapedia">
+<img src="/image/article/The_Mighty_Messenger/2018_Summer/005935.jpg">
+</figure>
 
 > **Gatherings - Southwest**
 {.is-info}
@@ -371,7 +373,7 @@ www.urantiabook.org
         </a>
         </td>
         <td>
-        <a href="/en/article/The_Mighty_Messenger/The_Mighty_Messenger_2018_Fall">
+        <a href="/en/article/Cristina_Seaborn/The_Parliament_of_Worlds_Religions">
           <span class="pr-2">Fall 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

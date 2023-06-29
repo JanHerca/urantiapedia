@@ -61,7 +61,7 @@ On June 20, 2001, a federal jury found Urantia Foundation's 1983 copyright renew
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2001_Summer/005964.jpg">
-<figcaption>A ioyous and uplifting Summer Study Session, held at the University of California Santa Cruz (see related article on page 3). Photo of remembrance supper courtesy of Martha Babatola.<em></em></figcaption>
+<figcaption>A joyous and uplifting Summer Study Session, held at the University of California Santa Cruz (see related article on page 3). Photo of remembrance supper courtesy of Martha Babatola.<em></em></figcaption>
 </figure>
 
 
@@ -138,7 +138,7 @@ We were thus able to experience _The Urantia Book_ in Colombia as it is being ap
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2001_Summer/005965.jpg">
-<figcaption>Duane Faw (left), accomponied by his wife, Lucille, are shown with Avi Dogim, President of _The Urantia Book_ Fellowship.<em></em></figcaption>
+<figcaption>Duane Faw (left), accompanied by his wife, Lucille, are shown with Avi Dogim, President of The Urantia Book Fellowship.<em></em></figcaption>
 </figure>
 
 ## Familiar, But Sometimes Forgotten?
@@ -198,8 +198,8 @@ Please send all information to the Fellowship office, 529 Wrightwood Ave.,Chicag
 Published quarterly by Uversa Press for the Publications Committee of _The Urantia Book_ Fellowship
 Members: Linda Buselli, Chair Nancy Johnson, Sage Waitts, Gary Deinstadt, Al Aldo
 Phone: 773-327-0424. Fax:773-327-6159
-email: fellowship@urantiobook.org
-website: http://www.ubfelloship.org
+email: fellowship@urantiabook.org
+website: http://www.ubfellowship.org
 
 > Greatness lies not so much in possessing strength as in making a wise and divine use of such strength. ([UB 48:7.27](/en/The_Urantia_Book/48#p7_27))
 

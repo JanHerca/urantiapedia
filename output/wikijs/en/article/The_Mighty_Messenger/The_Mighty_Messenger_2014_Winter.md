@@ -153,7 +153,7 @@ Current UBSGD team members are: Bill Beasley, Scott Brooks, Barry Clark, Jacquel
 
 ## Joshua ben Joseph Project Update
 
-<figure id="Figure_8" class="image urantiapedia image-style-align-left">
+<figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2014_Winter/005850.jpg">
 </figure>
 

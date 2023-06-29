@@ -167,7 +167,7 @@ We sold a book to a young man the first hour of the first day and thought “Thi
 
 The Jerusalem Book Fair was probably our least productive exposure of _The Urantia Book_ to the public; making it painfully clear to all of us how far we are from the world-wide acceptance of the Fifth Epochal Revelation.
 
-<figure id="Figure_7" class="image urantiapedia image-style-align-left">
+<figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2015_Spring/005858.jpg">
 </figure>
 
@@ -207,25 +207,25 @@ Did you know that a complete set of recordings of Bill Sadler lectures can be li
 
 We have several great active bloggers who regularly post inspiring messages here: https://www.urantiabook.org/urantian-blogs
 
-<figure id="Figure_9" class="image urantiapedia">
-<img src="/image/article/The_Mighty_Messenger/2015_Spring/005860.jpg">
-</figure>
-
 We add new products to our online store regularly. Now available is David Kantor’s excellent video, Re-Imagining Jesus: A visual journey into _The Urantia Book_ story of Jesus.
 
 Did you also know that the Fellowship’s site is a definitive resource on Urantia scholarship? We just added an amazing new study by Urantia scholar Stuart Kerr: God, Man and Supreme: Origin and Destiny. It is available in PDF format and has great diagrams.
 
 Our website, https://www.urantiabook.org is a 20 year labor of love created by dedicated and devoted students of _The Urantia Book_. The Fellowship was one of the very first organizations to provide web resources for the revelation.
 
+<figure id="Figure_9" class="image urantiapedia image-style-align-right">
+<img src="/image/article/The_Mighty_Messenger/2015_Spring/005860.jpg">
+</figure>
+
 The site features 60 years’ worth of scholarship and study. It’s a virtual treasure trove for seekers and serious students alike. If you can’t find something you want, just type a keyword associated with that resource into the main search bar on the site’s header and see what comes up.
 
 You may have noticed some design changes in certain pages of the site. We are currently making our site responsive so that it can be accessed from every kind of device. Please watch for the official release soon. We pledge to always strive to make our site one that is fresh, interesting, dependable and useful.
 
-<figure id="Figure_10" class="image urantiapedia image-style-align-left">
+Change the last two lines of the article to this: By the way, if you appreciate this effort and find it to be a helpful and useful resource, please help us to keep it going by going to www.urantiabook.org and clicking the DONATE button at the top of the home page. Or, you can send a check to: _The Urantia Book_ Fellowship, PO Box 6631, Broomfield, CO 80021. And thank you!
+
+<figure id="Figure_10" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2015_Spring/005861.jpg">
 </figure>
-
-Change the last two lines of the article to this: By the way, if you appreciate this effort and find it to be a helpful and useful resource, please help us to keep it going by going to www.urantiabook.org and clicking the DONATE button at the top of the home page. Or, you can send a check to: _The Urantia Book_ Fellowship, PO Box 6631, Broomfield, CO 80021. And thank you!
 
 ## Publications Online?
 
@@ -237,9 +237,9 @@ If you would prefer to receive our publications, the Mighty Messenger and the Fe
 - The Fellowship Summer Study Session 2015, July 9-12, at Techny Towers, Northbrook, IL. A pre-conference retreat, “Creating Circles of Trust”, July 9, will precede the study session.
 - For a regular Saturday treat, tune into the “Cosmic Citizen” webcast with call-in. 10:00 AM Mountain. Call-in number for webcast. http://www.blogtalkradio.com/CosmicCitizen. Call-in number: 646-716-8158 (North America) during the time the show is live. Archived shows are available.
 
-## The Mighty
+## The Mighty Messenger Staff
 
-Messenger Staff Published by Uversa Press for the Publications Committee of _The Urantia Book_ Fellowship.
+Published by Uversa Press for the Publications Committee of _The Urantia Book_ Fellowship.
 Members: Linda Buselli, Chair Cece Forrester, David Glass, Nancy Johnson, Sage Waitts
 877.288.3772
 fellowship@urantiabook.org
