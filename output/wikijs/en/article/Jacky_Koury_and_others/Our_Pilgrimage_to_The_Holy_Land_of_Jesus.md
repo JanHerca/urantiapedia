@@ -1,5 +1,5 @@
 ---
-title: "Summer Study Session 2019 — Thursday, June 27-Sunday, June 30"
+title: "Our Pilgrimage to The Holy Land of Jesus"
 description: "The Mighty Messenger — Spring 2019 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z

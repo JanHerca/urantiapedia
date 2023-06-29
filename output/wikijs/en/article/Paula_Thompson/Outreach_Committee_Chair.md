@@ -62,7 +62,7 @@ These outreach exhibits provide priceless opportunities to put a human face on t
 
 Our newest Outreach Committee member is Sue Haskell. She has created a much needed document to help people start to read the revelation, called [How To Read _The Urantia Book_](https://www.urantiabook.org/study-aids/how-to-read-the-urantia-book). Sue has also written Ten Reasons Why New Age Teachers Need to Read _The Urantia Book_. Sue also worked with Teuvo Orjala on this feature for the UrantiaNow website: [What On Earth Is Going On With Eclipses And _The Urantia Book_](https://urantianow.com/world-going-eclipses-urantia-book/). We certainly look forward to working on more projects with Sue.
 
-Finally, the radio show The Cosmic Citizen just celebrated its $11^{\text {th }}$ year of weekly broadcasts based on, and inspired by, the amazing and wonderful teachings of _The Urantia Book_. This effort is sponsored and paid for by The Fellowship's Outreach Committee. Kudos to the hosts and guests who bring these weekly episodes to life. Many thanks to Paula Thompson, Christilyn Biek Larson, Andre Radatus, Chuck
+Finally, the radio show The Cosmic Citizen just celebrated its 11^th^ year of weekly broadcasts based on, and inspired by, the amazing and wonderful teachings of _The Urantia Book_. This effort is sponsored and paid for by The Fellowship's Outreach Committee. Kudos to the hosts and guests who bring these weekly episodes to life. Many thanks to Paula Thompson, Christilyn Biek Larson, Andre Radatus, Chuck
 
 Thurston and Derek Samaras for giving many hours of time hosting the program.
 
