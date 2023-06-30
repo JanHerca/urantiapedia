@@ -242,7 +242,7 @@ Próximos Eventos…
 - **29 de julio-agosto**. 1 de enero de 2010 - UB The News Conference, «Education for Outreach» Boulder, CO Para obtener más información, visite www.ubthenews.com/Education_for_Outreach.htm.
 - **Ago. 20−22, 2010** - Retiro «Corazón de las Montañas», Valle Crucis, NC cerca de Boone. Para más información dirigirse a seretreat2010@yahoo.com.
 
-## El bastón de mensajero poderoso
+## Equipo del Mighty Messenger
 
 Publicado por Uversa Press para el Comité de Publicaciones de la Fellowship de _El Libro de Urantia_.
 Miembros: Linda Buselli, presidenta Cece Forrester David Glass, Nancy Johnson, Sage Waitts

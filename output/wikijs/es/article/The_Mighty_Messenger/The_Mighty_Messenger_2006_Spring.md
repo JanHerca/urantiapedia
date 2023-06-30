@@ -196,7 +196,7 @@ simplemente vaya a: www.urantiabook.org (http://www.urantiabook.org/) y haga cli
 
 ## Al sur de la frontera…
 
-<figure id="Figure_7" class="imagen urantiapedia estilo-imagen-alinear-derecha">
+<figure id="Figure_7" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2006_Spring/005628.jpg">
 </figure>
 
@@ -287,7 +287,7 @@ Si envía documentos a Larry, comuníquese con él por correo electrónico o por
 - 25 al 27 de agosto de 2006 - Retiro Anual de la Red de Retiros. Tema: «Entregarse al Espíritu», en el Centro de Retiros Kindred Spirits, Eugene, Oregón. Para obtener más información, comuníquese con Jeannette Schafer en jeannetts@comcast.net.
 - 25 al 31 de agosto de 2006 (7 noches) - Moussa Ndiaye continuará su seminario avanzado para angloparlantes en Silver Springs Retreat Center, Ontario. Más información disponible en www.ubretreats.ca.
 
-## El bastón de mensajero poderoso
+## Equipo del Mighty Messenger
 
 Publicado por Uversa Press para el Comité de Publicaciones de la Fellowship de _El Libro de Urantia_.
 Miembros: Linda Buselli, Presidenta Lynda D'Arcangelo, Laura Hay, Nancy Johnson, Joe Liszka, Sage Waitts

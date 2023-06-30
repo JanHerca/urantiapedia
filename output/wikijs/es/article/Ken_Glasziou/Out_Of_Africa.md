@@ -15,7 +15,7 @@ dateCreated: 2022-09-26T16:45:14.471Z
       <tr>
         <td>
         <a href="/es/article/Ken_Glasziou/Lessons_from_Jesus_Discourse_on_Science">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lecciones del “discurso de ciencia de Jesús”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lecciones del «discurso de ciencia de Jesús»</span>
         </a>
         </td>
         <td>
@@ -50,7 +50,7 @@ Este concepto se puso a prueba (Science, vol. 292, p. 115) en el Centro de Gené
       <tr>
         <td>
         <a href="/es/article/Ken_Glasziou/Lessons_from_Jesus_Discourse_on_Science">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lecciones del “discurso de ciencia de Jesús”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lecciones del «discurso de ciencia de Jesús»</span>
         </a>
         </td>
         <td>

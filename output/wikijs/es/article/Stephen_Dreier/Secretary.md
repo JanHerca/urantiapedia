@@ -14,17 +14,17 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Bobbie_Dreier/2019_Summer_Study_Session_Worship">
+        <a href="/es/article/Bobbie_Dreier/2019_Summer_Study_Session_Worship">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2019 Summer Study Session Worship</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Emilio_Coppola/Treasurer">
+        <a href="/es/article/Emilio_Coppola/Treasurer">
           <span class="pr-2">Treasurer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -34,9 +34,9 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-<figura id="Figura_1" clase="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/005.jpg">
-</figura>
+</figure>
 
 Las tareas principales del Secretario incluyen el mantenimiento de registros organizacionales. Estas tareas incluyen: el registro de las actas de las reuniones del Consejo General; recopilar información del censo de la confraternidad; y registrar las actas de las reuniones de la corporación Fellowship, la Fifth Epochal Fellowship. El Secretario también es responsable de mantener actualizados los registros de membresía de la sociedad.
 
@@ -57,17 +57,17 @@ Me gustaría ayudar al próximo Secretario a ponerse al día con el trabajo. Esa
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Bobbie_Dreier/2019_Summer_Study_Session_Worship">
+        <a href="/es/article/Bobbie_Dreier/2019_Summer_Study_Session_Worship">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2019 Summer Study Session Worship</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Emilio_Coppola/Treasurer">
+        <a href="/es/article/Emilio_Coppola/Treasurer">
           <span class="pr-2">Treasurer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

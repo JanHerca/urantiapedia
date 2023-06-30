@@ -15,7 +15,7 @@ dateCreated: 2022-09-26T04:35:20.588Z
       <tr>
         <td>
         <a href="/es/article/Ken_Glasziou/Agree_with_your_Adversary">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“De acuerdo con tu adversario”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«De acuerdo con tu adversario»</span>
         </a>
         </td>
         <td>
@@ -68,13 +68,13 @@ Ya no hay debates históricos serios entre los eruditos bíblicos sobre cualquie
 
 El trabajo arqueológico israelí detallado ha demostrado, sin duda para su disgusto, que Jerusalén era un pequeño pueblo amurallado antes del siglo IX a. C., y que Judá no tenía suficiente población para tener influencia política o militar en la región.
 
-La acción fue en el norte, pero incluso allí no fue tan gloriosa como la Biblia nos hace pensar. Y en cualquier caso, no hay nada que sugiera que un nuevo pueblo se mudó a Palestina a finales de la Edad del Bronce. Los llamados asentamientos "israelitas" en las tierras altas alrededor del año 1200 a. C. son simplemente cananeos con un nuevo código postal.
+La acción fue en el norte, pero incluso allí no fue tan gloriosa como la Biblia nos hace pensar. Y en cualquier caso, no hay nada que sugiera que un nuevo pueblo se mudó a Palestina a finales de la Edad del Bronce. Los llamados asentamientos «israelitas» en las tierras altas alrededor del año 1200 a. C. son simplemente cananeos con un nuevo código postal.
 
 La guerra de trincheras actual entre la Biblia y la arqueología involucra a los minimalistas que sugieren que no es posible una historia de Israel/Judá antes del exilio (en Babilonia), y a los maximalistas (que conceden todo hasta el imperio salomónico inclusive, pero abogan por una el surgimiento de Judá/Jerusalén en los siglos IX a VIII a. C.).
 
 Si la verdad histórica se encuentra en algún lugar entre los minimalistas y los maximalistas, como los buenos anglicanos se inclinarán a esperar, hay profundas implicaciones teológicas. Uno de ellos, como **AB** debe o debería saber, es que Jesús no es la encarnación de las esperanzas del antiguo pacto o el cumplimiento de las promesas divinas hechas a Abraham, Moisés, David, et al. **Esos tipos no existieron** y Dios nunca les hizo tales promesas.
 
-> No hay nada que necesites hacer para ser digno. Ya eres digno. Y eres digno simplemente porque "eres".
+> No hay nada que necesites hacer para ser digno. Ya eres digno. Y eres digno simplemente porque «eres».
 
 > ¿Aumenta tu autoestima? Fácil: haz cosas buenas y recuerda que las hiciste.
 
@@ -84,7 +84,7 @@ El camino a seguir no está en defender una pseudohistoria sólo porque es Sagra
 
 Podemos debatir si Jesús tuvo una resurrección corporal, pero qué se gana con eso, ya que ninguno de nosotros piensa que los restos mortales de Jesús fueron llevados a un cielo «allá arriba». ¡Y una resurrección corporal implica que deben ser eliminados de alguna otra manera, posiblemente milagrosa!
 
-La pregunta previa a la resurrección es: «¿Qué pasó con el cadáver de Jesús?» Si alguna vez resolvemos eso, podemos comenzar a preguntarnos qué podría significar una resurrección corporal en el siglo XXI a diferencia del primero, en el que se creía que las personas muertas a menudo volvían a "este mundo" o pasaban a "el próximo mundo."
+La pregunta previa a la resurrección es: «¿Qué pasó con el cadáver de Jesús?» Si alguna vez resolvemos eso, podemos comenzar a preguntarnos qué podría significar una resurrección corporal en el siglo XXI a diferencia del primero, en el que se creía que las personas muertas a menudo volvían a «este mundo» o pasaban a «el próximo mundo.»
 
 En este punto, estoy con Saulo de Tarso. En [1 Co. 15](/es/Bible/!_Corinthians/15) deja claro que Jesús estaba muerto y sepultado (es decir, se había ido), pero luego se convirtió en un espíritu vivificante. El propio encuentro de Pablo con el Señor Resucitado no involucró una resurrección corporal sino (como todos los otros episodios similares) una aparición, afirmando así el principio teológico de que la carne y la sangre no heredan el reino de Dios.
 
@@ -119,13 +119,13 @@ Pero esto también indica que una interpretación literal de secciones de los Do
 
 > «_Ninguna revelación que no sea la consecución del Padre Universal puede ser completa. Todos los demás servicios celestiales no son más que parciales, transitorios y prácticamente adaptados a las condiciones locales en el tiempo y el espacio._» ([LU 92:4.9](/es/The_Urantia_Book/92#p4_9))
 
-Una declaración clave del artículo de **AA** es: "Dado lo que sabemos, los cristianos en el siglo XXI deben entender a Dios y a Jesús lo mejor que podamos"._
+Una declaración clave del artículo de **AA** es: «Dado lo que sabemos, los cristianos en el siglo XXI deben entender a Dios y a Jesús lo mejor que podamos»._
 
 ¿Qué saben los lectores del Libro de Urantia que ayudará a dar sentido a Dios y Jesús? Hay un elemento crítico de conocimiento que los cristianos ya conocían bien en el primer siglo EC, pero que desde entonces han perdido, a pesar de que hay más de veinte versículos del Nuevo Testamento para recordárselos.
 
 En la actualidad, desde el punto de vista de la humanidad, el elemento de conocimiento más importante que existe en nuestro planeta se refiere a los hechos del cómo, qué y por qué de nuestra morada por el espíritu mismo de nuestro Dios Padre. Y debido a que se pierde u olvida en casi todas partes, por defecto, dicho conocimiento está cerca de convertirse en posesión exclusiva de los devotos del Libro de Urantia.
 
-¿Qué vamos a hacer con este conocimiento? Cada individuo debe descubrir esto por sí mismo. Sin embargo, con certeza, si ponemos nuestra fe en nuestro Dios-Espíritu-Interno y, como el Jesús humano, siempre buscamos hacer la voluntad del Padre tal como nos es revelada por el Espíritu-Interno, entonces "todo lo demás necesario será añadido". a nosotros.”
+¿Qué vamos a hacer con este conocimiento? Cada individuo debe descubrir esto por sí mismo. Sin embargo, con certeza, si ponemos nuestra fe en nuestro Dios-Espíritu-Interno y, como el Jesús humano, siempre buscamos hacer la voluntad del Padre tal como nos es revelada por el Espíritu-Interno, entonces «todo lo demás necesario será añadido». a nosotros.”
 
 Y quizás finalmente:_ «Cuando los hombres vean que los aman tanto y cuán fervientemente los sirven, percibirán que se han convertido en compañeros de fe del reino y seguirán el Espíritu de la Verdad que ven en sus vidas... .»
 
@@ -143,7 +143,7 @@ Y quizás finalmente:_ «Cuando los hombres vean que los aman tanto y cuán ferv
       <tr>
         <td>
         <a href="/es/article/Ken_Glasziou/Agree_with_your_Adversary">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“De acuerdo con tu adversario”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«De acuerdo con tu adversario»</span>
         </a>
         </td>
         <td>

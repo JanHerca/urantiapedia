@@ -222,7 +222,7 @@ Pamela L. Burr, teniente coronel retirada de la Fuerza Aérea de EE. UU. y lecto
 
 Cuando se le preguntó qué la impulsó a iniciar este proyecto, Pamela dijo:
 
-«Había estado orando al Padre y pidiéndole que me mostrara cómo podría servirle mejor cuando recibiera su tarea…. es decir, “llevar a cabo un ministerio de alcance a los hombres y mujeres de las fuerzas armadas en los lugares desplegados». Siendo yo mismo un militar retirado y habiendo apoyado operaciones militares en el desierto, aprecié las necesidades de estos jóvenes militares que arriesgan sus vidas para que podamos disfrutar de las libertades por las que vivimos”.
+«Había estado orando al Padre y pidiéndole que me mostrara cómo podría servirle mejor cuando recibiera su tarea…. es decir, «llevar a cabo un ministerio de alcance a los hombres y mujeres de las fuerzas armadas en los lugares desplegados». Siendo yo mismo un militar retirado y habiendo apoyado operaciones militares en el desierto, aprecié las necesidades de estos jóvenes militares que arriesgan sus vidas para que podamos disfrutar de las libertades por las que vivimos».
 
 Pamela al principio pensó que colocaría algunos libros en unidades desplegadas en Irak, Kuwait y Afganistán. Pero después de que se puso en contacto con la Fellowship, el alcance del proyecto creció exponencialmente. Pamela se esforzó mucho en identificar las unidades desplegadas en 14 países en el extranjero que habían solicitado donaciones de libros religiosos. Luego procedió a proporcionarles Libros de Urantia, enviando personalmente los volúmenes que recibió de la Fellowship. Al momento de escribir este artículo, los 900 libros se han enviado a unidades militares en todo el mundo.
 
@@ -232,7 +232,7 @@ Los libros se enviaron con una carta de presentación de Pamela que incluía una
 
 Por _Stephen Zendt_ en colaboración con _David Holt_
 
-<figure id="Figure_10" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_10" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2008_Winter/005696.jpg">
 </figure>
 
@@ -290,7 +290,7 @@ De hecho, si hubo algo que marcó esta conferencia como excelente para mí, tuvo
 
 Por _Barbara Dreier_
 
-<figure id="Figure_16" class="imagen urantiapedia estilo-imagen-alinear-derecha">
+<figure id="Figure_16" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2008_Winter/005702.jpg">
 </figure>
 
@@ -318,7 +318,7 @@ La velada fue una animada celebración de la renovación de viejas amistades y e
 
 Por _Sheila Hansen_
 
-<figure id="Figure_17" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_17" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2008_Winter/005703.jpg">
 </figure>
 
@@ -332,7 +332,7 @@ Después de un gran día de estudio, compañerismo y deliciosa comida (mocosos d
 
 Buscar, tropezar y cometer errores: ¡Dios nos ama a todos! ¡Amen a eso!
 
-##Grupos de Colombia se reúnen en Bogotá
+## Grupos de Colombia se reúnen en Bogotá
 
 El 20 de abril (Día de la Tierra), Gerald Pando y su esposa, Bibi Morales, organizaron una fiesta del 7.º aniversario de Éxito Verde, una fundación sin fines de lucro con sede en Colombia cuya misión es preservar y mejorar el medio ambiente. La fiesta se llevó a cabo en la recién renovada Casa Teusaquillo, propiedad de Pando y ubicada en el centro de Bogotá.
 
@@ -356,7 +356,7 @@ La reunión de mitad de año del Consejo General de la Fraternidad se llevará a
 
 No olvide notificarnos los cambios en su dirección postal y dirección de correo electrónico. Seremos lo más rápido posible en realizar los cambios para que pueda continuar recibiendo nuestras publicaciones.
 
-## El bastón de mensajero poderoso
+## Equipo del Mighty Messenger
 
 Publicado por Uversa Press para el Comité de Publicaciones de la Fellowship de _El Libro de Urantia_.
 Miembros: Linda Buselli, Presidenta Lynda D'Arcangelo, David Glass, Nancy Johnson, Avi Dogim, Sage Waitts

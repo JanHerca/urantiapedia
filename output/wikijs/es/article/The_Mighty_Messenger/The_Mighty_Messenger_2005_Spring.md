@@ -139,7 +139,7 @@ Si bien el logotipo, el identificador y la declaración del muñón expresan sol
 
 ## Paparazzi necesario
 
-¿Llevas una cámara contigo a todas partes? ¿Tu frase favorita es «¡Sonríe, todos!»? ¿Te gusta hacer un registro fotográfico de las personas y eventos en tu sociedad o grupo de estudio? ¡Entonces el Mensajero Poderoso te necesita!
+¿Llevas una cámara contigo a todas partes? ¿Tu frase favorita es «¡Sonríe, todos!»? ¿Te gusta hacer un registro fotográfico de las personas y eventos en tu sociedad o grupo de estudio? ¡Entonces el Mighty Messenger te necesita!
 
 El nuevo formato de este boletín está muy mejorado con fotografías y noticias sobre sus actividades en Urantia. Sabemos que están pasando muchas cosas ahí fuera; pero a menos que nos lo cuente, y aún mejor, incluya fotografías de él, es posible que los lectores nunca sepan cuán creativo, amoroso y orientado al servicio es usted. Inspíranos con las experiencias e ideas de tu grupo.
 
@@ -272,7 +272,7 @@ Ven y echa un vistazo a nuestro nuevo sitio web de educación http://www.urantia
 
 Actualmente estamos ocupados diseñando un plan de estudios que no solo abordará las enseñanzas de Urantia, sino que también brindará a los lectores las herramientas y la confianza necesarias para presentar las enseñanzas públicamente. Tenemos voluntarios que son profesionales en los campos de oratoria, interreligioso, psicología, etc. que nos enseñarán cómo podemos construir de manera más efectiva sobre las experiencias personales y religiosas de nuestros compañeros.
 
-## El bastón de mensajero poderoso
+## Equipo del Mighty Messenger
 
 Publicado por Uversa Press para el Comité de Publicaciones de la Fellowship de _El Libro de Urantia_.
 Miembros: Linda Buselli, Presidenta Lynda D'Arcangelo, Laura Hay, Nancy Johnson, Joe Liszka, Sage Waitts

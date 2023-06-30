@@ -81,7 +81,7 @@ Presidenta, Marilynn Kulieke - study@ic14.org
 
 **Trae a la familia**
 
-<figure id="Figure_3" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_3" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2013_Winter/005821.jpg">
 </figure>
 
@@ -95,7 +95,7 @@ Presidenta, Janet Graham - family@ic14.org
 
 **Servir con Amor**
 
-<figure id="Figure_4" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_4" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2013_Winter/005822.jpg">
 </figure>
 
@@ -109,7 +109,7 @@ Presidente, Andrea Barnes - service@ic14.org
 
 **Busca la verdad**
 
-<figure id="Figure_5" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_5" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2013_Winter/005823.jpg">
 </figure>
 
@@ -123,7 +123,7 @@ Presidente, Tom Choquette - Truthseekers@ic14.org
 
 **Vive las Enseñanzas**
 
-<figure id="Figure_6" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_6" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2013_Winter/005824.jpg">
 </figure>
 
@@ -137,7 +137,7 @@ Presidenta, Cristina Seaborn - music@ic14.org
 
 **Involucrar al mundo**
 
-<figure id="Figure_7" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_7" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2013_Winter/005825.jpg">
 </figure>
 
@@ -254,7 +254,7 @@ Jesús envió a los apóstoles en parejas por una razón. Quizás compartir la e
 
 Por _Barry Clark_
 
-<figure id="Figure_12" class="imagen urantiapedia estilo-imagen-alinear-derecha">
+<figure id="Figure_12" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2013_Winter/005834.jpg">
 </figure>
 
@@ -294,7 +294,7 @@ Es un requisito previo para el servicio como líder en la Comunidad que el candi
 
 Para saber más sobre algunas de las personas que actualmente sirven en el Consejo General de la Fraternidad, vaya a www.urantianow.com/about/general-council/.
 
-## El bastón de mensajero poderoso
+## Equipo del Mighty Messenger
 
 Publicado por Uversa Press para el Comité de Publicaciones de la Fellowship de _El Libro de Urantia_.
 Miembros: Linda Buselli, presidenta Cece Forrester, David Glass, Merritt Horn, Nancy Johnson, Sage Waitts

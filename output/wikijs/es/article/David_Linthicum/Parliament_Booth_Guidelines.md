@@ -14,17 +14,17 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Cristina_Seaborn/The_Parliament_of_Worlds_Religions">
+        <a href="/es/article/Cristina_Seaborn/The_Parliament_of_Worlds_Religions">
           <span class="pr-2">The Parliament of the World's Religions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2018-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/2018_Parliament_Urantia_Workshops">
+        <a href="/es/article/2018_Parliament_Urantia_Workshops">
           <span class="pr-2">2018 Parliament Urantia Workshops</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -37,9 +37,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Producida por _David Linthicum_ (montado por Alain Cyr)
 
-<figura id="Figura_1" clase="imagen urantiapedia">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2018_Fall/David_Linthicum.jpg">
-</figura>
+</figure>
 
 Al considerar la posibilidad de ofrecerse como voluntario para un stand en un evento público como el Parlamento de las Religiones del Mundo, hay muchas cosas a tener en cuenta. Primero, es un compromiso de tiempo y energía, el enfoque está en las enseñanzas, la Paternidad de Dios y la Hermandad del Hombre. En segundo lugar, este trabajo es un servicio a la humanidad y serviremos mejor a nuestros semejantes cuando nos tomemos el tiempo para prepararnos.
 
@@ -47,7 +47,7 @@ Al considerar la posibilidad de ofrecerse como voluntario para un stand en un ev
 
 Los organizadores del Parlamento han pedido a todos los expositores que tomen nota de su protocolo:  
 
-“Al interactuar con personas de comunidades étnicas y/o religiosas con las que no está familiarizado, los expositores deben observar el siguiente protocolo para evitar ofender a nadie sin darse cuenta: no extienda la mano para estrechar la mano de una persona del sexo opuesto; ofrecer o no ofrecer su mano como mejor les parezca; no toques a la gente; mantenga un espacio razonable entre usted y la persona; si desvían la mirada cuando te hablan, no lo tomes como una señal de que algo anda mal; si representa a un grupo espiritual o religioso, no haga proselitismo y, sobre todo, no denigre a otras religiones: su función es representar a su grupo de manera positiva a través de su comportamiento, presentación y los materiales que vende o distribuye, y proporciona información y responder a las preguntas de los interesados”.
+«Al interactuar con personas de comunidades étnicas y/o religiosas con las que no está familiarizado, los expositores deben observar el siguiente protocolo para evitar ofender a nadie sin darse cuenta: no extienda la mano para estrechar la mano de una persona del sexo opuesto; ofrecer o no ofrecer su mano como mejor les parezca; no toques a la gente; mantenga un espacio razonable entre usted y la persona; si desvían la mirada cuando te hablan, no lo tomes como una señal de que algo anda mal; si representa a un grupo espiritual o religioso, no haga proselitismo y, sobre todo, no denigre a otras religiones: su función es representar a su grupo de manera positiva a través de su comportamiento, presentación y los materiales que vende o distribuye, y proporciona información y responder a las preguntas de los interesados».
 
 ## Los Principios Rectores del Parlamento de 2018
 
@@ -84,15 +84,15 @@ Se pide a los voluntarios que mantengan el stand atractivo y ordenado durante su
 
 ## Métodos de enseñanza de Jesús
 
-> “Nunca atacó sus errores ni siquiera mencionó las fallas en sus enseñanzas. En cada caso, seleccionaría la verdad en lo que enseñaban y luego procedería a embellecer e iluminar esta verdad en sus mentes de tal manera que en muy poco tiempo esta mejora de la verdad efectivamente desplazara el error asociado...” ([UB 132 :0.4](/es/El_libro_de_Urantia/132#p0_4))
+> «Nunca atacó sus errores ni siquiera mencionó las fallas en sus enseñanzas. En cada caso, seleccionaría la verdad en lo que enseñaban y luego procedería a embellecer e iluminar esta verdad en sus mentes de tal manera que en muy poco tiempo esta mejora de la verdad efectivamente desplazara el error asociado...» ([LU 132 :0.4](/es/El_libro_de_Urantia/132#p0_4))
 
-> “La técnica habitual de contacto social de Jesús era atraer a la gente y hablar con él haciéndoles preguntas. La entrevista generalmente comenzaba haciéndoles preguntas y terminaba haciéndole preguntas a él ... E invariablemente les hablaba a estos mortales angustiados sobre el amor de Dios y les impartía la información, por varios y diversos métodos, de que eran hijos de Dios. este amoroso Padre que está en los cielos.” ([UB 132:4.2](/es/El_Libro_de_Urantia/132#p4_2))
+> «La técnica habitual de contacto social de Jesús era atraer a la gente y hablar con él haciéndoles preguntas. La entrevista generalmente comenzaba haciéndoles preguntas y terminaba haciéndole preguntas a él ... E invariablemente les hablaba a estos mortales angustiados sobre el amor de Dios y les impartía la información, por varios y diversos métodos, de que eran hijos de Dios. este amoroso Padre que está en los cielos.» ([LU 132:4.2](/es/The_Urantia_Book/132#p4_2))
 
-> “Los maestros de la religión de Jesús deben acercarse a otras religiones con el reconocimiento de las verdades que tienen en común (muchas de las cuales provienen directa o indirectamente del mensaje de Jesús) mientras se abstienen de poner tanto énfasis en las diferencias”. ([UB 149:2.5](/es/El_Libro_de_Urantia/149#p2_5))
+> «Los maestros de la religión de Jesús deben acercarse a otras religiones con el reconocimiento de las verdades que tienen en común (muchas de las cuales provienen directa o indirectamente del mensaje de Jesús) mientras se abstienen de poner tanto énfasis en las diferencias». ([LU 149:2.5](/es/The_Urantia_Book/149#p2_5))
 
 ## Ejemplos de discursos de ascensor
 
-“Bueno, es lo más parecido que he encontrado a responder las tres grandes preguntas de la vida: ¿Quién soy yo? ¿De dónde vengo? y ¿Adónde voy? ¿Cuál es mi destino? Si tienes curiosidad como yo, siempre preguntándote cosas, personas y lugares, probablemente encuentres este libro difícil de dejar. Lo he estado leyendo y releyendo durante más de diez años y sigo encontrando respuestas, y luego recibo más preguntas y luego, efectivamente, incluso más respuestas”.
+«Bueno, es lo más parecido que he encontrado a responder las tres grandes preguntas de la vida: ¿Quién soy yo? ¿De dónde vengo? y ¿Adónde voy? ¿Cuál es mi destino? Si tienes curiosidad como yo, siempre preguntándote cosas, personas y lugares, probablemente encuentres este libro difícil de dejar. Lo he estado leyendo y releyendo durante más de diez años y sigo encontrando respuestas, y luego recibo más preguntas y luego, efectivamente, incluso más respuestas».
 
 "¡Éste libro cambió mi vida! Llamo al Libro de Urantia una carta de amor de Dios porque me abrió todo el universo, dándome propósito y dirección. El libro revela con gran autoridad el plan amoroso del Padre, incluyendo nuestro destino en el Paraíso y la historia de nuestro planeta, Urantia. Armoniza la ciencia, la religión y la filosofía, y las últimas 900 páginas aclaran la vida y las enseñanzas de Jesús y su evangelio vivificante del amor de Dios por todos sus hijos. ¡Creo que Dios ama tanto a nuestro mundo que continúa revelándose a nosotros!”
 
@@ -134,17 +134,17 @@ Números internacionales disponibles: https://zoom.us/u/bffljM0Ak
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Cristina_Seaborn/The_Parliament_of_Worlds_Religions">
+        <a href="/es/article/Cristina_Seaborn/The_Parliament_of_Worlds_Religions">
           <span class="pr-2">The Parliament of the World's Religions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2018-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/2018_Parliament_Urantia_Workshops">
+        <a href="/es/article/2018_Parliament_Urantia_Workshops">
           <span class="pr-2">2018 Parliament Urantia Workshops</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

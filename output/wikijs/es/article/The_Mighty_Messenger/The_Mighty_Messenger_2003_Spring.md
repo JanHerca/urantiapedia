@@ -45,7 +45,7 @@ Los representantes de la sociedad deben ser elegidos por cualidades que coincida
 
 ## Carta del Comité Ejecutivo
 
-> _Para el lector: Esta edición especial del Mensajero Poderoso presenta la Carta Ejecutiva, informando a los miembros de la Fraternidad sobre los desarrollos recientes en su organización. En el pasado, la Carta Ejecutiva se envió por correo en primera clase a los miembros. El método actual de difusión de la carta se emplea para reducir los costos de envío. Este número se envía por correo únicamente a los miembros de la Fraternidad. No dude en compartirlo con cualquier persona en su área que esté interesada. Como siempre, sus comentarios son bienvenidos._
+> _Para el lector: Esta edición especial del Mighty Messenger presenta la Carta Ejecutiva, informando a los miembros de la Fraternidad sobre los desarrollos recientes en su organización. En el pasado, la Carta Ejecutiva se envió por correo en primera clase a los miembros. El método actual de difusión de la carta se emplea para reducir los costos de envío. Este número se envía por correo únicamente a los miembros de la Fraternidad. No dude en compartirlo con cualquier persona en su área que esté interesada. Como siempre, sus comentarios son bienvenidos._
 >
 > _Los editores_
 {.is-info}

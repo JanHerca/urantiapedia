@@ -150,7 +150,7 @@ Para más detalles, comuníquese con el Presidente del Comité de Alcance, Thoma
 - Urantia News por correo electrónico? Si desea suscribirse a la actualización mensual de la Comunidad de la Fraternidad que contiene noticias actualizadas sobre el trabajo de la revelación, puede hacerlo en http://urantiabook.org/suscribe.htm. Su dirección de correo electrónico es todo lo que necesita para suscribirse porque ya está recibiendo Mighty Messenger.
 
 
-## El bastón de mensajero poderoso
+## Equipo del Mighty Messenger
 
 Publicado por Uversa Press para el Comité de Publicaciones de la Fellowship de _El Libro de Urantia_.
 Miembros: Linda Buselli, Presidenta Lynda D'Arcangelo, Laura Hay, Nancy Johnson, Joe Liszka, Sage Waitts

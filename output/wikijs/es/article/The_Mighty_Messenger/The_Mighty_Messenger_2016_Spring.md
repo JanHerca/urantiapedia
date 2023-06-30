@@ -97,7 +97,7 @@ Lo pondremos en manos de aquellos que lo anhelan pero no nos detendremos ahí. U
 
 por _Larry Bowman_, Consejero General
 
-<figure id="Figure_3" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_3" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2016_Spring/005887.jpg">
 </figure>
 
@@ -115,7 +115,7 @@ Cristina Seaborn anunció que su mandato como presidenta interreligiosa expira e
 
 Hubo una discusión considerable sobre IC '17. Tim Hobbs es el presidente y anunció que la conferencia se llevará a cabo en la Universidad de Denver del 19 al 23 de julio.
 
-<figure id="Figure_5" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_5" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2016_Spring/005889.jpg">
 </figure>
 
@@ -191,7 +191,7 @@ Para un regalo especial del sábado, sintonice el webcast «Ciudadano Cósmico»
 
 Para un regalo especial del martes, sintonice Symmetry of Soul en Blogtalk Radio: www.blogtalkradio.com/symmetryofsoul. 6 p. m. Los programas archivados están disponibles.
 
-## El bastón de mensajero poderoso
+## Equipo del Mighty Messenger
 
 Publicado por Uversa Press para el Comité de Publicaciones de la Fellowship de _El Libro de Urantia_
 Miembros: Linda Buselli, presidente Larry Bowman, Cece Forrester, Sage Waitts

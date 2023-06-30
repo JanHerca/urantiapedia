@@ -25,7 +25,7 @@ dateCreated: 2022-9-9T8:13:39Z
         </td>
         <td>
         <a href="/es/article/Ken_Glasziou/Lessons_from_Jesus_Discourse_on_Science">
-          <span class="pr-2">Lecciones del “discurso de ciencia de Jesús”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Lecciones del «discurso de ciencia de Jesús»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -123,7 +123,7 @@ El cumplimiento de la promesa reveladora depende de nuestra búsqueda consciente
         </td>
         <td>
         <a href="/es/article/Ken_Glasziou/Lessons_from_Jesus_Discourse_on_Science">
-          <span class="pr-2">Lecciones del “discurso de ciencia de Jesús”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Lecciones del «discurso de ciencia de Jesús»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

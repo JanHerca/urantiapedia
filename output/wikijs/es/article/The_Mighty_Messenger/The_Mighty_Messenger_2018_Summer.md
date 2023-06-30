@@ -187,7 +187,7 @@ Su viaje a Joseph, hogar de los famosos indios Nez Perce, será inolvidable y su
 
 **La Northern Light Society of Alaska**, constituida en 1985, se expande continuamente a través de nuestra participación en nuestra organización sin fines de lucro, titulada **Undershepherds**. Usando las donaciones que recibimos tan generosamente, nos encontramos participando cada vez más con la comunidad mundial de lectores de El Libro de Urantia. Estamos empezando a sentirnos más como una Sociedad Internacional de buscadores de Ruth.
 
-<figure id="Figure_4" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_4" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2018_Summer/005933.jpg">
 </figure>
 
@@ -345,7 +345,7 @@ Estamos explorando, compartiendo y realizando cuidadosamente en estas narracione
 - **Urantian Communities Northwest (UCNOW)** Reunión de 2018 en Wallowa Lake Camp, Joseph, Oregón, del 6 al 9 de septiembre de 2018 «Creciendo relaciones eternas» Para obtener información: registration2018@ucnow.net.
 - **Fiesta de cumpleaños de Jesús**, Parque Estatal Turkey Run, Indiana – Domingo. 19 de agosto, 11 a. m. EDT. Refugio de tenis en Sugar Creek. Para obtener más información: https://www.turkeyrunstatepark.com/ o http://www.in.gov/dnr/parklake/2964.htm Los lectores de UB de los estados vecinos son bienvenidos.
 
-## El bastón de mensajero poderoso
+## Equipo del Mighty Messenger
 
 Publicado por Uversa Press para el Comité de Publicaciones de la Fellowship de _El Libro de Urantia_.
 Miembros: Linda Buselli: Presidenta Avi Dogim, Cece Forrester, Sage Waitts

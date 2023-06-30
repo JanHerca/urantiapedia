@@ -65,7 +65,7 @@ Por _Liz Craig_
 
 IC'14 fue un torbellino para mí. Tuve muchos roles diferentes, desde estar en el maravilloso musical de Angie, La historia de Ruth, hasta tocar algunas canciones en la fiesta de baile del sábado, pasando el rato con el YaYA (Comité de Jóvenes y Adultos Jóvenes) y el Grupo de Jóvenes Buscadores de la Verdad del Libro de Urantia. Todo lo que experimenté en la conferencia, desde talleres hasta relajarme en el mercado de Jerusalén por las noches, fue increíble. Lo más destacado que recordaré en los años venideros de esta conferencia será el Grupo de Jóvenes _El Libro de Urantia_.
 
-<figure id="Figure_3" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_3" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2014_Winter/005842.jpg">
 </figure>
 
@@ -169,7 +169,7 @@ El proyecto necesita voluntarios para varias tareas específicas.
 ## El Parlamento de las Religiones del Mundo 2015
 
 
-<figure id="Figure_9" class="imagen urantiapedia estilo-imagen-alinear-derecha">
+<figure id="Figure_9" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2014_Winter/005851.jpg">
 </figure>
 
@@ -198,7 +198,7 @@ Deberías asistir...
 - ¿Quieres navegar por un gran sitio web? ¿Por qué no el sitio web de la Fellowship? Actualizaciones sobre acontecimientos importantes en la comunidad de Urantia, grandes ideas para un estudio intensivo, tesoros de archivo para disfrutar, sugerencias de compras y regalos durante todo el año y muchas otras aventuras disponibles en www.urantiabook.org.
 - No se olvide de la transmisión de radio del blog Cosmic Citizen todos los sábados por la mañana a las 10:00 a. m., horario de verano de la montaña. Puede escuchar en vivo y unirse al chat en: www.blogtalkradio.com/cosmiccitizen, o llamar al 646-716-8158 para unirse a la conversación.
 
-## El bastón de mensajero poderoso
+## Equipo del Mighty Messenger
 
 Publicado por Uversa Press para el Comité de Publicaciones de la Fellowship de _El Libro de Urantia_.
 Miembros: Linda Buselli, presidenta Cece Forrester, David Glass, Nancy Johnson, Sage Waitts

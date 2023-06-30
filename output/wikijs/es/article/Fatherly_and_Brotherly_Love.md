@@ -25,7 +25,7 @@ dateCreated: 2022-9-9T8:13:39Z
         </td>
         <td>
         <a href="/es/article/Earl_Jabay/God_playing_au_Jabay">
-          <span class="pr-2">Jugar a ser Dios “estilo Jabay”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Jugar a ser Dios «estilo Jabay»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -70,7 +70,7 @@ Jesús elevó el estándar, en su nivel más bajo, al tipo de amor que se espera
         </td>
         <td>
         <a href="/es/article/Earl_Jabay/God_playing_au_Jabay">
-          <span class="pr-2">Jugar a ser Dios “estilo Jabay”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Jugar a ser Dios «estilo Jabay»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

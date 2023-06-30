@@ -54,7 +54,7 @@ Cuatro meses de oración precedieron su decisión de postularse para presidente 
 
 ## Conozca a nuestros nuevos consejeros
 
-**Términos de 9 años. . .**
+**Términos de 9 años...**
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2009_Winter/Tony_Finstad.jpg">
@@ -98,7 +98,7 @@ La identidad secreta de Merritt Horn es Director de TI de Aurora Organic Dairy e
 
 Tim Hobbs, recientemente elegido presidente de Outreach de la Fraternidad, es el actual presidente de la Fraternidad Espiritual de las Montañas Rocosas. Durante los últimos tres años también ha formado parte del comité de la conferencia Estudiantes de Florida de _El Libro de Urantia_ y participa activamente en la Universidad de Urantia y el grupo de empresarios de la UB. Time tiene una Licenciatura en Ciencias en Física e Ingeniería Nuclear de la Escuela de Minas de Colorado. Tim, fundador y director ejecutivo de Data Connect Corporation, tiene veinticinco años de experiencia en desarrollo empresarial y diseño e integración de sistemas. También ha trabajado para Automated Data Processing (ADP) y Ball Corporation.
 
-**Término de 6 años. . .**
+**Término de 6 años...**
 
 <figure id="Figure_9" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2009_Winter/Janet_L_Falbo.jpg">
@@ -175,7 +175,7 @@ Sociedad del Corazón de América
 
 Por _Cece Forrester_
 
-<figure id="Figure_20" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_20" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2009_Winter/005723.jpg">
 </figure>
 
@@ -318,7 +318,7 @@ El Consejo General de la Fraternidad llevará a cabo su reunión de mitad de añ
 - **Seminario de estudio de verano de Urantia Book Fellowship 2010**, Techny Towers, Chicago, IL, del 21 al 26 de julio. El tema es «Conciencia de Dios y Moralidad Cósmica: Viviendo el Evangelio». Para obtener más información sobre la conferencia, comuníquese con Lara Amyx en lara10@bellsouth.net. Para inscribirse en el seminario especial sobre ángeles, comuníquese con Charles Olivea en COLIVEA@cs.com.
 - **Nuevo en el sitio web**: El sitio web de Fellowship ahora contiene una colección cada vez mayor de ayudas para el estudio de la clase del viernes por la noche de Chris Halvorson. Hay una línea de tiempo muy detallada recientemente publicada de la Parte III que contiene enlaces a materiales históricos y arqueológicos contemporáneos relacionados. El BlogTalk Radio Archive está completo para todos los programas de 2008. Todos estos recursos y más se pueden encontrar yendo a «¿Qué hay de nuevo?» página en http://urantiabook.org/whatsnew.htm.
 
-## El bastón de mensajero poderoso
+## Equipo del Mighty Messenger
 
 Publicado por Uversa Press para el Comité de Publicaciones de la Fellowship de _El Libro de Urantia_.
 Miembros: Linda Buselli, presidenta Avi Dogim, Cece Forrester David Glass, Nancy Johnson, Sage Waitts

@@ -15,7 +15,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td>
         <a href="/es/article/Ken_Glasziou/Time_for_More_Change_Symbols_Cults">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Tiempo para más cambios? Símbolos, cultos y _El libro de Urantia_</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Tiempo para más cambios? Símbolos, cultos y _El Libro de Urantia_</span>
         </a>
         </td>
         <td>
@@ -60,7 +60,7 @@ Adán y Eva buscaron el camino fácil: comer del fruto que les conferiría conoc
       <tr>
         <td>
         <a href="/es/article/Ken_Glasziou/Time_for_More_Change_Symbols_Cults">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Tiempo para más cambios? Símbolos, cultos y _El libro de Urantia_</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Tiempo para más cambios? Símbolos, cultos y _El Libro de Urantia_</span>
         </a>
         </td>
         <td>

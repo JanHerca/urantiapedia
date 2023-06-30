@@ -14,17 +14,17 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Larry_Bowman/Secretary_General">
+        <a href="/es/article/Larry_Bowman/Secretary_General">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Secretary General</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Pipeline_of_Light">
+        <a href="/es/article/Pipeline_of_Light">
           <span class="pr-2">Pipeline of Light</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -36,9 +36,9 @@ dateCreated: 2023-6-21T8:13:38Z
 
 ## Los 7 niveles de la Organización Urantia Fellowship
 
-<figura id="Figura_1" clase="imagen urantiapedia">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/009.jpg">
-</figura>
+</figure>
 
 ## Enlaces externos
 
@@ -51,17 +51,17 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Larry_Bowman/Secretary_General">
+        <a href="/es/article/Larry_Bowman/Secretary_General">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Secretary General</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Pipeline_of_Light">
+        <a href="/es/article/Pipeline_of_Light">
           <span class="pr-2">Pipeline of Light</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

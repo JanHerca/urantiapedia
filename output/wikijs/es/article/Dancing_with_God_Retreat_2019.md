@@ -14,17 +14,17 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Summer_Study_Session_2019">
+        <a href="/es/article/Summer_Study_Session_2019">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Summer Study Session 2019</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#spring-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Youth_and_Young_Adults_in_Boulder">
+        <a href="/es/article/Youth_and_Young_Adults_in_Boulder">
           <span class="pr-2">Youth and Young Adults in Boulder</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -42,7 +42,7 @@ En un círculo sagrado de confianza con otras mujeres, las invitamos a explorar 
 
 Seremos un círculo íntimo de confianza de 10-12 mujeres, facilitado por las Hijas de Dios (Line St. Pierre, Doreen Heyne, Katharina Becker y Carrie Prentice)
 
-Contemplando la metáfora “Bailando con Dios” como una mujer para quien la puerta de las posibilidades está abierta, ¿cómo dejas que el Espíritu coreografíe tu vida-baile?
+Contemplando la metáfora «Bailando con Dios» como una mujer para quien la puerta de las posibilidades está abierta, ¿cómo dejas que el Espíritu coreografíe tu vida-baile?
 
 ¿Cómo te anima esta Danza a llevar la antorcha de la moralidad, la espiritualidad y el amor de Dios?
 
@@ -50,9 +50,9 @@ Para obtener más información y reservar un lugar, comuníquese con line.stpier
 
 (Quebec, Canada)
 
-<figura id="Figura_1" clase="imagen urantiapedia">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/008.jpg">
-</figura>
+</figure>
 
 ## Enlaces externos
 
@@ -65,17 +65,17 @@ Para obtener más información y reservar un lugar, comuníquese con line.stpier
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Summer_Study_Session_2019">
+        <a href="/es/article/Summer_Study_Session_2019">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Summer Study Session 2019</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#spring-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Youth_and_Young_Adults_in_Boulder">
+        <a href="/es/article/Youth_and_Young_Adults_in_Boulder">
           <span class="pr-2">Youth and Young Adults in Boulder</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

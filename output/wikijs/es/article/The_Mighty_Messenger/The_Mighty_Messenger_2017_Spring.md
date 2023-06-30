@@ -107,7 +107,7 @@ Las presentaciones serán relativamente breves, con una duración de 20 a 25 min
 
 por _Nadi_
 
-<figure id="Figure_4" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_4" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2017_Spring/005911.jpg">
 </figure>
 
@@ -180,7 +180,7 @@ Como estudiante de texto y anfitriona de un grupo de estudio desde 1990, ha sido
 
 Por _Michael Painter_
 
-<figure id="Figure_10" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_10" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2017_Spring/Michael_Painter.jpg">
 </figure>
 
@@ -206,7 +206,7 @@ Estar en el Consejo General de la Fraternidad es una experiencia increíble. Alg
 
 _Michelle Klimesh_, reportera de oleoductos
 
-<figure id="Figure_11" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_11" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2017_Spring/005918.jpg">
 </figure>
 
@@ -259,7 +259,7 @@ Envíe un cheque o giro postal a la Fellowship de _El Libro de Urantia_, PO Box 
 
 ## Notas de aquí y allá
 
-<figure id="Figure_13" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_13" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2017_Spring/005920.jpg">
 </figure>
 
@@ -323,7 +323,7 @@ Este seminario fue uno de los muchos esfuerzos educativos colaborativos durante 
 - Crucero Urantia con Pato Banton y Antoinette del 28 de mayo al 1 de junio de 2017
 - Conferencia IC'17 19 julio – 23 julio, 2017
 
-## El bastón de mensajero poderoso
+## Equipo del Mighty Messenger
 
 Publicado por Uversa Press para el Comité de Publicaciones de la Fellowship de _El Libro de Urantia_.
 Miembros: Linda Buselli: Presidenta, Andrea Barnes, Larry Bowman, Avi Dogim, Cece Forrester, Sage Waitts

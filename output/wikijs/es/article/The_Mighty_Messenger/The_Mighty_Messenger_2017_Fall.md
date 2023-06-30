@@ -125,7 +125,7 @@ En primer lugar, nos haces seguir adelante. Dios es nuestro padre, somos familia
 
 Además, creemos que es probable que haya seres en todo este universo a quienes les ENCANTARÍA tener la oportunidad que se nos ha brindado en este «mundo de la cruz». Podemos compartir estas maravillosas enseñanzas sobre un amoroso Padre Creador y sus exquisitos asociados celestiales, una cosmología extraordinaria, un universo amigable, ángeles guardianes, evolución planificada, filosofía superior, la realidad de la ascensión y toda la asombrosa historia de Jesús, y eso es ¡solo la fruta madura! Oh, ¿no les encantaría a esos seres aburridos en mundos normales la oportunidad con la que ahora somos bendecidos? Agradecemos eso, y no queremos perder el tiempo para llegar a él.
 
-<figure id="Figure_4" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_4" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2017_Fall/005925.jpg">
 </figure>
 
@@ -228,7 +228,7 @@ First Society sigue siendo un grupo muy activo que se enfrenta al desafío de mu
 ### Una Sociedad Virtual???
 
 
-<figure id="Figure_7" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_7" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2017_Fall/005928.jpg">
 </figure>
 
@@ -285,7 +285,7 @@ Tema: Cultivando Relaciones Eternas: Alcanzando, Alcanzando, Alcanzando Lugar: C
 - **19 al 22 de julio de 2018** – Sesión de estudio de verano, Techny Towers, Northbrook, IL. «Es un Universo Amigo: Sirviendo con Nuestra Familia Celestial», para información contactar a jacquelyn.koury@gmail.com.
 - **Septiembre. 6 – 9, 2018** – Conferencia Regional de las Comunidades Urantianas del Noroeste (UCNOW), Campamento de Wallow Lake, Joseph, Oregón
 
-## El bastón de mensajero poderoso
+## Equipo del Mighty Messenger
 
 Publicado por Uversa Press para el Comité de Publicaciones de la Fellowship de _El Libro de Urantia_.
 Miembros: Andrea Barnes, Linda Buselli: Presidente Larry Bowman, Avi Dogim, Cece Forrester, Sage Waitts

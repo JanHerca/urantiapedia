@@ -100,7 +100,7 @@ Para seleccionar un método de donación, vaya al sitio web de la Fellowship, fe
 
 ## Del presidente
 
-<figure id="Figure_4" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_4" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2015_Fall/Michael_Callis.jpg">
 </figure>
 
@@ -167,7 +167,7 @@ Islas Canarias | Francia | Irán | Palestina | Tailandia |
 
 ## ¡Bienvenidos nuevos Consejeros Generales!
 
-<figure id="Figure_5" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_5" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2015_Fall/Daniel_Amyx.jpg">
 </figure>
 
@@ -179,7 +179,7 @@ Islas Canarias | Francia | Irán | Palestina | Tailandia |
 
 **Guillermo Deoto** Hola, soy Guillermo Deoto (alias William, Willy y recientemente G'mo, gracias señor presidente). Mi profesor de ciencias me presentó _El Libro de Urantia_ cuando tenía 14 años y lo leíamos durante el almuerzo. Más tarde ese año asistí a mi primera reunión y al año siguiente fui a mi primera conferencia. Serví como tesorero para los estudiantes de Florida de _El Libro de Urantia_ durante 15 años y soy el actual tesorero de Agodonter Boot Camp Society of Florida (ABC). Espero que mi servicio con la Fraternidad promueva su causa, fortalezca su determinación y modificar lo que pueda necesitar.
 
-<figure id="Figure_7" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_7" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2015_Fall/Cabot_Eudaly.jpg">
 </figure>
 
@@ -191,7 +191,7 @@ Islas Canarias | Francia | Irán | Palestina | Tailandia |
 
 **André Radatus**, nacido en Canadá, emigró a Denver en 1980 para enseñar a los jóvenes sobre diferencias de aprendizaje en una escuela fundada y fomentada por tres estudiantes de El Libro de Urantia, donde enseñó durante 15 años. Recientemente, pasó un año y medio inmerso en el idioma francés y la cultura quebequense estudiando Le Livre d'Urantia con lectores francófonos en los Laurentides. Regresó a su «hogar» en Front Range de Colorado y actualmente es analista de utilización para una lechería orgánica en Boulder. _Las verdades de El Libro de Urantia_ han sido convincentes para André desde 1976. Ha asistido a grupos de estudio de manera regular y continua desde 1978. André es miembro del consejo de administración, presidente del plan de estudios e instructor del Instituto de la Universidad de Urantia y es coanfitrión semanal de El ciudadano cósmico en BlogTalkRadio.
 
-<figure id="Figure_9" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_9" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2015_Fall/Miguel_Anoba.jpg">
 </figure>
 
@@ -203,13 +203,13 @@ Islas Canarias | Francia | Irán | Palestina | Tailandia |
 
 **Sean Privitera** Me presentaron el libro en 2006, y mi primera conferencia fue en Techny en 2011. Tenemos muchos lectores jóvenes nuevos aquí en Omaha, y por lo general nos reunimos una vez por semana. Estoy casado y mi esposa lee conmigo de vez en cuando. Hago marketing en línea durante el día, y estoy involucrado con un negocio de diseño web y marketing en línea en el lado. Tengo experiencia en Finanzas y Contabilidad y una Maestría en Gestión de Portafolios. Me encanta andar en bicicleta, esquiar y hacer surf. Mi visión para el futuro es estar lo más abierto y disponible posible para ayudar a aumentar la conciencia de UB y fomentar las comunidades de UB.
 
-<figure id="Figure_11" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_11" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2015_Fall/Cecelia_Lampley.jpg">
 </figure>
 
 **Cecelia Lampley** He estado leyendo _El Libro de Urantia_ desde 1976, y desde 1981 mi esposo y yo hemos tenido un grupo de estudio en nuestra casa. Estamos casados ​​desde 1976 y tenemos dos hijos adultos. Soy un terapeuta matrimonial y familiar jubilado y trabajé con niños y sus familias durante unos ocho años.
 
-<figure id="Figure_12" class="imagen urantiapedia estilo-imagen-alinear-derecha">
+<figure id="Figure_12" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2015_Fall/Thomas_Pirie.jpg">
 </figure>
 
@@ -270,7 +270,7 @@ El stand de _El Libro de Urantia_ fue el primer esfuerzo conjunto de la Fundaci�
 
 Por _Tony Finstad_
 
-<figure id="Figure_15" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_15" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2015_Fall/005876.jpg">
 </figure>
 
@@ -363,7 +363,7 @@ Un agradecimiento especial a Agustín ya los lectores locales, Gonzalo Caseros p
 
 Por _Buck Weimer_
 
-<figure id="Figure_21" class="imagen urantiapedia estilo-imagen-alinear-derecha">
+<figure id="Figure_21" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2015_Fall/005883.jpg">
 </figure>
 
@@ -390,7 +390,7 @@ Para una nueva aventura espiritual, únase a SymmetryOfSoul.org los martes a las
 
 No olvide que la Fraternidad necesita su ayuda para continuar sirviendo a la revelación en todo el mundo. Para obtener información sobre varias opciones de donación, vaya al sitio web de la Fraternidad, www.urantiabook.org, y presione el enlace Donar. O envíe un cheque a la Fellowship de _El Libro de Urantia_, PO Box 6631, Broomfield, CO, 80021, EE. UU.
 
-## El bastón de mensajero poderoso
+## Equipo del Mighty Messenger
 
 Publicado por Uversa Press para el Comité de Publicaciones de la Fellowship de _El Libro de Urantia_.
 Miembros: Linda Buselli, presidente Larry Bowman, Cece Forrester, David Glass, Nancy Johnson, Sage Waitts

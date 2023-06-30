@@ -15,7 +15,7 @@ dateCreated: 2022-09-26T19:14:54.696Z
       <tr>
         <td>
         <a href="/es/article/Ken_Glasziou/More_on_Our_Challenge">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más sobre “Nuestro Desafío”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más sobre «Nuestro Desafío»</span>
         </a>
         </td>
         <td>
@@ -82,7 +82,7 @@ dateCreated: 2022-09-26T19:14:54.696Z
       <tr>
         <td>
         <a href="/es/article/Ken_Glasziou/More_on_Our_Challenge">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más sobre “Nuestro Desafío”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más sobre «Nuestro Desafío»</span>
         </a>
         </td>
         <td>

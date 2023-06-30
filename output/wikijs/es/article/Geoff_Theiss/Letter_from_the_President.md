@@ -14,17 +14,17 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/The_Mighty_Messenger/The_Mighty_Messenger_2019_Fall_Cover">
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2019_Fall_Cover">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cover</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Bobbie_Dreier/Vice_President_Bobbie_Dreier_interim">
+        <a href="/es/article/Bobbie_Dreier/Vice_President_Bobbie_Dreier_interim">
           <span class="pr-2">Vice President Bobbie Dreier (interim)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -34,9 +34,9 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-<figura id="Figura_1" clase="imagen urantiapedia imagen-estilo-alineación-derecha">
+<figure id="Figure_1" class="image urantiapedia imagen-estilo-alineación-derecha">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/003.jpg">
-</figura>
+</figure>
 
 Queridos amigos de _The Urantia Book_ Fellowship,
 
@@ -64,17 +64,17 @@ Esta organización cuenta con un increíble equipo de voluntarios y personal que
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/The_Mighty_Messenger/The_Mighty_Messenger_2019_Fall_Cover">
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2019_Fall_Cover">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cover</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Bobbie_Dreier/Vice_President_Bobbie_Dreier_interim">
+        <a href="/es/article/Bobbie_Dreier/Vice_President_Bobbie_Dreier_interim">
           <span class="pr-2">Vice President Bobbie Dreier (interim)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

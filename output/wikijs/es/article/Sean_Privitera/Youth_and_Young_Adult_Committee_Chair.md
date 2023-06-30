@@ -14,17 +14,17 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Paula_Thompson/Outreach_Committee_Chair">
+        <a href="/es/article/Paula_Thompson/Outreach_Committee_Chair">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Outreach Committee Chair</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Andre_Radatus/International_Committee_Chair">
+        <a href="/es/article/Andre_Radatus/International_Committee_Chair">
           <span class="pr-2">International Committee Chair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -34,9 +34,9 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-<figura id="Figura_1" clase="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/026.jpg">
-</figura>
+</figure>
 
 Sean ha sido presidente del comité de YaYA desde julio de 2018. Asumió el cargo cuando un gran grupo de YaYA salía en bicicleta y hacía la transición a la vida diaria de carreras y familia. En noviembre de 2018, los YaYA patrocinaron un viaje al Parlamento de las Religiones del Mundo en Toronto. Esta es siempre una gran experiencia, incluso en esa época del año.
 
@@ -57,17 +57,17 @@ El objetivo para el resto de 2019 y 2020 es continuar con los retiros y la const
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Paula_Thompson/Outreach_Committee_Chair">
+        <a href="/es/article/Paula_Thompson/Outreach_Committee_Chair">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Outreach Committee Chair</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Andre_Radatus/International_Committee_Chair">
+        <a href="/es/article/Andre_Radatus/International_Committee_Chair">
           <span class="pr-2">International Committee Chair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

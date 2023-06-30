@@ -14,17 +14,17 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Publications_Survey">
+        <a href="/es/article/Publications_Survey">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Publications Survey</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#spring-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Pato_Banton_and_Antoinette_Hall/Our_Experience_at_the_Parliament_of_Worlds_Religions">
+        <a href="/es/article/Pato_Banton_and_Antoinette_Hall/Our_Experience_at_the_Parliament_of_Worlds_Religions">
           <span class="pr-2">Our Experience at the Parliament of World’s Religions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -38,9 +38,9 @@ Trabajando en la Tierra desde 200 000 a. C. como uno de los doce receptores plan
 
 **Superposición histórica de eventos mundiales significativos**
 
-<figura id="Figura_1" clase="imagen urantiapedia">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/011.jpg">
-</figura>
+</figure>
 
 Como Sabio de Salem, Maquiventa Melquisedec usó el emblema de la trinidad
 
@@ -54,14 +54,14 @@ b. **Sabio de Salem**, encarnado como una persona adulta masculina del reino, 19
 
 Desafortunadamente, su mensaje no permaneció del todo permanente en medio de todas las supersticiones de estas sociedades primitivas, pero lo más importante, este mensaje de un solo Dios se mantuvo en Palestina y, por lo tanto, allanó el camino para la posterior predicación de Juan el Bautista y la aparición de Jesús. el maestro de Nazaret, Hijo de Dios e Hijo del Hombre.
 
-<figura id="Figura_2" clase="imagen urantiapedia">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/010.jpg">
 <figcaption><em>El encuentro de Abraham y Melquisedec, de Peter Paul Rubens</em></figcaption>
-</figura>
+</figure>
 
 C. **Luego, Maquiventa colaboró ​​con muchos profetas y videntes** en la Tierra, invisiblemente presentes desde alrededor de 1866 aC hasta el 30 dC, aproximadamente 1900 años de duración, hasta los tiempos de la llegada y el ministerio de Cristo en la Tierra.
 
-> _Este mismo Melquisedec continuó colaborando a lo largo de los diecinueve siglos sucesivos con los muchos profetas y videntes, esforzándose así por mantener vivas las verdades de Salem hasta la plenitud del tiempo de la aparición de Miguel en la tierra._ [UB 93:10.4](/es /El_libro_de_Urantia/93#p10_4)
+> _Este mismo Melquisedec continuó colaborando a lo largo de los diecinueve siglos sucesivos con los muchos profetas y videntes, esforzándose así por mantener vivas las verdades de Salem hasta la plenitud del tiempo de la aparición de Miguel en la tierra._ [LU 93:10.4](/es /El_libro_de_Urantia/93#p10_4)
 
 Durante este sorprendente período de la historia de la Tierra, muchos profetas y videntes notables entraron en escena. Conjeturo que probablemente Melquisedec colaboró, sin ser visto, con muchos de ellos y fomentó sus esfuerzos, especialmente en lo que se refiere al concepto de Dios. Las personas y eventos altamente significativos incluyen:
 
@@ -86,9 +86,9 @@ Aquí exploramos más a fondo este cuarto período (d), el mandato de cien años
 
 Las bases para estimar la línea de tiempo del Gobernador General de Melquisedec, un período de cien años, se derivan de lo siguiente:
 
-Las tres primeras partes de los documentos de Urantia se completaron en 1935 d.C. Para el término “hace menos de mil años” calculo 985 años, lo que nos retrotrae al año 950 d.C. A eso le agrego cien años por la duración del mandato de Melquisedec como gobernador general de Urantia, lo que nos lleva al año 1050 d.C.
+Las tres primeras partes de los documentos de Urantia se completaron en 1935 d.C. Para el término «hace menos de mil años» calculo 985 años, lo que nos retrotrae al año 950 d.C. A eso le agrego cien años por la duración del mandato de Melquisedec como gobernador general de Urantia, lo que nos lleva al año 1050 d.C.
 
-> “_Hace menos de mil años, este mismo Maquiventa Melquisedec, el otrora sabio de Salem, estuvo invisiblemente presente en Urantia por un período de cien años, actuando como gobernador general residente del planeta; y si el actual sistema de dirección de los asuntos planetarios continúa, él regresará en la misma capacidad en poco más de mil años._” [UB 93:10.10](/en/The_Urantia_Book/93#p10_10)
+> «_Hace menos de mil años, este mismo Maquiventa Melquisedec, el otrora sabio de Salem, estuvo invisiblemente presente en Urantia por un período de cien años, actuando como gobernador general residente del planeta; y si el actual sistema de dirección de los asuntos planetarios continúa, él regresará en la misma capacidad en poco más de mil años._» [LU 93:10.10](/es/The_Urantia_Book/93#p10_10)
 
 _Inicio de mandato como Gobernador General Residente_
 
@@ -118,13 +118,13 @@ Los acontecimientos que ocurrieron durante el mandato de cien años de Maquivent
 
 mi. **Príncipe Planetario Vicegerente de Urantia, era actual**
 
-> Este Melquisedec ha sido proclamado últimamente Príncipe Planetario vicerregente de Urantia con sede en Jerusem y autoridad para actuar en nombre de Miguel, quien es en realidad el Príncipe Planetario del mundo en el que experimentó su otorgamiento terminal en forma humana. [UB 45:4.16](/es/El_Libro_de_Urantia/45#p4_16)
+> Este Melquisedec ha sido proclamado últimamente Príncipe Planetario vicerregente de Urantia con sede en Jerusem y autoridad para actuar en nombre de Miguel, quien es en realidad el Príncipe Planetario del mundo en el que experimentó su otorgamiento terminal en forma humana. [LU 45:4.16](/es/The_Urantia_Book/45#p4_16)
 
 ## Pensamientos sobre la oración
 
 La oración tiene que ver específicamente con peticiones al Hijo Eterno. Los hijos del Hijo, como Cristo Miguel, también reciben solicitudes. Maquiventa, un hijo del universo, es la descendencia conjunta de Cristo Miguel, la Madre del Universo, y el Padre Melquisedec. Maquiventa fue nombrado príncipe planetario vicerregente de Urantia por Miguel. ¿Por qué no deberíamos también dar a conocer a Maquiventa nuestros pensamientos y nuestra voluntad de asociarnos con él y los miembros actuales de nuestro gobierno planetario? Yo mismo lo he hecho.
 
-Cristo mismo me trajo al reino, y aquellos que conocen mi historia saben que fue Melquisedec quien me llevó a una comprensión más completa de mi trabajo y me condujo a _El libro de Urantia_.
+Cristo mismo me trajo al reino, y aquellos que conocen mi historia saben que fue Melquisedec quien me llevó a una comprensión más completa de mi trabajo y me condujo a _El Libro de Urantia_.
 
 Debemos recordar que cuando Miguel estuvo en la Tierra como Jesús, fue habitado por el mismo Ajustador que previamente había habitado en Melquisedec durante su vida terrenal. Por lo tanto, el conocimiento experiencial de Jesús de vivir y trabajar con los hombres y mujeres de la Tierra fue informado durante su vida por las experiencias de Maquiventa, que ahora vemos que fueron extensas. Estos son los hechos, pero detrás de ellos está la fascinante relación entre Miguel y Maquiventa. La conexión entre nuestro Hijo Creador y Maquiventa Melquisedec es única en nuestro universo local. Probablemente en ninguno de los otorgamientos previos de Michael tuvo un Ajustador del Pensamiento.
 
@@ -132,17 +132,17 @@ Solo podemos imaginar la estrecha camaradería que Michael y Maquiventa han disf
 
 Y así parece que la selección de Michael del hijo de emergencia altamente experimentado y versátil, Maquiventa Melquisedec, para ser nuestro actual príncipe planetario vicerregente fue la elección perfecta. Su cuartel general está ahora en Jerusem.
 
-> Algunos creen que Maquiventa no vendrá a tomar la dirección personal de los asuntos de Urantia hasta el final de la dispensación actual. Otros sostienen que es posible que el Príncipe vicerregente no venga, como tal, hasta que Michael regrese a Urantia en algún momento, como prometió cuando aún estaba en la carne. Aún otros, incluido este narrador, buscan la aparición de Melquisedec cualquier día u hora. [UB 114:1.4](/es/El_Libro_de_Urantia/114#p1_4)
+> Algunos creen que Maquiventa no vendrá a tomar la dirección personal de los asuntos de Urantia hasta el final de la dispensación actual. Otros sostienen que es posible que el Príncipe vicerregente no venga, como tal, hasta que Michael regrese a Urantia en algún momento, como prometió cuando aún estaba en la carne. Aún otros, incluido este narrador, buscan la aparición de Melquisedec cualquier día u hora. [LU 114:1.4](/es/The_Urantia_Book/114#p1_4)
 
-> Esta es la historia de Maquiventa Melquisedec, uno de los personajes más singulares que jamás se haya conectado con la historia de Urantia y una personalidad que puede estar destinada a desempeñar un papel importante en la experiencia futura de su mundo irregular e inusual. [UB 93:10.11](/es/El_Libro_de_Urantia/93#p10_11)
+> Esta es la historia de Maquiventa Melquisedec, uno de los personajes más singulares que jamás se haya conectado con la historia de Urantia y una personalidad que puede estar destinada a desempeñar un papel importante en la experiencia futura de su mundo irregular e inusual. [LU 93:10.11](/es/The_Urantia_Book/93#p10_11)
 
 Pongamos la mano en el arado del progreso mundial y avancemos con entrega, fe, inteligencia y confianza.
 
 ## Sobre el Autor
 
-<figure id="Figura_3" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_3" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/013.jpg">
-</figura>
+</figure>
 
 Joshua J. Wilson es músico, consejero pastoral y ensayista que escribe sobre temas históricos y científicos que armonizan la ciencia, la filosofía y la espiritualidad.
 
@@ -159,17 +159,17 @@ Tiene una licenciatura en Administración de Empresas y Sistemas de Información
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Publications_Survey">
+        <a href="/es/article/Publications_Survey">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Publications Survey</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#spring-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Pato_Banton_and_Antoinette_Hall/Our_Experience_at_the_Parliament_of_Worlds_Religions">
+        <a href="/es/article/Pato_Banton_and_Antoinette_Hall/Our_Experience_at_the_Parliament_of_Worlds_Religions">
           <span class="pr-2">Our Experience at the Parliament of World’s Religions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

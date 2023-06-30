@@ -14,17 +14,17 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Pipeline_of_Light">
+        <a href="/es/article/Pipeline_of_Light">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pipeline of Light</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Geoff_Taylor/Interfaith_Committee_Chair">
+        <a href="/es/article/Geoff_Taylor/Interfaith_Committee_Chair">
           <span class="pr-2">Interfaith Committee Chair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -34,9 +34,9 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-<figura id="Figura_1" clase="imagen urantiapedia imagen-estilo-alineación-derecha">
+<figure id="Figure_1" class="image urantiapedia imagen-estilo-alineación-derecha">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/017.jpg">
-</figura>
+</figure>
 
 por _Brent St. Denis_
 
@@ -59,9 +59,9 @@ Y Outreach ha sido incansable a la hora de asegurarse de que el Libro de Urantia
 
 Todos estamos comenzando a prepararnos para el presupuesto de becas de 2020, que está previsto que finalice en noviembre. Como parte de este proceso, los comités tienen la tarea de presentar estimaciones idealmente para fines de septiembre con las cantidades requeridas, la justificación de las partidas, los productos y los resultados esperados para que los valiosos fondos de los donantes se gasten sabiamente en apoyo de la visión de la confraternidad.
 
-<figura id="Figura_2" clase="imagen urantiapedia">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/018.jpg">
-</figura>
+</figure>
 
 ## Enlaces externos
 
@@ -74,17 +74,17 @@ Todos estamos comenzando a prepararnos para el presupuesto de becas de 2020, que
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Pipeline_of_Light">
+        <a href="/es/article/Pipeline_of_Light">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pipeline of Light</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Geoff_Taylor/Interfaith_Committee_Chair">
+        <a href="/es/article/Geoff_Taylor/Interfaith_Committee_Chair">
           <span class="pr-2">Interfaith Committee Chair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

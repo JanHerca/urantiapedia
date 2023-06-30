@@ -14,17 +14,17 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Pablo_Segovia/Spanish_Website_Committee">
+        <a href="/es/article/Pablo_Segovia/Spanish_Website_Committee">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spanish Website Committee</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Emilio_Coppola/IT_Committee">
+        <a href="/es/article/Emilio_Coppola/IT_Committee">
           <span class="pr-2">IT Committee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -34,9 +34,9 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-<figura id="Figura_1" clase="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/060.jpg">
-</figura>
+</figure>
 
 por _Jena Lassiter_
 
@@ -90,17 +90,17 @@ Después del lanzamiento inicial:
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Pablo_Segovia/Spanish_Website_Committee">
+        <a href="/es/article/Pablo_Segovia/Spanish_Website_Committee">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spanish Website Committee</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Emilio_Coppola/IT_Committee">
+        <a href="/es/article/Emilio_Coppola/IT_Committee">
           <span class="pr-2">IT Committee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

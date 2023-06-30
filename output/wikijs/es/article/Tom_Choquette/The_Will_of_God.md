@@ -1,0 +1,121 @@
+---
+title: "La Voluntad de Dios, Parte 1 «Amor»"
+description: "The Mighty Messenger — Número de primavera de 2021: Noticias y opiniones para los lectores de El Libro de Urantia"
+published: true
+date: 2023-6-21T8:13:38Z
+tags: God, Mighty Messenger, article
+editor: markdown
+dateCreated: 2023-6-21T8:13:38Z
+---
+
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Tom Choquette<br>© 2021 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gary_Tonge/Survived_the_Fiery_Trial">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Survived the Fiery Trial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Pipeline_of_Light_Report_2021_Spring">
+          <span class="pr-2">Pipeline of Light Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+
+<figure id="Figure_1" class="image urantiapedia">
+<img src="/image/article/The_Mighty_Messenger/2021_Spring/053.jpg">
+</figure>
+
+Mi familia
+
+> «La Voluntad de Dios es el camino de Dios, la asociación con la elección de Dios frente a cualquier [énfasis añadido] alternativa potencial. Por lo tanto, hacer la Voluntad de Dios es la experiencia progresiva de llegar a ser cada vez más como Dios, y Dios es la fuente y el destino de todo lo que es bueno, hermoso y verdadero [énfasis añadido]». [[LU 130:2.7](/es/The_Urantia_Book/130#p2_7)]
+
+Simplificar la voluntad de Dios en nuestras vidas finitas es vivir nuestras vidas de tal manera que nuestro Amado pueda vivir a través de nosotros. Este es el camino de Dios.
+
+> «Nunca olvides que solo hay una aventura que es más satisfactoria y emocionante que el intento de descubrir la voluntad del Dios vivo, y esa es la experiencia suprema de tratar honestamente de hacer esa voluntad divina. Y no dejéis de recordar que la voluntad de Dios se puede hacer en cualquier ocupación terrenal [énfasis añadido]». [[LU 155:6.11](/es/The_Urantia_Book/155#p6_11)]
+
+Dios nos pide que amemos a todos. Pero, ¿qué significa eso exactamente y cómo podemos medir si estamos o no a la altura de nuestro potencial para darlo todo con el Amado? Aquí es donde entran los frutos del espíritu.
+
+A algunos de los frutos del espíritu he añadido definiciones adicionales como la templanza, que significa más que abstenerse del alcohol y longanimidad, que fácilmente pueden malinterpretarse. Porque los frutos del espíritu son amor, alegría, paz, longanimidad (sin quejas, tolerante, misericordioso, paciente), mansedumbre, bondad, fe, mansedumbre, templanza (dominio propio), servicio amoroso, devoción desinteresada, lealtad valiente, justicia sincera , honestidad iluminada, esperanza imperecedera, confianza confiada, ministerio misericordioso, bondad inagotable, tolerancia perdonadora y paz duradera.
+
+> «Hacer la voluntad de Dios no es ni más ni menos que una exhibición de la disposición de la criatura a compartir la vida interior con Dios [énfasis añadido]…» [[LU 111:5.1](/es/The_Urantia_Book/111# p5_1)]
+
+Estos frutos del espíritu son los que el Amado hace a través de nosotros. Estos son parte de una lista que incorpora los valores supremos que nos trae nuestro Ajustador cuando Hechoos nos identifica como posibles socios eternos. Esta es la parte humana del acuerdo. Así es como compartimos nuestra vida interior con Dios, le permitimos vivir a través de nosotros adoptando sus frutos y haciendo todo lo posible para incorporar estos aspectos del amor en nuestras vidas.
+
+> «Pero antes que nada voy a practicar la adoración a Dios aprendiendo a hacer la voluntad de Dios en la tierra; es decir, voy a hacer todo lo posible para tratar a cada uno de mis semejantes mortales tal como creo que a Dios le gustaría que lo trataran [énfasis añadido]. Y cuando vivimos este tipo de vida en la carne, podemos pedirle muchas cosas a Dios, y él nos concederá el deseo de nuestro corazón para que estemos mejor preparados para servir a nuestros semejantes [énfasis añadido]. Y todo este amoroso servicio de los hijos de Dios aumenta nuestra capacidad de recibir y experimentar los gozos del cielo, los altos placeres del ministerio del espíritu del cielo». [[LU 131:10.5](/es/The_Urantia_Book/131#p10_5)]
+
+Se nos dice que nuestra alma se expande o se contrae por las elecciones que hacemos. Que nos acercamos a Dios o nos alejamos de Él. No podemos quedarnos quietos en nuestra búsqueda de hacer la voluntad de Dios tanto por dentro como por fuera. Amar es una de las bendiciones divinas con las que hemos sido dotados. Todo amor verdadero viene de Dios, a través de nosotros, y si elegimos, podemos compartir este amor distribuyendo Su poder a todos los hijos de Mamá que tocamos.
+
+Las verdaderas bendiciones de nuestra revelación no están en la lectura, nunca lo estuvo, sino en el vivir. En el proceso de convertirnos en lo que todos estábamos destinados a ser individualmente, conductos vivientes del amor del Padre para este «planeta de la cruz» devastado por la guerra y el corazón, realmente comenzamos a hacer la voluntad de Dios en nuestras vidas. Tenemos una revelación que nos dice esto.
+
+Es por eso que eres parte de mi familia más preciosa. Todos hemos sido bendecidos por una revelación que podemos vivir. Es en la vida sugerida por nuestra revelación que podemos elegir hacer la voluntad de Dios e irradiar ese amor de Dios hacia el mundo que nos rodea. Piénsalo. Cada uno de nosotros ha sido elegido por una parte única de lo Divino para ser Su guía durante nuestra estadía en este planeta impresionante. Si aceptamos hacer esto, el Amado promete ser nuestro guía en las aventuras ilimitadas, infinitas y eternas por venir. Se nos pide que amemos y que enseñemos a otros a amar.
+
+> «Llegamos a la comprensión de que vivir la voluntad de Dios es el pasaporte eterno a la infinita posibilidad del infinito mismo». [[LU 106:9.11](/es/The_Urantia_Book/106#p9_11)]
+
+Cuando escuché por primera vez sobre los frutos del espíritu, pensé que simplemente aparecían mágicamente mientras trabajaba en otros aspectos de mi vida asociados con volverme espiritual. Meditar, orar, ir a la iglesia, profundizar en los estudios y la difusión de _El Libro de Urantia_ y servir a nuestra comunidad ya la comunidad en general, son solo algunos de los ejemplos que pensé que mágicamente me obsequiarían con los frutos del Padre en nuestra vida.
+
+No recuerdo cuando me di cuenta de que los frutos me fueron dados para adoptar en mi vida a través de la participación activa en la transformación de mi voluntad a la voluntad del Padre - que los frutos fueron una oferta de Dios para permitirle experimentar, a través de nosotros todo, la vida en lo finito. ¡Qué asombrosa revelación! Por sus frutos los conoceréis.
+
+> «Quien quiera hacer la voluntad de Dios comprenderá la validez de los valores espirituales». [[LU 101:10.6](/es/The_Urantia_Book/101#p10_6)]
+
+Creo que esto significa que antes de que podamos participar en el descubrimiento de los valores espirituales, debemos tomar una decisión sincera de hacer la «voluntad de Dios» en nuestras vidas. Para aquellos de nosotros que reconocemos esto y hemos sido tan bendecidos, ¿alguna vez ha habido otra opción?
+
+Tomé la decisión consciente de esforzarme al máximo para adoptar todos los valores que Dios me ha dado para permitir que Su amor fluya a través de mí hacia el mundo. ¿Estoy siquiera cerca de lograr esta tarea eterna? Por supuesto que no, pero irradiar Su amor a todos los que nos rodean es el verdadero deseo de mi corazón. Cada uno de nosotros puede elegir ser amantes Divinos. Todo lo que necesitamos hacer es trabajar en cultivar los frutos del espíritu en nuestra vida diaria, lo cual es idéntico a cultivar la voluntad de Dios en nuestras vidas. Y para hacer esto nos asociamos con Dios y pedimos ayuda diaria. Les pido su ayuda y aliento en nuestro viaje mutuo hacia la luz de mil millones de estrellas y más allá, mientras prometo alentarlos y ayudarlos.
+
+> «Y Jesús respondió: 'El reino de los cielos consiste en estos tres elementos esenciales: primero, el reconocimiento del hecho de la soberanía de Dios; segundo, la creencia en la verdad de la filiación con Dios; y tercero, la fe en la eficacia del supremo deseo humano de hacer la voluntad de Dios [énfasis añadido]: ser como Dios. ...'» [[LU 140:10.9](/es/The_Urantia_Book/140#p10_9)]
+
+Prometo que en el futuro trabajaré duro para amar a todos, perdonar todo y no juzgar. Este es entonces el camino jesusoniano.
+
+Amarlos a todos más cada día.
+En su servicio,
+con su gracia
+
+Tomás
+
+La Voluntad de Dios, Parte 2 «Misericordia»... Próximamente en una publicación cerca de usted este verano.
+
+El amor del Maestro implica rehabilitación, supervivencia eterna.” [[LU 188:5.2](/es/The_Urantia_Book/188#p5_2)]
+
+Somos bendecidos con el privilegio de ayudar a Dios a ayudar a otros, para que ellos también puedan embarcarse en un viaje eterno, buscando y asociándose con el Infinito en todas las cosas.
+
+## Enlaces externos
+
+* Boletín en _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2021-03-21-Spring.pdf
+
+<br>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gary_Tonge/Survived_the_Fiery_Trial">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Survived the Fiery Trial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Pipeline_of_Light_Report_2021_Spring">
+          <span class="pr-2">Pipeline of Light Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

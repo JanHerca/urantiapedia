@@ -14,17 +14,17 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Dancing_with_God_Retreat_2019">
+        <a href="/es/article/Dancing_with_God_Retreat_2019">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dancing with God Retreat 2019</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#spring-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Lifting_Together">
+        <a href="/es/article/Lifting_Together">
           <span class="pr-2">Lifting Together</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -34,13 +34,13 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-**“RAÍCES DEL ESPÍRITU” es el tema de este año!**
+**«RAÍCES DEL ESPÍRITU» es el tema de este año!**
 
 Únase a nosotros mientras contemplamos profundamente lo que significa vivir fielmente, mientras sinceramente intentamos escuchar y seguir la guía interna de nuestro Ajustador del Pensamiento interno.
 
 Dijo Jesús:
 
-> “Edificad bien los cimientos para el crecimiento de un carácter noble de dotes espirituales, para dar los frutos del espíritu, debéis nacer del espíritu. Deben ser enseñados por el espíritu y ser guiados por el espíritu si desean vivir la vida llena del espíritu entre sus semejantes”. [UB 156:5.2](/es/El_Libro_de_Urantia/156#p5_2)
+> «Edificad bien los cimientos para el crecimiento de un carácter noble de dotes espirituales, para dar los frutos del espíritu, debéis nacer del espíritu. Deben ser enseñados por el espíritu y ser guiados por el espíritu si desean vivir la vida llena del espíritu entre sus semejantes». [LU 156:5.2](/es/The_Urantia_Book/156#p5_2)
 
 Compartiremos comunidad, naturaleza, oración, estudio y servicio con nuestros hermanos creyentes mientras estamos rodeados por los hermosos Flat Irons de Boulder, Colorado.
 
@@ -56,9 +56,9 @@ Financiado por _The Urantia Book_ Fellowship y organizado por The Rocky Mountain
 
 Regístrese en línea: https://urantiabook.wildapricot.org/event-3231574/Registration
 
-<figura id="Figura_1" clase="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/009.jpg">
-</figura>
+</figure>
 
 25-28 de abril
 Boulder, Colorado
@@ -76,17 +76,17 @@ Cooperación sincera, resistencia alegre, seguimiento fiel, persistencia pacient
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Dancing_with_God_Retreat_2019">
+        <a href="/es/article/Dancing_with_God_Retreat_2019">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dancing with God Retreat 2019</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#spring-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Lifting_Together">
+        <a href="/es/article/Lifting_Together">
           <span class="pr-2">Lifting Together</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

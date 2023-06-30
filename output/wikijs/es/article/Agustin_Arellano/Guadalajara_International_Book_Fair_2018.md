@@ -14,17 +14,17 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Larry_Bowman/New_General_Councilors_Executive_Committee">
+        <a href="/es/article/Larry_Bowman/New_General_Councilors_Executive_Committee">
           <span class="pr-2">New General Councilors, Executive Committee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2018-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Joy_Brandt/Spanish_Urantia_Book_at_Guadalajara_International_Book_Fair">
+        <a href="/es/article/Joy_Brandt/Spanish_Urantia_Book_at_Guadalajara_International_Book_Fair">
           <span class="pr-2">Spanish Urantia Book at Guadalajara International Book Fair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -36,9 +36,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 por _Agustín Arellano_
 
-<figura id="Figura_1" clase="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2018_Fall/Agustin_Arellano.jpg">
-</figura>
+</figure>
 
 Este año la Feria Internacional del Libro de Guadalajara es del 24 de noviembre al 2 de diciembre de 2018. Estamos en el stand N26 en la sección nacional. Estamos teniendo voluntarios de Perú y México en su mayoría, pero también de Estados Unidos y Costa Rica.
 
@@ -76,17 +76,17 @@ O llámanos al: 303-467-7858
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Larry_Bowman/New_General_Councilors_Executive_Committee">
+        <a href="/es/article/Larry_Bowman/New_General_Councilors_Executive_Committee">
           <span class="pr-2">New General Councilors, Executive Committee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2018-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Joy_Brandt/Spanish_Urantia_Book_at_Guadalajara_International_Book_Fair">
+        <a href="/es/article/Joy_Brandt/Spanish_Urantia_Book_at_Guadalajara_International_Book_Fair">
           <span class="pr-2">Spanish Urantia Book at Guadalajara International Book Fair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

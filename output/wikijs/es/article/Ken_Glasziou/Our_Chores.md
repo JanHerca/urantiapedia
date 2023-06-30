@@ -25,7 +25,7 @@ dateCreated: 2022-09-26T19:17:35.750Z
         </td>
         <td>
         <a href="/es/article/Ken_Glasziou/More_on_Our_Challenge">
-          <span class="pr-2">Más sobre “Nuestro Desafío”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Más sobre «Nuestro Desafío»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -76,7 +76,7 @@ Pero principalmente, debemos vivir como vivió Jesús.
         </td>
         <td>
         <a href="/es/article/Ken_Glasziou/More_on_Our_Challenge">
-          <span class="pr-2">Más sobre “Nuestro Desafío”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Más sobre «Nuestro Desafío»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

@@ -25,7 +25,7 @@ dateCreated: 2022-09-26T07:02:53.956Z
         </td>
         <td>
         <a href="/es/article/Ken_Glasziou/Agree_with_your_Adversary">
-          <span class="pr-2">“De acuerdo con tu adversario”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">«De acuerdo con tu adversario»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -329,7 +329,7 @@ De hecho, incluso el pensamiento de que nuestras vidas son, o incluso deberían 
         </td>
         <td>
         <a href="/es/article/Ken_Glasziou/Agree_with_your_Adversary">
-          <span class="pr-2">“De acuerdo con tu adversario”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">«De acuerdo con tu adversario»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

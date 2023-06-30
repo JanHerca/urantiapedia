@@ -14,17 +14,17 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/First_Meeting_of_the_Urantia_Uganda">
+        <a href="/es/article/First_Meeting_of_the_Urantia_Uganda">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">First Meeting of the Urantia Uganda August 2020 Planning Committee</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/The_Mighty_Messenger/The_Mighty_Messenger_2019_Fall_Endpage">
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2019_Fall_Endpage">
           <span class="pr-2">End page</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -60,7 +60,7 @@ Con alegría por sí, la adoramos.
 
 _Palabras originales en alemán de Joachim Neander, 1680_
 _Música, Lobe den Herren, 1665_
-_“Alabado sea el Señor Todopoderoso”_
+_«Alabado sea el Señor Todopoderoso»_
 _Traducción al inglés de Catherine Winkworth, 1863_
 
 ## Enlaces externos
@@ -74,17 +74,17 @@ _Traducción al inglés de Catherine Winkworth, 1863_
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/First_Meeting_of_the_Urantia_Uganda">
+        <a href="/es/article/First_Meeting_of_the_Urantia_Uganda">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">First Meeting of the Urantia Uganda August 2020 Planning Committee</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/The_Mighty_Messenger/The_Mighty_Messenger_2019_Fall_Endpage">
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2019_Fall_Endpage">
           <span class="pr-2">End page</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

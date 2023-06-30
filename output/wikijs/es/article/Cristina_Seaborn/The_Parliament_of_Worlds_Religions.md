@@ -16,12 +16,12 @@ dateCreated: 2021-11-28T14:02:03.086Z
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2018-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/David_Linthicum/Parliament_Booth_Guidelines">
+        <a href="/es/article/David_Linthicum/Parliament_Booth_Guidelines">
           <span class="pr-2">Parliament Booth Guidelines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -34,16 +34,16 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 por _Cristina Seaborn_
 
-<figura id="Figura_1" clase="imagen urantiapedia">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2018_Fall/Parliament.jpg">
 <figcaption><em>Fotos del Parlamento por Steve Rohrbach</em></figcaption>
-</figura>
+</figure>
 
 En el Parlamento, personas de más de 350 creencias y religiones diferentes se reúnen para celebrar qué es lo que llena nuestras almas de la fe de los demás. La belleza de ver a un monje budista tibetano crear una pintura de arena, cantar con los sijs, disfrutar de un concierto de música hindú adorando y honrando a Dios, Shiva, Vishnu, Ganesha, incluidos instrumentos y voces de todo el mundo.
 
-<figura id="Figura_2" clase="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_2" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2018_Fall/Cristina_Seaborn.jpg">
-</figura>
+</figure>
 
 Para mí, el Parlamento es la mejor siembra de revelación que jamás hayamos tenido. Los resultados ocurrirán durante los próximos 30 a 50 años en formas que ninguno de nosotros puede imaginar. Debido a que el acto es nuestro y la consecuencia es de Dios, no podemos conocer los resultados divinos hasta que sucedan con el tiempo. El crecimiento también es para nosotros, en la celebración de la fe desde muchas perspectivas. Jesús fue el mejor estudiante interreligioso que jamás haya existido, estudiando las religiones de su tiempo. ¿No deberíamos serlo nosotros también?
 
@@ -51,18 +51,18 @@ Los mejores momentos en el Parlamento para mí son cuando todo mi conocimiento p
 
 Mi yo idealista espera que experimentemos más signos de vivir en la era de la luz y la vida, incluida la eliminación de la guerra, la paz interior personal, un enfoque en la filosofía, la ética y la razón, con científicos y maestros a la cabeza, en lugar de hombres de negocios y políticos.
 
-Idealmente, las tres principales religiones del mundo que nacieron de las enseñanzas de Melquisedec se fortalecerían entre sí al descubrir el alcance de sus puntos en común. Este es un taller que Sheila Keene-Lund está dando en el Parlamento titulado “_Cómo hacer la transición de la fragmentación a la integración_”. Espero con ansias este audaz llamado a la acción de Sheila al cristianismo, el islam y el judaísmo. Sheila está compartiendo su tiempo con otros hablando sobre un tema similar bajo el título de “Pluralismo religioso vivo”.
+Idealmente, las tres principales religiones del mundo que nacieron de las enseñanzas de Melquisedec se fortalecerían entre sí al descubrir el alcance de sus puntos en común. Este es un taller que Sheila Keene-Lund está dando en el Parlamento titulado «_Cómo hacer la transición de la fragmentación a la integración_». Espero con ansias este audaz llamado a la acción de Sheila al cristianismo, el islam y el judaísmo. Sheila está compartiendo su tiempo con otros hablando sobre un tema similar bajo el título de «Pluralismo religioso vivo».
 
-<figura id="Figura_3" clase="imagen urantiapedia">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2018_Fall/Urantia_Booth_Gary_Tonge.jpg">
 <figcaption><en>Diseño del panel del stand de Urantia por Gary Tonge</en></figcaptionn>
-</figura>
+</figure>
 
 Estamos organizando un stand conjunto de El libro de Urantia con la Fundación Urantia, Urantia Book Fellowship, Urantia Association International y Truthbook. Hasta el momento, hay más de 60 estudiantes de los periódicos de Urantia asistiendo al Parlamento. Los materiales del stand incluirán hermosas postales con citas del Libro de Urantia, marcadores, las Parábolas de Jesús, un folleto sobre el UB y una copia del Libro de Urantia en todos los idiomas que hemos traducido. ¡Habrá muchos libros de Urantia en inglés y francés si los necesita! Para obtener más información sobre el registro del Parlamento de las Religiones del Mundo, puede visitar su sitio web: https:// parlamentoofreligions.org/parliament/2018-toronto/2018-powr
 
 Gracias al lector local de Urantia, Serge Jusyp, se hizo una reserva para 12 el 31 de octubre para una cena previa al parlamento a las 7 p. m., 312 Yonge St, Toronto, ON M5B 1R4, Canadá. Comuníquese con Serge Jusyp si desea unirse a nosotros al (416) 435-4918 o sjusyp@gmail.com
 
-El fondo Victoria Clark a través de Mind, Body & Spirit se complace en anunciar una contribución de $1,500 a los jóvenes y adultos jóvenes para asistencia financiera para asistir al Parlamento de las Religiones del Mundo. Póngase en contacto con Sean Privitera en sprivitera@gmail.com si es un adulto joven y está interesado en ir al Parlamento de este año a cambio de tiempo como voluntario en el stand de _El libro de Urantia_.
+El fondo Victoria Clark a través de Mind, Body & Spirit se complace en anunciar una contribución de $1,500 a los jóvenes y adultos jóvenes para asistencia financiera para asistir al Parlamento de las Religiones del Mundo. Póngase en contacto con Sean Privitera en sprivitera@gmail.com si es un adulto joven y está interesado en ir al Parlamento de este año a cambio de tiempo como voluntario en el stand de _El Libro de Urantia_.
 
 ## Talleres del Parlamento de Urantia 2018
 
@@ -73,7 +73,7 @@ Escenario del festival de la habitación
 
 <ins>Sábado 3 de noviembre de 2018, de 18:00 a 19:00</ins>
 Un Camino de Vida en la Familia de Dios: El
-Visión global de _El libro de Urantia_
+Visión global de _El Libro de Urantia_
 marvin gawryn
 Habitación 710
 
@@ -115,7 +115,7 @@ O póngase en contacto con Elisabeth Callahan en elisabeth.callahan@urantiaunive
 
 https://urantiauniversity.org/event-3051354
 
-Gracias a Gary Tonge por el hermoso diseño del nuevo stand de Urantia que representa las cuatro partes de _El libro de Urantia_. Todo el proceso creativo fue copatrocinado por la Fundación Urantia, Urantia Book Fellowship, Urantia Association International y Truthbook.
+Gracias a Gary Tonge por el hermoso diseño del nuevo stand de Urantia que representa las cuatro partes de _El Libro de Urantia_. Todo el proceso creativo fue copatrocinado por la Fundación Urantia, Urantia Book Fellowship, Urantia Association International y Truthbook.
 
 Según nuestra política conjunta, las cuatro organizaciones deben figurar en cualquier material que se encuentre en el stand. Nos gustaría que el stand fuera estéticamente hermoso y despejado. Comuníquese con cualquiera de estas excelentes organizaciones con las preguntas que pueda tener.
 
@@ -136,12 +136,12 @@ Cristina Seaborn
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2018-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/David_Linthicum/Parliament_Booth_Guidelines">
+        <a href="/es/article/David_Linthicum/Parliament_Booth_Guidelines">
           <span class="pr-2">Parliament Booth Guidelines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

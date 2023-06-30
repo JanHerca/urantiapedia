@@ -14,12 +14,12 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Dan_Amyx/UB_Fundraiser_letter">
+        <a href="/es/article/Dan_Amyx/UB_Fundraiser_letter">
           <span class="pr-2">UB Fundraiser letter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2018-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
         </a>
         </td>
@@ -32,9 +32,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 por _Michael Hill_
 
-<figura id="Figura_1" clase="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2018_Fall/Michael_Hill.jpg">
-</figura>
+</figure>
 
 Cada año, la Fraternidad recibe más de 150 cartas de reclusos de todo el país solicitando Libros de Urantia. El año pasado, cuatro de nosotros, DJ Marshall, Dick Bain, Mike Schneider y yo, nos ofrecimos como voluntarios para responder a esas cartas, reunir fondos para comprar los libros, empaquetarlos y enviarlos por correo prioritario de USPS. Nos llamamos el equipo del Programa de Correspondencia de Reclusos de la Fraternidad.
 
@@ -66,12 +66,12 @@ Michael Hill para el equipo ICP
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Dan_Amyx/UB_Fundraiser_letter">
+        <a href="/es/article/Dan_Amyx/UB_Fundraiser_letter">
           <span class="pr-2">UB Fundraiser letter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2018-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
         </a>
         </td>

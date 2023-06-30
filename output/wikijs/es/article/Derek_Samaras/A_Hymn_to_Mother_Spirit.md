@@ -14,17 +14,17 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Nadi_Burton/Divine_Love_Inspires_Applied_Faith">
+        <a href="/es/article/Nadi_Burton/Divine_Love_Inspires_Applied_Faith">
           <span class="pr-2">Divine Love Inspires Applied Faith</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2018-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Dan_Amyx/UB_Fundraiser_letter">
+        <a href="/es/article/Dan_Amyx/UB_Fundraiser_letter">
           <span class="pr-2">UB Fundraiser letter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -35,9 +35,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 por _Derek Samaras_
 
-<figura id="Figura_1" clase="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2018_Fall/Derek_Samaras.jpg">
-</figura>
+</figure>
 
 ¡Oh Madre! ¡Ay tu pueblo! ¡Oh! Tu planeta que brilla azul de Lapislázuli. Brota este día: tu día. El día en que te reconozcamos por siempre a ti y a tu amor infinito que es el aire dulce que respiramos. Dulce espíritu de todo lo natural y bueno, gracias por tu paciencia, gracias por tu compasión, gracias por el soplo de vida que te dirige este himno de gratitud, gran madre del espíritu.
 
@@ -68,17 +68,17 @@ Mi dulce río de tolerancia, Mi montaña de misericordia, Mi campo sin fin de bo
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Nadi_Burton/Divine_Love_Inspires_Applied_Faith">
+        <a href="/es/article/Nadi_Burton/Divine_Love_Inspires_Applied_Faith">
           <span class="pr-2">Divine Love Inspires Applied Faith</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2018-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Dan_Amyx/UB_Fundraiser_letter">
+        <a href="/es/article/Dan_Amyx/UB_Fundraiser_letter">
           <span class="pr-2">UB Fundraiser letter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

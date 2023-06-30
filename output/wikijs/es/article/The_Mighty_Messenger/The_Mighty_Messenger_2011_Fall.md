@@ -91,7 +91,7 @@ El 14 de febrero de 1961, el Comité Ejecutivo de la Hermandad Urantia aprobó l
 
 La Sociedad cambió su nombre en 2007 a la Sociedad de Orvonton eliminando «Chicago» de su nombre ya que la mayoría de los miembros se habían mudado del área de Chicago, pero decidieron mantener su lealtad a la Sociedad de Orvonton. Como resultado, se convirtió en una Sociedad virtual con sede en Indianápolis. La Sociedad actualmente tiene tres grupos de estudio en el área de Indianápolis, uno en Brookston, Indiana, un grupo recién formado en Bloomington, Indiana, un grupo de estudio en Baton Rouge, Louisiana y un grupo de estudio en Oaxaca, México. Los funcionarios y miembros realizan negocios por correo electrónico y Skype.
 
-<figure id="Figure_4" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_4" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2011_Fall/005765.jpg">
 <figcaption><em>Miembros fundadores arriba: Sentados de izquierda a derecha: Mary Hartz, Carolyn Kendall, Ambernette Ohlstad, De pie: James Kuzell, Thomas Kendall, Larry Bowman, Wesley James, Robert Smatlak, Kenneth Dynan, Bill Brehio, Alfred Leverenz< /em></figcaption>
 </figure>
@@ -120,7 +120,7 @@ El tercer día de la conferencia fue un 'día ligero'. No hubo sesión plenaria 
 
 El segundo taller al que asistí fue la sesión de David Kantor y Eric Cosh «Explorando el contexto del otorgamiento de Michael». David nos dio antecedentes sobre el contexto histórico, religioso y cósmico en el que apareció Jesús; conocimientos sobre el patrón de cómo cada revelación de época se basa en la revelación anterior; y lo que ese patrón podría significar para la introducción efectiva de la quinta revelación de época en el planeta.
 
-<figure id="Figure_7" class="imagen urantiapedia estilo-imagen-alinear-derecha">
+<figure id="Figure_7" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2011_Fall/005768.jpg">
 </figure>
 
@@ -187,7 +187,7 @@ Tuevo Orjala, Angie Thurston, Mae Thompson, Liz Craig, Tony Finstad
 
 Nuestra promesa a usted cumplida. Ven a ayudar a construir tu comunidad.
 
-<figure id="Figure_13" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_13" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2011_Fall/005776.jpg">
 </figure>
 
@@ -197,7 +197,7 @@ Está cordialmente invitado a unirse a nosotros en las montañas de Nuevo Méxic
 
 Taos tiene una ubicación céntrica y está a solo 15 horas en automóvil de Los Ángeles, 13 horas de Omaha, 12 horas de Dallas y Kansas City, 10 horas de Salt Lake City y Oklahoma City y 5 horas de Denver. Tú entiendes. Pero espere, hay más: para los primeros 50 Truthseekers que se registren, le reembolsaremos el dinero de la gasolina hacia y desde Taos. ¿Imagina viajar en automóvil compartido a nuestra aventura? Diversión adicional que ni siquiera estabas planeando. Para aquellos de ustedes que vuelan a Albuquerque, Nuevo México, organizaremos el transporte desde y hacia el aeropuerto. Nuestro grupo de edad oscila entre los 15 y los 25 años (se aplican algunas excepciones). Si ha asistido a un evento YaYA o Truthseekers en el pasado, por supuesto, siempre es bienvenido.
 
-<figure id="Figure_14" class="imagen urantiapedia estilo-imagen-alinear-derecha">
+<figure id="Figure_14" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2011_Fall/005777.jpg">
 </figure>
 
@@ -211,7 +211,7 @@ Publicaremos precios y materiales actualizados en los siguientes tres sitios web
 
 ## Noticias internacionales: Feria del Libro 2011 de Seúl, Corea
 
-<figure id="Figure_16" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_16" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2011_Fall/005779.jpg">
 </figure>
 
@@ -221,7 +221,7 @@ Nuestra persona de contacto principal en Corea, Sy Chang, nos recibió en nuestr
 
 Aprendimos otra lección cultural en relación al librito jesusoniano: «Hay VIDA DESPUÉS DE LA MUERTE», del cual llevamos 10 ejemplares para los coreanos de habla inglesa. La palabra 'muerte' es un tabú en Corea y habría alejado a algunos visitantes del stand.
 
-<figure id="Figure_17" class="imagen urantiapedia estilo-imagen-alinear-derecha">
+<figure id="Figure_17" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2011_Fall/005780.jpg">
 </figure>
 
@@ -297,13 +297,13 @@ Canalización de la Luz
 
 ## Lanzamiento de la traducción al turco de El Libro de Urantia
 
-<figure id="Figure_21" class="imagen urantiapedia estilo-imagen-alinear-derecha">
+<figure id="Figure_21" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2011_Fall/005784.jpg">
 </figure>
 
 Este verano, _The Urantia Book_ Society of Greater New York (UBSGNY) comenzó una traducción de _The Urantia Book_ al turco. «Se nos presentó esta oportunidad y la encontramos irresistible», dijo Eileen Laurence, presidenta del Comité de Supervisión de Traducción de UBSGNY. «Da la casualidad», dijo Eileen, «que el lector de El Libro de Urantia, Bill Rocap, vive ahora en Turquía y se ha ofrecido como voluntario para facilitar el proceso». Bill conoce a un grupo de lectores de _El Libro de Urantia_ en Turquía que leyeron el libro en inglés original. También ayudó al TOC a encontrar un traductor competente y negociar un contrato con él.
 
-«Una traducción al turco tiene mucho sentido», dice Eileen. «Turquía es un país de unos 80 millones de habitantes, casi el 100 por ciento de los cuales son musulmanes (en su mayoría sunitas). A diferencia de la mayoría de los otros países musulmanes en el Medio Oriente y África del Norte, Turquía es una democracia secular razonablemente estable con una tasa de alfabetización promedio cercana al 90 por ciento. Turquía se extiende a ambos lados de Europa y Asia y su influencia política y cultural, particularmente en el Medio Oriente, parece estar creciendo. Turquía ha tratado durante muchos años de convertirse en parte de la “comunidad europea». Teniendo en cuenta todo esto, nos parece que existe un gran potencial para la difusión efectiva de _El Libro de Urantia_ a través de este esfuerzo de traducción con una probabilidad extremadamente baja de supresión gubernamental oficial”.
+«Una traducción al turco tiene mucho sentido», dice Eileen. «Turquía es un país de unos 80 millones de habitantes, casi el 100 por ciento de los cuales son musulmanes (en su mayoría sunitas). A diferencia de la mayoría de los otros países musulmanes en el Medio Oriente y África del Norte, Turquía es una democracia secular razonablemente estable con una tasa de alfabetización promedio cercana al 90 por ciento. Turquía se extiende a ambos lados de Europa y Asia y su influencia política y cultural, particularmente en el Medio Oriente, parece estar creciendo. Turquía ha tratado durante muchos años de convertirse en parte de la «comunidad europea». Teniendo en cuenta todo esto, nos parece que existe un gran potencial para la difusión efectiva de _El Libro de Urantia_ a través de este esfuerzo de traducción con una probabilidad extremadamente baja de supresión gubernamental oficial».
 
 La traducción al turco es el tercer proyecto de traducción de UBSGNY. La sociedad de Nueva York ya ha completado las traducciones de _El Libro de Urantia_ al coreano y al ruso. La sociedad considera que las traducciones de _El Libro de Urantia_ son una de las herramientas más importantes y eficaces disponibles para la difusión de la revelación. Siete de los ocho miembros actuales del Comité de Supervisión de Traducciones de UBSGNY han acumulado veinte años de experiencia en la gestión de traducciones y actividades relacionadas. «Consideramos que cualquier traducción de _El Libro de Urantia_ es un trabajo en progreso que siempre se puede mejorar», dice Eileen. «Cualquier traducción completada por UBSGNY está y seguirá estando disponible gratuitamente para cualquier individuo o grupo de lectores que deseen mejorarla. Nuestras traducciones se publican en la web y están disponibles para su descarga».
 
@@ -332,7 +332,7 @@ Así que vamos amigos, empiecen a pensar en ello. Después del grupo, durante la
 - Si desea ofrecer parte de su tiempo como voluntario para servir a la Fraternidad en uno de sus diversos comités, comuníquese con nuestro Coordinador de Voluntarios en: andbarnes@gmail.com.
 - ¿Ha visitado el sitio web de la Fellowship recientemente? Puede encontrar varios tipos de información, como información del grupo de estudio, el último boletín en línea y otras publicaciones, una versión en audio del libro que puede usar durante las sesiones del grupo de estudio, la tienda web, archivos de la historia de la revelación, estudios sobre prácticamente todos los tema en el libro, y mucho, mucho más. Pase una tarde de invierno explorando los recursos disponibles para usted en www.urantiabook.org.
 
-## El bastón de mensajero poderoso
+## Equipo del Mighty Messenger
 
 Publicado por Uversa Press para el Comité de Publicaciones de la Fellowship de _El Libro de Urantia_.
 Miembros: Linda Buselli, presidenta Cece Forrester, David Glass, Nancy Johnson, Sage Waitts

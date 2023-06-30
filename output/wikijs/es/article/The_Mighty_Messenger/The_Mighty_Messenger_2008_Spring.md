@@ -81,7 +81,7 @@ Ahora estamos utilizando un servicio de registro que le permite registrarse en l
 
 ## Graduados de Duane Faw
 
-<figure id="Figure_3" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_3" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2008_Spring/Duane_Faw.jpg">
 </figure>
 
@@ -109,7 +109,7 @@ La Fellowship honró oficialmente a Duane y Lucile Faw junto con Meredith e Iren
 
 Por _Paula Thompson_
 
-<figure id="Figure_5" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_5" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2008_Spring/005678.jpg">
 </figure>
 
@@ -246,7 +246,7 @@ Dieciséis miembros, incluidos dos miembros nuevos, participaron en la reunión 
 - Nuevo Sistema de Base de Datos. La Fellowship está trabajando actualmente para lograr el objetivo de estandarizar todas las funciones de la base de datos de la sociedad para que los funcionarios de la sociedad siempre tengan acceso a una base de datos fácil y precisa. Contamos con cada sociedad para ayudarnos a mantenerlo actualizado. Cuanto antes pueda obtener nombres, direcciones, números de teléfono y direcciones de correo electrónico, antes podremos hacer adiciones y/o correcciones. Los datos pueden ser enviados a nosotros en cualquier formato.
 - Actualización de la comunidad en línea. Para recibir el boletín electrónico mensual de la Comunidad, vaya a www.urantiabook.org y haga clic en Suscripciones en la parte inferior de la página de inicio. Si ya está registrado para este servicio, recuerde mantenernos informados sobre cualquier cambio de dirección de correo electrónico.
 
-## El bastón de mensajero poderoso
+## Equipo del Mighty Messenger
 
 Publicado por Uversa Press para el Comité de Publicaciones de la Fellowship de _El Libro de Urantia_.
 Miembros: Linda Buselli, Presidenta Lynda D'Arcangelo, Laura Hay, Nancy Johnson, Joe Liszka, Sage Waitts

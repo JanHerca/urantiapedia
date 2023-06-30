@@ -131,7 +131,7 @@ Dimos UB's a dos trabajadores masculinos en el hotel. Uno fue nuestro camarero d
 
 No vendimos todos los libros que llevábamos allí y dejamos los libros restantes para Bill y el grupo de estudio. De los 1.000 folletos impresos, se regalaron 750, se compartieron cientos de vitaminas espirituales, se vendieron varios de los libros en alemán y se entregaron la mayoría de los CD traducidos al turco y varios de los CD al ruso.
 
-<figure id="Figure_4" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_4" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2015_Spring/005855.jpg">
 </figure>
 
@@ -145,7 +145,7 @@ El Comité Internacional de Fellowships
 
 El Comité Internacional de Fellowships participó en la Feria del Libro de Jerusalén del 8 al 12 de febrero de 2015. Y fue nuestra primera misión este nuevo año.
 
-<figure id="Figure_5" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_5" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2015_Spring/005856.jpg">
 </figure>
 
@@ -213,7 +213,7 @@ Agregamos nuevos productos a nuestra tienda en línea regularmente. Ya está dis
 
 Nuestro sitio web, https://www.urantiabook.org, es un trabajo de amor de 20 años creado por estudiantes dedicados y devotos de _El Libro de Urantia_. La Fellowship fue una de las primeras organizaciones en proporcionar recursos web para la revelación.
 
-<figure id="Figure_9" class="imagen urantiapedia estilo-imagen-alinear-derecha">
+<figure id="Figure_9" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2015_Spring/005860.jpg">
 </figure>
 
@@ -237,7 +237,7 @@ Si prefiere recibir nuestras publicaciones, el Mighty Messenger y el Fellowship 
 - La sesión de estudio de verano de la Fellowship 2015, del 9 al 12 de julio, en Techny Towers, Northbrook, IL. Un retiro previo a la conferencia, «Creación de círculos de confianza», el 9 de julio, precederá a la sesión de estudio.
 - Para un regalo regular de los sábados, sintonice el webcast «Ciudadano Cósmico» con llamada. 10:00 Montaña. Número de llamada para webcast. http://www.blogtalkradio.com/CosmicCitizen. Número de llamada: 646-716-8158 (América del Norte) durante el tiempo que el programa esté en vivo. Los programas archivados están disponibles.
 
-## El bastón de mensajero poderoso
+## Equipo del Mighty Messenger
 
 Publicado por Uversa Press para el Comité de Publicaciones de la Fellowship de _El Libro de Urantia_.
 Miembros: Linda Buselli, presidenta Cece Forrester, David Glass, Nancy Johnson, Sage Waitts

@@ -15,7 +15,7 @@ dateCreated: 2022-9-9T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Ken_Glasziou/Let_There_Be_Light">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“Hágase la luz”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Hágase la luz»</span>
         </a>
         </td>
         <td>
@@ -73,7 +73,7 @@ Dado que Dios gobierna el universo por el poder mismo de su amor, ¿qué arriesg
       <tr>
         <td>
         <a href="/es/article/Ken_Glasziou/Let_There_Be_Light">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“Hágase la luz”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Hágase la luz»</span>
         </a>
         </td>
         <td>

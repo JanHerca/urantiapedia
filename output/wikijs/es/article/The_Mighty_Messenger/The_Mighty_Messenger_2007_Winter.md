@@ -307,7 +307,7 @@ Promete ser un fin de semana para reencontrarse con viejos amigos y hacer nuevos
 
 Para aquellos que ya son suscriptores, no olviden notificarnos cualquier cambio en su dirección de correo electrónico. En la parte inferior de cada mensaje que recibe de la lista hay un enlace en el que puede hacer clic para editar la información de su suscripción.
 
-## El bastón de mensajero poderoso
+## Equipo del Mighty Messenger
 
 Publicado por Uversa Press para el Comité de Publicaciones de la Fellowship de _El Libro de Urantia_.
 Miembros: Linda Buselli, Presidenta Lynda D'Arcangelo, Laura Hay, Nancy Johnson, Joe Liszka, Sage Waitts

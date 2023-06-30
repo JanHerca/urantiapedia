@@ -183,7 +183,7 @@ El canadiense **Paul Klaver** descubrió _El Libro de Urantia_ a la edad de 21 a
 
 Por _Buck Weimer_
 
-<figure id="Figure_14" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_14" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/005803.jpg">
 </figure>
 
@@ -195,7 +195,7 @@ El segundo día, llegó Ji Soo Han y dijo en perfecto inglés: «No hay citas de
 
 Debido a preocupaciones logísticas y financieras, decidimos tener una conferencia de un día el sábado 23 de junio, un día antes del cierre de la feria. Sy arregló que varias personas trabajaran en el stand en nuestra ausencia. La conferencia se llevó a cabo en el Christian Center, el centro de aprendizaje cristiano más antiguo de Corea del Sur.
 
-<figure id="Figure_15" class="imagen urantiapedia estilo-imagen-alinear-derecha">
+<figure id="Figure_15" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/005804.jpg">
 </figure>
 
@@ -209,7 +209,7 @@ Durante las horas de la mañana, los estadounidenses hicimos una presentación e
 
 por _Thomas Orjala_
 
-<figure id="Figure_17" class="imagen urantiapedia estilo-imagen-alinear-derecha">
+<figure id="Figure_17" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/005806.jpg">
 </figure>
 
@@ -219,7 +219,7 @@ El domingo David Kulieke y yo dimos la charla que fue bien recibida y asistieron
 
 Un joven que reconocí se acercó a la mesa; me había comprado un libro el año pasado. Estaba radiante y con entusiasmo compartió con nosotros que había leído el libro tres veces. Su novia sonrió con aprobación y dijo que había comenzado a leer porque su novio había aprendido mucho de él. ¡Seguro que se siente bien cuando podemos ver los resultados de nuestros esfuerzos!
 
-<figure id="Figure_18" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_18" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/005807.jpg">
 </figure>
 
@@ -245,7 +245,7 @@ Por _Buck Weimer_
 
 Cuando decidimos programar un puesto en la Feria Internacional del Libro de Nigeria, del 7 al 12 de mayo de 2012, nuestros amigos y familiares estaban preocupados por la gran agitación social y la violencia que ocurría en Nigeria. Pero tal vez estas fueron exactamente las razones por las que fuimos dirigidos a ir a Nigeria y compartir las buenas nuevas del Evangelio y esta Revelación.
 
-<figure id="Figure_20" class="imagen urantiapedia estilo-imagen-alinear-derecha">
+<figure id="Figure_20" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/005809.jpg">
 </figure>
 
@@ -295,7 +295,7 @@ Tenemos varios puestos disponibles para voluntarios. Dependiendo de cuál elija,
 
 Un puesto vacante ha quedado disponible en el Consejo General de la Fraternidad. Los solicitantes deben haber leído todo el Libro de Urantia para calificar. Si está interesado en presentar una solicitud para ser considerado para este puesto, póngase en contacto con la Oficina de Fellowships en fellowship@urantia.org o llame al 877-288-3772.
 
-## El bastón de mensajero poderoso
+## Equipo del Mighty Messenger
 
 Publicado por Uversa Press para el Comité de Publicaciones de la Fellowship de _El Libro de Urantia_.
 Miembros: Linda Buselli, presidenta Cece Forrester, David Glass, Nancy Johnson, Merritt Horn, Sage Waitts

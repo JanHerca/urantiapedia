@@ -14,17 +14,17 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Michael_Challis/Media_and_Communications_Service_Team_Chair">
+        <a href="/es/article/Michael_Challis/Media_and_Communications_Service_Team_Chair">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Media and Communications Service Team Chair</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Pablo_Segovia/Spanish_Website_Committee">
+        <a href="/es/article/Pablo_Segovia/Spanish_Website_Committee">
           <span class="pr-2">Spanish Website Committee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -34,9 +34,9 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-<figura id="Figura_1" clase="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/059.jpg">
-</figura>
+</figure>
 
 Un par de meses antes de la elección del presidente de publicaciones, tuve el sueño de presentarme como presidente de publicaciones de Urantia Book Fellowship. Esto me despertó sobresaltado. ¿Qué sé de las publicaciones? ¡Soy músico! Siempre sé que es una guía divina para servir cuando mi reacción es tan fuerte.
 
@@ -77,7 +77,7 @@ Haga una donación hoy en https://urantiabook.worldsecuresystems.com/donation
 
 O envíe su cheque por correo a:
 
-_El libro de Urantia_ Fraternidad
+_El Libro de Urantia_ Fraternidad
 apartado de correos 6631
 Broomfield CO 80021
 
@@ -122,17 +122,17 @@ Broomfield CO 80021
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Michael_Challis/Media_and_Communications_Service_Team_Chair">
+        <a href="/es/article/Michael_Challis/Media_and_Communications_Service_Team_Chair">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Media and Communications Service Team Chair</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Pablo_Segovia/Spanish_Website_Committee">
+        <a href="/es/article/Pablo_Segovia/Spanish_Website_Committee">
           <span class="pr-2">Spanish Website Committee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

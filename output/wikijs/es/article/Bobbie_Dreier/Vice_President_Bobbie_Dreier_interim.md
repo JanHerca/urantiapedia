@@ -14,17 +14,17 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Geoff_Theiss/Letter_from_the_President">
+        <a href="/es/article/Geoff_Theiss/Letter_from_the_President">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Letter from the President</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Bobbie_Dreier/2019_Summer_Study_Session_Worship">
+        <a href="/es/article/Bobbie_Dreier/2019_Summer_Study_Session_Worship">
           <span class="pr-2">2019 Summer Study Session Worship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -34,9 +34,9 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-<figura id="Figura_1" clase="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/002.jpg">
-</figura>
+</figure>
 
 Fui elegido vicepresidente interino en la reunión de Zoom del 15 de agosto del Comité Ejecutivo luego de la renuncia de Mike Painter. Mi descripción del trabajo:
 
@@ -55,17 +55,17 @@ Acepté ser nominado porque parecía muy poco probable que Geoff no pudiera actu
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Geoff_Theiss/Letter_from_the_President">
+        <a href="/es/article/Geoff_Theiss/Letter_from_the_President">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Letter from the President</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Bobbie_Dreier/2019_Summer_Study_Session_Worship">
+        <a href="/es/article/Bobbie_Dreier/2019_Summer_Study_Session_Worship">
           <span class="pr-2">2019 Summer Study Session Worship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

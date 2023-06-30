@@ -14,17 +14,17 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Geoff_Taylor/What_is_Interfaith">
+        <a href="/es/article/Geoff_Taylor/What_is_Interfaith">
           <span class="pr-2">What is Interfaith?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2018-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Larry_Bowman/New_General_Councilors_Executive_Committee">
+        <a href="/es/article/Larry_Bowman/New_General_Councilors_Executive_Committee">
           <span class="pr-2">New General Councilors, Executive Committee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -35,9 +35,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Por _Paula Thompson_ Directora de becas
 
-<figura id="Figura_1" clase="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2018_Fall/Paula_Thompson.jpg">
-</figura>
+</figure>
 
 ¿Está interesado en servir como líder de movimiento en la Asamblea General de la Fraternidad?
 ¿Concejo?
@@ -74,17 +74,17 @@ Si, después de leer esto y consultar con nuestro Padre, cree que le gustaría u
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Geoff_Taylor/What_is_Interfaith">
+        <a href="/es/article/Geoff_Taylor/What_is_Interfaith">
           <span class="pr-2">What is Interfaith?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2018-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Larry_Bowman/New_General_Councilors_Executive_Committee">
+        <a href="/es/article/Larry_Bowman/New_General_Councilors_Executive_Committee">
           <span class="pr-2">New General Councilors, Executive Committee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

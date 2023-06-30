@@ -14,17 +14,17 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Paula_Thompson/Invitation_to_serve_on_the_GC">
+        <a href="/es/article/Paula_Thompson/Invitation_to_serve_on_the_GC">
           <span class="pr-2">Invitation to serve on the GC</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2018-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Agustin_Arellano/Guadalajara_International_Book_Fair_2018">
+        <a href="/es/article/Agustin_Arellano/Guadalajara_International_Book_Fair_2018">
           <span class="pr-2">Guadalajara International Book Fair 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -36,9 +36,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 por _Larry Bowman_
 
-<figura id="Figura_1" clase="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2018_Fall/Larry_Bowman.jpg">
-</figura>
+</figure>
 
 En la Asamblea Trienal de Delegados celebrada en julio en Techny Towers en Illinois, siete recién llegados y tres antiguos Consejeros fueron elegidos para el Consejo General de Urantia Book Fellowship. Los nuevos miembros del Consejo son Ted Blaney, Pamela Chaddock, Jack Holloway, Stephen Sawyer, David Schlundt, Jill Strunk y Ben VanPelt. Volviendo a GC después de ausencias de algunos años están Tom Allen, John Lange y Barbara Newsom.
 
@@ -73,17 +73,17 @@ En el equipo de servicio de Cristina, el único comité permanente es Publicacio
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Paula_Thompson/Invitation_to_serve_on_the_GC">
+        <a href="/es/article/Paula_Thompson/Invitation_to_serve_on_the_GC">
           <span class="pr-2">Invitation to serve on the GC</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2018-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Agustin_Arellano/Guadalajara_International_Book_Fair_2018">
+        <a href="/es/article/Agustin_Arellano/Guadalajara_International_Book_Fair_2018">
           <span class="pr-2">Guadalajara International Book Fair 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

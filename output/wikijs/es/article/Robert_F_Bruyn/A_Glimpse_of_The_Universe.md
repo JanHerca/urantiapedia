@@ -14,17 +14,17 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Joy_Brandt/Spanish_Urantia_Book_at_Guadalajara_International_Book_Fair">
+        <a href="/es/article/Joy_Brandt/Spanish_Urantia_Book_at_Guadalajara_International_Book_Fair">
           <span class="pr-2">Spanish Urantia Book at Guadalajara International Book Fair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2018-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Marvin_Gawryn/Summer_2018_Interfaith_Aventures">
+        <a href="/es/article/Marvin_Gawryn/Summer_2018_Interfaith_Aventures">
           <span class="pr-2">Summer 2018 Interfaith Aventures North American Interfaith Network NAIN Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -35,30 +35,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 por _Robert F. Bruyn, Ph.D._
 
-<figura id="Figura_1" clase="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2018_Fall/Robert_F_Bruyn.jpg">
-</figura>
+</figure>
 
 Al informar sobre la investigación de la mente, Joseph Chilton Pearce en su libro reciente Magical Child Matures (1) dice que el 95% de nuestros procesos mentales son inconscientes o están fuera de nuestra conciencia. Debido a que no somos conscientes de la mayor parte de nuestro funcionamiento mental, sabemos de su existencia solo por los efectos que observamos. Durante el año pasado tuve la oportunidad de vislumbrar mi mente inconsciente. Como antecedentes, permítanme describir brevemente el accidente casi fatal que tuve en abril de 1985.
 
 Conducía mi bicicleta de trail que rara vez usaba por la interestatal hacia la estación de inspección de motocicletas, una camioneta me golpeó por detrás. ¡Nunca supe (conscientemente) lo que me golpeó! Dos enfermeras me salvaron la vida cuando se detuvieron para administrar RCP. Estuve inconsciente las primeras 24 horas y no recuerdo los dos días siguientes. Además de costillas y omóplatos rotos, ruptura del bazo y hemorragia interna, sufrí una lesión en el tronco encefálico que me dejó paralizado del lado derecho. Pero mi experiencia personal estuvo más influenciada por la conmoción cerebral que alteró mi conciencia.
 
-Mientras aún estaba en la UCI, le dije a mi esposa: “No puedo pensar con claridad”. Era incapaz de razonar, planificar o comprender. Y realmente no me importaba. Había muy poca preocupación o preocupación por lo que había sucedido o lo que iba a suceder. Me habían arrojado al “aquí y ahora”, no por elección sino por las circunstancias. Con mi conciencia nublada y mi razonamiento intelectual atenuado, mi aprendizaje experiencial fue aún más inconsciente: cinestésico y emocional.
+Mientras aún estaba en la UCI, le dije a mi esposa: «No puedo pensar con claridad». Era incapaz de razonar, planificar o comprender. Y realmente no me importaba. Había muy poca preocupación o preocupación por lo que había sucedido o lo que iba a suceder. Me habían arrojado al «aquí y ahora», no por elección sino por las circunstancias. Con mi conciencia nublada y mi razonamiento intelectual atenuado, mi aprendizaje experiencial fue aún más inconsciente: cinestésico y emocional.
 
-El sentimiento más poderoso durante mi hospitalización fue: "¡Todo va a estar bien!" No sabía si tendría una discapacidad física o mental permanente y, de ser así, en qué medida. Pero en todos los asuntos de importancia eterna, sabía que los aspectos espirituales de mi ser serían atendidos.
+El sentimiento más poderoso durante mi hospitalización fue: «¡Todo va a estar bien!» No sabía si tendría una discapacidad física o mental permanente y, de ser así, en qué medida. Pero en todos los asuntos de importancia eterna, sabía que los aspectos espirituales de mi ser serían atendidos.
 
 ¿De dónde vino este sentimiento? No había decidido conscientemente ser optimista o tener fe. Debe haber venido de mi inconsciente.
 
 _El Libro de Urantia_ (2) que llevo años leyendo y estudiando, me aportó algunos conceptos:
 
-> “Si uno está dispuesto a reconocer una mente subconsciente teórica como una hipótesis de trabajo práctica en la vida intelectual por lo demás unificada, entonces, para ser consistente, uno debería postular un reino similar y correspondiente de actividad intelectual ascendente como el nivel superconsciente, la zona de contacto con la entidad espiritual residente, el Ajustador del Pensamiento”. ([UB 100:5.6](/es/El_Libro_de_Urantia/100#p5_6))
+> «Si uno está dispuesto a reconocer una mente subconsciente teórica como una hipótesis de trabajo práctica en la vida intelectual por lo demás unificada, entonces, para ser consistente, uno debería postular un reino similar y correspondiente de actividad intelectual ascendente como el nivel superconsciente, la zona de contacto con la entidad espiritual residente, el Ajustador del Pensamiento». ([LU 100:5.6](/es/The_Urantia_Book/100#p5_6))
 >
 
-> “La conciencia humana descansa suavemente sobre el mecanismo electroquímico de abajo y toca delicadamente el sistema de energía espiritual-morontial de arriba. De ninguno de estos dos sistemas es el ser humano nunca completamente consciente en su vida moral; por lo tanto, debe trabajar en la mente, de lo cual es consciente”. ([UB 111:1.5](/es/El_Libro_de_Urantia/111#p1_5))
+> «La conciencia humana descansa suavemente sobre el mecanismo electroquímico de abajo y toca delicadamente el sistema de energía espiritual-morontial de arriba. De ninguno de estos dos sistemas es el ser humano nunca completamente consciente en su vida moral; por lo tanto, debe trabajar en la mente, de lo cual es consciente». ([LU 111:1.5](/es/The_Urantia_Book/111#p1_5))
 
-Estas ideas se ajustan a mi experiencia. Aunque el golpe en mi cabeza había interrumpido el mecanismo electroquímico del cerebro, no tuvo ningún efecto sobre el sistema de energía espiritual. Mi "seguridad" era un sentimiento de mi superconsciente, no el intelecto consciente o el reino de la mente subconsciente que es la fuente de nuestros miedos animales. Lo que el vislumbre había revelado era que el inconsciente podía pensarse en dos partes, la física y la espiritual. La mente, en total, puede verse de manera holística con un subconsciente físico, un consciente intelectual y un superconsciente espiritual.
+Estas ideas se ajustan a mi experiencia. Aunque el golpe en mi cabeza había interrumpido el mecanismo electroquímico del cerebro, no tuvo ningún efecto sobre el sistema de energía espiritual. Mi «seguridad» era un sentimiento de mi superconsciente, no el intelecto consciente o el reino de la mente subconsciente que es la fuente de nuestros miedos animales. Lo que el vislumbre había revelado era que el inconsciente podía pensarse en dos partes, la física y la espiritual. La mente, en total, puede verse de manera holística con un subconsciente físico, un consciente intelectual y un superconsciente espiritual.
 
-“El crecimiento siempre es inconsciente, ya sea físico, intelectual o espiritual”. [UB 100:3.7](/en/The_Urantia_Book/100#p3_7) Incluso ahora, sigo tomando conciencia de lo que he aprendido inconscientemente durante el año pasado. Me considero sumamente afortunado de haberme recuperado casi por completo y de poder compartir con ustedes parte de mi experiencia, no por jactarme de mí mismo, sino porque me muestra el majestuoso plan de creación progresiva de nuestro Padre, del cual tenemos el privilegio de participar. adentro y descubriendo.
+«El crecimiento siempre es inconsciente, ya sea físico, intelectual o espiritual». [LU 100:3.7](/es/The_Urantia_Book/100#p3_7) Incluso ahora, sigo tomando conciencia de lo que he aprendido inconscientemente durante el año pasado. Me considero sumamente afortunado de haberme recuperado casi por completo y de poder compartir con ustedes parte de mi experiencia, no por jactarme de mí mismo, sino porque me muestra el majestuoso plan de creación progresiva de nuestro Padre, del cual tenemos el privilegio de participar. adentro y descubriendo.
 
 1 Pearce, Joseph Chilton. niño mágico
 Madura. Duton, 1985
@@ -77,17 +77,17 @@ Fundación 1955
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Joy_Brandt/Spanish_Urantia_Book_at_Guadalajara_International_Book_Fair">
+        <a href="/es/article/Joy_Brandt/Spanish_Urantia_Book_at_Guadalajara_International_Book_Fair">
           <span class="pr-2">Spanish Urantia Book at Guadalajara International Book Fair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2018-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Marvin_Gawryn/Summer_2018_Interfaith_Aventures">
+        <a href="/es/article/Marvin_Gawryn/Summer_2018_Interfaith_Aventures">
           <span class="pr-2">Summer 2018 Interfaith Aventures North American Interfaith Network NAIN Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

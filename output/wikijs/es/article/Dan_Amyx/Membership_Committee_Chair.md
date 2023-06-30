@@ -14,17 +14,17 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Tom_Allen/Judicial_Committee_Chair">
+        <a href="/es/article/Tom_Allen/Judicial_Committee_Chair">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Judicial Committee Chair</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/David_Kulieke/Education_Committee_Chair">
+        <a href="/es/article/David_Kulieke/Education_Committee_Chair">
           <span class="pr-2">Education Committee Chair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -38,9 +38,9 @@ dateCreated: 2023-6-21T8:13:38Z
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/029.jpg">
 </figure>
 
-<figura id="Figura_1" clase="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/029.jpg">
-</figura>
+</figure>
 
 por _Dan Amyx_
 
@@ -50,7 +50,7 @@ Parte de esta evaluación incluye nuestro papel en la migración del sitio web a
 
 Además, el comité está involucrado en un proceso de entrevistas a varias organizaciones religiosas y no religiosas sin fines de lucro para comprender su estructura y cómo interactúan con sus miembros. Con un Concilio General voluntario, necesitamos encontrar formas de mejorar nuestra respuesta organizacional y mecanismos de apoyo que aumenten nuestro actual conjunto de habilidades.
 
-Las discusiones y entrevistas previas con funcionarios y ex funcionarios de nuestras Sociedades han contribuido a una reevaluación de nuestra razón de ser. Muchos de nuestros miembros están “envejeciendo” y necesitamos concentrarnos en métodos más efectivos para llegar a los lectores más jóvenes. Asumir un papel más activo en este proceso ha sido emocionante y estimulante para nuestro comité. El futuro es nuestro para crear, y nuestras acciones de hoy dan forma a la comunidad Urantia del mañana. Es emocionante comenzar este viaje en un camino no transitado, para dar paso a los que siguen.
+Las discusiones y entrevistas previas con funcionarios y ex funcionarios de nuestras Sociedades han contribuido a una reevaluación de nuestra razón de ser. Muchos de nuestros miembros están «envejeciendo» y necesitamos concentrarnos en métodos más efectivos para llegar a los lectores más jóvenes. Asumir un papel más activo en este proceso ha sido emocionante y estimulante para nuestro comité. El futuro es nuestro para crear, y nuestras acciones de hoy dan forma a la comunidad Urantia del mañana. Es emocionante comenzar este viaje en un camino no transitado, para dar paso a los que siguen.
 
 Te invitamos a que nos acompañes con tus ideas, experiencias o tu participación.
 
@@ -65,17 +65,17 @@ Te invitamos a que nos acompañes con tus ideas, experiencias o tu participació
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Tom_Allen/Judicial_Committee_Chair">
+        <a href="/es/article/Tom_Allen/Judicial_Committee_Chair">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Judicial Committee Chair</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/David_Kulieke/Education_Committee_Chair">
+        <a href="/es/article/David_Kulieke/Education_Committee_Chair">
           <span class="pr-2">Education Committee Chair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

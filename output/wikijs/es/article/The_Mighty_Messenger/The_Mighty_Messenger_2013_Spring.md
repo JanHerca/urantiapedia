@@ -188,7 +188,7 @@ Luego puse en el cuerpo del anuncio lo siguiente:
 
 Para recibir un mensaje grabado gratuito sobre _El Libro de Urantia_ llame al 800-288-3772 o léalo aquí:
 
-<figure id="Figure_5" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_5" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2013_Spring/005815.jpg">
 </figure>
 
@@ -267,7 +267,7 @@ Una vez más, para nosotros, significa un deseo inteligente de escuchar y compar
 
 ## ¡Guarde la fecha para IC'14!
 
-<figure id="Figure_7" class="imagen urantiapedia estilo-imagen-alinear-derecha">
+<figure id="Figure_7" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2013_Spring/005817.jpg">
 </figure>
 
@@ -303,7 +303,7 @@ Hay un gran equipo trabajando para crear una conferencia dinámica, relevante, d
 
 El folleto clásico «Extractos seleccionados» ha sido reformateado por Paula Thompson y publicado en el sitio web de la Fraternidad para descargarlo e imprimirlo. Vaya a: http://ubfellowship.org/outreach/ubexcerpts-v2.pdf. Imprime y distribuye tantos como quieras.
 
-## El bastón de mensajero poderoso
+## Equipo del Mighty Messenger
 
 Publicado por Uversa Press para el Comité de Publicaciones de la Fellowship de _El Libro de Urantia_.
 Miembros: Linda Buselli, presidenta Cece Forrester, David Glass, Merritt Horn, Nancy Johnson, Sage Waitts

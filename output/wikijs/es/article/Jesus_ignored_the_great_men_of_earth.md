@@ -15,7 +15,7 @@ dateCreated: 2022-9-9T8:13:39Z
       <tr>
         <td>
         <a href="/es/article/Earl_Jabay/God_playing_au_Jabay">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jugar a ser Dios “estilo Jabay”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jugar a ser Dios «estilo Jabay»</span>
         </a>
         </td>
         <td>
@@ -123,7 +123,7 @@ El núcleo de nuestra revelación está en esa última oración: que llevemos nu
       <tr>
         <td>
         <a href="/es/article/Earl_Jabay/God_playing_au_Jabay">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jugar a ser Dios “estilo Jabay”</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jugar a ser Dios «estilo Jabay»</span>
         </a>
         </td>
         <td>

@@ -14,17 +14,17 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Aprilhelen/The_First_Urantia_Book_Conference_in_Uganda">
+        <a href="/es/article/Aprilhelen/The_First_Urantia_Book_Conference_in_Uganda">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The First Urantia Book Conference in Uganda: A Personal Account</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#summer-2023-issue">
+        <a href="/es/index/articles_mighty_messenger#summer-2023-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Duane_Johnson/Urantia_Poets_to_Publish_Book">
+        <a href="/es/article/Duane_Johnson/Urantia_Poets_to_Publish_Book">
           <span class="pr-2">Urantia Poets to Publish Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -81,17 +81,17 @@ We deeply appreciate the contributions of our
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Aprilhelen/The_First_Urantia_Book_Conference_in_Uganda">
+        <a href="/es/article/Aprilhelen/The_First_Urantia_Book_Conference_in_Uganda">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The First Urantia Book Conference in Uganda: A Personal Account</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#summer-2023-issue">
+        <a href="/es/index/articles_mighty_messenger#summer-2023-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Duane_Johnson/Urantia_Poets_to_Publish_Book">
+        <a href="/es/article/Duane_Johnson/Urantia_Poets_to_Publish_Book">
           <span class="pr-2">Urantia Poets to Publish Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

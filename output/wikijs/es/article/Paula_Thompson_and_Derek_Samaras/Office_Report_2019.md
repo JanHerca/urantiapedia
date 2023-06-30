@@ -14,17 +14,17 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Emilio_Coppola/IT_Committee">
+        <a href="/es/article/Emilio_Coppola/IT_Committee">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IT Committee</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Stephen_Sawyer/Is_Time_a_Circus_or_a_Flower">
+        <a href="/es/article/Stephen_Sawyer/Is_Time_a_Circus_or_a_Flower">
           <span class="pr-2">Is Time a Circus or a Flower?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -34,9 +34,9 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-<figura id="Figura_1" clase="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/062.jpg">
-</figura>
+</figure>
 
 Ahora que ha leído todo lo que todos hacemos en _The Urantia Book_ Fellowship, es posible que desee saber qué papel desempeña la oficina central en todo esto. ¿Dónde empezar?
 
@@ -52,7 +52,7 @@ Ahora que ha leído todo lo que todos hacemos en _The Urantia Book_ Fellowship, 
 	- F. Luego está el **Comité Ejecutivo**, integrado por el Presidente, Vicepresidente, Tesorero, Secretario y Secretario General. Esperamos que el apoyo que los funcionarios de la Fraternidad requieren para hacer su trabajo sea evidente porque requeriría otro informe completo para enumerarlo.
 	- g. Además de nuestros Comités Permanentes y Oficiales, también tenemos importantes **Comités Ad Hoc** que administran nuestra presencia en la web y la publicación de libros y, nuevamente, cuentan con nosotros para servir de enlace con los muchos servicios subcontratados que emplean.
 
-3. **Proyectos especiales** son algo en lo que prosperamos. Uno de esos proyectos es el siempre popular **Pipeline of Light**. The Pipeline of Light fue creado para satisfacer la necesidad de las personas que desean sinceramente el libro pero simplemente no pueden pagarlo. Durante veinte años hemos recaudado fondos para comprar y enviar libros en todos los idiomas. En marzo pasado, nuestros esfuerzos actuales elevaron los totales de todos los tiempos del Oleoducto a siete mil ciento diez copias de _El libro de Urantia_ colocadas en ochenta y cinco países de todo el mundo.
+3. **Proyectos especiales** son algo en lo que prosperamos. Uno de esos proyectos es el siempre popular **Pipeline of Light**. The Pipeline of Light fue creado para satisfacer la necesidad de las personas que desean sinceramente el libro pero simplemente no pueden pagarlo. Durante veinte años hemos recaudado fondos para comprar y enviar libros en todos los idiomas. En marzo pasado, nuestros esfuerzos actuales elevaron los totales de todos los tiempos del Oleoducto a siete mil ciento diez copias de _El Libro de Urantia_ colocadas en ochenta y cinco países de todo el mundo.
 
 4. El **Ministerio de Prisiones** es algo querido en nuestros corazones. Contamos con un equipo de voluntarios dedicados que han enviado cientos de libros a los presos a nivel nacional y han mantenido correspondencia con la mayoría de ellos. Este esfuerzo también se coordina desde la oficina de la Fraternidad.
 
@@ -71,17 +71,17 @@ Ahora que ha leído todo lo que todos hacemos en _The Urantia Book_ Fellowship, 
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Emilio_Coppola/IT_Committee">
+        <a href="/es/article/Emilio_Coppola/IT_Committee">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IT Committee</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Stephen_Sawyer/Is_Time_a_Circus_or_a_Flower">
+        <a href="/es/article/Stephen_Sawyer/Is_Time_a_Circus_or_a_Flower">
           <span class="pr-2">Is Time a Circus or a Flower?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

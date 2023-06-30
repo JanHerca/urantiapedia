@@ -39,7 +39,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 Una nota de su Presidente de Publicaciones:
 
-Este Mensajero Poderoso está dedicado a «lo que hacemos» como The Urantia Book Fellowship. Le he pedido a cada oficial y presidente de comité que presente un artículo. ¡Disfruta del servicio que estas personas ofrecen a nuestra comunidad!
+Este Mighty Messenger está dedicado a «lo que hacemos» como The Urantia Book Fellowship. Le he pedido a cada oficial y presidente de comité que presente un artículo. ¡Disfruta del servicio que estas personas ofrecen a nuestra comunidad!
 
 Cristina Seaborn, presidenta del Comité de Publicaciones de The Urantia Book Fellowship.
 

@@ -90,15 +90,15 @@ Mucho amor,
 Miranda Clendening y Tim Hobbs
 
 **Contactos clave**
--Judy Langston en youth@ic17.org
--Buck Weimer en International@ic17.org
+- Judy Langston en youth@ic17.org
+- Buck Weimer en International@ic17.org
 - Cristina Seaborn en music@ic17.org
--Josh Wilson en choir@ic17.org
--Miranda Clendening en Interfaith@ic17.org
+- Josh Wilson en choir@ic17.org
+- Miranda Clendening en Interfaith@ic17.org
 - Isabelle Smith en ChildrensInterfaithChoir@ic17.org
--Peter Laurence en Workshops@ic17.org
+- Peter Laurence en Workshops@ic17.org
 - Peter, Miranda y Tim en program@ic17.org
--Riula Deoto en Childrenstent@ic17.org
+- Riula Deoto en Childrenstent@ic17.org
 - Larry Bowman en voluntarios@ic17.org
 
 ## Estudios de verano en San Antonio
@@ -205,7 +205,7 @@ Hay un límite de 50 personas para esta reunión. ¡Por favor regístrese tempra
 
 El Comité Ejecutivo de la Fraternidad está compuesto por los funcionarios y los presidentes de los comités. Todos son miembros del Consejo General y sirven al ocuparse de los asuntos cotidianos de la Fraternidad.
 
-<figure id="Figure_6" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_6" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2016_Fall/005901.jpg">
 </figure>
 
@@ -301,7 +301,7 @@ Sean es un lector de primera generación, su hermano le presentó el libro en 20
 
 Dos puestos quedaron vacantes en el Consejo General (GC) por un período de 18 meses que finaliza en el verano de 2018.
 
-<figure id="Figure_7" class="imagen urantiapedia estilo-imagen-alinear-derecha">
+<figure id="Figure_7" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2016_Fall/005902.jpg">
 </figure>
 
@@ -352,7 +352,7 @@ Este taller, junto con muchos otros materiales educativos, puede adquirirse en l
 
 Por _David Kulieke_
 
-<figure id="Figure_9" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_9" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2016_Fall/005904.jpg">
 </figure>
 
@@ -366,7 +366,7 @@ Este fue el primero de un experimento planificado durante mucho tiempo para trae
 
 **Experimentando el más raro de los eclipses solares en el día del otorgamiento de Jesús**
 
-<figure id="Figure_10" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_10" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2016_Fall/005905.jpg">
 </figure>
 
@@ -418,7 +418,7 @@ Encajó perfectamente en la unidad de nuestro equipo y fue fundamental para expl
 
 En mayo de 2012, otro fantástico equipo de creyentes instaló un stand en la Feria Internacional del Libro de Nigeria en la Universidad de Lagos. Ed Harrigan llegó una semana antes. También de Alaska, Barbara Maier y Marilyn Cooner llegaron casi al mismo tiempo que Charlene Morrow, Arlene Weimer y yo. Además, contamos con la ayuda de otro lector local: Patrick Foh, dos nuevos lectores de Ghana; y más tarde por Julius Taiwo, el representante local de la Fundación Urantia.
 
-<figure id="Figure_12" class="imagen urantiapedia estilo-imagen-alinear-derecha">
+<figure id="Figure_12" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2016_Fall/005907.jpg">
 </figure>
 
@@ -445,7 +445,7 @@ El próximo año estará lleno de una serie de actividades para los lectores de 
 
 No olvide que la Fraternidad necesita su ayuda para continuar sirviendo a la revelación en todo el mundo. Para obtener información sobre varias opciones de donación, visite el sitio web de la Fellowship: www.urantiabook.org. y presione el enlace "Donar". O envíe un cheque a la Fellowship de _El Libro de Urantia_, PO Box 6631, Broomfield, CO, 89921, EE. UU.
 
-## El bastón de mensajero poderoso
+## Equipo del Mighty Messenger
 
 Publicado por Uversa Press para el Comité de Publicaciones de la Fellowship de _El Libro de Urantia_.
 Miembros: Linda Buselli, presidente Larry Bowman, Cece Forrester, Sage Waitts

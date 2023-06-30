@@ -25,7 +25,7 @@ dateCreated: 2023-02-08T14:02:03.086Z
         </td>
         <td>
         <a href="/es/article/Claudia_Ayers_and_Lee_Smith/A_Dialogue_About_The_Kingdom">
-          <span class="pr-2">Un diálogo sobre “El Reino de los Cielos”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Un diálogo sobre «El Reino de los Cielos»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -203,7 +203,7 @@ Este ministerio de alcance no será fácil. No es para almas tímidas. Es difíc
         </td>
         <td>
         <a href="/es/article/Claudia_Ayers_and_Lee_Smith/A_Dialogue_About_The_Kingdom">
-          <span class="pr-2">Un diálogo sobre “El Reino de los Cielos”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Un diálogo sobre «El Reino de los Cielos»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

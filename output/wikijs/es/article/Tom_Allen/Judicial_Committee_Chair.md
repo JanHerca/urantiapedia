@@ -14,17 +14,17 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Lara_Amyx/Fellowship_Service_Team_Chair">
+        <a href="/es/article/Lara_Amyx/Fellowship_Service_Team_Chair">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fellowship Service Team Chair</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Dan_Amyx/Membership_Committee_Chair">
+        <a href="/es/article/Dan_Amyx/Membership_Committee_Chair">
           <span class="pr-2">Membership Committee Chair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -43,9 +43,9 @@ Apoye la campaña de recaudación de fondos de los miembros para mantener el lib
 Amigos de la Fraternidad Comuníquese al 303-467-7858 para obtener detalles
 Para hacer una donación https://urantiabook.wildapricot.org/Donations
 
-<figura id="Figura_1" clase="imagen urantiapedia">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/028.jpg">
-</figura>
+</figure>
 
 $117,000
 Nuestra meta
@@ -61,17 +61,17 @@ Nuestra meta
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Lara_Amyx/Fellowship_Service_Team_Chair">
+        <a href="/es/article/Lara_Amyx/Fellowship_Service_Team_Chair">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fellowship Service Team Chair</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Dan_Amyx/Membership_Committee_Chair">
+        <a href="/es/article/Dan_Amyx/Membership_Committee_Chair">
           <span class="pr-2">Membership Committee Chair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

@@ -239,7 +239,7 @@ Los siete expresidentes vivos de la Fraternidad se reunieron para honrar a John 
 
 Por _Buck y Arlene Weimer_
 
-<figure id="Figure_14" class="imagen urantiapedia estilo-imagen-alinear-derecha">
+<figure id="Figure_14" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2006_Fall/005643.jpg">
 </figure>
 
@@ -269,7 +269,7 @@ El África que vimos es un bastión del Libro de Utantia "esperando que suceda".
 
 Por _Dolores Nice_
 
-<figure id="Figure_17" class="imagen urantiapedia estilo-imagen-alinear-derecha">
+<figure id="Figure_17" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2006_Fall/005646.jpg">
 </figure>
 

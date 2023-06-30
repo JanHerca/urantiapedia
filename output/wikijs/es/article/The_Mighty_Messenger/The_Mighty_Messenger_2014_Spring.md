@@ -233,7 +233,7 @@ También obtuvimos información de contacto de 5 lectores veteranos que se agreg
 - 27 - 29 de junio de 2014: Conferencia de Urantia Madison, «Las parábolas de Jesús», Edgewood College, Madison, WI. www.urantiausa.org.
 - 23 - 27 de julio de 2014: Conferencia Internacional Urantia Book Fellowship 2014, Universidad de Massachusetts, Amherst, MA. www.IC14.org.
 
-## El bastón de mensajero poderoso
+## Equipo del Mighty Messenger
 
 Publicado por Uversa Press para el Comité de Publicaciones de la Fellowship de _El Libro de Urantia_.
 Miembros: Linda Buselli, presidenta Cece Forrester, David Glass, Merritt Horn, Nancy Johnson, Sage Waitts

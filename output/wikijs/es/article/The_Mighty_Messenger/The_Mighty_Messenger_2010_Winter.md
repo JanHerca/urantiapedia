@@ -318,7 +318,7 @@ El próximo verano en IC'11, el Comité YaYA y los Truthseekers tendrán un día
 
 ## Feria del Libro en Ecuador
 
-<figure id="Figure_23" class="imagen urantiapedia estilo-imagen-alinear-derecha">
+<figure id="Figure_23" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2010_Winter/005756.jpg">
 </figure>
 
@@ -350,7 +350,7 @@ El sábado por la noche habrá una reunión social con el local Dallas/Ft. Vale 
 
 Por _Buck Weimer_
 
-<figure id="Figure_26" class="imagen urantiapedia estilo-imagen-alinear-derecha">
+<figure id="Figure_26" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2010_Winter/005759.jpg">
 </figure>
 
@@ -358,7 +358,7 @@ La Feria Brasileña del Libro ExpoBrasilia se llevó a cabo del 8 al 17 de octub
 
 Charlene Morrow y yo llegamos el 7 de octubre y nos recibió una sonriente Nemias Mol con un brillante cartel con círculos de El Libro de Urantia. Nemias es el líder joven, enérgico y brillante de la Asociación Urantia de Brasil, que comenzó en 2003. Enumera 42 grupos de estudio y cuenta con un total de 1300 lectores en todo Brasil. Nos dijo que todos los lectores de Brasil están encantados con la traducción del libro al portugués, y que estaba especialmente feliz de tener O Livro de URANTIA para la feria del libro en su ciudad natal.
 
-<figure id="Figure_27" class="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_27" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2010_Winter/005760.jpg">
 </figure>
 

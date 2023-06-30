@@ -75,7 +75,7 @@ La solución de Tomás de Aquino es mostrar cómo se puede usar _analógicamente
 
 Nuevamente la berrea está ligada al toro porque el toro produce la berrea, pero la berrea es sana por su sonido y esto es diferente a la salud del toro. Ahora otro ejemplo
 - Dios es bueno
--Ellie es buena
+- Ellie es buena
 
 Ellie es, según Tomás de Aquino, creada por Dios. Así como el toro produjo la orina y el bramido, Dios produjo a Ellie; existe una conexión causal entre Ellie y Dios. Por lo tanto, es cierto que Dios es bueno porque Dios tiene lo que se necesita para producir bondad en Ellie, pero esto no significa que la bondad de Dios sea de alguna manera similar a la bondad de Ellie. Brian Davis OP tiene un excelente ejemplo que ilustra esto.
 - El panadero es bueno.

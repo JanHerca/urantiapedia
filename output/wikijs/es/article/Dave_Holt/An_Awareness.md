@@ -14,17 +14,17 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Tom_Choquette/A_Vision">
+        <a href="/es/article/Tom_Choquette/A_Vision">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Vision</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#spring-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/The_Mighty_Messenger/The_Mighty_Messenger_2019_Spring_Endpage">
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2019_Spring_Endpage">
           <span class="pr-2">End page</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -52,9 +52,9 @@ descubrimientos que empoderaron mi futuro.
 aprender poco a poco a conquistar las incertidumbres,
 hacer pequeños logros".
 
-<figura id="Figura_1" clase="imagen urantiapedia">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/027.jpg">
-</figura>
+</figure>
 
 ## Enlaces externos
 
@@ -67,17 +67,17 @@ hacer pequeños logros".
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Tom_Choquette/A_Vision">
+        <a href="/es/article/Tom_Choquette/A_Vision">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Vision</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#spring-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/The_Mighty_Messenger/The_Mighty_Messenger_2019_Spring_Endpage">
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2019_Spring_Endpage">
           <span class="pr-2">End page</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

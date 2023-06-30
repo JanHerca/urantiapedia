@@ -14,17 +14,17 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Dan_Amyx/Membership_Committee_Chair">
+        <a href="/es/article/Dan_Amyx/Membership_Committee_Chair">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Membership Committee Chair</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Summer_Study_Session_2019_Fall">
+        <a href="/es/article/Summer_Study_Session_2019_Fall">
           <span class="pr-2">Summer Study Session</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -34,17 +34,17 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-<figura id="Figura_1" clase="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/030.jpg">
-</figura>
+</figure>
 
 por _David Kulieke_
 
-Desde 1955, el Comité de Educación ha buscado mejorar la excelencia y la exploración profunda de _El libro de Urantia_ para lectores y grupos que estudian el libro.
+Desde 1955, el Comité de Educación ha buscado mejorar la excelencia y la exploración profunda de _El Libro de Urantia_ para lectores y grupos que estudian el libro.
 
-Un objetivo complementario ha sido ayudar a difundir las enseñanzas del libro para apoyar el esfuerzo de Urantia Book Fellowship “... para presentar conceptos ampliados y verdades avanzadas... para expandir la conciencia cósmica y mejorar la percepción espiritual...“ [UB 0: 0.2](/es/El_libro_de_Urantia/0#p0_2) Tras los primeros esfuerzos de la Escuela de la Hermandad, de 1956 a 1973, el Comité de Educación inauguró las Sesiones de estudio de verano, que se han reunido dos de cada tres veranos desde la década de 1970. Estos han servido como un tiempo para sostener y animar amistades, así como para brindar oportunidades para el estudio y la adoración en profundidad. Muchos profesores y presentadores destacados han organizado estos seminarios y han dado charlas y talleres en ellos. Otro objetivo era enfatizar técnicas educativas sólidas que reflejaran los principios tanto de _El libro de Urantia_ como de la sabiduría secular. Un retiro espiritual y un Cónclave de la Sociedad que el Comité de Educación copatrocinó con el Comité de Membresía precedió a la conferencia. Otro objetivo era enfatizar técnicas educativas sólidas que reflejaran los principios tanto de _El libro de Urantia_ como de la sabiduría secular. Un retiro espiritual y un Cónclave de la Sociedad que el Comité de Educación copatrocinó con el Comité de Membresía precedió a la conferencia.
+Un objetivo complementario ha sido ayudar a difundir las enseñanzas del libro para apoyar el esfuerzo de Urantia Book Fellowship “... para presentar conceptos ampliados y verdades avanzadas... para expandir la conciencia cósmica y mejorar la percepción espiritual...“ [LU 0: 0.2](/es/El_libro_de_Urantia/0#p0_2) Tras los primeros esfuerzos de la Escuela de la Hermandad, de 1956 a 1973, el Comité de Educación inauguró las Sesiones de estudio de verano, que se han reunido dos de cada tres veranos desde la década de 1970. Estos han servido como un tiempo para sostener y animar amistades, así como para brindar oportunidades para el estudio y la adoración en profundidad. Muchos profesores y presentadores destacados han organizado estos seminarios y han dado charlas y talleres en ellos. Otro objetivo era enfatizar técnicas educativas sólidas que reflejaran los principios tanto de _El Libro de Urantia_ como de la sabiduría secular. Un retiro espiritual y un Cónclave de la Sociedad que el Comité de Educación copatrocinó con el Comité de Membresía precedió a la conferencia. Otro objetivo era enfatizar técnicas educativas sólidas que reflejaran los principios tanto de _El Libro de Urantia_ como de la sabiduría secular. Un retiro espiritual y un Cónclave de la Sociedad que el Comité de Educación copatrocinó con el Comité de Membresía precedió a la conferencia.
 
-El comité busca enriquecer la educación sobre _El libro de Urantia_ de varias otras maneras. Una es a través de los esfuerzos en el campo. Los miembros del comité visitan grupos de estudio que los invitan a presentar talleres de alta calidad mientras refuerzan los métodos de estudio efectivos descritos en _El libro de Urantia_ así como en las mejores prácticas que se encuentran en otros lugares. Este año, dos miembros del comité presentaron un taller sobre integración de la personalidad y las escuelas de pensamiento, sentimiento y acción del mundo mansión en seminarios y conferencias para las sociedades de Chicago, Florida y Nueva York, además de varios grupos de estudio. Ha habido alrededor de 10 presentaciones de este tipo recientemente. El Comité de Educación está comprometido a ayudar a fortalecer las comunidades locales de lectores de El libro de Urantia. Si un grupo o conferencia desea que los miembros del comité lo visiten,
+El comité busca enriquecer la educación sobre _El Libro de Urantia_ de varias otras maneras. Una es a través de los esfuerzos en el campo. Los miembros del comité visitan grupos de estudio que los invitan a presentar talleres de alta calidad mientras refuerzan los métodos de estudio efectivos descritos en _El Libro de Urantia_ así como en las mejores prácticas que se encuentran en otros lugares. Este año, dos miembros del comité presentaron un taller sobre integración de la personalidad y las escuelas de pensamiento, sentimiento y acción del mundo mansión en seminarios y conferencias para las sociedades de Chicago, Florida y Nueva York, además de varios grupos de estudio. Ha habido alrededor de 10 presentaciones de este tipo recientemente. El Comité de Educación está comprometido a ayudar a fortalecer las comunidades locales de lectores de El libro de Urantia. Si un grupo o conferencia desea que los miembros del comité lo visiten,
 
 En los últimos años, el comité ha proporcionado materiales educativos descargables en su sitio web, al que se puede acceder en http://www.urantiabook.org/committees/education/index o yendo al segundo elemento en la pestaña Estudio de Urantia Book Fellowship. sitio web.
 
@@ -54,14 +54,14 @@ Algunos de los materiales disponibles en el sitio web del Comité de Educación 
 
 En Recursos:
 
-- "Referencias educativas principales de _El libro de Urantia_". Estas son 21 páginas organizadas por temas de las mejores citas sobre educación, enseñanza y aprendizaje, condensadas a partir de 130 páginas.
+- "Referencias educativas principales de _El Libro de Urantia_". Estas son 21 páginas organizadas por temas de las mejores citas sobre educación, enseñanza y aprendizaje, condensadas a partir de 130 páginas.
 - Referencias educativas: varios artículos de tales temas, que incluyen:
 - [Cómo enseñó Jesús] (http://www.urantiabook.org/committees/education/EducationalReferenceMaterials#how)
 - [Materiales de los grupos de estudio](http://www.urantiabook.org/committees/education/EducationalReferenceMaterials#study)
 - [Estudio en profundidad](http://www.urantiabook.org/committees/education/EducationalReferenceMaterials#study2)
 - Taller Materiales Adaptados para la Enseñanza: El comité considera que esta es una de sus iniciativas más importantes. Incluye folletos, planes de lecciones y esquemas para los participantes que se pueden usar o adaptar. Estos talleres se eligen cuidadosamente y están creciendo.
 - Materiales de los grupos de estudio: Esto incluye "Comunidad: inicio y organización de grupos de estudio efectivos", una colorida publicación del Comité de Educación, rica en fotos e ideas.
-- Seminarios: Entre sus logros más notables, el Comité de Educación presentó tres seminarios de la serie Wrightwood de la década de 1990: “[Construir el Templo Vivo de la Fraternidad Espiritual](https://urantiabook.worldsecuresystems.com/committees/education/pdfs/ Building.pdf)”, “[Gender and _The Urantia Book_](https://urantiabook.worldsecuresystems.com/committees/education/pdfs/Gender.pdf)”, y “[Perspectivas sobre la raza en _The Urantia Book_](https ://urantiabook.worldsecuresystems.com/committees/education/pdfs/Perspectives.pdf).” Además, el comité presentó un seminario conjunto con el comité de educación de la Fundación Urantia titulado "Dar la verdad del cielo: usar nuestros talentos", que se centró en difundir las enseñanzas de _El libro de Urantia_. Los documentos de estos cuatro seminarios se encuentran en este sitio.
+- Seminarios: Entre sus logros más notables, el Comité de Educación presentó tres seminarios de la serie Wrightwood de la década de 1990: «[Construir el Templo Vivo de la Fraternidad Espiritual](https://urantiabook.worldsecuresystems.com/committees/education/pdfs/ Building.pdf)», «[Gender and _The Urantia Book_](https://urantiabook.worldsecuresystems.com/committees/education/pdfs/Gender.pdf)», y «[Perspectivas sobre la raza en _The Urantia Book_](https ://urantiabook.worldsecuresystems.com/committees/education/pdfs/Perspectives.pdf).» Además, el comité presentó un seminario conjunto con el comité de educación de la Fundación Urantia titulado "Dar la verdad del cielo: usar nuestros talentos", que se centró en difundir las enseñanzas de _El Libro de Urantia_. Los documentos de estos cuatro seminarios se encuentran en este sitio.
 - Incluidos entre varios otros recursos en Eventos, Enlaces y Acerca de nosotros, se encuentran materiales históricos de 64 años de actividades del Comité de Educación.
 
 Los planes actuales del comité incluyen agregar materiales útiles a su sitio web. El grupo está discutiendo actualmente con el Instituto Universitario Urantia la posibilidad de utilizar sus recursos para presentar un estudio en línea en vivo que refleje el énfasis del comité en principios educativos sólidos. También hay apoyo continuo para el incipiente Centro Educativo Urantia, una iniciativa independiente que representa a varias organizaciones, que tiene la intención de comenzar cursos de un año completo en 2020 para capacitar a los maestros, además de brindar otros servicios.
@@ -72,13 +72,13 @@ El Comité de Educación quisiera felicitar a todos los lectores y grupos de El 
 
 ---
 
-David Kulieke ha sido presidente del Comité de Educación desde 2012, lo que considera un honor y una responsabilidad. Está agradecido por la diligencia de los miembros del comité y adjuntos. Él cree que expandir la educación en todo el mundo, tanto secularmente como a través de las enseñanzas de _El libro de Urantia_, es fundamental para la salud de Urantia. David también es presidente de la Primera Sociedad Urantia para Lectores de _El Libro de Urantia_ (Chicago), un veterano de varios grupos de estudio y presentador de muchos talleres. Después de obtener una licenciatura en literatura inglesa de la Universidad de Illinois y una maestría en educación de la Universidad Northwestern, enseñó inglés, escritura y literatura durante tres décadas a estudiantes de secundaria y preparatoria y se desempeñó como jefe de departamento. Hoy, además de su trabajo educativo dentro del movimiento Urantia, es tutor, dirige clases pequeñas y cursos de verano, y enseña a estudiantes en China en línea. Junto con su esposa durante 45 años, Marilynn Kulieke, quien también es educadora y se desempeña como vicepresidenta de la Fundación Urantia, ha estado en China dos veces hasta ahora para enseñar a sus alumnos en persona. David y Marilynn viven en Lincolnshire, Illinois. Tienen tres hijos, cinco nietos y dos golden retrievers.
+David Kulieke ha sido presidente del Comité de Educación desde 2012, lo que considera un honor y una responsabilidad. Está agradecido por la diligencia de los miembros del comité y adjuntos. Él cree que expandir la educación en todo el mundo, tanto secularmente como a través de las enseñanzas de _El Libro de Urantia_, es fundamental para la salud de Urantia. David también es presidente de la Primera Sociedad Urantia para Lectores de _El Libro de Urantia_ (Chicago), un veterano de varios grupos de estudio y presentador de muchos talleres. Después de obtener una licenciatura en literatura inglesa de la Universidad de Illinois y una maestría en educación de la Universidad Northwestern, enseñó inglés, escritura y literatura durante tres décadas a estudiantes de secundaria y preparatoria y se desempeñó como jefe de departamento. Hoy, además de su trabajo educativo dentro del movimiento Urantia, es tutor, dirige clases pequeñas y cursos de verano, y enseña a estudiantes en China en línea. Junto con su esposa durante 45 años, Marilynn Kulieke, quien también es educadora y se desempeña como vicepresidenta de la Fundación Urantia, ha estado en China dos veces hasta ahora para enseñar a sus alumnos en persona. David y Marilynn viven en Lincolnshire, Illinois. Tienen tres hijos, cinco nietos y dos golden retrievers.
 
-<figura id="Figura_1" clase="imagen urantiapedia">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/031.jpg">
-</figura>
+</figure>
 
-> “El universo entero es una gran escuela”. [UB 37:6.2](/es/El_Libro_de_Urantia/37#p6_2)
+> «El universo entero es una gran escuela». [LU 37:6.2](/es/The_Urantia_Book/37#p6_2)
 
 ## Enlaces externos
 
@@ -91,17 +91,17 @@ David Kulieke ha sido presidente del Comité de Educación desde 2012, lo que co
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Dan_Amyx/Membership_Committee_Chair">
+        <a href="/es/article/Dan_Amyx/Membership_Committee_Chair">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Membership Committee Chair</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Summer_Study_Session_2019_Fall">
+        <a href="/es/article/Summer_Study_Session_2019_Fall">
           <span class="pr-2">Summer Study Session</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

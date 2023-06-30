@@ -113,7 +113,7 @@ La 5ª Revelación ha sido la realidad más importante de mi vida. Estoy emocion
 
 ## Gary Deinstadt, Presidente, Comité de Educación
 
-<figure id="Figure_7" class="imagen urantiapedia estilo-imagen-alinear-derecha">
+<figure id="Figure_7" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2004_Winter/Gary_Deinstadt.jpg">
 </figure>
 

@@ -14,17 +14,17 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Paula_Thompson_and_Derek_Samaras/Office_Report_2019">
+        <a href="/es/article/Paula_Thompson_and_Derek_Samaras/Office_Report_2019">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Office Report</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/First_Meeting_of_the_Urantia_Uganda">
+        <a href="/es/article/First_Meeting_of_the_Urantia_Uganda">
           <span class="pr-2">First Meeting of the Urantia Uganda August 2020 Planning Committee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -40,19 +40,19 @@ por _Stephen Sawyer_
 
 La seducción nos llega desde todos los ángulos.
 
-Los políticos nos advierten sobre el futuro de nuestros hogares, atención médica, trabajos y libertad si no votamos correctamente. Las compañías farmacéuticas nos advierten que vale la pena correr el riesgo de tomar su medicamento aprobado por la FDA que matará a varias personas que toman el medicamento por recomendación de quienes practican la medicina. Los historiadores nos advierten que si no conocemos el pasado estamos condenados a repetirlo en el futuro. Los comerciales de dietas nos advierten que si queremos ser felices tomaremos el control de nuestro futuro y perderemos peso con sus comidas, suplementos o programas. Los pastores nos advierten que nuestro futuro eterno está en peligro si no nos “manejamos con los pies en la línea” de acuerdo con su doctrina denominacional.
+Los políticos nos advierten sobre el futuro de nuestros hogares, atención médica, trabajos y libertad si no votamos correctamente. Las compañías farmacéuticas nos advierten que vale la pena correr el riesgo de tomar su medicamento aprobado por la FDA que matará a varias personas que toman el medicamento por recomendación de quienes practican la medicina. Los historiadores nos advierten que si no conocemos el pasado estamos condenados a repetirlo en el futuro. Los comerciales de dietas nos advierten que si queremos ser felices tomaremos el control de nuestro futuro y perderemos peso con sus comidas, suplementos o programas. Los pastores nos advierten que nuestro futuro eterno está en peligro si no nos «manejamos con los pies en la línea» de acuerdo con su doctrina denominacional.
 
-Y a nuestro alrededor, los vendedores de seguros dicen: “Dios no permita que pase nada”.
+Y a nuestro alrededor, los vendedores de seguros dicen: «Dios no permita que pase nada».
 
 Este miedo escandaloso de nuestro futuro absolutamente incierto se ha convertido en la adicción sutil más poderosa jamás cargada sobre la espalda de la humanidad y la hemos soportado durante tanto tiempo que asumimos que es una cojera con la que nacimos.
 
-Nos hemos vuelto tan expertos en los "juegos de manos" verbales que no reconocemos que la carta que se empuña detrás de cada racionalización no es más que miedo a lo desconocido.
+Nos hemos vuelto tan expertos en los «juegos de manos» verbales que no reconocemos que la carta que se empuña detrás de cada racionalización no es más que miedo a lo desconocido.
 
 El tiempo debería ser una flor pero nosotros lo hemos convertido en un circo.
 
-En lugar de ver a nuestros padres envejecer con gracia, a medida que se acercan al final de su temporada en la tierra, hemos estado vendiendo felicidad detrás del bisturí de la cirugía plástica: lucir más jóvenes por unos años más, estar más delgados sin sudar, lucir como alguien famoso porque no somos lo suficientemente buenos como somos. Prefiero usar la frase original "plástico" en lugar de "cosmético" porque es plástico. No estoy diciendo que esté mal; Simplemente creo que debería reconocerse como una solución plástica a un problema atemporal.
+En lugar de ver a nuestros padres envejecer con gracia, a medida que se acercan al final de su temporada en la tierra, hemos estado vendiendo felicidad detrás del bisturí de la cirugía plástica: lucir más jóvenes por unos años más, estar más delgados sin sudar, lucir como alguien famoso porque no somos lo suficientemente buenos como somos. Prefiero usar la frase original «plástico» en lugar de «cosmético» porque es plástico. No estoy diciendo que esté mal; Simplemente creo que debería reconocerse como una solución plástica a un problema atemporal.
 
-Es absolutamente sorprendente que vinculemos la felicidad a las cosas temporales. Me gustan las “cosas” pero sé que no me harán feliz. Me gusta el zumbido de una buena distracción, ya sean unas vacaciones o un martini, pero sé que tampoco me hará feliz. Y esa esquiva felicidad está indisolublemente ligada a nuestra experiencia con lo desconocido. El futuro...
+Es absolutamente sorprendente que vinculemos la felicidad a las cosas temporales. Me gustan las «cosas» pero sé que no me harán feliz. Me gusta el zumbido de una buena distracción, ya sean unas vacaciones o un martini, pero sé que tampoco me hará feliz. Y esa esquiva felicidad está indisolublemente ligada a nuestra experiencia con lo desconocido. El futuro...
 
 Si no fuera por todos los payasos, podríamos reconocer el circo por lo que realmente es. Si no fuera por los feroces leones, tigres y osos, ¡oh, Dios mío!, podríamos reconocer nuestra necesidad biológica común de un subidón de adrenalina. Si no fuera por los hombres musculosos con el torso desnudo o las mujeres hermosas con poca ropa que realizan una habilidad notable en el trapecio, podríamos ver nuestra lujuria por lo que es.
 
@@ -60,7 +60,7 @@ Somos solo personas. Pero primero fuimos animales. Animales preparados para luch
 
 Aparentemente hay una fuerza poderosa corriendo por nuestras venas que necesita lo que nos dicen que no es bueno para nosotros. Necesitamos incertidumbre y, sin embargo, pagamos a las compañías de seguros para que nos protejan de ella. No abrazamos el futuro porque nos aterra. Lo desconocido se ha apoderado de la imaginación de todos los seres humanos que han nacido y nacerán, así que ¿por qué no es nuestro amigo en lugar de nuestro enemigo? ¿Por qué no estamos abrazando lo desconocido como la gran aventura? ¿Por qué no estamos formando arrugas al sonreír a lo desconocido en lugar de las líneas del ceño fruncido por el miedo mismo?
 
-Pero quién puede culparnos por el pánico. Nos han hablado del “otro lado” pero nunca hemos tenido ninguna prueba. Y, sin embargo, acudimos a aquellos que dicen que lo han visto. Pagamos buen dinero a aquellos que juran que han ido al cielo y vuelto o al infierno y vuelto, dependiendo del circo al que hayas asistido.
+Pero quién puede culparnos por el pánico. Nos han hablado del «otro lado» pero nunca hemos tenido ninguna prueba. Y, sin embargo, acudimos a aquellos que dicen que lo han visto. Pagamos buen dinero a aquellos que juran que han ido al cielo y vuelto o al infierno y vuelto, dependiendo del circo al que hayas asistido.
 
 Lo desconocido debe ser abrazado con alegría si queremos transformar el circo en una flor. Claramente, algunas personas prefieren el circo con sus coloridas distracciones a las personas que encuentran la felicidad interior viendo los capullos de la primavera abrirse paso a través de la tierra, crecer y florecer, marchitarse y morir lentamente. Muy pocas personas que asisten al circo se quedan hasta el final. Irse después de la reverencia final no es el final. El final es cuando se quitan las carpas y el circo se va de la ciudad.
 
@@ -102,7 +102,7 @@ El tiempo podría ser una flor a menos que realmente necesites un circo.
 
 (1) Si se persiguiera a una cebra... con un pulgar oponible, teóricamente podría construir una casa en el árbol en lugar de ser destruido por una manada de leones.
 
-El pulgar oponible, como el **hueso hioides** en nuestra garganta que nos ayuda a crear los sonidos del lenguaje comunicado, es exclusivamente humano. ***Podemos*** construir una casa en el árbol por encima de los depredadores. La forma bípeda erguida permite todo lo que es precursor de la “autoconciencia” necesaria para imaginar lo desconocido, la muerte antes de su llegada y, en última instancia, Dios.
+El pulgar oponible, como el **hueso hioides** en nuestra garganta que nos ayuda a crear los sonidos del lenguaje comunicado, es exclusivamente humano. ***Podemos*** construir una casa en el árbol por encima de los depredadores. La forma bípeda erguida permite todo lo que es precursor de la «autoconciencia» necesaria para imaginar lo desconocido, la muerte antes de su llegada y, en última instancia, Dios.
 
 (El hueso hioides es un hueso en forma de herradura que se encuentra en el **cuello**, que protege el esófago y facilita una amplia variedad de actividades **musculares** necesarias para hablar y tragar).
 
@@ -117,17 +117,17 @@ El pulgar oponible, como el **hueso hioides** en nuestra garganta que nos ayuda 
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Paula_Thompson_and_Derek_Samaras/Office_Report_2019">
+        <a href="/es/article/Paula_Thompson_and_Derek_Samaras/Office_Report_2019">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Office Report</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/First_Meeting_of_the_Urantia_Uganda">
+        <a href="/es/article/First_Meeting_of_the_Urantia_Uganda">
           <span class="pr-2">First Meeting of the Urantia Uganda August 2020 Planning Committee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

@@ -14,17 +14,17 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Sean_Privitera/Youth_and_Young_Adult_Committee_Chair">
+        <a href="/es/article/Sean_Privitera/Youth_and_Young_Adult_Committee_Chair">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Youth and Young Adult Committee Chair</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Lara_Amyx/Fellowship_Service_Team_Chair">
+        <a href="/es/article/Lara_Amyx/Fellowship_Service_Team_Chair">
           <span class="pr-2">Fellowship Service Team Chair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -34,9 +34,9 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-<figura id="Figura_1" clase="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/027.jpg">
-</figura>
+</figure>
 
 ¡Primero, un sincero agradecimiento a Derek Samaras, quien acaba de dejar el cargo de presidente del comité!
 
@@ -48,7 +48,7 @@ Dos eventos que hay en noviembre son la Feria del Libro de Guadalajara. Agustín
 
 Las ferias del libro anteriores han tenido éxito y han estado bien organizadas con un stand dinámico que invita y está diseñado para intrigar.
 
-Además, nuestra primera conferencia en la que esperamos atraer de treinta a cuarenta estudiantes filipinos interesados ​​en _El libro de Urantia_, es nuestra primera conferencia en Manila, del 22 al 24 de noviembre. Eugene y Belen Asidao han sido fundamentales para organizar esto.
+Además, nuestra primera conferencia en la que esperamos atraer de treinta a cuarenta estudiantes filipinos interesados ​​en _El Libro de Urantia_, es nuestra primera conferencia en Manila, del 22 al 24 de noviembre. Eugene y Belen Asidao han sido fundamentales para organizar esto.
 
 En abril de 2020, se está organizando una conferencia en español en Monterrey, en el norte de México.
 
@@ -71,17 +71,17 @@ Estoy agradecido de estar sirviendo con un equipo tan notable y dedicado.
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Sean_Privitera/Youth_and_Young_Adult_Committee_Chair">
+        <a href="/es/article/Sean_Privitera/Youth_and_Young_Adult_Committee_Chair">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Youth and Young Adult Committee Chair</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Lara_Amyx/Fellowship_Service_Team_Chair">
+        <a href="/es/article/Lara_Amyx/Fellowship_Service_Team_Chair">
           <span class="pr-2">Fellowship Service Team Chair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

@@ -14,17 +14,17 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Bobbie_Dreier/The_Angel_House_Retreat">
+        <a href="/es/article/Bobbie_Dreier/The_Angel_House_Retreat">
           <span class="pr-2">The Angel House Retreat</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2018-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Derek_Samaras/A_Hymn_to_Mother_Spirit">
+        <a href="/es/article/Derek_Samaras/A_Hymn_to_Mother_Spirit">
           <span class="pr-2">A Hymn to Mother Spirit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -35,9 +35,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 por _Nadi Burton_
 
-<figura id="Figura_1" clase="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2018_Fall/Nadi_Burton.jpg">
-</figura>
+</figure>
 
 El amor divino energiza y estimula los poderes vivientes de la fe, el don del Creador, activando espiritualmente e inspirando divinamente acciones de todo corazón, consagradas y llenas de amor; el amor verdadero, que pone en práctica elevados valores éticos y morales y que, firme y fielmente representado en medio de todos y cada uno de los desafíos que se oponen y resisten, incluso la aparente desesperanza, no es necesariamente evidente en la vida exterior, ya que conduce desde su interior presencia, galvanizando, urgiendo a la fe-realización, y la personalidad abrazada por el amor, a través de la experiencia del amor real compartido en relación afectuosa con el Corazón Divino presente y, personalizándose en ya través de la propia alma.
 
@@ -68,17 +68,17 @@ Es posible que haya conocido a Nadi Burton en Denver en la Conferencia Internaci
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Bobbie_Dreier/The_Angel_House_Retreat">
+        <a href="/es/article/Bobbie_Dreier/The_Angel_House_Retreat">
           <span class="pr-2">The Angel House Retreat</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2018-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Derek_Samaras/A_Hymn_to_Mother_Spirit">
+        <a href="/es/article/Derek_Samaras/A_Hymn_to_Mother_Spirit">
           <span class="pr-2">A Hymn to Mother Spirit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

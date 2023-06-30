@@ -14,17 +14,17 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Cristina_Seaborn/Publications_Committee_Chair">
+        <a href="/es/article/Cristina_Seaborn/Publications_Committee_Chair">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Publications Committee Chair</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Jena_Lassiter/Web_Content_Committee">
+        <a href="/es/article/Jena_Lassiter/Web_Content_Committee">
           <span class="pr-2">Web Content Committee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -34,9 +34,9 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-<figura id="Figura_1" clase="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/061.jpg">
-</figura>
+</figure>
 
 Queridos hermanos y hermanas,
 
@@ -63,17 +63,17 @@ pablo segovia
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Cristina_Seaborn/Publications_Committee_Chair">
+        <a href="/es/article/Cristina_Seaborn/Publications_Committee_Chair">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Publications Committee Chair</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Jena_Lassiter/Web_Content_Committee">
+        <a href="/es/article/Jena_Lassiter/Web_Content_Committee">
           <span class="pr-2">Web Content Committee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

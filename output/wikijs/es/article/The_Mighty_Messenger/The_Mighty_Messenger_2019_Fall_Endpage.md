@@ -40,7 +40,7 @@ dateCreated: 2023-6-21T8:13:38Z
 - 2020-5-15 al 5-17 Retiro UBSCONE 2020 en Ashford, CT
 - 2020-7-15 a 7-19 Experiencia Urantia Global cerca de Vancouver, Canadá
 
-## El bastón de mensajero poderoso
+## Equipo del Mighty Messenger
 
 Publicado por Uversa Press para el Comité de Publicaciones de la Fellowship de _El Libro de Urantia_.
 
@@ -48,11 +48,11 @@ Comité de Publicaciones:
 - Cristina Seaborn, Presidenta
 - Jill Stunk
 - Eric Arroz
--Jack Holloway
--Bárbara Newsom
+- Jack Holloway
+- Bárbara Newsom
 - Stephen Sawyer
--Avi Dogim
--Cece Forrester
+- Avi Dogim
+- Cece Forrester
 
 877.288.3772
 Fellowship@urantiabook.org

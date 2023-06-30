@@ -15,7 +15,7 @@ dateCreated: 2023-02-06T14:02:03.086Z
       <tr>
         <td>
         <a href="/es/article/Irwin_Ginsburgh/Scientific_Predictions_of_The_Urantia_Book_2">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Predicciones científicas de _El libro de Urantia_ - Parte II</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Predicciones científicas de _El Libro de Urantia_ - Parte II</span>
         </a>
         </td>
         <td>
@@ -71,7 +71,7 @@ Mientras practica perfeccionar sus habilidades de escritura, tenga en cuenta la 
       <tr>
         <td>
         <a href="/es/article/Irwin_Ginsburgh/Scientific_Predictions_of_The_Urantia_Book_2">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Predicciones científicas de _El libro de Urantia_ - Parte II</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Predicciones científicas de _El Libro de Urantia_ - Parte II</span>
         </a>
         </td>
         <td>

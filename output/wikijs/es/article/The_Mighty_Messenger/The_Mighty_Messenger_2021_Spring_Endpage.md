@@ -45,7 +45,7 @@ Busque la versión electrónica de este Mighty Messenger
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/056.jpg">
 </figure>
 
-## El bastón de mensajero poderoso
+## Equipo del Mighty Messenger
 
 Publicado por Uversa Press para el Comité de Publicaciones de The Urantia Book Fellowship.
 
@@ -53,9 +53,9 @@ Comité de Publicaciones:
 - Cristina Seaborn, Presidenta
 - Jill Stunk
 - Eric Arroz
--Andrea Barnes
+- Andrea Barnes
 - Stephen Sawyer
--Cece Forrester
+- Cece Forrester
 
 877.288.3772
 Fellowship@urantiabook.org

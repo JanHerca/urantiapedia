@@ -148,7 +148,7 @@ Saskia Raevouri revisó The Abridged Urantia Papers de Meredith Sprunger y lo pu
 Por favor, apoye a la Fellowship de _El Libro de Urantia_. Puede hacer una contribución única segura en línea en nuestro sitio web, www.urantiabook.org o tal vez considerar dar un 'regalo que sigue dando' aceptando hacer una donación mensual asequible (donación con débito automático) que se deduce automáticamente de su banco cuenta. Como siempre, enviaremos un Libro de Urantia de cuero de lujo a todos los nuevos donantes mensuales con débito automático que se comprometan a hacer una donación mensual de al menos $20 o su equivalente único.
 
 
-## El bastón de mensajero poderoso
+## Equipo del Mighty Messenger
 
 Publicado por Uversa Press para el Comité de Publicaciones de la Fellowship de _El Libro de Urantia_.
 Miembros: Linda Buselli, presidenta Cece Forrester, David Glass, Nancy Johnson, Sage Waitts

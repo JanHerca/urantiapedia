@@ -14,17 +14,17 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Brent_St_Denis/Worldwide_Service_Team_Chair">
+        <a href="/es/article/Brent_St_Denis/Worldwide_Service_Team_Chair">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Worldwide Service Team Chair</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Ann_Biggs/Wild_Goose">
+        <a href="/es/article/Ann_Biggs/Wild_Goose">
           <span class="pr-2">Wild Goose</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -34,9 +34,9 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-<figura id="Figura_1" clase="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/019.jpg">
-</figura>
+</figure>
 
 El propósito del Comité Interreligioso es fomentar las relaciones fraternales, el entendimiento y la buena voluntad con las organizaciones dedicadas a la práctica o estudio de la religión, con el fin de que las enseñanzas de _El Libro de Urantia_ avancen. Al principio, uno pensaría que el Comité Interreligioso es otra forma de divulgación y, francamente, eso es lo que pensé cuando me eligieron para presidir el comité, pero ese no es el caso. Se trata mucho más de trabajar en estrecha colaboración con otras religiones y tratar de comprenderlas, y tal vez ser capaces de sembrar las semillas de las enseñanzas de Urantia en estos terrenos fértiles.
 
@@ -61,17 +61,17 @@ Ninguna religión tiene todas las respuestas correctas, pero debemos preguntarno
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Brent_St_Denis/Worldwide_Service_Team_Chair">
+        <a href="/es/article/Brent_St_Denis/Worldwide_Service_Team_Chair">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Worldwide Service Team Chair</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#fall-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Ann_Biggs/Wild_Goose">
+        <a href="/es/article/Ann_Biggs/Wild_Goose">
           <span class="pr-2">Wild Goose</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
