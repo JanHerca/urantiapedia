@@ -276,7 +276,7 @@ I submit that there is a reason and function for life on the evolutionary worlds
 
 There is a gigantic task set before all creatures and creators in Universe Building. The everexpanding, complex and undeveloped regions of space will be the home of myriads of new galaxies, systems and worlds. Finaliters it is said, will most likely be working out in the extra-evolutionary universes ministering and administering the affairs of outer-spacers just as we have been ministered to here on Urantia. The process of universe building is one that requires near perfection, these personalities engaged in such work MUST obey the command to be perfect, even as God is perfect to fulfill such fascinating destiny. The worlds of space were created to be inhabited by creatures who could know God...and desire to be like him.
 
-Civilization is surely "forging out these strong, noble and experienced characters between the anvils of necessity and the hammers of anguish...those characters worthy of cosmic citizenship.
+Civilization is surely “forging out these strong, noble and experienced characters between the anvils of necessity and the hammers of anguish...those characters worthy of cosmic citizenship.”
 
 ### VII. The Price of Survival
 
