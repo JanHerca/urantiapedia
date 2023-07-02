@@ -40,9 +40,9 @@ Coming soon to Urantiapedia.
 
 ![](/image/article/Group_banners/Fellowship_Herald.jpg)
 
-The Fellowship Herald is an annual or bi-annual publication edited by The Urantia Book Fellowship in English.
+The Fellowship Herald is an annual or bi-annual publication edited by _The Urantia Book_ Fellowship in English.
 
-The index of all available issues is here: [Index of The Urantia Book Fellowship Herald articles](/en/index/articles_herald).
+The index of all available issues is here: [Index of _The Urantia Book Fellowship_ Herald articles](/en/index/articles_herald).
 
 Source:
 
@@ -53,9 +53,9 @@ Source:
 
 ![](/image/article/Group_banners/Mighty_Messenger.jpg)
 
-Mighty Messenger is a annual or bi-annual publication edited by The Urantia Book Fellowship with news and opinions for Readers of The Urantia Book.
+Mighty Messenger is a annual or bi-annual publication edited by _The Urantia Book Fellowship_ with news and opinions for Readers of _The Urantia Book_.
 
-The index of all available issues is here: [Index of The Urantia Book Fellowship Mighty Messenger](/en/index/articles_mighty_messenger).
+The index of all available issues is here: [Index of _The Urantia Book_ Fellowship Mighty Messenger](/en/index/articles_mighty_messenger).
 
 Sources:
 - https://archive.urantiabook.org/archive/newsletters
@@ -77,9 +77,9 @@ Source:
 
 ![](/image/article/Group_banners/Urantian_Journal_Urantia_Brotherhood.jpg)
 
-The Urantian was a quaterly journal of Urantia Brotherhood, former name of The Urantia Book Fellowship, fro 1976 to 1994.
+The Urantian was a quaterly journal of Urantia Brotherhood, former name of The Urantia Book Fellowship, from 1976 to 1994.
 
-The index of all available issues is here [The Urantian -- Journal of Urantia BrotherHood](/en/index/articles_urantian_journal).
+The index of all available issues is here: [The Urantian -- Journal of Urantia BrotherHood](/en/index/articles_urantian_journal).
 
 Source: https://urantia-book.org/archive/newsletters/urantian_journal/
 
@@ -106,6 +106,7 @@ The index of all available issues is here: [International Association Tidings](/
 Source: https://urantia-association.org/about-tidings-newsletter/
 
 ## Brotherhood of Man Library
+
 ### Innerface International
 
 ![](/image/article/Group_banners/Innerface.jpg)
@@ -117,15 +118,28 @@ The index of all available issues is here: [Innerface International Articles Ind
 Source: https://urantia-book.org/archive/newsletters/innerface/index.html
 
 ## The Christian Fellowship of Students of The Urantia Book
+
 ### The Spiritual Fellowship Journal
 
 ![](/image/article/Group_banners/Spiritual_Fellowship_Journal.jpg)
 
-The _Spiritual Fellowship Journal_ is an ecumenical publication published twice yearly between 1991 and 2006 by The Spiritual Fellowship. Its purpose is to support the larger Urantia Community, especially as it seeks to interface with the cultures and religious institutions of our world. It also seeks to address issues of special concern in the establishment of new religious institutions with roots in the Fifth Epochal Revelation.
+The _Spiritual Fellowship Journal_ is an ecumenical publication published twice yearly between 1991 and 2006 by The Spiritual Fellowship. Its purpose was to support the larger Urantia Community, especially interfacing with the cultures and religious institutions of our world, as well as addressing issues of special concern in the establishment of new religious institutions with roots in the Fifth Epochal Revelation.
 
 The index of all available issues is here: [The Urantian Journal of Urantia BrotherHood](/en/index/articles_spiritual_fellowship_journal).
 
 Source: https://urantia-book.org/index_spiritual_fellowship_journal.html
+
+## Urantia Association of Spain
+
+### Luz y Vida
+
+![](/image/article/Group_banners/Luz_y_Vida.jpg)
+
+_Luz y Vida_ (_Light and Life_) is a quarterly, now monthly, publication of the Urantia Association of Spain, active since 2005. It contains news and articles that are useful for all Spanish-language speakers.
+
+Coming soon to Urantiapedia.
+
+Source: https://aue.urantia-association.org/luz-y-vida/
 
 ## UB Annotaded & UBTheNews
 
@@ -156,12 +170,10 @@ Source: https://buscandoajesus.wordpress.com/descargas/
 
 Sources: See [References](#references)
 
-| Title                                                                                                                      | Author            | Tags                                                                                |
-| -------------------------------------------------------------------------------------------------------------------------- | ----------------- | ----------------------------------------------------------------------------------- |
-| [How large is Orvonton, really?](/en/article/How_big_is_Orvonton)                                                          | Norm Du Val       | Astronomy, Cosmology                                                                |
-| [Scientific Predictions of _The Urantia Book_](/en/article/Irwin_Ginsburgh/Scientific_Predictions_of_The_Urantia_Book) ^1^ | Irwin Ginsburgh   | The Urantia Book, Astronomy, Cosmology, Biology and Genetics, Anthropology, Physics |
-| [A Letter to Astronomers and Astrophysicists – 2016](/en/article/A_Letter_to_Astronomers_and_Astrophysicists)              |                   | Astronomy, Cosmology                                                                |
-| [A History of the Urantia Movement](/en/article/William_S_Sadler/A_History_of_the_Urantia_Movement)                        | William S. Sadler | The Urantia Book, The Urantia Book—Authorship                                       |
+- [How large is Orvonton, really?](/en/article/How_big_is_Orvonton), Norm Du Val. (Astronomy, Cosmology)
+- [Scientific Predictions of _The Urantia Book_](/en/article/Irwin_Ginsburgh/Scientific_Predictions_of_The_Urantia_Book) ^1^, Irwin Ginsburgh. (The Urantia Book, Astronomy, Cosmology, Biology and Genetics, Anthropology, Physics)
+- [A Letter to Astronomers and Astrophysicists – 2016](/en/article/A_Letter_to_Astronomers_and_Astrophysicists). (Astronomy, Cosmology)
+- [A History of the Urantia Movement](/en/article/William_S_Sadler/A_History_of_the_Urantia_Movement), William S. Sadler. (The Urantia Book, The Urantia Book—Authorship)
 
 <small>1 - This article is a 2017 update from original article published in Fellowship Herald, Vol 2. No. 1 and 2</small>
 
