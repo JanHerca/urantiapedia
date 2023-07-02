@@ -36,7 +36,7 @@ Pronto disponible en Urantiapedia.
 
 ## The Urantia Book Fellowship
 
-## Fellowship Herald
+### Fellowship Herald
 
 ![](/image/article/Group_banners/Fellowship_Herald.jpg)
 
@@ -85,7 +85,7 @@ Source: https://urantia-book.org/archive/newsletters/urantian_journal/
 
 ## Asociación Internacional Urantia
 
-## International Association Journal
+### International Association Journal
 
 ![](/image/article/Group_banners/UAI_Journal.jpg)
 
@@ -107,7 +107,7 @@ Source: https://urantia-association.org/about-tidings-newsletter/
 
 ## Biblioteca de la Hermandad Humana (Brotherhood of Man Library)
 
-## Innerface International
+### Innerface International
 
 ![](/image/article/Group_banners/Innerface.jpg)
 
@@ -119,7 +119,7 @@ Fuente: https://urantia-book.org/archive/newsletters/innerface/index.html
 
 ## La Christian Fellowship de los estudiantes de El Libro de Urantia
 
-## El Spiritual Fellowship Journal
+### El Spiritual Fellowship Journal
 
 ![](/image/article/Group_banners/Spiritual_Fellowship_Journal.jpg)
 
