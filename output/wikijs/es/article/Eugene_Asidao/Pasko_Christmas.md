@@ -1,6 +1,6 @@
 ---
 title: "Pasko (Navidad)"
-description: "The Mighty Messenger — Número de primavera de 2023: noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2023: noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Dissemination, Asia, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Mora_Franco/Book_Fair_in_La_Paz_Bolivia">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Book Fair in La Paz, Bolivia</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Feria del Libro en La Paz, Bolivia</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2023 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Aprilhelen/The_First_Urantia_Book_Conference_in_Uganda">
-          <span class="pr-2">The First Urantia Book Conference in Uganda: A Personal Account</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">La Primera Conferencia del Libro de Urantia en Uganda: Una Visión Personal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
@@ -68,23 +69,25 @@ Con una cultura en constante evolución en la vida familiar, las mujeres siguen 
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Mora_Franco/Book_Fair_in_La_Paz_Bolivia">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Book Fair in La Paz, Bolivia</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Feria del Libro en La Paz, Bolivia</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2023 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Aprilhelen/The_First_Urantia_Book_Conference_in_Uganda">
-          <span class="pr-2">The First Urantia Book Conference in Uganda: A Personal Account</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">La Primera Conferencia del Libro de Urantia en Uganda: Una Visión Personal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

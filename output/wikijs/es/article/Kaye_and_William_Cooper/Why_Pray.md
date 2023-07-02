@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Chuck_Thurston/Stepping_Into_a_New_Sense_of_Reality">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Stepping Into a New Sense of Reality</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Adentrándonos en un nuevo sentido de la realidad</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2022-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2022 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Trudi_Cooper/Rebecca_A_Love_Story">
-          <span class="pr-2">Rebecca - A Love Story</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Rebeca - Una historia de amor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
@@ -82,23 +83,25 @@ Simplemente hable con su padre espiritual de la misma manera que lo haría con u
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Chuck_Thurston/Stepping_Into_a_New_Sense_of_Reality">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Stepping Into a New Sense of Reality</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Adentrándonos en un nuevo sentido de la realidad</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2022-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2022 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Trudi_Cooper/Rebecca_A_Love_Story">
-          <span class="pr-2">Rebecca - A Love Story</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Rebeca - Una historia de amor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

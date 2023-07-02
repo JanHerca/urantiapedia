@@ -16,8 +16,8 @@ dateCreated: 2023-6-21T8:13:38Z
         <td>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2020 — Índice</span>
         </a>
         </td>
         <td>
@@ -29,6 +29,7 @@ dateCreated: 2023-6-21T8:13:38Z
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -56,6 +57,9 @@ Broomfield, Colorado
 
 <br>
 
+
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -63,8 +67,8 @@ Broomfield, Colorado
         <td>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2020 — Índice</span>
         </a>
         </td>
         <td>

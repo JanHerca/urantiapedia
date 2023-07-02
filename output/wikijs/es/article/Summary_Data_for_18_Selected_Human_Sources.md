@@ -1,6 +1,6 @@
 ---
 title: "Resumen de datos de 18 fuentes humanas seleccionadas"
-description: "The Mighty Messenger — Número especial de 2022: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición especial de 2022: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: The Urantia Book—Authorship, Source authors, Mighty Messenger, article
@@ -15,12 +15,12 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2022_Special_Gallery">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gallery</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Galería</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#special-2022-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#número-especial-de-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número especial de 2022 — Índice</span>
         </a>
         </td>
         <td>
@@ -29,6 +29,7 @@ dateCreated: 2023-6-21T8:13:38Z
     </tbody>
   </table>
 </figure>
+
 
 
 - John Baillie, 1886-1960, teólogo, *La interpretación de la religión*: (Documentos 101-103)
@@ -71,18 +72,20 @@ El sitio web de Matthew Block: [https://urantiabooksources.com/ ](https://uranti
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2022_Special_Gallery">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gallery</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Galería</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#special-2022-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#número-especial-de-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número especial de 2022 — Índice</span>
         </a>
         </td>
         <td>

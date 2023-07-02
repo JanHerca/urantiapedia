@@ -1,6 +1,6 @@
 ---
 title: "Discurso sobre la realidad: fuentes de percepción reveladora: una meditación sobre el autor humano Ralph Tyler Flewelling: primera parte"
-description: "The Mighty Messenger — Número especial de 2022: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición especial de 2022: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: The Urantia Book—Authorship, Source authors, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Gard_Jameson/Sources_of_Revelatory_Insight_A_Meditation_on_Human_Sources">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sources of Revelatory Insight: A Meditation on the «Human Sources»</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fuentes de la percepción reveladora: una meditación sobre las «fuentes humanas»</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#special-2022-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#número-especial-de-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número especial de 2022 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Gard_Jameson/True_Values">
-          <span class="pr-2">True Values</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Valores verdaderos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 por _Gard Jameson_
@@ -293,23 +294,25 @@ El gran misterio de la existencia es cómo Dios, en quien nos movemos, vivimos y
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Gard_Jameson/Sources_of_Revelatory_Insight_A_Meditation_on_Human_Sources">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sources of Revelatory Insight: A Meditation on the «Human Sources»</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fuentes de la percepción reveladora: una meditación sobre las «fuentes humanas»</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#special-2022-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#número-especial-de-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número especial de 2022 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Gard_Jameson/True_Values">
-          <span class="pr-2">True Values</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Valores verdaderos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

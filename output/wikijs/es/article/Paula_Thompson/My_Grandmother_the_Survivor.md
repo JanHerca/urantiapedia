@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Bill_Rocap/Turkish_translation_of_the_Urantia_Book">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Turkish translation of the Urantia Book</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Traducción al turco del Libro de Urantia</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Michelle_Klimesh/Pipeline_of_Light_Report">
-          <span class="pr-2">Pipeline of Light Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Informe del «Pipeline of Light»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
@@ -103,23 +104,25 @@ Por lo tanto, a usted, amable lector, le envío hoy todo el amor de mi corazón 
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Bill_Rocap/Turkish_translation_of_the_Urantia_Book">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Turkish translation of the Urantia Book</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Traducción al turco del Libro de Urantia</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Michelle_Klimesh/Pipeline_of_Light_Report">
-          <span class="pr-2">Pipeline of Light Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Informe del «Pipeline of Light»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

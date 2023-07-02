@@ -1,6 +1,6 @@
 ---
 title: "Vacaciones de verano espiritualmente enriquecedoras para toda la familia (IC23)"
-description: "The Mighty Messenger — Número de primavera de 2023: noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2023: noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Urantia Movement Event, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Aprilhelen/Spirit_Led_Teamwork">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spirit-Led Teamwork: The Pearl of the Universes</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trabajo en equipo dirigido por el espíritu: la perla de los universos</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2023 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Bobbie_Dreier/Memories_of_International_Conferences">
-          <span class="pr-2">Memories of International Conferences</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Memorias de Congresos Internacionales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -99,23 +100,25 @@ Con amor y anticipación de su equipo de liderazgo de la Familia IC23,
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Aprilhelen/Spirit_Led_Teamwork">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spirit-Led Teamwork: The Pearl of the Universes</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trabajo en equipo dirigido por el espíritu: la perla de los universos</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2023 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Bobbie_Dreier/Memories_of_International_Conferences">
-          <span class="pr-2">Memories of International Conferences</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Memorias de Congresos Internacionales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

@@ -1,6 +1,6 @@
 ---
 title: "El amor divino inspira la fe aplicada"
-description: "The Mighty Messenger — Número de otoño de 2018: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de otoño de 2018: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
 tags: Divine love, Faith, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td>
         <a href="/es/article/Bobbie_Dreier/The_Angel_House_Retreat">
-          <span class="pr-2">The Angel House Retreat</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Retiro de la Casa del Ángel</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2018 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Derek_Samaras/A_Hymn_to_Mother_Spirit">
-          <span class="pr-2">A Hymn to Mother Spirit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Un himno a la Madre Espíritu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 por _Nadi Burton_
 
@@ -63,23 +64,24 @@ Es posible que haya conocido a Nadi Burton en Denver en la Conferencia Internaci
 
 <br>
 
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Bobbie_Dreier/The_Angel_House_Retreat">
-          <span class="pr-2">The Angel House Retreat</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Retiro de la Casa del Ángel</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2018 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Derek_Samaras/A_Hymn_to_Mother_Spirit">
-          <span class="pr-2">A Hymn to Mother Spirit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Un himno a la Madre Espíritu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

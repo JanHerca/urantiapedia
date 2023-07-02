@@ -14,24 +14,19 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2005_Spring">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Primavera 2005</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de invierno de 2005 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#winter-2005-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Invierno 2005 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2006_Spring">
-          <span class="pr-2">Primavera 2006</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 ## Consejo General se reunirá en Dallas
 
@@ -228,24 +223,19 @@ _«¡Esto es lo más cerca que he estado del cielo!»_
 * Boletín en Urantia Book Historical Society: https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
 
 
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2005_Spring">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Primavera 2005</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de invierno de 2005 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#winter-2005-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Invierno 2005 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2006_Spring">
-          <span class="pr-2">Primavera 2006</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>

@@ -16,19 +16,20 @@ dateCreated: 2023-6-21T8:13:38Z
         <td>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#special-2022-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#número-especial-de-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número especial de 2022 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Gard_Jameson/Dedication">
-          <span class="pr-2">Dedication</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Dedicatoria</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -38,6 +39,9 @@ dateCreated: 2023-6-21T8:13:38Z
 
 **Una publicación de The Urantia Book Fellowship**
 
+
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -45,13 +49,13 @@ dateCreated: 2023-6-21T8:13:38Z
         <td>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#special-2022-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#número-especial-de-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número especial de 2022 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Gard_Jameson/Dedication">
-          <span class="pr-2">Dedication</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Dedicatoria</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

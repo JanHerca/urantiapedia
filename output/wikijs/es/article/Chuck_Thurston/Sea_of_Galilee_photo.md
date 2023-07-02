@@ -1,6 +1,6 @@
 ---
 title: "Foto del Mar de Galilea"
-description: "The Mighty Messenger — Número de primavera de 2023: noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2023: noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Art, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Stephen_Sawyer/Artwork">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Artwork</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Obra de arte</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2023 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Chuck_Thurston/Balanced_Rock">
-          <span class="pr-2">Balanced Rock</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Roca equilibrada</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -42,23 +43,25 @@ dateCreated: 2023-6-21T8:13:38Z
 
 > “Y fue de estos Viejos recuerdos de Nazaret, Cafarnaúm, el Monte Hermón, y de la salida y la puesta del sol en el resplandeciente Mar de Galilea, que se calmó a sí mismo mientras fortalecía su corazón humano y lo preparaba para encontrarse con el traidor que tanto debería pronto lo traicionará. [LU 182:3.10](/es/The_Urantia_Book/182#p3_10)
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Stephen_Sawyer/Artwork">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Artwork</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Obra de arte</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2023 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Chuck_Thurston/Balanced_Rock">
-          <span class="pr-2">Balanced Rock</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Roca equilibrada</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

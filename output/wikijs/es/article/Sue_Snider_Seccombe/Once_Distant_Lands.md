@@ -1,6 +1,6 @@
 ---
 title: "Tierras que alguna vez fueron distantes"
-description: "The Mighty Messenger — Número de primavera de 2023: noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2023: noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/The_Mighty_Messenger_Translators_2023">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Translators</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Traductores</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2023 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Bobbie_Dreier_and_Andre_Radatus/The_Fellowships_International_Presence">
-          <span class="pr-2">The Fellowship's International Presence</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">La presencia internacional de la Fellowship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
@@ -60,23 +61,25 @@ Otro _primero_, en el interior, hay un extenso informe sobre la primera conferen
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/The_Mighty_Messenger_Translators_2023">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Translators</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Traductores</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2023 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Bobbie_Dreier_and_Andre_Radatus/The_Fellowships_International_Presence">
-          <span class="pr-2">The Fellowship's International Presence</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">La presencia internacional de la Fellowship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

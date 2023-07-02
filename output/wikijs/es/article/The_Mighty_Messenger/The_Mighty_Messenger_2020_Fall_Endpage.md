@@ -15,12 +15,12 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Planned_Giving_to_The_Urantia_Book_Fellowship">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Planned Giving to The Urantia Book Fellowship</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aportación planificada a The Urantia Book Fellowship</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2020 — Índice</span>
         </a>
         </td>
         <td>
@@ -29,6 +29,7 @@ dateCreated: 2023-6-21T8:13:38Z
     </tbody>
   </table>
 </figure>
+
 
 
 ## Upcoming Events
@@ -51,18 +52,21 @@ Scan for electronic version of this Mighty Messenger
 
 <br>
 
+
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Planned_Giving_to_The_Urantia_Book_Fellowship">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Planned Giving to The Urantia Book Fellowship</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Aportación planificada a The Urantia Book Fellowship</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2020 — Índice</span>
         </a>
         </td>
         <td>

@@ -14,24 +14,19 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1997_Summer">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Verano 1997</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 1997 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-1997-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1997 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1997_Winter">
-          <span class="pr-2">Invierno 1997</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 ## De los editores
 
@@ -146,24 +141,19 @@ El sitio web de la Fellowship está en continuo desarrollo. El proyecto para dig
 * Boletín en la Fellowship de _El Libro de Urantia_: https://archive.urantiabook.org/archive/newsletters/mmfall97.htm
 
 
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1997_Summer">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Verano 1997</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 1997 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-1997-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 1997 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1997_Winter">
-          <span class="pr-2">Invierno 1997</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>

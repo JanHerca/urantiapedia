@@ -1,6 +1,6 @@
 ---
 title: "¿Qué es una «Experiencia Urantia» frente a una «Conferencia Urantia»?"
-description: "The Mighty Messenger — Número de primavera de 2020: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2020: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Urantia Movement Event, Mighty Messenger, article
@@ -19,19 +19,20 @@ dateCreated: 2023-6-21T8:13:38Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Announcing_the_Graduation_Initiative">
-          <span class="pr-2">Announcing the Graduation Initiative</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Anunciando la Iniciativa de Graduación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 Este es un experimento. En lugar de presentarte, queremos que seas parte de la experiencia. En lugar de ser un asistente pasivo, queremos que participe activamente en discusiones enfocadas dirigidas directamente a trabajar con Dios Supremo para mejorar la civilización.
@@ -60,6 +61,8 @@ https://urantiaglobalexperience.com/
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -70,13 +73,13 @@ https://urantiaglobalexperience.com/
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Announcing_the_Graduation_Initiative">
-          <span class="pr-2">Announcing the Graduation Initiative</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Anunciando la Iniciativa de Graduación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

@@ -16,19 +16,20 @@ dateCreated: 2023-6-21T8:13:38Z
         <td>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2021 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2021 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Richard_E_Warren/The_Melchizedek_Mission_Salvaging_Truth">
-          <span class="pr-2">The Melchizedek Mission: Salvaging Truth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">La Misión de Melquisedec: Salvando la Verdad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -79,6 +80,9 @@ Broomfield, Colorado
 
 <br>
 
+
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -86,13 +90,13 @@ Broomfield, Colorado
         <td>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2021 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2021 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Richard_E_Warren/The_Melchizedek_Mission_Salvaging_Truth">
-          <span class="pr-2">The Melchizedek Mission: Salvaging Truth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">La Misión de Melquisedec: Salvando la Verdad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Letter_from_the_Publications_Chair">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Letter from the Publications Chair</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Carta del Presidente de Publicaciones</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Sharon_Porter/The_Angels_of_Progress">
-          <span class="pr-2">The Angels of Progress</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Los Ángeles del Progreso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -95,23 +96,25 @@ A medida que nuestra identidad de alma humana/divina se vuelve más real, y nues
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Letter_from_the_Publications_Chair">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Letter from the Publications Chair</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Carta del Presidente de Publicaciones</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Sharon_Porter/The_Angels_of_Progress">
-          <span class="pr-2">The Angels of Progress</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Los Ángeles del Progreso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

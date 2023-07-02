@@ -1,6 +1,6 @@
 ---
 title: "Una visión"
-description: "The Mighty Messenger — Número de primavera de 2019: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2019: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Meditation, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Jacky_Koury_and_others/Our_Pilgrimage_to_The_Holy_Land_of_Jesus">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Pilgrimage to The Holy Land of Jesus</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestra peregrinación a la Tierra Santa de Jesús</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2019-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2019 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Dave_Holt/An_Awareness">
-          <span class="pr-2">An Awareness</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Una conciencia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
@@ -60,23 +61,25 @@ Los amo mucho a todos. Que podamos entregar nuestras vidas más plenamente a esa
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Jacky_Koury_and_others/Our_Pilgrimage_to_The_Holy_Land_of_Jesus">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Pilgrimage to The Holy Land of Jesus</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestra peregrinación a la Tierra Santa de Jesús</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2019-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2019 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Dave_Holt/An_Awareness">
-          <span class="pr-2">An Awareness</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Una conciencia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

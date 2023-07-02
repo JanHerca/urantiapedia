@@ -1,6 +1,6 @@
 ---
 title: "Escultura «Esto es Terreno Sagrado»"
-description: "The Mighty Messenger — Número de verano de 2022: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de verano de 2022: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Art, Mighty Messenger, article
@@ -15,12 +15,12 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Chuck_Thurston/The_Long_Path_photo">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«The Long Path» photo</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Foto de «El camino largo»</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2022-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2022 — Índice</span>
         </a>
         </td>
         <td>
@@ -29,6 +29,7 @@ dateCreated: 2023-6-21T8:13:38Z
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -41,18 +42,20 @@ dateCreated: 2023-6-21T8:13:38Z
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Chuck_Thurston/The_Long_Path_photo">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«The Long Path» photo</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Foto de «El camino largo»</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2022-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2022 — Índice</span>
         </a>
         </td>
         <td>

@@ -15,12 +15,12 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Michael_Hill/Inmate_Correspondence_Program_2021_Spring">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Inmate Correspondence Program</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Programa de correspondencia para reclusos</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2021 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2021 — Índice</span>
         </a>
         </td>
         <td>
@@ -29,6 +29,7 @@ dateCreated: 2023-6-21T8:13:38Z
     </tbody>
   </table>
 </figure>
+
 
 
 ## Próximos Eventos
@@ -67,18 +68,21 @@ www.urantiabook.org
 
 <br>
 
+
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Michael_Hill/Inmate_Correspondence_Program_2021_Spring">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Inmate Correspondence Program</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Programa de correspondencia para reclusos</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2021 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2021 — Índice</span>
         </a>
         </td>
         <td>

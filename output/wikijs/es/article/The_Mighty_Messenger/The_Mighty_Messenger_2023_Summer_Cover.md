@@ -16,19 +16,20 @@ dateCreated: 2023-6-21T8:13:38Z
         <td>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Verano 2023 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2023 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/The_Mighty_Messenger_Translators_2023">
-          <span class="pr-2">Translators</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Traductores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -63,6 +64,9 @@ Reno, NV 89533 EE. UU.
 
 
 
+
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -70,13 +74,13 @@ Reno, NV 89533 EE. UU.
         <td>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Verano 2023 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2023 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/The_Mighty_Messenger_Translators_2023">
-          <span class="pr-2">Translators</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Traductores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

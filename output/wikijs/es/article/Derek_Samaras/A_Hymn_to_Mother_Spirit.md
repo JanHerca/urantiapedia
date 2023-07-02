@@ -1,6 +1,6 @@
 ---
 title: "Un himno a la Madre Espíritu"
-description: "The Mighty Messenger — Número de otoño de 2018: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de otoño de 2018: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
 tags: Universe Mother Spirit, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td>
         <a href="/es/article/Nadi_Burton/Divine_Love_Inspires_Applied_Faith">
-          <span class="pr-2">Divine Love Inspires Applied Faith</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El amor divino inspira la fe aplicada</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2018 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Dan_Amyx/UB_Fundraiser_letter">
-          <span class="pr-2">UB Fundraiser letter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Carta de recaudación de fondos del UB</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 por _Derek Samaras_
 
@@ -63,23 +64,24 @@ Mi dulce río de tolerancia, Mi montaña de misericordia, Mi campo sin fin de bo
 
 <br>
 
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Nadi_Burton/Divine_Love_Inspires_Applied_Faith">
-          <span class="pr-2">Divine Love Inspires Applied Faith</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El amor divino inspira la fe aplicada</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2018 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Dan_Amyx/UB_Fundraiser_letter">
-          <span class="pr-2">UB Fundraiser letter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Carta de recaudación de fondos del UB</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

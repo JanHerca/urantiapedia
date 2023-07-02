@@ -14,24 +14,19 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2002_Spring">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Primavera 2002</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2003 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2003-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2003 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2004_Spring">
-          <span class="pr-2">Primavera 2004</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 > «La gran esperanza de Urantia radica en la posibilidad de una nueva revelación de Jesús con una presentación nueva y ampliada de su mensaje salvador que uniría espiritualmente en un servicio amoroso a las numerosas familias de sus seguidores profesos de la actualidad». [[LU 195:10.16](/es/The_Urantia_Book/195#p10_16)]
 
@@ -151,24 +146,19 @@ sitio web: http://www.urantiabook.org
 * Boletín en Urantia Book Historical Society: https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
 
 
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2002_Spring">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Primavera 2002</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2003 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2003-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2003 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2004_Spring">
-          <span class="pr-2">Primavera 2004</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>

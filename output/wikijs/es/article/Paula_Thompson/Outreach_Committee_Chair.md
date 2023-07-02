@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Ann_Biggs/Wild_Goose">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Wild Goose</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexión sobre el ganso salvaje</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2019 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Sean_Privitera/Youth_and_Young_Adult_Committee_Chair">
-          <span class="pr-2">Youth and Young Adult Committee Chair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Presidente del Comité de Jóvenes y Adultos Jóvenes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
@@ -74,23 +75,25 @@ El Comité de Alcance de la Fraternidad celebra a todos los evangelios de la rev
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Ann_Biggs/Wild_Goose">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Wild Goose</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflexión sobre el ganso salvaje</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2019 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Sean_Privitera/Youth_and_Young_Adult_Committee_Chair">
-          <span class="pr-2">Youth and Young Adult Committee Chair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Presidente del Comité de Jóvenes y Adultos Jóvenes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

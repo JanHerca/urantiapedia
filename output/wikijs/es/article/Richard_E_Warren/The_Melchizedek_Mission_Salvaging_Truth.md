@@ -1,6 +1,6 @@
 ---
 title: "La Misión de Melquisedec: Salvando la Verdad"
-description: "The Mighty Messenger — Número de primavera de 2021: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2021: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Machiventa, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2021_Spring_Cover">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cover</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Portada</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2021 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Peri_Best/Planetary_Government">
-          <span class="pr-2">Planetary Government</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Gobierno Planetario</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
@@ -66,23 +67,25 @@ Se puede acceder a una muestra de Kindle Book «Look inside» de The Melchizedek
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2021_Spring_Cover">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cover</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Portada</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2021 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Peri_Best/Planetary_Government">
-          <span class="pr-2">Planetary Government</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Gobierno Planetario</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

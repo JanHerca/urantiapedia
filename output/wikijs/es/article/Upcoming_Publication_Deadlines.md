@@ -1,6 +1,6 @@
 ---
 title: "Próximos plazos de publicación"
-description: "The Mighty Messenger — Número de primavera de 2020: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2020: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Jena_Lassiter/UBF_Website_Tricks">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">UBF Website Tricks</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trucos del sitio web UBF</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Charles_Laurence_Olivea/Why_Place_The_Urantia_Book_Initially_In_America">
-          <span class="pr-2">Why Place The Urantia Book Initially In America?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">¿Por qué colocar El libro de Urantia inicialmente en América?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <ins>Publicaciones de revistas</ins>
@@ -80,23 +81,25 @@ Cristina Seaborn, Directora de Publicaciones
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Jena_Lassiter/UBF_Website_Tricks">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">UBF Website Tricks</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trucos del sitio web UBF</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Charles_Laurence_Olivea/Why_Place_The_Urantia_Book_Initially_In_America">
-          <span class="pr-2">Why Place The Urantia Book Initially In America?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">¿Por qué colocar El libro de Urantia inicialmente en América?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

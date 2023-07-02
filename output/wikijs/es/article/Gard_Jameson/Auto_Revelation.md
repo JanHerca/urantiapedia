@@ -1,6 +1,6 @@
 ---
 title: "Auto-Revelación"
-description: "The Mighty Messenger — Número especial de 2022: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición especial de 2022: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: The Urantia Book—Authorship, Source authors, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Gard_Jameson/Truth_and_Faith">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Truth and Faith</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Verdad y fe</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#special-2022-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#número-especial-de-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número especial de 2022 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2022_Special_Gallery">
-          <span class="pr-2">Gallery</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Galería</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 por _Gard Jameson_
@@ -64,23 +65,25 @@ Estas son algunas de las expresiones conceptuales contemporáneas que abren la p
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Gard_Jameson/Truth_and_Faith">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Truth and Faith</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Verdad y fe</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#special-2022-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#número-especial-de-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número especial de 2022 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2022_Special_Gallery">
-          <span class="pr-2">Gallery</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Galería</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

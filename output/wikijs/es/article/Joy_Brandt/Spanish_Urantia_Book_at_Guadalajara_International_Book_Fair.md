@@ -1,6 +1,6 @@
 ---
 title: "El Libro de Urantia en español en la Feria Internacional del Libro de Gudalajara"
-description: "The Mighty Messenger — Número de otoño de 2018: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de otoño de 2018: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
 tags: Urantia Movement Event, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td>
         <a href="/es/article/Agustin_Arellano/Guadalajara_International_Book_Fair_2018">
-          <span class="pr-2">Guadalajara International Book Fair 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Feria Internacional del Libro de Guadalajara 2018</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2018 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Robert_F_Bruyn/A_Glimpse_of_The_Universe">
-          <span class="pr-2">A Glimpse of The Universe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Un vistazo al universo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 por Joy Brandt, miembro del Comité Internacional
 
@@ -51,23 +52,24 @@ El stand de «El Libro de Urantia» es el número N25, así que visítenos si se
 
 <br>
 
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Agustin_Arellano/Guadalajara_International_Book_Fair_2018">
-          <span class="pr-2">Guadalajara International Book Fair 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Feria Internacional del Libro de Guadalajara 2018</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2018 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Robert_F_Bruyn/A_Glimpse_of_The_Universe">
-          <span class="pr-2">A Glimpse of The Universe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Un vistazo al universo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

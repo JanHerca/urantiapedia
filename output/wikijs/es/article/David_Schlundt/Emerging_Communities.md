@@ -1,6 +1,6 @@
 ---
 title: "Apoyar, involucrar y llegar a las comunidades existentes y emergentes de lectores de El libro de Urantia"
-description: "The Mighty Messenger — Número de primavera de 2020: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2020: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Global Seeding, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Stevie_Shaefer/Commonality_Among_Faiths">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Commonality Among Faiths</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Puntos en común entre las religiones</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Graduation_Memorial_Page">
-          <span class="pr-2">Graduation Memorial Page</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Página conmemorativa de la graduación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 Por _David G. Schlundt_, vicepresidente de Urantia Book Fellowship
@@ -84,23 +85,25 @@ Si está interesado en el informe completo sobre la encuesta y su discusión por
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Stevie_Shaefer/Commonality_Among_Faiths">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Commonality Among Faiths</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Puntos en común entre las religiones</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Graduation_Memorial_Page">
-          <span class="pr-2">Graduation Memorial Page</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Página conmemorativa de la graduación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

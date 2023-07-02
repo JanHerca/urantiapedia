@@ -1,6 +1,6 @@
 ---
 title: "Pipeline of Light"
-description: "The Mighty Messenger — Número de primavera de 2020: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2020: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Mighty Messenger, article
@@ -15,23 +15,25 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Yman_Juran/A_Urantia_in_Second_Life">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Urantia in Second Life</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un Urantiano en Second Life</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Ted_Blaney/Fellowship_Field_Worker_Program">
-          <span class="pr-2">Fellowship Field Worker Program</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Programa de trabajo de campo de la Fellowship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
+
 
 
 31 de diciembre de 2019
@@ -72,23 +74,25 @@ Colocación de tuberías = plantar semillas. Gracias por su apoyo.
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Yman_Juran/A_Urantia_in_Second_Life">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Urantia in Second Life</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un Urantiano en Second Life</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Ted_Blaney/Fellowship_Field_Worker_Program">
-          <span class="pr-2">Fellowship Field Worker Program</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Programa de trabajo de campo de la Fellowship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

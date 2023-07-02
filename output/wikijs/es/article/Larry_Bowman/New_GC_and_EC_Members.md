@@ -1,6 +1,6 @@
 ---
 title: "Nuevos miembros de GC y EC"
-description: "The Mighty Messenger — Número de primavera de 2020: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2020: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Pierre_Chicoine/Mind_and_Artificial_Intelligence">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mind and Artificial Intelligence</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mente e Inteligencia Artificial</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Urantia_Book_Study_Group_Directory">
-          <span class="pr-2">Urantia Book Study Group Directory</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Directorio de grupos de estudio de El Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -92,23 +93,25 @@ Esas habilidades serán útiles para servir en el Consejo General.
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Pierre_Chicoine/Mind_and_Artificial_Intelligence">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mind and Artificial Intelligence</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mente e Inteligencia Artificial</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Urantia_Book_Study_Group_Directory">
-          <span class="pr-2">Urantia Book Study Group Directory</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Directorio de grupos de estudio de El Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

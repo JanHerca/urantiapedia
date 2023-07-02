@@ -1,6 +1,6 @@
 ---
 title: "Programa de correspondencia de reclusos (ICP) de la Fellowship"
-description: "The Mighty Messenger — Número de otoño de 2018: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de otoño de 2018: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
 tags: Fellowship, Mighty Messenger, article
@@ -15,12 +15,12 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td>
         <a href="/es/article/Dan_Amyx/UB_Fundraiser_letter">
-          <span class="pr-2">UB Fundraiser letter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Carta de recaudación de fondos del UB</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2018 — Índice</span>
         </a>
         </td>
         <td>
@@ -29,6 +29,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     </tbody>
   </table>
 </figure>
+
 
 por _Michael Hill_
 
@@ -61,18 +62,19 @@ Michael Hill para el equipo ICP
 
 <br>
 
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Dan_Amyx/UB_Fundraiser_letter">
-          <span class="pr-2">UB Fundraiser letter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Carta de recaudación de fondos del UB</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2018 — Índice</span>
         </a>
         </td>
         <td>

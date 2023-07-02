@@ -1,5 +1,5 @@
 ---
-title: "The Mighty Messenger — Número de invierno de 2012"
+title: "The Mighty Messenger — Edición de invierno de 2012"
 description: "Noticias y opiniones para lectores de El Libro de Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -14,24 +14,19 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2012_Spring">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Primavera 2012</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de invierno de 2012 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#winter-2012-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Invierno 2012 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2013_Spring">
-          <span class="pr-2">Primavera 2013</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 ## Nuestro Don a Dios Padre: Servicio al Supremo
 
@@ -308,24 +303,19 @@ www.urantiabook.org
 * Boletín en la Fellowship de _El Libro de Urantia_: https://archive.urantiabook.org/archive/newsletters/mightymessenger/MM-winter2012.pdf
 
 
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2012_Spring">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Primavera 2012</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de invierno de 2012 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#winter-2012-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Invierno 2012 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2013_Spring">
-          <span class="pr-2">Primavera 2013</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>

@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Joshua_J_Wilson/Checkmate_The_Progress_Angels">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Checkmate: The Progress Angels and the Religious Guardians in Play</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jaque mate: Los ángeles del progreso y los guardianes religiosos en juego</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Jorgey_Krupa/On_the_Subject_of_Love">
-          <span class="pr-2">On the Subject of Love</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Sobre el tema del amor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
@@ -76,23 +77,25 @@ El comité espera verlo en línea y en SSS21, ¡todos los temas de aislamiento e
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Joshua_J_Wilson/Checkmate_The_Progress_Angels">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Checkmate: The Progress Angels and the Religious Guardians in Play</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jaque mate: Los ángeles del progreso y los guardianes religiosos en juego</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Jorgey_Krupa/On_the_Subject_of_Love">
-          <span class="pr-2">On the Subject of Love</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Sobre el tema del amor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

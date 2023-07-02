@@ -1,6 +1,6 @@
 ---
 title: "Feria Internacional del Libro de Guadalajara 2018"
-description: "The Mighty Messenger — Número de otoño de 2018: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de otoño de 2018: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
 tags: Urantia Movement Event, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td>
         <a href="/es/article/Larry_Bowman/New_General_Councilors_Executive_Committee">
-          <span class="pr-2">New General Councilors, Executive Committee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuevos Consejeros Generales, Comité Ejecutivo</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2018 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Joy_Brandt/Spanish_Urantia_Book_at_Guadalajara_International_Book_Fair">
-          <span class="pr-2">Spanish Urantia Book at Guadalajara International Book Fair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">El Libro de Urantia en español en la Feria Internacional del Libro de Gudalajara</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 por _Agustín Arellano_
@@ -71,23 +72,24 @@ O llámanos al: 303-467-7858
 
 <br>
 
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Larry_Bowman/New_General_Councilors_Executive_Committee">
-          <span class="pr-2">New General Councilors, Executive Committee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuevos Consejeros Generales, Comité Ejecutivo</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2018 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Joy_Brandt/Spanish_Urantia_Book_at_Guadalajara_International_Book_Fair">
-          <span class="pr-2">Spanish Urantia Book at Guadalajara International Book Fair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">El Libro de Urantia en español en la Feria Internacional del Libro de Gudalajara</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

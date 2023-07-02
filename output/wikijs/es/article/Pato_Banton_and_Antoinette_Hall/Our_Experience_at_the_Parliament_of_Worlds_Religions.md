@@ -1,6 +1,6 @@
 ---
 title: "Nuestra experiencia en el Parlamento de las Religiones del Mundo 2018"
-description: "The Mighty Messenger — Número de primavera de 2019: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2019: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Interfaith, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Joshua_J_Wilson/Machiventa_Melchizedek">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Machiventa Melchizedek</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Maquiventa Melquisedec</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2019-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2019 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Saskia_Praamsa/The_Urantia_Diaries_of_Harold_and_Martha_Sherman">
-          <span class="pr-2">The Urantia Diaries of Harold and Martha Sherman</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Los diarios de Urantia de Harold y Martha Sherman</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
@@ -90,23 +91,25 @@ https://www.youtube.com/watch?v=NBny4fEfXg
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Joshua_J_Wilson/Machiventa_Melchizedek">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Machiventa Melchizedek</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Maquiventa Melquisedec</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2019-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2019 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Saskia_Praamsa/The_Urantia_Diaries_of_Harold_and_Martha_Sherman">
-          <span class="pr-2">The Urantia Diaries of Harold and Martha Sherman</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Los diarios de Urantia de Harold y Martha Sherman</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

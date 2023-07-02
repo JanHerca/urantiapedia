@@ -1,6 +1,6 @@
 ---
 title: "Programa de correspondencia para reclusos"
-description: "The Mighty Messenger — Número de primavera de 2021: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2021: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Pipeline_of_Light_Report_2021_Spring">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pipeline of Light Report</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe de Pipeline of Light</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2021 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2021_Spring_Endpage">
-          <span class="pr-2">End page</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Página final</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
@@ -74,23 +75,25 @@ Aquí una muestra de una de las grandes cartas que recibimos en 2020:
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Pipeline_of_Light_Report_2021_Spring">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pipeline of Light Report</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe de Pipeline of Light</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2021 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2021_Spring_Endpage">
-          <span class="pr-2">End page</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Página final</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

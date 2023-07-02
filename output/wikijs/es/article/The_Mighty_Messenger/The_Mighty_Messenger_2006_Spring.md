@@ -14,24 +14,19 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2005_Winter">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Invierno 2005</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2006 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2006-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2006 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2006_Fall">
-          <span class="pr-2">Otoño 2006</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 ## Sesión de estudio de verano '06
 
@@ -300,24 +295,20 @@ www.urantiabook.org
 * Boletín en la Fellowship de _El Libro de Urantia_: https://archive.urantiabook.org/archive/newsletters/mightymessenger/mm_spring_2006.pdf
 
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2005_Winter">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Invierno 2005</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2006 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2006-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2006 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2006_Fall">
-          <span class="pr-2">Otoño 2006</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>

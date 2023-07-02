@@ -1,6 +1,6 @@
 ---
 title: "Maquiventa Melquisedec"
-description: "The Mighty Messenger — Número de primavera de 2021: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2021: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Machiventa, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Pato_Banton/The_Urantia_Book_is_Not_a_Cult">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book is Not a Cult</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia no es una secta</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2021 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/David_Kulieke/Virtual_Summer_Study_Session">
-          <span class="pr-2">Virtual Summer Study Session</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Sesión de estudio virtual de verano</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
@@ -126,23 +127,26 @@ Hoy aguardamos una posible llegada formal de Maquiventa Melquisedec con el manda
 
 > Desde Palestina, algunos de los misioneros de Melquisedec pasaron por Mesopotamia y hasta la gran meseta iraní. Durante más de quinientos años los maestros de Salem se abrieron camino en Irán, y toda la nación estaba pleiteando a la religión de Melquisedec cuando un cambio de gobernantes precipitó una amarga persecución que prácticamente acabó con las enseñanzas monoteístas del culto de Salem. La doctrina del pacto abrahámico estaba virtualmente extinguida en Persia cuando, en ese gran siglo de renacimiento moral, el sexto antes de Cristo, apareció Zoroastro para revivir las brasas ardientes del evangelio de Salem. [[LU 95:6.1](/es/The_Urantia_Book/95#p6_1)]
 
+
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Pato_Banton/The_Urantia_Book_is_Not_a_Cult">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book is Not a Cult</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia no es una secta</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2021 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/David_Kulieke/Virtual_Summer_Study_Session">
-          <span class="pr-2">Virtual Summer Study Session</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Sesión de estudio virtual de verano</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

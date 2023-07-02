@@ -1,6 +1,6 @@
 ---
 title: "Galería"
-description: "The Mighty Messenger — Número especial de 2022: Noticias y opiniones para lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición especial de 2022: Noticias y opiniones para lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: The Urantia Book—Authorship, Source authors, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Gard_Jameson/Auto_Revelation">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Auto-Revelation</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Auto-Revelación</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#special-2022-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#número-especial-de-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número especial de 2022 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Summary_Data_for_18_Selected_Human_Sources">
-          <span class="pr-2">Summary Data for 18 Selected Human Sources</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Resumen de datos de 18 fuentes humanas seleccionadas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -126,23 +127,25 @@ dateCreated: 2023-6-21T8:13:38Z
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Gard_Jameson/Auto_Revelation">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Auto-Revelation</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Auto-Revelación</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#special-2022-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#número-especial-de-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número especial de 2022 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Summary_Data_for_18_Selected_Human_Sources">
-          <span class="pr-2">Summary Data for 18 Selected Human Sources</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Resumen de datos de 18 fuentes humanas seleccionadas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

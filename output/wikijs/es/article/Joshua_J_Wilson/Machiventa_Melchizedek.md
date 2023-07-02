@@ -1,6 +1,6 @@
 ---
 title: "Maquiventa Melquisedec"
-description: "The Mighty Messenger — Número de primavera de 2019: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2019: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Machiventa, Epochal Revelations, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Publications_Survey">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Publications Survey</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Encuesta de publicaciones</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2019-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2019 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Pato_Banton_and_Antoinette_Hall/Our_Experience_at_the_Parliament_of_Worlds_Religions">
-          <span class="pr-2">Our Experience at the Parliament of World’s Religions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Nuestra experiencia en el Parlamento de las Religiones del Mundo 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 Trabajando en la Tierra desde 200 000 a. C. como uno de los doce receptores planetarios, sabio de Salem (1980-1886 a. C.), colaborador de profetas y videntes (a. 1866 a. C.-30 d. C.), gobernador general residente (c. 950-1050 d. C.), vicegerente Príncipe Planetario (actual)
@@ -154,23 +155,25 @@ Tiene una licenciatura en Administración de Empresas y Sistemas de Información
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Publications_Survey">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Publications Survey</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Encuesta de publicaciones</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2019-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2019 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Pato_Banton_and_Antoinette_Hall/Our_Experience_at_the_Parliament_of_Worlds_Religions">
-          <span class="pr-2">Our Experience at the Parliament of World’s Religions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Nuestra experiencia en el Parlamento de las Religiones del Mundo 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

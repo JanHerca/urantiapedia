@@ -1,6 +1,6 @@
 ---
 title: "Gobierno Planetario"
-description: "The Mighty Messenger — Número de primavera de 2021: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2021: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Planetary government, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Richard_E_Warren/The_Melchizedek_Mission_Salvaging_Truth">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Melchizedek Mission: Salvaging Truth</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Misión de Melquisedec: Salvando la Verdad</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2021 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Chuck_Thurston/Teachings_of_the_Salem_Missionaries">
-          <span class="pr-2">Teachings of the Salem Missionaries</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Enseñanzas de los Misioneros de Salem</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
@@ -96,23 +97,25 @@ Estas personalidades seleccionadas están exentas del régimen de ascensión por
 </figure>
 
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Richard_E_Warren/The_Melchizedek_Mission_Salvaging_Truth">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Melchizedek Mission: Salvaging Truth</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Misión de Melquisedec: Salvando la Verdad</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2021 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Chuck_Thurston/Teachings_of_the_Salem_Missionaries">
-          <span class="pr-2">Teachings of the Salem Missionaries</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Enseñanzas de los Misioneros de Salem</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

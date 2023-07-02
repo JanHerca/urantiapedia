@@ -1,6 +1,6 @@
 ---
 title: "Subcomité Latinoamérica Ferias y Eventos del Libro 2023"
-description: "The Mighty Messenger — Número de primavera de 2023: noticias y opiniones para los lectores de El libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2023: noticias y opiniones para los lectores de El libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Urantia Movement Event, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Bobbie_Dreier/Memories_of_International_Conferences">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Memories of International Conferences</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Memorias de Congresos Internacionales</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2023 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Urantia_Book_Fellowship_International_Conference_2023">
-          <span class="pr-2">Urantia Book Fellowship International Conference 2023 (IC23)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Conferencia Internacional Urantia Book Fellowship 2023 (IC23)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 **El Comité Internacional de Becas de Urantia Book Fellowship** [^1]
@@ -60,23 +61,25 @@ Diciembre (fechas por anunciar) | Quito, Ecuador | Gabriel Pino | galepino@yahoo
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Bobbie_Dreier/Memories_of_International_Conferences">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Memories of International Conferences</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Memorias de Congresos Internacionales</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2023 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Urantia_Book_Fellowship_International_Conference_2023">
-          <span class="pr-2">Urantia Book Fellowship International Conference 2023 (IC23)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Conferencia Internacional Urantia Book Fellowship 2023 (IC23)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

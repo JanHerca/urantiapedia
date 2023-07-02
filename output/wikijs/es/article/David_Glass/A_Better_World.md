@@ -1,6 +1,6 @@
 ---
 title: "Un mundo mejor"
-description: "The Mighty Messenger — Número de primavera de 2023: noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2023: noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Poetry, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Urantia_Book_Fellowship_International_Conference_2023">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Book Fellowship International Conference 2023 (IC23)</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia Internacional Urantia Book Fellowship 2023 (IC23)</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2023 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Chuck_Thurston/Photo_of_Mural_Tonantzin_Renace">
-          <span class="pr-2">Photo of Mural «Tonantzin Renace»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Foto del Mural «Tonantzin Renace»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 por _David Glass_
@@ -64,23 +65,25 @@ Es un mundo mejor el que estás haciendo.<br>
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Urantia_Book_Fellowship_International_Conference_2023">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Book Fellowship International Conference 2023 (IC23)</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia Internacional Urantia Book Fellowship 2023 (IC23)</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2023 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Chuck_Thurston/Photo_of_Mural_Tonantzin_Renace">
-          <span class="pr-2">Photo of Mural «Tonantzin Renace»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Foto del Mural «Tonantzin Renace»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

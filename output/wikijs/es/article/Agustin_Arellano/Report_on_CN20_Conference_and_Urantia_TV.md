@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Joy_Brandt/CN20_Conference">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">CN20 Conference</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia CN20</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Dolores_Nice/Travels_with_the_Urantia_Book">
-          <span class="pr-2">Travels with the Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Viajes con el Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
@@ -102,23 +103,25 @@ el domingo 23 de agosto
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Joy_Brandt/CN20_Conference">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">CN20 Conference</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia CN20</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Dolores_Nice/Travels_with_the_Urantia_Book">
-          <span class="pr-2">Travels with the Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Viajes con el Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

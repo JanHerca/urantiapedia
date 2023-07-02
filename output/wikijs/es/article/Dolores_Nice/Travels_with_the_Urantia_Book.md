@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Agustin_Arellano/Report_on_CN20_Conference_and_Urantia_TV">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Report on CN20 Conference and Urantia TV</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe sobre la Conferencia CN20 y Urantia TV</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Sue_Snider_Seccombe/Organizational_Guidance_Committee_Report">
-          <span class="pr-2">Organizational Guidance Committee Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Informe del Comité de Orientación Organizacional</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
@@ -69,23 +70,25 @@ Estos viajes me han dado la oportunidad de conocer a muchos lectores y la capaci
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Agustin_Arellano/Report_on_CN20_Conference_and_Urantia_TV">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Report on CN20 Conference and Urantia TV</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe sobre la Conferencia CN20 y Urantia TV</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Sue_Snider_Seccombe/Organizational_Guidance_Committee_Report">
-          <span class="pr-2">Organizational Guidance Committee Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Informe del Comité de Orientación Organizacional</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

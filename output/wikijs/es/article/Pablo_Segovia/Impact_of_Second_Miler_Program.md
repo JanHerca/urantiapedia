@@ -1,6 +1,6 @@
 ---
 title: "Impacto del programa «La Segunda Milla»"
-description: "The Mighty Messenger — Número de primavera de 2021: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2021: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Jena_Lassiter_and_Brent_St_Denis/The_Second_Miler_Program">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Second Miler Program</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El programa «La Segunda Milla»</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2021 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Upcoming_Publications_Themes_and_Deadlines_2021">
-          <span class="pr-2">Upcoming Publications Themes and Deadlines 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Próximas Publicaciones Temas y Plazos 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
@@ -128,23 +129,25 @@ Estamos muy entusiasmados con el crecimiento de nuestros grupos de lectores lati
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Jena_Lassiter_and_Brent_St_Denis/The_Second_Miler_Program">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Second Miler Program</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El programa «La Segunda Milla»</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2021 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Upcoming_Publications_Themes_and_Deadlines_2021">
-          <span class="pr-2">Upcoming Publications Themes and Deadlines 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Próximas Publicaciones Temas y Plazos 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

@@ -14,24 +14,19 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2001_Spring">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Primavera 2001</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2001 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2001-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Verano 2001 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2002_Spring">
-          <span class="pr-2">Primavera 2002</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 <u>Conferencia Internacional 2002</u>
 
@@ -209,24 +204,20 @@ sitio web: http://www.ubfellowship.org
 * Boletín en Urantia Book Historical Society: https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
 
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2001_Spring">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Primavera 2001</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2001 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2001-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Verano 2001 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2002_Spring">
-          <span class="pr-2">Primavera 2002</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>

@@ -1,6 +1,6 @@
 ---
 title: "Saludo de Abraham"
-description: "The Mighty Messenger — Número de primavera de 2021: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2021: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Poetry, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Chuck_Thurston/Teachings_of_the_Salem_Missionaries">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Teachings of the Salem Missionaries</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Enseñanzas de los Misioneros de Salem</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2021 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Pato_Banton/The_Urantia_Book_is_Not_a_Cult">
-          <span class="pr-2">The Urantia Book is Not a Cult</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">El libro de Urantia no es una secta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -69,23 +70,25 @@ Duane Johnson, Topeka, Kansas
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/022.jpg">
 </figure>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Chuck_Thurston/Teachings_of_the_Salem_Missionaries">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Teachings of the Salem Missionaries</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Enseñanzas de los Misioneros de Salem</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2021 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Pato_Banton/The_Urantia_Book_is_Not_a_Cult">
-          <span class="pr-2">The Urantia Book is Not a Cult</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">El libro de Urantia no es una secta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

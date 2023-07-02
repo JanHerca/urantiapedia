@@ -1,6 +1,6 @@
 ---
 title: "Nuestra peregrinación a la Tierra Santa de Jesús"
-description: "The Mighty Messenger — Número de primavera de 2019: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2019: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Jesus' places, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/David_Glass/United_Nations_Day">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">United Nations Day</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Día de las Naciones Unidas</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2019-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2019 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Tom_Choquette/A_Vision">
-          <span class="pr-2">A Vision</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Una vision</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 ## Jackie Koury
@@ -107,23 +108,25 @@ Todas y cada una de estas piedras siguen cantando (si prestas atención, las oir
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/David_Glass/United_Nations_Day">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">United Nations Day</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Día de las Naciones Unidas</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2019-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2019 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Tom_Choquette/A_Vision">
-          <span class="pr-2">A Vision</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Una vision</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

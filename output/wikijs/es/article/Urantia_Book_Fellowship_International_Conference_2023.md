@@ -1,6 +1,6 @@
 ---
 title: "Conferencia Internacional de la Fellowship de El Libro de Urantia 2023 (IC23)"
-description: "The Mighty Messenger — Número de primavera de 2023: noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2023: noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Urantia Movement Event, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Latin_America_Sub_Committee_Book_Fairs_Events_2023">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Latin America Sub Committee Book Fairs and Events 2023</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Subcomité Latinoamérica Ferias y Eventos del Libro 2023</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2023 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/David_Glass/A_Better_World">
-          <span class="pr-2">A Better World</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Un mundo mejor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia imagen-estilo-alineación-derecha">
@@ -56,23 +57,25 @@ Por favor planee unirse a nosotros para esta maravillosa reunión familiar (cós
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Latin_America_Sub_Committee_Book_Fairs_Events_2023">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Latin America Sub Committee Book Fairs and Events 2023</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Subcomité Latinoamérica Ferias y Eventos del Libro 2023</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2023 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/David_Glass/A_Better_World">
-          <span class="pr-2">A Better World</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Un mundo mejor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

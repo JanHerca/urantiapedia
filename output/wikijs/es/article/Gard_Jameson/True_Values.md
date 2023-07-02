@@ -1,6 +1,6 @@
 ---
 title: "Valores verdaderos: fuentes de percepción reveladora: una meditación sobre el autor humano Ralph Tyler Flewelling: segunda parte"
-description: "The Mighty Messenger — Número especial de 2022: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición especial de 2022: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: The Urantia Book—Authorship, Source authors, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Gard_Jameson/Discourse_on_Reality">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Discourse on Reality</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Discurso sobre la realidad</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#special-2022-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#número-especial-de-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número especial de 2022 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Gard_Jameson/Good_and_Evil">
-          <span class="pr-2">Good and Evil</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">El bien y el mal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 por _Gard Jameson_
@@ -121,23 +122,25 @@ El pensamiento final con respecto a esta reflexión es animar al lector a *ver* 
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Gard_Jameson/Discourse_on_Reality">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Discourse on Reality</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Discurso sobre la realidad</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#special-2022-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#número-especial-de-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número especial de 2022 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Gard_Jameson/Good_and_Evil">
-          <span class="pr-2">Good and Evil</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">El bien y el mal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

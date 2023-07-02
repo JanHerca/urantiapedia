@@ -16,19 +16,17 @@ dateCreated: 2021-11-28T14:02:03.086Z
         <td>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-1997-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Verano 1997 — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 1997 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1997_Fall">
-          <span class="pr-2">Otoño 1997</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 ## La primera sociedad entretiene a los ángeles  
 
@@ -187,22 +185,19 @@ Se hizo una propuesta para buscar un alto el fuego religioso de 24 horas el 31 d
 * Boletín en la Fellowship de _El Libro de Urantia_: https://archive.urantiabook.org/archive/newsletters/mmsu97.htm
 
 
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 1997 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-1997-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Verano 1997 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1997_Fall">
-          <span class="pr-2">Otoño 1997</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>

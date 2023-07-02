@@ -1,6 +1,6 @@
 ---
 title: "El Parlamento de las Religiones del Mundo"
-description: "The Mighty Messenger — Número de otoño de 2018: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de otoño de 2018: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
 tags: Interfaith, Mighty Messenger, article
@@ -16,19 +16,20 @@ dateCreated: 2021-11-28T14:02:03.086Z
         <td>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2018 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/David_Linthicum/Parliament_Booth_Guidelines">
-          <span class="pr-2">Parliament Booth Guidelines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Consejos para el puesto informativo del Parlamento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 **1-7 de noviembre de 2018 en Toronto**
 
@@ -129,6 +130,7 @@ Cristina Seaborn
 
 <br>
 
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -136,13 +138,13 @@ Cristina Seaborn
         <td>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2018-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2018 — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2018 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/David_Linthicum/Parliament_Booth_Guidelines">
-          <span class="pr-2">Parliament Booth Guidelines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Consejos para el puesto informativo del Parlamento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

@@ -1,6 +1,6 @@
 ---
 title: "Trucos y consejos web de Urantia Book Fellowship"
-description: "The Mighty Messenger — Número de primavera de 2020: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2020: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Graduation_Memorial_Page">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Graduation Memorial Page</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Página conmemorativa de la graduación</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Upcoming_Publication_Deadlines">
-          <span class="pr-2">Upcoming Publication Deadlines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Próximos plazos de publicación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 por _Jena Lassiter_, UrantiaBook.org
@@ -89,23 +90,25 @@ _El Libro de Urantia_ Equipo del sitio web de la Fraternidad
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Graduation_Memorial_Page">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Graduation Memorial Page</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Página conmemorativa de la graduación</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Upcoming_Publication_Deadlines">
-          <span class="pr-2">Upcoming Publication Deadlines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Próximos plazos de publicación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

@@ -1,6 +1,6 @@
 ---
 title: "Informe de Pipeline of Light"
-description: "The Mighty Messenger — Número de primavera de 2021: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2021: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Tom_Choquette/The_Will_of_God">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Will of God</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La voluntad de Dios</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2021 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Michael_Hill/Inmate_Correspondence_Program_2021_Spring">
-          <span class="pr-2">Inmate Correspondence Program</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Programa de correspondencia para reclusos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 Durante los últimos seis meses, nuestros voluntarios de Pipeline of Light colocaron mil trescientos cuarenta y ocho ejemplares de _El Libro de Urantia_ en diecisiete países. Sus donaciones a Pipeline nos ayudaron a entregar libros a lectores y grupos de estudio en México, Zimbabue, Canadá, Estados Unidos, Ucrania, Chile, Alemania, Camerún, Argentina, Filipinas, Bermudas, Nueva Zelanda, Ghana, Brasil, Nigeria, Venezuela , Uganda y Puerto Rico.
@@ -56,23 +57,25 @@ _El Libro de Urantia_ Fellowship, PO Box 6631, Broomfield, CO 80021
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Tom_Choquette/The_Will_of_God">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Will of God</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La voluntad de Dios</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2021 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Michael_Hill/Inmate_Correspondence_Program_2021_Spring">
-          <span class="pr-2">Inmate Correspondence Program</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Programa de correspondencia para reclusos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

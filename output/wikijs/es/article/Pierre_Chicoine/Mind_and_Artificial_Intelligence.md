@@ -1,6 +1,6 @@
 ---
 title: "Mente e Inteligencia Artificial"
-description: "The Mighty Messenger — Número de primavera de 2020: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2020: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Mind, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Chuck_Thurston/Burning_Man_AI">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Burning Man AI</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hombre Ardiente IA</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Larry_Bowman/New_GC_and_EC_Members">
-          <span class="pr-2">New GC and EC Members</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Nuevos miembros de GC y EC</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
@@ -88,23 +89,25 @@ Para obtener una descripción de lo que la IA hará por el mundo y cómo la IA *
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Chuck_Thurston/Burning_Man_AI">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Burning Man AI</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hombre Ardiente IA</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Larry_Bowman/New_GC_and_EC_Members">
-          <span class="pr-2">New GC and EC Members</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Nuevos miembros de GC y EC</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Claudia_Ayers/Try_a_Little_Faithfulness">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Try a Little Faithfulness</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prueba un poco de fidelidad</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2022-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2022 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Richard_Rosen/Twelve_Ways_I_Hear_from_God_2">
-          <span class="pr-2">Twelve Ways I Hear from God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Doce maneras en que escucho de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
@@ -68,23 +69,25 @@ Tome nota: no existe una vacuna conocida y ninguna píldora diseñada para fomen
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Claudia_Ayers/Try_a_Little_Faithfulness">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Try a Little Faithfulness</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Prueba un poco de fidelidad</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2022-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2022 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Richard_Rosen/Twelve_Ways_I_Hear_from_God_2">
-          <span class="pr-2">Twelve Ways I Hear from God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Doce maneras en que escucho de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

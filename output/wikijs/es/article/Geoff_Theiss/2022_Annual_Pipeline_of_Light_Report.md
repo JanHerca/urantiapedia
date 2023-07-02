@@ -1,6 +1,6 @@
 ---
 title: "Informe anual de Pipeline of Light 2022"
-description: "The Mighty Messenger — Número de primavera de 2023: noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2023: noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Aprilhelen/The_First_Urantia_Book_Conference_in_Uganda">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The First Urantia Book Conference in Uganda: A Personal Account</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Primera Conferencia del Libro de Urantia en Uganda: Una Visión Personal</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2023 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Duane_Johnson/Urantia_Poets_to_Publish_Book">
-          <span class="pr-2">Urantia Poets to Publish Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Poetas de Urantia publicarán libro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
@@ -76,23 +77,25 @@ Agradecemos profundamente las contribuciones de nuestros
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Aprilhelen/The_First_Urantia_Book_Conference_in_Uganda">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The First Urantia Book Conference in Uganda: A Personal Account</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Primera Conferencia del Libro de Urantia en Uganda: Una Visión Personal</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2023 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Duane_Johnson/Urantia_Poets_to_Publish_Book">
-          <span class="pr-2">Urantia Poets to Publish Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Poetas de Urantia publicarán libro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

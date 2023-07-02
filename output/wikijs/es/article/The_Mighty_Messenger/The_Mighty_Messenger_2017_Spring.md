@@ -1,5 +1,5 @@
 ---
-title: "The Mighty Messenger — Número de primavera de 2017"
+title: "The Mighty Messenger — Edición de primavera de 2017"
 description: "Noticias y opiniones para lectores de El Libro de Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -14,24 +14,19 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2016_Fall">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Otoño 2016</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2017 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2017-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2017 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2017_Fall">
-          <span class="pr-2">Otoño 2017</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 ## Conferencia Internacional 2017
 
@@ -337,24 +332,20 @@ www.urantiabook.org
 
 
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2016_Fall">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Otoño 2016</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2017 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2017-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2017 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2017_Fall">
-          <span class="pr-2">Otoño 2017</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>

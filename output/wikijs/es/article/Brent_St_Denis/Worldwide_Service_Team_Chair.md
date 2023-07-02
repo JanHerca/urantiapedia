@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Pipeline_of_Light">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pipeline of Light</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El proyecto «Pipeline of Light»</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2019 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Geoff_Taylor/Interfaith_Committee_Chair">
-          <span class="pr-2">Interfaith Committee Chair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Presidente del Comité Interreligioso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia imagen-estilo-alineación-derecha">
@@ -69,23 +70,25 @@ Todos estamos comenzando a prepararnos para el presupuesto de becas de 2020, que
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Pipeline_of_Light">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pipeline of Light</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El proyecto «Pipeline of Light»</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2019 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Geoff_Taylor/Interfaith_Committee_Chair">
-          <span class="pr-2">Interfaith Committee Chair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Presidente del Comité Interreligioso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

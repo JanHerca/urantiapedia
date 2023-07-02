@@ -15,12 +15,12 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Joshua_J_Wilson/Praise_to_the_Mother_All_Loving">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Praise to the Mother All Loving</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Alabanza a la Madre Todo Amorosa</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2019 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2019 — Índice</span>
         </a>
         </td>
         <td>
@@ -29,6 +29,7 @@ dateCreated: 2023-6-21T8:13:38Z
     </tbody>
   </table>
 </figure>
+
 
 
 ## Próximos Eventos
@@ -64,18 +65,21 @@ www.urantiabook.org
 
 <br>
 
+
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Joshua_J_Wilson/Praise_to_the_Mother_All_Loving">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Praise to the Mother All Loving</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Alabanza a la Madre Todo Amorosa</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2019 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2019 — Índice</span>
         </a>
         </td>
         <td>

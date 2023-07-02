@@ -1,6 +1,6 @@
 ---
 title: "Directorio de grupos de estudio de El Libro de Urantia"
-description: "The Mighty Messenger — Número de primavera de 2020: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2020: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Larry_Bowman/New_GC_and_EC_Members">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">New GC and EC Members</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuevos miembros de GC y EC</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Stevie_Shaefer/Commonality_Among_Faiths">
-          <span class="pr-2">Commonality Among Faiths</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Puntos en común entre las religiones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 _El Directorio de grupos de estudio de El libro de Urantia_ recientemente superó el mayor número de listados agregados en un solo año desde 2011. Se agregaron un total de 68 nuevos grupos en 2019. Esto es más del doble de la cantidad de nuevos grupos agregados en 2018. El Directorio de grupos de estudio continúa creciendo a medida que lectores de más de 55 países han encontrado el Directorio y agregado la información de su grupo de estudio. Al cierre de 2019, el Directorio contaba con un total de 463 grupos de estudio.
@@ -84,23 +85,25 @@ Directorio de grupos de estudio de El libro de Urantia Equipo administrativo
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Larry_Bowman/New_GC_and_EC_Members">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">New GC and EC Members</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuevos miembros de GC y EC</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Stevie_Shaefer/Commonality_Among_Faiths">
-          <span class="pr-2">Commonality Among Faiths</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Puntos en común entre las religiones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

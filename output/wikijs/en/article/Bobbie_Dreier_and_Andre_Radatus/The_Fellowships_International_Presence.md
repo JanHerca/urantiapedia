@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Bobbie Dreier and André Radatus<br>© 2023 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sue_Snider_Seccombe/Once_Distant_Lands">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Once-Distant Lands</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2023-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mora_Franco/Grand_World_Celebration_Anniversary_Birth_Jesus">
+          <span class="pr-2">Grand World Celebration of the Anniversary of the Birth of Jesus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -53,3 +77,28 @@ If so, and if you have the desire to serve the growing globalization of _The Ura
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sue_Snider_Seccombe/Once_Distant_Lands">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Once-Distant Lands</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_mighty_messenger#summer-2023-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mora_Franco/Grand_World_Celebration_Anniversary_Birth_Jesus">
+          <span class="pr-2">Grand World Celebration of the Anniversary of the Birth of Jesus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

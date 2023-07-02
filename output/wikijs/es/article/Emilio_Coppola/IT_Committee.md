@@ -15,23 +15,25 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Jena_Lassiter/Web_Content_Committee">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Web Content Committee</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comité de contenido web</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2019 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Paula_Thompson_and_Derek_Samaras/Office_Report_2019">
-          <span class="pr-2">Office Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Informe de oficina</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
+
 
 
 El Comité de TI «ad-hoc» (*) está compuesto por diversos miembros (consulte los miembros enumerados a continuación) para ayudar a guiar y asesorar al EC con las necesidades generales de TI de la organización. El propósito de este Comité es guiar e implementar soluciones de «Tecnología» para _The Urantia Book_ Fellowship. Ha habido un segundo comité «ad-hoc» (presidido por Dana Bredemeyer) para abordar el «Contenido», así como la apariencia general (funcionalidad) del sitio web.
@@ -60,23 +62,25 @@ Es mi deseo que, como enlace de EC, continúe liderando el equipo de consultores
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Jena_Lassiter/Web_Content_Committee">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Web Content Committee</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comité de contenido web</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2019 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Paula_Thompson_and_Derek_Samaras/Office_Report_2019">
-          <span class="pr-2">Office Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Informe de oficina</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

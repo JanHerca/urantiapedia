@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/First_Meeting_of_the_Urantia_Uganda">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">First Meeting of the Urantia Uganda August 2020 Planning Committee</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Primera reunión del Comité de planificación de Urantia Uganda, agosto de 2020</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2019 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2019_Fall_Endpage">
-          <span class="pr-2">End page</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Página final</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 letra adaptada de Joshua Wilson, 2019
@@ -69,23 +70,25 @@ _Traducción al inglés de Catherine Winkworth, 1863_
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/First_Meeting_of_the_Urantia_Uganda">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">First Meeting of the Urantia Uganda August 2020 Planning Committee</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Primera reunión del Comité de planificación de Urantia Uganda, agosto de 2020</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2019 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2019_Fall_Endpage">
-          <span class="pr-2">End page</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Página final</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

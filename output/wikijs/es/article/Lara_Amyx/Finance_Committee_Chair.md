@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Summer_Study_Session_2019_Fall">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Summer Study Session</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sesión de estudio de verano</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2019 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Michael_Challis/Media_and_Communications_Service_Team_Chair">
-          <span class="pr-2">Media and Communications Service Team Chair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Presidente del Equipo del Servicio de Medios y Comunicaciones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
@@ -65,23 +66,25 @@ Muchas gracias por su apoyo. ¡No podríamos hacerlo sin ti!
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Summer_Study_Session_2019_Fall">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Summer Study Session</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sesión de estudio de verano</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2019 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2019 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Michael_Challis/Media_and_Communications_Service_Team_Chair">
-          <span class="pr-2">Media and Communications Service Team Chair</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Presidente del Equipo del Servicio de Medios y Comunicaciones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

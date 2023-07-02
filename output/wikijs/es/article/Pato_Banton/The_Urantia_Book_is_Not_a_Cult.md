@@ -1,6 +1,6 @@
 ---
 title: "El Libro de Urantia no es una secta"
-description: "The Mighty Messenger — Número de primavera de 2021: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2021: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: The Urantia Book, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Duane_Johnson/Abrahams_Salute">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Abraham's Salute</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Saludo de Abrahán</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2021 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Stuart_R_Kerr_III/Machiventa_Melchizedek">
-          <span class="pr-2">Machiventa Melchizedek</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Maquiventa Melquisedec</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
@@ -78,23 +79,25 @@ Los urantianos creen que Jesús es el camino, la verdad y la vida, pero también
 
 El Movimiento Urantia no es una secta en el sentido negativo de esa palabra. Pero si somos una nueva secta con un millón de personas estudiando tranquilamente en la comodidad de sus propios hogares, muchos de nosotros no seremos activados hasta que Jesucristo, nuestro líder de la secta, regrese personalmente a este mundo o envíe a uno de Sus representantes (como se revela en _El Libro de Urantia_) para unir a todas las personas y hacer que este mundo se parezca más al Cielo. ¡Más cerca de Luz y Vida!
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Duane_Johnson/Abrahams_Salute">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Abraham's Salute</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Saludo de Abrahán</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2021 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Stuart_R_Kerr_III/Machiventa_Melchizedek">
-          <span class="pr-2">Machiventa Melchizedek</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Maquiventa Melquisedec</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

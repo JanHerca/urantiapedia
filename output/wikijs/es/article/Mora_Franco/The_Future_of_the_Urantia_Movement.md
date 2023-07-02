@@ -1,6 +1,6 @@
 ---
 title: "El futuro del Movimiento Urantia: ¡Jóvenes a la vista!"
-description: "The Mighty Messenger — Número de primavera de 2023: noticias y opiniones para los lectores de El libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2023: noticias y opiniones para los lectores de El libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Urantia Movement, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Duane_Johnson/Urantia_Poets_to_Publish_Book">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Poets to Publish Book</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Poetas de Urantia publicarán libro</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2023 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Stephen_Sawyer/Artwork">
-          <span class="pr-2">Artwork</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Obra de arte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
@@ -140,23 +141,25 @@ Cerramos este artículo con las palabras de la propia Andrea:
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Duane_Johnson/Urantia_Poets_to_Publish_Book">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Poets to Publish Book</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Poetas de Urantia publicarán libro</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2023 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Stephen_Sawyer/Artwork">
-          <span class="pr-2">Artwork</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Obra de arte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

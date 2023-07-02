@@ -1,6 +1,6 @@
 ---
 title: "Poetas de Urantia publicarán un libro"
-description: "The Mighty Messenger — Número de primavera de 2023: noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2023: noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Poetry, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Geoff_Theiss/2022_Annual_Pipeline_of_Light_Report">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2022 Annual Pipeline of Light Report</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe anual de Pipeline of Light 2022</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2023 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Mora_Franco/The_Future_of_the_Urantia_Movement">
-          <span class="pr-2">The Future of the Urantia Movement—Young People in Sight!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">El futuro del Movimiento Urantia: ¡Jóvenes a la vista!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -74,23 +75,25 @@ Si desea reservar una copia de _Sailing to Salvington_, envíe su pedido a Duane
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Geoff_Theiss/2022_Annual_Pipeline_of_Light_Report">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2022 Annual Pipeline of Light Report</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe anual de Pipeline of Light 2022</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2023 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Mora_Franco/The_Future_of_the_Urantia_Movement">
-          <span class="pr-2">The Future of the Urantia Movement—Young People in Sight!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">El futuro del Movimiento Urantia: ¡Jóvenes a la vista!</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

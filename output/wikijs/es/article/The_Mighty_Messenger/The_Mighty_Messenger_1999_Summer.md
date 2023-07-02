@@ -14,24 +14,19 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1998_Fall_Winter">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Otoño/Winter 1998</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 1999 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-1999-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Verano 1999 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1999_Fall">
-          <span class="pr-2">Otoño 1999</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 ## Una gran cantidad de actividades te esperan en Spiritquest 2000
@@ -205,24 +200,19 @@ Teléfono: 773-327-0424. Fax: 713-327-6159 Correo electrónico: Fellowship@urant
 * Boletín en Urantia Book Historical Society: https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
 
 
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1998_Fall_Winter">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Otoño/Winter 1998</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 1999 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-1999-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Verano 1999 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1999_Fall">
-          <span class="pr-2">Otoño 1999</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>

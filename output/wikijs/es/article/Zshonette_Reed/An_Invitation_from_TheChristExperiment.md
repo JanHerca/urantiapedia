@@ -15,23 +15,25 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Pablo_Segovia/Spanish_Outreach_Committee_Report">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spanish Outreach Committee Report</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe del Comité de Divulgación en Español</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Spirit_of_Truth_Angie_Thurston_Interview">
-          <span class="pr-2">Spirit of Truth - Angie Thurston Interview</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Espíritu de la verdad - Entrevista a Angie Thurston</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
+
 
 
 por _Zshonette Reed_
@@ -72,23 +74,26 @@ AnointedJW - Un ministerio diseñado para edificar a los Testigos de Jehová - [
 
 <br>
 
+
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Pablo_Segovia/Spanish_Outreach_Committee_Report">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spanish Outreach Committee Report</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe del Comité de Divulgación en Español</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Spirit_of_Truth_Angie_Thurston_Interview">
-          <span class="pr-2">Spirit of Truth - Angie Thurston Interview</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Espíritu de la verdad - Entrevista a Angie Thurston</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

@@ -14,24 +14,19 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1998_Summer">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Verano 1998</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño/invierno-de-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño/invierno de 1998 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-winter-1998-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño/Winter 1998 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1999_Summer">
-          <span class="pr-2">Verano 1999</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 ## ¿Cómo va la Iniciativa de la Unidad?
 
@@ -143,24 +138,19 @@ Miembros: Avi Dogim, presidenta Nancy Johnson, Carolyn Kendall, Linda Buselli, S
 * Boletín en Urantia Book Historical Society: https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
 
 
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1998_Summer">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Verano 1998</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño/invierno-de-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño/invierno de 1998 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-winter-1998-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño/Winter 1998 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1999_Summer">
-          <span class="pr-2">Verano 1999</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>

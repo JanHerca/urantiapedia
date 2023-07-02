@@ -16,19 +16,20 @@ dateCreated: 2023-6-21T8:13:38Z
         <td>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2019 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2019 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Geoff_Theiss/Letter_from_the_President">
-          <span class="pr-2">Letter from the President</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Carta del presidente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -59,6 +60,9 @@ campo de escoba,
 
 <br>
 
+
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -66,13 +70,13 @@ campo de escoba,
         <td>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2019-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Otoño 2019 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2019 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Geoff_Theiss/Letter_from_the_President">
-          <span class="pr-2">Letter from the President</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Carta del presidente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

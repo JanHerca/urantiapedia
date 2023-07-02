@@ -1,6 +1,6 @@
 ---
 title: "Los diarios de Urantia de Harold y Martha Sherman"
-description: "The Mighty Messenger — Número de primavera de 2019: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2019: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: History of Urantia Movement, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Pato_Banton_and_Antoinette_Hall/Our_Experience_at_the_Parliament_of_Worlds_Religions">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Experience at the Parliament of World’s Religions</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestra experiencia en el Parlamento de las Religiones del Mundo 2018</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2019-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2019 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/David_Glass/United_Nations_Day">
-          <span class="pr-2">United Nations Day</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Día de las Naciones Unidas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 
@@ -67,23 +68,25 @@ Confío en que las generaciones futuras, viéndolas desde una perspectiva objeti
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Pato_Banton_and_Antoinette_Hall/Our_Experience_at_the_Parliament_of_Worlds_Religions">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Our Experience at the Parliament of World’s Religions</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuestra experiencia en el Parlamento de las Religiones del Mundo 2018</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2019-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2019 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/David_Glass/United_Nations_Day">
-          <span class="pr-2">United Nations Day</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Día de las Naciones Unidas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

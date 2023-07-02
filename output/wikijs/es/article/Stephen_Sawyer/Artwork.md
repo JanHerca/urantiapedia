@@ -1,6 +1,6 @@
 ---
 title: "Obra de arte"
-description: "The Mighty Messenger — Número de primavera de 2023: noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2023: noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Art, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Mora_Franco/The_Future_of_the_Urantia_Movement">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Future of the Urantia Movement—Young People in Sight!</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El futuro del Movimiento Urantia: ¡Jóvenes a la vista!</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2023 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Chuck_Thurston/Sea_of_Galilee_photo">
-          <span class="pr-2">Sea of Galilee photo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Foto del mar de Galilea</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 Los esfuerzos incansables de Cristina Seaborn en las publicaciones siempre me han inspirado a servir más.
@@ -77,23 +78,25 @@ Steve Sawyer
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Mora_Franco/The_Future_of_the_Urantia_Movement">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Future of the Urantia Movement—Young People in Sight!</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El futuro del Movimiento Urantia: ¡Jóvenes a la vista!</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2023 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Chuck_Thurston/Sea_of_Galilee_photo">
-          <span class="pr-2">Sea of Galilee photo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Foto del mar de Galilea</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

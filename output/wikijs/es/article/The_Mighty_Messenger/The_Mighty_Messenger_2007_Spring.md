@@ -14,24 +14,19 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2006_Fall">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Otoño 2006</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2007 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2007-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2007 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2007_Winter">
-          <span class="pr-2">Invierno 2007</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 ## ¡Abrace la ciudadanía cósmica!
 
@@ -164,24 +159,19 @@ www.urantiabook.org
 * Boletín en Urantia Book Historical Society: https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
 
 
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2006_Fall">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Otoño 2006</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2007 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2007-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2007 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2007_Winter">
-          <span class="pr-2">Invierno 2007</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>

@@ -1,6 +1,6 @@
 ---
 title: "El bien y el mal: fuentes de percepción reveladora: una meditación sobre el autor humano Ralph Tyler Flewelling: tercera parte"
-description: "The Mighty Messenger — Número especial de 2022: Noticias y opiniones para los lectores de El libro de Urantia"
+description: "The Mighty Messenger — Edición especial de 2022: Noticias y opiniones para los lectores de El libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: The Urantia Book—Authorship, Source authors, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Gard_Jameson/True_Values">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">True Values</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Valores verdaderos</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#special-2022-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#número-especial-de-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número especial de 2022 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Gard_Jameson/Truth_and_Faith">
-          <span class="pr-2">Truth and Faith</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Verdad y fe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 por _Gard Jameson_
@@ -207,23 +208,25 @@ Nuestra voluntad moral está indisolublemente ligada a la idea de ser *persona*;
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Gard_Jameson/True_Values">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">True Values</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Valores verdaderos</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#special-2022-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Special 2022 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#número-especial-de-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número especial de 2022 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Gard_Jameson/Truth_and_Faith">
-          <span class="pr-2">Truth and Faith</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Verdad y fe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

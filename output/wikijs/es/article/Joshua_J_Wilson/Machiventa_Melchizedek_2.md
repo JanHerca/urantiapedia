@@ -1,6 +1,6 @@
 ---
 title: "Maquiventa Melquisedec"
-description: "The Mighty Messenger — Número de primavera de 2021: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2021: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Machiventa, Epochal Revelations, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/David_Kulieke/Virtual_Summer_Study_Session">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Virtual Summer Study Session</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sesión de estudio virtual de verano</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2021 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Jena_Lassiter_and_Brent_St_Denis/The_Second_Miler_Program">
-          <span class="pr-2">The Second Miler Program</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">El programa «La Segunda Milla»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 Este artículo es una reedición del mismo artículo en [Mighty Messenger — Spring 1019 Issue](/es/article/Joshua_J_Wilson/Machiventa_Melchizedek).
@@ -42,23 +43,25 @@ Este artículo es una reedición del mismo artículo en [Mighty Messenger — Sp
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/David_Kulieke/Virtual_Summer_Study_Session">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Virtual Summer Study Session</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sesión de estudio virtual de verano</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2021 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Jena_Lassiter_and_Brent_St_Denis/The_Second_Miler_Program">
-          <span class="pr-2">The Second Miler Program</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">El programa «La Segunda Milla»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

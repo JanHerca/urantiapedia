@@ -14,24 +14,19 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1998_Spring">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Primavera 1998</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 1998 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-1998-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Verano 1998 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1998_Fall_Winter">
-          <span class="pr-2">Otoño/Winter 1998</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 ## El Consejo General se reúne en DC y adopta el nuevo nombre de la Fellowship
 
@@ -130,24 +125,19 @@ Publicado trimestralmente por Uversa Press para el Comité de Publicaciones de _
 * Boletín en la Fellowship de _El Libro de Urantia_: https://archive.urantiabook.org/archive/newsletters/mmfall97.htm
 
 
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1998_Spring">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Primavera 1998</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 1998 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-1998-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Verano 1998 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1998_Fall_Winter">
-          <span class="pr-2">Otoño/Winter 1998</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>

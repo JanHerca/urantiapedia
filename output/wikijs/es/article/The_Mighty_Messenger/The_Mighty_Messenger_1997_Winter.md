@@ -14,24 +14,19 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1997_Fall">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Verano 1997</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de invierno de 1997 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#winter-1997-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Invierno 1997 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1998_Spring">
-          <span class="pr-2">Primavera 1998</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 ## El Inglés primero
 
@@ -184,24 +179,20 @@ Mo Siegel, vicepresidente de la Fraternidad, y Gard Jameson, presidente del Comi
 * Boletín en la Fellowship de _El Libro de Urantia_: https://archive.urantiabook.org/archive/newsletters/mmfall97.htm
 
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1997_Fall">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Verano 1997</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de invierno de 1997 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#winter-1997-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Invierno 1997 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1998_Spring">
-          <span class="pr-2">Primavera 1998</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>

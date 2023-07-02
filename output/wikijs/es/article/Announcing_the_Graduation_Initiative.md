@@ -1,6 +1,6 @@
 ---
 title: "Anunciando la Iniciativa de Graduación"
-description: "The Mighty Messenger — Número de primavera de 2020: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2020: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/What_Urantia_Experience_vs_Urantia_Conference">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What is a «Urantia Experience» vs. «Urantia Conference?»</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué es una «Experiencia Urantia» frente a una «Conferencia Urantia»?</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Yman_Juran/A_Urantia_in_Second_Life">
-          <span class="pr-2">A Urantia in Second Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Un Urantiano en Second Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -62,23 +63,25 @@ https://urantiabook.org/Memorial-Donaciones
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/What_Urantia_Experience_vs_Urantia_Conference">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What is a «Urantia Experience» vs. «Urantia Conference?»</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué es una «Experiencia Urantia» frente a una «Conferencia Urantia»?</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Yman_Juran/A_Urantia_in_Second_Life">
-          <span class="pr-2">A Urantia in Second Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Un Urantiano en Second Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

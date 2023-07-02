@@ -1,6 +1,6 @@
 ---
 title: "La presencia internacional de la Fellowship"
-description: "The Mighty Messenger — Número de primavera de 2023: noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2023: noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Mighty Messenger, article
@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Bobbie Dreier and André Radatus<br>© 2023 The Urantia Book Fellowship</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sue_Snider_Seccombe/Once_Distant_Lands">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tierras que alguna vez fueron distantes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mora_Franco/Grand_World_Celebration_Anniversary_Birth_Jesus">
+          <span class="pr-2">Gran Celebración Mundial del Aniversario del Nacimiento de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
@@ -53,3 +77,28 @@ Si es así, y si desea servir a la creciente globalización de _El Libro de Uran
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Sue_Snider_Seccombe/Once_Distant_Lands">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tierras que alguna vez fueron distantes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2023 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mora_Franco/Grand_World_Celebration_Anniversary_Birth_Jesus">
+          <span class="pr-2">Gran Celebración Mundial del Aniversario del Nacimiento de Jesús</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

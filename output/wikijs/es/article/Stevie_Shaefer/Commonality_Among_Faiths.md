@@ -1,6 +1,6 @@
 ---
 title: "Proyecto de «comunidad entre religiones» del Comité Interreligioso"
-description: "The Mighty Messenger — Número de primavera de 2020: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2020: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Bahai, Sufism, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Urantia_Book_Study_Group_Directory">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Book Study Group Directory</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Directorio de grupos de estudio de El Libro de Urantia</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/David_Schlundt/Emerging_Communities">
-          <span class="pr-2">Emerging Communities</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Comunidades Emergentes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 por _Stevie Shaefer_
@@ -83,23 +84,25 @@ La práctica monástica sufí enfatiza la disciplina, la pobreza, la abstinencia
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Urantia_Book_Study_Group_Directory">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Book Study Group Directory</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Directorio de grupos de estudio de El Libro de Urantia</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/David_Schlundt/Emerging_Communities">
-          <span class="pr-2">Emerging Communities</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Comunidades Emergentes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

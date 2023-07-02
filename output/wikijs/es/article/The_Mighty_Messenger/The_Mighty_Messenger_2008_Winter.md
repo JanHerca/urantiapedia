@@ -14,24 +14,19 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2008_Spring">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Primavera 2008</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de invierno de 2008 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#winter-2008-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Invierno 2008 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2009_Winter">
-          <span class="pr-2">Invierno 2009</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 ## ¡Oh mi Dios-Consciencia!
@@ -371,24 +366,19 @@ www.urantiabook.org
 * Boletín en la Fellowship de _El Libro de Urantia_: https://archive.urantiabook.org/archive/newsletters/mightymessenger/winter0809.pdf
 
 
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2008_Spring">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Primavera 2008</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de invierno de 2008 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#winter-2008-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Invierno 2008 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2009_Winter">
-          <span class="pr-2">Invierno 2009</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>

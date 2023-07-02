@@ -1,6 +1,6 @@
 ---
 title: "Sesión de estudio de verano de 2019: del jueves 27 de junio al domingo 30 de junio"
-description: "The Mighty Messenger — Número de primavera de 2019: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2019: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Study Groups, Mighty Messenger, article
@@ -16,19 +16,20 @@ dateCreated: 2023-6-21T8:13:38Z
         <td>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2019-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2019 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Dancing_with_God_Retreat_2019">
-          <span class="pr-2">Dancing with God Retreat 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Bailando con Dios: Retiros Espirituales para Mujeres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
@@ -83,6 +84,8 @@ Regístrese en línea en https://www.regonline.com/urantia_fellowship_sss19
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -90,13 +93,13 @@ Regístrese en línea en https://www.regonline.com/urantia_fellowship_sss19
         <td>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2019-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2019 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Dancing_with_God_Retreat_2019">
-          <span class="pr-2">Dancing with God Retreat 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Bailando con Dios: Retiros Espirituales para Mujeres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

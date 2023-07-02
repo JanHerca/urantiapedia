@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Alice_Wood/Urantia_Life_Lessons">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Life Lessons</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lecciones de vida de Urantia</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Ann_Biggs_and_Peter_Laurence/Definition_of_Prayer">
-          <span class="pr-2">Definition of Prayer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Definición de oración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
@@ -83,23 +84,25 @@ Lo primero y más importante es influir en las personas de la comunidad para que
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Alice_Wood/Urantia_Life_Lessons">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Life Lessons</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lecciones de vida de Urantia</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Ann_Biggs_and_Peter_Laurence/Definition_of_Prayer">
-          <span class="pr-2">Definition of Prayer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Definición de oración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

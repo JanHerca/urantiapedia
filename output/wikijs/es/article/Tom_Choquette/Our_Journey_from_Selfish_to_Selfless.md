@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Bill_Cooper/How_Jesus_Taught_Each_Person">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">How Jesus Taught Each Person</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cómo Jesús enseñó a cada persona</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2022-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2022 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Cristina_Seaborn/Will_My_Atheist_Mom_Resurrect_from_the_Dead">
-          <span class="pr-2">Will My Atheist Mom Resurrect from the Dead?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">¿Resucitará mi mamá atea de entre los muertos?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 por _Tom Choquette_
 
@@ -77,23 +78,26 @@ Sabemos, en el fondo de nuestra alma, que debemos amar a todos, perdonar todo y 
 
 <br>
 
+
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Bill_Cooper/How_Jesus_Taught_Each_Person">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">How Jesus Taught Each Person</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cómo Jesús enseñó a cada persona</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2022-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2022 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2022 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Cristina_Seaborn/Will_My_Atheist_Mom_Resurrect_from_the_Dead">
-          <span class="pr-2">Will My Atheist Mom Resurrect from the Dead?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">¿Resucitará mi mamá atea de entre los muertos?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

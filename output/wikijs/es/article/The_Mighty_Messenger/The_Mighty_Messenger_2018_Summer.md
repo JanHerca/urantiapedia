@@ -14,24 +14,19 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2017_Fall">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Otoño 2017</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2018 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2018-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Verano 2018 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Cristina_Seaborn/The_Parliament_of_Worlds_Religions">
-          <span class="pr-2">Otoño 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 ## Es un Universo Amigo: Sirviendo con Nuestra Familia Celestial
 
@@ -358,24 +353,19 @@ www.urantiabook.org
 
 * Boletín en la Fellowship de _El Libro de Urantia_: https://urantiabook.org/Research-Resources?filter=Mighty-M#arc-ArchiveHdr##arc-ArchiveHdr#
 
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2017_Fall">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Otoño 2017</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2018 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#summer-2018-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Verano 2018 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/Cristina_Seaborn/The_Parliament_of_Worlds_Religions">
-          <span class="pr-2">Otoño 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>
