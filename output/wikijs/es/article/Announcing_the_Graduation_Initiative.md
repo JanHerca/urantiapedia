@@ -38,7 +38,7 @@ dateCreated: 2023-6-21T8:13:38Z
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/004.jpg">
 </figure>
 
-> Así como una mariposa emerge de la etapa oruga, así emergerán las verdaderas personalidades de los seres humanos en los mundos de las mansiones, reveladas por primera vez aparte de su antigua mortaja en la carne material._El Libro de Urantia_ [LU 112:6.1]( /es/El_libro_de_Urantia/112#p6_1)
+> Así como una mariposa emerge de la etapa oruga, así emergerán las verdaderas personalidades de los seres humanos en los mundos de las mansiones, reveladas por primera vez aparte de su antigua mortaja en la carne material._El Libro de Urantia_ [LU 112:6.1]( /es/The_Urantia_Book/112#p6_1)
 
 **Para honrar a un ser querido fallecido, considere hacer una donación conmemorativa a la Comunidad.**
 

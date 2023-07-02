@@ -84,7 +84,7 @@ Se pide a los voluntarios que mantengan el stand atractivo y ordenado durante su
 
 ## Métodos de enseñanza de Jesús
 
-> «Nunca atacó sus errores ni siquiera mencionó las fallas en sus enseñanzas. En cada caso, seleccionaría la verdad en lo que enseñaban y luego procedería a embellecer e iluminar esta verdad en sus mentes de tal manera que en muy poco tiempo esta mejora de la verdad efectivamente desplazara el error asociado...» ([LU 132 :0.4](/es/El_libro_de_Urantia/132#p0_4))
+> «Nunca atacó sus errores ni siquiera mencionó las fallas en sus enseñanzas. En cada caso, seleccionaría la verdad en lo que enseñaban y luego procedería a embellecer e iluminar esta verdad en sus mentes de tal manera que en muy poco tiempo esta mejora de la verdad efectivamente desplazara el error asociado...» ([LU 132 :0.4](/es/The_Urantia_Book/132#p0_4))
 
 > «La técnica habitual de contacto social de Jesús era atraer a la gente y hablar con él haciéndoles preguntas. La entrevista generalmente comenzaba haciéndoles preguntas y terminaba haciéndole preguntas a él ... E invariablemente les hablaba a estos mortales angustiados sobre el amor de Dios y les impartía la información, por varios y diversos métodos, de que eran hijos de Dios. este amoroso Padre que está en los cielos.» ([LU 132:4.2](/es/The_Urantia_Book/132#p4_2))
 

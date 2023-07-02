@@ -61,7 +61,7 @@ Desafortunadamente, su mensaje no permaneció del todo permanente en medio de to
 
 C. **Luego, Maquiventa colaboró ​​con muchos profetas y videntes** en la Tierra, invisiblemente presentes desde alrededor de 1866 aC hasta el 30 dC, aproximadamente 1900 años de duración, hasta los tiempos de la llegada y el ministerio de Cristo en la Tierra.
 
-> _Este mismo Melquisedec continuó colaborando a lo largo de los diecinueve siglos sucesivos con los muchos profetas y videntes, esforzándose así por mantener vivas las verdades de Salem hasta la plenitud del tiempo de la aparición de Miguel en la tierra._ [LU 93:10.4](/es /El_libro_de_Urantia/93#p10_4)
+> _Este mismo Melquisedec continuó colaborando a lo largo de los diecinueve siglos sucesivos con los muchos profetas y videntes, esforzándose así por mantener vivas las verdades de Salem hasta la plenitud del tiempo de la aparición de Miguel en la tierra._ [LU 93:10.4](/es/The_Urantia_Book/93#p10_4)
 
 Durante este sorprendente período de la historia de la Tierra, muchos profetas y videntes notables entraron en escena. Conjeturo que probablemente Melquisedec colaboró, sin ser visto, con muchos de ellos y fomentó sus esfuerzos, especialmente en lo que se refiere al concepto de Dios. Las personas y eventos altamente significativos incluyen:
 

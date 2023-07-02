@@ -1,5 +1,5 @@
 ---
-title: "Presidente del equipo de servicio de becas - Lara Amyx"
+title: "Presidente del Equipo de Servicio de la Fellowship - Lara Amyx"
 description: "The Mighty Messenger — Edición de otoño de 2019: noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z

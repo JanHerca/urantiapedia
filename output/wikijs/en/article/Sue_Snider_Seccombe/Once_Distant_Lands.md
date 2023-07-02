@@ -1,5 +1,5 @@
 ---
-title: "Translators"
+title: "Once-Distant Lands"
 description: "The Mighty Messenger — Spring 2023 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
@@ -9,29 +9,6 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Sue Snider Seccombe<br>© 2023 The Urantia Book Fellowship</p>
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/en/article/The_Mighty_Messenger_Translators_2023">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Translators</span>
-        </a>
-        </td>
-        <td>
-        <a href="/en/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/en/article/Bobbie_Dreier_and_Andre_Radatus/The_Fellowships_International_Presence">
-          <span class="pr-2">The Fellowship's International Presence</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -60,26 +37,3 @@ Another _first_, inside is an extensive report on the first-ever Urantia confere
 
 <br>
 
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/en/article/The_Mighty_Messenger_Translators_2023">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Translators</span>
-        </a>
-        </td>
-        <td>
-        <a href="/en/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/en/article/Bobbie_Dreier_and_Andre_Radatus/The_Fellowships_International_Presence">
-          <span class="pr-2">The Fellowship's International Presence</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>

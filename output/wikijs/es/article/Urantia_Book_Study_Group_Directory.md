@@ -1,5 +1,5 @@
 ---
-title: "Directorio de grupos de estudio de El libro de Urantia"
+title: "Directorio de grupos de estudio de El Libro de Urantia"
 description: "The Mighty Messenger — Número de primavera de 2020: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z

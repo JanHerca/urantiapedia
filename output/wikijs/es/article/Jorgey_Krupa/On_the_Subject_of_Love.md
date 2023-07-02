@@ -84,7 +84,7 @@ Entonces, ¿dónde entra mi responsabilidad hacia los demás? Soy consciente de 
 
 La respuesta es esta: puedo amar con intención. Mi intención puede ser uno de los ejemplos. Puedo tener la intención de mostrarles a todos los que conozco cómo es el amor y espero que esto encienda una chispa dentro de ellos y que sea suficiente para ayudarlos a encontrarlo dentro de sí mismos y aprender a implementarlo en sus propias vidas a su manera. No puedo hacer que cambien, pero puedo mostrarles cómo es la bondad del crecimiento y puedo esperar que de alguna manera encuentren el camino hacia él.
 
-> El acto es nuestro, las consecuencias de Dios. _El Libro de Urantia_ [LU 48:7.13](/es/El_libro_de_Urantia/48#p7_13)
+> El acto es nuestro, las consecuencias de Dios. _El Libro de Urantia_ [LU 48:7.13](/es/The_Urantia_Book/48#p7_13)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/016.jpg">

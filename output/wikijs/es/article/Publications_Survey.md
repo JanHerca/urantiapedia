@@ -14,17 +14,17 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Lifting_Together">
+        <a href="/es/article/Lifting_Together">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lifting Together</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#spring-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Joshua_J_Wilson/Machiventa_Melchizedek">
+        <a href="/es/article/Joshua_J_Wilson/Machiventa_Melchizedek">
           <span class="pr-2">Machiventa Melchizedek</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -38,9 +38,9 @@ dateCreated: 2023-6-21T8:13:38Z
 
 ¿Preferiría recibir nuestras revistas, Mighty Messenger y Fellowship Herald, en forma electrónica o impresa? Háganos saber aquí: Encuesta de publicaciones
 
-<figura id="Figura_1" clase="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/029.jpg">
-</figura>
+</figure>
 
 Apunta tu teléfono a este código QR para realizar la Encuesta de Publicaciones:
 
@@ -54,9 +54,9 @@ Usted puede ayudar a la Fraternidad a mantener GRATIS nuestras excelentes public
 
 ¡Por favor considere donar $35.00 al año! ¡Dona hoy! Apunte su teléfono a este código para donar a Urantia Book Fellowship:
 
-<figura id="Figura_2" clase="imagen urantiapedia estilo-imagen-alinear-izquierda">
+<figure id="Figure_2" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/030.jpg">
-</figura>
+</figure>
 
 O envíe un cheque a:
 
@@ -83,17 +83,17 @@ Envíe los artículos a: Cristina Seaborn, Presidenta de Publicaciones publicaci
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Lifting_Together">
+        <a href="/es/article/Lifting_Together">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lifting Together</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_mighty_messenger#spring-2019-issue">
+        <a href="/es/index/articles_mighty_messenger#spring-2019-issue">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2019 Issue — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Joshua_J_Wilson/Machiventa_Melchizedek">
+        <a href="/es/article/Joshua_J_Wilson/Machiventa_Melchizedek">
           <span class="pr-2">Machiventa Melchizedek</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

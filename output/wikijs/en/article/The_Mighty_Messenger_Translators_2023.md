@@ -9,29 +9,6 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 The Urantia Book Fellowship</p>
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/en/article/The_Mighty_Messenger/The_Mighty_Messenger_2023_Summer_Cover">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cover</span>
-        </a>
-        </td>
-        <td>
-        <a href="/en/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/en/article/Sue_Snider_Seccombe/Once_Distant_Lands">
-          <span class="pr-2">Once-Distant Lands</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -72,29 +49,7 @@ From that moment my life began to change. Later I met Flor Robles in Santiago an
 
 <br>
 
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td>
-        <a href="/en/article/The_Mighty_Messenger/The_Mighty_Messenger_2023_Summer_Cover">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cover</span>
-        </a>
-        </td>
-        <td>
-        <a href="/en/index/articles_mighty_messenger#summer-2023-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer 2023 Issue — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/en/article/Sue_Snider_Seccombe/Once_Distant_Lands">
-          <span class="pr-2">Once-Distant Lands</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
+
 
 ## Notes
 

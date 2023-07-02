@@ -1,5 +1,5 @@
 ---
-title: "Invitación para servir en la GC"
+title: "Nuevos Consejeros Generales, Comité Ejecutivo"
 description: "The Mighty Messenger — Número de otoño de 2018: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z

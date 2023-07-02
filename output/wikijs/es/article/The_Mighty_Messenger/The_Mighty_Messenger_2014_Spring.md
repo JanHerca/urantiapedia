@@ -187,7 +187,7 @@ Recientemente, nuestro grupo de estudio estaba dando un paseo de un año por el 
 
 «Bueno, si no está seguro, ¿cómo espera que yo lo entienda?» preguntó nuestro nuevo lector.
 
-Un dilema más común es generado por nuestras propias limitaciones. A lo largo del libro encontramos declaraciones como esta de un arcángel de Nebadon: «_Pero casi me desespero de poder transmitir a la mente material la naturaleza del trabajo de los artesanos celestiales._» [[LU 44:0.20]( /es/El_libro_de_Urantia/44#p0_20)]
+Un dilema más común es generado por nuestras propias limitaciones. A lo largo del libro encontramos declaraciones como esta de un arcángel de Nebadon: «_Pero casi me desespero de poder transmitir a la mente material la naturaleza del trabajo de los artesanos celestiales._» [[LU 44:0.20]( /es/The_Urantia_Book/44#p0_20)]
 
 Otro problema se reconoce en el segundo párrafo del libro y muchas, muchas veces después de eso: las limitaciones del lenguaje humano.
 

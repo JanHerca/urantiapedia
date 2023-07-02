@@ -44,7 +44,7 @@ La intuición es la prueba de que somos más que criaturas. [LU 16:7.1](/es/The_
 
 Si vas a tener un motor de IA que haga algo como lavar platos, tendrías que enseñarle a la máquina un par de millones de veces cómo lavar platos con todos los tipos de platos que lavará hasta que sepa cómo hacerlo. Un ser humano capta inmediatamente el significado y luego los lava de inmediato sin este largo procedimiento, incluso cuando son platos que nunca antes ha visto. [LU 34:4.10](/es/The_Urantia_Book/34#p4_10)
 
-Somos mente, espíritu y ser físico, mental, espiritual y personal (que se relaciona con el cerebro).[LU 0:5.7](/es/The_Urantia_Book/0#p5_7), [LU 0:5.8](/es/The_Urantia_Book/ 0#p5_8), [LU 0:5.9](/es/El_libro_de_Urantia/0#p5_9), [LU 0:5.10](/es/El_libro_de_Urantia/0#p5_10), [LU 0:5.11](/es/El_libro_de_Urantia /0#p5_11)
+Somos mente, espíritu y ser físico, mental, espiritual y personal (que se relaciona con el cerebro).[LU 0:5.7](/es/The_Urantia_Book/0#p5_7), [LU 0:5.8](/es/The_Urantia_Book/ 0#p5_8), [LU 0:5.9](/es/The_Urantia_Book/0#p5_9), [LU 0:5.10](/es/The_Urantia_Book/0#p5_10), [LU 0:5.11](/es/El_libro_de_Urantia /0#p5_11)
 
 La mente escapa de lo físico. Está conectado directamente al nivel físico del ADN donde el Espíritu Materno del Universo pone su mente. Cuando morimos, esta pieza temporal de su mente se va. [LU 36:3.4](/es/The_Urantia_Book/36#p3_4)
 

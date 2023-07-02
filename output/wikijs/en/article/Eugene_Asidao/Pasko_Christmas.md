@@ -1,5 +1,5 @@
 ---
-title: "Pasko_Christmas"
+title: "Pasko (Christmas)"
 description: "The Mighty Messenger — Spring 2023 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z

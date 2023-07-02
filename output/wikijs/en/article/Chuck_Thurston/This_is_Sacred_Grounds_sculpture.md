@@ -1,6 +1,6 @@
 ---
 title: "“This is Sacred Grounds” sculpture"
-description: "The Mighty Messenger — Spring 2020 Issue: News and opinions for Readers of The Urantia Book"
+description: "The Mighty Messenger — Summer 2022 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Art, Mighty Messenger, article

@@ -40,7 +40,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 «Espero que no te importe que lo diga, pero tu conciencia de Dios se está mostrando». ¿Ha notado que _El Libro de Urantia_ coloca definiciones de la conciencia de Dios de manera notoria en la última oración del Prólogo y la primera oración del último párrafo en todo el libro?
 
-> «…la realidad en constante progreso de la experiencia religiosa personal: la conciencia de Dios». [F:XII.12](/es/El_libro_de_Urantia/0#p12_12)
+> «…la realidad en constante progreso de la experiencia religiosa personal: la conciencia de Dios». [F:XII.12](/es/The_Urantia_Book/0#p12_12)
 
 > «Y la conciencia de Dios es equivalente a la integración del yo con el universo…» [[LU 196:3.32](/es/The_Urantia_Book/196#p3_32)]
 
