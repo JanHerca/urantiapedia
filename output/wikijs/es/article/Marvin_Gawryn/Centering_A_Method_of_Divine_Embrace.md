@@ -38,9 +38,9 @@ Cuando comencé a leer _El Libro de Urantia_ hace muchos años, la posibilidad q
 
 Desde esos primeros meses mágicos de descubrir la revelación, he buscado en _El Libro de Urantia_ y más allá formas de compartir más plenamente la vida interior con Dios. La adoración regular expande grandemente nuestra capacidad de sentir y compartir la presencia de Dios. Las técnicas de adoración nos ayudan a alinear la mente y el alma en una atención sin esfuerzo a Dios. En el abrazo de adoración, simultáneamente derramamos nuestra adoración y estamos envueltos en el amor de Dios; experimentamos el asombroso intercambio de afecto que hace que la experiencia de ser un hijo de Dios sea absolutamente real.
 
-Si nos tomamos un tiempo para descansar diariamente en el abrazo nutritivo de la adoración, nuestra conciencia de la presencia de Dios y la miríada de acciones comienza a extenderse constantemente a todas las partes de nuestras vidas. Esta es la gran meta de la vida humana: «La aventura más grande del hombre en la carne consiste en el esfuerzo sano y bien equilibrado por elevar los límites de la conciencia de sí a través de los reinos imprecisos de la conciencia embrionaria del alma, en un esfuerzo sincero por alcanzar la zona fronteriza de la conciencia espiritual —el contacto con la presencia divina... Esta conciencia del espíritu equivale a conocer la realidad de la filiación con Dios._» [LU 196:3.34](/es/The_Urantia_Book/196#p3_31) Si persistimos en el hábito de la inmersión frecuente en la presencia divina, entonces la «perla preciosa», la deleitable perspectiva de una relación incesante con Dios,
+Si nos tomamos un tiempo para descansar diariamente en el abrazo nutritivo de la adoración, nuestra conciencia de la presencia de Dios y la miríada de acciones comienza a extenderse constantemente a todas las partes de nuestras vidas. Esta es la gran meta de la vida humana: «_La aventura más grande del hombre en la carne consiste en el esfuerzo sano y bien equilibrado por elevar los límites de la conciencia de sí a través de los reinos imprecisos de la conciencia embrionaria del alma, en un esfuerzo sincero por alcanzar la zona fronteriza de la conciencia espiritual —el contacto con la presencia divina... Esta conciencia del espíritu equivale a conocer la realidad de la filiación con Dios._» [LU 196:3.34](/es/The_Urantia_Book/196#p3_31) Si persistimos en el hábito de la inmersión frecuente en la presencia divina, entonces la «perla preciosa», la deleitable perspectiva de una relación incesante con Dios, eventualmente puede ser nuestra.
 
-Durante siglos los grandes maestros de la espiritualidad cristiana han buscado desarrollar métodos contemplativos, prácticas destinadas a ayudar en el acercamiento a la unión con Dios. Hace treinta años un grupo de monjes trapenses, inspirados por Thomas Merton, comenzaron a recuperar la obra de los grandes contemplativos de la Edad Media Juan de la Cruz, Teresa de Ávila, _La nube del desconocimiento_). Combinaron estos métodos en una disciplina simple, que cualquiera de nosotros puede practicar en medio de nuestras ocupadas vidas. Merton y sus colegas usaron el término «Oración Centrante», aunque el enfoque en realidad conduce a una experiencia de adoración como lo define _El Libro de Urantia_. Esta práctica de Centrarse es una técnica profundamente reparadora de apertura a la presencia y acción de Dios en lo más recóndito de nuestro ser. Practicado dos veces al día como se sugiere, es uno de los métodos más potentes para desarrollar una relación interior con Dios que he encontrado.
+Durante siglos los grandes maestros de la espiritualidad cristiana han buscado desarrollar métodos contemplativos, prácticas destinadas a ayudar en el acercamiento a la unión con Dios. Hace treinta años un grupo de monjes trapenses, inspirados por Thomas Merton, comenzaron a recuperar la obra de los grandes contemplativos de la Edad Media (Juan de la Cruz, Teresa de Ávila, _La nube del desconocimiento_). Combinaron estos métodos en una disciplina simple, que cualquiera de nosotros puede practicar en medio de nuestras ocupadas vidas. Merton y sus colegas usaron el término «Oración Centrante», aunque el enfoque en realidad conduce a una experiencia de adoración como lo define _El Libro de Urantia_. Esta práctica de Centrarse es una técnica profundamente reparadora de apertura a la presencia y acción de Dios en lo más recóndito de nuestro ser. Practicado dos veces al día como se sugiere, es uno de los métodos más potentes para desarrollar una relación interior con Dios que he encontrado.
 
 La descripción de Centrarse que sigue es una adaptación del libro Mente Abierta, Corazón Abierto de Thomas Keating, Abad del Monasterio Trapense en Snowmass, Colorado.
 
@@ -88,17 +88,17 @@ IV. Al final del período de Centrado, permanezca en silencio con los ojos cerra
 1. Durante el centrado, evitamos analizar nuestra experiencia, albergar expectativas o apuntar a algún objetivo específico como:
     * a. Repitiendo la palabra sagrada continuamente.
     * b. No tener pensamientos.
-    * C. Dejando la mente en blanco.
+    * c. Dejando la mente en blanco.
     * d. Sentirse en paz o consolado.
-    * mi. Logrando una experiencia espiritual.
+    * e. Logrando una experiencia espiritual.
 2. Lo que no es Centrar:
     * a. No es un ejercicio de relajación.
     * b. No es una forma de autohipnosis.
-    * C. No se limita a la presencia «sentida» de Dios.
+    * c. No se limita a la presencia «sentida» de Dios.
 3. Qué es Centrar:
     * a. Es al mismo tiempo una relación con Dios y una disciplina para fomentar esa relación.
     * b. Es un ejercicio de fe, esperanza y amor.
-    * C. Es un movimiento más allá de la conversación con Dios hacia la comunión.
+    * c. Es un movimiento más allá de la conversación con Dios hacia la comunión.
     * d. Nos habitúa al lenguaje de Dios, que es el silencio.
 
 La experiencia de entrar en la «cámara interior» durante veinte o treinta minutos para descansar por completo en la presencia de Dios, para dejarme llevar y abrirme a las acciones de Dios en el interior, no se parece a ninguna otra experiencia que haya conocido. Es profundamente un acto de recepción, de recibir el regalo más valioso; relación directa con Dios. Es como un niño pequeño que se sube al regazo de sus padres para que lo sostengan en un abrazo amoroso durante un tiempo prolongado de crianza, hasta que su corazón esté lleno.
