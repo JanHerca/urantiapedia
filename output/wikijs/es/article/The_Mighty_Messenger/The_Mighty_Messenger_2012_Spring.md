@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2011_Fall">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de otoño de 2011</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2012">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2012_Winter">
+          <span class="pr-2">Edición de invierno de 2012</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -40,7 +46,7 @@ Un retiro previo a la conferencia incluirá un enfoque en el perdón en la exper
 
 Además, habrá un taller previo a la conferencia de todo el día para presentadores y oradores. Está abierto a cualquier persona que tenga, esté o vaya a estar facilitando un taller o dando un discurso público. Su enfoque es revisar y mejorar las habilidades para hablar en público. Para registrarse, envíe un correo electrónico a Doreen Heyne a Doreen.heyne@comcast.net.
 
-Se programan varios eventos sociales y nocturnos, y para aquellos de ustedes que tienen hijos, se planea un gran programa para niños. SSS12 también tiene un número limitado de Fellowships parciales. Comuníquese con Lara Amyx en lara10@bellsouth.net Asunto SSS12 info, para obtener información sobre el programa para niños y las Fellowships.
+Se programan varios eventos sociales y nocturnos, y para aquellos de ustedes que tienen hijos, se planea un gran programa para niños. SSS12 también tiene un número limitado de la Fellowship parciales. Comuníquese con Lara Amyx en lara10@bellsouth.net Asunto SSS12 info, para obtener información sobre el programa para niños y las Fellowships.
 
 Para registrarse en línea, vaya a www.urantia-education.org o rellene el formulario de registro de este número. Aquí hay una muestra de los muchos talleres planeados para SSS12. La lista completa se puede ver en el sitio web del Comité de Educación: www.urantia-education.org.
 - **Eugenesia y Civilización Evolutiva Progresista.**
@@ -76,11 +82,11 @@ Para registrarse en línea, vaya a www.urantia-education.org o rellene el formul
 <img src="/image/article/The_Mighty_Messenger/2012_Spring/005787.jpg">
 </figure>
 
-La Dra. Meredith Justin Sprunger era una urantiana muy respetada que desempeñaba numerosos cargos, incluido el de presidente de la Hermandad Urantia original. Meredith es autora de muchos trabajos importantes derivados del Libro de Urantia, entre ellos, Psicología espiritual, 1988, y Los documentos abreviados de Urantia, 2008. Pocos cuestionarían que el Dr. Sprunger era probablemente la fuente más fiable de información de primera mano sobre el intrigante origen y la historia del Documentos de Urantia. Meredith se hizo amiga y colega del Dr. William Sadler (1875-1969), el destacado psiquiatra de Chicago que dirigió el Foro, protegió los Documentos de Urantia y supervisó la publicación de _El Libro de Urantia_ en 1955. Conocía personalmente a otros dos miembros del Comisión de contacto original.
+La Dra. Meredith Justin Sprunger era una urantiana muy respetada que desempeñaba numerosos cargos, incluido el de presidente de la Brotherhood Urantia original. Meredith es autora de muchos trabajos importantes derivados del Libro de Urantia, entre ellos, Psicología espiritual, 1988, y Los documentos abreviados de Urantia, 2008. Pocos cuestionarían que el Dr. Sprunger era probablemente la fuente más fiable de información de primera mano sobre el intrigante origen y la historia del Documentos de Urantia. Meredith se hizo amiga y colega del Dr. William Sadler (1875-1969), el destacado psiquiatra de Chicago que dirigió el Foro, protegió los Documentos de Urantia y supervisó la publicación de _El Libro de Urantia_ en 1955. Conocía personalmente a otros dos miembros del Comisión de contacto original.
 
 Meredith tuvo una carrera distinguida aparte de su interés en los Documentos de Urantia. Obtuvo su Maestría en el Seminario Teológico de Princeton y un Doctorado en Psicología en la Universidad de Purdue. Enseñó en Elmhurst College y en el Instituto de Tecnología de Indiana, donde se desempeñó como director del Departamento de Psicología, presidente de la División de Artes Liberales y presidente. El Dr. Sprunger era un psicólogo licenciado y en ejercicio, y un ministro ordenado con pastores en la Iglesia Unida de Cristo en Indiana.
 
-El Dr. Sprunger conoció por primera vez al Dr. William Sadler en Chicago el 7 de mayo de 1958, poco después de la publicación de El Libro de Urantia. Desde ese momento, el Dr. Sprunger sirvió a la Fundación Urantia, a la Hermandad Urantia y más tarde a la Fraternidad del Libro de Urantia como un urantiano leal y dedicado. A lo largo de los años de agitación en el movimiento Urantia, Meredith se mantuvo firme como líder resuelta y juiciosa, y emitió una luz en la que todas las facciones podían confiar y depender.
+El Dr. Sprunger conoció por primera vez al Dr. William Sadler en Chicago el 7 de mayo de 1958, poco después de la publicación de El Libro de Urantia. Desde ese momento, el Dr. Sprunger sirvió a la Fundación Urantia, a la Brotherhood Urantia y más tarde a la Fellowship del Libro de Urantia como un urantiano leal y dedicado. A lo largo de los años de agitación en el movimiento Urantia, Meredith se mantuvo firme como líder resuelta y juiciosa, y emitió una luz en la que todas las facciones podían confiar y depender.
 
 Conocí a Meredith por primera vez a mediados de los años setenta en una conferencia de Urantia. En aquellos días, los urantianos mayores eran bastante reservados sobre asuntos relacionados con el origen de los Documentos de Urantia. Sin embargo, encontré a Meredith bastante abierta y amable. Su sabiduría era equilibrada, su profundidad espiritual extraordinaria y su conocimiento y comprensión de los Documentos de Urantia profundos... sin embargo, sirvió con una humildad notable. A lo largo de los años, desarrollé una cálida relación con él e Irene, su esposa durante 66 años, que también era una urantiana desinteresada y dedicada, y que lo precedió a los mundos de las mansiones en 2007.
 
@@ -114,7 +120,7 @@ La Fellowship de _El Libro de Urantia_ se complace en anunciar que Pipeline of L
 
 Argelia, Argentina, Armenia, Australia, Baréin, Belice, Bolivia, Botswana, Brasil, Bulgaria, Camerún, Canadá, Chechenia, Chile, China, Colombia, Costa Rica, Croacia, Cuba, Chipre, República Dominicana, Ecuador, Egipto, El Salvador , Inglaterra, Fiji, Francia, Alemania, Ghana, Grecia, Guinea, Guatemala, Haití, Honduras, Hungría, Islandia, India, Irán, Italia, Kenia, Kirguistán, Lituania, Malasia, Maldivas, México, Moldavia, Myanmar, Nepal, Nicaragua , Nigeria, Pakistán, Palestina, Panamá, Perú, Filipinas, Polonia, Rumania, Rusia, Sudáfrica, Corea del Sur, Vietnam del Sur, España, Sri Lanka, Suiza, Taiwán, Togo, Turquía, Uganda, Ucrania, Estados Unidos, Uruguay, Venezuela, Yemen y Zambia.
 
-Trabajar en el Canal de la Luz trae alegrías y desafíos. Las alegrías incluyen trabajar con el personal de la oficina de Fellowship, Paula Thompson y Jo Ann Weidman. Estas mujeres empacan, envían y realizan un seguimiento de los libros, y generan los informes necesarios para mantener informados a los donantes y que los libros fluyan hacia sus destinos globales. Tamara Strumfeld de la Fundación Urantia cumple alegremente el mismo propósito de hacer que los casos de traducción se trasladen a destinos designados en todo el mundo. Las tres mujeres están bien versadas en los desafíos del envío internacional, envíos que desaparecen, envíos que llegan con uno o dos libros perdidos y tarifas de aduana exorbitantes.
+Trabajar en el Canal de la Luz trae alegrías y desafíos. Las alegrías incluyen trabajar con el personal de la oficina de la Fellowship, Paula Thompson y Jo Ann Weidman. Estas mujeres empacan, envían y realizan un seguimiento de los libros, y generan los informes necesarios para mantener informados a los donantes y que los libros fluyan hacia sus destinos globales. Tamara Strumfeld de la Fundación Urantia cumple alegremente el mismo propósito de hacer que los casos de traducción se trasladen a destinos designados en todo el mundo. Las tres mujeres están bien versadas en los desafíos del envío internacional, envíos que desaparecen, envíos que llegan con uno o dos libros perdidos y tarifas de aduana exorbitantes.
 Los envíos por oleoductos a veces son un poco tortuosos (me viene a la mente Cuba), pero creemos que los resultados valen la pena.
 
 Aproximadamente el 80% de los libros colocados por voluntarios para el Oleoducto se envían a América Latina, en gran parte gracias a los esfuerzos de Agustín Arellano Tirado. Agustín tiene un verdadero don para inspirar a nuevos lectores, iniciar grupos de estudio y colocar libros en bibliotecas y grupos de estudio donde más se necesitan y aprecian. Estoy asombrado por su incansable búsqueda para llevar la revelación a sus semejantes, hombres y mujeres. Mo Seigel, presidente de la Fundación Urantia, visitó recientemente América del Sur y se inspiró para aumentar el descuento de Pipeline en el costo de la traducción al español de la Fundación Urantia, nuestro libro más solicitado. Su generosidad nos ayudará a colocar más ejemplares de _El Libro de Urantia_ entre los lectores de América Latina este año.
@@ -162,6 +168,9 @@ www.urantiabook.org
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2011_Fall">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de otoño de 2011</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2012">
@@ -169,6 +178,9 @@ www.urantiabook.org
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2012_Winter">
+          <span class="pr-2">Edición de invierno de 2012</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

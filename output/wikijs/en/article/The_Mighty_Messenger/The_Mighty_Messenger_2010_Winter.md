@@ -447,7 +447,7 @@ Weekly Internet radio programs hosted by Urantia Book readers:
 > Moderated chat room available to registered users
 {.is-info}
 
-> As a man thinks in his heart, so is he.” [[UB 131:2.9](/en/The_Urantia_Book/131#p2_9)]
+> As a man thinks in his heart, so is he.” [[UB 131:2.8](/en/The_Urantia_Book/131#p2_8)]
 
 ## Upcoming Events…
 

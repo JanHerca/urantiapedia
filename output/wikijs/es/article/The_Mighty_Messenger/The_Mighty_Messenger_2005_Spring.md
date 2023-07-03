@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2004_Winter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de invierno de 2004</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2005">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2005_Winter">
+          <span class="pr-2">Edición de invierno de 2005</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -73,9 +79,9 @@ Uversa Press informa que la impresión de 5.000 ejemplares de tapa dura de _El L
 <img src="/image/article/The_Mighty_Messenger/2005_Spring/005607.jpg">
 </figure>
 
-## Visita de Fellowshiprios a América Latina
+## Visita de la Fellowshiprios a América Latina
 
-Se fortalecieron viejas amistades y se hicieron nuevas durante un viaje de dos semanas a América Latina por parte de varios miembros del Comité Internacional de la Fraternidad en febrero pasado. Los Consejeros Generales David Kantor, Augustin Arellano y Susan Ransbottom estuvieron entre los participantes.
+Se fortalecieron viejas amistades y se hicieron nuevas durante un viaje de dos semanas a América Latina por parte de varios miembros del Comité Internacional de la Fellowship en febrero pasado. Los Consejeros Generales David Kantor, Augustin Arellano y Susan Ransbottom estuvieron entre los participantes.
 
 <figure id="Figure_2" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2005_Spring/005608.jpg">
@@ -106,11 +112,11 @@ mediante la difusión de _El Libro de Urantia_
 
 El Comité Ejecutivo, en su reunión del 17 de septiembre de 2004 en Unity Village, encargó a un subcomité que desarrollara un logotipo para la Fellowship de _El Libro de Urantia_. El subcomité seleccionado fue John Hay, David Kantor, Paula Thompson, Lenny Cowles y Robert Burns. El subcomité también trabajó en el desarrollo de una declaración de identificación o un eslogan definitorio, luego amplió el identificador y elaboró ​​una declaración general para aclarar aún más de qué se trata y qué logra la Fellowship de _El Libro de Urantia_.
 
-El Consejo General fue encuestado en enero de 2005 para conocer sus principales opciones mediante un sistema de votación nuevo y único en el sitio web de la Fraternidad. Más de 35 logotipos fueron presentados por 6 artistas gráficos, Ben Venosa, Kara Blake, Sarah Tomer, Katie Metzler, Terry Kruger y un artista anónimo. Estamos agradecidos por todo su tremendo esfuerzo y trabajo de corazón.
+El Consejo General fue encuestado en enero de 2005 para conocer sus principales opciones mediante un sistema de votación nuevo y único en el sitio web de la Fellowship. Más de 35 logotipos fueron presentados por 6 artistas gráficos, Ben Venosa, Kara Blake, Sarah Tomer, Katie Metzler, Terry Kruger y un artista anónimo. Estamos agradecidos por todo su tremendo esfuerzo y trabajo de corazón.
 
-Cada uno de los subcomités eligió sus 5 principales, reduciendo los logotipos a 15. El Consejo General luego eligió entre estos 15 logotipos, eligiendo los tres principales. Se hizo una presentación al Consejo General el 29 de enero de 2005 en Atlanta, mostrando las 5 opciones finales. Estos finalistas serán votados por los miembros de Fellowship en abril de 2005. El subcomité consideró firmemente que cualquier logotipo que se nos ocurra debe probarse en la comunidad, por lo tanto, cada miembro de la Comunidad recibirá un paquete por correo con los detalles.
+Cada uno de los subcomités eligió sus 5 principales, reduciendo los logotipos a 15. El Consejo General luego eligió entre estos 15 logotipos, eligiendo los tres principales. Se hizo una presentación al Consejo General el 29 de enero de 2005 en Atlanta, mostrando las 5 opciones finales. Estos finalistas serán votados por los miembros de la Fellowship en abril de 2005. El subcomité consideró firmemente que cualquier logotipo que se nos ocurra debe probarse en la comunidad, por lo tanto, cada miembro de la Fellowship recibirá un paquete por correo con los detalles.
 
-El subcomité trabajó igualmente duro en el calificador que se utilizará para describir la esencia de lo que se trata la Comunidad. Por ahora nos decidimos por «Cultivar el espíritu de la religión mediante la difusión de _El Libro de Urantia_». También trabajamos en la declaración del muñón. Una declaración de muñón es una explicación ampliada de lo que hacemos y, al mismo tiempo, no es demasiado detallada ni larga.
+El subcomité trabajó igualmente duro en el calificador que se utilizará para describir la esencia de lo que se trata la Fellowship. Por ahora nos decidimos por «Cultivar el espíritu de la religión mediante la difusión de _El Libro de Urantia_». También trabajamos en la declaración del muñón. Una declaración de muñón es una explicación ampliada de lo que hacemos y, al mismo tiempo, no es demasiado detallada ni larga.
 
 LA CONFRATERNIDAD DEL LIBRO DE URANTIA:
 
@@ -125,7 +131,7 @@ LOGROS:
 - Editores del Libro de Urantia impreso más fácil de estudiar y numerosas ayudas de estudio eficaces y obras de apoyo.
 - Publicaciones periódicas consistentemente excelentes enviadas gratuitamente a la comunidad Urantia.
 - Conferencias Internacionales Trienales destacadas desde 1967.
-- Un sitio web que es una completa biblioteca de recursos de 50 años de Fellowships de El Libro de Urantia.
+- Un sitio web que es una completa biblioteca de recursos de 50 años de la Fellowship de El Libro de Urantia.
 - Programas progresivos en las áreas de alcance nacional e internacional, grupos de estudio, interreligioso, juventud y vida familiar.
 
 Si bien el logotipo, el identificador y la declaración del muñón expresan solo una parte de lo que es _The Urantia Book Fellowship, expresando solo una pequeña esencia de quiénes somos, por qué somos y qué hacemos, es un comienzo. Como criaturas del tiempo/espacio, todo tiene un comienzo, noble o no.
@@ -185,7 +191,7 @@ Este evento ha sido diseñado para ser lo más económico posible para atraer a 
 
 **Bárbara Newsom**
 
-Los grupos de estudio son mi primer amor. Criado en Wichita, Kansas, participé activamente en grupos de estudio en 1965 y más tarde en Oklahoma y el área de Kansas City. En 1975 me mudé a Chicago y trabajé para la Hermandad Urantia y la Fundación Urantia de 1975 a 1976. Ahora sirvo a la Primera Sociedad en su comité de gobierno y fui su Delegado Trienal en 2003.
+Los grupos de estudio son mi primer amor. Criado en Wichita, Kansas, participé activamente en grupos de estudio en 1965 y más tarde en Oklahoma y el área de Kansas City. En 1975 me mudé a Chicago y trabajé para la Brotherhood Urantia y la Fundación Urantia de 1975 a 1976. Ahora sirvo a la Primera Sociedad en su comité de gobierno y fui su Delegado Trienal en 2003.
 
 Servir nuevamente en el Consejo General es una sorpresa y una alegría para mí. De 1976 a 1985, serví un mandato de nueve años en el Consejo y también en el Comité Ejecutivo como presidente del Comité de Publicaciones, luego en el Comité de Proyectos Especiales desde 1987 hasta el presente, especializándome en los archivos y la historia de la organización Urantia. En 2000, me uní a la IUA; y yo estaba en el comité directivo de la Conferencia Internacional IUA 2004 en el área de Chicago.
 
@@ -207,7 +213,7 @@ Entonces, si desea compartir su tiempo y participar en esta aventura de mercado,
 
 ## ¿Está dispuesto a ser una persona de contacto de la UB?
 
-De vez en cuando, la Fraternidad recibe llamadas de personas interesadas en reunirse con otros lectores. Muchas veces hay un grupo de estudio en su área, pero muchas veces este no es el caso. Necesitamos personas que estén dispuestas a conocer a los lectores en su área y participar activamente en reunir a los lectores mediante la creación de oportunidades para el estudio y la socialización, además de estar allí para hablar con alguien. Si está interesado, háganoslo saber enviando su información de contacto personal a:
+De vez en cuando, la Fellowship recibe llamadas de personas interesadas en reunirse con otros lectores. Muchas veces hay un grupo de estudio en su área, pero muchas veces este no es el caso. Necesitamos personas que estén dispuestas a conocer a los lectores en su área y participar activamente en reunir a los lectores mediante la creación de oportunidades para el estudio y la socialización, además de estar allí para hablar con alguien. Si está interesado, háganoslo saber enviando su información de contacto personal a:
 
 _El Libro de Urantia_ Fellowship - UB Contactos
 PO Box 4583 Grand Central Station New York, NY 10163 O llame al 1.877.288.3772 o envíelo por correo electrónico a Fellowship@urantiabook.org
@@ -228,7 +234,7 @@ Puede hacer una donación única o le pedimos que considere una donación mensua
 
 Más del 99 por ciento de todo el trabajo realizado para la revelación lo realizan voluntarios, personas como usted que están comprometidas y se han tomado el tiempo de aplicar sus habilidades a esta revelación. Necesitan su apoyo financiero. Si prefiere enviar una donación por correo, envíela a:
 
-_El Libro de Urantia_ Fraternidad
+_El Libro de Urantia_ Fellowship
 PO Box 4583 Grand Central Station, Nueva York, NY 10163
 
 Para preguntas sobre donaciones o asistencia, llámenos al 1 (877) 288-3772. O envíenos un correo electrónico a fellowship@urantiabook.org. Nos complace tener la oportunidad de hablar con usted y escuchar sus pensamientos y puntos de vista.
@@ -241,7 +247,7 @@ Robert Burns, Presidente de Finanzas
 
 ## ¡Arte, Arte y Más Arte!
 
-Hermosas y emocionantes pinturas al óleo, acuarelas, diseños gráficos, cerámica, escultura en diferentes medios, móviles y mucho más se exhibirán en la Galería de Arte de la Conferencia Internacional de la Fraternidad de El Libro de Urantia, que se llevará a cabo en la Universidad de Villanova, cerca de Filadelfia, del 30 de julio al 4 de agosto. 2005. Se recomiendan especialmente los temas relacionados con _El Libro de Urantia_, pero todos los temas son bienvenidos. Todos los artistas que deseen exhibir sus obras deben completar un formulario especial de exhibición de artistas. El espacio es limitado y se solicita a los posibles expositores que presenten su solicitud lo antes posible a Nick Curto, a nicknyny@nyc.rr.com o llamen al (917) 701-9033 de 7 a 9 p. m. EST.
+Hermosas y emocionantes pinturas al óleo, acuarelas, diseños gráficos, cerámica, escultura en diferentes medios, móviles y mucho más se exhibirán en la Galería de Arte de la Conferencia Internacional de la Fellowship de El Libro de Urantia, que se llevará a cabo en la Universidad de Villanova, cerca de Filadelfia, del 30 de julio al 4 de agosto. 2005. Se recomiendan especialmente los temas relacionados con _El Libro de Urantia_, pero todos los temas son bienvenidos. Todos los artistas que deseen exhibir sus obras deben completar un formulario especial de exhibición de artistas. El espacio es limitado y se solicita a los posibles expositores que presenten su solicitud lo antes posible a Nick Curto, a nicknyny@nyc.rr.com o llamen al (917) 701-9033 de 7 a 9 p. m. EST.
 
 ## IC05 Subasta-Rama
 
@@ -256,7 +262,7 @@ Reliquias de subasta necesarias:
 
 ## Próximos Eventos…
 
-- 23 al 29 de mayo de 2005 - Conferencia de Grupo Orvonton en el Hotel El Cid en Mazatlán, México. El tema es «La Trinidad del Paraíso». Para obtener más información, consulte «Novedades» en el sitio web de Fellowship.
+- 23 al 29 de mayo de 2005 - Conferencia de Grupo Orvonton en el Hotel El Cid en Mazatlán, México. El tema es «La Trinidad del Paraíso». Para obtener más información, consulte «Novedades» en el sitio web de la Fellowship.
 - Retiro Espiritual Pre-IC '05, «Experimentando el Espíritu en la Vida Cotidiana», 29-30 de julio. El retiro incluirá oración central, lecturas de _El Libro de Urantia_, música, reflexión en silencio, compartir en grupo y adoración. Para obtener más información, comuníquese con Dolores Nice en dlnice@worldnet.att.net.
 - Retiro de Música Pre-IC '05, 29-30 de julio. Habrá un intercambio de perspectivas sobre el proceso creativo y una búsqueda de nuevas formas de expresión musical creativa desde el paradigma de la experiencia de la conciencia del alma. Para obtener más información, comuníquese con Gary Deinstadt en dynstat@optonline.net.
 - Del 12 al 15 de agosto de 2005, la comunidad Urantia participará en la primera reunión conjunta de la Iniciativa de Religiones Unidas y la Red Interreligiosa de América del Norte en la Universidad de Nevada, Las Vegas. Los lectores de _El Libro de Urantia_ participarán en varios aspectos de esta conferencia. Si desea unirse a las actividades, busque el registro en línea en www.uri.org o en www.nain.org.
@@ -275,7 +281,7 @@ Miembros: Linda Buselli, Presidenta Lynda D'Arcangelo, Laura Hay, Nancy Johnson,
 Fellowship@urantiabook.org
 www.urantiabook.org
 
-> «El humor es el antídoto divino para la exaltación del ego.» [[LU 48:4.15](/es/The_Urantia_Book/48#p4_15)]
+> «El humor es el antídoto divino contra la exaltación del ego.» [[LU 48:4.15](/es/The_Urantia_Book/48#p4_15)]
 
 ## Enlaces externos
 
@@ -289,6 +295,9 @@ www.urantiabook.org
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2004_Winter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de invierno de 2004</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2005">
@@ -296,6 +305,9 @@ www.urantiabook.org
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2005_Winter">
+          <span class="pr-2">Edición de invierno de 2005</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

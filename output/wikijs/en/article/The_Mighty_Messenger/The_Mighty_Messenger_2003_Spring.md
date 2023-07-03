@@ -41,7 +41,7 @@ The selection of a Delegate and an Alternate is a very important duty and privil
 
 Society representatives should be chosen for qualities that match the tasks of the Assembly. When the representatives, themselves, have attended Council meetings, know how it functions, and appreciate the kind of volunteers the Council needs to function effectively, then the Assembly can select the best members for the Council. Knowledge of the Fellowship Constitution and how the organization functions is important. Of course, there is no substitute for knowing candidates personally and being aware of their contributions to the revelation. Finally, Society representatives who are level-headed and team players contribute greatly to the Assembly's deliberative process.
 
-> “_10. Intelligent and trained representation_. The survival of democracy is dependent on successful representative government; and that is conditioned upon the practice of electing to public offices only those individuals who are technically trained, intellectually competent, socially loyal, and morally fit.”_ [[UB 71:2.14](/en/The_Urantia_Book/71#p2_14)]
+> “_10. Intelligent and trained representation_. The survival of democracy is dependent on successful representative government; and that is conditioned upon the practice of electing to public offices only those individuals who are technically trained, intellectually competent, socially loyal, and morally fit.”_ [[UB 71:2.19](/en/The_Urantia_Book/71#p2_19)]
 
 ## Executive Committee Letter
 

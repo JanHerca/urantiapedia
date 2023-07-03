@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2002_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2002</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2003">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2004_Spring">
+          <span class="pr-2">Edición de primavera de 2004</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -28,7 +34,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 
-> «La gran esperanza de Urantia radica en la posibilidad de una nueva revelación de Jesús con una presentación nueva y ampliada de su mensaje salvador que uniría espiritualmente en un servicio amoroso a las numerosas familias de sus seguidores profesos de la actualidad». [[LU 195:10.16](/es/The_Urantia_Book/195#p10_16)]
+> «La gran esperanza de Urantia reside en la posibilidad de una nueva revelación de Jesús, con una presentación nueva y ampliada de su mensaje salvador, que uniría espiritualmente en un servicio amoroso a las numerosas familias de sus seguidores declarados de hoy en día». [[LU 195:10.16](/es/The_Urantia_Book/195#p10_16)]
 
 ## Litigio de derechos de autor y _El Libro de Urantia_
 
@@ -44,7 +50,7 @@ La última y más significativa de estas disputas legales ha terminado. Esperamo
 
 La Fellowship de _El Libro de Urantia_ decidió recientemente combinar su sesión de estudio de verano de 2004 con la conferencia anual de Heart of America Society, que tendrá lugar del 17 al 19 de septiembre. Esta decisión se tomó para facilitar una mayor asistencia urantiana al Parlamento de las Religiones del Mundo, que tuvo lugar del 7 al 13 de julio de 2004 en Barcelona, ​​España.
 
-La Fellowship participó en los Parlamentos de 1993 y 1999 y muchos miembros de la Fraternidad quisieran asistir al Parlamento de 2004. SSS04 se planeó originalmente para mediados de julio, lo que hizo que la asistencia a ambos eventos fuera casi imposible. Sin embargo, la idea de combinar SSS04 con la conferencia de Kansas City en Unity Village facilitará que un grupo más grande de lectores pueda asistir a ambos eventos. El tema del Seminario de Verano iba a ser Interreligioso, pero el tema de la conferencia de Kansas City es «El Espíritu Universal de la Madre». Aunque el enfoque de la conferencia será el Espíritu de la Madre, los asistentes al Parlamento están planeando una presentación especial sobre la interreligión para aquellos que no pudieron asistir. Además, el Consejo General de la Fraternidad se reunirá el domingo por la tarde y el lunes (19 y 20 de septiembre) inmediatamente después de la conferencia de Kansas City.
+La Fellowship participó en los Parlamentos de 1993 y 1999 y muchos miembros de la Fellowship quisieran asistir al Parlamento de 2004. SSS04 se planeó originalmente para mediados de julio, lo que hizo que la asistencia a ambos eventos fuera casi imposible. Sin embargo, la idea de combinar SSS04 con la conferencia de Kansas City en Unity Village facilitará que un grupo más grande de lectores pueda asistir a ambos eventos. El tema del Seminario de Verano iba a ser Interreligioso, pero el tema de la conferencia de Kansas City es «El Espíritu Universal de la Madre». Aunque el enfoque de la conferencia será el Espíritu de la Madre, los asistentes al Parlamento están planeando una presentación especial sobre la interreligión para aquellos que no pudieron asistir. Además, el Consejo General de la Fellowship se reunirá el domingo por la tarde y el lunes (19 y 20 de septiembre) inmediatamente después de la conferencia de Kansas City.
 
 El Parlamento de las Religiones del Mundo es el evento interreligioso más grande del mundo. Allí habrá miles de jóvenes espiritualmente abiertos, así como religiosos de casi todas las religiones y países. El programa interreligioso es del más alto calibre, con presentaciones plenarias y cultos presentados por la flor y nata de los religiosos del mundo. El Parlamento es también una oportunidad de divulgación de primer nivel; la calidad de los contactos hechos allí y las oportunidades educativas son insuperables. Los lectores de _El Libro de Urantia_ que han asistido a los parlamentos de 1993 y 1999 los consideran algunos de los eventos más cruciales y transformadores de sus vidas.
 
@@ -56,7 +62,7 @@ El Parlamento nos ofrece una tarifa de grupo especial para el registro del progr
 
 **Los próximos 50 años**
 
-La próxima Conferencia Internacional de la Fraternidad _El Libro de Urantia_ está programada para celebrarse en la Universidad de Villanova, cerca de Filadelfia, del 30 de julio al 4 de agosto de 2005. El año 2005 marca el 50.º aniversario de la publicación de _El Libro de Urantia_, y como título "HACER MATER DEL ESPÍRITU: Los Próximos 50 Años”, indica, la conferencia está destinada a celebrar este importante aniversario mientras esperamos los próximos cincuenta años de crecimiento.
+La próxima Conferencia Internacional de la Fellowship _El Libro de Urantia_ está programada para celebrarse en la Universidad de Villanova, cerca de Filadelfia, del 30 de julio al 4 de agosto de 2005. El año 2005 marca el 50.º aniversario de la publicación de _El Libro de Urantia_, y como título "HACER MATER DEL ESPÍRITU: Los Próximos 50 Años”, indica, la conferencia está destinada a celebrar este importante aniversario mientras esperamos los próximos cincuenta años de crecimiento.
 
 Los coordinadores de la conferencia están emocionados de probar algunas ideas de programación nuevas esta vez. Se están haciendo planes para ofrecer tres pistas: en ciencia, filosofía y teología, y espiritualidad experiencial, a fin de brindar a los asistentes una amplia, pero coherente, opción de oportunidades para estudiar las enseñanzas.
 
@@ -88,7 +94,7 @@ Por favor envíenos noticias de las actividades de su grupo. Una descripción de
 
 ## Reunión del CG en febrero de 2004
 
-¿Ha asistido alguna vez a una reunión del Consejo General de la Fraternidad? Está invitado a observar la sesión del Consejo en su reunión en Newport Beach, California, el 7 de febrero de 2004. El Consejo comenzará su sesión el sábado 7 de febrero a las 9 am en el Hotel Hyatt Newporter y continuará hasta las 5 pm Este es una buena oportunidad para conocer a los concejales.
+¿Ha asistido alguna vez a una reunión del Consejo General de la Fellowship? Está invitado a observar la sesión del Consejo en su reunión en Newport Beach, California, el 7 de febrero de 2004. El Consejo comenzará su sesión el sábado 7 de febrero a las 9 am en el Hotel Hyatt Newporter y continuará hasta las 5 pm Este es una buena oportunidad para conocer a los concejales.
 
 Venga y observe el trabajo del Consejo y disfrute de la camaradería de otros lectores. ¡Espero verte allí!
 
@@ -128,7 +134,7 @@ Debido al éxito del proyecto de libros en español, nos complace anunciar que e
 ¡Por favor considere una donación a este maravilloso proyecto! Gracias.
 
 Michelle Klimesh
-El Consejo General de la Fraternidad _El Libro de Urantia_
+El Consejo General de la Fellowship _El Libro de Urantia_
 
 > Conoce al verdadero hombre detrás de la cara oficial. Conoce a John Hales en el próximo Mighty Messenger.
 {.is-info}
@@ -152,6 +158,9 @@ sitio web: http://www.urantiabook.org
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2002_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2002</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2003">
@@ -159,6 +168,9 @@ sitio web: http://www.urantiabook.org
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2004_Spring">
+          <span class="pr-2">Edición de primavera de 2004</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

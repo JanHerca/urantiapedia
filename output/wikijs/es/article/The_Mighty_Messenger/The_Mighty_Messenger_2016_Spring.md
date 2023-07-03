@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2015_Fall">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de otoño de 2015</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2016">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2016_Fall">
+          <span class="pr-2">Edición de otoño de 2016</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -32,7 +38,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Planificadores diligentes a medida que se acerca la conferencia conjunta
 
-¡La conferencia de verano/sesión de estudio de verano de 2016 está cobrando impulso! La primera sesión plenaria de En este número comenzará el jueves 9 de junio por la tarde y la conferencia concluirá el domingo 12 de junio al mediodía. Las entidades organizadoras son la Asociación Lone Star Urantia y el Comité de Educación de la Fraternidad. www.Urantia-LSUA.org es también la dirección en la que las personas deben registrarse, si aún no lo han hecho. Todavía hay mucho tiempo para ser parte de lo que promete ser una reunión cálida y espiritual de reunión y educación.
+¡La conferencia de verano/sesión de estudio de verano de 2016 está cobrando impulso! La primera sesión plenaria de En este número comenzará el jueves 9 de junio por la tarde y la conferencia concluirá el domingo 12 de junio al mediodía. Las entidades organizadoras son la Asociación Lone Star Urantia y el Comité de Educación de la Fellowship. www.Urantia-LSUA.org es también la dirección en la que las personas deben registrarse, si aún no lo han hecho. Todavía hay mucho tiempo para ser parte de lo que promete ser una reunión cálida y espiritual de reunión y educación.
 
 Katrina Glavan-Heise de LSUA es la directora general de los detalles, el registro y la logística de la conferencia. Ella quiere que la gente sepa que hay dinero para Fellowships que las personas pueden solicitar. «En nuestro sitio web donde se describe la conferencia hay un botón para solicitar una Fellowship: www.Urantia-LSUA.org». Katrina agregó que los asistentes a la conferencia UAUS/Fellowship de 2016 que deseen alquilar deben usar el número específico de descuento para clientes de Budget (BCD) de U001963 cuando llamen a Budget al 1-800-842-5628 para hacer una reserva. El BCD es efectivo desde 7 días antes del evento hasta 7 días después de la conferencia. El número BCD se colocará automáticamente en los detalles de la reserva cuando se use con este hipervínculo: [Reserva](https://www.budgetcarrental.com/budget/meetings/go.html?BCD=U001963&NAME=Lone+Star+Urantia+Assocaition+&FDATE=06072016&TDATE=06142016&LOCATION2=&LOCATION1=San+Antonio%2cTX&EVENT=0&IN=&AA=0). (También puede usar el enlace activo en el mini-Messenger de marzo).
 
@@ -44,7 +50,7 @@ Descuento de presupuesto para la Asociación Lone Star Urantia 2016. Katrina y S
 
 Sherry Layton, del Comité de Educación de la Fellowship, quien preside el Comité de Programa para esta Sesión de Estudio de Verano, que también incluye a David Glass, David Linthicum y Neda Tehrani, anunció que hay varias solicitudes para presentar en plenarias o para dar un taller en a raíz del 29 de febrero fecha límite de presentación de solicitudes. Estos aspectos destacados de la conferencia se anunciarán pronto, incluidas las charlas principales. El tema de la conferencia es «Jesús, el Maestro Maestro». Incluirá eventos especiales el sábado por la noche y presentaciones de lectores dedicados de _El Libro de Urantia_. Habrá una oración de dedicación antes de cada sesión plenaria, junto con videos inspiradores y música dirigida por Gaetan Charland que precederá a cada sesión plenaria. Sherry dijo: “Pronto se presentará un programa completo que resume todas las actividades,
 
-También hay una serie de eventos fuera de la conferencia planeados antes y después de la conferencia misma. Bobbie Dreier y Gard Jameson organizarán un retiro previo a la conferencia desde el martes por la noche hasta el jueves al mediodía, como lo han hecho antes de varias sesiones de estudio de verano. Los lugares para este evento están casi llenos. El Consejo de Presidentes de la AUI organizará una reunión, al igual que el Consejo General de la Fraternidad (después de la conferencia). La reunión del GC abierta a los observadores. Durante el día jueves, el Comité de Membresía de la Fraternidad organizará una reunión que incluirá un Cónclave de la Sociedad, y los comités de educación de la Fraternidad, la Fundación y la UAI planean reunirse nuevamente, el jueves por la tarde, en una sesión conjunta. Seguirán más detalles.
+También hay una serie de eventos fuera de la conferencia planeados antes y después de la conferencia misma. Bobbie Dreier y Gard Jameson organizarán un retiro previo a la conferencia desde el martes por la noche hasta el jueves al mediodía, como lo han hecho antes de varias sesiones de estudio de verano. Los lugares para este evento están casi llenos. El Consejo de Presidentes de la AUI organizará una reunión, al igual que el Consejo General de la Fellowship (después de la conferencia). La reunión del GC abierta a los observadores. Durante el día jueves, el Comité de Membresía de la Fellowship organizará una reunión que incluirá un Cónclave de la Sociedad, y los comités de educación de la Fellowship, la Fundación y la UAI planean reunirse nuevamente, el jueves por la tarde, en una sesión conjunta. Seguirán más detalles.
 
 La Fellowship de _El Libro de Urantia_ y Urantia Association United States están anticipando una maravillosa reunión de lectores de _The Urantia Book_ de todas las afiliaciones para renovar amistades, hacer nuevos amigos y estudiar a «Jesús, el Gran Maestro» en una atmósfera tanto espiritual como educativa. .
 
@@ -74,7 +80,7 @@ Bueno, porque si estás leyendo _El Libro de Urantia_ sabes lo que significa ten
 
 Además, probablemente hayas experimentado la búsqueda ardiente de significado y sepas lo bien que se siente encontrar enseñanzas espirituales que realmente tengan sentido. Probablemente recuerde cómo se siente al preguntarse: «¿Dios es realmente así?» «¿Quién soy y cómo encajo?» «¿Cuál es el valor y el propósito de mi vida?» «¿Por qué Dios permite que exista el mal?» «¿Por qué Dios permite que la gente buena sufra?» Sabes lo confuso que puede ser cuando, en el proceso de cuestionamiento sincero, uno se enfrenta a la rigidez del fundamentalismo dogmático por un lado y al vacío de la ciencia secular sin fe por el otro.
 
-Jesús describió bien el dolor de la búsqueda cuando dijo conmovedoramente, «_El mundo está lleno de almas hambrientas que mueren de hambre en la misma presencia del pan de vida; los hombres mueren buscando al mismo Dios que vive en ellos. Los hombres buscan los tesoros del reino con corazones anhelantes y pies cansados ​​cuando todos están al alcance inmediato de la fe viva._» [[LU 159:3.8](/es/The_Urantia_Book/159#p3_8)]
+Jesús describió bien el dolor de la búsqueda cuando dijo conmovedoramente, «_El mundo está lleno de almas hambrientas que se mueren de hambre delante mismo del pan de la vida; los hombres se mueren buscando al mismo Dios que vive dentro de ellos. Los hombres buscan los tesoros del reino con un corazón anhelante y unos pasos cansados, cuando todos se encuentran al alcance inmediato de la fe viviente._» [[LU 159:3.8](/es/The_Urantia_Book/159#p3_8)]
 
 Aquellos de nosotros que tenemos la bendición de tener esta asombrosa revelación en nuestras vidas sabemos cómo se siente tener respuestas lógicas y satisfactorias a las preguntas más desconcertantes de la vida. Quienes leemos _El Libro de Urantia_ no tenemos que temer a la muerte, ni ver el mundo como un desastre sin esperanza, ni pensar en Dios como un monarca ofendido, un gobernante severo y todopoderoso cuyo principal placer es detectar a sus súbditos en sus fechorías y para asegurarse de que sean debidamente castigados. Se nos ha dado un regalo precioso al liberarnos completamente de estas creencias embrutecedoras.
 
@@ -84,7 +90,7 @@ Nosotros en la Fellowship de _El Libro de Urantia_ todavía ardemos por comparti
 
 Lo pondremos en manos de aquellos que lo anhelan pero no nos detendremos ahí. Una vez que lo tengan, haremos todo lo posible para reunirlos para una socialización significativa en torno a él. En otras palabras, seguiremos haciendo lo que hemos hecho durante los últimos 60 años. Sin embargo, no podemos hacerlo sin USTED. Necesitamos tu ayuda. ¿Está usted con nosotros?
 
-Únase a nosotros en este gran y continuo proyecto dando lo que pueda. Haga una donación yendo al sitio web de la Fraternidad, www.urantiabook.org y haga clic en 'Donar', y quédese en paz sabiendo que gracias a usted alguna alma hambrienta será alimentada y que encontrarán al Dios de sus sueños y sabrán que no eres un huérfano cósmico sino verdaderamente un hijo del DIOS viviente.
+Únase a nosotros en este gran y continuo proyecto dando lo que pueda. Haga una donación yendo al sitio web de la Fellowship, www.urantiabook.org y haga clic en 'Donar', y quédese en paz sabiendo que gracias a usted alguna alma hambrienta será alimentada y que encontrarán al Dios de sus sueños y sabrán que no eres un huérfano cósmico sino verdaderamente un hijo del DIOS viviente.
 
 
 
@@ -104,7 +110,7 @@ Después de la cena del viernes, llegaron 15 Consejeros más para participar en 
 <img src="/image/article/The_Mighty_Messenger/2016_Spring/005888.jpg">
 </figure>
 
-Una de las primeras órdenes del día el domingo por la mañana fue elegir dos candidatos para las vacantes en el Consejo. La primera persona elegida fue Avi Dogim de Nueva Jersey, a quien muchos lectores de UB recordarán. Ha servido en GC antes y fue presidente de la Fraternidad. Actualmente es miembro del Comité Judicial. La otra persona elegida fue Miranda Clendening de Colorado, lectora de segunda generación. Ella está sirviendo en el Comité de Planificación de IC '17 y también forma parte de los Comités de Fellowships Internacionales y de Jóvenes y Adultos Jóvenes.
+Una de las primeras órdenes del día el domingo por la mañana fue elegir dos candidatos para las vacantes en el Consejo. La primera persona elegida fue Avi Dogim de Nueva Jersey, a quien muchos lectores de UB recordarán. Ha servido en GC antes y fue presidente de la Fellowship. Actualmente es miembro del Comité Judicial. La otra persona elegida fue Miranda Clendening de Colorado, lectora de segunda generación. Ella está sirviendo en el Comité de Planificación de IC '17 y también forma parte de los Comités de la Fellowship Internacionales y de Jóvenes y Adultos Jóvenes.
 
 Cristina Seaborn anunció que su mandato como presidenta interreligiosa expira en junio y dejará el cargo. Ella ha sugerido a otro miembro de Interfaith para que la suceda, pero en la próxima reunión del Consejo se pueden nominar a otros del pleno. El mandato de Cristina en GC continúa hasta 2018.
 
@@ -127,16 +133,16 @@ Los concejales Paul M. Anderson de Boston y Guillermo Deoto de Florida, que fuer
 <img src="/image/article/The_Mighty_Messenger/2016_Spring/Miranda_Clendening.jpg">
 </figure>
 
-**Miranda Clendening**, miembro de la Fraternidad Espiritual de las Montañas Rocosas, ya ha estado profundamente involucrada en actividades de servicio, tanto dentro de la Fraternidad como en la comunidad. Es consejera de jóvenes, ministra interreligiosa y sirvió en el Comité de Familia para la Conferencia Internacional de la Fraternidad de 2014. Espera aportar un espíritu entusiasta y positivo a la difusión de las enseñanzas de _El Libro de Urantia_ de formas nuevas y creativas en todo el mundo, dedicando la mayor parte de su tiempo a las actividades de la vida familiar en la Conferencia Internacional de 2017 y ayudando al comité de YaYA.
+**Miranda Clendening**, miembro de la Fellowship Espiritual de las Montañas Rocosas, ya ha estado profundamente involucrada en actividades de servicio, tanto dentro de la Fellowship como en la comunidad. Es consejera de jóvenes, ministra interreligiosa y sirvió en el Comité de Familia para la Conferencia Internacional de la Fellowship de 2014. Espera aportar un espíritu entusiasta y positivo a la difusión de las enseñanzas de _El Libro de Urantia_ de formas nuevas y creativas en todo el mundo, dedicando la mayor parte de su tiempo a las actividades de la vida familiar en la Conferencia Internacional de 2017 y ayudando al comité de YaYA.
 
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2016_Spring/Avi_Dogim.jpg">
 </figure>
 
-**Avi Dogim** ha sido lector desde la década de 1970 y ha servido a la Comunidad en muchas capacidades desde entonces. Es miembro fundador de la Sociedad de Nueva York, expresidente de los Comités de Publicaciones y Membresía de la Fraternidad, expresidente de la Fraternidad y miembro actual del Comité Judicial. Siente que, si bien la Fraternidad ya ha hecho mucho por difundir las enseñanzas de _El Libro de Urantia_, tiene potencial para lograr mucho más a través de un trabajo en equipo cada vez más eficaz.
+**Avi Dogim** ha sido lector desde la década de 1970 y ha servido a la Fellowship en muchas capacidades desde entonces. Es miembro fundador de la Sociedad de Nueva York, expresidente de los Comités de Publicaciones y Membresía de la Fellowship, expresidente de la Fellowship y miembro actual del Comité Judicial. Siente que, si bien la Fellowship ya ha hecho mucho por difundir las enseñanzas de _El Libro de Urantia_, tiene potencial para lograr mucho más a través de un trabajo en equipo cada vez más eficaz.
 
 
-> «Y guíanos momento a momento por el camino del servicio amoroso». [[LU 144:5.51](/es/The_Urantia_Book/144#p5_51)]
+> «Y condúcenos en todo momento por el sendero del servicio afectuoso.». [[LU 144:5.62](/es/The_Urantia_Book/144#p5_62)]
 
 
 ## Sociedades en acción
@@ -206,6 +212,9 @@ www.urantiabook.org
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2015_Fall">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de otoño de 2015</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2016">
@@ -213,6 +222,9 @@ www.urantiabook.org
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2016_Fall">
+          <span class="pr-2">Edición de otoño de 2016</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2008_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2008</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-2008">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2009_Winter">
+          <span class="pr-2">Edición de invierno de 2009</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -35,9 +41,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 «Espero que no te importe que lo diga, pero tu conciencia de Dios se está mostrando». ¿Ha notado que _El Libro de Urantia_ coloca definiciones de la conciencia de Dios de manera notoria en la última oración del Prólogo y la primera oración del último párrafo en todo el libro?
 
-> «…la realidad en constante progreso de la experiencia religiosa personal: la conciencia de Dios». [F:XII.12](/es/The_Urantia_Book/0#p12_12)
+> «...la realidad siempre en progreso de la experiencia religiosa personal —la conciencia de Dios». [F:XII.13](/es/The_Urantia_Book/0#p12_13)
 
-> «Y la conciencia de Dios es equivalente a la integración del yo con el universo…» [[LU 196:3.32](/es/The_Urantia_Book/196#p3_32)]
+> «La conciencia de Dios equivale a la integración del yo en el universo...» [[LU 196:3.35](/es/The_Urantia_Book/196#p3_35)]
 
 Todas las enseñanzas se mantienen en los brazos de la conciencia de Dios. En cada nivel de nuestro progreso, es este esfuerzo continuo para empujar la envoltura de la conciencia del yo, el alma y el espíritu lo que constituye la conciencia de Dios. Es la experiencia y el hecho de volverse más real.
 
@@ -56,7 +62,7 @@ Por _Robert Burns_
 <img src="/image/article/The_Mighty_Messenger/2008_Winter/Robert_Burns.jpg">
 </figure>
 
-Guau, la Fraternidad tiene más proyectos significativos a largo plazo en desarrollo que nunca antes, y como cualquier organización en crecimiento, tenemos muchos desafíos. Nos esforzamos por mantener las oportunidades de crecimiento mientras equilibramos nuestros recursos, mantenemos nuestros activos y continuamos desarrollando una sólida infraestructura futura. Cada semana se presentan proyectos asombrosos, excelentes noticias para la revelación, pero requieren que construyamos y financien una infraestructura que siga el ritmo de estas oportunidades emergentes.
+Guau, la Fellowship tiene más proyectos significativos a largo plazo en desarrollo que nunca antes, y como cualquier organización en crecimiento, tenemos muchos desafíos. Nos esforzamos por mantener las oportunidades de crecimiento mientras equilibramos nuestros recursos, mantenemos nuestros activos y continuamos desarrollando una sólida infraestructura futura. Cada semana se presentan proyectos asombrosos, excelentes noticias para la revelación, pero requieren que construyamos y financien una infraestructura que siga el ritmo de estas oportunidades emergentes.
 
 ¡La mejor noticia es que la difusión está ocurriendo! El libro está llegando a las manos de los buscadores de la verdad de todo el mundo, debido en gran parte a nuestros esfuerzos. Aquí hay una descripción general parcial de las muchas áreas en las que el trabajo de la Fellowship está avanzando y teniendo éxito.
 
@@ -80,13 +86,13 @@ Con la responsabilidad de participar en la diseminación mundial de una revelaci
 
 International Fellowship: Este año participamos en la Feria del Libro de Delhi en India, una de las ferias del libro más grandes del mundo, donde se distribuyeron miles de «vitaminas espirituales» y folletos introductorios, 10 cajas de libros y una caja del sampler en urdu. Se hicieron contactos importantes con lectores regionales que están interesados ​​en fomentar grupos en sus áreas y que están dispuestos a ayudar con las traducciones de obras secundarias. El trabajo preliminar también se está realizando en India y Pakistán. El grupo en Islamabad acaba de completar una traducción al urdu de los primeros cinco artículos del libro de Michelle Klimesh The Story of Everything que se publicará como folleto.
 
-Participamos en la feria del libro de Buenos Aires en Argentina, un proyecto conjunto compartido con la Fundación Urantia y la UAI. También se está realizando un trabajo significativo en Colombia, Costa Rica, El Salvador, México y Nicaragua con los intrépidos esfuerzos de Agustín Arellano, representante de Servicios al Lector en español de la Fraternidad.
+Participamos en la feria del libro de Buenos Aires en Argentina, un proyecto conjunto compartido con la Fundación Urantia y la UAI. También se está realizando un trabajo significativo en Colombia, Costa Rica, El Salvador, México y Nicaragua con los intrépidos esfuerzos de Agustín Arellano, representante de Servicios al Lector en español de la Fellowship.
 
 Interreligioso: El Comité Interreligioso mantiene contacto con lectores dedicados que trabajan dentro del movimiento interreligioso. El trabajo actual incluye la elaboración de un plan de estudios para un retiro anual de estudio de las religiones del mundo. Este programa eventualmente incluirá componentes de capacitación para la participación en el diálogo interreligioso. Nos gustaría hacer nuestra cuarta aparición en el Parlamento de las Religiones del Mundo en Melbourne, Australia, en 2009. El Parlamento en 2004 tuvo más de 50 asistentes Urantianos.
 
-Relaciones con la Fundación Urantia: a través del trabajo de nuestro presidente de enlace, Marvin Gawryn, existe una planificación a largo plazo para reducir la duplicación de esfuerzos, mejorar las comunicaciones y facilitar un enfoque integrado de los esfuerzos de difusión compartidos por todas las organizaciones Urantia. Se ha habilitado a la Fraternidad para publicar traducciones de la Fundación en su sitio web y vender traducciones a través de nuestra tienda web.
+Relaciones con la Fundación Urantia: a través del trabajo de nuestro presidente de enlace, Marvin Gawryn, existe una planificación a largo plazo para reducir la duplicación de esfuerzos, mejorar las comunicaciones y facilitar un enfoque integrado de los esfuerzos de difusión compartidos por todas las organizaciones Urantia. Se ha habilitado a la Fellowship para publicar traducciones de la Fundación en su sitio web y vender traducciones a través de nuestra tienda web.
 
-Membresía: El comité de membresía se está comunicando personalmente con todos los miembros de nuestra base de datos que no son miembros de la Fraternidad. Esto equivale a contactar a unos 5.000 lectores en un esfuerzo por estimular una mayor participación. El propósito es construir un cuerpo más fuerte de voluntarios para buscar más oportunidades de divulgación.
+Membresía: El comité de membresía se está comunicando personalmente con todos los miembros de nuestra base de datos que no son miembros de la Fellowship. Esto equivale a contactar a unos 5.000 lectores en un esfuerzo por estimular una mayor participación. El propósito es construir un cuerpo más fuerte de voluntarios para buscar más oportunidades de divulgación.
 
 Sitio web/TI: El sitio web en inglés continúa experimentando una tasa de crecimiento anual de usuarios del 25 % al 30 %, incluidas las visitas de buscadores de la verdad de más de 80 países. El sitio web está pasando por un rediseño completo y se han iniciado varios servicios nuevos, incluido el estudio en línea de _El Libro de Urantia_ con enlaces a versiones de audio de cada sección, al índice de temas, Paramony y un resumen de cada artículo basado en en La historia de todo de Michelle Klimesh. El Polygloss, creado por Troy Bishop, permite la visualización simultánea de dos traducciones cualquiera, una herramienta invaluable para los traductores.
 
@@ -94,7 +100,7 @@ Los trabajos secundarios se están formateando y poniendo a disposición para su
 
 El comité de TI continúa trabajando en el desarrollo de la base de datos, colocando la información de los lectores en un sistema unificado para mejorar los esfuerzos de difusión global. El «movimiento» Urantia es el primer gran movimiento religioso que surge en la era del ciberespacio. En lugar de invertir en inmuebles, templos u oficinas, hemos optado por ser una organización «virtual» que permite destinar un mayor porcentaje de nuestros ingresos directamente a programas de difusión.
 
-El resultado final: Esta es una descripción general limitada de cuánto logra la Fraternidad a través de los esfuerzos de nuestros voluntarios y un puñado de trabajadores dedicados. Tenemos una presencia interreligiosa creciente y más gente que nunca ha oído hablar de _El Libro de Urantia_. Ayudamos a que las comunidades de lectores crezcan internacionalmente y se han distribuido 900 Libros de Urantia a unidades militares de todo el mundo. Tenemos reuniones sociales anuales, grandes y pequeñas, patrocinadas por la Fellowship y sus Sociedades. The Pipeline of Light envía libros a personas en muchas naciones que no pueden pagar el libro. La información educativa extensa está disponible para personas de todo el mundo en varios idiomas a través de nuestro sitio web. Los libros en todos los idiomas traducidos están disponibles para la venta o revisión en nuestro sitio web.
+El resultado final: Esta es una descripción general limitada de cuánto logra la Fellowship a través de los esfuerzos de nuestros voluntarios y un puñado de trabajadores dedicados. Tenemos una presencia interreligiosa creciente y más gente que nunca ha oído hablar de _El Libro de Urantia_. Ayudamos a que las comunidades de lectores crezcan internacionalmente y se han distribuido 900 Libros de Urantia a unidades militares de todo el mundo. Tenemos reuniones sociales anuales, grandes y pequeñas, patrocinadas por la Fellowship y sus Sociedades. The Pipeline of Light envía libros a personas en muchas naciones que no pueden pagar el libro. La información educativa extensa está disponible para personas de todo el mundo en varios idiomas a través de nuestro sitio web. Los libros en todos los idiomas traducidos están disponibles para la venta o revisión en nuestro sitio web.
 
 Esto es gracias a usted, ofreciendo su tiempo como voluntario y donando a nuestros esfuerzos. ¡Mantengámonos todos enfocados en la obra de nuestro Padre!
 
@@ -148,7 +154,7 @@ Dolorous Nice liderando al grupo Golden Gate en un momento devocional.
 <img src="/image/article/The_Mighty_Messenger/2008_Winter/005694.jpg">
 </figure>
 
-Larry Bowman da una presentación en la celebración del cumpleaños de Jesús el 23 de agosto en la casa de Toby y Robin Fox en Prescott Valley, Arizona. La reunión fue patrocinada conjuntamente por la Sociedad para Lectores de _El Libro de Urantia_ del Gran Cañón y la Asociación de la Hermandad Urantia de Arizona.
+Larry Bowman da una presentación en la celebración del cumpleaños de Jesús el 23 de agosto en la casa de Toby y Robin Fox en Prescott Valley, Arizona. La reunión fue patrocinada conjuntamente por la Sociedad para Lectores de _El Libro de Urantia_ del Gran Cañón y la Asociación de la Brotherhood Urantia de Arizona.
 
 <figure id="Figure_9" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2008_Winter/005695.jpg">
@@ -177,7 +183,7 @@ Por supuesto, es más que bienvenido a contribuir enviándonos un cheque a Urant
 
 Puede preguntar: «¿Para qué se utilizará mi contribución?»
 
-Solo en el último año, nuestra distribución de _El Libro de Urantia_ ha aumentado más de un 20 % con respecto al año pasado. Esto no incluye todos los libros que se han regalado a través de varios proyectos maravillosos, como los 900 libros que se distribuyeron a las tropas de combate en Oriente Medio este verano y los que se han distribuido en América Central y del Sur. a través de un programa conjunto con la Fundación Urantia, así como los 1000 libros que están destinados a la India en 2009. Debemos agradecer a Buck Weimer, Susan Ransbottom, Agustín Arellano y todo el Comité Internacional de Fellowships y muchos otros por hacer avances extraordinarios en estos pastos nuevos.
+Solo en el último año, nuestra distribución de _El Libro de Urantia_ ha aumentado más de un 20 % con respecto al año pasado. Esto no incluye todos los libros que se han regalado a través de varios proyectos maravillosos, como los 900 libros que se distribuyeron a las tropas de combate en Oriente Medio este verano y los que se han distribuido en América Central y del Sur. a través de un programa conjunto con la Fundación Urantia, así como los 1000 libros que están destinados a la India en 2009. Debemos agradecer a Buck Weimer, Susan Ransbottom, Agustín Arellano y todo el Comité Internacional de la Fellowship y muchos otros por hacer avances extraordinarios en estos pastos nuevos.
 
 Luego están los alucinantes proyectos de TI y sitios web de David Kantor. Esto es lo que está pasando allí.
 
@@ -289,22 +295,22 @@ Por _Barbara Dreier_
 <img src="/image/article/The_Mighty_Messenger/2008_Winter/005702.jpg">
 </figure>
 
-El sábado 27 de octubre por la noche, más de 50 miembros y amigos de la Sociedad Urantia del Gran Nueva York celebraron el vigésimo aniversario de la sociedad en la casa de Robin y Helene Jorgensen en Manhattan. El presidente Nick Curto dio la bienvenida al grupo con un brindis y leyó una nota de felicitación del presidente de Urantia Book Fellowship, Robert Burns. El miembro fundador, Bobbie Dreier, compartió algunos recuerdos del alquiler de la sociedad en el Morris Yacht Club en City Island. Muchos amigos vinieron de lejos para unirse a la celebración. Entre ellos estaban John Hales y Tom Choquette, que habían asistido a la constitución de la sociedad en 1988 como miembros del Comité de Constitución de la Hermandad Urantia.
+El sábado 27 de octubre por la noche, más de 50 miembros y amigos de la Sociedad Urantia del Gran Nueva York celebraron el vigésimo aniversario de la sociedad en la casa de Robin y Helene Jorgensen en Manhattan. El presidente Nick Curto dio la bienvenida al grupo con un brindis y leyó una nota de felicitación del presidente de Urantia Book Fellowship, Robert Burns. El miembro fundador, Bobbie Dreier, compartió algunos recuerdos del alquiler de la sociedad en el Morris Yacht Club en City Island. Muchos amigos vinieron de lejos para unirse a la celebración. Entre ellos estaban John Hales y Tom Choquette, que habían asistido a la constitución de la sociedad en 1988 como miembros del Comité de Constitución de la Brotherhood Urantia.
 
 La Sociedad Urantia del Área Metropolitana de Nueva York se ha reunido regularmente durante 20 años para realizar negocios, proporcionar programas de estudio, hermandad y reunirse para adorar. Su membresía votante tiene un promedio de 25 lectores, y la mayoría toma parte activa en algún aspecto del funcionamiento de la sociedad. La sociedad ha realizado muchas reuniones regionales y retiros de primavera y otoño.
 
 USGNY tiene un programa activo de alcance local presidido por Robin Jorgensen. El comité ha producido una presentación de diapositivas de «Introducción a _El Libro de Urantia_», botones UB, y también está presente en una variedad de ferias y eventos locales, participa en al menos dos exposiciones al año y mantiene el sitio web de la sociedad www.urantia- nyc.org.
 
-Las traducciones al ruso y coreano de _El Libro de Urantia_ de la sociedad se realizaron gracias al tiempo y esfuerzo dedicados de Lila Dogim (ruso) y Kay y Barry Clark (coreano). Se leyó al grupo la carta de felicitación y agradecimiento del afiliado coreano de la Fraternidad a la sociedad por la traducción. El sitio web de Barry, www.theuniversalfather.org, alberga versiones descargables de la mayoría de las traducciones del Libro de Urantia.
+Las traducciones al ruso y coreano de _El Libro de Urantia_ de la sociedad se realizaron gracias al tiempo y esfuerzo dedicados de Lila Dogim (ruso) y Kay y Barry Clark (coreano). Se leyó al grupo la carta de felicitación y agradecimiento del afiliado coreano de la Fellowship a la sociedad por la traducción. El sitio web de Barry, www.theuniversalfather.org, alberga versiones descargables de la mayoría de las traducciones del Libro de Urantia.
 
-Los miembros de la sociedad de Nueva York han ocupado muchos puestos de liderazgo en la Fraternidad y presidido varias conferencias internacionales. Steve Dreier y Avi Dogim son ex presidentes y muchos otros han sido y continúan siendo miembros del Comité Ejecutivo y del Consejo General.
+Los miembros de la sociedad de Nueva York han ocupado muchos puestos de liderazgo en la Fellowship y presidido varias conferencias internacionales. Steve Dreier y Avi Dogim son ex presidentes y muchos otros han sido y continúan siendo miembros del Comité Ejecutivo y del Consejo General.
 
 La velada fue una animada celebración de la renovación de viejas amistades y el deleite de hacer nuevas. En vísperas de su vigésimo cumpleaños, la Sociedad Urantia del Gran Nueva York esperaba muchos años más de amoroso servicio a la revelación.
 
-> **¿Es usted miembro de la Comunidad?**
+> **¿Es usted miembro de la Fellowship?**
 >
 > Si no, lo invitamos a unirse a nosotros. Con cada nuevo miembro alcanzamos un nuevo nivel de unidad de propósito al tiempo que aceptamos la diversidad de nuestro servicio a medida que nos asociamos para compartir un propósito común en la difusión mundial de _El Libro de Urantia_ y sus enseñanzas. Como Jesús le dijo al filósofo griego: Un grupo social de seres humanos en armonía de trabajo coordinado representa una fuerza mucho mayor que la simple suma de sus partes. [[LU 133:5.6](/es/The_Urantia_Book/133#p5_6)]
-> Así que ven y únete a nosotros. Puede comunicarse con el Presidente de Membresía de la Fraternidad, Lenny Cowles en lighing@wispertel.net para obtener más información. Esperamos escuchar de usted.
+> Así que ven y únete a nosotros. Puede comunicarse con el Presidente de Membresía de la Fellowship, Lenny Cowles en lighing@wispertel.net para obtener más información. Esperamos escuchar de usted.
 {.is-info}
 
 ## Lectores de la Sociedad de Urantia de Wisconsin
@@ -339,7 +345,7 @@ Además de ayudar a Éxito Verde a celebrar su 7.º aniversario, Pando aprovech�
 
 **GC se reunirá en Orlando**
 
-La reunión de mitad de año del Consejo General de la Fraternidad se llevará a cabo en Orlando, Florida, del 23 al 25 de enero de 2009, en el Sheraton Suites Hotel cerca del aeropuerto. Los consejeros esperan conocer a los lectores del área que deseen asistir. La reunión comienza el viernes de 7 a 10 p. m. y continúa el sábado de 9 a. m. a 5:00 p. m. y el domingo de 9 a. m. al mediodía. Únete a nosotros si puedes.
+La reunión de mitad de año del Consejo General de la Fellowship se llevará a cabo en Orlando, Florida, del 23 al 25 de enero de 2009, en el Sheraton Suites Hotel cerca del aeropuerto. Los consejeros esperan conocer a los lectores del área que deseen asistir. La reunión comienza el viernes de 7 a 10 p. m. y continúa el sábado de 9 a. m. a 5:00 p. m. y el domingo de 9 a. m. al mediodía. Únete a nosotros si puedes.
 
 ** Escuche a los invitados semanales en Blog-talk Radio **
 
@@ -372,6 +378,9 @@ www.urantiabook.org
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2008_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2008</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-2008">
@@ -379,6 +388,9 @@ www.urantiabook.org
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2009_Winter">
+          <span class="pr-2">Edición de invierno de 2009</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2002_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2002</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2003">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2003_Fall">
+          <span class="pr-2">Edición de otoño de 2003</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -30,17 +36,17 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Democracia en acción
 
-Las 21 Sociedades Colegiadas de la Fraternidad han sido convocadas para elegir representantes para asistir a una Asamblea Trienal de Delegados (TDA) recién constituida. El TDA está programado para el 16 y 17 de julio, justo antes de la Sesión de estudio de verano en East Stroudsburg, Pensilvania.
+Las 21 Sociedades Colegiadas de la Fellowship han sido convocadas para elegir representantes para asistir a una Asamblea Trienal de Delegados (TDA) recién constituida. El TDA está programado para el 16 y 17 de julio, justo antes de la Sesión de estudio de verano en East Stroudsburg, Pensilvania.
 
-La selección de un Delegado y un Suplente es un deber y privilegio muy importante para una Sociedad. Primero, sus representantes elegirán a 12 de los 36 miembros del Consejo General (la junta directiva de la Fraternidad) cuyos mandatos expiran este año, más al menos dos vacantes creadas por renuncias. En segundo lugar, pueden influir en la agenda del Consejo General al aprobar resoluciones para que el Consejo las considere. Finalmente, la TDA puede optar por un receso y volver a reunirse cada uno de los próximos dos años, como lo hizo la Asamblea hace tres años. Si tal es el caso, los representantes de la Sociedad cumplirían mandatos de tres años.
+La selección de un Delegado y un Suplente es un deber y privilegio muy importante para una Sociedad. Primero, sus representantes elegirán a 12 de los 36 miembros del Consejo General (la junta directiva de la Fellowship) cuyos mandatos expiran este año, más al menos dos vacantes creadas por renuncias. En segundo lugar, pueden influir en la agenda del Consejo General al aprobar resoluciones para que el Consejo las considere. Finalmente, la TDA puede optar por un receso y volver a reunirse cada uno de los próximos dos años, como lo hizo la Asamblea hace tres años. Si tal es el caso, los representantes de la Sociedad cumplirían mandatos de tres años.
 
 Los representantes de la sociedad deben ser elegidos por cualidades que coincidan con las tareas de la Asamblea. Cuando los propios representantes hayan asistido a las reuniones del Consejo, sepan cómo funciona y aprecien el tipo de voluntarios que el Consejo necesita para funcionar con eficacia, entonces la Asamblea podrá seleccionar a los mejores miembros para el Consejo. Es importante conocer los estatutos de la Fellowship y cómo funciona la organización. Por supuesto, no hay sustituto para conocer personalmente a los candidatos y estar al tanto de sus contribuciones a la revelación. Finalmente, los representantes de la Sociedad que son sensatos y que trabajan en equipo contribuyen en gran medida al proceso deliberativo de la Asamblea.
 
-> «_10. Representación inteligente y entrenada_. La supervivencia de la democracia depende del éxito del gobierno representativo; y eso está condicionado a la práctica de elegir para cargos públicos solo a aquellas personas técnicamente capacitadas, intelectualmente competentes, socialmente leales y moralmente idóneas.»_ [[LU 71:2.14](/es/The_Urantia_Book/71#p2_14)]
+> «_10. Unos representantes inteligentes y cualificados_. La supervivencia de la democracia depende del éxito del gobierno representativo, y este éxito está condicionado por la práctica de elegir únicamente para los cargos públicos a aquellas personas que estén técnicamente cualificadas, y sean intelectualmente competentes, socialmente leales y moralmente idóneas.» [[LU 71:2.19](/es/The_Urantia_Book/71#p2_19)]
 
 ## Carta del Comité Ejecutivo
 
-> _Para el lector: Esta edición especial del Mighty Messenger presenta la Carta Ejecutiva, informando a los miembros de la Fraternidad sobre los desarrollos recientes en su organización. En el pasado, la Carta Ejecutiva se envió por correo en primera clase a los miembros. El método actual de difusión de la carta se emplea para reducir los costos de envío. Este número se envía por correo únicamente a los miembros de la Fraternidad. No dude en compartirlo con cualquier persona en su área que esté interesada. Como siempre, sus comentarios son bienvenidos._
+> _Para el lector: Esta edición especial del Mighty Messenger presenta la Carta Ejecutiva, informando a los miembros de la Fellowship sobre los desarrollos recientes en su organización. En el pasado, la Carta Ejecutiva se envió por correo en primera clase a los miembros. El método actual de difusión de la carta se emplea para reducir los costos de envío. Este número se envía por correo únicamente a los miembros de la Fellowship. No dude en compartirlo con cualquier persona en su área que esté interesada. Como siempre, sus comentarios son bienvenidos._
 >
 > _Los editores_
 {.is-info}
@@ -53,7 +59,7 @@ El Comité Ejecutivo había decidido, al concluir su reunión de octubre, celebr
 
 **Presentando el Libro al Mundo:** La cuestión de cómo presentar el libro al mundo generó una larga discusión entre los miembros del CE, durante la cual los individuos expresaron profundos sentimientos sobre el significado de _El Libro de Urantia_ para ellos y cómo ese significado ha evolucionado a lo largo de los años. Si bien el principio de medir la preparación de un individuo para varios tipos de información contenida en el libro, cuando uno está involucrado en un diálogo de persona a persona, es bien entendido, es un asunto completamente diferente cuando uno considera la cuestión de cómo una organización introduce el libro al mundo. El problema de presentar el libro como una «revelación» es que uno corre el riesgo de ser percibido como un «fundamentalista». El hecho de que contenga un gran número y voluminosamente incorporadas fuentes humanas, puede, entre otras cosas, ser una protección contra la trampa del fundamentalismo. Puede requerir que uno diga que el libro contiene una revelación, en lugar de que es una. Las CE no llegaron a conclusiones definitivas sobre este asunto, aparte de decir que es necesario seguir pensando mucho en esto.
 
-**El sitio web de la Fraternidad** se considera una excelente herramienta de difusión, así como una poderosa herramienta de investigación para cualquier persona interesada en aprender sobre _El Libro de Urantia_, La Fellowship y asuntos relacionados. Se acordaron dos principios rectores básicos con respecto a la estructura y el contenido de nuestro sitio web: 1. Debe haber una distinción muy clara entre los elementos del sitio web que se relacionan con _El Libro de Urantia_ y los elementos que se relacionan con la organización, 2. Los elementos que se relacionan con ciertos asuntos organizativos arcanos o asuntos políticos deben estar sujetos a acceso restringido, posiblemente mediante el uso de una contraseña; debería haber una manera de garantizar que dichos elementos no aparezcan mediante el uso de la palabra «Urantia» como palabra clave en un motor de búsqueda. Se formó un comité ad hoc del sitio web. Su propósito es revisar todo el sitio web de la Fraternidad para determinar, entre otras cosas, en qué medida el sitio web se ajusta a los principios anteriores. El comité realizará una teleconferencia el 1 de marzo y emitirá su informe y recomendaciones poco después.
+**El sitio web de la Fellowship** se considera una excelente herramienta de difusión, así como una poderosa herramienta de investigación para cualquier persona interesada en aprender sobre _El Libro de Urantia_, La Fellowship y asuntos relacionados. Se acordaron dos principios rectores básicos con respecto a la estructura y el contenido de nuestro sitio web: 1. Debe haber una distinción muy clara entre los elementos del sitio web que se relacionan con _El Libro de Urantia_ y los elementos que se relacionan con la organización, 2. Los elementos que se relacionan con ciertos asuntos organizativos arcanos o asuntos políticos deben estar sujetos a acceso restringido, posiblemente mediante el uso de una contraseña; debería haber una manera de garantizar que dichos elementos no aparezcan mediante el uso de la palabra «Urantia» como palabra clave en un motor de búsqueda. Se formó un comité ad hoc del sitio web. Su propósito es revisar todo el sitio web de la Fellowship para determinar, entre otras cosas, en qué medida el sitio web se ajusta a los principios anteriores. El comité realizará una teleconferencia el 1 de marzo y emitirá su informe y recomendaciones poco después.
 
 **Publicaciones impresas:** La opinión general fue que tanto _la Fellowship Herald_ como _The Mighty Messenger_ sirven bien a nuestros propósitos. Se sugirió que tal vez queramos publicar nuestra revista para el público en general en lugar de solo para la comunidad de lectores de _El Libro de Urantia_. En general, se consideró que para hacerlo necesitaríamos un tipo de diario totalmente diferente al _Herald_ y que no estamos preparados para esto. Idealmente, nos gustaría que el boletín se publicara trimestralmente, pero el costo del envío por correo es un factor muy importante que milita en contra de esto. Hubo una discusión sobre la posibilidad de enviar los boletines por correo electrónico a las personas de la lista que pueden recibir el boletín en este formato. Se nombró un comité ad hoc para investigar esta opción.
 
@@ -61,7 +67,7 @@ El Comité Ejecutivo había decidido, al concluir su reunión de octubre, celebr
 
 **La discusión sobre la publicación de _El Libro de Urantia_** fue bastante breve. El consenso fue que hacerlo es una parte muy importante de nuestra misión por ahora y en el futuro previsible. Es demasiado difícil determinar en este momento si esto deberá permanecer como parte de nuestra misión dentro de unos años. El tiempo dirá. Ciertamente, nuestra misión o visión necesitará ser revisada periódicamente para corregir y/o determinar nuestro rumbo.
 
-**Con respecto a las traducciones,** hubo una actualización general sobre el estado de varios esfuerzos de traducción que conocemos. No tenía sentido que la Fraternidad deba involucrarse directamente en ningún trabajo de traducción en este momento.
+**Con respecto a las traducciones,** hubo una actualización general sobre el estado de varios esfuerzos de traducción que conocemos. No tenía sentido que la Fellowship deba involucrarse directamente en ningún trabajo de traducción en este momento.
 
 **El alcance internacional** lo lleva a cabo la Fellowship con el objetivo principal de difundir _El Libro de Urantia_ por todo el mundo. Para hacerlo, necesitamos identificar a personas clave que puedan servir de enlace entre los grupos locales y La Fellowship, debemos estar disponibles para ayudar a los grupos a organizarse y debemos fomentar un entorno en el que el estudio del libro sea promovido. Necesitamos hacer todo esto de una manera no intrusiva, de una manera que permita a cada grupo desarrollar su propio carácter en lugar de que nosotros les impongamos nuestro carácter. El área principal de concentración en la actualidad es América Central y del Sur. Es necesario llegar a África, Europa occidental, Europa oriental y Asia. Debemos encontrar una manera de encontrar los recursos para hacer esto.
 
@@ -99,7 +105,7 @@ Envíe sus diseños completos a: Comité IC05, la Fellowship de _El Libro de Ura
   «Relaciones Espirituales: Uniendo lo Humano y lo Divino» en el Enriquecimiento de Vida Metodista
   Centro, Leesburg, Florida. Para obtener más información, comuníquese con Share Beasley (813) 684-1540 o sharebz@tampabay.rr.com
 
-- 18-20 de julio - Sesión de estudio de verano de Fellowships, East Stroudsburg Univ., East Stroudsburg, PA
+- 18-20 de julio - Sesión de estudio de verano de la Fellowship, East Stroudsburg Univ., East Stroudsburg, PA
 
 - 18 de julio-septiembre. 12 - Varios retiros en Silver Springs, Ontario. Para obtener más información, comuníquese con Sue y Derek Tennant al 1-800-546-5601 o [www.ubretreats.ca](http://www.ubretreats.ca/).
 
@@ -118,15 +124,15 @@ Nuestro tema, «La revelación y el religioso», ha sido elegido para promover l
 
 Con una exposición pública cada vez mayor, estos documentos pronto se enfrentarán a un mayor escrutinio con respecto a sus misteriosos orígenes en relación con el empleo de algunos de los pensamientos y escritos humanos más elevados de principios del siglo XX. Cada vez es más evidente que parte del contenido científico de varios artículos de _El Libro de Urantia_ puede necesitar una «revisión». Esto puede ser preocupante para muchos creyentes. Sin embargo, se nos advierte repetidamente acerca de cristalizar nuestra receptividad a la verdad y aceptación de la fe dentro del marco limitado de un documento escrito.
 
-> _"Debido al aislamiento de la rebelión, la revelación de la verdad en Urantia se ha mezclado con demasiada frecuencia con las declaraciones de cosmologías parciales y transitorias. La verdad permanece sin cambios de generación en generación, pero las enseñanzas asociadas sobre el mundo físico varían de día a día y de año en año. La verdad eterna no debe ser menospreciada porque se encuentra casualmente en compañía de ideas obsoletas sobre el mundo material. Cuanto más de ciencia sepas, menos seguro puedes estar; cuanto más de religión sabes. tienes, más seguro estás._
+> _Debido al aislamiento causado por la rebelión, la revelación de la verdad en Urantia se ha mezclado demasiado a menudo con las declaraciones de cosmologías parciales y transitorias. La verdad permanece invariable de generación en generación, pero las enseñanzas que la acompañan concernientes al mundo físico varían de día en día y de año en año. La verdad eterna no debería ser despreciada porque se la encuentre por casualidad en compañía de ideas obsoletas sobre el mundo material. Cuanta más ciencia conocéis, menos seguros estáis; cuanto más religión poseéis, más certidumbre tenéis._
 >
-> _Las certezas de la ciencia proceden enteramente del intelecto; las certezas de la religión brotan de los cimientos mismos de toda la personalidad. La ciencia apela a la comprensión de la mente; la religión apela a la lealtad y devoción del cuerpo, la mente y el espíritu, incluso a toda la personalidad._ [[LU 102:1.3-4](/es/The_Urantia_Book/102#p1_3)]
+> _Las certidumbres de la ciencia proceden totalmente del intelecto; las certezas de la religión se originan en los fundamentos mismos de la totalidad de la personalidad. La ciencia apela a la comprensión de la mente; la religión apela a la lealtad y a la devoción del cuerpo, la mente y el espíritu, e incluso de toda la personalidad._ [[LU 102:1.3-4](/es/The_Urantia_Book/102#p1_3)]
 
-Cuando se le preguntó acerca de la validez de las «sagradas escrituras» como autoridad para la vida diaria, Jesús respondió a Nathaniel: «_Toma bien en cuenta mis palabras, Nathaniel, nada que la naturaleza humana haya tocado puede considerarse infalible. A través de la mente del hombre puede resplandecer la verdad divina, pero siempre con relativa pureza y divinidad parcial. La criatura puede anhelar la infalibilidad, pero solo los Creadores la poseen._» [[LU 159:4.8](/es/The_Urantia_Book/159#p4_8)]
+Cuando se le preguntó acerca de la validez de las «sagradas escrituras» como autoridad para la vida diaria, Jesús respondió a Nathaniel: «_Toma buena nota de mis palabras, Natanael: nada de lo que la naturaleza humana ha tocado puede ser considerado como infalible. Es cierto que la verdad divina puede brillar a través de la mente humana, pero siempre con una pureza relativa y una divinidad parcial. La criatura puede desear ardientemente la infalibilidad, pero sólo los Creadores la poseen_». [[LU 159:4.8](/es/The_Urantia_Book/159#p4_8)]
 
 Como pioneros en el descubrimiento y estudio de muchas de las fuentes humanas, Matthew Block, Steve Dreier y otros estarán presentes para presentar perspectivas personales sobre sus hallazgos. Dan Massey volverá a examinar algunos de los hechos científicos ofrecidos en los artículos, junto con su contexto. Y David Kantor presentará «Valores divinos y textos sagrados: problemas lingüísticos en la presentación textural del Apocalipsis».
 
-También están previstos varios talleres. Alison Gardner y el Comité de Relaciones Públicas de la Fraternidad ofrecerán talleres sobre la presentación de _El Libro de Urantia_ en lugares públicos, y el Comité Interreligioso está planeando un taller sobre el Islam y otro sobre modelos de diálogo interreligioso eficaz.
+También están previstos varios talleres. Alison Gardner y el Comité de Relaciones Públicas de la Fellowship ofrecerán talleres sobre la presentación de _El Libro de Urantia_ en lugares públicos, y el Comité Interreligioso está planeando un taller sobre el Islam y otro sobre modelos de diálogo interreligioso eficaz.
 
 Reunámonos para la sesión de verano de este año con renovada hambre de verdad y sinceridad de fe. ¡Estas son las cualidades de los verdaderos religiosos, que con coraje espiritual y compromiso se atreven a unirse para continuar construyendo sobre la creación inacabada de Jesús de «compañerismo familiar con Dios» el reino de los cielos en la tierra!
 
@@ -141,6 +147,9 @@ Reunámonos para la sesión de verano de este año con renovada hambre de verdad
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2002_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2002</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2003">
@@ -148,6 +157,9 @@ Reunámonos para la sesión de verano de este año con renovada hambre de verdad
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2003_Fall">
+          <span class="pr-2">Edición de otoño de 2003</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

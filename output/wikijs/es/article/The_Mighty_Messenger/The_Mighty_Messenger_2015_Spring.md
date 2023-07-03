@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2014_Winter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de invierno de 2014</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2015">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2015_Fall">
+          <span class="pr-2">Edición de otoño de 2015</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -73,7 +79,7 @@ Las sesiones de estudio de verano son siempre una oportunidad para renovar vieja
 
 ### Registro
 
-Puede imprimir un formulario de registro en papel o registrarse en línea ahora en www.urantiabook.org, o llamar a la Oficina de Fellowships al 303-467-7858 y solicitar que le envíen un formulario de registro en papel.
+Puede imprimir un formulario de registro en papel o registrarse en línea ahora en www.urantiabook.org, o llamar a la Oficina de la Fellowship al 303-467-7858 y solicitar que le envíen un formulario de registro en papel.
 
 ## Informe del Presidente al Consejo General
 
@@ -83,7 +89,7 @@ Puede imprimir un formulario de registro en papel o registrarse en línea ahora 
 <img src="/image/article/The_Mighty_Messenger/2015_Spring/Lila_Dogim.jpg">
 </figure>
 
-Solo hay un pequeño número de personas en Urantia que han tenido el privilegio de entrar en contacto con la quinta revelación de época. Incluso un número más pequeño ha sido confiado por otros lectores para dirigir los asuntos de la Comunidad.
+Solo hay un pequeño número de personas en Urantia que han tenido el privilegio de entrar en contacto con la quinta revelación de época. Incluso un número más pequeño ha sido confiado por otros lectores para dirigir los asuntos de la Fellowship.
 
 Todas las revelaciones se esfuerzan por introducir y expandir el verdadero concepto de La Primera Fuente y Centro, pero cada revelación de época también ha tenido su propia misión específica.
 
@@ -95,16 +101,16 @@ La tercera fue una revelación de emergencia. Y eso logró reintroducir el conce
 
 Por supuesto que conocemos el cuarto. Michael tuvo que pasar por sus siete autootorgamientos para alcanzar el estado de supremo Soberano del Universo de Nebadon. Eligió Urantia para su séptima dádiva poco después de la ausencia de Adán y Eva, hace más de 37 mil años. Aparentemente, éramos los más desdichados de los planetas de Nebadon. Él nos demostró la vida humana perfecta dedicada a hacer la voluntad del Padre. Introdujo el concepto de Dios como el Padre amoroso de cada individuo. Demostró que no hay necesidad de intermediarios entre el Padre y el niño, no hay necesidad de autoridad eclesiástica, fetiches, rituales, etc. Por supuesto, desordenamos un poco su mensaje. Pero gracias a él tenemos el Espíritu de la Verdad, que nos revela al verdadero Miguel/Jesús.
 
-Ahora llegamos al quinto. Este es inusual, ya que está en forma de libro y escrito por varias personalidades celestiales. Hemos estado estudiando esta revelación durante muchos años. ¿Cuáles son los nuevos conceptos que los reveladores están tratando de introducir? Cada uno de nosotros tendrá su propia respuesta. Para mí son los conceptos de personalidad y la Deidad suprema y evolutiva. Tenemos nuestro ser y participamos en la actualización del Supremo y por lo tanto en el avance de todo el Superuniverso hacia la Luz y la Vida. Entonces, ¿cuál es nuestra misión? Como individuos, nos relacionamos con el Padre. Cada uno de nosotros intenta hacer Su voluntad y realizar su misión individual. Pero aquí, como Consejo General de la Fraternidad, somos un grupo, potencialmente un equipo. Hay al menos otras dos organizaciones importantes.
+Ahora llegamos al quinto. Este es inusual, ya que está en forma de libro y escrito por varias personalidades celestiales. Hemos estado estudiando esta revelación durante muchos años. ¿Cuáles son los nuevos conceptos que los reveladores están tratando de introducir? Cada uno de nosotros tendrá su propia respuesta. Para mí son los conceptos de personalidad y la Deidad suprema y evolutiva. Tenemos nuestro ser y participamos en la actualización del Supremo y por lo tanto en el avance de todo el Superuniverso hacia la Luz y la Vida. Entonces, ¿cuál es nuestra misión? Como individuos, nos relacionamos con el Padre. Cada uno de nosotros intenta hacer Su voluntad y realizar su misión individual. Pero aquí, como Consejo General de la Fellowship, somos un grupo, potencialmente un equipo. Hay al menos otras dos organizaciones importantes.
 
-Cada revelación de época se ajustó a las condiciones planetarias y al nivel de desarrollo de la población de su tiempo. ¿Cuál es la misión de la Fraternidad, teniendo en cuenta las condiciones planetarias de nuestro tiempo? ¿Cómo contribuimos a traer a Urantia un minuto más cerca de la luz y la vida y actualizar al Supremo? ¿Tenemos nosotros como organización la sabiduría y la paciencia para hacer lo que el gobierno seráfico planetario quiere que hagamos?
+Cada revelación de época se ajustó a las condiciones planetarias y al nivel de desarrollo de la población de su tiempo. ¿Cuál es la misión de la Fellowship, teniendo en cuenta las condiciones planetarias de nuestro tiempo? ¿Cómo contribuimos a traer a Urantia un minuto más cerca de la luz y la vida y actualizar al Supremo? ¿Tenemos nosotros como organización la sabiduría y la paciencia para hacer lo que el gobierno seráfico planetario quiere que hagamos?
 
 Estas son algunas de mis preguntas. Tengo mis propias opiniones sobre cuáles podrían ser algunas de las respuestas. Pero las respuestas para este Consejo General no deben provenir de un solo individuo, sino que deben surgir como un consenso de grupo, ya que sabemos completamente que las respuestas son temporales y son destinado a evolucionar a medida que crecemos en espíritu y sabiduría.
 
 Gracias y que tengamos una reunión reflexiva y productiva.
 
 lila dogim,
-Presidente de la Hermandad
+Presidente de la Brotherhood
 
 ## Feria Internacional del Libro de Estambul 2014
 
@@ -134,11 +140,11 @@ No hay palabras que puedan expresar adecuadamente el trabajo que Bill Rocap y Ay
 
 Que se haga la Voluntad del Padre;
 Charlene Morrow, Dolores Nice, Buck Weimer,
-El Comité Internacional de Fellowships
+El Comité Internacional de la Fellowship
 
 ## La experiencia de la Feria del Libro de Jerusalén
 
-El Comité Internacional de Fellowships participó en la Feria del Libro de Jerusalén del 8 al 12 de febrero de 2015. Y fue nuestra primera misión este nuevo año.
+El Comité Internacional de la Fellowship participó en la Feria del Libro de Jerusalén del 8 al 12 de febrero de 2015. Y fue nuestra primera misión este nuevo año.
 
 <figure id="Figure_5" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2015_Spring/005856.jpg">
@@ -166,7 +172,7 @@ La Feria del Libro de Jerusalén fue probablemente nuestra exposición menos pro
 <img src="/image/article/The_Mighty_Messenger/2015_Spring/005858.jpg">
 </figure>
 
-Una vez más, nos gustaría agradecer a los miembros de la Fraternidad, al Comité Ejecutivo y al Consejo General por su apoyo incondicional.
+Una vez más, nos gustaría agradecer a los miembros de la Fellowship, al Comité Ejecutivo y al Consejo General por su apoyo incondicional.
 
 In Love and Service, The IFC: Buck Weimer, ex presidente, Tim Hobbs, actual
 Presidente, Gabriel Rymberg, Claire Thurston, Avi Dogim
@@ -204,7 +210,7 @@ Tenemos varios grandes blogueros activos que publican regularmente mensajes insp
 
 Agregamos nuevos productos a nuestra tienda en línea regularmente. Ya está disponible el excelente vídeo de David Kantor, Re-Imagining Jesus: A visual journey into _The Urantia Book_ story of Jesus.
 
-¿Sabía también que el sitio de la Fraternidad es un recurso definitivo sobre la erudición de Urantia? Acabamos de agregar un nuevo estudio asombroso del erudito de Urantia Stuart Kerr: Dios, hombre y supremo: origen y destino. Está disponible en formato PDF y tiene grandes diagramas.
+¿Sabía también que el sitio de la Fellowship es un recurso definitivo sobre la erudición de Urantia? Acabamos de agregar un nuevo estudio asombroso del erudito de Urantia Stuart Kerr: Dios, hombre y supremo: origen y destino. Está disponible en formato PDF y tiene grandes diagramas.
 
 Nuestro sitio web, https://www.urantiabook.org, es un trabajo de amor de 20 años creado por estudiantes dedicados y devotos de _El Libro de Urantia_. La Fellowship fue una de las primeras organizaciones en proporcionar recursos web para la revelación.
 
@@ -212,7 +218,7 @@ Nuestro sitio web, https://www.urantiabook.org, es un trabajo de amor de 20 año
 <img src="/image/article/The_Mighty_Messenger/2015_Spring/005860.jpg">
 </figure>
 
-El sitio presenta 60 años de Fellowships y estudios. Es un tesoro virtual para buscadores y estudiantes serios por igual. Si no puede encontrar algo que desea, simplemente escriba una palabra clave asociada con ese recurso en la barra de búsqueda principal en el encabezado del sitio y vea qué aparece.
+El sitio presenta 60 años de la Fellowship y estudios. Es un tesoro virtual para buscadores y estudiantes serios por igual. Si no puede encontrar algo que desea, simplemente escriba una palabra clave asociada con ese recurso en la barra de búsqueda principal en el encabezado del sitio y vea qué aparece.
 
 Es posible que haya notado algunos cambios de diseño en ciertas páginas del sitio. Actualmente estamos haciendo que nuestro sitio sea receptivo para que se pueda acceder desde cualquier tipo de dispositivo. Esté atento al lanzamiento oficial pronto. Nos comprometemos a esforzarnos siempre para que nuestro sitio sea fresco, interesante, confiable y útil.
 
@@ -253,6 +259,9 @@ www.urantiabook.org
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2014_Winter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de invierno de 2014</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2015">
@@ -260,6 +269,9 @@ www.urantiabook.org
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2015_Fall">
+          <span class="pr-2">Edición de otoño de 2015</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

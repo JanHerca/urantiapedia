@@ -14,12 +14,18 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2001_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2001</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2001">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2001 — Índice</span>
         </a>
         </td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2002_Spring">
+          <span class="pr-2">Edición de primavera de 2002</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         <td>
         </td>
       </tr>
@@ -32,7 +38,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Revelación en acción: traducir las enseñanzas de _El Libro de Urantia_ en un servicio amoroso
 
-_La Conferencia Internacional de la Fraternidad del Libro de Urantia_ (IC02) es una llamada a la aventura. Lectores de todo el mundo se reunirán en Estes Park Colorado del 30 de junio al 6 de julio para estudio, adoración, compañerismo y recreación. El objetivo de IC02 es traducir las enseñanzas de _El Libro de Urantia_ en un servicio vivo y amoroso. ¡Imagínese las posibilidades de que más de mil de nosotros nos unamos como una familia espiritual! ¡Juntos podemos realizar mejor los potenciales de la revelación de Urantia y regresar a casa inspirados para actualizarla de manera más efectiva!
+_La Conferencia Internacional de la Fellowship del Libro de Urantia_ (IC02) es una llamada a la aventura. Lectores de todo el mundo se reunirán en Estes Park Colorado del 30 de junio al 6 de julio para estudio, adoración, compañerismo y recreación. El objetivo de IC02 es traducir las enseñanzas de _El Libro de Urantia_ en un servicio vivo y amoroso. ¡Imagínese las posibilidades de que más de mil de nosotros nos unamos como una familia espiritual! ¡Juntos podemos realizar mejor los potenciales de la revelación de Urantia y regresar a casa inspirados para actualizarla de manera más efectiva!
 
 El programa proporcionará una visión de la «Revelación en acción» a través de presentaciones plenarias creativas, el examen de los conceptos clave de _El Libro de Urantia_ a través de sesiones de grupos grandes y la práctica y aplicación en talleres de grupos pequeños. Habrá un estudio intensivo del libro, así como grupos de estudio informales. Se invitará a los asistentes a participar en un proceso interactivo para crear una visión de un servicio dinámico y salir como «segundos millers».
 
@@ -42,7 +48,7 @@ La conferencia ofrecerá programas apropiados para la edad de todos nuestros ni�
 
 Como siempre, la conferencia brindará muchas oportunidades para el compañerismo informal, la recreación, el entretenimiento y la celebración.
 
-Los materiales de inscripción y otra información sobre la conferencia aparecerán pronto en el sitio web de la Fraternidad www.ubfellowship.org, y en varias publicaciones relacionadas con la Fraternidad y _El Libro de Urantia_. Si tiene un correo electrónico, háganos saber que planea venir a IC02 poniéndose en contacto con la Comunidad en fellowship@urantiabook.org. Se le colocará en la lista de correo electrónico IC02 para recibir la información más reciente sobre la conferencia. Venir. ¡Únete a «Revelación en Acción»!
+Los materiales de inscripción y otra información sobre la conferencia aparecerán pronto en el sitio web de la Fellowship www.ubfellowship.org, y en varias publicaciones relacionadas con la Fellowship y _El Libro de Urantia_. Si tiene un correo electrónico, háganos saber que planea venir a IC02 poniéndose en contacto con la Fellowship en fellowship@urantiabook.org. Se le colocará en la lista de correo electrónico IC02 para recibir la información más reciente sobre la conferencia. Venir. ¡Únete a «Revelación en Acción»!
 
 
 
@@ -50,7 +56,7 @@ Los materiales de inscripción y otra información sobre la conferencia aparecer
 
 John Hay, de Boulder, Colorado, fue elegido para ocupar una vacante en el Consejo General.
 
-Duane Faw hizo una donación de su Paramony a la Fraternidad. El Paramony es una ayuda de estudio muy útil que hace referencias cruzadas a _El Libro de Urantia_ y el Antiguo y Nuevo Testamento de la Biblia. El Consejo General expresó formalmente la gratitud de la Fraternidad a Duane por este regalo. La Fellowship planea publicar Paramony en un futuro cercano.
+Duane Faw hizo una donación de su Paramony a la Fellowship. El Paramony es una ayuda de estudio muy útil que hace referencias cruzadas a _El Libro de Urantia_ y el Antiguo y Nuevo Testamento de la Biblia. El Consejo General expresó formalmente la gratitud de la Fellowship a Duane por este regalo. La Fellowship planea publicar Paramony en un futuro cercano.
 
 El 20 de junio de 2001, un jurado federal determinó que la renovación de los derechos de autor de 1983 de la Fundación Urantia en _El Libro de Urantia_ no era válida y colocó _El Libro de Urantia_ en el dominio público. En consecuencia, tras un debate prolongado, el Consejo General votó 26 a 8 y 1 abstención para autorizar a Uversa Press a publicar sin demora _El Libro de Urantia_. Además de reproducir cuidadosamente el texto original de 1955, la edición de Uversa Press de _El Libro de Urantia_ contendrá un índice de materias nuevo y largamente esperado para facilitar la localización de pasajes en el texto. Se espera que el proyecto tarde unos seis meses en completarse.
 
@@ -64,11 +70,11 @@ El 20 de junio de 2001, un jurado federal determinó que la renovación de los d
 
 Queridos amigos.
 
-Cuando lean esto, muchos de ustedes se habrán dado cuenta de que la Comunidad se está preparando para publicar _El Libro de Urantia_. Una mayoría decisiva del Consejo General de la Fraternidad votó a favor de hacerlo en la reunión de agosto de 2001 celebrada junto con la Sesión de Estudio de Verano en la Universidad de California en Santa Cruz.
+Cuando lean esto, muchos de ustedes se habrán dado cuenta de que la Fellowship se está preparando para publicar _El Libro de Urantia_. Una mayoría decisiva del Consejo General de la Fellowship votó a favor de hacerlo en la reunión de agosto de 2001 celebrada junto con la Sesión de Estudio de Verano en la Universidad de California en Santa Cruz.
 
 Ahora que _El Libro de Urantia_ es de dominio público, creemos que dar este paso es lo mejor para los miles y miles de personas que todavía tienen que descubrir este asombroso texto que ha cambiado nuestras vidas.
 
-Esta nueva edición para Uversa Press (el brazo editorial de la Fraternidad), mientras mantiene la integridad del texto original, contará con mejoras significativas que incluyen un sistema de referencia de párrafos de sección de papel, un índice de temas largamente esperado y una portada atractiva. Esta edición también incluirá información que permitirá a los nuevos lectores ponerse en contacto con la Fraternidad y, en consecuencia, encontrar otros lectores, grupos de estudio y sociedades locales. De este modo, a los nuevos lectores se les proporcionarán oportunidades de estudio, difusión y servicio al lector coordinadas por la Fraternidad. La capacidad de servicio de la Fraternidad crecerá entonces de manera inconmensurable.
+Esta nueva edición para Uversa Press (el brazo editorial de la Fellowship), mientras mantiene la integridad del texto original, contará con mejoras significativas que incluyen un sistema de referencia de párrafos de sección de papel, un índice de temas largamente esperado y una portada atractiva. Esta edición también incluirá información que permitirá a los nuevos lectores ponerse en contacto con la Fellowship y, en consecuencia, encontrar otros lectores, grupos de estudio y sociedades locales. De este modo, a los nuevos lectores se les proporcionarán oportunidades de estudio, difusión y servicio al lector coordinadas por la Fellowship. La capacidad de servicio de la Fellowship crecerá entonces de manera inconmensurable.
 
 Un grupo de voluntarios experimentados está ocupado preparando el libro para su impresión. Se estima que necesitaremos $150,000 para cubrir los costos de publicación, costos que se recuperarán a medida que se venda el libro. Un gran esfuerzo de recaudación de fondos está en marcha.
 
@@ -170,7 +176,7 @@ Las noches estuvieron llenas de actividades sociales patrocinadas por diferentes
 
 - **Oct. 26-28, 2001- Conferencia Lone Star Roundup, Camp Buckner, TX**: «Trayendo el Espíritu Infinito a la Tierra»
   Un examen de las diversas funciones del Espíritu Infinito, incluido el ministerio angélico, la mente, el poder universal y el aspecto femenino o «yin» del «Espíritu Madre Infinito» y cómo podemos sentir esta presencia en nuestras vidas. Únase a nosotros «en el Espíritu». Para obtener más información, comuníquese con Adrienne Jarnagin al (512) 756-1637 o envíele un correo electrónico a-aj@tstar.net.
-- **Nov. 2-4, 2001- Retiro de Otoño del Círculo Golden Gate**: «El Padre Universal» El Padre Universal es una realidad espiritual infinita; él es «el soberano, eterno, inmortal, invisible y único Dios verdadero». _El Libro de Urantia_, [LU 1:3.1](/es/The_Urantia_Book/1#p3_1).
+- **Nov. 2-4, 2001- Retiro de Otoño del Círculo Golden Gate**: «El Padre Universal» El Padre Universal es una realidad espiritual infinita; es «el único verdadero Dios soberano, eterno, inmortal e invisible». _El Libro de Urantia_, [LU 1:3.1](/es/The_Urantia_Book/1#p3_1).
   _Lugar_: St. Dorothy's Rest, Camp Meeker, CA (Condado de Sonoma)
   _Costo_. $85 más el costo de una comida por equipo de cocina
   _Contacto_: Dolores L. Nice, (650)369-6803 o dlnice@worldnet.att.net
@@ -186,7 +192,7 @@ las actividades de su sociedad o grupo de estudio. Compartir experiencias siempr
 
 Los artículos para Mighty Messenger no deben tener más de 400 palabras. Los próximos plazos para esta publicación trimestral son el 30 de noviembre de 2001 y el 28 de febrero de 2002.
 
-Envíe toda la información a la oficina de Fellowship, 529 Wrightwood Ave., Chicago, IL 60614-1794 o envíe un correo electrónico a: fellowship@urantiabook.org
+Envíe toda la información a la oficina de la Fellowship, 529 Wrightwood Ave., Chicago, IL 60614-1794 o envíe un correo electrónico a: fellowship@urantiabook.org
 
 ## The Mighty Messenger
 
@@ -196,7 +202,7 @@ Teléfono: 773-327-0424. Fax:773-327-6159
 correo electrónico: fellowship@urantiabook.org
 sitio web: http://www.ubfellowship.org
 
-> La grandeza no reside tanto en poseer fuerza como en hacer un uso sabio y divino de esa fuerza. ([LU 48:7.27](/es/The_Urantia_Book/48#p7_27))
+> La grandeza no reside tanto en poseer la fuerza como en hacer un uso sabio y divino de dicha fuerza. ([LU 48:7.27](/es/The_Urantia_Book/48#p7_27))
 
 
 ## Enlaces externos
@@ -211,12 +217,18 @@ sitio web: http://www.ubfellowship.org
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2001_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2001</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2001">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de verano de 2001 — Índice</span>
         </a>
         </td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2002_Spring">
+          <span class="pr-2">Edición de primavera de 2002</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         <td>
         </td>
       </tr>

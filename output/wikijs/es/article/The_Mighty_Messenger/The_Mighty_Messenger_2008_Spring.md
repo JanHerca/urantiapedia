@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2007_Winter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de invierno de 2007</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2008">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2008_Winter">
+          <span class="pr-2">Edición de invierno de 2008</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -34,7 +40,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <img src="/image/article/The_Mighty_Messenger/2008_Spring/005673.jpg">
 </figure>
 
-Únase a nosotros en el soleado Los Ángeles para la Conferencia Internacional de Fellowships 2008, del 2 al 6 de julio, en el campus de UCLA. La inscripción comienza el martes 1 de julio y los asistentes serán recibidos con una recepción esa noche. El plenario de apertura del miércoles 2 de julio dará comienzo a una emocionante semana de adoración, verdad, amistad y espíritu, que representa el tema «La emoción del servicio amoroso».
+Únase a nosotros en el soleado Los Ángeles para la Conferencia Internacional de la Fellowship 2008, del 2 al 6 de julio, en el campus de UCLA. La inscripción comienza el martes 1 de julio y los asistentes serán recibidos con una recepción esa noche. El plenario de apertura del miércoles 2 de julio dará comienzo a una emocionante semana de adoración, verdad, amistad y espíritu, que representa el tema «La emoción del servicio amoroso».
 
 El hermoso campus de UCLA está a una distancia relativamente corta del aeropuerto LAX, y las actividades se concentrarán en un área pequeña. Todos los talleres y plenarios se llevarán a cabo en el mismo edificio y estarán ubicados en el mismo piso que la Expo, la librería, la galería de arte y el centro de información/inscripción. Los dormitorios están a solo unos minutos a pie del edificio principal y las áreas comunes. El campus tiene accesibilidad para discapacitados y es muy fácil de navegar.
 
@@ -58,7 +64,7 @@ Una Ceremonia de Bienvenida del Ajustador del Pensamiento para niños de 5 a 7 a
 
 IC '08 Expo consistirá en varias mesas o «puestos» donde nuestros amigos de base, así como los presidentes de nuestros comités, pueden crear un espacio para mostrar sus proyectos relacionados con el servicio. El Comité Ejecutivo de la Fellowship y los Síndicos de la Fundación también tendrán una mesa para responder a sus preguntas. Estas cabinas estarán ocupadas durante varios períodos de tiempo todos los días durante toda la conferencia. Si está interesado en tener un stand, contáctenos en planners@ic08.org. El espacio es limitado.
 
-El Programa de Preadolescentes estará estructurado y orientado hacia el servicio durante la conferencia. Los Tweens ayudarán a los planificadores y presentadores de la conferencia, trabajarán con los equipos de escenario, filmarán charlas, trabajarán con computadoras y ayudarán a los líderes del taller a configurar el equipo AV. Los líderes adultos supervisarán sus asignaciones y los padres los revisarán cuando entren y salgan. Todos los preadolescentes que se registren recibirán dos camisetas blancas con el logotipo de Fellowship que los identificará como ayudantes.
+El Programa de Preadolescentes estará estructurado y orientado hacia el servicio durante la conferencia. Los Tweens ayudarán a los planificadores y presentadores de la conferencia, trabajarán con los equipos de escenario, filmarán charlas, trabajarán con computadoras y ayudarán a los líderes del taller a configurar el equipo AV. Los líderes adultos supervisarán sus asignaciones y los padres los revisarán cuando entren y salgan. Todos los preadolescentes que se registren recibirán dos camisetas blancas con el logotipo de la Fellowship que los identificará como ayudantes.
 
 Truthseekers on Catalina - Puedes leer sobre este viaje en www.ic08.org. Haga clic en la página Jóvenes. Tom Choquette y Fred Harris lideran este increíble viaje. Para obtener información detallada, comuníquese con planners@ic08.org.
 
@@ -66,7 +72,7 @@ El viernes 4 de julio por la noche se llevará a cabo un Servicio de Celebració
 
 ### Se necesitan contribuciones/donaciones en varias áreas:
 
-- El Fondo de Fellowships ayudará a las personas y familias que necesitan un poco de ayuda para asistir a la conferencia. Por favor, haga una donación para ayudar a que las familias jóvenes asistan a IC '08. Contáctenos en planners@IC08.org si necesita un poco de ayuda adicional para llegar a la conferencia.
+- El Fondo de la Fellowship ayudará a las personas y familias que necesitan un poco de ayuda para asistir a la conferencia. Por favor, haga una donación para ayudar a que las familias jóvenes asistan a IC '08. Contáctenos en planners@IC08.org si necesita un poco de ayuda adicional para llegar a la conferencia.
 - El Fondo de Programas para Niños y Jóvenes ayudará a sufragar los costos de programas especiales para los jóvenes.
 - El Fondo de Músicos ayudará a nuestros músicos que viajan a la conferencia por su propia cuenta y se pierden prácticamente todos los programas porque practican para la música. Muchos de nuestros músicos necesitan ayuda para sufragar el costo de esta conferencia.
 
@@ -82,7 +88,7 @@ Ahora estamos utilizando un servicio de registro que le permite registrarse en l
 
 Duane Faw, nacido el 7 de julio de 1920, se graduó de la vida en nuestro planeta Urantia el 26 de marzo de 2008. Duane tuvo una carrera militar activa y se retiró en 1971 como general de brigada de la Infantería de Marina, donde sirvió como piloto militar y en tres guerras. , Segunda Guerra Mundial, Corea y Viet Nam. Más adelante en su carrera, Duane, un abogado en ejercicio, se convirtió en profesor de derecho y profesor emérito en la Facultad de derecho de la Universidad de Pepperdine.
 
-Duane se convirtió en el miembro número 101 de la Primera Sociedad Urantia de Los Ángeles el 18 de enero de 1975, junto con su esposa Lucile. Más tarde sirvió en la Fellowship de _El Libro de Urantia_ como presidente del Comité Judicial, sirviendo en el Comité Ejecutivo desde 1979 hasta 1988. Luego sirvió en la Fellowship por un término adicional en el Consejo General desde 1991 hasta 1994—un total de doce años de servicio activo a la Hermandad.
+Duane se convirtió en el miembro número 101 de la Primera Sociedad Urantia de Los Ángeles el 18 de enero de 1975, junto con su esposa Lucile. Más tarde sirvió en la Fellowship de _El Libro de Urantia_ como presidente del Comité Judicial, sirviendo en el Comité Ejecutivo desde 1979 hasta 1988. Luego sirvió en la Fellowship por un término adicional en el Consejo General desde 1991 hasta 1994—un total de doce años de servicio activo a la Brotherhood.
 
 También es conocido por su obra compilada, Paramony, un libro de 588 páginas que contiene casi 60.000 referencias paralelas y armonizadas con la Biblia y _El Libro de Urantia_. Además, contiene más de 10.000 referencias cruzadas internas a la Biblia y varias miles internas a _El Libro de Urantia_. El abuelo y el padre de Duane eran clérigos presbiterianos y él era un erudito increíble de ambos libros. Paramony de Duane es una ayuda inestimable para las personas que estudian tanto la Biblia como _El Libro de Urantia_. Tanto si es un estudiante, un buscador de la verdad, un maestro de la Biblia o El Libro de Urantia, un ministro cristiano, un rabino judío, un teólogo, un filósofo o un buscador de Dios, Paramony es una joya.
 
@@ -96,7 +102,7 @@ Duane también escribió otro espléndido libro basado en las enseñanzas de _El
 
 La Fellowship honró oficialmente a Duane y Lucile Faw junto con Meredith e Irene Sprunger en nuestra Conferencia Internacional en 2002 en Estes Park. Queríamos agradecerles a todos por toda una vida de servicio a Dios y al hombre y ciertamente a la hermandad de los creyentes. Duane fue distinguido en todos los sentidos de la palabra, verdaderamente un oficial y un caballero. El mundo y nuestro movimiento Urantia han perdido un gran tesoro.
 
-> «Aquellos que nacen del espíritu inmediatamente comenzarán a mostrar los frutos del espíritu en el servicio amoroso a sus semejantes.» [[LU 193:2.2](/es/The_Urantia_Book/193#p2_2)]
+> «Aquellos que nacen del espíritu empiezan a manifestar inmediatamente los frutos del espíritu en el servicio amoroso a sus semejantes.» [[LU 193:2.2](/es/The_Urantia_Book/193#p2_2)]
 
 ## El Libro de Urantia en la India
 
@@ -130,7 +136,7 @@ Tuve un encuentro con un farmacéutico, Noor Ul Hussain, de Cachemira. Noor (que
 
 Después de la feria, Buck, Arlene y Charlene se dirigieron a Jabulpur para visitar al Dr. Chauhan, quien ha leído el libro en la India durante más de veinticinco años. Tradujo 2000 citas al hindi (el Hindi Sampler) y lo conseguimos justo a tiempo para llevarlo con nosotros. Solo teníamos una copia impresa que Buck encuadernó en un cuaderno como copia de cabina. Esto fue recogido y leído tantas veces que no podíamos empezar a contar. Un compañero expositor volvía todos los días para leer un poco más, y cada vez se le llenaban los ojos de lágrimas. Agustín rápidamente comenzó a mantener una lista de personas que quieren una copia con la promesa a cada uno de que se enviará tan pronto como esté disponible.
 
-Allí llevamos a cabo actividades de divulgación espléndidas y eficaces. Este es nuestro trabajo, el trabajo de la revelación y el trabajo de la Fraternidad. Doy mi más sincero agradecimiento personal a Buck Weimer, quien trabajó incansablemente para organizar este viaje.
+Allí llevamos a cabo actividades de divulgación espléndidas y eficaces. Este es nuestro trabajo, el trabajo de la revelación y el trabajo de la Fellowship. Doy mi más sincero agradecimiento personal a Buck Weimer, quien trabajó incansablemente para organizar este viaje.
 
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2008_Spring/005681.jpg">
@@ -239,7 +245,7 @@ Dieciséis miembros, incluidos dos miembros nuevos, participaron en la reunión 
 - 25-27 de julio de 2008, Conferencia de Vida Espiritual de Belton, Belton, TX. Para obtener más información, comuníquese con Bill Cooper en cooper3630@sbcglobal.net.
 - 25 al 27 de julio de 2008, Conferencia UAUS, «Historia, Origen y Destino», a realizarse en la Universidad de St. Mary's, Leavenworth, KS. Para obtener más información, póngase en contacto con UAUS en: http://www.urantiausa.org/URANTIA2008-KS.html.
 - Nuevo Sistema de Base de Datos. La Fellowship está trabajando actualmente para lograr el objetivo de estandarizar todas las funciones de la base de datos de la sociedad para que los funcionarios de la sociedad siempre tengan acceso a una base de datos fácil y precisa. Contamos con cada sociedad para ayudarnos a mantenerlo actualizado. Cuanto antes pueda obtener nombres, direcciones, números de teléfono y direcciones de correo electrónico, antes podremos hacer adiciones y/o correcciones. Los datos pueden ser enviados a nosotros en cualquier formato.
-- Actualización de la comunidad en línea. Para recibir el boletín electrónico mensual de la Comunidad, vaya a www.urantiabook.org y haga clic en Suscripciones en la parte inferior de la página de inicio. Si ya está registrado para este servicio, recuerde mantenernos informados sobre cualquier cambio de dirección de correo electrónico.
+- Actualización de la comunidad en línea. Para recibir el boletín electrónico mensual de la Fellowship, vaya a www.urantiabook.org y haga clic en Suscripciones en la parte inferior de la página de inicio. Si ya está registrado para este servicio, recuerde mantenernos informados sobre cualquier cambio de dirección de correo electrónico.
 
 ## Equipo del Mighty Messenger
 
@@ -250,7 +256,7 @@ Fellowship@urantiabook.org
 www.urantiabook.org
 
 
-> «Ningún acto de bien se pierde por completo». [[LU 48:6.7](/es/The_Urantia_Book/48#p6_7)]
+> «Ninguna buena acción se pierde nunca por completo». [[LU 48:6.7](/es/The_Urantia_Book/48#p6_7)]
 
 ## Enlaces externos
 
@@ -264,6 +270,9 @@ www.urantiabook.org
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2007_Winter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de invierno de 2007</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2008">
@@ -271,6 +280,9 @@ www.urantiabook.org
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2008_Winter">
+          <span class="pr-2">Edición de invierno de 2008</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

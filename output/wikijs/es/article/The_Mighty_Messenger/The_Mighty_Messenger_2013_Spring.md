@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2012_Winter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de invierno de 2012</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2013">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2013_Winter">
+          <span class="pr-2">Edición de invierno de 2013</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -30,7 +36,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Nuestro Don a Dios Padre: Servicio al Supremo
 
-_El Libro de Urantia_ Sesión de estudio de verano de Fellowship 2013
+_El Libro de Urantia_ Sesión de estudio de verano de la Fellowship 2013
 
 10 al 14 de julio de 2013
 
@@ -56,7 +62,7 @@ Si es así, únase a otros trabajadores de la revelación este verano en Techny 
 
 ## Más actividades en SSS 13
 
-Las Sesiones de Estudio de Verano de este año, patrocinadas por el Comité de Educación de la Fraternidad, se llevarán a cabo nuevamente en Techny Towers en Northbrook, Illinois, justo al norte de Chicago, del 10 al 14 de julio.
+Las Sesiones de Estudio de Verano de este año, patrocinadas por el Comité de Educación de la Fellowship, se llevarán a cabo nuevamente en Techny Towers en Northbrook, Illinois, justo al norte de Chicago, del 10 al 14 de julio.
 
 **Se necesitan líderes de taller**
 
@@ -68,7 +74,7 @@ También se recuerda a las sociedades que la Asamblea Trienal de Delegados del a
 
 **Cónclave de Grupos de Estudio**
 
-Un nuevo evento en los Seminarios de este año será un Cónclave de Grupos de Estudio. Esta será una reunión a la que están invitados los líderes de los grupos de estudio y los asistentes. Se reunirá durante los talleres del sábado 13 de julio por la mañana. Este primer Cónclave de Grupos de Estudio será una reunión un tanto abierta que comenzará con los comentarios de tres presidentes de comités de Fellowship: Lara Amyx de Membresía, Andrea Barnes de Outreach y David Kulieke de Educación. Todos discutirán brevemente cómo sus comités pueden ayudar a los grupos de estudio y cómo ven formas futuras de apoyar y expandir los grupos de estudio, siempre teniendo en cuenta el deseo del grupo de estudio de dicha asistencia. Entonces el piso estará abierto a las ideas. Los asistentes tendrán la oportunidad de enviar más pensamientos para ayudar a los grupos de estudio, así como ideas sobre cómo organizar futuros Cónclaves de Grupos de Estudio.
+Un nuevo evento en los Seminarios de este año será un Cónclave de Grupos de Estudio. Esta será una reunión a la que están invitados los líderes de los grupos de estudio y los asistentes. Se reunirá durante los talleres del sábado 13 de julio por la mañana. Este primer Cónclave de Grupos de Estudio será una reunión un tanto abierta que comenzará con los comentarios de tres presidentes de comités de la Fellowship: Lara Amyx de Membresía, Andrea Barnes de Outreach y David Kulieke de Educación. Todos discutirán brevemente cómo sus comités pueden ayudar a los grupos de estudio y cómo ven formas futuras de apoyar y expandir los grupos de estudio, siempre teniendo en cuenta el deseo del grupo de estudio de dicha asistencia. Entonces el piso estará abierto a las ideas. Los asistentes tendrán la oportunidad de enviar más pensamientos para ayudar a los grupos de estudio, así como ideas sobre cómo organizar futuros Cónclaves de Grupos de Estudio.
 
 Póngase en contacto con: david.kulieke@gmail.com si tiene preguntas o sugerencias.
 
@@ -80,7 +86,7 @@ El jueves 7 de marzo de 2013, la Asociación Urantia Internacional (UAI), la Fel
 <img src="/image/article/The_Mighty_Messenger/2013_Spring/005812.jpg">
 </figure>
 
-Gaétan Charland, James Woodward y Chris Wood representaron a la UAI. Lila Dogim, Paula Thompson y John Hales representaron a la Fraternidad. Mo Siegel, Jay Peregrine y Gard Jameson representaron a la Fundación Urantia. Marilynn Kulieke asistió y presentó los resultados de la encuesta de lectores.
+Gaétan Charland, James Woodward y Chris Wood representaron a la UAI. Lila Dogim, Paula Thompson y John Hales representaron a la Fellowship. Mo Siegel, Jay Peregrine y Gard Jameson representaron a la Fundación Urantia. Marilynn Kulieke asistió y presentó los resultados de la encuesta de lectores.
 
 En esta reunión histórica se sentaron las bases para una nueva era de confianza y respeto mutuo. Todos los asistentes tenían la esperanza de que, con un liderazgo continuo, buena voluntad compartida y la ejecución cuidadosa de los proyectos acordados en la reunión, los resultados de la reunión beneficiarían a toda la comunidad.
 
@@ -117,17 +123,17 @@ El Comité de Vida Familiar es un adjunto del comité permanente de Jóvenes y A
 
 Además, agregaremos nuevos programas y materiales a medida que estén disponibles. Habrá una opción de menú para nuevos programas y esperamos que los padres prueben nuevas ideas y den su opinión para mejorar los materiales.
 
-Finalmente, el Comité de Vida Familiar participará en la pista "Bring the Kids" en IC14. Esperamos tener un pequeño mercado de Jerusalén y ofrecer algunos talleres para apoyar la crianza de los hijos y la vida familiar, como reuniones familiares y estrategias de crianza basadas en valores. Envíe sus solicitudes y/o ideas a Janet Graham a: jfarrg@gmail.com. Esperamos ver muchos niños y sus padres en la Conferencia Internacional 2014 de la Fraternidad.
+Finalmente, el Comité de Vida Familiar participará en la pista "Bring the Kids" en IC14. Esperamos tener un pequeño mercado de Jerusalén y ofrecer algunos talleres para apoyar la crianza de los hijos y la vida familiar, como reuniones familiares y estrategias de crianza basadas en valores. Envíe sus solicitudes y/o ideas a Janet Graham a: jfarrg@gmail.com. Esperamos ver muchos niños y sus padres en la Conferencia Internacional 2014 de la Fellowship.
 
 Gracias al Comité YaYA por patrocinar el comité adjunto de Vida Familiar. Estén atentos para conocer más noticias emocionantes a medida que integramos la vida familiar en el estudio y el servicio de revelación.
 
 En servicio amoroso, Sara Blackstock, Miranda Clendenning, Richard Daunt, Janet Graham (Presidente)
 
-> Toda la vida después de la muerte de un ser humano está enormemente influenciada por lo que sucede durante los primeros años de existencia”. [[LU 177:2.5](/es/The_Urantia_Book/177#p2_5)]
+> Toda la vida de un ser humano está enormemente influida por lo que sucede durante los primeros años de la existencia. [[LU 177:2.5](/es/The_Urantia_Book/177#p2_5)]
 
 ## El Consejo General en Los Ángeles
 
-La reunión del Consejo General de la Fraternidad en Los Ángeles del 6 al 10 de febrero comenzó con un retiro y cerró con una reunión social con los miembros del área. El retiro involucró tanto una reunión de grupo como discusiones en grupos pequeños. Como es costumbre, se invitó a los miembros del área a observar la sesión del Consejo y varios observaron la reunión. Todos disfrutaron del evento social del sábado por la noche.
+La reunión del Consejo General de la Fellowship en Los Ángeles del 6 al 10 de febrero comenzó con un retiro y cerró con una reunión social con los miembros del área. El retiro involucró tanto una reunión de grupo como discusiones en grupos pequeños. Como es costumbre, se invitó a los miembros del área a observar la sesión del Consejo y varios observaron la reunión. Todos disfrutaron del evento social del sábado por la noche.
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2013_Spring/005814.jpg">
@@ -151,7 +157,7 @@ Qué experiencia tan transformadora aprender que vivimos en un Universo amigable
 
 Entonces es tu día de suerte... ¡Hay oportunidades para ti!
 
-El Comité de Fellowships Internacionales y de Alcance de la Fraternidad, junto con nuestro personal, desea poder ofrecer mentores a nuevos lectores, para invitar a más personas maravillosas a los círculos de nuestra confraternidad. Estamos lanzando lo que llamamos el Programa de compañeros de estudio porque creemos que todos los lectores de _El Libro de Urantia_ deberían tener alguien con quien hablar, hacer preguntas o compartir ideas, si así lo desean.
+El Comité de la Fellowship Internacionales y de Alcance de la Fellowship, junto con nuestro personal, desea poder ofrecer mentores a nuevos lectores, para invitar a más personas maravillosas a los círculos de nuestra confraternidad. Estamos lanzando lo que llamamos el Programa de compañeros de estudio porque creemos que todos los lectores de _El Libro de Urantia_ deberían tener alguien con quien hablar, hacer preguntas o compartir ideas, si así lo desean.
 
 Estamos creando una lista de estudiantes de Urantia desde hace mucho tiempo que están dispuestos a emparejarse con estudiantes más nuevos uno a uno. Los Study Buddies pueden reunirse en un lugar de comida rápida local, una cafetería o una biblioteca, o simplemente por teléfono. Necesitamos permiso para ayudar a un lector de Urantia a ponerse en contacto con otro, por lo que le preguntamos: ¿está interesado en reunirse y asesorar a un nuevo lector de _El Libro de Urantia_ de vez en cuando? Si te interesa ser o tener un Study Buddy para conocer
 con, es fácil; simplemente complete este formulario en línea, www.urantiabook.org/study/find-study-buddy, y nosotros haremos el resto.
@@ -177,7 +183,7 @@ Mo Siegel y Paula Thompson tomaron esto y lo ejecutaron creando una campaña en 
 
 Hoy tenemos tantas herramientas nuevas a nuestro alcance y se me ocurrió que este método podría transformarse en algo diferente pero poderoso.
 
-Entonces, lo que hice fue incluir un anuncio en Craigslist en la sección «general» que se encuentra en «Comunidad». Es muy sencillo colocar un anuncio en Craigslist.org. Si desea probar esto en su área y necesita ayuda, comuníquese conmigo. En el asunto del anuncio simplemente digo «¡Puedes sobrevivir a la muerte!» o algún otro delineador que te guste. ¿Qué los atrapará y hará que quieran hacer clic en ese enlace?
+Entonces, lo que hice fue incluir un anuncio en Craigslist en la sección «general» que se encuentra en «Fellowship». Es muy sencillo colocar un anuncio en Craigslist.org. Si desea probar esto en su área y necesita ayuda, comuníquese conmigo. En el asunto del anuncio simplemente digo «¡Puedes sobrevivir a la muerte!» o algún otro delineador que te guste. ¿Qué los atrapará y hará que quieran hacer clic en ese enlace?
 
 Luego puse en el cuerpo del anuncio lo siguiente:
 
@@ -211,7 +217,7 @@ Cuando llame, escuchará a Paula Thompson hablar, lo cual es muy agradable de es
 
 Por favor considere hacer esto en su área.
 
-Simplemente: vaya a www.craigslist.org, luego 'Comunidad” => «General» y luego en la esquina superior derecha verá «Publicar». Simplemente haga clic en eso y luego complete la línea de asunto (como sugerí aquí o cree su propia línea), luego complete el cuerpo de la cosa como un correo electrónico usando el número 800 y el texto anteriores. Puede iniciar una cuenta y no hay cargo ni grandes formularios para completar. Mantenga su anuncio actualizado mensualmente.
+Simplemente: vaya a www.craigslist.org, luego 'Fellowship” => «General» y luego en la esquina superior derecha verá «Publicar». Simplemente haga clic en eso y luego complete la línea de asunto (como sugerí aquí o cree su propia línea), luego complete el cuerpo de la cosa como un correo electrónico usando el número 800 y el texto anteriores. Puede iniciar una cuenta y no hay cargo ni grandes formularios para completar. Mantenga su anuncio actualizado mensualmente.
 
 Aquí hay algunas otras ideas para poner frases ingeniosas en la 'línea de asunto' de Craigslist.org.
 - _El Libro de Urantia_: ¡Simplemente el libro más importante sobre nuestro mundo!
@@ -239,9 +245,9 @@ Por _Charles Laurence Olivea_ © 2013
 
 «_El Comité de Educación de El Libro de Urantia_ crea y fomenta la oportunidad de cultivar un pensamiento de alta calidad y fomentar la búsqueda de la sabiduría a través del ***estudio en profundidad*** de las enseñanzas de_ _El Libro de Urantia_». (Énfasis añadido)
 
-Esta Declaración de Misión del Comité de Educación es parte de un esfuerzo por poner un nuevo énfasis o valor en la idea de un estudio más amplio y profundo de la Quinta Revelación de Época. Refleja el requisito constitucional de la Fraternidad de que «fomentemos el estudio en profundidad de _El Libro de Urantia_... centrado en los ideales educativos universales de fomentar el desarrollo de los estudiantes-maestros».
+Esta Declaración de Misión del Comité de Educación es parte de un esfuerzo por poner un nuevo énfasis o valor en la idea de un estudio más amplio y profundo de la Quinta Revelación de Época. Refleja el requisito constitucional de la Fellowship de que «fomentemos el estudio en profundidad de _El Libro de Urantia_... centrado en los ideales educativos universales de fomentar el desarrollo de los estudiantes-maestros».
 
-Llevaría más lejos la Declaración de la Misión y el mandato constitucional al sugerir que anticipan las normas que emergen en el Quinto Mundo Mansión. «Alrededor de este punto, el ascendente mortal promedio comienza a manifestar un entusiasmo experiencial genuino por el ascenso a Havona. El estudio se está convirtiendo en voluntario, el servicio desinteresado en natural y la adoración en espontánea». [[LU 47:7.5](/es/The_Urantia_Book/47#p7_5)] (Énfasis añadido)
+Llevaría más lejos la Declaración de la Misión y el mandato constitucional al sugerir que anticipan las normas que emergen en el Quinto Mundo Mansión. «Aproximadamente en este punto, el ascendente mortal de tipo medio empieza a manifestar un auténtico entusiasmo experiencial por la ascensión a Havona. El estudio se vuelve voluntario, el servicio desinteresado, natural, y la adoración, espontánea». [[LU 47:7.5](/es/The_Urantia_Book/47#p7_5)] (Énfasis añadido)
 
 ¿Por qué deberíamos esperar hasta el Quinto Mundo Mansión?
 
@@ -290,13 +296,13 @@ Hay un gran equipo trabajando para crear una conferencia dinámica, relevante, d
 
 - Body, Mind, Spirit Expo, Outreach, Honolulu, HI, 18 y 19 de mayo de 2913
 - Sesión de estudio de verano de la Fellowship 2013 - Techny Towers, Chicago 11-14 de julio de 2013
-- Reunión del Consejo General de la Fraternidad - Verano de 2013, 14 y 15 de julio
+- Reunión del Consejo General de la Fellowship - Verano de 2013, 14 y 15 de julio
 - Urantia Campout Miracle Beach, isla de Vancouver, del 5 al 9 de agosto de 2013. Para más información, póngase en contacto con Debbie Bartman, 144 Tait Rd. Nanaimo, BC, Canadá, V9X13 o nebadon373@hotmail.com.
 - Festival de la Familia Unida de Urantia, Yosemite, CA, del 20 al 24 de agosto de 2013. Para obtener más información, póngase en contacto con: dianelabreque@sympatico.ca.
 
 ## Esto y aquello…
 
-El folleto clásico «Extractos seleccionados» ha sido reformateado por Paula Thompson y publicado en el sitio web de la Fraternidad para descargarlo e imprimirlo. Vaya a: http://ubfellowship.org/outreach/ubexcerpts-v2.pdf. Imprime y distribuye tantos como quieras.
+El folleto clásico «Extractos seleccionados» ha sido reformateado por Paula Thompson y publicado en el sitio web de la Fellowship para descargarlo e imprimirlo. Vaya a: http://ubfellowship.org/outreach/ubexcerpts-v2.pdf. Imprime y distribuye tantos como quieras.
 
 ## Equipo del Mighty Messenger
 
@@ -318,6 +324,9 @@ www.urantiabook.org
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2012_Winter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de invierno de 2012</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2013">
@@ -325,6 +334,9 @@ www.urantiabook.org
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2013_Winter">
+          <span class="pr-2">Edición de invierno de 2013</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

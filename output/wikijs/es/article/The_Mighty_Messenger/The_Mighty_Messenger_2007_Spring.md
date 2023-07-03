@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2006_Fall">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de otoño de 2006</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2007">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2007_Winter">
+          <span class="pr-2">Edición de invierno de 2007</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -34,7 +40,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <img src="/image/article/The_Mighty_Messenger/2007_Spring/005648.jpg">
 </figure>
 
-Únase a nosotros para la sesión de estudio de verano de Fellowship 2007, en la Universidad Dominicana en River Forest, Illinois, un suburbio al oeste de Chicago, desde las 9:00 am del viernes 20 de julio hasta el mediodía del domingo 22 de julio. El alojamiento Cosmic Citizenship, que se llevará a cabo tienen aire acondicionado y se puede llegar fácilmente al hermoso campus desde el aeropuerto O'Hare. La inscripción para los asistentes a la conferencia comenzará a las 3:00 p. m. del jueves 19 de julio.
+Únase a nosotros para la sesión de estudio de verano de la Fellowship 2007, en la Universidad Dominicana en River Forest, Illinois, un suburbio al oeste de Chicago, desde las 9:00 am del viernes 20 de julio hasta el mediodía del domingo 22 de julio. El alojamiento Cosmic Citizenship, que se llevará a cabo tienen aire acondicionado y se puede llegar fácilmente al hermoso campus desde el aeropuerto O'Hare. La inscripción para los asistentes a la conferencia comenzará a las 3:00 p. m. del jueves 19 de julio.
 
 Además de la conferencia en sí, la Asamblea Trienal de Delegados se reunirá el jueves 19 de julio a las 9:00 am y la reunión del Consejo General comenzará después del almuerzo del domingo. Gard Jameson también organizará un retiro espiritual que comenzará a las 8:00 a. m. del jueves hasta las 8:00 a. m. del viernes. Tenga en cuenta que los participantes en el TDA o el retiro deberán incluir reservas de habitaciones para la noche del miércoles en sus planes.
 
@@ -42,16 +48,16 @@ Los coordinadores de la conferencia, Avi y Lila Dogim, han elegido algunos excel
 
 Una lista intrigante de títulos de talleres incluye ¿Así que quieres convertirte en un ciudadano cósmico?, ¿Adivina quién viene de visita?, Dominio propio, Echando perlas antes de la personalidad, Mentes cósmicas para ciudadanos cósmicos, Dios en el trabajo: Llevando los principios del universo al mercado, El Evolución de la moralidad, Ampliación de los límites de la ciudadanía, Hábitos espirituales: claves para el Reino, El Reino de Dios: un concepto en evolución y más.
 
-Las reservas se pueden hacer completando el formulario en este número y enviándolo por correo a la dirección que se encuentra en la parte inferior del formulario. Si tiene más preguntas, llame gratis a la oficina de Fellowship al 877-288-3772 o envíenos un correo electrónico a fellowship@urantiabook.org.
+Las reservas se pueden hacer completando el formulario en este número y enviándolo por correo a la dirección que se encuentra en la parte inferior del formulario. Si tiene más preguntas, llame gratis a la oficina de la Fellowship al 877-288-3772 o envíenos un correo electrónico a fellowship@urantiabook.org.
 
 ## Difusión internacional
 
-Los esfuerzos de divulgación internacional de la Fraternidad durante los últimos años han sido emocionantes, edificantes e indelebles para quienes participan en estas actividades multifacéticas.
-Individuos, parejas y pequeños grupos que representan a la Fraternidad han viajado a más de diez países diferentes en América Central y del Sur, África (Zambia, Sudáfrica) y al menos seis países de Europa. Ya este año hubo una conferencia en Mazatlán, México y un extenso viaje por todo el Ecuador asistiendo a grupos de estudio, hablando en programas de radio y haciendo entrevistas de televisión. Para este año se proyectan actividades en Argentina, India, Lituania, con un posible viaje de extensión a África. Y, para aquellos que asistieron a IC05, conocen la inspiradora actividad coreana. Además, la traducción al chino está a solo unos años de distancia y ya las ideas y la discusión para un alcance de esa magnitud están comenzando a calentarse.
+Los esfuerzos de divulgación internacional de la Fellowship durante los últimos años han sido emocionantes, edificantes e indelebles para quienes participan en estas actividades multifacéticas.
+Individuos, parejas y pequeños grupos que representan a la Fellowship han viajado a más de diez países diferentes en América Central y del Sur, África (Zambia, Sudáfrica) y al menos seis países de Europa. Ya este año hubo una conferencia en Mazatlán, México y un extenso viaje por todo el Ecuador asistiendo a grupos de estudio, hablando en programas de radio y haciendo entrevistas de televisión. Para este año se proyectan actividades en Argentina, India, Lituania, con un posible viaje de extensión a África. Y, para aquellos que asistieron a IC05, conocen la inspiradora actividad coreana. Además, la traducción al chino está a solo unos años de distancia y ya las ideas y la discusión para un alcance de esa magnitud están comenzando a calentarse.
 
 La Fellowship está considerando nuestra propuesta para una persona del Servicio Internacional de Lectores, una posición financiada, para fomentar y fortalecer la infraestructura social de los lectores españoles emergentes. Muchos de nosotros sentimos que América Latina pronto se mostrará como líder de esta revelación.
 
-La Heart of America Society (gracias Ken Raveill), la Fundación Urantia y la Fraternidad trabajaron juntos para traducir, publicar y distribuir el «Urdu Sampler»: cinco artículos seleccionados del Libro en un formato en el que la página de la izquierda está en inglés. y la página de la derecha está en urdu, el idioma principal de Pakistán. ¿No sería fantástico si un «libro de muestras» estuviera disponible en todos los idiomas en todos los países?
+La Heart of America Society (gracias Ken Raveill), la Fundación Urantia y la Fellowship trabajaron juntos para traducir, publicar y distribuir el «Urdu Sampler»: cinco artículos seleccionados del Libro en un formato en el que la página de la izquierda está en inglés. y la página de la derecha está en urdu, el idioma principal de Pakistán. ¿No sería fantástico si un «libro de muestras» estuviera disponible en todos los idiomas en todos los países?
 
 ## Buck Weimer Nuevo Presidente Internacional
 
@@ -65,7 +71,7 @@ En la reciente reunión de mitad de año del Consejo General, Buck Weimer fue el
 
 Muchos lectores con los que hablamos se sienten muy aislados en su propio país debido a la falta de una gran cantidad de lectores o expresan una sensación de desconexión con otros lectores; Nuevamente, esto es especialmente cierto en los países del Tercer Mundo. Nos gustaría organizar y facilitar un proyecto de unir grupos de estudio dispuestos de países del Tercer Mundo con grupos de estudio dispuestos en países del Primer Mundo como Grupos de Estudio Compañero. Las diferencias de idioma pueden presentar un problema inicial, pero que se puede superar con paciencia y el uso de todos los recursos disponibles en la actualidad. Las interacciones materiales, intelectuales, espirituales y sociales entre los grupos de estudio y las personas que los integran podrían enriquecer a todos los participantes y dar un tremendo impulso al crecimiento de la hermandad mundial de la humanidad. Si usted personalmente, o su grupo de estudio,
 
-Nosotros en el Comité de Fellowships Internacionales sabemos que esta revelación no es actualmente para todos; _El Libro de Urantia_ es para las generaciones futuras. También sabemos que el lento crecimiento que todos hemos experimentado en nuestros muchos años con el libro es de alguna manera «natural», y probablemente manejado por nuestros amigos celestiales invisibles; entonces lo que hacemos no es ni acelerar ni ralentizar el proceso de crecimiento. Lo que sí sentimos es un deber para con todos nuestros hermanos y hermanas de todo el mundo de proporcionar la revelación a quienes estén preparados para recibirla. Busca dentro de ti mismo para encontrar tu nivel de involucramiento en esta gran misión; como embajador, como maestro; mensajero, o con oraciones individuales. Para obtener más información, póngase en contacto conmigo en weimer1@hotmail.com.
+Nosotros en el Comité de la Fellowship Internacionales sabemos que esta revelación no es actualmente para todos; _El Libro de Urantia_ es para las generaciones futuras. También sabemos que el lento crecimiento que todos hemos experimentado en nuestros muchos años con el libro es de alguna manera «natural», y probablemente manejado por nuestros amigos celestiales invisibles; entonces lo que hacemos no es ni acelerar ni ralentizar el proceso de crecimiento. Lo que sí sentimos es un deber para con todos nuestros hermanos y hermanas de todo el mundo de proporcionar la revelación a quienes estén preparados para recibirla. Busca dentro de ti mismo para encontrar tu nivel de involucramiento en esta gran misión; como embajador, como maestro; mensajero, o con oraciones individuales. Para obtener más información, póngase en contacto conmigo en weimer1@hotmail.com.
 
 ## Una experiencia de extensión en el campus
 
@@ -117,7 +123,7 @@ Si desea contribuir a este trabajo, puede realizar donaciones en línea en: www.
 
 Agradecemos profundamente su continua ayuda financiera. Michelle Klimesh, coordinadora de oleoductos
 
-> Los actos de hoy son el destino del mañana. [[LU 48:7.26](/es/The_Urantia_Book/48#p7_26)]
+> Los actos de hoy forman el destino de mañana. [[LU 48:7.26](/es/The_Urantia_Book/48#p7_26)]
 
 ## GC visita Phoenix
 
@@ -141,8 +147,8 @@ Para más detalles, comuníquese con el Presidente del Comité de Alcance, Thoma
 
 - Los nuevos materiales en el sitio web incluyen la versión de audio completa de _El Libro de Urantia_ tomada del DVD de Uversa Press. Cada sección del texto en línea contiene un enlace al archivo de audio correspondiente que se puede reproducir en su computadora. www.urantiabook.org/newbook/index.html
 - ¿Alguna vez se preguntó acerca de algunas de las extrañas palabras creadas por los autores de _El Libro de Urantia_? Chris Halvorson ha creado una guía muy informativa sobre la etimología de las nuevas palabras utilizadas en _El Libro de Urantia_. Vaya a "¿Qué hay de nuevo?" en el sitio web en www.urantiabook.org/whatsnew.htm y siga el enlace.
-- Si cambia su dirección de correo electrónico, recuerde actualizar esta información para cualquiera de las listas de correo electrónico de Fellowship a las que podría estar suscrito. En la parte inferior de cada mensaje que recibe de la lista hay un enlace en el que puede hacer clic para editar la información de su suscripción. Cada lista es única, por lo que si se suscribe a más de una lista, por ejemplo, Socadmin y Council, deberá editar la información de cada lista por separado.
-- Urantia News por correo electrónico? Si desea suscribirse a la actualización mensual de la Comunidad de la Fraternidad que contiene noticias actualizadas sobre el trabajo de la revelación, puede hacerlo en http://urantiabook.org/suscribe.htm. Su dirección de correo electrónico es todo lo que necesita para suscribirse porque ya está recibiendo Mighty Messenger.
+- Si cambia su dirección de correo electrónico, recuerde actualizar esta información para cualquiera de las listas de correo electrónico de la Fellowship a las que podría estar suscrito. En la parte inferior de cada mensaje que recibe de la lista hay un enlace en el que puede hacer clic para editar la información de su suscripción. Cada lista es única, por lo que si se suscribe a más de una lista, por ejemplo, Socadmin y Council, deberá editar la información de cada lista por separado.
+- Urantia News por correo electrónico? Si desea suscribirse a la actualización mensual de la Fellowship de la Fellowship que contiene noticias actualizadas sobre el trabajo de la revelación, puede hacerlo en http://urantiabook.org/suscribe.htm. Su dirección de correo electrónico es todo lo que necesita para suscribirse porque ya está recibiendo Mighty Messenger.
 
 
 ## Equipo del Mighty Messenger
@@ -165,6 +171,9 @@ www.urantiabook.org
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2006_Fall">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de otoño de 2006</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2007">
@@ -172,6 +181,9 @@ www.urantiabook.org
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2007_Winter">
+          <span class="pr-2">Edición de invierno de 2007</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

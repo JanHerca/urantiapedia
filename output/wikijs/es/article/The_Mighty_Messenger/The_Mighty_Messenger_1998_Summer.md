@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+       <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1998_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 1998</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-1998">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1998_Fall_Winter">
+          <span class="pr-2">Fall/Winter 1998</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -30,7 +36,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## El Consejo General se reúne en DC y adopta el nuevo nombre de la Fellowship
 
-En su reunión de julio en Mount Vernon College en la sección de Georgetown de Washington, DC, el Consejo General de la Fraternidad votó abrumadoramente para adoptar un nuevo nombre para la organización, un nombre que identificará de inmediato la asociación del grupo con la quinta revelación de época. El nuevo nombre, que ya está en uso, es la Fellowship de _El Libro de Urantia_. Antes de dar este paso histórico, el Consejo General había elegido cuatro nuevos Consejeros que cubrirán las vacantes hasta la próxima Asamblea Trienal de Delegados que se llevará a cabo en el año 2000. Fueron elegidos Bob Arkens de Clintonville, Wisconsin, Adrienne Jarnagin de Burnet, Texas, Phil Geiger de Boulder, Colorado y Claudia Ayers de Sacramento, California. También fueron elegidos para el Comité Ejecutivo Lorrie Krasny (Secretaria) y Robert Bums (Presidente del Comité de la Carta).
+En su reunión de julio en Mount Vernon College en la sección de Georgetown de Washington, DC, el Consejo General de la Fellowship votó abrumadoramente para adoptar un nuevo nombre para la organización, un nombre que identificará de inmediato la asociación del grupo con la quinta revelación de época. El nuevo nombre, que ya está en uso, es la Fellowship de _El Libro de Urantia_. Antes de dar este paso histórico, el Consejo General había elegido cuatro nuevos Consejeros que cubrirán las vacantes hasta la próxima Asamblea Trienal de Delegados que se llevará a cabo en el año 2000. Fueron elegidos Bob Arkens de Clintonville, Wisconsin, Adrienne Jarnagin de Burnet, Texas, Phil Geiger de Boulder, Colorado y Claudia Ayers de Sacramento, California. También fueron elegidos para el Comité Ejecutivo Lorrie Krasny (Secretaria) y Robert Bums (Presidente del Comité de la Carta).
 
 La configuración actual del Comité Ejecutivo es la siguiente: Janet Farrington-Graham, Presidenta; Stephen Dreier, vicepresidente; Lorrie Krasny, Secretaria; Harry McMullan, Tesorero; Marilynn Kulieke, secretaria general. También se incluyen los presidentes de los comités permanentes que son: Dan Massey, Judicial; Robert Burns, Carta; Marvin Gawryn, Relaciones Fraternales; Paula Thompson, Extensión Doméstica; John Lange, Fellowship Internacional; Michelle Klimesh, Educación; Avi Dogim, Publicación; Joseph Liszka, Finanzas; y David Kantor, Proyectos Especiales.
 
@@ -40,7 +46,7 @@ por _Marvin Gawryn_
 
 Aproximadamente 160 personas asistieron a la Conferencia Internacional de la IUA en Helsinki, Finlandia, a principios de agosto del 30 al 40 de América del Norte, unas 30 de una variedad de otros países (entre 1 y 5 participantes de Holanda, Rusia, Francia, Bélgica, Noruega, Estonia, Colombia , Perú, Alemania y algunos otros países) y el resto de Finlandia. Casi todas las charlas se imprimieron en inglés y finlandés y se leyeron a la audiencia, al igual que los documentos presentados en una conferencia profesional. Dos que disfruté especialmente fueron las de un lector ruso, Andrei Reznikov, sobre la admonición, «Sé perfecto y la charla de Nienke Begemann-Brugman de los Países Bajos sobre »Intrepidez religiosa".
 
-John Hales y yo trajimos saludos de la Fraternidad y extendimos una cálida invitación para asistir y participar en Spirit Quest 2000. Tuvimos buenas conversaciones con muchos de los participantes, generalmente tratando de compartir los valores y preocupaciones de la Fraternidad, con más éxito que fracaso. . Estonia fue una reunión más pequeña: alrededor de 25 norteamericanos, algunos de otros países y alrededor de 25 estonios. Se llevó a cabo en un campamento infantil rústico en la costa del mar Báltico y fue más informal e interpersonal. Peep Sober es el líder de los lectores locales y encabeza los esfuerzos de traducción al estonio.
+John Hales y yo trajimos saludos de la Fellowship y extendimos una cálida invitación para asistir y participar en Spirit Quest 2000. Tuvimos buenas conversaciones con muchos de los participantes, generalmente tratando de compartir los valores y preocupaciones de la Fellowship, con más éxito que fracaso. . Estonia fue una reunión más pequeña: alrededor de 25 norteamericanos, algunos de otros países y alrededor de 25 estonios. Se llevó a cabo en un campamento infantil rústico en la costa del mar Báltico y fue más informal e interpersonal. Peep Sober es el líder de los lectores locales y encabeza los esfuerzos de traducción al estonio.
 
 Su charla sobre el futuro de nuestro planeta fue intrigante. Fue fascinante hablar con líderes de varios países, trabajando con grupos de lectores en etapas de evolución marcadamente diferentes. Obtuve un aprecio más profundo por el coraje de sus esfuerzos pioneros, así como por el progreso que hemos logrado en América del Norte en los últimos 30 años, pasando de ser un grupo central homogéneo en Chicago a un movimiento diverso en todo el continente.
 
@@ -50,9 +56,9 @@ por _Steve Dreier_
 
 La Sesión de Estudio de Verano de 1998 se llevó a cabo en Mount Vernon College en la hermosa área de Georgetown en Washington, DC. Del 9 al 12 de julio, unos 150 lectores se reunieron durante tres días de estudio, adoración, recreación y compañerismo. El tema general de este año fue «El arte de vivir espiritualmente». Se exploró a través de tres temas diarios: Día uno, «Comunión con el Padre», consideró nuestra relación personal con Dios; el día dos, «La Hermandad Viviente», examinó nuestras relaciones entre nosotros; el tercer día, «Visión del futuro», intentó predecir el curso de desarrollo de la revelación y su efecto sobre Urantia. Se presentaron una variedad de puntos de vista estimulantes. en charlas plenarias matutinas, seguidas de pequeños grupos de discusión temáticos tanto en la mañana como en la tarde.
 
-Durante las horas no programadas, la mayoría de los asistentes pasaron algún tiempo visitando algunas de las muchas atracciones en el área de Washington, DC. Durante muchos años, el Comité de Educación de la Fraternidad patrocinó Sesiones de Estudio de Verano en el área de Chicago. Más recientemente, el Comité de Educación decidió realizar estos eventos en diferentes lugares cada vez para facilitar una mayor participación. Además, gran parte de la responsabilidad de planificar y llevar a cabo la conferencia se delega en los lectores locales. El Comité de Educación conserva la responsabilidad de algunos de los aspectos más técnicos de la conferencia y actúa como asesor del grupo local. La mayor parte del trabajo involucrado en la planificación de la Sesión de Estudio de Verano de este año fue realizada por urantianos voluntarios del área de Washington, DC.
+Durante las horas no programadas, la mayoría de los asistentes pasaron algún tiempo visitando algunas de las muchas atracciones en el área de Washington, DC. Durante muchos años, el Comité de Educación de la Fellowship patrocinó Sesiones de Estudio de Verano en el área de Chicago. Más recientemente, el Comité de Educación decidió realizar estos eventos en diferentes lugares cada vez para facilitar una mayor participación. Además, gran parte de la responsabilidad de planificar y llevar a cabo la conferencia se delega en los lectores locales. El Comité de Educación conserva la responsabilidad de algunos de los aspectos más técnicos de la conferencia y actúa como asesor del grupo local. La mayor parte del trabajo involucrado en la planificación de la Sesión de Estudio de Verano de este año fue realizada por urantianos voluntarios del área de Washington, DC.
 
-Este grupo trabajó incansablemente durante casi un año atendiendo los muchos detalles del programa de la conferencia. Reclutaron una asamblea sobresaliente de oradores plenarios, facilitadores de talleres y músicos y organizaron un programa especial para niños y adolescentes. Este grupo de planificación estaba compuesto por miembros de la Fraternidad, miembros de la IUA y lectores no afiliados. El próximo verano, la Fraternidad patrocinará la Conferencia Internacional 1999 en Vancouver, BC, Canadá. La próxima Sesión de Estudio de Verano se llevará a cabo en el año 2000 en un lugar aún por determinar. El Comité de Educación da la bienvenida a las propuestas de los grupos de lectores locales para planificar y organizar esta conferencia. Comuníquese con Michelle Klimesh a través de la oficina de Fellowship en Chicago.
+Este grupo trabajó incansablemente durante casi un año atendiendo los muchos detalles del programa de la conferencia. Reclutaron una asamblea sobresaliente de oradores plenarios, facilitadores de talleres y músicos y organizaron un programa especial para niños y adolescentes. Este grupo de planificación estaba compuesto por miembros de la Fellowship, miembros de la IUA y lectores no afiliados. El próximo verano, la Fellowship patrocinará la Conferencia Internacional 1999 en Vancouver, BC, Canadá. La próxima Sesión de Estudio de Verano se llevará a cabo en el año 2000 en un lugar aún por determinar. El Comité de Educación da la bienvenida a las propuestas de los grupos de lectores locales para planificar y organizar esta conferencia. Comuníquese con Michelle Klimesh a través de la oficina de la Fellowship en Chicago.
 
 ## El Libro de Urantia aparece en los Juegos Gay de Ámsterdam
 
@@ -94,7 +100,7 @@ Lee el libro todos los días o todas las semanas y un amigo le presentó la reve
 
 _Algunas cosas que aprendimos:_
 
-Solo el 60% de las personas que dijeron que pertenecían a nuestra sociedad también dijeron que pertenecían a la Fraternidad (aunque la membresía en la Fraternidad sigue automáticamente a la membresía en la sociedad). El treinta por ciento de las personas que no son miembros de nuestra sociedad pensaron que en realidad lo eran. Los miembros son abrumadoramente más propensos a no asistir a la iglesia (83%-17%) que los no miembros (60%-40%).
+Solo el 60% de las personas que dijeron que pertenecían a nuestra sociedad también dijeron que pertenecían a la Fellowship (aunque la membresía en la Fellowship sigue automáticamente a la membresía en la sociedad). El treinta por ciento de las personas que no son miembros de nuestra sociedad pensaron que en realidad lo eran. Los miembros son abrumadoramente más propensos a no asistir a la iglesia (83%-17%) que los no miembros (60%-40%).
 
 El sesenta y uno por ciento de los miembros asisten al grupo de estudio más de una vez al mes, mientras que el 60% de los no miembros asisten al grupo de estudio ocasionalmente o nunca. Los miembros sintieron que las conferencias eran el servicio de lectura más importante proporcionado por una organización (57 %), mientras que los no miembros dijeron que los boletines informativos eran los más importantes (70 %). Ambos grupos dijeron que crear conciencia mundial sobre _El Libro de Urantia_ era la máxima prioridad para el futuro, seguida de la formación de profesores y líderes.
 
@@ -102,7 +108,7 @@ Sería interesante comparar el perfil de nuestra sociedad con los lectores de ot
 
 ## Ocurriendo aquí y allá
 
-_Extensión del área de Chicago: Whole Life Expo Viernes y sábado 9 y 10 de octubre_ Este stand patrocinado por la Fraternidad ha tenido mucho éxito al presentar _El Libro de Urantia_ a miles de personas en varios lugares de los Estados Unidos. Todos los lectores están invitados a participar a través de la asistencia. Para obtener más información o para ayudar con el personal del stand, llame a David Kulieke al 847-945-1812.
+_Extensión del área de Chicago: Whole Life Expo Viernes y sábado 9 y 10 de octubre_ Este stand patrocinado por la Fellowship ha tenido mucho éxito al presentar _El Libro de Urantia_ a miles de personas en varios lugares de los Estados Unidos. Todos los lectores están invitados a participar a través de la asistencia. Para obtener más información o para ayudar con el personal del stand, llame a David Kulieke al 847-945-1812.
 
 _Miniconferencia de todo el día sobre educación_ Domingo, 18 de octubre, 9:30 am-4:30 pm Harris Hall, Room 108 Northwestern University, Evanston, IL Coordinadora: Lynne Kulieke grupos Los conceptos y técnicas para el estudio profundo y el aprendizaje avanzado se experimentarán en actividades creativas diseñadas para preparar a maestros y líderes. Se anima a los lectores de todos los niveles de experiencia a asistir. ¡Todos aprenderán algo nuevo! Esté atento a la correspondencia especial para el registro y los detalles del programa.
 
@@ -114,7 +120,7 @@ _Fiesta del programa de vacaciones_ Patrocinado conjuntamente por First Society 
 
 _VIPs preparándose para convertirse en una sociedad_ Cristel Garrick y Bud Kagen informan que el Grupo de Estudio de la Gente de la Isla de Vancouver (VIPs) está «ahora en el proceso de convertirse en una sociedad de pleno derecho bajo la Constitución de la Fellowship de _El Libro de Urantia_». El grupo celebró el cumpleaños del Maestro el 22 de agosto en el lago Shawnigan en la isla de Vancouver.
 
-> ¿Sabía que si compra libros a través de Amazon.com en Internet, puede ayudar a recaudar dinero para la Fraternidad _El Libro de Urantia_ haciendo clic en Amazon.com a través del sitio web de la Fraternidad? La Fellowship recibe una tarifa de Amazon cada vez que se realiza una compra de esta manera.
+> ¿Sabía que si compra libros a través de Amazon.com en Internet, puede ayudar a recaudar dinero para la Fellowship _El Libro de Urantia_ haciendo clic en Amazon.com a través del sitio web de la Fellowship? La Fellowship recibe una tarifa de Amazon cada vez que se realiza una compra de esta manera.
 
 ## The Mighty Messenger
 
@@ -131,6 +137,9 @@ Publicado trimestralmente por Uversa Press para el Comité de Publicaciones de _
     <tbody>
       <tr>
         <td>
+       <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1998_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 1998</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-1998">
@@ -138,6 +147,9 @@ Publicado trimestralmente por Uversa Press para el Comité de Publicaciones de _
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1998_Fall_Winter">
+          <span class="pr-2">Fall/Winter 1998</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

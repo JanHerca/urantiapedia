@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2013_Winter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de invierno de 2013</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2014">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2014_Winter">
+          <span class="pr-2">Edición de invierno de 2014</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -74,7 +80,7 @@ Se planea otra ceremonia para IC14. Y cualquier niño mayor de cinco años que n
 
 Después de muchos años de reunirse y celebrar conferencias anuales desde 1976, un grupo de lectores de Florida se convirtió en la 28.ª sociedad Urantia Book Fellowship en ser constituida. La ceremonia de constitución se llevó a cabo en la casa de Riula y Willy Deoto en Wellington, Florida el sábado 22 de marzo. Más de 20 lectores se unieron a los Deoto y sus hijos, Solonia y Gabriel para un día de compartir y compañerismo. A los floridanos se unieron Avi y Lila Dogim y Bobbie y Steve Dreier de la Sociedad de Nueva York.
 
-Daniel Amyx, el primer presidente de la sociedad, diseñó un certificado de constitución que incluía los nombres y las firmas de los miembros fundadores y fundadores. Se crearon certificados separados para los miembros fundadores y los hijos de Deoto, Solonia y Gabriel. Cada miembro recibió una copia del certificado después de un brindis con champaña para celebrar la ocasión. Las festividades que duraron de 1 a 6 pm incluyeron una variedad interminable de delicias caseras. La nueva sociedad será la anfitriona de la noche de apertura social en IC'14. ¡Asegúrese de visitarnos para conocer a los miembros más nuevos de la Fraternidad!
+Daniel Amyx, el primer presidente de la sociedad, diseñó un certificado de constitución que incluía los nombres y las firmas de los miembros fundadores y fundadores. Se crearon certificados separados para los miembros fundadores y los hijos de Deoto, Solonia y Gabriel. Cada miembro recibió una copia del certificado después de un brindis con champaña para celebrar la ocasión. Las festividades que duraron de 1 a 6 pm incluyeron una variedad interminable de delicias caseras. La nueva sociedad será la anfitriona de la noche de apertura social en IC'14. ¡Asegúrese de visitarnos para conocer a los miembros más nuevos de la Fellowship!
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2014_Spring/005837.jpg">
@@ -176,38 +182,38 @@ Esta referencia no es de _El Libro de Urantia_, aunque está perfectamente en co
 
 _El Libro de Urantia_, entre muchas otras cosas, se trata de ampliar nuestra perspectiva y poner las cosas en relación entre sí. Se trata de hacer avanzar el progreso de nuestro universo haciendo conexiones. Se trata de poner nuestras vidas en un contexto espiritual y con propósito. De hecho, la revelación de _El Libro de Urantia_ no es una sola declaración dentro del libro; es la increíble integración de todas las ideas en un todo asombrosamente unificado.
 
-En el Documento 112 el libro afirma: «… _el concepto de personalidad como el significado del todo de la criatura viviente y funcional significa mucho más que la integración de relaciones; significa la unificación de todos los factores de la realidad así como la coordinación de las relaciones. Existen relaciones entre dos objetos, pero tres o más objetos dan lugar a un sistema, y ​​tal sistema es mucho más que una simple relación ampliada o compleja. Esta distinción es vital, porque en un sistema cósmico los miembros individuales no están conectados entre sí excepto en relación con el todo y a través de la individualidad del todo._» [[LU 112:1.17](/es/The_Urantia_Book/112# p1_17)]
+En el Documento 112 el libro afirma: «… _el concepto de la personalidad, en el sentido de la totalidad de la criatura que vive y actúa, significa mucho más que la integración de unas relaciones; significa la unificación de todos los factores de la realidad, así como la coordinación de las relaciones. Entre dos objetos existen relaciones, pero tres objetos o más producen un sistema, y este sistema representa mucho más que una relación ampliada o compleja. Esta distinción es fundamental, porque en un sistema cósmico los miembros individuales no están conectados entre sí salvo en relación con el todo, y gracias a la individualidad de ese todo._» [[LU 112:1.17](/es/The_Urantia_Book/112#p1_17)]
 
 Recientemente, nuestro grupo de estudio estaba dando un paseo de un año por el «Prólogo» cuando un estudiante relativamente nuevo de _El Libro de Urantia_, o al menos del «Prólogo», planteó una pregunta muy frecuente, pero interesante. Al discutir «Los Tres Absolutos», el autor, un Consejero Divino, que es una persona bastante inteligente, usa frases como «parece ser», «estamos convencidos» y «no lo percibimos completamente».
 
 «Bueno, si no está seguro, ¿cómo espera que yo lo entienda?» preguntó nuestro nuevo lector.
 
-Un dilema más común es generado por nuestras propias limitaciones. A lo largo del libro encontramos declaraciones como esta de un arcángel de Nebadon: «_Pero casi me desespero de poder transmitir a la mente material la naturaleza del trabajo de los artesanos celestiales._» [[LU 44:0.20]( /es/The_Urantia_Book/44#p0_20)]
+Un dilema más común es generado por nuestras propias limitaciones. A lo largo del libro encontramos declaraciones como esta de un arcángel de Nebadon: «_Pero casi pierdo la esperanza de poder transmitir a la mente material la naturaleza del trabajo de los artesanos celestiales._» [[LU 44:0.20](/es/The_Urantia_Book/44#p0_20)]
 
 Otro problema se reconoce en el segundo párrafo del libro y muchas, muchas veces después de eso: las limitaciones del lenguaje humano.
 
 Entonces, ¿cómo abordar _El Libro de Urantia_ con tales restricciones aparentes? Hay que estar preparado para estudiarlo en profundidad.
-- Esto significa que aunque puede haber hechos en _El Libro de Urantia_, no podemos leer el libro literalmente. Debemos aceptar que se nos dan marcos para la comprensión y, como se nos dice en una de las referencias más importantes del libro, «... _mientras que tales marcos universales para el pensamiento de las criaturas son indispensables para las operaciones intelectuales racionales, lo son, sin excepción, errónea en mayor o menor grado._» [[LU 0:1.1](/es/The_Urantia_Book/0#p1_1)]
+- Esto significa que aunque puede haber hechos en _El Libro de Urantia_, no podemos leer el libro literalmente. Debemos aceptar que se nos dan marcos para la comprensión y, como se nos dice en una de las referencias más importantes del libro, «... _Aunque estos marcos universales para el pensamiento de las criaturas son indispensables para las operaciones intelectuales racionales, todos son erróneos en mayor o menor grado, sin ninguna excepción._» [[LU 115:1.1](/es/The_Urantia_Book/115#p1_1)]
 - Debemos estar dispuestos a leer el libro en sentido figurado y filosófico, lo que requiere un enfoque riguroso de estudio.
 - A pesar de las limitaciones de la forma, debemos reconocer que los Reveladores nos dieron un libro, una forma que involucra el proceso de mediación de la mente. Entre otras cosas, esto significa que debemos estudiar la sabiduría humana fuera de _El Libro de Urantia_. ¿Hubo alguna vez una inspiración para educarse a uno mismo como _El Libro de Urantia_? Debemos estar dispuestos a leer las cosas varias veces, a menudo en preparación para un grupo. Y debemos estar dispuestos a hacer referencias cruzadas. Aquí hay una aplicación práctica, usando una idea que se expresa dos veces.
-- (Mota 11):_ Los débiles se complacen en los propósitos, pero los fuertes actúan. La vida no es más que el trabajo de un día, hazlo bien. El acto es nuestro; las consecuencias de Dios_. [[LU 48:7.13](/es/The_Urantia_Book/48#p7_13)]
-- _El hombre no se une con el Supremo y sumerge su identidad personal, pero las repercusiones universales de la experiencia de todos los hombres forman así parte de la experiencia divina del Supremo. El acto es nuestro, las consecuencias de Dios._ [[LU 117:5.5](/es/The_Urantia_Book/117#p5_5)]
+- (Mota 11): _Los débiles se conforman con los propósitos, pero los fuertes actúan. La vida sólo es el trabajo de un día —hacedlo bien. El acto es nuestro; las consecuencias pertenecen a Dios_. [[LU 48:7.13](/es/The_Urantia_Book/48#p7_13)]
+- _El hombre no se une con el Supremo y sumerge su identidad personal, pero las repercusiones universales de la experiencia de todos los hombres forman una parte de la experimentación divina del Supremo. «El acto es nuestro, pero sus consecuencias pertenecen a Dios._ [[LU 117:5.5](/es/The_Urantia_Book/117#p5_5)]
   Creo que el primer uso de «_El acto es nuestro; las consecuencias Dios's_» es una de las ideas más frecuentemente malinterpretadas en el libro. Sugiere que una vez que hayamos actuado, podemos lavarnos las manos de las consecuencias y entregárselas a Dios. Pero el segundo uso de la idea muestra que si bien las consecuencias residen en Dios el Supremo, también debemos compartir la responsabilidad de las consecuencias de nuestras decisiones. Muy a menudo _El Libro de Urantia_ requiere el contexto de varias referencias para ganar perspectiva.
 - Hay que intentar estudiar en grupo. Además de los aspectos aún más importantes de la socialización, de crear relaciones con otras personalidades, el estudio en grupo amplía y fermenta la comprensión. ¿Cuántos de nosotros hemos experimentado el fenómeno «Cuando leemos adelante, responde lo que estábamos discutiendo»? Esto no es un accidente. No es una redundancia. Es un enriquecimiento.
 - Y debemos saber que comprender un poco mejor no es un fin en sí mismo.
 - El conocimiento se ocupa de los hechos; sabiduría, con las relaciones, con la verdad, con los valores de la realidad.
 
-> _Pero la verdad nunca puede convertirse en posesión del hombre sin el ejercicio de la fe. Esto es cierto porque los pensamientos, la sabiduría, la ética y los ideales del hombre nunca se elevarán más alto que su fe, su sublime esperanza. Y toda esa fe verdadera se basa en una reflexión profunda, una autocrítica sincera y una conciencia moral intransigente. La fe es la inspiración de la imaginación creativa espiritualizada._ [[LU 132:3.5](/es/The_Urantia_Book/132#p3_5)]
+> _Pero el hombre nunca puede poseer la verdad sin el ejercicio de la fe. Esto es así porque los pensamientos, la sabiduría, la ética y los ideales del hombre nunca se elevarán por encima de su fe, de su esperanza sublime. Y toda verdadera fe de este tipo está basada en una reflexión profunda, en una autocrítica sincera y en una conciencia moral intransigente. La fe es la inspiración de la imaginación creativa impregnada de espíritu._ [[LU 132:3.5](/es/The_Urantia_Book/132#p3_5)]
 
 Al describir tales objetivos de estas sesiones de estudio, sería negligente si no mencionara al extraordinario Comité de Educación del que formo parte, incluidos Charles Olivea, Katharina Becker, Daniel Glazer, Barbara Newsom y los cuatro miembros del comité de planificación. : Nick Stefero, nuestro presidente del programa, Bobbie Dreier, Ken Keyser y Marilynn Kulieke, todos los cuales han puesto una dedicación extraordinaria y un tiempo enorme para prepararse.  
 
-El mandato del Comité de Educación es «fomentar el estudio en profundidad de _El Libro de Urantia_...» Así que estamos un poco sesgados. Pero también reconocemos el valor de equilibrar el estudio con el servicio y la relajación. Se nos dice que en Jerusem _Las actividades de tal mundo son de tres variedades distintas: trabajo, progreso y juego. Dicho de otro modo, son: servicio, estudio y descanso. Las actividades compuestas consisten en relaciones sociales, entretenimiento grupal y adoración divina. Hay un gran valor educativo en mezclarse con diversos grupos de personalidades, órdenes muy diferentes de los propios compañeros._ [[LU 46:5.29](/es/The_Urantia_Book/46#p5_29)].
+El mandato del Comité de Educación es «fomentar el estudio en profundidad de _El Libro de Urantia_...» Así que estamos un poco sesgados. Pero también reconocemos el valor de equilibrar el estudio con el servicio y la relajación. Se nos dice que en Jerusem _Las actividades de un mundo como éste son de tres tipos distintos: trabajo, progreso y entretenimiento. Dicho de otra manera: servicio, estudio y distracción. Las actividades compuestas consisten en relaciones sociales, diversiones colectivas y adoración divina. El hecho de mezclarse con grupos distintos de personalidades, con órdenes muy diferentes a la de uno mismo, tiene un gran valor educativo._ [[LU 46:5.29](/es/The_Urantia_Book/46#p5_29)].
 
 ¡Esperamos que su experiencia en las Sesiones de estudio de verano mejore las tres!
 
 ## Informe del Congreso Internacional OVNI
 
-El Comité de Alcance de la Fraternidad siempre está buscando nuevos lugares y el Congreso Internacional de OVNIs cumple con los requisitos. UFO Con es el evento de élite en la comunidad OVNI al que asisten unas 700 personas de muchos países que asisten para ver películas y escuchar a más de 20 oradores, incluidos escritores, científicos, investigadores y cineastas, y aquellos que han tenido contacto.
+El Comité de Alcance de la Fellowship siempre está buscando nuevos lugares y el Congreso Internacional de OVNIs cumple con los requisitos. UFO Con es el evento de élite en la comunidad OVNI al que asisten unas 700 personas de muchos países que asisten para ver películas y escuchar a más de 20 oradores, incluidos escritores, científicos, investigadores y cineastas, y aquellos que han tenido contacto.
 
 Después de investigar un poco y hablar sobre lo que podríamos compartir de Apocalipsis, creamos puntos de conversación que serían de interés para esta multitud. Tuvimos cuidado de «mantenerlo en el libro», compartiendo la información sobre la jerarquía celestial, la administración amistosa y ordenada de los universos, los tipos de seres ascendentes y descendentes, el plan de ascendencia, la rebelión de Lucifer, etc.
 
@@ -217,9 +223,9 @@ Una mujer de Sudáfrica compró 5 libros para sus amigos en casa y se ha conecta
 
 Tuvimos un verdadero placer cuando conocimos a George. Había estado leyendo solo durante 20 años, nunca había conocido a otro lector en todo ese tiempo y estaba bien informado, familiarizado con el sitio web y las páginas de Facebook y enamorado de Apocalipsis. ¡Tanto es así que lo ha compartido con su hijo de 11 años! Regresó varias veces y disfrutamos compartiendo historias y conociéndonos.
 
-También obtuvimos información de contacto de 5 lectores veteranos que se agregarán a la base de datos para que reciban las publicaciones de Fellowship. Acabo de terminar de compilar la lista de contactos y envié una carta de «saludo» a todos con enlaces de grupos de estudio y una invitación para unirse a la nueva reunión de estudio en línea del lunes de Andreas. ¡Y acabo de recibir noticias de 2 en la lista! Un alcance muy emocionante, estas personas son buscadores serios y disfrutamos compartir la Revelación de Urantia con todos.
+También obtuvimos información de contacto de 5 lectores veteranos que se agregarán a la base de datos para que reciban las publicaciones de la Fellowship. Acabo de terminar de compilar la lista de contactos y envié una carta de «saludo» a todos con enlaces de grupos de estudio y una invitación para unirse a la nueva reunión de estudio en línea del lunes de Andreas. ¡Y acabo de recibir noticias de 2 en la lista! Un alcance muy emocionante, estas personas son buscadores serios y disfrutamos compartir la Revelación de Urantia con todos.
 
-¡Gracias a los lectores de la Sociedad del Gran Cañón ya la Fraternidad por hacer todo esto posible!
+¡Gracias a los lectores de la Sociedad del Gran Cañón ya la Fellowship por hacer todo esto posible!
 
 ## Próximos Eventos…
 
@@ -249,6 +255,9 @@ www.urantiabook.org
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2013_Winter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de invierno de 2013</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2014">
@@ -256,6 +265,9 @@ www.urantiabook.org
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2014_Winter">
+          <span class="pr-2">Edición de invierno de 2014</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

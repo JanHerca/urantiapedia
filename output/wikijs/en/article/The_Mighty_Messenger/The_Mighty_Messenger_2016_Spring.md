@@ -141,7 +141,7 @@ Councilors Paul M. Anderson of Boston and Guillermo Deoto of Florida, who were e
 **Avi Dogim** has been a reader since the 1970s and has served the Fellowship in many capacities since. He is a founding member of the New York Society, a former chairman of the Fellowship’s Membership and Publications Committees, a former Fellowship President, and a current member of the Judicial Committee. He feels that while the Fellowship has already done a great deal to disseminate _The Urantia Book_ teachings, it has the potential to achieve much more through increasingly more effective team work.
 
 
-> “And lead us moment by moment in the pathway of loving service.” [[UB 144:5.51](/en/The_Urantia_Book/144#p5_51)]
+> “And lead us moment by moment in the pathway of loving service.” [[UB 144:5.62](/en/The_Urantia_Book/144#p5_62)]
 
 
 ## Societies at Work 

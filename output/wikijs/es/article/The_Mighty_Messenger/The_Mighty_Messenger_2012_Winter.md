@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2012_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2012</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-2012">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2013_Spring">
+          <span class="pr-2">Edición de primavera de 2013</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -48,7 +54,7 @@ El Comité de Educación ha decidido tentativamente realizar un estudio de la to
 
 Por _Bobbie Dreier_
 
-El Comité de Educación de la Fraternidad nuevamente patrocinó la Sesión de Estudio de Verano el pasado agosto en el Centro de Retiro Techny Towers cerca de Chicago. Techny continúa brindando un entorno ideal para el estudio, la adoración y el compañerismo. El tema de este año fue «Evolución Planetaria Progresiva». El programa reflejaba el mandato constitucional del Comité de Educación de «fomentar el estudio en profundidad de _El Libro de Urantia_». Steve McIntosh y Daniel Glazer brindaron charlas plenarias perspicaces seguidas de presentaciones y talleres de alta calidad que iluminaron el tema.
+El Comité de Educación de la Fellowship nuevamente patrocinó la Sesión de Estudio de Verano el pasado agosto en el Centro de Retiro Techny Towers cerca de Chicago. Techny continúa brindando un entorno ideal para el estudio, la adoración y el compañerismo. El tema de este año fue «Evolución Planetaria Progresiva». El programa reflejaba el mandato constitucional del Comité de Educación de «fomentar el estudio en profundidad de _El Libro de Urantia_». Steve McIntosh y Daniel Glazer brindaron charlas plenarias perspicaces seguidas de presentaciones y talleres de alta calidad que iluminaron el tema.
 
 El programa de este año contó con varios presentadores adultos jóvenes, un taller que requería preinscripción y preparación, un taller «Explorando las grandes preguntas» y una «Introducción a _El Libro de Urantia_ para amigos y familiares». Las sesiones de recapitulación y retroalimentación brindaron a los asistentes la oportunidad de experimentar hablar en público, mientras que las sesiones plenarias y los talleres seleccionados se transmitieron por Internet para aquellos que no pudieron asistir. El programa cerró con una sesión de intercambio de mesa redonda «World Café» que brindó a todos los asistentes tiempo para reflexionar y responder a sus experiencias en la conferencia.
 
@@ -68,7 +74,7 @@ Los esfuerzos actuales elevan nuestros totales históricos de Pipeline a 3544 li
 
 ¡Muchas gracias por su apoyo!
 
-## Conozca a nuestro nuevo presidente de la Fraternidad
+## Conozca a nuestro nuevo presidente de la Fellowship
 
 <figure id="Figure_2" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/Lila_Dogim.jpg">
@@ -76,7 +82,7 @@ Los esfuerzos actuales elevan nuestros totales históricos de Pipeline a 3544 li
 
 Para aquellos de ustedes que no me conocen, mi nombre es Lila Dogim (pronunciado Leela, solo para confundirlos). Nací en Rusia. Cuando tenía 14 años mi familia se mudó a Polonia ya los 19 años nos mudamos a Brooklyn, Estados Unidos. ¡Viva Brooklyn!
 
-En 1974, mi primo Mark nos presentó a mi marido Avi ya mí _El Libro de Urantia_ y empezamos un grupo de estudio. Desde entonces, he sido miembro de varios grupos de estudio, miembro de la Sociedad Urantia de Connecticut, miembro fundador de la Sociedad Urantia del Gran Nueva York, Consejero general de la Fellowship de _El Libro de Urantia_, Presidente del Comité de Educación de Urantia Fellowship para 3 años, y ahora, Presidente de la Fraternidad.
+En 1974, mi primo Mark nos presentó a mi marido Avi ya mí _El Libro de Urantia_ y empezamos un grupo de estudio. Desde entonces, he sido miembro de varios grupos de estudio, miembro de la Sociedad Urantia de Connecticut, miembro fundador de la Sociedad Urantia del Gran Nueva York, Consejero general de la Fellowship de _El Libro de Urantia_, Presidente del Comité de Educación de Urantia Fellowship para 3 años, y ahora, Presidente de la Fellowship.
 
 Mi deseo es que nuestro trabajo encaje con los planes del Seráfico Gobierno Planetario. Tienen un plan para la evolución del planeta. Tienen planes para el desarrollo de esta revelación. No tenemos mandatos escritos ni un guión a partir del cual trabajar, pero cuanto más intentemos conocer los planes de nuestros amigos invisibles, más cerca estaremos de ejecutarlos.
 
@@ -95,7 +101,7 @@ _Mo Siegel_, presidente de la Fundación Urantia
 
 ## La 3.ª mesa redonda de TI de El Libro de Urantia
 
-El fin de semana del 20 al 21 de octubre, un grupo de veintiocho lectores de _El Libro de Urantia_ expertos en tecnología, junto con los presidentes de la Fraternidad, la AUI y la Fundación Urantia, se reunieron con el propósito de explorar la cooperación tecnológica en una amplia variedad de servicios existentes y potenciales.
+El fin de semana del 20 al 21 de octubre, un grupo de veintiocho lectores de _El Libro de Urantia_ expertos en tecnología, junto con los presidentes de la Fellowship, la AUI y la Fundación Urantia, se reunieron con el propósito de explorar la cooperación tecnológica en una amplia variedad de servicios existentes y potenciales.
 
 En términos generales, las discusiones se centraron en la difusión basada en la tecnología y las oportunidades de servicio al lector en el ámbito de las redes sociales (p. ej., Twitter, FaceBook, YouTube), videografía, publicación de texto electrónico y otros servicios de lectura basados ​​en la tecnología, todos los cuales se consideraron dentro del contexto global de un público muy diverso y multilingüe.
 
@@ -111,7 +117,7 @@ _Mo Siegel_ y _Barry Clark_, presidentes de la mesa redonda de TI
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/Angela_Thurston.jpg">
 </figure>
 
-**Angela Thurston** es una dramaturga y administradora de arte que vive en Brooklyn, Nueva York. Miembro fundador del Comité de Jóvenes y Adultos Jóvenes de la Fraternidad, se crió con las enseñanzas de _El Libro de Urantia_ y participa activamente en el fomento de la comunidad entre la próxima generación de lectores. Preside la Conferencia Internacional de la Fraternidad en 2014 y ha disfrutado de la planificación de una serie de conferencias regionales para lectores jóvenes como Presidenta de Eventos del Comité YaYA.
+**Angela Thurston** es una dramaturga y administradora de arte que vive en Brooklyn, Nueva York. Miembro fundador del Comité de Jóvenes y Adultos Jóvenes de la Fellowship, se crió con las enseñanzas de _El Libro de Urantia_ y participa activamente en el fomento de la comunidad entre la próxima generación de lectores. Preside la Conferencia Internacional de la Fellowship en 2014 y ha disfrutado de la planificación de una serie de conferencias regionales para lectores jóvenes como Presidenta de Eventos del Comité YaYA.
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/Dana_Bredemeyer.jpg">
@@ -123,7 +129,7 @@ _Mo Siegel_ y _Barry Clark_, presidentes de la mesa redonda de TI
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/Cayce_Snider.jpg">
 </figure>
 
-**Cayce Snider** es la presidenta de la Sociedad Urantia en Glenvew, Illinois. Ella espera ayudar a la Fraternidad a ser fértil, central y relevante en un mundo dominado por la tecnología. Cayce dice: «Para que esto suceda, la Fraternidad debe ser ágil, conectada e innovadora. Hay mucha voluntad e inspiración para lograr estos objetivos, y creo que mis habilidades y experiencia pueden ayudar a facilitar esta próxima fase del desarrollo de nuestra organización».
+**Cayce Snider** es la presidenta de la Sociedad Urantia en Glenvew, Illinois. Ella espera ayudar a la Fellowship a ser fértil, central y relevante en un mundo dominado por la tecnología. Cayce dice: «Para que esto suceda, la Fellowship debe ser ágil, conectada e innovadora. Hay mucha voluntad e inspiración para lograr estos objetivos, y creo que mis habilidades y experiencia pueden ayudar a facilitar esta próxima fase del desarrollo de nuestra organización».
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/Agustin_Arellano.jpg">
@@ -135,7 +141,7 @@ _Mo Siegel_ y _Barry Clark_, presidentes de la mesa redonda de TI
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/Paul_Klaver.jpg">
 </figure>
 
-El canadiense **Paul Klaver** descubrió _El Libro de Urantia_ a la edad de 21 años y estableció el grupo de estudio Kitchener-Waterloo en 2002. Actualmente es el presidente de la «Organización de Divulgación _El Libro de Urantia_», que espera que presente el libro a diez millones de personas en diez años. Está produciendo y publicitando cortos animados y publicitarios sobre la vida y las enseñanzas de Jesús. También combina citas atemporales del Libro de Urantia con imágenes intrigantes, todas las cuales se publican en la página de Facebook de TUBOO y reciben una atención considerable. Paul ha leído el libro al menos veinte veces y espera aprender y ayudar a la Comunidad a alcanzar sus metas durante su mandato de 9 años en el consejo.
+El canadiense **Paul Klaver** descubrió _El Libro de Urantia_ a la edad de 21 años y estableció el grupo de estudio Kitchener-Waterloo en 2002. Actualmente es el presidente de la «Organización de Divulgación _El Libro de Urantia_», que espera que presente el libro a diez millones de personas en diez años. Está produciendo y publicitando cortos animados y publicitarios sobre la vida y las enseñanzas de Jesús. También combina citas atemporales del Libro de Urantia con imágenes intrigantes, todas las cuales se publican en la página de Facebook de TUBOO y reciben una atención considerable. Paul ha leído el libro al menos veinte veces y espera aprender y ayudar a la Fellowship a alcanzar sus metas durante su mandato de 9 años en el consejo.
 
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/David_Kulieke.jpg">
@@ -147,17 +153,17 @@ El canadiense **Paul Klaver** descubrió _El Libro de Urantia_ a la edad de 21 a
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/Arlene_Weimer.jpg">
 </figure>
 
-**Arlene Weimer** nació en Brooklyn, Nueva York, de padres judíos que emigraron de Polonia. Estudió ciencias y filosofía en el Brooklyn College antes de descubrir _El Libro de Urantia_ hace cuarenta años. Es miembro fundador de la Sociedad Urantia de las Montañas Rocosas de Denver (actualmente la Fraternidad Espiritual de las Montañas Rocosas) y ha sido anfitriona de un grupo de estudio de Urantia en Pueblo, CO, desde 1975. A Arlene le gustaría ayudar a todos los lectores del Libro de Urantia a encontrar respeto mutuo y también para difundir la enseñanza de _El Libro de Urantia_. Ha acompañado con entusiasmo a su esposo Buck en muchos viajes internacionales a lugares como India y África para compartir la revelación.
+**Arlene Weimer** nació en Brooklyn, Nueva York, de padres judíos que emigraron de Polonia. Estudió ciencias y filosofía en el Brooklyn College antes de descubrir _El Libro de Urantia_ hace cuarenta años. Es miembro fundador de la Sociedad Urantia de las Montañas Rocosas de Denver (actualmente la Fellowship Espiritual de las Montañas Rocosas) y ha sido anfitriona de un grupo de estudio de Urantia en Pueblo, CO, desde 1975. A Arlene le gustaría ayudar a todos los lectores del Libro de Urantia a encontrar respeto mutuo y también para difundir la enseñanza de _El Libro de Urantia_. Ha acompañado con entusiasmo a su esposo Buck en muchos viajes internacionales a lugares como India y África para compartir la revelación.
 
 <figure id="Figure_10" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/Teuvo_Orjala.jpg">
 </figure>
 
-**Teuvo Orjala** tomó el libro por primera vez a la edad de 19 años. Dice: «Siento la necesidad de entregar mi vida a Dios. Ese camino está entrelazado con la Fellowship de _El Libro de Urantia_. Deseo servir plenamente en todas las formas posibles, lo que me lleva a participar a nivel del Consejo General. Teuvo espera “aportar un nuevo nivel de vigor y motivación a la Comunidad en su conjunto». Actualmente presta sus habilidades creativas y de gestión a URANTIA NOW, el sitio web de YaYA.
+**Teuvo Orjala** tomó el libro por primera vez a la edad de 19 años. Dice: «Siento la necesidad de entregar mi vida a Dios. Ese camino está entrelazado con la Fellowship de _El Libro de Urantia_. Deseo servir plenamente en todas las formas posibles, lo que me lleva a participar a nivel del Consejo General. Teuvo espera “aportar un nuevo nivel de vigor y motivación a la Fellowship en su conjunto». Actualmente presta sus habilidades creativas y de gestión a URANTIA NOW, el sitio web de YaYA.
 
 <figure id="Figure_11" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/005798.jpg">
-<figcaption><em>La Asamblea Trienal de Delegados de la Fraternidad se reúne en SSS 12 para elegir nuevos Consejeros Generales.</em></figcaption>
+<figcaption><em>La Asamblea Trienal de Delegados de la Fellowship se reúne en SSS 12 para elegir nuevos Consejeros Generales.</em></figcaption>
 </figure>
 
 
@@ -184,7 +190,7 @@ Por _Buck Weimer_
 
 Nuestra persistente presencia en la Feria Internacional del Libro de Seúl en Corea del Sur durante los últimos cuatro años está produciendo señales de una creciente comunidad del Libro de Urantia allí.
 
-La feria de este año se llevó a cabo del 20 al 24 de junio en el centro de convenciones COEX. Una vez más, Sy Chang fue la persona de contacto que coordinó el evento; y representando a la Fraternidad estábamos Tim Hobbs, Arlene Weimer y yo. Un mes antes de la feria le enviamos a Sy un caso (18) de Jesús, una nueva revelación en inglés porque la mayoría de los coreanos quieren aprender inglés. Tenía las tres copias de la traducción coreana claramente expuestas y un montón de Fundamentos del libro de Urantia de Mary Ebben a mano. Nuestros dedos se adaptaron rápidamente a rodar Vitaminas Espirituales.
+La feria de este año se llevó a cabo del 20 al 24 de junio en el centro de convenciones COEX. Una vez más, Sy Chang fue la persona de contacto que coordinó el evento; y representando a la Fellowship estábamos Tim Hobbs, Arlene Weimer y yo. Un mes antes de la feria le enviamos a Sy un caso (18) de Jesús, una nueva revelación en inglés porque la mayoría de los coreanos quieren aprender inglés. Tenía las tres copias de la traducción coreana claramente expuestas y un montón de Fundamentos del libro de Urantia de Mary Ebben a mano. Nuestros dedos se adaptaron rápidamente a rodar Vitaminas Espirituales.
 
 El segundo día, llegó Ji Soo Han y dijo en perfecto inglés: «No hay citas de _El Libro de Urantia_ expuestas». Después de una lluvia de ideas, se nos ocurrieron dos grandes ideas: «De todo el conocimiento humano, el que es de mayor valor...» y la morontia mota «La mayor aflicción del cosmos...» Ji Soo salió corriendo rápidamente y regresó en una hora con dos carteles bellamente impresos (negro sobre blanco) en coreano e inglés que contienen las dos citas. Y la gente que pasaba empezó a darse cuenta de las citas; muchos se detuvieron para hablar de ellos.
 
@@ -194,7 +200,7 @@ Debido a preocupaciones logísticas y financieras, decidimos tener una conferenc
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/005804.jpg">
 </figure>
 
-Durante las horas de la mañana, los estadounidenses hicimos una presentación en power point sobre varios temas sugeridos por Sy. Durante la tarde, todos los presentadores fueron coreanos, incluidos Sy, Byung Seo, Lee Whang y un joven ministro llamado CS Shin. Después de la presentación hubo un extenso período de preguntas y respuestas; muchos estaban dirigidos a nosotros, los estadounidenses, sobre los orígenes del libro y por qué comenzó en Estados Unidos, pero nada sobre la doctrina de la expiación. Asistieron unas veinticinco personas; algunos asistieron solo por la mañana y otros todo el día. Sy esperaba más, pero todos estuvieron de acuerdo en que fue una gran primera vez. Deseamos agradecer a toda la organización de la Fraternidad por esta maravillosa oportunidad de difundir la Revelación, cimentar amistades y construir comunidad en la parte del mundo donde tanto se necesita.
+Durante las horas de la mañana, los estadounidenses hicimos una presentación en power point sobre varios temas sugeridos por Sy. Durante la tarde, todos los presentadores fueron coreanos, incluidos Sy, Byung Seo, Lee Whang y un joven ministro llamado CS Shin. Después de la presentación hubo un extenso período de preguntas y respuestas; muchos estaban dirigidos a nosotros, los estadounidenses, sobre los orígenes del libro y por qué comenzó en Estados Unidos, pero nada sobre la doctrina de la expiación. Asistieron unas veinticinco personas; algunos asistieron solo por la mañana y otros todo el día. Sy esperaba más, pero todos estuvieron de acuerdo en que fue una gran primera vez. Deseamos agradecer a toda la organización de la Fellowship por esta maravillosa oportunidad de difundir la Revelación, cimentar amistades y construir comunidad en la parte del mundo donde tanto se necesita.
 
 <figure id="Figure_16" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2012_Winter/005805.jpg">
@@ -263,7 +269,7 @@ Este es el momento, cuando finaliza el año anterior y comienza el nuevo, en que
 El ritmo de nuestras actividades se ha incrementado de la siguiente manera:
 - El Comité de divulgación ha ampliado considerablemente sus actividades para incluir la participación de sus miembros con lectores de la comunidad local en ferias del libro, presentaciones y eventos sociales en los que se puede presentar una introducción a _El Libro de Urantia_ y sus enseñanzas. Los gastos incluyen subvenciones para esfuerzos comunitarios de divulgación y difusión.
 - Hemos agregado un comité permanente al Comité Ejecutivo, Jóvenes y Adultos Jóvenes (YaYA), y estamos buscando activamente y alentando a los lectores jóvenes a participar en las numerosas actividades programadas del comité.
-- Los miembros del Comité Internacional de Fellowships continúan ampliando la comunicación con los lectores en el extranjero facilitando el envío de libros, asistiendo a conferencias y ferias del libro en otros países y manteniendo contacto con líderes extranjeros en las actividades de Urantia.
+- Los miembros del Comité Internacional de la Fellowship continúan ampliando la comunicación con los lectores en el extranjero facilitando el envío de libros, asistiendo a conferencias y ferias del libro en otros países y manteniendo contacto con líderes extranjeros en las actividades de Urantia.
 - Seguimos mejorando nuestro sitio web, www.urantiabook.org, que pronto tendrá una nueva apariencia y muchas funciones actualizadas. Recibe millones de visitantes únicos cada año. Puede descargar el libro en varios idiomas diferentes desde este sitio; y puede descargar y escuchar cualquier artículo o el libro completo en audio desde el sitio web.
 - Tenemos un Comité Interreligioso dedicado que ha presentado el libro a los ministros, lo colocó en cientos de bibliotecas religiosas en todo el mundo. y lo presentó en cada uno de los últimos cuatro Parlamentos de las Religiones del Mundo.
 - Nuestro Comité de Publicaciones proporciona periódicamente el boletín Mighty Messenger y nuestra revista, la Fellowship Herald, a lectores nacionales y de 89 países como medio para mantenerse en contacto con lectores de _El Libro de Urantia_ de todo el mundo.
@@ -272,7 +278,7 @@ El ritmo de nuestras actividades se ha incrementado de la siguiente manera:
 
 La lista continua. Lo más importante es que estos servicios para nuestro planeta están disponibles a través de su apoyo. Hay miles de millones de personas en este planeta y solo miles de lectores dedicados. La Fellowship de _El Libro de Urantia_ utilizará su donación sabiamente y con el propósito de difundir esta revelación trascendental en el mundo.
 
-Para hacer una donación en línea, vaya al sitio web de la Fraternidad, www.urantiabook.org, y haga clic en el enlace Contribución. Puede seleccionar una cantidad para que se debite automáticamente cada mes o una donación única a la Comunidad. Si prefiere donar por correo, envíe su contribución a: la Fellowship de _El Libro de Urantia_, PO Box 6631, Broomfield, CO. 80021 USA. Y Gracias Por tu apoyo.
+Para hacer una donación en línea, vaya al sitio web de la Fellowship, www.urantiabook.org, y haga clic en el enlace Contribución. Puede seleccionar una cantidad para que se debite automáticamente cada mes o una donación única a la Fellowship. Si prefiere donar por correo, envíe su contribución a: la Fellowship de _El Libro de Urantia_, PO Box 6631, Broomfield, CO. 80021 USA. Y Gracias Por tu apoyo.
 
 ## Próximos Eventos…
 
@@ -288,7 +294,7 @@ Tenemos varios puestos disponibles para voluntarios. Dependiendo de cuál elija,
 
 **GC para llenar la vacante**
 
-Un puesto vacante ha quedado disponible en el Consejo General de la Fraternidad. Los solicitantes deben haber leído todo el Libro de Urantia para calificar. Si está interesado en presentar una solicitud para ser considerado para este puesto, póngase en contacto con la Oficina de Fellowships en fellowship@urantia.org o llame al 877-288-3772.
+Un puesto vacante ha quedado disponible en el Consejo General de la Fellowship. Los solicitantes deben haber leído todo el Libro de Urantia para calificar. Si está interesado en presentar una solicitud para ser considerado para este puesto, póngase en contacto con la Oficina de la Fellowship en fellowship@urantia.org o llame al 877-288-3772.
 
 ## Equipo del Mighty Messenger
 
@@ -309,6 +315,9 @@ www.urantiabook.org
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2012_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2012</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-2012">
@@ -316,6 +325,9 @@ www.urantiabook.org
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2013_Spring">
+          <span class="pr-2">Edición de primavera de 2013</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

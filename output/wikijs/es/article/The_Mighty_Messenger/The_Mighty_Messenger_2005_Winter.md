@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2005_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2005</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-2005">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2006_Spring">
+          <span class="pr-2">Edición de primavera de 2006</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -30,11 +36,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Consejo General se reunirá en Dallas
 
-Dallas será la sede de la reunión de mitad de año del Consejo General de la Fraternidad del 27 al 29 de enero de 2006. La reunión del Consejo comenzará a las 7:00 p. m. del viernes 27 de enero y continuará durante todo el día del sábado 28 en el Courtyard by Marriott , Aeropuerto DFW Sur, Irving, TX.
+Dallas será la sede de la reunión de mitad de año del Consejo General de la Fellowship del 27 al 29 de enero de 2006. La reunión del Consejo comenzará a las 7:00 p. m. del viernes 27 de enero y continuará durante todo el día del sábado 28 en el Courtyard by Marriott , Aeropuerto DFW Sur, Irving, TX.
 
 Los Concejales esperan compartir con los lectores de Texas en una reunión social el sábado por la noche. Esta oportunidad de visitar viejos amigos y hacer nuevos es siempre lo más destacado de las reuniones de tres años. También se invita a los lectores de _El Libro de Urantia_ a observar la reunión del Consejo y familiarizarse con sus funciones y propósitos.
 
-Para obtener más información, póngase en contacto con la Comunidad en fellowship@urantiabonk.org o llame al 1-877-288-3772.
+Para obtener más información, póngase en contacto con la Fellowship en fellowship@urantiabonk.org o llame al 1-877-288-3772.
 
 ## Es hora de comenzar los preparativos de TDA
 
@@ -44,7 +50,7 @@ Dentro de los próximos siete meses, cada sociedad debería estar haciendo plane
 
 La Asamblea Trienal de Delegados y Suplentes de la Sociedad de la Fellowship de _El Libro de Urantia_ está programada para justo antes de la próxima sesión de estudio de verano (SSS06). La TDA seguida por la Sesión de Estudio de Verano, que a su vez será seguida por la reunión del Consejo General. Esta es una reunión trienal del Consejo y el Consejo recién constituido elegirá cinco nuevos funcionarios para servir términos de tres años y muy probablemente varios nuevos presidentes de comité, dependiendo de otras elecciones.
 
-Para obtener información o aclaraciones, póngase en contacto con la oficina de la Fraternidad en fellowship@urantiabook.org.
+Para obtener información o aclaraciones, póngase en contacto con la oficina de la Fellowship en fellowship@urantiabook.org.
 
 ## Reunión del Consejo General del 5 de agosto '05
 
@@ -52,7 +58,7 @@ La reunión anual del Consejo General de la Fellowship de _El Libro de Urantia_ 
 
 Se cubrieron varias vacantes del comité permanente. Dale Sztjenberg fue elegido por un período de 6 años como miembro; Bob Buselli a un término de 6 años en Judicial; Chick Montgomery a un término de 6 años en Proyectos Especiales; Buck a un término de 6 años en International Fellowship; Bobbie Dreier a un término de 6 años en Outreach; Charlene Morrow a un término de 6 años en Interfaith; Peter Laurence a un puesto vacante en Interfaith; Laura Hay a un término de 6 años en Publicaciones. Quedan vacantes en los comités de Finanzas y Educación.
 
-El vicepresidente, Marvin Gawryn, informó sobre sus esfuerzos para interesar a la IUA en la celebración de una conferencia internacional conjunta con la Fellowship en el verano de 2008. La respuesta final a estos esfuerzos llegó en una carta de julio del presidente de la IUA, Gaetan Charland, al Sr. Gawryn, indicando que, por varias razones, la IUA no puede considerar una conferencia conjunta con la Fellowship en este momento. Siguió una discusión extensa sobre la relación de Fellowship IUA, la mayoría de los Consejeros expresaron la esperanza de que, con el tiempo, las voces más moderadas sobre la IUA prevalecerán y los proyectos conjuntos entre las dos organizaciones serán posibles.
+El vicepresidente, Marvin Gawryn, informó sobre sus esfuerzos para interesar a la IUA en la celebración de una conferencia internacional conjunta con la Fellowship en el verano de 2008. La respuesta final a estos esfuerzos llegó en una carta de julio del presidente de la IUA, Gaetan Charland, al Sr. Gawryn, indicando que, por varias razones, la IUA no puede considerar una conferencia conjunta con la Fellowship en este momento. Siguió una discusión extensa sobre la relación de la Fellowship IUA, la mayoría de los Consejeros expresaron la esperanza de que, con el tiempo, las voces más moderadas sobre la IUA prevalecerán y los proyectos conjuntos entre las dos organizaciones serán posibles.
 
 El tesorero, John Elay, informó sobre el nuevo logotipo de la Fellowship, que fue votado por más del 25% de los miembros. El Consejero General, Lenny Cowles, presidirá un comité ad hoc para determinar el uso del logotipo.
 
@@ -64,7 +70,7 @@ El presidente, Avi Dogitn, describió el esfuerzo de administración del sitio w
 
 El secretario, Steve Dreier, informó sobre el trabajo del proceso de tecnología de la información para identificar las necesidades de recopilación y procesamiento de información de la Fellowship.
 
-El presidente del Comité Judicial, John Lange, distribuyó un documento con una lista de siete ideas preliminares para actualizar la Constitución de la Fraternidad y pidió comentarios y sugerencias a los Consejeros Generales dentro de dos meses.
+El presidente del Comité Judicial, John Lange, distribuyó un documento con una lista de siete ideas preliminares para actualizar la Constitución de la Fellowship y pidió comentarios y sugerencias a los Consejeros Generales dentro de dos meses.
 
 El presidente del Comité de Membresía, Bob Bruyn, sugirió un plan para mover las sociedades inactivas a un estado inactivo mientras se mueve a los miembros de dichas sociedades al estado de Miembro en general (MAL) hasta que la sociedad vuelva a estar activa. Esto requerirá la aprobación de la sociedad, así como una enmienda constitucional.
 
@@ -72,7 +78,7 @@ El presidente del Comité de Finanzas, Robert Burns, informó que la mayor parte
 
 Susan Cook, presidenta del Comité Interreligioso, informó que su comité está desarrollando una encuesta para determinar el grado de interés en el trabajo interreligioso. Ella y Peter Laurence están desarrollando un curso basado en la web para un taller interreligioso. El comité participa en una reunión interreligiosa en Las Vegas en la que se alienta a los jóvenes a participar.
 
-El presidente del Comité Internacional de Fellowships, David Kantor, informó que hay mucha actividad de grupos de estudio en México y América Central, en gran parte debido a los esfuerzos de Agustine Arellano y Nelida Oliver. Consejero General, informó que ahora hay más de 60 grupos activos en México bajo la bandera de Orvonton, un grupo educativo sin fines de lucro registrado en México. Hay 36 grupos en Centroamérica. Estos grupos, así como otros grupos en América Latina, tienen una gran necesidad de libros. El costo de un _Libro de Urantia_ en Argentina, por ejemplo, puede ser de $76. Siguió una amplia discusión sobre cómo estimular el interés por _El Libro de Urantia_ en todo el mundo. La consejera general, Michelle Klimesh, que había coordinado el Proyecto Pipeline of Light, que suministró libros a grupos necesitados, propuso retirar el proyecto a la Fellowship.
+El presidente del Comité Internacional de la Fellowship, David Kantor, informó que hay mucha actividad de grupos de estudio en México y América Central, en gran parte debido a los esfuerzos de Agustine Arellano y Nelida Oliver. Consejero General, informó que ahora hay más de 60 grupos activos en México bajo la bandera de Orvonton, un grupo educativo sin fines de lucro registrado en México. Hay 36 grupos en Centroamérica. Estos grupos, así como otros grupos en América Latina, tienen una gran necesidad de libros. El costo de un _Libro de Urantia_ en Argentina, por ejemplo, puede ser de $76. Siguió una amplia discusión sobre cómo estimular el interés por _El Libro de Urantia_ en todo el mundo. La consejera general, Michelle Klimesh, que había coordinado el Proyecto Pipeline of Light, que suministró libros a grupos necesitados, propuso retirar el proyecto a la Fellowship.
 
 Sobre otros esfuerzos de difusión, Mary Jo Grascia del Comité de Extensión describió el desarrollo del proyecto de la oficina de oradores. El Consejero General, Thomas Orjala, informó sobre el proyecto Café Cósmico, un esfuerzo experimental que atrae a 10-20 personas para una tarde de discusión.
 
@@ -89,7 +95,7 @@ Aquí en los Estados Unidos, donde la mayoría de nosotros podemos comprar libro
 El proyecto Pipeline of Light proporciona un flujo de libros donados en todos los idiomas disponibles a áreas donde los lectores solo pueden soñar con tener una copia personal de la revelación. El año pasado, los libros de Pipeline se enviaron a Polonia, Lituania, Rusia, Ucrania, India, Nigeria, Senegal, México, Costa Rica, Pakistán, Palestina y en toda América del Sur. Agustín Arellano Tirado (que ha distribuido 4500 _Libros de Urantia_ en los últimos cinco años, a menudo utilizando sus propios fondos) tiene planeados viajes de plantación de libros por toda América Latina durante los próximos diez meses. Solo en este continente, Agustín tiene la intención de cumplir con casi 500 pedidos de libros este año.
 
 ¡Por favor ayudenos! Destine sus donaciones de cualquier cantidad al Proyecto Pipeline of Light en:
-_El Libro de Urantia_ Fraternidad
+_El Libro de Urantia_ Fellowship
 PO 20, apartado 4583
 gran Estacion Central
 Nueva York, NY 10163
@@ -102,7 +108,7 @@ Nueva York, NY 10163
 
 La presencia de la revelación de Urantia se sintió con fuerza en la reunión conjunta de la Iniciativa de Religiones Unidas y la Red Interreligiosa de América del Norte celebrada en la Universidad de Nevada, Las Vegas, del 14 al 16 de agosto de este verano, debido al trabajo de varios dedicados al Libro de Urantia. lectores La comunidad de Urantia organizó un banquete para la reunión de tentadores y también creó espacios sagrados en los que celebrar diferentes tradiciones religiosas. Sirviendo activamente en estas actividades estuvieron, en la última fila, de izquierda a derecha, Amee Majors, Charlene Morrow, Tamara Wood, Share Beasley, Susan Cook, Judy Langston y Gard Jameson. Primera fila, de izquierda a derecha, Bill Beasley y Marvin Gawryn.
 
-> Los objetivos en lugar de los credos deberían unificar a los religiosos. [[LU 99:5.7](/es/The_Urantia_Book/99#p5_7)]
+> Son las metas, en lugar de los credos, las que deberían unir a las personas religiosas. [[LU 99:5.7](/es/The_Urantia_Book/99#p5_7)]
 
 ## Celebraciones del cumpleaños de Jesús
 
@@ -148,7 +154,7 @@ _El Libro de Urantia_ nos da a todos la luz para comprender mejor nuestros oríg
 
 Nuestro trabajo para esta revelación en realidad acerca a nuestro planeta a la luz y la vida. Sea una parte activa sirviendo, amando, cuidando y haciendo.
 
-Entonces, una vez más, desde el fondo de mi corazón, así como de los innumerables otros cuyas vidas se verán afectadas ahora y en el futuro de nuestro planeta, GRACIAS por todo su apoyo y trabajo. Por favor considere una generosa donación a la Fraternidad. Mejor aún, haga un débito automático mensual de $20 o más y le enviaremos la edición encuadernada en cuero de _El Libro de Urantia_ como muestra de agradecimiento. (http://urantiabook.org/support.htm)
+Entonces, una vez más, desde el fondo de mi corazón, así como de los innumerables otros cuyas vidas se verán afectadas ahora y en el futuro de nuestro planeta, GRACIAS por todo su apoyo y trabajo. Por favor considere una generosa donación a la Fellowship. Mejor aún, haga un débito automático mensual de $20 o más y le enviaremos la edición encuadernada en cuero de _El Libro de Urantia_ como muestra de agradecimiento. (http://urantiabook.org/support.htm)
 
 ## ¡Feliz cumpleaños Meredith!
 
@@ -166,7 +172,7 @@ Si conoce o tiene un grupo de estudio que le gustaría que se incluyera en el di
 
 Fotos IC'05 en el sitio web
 
-Las fotografías tomadas por varios de los asistentes al IC'05 están ahora en el sitio web de la Fraternidad, http://urantiabook.org/conferences/ic05/Photos/index.htm junto con los retratos tomados por un fotógrafo profesional en la cena de gala. Próximamente estará disponible un disco con los retratos. Para solicitar una copia del disco, comuníquese con la Fellowship sin cargo al 1-877-288-3772; correo electrónico: fellowship@urantiabook.org o en línea en: http://urantiabook.org/conferences/ic05/Photos/OrderForm.jpg. Se sugiere una donación de $10 para ayudar a cubrir los costos.
+Las fotografías tomadas por varios de los asistentes al IC'05 están ahora en el sitio web de la Fellowship, http://urantiabook.org/conferences/ic05/Photos/index.htm junto con los retratos tomados por un fotógrafo profesional en la cena de gala. Próximamente estará disponible un disco con los retratos. Para solicitar una copia del disco, comuníquese con la Fellowship sin cargo al 1-877-288-3772; correo electrónico: fellowship@urantiabook.org o en línea en: http://urantiabook.org/conferences/ic05/Photos/OrderForm.jpg. Se sugiere una donación de $10 para ayudar a cubrir los costos.
 
 ## Solicite su propia impresión de retrato de IC '05 Gala
 
@@ -213,7 +219,7 @@ _«¡Esto es lo más cerca que he estado del cielo!»_
 
 ## Próximos Eventos
 
-- 27 al 29 de enero de 2006 - El Consejo General se reunirá en Dallas, Texas, en el Courtyard by Marriott, en Irving. El sábado 28 de enero por la tarde tendrá lugar una reunión social para lectores locales. Para obtener más información, póngase en contacto con la Fraternidad en fellowship@urantiabook.org o llame al 1-877-288-3772.
+- 27 al 29 de enero de 2006 - El Consejo General se reunirá en Dallas, Texas, en el Courtyard by Marriott, en Irving. El sábado 28 de enero por la tarde tendrá lugar una reunión social para lectores locales. Para obtener más información, póngase en contacto con la Fellowship en fellowship@urantiabook.org o llame al 1-877-288-3772.
 - 14-18 de julio de 2006 - Conferencia Internacional IUA en Sydney, Ausatralia. Tema: «Las Recompensas del Aislamiento». Hay más información disponible en www.urantia.org.au/anzura/iuaconference2006.
 - 4 al 21 de agosto de 2006 - Varios retiros en Silver Springs, Ontario. Para obtener información, comuníquese con ellos en www.ubretreats.ca o llame sin cargo al 1-800-546-5601.
 
@@ -229,6 +235,9 @@ _«¡Esto es lo más cerca que he estado del cielo!»_
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2005_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2005</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-2005">
@@ -236,6 +245,9 @@ _«¡Esto es lo más cerca que he estado del cielo!»_
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2006_Spring">
+          <span class="pr-2">Edición de primavera de 2006</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

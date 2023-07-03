@@ -37,9 +37,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 by _Josephe DeCosmo_, Boynton Beach, FL
 
-In the opening paragraphs of the Urantia papers, we are told that English was chosen by the Orvonton Revelatory Commission as the language-vehicle for the fifth epochal revelation: “Our mandate admonishes us to make every effort to convey our meanings by using the word symbols of the English tongue” (F:0.1).
+In the opening paragraphs of the Urantia papers, we are told that English was chosen by the Orvonton Revelatory Commission as the language-vehicle for the fifth epochal revelation: “Our mandate admonishes us to make every effort to convey our meanings by using the word symbols of the English tongue” ([UB 0:0.2](/en/The_Urantia_Book/0#p0_2)).
 
-In the paper “Spheres of Light and Life,” it is said: “No evolutionary world can hope to progress beyond the first stage of settledness in light until it has achieved one language, one religion, and one philosophy” (55:3.15).
+In the paper “Spheres of Light and Life,” it is said: “No evolutionary world can hope to progress beyond the first stage of settledness in light until it has achieved one language, one religion, and one philosophy” ([UB 53:3.15](/en/The_Urantia_Book/53#p3_15)).
 
 Taken together, these two statements strongly suggest that English may well be the “one language” which will unify the world and allow Urantia to progress to and through the ages of light and life. Already English is the international language of commerce and air and sea travel.
 
@@ -73,7 +73,7 @@ Heart of America Society, chartered as a Fellowship (Brotherhood) society on Mar
 
 Readers Day, a gathering of New York area readers, some affiliated with the Fellowship, some with IUA and some unaffiliated, will be held on Sunday, May 3, in the Soldiers and Sailors Club at 283 Lexington Avenue, Manhattan, NY. For more information call John Lambo at (203) 426-9176.
 
-SPIRIT QUEST 2000 Hold the Dates, August 5-12, 1999
+SPIRIT QUEST 2000. Hold the Dates, August 5-12, 1999
 
 Mark your calendar for a wonderful week in Vancouver, British Columbia with students of _The Urantia Book_.
 
@@ -93,7 +93,7 @@ Upcoming Urantia Book Exhibits (Expos)
 
 ## World Outreach for Urantia Nations
 
-Indefatigable Normal Ingram traveled with companions Pradhana (Alejandro) Fuchs of Santiago, Chile and Ernesto Maciel Ruiz of Leone, Mexico through Mexico and Latin America in an RV, presenting _The Urantia Book_ to over 38 municipal and national libraries, 20 plus universities and 14 prisons. In all, 184 books were delivered over several months beginning in August of 1996. In Santiago, Chile, they met Eduardo Gulfenbein, an artist whose paintings, sculpture and video animations, says Norman, “reflect the epochal revelations portrayed in _The Urantia Book_.”
+Indefatigable Norman Ingram traveled with companions Pradhana (Alejandro) Fuchs of Santiago, Chile and Ernesto Maciel Ruiz of Leone, Mexico through Mexico and Latin America in an RV, presenting _The Urantia Book_ to over 38 municipal and national libraries, 20 plus universities and 14 prisons. In all, 184 books were delivered over several months beginning in August of 1996. In Santiago, Chile, they met Eduardo Gulfenbein, an artist whose paintings, sculpture and video animations, says Norman, “reflect the epochal revelations portrayed in _The Urantia Book_.”
 
 In November 1997 Norman embarked with Dan Roark on a four-week tour of Asia, where they say “thanks to the Fellowship we delivered 120 books to 11 libraries and to at least as many universities.” They also thank the Foundation for mailing over 20 hard-cover books to similar Asian institutions. Recently, Norman received a letter from author Arthur C. Clarke thanking him and his friends for _The Urantia Book_ they gave him while visiting him in Sri Lanka. Clarke, who recently celebrated his 80th birthday, resides in that country.
 
@@ -143,7 +143,10 @@ PLEASE...
 
 Provide current study group information, including:
 
-Name of group and host or hostess name Address: PO box or street, city, state, zip, country Area code, phone number and e-mail if applicable Day and time of meeting.
+Name of group and host or hostess name 
+Address: PO box or street, city, state, zip, country 
+Area code, phone number and e-mail if applicable 
+Day and time of meeting.
 
 If you know of a group, are involved in a group or want to start a group, please provide us with the above requested information or ask the group host/hostess to provide us with the information.
 
@@ -165,9 +168,9 @@ It is this naivety that I wish to focus on, because I think there is something o
 
 I see this dynamic being played out everywhere; weak liberals cannot hold a candle to strong conservatives. In Protestant circles, liberals spend their time whining about conservatives, while conservatives are going out and saving souls. It is the Promise Keepers who have made changes in thousands of men's lives. It is they who are proclaiming: “be a man of the Kingdom; claim your sonship” (heard on “The Father File” radio program). Where is there any liberal who utters a stirring message like that today? Where is today's Harry Emerson Fosdick?
 
-“Religion reaches out for...superhuman values... infinite values” (160:5.5). Evangelicals, Catholics, and Orthodox who are serious about their beliefs do have a focus of superhuman values, although they tend to rely on the “theology of authority” (155:5.11). We liberals too easily lose our focus; we have plenty of values, but do we dare to call them superhuman? Oh, we're much too nice to make assertions about transcendent reality! We wouldn't want to make a scene!
+“Religion reaches out for...superhuman values... infinite values” ([UB 160:5.5](/en/The_Urantia_Book/160#p5_5)). Evangelicals, Catholics, and Orthodox who are serious about their beliefs do have a focus of superhuman values, although they tend to rely on the “theology of authority” ([UB 155:5.11](/en/The_Urantia_Book/155#p5_11)). We liberals too easily lose our focus; we have plenty of values, but do we dare to call them superhuman? Oh, we're much too nice to make assertions about transcendent reality! We wouldn't want to make a scene!
 
-The degree to which we are unable to affirm eternal and transcendent values reflects the degree to which these values are not operative in our lives (or to which their operation is blocked by that desire to be pleasing to others). Believers who have operative transcendent values can fulfill “the purpose of group religious activities to...foster the attractions of supreme values” (99:6.2).
+The degree to which we are unable to affirm eternal and transcendent values reflects the degree to which these values are not operative in our lives (or to which their operation is blocked by that desire to be pleasing to others). Believers who have operative transcendent values can fulfill “the purpose of group religious activities to...foster the attractions of supreme values” ([UB 99:6.2](/en/The_Urantia_Book/99#p6_2)).
 
 Here is what we need to realize: Since we do not rely on external authority to give us focus, we liberals must have a value-focus alive in our characters, in our experience, every day. The more we exalt freedom, the greater the demand this places on our moral character and our spiritual sensitivity. Often we fail the test. We despair of the unenlightened world. We become ineffective ambassadors, forlorn and vulnerable.
 

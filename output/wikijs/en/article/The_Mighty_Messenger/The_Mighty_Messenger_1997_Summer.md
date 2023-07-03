@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Summer 1997 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, Angels and midwayers, LGBT, Mighty Messenger, article
+tags: Angels and midwayers, Urantia Movement Event, Fellowship, LGBT, Interfaith, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -32,9 +32,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## First Society Entertains Angels  
 
-The Apostle Paul instructed the Hebrews: “Do not neglect to show hospitality to strangers, for thereby some have entertained angels unawares.”
+The Apostle Paul instructed the Hebrews: “Do not neglect to show hospitality to strangers, for thereby some have entertained angels unawares.” ([Hebrews 13:2](/en/Bible/Hebrews/13#v2))
 
-The First Society entertained angels at their annual miniconference Sunday, April 20, 1997. Northwestern University's elegant Harris Hall, Evanston, IL, was the site of a gathering of an unknown number of seraphim and of nearly 30 human Urantia Book students. Readers from several Chicago area study groups and from downstate Illinois and Wisconsin attended. The angels hailed from Salvington and beyond.
+The First Society entertained angels at their annual miniconference Sunday, April 20, 1997. Northwestern University's elegant Harris Hall, Evanston, IL, was the site of a gathering of an unknown number of seraphim and of nearly 30 human _Urantia Book_ students. Readers from several Chicago area study groups and from downstate Illinois and Wisconsin attended. The angels hailed from Salvington and beyond.
 
 Theologians no longer debate how many angels can dance on the head of a pin; for nearly 200 years, since the Enlightenment, they haven't debated about angels at all. With a nod to New Age religions, and acknowledgments to authors Billy Graham, Mortimer Adler, and recent researchers for reviving interest in angels, conference leaders reviewed the history of belief in angels throughout ancient and modern times. The Zoroastrians, Mesopotamians, Greeks and Vikings all had traditions of angels. Muhammad, Joseph Smith (of Mormon fame) and Swedenborg claimed angelic contacts. Martin Luther, John Calvin, Mary Baker Eddy (Christian Science), and all modern popes paid tribute to seraphic ministry. Poets Dante, Shakespeare, and Milton wove angel themes into their epic works.
 
@@ -46,7 +46,7 @@ Carolyn Kendall coordinated the presentation and Marilynn Kulieke arranged the r
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/1997_Summer/005960.jpg">
-<figcaption>On May 18th. the Korean Outreach group became a Fellowship Associate. Mr. Lee (left) and Serge Bisson (third from left) accept their Certificate of Affiliation from Kay Clark of the Society of Greater NY and John Lange, Chair, International Fellowship Committee.</figcaption>
+<figcaption>On May 18th, the Korean Outreach group became a Fellowship Associate. Mr. Lee (left) and Serge Bisson (third from left) accept their Certificate of Affiliation from Kay Clark of the Society of Greater NY and John Lange, Chair, International Fellowship Committee.</figcaption>
 </figure>
 
 ## Readers enjoy '97 Summer Seminar in The Great Northwest 
@@ -67,7 +67,7 @@ On June 10, 1997 the Ninth District Appeals Court reversed a lower court ruling 
 
 ## Gay & Lesbian Urantia Book Readers Association now forming
 
-Readers from the gay and lesbian community are invited to join The Gay and Lesbian Urantia Book Readers Association (GLUBRA), announced Nick Curto, a member of the New York City study group and member of the Society of Greater New York. “It's important that my gay and lesbian brothers and sisters who are readers of _The Urantia Book_ know each other and share our unique perspectives with each other,” Nick stated. “I want to develop a newsletter, with the help of volunteers, containing articles, poetry, news, music, etc., so that we can all share the beauty of the fifth revelation from our point of view,” he continued. Besides new members, the group's wish list includes: writers, artists, designers, web site designers, photographers, poets, musicians, reporters, and funding.
+Readers from the gay and lesbian community are invited to join The Gay and Lesbian _Urantia Book_ Readers Association (GLUBRA), announced Nick Curto, a member of the New York City study group and member of the Society of Greater New York. “It's important that my gay and lesbian brothers and sisters who are readers of _The Urantia Book_ know each other and share our unique perspectives with each other,” Nick stated. “I want to develop a newsletter, with the help of volunteers, containing articles, poetry, news, music, etc., so that we can all share the beauty of the fifth revelation from our point of view,” he continued. Besides new members, the group's wish list includes: writers, artists, designers, web site designers, photographers, poets, musicians, reporters, and funding.
 
 If you are interested in more information, please write to Nick Curto, PO Box 387, New York, NY 10028, or fax: 212-289-1741.
 

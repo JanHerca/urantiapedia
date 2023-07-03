@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2016_Fall">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de otoño de 2016</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2017">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2017_Fall">
+          <span class="pr-2">Edición de otoño de 2017</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -34,11 +40,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <img src="/image/article/The_Mighty_Messenger/2017_Spring/005908.jpg">
 </figure>
 
-Como estudiantes de _El Libro de Urantia_, hemos llegado a reconocer que el arte de trabajar con los demás tiene un efecto tremendo. Aunque esta conferencia internacional sigue siendo responsabilidad de la Fraternidad, nuestra ayuda proviene del amoroso apoyo de muchos voluntarios, donantes y presentadores que son miembros de otros grupos de Urantia, grupos interreligiosos y empresas dedicadas a actualizar valores superiores en el lugar de trabajo. Estamos sumamente agradecidos de compartir en simples actos de generosidad y bondad.
+Como estudiantes de _El Libro de Urantia_, hemos llegado a reconocer que el arte de trabajar con los demás tiene un efecto tremendo. Aunque esta conferencia internacional sigue siendo responsabilidad de la Fellowship, nuestra ayuda proviene del amoroso apoyo de muchos voluntarios, donantes y presentadores que son miembros de otros grupos de Urantia, grupos interreligiosos y empresas dedicadas a actualizar valores superiores en el lugar de trabajo. Estamos sumamente agradecidos de compartir en simples actos de generosidad y bondad.
 
-Este es un agradecimiento si ya nos ha ayudado a financiar la reunión IC17. Si no, por favor considere donar. Su dinero puede ayudar a atraer a estudiantes internacionales y jóvenes de _El Libro de Urantia_ a la conferencia, apoyando a los músicos y mejorando las actividades de esta conferencia en Denver. Aquí están los enlaces: Donaciones del programa IC'17 y Donaciones de Fellowships IC'17.
+Este es un agradecimiento si ya nos ha ayudado a financiar la reunión IC17. Si no, por favor considere donar. Su dinero puede ayudar a atraer a estudiantes internacionales y jóvenes de _El Libro de Urantia_ a la conferencia, apoyando a los músicos y mejorando las actividades de esta conferencia en Denver. Aquí están los enlaces: Donaciones del programa IC'17 y Donaciones de la Fellowship IC'17.
 
-Si aún no se ha registrado para la conferencia y desea un formulario de registro en papel, comuníquese con la oficina de Fellowships al 877-288-3772.
+Si aún no se ha registrado para la conferencia y desea un formulario de registro en papel, comuníquese con la oficina de la Fellowship al 877-288-3772.
 
 Para obtener más información sobre la conferencia, visite: www.IC17.org.
 
@@ -66,7 +72,7 @@ El costo del registro como Truthseeker cubre exactamente el costo que IC'17 est�
 -
 Las Fellowships Truthseeker están disponibles con el pago de la inscripción de los padres. Ponte en contacto con la oficina para obtener más información.
 
-> «Los niños están permanentemente impresionados solo por la lealtad de sus asociados adultos.» [[LU 100:1.4](/es/The_Urantia_Book/100#p1_4)]
+> «A los niños sólo les impresiona de manera permanente la lealtad de sus compañeros adultos.» [[LU 100:1.4](/es/The_Urantia_Book/100#p1_4)]
 
 ## Invitación a participar en el IC' 17
 
@@ -81,7 +87,7 @@ Nuestra tienda de conferencias es una manera maravillosa de vender y mostrar sus
 2. Envíe su solicitud a: la Fellowship de _El Libro de Urantia_, PO Box 6631, Broomfield, CO 80021. O envíe un correo electrónico a support@urantiabook.org. Incluya un correo electrónico actual, una dirección postal y un número de teléfono diurno en la solicitud de su tienda y fírmela para indicar que está de acuerdo con los términos.
   Nota: Solo son elegibles los productos que no se ofrecen actualmente en el catálogo de Uversa Press. Si sus productos aparecen en el catálogo, traeremos y ofreceremos sus productos en la Tienda IC'14.
 3. Como proveedor, recibirá un código de proveedor. Cada artículo que traiga a la venta debe tener una etiqueta adhesiva removible, que incluya el precio del artículo y el código del vendedor. Cada producto diferente que ofrezca necesitará un precio diferente (aunque sea leve) si desea realizar un seguimiento de las ventas de su inventario. Este es el mismo sistema que usamos en las últimas 8 tiendas IC y funcionó muy bien para todos. Por ejemplo: si su código de proveedor asignado es 123 y desea ofrecer camisetas, libros y carteles, puede ponerles un precio de $ 9.95, $ 10.00 y $ 9.99. Esto nos permite la facilidad de procesar ventas sin una descripción y también permite a los proveedores saber exactamente qué se vendió porque el precio también sirve como código de producto.
-4. Cada proveedor es responsable de su propio inventario, incluido el envío o traslado al sitio de la conferencia, el precio, la instalación antes de la apertura y el empaque de las sobras cuando termine la conferencia. Cada vendedor tendrá un espacio adecuado e igual para exhibir sus productos. Se hará todo lo posible para garantizar que no se produzcan mermas; sin embargo, la Fraternidad no puede ser responsable por el robo.
+4. Cada proveedor es responsable de su propio inventario, incluido el envío o traslado al sitio de la conferencia, el precio, la instalación antes de la apertura y el empaque de las sobras cuando termine la conferencia. Cada vendedor tendrá un espacio adecuado e igual para exhibir sus productos. Se hará todo lo posible para garantizar que no se produzcan mermas; sin embargo, la Fellowship no puede ser responsable por el robo.
   Nota: Toda la contabilidad de las ventas se realizará dentro de los 30 días posteriores a la conferencia y los pagos se distribuirán en ese momento. No se pagará a los proveedores en el lugar de la conferencia. Una comisión del 25% sobre todas las ventas se destinará a la Fellowship de _El Libro de Urantia_.
 5. El horario de la Tienda IC'14 será de 11:00 am a 7:00 pm todos los días de la conferencia. Todos los que ofrecen productos a la venta en la tienda de la conferencia deben trabajar al menos un turno de 3 horas. Haremos un horario después de la fecha límite del 31 de mayo para notificarle su turno. Si tiene otros compromisos de conferencias que le impiden trabajar en la tienda, o en determinados momentos, indíquelo en la solicitud de su tienda. Haremos todo lo posible para acomodar a todos. Habrá un gerente de tienda capacitado en la tienda en todo momento.
 6. La galería de arte estará conectada a la tienda para facilitar a los asistentes la compra de arte que esté a la venta. Las ventas de arte se manejarán de la misma manera que las ventas de productos, excepto que los artistas deben usar tarjetas en lugar de calcomanías para enumerar los números y precios de los proveedores. Recuerde notificarnos si tiene la intención de vender arte para que podamos emitirle un número de vendedor. Los artículos de arte para exhibición solo necesitan un número de proveedor.
@@ -157,13 +163,13 @@ Pueblo, Colorado
 
 A través de su trabajo, ha encontrado que muchos de los conceptos en _El Libro de Urantia_ con respecto a la naturaleza de Dios y su relación con el hombre/mujer junto con nuestra carrera de ascensión, la cosmología y las enseñanzas de Cristo Miguel son fácilmente aceptados por los pacientes y sus familias que buscan tranquilidad de su conexión con la Primera Fuente y Centro, Cristo Miguel, y entre ellos.
 
-Como estudiante de texto y anfitriona de un grupo de estudio desde 1990, ha sido bendecida con la oportunidad de servir ahora en el Consejo General en un momento en que nuestra amada Comunidad está en proceso de adaptarse a los desafíos de la unidad y avanzar en un nuevo generación. Ella espera poder servir a su fe y nuevos amigos lo mejor que pueda.
+Como estudiante de texto y anfitriona de un grupo de estudio desde 1990, ha sido bendecida con la oportunidad de servir ahora en el Consejo General en un momento en que nuestra amada Fellowship está en proceso de adaptarse a los desafíos de la unidad y avanzar en un nuevo generación. Ella espera poder servir a su fe y nuevos amigos lo mejor que pueda.
 
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2017_Spring/Diane_Labrecque.jpg">
 </figure>
 
-**Diane Labrecque** ha sido lectora de _El Libro de Urantia_ desde 1991 y miembro activo de la Comunidad Urantia desde entonces. Diane fundó The United Urantia Family en 2010 y ofrece reuniones trienales para lectores de UB de diferentes países, junto con los Retiros de Renovación de Pascua destinados a renovar nuestro espíritu con Jesucristo Miguel durante el tiempo anual de Su resurrección. En 2013 empezó a organizar viajes o peregrinaciones a la Tierra Santa de Jesús para los lectores de la UB que tuvo un gran éxito. Diane fue una invitada frecuente en el Blogtalk Radio Show Cosmic Citizen presentado por Paula Thompson junto con sus coanfitriones. Diane tiene un grupo de estudio de _El Libro de Urantia_ en su casa de Montreal todos los miércoles por la tarde.
+**Diane Labrecque** ha sido lectora de _El Libro de Urantia_ desde 1991 y miembro activo de la Fellowship Urantia desde entonces. Diane fundó The United Urantia Family en 2010 y ofrece reuniones trienales para lectores de UB de diferentes países, junto con los Retiros de Renovación de Pascua destinados a renovar nuestro espíritu con Jesucristo Miguel durante el tiempo anual de Su resurrección. En 2013 empezó a organizar viajes o peregrinaciones a la Tierra Santa de Jesús para los lectores de la UB que tuvo un gran éxito. Diane fue una invitada frecuente en el Blogtalk Radio Show Cosmic Citizen presentado por Paula Thompson junto con sus coanfitriones. Diane tiene un grupo de estudio de _El Libro de Urantia_ en su casa de Montreal todos los miércoles por la tarde.
 
 <figure id="Figure_9" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2017_Spring/Derek_Samaras.jpg">
@@ -181,21 +187,21 @@ Por _Michael Painter_
 
 El Comité Interreligioso está pidiendo su ayuda. Nos gustaría construir una biblioteca de recursos de religiones del mundo y sistemas de creencias y estrategias para llegar a ellos. Si tiene conocimiento de una religión en particular, un grupo New Age o cualquier otro grupo de creyentes (por ejemplo, el grupo OVNI), nos gustaría que escriba un ensayo en el que compare y contraste las creencias clave de los grupos con las enseñanzas. de _El Libro de Urantia_. Lo revisaremos y posiblemente lo agregaremos a los materiales de estudio y recursos en el sitio web de la Fellowship. Si un lector tiene interés en acercarse a un grupo, este material podría ser un recurso valioso para él. Además, estamos buscando estrategias exitosas para acercarnos a estos grupos. Si tiene un método o enfoque que ha encontrado exitoso, por favor compártalo con nosotros. Gracias por su ayuda en este proyecto. Esperamos con interés escuchar de usted. Le proporcionaremos un informe de seguimiento para hacerle saber cómo está progresando el proyecto. Michael Painter, presidente, en nombre del Comité Interreligioso. Enviar a mpainter913@gmail.com.
 
-Actualmente estoy enseñando Filosofía a tiempo parcial en un colegio universitario en Indiana. Mi experiencia profesional ha sido en educación con una Maestría en Educación, servicio gubernamental y administración sin fines de lucro. He estado leyendo _El Libro de Urantia_ desde 1972. Trabajé para la Fundación durante 10 años y para la Fraternidad durante dos de 1979 a 1991. Como miembro de la Sociedad UB de Orvonton, y he servido en todos los puestos oficiales. He servido en varios comités de Fellowships, ahora estoy sirviendo un segundo término en el Consejo General, he estado involucrado en muchas conferencias tanto como planificador como presentador, y he sido participante e iniciador de grupos de estudio desde 1973. Tengo dos hijos y tres nietos. Soy un veterano de Vietnam y tengo un Corazón Púrpura por esa experiencia.
+Actualmente estoy enseñando Filosofía a tiempo parcial en un colegio universitario en Indiana. Mi experiencia profesional ha sido en educación con una Maestría en Educación, servicio gubernamental y administración sin fines de lucro. He estado leyendo _El Libro de Urantia_ desde 1972. Trabajé para la Fundación durante 10 años y para la Fellowship durante dos de 1979 a 1991. Como miembro de la Sociedad UB de Orvonton, y he servido en todos los puestos oficiales. He servido en varios comités de la Fellowship, ahora estoy sirviendo un segundo término en el Consejo General, he estado involucrado en muchas conferencias tanto como planificador como presentador, y he sido participante e iniciador de grupos de estudio desde 1973. Tengo dos hijos y tres nietos. Soy un veterano de Vietnam y tengo un Corazón Púrpura por esa experiencia.
 
 ## Se abre asiento en el Consejo General
 
 Ha quedado vacante un puesto en el Consejo General (GC) por un período que finaliza en julio de 2018.
 
-Para ser elegible para servir en el Consejo General, uno debe ser miembro de la Fraternidad, ya sea un Miembro en General o un Miembro de la Sociedad. Además, la constitución de la Fraternidad exige que hayas leído _El Libro de Urantia_ en su totalidad, al menos una vez, como único otro requisito previo para el servicio.
+Para ser elegible para servir en el Consejo General, uno debe ser miembro de la Fellowship, ya sea un Miembro en General o un Miembro de la Sociedad. Además, la constitución de la Fellowship exige que hayas leído _El Libro de Urantia_ en su totalidad, al menos una vez, como único otro requisito previo para el servicio.
 
 Los Consejeros Generales suelen ser elegidos por la Asamblea Trienal de Delegados (TDA). Cada tres años, los representantes de las sociedades regionales de Urantia se reúnen con la tarea de elegir o reelegir a 12 Consejeros a término completo.
 
-El Consejo General es un órgano deliberativo que guía la dirección general de la Fellowship de _El Libro de Urantia_. Elige a los 5 funcionarios de la Fraternidad, así como a los presidentes/mujeres que encabezan nuestros 9 comités permanentes. Estas 14 personas se denominan Comité Ejecutivo. El GC también tiene el poder de crear estatutos y cambiar la constitución de la Fraternidad. Puede leer más sobre el Consejo General en nuestra constitución aquí: http://www.urantia-book.org/Constitution/Constitution2013-02-09.pdf
+El Consejo General es un órgano deliberativo que guía la dirección general de la Fellowship de _El Libro de Urantia_. Elige a los 5 funcionarios de la Fellowship, así como a los presidentes/mujeres que encabezan nuestros 9 comités permanentes. Estas 14 personas se denominan Comité Ejecutivo. El GC también tiene el poder de crear estatutos y cambiar la constitución de la Fellowship. Puede leer más sobre el Consejo General en nuestra constitución aquí: http://www.urantia-book.org/Constitution/Constitution2013-02-09.pdf
 
-La membresía en el GC implica asistir a solo dos reuniones por año. Las reuniones se llevan a cabo durante un fin de semana y en una variedad de lugares en América del Norte y generalmente ocurren en febrero (en un clima cálido) y nuevamente al cierre y en conjunto con la conferencia de verano de la Fraternidad. Es importante tener en cuenta que los Concejales deben poder cubrir sus propios costos para asistir a las reuniones. Esto incluye el viaje a la reunión, la habitación del hotel y las comidas. La asistencia financiera ocasional puede estar disponible para los Concejales si las circunstancias les impiden cubrir estos gastos.
+La membresía en el GC implica asistir a solo dos reuniones por año. Las reuniones se llevan a cabo durante un fin de semana y en una variedad de lugares en América del Norte y generalmente ocurren en febrero (en un clima cálido) y nuevamente al cierre y en conjunto con la conferencia de verano de la Fellowship. Es importante tener en cuenta que los Concejales deben poder cubrir sus propios costos para asistir a las reuniones. Esto incluye el viaje a la reunión, la habitación del hotel y las comidas. La asistencia financiera ocasional puede estar disponible para los Concejales si las circunstancias les impiden cubrir estos gastos.
 
-Estar en el Consejo General de la Fraternidad es una experiencia increíble. Algunos Consejeros Generales han servido por 2, 3 y 4 términos de 9 años. Se establecen amistades para toda la vida y la belleza de la deliberación, la sabiduría grupal y el trabajo en equipo se iluminan de maneras notables e inspiradoras. Si desea solicitar el servicio, comuníquese con la oficina al 303-467-7858 para obtener la solicitud necesaria.
+Estar en el Consejo General de la Fellowship es una experiencia increíble. Algunos Consejeros Generales han servido por 2, 3 y 4 términos de 9 años. Se establecen amistades para toda la vida y la belleza de la deliberación, la sabiduría grupal y el trabajo en equipo se iluminan de maneras notables e inspiradoras. Si desea solicitar el servicio, comuníquese con la oficina al 303-467-7858 para obtener la solicitud necesaria.
 
 ## El oleoducto está fluyendo hacia Venezuela
 
@@ -282,7 +288,7 @@ En nuestra última reunión de la sociedad, nosotros en la sociedad RMSF hemos d
 
 Socializar alrededor de una comida siempre es una excelente manera de ponerse al día con la vida de los demás y mantenerse conectados. La 'reversión' siempre es una buena manera de contrarrestar la pesadez del estudio intelectual de la UB.
 
-**Avi Dogim informa desde el área metropolitana de Nueva York:** USGNY se reúne trimestralmente durante una comida, seguida de un programa de estudio, en los hogares de varios miembros. Después de completar el programa, generalmente se lleva a cabo una reunión de negocios de la sociedad durante la cual los funcionarios de la sociedad y los presidentes del programa presentan informes; De vez en cuando, también se discuten temas relacionados con la Fraternidad (p. ej., unidad, impresión de UB, etc.). Por primera vez, este año, a fines de abril, el liderazgo de la sociedad planea experimentar con una reunión comercial anual de Zoom. Particularmente digno de mención es la reciente finalización de la traducción al turco de la UB por parte de USGNY.
+**Avi Dogim informa desde el área metropolitana de Nueva York:** USGNY se reúne trimestralmente durante una comida, seguida de un programa de estudio, en los hogares de varios miembros. Después de completar el programa, generalmente se lleva a cabo una reunión de negocios de la sociedad durante la cual los funcionarios de la sociedad y los presidentes del programa presentan informes; De vez en cuando, también se discuten temas relacionados con la Fellowship (p. ej., unidad, impresión de UB, etc.). Por primera vez, este año, a fines de abril, el liderazgo de la sociedad planea experimentar con una reunión comercial anual de Zoom. Particularmente digno de mención es la reciente finalización de la traducción al turco de la UB por parte de USGNY.
 
 Los grupos de estudio en el área metropolitana de Nueva York continúan reuniéndose en la ciudad de Nueva York, el norte de Nueva Jersey, el condado de Westchester y Connecticut.  
 
@@ -296,15 +302,15 @@ El último esfuerzo fue un seminario conjunto presentado por el Comité de Educa
 
 El fin de semana largo del 23 al 26 de marzo, la Fundación Urantia organizó este seminario educativo en 533, con doce presentadores que representaban responsabilidades de todas las organizaciones y actividades de Urantia.
 
-Los presentadores escribieron artículos y dieron presentaciones sobre ideas y experiencias que cada uno tuvo al compartir las enseñanzas de esta manera. Los presentadores incluyeron a Gard Jameson, presidente del Comité de Educación de la Fundación, y David Kulieke, presidente del Comité de Educación de la Fraternidad, quienes también fueron los coorganizadores del evento. Otros presentadores incluyeron a Chris Wood, Elisabeth Callahan, Guy Perron, Marilynn Kulieke, Dave Elders, Barbara Newsom, Daniel Glazer, Andre Radatus y Bruce Johnson, quienes presentaron desde la sala, y James Perry, quien presentó por Zoom. Algunos observadores también asistieron a 533, y muchos más vieron y contribuyeron con preguntas y comentarios a través de Zoom.
+Los presentadores escribieron artículos y dieron presentaciones sobre ideas y experiencias que cada uno tuvo al compartir las enseñanzas de esta manera. Los presentadores incluyeron a Gard Jameson, presidente del Comité de Educación de la Fundación, y David Kulieke, presidente del Comité de Educación de la Fellowship, quienes también fueron los coorganizadores del evento. Otros presentadores incluyeron a Chris Wood, Elisabeth Callahan, Guy Perron, Marilynn Kulieke, Dave Elders, Barbara Newsom, Daniel Glazer, Andre Radatus y Bruce Johnson, quienes presentaron desde la sala, y James Perry, quien presentó por Zoom. Algunos observadores también asistieron a 533, y muchos más vieron y contribuyeron con preguntas y comentarios a través de Zoom.
 
 Estos presentadores proporcionaron un foro animado para hablar sobre una multitud de temas que incluyen; la naturaleza de nuestra audiencia, nuestra filosofía de educación, la posibilidad de desarrollar un programa docente más intencional y los beneficios de institucionalizar nuestros esfuerzos educativos. Se incluyeron experiencias prácticas en el aula, dar sermones invitados, considerar el uso de palabras e incluso animaciones en la pizarra en las miradas a varias formas de compartir _El Libro de Urantia_. Los textos de estos ensayos estarán en breve en la página web de Educación, que se encuentra en «Estudio» en el sitio web de la Fellowship.
 
 La reunión cerró el domingo por la mañana con una discusión de los principios y conceptos esenciales derivados de las discusiones. Los tipos de entornos en los que uno puede compartir la Revelación incluyen tanto situaciones formales, como un salón de clases o una clase de la iglesia o dar servicio a un paciente, como momentos espontáneos: «Al pasar». Entre los temas que surgieron, algunos se enfocan en las personas con las que uno está interactuando, como «Escuche con empatía: esté interesado en la persona con la que está hablando». Otras observaciones reflejan lo que la persona que comparte las enseñanzas puede aportar al momento, incluyendo: «Prepárate con una respuesta» y «Usa TUS talentos y experiencia; Enseña lo que haces». La gente también hizo hincapié en la importancia de tomar medidas.
 
-Este seminario fue uno de los muchos esfuerzos educativos colaborativos durante los últimos años de diferentes combinaciones de comités de la Fraternidad, la Fundación y la UAI. Otro será este verano en Denver en el IC17 de Fellowship. Habrá un foro de varias organizaciones educativas para el estudio de _El Libro de Urantia_, incluido un informe de este seminario. El fin de semana contó con la excelente presentación de Joanne Strobel y deliciosas comidas de Ashley Hayes.
+Este seminario fue uno de los muchos esfuerzos educativos colaborativos durante los últimos años de diferentes combinaciones de comités de la Fellowship, la Fundación y la UAI. Otro será este verano en Denver en el IC17 de la Fellowship. Habrá un foro de varias organizaciones educativas para el estudio de _El Libro de Urantia_, incluido un informe de este seminario. El fin de semana contó con la excelente presentación de Joanne Strobel y deliciosas comidas de Ashley Hayes.
 
-> «...aquellos que conducen a los hombres a Dios experimentan la suprema satisfacción del servicio humano.» [[LU 132:6.1](/es/The_Urantia_Book/132#p6_1)]
+> «...los que conducen los hombres a Dios experimentan la satisfacción suprema del servicio humano.» [[LU 132:6.1](/es/The_Urantia_Book/132#p6_1)]
 
 ## Eventos
 
@@ -339,6 +345,9 @@ www.urantiabook.org
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2016_Fall">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de otoño de 2016</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2017">
@@ -346,6 +355,9 @@ www.urantiabook.org
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2017_Fall">
+          <span class="pr-2">Edición de otoño de 2017</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

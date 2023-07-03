@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2010_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2010</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-2010">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2011_Fall">
+          <span class="pr-2">Edición de otoño de 2011</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -87,7 +93,7 @@ Cada taller, presentación y foro es único y refleja las técnicas y métodos d
   - El moderador debe tener una buena comprensión del tema y tener la capacidad de examinar todos los aspectos del problema.
   - Los moderadores deben tener la capacidad de coordinar y reunir la discusión para que la discusión se mantenga enfocada y responda a los distintos lados del problema.
   - Algunos ejemplos de discusión del Foro son:
-    * ¿Qué significa para la Fraternidad ser una organización orientada a la acción?
+    * ¿Qué significa para la Fellowship ser una organización orientada a la acción?
     * ¿Qué más podemos hacer?
     * ¿Cómo se define o reconoce la Revelación en Acción?
     * ¿Cómo se produce el crecimiento en el cosmos?
@@ -114,7 +120,7 @@ Por _Daniel Love Glazer_
 
 Los demás asistentes salieron en ropa de dormir, donde procedieron a ir de puerta en puerta, difundiendo las Buenas Nuevas acerca de Dios y regalando Libros de Urantia, ¡es broma! (Aunque más tarde se entregaron Libros de Urantia a dos de los bomberos que expresaron interés en ellos). La principal actividad de estos sobrevivientes dormidos era jugar frisbee, aunque algunos hicieron proselitismo con los bomberos que llegaron al lugar, donde concluyeron que no había fuego. .
 
-La Sesión de Estudio de Verano, que tuvo lugar del 22 al 25 de julio, tuvo como tema, «Conciencia de Dios y Moralidad Cósmica: Viviendo las Enseñanzas». Algunos asistieron a un retiro espiritual previo a la conferencia dirigido por Gard Jameson y Bobbie Dreier, que se centró en las cuatro actitudes de fe: ser pobre en espíritu, tener hambre de justicia, soportar la mansedumbre y ser puro de corazón. La conferencia en sí (véase http://www.urantia-education.org/2010-Conference.php) contó con sesiones plenarias diarias y numerosos talleres relacionados con el tema de la conferencia, junto con una serie de oportunidades de adoración y socialización vespertina y creación de música. . Las magníficas presentaciones plenarias estuvieron a cargo de Andre Radatus, Seth Wood y la Presidenta de la Fraternidad, Michelle Klimesh. Los siguientes son los títulos de los talleres y los presentadores:
+La Sesión de Estudio de Verano, que tuvo lugar del 22 al 25 de julio, tuvo como tema, «Conciencia de Dios y Moralidad Cósmica: Viviendo las Enseñanzas». Algunos asistieron a un retiro espiritual previo a la conferencia dirigido por Gard Jameson y Bobbie Dreier, que se centró en las cuatro actitudes de fe: ser pobre en espíritu, tener hambre de justicia, soportar la mansedumbre y ser puro de corazón. La conferencia en sí (véase http://www.urantia-education.org/2010-Conference.php) contó con sesiones plenarias diarias y numerosos talleres relacionados con el tema de la conferencia, junto con una serie de oportunidades de adoración y socialización vespertina y creación de música. . Las magníficas presentaciones plenarias estuvieron a cargo de Andre Radatus, Seth Wood y la Presidenta de la Fellowship, Michelle Klimesh. Los siguientes son los títulos de los talleres y los presentadores:
 
 _Ciudadanía Cósmica: El Papel de la Educación en el Desarrollo de la Conciencia de Dios y la Moralidad Cósmica (Universidad de Urantia)_- Steve Dreier; _Fomentando el Crecimiento Progresivo de la Sociedad y Civilización Humana: La Campaña Incesante del Maestro Serafín_ - Neal Waldrop; _Dejando una Huella Espiritual_ - Bill y Share Beasley; _Alma: el lugar de nacimiento de la moralidad y donde crece el evangelio_ - Tony Finstad; _Alcanzar Metas Supremas_ - Angela Thurston; _La Emulación de la Bondad Divina del Ascendente_ - David Glass; _Primero entre iguales: Desafíos y responsabilidades a los que se enfrentan los lectores estadounidenses de _El Libro de Urantia__ - Neal Waldrop; _Cómo la Ley de Atracción Puede Contribuir a la Evolución del Supremo_ - John Lambo; _Ángeles de la guarda_ - Katharina Becker y Charles Olivea; _Moralidad Cósmica y Mente Cósmica_; Bárbara Newsom; _Autodominio: El enfoque poco convencional de Jesús_; Vicky Arkens; _Una Investigación sobre la Verdadera Adoración: Uniendo la Conciencia de Dios con la Moralidad Cósmica_; Bob Debold; _Moralidad cósmica: ¿por qué molestarse?_ - Avi Dogim; _Moralidad cósmica y negocios_ - Dan Amyx
 
@@ -126,7 +132,7 @@ Lo más destacado del día de clausura fue la entrega del Premio David Zebedee a
 
 La adoración tuvo un lugar destacado en la conferencia, con meditaciones dos veces al día en la hermosa Capilla África de Techny Towers y una reunión para la comunión espiritual antes de cada discurso plenario. Las meditaciones típicamente usaban el proceso de la Escucha Divina, modelado en la práctica monástica medieval Lectio Divina. Se enfatizó el alto valor de la comunión espiritual al no permitir que los recién llegados entraran en la sala.
 
-Otra característica de la conferencia fueron las sesiones de retroalimentación. Aquí, un representante de cada taller dio un informe de tres a cinco minutos sobre el taller a todo el grupo. Al final de la Sesión de Estudio de Verano, se llevó a cabo una reunión del Consejo General de la Fraternidad.
+Otra característica de la conferencia fueron las sesiones de retroalimentación. Aquí, un representante de cada taller dio un informe de tres a cinco minutos sobre el taller a todo el grupo. Al final de la Sesión de Estudio de Verano, se llevó a cabo una reunión del Consejo General de la Fellowship.
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2010_Winter/005739.jpg">
@@ -146,7 +152,7 @@ El Premio David Zebedee se concibió por primera vez durante el Parlamento de la
 
 Ese parecía un título apropiado para este premio de servicio, especialmente considerando lo que David Zebedeo le dijo a Jesús:
 
-> _Ve a tu trabajo, Maestro. No dejes que los fanáticos te atrapen, y nunca dudes que los mensajeros te seguirán. Mis hombres nunca perderán el contacto contigo, ya través de ellos sabrás del reino en otras partes, y por ellos todos sabremos de ti. Nada de lo que pueda sucederme interferirá con este servicio, porque he designado primeros y segundos líderes, incluso un tercero. No soy ni maestro ni predicador, pero está en mi corazón hacer esto y nadie puede detenerme._ [[LU 154:5.3](/es/The_Urantia_Book/154#p5_3)]
+> _Ve a efectuar tu labor, Maestro. No te dejes atrapar por los fanáticos, y no dudes nunca de que los mensajeros te seguirán. Mis hombres nunca perderán el contacto contigo; gracias a ellos, sabrás cómo progresa el reino en otras regiones, y por medio de ellos todos tendremos noticias tuyas. Nada que pueda ocurrirme interrumpirá este servicio, porque he nombrado un primero y un segundo sustitutos, e incluso un tercero. No soy ni un instructor ni un predicador, pero mi corazón me exige que haga esto, y no hay nada que pueda detenerme._ [[LU 154:5.3](/es/The_Urantia_Book/154#p5_3)]
 
 ## Feliz cumpleaños, Jesús
 
@@ -180,7 +186,7 @@ Fuerte Wayne, Indiana
 <img src="/image/article/The_Mighty_Messenger/2010_Winter/005745.jpg">
 </figure>
 
-Fraternidad espiritual de las Montañas Rocosas
+Fellowship espiritual de las Montañas Rocosas
 
 <figure id="Figure_13" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2010_Winter/005746.jpg">
@@ -239,11 +245,11 @@ Lo que es más importante, estaremos trabajando en el corazón de lo que es Trut
 El costo del programa Truthseekers, desde el martes por la tarde hasta el domingo por la tarde, es de $495.00. El precio incluye pensión, alojamiento, transporte y todas las actividades. Nuestro grupo de edad es de 15 a 19 años con algunas excepciones. Al igual que con todos nuestros programas, los buscadores de la verdad anteriores siempre son bienvenidos a participar, independientemente de su edad. Regístrese en línea en el sitio web de la Fellowship. Si tiene alguna pregunta, no dude en llamarme a mí, a Tom Choquette al 425-218-2216 o a Fred Harris al 850-528-3393. Nunca hemos rechazado a una persona interesada por falta de fondos. Hay Fellowships y Fellowships parciales disponibles. Cuidarse. Estar a salvo. Nos vemos pronto. amor, tom
 
 
-> «En mi universo y en el universo de universos de mi Padre… en todas las relaciones grupales, siempre proporcionamos un liderazgo definido». [[LU 181:2.16](/es/The_Urantia_Book/181#p2_16)]
+> «En mi universo y en el universo de universos de mi Padre… en todas las relaciones colectivas, procuramos invariablemente que exista una persona determinada que dirija». [[LU 181:2.16](/es/The_Urantia_Book/181#p2_16)]
 
 ## La Sociedad de Alaska Celebra el 25 Aniversario
 
-La Sociedad Northern Light de Alaska celebró su 25 aniversario el 29 de agosto de 2010 en Anchorage. Se constituyó oficialmente el 1 de noviembre de 1985 y se registró como la 17.ª sociedad de La Hermandad Urantia.
+La Sociedad Northern Light de Alaska celebró su 25 aniversario el 29 de agosto de 2010 en Anchorage. Se constituyó oficialmente el 1 de noviembre de 1985 y se registró como la 17.ª sociedad de La Brotherhood Urantia.
 
 <figure id="Figure_20" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2010_Winter/005753.jpg">
@@ -275,7 +281,7 @@ Si tiene interés en hacer un Legado Viviente para apoyar los esfuerzos a largo 
 
 ## YaYA – Un nuevo comité
 
-Nos gustaría anunciar la formación de un nuevo comité de la Fraternidad. Nos llamamos el Comité de Jóvenes y Adultos Jóvenes o YaYA para abreviar. Actualmente es un comité adjunto del Comité de Divulgación de la Fraternidad. Soy el 'lector experimentado' que intenta mantenerse al día con este núcleo talentoso de trabajadores que son todos lectores de segunda generación y actualmente tienen entre 12 y 28 años.
+Nos gustaría anunciar la formación de un nuevo comité de la Fellowship. Nos llamamos el Comité de Jóvenes y Adultos Jóvenes o YaYA para abreviar. Actualmente es un comité adjunto del Comité de Divulgación de la Fellowship. Soy el 'lector experimentado' que intenta mantenerse al día con este núcleo talentoso de trabajadores que son todos lectores de segunda generación y actualmente tienen entre 12 y 28 años.
 
 Aquí está nuestra Declaración de Visión: El Comité de Jóvenes y Adultos Jóvenes (YaYA) se esfuerza por involucrar a los jóvenes y adultos jóvenes de Urantia a través del estudio, la socialización, el apoyo, el servicio y la divulgación a nivel local, nacional e internacional. Nuestro objetivo es aumentar la realización y manifestación de las enseñanzas de _El Libro de Urantia_ a través de cada generación sucesiva.
 
@@ -284,9 +290,9 @@ Ya estamos comenzando en varios frentes. Aquí hay algunas ideas preliminares.
 - **Socialización**: estamos planeando una reunión de jóvenes y adultos jóvenes en Boulder, CO, este invierno para darles a nuestros jóvenes líderes la oportunidad de reunirse y diseñar estrategias para nuestros próximos pasos mientras se conocen en un ambiente divertido y hermoso. configuración. Si conoces a alguien que pueda querer participar, ¡háznoslo saber!
 - **Apoyo**: Estamos agradecidos por todos los padres y maestros dedicados que nos han precedido. Es nuestro deseo recopilar tanta experiencia e historia como sea posible. ¿Qué les ha funcionado a ustedes como padres? ¿Qué puede hacer nuestro comité para ayudarlo en sus esfuerzos por compartir esta revelación con sus hijos? Envíenos sus historias; queremos comunicarnos y trabajar juntos. Envíenos un correo electrónico a urantia@gci.net o llame al (907) 830-8816.
 - **Servicio**: Nos encantaría escuchar sus opiniones sobre proyectos de servicio que serían particularmente importantes y convincentes para nuestros jóvenes y adultos jóvenes.
-- **Divulgación**: ¿Quién mejor para promover las enseñanzas de _El Libro de Urantia_ entre los adultos jóvenes que buscan la verdad que los nuestros? Las ideas incluyen un sitio web, el uso de redes sociales, la creación de puestos de libros, programas en el campus y folletos que sean atractivos para la generación más joven, e incluso la realización de Cosmic Road Shows dirigidos a los adultos jóvenes. Tenemos lectores en nuestra Fraternidad que quieren hacer este tipo de ministerio. Solo un poco de orientación, aliento y algo de financiación pueden ser de gran ayuda.
+- **Divulgación**: ¿Quién mejor para promover las enseñanzas de _El Libro de Urantia_ entre los adultos jóvenes que buscan la verdad que los nuestros? Las ideas incluyen un sitio web, el uso de redes sociales, la creación de puestos de libros, programas en el campus y folletos que sean atractivos para la generación más joven, e incluso la realización de Cosmic Road Shows dirigidos a los adultos jóvenes. Tenemos lectores en nuestra Fellowship que quieren hacer este tipo de ministerio. Solo un poco de orientación, aliento y algo de financiación pueden ser de gran ayuda.
 
-¡Tenemos una gran población menor de cuarenta años que está lista para esta revelación ahora! ¿Cómo podemos llegar a ellos e invitarlos a ser parte de la comunidad de _El Libro de Urantia_? Además, ¿cómo nos acercamos a todos los niños de 'segunda generación' que ahora tienen sus propios hijos para volver a invitarlos a nuestra Fraternidad?
+¡Tenemos una gran población menor de cuarenta años que está lista para esta revelación ahora! ¿Cómo podemos llegar a ellos e invitarlos a ser parte de la comunidad de _El Libro de Urantia_? Además, ¿cómo nos acercamos a todos los niños de 'segunda generación' que ahora tienen sus propios hijos para volver a invitarlos a nuestra Fellowship?
 
 La Conferencia Internacional de 2011 llega el próximo verano. El tema es «La Revelación en Acción: Actuar Globalmente, Crecer Cósmicamente». Este es un tema atractivo para nuestros jóvenes y adultos jóvenes, y están listos para actuar. El Comité YaYA está involucrado en la planificación de una parte importante de la programación de IC11 para garantizar que sea familiar e incluya oportunidades de estudio, socialización y servicio para todas las edades.
 
@@ -305,11 +311,11 @@ Cuando se publicó _El Libro de Urantia_ en octubre de 1955, Larry Bowman era el
 
 ¿Significa ser la próxima generación para tratar de arreglar el mundo? ¿O significa que sabemos cómo usar Facebook y Twitter? No importa lo que signifique, somos la próxima generación de este mundo y juntos crearemos nuestros propios problemas y nuestras propias soluciones. A medida que las personas mayores se gradúan al otro mundo, las nuevas generaciones lentamente comienzan a crecer y tomar el control. Los jóvenes somos importantes, no solo para el mundo, sino también entre nosotros.
 
-Recientemente tuve la oportunidad de unirme al nuevo Comité YaYA (Jóvenes y Adultos Jóvenes) de la Fraternidad. Este comité está dedicado a involucrar a los jóvenes en la Comunidad Urantia a través de grupos de estudio, socialización, servicio y divulgación. Para mí esto es muy importante. Actualmente estoy en uno de los pocos, o tal vez el único, grupo de estudio de niños en los Estados Unidos. Todos los martes por la noche voy a casa de un amigo y estudio _El Libro de Urantia_. Es importante darse cuenta de que faltan algunas generaciones en la comunidad de Urantia. Uno de los principales objetivos de YaYA es llegar a las generaciones más jóvenes y educarlas. Tener un grupo más grande de mi generación como lectores de _El Libro de Urantia_ ayudará a que los proyectos y conferencias de Urantia continúen.
+Recientemente tuve la oportunidad de unirme al nuevo Comité YaYA (Jóvenes y Adultos Jóvenes) de la Fellowship. Este comité está dedicado a involucrar a los jóvenes en la Fellowship Urantia a través de grupos de estudio, socialización, servicio y divulgación. Para mí esto es muy importante. Actualmente estoy en uno de los pocos, o tal vez el único, grupo de estudio de niños en los Estados Unidos. Todos los martes por la noche voy a casa de un amigo y estudio _El Libro de Urantia_. Es importante darse cuenta de que faltan algunas generaciones en la comunidad de Urantia. Uno de los principales objetivos de YaYA es llegar a las generaciones más jóvenes y educarlas. Tener un grupo más grande de mi generación como lectores de _El Libro de Urantia_ ayudará a que los proyectos y conferencias de Urantia continúen.
 
 Entonces, ¿cuáles son los próximos pasos que tenemos que dar como comunidad para involucrar a los lectores jóvenes? Sé que esta ha sido la pregunta que ha estado dando vueltas por un tiempo. En ¿Qué significa ser joven? mi opinión para involucrar a los jóvenes tenemos que empezar en el hogar. Esto podría significar incorporar las enseñanzas de _El Libro de Urantia_ en la vida cotidiana. Por ejemplo, cuando vemos las noticias y vemos que sucede algo trágico relacionado con la muerte de alguien, mi mamá me explica que hay vida después de la muerte. O en el grupo de estudio una vez hicimos un sketch de Pascua de _El Libro de Urantia_. Ahora no fue a Broadway pero como grupo entendimos más la resurrección de Jesús. Al involucrarnos a los niños en actividades o aventuras sencillas e incorporar _El Libro de Urantia_, creo que podemos hacer crecer otra generación de lectores activos. No se trata de meter el libro en la garganta de los niños, sino de darles el conocimiento. Es muy importante compartir el libro con los jóvenes, no es solo para adultos. Nuestro primer paso como comunidad debe ser como un solo grupo, sin importar dónde viva u organización.
 
-El próximo verano en IC'11, el Comité YaYA y los Truthseekers tendrán un día entero de juventud en el programa. Invitamos a las familias a que vengan a divertirse, a aprender juntos. En este día, las personas que son jóvenes serán las que presenten. No solo hablaremos de nuestra juventud, sino también de nuestras ideas, ideales, pensamientos y visiones para la Comunidad Urantia y el futuro. Si tiene alguna pregunta sobre YaYA o Truthseekers, puede llamar a Tom Choquette al 425-218-2216 o Tony Finstad al 970-830-8816. Esperamos verte ahí.
+El próximo verano en IC'11, el Comité YaYA y los Truthseekers tendrán un día entero de juventud en el programa. Invitamos a las familias a que vengan a divertirse, a aprender juntos. En este día, las personas que son jóvenes serán las que presenten. No solo hablaremos de nuestra juventud, sino también de nuestras ideas, ideales, pensamientos y visiones para la Fellowship Urantia y el futuro. Si tiene alguna pregunta sobre YaYA o Truthseekers, puede llamar a Tom Choquette al 425-218-2216 o Tony Finstad al 970-830-8816. Esperamos verte ahí.
 
 ## Feria del Libro en Ecuador
 
@@ -317,7 +323,7 @@ El próximo verano en IC'11, el Comité YaYA y los Truthseekers tendrán un día
 <img src="/image/article/The_Mighty_Messenger/2010_Winter/005756.jpg">
 </figure>
 
-Gracias al apoyo de la Fraternidad, tuvimos la oportunidad de participar en la Feria del Libro anual de 10 días en Guayaquil, Ecuador. Además de un stand dedicado a _El Libro de Urantia_ y obras relacionadas, también dimos una presentación a la que asistieron más de 100 personas. La charla fue seguida por un período de preguntas y respuestas y una rifa de un Libro de Urantia.
+Gracias al apoyo de la Fellowship, tuvimos la oportunidad de participar en la Feria del Libro anual de 10 días en Guayaquil, Ecuador. Además de un stand dedicado a _El Libro de Urantia_ y obras relacionadas, también dimos una presentación a la que asistieron más de 100 personas. La charla fue seguida por un período de preguntas y respuestas y una rifa de un Libro de Urantia.
 
 Nos alegró especialmente entregar una copia de _El Libro de Urantia_ al Sr. Jaime Nebot, alcalde de la ciudad de Guayaquil. Fuimos muy afortunados de contar con la ayuda de otros lectores de Costa Rica, Nidia Guzman, Guillermo y Lady Saenz. Los lectores locales que participaron fueron Jaime Rodríguez, Sandra Naranjo, Fernando Delgado, Sara Heireria, Telmo López, Gabriel Pino, Martha Balseca, Karla Lentino y Christian Franco.
 
@@ -377,7 +383,7 @@ El principal proyecto de Pipeline este trimestre fue el envío de 120 ejemplares
 
 Agradecemos profundamente su continua ayuda financiera. Si desea contribuir a este trabajo, puede realizar donaciones en línea en: http://urantiabook.org/support.htm o por correo postal a:
 
-_El Libro de Urantia_ Fraternidad
+_El Libro de Urantia_ Fellowship
 apartado de correos 6631
 Broomfield, CO 80021
 
@@ -411,7 +417,7 @@ Para escuchar el programa en vivo en una computadora, uno simplemente ingresa a:
 
 Alternativamente, las personas que no estén cerca de una computadora pueden escuchar en vivo por teléfono llamando al (646) 716-8158. Por lo general, las preguntas de los oyentes para llamar al invitado se invitan al mismo número durante la segunda hora del programa.
 
-Todos los programas anteriores se archivan para su reproducción en cualquier momento y se pueden descargar como podcasts sin cargo. La lista de programas recientes se encuentra en el lado izquierdo de la pantalla, con el más reciente en la parte superior. Los programas anteriores que datan de julio de 2008 están disponibles, agrupados por mes, en el área bajo demanda. Se puede encontrar una lista de biografías de invitados junto con el archivo de programas anteriores en el sitio web de la Fraternidad en urantiabook.org/blogs/CosmicCitizen/GuestBios.htm
+Todos los programas anteriores se archivan para su reproducción en cualquier momento y se pueden descargar como podcasts sin cargo. La lista de programas recientes se encuentra en el lado izquierdo de la pantalla, con el más reciente en la parte superior. Los programas anteriores que datan de julio de 2008 están disponibles, agrupados por mes, en el área bajo demanda. Se puede encontrar una lista de biografías de invitados junto con el archivo de programas anteriores en el sitio web de la Fellowship en urantiabook.org/blogs/CosmicCitizen/GuestBios.htm
 
 Paula informa que la audiencia promedio para el programa de audio (incluida la reproducción posterior) ahora es de aproximadamente 400 oyentes, y la participación activa en la sala de chat es de aproximadamente el 5% de los que escuchan.
 
@@ -442,12 +448,12 @@ Programas semanales de radio por Internet presentados por lectores de El Libro d
 > Sala de chat moderada disponible para usuarios registrados
 {.is-info}
 
-> Cual es el pensamiento de un hombre en su corazón, tal es él.” [[LU 131:2.9](/es/The_Urantia_Book/131#p2_9)]
+> Tal como un hombre piensa en su corazón, así es él. [[LU 131:2.8](/es/The_Urantia_Book/131#p2_8)]
 
 ## Próximos Eventos…
 
-- **11 al 13 de febrero de 2011**, Reunión de mitad de año del Consejo General de la Fraternidad, Dallas/Ft. Vale la pena, TX. Para obtener más información, llame a la oficina de Fellowships al 877-288-3772
-- **27-31 de julio de 2011**, Conferencia Internacional de Fellowships 2011, Universidad de Salt Lake, Salt Lake, UT. Para obtener más información, visite www.IC11.org.
+- **11 al 13 de febrero de 2011**, Reunión de mitad de año del Consejo General de la Fellowship, Dallas/Ft. Vale la pena, TX. Para obtener más información, llame a la oficina de la Fellowship al 877-288-3772
+- **27-31 de julio de 2011**, Conferencia Internacional de la Fellowship 2011, Universidad de Salt Lake, Salt Lake, UT. Para obtener más información, visite www.IC11.org.
 
 ## Esto y aquello…
 
@@ -467,6 +473,9 @@ Por favor envíenos noticias de su grupo de estudio y/o actividades de la socied
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2010_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2010</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-2010">
@@ -474,6 +483,9 @@ Por favor envíenos noticias de su grupo de estudio y/o actividades de la socied
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2011_Fall">
+          <span class="pr-2">Edición de otoño de 2011</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

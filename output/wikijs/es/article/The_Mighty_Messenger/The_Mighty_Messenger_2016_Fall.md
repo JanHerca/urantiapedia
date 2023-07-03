@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2016_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2016</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2016">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2017_Spring">
+          <span class="pr-2">Edición de primavera de 2017</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -28,9 +34,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </figure>
 
 
-## Reunión de unidad de Fellowships/UAI
+## Reunión de unidad de la Fellowship/UAI
 
-Del 3 al 5 de octubre de 2016, representantes de la Asociación y la Fraternidad se reunieron en Chicago para considerar la unidad organizacional. Una atmósfera de buena voluntad prevaleció a lo largo de nuestro tiempo juntos. Todos nosotros de todo corazón estuvimos de acuerdo en que deseamos la unidad. Se redactó una propuesta de unidad que en breve se presentará a ambas organizaciones. Se compartirá más información según esté disponible.
+Del 3 al 5 de octubre de 2016, representantes de la Asociación y la Fellowship se reunieron en Chicago para considerar la unidad organizacional. Una atmósfera de buena voluntad prevaleció a lo largo de nuestro tiempo juntos. Todos nosotros de todo corazón estuvimos de acuerdo en que deseamos la unidad. Se redactó una propuesta de unidad que en breve se presentará a ambas organizaciones. Se compartirá más información según esté disponible.
 
 Damos las gracias a la Fundación Urantia por acoger nuestra reunión de unidad. Como siempre, nos sentimos muy bienvenidos, bien alimentados y cuidados en mente, cuerpo y espíritu.
 
@@ -102,11 +108,11 @@ Miranda Clendening y Tim Hobbs
 <img src="/image/article/The_Mighty_Messenger/2016_Fall/005897.jpg">
 </figure>
 
-El espíritu de la Conferencia de Verano de Estados Unidos de la Asociación Urantia y la Sesión de Estudio de Verano de la Fraternidad de _El Libro de Urantia_ sigue vivo tres meses después de que ocurriera. Del evento, realizado del 9 al 12 de junio en San Antonio, surgió un sentimiento de buena voluntad entre los lectores de las dos organizaciones. En consecuencia, se están llevando a cabo reuniones entre los líderes de las dos organizaciones para discutir la cooperación futura y la unidad de propósitos.
+El espíritu de la Conferencia de Verano de Estados Unidos de la Asociación Urantia y la Sesión de Estudio de Verano de la Fellowship de _El Libro de Urantia_ sigue vivo tres meses después de que ocurriera. Del evento, realizado del 9 al 12 de junio en San Antonio, surgió un sentimiento de buena voluntad entre los lectores de las dos organizaciones. En consecuencia, se están llevando a cabo reuniones entre los líderes de las dos organizaciones para discutir la cooperación futura y la unidad de propósitos.
 
-Hace más de un año, Chris Wood, presidente de la UAI, se acercó a David Kulieke, presidente del Comité de Educación de la Fraternidad. Dado que el tema de la conferencia de la UAUS iba a ser «Jesús, el Gran Maestro», Chris sintió que su tema educativo la convertiría en la oportunidad perfecta para una conferencia conjunta combinándola con las Sesiones de estudio de verano de Education 2016 para un estudio en profundidad de _The Urantia Book_, un evento de dos salidas cada tres años.
+Hace más de un año, Chris Wood, presidente de la UAI, se acercó a David Kulieke, presidente del Comité de Educación de la Fellowship. Dado que el tema de la conferencia de la UAUS iba a ser «Jesús, el Gran Maestro», Chris sintió que su tema educativo la convertiría en la oportunidad perfecta para una conferencia conjunta combinándola con las Sesiones de estudio de verano de Education 2016 para un estudio en profundidad de _The Urantia Book_, un evento de dos salidas cada tres años.
 
-Una vez que los líderes de la Fraternidad estuvieron de acuerdo, comenzó la conferencia conjunta.
+Una vez que los líderes de la Fellowship estuvieron de acuerdo, comenzó la conferencia conjunta.
 
 <figure id="Figure_3" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2016_Fall/005898.jpg">
@@ -130,11 +136,11 @@ por _David Glass_
 <img src="/image/article/The_Mighty_Messenger/2016_Fall/005899.jpg">
 </figure>
 
-Difícilmente podría permanecer inactivo después de haber leído acerca de la apasionada defensa de la Fraternidad para el alivio de aquellas almas entre nosotros que no están nutridas por el Agua Viva de la verdad. (Me refiero al breve artículo del Summer Fellowship Herald).
+Difícilmente podría permanecer inactivo después de haber leído acerca de la apasionada defensa de la Fellowship para el alivio de aquellas almas entre nosotros que no están nutridas por el Agua Viva de la verdad. (Me refiero al breve artículo del Summer Fellowship Herald).
 
 Anteriormente también conocí esa inquietud cobarde y sin dirección de la falta de paz a principios de los años 70, justo antes de que me ayudaran a lanzarme en mi aventura espiritual en busca de la verdad, sin importar qué. SÍ tenemos la panacea para la trágica soledad de las «vidas de desesperación silenciosa» que nos rodean. ¿Cómo no responder?
 
-Cada uno de nosotros está llamado a servir en proporción a nuestras dotes y de acuerdo con los talentos entregados a nuestra mayordomía. Hay una necesidad ilimitada de ministrar al hombre en nuestro mundo. Cada uno podemos hacer nuestra parte. Esta es nuestra oportunidad única en la eternidad de servir como un mortal en nuestra esfera de natividad actuando nosotros mismos y apoyando a los grupos de almas que trabajan en equipo representadas por nuestro cuerpo de servicio ahora existente y futuristamente abierto. Si siente que le falta la capacidad misionera de primera línea o todavía está trabajando para desarrollarla, considere apoyar a aquellos que están haciendo un alcance más explícito a nuestro mundo en nombre de los autores de nuestra gloriosa revelación, repleta de su prometedor futuro milenario de potencial para la humanidad. bien. Se nos ha asegurado que «la revelación religiosa es esencial para la realización de la hermandad en Urantia». ([LU 52:6.2](/es/The_Urantia_Book/52#p6_2))
+Cada uno de nosotros está llamado a servir en proporción a nuestras dotes y de acuerdo con los talentos entregados a nuestra mayordomía. Hay una necesidad ilimitada de ministrar al hombre en nuestro mundo. Cada uno podemos hacer nuestra parte. Esta es nuestra oportunidad única en la eternidad de servir como un mortal en nuestra esfera de natividad actuando nosotros mismos y apoyando a los grupos de almas que trabajan en equipo representadas por nuestro cuerpo de servicio ahora existente y futuristamente abierto. Si siente que le falta la capacidad misionera de primera línea o todavía está trabajando para desarrollarla, considere apoyar a aquellos que están haciendo un alcance más explícito a nuestro mundo en nombre de los autores de nuestra gloriosa revelación, repleta de su prometedor futuro milenario de potencial para la humanidad. bien. Se nos ha asegurado que «la revelación religiosa es esencial para llevar a cabo la fraternidad en Urantia». ([LU 52:6.2](/es/The_Urantia_Book/52#p6_2))
 
 Considere la ansiedad y la angustia innecesarias de quienes carecen de las garantías del amor de Dios, el conocimiento de la seguridad espiritual del hombre en un universo amigo, y la conciencia de la prontitud ansiosa del Padre para hacer contacto con cada uno de sus hijos, para penetrar los velos de aislamiento y nieblas de duda que asaltan a demasiados buscadores de la verdad hoy en día en nuestro planeta que despierta gradualmente. Reflexiona sobre las satisfacciones de la paz mental que has adquirido al leer detenidamente las radiantes páginas de esta revelación. Es la herencia prevista de todo mortal conocer su relación con el Padre del Paraíso que busca el contacto y la comunión con su confusa pero infinitamente amada progenie planetaria.
 
@@ -198,7 +204,7 @@ Hay un límite de 50 personas para esta reunión. ¡Por favor regístrese tempra
 
 ## Conozca al Comité Ejecutivo
 
-El Comité Ejecutivo de la Fraternidad está compuesto por los funcionarios y los presidentes de los comités. Todos son miembros del Consejo General y sirven al ocuparse de los asuntos cotidianos de la Fraternidad.
+El Comité Ejecutivo de la Fellowship está compuesto por los funcionarios y los presidentes de los comités. Todos son miembros del Consejo General y sirven al ocuparse de los asuntos cotidianos de la Fellowship.
 
 <figure id="Figure_6" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2016_Fall/005901.jpg">
@@ -206,7 +212,7 @@ El Comité Ejecutivo de la Fraternidad está compuesto por los funcionarios y lo
 
 **Michael Challis**
 
-_Presidente de la Hermandad_
+_Presidente de la Brotherhood_
 
 Michael es de la ciudad de Oklahoma, Oklahoma, y ​​es un lector de _El Libro de Urantia_ desde hace mucho tiempo. Fue elegido en julio de 2015 y todos esperamos su liderazgo y dirección.
 
@@ -216,25 +222,25 @@ _Vicepresidente de la Fellowship_
 
 John conoció la revelación mucho antes de que se publicara el libro porque tanto sus padres como sus abuelos eran miembros del Foro, el grupo que ayudó a que el libro existiera. En la escuela secundaria conoció al Dr. Sadler y comenzó a asistir a las reuniones. Como no había ningún libro publicado, tenía que visitar 533, consultar un artículo y leerlo allí.
 
-Comenzó el servicio de la Hermandad como representante de campo, manteniendo correspondencia con los lectores y asistiendo a nuevos grupos de estudio. En 1974 se convirtió en director residente en Chicago y continuó con este estimulante servicio hasta que se jubiló en 2006. Sin fanfarrias ni celosas súplicas de sus antepasados ​​cariñosos, creció en su profunda creencia en un Padre celestial que nos ama a cada uno de nosotros y ha venido a ver cada persona que conoce como hermano o hermana espiritual.
+Comenzó el servicio de la Brotherhood como representante de campo, manteniendo correspondencia con los lectores y asistiendo a nuevos grupos de estudio. En 1974 se convirtió en director residente en Chicago y continuó con este estimulante servicio hasta que se jubiló en 2006. Sin fanfarrias ni celosas súplicas de sus antepasados ​​cariñosos, creció en su profunda creencia en un Padre celestial que nos ama a cada uno de nosotros y ha venido a ver cada persona que conoce como hermano o hermana espiritual.
 
 **Steve Dreier**
 
 _Secretario_
 
-Steve Dreier ha estudiado las enseñanzas de _El Libro de Urantia_ durante más de 40 años. Ha servido a la Fraternidad en una variedad de capacidades y actualmente es el Secretario de la Fraternidad. A lo largo de los años, Steve y su esposa Bárbara han organizado grupos de estudio, asistido a muchas conferencias y, lo que es más importante, han experimentado las consecuencias que cambiaron sus vidas como resultado del intento de seguir las enseñanzas de _El Libro de Urantia_.
+Steve Dreier ha estudiado las enseñanzas de _El Libro de Urantia_ durante más de 40 años. Ha servido a la Fellowship en una variedad de capacidades y actualmente es el Secretario de la Fellowship. A lo largo de los años, Steve y su esposa Bárbara han organizado grupos de estudio, asistido a muchas conferencias y, lo que es más importante, han experimentado las consecuencias que cambiaron sus vidas como resultado del intento de seguir las enseñanzas de _El Libro de Urantia_.
 
 **Emilio Coppola**
 
 _Tesorero_
 
-Emilio empezó a leer _El Libro de Urantia_ en abril de 1996 y ha asistido a grupos de estudio en varias ciudades de los Estados Unidos. Ha desempeñado muchas funciones como miembro de _The Urantia Book_ Society of Greater New York, y también ha sido miembro del New England Urantia Book Group (UAI) desde 2007. Emilio es tesorero de la Fraternidad, así como de la Universidad de Urantia. . Ha sido miembro de las reuniones de la mesa redonda de TI de la Fundación _El Libro de Urantia_ durante varios años y está muy motivado para difundir las enseñanzas de _El Libro de Urantia_ y para servir a sus hermanos y hermanas en todo lo que pueda. ¿De dónde viene su energía? Él dice: «¡Cuanto más leo _El Libro de Urantia_, más quiero contarle a la gente sobre él!».
+Emilio empezó a leer _El Libro de Urantia_ en abril de 1996 y ha asistido a grupos de estudio en varias ciudades de los Estados Unidos. Ha desempeñado muchas funciones como miembro de _The Urantia Book_ Society of Greater New York, y también ha sido miembro del New England Urantia Book Group (UAI) desde 2007. Emilio es tesorero de la Fellowship, así como de la Universidad de Urantia. . Ha sido miembro de las reuniones de la mesa redonda de TI de la Fundación _El Libro de Urantia_ durante varios años y está muy motivado para difundir las enseñanzas de _El Libro de Urantia_ y para servir a sus hermanos y hermanas en todo lo que pueda. ¿De dónde viene su energía? Él dice: «¡Cuanto más leo _El Libro de Urantia_, más quiero contarle a la gente sobre él!».
 
 **Lara Amyx**
 
 _Presidente de Finanzas_
 
-Lara Amyx ha estado involucrada en la Comunidad Urantia durante más de 25 años. Ha sido presidenta de la conferencia para las reuniones anuales de Florida y también secretaria de FSUB anteriormente. Fue Presidenta del Comité de Membresía de la Fraternidad y actualmente es la Presidenta de Finanzas. Lara está casada con Daniel Amyx, otro lector activo de _El Libro de Urantia_ y miembro de la Asociación General del Comité de Membresía. Los dos son dueños y operan dos tiendas de óptica en la Costa del Tesoro de Florida, y usan sus negocios en el ministerio personal.
+Lara Amyx ha estado involucrada en la Fellowship Urantia durante más de 25 años. Ha sido presidenta de la conferencia para las reuniones anuales de Florida y también secretaria de FSUB anteriormente. Fue Presidenta del Comité de Membresía de la Fellowship y actualmente es la Presidenta de Finanzas. Lara está casada con Daniel Amyx, otro lector activo de _El Libro de Urantia_ y miembro de la Asociación General del Comité de Membresía. Los dos son dueños y operan dos tiendas de óptica en la Costa del Tesoro de Florida, y usan sus negocios en el ministerio personal.
 
 **Dana Bredemeyer**
 
@@ -254,13 +260,13 @@ Geoff es un lector de segunda generación descubierto por sí mismo. Nació, se 
 
 _Presidente del Comité de Membresía_
 
-Janet regresó para un segundo mandato en el Consejo General después de criar a tres hijos en una cabaña de troncos al borde del desierto de Oregón. Su enfoque en el consejo es la construcción de comunidad entre los miembros de la Fraternidad y todas las comunidades de lectores, especialmente los adultos jóvenes que representan nuestro futuro liderazgo. Además, sirve en el comité de Vida Familiar, adjunto al comité de Jóvenes y Adultos Jóvenes. El objetivo es archivar los materiales familiares desarrollados durante los últimos 40 años y luego agregar nuevos materiales a medida que se desarrollan.
+Janet regresó para un segundo mandato en el Consejo General después de criar a tres hijos en una cabaña de troncos al borde del desierto de Oregón. Su enfoque en el consejo es la construcción de comunidad entre los miembros de la Fellowship y todas las comunidades de lectores, especialmente los adultos jóvenes que representan nuestro futuro liderazgo. Además, sirve en el comité de Vida Familiar, adjunto al comité de Jóvenes y Adultos Jóvenes. El objetivo es archivar los materiales familiares desarrollados durante los últimos 40 años y luego agregar nuevos materiales a medida que se desarrollan.
 
 **Tony Finstad**
 
 _Cátedra de Jóvenes y Jóvenes_
 
-Tony nació y se crió en Seattle y actualmente vive en el este de Oregón. Encontró el libro a los 19 y ha estado involucrado con la Hermandad/Compañerismo desde entonces. Se siente tan bendecido de ser parte de esta hermosa y diversa familia de creyentes. Es un momento emocionante en la comunidad de Urantia y se siente honrado de servir en la GC. Tony es el presidente actual del Comité de Jóvenes y Adultos Jóvenes. Comuníquese con él en cualquier momento para compartir sus pensamientos o discutir sus visiones para la Comunidad. finstad.anthony@gmail.com
+Tony nació y se crió en Seattle y actualmente vive en el este de Oregón. Encontró el libro a los 19 y ha estado involucrado con la Brotherhood/Fellowship desde entonces. Se siente tan bendecido de ser parte de esta hermosa y diversa familia de creyentes. Es un momento emocionante en la comunidad de Urantia y se siente honrado de servir en la GC. Tony es el presidente actual del Comité de Jóvenes y Adultos Jóvenes. Comuníquese con él en cualquier momento para compartir sus pensamientos o discutir sus visiones para la Fellowship. finstad.anthony@gmail.com
 
 **David Kulieke**
 
@@ -278,11 +284,11 @@ _Cátedra de Publicaciones_
 
 Linda descubrió _El Libro de Urantia_ hace más de 45 años y desde entonces ha dado forma a su vida. Ella ha sido la Presidenta de Publicaciones desde 2000. Su esposo Bob está en el Comité de Membresía, y han vivido en cinco estados, dos de ellos dos veces, y han asistido a grupos de estudio donde existen o han comenzado nuevos si no los hay. Tienen dos hijos mayores, ambos lectores del Libro de Urantia.
 
-Es función del Comité de Publicaciones mantener a los lectores informados sobre las actividades de la Fraternidad y en contacto con los eventos a través del mini Messenger electrónico mensual, el Mighty Messenger y el Fellowship Herald. Si tiene una idea para un artículo, un poema o un anuncio de un evento relacionado con Urantia, comuníquese con Linda a través de la oficina de la Fraternidad.
+Es función del Comité de Publicaciones mantener a los lectores informados sobre las actividades de la Fellowship y en contacto con los eventos a través del mini Messenger electrónico mensual, el Mighty Messenger y el Fellowship Herald. Si tiene una idea para un artículo, un poema o un anuncio de un evento relacionado con Urantia, comuníquese con Linda a través de la oficina de la Fellowship.
 
 **Tim Hobbs**
 
-_Presidente de Fellowships Internacionales_
+_Presidente de la Fellowship Internacionales_
 
 Tim es el presidente del Comité Internacional (www.urantiabook.org) y el presidente de la Conferencia Internacional para IC17 (www.ic17.org). También es presidente del Instituto Universitario Urantia (www.urantiauniversity.org). El Comité Internacional promueve el conocimiento de _El Libro de Urantia_ y sus enseñanzas y ayuda en la difusión del libro entre los habitantes de otros países además de los EE.UU. Tiene un comité maravilloso y están apoyando continuamente a las crecientes comunidades de lectores en América Latina, México, Corea y África. Si tiene interés en la cultura internacional y viaja con otros lectores de El Libro de Urantia, ¡póngase en contacto con nosotros!
 
@@ -301,20 +307,20 @@ Dos puestos quedaron vacantes en el Consejo General (GC) por un período de 18 m
 </figure>
 
 Hay 2 requisitos previos para la elegibilidad:
-1. Un candidato debe ser miembro de la Fraternidad, ya sea un miembro en general o un miembro de la sociedad.
+1. Un candidato debe ser miembro de la Fellowship, ya sea un miembro en general o un miembro de la sociedad.
 2. Un candidato debe haber leído _El Libro de Urantia_ en su totalidad, al menos una vez.
 
 Esta es una elección especial para llenar los puestos vacantes. Los Consejeros Generales suelen ser elegidos por la Asamblea Trienal de Delegados (TDA). Cada tres años, los representantes de las sociedades regionales de Urantia se reúnen con la tarea de elegir o reelegir a 12 Consejeros a término completo. Un mandato completo tiene una duración de nueve años. Ocasionalmente alguien renuncia antes de que expire su mandato, como en este caso. Luego, el Consejo General debe elegir a alguien para ocupar esos puestos temporalmente hasta que se vuelva a reunir la TDA.
 
-El Consejo General es un órgano deliberativo que guía la dirección general de la Fellowship de _El Libro de Urantia_. El GC elige a los 5 funcionarios de la Fraternidad, así como a los presidentes/mujeres que encabezan nuestros 9 comités permanentes. Estas 14 personas se denominan Comité Ejecutivo. El GC también tiene el poder de crear estatutos y cambiar la constitución de la Fraternidad. Puede leer más sobre el Consejo General en nuestra constitución visitando nuestro sitio, www.urantiabook.org, y buscando en «Acerca de nosotros» en el menú principal.
+El Consejo General es un órgano deliberativo que guía la dirección general de la Fellowship de _El Libro de Urantia_. El GC elige a los 5 funcionarios de la Fellowship, así como a los presidentes/mujeres que encabezan nuestros 9 comités permanentes. Estas 14 personas se denominan Comité Ejecutivo. El GC también tiene el poder de crear estatutos y cambiar la constitución de la Fellowship. Puede leer más sobre el Consejo General en nuestra constitución visitando nuestro sitio, www.urantiabook.org, y buscando en «Acerca de nosotros» en el menú principal.
 
-La membresía en el GC implica asistir a solo dos reuniones por año. Las reuniones se llevan a cabo durante un fin de semana y en una variedad de lugares en América del Norte. Las reuniones suelen tener lugar en febrero (en un clima cálido) y nuevamente al cierre de la conferencia de verano de la Fraternidad y en conjunto con ella. Las reuniones del Consejo General comienzan el viernes por la noche durante aproximadamente 4 horas, luego se reanudan el sábado por la mañana durante 8 horas y nuevamente el domingo por la mañana, terminando al mediodía. El sábado por la noche generalmente se lleva a cabo abierto para una reunión social con lectores del área donde se lleva a cabo la reunión. Variamos la ubicación de las reuniones para permitir esta confraternidad y facilitar que los lectores locales conozcan a los líderes de la Fellowship. Este evento es a menudo un punto culminante en las reuniones del Consejo. A veces se puede agregar otro día a la reunión del CG para un retiro.
+La membresía en el GC implica asistir a solo dos reuniones por año. Las reuniones se llevan a cabo durante un fin de semana y en una variedad de lugares en América del Norte. Las reuniones suelen tener lugar en febrero (en un clima cálido) y nuevamente al cierre de la conferencia de verano de la Fellowship y en conjunto con ella. Las reuniones del Consejo General comienzan el viernes por la noche durante aproximadamente 4 horas, luego se reanudan el sábado por la mañana durante 8 horas y nuevamente el domingo por la mañana, terminando al mediodía. El sábado por la noche generalmente se lleva a cabo abierto para una reunión social con lectores del área donde se lleva a cabo la reunión. Variamos la ubicación de las reuniones para permitir esta confraternidad y facilitar que los lectores locales conozcan a los líderes de la Fellowship. Este evento es a menudo un punto culminante en las reuniones del Consejo. A veces se puede agregar otro día a la reunión del CG para un retiro.
 
-Las agendas de las reuniones generalmente consisten en informes de los funcionarios y presidentes de comités permanentes, discusión de políticas y propuestas para nuevas áreas de servicio y difusión. Las reuniones son presididas por el Presidente de la Fraternidad y se llevan a cabo de acuerdo con las Reglas de Orden de Roberts.
+Las agendas de las reuniones generalmente consisten en informes de los funcionarios y presidentes de comités permanentes, discusión de políticas y propuestas para nuevas áreas de servicio y difusión. Las reuniones son presididas por el Presidente de la Fellowship y se llevan a cabo de acuerdo con las Reglas de Orden de Roberts.
 
 Es importante tener en cuenta que los Concejales deben poder cubrir sus propios costos para asistir a las reuniones. Esto incluye el viaje a la reunión, la habitación del hotel y las comidas. La asistencia financiera ocasional puede estar disponible para los Concejales si las circunstancias les impiden cubrir estos gastos.
 
-Estar en el Consejo General de la Fraternidad es una experiencia increíble. Algunos Consejeros Generales han servido por 2, 3 y 4 términos de 9 años. Se establecen amistades para toda la vida y la belleza de la deliberación, la sabiduría grupal y el trabajo en equipo se iluminan de maneras notables e inspiradoras.
+Estar en el Consejo General de la Fellowship es una experiencia increíble. Algunos Consejeros Generales han servido por 2, 3 y 4 términos de 9 años. Se establecen amistades para toda la vida y la belleza de la deliberación, la sabiduría grupal y el trabajo en equipo se iluminan de maneras notables e inspiradoras.
 
 Si cree que le gustaría unirse a la larga lista de Consejeros generales que han servido fielmente al movimiento Urantia durante 60 años, puede buscar y completar nuestra «Solicitud de servicio organizacional» que se encuentra nuevamente en la página «Acerca de nosotros». Desplácese hacia abajo en la página para encontrar los enlaces de la aplicación. Llame a la oficina al 303-467-7858 si necesita ayuda con esto.
 
@@ -330,7 +336,7 @@ Los miembros del Comité de Educación de _El Libro de Urantia_ Fellowship se de
 
 Además, el comité ha estado buscando formas de llevar sus esfuerzos al campo. Este año, el comité programó su reunión anual de fin de semana en Fort Wayne, Indiana. El sábado por la tarde y por la noche, los miembros del comité presentaron un taller y una cena para lectores locales, incluidos miembros de la Fort Wayne Society. El taller, «Los 12 Apóstoles», fue una oportunidad para tomar materiales que el comité está desarrollando y practicar sus principios.
 
-Este taller, junto con muchos otros materiales educativos, puede adquirirse en la página web del Comité de Educación, que se encuentra en la pestaña «Estudio» en el sitio web de la Fellowship de _El Libro de Urantia_. Entre los materiales gratuitos se encuentran los «12 Apóstoles» y otros materiales de estudio y talleres para ser descargados y utilizados por cualquier grupo o individuo. Uno puede encontrar estos talleres en «Recursos». Otros recursos valiosos son las «Referencias educativas principales de _El Libro de Urantia_ por categoría» de varias páginas y una colorida «Comunidad: inicio y organización de grupos de estudio efectivos». El comité está trabajando duro para mejorar su sitio web, añadir recursos a los lectores y desarrollar más servicios útiles para la comunidad Urantia.
+Este taller, junto con muchos otros materiales educativos, puede adquirirse en la página web del Comité de Educación, que se encuentra en la pestaña «Estudio» en el sitio web de la Fellowship de _El Libro de Urantia_. Entre los materiales gratuitos se encuentran los «12 Apóstoles» y otros materiales de estudio y talleres para ser descargados y utilizados por cualquier grupo o individuo. Uno puede encontrar estos talleres en «Recursos». Otros recursos valiosos son las «Referencias educativas principales de _El Libro de Urantia_ por categoría» de varias páginas y una colorida «Fellowship: inicio y organización de grupos de estudio efectivos». El comité está trabajando duro para mejorar su sitio web, añadir recursos a los lectores y desarrollar más servicios útiles para la comunidad Urantia.
 
 ## ¿Busca un grupo de estudio?
 
@@ -405,7 +411,7 @@ Se habló en el grupo sobre la planificación de la próxima conferencia rusa y 
 
 Por _Buck Weimer_
 
-Todo comenzó en 2011. El Comité Internacional de Fraternidad reunió a un equipo muy alegre de creyentes diversos para la Feria del Libro de Ghana en África (Charlene Morrow, Joan Evans, Arlene Weimer, Ed Harrigan, Tim Hobbs y yo).
+Todo comenzó en 2011. El Comité Internacional de la Fellowship reunió a un equipo muy alegre de creyentes diversos para la Feria del Libro de Ghana en África (Charlene Morrow, Joan Evans, Arlene Weimer, Ed Harrigan, Tim Hobbs y yo).
 
 El segundo día de Feria, y ante nuestro gran asombro, Emeka Anazodo se presentó en nuestro hotel dispuesto a trabajar con nosotros en el stand. Emeka, un ingeniero de Lagos, Nigeria, viajó en autobús las 336 millas hasta Ghana y de alguna manera nos ubicó en nuestro hotel. Habiendo encontrado _El Libro de Urantia_ en Internet, y después de unos pocos correos electrónicos correspondientes sobre la Feria del Libro de Ghana, dijo que estaría allí.
 
@@ -425,7 +431,7 @@ El 23 de junio de 2016, Paula Thompson y Joann Wiedman accedieron a Pipeline of 
 
 Luego, el 24 de septiembre, se recibió este correo electrónico de Emeka: «Con mucho gusto les anuncio que hemos recibido los libros. Encuentre fotos adjuntas que tomamos en el almacén de la empresa de logística que envió los libros».
 
-Qué emoción fue recibir este mensaje; como lo fue para los Gerentes de la Oficina de Fellowships, Pipeline of Light, Northern Light Society y los miembros pasados ​​y presentes del Comité Internacional de Fellowships.
+Qué emoción fue recibir este mensaje; como lo fue para los Gerentes de la Oficina de la Fellowship, Pipeline of Light, Northern Light Society y los miembros pasados ​​y presentes del Comité Internacional de la Fellowship.
 
 Estos libros fueron enviados a los líderes de Nigeria sin costo alguno. Nuestro acuerdo con ellos es que, cuando estén listos para un segundo envío de Libros de Urantia, el costo para ellos será la mitad.
 
@@ -438,7 +444,7 @@ El próximo año estará lleno de una serie de actividades para los lectores de 
 - **29 al 23 de julio de 2017 Conferencia Internacional «Spreading Our Wings»**, Denver, CO. Para más información: www.ic17.org.
 - **18 al 21 de agosto de 2017 Simposio científico**, Experiencia del eclipse solar en el cumpleaños de Jesús, Wilderness Camping & Retreat Center, Lawson, MO. Para más información: tommykaren1@att.net.
 
-No olvide que la Fraternidad necesita su ayuda para continuar sirviendo a la revelación en todo el mundo. Para obtener información sobre varias opciones de donación, visite el sitio web de la Fellowship: www.urantiabook.org. y presione el enlace "Donar". O envíe un cheque a la Fellowship de _El Libro de Urantia_, PO Box 6631, Broomfield, CO, 89921, EE. UU.
+No olvide que la Fellowship necesita su ayuda para continuar sirviendo a la revelación en todo el mundo. Para obtener información sobre varias opciones de donación, visite el sitio web de la Fellowship: www.urantiabook.org. y presione el enlace "Donar". O envíe un cheque a la Fellowship de _El Libro de Urantia_, PO Box 6631, Broomfield, CO, 89921, EE. UU.
 
 ## Equipo del Mighty Messenger
 
@@ -460,6 +466,9 @@ www.urantiabook.org
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2016_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2016</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2016">
@@ -467,6 +476,9 @@ www.urantiabook.org
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2017_Spring">
+          <span class="pr-2">Edición de primavera de 2017</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

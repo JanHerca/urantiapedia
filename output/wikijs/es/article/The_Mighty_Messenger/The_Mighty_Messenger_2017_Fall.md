@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2017_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2017</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2017">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2018_Summer">
+          <span class="pr-2">Edición de verano de 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -33,7 +39,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Únase a nosotros el próximo verano, del 19 al 22 de julio de 2018, en Techny Towers en Northbrook, IL, para la sesión de estudio de verano de la Fellowship, patrocinada por el Comité de Educación. Nuestro tema es «Es un Universo Amigo: Sirviendo con Nuestra Familia Celestial». Están previstas una serie de actividades.
 
-El 17 de julio, la Asamblea Trienal de Delegados se reunirá para elegir candidatos para ocupar más de una docena de puestos en el Consejo General de la Fraternidad. Si tiene interés en servir en la revelación en uno de estos puestos, consulte la página 3 de esta edición para obtener más información y un formulario de solicitud para el servicio en el Consejo.
+El 17 de julio, la Asamblea Trienal de Delegados se reunirá para elegir candidatos para ocupar más de una docena de puestos en el Consejo General de la Fellowship. Si tiene interés en servir en la revelación en uno de estos puestos, consulte la página 3 de esta edición para obtener más información y un formulario de solicitud para el servicio en el Consejo.
 
 Además, justo antes del comienzo de la sesión de estudio, es costumbre que se celebren reuniones especiales, como retiros espirituales. Si tiene interés en estas actividades, pronto habrá más información.
 
@@ -63,17 +69,17 @@ Soy un técnico iterativo, innovador y experimentalista de 66 años con experien
 
 Por _Paula Thompson_
 
-Hay un total de treinta y seis puestos en el Consejo General y también se abrirán al menos doce puestos más este verano. Para ser elegible, una persona debe ser miembro de la Fraternidad, ya sea un miembro en general o un miembro de la sociedad. Además, la constitución de la Fraternidad requiere que usted haya leído _El Libro de Urantia_ en su totalidad, al menos una vez, como requisito previo para el servicio. Los Consejeros Generales suelen ser elegidos por la Asamblea Trienal de Delegados (TDA). Cada tres años, los representantes de las sociedades regionales de Urantia se reúnen con la tarea de elegir o reelegir doce Consejeros a término completo. Un mandato completo tiene una duración de nueve años. Ocasionalmente, alguien renuncia antes de que expire su mandato. El GC llena este puesto temporalmente hasta que el TDA pueda elegir a alguien para terminar el resto del mandato de esa persona.
+Hay un total de treinta y seis puestos en el Consejo General y también se abrirán al menos doce puestos más este verano. Para ser elegible, una persona debe ser miembro de la Fellowship, ya sea un miembro en general o un miembro de la sociedad. Además, la constitución de la Fellowship requiere que usted haya leído _El Libro de Urantia_ en su totalidad, al menos una vez, como requisito previo para el servicio. Los Consejeros Generales suelen ser elegidos por la Asamblea Trienal de Delegados (TDA). Cada tres años, los representantes de las sociedades regionales de Urantia se reúnen con la tarea de elegir o reelegir doce Consejeros a término completo. Un mandato completo tiene una duración de nueve años. Ocasionalmente, alguien renuncia antes de que expire su mandato. El GC llena este puesto temporalmente hasta que el TDA pueda elegir a alguien para terminar el resto del mandato de esa persona.
 
-El Consejo General es un órgano deliberativo que guía la dirección general de la Fellowship de _El Libro de Urantia_. El GC elige a los cinco funcionarios de la Fraternidad, así como a los presidentes/mujeres que encabezan nuestros nueve comités permanentes. Estas catorce personas se denominan Comité Ejecutivo. El GC también tiene el poder de crear estatutos y cambiar la constitución de la Fraternidad. Para leer más sobre el Consejo General de nuestra constitución, vaya a: www.urantia-book.org/Constitution/Constitution2013-02-09.pdf
+El Consejo General es un órgano deliberativo que guía la dirección general de la Fellowship de _El Libro de Urantia_. El GC elige a los cinco funcionarios de la Fellowship, así como a los presidentes/mujeres que encabezan nuestros nueve comités permanentes. Estas catorce personas se denominan Comité Ejecutivo. El GC también tiene el poder de crear estatutos y cambiar la constitución de la Fellowship. Para leer más sobre el Consejo General de nuestra constitución, vaya a: www.urantia-book.org/Constitution/Constitution2013-02-09.pdf
 
-La membresía en el GC implica asistir a solo dos reuniones por año. Las reuniones se llevan a cabo durante un fin de semana y en una variedad de lugares en América del Norte. Las reuniones suelen tener lugar en febrero (en un clima cálido) y nuevamente al cierre de la conferencia de verano de la Fraternidad y en conjunto con ella. Las reuniones del Consejo General comienzan el viernes por la noche durante aproximadamente cuatro horas, luego se reanudan el sábado por la mañana durante ocho horas y nuevamente el domingo por la mañana, terminando al mediodía. El sábado por la noche generalmente se lleva a cabo abierto para una reunión social con lectores del área donde se lleva a cabo la reunión. Variamos la ubicación de las reuniones para permitir esta confraternidad y facilitar que los lectores locales conozcan a los líderes de la Fellowship. Este evento es a menudo un punto culminante en las reuniones del Consejo. A veces se puede agregar otro día a la reunión del CG para un retiro.
+La membresía en el GC implica asistir a solo dos reuniones por año. Las reuniones se llevan a cabo durante un fin de semana y en una variedad de lugares en América del Norte. Las reuniones suelen tener lugar en febrero (en un clima cálido) y nuevamente al cierre de la conferencia de verano de la Fellowship y en conjunto con ella. Las reuniones del Consejo General comienzan el viernes por la noche durante aproximadamente cuatro horas, luego se reanudan el sábado por la mañana durante ocho horas y nuevamente el domingo por la mañana, terminando al mediodía. El sábado por la noche generalmente se lleva a cabo abierto para una reunión social con lectores del área donde se lleva a cabo la reunión. Variamos la ubicación de las reuniones para permitir esta confraternidad y facilitar que los lectores locales conozcan a los líderes de la Fellowship. Este evento es a menudo un punto culminante en las reuniones del Consejo. A veces se puede agregar otro día a la reunión del CG para un retiro.
 
-Las agendas de las reuniones generalmente consisten en informes de los funcionarios y presidentes de comités permanentes, discusión de políticas y propuestas para nuevas áreas de servicio y difusión. Las reuniones son presididas por el Presidente de la Fraternidad y se llevan a cabo de acuerdo con las Reglas de Orden de Roberts.
+Las agendas de las reuniones generalmente consisten en informes de los funcionarios y presidentes de comités permanentes, discusión de políticas y propuestas para nuevas áreas de servicio y difusión. Las reuniones son presididas por el Presidente de la Fellowship y se llevan a cabo de acuerdo con las Reglas de Orden de Roberts.
 
 Es importante tener en cuenta que los Concejales deben poder cubrir sus propios costos para asistir a las reuniones. Esto incluye el viaje a la reunión, la habitación del hotel y las comidas. La asistencia financiera ocasional puede estar disponible para los Concejales si las circunstancias les impiden cubrir estos gastos.
 
-Estar en el Consejo General de la Fraternidad es una experiencia increíble. Algunos Consejeros Generales han servido por 2, 3 y 4 términos de nueve años. Se establecen amistades para toda la vida y la belleza de la deliberación, la sabiduría grupal y el trabajo en equipo se iluminan de maneras notables e inspiradoras.
+Estar en el Consejo General de la Fellowship es una experiencia increíble. Algunos Consejeros Generales han servido por 2, 3 y 4 términos de nueve años. Se establecen amistades para toda la vida y la belleza de la deliberación, la sabiduría grupal y el trabajo en equipo se iluminan de maneras notables e inspiradoras.
 
 Si, después de leer esto y consultar con nuestro Padre, cree que le gustaría unirse a la larga lista de Consejeros generales que han servido fielmente al movimiento Urantia durante 60 años, complete la solicitud para: Solicitud de servicio organizacional, en nuestro sitio web .
 
@@ -93,7 +99,7 @@ Muchas gracias por su apoyo, Michelle Klimesh, reportera de Pipeline
 
 Por _Michael Painter_
 
-Los siguientes son pensamientos sobre la conferencia de la Red Interreligiosa de América del Norte preparada por Cristina Seaborn y Michael Painter, copresidentes del Comité Interreligioso, quienes representaron a la Fraternidad en la Conferencia Interreligiosa en La Jolla, California. Para obtener más información sobre NAIN, visite http://www.nain.org/who-we-are.htm.
+Los siguientes son pensamientos sobre la conferencia de la Red Interreligiosa de América del Norte preparada por Cristina Seaborn y Michael Painter, copresidentes del Comité Interreligioso, quienes representaron a la Fellowship en la Conferencia Interreligiosa en La Jolla, California. Para obtener más información sobre NAIN, visite http://www.nain.org/who-we-are.htm.
 
 Las primeras personas que conocimos fueron los organizadores de la conferencia, los reverendos Steve y Abigail Albert, una pareja muy amable y agradable. Hubo 260 asistentes y 21 religiones representadas (22 si se incluye el ateísmo).
 
@@ -229,13 +235,13 @@ First Society sigue siendo un grupo muy activo que se enfrenta al desafío de mu
 
 ¿Qué sucede cuando los miembros de una sociedad Fellowship se dispersan a los cuatro vientos?
 
-En 1961, la Sociedad Orvonton de Chicago (Orvonton porque fue la séptima sociedad instalada por la Hermandad Urantia) tenía más miembros que el número requerido para una nueva sociedad. Pero en la reunión del 50 aniversario en Indianápolis, se notó que su membresía se había mudado a nuevas ubicaciones, algunas tan lejos de Chicago como de México. Los miembros fueron contactados anualmente, pero la mayoría estaban demasiado lejos para asistir a las reuniones regulares. Algunos miembros habían comenzado o se habían unido a grupos de estudio donde vivían. Durante unos cuatro años previos al año 2005, la sociedad se volvió esencialmente inactiva.
+En 1961, la Sociedad Orvonton de Chicago (Orvonton porque fue la séptima sociedad instalada por la Brotherhood Urantia) tenía más miembros que el número requerido para una nueva sociedad. Pero en la reunión del 50 aniversario en Indianápolis, se notó que su membresía se había mudado a nuevas ubicaciones, algunas tan lejos de Chicago como de México. Los miembros fueron contactados anualmente, pero la mayoría estaban demasiado lejos para asistir a las reuniones regulares. Algunos miembros habían comenzado o se habían unido a grupos de estudio donde vivían. Durante unos cuatro años previos al año 2005, la sociedad se volvió esencialmente inactiva.
 
 Las sociedades generalmente se encuentran en un lugar específico, Los Ángeles, Nueva York, Oklahoma, etc., pero la mayor cantidad de miembros de Orvonton en un lugar estaban en Indianápolis en ese momento, no en Chicago. En 2005, los miembros votaron en un nuevo Comité de Gobierno que decidió eliminar el 'Chicago' del título y hacer que la sociedad en su conjunto vuelva a trabajar activamente. En 2007, los miembros votaron a favor de enmendar la constitución para eliminar «Chicago» de su título.
 
 La sociedad se volvió 'virtual' realizando reuniones de negocios utilizando conferencias ZOOM, así como intercambios de correo electrónico. Además, los grupos de estudio regulares de los miércoles por la noche se volvieron 'virtuales' también usando ZOOM. Los grupos de estudio están abiertos a todos los miembros e invitados. Otros miembros están comenzando sus propios grupos de estudio.
 
-La Sociedad de Orvonton está viva de nuevo y su membresía está creciendo. Tres de sus miembros ahora se desempeñan como presidentes de comités y en el comité ejecutivo de Fellowships, y la sociedad organizó una conferencia regional del medio oeste en Indianápolis en 2016.
+La Sociedad de Orvonton está viva de nuevo y su membresía está creciendo. Tres de sus miembros ahora se desempeñan como presidentes de comités y en el comité ejecutivo de la Fellowship, y la sociedad organizó una conferencia regional del medio oeste en Indianápolis en 2016.
 
 ### Sociedad del Libro de Urantia del Gran Cañón
 
@@ -278,7 +284,7 @@ Tema: Cultivando Relaciones Eternas: Alcanzando, Alcanzando, Alcanzando Lugar: C
 - **9 al 11 de febrero de 2018**, Conferencia de Florida, Ellenton FL. Centro de conferencias Dayspring. Para obtener más información, comuníquese con abcsociety606@gmail.com.
 - **22 al 24 de junio de 2018** – Conferencia Regional del Medio Oeste, Madison, Wisconsin
 - **19 al 22 de julio de 2018** – Sesión de estudio de verano, Techny Towers, Northbrook, IL. «Es un Universo Amigo: Sirviendo con Nuestra Familia Celestial», para información contactar a jacquelyn.koury@gmail.com.
-- **Septiembre. 6 – 9, 2018** – Conferencia Regional de las Comunidades Urantianas del Noroeste (UCNOW), Campamento de Wallow Lake, Joseph, Oregón
+- **Septiembre. 6 – 9, 2018** – Conferencia Regional de las Fellowshipes Urantianas del Noroeste (UCNOW), Campamento de Wallow Lake, Joseph, Oregón
 
 ## Equipo del Mighty Messenger
 
@@ -300,6 +306,9 @@ www.urantiabook.org
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2017_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2017</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2017">
@@ -307,6 +316,9 @@ www.urantiabook.org
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2018_Summer">
+          <span class="pr-2">Edición de verano de 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

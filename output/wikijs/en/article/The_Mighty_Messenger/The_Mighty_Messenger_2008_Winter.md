@@ -40,9 +40,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 “I hope you don’t mind my saying, but your God-consciousness is showing.” Have you noticed _The Urantia Book_ places definitions of God-consciousness conspicuously in the last sentence of the Foreword and the first sentence of the last paragraph in the whole book?
 
-> “…the ever-progressing reality of personal religious experience—God-consciousness.” [F:XII.12](/en/The_Urantia_Book/0#p12_12)
+> “…the ever-progressing reality of personal religious experience—God-consciousness.” [F:XII.13](/en/The_Urantia_Book/0#p12_13)
 
-> “And God-consciousness is equivalent to the integration of the self with the universe…” [[UB 196:3.32](/en/The_Urantia_Book/196#p3_32)]
+> “And God-consciousness is equivalent to the integration of the self with the universe…” [[UB 196:3.35](/en/The_Urantia_Book/196#p3_35)]
 
 The entire teachings are held in the arms of God-consciousness. At every level of our progress, it is this continuous effort to push the envelope of self, soul and spirit consciousness that constitutes God-consciousness. It is the experience and fact of becoming more real.
 

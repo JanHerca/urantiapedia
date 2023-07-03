@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2005_Winter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de invierno de 2005</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2006">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2006_Fall">
+          <span class="pr-2">Edición de otoño de 2006</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -46,7 +52,7 @@ A partir del domingo por la tarde, el Consejo General se reunirá para elegir fu
 
 En la agenda del fin de semana se incluirá una visita guiada a 533 Diversey.
 
-Si tiene más preguntas, llame gratis a la oficina de Fellowship al 877-288-3772 o envíenos un correo electrónico a fellowship@urantiabook.org.
+Si tiene más preguntas, llame gratis a la oficina de la Fellowship al 877-288-3772 o envíenos un correo electrónico a fellowship@urantiabook.org.
 
 ## Presentadores buscados para SSS '06
 
@@ -116,11 +122,11 @@ Cuando Juan era todavía adolescente, con el corazón inflamado por el descubrim
 
 Conozco a John desde hace unos 36 años. Hemos viajado juntos por Europa y Asia (en las grandes aventuras de Berkeley Elliot), hemos conducido juntos en muchos viajes en automóvil a eventos de Urantia o para conocer nuevos lectores y grupos de estudio. Hemos navegado juntos en canoa, compartido habitaciones y muchas noches cálidas de debate. A lo largo de todos estos años he visto crecer el espíritu dentro de él, desplegando la belleza interior de su alma en evolución.
 
-Cualquiera que sea la otra capacidad en la que continúe sirviendo a los propósitos de Apocalipsis, creo que John estaría bien preparado para el trabajo de Embajador general de la Fraternidad. Su amplio conocimiento, su firmeza, su comprensión de la historia y las tradiciones, y su extraordinaria calidez y compasión seguramente ayudarán a crear una cultura dentro de nuestra creciente comunidad que enorgullecerá al Maestro.
+Cualquiera que sea la otra capacidad en la que continúe sirviendo a los propósitos de Apocalipsis, creo que John estaría bien preparado para el trabajo de Embajador general de la Fellowship. Su amplio conocimiento, su firmeza, su comprensión de la historia y las tradiciones, y su extraordinaria calidez y compasión seguramente ayudarán a crear una cultura dentro de nuestra creciente comunidad que enorgullecerá al Maestro.
 
 —Paul Snider
 
-> Conocer a los hermanos y hermanas, conocer sus problemas y aprender a amarlos, es la suprema experiencia de vivir. [[LU 130:2.6](/es/The_Urantia_Book/130#p2_6)]
+> Conocer a nuestros hermanos y hermanas, comprender sus problemas y aprender a amarlos, es la experiencia suprema de la vida. [[LU 130:2.6](/es/The_Urantia_Book/130#p2_6)]
 
 ## Noticias del grupo de estudio
 
@@ -159,7 +165,7 @@ Ellos amablemente nos proporcionaron las siguientes fotos de algunos de los grup
 ## ¿Está su grupo de estudio en la lista?
 
 ¿Es precisa la lista? Puede encontrar una lista de grupos de estudio de _El Libro de Urantia_ en
-el sitio web de la Comunidad en http://urantiabook.org/study_groups/domestic_study_groups.htm.
+el sitio web de la Fellowship en http://urantiabook.org/study_groups/domestic_study_groups.htm.
 
 Esta lista se actualiza constantemente gracias a los esfuerzos voluntarios de Bobbie Dreier, de la Sociedad de Nueva York. Ella necesita asegurarse de que la información de su grupo esté actualizada. Si tiene un grupo para agregar o una corrección para hacer en la lista actual, comuníquese con Bobbie en bdreier@earthlink.net.
 
@@ -203,7 +209,7 @@ El proyecto de grupo de estudio hermano empareja a cada nuevo grupo de estudio c
 
 Durante finales de 2005 y principios de 2006, Agustín viajó mucho por todo México, así como por Perú, Bolivia, Guatemala, Honduras, Panamá, El Salvador y Belice. En los próximos meses viajará a España, Francia, Italia y República Checa para continuar con su trabajo. La tercera «Conferencia de las Tres Américas» anual tendrá lugar este mayo en Guayaquil, Ecuador. Las conferencias en Chile y Argentina están previstas para el otoño.
 
-Agustín es miembro general y consejero general de la Fraternidad. Es el fundador del Grupo Orvonton, una organización nacional que sirve a los lectores del Libro de Urantia en México. A pesar de lo importantes que pueden ser estas afiliaciones para él, tiene claro que el Grupo Orvonton, y cualquier grupo con el que trabaje en América Latina, puede desarrollarse de manera independiente y adecuada a la cultura del país.
+Agustín es miembro general y consejero general de la Fellowship. Es el fundador del Grupo Orvonton, una organización nacional que sirve a los lectores del Libro de Urantia en México. A pesar de lo importantes que pueden ser estas afiliaciones para él, tiene claro que el Grupo Orvonton, y cualquier grupo con el que trabaje en América Latina, puede desarrollarse de manera independiente y adecuada a la cultura del país.
 
 ## Si no eres tú, ¿entonces quién?
 
@@ -217,9 +223,9 @@ Nuestro objetivo es lograr que otras 100 personas donen $20-50 por mes (o más) 
 
 ## Sociedades eligen delegados
 
-La mayoría de las Sociedades de la Fellowship de _El Libro de Urantia_ han celebrado o están a punto de celebrar su reunión anual. Cada tres años, todos comparten al menos un punto de la agenda: la elección de un Delegado y un Delegado Alterno para asistir a la Asamblea Trienal de Delegados (TDA). El TDA está programado para comenzar a las 7:00 p. m. del miércoles 5 de julio y continuar hasta el día siguiente en la Universidad Dominicana, en River Forest, Illinois, un suburbio de Chicago. La oficina de Fellowships debe ser notificada dentro de los 15 días posteriores a una elección y al menos 60 días antes de la TDA, siendo el 5 de mayo la fecha límite.
+La mayoría de las Sociedades de la Fellowship de _El Libro de Urantia_ han celebrado o están a punto de celebrar su reunión anual. Cada tres años, todos comparten al menos un punto de la agenda: la elección de un Delegado y un Delegado Alterno para asistir a la Asamblea Trienal de Delegados (TDA). El TDA está programado para comenzar a las 7:00 p. m. del miércoles 5 de julio y continuar hasta el día siguiente en la Universidad Dominicana, en River Forest, Illinois, un suburbio de Chicago. La oficina de la Fellowship debe ser notificada dentro de los 15 días posteriores a una elección y al menos 60 días antes de la TDA, siendo el 5 de mayo la fecha límite.
 
-La selección de un Delegado y un Suplente es un deber y privilegio muy importante para una Sociedad. Los representantes de la sociedad elegirán a 12 de los 36 miembros del Consejo General (la junta directiva de la Fraternidad) cuyos mandatos expiran este año, además de llenar al menos 3 vacantes creadas por renuncias. En segundo lugar, la TDA puede influir en la agenda del Consejo General al aprobar resoluciones para que el Consejo las considere.
+La selección de un Delegado y un Suplente es un deber y privilegio muy importante para una Sociedad. Los representantes de la sociedad elegirán a 12 de los 36 miembros del Consejo General (la junta directiva de la Fellowship) cuyos mandatos expiran este año, además de llenar al menos 3 vacantes creadas por renuncias. En segundo lugar, la TDA puede influir en la agenda del Consejo General al aprobar resoluciones para que el Consejo las considere.
 
 Los representantes de la sociedad deben ser elegidos por cualidades que coincidan con las tareas de la TDA. La Asamblea puede seleccionar a los mejores miembros para el Consejo cuando los propios delegados hayan asistido a las reuniones del Consejo, sepan cómo funciona y aprecien el tipo de voluntarios que el Consejo necesita para funcionar con eficacia. El conocimiento de la Constitución de la Fellowship y cómo funciona la organización también es importante. Por supuesto, no hay sustituto para conocer personalmente a los candidatos y estar al tanto de sus contribuciones a la revelación. Finalmente, los representantes de la Sociedad que son sensatos y que trabajan en equipo contribuyen en gran medida al proceso deliberativo de la Asamblea. Cada Delegado debe haber leído _El Libro de Urantia_ en su totalidad.
 
@@ -227,7 +233,7 @@ Representación inteligente y entrenada. La supervivencia de la democracia depen
 
 ## Esto y aquello
 
-- La Conferencia Internacional de Fellowships IC '08 se llevará a cabo en la Universidad Estatal de San Diego del 16 al 20 de julio de 2008. Si desea ser voluntario para ser parte del equipo de la conferencia, envíe un correo electrónico a la coordinadora de la conferencia Susan Cook a solonia@juno .com.
+- La Conferencia Internacional de la Fellowship IC '08 se llevará a cabo en la Universidad Estatal de San Diego del 16 al 20 de julio de 2008. Si desea ser voluntario para ser parte del equipo de la conferencia, envíe un correo electrónico a la coordinadora de la conferencia Susan Cook a solonia@juno .com.
 - Nuevo en el sitio web - Una amplia gama de materiales nuevos (ayudas de estudio, materiales históricos, fotografías y programas de audio) aparecerán en la Fellowship durante los meses de verano. Este es el resultado de un proyecto de digitalización a gran escala que actualmente está a cargo de Larry Watkins. Para saber qué se está publicando, consulte la sección ¿Qué hay de nuevo? página en el sitio web en http://urantiabook.org/whatswnew.htm. Esta página enumerará nuevos materiales a medida que se publiquen.
 - Una traducción farsi parcialmente completa de _El Libro de Urantia_ ya está disponible en Internet en http://www.starcomone.com/farsi/ gracias a Hamid Mazdeh, Behzad Sarmast y otros que trabajan en este importante proyecto. Como verá si se desplaza hacia abajo en el menú del lado izquierdo de la página de inicio, la mayoría de los documentos completos se encuentran en las Partes II y III.
 
@@ -270,13 +276,13 @@ Dorado, CO 80401
 
 Si envía documentos a Larry, comuníquese con él por correo electrónico o por teléfono para informarle que llegarán. Su número de teléfono es 303-278-9590.
 
-> «El conocimiento se posee solo compartiendo;» [[LU 48:7.28](/es/The_Urantia_Book/48#p7_28)]
+> «El conocimiento sólo se posee compartiéndolo;» [[LU 48:7.28](/es/The_Urantia_Book/48#p7_28)]
 
 ## Próximos Eventos…
 
 - 5 y 6 de julio de 2006 - _El Libro de Urantia_ Asamblea trienal de delegados en la Universidad Dominicana, River Forest, IL. (Ver pág. 8 de este número)
 - 7 al 9 de julio de 2006 - Sesión de estudio de verano '06 en la Universidad Dominicana, River Forest, IL. El tema es «Ministros celestiales: visibles e invisibles». Formulario de inscripción adjunto.
-- 9 y 10 de julio de 2006 - Reunión del Consejo General de la Fraternidad. Visitantes invitados a observar la reunión después de la sesión cerrada durante la cual se llevan a cabo las elecciones.
+- 9 y 10 de julio de 2006 - Reunión del Consejo General de la Fellowship. Visitantes invitados a observar la reunión después de la sesión cerrada durante la cual se llevan a cabo las elecciones.
 - 14-18 de julio de 2006 - Conferencia Internacional de la UAI en Sydney, Australia. Tema: «Las recompensas del aislamiento». Hay más información disponible en www.urantia.org.au/anzura/iuaconference 2006.
 - 4 al 21 de agosto de 2006 - Varios retiros en Silver Springs, Ontario. Más información disponible en www.ubretreats.ca o llame gratis al 1-800-546-5601.
 - 25 al 27 de agosto de 2006 - Retiro Anual de la Red de Retiros. Tema: «Entregarse al Espíritu», en el Centro de Retiros Kindred Spirits, Eugene, Oregón. Para obtener más información, comuníquese con Jeannette Schafer en jeannetts@comcast.net.
@@ -302,6 +308,9 @@ www.urantiabook.org
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2005_Winter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de invierno de 2005</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2006">
@@ -309,6 +318,9 @@ www.urantiabook.org
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2006_Fall">
+          <span class="pr-2">Edición de otoño de 2006</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

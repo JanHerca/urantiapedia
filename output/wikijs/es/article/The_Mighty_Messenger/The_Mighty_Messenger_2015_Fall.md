@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2015_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2015</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2015">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2016_Spring">
+          <span class="pr-2">Edición de primavera de 2016</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -34,19 +40,19 @@ Por _David Kulieke_
 
 A raíz de un puesto conjunto de _El Libro de Urantia_ de la Asociación Internacional de Urantia, la Fellowship de _El Libro de Urantia_ y la Fundación Urantia en el Parlamento de Religiones del Mundo de octubre de 2015 en Salt Lake City, los planificadores se están preparando afanosamente para otra empresa unificada. Organizarán una conferencia conjunta titulada «Jesús, el Gran Maestro», que se llevará a cabo en San Antonio, Texas, del 9 al 12 de junio de 2016.
 
-En la conferencia internacional de la UAI en julio de 2015, el presidente Chris Wood anunció que la Asociación Urantia de los Estados Unidos presentaría su conferencia de verano de 2016 junto con la sesión de estudio de verano de 2016 planificada regularmente del Comité de Educación de la Fraternidad. Las sesiones de estudio de verano han tenido lugar dos de cada tres años desde la década de 1970 durante el año sin una conferencia internacional de Fellowshiprios. Están diseñados para mejorar el estudio profundo y de alta calidad de las enseñanzas de _El Libro de Urantia_.
+En la conferencia internacional de la UAI en julio de 2015, el presidente Chris Wood anunció que la Asociación Urantia de los Estados Unidos presentaría su conferencia de verano de 2016 junto con la sesión de estudio de verano de 2016 planificada regularmente del Comité de Educación de la Fellowship. Las sesiones de estudio de verano han tenido lugar dos de cada tres años desde la década de 1970 durante el año sin una conferencia internacional de la Fellowshiprios. Están diseñados para mejorar el estudio profundo y de alta calidad de las enseñanzas de _El Libro de Urantia_.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2015_Fall/005862.jpg">
 </figure>
 
-Chris se había acercado a David Kulieke, el presidente del Comité de Educación de la Fraternidad, en la primavera. Chris vio una oportunidad para una conferencia combinada basada en el tema previsto para la conferencia de verano de la UAUS sobre capacitación de maestros y líderes. Él y David tuvieron varias conversaciones e intercambiaron correos electrónicos sobre el tema, y ​​finalmente llevaron a consulta a Michael Challis, recién elegido presidente de la Fraternidad, y obtuvieron la aprobación de las organizaciones de la Fraternidad y de la AUI.
+Chris se había acercado a David Kulieke, el presidente del Comité de Educación de la Fellowship, en la primavera. Chris vio una oportunidad para una conferencia combinada basada en el tema previsto para la conferencia de verano de la UAUS sobre capacitación de maestros y líderes. Él y David tuvieron varias conversaciones e intercambiaron correos electrónicos sobre el tema, y ​​finalmente llevaron a consulta a Michael Challis, recién elegido presidente de la Fellowship, y obtuvieron la aprobación de las organizaciones de la Fellowship y de la AUI.
 
 David siente: «Esta es una oportunidad maravillosa para una mayor unidad entre los lectores, y queremos aprovechar el liderazgo de Chris y todo lo que él y Lila Dogim hicieron para mejorar nuestra cooperación durante los últimos tres años. Estoy entusiasmado con la conferencia incluso mientras nos aseguramos de mantener la tradición de 40 años de las sesiones de estudio de verano y nuestro progreso en la mejora de la educación en el movimiento Urantia».
 
 Katrina Glavan-Heise de San Antonio y la Asociación Lone Star Urantia han estado trabajando arduamente durante meses a cargo de las relaciones del sitio, el registro y otra logística. Ella dijo: «Los lectores tendrán la oportunidad de reunirse con amigos que no han visto en mucho tiempo y hacer nuevas amistades mientras estudian y aprenden sobre otro aspecto de Jesús, el Maestro Maestro».
 
-El comité del programa se reunió recientemente por primera vez. Su presidenta es Sherry Layton, miembro adjunto del Comité de Educación de la Fraternidad que estaba en el comité SSS15 antes de presidir SSS16. Otros planificadores principales incluyen a David Glass, David Linthicum y Neda Tehrani. Estarán buscando oradores plenarios, líderes de talleres, líderes de adoración y otros
+El comité del programa se reunió recientemente por primera vez. Su presidenta es Sherry Layton, miembro adjunto del Comité de Educación de la Fellowship que estaba en el comité SSS15 antes de presidir SSS16. Otros planificadores principales incluyen a David Glass, David Linthicum y Neda Tehrani. Estarán buscando oradores plenarios, líderes de talleres, líderes de adoración y otros
 personas que contribuyan al programa. Estas sesiones explorarán cómo enseñó Jesús, cómo dirigió y otras áreas de la vida del Maestro que pueden contribuir a nuestro trabajo ya nuestra comprensión de las enseñanzas.
 
 Sherry comentó: «Honramos al Padre celestial ya nuestro hermano creador al esforzarnos por aumentar nuestro deseo de reconocer y hacer la voluntad del Padre en unidad: amarnos unos a otros y servirnos unos a otros a la manera del Padre. De acuerdo con este alto y noble ideal espiritual, es una bendición poder servir al unísono con mis hermanos y hermanas mientras damos gloria a Dios una vez más por su misericordia, fidelidad y amor perdurable».
@@ -61,9 +67,9 @@ El Comité de Educación de la Fellowship hará un anuncio sobre las solicitudes
 <img src="/image/article/The_Mighty_Messenger/2015_Fall/005863.jpg">
 </figure>
 
-Hace unas semanas, un maravilloso amigo y partidario de la Fraternidad, Joe Lizska, se fue a los mundos de las mansiones. Muchos lectores recordarán a Joe como un gran compañero y una personalidad fascinante.
+Hace unas semanas, un maravilloso amigo y partidario de la Fellowship, Joe Lizska, se fue a los mundos de las mansiones. Muchos lectores recordarán a Joe como un gran compañero y una personalidad fascinante.
 
-Joe tenía un interés especial en las publicaciones de la Fraternidad. A fines de la década de 1990, él y Avi Dogim crearon el formato actual del Comité de Publicaciones del Mighty Messenger and the Herald. Y Joe seleccionó personalmente la plantilla actual del Mighty Messenger que donó a la Comunidad. Continuó mostrando un interés especial y apoyando las diversas actividades de la Fraternidad.
+Joe tenía un interés especial en las publicaciones de la Fellowship. A fines de la década de 1990, él y Avi Dogim crearon el formato actual del Comité de Publicaciones del Mighty Messenger and the Herald. Y Joe seleccionó personalmente la plantilla actual del Mighty Messenger que donó a la Fellowship. Continuó mostrando un interés especial y apoyando las diversas actividades de la Fellowship.
 
 Fue miembro fundador de la Sociedad de Orvonton en 1961, poco antes de mudarse a Cayo Hueso. Allí, él y un amigo establecieron una empresa que contribuyó en gran medida al crecimiento de la comunidad empresarial y el turismo de Cayo Hueso.
 
@@ -83,9 +89,9 @@ Es esa época del año otra vez cuando reflexionamos y anticipamos el futuro. Re
 
 Parece que esta comunidad de revelación que hemos creado trasciende el tiempo y el espacio. Puede pasar un año sin que nos veamos, pero en el momento en que volvemos a estar juntos estamos instantáneamente conectados, como si no hubiera pasado el tiempo. Al reflexionar, me doy cuenta de que mis relaciones más profundas y preciosas provienen de esta comunidad.
 
-Cuanto más me involucro con la Fraternidad, más asombrado estoy con esta organización y las personas dedicadas que trabajan tan duro con tan poco. Me siguen inspirando.
+Cuanto más me involucro con la Fellowship, más asombrado estoy con esta organización y las personas dedicadas que trabajan tan duro con tan poco. Me siguen inspirando.
 
-Me pregunto cómo serían nuestras vidas si, durante los últimos 60 años, no hubiera habido Urantia Brotherhood o Urantia Book Fellowship. La idea me deja sintiéndome un poco vacío y hueco. Me hace reconocer la importancia de nuestras responsabilidades individuales, nuestras obligaciones para asegurarnos de que la Fraternidad continúe con estos valientes esfuerzos de divulgación, estudio y simplemente unirnos. Solo nosotros podemos asegurarnos de que la Fellowship de _El Libro de Urantia_ esté aquí, recreando y renovando continuamente nuestra comunidad, ese «hogar espiritual» que todos reconocemos cuando estamos juntos.
+Me pregunto cómo serían nuestras vidas si, durante los últimos 60 años, no hubiera habido Urantia Brotherhood o Urantia Book Fellowship. La idea me deja sintiéndome un poco vacío y hueco. Me hace reconocer la importancia de nuestras responsabilidades individuales, nuestras obligaciones para asegurarnos de que la Fellowship continúe con estos valientes esfuerzos de divulgación, estudio y simplemente unirnos. Solo nosotros podemos asegurarnos de que la Fellowship de _El Libro de Urantia_ esté aquí, recreando y renovando continuamente nuestra comunidad, ese «hogar espiritual» que todos reconocemos cuando estamos juntos.
 
 Todos tenemos una historia que de alguna manera nos trajo aquí. ¿Cómo sería tu vida hoy si esta comunidad no estuviera aquí cuando se encendió tu luz interior? El apoyo de cada miembro de nuestra organización es de vital importancia para ayudar a nuestra comunidad a seguir creciendo y sirviendo. Somos una organización religiosa sin fines de lucro y existimos gracias al apoyo de amigos como tú. Sin ustedes, no podemos crecer y expandir esta revelación o esta comunidad.
 
@@ -101,24 +107,24 @@ Para seleccionar un método de donación, vaya al sitio web de la Fellowship, fe
 
 Asumí el cargo el 12 de julio de 2015. Ha sido un torbellino desde entonces. Continuando con el trabajo en curso que ha ido dando cada vez más frutos, me reuní, llamé o tuve conversaciones cara a cara con Chris Wood, presidente de la Asociación Urantia Internacional y Mo Siegel, presidente de la Fundación Urantia. Hemos acordado tener llamadas de presidente trimestrales o reuniones en persona con el objetivo de fomentar la cooperación conjunta y el apoyo entre nuestras organizaciones para nuestra comunidad Urantia.
 
-Uno de los primeros frutos de ese espíritu de cooperación organizacional fue el evento en octubre, donde las tres organizaciones patrocinaron y atendieron un stand conjunto en el Parlamento de las Religiones Mundiales en Salt Lake City. Para citar a la presidenta de Fellowship Interfaith, Cristina Seaborn, «Con siete talleres relacionados con El Libro de Urantia, 4 puestos y 120 lectores de _El Libro de Urantia_ en el Parlamento, la gente acudió hambrienta y lista al puesto».
+Uno de los primeros frutos de ese espíritu de cooperación organizacional fue el evento en octubre, donde las tres organizaciones patrocinaron y atendieron un stand conjunto en el Parlamento de las Religiones Mundiales en Salt Lake City. Para citar a la presidenta de la Fellowship Interfaith, Cristina Seaborn, «Con siete talleres relacionados con El Libro de Urantia, 4 puestos y 120 lectores de _El Libro de Urantia_ en el Parlamento, la gente acudió hambrienta y lista al puesto».
 
 Lo siguiente es una conferencia nacional conjunta y una sesión de estudio de verano, con la UAUS y el comité de educación de la Fellowship de _El Libro de Urantia_' del 9 al 12 de junio en Trinity University, San Antonio, Texas.
 
-Del 2 al 4 de octubre, el Comité Ejecutivo se reunió en Coeur d'Alene, Idaho. Esta es, en muchos sentidos, nuestra reunión más difícil. Es nuestra reunión de presupuesto, donde cada comité y oficial debe enfrentar los desafíos de nuestras limitaciones financieras. Este año nuestro presupuesto fue más de un treinta por ciento más bajo que el año anterior. Nos dimos cuenta de que tenemos que ser más directos al pedirle a nuestra comunidad que nos apoye y al publicar y alistar a esa comunidad en nuestro trabajo en curso. Verá eso en el próximo año cuando usemos todos los medios para comunicar lo que la Fraternidad está haciendo con su apoyo.
+Del 2 al 4 de octubre, el Comité Ejecutivo se reunió en Coeur d'Alene, Idaho. Esta es, en muchos sentidos, nuestra reunión más difícil. Es nuestra reunión de presupuesto, donde cada comité y oficial debe enfrentar los desafíos de nuestras limitaciones financieras. Este año nuestro presupuesto fue más de un treinta por ciento más bajo que el año anterior. Nos dimos cuenta de que tenemos que ser más directos al pedirle a nuestra comunidad que nos apoye y al publicar y alistar a esa comunidad en nuestro trabajo en curso. Verá eso en el próximo año cuando usemos todos los medios para comunicar lo que la Fellowship está haciendo con su apoyo.
 
-El 3 de octubre tuvimos el placer de fundar y visitar la sociedad Urantia Book Fellowship más nueva, la Inland Northwest Urantia Society. Realmente disfrutamos el fletamento y la fiesta. Es emocionante volver a crecer. Ese entusiasmo se ve acentuado por la creciente participación de jóvenes en nuestra comunidad y nuestra Fraternidad.
+El 3 de octubre tuvimos el placer de fundar y visitar la sociedad Urantia Book Fellowship más nueva, la Inland Northwest Urantia Society. Realmente disfrutamos el fletamento y la fiesta. Es emocionante volver a crecer. Ese entusiasmo se ve acentuado por la creciente participación de jóvenes en nuestra comunidad y nuestra Fellowship.
 
-El Comité Ejecutivo tuvo una fructífera reunión cara a cara de planificación estratégica, hábilmente dirigida por la presidenta judicial Dana Bredemeyer. Una de las verdades más importantes discutidas en el proceso de planificación estratégica es lo que espero lograr en mi presidencia. Esa verdad es la idea de que la Fraternidad es principalmente una comunidad con un propósito. Ese propósito es ayudar a aquellos que son movidos por las verdades del libro a fomentarse, brindarse y animarse unos a otros en el trabajo de vivir las verdades y diseminar la verdad y el libro de tantas maneras como podamos.
+El Comité Ejecutivo tuvo una fructífera reunión cara a cara de planificación estratégica, hábilmente dirigida por la presidenta judicial Dana Bredemeyer. Una de las verdades más importantes discutidas en el proceso de planificación estratégica es lo que espero lograr en mi presidencia. Esa verdad es la idea de que la Fellowship es principalmente una comunidad con un propósito. Ese propósito es ayudar a aquellos que son movidos por las verdades del libro a fomentarse, brindarse y animarse unos a otros en el trabajo de vivir las verdades y diseminar la verdad y el libro de tantas maneras como podamos.
 
 Agradezco el apoyo y la fe que todos ustedes me han brindado. Con la ayuda de Dios lograremos mucho.
 
 Por favor continúe apoyando nuestro trabajo.
 Michael Challis, presidente
-_El Libro de Urantia_ Fraternidad
+_El Libro de Urantia_ Fellowship
 del presidente
 
-> «…en todas las relaciones grupales siempre proporcionamos un liderazgo definido.»—Jesús [[LU 181:2.16](/es/The_Urantia_Book/181#p2_16)]
+> «...en todas las relaciones colectivas, procuramos invariablemente que exista una persona determinada que dirija.»—Jesús [[LU 181:2.16](/es/The_Urantia_Book/181#p2_16)]
 
 ## Lecciones de la tubería
 
@@ -138,9 +144,9 @@ La historia de Pipeline es un ejemplo de:
 
 Los voluntarios de Pipeline son algunos de los solucionadores de problemas más creativos del mundo. Me fascina desentrañar el hilo que envía un libro a Sri Lanka o Botswana o Canarias. Disfruto escuchando a las personas que reciben libros; bendiciones de Arno el Pagano que ya no es pagano; correos electrónicos sobre un hombre en Croacia que fue excitado por el dueño de una tienda de bicicletas de Colorado que fue excitado por un hombre lituano al que se le pinchó una llanta mientras visitaba los EE. UU.; solicitudes de un conserje egipcio que quería permiso para leer unos días más antes de entregar el libro a la biblioteca de El Cairo; Cartas del primer destinatario de la traducción italiana: que envió notas que contenían un exceso de marcos de exclamación (¡¡¡¡oh¡¡¡¡ ¡¡¡¡¡¡Gracias!!!!!! ¡¡¡¡¡El mejor regalo que he tenido!!!!!)
 
-Detrás de las historias felices hay historias tediosas del trabajo duro de hacer llegar libros físicos a las manos de las personas que los necesitan. Esta historia incluye almacenar libros, empaquetar libros, envolver libros, verificar direcciones y aprender a superar las regulaciones aduaneras y las dificultades postales internacionales. Implica llevar libros a la oficina de correos, encontrar voluntarios en los EE. UU. que estén dispuestos a entregar libros mientras viajan, meter libros pesados ​​en maletas y mochilas y llevar equipaje, facturar el equipaje con sobrepeso en una dirección y el equipaje vacío en la otra, y investigando métodos convenientes y, a veces, descabellados para entregar la revelación. Las mujeres en la oficina de Fellowship y nuestros voluntarios internacionales son héroes fieles e inspiradores.
+Detrás de las historias felices hay historias tediosas del trabajo duro de hacer llegar libros físicos a las manos de las personas que los necesitan. Esta historia incluye almacenar libros, empaquetar libros, envolver libros, verificar direcciones y aprender a superar las regulaciones aduaneras y las dificultades postales internacionales. Implica llevar libros a la oficina de correos, encontrar voluntarios en los EE. UU. que estén dispuestos a entregar libros mientras viajan, meter libros pesados ​​en maletas y mochilas y llevar equipaje, facturar el equipaje con sobrepeso en una dirección y el equipaje vacío en la otra, y investigando métodos convenientes y, a veces, descabellados para entregar la revelación. Las mujeres en la oficina de la Fellowship y nuestros voluntarios internacionales son héroes fieles e inspiradores.
 
-A través de Pipeline of Light, los trabajadores de Fellowship están sembrando el planeta un libro a la vez.
+A través de Pipeline of Light, los trabajadores de la Fellowship están sembrando el planeta un libro a la vez.
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; 
 --- | --- | --- | --- | --- | ---
@@ -172,13 +178,13 @@ Islas Canarias | Francia | Irán | Palestina | Tailandia |
 <img src="/image/article/The_Mighty_Messenger/2015_Fall/Guillermo_Deoto.jpg">
 </figure>
 
-**Guillermo Deoto** Hola, soy Guillermo Deoto (alias William, Willy y recientemente G'mo, gracias señor presidente). Mi profesor de ciencias me presentó _El Libro de Urantia_ cuando tenía 14 años y lo leíamos durante el almuerzo. Más tarde ese año asistí a mi primera reunión y al año siguiente fui a mi primera conferencia. Serví como tesorero para los estudiantes de Florida de _El Libro de Urantia_ durante 15 años y soy el actual tesorero de Agodonter Boot Camp Society of Florida (ABC). Espero que mi servicio con la Fraternidad promueva su causa, fortalezca su determinación y modificar lo que pueda necesitar.
+**Guillermo Deoto** Hola, soy Guillermo Deoto (alias William, Willy y recientemente G'mo, gracias señor presidente). Mi profesor de ciencias me presentó _El Libro de Urantia_ cuando tenía 14 años y lo leíamos durante el almuerzo. Más tarde ese año asistí a mi primera reunión y al año siguiente fui a mi primera conferencia. Serví como tesorero para los estudiantes de Florida de _El Libro de Urantia_ durante 15 años y soy el actual tesorero de Agodonter Boot Camp Society of Florida (ABC). Espero que mi servicio con la Fellowship promueva su causa, fortalezca su determinación y modificar lo que pueda necesitar.
 
 <figure id="Figure_7" class="image urantiapedia estilo-imagen-alinear-izquierda">
 <img src="/image/article/The_Mighty_Messenger/2015_Fall/Cabot_Eudaly.jpg">
 </figure>
 
-**Cabot Eudaly** Tuve una experiencia del tamaño de una vela en la que renuncié a mis viejas ideas sobre Dios y comencé desde cero con mi propia comprensión de Él. Cuando le describí mi concepto de Dios a un amigo, me dijo que tenía un libro que me gustaría leer. Hago algo de ingeniería estructural (edificios), voy a varias reuniones (iglesia, AA, Urantia) desde el nido vacío (2 hijos, 20 y 21). Mi visión es integrar la Fraternidad como la rama estadounidense o norteamericana de la UAI, renombrando todo como la Hermandad Urantia.
+**Cabot Eudaly** Tuve una experiencia del tamaño de una vela en la que renuncié a mis viejas ideas sobre Dios y comencé desde cero con mi propia comprensión de Él. Cuando le describí mi concepto de Dios a un amigo, me dijo que tenía un libro que me gustaría leer. Hago algo de ingeniería estructural (edificios), voy a varias reuniones (iglesia, AA, Urantia) desde el nido vacío (2 hijos, 20 y 21). Mi visión es integrar la Fellowship como la rama estadounidense o norteamericana de la UAI, renombrando todo como la Brotherhood Urantia.
 
 <figure id="Figure_8" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2015_Fall/Andre_Radatus.jpg">
@@ -190,7 +196,7 @@ Islas Canarias | Francia | Irán | Palestina | Tailandia |
 <img src="/image/article/The_Mighty_Messenger/2015_Fall/Miguel_Anoba.jpg">
 </figure>
 
-**Miguel Anoba** es nativo de Raleigh, NC, y es un cantante y músico que ahora vive en el área de Boulder, CO. Lector del Libro de Urantia durante más de diez años, Miguel es presidente de la Fraternidad Espiritual de las Montañas Rocosas y se unió al Consejo General. Le encanta el mandato de la Unidad Espiritual y ha unido fuerzas con los YaYA y otros grupos fantásticos de la Fraternidad para ayudar a difundir esta asombrosa revelación a todos. Actualmente está trabajando con la comunidad de Brighton, CO para alimentar y albergar a los pobres mientras crea un Centro Comunitario Urantia para todas las personas. Comuníquese con Miguel para cualquier ayuda necesaria y para servicios voluntarios para otros, en miguelanoba@gmail.com.
+**Miguel Anoba** es nativo de Raleigh, NC, y es un cantante y músico que ahora vive en el área de Boulder, CO. Lector del Libro de Urantia durante más de diez años, Miguel es presidente de la Fellowship Espiritual de las Montañas Rocosas y se unió al Consejo General. Le encanta el mandato de la Unidad Espiritual y ha unido fuerzas con los YaYA y otros grupos fantásticos de la Fellowship para ayudar a difundir esta asombrosa revelación a todos. Actualmente está trabajando con la comunidad de Brighton, CO para alimentar y albergar a los pobres mientras crea un Centro Comunitario Urantia para todas las personas. Comuníquese con Miguel para cualquier ayuda necesaria y para servicios voluntarios para otros, en miguelanoba@gmail.com.
 
 <figure id="Figure_10" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2015_Fall/Sean_Privitera.jpg">
@@ -295,7 +301,7 @@ Por _Barbara Maier_
 <img src="/image/article/The_Mighty_Messenger/2015_Fall/005877.jpg">
 </figure>
 
-Del 17 al 20 de septiembre de 2015, 90 estudiantes de _El Libro de Urantia_ escucharon la llamada de su espíritu y asistieron al evento inaugural de la recién creada UCPNW. En el rústico y cómodo Campamento Kiwanis de Mt Hood, Oregón, pasamos cuatro días representando nuestros temas de Conocernos unos a otros y Vivir los frutos del Espíritu. Un comité de planificación dedicado de 8, pasó 10 meses usando estrategias de TI para crear este evento y restablecer la conexión para crecer localmente y apoyar regionalmente dentro de las 5 áreas de Alaska, Columbia Británica, Idaho, Oregón y Washington. Los principios motivadores de este Encuentro provinieron de «Si tan solo pudieras conocer a tus compañeros, eventualmente te enamorarías de ellos». (UB 100:4.5) y Jesús enseñó que el servicio al prójimo es el concepto más elevado de la hermandad de los creyentes espirituales. (UB 188:4.9)
+Del 17 al 20 de septiembre de 2015, 90 estudiantes de _El Libro de Urantia_ escucharon la llamada de su espíritu y asistieron al evento inaugural de la recién creada UCPNW. En el rústico y cómodo Campamento Kiwanis de Mt Hood, Oregón, pasamos cuatro días representando nuestros temas de Conocernos unos a otros y Vivir los frutos del Espíritu. Un comité de planificación dedicado de 8, pasó 10 meses usando estrategias de TI para crear este evento y restablecer la conexión para crecer localmente y apoyar regionalmente dentro de las 5 áreas de Alaska, Columbia Británica, Idaho, Oregón y Washington. Los principios motivadores de este Encuentro provinieron de «Si tan sólo pudierais conocer a vuestros semejantes, terminaríais por enamoraros de ellos». ([LU 100:4.5](/es/The_Urantia_Book/100#p4_5)) y Jesús enseñó que el servicio al prójimo es el concepto más elevado de la hermandad de los creyentes espirituales. ([LU 188:4.9](/es/The_Urantia_Book/188#p4_9))
 
 Los grupos de edad iban desde los 90 años hasta la escuela primaria, aunque predominantemente la edad promedio era de 50 años. Muchos volaron o viajaron en coche compartido largas distancias. Estábamos divididos equitativamente entre hombres y mujeres. Para muchos, este fue su primer evento de Urantia y su primera reunión regional. Otorgamos Fellowships, brindamos servicio al Campamento Kiwanis, tuvimos muchos voluntarios y salimos llenos hasta los topes.
 
@@ -309,9 +315,9 @@ Todavía se están recopilando encuestas y resúmenes para ayudar al UCPNW a pla
 <img src="/image/article/The_Mighty_Messenger/2015_Fall/005878.jpg">
 </figure>
 
-¡Aquí en el Inland Northwest estamos realmente emocionados de anunciar que este septiembre catorce miembros del Comité Ejecutivo de la Fraternidad y alrededor de veinticinco creyentes locales pasaron la noche finalmente inaugurando nuestra sociedad recién formada! Fue una velada increíble en la que compartimos tiempo juntos en compañerismo con un sentimiento palpable de esperanza y entusiasmo por el futuro.
+¡Aquí en el Inland Northwest estamos realmente emocionados de anunciar que este septiembre catorce miembros del Comité Ejecutivo de la Fellowship y alrededor de veinticinco creyentes locales pasaron la noche finalmente inaugurando nuestra sociedad recién formada! Fue una velada increíble en la que compartimos tiempo juntos en compañerismo con un sentimiento palpable de esperanza y entusiasmo por el futuro.
 
-Todo esto fue posible gracias a los esfuerzos combinados de muchos lectores del Libro de Urantia aquí en nuestra área. Nuestra Sociedad Uranita del Noroeste del Interior intentará ser un faro de innovación y progreso para el modelo de sociedad de la Fraternidad.
+Todo esto fue posible gracias a los esfuerzos combinados de muchos lectores del Libro de Urantia aquí en nuestra área. Nuestra Sociedad Uranita del Noroeste del Interior intentará ser un faro de innovación y progreso para el modelo de sociedad de la Fellowship.
 
 ## SSS 15 y Celebración del 60 Aniversario de la Primera Imprenta
 
@@ -346,7 +352,7 @@ Algunos de los comentarios de los participantes fueron: «Estoy muy feliz de hab
 
 «Fue una experiencia maravillosa para mí poder compartir información sobre nuestro Padre Universal y _El Libro de Urantia_. Por favor, cuente conmigo para ayudar en futuros eventos. También fue una gran experiencia conocer y trabajar con los tres jóvenes. Esta experiencia les ayudará a organizar ferias del libro en sus propios países». _Gustavo García_
 
-Un agradecimiento especial a Agustín ya los lectores locales, Gonzalo Caseros por brindar la hospitalidad y Gerardo Leche por pagar el stand. Este fue un verdadero esfuerzo cooperativo que incluyó a la Fraternidad, lectores locales y lectores de otros países latinoamericanos. Esperamos replicarlo en futuros eventos.
+Un agradecimiento especial a Agustín ya los lectores locales, Gonzalo Caseros por brindar la hospitalidad y Gerardo Leche por pagar el stand. Este fue un verdadero esfuerzo cooperativo que incluyó a la Fellowship, lectores locales y lectores de otros países latinoamericanos. Esperamos replicarlo en futuros eventos.
 
 ## ¡Feliz cumpleaños Jesús!
 
@@ -379,11 +385,11 @@ Hay una verdad que se puede obtener de esta experiencia: ya sea individualmente,
 ## Próximos Eventos…
 
 - **15–17 de abril de 2016** – Conferencia Regional del Medio Oeste, Indianápolis, IN. «Creciendo Espiritualmente Día a Día». Para información: RFBuselli@sbcglobal.net.
-- **9 al 12 de junio de 2016** – Sesión de estudio de verano de Fellowship/UAI/Foundation, San Antonio, TX, «Jesús, el Gran Maestro». Para más información: www.urantiabook.org.
+- **9 al 12 de junio de 2016** – Sesión de estudio de verano de la Fellowship/UAI/Foundation, San Antonio, TX, «Jesús, el Gran Maestro». Para más información: www.urantiabook.org.
 
 Para una nueva aventura espiritual, únase a SymmetryOfSoul.org los martes a las 6:00 p. m. PT (9:00 p. m. ET). Para revisar programas pasados, vaya al mismo enlace y haga clic en «Archivo».
 
-No olvide que la Fraternidad necesita su ayuda para continuar sirviendo a la revelación en todo el mundo. Para obtener información sobre varias opciones de donación, vaya al sitio web de la Fraternidad, www.urantiabook.org, y presione el enlace Donar. O envíe un cheque a la Fellowship de _El Libro de Urantia_, PO Box 6631, Broomfield, CO, 80021, EE. UU.
+No olvide que la Fellowship necesita su ayuda para continuar sirviendo a la revelación en todo el mundo. Para obtener información sobre varias opciones de donación, vaya al sitio web de la Fellowship, www.urantiabook.org, y presione el enlace Donar. O envíe un cheque a la Fellowship de _El Libro de Urantia_, PO Box 6631, Broomfield, CO, 80021, EE. UU.
 
 ## Equipo del Mighty Messenger
 
@@ -409,6 +415,9 @@ www.urantiabook.org
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2015_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2015</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2015">
@@ -416,6 +425,9 @@ www.urantiabook.org
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2016_Spring">
+          <span class="pr-2">Edición de primavera de 2016</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

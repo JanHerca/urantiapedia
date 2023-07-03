@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2013_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2013</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-2013">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2014_Spring">
+          <span class="pr-2">Edición de primavera de 2014</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -239,11 +245,11 @@ Mientras vivía en Pueblo, uno de los miembros de nuestro grupo de estudio sufr�
 
 El Cuerpo de Mujeres de Boulder, un grupo de lectores de _El Libro de Urantia_ de varios grupos de estudio, se creó para prestar servicio a mujeres y niños. Todavía me siento cerca de estas mujeres porque imaginamos, creamos y completamos juntos algunos actos de servicio muy significativos.
 
-_El Libro de Urantia_ afirma: «Una de las lecciones más importantes que se deben aprender durante su carrera mortal es el trabajo en equipo. Las esferas de perfección están a cargo de aquellos que han dominado este arte de trabajar con otros seres». [[LU 28:5.14](/es/The_Urantia_Book/28#p5_14)] Convertirse en un equipo de servicio con su grupo de estudio puede ser una de las cosas más valiosas que los lectores de _El Libro de Urantia_ pueden hacer juntos.
+_El Libro de Urantia_ afirma: «Una de las lecciones más importantes que tenéis que aprender durante vuestra carrera mortal es la del trabajo en equipo. Las esferas de perfección están tripuladas por aquellos que han dominado este arte de trabajar con otros seres». [[LU 28:5.14](/es/The_Urantia_Book/28#p5_14)] Convertirse en un equipo de servicio con su grupo de estudio puede ser una de las cosas más valiosas que los lectores de _El Libro de Urantia_ pueden hacer juntos.
 
 Jesús envió a los apóstoles en parejas por una razón. Quizás compartir la experiencia le agrega significado y valor. Incluso si todas las personas en su grupo de estudio no están inspiradas para hacer este tipo de cosas juntas, es probable que haya varias que estén dispuestas a unirse a usted. Personalmente, he notado que el servicio realizado en grupo es de alguna manera más satisfactorio. Todos estos proyectos se experimentaron porque una persona apasionada se acercó al grupo y preguntó «¿Ayudarías?» Tal vez sepa de una necesidad en su propia comunidad que podría traer a su grupo. El servicio grupal puede ser una gran experiencia de grupo de estudio.
 
-> «Ser sensible y receptivo a las necesidades humanas crea una felicidad genuina y duradera…» [[LU 140:5.16](/es/The_Urantia_Book/140#p5_16)]
+> «Ser sensible y reaccionar antes las necesidades humanas crea una felicidad auténtica y duradera…» [[LU 140:5.16](/es/The_Urantia_Book/140#p5_16)]
 
 ## Sirviendo en silencio en Corea del Sur
 
@@ -270,24 +276,24 @@ Como tal, en 2001, Sy decidió que no había mejor lugar para hacer divulgación
 
 Pero la naturaleza del servicio silencioso de Sy, este servicio a los millones de personas que asistieron a la Feria del Libro de Corea desde 2001 y pasaron por el stand que él ubica estratégicamente cada año, ya no es un secreto. De hecho, en la Feria del Libro de este año, la Sra. Park Geun-hye, la primera mujer presidenta de Corea del Sur, pasó por el puesto y le sonrió a Sy.
 
-Además, el servicio dedicado de Sy ha atraído la atención tanto de la Fundación como de la Fraternidad, y en el espíritu cada vez mayor de cooperación y colaboración, ambas organizaciones ahora copatrocinan los esfuerzos de Sy en este importante lugar.
+Además, el servicio dedicado de Sy ha atraído la atención tanto de la Fundación como de la Fellowship, y en el espíritu cada vez mayor de cooperación y colaboración, ambas organizaciones ahora copatrocinan los esfuerzos de Sy en este importante lugar.
 
 En la actualidad, según las ventas de libros, las descargas, la experiencia de varios blogueros expertos en Internet en Corea del Sur y los esfuerzos de Sy, se cree que hay más de cinco mil lectores coreanos activos.
 
 Es verdaderamente asombroso lo que uno puede hacer, sirviendo en silencio.
 
-> «Cuando el hombre se asocia con Dios, grandes cosas pueden suceder y suceden». [[LU 132:7.9](/es/The_Urantia_Book/132#p7_9)]
+> «Cuando el hombre se asocia con Dios, grandes cosas pueden suceder, y de hecho suceden». [[LU 132:7.9](/es/The_Urantia_Book/132#p7_9)]
 
 
-## Dos escaños abiertos en el Consejo General de la Fraternidad
+## Dos escaños abiertos en el Consejo General de la Fellowship
 
 ¿Tiene ideas sobre cómo debería desarrollarse la Fellowship? ¿Proyectos que debería emprender? Si es así, es posible que desee considerar postularse para un puesto en el Consejo General.
 
 Corresponderá a los futuros Consejeros Generales ayudar a diseñar e implementar la expansión de los servicios de asistencia al lector y extensión en un entorno que cambia rápidamente. Se necesita tu ayuda. ¿Estás dispuesto a involucrarte directamente? Hay una solicitud para el servicio organizacional en el sitio web en www.ubfellowship.org/service app.htm.
 
-Es un requisito previo para el servicio como líder en la Comunidad que el candidato primero debe ser miembro de la organización. Si desea ser considerado para los puestos de liderazgo disponibles pero no es miembro de la Fraternidad, no es difícil unirse. Envíe su solicitud de afiliación a: www.urantiabook.worldsecuresystems.com/join-us.
+Es un requisito previo para el servicio como líder en la Fellowship que el candidato primero debe ser miembro de la organización. Si desea ser considerado para los puestos de liderazgo disponibles pero no es miembro de la Fellowship, no es difícil unirse. Envíe su solicitud de afiliación a: www.urantiabook.worldsecuresystems.com/join-us.
 
-Para saber más sobre algunas de las personas que actualmente sirven en el Consejo General de la Fraternidad, vaya a www.urantianow.com/about/general-council/.
+Para saber más sobre algunas de las personas que actualmente sirven en el Consejo General de la Fellowship, vaya a www.urantianow.com/about/general-council/.
 
 ## Equipo del Mighty Messenger
 
@@ -309,6 +315,9 @@ www.urantiabook.org
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2013_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2013</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-2013">
@@ -316,6 +325,9 @@ www.urantiabook.org
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2014_Spring">
+          <span class="pr-2">Edición de primavera de 2014</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2004_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2004</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-2004">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2005_Spring">
+          <span class="pr-2">Edición de primavera de 2005</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -52,7 +58,7 @@ Por _Avi Dogim_
 
 La Fellowship dio un paso de gigante en su proceso de descentralización este año y vendió el edificio que había servido como su «cuartel general» desde 1989. Además de ser una importante medida de ahorro de costos, se espera, junto con otros ajustes operativos y una mayor confianza en tecnologías web, para aumentar la eficiencia de la organización y mejorar la calidad de sus servicios.
 
-La unidad entre los lectores y en todas las líneas organizacionales sigue siendo un objetivo importante para muchos miembros de la Fraternidad, así como para otros «urantianos». El anhelo de unidad es casi palpable cuando uno camina en una reunión como la conferencia patrocinada por Heart of America Society en Kansas City en septiembre. La frustración con la brecha persistente que aún existe entre la Fellowship y la Fundación/IUA es profunda. Pero el anhelo y la frustración por sí solos no sanarán esta brecha. debemos actuar El año pasado ha sido testigo de un aumento de los esfuerzos por parte de los miembros de la Fraternidad para participar en eventos y actividades patrocinados por otros grupos o en los que participan. Para nombrar solo algunos, varios miembros de la Fellowship asistieron a una conferencia de la IUA en Quebec el verano pasado; otro grupo asistió a la reciente conferencia de la UAUS en Chicago; Los miembros de la Fellowship disfrutaron trabajar junto con la Fundación, la IUA y personas no afiliadas en actividades de difusión en el Parlamento Mundial de las Religiones en Barcelona este verano. No había «nosotros» y «ellos» en esa imagen. Los organizadores de la Conferencia Internacional de la Fraternidad, IC 05, están involucrando a miembros de la IUA, así como a lectores «no afiliados» en la planificación y ejecución de lo que estoy seguro será una conferencia muy emocionante y edificante que celebra el 50 aniversario de la publicación de _The Urantia Libro_. Mientras sigamos creando oportunidades para la cooperación y el compañerismo entre todos los lectores a nivel local, regional, nacional,
+La unidad entre los lectores y en todas las líneas organizacionales sigue siendo un objetivo importante para muchos miembros de la Fellowship, así como para otros «urantianos». El anhelo de unidad es casi palpable cuando uno camina en una reunión como la conferencia patrocinada por Heart of America Society en Kansas City en septiembre. La frustración con la brecha persistente que aún existe entre la Fellowship y la Fundación/IUA es profunda. Pero el anhelo y la frustración por sí solos no sanarán esta brecha. debemos actuar El año pasado ha sido testigo de un aumento de los esfuerzos por parte de los miembros de la Fellowship para participar en eventos y actividades patrocinados por otros grupos o en los que participan. Para nombrar solo algunos, varios miembros de la Fellowship asistieron a una conferencia de la IUA en Quebec el verano pasado; otro grupo asistió a la reciente conferencia de la UAUS en Chicago; Los miembros de la Fellowship disfrutaron trabajar junto con la Fundación, la IUA y personas no afiliadas en actividades de difusión en el Parlamento Mundial de las Religiones en Barcelona este verano. No había «nosotros» y «ellos» en esa imagen. Los organizadores de la Conferencia Internacional de la Fellowship, IC 05, están involucrando a miembros de la IUA, así como a lectores «no afiliados» en la planificación y ejecución de lo que estoy seguro será una conferencia muy emocionante y edificante que celebra el 50 aniversario de la publicación de _The Urantia Libro_. Mientras sigamos creando oportunidades para la cooperación y el compañerismo entre todos los lectores a nivel local, regional, nacional,
 
 La reunión del Consejo General este verano deparó algunas sorpresas. Harry McMullan anunció su decisión de renunciar de inmediato a su cargo como tesorero de la Fellowship. Harry, quien ha servido en el Comité Ejecutivo durante los últimos 25 años, declaró que deseaba dejar vacante el puesto para que otra persona que esté calificada pero que haya trabajado menos años tenga la oportunidad de servir como Tesorero. Convencido de que la decisión de Harry era definitiva, acepté su renuncia. Agradecí a Harry por sus muchos años de servicio en el Comité Ejecutivo y por sus numerosas contribuciones a la comunidad de lectores, incluida su autoría de un índice de _El Libro de Urantia_, que ahora forma parte de la edición de Uversa Press del libro. Harry permanecerá en el Consejo General y ha prometido que seguirá trabajando para la Fellowship de cualquier manera que pueda ser útil. John Hay fue elegido para ocupar el puesto de Tesorero.
 
@@ -60,7 +66,7 @@ Gracias a una subvención de desafío de 50.000 dólares a la Fellowship de un c
 
 Para ocupar los puestos en el Consejo General creados por las renuncias de Rebecca Kantor, Claudia Ayers y Bill Rocap a principios de este año, se eligieron tres nuevos Consejeros y se les dio una calurosa bienvenida: Tom Allen de Oklahoma, John Hay de Colorado y Gene Narducy de California. . También se eligieron dos nuevos presidentes de comités, Susan Cook de Missouri se desempeñará como presidenta del Comité Interreligioso y Gary Deinstadt de Nueva York ha comenzado un período de seis años como presidente del Comité de Educación.
 
-Un retiro de planificación realizado por el Consejo durante su última reunión de mitad de año generó muchas ideas creativas sobre cómo la Fellowship podría cumplir mejor su misión, cómo podría brindar oportunidades de Fellowships y cómo podría mejorar su comunicación. Estas ideas bien pueden contener las semillas de un cambio positivo, pero para lograrlo, el Consejo General deberá desarrollar algunas de estas ideas en políticas específicas, que luego el Comité Ejecutivo será responsable de implementar.
+Un retiro de planificación realizado por el Consejo durante su última reunión de mitad de año generó muchas ideas creativas sobre cómo la Fellowship podría cumplir mejor su misión, cómo podría brindar oportunidades de la Fellowship y cómo podría mejorar su comunicación. Estas ideas bien pueden contener las semillas de un cambio positivo, pero para lograrlo, el Consejo General deberá desarrollar algunas de estas ideas en políticas específicas, que luego el Comité Ejecutivo será responsable de implementar.
 
 ## Nuevos miembros del consejo
 
@@ -70,9 +76,9 @@ Un retiro de planificación realizado por el Consejo durante su última reunión
 <img src="/image/article/The_Mighty_Messenger/2004_Winter/John_Hay.jpg">
 </figure>
 
-La elección de John Hay como tesorero de la Fraternidad es solo la última de una larga serie de puestos de servicio en el movimiento Urantia. En 1971, John fundó el grupo de estudio de Boulder y en 1980 fue miembro fundador de Rocky Mountain Spiritual Fellowship. De 1982 a 1987, fue uno de los fundadores y partidario de la Escuela Boulder para Estudiantes de _El Libro de Urantia_.
+La elección de John Hay como tesorero de la Fellowship es solo la última de una larga serie de puestos de servicio en el movimiento Urantia. En 1971, John fundó el grupo de estudio de Boulder y en 1980 fue miembro fundador de Rocky Mountain Spiritual Fellowship. De 1982 a 1987, fue uno de los fundadores y partidario de la Escuela Boulder para Estudiantes de _El Libro de Urantia_.
 
-Durante sus mandatos como Consejero General, John fue miembro y/o Presidente del Comité de Finanzas de la Fraternidad y también sirvió un mandato anterior como Tesorero de la Fraternidad de 1988 a 1991. También ha planificado varias conferencias internacionales de Fellowships. John fue cofundador de Celestial Seasonings, junto con Mo Siegel.
+Durante sus mandatos como Consejero General, John fue miembro y/o Presidente del Comité de Finanzas de la Fellowship y también sirvió un mandato anterior como Tesorero de la Fellowship de 1988 a 1991. También ha planificado varias conferencias internacionales de la Fellowship. John fue cofundador de Celestial Seasonings, junto con Mo Siegel.
 
 John y su esposa, Laura, (Comité de publicaciones) se mantienen ocupados con seis hijos de edades comprendidas entre los 14 y los 27 años. Él es un ministro de cuidado pastoral ordenado en la iglesia episcopal. Actualmente, está trabajando para poner _El Libro de Urantia_ en CD y MP3.
 
@@ -102,7 +108,7 @@ Criado en Bartlesville, Oklahoma, conocí _El Libro de Urantia_ en 1973 cuando e
 <img src="/image/article/The_Mighty_Messenger/2004_Winter/Gene_Narducy.jpg">
 </figure>
 
-No leí _El Libro de Urantia_ en serio hasta principios de los 90 o con alguna regularidad hasta que me puse en contacto con los lectores en el Puesto de la Fraternidad durante una Exposición de Vida Entera en Pasadena en 1998. Actualmente asisto al grupo de lectura regular de los martes por la noche en la casa de Robert y Cindy Burn; Me he desempeñado como Secretario de UBLA durante años y planeo postularme para un tercer mandato. Y, como saben, he sido elegido miembro del Consejo General de la Fraternidad por un período de dos años.
+No leí _El Libro de Urantia_ en serio hasta principios de los 90 o con alguna regularidad hasta que me puse en contacto con los lectores en el Puesto de la Fellowship durante una Exposición de Vida Entera en Pasadena en 1998. Actualmente asisto al grupo de lectura regular de los martes por la noche en la casa de Robert y Cindy Burn; Me he desempeñado como Secretario de UBLA durante años y planeo postularme para un tercer mandato. Y, como saben, he sido elegido miembro del Consejo General de la Fellowship por un período de dos años.
 
 La 5ª Revelación ha sido la realidad más importante de mi vida. Estoy emocionado, vigorizado y honrado por mi asociación con sus lectores. Rezo para hacer todo lo que pueda para ayudar a socializar y atraer a los lectores a este regalo tan preciado trabajando con los lectores existentes independientemente de su sociedad y participando o asistiendo a tantos eventos basados ​​en _El Libro de Urantia_ como pueda.
 
@@ -124,7 +130,7 @@ Necesitamos saber verdaderamente lo que estamos presentando y a quién se lo est
 
 ## Oficina de Oradores
 
-Los miembros del Comité de Difusión de la Fraternidad le invitan a participar en la formación de la Oficina de Oradores de Urantia. Nuestro objetivo es crear una oficina de oradores capacitados para _El Libro de Urantia_ anticipándonos a un número creciente de solicitudes de personas para presentar los conceptos y las enseñanzas del libro. Además, nos dedicamos a crear y encontrar oportunidades para hablar una vez que la oficina esté establecida y también a trabajar con los miembros de la oficina y el Comité de Educación para asegurar presentaciones públicas significativas, oportunas y relevantes sobre _El Libro de Urantia_.
+Los miembros del Comité de Difusión de la Fellowship le invitan a participar en la formación de la Oficina de Oradores de Urantia. Nuestro objetivo es crear una oficina de oradores capacitados para _El Libro de Urantia_ anticipándonos a un número creciente de solicitudes de personas para presentar los conceptos y las enseñanzas del libro. Además, nos dedicamos a crear y encontrar oportunidades para hablar una vez que la oficina esté establecida y también a trabajar con los miembros de la oficina y el Comité de Educación para asegurar presentaciones públicas significativas, oportunas y relevantes sobre _El Libro de Urantia_.
 
 Para adquirir las habilidades para hablar en público necesarias para este esfuerzo, hemos decidido utilizar Toastmasters International. Toastmasters ofrece un ambiente cálido y amigable en el que ganar confianza para hablar en público. Habiendo estado en existencia durante 80 años, proporcionan un método probado, verdadero y efectivo para entrenar oradores. Además, Toastmasters tiene miles de clubes en todo el mundo. A menudo hay muchos lugares y horarios para elegir en un área determinada.
 
@@ -135,7 +141,7 @@ Mary Jo Garascia al 303-698-2752 o pilgrim_mj@yahoo.com
 
 ## ¡Arte, Arte y más Arte!
 
-Hermosas y emocionantes pinturas al óleo, acuarelas, diseños gráficos, cerámica, escultura en diferentes medios, móviles y mucho más estarán en exhibición en la Galería de Arte de la Conferencia Internacional de la Fraternidad de El Libro de Urantia, que se llevará a cabo en Villanova, cerca de Filadelfia, del 30 de julio al 4 de agosto de 2005. .
+Hermosas y emocionantes pinturas al óleo, acuarelas, diseños gráficos, cerámica, escultura en diferentes medios, móviles y mucho más estarán en exhibición en la Galería de Arte de la Conferencia Internacional de la Fellowship de El Libro de Urantia, que se llevará a cabo en Villanova, cerca de Filadelfia, del 30 de julio al 4 de agosto de 2005. .
 
 Se recomiendan especialmente los temas relacionados con _El Libro de Urantia_, pero todos los temas son bienvenidos. Todos los artistas que deseen exhibir sus obras deben completar un formulario especial de exhibición de artistas. El espacio es limitado y se solicita a los posibles expositores que presenten su solicitud lo antes posible a Nick Curto, a nicknyny@nyc.rr.com o llamen al (917) 701-9033 de 7 a 9 p. m. EST.
 
@@ -170,7 +176,7 @@ Los miembros e invitados de The First Society (Chicago) y Greater Lake Michigan 
 
 Los asistentes a la octava conferencia anual Lone Star Roundup en el Centro de Retiro Briarwood en el norte de Texas visitan durante un receso del programa. El programa incluyó una magnífica exploración en profundidad de «La religión del espíritu», que incluye lecturas encantadoras de la poesía excepcional de la poetisa galardonada K. Brendi Poppel de Santa Bárbara, CA.
 
-Los participantes en la conferencia de Heart of America Society en septiembre disfrutaron de un tiempo para una conversación tranquila después de un servicio en el jardín de rosas en Unity Village, MO. Los presentadores de la conferencia exploraron la naturaleza del Espíritu de la Madre Creativa, y el fin de semana también incluyó una reunión del Consejo General de la Fraternidad,
+Los participantes en la conferencia de Heart of America Society en septiembre disfrutaron de un tiempo para una conversación tranquila después de un servicio en el jardín de rosas en Unity Village, MO. Los presentadores de la conferencia exploraron la naturaleza del Espíritu de la Madre Creativa, y el fin de semana también incluyó una reunión del Consejo General de la Fellowship,
 
 imágenes---
 
@@ -228,8 +234,8 @@ Envíe las entradas a: Thomas Orjala, 782 South Ruby Rd, Coeur d 'Alerte, Idaho 
 ## Usted debe saber...
 
 - El Consejo General de _El Libro de Urantia_ Fellowsllip celebrará una reunión anual de mitad de año en Atlanta, GA, el sábado y domingo 29 y 30 de enero. 2005, en el Hotel Crowne Plaza cerca del aeropuerto. La reunión del Consejo estará abierta a todos los lectores que deseen observar los procedimientos, y los Consejeros esperan conocer a los miembros de los grupos de estudio locales.
-- El archivo de audio en el sitio web de Fellowship se ha ampliado para incluir las composiciones musicales del difunto Sandy Garrick. Sandy, compositor y productor de renombre internacional, gustaba de poner música a sus pasajes favoritos de _El Libro de Urantia_. Las grabaciones de sus interpretaciones de esta música están disponibles en formato MP3 en http:/urantiabook.org/audio/Garrick/index.html.
-- En algún momento a principios de noviembre, los lectores de Lituania deberían haber recibido sus libros, la traducción al lituano se distribuirá. Actualmente, la Fraternidad está haciendo planes para participar en una feria del libro de Lituania en febrero de 2005.
+- El archivo de audio en el sitio web de la Fellowship se ha ampliado para incluir las composiciones musicales del difunto Sandy Garrick. Sandy, compositor y productor de renombre internacional, gustaba de poner música a sus pasajes favoritos de _El Libro de Urantia_. Las grabaciones de sus interpretaciones de esta música están disponibles en formato MP3 en http:/urantiabook.org/audio/Garrick/index.html.
+- En algún momento a principios de noviembre, los lectores de Lituania deberían haber recibido sus libros, la traducción al lituano se distribuirá. Actualmente, la Fellowship está haciendo planes para participar en una feria del libro de Lituania en febrero de 2005.
 
 ## Enlaces externos
 
@@ -242,6 +248,9 @@ Envíe las entradas a: Thomas Orjala, 782 South Ruby Rd, Coeur d 'Alerte, Idaho 
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2004_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2004</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-2004">
@@ -249,6 +258,9 @@ Envíe las entradas a: Thomas Orjala, 782 South Ruby Rd, Coeur d 'Alerte, Idaho 
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2005_Spring">
+          <span class="pr-2">Edición de primavera de 2005</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

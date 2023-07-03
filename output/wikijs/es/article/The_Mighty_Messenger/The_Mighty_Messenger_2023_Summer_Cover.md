@@ -44,7 +44,7 @@ Estas citas muestran que la fuente de la cita proviene del Texto de referencia e
 
 > **NOTA DE LOS EDITORES DE URANTIAPEDIA**
 >
-> Aunque esta publicación utiliza el sistema de referencia indicado anteriormente en su versión original disponible en el sitio web de la Fraternidad, al convertir este contenido y cualquier otro contenido a Urantiapedia, estamos procediendo con una conversión de las referencias a un [sistema global único de referencias](/es/help/links#sistema-global-%C3%BAnico-de-referencias-de-el-libro-de-urantia) que evitan confusiones y siguen los principios fundamentales de nuestro sitio web.
+> Aunque esta publicación utiliza el sistema de referencia indicado anteriormente en su versión original disponible en el sitio web de la Fellowship, al convertir este contenido y cualquier otro contenido a Urantiapedia, estamos procediendo con una conversión de las referencias a un [sistema global único de referencias](/es/help/links#sistema-global-%C3%BAnico-de-referencias-de-el-libro-de-urantia) que evitan confusiones y siguen los principios fundamentales de nuestro sitio web.
 {.is-warning}
 
 ## DECLARACIÓN DE EXENCIÓN DE RESPONSABILIDAD

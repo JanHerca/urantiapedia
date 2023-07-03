@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1998_Fall_Winter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fall/Winter 1998</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-1999">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1999_Fall">
+          <span class="pr-2">Edición de otoño de 1999</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -31,7 +37,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Una gran cantidad de actividades te esperan en Spiritquest 2000
 
-En el momento de escribir este artículo, unas 800 personas se han inscrito en SpiritQuest 2000, la conferencia internacional de la Fellowship de _El Libro de Urantia_', que se celebrará del 7 al 12 de agosto en Vancouver, Columbia Británica. «No me sorprendería si finalmente vinieran mil personas», dice Steve Dreier, coordinador de la conferencia y vicepresidente de UB Fellowship. Con la promesa de ser verdaderamente internacional, se espera que la conferencia atraiga a participantes de todo el mundo. Con la ayuda de las generosas contribuciones de los lectores, la Fraternidad estableció un fondo de Fellowships para ayudar a sufragar los gastos de viaje y alojamiento de una serie de lectores de África y América Latina que de otro modo no podrían asistir. También se está ofreciendo asistencia a algunos EE. lectores bajo la rúbrica de un programa de estudio de trabajo / Fellowship que requiere que los beneficiarios realicen un servicio en la conferencia (ver inserto). Además de un programa de talleres y sesiones plenarias, se han brindado oportunidades para la socialización, actividades recreativas, obsequios previos a la conferencia y reuniones de grupos de interés especial.
+En el momento de escribir este artículo, unas 800 personas se han inscrito en SpiritQuest 2000, la conferencia internacional de la Fellowship de _El Libro de Urantia_', que se celebrará del 7 al 12 de agosto en Vancouver, Columbia Británica. «No me sorprendería si finalmente vinieran mil personas», dice Steve Dreier, coordinador de la conferencia y vicepresidente de UB Fellowship. Con la promesa de ser verdaderamente internacional, se espera que la conferencia atraiga a participantes de todo el mundo. Con la ayuda de las generosas contribuciones de los lectores, la Fellowship estableció un fondo de la Fellowship para ayudar a sufragar los gastos de viaje y alojamiento de una serie de lectores de África y América Latina que de otro modo no podrían asistir. También se está ofreciendo asistencia a algunos EE. lectores bajo la rúbrica de un programa de estudio de trabajo / Fellowship que requiere que los beneficiarios realicen un servicio en la conferencia (ver inserto). Además de un programa de talleres y sesiones plenarias, se han brindado oportunidades para la socialización, actividades recreativas, obsequios previos a la conferencia y reuniones de grupos de interés especial.
 
 ### Retiro de artistas - Adoración a través de las artes - 5-7 de agosto
 
@@ -53,15 +59,15 @@ Se invita a participar en este taller a escritores, editores y editores interesa
 
 ### Reunión del Consejo General 12 y 13 de agosto
 
-La reunión del Consejo General de la Fraternidad se llevará a cabo en el campus después de la conclusión de la conferencia el 12 de agosto de 7 a 71 p. m. y el 13 de agosto de 9 a 5. Los miembros de la Comunidad son bienvenidos a observar la reunión.
+La reunión del Consejo General de la Fellowship se llevará a cabo en el campus después de la conclusión de la conferencia el 12 de agosto de 7 a 71 p. m. y el 13 de agosto de 9 a 5. Los miembros de la Fellowship son bienvenidos a observar la reunión.
 
 ### Actividades en el área de Vancouver
 
-La información sobre turismo en el área de Vancouver y otra información turística general está disponible en www.tourism-vancouver.org oa través de un enlace a ese sitio a través del sitio web de la Fraternidad www.urantiabook.org.
+La información sobre turismo en el área de Vancouver y otra información turística general está disponible en www.tourism-vancouver.org oa través de un enlace a ese sitio a través del sitio web de la Fellowship www.urantiabook.org.
 
 ## Oportunidad de servicio de conferencias
 
-La Fellowship de _El Libro de Urantia_ está buscando doce adultos jóvenes (17-25) para participar en un equipo de trabajo durante la duración de la conferencia en Vancouver. Las asignaciones de trabajo pueden consistir en lo siguiente: Montaje, desmontaje y almacenamiento de sillas antes y después de los talleres; montaje del Club UB; ayudar durante las pausas para el café; entrega/recogida de equipos; ayudar a los programas para niños y adolescentes; asistencia en el registro para personas mayores / familias. Los miembros de la tripulación se alojarán en dos suites de seis pisos reservadas en el campus y recibirán descuentos sustanciales en alojamiento y comidas, así como una exención de su tarifa de registro (un ahorro total de $230 por miembro). Independientemente de sus asignaciones de trabajo, los miembros de la tripulación tendrán tiempo suficiente para participar en los eventos de la conferencia. Los miembros de la tripulación deben llegar el viernes 6 de agosto por la tarde y planear asistir a toda la conferencia. que finaliza el jueves 12 de agosto por la tarde. Para registrarse, complete el formulario de registro disponible en el sitio web de Fellowship o llame a John Hales al 7731327-0424.
+La Fellowship de _El Libro de Urantia_ está buscando doce adultos jóvenes (17-25) para participar en un equipo de trabajo durante la duración de la conferencia en Vancouver. Las asignaciones de trabajo pueden consistir en lo siguiente: Montaje, desmontaje y almacenamiento de sillas antes y después de los talleres; montaje del Club UB; ayudar durante las pausas para el café; entrega/recogida de equipos; ayudar a los programas para niños y adolescentes; asistencia en el registro para personas mayores / familias. Los miembros de la tripulación se alojarán en dos suites de seis pisos reservadas en el campus y recibirán descuentos sustanciales en alojamiento y comidas, así como una exención de su tarifa de registro (un ahorro total de $230 por miembro). Independientemente de sus asignaciones de trabajo, los miembros de la tripulación tendrán tiempo suficiente para participar en los eventos de la conferencia. Los miembros de la tripulación deben llegar el viernes 6 de agosto por la tarde y planear asistir a toda la conferencia. que finaliza el jueves 12 de agosto por la tarde. Para registrarse, complete el formulario de registro disponible en el sitio web de la Fellowship o llame a John Hales al 7731327-0424.
 
 ## La aventura de la deidad
 
@@ -87,17 +93,17 @@ El panel agradece sus ideas y sugerencias sobre el cuidado de los comoderadores 
 
 ## Difundir la palabra
 
-Si le gusta recibir material de la Comunidad, incluida esta publicación, y conoce a un lector de _El Libro de Urantia_ que no obtiene estos beneficios, puede hacerle un favor a esa persona y preguntarle si le gustaría estar en la lista de correo. . Lograrlo es lo más fácil del mundo. Una llamada telefónica, correo electrónico, fax. o incluso el correo postal es todo lo que se necesita.
+Si le gusta recibir material de la Fellowship, incluida esta publicación, y conoce a un lector de _El Libro de Urantia_ que no obtiene estos beneficios, puede hacerle un favor a esa persona y preguntarle si le gustaría estar en la lista de correo. . Lograrlo es lo más fácil del mundo. Una llamada telefónica, correo electrónico, fax. o incluso el correo postal es todo lo que se necesita.
 
 El acto es tuyo...
 
 ## Futuristas para encontrarse con UB
 
-Una subvención de la Fraternidad y de la Society of Greater New York ha hecho posible que el New York Outreach Committee lleve _El Libro de Urantia_, por primera vez, a un nuevo escenario. Situada en Bethesda, Maryland, y con más de 32.000 miembros en todo el mundo, The World Future Society celebrará su novena Asamblea General del 29 de julio al 1 de agosto de 1999 en Hilton Towers en Washington, DC. Se espera que asistan aproximadamente 1.200 participantes de más de 30 países a este evento, cuyo tema es «Fronteras del siglo XXI». Estos participantes son personas que buscan ideas, métodos y enfoques innovadores en todas las áreas del quehacer humano. A través de discusiones, talleres e interacciones informales, los participantes abordarán los temas importantes que enfrentamos mientras nos preparamos para ingresar al próximo milenio. La «feria mundial de las ideas» de la Asamblea incluirá sesiones sobre el medio ambiente, las nuevas tecnologías, el cambio social y mucho, mucho más. «Además de las exposiciones en las que hemos estado participando durante años, es importante que hagamos más actividades de divulgación como esta, a otras organizaciones y comunidades a las que nunca nos hemos dirigido antes», dijo Robin Jorgensen del Comité de Promoción.
+Una subvención de la Fellowship y de la Society of Greater New York ha hecho posible que el New York Outreach Committee lleve _El Libro de Urantia_, por primera vez, a un nuevo escenario. Situada en Bethesda, Maryland, y con más de 32.000 miembros en todo el mundo, The World Future Society celebrará su novena Asamblea General del 29 de julio al 1 de agosto de 1999 en Hilton Towers en Washington, DC. Se espera que asistan aproximadamente 1.200 participantes de más de 30 países a este evento, cuyo tema es «Fronteras del siglo XXI». Estos participantes son personas que buscan ideas, métodos y enfoques innovadores en todas las áreas del quehacer humano. A través de discusiones, talleres e interacciones informales, los participantes abordarán los temas importantes que enfrentamos mientras nos preparamos para ingresar al próximo milenio. La «feria mundial de las ideas» de la Asamblea incluirá sesiones sobre el medio ambiente, las nuevas tecnologías, el cambio social y mucho, mucho más. «Además de las exposiciones en las que hemos estado participando durante años, es importante que hagamos más actividades de divulgación como esta, a otras organizaciones y comunidades a las que nunca nos hemos dirigido antes», dijo Robin Jorgensen del Comité de Promoción.
 
 _El Libro de Urantia_ tendrá visibilidad en el evento mediante una exhibición de mesa de dos metros y medio atendida por cuatro lectores veteranos, un área de exhibición de libros separada, un lugar en la Librería Futurista y un anuncio de exhibición en el Programa principal. «Esta es una oportunidad maravillosa para conocer y relacionarse con futuros pensadores líderes de todo el país y el mundo, y compartir con estos hombres y mujeres de todos los orígenes el mensaje y las perspectivas inspiradoras y vitales de la UB. Estamos todos muy emocionados», comentó Nick Curto, miembro de la World Future Society y del NY Outreach Committee. «¡Es el momento adecuado y ahora es el momento!».
 
-## Comités de Fellowships - Trabajos en progreso
+## Comités de la Fellowship - Trabajos en progreso
 
 ### El Comité de Educación
 
@@ -118,21 +124,21 @@ En estrecha colaboración con el Comité de Extensión Nacional, se ha desarroll
 
 El Comité de Relaciones Públicas jugó un papel decisivo en el cambio de nombre de la organización a la Fellowship de _El Libro de Urantia_, y en la implementación de un identificador logográfico y papelería nueva. Se ha establecido un Archivo multimedia para recopilar presentaciones de audio y vídeo de materiales relacionados con _El Libro de Urantia_ con fines históricos y educativos. La capacitación en medios ha comenzado con una serie de talleres diseñados para ayudar a los lectores a hablar sobre el libro al público en caso de que los medios de comunicación se acerquen a ellos. El próximo taller será en SpiritQuest 2000 en Vancouver este verano.
 
-Este verano se estrenará un nuevo kit de bienvenida multiusos, que también estará disponible a través del sitio web de la Fraternidad. El kit incluye un folleto que describe las actividades y objetivos de la Fellowship, una carta de bienvenida del presidente, una lista de publicaciones, un directorio de grupos de estudio y una muestra de boletines. Próximamente se encuentra un kit de medios (que explica el libro y la organización en caso de consultas de los medios) y un kit de grupo de estudio.
+Este verano se estrenará un nuevo kit de bienvenida multiusos, que también estará disponible a través del sitio web de la Fellowship. El kit incluye un folleto que describe las actividades y objetivos de la Fellowship, una carta de bienvenida del presidente, una lista de publicaciones, un directorio de grupos de estudio y una muestra de boletines. Próximamente se encuentra un kit de medios (que explica el libro y la organización en caso de consultas de los medios) y un kit de grupo de estudio.
 
 Si desea ofrecer sus talentos (gráficos, escritura, traducción) a este comité, comuníquese con Lorrie Krasny o Alison Gardner c/o la Fellowship.
 
 ### Comité de estatutos
 
-El comité está trabajando en la exploración de las necesidades de los grupos fuera de los EE.UU. También está en proceso de desarrollar una lista de correo electrónico para los funcionarios de la sociedad y nuevas formas de unirse a la Fraternidad.
+El comité está trabajando en la exploración de las necesidades de los grupos fuera de los EE.UU. También está en proceso de desarrollar una lista de correo electrónico para los funcionarios de la sociedad y nuevas formas de unirse a la Fellowship.
 
 ### Extensión nacional
 
-El comité presentó un nuevo número gratuito de Fellowship, 871-335-5669. Las exposiciones se llevaron a cabo por primera vez en Denver y Ft. Lauderdale. Se está trabajando en la creación de un sitio web para los grupos de estudio.
+El comité presentó un nuevo número gratuito de la Fellowship, 871-335-5669. Las exposiciones se llevaron a cabo por primera vez en Denver y Ft. Lauderdale. Se está trabajando en la creación de un sitio web para los grupos de estudio.
 
 ### Sitio web
 
-Actualmente disponible en el sitio web de la Fraternidad hay una amplia gama de documentos históricos, ayudas para el estudio, fotografías, grabaciones de sonido y el texto completo de _El Libro de Urantia_ con un motor de búsqueda. La incorporación más reciente es la nueva base de datos de Paramony de Duane Faw, que contiene más de 13.000 referencias cruzadas entre la Biblia y _El Libro de Urantia_. En la actualidad, el sitio ofrece más de 90 megabytes de material a más de 800 personas las veinticuatro horas. La nueva base de datos y las herramientas de búsqueda que se incorporarán a finales de este año continuarán ampliando la usabilidad de esta base de conocimientos. David Kantor, presidente del Comité de Proyectos Especiales y Webmaster de Fellowship, conducirá un taller en IC99 sobre cómo usar este recurso de rápido crecimiento.
+Actualmente disponible en el sitio web de la Fellowship hay una amplia gama de documentos históricos, ayudas para el estudio, fotografías, grabaciones de sonido y el texto completo de _El Libro de Urantia_ con un motor de búsqueda. La incorporación más reciente es la nueva base de datos de Paramony de Duane Faw, que contiene más de 13.000 referencias cruzadas entre la Biblia y _El Libro de Urantia_. En la actualidad, el sitio ofrece más de 90 megabytes de material a más de 800 personas las veinticuatro horas. La nueva base de datos y las herramientas de búsqueda que se incorporarán a finales de este año continuarán ampliando la usabilidad de esta base de conocimientos. David Kantor, presidente del Comité de Proyectos Especiales y Webmaster de la Fellowship, conducirá un taller en IC99 sobre cómo usar este recurso de rápido crecimiento.
 
 ## Proyecto Palomita
 
@@ -206,6 +212,9 @@ Teléfono: 773-327-0424. Fax: 713-327-6159 Correo electrónico: Fellowship@urant
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1998_Fall_Winter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fall/Winter 1998</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-1999">
@@ -213,6 +222,9 @@ Teléfono: 773-327-0424. Fax: 713-327-6159 Correo electrónico: Fellowship@urant
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_1999_Fall">
+          <span class="pr-2">Edición de otoño de 1999</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

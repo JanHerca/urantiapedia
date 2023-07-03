@@ -3,7 +3,7 @@ title: "The Mighty Messenger — Fall 1997 Issue"
 description: "News and opinions for Readers of The Urantia Book"
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: religion, The Urantia Book, Global Seeding, Mighty Messenger, article
+tags: religion, Fellowship, Urantia Movement Event, LGBT, Mighty Messenger, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -67,17 +67,7 @@ The Executive Committee, which had convened in a prescheduled planning retreat i
 
 A day after the statement was issued, Foundation President Mundelius called Fellowship President Graham to inform her that, in response to the unanticipated community outrage over the subpoenas, the subpoenas had been withdrawn. A response to the subpoenas, which could not be reversed in time, was the cancellation of a visit by a Fellowship representative to the Foundation's translators conference held in Paris over the first weekend in November.
 
-Objective views regarding the complex relationship between the Fellowship and the Foundation are difficult, if not impossible, to come by. Individual positions among readers range from unqualified support for either organization to total rejection of both. There is no uniformity of opinion regarding the best approach to this persistent problem among the Fellowship's General Council or Executive Committee. One would expect that as divergent viewpoints are reconciled in light of supreme values, the organizations, as well as the entire Urantia Book reading community will achieve greater and greater harmony.
-
-Supporting The Fellowship Joseph Liszka, Chair, Finance Committee
-
-To “go forth and teach all nations in the name of the Father and of the Son and of the Holy Spirit” was a biblical admonition but one which The Fellowship has taken on as its responsibility as well.
-
-And why not? Consider the import of _The Urantia Book_ as a revelation of epochal significance. Dare we simply bathe in its magnificence and say, “We got ours, who cares about where you get yours?” Of course not!
-
-Let me make a flat-out statement. The Fellowship is an organization that is dedicated to promulgating _The Urantia Book_ and its distribution, as well as its spiritual and social support systems. As a result of this dedication and in response to the needs of its readership, the Fellowship seeks and certainly hopes to find your support as well.
-
-It's the time of year when giving is so much a part of the season, a season which reflects the generosity and love from our Father who has given us life and meaning. Won't you please help us in our mission and give as generously as you can? Thank you.
+Objective views regarding the complex relationship between the Fellowship and the Foundation are difficult, if not impossible, to come by. Individual positions among readers range from unqualified support for either organization to total rejection of both. There is no uniformity of opinion regarding the best approach to this persistent problem among the Fellowship's General Council or Executive Committee. One would expect that as divergent viewpoints are reconciled in light of supreme values, the organizations, as well as the entire _Urantia Book_ reading community will achieve greater and greater harmony.
 
 ## GLAD Newsletter Premiers
 
@@ -89,7 +79,7 @@ GLAD is now accepting articles, stories, poetry and artwork for the next issue o
 
 by _Meredith J. Sprunger_
 
-The major responsibility in the Urantia movement, in my judgment, is disseminating the unique spiritual-cosmological paradigm of the fifth epochal revelation. The authors of _The Urantia Book_ project two venues in which this will take place: (1) by establishing new religious groups (p. 966), and (2) by leavening traditional religions (p. 1041 and p. 2082).
+The major responsibility in the Urantia movement, in my judgment, is disseminating the unique spiritual-cosmological paradigm of the fifth epochal revelation. The authors of _The Urantia Book_ project two venues in which this will take place: (1) by establishing new religious groups ([UB 87:7.10](/en/The_Urantia_Book/87#p7_10)), and (2) by leavening traditional religions ([UB 94:12.7](/en/The_Urantia_Book/94#p12_7) and [UB 195:9.2](/en/The_Urantia_Book/195#p9_2)).
 
 No major value system or religion in the history of our planet has acculturated society without being institutionalized. The authors of _The Urantia Book_ observe that the institutionalization of religion increases the potential for evil, but they go on to say that religion cannot survive in civilized society without being institutionalized. The teachings of the fifth epochal revelation must, sooner or later, be institutionalized to acculturate and transform our religious understanding and social institutions. Our basic challenge is to discover, reform, or create the social religious vehicles that can accomplish this task.
 
@@ -99,7 +89,9 @@ The viability of the fifth epochal revelation must be established through indige
 
 The new mission of The Spiritual Fellowship Journal will be to promote the discussion of theological, philosophical, and polity ideas associated with “An Appropriate Symbolism and Socioreligious Expression of the Fifth Epochal Revelation.” We will encourage a discussion of all aspects of this theme.
 
-We recognize that intellectuals, idealists, and free-lancers are uncomfortable with institutions. They have a constructive role to play in this discussion by keeping the “institution-oriented” thinking and planning spiritually sensitive and honest. We look forward to a lively and enriching discussion of the socioreligious potentials of the fifth epochal revelation. KENTON E. STEPHENS 1928 - 1997
+We recognize that intellectuals, idealists, and free-lancers are uncomfortable with institutions. They have a constructive role to play in this discussion by keeping the “institution-oriented” thinking and planning spiritually sensitive and honest. We look forward to a lively and enriching discussion of the socioreligious potentials of the fifth epochal revelation. 
+
+## Kenton E. Stephens 1928 - 1997
 
 We mark the death of yet another Forum member and distinguished servant of the Urantia revelation.
 
@@ -115,7 +107,7 @@ Although Kenton had devoted his earlier career to education, he eventually left 
 <img src="/image/article/The_Mighty_Messenger/1997_Fall/005961.jpg">
 </figure>
 
-Plenty of free socializing and fellowship time was built into this conference, a joint undertaking of the Houston, Austin, and Dallas/Fort Worth groups. The theme focused on the three essentials of the kingdom of heaven, as Jesus explained them to the apostle John on page 1585. Each Texas location led workshops on one of these three essentials. A worship service was held Saturday night, followed by a meeting to discuss plans and improvements for future Round-Ups.
+Plenty of free socializing and fellowship time was built into this conference, a joint undertaking of the Houston, Austin, and Dallas/Fort Worth groups. The theme focused on the three essentials of the kingdom of heaven, as Jesus explained them to the apostle John on [UB 140:10.9](/en/The_Urantia_Book/140#p10_9). Each Texas location led workshops on one of these three essentials. A worship service was held Saturday night, followed by a meeting to discuss plans and improvements for future Round-Ups.
 
 The resolve to make this an annual event was unanimous. It was decided that planners should investigate other locations in the central Texas area that would include camping facilities and more affordable accommodation for families. The structure will remain similar with all three areas contributing in a team effort. Austin will spearhead plans for the '98 conference, with Houston leading the one in '99.
 
@@ -123,7 +115,7 @@ The resolve to make this an annual event was unanimous. It was decided that plan
 
 by _Peter Laurence_, Armonk, NY
 
-It was in 1902 that William James first published the classic series of lectures that described his studies of religious experience. James made it clear that he was interested only in first-hand religious experience, in contrast with religion that “has been made...by others, communicated...by tradition, determined to fixed forms by imitation, and retained by habit.” He felt that “It would profit us little to study this second-hand religious life. We must...search rather for the original experiences which were the pattern-setters to all this mass of suggested feeling and imitated conduct.” (William James, The Varieties of Religious Experience, New York: The Modern Library, 1936, p.8)
+It was in 1902 that William James first published the classic series of lectures that described his studies of religious experience. James made it clear that he was interested only in first-hand religious experience, in contrast with religion that “has been made...by others, communicated...by tradition, determined to fixed forms by imitation, and retained by habit.” He felt that “It would profit us little to study this second-hand religious life. We must...search rather for the original experiences which were the pattern-setters to all this mass of suggested feeling and imitated conduct.” (William James, _The Varieties of Religious Experience_, New York: The Modern Library, 1936, p.8)
 
 I draw attention to this distinction because there has been a surge in the desire by readers of _The Urantia Book_ to establish forms of expression that embody the potential for becoming yet one more religion made by others, communicated by tradition, determined to fixed forms by imitation, and retained by habit. I use the word “potential” in the hope that there may be ways of avoiding the pitfalls into which so many religious traditions have fallen, and in the brief space allotted I'd like to raise some issues to help focus the process of exploring those pitfalls.
 
@@ -144,6 +136,18 @@ The Fellowship website is under continual development. The project to digitize, 
 ## List Your Events
 
 A “Current Events” section of the website is available for you to promote local conferences and even study group events in your area. Send announcements to [dkantor@ubfellowship.org](mailto:dkantor@ubfellowship.org) and find them published at [http://urantia-book.org/news/](https://archive.urantiabook.org/news/). Articles from the Mighty Messenger may also be found at this address.
+
+_David Kantor_, Website Coordinator
+
+To “go forth and teach all nations in the name of the Father and of the Son and of the Holy Spirit” was a biblical admonition but one which The Fellowship has taken on as its responsibility as well.
+
+And why not? Consider the import of _The Urantia Book_ as a revelation of epochal significance. Dare we simply bathe in its magnificence and say, “We got ours, who cares about where you get yours?” Of course not!
+
+Let me make a flat-out statement. The Fellowship is an organization that is dedicated to promulgating _The Urantia Book_ and its distribution, as well as its spiritual and social support systems. As a result of this dedication and in response to the needs of its readership, the Fellowship seeks and certainly hopes to find your support as well.
+
+It's the time of year when giving is so much a part of the season, a season which reflects the generosity and love from our Father who has given us life and meaning. Won't you please help us in our mission and give as generously as you can? Thank you.
+
+_Joseph Liszka_, Chair, Finance Committee
 
 ## External Links
 

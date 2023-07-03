@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2007_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2007</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-2007">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2008_Spring">
+          <span class="pr-2">Edición de primavera de 2008</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -58,7 +64,7 @@ Por _Susan Ransbottom_
 <img src="/image/article/The_Mighty_Messenger/2007_Winter/Agustin_Arellano.jpg">
 </figure>
 
-Después de varios años de discusión y planificación cuidadosa, la Fraternidad ha creado un nuevo puesto de personal de medio tiempo diseñado para servir a los lectores fuera de la cultura y el continente de América del Norte. Agustín Arellano, fundador de Grupo Orvonton en México y ex miembro del Consejo General, fue seleccionado luego de un proceso de contratación intensivo e internacional.
+Después de varios años de discusión y planificación cuidadosa, la Fellowship ha creado un nuevo puesto de personal de medio tiempo diseñado para servir a los lectores fuera de la cultura y el continente de América del Norte. Agustín Arellano, fundador de Grupo Orvonton en México y ex miembro del Consejo General, fue seleccionado luego de un proceso de contratación intensivo e internacional.
 
 Agustín es lingüista y habla con fluidez al menos seis idiomas. Es un estudiante de toda la vida de las tradiciones espirituales y un devoto lector/creyente de _El Libro de Urantia_ desde finales de la década de 1970. Mientras trabajaba como guía turístico profesional y profesor de idiomas, presentó el libro a otros profesores y, con su ayuda, comenzó a traducir documentos individuales para iniciar el primer grupo de estudio en su ciudad natal de Mazatlán, México en 1986. En varios años, este grupo se convirtió en tan grande que comenzaron a reunirse los fines de semana en el rancho de un miembro en las montañas sobre Mazatlán.
 
@@ -70,7 +76,7 @@ Agustín es creativo en sus esfuerzos de divulgación y describe _El Libro de Ur
 
 Agustín terminó recientemente su doctorado en Psicología de la Universidad Nacional Autónoma de México, especializándose en Terapia Gestalt, y utilizó modelos de grupos de estudio de _El Libro de Urantia_ como tema para sus tesis de maestría y doctorado. Comienza su puesto remunerado con la Fellowship al mismo tiempo que inicia su carrera profesional como terapeuta.
 
-La creación de este cargo marca un nuevo compromiso de la Fraternidad para cumplir su misión de llegar y servir a «los pueblos del mundo». Le damos una calurosa bienvenida al Dr. Arellano y esperamos esta expansión de los servicios de la Fellowship en todo el continente americano y más allá.
+La creación de este cargo marca un nuevo compromiso de la Fellowship para cumplir su misión de llegar y servir a «los pueblos del mundo». Le damos una calurosa bienvenida al Dr. Arellano y esperamos esta expansión de los servicios de la Fellowship en todo el continente americano y más allá.
 
 ## Alcance en la ciudad de Nueva York
 
@@ -105,7 +111,7 @@ Westminster, CO 80021
 
 Por _Agustín Arellano y Buck Weimer_
 
-A finales de mayo y principios de junio de este año, el Comité Internacional de Fellowships montó una misión de extensión a Argentina y Chile. Los miembros del equipo incluyeron: Agustín Arellano, Jorge Ortiga (México), Nelida Oliver (Argentina/Ecuador), Dr. Rafael y Nidia Arias Rojas (Costa Rica), Dolores Nice (San Francisco) y Arlene y Buck Weimer (Colorado).
+A finales de mayo y principios de junio de este año, el Comité Internacional de la Fellowship montó una misión de extensión a Argentina y Chile. Los miembros del equipo incluyeron: Agustín Arellano, Jorge Ortiga (México), Nelida Oliver (Argentina/Ecuador), Dr. Rafael y Nidia Arias Rojas (Costa Rica), Dolores Nice (San Francisco) y Arlene y Buck Weimer (Colorado).
 
 Luego de rendir homenaje al mausoleo de Evita Perón y reencontrarnos con viejos amigos, salimos de Buenos Aires rumbo a Córdoba; una ciudad universitaria al norte. Desde allí lo llevamos en autobús a la comunidad montañesa de Capilla del Monte donde Nelida, Dolores y Rafael dieron dos largas entrevistas en la estación de radio regional respondiendo preguntas sobre El Libro de Urantia. Se dejó un libro para la biblioteca pública.
 
@@ -129,7 +135,7 @@ Esa noche fue nuestro evento más productivo y notable. Aproximadamente setenta 
 <img src="/image/article/The_Mighty_Messenger/2007_Winter/005659.jpg">
 </figure>
 
-Uno de los asistentes fue Carlos Rubinsky, representante de la UAI en la región. Discutimos los esfuerzos de reconciliación entre la Fraternidad y la Fundación, nos dimos la mano, nos abrazamos y acordamos que «la guerra ha terminado». Al día siguiente, los miembros del grupo de estudio de Nélida y el grupo de estudio de Carlos se reunieron, 18 en total, por primera vez. Y, como muestra de la nueva unidad, acordamos copatrocinar y compartir un stand en la Feria del Libro de Buenos Aires, la más grande de América del Sur, en abril y mayo de 2008.
+Uno de los asistentes fue Carlos Rubinsky, representante de la UAI en la región. Discutimos los esfuerzos de reconciliación entre la Fellowship y la Fundación, nos dimos la mano, nos abrazamos y acordamos que «la guerra ha terminado». Al día siguiente, los miembros del grupo de estudio de Nélida y el grupo de estudio de Carlos se reunieron, 18 en total, por primera vez. Y, como muestra de la nueva unidad, acordamos copatrocinar y compartir un stand en la Feria del Libro de Buenos Aires, la más grande de América del Sur, en abril y mayo de 2008.
 
 Cinco de nosotros continuamos hacia Santiago, Chile, donde dimos una serie de tres presentaciones en un día, a la que asistieron treinta y seis almas curiosas y cuestionadoras. Una vez más, este apetito insaciable por algo nuevo acerca de Jesús, por una nueva teología, es un fenómeno digno de contemplar. Agotamos casi todos los materiales que habíamos traído de los Estados Unidos. También mientras estuvo allí, Agustín quemó sesenta y cuatro CD, doce DVD y se conectó con más de cuarenta y cinco llamadas telefónicas.
 
@@ -166,14 +172,14 @@ Hay dos formas principales en las que los miembros de la comunidad de estudiante
 
 ### El futuro
 
-El movimiento interreligioso está preparando el suelo de este mundo para la implantación del _El Libro de Urantia_ en un consejo, entonces eso es ideal, pero los consejos interreligiosos a menudo limitan su membresía a las tradiciones religiosas más antiguas. En ese caso, tal vez haya una forma de prestar servicio en conjunto con las actividades interreligiosas locales. Haga contribuciones financieras o ofrezca su tiempo como voluntario para ayudar con actividades interreligiosas, semillas de una comprensión religiosa más profunda. El objetivo del Comité Interreligioso de la Fraternidad del Libro de Urantia y sus adjuntos es ser parte de ese movimiento. Todos creemos que definitivamente podemos ayudar.
+El movimiento interreligioso está preparando el suelo de este mundo para la implantación del _El Libro de Urantia_ en un consejo, entonces eso es ideal, pero los consejos interreligiosos a menudo limitan su membresía a las tradiciones religiosas más antiguas. En ese caso, tal vez haya una forma de prestar servicio en conjunto con las actividades interreligiosas locales. Haga contribuciones financieras o ofrezca su tiempo como voluntario para ayudar con actividades interreligiosas, semillas de una comprensión religiosa más profunda. El objetivo del Comité Interreligioso de la Fellowship del Libro de Urantia y sus adjuntos es ser parte de ese movimiento. Todos creemos que definitivamente podemos ayudar.
 
-> «En realidad, cada ser humano define la religión en términos de su propia interpretación experiencial de los impulsos divinos...» [[LU 103:1.1](/es/The_Urantia_Book/103#p1_1)]
+> «En realidad, cada ser humano define la religión desde el punto de vista de su propia interpretación experiencial de los impulsos divinos...» [[LU 103:1.1](/es/The_Urantia_Book/103#p1_1)]
 
 
 ## El Comité Ejecutivo
 
-de la Fraternidad disfrutaron de las maravillosas reuniones sociales que siguieron a sus reuniones en la ciudad de Oklahoma en octubre.
+de la Fellowship disfrutaron de las maravillosas reuniones sociales que siguieron a sus reuniones en la ciudad de Oklahoma en octubre.
 
 <figure id="Figure_10" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2007_Winter/005661.jpg">
@@ -183,7 +189,7 @@ de la Fraternidad disfrutaron de las maravillosas reuniones sociales que siguier
 
 Para el año 2010, India será la población de habla inglesa más grande de todos los países del mundo; actualmente el 29% o 350 millones de indios hablan inglés. Es el hogar de la mayor población de jóvenes de Urantia, 600 millones de personas menores de 25 años. Junto con China, India está emergiendo como una de las economías más fuertes y respetadas del mercado internacional, y pronto se espera que sea la tercera. más grande del mundo. Su tasa de crecimiento económico se registra en 9.4% y su creciente clase media ya es más grande que la población total de los Estados Unidos.
 
-Por lo tanto, en febrero de 2008, el Comité Internacional de Fellowships de la Fellowship asistirá a la Feria del Libro de Nueva Delhi en otra fantástica aventura de divulgación. Hemos asegurado nuestro stand en la feria; y si está interesado en esta oportunidad única de divulgación, lo invitamos a unirse a nosotros. Las fechas de la feria son del 2 al 10 de febrero de 2008.
+Por lo tanto, en febrero de 2008, el Comité Internacional de la Fellowship de la Fellowship asistirá a la Feria del Libro de Nueva Delhi en otra fantástica aventura de divulgación. Hemos asegurado nuestro stand en la feria; y si está interesado en esta oportunidad única de divulgación, lo invitamos a unirse a nosotros. Las fechas de la feria son del 2 al 10 de febrero de 2008.
 
 Puede venir y ser voluntario en el stand por un día o todo el tiempo. Estamos tratando de coordinar alojamiento asequible, y los vuelos a Nueva Delhi pueden ser costosos, por lo que el tiempo es esencial. Si está interesado en unirse a esta aventura de divulgación, comuníqueselo a Paula Thompson a Fellowship@UrantiaBook.org lo antes posible.
 
@@ -247,15 +253,15 @@ Primera Sociedad de Oklahoma
 
 Por _Lenny Cowles_, Presidente de Membresía
 
-«Un grupo social de seres humanos en armonía de trabajo coordinado representa una fuerza mucho mayor que la simple suma de sus partes». [[LU 133:5.6](/es/The_Urantia_Book/133#p5_6)] Nos asociamos para compartir un propósito común: la difusión mundial de _El Libro de Urantia_ y sus enseñanzas. Dicho más simplemente; los esfuerzos organizados construyen maravillas para la vista.
+«Un grupo social de seres humanos que trabaja en armonía coordinada representa una fuerza mucho más grande que la simple suma de sus componentes». [[LU 133:5.6](/es/The_Urantia_Book/133#p5_6)] Nos asociamos para compartir un propósito común: la difusión mundial de _El Libro de Urantia_ y sus enseñanzas. Dicho más simplemente; los esfuerzos organizados construyen maravillas para la vista.
 
-Con cada nuevo miembro alcanzamos un nuevo nivel de unidad de propósito al mismo tiempo que aceptamos la diversidad de nuestro servicio. Todo lo que la Fraternidad tiene para ofrecer siempre se ofrece gratuitamente sin necesidad de ser miembro. Hacemos esto porque representa simbólicamente la actitud del universo; libremente se nos ha ofrecido todo lo que es eterno sin reservas.
+Con cada nuevo miembro alcanzamos un nuevo nivel de unidad de propósito al mismo tiempo que aceptamos la diversidad de nuestro servicio. Todo lo que la Fellowship tiene para ofrecer siempre se ofrece gratuitamente sin necesidad de ser miembro. Hacemos esto porque representa simbólicamente la actitud del universo; libremente se nos ha ofrecido todo lo que es eterno sin reservas.
 
-Me uní a la Fraternidad porque quería ser parte de un todo mayor. _El Libro de Urantia_ abrió mis ojos y mi corazón, revelando una forma de vida totalmente nueva. Cada uno a su manera se embarca con alegría en la difusión de la buena nueva del Evangelio, porque esa es la misión que el Maestro nos pide a cada uno. También hemos aprendido que lo que más necesita el mundo es «ver a Jesús viviendo de nuevo en la tierra en la experiencia de los mortales nacidos del espíritu que revelan efectivamente al Maestro a todos los hombres». [[LU 195:10.1](/es/The_Urantia_Book/195#p10_1)]
+Me uní a la Fellowship porque quería ser parte de un todo mayor. _El Libro de Urantia_ abrió mis ojos y mi corazón, revelando una forma de vida totalmente nueva. Cada uno a su manera se embarca con alegría en la difusión de la buena nueva del Evangelio, porque esa es la misión que el Maestro nos pide a cada uno. También hemos aprendido que lo que más necesita el mundo es «ver a Jesús viviendo de nuevo en la Tierra en la experiencia de los mortales nacidos del espíritu que revelan el Maestro eficazmente a todos los hombres». [[LU 195:10.1](/es/The_Urantia_Book/195#p10_1)]
 
 Como individuos, podemos hacer brillar una luz, podemos inspirar, podemos y revelamos el amor y la compasión, el gozo y la devoción constante de Jesús. En lo que se refiere al trabajo del individuo, uno a uno, las recompensas son evidentes. Pero hay más que puedes hacer y si acaso te faltan los dones de un apóstol dedicado, o de un maestro dotado, o los de un orador inspirador; entonces hay otras formas de hacer que los esfuerzos humildes sean más efectivos.
 
-«_El espíritu de consejo, el impulso social, la dotación de cooperación entre especies; la capacidad de las criaturas volitivas para armonizar con sus semejantes; el origen del instinto gregario entre las criaturas más humildes._» [[LU 36:5.10](/es/The_Urantia_Book/36#p5_10)] Trabajando en grupo, en sociedades locales, en comités orientados a tareas, o incluso a nivel nacional dentro de el Consejo General, requiere compromiso y dedicación. Si bien rara vez se otorga reconocimiento personal, la participación se recompensa cuando se ve cómo se logra el trabajo, a nivel local, nacional e internacional. La membresía en la Fraternidad le da derecho a aceptar sinceramente su parte en los logros del todo. Dio un paso adelante, levantó la mano, firmó en la línea y aceptó el desafío. Es posible que no haya podido trabajar 24-7-365,
+«_El espíritu de consejo —el impulso social, el don de la cooperación con la especie; la capacidad de las criaturas volitivas para armonizarse con sus compañeros, el origen del instinto gregario entre las criaturas más inferiores._» [[LU 36:5.10](/es/The_Urantia_Book/36#p5_10)] Trabajando en grupo, en sociedades locales, en comités orientados a tareas, o incluso a nivel nacional dentro de el Consejo General, requiere compromiso y dedicación. Si bien rara vez se otorga reconocimiento personal, la participación se recompensa cuando se ve cómo se logra el trabajo, a nivel local, nacional e internacional. La membresía en la Fellowship le da derecho a aceptar sinceramente su parte en los logros del todo. Dio un paso adelante, levantó la mano, firmó en la línea y aceptó el desafío. Es posible que no haya podido trabajar 24-7-365,
 
 Si ya eres miembro, déjame darte las gracias. Manténgase involucrado, continúe con los esfuerzos, sepa que está marcando la diferencia. Si no eres miembro, permíteme invitarte a participar y unirte a nosotros. Si sientes que las revelaciones aprendidas de las páginas de _El Libro de Urantia_ son importantes, que te acercaron a Dios, que te ayudaron a encontrar una manera de aceptar Sus maravillosos dones, entonces compártelo incondicionalmente con los demás. Ayúdanos a ayudar a otros a comenzar y continuar explorando su propio camino personal hacia el Destino del Universo.
 
@@ -291,7 +297,7 @@ Llama al 877. 288.3772 o pide en www.uversapress.com
 
 El Consejo General de la Fellowship de _El Libro de Urantia_ se reunirá en Los Ángeles del 25 al 27 de enero de 2008, en el Hilton LAX (aeropuerto). Se invita a los miembros de la Fellowship a observar la reunión que comenzará a las 7:00 p. m. el viernes 25 y continuará hasta las 22:00 horas. Se reanudará el sábado de 9:00 am a 6:00 pm y nuevamente el domingo por la mañana de 9:00 a 12:00.
 
-Los consejeros están deseando hablar con los lectores de la zona en una reunión social para el sábado por la noche planeada por la Sociedad de Los Ángeles (UBLA) del Libro de Urantia; y en algún momento durante el fin de semana, los miembros del Consejo recorrerán el campus cercano de UCLA, que será el sitio de la Conferencia Internacional de Fellowships del 2 al 6 de julio de 2008.
+Los consejeros están deseando hablar con los lectores de la zona en una reunión social para el sábado por la noche planeada por la Sociedad de Los Ángeles (UBLA) del Libro de Urantia; y en algún momento durante el fin de semana, los miembros del Consejo recorrerán el campus cercano de UCLA, que será el sitio de la Conferencia Internacional de la Fellowship del 2 al 6 de julio de 2008.
 
 Promete ser un fin de semana para reencontrarse con viejos amigos y hacer nuevos.
 
@@ -322,6 +328,9 @@ www.urantiabook.org
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2007_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2007</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-2007">
@@ -329,6 +338,9 @@ www.urantiabook.org
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2008_Spring">
+          <span class="pr-2">Edición de primavera de 2008</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

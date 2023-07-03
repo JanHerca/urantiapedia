@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2008_Winter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de invierno de 2008</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-2009">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2010_Spring">
+          <span class="pr-2">Edición de primavera de 2010</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -85,13 +91,13 @@ Barry Clark es un gerente senior de tecnología de Citigroup recientemente jubil
 <img src="/image/article/The_Mighty_Messenger/2009_Winter/Merritt_Horn.jpg">
 </figure>
 
-La identidad secreta de Merritt Horn es Director de TI de Aurora Organic Dairy en Boulder, Colorado, donde vive con su esposa, Jeanney, y cualquiera de sus cuatro hijas que están de visita en ese momento. Ha sido lector durante más de cuarenta años; fue cofundador y responsable académico de la Escuela de Boulder para estudiantes de _El Libro de Urantia_ y grabó la versión en audio de _El Libro de Urantia_ publicada por la Fraternidad. Merritt es el autor de The Call of the Spirit y actualmente es miembro del Comité de Texto de Referencia Estándar.
+La identidad secreta de Merritt Horn es Director de TI de Aurora Organic Dairy en Boulder, Colorado, donde vive con su esposa, Jeanney, y cualquiera de sus cuatro hijas que están de visita en ese momento. Ha sido lector durante más de cuarenta años; fue cofundador y responsable académico de la Escuela de Boulder para estudiantes de _El Libro de Urantia_ y grabó la versión en audio de _El Libro de Urantia_ publicada por la Fellowship. Merritt es el autor de The Call of the Spirit y actualmente es miembro del Comité de Texto de Referencia Estándar.
 
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2009_Winter/Tim_Hobbs.jpg">
 </figure>
 
-Tim Hobbs, recientemente elegido presidente de Outreach de la Fraternidad, es el actual presidente de la Fraternidad Espiritual de las Montañas Rocosas. Durante los últimos tres años también ha formado parte del comité de la conferencia Estudiantes de Florida de _El Libro de Urantia_ y participa activamente en la Universidad de Urantia y el grupo de empresarios de la UB. Time tiene una Licenciatura en Ciencias en Física e Ingeniería Nuclear de la Escuela de Minas de Colorado. Tim, fundador y director ejecutivo de Data Connect Corporation, tiene veinticinco años de experiencia en desarrollo empresarial y diseño e integración de sistemas. También ha trabajado para Automated Data Processing (ADP) y Ball Corporation.
+Tim Hobbs, recientemente elegido presidente de Outreach de la Fellowship, es el actual presidente de la Fellowship Espiritual de las Montañas Rocosas. Durante los últimos tres años también ha formado parte del comité de la conferencia Estudiantes de Florida de _El Libro de Urantia_ y participa activamente en la Universidad de Urantia y el grupo de empresarios de la UB. Time tiene una Licenciatura en Ciencias en Física e Ingeniería Nuclear de la Escuela de Minas de Colorado. Tim, fundador y director ejecutivo de Data Connect Corporation, tiene veinticinco años de experiencia en desarrollo empresarial y diseño e integración de sistemas. También ha trabajado para Automated Data Processing (ADP) y Ball Corporation.
 
 **Término de 6 años...**
 
@@ -174,7 +180,7 @@ Por _Cece Forrester_
 <img src="/image/article/The_Mighty_Messenger/2009_Winter/005723.jpg">
 </figure>
 
-El verano pasado, los miembros y amigos de la Fraternidad se reunieron para una nueva celebración instituida para reconocer a los miembros recién elegidos y salientes del Consejo General de la Fraternidad, luego de las elecciones trienales y antes de la convocatoria del Consejo.
+El verano pasado, los miembros y amigos de la Fellowship se reunieron para una nueva celebración instituida para reconocer a los miembros recién elegidos y salientes del Consejo General de la Fellowship, luego de las elecciones trienales y antes de la convocatoria del Consejo.
 
 Durante una ceremonia vespertina en la Universidad Dominicana, sede de la Sesión de Estudio de 2009, los Consejeros nuevos y salientes recibieron un pisapapeles de ángel de cristal conmemorativo como «un recordatorio de que tenemos ángeles guardianes que nos cuidan y que somos los guardianes de la tarea que tenemos aceptado», dijo la organizadora de la ceremonia Cristina Seaborn. Los «dadores de ángeles» entregaron personalmente el ángel a cada consejero entrante y saliente. A los nuevos miembros del Consejo se les preguntó: «¿Se comprometen a asumir esta sagrada tarea y realizarla de la mejor manera posible? y cada uno respondió “Sí, quiero».
 
@@ -204,14 +210,14 @@ Nos damos cuenta de que es posible que no pueda dar tan generosamente este año 
 
 La mejor manera de dar 'el regalo que sigue dando' es inscribirse en nuestro programa de débito automático. Vaya a nuestro sitio web en www.urantiabook.org y haga clic en 'contribuir' en la parte superior de la página y siga las instrucciones para registrarse en el programa de débito automático. O puede enviarnos su donación en el sobre adjunto.
 
-Mientras tanto, aquí en la Fraternidad, con más de 1000 miembros en todo el mundo, nuestros doce comités permanentes y ad hoc de voluntarios están ocupados trabajando:
+Mientras tanto, aquí en la Fellowship, con más de 1000 miembros en todo el mundo, nuestros doce comités permanentes y ad hoc de voluntarios están ocupados trabajando:
 - Llegar a nuevos lectores y líderes religiosos y distribuir Libros de Urantia a través de 1000 librerías ya través de Internet. Distribuiremos más de 3000 Libros de Urantia en 2009.
 - Hemos construido y estamos mejorando continuamente un muy buen sitio web (www.Urantiabook.org) que llegó a más de cuatro millones de visitantes únicos el año pasado. Puede descargar el libro en siete idiomas diferentes desde este sitio; y puede escuchar y descargar cualquier artículo o el libro completo en audio desde este sitio web. El año pasado más de 235.000 personas descargaron al menos un Paper para escuchar.
-- Nuestro Comité Internacional de Fellowships (IFC, por sus siglas en inglés) tiene programas de divulgación el próximo año en India, África, Corea y en toda América Latina, y la IFC envía representantes a estos países para animar y apoyar espiritualmente a los lectores allí.
+- Nuestro Comité Internacional de la Fellowship (IFC, por sus siglas en inglés) tiene programas de divulgación el próximo año en India, África, Corea y en toda América Latina, y la IFC envía representantes a estos países para animar y apoyar espiritualmente a los lectores allí.
 - Nuestro Comité de Publicaciones publica el Mighty Messenger y el Herald y los envía a más de 10,000 lectores anualmente. Nuestro ex presidente, Robert Burns, también envía cartas de noticias electrónicas a nuestra lista de correo electrónico de 4000 miembros todos los meses.
 - Nuestro Comité de Educación está ampliando sus esfuerzos para capacitar a nuevos maestros mientras continúa realizando sus Sesiones de estudio anuales de 3 días cada verano. Tuvimos más de 100 asistentes el verano pasado en Chicago.
 
-Estos son solo algunos de los esfuerzos que ha emprendido la Fraternidad para promover su misión de cultivar el espíritu de la religión mediante la difusión de _El Libro de Urantia_ y sus enseñanzas.
+Estos son solo algunos de los esfuerzos que ha emprendido la Fellowship para promover su misión de cultivar el espíritu de la religión mediante la difusión de _El Libro de Urantia_ y sus enseñanzas.
 
 El buen barco, Urantia, ha salido de su puerto seguro hacia los mares abiertos de su destino futuro.
 
@@ -227,7 +233,7 @@ Por _Barbara Newsom_ y _Charles Olivea_
 
 Estas respuestas describen las experiencias satisfactorias para el alma de los participantes en la Sesión de estudio de verano en la Universidad Dominicana en River Forest, Illinois, del 31 de julio al 2 de agosto. y la primera oración del último párrafo de todo el libro? Con estas inspiradoras palabras, 116 participantes de Canadá, Alemania y los Estados Unidos fueron invitados a unirse a un estudio y celebración de las enseñanzas de la Quinta Revelación de Época.
 
-Patrocinado por el Comité de Educación de la Fraternidad, las sesiones de estudio en profundidad se han llevado a cabo regularmente desde 1963. Este año, el programa de tres días presentó los temas principales de la Conciencia de Dios cada día: Dios Padre, nuestros hermanos y hermanas, y nuestro Maestro. Hijo, Miguel. Un sitio en el campus sirvió como Templo de la presencia invisible del Padre, inspirado en el ejemplo del Jardín del Edén, donde los participantes se reunían para la meditación matutina y vespertina. El Comité de Educación de la Fraternidad cree firmemente que un lugar formal reservado en cada conferencia para el reconocimiento de adoración de nuestro Padre ayuda a anclar la conciencia individual/colectiva de la presencia divina. «El silencio central fue una gran ventaja para equilibrar la mente y el corazón», dijo un participante.
+Patrocinado por el Comité de Educación de la Fellowship, las sesiones de estudio en profundidad se han llevado a cabo regularmente desde 1963. Este año, el programa de tres días presentó los temas principales de la Conciencia de Dios cada día: Dios Padre, nuestros hermanos y hermanas, y nuestro Maestro. Hijo, Miguel. Un sitio en el campus sirvió como Templo de la presencia invisible del Padre, inspirado en el ejemplo del Jardín del Edén, donde los participantes se reunían para la meditación matutina y vespertina. El Comité de Educación de la Fellowship cree firmemente que un lugar formal reservado en cada conferencia para el reconocimiento de adoración de nuestro Padre ayuda a anclar la conciencia individual/colectiva de la presencia divina. «El silencio central fue una gran ventaja para equilibrar la mente y el corazón», dijo un participante.
 
 Luego de una sesión plenaria matutina con música, adoración y una presentación en el auditorio, talleres de dos horas por la mañana y por la tarde exploraron los temas de manera intensiva. Veinte profesores presentaron un programa de largo alcance. El presidente de la Fellowship, Robert Burns, abrió y cerró el programa. Los miembros del Comité de Educación, Lila Dogim y Barbara Newsom, copresidieron el evento, administraron los arreglos y el programa, respectivamente, con Gary Deinstadt, presidente saliente del Comité de Educación. La directora de la Fellowship, Paula Thompson, coordinó el registro con la ayuda de su hija Mae. Cristina Seaborn coordinó música y adoración.
 
@@ -250,7 +256,7 @@ El Comité de Educación está firmemente comprometido con la profundización y 
 
 Únase a nosotros en un estudio sobre la forma en que la moralidad cósmica está moldeada por la calidad de cómo vivimos el evangelio; para nosotros, viviendo las reveladoras enseñanzas de _El Libro de Urantia_. El Comité de Educación de la Fellowship de _El Libro de Urantia_ lo invita a considerar oportunidades para enseñar y servir, posiblemente como orador plenario, facilitador de talleres/seminarios, actividades previas a la conferencia, entretenimiento, etc. Para la preinscripción para un seminario especial en la conferencia, ver el siguiente artículo.
 
-Techny Towers es un centro de conferencias y retiros ubicado en la costa norte de Chicago. Está diseñado para personas que quieren estudiar, adorar y disfrutar unos de otros en compañerismo. Techny Towers se ha convertido en un hito; históricamente como un seminario de principios del siglo XX para la Sociedad del Verbo Divino; hoy, como un centro ecuménico que fomenta la creatividad y el pensamiento estratégico. El Comité de Educación pasó allí un fin de semana en octubre de 2009 y cree que será un buen lugar para la Conferencia de Fellowshiprios. Los jardines eran encantadores y tranquilos, y los alojamientos para dormir y la comida eran muy buenos. Le animamos a visitar su sitio web www.Technytowers.org.
+Techny Towers es un centro de conferencias y retiros ubicado en la costa norte de Chicago. Está diseñado para personas que quieren estudiar, adorar y disfrutar unos de otros en compañerismo. Techny Towers se ha convertido en un hito; históricamente como un seminario de principios del siglo XX para la Sociedad del Verbo Divino; hoy, como un centro ecuménico que fomenta la creatividad y el pensamiento estratégico. El Comité de Educación pasó allí un fin de semana en octubre de 2009 y cree que será un buen lugar para la Conferencia de la Fellowshiprios. Los jardines eran encantadores y tranquilos, y los alojamientos para dormir y la comida eran muy buenos. Le animamos a visitar su sitio web www.Technytowers.org.
 
 Para ser voluntario para el servicio, comuníquese con Lara Amyx al 772-466-7950 o lara10@bellsouth.net
 
@@ -284,17 +290,17 @@ Las colocaciones de este trimestre elevan nuestros totales históricos de Pipeli
 
 Agradecemos profundamente su continua ayuda financiera. Si desea contribuir a este trabajo, puede realizar donaciones en línea en www.urantiabook.org/support o por correo postal a la Fellowship de _El Libro de Urantia_, PO Box 6631, Broomfield, CO 80021.
 
-## Actividades internacionales de Fellowships
+## Actividades internacionales de la Fellowship
 
 **Corea del Sur**: La Feria Internacional del Libro de Seúl 2009, del 13 al 17 de mayo, se llevó a cabo en un centro de conferencias del centro con más de 211 puestos representados por autores, impresores y distribuidores. El lector local Sy Young Chang fue el responsable de organizar, planificar y montar el puesto, y contó con la ayuda de Barry Clark de la Sociedad del Libro de Urantia del Gran Nueva York y el presidente del Comité Internacional, Buck Weimer.
 
-Desde el principio, el stand se planeó y diseñó como un esfuerzo conjunto entre la Fraternidad y la Fundación debido a las dos traducciones diferentes de _El Libro de Urantia_ al idioma coreano, y expresó nuestro deseo de un esfuerzo conjunto para presentar el libro no solo a el pueblo coreano, sino a los muchos visitantes internacionales que asisten a la feria del libro.
+Desde el principio, el stand se planeó y diseñó como un esfuerzo conjunto entre la Fellowship y la Fundación debido a las dos traducciones diferentes de _El Libro de Urantia_ al idioma coreano, y expresó nuestro deseo de un esfuerzo conjunto para presentar el libro no solo a el pueblo coreano, sino a los muchos visitantes internacionales que asisten a la feria del libro.
 
 Los cinco días de la feria estuvieron llenos de actividades: una presentación pública en la Feria, una breve entrevista en la televisión coreana, la impresión y distribución de «vitaminas espirituales» en coreano así como en inglés y muchos panfletos y folletos, y una visita a un grupo de estudio local. Esta experiencia reforzó la opinión de los participantes de Urantia de que Corea del Sur es ahora, y se convertirá, en la principal plataforma de lanzamiento de la Revelación en Asia, incluso si es una oración a la vez.
 
 **México**: El 9º Congreso Nacional de lectores de _El Libro de Urantia_ se llevó a cabo en Monterrey, México, del 12 al 14 de abril y fue organizado por Agustín Arellano y la Sociedad El Grupo Orvonton de la Ciudad de México. La conferencia sobre «Celebrando la Vida» abrió formalmente con una presentación de Ricardo G. Van Dyck, de la Ciudad de México, el nuevo presidente de El Grupo Orvonton, y fue seguida por una presentación en power point de Nelida Oliver (Ecuador).
 
-En los próximos dos días, el Dr. Elyr Silva de Brasil, el Dr. Rafael Fco. Arias de Costa Rica, Griselda Cantú de Monterrey y Lourdes Salazar (México). Un video de mandala de Jorge Ortega (México) tenía participantes luciendo lentes de alta definición de profundidad de croma. También hicieron presentaciones Dolores Nice y Buck Weimer del Comité Internacional de la Fraternidad, así como Alfonso García. La conferencia concluyó con una sesión de lluvia de ideas sobre cómo promover mejor la Revelación en América Latina.
+En los próximos dos días, el Dr. Elyr Silva de Brasil, el Dr. Rafael Fco. Arias de Costa Rica, Griselda Cantú de Monterrey y Lourdes Salazar (México). Un video de mandala de Jorge Ortega (México) tenía participantes luciendo lentes de alta definición de profundidad de croma. También hicieron presentaciones Dolores Nice y Buck Weimer del Comité Internacional de la Fellowship, así como Alfonso García. La conferencia concluyó con una sesión de lluvia de ideas sobre cómo promover mejor la Revelación en América Latina.
 
 **Costa Rica**: La primera conferencia bilingüe en Costa Rica se llevó a cabo del 16 al 20 de junio en Puntarenas, Costa Rica. Como el primero de su tipo, atrajo a lectores de lugares tan lejanos como Alaska (Ed Harrigan) y tan al sur como Ecuador (Nelida Oliver) mientras la comunidad costarricense tomaba la iniciativa. Las diferentes presentaciones en la conferencia tomaron varias formas: baile con música latina, presentaciones de diapositivas de grandes palabras, belleza y música edificante, y algunos talleres que facilitaron procesos de pensamiento profundo.
 
@@ -304,14 +310,14 @@ Esta conferencia sentó las bases para futuros eventos multilingües fuera de lo
 
 ### GC se reunirá en San Francisco
 
-El Consejo General de la Fraternidad llevará a cabo su reunión de mitad de año en el San Francisco Airport Marriott Hotel desde el viernes 29 de enero hasta el domingo 31 de enero de 2010. La reunión comenzará el viernes 29 de enero de 7:00 a 11:00 PM continúa el sábado 30 de enero de 9:00 a. m. a 5:00 p. m. y concluye el domingo 31 de enero de 9:00 a. m. al mediodía. Se invita a los lectores locales a asistir a la reunión del Consejo General ya venir al evento social el sábado por la noche a las 7:00 p. m. en el hotel. Los Concejales siempre esperan socializar con los lectores locales y esperan que muchos planeen asistir.
+El Consejo General de la Fellowship llevará a cabo su reunión de mitad de año en el San Francisco Airport Marriott Hotel desde el viernes 29 de enero hasta el domingo 31 de enero de 2010. La reunión comenzará el viernes 29 de enero de 7:00 a 11:00 PM continúa el sábado 30 de enero de 9:00 a. m. a 5:00 p. m. y concluye el domingo 31 de enero de 9:00 a. m. al mediodía. Se invita a los lectores locales a asistir a la reunión del Consejo General ya venir al evento social el sábado por la noche a las 7:00 p. m. en el hotel. Los Concejales siempre esperan socializar con los lectores locales y esperan que muchos planeen asistir.
 
 ### Próximos Eventos…
 
 - **Parlamento de las Religiones del Mundo**, del 3 al 9 de diciembre de 2010, Melbourne, Australia. Para obtener información, visite www.parliamentofreligions2009.org.
 - **Festival de la Familia Unida de Urantia**, del 1 al 5 de julio de 2010, en la Universidad de Quebec, Montreal, PQ, Canadá. Para obtener más información, vaya a http://www.urantiafamily.org.
 - **Seminario de estudio de verano de Urantia Book Fellowship 2010**, Techny Towers, Chicago, IL, del 21 al 26 de julio. El tema es «Conciencia de Dios y Moralidad Cósmica: Viviendo el Evangelio». Para obtener más información sobre la conferencia, comuníquese con Lara Amyx en lara10@bellsouth.net. Para inscribirse en el seminario especial sobre ángeles, comuníquese con Charles Olivea en COLIVEA@cs.com.
-- **Nuevo en el sitio web**: El sitio web de Fellowship ahora contiene una colección cada vez mayor de ayudas para el estudio de la clase del viernes por la noche de Chris Halvorson. Hay una línea de tiempo muy detallada recientemente publicada de la Parte III que contiene enlaces a materiales históricos y arqueológicos contemporáneos relacionados. El BlogTalk Radio Archive está completo para todos los programas de 2008. Todos estos recursos y más se pueden encontrar yendo a «¿Qué hay de nuevo?» página en http://urantiabook.org/whatsnew.htm.
+- **Nuevo en el sitio web**: El sitio web de la Fellowship ahora contiene una colección cada vez mayor de ayudas para el estudio de la clase del viernes por la noche de Chris Halvorson. Hay una línea de tiempo muy detallada recientemente publicada de la Parte III que contiene enlaces a materiales históricos y arqueológicos contemporáneos relacionados. El BlogTalk Radio Archive está completo para todos los programas de 2008. Todos estos recursos y más se pueden encontrar yendo a «¿Qué hay de nuevo?» página en http://urantiabook.org/whatsnew.htm.
 
 ## Equipo del Mighty Messenger
 
@@ -332,6 +338,9 @@ www.urantiabook.org
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2008_Winter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de invierno de 2008</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-2009">
@@ -339,6 +348,9 @@ www.urantiabook.org
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2010_Spring">
+          <span class="pr-2">Edición de primavera de 2010</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

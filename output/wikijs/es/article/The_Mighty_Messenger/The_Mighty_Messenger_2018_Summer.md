@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2017_Fall">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de otoño de 2017</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2018">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/Cristina_Seaborn/The_Parliament_of_Worlds_Religions">
+          <span class="pr-2">Edición de otoño de 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -85,7 +91,7 @@ También regístrese para el Retiro espiritual (*), del 17 al 19 de julio de 201
 
 ### Culto
 
-El tema de adoración para SSS'18 es La relación de adoración y servicio. «La adoración es la técnica de buscar en el Uno la inspiración del servicio a los muchos» (143:7.6). El Comité de Adoración ha planificado varios eventos para crear una ocasión «invadida por una atmósfera de comunión». Puede asistir a la meditación contemplativa tranquila en la Capilla de África antes del desayuno y la cena todos los días; reunirnos para contemplar juntos a nuestro Padre celestial antes de las sesiones plenarias. El domingo nos reuniremos y compartiremos una mañana especial de adoración con actividades relacionadas.
+El tema de adoración para SSS'18 es La relación de adoración y servicio. «La adoración es la técnica de buscar en el Uno la inspiración del servicio a los muchos» ([UB 143:7.6](/en/The_Urantia_Book/143#p7_6)). El Comité de Adoración ha planificado varios eventos para crear una ocasión «invadida por una atmósfera de comunión». Puede asistir a la meditación contemplativa tranquila en la Capilla de África antes del desayuno y la cena todos los días; reunirnos para contemplar juntos a nuestro Padre celestial antes de las sesiones plenarias. El domingo nos reuniremos y compartiremos una mañana especial de adoración con actividades relacionadas.
 
 ### Es una Gala Universo Amiga
 
@@ -108,7 +114,7 @@ El comité de planificación está organizando un panel de taller diseñado para
 
 ### Cónclave del Grupo de Estudio
 
-El Comité de Educación de la Fraternidad, que organiza las sesiones de estudio de verano, nuevamente organizará un Cónclave de Grupos de Estudio. Durante esta sesión se explorará la creación y presentación de talleres y la mejora del estudio.
+El Comité de Educación de la Fellowship, que organiza las sesiones de estudio de verano, nuevamente organizará un Cónclave de Grupos de Estudio. Durante esta sesión se explorará la creación y presentación de talleres y la mejora del estudio.
 
 ### TDA y Consejo General
 
@@ -126,37 +132,37 @@ Comuníquese con Paula Thompson al 303-467-7858 si tiene preguntas sobre el regi
 
 ## Aperturas de GC
 
-Hay un total de 36 escaños en el Consejo General (GC) y al menos 12 de esos escaños se abrirán para elección este verano. Para ser elegible, una persona debe ser miembro de la Fraternidad, ya sea un miembro en general o un miembro de la sociedad. La constitución de la Fraternidad requiere que usted haya leído _El Libro de Urantia_ en su totalidad, al menos una vez, como el otro requisito previo para el servicio. Para leer más sobre el Consejo General de nuestra Constitución, vaya aquí: http://www.urantia-book.org/Constitution/Constitution2013-02-09.pdf
+Hay un total de 36 escaños en el Consejo General (GC) y al menos 12 de esos escaños se abrirán para elección este verano. Para ser elegible, una persona debe ser miembro de la Fellowship, ya sea un miembro en general o un miembro de la sociedad. La constitución de la Fellowship requiere que usted haya leído _El Libro de Urantia_ en su totalidad, al menos una vez, como el otro requisito previo para el servicio. Para leer más sobre el Consejo General de nuestra Constitución, vaya aquí: http://www.urantia-book.org/Constitution/Constitution2013-02-09.pdf
 
 Los Consejeros Generales suelen ser elegidos por la Asamblea Trienal de Delegados (TDA). Cada tres años, los representantes de las sociedades regionales de Urantia se reúnen con la tarea de seleccionar o reelegir a 12 Consejeros a término completo. Un término completo dura 9 años. Ocasionalmente, alguien renuncia antes de que expire su mandato. El GC llena este puesto temporalmente hasta que el TDA pueda elegir a alguien para terminar el resto del mandato de esa persona.
 
-La membresía en el GC implica asistir a solo dos reuniones por año. Las reuniones se llevan a cabo durante un fin de semana y en una variedad de lugares en América del Norte. Las reuniones suelen tener lugar en febrero (en un clima templado) y nuevamente al cierre de la conferencia de verano de la Fraternidad y en conjunto con ella. Las reuniones del Consejo General comienzan el viernes por la noche durante aproximadamente 4 horas, luego se reanudan el sábado por la mañana durante 8 horas y nuevamente el domingo por la mañana, terminando al mediodía. El sábado por la noche generalmente se lleva a cabo abierto para una reunión social con lectores del área donde se lleva a cabo la reunión. Variamos la ubicación de las reuniones para permitir su compañerismo y facilitar que los lectores locales conozcan a los líderes de la Fraternidad. Este evento es a menudo un punto culminante en las reuniones del Consejo. A veces se puede agregar otro día a la reunión del CG para un retiro.
+La membresía en el GC implica asistir a solo dos reuniones por año. Las reuniones se llevan a cabo durante un fin de semana y en una variedad de lugares en América del Norte. Las reuniones suelen tener lugar en febrero (en un clima templado) y nuevamente al cierre de la conferencia de verano de la Fellowship y en conjunto con ella. Las reuniones del Consejo General comienzan el viernes por la noche durante aproximadamente 4 horas, luego se reanudan el sábado por la mañana durante 8 horas y nuevamente el domingo por la mañana, terminando al mediodía. El sábado por la noche generalmente se lleva a cabo abierto para una reunión social con lectores del área donde se lleva a cabo la reunión. Variamos la ubicación de las reuniones para permitir su compañerismo y facilitar que los lectores locales conozcan a los líderes de la Fellowship. Este evento es a menudo un punto culminante en las reuniones del Consejo. A veces se puede agregar otro día a la reunión del CG para un retiro.
 
-Las agendas de las reuniones generalmente consisten en informes de los funcionarios y presidentes de comités permanentes, discusión de políticas y propuestas para nuevas áreas de servicio y difusión. Las reuniones son presididas por el Presidente de la Fraternidad y se llevan a cabo de acuerdo con las Reglas de Orden de Roberts.
+Las agendas de las reuniones generalmente consisten en informes de los funcionarios y presidentes de comités permanentes, discusión de políticas y propuestas para nuevas áreas de servicio y difusión. Las reuniones son presididas por el Presidente de la Fellowship y se llevan a cabo de acuerdo con las Reglas de Orden de Roberts.
 
 Es importante tener en cuenta que los Concejales deben poder cubrir sus propios costos para asistir a las reuniones. Esto incluye el viaje a la reunión, la habitación del hotel y las comidas. La asistencia financiera ocasional puede estar disponible para los Concejales si las circunstancias les impiden cubrir estos gastos.
 
-Estar en el Consejo General de la Fraternidad es una experiencia increíble. Algunos Consejeros Generales han servido por 2, 3 y 4 términos de 9 años. Se establecen amistades para toda la vida y la belleza de la deliberación, la sabiduría grupal y el trabajo en equipo se iluminan de maneras notables e inspiradoras.
+Estar en el Consejo General de la Fellowship es una experiencia increíble. Algunos Consejeros Generales han servido por 2, 3 y 4 términos de 9 años. Se establecen amistades para toda la vida y la belleza de la deliberación, la sabiduría grupal y el trabajo en equipo se iluminan de maneras notables e inspiradoras.
 
 Si, después de leer esto y consultar con nuestro Padre, siente que le gustaría unirse a la larga lista de Consejeros generales que han servido fielmente al movimiento Urantia durante 62 años, complete la solicitud en: http://www.urantiabook. org/Default.aspx?PageID=14753845&A=SearchResult&SearchID=15288748&ObjectID=14753845&ObjectType=1 o busque «Solicitud de servicio organizacional».
 
 ## Difundir la Alegría de la Revelación
 
-¿Alguna vez te has preguntado cómo habría sido tu vida sin _El Libro de Urantia_? Nosotros en la Fraternidad nos hemos hecho esta pregunta y descubrimos que no podemos imaginar la vida sin la revelación; y eso ha determinado profundamente nuestros constantes esfuerzos por difundir la revelación al mundo.
+¿Alguna vez te has preguntado cómo habría sido tu vida sin _El Libro de Urantia_? Nosotros en la Fellowship nos hemos hecho esta pregunta y descubrimos que no podemos imaginar la vida sin la revelación; y eso ha determinado profundamente nuestros constantes esfuerzos por difundir la revelación al mundo.
 
 <figure id="Figure_2" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2018_Summer/005931.jpg">
 </figure>
 
-Tenemos muchos proyectos en marcha entre nuestras sociedades, comités e incluso personas que asumen proyectos especiales por su cuenta. Un proyecto que ha absorbido a la Fraternidad durante algún tiempo es el Canal de Luz. The Pipeline es un esfuerzo de la Fellowship de _El Libro de Urantia_ para poner todas las traducciones de _The Urantia Book_ en manos de personas de todo el mundo, especialmente de países en desarrollo. Fue nuestra respuesta a una necesidad presentada en la década de 1990 por personas de Estonia, México y Chile. En un caso, había 100 estudiantes de revelación sinceros que compartían solo un Libro de Urantia en español.
+Tenemos muchos proyectos en marcha entre nuestras sociedades, comités e incluso personas que asumen proyectos especiales por su cuenta. Un proyecto que ha absorbido a la Fellowship durante algún tiempo es el Canal de Luz. The Pipeline es un esfuerzo de la Fellowship de _El Libro de Urantia_ para poner todas las traducciones de _The Urantia Book_ en manos de personas de todo el mundo, especialmente de países en desarrollo. Fue nuestra respuesta a una necesidad presentada en la década de 1990 por personas de Estonia, México y Chile. En un caso, había 100 estudiantes de revelación sinceros que compartían solo un Libro de Urantia en español.
 
 Solo en el primer trimestre de 2018, Pipeline colocó 456 copias de _El Libro de Urantia_ en siete países. Con un suministro listo de traducciones asequibles de la Fundación Urantia y donaciones a Pipeline, se entregaron libros a lectores y grupos de estudio en Argentina, México, Venezuela, Estados Unidos, Perú, Australia y Colombia. Los libros enviados este trimestre incluyen 428 traducciones al español y 28 libros en inglés. Los esfuerzos actuales elevan los totales generales de Pipeline a 8.309 copias colocadas en 90 países de todo el mundo.
 
-Durante tres décadas, el Comité de Divulgación de la Fraternidad ha estado muy activo en una variedad de formas. Concentrándose especialmente en los EE. UU., este comité envía voluntarios a ferias de libros, campus universitarios y otros lugares para presentar _El Libro de Urantia_ a personas de todos los ámbitos de la vida. La mayoría de ellos nunca han oído hablar del libro antes. Los lectores interesados ​​en estas presentaciones también pueden recibir un Libro de Urantia gratis si lo solicitan, llenando una tarjeta proporcionada por el representante de la Fraternidad. A través del Comité de Difusión, los Libros de Urantia ahora llegan a nuevos lectores en todo el país a través de un programa de libros sobre prisiones. La respuesta en esta área es alentadora.
+Durante tres décadas, el Comité de Divulgación de la Fellowship ha estado muy activo en una variedad de formas. Concentrándose especialmente en los EE. UU., este comité envía voluntarios a ferias de libros, campus universitarios y otros lugares para presentar _El Libro de Urantia_ a personas de todos los ámbitos de la vida. La mayoría de ellos nunca han oído hablar del libro antes. Los lectores interesados ​​en estas presentaciones también pueden recibir un Libro de Urantia gratis si lo solicitan, llenando una tarjeta proporcionada por el representante de la Fellowship. A través del Comité de Difusión, los Libros de Urantia ahora llegan a nuevos lectores en todo el país a través de un programa de libros sobre prisiones. La respuesta en esta área es alentadora.
 
-Para mantener a todos nuestros lectores informados sobre las actividades de construcción de la comunidad de la Fraternidad, el Comité de Publicaciones produce tres tipos diferentes de comunicaciones: un boletín mensual en línea, el Mini Messenger, un Mighty Messenger impreso dos veces al año con noticias de los próximos eventos y el Fellowship Herald que presenta los mejores pensamientos y puntos de vista de personas que han sido inspiradas por la revelación. Estos son solo algunos de los proyectos que involucran a los miembros de la Fraternidad durante más de 60 años, pero los costos, las necesidades y las oportunidades han seguido aumentando. Han ayudado a lograr maravillosos logros en el pasado, pero hay mucho más que podemos y debemos hacer para traer esta revelación al mundo.
+Para mantener a todos nuestros lectores informados sobre las actividades de construcción de la comunidad de la Fellowship, el Comité de Publicaciones produce tres tipos diferentes de comunicaciones: un boletín mensual en línea, el Mini Messenger, un Mighty Messenger impreso dos veces al año con noticias de los próximos eventos y el Fellowship Herald que presenta los mejores pensamientos y puntos de vista de personas que han sido inspiradas por la revelación. Estos son solo algunos de los proyectos que involucran a los miembros de la Fellowship durante más de 60 años, pero los costos, las necesidades y las oportunidades han seguido aumentando. Han ayudado a lograr maravillosos logros en el pasado, pero hay mucho más que podemos y debemos hacer para traer esta revelación al mundo.
 
-Por favor, done a la Fraternidad.
+Por favor, done a la Fellowship.
 Llámenos al 1-877-288-3772 o envíe un cheque por correo a:
 _El Libro de Urantia_ Fellowship, PO Box 6631, Broomfield, CO 80021
 O vaya en línea a www.urantiabook.org y elija «donar» en la barra de navegación central principal. ¡Gracias, apreciamos profundamente su amoroso apoyo y servicio!
@@ -174,7 +180,7 @@ O vaya en línea a www.urantiabook.org y elija «donar» en la barra de navegaci
 <img src="/image/article/The_Mighty_Messenger/2018_Summer/005932.jpg">
 </figure>
 
-Comunidades Urantianas del Noroeste (UCNOW) se complace en anunciar que nuestra segunda reunión regional ahora está llena en un 80 %. Tenemos 20 camas restantes que incluyen cómodas literas y cabañas compartidas, junto con sitios para tiendas de campaña para acomodar cualquier desbordamiento. Nuestro tema, relaciones crecientes | Humano + Divino, contará con talleres interactivos, diálogos íntimos y conferencistas dinámicos. Las fogatas, los círculos de conversación, un servicio de adoración al aire libre, la música y el baile, la diversión y el compañerismo serán abundantes.
+Fellowshipes Urantianas del Noroeste (UCNOW) se complace en anunciar que nuestra segunda reunión regional ahora está llena en un 80 %. Tenemos 20 camas restantes que incluyen cómodas literas y cabañas compartidas, junto con sitios para tiendas de campaña para acomodar cualquier desbordamiento. Nuestro tema, relaciones crecientes | Humano + Divino, contará con talleres interactivos, diálogos íntimos y conferencistas dinámicos. Las fogatas, los círculos de conversación, un servicio de adoración al aire libre, la música y el baile, la diversión y el compañerismo serán abundantes.
 
 Toda la información pertinente sobre alojamiento, costos, programa y más se puede encontrar en UCNOW y enlace a la Reunión de 2018. El gurú del registro, Jackie Koury, puede ser contactado directamente en registration2018@ucnow.net. Nuestro equipo de voluntarios está listo para darle la bienvenida y ayudarlo.
 
@@ -239,7 +245,7 @@ Este es un país de puentes cubiertos, pintoresco y hermoso, ¡y hay mucho que h
 
 En 1974, David Glass realizó una gira por Florida sembrando Libros de Urantia y buscando lectores. En 1975 se celebró en la Iglesia Unity de Tampa la primera Conferencia estatal de Florida para lectores de _El Libro de Urantia_. Los lectores continuaron reuniéndose anualmente y en 1989 los grupos de estudio de Florida se unieron para formar Estudiantes de Florida de _El Libro de Urantia_ y patrocinaron la primera conferencia FSUB. La tradición ha continuado y este año la conferencia fue patrocinada por la Sociedad Agodontter Boot Camp, recientemente constituida.
 
-Celebrado en el Centro de Conferencias Day Spring en Parrish, Florida durante el fin de semana del 9 de febrero, 30 lectores de entre nueve y 83 años estudiaron, adoraron y disfrutaron de la compañía de los demás. El viernes por la noche, Sheryl Cira dirigió una actividad de «conociéndote». Steve Dreier, ex presidente de la Fraternidad y actualmente su secretario, fue el orador principal y abrió la sesión con el tema de la conferencia, «El arte de llevarse bien con los demás». Los asistentes disfrutaron del intercambio de grupos pequeños centrado en la práctica que siguió y la «sesión de intercambio de experiencias espirituales» dirigida por Doreen Heyne.
+Celebrado en el Centro de Conferencias Day Spring en Parrish, Florida durante el fin de semana del 9 de febrero, 30 lectores de entre nueve y 83 años estudiaron, adoraron y disfrutaron de la compañía de los demás. El viernes por la noche, Sheryl Cira dirigió una actividad de «conociéndote». Steve Dreier, ex presidente de la Fellowship y actualmente su secretario, fue el orador principal y abrió la sesión con el tema de la conferencia, «El arte de llevarse bien con los demás». Los asistentes disfrutaron del intercambio de grupos pequeños centrado en la práctica que siguió y la «sesión de intercambio de experiencias espirituales» dirigida por Doreen Heyne.
 
 La conferencia combinó actividades para el cuerpo, la mente y el espíritu con yoga temprano en la mañana dirigido por Jack Miller, el programa de la conferencia desarrollado por Kurt Cira y sesiones de adoración dirigidas por Susan Meyers. Los niños que asistieron participaron haciendo anuncios y realizando la tradicional subasta silenciosa que ayuda a apoyar las actividades de la sociedad.
 
@@ -257,19 +263,19 @@ Por _Avi Dogim_
 
 Al comenzar Jesús su obra pública, les dijo a los apóstoles:
 
-> _No tienes que ver igual o sentir igual o incluso pensar igual para ser espiritualmente igual. La unidad espiritual se deriva de la conciencia de que cada uno de ustedes está habitado y dominado cada vez más por el don espiritual del Padre celestial. Su armonía apostólica debe surgir del hecho de que la esperanza espiritual de cada uno de ustedes es idéntica en origen, naturaleza y destino._ ([LU 141:5.1](/es/The_Urantia_Book/141#p5_1))
+> _No necesitáis tener el mismo punto de vista, sentir de la misma manera o ni siquiera pensar de la misma manera, para ser iguales espiritualmente. La unidad espiritual procede de la conciencia de que cada uno de vosotros está habitado, y cada vez más gobernado, por el don espiritual del Padre celestial. Vuestra armonía apostólica debe originarse en el hecho de que la esperanza espiritual de cada uno de vosotros es idéntica en su origen, naturaleza y destino._ ([LU 141:5.1](/es/The_Urantia_Book/141#p5_1))
 
-Últimamente se ha hablado mucho sobre la «unidad» en los círculos de Urantia Fellowship. Hubo reuniones entre representantes de la Fraternidad y de la AUI para explorar el tema. Y el tema en este caso fue la posible fusión de las dos organizaciones.
+Últimamente se ha hablado mucho sobre la «unidad» en los círculos de Urantia Fellowship. Hubo reuniones entre representantes de la Fellowship y de la AUI para explorar el tema. Y el tema en este caso fue la posible fusión de las dos organizaciones.
 
-Me parece que la mayoría de los lectores de UB que conocen la existencia de estas organizaciones verían tal fusión como algo positivo. Y, de hecho, ¿por qué no? ¿Por qué no debería haber unidad entre las dos principales organizaciones sociales dedicadas a la difusión de la quinta revelación de época en Urantia? ¿Y no es hora, después de todos estos años desde la división de 1989 entre La Hermandad Urantia y la Fundación Urantia, de que las cosas vuelvan a ser como debían ser?
+Me parece que la mayoría de los lectores de UB que conocen la existencia de estas organizaciones verían tal fusión como algo positivo. Y, de hecho, ¿por qué no? ¿Por qué no debería haber unidad entre las dos principales organizaciones sociales dedicadas a la difusión de la quinta revelación de época en Urantia? ¿Y no es hora, después de todos estos años desde la división de 1989 entre La Brotherhood Urantia y la Fundación Urantia, de que las cosas vuelvan a ser como debían ser?
 
 Estos anhelos no deben descartarse como mero sentimentalismo. Se podría argumentar que emanan de ese mismo ideal conmovedor que anhela ver un gobierno mundial presidiendo un planeta pacífico y asegurando la libertad y el bienestar de todos sus habitantes humanos.
 
-Sin embargo, sabemos que un gobierno mundial no se hará realidad antes de que los gobiernos del mundo evolucionen hacia una cooperación y armonía mutuas cada vez mayores a medida que se vuelven cada vez más conscientes de su interdependencia. Del mismo modo, un intento de unificar dos organizaciones humanas como la Fraternidad y la UAI antes de que aprendan a cooperar como iguales y coexistir armoniosamente solo puede resultar en una decepción.
+Sin embargo, sabemos que un gobierno mundial no se hará realidad antes de que los gobiernos del mundo evolucionen hacia una cooperación y armonía mutuas cada vez mayores a medida que se vuelven cada vez más conscientes de su interdependencia. Del mismo modo, un intento de unificar dos organizaciones humanas como la Fellowship y la UAI antes de que aprendan a cooperar como iguales y coexistir armoniosamente solo puede resultar en una decepción.
 
-Aprender a cooperar y colaborar en proyectos es algo que sin duda deberíamos hacer. Hubo una conferencia el año pasado en San Antonio donde hubo una colaboración sustancial entre el grupo local de la USUA y la Fraternidad. Actualmente se están llevando a cabo conversaciones exploratorias entre la Fraternidad y la AUI sobre una futura gran conferencia conjunta. No sabemos qué será de eso. Pero el hecho de que estemos hablando es algo muy bueno.
+Aprender a cooperar y colaborar en proyectos es algo que sin duda deberíamos hacer. Hubo una conferencia el año pasado en San Antonio donde hubo una colaboración sustancial entre el grupo local de la USUA y la Fellowship. Actualmente se están llevando a cabo conversaciones exploratorias entre la Fellowship y la AUI sobre una futura gran conferencia conjunta. No sabemos qué será de eso. Pero el hecho de que estemos hablando es algo muy bueno.
 
-Existen diferencias en la estructura organizativa y la cultura entre la Fraternidad y la UAI. Estas diferencias deben entenderse y apreciarse a medida que los miembros de ambas organizaciones interactúan entre sí y se conocen mejor. El hecho de que parece haber un aumento en el número de personas afiliadas a una organización que asisten a conferencias organizadas por la organización hermana (de hecho, los miembros de una organización ayudan en la planificación y el apoyo logístico de las conferencias de la otra) es una señal esperanzadora. Además, es alentador ver que muchas personas, a ambos lados de la división organizativa, no permitieron que esa división se interpusiera en el camino de su amistad.
+Existen diferencias en la estructura organizativa y la cultura entre la Fellowship y la UAI. Estas diferencias deben entenderse y apreciarse a medida que los miembros de ambas organizaciones interactúan entre sí y se conocen mejor. El hecho de que parece haber un aumento en el número de personas afiliadas a una organización que asisten a conferencias organizadas por la organización hermana (de hecho, los miembros de una organización ayudan en la planificación y el apoyo logístico de las conferencias de la otra) es una señal esperanzadora. Además, es alentador ver que muchas personas, a ambos lados de la división organizativa, no permitieron que esa división se interpusiera en el camino de su amistad.
 
 El hecho de nuestra unidad espiritual, demostrable por nuestra búsqueda de objetivos universales idénticos, no se puede negar. Bien puede suceder en algún momento futuro que mientras continuamos colaborando con estos objetivos en mente, nuestros respectivos credos, en la medida en que existan, disminuirán en su capacidad para dividirnos. Quizás entonces podamos hablar de unidad organizativa. O tal vez entonces no importe mucho.
 
@@ -295,7 +301,7 @@ El equipo de producción actual incluye a David Kantor, Lowel Pierce, MaryJo Gar
 
 Urantia Book Films es un proyecto de divulgación apoyado por Rocky Mountain Spiritual Fellowship. Se puede ver un tráiler de la película en https:/www.vimeo.com/urantia/repercussions
 
-> En la Fraternidad nos gusta estar en contacto con nuestros lectores, para que podamos compartir noticias de nuestras actividades con usted. Si su correo electrónico u otra información de contacto ha cambiado recientemente, infórmenos.
+> En la Fellowship nos gusta estar en contacto con nuestros lectores, para que podamos compartir noticias de nuestras actividades con usted. Si su correo electrónico u otra información de contacto ha cambiado recientemente, infórmenos.
 {.is-info}
 
 
@@ -335,7 +341,7 @@ Estamos explorando, compartiendo y realizando cuidadosamente en estas narracione
 
 ## Próximos Eventos
 
-- **Sesión de estudio de verano de Fellowshiprios**, del 19 al 22 de julio «Es un universo amistoso», Centro de conferencias Techny Towers, Northbrook, IL. Regístrate en: www.regonline.com/Urantia_Fellowship_SSS18. Si tiene preguntas sobre el registro, comuníquese con Paula Thompson al 303-467-7858 Para obtener más información, visite: http://www.urantiabook.org/announcements/urantia-conference-summer-study-session-northbrook-il
+- **Sesión de estudio de verano de la Fellowshiprios**, del 19 al 22 de julio «Es un universo amistoso», Centro de conferencias Techny Towers, Northbrook, IL. Regístrate en: www.regonline.com/Urantia_Fellowship_SSS18. Si tiene preguntas sobre el registro, comuníquese con Paula Thompson al 303-467-7858 Para obtener más información, visite: http://www.urantiabook.org/announcements/urantia-conference-summer-study-session-northbrook-il
 - **Conferencia Regional del Medio Oeste**, Madison, WI, del 22 al 24 de junio de 2018 Viviendo las Enseñanzas – Familias en Acción Registro y más información: https://sites.google.com/view/urantiawisconsin/home
 - **Urantian Communities Northwest (UCNOW)** Reunión de 2018 en Wallowa Lake Camp, Joseph, Oregón, del 6 al 9 de septiembre de 2018 «Creciendo relaciones eternas» Para obtener información: registration2018@ucnow.net.
 - **Fiesta de cumpleaños de Jesús**, Parque Estatal Turkey Run, Indiana – Domingo. 19 de agosto, 11 a. m. EDT. Refugio de tenis en Sugar Creek. Para obtener más información: https://www.turkeyrunstatepark.com/ o http://www.in.gov/dnr/parklake/2964.htm Los lectores de UB de los estados vecinos son bienvenidos.
@@ -359,6 +365,9 @@ www.urantiabook.org
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2017_Fall">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de otoño de 2017</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-verano-de-2018">
@@ -366,6 +375,9 @@ www.urantiabook.org
         </a>
         </td>
         <td>
+        <a href="/es/article/Cristina_Seaborn/The_Parliament_of_Worlds_Religions">
+          <span class="pr-2">Edición de otoño de 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

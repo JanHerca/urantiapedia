@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2001_Summer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de verano de 2001</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2002">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2003_Spring">
+          <span class="pr-2">Edición de primavera de 2003</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -54,7 +60,7 @@ Sudamerica...
 
 ### La Casa de FAD en Brasil honra a Fad en tiempos del Príncipe Planetario
 
-El Comité Internacional de Fellowships se complace en anunciar una afiliación organizativa nueva y formal con el grupo educativo Casa de FAD en Río de Janeiro, Brasil. (Ver Membresía.)
+El Comité Internacional de la Fellowship se complace en anunciar una afiliación organizativa nueva y formal con el grupo educativo Casa de FAD en Río de Janeiro, Brasil. (Ver Membresía.)
 
 Fad fue el responsable de la Facultad de Difusión y Conservación del Conocimiento en tiempos del Príncipe Planetario. (Ver [LU 66:5.4](/es/The_Urantia_Book/66#p5_4)).
 
@@ -62,7 +68,7 @@ La misión del grupo brasileño es continuar el trabajo de este primer colegio b
 
 ### Los grupos de estudio de México continúan expandiéndose
 
-El concejal Agustín Arellano ha iniciado su sexagésimo cuarto para este otoño. El Consejo General de la Fraternidad también planea reunirse en México a principios del próximo año. (Detalles tan pronto como continúe la reunión. Se planea una conferencia nacional en México disponible).
+El concejal Agustín Arellano ha iniciado su sexagésimo cuarto para este otoño. El Consejo General de la Fellowship también planea reunirse en México a principios del próximo año. (Detalles tan pronto como continúe la reunión. Se planea una conferencia nacional en México disponible).
 
 ## Reunión Definitiva del Consejo General en San Diego
 
@@ -81,22 +87,22 @@ Una discusión que se consideró estimulante y estimulante tanto para los miembr
 
 El sentimiento del grupo fue que votar a favor de la moción equivaldría a una declaración de credo y que rechazarla se malinterpretaría como la negación de la revelación por parte del grupo. Por lo tanto, el Consejo optó por «posponer indefinidamente el debate», decidiendo efectivamente no votar sobre lo que consideró una moción inapropiada.
 
-La **descentralización de oficinas** ha comenzado en etapas graduales con la transferencia de operaciones financieras a la ciudad de Oklahoma, el 1 de enero, y aparentemente sin problemas. El próximo paso será transferir la base de datos a la Fraternidad en el norte de California. (¿Está en nuestra base de datos con su nombre, dirección, teléfono y dirección de correo electrónico correctos?) Los pasos finales serán transferir los servicios telefónicos al 1-877 existente en Colorado y trasladar la dirección postal a la ciudad de Nueva York.
+La **descentralización de oficinas** ha comenzado en etapas graduales con la transferencia de operaciones financieras a la ciudad de Oklahoma, el 1 de enero, y aparentemente sin problemas. El próximo paso será transferir la base de datos a la Fellowship en el norte de California. (¿Está en nuestra base de datos con su nombre, dirección, teléfono y dirección de correo electrónico correctos?) Los pasos finales serán transferir los servicios telefónicos al 1-877 existente en Colorado y trasladar la dirección postal a la ciudad de Nueva York.
 
-Debido a **dos renuncias** de la Asociación General por motivos exigentes de salud y bienestar personal, el Consejo expresó su gratitud a Richard Johnson y Joe Liszka por sus muchos años de servicio a la Fraternidad. Ambos continuarán trabajando para la Fraternidad en diferentes capacidades. **Dos nuevos concejales**, Rebecca Kantor y Tom Orjala, fueron elegidos de un campo de ocho candidatos altamente calificados. (Ver Nuevos Consejeros)
+Debido a **dos renuncias** de la Asociación General por motivos exigentes de salud y bienestar personal, el Consejo expresó su gratitud a Richard Johnson y Joe Liszka por sus muchos años de servicio a la Fellowship. Ambos continuarán trabajando para la Fellowship en diferentes capacidades. **Dos nuevos concejales**, Rebecca Kantor y Tom Orjala, fueron elegidos de un campo de ocho candidatos altamente calificados. (Ver Nuevos Consejeros)
 
 El culto grupal del domingo por la mañana concluyó la memorable reunión.
 
 
 ## Se propone una nueva lista de correo electrónico para fomentar la interacción entre la Fellowship de _El Libro de Urantia_ y los miembros
 
-Richard Omura se ha convertido en un proyecto personal para iniciar una lista de correo electrónico estrictamente para la Fellowship de _El Libro de Urantia_. Los no miembros que quieran unirse a la Comunidad en el futuro pueden ser patrocinados por un miembro.
+Richard Omura se ha convertido en un proyecto personal para iniciar una lista de correo electrónico estrictamente para la Fellowship de _El Libro de Urantia_. Los no miembros que quieran unirse a la Fellowship en el futuro pueden ser patrocinados por un miembro.
 
-Este servicio no se proporcionará a través de las instalaciones de Internet de la Fraternidad, sino a través de una empresa comercial de Internet, Yahoo!
+Este servicio no se proporcionará a través de las instalaciones de Internet de la Fellowship, sino a través de una empresa comercial de Internet, Yahoo!
 
 El propósito de la lista es que los miembros se conozcan y discutan asuntos de nuestra organización y movimiento.
 
-Entrar en la lista es voluntario. A cada miembro actual de la Comunidad con un correo electrónico se le enviará primero una invitación por correo electrónico y una confirmación si su respuesta es positiva. Si no quieres unirte, simplemente no hagas nada. Nadie se suscribe automáticamente.
+Entrar en la lista es voluntario. A cada miembro actual de la Fellowship con un correo electrónico se le enviará primero una invitación por correo electrónico y una confirmación si su respuesta es positiva. Si no quieres unirte, simplemente no hagas nada. Nadie se suscribe automáticamente.
 
 Los mensajes se archivarán para que aquellos que no deseen recibir correos electrónicos aún puedan leer las publicaciones anteriores en el sitio web para mantenerse actualizados. Sin embargo, inicialmente debe suscribirse y ser miembro de YahooGroups para leer las publicaciones archivadas. Su correo puede entonces apagarse como desee.
 
@@ -104,7 +110,7 @@ Richard Omura está solicitando un voluntario de cada sociedad para que se haga 
 
 ## ¿Qué hay de nuevo en nuestro sitio web? ¡Historia y más!
 
-Los estudiantes de _El Libro de Urantia_ encontrarán una colección de exámenes de la Escuela de la Hermandad de Urantia ahora publicados en nuestro sitio web.
+Los estudiantes de _El Libro de Urantia_ encontrarán una colección de exámenes de la Escuela de la Brotherhood de Urantia ahora publicados en nuestro sitio web.
 
 Estos exámenes son ideales para estudiar o para grupos de estudio. Se pueden encontrar visitando la página «¿Qué hay de nuevo?» en: http://urantiabook.org/whatsnew.htm
 
@@ -114,11 +120,11 @@ En el sitio web: http://urantiabook.org/conferences/ic02 se puede obtener una va
 
 ## Nuevas opciones para ser miembro de la Fellowship son bienvenidas
 
-Convertirse en miembro de la Fellowship de _El Libro de Urantia_ ahora es más fácil e inclusivo que nunca. Desde 1955, Urantia Brotherhood/la Fellowship espera que sus miembros hayan leído el _Urantia Book_ completo y la constitución de la Fraternidad. Estos requisitos se mantienen únicamente para los miembros del Consejo General y para los miembros fundadores (mínimo diez) que inician una nueva sociedad. Como resultado, cualquier estudiante de _El Libro de Urantia_ que apoye los propósitos de la Fraternidad es elegible para convertirse en miembro.
+Convertirse en miembro de la Fellowship de _El Libro de Urantia_ ahora es más fácil e inclusivo que nunca. Desde 1955, Urantia Brotherhood/la Fellowship espera que sus miembros hayan leído el _Urantia Book_ completo y la constitución de la Fellowship. Estos requisitos se mantienen únicamente para los miembros del Consejo General y para los miembros fundadores (mínimo diez) que inician una nueva sociedad. Como resultado, cualquier estudiante de _El Libro de Urantia_ que apoye los propósitos de la Fellowship es elegible para convertirse en miembro.
 
 Se propone una nueva categoría llamada «Miembro Afiliado» y se espera que se apruebe en la reunión anual del Consejo General en julio, al igual que el nombre del Comité de Cartas Cambiar a Comité de Membresía. Este cambio de nombre refleja más fielmente las funciones del comité.
 
-Los miembros del grupo afiliado de la Fraternidad serían elegibles para convertirse en miembros llamados formalmente asociados de la Fraternidad, y dichos grupos estarían compuestos por al menos cinco miembros dedicados a la difusión de la revelación de Urantia. Este grupo no necesita constitución, ni participa en el gobierno de la Fraternidad como lo hacen las sociedades.
+Los miembros del grupo afiliado de la Fellowship serían elegibles para convertirse en miembros llamados formalmente asociados de la Fellowship, y dichos grupos estarían compuestos por al menos cinco miembros dedicados a la difusión de la revelación de Urantia. Este grupo no necesita constitución, ni participa en el gobierno de la Fellowship como lo hacen las sociedades.
 
 El estatus de afiliado permite un tipo más informal de relación organizacional. Por supuesto, dicho grupo podría decidir solicitar el estatus de sociedad en el futuro. (Ver Casa de FAD en Brasil en la historia Internacional en la página 1).
 
@@ -136,7 +142,7 @@ Tanto la familia como los amigos notan el fallecimiento de Peggy Johnson, miembr
 
 ## Próximamente... Nueva edición de _El Libro de Urantia_
 
-Próximamente probablemente signifique que la edición más reciente de _El Libro de Urantia_ se verá y estará disponible para su compra en la Conferencia internacional de la Fraternidad de _El Libro de Urantia_, IC02, en Estes Park, Colorado, del 30 de junio al 6 de julio.
+Próximamente probablemente signifique que la edición más reciente de _El Libro de Urantia_ se verá y estará disponible para su compra en la Conferencia internacional de la Fellowship de _El Libro de Urantia_, IC02, en Estes Park, Colorado, del 30 de junio al 6 de julio.
 
 Esta nueva edición presenta uno de los trabajos de apoyo a un libro más beneficiosos y mejor recibidos que un lector podría desear, a saber, un índice completo.
 
@@ -146,13 +152,13 @@ Por ejemplo, «Melchizedek» tiene más de 100 referencias de índice desde Maqu
 
 El índice es una biblioteca de referencia muy útil para _El Libro de Urantia_. Y se espera que el precio del libro con el índice incluido sea de unos veinte dólares... un verdadero logro para el hombre y la maquinaria. Gracias a todos por su excelente trabajo.
 
-> ¿Alguna vez ha oído hablar de un niño en crecimiento que no tenía hambre? La creciente Fraternidad del Libro de Urantia necesita el sustento que ustedes pueden proporcionar. es nuestro tiempo
+> ¿Alguna vez ha oído hablar de un niño en crecimiento que no tenía hambre? La creciente Fellowship del Libro de Urantia necesita el sustento que ustedes pueden proporcionar. es nuestro tiempo
 
 ## Vamos mamás y papás
 
 **¡Ayuda a que IC02 sea divertido para los jóvenes!**
 
-Sara Blackstock, la preeminente y divertida «reconstructora» de los tiempos y lugares bíblicos/Urantia de la Fraternidad para los jóvenes que asistirán a IC02, necesita su ayuda. Puede ayudarla a crear viñetas simples pero dramáticas que retraten el entorno de Jesús o las historias de _El Libro de Urantia_ La historia cobra vida de una manera que las «solo palabras» no pueden transmitir.
+Sara Blackstock, la preeminente y divertida «reconstructora» de los tiempos y lugares bíblicos/Urantia de la Fellowship para los jóvenes que asistirán a IC02, necesita su ayuda. Puede ayudarla a crear viñetas simples pero dramáticas que retraten el entorno de Jesús o las historias de _El Libro de Urantia_ La historia cobra vida de una manera que las «solo palabras» no pueden transmitir.
 
 Un «mercado» de hace mucho tiempo es más que divertido. El realismo, incluidos los pollos u otros animales, es una experiencia de aprendizaje, especialmente para las mentes jóvenes. Las viñetas no necesitan centrarse estrictamente en el tiempo de Jesús: ¿Andon y Fonta pueden descubrir el fuego, o Adán y Eva podrían llegar al Jardín?
 
@@ -215,6 +221,9 @@ sitio web: http://wvw.ubfellowship.org
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2001_Summer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de verano de 2001</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2002">
@@ -222,6 +231,9 @@ sitio web: http://wvw.ubfellowship.org
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2003_Spring">
+          <span class="pr-2">Edición de primavera de 2003</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2014_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2014</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-2014">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2015_Spring">
+          <span class="pr-2">Edición de primavera de 2015</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -36,17 +42,17 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Ahora que ha pasado la Conferencia Internacional de 2014, el Comité de Educación de _El Libro de Urantia_ Fellowship ha comenzado a planificar las Sesiones de estudio de verano de 2015, las reuniones planificadas como un estudio intensivo de _El Libro de Urantia_ durante los dos años entre las conferencias generales. SSS15 volverá a reunirse en Techny Towers en Northbrook, Illinois.
 
-SSS15 estudiará «Nuestra relación con Dios el Padre», comenzando una investigación de la primera parte del libro con un enfoque en los primeros cinco artículos, así como en el material relacionado. SSS15 comienza el jueves 9 de julio y concluye el domingo 12 de julio. El miércoles y el jueves también incluirán la Asamblea Trienal de Delegados, la reunión de representantes de la Sociedad de la Fraternidad con el propósito de elegir consejeros generales y aprobar resoluciones. Otros eventos especiales también ocurrirán justo antes de las Sesiones de Estudio de Verano. El Consejo General se reunirá justo después de la conclusión de SSS15.
+SSS15 estudiará «Nuestra relación con Dios el Padre», comenzando una investigación de la primera parte del libro con un enfoque en los primeros cinco artículos, así como en el material relacionado. SSS15 comienza el jueves 9 de julio y concluye el domingo 12 de julio. El miércoles y el jueves también incluirán la Asamblea Trienal de Delegados, la reunión de representantes de la Sociedad de la Fellowship con el propósito de elegir consejeros generales y aprobar resoluciones. Otros eventos especiales también ocurrirán justo antes de las Sesiones de Estudio de Verano. El Consejo General se reunirá justo después de la conclusión de SSS15.
 
 Además de la adoración, las presentaciones plenarias y varias opciones de talleres de estudio intensivo que han sido la característica de estas sesiones, habrá una pista para los lectores más nuevos que les presentará _El Libro de Urantia_ y los documentos del uno al cinco. Por primera vez, también habrá una pista de estudio en profundidad para la cual los participantes se prepararán con lecturas y tareas asignadas. La pista de estudio en profundidad será organizada por el Subcomité de Estudio en Profundidad del Comité de Educación.
 
-La información de registro aparecerá en estas páginas, así como en otras ubicaciones de Fellowship en los próximos meses. Mientras tanto, si hay preguntas o si los lectores quisieran proponer un taller para la pista principal de SSS15, deben contactar a: David Kulieke:david.kulieke@gmail.com.
+La información de registro aparecerá en estas páginas, así como en otras ubicaciones de la Fellowship en los próximos meses. Mientras tanto, si hay preguntas o si los lectores quisieran proponer un taller para la pista principal de SSS15, deben contactar a: David Kulieke:david.kulieke@gmail.com.
 
 ## Recuerdos de IC '14
 
 Por _Angie Thurston_
 
-> _Una de las lecciones más importantes que debes aprender durante tu carrera mortal es el trabajo en equipo. Las esferas de perfección están a cargo de aquellos que han dominado este arte de trabajar con otros seres._ [[LU 28:5.14](/es/The_Urantia_Book/28#p5_14)]
+> _Una de las lecciones más importantes que tenéis que aprender durante vuestra carrera mortal es la del trabajo en equipo. Las esferas de perfección están tripuladas por aquellos que han dominado este arte de trabajar con otros seres_ [[LU 28:5.14](/es/The_Urantia_Book/28#p5_14)]
 
 <figure id="Figure_2" class="image urantiapedia estilo-imagen-alinear-derecha">
 <img src="/image/article/The_Mighty_Messenger/2014_Winter/005841.jpg">
@@ -100,7 +106,7 @@ Atentamente, Andrea Barnes, Comité de Difusión, Presidente
 
 Nuestro grupo de estudio de Portland, Oregón, y otros de Oregón que ayudaron en la Expo Body Mind Spirit, desean agradecer a la Fellowship de _El Libro de Urantia_ por patrocinar un stand en este evento. También queremos agradecer a Thomas Orjala por todo su trabajo. Fue un privilegio trabajar con él como voluntarios. Se vendieron muchos libros y ya tenemos otra persona que se unió a nuestro grupo de estudio y está leyendo _El Libro de Urantia_ con nosotros, gracias a que encontró _El Libro de Urantia_ en la Expo. Un par de otras personas en nuestro grupo de estudio también encontraron el libro a través de esta Expo de años anteriores.
 
-También, gracias a aquellos que donan a la Fraternidad y así ayudan a patrocinar estos eventos. De manera lenta pero segura, estamos ayudando a difundir las enseñanzas de Urantia a aquellos que buscan la verdad.
+También, gracias a aquellos que donan a la Fellowship y así ayudan a patrocinar estos eventos. De manera lenta pero segura, estamos ayudando a difundir las enseñanzas de Urantia a aquellos que buscan la verdad.
 
 Con amor de,
 
@@ -213,6 +219,9 @@ www.urantiabook.org
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2014_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de primavera de 2014</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-2014">
@@ -220,6 +229,9 @@ www.urantiabook.org
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2015_Spring">
+          <span class="pr-2">Edición de primavera de 2015</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

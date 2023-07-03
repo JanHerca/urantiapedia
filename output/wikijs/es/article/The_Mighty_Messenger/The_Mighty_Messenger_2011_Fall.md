@@ -14,6 +14,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2010_Winter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de invierno de 2010</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2011">
@@ -21,6 +24,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2012_Spring">
+          <span class="pr-2">Edición de primavera de 2012</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
@@ -37,7 +43,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <img src="/image/article/The_Mighty_Messenger/2011_Fall/005762.jpg">
 </figure>
 
-El Comité de Educación de la Fellowship de _El Libro de Urantia_ le invita a unirse a nosotros en la sesión de estudio de verano de Fellowship, del 1 al 5 de agosto de 2012, en el hermoso Techny Towers, un centro de conferencias y retiros ubicado en la costa norte de Chicago. Los planes para la conferencia incluyen un retiro previo a la conferencia desde el miércoles 1 de agosto por la noche hasta el viernes 3 de agosto por la mañana, y también está disponible un recorrido guiado por la ciudad de la arquitectura frente al lago de Chicago antes de la conferencia. Tenemos muchas ganas de hacer de este un evento familiar. Los precios se han mantenido como en 2010. No habrá cuotas de inscripción para niños menores de 18 años, y tenemos Fellowships disponibles especialmente para familias con el fin de reducir los costos y permitir que los asistentes traigan a sus hijos o nietos. Se proporcionará un programa especial para niños.
+El Comité de Educación de la Fellowship de _El Libro de Urantia_ le invita a unirse a nosotros en la sesión de estudio de verano de la Fellowship, del 1 al 5 de agosto de 2012, en el hermoso Techny Towers, un centro de conferencias y retiros ubicado en la costa norte de Chicago. Los planes para la conferencia incluyen un retiro previo a la conferencia desde el miércoles 1 de agosto por la noche hasta el viernes 3 de agosto por la mañana, y también está disponible un recorrido guiado por la ciudad de la arquitectura frente al lago de Chicago antes de la conferencia. Tenemos muchas ganas de hacer de este un evento familiar. Los precios se han mantenido como en 2010. No habrá cuotas de inscripción para niños menores de 18 años, y tenemos Fellowships disponibles especialmente para familias con el fin de reducir los costos y permitir que los asistentes traigan a sus hijos o nietos. Se proporcionará un programa especial para niños.
 
 Si desea realizar un taller, debe completar un Formulario de propuesta de taller y devolverlo a Peter Laurence, Coordinador del programa, antes del 1 de marzo de 2012. Después de esa fecha, el Comité de educación revisará las propuestas y seleccionará las que brindarán una programa equilibrado e informativo. Invitamos propuestas tanto de aquellos que son presentadores de talleres experimentados como de aquellos que pueden estar presentando por primera vez.
 
@@ -82,7 +88,7 @@ El ajetreado Comité de Educación se reúne con frecuencia a través de confere
 <figcaption><em>Instalación de Orvonton. Dr. William Sadler, Warren Kulieke, Marion Rowley, Emma Christensen (Christy), Alfred Leverenz</em></figcaption>
 </figure>
 
-El 14 de febrero de 1961, el Comité Ejecutivo de la Hermandad Urantia aprobó la solicitud de un estatuto en nombre de la Sociedad Urantia de Orvonton de Chicago, el séptimo estatuto otorgado por la Hermandad Urantia. El nombre Orvonton fue seleccionado después del nombre de nuestro séptimo superuniverso. Pero no fue sino hasta el 27 de junio de 1961 cuando la Sociedad presentó oficialmente sus estatutos junto con la toma de posesión de los miembros fundadores. La presentación de la Carta estuvo a cargo del Dr. Sadler y fue aceptada por Al Leverenz. La Sociedad de Orvonton adoptó el lema: «Nuestro objetivo es fusionarnos».
+El 14 de febrero de 1961, el Comité Ejecutivo de la Brotherhood Urantia aprobó la solicitud de un estatuto en nombre de la Sociedad Urantia de Orvonton de Chicago, el séptimo estatuto otorgado por la Brotherhood Urantia. El nombre Orvonton fue seleccionado después del nombre de nuestro séptimo superuniverso. Pero no fue sino hasta el 27 de junio de 1961 cuando la Sociedad presentó oficialmente sus estatutos junto con la toma de posesión de los miembros fundadores. La presentación de la Carta estuvo a cargo del Dr. Sadler y fue aceptada por Al Leverenz. La Sociedad de Orvonton adoptó el lema: «Nuestro objetivo es fusionarnos».
 
 La Sociedad cambió su nombre en 2007 a la Sociedad de Orvonton eliminando «Chicago» de su nombre ya que la mayoría de los miembros se habían mudado del área de Chicago, pero decidieron mantener su lealtad a la Sociedad de Orvonton. Como resultado, se convirtió en una Sociedad virtual con sede en Indianápolis. La Sociedad actualmente tiene tres grupos de estudio en el área de Indianápolis, uno en Brookston, Indiana, un grupo recién formado en Bloomington, Indiana, un grupo de estudio en Baton Rouge, Louisiana y un grupo de estudio en Oaxaca, México. Los funcionarios y miembros realizan negocios por correo electrónico y Skype.
 
@@ -93,7 +99,7 @@ La Sociedad cambió su nombre en 2007 a la Sociedad de Orvonton eliminando «Chi
 
 El 25 de junio de 2011, miembros de la Sociedad, grupos de debate locales y amigos se reunieron en el Marriott de Indianápolis para conmemorar el quincuagésimo aniversario de la Sociedad. Carolyn Kendall, uno de los miembros fundadores de la Sociedad de Orvonton, fue la oradora principal y habló de los primeros días con el Dr. Sadler y el Foro. Marilynn Kulieke, fideicomisaria de la fundación, fue oradora invitada y facilitó una discusión grupal. John Hales, vicepresidente de la Fellowship de _El Libro de Urantia_, orador invitado, compartió sus experiencias en esos primeros días. Frank Sgaraglino, otro miembro fundador de la Sociedad, también asistió a la conmemoración especial.
 
-Además de Carolyn Kendall y Frank Sgaraglino, los miembros fundadores vivos en la actualidad son Joe Liska, que actualmente vive en Key West, Florida, y Larry Bowman, miembro activo de la Sociedad del Gran Cañón y Consejero General de la Fraternidad.
+Además de Carolyn Kendall y Frank Sgaraglino, los miembros fundadores vivos en la actualidad son Joe Liska, que actualmente vive en Key West, Florida, y Larry Bowman, miembro activo de la Sociedad del Gran Cañón y Consejero General de la Fellowship.
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2011_Fall/005767.jpg">
@@ -108,7 +114,7 @@ Por _Michelle Klimesh_
 <img src="/image/article/The_Mighty_Messenger/2011_Fall/005766.jpg">
 </figure>
 
-La Conferencia para Lectores de _El Libro de Urantia_ de 2011 de la Fraternidad fue lo más destacado de mi verano. Muchas gracias a Susan Cook, Presidenta de la Conferencia, ya su increíble equipo de la Conferencia por traernos esta alegre experiencia en Salt Lake City.
+La Conferencia para Lectores de _El Libro de Urantia_ de 2011 de la Fellowship fue lo más destacado de mi verano. Muchas gracias a Susan Cook, Presidenta de la Conferencia, ya su increíble equipo de la Conferencia por traernos esta alegre experiencia en Salt Lake City.
 Las sesiones plenarias reunieron a todos para comenzar cada mañana con una experiencia compartida. La primera mañana estuvo dirigida por nuestros hombres, la segunda por nuestras mujeres, luego nuestro Comité de Jóvenes y Jóvenes Adultos y finalmente Truthseekers. Las cuatro sesiones proporcionaron una combinación de música para nutrir nuestros corazones, adoración para alimentar nuestras almas y oradores para enriquecer nuestros pensamientos. Cada tarde nos ofrecieron dos conjuntos de ocho talleres. Después de la cena, los eventos especiales destacaron el cine, la astronomía, el arte, la música y el siempre popular Club UB.
 
 El tercer día de la conferencia fue un 'día ligero'. No hubo sesión plenaria y finalmente encontré tiempo para asistir a mi primer taller. Sara Blackstock y Marilyn O'Neill-Eash diseñaron un taller llamado «Bevy of Women» para mujeres de ocho a ochenta años. Compartimos poesía, música y experiencias de nuestras vidas. Fue profundo, humorístico, triste y amoroso; las conexiones que hicimos entre nosotros fueron preciosas.
@@ -139,7 +145,7 @@ El norte de Texas, Nueva York y la Primera Sociedad (Chicago) se destacan como m
 
 Se presentó un nuevo vínculo organizativo entre el Consejo General y las sociedades, poniendo en contacto a funcionarios con funcionarios, presidente a presidente, tesorero a tesorero, etc. Establecerán conferencias telefónicas trimestralmente, junto con soporte por correo electrónico, para compartir desafíos comunes mientras brindan apoyo y orientación.
 
-También discutido y ahora en los trabajos, es el desarrollo de dos nuevas listas de comunicaciones. La primera, una lista de miembros de la Fraternidad, abierta a TODOS los miembros de la Fraternidad. La segunda es una lista de Liderazgo de la sociedad para los funcionarios y presidentes de comités de la sociedad que actualmente prestan servicios. Estas nuevas herramientas han sido apoyadas con entusiasmo por el Consejo General y el Comité Ejecutivo, y el personal está trabajando activamente para implementarlas.
+También discutido y ahora en los trabajos, es el desarrollo de dos nuevas listas de comunicaciones. La primera, una lista de miembros de la Fellowship, abierta a TODOS los miembros de la Fellowship. La segunda es una lista de Liderazgo de la sociedad para los funcionarios y presidentes de comités de la sociedad que actualmente prestan servicios. Estas nuevas herramientas han sido apoyadas con entusiasmo por el Consejo General y el Comité Ejecutivo, y el personal está trabajando activamente para implementarlas.
 
 Cuanto más podamos establecer y utilizar tales herramientas de comunicación para animarnos unos a otros en nuestras tareas designadas, más podremos compartir y motivarnos colectivamente para difundir las enseñanzas de _El Libro de Urantia_ a todas las personas del mundo: una llamada, una e -correo, una conexión a la vez.
 
@@ -161,15 +167,15 @@ El próximo verano, se reunirá la 17ª Asamblea Trienal de Delegados; por lo ta
 
 ## ¡Habla el Comité YaYa!
 
-Qué semana de eventos inspiradores que cambiarán la vida y que moldearán para siempre la cultura de nuestro movimiento. Como jóvenes y adultos jóvenes, nos sentimos bendecidos de ser un foco de IC11; planeamos y organizamos la fiesta de baile de la noche de apertura, encabezamos más de una docena de talleres para jóvenes, adultos jóvenes y familias, llenamos el plenario de clausura con música increíble y un intercambio verdaderamente conmovedor, y trabajamos para mostrar lo que es posible para el futuro de nuestra comunidad. . Estamos muy agradecidos por el apoyo de la Fraternidad para hacer de esta conferencia algo inolvidable.
+Qué semana de eventos inspiradores que cambiarán la vida y que moldearán para siempre la cultura de nuestro movimiento. Como jóvenes y adultos jóvenes, nos sentimos bendecidos de ser un foco de IC11; planeamos y organizamos la fiesta de baile de la noche de apertura, encabezamos más de una docena de talleres para jóvenes, adultos jóvenes y familias, llenamos el plenario de clausura con música increíble y un intercambio verdaderamente conmovedor, y trabajamos para mostrar lo que es posible para el futuro de nuestra comunidad. . Estamos muy agradecidos por el apoyo de la Fellowship para hacer de esta conferencia algo inolvidable.
 
 Lo que nos llevamos de Salt Lake fue un fuerte sentido de comunidad, y no solo porque cada uno de nosotros tenía alrededor de 40 nuevos amigos en Facebook después de que nos fuéramos. Fue porque sentimos una conexión instantánea y profunda con nuestros compañeros en la conferencia, basada en _El Libro de Urantia_. Fue realmente extraordinario estar tan en sintonía entre nosotros y poder compartir a un nivel tan personal.
 
 Algunas experiencias marcaron un cambio en la cultura del movimiento Urantia. Uno es el interés que vimos de Truthseekers sobre _El Libro de Urantia_ después de regresar de Snow Bird. Nunca antes habíamos sentido un nivel tan genuino de intriga por parte de los jóvenes en una conferencia. Quedó muy claro que los años de trabajo que se han invertido en la difusión de las enseñanzas de _El Libro de Urantia_ y el programa de estudios Truthseekers están comenzando a dar sus frutos.
 
-Estamos encantados de que IC 11 haya sido un éxito tan asombroso. Ahora nuestra misión es tomar esta inspiración y forjarla al servicio de nuestros semejantes. Como dice _El Libro de Urantia_: «'Seguir a Jesús' significa compartir personalmente su fe religiosa y entrar en el espíritu de la vida del Maestro de servicio desinteresado por el hombre». [196:1.3](P. 2090) Cada uno de nosotros puede hacer algo todos los días para fomentar una vida dedicada desinteresadamente al servicio. Y cuando lo hacemos, encontramos a Dios en los demás y los demás encuentran a Dios en nosotros. Nuestra generación está llamada a servir y esperamos que nuestros mentores nos acompañen de la mano mientras enfrentamos el maravilloso desafío de promover esta revelación. Este es nuestro compromiso!!
+Estamos encantados de que IC 11 haya sido un éxito tan asombroso. Ahora nuestra misión es tomar esta inspiración y forjarla al servicio de nuestros semejantes. Como dice _El Libro de Urantia_: ««Seguir a Jesús» significa compartir personalmente su fe religiosa y entrar en el espíritu de la vida del Maestro, consagrada al servicio desinteresado de los hombres». [[LU 196:1.3](/es/The_Urantia_Book/196#p1_3)] Cada uno de nosotros puede hacer algo todos los días para fomentar una vida dedicada desinteresadamente al servicio. Y cuando lo hacemos, encontramos a Dios en los demás y los demás encuentran a Dios en nosotros. Nuestra generación está llamada a servir y esperamos que nuestros mentores nos acompañen de la mano mientras enfrentamos el maravilloso desafío de promover esta revelación. Este es nuestro compromiso!!
 
-Otro avance maravilloso es la aprobación de un Comité Permanente de Jóvenes y Adultos Jóvenes de la Fraternidad. Este es el primer nuevo comité permanente en los 56 años de historia de la Fraternidad, y nos sentimos honrados por la gran oportunidad y responsabilidad de apoyar a los jóvenes en su búsqueda de la verdad espiritual.
+Otro avance maravilloso es la aprobación de un Comité Permanente de Jóvenes y Adultos Jóvenes de la Fellowship. Este es el primer nuevo comité permanente en los 56 años de historia de la Fellowship, y nos sentimos honrados por la gran oportunidad y responsabilidad de apoyar a los jóvenes en su búsqueda de la verdad espiritual.
 
 Entonces, ¿dónde vamos desde aquí? En la conferencia ya través de Truthseekers creamos una familia de amigos y ganamos un nivel de confianza que en muchos casos no tiene igual en el resto de nuestras vidas. La única forma de mantener viva esta conexión es permanecer en contacto y apoyarnos mutuamente en todo lo que podamos. Como individuos, estamos comprometidos a acercarnos y dejarnos saber que estamos en la mente de los demás. Cualquier cosa que podamos hacer no solo significa mucho, sino que también nos recuerda que la comunidad en la que estamos creciendo es real y no solo existe cuando estamos juntos en una conferencia. Así que llama a esa persona para saludarla o envíale una foto que alegrará su fin de semana.
 
@@ -210,7 +216,7 @@ Publicaremos precios y materiales actualizados en los siguientes tres sitios web
 <img src="/image/article/The_Mighty_Messenger/2011_Fall/005779.jpg">
 </figure>
 
-La Feria Internacional del Libro de Seúl 2011 se llevó a cabo del 15 al 19 de junio, marcando el tercer año consecutivo que el Comité Internacional de la Fraternidad participa en el evento, este año los miembros del comité Dolores Nice y Buck Weimer.
+La Feria Internacional del Libro de Seúl 2011 se llevó a cabo del 15 al 19 de junio, marcando el tercer año consecutivo que el Comité Internacional de la Fellowship participa en el evento, este año los miembros del comité Dolores Nice y Buck Weimer.
 
 Nuestra persona de contacto principal en Corea, Sy Chang, nos recibió en nuestro primer día allí y nos guió a través del laberinto de seguridad. Al darnos cuenta de que no teníamos Vitaminas Espirituales en coreano cuando llegamos, las enrollamos rápidamente y continuamos haciéndolo durante toda la feria. El término «vitaminas espirituales» no se traduce bien en coreano, pero después de que Sy las marcó como «Mind Vitamins», se convirtieron en un éxito. Distribuimos más de 1.700 de ellos.
 
@@ -288,7 +294,7 @@ Michelle Klimesh, Coordinadora
 
 Canalización de la Luz
 
-> «De todos los conocimientos humanos, el que tiene mayor valor es conocer la vida religiosa de Jesús y cómo la vivió». [[LU 196:1.3](/es/The_Urantia_Book/196#p1_3)]
+> «De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió». [[LU 196:1.3](/es/The_Urantia_Book/196#p1_3)]
 
 ## Lanzamiento de la traducción al turco de El Libro de Urantia
 
@@ -323,8 +329,8 @@ Así que vamos amigos, empiecen a pensar en ello. Después del grupo, durante la
 
 ## Esto y aquello
 
-- Para recibir en línea el boletín electrónico mensual de la Comunidad, vaya a www.urantiabook.org y haga clic en Suscripciones en la parte inferior de la página de inicio. Si ya está registrado para este servicio, recuerde mantenernos actualizados sobre cualquier cambio en el correo electrónico.
-- Si desea ofrecer parte de su tiempo como voluntario para servir a la Fraternidad en uno de sus diversos comités, comuníquese con nuestro Coordinador de Voluntarios en: andbarnes@gmail.com.
+- Para recibir en línea el boletín electrónico mensual de la Fellowship, vaya a www.urantiabook.org y haga clic en Suscripciones en la parte inferior de la página de inicio. Si ya está registrado para este servicio, recuerde mantenernos actualizados sobre cualquier cambio en el correo electrónico.
+- Si desea ofrecer parte de su tiempo como voluntario para servir a la Fellowship en uno de sus diversos comités, comuníquese con nuestro Coordinador de Voluntarios en: andbarnes@gmail.com.
 - ¿Ha visitado el sitio web de la Fellowship recientemente? Puede encontrar varios tipos de información, como información del grupo de estudio, el último boletín en línea y otras publicaciones, una versión en audio del libro que puede usar durante las sesiones del grupo de estudio, la tienda web, archivos de la historia de la revelación, estudios sobre prácticamente todos los tema en el libro, y mucho, mucho más. Pase una tarde de invierno explorando los recursos disponibles para usted en www.urantiabook.org.
 
 ## Equipo del Mighty Messenger
@@ -347,6 +353,9 @@ www.urantiabook.org
     <tbody>
       <tr>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2010_Winter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Edición de invierno de 2010</span>
+        </a>
         </td>
         <td>
         <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2011">
@@ -354,6 +363,9 @@ www.urantiabook.org
         </a>
         </td>
         <td>
+        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2012_Spring">
+          <span class="pr-2">Edición de primavera de 2012</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

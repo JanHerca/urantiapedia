@@ -90,7 +90,7 @@ We hope you will join us in this activity!
 
 ### Worship
 
-The worship theme for SSS’18 is The Relationship of Worship and Service. “Worship is the technique of looking to the One for the inspiration of service to the many” (143:7.6). The Worship Committee has planned several events in order to create an occasion “pervaded by an atmosphere of communion.” You may attend quiet contemplative meditation in the Africa Chapel before breakfast and dinner each day; gather to contemplate our heavenly Father together prior to the plenary sessions. Sunday we will gather and share a special morning of worship with related activities.
+The worship theme for SSS’18 is The Relationship of Worship and Service. “Worship is the technique of looking to the One for the inspiration of service to the many” ([UB 143:7.6](/en/The_Urantia_Book/143#p7_6)). The Worship Committee has planned several events in order to create an occasion “pervaded by an atmosphere of communion.” You may attend quiet contemplative meditation in the Africa Chapel before breakfast and dinner each day; gather to contemplate our heavenly Father together prior to the plenary sessions. Sunday we will gather and share a special morning of worship with related activities.
 
 ### It’s a Friendly Universe Gala
 
