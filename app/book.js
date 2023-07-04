@@ -1549,13 +1549,14 @@ class Book {
 	 * @param {?ImageCatalog} imageCatalog Image catalog.
 	 * @param {?MapCatalog} mapCatalog Map catalog.
 	 * @param {?Paralells} paralells Paralells.
+	 * @param {?Articles} articles Articles.
 	 * @return {Promise} Promise that returns null in resolve function or an
 	 * array of errors in reject function.
 	 */
 	writeToWikijs = (dirPath, topicIndex, topicIndexEN, imageCatalog,
-		mapCatalog, paralells) => {
+		mapCatalog, paralells, articles) => {
 		return this.writeTo(dirPath, 'html', topicIndex, topicIndexEN, 
-			imageCatalog, mapCatalog, paralells);
+			imageCatalog, mapCatalog, paralells, articles);
 	};
 
 	/**
@@ -1624,11 +1625,12 @@ class Book {
 	 * @param {?ImageCatalog} imageCatalog Image catalog.
 	 * @param {?MapCatalog} mapCatalog Map catalog.
 	 * @param {?Paralells} paralells Paralells.
+	 * @param {?Articles} articles Articles.
 	 * @return {Promise} Promise that returns null in resolve function and an
 	 * error in reject function.
 	 */
-	writeFileToWikijs = (filePath, papers, topicIndex, topicIndexEN, imageCatalog, 
-		mapCatalog, paralells) => {
+	writeFileToWikijs = (filePath, papers, topicIndex, topicIndexEN, 
+		imageCatalog, mapCatalog, paralells, articles) => {
 		return new Promise((resolve, reject) => {
 			const multi = Array.isArray(papers);
 			const years = (multi ? papers.map(p=>p.year) : 
@@ -1642,7 +1644,9 @@ class Book {
 			const index = paper.paper_index;
 			const prev = index - 1;
 			const next = index + 1;
-			const cite = `<sup id="cite{0}"><a href="#fn{0}">[{0}]</a></sup>`;
+			const cite = `<sup id="cite_{1}{0}"><a href="#fn_{1}{0}">[{0}]</a></sup>`;
+			const icon = `<img class="emoji" draggable="false" alt="{0}" ` +
+				`src="/_assets/svg/twemoji/{1}.svg">`;
 			const colors = ['blue', 'purple', 'teal', 'deep-orange'];
 			let error = null;
 
@@ -1650,12 +1654,24 @@ class Book {
 			const paramonyFn = (Array.isArray(paper.footnotes) &&
 				paper.footnotes.length > 0 ?
 				this.footnotesToObjects(paper) : []);
+			paramonyFn.sort((a, b) => a.sorting - b.sorting);
 			const paramonyFnErr = paramonyFn
 				.filter(f => f.html === 'FOOTNOTE ERROR')
 				.map(f => f.index);
 			const paralellsFn = (paralells ? paralells.getParalells(index) : []);
-			const allFn = [...paramonyFn, ...paralellsFn];
-			allFn.sort((a, b) => a.sorting - b.sorting);
+			paralellsFn.sort((a, b) => a.sorting - b.sorting);
+			const articlesFn = (articles ? articles.getParalells(index) : []);
+			articlesFn.sort((a, b) => a.sorting - b.sorting);
+			const allFn = [
+				{section: 'Articles', footnotes: articlesFn, index: 0, 
+					suffix: 'a', twemoji: '1f4c3', alt: '📃'},
+				{section: 'The Bible', footnotes: paramonyFn, index: 0, 
+					suffix: 'b', twemoji: '1f4d5', alt: '📕'},
+				{section: 'Other books', footnotes: paralellsFn, index: 0, 
+					suffix: 'o', twemoji: '1f4da', alt: '📚'}
+			]
+			// const allFn = [...paramonyFn, ...paralellsFn];
+			// allFn.sort((a, b) => a.sorting - b.sorting);
 
 			//Checks
 			if (!Array.isArray(paper.sections)) {
@@ -1685,7 +1701,7 @@ class Book {
 			const nextLink = getWikijsBookLink(nextPaper, this.language, multi, false);
 			const indexLink = getWikijsBookLink(paper, this.language, multi, null);
 			const title = getBookPaperTitle(paper, this.language, true);
-			let footnoteIndex = 0;
+			// let footnoteIndex = 0;
 			let rErr = [];
 			let topicErr = [];
 
@@ -1784,23 +1800,40 @@ class Book {
 						// If par is from master UB or only one UB
 						if (masterIndex === ppi || !multi) {
 							//Add footnote marks to paragraph content
-							allFn
-								.filter(fn => fn.par_ref === p.par_ref)
-								.forEach(fn => {
-									footnoteIndex++;
-									const text = strformat(cite, footnoteIndex);
-									if (fn.index != null) {
-										pcontent = pcontent.replace(`{${fn.index}}`, text);
-									} else if (fn.location === 999) {
-										pcontent += text;
-									} else if (fn.location != null) {
-										const indexes = getAllIndexes(pcontent, '.');
-										const tindex = indexes[fn.location - 1];
-										pcontent = pcontent.substring(0, tindex) +
-											text + pcontent.substring(tindex);
-									}
-								});
+							allFn.forEach(fnsection => {
+								fnsection.footnotes
+									.filter(fn => fn.par_ref === p.par_ref)
+									.forEach((fn, k) => {
+										fnsection.index++;
+										const fni = fnsection.index;
+										const fns = fnsection.suffix;
+										const fna = fnsection.alt;
+										const fnt = fnsection.twemoji;
+										const text = strformat(cite, fni, fns);
+										const fnicon = strformat(icon, fna, fnt);
+										const i2 = p.par_content.indexOf(`{${fn.index}}`);
+										const i1 = p.par_content.indexOf(`{${fn.index-1}}`);
+										if (fn.index != null) {
+											if (k == 0 || (i2 - i1 > 4)) {
+												pcontent = pcontent.replace(`{${fn.index}}`, fnicon + text);
+											} else {
+												pcontent = pcontent.replace(`{${fn.index}}`, text);
+											}
+										} else if (fn.location === 999) {
+											if (k == 0) {
+												pcontent += fnicon;
+											}
+											pcontent += text;
+										} else if (fn.location != null) {
+											const indexes = getAllIndexes(pcontent, '.');
+											const tindex = indexes[fn.location - 1];
+											pcontent = pcontent.substring(0, tindex) +
+												fnicon + text + pcontent.substring(tindex);
+										}
+									});
+							});
 						}
+
 						//The first item is always in English
 						if (multi && ppi === 0) {
 							//Remove footnote marks (they are in master)
@@ -1846,9 +1879,9 @@ class Book {
 			body += getWikijsLinks(prevLink, indexLink, nextLink);
 
 			//References section
-			if (allFn.length > 0) {
-				body += this.referencesSectionToWikijs(allFn);
-			}
+			// if (allFn.length > 0) {
+			// 	body += this.referencesSectionToWikijs(allFn);
+			// }
 			
 			if (error) {
 				reject(this.getError(error, filePath, error_par_ref));
@@ -1963,6 +1996,8 @@ class Book {
 		}
 		return html;
 	};
+
+
 
 	/**
 	 * Returns the References section from the array of footnotes to Wiki.js.
@@ -2916,11 +2951,12 @@ class Book {
 	 * then this param is required.
 	 * @param {?ImageCatalog} imageCatalog Image catalog.
 	 * @param {?Paralells} paralells Paralells.
+	 * @param {?Articles} articles Articles.
 	 * @return {Promise} Promise that returns null in resolve function or
 	 * an array of errors in reject function.
 	 */
 	writeTo = (dirPath, format, topicIndex, topicIndexEN, imageCatalog, 
-		mapCatalog, paralells) => {
+		mapCatalog, paralells, articles) => {
 		const baseName = path.basename(dirPath);
 		return new Promise((resolve, reject) => {
 			fs.access(dirPath, fs.constants.W_OK, (err) => {
@@ -2929,7 +2965,7 @@ class Book {
 					return;
 				}
 				const promises = this.papers
-				// .filter(paper => paper.paper_index === 181)
+				.filter(paper => paper.paper_index === 0)
 				.map(paper => {
 					const bookName = Strings['bookName'][this.language]
 						.replace(/\s/g, '_');
@@ -2949,7 +2985,8 @@ class Book {
 					} else if (format === 'html') {
 						filePath = path.join(dirPath, `${i}.${format}`);
 						p = this.writeFileToWikijs(filePath, paper, topicIndex,
-							topicIndexEN, imageCatalog, mapCatalog, paralells);
+							topicIndexEN, imageCatalog, mapCatalog, paralells,
+							articles);
 					} else if (format === 'txt') {
 						filePath = path.join(dirPath, 
 							`UB_${stri}${i == 0 ? '_1' : ''}.${format}`);

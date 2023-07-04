@@ -625,8 +625,9 @@ const handle_exeButtonClick = () => {
 			})
 			.then(() => topicindex.updateTopicNames(topicindexEN))
 			.then(() => topicindex.updateRefsForSearching(book))
+			.then(() => articles.readUBParalellsFromTSV(txtFile))
 			.then(() => book.writeToWikijs(htmlDir, topicindex, topicindexEN, 
-				imageCatalog, mapCatalog, paralells))
+				imageCatalog, mapCatalog, paralells, articles))
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'BOOK_MULTIPLE_JSON_TOPICS_TXT_TO_WIKIJS' && 
@@ -931,7 +932,7 @@ const handle_exeButtonClick = () => {
 			.catch(onFail);
 	} else if (process === 'ARTICLE_INDEX_TO_WIKIJS') {
 		// Reads Articles Index File (TSV)
-		// Writes in Wiki.js
+		// Writes Articles Index in Wiki.js
 		if (lan === 'en') {
 			articles.readIndexFileFromTSV(txtFile)
 				.then(() => articles.writeIndexFileToWikijs(htmlFile))
@@ -947,7 +948,7 @@ const handle_exeButtonClick = () => {
 		}
 	} else if (process === 'ARTICLE_NAVIGATION_HEADERS_IN_WIKIJS') {
 		// Reads Articles Index File (TSV)
-		// Writes in articles in Wiki.js
+		// Writes navigation header/footer in Wiki.js
 		if (lan === 'en') {
 			articles.readIndexFileFromTSV(txtFile)
 				.then(() => articles.writeNavigationHeadersToWikijs(htmlDir))
@@ -967,7 +968,14 @@ const handle_exeButtonClick = () => {
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
 	} else if (process === 'ARTICLE_CREATE_PARALELLS_FROM_WIKIJS') {
-
+		// Reads UB (*.json)
+		// Reads articles (*.md)
+		// Writes cross refs (paralells) (*.tsv)
+		book.readFromJSON(jsonDir)
+			.then(() => articles.readArticlesFromWikijs(htmlDir, book))
+			.then(() => articles.writeUBParalellsToTSV(txtFile))
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
 	} else if (process === 'ALL_INDEXES') {
 		// Creates a page of all indexes
 		getListOfAllIndexes(htmlDir)

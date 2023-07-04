@@ -135,10 +135,11 @@ const Processes = {
 			en: "THE URANTIA BOOK: Convert Urantia Book (JSON) + Topic Index (TXT) to Wiki.js",
 			es: "EL LIBRO DE URANTIA: Convertir Libro de Urantia (JSON) + Topic Index (TXT) a Wiki.js"
 		},
-		controls: ['dirTTextbox', 'dirJTextbox', 'dirHTextbox'],
+		controls: ['dirTTextbox', 'dirJTextbox', 'dirHTextbox', 'fnTTextbox'],
 		paths: [['input', 'txt', 'topic-index-{0}'],
 			['input', 'json', 'book-{0}-footnotes'], 
-			['output', 'wikijs', '{0}', 'The_Urantia_Book']]/*,
+			['output', 'wikijs', '{0}', 'The_Urantia_Book'],
+			['input', 'txt', 'articles-{0}', 'ub_paralells.tsv']]/*,
 		emptyLan: [null, null, 'en']*/
 	},
 	"BOOK_MULTIPLE_JSON_TOPICS_TXT_TO_WIKIJS": {

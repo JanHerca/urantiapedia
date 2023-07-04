@@ -29,6 +29,8 @@ class Articles {
 		language: 'en'
 	};
 	items = [];
+	articles = [];
+	paralells = [];
 
 	createIndexFn = pug.compileFile(path.join(app.getAppPath(), 'app', 'templates', 'articleindex.pug'), {pretty: true});
 
@@ -81,8 +83,59 @@ class Articles {
 		this.items.length = 0;
 	};
 
+	/**
+	 * Clears the list of articles.
+	 */
+	clearArticles = () => {
+		this.articles.length = 0;
+	};
+
+	/**
+	 * Clears the list of paralells.
+	 */
+	clearParalells = () => {
+		this.paralells.length = 0;
+	};
+
+	/**
+	 * Gets the paralells for a given paper in The Urantia Book.
+	 * @param {number} paperIndex Urantia Book paper index starting at zero.
+	 * [0-196].
+	 * @return {Object[]} Returns an array of objects with the paralells. The 
+	 * objects have these values:
+	 * - par_ref: paragraph reference
+	 * - sorting: a value for sorting
+	 * - location: the sentence index in which insert the footnote. If 999
+	 * the footnote must be inserted at the end of the paragraph.
+	 * - html: HTML fragment to add in the References section of Urantia Book 
+	 * paper.
+	 * Returns an empty array if no paralell exists.
+	 */
+	getParalells = (paperIndex) => {
+		return this.paralells
+			.filter(p => p.ref.startsWith(`${paperIndex},`))
+			.map(p => {
+				const r = p.ref.split(',');
+				const ref = (r.length == 2 ? `${r[0]}:${r[1]}` :
+					`${r[0]}:${r[1]}.${r[2]}`);
+				const s = parseInt(r[1]) * 1000 + 
+					(r.length === 3 ? parseInt(r[2]) : 0);
+				const url = p.url + '#' + p.anchor;
+				const html = `<a href="${url}">${p.title}</a>` + 
+					(p.author != '' ? `, ${p.author}` : '') +
+					(p.publication != '' ? `, ${p.publication}` : '') +
+					(p.year != '' ? `, ${p.year}` : '');
+				return {
+					par_ref: ref,
+					sorting: s,
+					location: 999,
+					html: html
+				};
+			});
+	};
+
 	//***********************************************************************
-	// TXT
+	// TXT, TSV
 	//***********************************************************************
 
 	/**
@@ -276,6 +329,82 @@ class Articles {
 	};
 
 	/**
+	 * Reads cross refs (paralells) between articles and Urantia Book.
+	 * @param {string} filePath File with cross refs. (.tsv)
+	 * @return {Promise}
+	 */
+	readUBParalellsFromTSV = (filePath) => {
+		return new Promise((resolve, reject) => {
+			this.clearParalells();
+			fs.readFile(filePath, (errFile, buf) => {
+				const lan = this.language;
+				if (errFile) {
+					reject([errFile]);
+					return;
+				}
+				const lines = buf.toString().split('\n');
+				this.paralells = lines.map(line => {
+					const data = line.split('\t');
+					return {
+						anchor: data[0],
+						ref: data[1],
+						title: data[2],
+						url: data[3],
+						author: data[4],
+						publication: data[5],
+						year: data[6]
+					};
+				});
+				resolve(null);
+			});
+		});
+	};
+
+	/**
+	 * Writes cross refs (paralells) between articles and Urantia Book.
+	 * Requires a previous call to readArticlesFromWikijs.
+	 * @param {string} filePath Output file.
+	 * @return {Promise}
+	 */
+	writeUBParalellsToTSV = (filePath) => {
+		return new Promise((resolve, reject) => {
+			let lines = [];
+			if (this.articles.length == 0) {
+				return null;
+			}
+			this.articles.forEach(article => {
+				if (article.refs.length == 0) {
+					return;
+				}
+				article.refs.forEach(ref => {
+					const author = (article.author ? article.author : '');
+					const year = (article.year ? article.year : '');
+					const pub = (article.publication ? 
+						article.publication : '');
+					const content = `${ref.anchor}\t${ref.ref.join(',')}\t` +
+						`${article.title}\t${article.url}\t${author}\t` +
+						`${pub}\t${year}`;
+					lines.push(content);
+				});
+			});
+			const errors = this.articles
+				.filter(a => a.errors.length > 0)
+				.map(a => {
+					const errs = a.errors.join(';');
+					return new Error(`Error in ${a.url}: ${errs}`);
+				});
+			writeFile(filePath, lines.join('\n'))
+				.then(() => {
+					if (errors.length > 0) {
+						reject(errors);
+					} else {
+						resolve(null);
+					}
+				}, reject);
+		});
+	};
+
+	/**
 	 * Replace some common strings wrongly typed.
 	 * @param {string} content Text to change.
 	 * @returns {string}
@@ -451,12 +580,121 @@ class Articles {
 	//***********************************************************************
 
 	/**
+	 * Reads articles in Wiki.js format, collecting metadata of the articles,
+	 * anchor and link info, and cheking that links are ok.
+	 * @param {string} dirPath Output folder of articles.
+	 * @param {Book} ubook Urantia Book.
+	 * @return {Promise}
+	 */
+	readArticlesFromWikijs = (dirPath, ubook) => {
+		return getFiles(dirPath)
+			.then(files => {
+				const formats = ['.md'];
+				const ffiles = files.filter(file => {
+					return (formats.indexOf(path.extname(file)) != -1);
+				});
+				if (ffiles.length === 0) {
+					return Promise.reject([this.getError('files_not_with_format', formats.toString())]);
+				}
+				this.clearArticles();
+				const reLink = new RegExp('<a id="(a\\d+_\\d+)"><\\/a>' +
+					'\\[[^\\]]+\\]' + `\\(\/${this.language}\/` +
+					'The_Urantia_Book\/(\\d+)#p(\\d+)(?:_(\\d+))?\\)', 'g');
+				const reCopy = new RegExp('© (\\d+) ([^\\d<]+)', 'g');
+				const publications = ['Innerface International',
+					'Fellowship Herald', 'Mighty Messenger'];
+				const promises = ffiles.map(filePath => {
+					return readFile(filePath)
+						.then(lines => {
+							const url = `/${this.language}/article` +
+								filePath
+									.replace(dirPath, '')
+									.replace('.md', '')
+									.replace(/\\/g, '/');
+							const article = {
+								title: '',
+								author: '',
+								publication: '',
+								year: '',
+								path: filePath,
+								url: url,
+								refs: [],
+								errors: []
+							};
+							let isMetadata = false;
+							let ignore = false;
+							lines.forEach(line => {
+								if (ignore) {
+									return;
+								}
+								const matches = [...line.matchAll(reLink)];
+								const copys = [...line.matchAll(reCopy)];
+								if (!isMetadata && line.startsWith('---')) {
+									isMetadata = true;
+								}
+								if (isMetadata && line.startsWith('title:')) {
+									article.title = line.replace('title:', '')
+										.trim().replace(/"/g, '');
+								}
+								if (isMetadata && line.startsWith('tags:')) {
+									if (line.startsWith('tags: author')) {
+										ignore = true;
+									}
+									const pub = publications.find(p => {
+										return line.toLowerCase()
+											.indexOf(p.toLowerCase()) != -1;
+									});
+									if (pub) {
+										article.publication = pub;
+									}
+								}
+								if (line.startsWith('<p class="v-card')) {
+									if (copys.length > 1) {
+										article.author = copys[0][2];
+										article.year = copys[0][1];
+									}
+									if (copys.length === 1) {
+										article.year = copys[0][1];
+									}
+								}
+								if (matches.length == 0) {
+									return;
+								}
+								matches.forEach(m => {
+									const ref = [m[2], m[3]];
+									if (m[4]) {
+										ref[2] = m[4];
+									}
+									article.refs.push({ 
+										anchor: m[1], 
+										ref: ref 
+									});
+									const strRef = (ref.length === 2 ?
+										`${ref[0]}:${ref[1]}` :
+										`${ref[0]}:${ref[1]}.${ref[2]}`);
+									const ar = ubook.getArrayOfRefs([strRef]);
+									if (!ar[0]) {
+										article.errors.push(ref.join(','));
+									}
+								});
+							});
+							if (!ignore) {
+								this.articles.push(article);
+							}
+						});
+				});
+				return Promise.all(promises);
+			});
+	};
+
+	/**
 	 * Writes articles only with header, author and external link. Requires a
 	 * previous read of metadata of articles with `readCatalog` and 
 	 * `searchFiles`.
 	 * @param {string} dirPath Output folder.
 	 * @param {string} source Name of the source to process (for example 
 	 * `Innerface International`) or null to process all them.
+	 * @return {Promise}
 	 */
 	writeToWikijs = (dirPath, source) => {
 		return new Promise((resolve, reject) => {
@@ -743,7 +981,7 @@ class Articles {
 									newLine2 += s + `<a id="${id}"></a>`;
 								});
 								newLine2 += newLine.substring(
-									indexes[indexes.length-1])
+									indexes[indexes.length-1]);
 								return newLine2;
 							});
 						})
@@ -757,23 +995,6 @@ class Articles {
 				});
 				return Promise.all(promises);
 			});
-	};
-
-	//***********************************************************************
-	// TSV
-	//***********************************************************************
-
-	writeUBParalellsToTSV = (dirPath, ubook) => {
-		// if (matches.length > 0) {
-		// 	const refs = matches.map(m => {
-		// 		const ref = [m[1], m[2]];
-		// 		if (m[3]) {
-		// 			ref[2] = m[3];
-		// 		}
-		// 		return { ref: ref, index: m.index };
-		// 	});
-		// 	// links.push({line: i, refs: refs});
-		// }
 	};
 
 	//***********************************************************************
