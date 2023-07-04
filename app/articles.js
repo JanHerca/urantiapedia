@@ -8,7 +8,7 @@ const markdownIt = require('markdown-it')({
 });
 const {readFrom, readFile, reflectPromise, extendArray, getError, getAllIndexes,
 	writeFile, getWikijsHeader, sentenceSimilarity, strformat,
-	fixWikijsHeader, getWikijsArticleLinks} = require('./utils');
+	fixWikijsHeader, getWikijsArticleLinks, getFiles} = require('./utils');
 const fs = require('fs');
 const path = require('path');
 const Strings = require('./strings');
@@ -610,7 +610,7 @@ class Articles {
 	};
 
 	/**
-	 * Writes naviagation headers of articles in Wiki.js format. 
+	 * Writes navigation headers of articles in Wiki.js format. 
 	 * Articles must be in Markdown format, and if a header is already 
 	 * detected, it is not added.
 	 * @param {string} dirPath Output folder.
@@ -703,6 +703,77 @@ class Articles {
 					}
 				})
 		});
+	};
+
+	/**
+	 * Writes anchors for links in Wiki.js format. 
+	 * Articles must be in Markdown format, and creates links for Urantia Book.
+	 * @param {string} dirPath Output folder.
+	 * @return {Promise}
+	 */
+	writeAnchorsToWikijs = (dirPath) => {
+		return getFiles(dirPath)
+			.then(files => {
+				const formats = ['.md'];
+				const ffiles = files.filter(file => {
+					return (formats.indexOf(path.extname(file)) != -1);
+				});
+				if (ffiles.length === 0) {
+					return Promise.reject([this.getError('files_not_with_format', formats.toString())]);
+				}
+				const reLink = new RegExp('\\[[^\\]]+\\]' +
+					`\\(\/${this.language}\/` +
+					'The_Urantia_Book\/(\\d+)#p(\\d+)(?:_(\\d+))?\\)', 'g');
+				const reAnchor = new RegExp('<a id="a\\d+_\\d+"><\\/a>', 'g');
+				const promises = ffiles.map(filePath => {
+					return readFile(filePath)
+						.then(lines => {
+							return lines.map((line, i) => {
+								const newLine = line.replace(reAnchor, '');
+								let newLine2 = '';
+								const matches = [...newLine.matchAll(reLink)];
+								if (matches.length === 0) {
+									return newLine;
+								}
+								const indexes = matches.map(m => m.index);
+								indexes.forEach((index, n) => {
+									const prev = (n === 0 ? 0 : indexes[n-1]);
+									const s = newLine.substring(prev, index);
+									const id = `a${i}_${index}`;
+									newLine2 += s + `<a id="${id}"></a>`;
+								});
+								newLine2 += newLine.substring(
+									indexes[indexes.length-1])
+								return newLine2;
+							});
+						})
+						.then(lines => {
+							if (!lines) {
+								return null;
+							}
+							const content = lines.join('\n');
+							return writeFile(filePath, content);
+						});
+				});
+				return Promise.all(promises);
+			});
+	};
+
+	//***********************************************************************
+	// TSV
+	//***********************************************************************
+
+	writeUBParalellsToTSV = (dirPath, ubook) => {
+		// if (matches.length > 0) {
+		// 	const refs = matches.map(m => {
+		// 		const ref = [m[1], m[2]];
+		// 		if (m[3]) {
+		// 			ref[2] = m[3];
+		// 		}
+		// 		return { ref: ref, index: m.index };
+		// 	});
+		// 	// links.push({line: i, refs: refs});
+		// }
 	};
 
 	//***********************************************************************

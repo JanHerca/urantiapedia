@@ -404,6 +404,26 @@ const Processes = {
 		paths: [['input', 'txt', 'articles-{0}', 'articles_innerface.tsv'],
 			['output', 'wikijs', '{0}', 'article']]
 	},
+	"ARTICLE_ANCHORS_IN_WIKIJS": {
+		active: true,
+		desc: {
+			en: "ARTICLES: Add anchors to articles in Wiki.js",
+			es: "ARTICULOS: Añadir anclas (enlaces) a artículos en Wiki.js"
+		},
+		controls: ['dirHTextbox'],
+		paths: [['output', 'wikijs', '{0}', 'article']]
+	},
+	"ARTICLE_CREATE_PARALELLS_FROM_WIKIJS": {
+		active: true,
+		desc: {
+			en: "ARTICLES: Create UB paralells file from Wiki.js",
+			es: "ARTICULOS: Crear fichero de paralelos del LU a partir de Wiki.js"
+		},
+		controls: ['dirJTextbox', 'fnTTextbox', 'dirHTextbox'],
+		paths: [['input', 'json', 'book-{0}-footnotes'],
+			['input', 'txt', 'articles-{0}', 'ub_paralells.tsv'],
+			['output', 'wikijs', '{0}', 'article']]
+	},
 	"ALL_INDEXES": {
 		active: true,
 		desc: {

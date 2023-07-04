@@ -282,6 +282,40 @@ exports.readFile = (filePath) => {
 };
 
 /**
+ * Get files recursively in a folder and inmediate subfolders.
+ * @param {string} dirPath Folder.
+ * @return {Promise}
+ */
+exports.getFiles = (dirPath) => {
+	return new Promise((resolve, reject) => {
+		fs.readdir(dirPath, {withFileTypes: true}, (err, dirents) => {
+			if (err) {
+				reject(err);
+				return;
+			}
+			var promises = dirents.map(dirent => {
+				const res = path.resolve(dirPath, dirent.name);
+				if (!dirent.isDirectory()) {
+					return Promise.resolve(res);
+				}
+				return new Promise((resolve2, reject2) => {
+					fs.readdir(res, (err, files) => {
+						if (err) {
+							reject2(err);
+							return;
+						}
+						resolve2(files.map(file => path.join(res, file)));
+					});
+				});
+			});
+			Promise.all(promises).then(arr => {
+				resolve(Array.prototype.concat(...arr));
+			}, reject);
+		});
+	});
+};
+
+/**
  * Reads file pairs (in english and another language) and call the given
  * functions.
  * @param {string} filePathEN File path in English.

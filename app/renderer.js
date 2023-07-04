@@ -961,6 +961,13 @@ const handle_exeButtonClick = () => {
 				.then(() => onSuccess(okMsgs))
 				.catch(onFail);
 		}
+	} else if (process === 'ARTICLE_ANCHORS_IN_WIKIJS') {
+		// Writes anchors in articles (*.md)
+		articles.writeAnchorsToWikijs(htmlDir)
+			.then(() => onSuccess(okMsgs))
+			.catch(onFail);
+	} else if (process === 'ARTICLE_CREATE_PARALELLS_FROM_WIKIJS') {
+
 	} else if (process === 'ALL_INDEXES') {
 		// Creates a page of all indexes
 		getListOfAllIndexes(htmlDir)
