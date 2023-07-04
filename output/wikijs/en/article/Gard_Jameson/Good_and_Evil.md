@@ -36,9 +36,9 @@ dateCreated: 2023-6-21T8:13:38Z
 
 by _Gard Jameson_ 
 
-> **(TUB)** “Mardus was the acknowledged leader of the Cynics of Rome, and he became a great friend of the scribe of Damascus. Day after day he conversed with Jesus, and night upon night he listened to his supernal teaching. Among the more important discussions with Mardus was the one designed to answer this sincere Cynic’s questions about good and evil. In substance, and in twentieth-century phraseology, Jesus said:” [*The Urantia Book* [UB 132:2.1](/en/The_Urantia_Book/132#p2_1)]
+> **(TUB)** “Mardus was the acknowledged leader of the Cynics of Rome, and he became a great friend of the scribe of Damascus. Day after day he conversed with Jesus, and night upon night he listened to his supernal teaching. Among the more important discussions with Mardus was the one designed to answer this sincere Cynic’s questions about good and evil. In substance, and in twentieth-century phraseology, Jesus said:” <a id="a38_422"></a>[*The Urantia Book* [UB 132:2.1](/en/The_Urantia_Book/132#p2_1)]
 
-> “My brother, good and evil are merely words symbolizing **relative levels** of human comprehension of the observable universe. If you are **ethically lazy** and socially indifferent, you can take as your standard of good the **current** **social** usages. If you are spiritually indolent and morally unprogressive, you take as your standards of good the **religious** **practices and traditions** of your contemporaries. But the soul that survives time and emerges into eternity must make a living personal choice between good and evil as they are determined by the true values of the spiritual standards established by the divine spirit which the Father in heaven has sent to dwell within the heart of man. This indwelling spirit is the  standard of personality survival.” [[UB 132:2.2](/en/The_Urantia_Book/132#p2_2)]
+> “My brother, good and evil are merely words symbolizing **relative levels** of human comprehension of the observable universe. If you are **ethically lazy** and socially indifferent, you can take as your standard of good the **current** **social** usages. If you are spiritually indolent and morally unprogressive, you take as your standards of good the **religious** **practices and traditions** of your contemporaries. But the soul that survives time and emerges into eternity must make a living personal choice between good and evil as they are determined by the true values of the spiritual standards established by the divine spirit which the Father in heaven has sent to dwell within the heart of man. This indwelling spirit is the  standard of personality survival.” <a id="a40_776"></a>[[UB 132:2.2](/en/The_Urantia_Book/132#p2_2)]
 
 \*\*\*
 
@@ -48,9 +48,9 @@ by _Gard Jameson_
 
 \*\*\*
 
-**(C)** The problem of good and evil is one of the greatest issues in life. As Epicurus famously declared (e.g., regarding saving a child who has a brain tumor): “Is God willing to prevent evil, but not able? Then he is not omnipotent. Is he able, but not willing? Then he is malevolent.” How do we reconcile an all-powerful and good Deity with the fact of so much evil: genocide, racism, war-mongering, horrible diseases, great natural devastation? These are the questions that capture the imagination of thoughtful people. As Flewelling suggests, unthinking, lazy people fall back upon social norms and ideological tropes, like Job’s “friends,” that provide minimal understanding of evil. As *The**Urantia Book* states, values are known *only* in the context of lived personal experience. “Truth  cannot be defined with words, only by living.” [[UB 132:3.2](/en/The_Urantia_Book/132#p3_2)] Values exist in *real time*, and are expressed by the character of the person. It is through the sorrows and joys of life that we are given the capacity to discern the light of truth, beauty, and goodness, very much as a result of the contrast of untruth, ugliness, and evil. 
+**(C)** The problem of good and evil is one of the greatest issues in life. As Epicurus famously declared (e.g., regarding saving a child who has a brain tumor): “Is God willing to prevent evil, but not able? Then he is not omnipotent. Is he able, but not willing? Then he is malevolent.” How do we reconcile an all-powerful and good Deity with the fact of so much evil: genocide, racism, war-mongering, horrible diseases, great natural devastation? These are the questions that capture the imagination of thoughtful people. As Flewelling suggests, unthinking, lazy people fall back upon social norms and ideological tropes, like Job’s “friends,” that provide minimal understanding of evil. As *The**Urantia Book* states, values are known *only* in the context of lived personal experience. “Truth  cannot be defined with words, only by living.” <a id="a50_846"></a>[[UB 132:3.2](/en/The_Urantia_Book/132#p3_2)] Values exist in *real time*, and are expressed by the character of the person. It is through the sorrows and joys of life that we are given the capacity to discern the light of truth, beauty, and goodness, very much as a result of the contrast of untruth, ugliness, and evil. 
 
-*The Urantia Book* makes the startling claim that ethics are not a function of some external standard. “He taught religion [personal religious experience] as a cause and ethics as a result.” [[UB 170:3.8](/en/The_Urantia_Book/170#p3_8)] Ethics are a function of a “living and personal choice between good and evil as they are determined by the true values of the spiritual  standards established by the divine spirit which the Father in heaven has sent to dwell within the heart of man.” [[UB 132:2.2](/en/The_Urantia_Book/132#p2_2)]
+*The Urantia Book* makes the startling claim that ethics are not a function of some external standard. “He taught religion [personal religious experience] as a cause and ethics as a result.” <a id="a52_191"></a>[[UB 170:3.8](/en/The_Urantia_Book/170#p3_8)] Ethics are a function of a “living and personal choice between good and evil as they are determined by the true values of the spiritual  standards established by the divine spirit which the Father in heaven has sent to dwell within the heart of man.” <a id="a52_488"></a>[[UB 132:2.2](/en/The_Urantia_Book/132#p2_2)]
 
 This statement clearly establishes that: there are true and absolute values which govern the universe; values are not subjective (“Everybody’s doing it,” is the easy password of ethical laziness). Such an ethical claim runs counter to much of the ethical theory that is current in modern philosophy and within the halls of jurisprudence, which tend to gravitate toward a utilitarian calculus of value, without any reference to their real existence, discoverable within the subjectivity of the person who is attempting to live in accordance with the divine spirit indwelling them. 
 
@@ -67,7 +67,7 @@ Is it possible to see both sides of this coin? From the vantage point of God, tr
 
 \*\*\*\*\*\*\* 
 
-> **(TUB)** “**Goodness**, like truth, **is always relative** and unfailingly evil- contrasted. It is the perception of these qualities of goodness and truth that enables the evolving souls of men to make those personal decisions of choice which are essential to eternal survival.” [[UB 132:2.3](/en/The_Urantia_Book/132#p2_3)] 
+> **(TUB)** “**Goodness**, like truth, **is always relative** and unfailingly evil- contrasted. It is the perception of these qualities of goodness and truth that enables the evolving souls of men to make those personal decisions of choice which are essential to eternal survival.” <a id="a69_282"></a>[[UB 132:2.3](/en/The_Urantia_Book/132#p2_3)] 
 
 \*\*\* 
 
@@ -79,7 +79,7 @@ Is it possible to see both sides of this coin? From the vantage point of God, tr
 
 Goodness is known in its relation to both the possibility and actuality of evil. Profoundly we learn that evil is a transgression of divine law. We live in a lawful universe, with both physical and spiritual laws prevailing. Evil often stems from attitudes of pride, arrogance, impatience, meanness, and insincerity, and goodness arises from attitudes of humility, curiosity, patience, kindness, and sincerity. Evil moves the individual away from all things Divine; goodness draws us closer to the Divine. 
 
-In the spiritual realm, humanity has free will. We can actually “*make a gift to God— dedication of the free will to the doing of the will of God*.” [[UB 112:0.10](/en/The_Urantia_Book/112#p0_10)] Life has many choices. We each choose the values by which we live. Those choices are predicated upon our basic assumptions about existence, as well as upon our basic attitudes toward life. 
+In the spiritual realm, humanity has free will. We can actually “*make a gift to God— dedication of the free will to the doing of the will of God*.” <a id="a81_149"></a>[[UB 112:0.10](/en/The_Urantia_Book/112#p0_10)] Life has many choices. We each choose the values by which we live. Those choices are predicated upon our basic assumptions about existence, as well as upon our basic attitudes toward life. 
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/024.jpg">
@@ -88,9 +88,9 @@ In the spiritual realm, humanity has free will. We can actually “*make a gift 
 
 \*\*\*\*\*\*\*
 
-> **(TUB)** “The spiritually blind individual who logically follows scientific dictation, social usage, and religious dogma stands in grave danger of **sacrificing his moral freedom** and losing his spiritual liberty. Such a soul is destined to become an intellectual parrot, a social automaton, and a **slave to religious authority**.” [[UB 132:2.4](/en/The_Urantia_Book/132#p2_4)] 
+> **(TUB)** “The spiritually blind individual who logically follows scientific dictation, social usage, and religious dogma stands in grave danger of **sacrificing his moral freedom** and losing his spiritual liberty. Such a soul is destined to become an intellectual parrot, a social automaton, and a **slave to religious authority**.” <a id="a90_337"></a>[[UB 132:2.4](/en/The_Urantia_Book/132#p2_4)] 
 
-> “**Goodness is always growing** toward new levels of the increasing liberty of moral self-realization and spiritual personality attainment—the discovery of, and identification with, the indwelling Adjuster. **An experience is good when** it heightens the appreciation of beauty, augments the moral will, enhances the discernment of truth, enlarges the capacity to love and serve one’s fellows, exalts the spiritual ideals, and unifies the supreme human motives of time with the eternal plans of the indwelling Adjuster, all of which lead directly to an increased desire to do the Father’s will, thereby fostering the divine passion to find God and to be more like him.” [[UB 132:2.5](/en/The_Urantia_Book/132#p2_5)] 
+> “**Goodness is always growing** toward new levels of the increasing liberty of moral self-realization and spiritual personality attainment—the discovery of, and identification with, the indwelling Adjuster. **An experience is good when** it heightens the appreciation of beauty, augments the moral will, enhances the discernment of truth, enlarges the capacity to love and serve one’s fellows, exalts the spiritual ideals, and unifies the supreme human motives of time with the eternal plans of the indwelling Adjuster, all of which lead directly to an increased desire to do the Father’s will, thereby fostering the divine passion to find God and to be more like him.” <a id="a92_672"></a>[[UB 132:2.5](/en/The_Urantia_Book/132#p2_5)] 
 
 \*\*\* 
 
@@ -106,14 +106,14 @@ In these passages we discover the evolutionary nature of the experience of value
 
 \*\*\*\*\*\*\* 
 
-> **(TUB)** “As you ascend the universe scale of creature development, you will find **increasing goodness** and diminishing evil in perfect accordance with your capacity for goodness- experience and truth-discernment. The ability to entertain error or experience evil will not be fully lost until the ascending human soul achieves final spirit levels.” [[UB 132:2.6](/en/The_Urantia_Book/132#p2_6)] 
+> **(TUB)** “As you ascend the universe scale of creature development, you will find **increasing goodness** and diminishing evil in perfect accordance with your capacity for goodness- experience and truth-discernment. The ability to entertain error or experience evil will not be fully lost until the ascending human soul achieves final spirit levels.” <a id="a108_354"></a>[[UB 132:2.6](/en/The_Urantia_Book/132#p2_6)] 
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/025.jpg">
 <figcaption><em>Shutterstock 240616</em> </figcaption>
 </figure>
 
-> “**Goodness is living, relative**, always progressing, invariably a personal experience, and everlastingly correlated with the discernment of truth and beauty. Goodness is found in the recognition of the positive truth-values of the spiritual level, which must, in human experience, be contrasted with the negative counterpart—the **shadows of potential evil**.” [[UB 132:2.7](/en/The_Urantia_Book/132#p2_7)] 
+> “**Goodness is living, relative**, always progressing, invariably a personal experience, and everlastingly correlated with the discernment of truth and beauty. Goodness is found in the recognition of the positive truth-values of the spiritual level, which must, in human experience, be contrasted with the negative counterpart—the **shadows of potential evil**.” <a id="a115_365"></a>[[UB 132:2.7](/en/The_Urantia_Book/132#p2_7)] 
 
 \*\*\* 
 
@@ -127,7 +127,7 @@ This was the position of [Socrates ](https://en.wikipedia.org/wiki/Socrates)as h
 
 Is the love of truth and the willingness to go wherever it leads desirable? 
 
-Then must humanity grow up in a world where error is present and falsehood possible. [Cf. [UB 3:5.10](/en/The_Urantia_Book/3#p5_10) ] 
+Then must humanity grow up in a world where error is present and falsehood possible. <a id="a129_85"></a>[Cf. [UB 3:5.10](/en/The_Urantia_Book/3#p5_10) ] 
 
 Is the joy of beauty desirable? 
 
@@ -139,7 +139,7 @@ Then must we be ever present to the possibility of evil.
 
 \*\*\*\*\*\*\* 
 
-> **(TUB)** “Until you attain Paradise levels, **goodness will always be more of a quest than a possession**, more of a goal than an experience of attainment. But even as you hunger and thirst for righteousness, you experience increasing satisfaction in the partial attainment of goodness. The presence of goodness and evil in the world is in itself positive proof of the existence and reality of man’s **moral will**, the personality, which thus identifies these values and is also able to choose between them.” [[UB 132:2.8](/en/The_Urantia_Book/132#p2_8)] 
+> **(TUB)** “Until you attain Paradise levels, **goodness will always be more of a quest than a possession**, more of a goal than an experience of attainment. But even as you hunger and thirst for righteousness, you experience increasing satisfaction in the partial attainment of goodness. The presence of goodness and evil in the world is in itself positive proof of the existence and reality of man’s **moral will**, the personality, which thus identifies these values and is also able to choose between them.” <a id="a141_513"></a>[[UB 132:2.8](/en/The_Urantia_Book/132#p2_8)] 
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/026.jpg">
@@ -160,7 +160,7 @@ Our moral will is indissolubly linked to the idea of being *a person*; it provid
 
 \*\*\*\*\*\*\* 
 
-> **(TUB)** “By the time of the attainment of Paradise the ascending mortal’s capacity for identifying the self with true spirit values has become so enlarged as to result in the attainment of the perfection of the possession of **the light of life**. Such a perfected spirit personality becomes so wholly, divinely, and spiritually unified with the positive and supreme qualities of goodness, beauty, and truth that there remains no possibility that such a righteous spirit would cast any negative shadow of potential evil when exposed to the searching luminosity of the divine light of the infinite Rulers of Paradise. In all such spirit personalities, goodness is no longer partial, contrastive, and comparative; it has become divinely complete and spiritually replete; it approaches the purity and perfection of the Supreme.” [[UB 132:2.9](/en/The_Urantia_Book/132#p2_9) ] 
+> **(TUB)** “By the time of the attainment of Paradise the ascending mortal’s capacity for identifying the self with true spirit values has become so enlarged as to result in the attainment of the perfection of the possession of **the light of life**. Such a perfected spirit personality becomes so wholly, divinely, and spiritually unified with the positive and supreme qualities of goodness, beauty, and truth that there remains no possibility that such a righteous spirit would cast any negative shadow of potential evil when exposed to the searching luminosity of the divine light of the infinite Rulers of Paradise. In all such spirit personalities, goodness is no longer partial, contrastive, and comparative; it has become divinely complete and spiritually replete; it approaches the purity and perfection of the Supreme.” <a id="a162_830"></a>[[UB 132:2.9](/en/The_Urantia_Book/132#p2_9) ] 
 
 \*\*\* 
 
@@ -177,7 +177,7 @@ Our moral will is indissolubly linked to the idea of being *a person*; it provid
 
 \*\*\*\*\*\*\* 
 
-> **(TUB)** “The ***possibility* of evil** is necessary to moral choosing, but not the actuality thereof. A shadow is only relatively real. Actual evil is not **necessary** as a personal experience. Potential evil acts equally well as a decision stimulus in the realms of moral progress on the lower levels of spiritual development. Evil becomes a reality of personal experience only when a moral mind makes evil its **choice**.” [[UB 132:2.10](/en/The_Urantia_Book/132#p2_10)] 
+> **(TUB)** “The ***possibility* of evil** is necessary to moral choosing, but not the actuality thereof. A shadow is only relatively real. Actual evil is not **necessary** as a personal experience. Potential evil acts equally well as a decision stimulus in the realms of moral progress on the lower levels of spiritual development. Evil becomes a reality of personal experience only when a moral mind makes evil its **choice**.” <a id="a179_430"></a>[[UB 132:2.10](/en/The_Urantia_Book/132#p2_10)] 
 
 \*\*\* 
 

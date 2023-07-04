@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:38Z
 </figure>
 
 
-Jesus’ listeners were repeatedly “_astonished at his word for he taught as one having authority and not as the scribes._” ([Mark 1:22](en/Bible/Mark/1#v22); [UB 145:2.11](/en/The_Urantia_Book/145#p2_11))
+Jesus’ listeners were repeatedly “_astonished at his word for he taught as one having authority and not as the scribes._” ([Mark 1:22](en/Bible/Mark/1#v22); <a id="a36_157"></a>[UB 145:2.11](/en/The_Urantia_Book/145#p2_11))
 
 Well may we ponder in astonishment upon the words we can discover in _The Urantia Book_ for surely “no man ever wrote thus.” The Section from the book that follows is only one of a multitude that must force us to ask, “Could any man ever write thus.”
 
@@ -52,7 +52,7 @@ Cosmic force responds to mind even as cosmic mind responds to spirit. Spirit is 
 
 Mind transmutes the values of spirit into the meanings of intellect; volition has power to bring the meanings of mind to fruit in both the material and spiritual domains. The Paradise ascent involves a relative and differential growth in spirit, mind, and energy. The personality is the unifier of these components of experiential individuality.
 
-> He (Jesus) talked quite freely with them, expressing his ideas and ideals about politics, sociology, science, and philosophy, but never presumed to speak with authoritative finality except when discussing religion—the relation of man to God. ([UB 129:1.10](/en/The_Urantia_Book/129#p1_10))
+> He (Jesus) talked quite freely with them, expressing his ideas and ideals about politics, sociology, science, and philosophy, but never presumed to speak with authoritative finality except when discussing religion—the relation of man to God. (<a id="a54_245"></a>[UB 129:1.10](/en/The_Urantia_Book/129#p1_10))
 
 ## External links
 

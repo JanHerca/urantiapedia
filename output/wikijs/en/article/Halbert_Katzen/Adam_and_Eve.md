@@ -594,43 +594,43 @@ Naturally, based on the overall trend toward corroborations of historical and sc
 
 [^2]: Tonal languages, as opposed to non-tonal languages, are those that use different tones or turning points to distinguish meanings in words that would otherwise sound identical. The clearest example is China. https://en.wikipedia.org/wiki/Tone_(linguistics)
 
-[^3]: [UB 62:5.1](/en/The_Urantia_Book/62#p5_1) Year 991,485 B.C. *The Urantia Book* gives many dates relative to the year 1934 because although it was first published in 1955, it was finished much earlier, in 1934.
+[^3]: <a id="a596_6"></a>[UB 62:5.1](/en/The_Urantia_Book/62#p5_1) Year 991,485 B.C. *The Urantia Book* gives many dates relative to the year 1934 because although it was first published in 1955, it was finished much earlier, in 1934.
 
-[^4]: [UB 74:0.1](/en/The_Urantia_Book/74#p0_1) Year 35,914 B.C.
+[^4]: <a id="a598_6"></a>[UB 74:0.1](/en/The_Urantia_Book/74#p0_1) Year 35,914 B.C.
 
-[^5]: [UB 76:1.3](/en/The_Urantia_Book/76#p1_3)
+[^5]: <a id="a600_6"></a>[UB 76:1.3](/en/The_Urantia_Book/76#p1_3)
 
-[^6]: [UB 81:5.1](/en/The_Urantia_Book/81#p5_1)
+[^6]: <a id="a602_6"></a>[UB 81:5.1](/en/The_Urantia_Book/81#p5_1)
 
-[^7]: [UB 52:3.6](/en/The_Urantia_Book/52#p3_6)
+[^7]: <a id="a604_6"></a>[UB 52:3.6](/en/The_Urantia_Book/52#p3_6)
 
-[^8]: [UB 76:4.7](/en/The_Urantia_Book/76#p4_7)
+[^8]: <a id="a606_6"></a>[UB 76:4.7](/en/The_Urantia_Book/76#p4_7)
 
-[^9]: [UB 78:5.7](/en/The_Urantia_Book/78#p5_7)
+[^9]: <a id="a608_6"></a>[UB 78:5.7](/en/The_Urantia_Book/78#p5_7)
 
-[^10]: [UB 78:5.5](/en/The_Urantia_Book/78#p5_5)
+[^10]: <a id="a610_7"></a>[UB 78:5.5](/en/The_Urantia_Book/78#p5_5)
 
-[^11]: [UB 78:5.3](/en/The_Urantia_Book/78#p5_3)
+[^11]: <a id="a612_7"></a>[UB 78:5.3](/en/The_Urantia_Book/78#p5_3)
 
 [^12]: A haplogroup, or set of haplotypes, is in genetics a large group of gene combinations that are passed on to offspring together. https://en.wikipedia.org/wiki/Haplogroup
 
 [^13]: A clade is what is called in biology each of the branches that are obtained after making a single cut in the phylogenetic tree. It begins with a common ancestor and consists of all its descendants, which form a single branch on the tree of life. https://en.wikipedia.org/wiki/Clade
 
-[^14]: [UB 81:5.1](/en/The_Urantia_Book/81#p5_1)
+[^14]: <a id="a618_7"></a>[UB 81:5.1](/en/The_Urantia_Book/81#p5_1)
 
-[^15]: [UB 78:4.5](/en/The_Urantia_Book/78#p4_5)
+[^15]: <a id="a620_7"></a>[UB 78:4.5](/en/The_Urantia_Book/78#p4_5)
 
-[^16]: [UB 78:4.6](/en/The_Urantia_Book/78#p4_6)
+[^16]: <a id="a622_7"></a>[UB 78:4.6](/en/The_Urantia_Book/78#p4_6)
 
-[^17]: [UB 65:5.2](/en/The_Urantia_Book/65#p5_2)
+[^17]: <a id="a624_7"></a>[UB 65:5.2](/en/The_Urantia_Book/65#p5_2)
 
-[^18]: [UB 65:5.2](/en/The_Urantia_Book/65#p5_2)
+[^18]: <a id="a626_7"></a>[UB 65:5.2](/en/The_Urantia_Book/65#p5_2)
 
-[^19]: [UB 65:5.2](/en/The_Urantia_Book/65#p5_2)
+[^19]: <a id="a628_7"></a>[UB 65:5.2](/en/The_Urantia_Book/65#p5_2)
 
-[^20]: [UB 76:4.7](/en/The_Urantia_Book/76#p4_7)
+[^20]: <a id="a630_7"></a>[UB 76:4.7](/en/The_Urantia_Book/76#p4_7)
 
-[^21]: [UB 51:1.3](/en/The_Urantia_Book/51#p1_3)
+[^21]: <a id="a632_7"></a>[UB 51:1.3](/en/The_Urantia_Book/51#p1_3)
 
 [^22]: *Human Brain Is Still Evolving*, *Howard Hugues Medical Institute*, sept. 2005, http://www.hhmi.org/news/lahn4.html [LAHN article]
 
@@ -646,55 +646,55 @@ Naturally, based on the overall trend toward corroborations of historical and sc
 
 [^28]: Patrick D. Evans, Nitzan Mekel-Bobrov, Eric J. Vallender, Richard R. Hudson, y Bruce T. Lahn; *Evidence that the adaptive allele of the brain size gene microcephalin introgressed into Homo sapiens from an archaic Homo lineage*, *Proceedings of the National Academy of Sciences* (PNAS); http://www.pnas.org/content/103/48/18178.full, [PNAS article]
 
-[^29]: [UB 74:0.1](/en/The_Urantia_Book/74#p0_1)
+[^29]: <a id="a648_7"></a>[UB 74:0.1](/en/The_Urantia_Book/74#p0_1)
 
-[^30]: [UB 62:5.1](/en/The_Urantia_Book/62#p5_1)
+[^30]: <a id="a650_7"></a>[UB 62:5.1](/en/The_Urantia_Book/62#p5_1)
 
-[^31]: [UB 63:1.1](/en/The_Urantia_Book/63#p1_1)
+[^31]: <a id="a652_7"></a>[UB 63:1.1](/en/The_Urantia_Book/63#p1_1)
 
-[^32]: [UB 51:1.3](/en/The_Urantia_Book/51#p1_3)
+[^32]: <a id="a654_7"></a>[UB 51:1.3](/en/The_Urantia_Book/51#p1_3)
 
 [^33]: Bruce T. Lahn; *Could Interbreeding Between Humans and Neanderthals Have Led to an Enhanced Human Brain?*; Howard Hughes Medical Institute, 6/11/2006, http://www.hhmi.org/news/lahn20061006.html [LAHN2 article]
 
-[^34]: [UB 78:3.2](/en/The_Urantia_Book/78#p3_2)
+[^34]: <a id="a658_7"></a>[UB 78:3.2](/en/The_Urantia_Book/78#p3_2)
 
-[^35]: [UB 78:3.3](/en/The_Urantia_Book/78#p3_3)
+[^35]: <a id="a660_7"></a>[UB 78:3.3](/en/The_Urantia_Book/78#p3_3)
 
-[^36]: [UB 78:3.5](/en/The_Urantia_Book/78#p3_5)
+[^36]: <a id="a662_7"></a>[UB 78:3.5](/en/The_Urantia_Book/78#p3_5)
 
-[^37]: [UB 78:2.5](/en/The_Urantia_Book/78#p2_5)
+[^37]: <a id="a664_7"></a>[UB 78:2.5](/en/The_Urantia_Book/78#p2_5)
 
-[^38]: [UB 78:5.7](/en/The_Urantia_Book/78#p5_7)
+[^38]: <a id="a666_7"></a>[UB 78:5.7](/en/The_Urantia_Book/78#p5_7)
 
-[^39]: [UB 64:6.26](/en/The_Urantia_Book/64#p6_26)
+[^39]: <a id="a668_7"></a>[UB 64:6.26](/en/The_Urantia_Book/64#p6_26)
 
-[^40]: [UB 78:5.5](/en/The_Urantia_Book/78#p5_5)
+[^40]: <a id="a670_7"></a>[UB 78:5.5](/en/The_Urantia_Book/78#p5_5)
 
-[^41]: [UB 78:5.8](/en/The_Urantia_Book/78#p5_8)
+[^41]: <a id="a672_7"></a>[UB 78:5.8](/en/The_Urantia_Book/78#p5_8)
 
-[^42]: [UB 76:1.1](/en/The_Urantia_Book/76#p1_1)
+[^42]: <a id="a674_7"></a>[UB 76:1.1](/en/The_Urantia_Book/76#p1_1)
 
-[^43]: [UB 76:1.3](/en/The_Urantia_Book/76#p1_3)
+[^43]: <a id="a676_7"></a>[UB 76:1.3](/en/The_Urantia_Book/76#p1_3)
 
-[^44]: [UB 78:0.1](/en/The_Urantia_Book/78#p0_1)
+[^44]: <a id="a678_7"></a>[UB 78:0.1](/en/The_Urantia_Book/78#p0_1)
 
-[^45]: [UB 78:1.3](/en/The_Urantia_Book/78#p1_3)
+[^45]: <a id="a680_7"></a>[UB 78:1.3](/en/The_Urantia_Book/78#p1_3)
 
-[^46]: [UB 62:4.3](/en/The_Urantia_Book/62#p4_3)
+[^46]: <a id="a682_7"></a>[UB 62:4.3](/en/The_Urantia_Book/62#p4_3)
 
-[^47]: [UB 81:5.1](/en/The_Urantia_Book/81#p5_1)
+[^47]: <a id="a684_7"></a>[UB 81:5.1](/en/The_Urantia_Book/81#p5_1)
 
-[^48]: [UB 76:6.4](/en/The_Urantia_Book/76#p6_4)
+[^48]: <a id="a686_7"></a>[UB 76:6.4](/en/The_Urantia_Book/76#p6_4)
 
-[^49]: [UB 73:7.3](/en/The_Urantia_Book/73#p7_3)
+[^49]: <a id="a688_7"></a>[UB 73:7.3](/en/The_Urantia_Book/73#p7_3)
 
-[^50]: [UB 73:7.4](/en/The_Urantia_Book/73#p7_4)
+[^50]: <a id="a690_7"></a>[UB 73:7.4](/en/The_Urantia_Book/73#p7_4)
 
-[^51]: [UB 76:4.8](/en/The_Urantia_Book/76#p4_8)
+[^51]: <a id="a692_7"></a>[UB 76:4.8](/en/The_Urantia_Book/76#p4_8)
 
-[^52]: [UB 78:1.3](/en/The_Urantia_Book/78#p1_3)
+[^52]: <a id="a694_7"></a>[UB 78:1.3](/en/The_Urantia_Book/78#p1_3)
 
-[^53]: [UB 78:5.1-3](/en/The_Urantia_Book/78#p5_1)
+[^53]: <a id="a696_7"></a>[UB 78:5.1-3](/en/The_Urantia_Book/78#p5_1)
 
 [^54]: A panmictic population is one where all individuals are potential partners. This assumes that there are no mating restrictions, neither genetic or behavioural, upon the population, and that therefore all recombination is possible. http://en.wikipedia.org/wiki/Panmictic
 
@@ -704,14 +704,14 @@ Naturally, based on the overall trend toward corroborations of historical and sc
 
 [^57]: Dan Dediu y D. Robert Ladd, *Linguistic tone is related to the population frequency of the adaptive haplogroups of two brain size genes, ASPM and Microcephalin*, *PNAS*, june 2007, http://www.pnas.org/content/104/26/10944.full.pdf, [PNAS2 article]
 
-[^58]: [UB 78:5.3](/en/The_Urantia_Book/78#p5_3)
+[^58]: <a id="a706_7"></a>[UB 78:5.3](/en/The_Urantia_Book/78#p5_3)
 
-[^59]: [UB 52:3.6](/en/The_Urantia_Book/52#p3_6)
+[^59]: <a id="a708_7"></a>[UB 52:3.6](/en/The_Urantia_Book/52#p3_6)
 
-[^60]: [UB 81:5.1](/en/The_Urantia_Book/81#p5_1)
+[^60]: <a id="a710_7"></a>[UB 81:5.1](/en/The_Urantia_Book/81#p5_1)
 
 [^61]: Antonio Regalado, *Scientist's Study Of Brain Genes Sparks a Backlash*, *Wall Street Journal*, 6/6/2006, https://www.wsj.com/articles/SB115040765329081636
 
-[^62]: [UB 85:5.1](/en/The_Urantia_Book/85#p5_1)
+[^62]: <a id="a714_7"></a>[UB 85:5.1](/en/The_Urantia_Book/85#p5_1)
 
-[^63]: [UB 101:4.2](/en/The_Urantia_Book/101#p4_2)
+[^63]: <a id="a716_7"></a>[UB 101:4.2](/en/The_Urantia_Book/101#p4_2)

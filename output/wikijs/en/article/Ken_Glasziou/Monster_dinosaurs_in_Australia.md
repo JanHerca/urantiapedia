@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-The Papers state that monstrous dinosaur remains lie buried in America, western Europe, South Africa, India, but not in Australia. ([UB 60:2.2](/en/The_Urantia_Book/60#p2_2)) Dinosaur fossils occur in Australia but to the present (1998), none are of the monster class. When the Papers were written, there was almost no knowledge available in Australia about its dinosaurs. So on what evidence did the experts hazard their guess? To be wrong would make the book look ridiculous. But it does little to impress readers, even if correct.
+The Papers state that monstrous dinosaur remains lie buried in America, western Europe, South Africa, India, but not in Australia. (<a id="a36_132"></a>[UB 60:2.2](/en/The_Urantia_Book/60#p2_2)) Dinosaur fossils occur in Australia but to the present (1998), none are of the monster class. When the Papers were written, there was almost no knowledge available in Australia about its dinosaurs. So on what evidence did the experts hazard their guess? To be wrong would make the book look ridiculous. But it does little to impress readers, even if correct.
 
 ## External links
 

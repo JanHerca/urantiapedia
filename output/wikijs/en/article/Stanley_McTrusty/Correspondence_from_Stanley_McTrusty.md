@@ -98,7 +98,7 @@ To sum up: I need to do the right thing, in the right way, at the right time.
 
 I have great confidence in what I have done and explained because it will help me to drastically reduce my transgressions of the Divine Law.
 
-_The Urantia Book_ states ([UB 2:5.3](/en/The_Urantia_Book/2#p5_3)) “_The Creators are the very first to attempt to save man from the disastrous results of his foolish transgression of the divine laws._”
+_The Urantia Book_ states (<a id="a100_27"></a>[UB 2:5.3](/en/The_Urantia_Book/2#p5_3)) “_The Creators are the very first to attempt to save man from the disastrous results of his foolish transgression of the divine laws._”
 
 If just one person really understands what I have deduced in this summary, and if it helps them as much as it has me, I will have my reward.
 

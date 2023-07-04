@@ -36,7 +36,7 @@ dateCreated: 2022-09-27T00:55:39.184Z
 
 It is not possible that the Spirit could have more of goodness than the Father since all goodness takes origin in the Father, but in the acts of the Spirit we can the better comprehend such goodness.
 
-> “Why do you call me good? None is good but God.” ([UB 196:2.2](/en/The_Urantia_Book/196#p2_2) )
+> “Why do you call me good? None is good but God.” (<a id="a38_52"></a>[UB 196:2.2](/en/The_Urantia_Book/196#p2_2) )
 
 The human Jesus saw God as being holy, just, and great, as well as being true, beautiful, and good. All these attributes of divinity he focused in his mind as the “will of the Father in heaven.” Jesus’ God was at one and the same time “The Holy One of Israel” and “The living and loving Father in heaven.”
 

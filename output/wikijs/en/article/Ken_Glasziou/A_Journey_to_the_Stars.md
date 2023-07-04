@@ -46,7 +46,7 @@ The first part of the journey is crucial in that we are expected to make a free 
 
 The book tells us that the faintest flicker of faith assures us of a second chance to make that requisite free will choice when we arrive at the next stage of our journey, the location we know as the Mansion Worlds. The book states:
 
-> “_Now, mistake not, my Father will ever respond to the faintest flicker of faith. He takes note of the physical and superstitious emotions of the primitive man. And with those honest but fearful souls whose faith is so weak that it amounts to little more than an intellectual conformity to a passive attitude of assent to religions of authority, the Father is ever alert to honor and foster even all such feeble attempts to reach out for him. ***But you who have been called out of darkness into the light are expected to believe with a whole heart; your faith shall dominate the combined attitudes of body, mind, and spirit***._” ([UB 155:6.17](/en/The_Urantia_Book/155#p6_17))
+> “_Now, mistake not, my Father will ever respond to the faintest flicker of faith. He takes note of the physical and superstitious emotions of the primitive man. And with those honest but fearful souls whose faith is so weak that it amounts to little more than an intellectual conformity to a passive attitude of assent to religions of authority, the Father is ever alert to honor and foster even all such feeble attempts to reach out for him. ***But you who have been called out of darkness into the light are expected to believe with a whole heart; your faith shall dominate the combined attitudes of body, mind, and spirit***._” (<a id="a48_634"></a>[UB 155:6.17](/en/The_Urantia_Book/155#p6_17))
 
 For those _Urantia Book_ readers who have taken this faintest flicker of faith phrase as a guarantee of survival, it may be advisable to take a close look at the last sentence of the above quote.
 
@@ -140,7 +140,7 @@ As Finaliters, we are assigned on observational and co-operative service to the 
 
 The ultimate destiny of the Corps of Finality is unknown. Speculation has it that we will attempt to know God as Ultimate, and having attained that goal, we will begin the quest for the Absolute.
 
-It might be a good idea to now read the Section entitled “Conductors of Worship” on [UB 27:0.4](/en/The_Urantia_Book/27#p0_4) of the book in order to get a feel for what this journey is really about. Bon Voyage.
+It might be a good idea to now read the Section entitled “Conductors of Worship” on <a id="a142_84"></a>[UB 27:0.4](/en/The_Urantia_Book/27#p0_4) of the book in order to get a feel for what this journey is really about. Bon Voyage.
 
 > Heaven is not reached by a single bound. But we build the ladder by which we rise. 
 > G. J. Holland

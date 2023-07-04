@@ -38,7 +38,7 @@ dateCreated: 2023-02-08T14:02:03.086Z
 
 ## The Pattern
 
-The Creator Son and Universe Mother Spirit of Nebadon issued their “Proclamation of Equality” [[UB 33:3.5,6](/en/The_Urantia_Book/33#p3_5)] after She acknowledged subordination to Him, and He acknowledged eternal dependence on Her. They have equality in all endowments of personality, attributes of divine character, and authority, and are co-creators, co-rulers, co-operative, co-ordinate, and co-directors. This is the universe pattern for marriage—in order to have equality, each must “give” something to achieve it. Otherwise, some form of dominant/submissive relationship exists.
+The Creator Son and Universe Mother Spirit of Nebadon issued their “Proclamation of Equality” <a id="a40_94"></a>[[UB 33:3.5,6](/en/The_Urantia_Book/33#p3_5)] after She acknowledged subordination to Him, and He acknowledged eternal dependence on Her. They have equality in all endowments of personality, attributes of divine character, and authority, and are co-creators, co-rulers, co-operative, co-ordinate, and co-directors. This is the universe pattern for marriage—in order to have equality, each must “give” something to achieve it. Otherwise, some form of dominant/submissive relationship exists.
 
 ## Male/Femaleness
 
@@ -64,11 +64,11 @@ Integrating the personal skill of assertiveness into our character growth is nec
 
 An important couple skill is having the rules for fair fighting. The goal is to negotiate an “our way” solution based on the “highest good” for both. First, separate if angry and calm down before returning at an agreed upon time to clarify feelings and thoughts. Focus on one conflict at a time. Listening skills are critical. Each person needs to quiet his or her own mind while making a sincere effort to understand the other person’s position with compassion. It is helpful if each partner repeats their partner’s position to ensure understanding, which leads to tolerance, friendship, love, and forgiveness. Using “I,” rather than “you” language is helpful in this effort. Seek resolution through brainstorming possible solutions, then negotiate, negotiate, negotiate until an agreed-upon decision is achieved for a win-win conclusion that is acceptable to both partners. Failure to achieve resolution is often the downfall of a relationship. This usually means one or both spouses have a “hidden agenda” or something or someone is more important than their relationship and their love.
 
-The Art of Marriage can be best concluded with this quote: “_Marriage, with children and consequent family life, is stimulative of the highest potentials in human nature . . . patience, altruism, tolerance, and forbearance_ . . . _brotherhood among all men_.” [[UB 84:7.28](/en/The_Urantia_Book/84#p7_28)]
+The Art of Marriage can be best concluded with this quote: “_Marriage, with children and consequent family life, is stimulative of the highest potentials in human nature . . . patience, altruism, tolerance, and forbearance_ . . . _brotherhood among all men_.” <a id="a66_260"></a>[[UB 84:7.28](/en/The_Urantia_Book/84#p7_28)]
 
 ## The All-Important Family Meetings
 
-As decision-making is important for each individual in doing the Father’s will and for determining the course of a relationship, so is decision-making equally important for the overall well-being of a family. “_Human society would be greatly improved if the civilized races would more generally return to the family-council practices of the Andites._” [[UB 84:7.29](/en/The_Urantia_Book/84#p7_29)]
+As decision-making is important for each individual in doing the Father’s will and for determining the course of a relationship, so is decision-making equally important for the overall well-being of a family. “_Human society would be greatly improved if the civilized races would more generally return to the family-council practices of the Andites._” <a id="a70_352"></a>[[UB 84:7.29](/en/The_Urantia_Book/84#p7_29)]
 
 Establishing family meetings represents a paradigm shift in parenting, on many levels; i.e., weekly physical gatherings, intellectual sharing of ideas, spiritual equality, and social democracy. It teaches the balance between the self and the selfless while giving children the experience of adjusting their emerging egos for the welfare of the family. Life-long attitudes are adopted when children learn to negotiate for what they want, rather than scream and yell or be quietly submissive. Family meetings foster teamwork and solidify family identity. It is a time to agree upon family rules and the consequences when the rules are broken or exceeded.
 
@@ -106,7 +106,7 @@ Family meetings evolve over time. Follow the “book” rules at first, but as y
 
 Discipline is one of the “hot” buttons in parenting, so again it is crucial for both parents to be unified and on the same page. One of the primary purposes of discipline is to teach self-mastery. Christ Michael, when teaching on Urantia, used the authoritative method, and always taught in the positive. Authoritative teaching is somewhere in the middle between authoritarian or laissez-faire. Authoritative means to show, authoritarian means to tell, and laissez-faire means noninterference. What is your choice?
 
-A parent doesn’t have to agree with or like the decisions made by a child, but it is important to respect and foster the free will of a child—after the arrival of the Thought Adjuster. Differentiate between the child as a person, and the child’s behavior, and communicate that it is the behavior that is not acceptable. Important to good disciplining is for parents to have a well-developed self-discipline “..._wise fathers do not punish in anger._” [[UB 188:4.10](/en/The_Urantia_Book/188#p4_10)]
+A parent doesn’t have to agree with or like the decisions made by a child, but it is important to respect and foster the free will of a child—after the arrival of the Thought Adjuster. Differentiate between the child as a person, and the child’s behavior, and communicate that it is the behavior that is not acceptable. Important to good disciplining is for parents to have a well-developed self-discipline “..._wise fathers do not punish in anger._” <a id="a108_451"></a>[[UB 188:4.10](/en/The_Urantia_Book/188#p4_10)]
 
 ## A Four Step Method
 
@@ -122,7 +122,7 @@ Family Meetings and the Respect Method of discipline offer a “win-win” situa
 > Arlene was a good Jewish girl from Brooklyn and Buck was a rebellious guy from a small town in Pennsylvania when they met on a Caribbean island in 1964. They married in 1970, traveled extensively, and then settled in Pueblo, CO, in 1974. Along with co-creating three sons (Jon, Matt, and Adam, now adults) they established careers: Arlene as a psychologist and Buck as a Clinical Therapist at a local hospital. They have been readers of _The Urantia Book_ and devoted to its teachings since 1972.
 {.is-info}
 
-> Almost everything of lasting value in civilization has its roots in the family. [[UB 68:2.8](/en/The_Urantia_Book/68#p2_8)]
+> Almost everything of lasting value in civilization has its roots in the family. <a id="a124_82"></a>[[UB 68:2.8](/en/The_Urantia_Book/68#p2_8)]
 
 ## References
 

@@ -43,9 +43,9 @@ dateCreated: 2022-9-9T8:13:39Z
 > 
 > 5. That God must be a personality since he is the Creator of all personality and the destiny of all personality. Rodan had been tremendously influenced by the teaching of Jesus, ‘Be you therefore perfect, even as your Father in heaven is perfect.’
 > 
-> When Rodan heard these arguments, he said: ‘I am convinced. I will confess God as a person if you will permit me to qualify my confession of such a belief by attaching to the meaning of personality a group of extended values, such as superhuman, transcendent, supreme, infinite, eternal, final, and universal. I am now convinced that, while God must be infinitely more than a personality, he cannot be anything less. I am satisfied to end the argument and to accept Jesus as the personal revelation of the Father and the satisfaction of all unsatisfied factors in logic, reason, and philosophy.’ ([UB 161:1.5-11](/en/The_Urantia_Book/161#p1_5))
+> When Rodan heard these arguments, he said: ‘I am convinced. I will confess God as a person if you will permit me to qualify my confession of such a belief by attaching to the meaning of personality a group of extended values, such as superhuman, transcendent, supreme, infinite, eternal, final, and universal. I am now convinced that, while God must be infinitely more than a personality, he cannot be anything less. I am satisfied to end the argument and to accept Jesus as the personal revelation of the Father and the satisfaction of all unsatisfied factors in logic, reason, and philosophy.’ (<a id="a45_599"></a>[UB 161:1.5-11](/en/The_Urantia_Book/161#p1_5))
 
-> Stability of personality can be experienced only by those who have discovered and embraced the living God as the eternal goal of infinite attainment. ([UB 160:1.14](/en/The_Urantia_Book/160#p1_14))
+> Stability of personality can be experienced only by those who have discovered and embraced the living God as the eternal goal of infinite attainment. (<a id="a47_153"></a>[UB 160:1.14](/en/The_Urantia_Book/160#p1_14))
 
 ## External links
 

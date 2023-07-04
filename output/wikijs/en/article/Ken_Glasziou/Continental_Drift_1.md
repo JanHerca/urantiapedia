@@ -63,7 +63,7 @@ In further support of our view that opposition to the theory was extremely stron
 
 In our view, if the Urantia Papers had actually been written by human authors, it would have been quite irrational for them to go against the grain of prevailing strong professional opinion in making their story of life and land evolution so highly dependent upon the truth of the continental drift theory.
 
-For the continental drift story of the Urantia Papers, the major “prophetic” item is the actual starting date for drift, given as 750 million years ago. ([UB 57:8.23](/en/The_Urantia_Book/57#p8_23))
+For the continental drift story of the Urantia Papers, the major “prophetic” item is the actual starting date for drift, given as 750 million years ago. (<a id="a65_154"></a>[UB 57:8.23](/en/The_Urantia_Book/57#p8_23))
 
 As his starting date for drift, Wegener had suggested 200-300 million years ago, a view that remained dominant until the 1980's when the commencing date was pushed back to 500 million years or more. A recent estimate actually coincides exactly with the 750 million years given in Urantia Paper [57](/en/The_Urantia_Book/57).
 
@@ -73,7 +73,7 @@ If the authors of the Urantia Papers were human, we need an explanation of how t
 
 A lucky guess seems to be the only alternative. But the odds against guessing correctly are enormous.
 
-> All finite knowledge and creature understanding are *relative.* Information and intelligence, gleaned from even high sources, is only relatively complete, locally accurate, and personally true. ([UB 2:7.1](/en/The_Urantia_Book/2#p7_1))
+> All finite knowledge and creature understanding are *relative.* Information and intelligence, gleaned from even high sources, is only relatively complete, locally accurate, and personally true. (<a id="a75_197"></a>[UB 2:7.1](/en/The_Urantia_Book/2#p7_1))
 
 ## References
 

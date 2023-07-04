@@ -50,7 +50,7 @@ dateCreated: 2022-9-9T8:13:39Z
 > 
 > All philosophies and religions which fall short of these ideals are immature.
 > 
-> The philosophy which I teach, linked with the gospel which you preach, represents the new religion of maturity, the ideal of all future generations. And this is true because our ideal is final, infallible, eternal, universal, absolute, and infinite. ([UB 160:1.13](/en/The_Urantia_Book/160#p1_13))
+> The philosophy which I teach, linked with the gospel which you preach, represents the new religion of maturity, the ideal of all future generations. And this is true because our ideal is final, infallible, eternal, universal, absolute, and infinite. (<a id="a52_253"></a>[UB 160:1.13](/en/The_Urantia_Book/160#p1_13))
 
 > Graciousness is the aroma of friendliness which emanates from a love-saturated soul.
 

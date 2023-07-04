@@ -53,7 +53,7 @@ Moral acts are those human performances which are characterized by the highest i
 
 Supreme virtue, then, is wholeheartedly to choose to do the will of the Father in heaven. ([Paper 16, Sect. 7](/en/The_Urantia_Book/16#_par))
 
-> Men die searching for the very God that dwells within them. ([UB 159:3.8](/en/The_Urantia_Book/159#p3_8))
+> Men die searching for the very God that dwells within them. (<a id="a55_63"></a>[UB 159:3.8](/en/The_Urantia_Book/159#p3_8))
 
 ## External links
 

@@ -72,17 +72,17 @@ Because of the total absence of such a sensational story from the remainder of t
 
 It is true that the Papers dismiss most of the miracle stories—and certainly those that have Jesus walking on the water and the like. Further, they remark upon the failure of miracle healings of the body to bring about similar advantage for the spiritual progress of the soul. But they have left in much that appears doubtful—like the water into wine and the feeding of the five thousand.
 
-> “God is so all real and absolute that no material sign of proof or no demonstration of so-called miracle may be offered in testimony of his reality.” ([UB 102:1.5](/en/The_Urantia_Book/102#p1_5))
+> “God is so all real and absolute that no material sign of proof or no demonstration of so-called miracle may be offered in testimony of his reality.” (<a id="a74_153"></a>[UB 102:1.5](/en/The_Urantia_Book/102#p1_5))
 
 It is quite wonderful that there is now such a powerful movement towards reformation in the Christian Churches, virtually all of which is in line with teaching in The Urantia Book. However it is also disturbing that we Urantia Book devotees may have already fallen behind. For the book does inform us:
 
-> “The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness.” ([UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
+> “The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness.” (<a id="a78_304"></a>[UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
 
 Did we fail to take up that challenge by getting bogged down in things secular while basking in the glory of thinking of ourselves as enlightened leaders at the forefront of spiritual progress?
 
-> But religion is never enhanced by an appeal to the so-called miraculous. The quest for miracles is a harking back to the primitive religions of magic. True religion has nothing to do with alleged miracles, and never does revealed religion point to miracles as proof of authority. ([UB 102:8.7](/en/The_Urantia_Book/102#p8_7))
+> But religion is never enhanced by an appeal to the so-called miraculous. The quest for miracles is a harking back to the primitive religions of magic. True religion has nothing to do with alleged miracles, and never does revealed religion point to miracles as proof of authority. (<a id="a82_283"></a>[UB 102:8.7](/en/The_Urantia_Book/102#p8_7))
 
-> To achieve its task, revelation cannot be too far removed from the thoughts and reactions of the age in which it is presented. It must be geared to man's capacity for receptivity, and allow for the huge variation in educational and cultural backgrounds of those who may benefit. ([UB 92:4.1](/en/The_Urantia_Book/92#p4_1))
+> To achieve its task, revelation cannot be too far removed from the thoughts and reactions of the age in which it is presented. It must be geared to man's capacity for receptivity, and allow for the huge variation in educational and cultural backgrounds of those who may benefit. (<a id="a84_282"></a>[UB 92:4.1](/en/The_Urantia_Book/92#p4_1))
 
 ## External links
 

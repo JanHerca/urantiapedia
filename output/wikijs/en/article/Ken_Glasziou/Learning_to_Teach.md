@@ -34,13 +34,13 @@ dateCreated: 2022-09-26T16:45:14.471Z
 </figure>
 
 
-Sooner or later Urantia Book readers are going to need to heed the calls put out by its revelators. One such is on [UB 2:7.10](/en/The_Urantia_Book/2#p7_10):
+Sooner or later Urantia Book readers are going to need to heed the calls put out by its revelators. One such is on <a id="a36_115"></a>[UB 2:7.10](/en/The_Urantia_Book/2#p7_10):
 
 > “The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness.”
 
 A high priority is assigned to bringing Christianity back from its present status of authoritarian religion to what it was always meant to be—a religion of the spirit centered on the relationship between the individual, the Spirit of Truth, and the Father Spirit within. This priority is emphasized in at least ten paragraphs in the Papers, such as:
 
-> “Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men. . . .”([UB 195:10.1](/en/The_Urantia_Book/195#p10_1))
+> “Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men. . . .”(<a id="a42_247"></a>[UB 195:10.1](/en/The_Urantia_Book/195#p10_1))
 
 Those Urantia Book readers who have already taken this task seriously have learned a lot about what is unlikely to achieve much in the way of long term success.
 
@@ -52,15 +52,15 @@ Almost all Christians who are strong on atonement make no connection between wha
 
 So what can Urantia Book readers do to aid Christians to recover a religion of the spirit? A good start is to take notice of what Jesus told us:
 
-> "And this was his (Jesus) method of instruction: Never once did he attack their errors **or even mention the flaws in their teachings**. In each case he would select the truth in what they taught and then proceed so to embellish and illuminate this truth in their minds that in a very short time this enhancement of the truth effectively crowded out the associated error; ([UB 132:0.4](/en/The_Urantia_Book/132#p0_4))
+> "And this was his (Jesus) method of instruction: Never once did he attack their errors **or even mention the flaws in their teachings**. In each case he would select the truth in what they taught and then proceed so to embellish and illuminate this truth in their minds that in a very short time this enhancement of the truth effectively crowded out the associated error; (<a id="a54_375"></a>[UB 132:0.4](/en/The_Urantia_Book/132#p0_4))
 
 This instruction was later repeated to the apostle Simon:
 
-> Jesus answered: “Simon, Simon, how many times have I instructed you to refrain from all efforts to take something out of the hearts of those who seek salvation? How often have I told you to labor only to put something into these hungry souls? Lead men into the kingdom, and the great and living truths of the kingdom will presently drive out all serious error.” ([UB 141:6.2](/en/The_Urantia_Book/141#p6_2))
+> Jesus answered: “Simon, Simon, how many times have I instructed you to refrain from all efforts to take something out of the hearts of those who seek salvation? How often have I told you to labor only to put something into these hungry souls? Lead men into the kingdom, and the great and living truths of the kingdom will presently drive out all serious error.” (<a id="a58_365"></a>[UB 141:6.2](/en/The_Urantia_Book/141#p6_2))
 
 So telling Christians where they are wrong does not appear to find favor with Jesus and is best laid to rest for good.
 
-Jesus gave us an alternative, “Let the Spirit of Truth do his own work.” ([UB 178:1.16](/en/The_Urantia_Book/178#p1_16))
+Jesus gave us an alternative, “Let the Spirit of Truth do his own work.” (<a id="a62_74"></a>[UB 178:1.16](/en/The_Urantia_Book/178#p1_16))
 
 Another failure is to approach Christians with a new revelation. Whereas it may work for a tiny minority, experience has shown it is not the way to go. There may be a multitude of reasons, prominent among them being that Christianity has been satiated with false messiahs, prophets, visionaries, and charismatic would-be leaders. And certainly the warning of dire penalties in the Book of Revelations for changing any biblical teaching does engender wariness about embracing new revelation. So what can we do? First we must have patience, tolerance, humility, and be as wise as serpents and as harmless as doves—all these recommendations come directly from Jesus.
 
@@ -84,15 +84,15 @@ This means we do not even need to mention The Urantia Book nor the Thought Adjus
 
 At this stage it would appear to be far better to follow Jesus:
 
-> “Let me emphatically state this eternal truth: If you, by truth co-ordination, learn to exemplify in your lives this beautiful wholeness of righteousness, your fellow men will then seek after you that they may gain what you have so acquired. The measure wherewith truth seekers are drawn to you represents the measure of your truth endowment, your righteousness. The extent to which you have to go with your message to the people is, in a way, the measure of your failure to live the whole or righteous life, the truth-co-ordinated life.” ([UB 155:1.5](/en/The_Urantia_Book/155#p1_5))
+> “Let me emphatically state this eternal truth: If you, by truth co-ordination, learn to exemplify in your lives this beautiful wholeness of righteousness, your fellow men will then seek after you that they may gain what you have so acquired. The measure wherewith truth seekers are drawn to you represents the measure of your truth endowment, your righteousness. The extent to which you have to go with your message to the people is, in a way, the measure of your failure to live the whole or righteous life, the truth-co-ordinated life.” (<a id="a86_542"></a>[UB 155:1.5](/en/The_Urantia_Book/155#p1_5))
 
-> “Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men.” ([UB 195:10.1](/en/The_Urantia_Book/195#p10_1))
+> “Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men.” (<a id="a88_242"></a>[UB 195:10.1](/en/The_Urantia_Book/195#p10_1))
 
 Note that the emphasis is on us living the God-like life as revealed in Jesus’ life and perhaps handing out a Urantia Book after truth seekers are drawn to us. Unless we at least attempt to do that, we make a mockery of the revelation if we identify ourselves as Urantia Book readers.
 
 The phase in which our principal task is to help Christians to become aware of their indwelling may last for hundreds of years. Hence there is little reason to be anxious about what comes next. And in any case we have relevant advice from Jesus:
 
-> “You must, in all such matters, wait upon time. Time alone will ripen the green fruit upon the tree. Season follows season and sundown follows sunrise only with the passing of time. I am now on the way to . . . , and that is sufficient for today. My tomorrow is wholly in the hands of my Father in heaven.” ([UB 130:5.3](/en/The_Urantia_Book/130#p5_3))
+> “You must, in all such matters, wait upon time. Time alone will ripen the green fruit upon the tree. Season follows season and sundown follows sunrise only with the passing of time. I am now on the way to . . . , and that is sufficient for today. My tomorrow is wholly in the hands of my Father in heaven.” (<a id="a94_310"></a>[UB 130:5.3](/en/The_Urantia_Book/130#p5_3))
 
 ## External links
 

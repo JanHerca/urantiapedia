@@ -36,7 +36,7 @@ dateCreated: 2023-01-25T11:12:37.284Z
 
 As the turn of the millenium approaches, the prospect of a new era of spiritual seeking looms ever greater. The Twentieth Century marked a dark and frequently bloody chapter in the march of human progress toward the promised age of light and life. Other centuries have experience war, violence and cultural turmoil, but “our” wars and upheavals invaded our lives via communications and entertainment me­dia. We would surmise that civilized men and women are thoroughly sick of it, and long for a better state of existence on their native planet.
 
-*The Urantia Book* declares that we are about to realize that dream. “Urantia *is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlight­enment.”* ([UB 195:9.2](/en/The_Urantia_Book/195#p9_2))
+*The Urantia Book* declares that we are about to realize that dream. “Urantia *is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlight­enment.”* (<a id="a38_239"></a>[UB 195:9.2](/en/The_Urantia_Book/195#p9_2))
 
 It has been about 72 years since the Urantia Pa­pers were initiated, 63 years since they were completed and 43 years since the book was published.
 
@@ -54,9 +54,9 @@ What has happened these past 43 years? This first issue of *The Fellowship Heral
 
 On the eve of publication in 1955, Bill Sadler, first President of Urantia Brotherhood (now called The Urantia Book Fellowship), was asked how many Urantia Societies he envisioned ten years hence. He said, “Oh, not less than a hundred thousand.” Was he serious? Probably not. But he observed the pent up energy of Forum members who had waited between five and twenty-seven years to escape the confines of secrecy surrounding the new revelation.
 
-Wasn't this what the world needed? The long nightmare of World War II had ended in 1945. The Korean conflict was over. The revelators foresaw the eventual downfall of Communism, one of the “greatest dangers to the teachings of Jesus” since his bestowal, and gave their approval for an “early publication of the book”...“Iong before the day of its worldwide mission.” But most Forum members didn't hear that last part; they set out on October 12th with their 1,700 prepaid copies of *The* Urantia *Book* to enlighten the world. They were expecting a sen­sational reaction to the news that a new revelation had ap­peared. They were like Simon Peter who, immediately af­ter the ordination, rashly announced, “We are ready—let us now go forth to take the kingdom.” ([UB 140:7.7](/en/The_Urantia_Book/140#p7_7))
+Wasn't this what the world needed? The long nightmare of World War II had ended in 1945. The Korean conflict was over. The revelators foresaw the eventual downfall of Communism, one of the “greatest dangers to the teachings of Jesus” since his bestowal, and gave their approval for an “early publication of the book”...“Iong before the day of its worldwide mission.” But most Forum members didn't hear that last part; they set out on October 12th with their 1,700 prepaid copies of *The* Urantia *Book* to enlighten the world. They were expecting a sen­sational reaction to the news that a new revelation had ap­peared. They were like Simon Peter who, immediately af­ter the ordination, rashly announced, “We are ready—let us now go forth to take the kingdom.” (<a id="a56_762"></a>[UB 140:7.7](/en/The_Urantia_Book/140#p7_7))
 
-Bill suggested that rather than mak­ing the same mis­takes the apostles and early Christians made, we should strive to “make some new and original mistakes.” Sadler had the grace not to repeat Jesus' caution to Peter: “May your wisdom equal your zeal and your courage atone for your ignorance.” ([UB 140:7.7](/en/The_Urantia_Book/140#p7_7))
+Bill suggested that rather than mak­ing the same mis­takes the apostles and early Christians made, we should strive to “make some new and original mistakes.” Sadler had the grace not to repeat Jesus' caution to Peter: “May your wisdom equal your zeal and your courage atone for your ignorance.” (<a id="a58_296"></a>[UB 140:7.7](/en/The_Urantia_Book/140#p7_7))
 
 ## Publicity vs. Person to Person Introduction
 
@@ -161,13 +161,13 @@ The success of library placement as a means of dissemination is hard to gauge, b
 
 During the 1970s, rumors had been heard that Urantia Books were being stolen from many libraries. Consequently, one library is reported to have chained its copy to a stand and others have been made avail­able only upon request. While larceny as a means of acquiring knowledge of the Fifth Epochal Revelation is not something we would endorse, we can only hope that the thieves have mended their ways as a result of reading the books they stole.
 
-> *“If you would be an ordained teacher, you must let others bury the dead while you go forth to publish the good news.”* ([UB 163:2.2](/en/The_Urantia_Book/163#p2_2))
+> *“If you would be an ordained teacher, you must let others bury the dead while you go forth to publish the good news.”* (<a id="a163_123"></a>[UB 163:2.2](/en/The_Urantia_Book/163#p2_2))
 
-> *“The Dalamatia library, destroyed soon after the Calagastia disaffection, comprised more than two million separate records and was known as the 'house of Fad'.”* ([UB 66:5.9](/en/The_Urantia_Book/66#p5_9))
+> *“The Dalamatia library, destroyed soon after the Calagastia disaffection, comprised more than two million separate records and was known as the 'house of Fad'.”* (<a id="a165_166"></a>[UB 66:5.9](/en/The_Urantia_Book/66#p5_9))
 
-> *“After the first survey of \[Alexandria's\] chief attractions...Jesus and Ganid went to the library, the greatest in the world. Here were assembled nearly a million manuscripts from all the civilized world: Greece, Rome, Palestine, Parthia, India, China, and even Japan. In this library Ganid saw the largest collection of Indian literature in all the world;...”* ([UB 130:3.4](/en/The_Urantia_Book/130#p3_4)) *“\[In Rome Jesus\] spent much time in Palatine hill, where were located the emperor's residence, the temple of Apollo, and the Greek and Latin libraries.”* ([UB 132:0.2](/en/The_Urantia_Book/132#p0_2))
+> *“After the first survey of \[Alexandria's\] chief attractions...Jesus and Ganid went to the library, the greatest in the world. Here were assembled nearly a million manuscripts from all the civilized world: Greece, Rome, Palestine, Parthia, India, China, and even Japan. In this library Ganid saw the largest collection of Indian literature in all the world;...”* (<a id="a167_368"></a>[UB 130:3.4](/en/The_Urantia_Book/130#p3_4)) *“\[In Rome Jesus\] spent much time in Palatine hill, where were located the emperor's residence, the temple of Apollo, and the Greek and Latin libraries.”* (<a id="a167_571"></a>[UB 132:0.2](/en/The_Urantia_Book/132#p0_2))
 
-> *“These primary supernaphim who are inherently in possession of universe knowledge are also responsible for its organization and classification. In constituting themselves the living reference library of the universe of universes, they have classified knowledge into seven grand orders, each having about one million subdivisions.”* ([UB 27:5.5](/en/The_Urantia_Book/27#p5_5))
+> *“These primary supernaphim who are inherently in possession of universe knowledge are also responsible for its organization and classification. In constituting themselves the living reference library of the universe of universes, they have classified knowledge into seven grand orders, each having about one million subdivisions.”* (<a id="a169_336"></a>[UB 27:5.5](/en/The_Urantia_Book/27#p5_5))
 
 
 > **The Concordex**
@@ -192,7 +192,7 @@ Regret for the circumstances that brought them to prison emerges over and over i
 
 Northwest Urantia Association has sponsored an ongoing Prison Project since March 1997. Director, Liz Engstom reported in Urantia Foundation's *URANTIAN NEWS* that a book has been placed in every federal prison in the U.S. Their goal is to place a book in every state prison in the country, and in pris­ons in “countries into whose languages the book has been translated.”
 
-> *“John had a lonely and somewhat bitter experience in prison...He was often tempted to doubt Jesus and his divine mission. ... For more than a year and a half this rugged man of God's outdoors languished in that despicable prison. And this experience was a great test of John's faith in, and loyalty to Jesus. Indeed, this experience was a great test of John's faith even in God.”* ([UB 135:11.1](/en/The_Urantia_Book/135#p11_1))
+> *“John had a lonely and somewhat bitter experience in prison...He was often tempted to doubt Jesus and his divine mission. ... For more than a year and a half this rugged man of God's outdoors languished in that despicable prison. And this experience was a great test of John's faith in, and loyalty to Jesus. Indeed, this experience was a great test of John's faith even in God.”* (<a id="a194_385"></a>[UB 135:11.1](/en/The_Urantia_Book/135#p11_1))
 
 > The travels of Vicent Myers in 1985 and 1986 confound even the most adventurous *Urantia Book* promoter. He embarked upon a drive (literally) to bring free library books to out-of-the-way locations in Canada and to the northeastern seaboard states, the upper Midwest and plains states of the United States. Starting out in November 1985 from his home in Worcester, MA with a promise from Urantia Foundation of free books if he could get commitments from librar­ians to accept them, he sallied forth. At that time there were about 10,300 known books in Canada (6,000 English and 4,300 French); with a popula­tion of 24 million, “that's one book for every 2,400 people—a real 'quiver­ing on the brink' amount.”
 > 
@@ -211,7 +211,7 @@ Photocopies of Paper 72, “Government on a Neighboring Planet” were sent by a
 
 One long time reader has sent a gift book and letter to every President of The United States since Eisenhower. A staff member usually acknowledges re­ceipt of the book, although it is unknown whether any Leader of the Free World has ever read it.
 
-> "Ganid, the man was not hungry for truth...the eyes of his mind were not open to receive light for the soul. ... If we could have him live with us, we might by our lives show him the Father in heaven, and thus would he become so attracted that \[he would\] inquire about our Father." ([UB 132:7.2](/en/The_Urantia_Book/132#p7_2))
+> "Ganid, the man was not hungry for truth...the eyes of his mind were not open to receive light for the soul. ... If we could have him live with us, we might by our lives show him the Father in heaven, and thus would he become so attracted that \[he would\] inquire about our Father." (<a id="a213_287"></a>[UB 132:7.2](/en/The_Urantia_Book/132#p7_2))
 
 > **Modern Missionary**
 > _Norm Ingram, ... personifies what a modem missionary program can and should be._
@@ -229,7 +229,7 @@ One long time reader has sent a gift book and letter to every President of The U
 {.is-info}
 
 > **Mission to the Christian Clergy**
-> _“The hour is striking for, Presenting to Buddhism, to Christianityj Hinduism, even to the Peoples Of faiths, not the gospel about Jesus, but the living, spiritual reality of the gospel of Jesus.”_ ([UB 94:12.7](/en/The_Urantia_Book/94#p12_7))
+> _“The hour is striking for, Presenting to Buddhism, to Christianityj Hinduism, even to the Peoples Of faiths, not the gospel about Jesus, but the living, spiritual reality of the gospel of Jesus.”_ (<a id="a231_201"></a>[UB 94:12.7](/en/The_Urantia_Book/94#p12_7))
 > 
 > 
 > The most systematic and audacious approach to religious leaders has been the 19 year program of Meredith J. Sprunger. Dr. Sprunger, an ordained minister of the United Church of Christ, clinical psychologist, retired university president and professor, and President of Urantia Brotherhood from 1976 to 1979, set out to personally introduce The Urantia *Book* to his Christian fellows. This was a singularly courageous project, risking personal and professional reputation among his peers.
@@ -280,11 +280,11 @@ The *Urantia Book* has had a sizeable readership among country-western stars, in
 
 TV and movie celebrities have called or visited over the years, beginning with Lew “Dr. Kildare” Ayers in 1956, which thrilled then Secretary-General, Marian Rowley to pieces. They kept up a correspondence for several years. A few entertainers have mentioned in interviews that they read the book, but most seem to prefer that their names not be used as an inducement to others to read the book.
 
-> *“Throughout the journey to Paradise there will always be time for rest and spirit play; and in the career of light and life there is always time for worship and new achievement.”* ([UB 25:7.2](/en/The_Urantia_Book/25#p7_2))
+> *“Throughout the journey to Paradise there will always be time for rest and spirit play; and in the career of light and life there is always time for worship and new achievement.”* (<a id="a282_184"></a>[UB 25:7.2](/en/The_Urantia_Book/25#p7_2))
 
 
 > **Proclaiming the Coming Spiritual Renaissance on Radio**
-> _“The quickest way to realize the brotherhood of man on Urantia is to effect the spiritual transformation of Present-day humanity. The only technique for accelerating the natural trend of social evolution is that of applying spiritual pressure from above;”_ ([UB 52:6.7](/en/The_Urantia_Book/52#p6_7))
+> _“The quickest way to realize the brotherhood of man on Urantia is to effect the spiritual transformation of Present-day humanity. The only technique for accelerating the natural trend of social evolution is that of applying spiritual pressure from above;”_ (<a id="a286_261"></a>[UB 52:6.7](/en/The_Urantia_Book/52#p6_7))
 > 
 > 
 > Prior to his generating controversy among the reader community in 1983 with his predictions of the outbreak of World War III, Vern Grimsley had established himself as the foremost radio broadcaster of the teachings of Jesus according to *The Urantia Book.* As he had agreed with Dr. William Sadler and Christy, Vern did not mention *The Urantia Book* in his broadcasts and simply proclaimed the Fatherhood of God and the Brotherhood of Man as well as the coming-spiritual renaissance on this planet.

@@ -39,11 +39,11 @@ No such luck! There was brother still as sober, self-centered, surly, and concei
 
 The story ends with the father appealing to his unhappy son:
 
-> “Since this father truly loved both of his sons, he tried to reason with this older one: ‘But, my son, you have all the while been with me, and all this which I have is yours. You could have had a kid at any time you had made friends to share your merriment. But it is only proper that you should now join with me in being glad and merry because of your brother’s return. Think of it, my son, your brother was lost and is found; he has returned alive to us!’” [UB 169:1.13](/en/The_Urantia_Book/169#p1_13)
+> “Since this father truly loved both of his sons, he tried to reason with this older one: ‘But, my son, you have all the while been with me, and all this which I have is yours. You could have had a kid at any time you had made friends to share your merriment. But it is only proper that you should now join with me in being glad and merry because of your brother’s return. Think of it, my son, your brother was lost and is found; he has returned alive to us!’” <a id="a41_462"></a>[UB 169:1.13](/en/The_Urantia_Book/169#p1_13)
 
 I wish that that had not been the finish of the story! A further short paragraph in which the older son went in and gave the prodigal son a big hug and said:“Gee it's good to have you back  home!” That would have been a really nice happy-ever-after ending. It was one of those stories which left a sad feeling in my heart.
 
-Now I know that Jesus told parables so that we could all gain what we wished from what they symbolized. I also appreciate that he has some big messages in that Prodigal Son parable. And we are told that he loved to tell this parable of the lost son, “_the reception of the returning prodigal, to show how complete is the restoration of the lost son into his Father's house and heart._” [UB 169:1.15](/en/The_Urantia_Book/169#p1_15)
+Now I know that Jesus told parables so that we could all gain what we wished from what they symbolized. I also appreciate that he has some big messages in that Prodigal Son parable. And we are told that he loved to tell this parable of the lost son, “_the reception of the returning prodigal, to show how complete is the restoration of the lost son into his Father's house and heart._” <a id="a45_386"></a>[UB 169:1.15](/en/The_Urantia_Book/169#p1_15)
 
 And so I undertake a Cecilia Ann version of the Prodigal Son.
 

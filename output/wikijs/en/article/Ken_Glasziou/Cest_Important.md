@@ -31,7 +31,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> “_Jesus does not require his disciples to believe in him but rather to believe with him, believe in the reality of the love of God and in full confidence accept the security of the assurance of sonship with the heavenly Father. The Master desires that all his followers should fully share his transcendent faith. Jesus most touchingly challenged his followers, not only to believe what he believed, but also to believe as he believed. This is the full significance of his one supreme requirement, ‘Follow me.’_” [UB 196:0.13](/en/The_Urantia_Book/196#p0_13)
+> “_Jesus does not require his disciples to believe in him but rather to believe with him, believe in the reality of the love of God and in full confidence accept the security of the assurance of sonship with the heavenly Father. The Master desires that all his followers should fully share his transcendent faith. Jesus most touchingly challenged his followers, not only to believe what he believed, but also to believe as he believed. This is the full significance of his one supreme requirement, ‘Follow me.’_” <a id="a33_514"></a>[UB 196:0.13](/en/The_Urantia_Book/196#p0_13)
 
 For those who aspire to attempt the task set on p. 43, “The religious challenge of this age is to those far-seeing men and women of spiritual insight who will dare to construct a new and appealing philosophy of living. . . (that) will attract all that is good in the mind of man and challenge the best in the human soul,” this statement that Jesus does not require us to believe in him but rather to believe with him is of the utmost significance.
 
@@ -51,7 +51,7 @@ Probably there is only one possible way in which the virus of love can dominate 
 
 But even this latter hope cannot work unless the God that becomes the focus of our lives is the Father-God of Jesus. Only a remnant of that God shows forth in the lives of most Christians. And even dedicated Urantia Book readers have yet to learn to shift their focal point from the book to become God-centered.
 
-But let not faith be overcome. Rather let this assurance prevail: “_Love is infectious, and when human devotion is intelligent and wise, love is more catching than hate. But only genuine and unselfish love is truly contagious. If each mortal could only become a focus of dynamic affection, this benign virus of love would soon pervade the sentimental emotion-stream of humanity to such an extent that all civilization would be encompassed by love, and that would be the realization of the brotherhood of man._” [UB 100:4.6](/en/The_Urantia_Book/100#p4_6)
+But let not faith be overcome. Rather let this assurance prevail: “_Love is infectious, and when human devotion is intelligent and wise, love is more catching than hate. But only genuine and unselfish love is truly contagious. If each mortal could only become a focus of dynamic affection, this benign virus of love would soon pervade the sentimental emotion-stream of humanity to such an extent that all civilization would be encompassed by love, and that would be the realization of the brotherhood of man._” <a id="a53_511"></a>[UB 100:4.6](/en/The_Urantia_Book/100#p4_6)
 
 ## External links
 

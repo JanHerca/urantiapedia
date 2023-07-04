@@ -52,7 +52,7 @@ I knew John only through correspondence and through his contribution to Innerfac
 
 “There is no way forward if Urantia Book readers cannot recognize that these two activities are not mutually exclusive, that both are essential.”
 
-“In _The Urantia Book_ there is a quote that states: ‘True religion is the act of an individual soul in its self-conscious relations with the Creator; organized religion is man’s attempt to socialize the worship of individual religionists. . . ’ ([UB 143:7.2](/en/The_Urantia_Book/143#p7_2))”
+“In _The Urantia Book_ there is a quote that states: ‘True religion is the act of an individual soul in its self-conscious relations with the Creator; organized religion is man’s attempt to socialize the worship of individual religionists. . . ’ (<a id="a54_247"></a>[UB 143:7.2](/en/The_Urantia_Book/143#p7_2))”
 
 “The alternative to an organized religion is selfish retention of the messages of _The Urantia Book_ by the individual for the individual—perhaps accompanied by the forlorn and almost inevitably misplaced hope that someone else will notice one’s sainthood and benefit thereby.”
 

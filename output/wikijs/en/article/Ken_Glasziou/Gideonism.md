@@ -50,13 +50,13 @@ The total cost must have been many hundreds of millions of dollars. So perhaps a
 
 Two comments from The Urantia Book come to mind. One that makes a nine on the Richter scale states:
 
-> “The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness. Such a new and righteous vision of morality will attract all that is good in the mind of man and challenge that which is best in the human soul.” ([UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
+> “The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness. Such a new and righteous vision of morality will attract all that is good in the mind of man and challenge that which is best in the human soul.” (<a id="a52_449"></a>[UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
 
 I’ve always felt the words, “exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness” are self-referential to The Urantia Book. If so then surely we are being instructed to construct new and appealing philosophies from the materials given us in that book. **But nowhere are we instructed to credit the book as source**. Maybe that is an important point!
 
 The other quotation from the book is:
 
-> “The time is ripe to witness the figurative resurrection of the human Jesus from his burial tomb amidst the theological traditions and the religious dogmas of nineteen centuries. Jesus of Nazareth must no longer be sacrificed to even the splendid concept of the glorified Christ. What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions.” ([UB 196:1.2](/en/The_Urantia_Book/196#p1_2))
+> “The time is ripe to witness the figurative resurrection of the human Jesus from his burial tomb amidst the theological traditions and the religious dogmas of nineteen centuries. Jesus of Nazareth must no longer be sacrificed to even the splendid concept of the glorified Christ. What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions.” (<a id="a58_514"></a>[UB 196:1.2](/en/The_Urantia_Book/196#p1_2))
 
 This task is to be accomplished “through this revelation,” not “by this revelation.” We should have learned by now that Christianity, as it presently is, will never accept a new revelation. Maybe [Revelations 22:18](/en/Bible/Revelation/22#v18) has Christians running scared. And maybe there are a multitude of other reasons.
 

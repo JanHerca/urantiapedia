@@ -46,7 +46,7 @@ Answers from _The Urantia Book_.
 - Ans. Ask ourselves, “What would Jesus have done?”
 
 - Q. And how can we know what Jesus would have done?
-- Ans. One of the most important things in human living is. . . to know the religious life of Jesus and how he lived it. ([UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
+- Ans. One of the most important things in human living is. . . to know the religious life of Jesus and how he lived it. (<a id="a48_122"></a>[UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
 
 - Q. How can we do the will of God?
 - Ans. We do the will of God by becoming more and more God-like.
@@ -68,14 +68,14 @@ Answers from _The Urantia Book_.
 
 > Food for Thought
 >
-> Jesus was interested only in the individual—not the mass. ([UB 140:8.11](/en/The_Urantia_Book/140#p8_11))
+> Jesus was interested only in the individual—not the mass. (<a id="a70_61"></a>[UB 140:8.11](/en/The_Urantia_Book/140#p8_11))
 
 > Real families are built upon tolerance, patience, and forgiveness.
 > Michael of Nebadon
 
 ## References
 
-- [The Urantia Book, Paper 130, Section 2](/en/The_Urantia_Book/130#p2).
+- <a id="a77_2"></a>[The Urantia Book, Paper 130, Section 2](/en/The_Urantia_Book/130#p2).
 
 ## External links
 

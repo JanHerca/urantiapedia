@@ -120,7 +120,7 @@ To his disciples, Jesus said: Temporal matters are the concern of the men of the
 
 The Master was a perfect specimen of human self-control. When he was reviled, he reviled not; when he suffered, he uttered no threats; when he was denounced, he simply committed himself to the righteous judgment of the Father.
 
-> “I come with a new message of self-forgetfulness and self-control. I show you the way of life as revealed to me by my Father in heaven. . . . By your love for one another you are to convince the world you have passed from death into life everlasting.” ([UB 143:2.2-3](/en/The_Urantia_Book/143#p2_2))
+> “I come with a new message of self-forgetfulness and self-control. I show you the way of life as revealed to me by my Father in heaven. . . . By your love for one another you are to convince the world you have passed from death into life everlasting.” (<a id="a122_255"></a>[UB 143:2.2-3](/en/The_Urantia_Book/143#p2_2))
 
 ## Function of the Indwelling Spirit
 

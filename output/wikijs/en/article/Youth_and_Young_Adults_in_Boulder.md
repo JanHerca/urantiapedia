@@ -40,7 +40,7 @@ Join us as we deeply contemplate what it means to live faithfully, as we sincere
 
 Said Jesus:
 
-> “Build well the foundations for the growth of a noble character of spiritual endowments, in order to yield the fruits of the spirit, you must be born of the spirit. You must be taught by the spirit and be led by the spirit if you would live the spirit-filled life among your fellows.” [UB 156:5.2](/en/The_Urantia_Book/156#p5_2)
+> “Build well the foundations for the growth of a noble character of spiritual endowments, in order to yield the fruits of the spirit, you must be born of the spirit. You must be taught by the spirit and be led by the spirit if you would live the spirit-filled life among your fellows.” <a id="a42_287"></a>[UB 156:5.2](/en/The_Urantia_Book/156#p5_2)
 
 We will share community, nature, prayer, study, and service with our fellow believers while surrounded by the beautiful Flat Irons of Boulder, Colorado.
 

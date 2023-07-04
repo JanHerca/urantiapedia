@@ -34,7 +34,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 </figure>
 
 
-> The ancestors of the Japanese people were not driven off the mainland until 12,000 B.C., when they were dislodged by a powerful southern-coastwise thrust of the northern Chinese tribes. [[UB 79:6.3](/en/The_Urantia_Book/79#p6_3)]
+> The ancestors of the Japanese people were not driven off the mainland until 12,000 B.C., when they were dislodged by a powerful southern-coastwise thrust of the northern Chinese tribes. <a id="a36_188"></a>[[UB 79:6.3](/en/The_Urantia_Book/79#p6_3)]
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Derek_Samaras/Ancient_Japan_Jomon_Culture/004135.jpg">
@@ -57,7 +57,7 @@ The Jōmon period is divided into six sub- periods. Some scholars disagree about
 - Late Jōmon 1500-1000 B.C.E. or 2000 – 1000 B.C.E
 - Final (Latest) Jōmon 1000-300 B.C.E. or 1000 – 500 B.C.E 
 
-> About fifteen thousand years ago the Andites, in considerable numbers, were traversing the pass of Ti Tao and spreading out over the upper valley of the Yellow River among the Chinese settlements of Kansu. Presently they penetrated eastward to Honan, where the most progressive settlements were situated. This infiltration from the west was about half Andonite and half Andite. [[UB 79:7.1](/en/The_Urantia_Book/79#p7_1)]
+> About fifteen thousand years ago the Andites, in considerable numbers, were traversing the pass of Ti Tao and spreading out over the upper valley of the Yellow River among the Chinese settlements of Kansu. Presently they penetrated eastward to Honan, where the most progressive settlements were situated. This infiltration from the west was about half Andonite and half Andite. <a id="a59_380"></a>[[UB 79:7.1](/en/The_Urantia_Book/79#p7_1)]
 
 The Jōmon Culture has been determined to be the ancestors of the modern Japanese people. They moved off the mainland of Asia as the Northern Chinese migrated south, bringing with them new forms of manufacture, art, and agriculture. The Jōmon Culture was not Andite. They portrayed characteristics more of a Red, Yellow, or Andonic culture, as seen in their animal worship, shelter development and genetic makeup. However, there is apparent Andite influence in the “Middle” to “Late” Jōmon periods, as reflected in the advancements in agriculture, shelter building and pottery. Numerous archaeological sites with artifacts of this Neolithic culture have been discovered, from the northern island of Hokkaido to the southern Ryukyus. The Hokkaido region is highly interesting due to the many ancient sites located there, as well as being the home of the modern-day descendants of the Jōmon people. They are called “Ainu.” 
 
@@ -71,7 +71,7 @@ The Jōmon Culture has been determined to be the ancestors of the modern Japanes
 <img src="/image/article/Derek_Samaras/Ancient_Japan_Jomon_Culture/004138.jpg">
 </figure>
 
-> These Andites were the so-called Dravidian and later Aryan conquerors of India; and their presence in central Asia greatly upstepped the ancestors of the Turanians. Many of this race journeyed to China by way of both Sinkiang and Tibet and added desirable qualities to the later Chinese stocks. From time to time small groups made their way into Japan, Formosa, the East Indies, and southern China, though very few entered southern China by the coastal route. [[UB 78:5.6](/en/The_Urantia_Book/78#p5_6)]
+> These Andites were the so-called Dravidian and later Aryan conquerors of India; and their presence in central Asia greatly upstepped the ancestors of the Turanians. Many of this race journeyed to China by way of both Sinkiang and Tibet and added desirable qualities to the later Chinese stocks. From time to time small groups made their way into Japan, Formosa, the East Indies, and southern China, though very few entered southern China by the coastal route. <a id="a73_462"></a>[[UB 78:5.6](/en/The_Urantia_Book/78#p5_6)]
 
 _The Urantia Book_ speaks of the subsequent improvements in many cultures from the Middle East to Europe, Asia, and into South America as a result of the Andite migrations pouring out of Mesopotamia and adjacent regions. One can’t help but wonder when and where the Andites left their mark in Japan? 
 
@@ -83,7 +83,7 @@ Most historical professionals seem to agree that the Dogu statues represent fert
 <img src="/image/article/Derek_Samaras/Ancient_Japan_Jomon_Culture/004139.jpg">
 </figure>
 
-> These were the times of the New Stone Age overlapping the oncoming Bronze Age. In Scandinavia it was the Bronze Age associated with mother worship. In southern France and Spain it was the New Stone Age associated with sun worship. This was the time of the building of the circular and roofless sun temples. (3000 B.C.) [[UB 80:9.13](/en/The_Urantia_Book/80#p9_13)]
+> These were the times of the New Stone Age overlapping the oncoming Bronze Age. In Scandinavia it was the Bronze Age associated with mother worship. In southern France and Spain it was the New Stone Age associated with sun worship. This was the time of the building of the circular and roofless sun temples. (3000 B.C.) <a id="a85_321"></a>[[UB 80:9.13](/en/The_Urantia_Book/80#p9_13)]
 
 ## Kazuno, Japan: Ōyu Stone Circles (2000 B.C.-1500 B.C.) 
 
@@ -91,7 +91,7 @@ _The Urantia Book_ tells us that the majority of Adamic and Andite migrations fr
 
 In Northern Japan we see similar stone circles and bronze figurines of Godlike creatures around 2000 - 1500 B.C. An interesting note is that certain pre-Incan statues in South America seem to slightly resemble some Dogu statues. Might these be the fleeting impressions left behind by the 132 Andite sailors that departed from the coast of Japan, island hopping along the way to Peru, and became the predecessors the Inca? 
 
-> One hundred and thirty-two of this race, embarking in a fleet of small boats from Japan, eventually reached South America and by intermarriage with the natives of the Andes established the ancestry of the later rulers of the Incas. They crossed the Pacific by easy stages, tarrying on the many islands they found along the way. The islands of the Polynesian group were both more numerous and larger then than now, and these Andite sailors, together with some who followed them, biologically modified the native groups in transit. Many flourishing centers of civilization grew up on these now submerged lands as a result of Andite penetration. Easter Island was long a religious and administrative center of one of these lost groups. But of the Andites who navigated the Pacific of long ago none but the one hundred and thirty-two ever reached the mainland of the Americas. [[UB 78:5.7](/en/The_Urantia_Book/78#p5_7)]
+> One hundred and thirty-two of this race, embarking in a fleet of small boats from Japan, eventually reached South America and by intermarriage with the natives of the Andes established the ancestry of the later rulers of the Incas. They crossed the Pacific by easy stages, tarrying on the many islands they found along the way. The islands of the Polynesian group were both more numerous and larger then than now, and these Andite sailors, together with some who followed them, biologically modified the native groups in transit. Many flourishing centers of civilization grew up on these now submerged lands as a result of Andite penetration. Easter Island was long a religious and administrative center of one of these lost groups. But of the Andites who navigated the Pacific of long ago none but the one hundred and thirty-two ever reached the mainland of the Americas. <a id="a93_875"></a>[[UB 78:5.7](/en/The_Urantia_Book/78#p5_7)]
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/Derek_Samaras/Ancient_Japan_Jomon_Culture/004140.jpg">
@@ -114,7 +114,7 @@ Until modern academia catches up to revelation, we might have to wait a long tim
 
 As for the Jōmon Culture, I feel modern academia has correctly proven the statement _The Urantia Book_ makes when it says: 
 
-> The ancestors of the Japanese people were not driven off the mainland until 12,000 B.C., when they were dislodged by a powerful southern-coastwise thrust of the northern Chinese tribes. [[UB 79:6.3](/en/The_Urantia_Book/79#p6_3)]
+> The ancestors of the Japanese people were not driven off the mainland until 12,000 B.C., when they were dislodged by a powerful southern-coastwise thrust of the northern Chinese tribes. <a id="a116_188"></a>[[UB 79:6.3](/en/The_Urantia_Book/79#p6_3)]
 
 We can see who these people were, and more importantly we can see how the Jōmon people were the recipients of gradual cultural improvement from what influence they did receive from Andite culture as they migrated and homogenized with the surrounding tribes. Japan has a fascinating history and knowing the intricacies of the ancient foundations that culminated in modern day Japan has only revealed even greater depth and wisdom embedded in the Japanese culture. From 12,000 B.C. to A.D. 2017 real culture in Japan was brought by the Jōmon people and advanced by the Andite influences through China and into Japan. There are still many mysteries left unsolved regarding the migration of the Andites through Japan, but their mark was left and now Japan and the rest of the world are better because of it. 
 

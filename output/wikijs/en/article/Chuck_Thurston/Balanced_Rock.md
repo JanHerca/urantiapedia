@@ -40,7 +40,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-> “All reality is ever in balance between the potentials and the actuals of the cosmos, and these are eternally harmonized by the spirit Of divinity,” [UB 94:6.3](/en/The_Urantia_Book/94#p6_3)
+> “All reality is ever in balance between the potentials and the actuals of the cosmos, and these are eternally harmonized by the spirit Of divinity,” <a id="a42_151"></a>[UB 94:6.3](/en/The_Urantia_Book/94#p6_3)
 
 <figure class="table chapter-navigator">
   <table>

@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> “The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness.” ([UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
+> “The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness.” (<a id="a36_304"></a>[UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
 
 This quotation from UB 2:7.10 of _The Urantia Book_ is obviously self-referential. We are expected to take from the Papers that which will advance the cause of the “kingdom” and present it in forms that are comprehensible to our brothers and sisters at all levels of human understanding.
 
@@ -42,7 +42,7 @@ During the last few days of his earthly bestowal, the Master gave us several ins
 
 One of these military style orders was:
 
-> “You are not to attack the old ways.” ([UB 178:1.16](/en/The_Urantia_Book/178#p1_16))
+> “You are not to attack the old ways.” (<a id="a44_41"></a>[UB 178:1.16](/en/The_Urantia_Book/178#p1_16))
 
 This was followed by:
 
@@ -62,7 +62,7 @@ There are now well over a billion people on this earth who would call themselves
 
 If we think that the authors of the Urantia Papers did not know these facts when they wrote the Papers, then we seriously underestimate their intelligence. Nevertheless, in many places, these authors have expressed their hope that the message they sought to convey will transform the church that bears the name of Jesus. Just one example is:
 
-> “Jesus of Nazareth must not be longer sacrificed to even the splendid concept of the glorified Christ. What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions!” ([UB 196:1.2](/en/The_Urantia_Book/196#p1_2))
+> “Jesus of Nazareth must not be longer sacrificed to even the splendid concept of the glorified Christ. What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions!” (<a id="a64_337"></a>[UB 196:1.2](/en/The_Urantia_Book/196#p1_2))
 
 One thing that is for absolute certain is that the church will not be transformed from outside. If the living Jesus is to be recovered it will need to be an inside job.
 

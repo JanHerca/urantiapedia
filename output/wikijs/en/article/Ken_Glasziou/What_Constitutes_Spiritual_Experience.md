@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> “. . . the spiritual experience (having realized God) demands that man find him and sincerely strive to be like him.” ([UB 5:5.1](/en/The_Urantia_Book/5#p5_1))
+> “. . . the spiritual experience (having realized God) demands that man find him and sincerely strive to be like him.” (<a id="a36_121"></a>[UB 5:5.1](/en/The_Urantia_Book/5#p5_1))
 
 - “realize” = to conceive as real.
 
@@ -48,31 +48,31 @@ dateCreated: 2022-9-9T8:13:39Z
 
 ## The Urantia Papers on “spiritual experience.”
 
-> “The entire experience of Adjuster communion is one involving moral status, mental motivation, and spiritual experience.” ([UB 5:2.6](/en/The_Urantia_Book/5#p2_6))
+> “The entire experience of Adjuster communion is one involving moral status, mental motivation, and spiritual experience.” (<a id="a50_125"></a>[UB 5:2.6](/en/The_Urantia_Book/5#p2_6))
 
-> “Consciousness of divinity is a progressive spiritual experience.” ([UB 12:8.15](/en/The_Urantia_Book/12#p8_15))
+> “Consciousness of divinity is a progressive spiritual experience.” (<a id="a52_70"></a>[UB 12:8.15](/en/The_Urantia_Book/12#p8_15))
 
-> “Spirit-faith (worship) is the religion of the reality of spiritual experience.” ([UB 16:6.10](/en/The_Urantia_Book/16#p6_10))
+> “Spirit-faith (worship) is the religion of the reality of spiritual experience.” (<a id="a54_84"></a>[UB 16:6.10](/en/The_Urantia_Book/16#p6_10))
 
-> “While religion is exclusively a personal spiritual experience—knowing God as a Father—the corollary of this experience—knowing man as a brother—entails the adjustment of self to other selves.” ([UB 99:5.1](/en/The_Urantia_Book/99#p5_1))
+> “While religion is exclusively a personal spiritual experience—knowing God as a Father—the corollary of this experience—knowing man as a brother—entails the adjustment of self to other selves.” (<a id="a56_197"></a>[UB 99:5.1](/en/The_Urantia_Book/99#p5_1))
 
-> “Spiritual experience reveals to the individual the true values of life.” ([UB 100:4.4](/en/The_Urantia_Book/100#p4_4))
+> “Spiritual experience reveals to the individual the true values of life.” (<a id="a58_77"></a>[UB 100:4.4](/en/The_Urantia_Book/100#p4_4))
 
-> “In the spiritual experience of all personalities, always is it true that the real is the good and the good is the real.” ([UB 102:3.15](/en/The_Urantia_Book/102#p3_15))
+> “In the spiritual experience of all personalities, always is it true that the real is the good and the good is the real.” (<a id="a60_125"></a>[UB 102:3.15](/en/The_Urantia_Book/102#p3_15))
 
-> “The kingdom of heaven is a spiritual experience having to do with the enthronement of God in the hearts of men.” ([UB 137:7.13](/en/The_Urantia_Book/137#p7_13))
+> “The kingdom of heaven is a spiritual experience having to do with the enthronement of God in the hearts of men.” (<a id="a62_117"></a>[UB 137:7.13](/en/The_Urantia_Book/137#p7_13))
 
-> “Religion (true) is the exclusively spiritual experience of the evolving immortal soul of the God-knowing man.” ([UB 156:5.10](/en/The_Urantia_Book/156#p5_10))
+> “Religion (true) is the exclusively spiritual experience of the evolving immortal soul of the God-knowing man.” (<a id="a64_115"></a>[UB 156:5.10](/en/The_Urantia_Book/156#p5_10))
 
-> “God who is spirit can be known only as a spiritual experience.” ([UB 169:4.13](/en/The_Urantia_Book/169#p4_13))
+> “God who is spirit can be known only as a spiritual experience.” (<a id="a66_68"></a>[UB 169:4.13](/en/The_Urantia_Book/169#p4_13))
 
-> The unity of truth, beauty and goodness can only be realized in the spiritual experience of the God-knowing personality. ([UB 196:3.24](/en/The_Urantia_Book/196#p3_24))
+> The unity of truth, beauty and goodness can only be realized in the spiritual experience of the God-knowing personality. (<a id="a68_124"></a>[UB 196:3.24](/en/The_Urantia_Book/196#p3_24))
 
 So realizing God, being conscious of divinity; communing with our Thought Adjuster; worshiping God; knowing God as Father; enthroning God in our hearts; experiencing “good;” realizing the unity of truth, beauty, and goodness;—these are all examples of what is meant by a spiritual experience.
 
 Perhaps also, it is whenever a worldly experience brings forth a “thank you, God” that is untainted by selfishness, and is both sincere and heartfelt, then that experience qualifies for consideration by our Thought Adjuster to being spiritualized, and hence become an integral part of our growing soul.
 
-> Disappointment and sorrow attend upon error because, not being a reality, error cannot be realized in experience. ([UB 2:7.6](/en/The_Urantia_Book/2#p7_6))
+> Disappointment and sorrow attend upon error because, not being a reality, error cannot be realized in experience. (<a id="a74_117"></a>[UB 2:7.6](/en/The_Urantia_Book/2#p7_6))
 
 ## External links
 

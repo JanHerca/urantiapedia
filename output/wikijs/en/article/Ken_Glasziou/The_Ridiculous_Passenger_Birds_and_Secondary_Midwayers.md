@@ -40,7 +40,7 @@ Just in case the earth-moon story was not enough to test our gullibility, the Bo
 
 ## Content
 
-Let’s first consider the “passenger birds.” The Papers have these incredible creatures being employed like taxis to ferry Adam and Eve to meeting places in the garden. If this was not remarkable enough we are told: “_These enormous birds are able to carry one or two average-sized men for a nonstop flight of over five hundred miles. . . These birds are most intelligent, very obedient, and unbelievably affectionate.” And they were “often able to speak many words of the languages of the realm_.” ([UB 52:1.5](/en/The_Urantia_Book/52#p1_5))
+Let’s first consider the “passenger birds.” The Papers have these incredible creatures being employed like taxis to ferry Adam and Eve to meeting places in the garden. If this was not remarkable enough we are told: “_These enormous birds are able to carry one or two average-sized men for a nonstop flight of over five hundred miles. . . These birds are most intelligent, very obedient, and unbelievably affectionate.” And they were “often able to speak many words of the languages of the realm_.” (<a id="a42_499"></a>[UB 52:1.5](/en/The_Urantia_Book/52#p1_5))
 
 Can you imagine that? Intelligent birds, able to speak the language of the realm, take-off and land with a 2-man payload and, as well, fly 500 miles non-stop with that same payload? They must be joking.
 
@@ -50,11 +50,11 @@ However the Papers have this remarkable pair marry one another, then have sixty 
 
 The results must have amazed him. The pairs were able to reproduce themselves every seventy days, their offspring not only being invisible but were born fully developed and fully mature–“though they never ceased to grow in wisdom and experience.”
 
-These unusual offspring were called the secondary midwayers. Though incapable of procreation, they have no need for sleep nor for earthly material food, being energized from “space emanations” that are a mystery to us humans. And they are immortal! ([UB 77:6.1](/en/The_Urantia_Book/77#p6_1))
+These unusual offspring were called the secondary midwayers. Though incapable of procreation, they have no need for sleep nor for earthly material food, being energized from “space emanations” that are a mystery to us humans. And they are immortal! (<a id="a52_250"></a>[UB 77:6.1](/en/The_Urantia_Book/77#p6_1))
 
 If Urantia Book readers read such material in the Bible or the Koran they would likely collapse in raucous laughter. So surely these two examples must force us to consider whether the revelators have repeatedly challenged our intellects, virtually begging us to refrain from converting their precious revelation into an infallible icon.
 
-> Let it be made clear that revelations are not necessarily inspired. The cosmology of these revelations is not inspired. It is limited by our permission for the co-ordination and sorting of present-day knowledge. ([UB 101:4.2](/en/The_Urantia_Book/101#p4_2))
+> Let it be made clear that revelations are not necessarily inspired. The cosmology of these revelations is not inspired. It is limited by our permission for the co-ordination and sorting of present-day knowledge. (<a id="a56_215"></a>[UB 101:4.2](/en/The_Urantia_Book/101#p4_2))
 
 ## External links
 

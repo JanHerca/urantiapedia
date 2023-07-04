@@ -42,15 +42,15 @@ The revelators of the Urantia Papers make no such mistake. They freely admit the
 
 Of all intelligent creatures actually possessing the innate, God-gifted ability to achieve God-consciousness, we Urantians are as low as it gets. So let’s cast aside the arrogance of others and approach what may be knowable about our Creator in reverence and humility, recognizing that in doing so we can only know what is revealed from on high.
 
-> “The nature of God can best be understood by the revelation of the Father which Michael of Nebadon unfolded in his manifold teachings and in his superb mortal life in the flesh.” ([UB 2:0.1](/en/The_Urantia_Book/2#p0_1))
+> “The nature of God can best be understood by the revelation of the Father which Michael of Nebadon unfolded in his manifold teachings and in his superb mortal life in the flesh.” (<a id="a44_182"></a>[UB 2:0.1](/en/The_Urantia_Book/2#p0_1))
 
-> “Notwithstanding the infinity of the stupendous manifestations of the Father’s eternal and universal personality, he is unqualifiedly self-conscious of both his infinity and eternity; likewise he knows fully his perfection and power. He is the only being in the universe, aside from his divine co-ordinates, who experiences a perfect, proper, and complete appraisal of himself.” ([UB 2:1.3](/en/The_Urantia_Book/2#p1_3))
+> “Notwithstanding the infinity of the stupendous manifestations of the Father’s eternal and universal personality, he is unqualifiedly self-conscious of both his infinity and eternity; likewise he knows fully his perfection and power. He is the only being in the universe, aside from his divine co-ordinates, who experiences a perfect, proper, and complete appraisal of himself.” (<a id="a46_382"></a>[UB 2:1.3](/en/The_Urantia_Book/2#p1_3))
 
-> “The Universal Father sees the end from the beginning, and his divine plan and eternal purpose actually embrace and comprehend all the experiments and all the adventures of all his subordinates in every world, system, and constellation in every universe of his vast domains.” ([UB 2:1.4](/en/The_Urantia_Book/2#p1_4))
+> “The Universal Father sees the end from the beginning, and his divine plan and eternal purpose actually embrace and comprehend all the experiments and all the adventures of all his subordinates in every world, system, and constellation in every universe of his vast domains.” (<a id="a48_279"></a>[UB 2:1.4](/en/The_Urantia_Book/2#p1_4))
 
 No thing is new to God, and no cosmic event ever comes as a surprise; he inhabits the circle of eternity. He is without beginning or end of days. To God there is no past, present, or future; all time is present at any given moment. He is the great and only I AM.
 
-> “The Universal Father is absolutely and without qualification infinite in all his attributes; and this fact, in and of itself, automatically shuts him off from all direct personal communication with finite material beings and other lowly created intelligences.” ([UB 2:1.6](/en/The_Urantia_Book/2#p1_6))
+> “The Universal Father is absolutely and without qualification infinite in all his attributes; and this fact, in and of itself, automatically shuts him off from all direct personal communication with finite material beings and other lowly created intelligences.” (<a id="a52_265"></a>[UB 2:1.6](/en/The_Urantia_Book/2#p1_6))
 
 Communication of the Universal Father and his finite mortal creatures is, of necessity, through his associates.
 
@@ -86,7 +86,7 @@ Paul, Augustine, Aquinas, Calvin—and many others—have had an enormous influe
 
 Urantia Paper No. 2 makes an enormously important statement having the potential to eliminate much confusion in Christian dogma—doctrines such as original sin, atonement, and many other inventions of men that trace back to the erroneous logic of Paul, Augustine, and their successors:
 
-> “The affectionate heavenly Father, whose spirit indwells his children on earth, is not a divided personality—one of justice and one of mercy—neither does it require a mediator to secure the Father’s favor or forgiveness. Divine righteousness is not dominated by strict retributive justice; God as a father transcends God as a judge.” ([UB 2:6.6](/en/The_Urantia_Book/2#p6_6))
+> “The affectionate heavenly Father, whose spirit indwells his children on earth, is not a divided personality—one of justice and one of mercy—neither does it require a mediator to secure the Father’s favor or forgiveness. Divine righteousness is not dominated by strict retributive justice; God as a father transcends God as a judge.” (<a id="a88_337"></a>[UB 2:6.6](/en/The_Urantia_Book/2#p6_6))
 
 In summary: “The love and mercy of God as our Father transcends God’s righteousness as our Judge.”
 

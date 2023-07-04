@@ -46,7 +46,7 @@ If the information provided in the paragraphs below had been available to recept
 > 
 > _The presence and function of the mesotron also explains another atomic riddle. When atoms perform radioactively, they emit far more energy than would be expected. This excess of radiation is derived from the breaking up of the mesotron ”energy carrier," which thereby becomes a mere electron. The mesotronic disintegration is also accompanied by the emission of certain small uncharged particles_.
 > 
-> _The mesotron explains certain cohesive properties of the atomic nucleus, but it does not account for the cohesion of proton to proton nor for the adhesion of neutron to neutron. The paradoxical and powerful force of atomic cohesive integrity is a form of energy as yet undiscovered on Urantia_. ([UB 42:8.3-6](/en/The_Urantia_Book/42#p8_3))
+> _The mesotron explains certain cohesive properties of the atomic nucleus, but it does not account for the cohesion of proton to proton nor for the adhesion of neutron to neutron. The paradoxical and powerful force of atomic cohesive integrity is a form of energy as yet undiscovered on Urantia_. (<a id="a48_299"></a>[UB 42:8.3-6](/en/The_Urantia_Book/42#p8_3))
 
 <figure class="image urantiapedia">
 <img src="/image/article/Ken_Glasziou/Quantum_Stuff_Basic_Physics/bubble-chamber-bebc.jpg">
@@ -73,7 +73,7 @@ This force, unknown in 1934, (and for that matter in 1955 when _The Urantia Book
 
 The strong force is also responsible for proton-proton and neutron-neutron interaction–such that, for example, if just a few percent stronger (says Freeman Dyson) two protons could combine in a relatively stable form (though with distrous effects on the rate of star burn-out).
 
-The mandate to the revelators permitted “_the supplying of information which will fill in vital missing gaps in otherwise earned knowledge_.” ([UB 101:4.9](/en/The_Urantia_Book/101#p4_9)) The Urantia Papers were not in circulation before 1955, by which time the information provided in these paragraphs would have been redundant. However it does illustrate the degree of knowledge held by the authors of the Papers.
+The mandate to the revelators permitted “_the supplying of information which will fill in vital missing gaps in otherwise earned knowledge_.” (<a id="a75_143"></a>[UB 101:4.9](/en/The_Urantia_Book/101#p4_9)) The Urantia Papers were not in circulation before 1955, by which time the information provided in these paragraphs would have been redundant. However it does illustrate the degree of knowledge held by the authors of the Papers.
 
 ## External links
 

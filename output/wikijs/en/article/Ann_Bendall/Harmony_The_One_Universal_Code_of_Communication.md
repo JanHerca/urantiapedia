@@ -31,9 +31,9 @@ dateCreated: 2022-09-26T02:09:16.433Z
 </figure>
 
 
-> Harmony, the music of the seven levels of melodious association, is the one universal code of spirit communication. Music, such as Urantia mortals understand, attains its highest expression in the schools of Jerusem, . . . [UB 44:1.11](/en/The_Urantia_Book/44#p1_11)
+> Harmony, the music of the seven levels of melodious association, is the one universal code of spirit communication. Music, such as Urantia mortals understand, attains its highest expression in the schools of Jerusem, . . . <a id="a33_225"></a>[UB 44:1.11](/en/The_Urantia_Book/44#p1_11)
 
-The revelators value music. They use some interesting musical metaphors ([UB 32:5.1](/en/The_Urantia_Book/32#p5_1); [UB 195:7.20](/en/The_Urantia_Book/195#p7_20)). The term “attunement”, their desire for us with our Thought Adjuster, is a musical term. Jesus' voice from adolescence onwards is referred to as “musical.” Music is important!
+The revelators value music. They use some interesting musical metaphors (<a id="a35_73"></a>[UB 32:5.1](/en/The_Urantia_Book/32#p5_1); <a id="a35_116"></a>[UB 195:7.20](/en/The_Urantia_Book/195#p7_20)). The term “attunement”, their desire for us with our Thought Adjuster, is a musical term. Jesus' voice from adolescence onwards is referred to as “musical.” Music is important!
 
 And yet we know so little about music and its impact on the individual. There has been no research into how a composer creates his music, and many of the famous composers describe the process simply as 'hearing" the melody in their head. Researchers have studied the difference between skilled musicians and rank amateurs, the findings being mainly in the nature of enhancement of our understanding of mental processing and mind/body co-ordination.
 
@@ -63,7 +63,7 @@ Unfortunately, except for those with exceptional ability, children's musical int
 
 ## Music and Emotions
 
-> . . . only once in a thousand mortal lives is there any great appreciation of harmonics. But be not discouraged; some day a real musician may appear on Urantia, and whole peoples will be enthralled by the magnificent strains of his melodies. One such human being could forever change the course of a whole nation, even the entire civilized world. It is literally true, “melody has power a whole world to transform.” [UB 44:1.15](/en/The_Urantia_Book/44#p1_15)
+> . . . only once in a thousand mortal lives is there any great appreciation of harmonics. But be not discouraged; some day a real musician may appear on Urantia, and whole peoples will be enthralled by the magnificent strains of his melodies. One such human being could forever change the course of a whole nation, even the entire civilized world. It is literally true, “melody has power a whole world to transform.” <a id="a65_418"></a>[UB 44:1.15](/en/The_Urantia_Book/44#p1_15)
 
 For a long time humans have been aware of the power of music to transform the individual to a “higher” self.  Plato believed that “rhythm and harmony find their way into the inward places of the soul”. He regarded the study of harmony as conducive to the “liberation of the soul from the tyranny of  the senses”, which implies a similar psychological distinction between mere perception (directly dependent on sense organs) and an inbuilt, inherent response to harmonious rhythms. Plato believed that this response could lead to a state of being whereby negative emotions are dissolved and actually changed to peace and harmony with the environment.
 

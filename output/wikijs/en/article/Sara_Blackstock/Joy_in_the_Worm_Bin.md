@@ -34,7 +34,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
 </figure>
 
 
-> A Living Metaphor for “… the divine fire of the will-to-service” [[UB 48:6.34](/en/The_Urantia_Book/48#p6_34)] 
+> A Living Metaphor for “… the divine fire of the will-to-service” <a id="a36_67"></a>[[UB 48:6.34](/en/The_Urantia_Book/48#p6_34)] 
 
 _Note: The following is a talk given to the General Council in 1995 and at the Fellowship International Conference, 2008. _
 
@@ -54,7 +54,7 @@ I would reach down to the bottom of the bin, bringing up the dry dirt along with
 
 After one kid said: “I saved more than you did”, to another kid, I had to prevent them from arguing over which one had saved the most worms. The joy that was felt in the 4’by 4’ space when a comatose worm would stir after being squirted was measurable. And to top it all off, one rather serious kindergarten boy said, with a perfectly straight face, “That smells like champagne!” and of course the fermenting fruit did have a touch of such an aroma. 
 
-So what does this worm bin experience have to do with service? I doubt that this falls into the category talked about in Paper 131: “_All good works of true service come from the Supreme._” [[UB 131:8.3](/en/The_Urantia_Book/131#p8_3)] But I also think our celestial friends have a wonderful, playful sense of humor and have keen “joy sensors”. 
+So what does this worm bin experience have to do with service? I doubt that this falls into the category talked about in Paper 131: “_All good works of true service come from the Supreme._” <a id="a56_190"></a>[[UB 131:8.3](/en/The_Urantia_Book/131#p8_3)] But I also think our celestial friends have a wonderful, playful sense of humor and have keen “joy sensors”. 
 
 We read in Morontia Life Paper 48 what the ministering reserves can do for ascending mortals: they can kindle “… _a divine fire of the will-to-service._” This phrase really caught my soul’s eye, because the energy to save the worms became a metaphor for this “… _divine fire of the will-to-service._” 
 

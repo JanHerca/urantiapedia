@@ -33,7 +33,7 @@ dateCreated: 2022-09-26T02:19:42.812Z
 
 In some perspectives of Jesus’ life I consider him to be a model rather than an inspiration, and this is predominantly in relation to his life experiences.
 
-_The Urantia Book_ states that, “you cannot perceive spiritual truth until you feelingly experience it, and many truths are not felt except in adversity.” ([UB 48:7.18](/en/The_Urantia_Book/48#p7_18)—Morontia Mota)
+_The Urantia Book_ states that, “you cannot perceive spiritual truth until you feelingly experience it, and many truths are not felt except in adversity.” (<a id="a35_156"></a>[UB 48:7.18](/en/The_Urantia_Book/48#p7_18)—Morontia Mota)
 
 In looking at Jesus life I do not believe that any other human being could ever have been subjected to as much adversity during such a short life span as that which he endured. My own life experiences pale into insignificance in comparison, and I know that whatever I may be subjected to, so also was he—and far, far more.
 
@@ -63,7 +63,7 @@ And these life experiences/adversity led, at the age of twenty, to his being des
 
 > Jesus is rapidly becoming a man, not a young man, but an adult. He has learned to bear responsibility. He knows how to carry on in the face of disappointment. He bears up bravely when his plans are thwarted and his purposes temporarily defeated. He has learned how to be fair and just, even in the face of injustice. He is learning how to adjust his ideals of spiritual living to the practical demands of earthly existence. He is learning how to plan for a higher and distant goal of idealism while he toils earnestly for the attainment of a nearer and immediate goal of necessity.
 > 
-> He is steadily acquiring the art of adjusting his aspirations to the commonplace demands of the human occasion. He has very nearly mastered the technique of utilizing the energy of spiritual drive to turn the mechanism of material achievement. He is slowly learning how to live the heavenly life while he continues on with earthly existence. More and more he depends upon the ultimate guidance of his heavenly Father while he assumes the fatherly role of guiding and directing the children of his earth family. He is becoming experienced in the skilful wresting of victory from the very jaws of defeat; he is learning how to transform the difficulties of time into the triumphs of eternity. ([UB 127:6.12](/en/The_Urantia_Book/127#p6_12))
+> He is steadily acquiring the art of adjusting his aspirations to the commonplace demands of the human occasion. He has very nearly mastered the technique of utilizing the energy of spiritual drive to turn the mechanism of material achievement. He is slowly learning how to live the heavenly life while he continues on with earthly existence. More and more he depends upon the ultimate guidance of his heavenly Father while he assumes the fatherly role of guiding and directing the children of his earth family. He is becoming experienced in the skilful wresting of victory from the very jaws of defeat; he is learning how to transform the difficulties of time into the triumphs of eternity. (<a id="a65_694"></a>[UB 127:6.12](/en/The_Urantia_Book/127#p6_12))
 
 And throughout the remainder of his life his experiences included:
 
@@ -84,7 +84,7 @@ And yet he lived a life of joy! He never summated his experiences, or viewed him
 - To play with children
 - To have quiet times
 
-> “Jesus portrayed the profound surety of the God-knowing mortal when he said: ‘To a God-knowing kingdom believer, what does it matter if all things earthly crash?’ Temporal securities are vulnerable, but spiritual sureties are impregnable. When the flood tides of human adversity, selfishness, cruelty, hate, malice, and jealousy beat about the mortal soul, you may rest in the assurance that there is one inner bastion, the citadel of the spirit, which is absolutely unassailable; at least this is true of every human being who has dedicated the keeping of his soul to the indwelling spirit of the eternal God.” ([UB 100:2.7](/en/The_Urantia_Book/100#p2_7))
+> “Jesus portrayed the profound surety of the God-knowing mortal when he said: ‘To a God-knowing kingdom believer, what does it matter if all things earthly crash?’ Temporal securities are vulnerable, but spiritual sureties are impregnable. When the flood tides of human adversity, selfishness, cruelty, hate, malice, and jealousy beat about the mortal soul, you may rest in the assurance that there is one inner bastion, the citadel of the spirit, which is absolutely unassailable; at least this is true of every human being who has dedicated the keeping of his soul to the indwelling spirit of the eternal God.” (<a id="a86_615"></a>[UB 100:2.7](/en/The_Urantia_Book/100#p2_7))
 
 ## External links
 

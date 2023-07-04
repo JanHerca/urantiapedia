@@ -101,9 +101,9 @@ At first he felt anger and jealousy towards them. As an ordained minister with q
 11. Through prayer and meditation to seek to improve their conscious contact with God as they understand Him, praying only for knowledge of His will for them, and the power to carry that out.
 12. Having had a spiritual awakening as a result of these steps, to try to carry this message to alcoholics  and to practice these principles in all their affairs.
 
-> Jesus never prayed as a religious duty. To him, prayer was a transcendental surrender of will. ([UB 196:0.10](/en/The_Urantia_Book/196#p0_10))
+> Jesus never prayed as a religious duty. To him, prayer was a transcendental surrender of will. (<a id="a103_98"></a>[UB 196:0.10](/en/The_Urantia_Book/196#p0_10))
 
-> When God's will is your law, you are noble slave subjects; but when you believe in the new gospel of divine sonship, my Father's will becomes your will, and you are elevated to the high position of the free children of God, liberated sons of the kingdom. ([UB 141:2.2](/en/The_Urantia_Book/141#p2_2))
+> When God's will is your law, you are noble slave subjects; but when you believe in the new gospel of divine sonship, my Father's will becomes your will, and you are elevated to the high position of the free children of God, liberated sons of the kingdom. (<a id="a105_258"></a>[UB 141:2.2](/en/The_Urantia_Book/141#p2_2))
 
 Jabay says that these steps work, not only with alcoholics, but with mixed-up ministers. God became real to him for the first time in his life, and so, ten years after his ordination, he vacated the throne and stumbled into the kingdom.
 

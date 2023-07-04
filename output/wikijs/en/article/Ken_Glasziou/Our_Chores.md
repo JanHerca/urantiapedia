@@ -46,7 +46,7 @@ But learn that even the expression of a good thought may need to be modulated in
 
 That concludes our examples of attempting to fulfil the edicts of that page 43 request to produce a new and righteous vision of morality. The foundation of such a vision would surely need to be that we love all men regardless of what they are like. The secret in being able to do so is in the words:
 
-“_If once you understand your neighbor, you will become tolerant, and this tolerance will grow into friendship and ripen into love._” ([UB 100:4.4](/en/The_Urantia_Book/100#p4_4))
+“_If once you understand your neighbor, you will become tolerant, and this tolerance will grow into friendship and ripen into love._” (<a id="a48_135"></a>[UB 100:4.4](/en/The_Urantia_Book/100#p4_4))
 
 An academic-style philosophical work of the intensity of even the Urantia revelation seems unlikely to achieve sufficient popularity to be effective. A novel with no religious connotations but a central character who does just that possibly could do so.
 

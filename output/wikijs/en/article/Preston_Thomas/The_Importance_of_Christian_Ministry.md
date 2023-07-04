@@ -61,15 +61,15 @@ I have found that by using the Biblical record of Jesus I can effectively minist
 
 My second major reason for Christian ministry derives from _The Urantia Book_ itself. For if we look at what the Urantia Papers really teach we do not find that they direct us to spread _Urantia Books_—rather, they call for a new revelation of Jesus and his actual teachings. The following quotations should help make this clear: 
 
-> There must come a revival of the actual teachings of Jesus. . . [[UB 170:5.19](/en/The_Urantia_Book/170#p5_19)] 
+> There must come a revival of the actual teachings of Jesus. . . <a id="a63_66"></a>[[UB 170:5.19](/en/The_Urantia_Book/170#p5_19)] 
 
-> Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it. [[UB 196:1.3](/en/The_Urantia_Book/196#p1_3)] 
+> Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it. <a id="a65_118"></a>[[UB 196:1.3](/en/The_Urantia_Book/196#p1_3)] 
 
-> Modern culture must become spiritually baptized with a new revelation of Jesus’ life and illuminated with a new understanding of his gospel of eternal salvation. [[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)] 
+> Modern culture must become spiritually baptized with a new revelation of Jesus’ life and illuminated with a new understanding of his gospel of eternal salvation. <a id="a67_164"></a>[[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)] 
 
 And let us take special note of this last quote: 
 
-> Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. [[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)] 
+> Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. <a id="a71_130"></a>[[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)] 
 
 ## Christians are our Target Audience 
 
@@ -77,13 +77,13 @@ There is another aspect of Christian ministry that is important to realize: the 
 
 For example, consider this quotation from page 2082: 
 
-> . . .Christianity stands in need of new contact with the uncompromised teachings of Jesus; it languishes for lack of a new vision of the Master’s life on earth. [[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)] 
+> . . .Christianity stands in need of new contact with the uncompromised teachings of Jesus; it languishes for lack of a new vision of the Master’s life on earth. <a id="a79_163"></a>[[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)] 
 
 In Christian doctrine, an outward church has taken the place of Jesus’ inner spiritual kingdom of submission to God. But membership in the church is not equivalent to citizenship in the kingdom; one is spiritual and the other mainly social. Jesus’ spiritual kingdom still exists in those believers who are dedicated to doing the Father’s will. This brotherhood of the kingdom now slumbers within the Christian church, but it will eventually come forth. Our job is to help awaken and inspire sleeping Christians through a revival of Jesus’ actual teachings. 
 
 And we should understand that a new revelation of Jesus, which attracts and unifies all true believers, is the great goal the revelators present to us in their vision of our world’s ideal religious future. Listen to their prophetic promise from page 2086: 
 
-> The great hope of Urantia lies in the possibility of a new revelation of Jesus with a new and enlarged presentation of his saving message which would spiritually unite in loving service the numerous families of his present day professed followers. [[UB 195:10.16](/en/The_Urantia_Book/195#p10_16)] 
+> The great hope of Urantia lies in the possibility of a new revelation of Jesus with a new and enlarged presentation of his saving message which would spiritually unite in loving service the numerous families of his present day professed followers. <a id="a85_250"></a>[[UB 195:10.16](/en/The_Urantia_Book/195#p10_16)] 
 
 In sum, the clear call of the revelators is to uplift and unify Christians by turning them back to the foundation of their faith, Jesus’ original gospel of the kingdom, the good news that God is our loving heavenly Father and we are all his planetary children, sons and daughters of God. 
 
@@ -177,11 +177,11 @@ So, I urge you to make use of this book. It makes a great gift. It can be a valu
 
 I would like to close now with some words of encouragement from the _The Urantia Book_ for those who feel this call to spread Jesus’ religion in our world. Here is what the revelators say regarding our present time and the prospects for a new revelation of Jesus: 
 
-> The teachings of Jesus . . . are even now slowly triumphing over the materialism, mechanism, and secularism of the twentieth century. And such times of great testing and threatened defeat are always times of great revelation. [[UB 195:9.3](/en/The_Urantia_Book/195#p9_3)] 
+> The teachings of Jesus . . . are even now slowly triumphing over the materialism, mechanism, and secularism of the twentieth century. And such times of great testing and threatened defeat are always times of great revelation. <a id="a179_228"></a>[[UB 195:9.3](/en/The_Urantia_Book/195#p9_3)] 
 
-> The hour is striking for a rediscovery of the true and original foundations of present day distorted and compromised Christianity—the real life and teachings of Jesus. [[UB 195:9.5](/en/The_Urantia_Book/195#p9_5)] 
+> The hour is striking for a rediscovery of the true and original foundations of present day distorted and compromised Christianity—the real life and teachings of Jesus. <a id="a181_170"></a>[[UB 195:9.5](/en/The_Urantia_Book/195#p9_5)] 
 
-> A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and overcome a world sway of mechanistic naturalism. Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment. [[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)] 
+> A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and overcome a world sway of mechanistic naturalism. Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment. <a id="a183_333"></a>[[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)] 
 
 Thus we see that the time for this new revelation of Jesus is not far in the future; it is now. This means that in working for a new revelation of Jesus we are in harmony with the needs of the time. And most encouragingly, the revelators assure us of that and our prospects for success are excellent. The teachings of Jesus are destined to rule our world; this revival of Jesus and his actual teachings will be the next stage in our planet’s religious evolution. 
 

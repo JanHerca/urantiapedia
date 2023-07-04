@@ -44,7 +44,7 @@ Individuality is described in the same volume as “The character of property pe
 
 We find very little difference in Webster’s Dictionary, but _The Urantia Book_ makes a drastic distinction. When we speak of someone having a neat, nice, charming, great, wonderful, or terrific personality, we should substitute the word “individuality,” at least during our life in the flesh. A phase, or aspect, of personality could have a parallel to what we should call “individuality,” since personality unifies the identity of any living energy system, and our temperament, actions, character traits, morality—whether we are sincere and honest or hypocrites and frauds; kind or cruel, happy or sad (sulky), generous or stingy (frugal), selfish or selfless, helpful or do-gooders, fast or slow, lazy or ambitious, intelligent or dull, boring or entertaining, annoying or soothing, smiling or frowning, pleasant or disagreeable, affectionate or cold, friendly or aloof, positive or negative, mentally healthy or neurotic, Promethian or Epimethian, good, beautiful, and true or bad, ugly, and false. Many of these attributes of our “individuality” go to make up our character, our conduct, the real self.
 
-> In the human organism the summation of its parts constitutes selfhood—individuality—but such a process has nothing whatever to do with personality, which is the unifier of all these factors as related to cosmic realities. [[UB 112:1.18](/en/The_Urantia_Book/112#p1_18)]
+> In the human organism the summation of its parts constitutes selfhood—individuality—but such a process has nothing whatever to do with personality, which is the unifier of all these factors as related to cosmic realities. <a id="a46_224"></a>[[UB 112:1.18](/en/The_Urantia_Book/112#p1_18)]
 
 Dr. William S. Sadler in _The Evolution of the Soul_, says that personality is the sum total of man’s equipment and experience; it is the totality of all that man is and does. He says, “I observe personality to function upon six levels􀀀the physical, the intellectual, the emotional, the social, the moral, and the spiritual. But when I put all of the activities with their characteristics of attitude, motivation, and behavior, together, when I add them up, I find in the resultant totality of personality so much that was not observably pre-existent in these component factors, that I am inclined to become a Gestaltist and conclude that parts derive their meaning from the whole—that the whole is something more than the sum of its parts. Personality cannot be defined because it is UNIQUE—not only that each individual is a unique personality, but that selfsame individual is likewise unique at each moment of his mortal existence. Personality is something which is relatively free from the domination of the otherwise universal law of antecedent causation. WILL is a function of total personality.”
 
@@ -60,41 +60,41 @@ We know the Universal Father bestows personality on each of us; he gives us a un
 > 
 > Creature personality is distinguished by two self-manifesting and characteristic phenomena of mortal reactive behavior: self-consciousness and associated free will.
 > 
-> Self-consciousness consists in intellectual awareness of personality actuality; . . .  [[UB 16:8.4-6](/en/The_Urantia_Book/16#p8_4)]
+> Self-consciousness consists in intellectual awareness of personality actuality; . . .  <a id="a62_89"></a>[[UB 16:8.4-6](/en/The_Urantia_Book/16#p8_4)]
 
-When does personality arrive? We know that the Thought Adjuster now comes at the age of first moral choice. “_The Adjusters cannot invade the mortal mind until it has been duly prepared by the indwelling ministry of the adjutant mind-spirits and encircuited in the Holy Spirit. It requires the co-ordinate function of all seven adjutants to thus qualify the human mind for the reception of an Adjuster. Creature mind must exhibit the worship outreach and indicate wisdom function by exhibiting the ability to choose between the emerging values of good and evil􀀀moral choice._” [[UB 108:2.2](/en/The_Urantia_Book/108#p2_2)]
+When does personality arrive? We know that the Thought Adjuster now comes at the age of first moral choice. “_The Adjusters cannot invade the mortal mind until it has been duly prepared by the indwelling ministry of the adjutant mind-spirits and encircuited in the Holy Spirit. It requires the co-ordinate function of all seven adjutants to thus qualify the human mind for the reception of an Adjuster. Creature mind must exhibit the worship outreach and indicate wisdom function by exhibiting the ability to choose between the emerging values of good and evil􀀀moral choice._” <a id="a64_578"></a>[[UB 108:2.2](/en/The_Urantia_Book/108#p2_2)]
 
-> Only a personality can know what it is doing before it does it; only personality…can look before it leaps and can therefore learn from looking as well as from leaping. A non-personal animal ordinarily learns only by leaping. [[UB 16:7.3](/en/The_Urantia_Book/16#p7_3)]
+> Only a personality can know what it is doing before it does it; only personality…can look before it leaps and can therefore learn from looking as well as from leaping. A non-personal animal ordinarily learns only by leaping. <a id="a66_227"></a>[[UB 16:7.3](/en/The_Urantia_Book/16#p7_3)]
 
-The seventh group of worlds encircling Salvington are the Worlds of the Archangels. All “_are occupied by the personality record keepers. This enormous corps of recorders busy themselves with keeping straight the record of each mortal of time from the moment of birth up through the universe career until such an individual either leaves Salvington for the superuniverse regime or is ‘blotted out of recorded existence’ by the mandate of the Ancients of Days._” [[UB 37:3.7](/en/The_Urantia_Book/37#p3_7)]
+The seventh group of worlds encircling Salvington are the Worlds of the Archangels. All “_are occupied by the personality record keepers. This enormous corps of recorders busy themselves with keeping straight the record of each mortal of time from the moment of birth up through the universe career until such an individual either leaves Salvington for the superuniverse regime or is ‘blotted out of recorded existence’ by the mandate of the Ancients of Days._” <a id="a68_462"></a>[[UB 37:3.7](/en/The_Urantia_Book/37#p3_7)]
 
 What is a will creature? We know this has something to do with personality, but let us get some definitions.
 
-> When the Life Carriers operating on a new world have once succeeded in producing a being with will, with the power of moral decision and spiritual choice, then and there their work terminates. . . . [[UB 36:3.8](/en/The_Urantia_Book/36#p3_8)]
+> When the Life Carriers operating on a new world have once succeeded in producing a being with will, with the power of moral decision and spiritual choice, then and there their work terminates. . . . <a id="a72_201"></a>[[UB 36:3.8](/en/The_Urantia_Book/36#p3_8)]
 
-> . . . For ages we had been on duty, assisted only by the seven adjutant mind-spirits and the Master Physical Controllers. And now, will, the power of choosing to worship and to ascend, having appeared in the evolutionary creatures of the planet, we realized that our work was finished, . . . [[UB 62:7.6](/en/The_Urantia_Book/62#p7_6)]
+> . . . For ages we had been on duty, assisted only by the seven adjutant mind-spirits and the Master Physical Controllers. And now, will, the power of choosing to worship and to ascend, having appeared in the evolutionary creatures of the planet, we realized that our work was finished, . . . <a id="a74_294"></a>[[UB 62:7.6](/en/The_Urantia_Book/62#p7_6)]
 
-> [Andon and Fonta’s] vague feeling of being something more than mere animals was due to the possession of personality and was augmented by the indwelling presence of the Thought Adjuster. [[UB 63:1.4](/en/The_Urantia_Book/63#p1_4)]
+> [Andon and Fonta’s] vague feeling of being something more than mere animals was due to the possession of personality and was augmented by the indwelling presence of the Thought Adjuster. <a id="a76_189"></a>[[UB 63:1.4](/en/The_Urantia_Book/63#p1_4)]
 
-> [The level of the seventh psychic circle] is entered when human beings develop the powers of personal choice, individual decision, moral responsibility, and the capacity for the attainment of spiritual individuality. [[UB 110:6.13](/en/The_Urantia_Book/110#p6_13)]
+> [The level of the seventh psychic circle] is entered when human beings develop the powers of personal choice, individual decision, moral responsibility, and the capacity for the attainment of spiritual individuality. <a id="a78_219"></a>[[UB 110:6.13](/en/The_Urantia_Book/110#p6_13)]
 
-> Entrance upon the seventh [psychic] circle marks the beginning of true human personality function.[[UB 110:6.1](/en/The_Urantia_Book/110#p6_1)]
+> Entrance upon the seventh [psychic] circle marks the beginning of true human personality function.<a id="a80_100"></a>[[UB 110:6.1](/en/The_Urantia_Book/110#p6_1)]
 
-> The successful traversal of these [circles—from the seventh to the first,] demands the harmonious function of the entire personality, not merely of some one phase thereof. The growth of the parts does not equal the true maturation of the whole; the parts really grow in proportion to the expansion of the entire self—the whole self—material, intellectual, and spiritual. [[UB 110:6.3](/en/The_Urantia_Book/110#p6_3)]
+> The successful traversal of these [circles—from the seventh to the first,] demands the harmonious function of the entire personality, not merely of some one phase thereof. The growth of the parts does not equal the true maturation of the whole; the parts really grow in proportion to the expansion of the entire self—the whole self—material, intellectual, and spiritual. <a id="a82_373"></a>[[UB 110:6.3](/en/The_Urantia_Book/110#p6_3)]
 
 The words “personalize,” “personalization,” and “personification” are sometimes used in the Papers as an act of “making real.” Some examples are:
 
-> Much as the Creator Sons are personalized by the Father and the Son, so are the Magisterial Sons personalized by the Son and the Spirit. [[UB 7:6.5](/en/The_Urantia_Book/7#p6_5)]
+> Much as the Creator Sons are personalized by the Father and the Son, so are the Magisterial Sons personalized by the Son and the Spirit. <a id="a86_139"></a>[[UB 7:6.5](/en/The_Urantia_Book/7#p6_5)]
 
-> . . . when the forth-ninth Reflective Spirit has personalized, then a new and far-reaching reaction occurred in the Deity Absolute which imparted new personality prerogatives to the Supreme Being and culminated in the personalization of Majeston, the reflectivity chief and Paradise center of all the work of the forty-nine Reflective Spirits . . . [[UB 17:2.2](/en/The_Urantia_Book/17#p2_2)]
+> . . . when the forth-ninth Reflective Spirit has personalized, then a new and far-reaching reaction occurred in the Deity Absolute which imparted new personality prerogatives to the Supreme Being and culminated in the personalization of Majeston, the reflectivity chief and Paradise center of all the work of the forty-nine Reflective Spirits . . . <a id="a88_351"></a>[[UB 17:2.2](/en/The_Urantia_Book/17#p2_2)]
 
-> Our Creator Son is the personification of the 611,121st original concept of infinite identity of simultaneous origin in the Universal Father and the Eternal Son. [[UB 33.1.1](/en/The_Urantia_Book/33#p1_1)]
+> Our Creator Son is the personification of the 611,121st original concept of infinite identity of simultaneous origin in the Universal Father and the Eternal Son. <a id="a90_164"></a>[[UB 33.1.1](/en/The_Urantia_Book/33#p1_1)]
 
-> You mortals are persons; hence we can describe beings who are personalized, but how could an absonitized being ever be explained to you? [[UB 30:1.114](/en/The_Urantia_Book/30#p1_114)]
+> You mortals are persons; hence we can describe beings who are personalized, but how could an absonitized being ever be explained to you? <a id="a92_139"></a>[[UB 30:1.114](/en/The_Urantia_Book/30#p1_114)]
 
-> Jesus was the perfectly unified personality. “Although the average mortal of Urantia cannot hope to attain the high perfection of character which Jesus of Nazareth acquired while sojourning in the flesh, it is altogether possible for every mortal believer to develop a strong and unified personality along the perfected lines of the Jesus personality. The unique feature of the Master’s personality was not so much its perfection as its symmetry, its exquisite and balanced unification.” [[UB 100:7.1](/en/The_Urantia_Book/100#p7_1)]
+> Jesus was the perfectly unified personality. “Although the average mortal of Urantia cannot hope to attain the high perfection of character which Jesus of Nazareth acquired while sojourning in the flesh, it is altogether possible for every mortal believer to develop a strong and unified personality along the perfected lines of the Jesus personality. The unique feature of the Master’s personality was not so much its perfection as its symmetry, its exquisite and balanced unification.” <a id="a94_490"></a>[[UB 100:7.1](/en/The_Urantia_Book/100#p7_1)]
 
-> . . . Christ Michael, while truly a dual-origin being, was not a double personality. . . . [[UB 120:4.2](/en/The_Urantia_Book/120#p4_2)]
+> . . . Christ Michael, while truly a dual-origin being, was not a double personality. . . . <a id="a96_93"></a>[[UB 120:4.2](/en/The_Urantia_Book/120#p4_2)]
 
 _The Urantia Book_ does not stifle imagination with an over-revelation. It stimulates and encourages speculation and conjecture. So shall we?
 
@@ -102,7 +102,7 @@ What can personality do for an individual without the Thought Adjuster? We are g
 
 Would a consistent, loving Father give his gift of personality to a mortal—the unique freewill choice to unify the individual and the ability to choose to make His will their will—without the Thought Adjuster, the absolute ingredient necessary for the birth of the soul and for spirit direction? Only with the arrival of the Thought Adjuster is there a soul born, and without a soul there is no survival.
 
-> . . . capacity for human personality is potential in the cosmic-mind endowment of the human being. But the experiential personality of mortal man is not observable as an active and functional reality until after the material life vehicle of the mortal creature has been touched by the liberating divinity of the Universal Father, being thus launched upon the seas of experience as a self-conscious and a (relatively) self-determinative and self-creative personality. The material self is truly and _unqualifiedly personal_. [[UB 5:6.6](/en/The_Urantia_Book/5#p6_6)]
+> . . . capacity for human personality is potential in the cosmic-mind endowment of the human being. But the experiential personality of mortal man is not observable as an active and functional reality until after the material life vehicle of the mortal creature has been touched by the liberating divinity of the Universal Father, being thus launched upon the seas of experience as a self-conscious and a (relatively) self-determinative and self-creative personality. The material self is truly and _unqualifiedly personal_. <a id="a104_526"></a>[[UB 5:6.6](/en/The_Urantia_Book/5#p6_6)]
 
 The Papers tell me that human, personal, free will functioned on this planet when, and only when, all seven adjutant mind spirits functioned. Evolution proceeded, Michael came, left, and sent his Spirit of Truth. Since that time, the Thought Adjusters unfailingly come automatically the instant the spirit of wisdom, the seventh adjutant mind spirit, functions—the same time we become “will creatures”—or personality becomes apparent.
 
@@ -110,7 +110,7 @@ Although the Papers say the personality is antecedent to the Thought Adjuster, d
 
 Since this priceless power of choice comes with our gift of personality from the Universal Father; since the Thought Adjuster is subservient to its choosing; and since they start functioning in our minds practically simultaneously; could we have underestimated the importance of the gift of personality?
 
-We do know “_No personal creature can be coerced into the eternal adventure; the portal of eternity opens only in response to the freewill choice of the freewill sons of the God of free will._” [[UB 5:6.12](/en/The_Urantia_Book/5#p6_12)]
+We do know “_No personal creature can be coerced into the eternal adventure; the portal of eternity opens only in response to the freewill choice of the freewill sons of the God of free will._” <a id="a112_194"></a>[[UB 5:6.12](/en/The_Urantia_Book/5#p6_12)]
 
 ---
 

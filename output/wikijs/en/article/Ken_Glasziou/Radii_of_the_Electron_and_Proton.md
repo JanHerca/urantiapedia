@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> “If the mass of matter should be magnified until that of an electron equaled one tenth of an ounce, then were the size to be proportionately magnified, the volume of such an electron would become as large as the earth.” ([UB 42:6](/en/The_Urantia_Book/42#p6))
+> “If the mass of matter should be magnified until that of an electron equaled one tenth of an ounce, then were the size to be proportionately magnified, the volume of such an electron would become as large as the earth.” (<a id="a36_223"></a>[UB 42:6](/en/The_Urantia_Book/42#p6))
 
 I’ve often wondered how many Urantia Book readers went to the trouble of working through the sums and then put their answer to one side in puzzlement. For it was not until about 1990 that this statement started to make any sense.
 
@@ -60,7 +60,7 @@ The question posed is how could such an estimate have been made more than fifty 
 
 The Urantia Paper also has:
 
-> “If the volume of a proton—eighteen hundred times as heavy as an electron—should be magnified to the size of the head of a pin, then, in comparison, a pin’s head would attain a diameter equal to that of the earth’s orbit around the sun.” ([UB 42:6](/en/The_Urantia_Book/42#p6))
+> “If the volume of a proton—eighteen hundred times as heavy as an electron—should be magnified to the size of the head of a pin, then, in comparison, a pin’s head would attain a diameter equal to that of the earth’s orbit around the sun.” (<a id="a62_241"></a>[UB 42:6](/en/The_Urantia_Book/42#p6))
 
 Again, we are indebted to Stefan Tallqvist for going to the trouble of actually doing the calculations and drawing attention to the results.
 

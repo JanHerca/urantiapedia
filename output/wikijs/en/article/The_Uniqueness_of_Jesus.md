@@ -31,11 +31,11 @@ dateCreated: 2022-09-27T00:09:11.694Z
 </figure>
 
 
-From the commencement of his public ministry onwards to his crucifixion, Jesus’ life was lived as a revelation of the nature of God and in accordance with the constraints imposed by the pact with Immanuel spelled out in Urantia Paper 120 ([UB 120:1.1](/en/The_Urantia_Book/120#p1_1)).
+From the commencement of his public ministry onwards to his crucifixion, Jesus’ life was lived as a revelation of the nature of God and in accordance with the constraints imposed by the pact with Immanuel spelled out in Urantia Paper 120 (<a id="a33_239"></a>[UB 120:1.1](/en/The_Urantia_Book/120#p1_1)).
 
-Among these commitments we find Immanuel counselling: “*that you assume, after you are sufficiently self-conscious of your divine identity, the additional task of technically terminating the Lucifer rebellion. . . .*” ([UB 120:2.2](/en/The_Urantia_Book/120#p2_2))
+Among these commitments we find Immanuel counselling: “*that you assume, after you are sufficiently self-conscious of your divine identity, the additional task of technically terminating the Lucifer rebellion. . . .*” (<a id="a35_219"></a>[UB 120:2.2](/en/The_Urantia_Book/120#p2_2))
 
-And: “*Exhibit in your one short life in the flesh, as it has never before been seen in all Nebadon, the transcendent possibilities **attainable** by a God-knowing human during the short career of mortal existence*.” ([UB 120:2.8](/en/The_Urantia_Book/120#p2_8))
+And: “*Exhibit in your one short life in the flesh, as it has never before been seen in all Nebadon, the transcendent possibilities **attainable** by a God-knowing human during the short career of mortal existence*.” (<a id="a37_218"></a>[UB 120:2.8](/en/The_Urantia_Book/120#p2_8))
 
 This phase of Jesus’ life on Urantia commenced only after his baptism by John. Hence, it is to the social structure of Israel during the period of his post-baptismal public ministry that we must look in order to gain an understanding of what Jesus was seeking to demonstrate as a set of transcendent possibilities attainable by his followers.
 

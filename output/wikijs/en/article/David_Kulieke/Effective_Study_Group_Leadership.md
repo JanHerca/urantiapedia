@@ -39,11 +39,11 @@ There was a young man walking down a street one day who saw three people struggl
 
 This little story illustrates a point that is made in Paper 81: 
 
-> Ten men are of little more value than one in lifting a great load unless they lift together—all at the same moment. [[UB 81:6.37](/en/The_Urantia_Book/81#p6_37)] 
+> Ten men are of little more value than one in lifting a great load unless they lift together—all at the same moment. <a id="a41_118"></a>[[UB 81:6.37](/en/The_Urantia_Book/81#p6_37)] 
 
 But _The Urantia Book_ also describes what can happen when people do work together: 
 
-> A social group of human beings in co-ordinated working harmony stands for a force far greater than the simple sum of its parts. [[UB 133:5.6](/en/The_Urantia_Book/133#p5_6)] 
+> A social group of human beings in co-ordinated working harmony stands for a force far greater than the simple sum of its parts. <a id="a45_130"></a>[[UB 133:5.6](/en/The_Urantia_Book/133#p5_6)] 
 
 The Urantia Revelation needs our groups and our group leaders to function as well as they can if we are to prosper. We are all dedicated to improving and to growing the number of _Urantia Book_ study groups. Like you I yearn to enhance my study group’s spirituality, to maintain or improve our quality of study, and to create more stability and community. We can all always improve what we do. 
 
@@ -51,7 +51,7 @@ I’m often reminded of an image from a recent political campaign, the vision of
 
 If our Urantia groups are to burst forward with new vigor and success, these groups must depend very much on their leadership. Let’s enlarge on the first quotation we read: 
 
-> In civilization much, very much, depends on an enthusiastic and effective load-pulling spirit. Ten men are of little more value than one in lifting a great load unless they lift together—all at the same moment. And such teamwork —social co-operation—is dependent on leadership. The cultural civilizations of the past and the present have been based upon the intelligent co-operation of the citizenry with wise and progressive leaders; and until man evolves to higher levels, civilization will continue to be dependent on wise and vigorous leadership. [[UB 81:6.37](/en/The_Urantia_Book/81#p6_37)] 
+> In civilization much, very much, depends on an enthusiastic and effective load-pulling spirit. Ten men are of little more value than one in lifting a great load unless they lift together—all at the same moment. And such teamwork —social co-operation—is dependent on leadership. The cultural civilizations of the past and the present have been based upon the intelligent co-operation of the citizenry with wise and progressive leaders; and until man evolves to higher levels, civilization will continue to be dependent on wise and vigorous leadership. <a id="a53_553"></a>[[UB 81:6.37](/en/The_Urantia_Book/81#p6_37)] 
 
 Such “_wise and vigorous_” leaders must understand what issues they will address and how they will address them. I believe that three major concerns that study groups face are the needs for increased but real spirituality within our groups, improved study of _The Urantia Book_, and greater attention paid to improving our sense of community. Wise and vigorous leadership will consider how to gracefully and appropriately enhance prayer and worship, effective study, and strong relationships within their groups. 
 
@@ -61,39 +61,39 @@ _The Urantia Book_ makes clear the value of group prayer and worship, and a sign
 
 Bill Sadler said “_The Urantia Book is not an end in itself; it is a means to an end._” I’ve actually heard this idea many times and said it myself. It should be obvious; after all, the physical reality of _The Urantia Book_ is nothing more than processed wood containing black abstract symbols on a white page that must be translated into words and then turned into facts, knowledge, meaning, and values. If applied, these values can eventually lead to relationships between personalities, including between us and God—finally, ends in themselves. So actually the book is a means to a means to a means to—well, you get the idea—to an end. 
 
-Some of our most important goals or ends are clearly stated in the oft-quoted passage from the paper “_Personality Survival_”: _Everything nonspiritual in human experience, excepting personality, is a means to an end. Every true relationship of mortal man with other persons—human or divine—is an end in itself._ [[UB 112:2.8](/en/The_Urantia_Book/112#p2_8)] 
+Some of our most important goals or ends are clearly stated in the oft-quoted passage from the paper “_Personality Survival_”: _Everything nonspiritual in human experience, excepting personality, is a means to an end. Every true relationship of mortal man with other persons—human or divine—is an end in itself._ <a id="a63_313"></a>[[UB 112:2.8](/en/The_Urantia_Book/112#p2_8)] 
 
-We are also told that: _Spiritual experience is the real soul of man’s cosmos._ [[UB 102:4.6](/en/The_Urantia_Book/102#p4_6)] 
+We are also told that: _Spiritual experience is the real soul of man’s cosmos._ <a id="a65_80"></a>[[UB 102:4.6](/en/The_Urantia_Book/102#p4_6)] 
 
 Although _The Urantia Book_ strongly emphasizes our personal relationship with God as our most important spiritual activity, the book also encourages us to pray and worship in our groups. 
 
-We read: “_…prayer need not always be individual. Group or congregational praying is very effective in that it is highly socializing in its repercussions. When a group engages in community prayer for moral enhancement and spiritual uplift, such devotions are reactive upon the individuals composing the group; they are all made better because of participation._” [[UB 91:5.2](/en/The_Urantia_Book/91#p5_2)] 
+We read: “_…prayer need not always be individual. Group or congregational praying is very effective in that it is highly socializing in its repercussions. When a group engages in community prayer for moral enhancement and spiritual uplift, such devotions are reactive upon the individuals composing the group; they are all made better because of participation._” <a id="a69_363"></a>[[UB 91:5.2](/en/The_Urantia_Book/91#p5_2)] 
 
-I have frequently heard discussed the importance of bringing more spirituality into our study groups. That such a desire exists is not surprising. Historically, early readers sought to avoid turning our study of _The Urantia Book_ into a church, perhaps because of their own experiences, perhaps because they wanted to avoid any sort of authoritative interpretation or ecclesiastical hierarchy. But the atmosphere of a study group may not lead to worship and prayer as readily as does that of a church or temple wherein rituals and prescribed approaches to worship exist in buildings designed for that purpose. However, _The Urantia Book_ clearly suggests that we do benefit from group prayer, thankfulness, and worship: “_Thus does the mind of one augment its spiritual values by gaining much of the insight of the other. In this way men enrich the soul by pooling their respective spiritual possessions._” [[UB 160:2.7](/en/The_Urantia_Book/160#p2_7)] 
+I have frequently heard discussed the importance of bringing more spirituality into our study groups. That such a desire exists is not surprising. Historically, early readers sought to avoid turning our study of _The Urantia Book_ into a church, perhaps because of their own experiences, perhaps because they wanted to avoid any sort of authoritative interpretation or ecclesiastical hierarchy. But the atmosphere of a study group may not lead to worship and prayer as readily as does that of a church or temple wherein rituals and prescribed approaches to worship exist in buildings designed for that purpose. However, _The Urantia Book_ clearly suggests that we do benefit from group prayer, thankfulness, and worship: “_Thus does the mind of one augment its spiritual values by gaining much of the insight of the other. In this way men enrich the soul by pooling their respective spiritual possessions._” <a id="a71_908"></a>[[UB 160:2.7](/en/The_Urantia_Book/160#p2_7)] 
 
 Yet how we bring our spiritual communion into a group can be a delicate undertaking and a challenge for study group leaders. One group I was in debated the proposal for a mandated prayer to start each meeting, while others wanted only a moment of silence, and others wanted no prayer at all. We compromised by making it voluntary for the leader of each meeting. Many sincere readers are quite uncomfortable with group devotions, whether due to form, to being asked to engage in an activity that is personally uncomfortable, to one’s own religious background, to a discomfort with an approach that feels mystical, or to myriad other reasons. We must be mindful of the sensibilities of group members if they are to remain group members. Consequently, the group needs a strong understanding of what _The Urantia Book_ actually teaches us about our spiritual communions. There are many references about effective and ethical prayer which include descriptions both of questionable as well as genuine approaches. 
 
 We read: 
 
-> “Do not be so slothful as to ask God to solve your difficulties, but never hesitate to ask him for wisdom and spiritual strength to guide and sustain you while you yourself resolutely and courageously attack the problems at hand.” [[UB 91:6.5](/en/The_Urantia_Book/91#p6_5)] 
+> “Do not be so slothful as to ask God to solve your difficulties, but never hesitate to ask him for wisdom and spiritual strength to guide and sustain you while you yourself resolutely and courageously attack the problems at hand.” <a id="a77_233"></a>[[UB 91:6.5](/en/The_Urantia_Book/91#p6_5)] 
 
-> Prayer may not be employed to avoid the delays of time or to transcend the handicaps of space. [[UB 146:2.9](/en/The_Urantia_Book/146#p2_9)] 
+> Prayer may not be employed to avoid the delays of time or to transcend the handicaps of space. <a id="a79_97"></a>[[UB 146:2.9](/en/The_Urantia_Book/146#p2_9)] 
 
-> Prayer must never be so prostituted as to become a substitute for action. [[UB 91:4.2](/en/The_Urantia_Book/91#p4_2)] 
+> Prayer must never be so prostituted as to become a substitute for action. <a id="a81_76"></a>[[UB 91:4.2](/en/The_Urantia_Book/91#p4_2)] 
 
-> True praying is the sincere attitude of reaching heavenward for the attainment of your ideals. [[UB 144:2.2](/en/The_Urantia_Book/144#p2_2)] In all your praying be fair; do not expect God to show partiality, to love you more than his other children, your friends, neighbors, even enemies. [[UB 91:4.3](/en/The_Urantia_Book/91#p4_3)] 
+> True praying is the sincere attitude of reaching heavenward for the attainment of your ideals. <a id="a83_97"></a>[[UB 144:2.2](/en/The_Urantia_Book/144#p2_2)] In all your praying be fair; do not expect God to show partiality, to love you more than his other children, your friends, neighbors, even enemies. <a id="a83_291"></a>[[UB 91:4.3](/en/The_Urantia_Book/91#p4_3)] 
 
-> Remember, even if prayer does not change God, it very often effects great and lasting changes in the one who prays . . . [[UB 91:4.5](/en/The_Urantia_Book/91#p4_5)] 
+> Remember, even if prayer does not change God, it very often effects great and lasting changes in the one who prays . . . <a id="a85_123"></a>[[UB 91:4.5](/en/The_Urantia_Book/91#p4_5)] 
 
-_The Urantia Book_ warns of certain kinds of mysticism: “_Mysticism… is often something of a retreat from life which is embraced by those humans who do not relish the more robust activities of living a religious life in the open arenas of human society and commerce. True religion must act._” [[UB 102:2.8](/en/The_Urantia_Book/102#p2_8)] When prayer becomes overmuch aesthetic…, “_it loses much of its socializing influence and ends toward mysticism and the isolation of its devotees. There is a certain danger associated with overmuch private praying which is corrected and prevented by group praying, community devotions._” [[UB 91:7.13](/en/The_Urantia_Book/91#p7_13)] 
+_The Urantia Book_ warns of certain kinds of mysticism: “_Mysticism… is often something of a retreat from life which is embraced by those humans who do not relish the more robust activities of living a religious life in the open arenas of human society and commerce. True religion must act._” <a id="a87_293"></a>[[UB 102:2.8](/en/The_Urantia_Book/102#p2_8)] When prayer becomes overmuch aesthetic…, “_it loses much of its socializing influence and ends toward mysticism and the isolation of its devotees. There is a certain danger associated with overmuch private praying which is corrected and prevented by group praying, community devotions._” <a id="a87_627"></a>[[UB 91:7.13](/en/The_Urantia_Book/91#p7_13)] 
 
-Study group leaders also may consider what _The Urantia Book_ says about our actual working relationships with our Thought Adjusters as these leaders try to make their groups’ prayer and worship practices valid and attractive: We are told: “_Every decision you make either impedes or facilitates the function of the Adjuster . . ._” [[UB 110:6.6](/en/The_Urantia_Book/110#p6_6)] 
+Study group leaders also may consider what _The Urantia Book_ says about our actual working relationships with our Thought Adjusters as these leaders try to make their groups’ prayer and worship practices valid and attractive: We are told: “_Every decision you make either impedes or facilitates the function of the Adjuster . . ._” <a id="a89_333"></a>[[UB 110:6.6](/en/The_Urantia_Book/110#p6_6)] 
 
-> You must not regard co-operation with your Adjuster as a particularly conscious process, for it is not. . . [[UB 110:3.6](/en/The_Urantia_Book/110#p3_6)] 
+> You must not regard co-operation with your Adjuster as a particularly conscious process, for it is not. . . <a id="a91_110"></a>[[UB 110:3.6](/en/The_Urantia_Book/110#p3_6)] 
 
-> While the voice of the Adjuster is ever within you, most of you will hear it seldom during a lifetime. [[UB 110:7.9](/en/The_Urantia_Book/110#p7_9)] 
+> While the voice of the Adjuster is ever within you, most of you will hear it seldom during a lifetime. <a id="a93_105"></a>[[UB 110:7.9](/en/The_Urantia_Book/110#p7_9)] 
 
-> … it is dangerous to entertain the idea that every new concept originating in the human mind is the dictation of the Adjuster. More often, in beings of your order, that which you accept as the Adjuster’s voice is in reality the emanation of your own intellect. [[UB 110:5.6](/en/The_Urantia_Book/110#p5_6)] 
+> … it is dangerous to entertain the idea that every new concept originating in the human mind is the dictation of the Adjuster. More often, in beings of your order, that which you accept as the Adjuster’s voice is in reality the emanation of your own intellect. <a id="a95_263"></a>[[UB 110:5.6](/en/The_Urantia_Book/110#p5_6)] 
 
 It is difficult to fully please every member of the group when it comes to instilling group practices of prayer and worship. However, group leaders might consider including the welfare of their groups when they are praying and wor shiping individually. Remember the book’s suggestions for “_worshipful problem solving,_” a consistent habit of Jesus. 
 
@@ -109,27 +109,27 @@ Thus, one of the most important tasks for study group leaders is to help readers
 
 Several references support this idea: 
 
-> The divine spirit makes contact with mortal man, not by feelings or emotions, but in the realm of the highest and most spiritualized thinking. It is your thoughts, not your feelings, that lead you Godward. [[UB 101:1.3](/en/The_Urantia_Book/101#p1_3)]
+> The divine spirit makes contact with mortal man, not by feelings or emotions, but in the realm of the highest and most spiritualized thinking. It is your thoughts, not your feelings, that lead you Godward. <a id="a111_208"></a>[[UB 101:1.3](/en/The_Urantia_Book/101#p1_3)]
 
-> Material mind is the arena in which human personalities live, are self-conscious, make decisions, choose God or forsake him, eternalize or destroy themselves. [[UB 111:1.3](/en/The_Urantia_Book/111#p1_3)]
+> Material mind is the arena in which human personalities live, are self-conscious, make decisions, choose God or forsake him, eternalize or destroy themselves. <a id="a113_161"></a>[[UB 111:1.3](/en/The_Urantia_Book/111#p1_3)]
 
-> … to start such a magnificent and intriguing adventure through space by means of the progression of time, [mortal man] should begin by the organization of knowledge into idea-decisions…. [[UB 101:6.7](/en/The_Urantia_Book/101#p6_7)] 
+> … to start such a magnificent and intriguing adventure through space by means of the progression of time, [mortal man] should begin by the organization of knowledge into idea-decisions…. <a id="a115_189"></a>[[UB 101:6.7](/en/The_Urantia_Book/101#p6_7)] 
 
 We also see this emphasis on human learning in the life of Jesus. The primary mission of Michael’s bestowal on Urantia was that of God knowing man, of the Creator Son of Nebadon enhancing his comprehension of and empathy for his creatures. Jesus’ education while on earth was supreme, and he learned all that he could about human beings even as he loved them. He worked in many professions and became expert in several, he traveled where he could throughout the civilized world, and he was a scholar of religion and history and everything human. 
 
 Regarding Jesus’ life-long learning, we are told that: 
 
-> As a child [Jesus] accumulated a vast body of knowledge; as a youth he sorted, classified, and correlated this information; and now as a man of the realm he begins to organize these mental possessions preparatory to utilization in his subsequent teaching, ministry, and service …[[UB 127:6.14](/en/The_Urantia_Book/127#p6_14)] 
+> As a child [Jesus] accumulated a vast body of knowledge; as a youth he sorted, classified, and correlated this information; and now as a man of the realm he begins to organize these mental possessions preparatory to utilization in his subsequent teaching, ministry, and service …<a id="a121_281"></a>[[UB 127:6.14](/en/The_Urantia_Book/127#p6_14)] 
 
-> The teachings of Jesus constituted the first Urantian religion which so fully embraced a harmonious co-ordination of knowledge, wisdom, faith, truth, and love… [[UB 101:6.8](/en/The_Urantia_Book/101#p6_8)]
+> The teachings of Jesus constituted the first Urantian religion which so fully embraced a harmonious co-ordination of knowledge, wisdom, faith, truth, and love… <a id="a123_162"></a>[[UB 101:6.8](/en/The_Urantia_Book/101#p6_8)]
 
 Like Jesus, a major task of our Urantia careers is to learn all that we can about others and about the world around us. I would suggest that not only do we want to study _The Urantia Book_ as well as we can in our study groups, we want to educate ourselves individually about other subjects as well. I am an English and music teacher, but I believe that, after everything we study for our vocations and our interests, some primary intellectual pursuits include history and then integrating all that we learn. We are told that: 
 
-> Revealed religion is the unifying element of human existence. Revelation unifies history, co-ordinates geology, astronomy, physics, chemistry, biology, sociology, and psychology. [[UB 102:4.6](/en/The_Urantia_Book/102#p4_6)] 
+> Revealed religion is the unifying element of human existence. Revelation unifies history, co-ordinates geology, astronomy, physics, chemistry, biology, sociology, and psychology. <a id="a127_181"></a>[[UB 102:4.6](/en/The_Urantia_Book/102#p4_6)] 
 
-> At first life was a struggle for existence; now, for a standard of living; next it will be for quality of thinking, the coming earthly goal of human existence. [[UB 81:6.28](/en/The_Urantia_Book/81#p6_28)] 
+> At first life was a struggle for existence; now, for a standard of living; next it will be for quality of thinking, the coming earthly goal of human existence. <a id="a129_162"></a>[[UB 81:6.28](/en/The_Urantia_Book/81#p6_28)] 
 
-> It is the purpose of education to develop and sharpen these innate endowments of the human mind; of civilization to express them; of life experience to realize them; of religion to ennoble them; and of personality to unify them. [[UB 16:6.11](/en/The_Urantia_Book/16#p6_11)] 
+> It is the purpose of education to develop and sharpen these innate endowments of the human mind; of civilization to express them; of life experience to realize them; of religion to ennoble them; and of personality to unify them. <a id="a131_231"></a>[[UB 16:6.11](/en/The_Urantia_Book/16#p6_11)] 
 
 ## How to Study More Effectively 
 
@@ -153,7 +153,7 @@ I do not believe we should ever apologize for seeking to improve the quality of 
 
 We read that: 
 
-> “When the development of the intellectual nature proceeds faster than that of the spiritual, such a situation renders communication with the Thought Adjuster both difficult and dangerous. Likewise, overspiritual development tends to produce a fanatical and perverted interpretation of the spirit leadings of the divine indweller.” [[UB 110:6.4](/en/The_Urantia_Book/110#p6_4)] 
+> “When the development of the intellectual nature proceeds faster than that of the spiritual, such a situation renders communication with the Thought Adjuster both difficult and dangerous. Likewise, overspiritual development tends to produce a fanatical and perverted interpretation of the spirit leadings of the divine indweller.” <a id="a155_333"></a>[[UB 110:6.4](/en/The_Urantia_Book/110#p6_4)] 
 
 Balance is the key. 
 
@@ -163,15 +163,15 @@ Besides addressing prayer and worship, as well as seeking improved study, study 
 
 We are told: 
 
-> “Personality cannot very well perform in isolation. Man is innately a social creature; he is dominated by the craving of belongingness. It is literally true, “_No man lives unto himself.” [[UB 112:1.16](/en/The_Urantia_Book/112#p1_16)] 
+> “Personality cannot very well perform in isolation. Man is innately a social creature; he is dominated by the craving of belongingness. It is literally true, “_No man lives unto himself.” <a id="a165_190"></a>[[UB 112:1.16](/en/The_Urantia_Book/112#p1_16)] 
 
-> The Creators well know that it is “_not good for man to be alone,_” and provision is accordingly made for companionship, even on Paradise. [[UB 25:8.4](/en/The_Urantia_Book/25#p8_4)] 
+> The Creators well know that it is “_not good for man to be alone,_” and provision is accordingly made for companionship, even on Paradise. <a id="a167_141"></a>[[UB 25:8.4](/en/The_Urantia_Book/25#p8_4)] 
 
 If no one had mentioned anything about study groups, we would have invented them, not only for the sake of group prayer and enhanced study but for the sake of relationship and community. 
 
-> There is a real purpose in the socialization of religion. It is the purpose of group religious activities to dramatize the loyalties of religion; to magnify the lures of truth, beauty, and goodness; to foster the attractions of supreme values; to enhance the service of unselfish fellowship; to glorify the potentials of family life; to promote religious education; to provide wise counsel and spiritual guidance; and to encourage group worship. And all live religions encourage human friendship, conserve morality, promote neighborhood welfare, and facilitate the spread of the essential gospel of their respective messages of eternal salvation. [[UB 99:6.2](/en/The_Urantia_Book/99#p6_2)] 
+> There is a real purpose in the socialization of religion. It is the purpose of group religious activities to dramatize the loyalties of religion; to magnify the lures of truth, beauty, and goodness; to foster the attractions of supreme values; to enhance the service of unselfish fellowship; to glorify the potentials of family life; to promote religious education; to provide wise counsel and spiritual guidance; and to encourage group worship. And all live religions encourage human friendship, conserve morality, promote neighborhood welfare, and facilitate the spread of the essential gospel of their respective messages of eternal salvation. <a id="a171_649"></a>[[UB 99:6.2](/en/The_Urantia_Book/99#p6_2)] 
 
-> The group potential is always far in excess of the simple sum of the attributes of the component individuals. [[UB 10:5.2](/en/The_Urantia_Book/10#p5_2)] 
+> The group potential is always far in excess of the simple sum of the attributes of the component individuals. <a id="a173_112"></a>[[UB 10:5.2](/en/The_Urantia_Book/10#p5_2)] 
 
 I am reminded again of our history of avoiding a churchlike institution. The reasons may be obvious, that we don’t want the rigidity and authority that a church might bring and that we want nothing that an institution might erect to stand between us and the revelatory truths of _The Urantia Book_. 
 
@@ -196,7 +196,7 @@ On the next-to the-last page of _The Urantia Book_ we read:
 > “There are three separate evidences of [the Thought Adjuster’s] indwelling of the human mind:
 > 1\. Humanitarian fellowship—love. 
 > 2\. Interpretation of the universe—wisdom. 
-> 3\. Spiritual evaluation of life—worship._” [[UB 196:3.6-9](/en/The_Urantia_Book/196#p3_6)]
+> 3\. Spiritual evaluation of life—worship._” <a id="a198_46"></a>[[UB 196:3.6-9](/en/The_Urantia_Book/196#p3_6)]
 
 Study groups are very, very important places and study group hosts are very, very important leaders in our pursuit of stronger community, progressing comprehension, and fuller and more real prayer and worship. 
 

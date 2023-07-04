@@ -38,7 +38,7 @@ This gospel of the kingdom belongs to both Jew and gentile, to rich and poor, to
 
 As the Father sent me into this world, even so now send I you. You are all called to carry the good news to those who sit in darkness. This gospel of the kingdom belongs to all who believe it; it shall not be committed to the custody of mere priests. Soon will the Spirit of Truth come upon you, and he shall lead you into all truth. Go you, therefore, into all the world preaching this gospel, and lo, I am with you always, even to the end of the ages.
 
-> “By so drawing close to your fellow men in understanding sympathy and with unselfish devotion, you will lead them into a saving knowledge of the Father’s love. The Jews have extolled goodness; the Greeks have exalted beauty; the Hindus preach devotion; the far-away ascetics teach reverence; the Romans demand loyalty; but I require of my disciples life, even a life of loving service for your brothers in the flesh.” ([UB 191:5.3](/en/The_Urantia_Book/191#p5_3))
+> “By so drawing close to your fellow men in understanding sympathy and with unselfish devotion, you will lead them into a saving knowledge of the Father’s love. The Jews have extolled goodness; the Greeks have exalted beauty; the Hindus preach devotion; the far-away ascetics teach reverence; the Romans demand loyalty; but I require of my disciples life, even a life of loving service for your brothers in the flesh.” (<a id="a40_421"></a>[UB 191:5.3](/en/The_Urantia_Book/191#p5_3))
 
 If you give your lives truly to the gospel, you shall live by the gospel.
 

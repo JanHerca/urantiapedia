@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> “The mortal-survival plan has a practical and serviceable objective; you are not the recipients of all this divine labor and painstaking training only that you may survive just to enjoy endless bliss and eternal ease. There is a goal of transcendent service concealed beyond the horizon of the present universe age. If the Gods designed merely to take you on one long and eternal joy excursion, they certainly would not so largely turn the whole universe into one vast and intricate practical training school. . . ” ([UB 48:8.3](/en/The_Urantia_Book/48#p8_3))
+> “The mortal-survival plan has a practical and serviceable objective; you are not the recipients of all this divine labor and painstaking training only that you may survive just to enjoy endless bliss and eternal ease. There is a goal of transcendent service concealed beyond the horizon of the present universe age. If the Gods designed merely to take you on one long and eternal joy excursion, they certainly would not so largely turn the whole universe into one vast and intricate practical training school. . . ” (<a id="a36_519"></a>[UB 48:8.3](/en/The_Urantia_Book/48#p8_3))
 
 The primary requirement for us to join the universe training scheme as ascendant mortals is our free will decision to do the will of the Father. The Father himself has decreed the absolute sovereignty of our free will in making that choice. But our will cannot be free if it is regulated by the creeds and demands of authoritative religion. The free will religion of the free will sons of God can only be a religion of the spirit.
 
@@ -42,7 +42,7 @@ When we understand that, we should also begin to understand that the revelators 
 
 But if the Papers are not for the purpose of starting a new organized and authoritative religion, what then are they for? Perhaps one of their purposes is reflected in these words from Paper 2:
 
-> “The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness. Such a new and righteous vision of morality will attract all that is good in the mind of man and challenge that which is best in the human soul. Truth, beauty, and goodness are divine realities, and as man ascends the scale of spiritual living, these supreme qualities of the Eternal become increasingly co-ordinated and unified in God, who is love.” ([UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
+> “The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness. Such a new and righteous vision of morality will attract all that is good in the mind of man and challenge that which is best in the human soul. Truth, beauty, and goodness are divine realities, and as man ascends the scale of spiritual living, these supreme qualities of the Eternal become increasingly co-ordinated and unified in God, who is love.” (<a id="a44_654"></a>[UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
 
 The Papers certainly provide the information that could pave the way for a better understanding by Christians of Jesus’ revelation of the true nature of God—also of God as not simply the one “who is love” but the one who epitomizes the very essence of love. The potential is there to benefit all the religions of mankind.
 
@@ -59,7 +59,7 @@ These key concepts from the Papers, without any additional embellishments, have 
 - The membership of all men and women in the one universal family—the children of God.
 - To love our neighbor means to want for them their highest cosmic good.
 
-> Truth is coherent, beauty attractive, goodness stabilizing. And when these values of that which is real are coordinated in personality experience, the result is a high order of love conditioned by wisdom and qualified by loyalty. The real purpose of all universe education is to effect the better coordination of the isolated child of the worlds with the larger realities of his expanding experience. ([UB 2:7.12](/en/The_Urantia_Book/2#p7_12))
+> Truth is coherent, beauty attractive, goodness stabilizing. And when these values of that which is real are coordinated in personality experience, the result is a high order of love conditioned by wisdom and qualified by loyalty. The real purpose of all universe education is to effect the better coordination of the isolated child of the worlds with the larger realities of his expanding experience. (<a id="a61_404"></a>[UB 2:7.12](/en/The_Urantia_Book/2#p7_12))
 
 However there is no likelihood in the foreseeable future that five billion people will read and understand the content of the 2000 pages of the Urantia revelation. Something additional is required.
 

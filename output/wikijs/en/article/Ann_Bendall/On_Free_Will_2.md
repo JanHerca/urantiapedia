@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:12:18Z
 </figure>
 
 
-The only possible gift of true value to God is our free will. ([UB 1:1.2](/en/The_Urantia_Book/1#p1_2)) God asks that we align our will to his. But we cannot give him our will or let him take over, which would be a delightfully simple process—if it were possible. Instead God asks that we become real to the universe by aligning our will to his, that is by striving to choose that which is godlike in each decision we make. And so—decisions, decisions, decisions and more decisions are required from us.
+The only possible gift of true value to God is our free will. (<a id="a36_63"></a>[UB 1:1.2](/en/The_Urantia_Book/1#p1_2)) God asks that we align our will to his. But we cannot give him our will or let him take over, which would be a delightfully simple process—if it were possible. Instead God asks that we become real to the universe by aligning our will to his, that is by striving to choose that which is godlike in each decision we make. And so—decisions, decisions, decisions and more decisions are required from us.
 
 The most perfect example of “doing God’s will” was the crucifixion. Jesus could have avoided such an ignominious death. He could have moved to Rome with the apostles, but in his heart he “knew” that this was not what God required of him.
 
@@ -63,9 +63,9 @@ Incredibly so! In _The Urantia Book_ there are a number of classic exemplars of 
 
 2. Then there was Judas. For years he had lived with Jesus. For years Jesus had taught him his philosophy of life and his beliefs. And Jesus lived what he taught. Yet Judas deemed him to be a coward!
 
-	Judas witnessed so many of the things that Jesus did, the miracles, the caring, the compassion. How could he not understand that Jesus was what he said he was—the Son of God. When Peter had declared him to be so, Judas had risen with the others in confirmation of what Peter had said. Yes, we appreciate that Judas had more than his share of failings but for him to want to have Jesus killed, because he deemed him to have thwarted his own personal dreams! Judas placed a love for worldly honor before his love for Jesus and, in the end, he “_grew to love this desire with his whole heart._” ([UB 177:4.10](/en/The_Urantia_Book/177#p4_10)) With this as the primary desire of his life, he considered that such worldly honor could be secured by becoming a traitor. And when he betrayed Jesus, he full well knew that Jesus would be put to death.
+	Judas witnessed so many of the things that Jesus did, the miracles, the caring, the compassion. How could he not understand that Jesus was what he said he was—the Son of God. When Peter had declared him to be so, Judas had risen with the others in confirmation of what Peter had said. Yes, we appreciate that Judas had more than his share of failings but for him to want to have Jesus killed, because he deemed him to have thwarted his own personal dreams! Judas placed a love for worldly honor before his love for Jesus and, in the end, he “_grew to love this desire with his whole heart._” (<a id="a65_594"></a>[UB 177:4.10](/en/The_Urantia_Book/177#p4_10)) With this as the primary desire of his life, he considered that such worldly honor could be secured by becoming a traitor. And when he betrayed Jesus, he full well knew that Jesus would be put to death.
 
-	Yes, the power of the human will is truly amazing. It can declare as reality something that ignores truths known to it. Indeed Judas correctly assessed that Jesus was going to allow himself to be destroyed by the Jewish rulers, but he falsely deduced that this would “_defeat the movement._” ([UB 177:4.6](/en/The_Urantia_Book/177#p4_6)) Though he “_could not quite believe that the mighty works of the Master had been wrought by the power of the prince of devils,_” ([UB 177:4.3](/en/The_Urantia_Book/177#p4_3)) he was still prepared to betray him to those who appeared to so believe.
+	Yes, the power of the human will is truly amazing. It can declare as reality something that ignores truths known to it. Indeed Judas correctly assessed that Jesus was going to allow himself to be destroyed by the Jewish rulers, but he falsely deduced that this would “_defeat the movement._” (<a id="a67_294"></a>[UB 177:4.6](/en/The_Urantia_Book/177#p4_6)) Though he “_could not quite believe that the mighty works of the Master had been wrought by the power of the prince of devils,_” (<a id="a67_469"></a>[UB 177:4.3](/en/The_Urantia_Book/177#p4_3)) he was still prepared to betray him to those who appeared to so believe.
 
 	And Judas was deemed to have sinned.
 
@@ -81,13 +81,13 @@ Incredibly so! In _The Urantia Book_ there are a number of classic exemplars of 
 
 5. Adam and Eve. They were given a clear direction in relation to the number of pure line children they were to produce prior to mixing with the locals. Of their own free will they decided to go against the directives of their superiors. The disastrous results of their error were instantaneous.
 
-	**So how do we dedicate our will, align our will to that of God?** Simple! The book instructs us: “_The will of God is the way of God, partnership with the choice of God in the face of any potential alternative._” ([UB 130:2.7](/en/The_Urantia_Book/130#p2_7))
+	**So how do we dedicate our will, align our will to that of God?** Simple! The book instructs us: “_The will of God is the way of God, partnership with the choice of God in the face of any potential alternative._” (<a id="a83_216"></a>[UB 130:2.7](/en/The_Urantia_Book/130#p2_7))
 
-	To assist us to do the will of God we are informed, “_Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it._” ([UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
+	To assist us to do the will of God we are informed, “_Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it._” (<a id="a85_174"></a>[UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
 
 	Thus if we acquire that knowledge, in any life situation in which we find ourselves, we can seek the help of Jesus’ Spirit of Truth in answering the question, “What would Jesus do.” And if done in sincerity we can be assured our response will be God-like.
 
-> The portal of eternity opens only in response to the free will choice of the free will sons of the God of free Will. ([UB 5:6.12](/en/The_Urantia_Book/5#p6_12))
+> The portal of eternity opens only in response to the free will choice of the free will sons of the God of free Will. (<a id="a89_120"></a>[UB 5:6.12](/en/The_Urantia_Book/5#p6_12))
 
 ## External links
 

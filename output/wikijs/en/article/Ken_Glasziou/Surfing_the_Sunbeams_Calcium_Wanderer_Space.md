@@ -36,9 +36,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <figcaption><em>Surfing the sunbcams requires energy that atomic calcium acquires from sunlight. The H and K bands are seen at top left of this spectrum made with a 14ft spectroheliograph.</em> <a href="https://www.researchgate.net/figure/Fraunhofer-lines-in-the-solar-spectrum.jpg">ResearchGate</a></figcaption>
 </figure>
 
-> . . . Local space-permeation by calcium is due to the fad that it escapes from the solar photosphere, in modified form by literally riding the outgoing sunbeams. . . . [UB 41:6.3](/en/The_Urantia_Book/41#p6_3)
+> . . . Local space-permeation by calcium is due to the fad that it escapes from the solar photosphere, in modified form by literally riding the outgoing sunbeams. . . . <a id="a38_170"></a>[UB 41:6.3](/en/The_Urantia_Book/41#p6_3)
 
-How many of us have been puzzled by the section in The Urantia Book entitled [Calcium, the Wanderer of Space](/en/The_Urantia_Book/41#p6)? Well, the main human sources used in composing this presentation have been discovered—thanks to the unique gifts of reader, Matthew Block, and his dedicated and unrelenting utilisation of those gifts in tracking down some of the “human concepts” ([UB 0:12.12](/en/The_Urantia_Book/0#p12_12)), “human thought patterns”“ ([UB 121:8.12](/en/The_Urantia_Book/121#p8_12)), and “cosmological statements” defined in the book as “never inspired.” ([UB 101:4.5](/en/The_Urantia_Book/101#p4_5)) That source was an “Evening Discussion” course, entitled “Stars and Atoms,” presented by Sir Arthur Eddington to the British Association in Oxford in August, 1926. In the hope that some adequately qualified person among our readers will now be inspired to make a comparative analysis of Eddington's and The Urantia Book's concepts about the wandering stone of the cosmos, relevant extracts from Eddington's lectures are appended. It appears to be available on microfilm from Ohio State University, but, if necessary, we at Innerface International, Australia, undertake to provide a copy of what we have.
+How many of us have been puzzled by the section in The Urantia Book entitled <a id="a40_77"></a>[Calcium, the Wanderer of Space](/en/The_Urantia_Book/41#p6)? Well, the main human sources used in composing this presentation have been discovered—thanks to the unique gifts of reader, Matthew Block, and his dedicated and unrelenting utilisation of those gifts in tracking down some of the “human concepts” (<a id="a40_386"></a>[UB 0:12.12](/en/The_Urantia_Book/0#p12_12)), “human thought patterns”“ (<a id="a40_459"></a>[UB 121:8.12](/en/The_Urantia_Book/121#p8_12)), and “cosmological statements” defined in the book as “never inspired.” (<a id="a40_579"></a>[UB 101:4.5](/en/The_Urantia_Book/101#p4_5)) That source was an “Evening Discussion” course, entitled “Stars and Atoms,” presented by Sir Arthur Eddington to the British Association in Oxford in August, 1926. In the hope that some adequately qualified person among our readers will now be inspired to make a comparative analysis of Eddington's and The Urantia Book's concepts about the wandering stone of the cosmos, relevant extracts from Eddington's lectures are appended. It appears to be available on microfilm from Ohio State University, but, if necessary, we at Innerface International, Australia, undertake to provide a copy of what we have.
 
 From “Stars and Atoms” by Sir Arthur Eddington:
 
@@ -85,7 +85,7 @@ From “Stars and Atoms” by Sir Arthur Eddington:
 
 > **Question to readers**
 > 
-> _The Urantia Book_ ([UB 41:6.5](/en/The_Urantia_Book/41#p6_5)) gives a figure of one one-millionth of a second for the relaxation time of the excited state of calcium compared with Eddington's one hundred-millionth of a second. Is The Urantia Book's figure a typographical or copying error, or some such, or is it a deliberate correction by the revelators of Professor Milne's calculations??? Can any readers respond?
+> _The Urantia Book_ (<a id="a87_22"></a>[UB 41:6.5](/en/The_Urantia_Book/41#p6_5)) gives a figure of one one-millionth of a second for the relaxation time of the excited state of calcium compared with Eddington's one hundred-millionth of a second. Is The Urantia Book's figure a typographical or copying error, or some such, or is it a deliberate correction by the revelators of Professor Milne's calculations??? Can any readers respond?
 > {.is-warning}
 
 ## External links
@@ -120,4 +120,4 @@ From “Stars and Atoms” by Sir Arthur Eddington:
 
 ## Notes
 
-[^1]: _Author's Note_: _The Urantia Book_, [UB 41:6.5](/en/The_Urantia_Book/41#p6_5), says one one-millionth of a second.
+[^1]: _Author's Note_: _The Urantia Book_, <a id="a122_43"></a>[UB 41:6.5](/en/The_Urantia_Book/41#p6_5), says one one-millionth of a second.

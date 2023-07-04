@@ -40,9 +40,9 @@ dateCreated: 2023-6-21T8:13:38Z
 
 By _Duane Johnson_
 
-> “Art is mortal morontia, the intervening field between man, the material and man, the spiritual. Poetry is an effort to escape from material realities to spiritual values.” ([UB 195:7.15](/en/The_Urantia_Book/195#p7_15))
+> “Art is mortal morontia, the intervening field between man, the material and man, the spiritual. Poetry is an effort to escape from material realities to spiritual values.” (<a id="a42_176"></a>[UB 195:7.15](/en/The_Urantia_Book/195#p7_15))
 
-> The realization Of the recognition of spiritual values is an experience which is superideational. There is no word in any human language which can be employed to designate this "sense," "feeling," "intuition," or "experience" which we have elected to call God- consciousness. ([UB 103:1.6](/en/The_Urantia_Book/103#p1_6))
+> The realization Of the recognition of spiritual values is an experience which is superideational. There is no word in any human language which can be employed to designate this "sense," "feeling," "intuition," or "experience" which we have elected to call God- consciousness. (<a id="a44_279"></a>[UB 103:1.6](/en/The_Urantia_Book/103#p1_6))
 
 The revelators of _The Urantia Book_ never seem to tire of stating how difficult it is for us to grasp the true nature of spiritual reality. The limits of our senses as well as the limits of the human mind, we are given to understand, make it impossible for us to comprehend much of the larger reality of which we are a part. 
 
@@ -52,9 +52,9 @@ The revelators of _The Urantia Book_ never seem to tire of stating how difficult
 
 True, we have all benefited by discussing and analyzing, in our most eloquent prose, every Urantia Book paper, passage by passage, in study groups. We come to understand more by reading articles and commentary in Urantia related publications and on social media. We learn much, but we also come away with a keener understanding that, as songwriter Stephen Stills might say, “There's something happening here, but what it is ain't exactly clear.”
 
-Because of this, we look to the arts to foreshadow these higher universe realities. (see [UB 48:7.23](/en/The_Urantia_Book/48#p7_23))
+Because of this, we look to the arts to foreshadow these higher universe realities. (see <a id="a54_89"></a>[UB 48:7.23](/en/The_Urantia_Book/48#p7_23))
 
-The poet in each of us seems to intuitively know that words cannot adequately convey spiritual ideas, ideals, and meanings. This is why I have come to think of poetry as an attempt to articulate the ineffable. Poets use symbolic and metaphorical language in an effort to lift our human type of mind up to the level of cosmic mind so as to better comprehend “the enhanced realities Of time and the more enduring realities of eternity.” ([UB 101:9.8](/en/The_Urantia_Book/101#p9_8))
+The poet in each of us seems to intuitively know that words cannot adequately convey spiritual ideas, ideals, and meanings. This is why I have come to think of poetry as an attempt to articulate the ineffable. Poets use symbolic and metaphorical language in an effort to lift our human type of mind up to the level of cosmic mind so as to better comprehend “the enhanced realities Of time and the more enduring realities of eternity.” (<a id="a56_436"></a>[UB 101:9.8](/en/The_Urantia_Book/101#p9_8))
 
 Toward this end, Byron Belitsos in 1982 published _Ardent Ascent_, a collection of poetry by poets whose lives have been touched and inspired by _The Urantia Book_.
 

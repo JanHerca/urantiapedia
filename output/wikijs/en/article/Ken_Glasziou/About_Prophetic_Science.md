@@ -34,9 +34,9 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-Scattered throughout the scientific component we find statements that are quite prophetic. This inclusion is consistent with a statement from the mandate ([UB 101:4.8](/en/The_Urantia_Book/101#p4_8)) that the provision of key bits of essential or forgotten knowledge was permitted. However, the inclusion of this esoteric information is strangely in contrast with much of the other science in the book that would have been known even to high school students of the 1930’s, when the Papers were first received.
+Scattered throughout the scientific component we find statements that are quite prophetic. This inclusion is consistent with a statement from the mandate (<a id="a36_155"></a>[UB 101:4.8](/en/The_Urantia_Book/101#p4_8)) that the provision of key bits of essential or forgotten knowledge was permitted. However, the inclusion of this esoteric information is strangely in contrast with much of the other science in the book that would have been known even to high school students of the 1930’s, when the Papers were first received.
 
-The mandate has these statements: “_. . . future students of such a revelation are tempted to discard. . . it. . . because they discover errors. . . .We are not at liberty to anticipate the scientific discoveries of a thousand years. . . The cosmology of these revelations is not inspired._” ([UB 101:4.2](/en/The_Urantia_Book/101#p4_2))
+The mandate has these statements: “_. . . future students of such a revelation are tempted to discard. . . it. . . because they discover errors. . . .We are not at liberty to anticipate the scientific discoveries of a thousand years. . . The cosmology of these revelations is not inspired._” (<a id="a38_293"></a>[UB 101:4.2](/en/The_Urantia_Book/101#p4_2))
 
 We must not be put off by perceived errors in the cosmology (which includes science). We have been warned—truth is where you find it.
 
@@ -44,13 +44,13 @@ We must not be put off by perceived errors in the cosmology (which includes scie
 
 I’ve often pondered on the sequence of text that follows the ordination sermon of Jesus to the apostles in Part 4. There, Jesus announces that he is on earth solely to comfort the minds, liberate the spirits, and save the souls of men. After a pause he continues:
 
-> “_Always must you recognize the two viewpoints of all mortal conduct—the human and the divine; the ways of the flesh and the ways of the spirit; the estimate of time and the viewpoint of eternity._” ([UB 140:6.7](/en/The_Urantia_Book/140#p6_7))
+> “_Always must you recognize the two viewpoints of all mortal conduct—the human and the divine; the ways of the flesh and the ways of the spirit; the estimate of time and the viewpoint of eternity._” (<a id="a46_202"></a>[UB 140:6.7](/en/The_Urantia_Book/140#p6_7))
 
 This comment is then followed by:
 
-> “_But you will stumble over my teachings because ***you are wont to interpret my message literally; you are slow to discover the spirit of my teaching***._” ([UB 140:6.8](/en/The_Urantia_Book/140#p6_8))
+> “_But you will stumble over my teachings because ***you are wont to interpret my message literally; you are slow to discover the spirit of my teaching***._” (<a id="a50_160"></a>[UB 140:6.8](/en/The_Urantia_Book/140#p6_8))
 
-In our reading, most of us probably pass over this admonition, dismissing it as applying to the apostles. But in the same paragraph Jesus says, “_Also must you remember that I have sheep not of this flock, and that I am beholden to them also, to the end that I must provide for them the pattern of doing the will of God while living the life of the mortal nature._” ([UB 140:6.8](/en/The_Urantia_Book/140#p6_8))
+In our reading, most of us probably pass over this admonition, dismissing it as applying to the apostles. But in the same paragraph Jesus says, “_Also must you remember that I have sheep not of this flock, and that I am beholden to them also, to the end that I must provide for them the pattern of doing the will of God while living the life of the mortal nature._” (<a id="a52_367"></a>[UB 140:6.8](/en/The_Urantia_Book/140#p6_8))
 
 I wonder if we 20th century people might be “sheep not of this flock.” These Galilean fisherfolk were already floundering beyond their depth. They had just asked Jesus for help to understand him. Jesus’ comment, if spoken to them, would have thrown them completely. So is it included in the Papers specifically for our benefit? If so, is it telling us not to take the teachings literally?
 

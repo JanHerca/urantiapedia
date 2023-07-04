@@ -52,30 +52,30 @@ Now, over sixty years after William S. Sadler, Jr. typed his memorandum, we need
 
 Nonetheless, we must not neglect the fifth epochal revelation’s spiritual and religious aspects, instead making sure to take careful note of the mission and intent of our Paradise Creator Son during the bestowal life he lived on Urantia approximately 2,000 years ago. When Jesus of Nazareth became fully aware of his spiritual identity as Michael of Nebadon, he undoubtedly treasured the assurance that Immanuel offered him not long before he left Salvington: 
 
-> “As a dispensational Son you are granted certain privileges pertaining to the advancement of the _spiritual_ and _religious_ status of the world peoples.” [[UB 120:3.5](/en/The_Urantia_Book/120#p3_5)]
+> “As a dispensational Son you are granted certain privileges pertaining to the advancement of the _spiritual_ and _religious_ status of the world peoples.” <a id="a54_157"></a>[[UB 120:3.5](/en/The_Urantia_Book/120#p3_5)]
 
 In the immediately succeeding paragraph, however, Immanuel clarified the nature of Michael’s task: 
 
-> “5. As you may see fit, you are to identify yourself with existing religious and spiritual movements as they may be found on Urantia but in every possible manner seek to avoid the formal establishment of an organized cult, a crystallized religion, or a segregated ethical grouping of mortal beings. Your life and teachings are to become the common heritage of all religions and all peoples.” [[UB 120:3.6](/en/The_Urantia_Book/120#p3_6)]
+> “5. As you may see fit, you are to identify yourself with existing religious and spiritual movements as they may be found on Urantia but in every possible manner seek to avoid the formal establishment of an organized cult, a crystallized religion, or a segregated ethical grouping of mortal beings. Your life and teachings are to become the common heritage of all religions and all peoples.” <a id="a58_394"></a>[[UB 120:3.6](/en/The_Urantia_Book/120#p3_6)]
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Neal_Waldrop/Epochal_Pathways/004150.jpg">
 <figcaption><em>Dreams</em>, Wassilij Dimitriewitsch Polenow, 1894. Public Domain. <a href="https://commons.wikimedia.org/wiki/File:Polenov_MechtySAR.jpg" target="_blank">Wikipedia</a></figcaption>
 </figure>
 
-Therefore, Christ Michael of Nebadon, incarnate in the human form of Jesus of Nazareth, proclaimed and promoted _personal_ (individual) religion, as becomes luminously clear when we study the discourses on religion that the revelators enshrined in sections [5](/en/The_Urantia_Book/155#p5) and [6](/en/The_Urantia_Book/155#p6) of Paper 155. Nonetheless, we end up with the impression that the apostles and their successors stumbled at these advanced teachings, for they went on to establish organized, institutional frameworks in which professional religionists issue orders to believers and claim to speak for God. This, of course, was profoundly at odds with what Jesus taught. After all, he declared: 
+Therefore, Christ Michael of Nebadon, incarnate in the human form of Jesus of Nazareth, proclaimed and promoted _personal_ (individual) religion, as becomes luminously clear when we study the discourses on religion that the revelators enshrined in sections <a id="a65_257"></a>[5](/en/The_Urantia_Book/155#p5) and <a id="a65_294"></a>[6](/en/The_Urantia_Book/155#p6) of Paper 155. Nonetheless, we end up with the impression that the apostles and their successors stumbled at these advanced teachings, for they went on to establish organized, institutional frameworks in which professional religionists issue orders to believers and claim to speak for God. This, of course, was profoundly at odds with what Jesus taught. After all, he declared: 
 
-> “I have come to proclaim spiritual liberty, teach eternal truth, and foster living faith.” [[UB 153:2.6](/en/The_Urantia_Book/153#p2_6)]
+> “I have come to proclaim spiritual liberty, teach eternal truth, and foster living faith.” <a id="a67_93"></a>[[UB 153:2.6](/en/The_Urantia_Book/153#p2_6)]
 
-Further, Jesus explicitly enjoined his apostles and other followers not to create legends and build up a cult having to do with beliefs and teachings about his beliefs and teachings ([[UB 138:6.3](/en/The_Urantia_Book/138#p6_3)]). Nonetheless, they did. In addition, Jesus emphasized spiritual unity, while repeatedly warning against creeds and traditions that would serve to guide and control believers: 
+Further, Jesus explicitly enjoined his apostles and other followers not to create legends and build up a cult having to do with beliefs and teachings about his beliefs and teachings (<a id="a69_183"></a>[[UB 138:6.3](/en/The_Urantia_Book/138#p6_3)]). Nonetheless, they did. In addition, Jesus emphasized spiritual unity, while repeatedly warning against creeds and traditions that would serve to guide and control believers: 
 
-> Many times during the training of the twelve Jesus reverted to this theme. Repeatedly he told them it was not his desire that those who believed in him should become dogmatized and standardized in accordance with the religious interpretations of even good men. Again and again he warned his apostles against the formulation of creeds and the establishment of traditions as a means of guiding and controlling believers in the gospel of the kingdom. [[UB 141:5.4](/en/The_Urantia_Book/141#p5_4)]
+> Many times during the training of the twelve Jesus reverted to this theme. Repeatedly he told them it was not his desire that those who believed in him should become dogmatized and standardized in accordance with the religious interpretations of even good men. Again and again he warned his apostles against the formulation of creeds and the establishment of traditions as a means of guiding and controlling believers in the gospel of the kingdom. <a id="a71_450"></a>[[UB 141:5.4](/en/The_Urantia_Book/141#p5_4)]
 
 Even so, his followers and their successors succumbed to these temptations too. 
 
 In seeking to appraise the net outcomes, the Midwayer Commission comments: 
 
-> The visible church should refuse longer to handicap the progress of the invisible and spiritual brotherhood of the kingdom of God. And this brotherhood is destined to become a living organism in contrast to an institutionalized social organization. [[UB 195:10.11](/en/The_Urantia_Book/195#p10_11)]
+> The visible church should refuse longer to handicap the progress of the invisible and spiritual brotherhood of the kingdom of God. And this brotherhood is destined to become a living organism in contrast to an institutionalized social organization. <a id="a77_251"></a>[[UB 195:10.11](/en/The_Urantia_Book/195#p10_11)]
 
 If we now endeavor to compile and summarize all these factors, it is reasonable to conclude that the revelators have left us two overarching questions: 
 

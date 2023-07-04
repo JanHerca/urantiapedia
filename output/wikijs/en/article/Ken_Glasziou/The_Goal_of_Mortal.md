@@ -40,7 +40,7 @@ dateCreated: 2022-9-9T8:13:39Z
 > 1. Choosing to respond to divine leading; sincerely basing the human life on the highest consciousness of truth, beauty, and goodness, and then coordinating these qualities of divinity through wisdom, worship, faith, and love.
 > 2. Loving God and desiring to be like him–genuine recognition of the divine fatherhood and loving worship of the heavenly Parent.
 > 3. Loving man and sincerely desiring to serve him–wholehearted recognition of the brotherhood of man coupled with an intelligent and wise affection for each of your fellow mortals.
-> 4. Joyful acceptance of cosmic citizenship–honest recognition of your progressive obligations to the Supreme Being, awareness of the interdependence of evolutionary man and evolving Deity. This is the birth of cosmic morality and the dawning realization of universal duty. ([UB 110:3.4-10](/en/The_Urantia_Book/110#p3_4))
+> 4. Joyful acceptance of cosmic citizenship–honest recognition of your progressive obligations to the Supreme Being, awareness of the interdependence of evolutionary man and evolving Deity. This is the birth of cosmic morality and the dawning realization of universal duty. (<a id="a42_276"></a>[UB 110:3.4-10](/en/The_Urantia_Book/110#p3_4))
 
 ## External links
 

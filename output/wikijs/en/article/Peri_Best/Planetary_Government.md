@@ -46,7 +46,7 @@ We witness unprecedented events taking place in the world today and wonder how o
 
 Personally, I believe the root of the malaise is in the family and particularly in the unbalanced and misunderstood male/female relationship. But we will leave exploring that for another day. Today I propose we look at the over-care of our world by our celestial friends and look for suggestions for how we might help.
 
-Suggested Reading: [Paper 114](/en/The_Urantia_Book/114) and to get a look at compassionate administration in the face of rebellion, check out [Paper 119](/en/The_Urantia_Book/119) - The Bestowals of Christ Michael. [UB 114:0.4](/en/The_Urantia_Book/114#p0_4) Urantia is not without proper and effective supervision from the system, constellation, and universe rulers. But the planetary government is unlike that of any other world in the Satania system, even in all Nebadon.
+Suggested Reading: [Paper 114](/en/The_Urantia_Book/114) and to get a look at compassionate administration in the face of rebellion, check out [Paper 119](/en/The_Urantia_Book/119) - The Bestowals of Christ Michael. <a id="a48_216"></a>[UB 114:0.4](/en/The_Urantia_Book/114#p0_4) Urantia is not without proper and effective supervision from the system, constellation, and universe rulers. But the planetary government is unlike that of any other world in the Satania system, even in all Nebadon.
 
 This uniqueness in your plan of supervision is due to a number of unusual circumstances:
 
@@ -60,9 +60,9 @@ This uniqueness in your plan of supervision is due to a number of unusual circum
 
 Since Pentecost our Planetary Prince, Michael of Nebadon, handed government of Urantia over to Machiventa Melchizedek who in turn, leaves many of the administrative duties to the council of 24 one time Urantians (they also preside over the councils of the other 36 worlds in spiritual quarantine).
 
-Headquarters of the council of 24 is on Jerusem and they have been designated as Michael's personal agents. ([UB 45:4.1](/en/The_Urantia_Book/45#p4_1)) One of the council of 24 is the current resident governor general. They take turns.
+Headquarters of the council of 24 is on Jerusem and they have been designated as Michael's personal agents. (<a id="a62_109"></a>[UB 45:4.1](/en/The_Urantia_Book/45#p4_1)) One of the council of 24 is the current resident governor general. They take turns.
 
-> These twenty-four counselors have been recruited from the eight Urantia races, and the last of this group were assembled at the time of the resurrection roll call of Michael, nineteen hundred years ago. [UB 45:4.2](/en/The_Urantia_Book/45#p4_2)
+> These twenty-four counselors have been recruited from the eight Urantia races, and the last of this group were assembled at the time of the resurrection roll call of Michael, nineteen hundred years ago. <a id="a64_205"></a>[UB 45:4.2](/en/The_Urantia_Book/45#p4_2)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/009.jpg">

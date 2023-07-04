@@ -42,7 +42,7 @@ However most new, knowledgeable readers will know about the production of new el
 
 ## Content
 
-> In Orvonton it has never been possible **naturally** to assemble over one hundred orbital electrons in one atomic system. When one hundred and one have been artificially introduced into the orbital field, the result has always been the instantaneous disruption . . . ([UB 42:7.7](/en/The_Urantia_Book/42#p7_7))
+> In Orvonton it has never been possible **naturally** to assemble over one hundred orbital electrons in one atomic system. When one hundred and one have been artificially introduced into the orbital field, the result has always been the instantaneous disruption . . . (<a id="a44_270"></a>[UB 42:7.7](/en/The_Urantia_Book/42#p7_7))
 
 
 The text above is from the first printing, someone having taken the liberty of adding the words “well-nigh” before “instantaneous” in subsequent printings. The important word to keep in mind is “naturally.”

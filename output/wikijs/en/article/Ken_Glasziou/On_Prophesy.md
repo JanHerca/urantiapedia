@@ -43,13 +43,13 @@ Faith and personal experience, not science or even quality, is the key that elev
 
 ## From the Urantia Papers.
 
-> “To isolate part of life and call it religion is to disintegrate life and to distort religion.” ([UB 102:6.1](/en/The_Urantia_Book/102#p6_1))
+> “To isolate part of life and call it religion is to disintegrate life and to distort religion.” (<a id="a45_99"></a>[UB 102:6.1](/en/The_Urantia_Book/102#p6_1))
 
-> “Man’s greatest spiritual jeopardy consists in partial progress, the predicament of unfinished growth; modern science, particularly psychology, has weakened only those religions which are so largely dependent on fear, superstition, and emotion.” ([UB 99:4.8](/en/The_Urantia_Book/99#p4_8))
+> “Man’s greatest spiritual jeopardy consists in partial progress, the predicament of unfinished growth; modern science, particularly psychology, has weakened only those religions which are so largely dependent on fear, superstition, and emotion.” (<a id="a47_249"></a>[UB 99:4.8](/en/The_Urantia_Book/99#p4_8))
 
-> “The philosophic elimination of religious fear and the steady progress of science add greatly to the mortality of false gods; and even though these casualties of man-made deities may momentarily befog the spiritual vision, they eventually destroy the ignorance and superstition which so long obscured the living God of eternal love.” ([UB 102:6.1](/en/The_Urantia_Book/102#p6_1))
+> “The philosophic elimination of religious fear and the steady progress of science add greatly to the mortality of false gods; and even though these casualties of man-made deities may momentarily befog the spiritual vision, they eventually destroy the ignorance and superstition which so long obscured the living God of eternal love.” (<a id="a49_337"></a>[UB 102:6.1](/en/The_Urantia_Book/102#p6_1))
 
-> “Be not discouraged; human evolution is still in progress, and the revelation of God to the world, in and through Jesus, shall not fail.” ([UB 196:3.33](/en/The_Urantia_Book/196#p3_33))
+> “Be not discouraged; human evolution is still in progress, and the revelation of God to the world, in and through Jesus, shall not fail.” (<a id="a51_141"></a>[UB 196:3.33](/en/The_Urantia_Book/196#p3_33))
 
 ## External links
 

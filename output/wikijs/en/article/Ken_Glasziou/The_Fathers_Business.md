@@ -41,7 +41,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 > 
 > And how much like all selfish mortals was this unfaithful servant with the one talent in that he blamed his slothfulness directly upon his lord. How prone is man, when he is confronted with the failures of his own making, to put the blame upon others, oftentimes upon those who least deserve it.
 > 
-> Freely you have received; therefore freely should you give the truth of heaven, and in the giving will this truth multiply and show forth the increasing light of saving grace, even as you minister it. ([UB 176:3.5-10](/en/The_Urantia_Book/176#p3_5))
+> Freely you have received; therefore freely should you give the truth of heaven, and in the giving will this truth multiply and show forth the increasing light of saving grace, even as you minister it. (<a id="a43_204"></a>[UB 176:3.5-10](/en/The_Urantia_Book/176#p3_5))
 
 ## External links
 

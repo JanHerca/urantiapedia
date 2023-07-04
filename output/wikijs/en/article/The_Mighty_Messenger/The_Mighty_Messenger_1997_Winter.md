@@ -37,9 +37,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 by _Josephe DeCosmo_, Boynton Beach, FL
 
-In the opening paragraphs of the Urantia papers, we are told that English was chosen by the Orvonton Revelatory Commission as the language-vehicle for the fifth epochal revelation: “Our mandate admonishes us to make every effort to convey our meanings by using the word symbols of the English tongue” ([UB 0:0.2](/en/The_Urantia_Book/0#p0_2)).
+In the opening paragraphs of the Urantia papers, we are told that English was chosen by the Orvonton Revelatory Commission as the language-vehicle for the fifth epochal revelation: “Our mandate admonishes us to make every effort to convey our meanings by using the word symbols of the English tongue” (<a id="a39_302"></a>[UB 0:0.2](/en/The_Urantia_Book/0#p0_2)).
 
-In the paper “Spheres of Light and Life,” it is said: “No evolutionary world can hope to progress beyond the first stage of settledness in light until it has achieved one language, one religion, and one philosophy” ([UB 53:3.15](/en/The_Urantia_Book/53#p3_15)).
+In the paper “Spheres of Light and Life,” it is said: “No evolutionary world can hope to progress beyond the first stage of settledness in light until it has achieved one language, one religion, and one philosophy” (<a id="a41_216"></a>[UB 53:3.15](/en/The_Urantia_Book/53#p3_15)).
 
 Taken together, these two statements strongly suggest that English may well be the “one language” which will unify the world and allow Urantia to progress to and through the ages of light and life. Already English is the international language of commerce and air and sea travel.
 
@@ -107,9 +107,9 @@ Having lived in several different countries, I know firsthand that what is consi
 
 Whenever people get together around a religious teaching, they tend to develop rituals which will attract some and repel others. We who have been given this revelation early must realize the responsibility that has been placed in our hands. If we start a Urantia Church before the book has spread to all the world, and develop ceremonies and rites that are considered American, potential readers in other countries may be turned off. Urantia Book readers hug each other a lot; yet I once lived in a country where people did not openly touch each other. If they saw a group with a big blue book publicly hugging, they might say, “That book is not for me.” And this is only one example悠 can think of many more.
 
-> “No revealed religion can spread to all the world when it makes the serious mistake of becoming permeated with some national culture or associated with established racial, social, or economic practices” ([UB 194:3.9](/en/The_Urantia_Book/194#p3_9)).
+> “No revealed religion can spread to all the world when it makes the serious mistake of becoming permeated with some national culture or associated with established racial, social, or economic practices” (<a id="a109_206"></a>[UB 194:3.9](/en/The_Urantia_Book/194#p3_9)).
 
-> “The gospel of the kingdom was to be identified with no particular race, culture, or language” ([UB 194:3.9](/en/The_Urantia_Book/194#p3_9)).
+> “The gospel of the kingdom was to be identified with no particular race, culture, or language” (<a id="a111_98"></a>[UB 194:3.9](/en/The_Urantia_Book/194#p3_9)).
 
 Rather than form a church just yet, let's remain a low-key brotherhood, forget about ourselves, and do whatever we can to get the teachings into the hands of educated people in all countries of the world. Let's exercise patience and self-restraint, and consider the needs of those who still need books and translations. When later we follow the growth of the Urantia movement from our various mansion world vantage points, do we want to look back and see that it failed because it had become a Westernized religion?
 
@@ -168,9 +168,9 @@ It is this naivety that I wish to focus on, because I think there is something o
 
 I see this dynamic being played out everywhere; weak liberals cannot hold a candle to strong conservatives. In Protestant circles, liberals spend their time whining about conservatives, while conservatives are going out and saving souls. It is the Promise Keepers who have made changes in thousands of men's lives. It is they who are proclaiming: “be a man of the Kingdom; claim your sonship” (heard on “The Father File” radio program). Where is there any liberal who utters a stirring message like that today? Where is today's Harry Emerson Fosdick?
 
-“Religion reaches out for...superhuman values... infinite values” ([UB 160:5.5](/en/The_Urantia_Book/160#p5_5)). Evangelicals, Catholics, and Orthodox who are serious about their beliefs do have a focus of superhuman values, although they tend to rely on the “theology of authority” ([UB 155:5.11](/en/The_Urantia_Book/155#p5_11)). We liberals too easily lose our focus; we have plenty of values, but do we dare to call them superhuman? Oh, we're much too nice to make assertions about transcendent reality! We wouldn't want to make a scene!
+“Religion reaches out for...superhuman values... infinite values” (<a id="a170_67"></a>[UB 160:5.5](/en/The_Urantia_Book/160#p5_5)). Evangelicals, Catholics, and Orthodox who are serious about their beliefs do have a focus of superhuman values, although they tend to rely on the “theology of authority” (<a id="a170_284"></a>[UB 155:5.11](/en/The_Urantia_Book/155#p5_11)). We liberals too easily lose our focus; we have plenty of values, but do we dare to call them superhuman? Oh, we're much too nice to make assertions about transcendent reality! We wouldn't want to make a scene!
 
-The degree to which we are unable to affirm eternal and transcendent values reflects the degree to which these values are not operative in our lives (or to which their operation is blocked by that desire to be pleasing to others). Believers who have operative transcendent values can fulfill “the purpose of group religious activities to...foster the attractions of supreme values” ([UB 99:6.2](/en/The_Urantia_Book/99#p6_2)).
+The degree to which we are unable to affirm eternal and transcendent values reflects the degree to which these values are not operative in our lives (or to which their operation is blocked by that desire to be pleasing to others). Believers who have operative transcendent values can fulfill “the purpose of group religious activities to...foster the attractions of supreme values” (<a id="a172_383"></a>[UB 99:6.2](/en/The_Urantia_Book/99#p6_2)).
 
 Here is what we need to realize: Since we do not rely on external authority to give us focus, we liberals must have a value-focus alive in our characters, in our experience, every day. The more we exalt freedom, the greater the demand this places on our moral character and our spiritual sensitivity. Often we fail the test. We despair of the unenlightened world. We become ineffective ambassadors, forlorn and vulnerable.
 

@@ -280,7 +280,7 @@ Members: Linda Buselli, Chair Lynda D’Arcangelo, Laura Hay, Nancy Johnson, Joe
 fellowship@urantiabook.org
 www.urantiabook.org
 
-> “Humor is the divine antidote for exaltation of ego.” [[UB 48:4.15](/en/The_Urantia_Book/48#p4_15)]
+> “Humor is the divine antidote for exaltation of ego.” <a id="a282_56"></a>[[UB 48:4.15](/en/The_Urantia_Book/48#p4_15)]
 
 ## External Links
 

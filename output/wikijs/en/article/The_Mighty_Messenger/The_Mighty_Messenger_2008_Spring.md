@@ -101,7 +101,7 @@ Duane also wrote another splendid book based on the teachings of _The Urantia Bo
 
 The Fellowship officially honored Duane and Lucile Faw along with Meredith and Irene Sprunger at our International Conference in 2002 at Estes Park. We wanted to thank them all for a lifetime of service to God and man and certainly to the brotherhood of believers. Duane was distinguished in every sense of the word, truly an officer and a gentleman. The world and our Urantia movement have lost a great treasure.
 
-> “Those who are born of the spirit will immediately begin to show forth the fruits of the spirit in loving service to their fellow creatures.” [[UB 193:2.2](/en/The_Urantia_Book/193#p2_2)]
+> “Those who are born of the spirit will immediately begin to show forth the fruits of the spirit in loving service to their fellow creatures.” <a id="a103_144"></a>[[UB 193:2.2](/en/The_Urantia_Book/193#p2_2)]
 
 ## The Urantia Book In India
 
@@ -255,7 +255,7 @@ fellowship@urantiabook.org
 www.urantiabook.org
 
 
-> “No act of good is ever wholly lost.” [[UB 48:6.7](/en/The_Urantia_Book/48#p6_7)]
+> “No act of good is ever wholly lost.” <a id="a257_40"></a>[[UB 48:6.7](/en/The_Urantia_Book/48#p6_7)]
 
 ## External Links
 

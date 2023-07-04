@@ -61,7 +61,7 @@ South America...
 
 The International Fellowship Committee is pleased to announce a new and formal organizational affiliation with Casa de FAD educational group in Rio de Janeiro, Brazil. (See Membership.)
 
-Fad was the individual responsible for the Faculty on Dissemination and Conservation of Knowledge during the times of the Planetary Prince. (See [UB 66:5.4](/en/The_Urantia_Book/66#p5_4)). 
+Fad was the individual responsible for the Faculty on Dissemination and Conservation of Knowledge during the times of the Planetary Prince. (See <a id="a63_145"></a>[UB 66:5.4](/en/The_Urantia_Book/66#p5_4)). 
 
 The mission of the Brasilian group is to continue the work of this first college under the guidance of Dr Elyr Dos Santos Silva, a dedicated student of the revelation. The group maintains an office, a meeting room and a small library/bookstore in downtown Rio de Janeiro.
 

@@ -114,7 +114,7 @@ Extensive investigations by Gardner and others have also failed to uncover the s
 
 The principal conclusion drawn from this analysis is that many unidentified authors were responsible for the writing of the Urantia Papers. Statistical analysis can do nothing to confirm or deny a revelatory origin. Personally I believe I have the aid of the spirit forces so often mentioned in the papers—the indwelling spirit of the Father and the Spirit of Truth—to help me in my decision making. But regardless of the degree of authority we ascribe to the Papers, the fact remains that these Urantia Papers are a truly remarkable contribution to our religious literature. Again stating a personal view, their value far surpasses anything else available to mankind.
 
-One of the most profound statements in the Urantia Papers is: “Jesus lived a life which is a revelation of man submitted to the Father’s will.” ([UB 194:2.8](/en/The_Urantia_Book/194#p2_8))
+One of the most profound statements in the Urantia Papers is: “Jesus lived a life which is a revelation of man submitted to the Father’s will.” (<a id="a116_145"></a>[UB 194:2.8](/en/The_Urantia_Book/194#p2_8))
 
 Those who comprehend the full significance of these words need nothing more.
 

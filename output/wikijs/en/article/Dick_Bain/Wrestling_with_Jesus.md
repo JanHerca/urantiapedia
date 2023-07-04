@@ -42,7 +42,7 @@ Then I met the Jesus of _The Urantia Book_ and it was no longer possible to igno
 
 In order for a mutual relationship to exist, there must be some sort of connection between the persons. Jesus said something about this connection, when he stated that he was present when “two or three are gathered in my name.”
 
-The authors of _The Urantia Book_ inform us that Jesus can be present with us through the Spirit of Truth. They tell us that when we contact the Spirit of Truth, we in essence contact the personality of Jesus or more exactly, the personality of Christ Michael, our Creator Son. ([UB 194:2.16](/en/The_Urantia_Book/194#p2_16))
+The authors of _The Urantia Book_ inform us that Jesus can be present with us through the Spirit of Truth. They tell us that when we contact the Spirit of Truth, we in essence contact the personality of Jesus or more exactly, the personality of Christ Michael, our Creator Son. (<a id="a44_279"></a>[UB 194:2.16](/en/The_Urantia_Book/194#p2_16))
 
 What does this contact feel like? _The Urantia Book_ specifically tells us that when we encounter spiritual truth, the The Spirit of Truth reacts. From personal experience, I believe this feeling is spiritual satisfaction, perhaps even elation.
 
@@ -56,13 +56,13 @@ It is difficult to imagine Christ Michael’s consciousness being divided into m
 
 At the very least, it does seem possible for Christ Michael to commune with all those who seek his presence. If we were at a family reunion with 50 people, we could hardly engage all 50 individuals in conversations simultaneously, but we could certainly feel emotionally connected with all those present, and we could certainly go from group to group, participating for a time in each group.
 
-Regardless of any speculations we might make, or any theories we might devise, we are informed on [UB 194:2.4](/en/The_Urantia_Book/194#p2_4) that the Sprit of Truth creates a consciousness of Michael, not of himself. He also told the Apostles that he would be with them by way of the Spirit of Truth. What is said seems to indicate that somehow Jesus/Christ Michael is literally present in some way via the Sprit of Truth. If so, what do we need to do to insure his presence? What are the impediments to such a relationship?
+Regardless of any speculations we might make, or any theories we might devise, we are informed on <a id="a58_98"></a>[UB 194:2.4](/en/The_Urantia_Book/194#p2_4) that the Sprit of Truth creates a consciousness of Michael, not of himself. He also told the Apostles that he would be with them by way of the Spirit of Truth. What is said seems to indicate that somehow Jesus/Christ Michael is literally present in some way via the Sprit of Truth. If so, what do we need to do to insure his presence? What are the impediments to such a relationship?
 
 The lyrics of one of the songs heard frequently on Christian radio stations informs us: “Jesus, Jesus, there’s something about that name.” Many Christians, especially conservative Christians, probably have had a long term relationship with the Christian Jesus. They feel a great affection or love for this Jesus. Some were taught that he **is** God and that he gave his life on the cross so we wouldn’t have to spend eternity in Hell. Small wonder that some worship him with such intensity.
 
 There are many Christians who love Jesus simply because of his goodness. For those fortunate enough to have such a relationship prior to reading _The Urantia Book_, and who are not limited by conservative theology, no doubt the picture of Jesus in the book simply deepens the love and respect these folks already feel for him. But what of someone who knows very little of Jesus or has a negative impression of him because of negative experiences with Christianity? It may be difficult for these folks to move into a positive relationship with the Jesus of _The Urantia Book_.
 
-A problem some of us have with the name “Jesus” is all of the Christian baggage that comes with it. I have seen too many Jesus looking down at me in pictures or on plastic crosses with sad, teary eyes. Not that his death was without meaning, but if you do not accept the doctrine of the atonement, the plastic crosses and associated Christian myths about the meaning of his death only serve to distract us from the nobility of his life. I could never accept the idea that Jesus had to die on a cross before God would forgive me. Like the authors of _The Urantia Book_ (see [UB 4:5.6](/en/The_Urantia_Book/4#p5_6)) I recoil at the idea of atonement.
+A problem some of us have with the name “Jesus” is all of the Christian baggage that comes with it. I have seen too many Jesus looking down at me in pictures or on plastic crosses with sad, teary eyes. Not that his death was without meaning, but if you do not accept the doctrine of the atonement, the plastic crosses and associated Christian myths about the meaning of his death only serve to distract us from the nobility of his life. I could never accept the idea that Jesus had to die on a cross before God would forgive me. Like the authors of _The Urantia Book_ (see <a id="a64_573"></a>[UB 4:5.6](/en/The_Urantia_Book/4#p5_6)) I recoil at the idea of atonement.
 
 Many of us find unacceptable the conservative Christian idea that only those who accept Jesus Christ as their savior or redeemer will have eternal life. Because I have a bit of a problem with the Christian concept of Jesus, I have sometimes used his Jewish name, Yeshua, when I refer to him.
 
@@ -84,7 +84,7 @@ The freedom to do what we please seems desirable, but the mature person understa
 
 Just so, the spiritual rewards of a relationship with Michael/Jesus far outweigh the freedom of doing our own thing. And wouldn’t it be comforting to have our elder spiritual brother there to hold our hand when we have to walk through, “the valley of the shadow of death. . . ?”
 
-> “The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God.” ([UB 111:5.1](/en/The_Urantia_Book/111#p5_1))
+> “The doing of the will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God.” (<a id="a86_135"></a>[UB 111:5.1](/en/The_Urantia_Book/111#p5_1))
 
 > True friends don't sympathize with your weakness—they help summon y our strength.
 

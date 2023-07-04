@@ -78,7 +78,7 @@ The maximum progression attainable by human creatures culminates with:
 - Our knowing of the Supreme
 - Our achievement of the perfection, harmony, and unanimity of our wills such that the desire to do the Father’s will is supreme in our souls and dominant over our minds.
 
-Having attained that desirable state, we qualify to become “as one” with the Father-Spirit within, and thus move on from our mortal limitations towards the potentials of a transcendent spirit existence. From that time onwards our concepts of “reality,” finite or transcendent, may be expected to undergo advances that are beyond our current capacity to comprehend. (see [UB 130:4.3](/en/The_Urantia_Book/130#p4_3))
+Having attained that desirable state, we qualify to become “as one” with the Father-Spirit within, and thus move on from our mortal limitations towards the potentials of a transcendent spirit existence. From that time onwards our concepts of “reality,” finite or transcendent, may be expected to undergo advances that are beyond our current capacity to comprehend. (see <a id="a80_370"></a>[UB 130:4.3](/en/The_Urantia_Book/130#p4_3))
 
 ## External links
 

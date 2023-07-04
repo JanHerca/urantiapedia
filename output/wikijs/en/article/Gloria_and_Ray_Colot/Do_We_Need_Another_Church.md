@@ -44,19 +44,19 @@ Dick Bain’s article in the March/April Innerface had us all fired up with enth
 
 4. What the book says: 
 
-> _The cult preserved sentiment and satisfied emotion, but it has always been the greatest obstacle to social reconstruction and spiritual progress. Notwithstanding that the cult has always retarded social progress, it is regrettable so many modern believers in moral standards and spiritual ideals have no adequate symbolism—cult of mutual support—nothing to belong to._ ([UB 87:7.2-3](/en/The_Urantia_Book/87#p7_2))
+> _The cult preserved sentiment and satisfied emotion, but it has always been the greatest obstacle to social reconstruction and spiritual progress. Notwithstanding that the cult has always retarded social progress, it is regrettable so many modern believers in moral standards and spiritual ideals have no adequate symbolism—cult of mutual support—nothing to belong to._ (<a id="a46_373"></a>[UB 87:7.2-3](/en/The_Urantia_Book/87#p7_2))
 > 
-> _Modern man must find some adequate symbolism for his new and expanding ideas, ideals, and loyalties. This higher symbolism must be predicated on the concept of the Fatherhood of God and be pregnant with the mighty ideal of the brotherhood of man._ ([UB 87:7.6](/en/The_Urantia_Book/87#p7_6))
+> _Modern man must find some adequate symbolism for his new and expanding ideas, ideals, and loyalties. This higher symbolism must be predicated on the concept of the Fatherhood of God and be pregnant with the mighty ideal of the brotherhood of man._ (<a id="a48_252"></a>[UB 87:7.6](/en/The_Urantia_Book/87#p7_6))
 > 
-> _Always remember, the cults are formed, not to discover truth, but rather to promulgate their creeds._ ([UB 92:3.1](/en/The_Urantia_Book/92#p3_1))
+> _Always remember, the cults are formed, not to discover truth, but rather to promulgate their creeds._ (<a id="a50_106"></a>[UB 92:3.1](/en/The_Urantia_Book/92#p3_1))
 > 
-> _Formal religion restrains men in their personal spiritual activities instead of releasing them for heightened service as kingdom builders._ ([UB 99:6.4](/en/The_Urantia_Book/99#p6_4))
+> _Formal religion restrains men in their personal spiritual activities instead of releasing them for heightened service as kingdom builders._ (<a id="a52_144"></a>[UB 99:6.4](/en/The_Urantia_Book/99#p6_4))
 > 
-> _Man develops best when the pressures of home, community, church, and state are least. But this must not be construed as meaning that there is no place in progressive society for home, social institutions, church, and state. There is great hope for any church that worships the living God, validates the brotherhood of man, and dares to remove all creedal pressure from its members._ ([UB 103:5.11-12](/en/The_Urantia_Book/103#p5_11))
+> _Man develops best when the pressures of home, community, church, and state are least. But this must not be construed as meaning that there is no place in progressive society for home, social institutions, church, and state. There is great hope for any church that worships the living God, validates the brotherhood of man, and dares to remove all creedal pressure from its members._ (<a id="a54_387"></a>[UB 103:5.11-12](/en/The_Urantia_Book/103#p5_11))
 > 
-> _The visible church should refuse longer to handicap the progress of the invisible and spiritual brotherhood of the kingdom of God. And this brotherhood is destined to become a living organism in contrast to an institutionalized social organization. It may well utilize such social organizations, but it must not be supplanted by them._ ([UB 195:10.11](/en/The_Urantia_Book/195#p10_11))
+> _The visible church should refuse longer to handicap the progress of the invisible and spiritual brotherhood of the kingdom of God. And this brotherhood is destined to become a living organism in contrast to an institutionalized social organization. It may well utilize such social organizations, but it must not be supplanted by them._ (<a id="a56_340"></a>[UB 195:10.11](/en/The_Urantia_Book/195#p10_11))
 
-> True religion is to know God as your Father and man as your brother. Religion has always been a conservator of morals and a stabilizer of society. And this is still true, notwithstanding the contrary teaching of many modern socialists and humanists. ([UB 99:5.1-2](/en/The_Urantia_Book/99#p5_1))
+> True religion is to know God as your Father and man as your brother. Religion has always been a conservator of morals and a stabilizer of society. And this is still true, notwithstanding the contrary teaching of many modern socialists and humanists. (<a id="a58_253"></a>[UB 99:5.1-2](/en/The_Urantia_Book/99#p5_1))
 
 ## External links
 

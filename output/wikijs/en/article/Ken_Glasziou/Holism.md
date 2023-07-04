@@ -34,7 +34,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 </figure>
 
 
-> “Every impulse of every electron, thought, or spirit is an acting unit in the whole universe....The universe is a whole; no thing or being exists or lives in isolation.” ([UB 56:10.14](/en/The_Urantia_Book/56#p10_14))
+> “Every impulse of every electron, thought, or spirit is an acting unit in the whole universe....The universe is a whole; no thing or being exists or lives in isolation.” (<a id="a36_173"></a>[UB 56:10.14](/en/The_Urantia_Book/56#p10_14))
 
 In the 1930's, that statement was decades ahead of its time. Only a handful of particle physicists would have conceded that it might be true.
 
@@ -74,11 +74,11 @@ In Whitehead's scheme, God's primordial nature is taken as the source of “eter
 
 Urantia Book readers might note the similarities of the primordial nature of God with aspects of existential deity as propounded in the Urantia Papers and the consequent nature of God which is immersed in the world having similarities with the God the Supreme as described in the Papers.
 
-In Whitehead's scheme, in his primordial nature God has a vision of all potentialities and a plan on how each individual might best use them for their growth. The Urantia Papers inform us that “There is in the mind of God a plan which embraces every creature of all his vast domains,” ([UB 32:5.7](/en/The_Urantia_Book/32#p5_7)) and that our Thought Adjusters lay plans for our eternal careers ([UB 107:7.3](/en/The_Urantia_Book/107#p7_3)).
+In Whitehead's scheme, in his primordial nature God has a vision of all potentialities and a plan on how each individual might best use them for their growth. The Urantia Papers inform us that “There is in the mind of God a plan which embraces every creature of all his vast domains,” (<a id="a76_286"></a>[UB 32:5.7](/en/The_Urantia_Book/32#p5_7)) and that our Thought Adjusters lay plans for our eternal careers (<a id="a76_395"></a>[UB 107:7.3](/en/The_Urantia_Book/107#p7_3)).
 
 The description of both existential deity (transcendent deity) and experiential deity provided in the Urantia Papers appears to be far in advance of anything postulated by process theologians. The encouraging thing is the convergence of their paths, coupled with the observation that both provide rational alternatives to theological problems that, in the past, had no solutions.
 
-Process philosophy is holistic. It perceives relationships between primary, but transient, entities as being the basis of all reality and growth, and all things affecting one another. Our opening quotation from [UB 56:10.14](/en/The_Urantia_Book/56#p10_14) establishes that the Urantia Papers also propound a holistic view of reality.
+Process philosophy is holistic. It perceives relationships between primary, but transient, entities as being the basis of all reality and growth, and all things affecting one another. Our opening quotation from <a id="a80_211"></a>[UB 56:10.14](/en/The_Urantia_Book/56#p10_14) establishes that the Urantia Papers also propound a holistic view of reality.
 
 > You can't step into the same river twice.
 > _Heraclitus_

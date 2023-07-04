@@ -61,7 +61,7 @@ Unfortunately their message did not remain wholly permanent amid all the superst
 
 c. **Next, Machiventa collaborated with many prophets and seers** on Earth, invisibly present from about 1866 BC to 30 AD, approximately 1,900 years in duration, until the times of the arrival and ministry of Christ on Earth.
 
-> _This same Melchizedek continued to collaborate throughout the nineteen succeeding centuries with the many prophets and seers, thus endeavoring to keep alive the truths of Salem until the fullness of the time for Michael's appearance on earth._ [UB 93:10.4](/en/The_Urantia_Book/93#p10_4)
+> _This same Melchizedek continued to collaborate throughout the nineteen succeeding centuries with the many prophets and seers, thus endeavoring to keep alive the truths of Salem until the fullness of the time for Michael's appearance on earth._ <a id="a63_247"></a>[UB 93:10.4](/en/The_Urantia_Book/93#p10_4)
 
 During this striking period of Earth history, many notable prophets and seers came onto the scene. I conjecture it was likely that Melchizedek collaborated, unseen, with many of them and fostered their efforts, especially as they pertained to the God concept. Highly significant persons and events include:
 
@@ -88,7 +88,7 @@ The bases for estimating the Melchizedek Governor General timeline, a one- hundr
 
 The first three parts of the Urantia papers were completed in 1935 AD. For the term “less than a thousand years ago” I estimate 985 years, which takes us back to the year 950 AD. To that I add one hundred years for the length of Melchizedek's term as Governor General of Urantia, which takes us to 1050 AD.
 
-> “_Less than a thousand years ago this same Machiventa Melchizedek, the onetime sage of Salem, was invisibly present on Urantia for a period of one hundred years, acting as resident governor general of the planet; and if the present system of directing planetary affairs should continue, he will be due to return in the same capacity in a little over one thousand years._” [UB 93:10.10](/en/The_Urantia_Book/93#p10_10)
+> “_Less than a thousand years ago this same Machiventa Melchizedek, the onetime sage of Salem, was invisibly present on Urantia for a period of one hundred years, acting as resident governor general of the planet; and if the present system of directing planetary affairs should continue, he will be due to return in the same capacity in a little over one thousand years._” <a id="a90_374"></a>[UB 93:10.10](/en/The_Urantia_Book/93#p10_10)
 
 _Beginning of term as Resident Governor General_
 
@@ -118,7 +118,7 @@ The events that occurred during Machiventa's hundred-year tenure as Governor are
 
 e. **Vicegerent Planetary Prince of Urantia, current era**
 
-> This Melchizedek has latterly been proclaimed vicegerent Planetary Prince of Urantia with headquarters on Jerusem and authority to act in behalf of Michael, who is actually the Planetary Prince of the world whereon he experienced his terminal bestowal in human form. [UB 45:4.16](/en/The_Urantia_Book/45#p4_16)
+> This Melchizedek has latterly been proclaimed vicegerent Planetary Prince of Urantia with headquarters on Jerusem and authority to act in behalf of Michael, who is actually the Planetary Prince of the world whereon he experienced his terminal bestowal in human form. <a id="a120_269"></a>[UB 45:4.16](/en/The_Urantia_Book/45#p4_16)
 
 ## Thoughts on Prayer
 
@@ -132,9 +132,9 @@ We can only imagine the close camaraderie Michael and Machiventa have enjoyed, e
 
 And so it seems that Michael's selection of the highly experienced and versatile emergency son, Machiventa Melchizedek, to be our current vicegerent planetary prince was the perfect choice. His headquarters is now on Jerusem.
 
-> Some believe that Machiventa will not come to take personal direction of Urantian affairs until the end of the current dispensation. Others hold that the vicegerent Prince may not come, as such, until Michael sometime returns to Urantia as he promised when still in the flesh. Still others, including this narrator, look for Melchizedek's appearance any day or hour. [UB 114:1.4](/en/The_Urantia_Book/114#p1_4)
+> Some believe that Machiventa will not come to take personal direction of Urantian affairs until the end of the current dispensation. Others hold that the vicegerent Prince may not come, as such, until Michael sometime returns to Urantia as he promised when still in the flesh. Still others, including this narrator, look for Melchizedek's appearance any day or hour. <a id="a134_369"></a>[UB 114:1.4](/en/The_Urantia_Book/114#p1_4)
 
-> This is the story of Machiventa Melchizedek, one of the most unique of all characters ever to become connected with the history of Urantia and a personality who may be destined to play an important role in the future experience of your irregular and unusual world. [UB 93:10.11](/en/The_Urantia_Book/93#p10_11)
+> This is the story of Machiventa Melchizedek, one of the most unique of all characters ever to become connected with the history of Urantia and a personality who may be destined to play an important role in the future experience of your irregular and unusual world. <a id="a136_267"></a>[UB 93:10.11](/en/The_Urantia_Book/93#p10_11)
 
 Let us put our hand to the plow of world progress and move forward with dedication, faith, intelligence, and confidence.
 

@@ -100,7 +100,7 @@ In this informally published paper, Dr. William Sadler outlines 64 knowledge con
 
 32. **Identification of the Holy Spirit:** Pointing out the Holy Spirit as the presence of the Local Universe Mother Spirit, a daughter of the Infinite Spirit, is altogether new and original in the Urantia Papers. [Paper 34](/en/The_Urantia_Book/34) 
 
-33. **The Seven Adjutant Mind Spirits:** While the Bible makes mention of seven spirits and in Isaiah partially identifies them, the Urantia narrative is so full and unique as to make it virtually an original presentation. [Paper 36:5](/en/The_Urantia_Book/36#p5) 
+33. **The Seven Adjutant Mind Spirits:** While the Bible makes mention of seven spirits and in Isaiah partially identifies them, the Urantia narrative is so full and unique as to make it virtually an original presentation. <a id="a102_223"></a>[Paper 36:5](/en/The_Urantia_Book/36#p5) 
 
 34. **Local Universe Sons of God:** The whole story of Local Universe Sons is new and original. [Paper 35](/en/The_Urantia_Book/35) 
 
@@ -108,31 +108,31 @@ In this informally published paper, Dr. William Sadler outlines 64 knowledge con
 
 36. **The Seven Mansion Worlds:** While the Master alluded to the “_mansion worlds,_” as noted in the Bible, the replete story of their nature and purpose is both new and original. [Paper 17](/en/The_Urantia_Book/17) 
 
-37. **The Morontia Concept:** The whole morontia concept of the stage between the material and the spiritual is new and original in _The Urantia Book_. [Papers 30:4](/en/The_Urantia_Book/30#p4); [39:2](/en/The_Urantia_Book/39#p2); [48](/en/The_Urantia_Book/48) 
+37. **The Morontia Concept:** The whole morontia concept of the stage between the material and the spiritual is new and original in _The Urantia Book_. <a id="a110_152"></a>[Papers 30:4](/en/The_Urantia_Book/30#p4); <a id="a110_195"></a>[39:2](/en/The_Urantia_Book/39#p2); [48](/en/The_Urantia_Book/48) 
 
-38. **Celestial Artisans and Reversion Directors:** Both of these concepts are new in _The Urantia Book_. The concept of celestial play and spiritual humor is all but new. [Papers 30:3](/en/The_Urantia_Book/30#p3); [48:4](/en/The_Urantia_Book/48#p4) 
+38. **Celestial Artisans and Reversion Directors:** Both of these concepts are new in _The Urantia Book_. The concept of celestial play and spiritual humor is all but new. <a id="a112_172"></a>[Papers 30:3](/en/The_Urantia_Book/30#p3); <a id="a112_215"></a>[48:4](/en/The_Urantia_Book/48#p4) 
 
-39. **Concept of Permanent Cosmic Citizenship:** This is wholly original in _The Urantia Book_. [Papers 30:2](/en/The_Urantia_Book/32#p2); [31:5](/en/The_Urantia_Book/31#p5); [37:9](/en/The_Urantia_Book/37#p9); [40:10](/en/The_Urantia_Book/40#p10). 
+39. **Concept of Permanent Cosmic Citizenship:** This is wholly original in _The Urantia Book_. <a id="a114_96"></a>[Papers 30:2](/en/The_Urantia_Book/32#p2); <a id="a114_139"></a>[31:5](/en/The_Urantia_Book/31#p5); <a id="a114_175"></a>[37:9](/en/The_Urantia_Book/37#p9); <a id="a114_211"></a>[40:10](/en/The_Urantia_Book/40#p10). 
 
-40. **The Urantia Midwayers:** While the Old Testament does refer to the “_Nephilim_” the citation is so indefinite as to constitute the Urantia story of the midwayers as a new and original narrative. [Papers 30:9](/en/The_Urantia_Book/30#p9); [66:4](/en/The_Urantia_Book/6#p4); [77:6](/en/The_Urantia_Book/77#p6) 
+40. **The Urantia Midwayers:** While the Old Testament does refer to the “_Nephilim_” the citation is so indefinite as to constitute the Urantia story of the midwayers as a new and original narrative. <a id="a116_201"></a>[Papers 30:9](/en/The_Urantia_Book/30#p9); <a id="a116_244"></a>[66:4](/en/The_Urantia_Book/6#p4); <a id="a116_279"></a>[77:6](/en/The_Urantia_Book/77#p6) 
 
 41. **The Superhuman Planetary Government:** The story of the planetary functions of the Most Highs, the Reserve Corps, and the planetary seraphim is original, notwithstanding the allusion to the work of the Most Highs in the Bible. [Paper 114](/en/The_Urantia_Book/114) 
 
 42. **The Billions of Inhabited Worlds:** At the time of the arrival of the Urantia Papers, there was no literature dealing with inhabited worlds other than our world. The idea was new. In recent years we frequently run across speculations regarding other inhabited planets. _The Urantia Book_’s extensive exposition of the subject is original. [Papers 12](/en/The_Urantia_Book/12), [15](/en/The_Urantia_Book/15) 
 
-43. **Clarification of Sin and Rebellion:** The unique clarification of evil, sin, iniquity, and rebellion is original with _The Urantia Book_. [Paper 2:2](/en/The_Urantia_Book/2#p2) 
+43. **Clarification of Sin and Rebellion:** The unique clarification of evil, sin, iniquity, and rebellion is original with _The Urantia Book_. <a id="a122_144"></a>[Paper 2:2](/en/The_Urantia_Book/2#p2) 
 
-44. **Identity of Adam & Eve:** The narrative of the legendary story of Adam and Eve as bestowed personalities, Material Sons and Daughters, is original in _The Urantia Book_. [37:9](/en/The_Urantia_Book/37#p9); [74](/en/The_Urantia_Book/74) 
+44. **Identity of Adam & Eve:** The narrative of the legendary story of Adam and Eve as bestowed personalities, Material Sons and Daughters, is original in _The Urantia Book_. <a id="a124_176"></a>[37:9](/en/The_Urantia_Book/37#p9); [74](/en/The_Urantia_Book/74) 
 
-45. **Clarification of Melchizedek:** The story of Melchizedek as an individual and as the name designation of a corps of universe teachers presented in the Urantia pa pers is a new and original concept. [Papers 45:4](/en/The_Urantia_Book/45#p4); [93](/en/The_Urantia_Book/93) 
+45. **Clarification of Melchizedek:** The story of Melchizedek as an individual and as the name designation of a corps of universe teachers presented in the Urantia pa pers is a new and original concept. <a id="a126_204"></a>[Papers 45:4](/en/The_Urantia_Book/45#p4); [93](/en/The_Urantia_Book/93) 
 
 46. **Concept of the Ages of Light and Life:** The fruition of mortal evolution as portrayed as the ages of light and life is altogether new and original. [Paper 55](/en/The_Urantia_Book/55) 
 
 47. **A Unified History of Urantia (Earth):** Nowhere else in human expression can you find a consistent and unified history of our world—its origin, nature, and destiny. For the first time we have a chronology of human affairs. Part III of _The Urantia Book_. 
 
-48. **Diseases:** The book presents a new and original explanation of microbic diseases. [Papers 65:2](/en/The_Urantia_Book/65#p2); [76:5](/en/The_Urantia_Book/76#p5); [90:3](/en/The_Urantia_Book/90#p3) 
+48. **Diseases:** The book presents a new and original explanation of microbic diseases. <a id="a132_89"></a>[Papers 65:2](/en/The_Urantia_Book/65#p2); <a id="a132_132"></a>[76:5](/en/The_Urantia_Book/76#p5); <a id="a132_168"></a>[90:3](/en/The_Urantia_Book/90#p3) 
 
-49. **Antigravity:** The whole concept of antigravity is unique and original with the Urantia Papers. Only recently has any scientist promulgated a theory of antigravity. [Papers 9:3](/en/The_Urantia_Book/9#p3); [11](/en/The_Urantia_Book/11); [15:8](/en/The_Urantia_Book/15#p8); [42](/en/The_Urantia_Book/42) 
+49. **Antigravity:** The whole concept of antigravity is unique and original with the Urantia Papers. Only recently has any scientist promulgated a theory of antigravity. <a id="a134_171"></a>[Papers 9:3](/en/The_Urantia_Book/9#p3); [11](/en/The_Urantia_Book/11); <a id="a134_243"></a>[15:8](/en/The_Urantia_Book/15#p8); [42](/en/The_Urantia_Book/42) 
 
 50. **Jesus’ Birthday:** For the first time during the Christian era we know the real birthday of Jesus—August 21, 7 BC. [Paper 122](/en/The_Urantia_Book/122) 
 
@@ -152,17 +152,17 @@ In this informally published paper, Dr. William Sadler outlines 64 knowledge con
 
 58. **Explanation of Unintended Miracles:** The book presents a possible explanation of numerous unintended miracles. [Paper 136](/en/The_Urantia_Book/136) 
 
-59. **Jesus’ Attitude toward Art and Athletics and Women:** The Master’s attitude toward art, athletics, and women are nowhere else revealed. Art–[Paper 142:4](/en/The_Urantia_Book/142#p4), Athletics–[Paper 124:3](/en/The_Urantia_Book/124#p3), Women–[Papers 133:2](/en/The_Urantia_Book/133#p2), [UB 138:8](/en/The_Urantia_Book/138#p8), [UB 143:5](/en/The_Urantia_Book/143#p5), [149:2](/en/The_Urantia_Book/149#p2) 
+59. **Jesus’ Attitude toward Art and Athletics and Women:** The Master’s attitude toward art, athletics, and women are nowhere else revealed. Art–<a id="a154_146"></a>[Paper 142:4](/en/The_Urantia_Book/142#p4), Athletics–<a id="a154_200"></a>[Paper 124:3](/en/The_Urantia_Book/124#p3), Women–<a id="a154_250"></a>[Papers 133:2](/en/The_Urantia_Book/133#p2), <a id="a154_295"></a>[UB 138:8](/en/The_Urantia_Book/138#p8), <a id="a154_336"></a>[UB 143:5](/en/The_Urantia_Book/143#p5), <a id="a154_377"></a>[149:2](/en/The_Urantia_Book/149#p2) 
 
 60. **The Sermon on the Mount:** I am, of course. not familiar with all the literature on the Sermon on the Mount. But as far as I know, the interpretation of this address in _The Urantia Book_ is new and original. [Paper 140](/en/The_Urantia_Book/140) 
 
-61. **The Women’s Evangelistic Corps:** This story is new, notwithstanding the brief mention of this matter in the New Testament. [Paper 150:1](/en/The_Urantia_Book/150#p1) 
+61. **The Women’s Evangelistic Corps:** This story is new, notwithstanding the brief mention of this matter in the New Testament. <a id="a158_130"></a>[Paper 150:1](/en/The_Urantia_Book/150#p1) 
 
 62. **Rodan of Alexandria:** This whole story is original with _The Urantia Book_. [Paper 160](/en/The_Urantia_Book/160) 
 
 63. **The Story of Abner:** The unique story of the head of John the Baptist’s apostles is original with the Urantia Papers. [Papers 144](/en/The_Urantia_Book/144), [162](/en/The_Urantia_Book/162), [166](/en/The_Urantia_Book/166), [167](/en/The_Urantia_Book/167) 
 
-64. **David Zebedee’s Intelligence Corps:** This entire story is found exclusively in _The Urantia Book_. [Papers 149](/en/The_Urantia_Book/149); [154:5](/en/The_Urantia_Book/154#p5); [157:6](/en/The_Urantia_Book/157#p6); [186:3](/en/The_Urantia_Book/186#p3) 
+64. **David Zebedee’s Intelligence Corps:** This entire story is found exclusively in _The Urantia Book_. [Papers 149](/en/The_Urantia_Book/149); <a id="a164_146"></a>[154:5](/en/The_Urantia_Book/154#p5); <a id="a164_184"></a>[157:6](/en/The_Urantia_Book/157#p6); <a id="a164_222"></a>[186:3](/en/The_Urantia_Book/186#p3) 
 
 ## References
 

@@ -31,7 +31,7 @@ dateCreated: 2022-09-26T22:34:25.148Z
 </figure>
 
 
-> The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will **dare to construct a new and appealing philosophy** of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness. Such a new and righteous vision of morality will attract all that is good in the mind of man and challenge that which is best in the human soul. Truth, beauty, and goodness are divine realities, and as man ascends the scale of spiritual living, these supreme qualities of the Eternal become increasingly coordinated and unified in God, who is love. ([UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
+> The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will **dare to construct a new and appealing philosophy** of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness. Such a new and righteous vision of morality will attract all that is good in the mind of man and challenge that which is best in the human soul. Truth, beauty, and goodness are divine realities, and as man ascends the scale of spiritual living, these supreme qualities of the Eternal become increasingly coordinated and unified in God, who is love. (<a id="a33_655"></a>[UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
 
 The authors of the Urantia revelation presented their own qualifications in what surely must be one of the most remarkable books ever written–a work that would be even more remarkable if actually written by human beings.
 

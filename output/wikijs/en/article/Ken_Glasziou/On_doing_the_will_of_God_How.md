@@ -34,7 +34,7 @@ dateCreated: 2022-09-26T19:01:14.495Z
 </figure>
 
 
-Did you know that it is possible for the human soul to make a final decision to fuse with your indwelling Father-Spirit? And you can do it NOW. ([UB 111:3.2](/en/The_Urantia_Book/111#p3_2))
+Did you know that it is possible for the human soul to make a final decision to fuse with your indwelling Father-Spirit? And you can do it NOW. (<a id="a36_145"></a>[UB 111:3.2](/en/The_Urantia_Book/111#p3_2))
 
 So what is needed for us to make this decision and for it to be valid? Whether or not we qualify is dependent on the state of our mind–which must grant authority to our soul to make the decision on our behalf.
 
@@ -53,15 +53,15 @@ The Papers describe the meaning of doing the will of God in these terms:
 
 Try as we may, we cannot get specific instructions or a set of rules that define exactly what “doing the will of God” really is. Perhaps it is best described in the answer Jesus once gave to a young inquirer:
 
-> “This was a conference which lasted well into the night, in the course of which the young man requested Jesus to tell him the difference between the will of God and that human mind act of choosing which is also called will. In substance Jesus said: The will of God is the way of God, partnership with the choice of God in the face of any potential alternative. To do the will of God, therefore, is the progressive experience of becoming more and more like God, and God is the source and destiny of all that is good and beautiful and true.” ([UB 130:2.7](/en/The_Urantia_Book/130#p2_7))
+> “This was a conference which lasted well into the night, in the course of which the young man requested Jesus to tell him the difference between the will of God and that human mind act of choosing which is also called will. In substance Jesus said: The will of God is the way of God, partnership with the choice of God in the face of any potential alternative. To do the will of God, therefore, is the progressive experience of becoming more and more like God, and God is the source and destiny of all that is good and beautiful and true.” (<a id="a55_543"></a>[UB 130:2.7](/en/The_Urantia_Book/130#p2_7))
 
 To be committed to doing the will of God we need to be also committed to becoming more and more like God, to be seeking a perfection that is God-like. And the reason that specific rules cannot be laid down is because every situation in which we find ourselves is unique to that moment and will never occur again in exactly the same way. Hence “the will of God” is the “way of God” appears to be about as definite as it can get.
 
-Presumably this is also why the Papers inform us: “_One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it._” ([UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
+Presumably this is also why the Papers inform us: “_One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it._” (<a id="a59_343"></a>[UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
 
 And in the first paragraph of “The Nature of God,” in Paper 2:
 
-> “The nature of God can best be understood by the revelation of the Father which Michael of Nebadon unfolded in his manifold teachings and in his superb mortal life in the flesh.” ([UB 2:0.1](/en/The_Urantia_Book/2#p0_1))
+> “The nature of God can best be understood by the revelation of the Father which Michael of Nebadon unfolded in his manifold teachings and in his superb mortal life in the flesh.” (<a id="a63_182"></a>[UB 2:0.1](/en/The_Urantia_Book/2#p0_1))
 
 So in a nut shell, doing the will of God means, with Jesus as our model, always to be trying to become more and more God-like. And the real meaning and purpose of each life on Urantia all boils down to that.
 

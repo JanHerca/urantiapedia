@@ -94,7 +94,7 @@ Suffice it to comment that this is a marvelously gifted team, not a group of wil
 
 ## Relativity and the Papers
 
-> “Let not your dabblings with the faintly glimpsed findings of “relativity” disturb your concepts of the eternity and infinity of God.” ([UB 195:7.5](/en/The_Urantia_Book/195#p7_5))
+> “Let not your dabblings with the faintly glimpsed findings of “relativity” disturb your concepts of the eternity and infinity of God.” (<a id="a96_138"></a>[UB 195:7.5](/en/The_Urantia_Book/195#p7_5))
 
 Many Urantia Book readers believe certain of the remarks in the Papers that use the term “relativity” refer to Einstein’s General Relativity. This belief may be misplaced. However those who do so may be relieved to know that Arp’s model of the creation does away with the need for the curvature of space-time that is basic in Einstein’s general relativity.
 

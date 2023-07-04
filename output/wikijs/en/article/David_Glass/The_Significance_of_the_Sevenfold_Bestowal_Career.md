@@ -38,15 +38,15 @@ The seven bestowals of Christ Michael, unlike the sevenfold bestowals of the Ete
 
 To begin at the planetary level and then to ascend through all levels of ever-widening scope and relevance, Michael’s bestowal on Urantia, according to the revelators, came at the most auspicious time for the global appreciation and effect of the bestowal in all history up to that time and, so far, since that time. _The Urantia Book_ states that our world has not yet reached a level any more advantageously inclined to receive Michael appreciatively and appropriately than at that which prevailed at the time of the actual Urantia bestowal of the Son of God and Son of Man. What the Urantia Papers actually say pursuant to this point is: 
 
-> Jesus did not come to this world during an age of spiritual decadence; at the time of his birth Urantia was experiencing such a revival of spiritual thinking and religious living as it had not known in all its previous post-Adamic history nor has experienced in any era since. [[UB 121:1.1](/en/The_Urantia_Book/121#p1_1)] 
+> Jesus did not come to this world during an age of spiritual decadence; at the time of his birth Urantia was experiencing such a revival of spiritual thinking and religious living as it had not known in all its previous post-Adamic history nor has experienced in any era since. <a id="a40_279"></a>[[UB 121:1.1](/en/The_Urantia_Book/121#p1_1)] 
 
 Let’s appreciate fully what is being stated here. I believe the implication is that the spiritual and religious climate of Urantia is not now as propitious as it was at the time of Michael’s actual bestowal. Though mankind was perhaps technologically, economically, and socially, poised at a more humble level than that of our contemporary era, the local area of Palestine and the Hellenized and Romanized world was, I infer, more conducive to the reception and integration of Michael’s life and teachings into the worldly systems and organizations than it would be, or is, at present. 
 
 Now, in the present, we find ourselves having just recently (cosmically speaking) been presented with a revelatory restatement of the record of the life and teaching of Michael on Urantia. No doubt, there was and is a certain “timely rightness” or temporal appropriateness about the bestowal of this information of so much of Jesus’ life and teachings at this time in history. We can speculate what some of these reasons may be; I feel that a primary purpose for the timing of this bestowal gift is so that it can assist in the preparation of teachers and leaders to function throughout what I presume to be a period of perhaps a millennium of planetary transition, an era into which we have already embarked. 
 
-> This new and oncoming social order will not settle down complacently for a millennium. The human race must become reconciled to a procession of changes, adjustments, and readjustment. Mankind is on the march toward a new and unrevealed planetary destiny. [[UB 99:1.1](/en/The_Urantia_Book/99#p1_1)]  
+> This new and oncoming social order will not settle down complacently for a millennium. The human race must become reconciled to a procession of changes, adjustments, and readjustment. Mankind is on the march toward a new and unrevealed planetary destiny. <a id="a46_257"></a>[[UB 99:1.1](/en/The_Urantia_Book/99#p1_1)]  
 
-> Urantia society can never hope to settle down as in past ages. The social ship has steamed out of the sheltered bays of established tradition and has begun its cruise upon the high seas of evolutionary destiny; and the soul of man, as never before in the world’s history, needs carefully to scrutinize its charts of morality and painstakingly to observe the compass of religious guidance. [[UB 99:1.3](/en/The_Urantia_Book/99#p1_3)]  
+> Urantia society can never hope to settle down as in past ages. The social ship has steamed out of the sheltered bays of established tradition and has begun its cruise upon the high seas of evolutionary destiny; and the soul of man, as never before in the world’s history, needs carefully to scrutinize its charts of morality and painstakingly to observe the compass of religious guidance. <a id="a48_391"></a>[[UB 99:1.3](/en/The_Urantia_Book/99#p1_3)]  
 
 ## Levels of Significance 
 
@@ -54,7 +54,7 @@ I submit that the life and teaching of Jesus—presented in the context of the c
 
 The revelation of Michael’s life and teaching on Urantia is also of _local system_ importance in that, as a man with the sole assistance of his Adjuster, Michael engaged himself in a final struggle with Caligastia and Lucifer and officially terminated the Lucifer rebellion. Additionally, considerable changes in local system administration—most notably the assignment of a new local system sovereign, Lanaforge, to fill Lucifer’s vacated office— were necessary. 
 
-The bestowal of Michael on Urantia was of _constellation_ significance in that, since the outbreak of the Lucifer rebellion, terminated during Michael’s Urantia bestowal, a Most High Observer, a Vorondadek Son from Edentia, has been of continuous assignment to the watchcare and potential emergency administration of our planet. [[UB 114:4](/en/The_Urantia_Book/114#p4)] 
+The bestowal of Michael on Urantia was of _constellation_ significance in that, since the outbreak of the Lucifer rebellion, terminated during Michael’s Urantia bestowal, a Most High Observer, a Vorondadek Son from Edentia, has been of continuous assignment to the watchcare and potential emergency administration of our planet. <a id="a56_329"></a>[[UB 114:4](/en/The_Urantia_Book/114#p4)] 
 
 Michael’s sevenfold bestowal career was obviously of tremendous _local universe_ importance because the one-billion year enterprise represents Michael’s required method of acquiring forever the supreme sovereignty of his own, self-created universe of Nebadon. 
 
@@ -70,12 +70,12 @@ Michael’s completion of his bestowal career in Nebadon and his accession to th
 
 The revelation discloses that there are absolute potentials folded up in the unfathomable natures of the Michael Sons, potentials which are inherent in their origin in absolute beings— the Universal Father and the Eternal Son. Therefore, does the achievement of local universe sovereignty serve as another significant benchmark in the actualization of those unlimited potentials. In this regard, let me close with this quotation: 
 
-> . . . When on Urantia, Christ Michael once said, “I am the way, the truth, and the life.” And we believe that in eternity the Michaels are literally destined to be “the way, the truth, and the life,” ever blazing the path for all universe personalities as it leads from supreme divinity through ultimate absonity to eternal deity finality. [[UB 21:6.4](/en/The_Urantia_Book/21#p6_4)]  
+> . . . When on Urantia, Christ Michael once said, “I am the way, the truth, and the life.” And we believe that in eternity the Michaels are literally destined to be “the way, the truth, and the life,” ever blazing the path for all universe personalities as it leads from supreme divinity through ultimate absonity to eternal deity finality. <a id="a72_342"></a>[[UB 21:6.4](/en/The_Urantia_Book/21#p6_4)]  
 
 > David Glass has been a student of _The Urantia Book_ since 1973 and has been active in many study groups and conferences in several states, including Florida, Oregon, and Texas. He gives private piano lessons and enjoys writing spiritually inspired poetry. Currently serving as Vice President of the North Texas Urantia Society, he has just begun his 16th reading of _The Urantia Book_.  
 {.is-info}
 
-> . . . The appearance in and on your world, by apparently natural processes, of a divine Son, we regard as a miracle—the operation of universal laws beyond our understanding. Jesus of Nazareth was a miraculous person. [[UB 120:4.5](/en/The_Urantia_Book/120#p4_5)]  
+> . . . The appearance in and on your world, by apparently natural processes, of a divine Son, we regard as a miracle—the operation of universal laws beyond our understanding. Jesus of Nazareth was a miraculous person. <a id="a77_219"></a>[[UB 120:4.5](/en/The_Urantia_Book/120#p4_5)]  
 
 ## References
 

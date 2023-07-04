@@ -37,9 +37,9 @@ By the old way you seek to suppress, obey, and conform to the rules of living; b
 
 Forget not--it is your personal faith in the exceedingly great and precious promises of God that ensures your becoming partakers of the divine nature. Thus by your faith and the spirit's transformation, you become in reality the temples of God, and his spirit actually dwells within you.
 
-If, then, the spirit dwells within you, you are no longer bondslaves of the flesh but free and liberated sons of the spirit. The new law of the spirit endows you with the liberty of self-mastery in place of the old law of the fear of self-bondage and the slavery of self-denial. ([UB 143:2.4](/en/The_Urantia_Book/143#p2_4))
+If, then, the spirit dwells within you, you are no longer bondslaves of the flesh but free and liberated sons of the spirit. The new law of the spirit endows you with the liberty of self-mastery in place of the old law of the fear of self-bondage and the slavery of self-denial. (<a id="a39_280"></a>[UB 143:2.4](/en/The_Urantia_Book/143#p2_4))
 
-> But doubt not, this same kingdom of heaven which the Master taught exists within the heart of the believer, will yet be proclaimed to this Christian church, even as to all other religions, races, and nations on earth—even to every individual. ([UB 170:5.8](/en/The_Urantia_Book/170#p5_8))
+> But doubt not, this same kingdom of heaven which the Master taught exists within the heart of the believer, will yet be proclaimed to this Christian church, even as to all other religions, races, and nations on earth—even to every individual. (<a id="a41_246"></a>[UB 170:5.8](/en/The_Urantia_Book/170#p5_8))
 
 ## External links
 

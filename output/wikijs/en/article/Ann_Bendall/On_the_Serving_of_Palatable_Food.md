@@ -50,7 +50,7 @@ As I strain my ears to listen, it is as if they are violently rejecting Moses’
 
 Let’s face it, if this was the only way we could be forgiven, God does not impress as anything other than to be feared. So is it not unfortunate that the Jesus’ God who is Love, the God we discover in the Gospel and letters of John, was transformed into Moses’ God through the symbolic debacle associated with the Pauline interpretation of the crucifixion?
 
-With such God deniers, should we declare as Jesus did, “This man was not hungry for the truth,” ([UB 132:7.2](/en/The_Urantia_Book/132#p7_2)) while feeling so delightfully smug at our “doing as Jesus did.” Or perhaps we should strive to add to the knowledge that they already have, serving them “spiritual food in attractive form” ([UB 133:4.2](/en/The_Urantia_Book/133#p4_2)) when they appear to provide us with no basis upon which to add to?
+With such God deniers, should we declare as Jesus did, “This man was not hungry for the truth,” (<a id="a52_97"></a>[UB 132:7.2](/en/The_Urantia_Book/132#p7_2)) while feeling so delightfully smug at our “doing as Jesus did.” Or perhaps we should strive to add to the knowledge that they already have, serving them “spiritual food in attractive form” (<a id="a52_332"></a>[UB 133:4.2](/en/The_Urantia_Book/133#p4_2)) when they appear to provide us with no basis upon which to add to?
 
 To “add to” requires first that we attempt to understand such people. Many who deny the existence of God are actually denying the Church which, on Urantia, a long time ago claimed patent, copyright, and propriety right to God. (Any novice in history can identify that, almost from its beginnings, the Church became so politically and socially enmeshed in human affairs that it appeared to forget, or to rank as low priority, its role as spiritual sustainer and upholder.)
 
@@ -68,7 +68,7 @@ Ironically, most of this population of God-deniers usually hold an inordinate am
 
 While our God-deniers may be highly capable of scathing and well thought out arguments against the existence of God, often based upon the historical hypocrisy of the church, they accept superstitious beliefs without question or analysis!
 
-To date, having been quite unable to formulate an acceptable hypothesis to explain such illogical beliefs, I fall back upon the Melchizedek's statement, “evolutionary religion is sentimental, not logical.” ([UB 92:4.3](/en/The_Urantia_Book/92#p4_3))
+To date, having been quite unable to formulate an acceptable hypothesis to explain such illogical beliefs, I fall back upon the Melchizedek's statement, “evolutionary religion is sentimental, not logical.” (<a id="a70_207"></a>[UB 92:4.3](/en/The_Urantia_Book/92#p4_3))
 
 ## The God-usurpers.
 

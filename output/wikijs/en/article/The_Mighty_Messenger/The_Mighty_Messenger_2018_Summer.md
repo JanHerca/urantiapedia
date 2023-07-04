@@ -90,7 +90,7 @@ We hope you will join us in this activity!
 
 ### Worship
 
-The worship theme for SSS’18 is The Relationship of Worship and Service. “Worship is the technique of looking to the One for the inspiration of service to the many” ([UB 143:7.6](/en/The_Urantia_Book/143#p7_6)). The Worship Committee has planned several events in order to create an occasion “pervaded by an atmosphere of communion.” You may attend quiet contemplative meditation in the Africa Chapel before breakfast and dinner each day; gather to contemplate our heavenly Father together prior to the plenary sessions. Sunday we will gather and share a special morning of worship with related activities.
+The worship theme for SSS’18 is The Relationship of Worship and Service. “Worship is the technique of looking to the One for the inspiration of service to the many” (<a id="a92_166"></a>[UB 143:7.6](/en/The_Urantia_Book/143#p7_6)). The Worship Committee has planned several events in order to create an occasion “pervaded by an atmosphere of communion.” You may attend quiet contemplative meditation in the Africa Chapel before breakfast and dinner each day; gather to contemplate our heavenly Father together prior to the plenary sessions. Sunday we will gather and share a special morning of worship with related activities.
 
 ### It’s a Friendly Universe Gala
 
@@ -262,7 +262,7 @@ By _Avi Dogim_
 
 As Jesus was beginning his public work, he said to the apostles:
 
-> _You do not have to see alike or feel alike or even think alike in order spiritually to be alike. Spiritual unity is derived from the consciousness that each of you is indwelt, and increasingly dominated, by the spirit gift of the heavenly Father. Your apostolic harmony must grow out of the fact that the spirit hope of each of you is identical in origin, nature, and destiny._ ([UB 141:5.1](/en/The_Urantia_Book/141#p5_1))
+> _You do not have to see alike or feel alike or even think alike in order spiritually to be alike. Spiritual unity is derived from the consciousness that each of you is indwelt, and increasingly dominated, by the spirit gift of the heavenly Father. Your apostolic harmony must grow out of the fact that the spirit hope of each of you is identical in origin, nature, and destiny._ (<a id="a264_382"></a>[UB 141:5.1](/en/The_Urantia_Book/141#p5_1))
 
 There has been much talk lately about “unity” in Urantia Fellowship circles. There had been meetings between Fellowship and UAI representatives to explore the subject. And the subject in this case was the possible merger of the two organizations.
 

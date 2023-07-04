@@ -131,9 +131,9 @@ The catastrophic origin hypothesis/Angona theory may still have more strikes aga
 
 *The Importance of Being Jupiter*, Science News.
 
-[^1]: [UB 41:10.1](/en/The_Urantia_Book/41#p10_1)
+[^1]: <a id="a133_6"></a>[UB 41:10.1](/en/The_Urantia_Book/41#p10_1)
 
-[^2]: [UB 57:5.4-14](/en/The_Urantia_Book/57#p5_4)
+[^2]: <a id="a135_6"></a>[UB 57:5.4-14](/en/The_Urantia_Book/57#p5_4)
 
 [^3]: The "Chamberlin-Moulton planetesimal theory" is a *catastrophic* theory. These theories were based on the main idea that the solar system was formed either by the collision of two stars, or by the approach of the Sun to another star, as opposed to *evolutionary* theories, in which the solar system is formed independently without the intervention of any other star. Although the theory is considered catastrophic for postulating an origin in part due to another star, it is called “planetesimal” because it postulated that once the influence of the other star had been lost, planets formed by accretion of small objects called “planetesimals”. This part of the theory, unlike the rest, has continued to be considered valid by the current scientific community. The theory was viewed favorably for nearly a third of a century, but fell out of favor in the late 1930s, finally being discarded in the 1940s as incompatible with Jupiter's angular momentum. https://en.wikipedia.org/wiki/Chamberlin-Moulton_planetesimal_hypothesis
 
@@ -147,7 +147,7 @@ The catastrophic origin hypothesis/Angona theory may still have more strikes aga
 
 [^8]: For a complete list of all the theories that have dealt with the origin of the solar system see: https://en.wikipedia.org/wiki/History_of_Solar_System_formation_and_evolution_hypotheses
 
-[^9]: [UB 41:10.2](/en/The_Urantia_Book/41#p10_2)
+[^9]: <a id="a149_6"></a>[UB 41:10.2](/en/The_Urantia_Book/41#p10_2)
 
 [^10]: Encyclopedia Britannica Macropedia, 1993
 
@@ -155,9 +155,9 @@ The catastrophic origin hypothesis/Angona theory may still have more strikes aga
 
 [^12]: Laplace's theory of the formation of the solar system is known as *nebular* theory, and it is an *evolutionary* theory: https://en.wikipedia.org/wiki/Nebular_hypothesis
 
-[^13]: [UB 15:5.3](/en/The_Urantia_Book/15#p5_3)
+[^13]: <a id="a157_7"></a>[UB 15:5.3](/en/The_Urantia_Book/15#p5_3)
 
-[^14]: [UB 57:5.14](/en/The_Urantia_Book/57#p5_14)
+[^14]: <a id="a159_7"></a>[UB 57:5.14](/en/The_Urantia_Book/57#p5_14)
 
 [^15]: An astronomical unit is the average distance between the Earth and the Sun, 149,597,870.7 km. https://en.wikipedia.org/wiki/Astronomical_unit
 

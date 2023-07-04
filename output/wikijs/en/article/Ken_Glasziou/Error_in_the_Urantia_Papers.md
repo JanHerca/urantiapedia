@@ -46,7 +46,7 @@ Allegedly, the sources for this material originated elsewhere than from this pla
 
 ## 1. Possible error sources. Not answering the unanswerable.
 
-Unknown to the questioners, their stated intention of asking questions no human could answer was in conflict with a “universe rule for revelation that proscribes the provision of unearned knowledge.” ([UB 101:4.1](/en/The_Urantia_Book/101#p4_1))
+Unknown to the questioners, their stated intention of asking questions no human could answer was in conflict with a “universe rule for revelation that proscribes the provision of unearned knowledge.” (<a id="a48_201"></a>[UB 101:4.1](/en/The_Urantia_Book/101#p4_1))
 
 As stated previously, posing such questions for the proposed purpose placed the source authors in a quandary. They were being tested. Allowing the veracity of their claims as being of celestial origin, to tender an excuse on why they could not answer would almost certainly engender the conclusion that their claims were false—and this would nullify their previous fifteen to twenty years of preparatory work. But if they complied they would be forced to break what, for them, was an unbreakable universe rule.
 
@@ -134,7 +134,7 @@ The truths in these Papers demand much. Bearing the fruit of the spirit is their
 
 “What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions.” How??
 
-> “Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs **to see Jesus living again in the experience of spirit-born mortals** who effectively reveal the Master to all men.” ([UB 195:10.1](/en/The_Urantia_Book/195#p10_1))
+> “Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs **to see Jesus living again in the experience of spirit-born mortals** who effectively reveal the Master to all men.” (<a id="a136_237"></a>[UB 195:10.1](/en/The_Urantia_Book/195#p10_1))
 
 We have the Papers—and the obligation.
 

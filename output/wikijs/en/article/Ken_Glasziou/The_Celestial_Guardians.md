@@ -36,7 +36,7 @@ dateCreated: 2022-9-9T8:13:38Z
 
 Celestial Guardians are described as creature-trinitized sons that have been embraced by the Paradise Trinity. Trinitized sons may be of single or of dual origin. Some, such as the Mighty Messengers, are Adjuster-fused ascendant mortals who have already attained Paradise and the Corps of Finality, but have also passed some special test of universe allegiance that qualified them for being embraced by the Paradise Trinity and inducted into the messenger service.
 
-A different class of trinitized sons arises through the endeavors of highly advanced pairs of mortal finaliters who believe that they have discovered some special and original concept that has not previously been trinitized and which, if it has all the necessary credentials and attributes, will qualify for the trinitization process, finally actualizing as a new and original living being—in this case, a creature-trinitized son endowed with personality from the Universal Father. ([UB 22:7.4](/en/The_Urantia_Book/22#p7_4))
+A different class of trinitized sons arises through the endeavors of highly advanced pairs of mortal finaliters who believe that they have discovered some special and original concept that has not previously been trinitized and which, if it has all the necessary credentials and attributes, will qualify for the trinitization process, finally actualizing as a new and original living being—in this case, a creature-trinitized son endowed with personality from the Universal Father. (<a id="a38_483"></a>[UB 22:7.4](/en/The_Urantia_Book/22#p7_4))
 
 > Self is the only prison that can ever bind the soul; 
 > Love is the only angel who can bid the gates unroll; 
@@ -60,18 +60,18 @@ The willingness of these creature-trinitized sons to recognize and acknowledge t
 
 We mortals may sometimes be in a state of mind in which our worldly environment appears so incomprehensively threatening, chaotic, ridden with random disaster, even wantonly cruel and filled with inexplicable and devastating tragedy such that we may feel justified in concluding that the gods must really be crazy or at least uninterested in our plight.
 
-Perhaps we can gain courage, hope, fortitude, and faith in knowing that, having ourselves gained the mansion worlds, we too will observe beings such as the Celestial Guardians who have never known anything other than total personal safety and security— yet were observed by a Mighty Messenger to “_look so longingly and appealingly at even recent arrivals from the evolutionary worlds of space that one could not help realizing that these possessors of non-experiential trinitization really envied their supposedly less fortunate brethren who ascend the universal path of bona fide experience and actual living._” ([UB 22:9.8](/en/The_Urantia_Book/22#p9_8))
+Perhaps we can gain courage, hope, fortitude, and faith in knowing that, having ourselves gained the mansion worlds, we too will observe beings such as the Celestial Guardians who have never known anything other than total personal safety and security— yet were observed by a Mighty Messenger to “_look so longingly and appealingly at even recent arrivals from the evolutionary worlds of space that one could not help realizing that these possessors of non-experiential trinitization really envied their supposedly less fortunate brethren who ascend the universal path of bona fide experience and actual living._” (<a id="a62_615"></a>[UB 22:9.8](/en/The_Urantia_Book/22#p9_8))
 
 There are many sections of _The Urantia Book_ that can help us during those moments when our understanding of reality is sorely taxed and despair threatens to bury us—such as in advice given by Jesus to Ganid:
 
-> “Ganid, I have absolute confidence in my heavenly Father’s overcare; I am consecrated to doing the will of my Father in heaven. **I do not believe that real harm can befall me;** I do not believe that my lifework can really be jeopardized by anything my enemies might wish to visit upon me, and surely we have no violence to fear from our friends. I am absolutely assured that **the entire universe is friendly to me—this all-powerful truth I insist on believing** with a wholehearted trust in spite of all appearances to the contrary.” ([UB 133:1.4](/en/The_Urantia_Book/133#p1_4))
+> “Ganid, I have absolute confidence in my heavenly Father’s overcare; I am consecrated to doing the will of my Father in heaven. **I do not believe that real harm can befall me;** I do not believe that my lifework can really be jeopardized by anything my enemies might wish to visit upon me, and surely we have no violence to fear from our friends. I am absolutely assured that **the entire universe is friendly to me—this all-powerful truth I insist on believing** with a wholehearted trust in spite of all appearances to the contrary.” (<a id="a66_540"></a>[UB 133:1.4](/en/The_Urantia_Book/133#p1_4))
 
-> “There is unity in the cosmic universe if you could only discern its workings in actuality. **The real universe is friendly**. . . ”([UB 133:5.8](/en/The_Urantia_Book/133#p5_8))
+> “There is unity in the cosmic universe if you could only discern its workings in actuality. **The real universe is friendly**. . . ”(<a id="a68_135"></a>[UB 133:5.8](/en/The_Urantia_Book/133#p5_8))
 
 > Thou shall know by experience how salt the savor is of other's bread, and how sad a path it is to climb and descend another's stairs.
 > &nbsp; &nbsp; Dante, _Paradise, xvii_
 
-> The only evolutionary world without error (the possibility of universe judgement) would be a world without free intelligence. ([UB 3:5.15](/en/The_Urantia_Book/3#p5_15))
+> The only evolutionary world without error (the possibility of universe judgement) would be a world without free intelligence. (<a id="a73_129"></a>[UB 3:5.15](/en/The_Urantia_Book/3#p5_15))
 
 ## External links
 

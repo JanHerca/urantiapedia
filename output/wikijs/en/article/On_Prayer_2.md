@@ -45,9 +45,9 @@ dateCreated: 2023-01-21T14:02:03.086Z
 > 
 > No prayer can hope for an answer unless it is born of the spirit and nurtured by faith.
 > 
-> Do not hesitate to pray the prayers of spirit longing... All genuine spirit-born petitions are certain of an answer. Ask and you shall receive. (from [UB 168:4.1-13](/en/The_Urantia_Book/168#p4_1))
+> Do not hesitate to pray the prayers of spirit longing... All genuine spirit-born petitions are certain of an answer. Ask and you shall receive. (from <a id="a47_152"></a>[UB 168:4.1-13](/en/The_Urantia_Book/168#p4_1))
 
-> All down through the ages men have not been unable to comprehend Jesus; rather they have been afraid to. ([UB 156:2.4](/en/The_Urantia_Book/156#p2_4))
+> All down through the ages men have not been unable to comprehend Jesus; rather they have been afraid to. (<a id="a49_108"></a>[UB 156:2.4](/en/The_Urantia_Book/156#p2_4))
 
 ## External links
 

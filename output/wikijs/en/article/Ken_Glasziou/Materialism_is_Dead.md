@@ -177,13 +177,13 @@ Another aspect of mind is non-teachable or mechanical mind. It is the "mind" of 
 
 When the Papers were received in the 1920-35 period only a handful of physicists had any real knowledge of the conflict between the classical materialist-determinist view of reality and the probabilistic view held, and later confirmed experimentally, by quantum theorists. So what do the Papers say?
 
-> "These three Absolutes of potentiality must be the presences abroad in the universe which render it impossible for physicists to predict with certainty." ([UB 4:1.9](/en/The_Urantia_Book/4#p1_9))
+> "These three Absolutes of potentiality must be the presences abroad in the universe which render it impossible for physicists to predict with certainty." (<a id="a179_157"></a>[UB 4:1.9](/en/The_Urantia_Book/4#p1_9))
 
-> "The agencies of the Third Source and Center are the levers of intelligence which motivate the material level and inject spontaneity into the mechanism of the physical creation." ([UB 9:3.8](/en/The_Urantia_Book/9#p3_8))
+> "The agencies of the Third Source and Center are the levers of intelligence which motivate the material level and inject spontaneity into the mechanism of the physical creation." (<a id="a181_182"></a>[UB 9:3.8](/en/The_Urantia_Book/9#p3_8))
 
-> "Since mind co-ordinates the universe, fixity of mechanisms is nonexistent. The phenomenon of progressive evolution associated with cosmic self-maintenance is universal. The evolutionary capacity of the universe is inexhaustible in the infinity of spontaneity." ([UB 42:11.7](/en/The_Urantia_Book/42#p11_7))
+> "Since mind co-ordinates the universe, fixity of mechanisms is nonexistent. The phenomenon of progressive evolution associated with cosmic self-maintenance is universal. The evolutionary capacity of the universe is inexhaustible in the infinity of spontaneity." (<a id="a183_265"></a>[UB 42:11.7](/en/The_Urantia_Book/42#p11_7))
 
-> "The finite universe of matter would eventually become uniform and deterministic but for the combined presence of mind and spirit. The influence of the cosmic mind constantly injects spontaneity into even the material worlds." ([UB 195:6.15](/en/The_Urantia_Book/195#p6_15))
+> "The finite universe of matter would eventually become uniform and deterministic but for the combined presence of mind and spirit. The influence of the cosmic mind constantly injects spontaneity into even the material worlds." (<a id="a185_230"></a>[UB 195:6.15](/en/The_Urantia_Book/195#p6_15))
 
 From which it may be discerned that whoever wrote the Urantia Papers was fully aware of these fundamentals long before science and its empirical evidence commenced its revelation of  experimentally demonstrable facts.
 

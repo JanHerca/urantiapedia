@@ -80,11 +80,11 @@ Initially these Ediacarans were pronounced to be an entirely separate group of o
 
 How then do we account for The Urantia Book’s claim that the Life Carriers first brought life to this planet only 550 million years ago?
 
-One possibility is that this was part of the revelators’ cosmology stated to be “not inspired” that may consist of a “universe frame” by which to aid our understanding of our place in the universe scheme of things. ([UB 115:1.1](/en/The_Urantia_Book/115#p1_1))
+One possibility is that this was part of the revelators’ cosmology stated to be “not inspired” that may consist of a “universe frame” by which to aid our understanding of our place in the universe scheme of things. (<a id="a82_216"></a>[UB 115:1.1](/en/The_Urantia_Book/115#p1_1))
 
-Alternatively, it may be covered by the following statements: “The original life plasm of an evolutionary world must contain the full potential for all future developmental variations and for all subsequent evolutionary changes and modifications.” ([UB 36:2.17](/en/The_Urantia_Book/36#p2_17))
+Alternatively, it may be covered by the following statements: “The original life plasm of an evolutionary world must contain the full potential for all future developmental variations and for all subsequent evolutionary changes and modifications.” (<a id="a84_249"></a>[UB 36:2.17](/en/The_Urantia_Book/36#p2_17))
 
-> “The material self, the ego-entity of human identity, is dependent during the physical life on the continuing function of the material life vehicle, on the continued existence of the unbalanced equilibrium of energies and **intellect** which, on Urantia, has been given the name life.” ([UB 112:2.20](/en/The_Urantia_Book/112#p2_20))
+> “The material self, the ego-entity of human identity, is dependent during the physical life on the continuing function of the material life vehicle, on the continued existence of the unbalanced equilibrium of energies and **intellect** which, on Urantia, has been given the name life.” (<a id="a86_289"></a>[UB 112:2.20](/en/The_Urantia_Book/112#p2_20))
 
 It is quite possible that the genetic potential of cell forms prior to the beginning of the Cambrian period was quite incapable of eventually generating “intelligent” living organisms. And that only an organism having a genome with the potential of ultimately evolving to have “intellect” comes within the definition of what the Life Carriers understand as “life.”
 

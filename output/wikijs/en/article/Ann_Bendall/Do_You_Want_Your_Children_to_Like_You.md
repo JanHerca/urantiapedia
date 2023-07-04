@@ -84,7 +84,7 @@ The problem of a depleted “storehouse of good will” may be more frequently a
 
 Where there is little opportunity for parents and children to enjoy time together, children will find ways of being noticed. Misbehaviour can be one of these ways. Attention-seeking, misbehaviour can result in parents spending a large amount of whatever time they do devote to their children in disciplining them. So there is little opportunity for parents and children to enjoy time together, and therefore the cycle continues.
 
-> And modern civilization is at a standstill in spiritual development and the safeguarding of the home institution. [UB 81:6.25](/en/The_Urantia_Book/81#p6_25)
+> And modern civilization is at a standstill in spiritual development and the safeguarding of the home institution. <a id="a86_116"></a>[UB 81:6.25](/en/The_Urantia_Book/81#p6_25)
 
 Parents must devote the time to accumulating a “storehouse of good will” with their children. Harmony within the home, and the very survival of the home, “man's supreme evolutionary acquirement and civilization's only hope of survival” is dependent upon it. It is the basis whereby parents, as surrogates for God teach children about the love of the Father by the love they themselves display. Many people refuse to acknowledge the existence of God, and one of these reasons with the modern generation is “father” is a dirty word! Parents today must look carefully at themselves. Are they modelling sublime selfishness. If so, there is a high probability that they will produce selfish children, who still be the future adults of a selfish world! And are they modelling lack of respect for others? If so they will receive no respect from their children.
 

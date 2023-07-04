@@ -51,7 +51,7 @@ Registration information will appear in these pages as well as other Fellowship 
 
 By _Angie Thurston_
 
-> _One of the most important lessons to be learned during your mortal career is teamwork. The spheres of perfection are manned by those who have mastered this art of working with other beings._ [[UB 28:5.14](/en/The_Urantia_Book/28#p5_14)]
+> _One of the most important lessons to be learned during your mortal career is teamwork. The spheres of perfection are manned by those who have mastered this art of working with other beings._ <a id="a53_194"></a>[[UB 28:5.14](/en/The_Urantia_Book/28#p5_14)]
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2014_Winter/005841.jpg">

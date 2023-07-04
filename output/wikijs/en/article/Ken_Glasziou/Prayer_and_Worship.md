@@ -47,7 +47,7 @@ At the evening conferences on Mount Gerizim, Jesus taught many great truths, and
 > 
 > Worship is the act of a part identifying itself with the Whole; the finite with the Infinite; the son with the Father; time in the act of striking step with eternity. Worship is the act of the son’s personal communion with the divine Father, the assumption of refreshing, creative, fraternal, and romantic attitudes by the human soul-spirit.
 > 
-> Although the apostles grasped only a few of his teachings at the camp, other worlds did, and other generations on earth will. ([UB 143:7.2-9](/en/The_Urantia_Book/143#p7_2))
+> Although the apostles grasped only a few of his teachings at the camp, other worlds did, and other generations on earth will. (<a id="a49_129"></a>[UB 143:7.2-9](/en/The_Urantia_Book/143#p7_2))
 
 ## External links
 

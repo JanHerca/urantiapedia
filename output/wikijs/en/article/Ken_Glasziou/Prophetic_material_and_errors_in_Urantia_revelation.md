@@ -56,7 +56,7 @@ For nigh on thirty years or more after publication of the Papers almost all its 
 
 So why did we need a 2000 page revelation? To make us better scientists, accurate historians, accomplished theologians? Is that what Jesus did? If we go to the conversations between Jesus and Immanuel just prior to Jesus’ incarnation, we find Immanuel saying:
 
-> “Your great mission…to live a life wholeheartedly motivated to do the will of your Paradise Father, thus to reveal God, your Father, in the flesh and especially to the creatures of the flesh….the achievement of God seeking man and finding him and the phenomenon of man seeking God and finding him… Exhibit in your one short life in the flesh, as it has never before been seen…, the transcendent possibilities **attainable by a God-knowing human** during the short career of mortal existence.” ([UB 120:2.8](/en/The_Urantia_Book/120#p2_8))
+> “Your great mission…to live a life wholeheartedly motivated to do the will of your Paradise Father, thus to reveal God, your Father, in the flesh and especially to the creatures of the flesh….the achievement of God seeking man and finding him and the phenomenon of man seeking God and finding him… Exhibit in your one short life in the flesh, as it has never before been seen…, the transcendent possibilities **attainable by a God-knowing human** during the short career of mortal existence.” (<a id="a58_496"></a>[UB 120:2.8](/en/The_Urantia_Book/120#p2_8))
 
 This presentation is in two parts–the first gives a short introduction to historical aspects of how these Papers came about then covers some of the prophetic material. The second part is about the error component.
 
@@ -68,11 +68,11 @@ Perhaps to comply with the universe dictum that providing us with unearned knowl
 
 Wonderment also comes if we read the Book’s account of the early parallel growth of the Earth and its Moon through an accretion process and, on checking the sums, we discover that the revelators’ account has the Moon attain a mass 16 times its present size. Curiously it took almost fifty years before anyone even noticed this obvious error. Such was the faith of readers in the infallibility of heavenly sources–and this despite the authors’ own denials:
 
-> “_Let it be made clear that revelations are not necessarily inspired. The cosmology of these revelations is not inspired_.” ([UB 101:4.2](/en/The_Urantia_Book/101#p4_2))
+> “_Let it be made clear that revelations are not necessarily inspired. The cosmology of these revelations is not inspired_.” (<a id="a70_127"></a>[UB 101:4.2](/en/The_Urantia_Book/101#p4_2))
 
 [Note: In the 1930’s, the word “cosmology” still retained its traditional connotation as a branch of metaphysics dealing with features of the world as a whole–including, for example, St Thomas Aquinas’ famous cosmological argument–see Oxford University Press, _Oxford Companion to Philosophy_.]
 
-> But no revelation short of the attainment of the Universal Father can ever be complete. All other celestial ministrations are no more than partial, transient, and practically adapted to local conditions in time and space. While such admissions as this may possibly detract from the immediate force and authority of all revelations, the time has arrived on Urantia when it is advisable to make such frank statements, even at the risk of weakening the future influence and authority of this, the most recent of the revelations of truth to the mortal races of Urantia. ([UB 92:4.9](/en/The_Urantia_Book/92#p4_9))
+> But no revelation short of the attainment of the Universal Father can ever be complete. All other celestial ministrations are no more than partial, transient, and practically adapted to local conditions in time and space. While such admissions as this may possibly detract from the immediate force and authority of all revelations, the time has arrived on Urantia when it is advisable to make such frank statements, even at the risk of weakening the future influence and authority of this, the most recent of the revelations of truth to the mortal races of Urantia. (<a id="a74_569"></a>[UB 92:4.9](/en/The_Urantia_Book/92#p4_9))
 
 > It's never too late to be shat you might become!
 >   George Eliot

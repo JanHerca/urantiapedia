@@ -66,7 +66,7 @@ When theology masters religion, religion dies; it becomes a doctrine instead of 
 
 In the higher philosophy of the universe, wisdom, like reason, becomes allied to faith. Reason, wisdom, and faith are man's highest human attainments. Reason  introduces man to the world of facts, to things; wisdom introduces him to a world of truth, to relationships; faith initiates him into a world of divinity, spiritual experience.
 
-> But for you, my children, and for all others who would follow you into this kingdom, there is set a severe test. Faith alone will pass you through its portals, but you must bring forth the fruits of my Father's spirit if you would continue to ascend in the progressive life of the divine fellowship. ([UB 140:1.4](/en/The_Urantia_Book/140#p1_4))
+> But for you, my children, and for all others who would follow you into this kingdom, there is set a severe test. Faith alone will pass you through its portals, but you must bring forth the fruits of my Father's spirit if you would continue to ascend in the progressive life of the divine fellowship. (<a id="a68_303"></a>[UB 140:1.4](/en/The_Urantia_Book/140#p1_4))
 
 Jesus laid great emphasis upon what he called the two truths of first import in the teachings of the kingdom, and they are: the attainment of salvation by faith, and faith alone, associated with the revolutionary teaching of the attainment of human liberty through the sincere recognition of truth, "You shall know the truth, and the truth shall make you free."
 

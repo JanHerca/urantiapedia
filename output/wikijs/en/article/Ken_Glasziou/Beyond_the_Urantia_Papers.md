@@ -34,9 +34,9 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> “The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness. Such a new and righteous vision of morality will attract all that is good in the mind of man and challenge that which is best in the human soul.” ([UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
+> “The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness. Such a new and righteous vision of morality will attract all that is good in the mind of man and challenge that which is best in the human soul.” (<a id="a36_449"></a>[UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
 
-> “The teachers of the religion of Jesus should approach other religions with the recognition of the truths which are held in common while they refrain from placing so much emphasis on the differences.” ([UB 149:2.5](/en/The_Urantia_Book/149#p2_5))
+> “The teachers of the religion of Jesus should approach other religions with the recognition of the truths which are held in common while they refrain from placing so much emphasis on the differences.” (<a id="a38_204"></a>[UB 149:2.5](/en/The_Urantia_Book/149#p2_5))
 
 Religion manifests itself in three main categories:
 
@@ -68,9 +68,9 @@ Those who already have the religion of the spirit need to be aware of several wa
 
 A reforming zeal that sets its priorities in correcting the supposedly erroneous doctrines of other religions is predestined to fail. The positive preaching of spiritual truths is the only pathway sanctioned by Jesus, the recommended approach being through truths which are held in common. There are more than twenty New Testament verses that speak of the indwelling spirits of Father and Son, and many parables that illustrate God’s nature as a loving, compassionate, forgiving, and merciful Father who actively seeks out the erring human child.
 
-But even if our two billion nominal Christians were to embrace the religion of the spirit, it may have little or no effect upon the remaining billions of Urantians excepting that the fruits of that spirit living become visible as the direct consequence. “Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men.” ([UB 195:10.1](/en/The_Urantia_Book/195#p10_1))
+But even if our two billion nominal Christians were to embrace the religion of the spirit, it may have little or no effect upon the remaining billions of Urantians excepting that the fruits of that spirit living become visible as the direct consequence. “Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men.” (<a id="a70_494"></a>[UB 195:10.1](/en/The_Urantia_Book/195#p10_1))
 
-In seeking to bring religion of the spirit to non-Christian religions, we are specifically warned against placing emphasis upon the personality of Jesus ([UB 149:2.4](/en/The_Urantia_Book/149#p2_4)), the approach through seeking common grounds being preferred. Primarily this entails the Fatherhood of God and the brotherhood of all mankind. As with Christianity, this concept is already a basic tenet of the religion of Islam but there also it fails to impact as it should.
+In seeking to bring religion of the spirit to non-Christian religions, we are specifically warned against placing emphasis upon the personality of Jesus (<a id="a72_154"></a>[UB 149:2.4](/en/The_Urantia_Book/149#p2_4)), the approach through seeking common grounds being preferred. Primarily this entails the Fatherhood of God and the brotherhood of all mankind. As with Christianity, this concept is already a basic tenet of the religion of Islam but there also it fails to impact as it should.
 
 > Sweet are the uses of adversity, 
 > Which like the toad, ugly and venomous, 
@@ -86,7 +86,7 @@ In seeking to bring religion of the spirit to non-Christian religions, we are sp
 
 Perhaps what is required is much more emphasis upon the realization of the indwelling of the Father-spirit and the enhancement of the religion of the spirit that accompanies the development of a personal relationship with the deity within. Stripped of authority from outside ourselves, the religion of the spirit appears to have all the necessary potential to bring peace on earth and goodwill to all, in addition to fostering the progress of the eternal career of those who embrace it.
 
-> “The only uniform thing about men is their indwelling spirit which reacts uniformly to all spiritual appeals. Only through and by appeal to this spirit can mankind ever attain unity and brotherhood.” ([UB 149:3.3](/en/The_Urantia_Book/149#p3_3))
+> “The only uniform thing about men is their indwelling spirit which reacts uniformly to all spiritual appeals. Only through and by appeal to this spirit can mankind ever attain unity and brotherhood.” (<a id="a88_203"></a>[UB 149:3.3](/en/The_Urantia_Book/149#p3_3))
 
 For most of us, understanding the nature of God is often best learned from parables. Important among these are:
 

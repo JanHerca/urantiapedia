@@ -52,7 +52,7 @@ Alas the church founded in Jesus’ name (which I think would have shocked and s
 
 God grows, as we grow, for he reflects what we become; and when we grow to the fullest, we will have the fullest God—not a God of the fundamentalists, but a God of fundamentals, a light, not a lash.
 
-> And as he lived his day as he was, so did he thereby set the example for all of us thus to live our lives in our day as we are. ([UB 129:4.7](/en/The_Urantia_Book/129#p4_7))
+> And as he lived his day as he was, so did he thereby set the example for all of us thus to live our lives in our day as we are. (<a id="a54_131"></a>[UB 129:4.7](/en/The_Urantia_Book/129#p4_7))
 
 ## External links
 

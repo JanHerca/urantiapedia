@@ -47,7 +47,7 @@ _God is the one self-caused fact existent in the whole of reality, hence must be
 > The way to get things done is not to mind who gets the credit of doing them. 
 >    Benjamin Jowett
 
-> In the mortal state nothing can be absolutely proved, both science and religion are predicated on assumptions. ([UB 103:7.10](/en/The_Urantia_Book/103#p7_10))
+> In the mortal state nothing can be absolutely proved, both science and religion are predicated on assumptions. (<a id="a49_114"></a>[UB 103:7.10](/en/The_Urantia_Book/103#p7_10))
 
 Obviously if this God is the source of all that is, then God preceded all that is, including time. That conclusion gives us an escape hatch from all those now inapplicable time-related questions like “Who made God?” For before there was time, there was only the infinite, eternal “now”–and such questions are irrelevant.
 

@@ -58,7 +58,7 @@ dateCreated: 2023-6-21T8:13:38Z
 Matthew Block’s website: [https://urantiabooksources.com/ ](https://urantiabooksources.com/) has the most complete analysis of source book information including book titles, authors and much more. 
 
 
-> Those who are born of the spirit of God shall henceforth discern the word of God regardless of whence it appears to take origin. Divine truth must not be discounted because the channel of its bestowal is apparently human. ([UB 155:6.12](/en/The_Urantia_Book/155#p6_12))
+> Those who are born of the spirit of God shall henceforth discern the word of God regardless of whence it appears to take origin. Divine truth must not be discounted because the channel of its bestowal is apparently human. (<a id="a60_225"></a>[UB 155:6.12](/en/The_Urantia_Book/155#p6_12))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/057.jpg">

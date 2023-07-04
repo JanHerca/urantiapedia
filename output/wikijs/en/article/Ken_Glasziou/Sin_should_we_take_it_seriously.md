@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-“Sin is the deliberate transgression of the divine will.” [UB 75:4.3](/en/The_Urantia_Book/75#p4_3), [UB 148:4.4](/en/The_Urantia_Book/148#p4_4)
+“Sin is the deliberate transgression of the divine will.” <a id="a36_58"></a>[UB 75:4.3](/en/The_Urantia_Book/75#p4_3), <a id="a36_101"></a>[UB 148:4.4](/en/The_Urantia_Book/148#p4_4)
 
 For thousands upon thousands of years, the ‘fix’ for having angered the Gods was to offer a sacrifice—often the blood of some poor animal. It is still happening—which might cause one to wonder concerning the nature of Gods that would trade forgiveness for a shot of animal blood.
 

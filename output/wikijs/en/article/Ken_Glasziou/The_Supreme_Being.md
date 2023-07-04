@@ -46,15 +46,15 @@ Even a modest acquaintance with process theology such as is presented in, for ex
 
 In the Papers, we are informed that the creativity of us humans is limited to the sorting of basic ideas rather than to their creation. Perhaps this confirms what many of our greatest mathematicians have always believed—they do not “create” new theorems or laws but rather “discover” them. Naturally this brings up much argument about where these theorems were prior to their discovery, and also on who created them.
 
-The Papers inform us that all possible original ideas, concepts, etc., are already present as potentials and possibilities in the keeping of the Absolutes of Infinity. ([UB 115:2.1](/en/The_Urantia_Book/115#p2_1), [UB 115:4.6](/en/The_Urantia_Book/115#p4_6))
+The Papers inform us that all possible original ideas, concepts, etc., are already present as potentials and possibilities in the keeping of the Absolutes of Infinity. (<a id="a48_169"></a>[UB 115:2.1](/en/The_Urantia_Book/115#p2_1), <a id="a48_214"></a>[UB 115:4.6](/en/The_Urantia_Book/115#p4_6))
 
-Those that become available to us humans do so apparently because they have already been “processed,” and are present and available in the now functional Supreme Mind. ([UB 117:5.10](/en/The_Urantia_Book/117#p5_10))
+Those that become available to us humans do so apparently because they have already been “processed,” and are present and available in the now functional Supreme Mind. (<a id="a50_169"></a>[UB 117:5.10](/en/The_Urantia_Book/117#p5_10))
 
-Through the cosmic mind of the Infinite Spirit and the Adjutant Mind Spirits of the Universe Mother Spirit, these pre-existent thoughts are presented for our selection, sorting, recombining, and decision making. ([UB 117:4.8](/en/The_Urantia_Book/117#p4_8), [UB 117:5.11](/en/The_Urantia_Book/117#p5_11))
+Through the cosmic mind of the Infinite Spirit and the Adjutant Mind Spirits of the Universe Mother Spirit, these pre-existent thoughts are presented for our selection, sorting, recombining, and decision making. (<a id="a52_213"></a>[UB 117:4.8](/en/The_Urantia_Book/117#p4_8), <a id="a52_258"></a>[UB 117:5.11](/en/The_Urantia_Book/117#p5_11))
 
 At least, that is how it seems to be. The charts that follow may be of help for the carrying out of some self-conducted sorting.
 
-> It is out of the very reality of the Supreme that the Adjuster, with the  consent of the human will, weaves the patterns of the eternal nature of an ascending son of God. ([UB 117:4.8](/en/The_Urantia_Book/117#p4_8))
+> It is out of the very reality of the Supreme that the Adjuster, with the  consent of the human will, weaves the patterns of the eternal nature of an ascending son of God. (<a id="a56_174"></a>[UB 117:4.8](/en/The_Urantia_Book/117#p4_8))
 
 ## The Creation of the Universes
 

@@ -34,11 +34,11 @@ dateCreated: 2022-9-9T8:13:38Z
 </figure>
 
 
-_The Urantia Book_ states “_In the superuniverse of Orvonton there are one hundred octaves of wave energy_” ([UB 42:5.1](/en/The_Urantia_Book/42#p5_1)).
+_The Urantia Book_ states “_In the superuniverse of Orvonton there are one hundred octaves of wave energy_” (<a id="a36_109"></a>[UB 42:5.1](/en/The_Urantia_Book/42#p5_1)).
 
 For those who have puzzled over this statement, Frederick writes: I believe the _Urantia Book_ text should be interpreted as written. If this is done then this text is correct. If not, then this text is demonstrably incorrect.
 
-_The Urantia Book_ says: “The sun’s rays constitute four octaves in the superuniverse scale, the visible rays embracing a single octave, number forty-six in this series.” ([UB 42:5.1](/en/The_Urantia_Book/42#p5_1))
+_The Urantia Book_ says: “The sun’s rays constitute four octaves in the superuniverse scale, the visible rays embracing a single octave, number forty-six in this series.” (<a id="a40_172"></a>[UB 42:5.1](/en/The_Urantia_Book/42#p5_1))
 
 If light is the 46th octave of wave-energy, and the center wavelength of visible light is around 500 nm, then the center wavelength of the first octave is equal to 2 to the 46th power (2^46^) times the wavelength of the 46th octave. This wavelength is 7.03 x 10^13^ times 500 x 10^-9^, or 35.18 x 10^6^ m. The frequency corresponding to this wavelength is 2.9979 x 10^8^ (the velocity of light in m/s) divided by 35.18 x 10^6^ or 8.52 Hz. Obviously there is wave energy at frequencies below two-thirds of 8.52 = 5.67 Hz, the lower frequency limit of the first octave. Physical measurements have been made of wave energy phenomena at frequencies below 6 cycles per second.
 

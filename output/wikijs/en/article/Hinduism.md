@@ -34,9 +34,9 @@ dateCreated: 2022-9-9T8:13:38Z
 </figure>
 
 
-> “All Urantia is waiting for the proclamation of the ennobling message of Michael, unencumbered by the accumulated doctrines and dogmas of nineteen centuries of contact with the religions of evolutionary origin. The hour is striking for presenting to Buddhism, to Christianity, to Hinduism, even to the peoples of all faiths, not the gospel about Jesus, but the living, spiritual reality of the gospel of Jesus.” ([UB 94:12.7](/en/The_Urantia_Book/94#p12_7))
+> “All Urantia is waiting for the proclamation of the ennobling message of Michael, unencumbered by the accumulated doctrines and dogmas of nineteen centuries of contact with the religions of evolutionary origin. The hour is striking for presenting to Buddhism, to Christianity, to Hinduism, even to the peoples of all faiths, not the gospel about Jesus, but the living, spiritual reality of the gospel of Jesus.” (<a id="a36_415"></a>[UB 94:12.7](/en/The_Urantia_Book/94#p12_7))
 
-And how difficult would it be to present such a reality to Hinduism, a religion which believes in reincarnation and karma? It appears perhaps not as formidable a task as might appear at first glance for Hinduism, “_has proved to be the most adaptive, amorphic religion to appear on Urantia. It is capable of almost unlimited change and possesses an unusual range of flexible adjustment from the high and semimonotheistic speculations of the intellectual Brahman to the arrant fetishism and primitive cult practices of the debased and depressed classes of ignorant believers._” ([UB 94:4.8](/en/The_Urantia_Book/94#p4_8))
+And how difficult would it be to present such a reality to Hinduism, a religion which believes in reincarnation and karma? It appears perhaps not as formidable a task as might appear at first glance for Hinduism, “_has proved to be the most adaptive, amorphic religion to appear on Urantia. It is capable of almost unlimited change and possesses an unusual range of flexible adjustment from the high and semimonotheistic speculations of the intellectual Brahman to the arrant fetishism and primitive cult practices of the debased and depressed classes of ignorant believers._” (<a id="a38_578"></a>[UB 94:4.8](/en/The_Urantia_Book/94#p4_8))
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Shiva.jpg">
@@ -51,7 +51,7 @@ Hindu theology, at present, depicts four descending levels of deity and divinity
 
 3. Vedic and post-Vedic deities. Many of the ancient gods of the Aryans, such as Agni, Indra, Soma, have persisted as secondary to the three members of the Trimurti. Numerous additional gods have arisen since the early days of Vedic India, and these have also been incorporated into the Hindu pantheon.
 
-4. The demigods: supermen, semigods, heroes, demons, ghosts, evil spirits, sprites, monsters, goblins, and saints of the later-day cults. ([UB 94:4.7](/en/The_Urantia_Book/94#p4_7))
+4. The demigods: supermen, semigods, heroes, demons, ghosts, evil spirits, sprites, monsters, goblins, and saints of the later-day cults. (<a id="a53_139"></a>[UB 94:4.7](/en/The_Urantia_Book/94#p4_7))
 
 Huston Smith (1965) in “The Religions of Man,” notes that the fact that Hinduism has shared her land for centuries with Parsees, Buddhists, Muslims, Sikhs, and Christians may help explain an idea that comes out more clearly through her than through any other leading contemporary religion; namely, her conviction that the various major religions are alternate and relatively equal paths to the same God. “To claim salvation as the monopoly of any one religion is like claiming that God can be found in this room but not the next. Normally each individual will take the path which leads up life’s mountain from his own culture; those who circle the mountain trying to bring others around to their paths are not climbing. In practice India’s sects have often been fanatically intolerant, but in principle they have remained notably open. The Vedas early announce Hinduism’s classic contention: the various religions are but the different languages through which God has spoken to the human heart. Truth is one: sages call it by different names.”
 
@@ -73,7 +73,7 @@ In response to the question, “What kind of world do we have?” Hinduism answe
 
 6. A world that is lila, the play of the divine in its cosmic dance, untiring, unending, resistless but ultimately gentle, with a grace born of infinite vitality.
 
-The beauty and truth of Hinduism’s teachings were captured by Jesus and Ganid in their choice of quotations from the Hindu literature. (see [UB 131:4.1](/en/The_Urantia_Book/131#p4_1))
+The beauty and truth of Hinduism’s teachings were captured by Jesus and Ganid in their choice of quotations from the Hindu literature. (see <a id="a75_140"></a>[UB 131:4.1](/en/The_Urantia_Book/131#p4_1))
 
 
 ## References

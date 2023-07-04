@@ -34,11 +34,11 @@ dateCreated: 2022-9-8T14:13:8Z
 </figure>
 
 
-> “_Morality has its origin in the reason of self- consciousness, it is superanimal but wholly evolutionary. Human evolution embraces in its unfolding all endowments antecedent to the bestowal of the Adjusters and the Spirit of Truth._” ([UB 5:5.1](/en/The_Urantia_Book/5#p5_1))
+> “_Morality has its origin in the reason of self- consciousness, it is superanimal but wholly evolutionary. Human evolution embraces in its unfolding all endowments antecedent to the bestowal of the Adjusters and the Spirit of Truth._” (<a id="a36_238"></a>[UB 5:5.1](/en/The_Urantia_Book/5#p5_1))
 
-> “_Altruism was as yet unborn in the human heart, notwithstanding that all of the emotions essential to the birth of religion were already present in these Urantia aborigines._” ([UB 63:4.3](/en/The_Urantia_Book/63#p4_3))
+> “_Altruism was as yet unborn in the human heart, notwithstanding that all of the emotions essential to the birth of religion were already present in these Urantia aborigines._” (<a id="a38_180"></a>[UB 63:4.3](/en/The_Urantia_Book/63#p4_3))
 
-> “_Though the Adjusters volunteer for service as soon as the personality forecasts have been relayed to Divinington, they are not actually assigned until the human subjects make their first moral personality decision._” ([UB 108:2.1](/en/The_Urantia_Book/108#p2_1))
+> “_Though the Adjusters volunteer for service as soon as the personality forecasts have been relayed to Divinington, they are not actually assigned until the human subjects make their first moral personality decision._” (<a id="a40_222"></a>[UB 108:2.1](/en/The_Urantia_Book/108#p2_1))
 
 Generations that have grown up in the age of electronic information technology coupled to the personal computer (PC) must find it almost impossible to appreciate the difficulties faced by their forebears when retrieving and indexing information needed for any complex task.
 
@@ -56,7 +56,7 @@ The first reference informs us that morality is both evolutionary and superanima
 
 To these three internally consistent references we now add a fourth, one that came to mind only after completing the review of the others. Quite contrary to Darwinian theory, it states a view consistent with new DNA evidence that keeps popping up:
 
-> “_The original life plasm of an evolutionary world must contain the full potential for all future developmental variations and for all subsequent evolutionary changes and modifications._” ([UB 36:2.17](/en/The_Urantia_Book/36#p2_17))
+> “_The original life plasm of an evolutionary world must contain the full potential for all future developmental variations and for all subsequent evolutionary changes and modifications._” (<a id="a58_191"></a>[UB 36:2.17](/en/The_Urantia_Book/36#p2_17))
 
 Because of the computerized facilities that enable us to search the text of _The Urantia Book_ word by word or phrase by phrase, the opportunity now exists to examine it closely for its internal consistency. The occurrence in the text of obscure terms like “the Consummator of Universe Destiny” can be readily located and examined for consistency of use and meaning.
 

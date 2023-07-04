@@ -60,7 +60,7 @@ Consequently, in such circumstances, each party must strive to clearly identify 
 
 Childhood sexual abuse is another matter. Due to the power differential and position of trust, the child is a victim and is violated by the perpetrator. The perpetrator of evil is often a person close to the child, and the victim has memories of loving times along with those of abuse of trust and power.
 
-If only people could be either all good or all bad, life would be so much less complicated. But the reality is that people are imperfect, a mixture. Hence it is difficult to forgive if we strive to understand them based upon the expectation of consistency. (“The better man understands his neighbor, the easier it will be to forgive him, even to love him.” [UB 2:4.2](/en/The_Urantia_Book/2#p4_2))
+If only people could be either all good or all bad, life would be so much less complicated. But the reality is that people are imperfect, a mixture. Hence it is difficult to forgive if we strive to understand them based upon the expectation of consistency. (“The better man understands his neighbor, the easier it will be to forgive him, even to love him.” <a id="a62_357"></a>[UB 2:4.2](/en/The_Urantia_Book/2#p4_2))
 
 At some point, as we grow, we realize we are stuck in the perpetrator’s past transgression, continuing to harbor anger and pain at their misdeed whilst struggling to forgive.
 
@@ -70,7 +70,7 @@ Unfortunately forgiveness has common connotations with condoning the act. We are
 
 Forgiveness firstly means asking what exactly we must forgive. And this requires an objective as possible exploration of the act and its consequences on ourselves. Has it warped our image of ourselves and our life.The healing process after a misdeed by another necessitates us exploring its impact on our self-esteem and attitude to life and to others. That is our task.
 
-Then comes the approach to the perpetrator for the purposes of extension of our forgiveness for their evil act (_The Urantia Book_ provides guidelines on how to approach the perpetrator on [UB 159:1.3](/en/The_Urantia_Book/159#p1_3)). This step requires awareness on the victims part that there is usually a magnitude gap between perpetrators and victims.
+Then comes the approach to the perpetrator for the purposes of extension of our forgiveness for their evil act (_The Urantia Book_ provides guidelines on how to approach the perpetrator on <a id="a72_189"></a>[UB 159:1.3](/en/The_Urantia_Book/159#p1_3)). This step requires awareness on the victims part that there is usually a magnitude gap between perpetrators and victims.
 
 Perpetrators see the effect of what they do as smaller in scope, importance, and severity than do victims. A violent and repressive event tends to recede into the past much faster for the perpetrator than for the victim. For the perpetrator it may quickly become ancient history whereas the victim may see it as crucial for understanding the present.
 

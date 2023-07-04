@@ -41,7 +41,7 @@ dateCreated: 2022-9-9T8:13:38Z
 > 2. A Creator Son of God became one of you; he is your elder brother in fact; and if in spirit you become truly related brothers of Christ, the victorious Michael, then in spirit must you also be sons of that Father which you have in common even the Universal Father of all.
 > 3. You are sons because the spirit of a Son has been poured out upon you, has been freely and certainly bestowed upon all Urantia races. This spirit ever draws you toward the divine Son, who is its source, and toward the Paradise Father, who is the source of that divine Son.
 > 4. Of his divine free-willness, the Universal Father has given you your creature personalities. You have been endowed with a measure of that divine spontaneity of freewill action which God shares with all who may become his sons.
-> 5. There dwells within you a fragment of the Universal Father, and you are thus directly related to the divine Father of all the Sons of God. ([UB 40:6.1-8](/en/The_Urantia_Book/40#p6_1))
+> 5. There dwells within you a fragment of the Universal Father, and you are thus directly related to the divine Father of all the Sons of God. (<a id="a43_145"></a>[UB 40:6.1-8](/en/The_Urantia_Book/40#p6_1))
 
 ## External links
 

@@ -42,9 +42,9 @@ The comment that did this was "Jesus sought the Father's will even in his smalle
 
 The Urantia Book tells us that this is not true:
 
-> . . . the divine Spirit must dominate and control every phase of human experience. [UB 34:6.7](/en/The_Urantia_Book/34#p6_7)
+> . . . the divine Spirit must dominate and control every phase of human experience. <a id="a44_85"></a>[UB 34:6.7](/en/The_Urantia_Book/34#p6_7)
 
-> . . .[And] Jesus ever [deferred] his slightest wish to the will of the Father in heaven . . . " [UB 139:4.9](/en/The_Urantia_Book/139#p4_9)
+> . . .[And] Jesus ever [deferred] his slightest wish to the will of the Father in heaven . . . " <a id="a46_98"></a>[UB 139:4.9](/en/The_Urantia_Book/139#p4_9)
 
 Everett says that these statements imply three things:
 

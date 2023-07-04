@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:38Z
 </figure>
 
 
-The Urantia Book tells us that “Jesus talked for more than an hour to the assembled groups on, ‘The Mission of adversity and the spiritual value of dis-appointment.’” ([UB 151:0.1](/en/The_Urantia_Book/151#p0_1))
+The Urantia Book tells us that “Jesus talked for more than an hour to the assembled groups on, ‘The Mission of adversity and the spiritual value of dis-appointment.’” (<a id="a36_168"></a>[UB 151:0.1](/en/The_Urantia_Book/151#p0_1))
 
 I have been studying The Urantia Book for only a short time, but when I read this passage I felt very aware that it had great significance for me—that I related to it.
 

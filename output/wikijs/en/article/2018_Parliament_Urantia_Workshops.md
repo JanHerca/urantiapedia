@@ -60,7 +60,7 @@ Pato Banton's four-decade public presence has increasingly transcended music to 
 
 Be sure to catch their beautiful performance at The Parliament Of Worlds Religions 2018 as they present the Good News of Spiritual Liberty and inspiring music from their newly released CD entitled “Love Is The Greatest!” https://www.youtube.com/watch?v=NurBEzUap5o
 
-> “Devote your life to proving that love is the greatest thing in the world.” [UB 192:2.1](/en/The_Urantia_Book/192#p2_1)
+> “Devote your life to proving that love is the greatest thing in the world.” <a id="a62_78"></a>[UB 192:2.1](/en/The_Urantia_Book/192#p2_1)
 
 To learn more, go to: www.patobanton.com & www.facebook.com/groups/patobantonsspiritualfamily
 

@@ -43,7 +43,7 @@ dateCreated: 2022-9-9T8:13:39Z
 - As it matures our soul comes nearer and nearer to actualizing as an entity intervening between the material and the spiritual, the material self and the divine spirit within.
 - The morally conscious mortal "knows" intuitively of the existence of his/her soul as a real and personal spiritual experience.
 
-Source: _The Urantia Book_, [UB 133:6.5-7](/en/The_Urantia_Book/133#p6_5)
+Source: _The Urantia Book_, <a id="a45_28"></a>[UB 133:6.5-7](/en/The_Urantia_Book/133#p6_5)
 
 > Faith is the daring of the soul to go further than it can see.
 > _Inspirations_ (anon.)

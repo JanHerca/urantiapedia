@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:12:18Z
 </figure>
 
 
-Since the mandate for the revelators prevented them from giving us unearned knowledge, ([UB 101:4.1](/en/The_Urantia_Book/101#p4_1)) it follows that the level of scientific information in the Papers should not include information still undiscovered by the mid-1930’s. The exception is that “missing gaps” could be filled, or essential “lost knowledge” restored.
+Since the mandate for the revelators prevented them from giving us unearned knowledge, (<a id="a36_88"></a>[UB 101:4.1](/en/The_Urantia_Book/101#p4_1)) it follows that the level of scientific information in the Papers should not include information still undiscovered by the mid-1930’s. The exception is that “missing gaps” could be filled, or essential “lost knowledge” restored.
 
 By taking a broad view for these exceptions, our superhuman revelators could easily have demonstrated that their level of scientific knowledge far exceeded human levels at the mid-1930’s. By doing so, they could then have demonstrated a revelatory status for the Papers.
 
@@ -48,7 +48,7 @@ The authors of the Papers well understand human nature. They would be aware that
 
 I believe we have been provided with key information for the purpose of aiding those who are seeking the revelators’ kind of truth. But they provide this information in ways that also permit its rejection by those who seek the means for rejection.
 
-The reason for this bivalent approach may be related to the declaration in the Papers that our free will is virtually inviolate. God gifted us with relative free will on the finite level, and not even God himself will take it away. ([UB 118:6.4](/en/The_Urantia_Book/118#p6_4)) Also it is only by faith that we can enter God’s kingdom. ([UB 140:1.4](/en/The_Urantia_Book/140#p1_4)) And we cannot have faith unless there is uncertainty, for if there is certainty there could be no reason for faith.
+The reason for this bivalent approach may be related to the declaration in the Papers that our free will is virtually inviolate. God gifted us with relative free will on the finite level, and not even God himself will take it away. (<a id="a50_233"></a>[UB 118:6.4](/en/The_Urantia_Book/118#p6_4)) Also it is only by faith that we can enter God’s kingdom. (<a id="a50_337"></a>[UB 140:1.4](/en/The_Urantia_Book/140#p1_4)) And we cannot have faith unless there is uncertainty, for if there is certainty there could be no reason for faith.
 
 This paper is an update of two earlier and more detailed publications on the science, anthropology, and archaeology of the Papers.1, 2 In this, I propose to describe only those items of knowledge that, for me, verify that the Papers are all that they claim to be. I also intend to point out some of the possible escape paths for rejecting them.
 

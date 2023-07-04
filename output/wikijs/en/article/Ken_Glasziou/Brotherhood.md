@@ -34,19 +34,19 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> “Religious peace—brotherhood—can never exist unless all religions are willing to completely divest themselves of all ecclesiastical authority and fully surrender all concept of spiritual sovereignty. **God alone is spirit sovereign.**” ([UB 134:4.4](/en/The_Urantia_Book/134#p4_4))
+> “Religious peace—brotherhood—can never exist unless all religions are willing to completely divest themselves of all ecclesiastical authority and fully surrender all concept of spiritual sovereignty. **God alone is spirit sovereign.**” (<a id="a36_239"></a>[UB 134:4.4](/en/The_Urantia_Book/134#p4_4))
 
 You cannot have religious liberty unless you transfer ALL religious authority to some superhuman level, to God himself. Brotherhood, the kingdom of heaven in the hearts of men and women, will create religious unity if, and only if, religionists are free from all notions of ecclesiastical (religious) authority and sovereignty.
 
 The term, “ecclesiastical authority” derives from the ancient Greek, “ecclesia,” the assembly of the freemen of Athens, and has evolved to mean religious as opposed to civil authority. The Papers inform us that religious brotherhood is possible only when its brothers and sisters reject all religious authority other than God himself.
 
-This is emphasized by their assertion that the very moment we lose sight of the fact of God’s sole authority over religious matters our particular brand of religion will begin to attempt to assert its superiority. The result, they state, will always be dissension, recriminations, even “wars” among religionists—which is hardly “brotherhood.” ([UB 134:4.8](/en/The_Urantia_Book/134#p4_8))
+This is emphasized by their assertion that the very moment we lose sight of the fact of God’s sole authority over religious matters our particular brand of religion will begin to attempt to assert its superiority. The result, they state, will always be dissension, recriminations, even “wars” among religionists—which is hardly “brotherhood.” (<a id="a42_344"></a>[UB 134:4.8](/en/The_Urantia_Book/134#p4_8))
 
 As evidenced by past “wars”, splits, and decimation within the movement, not even believers in the authority of the Urantia Papers are exempt. Somehow we must absorb into the forefront of our minds that our religious beliefs are between ourselves, as individuals, and our God, not to be imposed upon others, or even suggested to be superior.
 
 The “universe ruling” appears to be that we can present our religious views to others, but never are we to seek to impose them, to suggest their superiority, or denigrate the views of others. To do so is to usurp authority to which we can have no right or claim.
 
-Free will beings, we are told, who ignore these guidelines, will inevitably test their own ability to gain power and authority one way or another. ([UB 134:4.9](/en/The_Urantia_Book/134#p4_9)) True brotherhood emerges only with the recognition of the sole authority of God in all matters religious.
+Free will beings, we are told, who ignore these guidelines, will inevitably test their own ability to gain power and authority one way or another. (<a id="a48_148"></a>[UB 134:4.9](/en/The_Urantia_Book/134#p4_9)) True brotherhood emerges only with the recognition of the sole authority of God in all matters religious.
 
 History instructs us that mankind has a continuous record of repeatedly attempting to usurp the authority of God.
 

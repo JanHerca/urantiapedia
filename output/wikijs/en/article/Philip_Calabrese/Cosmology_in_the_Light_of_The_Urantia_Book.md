@@ -33,7 +33,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
 
 According to _The Urantia Book_[^1] many of our basic contemporary scientific concepts are greatly in need of revision or completely new foundations.[^2] The Big Bang (BB) Theory, the so-called Standard Interpretation of Quantum Mechanics, and also Einstein’s Relativity Theory, all need revision or overthrow. 
 
-> It is indeed difficult to find suitable words in the English language whereby to designate and wherewith to describe the various levels of force and energy—physical, mindal, or spiritual. These narratives cannot altogether follow your accepted definitions of force, energy, and power. There is such paucity of language that we must use these terms in multiple meanings. In this paper, for example, the word energy is used to denote all phases and forms of phenomenal motion, action, and potential, while force is applied to the pregravity, and power to the postgravity, stages of energy.[^3] [[UB 42:2.1](/en/The_Urantia_Book/42#p2_1)]
+> It is indeed difficult to find suitable words in the English language whereby to designate and wherewith to describe the various levels of force and energy—physical, mindal, or spiritual. These narratives cannot altogether follow your accepted definitions of force, energy, and power. There is such paucity of language that we must use these terms in multiple meanings. In this paper, for example, the word energy is used to denote all phases and forms of phenomenal motion, action, and potential, while force is applied to the pregravity, and power to the postgravity, stages of energy.[^3] <a id="a35_594"></a>[[UB 42:2.1](/en/The_Urantia_Book/42#p2_1)]
 
 ## Deficiencies in Contemporary Human Cosmology in the early twenty-first century addressed by _The Urantia Book_
 
@@ -78,11 +78,11 @@ Then, at the turn of the twentieth century, after demonstrating that light acted
 
 Based merely on personal esthetics, Einstein’s Special Theory of Relativity postulated the absolute relativity of all reference frames for physical measurements, that none should be considered to be actually at rest, but only relatively. This assumption, coupled with the speed of light being constant in all such reference frames, implies (among other surprises) that the age of identical twins (or the hands on two initially synchronized clocks) will differ (each being younger with respect to the other) if they are equally accelerated apart from one another and later brought together. Simultaneity in space at a specific moment in time becomes essentially relative to the reference frame. A strange world indeed! 
 
-> The increase of mass in matter is equal to the increase of energy divided by the square of the velocity of light. [[UB 42:4.11](/en/The_Urantia_Book/42#p4_11)] 
+> The increase of mass in matter is equal to the increase of energy divided by the square of the velocity of light. <a id="a80_116"></a>[[UB 42:4.11](/en/The_Urantia_Book/42#p4_11)] 
 
 Although he discovered the correct relationship between energy and mass (E = mc^2^) according to _The Urantia Book_, Einstein lost sight of the eternal Source and Center of the Cosmos. 
 
-> And let not your dabblings with the faintly glimpsed findings of “relativity” disturb your concepts of the eternity and infinity of God. [[UB 195:7.5](/en/The_Urantia_Book/195#p7_5)] 
+> And let not your dabblings with the faintly glimpsed findings of “relativity” disturb your concepts of the eternity and infinity of God. <a id="a84_139"></a>[[UB 195:7.5](/en/The_Urantia_Book/195#p7_5)] 
 
 Space is by definition a simultaneity concept because it is understood by synthesis, not analysis—geometric relationships between associated points “now.” 
 
@@ -90,13 +90,13 @@ Later, as a birthday gift, mathematician K. Gödel, already much celebrated for 
 
 In these solutions by Gödel, every material body is attracted to its center of inertia and spins around it. These worlds are also strange in that everything rotates around the same fixed center, toward the universal center of inertia! Lo! That is exactly what _The Urantia Book_ says about the ultimate and first measurable material particles. 
 
-> The ultimaton, the first measurable form of energy, has Paradise as its nucleus. [[UB 42:1.2](/en/The_Urantia_Book/42#p1_2)] 
+> The ultimaton, the first measurable form of energy, has Paradise as its nucleus. <a id="a92_83"></a>[[UB 42:1.2](/en/The_Urantia_Book/42#p1_2)] 
 
-> Ultimatonic rays. The assembly of energy into the minute spheres of the ultimatons occasions vibrations in the content of space which are discernible and measurable. [[UB 42:5.4](/en/The_Urantia_Book/42#p5_4)] 
+> Ultimatonic rays. The assembly of energy into the minute spheres of the ultimatons occasions vibrations in the content of space which are discernible and measurable. <a id="a94_168"></a>[[UB 42:5.4](/en/The_Urantia_Book/42#p5_4)] 
 
-> Without linear-gravity response they are thus held in the universal space drift. Ultimatons are capable of accelerating revolutionary velocity to the point of partial antigravity behavior, but they cannot, independent of force organizers or power directors, attain the critical escape velocity of deindividuation, return to the puissant-energy stage. [[UB 42:6.3](/en/The_Urantia_Book/42#p6_3)] 
+> Without linear-gravity response they are thus held in the universal space drift. Ultimatons are capable of accelerating revolutionary velocity to the point of partial antigravity behavior, but they cannot, independent of force organizers or power directors, attain the critical escape velocity of deindividuation, return to the puissant-energy stage. <a id="a96_353"></a>[[UB 42:6.3](/en/The_Urantia_Book/42#p6_3)] 
 
-> The ultimatons are not subject to local gravity, the interplay of material attraction, but they are fully obedient to absolute or Paradise gravity, to the trend, the swing, of the universal and eternal circle of the universe of universes. [[UB 41:9.2](/en/The_Urantia_Book/41#p9_2)] 
+> The ultimatons are not subject to local gravity, the interplay of material attraction, but they are fully obedient to absolute or Paradise gravity, to the trend, the swing, of the universal and eternal circle of the universe of universes. <a id="a98_241"></a>[[UB 41:9.2](/en/The_Urantia_Book/41#p9_2)] 
 
 There has been some difficulty grasping, topologically, how this can be. How can Paradise simultaneously be both a Macro-nucleus for all ultimatons, and a Micro-nucleus of each ultimaton? In short, the answer is that Infinity is located in all those places. Let’s come back to that topological issue. 
 
@@ -104,15 +104,15 @@ There has been some difficulty grasping, topologically, how this can be. How can
 
 Although light is a particle (photon) moving through space, and so the globally fixed “luminous ether” does not exist, the idea of a _fixed_ place in the nucleus of electrons from which light is emitted as photons does embrace the required constancy of the transmission speed of light since then the speed of light would not be affected by the relative motion of the radiating body. The light would come from the stationary nucleus. 
 
-> How long before you will regard time as the moving image of eternity and space as the fleeting shadow of Paradise realities? [[UB 189:1.3](/en/The_Urantia_Book/189#p1_3)] 
+> How long before you will regard time as the moving image of eternity and space as the fleeting shadow of Paradise realities? <a id="a106_127"></a>[[UB 189:1.3](/en/The_Urantia_Book/189#p1_3)] 
 
 With an absolutely fixed “Nuclear Isle of Light” in the cosmos, roughly “above space,” it is possible to imagine light as particles (quanta) emitted from this fixed place and projected into space from the nucleus of moving electrons without carrying their motions. It is an absolutely fixed, nonspatial location at the macroscopic _focus of space_ and at numerous microscopic foci of space around which energy is configured as mass. 
 
-> The Isle of Paradise has a universe location but no position in space. [[UB 0:4.12](/en/The_Urantia_Book/0#p4_12)] 
+> The Isle of Paradise has a universe location but no position in space. <a id="a110_73"></a>[[UB 0:4.12](/en/The_Urantia_Book/0#p4_12)] 
 
-> Paradise exists at the focus of space, the Unqualified pervades it, and all relative existence has its being within this domain. [[UB 105:3.4](/en/The_Urantia_Book/105#p3_4)]  
+> Paradise exists at the focus of space, the Unqualified pervades it, and all relative existence has its being within this domain. <a id="a112_131"></a>[[UB 105:3.4](/en/The_Urantia_Book/105#p3_4)]  
 
-> Space does not touch Paradise; only the quiescent midspace zones come in contact with the central Isle. [[UB 11:7.1](/en/The_Urantia_Book/11#p7_1)]
+> Space does not touch Paradise; only the quiescent midspace zones come in contact with the central Isle. <a id="a114_106"></a>[[UB 11:7.1](/en/The_Urantia_Book/11#p7_1)]
 
 Exactly where is this nuclear fixed point with respect to space? 
 
@@ -146,7 +146,7 @@ Already had Einstein conceived of space as being warped by massive objects thus 
 
 Many alternative conjectures have been offered to interpret the huge redshifts in some other way apart from receding motion. None have been convincing. 
 
-> The present relationship of your sun and its associated planets, while disclosing many relative and absolute motions in space, tends to convey the impression to astronomic observers that you are comparatively stationary in space, and that the surrounding starry clusters and streams are engaged in outward flight at ever-increasing velocities as your calculations proceed outward in space. But such is not the case. You fail to recognize the present outward and uniform expansion of the physical creations of all pervaded space. Your own local creation (Nebadon) participates in this movement of universal outward expansion. The entire seven superuniverses participate in the two-billion-year cycles of space respiration along with the outer regions of the master universe. [[UB 12:4.12](/en/The_Urantia_Book/12#p4_12)]
+> The present relationship of your sun and its associated planets, while disclosing many relative and absolute motions in space, tends to convey the impression to astronomic observers that you are comparatively stationary in space, and that the surrounding starry clusters and streams are engaged in outward flight at ever-increasing velocities as your calculations proceed outward in space. But such is not the case. You fail to recognize the present outward and uniform expansion of the physical creations of all pervaded space. Your own local creation (Nebadon) participates in this movement of universal outward expansion. The entire seven superuniverses participate in the two-billion-year cycles of space respiration along with the outer regions of the master universe. <a id="a148_776"></a>[[UB 12:4.12](/en/The_Urantia_Book/12#p4_12)]
 
 ### A Hypothesis for non-Doppler Redshifts 
 
@@ -178,7 +178,7 @@ Just when the proponents of the BB thought that the matter of universe expansion
 
 In the face of such recidivist theoretic development, _The Urantia Book_’s 1955 description of “space respiration,” twobillion year expansion and contraction cycles of space and the matter in it including the additional specific information that we are presently in a maximum acceleration phase of expansion is a very impressive prediction of science about to be discovered. 
 
-> The cycles of space respiration extend in each phase for a little more than one billion Urantia years. During one phase the universes expand; during the next they contract. Pervaded space is now approaching the mid-point of the expanding phase. [[UB 11:6.4](/en/The_Urantia_Book/11#p6_4)] 
+> The cycles of space respiration extend in each phase for a little more than one billion Urantia years. During one phase the universes expand; during the next they contract. Pervaded space is now approaching the mid-point of the expanding phase. <a id="a180_247"></a>[[UB 11:6.4](/en/The_Urantia_Book/11#p6_4)] 
 
 Unlike the meandering BB theory, periodic “space respiration” is completely consistent with what has been observed in the decades since _The Urantia Book_ was published in 1955, including even the _phase_ of the respiration cycle— approaching the midpoint of the expansion phase, which is the phase of _accelerating_ expansion before expansion begins to slow down (decelerate). 
 
@@ -212,7 +212,7 @@ By experimental observation our scientists have concluded that even light consis
 
 Space is not an absolute, but it is “absolutely ultimate,” a transcendental reality eternally originating in nether Paradise. Distances in space are not absolute separations because the universe is firstly a unified Whole and secondly, a division of that Whole into parts including different regions in space. Therefore, events can instantaneously affect other events at distant places. 
 
-> Human beings are only just beginning to realize that the reactions of existence appear between acts and their consequences. [[UB 86:2.3](/en/The_Urantia_Book/86#p2_3)] 
+> Human beings are only just beginning to realize that the reactions of existence appear between acts and their consequences. <a id="a214_126"></a>[[UB 86:2.3](/en/The_Urantia_Book/86#p2_3)] 
 
 The universe always reacts between an act and its consequences. This is always true only if the universe reaction to any act is instantaneous with the act. Otherwise, some acts would cause immediate local results before a delayed universe reaction could happen. 
 
@@ -250,17 +250,17 @@ The totality of reality (I AM) refers to all that ever existed, exists now, or e
 
 INFINITY (I AM) can be divided into seven Absolutes, three personal (Father, Son and Spirit) and three impersonal (The Unqualified Absolute, Deity Absolute, and The Universal Absolute) plus Paradise, which is both personal and impersonal, having both an upper (personal) side and lower (nether) side. 
 
-> As a time-space creature would view the origin and differentiation of Reality, the eternal and infinite I AM achieved Deity liberation from the fetters of unqualified infinity through the exercise of inherent and eternal free will, and this divorcement from unqualified infinity produced the first absolute divinity-tension. This tension of infinity differential is resolved by the Universal Absolute, which functions to unify and co-ordinate the dynamic infinity of Total Deity and the static infinity of the Unqualified Absolute. [[UB 0:3.21](/en/The_Urantia_Book/0#p3_21)] 
+> As a time-space creature would view the origin and differentiation of Reality, the eternal and infinite I AM achieved Deity liberation from the fetters of unqualified infinity through the exercise of inherent and eternal free will, and this divorcement from unqualified infinity produced the first absolute divinity-tension. This tension of infinity differential is resolved by the Universal Absolute, which functions to unify and co-ordinate the dynamic infinity of Total Deity and the static infinity of the Unqualified Absolute. <a id="a252_534"></a>[[UB 0:3.21](/en/The_Urantia_Book/0#p3_21)] 
 
-> In this original transaction the theoretical I AM achieved the realization of personality by becoming the Eternal Father of the Original Son simultaneously with becoming the Eternal Source of the Isle of Paradise. Coexistent with the differentiation of the Son from the Father, and in the presence of Paradise, there appeared the person of the Infinite Spirit and the central universe of Havona. With the appearance of coexistent personal Deity, the Eternal Son and the Infinite Spirit, the Father escaped, as a personality, from otherwise inevitable diffusion throughout the potential of Total Deity. Thenceforth it is only in Trinity association with his two Deity equals that the Father fills all Deity potential, while increasingly experiential Deity is being actualized on the divinity levels of Supremacy, Ultimacy, and Absoluteness. [[UB 0:3.22](/en/The_Urantia_Book/0#p3_22)] 
+> In this original transaction the theoretical I AM achieved the realization of personality by becoming the Eternal Father of the Original Son simultaneously with becoming the Eternal Source of the Isle of Paradise. Coexistent with the differentiation of the Son from the Father, and in the presence of Paradise, there appeared the person of the Infinite Spirit and the central universe of Havona. With the appearance of coexistent personal Deity, the Eternal Son and the Infinite Spirit, the Father escaped, as a personality, from otherwise inevitable diffusion throughout the potential of Total Deity. Thenceforth it is only in Trinity association with his two Deity equals that the Father fills all Deity potential, while increasingly experiential Deity is being actualized on the divinity levels of Supremacy, Ultimacy, and Absoluteness. <a id="a254_842"></a>[[UB 0:3.22](/en/The_Urantia_Book/0#p3_22)] 
 
 INFINITY manifests in eternal “tensions” between the Absolutes. The all-pervading Unqualified Absolute, which is responsible for the pre-mass potency of space, appropriately releases force-energy into space in response to the presence of special minded beings that can organize it. (It has been revealed that the sub-atomic world has an extensive intelligent development by special beings designed for this role.) 
 
-> Force, energy, is the one thing which stands as an everlasting monument demonstrating and proving the existence and presence of the Universal Absolute. [[UB 42:0.1](/en/The_Urantia_Book/42#p0_1)] 
+> Force, energy, is the one thing which stands as an everlasting monument demonstrating and proving the existence and presence of the Universal Absolute. <a id="a258_154"></a>[[UB 42:0.1](/en/The_Urantia_Book/42#p0_1)] 
 
 Although encircuited in nether Paradise, this pre-mass force-energy is at first not responsive to Paradise “circular” gravity except macroscopically. After two transcendental stages of development handled by Transcendental Force Organizers of Paradise, the force-energies emerge as minute spherical ultimatons, the first measurable masses. Free ultimatons respond to Paradise gravity but not linear, masstomass gravity. Further intelligent physical manipulation by Force Controllers and similar beings fabricate electrons and protons out of ultimatons until linear gravity attraction of aggregate atomic masses occurs, at which point they pass on control to lower order power control beings. 
 
-> Physical stability associated with biologic elasticity is present in nature only because of the well-nigh infinite wisdom possessed by the Master Architects of creation. Nothing less than transcendental wisdom could ever design units of matter which are at the same time so stable and so efficiently flexible. [[UB 42:9.5](/en/The_Urantia_Book/42#p9_5)] 
+> Physical stability associated with biologic elasticity is present in nature only because of the well-nigh infinite wisdom possessed by the Master Architects of creation. Nothing less than transcendental wisdom could ever design units of matter which are at the same time so stable and so efficiently flexible. <a id="a262_312"></a>[[UB 42:9.5](/en/The_Urantia_Book/42#p9_5)] 
 
 The resulting stability of this lower world sets the stage for intelligent life high and low to choose and act upon this stable pre-existent atomic and molecular matter for the benefit of “self” and other selves. 
 
@@ -312,7 +312,7 @@ Furthermore, utilizing the notion of the finite as a qualification of the INFINI
 
 We are advised that it is helpful to think of the Cosmos as an almost infinite ellipse with one Absolute Focus ever reaching for that other absolute Focus beyond space-time in the potential infinity of the Unqualifiedly Absolute. 
 
-> TO EVEN high orders of universe intelligences infinity is only partially comprehensible, and the finality of reality is only relatively understandable. The human mind, as it seeks to penetrate the eternity-mystery of the origin and destiny of all that is called real, may helpfully approach the problem by conceiving eternity-infinity as an almost limitless ellipse which is produced by one absolute cause, and which functions throughout this universal circle of endless diversification, ever seeking some absolute and infinite potential of destiny. [[UB 105:0.1](/en/The_Urantia_Book/105#p0_1)] 
+> TO EVEN high orders of universe intelligences infinity is only partially comprehensible, and the finality of reality is only relatively understandable. The human mind, as it seeks to penetrate the eternity-mystery of the origin and destiny of all that is called real, may helpfully approach the problem by conceiving eternity-infinity as an almost limitless ellipse which is produced by one absolute cause, and which functions throughout this universal circle of endless diversification, ever seeking some absolute and infinite potential of destiny. <a id="a314_552"></a>[[UB 105:0.1](/en/The_Urantia_Book/105#p0_1)] 
 
 Macroscopically, INFINITY must be present at the geographic center of (linear) gravity. There is always a geographic center of linear gravity attraction for any finite collection of particles. Consider the center of gravity of all the masses in the universe. Discounting the addition or subtraction of mass in the universe this center of linear gravity will have a fixed location with respect to all motion in space, and possibly of space. 
 
@@ -330,7 +330,7 @@ For example, the highest energy state of a hydrogen proton-electron pair is with
 
 It therefore seems appropriate to postulate an intervening fulcrum between INFINITY and finite space, a surface at INFINITY enclosing INFINITY. The fixed patterns enclosed by this surface are responsible for maintaining the energy configurations and balanced quantum interactions and transformations of shadowy moving finite material bodies. Our friends the Midwayers ask? “_How long before you will regard time as the moving image of eternity and space as the fleeting shadow of Paradise realities?_” 
 
-> Mankind is slow to perceive that, in all that is personal, matter is the skeleton of morontia, and that both are the reflected shadow of enduring spirit reality. How long before you will regard time as the moving image of eternity and space as the fleeting shadow of Paradise realities? [[UB 189:1.3](/en/The_Urantia_Book/189#p1_3)] 
+> Mankind is slow to perceive that, in all that is personal, matter is the skeleton of morontia, and that both are the reflected shadow of enduring spirit reality. How long before you will regard time as the moving image of eternity and space as the fleeting shadow of Paradise realities? <a id="a332_289"></a>[[UB 189:1.3](/en/The_Urantia_Book/189#p1_3)] 
 
 ### Time and Eternity, Space and Infinity 
 
@@ -372,7 +372,7 @@ Since all matter ultimately orbits and spins about the large fixed ellipsoidal s
 
 The cycles of space motion can be considered periodic, with all spaces eventually returning to their former positions with respect to nether Paradise. 
 
-> All units of cosmic energy are in primary revolution, are engaged in the execution of their mission, while swinging around the universal orbit. The universes of space and their component systems and worlds are all revolving spheres, moving along the endless circuits of the master universe space levels. Absolutely nothing is stationary in the entire master universe except the very center of Havona, the eternal Isle of Paradise, the center of gravity. [[UB 12:4.1](/en/The_Urantia_Book/12#p4_1)] 
+> All units of cosmic energy are in primary revolution, are engaged in the execution of their mission, while swinging around the universal orbit. The universes of space and their component systems and worlds are all revolving spheres, moving along the endless circuits of the master universe space levels. Absolutely nothing is stationary in the entire master universe except the very center of Havona, the eternal Isle of Paradise, the center of gravity. <a id="a374_456"></a>[[UB 12:4.1](/en/The_Urantia_Book/12#p4_1)] 
 
 If _all_ units of cosmic energy have primary revolution while also swinging around the universal orbit, then all such units of energy have three essential components: 1) something spinning and also orbiting, 2) a nucleus around which something spins and orbits, and 3) space containing the spinning and orbiting motion. The space within a moving body is a property of the body and moves with it. This implies that the notion of a “single energy unit,” a particle, is not really an individual whole! It must already have the three essential components listed above. The ultimate units have the same interior nucleus and exterior orbital center. In two different motions, they both spin and orbit Paradise. Truly, in God, who is Spirit, all things consist and have their being. 
 
@@ -386,7 +386,7 @@ Notice that each unit of mass has relatively non-moving space within it in order
 
 This question of the motion of the interior space when a particle moves through space suggests the need for a more careful examination of how the interior space of matter can move with it through space while somehow having a fixed nucleus. 
 
-> It may help to an understanding of space relationships if you would conjecture that, relatively speaking, space is after all a property of all material bodies. Hence, when a body moves through space, it also takes all its properties with it, even the space which is in and of such a moving body. [[UB 118:3.6](/en/The_Urantia_Book/118#p3_6)] 
+> It may help to an understanding of space relationships if you would conjecture that, relatively speaking, space is after all a property of all material bodies. Hence, when a body moves through space, it also takes all its properties with it, even the space which is in and of such a moving body. <a id="a388_298"></a>[[UB 118:3.6](/en/The_Urantia_Book/118#p3_6)] 
 
 ### Gravity presence 
 
@@ -404,7 +404,7 @@ Understanding the way that space and motion behave must key on the fact of the c
 
 Following this image of light propagated into space from an immense fixed location dense in space but not moving in space, matter acts like a moving shade here and there letting light pass or reflecting it or capturing it temporarily until releasing it again perhaps in a different direction. Topologically, this simply requires that the surface P be potentially dense with respect to space thereby allowing a moving emitter of light to “open a moving window” to the nuclear source of light “just within” or “above” the space of the shadowy emitting body. 
 
-> Only by ubiquity could Deity unify time-space manifestations to the finite conception, for time is a succession of instants while space is a system of associated points. You do, after all, perceive time by analysis and space by synthesis. You co-ordinate and associate these two dissimilar conceptions by the integrating insight of personality. Of all the animal world only man possesses this time-space perceptibility. To an animal, motion has a meaning, but motion exhibits value only to a creature of personality status. [[UB 118:3.1](/en/The_Urantia_Book/118#p3_1)] 
+> Only by ubiquity could Deity unify time-space manifestations to the finite conception, for time is a succession of instants while space is a system of associated points. You do, after all, perceive time by analysis and space by synthesis. You co-ordinate and associate these two dissimilar conceptions by the integrating insight of personality. Of all the animal world only man possesses this time-space perceptibility. To an animal, motion has a meaning, but motion exhibits value only to a creature of personality status. <a id="a406_526"></a>[[UB 118:3.1](/en/The_Urantia_Book/118#p3_1)] 
 
 ## Mathematical Versus Volitional Reality— Choice in the Cosmos 
 
@@ -418,7 +418,7 @@ For these people the existence of choice in the cosmos is a philosophical inconv
 
 The existence of choice (ability to express the desire of the subjective self objectively) requires something more than matter completely subject to past causes. The mathematical and the volitional can be distinguished. 
 
-> Early man did not differentiate between the energy level and the spirit level. It was the violet race and their Andite successors who first attempted to divorce the mathematical from the volitional. Increasingly has civilized man followed in the footsteps of the earliest Greeks and the Sumerians who distinguished between the inanimate and the animate. And as civilization progresses, philosophy will have to bridge ever-widening gulfs between the spirit concept and the energy concept. But in the time of space these divergencies are at one in the Supreme. [[UB 103:6.10](/en/The_Urantia_Book/103#p6_10)]
+> Early man did not differentiate between the energy level and the spirit level. It was the violet race and their Andite successors who first attempted to divorce the mathematical from the volitional. Increasingly has civilized man followed in the footsteps of the earliest Greeks and the Sumerians who distinguished between the inanimate and the animate. And as civilization progresses, philosophy will have to bridge ever-widening gulfs between the spirit concept and the energy concept. But in the time of space these divergencies are at one in the Supreme. <a id="a420_561"></a>[[UB 103:6.10](/en/The_Urantia_Book/103#p6_10)]
 
 In so far as motion is mechanical, without choice, completely determined by antecedent causation, it can be considered to have already occurred in the universal event space of time, from the infinite past to the infinite future. This eternal time line will correspond to an infinite cycle of revolutions of some standard orbiting body in space thereby establishing a standard but arbitrary time period of space. 
 
@@ -428,7 +428,7 @@ How can a person be capable of this? How must the universe be constructed to all
 
 This is not so hard to believe since both scientists and religionists are persons with private lives conscious of making personal choices. Choice implies the ability to change the future. Since a personal mind can perceive millions or more years into the past and similarly project into the future, choices can span such long periods of time even while the decision is tied to a single short period of time when it is made. How, in principle, can this occur in the universe? 
 
-> “Will is that manifestation of the human mind which enables the subjective consciousness to express itself objectively and to experience the phenomenon of aspiring to be Godlike.”—Jesus [[UB 130:2.10](/en/The_Urantia_Book/130#p2_10)]
+> “Will is that manifestation of the human mind which enables the subjective consciousness to express itself objectively and to experience the phenomenon of aspiring to be Godlike.”—Jesus <a id="a430_188"></a>[[UB 130:2.10](/en/The_Urantia_Book/130#p2_10)]
 
 If some non-material aspect of mind can add even a small amount of energy to space, then it can in theory independently affect some energy flow, or complete some circuit. Equivalently, mind could have some amount of anti-gravity spirit power to affect brain matter and so the objective world. The non-material aspect, or plane, from which mind gets power over matter can be called spirit. 
 
@@ -436,7 +436,7 @@ However this word must be qualified because it has been revealed that there are 
 
 The complete, most real substance of the body must be located in the nucleus, in fixed (nether) Paradise. In this way _The Urantia Book_ avoids dualism, since there is just one eternal substance of the Body (Paradise) but many copies, moving images (shadowy moving space bodies) of it. 
 
-> Mind transmutes the values of spirit into the meanings of intellect; volition has power to bring the meanings of mind to fruit in both the material and spiritual domains. The Paradise ascent involves a relative and differential growth in spirit, mind, and energy. The personality is the unifier of these components of experiential individuality. [[UB 9:4.6](/en/The_Urantia_Book/9#p4_6)]  
+> Mind transmutes the values of spirit into the meanings of intellect; volition has power to bring the meanings of mind to fruit in both the material and spiritual domains. The Paradise ascent involves a relative and differential growth in spirit, mind, and energy. The personality is the unifier of these components of experiential individuality. <a id="a438_348"></a>[[UB 9:4.6](/en/The_Urantia_Book/9#p4_6)]  
 
 ### Spirit-Matter Interface 
 
@@ -466,7 +466,7 @@ _The Urantia Book_ qualifies its immensely valuable revelation of cosmology as f
 > 
 > 4. The supplying of information which will fill in vital missing gaps in otherwise earned knowledge. 
 > 
-> 5. Presenting cosmic data in such a manner as to illuminate the spiritual teachings > contained in the accompanying revelation. [[UB 101:4.5-10](/en/The_Urantia_Book/101#p4_5)]
+> 5. Presenting cosmic data in such a manner as to illuminate the spiritual teachings > contained in the accompanying revelation. <a id="a468_130"></a>[[UB 101:4.5-10](/en/The_Urantia_Book/101#p4_5)]
 
 Since there is so much in need of fundamental revision in human cosmology, recognition by most contemporary scientists will have to wait for some tipping point event that makes it quite impossible for science to further ignore the need for a new paradigm—a fixed geographic center of Infinity in the cosmos. Then will the “immense value” of the cosmology in _The Urantia Book_ be recognized and its limitations important to recall. This will overthrow the Big Bang theory, Einstein’s absolute relativity of motion, and the wave-particle duality interpretation of quantum mechanics. Mechanistic scientists and philosophers might even have to include some “living choices” in the cosmos reflecting the existence of the First Chooser of Heaven—the God of Paradise, our spiritual Father. 
 
@@ -526,7 +526,7 @@ T = 1/H~0~ = [(3.262) \* (3.00) \* 10^11^ yr / 72] = 1.36 \* 10^10^ yr = 13.6 bi
 
 [^2]: Although _The Urantia Book_’s scientific cosmology is not intended to be infallible or inspired, it does claim to be temporarily of “immense” scientific value in several ways so to better present it’s much longer lasting spiritual message. See Endnote. 
 
-[^3]: _The Urantia Book_, ENERGY—MIND AND MATTER: Paper 42, Sec 2, Para 1. denoted [[UB 42:2.1](/en/The_Urantia_Book/42#p2_1)] 
+[^3]: _The Urantia Book_, ENERGY—MIND AND MATTER: Paper 42, Sec 2, Para 1. denoted <a id="a528_83"></a>[[UB 42:2.1](/en/The_Urantia_Book/42#p2_1)] 
 
 [^4]: “An Example of a New Type of Cosmological Solutions of Einstein’s Field Equations of Gravitation”, Kurt Gödel, Reviews of Modern Physics, Vol. 21, Number 3, July 1949 . 
 

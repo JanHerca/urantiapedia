@@ -33,7 +33,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-> “The great hope of Urantia lies in the possibility of a new revelation of Jesus with a new and enlarged presentation of his saving message which would spiritually unite in loving service the numerous families of his present-day professed followers.” [[UB 195:10.16](/en/The_Urantia_Book/195#p10_16)]
+> “The great hope of Urantia lies in the possibility of a new revelation of Jesus with a new and enlarged presentation of his saving message which would spiritually unite in loving service the numerous families of his present-day professed followers.” <a id="a35_252"></a>[[UB 195:10.16](/en/The_Urantia_Book/195#p10_16)]
 
 ## Copyright Litigation and _The Urantia Book_
 

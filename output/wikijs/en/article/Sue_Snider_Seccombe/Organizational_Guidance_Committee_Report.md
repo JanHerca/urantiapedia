@@ -42,7 +42,7 @@ by _Sue Snider Seccombe_
 
 With an eye toward progress and growth, the Urantia Book Fellowship created our ad hoc committee to finetune planning and clarify future opportunities and strategies. We completed 50 in-depth interviews over the summer with key participants in the Urantia Book reader community and are now conducting market research to learn more about the next wave of people who may discover the Urantia Book and how we can best prepare to serve them.
 
-> “Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment.” [UB 195:9.2](/en/The_Urantia_Book/195#p9_2)
+> “Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment.” <a id="a44_168"></a>[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)
 
 ## How We Serve Our Community
 

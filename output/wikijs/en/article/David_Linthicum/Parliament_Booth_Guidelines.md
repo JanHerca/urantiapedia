@@ -84,11 +84,11 @@ Volunteers are asked to keep the booth attractive and neat during their shift. T
 
 ## Jesus' Teaching Methods
 
-> “Never once did he attack their errors or even mention the flaws in their teachings. In each case he would select the truth in what they taught and then proceed so to embellish and illuminate this truth in their minds that in a very short time this enhancement of the truth effectively crowded out the associated error ... ” ([UB 132:0.4](/en/The_Urantia_Book/132#p0_4))
+> “Never once did he attack their errors or even mention the flaws in their teachings. In each case he would select the truth in what they taught and then proceed so to embellish and illuminate this truth in their minds that in a very short time this enhancement of the truth effectively crowded out the associated error ... ” (<a id="a86_328"></a>[UB 132:0.4](/en/The_Urantia_Book/132#p0_4))
 
-> “Jesus' usual technique of social contact was to draw people out and into talking with him by asking them questions. The interview would usually begin by his asking them questions and end by their asking him questions ... And invariably would he tell these distressed mortals about the love of God and impart the information, by various and sundry methods, that they were the children of this loving Father in heaven.” ([UB 132:4.2](/en/The_Urantia_Book/132#p4_2))
+> “Jesus' usual technique of social contact was to draw people out and into talking with him by asking them questions. The interview would usually begin by his asking them questions and end by their asking him questions ... And invariably would he tell these distressed mortals about the love of God and impart the information, by various and sundry methods, that they were the children of this loving Father in heaven.” (<a id="a88_422"></a>[UB 132:4.2](/en/The_Urantia_Book/132#p4_2))
 
-> “The teachers of the religion of Jesus should approach other religions with the recognition of the truths which are held in common (many of which come directly or indirectly from Jesus' message) while they refrain from placing so much emphasis on the differences.” ([UB 149:2.5](/en/The_Urantia_Book/149#p2_5))
+> “The teachers of the religion of Jesus should approach other religions with the recognition of the truths which are held in common (many of which come directly or indirectly from Jesus' message) while they refrain from placing so much emphasis on the differences.” (<a id="a90_268"></a>[UB 149:2.5](/en/The_Urantia_Book/149#p2_5))
 
 ## Sample Elevator Speeches
 

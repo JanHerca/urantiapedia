@@ -34,9 +34,9 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> “But no revelation short of the Universal Father can ever be complete. **All other celestial ministrations are no more than partial, transient, and practically adapted to local conditions in time and space.**” ([UB 92:4.9](/en/The_Urantia_Book/92#p4_9))
+> “But no revelation short of the Universal Father can ever be complete. **All other celestial ministrations are no more than partial, transient, and practically adapted to local conditions in time and space.**” (<a id="a36_213"></a>[UB 92:4.9](/en/The_Urantia_Book/92#p4_9))
 
-“**Religion is the revelation to man of his divine and eternal destiny.**” ([UB 195:5.3](/en/The_Urantia_Book/195#p5_3)) So say the revelators. Certainly one of the major tasks for the revelators of The Urantia Papers was to inform Urantians about their “divine and eternal destiny” within the context of a cosmology that includes Paradise, Havona, the seven superuniverses, and the hierarchical structure for the “heavenly hosts.”
+“**Religion is the revelation to man of his divine and eternal destiny.**” (<a id="a38_76"></a>[UB 195:5.3](/en/The_Urantia_Book/195#p5_3)) So say the revelators. Certainly one of the major tasks for the revelators of The Urantia Papers was to inform Urantians about their “divine and eternal destiny” within the context of a cosmology that includes Paradise, Havona, the seven superuniverses, and the hierarchical structure for the “heavenly hosts.”
 
 > If at every moment, both present and future, it were eternally certain that nothing has happened  or can happen, not even the most fearful horror invented by the most morbid imagination and translated into fact, which can separate us fro God's love—here would be reason for joy.
 > _Soren Kierkegarde_
@@ -56,11 +56,11 @@ A point to be considered is that we may be answerable at some future time in our
 
 It is a sad truth that the Urantia Papers never ever had need for the protection of copyright, nor did they ever have any need for the status of “divinely-dictated revelation” to be plastered upon them. The truths in these Papers are magnificently self-authenticating for those with “eyes to see and ears to hear.” They can stand on their own feet and by their own merit. How long will it take for that truth to be understood?
 
-The restrictions imposed upon the revelators by the rules for revelation included that they must not provide us with unearned knowledge, nor are they permitted to anticipate the scientific discoveries that they expect us to make over the next 1000 years. ([UB 101:4.2](/en/The_Urantia_Book/101#p4_2)) At first glance these impositions do not appear all that intimidating. But some realistic thinking on the problem will soon reveal the depth of the difficulties so created.
+The restrictions imposed upon the revelators by the rules for revelation included that they must not provide us with unearned knowledge, nor are they permitted to anticipate the scientific discoveries that they expect us to make over the next 1000 years. (<a id="a58_256"></a>[UB 101:4.2](/en/The_Urantia_Book/101#p4_2)) At first glance these impositions do not appear all that intimidating. But some realistic thinking on the problem will soon reveal the depth of the difficulties so created.
 
-> Ganid, I have absolute confidence in my heavenly Father’s overcare; I am consecrated to doing the will of my Father in heaven. I do not believe that real harm can befall me; I do not believe that my lifework can really be jeopardized by anything my enemies might wish to visit upon me, and surely we have no violence to fear from our friends. I am absolutely assured that the entire universe is friendly to me—this all-powerful truth I insist on believing with a wholehearted trust in spite of all appearances to the contrary. ([UB 133:1.4](/en/The_Urantia_Book/133#p1_4))
+> Ganid, I have absolute confidence in my heavenly Father’s overcare; I am consecrated to doing the will of my Father in heaven. I do not believe that real harm can befall me; I do not believe that my lifework can really be jeopardized by anything my enemies might wish to visit upon me, and surely we have no violence to fear from our friends. I am absolutely assured that the entire universe is friendly to me—this all-powerful truth I insist on believing with a wholehearted trust in spite of all appearances to the contrary. (<a id="a60_530"></a>[UB 133:1.4](/en/The_Urantia_Book/133#p1_4))
 
-> The partially evolved mental mechanism of mortal man is not overendowed with consistency and wisdom. Man’s conceit often outruns his reason and eludes his logic. ([UB 195:7.7](/en/The_Urantia_Book/195#p7_7))
+> The partially evolved mental mechanism of mortal man is not overendowed with consistency and wisdom. Man’s conceit often outruns his reason and eludes his logic. (<a id="a62_165"></a>[UB 195:7.7](/en/The_Urantia_Book/195#p7_7))
 
 Imagine that you have been placed in a time machine and the date wound back to the end of the 19th century. You find yourself scheduled to give a talk to a group of erudite citizens, your topic is the “clockwork nature of the universe” and you are familiar with the recent 20th century advances in quantum physics that demonstrate conclusively that the universe is not a clockwork-like machine after all, and that the fundamentals of cause and effect thinking have gone down the drain forever.
 
@@ -74,13 +74,13 @@ Try it and see for yourself. Bill Sadler used an analogy about explaining the wo
 
 The clue might be found in what the book says about our free will:
 
-> “No other being, force, creator, or agency in all the wide universe of universes can interfere to any degree with the absolute sovereignty of the mortal free will, as it operates within the realms of choice, **regarding the eternal destiny of the personality** of the choosing mortal. As pertains to eternal survival, **God has decreed the sovereignty of the material and mortal will, and that decree is absolute.**” ([UB 5:6.8](/en/The_Urantia_Book/5#p6_8))
+> “No other being, force, creator, or agency in all the wide universe of universes can interfere to any degree with the absolute sovereignty of the mortal free will, as it operates within the realms of choice, **regarding the eternal destiny of the personality** of the choosing mortal. As pertains to eternal survival, **God has decreed the sovereignty of the material and mortal will, and that decree is absolute.**” (<a id="a76_420"></a>[UB 5:6.8](/en/The_Urantia_Book/5#p6_8))
 
 There are several similar statements about the absolute sovereignty of human free will. **So what is free will?**
 
 _The Urantia Book_ tells us that our universe careers will finally be rewarded by our attaining of the presence of the Universal Father and then being ushered into the Corps of Finality—**provided we make a freewill decision of total commitment to the “doing of God’s will.**”
 
-Alternatively, if we finally reject making the commitment to doing God’s will, we will become **as if we had never been**. ([UB 2:3.4](/en/The_Urantia_Book/2#p3_4))
+Alternatively, if we finally reject making the commitment to doing God’s will, we will become **as if we had never been**. (<a id="a82_124"></a>[UB 2:3.4](/en/The_Urantia_Book/2#p3_4))
 
 How does this situation measure up against the reward and punishment methodology that we commonly use to train animals and even our offspring? Is there a real difference?
 
@@ -141,7 +141,7 @@ If this suggestion is correct, then the revelators could not provide us with a t
 
 Quotations from the book that are in accord with these thoughts are:
 
-> “But for you, my children, and for all others who would follow you into this kingdom, there is set a severe test. Faith alone will pass you through its portals. . . ” ([UB 140:1.4](/en/The_Urantia_Book/140#p1_4))
+> “But for you, my children, and for all others who would follow you into this kingdom, there is set a severe test. Faith alone will pass you through its portals. . . ” (<a id="a143_170"></a>[UB 140:1.4](/en/The_Urantia_Book/140#p1_4))
 
 Here a reminder of Brian Appleyard’s telling remark is warranted, “If we had reason for faith, it would not be faith at all, it would be logic. Faith can only be unreasonable.”
 
@@ -149,23 +149,23 @@ So if the Urantia Papers were errorless, as well as containing prophetic materia
 
 Then we have:
 
-> “The existence of God can never be proved by scientific experiment or by pure reason. . . ” ([UB 1:2.7](/en/The_Urantia_Book/1#p2_7))
+> “The existence of God can never be proved by scientific experiment or by pure reason. . . ” (<a id="a151_95"></a>[UB 1:2.7](/en/The_Urantia_Book/1#p2_7))
 
-> “Revelation is validated only by human experience. . . ” ([UB 101:2.8](/en/The_Urantia_Book/101#p2_8))
+> “Revelation is validated only by human experience. . . ” (<a id="a153_60"></a>[UB 101:2.8](/en/The_Urantia_Book/101#p2_8))
 
-> “The proof of revelation is this same fact of human experience. . . ” ([UB 101:2.1](/en/The_Urantia_Book/101#p2_1))
+> “The proof of revelation is this same fact of human experience. . . ” (<a id="a155_73"></a>[UB 101:2.1](/en/The_Urantia_Book/101#p2_1))
 
-> “The fact of religion consists wholly in the religious experience of the rational and average human being.” ([UB 101:2.1](/en/The_Urantia_Book/101#p2_1))
+> “The fact of religion consists wholly in the religious experience of the rational and average human being.” (<a id="a157_111"></a>[UB 101:2.1](/en/The_Urantia_Book/101#p2_1))
 
 My last supporting quote says:
 
-> But long before reaching Havona, these ascendant children of time have learned to feast upon uncertainty, to fatten upon disappointment, to enthuse over apparent defeat, to invigorate in the presence of difficulties, to exhibit indomitable courage in the face of immensity, and to exercise unconquerable faith when confronted with the challenge of the inexplicable. Long since, the battle cry of these pilgrims became: “In liaison with God, nothing—absolutely nothing—is impossible. ([UB 26:5.3](/en/The_Urantia_Book/26#p5_3))
+> But long before reaching Havona, these ascendant children of time have learned to feast upon uncertainty, to fatten upon disappointment, to enthuse over apparent defeat, to invigorate in the presence of difficulties, to exhibit indomitable courage in the face of immensity, and to exercise unconquerable faith when confronted with the challenge of the inexplicable. Long since, the battle cry of these pilgrims became: “In liaison with God, nothing—absolutely nothing—is impossible. (<a id="a161_486"></a>[UB 26:5.3](/en/The_Urantia_Book/26#p5_3))
 
 It certainly seems that mortal life is meant to be charged with uncertainty. Thus am I able to say:
 
 “Thank you Father, for the errors and the ‘funny’ stuff in _The Urantia Book_, thank you for those hilarious bits about Adamson and Ratta and their invisible children; thank you for those incredible, impossible, long-ranging passenger birds that carry two people 500 miles non-stop—and talk; thank you for the forty days to Pentecost conundrum; and thank you for the beauty and the grandeur of those Urantia Papers that reflect a level of genius that is light years beyond the talents of mere men. But above all else, I give you thanks Father, for the life of Jesus as it reveals you to me. And lastly, I give thanks for those precious words of Job saying, ‘even though you slay me, yet would I serve you,’ for it is my will, Father, that your will be done in me, no matter what the consequences. My Father, I do so sincerely love you just for being you, and for you allowing me to be me. Once more, thank you. Amen.”
 
-> You must go forward from where you find yourselves. ([UB 195:10.1](/en/The_Urantia_Book/195#p10_1))
+> You must go forward from where you find yourselves. (<a id="a167_55"></a>[UB 195:10.1](/en/The_Urantia_Book/195#p10_1))
 
 > The reason birds can fly and we can't is simply that they have perfect faith, for to have faith is to have wings.
 > J.M. Barrie, “The Little White Bird”

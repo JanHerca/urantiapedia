@@ -45,9 +45,9 @@ dateCreated: 2022-9-9T8:13:39Z
 > 
 > 6. Jesus taught that eternal realities were the result (reward) of righteous earthly striving. Man’s mortal sojourn on earth acquired new meanings consequent upon the recognition of a noble destiny.
 > 
-> 7. The new gospel affirmed that human salvation is the revelation of a far-reaching divine purpose to be fulfilled and realized in the future destiny of the endless service of the salvaged sons of God. ([UB 170:2.1-8](/en/The_Urantia_Book/170#p2_1))
+> 7. The new gospel affirmed that human salvation is the revelation of a far-reaching divine purpose to be fulfilled and realized in the future destiny of the endless service of the salvaged sons of God. (<a id="a47_205"></a>[UB 170:2.1-8](/en/The_Urantia_Book/170#p2_1))
 
-> Doubt not, this kingdom of heaven which the Master taught arists within the heart of the believer, will yet be proclaimed to the Christian church, even as to all other religions, paces, and nations on earth—even to every individual. ([UB 170:5.8](/en/The_Urantia_Book/170#p5_8))
+> Doubt not, this kingdom of heaven which the Master taught arists within the heart of the believer, will yet be proclaimed to the Christian church, even as to all other religions, paces, and nations on earth—even to every individual. (<a id="a49_236"></a>[UB 170:5.8](/en/The_Urantia_Book/170#p5_8))
 
 ## External links
 

@@ -56,11 +56,11 @@ In some ways Paper 56 is a bit like the Foreword—it tends to summarize the who
 
 In Section 10, Truth, Beauty, and Goodness, we find the discussion on art. Our future replacement Planetary Prince, who once (and not too long ago) lived among us, says:
 
-> “Philosophy you somewhat grasp, and divinity you comprehend in worship, social service, and personal spiritual experience, but the pursuit of beauty—cosmology—you all too often limit to the study of man’s crude artistic endeavors.” ([UB 56:10.3](/en/The_Urantia_Book/56#p10_3))
+> “Philosophy you somewhat grasp, and divinity you comprehend in worship, social service, and personal spiritual experience, but the pursuit of beauty—cosmology—you all too often limit to the study of man’s crude artistic endeavors.” (<a id="a58_235"></a>[UB 56:10.3](/en/The_Urantia_Book/56#p10_3))
 
 He then goes on to elaborate. I could take up many pages of text expanding upon this elaboration, but instead, let’s just focus on one element. Here’s his next sentence:
 
-> “**Beauty, art, is largely a matter of the unification of contrasts.**” ([UB 56:10.3](/en/The_Urantia_Book/56#p10_3))
+> “**Beauty, art, is largely a matter of the unification of contrasts.**” (<a id="a62_75"></a>[UB 56:10.3](/en/The_Urantia_Book/56#p10_3))
 
 Let’s assume that Jesus, who exhausted all the potentials for finite expression of spiritual beauty in the local universe of Nebadon, epitomized this concept. How did Jesus express beauty (as art) by unifying contrasts?
 
@@ -72,13 +72,13 @@ Now, my friend Arley (not the one who reads _The Urantia Book_) was a good guy a
 
 I rather suspect that many of the persons Jesus dealt with in his day were like Arley. I read a lot of Arley in the character of Anaxand, the young man in the shipyard working on the steering paddle alongside Jesus. Here we see Jesus making some kind of series of comments that causes Anaxand to ridicule Jesus, but to do so with a hint of sincerity.
 
-Jesus knew that Anaxand’s comment of, “if the gods are so good then how come. . . ” ([UB 130:2.4](/en/The_Urantia_Book/130#p2_4)) could not be answered directly. A discussion of free will, the real answer to the man’s verbalized question, would have been wholly inappropriate. Jesus correctly saw the man’s comment as a challenge to the assertions that Jesus had been making over the course of the morning—Jesus’ assertions that God is good and that God cares for us. Jesus also correctly ascertained that such a challenge could only be addressed by a counterchallenge, one that would “one-up” the original challenge issued by the young man, Anaxand.
+Jesus knew that Anaxand’s comment of, “if the gods are so good then how come. . . ” (<a id="a74_85"></a>[UB 130:2.4](/en/The_Urantia_Book/130#p2_4)) could not be answered directly. A discussion of free will, the real answer to the man’s verbalized question, would have been wholly inappropriate. Jesus correctly saw the man’s comment as a challenge to the assertions that Jesus had been making over the course of the morning—Jesus’ assertions that God is good and that God cares for us. Jesus also correctly ascertained that such a challenge could only be addressed by a counterchallenge, one that would “one-up” the original challenge issued by the young man, Anaxand.
 
 I’m picturing a bunch of bikers sitting around, one of whom is bragging about his friend. Another biker gets tired of listening to him, and calls his bluff. Now the bragger has to defend himself, or be made a fool. Imagine if biker #1 manages not only to defend his friend’s honor, but at the same time to call his challenger a coward, and to do so in such a way that biker #2 actually agrees! This, I believe is what happened that afternoon in the shipyard as Jesus challenged Anaxand to accept his (Anaxand’s) superior vision of justice, and act upon it to save the poor foreman who was drowning in spiritual darkness. Jesus even implied that if Anaxand didn’t, he would be a spiritual coward!
 
-If you read the passage on [UB 130:2.4](/en/The_Urantia_Book/130#p2_4) you will notice that Jesus “puts down” Anaxand at least three times—twice at the beginning of his brief discourse, and then again at the end, where he challenges him with the following statement:
+If you read the passage on <a id="a78_27"></a>[UB 130:2.4](/en/The_Urantia_Book/130#p2_4) you will notice that Jesus “puts down” Anaxand at least three times—twice at the beginning of his brief discourse, and then again at the end, where he challenges him with the following statement:
 
-> “Surely you are not the coward who could stand by on the seashore and watch a fellow man who could not swim perish?” ([UB 130:2.4](/en/The_Urantia_Book/130#p2_4))
+> “Surely you are not the coward who could stand by on the seashore and watch a fellow man who could not swim perish?” (<a id="a80_120"></a>[UB 130:2.4](/en/The_Urantia_Book/130#p2_4))
 
 These are mighty strong words to use when dealing with an aggressive young man, one who hangs out in shipyards. But under the circumstances, they were exactly what needed to be said.
 
@@ -90,7 +90,7 @@ In short, I believe that one of the hidden messages in _The Urantia Book_ is the
 
 And that, I submit, could be portrayed as the message that makes _The Urantia Book_ unique among religions. For while all other religions rely on some type of code of ethics and morals (some are good, some are not so good, some are exceptionally good), _The Urantia Book_ challenges us to devise a new and original path, one that will transcend the ethics and morals of this day, and will stand as a living testament to the glory of God the Almighty.
 
-> “Only a brave person is able honestly to accept, and fearlessly to face, what a sincere and logical mind discovers.”—Rodan of Alexandria ([UB 160:1.7](/en/The_Urantia_Book/160#p1_7))
+> “Only a brave person is able honestly to accept, and fearlessly to face, what a sincere and logical mind discovers.”—Rodan of Alexandria (<a id="a92_140"></a>[UB 160:1.7](/en/The_Urantia_Book/160#p1_7))
 
 > Love does not dominate; it shares.
 

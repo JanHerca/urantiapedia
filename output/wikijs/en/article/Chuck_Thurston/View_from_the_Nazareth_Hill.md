@@ -40,7 +40,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-> “It was therefore the custom for Joseph to take Jesus out for walks on Sabbath afternoons, one of their favorite jaunts being to climb the high hill near their home, from which they could obtain a panoramic View of all Galilee.” [UB 123:5.12](/en/The_Urantia_Book/123#p5_12)
+> “It was therefore the custom for Joseph to take Jesus out for walks on Sabbath afternoons, one of their favorite jaunts being to climb the high hill near their home, from which they could obtain a panoramic View of all Galilee.” <a id="a42_231"></a>[UB 123:5.12](/en/The_Urantia_Book/123#p5_12)
 
 <figure class="table chapter-navigator">
   <table>

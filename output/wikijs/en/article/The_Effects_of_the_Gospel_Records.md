@@ -59,7 +59,7 @@ Chronological data is concealed in the phrase “in those days” which refers b
 
 A papyrus in the British museum states the Roman census commenced in 8 B.C. Another papyrus from Egypt says it was customary for people to return to their city of birth to complete the family registration.
 
-Note that The Urantia Book states Jesus was born in Bethlehem on August 21, 7 B.C. ([UB 122:7.6](/en/The_Urantia_Book/122#p7_6)) and that Joseph and Mary, having received warning of Herod’s intention in mid-October of 6 B.C., to kill all infants in Bethlehem under two years of age, left for Alexandria in Egypt. ([UB 122:10.3](/en/The_Urantia_Book/122#p10_3))
+Note that The Urantia Book states Jesus was born in Bethlehem on August 21, 7 B.C. (<a id="a61_84"></a>[UB 122:7.6](/en/The_Urantia_Book/122#p7_6)) and that Joseph and Mary, having received warning of Herod’s intention in mid-October of 6 B.C., to kill all infants in Bethlehem under two years of age, left for Alexandria in Egypt. (<a id="a61_314"></a>[UB 122:10.3](/en/The_Urantia_Book/122#p10_3))
 
 All of which demonstrates a remarkable congruence of information stemming from Luke’s and Matthew’s Gospels, a papyrus in the British museum and another from Egypt, archaeological finds from Egypt and Antioch, several historians,and finally The Urantia Book.
 

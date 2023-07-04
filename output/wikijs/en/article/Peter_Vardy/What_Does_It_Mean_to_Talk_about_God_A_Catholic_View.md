@@ -38,9 +38,9 @@ If a human being is said to be good, this means that the person has some charact
 
 In Plato’s Euthyphro, Socrates is portrayed in dialogue with a young man, Euthyphro, and the issue is whether the gods will what is good independently of their willing it, or whether what they will is good just because they will it.
 
-> All finite knowledge and creature understanding are *relative.* Information and intelligence, gleaned from even high sources, is only relatively complete, locally accurate, and personally true. ([UB 2:7.1](/en/The_Urantia_Book/2#p7_1))
+> All finite knowledge and creature understanding are *relative.* Information and intelligence, gleaned from even high sources, is only relatively complete, locally accurate, and personally true. (<a id="a40_197"></a>[UB 2:7.1](/en/The_Urantia_Book/2#p7_1))
 
-> In its true essence, religion is a faith-trust in the goodness of God. ([UB 2:6.1](/en/The_Urantia_Book/2#p6_1))
+> In its true essence, religion is a faith-trust in the goodness of God. (<a id="a42_74"></a>[UB 2:6.1](/en/The_Urantia_Book/2#p6_1))
 
 ## The Euthyphro dilemma
 
@@ -104,9 +104,9 @@ All are different things. A thing is good to the extent that it is fully whateve
 
 In the final analysis, analogy enables language drawn from our spatio-temporal universe to be applied to a timeless and spaceless God and for this language to be held to be true—but the content of this language is extremely limited.
 
-> Man’s mortal sojourn on earth acquired new meanings consequent upon the recognition of a noble destiny. ([UB 170:2.7](/en/The_Urantia_Book/170#p2_7))
+> Man’s mortal sojourn on earth acquired new meanings consequent upon the recognition of a noble destiny. (<a id="a106_107"></a>[UB 170:2.7](/en/The_Urantia_Book/170#p2_7))
 
-> . . . the kingdom of heaven was their personal experience of realizing the higher qualities of spiritual living. ([UB 170:2.16](/en/The_Urantia_Book/170#p2_16))
+> . . . the kingdom of heaven was their personal experience of realizing the higher qualities of spiritual living. (<a id="a108_116"></a>[UB 170:2.16](/en/The_Urantia_Book/170#p2_16))
 
 ## Metaphor
 
@@ -140,13 +140,13 @@ It can also lead to an anthropomorphic view of God as, if God is in time, God ca
 
 [This article appeared in the Catechist Newsletter published by Brisbane Catholic Education.]
 
-[Comments: Urantia Paper #2 “The Nature of God” informs us that, “the most enlightening and spiritually edifying of all revelations of the divine nature is to be found in the comprehension of the religious life of Jesus of Nazareth.” ([UB 2:0.2](/en/The_Urantia_Book/2#p0_2)) The book also says, “Although Jesus revealed the true nature of the heavenly Father in his earth life, he taught little about him. In fact, he taught only two things: that God in himself is spirit, and that, in all matters of relationship with his creatures, he is a Father.”
+<a id="a142_0"></a>[Comments: Urantia Paper #2 “The Nature of God” informs us that, “the most enlightening and spiritually edifying of all revelations of the divine nature is to be found in the comprehension of the religious life of Jesus of Nazareth.” ([UB 2:0.2](/en/The_Urantia_Book/2#p0_2)) The book also says, “Although Jesus revealed the true nature of the heavenly Father in his earth life, he taught little about him. In fact, he taught only two things: that God in himself is spirit, and that, in all matters of relationship with his creatures, he is a Father.”
 
 The gospel of John ([14:9](/en/Bible/John/14#v9)) reports Jesus as saying words such as, “He who has seen me has seen the Father.” and in [14:11](/en/Bible/John/14#v11), “I am in the Father and the Father is in me.” Christianity generally has a firm belief in the divinity of Jesus, so combined with the evidence from John’s gospel, it is difficult to conceive how the life of Jesus can be interpreted in any other way than as a revelation of the nature of God—_which means that there are things we can know about God_.
 
 Thus it appears that the 13th century re-discovery of Aristotelian logic in the Western world, and its subsequent application to Christian theology, may have had enormous deleterious effects on the progressive spiritualization of Christians]
 
-> De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió. ([UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
+> De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió. (<a id="a148_137"></a>[UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
 
 ## External links
 

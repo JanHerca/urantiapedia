@@ -79,7 +79,7 @@ Well, because if you are reading _The Urantia Book_ you know what it means to be
 
 Further, you’ve probably experienced the ardent search for meaning and know how good it feels to find spiritual teachings that actually make sense. You probably remember how it feels to wonder, “Is God really that way?” “Who am I and how do I fit in?” “What is the value and purpose of my life?” “Why does God let evil exist?” “Why does God let good people suffer?” You know how confusing it can be when, in the process of sincerely questioning, one is confronted with the rigidity of dogmatic fundamentalism on one side and the emptiness of faithless secular science on the other.
 
-Jesus described the pain of the search well when he poignantly said, “_The world is filled with hungry souls who famish in the very presence of the bread of life; men die searching for the very God who lives within them. Men seek for the treasures of the kingdom with yearning hearts and weary feet when they are all within the immediate grasp of living faith._” [[UB 159:3.8](/en/The_Urantia_Book/159#p3_8)]
+Jesus described the pain of the search well when he poignantly said, “_The world is filled with hungry souls who famish in the very presence of the bread of life; men die searching for the very God who lives within them. Men seek for the treasures of the kingdom with yearning hearts and weary feet when they are all within the immediate grasp of living faith._” <a id="a81_363"></a>[[UB 159:3.8](/en/The_Urantia_Book/159#p3_8)]
 
 Those of us who are blessed to have this amazing revelation in our lives know how it feels to have satisfying and logical answers to life’s most perplexing questions. We who read _The Urantia Book_ don’t have to fear death, or see the world as a hopeless mess, or think of God as an offended monarch, a stern and all-powerful ruler whose chief delight is to detect his subjects in wrongdoing and to see that they are adequately punished. We’ve been given a precious gift by being fully liberated from these stultifying beliefs.
 
@@ -141,7 +141,7 @@ Councilors Paul M. Anderson of Boston and Guillermo Deoto of Florida, who were e
 **Avi Dogim** has been a reader since the 1970s and has served the Fellowship in many capacities since. He is a founding member of the New York Society, a former chairman of the Fellowship’s Membership and Publications Committees, a former Fellowship President, and a current member of the Judicial Committee. He feels that while the Fellowship has already done a great deal to disseminate _The Urantia Book_ teachings, it has the potential to achieve much more through increasingly more effective team work.
 
 
-> “And lead us moment by moment in the pathway of loving service.” [[UB 144:5.62](/en/The_Urantia_Book/144#p5_62)]
+> “And lead us moment by moment in the pathway of loving service.” <a id="a143_67"></a>[[UB 144:5.62](/en/The_Urantia_Book/144#p5_62)]
 
 
 ## Societies at Work 

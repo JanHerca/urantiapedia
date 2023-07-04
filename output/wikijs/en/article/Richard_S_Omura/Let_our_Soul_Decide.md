@@ -54,15 +54,15 @@ Those are all worthwhile, true and applicable phi­losophies but they are not or
 
 A very pragmatic, new and original revelation of the book is the overall concept of the origin, growth and destiny of the soul. Many *Urantia Book* readers with whom I have talked had a misconception of what the soul is. I've talked to people who thought the soul was a blank slate with no volition, just an embryo waiting to be born in the mansion worlds. It is like an embryo, according to *The Urantia Book* but it does have volition and it can make decisions, albeit with the assent of the mind.
 
-> *“...God the Supreme is himself a volitional, creative participant in his own deity actualization. The human morontial soul is likewise* a **volitional, co-creative part­ner** *in its own immortalization.”* ([UB 117:3.7](/en/The_Urantia_Book/117#p3_7))
+> *“...God the Supreme is himself a volitional, creative participant in his own deity actualization. The human morontial soul is likewise* a **volitional, co-creative part­ner** *in its own immortalization.”* (<a id="a56_210"></a>[UB 117:3.7](/en/The_Urantia_Book/117#p3_7))
 
 The soul is your co-creative partner! Also,
 
-> “During *the life in the flesh the evolving soul is en­abled to reinforce the supermaterial decisions of the mortal mind. The soul, being supermaterial, does not of itself func­tion on the material level of human experience.” ([UB 111:3.2](/en/The_Urantia_Book/111#p3_2))
+> “During *the life in the flesh the evolving soul is en­abled to reinforce the supermaterial decisions of the mortal mind. The soul, being supermaterial, does not of itself func­tion on the material level of human experience.” (<a id="a60_229"></a>[UB 111:3.2](/en/The_Urantia_Book/111#p3_2))
 
 In other words, on the material level of human experience the soul reinforces the mind when the mind makes supermaterial decisions. By “supermaterial” de­cisions, I think they mean those decisions that impact our ascension career; those decisions that create value in the Supreme. And soul cannot function all by itself on the material level. So what does it need in order to function here? The mind!
 
-> “Neither can this subspiritual soul, without the col­laboration of some spirit of Deity, such as the Adjuster, func­tion above the morontia level. Neither does the soul make final decisions until death or translation divorces it from material association with the mortal mind except when and as this material mind delegates such authority freely and willingly to such a moronda soul of associated function.” ([UB 111:3.2](/en/The_Urantia_Book/111#p3_2))
+> “Neither can this subspiritual soul, without the col­laboration of some spirit of Deity, such as the Adjuster, func­tion above the morontia level. Neither does the soul make final decisions until death or translation divorces it from material association with the mortal mind except when and as this material mind delegates such authority freely and willingly to such a moronda soul of associated function.” (<a id="a64_411"></a>[UB 111:3.2](/en/The_Urantia_Book/111#p3_2))
 
 Even before death or translation, the soul can make final decisions if and when the mind delegates such authority freely to it. I've pondered what they mean by “final” decisions. I believe they mean final moral decisions that we can't “take back”, that is, the moral decisions that are committed to action.
 

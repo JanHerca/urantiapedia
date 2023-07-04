@@ -65,7 +65,7 @@ My journey with _The Urantia Book_ started with curiosity, moved through a leap 
 
 > Jesus laid great emphasis upon what he called the two truths of first import in the teachings of the kingdom, and they are:
 > 
->  The attainment of salvation by faith and faith alone, associated with the revolutionary teaching of the attainment of human liberty through the sincere recognition of truth. ([UB 141:7.6](/en/The_Urantia_Book/141#p7_6))
+>  The attainment of salvation by faith and faith alone, associated with the revolutionary teaching of the attainment of human liberty through the sincere recognition of truth. (<a id="a67_178"></a>[UB 141:7.6](/en/The_Urantia_Book/141#p7_6))
 
 ## External links
 

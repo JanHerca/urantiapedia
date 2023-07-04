@@ -45,7 +45,7 @@ The three plenary speakers will be Michelle Klimesh, Andre Radatus, and Tamara W
 
 Lara Amyx, a member of the Education Committee and the conference program coordinator, says that some of the workshop leaders indicated that they will require advance preparation and pre-registration for their sessions.
 
-Beyond study, there will be ample opportunity for experiences designed to “generate a feeling of fellowship with the divine.” [[UB 103:4.1](/en/The_Urantia_Book/103#p4_1)] According to Bobbie Dreier, who is in charge of the conference worship activities, “The campus has spacious and peaceful grounds for reflection and lovely chapels for meditation, prayer, and worship.”
+Beyond study, there will be ample opportunity for experiences designed to “generate a feeling of fellowship with the divine.” <a id="a47_126"></a>[[UB 103:4.1](/en/The_Urantia_Book/103#p4_1)] According to Bobbie Dreier, who is in charge of the conference worship activities, “The campus has spacious and peaceful grounds for reflection and lovely chapels for meditation, prayer, and worship.”
 
 The plenary sessions will open in the spirit of communion, with activities designed to lead us Godward, and the conference will culminate with a morning of inspirational music, poetry reading, meditation, and a remembrance of our Creator brother Michael.
 
@@ -59,7 +59,7 @@ The Education Committee gathered for a meeting at Techny Towers a few months ago
 
 By _Michelle Klimesh_
 
-> _Mechanical inventions and the dissemination of knowledge are modifying civilization; certain economic adjustments and social changes are imperative if cultural disaster is to be avoided. This new and oncoming social order will not settle down complacently for a millennium. The human race must become reconciled to a procession of changes, adjustments, and readjustments. Mankind is on the march toward a new and unrevealed planetary destiny._ [[UB 99:1.1](/en/The_Urantia_Book/99#p1_1)]
+> _Mechanical inventions and the dissemination of knowledge are modifying civilization; certain economic adjustments and social changes are imperative if cultural disaster is to be avoided. This new and oncoming social order will not settle down complacently for a millennium. The human race must become reconciled to a procession of changes, adjustments, and readjustments. Mankind is on the march toward a new and unrevealed planetary destiny._ <a id="a61_447"></a>[[UB 99:1.1](/en/The_Urantia_Book/99#p1_1)]
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2009_Winter/Michelle_Klimesh.jpg">
@@ -188,7 +188,7 @@ The most powerful thing I heard at the Parliament was “Harness the Spiritual R
 <img src="/image/article/The_Mighty_Messenger/2010_Spring/005729.jpg">
 </figure>
 
-> Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. If Christianity persists in neglecting spiritual mission while it continues to busy itself with social and material problems, the spiritual renaissance must await the coming of these new teachers of Jesus’ religion who will be exclusively devoted to the spiritual regeneration of men. And then will these spirit-born souls quickly supply the leadership and inspiration requisite for the social, moral, economic, and political reorganization of the world. [[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)]
+> Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. If Christianity persists in neglecting spiritual mission while it continues to busy itself with social and material problems, the spiritual renaissance must await the coming of these new teachers of Jesus’ religion who will be exclusively devoted to the spiritual regeneration of men. And then will these spirit-born souls quickly supply the leadership and inspiration requisite for the social, moral, economic, and political reorganization of the world. <a id="a190_585"></a>[[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)]
 
 ## A Focus on Youth: It’s about time!
 

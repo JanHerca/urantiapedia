@@ -66,7 +66,7 @@ We must always look upon the object of our religious loyalty as being worthy of 
 
 The religion of Jesus transcends all our former concepts of the idea of worship in that he not only portrays his Father as the ideal of infinite reality but positively declares that this divine source of values and the eternal center of the universe is truly and personally attainable by every mortal creature who chooses to enter the kingdom of heaven on earth, thereby acknowledging the acceptance of sonship with God and brotherhood with man. Rodan concludes that this is the highest concept of religion the world has ever known.
 
-> Never can there be either scientific or logical proof of divinity. Reason alone can never validate the values and goodnesses of religious experience. But it will always remain true: Whosoever wils to do the will of God shall comprehend the validity of spiritual values. This is the nearest approach that can be made on the mortal level to offering proofs of the reality of religious experience. ([UB 101:10.6](/en/The_Urantia_Book/101#p10_6))
+> Never can there be either scientific or logical proof of divinity. Reason alone can never validate the values and goodnesses of religious experience. But it will always remain true: Whosoever wils to do the will of God shall comprehend the validity of spiritual values. This is the nearest approach that can be made on the mortal level to offering proofs of the reality of religious experience. (<a id="a68_398"></a>[UB 101:10.6](/en/The_Urantia_Book/101#p10_6))
 
 ## External links
 

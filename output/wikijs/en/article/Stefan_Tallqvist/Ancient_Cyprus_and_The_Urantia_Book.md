@@ -36,11 +36,11 @@ dateCreated: 2022-9-9T8:13:38Z
 
 Stefan writes: Dear friends,
 
-On my second visit to Cyprus last month, I wanted to write about an archaeological correlation that might be worthy of notice in which both _The Urantia Book_ description and the archaeological evidence agree quite well. There is a clear correlation in the text of _The Urantia Book_, [UB 80:7.9](/en/The_Urantia_Book/80#p7_9), and the Cyprus Museum information. The book states:
+On my second visit to Cyprus last month, I wanted to write about an archaeological correlation that might be worthy of notice in which both _The Urantia Book_ description and the archaeological evidence agree quite well. There is a clear correlation in the text of _The Urantia Book_, <a id="a38_285"></a>[UB 80:7.9](/en/The_Urantia_Book/80#p7_9), and the Cyprus Museum information. The book states:
 
 > _From all over the fertile crescent the more adventurous peoples poured westward to the islands. These migrants cultivated both grain and vegetables, and they brought domesticated animals with them._
 > 
-> _About 5000 B.C. a mighty host of progressive Mesopotamians moved out of the Euphrates valley and settled upon the island of Cyprus; this civilization was wiped out about two thousand years subsequently by the barbarian hordes from the north._ ([UB 80:7.9-10](/en/The_Urantia_Book/80#p7_9))
+> _About 5000 B.C. a mighty host of progressive Mesopotamians moved out of the Euphrates valley and settled upon the island of Cyprus; this civilization was wiped out about two thousand years subsequently by the barbarian hordes from the north._ (<a id="a42_247"></a>[UB 80:7.9-10](/en/The_Urantia_Book/80#p7_9))
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Stefan_Tallqvist/2848-0-medium.jpg">
@@ -71,9 +71,9 @@ In April this year (1996), I visited the Khirokitia archaeological site in Cypru
 
 Stefan concludes that he finds all of the archaeological information is in good agreement with the Urantia Papers.
 
-> The religion of Jesus is salvation from self.([UB 5:4.5](/en/The_Urantia_Book/5#p4_5))
+> The religion of Jesus is salvation from self.(<a id="a73_48"></a>[UB 5:4.5](/en/The_Urantia_Book/5#p4_5))
 
-> The truly religious individual seeks to identify the self with the universe and then to dedicate the activities of this unified self to the service of the universe family of fellow beings, human and superhuman. ([UB 5:4.3](/en/The_Urantia_Book/5#p4_3))
+> The truly religious individual seeks to identify the self with the universe and then to dedicate the activities of this unified self to the service of the universe family of fellow beings, human and superhuman. (<a id="a75_214"></a>[UB 5:4.3](/en/The_Urantia_Book/5#p4_3))
 
 ## External links
 

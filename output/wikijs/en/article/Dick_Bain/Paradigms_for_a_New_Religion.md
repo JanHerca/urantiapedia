@@ -59,7 +59,7 @@ The emphasis of much of UU teaching and preaching is on improving life on this w
 
 Environmentalism is also an area of special interest to many UU’s. Many are avid environmentalists, and strongly support organizations devoted to the preservation and protection of our environment. This concern for the earth is mirrored in one of the UU Statement of Principles[^2] which says that UU’s “Respect the interdependent web of existence. . . ”
 
-I believe that the UU collective of congregations fulfills _The Urantia Book_ projection that “_Someday religionists will get together and actually effect co-operation on the basis of unity of ideals and purposes rather than attempting to do so on the basis of psychological opinions and theological beliefs. Goals rather than creeds should unify religionists._” ([UB 99:5.7](/en/The_Urantia_Book/99#p5_7))
+I believe that the UU collective of congregations fulfills _The Urantia Book_ projection that “_Someday religionists will get together and actually effect co-operation on the basis of unity of ideals and purposes rather than attempting to do so on the basis of psychological opinions and theological beliefs. Goals rather than creeds should unify religionists._” (<a id="a61_364"></a>[UB 99:5.7](/en/The_Urantia_Book/99#p5_7))
 
 Because of their lack of dogma and their openness, the UU congregations attract a wide variety of people. I was not aware of just how diverse UU’s are until I conducted a survey of our congregation during one of our summer services. This informal survey revealed the following breakdown: Atheist, 15%; Agnostic 21%; Theist 10%; Christian 15%; Deist 7%; Other 19%; Pagan 13%.
 
@@ -67,7 +67,7 @@ It is only because tolerance is an important principle of UU-ism that such a div
 
 Even though people in the Urantia community are connected by the teachings of _The Urantia Book_, this community nevertheless constitutes a very diverse group of people. Any Urantian religious organization will face some of the same issues UU congregations face. Not everyone accepts all the teachings of _The Urantia Book_, so what will be the role of the book in any such religious organization? Will we welcome skeptics into our fellowship?
 
-I think the authors of the book were trying to give us guidance about any religious organization when they wrote, “_When a member of a social religious group has complied with the requirements of such a group, he should be encouraged to enjoy religious liberty in the full expression of his own personal interpretation of the truths of religious belief and the facts of religious experience. The security of a religious group depends on spiritual unity, not on theological uniformity. A religious group should be able to enjoy the liberty of freethinking without having to become ‘freethinkers.’ There is great hope for any church that worships the living God, validates the brotherhood of man, and dares to remove all creedal pressure from its members._” ([UB 103:5.12](/en/The_Urantia_Book/103#p5_12))
+I think the authors of the book were trying to give us guidance about any religious organization when they wrote, “_When a member of a social religious group has complied with the requirements of such a group, he should be encouraged to enjoy religious liberty in the full expression of his own personal interpretation of the truths of religious belief and the facts of religious experience. The security of a religious group depends on spiritual unity, not on theological uniformity. A religious group should be able to enjoy the liberty of freethinking without having to become ‘freethinkers.’ There is great hope for any church that worships the living God, validates the brotherhood of man, and dares to remove all creedal pressure from its members._” (<a id="a69_757"></a>[UB 103:5.12](/en/The_Urantia_Book/103#p5_12))
 
 While many UU’s do not “worship the living God,” they certainly do validate the “brotherhood of man” and do not place any “creedal pressure” on members.
 
@@ -89,7 +89,7 @@ UU’s have developed a few unique symbols. The most distinctive symbol of UU-is
 
 The UU churches in Czechoslovakia have the sunflower as one of their symbols. The Transylvania Unitarian seal is the dove encircled by a serpent. This is derived from Jesus instruction to his apostles quoted in Matthew to, “_be as wise as serpents and as harmless as doves._” The authors of The Urantia Book instruct us that:
 
-> “_Regardless of the drawbacks and handicaps, every new revelation of truth has given rise to a new cult, and even the restatement of the religion of Jesus must develop a new and appropriate symbolism. Modern man must find some adequate symbolism for his new and expanding ideas, ideals, and loyalties. This enhanced symbol must arise out of religious living, spiritual experience._” ([UB 87:7.6](/en/The_Urantia_Book/87#p7_6))
+> “_Regardless of the drawbacks and handicaps, every new revelation of truth has given rise to a new cult, and even the restatement of the religion of Jesus must develop a new and appropriate symbolism. Modern man must find some adequate symbolism for his new and expanding ideas, ideals, and loyalties. This enhanced symbol must arise out of religious living, spiritual experience._” (<a id="a91_386"></a>[UB 87:7.6](/en/The_Urantia_Book/87#p7_6))
 
 ## Identity
 
@@ -122,7 +122,7 @@ I believe we have much to learn from the worlds’ religions and religious insti
 2. **A Statement of Principles:** We, the member congregations of the Unitarian Universalist Association, covenant to affirm and promote:
 
 > Everything must await the coming of its time....
-> Jesus to Ganid ([UB 130:5.3](/en/The_Urantia_Book/130#p5_3))
+> Jesus to Ganid (<a id="a124_18"></a>[UB 130:5.3](/en/The_Urantia_Book/130#p5_3))
 
 The inherent worth and dignity of every person; Justice, equity, and compassion in human relations; Acceptance of one another and encouragement to spiritual growth in our congregations; A free and responsible search for truth and meaning; The right of conscience and the use of the democratic process within our congregations and in society at large; The goal of world community with peace, liberty, and justice for all; Respect for the interdependent web of all existence of which we are a part.
 

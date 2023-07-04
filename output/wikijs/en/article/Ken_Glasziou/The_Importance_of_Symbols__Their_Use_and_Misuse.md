@@ -48,7 +48,7 @@ We humans have two extreme “ways” to proclaim or demonstrate our faith and a
 > The purpose of fighting for a cause is to avoid simply serving a cause.
 > _(another skeptic)_
 
-> When man consecrates his will to the doing of the Father’s will, when man gives God all that he has, then does God make that man more than he is. ([UB 117:4.14](/en/The_Urantia_Book/117#p4_14))
+> When man consecrates his will to the doing of the Father’s will, when man gives God all that he has, then does God make that man more than he is. (<a id="a50_149"></a>[UB 117:4.14](/en/The_Urantia_Book/117#p4_14))
 
 An automatic result is that we find ourselves against all those whose opinion, relative to “the cause,” differs from our own.
 

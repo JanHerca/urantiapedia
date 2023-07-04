@@ -54,11 +54,11 @@ That devotion of love was contagious throughout a vast universe; the disciples c
 
 The cross makes a supreme appeal to the best in man because it discloses one who was willing to lay down his life in the service of his fellow men.
 
-> Greater love no man can have than this: that he would be willing to lay down his life for his friends—and Jesus had such a love that he was willing to lay down his life for his enemies, a love greater than any which had hitherto been known on earth. ([UB 188:5.7](/en/The_Urantia_Book/188#p5_7))
+> Greater love no man can have than this: that he would be willing to lay down his life for his friends—and Jesus had such a love that he was willing to lay down his life for his enemies, a love greater than any which had hitherto been known on earth. (<a id="a56_253"></a>[UB 188:5.7](/en/The_Urantia_Book/188#p5_7))
 
 > You preach a truer sermon with your life than with your lips.
 
-> When thinking men and women look upon Jesus as he offers up his life on the cross, they will hardly again permit themselves to complain at even the severest hardships of life, much less at petty harassments and their many purely fictitious grievances. ([UB 188:5.10](/en/The_Urantia_Book/188#p5_10))
+> When thinking men and women look upon Jesus as he offers up his life on the cross, they will hardly again permit themselves to complain at even the severest hardships of life, much less at petty harassments and their many purely fictitious grievances. (<a id="a60_255"></a>[UB 188:5.10](/en/The_Urantia_Book/188#p5_10))
 
 ## External links
 

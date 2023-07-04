@@ -117,7 +117,7 @@ Mark’s gospel at least had something right when he had the angels tell the wom
 
 But this also indicates that a literal interpretation of sections of the Urantia Papers is also unsustainable–which is in accord with what the revelators tell us:
 
-> “_No revelation short of the attainment of the Universal Father can ever be complete. All other celestial ministrations are no more than partial, transient, and practically adapted to local conditions in time and space._” ([UB 92:4.9](/en/The_Urantia_Book/92#p4_9))
+> “_No revelation short of the attainment of the Universal Father can ever be complete. All other celestial ministrations are no more than partial, transient, and practically adapted to local conditions in time and space._” (<a id="a119_225"></a>[UB 92:4.9](/en/The_Urantia_Book/92#p4_9))
 
 A key statement from the **AA** article is, “_Given what we know, Christians in the 21st century must make sense of God and Jesus as best we can.”_
 

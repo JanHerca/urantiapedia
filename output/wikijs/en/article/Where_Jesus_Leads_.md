@@ -35,7 +35,7 @@ dateCreated: 2022-9-9T8:13:39Z
 > 
 > “He taught men to place a high value upon themselves in time and in eternity. Because of this high estimate which Jesus placed upon men, he was willing to spend himself in the unremitting service of humankind. And it was this infinite worth of the finite that made the golden rule a vital factor in his religion. What mortal can fail to be uplifted by the extraordinary faith Jesus has in him?”
 > 
-> “Jesus offered no rules for social advancement; his was a religious mission, and religion is an exclusively individual experience. The ultimate goal of society’s most advanced achievement can never hope to transcend Jesus’ brotherhood of men based on the recognition of the fatherhood of God. The ideal of all social attainment can be realized only in the coming of this divine kingdom.” ([UB 196:2.9-11](/en/The_Urantia_Book/196#p2_9))
+> “Jesus offered no rules for social advancement; his was a religious mission, and religion is an exclusively individual experience. The ultimate goal of society’s most advanced achievement can never hope to transcend Jesus’ brotherhood of men based on the recognition of the fatherhood of God. The ideal of all social attainment can be realized only in the coming of this divine kingdom.” (<a id="a37_391"></a>[UB 196:2.9-11](/en/The_Urantia_Book/196#p2_9))
 
 ## External links
 

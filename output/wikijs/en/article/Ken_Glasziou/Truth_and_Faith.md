@@ -43,7 +43,7 @@ dateCreated: 2022-9-9T8:13:38Z
 > 
 > **Faith acts to release the superhuman activities of the divine spark, the immortal germ, that lives within the mind of man, and which is the potential of eternal survival.** Plants and animals survive in time by the technique of passing on from one generation to another identical particles of themselves. The human soul (personality) of man survives mortal death by identity association with this indwelling spark of divinity, which is immortal, and which functions to perpetuate the human personality upon a continuing and higher level of progressive universe existence. The concealed seed of the human soul is an immortal spirit. The second generation of the soul is the first of a succession of personality manifestations of spiritual and progressing existences, terminating only when this divine entity attains the source of its existence, the personal source of all existence, God, the Universal Father.
 > 
-> Human life continues—survives—because it has a universe function, the task of finding God. The faith-activated soul of man cannot stop short of the attainment of this goal of destiny; and when it does once achieve this divine goal, it can never end because it has become like God—eternal. ([UB 132:3.1-7](/en/The_Urantia_Book/132#p3_1))
+> Human life continues—survives—because it has a universe function, the task of finding God. The faith-activated soul of man cannot stop short of the attainment of this goal of destiny; and when it does once achieve this divine goal, it can never end because it has become like God—eternal. (<a id="a45_292"></a>[UB 132:3.1-7](/en/The_Urantia_Book/132#p3_1))
 
 ## External links
 

@@ -146,18 +146,18 @@ We were thus able to experience _The Urantia Book_ in Colombia as it is being ap
 Do you like Urantia Book Trivia?
 
 The following questions are designed to entertain and challenge you regarding your knowledge of _The Urantia Book_. The answers are given by paper number, section and paragraph. Enjoy! And no peeking in advance!
-1. When did the circuit of the archangels operate for the first time from Urantia? ([UB 189:3.2](/en/The_Urantia_Book/189#p3_2))
-2. Complete the blanks “The peace of Urantia will be promoted far more by <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>than by all the sentimental sophistry of visionary peace planning.” ([UB 70:3.4](/en/The_Urantia_Book/70#p3_4))
-3. How many morontia appearances did Jesus make? ([UB 193:3.1](/en/The_Urantia_Book/193#p3_1))
-4. Name the seven adjutant mind spirits. ([UB 36:5.5-12](/en/The_Urantia_Book/36#p5_5))
-5. How many angelic hosts make up an angelic army? ([UB 38:6.2](/en/The_Urantia_Book/38#p6_2))
-6. Who is Gavalia? ([UB 37:2.6](/en/The_Urantia_Book/37#p2_6))
-7. How many changes in your morontia form will you undergo as you progress through the morontia life of Nebadon? ([UB 48:1.5](/en/The_Urantia_Book/48#p1_5))
-8. “<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> is the divine antidote for exaltation of ego.” ([UB 48:4.15](/en/The_Urantia_Book/48#p4_15))
-9. Whom did the apostles refer to as “Chief”? ([UB 139:1.2](/en/The_Urantia_Book/139#p1_2))
-10. Name as many as you can of the ten women selected and commissioned by Jesus as the first members of the women's evangelistic corps. ([UB 150:1.1](/en/The_Urantia_Book/150#p1_1))
-11. “Only a <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> can re-establish interplanetary lines of communication on such a spiritually isolated world.” ([UB 35:9.9](/en/The_Urantia_Book/35#p9_9))
-12. Define an “agondonter.” ([UB 50:7.2](/en/The_Urantia_Book/50#p7_2))
+1. When did the circuit of the archangels operate for the first time from Urantia? (<a id="a148_84"></a>[UB 189:3.2](/en/The_Urantia_Book/189#p3_2))
+2. Complete the blanks “The peace of Urantia will be promoted far more by <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>than by all the sentimental sophistry of visionary peace planning.” (<a id="a149_328"></a>[UB 70:3.4](/en/The_Urantia_Book/70#p3_4))
+3. How many morontia appearances did Jesus make? (<a id="a150_50"></a>[UB 193:3.1](/en/The_Urantia_Book/193#p3_1))
+4. Name the seven adjutant mind spirits. (<a id="a151_42"></a>[UB 36:5.5-12](/en/The_Urantia_Book/36#p5_5))
+5. How many angelic hosts make up an angelic army? (<a id="a152_52"></a>[UB 38:6.2](/en/The_Urantia_Book/38#p6_2))
+6. Who is Gavalia? (<a id="a153_20"></a>[UB 37:2.6](/en/The_Urantia_Book/37#p2_6))
+7. How many changes in your morontia form will you undergo as you progress through the morontia life of Nebadon? (<a id="a154_114"></a>[UB 48:1.5](/en/The_Urantia_Book/48#p1_5))
+8. “<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> is the divine antidote for exaltation of ego.” (<a id="a155_114"></a>[UB 48:4.15](/en/The_Urantia_Book/48#p4_15))
+9. Whom did the apostles refer to as “Chief”? (<a id="a156_47"></a>[UB 139:1.2](/en/The_Urantia_Book/139#p1_2))
+10. Name as many as you can of the ten women selected and commissioned by Jesus as the first members of the women's evangelistic corps. (<a id="a157_137"></a>[UB 150:1.1](/en/The_Urantia_Book/150#p1_1))
+11. “Only a <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> can re-establish interplanetary lines of communication on such a spiritually isolated world.” (<a id="a158_231"></a>[UB 35:9.9](/en/The_Urantia_Book/35#p9_9))
+12. Define an “agondonter.” (<a id="a159_29"></a>[UB 50:7.2](/en/The_Urantia_Book/50#p7_2))
 
 
 ## SSS Santa Cruz “Sweet and Special”
@@ -175,7 +175,7 @@ Evenings were filled with social activities sponsored by different local groups,
 
 - **Oct. 26-28, 2001- Lone Star Roundup Conference, Camp Buckner, TX**: “Bringing the Infinite Spirit Down to Earth” 
   An examination of the various functions of the Infinite Spirit, including angelic ministry, mind, universe power, and the feminine or “yin” aspect of the “Infinite Mother Spirit” and how we can feel this presence in our lives. Join us “in the Spirit.”, For further information, contact Adrienne Jarnagin at (512)756-1637 or e-mail her at-aj@tstar.net.
-- **Nov. 2-4, 2001- Golden Gate Circle Fall Retreat**: “The Universal Father” The Universal Father is an infinite spiritual reality; he is “the sovereign,eternal, immortal, invisible, and only true God.” _The Urantia Book_, [UB 1:3.1](/en/The_Urantia_Book/1#p3_1). 
+- **Nov. 2-4, 2001- Golden Gate Circle Fall Retreat**: “The Universal Father” The Universal Father is an infinite spiritual reality; he is “the sovereign,eternal, immortal, invisible, and only true God.” _The Urantia Book_, <a id="a177_224"></a>[UB 1:3.1](/en/The_Urantia_Book/1#p3_1). 
   _Place_: St. Dorothy's Rest, Camp Meeker, CA (Sonoma County) 
   _Cost_. $85 plus the cost of one meal per cooking crew 
   _Contact_: Dolores L. Nice, (650)369-6803 or dlnice@worldnet.att.net
@@ -201,7 +201,7 @@ Phone: 773-327-0424. Fax:773-327-6159
 email: fellowship@urantiabook.org
 website: http://www.ubfellowship.org
 
-> Greatness lies not so much in possessing strength as in making a wise and divine use of such strength. ([UB 48:7.27](/en/The_Urantia_Book/48#p7_27))
+> Greatness lies not so much in possessing strength as in making a wise and divine use of such strength. (<a id="a203_106"></a>[UB 48:7.27](/en/The_Urantia_Book/48#p7_27))
 
 
 ## External Links

@@ -34,7 +34,7 @@ There can now be little doubt that the revelators anticipated this. Throughout t
 
 That this is factually so is illustrated by:
 
-> “Only those human experiences which were of spiritual value are common possessions of the surviving mortal and the returning Adjuster and hence are immediately remembered subsequent to mortal survival.” ([UB 40:9.7](/en/The_Urantia_Book/40#p9_7)) Think about that!!
+> “Only those human experiences which were of spiritual value are common possessions of the surviving mortal and the returning Adjuster and hence are immediately remembered subsequent to mortal survival.” (<a id="a36_206"></a>[UB 40:9.7](/en/The_Urantia_Book/40#p9_7)) Think about that!!
 
 
 
@@ -42,13 +42,13 @@ That this is factually so is illustrated by:
 
 Despite a large number of references to “spirituality” and “spiritual value,” in the Urantia Papers, nowhere do these Papers provide an exact definition of such terms. Among the best we are given is:
 
-“*Everything we do that is good contributes to the enhancement of the afterlife*,” combined with statements such as “*only those human experiences of spiritual value,*” survive—“*your past life and its memories having neither spiritual meaning nor morontia value, will perish with the material brain*” ([UB 112:5.22](/en/The_Urantia_Book/112#p5_22)).
+“*Everything we do that is good contributes to the enhancement of the afterlife*,” combined with statements such as “*only those human experiences of spiritual value,*” survive—“*your past life and its memories having neither spiritual meaning nor morontia value, will perish with the material brain*” (<a id="a44_303"></a>[UB 112:5.22](/en/The_Urantia_Book/112#p5_22)).
 
 Thus, we can take spiritual value to mean “that which is good.” Other relevant statements are:
 
-> Spirituality is the indicator of one's nearness to God and the measure of one's usefulness to our fellow beings. Spirituality enhances the ability to discover beauty in things, recognize truth in meanings, and discover goodness in values. Spiritual development is determined by our capacity thereof and is directly proportional to the elimination of the selfish qualities of love. ([UB 100:2.4](/en/The_Urantia_Book/100#p2_4))
+> Spirituality is the indicator of one's nearness to God and the measure of one's usefulness to our fellow beings. Spirituality enhances the ability to discover beauty in things, recognize truth in meanings, and discover goodness in values. Spiritual development is determined by our capacity thereof and is directly proportional to the elimination of the selfish qualities of love. (<a id="a48_384"></a>[UB 100:2.4](/en/The_Urantia_Book/100#p2_4))
 
->Actual spiritual status is the measure of Deity attainment, attunement to the indwelling Spirit of God. The achievement of finality of spirituality is equivalent to the attainment of the maximum of reality, the maximum of Godlikeness. ([UB 100:2.5](/en/The_Urantia_Book/100#p2_5))
+>Actual spiritual status is the measure of Deity attainment, attunement to the indwelling Spirit of God. The achievement of finality of spirituality is equivalent to the attainment of the maximum of reality, the maximum of Godlikeness. (<a id="a50_237"></a>[UB 100:2.5](/en/The_Urantia_Book/100#p2_5))
 
 From which we conclude: Spirituality is what God is—and is measurable by our nearness to God, our God-likeness.
 
@@ -191,7 +191,7 @@ God, the Father, is the bestower and the conservator of every personality. Likew
 
 God is personally conscious of, and in personal touch with, all personalities of all levels of self-conscious existence—and this consciousness is independent of the mission of the God-Spirit-Within.
 
-> “The nature of God can best be understood by the revelation of the Father which Jesus of Nazareth unfolded in his manifold teachings and in his superb mortal life in the flesh. The divine nature can also be better understood if individuals regard themselves as children of God and look up to the Paradise Creator as their true spiritual Father.” ([UB 2:0.1](/en/The_Urantia_Book/2#p0_1))
+> “The nature of God can best be understood by the revelation of the Father which Jesus of Nazareth unfolded in his manifold teachings and in his superb mortal life in the flesh. The divine nature can also be better understood if individuals regard themselves as children of God and look up to the Paradise Creator as their true spiritual Father.” (<a id="a193_349"></a>[UB 2:0.1](/en/The_Urantia_Book/2#p0_1))
 
 
 

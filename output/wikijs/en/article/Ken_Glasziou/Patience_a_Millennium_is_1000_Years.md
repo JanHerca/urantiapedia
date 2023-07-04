@@ -34,13 +34,13 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> “_Mechanical inventions and the dissemination of knowledge are modifying civilization; certain economic adjustments and social changes are imperative if cultural disaster is to be avoided. ***This new and oncoming social order will not settle down complacently for a millennium.*** The human race must become reconciled to a procession of changes, adjustments, and readjustments. Mankind is on the march toward a new and unrevealed planetary destiny._” ([Paper 99, Section 1](/en/The_Urantia_Book/99#p1_1))
+> “_Mechanical inventions and the dissemination of knowledge are modifying civilization; certain economic adjustments and social changes are imperative if cultural disaster is to be avoided. ***This new and oncoming social order will not settle down complacently for a millennium.*** The human race must become reconciled to a procession of changes, adjustments, and readjustments. Mankind is on the march toward a new and unrevealed planetary destiny._” (<a id="a36_456"></a>[Paper 99, Section 1](/en/The_Urantia_Book/99#p1_1))
 
 Human evolution proceeds at a snail’s pace. In fact further genetic improvement of the human race has probably ceased, and is not likely to resume until acceptable selection criteria are agreed upon. Even then, it may take thousands of years before significant improvement is achieved. Hence, in referring to a millennium of change, the revelators must be speaking dominantly about changes to the mores of human society—which are dependent on changes to the individuals that constitute a society.
 
 Perhaps it is the Eastern rather than the Western world that is destined to bring us the necessary changes—for there is a very deeply embedded “thinking pattern” indigenous to the western world which is highly resistant to change. The revelators refer to such patterns as “universe” or “concept” frames.
 
-> _Partial, incomplete, and evolving intellects would be helpless in the master universe, would be unable to form the first rational thought pattern, were it not for the innate ability of all mind, high or low, to form a universe frame in which to think. If mind cannot fathom conclusions, if it cannot penetrate to true origins, then will such mind unfailingly postulate conclusions and invent origins that it may have a means of logical thought within the frame of these mind-created postulates. And while such universe frames for creature thought are indispensable to rational intellectual operations, they are, without exception, erroneous to a greater or lesser degree._ ([UB 115:1.1](/en/The_Urantia_Book/115#p1_1))
+> _Partial, incomplete, and evolving intellects would be helpless in the master universe, would be unable to form the first rational thought pattern, were it not for the innate ability of all mind, high or low, to form a universe frame in which to think. If mind cannot fathom conclusions, if it cannot penetrate to true origins, then will such mind unfailingly postulate conclusions and invent origins that it may have a means of logical thought within the frame of these mind-created postulates. And while such universe frames for creature thought are indispensable to rational intellectual operations, they are, without exception, erroneous to a greater or lesser degree._ (<a id="a42_677"></a>[UB 115:1.1](/en/The_Urantia_Book/115#p1_1))
 
 Perhaps mainly due to the influence of the ancient Greeks, Westerners mainly think in a “yes or no,” “on or off,” “this or that,” “either/or” mode of thinking that chooses between incompatible alternatives. But in the Eastern world, “both this and that” is the more usual way of considering reality.
 
@@ -74,13 +74,13 @@ To we Westerners, China and its people are a strange, wonderful, but almost tota
 
 There are some interesting pointers in _The Urantia Book_ in which the revelators draw attention to Eastern people. They do so for a purpose—leaving us to discover that purpose and to implement the necessary action. They do it that way because the Universal Father has decreed that our free will is sacrosanct.
 
-> “_Today, in India, the great need is for the portrayal of the Jesusonian gospel—the Fatherhood of God and the sonship and consequent brotherhood of all men, which is personally realized in loving ministry and social service. In India the philosophical framework is existent, the cult structure is present; all that is needed is the vitalizing spark of the dynamic love portrayed in the original gospel of the Son of Man, divested of the Occidental dogmas and doctrines which have tended to make Michael’s life bestowal a white man’s religion._” ([UB 94:4.10](/en/The_Urantia_Book/94#p4_10))
+> “_Today, in India, the great need is for the portrayal of the Jesusonian gospel—the Fatherhood of God and the sonship and consequent brotherhood of all men, which is personally realized in loving ministry and social service. In India the philosophical framework is existent, the cult structure is present; all that is needed is the vitalizing spark of the dynamic love portrayed in the original gospel of the Son of Man, divested of the Occidental dogmas and doctrines which have tended to make Michael’s life bestowal a white man’s religion._” (<a id="a76_548"></a>[UB 94:4.10](/en/The_Urantia_Book/94#p4_10))
 
-Are these objectionable dogmas completely absent from the Urantia Papers? If not, then should they be modified or removed before introducing a translation to these people? (And already I hear echos emanating from our either/or thinkers screaming that in no circumstances can the text be modified. To which, I reply, [“Read Section 7 from Paper 2.”](/en/The_Urantia_Book/2#p7))
+Are these objectionable dogmas completely absent from the Urantia Papers? If not, then should they be modified or removed before introducing a translation to these people? (And already I hear echos emanating from our either/or thinkers screaming that in no circumstances can the text be modified. To which, I reply, <a id="a78_316"></a>[“Read Section 7 from Paper 2.”](/en/The_Urantia_Book/2#p7))
 
 Referring to Buddhism, the revelators say:
 
-> “_At the time of this writing, much of Asia rests its hope in Buddhism. Will this noble faith, that has so valiantly carried on through the dark ages of the past, once again receive the truth of expanded cosmic realities even as the disciples of the great teacher in India once listened to his proclamation of new truth? Will this ancient faith respond once more to the invigorating stimulus of the presentation of new concepts of God and the Absolute for which it has so long searched?_” ([UB 94:12.6](/en/The_Urantia_Book/94#p12_6))
+> “_At the time of this writing, much of Asia rests its hope in Buddhism. Will this noble faith, that has so valiantly carried on through the dark ages of the past, once again receive the truth of expanded cosmic realities even as the disciples of the great teacher in India once listened to his proclamation of new truth? Will this ancient faith respond once more to the invigorating stimulus of the presentation of new concepts of God and the Absolute for which it has so long searched?_” (<a id="a82_492"></a>[UB 94:12.6](/en/The_Urantia_Book/94#p12_6))
 
 With some emphasis having at long last been placed on the translation of the Papers into other languages, there is now an accompanying need to consider how the content of the Papers might assist to speed up the spiritual progress of religionists of “all kinds.”
 
@@ -90,7 +90,7 @@ But possibly even those sects that are locked into an apparently incompatible be
 
 We have a whole millennium in which to work. A gradual approach appears to be the only one likely to succeed. But that is a task for specialists—and for the Spirit of Truth.
 
-> It is the spirit that quickens; the flesh and all that pertains thereto is of little profit. ([UB 153:5.4](/en/The_Urantia_Book/153#p5_4))
+> It is the spirit that quickens; the flesh and all that pertains thereto is of little profit. (<a id="a92_96"></a>[UB 153:5.4](/en/The_Urantia_Book/153#p5_4))
 
 ## External links
 

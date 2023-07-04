@@ -125,7 +125,7 @@ In whatever the other capacity he continues to serve the purposes of the Revelat
 
 — Paul Snider
 
-> To become acquainted with one’s brothers and sisters, to know their problems and to learn to love them, is the supreme experience of living. [[UB 130:2.6](/en/The_Urantia_Book/130#p2_6)]
+> To become acquainted with one’s brothers and sisters, to know their problems and to learn to love them, is the supreme experience of living. <a id="a127_143"></a>[[UB 130:2.6](/en/The_Urantia_Book/130#p2_6)]
 
 ## Study Group News
 
@@ -228,7 +228,7 @@ The selection of a Delegate and an Alternate is a very important duty and privil
 
 Society representatives should be chosen for qualities that match the tasks of the TDA. The Assembly can select the best members for the Council when the delegates, themselves, have attended Council meetings, know how it functions, and appreciate the kind of volunteers the Council needs to function effectively. Knowledge of The Fellowship Constitution and how the organization functions is also important. Of course, there is no substitute for knowing candidates personally and being aware of their contributions to the revelation. Finally, Society representatives who are level-headed and team players contribute greatly to the Assembly’s deliberative process. Each Delegate must have read _The Urantia Book_ in its entirety.
 
-Intelligent and trained representation. The survival of democracy is dependent on successful representative government; and that is conditioned upon the practice of electing to public offices only those individuals who are technically trained, intellectually competent, socially loyal, and morally fit. [[UB 71:2.14](/en/The_Urantia_Book/71#p2_14)]
+Intelligent and trained representation. The survival of democracy is dependent on successful representative government; and that is conditioned upon the practice of electing to public offices only those individuals who are technically trained, intellectually competent, socially loyal, and morally fit. <a id="a230_303"></a>[[UB 71:2.14](/en/The_Urantia_Book/71#p2_14)]
 
 ## This ‘n That
 
@@ -242,7 +242,7 @@ As announced at the IC05 conference, a free MP3 audio version of _The Urantia Bo
 
 You can download and play the MP3 audio files on your computer, or copy them to a portable MP3 player, such as an iPod. Most portable MP3 players will remember where you stopped listening, and start up from there next time. The free MP3 audio version of _The Urantia Book_ is available for download in four parts from the Internet Archive.
 
-> “Belief fixates, faith liberates.” [[UB 101:8.2](/en/The_Urantia_Book/101#p8_2)]
+> “Belief fixates, faith liberates.” <a id="a244_37"></a>[[UB 101:8.2](/en/The_Urantia_Book/101#p8_2)]
 
 ## Donation Made for Translations
 
@@ -275,7 +275,7 @@ Golden, CO 80401
 
 If you send documents to Larry, please contact him by email or phone to let him know they are coming. His phone number is 303-278-9590.
 
-> “Knowledge is possessed only by sharing;” [[UB 48:7.28](/en/The_Urantia_Book/48#p7_28)]
+> “Knowledge is possessed only by sharing;” <a id="a277_44"></a>[[UB 48:7.28](/en/The_Urantia_Book/48#p7_28)]
 
 ## Upcoming Events…
 

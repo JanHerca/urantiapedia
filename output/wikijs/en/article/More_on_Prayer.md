@@ -34,11 +34,11 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-- Prayer is not a technique of escape. Rather it is a stimulus to spiritual growth—even in the face of the apparently impossible. ([UB 91:8.13](/en/The_Urantia_Book/91#p8_13))
-- Words are not relevant in prayer. They are merely the intellectual channel in which the river of spiritual supplication may flow. ([UB 91:8.12](/en/The_Urantia_Book/91#p8_12))
-- Even when air currents are ascending, not even the eagle can fly except it - outstretches its wings. So in prayer, it is the spiritual attitude that carries our prayer to the Infinite. ([UB 91:8.9](/en/The_Urantia_Book/91#p8_9))
-- God answers prayer with an increased revelation of truth, an enhanced appreciation of beauty, and an augmented concept of goodness. ([UB 91:8.11](/en/The_Urantia_Book/91#p8_11))
-- Thus, true prayer is always a reaching out to God in faith and self-forgetfulness. ([UB 196:0.9](/en/The_Urantia_Book/196#p0_9))
+- Prayer is not a technique of escape. Rather it is a stimulus to spiritual growth—even in the face of the apparently impossible. (<a id="a36_131"></a>[UB 91:8.13](/en/The_Urantia_Book/91#p8_13))
+- Words are not relevant in prayer. They are merely the intellectual channel in which the river of spiritual supplication may flow. (<a id="a37_133"></a>[UB 91:8.12](/en/The_Urantia_Book/91#p8_12))
+- Even when air currents are ascending, not even the eagle can fly except it - outstretches its wings. So in prayer, it is the spiritual attitude that carries our prayer to the Infinite. (<a id="a38_188"></a>[UB 91:8.9](/en/The_Urantia_Book/91#p8_9))
+- God answers prayer with an increased revelation of truth, an enhanced appreciation of beauty, and an augmented concept of goodness. (<a id="a39_135"></a>[UB 91:8.11](/en/The_Urantia_Book/91#p8_11))
+- Thus, true prayer is always a reaching out to God in faith and self-forgetfulness. (<a id="a40_86"></a>[UB 196:0.9](/en/The_Urantia_Book/196#p0_9))
 
 ## External links
 

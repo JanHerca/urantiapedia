@@ -56,7 +56,7 @@ In its 2097 pages, The Urantia Book encourages us to make God our personal prior
 
 The progress of the whole is dependent on the progress of the part. Urantia depends on the progress of the individual to one day achieve perfection status. We belong to a universe in which we are accountable. Our contribution to the evolution of this planet is vital. Progress has to do with the development of our personality potential in our relationships with others through faith attitudes of love, trust, and mercy. The book tells us:
 
-> Personality cannot very well perform in isolation. Man is innately a social creature; he is dominated by the craving of belongingness. It is literally true, "No man lives unto himself. ([UB 112:1.16](/en/The_Urantia_Book/112#p1_16))
+> Personality cannot very well perform in isolation. Man is innately a social creature; he is dominated by the craving of belongingness. It is literally true, "No man lives unto himself. (<a id="a58_188"></a>[UB 112:1.16](/en/The_Urantia_Book/112#p1_16))
 
 Of all human needs, none is more compelling than this need to **belong.** For it is in belonging that we grasp our own reality and validate our sense of worth. All personality development is dependent on a sense of belonging, a sense of identity of the self in relation to others, the part in relation to the whole. The Urantia Papers are very specific about our identity as cosmic citizens in a loving and friendly universe.
 
@@ -76,7 +76,7 @@ _The Urantia Book_ is different from other scientific/philosophical and spiritua
 
 There is no human authority, religious or otherwise, by which the truth of _The Urantia Book_'s teachings can be validated. No authoritative voice exists that can assure the new reader of the reliability of its information. Therefore, it is the individual reader who must resolve this issue and eventually reach a decision—either to embrace its teachings, or to ignore or reject them. For many, the truths contained within the book strike a deep, personal chord of truth that is self-authenticating. For others an inner voice beckons saying, "this is the way." Ultimately, placing our full trust in that inner voice is the most important lesson of our spiritual life. And it is the very essence of personal religious experience.
 
-> Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men. It is futile to talk about a revival of primitive Christianity; you must go forward from where you find yourselves. ([UB 195:10.1](/en/The_Urantia_Book/195#p10_1))
+> Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men. It is futile to talk about a revival of primitive Christianity; you must go forward from where you find yourselves. (<a id="a78_356"></a>[UB 195:10.1](/en/The_Urantia_Book/195#p10_1))
 
 ## External links
 

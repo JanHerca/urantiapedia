@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> “_Ganid, I have absolute confidence in my heavenly Father’s overcare; I am consecrated to doing the will of my Father in heaven. I do not believe that real harm can befall me; I do not believe that my lifework can really be jeopardized by anything my enemies might wish to visit upon me, and surely we have no violence to fear from our friends. I am absolutely assured that the entire universe is friendly to me—this all-powerful truth I insist on believing with a wholehearted trust in spite of all appearances to the contrary._” ([UB 133:1.4](/en/The_Urantia_Book/133#p1_4))
+> “_Ganid, I have absolute confidence in my heavenly Father’s overcare; I am consecrated to doing the will of my Father in heaven. I do not believe that real harm can befall me; I do not believe that my lifework can really be jeopardized by anything my enemies might wish to visit upon me, and surely we have no violence to fear from our friends. I am absolutely assured that the entire universe is friendly to me—this all-powerful truth I insist on believing with a wholehearted trust in spite of all appearances to the contrary._” (<a id="a36_534"></a>[UB 133:1.4](/en/The_Urantia_Book/133#p1_4))
 
 “The universe is friendly”—what a strange concept! Is it not the experience of virtually all of us that the universe is universally hostile? Ask a farmer and he will recount stories of flood, fire, famine, and drought. Ask all those emergency services people who deal with the aftermath of earthquakes, tidal waves, hurricanes, twisters, and other quirks of an apparently hostile nature. Of course there is another side—those freak events were always there and we humans just happened to build our homes in their territory.
 
@@ -54,9 +54,9 @@ The Urantia Papers remove enough of our ignorance to permit us to think as Jesus
 
 To experience the friendly universe as Jesus experienced it we have to turn our minds over to his Spirit of Truth.
 
-> “_The true cosmic meaning of this (golden) rule of universal relationship is revealed only in its spiritual realization, in the interpretation of the law of conduct by the spirit of the Son to the spirit of the Father that indwells the soul of mortal man._” ([UB 180:5.8](/en/The_Urantia_Book/180#p5_8))
+> “_The true cosmic meaning of this (golden) rule of universal relationship is revealed only in its spiritual realization, in the interpretation of the law of conduct by the spirit of the Son to the spirit of the Father that indwells the soul of mortal man._” (<a id="a56_261"></a>[UB 180:5.8](/en/The_Urantia_Book/180#p5_8))
 
-> “_And when such spirit-led mortals realize the true meaning of this golden rule, they are filled to overflowing with the assurance of citizenship in ***a friendly universe***, and their ideals of spirit reality are satisfied only when they love their fellows as Jesus loved us all, and that is the reality of the realization of the love of God._” ([UB 180:5.8](/en/The_Urantia_Book/180#p5_8))
+> “_And when such spirit-led mortals realize the true meaning of this golden rule, they are filled to overflowing with the assurance of citizenship in ***a friendly universe***, and their ideals of spirit reality are satisfied only when they love their fellows as Jesus loved us all, and that is the reality of the realization of the love of God._” (<a id="a58_350"></a>[UB 180:5.8](/en/The_Urantia_Book/180#p5_8))
 
 Attitudes thus make all the difference. Jesus never perceived the apparent hostility of others as being truly unfriendly but rather as their being misinformed and misguided.
 

@@ -57,9 +57,9 @@ For Jesus, the kingdom of heaven is a present reality, here and now; for Paul th
 
 Jesus taught that we live in the presence of a loving Father; Paul taught that we live in the midst of an evil force seeking to control us. 
 
-The coming reformation will shake the very foundations of Christianity because it will finally replace Paul's morose metaphysics of death with the robust revelation of life which Jesus lived and taught during his mortal sojourn as the Son of Man and the Son of God. ([[UB 196:2.1](/en/The_Urantia_Book/196#p2_1)]) 
+The coming reformation will shake the very foundations of Christianity because it will finally replace Paul's morose metaphysics of death with the robust revelation of life which Jesus lived and taught during his mortal sojourn as the Son of Man and the Son of God. (<a id="a59_267"></a>[[UB 196:2.1](/en/The_Urantia_Book/196#p2_1)]) 
 
-Said Jesus, “You are to go forth preaching the love of God and the service of man. That which the world needs most to know is: Men are the sons of God, and through faith they can actually realize, and daily experience, this ennobling truth.” ([[UB 193:0.4](/en/The_Urantia_Book/193#p0_4)]) 
+Said Jesus, “You are to go forth preaching the love of God and the service of man. That which the world needs most to know is: Men are the sons of God, and through faith they can actually realize, and daily experience, this ennobling truth.” (<a id="a61_243"></a>[[UB 193:0.4](/en/The_Urantia_Book/193#p0_4)]) 
 
 ## References
 

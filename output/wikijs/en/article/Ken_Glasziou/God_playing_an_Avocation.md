@@ -42,7 +42,7 @@ A major source of contention was about who was qualified—privileged—to bapti
 
 Probably Jesus’ disciples felt themselves as being at a level above John’s. Maybe, it was in compensation, John’s disciples were granted the sole right to baptize new converts.
 
-> The more closely man approaches God through love, the greater the reality—actuality—of that man. The more man withdraws from God, the more nearly he approaches nonreality—cessation of existence.  ([UB 117:4.14](/en/The_Urantia_Book/117#p4_14))
+> The more closely man approaches God through love, the greater the reality—actuality—of that man. The more man withdraws from God, the more nearly he approaches nonreality—cessation of existence.  (<a id="a44_199"></a>[UB 117:4.14](/en/The_Urantia_Book/117#p4_14))
 
 The exact wording of their baptismal ceremony is lost to us, but it is unlikely to have been very different from that of their dead leader.
 
@@ -56,7 +56,7 @@ While, on the surface, God-playing endeavors may appear to both ourselves and ot
 
 God-playing and the pride associated with it is an ongoing trap. For once our motives become polluted and, in reality, we commence to value the glory of men, then that glory is its own reward. As such, our efforts have no spiritual value.
 
-> “Seek not, then, for false peace and transient joy but rather for the assurance of faith and the sureties of divine sonship which yield composure, contentment, and supreme joy in the spirit.” ([UB 149:5.4](/en/The_Urantia_Book/149#p5_4))
+> “Seek not, then, for false peace and transient joy but rather for the assurance of faith and the sureties of divine sonship which yield composure, contentment, and supreme joy in the spirit.” (<a id="a58_195"></a>[UB 149:5.4](/en/The_Urantia_Book/149#p5_4))
 
 ## External links
 

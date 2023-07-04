@@ -68,7 +68,7 @@ At the macro level, our world seems solid, predictable, reliable. But just below
 
 Indeed we are fortunate to live in these exciting times in which our world can have meaning, God has become both a possibility and a probability, and we can know for certain that we have the free will to make a mark on the future of our future.
 
-> When man searches for truth, he pursues the divinely real. ([UB 2:7.4](/en/The_Urantia_Book/2#p7_4))
+> When man searches for truth, he pursues the divinely real. (<a id="a70_62"></a>[UB 2:7.4](/en/The_Urantia_Book/2#p7_4))
 
 ## External links
 

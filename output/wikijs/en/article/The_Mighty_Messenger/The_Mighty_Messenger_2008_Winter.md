@@ -40,9 +40,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 “I hope you don’t mind my saying, but your God-consciousness is showing.” Have you noticed _The Urantia Book_ places definitions of God-consciousness conspicuously in the last sentence of the Foreword and the first sentence of the last paragraph in the whole book?
 
-> “…the ever-progressing reality of personal religious experience—God-consciousness.” [F:XII.13](/en/The_Urantia_Book/0#p12_13)
+> “…the ever-progressing reality of personal religious experience—God-consciousness.” <a id="a42_86"></a>[F:XII.13](/en/The_Urantia_Book/0#p12_13)
 
-> “And God-consciousness is equivalent to the integration of the self with the universe…” [[UB 196:3.35](/en/The_Urantia_Book/196#p3_35)]
+> “And God-consciousness is equivalent to the integration of the self with the universe…” <a id="a44_90"></a>[[UB 196:3.35](/en/The_Urantia_Book/196#p3_35)]
 
 The entire teachings are held in the arms of God-consciousness. At every level of our progress, it is this continuous effort to push the envelope of self, soul and spirit consciousness that constitutes God-consciousness. It is the experience and fact of becoming more real.
 
@@ -308,7 +308,7 @@ The evening was a spirited celebration of the renewal of old friendships and the
 
 > **Are You a Member of the Fellowship?**
 > 
-> If not, we invite you to join us. With each new member we reach a new level of unity of purpose while embracing the diversity of our service as we associate with each other in order to share a common purpose in the worldwide dissemination of _The Urantia Book_ and its teachings. As Jesus told the Greek philosopher, A social group of human beings in co-ordinated working harmony stands for a force far greater than the simple sum of its parts. [[UB 133:5.6](/en/The_Urantia_Book/133#p5_6)]
+> If not, we invite you to join us. With each new member we reach a new level of unity of purpose while embracing the diversity of our service as we associate with each other in order to share a common purpose in the worldwide dissemination of _The Urantia Book_ and its teachings. As Jesus told the Greek philosopher, A social group of human beings in co-ordinated working harmony stands for a force far greater than the simple sum of its parts. <a id="a310_447"></a>[[UB 133:5.6](/en/The_Urantia_Book/133#p5_6)]
 > So come join us. You can contact the Fellowship Membership Chair, Lenny Cowles at lighing@wispertel.net for further information. We’ll look forward to hearing from you.
 {.is-info}
 
@@ -364,7 +364,7 @@ Members: Linda Buselli, Chair Lynda D’Arcangelo, David Glass, Nancy Johnson, A
 fellowship@urantiabook.org
 www.urantiabook.org
 
-> “true goodness must be unconscious” [[UB 140:8.26](/en/The_Urantia_Book/140#p8_26)]
+> “true goodness must be unconscious” <a id="a366_38"></a>[[UB 140:8.26](/en/The_Urantia_Book/140#p8_26)]
 
 ## External Links
 

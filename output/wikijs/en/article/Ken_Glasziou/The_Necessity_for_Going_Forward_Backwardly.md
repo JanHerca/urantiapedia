@@ -34,11 +34,11 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> But if revelation is to exalt and upstep the religions of evolution, then must such divine visitations portray teachings which are not too far removed from the thought and reactions of the age in which they are presented. Thus must and does revelation always keep in touch with evolution. Always must the religion of revelation be limited by man’s capacity of receptivity. ([UB 92:4.1](/en/The_Urantia_Book/92#p4_1))
+> But if revelation is to exalt and upstep the religions of evolution, then must such divine visitations portray teachings which are not too far removed from the thought and reactions of the age in which they are presented. Thus must and does revelation always keep in touch with evolution. Always must the religion of revelation be limited by man’s capacity of receptivity. (<a id="a36_376"></a>[UB 92:4.1](/en/The_Urantia_Book/92#p4_1))
 
-> But it has often been the error of the teachers of new truth **to attempt too much, to attempt to supplant slow evolution by sudden revolution**. The Melchizedek missionaries in Mesopotamia raised a moral standard too high for the people; they attempted too much, and their noble cause went down. . . ([UB 95:1.8](/en/The_Urantia_Book/95#p1_8))
+> But it has often been the error of the teachers of new truth **to attempt too much, to attempt to supplant slow evolution by sudden revolution**. The Melchizedek missionaries in Mesopotamia raised a moral standard too high for the people; they attempted too much, and their noble cause went down. . . (<a id="a38_304"></a>[UB 95:1.8](/en/The_Urantia_Book/95#p1_8))
 
-> The whole principle of biologic evolution makes it impossible for primitive man to appear on the inhabited worlds with any large endowment of self-restraint. . . The slowness of evolution, of human cultural progress, testifies to the effectiveness of that brake—material inertia—which so efficiently operates to retard dangerous velocities of progress. . . For when culture advances overfast, when material achievement outruns the evolution of worship-wisdom, then does civilization contain within itself the seeds of retrogression; and unless buttressed by the swift augmentation of experiential wisdom, such human societies will recede from high but premature levels of attainment, and the “dark ages” of the interregnum of wisdom will bear witness to the inexorable restoration of the imbalance between self-liberty and self-control. ([UB 118:8.5-6](/en/The_Urantia_Book/118#p8_5))
+> The whole principle of biologic evolution makes it impossible for primitive man to appear on the inhabited worlds with any large endowment of self-restraint. . . The slowness of evolution, of human cultural progress, testifies to the effectiveness of that brake—material inertia—which so efficiently operates to retard dangerous velocities of progress. . . For when culture advances overfast, when material achievement outruns the evolution of worship-wisdom, then does civilization contain within itself the seeds of retrogression; and unless buttressed by the swift augmentation of experiential wisdom, such human societies will recede from high but premature levels of attainment, and the “dark ages” of the interregnum of wisdom will bear witness to the inexorable restoration of the imbalance between self-liberty and self-control. (<a id="a40_840"></a>[UB 118:8.5-6](/en/The_Urantia_Book/118#p8_5))
 
 There are enough warnings in these quotations from the Papers to indicate reasons why they have been written in such a strange manner.
 
@@ -56,7 +56,7 @@ It is now apparent that these Urantia Papers cannot be appreciated adequately wi
 
 But even when we have found that core, we also discover that faith is essential before we can build our lives around its message. We also find among its messages that faith is an absolute necessity if we are to make a truly free will decision to tread the path that Jesus trod—one of total trust in the one he called “Father.”
 
-> “The quickest way to realize the brotherhood of man on Urantia is to effect the spiritual transformation of present day humanity.” ([UB 52:6.7](/en/The_Urantia_Book/52#p6_7))
+> “The quickest way to realize the brotherhood of man on Urantia is to effect the spiritual transformation of present day humanity.” (<a id="a58_134"></a>[UB 52:6.7](/en/The_Urantia_Book/52#p6_7))
 
 ## External links
 

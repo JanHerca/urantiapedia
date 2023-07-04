@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:38Z
 </figure>
 
 
-In Paper 39 ([UB 39:5.5](/en/The_Urantia_Book/39#p5_5)) of _The Urantia Book_ (437, 1955 edition), we are introduced to a group of seraphim, called the “Souls of Peace.” These angels belong to the order of Planetary Helpers, who begin their ministry on an inhabited world during the Adamic regime. As well as helping to foster the realization of “peace on earth and good will among men,” we are told that: “In the more advanced epochs of planetary evolution these seraphim are instrumental in supplanting the atonement idea by the concept of divine attunement as a philosophy of mortal survival.”
+In Paper 39 (<a id="a36_13"></a>[UB 39:5.5](/en/The_Urantia_Book/39#p5_5)) of _The Urantia Book_ (437, 1955 edition), we are introduced to a group of seraphim, called the “Souls of Peace.” These angels belong to the order of Planetary Helpers, who begin their ministry on an inhabited world during the Adamic regime. As well as helping to foster the realization of “peace on earth and good will among men,” we are told that: “In the more advanced epochs of planetary evolution these seraphim are instrumental in supplanting the atonement idea by the concept of divine attunement as a philosophy of mortal survival.”
 
 This description of their ministry is intriguing in its linking of peace and attunement. For years I’ve wondered why the supplanting of the atonement doctrine was so vital and relevant to the achievement of planetary peace.
 

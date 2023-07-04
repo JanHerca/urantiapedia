@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:38Z
 </figure>
 
 
-> “Morality can never be advanced by law or by force. It is a personal and freewill matter and must be disseminated by the contagion of the contact of morally fragrant persons with those who are less morally responsive, but who are also in some measure desirous of doing the Father’s will.” ([UB 16:7.9](/en/The_Urantia_Book/16#p7_9))
+> “Morality can never be advanced by law or by force. It is a personal and freewill matter and must be disseminated by the contagion of the contact of morally fragrant persons with those who are less morally responsive, but who are also in some measure desirous of doing the Father’s will.” (<a id="a36_292"></a>[UB 16:7.9](/en/The_Urantia_Book/16#p7_9))
 
 Essentially, the book is telling us that if Urantia society is to advance spiritually, our morality cannot be static, moribund. It must go forward. However we cannot legislate or utilize punitive methods to enforce moral advance. A society makes such advances if, and only if, it has morally fragrant members whose morality is contagious—and at least some other members who are morally responsive.
 
@@ -44,7 +44,7 @@ So how can _Urantia Book_ readers be morally fragrant. Well, one example we have
 
 I think moral fragrance has to be unconscious. If we are conscious of our moral standards and in any way attempt to exhibit them to others, the fragrance will certainly diminish and probably die away. We have to “be” before we can “do.”
 
-> “That evening, while teaching in the house, for it had begun to rain, Jesus talked at great length, trying to show the twelve what they must “be,” not what they must “do.” They knew only a religion that imposed the “doing” of certain things as the means of attaining righteousness—salvation. But Jesus would reiterate, “In the kingdom you must be righteous in order to do the work. . . but it was a difficult task to persuade these Galilean fishermen that, in the kingdom, being righteous, by faith, must precede doing righteousness in the daily life of the mortals of the earth.” ([UB 140:10.1](/en/The_Urantia_Book/140#p10_1))
+> “That evening, while teaching in the house, for it had begun to rain, Jesus talked at great length, trying to show the twelve what they must “be,” not what they must “do.” They knew only a religion that imposed the “doing” of certain things as the means of attaining righteousness—salvation. But Jesus would reiterate, “In the kingdom you must be righteous in order to do the work. . . but it was a difficult task to persuade these Galilean fishermen that, in the kingdom, being righteous, by faith, must precede doing righteousness in the daily life of the mortals of the earth.” (<a id="a46_584"></a>[UB 140:10.1](/en/The_Urantia_Book/140#p10_1))
 
 Righteousness certainly includes morality, hence if the Fifth Epochal Revelation is to do its work, then we readers have to “be” both righteous and moral if we are to become morally fragrant and infectious.
 
@@ -52,7 +52,7 @@ It must be extremely difficult for an irreligious person to subscribe to a moral
 
 Without a God who is love, and the promise of some desirable afterlife, the embracing of Paul’s alternative philosophy becomes almost compulsory: “Eat, drink, and be merry for tomorrow we die.” ([1 Cor. 15:32](/en/Bible/1_Corinthians/15#v32)) And with its acceptance, comes a deterioration of morality with the tendency to the maximizing of selfishness, for without a divine authority, the basis for any morality becomes arguable and self-interest becomes the paramount motivation.
 
-> “When man fails to discriminate the ends of his mortal striving, he finds himself functioning on the animal level of existence.” ([UB 16:7.5](/en/The_Urantia_Book/16#p7_5))
+> “When man fails to discriminate the ends of his mortal striving, he finds himself functioning on the animal level of existence.” (<a id="a54_132"></a>[UB 16:7.5](/en/The_Urantia_Book/16#p7_5))
 
 Could it be that a major intention of the revelators in providing us with the Fifth Epochal Revelation is the hope that adherents should become those morally fragrant persons who, by their personal example, will become the goal setters for a new moral order in society?
 

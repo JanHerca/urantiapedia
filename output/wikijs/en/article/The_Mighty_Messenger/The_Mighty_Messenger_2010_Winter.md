@@ -151,7 +151,7 @@ The David Zebedee Award was first conceived during the Parliament of World Relig
 
 That seemed an appropriate title for this service award, especially considering what David Zebedee said to Jesus: 
 
-> _Go forth to your work, Master. Don’t let the bigots catch you, and never doubt that the messengers will follow after you. My men will never lose contact with you, and through them you shall know of the kingdom in other parts, and by them we will all know about you. Nothing that might happen to me will interfere with this service, for I have appointed first and second leaders, even a third. I am neither a teacher nor a preacher, but it is in my heart to do this, and none can stop me._ [[UB 154:5.3](/en/The_Urantia_Book/154#p5_3)]
+> _Go forth to your work, Master. Don’t let the bigots catch you, and never doubt that the messengers will follow after you. My men will never lose contact with you, and through them you shall know of the kingdom in other parts, and by them we will all know about you. Nothing that might happen to me will interfere with this service, for I have appointed first and second leaders, even a third. I am neither a teacher nor a preacher, but it is in my heart to do this, and none can stop me._ <a id="a153_492"></a>[[UB 154:5.3](/en/The_Urantia_Book/154#p5_3)]
 
 ## Happy Birthday, Jesus
 
@@ -244,7 +244,7 @@ Most importantly we will be working on the heart of what Truthseekers is all abo
 The cost for the Truthseekers program, Tuesday afternoon through Sunday afternoon is $495.00. The price includes board, room, transportation, and all activities. Our age group is from 15 to 19 years old with some exceptions made. As with all of our programs, past Truthseekers are always welcome to participate regardless of age. Please register online on the Fellowship web site. If you have any questions do not hesitate to call either myself, Tom Choquette @ 425-218-2216, or Fred Harris @ 850-528-3393. We have never turned away an interested person due to lack of funds. Scholarships and partial scholarships are available. Take care. Be safe. See you soon. Love, Tom
 
 
-> “In my universe and in my Father’s universe of universes…in all group relationships we unfailing provide for definite leadership.” [[UB 181:2.16](/en/The_Urantia_Book/181#p2_16)]
+> “In my universe and in my Father’s universe of universes…in all group relationships we unfailing provide for definite leadership.” <a id="a246_133"></a>[[UB 181:2.16](/en/The_Urantia_Book/181#p2_16)]
 
 ## Alaska Society Celebrates 25th Anniversary
 
@@ -447,7 +447,7 @@ Weekly Internet radio programs hosted by Urantia Book readers:
 > Moderated chat room available to registered users
 {.is-info}
 
-> As a man thinks in his heart, so is he.” [[UB 131:2.8](/en/The_Urantia_Book/131#p2_8)]
+> As a man thinks in his heart, so is he.” <a id="a449_43"></a>[[UB 131:2.8](/en/The_Urantia_Book/131#p2_8)]
 
 ## Upcoming Events…
 

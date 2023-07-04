@@ -31,9 +31,9 @@ dateCreated: 2022-9-9T8:13:38Z
 </figure>
 
 
-> The effective technique in all forms and phases of teaching. Even parents may learn from Philip the better way of saying to their children not “Go do this and go do that,” but rather, “Come with us while we show and share with you the better way.” ([UB 139:5.8](/en/The_Urantia_Book/139#p5_8))
+> The effective technique in all forms and phases of teaching. Even parents may learn from Philip the better way of saying to their children not “Go do this and go do that,” but rather, “Come with us while we show and share with you the better way.” (<a id="a33_251"></a>[UB 139:5.8](/en/The_Urantia_Book/139#p5_8))
 
-> This kingdom of which you preach is God within you. ([UB 140:1.5](/en/The_Urantia_Book/140#p1_5))
+> This kingdom of which you preach is God within you. (<a id="a35_55"></a>[UB 140:1.5](/en/The_Urantia_Book/140#p1_5))
 
 _Stated in its simplest form the gospel of the kingdom is the recognition that the God-spirit dwells within us to lead us to want be like him._
 

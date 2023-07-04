@@ -50,7 +50,7 @@ In a textbook published at an American university in 1934 entitled, “The Archi
 
 The words of Swann were reproduced in Paper 42, Section 6 but with the comparison obviously deliberately changed from mass to volume. It reads:
 
-> “_If the mass of matter should be magnified until that of an electron equaled one tenth of an ounce, then were size to be proportionately magnified, the volume of such an electron would become as large as that of the earth_.” ([UB 42:6.8](/en/The_Urantia_Book/42#p6_8))
+> “_If the mass of matter should be magnified until that of an electron equaled one tenth of an ounce, then were size to be proportionately magnified, the volume of such an electron would become as large as that of the earth_.” (<a id="a52_229"></a>[UB 42:6.8](/en/The_Urantia_Book/42#p6_8))
 
 
 Taking the rest mass of the electron at 9.1 x 10^-28^ g, 0.1 ounce as 2.8 g, the radius of the earth as 6.4 x 10^6^ m and putting k as the magnification constant, then: k x 9.1 x 10^-28^ = 2.8 (1), and so
@@ -84,7 +84,7 @@ There was a second part to Swann’s comparison that went:
 
 The Urantia Paper’s author did not use this equation, changing the comparison to:
 
-> “_If the volume of a proton–eighteen hundred times as heavy as an electron–should be magnified to the size of the head of a pin, then, in comparison, a pin’s head would attain a diameter equal to that of the earth’s orbit around the sun._” ([UB 42:6.8](/en/The_Urantia_Book/42#p6_8))
+> “_If the volume of a proton–eighteen hundred times as heavy as an electron–should be magnified to the size of the head of a pin, then, in comparison, a pin’s head would attain a diameter equal to that of the earth’s orbit around the sun._” (<a id="a86_243"></a>[UB 42:6.8](/en/The_Urantia_Book/42#p6_8))
 
 
 Stefan Talqvist was again responsible for doing the calculations and drawing attention to this remarkable piece of prophetic material in the Papers.

@@ -42,11 +42,11 @@ If the number sequence is based upon 12 and the series starting with twelve incl
 
 ## Content
 
-> There were, originally, twelve distinct and divine concepts of transmissible life. This number twelve, with its subdivisions and multiples, runs throughout all basic life patterns of all seven superuniverses. There are also seven architectural types of life design, fundamental arrangements of the reproducing configurations of living matter. The Orvonton life patterns are configured as twelve inheritance carriers. The differing orders of will creatures are configured as 12, 24, 48, 96, 192, 384, and 768. On Urantia there are forty-eight units of pattern control–trait determiners–in the sex cells of human reproduction. ([UB 36:2.11](/en/The_Urantia_Book/36#p2_11))
+> There were, originally, twelve distinct and divine concepts of transmissible life. This number twelve, with its subdivisions and multiples, runs throughout all basic life patterns of all seven superuniverses. There are also seven architectural types of life design, fundamental arrangements of the reproducing configurations of living matter. The Orvonton life patterns are configured as twelve inheritance carriers. The differing orders of will creatures are configured as 12, 24, 48, 96, 192, 384, and 768. On Urantia there are forty-eight units of pattern control–trait determiners–in the sex cells of human reproduction. (<a id="a44_628"></a>[UB 36:2.11](/en/The_Urantia_Book/36#p2_11))
 
-> On Urantia there were twenty-four such custodian commissioners, two for each fundamental or parent pattern of the architectural organization of the life material. On planets such as yours the highest form of life is reproduced by a life-carrying bundle which possesses twenty-four pattern units. ([UB 36:2.16](/en/The_Urantia_Book/36#p2_16))
+> On Urantia there were twenty-four such custodian commissioners, two for each fundamental or parent pattern of the architectural organization of the life material. On planets such as yours the highest form of life is reproduced by a life-carrying bundle which possesses twenty-four pattern units. (<a id="a46_299"></a>[UB 36:2.16](/en/The_Urantia_Book/36#p2_16))
 
-> “These life circuits caused the chromosomes of the specialized Urantia pattern to re-organize. . . ” ([UB 77:2.5](/en/The_Urantia_Book/77#p2_5))
+> “These life circuits caused the chromosomes of the specialized Urantia pattern to re-organize. . . ” (<a id="a48_104"></a>[UB 77:2.5](/en/The_Urantia_Book/77#p2_5))
 
 <figure class="image urantiapedia">
 <img src="/image/article/Ken_Glasziou/48_Chromosomes_Or_Jumping_to_Conclusions/x_chromosome_1050x700.jpg">
@@ -55,7 +55,7 @@ If the number sequence is based upon 12 and the series starting with twelve incl
 
 There are several ways by which these statements from the book may be misinterpreted. That there are 48 units of pattern control in the sex cells could mean that each of the two types of sex cell (egg and sperm) has 48 units, or it could mean that together the two types have 48 units. The statement that the highest form of life on Urantia is reproduced by a life-carrying bundle possessing 24 pattern units favors the interpretation that the 48 units are distributed as 24 units in each of the two types of sex cell. But perhaps we humans are not that form of life! A further possibility is that the 48 units could be taken to mean 48 chromosomes.
 
-The mention of chromosomes on [UB 77:2.5](/en/The_Urantia_Book/77#p2_5) shows that the revelators were familiar with the term and may indicate that trait determiners or units of pattern control are not necessarily synonymous with chromosomes. We should also note that equating “trait determiners,” “units of pattern control,” and “inheritance carriers” with one another may not be a valid assumption.
+The mention of chromosomes on <a id="a57_30"></a>[UB 77:2.5](/en/The_Urantia_Book/77#p2_5) shows that the revelators were familiar with the term and may indicate that trait determiners or units of pattern control are not necessarily synonymous with chromosomes. We should also note that equating “trait determiners,” “units of pattern control,” and “inheritance carriers” with one another may not be a valid assumption.
 
 It was not until 1954 that it was realized that the human chromosome number, until then thought to be 48, was in actuality 46. It is 48 in our cousins, the monkeys and the apes, but due to the fusion of two of our chromosomes, we now only have 46. Some readers have been concerned that the revelators made an error.
 

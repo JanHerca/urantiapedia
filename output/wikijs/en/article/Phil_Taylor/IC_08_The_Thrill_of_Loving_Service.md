@@ -34,19 +34,19 @@ dateCreated: 2023-02-13T14:02:03.086Z
 </figure>
 
 
-> I lived my life in the flesh to show how you can, through loving service, become God revealing to your fellow men even as, by loving you and serving you, I have become God-revealing to you. . . . Love all men as I have loved you; serve your fellow mortals as I have served you. . . .  [[UB 193:0.5](/en/The_Urantia_Book/193#p0_5)]
+> I lived my life in the flesh to show how you can, through loving service, become God revealing to your fellow men even as, by loving you and serving you, I have become God-revealing to you. . . . Love all men as I have loved you; serve your fellow mortals as I have served you. . . .  <a id="a36_287"></a>[[UB 193:0.5](/en/The_Urantia_Book/193#p0_5)]
 
 ## Conference Vision
 
 The essence of Jesus’ teachings was love and service. He taught that service to one’s fellows is the highest concept of believers, and those who are born of the spirit will show forth the fruits of the spirit in loving service to their fellow creatures. Acceptance of His teachings leads us to the recognition that we are all sons and daughters of a loving God and that our attitude towards our fellows should be characterized by loving service. Cultivating an attitude of loving service is the theme of this year’s conference. So let us come together in reflection and communion in the spirit to experience the “Thrill of Loving Service.”
 
-Said Jesus to his followers, “_You are to love all men as I have loved you; you are to serve all men as I have served you._” [[UB 191:4.3](/en/The_Urantia_Book/191#p4_3)] “_If you would share the Masterʼs joy, you must share his love. And to share his love means that you have shared his service._” [[UB 180:1.5](/en/The_Urantia_Book/180#p1_5)]
+Said Jesus to his followers, “_You are to love all men as I have loved you; you are to serve all men as I have served you._” <a id="a42_125"></a>[[UB 191:4.3](/en/The_Urantia_Book/191#p4_3)] “_If you would share the Masterʼs joy, you must share his love. And to share his love means that you have shared his service._” <a id="a42_299"></a>[[UB 180:1.5](/en/The_Urantia_Book/180#p1_5)]
 
 ## Purpose Of The Conference
 
 The purpose of this conference is to bring the idea and ideals of service to the forefront of the minds of those readers who are associated with the Fifth Epochal Revelation. We hope to raise the awareness that service is a key component of Jesus’ gospel of love for man and God and that we can all serve in some capacity as we go about living our spiritual lives. Our goal then is to entice readers with the thrilling experience of loving service by helping each conference attendee explore the possibilities of living a more service filled life.
 
-In all we hope to come to a better understanding of how service is personal, individual, and spiritually dependent on God. Ultimately we hope attendees will leave this conference with a strong desire to walk that “second mile of free service and liberty loving devotion” [[UB 195:10.5](/en/The_Urantia_Book/195#p10_5)]  and recognize that “. . . _the ideal life is one of loving service_. . .” [[UB 110:3.3](/en/The_Urantia_Book/110#p3_3)]
+In all we hope to come to a better understanding of how service is personal, individual, and spiritually dependent on God. Ultimately we hope attendees will leave this conference with a strong desire to walk that “second mile of free service and liberty loving devotion” <a id="a48_271"></a>[[UB 195:10.5](/en/The_Urantia_Book/195#p10_5)]  and recognize that “. . . _the ideal life is one of loving service_. . .” <a id="a48_394"></a>[[UB 110:3.3](/en/The_Urantia_Book/110#p3_3)]
 
 ## The Structure Of The Conference
 
@@ -90,7 +90,7 @@ We will study the plans for continued universe training and spiritual developmen
 
 The goal of this last stage of the programming is to enhance and expand our perception and understanding of service as it is seen within the context of cosmic citizenship and our universal careers.
 
-> Religion is not a technique for attaining a static and blissful peace of mind; it is an impulse for organizing the soul for dynamic service. It is totality of selfhood in the loyal service of loving God and serving man. [[UB 100:3.1](/en/The_Urantia_Book/100#p3_1)]
+> Religion is not a technique for attaining a static and blissful peace of mind; it is an impulse for organizing the soul for dynamic service. It is totality of selfhood in the loyal service of loving God and serving man. <a id="a92_222"></a>[[UB 100:3.1](/en/The_Urantia_Book/100#p3_1)]
 
 ## References
 

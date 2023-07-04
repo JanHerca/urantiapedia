@@ -86,7 +86,7 @@ The “I” of the quantum neurophysiologist appears to be on track to be identi
 
 It appears to be unlikely that any scientific methodology could ever be developed that could verify or even throw light upon the detailed revelations in the Papers concerning personality and mind. The Papers say little about mind-brain interaction, the nearest thing being, “Human consciousness rests gently upon the electrochemical mechanism below and delicately touches the spirit-morontia energy system above.” The Papers do declare that personality is a universe mystery, and mind is certainly a mystery to us Urantians. This is the stuff of revelation--and some things have to be accepted in faith.
 
-> Every impulse of every electron, thought, or spirit is an acting unit in the whole universe...The universe is a whole; no thing or being exists or lives in isolation. ([UB 56:10.14](/en/The_Urantia_Book/56#p10_14))
+> Every impulse of every electron, thought, or spirit is an acting unit in the whole universe...The universe is a whole; no thing or being exists or lives in isolation. (<a id="a88_170"></a>[UB 56:10.14](/en/The_Urantia_Book/56#p10_14))
 
 ## External links
 

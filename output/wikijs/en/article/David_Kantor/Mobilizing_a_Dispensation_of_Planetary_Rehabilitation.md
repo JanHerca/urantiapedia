@@ -55,25 +55,25 @@ It is possible that dispensations also provide a means for synchronizing the flo
 
 ## The Present Dispensation on Urantia
 
-The present dispensation on Urantia is the dispensation of the bestowed Spirit of Truth, the Comforter, that [[UB 34:4.5](/en/The_Urantia_Book/34#p4_5)] “_spiritual force which ever draws all truth seekers towards Him who is the personification of truth in the local universe._” On Urantia neither personal spiritual experience nor the development of civilization can ever be the same again. 
+The present dispensation on Urantia is the dispensation of the bestowed Spirit of Truth, the Comforter, that <a id="a57_109"></a>[[UB 34:4.5](/en/The_Urantia_Book/34#p4_5)] “_spiritual force which ever draws all truth seekers towards Him who is the personification of truth in the local universe._” On Urantia neither personal spiritual experience nor the development of civilization can ever be the same again. 
 
 Mighty spiritual forces have been unleashed for access by individual mortals including the Spirit of Truth and the universal bestowal of Thought Adjusters. But the effectiveness of these resources for planetary rehabilitation depends on cooperative participation by individual mortals functioning within the material and interpersonal environment of the planet. 
 
 What can we discern regarding superhuman intentions for the present dispensation? Reviewing the purposes of the guiding Spirit of Truth illuminates the matter beyond question. 
 
-> “The Spirit of Truth is designed to live in man and, for each new generation, . . . to restate the Jesus message so that every new group of mortals to appear upon the face of the earth shall have a new and up-to-date version of the gospel.” [[UB 194:2.1](/en/The_Urantia_Book/194#p2_1)]
+> “The Spirit of Truth is designed to live in man and, for each new generation, . . . to restate the Jesus message so that every new group of mortals to appear upon the face of the earth shall have a new and up-to-date version of the gospel.” <a id="a63_243"></a>[[UB 194:2.1](/en/The_Urantia_Book/194#p2_1)]
 
-> “The Spirit of Truth was bestowed for the purpose of qualifying believers more effectively to preach the gospel of the kingdom.” [[UB 194:3.5](/en/The_Urantia_Book/194#p3_5)]
+> “The Spirit of Truth was bestowed for the purpose of qualifying believers more effectively to preach the gospel of the kingdom.” <a id="a65_131"></a>[[UB 194:3.5](/en/The_Urantia_Book/194#p3_5)]
 
-> “The Spirit of Truth came to help the believer to witness to the realities of Jesus' teachings and his life as he lived it in the flesh and as he now again lives it anew and afresh in the individual believer of each passing generation of the spirit-filled sons of God.” [[UB 194:2.6](/en/The_Urantia_Book/194#p2_6)]
+> “The Spirit of Truth came to help the believer to witness to the realities of Jesus' teachings and his life as he lived it in the flesh and as he now again lives it anew and afresh in the individual believer of each passing generation of the spirit-filled sons of God.” <a id="a67_272"></a>[[UB 194:2.6](/en/The_Urantia_Book/194#p2_6)]
 
-> “The fruits of the spirit, your sincere and loving service, are the mighty social lever to uplift the races of darkness, and this Spirit of Truth will become your power-multiplying fulcrum.” [[UB 178:1.6](/en/The_Urantia_Book/178#p1_6)]
+> “The fruits of the spirit, your sincere and loving service, are the mighty social lever to uplift the races of darkness, and this Spirit of Truth will become your power-multiplying fulcrum.” <a id="a69_193"></a>[[UB 178:1.6](/en/The_Urantia_Book/178#p1_6)]
 
-> “When you shall have been baptized with the Spirit of Truth, you will bravely and joyously go forth to meet the new experiences of proclaiming the good news of eternal life in the kingdom of God.” [[UB 191:5.3](/en/The_Urantia_Book/191#p5_3)]
+> “When you shall have been baptized with the Spirit of Truth, you will bravely and joyously go forth to meet the new experiences of proclaiming the good news of eternal life in the kingdom of God.” <a id="a71_199"></a>[[UB 191:5.3](/en/The_Urantia_Book/191#p5_3)]
 
 The primary task of the present dispensation is to foster global consciousness of the kingdom. Said Jesus, 
 
-> “You should understand that, when this gospel of the kingdom shall have been proclaimed to all the world for the salvation of all peoples, and when the fullness of the age has come to pass, the Father will send you another dispensational bestowal, or else the Son of Man will return to adjudge the age.” [[UB 176:2.5](/en/The_Urantia_Book/176#p2_5)]
+> “You should understand that, when this gospel of the kingdom shall have been proclaimed to all the world for the salvation of all peoples, and when the fullness of the age has come to pass, the Father will send you another dispensational bestowal, or else the Son of Man will return to adjudge the age.” <a id="a75_306"></a>[[UB 176:2.5](/en/The_Urantia_Book/176#p2_5)]
 
 Fostering a world-wide appreciation for the kingdom will create the foundation upon which the revelation of the next dispensation will take place. But the achievement of this planetary recovery will be heavily dependent on mortal commitment and work over many generations. 
 
@@ -83,7 +83,7 @@ He has provided powerful spiritual resources--the Spirit of Truth, the global mo
 
 Do we fully appreciate being personally asked by our Creator Son to help him rehabilitate this isolated, sin-stricken planet? As he emphatically instructed the Seventy, 
 
-> “The gospel of the kingdom must be proclaimed to all the world.” [[UB 163:4.2](/en/The_Urantia_Book/163#p4_2)]
+> “The gospel of the kingdom must be proclaimed to all the world.” <a id="a85_67"></a>[[UB 163:4.2](/en/The_Urantia_Book/163#p4_2)]
 
 ## The Revolutionary Nature of His Teaching 
 
@@ -109,7 +109,7 @@ In the domain of _social being_, he places a high value on serving people, comfo
 
 The fruits of the spirit are experienced only as these attitudes of personality are actually lived. Loving service, unselfish devotion, courageous loyalty, sincere fairness, enlightened honesty, undying hope, confiding trust, merciful ministry, unfailing goodness, and forgiving tolerance can only be experienced in relationships with other persons. 
 
-Jesus was teaching neither a doctrine nor an ideology. Neither was he trying to found a religion. This was our Creator, incarnate, telling us how reality works in a personal universe; how to grow and thrive as persons in a world with other persons. He was revealing personality itself as the very ground of being. The dispensation he was inaugurating was one in which [[UB 179:5.2](/en/The_Urantia_Book/179#p5_2)] “the enslaved individual emerges from the bondage of ceremonialism and selfishness into the spiritual joy of the brotherhood and fellowship of the liberated faith sons of the living God.” 
+Jesus was teaching neither a doctrine nor an ideology. Neither was he trying to found a religion. This was our Creator, incarnate, telling us how reality works in a personal universe; how to grow and thrive as persons in a world with other persons. He was revealing personality itself as the very ground of being. The dispensation he was inaugurating was one in which <a id="a111_368"></a>[[UB 179:5.2](/en/The_Urantia_Book/179#p5_2)] “the enslaved individual emerges from the bondage of ceremonialism and selfishness into the spiritual joy of the brotherhood and fellowship of the liberated faith sons of the living God.” 
 
 This was our Creator who came “that we might have life and have it more abundantly.” 
 
@@ -120,23 +120,23 @@ This was our Creator who came “that we might have life and have it more abunda
 
 ## Participation 
 
-But note that this Spirit of Truth [[UB 34:5.5](/en/The_Urantia_Book/34#p5_5)] “is almost wholly limited in function and power by man's personal reception of that which constitutes the sum and substance of the mission of the bestowal Son.” 
+But note that this Spirit of Truth <a id="a122_35"></a>[[UB 34:5.5](/en/The_Urantia_Book/34#p5_5)] “is almost wholly limited in function and power by man's personal reception of that which constitutes the sum and substance of the mission of the bestowal Son.” 
 
 What might that “sum and substance” be? 
 
-> “I have come to proclaim the establishment of the Father's kingdom.” [[UB 137:8.6](/en/The_Urantia_Book/137#p8_6)]
+> “I have come to proclaim the establishment of the Father's kingdom.” <a id="a126_71"></a>[[UB 137:8.6](/en/The_Urantia_Book/137#p8_6)]
 
-> “I have come to preach the glad tidings of the kingdom.” [[UB 137:8.14](/en/The_Urantia_Book/137#p8_14)]
+> “I have come to preach the glad tidings of the kingdom.” <a id="a128_59"></a>[[UB 137:8.14](/en/The_Urantia_Book/137#p8_14)]
 
-> “I have come into the world to reveal the Father and establish his kingdom.” [[UB 145:3.9](/en/The_Urantia_Book/145#p3_9)]
+> “I have come into the world to reveal the Father and establish his kingdom.” <a id="a130_79"></a>[[UB 145:3.9](/en/The_Urantia_Book/145#p3_9)]
 
-> “I have come not to reform the kingdoms of this world but rather to establish the kingdom of heaven.” [[UB 140:6.6](/en/The_Urantia_Book/140#p6_6)]
+> “I have come not to reform the kingdoms of this world but rather to establish the kingdom of heaven.” <a id="a132_104"></a>[[UB 140:6.6](/en/The_Urantia_Book/140#p6_6)]
 
-And what might our “personal reception” of his mission look like? [[UB 140:6.6](/en/The_Urantia_Book/140#p6_6)]
+And what might our “personal reception” of his mission look like? <a id="a134_66"></a>[[UB 140:6.6](/en/The_Urantia_Book/140#p6_6)]
 
-> [Jesus was] “dedicated to the work of revealing the heavenly Father to his fellow mortals and at the same time was consecrated to the sublime task of living his mortal earth life all the while subject to the will of the same Paradise Father.” [[UB 129:3.5](/en/The_Urantia_Book/129#p3_5)]
+> [Jesus was] “dedicated to the work of revealing the heavenly Father to his fellow mortals and at the same time was consecrated to the sublime task of living his mortal earth life all the while subject to the will of the same Paradise Father.” <a id="a136_245"></a>[[UB 129:3.5](/en/The_Urantia_Book/129#p3_5)]
 
-Our “personal reception” of his mission— our assimilation of his religion—implies the embodiment and expression through our own lives of his personal spiritual objectives. In this regard we should note that, [UB 160:5.3](/en/The_Urantia_Book/160#p5_3) “_If something has become a religion in your experience, it is self-evident that you already have become an active evangel of that religion since you deem the supreme concept of your religion as being worthy of the worship of all mankind, all universe intelligences. If you are not a positive and missionary evangel of your religion, you are self-deceived in that what you call a religion is only a traditional belief or a mere system of intellectual philosophy._” 
+Our “personal reception” of his mission— our assimilation of his religion—implies the embodiment and expression through our own lives of his personal spiritual objectives. In this regard we should note that, <a id="a138_208"></a>[UB 160:5.3](/en/The_Urantia_Book/160#p5_3) “_If something has become a religion in your experience, it is self-evident that you already have become an active evangel of that religion since you deem the supreme concept of your religion as being worthy of the worship of all mankind, all universe intelligences. If you are not a positive and missionary evangel of your religion, you are self-deceived in that what you call a religion is only a traditional belief or a mere system of intellectual philosophy._” 
 
 Not only does our personal reception of his mission further the process of planetary rehabilitation; our personalities become more real as we engage with the spiritual trends and objectives of the present dispensation. Ascent through the psychic circles is directly related to mastering the personality challenges inherent in the tasks of the kingdom. Here in our initial lives in the flesh, kingdom service and personal growth are all provided in an integrated career package available for the choosing. 
 

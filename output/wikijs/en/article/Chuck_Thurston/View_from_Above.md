@@ -40,7 +40,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-> “..the Master Spirits are the sevenfold channel of the river of life which is poured out upon all creation.” [UB 36:6.7](/en/The_Urantia_Book/36#p6_7)
+> “..the Master Spirits are the sevenfold channel of the river of life which is poured out upon all creation.” <a id="a42_111"></a>[UB 36:6.7](/en/The_Urantia_Book/36#p6_7)
 
 <figure class="table chapter-navigator">
   <table>

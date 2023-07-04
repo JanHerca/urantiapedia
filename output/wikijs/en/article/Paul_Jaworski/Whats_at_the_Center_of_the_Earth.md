@@ -48,13 +48,13 @@ dateCreated: 2022-9-9T8:13:39Z
 
 Referring to the Earth’s center, _The Urantia Book_ says:
 
-> “_The continental land drift continued. The earth’s core had become as dense and rigid as steel, being subjected to a pressure of almost 25,000 tons to the square inch, and owing to the enormous gravity pressure, it was and still is very hot in the deep interior. The temperature increases from the surface downward until at the center it is slightly above the surface temperature of the sun._” ([UB 58:5.1](/en/The_Urantia_Book/58#p5_1))
+> “_The continental land drift continued. The earth’s core had become as dense and rigid as steel, being subjected to a pressure of almost 25,000 tons to the square inch, and owing to the enormous gravity pressure, it was and still is very hot in the deep interior. The temperature increases from the surface downward until at the center it is slightly above the surface temperature of the sun._” (<a id="a50_398"></a>[UB 58:5.1](/en/The_Urantia_Book/58#p5_1))
 
 Emiliani (1995) describes the inner core of earth as being solid and surrounded by an outer core that is liquid. The composition of the core is given as 90% iron, 9% nickel, and 1% sulfur, the pressure at the center as 24,300 tons per square inch, and its temperature as 6000^o^C. The surface of the sun’s photosphere is given as 5,500 degrees C and the junction of the photosphere and the convective layer is at 7,700 degrees C.
 
 Judged by the report at the meeting of the American Geophysical Union, there must have been at least some uncertainty about the solid nature of the core that is not mentioned in our reference work.
 
-Matthew Block considers that Reginald A. Daly’s book, “Our Mobile Earth” (1926) was one source for this section of _The Urantia Book_. Daly estimated the pressure at the core as about 22,000 tons per sq. inch and its temperature as surpassing the surface temperature of the sun, about 6000 degrees centigrade. Daly also stated the core is composed of metallic iron alloyed with a small proportion of nickel and other metals. _The Urantia Book_ mentions that iron and other heavy metals gravitate to the center of the planet. ([UB 57:7.1](/en/The_Urantia_Book/57#p7_1))
+Matthew Block considers that Reginald A. Daly’s book, “Our Mobile Earth” (1926) was one source for this section of _The Urantia Book_. Daly estimated the pressure at the core as about 22,000 tons per sq. inch and its temperature as surpassing the surface temperature of the sun, about 6000 degrees centigrade. Daly also stated the core is composed of metallic iron alloyed with a small proportion of nickel and other metals. _The Urantia Book_ mentions that iron and other heavy metals gravitate to the center of the planet. (<a id="a56_526"></a>[UB 57:7.1](/en/The_Urantia_Book/57#p7_1))
 
 > The remarkable thing about the human mind is the range of its limitations.
 > _Celia Green_

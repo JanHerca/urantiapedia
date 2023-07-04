@@ -46,13 +46,13 @@ by _Ann Biggs and Peter Laurence_
 
 Our York, Pennsylvania group recently joined up with Stevie Shaefer's
 
-Alexandria, Virginia group for certain Sundays each month. Between the two groups, we have a meeting each Sunday. While studying Paper 196, I voiced my feeling of being overwhelmed with [UB 196:0.10](/en/The_Urantia_Book/196#p0_10), Jesus' prayer as “an expression of spiritual attitude."
+Alexandria, Virginia group for certain Sundays each month. Between the two groups, we have a meeting each Sunday. While studying Paper 196, I voiced my feeling of being overwhelmed with <a id="a48_186"></a>[UB 196:0.10](/en/The_Urantia_Book/196#p0_10), Jesus' prayer as “an expression of spiritual attitude."
 
 The next day, Peter Laurence developed a series of 24 or so questions on this, we discussed each at length on the phone, and then I put those concepts and discussion points on some illustrated slides for a workshop on one of the Sundays. It was thought provoking and very useful actually, looking at how we can treat prayer and communion with God similar to the way Jesus did. We've done a couple other workshops for the New York Society before, so it was pretty fluid. He's fantastic to work with; very good with words and can think “on the spot,” whereas I generally like to work quietly between our meetings, then bring what I've created to our next session.
 
 ## Definition Of Prayer
 
-[UB 196:0.10](/en/The_Urantia_Book/196#p0_10) Jesus never prayed as a religious duty. To him prayer was
+<a id="a54_0"></a>[UB 196:0.10](/en/The_Urantia_Book/196#p0_10) Jesus never prayed as a religious duty. To him prayer was
 
 1. a sincere expression of spiritual attitude - What is a “spiritual attitude?”
 2. a declaration of soul loyalty - Loyalty to what?

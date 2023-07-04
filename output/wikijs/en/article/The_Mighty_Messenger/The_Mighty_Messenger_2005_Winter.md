@@ -107,7 +107,7 @@ New York, NY 10163
 
 The presence of the Urantia revelation was strongly felt at the joint gathering of the United Religions Initiative and the North American Interfaith Network held at the University of Nevada, Las Vegas, August 14-16 this summer, due to the work of several dedicated _Urantia Book_ readers. The Urantia community hosted a banquet for the entice gathering, and also created sacred spaccs in which to celebrate different faith traditions. Actively serving in these activities were, back row, from left, Amee Majors, Charlene Morrow, Tamara Wood, Share Beasley, Susan Cook, Judy Langston and Gard Jameson. Front row, from left, Bill Beasley and Marvin Gawryn.
 
-> Goals rather than creeds should unify religionists. [[UB 99:5.7](/en/The_Urantia_Book/99#p5_7)]
+> Goals rather than creeds should unify religionists. <a id="a109_54"></a>[[UB 99:5.7](/en/The_Urantia_Book/99#p5_7)]
 
 ## Jesus Birthday Celebrations
 

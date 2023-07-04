@@ -319,21 +319,21 @@ For an excellent understanding of how this topic relates to the development Jude
 
 ## References
 
-[^1]: Genetics has a type of genes that comply with this form of action, and they are called recessive genes. For example, blue eyes, which appear due to a recessive gene, are told in *The Urantia Book* that they arose in the world because Adam and Eve had them that way and transmitted them to the world through their offspring. [UB 76:4.1](/en/The_Urantia_Book/76#p4_1)
+[^1]: Genetics has a type of genes that comply with this form of action, and they are called recessive genes. For example, blue eyes, which appear due to a recessive gene, are told in *The Urantia Book* that they arose in the world because Adam and Eve had them that way and transmitted them to the world through their offspring. <a id="a321_330"></a>[UB 76:4.1](/en/The_Urantia_Book/76#p4_1)
 
-[^2]: [UB 101:4.8-9](/en/The_Urantia_Book/101#p4_8)
+[^2]: <a id="a323_6"></a>[UB 101:4.8-9](/en/The_Urantia_Book/101#p4_8)
 
-[^3]: [UB 76:3.8](/en/The_Urantia_Book/76#p3_8)
+[^3]: <a id="a325_6"></a>[UB 76:3.8](/en/The_Urantia_Book/76#p3_8)
 
-[^4]: [UB 76:4.3](/en/The_Urantia_Book/76#p4_3)
+[^4]: <a id="a327_6"></a>[UB 76:4.3](/en/The_Urantia_Book/76#p4_3)
 
-[^5]: [UB 76:4.5](/en/The_Urantia_Book/76#p4_5)
+[^5]: <a id="a329_6"></a>[UB 76:4.5](/en/The_Urantia_Book/76#p4_5)
 
-[^6]: [UB 78:3.1](/en/The_Urantia_Book/78#p3_1)
+[^6]: <a id="a331_6"></a>[UB 78:3.1](/en/The_Urantia_Book/78#p3_1)
 
-[^7]: [UB 78:5.2](/en/The_Urantia_Book/78#p5_2)
+[^7]: <a id="a333_6"></a>[UB 78:5.2](/en/The_Urantia_Book/78#p5_2)
 
-[^8]: [UB 78:6.1](/en/The_Urantia_Book/78#p6_1)
+[^8]: <a id="a335_6"></a>[UB 78:6.1](/en/The_Urantia_Book/78#p6_1)
 
 [^9]: *Which came first, monumental building projects or farming?*, Archaeo News, december 2008. http://www.stonepages.com/news/archives/003061.html
 
@@ -345,41 +345,41 @@ For an excellent understanding of how this topic relates to the development Jude
 
 [^13]: Sean Thomas, *Gobekli Tepe – Paradise Regained?*, ForteanTimes, march 2007. https://web.archive.org/web/20100604191934/http://www.forteantimes.com/features/articles/449/gobekli_tepe_paradise_regained.html [Original link requires now subscription]
 
-[^14]: [UB 78:2.4](/en/The_Urantia_Book/78#p2_4)
+[^14]: <a id="a347_7"></a>[UB 78:2.4](/en/The_Urantia_Book/78#p2_4)
 
-[^15]: [UB 76:3.8](/en/The_Urantia_Book/76#p3_8)
+[^15]: <a id="a349_7"></a>[UB 76:3.8](/en/The_Urantia_Book/76#p3_8)
 
 [^16]: Austrian Times, article from February 25, 2011
 
-[^17]: [UB 74:3.4](/en/The_Urantia_Book/74#p3_4)
+[^17]: <a id="a353_7"></a>[UB 74:3.4](/en/The_Urantia_Book/74#p3_4)
 
-[^18]: [UB 52:1.5](/en/The_Urantia_Book/52#p1_5)
+[^18]: <a id="a355_7"></a>[UB 52:1.5](/en/The_Urantia_Book/52#p1_5)
 
-[^19]: [UB 66:5.6](/en/The_Urantia_Book/66#p5_6)
+[^19]: <a id="a357_7"></a>[UB 66:5.6](/en/The_Urantia_Book/66#p5_6)
 
-[^20]: [UB 73:4.1](/en/The_Urantia_Book/73#p4_1)
+[^20]: <a id="a359_7"></a>[UB 73:4.1](/en/The_Urantia_Book/73#p4_1)
 
-[^21]: [UB 84:7.29](/en/The_Urantia_Book/84#p7_29)
+[^21]: <a id="a361_7"></a>[UB 84:7.29](/en/The_Urantia_Book/84#p7_29)
 
-[^22]: [UB 74:7.22](/en/The_Urantia_Book/74#p7_22)
+[^22]: <a id="a363_7"></a>[UB 74:7.22](/en/The_Urantia_Book/74#p7_22)
 
 [^23]: The inspiration for taking a crack at interpreting the “H” came from a genetics report, sent to me by Luis Marco, that gives noteworthy support to The Urantia Book‘s dating of both the Sangik races and the Neanderthals. See the *Double Dual Origin of Modern Man and pre-Modern Man* Research Page to follow up on this 2019 research report out of UC Davis. http://ubannotated.com/ubthenews/topics/Modern_Man_Origin/
 
-[^24]: [UB 78:5.4](/en/The_Urantia_Book/78#p5_4)
+[^24]: <a id="a367_7"></a>[UB 78:5.4](/en/The_Urantia_Book/78#p5_4)
 
-[^25]: [UB 78:5.7-8](/en/The_Urantia_Book/78#p5_7)
+[^25]: <a id="a369_7"></a>[UB 78:5.7-8](/en/The_Urantia_Book/78#p5_7)
 
 [^26]: There is a Topical Study in development about this matter: *Fish Head Hats*, http://ubannotated.com/main-menu/animated/topical-studies/fish-head-hats/
 
-[^27]: [UB 76:4.8](/en/The_Urantia_Book/76#p4_8)
+[^27]: <a id="a373_7"></a>[UB 76:4.8](/en/The_Urantia_Book/76#p4_8)
 
-[^28]: [UB 78:3.6](/en/The_Urantia_Book/78#p3_6)
+[^28]: <a id="a375_7"></a>[UB 78:3.6](/en/The_Urantia_Book/78#p3_6)
 
-[^29]: [UB 78:6.5](/en/The_Urantia_Book/78#p6_5)
+[^29]: <a id="a377_7"></a>[UB 78:6.5](/en/The_Urantia_Book/78#p6_5)
 
-[^30]: [UB 78:6.8](/en/The_Urantia_Book/78#p6_8)
+[^30]: <a id="a379_7"></a>[UB 78:6.8](/en/The_Urantia_Book/78#p6_8)
 
-[^31]: [UB 49:5.19](/en/The_Urantia_Book/49#p5_19)
+[^31]: <a id="a381_7"></a>[UB 49:5.19](/en/The_Urantia_Book/49#p5_19)
 
 [^32]: https://en.wikipedia.org/wiki/Pineal_gland
 

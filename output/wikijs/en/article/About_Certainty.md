@@ -36,9 +36,9 @@ dateCreated: 2023-01-21T14:02:03.086Z
 
 Prior to Jesus' bestowal his brother Creator-Son, Immanuel, advised: "In this bestowal you have voluntarily divested yourself from all extra-planetary support and special assistance.
 
-> Just as your mortal sons and daughters are entirely dependent upon you for safe conduct throughout their universe career, so must you be wholly dependent upon the Paradise Father for similar safe conduct. ([UB 120:1.3](/en/The_Urantia_Book/120#p1_3))
+> Just as your mortal sons and daughters are entirely dependent upon you for safe conduct throughout their universe career, so must you be wholly dependent upon the Paradise Father for similar safe conduct. (<a id="a38_208"></a>[UB 120:1.3](/en/The_Urantia_Book/120#p1_3))
 
-> By doing so, when you have finished the bestowal experience, you will know in vert truth the full meaning and the rich significance of that same **faith trust that you so unvaryingly require your mortal children to master.**" ([UB 120:1.3](/en/The_Urantia_Book/120#p1_3))
+> By doing so, when you have finished the bestowal experience, you will know in vert truth the full meaning and the rich significance of that same **faith trust that you so unvaryingly require your mortal children to master.**" (<a id="a40_229"></a>[UB 120:1.3](/en/The_Urantia_Book/120#p1_3))
 
 Immanuel added, “After you are sufficiently self-conscious of your divine identity, I council you to assume the additional task of terminating the Lucifer rebellion, and to do this as the 'Son of Man'—a wholly mortal creature of the realm.”
 
@@ -54,7 +54,7 @@ True and genuine inward certainty does not in the least fear outward analysis, n
 
 No person is at any time disturbed by a neighbor's attitude when that person has perfect confidence in the truth of that which is wholeheartedly believed. Courage is the confidence of thoroughgoing honesty about those things which one professes to believe. 
 
-> _But long before reaching Havona, the ascendant children of time have learned to feast upon uncertainty, to fatten upon disappointment, to enthuse over apparent defeat, to invigorate in the presence of difficulties, to exhibit indomitable courage in the face of immensity, and to exercise unconquerable faith when confronted with the challenge of the inexplicable. Long since, the battle cry of these pilgrims became: “In liaison with God, nothing—absolutely nothing—is impossible.”_ ([UB 26:5.3](/en/The_Urantia_Book/26#p5_3))
+> _But long before reaching Havona, the ascendant children of time have learned to feast upon uncertainty, to fatten upon disappointment, to enthuse over apparent defeat, to invigorate in the presence of difficulties, to exhibit indomitable courage in the face of immensity, and to exercise unconquerable faith when confronted with the challenge of the inexplicable. Long since, the battle cry of these pilgrims became: “In liaison with God, nothing—absolutely nothing—is impossible.”_ (<a id="a56_487"></a>[UB 26:5.3](/en/The_Urantia_Book/26#p5_3))
 
 > He who would do good to another must do it in minute particulars. The general good is the plea of the scoundrel, hypocrite, and flatterer.
 > _William Blake_

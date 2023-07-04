@@ -44,19 +44,19 @@ A new dimension has since been added to radiometric dating procedures by the dis
 > Errors, like straws, upon the surface flow; He who would search for pearls must dive below.
 > _Dryden_
 
-The revelators were well aware that this would eventually be so: “The radium clock is your most reliable timepiece.” ([UB 57:7.3](/en/The_Urantia_Book/57#p7_3))
+The revelators were well aware that this would eventually be so: “The radium clock is your most reliable timepiece.” (<a id="a46_118"></a>[UB 57:7.3](/en/The_Urantia_Book/57#p7_3))
 
 Included in the error listing that follows are statements from the Urantia Papers that would almost certainly be seen as erroneous by new readers and cause them to abandon interest—the more so if their expectation was they are reading a revelation from a supernatural source:
 
-> **57:5.10**: Referring to Jupiter and Saturn, “These two largest of the solar system planets have remained largely gaseous to this day. . . The gas-contraction nucleuses of the other ten planets soon reached the stage of solidification and so began to draw to themselves increasing quantities of the meteoric matter circulating in near-by space.” ([UB 57:5.10-11](/en/The_Urantia_Book/57#p5_10))
+> **57:5.10**: Referring to Jupiter and Saturn, “These two largest of the solar system planets have remained largely gaseous to this day. . . The gas-contraction nucleuses of the other ten planets soon reached the stage of solidification and so began to draw to themselves increasing quantities of the meteoric matter circulating in near-by space.” (<a id="a50_350"></a>[UB 57:5.10-11](/en/The_Urantia_Book/57#p5_10))
 
 **Comment:** The inner planets, Mercury, Venus, Earth and Mars are classed as ‘terrestrial.’ The Jovian planets are the giant planets, Jupiter, Saturn, Uranus, and Neptune. These are also classed as ‘the gaseous planets’ because the major part of their volume is gaseous. All have a ‘rocky’ core. As a proportion of its mass, Uranus is much more ‘rocky’ than Jupiter. Nevertheless, it has a lower density.[^3]
 
-> **57:6.2**: “Such gravitational influences also contribute to the stabilization of planetary orbits while acting as a brake on the rate of planetary-axial revolution, causing a planet to revolve ever slower until axial revolution ceases, leaving one hemisphere of the planet always turned toward the sun or larger body, as is illustrated by the planet Mercury and by the moon, which always turns the same face toward Urantia.” ([UB 57:6.2](/en/The_Urantia_Book/57#p6_2))
+> **57:6.2**: “Such gravitational influences also contribute to the stabilization of planetary orbits while acting as a brake on the rate of planetary-axial revolution, causing a planet to revolve ever slower until axial revolution ceases, leaving one hemisphere of the planet always turned toward the sun or larger body, as is illustrated by the planet Mercury and by the moon, which always turns the same face toward Urantia.” (<a id="a54_430"></a>[UB 57:6.2](/en/The_Urantia_Book/57#p6_2))
 
 **Comment:** In the late 19^th^ century it was concluded that Mercury was in synchronous rotation exactly equal to its year of 88 Earth days. Thus there would be a dark side always facing away from the Sun. This was brought into question in the 1960’s when observations indicated the ‘dark’ side was much hotter than it should be. A final answer came in 1974 from photographs taken by the spacecraft Mariner from which the rotational period was shown to be 58.646 Earth days—hence for Mercury there is no permanently dark side.[^3]
 
-> **57:6.10**: “2,500,000,000 years ago the planets had grown immensely in size. Urantia was a well-developed sphere about one tenth its present mass and was still growing rapidly by meteoric accretion.” ([UB 57:6.10](/en/The_Urantia_Book/57#p6_10))
+> **57:6.10**: “2,500,000,000 years ago the planets had grown immensely in size. Urantia was a well-developed sphere about one tenth its present mass and was still growing rapidly by meteoric accretion.” (<a id="a58_205"></a>[UB 57:6.10](/en/The_Urantia_Book/57#p6_10))
 
 **Comment:** The fact that evidence is available for the occurrence of sedimentary rocks and oceans dating back to from 3.8 to 4.4 billion years ago and for life forms existing close to 4 billion years ago is impossible to reconcile with this statement. And there is much convincing evidence indicating the Earth and its moon were close to their full size by about 4.4 billion years ago.[^3],[^4]
 
@@ -69,7 +69,7 @@ Included in the error listing that follows are statements from the Urantia Paper
 > If there be none, never mind it.
 > _W. C. Hazlitt_
 
-> **57:7.4**: “1,500,000,000 years ago the earth was two thirds its present size. . . Volcanic action is now at its height. The whole earth is a veritable fiery inferno, the surface resembling its earlier molten state before the heavier metals gravitated toward the center. This is the volcanic age. . . The primitive planetary atmosphere is slowly evolving, now containing some water vapor, carbon monoxide, carbon dioxide, and hydrogen chloride, but there is little or no free nitrogen or free oxygen. . . . Presently, the atmosphere became more settled and cooled sufficiently to start precipitation of rain on the hot rocky surface of the planet. For thousands of years Urantia was enveloped in one vast and continuous blanket of steam. And during these ages the sun never shone upon the earth’s surface.” ([UB 57:7.4-6](/en/The_Urantia_Book/57#p7_4)) ([UB 57:7.7](/en/The_Urantia_Book/57#p7_7))
+> **57:7.4**: “1,500,000,000 years ago the earth was two thirds its present size. . . Volcanic action is now at its height. The whole earth is a veritable fiery inferno, the surface resembling its earlier molten state before the heavier metals gravitated toward the center. This is the volcanic age. . . The primitive planetary atmosphere is slowly evolving, now containing some water vapor, carbon monoxide, carbon dioxide, and hydrogen chloride, but there is little or no free nitrogen or free oxygen. . . . Presently, the atmosphere became more settled and cooled sufficiently to start precipitation of rain on the hot rocky surface of the planet. For thousands of years Urantia was enveloped in one vast and continuous blanket of steam. And during these ages the sun never shone upon the earth’s surface.” (<a id="a71_811"></a>[UB 57:7.4-6](/en/The_Urantia_Book/57#p7_4)) (<a id="a71_857"></a>[UB 57:7.7](/en/The_Urantia_Book/57#p7_7))
 
 **Comment:** There is no geological evidence to support such a scenario. Photosynthetic bacteria have been present in the oceans of the world since between 3.5 and 4 billion years ago, a fact demonstrated by the ratio of carbon isotopes in fossil remains that is unique to photosynthesis by living organisms. Additionally, studies of crater formation on the moon demonstrate that bombardment by large planetesimals virtually ceased by 3.8 billion years ago and that crater formation fell to the current level at about that time. An Earth, two thirds its present size just 1.5 billion years ago is not a possibility.
 
@@ -77,7 +77,7 @@ Oxygen is the waste product of photosynthesis, itself a biological process. 3.8 
 
 A period of “thousands of years” during which the “sun never shone on the earth’s surface” would have wiped out all photosynthetic organisms. Thus the incredibly complicated oxygen producing process of photosynthesis would have needed to evolve all over again. But the evidence is for a sharp rise in atmospheric oxygen commencing in this period, rising towards 10% of current levels by its end, 1.0 billion years ago.[^3],[^4]
 
-> **57:8.1**: 1,000,000,000 years ago. “The planet had attained approximately its present size. . . . The real geologic history of Urantia begins with the cooling of the earth’s crust sufficiently to cause the formation of the **first** ocean. Water-vapor condensation on the cooling surface of the earth, once begun, continued until it was virtually complete. By the end of this period the ocean was world-wide, covering the entire planet to an average depth of over one mile. The tides were then in play much as they are now observed, but this primitive ocean was not salty; it was practically a fresh-water covering for the world. In those days, most of the chlorine was combined with various metals, but there was enough, in union with hydrogen, to render this water faintly acid.” ([UB 57:8.1-3](/en/The_Urantia_Book/57#p8_1))
+> **57:8.1**: 1,000,000,000 years ago. “The planet had attained approximately its present size. . . . The real geologic history of Urantia begins with the cooling of the earth’s crust sufficiently to cause the formation of the **first** ocean. Water-vapor condensation on the cooling surface of the earth, once begun, continued until it was virtually complete. By the end of this period the ocean was world-wide, covering the entire planet to an average depth of over one mile. The tides were then in play much as they are now observed, but this primitive ocean was not salty; it was practically a fresh-water covering for the world. In those days, most of the chlorine was combined with various metals, but there was enough, in union with hydrogen, to render this water faintly acid.” (<a id="a79_787"></a>[UB 57:8.1-3](/en/The_Urantia_Book/57#p8_1))
 
 **Comment:** The Urantia Paper describes a period of 500,000,000 years prior to this billion year period during which “the surface of the planet was bombarded by meteorites so that it increased its mass by one third, for much of the time was a fiery inferno due to volcanic activity, and for thousands of years was enveloped in steam.” And ocean formation commenced only after this period.
 
@@ -94,7 +94,7 @@ The description in the Paper is diametrically opposed to the evidence of modern 
 > To weakest hope will cling.
 > _A. Bunn_
 
-> **57:8.23**: 750,000,000 years ago the first breaks in the continental land mass began. . . ([UB 57:8.23](/en/The_Urantia_Book/57#p8_23))
+> **57:8.23**: 750,000,000 years ago the first breaks in the continental land mass began. . . (<a id="a96_95"></a>[UB 57:8.23](/en/The_Urantia_Book/57#p8_23))
 
 **Comment:** We finally arrive at what is a truly prophetic statement for the period in which it was made. This breakup of a single land mass is the commencement of continental drift, now a virtually unopposed theory. But up until towards the end of the 1950 period it was vigorously opposed by the vast majority of professional geologists. The concept was put forward around 1910 by Alfred Wegener and drew almost hysterical opposition from many prominent geologists.[^1]
 
@@ -104,7 +104,7 @@ The turning point came with the discovery of sea floor spreading at the Atlantic
 
 In the 1980’s, geologists started to publish their belief that the first breakdown of a single continent commenced much earlier, around 500,000,000 years ago. By 1995, this had blown out to 750,000,000, the same period as given in the Urantia Paper.[^2] So was continental drift, commencing 750 million years ago just a lucky guess? There is only one chance in hundreds of it being so. But if not by chance, why have the revelators given us what appears to be an utterly ridiculous account of other aspects of geological history?
 
-> “550,000,000 years ago the Life Carrier corps returned to Urantia. In co-operation with spiritual powers and superphysical forces we organized and initiated the original life patterns of this world and planted them in the hospitable waters of the realm. All planetary life (aside from extraplanetary personalities) down to the days of Caligastia, the Planetary Prince, had its origin in our three original, identical, and simultaneous marine-life implantations. These three life implantations have been designated as: the central or Eurasian-African, the eastern or Australasian, and the western, embracing Greenland and the Americas.” ([UB 58:4.2](/en/The_Urantia_Book/58#p4_2))
+> “550,000,000 years ago the Life Carrier corps returned to Urantia. In co-operation with spiritual powers and superphysical forces we organized and initiated the original life patterns of this world and planted them in the hospitable waters of the realm. All planetary life (aside from extraplanetary personalities) down to the days of Caligastia, the Planetary Prince, had its origin in our three original, identical, and simultaneous marine-life implantations. These three life implantations have been designated as: the central or Eurasian-African, the eastern or Australasian, and the western, embracing Greenland and the Americas.” (<a id="a106_639"></a>[UB 58:4.2](/en/The_Urantia_Book/58#p4_2))
 
 > They are not long, the weeping and the laughter, 
 > Love and desire and hate: 
@@ -118,7 +118,7 @@ In the 1980’s, geologists started to publish their belief that the first break
 > The market price, they said.
 > _Emily Dickenson_
 
-> **58:4.3**: “500,000,000 years ago primitive marine vegetable life was well established on Urantia.” ([UB 58:4.3](/en/The_Urantia_Book/58#p4_3))
+> **58:4.3**: “500,000,000 years ago primitive marine vegetable life was well established on Urantia.” (<a id="a120_104"></a>[UB 58:4.3](/en/The_Urantia_Book/58#p4_3))
 
 **Comment:** Primitive marine vegetable life of both prokaryote (no nucleus housing the chromosome) and eukaryote forms (chromosomes are contained in a nucleus) had for long existed on Urantia. The prokaryotes were in existence close to 4 billion years ago while the eukaryotes, including photosynthetic algae, had been present for about 2 billion years.
 
@@ -128,7 +128,7 @@ The only way to reconcile the Urantia Papers version of the beginning of life on
 
 Evidence of our direct relationship to the early forms that we call “life” is present in the DNA of our shared genes—so these forms would need to be classed as pre-life if the Revelators’ assertion is correct. Of course, new readers would not be likely to rationalize such an apparent error.
 
-> **59:1.2**: 400,000,000 years ago marine life, both vegetable and animal, is fairly well distributed over the whole world. The world climate grows slightly warmer and becomes more equable. There is a general inundation of the seashores of the various continents, particularly of North and South America. New oceans appear, and the older bodies of water are greatly enlarged. ([UB 59:1.2-4](/en/The_Urantia_Book/59#p1_2))
+> **59:1.2**: 400,000,000 years ago marine life, both vegetable and animal, is fairly well distributed over the whole world. The world climate grows slightly warmer and becomes more equable. There is a general inundation of the seashores of the various continents, particularly of North and South America. New oceans appear, and the older bodies of water are greatly enlarged. (<a id="a130_378"></a>[UB 59:1.2-4](/en/The_Urantia_Book/59#p1_2))
 > 
 > Vegetation now for the first time crawls out upon the land and soon makes considerable progress in adaptation to a nonmarine habitat.
 > 
@@ -136,11 +136,11 @@ Evidence of our direct relationship to the early forms that we call “life” i
 
 **Comment:** According to modern paleontology, most of the known phyla were already represented in the Cambrian period, 570-505 million years ago.[^3] The multicellular priapulid worms were already diverse, fossils of annelid worm are present, also sponges, coelenterates, arthropods, trilobites, and crustaceans. Air-breathing scorpions are found in the Silurian period, 410-435 million years ago.[^3]
 
-> **59:1.20**: This was the biogeologic picture of Urantia at the end of that long period of the world’s history, embracing fifty million years, designated by your geologists as the Cambrian. ([UB 59:1.20](/en/The_Urantia_Book/59#p1_20))
+> **59:1.20**: This was the biogeologic picture of Urantia at the end of that long period of the world’s history, embracing fifty million years, designated by your geologists as the Cambrian. (<a id="a138_193"></a>[UB 59:1.20](/en/The_Urantia_Book/59#p1_20))
 
 **Comment**: This curious statement appears at the end of a section commencing at 360,000,000 years ago so would cover from 410-360 million years ago. As far back as the 1950’s the Cambrian period was given as from 540,000,000 to 500,000,000 years ago.
 
-> **59:2.9**: 310,000,000 years ago. “The marine fauna developed to the point where every type of life below the vertebrate scale was represented in the fossils of those rocks which were laid down during these times. But all of these animals were marine organisms. No land animals had yet appeared except a few types of worms which burrowed along the seashores, nor had the land plants yet overspread the continents; there was still too much carbon dioxide in the air to permit the existence of air breathers.” ([UB 59:2.9](/en/The_Urantia_Book/59#p2_9))
+> **59:2.9**: 310,000,000 years ago. “The marine fauna developed to the point where every type of life below the vertebrate scale was represented in the fossils of those rocks which were laid down during these times. But all of these animals were marine organisms. No land animals had yet appeared except a few types of worms which burrowed along the seashores, nor had the land plants yet overspread the continents; there was still too much carbon dioxide in the air to permit the existence of air breathers.” (<a id="a142_512"></a>[UB 59:2.9](/en/The_Urantia_Book/59#p2_9))
 
 **Comment:** Air-breathing scorpions (an animal) were present in the Silurian period 100 million years earlier. Fossil evidence for land plants exists in the Ordovician (505-438 million years ago) and fossilized tracheids (which are diagnostic of vascular plants) are found in the early Devonian (408-360 million years ago)
 
@@ -156,9 +156,9 @@ Evidence of our direct relationship to the early forms that we call “life” i
 > And things are not what they seem.
 > _Longfellow_
 
-> **59:5.13**: 200,000,000 years ago the really active stages of the Carboniferous period began. For twenty million years prior to this time the earlier coal deposits were being laid down, but now the more extensive coal-formation activities were in process. The length of the actual coal-deposition epoch was a little over twenty-five million years. ([UB 59:5.13](/en/The_Urantia_Book/59#p5_13))
+> **59:5.13**: 200,000,000 years ago the really active stages of the Carboniferous period began. For twenty million years prior to this time the earlier coal deposits were being laid down, but now the more extensive coal-formation activities were in process. The length of the actual coal-deposition epoch was a little over twenty-five million years. (<a id="a158_352"></a>[UB 59:5.13](/en/The_Urantia_Book/59#p5_13))
 > 
-> “180,000,000 years ago brought the close of the Carboniferous period, during which coal had been formed all over the world—in Europe, India, China, North Africa, and the Americas.” ([UB 59:5.20](/en/The_Urantia_Book/59#p5_20))
+> “180,000,000 years ago brought the close of the Carboniferous period, during which coal had been formed all over the world—in Europe, India, China, North Africa, and the Americas.” (<a id="a160_184"></a>[UB 59:5.20](/en/The_Urantia_Book/59#p5_20))
 
 **Comment**: Modern geology places the Carboniferous at from 360,000,000 to 286,000,000 years ago. In the 1950 period some geologists drew the boundaries at 320,000,000 to 260,000,000 years ago. It would be interesting to obtain information on the geological time scale for the 1920 to 1935 period. As with other commentaries on matters of science and cosmology in the Urantia Papers, it is possible that much of the information on paleontology is drawn from one or two text books that were current in that period. If so, they will eventually come to light.
 
@@ -166,19 +166,19 @@ However the time scale for continental drift is another matter, the commencing p
 
 By 1955 a new estimate made from radiometric data from meteorites put the solar system’s age at 4.6 billion years. Could this new information have been used in writing the account given in the Urantia Papers? To do so would have required a complete rewriting of at least 50 pages. In 1955, far too many people had been involved in checking the galley proofs for the book for this to have been even a remote possibility.
 
-Further curiosities are statements such as 45,000,000 years ago “the ancestors of kangaroos (marsupials) roamed Australia” ([UB 61:1.9](/en/The_Urantia_Book/61#p1_9)) and around this time, “a southern land bridge connected Australia, Antarctica, and South America.” ([UB 61:2.3](/en/The_Urantia_Book/61#p2_3)) At the time this was written, the concept of wandering continents was heresy—which left paleontologists debating about how marsupials could have existed in both South America and Australia. The 1982 discovery of marsupial fossils at Seymour Island in Antarctica confirmed that their migration between these continents had indeed been possible.[^3]
+Further curiosities are statements such as 45,000,000 years ago “the ancestors of kangaroos (marsupials) roamed Australia” (<a id="a168_124"></a>[UB 61:1.9](/en/The_Urantia_Book/61#p1_9)) and around this time, “a southern land bridge connected Australia, Antarctica, and South America.” (<a id="a168_267"></a>[UB 61:2.3](/en/The_Urantia_Book/61#p2_3)) At the time this was written, the concept of wandering continents was heresy—which left paleontologists debating about how marsupials could have existed in both South America and Australia. The 1982 discovery of marsupial fossils at Seymour Island in Antarctica confirmed that their migration between these continents had indeed been possible.[^3]
 
-Likewise ([UB **60:3.2**](/en/The_Urantia_Book/60#p3_2)) tells us “. . . as the continental land drift continued, it met with the first great obstruction on the deep floor of the Pacific. This contention of geologic forces gave impetus to the formation of the whole vast north and south mountain range extending from Alaska down through Mexico to Cape Horn.”
+Likewise (<a id="a170_10"></a>[UB **60:3.2**](/en/The_Urantia_Book/60#p3_2)) tells us “. . . as the continental land drift continued, it met with the first great obstruction on the deep floor of the Pacific. This contention of geologic forces gave impetus to the formation of the whole vast north and south mountain range extending from Alaska down through Mexico to Cape Horn.”
 
 **Comment:** The concept of plate tectonics and the Pacific plate diving under the American plates and pushing up the coastal mountain chains did not become an acceptable hypothesis until long after the The Urantia Book was published.
 
-> **60:3.12**: 75,000,000 years ago marks the end of continental drift. ([UB 60:3.12](/en/The_Urantia_Book/60#p3_12))
+> **60:3.12**: 75,000,000 years ago marks the end of continental drift. (<a id="a174_73"></a>[UB 60:3.12](/en/The_Urantia_Book/60#p3_12))
 
 **Comment:** Error returns. Drift continues. Satellite pictures show that, taking Africa as a fixed point, the Australian plate moves north at 8.4 cm/yr (4000 miles/75 million yrs); the South American plate west at 3.2 cm/yr; the Arabian plate north at 2.6 cm/yr; the Pacific plate north east at 10.6 cm/yr., etc. Plate movement is expected to continue far into the future.[^10]
 
 There are statements outside of the geological and paleontological history of our planet that will be seen as simple error by new readers. For example, the human chromosome number is given as 48 instead of 46; the distance to Andromeda is given as less than I million light years instead of 2.2 million; elements with more than 100 orbital electrons are said to decay “instantaneously,” whereas the man made element 101, mendelevium 258 has a half-life of 54 days. Most such errors merely reiterate beliefs current in the mid 1930’s.
 
-New errors now emerging are the migration of the red man to the Americas that is given in the Papers as occurring as a single incident 85,000 years ago ([UB 64:6.3](/en/The_Urantia_Book/64#p6_3)), which contrasts with recent work indicating that at least five separate migrations occurred between 47,650 to 13,000 years ago.8 It also appears that the “Out of Africa” hypothesis for the origin of modern man, a story that would be impossible to fit with that in the Urantia Papers, is almost certainly correct.[^9]
+New errors now emerging are the migration of the red man to the Americas that is given in the Papers as occurring as a single incident 85,000 years ago (<a id="a180_153"></a>[UB 64:6.3](/en/The_Urantia_Book/64#p6_3)), which contrasts with recent work indicating that at least five separate migrations occurred between 47,650 to 13,000 years ago.8 It also appears that the “Out of Africa” hypothesis for the origin of modern man, a story that would be impossible to fit with that in the Urantia Papers, is almost certainly correct.[^9]
 
 Obviously this extraordinary contrast between error and amazingly prophetic statement in these same Urantia Papers constitutes a mystery—one that has yet to be solved. Surely though, we must seriously consider the possibility that what is now obviously erroneous material was put there, waiting to be discovered, because it serves some hidden purpose of the revelators.
 

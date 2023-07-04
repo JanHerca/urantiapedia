@@ -34,9 +34,9 @@ dateCreated: 2022-09-26T16:50:33.688Z
 </figure>
 
 
-This discourse ([UB 133:5.4](/en/The_Urantia_Book/133#p5_4)) was between Jesus and a Greek philosopher, ostensibly in about 20 A.D. Coupled with the knowledge of our personal indwelling by the spirit of the Father, it outlines all that is needed for comprehending the purpose of our human existence.
+This discourse (<a id="a36_16"></a>[UB 133:5.4](/en/The_Urantia_Book/133#p5_4)) was between Jesus and a Greek philosopher, ostensibly in about 20 A.D. Coupled with the knowledge of our personal indwelling by the spirit of the Father, it outlines all that is needed for comprehending the purpose of our human existence.
 
-> “Scientists may some day measure the energy, or force manifestations, of gravitation, light, and electricity, but these same scientists can never (scientifically) tell you what these universe phenomena are.” ([UB 133:5.4](/en/The_Urantia_Book/133#p5_4))
+> “Scientists may some day measure the energy, or force manifestations, of gravitation, light, and electricity, but these same scientists can never (scientifically) tell you what these universe phenomena are.” (<a id="a38_211"></a>[UB 133:5.4](/en/The_Urantia_Book/133#p5_4))
 
 Today this remains as true as ever. Some may think we know, or can know, it all. The reality is that when we put our knowledge under the microscope, the extent of that knowledge, though praiseworthy and in many ways quite incredible in its ingenuity, basically it is superficial.
 
@@ -48,25 +48,25 @@ Every item of our knowledge can be extended more deeply until we come to a point
 
 > O Timothy, keep that which is committed to thy trust, avoiding profane and vain babblings, and oppositions of science falsely so called. [Timothy 6:20](/en/Bible/Timothy/6#v20).
 
-> The doing of the Will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God. [UB 111:5.1](/en/The_Urantia_Book/111#p5_1)
+> The doing of the Will of God is nothing more or less than an exhibition of creature willingness to share the inner life with God. <a id="a50_132"></a>[UB 111:5.1](/en/The_Urantia_Book/111#p5_1)
 
-> “Science deals with physical-energy activities; religion deals with eternal values. True philosophy grows out of the wisdom which does its best to correlate these quantitative and qualitative observations.” ([UB 133:5.4](/en/The_Urantia_Book/133#p5_4))
+> “Science deals with physical-energy activities; religion deals with eternal values. True philosophy grows out of the wisdom which does its best to correlate these quantitative and qualitative observations.” (<a id="a52_210"></a>[UB 133:5.4](/en/The_Urantia_Book/133#p5_4))
 
 Philosopher Ludwig Wittgenstein wrote: “_Philosophy is not a cognitive discipline. There are no philosophical propositions, no philosophical knowledge. The goal of philosophy is not knowledge but understanding._”
 
-> “There always exists the danger that the purely physical scientist may become afflicted with mathematical pride and statistical egotism, not to mention spiritual blindness.” ([UB 133:5.4](/en/The_Urantia_Book/133#p5_4))
+> “There always exists the danger that the purely physical scientist may become afflicted with mathematical pride and statistical egotism, not to mention spiritual blindness.” (<a id="a56_177"></a>[UB 133:5.4](/en/The_Urantia_Book/133#p5_4))
 
 This problem appears to be rare amongst truly great scientists. Dogmatism and arrogance, as with religionists, belong to a lesser breed.
 
-> “Quantity may be identified as a fact, thus becoming a scientific uniformity. Quality, being a matter of mind interpretation, represents an estimate of values, and must, therefore, remain an experience of the individual.” ([UB 133:5.7](/en/The_Urantia_Book/133#p5_7))
+> “Quantity may be identified as a fact, thus becoming a scientific uniformity. Quality, being a matter of mind interpretation, represents an estimate of values, and must, therefore, remain an experience of the individual.” (<a id="a60_225"></a>[UB 133:5.7](/en/The_Urantia_Book/133#p5_7))
 
 Value and quality are always relative. Like beauty, they are in the eye of the beholder.
 
-> “There is unity in the cosmic universe if you could only discern its workings in actuality. The real universe is friendly to every child of the eternal God.” ([UB 133:5.8](/en/The_Urantia_Book/133#p5_8))
+> “There is unity in the cosmic universe if you could only discern its workings in actuality. The real universe is friendly to every child of the eternal God.” (<a id="a64_161"></a>[UB 133:5.8](/en/The_Urantia_Book/133#p5_8))
 
 The real universe is God’s universe and it is friendly to real personalities who surrender their free will back to God in order to seek the perfection that is God. The alternative choice is the sovereignty of self-will—the final effect of which is alienation from reality itself.
 
-> “The real problem is: How can the finite mind of man achieve a logical, true, and corresponding unity of thought? This universe-knowing state of mind can be had only by conceiving that the quantitative fact and the qualitative value have a common causation in the Paradise Father.” ([UB 133:5.8](/en/The_Urantia_Book/133#p5_8))
+> “The real problem is: How can the finite mind of man achieve a logical, true, and corresponding unity of thought? This universe-knowing state of mind can be had only by conceiving that the quantitative fact and the qualitative value have a common causation in the Paradise Father.” (<a id="a68_285"></a>[UB 133:5.8](/en/The_Urantia_Book/133#p5_8))
 
 > He who would do good to another must do it in minute particulars. General good is the plea of the scoundrel, hypocrite, and flatterer. 
 >    William Blake
@@ -78,19 +78,19 @@ Jesus informed us that only God is good, that all goodness has its origin in God
 
 Our total faith and trust in the goodness of God and the friendliness of all his universe unifies our minds and our personalities with the God-Spirit-Within—and in spite of any and all conflicting appearances, there is unity.
 
-> “Such a conception of reality yields a broader insight into the purposeful unity of universe phenomena; it even reveals a spiritual goal of progressive personality achievement.” ([UB 133:5.8](/en/The_Urantia_Book/133#p5_8))
+> “Such a conception of reality yields a broader insight into the purposeful unity of universe phenomena; it even reveals a spiritual goal of progressive personality achievement.” (<a id="a80_181"></a>[UB 133:5.8](/en/The_Urantia_Book/133#p5_8))
 
 There is purpose to mortal life—the spiritual goal of the attainment of goodness.
 
-> “And this is a concept of unity which can sense the unchanging background of a living universe of continually changing impersonal relations and evolving personal relationships.” ([UB 133:5.8](/en/The_Urantia_Book/133#p5_8))
+> “And this is a concept of unity which can sense the unchanging background of a living universe of continually changing impersonal relations and evolving personal relationships.” (<a id="a84_181"></a>[UB 133:5.8](/en/The_Urantia_Book/133#p5_8))
 
 The only unchanging thing anywhere is the Eternal God. God is the stable background whose presence our unified minds are able to sense.
 
-> “Matter and spirit and the state intervening between them are three interrelated and inter-associated levels of the true unity of the real universe. Regardless of how divergent the universe phenomena of fact and value may appear to be, they are, after all, unified in the Supreme.” ([UB 133:5.9](/en/The_Urantia_Book/133#p5_9))
+> “Matter and spirit and the state intervening between them are three interrelated and inter-associated levels of the true unity of the real universe. Regardless of how divergent the universe phenomena of fact and value may appear to be, they are, after all, unified in the Supreme.” (<a id="a88_285"></a>[UB 133:5.9](/en/The_Urantia_Book/133#p5_9))
 
 The state intervening between matter and spirit is “morontia.” But all is one in the experiential God of the finite universes, the Supreme Being.
 
-> “Reality of material existence attaches to unrecognized energy as well as to visible matter. When the energies of the universe are so slowed down that they acquire the requisite degree of motion, then under favorable conditions, these same energies become mass.” ([UB 133:5.10](/en/The_Urantia_Book/133#p5_10))
+> “Reality of material existence attaches to unrecognized energy as well as to visible matter. When the energies of the universe are so slowed down that they acquire the requisite degree of motion, then under favorable conditions, these same energies become mass.” (<a id="a92_266"></a>[UB 133:5.10](/en/The_Urantia_Book/133#p5_10))
 
 Prior to the a-bomb, this concept was virtually unthinkable for the human psyche. Our physicists now seek to confirm that somewhere above an energy level of 20 billion billion electron volts, there is a zone of zero mass. As energy levels decrease, an as yet hypothetical particle, the Higgs boson, provides the mechanism that breaks the symmetry of the zero mass hypothesis, thus enabling the existence of the low mass particles that make up our finite world of matter.
 
@@ -100,7 +100,7 @@ Mind is real and distinct from matter even at the level of the physical-energy-a
 
 > It is better to give up trying to get others to love you and to concentrate on being somebody whom others can love.
 
-> Of all the dangers which beset man's mortal nature and jeopardize his spiritual integrity, pride is the greatest. ([UB 111:6.9](/en/The_Urantia_Book/111#p6_9))
+> Of all the dangers which beset man's mortal nature and jeopardize his spiritual integrity, pride is the greatest. (<a id="a102_117"></a>[UB 111:6.9](/en/The_Urantia_Book/111#p6_9))
 
 > “And the fundamental cause of this universe of energy-mass, mind, and spirit, is eternal—it exists and consists in the nature and reactions of the Universal Father and his absolute co-ordinates.”
 

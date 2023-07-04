@@ -43,9 +43,9 @@ A decision to provide a revelation having been made, the order of events would s
 
 To provide the revelation, two major problems had to be solved. Firstly, by what means could the revelation be placed into receptive hands on Urantia? Secondly, where could a group of individuals be located having the attributes necessary to receive, believe, print, and distribute this revelation?
 
-The first problem led the revelators to using an unusual human individual who became known to Urantia Book readers as the “Sleeping Subject.” Information provided by the revelators ([UB 110:5.7](/en/The_Urantia_Book/110#p5_7)) indicates that this chosen subject was asleep and without any consciousness of proceedings whenever he was operating as an agent of communication. Moreover, he was cooperative about being used in this way when required.
+The first problem led the revelators to using an unusual human individual who became known to Urantia Book readers as the “Sleeping Subject.” Information provided by the revelators (<a id="a45_182"></a>[UB 110:5.7](/en/The_Urantia_Book/110#p5_7)) indicates that this chosen subject was asleep and without any consciousness of proceedings whenever he was operating as an agent of communication. Moreover, he was cooperative about being used in this way when required.
 
-> The Kingdom of God is within you, but faith—and faith alone—will pass you through its portals. (sep. [UB 140:1.4](/en/The_Urantia_Book/140#p1_4))
+> The Kingdom of God is within you, but faith—and faith alone—will pass you through its portals. (sep. <a id="a47_103"></a>[UB 140:1.4](/en/The_Urantia_Book/140#p1_4))
 
 ## Choice of the Sadlers
 
@@ -130,7 +130,7 @@ Completing these scenarios, somewhere further along in time, one or more members
 
 ## The Error Content
 
-These scenarios have the advantage of explaining why there are many errors in the cosmology of the Papers. Mainly, they would have come about from the questions posed by the Forum that they believed “no human being could answer.” Many such questions would have required the revelators to provide unearned knowledge—knowledge that they were proscribed from giving. ([UB 101:4.1](/en/The_Urantia_Book/101#p4_1)) So, to avoid the whole project falling apart, the revelators appear to have given answers from the forefront of knowledge of that time, full knowing that much of it would later prove to be erroneous.
+These scenarios have the advantage of explaining why there are many errors in the cosmology of the Papers. Mainly, they would have come about from the questions posed by the Forum that they believed “no human being could answer.” Many such questions would have required the revelators to provide unearned knowledge—knowledge that they were proscribed from giving. (<a id="a132_365"></a>[UB 101:4.1](/en/The_Urantia_Book/101#p4_1)) So, to avoid the whole project falling apart, the revelators appear to have given answers from the forefront of knowledge of that time, full knowing that much of it would later prove to be erroneous.
 
 [Note: The Book’s error content has been markedly expanded recently because of new, highly accurate methods of dating rock strata using zircon crystals. About thirty of these errors will be listed in the next issue of Innerface.]
 
@@ -163,7 +163,7 @@ A possible example of this cautious attitude may be seen in the revision of the 
 
 One of the many ways that the Papers have attempted to countermand biblical fundamentalism is to modify Old Testament stories. Thus, Andon and Fonta are partial substitutes for Adam and Eve but instead of them being the sole progenitors of the human race we have:
 
-> “Subsequent to the appearance of Andon and Fonta, there evolved no less than seven thousand favorable strains which could have achieved some sort of human development. And many of these better stocks were subsequently assimilated by the various branches of the expanding human species.” ([UB 65:3.4](/en/The_Urantia_Book/65#p3_4)) Here the Papers lend support to the diversity at origin theory.
+> “Subsequent to the appearance of Andon and Fonta, there evolved no less than seven thousand favorable strains which could have achieved some sort of human development. And many of these better stocks were subsequently assimilated by the various branches of the expanding human species.” (<a id="a165_290"></a>[UB 65:3.4](/en/The_Urantia_Book/65#p3_4)) Here the Papers lend support to the diversity at origin theory.
 
 And in a later stage of their Adam and Eve story, the revelators absolve the biblical pair from the inherited sin that their disobedience was said to have bestowed upon the whole of the human race. In doing so, they undermine the veracity of many New Testament-based dogma such as the atonement, the need for the virgin birth of Jesus, plus related doctrines such as Mary’s immaculate conception and her later bodily ascension. So whether or not the Adam and Eve story as given in the Urantia Papers is some form of “progressive and evolutionary truth,” is not so important as that these modified stories demand careful thought concerning established beliefs—but without them being direct frontal attacks that might excessively distress new readers of the revelation to the point they abandon further reading.
 
@@ -175,7 +175,7 @@ The lengths to which the revelators were prepared to go in attempting to ensure 
 
 First consider their “passenger birds.” The Papers have these incredible creatures being employed like taxis to ferry Adam and Eve to meeting places in the garden. If this was not remarkable enough we are told:
 
-> “These enormous birds are able to carry one or two average-sized men for a nonstop flight of over five hundred miles. . . These birds are most intelligent, very obedient, and unbelievably affectionate.” And they were “often able to speak many words of the languages of the realm.” ([UB 52:1.5](/en/The_Urantia_Book/52#p1_5))
+> “These enormous birds are able to carry one or two average-sized men for a nonstop flight of over five hundred miles. . . These birds are most intelligent, very obedient, and unbelievably affectionate.” And they were “often able to speak many words of the languages of the realm.” (<a id="a177_284"></a>[UB 52:1.5](/en/The_Urantia_Book/52#p1_5))
 
 A second example of deliberately stretching human gullibility beyond all reasonable limits is the origin of those invisible creatures known as the secondary midwayers. Their grandparents are given as Adamson and Ratta, both labeled as belonging to a type of superhuman being who looked and acted “normal” and were able to interbreed with ordinary humans—hence were matched with us genetically and would qualify as the same species as ourselves.
 
@@ -183,7 +183,7 @@ However the Papers have this remarkable pair marry one another, then have sixty 
 
 The results must have amazed him. The pairs were able to reproduce themselves every seventy days, their offspring not only being invisible but were born fully developed and fully mature—“though they never ceased to grow in wisdom and experience.”
 
-These unusual offspring were called the secondary midwayers. Though incapable of procreation, they have no need for sleep or for earthly material food, being energized from “space emanations” that are a mystery to us poor humans. And they are immortal. ([UB 77:5.6](/en/The_Urantia_Book/77#p5_6))
+These unusual offspring were called the secondary midwayers. Though incapable of procreation, they have no need for sleep or for earthly material food, being energized from “space emanations” that are a mystery to us poor humans. And they are immortal. (<a id="a185_254"></a>[UB 77:5.6](/en/The_Urantia_Book/77#p5_6))
 
 If Urantia Book readers read such material in the Bible or the Koran they would likely collapse in raucous laughter. So surely these two examples must force us to consider whether the revelators have repeatedly challenged our intellects, virtually begging us to refrain from converting their precious revelation into an infallible icon.
 
@@ -191,19 +191,19 @@ The revelators also told us:
 
 
 - “Let it be made clear that revelation is not necessarily inspired. The cosmology of these revelations is not inspired.”
-- And, “within a few short years many of our statements on the physical sciences will stand in need of revision in consequence of additional scientific developments and discoveries.” ([UB 101:4.2](/en/The_Urantia_Book/101#p4_2))
-- “All finite knowledge and creature understanding are relative. Information and intelligence, gleaned from even high sources, is only relatively complete, locally accurate, and personally true.” ([UB 2:7.1](/en/The_Urantia_Book/2#p7_1))
+- And, “within a few short years many of our statements on the physical sciences will stand in need of revision in consequence of additional scientific developments and discoveries.” (<a id="a193_184"></a>[UB 101:4.2](/en/The_Urantia_Book/101#p4_2))
+- “All finite knowledge and creature understanding are relative. Information and intelligence, gleaned from even high sources, is only relatively complete, locally accurate, and personally true.” (<a id="a194_197"></a>[UB 2:7.1](/en/The_Urantia_Book/2#p7_1))
 
 > It is more important to look forward to the future than to dwell in the past.
 
-> “Physical facts are fairly uniform, but truth is a living and flexible factor in the philosophy of the universe. Evolving personalities are only partially wise and relatively true in their communications. They can be certain only as far as their personal experience extends. That which apparently may be wholly true in one place may be only relatively true in another segment of creation.” ([UB 2:7.2](/en/The_Urantia_Book/2#p7_2))
+> “Physical facts are fairly uniform, but truth is a living and flexible factor in the philosophy of the universe. Evolving personalities are only partially wise and relatively true in their communications. They can be certain only as far as their personal experience extends. That which apparently may be wholly true in one place may be only relatively true in another segment of creation.” (<a id="a198_393"></a>[UB 2:7.2](/en/The_Urantia_Book/2#p7_2))
 
 
 In the light of all these warnings (there are many, many more), readers would have to be equipped with tunnel vision in order to maintain belief in any infallible revelation ever being available to us humans.
 
 The absence of certainty in this life is the way things are meant to be. For to make a true faith decision, we must be uncertain. If we have certainty, then our decision is made by logic, not by faith. The revelators confirm that postulate with their own resounding truths:
 
-> “That, then, is the primary or elementary course which confronts the faith-tested and much-traveled pilgrims of space. But long before reaching Havona, these ascendant children of time have learned to feast upon uncertainty, to fatten upon disappointment, to enthuse over apparent defeat, to invigorate in the presence of difficulties, to exhibit indomitable courage in the face of immensity, and to exercise unconquerable faith when confronted with the challenge of the inexplicable. Long since, the battle cry of these pilgrims became: ‘In liaison with God, nothing—absolutely nothing—is impossible.’” ([UB 26:5.3](/en/The_Urantia_Book/26#p5_3))
+> “That, then, is the primary or elementary course which confronts the faith-tested and much-traveled pilgrims of space. But long before reaching Havona, these ascendant children of time have learned to feast upon uncertainty, to fatten upon disappointment, to enthuse over apparent defeat, to invigorate in the presence of difficulties, to exhibit indomitable courage in the face of immensity, and to exercise unconquerable faith when confronted with the challenge of the inexplicable. Long since, the battle cry of these pilgrims became: ‘In liaison with God, nothing—absolutely nothing—is impossible.’” (<a id="a205_607"></a>[UB 26:5.3](/en/The_Urantia_Book/26#p5_3))
 
 > Hope sees the invisible,feels the intangible, and achieves the impossible.
 
@@ -216,7 +216,7 @@ The absence of certainty in this life is the way things are meant to be. For to 
 
 We have seen that the Forum was established on a question and answer basis, the Forum putting questions to the revelators and later receiving a Paper in response to the questions it posed. Ultimately these same Papers became the basis for Parts 1, 2, and 3 of the Urantia Papers that have since been printed, along with Part 4, as _The Urantia Book_. In learning about the origins of these Papers we get a deeper appreciation of the peculiarities of the content--peculiarities that may appear to range from the sublime to the ridiculous. However the sublime in these Papers can be so sublime that their very sublimity forces the conclusion that the ridiculous must be deliberate. And it must have a rational purpose. Important for our understanding is the following from the revelators:
 
-> “If revelation is to exalt and upstep the religions of evolution, then must such divine visitations portray teachings which are not too far removed from the thought and reactions of the age in which they are presented. Thus must and does revelation keep in touch with evolution. Always must the religion of revelation be limited by man's capacity for receptivity.” ([UB 92:4.1](/en/The_Urantia_Book/92#p4_1))
+> “If revelation is to exalt and upstep the religions of evolution, then must such divine visitations portray teachings which are not too far removed from the thought and reactions of the age in which they are presented. Thus must and does revelation keep in touch with evolution. Always must the religion of revelation be limited by man's capacity for receptivity.” (<a id="a218_368"></a>[UB 92:4.1](/en/The_Urantia_Book/92#p4_1))
 
 This statement demands our attention, it demands giving thought to the kind of problems and difficulties to be faced by all celestial or divine beings who are commissioned to provide revelation to us finite evolutionary mortal beings whose spiritual receptivity and intellectual capacity is only meagerly above the animal level.
 
@@ -238,15 +238,15 @@ The life and teachings of Jesus appears to have attracted little attention over 
 
 The question is why? In Part 1, Paper 2, “The Nature of God,” has in its opening paragraph:
 
-> “The nature of God can best be understood by the **revelation of the Father which Michael of Nebadon unfolded** in his manifold teachings and in his superb mortal life in the flesh.” ([UB 2:0.1](/en/The_Urantia_Book/2#p0_1))
+> “The nature of God can best be understood by the **revelation of the Father which Michael of Nebadon unfolded** in his manifold teachings and in his superb mortal life in the flesh.” (<a id="a240_186"></a>[UB 2:0.1](/en/The_Urantia_Book/2#p0_1))
 
 And in its second paragraph:
 
-> “The nature of God can be studied in a revelation of supreme ideas, the divine character can be envisaged as a portrayal of supernal ideals, but the most enlightening and spiritually edifying of all revelations of the divine nature is to be found in the **comprehension of the religious life of Jesus of Nazareth, both before and after his attainment of full consciousness of divinity.** If the incarnated life of Michael is taken as the background of the revelation of God to man, we may attempt to put in human word symbols certain ideas and ideals concerning the divine nature which may possibly contribute to a further illumination and unification of the human concept of the nature and the character of the personality of the Universal Father.” ([UB 2:0.2](/en/The_Urantia_Book/2#p0_2))
+> “The nature of God can be studied in a revelation of supreme ideas, the divine character can be envisaged as a portrayal of supernal ideals, but the most enlightening and spiritually edifying of all revelations of the divine nature is to be found in the **comprehension of the religious life of Jesus of Nazareth, both before and after his attainment of full consciousness of divinity.** If the incarnated life of Michael is taken as the background of the revelation of God to man, we may attempt to put in human word symbols certain ideas and ideals concerning the divine nature which may possibly contribute to a further illumination and unification of the human concept of the nature and the character of the personality of the Universal Father.” (<a id="a244_753"></a>[UB 2:0.2](/en/The_Urantia_Book/2#p0_2))
 
 Then in the third of this short three paragraph introduction to Paper 2, we find:
 
-> “All our efforts to enlarge the human concept of God would be well-nigh futile except for the fact that **the mortal mind is indwelt by the bestowed Adjuster of the Universal Father** **and is pervaded by the Truth Spirit of the Creator Son.”  ([UB 2:0.3](/en/The_Urantia_Book/2#p0_3))
+> “All our efforts to enlarge the human concept of God would be well-nigh futile except for the fact that **the mortal mind is indwelt by the bestowed Adjuster of the Universal Father** **and is pervaded by the Truth Spirit of the Creator Son.”  (<a id="a248_247"></a>[UB 2:0.3](/en/The_Urantia_Book/2#p0_3))
 
 Coming from celestial revelators in the materialistic age that peaked around the 1930's, that is mind blowing stuff. It probably came long after doubters about the credentials of the revelators would surely have left the Forum. But the fact that these most marvelous and compelling revelations elicited little or no interest, and apparently led to no further questions of significance from the Forum members defies credibility.
 
@@ -264,13 +264,13 @@ Regarding its formation Dr Sadler says, “It was inevitable that some sort of f
 
 A biased view against the Christian Church, even against religion itself, appears to have existed among these early Urantians, amounting almost to paranoia among many later devotees to the book. But there are many statements in the Papers that indicate the major purpose of the revelation is the regeneration of Christianity:
 
-> “What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name.” ([UB 196:1.2](/en/The_Urantia_Book/196#p1_2))
+> “What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name.” (<a id="a266_207"></a>[UB 196:1.2](/en/The_Urantia_Book/196#p1_2))
 
-> “If the Christian church would only dare to espouse the Master's program, thousands of apparently indifferent youths would rush forward to enlist in such a spiritual undertaking….” ([UB 195:10.10](/en/The_Urantia_Book/195#p10_10))
+> “If the Christian church would only dare to espouse the Master's program, thousands of apparently indifferent youths would rush forward to enlist in such a spiritual undertaking….” (<a id="a268_184"></a>[UB 195:10.10](/en/The_Urantia_Book/195#p10_10))
 
-> “But the Christianity of even the twentieth century must not be despised…” ([UB 195:10.12](/en/The_Urantia_Book/195#p10_12))
+> “But the Christianity of even the twentieth century must not be despised…” (<a id="a270_78"></a>[UB 195:10.12](/en/The_Urantia_Book/195#p10_12))
 
-> “The great hope of Urantia lies in the possibility of a new revelation of Jesus with a new and enlarged presentation of his saving message which would spiritually unite in loving service the numerous families of his present-day professed followers.” ([UB 195:10.16](/en/The_Urantia_Book/195#p10_16))
+> “The great hope of Urantia lies in the possibility of a new revelation of Jesus with a new and enlarged presentation of his saving message which would spiritually unite in loving service the numerous families of his present-day professed followers.” (<a id="a272_253"></a>[UB 195:10.16](/en/The_Urantia_Book/195#p10_16))
 
 There are many more such statements, almost all in Part 4, so perhaps the bias was a leftover from the period prior to when Part 4 was received in 1935. However if many Forum members were antagonistic to Christianity or religion or both, then it must be presumed that the revelators organized the receipt of Papers in such a way that the Sunday afternoon discussions were dominated by topics that would hold the members' interest. And if that main interest was in non-religious themes, and  the revelators adhered closely to the proscription against providing unearned knowledge, then almost certainly more and more error would have been introduced into the cosmology in the Papers.
 
@@ -286,7 +286,7 @@ But perhaps their proscription, though being normal universe policy, may be waiv
 
 A further mystery in this saga of the Papers is the long, long delay between their receipt and  their publication. If we accept the Papers as true revelation from a celestial source then the revelators were well aware that the longer the time period that elapsed prior to publication, the greater would be the number of errors that would be exposed in their cosmology.
 
-> All Urantia is waiting for the proclamation of the ennobling message of Jesus, unencumbered by the accumulated doctrines and dogmas of nineteen centuries of contact with the religions of evolutionary origin. The hour is striking for presenting to Buddhism, to Christianity, to Hinduism, even to the peoples of all faiths, not the gospel about Jesus, but the living, spiritual reality of the gospel of Jesus. ([UB 94:12.7](/en/The_Urantia_Book/94#p12_7))
+> All Urantia is waiting for the proclamation of the ennobling message of Jesus, unencumbered by the accumulated doctrines and dogmas of nineteen centuries of contact with the religions of evolutionary origin. The hour is striking for presenting to Buddhism, to Christianity, to Hinduism, even to the peoples of all faiths, not the gospel about Jesus, but the living, spiritual reality of the gospel of Jesus. (<a id="a288_411"></a>[UB 94:12.7](/en/The_Urantia_Book/94#p12_7))
 
 And because of the potential that its error content would drastically cut or even eliminate interest, any delay in publication would shorten the time slot for the revelation to make the impact necessary to ensure its survival, despite its error content. Already, not yet fifty years after publication, acceptance of the Urantia revelation is largely dependent upon the ignorance of the reader in matters of science and cosmology.
 

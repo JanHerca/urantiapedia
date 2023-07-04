@@ -39,9 +39,9 @@ Which is indicative that not even the spontaneous generation of the most primiti
 
 ## Content
 
-> “That we are called Life Carriers should not confuse you. We can and do carry life to the planets, but we brought no life to Urantia. Urantia life is unique, original with the planet. This sphere is a life-modification world; all life appearing hereon was formulated by us right here on the planet. . . .” ([UB 58:4.1](/en/The_Urantia_Book/58#p4_1))
+> “That we are called Life Carriers should not confuse you. We can and do carry life to the planets, but we brought no life to Urantia. Urantia life is unique, original with the planet. This sphere is a life-modification world; all life appearing hereon was formulated by us right here on the planet. . . .” (<a id="a41_309"></a>[UB 58:4.1](/en/The_Urantia_Book/58#p4_1))
 
-> “550,000,000 years ago the Life Carrier corps returned to Urantia. In co-operation with spiritual powers and superphysical forces we organized and initiated the original life patterns of this world and planted them in the hospitable waters of the realm.” ([UB 58:4.2](/en/The_Urantia_Book/58#p4_2))
+> “550,000,000 years ago the Life Carrier corps returned to Urantia. In co-operation with spiritual powers and superphysical forces we organized and initiated the original life patterns of this world and planted them in the hospitable waters of the realm.” (<a id="a43_258"></a>[UB 58:4.2](/en/The_Urantia_Book/58#p4_2))
 
 The fact that what we call life has been upon this planet for billions of years is widely known. Hence the above declaration must come as a puzzle.
 
@@ -51,7 +51,7 @@ In later years the deposition of red sedimentary rocks in which the color is due
 
 The only known process to bring about such high levels of atmospheric oxygen is photosynthesis by living organisms. Many, possibly all, of these deposits date from times prior to 550 million years ago, and present evidence for the occurrence of life forms that pre-date the introduction of life plasm by the Life Carriers. Further evidence comes from the occurrence of several kinds of microfossils thought to be evidence for bacterial or algal cells.
 
-The Urantia Papers state, “_Life does not originate spontaneously but is constructed. . . it appears on the inhabited worlds either by direct importation or as a result of the operation of the Life Carriers._” ([UB 36:0.1](/en/The_Urantia_Book/36#p0_1))
+The Urantia Papers state, “_Life does not originate spontaneously but is constructed. . . it appears on the inhabited worlds either by direct importation or as a result of the operation of the Life Carriers._” (<a id="a53_211"></a>[UB 36:0.1](/en/The_Urantia_Book/36#p0_1))
 
 That statement rules out the possibility that some primitive life forms, originating from other inhabited planets, are able to survive in outer space, and, after floating around among the galaxies, they seed new planets when conditions become favorable.
 
@@ -96,11 +96,11 @@ Initially these Ediacarans were pronounced to be an entirely separate group of o
 
 How then do we account for The Urantia Book’s claim that the Life Carriers first brought life to this planet only 550 million years ago?
 
-One possibility is that this was part of the revelators’ cosmology stated to be “not inspired” that may consist of a “_universe frame_” by which to aid our understanding of our place in the universe scheme of things. ([UB 115:1.1](/en/The_Urantia_Book/115#p1_1))
+One possibility is that this was part of the revelators’ cosmology stated to be “not inspired” that may consist of a “_universe frame_” by which to aid our understanding of our place in the universe scheme of things. (<a id="a98_218"></a>[UB 115:1.1](/en/The_Urantia_Book/115#p1_1))
 
-Alternatively, it may be covered by the following statements: “_The original life plasm of an evolutionary world must contain the full potential for all future developmental variations and for all subsequent evolutionary changes and modifications._” ([UB 36:2.17](/en/The_Urantia_Book/36#p2_17))
+Alternatively, it may be covered by the following statements: “_The original life plasm of an evolutionary world must contain the full potential for all future developmental variations and for all subsequent evolutionary changes and modifications._” (<a id="a100_251"></a>[UB 36:2.17](/en/The_Urantia_Book/36#p2_17))
 
-> “The material self, the ego-entity of human identity, is dependent during the physical life on the continuing function of the material life vehicle, on the continued existence of the unbalanced equilibrium of energies and intellect which, on Urantia, has been given the name life.” ([UB 112:2.20](/en/The_Urantia_Book/112#p2_20))
+> “The material self, the ego-entity of human identity, is dependent during the physical life on the continuing function of the material life vehicle, on the continued existence of the unbalanced equilibrium of energies and intellect which, on Urantia, has been given the name life.” (<a id="a102_285"></a>[UB 112:2.20](/en/The_Urantia_Book/112#p2_20))
 
 It is quite possible that the genetic potential of cell forms prior to the beginning of the Cambrian period was quite incapable of eventually generating “intelligent” living organisms. And that only an organism having a genome with the potential of ultimately evolving to have “intellect” comes within the definition of what the Life Carriers understand as “life.”
 

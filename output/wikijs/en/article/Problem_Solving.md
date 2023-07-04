@@ -39,7 +39,7 @@ Rodan, Alexandria
 > 
 > “**Not my will, but yours, be done.**”
 >
-> ([UB 160:1.10](/en/The_Urantia_Book/160#p1_10))
+> (<a id="a41_3"></a>[UB 160:1.10](/en/The_Urantia_Book/160#p1_10))
 
 > The test of spiritual greatness is the quality of unsdfishness displayed in one's labor for the welfare of others.
 

@@ -31,7 +31,7 @@ dateCreated: 2022-09-26T19:14:54.696Z
 </figure>
 
 
-> The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness. Such a new and righteous vision of morality will attract all that is good in the mind of man and challenge that which is best in the human soul. ([UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
+> The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness. Such a new and righteous vision of morality will attract all that is good in the mind of man and challenge that which is best in the human soul. (<a id="a33_447"></a>[UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
 
 Where do we find these “enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness?” Is there anything anywhere that is comparable to what we already have in the Urantia revelation? The answer to that question appears to be an emphatic, “No!” Which makes the statement self-referential.
 

@@ -44,7 +44,7 @@ dateCreated: 2022-9-9T8:13:39Z
 > 
 > They learned that, when religion is wholly spiritual in motive, it makes all life more worth while, filling it with high purposes, dignifying it with transcendent values, inspiring it with superb motives, all the while comforting the human soul with a sublime and sustaining hope. True religion is designed to lessen the strain of existence; it releases faith and courage for daily living and unselfish serving. Faith promotes spiritual vitality and righteous fruitfulness.
 > 
-> Jesus repeatedly taught his apostles that no civilization could long survive the loss of the best in its religion. And he never grew weary of pointing out to the twelve the great danger of accepting religious symbols and ceremonies in the place of religious experience. His whole earth life was consistently devoted to the mission of thawing out the frozen forms of religion into the liquid liberties of enlightened sonship. ([UB 155:3.3-8](/en/The_Urantia_Book/155#p3_3))
+> Jesus repeatedly taught his apostles that no civilization could long survive the loss of the best in its religion. And he never grew weary of pointing out to the twelve the great danger of accepting religious symbols and ceremonies in the place of religious experience. His whole earth life was consistently devoted to the mission of thawing out the frozen forms of religion into the liquid liberties of enlightened sonship. (<a id="a46_428"></a>[UB 155:3.3-8](/en/The_Urantia_Book/155#p3_3))
 
 > The pathway to God is twofold, to be walked simultaneoushJ. One path is for finding and doing the will of God; the other is for serving his chldren.  Taken singly, these paths become circular leading nowhere.
 

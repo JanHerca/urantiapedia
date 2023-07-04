@@ -34,7 +34,7 @@ dateCreated: 2022-09-26T23:09:13.189Z
 </figure>
 
 
-> “_Do unto others as you would have them do unto you_” ([Tobit 4:15](/en/Bible/Tobit/4#v15); [Matt 7:12](/en/Bible/Matthew/7#v12); [Luke 6:3](/en/Bible/Luke/6#v3); [UB 131:2.11](/en/The_Urantia_Book/131#p2_11), [UB 140:3.15](/en/The_Urantia_Book/140#p3_15), etc. )
+> “_Do unto others as you would have them do unto you_” ([Tobit 4:15](/en/Bible/Tobit/4#v15); [Matt 7:12](/en/Bible/Matthew/7#v12); [Luke 6:3](/en/Bible/Luke/6#v3); <a id="a36_165"></a>[UB 131:2.11](/en/The_Urantia_Book/131#p2_11), <a id="a36_212"></a>[UB 140:3.15](/en/The_Urantia_Book/140#p3_15), etc. )
 
 Some persons discern and interpret the golden rule as a purely intellectual affirmation of human fraternity. Others experience this expression of human relationship as an emotional gratification of the tender feelings of the human personality. Another mortal recognizes this same golden rule as the yardstick for measuring all social relations, the standard of social conduct. Still others look upon it as being the positive injunction of a great moral teacher who embodied in this statement the highest concept of moral obligation as regards all fraternal relationships. In the lives of such moral beings the golden rule becomes the wise center and circumference of all their philosophy.
 
@@ -52,7 +52,7 @@ Love, unselfishness, must undergo a constant and living re-adaptive interpretati
 
 And so must we clearly recognize that neither the golden rule nor the teaching of non-resistance can ever be properly understood as dogmas or precepts. They can only be comprehended by living them, by realizing their meanings in the living interpretation of the indwelling divine Spirit that directs the loving contact of each human being with another–provided we will listen.
 
-> All this clearly indicates the difference between the old religions and the new. The old religions teach self-sacrifice; the new religion teaches only self-forgetfulness, enhanced self-realization in social service and universe comprehension. The old religions are much motivated by fear; the new gospel of the kingdom is dominated by truth-conviction, the spirit of eternal and universal truth. No amount of piety or creedal loyalty can compensate for the absence in the life experience of kingdom believers of that spontaneous, generous, and sincere friendliness which characterizes the spirit-born children of the living God. Neither tradition nor a ceremonial system of formal worship can atone for the lack of genuine compassion and genuine love for all one’s fellows. ([UB 180:5.12](/en/The_Urantia_Book/180#p5_12))
+> All this clearly indicates the difference between the old religions and the new. The old religions teach self-sacrifice; the new religion teaches only self-forgetfulness, enhanced self-realization in social service and universe comprehension. The old religions are much motivated by fear; the new gospel of the kingdom is dominated by truth-conviction, the spirit of eternal and universal truth. No amount of piety or creedal loyalty can compensate for the absence in the life experience of kingdom believers of that spontaneous, generous, and sincere friendliness which characterizes the spirit-born children of the living God. Neither tradition nor a ceremonial system of formal worship can atone for the lack of genuine compassion and genuine love for all one’s fellows. (<a id="a54_777"></a>[UB 180:5.12](/en/The_Urantia_Book/180#p5_12))
 
 > You must be the change you wish to see in the world. 
 >   Mahatma Ghandi

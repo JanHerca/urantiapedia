@@ -39,7 +39,7 @@ The source of celestial ministry in the grand universe is the person of the Infi
 
 The Infinite Spirit is: The source of all mind; Personally conscious of every minded person in all of creation; The God of Action; The creator of a vast family of spiritual ministers 
 
-_The spirit personalities of the vast family of the Divine and Infinite Spirit are forever dedicated to the service of the ministry of the love of God and the mercy of the Son to all the intelligent creatures of the evolutionary worlds of time and space. These spirit beings constitute the living ladder whereby mortal man climbs from chaos to glory._ [[UB 9:8.17](/en/The_Urantia_Book/9#p8_17)] 
+_The spirit personalities of the vast family of the Divine and Infinite Spirit are forever dedicated to the service of the ministry of the love of God and the mercy of the Son to all the intelligent creatures of the evolutionary worlds of time and space. These spirit beings constitute the living ladder whereby mortal man climbs from chaos to glory._ <a id="a41_352"></a>[[UB 9:8.17](/en/The_Urantia_Book/9#p8_17)] 
 
 For a few years during childhood, I fell into the habit of second-guessing God. For example, I wondered why my mother spent three days in the hospital to give birth to my brother, but the cat gave birth easily by herself out in the garage. If God really knew everything, why didn’t he know the jaw he made for me was too small for the number of teeth growing there? I suspected God wasn’t as smart as people made him out to be, and this suspicion laid me open to years of mental speculation about how I would run the universe if I were God. 
 
@@ -83,11 +83,11 @@ x 5.342 _trillion inhabited planets_
 
 10.7 sextillion angels! Add these to the 56 quadrillion working at the local universe levels, and keep in mind that the Infinite Spirit is personally aware of each and every one of them. How can we be anything but awestruck by the extent of God’s power? 
 
-Before leaving the subject of origin, revisit the quote on [UB 9:8.17](/en/The_Urantia_Book/9#p8_17) that describes the Infinite Spirit’s family as living ladder. If you consider this phenomenon from the Paradise point of view, it becomes clear that a ladder sent down to each mortal in existence only appears to be a ladder from the human perspective. In reality, the Infinite Spirit’s family must be an enormous web, a blanket of love and mercy covering the entire inhabited universe. There is nowhere any of us could possibly go where we are not surrounded by these children of mercy, nowhere we could be where his love doesn’t pour over us and into us. We are not alone; we have not been left here to our own devices. We are constantly immersed in love and surrounded by ministers, the children of the Infinite Spirit. 
+Before leaving the subject of origin, revisit the quote on <a id="a85_59"></a>[UB 9:8.17](/en/The_Urantia_Book/9#p8_17) that describes the Infinite Spirit’s family as living ladder. If you consider this phenomenon from the Paradise point of view, it becomes clear that a ladder sent down to each mortal in existence only appears to be a ladder from the human perspective. In reality, the Infinite Spirit’s family must be an enormous web, a blanket of love and mercy covering the entire inhabited universe. There is nowhere any of us could possibly go where we are not surrounded by these children of mercy, nowhere we could be where his love doesn’t pour over us and into us. We are not alone; we have not been left here to our own devices. We are constantly immersed in love and surrounded by ministers, the children of the Infinite Spirit. 
 
 ## Nature 
 
-_The universe of your origin is being forged out between the anvil of justice and the hammer of suffering; but those who wield the hammer are the children of mercy, the spirit offspring of the Infinite Spirit._ [[UB 9:1.8](/en/The_Urantia_Book/9#p1_8)] 
+_The universe of your origin is being forged out between the anvil of justice and the hammer of suffering; but those who wield the hammer are the children of mercy, the spirit offspring of the Infinite Spirit._ <a id="a89_211"></a>[[UB 9:1.8](/en/The_Urantia_Book/9#p1_8)] 
 
 We are told that only good can come of our efforts to love and understand the angels. What kind of persons are these, the children of the Infinite Spirit, who have us in their watch care? 
 
@@ -99,7 +99,7 @@ We are told that angels like change, rest, reversion, and play. They enjoy our e
 
 Nearly every angelic order sets aside reserves and recorders. Many angel orders also have a transport division. But beyond these generic functions, celestial ministers seem to be primarily focused on teaching. One of many orders of angels that extensively minister to ascendant mortals is described this way: 
 
-> These tertiary seconaphim are the time-savers, space abridgers, error detectors, faithful teachers, and everlasting guideposts—living signs of divine surety—in mercy placed at the crossroads of time, there to guide the feet of anxious pilgrims in moments of great perplexity and spiritual uncertainty. [[UB 28:7.3](/en/The_Urantia_Book/28#p7_3)] 
+> These tertiary seconaphim are the time-savers, space abridgers, error detectors, faithful teachers, and everlasting guideposts—living signs of divine surety—in mercy placed at the crossroads of time, there to guide the feet of anxious pilgrims in moments of great perplexity and spiritual uncertainty. <a id="a101_304"></a>[[UB 28:7.3](/en/The_Urantia_Book/28#p7_3)] 
 
 What is it that celestial ministers teach us? The list is mind boggling. 
 
@@ -162,7 +162,7 @@ We are surrounded by celestial ministers who are interested in our character dev
 
 Why? What does God plan to do with this assembly? 
 
-Perfectors of Wisdom, Divine Counselors, Archangels, Solitary Messengers, and One Without Name and Number all speculate that we are destined for service in the outer space levels. A Mighty Messenger clearly states that we “are destined to the service and revelation of this Supreme Deity in and to the future universes of outer space.” [[UB 56:8.2](/en/The_Urantia_Book/56#p8_2)] 
+Perfectors of Wisdom, Divine Counselors, Archangels, Solitary Messengers, and One Without Name and Number all speculate that we are destined for service in the outer space levels. A Mighty Messenger clearly states that we “are destined to the service and revelation of this Supreme Deity in and to the future universes of outer space.” <a id="a164_336"></a>[[UB 56:8.2](/en/The_Urantia_Book/56#p8_2)] 
 
 Frankly, at this point in my life, a final destiny of service in the future worlds of outer space seems so far removed from present reality that it is nearly incomprehensible. Whatever God has planned for me in the ages to come, the question that most interests me is what God wants from me today. 
 
@@ -188,7 +188,7 @@ Recall the story of the shepherd boy to whom an angel appeared in the night. The
 > “Though I descend into the depths of darkness and death itself,”
 > “I shall not doubt you nor fear you,”
 > “For I know that in the fullness of time and the glory of your name”
-> “You will raise me up to sit with you on the battlements on high.” [[UB 48:6.9-19](/en/The_Urantia_Book/48#p6_9)]
+> “You will raise me up to sit with you on the battlements on high.” <a id="a190_69"></a>[[UB 48:6.9-19](/en/The_Urantia_Book/48#p6_9)]
 
 We recognize this text as the [23rd psalm](/en/Bible/Psalms/23): 
 
@@ -217,7 +217,7 @@ Author’s note: Special thanks to Jack Kane for giving me names for the numbers
 > Michelle has been a student of _The Urantia Book_ since she was 19 years old. She is a member of the Golden Gate Circle society in northern California, current secretary-general of the Fellowship, and author of The Story of Everything, a condensation of the revelation.  
 {.is-info}
 
-> [Angels’] work in the universe is without bounds and limitations; they are closely associated with the material creatures of the worlds and are ever in the service of the lower orders of spiritual personalities, making contact between these beings of the spirit world and the mortals of the material realms. [[UB 38:5.4](/en/The_Urantia_Book/38#p5_4)]  
+> [Angels’] work in the universe is without bounds and limitations; they are closely associated with the material creatures of the worlds and are ever in the service of the lower orders of spiritual personalities, making contact between these beings of the spirit world and the mortals of the material realms. <a id="a219_310"></a>[[UB 38:5.4](/en/The_Urantia_Book/38#p5_4)]  
 
 ## References
 

@@ -50,7 +50,7 @@ The Urantia Association of Canada and _The Urantia Book_ Fellowship have teamed 
 
 The Urantia Global Experience is a gathering of minds dedicated to serving God the Supreme through the exploration of solutions for the progressive evolution of civilization. We believe the overall success of this experimental endeavor rests on our spiritual unity - our common motive to express the will of God in our personal daily lives as well as in our social institutions.
 
-The format of this gathering will be a little different than past related experiences. Rather than a series of lectures and workshops, all participants will engage in discussion groups focused on a variety of topics drawn from _The Urantia Book_ (see [Paper 71:4 Progressive Civilization](/en/The_Urantia_Book/71#p4)). From these discussions, we hope to derive common ideas, solutions, and purpose.
+The format of this gathering will be a little different than past related experiences. Rather than a series of lectures and workshops, all participants will engage in discussion groups focused on a variety of topics drawn from _The Urantia Book_ (see <a id="a52_251"></a>[Paper 71:4 Progressive Civilization](/en/The_Urantia_Book/71#p4)). From these discussions, we hope to derive common ideas, solutions, and purpose.
 
 To implement these grand ideals, we need your help. We are currently taking applications for Facilitators and Visionary Exploration presenters, as well as for volunteers.
 
@@ -145,17 +145,17 @@ Feeling lost? Go to our Site Map.
 
 Our demeanor at the Urantia Global
 
-> Experience is grounded in the 'Golden Rule' “Treat others as you would like to be treated” and “Love your neighbor as yourself,” while we strive to lift ourselves up to the “Platinum Rule” - “Love others as God loves them.” [UB 140:5.3](/en/The_Urantia_Book/140#p5_3)
+> Experience is grounded in the 'Golden Rule' “Treat others as you would like to be treated” and “Love your neighbor as yourself,” while we strive to lift ourselves up to the “Platinum Rule” - “Love others as God loves them.” <a id="a147_226"></a>[UB 140:5.3](/en/The_Urantia_Book/140#p5_3)
 
-> “And so I give you this new commandment: That you love one another even as I have loved you. And by this will all men know that you are my disciples if you thus love one another. ” [UB 180:1.1](/en/The_Urantia_Book/180#p1_1)
+> “And so I give you this new commandment: That you love one another even as I have loved you. And by this will all men know that you are my disciples if you thus love one another. ” <a id="a149_183"></a>[UB 180:1.1](/en/The_Urantia_Book/180#p1_1)
 
-> “If you will only love one another as I am loving you, you shall be my friends, and I will ever speak to you of that which the Father reveals to me.” [UB 180:1.3](/en/The_Urantia_Book/180#p1_3)
+> “If you will only love one another as I am loving you, you shall be my friends, and I will ever speak to you of that which the Father reveals to me.” <a id="a151_152"></a>[UB 180:1.3](/en/The_Urantia_Book/180#p1_3)
 
 ### Session Protocol
 
 Additionally, we respectfully ask that participants do not schedule any committee or organizational meetings during the Focus Group or Vision Team sessions.
 
-> “To enjoy privilege without abuse, to have liberty without license, to possess power and steadfastly refuse to use it for selfaggrandizement - these are the marks of high civilization.” [UB 48:7.8](/en/The_Urantia_Book/48#p7_8)
+> “To enjoy privilege without abuse, to have liberty without license, to possess power and steadfastly refuse to use it for selfaggrandizement - these are the marks of high civilization.” <a id="a157_188"></a>[UB 48:7.8](/en/The_Urantia_Book/48#p7_8)
 
 ## External Links
 

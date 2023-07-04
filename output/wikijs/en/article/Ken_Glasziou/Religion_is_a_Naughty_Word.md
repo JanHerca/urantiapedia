@@ -36,7 +36,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 The plethora of profundity poured out in the Urantia Papers is such that mere mortals like ourselves read it without digesting, pass over it without understanding.
 
-One _Urantia Book_ profundity states: “_***Religion is a living and dynamic experience of divinity attainment predicated on humanity service***._” ([UB 5:4.1](/en/The_Urantia_Book/5#p4_1))
+One _Urantia Book_ profundity states: “_***Religion is a living and dynamic experience of divinity attainment predicated on humanity service***._” (<a id="a38_148"></a>[UB 5:4.1](/en/The_Urantia_Book/5#p4_1))
 
 With that definition entrenched, should I not be more than proud to have a religion? In fact, if I do not have a religion then surely I should be fearful that I may have placed my eternal career in jeopardy?
 
@@ -46,7 +46,7 @@ And if the Urantia movement is not a religious activity, what then is it?
 
 Presumably what is “not religious” must be “non-religious?” That appears to be a logical enough conclusion. But the revelators declare, “**all non-religious activities seek to bind the universe to the distorting service of self.**” So is that where things may have gone wrong—the movement has spurned “humanity service” and succumbed to the distorting service of self?
 
-The revelators further declare: “_The truly religious individual seeks to identify the self with the universe and then dedicate the activities of this unified self to the service of the universe family of fellow beings, human and superhuman._” ([UB 5:4.3](/en/The_Urantia_Book/5#p4_3))
+The revelators further declare: “_The truly religious individual seeks to identify the self with the universe and then dedicate the activities of this unified self to the service of the universe family of fellow beings, human and superhuman._” (<a id="a48_245"></a>[UB 5:4.3](/en/The_Urantia_Book/5#p4_3))
 
 On reflection, it may be a valid conclusion that _Urantia Book_ reader organizations tend to involve members in intellectual activity, and leave “humanity service” to the private activities of the individual.
 

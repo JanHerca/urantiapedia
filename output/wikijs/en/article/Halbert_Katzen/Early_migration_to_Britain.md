@@ -296,27 +296,27 @@ The selections from *The Urantia Book* provided in this report provide a basis f
 
 [^1]: With special thanks to Chris Halvorson, Ph.D., Fred Harris, J.D., and Donna Whelan
 
-[^2]: [UB 64:1.6](/en/The_Urantia_Book/64#p1_6)
+[^2]: <a id="a298_6"></a>[UB 64:1.6](/en/The_Urantia_Book/64#p1_6)
 
-[^3]: [UB 64:1.5](/en/The_Urantia_Book/64#p1_5)
+[^3]: <a id="a300_6"></a>[UB 64:1.5](/en/The_Urantia_Book/64#p1_5)
 
-[^4]: [UB 64:2.1-6](/en/The_Urantia_Book/64#p2_1)
+[^4]: <a id="a302_6"></a>[UB 64:2.1-6](/en/The_Urantia_Book/64#p2_1)
 
-[^5]: [UB 64:4.6](/en/The_Urantia_Book/64#p4_6)
+[^5]: <a id="a304_6"></a>[UB 64:4.6](/en/The_Urantia_Book/64#p4_6)
 
 [^6]: Proyecto AHOB, https://www.ahobproject.org/ and https://www.ahobproject.org/AHOBI/index_2.html
 
-[^7]: [64:1.5 - 64:2.6](/en/The_Urantia_Book/64#p1_5)
+[^7]: <a id="a308_6"></a>[64:1.5 - 64:2.6](/en/The_Urantia_Book/64#p1_5)
 
-[^8]: [UB 64:7.16-17](/en/The_Urantia_Book/64#p7_16). These last two sentences are taken from a section related to the time period from approximately 500,000 to 80,000 years ago.
+[^8]: <a id="a310_6"></a>[UB 64:7.16-17](/en/The_Urantia_Book/64#p7_16). These last two sentences are taken from a section related to the time period from approximately 500,000 to 80,000 years ago.
 
 [^9]: M.J. White, y S.J. Plunkett, *Miss Layard excavates: a Palaeolithic site at Foxhall Road, Ipswich, 1903-1905*. Bristol: WASP, 2004.
 
 [^10]: From Wikipedia.com: “The Lower Paleolithic (or Lower Palaeolithic) is the earliest subdivision of the Paleolithic or Old Stone Age. It spans the time from around 2.5 million years ago when the first evidence of craft and use of stone tools by hominids appears in the current archaeological record, until around 100,000 years ago when important evolutionary and technological changes (behavioral modernity) ushered in the Middle Paleolithic.” https://en.wikipedia.org/wiki/Lower_Paleolithic
 
-[^11]: [UB 64:3.1,4-5](/en/The_Urantia_Book/64#p3_1)
+[^11]: <a id="a316_7"></a>[UB 64:3.1,4-5](/en/The_Urantia_Book/64#p3_1)
 
-[^12]: [UB 64:4.1-11](/en/The_Urantia_Book/64#p4_1)
+[^12]: <a id="a318_7"></a>[UB 64:4.1-11](/en/The_Urantia_Book/64#p4_1)
 
 [^13]: The Arvicolinae is a subfamily of rodents that includes voles, lemmings, and muskrats. https://en.wikipedia.org/wiki/Arvicolinae
 
@@ -326,11 +326,11 @@ The selections from *The Urantia Book* provided in this report provide a basis f
 
 [^16]: Jonathan Leake, *First Neanderthal tracked to Torquay*, *The Sunday Times*, October 2006, https://www.thetimes.co.uk/article/first-neanderthal-tracked-to-torquay-th0zg0rl2ch [Link requires subscription] http://www.archaeology.ws/2006-10-3.htm [Link with the new]
 
-[^17]: [UB 64:2.5](/en/The_Urantia_Book/64#p2_5)
+[^17]: <a id="a328_7"></a>[UB 64:2.5](/en/The_Urantia_Book/64#p2_5)
 
-[^18]: [UB 64:7.18](/en/The_Urantia_Book/64#p7_18)
+[^18]: <a id="a330_7"></a>[UB 64:7.18](/en/The_Urantia_Book/64#p7_18)
 
-[^19]: [UB 64:7.16](/en/The_Urantia_Book/64#p7_16)
+[^19]: <a id="a332_7"></a>[UB 64:7.16](/en/The_Urantia_Book/64#p7_16)
 
 [^20]: The chron is a unit of time, the shortest used in geochronology to refer to geological periods. The duration of each cron is variable. The extension of a chron is frequently linked to reversals of the Earth's magnetic field that record the beginning and end of the period in the rock. https://en.wikipedia.org/wiki/Magnetostratigraphy#Chron
 

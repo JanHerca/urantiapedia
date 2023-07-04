@@ -31,7 +31,7 @@ dateCreated: 2022-9-9T8:12:17Z
 </figure>
 
 
-> “_Gold was the first metal to be sought by man; it is easy to work and, at first, was used only as an ornament. Copper was next employed but not extensively until it was admixed with tin to make the harder bronze. The discovery of mixing copper and tin to make bronze was made by one of the Adamsonites of Turkestan whose highland copper mine happened to be located alongside a tin deposit._” ([UB 81:3.5](/en/The_Urantia_Book/81#p3_5))
+> “_Gold was the first metal to be sought by man; it is easy to work and, at first, was used only as an ornament. Copper was next employed but not extensively until it was admixed with tin to make the harder bronze. The discovery of mixing copper and tin to make bronze was made by one of the Adamsonites of Turkestan whose highland copper mine happened to be located alongside a tin deposit._” (<a id="a33_396"></a>[UB 81:3.5](/en/The_Urantia_Book/81#p3_5))
 
 Matt Neibaur contributed the following review emanating from the University of Chicago.
 

@@ -46,9 +46,9 @@ Even without a commonly understood word for it, this idea that collaborative eff
 
 The partnership of our Creator Son and Creative Mother Spirit is clearly a major example of this. 
 
-> “At the head of all personality in Nebadon stands the Creator and Master Son, Michael, the universe father and sovereign. Co-ordinate in divinity and complemental in creative attributes is the local universe Mother Spirit, the Divine Minister of Salvington.” [[UB 37:0.1](/en/The_Urantia_Book/37#p0_1)] 
+> “At the head of all personality in Nebadon stands the Creator and Master Son, Michael, the universe father and sovereign. Co-ordinate in divinity and complemental in creative attributes is the local universe Mother Spirit, the Divine Minister of Salvington.” <a id="a48_261"></a>[[UB 37:0.1](/en/The_Urantia_Book/37#p0_1)] 
 > 
-> “From this central universe also came the bestowal of the personal prerogatives of creatorship which a Universe Divine Minister employs as complemental to a Creator Son in the work of creating living will creatures.” [[UB 14:6.35](/en/The_Urantia_Book/14#p6_35)] 
+> “From this central universe also came the bestowal of the personal prerogatives of creatorship which a Universe Divine Minister employs as complemental to a Creator Son in the work of creating living will creatures.” <a id="a50_219"></a>[[UB 14:6.35](/en/The_Urantia_Book/14#p6_35)] 
 
 Our very existence as living beings on a universe stage is a superadditive consequence of the creative potential of their divine union. We are more than a predictable sum of independent efforts. The synergy of their complemental natures brings entirely new realities into existence. 
 
@@ -56,74 +56,74 @@ Given the complemental relationship of our local universe deity parents, it seem
 
 The introduction to [Paper 34](/en/The_Urantia_Book/34) gives us a striking observation of the complemental functioning of Michael and our local universe Mother Spirit: 
 
-> “In physical creation the Universe Son provides the pattern while the Universe Spirit initiates the materialization of physical realities. The Son operates in the power designs, but the Spirit transforms these energy creations into physical substances.” [[UB 34:0.3](/en/The_Urantia_Book/34#p0_3)] 
+> “In physical creation the Universe Son provides the pattern while the Universe Spirit initiates the materialization of physical realities. The Son operates in the power designs, but the Spirit transforms these energy creations into physical substances.” <a id="a58_256"></a>[[UB 34:0.3](/en/The_Urantia_Book/34#p0_3)] 
 
 This capacity of our Creative Mother Spirit to function so intimately in the processes of physical creation is very mother-like. This, and her later provision of mind circuits, both flow from her origin as a direct offspring of the Third Source and Center: 
 
-> “From the earliest association with the Creator Son the Universe Spirit possesses all the physical-control attributes of the Infinite Spirit... Upon the attainment of personal status the Universe Spirit exerts just as full and complete control of mind gravity, in the local universe, as would the Infinite Spirit if personally present.” [[UB 34:2.2](/en/The_Urantia_Book/34#p2_2)] 
+> “From the earliest association with the Creator Son the Universe Spirit possesses all the physical-control attributes of the Infinite Spirit... Upon the attainment of personal status the Universe Spirit exerts just as full and complete control of mind gravity, in the local universe, as would the Infinite Spirit if personally present.” <a id="a62_339"></a>[[UB 34:2.2](/en/The_Urantia_Book/34#p2_2)] 
 
-Consistent with her origin in the Infinite Spirit, we also learn that our Mother Spirit is a Third Source personality. Unlike Michael, who “flashed full-fledged” into existence at the moment of his origin [[UB 21:1.1](/en/The_Urantia_Book/21#p1_1)], her personal nature has emerged in stages (see [paper 17, section 6](/en/The_Urantia_Book/17#p6) for more), and has only recently become fully recognizable to all, following Michael’s final bestowal: 
+Consistent with her origin in the Infinite Spirit, we also learn that our Mother Spirit is a Third Source personality. Unlike Michael, who “flashed full-fledged” into existence at the moment of his origin <a id="a64_205"></a>[[UB 21:1.1](/en/The_Urantia_Book/21#p1_1)], her personal nature has emerged in stages (see <a id="a64_297"></a>[paper 17, section 6](/en/The_Urantia_Book/17#p6) for more), and has only recently become fully recognizable to all, following Michael’s final bestowal: 
 
-> “subsequent to the elevation of the Creator Son to the sovereign authority of a Master Son, the Creative Mother Spirit becomes so augmented in personal qualities as to be personally recognized by all contacting individuals.” [[UB 34:2.1](/en/The_Urantia_Book/34#p2_1)] 
+> “subsequent to the elevation of the Creator Son to the sovereign authority of a Master Son, the Creative Mother Spirit becomes so augmented in personal qualities as to be personally recognized by all contacting individuals.” <a id="a66_227"></a>[[UB 34:2.1](/en/The_Urantia_Book/34#p2_1)] 
 
 We are also informed that Creative Spirits are “in a class by themselves” in relation to First Source personalities (like ourselves and Michael) who are encircuited in the Father’s personality circuit: 
 
-> “There are numerous types of Third Source personalities. The Infinite Spirit bestows Third Source personality upon numerous groups... Likewise does the Infinite Spirit treat as personalities numerous groups of beings, such as the Creative Spirits, who are in a class by themselves in their relations to encircuited creatures of the Father.” [[UB 9:8.11](/en/The_Urantia_Book/9#p8_11)] 
+> “There are numerous types of Third Source personalities. The Infinite Spirit bestows Third Source personality upon numerous groups... Likewise does the Infinite Spirit treat as personalities numerous groups of beings, such as the Creative Spirits, who are in a class by themselves in their relations to encircuited creatures of the Father.” <a id="a70_343"></a>[[UB 9:8.11](/en/The_Urantia_Book/9#p8_11)] 
 
 What could this mean? At the very least, I think this again suggests that the influence of her Holy Spirit will be unlike, but complemental to our experiences with the Spirit of Truth. 
 
 From the clue above about their differing roles in universe creation, it seems plausible to assume that the Holy Spirit has a special relationship to physical realities, while the Spirit of Truth is more involved with pattern and design. But there are also intriguing spiritual differences to consider, especially after the universe of their making becomes populated with evolving mortals. For example, with the arrival of Thought Adjusters, we now have a “threefold spirit endowment:” 
 
-> “Since the bestowal of the Spirit of Truth, man is subject to the teaching and guidance of a threefold spirit endowment: the spirit of the Father, the Thought Adjuster; the spirit of the Son, the Spirit of Truth; the spirit of the Spirit, the Holy Spirit.” [[UB 194:2.11](/en/The_Urantia_Book/194#p2_11)]
+> “Since the bestowal of the Spirit of Truth, man is subject to the teaching and guidance of a threefold spirit endowment: the spirit of the Father, the Thought Adjuster; the spirit of the Son, the Spirit of Truth; the spirit of the Spirit, the Holy Spirit.” <a id="a76_259"></a>[[UB 194:2.11](/en/The_Urantia_Book/194#p2_11)]
 
 While these gifts of uplifting spirit influence are unified in functional harmony, they also have essential complemental differences: 
 
 1. The personal influence of the Holy Spirit is a pervading presence: 
 
-    “From and through this new personal segregation of the Conjoint Creator there proceed the established currents and the ordained circuits of spirit power and spiritual influence destined to pervade all the worlds and beings of that local universe.” [[UB 34:1.2](/en/The_Urantia_Book/34#p1_2)] 
+    “From and through this new personal segregation of the Conjoint Creator there proceed the established currents and the ordained circuits of spirit power and spiritual influence destined to pervade all the worlds and beings of that local universe.” <a id="a82_252"></a>[[UB 34:1.2](/en/The_Urantia_Book/34#p1_2)] 
     Online definitions of pervaded: diffused throughout every part, can be perceived in every part, exists in every part, is present throughout.
-    “She is equally and diffusely present throughout her entire local universe” [[UB 34:3.3](/en/The_Urantia_Book/34#p3_3)]
+    “She is equally and diffusely present throughout her entire local universe” <a id="a84_80"></a>[[UB 34:3.3](/en/The_Urantia_Book/34#p3_3)]
 
 2. The Spirit of Truth is an enveloping, companion presence: 
 
-    “This new gift is the spirit of living truth... And you shall know this spirit when he comes even as you have known me... In the times to come I will be with you and all other men who desire my presence, wherever you may be, and with each of you at the same time.” [[UB 180:4.1](/en/The_Urantia_Book/180#p4_1)] 
-    “And as the spirit fragment of the Father dwells within you, so does the spirit presence of the Son envelop you” [[UB 6:5.7](/en/The_Urantia_Book/6#p5_7)] 
+    “This new gift is the spirit of living truth... And you shall know this spirit when he comes even as you have known me... In the times to come I will be with you and all other men who desire my presence, wherever you may be, and with each of you at the same time.” <a id="a88_269"></a>[[UB 180:4.1](/en/The_Urantia_Book/180#p4_1)] 
+    “And as the spirit fragment of the Father dwells within you, so does the spirit presence of the Son envelop you” <a id="a89_117"></a>[[UB 6:5.7](/en/The_Urantia_Book/6#p5_7)] 
 
-3. And the spirit of the Father, of course, is an indwelling presence: “The Father in heaven sends his spirit to indwell the minds of men” [[UB 137:8.7](/en/The_Urantia_Book/137#p8_7)] 
+3. And the spirit of the Father, of course, is an indwelling presence: “The Father in heaven sends his spirit to indwell the minds of men” <a id="a91_139"></a>[[UB 137:8.7](/en/The_Urantia_Book/137#p8_7)] 
 
 There are other interesting statements that describe complemental differences between the Holy Spirit and the Spirit of Truth, for example: 
 
-> “Spiritual reason, soul intelligence, is the endowment of the Holy Spirit, the Creative Spirit's gift to man. Spiritual philosophy, the wisdom of spirit realities, is the endowment of the Spirit of Truth, the combined gift of the bestowal Sons to the children of men.” [[UB 101:3.2](/en/The_Urantia_Book/101#p3_2)] 
+> “Spiritual reason, soul intelligence, is the endowment of the Holy Spirit, the Creative Spirit's gift to man. Spiritual philosophy, the wisdom of spirit realities, is the endowment of the Spirit of Truth, the combined gift of the bestowal Sons to the children of men.” <a id="a95_271"></a>[[UB 101:3.2](/en/The_Urantia_Book/101#p3_2)] 
 
 And here: 
 
-> “the encircuited action of the Holy Spirit.” [[UB 113:4.6](/en/The_Urantia_Book/113#p4_6)] The Infinite Spirit source of the Holy Spirit is the God of Action, the activator of pattern. (see [UB 9:3.8](/en/The_Urantia_Book/9#p3_8)) 
+> “the encircuited action of the Holy Spirit.” <a id="a99_47"></a>[[UB 113:4.6](/en/The_Urantia_Book/113#p4_6)] The Infinite Spirit source of the Holy Spirit is the God of Action, the activator of pattern. (see <a id="a99_192"></a>[UB 9:3.8](/en/The_Urantia_Book/9#p3_8)) 
 > 
-> “the Son-consciousness of the Spirit of Truth.” [[UB 113:4.6](/en/The_Urantia_Book/113#p4_6)] “Our God realization career begins with the recognition of the divinity of the Creator Son.” (see [UB 0:8.9](/en/The_Urantia_Book/0#p8_9)) 
+> “the Son-consciousness of the Spirit of Truth.” <a id="a101_50"></a>[[UB 113:4.6](/en/The_Urantia_Book/113#p4_6)] “Our God realization career begins with the recognition of the divinity of the Creator Son.” (see <a id="a101_194"></a>[UB 0:8.9](/en/The_Urantia_Book/0#p8_9)) 
 
 Consider these comments that describe the functioning of the Holy Spirit: 
 
-> “ The Holy Spirit —this is the initial supermind bestowal... This ministry to a worship-craving and wisdom-desiring mind creates the capacity to self-realize the postulate of human survival” [[UB 92:0.4](/en/The_Urantia_Book/92#p0_4)] 
+> “ The Holy Spirit —this is the initial supermind bestowal... This ministry to a worship-craving and wisdom-desiring mind creates the capacity to self-realize the postulate of human survival” <a id="a105_193"></a>[[UB 92:0.4](/en/The_Urantia_Book/92#p0_4)] 
 > 
-> “Man's first supermind endowment is that of personality encircuitment in the Holy Spirit... this influence functions to enlarge man's viewpoint of ethics, religion, and spirituality.” [[UB 103:0.1](/en/The_Urantia_Book/103#p0_1)] 
+> “Man's first supermind endowment is that of personality encircuitment in the Holy Spirit... this influence functions to enlarge man's viewpoint of ethics, religion, and spirituality.” <a id="a107_186"></a>[[UB 103:0.1](/en/The_Urantia_Book/103#p0_1)] 
 > 
-> “When mind is thus endowed with the ministry of the Holy Spirit, it possesses the capacity for (consciously or unconsciously) choosing the spiritual presence of the Universal Father” [[UB 34:5.4](/en/The_Urantia_Book/34#p5_4)] 
+> “When mind is thus endowed with the ministry of the Holy Spirit, it possesses the capacity for (consciously or unconsciously) choosing the spiritual presence of the Universal Father” <a id="a109_185"></a>[[UB 34:5.4](/en/The_Urantia_Book/34#p5_4)] 
 > 
-> “The Mother Spirit of Salvington knows you fully, for the Holy Spirit on your world ‘searches all things,’” [[UB 28:5.22](/en/The_Urantia_Book/28#p5_22)] 
+> “The Mother Spirit of Salvington knows you fully, for the Holy Spirit on your world ‘searches all things,’” <a id="a111_110"></a>[[UB 28:5.22](/en/The_Urantia_Book/28#p5_22)] 
 > 
-> “The Holy Spirit is partly independent of human attitude” [[UB 34:5.5](/en/The_Urantia_Book/34#p5_5)] 
+> “The Holy Spirit is partly independent of human attitude” <a id="a113_60"></a>[[UB 34:5.5](/en/The_Urantia_Book/34#p5_5)] 
 
 Compare with these comments that describe the functioning of the Spirit of Truth: 
 
-> “This divine endowment is not the letter or law of truth, neither is it to function as the form or expression of truth. The new teacher is the conviction of truth ” [[UB 180:5.1](/en/The_Urantia_Book/180#p5_1)] 
+> “This divine endowment is not the letter or law of truth, neither is it to function as the form or expression of truth. The new teacher is the conviction of truth ” <a id="a117_167"></a>[[UB 180:5.1](/en/The_Urantia_Book/180#p5_1)] 
 > 
-> “The spirit which my Father and I shall send into the world is not only the Spirit of Truth but also the spirit of idealistic beauty.” [[UB 155:6.11](/en/The_Urantia_Book/155#p6_11)] 
+> “The spirit which my Father and I shall send into the world is not only the Spirit of Truth but also the spirit of idealistic beauty.” <a id="a119_137"></a>[[UB 155:6.11](/en/The_Urantia_Book/155#p6_11)] 
 > 
-> “The proof... of your fellowship with the Spirit of Truth is not to be found in your consciousness of this spirit but rather in your experience of enhanced fellowship with Michael.” [[UB 194:2.4](/en/The_Urantia_Book/194#p2_4)] 
+> “The proof... of your fellowship with the Spirit of Truth is not to be found in your consciousness of this spirit but rather in your experience of enhanced fellowship with Michael.” <a id="a121_184"></a>[[UB 194:2.4](/en/The_Urantia_Book/194#p2_4)] 
 > 
-> “The Spirit of Truth is concerned primarily with the revelation of the Father's spirit nature and the Son's moral character.” [[UB 194:3.1](/en/The_Urantia_Book/194#p3_1)] 
+> “The Spirit of Truth is concerned primarily with the revelation of the Father's spirit nature and the Son's moral character.” <a id="a123_128"></a>[[UB 194:3.1](/en/The_Urantia_Book/194#p3_1)] 
 > 
-> “the Spirit of Truth, who directs the loving contact of one human being with another.” [[UB 180:5.11](/en/The_Urantia_Book/180#p5_11)] 
+> “the Spirit of Truth, who directs the loving contact of one human being with another.” <a id="a125_89"></a>[[UB 180:5.11](/en/The_Urantia_Book/180#p5_11)] 
 
 I see a couple of patterns that stand out in these descriptions. 
 
@@ -136,7 +136,7 @@ One of the outstanding characteristics of our Mother Spirit is her everywhere-pr
 
 This may be an unexplored realm for many of us, but I think it might be what Jesus had in mind when he said: 
 
-> “But you who have been called out of darkness into the light are expected to believe with a whole heart; your faith shall dominate the combined attitudes of body, mind, and spirit.” [[UB 155:6.17](/en/The_Urantia_Book/155#p6_17)] 
+> “But you who have been called out of darkness into the light are expected to believe with a whole heart; your faith shall dominate the combined attitudes of body, mind, and spirit.” <a id="a138_184"></a>[[UB 155:6.17](/en/The_Urantia_Book/155#p6_17)] 
 
 By pointing to our consciousness of body, mind, and spirit, I think we can now see that Jesus was anticipating our awakening awareness of the threefold endowment of the Holy Spirit, the Spirit of Truth, and the indwelling presence of the Father. 
 

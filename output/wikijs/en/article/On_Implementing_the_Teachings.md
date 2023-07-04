@@ -38,11 +38,11 @@ dateCreated: 2022-09-26T18:52:49.984Z
 
 In the second of the Urantia Papers, “The Nature of God,” the revelators suggest:
 
-> “The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness. Such a new and righteous vision of morality will attract all that is good in the mind of man and challenge that which is best in the human soul.” ([UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
+> “The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness. Such a new and righteous vision of morality will attract all that is good in the mind of man and challenge that which is best in the human soul.” (<a id="a40_449"></a>[UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
 
 The phrase, “enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness,” is obviously self-referential for nowhere is there to be found a more exquisite statement of such truths than are presented in the Urantia Papers. The author of this Paper continues:
 
-> “Truth is coherent, beauty attractive, goodness stabilizing. And when these values of that which is real are coordinated in personality experience, the result is a high order of love conditioned by wisdom and qualified by loyalty. The real purpose of all universe education is to effect the better co-ordination of the isolated child of the worlds with the larger realities of his expanding experience.” ([UB 2:7.12](/en/The_Urantia_Book/2#p7_12))
+> “Truth is coherent, beauty attractive, goodness stabilizing. And when these values of that which is real are coordinated in personality experience, the result is a high order of love conditioned by wisdom and qualified by loyalty. The real purpose of all universe education is to effect the better co-ordination of the isolated child of the worlds with the larger realities of his expanding experience.” (<a id="a44_407"></a>[UB 2:7.12](/en/The_Urantia_Book/2#p7_12))
 
 Surely another major purpose of this revelation is education—with spreading its message in forms that are comprehensible to people of every race and religion and at every level of spiritual and intellectual capacity
 
@@ -68,19 +68,19 @@ If we extrapolate that conclusion to the general population, we may see that onl
 
 By many light-years, the most enlightening teaching from both Christianity and the Urantia revelation concerns the direct relationship of the individual to the indwelling Spirit of God. But it must be backed up with knowledge of the true nature of God and the demonstration of its effectiveness in the lives of individuals. Eventual failure becomes a certainty unless believers seriously attempt to live their lives in accord with Jesus’ teaching—“De Imitatione Christi.”
 
-> “Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men.” ([UB 195:10.1](/en/The_Urantia_Book/195#p10_1))
+> “Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men.” (<a id="a70_242"></a>[UB 195:10.1](/en/The_Urantia_Book/195#p10_1))
 
-> “Your mission to the world is founded on the fact that I lived a God-revealing life among you; on the truth you and all other men are the sons of God; and it shall consist in the life that you live among men—the actual and living experience of loving men and serving them, even as I have loved and served you.” ([UB 191:5.3](/en/The_Urantia_Book/191#p5_3))
+> “Your mission to the world is founded on the fact that I lived a God-revealing life among you; on the truth you and all other men are the sons of God; and it shall consist in the life that you live among men—the actual and living experience of loving men and serving them, even as I have loved and served you.” (<a id="a72_314"></a>[UB 191:5.3](/en/The_Urantia_Book/191#p5_3))
 
-> “The living Jesus is the only hope of a possible unification of Christianity. The true church—the Jesus brotherhood—is invisible, spiritual. . . ” ([UB 195:10.11](/en/The_Urantia_Book/195#p10_11))
+> “The living Jesus is the only hope of a possible unification of Christianity. The true church—the Jesus brotherhood—is invisible, spiritual. . . ” (<a id="a74_150"></a>[UB 195:10.11](/en/The_Urantia_Book/195#p10_11))
 
 But why should it be the task of Urantians to be concerned about Christians and the Christian church? Well, the revelators say so:
 
-> “What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name. . . ” ([UB 196:1.2](/en/The_Urantia_Book/196#p1_2))
+> “What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name. . . ” (<a id="a78_212"></a>[UB 196:1.2](/en/The_Urantia_Book/196#p1_2))
 
 Finally we need to know what we are trying to do:
 
-> “To “follow Jesus” means to personally share his religious faith and to enter into the spirit of the Master’s life of unselfish service for man. One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it.” ([UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
+> “To “follow Jesus” means to personally share his religious faith and to enter into the spirit of the Master’s life of unselfish service for man. One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it.” (<a id="a82_437"></a>[UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
 
 ## A Road to the Future
 

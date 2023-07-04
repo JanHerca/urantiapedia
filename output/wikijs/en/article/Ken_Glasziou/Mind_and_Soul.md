@@ -36,7 +36,7 @@ dateCreated: 2022-09-26T18:03:19.267Z
 
 Mind is about all we have of universe reality that is subject to our will–and our soul faithfully replicates and portrays the harvest of the temporal decisions that the mortal self makes. But it is not so much what mind comprehends as what mind desires to comprehend that ensures soul growth; it is not so much what mind is like as what mind is striving to be like that constitutes spirit identification. And it is not so much that we are conscious of God as that we yearn for God that results in universe ascension. What we are today is not so important as what we are becoming day by day and in eternity.
 
-> Mind is the cosmic instrument on which our human will can play the discords of destruction, or upon which this same human will can bring forth the exquisite melodies of God identification and consequent eternal survival. The God-Spirit bestowed upon us is impervious to evil and incapable of sin. ([UB 111:1.6](/en/The_Urantia_Book/111#p1_6))
+> Mind is the cosmic instrument on which our human will can play the discords of destruction, or upon which this same human will can bring forth the exquisite melodies of God identification and consequent eternal survival. The God-Spirit bestowed upon us is impervious to evil and incapable of sin. (<a id="a38_300"></a>[UB 111:1.6](/en/The_Urantia_Book/111#p1_6))
 
 But these mortal minds of ours can be twisted, distorted, and rendered evil and ugly by the sinful machinations of a perverse and self-seeking human will. Contrary-wise, this very same mind can be made noble, beautiful, true, and good–thus reflecting a spirit-illuminated will provided only that our choice is both to seek to be God-knowing and always to attempt to do God’s will.
 
@@ -50,7 +50,7 @@ The potential for such soul evolution is inherent in the two universal urges of 
 - the impulse of the finite mind of the creature to know God and attain the divinity of the Creator.
 - the impulse of the infinite mind of the Creator to know man and attain the experience of the creature.
 
-> This supernal transaction of evolving the immortal soul is made possible because the mortal mind is first personal and second because it is in contact with superhuman realities. ([UB 111:2.9](/en/The_Urantia_Book/111#p2_9))
+> This supernal transaction of evolving the immortal soul is made possible because the mortal mind is first personal and second because it is in contact with superhuman realities. (<a id="a52_181"></a>[UB 111:2.9](/en/The_Urantia_Book/111#p2_9))
 
 Therefore it possesses an endowment of divine ministry that ensures the evolution of a moral nature capable of making moral decisions. Thus mortal mind can effect a bona fide creative contact with spiritual ministries and with the indwelling Father-Spirit–and a soul is born.
 
@@ -79,9 +79,9 @@ There is a good reason why we should seek to know the mind of Jesus rather than 
 
 If we interpret Jesus’ life and sayings as the basis of a set of rules to follow, then we know that we do not yet know the mind of Jesus–which after all is a revelation of the mind of God. But despair not for Jesus’ Spirit of Truth, acting through the Father-Spirit, is available to help us. We need only to ask.
 
-> To “follow Jesus” means to personally share his religious faith and to enter into the spirit of the Master’s life of unselfish service for man. One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it. ([UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
+> To “follow Jesus” means to personally share his religious faith and to enter into the spirit of the Master’s life of unselfish service for man. One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it. (<a id="a81_435"></a>[UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
 
-> And the everlasting truth is: If your own mind does not serve you well, you can always exchange it for the mind of Jesus of Nazareth, who forever serves you well. ([UB 48:6.26](/en/The_Urantia_Book/48#p6_26))
+> And the everlasting truth is: If your own mind does not serve you well, you can always exchange it for the mind of Jesus of Nazareth, who forever serves you well. (<a id="a83_166"></a>[UB 48:6.26](/en/The_Urantia_Book/48#p6_26))
 
 ## External links
 

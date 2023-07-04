@@ -52,7 +52,7 @@ dateCreated: 2022-9-9T8:13:38Z
 > 
 > 8. Is unselfishness—the spirit of self-forgetfulness—desirable? Then must mortal man live face to face with the incessant clamoring of an inescapable self for recognition and honor. Man could not dynamically choose the divine life if there were no self-life to forsake. Man could never lay saving hold on righteousness if there were no potential evil to exalt and differentiate the good by contrast.
 > 
-> 9. Is pleasure—the satisfaction of happiness—desirable? Then must man live in a world where the alternative of pain and the likelihood of suffering are ever-present experiential possibilities. ([UB 3:5.5-14](/en/The_Urantia_Book/3#p5_5))
+> 9. Is pleasure—the satisfaction of happiness—desirable? Then must man live in a world where the alternative of pain and the likelihood of suffering are ever-present experiential possibilities. (<a id="a54_196"></a>[UB 3:5.5-14](/en/The_Urantia_Book/3#p5_5))
 
 ## External links
 

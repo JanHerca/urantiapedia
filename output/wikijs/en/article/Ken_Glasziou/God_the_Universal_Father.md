@@ -216,7 +216,7 @@ God, the Father, is the bestower and the conservator of every personality. Likew
 
 God is personally conscious of, and in personal touch with, all personalities of all levels of self-conscious existence—and this consciousness is independent of the mission of the God-Spirit-Within.
 
-> “_The nature of God can best be understood by the revelation of the Father which Jesus of Nazareth unfolded in his manifold teachings and in his superb mortal life in the flesh. The divine nature can also be better understood if individuals regard themselves as children of God and look up to the Paradise Creator as their true spiritual Father_.” ([UB 2:0.1](/en/The_Urantia_Book/2#p0_1))
+> “_The nature of God can best be understood by the revelation of the Father which Jesus of Nazareth unfolded in his manifold teachings and in his superb mortal life in the flesh. The divine nature can also be better understood if individuals regard themselves as children of God and look up to the Paradise Creator as their true spiritual Father_.” (<a id="a218_351"></a>[UB 2:0.1](/en/The_Urantia_Book/2#p0_1))
 
 ## External links
 

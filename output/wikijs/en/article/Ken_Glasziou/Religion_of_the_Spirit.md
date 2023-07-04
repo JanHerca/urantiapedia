@@ -40,9 +40,9 @@ Inevitably, policing of some kind follows to ensure a minimal degree of adherenc
 
 Religion of the spirit differs. Firstly it is not a group activity—although it does not prohibit adherents from gathering together. It is a personal quest for truth and it is a personal experience with God that usually results in personal interaction of the individual with the indwelling spirit of God.
 
-> Such a creature choice is not a surrender of will. It is a consecration of will, an expansion of will, a glorification of will, a perfecting of will. ([UB 111:5.5](/en/The_Urantia_Book/111#p5_5))
+> Such a creature choice is not a surrender of will. It is a consecration of will, an expansion of will, a glorification of will, a perfecting of will. (<a id="a42_153"></a>[UB 111:5.5](/en/The_Urantia_Book/111#p5_5))
 
-> Peace in this life, survival in death, perfection in the next life, service in eternity—all these are achieved (in spirit) now when the creature personality consents— chooses—to subject the creature will to the Father's will. ([UB 111:5.4](/en/The_Urantia_Book/111#p5_4))
+> Peace in this life, survival in death, perfection in the next life, service in eternity—all these are achieved (in spirit) now when the creature personality consents— chooses—to subject the creature will to the Father's will. (<a id="a44_229"></a>[UB 111:5.4](/en/The_Urantia_Book/111#p5_4))
 
 God-consciousness and God-awareness always accompany religion of the spirit but not exclusively. Many adherents of authoritarian religion achieve God-consciousness, God- awareness, even a personal relationship with their God. The difference lies in the source of authority.
 

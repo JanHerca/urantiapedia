@@ -34,11 +34,11 @@ dateCreated: 2022-09-26T04:27:09.642Z
 </figure>
 
 
-> “_You are my messengers. You are beholden to live your lives as I have in spirit lived mine._” ([UB 140:6.8](/en/The_Urantia_Book/140#p6_8))
+> “_You are my messengers. You are beholden to live your lives as I have in spirit lived mine._” (<a id="a36_98"></a>[UB 140:6.8](/en/The_Urantia_Book/140#p6_8))
 
 It is often claimed that to live our lives as Jesus lived his is a quite impractical proposition. That would be so if we tried to mimic Jesus, but his exhortation was not that–rather it was to live our lives as he in spirit lived his.
 
-We also have, “_One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it._” ([UB 196:1.3](/en/The_Urantia_Book/196#p1_3)) Some of Jesus exhortations follow:
+We also have, “_One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it._” (<a id="a40_307"></a>[UB 196:1.3](/en/The_Urantia_Book/196#p1_3)) Some of Jesus exhortations follow:
 
 - Be humble.
 - Do not resist evil. If someone smites you on the right cheek, turn the other cheek.

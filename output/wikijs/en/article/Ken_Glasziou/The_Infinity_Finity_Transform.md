@@ -90,7 +90,7 @@ Similarly with the particulars of transmutation of existential possibilities, po
 
 In contrast, the Urantia Papers present a detailed account of the pathway by which existential but static potentials resident with the Unqualified Absolute are causally activated so as to be transformed and become potential realities in the finite worlds. However, though a detailed account of the pathway is provided, information about the physical transformation from existential to experiential is not provided. ([The Transmutation of Existential Potentialities and Actualities to the Finite Level of Reality](/en/article/The_Transmutation_of_Existential)).
 
-With respect to the apparent creativity of the minds of mortal beings, the reality appears to be that it is, in fact, in the way we select among the possibilities and potentials already resident in the Supreme. This is the decision-making deemed to be so important for our spiritual progress. ([UB 39:4.8](/en/The_Urantia_Book/39#p4_8))
+With respect to the apparent creativity of the minds of mortal beings, the reality appears to be that it is, in fact, in the way we select among the possibilities and potentials already resident in the Supreme. This is the decision-making deemed to be so important for our spiritual progress. (<a id="a92_294"></a>[UB 39:4.8](/en/The_Urantia_Book/39#p4_8))
 
 Of interest is that among those who research the subject of consciousness and self- consciousness, there are, at one extreme, those who deny the existence of either and, at the other extreme, those who are trying to marry the bizarre findings of quantum physics with their work in neurophysiology.
 

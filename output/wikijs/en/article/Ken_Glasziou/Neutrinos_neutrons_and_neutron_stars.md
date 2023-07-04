@@ -159,7 +159,7 @@ It has already been indicated that the highly speculative 1942 paper of Gamow an
 
 ### Invoking Occam's Razor
 
-The language, level of knowledge, and the terminology of the paper 41 reference ([UB 41:8.3](/en/The_Urantia_Book/41#p8_3)), together with the references to the binding together of protons and neutrons in the atomic nucleus, the two types of mesotron, and the involvement of small uncharged particles in beta radioactive decay as described on [UB 42:8.5-7](/en/The_Urantia_Book/42#p8_5), is that of the early 1930 period, and not that of the 40's and 50's. It is what would be expected from authors constrained by a mandate not to reveal unearned knowledge except in special circumstances. Applying the Occam's razor principle of giving preference to the simplest explanation consistent with the facts, we must conclude that the most probable explanation for the prophetic material of [UB 41:8.3](/en/The_Urantia_Book/41#p8_3) is that it is original to the Urantia Papers as received in 1934 and therefore comes into the category nominated in the revelatory mandate as key information supplied to fill missing gaps in our knowledge. At present, I do not believe that there is a satisfactory explanation for this statement from *The Urantia Book* in terms of attributing it to a human author.
+The language, level of knowledge, and the terminology of the paper 41 reference (<a id="a161_81"></a>[UB 41:8.3](/en/The_Urantia_Book/41#p8_3)), together with the references to the binding together of protons and neutrons in the atomic nucleus, the two types of mesotron, and the involvement of small uncharged particles in beta radioactive decay as described on <a id="a161_343"></a>[UB 42:8.5-7](/en/The_Urantia_Book/42#p8_5), is that of the early 1930 period, and not that of the 40's and 50's. It is what would be expected from authors constrained by a mandate not to reveal unearned knowledge except in special circumstances. Applying the Occam's razor principle of giving preference to the simplest explanation consistent with the facts, we must conclude that the most probable explanation for the prophetic material of <a id="a161_785"></a>[UB 41:8.3](/en/The_Urantia_Book/41#p8_3) is that it is original to the Urantia Papers as received in 1934 and therefore comes into the category nominated in the revelatory mandate as key information supplied to fill missing gaps in our knowledge. At present, I do not believe that there is a satisfactory explanation for this statement from *The Urantia Book* in terms of attributing it to a human author.
 
 ## Links
 
@@ -198,9 +198,9 @@ The language, level of knowledge, and the terminology of the paper 41 reference 
 
 Sutton, C. *Spaceship Neutrino*. (Cambridge University Press, Cambridge, 1992)
 
-[^1]: [UB 101:4](/en/The_Urantia_Book/101#p4)
+[^1]: <a id="a200_6"></a>[UB 101:4](/en/The_Urantia_Book/101#p4)
 
-[^2]: [UB 41:8.3](/en/The_Urantia_Book/41#p8_3)
+[^2]: <a id="a202_6"></a>[UB 41:8.3](/en/The_Urantia_Book/41#p8_3)
 
 [^3]: Wolfgang Ernst Pauli (1900-1958) was a Swiss, then American, theoretical physicist who is among the founding fathers of “quantum mechanics.” He is famous for his “exclusion principle”. https://en.wikipedia.org/wiki/Wolfgang_Pauli
 
@@ -222,7 +222,7 @@ Sutton, C. *Spaceship Neutrino*. (Cambridge University Press, Cambridge, 1992)
 
 [^12]: William Samuel Sadler (1875-1969) was an American surgeon and psychoanalyst who formed a group of friends to publish **The Urantia Book** once they received these documents. From this group of friends came the Urantia Foundation, in charge of translating and disseminating the book. https://es.wikipedia.org/wiki/William_Samuel_Sadler
 
-[^13]: [UB 101:4.9](/en/The_Urantia_Book/101#p4_9)
+[^13]: <a id="a224_7"></a>[UB 101:4.9](/en/The_Urantia_Book/101#p4_9)
 
 [^14]: Phys. Reviews. Vol. 45
 

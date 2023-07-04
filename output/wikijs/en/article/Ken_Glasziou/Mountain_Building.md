@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-The Urantia Papers associate the processes of mountain building and drifting continents as being responsible for the chain of mountains on the west coast of the Americas reaching from Alaska to the bottom of South America. ([UB 60:3.2](/en/The_Urantia_Book/60#p3_2))
+The Urantia Papers associate the processes of mountain building and drifting continents as being responsible for the chain of mountains on the west coast of the Americas reaching from Alaska to the bottom of South America. (<a id="a36_224"></a>[UB 60:3.2](/en/The_Urantia_Book/60#p3_2))
 
 Modern readers probably do not give the statement a passing thought. But until the mid-1950’s and even later, continental drift was classified as a no-go heresy amongst the great majority of geologists. So why did the hypothetical committee of experts include it as a major factor for mountain building?
 
@@ -44,7 +44,7 @@ Today, only those well versed in current concepts of details of this account wou
 
 But what would the situation have been if all of their detail had been highly accurate?
 
-The answer we give to that question reflects our progress in understanding the purposes of this first phase of our universe career. Salvation, we are told, is by faith—and by faith alone. ([UB 141:7.6](/en/The_Urantia_Book/141#p7_6)) To understand that fact is to appreciate the peculiarities of these Urantia Papers.
+The answer we give to that question reflects our progress in understanding the purposes of this first phase of our universe career. Salvation, we are told, is by faith—and by faith alone. (<a id="a46_189"></a>[UB 141:7.6](/en/The_Urantia_Book/141#p7_6)) To understand that fact is to appreciate the peculiarities of these Urantia Papers.
 
 ## External links
 

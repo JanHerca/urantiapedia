@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-from [Urantia Paper 180, Sect. 5](/en/The_Urantia_Book/180#p5).
+from <a id="a36_5"></a>[Urantia Paper 180, Sect. 5](/en/The_Urantia_Book/180#p5).
 
 ## Summary
 
@@ -62,29 +62,29 @@ In at least some of the Urantia Papers, the word “truth” is used with meticu
 
 In rare moments of our dwelling upon supermaterial levels, it is possible for us to experience divine truth having its immediate origin in our Thought Adjuster. This “truth,” having become activated as spiritual truth, then becomes a permanent part of our growing soul.
 
-Provided at our personal request to aid us in the discernment of truth is the “Spirit of Truth,” in function, the combined spirits of the Father and our Creator Son. ([UB 194:2.16](/en/The_Urantia_Book/194#p2_16))
+Provided at our personal request to aid us in the discernment of truth is the “Spirit of Truth,” in function, the combined spirits of the Father and our Creator Son. (<a id="a64_167"></a>[UB 194:2.16](/en/The_Urantia_Book/194#p2_16))
 
-> “This divine endowment is not the letter or law of truth, neither is it to function as the form or expression of truth.” ([UB 180:5.1](/en/The_Urantia_Book/180#p5_1))
+> “This divine endowment is not the letter or law of truth, neither is it to function as the form or expression of truth.” (<a id="a66_124"></a>[UB 180:5.1](/en/The_Urantia_Book/180#p5_1))
 
 Whereas the Thought Adjuster is the gift of the Father to all men and women of Urantia, regardless of race or religion, and is constitutive with each person from the moment of their first moral decision in childhood, the Spirit of Truth is available “on request.”
 
-> “The new teacher is the conviction of truth, the consciousness and assurance of true meanings on real spirit levels. And this new teacher is the spirit of living and growing truth, expanding, unfolding, and adaptive truth”—provided to us for the specific purpose of truth identification. ([UB 180:5.1](/en/The_Urantia_Book/180#p5_1))
+> “The new teacher is the conviction of truth, the consciousness and assurance of true meanings on real spirit levels. And this new teacher is the spirit of living and growing truth, expanding, unfolding, and adaptive truth”—provided to us for the specific purpose of truth identification. (<a id="a70_291"></a>[UB 180:5.1](/en/The_Urantia_Book/180#p5_1))
 
-> “The true child of universe insight looks for the living Spirit of Truth in every wise saying. The God-knowing individual is constantly elevating wisdom to the living-truth levels of divine attainment;” ([UB 180:5.4](/en/The_Urantia_Book/180#p5_4))
+> “The true child of universe insight looks for the living Spirit of Truth in every wise saying. The God-knowing individual is constantly elevating wisdom to the living-truth levels of divine attainment;” (<a id="a72_206"></a>[UB 180:5.4](/en/The_Urantia_Book/180#p5_4))
 
 Wise sayings or other everyday experience, once recognized with the help of the Spirit of Truth as having truth value, may then, through the action of our Thought Adjuster, become constituent parts of our soul growth.
 
-> Living truth is special. It is “dynamic and can enjoy only an experiential existence in the human mind.” Elevated to the levels of divine attainment, “truth is a spiritual reality value experienced only by spirit-endowed beings who function upon supermaterial levels of universe consciousness and who, after the realization of truth, permit its spirit of activation to live within their souls.” ([UB 180:5.3](/en/The_Urantia_Book/180#p5_3))
+> Living truth is special. It is “dynamic and can enjoy only an experiential existence in the human mind.” Elevated to the levels of divine attainment, “truth is a spiritual reality value experienced only by spirit-endowed beings who function upon supermaterial levels of universe consciousness and who, after the realization of truth, permit its spirit of activation to live within their souls.” (<a id="a76_398"></a>[UB 180:5.3](/en/The_Urantia_Book/180#p5_3))
 
 There are several levels of attainment in truth comprehension that we may reach during our Urantian experience.
 
-> “This new teacher is the Spirit of Truth who will live with each one of you, in your hearts, and so will all the children of light be made one and be drawn toward one another. And in this very manner will my Father and I be able to live **in the souls of each one of you** and also **in the hearts of all other men** who love us and make that love real in their experiences by loving one another, even as I am now loving you.” ([UB 180:4.5](/en/The_Urantia_Book/180#p4_5))
+> “This new teacher is the Spirit of Truth who will live with each one of you, in your hearts, and so will all the children of light be made one and be drawn toward one another. And in this very manner will my Father and I be able to live **in the souls of each one of you** and also **in the hearts of all other men** who love us and make that love real in their experiences by loving one another, even as I am now loving you.” (<a id="a80_430"></a>[UB 180:4.5](/en/The_Urantia_Book/180#p4_5))
 
-To expand upon these levels of attainment, Jesus utilized the so-called Golden Rule. The Papers ([UB 74:7.5](/en/The_Urantia_Book/74#p7_5)) tell us it was taught in the Garden of Eden which may also explain it being known to such men as Plato, Aristotle, the Cyprian, Isocrates, Confucius in China, the first century BC Jewish scholars, Hillel and Philo, and also being cited in the Apocrypha ([Tobias 4.15](/en/Bible/Tobit/4#v15)). Confucius taught it as, “Do to others as you would want them to do to you” but more often it was expressed in a negative form.
+To expand upon these levels of attainment, Jesus utilized the so-called Golden Rule. The Papers (<a id="a82_97"></a>[UB 74:7.5](/en/The_Urantia_Book/74#p7_5)) tell us it was taught in the Garden of Eden which may also explain it being known to such men as Plato, Aristotle, the Cyprian, Isocrates, Confucius in China, the first century BC Jewish scholars, Hillel and Philo, and also being cited in the Apocrypha ([Tobias 4.15](/en/Bible/Tobit/4#v15)). Confucius taught it as, “Do to others as you would want them to do to you” but more often it was expressed in a negative form.
 
 The Papers appear to distinguish four levels by which the Golden Rule progresses to its highest form. It’s low level is:
 
-> “The golden rule, when divested of the superhuman insight of the Spirit of Truth, becomes nothing more than a rule of high ethical conduct.” ([UB 180:5.5](/en/The_Urantia_Book/180#p5_5))
+> “The golden rule, when divested of the superhuman insight of the Spirit of Truth, becomes nothing more than a rule of high ethical conduct.” (<a id="a86_144"></a>[UB 180:5.5](/en/The_Urantia_Book/180#p5_5))
 
 It is raised to a higher level as the positive injunction of a great moral teacher who embodied it with “the highest concept of moral obligation as regards fraternal relationships” where it becomes “the wise center and circumference of all their philosophy.”
 
@@ -92,25 +92,25 @@ It attains a higher level of interpretation in the kingdom of God-knowing truth 
 
 This appears to be the level in which the Spirit of Truth lives “with each one in your hearts.” Then at its highest level a quantum leap is made from “highest possible good” of recipients to their “highest cosmic good” relative to their future universe careers.
 
-> “But the true cosmic meaning of this rule of universal relationship is revealed only in its spiritual realization, in the interpretation of the law of conduct by the spirit of the Son to the spirit of the Father that indwells the soul of mortal man.” ([UB 180:5.8](/en/The_Urantia_Book/180#p5_8))
+> “But the true cosmic meaning of this rule of universal relationship is revealed only in its spiritual realization, in the interpretation of the law of conduct by the spirit of the Son to the spirit of the Father that indwells the soul of mortal man.” (<a id="a94_254"></a>[UB 180:5.8](/en/The_Urantia_Book/180#p5_8))
 
-> “Love, unselfishness, must undergo a constant and living readaptative interpretation of relationships in accordance with the leading of the Spirit of Truth. Love must thereby grasp the ever-changing and enlarging concepts of the **highest cosmic good** of the individual who is loved.” ([UB 180:5.10](/en/The_Urantia_Book/180#p5_10))
+> “Love, unselfishness, must undergo a constant and living readaptative interpretation of relationships in accordance with the leading of the Spirit of Truth. Love must thereby grasp the ever-changing and enlarging concepts of the **highest cosmic good** of the individual who is loved.” (<a id="a96_289"></a>[UB 180:5.10](/en/The_Urantia_Book/180#p5_10))
 
 This is the level in which “my Father and I will be able to live in the souls of each one of you.”
 
-> “And then love goes on to strike this same attitude concerning all other individuals who could possibly be influenced by the growing and living relationship of one spirit-led mortal’s love for other citizens of the universe.” ([UB 180:5.10](/en/The_Urantia_Book/180#p5_10))
+> “And then love goes on to strike this same attitude concerning all other individuals who could possibly be influenced by the growing and living relationship of one spirit-led mortal’s love for other citizens of the universe.” (<a id="a100_229"></a>[UB 180:5.10](/en/The_Urantia_Book/180#p5_10))
 
 To operate at this level we would need to have attained a communication level with the Spirit of Truth comparable to that which the human Jesus attained with his Thought Adjuster:
 
-> “Perfect synchrony and full communication had become established between the mortal mind of Jesus and the indwelling spirit Adjuster.” ([UB 136:2.2](/en/The_Urantia_Book/136#p2_2))
+> “Perfect synchrony and full communication had become established between the mortal mind of Jesus and the indwelling spirit Adjuster.” (<a id="a104_138"></a>[UB 136:2.2](/en/The_Urantia_Book/136#p2_2))
 
 The following information may be helpful:
 
-> “Do not make the mistake of expecting to become strongly intellectually conscious of the outpoured Spirit of Truth. The spirit never creates a consciousness of himself, only a consciousness of Michael, the Son. From the beginning Jesus taught that the spirit would not speak of himself. The proof, therefore, of your fellowship with the Spirit of Truth is not to be found in your consciousness of this spirit but rather in your experience of enhanced fellowship with Michael.” ([UB 194:2.4](/en/The_Urantia_Book/194#p2_4))
+> “Do not make the mistake of expecting to become strongly intellectually conscious of the outpoured Spirit of Truth. The spirit never creates a consciousness of himself, only a consciousness of Michael, the Son. From the beginning Jesus taught that the spirit would not speak of himself. The proof, therefore, of your fellowship with the Spirit of Truth is not to be found in your consciousness of this spirit but rather in your experience of enhanced fellowship with Michael.” (<a id="a108_480"></a>[UB 194:2.4](/en/The_Urantia_Book/194#p2_4))
 
 It certainly provides us with something to work on.
 
-> Each of the many, many stations in my Father's house is a stopping place, a life designed to prepare you for the next one ahead. ([UB 181:1.2](/en/The_Urantia_Book/181#p1_2))
+> Each of the many, many stations in my Father's house is a stopping place, a life designed to prepare you for the next one ahead. (<a id="a112_132"></a>[UB 181:1.2](/en/The_Urantia_Book/181#p1_2))
 
 ## External links
 

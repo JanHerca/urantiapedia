@@ -37,7 +37,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 ## References to The Urantia Book 
 
-You may see [in text citations](https://en.wikipedia.org/wiki/Citation) for Urantia Book quotations in this publication that look like this: ([UB 62:5.1](/en/The_Urantia_Book/62#p5_1)). The “62:5.1” portion can be used to look in a _Urantia Book_ at paper 62, section 5, paragraph 1. The “707.7” portion can be used to look in a Urantia Book published by Urantia Foundation before 2009 on page 707, paragraph 7. These citations may also include an embedded URL link that can take you to the quotation within _The Urantia Book_. 
+You may see [in text citations](https://en.wikipedia.org/wiki/Citation) for Urantia Book quotations in this publication that look like this: (<a id="a39_142"></a>[UB 62:5.1](/en/The_Urantia_Book/62#p5_1)). The “62:5.1” portion can be used to look in a _Urantia Book_ at paper 62, section 5, paragraph 1. The “707.7” portion can be used to look in a Urantia Book published by Urantia Foundation before 2009 on page 707, paragraph 7. These citations may also include an embedded URL link that can take you to the quotation within _The Urantia Book_. 
 
 These citations show the source of the quotation as coming from  _The Urantia Book_  Standard Reference Text. The entire notation  sequence can be represented as (paper:section.paragraph \[page.paragraph\]). For more information see: [https://urantiabook.org/what-is-the-standard-reference-text-Urantia-Book](https://urantiabook.org/what-is-the-standard-reference-text-Urantia-Book) and [https://urantiabook.org/text-standardization-Urantia-Book](https://urantiabook.org/text-standardization-Urantia-Book) 
 

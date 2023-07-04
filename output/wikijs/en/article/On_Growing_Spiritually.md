@@ -31,7 +31,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> “The goal of human self-realization should be spiritual, not material. The only realities worth striving for are divine, spiritual, and eternal.” ([UB 100:2.6](/en/The_Urantia_Book/100#p2_6))
+> “The goal of human self-realization should be spiritual, not material. The only realities worth striving for are divine, spiritual, and eternal.” (<a id="a33_149"></a>[UB 100:2.6](/en/The_Urantia_Book/100#p2_6))
 
 The Urantia Papers are strong on spiritual meanings and values. They tell us our soul is built from experiences having spiritual meaning and value that occur in the course of our earthly life, and that: “The Thought Adjuster will recall and rehearse for you only those memories and experiences which are a part of, and essential to, your universe career. . . .But much of your past life and its memories, having neither spiritual meaning nor morontia value, will perish with the material brain;”
 
@@ -45,7 +45,7 @@ Although the Urantia Papers inform us the only realities worth striving for are 
 
 So is there a way to put meat on the bones of these undefined terms? Fortunately the answer is yes. We can find it on page 1096:
 
-> “Spirituality becomes at once the indicator of one’s nearness to God and the measure of one’s usefulness to fellow beings. Spirituality enhances the ability to discover beauty in things, recognize truth in meanings, and discover goodness in values. Spiritual development is determined by capacity therefore and is directly proportional to the elimination of the selfish qualities of love.” ([UB 100:2.4](/en/The_Urantia_Book/100#p2_4))
+> “Spirituality becomes at once the indicator of one’s nearness to God and the measure of one’s usefulness to fellow beings. Spirituality enhances the ability to discover beauty in things, recognize truth in meanings, and discover goodness in values. Spiritual development is determined by capacity therefore and is directly proportional to the elimination of the selfish qualities of love.” (<a id="a47_393"></a>[UB 100:2.4](/en/The_Urantia_Book/100#p2_4))
 
 Whereas the concepts of truth, beauty, love and goodness defy exact definability, the declaration that our spiritual development is dependent on the elimination of selfishness provides something having substance for us to work on.
 
@@ -62,7 +62,7 @@ But at the conscious level of eliminating selfishness from our nature, the task 
 > The goal of philosophy is not knowledge but understanding.
 > _Wittgenstein_
 
-> Nothing ever seemed so important to Jesus as the individual human who chanced to be in his immediate presence. ([UB 138:8.9](/en/The_Urantia_Book/138#p8_9))
+> Nothing ever seemed so important to Jesus as the individual human who chanced to be in his immediate presence. (<a id="a64_114"></a>[UB 138:8.9](/en/The_Urantia_Book/138#p8_9))
 
 ## External links
 

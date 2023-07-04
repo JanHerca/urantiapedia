@@ -49,7 +49,7 @@ dateCreated: 2022-9-9T8:13:39Z
 > 
 > That religionists have believed so much that was false does not invalidate religion because religion is founded on the recognition of values and is validated by the faith of personal religious experience. Religion, then, is based on experience and religious thought; theology, the philosophy of religion, is an honest attempt to interpret that experience. Such interpretative beliefs may be right or wrong, or a mixture of truth and error.
 > 
-> The recognition of spiritual values is an experience which is superideational. There is no word in any human language which can be employed to designate this “sense,” “feeling,” “intuition,” or “experience” which we have elected to call God-consciousness. The spirit of God that dwells in man is not personal—the Adjuster is prepersonal—but this Monitor presents a value, exudes a flavor of divinity, which is personal in the highest and infinite sense. If God were not at least personal, he could not be conscious, and if not conscious, then would your God be infrahuman. ([UB 103:1.1-6](/en/The_Urantia_Book/103#p1_1))
+> The recognition of spiritual values is an experience which is superideational. There is no word in any human language which can be employed to designate this “sense,” “feeling,” “intuition,” or “experience” which we have elected to call God-consciousness. The spirit of God that dwells in man is not personal—the Adjuster is prepersonal—but this Monitor presents a value, exudes a flavor of divinity, which is personal in the highest and infinite sense. If God were not at least personal, he could not be conscious, and if not conscious, then would your God be infrahuman. (<a id="a51_576"></a>[UB 103:1.1-6](/en/The_Urantia_Book/103#p1_1))
 
 ## External links
 

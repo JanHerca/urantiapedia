@@ -82,11 +82,11 @@ Once at the tomb, Joseph and Nicodemus wrapped the body in cloths saturated with
 
 If there were two sheets, possibly the first sheet would have been taken back to his home by Joseph of Arimathea, along with the stretcher and vessels used for the embalming fluids. If so, Joseph and his family were its initial custodians. The Urantia Papers inform us that permission to dispose of the body of Jesus was granted to superhuman beings present at the tomb site:
 
-> “The mortal remains of Jesus underwent the same natural process of elemental disintegration as characterizes all human bodies on earth except that, in point of time, this natural mode of dissolution was greatly accelerated, hastened to that point where it became well-nigh instantaneous.” ([UB 189:2.8](/en/The_Urantia_Book/189#p2_8))
+> “The mortal remains of Jesus underwent the same natural process of elemental disintegration as characterizes all human bodies on earth except that, in point of time, this natural mode of dissolution was greatly accelerated, hastened to that point where it became well-nigh instantaneous.” (<a id="a84_292"></a>[UB 189:2.8](/en/The_Urantia_Book/189#p2_8))
 
 It appears highly unlikely that any natural laws of physics were suspended during this flash dissolution of the material body of Jesus. Thus, enormous heat would have been generated. Perhaps that is why the body was taken outside of the tomb for dissolution.
 
-Apparently the grave cloths were first removed. We are told that when Mary, and later Peter, went to the tomb, the napkin where Jesus' head had rested and the bandages were still in the tomb while the “covering sheet lay at the foot of the burial niche.” ([UB 189:4.6](/en/The_Urantia_Book/189#p4_6)) 
+Apparently the grave cloths were first removed. We are told that when Mary, and later Peter, went to the tomb, the napkin where Jesus' head had rested and the bandages were still in the tomb while the “covering sheet lay at the foot of the burial niche.” (<a id="a88_256"></a>[UB 189:4.6](/en/The_Urantia_Book/189#p4_6)) 
 
 ## Conclusions
 

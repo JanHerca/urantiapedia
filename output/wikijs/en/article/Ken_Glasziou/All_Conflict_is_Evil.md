@@ -38,15 +38,15 @@ Since we printed this clause as a quotation from _The Urantia Book_ in the final
 
 Typical of the comments is this one from reader, Gloria Colot, of Qld., Australia:
 
-“It is essential that this statement be understood in its entirety, therefore the meaning of the word ‘evil’ should be clarified. There are four levels of human misconduct; error, evil, sin, and iniquity. On [UB 67:1.4](/en/The_Urantia_Book/67#p1_4) _The Urantia Book_ tells us:”
+“It is essential that this statement be understood in its entirety, therefore the meaning of the word ‘evil’ should be clarified. There are four levels of human misconduct; error, evil, sin, and iniquity. On <a id="a40_208"></a>[UB 67:1.4](/en/The_Urantia_Book/67#p1_4) _The Urantia Book_ tells us:”
 
 “‘Error might be regarded as a misconception or distortion of reality. Evil is a partial realization, or maladjustment or distortion of reality. But sin is a purposeful resistance to divine reality—a conscious choosing to oppose spiritual progress—while iniquity consists in an open and persistent defiance of recognized reality and signifies such a degree of personality disintegration as to border on cosmic insanity.’”
 
 “It can be deduced from this that conflict may be evil but not sinful or iniquitous.”
 
-“On [UB 100:4.1](/en/The_Urantia_Book/100#p4_1), an apparent contradiction appears in this quotation, ‘New religious insights arise out of conflicts which initiate the choosing of new and better reaction habits in the place of older and inferior reaction patterns. New meanings only emerge amid conflict; and conflict persists only in the face of refusal to espouse the higher values connoted in superior meanings. Religious perplexities are inevitable; there can be no growth without psychic conflict and spiritual agitation.’”
+“On <a id="a46_4"></a>[UB 100:4.1](/en/The_Urantia_Book/100#p4_1), an apparent contradiction appears in this quotation, ‘New religious insights arise out of conflicts which initiate the choosing of new and better reaction habits in the place of older and inferior reaction patterns. New meanings only emerge amid conflict; and conflict persists only in the face of refusal to espouse the higher values connoted in superior meanings. Religious perplexities are inevitable; there can be no growth without psychic conflict and spiritual agitation.’”
 
-“On [UB 3:5.5-14](/en/The_Urantia_Book/3#p5_5) there are nine examples of ‘the uncertainties and the vicissitudes of existence. . . ’ Conflict seems to be inherent in all nine of these examples:”
+“On <a id="a48_4"></a>[UB 3:5.5-14](/en/The_Urantia_Book/3#p5_5) there are nine examples of ‘the uncertainties and the vicissitudes of existence. . . ’ Conflict seems to be inherent in all nine of these examples:”
 
 “1. Is courage—strength of character—desirable? Then must man be reared in an environment which necessitates grappling with hardships and reacting to disappointments.”
 “2. Is altruism—service of one’s fellows—desirable? Then must life experience provide for encountering situations of social inequality.”
@@ -58,7 +58,7 @@ Typical of the comments is this one from reader, Gloria Colot, of Qld., Australi
 “8. Is unselfishness—the spirit of self-forgetfulness—desirable? Then must mortal man live face to face with the incessant clamoring of an inescapable self for recognition and honor. Man could not dynamically choose the divine life if there were no self-life to forsake. Man could never lay saving hold on righteousness if there were no potential evil to exalt and differentiate the good by contrast.”
 “9. Is pleasure—the satisfaction of happiness—desirable? Then must man live in a world where the alternative of pain and the likelihood of suffering are ever-present experiential possibilities.”
 
-“Finally, on [UB 155:5.11](/en/The_Urantia_Book/155#p5_11), Jesus said, ‘The religion of the spirit means effort, struggle, conflict, faith, determination, love, loyalty, and progress.’”
+“Finally, on <a id="a60_13"></a>[UB 155:5.11](/en/The_Urantia_Book/155#p5_11), Jesus said, ‘The religion of the spirit means effort, struggle, conflict, faith, determination, love, loyalty, and progress.’”
 
 ---
 
@@ -72,7 +72,7 @@ Can it be denied that enormous “good” of many kinds flowed forth from the Wo
 
 There are many degrees of conflict but in most instances even mild conflict can be avoided by something better. Rodan displayed considerable wisdom on this topic:
 
-> “My philosophy tells me that there are times when I must fight, if need be, for the defense of my concept of righteousness, but I doubt not that the Master, with a more mature type of personality, would easily and gracefully gain an equal victory by his superior and winsome technique of tact and tolerance. All too often, when we battle for the right, it turns out that both the victor and the vanquished have sustained defeat. I heard the Master say only yesterday that the ‘wise man, when seeking entrance through the locked door, would not destroy the door but rather would seek for the key wherewith to unlock it.’ Too often we engage in a fight merely to convince ourselves that we are not afraid.” ([UB 160:3.4](/en/The_Urantia_Book/160#p3_4))
+> “My philosophy tells me that there are times when I must fight, if need be, for the defense of my concept of righteousness, but I doubt not that the Master, with a more mature type of personality, would easily and gracefully gain an equal victory by his superior and winsome technique of tact and tolerance. All too often, when we battle for the right, it turns out that both the victor and the vanquished have sustained defeat. I heard the Master say only yesterday that the ‘wise man, when seeking entrance through the locked door, would not destroy the door but rather would seek for the key wherewith to unlock it.’ Too often we engage in a fight merely to convince ourselves that we are not afraid.” (<a id="a74_708"></a>[UB 160:3.4](/en/The_Urantia_Book/160#p3_4))
 
 Too often, also, we humans unnecessarily engage in conflict because it is a part of our human frailty that we simply like to win, or we actually enjoy the adrenalin flush that conflict arouses. But what of the losers who are, after all, our brothers and sisters?
 

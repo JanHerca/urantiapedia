@@ -71,7 +71,7 @@ The cost of the registration as Truthseeker covers exactly the cost IC’17 is p
 - 
 Truthseeker scholarships are available with paying parent registration. Please contact the office for more information. 
 
-> “Children are permanently impressed only by the loyalties of their adult associates..” [[UB 100:1.4](/en/The_Urantia_Book/100#p1_4)]
+> “Children are permanently impressed only by the loyalties of their adult associates..” <a id="a73_89"></a>[[UB 100:1.4](/en/The_Urantia_Book/100#p1_4)]
 
 ## Invitation to participate in the IC’ 17 
 
@@ -255,7 +255,7 @@ Please consider supporting our efforts. Thank you!
 
 Send a check or money order to _The Urantia Book_ Fellowship, PO Box 6631, Broomfield, CO 80021, or visit www.urantiabook.org and click on word “Donate” on the main menu bar. 
 
-> _When man goes in partnership with God, great things may, and do, Happen._ [[UB 132:7.9](/en/The_Urantia_Book/132#p7_9)] 
+> _When man goes in partnership with God, great things may, and do, Happen._ <a id="a257_77"></a>[[UB 132:7.9](/en/The_Urantia_Book/132#p7_9)] 
 
 ## Notes from Here & There 
 
@@ -309,7 +309,7 @@ The gathering closed late Sunday morning with a discussion of essential principl
 
 This seminar was one of many collaborative educational efforts during the past few years of different combinations of committees from the Fellowship, the Foundation, and the UAI. Another will be this summer in Denver at the Fellowship’s IC17. There will be a a Forum of a number of educational organizations for the study of _The Urantia Book_, including a report from this seminar. The weekend included superb hosting by Joanne Strobel and delicious meals by Ashley Hayes. 
 
-> “...those who lead men to God experience the supreme satisfaction of human service.” [[UB 132:6.1](/en/The_Urantia_Book/132#p6_1)]
+> “...those who lead men to God experience the supreme satisfaction of human service.” <a id="a311_87"></a>[[UB 132:6.1](/en/The_Urantia_Book/132#p6_1)]
 
 ## Events
 

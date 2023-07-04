@@ -52,13 +52,13 @@ dateCreated: 2022-9-9T8:13:39Z
 > 
 > Many of your brethren have minds which accept the theory of God while they spiritually fail to realize the presence of God. And that is just the reason why I have so often taught you that the kingdom of heaven can best be realized by acquiring the spiritual attitude of a sincere child. It is not the mental immaturity of the child that I commend to you but rather the spiritual simplicity of such an easy-believing and fully-trusting little one. It is not so important that you should know about the fact of God as that you should increasingly grow in the ability to feel the presence of God.
 > 
-> When you once begin to find God in your soul, presently you will begin to discover him in other men’s souls and eventually in all the creatures and creations of a mighty universe. But what chance does the Father have to appear as a God of supreme loyalties and divine ideals in the souls of men who give little or no time to the thoughtful contemplation of such eternal realities? While the mind is not the seat of the spiritual nature, it is indeed the gateway thereto. ([UB 155:6.2-13](/en/The_Urantia_Book/155#p6_2))
+> When you once begin to find God in your soul, presently you will begin to discover him in other men’s souls and eventually in all the creatures and creations of a mighty universe. But what chance does the Father have to appear as a God of supreme loyalties and divine ideals in the souls of men who give little or no time to the thoughtful contemplation of such eternal realities? While the mind is not the seat of the spiritual nature, it is indeed the gateway thereto. (<a id="a54_474"></a>[UB 155:6.2-13](/en/The_Urantia_Book/155#p6_2))
 
 > You are my (new) apostles, and to you religion shall not become a theologic shelter to which you may flee in fear of facing the rugged realities of spiritual progress and idealistic adventure; but rather shall your religion become the fact of real experience which testifies that God has found you, idealized, ennobled, and spiritualized you, and that you have enlisted in the eternal adventure of finding the God who has thus found and son-shipped you.
 > 
-> And when Jesus had finished speaking, he beckoned, pointing to the west toward Phoenicia, said: ‘**Let us be on our way**.’ ([UB 155:6.18-19](/en/The_Urantia_Book/155#p6_18))
+> And when Jesus had finished speaking, he beckoned, pointing to the west toward Phoenicia, said: ‘**Let us be on our way**.’ (<a id="a58_127"></a>[UB 155:6.18-19](/en/The_Urantia_Book/155#p6_18))
 
-> Be not discouraged; human evolution is still in progress, and the revelation of God to the world, in and through Jesus, shall not fail. ([UB 196:3.33](/en/The_Urantia_Book/196#p3_33))
+> Be not discouraged; human evolution is still in progress, and the revelation of God to the world, in and through Jesus, shall not fail. (<a id="a60_139"></a>[UB 196:3.33](/en/The_Urantia_Book/196#p3_33))
 
 ## External links
 

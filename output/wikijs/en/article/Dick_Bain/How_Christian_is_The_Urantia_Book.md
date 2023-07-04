@@ -60,7 +60,7 @@ There are undoubtedly many other areas in which Biblical/Christian ideas are sim
 
 The Bible and Christian theology do contain ideas ignored or rejected by _The Urantia Book_ as follows:
 
-1. The Atonement Doctrine: Christian theology, based on Biblical interpretations, considers Jesus’ death on the cross a sacrifice to satisfy the justice of God. The authors of _The Urantia Book_ find this a particularly odious concept, calling it a “. . . barbarous idea . . .” ([UB 4:5.4](/en/The_Urantia_Book/4#p5_4)) [To be fair, it must be said that many liberal Christian theologians have rejected the sacrificial interpretation of the cross, and regard the word “Atonement” as indicative of a state of “At-one-ment” with God.]
+1. The Atonement Doctrine: Christian theology, based on Biblical interpretations, considers Jesus’ death on the cross a sacrifice to satisfy the justice of God. The authors of _The Urantia Book_ find this a particularly odious concept, calling it a “. . . barbarous idea . . .” (<a id="a62_279"></a>[UB 4:5.4](/en/The_Urantia_Book/4#p5_4)) [To be fair, it must be said that many liberal Christian theologians have rejected the sacrificial interpretation of the cross, and regard the word “Atonement” as indicative of a state of “At-one-ment” with God.]
 
 2. Hell: _The Urantia Book_ has no such place for temporary or eternal punishment. The ultimate consequence of iniquity is non- resurrection. 
 

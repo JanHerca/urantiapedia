@@ -56,7 +56,7 @@ I'll always be grateful for my last interaction with Steve on Urantia, which was
 
 In *The Urantia Book it is written:*
 
-> Jesus said: “Woman, where are your accusers? Did no man remain to stone you?” And the woman, lifting up her eyes, answered, “No man, Lord.” And then said Jesus: “I know about you; neither do I condemn you. Go your way in peace.” [[UB 162:3.5](/en/The_Urantia_Book/162#p3_5)] 
+> Jesus said: “Woman, where are your accusers? Did no man remain to stone you?” And the woman, lifting up her eyes, answered, “No man, Lord.” And then said Jesus: “I know about you; neither do I condemn you. Go your way in peace.” <a id="a58_231"></a>[[UB 162:3.5](/en/The_Urantia_Book/162#p3_5)] 
 
 Steve had tears in his eyes as he said, “Jesus *knew* this woman. He knew that the sin was not hers. In this small difference in the account,” he said, “we see the matchless character of the Master. How fully and intimately he knows and loves each one of us.” 
 

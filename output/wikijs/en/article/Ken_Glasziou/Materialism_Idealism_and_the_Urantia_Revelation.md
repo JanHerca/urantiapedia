@@ -80,7 +80,7 @@ At first the result appeared to be that each electron registered on the screen a
 
 Many years of quite ingenious experimentation were required to catalogue what happens.
 
-> God is possessed of unlimited power to know all things; his consciousness is universal. [UB 3:3.3](/en/The_Urantia_Book/3#p3_3)
+> God is possessed of unlimited power to know all things; his consciousness is universal. <a id="a82_90"></a>[UB 3:3.3](/en/The_Urantia_Book/3#p3_3)
 
 <figure class="image urantiapedia image-style-align-right">
 <img src="/image/article/Ken_Glasziou/Materialism_Idealism_and_the_Urantia_Revelation/Thomas_Young_experiment3.png">
@@ -211,7 +211,7 @@ Quantum theory then, when interpreted according to idealist metaphysics is pavin
 
 However a primary contribution of quantum physics to this scenario is that it has positively demonstrated a new dimension, non-locality, showing that there is more to this world than just matter, Einsteinian space-time, and a pre-determined, mechanistic universe.
 
-> the universe of universes in toto is mind planned, mind made, and mind administered. [UB 42:11.2](/en/The_Urantia_Book/42#p11_2)
+> the universe of universes in toto is mind planned, mind made, and mind administered. <a id="a213_87"></a>[UB 42:11.2](/en/The_Urantia_Book/42#p11_2)
 
 ## Reconciling Realism and Idealism
 
@@ -233,7 +233,7 @@ In the non-local universal consciousness all phenomena, even so-called classical
 
 With idealist science we have arrived at a science that excludes neither the subjective nor the objective, neither spirit nor matter–and thus is able to resolve the deep schisms of our thought.
 
-> All the worlds of every universe are constantly within the consciousness of God. [UB 3:3.2](/en/The_Urantia_Book/3#p3_2)
+> All the worlds of every universe are constantly within the consciousness of God. <a id="a235_83"></a>[UB 3:3.2](/en/The_Urantia_Book/3#p3_2)
 
 > The whole Universe is made from consciousness, and is existent only in consciousness.
 > Monistic idealism
@@ -242,22 +242,22 @@ With idealist science we have arrived at a science that excludes neither the sub
 
 (Please note that the words “consciousness” and “mind” are not precisely defined either in philosophy or in the Urantia revelation and tend to be interchangeable.)
 
-> In the evaluation and recognition of mind it should be remembered that **the universe** is neither mechanical nor magical; **it is a creation of mind** ([UB 42:11.1](/en/The_Urantia_Book/42#p11_1))
+> In the evaluation and recognition of mind it should be remembered that **the universe** is neither mechanical nor magical; **it is a creation of mind** (<a id="a244_155"></a>[UB 42:11.1](/en/The_Urantia_Book/42#p11_1))
 
 
-> “Mechanisms do not absolutely dominate the total creation; **the universe of universes in toto is mind planned, mind made, and mind administered**. But the divine mechanism of the universe of universes is altogether too perfect for the scientific methods of the finite mind of man to discern even a trace of the dominance of the infinite mind. For this creating, controlling, and upholding mind is neither material mind nor creature mind; it is spirit-mind functioning on and from creator levels of divine reality.” ([UB 42:11.2](/en/The_Urantia_Book/42#p11_2))
+> “Mechanisms do not absolutely dominate the total creation; **the universe of universes in toto is mind planned, mind made, and mind administered**. But the divine mechanism of the universe of universes is altogether too perfect for the scientific methods of the finite mind of man to discern even a trace of the dominance of the infinite mind. For this creating, controlling, and upholding mind is neither material mind nor creature mind; it is spirit-mind functioning on and from creator levels of divine reality.” (<a id="a247_519"></a>[UB 42:11.2](/en/The_Urantia_Book/42#p11_2))
 
 
-> “Cosmic mind is the diversified mind of time and space. Cosmic mind comprises all finite mind levels and coordinates experientially with the evolutionary deity levels of Supreme Mind and transcendentally with the existential levels of absolute mind. Mind always connotes the presence and activity of loving ministry plus varied energy systems, and this is true of all kinds of mind. Paradise mind is beyond human understanding; It is existential, non-spatial, and non-temporal.” ([UB 42:10.6](/en/The_Urantia_Book/42#p10_6))
+> “Cosmic mind is the diversified mind of time and space. Cosmic mind comprises all finite mind levels and coordinates experientially with the evolutionary deity levels of Supreme Mind and transcendentally with the existential levels of absolute mind. Mind always connotes the presence and activity of loving ministry plus varied energy systems, and this is true of all kinds of mind. Paradise mind is beyond human understanding; It is existential, non-spatial, and non-temporal.” (<a id="a250_482"></a>[UB 42:10.6](/en/The_Urantia_Book/42#p10_6))
 
 
-> “The Universal Father is the only personality in all the universe who does actually know the number of the stars and planets of space. All the worlds of every universe are constantly within the **consciousness** of God.” ([UB 3:3.2](/en/The_Urantia_Book/3#p3_2))
+> “The Universal Father is the only personality in all the universe who does actually know the number of the stars and planets of space. All the worlds of every universe are constantly within the **consciousness** of God.” (<a id="a253_224"></a>[UB 3:3.2](/en/The_Urantia_Book/3#p3_2))
 
 
-> “God is possessed of unlimited power to know all things; his **consciousness** is universal. His personal circuit encompasses all personalities, and his knowledge of even the lowly creatures is supplemented indirectly through the descending series of divine Sons and directly through the indwelling Spirit of the Father.” ([UB 3:3.3](/en/The_Urantia_Book/3#p3_3))
+> “God is possessed of unlimited power to know all things; his **consciousness** is universal. His personal circuit encompasses all personalities, and his knowledge of even the lowly creatures is supplemented indirectly through the descending series of divine Sons and directly through the indwelling Spirit of the Father.” (<a id="a256_325"></a>[UB 3:3.3](/en/The_Urantia_Book/3#p3_3))
 
 
-> “The Universal Father realizes in the fullness of the divine **consciousness** all the individual experience of the progressive struggles of the expanding minds and the ascending spirits of every entity, being, and personality of the whole evolutionary creation of time and space. And all this is literally true, for ”**in Him we all live and move and have our being**." ([UB 1:5.16](/en/The_Urantia_Book/1#p5_16))
+> “The Universal Father realizes in the fullness of the divine **consciousness** all the individual experience of the progressive struggles of the expanding minds and the ascending spirits of every entity, being, and personality of the whole evolutionary creation of time and space. And all this is literally true, for ”**in Him we all live and move and have our being**." (<a id="a259_374"></a>[UB 1:5.16](/en/The_Urantia_Book/1#p5_16))
 
 > With tie and patience, the mulberry leaf becomes silk.
 > Chinese proverb
@@ -432,35 +432,35 @@ Thus we conclude that the concepts of monistic idealism and the thoughts present
 > 
 > 1. Pre-personal—as in the ministry of the Father fragments, his indwelling Spirit.
 > 2. Personal—as in the evolutionary experience of created and procreated beings.
-> 3. Super-personal—as in the eventuated existences of certain transcendent beings. ([UB 0:2.2-5](/en/The_Urantia_Book/0#p2_2))
+> 3. Super-personal—as in the eventuated existences of certain transcendent beings. (<a id="a434_85"></a>[UB 0:2.2-5](/en/The_Urantia_Book/0#p2_2))
 
-> God is possessed of unlimited power to know all things; his consciousness is universal. His personal circuit encompasses all personalities, and his knowledge of even the lowly creatures is supplemented indirectly through the descending series of divine Sons and directly through his indwelling Spirit. And furthermore, the Infinite Spirit is all the time everywhere present. ([UB 3:3.3](/en/The_Urantia_Book/3#p3_3))
+> God is possessed of unlimited power to know all things; his consciousness is universal. His personal circuit encompasses all personalities, and his knowledge of even the lowly creatures is supplemented indirectly through the descending series of divine Sons and directly through his indwelling Spirit. And furthermore, the Infinite Spirit is all the time everywhere present. (<a id="a436_378"></a>[UB 3:3.3](/en/The_Urantia_Book/3#p3_3))
 
-> The Universal Father is the only personality in all the universe who does actually know the number of the stars and planets of space. All the worlds of every universe are constantly within the consciousness of God. ([UB 3:3.2](/en/The_Urantia_Book/3#p3_2))
+> The Universal Father is the only personality in all the universe who does actually know the number of the stars and planets of space. All the worlds of every universe are constantly within the consciousness of God. (<a id="a438_218"></a>[UB 3:3.2](/en/The_Urantia_Book/3#p3_2))
 
-> The cosmic mind encompasses all finite-mind levels and co-ordinates experientially with the evolutionary-deity levels of the Supreme Mind and transcendentally with the existential levels of absolute mind—the direct circuits of the Conjoint Actor. ([UB 42:10.6](/en/The_Urantia_Book/42#p10_6))
+> The cosmic mind encompasses all finite-mind levels and co-ordinates experientially with the evolutionary-deity levels of the Supreme Mind and transcendentally with the existential levels of absolute mind—the direct circuits of the Conjoint Actor. (<a id="a440_250"></a>[UB 42:10.6](/en/The_Urantia_Book/42#p10_6))
 
-> Mind always connotes the presence-activity of living ministry plus varied energy systems, and this is true of all levels and of all kinds of mind. But beyond the cosmic mind it becomes increasingly difficult to portray the relationships of mind to non-spiritual energy. . . . Paradise mind is beyond human understanding; it is existential, non-spatial, and non-temporal. ([UB 42:10.7](/en/The_Urantia_Book/42#p10_7))
+> Mind always connotes the presence-activity of living ministry plus varied energy systems, and this is true of all levels and of all kinds of mind. But beyond the cosmic mind it becomes increasingly difficult to portray the relationships of mind to non-spiritual energy. . . . Paradise mind is beyond human understanding; it is existential, non-spatial, and non-temporal. (<a id="a442_374"></a>[UB 42:10.7](/en/The_Urantia_Book/42#p10_7))
 
-> Faith transmutes potentials to actuals in the spiritual world, but potentials become actuals in the finite realms of the Supreme only by and through the realization of choice-experience. ([UB 110:6.17](/en/The_Urantia_Book/110#p6_17)) [Note: the Supreme is the finite God of the finite.]
+> Faith transmutes potentials to actuals in the spiritual world, but potentials become actuals in the finite realms of the Supreme only by and through the realization of choice-experience. (<a id="a444_190"></a>[UB 110:6.17](/en/The_Urantia_Book/110#p6_17)) [Note: the Supreme is the finite God of the finite.]
 
-> Human consciousness rests gently upon the electrochemical mechanism below and delicately touches the spirit-energy system above. Of neither of these two systems is the human being ever completely conscious in his mortal life; therefore must he work in mind, of which he is conscious. And it is not so much what mind comprehends as what mind desires to comprehend that insures survival; it is not so much what mind is like as what mind is striving to be like that constitutes spirit identification. It is not so much that man is conscious of God as that man yearns for God that results in universe ascension. What you are today is not so important as what you are becoming day by day and in eternity. ([UB 111:1.5](/en/The_Urantia_Book/111#p1_5))
+> Human consciousness rests gently upon the electrochemical mechanism below and delicately touches the spirit-energy system above. Of neither of these two systems is the human being ever completely conscious in his mortal life; therefore must he work in mind, of which he is conscious. And it is not so much what mind comprehends as what mind desires to comprehend that insures survival; it is not so much what mind is like as what mind is striving to be like that constitutes spirit identification. It is not so much that man is conscious of God as that man yearns for God that results in universe ascension. What you are today is not so important as what you are becoming day by day and in eternity. (<a id="a446_703"></a>[UB 111:1.5](/en/The_Urantia_Book/111#p1_5))
 
-> God-consciousness, as it is experienced by an evolving mortal of the realms, must consist of three varying factors, three differential levels of reality realization. There is first the mind consciousness—the comprehension of the idea of God. Then follows the soul consciousness—the realization of the ideal of God. Last, dawns the spirit consciousness—the realization of the spirit reality of God. ([UB 5:5.11](/en/The_Urantia_Book/5#p5_11))
+> God-consciousness, as it is experienced by an evolving mortal of the realms, must consist of three varying factors, three differential levels of reality realization. There is first the mind consciousness—the comprehension of the idea of God. Then follows the soul consciousness—the realization of the ideal of God. Last, dawns the spirit consciousness—the realization of the spirit reality of God. (<a id="a448_401"></a>[UB 5:5.11](/en/The_Urantia_Book/5#p5_11))
 
-> The bestowal of personality is the exclusive function of the Universal Father, the personalization of the living energy systems which he endows with the attributes of relative creative consciousness and the freewill control thereof. ([UB 5:6.4](/en/The_Urantia_Book/5#p6_4))
+> The bestowal of personality is the exclusive function of the Universal Father, the personalization of the living energy systems which he endows with the attributes of relative creative consciousness and the freewill control thereof. (<a id="a450_236"></a>[UB 5:6.4](/en/The_Urantia_Book/5#p6_4))
 
-> The Supreme Being did not create man, but man was literally created out of, his very life was derived from, the potentiality of the Supreme. Nor does he evolve man; yet is the Supreme himself the very essence of evolution. From the finite standpoint, we actually live, move, and have our being within the immanence of the Supreme. ([UB 117:3.12](/en/The_Urantia_Book/117#p3_12))
+> The Supreme Being did not create man, but man was literally created out of, his very life was derived from, the potentiality of the Supreme. Nor does he evolve man; yet is the Supreme himself the very essence of evolution. From the finite standpoint, we actually live, move, and have our being within the immanence of the Supreme. (<a id="a452_334"></a>[UB 117:3.12](/en/The_Urantia_Book/117#p3_12))
 
 > The evolving soul of mortal man is created out of the pre-existent possibility for such experience within the Supreme. 
 > 
-> In this manner do the manifold experiences of all creation become a part of the evolution of Supremacy. Creatures merely utilize the qualities and quantities of the finite as they ascend to the Father; the impersonal consequences of such utilization remain forever a part of the living cosmos, the Supreme person. ([UB 117:5.11-12](/en/The_Urantia_Book/117#p5_11))
+> In this manner do the manifold experiences of all creation become a part of the evolution of Supremacy. Creatures merely utilize the qualities and quantities of the finite as they ascend to the Father; the impersonal consequences of such utilization remain forever a part of the living cosmos, the Supreme person. (<a id="a456_317"></a>[UB 117:5.11-12](/en/The_Urantia_Book/117#p5_11))
 
-> Time, space, and experience are man's greatest aids to relative reality perception and yet his most formidable obstacles to complete reality perception. Mortals find it necessary to think of potentials as being actualized in space and evolving to fruition in time, but this entire process is a time-space phenomenon which does not actually take place in eternity. On the absolute level there is neither time nor space; all potentials may be there perceived as actuals. ([UB 106:9.3](/en/The_Urantia_Book/106#p9_3))
+> Time, space, and experience are man's greatest aids to relative reality perception and yet his most formidable obstacles to complete reality perception. Mortals find it necessary to think of potentials as being actualized in space and evolving to fruition in time, but this entire process is a time-space phenomenon which does not actually take place in eternity. On the absolute level there is neither time nor space; all potentials may be there perceived as actuals. (<a id="a458_472"></a>[UB 106:9.3](/en/The_Urantia_Book/106#p9_3))
 
-> Those who know God have experienced the fact of his presence; such God-knowing mortals hold in their personal experience the only positive proof of the existence of the living God which one human being can offer to another. The existence of God is utterly beyond all possibility of demonstration except for the contact between the God-consciousness of the human mind and the God-presence-within that indwells the mortal intellect and is bestowed upon man as the free gift of the Universal Father. ([UB 1:2.8](/en/The_Urantia_Book/1#p2_8))
+> Those who know God have experienced the fact of his presence; such God-knowing mortals hold in their personal experience the only positive proof of the existence of the living God which one human being can offer to another. The existence of God is utterly beyond all possibility of demonstration except for the contact between the God-consciousness of the human mind and the God-presence-within that indwells the mortal intellect and is bestowed upon man as the free gift of the Universal Father. (<a id="a460_500"></a>[UB 1:2.8](/en/The_Urantia_Book/1#p2_8))
 
-> We are fully cognizant of the difficulties of our assignment; we recognize the impossibility of fully translating the language of the concepts of divinity and eternity into the symbols of the language of the finite concepts of the mortal mind. But we know that there dwells within the human mind a fragment of God, and that there sojourns with the human soul the Spirit of Truth; and we further know that these spirit forces conspire to enable material man to grasp the reality of spiritual values and to comprehend the philosophy of universe meanings. But even more certainly we know that these spirits of the Divine Presence are able to assist man in the spiritual appropriation of all truth contributory to the enhancement of the ever-progressing reality of personal religious experience—God-consciousness. ([UB 0:12.13](/en/The_Urantia_Book/0#p12_13))
+> We are fully cognizant of the difficulties of our assignment; we recognize the impossibility of fully translating the language of the concepts of divinity and eternity into the symbols of the language of the finite concepts of the mortal mind. But we know that there dwells within the human mind a fragment of God, and that there sojourns with the human soul the Spirit of Truth; and we further know that these spirit forces conspire to enable material man to grasp the reality of spiritual values and to comprehend the philosophy of universe meanings. But even more certainly we know that these spirits of the Divine Presence are able to assist man in the spiritual appropriation of all truth contributory to the enhancement of the ever-progressing reality of personal religious experience—God-consciousness. (<a id="a462_813"></a>[UB 0:12.13](/en/The_Urantia_Book/0#p12_13))
 
 ### Value Creation
 
@@ -476,7 +476,7 @@ Thus we conclude that the concepts of monistic idealism and the thoughts present
 > 
 > Unless a Divine Lover lived in the mind of man, individuals could not unselfishly and spiritually love. And unless an Interpreter lived in their minds, they could not truly realize the unity of the universe. Also, unless an Evaluator indwelt each mind, that mind could not appraise moral values nor recognize spiritual meanings. This Indwelling Lover hails from the very source of Infinite Love; this Interpreter is part of Universal Unity; this evaluator is of the Center and Source of all absolute values of divine and eternal reality.
 > 
-> . . . Human survival is, in great measure, dependent on consecrating the human will to the choosing of those values selected by this spirit-value sorter—the indwelling interpreter and unifier—our indwelling God-Spirit. ([UB 196:3.10-17](/en/The_Urantia_Book/196#p3_10))
+> . . . Human survival is, in great measure, dependent on consecrating the human will to the choosing of those values selected by this spirit-value sorter—the indwelling interpreter and unifier—our indwelling God-Spirit. (<a id="a478_222"></a>[UB 196:3.10-17](/en/The_Urantia_Book/196#p3_10))
 
 ## What does it all Mean?
 

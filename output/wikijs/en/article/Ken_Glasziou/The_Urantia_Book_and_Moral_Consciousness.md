@@ -46,11 +46,11 @@ dateCreated: 2022-9-9T8:13:39Z
 > 9. Lives and triumphs irrespective of the crushing overload of the complex and partial civilizations of modern times.
 > 10. Contributes to the continued survival of altruism in spite of human selfishness, social antagonisms, industrial greeds, and political maladjustments.
 > 11. Steadfastly adheres to a sublime belief in universe unity and divine guidance regardless of the perplexing presence of evil and sin.
-> 12. Goes right on worshiping God in spite of anything and everything. Dares to declare, “Even though he slay me, yet will I serve him. ([UB 101:3.4-16](/en/The_Urantia_Book/101#p3_4))
+> 12. Goes right on worshiping God in spite of anything and everything. Dares to declare, “Even though he slay me, yet will I serve him. (<a id="a48_138"></a>[UB 101:3.4-16](/en/The_Urantia_Book/101#p3_4))
 
-> Spiritual attainment is the true goal of living. ([UB 170:2.6](/en/The_Urantia_Book/170#p2_6))
+> Spiritual attainment is the true goal of living. (<a id="a50_52"></a>[UB 170:2.6](/en/The_Urantia_Book/170#p2_6))
 
-> In science the human self observes the material world; philosophy is the observation of this observation of the material world; religion, true spiritual experience, is the experiential realization of the cosmic reality of the observation of the observation... ([UB 112:2.12](/en/The_Urantia_Book/112#p2_12))
+> In science the human self observes the material world; philosophy is the observation of this observation of the material world; religion, true spiritual experience, is the experiential realization of the cosmic reality of the observation of the observation... (<a id="a52_263"></a>[UB 112:2.12](/en/The_Urantia_Book/112#p2_12))
 
 ## External links
 

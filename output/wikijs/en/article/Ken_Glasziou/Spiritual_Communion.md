@@ -47,7 +47,7 @@ Jesus swept away all of the ceremonials of sacrifice and atonement. He destroyed
 
 God, the Father, deals with man, his child, on the basis, not of actual virtue or worthiness, but in recognition of the child’s motivation–the creature purpose and intent. The relationship is one of parent-child association and is actuated by divine love.
 
-> This modern age will refuse to accept a religion that is inconsistent with facts and out of harmony with its highest conceptions of truth, beauty, and goodness. ([UB 195:9.5](/en/The_Urantia_Book/195#p9_5))
+> This modern age will refuse to accept a religion that is inconsistent with facts and out of harmony with its highest conceptions of truth, beauty, and goodness. (<a id="a49_164"></a>[UB 195:9.5](/en/The_Urantia_Book/195#p9_5))
 
 ## External links
 

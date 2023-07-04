@@ -44,7 +44,7 @@ If you would engage in effective prayer, you should bear in mind the following:
 - Your prayer will be directed exclusively for divine wisdom to solve the specific human problems encountered in the Paradise ascension--the attainment of divine perfection.
 - And you must have faith--living faith.
 
-> You may preach a religion about Jesus, but, perforce, you must I live the religion of Jesus. ([UB 195:4.4](/en/The_Urantia_Book/195#p4_4))
+> You may preach a religion about Jesus, but, perforce, you must I live the religion of Jesus. (<a id="a46_96"></a>[UB 195:4.4](/en/The_Urantia_Book/195#p4_4))
 
 ## External links
 

@@ -39,7 +39,7 @@ dateCreated: 2022-9-9T8:13:39Z
 > The Book’s physical description of the mansion and higher worlds must also be an adaptation from the reality, but undoubtedly the reality will be an advance over the description given us.
 {.is-info}
 
-Do you have trouble imagining the four dimensional universe of relativity? Then imagine the difficulty faced by the _Urantia Book_ revelators in conveying to us a mental concept of a seven dimensional universe. ([UB 130:7.6](/en/The_Urantia_Book/130#p7_6)) This problem was highlighted by Australian reader, Nigel Nunn, who comments that the torus-like description given us for the Master Universe must be some kind of geometrical projection or representation as seen from a higher dimension rather than being reality.
+Do you have trouble imagining the four dimensional universe of relativity? Then imagine the difficulty faced by the _Urantia Book_ revelators in conveying to us a mental concept of a seven dimensional universe. (<a id="a41_212"></a>[UB 130:7.6](/en/The_Urantia_Book/130#p7_6)) This problem was highlighted by Australian reader, Nigel Nunn, who comments that the torus-like description given us for the Master Universe must be some kind of geometrical projection or representation as seen from a higher dimension rather than being reality.
 
 The revelators also speak of antigravity as a means by which the Power Directors control energy and mass distribution. But for a considerable period, the concept of antigravity had no place among our physicists and cosmologists.
 
@@ -51,7 +51,7 @@ With all possibilities apparently exhausted, what was left was either an open un
 
 To make the latter work, we have a re-introduction of Einstein’s long abandoned cosmological constant, which acts to oppose the effect of gravity with a repulsive rather than an attractive force, antigravity. Sounds simple enough, but it now has to be tuned to an accuracy of 123 decimal places–124 will not do. So no wonder that Einstein was pleased to let it go.
 
-Among other things _The Urantia Book_ tells us that, “_antigravity is a power of the Infinite Spirit. . . .It can annul gravity within a local frame. It does so by the exercise of equal force presence. It operates only with reference to material gravity, and it is not the action of mind._” ([UB 9:3.3](/en/The_Urantia_Book/9#p3_3)) I wonder who has the task of balancing it to the 123rd decimal place?
+Among other things _The Urantia Book_ tells us that, “_antigravity is a power of the Infinite Spirit. . . .It can annul gravity within a local frame. It does so by the exercise of equal force presence. It operates only with reference to material gravity, and it is not the action of mind._” (<a id="a53_292"></a>[UB 9:3.3](/en/The_Urantia_Book/9#p3_3)) I wonder who has the task of balancing it to the 123rd decimal place?
 
 Image here
 

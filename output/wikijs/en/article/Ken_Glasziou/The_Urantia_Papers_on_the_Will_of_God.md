@@ -54,15 +54,15 @@ Jesus said: The will of God is the way of God, partnership with the choice of Go
 
 > To do the Will of God, therefore, is the progressive experience of becoming more and more like God, and God is the source and destiny of all that is good and beautiful and true.
 
-> Fail not to remember that the will of God can be done in any earthly occupation. Some callings are not holy and others secular. All things are sacred in the lives of those who are spirit led–that is, subordinated to truth, ennobled by love, dominated by mercy, and restrained by fairness–justice. The spirit which my Father and I shall send into the world is not only the Spirit of Truth but also the spirit of idealistic beauty. ([UB 155:6.11](/en/The_Urantia_Book/155#p6_11))
+> Fail not to remember that the will of God can be done in any earthly occupation. Some callings are not holy and others secular. All things are sacred in the lives of those who are spirit led–that is, subordinated to truth, ennobled by love, dominated by mercy, and restrained by fairness–justice. The spirit which my Father and I shall send into the world is not only the Spirit of Truth but also the spirit of idealistic beauty. (<a id="a56_433"></a>[UB 155:6.11](/en/The_Urantia_Book/155#p6_11))
 
-> “When God’s will is your law, you are noble slave subjects; but when you believe in this new gospel of divine sonship, my Father’s will becomes your will, and you are elevated to the high position of the free children of God, liberated sons of the kingdom.” (Jesus) ([UB 141:2.2](/en/The_Urantia_Book/141#p2_2))
+> “When God’s will is your law, you are noble slave subjects; but when you believe in this new gospel of divine sonship, my Father’s will becomes your will, and you are elevated to the high position of the free children of God, liberated sons of the kingdom.” (Jesus) (<a id="a58_269"></a>[UB 141:2.2](/en/The_Urantia_Book/141#p2_2))
 
 The kingdom of God in this world is the supreme desire to do the will of God, the unselfish love of man which yields the good fruits of improved ethical and moral conduct.
 
 Though we cannot see God, we can know him. And by daily living the will of the Father in heaven, we can reveal him to our fellow men.
 
-> In the coming kingdom, be not mindful of those things which foster your anxiety but rather at all times concern yourselves only with doing the will of the Father who is in heaven. ([UB 137:1.6](/en/The_Urantia_Book/137#p1_6))
+> In the coming kingdom, be not mindful of those things which foster your anxiety but rather at all times concern yourselves only with doing the will of the Father who is in heaven. (<a id="a64_183"></a>[UB 137:1.6](/en/The_Urantia_Book/137#p1_6))
 
 The human Jesus saw God as being holy, just, and great, as well as being true, beautiful, and good. All these attributes of divinity he focused in his mind as the “will of the Father in heaven.”
 

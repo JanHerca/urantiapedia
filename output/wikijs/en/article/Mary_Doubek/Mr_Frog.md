@@ -38,7 +38,7 @@ dateCreated: 2023-6-21T8:13:38Z
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/009.jpg">
 </figure>
 
-> You can hardly realize by what narrow margins your prehuman ancestors missed extinction from time to time. Had the ancestral frog of all humanity jumped two inches less on a certain occasion, the whole course of evolution would have been markedly changed. [UB 62:3.9](/en/The_Urantia_Book/62#p3_9)
+> You can hardly realize by what narrow margins your prehuman ancestors missed extinction from time to time. Had the ancestral frog of all humanity jumped two inches less on a certain occasion, the whole course of evolution would have been markedly changed. <a id="a40_258"></a>[UB 62:3.9](/en/The_Urantia_Book/62#p3_9)
 
 ## External Links
 

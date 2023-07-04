@@ -123,7 +123,7 @@ Michael Challis, President
 _The Urantia Book_ Fellowship
 From the President
 
-> “…in all group relationships we unfailingly provide for definite lesdership.”—Jesus [[UB 181:2.16](/en/The_Urantia_Book/181#p2_16)]
+> “…in all group relationships we unfailingly provide for definite lesdership.”—Jesus <a id="a125_86"></a>[[UB 181:2.16](/en/The_Urantia_Book/181#p2_16)]
 
 ## Lessons From the Pipeline
 
@@ -300,7 +300,7 @@ By _Barbara Maier_
 <img src="/image/article/The_Mighty_Messenger/2015_Fall/005877.jpg">
 </figure>
 
-Sept 17 - 20, 2015, 90 students of _The Urantia Book_ heeded the Call of their Spirit and came to the inaugural event of the newly created UCPNW. At the rustic and comfortable Mt Hood, Oregon Kiwanis Camp, we spent four days enacting our themes of Getting to Know One Another and Living the Fruits of the Spirit. A dedicated planning committee of 8, spent 10 months using IT strategies to create this event and to reestablish the connection to grow locally and support regionally within the 5 areas of Alaska, British Columbia, Idaho, Oregon, and Washington. The motivating principles of this Gathering came from “If you could only know your fellows, you would eventually fall in love with them.” ([UB 100:4.5](/en/The_Urantia_Book/100#p4_5)) and Jesus taught that service to one’s fellows is the highest concept of the brotherhood of spirit believers. ([UB 188:4.9](/en/The_Urantia_Book/188#p4_9))
+Sept 17 - 20, 2015, 90 students of _The Urantia Book_ heeded the Call of their Spirit and came to the inaugural event of the newly created UCPNW. At the rustic and comfortable Mt Hood, Oregon Kiwanis Camp, we spent four days enacting our themes of Getting to Know One Another and Living the Fruits of the Spirit. A dedicated planning committee of 8, spent 10 months using IT strategies to create this event and to reestablish the connection to grow locally and support regionally within the 5 areas of Alaska, British Columbia, Idaho, Oregon, and Washington. The motivating principles of this Gathering came from “If you could only know your fellows, you would eventually fall in love with them.” (<a id="a302_698"></a>[UB 100:4.5](/en/The_Urantia_Book/100#p4_5)) and Jesus taught that service to one’s fellows is the highest concept of the brotherhood of spirit believers. (<a id="a302_854"></a>[UB 188:4.9](/en/The_Urantia_Book/188#p4_9))
 
 Age groups ranged from their 90’s to grade school, though predominately the average age was mid 50’s. Many flew or carpooled long distances. We were evenly divided between men and women. For many this was their first Urantia event and their first regional meet-up. We gave scholarships, provided service to the Kiwanis Camp, had lots of volunteers, and came away filled to the brim.
 

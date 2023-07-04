@@ -40,7 +40,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 by _Aprilhelen_
 
-> “One of the most important lessons to be learned during your mortal career is teamtvork.” [UB 28:5.14](/en/The_Urantia_Book/28#p5_14)
+> “One of the most important lessons to be learned during your mortal career is teamtvork.” <a id="a42_92"></a>[UB 28:5.14](/en/The_Urantia_Book/28#p5_14)
 
 You may have read my other article in this _Mighty Messenger_, [“The First Urantia Book Conference in Uganda: A personal account.”](/en/article/Aprilhelen/The_First_Urantia_Book_Conference_in_Uganda) Looking through the lens of my multiple experiences serving internationally, most recently in Uganda, serving the International Fellowship Committee (IFC) of The Urantia Book Fellowship (a.k.a. the Fellowship), and being a conference planner for the last three decades, I am offering the ideas below for the potential of adding value to our growing Urantia Book community and the Supreme Being (the aspect of God that we each get to participate in its evolution).
 
@@ -98,7 +98,7 @@ As we witness the emergence of devoted students, we can help to train them for t
 
 Leadership training based on the teachings of _The Urantia Book_ would do very well for those desiring to serve in this way. It is also collective knowledge that nothing replaces immersing oneself into the teachings to progress with spiritual fragrance. As some of you may know, I have been exploring the expression of spiritual values within leader development over the last several years through [Urantia University Institute](https://www.urantiauniversity.org/) and the Progress Project Service Corps. We have identified many major themes of Jesusonian methods, especially principles for navigating interrelational challenges and communicating in the service of progress.
 
-_Efective and wise leadership_. In civilization much, very much, depends on an enthusiastic and effective load- pulling spirit. Ten men are of little more value than one in lifting a great load unless they lift together—all at the same moment. And such teamwork—social ccyoperation—is dependent on leadership. The cultural civilizations of the past and the present have been based upon the intelligent co-operation of the citizenry with wise and progressive leaders; and until man evolves to higher levels, civilization will continue to be dependent on wise and vigorous leadership. [UB 81:6.37](/en/The_Urantia_Book/81#p6_37)
+_Efective and wise leadership_. In civilization much, very much, depends on an enthusiastic and effective load- pulling spirit. Ten men are of little more value than one in lifting a great load unless they lift together—all at the same moment. And such teamwork—social ccyoperation—is dependent on leadership. The cultural civilizations of the past and the present have been based upon the intelligent co-operation of the citizenry with wise and progressive leaders; and until man evolves to higher levels, civilization will continue to be dependent on wise and vigorous leadership. <a id="a100_583"></a>[UB 81:6.37](/en/The_Urantia_Book/81#p6_37)
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/046.jpg">

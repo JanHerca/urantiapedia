@@ -36,13 +36,13 @@ from “Jesus and Ourselves” by Leslie Weatherhead
 > The first great gift we can bestow on others is a good example.
 > Morell
 
-> Man’s greatest spiritual jeopardy consists in partial progress, the predicament of unfinished growth: forsaking the evolutionary religions of fear without immediately grasping the revelatory religion of love. Modern science, particularly psychology, has weakened only those religions which are so largely dependent upon fear, superstition, and emotion. ([UB 99:4.8](/en/The_Urantia_Book/99#p4_8))
+> Man’s greatest spiritual jeopardy consists in partial progress, the predicament of unfinished growth: forsaking the evolutionary religions of fear without immediately grasping the revelatory religion of love. Modern science, particularly psychology, has weakened only those religions which are so largely dependent upon fear, superstition, and emotion. (<a id="a38_356"></a>[UB 99:4.8](/en/The_Urantia_Book/99#p4_8))
 
 Part 4 of _The Urantia Book_, “The Life of Jesus” was prepared by a commission of twelve midwayers, the leader of which states:
 
-> As far as possible I have derived my information from purely human sources. Only when such sources failed, have I resorted to those records which are superhuman. When ideas and concepts of Jesus’ life and teachings have been acceptably expressed by a human mind, I invariably gave preference to such apparently human thought patterns. ([UB 121:8.12](/en/The_Urantia_Book/121#p8_12))
+> As far as possible I have derived my information from purely human sources. Only when such sources failed, have I resorted to those records which are superhuman. When ideas and concepts of Jesus’ life and teachings have been acceptably expressed by a human mind, I invariably gave preference to such apparently human thought patterns. (<a id="a42_338"></a>[UB 121:8.12](/en/The_Urantia_Book/121#p8_12))
 
-The book cited above, published in 1930, was one of the sources used by the midwayers. Ideas and phrases in the material from Weatherhead that follows is a source for the midwayers’ restatement “in modern phraseology” of a discourse by Jesus about principles to be used in the preaching of the gospel. The discourse commences on [UB 149:6.1](/en/The_Urantia_Book/149#p6_1). Read together, we have an interesting example of the way in which human source material was used in _The Urantia Book_.
+The book cited above, published in 1930, was one of the sources used by the midwayers. Ideas and phrases in the material from Weatherhead that follows is a source for the midwayers’ restatement “in modern phraseology” of a discourse by Jesus about principles to be used in the preaching of the gospel. The discourse commences on <a id="a44_329"></a>[UB 149:6.1](/en/The_Urantia_Book/149#p6_1). Read together, we have an interesting example of the way in which human source material was used in _The Urantia Book_.
 
 > “There are at least four ways in which one man can impose his will on another. The first and crudest is by the use of physical force, supposing one man is stronger than the other.”
 > 

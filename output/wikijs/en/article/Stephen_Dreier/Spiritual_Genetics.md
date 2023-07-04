@@ -115,7 +115,7 @@ Personality is central. I don’t think we focus on it nearly enough. We need to
 
 > Steve Dreier has studied _The Urantia Book_ since 1971. He has participated in many _Urantia Book_ conferences and served in a variety of organizational roles with The Urantia Book Fellowship. Steve and Bobbie Dreier, also a longtime student of _The Urantia Book_, recently celebrated their 50th anniversary.  
 
-> “It is not possible to respect yourself more than you love your neighbor;  the one is the measure of the capacity for the other.” [UB 156:5.14](/en/The_Urantia_Book/156#p5_14)
+> “It is not possible to respect yourself more than you love your neighbor;  the one is the measure of the capacity for the other.” <a id="a117_132"></a>[UB 156:5.14](/en/The_Urantia_Book/156#p5_14)
 
 ## References
 

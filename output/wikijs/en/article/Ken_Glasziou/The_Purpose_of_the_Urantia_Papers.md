@@ -34,13 +34,13 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> “The rule of the Most Highs. . . is a rule designed to foster the greatest good to the greatest number.” ([UB 134:5.4](/en/The_Urantia_Book/134#p5_4))
+> “The rule of the Most Highs. . . is a rule designed to foster the greatest good to the greatest number.” (<a id="a36_108"></a>[UB 134:5.4](/en/The_Urantia_Book/134#p5_4))
 
 There appears to be no good reason to conclude that the Urantia Papers were provided to us other than in complete accordance with this rule. And since almost one third of the content of these Papers is a detailed life of Jesus of Nazareth, surely a major target for the revelators’ message must be the two billion Christians who now inhabit the planet.
 
-The Urantia Papers foster a religion of the spirit in contrast to religions of authority. ([UB 155:5.5-11](/en/The_Urantia_Book/155#p5_5)) However a revelation deriving virtually infallible authority from its celestial authorship and attempting to foster a religion of the spirit is incongruous and paradoxical—and has about as much chance of influencing religions of authority as Jesus’ teachings did of converting the Pharisees.
+The Urantia Papers foster a religion of the spirit in contrast to religions of authority. (<a id="a40_91"></a>[UB 155:5.5-11](/en/The_Urantia_Book/155#p5_5)) However a revelation deriving virtually infallible authority from its celestial authorship and attempting to foster a religion of the spirit is incongruous and paradoxical—and has about as much chance of influencing religions of authority as Jesus’ teachings did of converting the Pharisees.
 
-Religion of the spirit is religion that “is not a religion in the present day meaning of the word, making its chief appeal to the divine spirit of my Father which resides in the mind of man.” ([UB 155:5.12](/en/The_Urantia_Book/155#p5_12)) It derives its authority, not from celestial sources, but from the fruits of its acceptance that appear in the personal experience of believers. And these fruits are the product of spiritual communion of the individual and the indwelling Father-Spirit. ([UB 101:1.3](/en/The_Urantia_Book/101#p1_3)) Sometimes called “the kingdom,” entry is exclusively through a faith decision.
+Religion of the spirit is religion that “is not a religion in the present day meaning of the word, making its chief appeal to the divine spirit of my Father which resides in the mind of man.” (<a id="a42_193"></a>[UB 155:5.12](/en/The_Urantia_Book/155#p5_12)) It derives its authority, not from celestial sources, but from the fruits of its acceptance that appear in the personal experience of believers. And these fruits are the product of spiritual communion of the individual and the indwelling Father-Spirit. (<a id="a42_494"></a>[UB 101:1.3](/en/The_Urantia_Book/101#p1_3)) Sometimes called “the kingdom,” entry is exclusively through a faith decision.
 
 There are at least eight repetitions in the Papers that “only faith” or “faith alone” ensures salvation and entry into “the kingdom.” Hence entry cannot depend upon a confidence that is based upon the Papers having celestial authorship. It must be by a personal faith based upon the perception of the Papers’ spiritual values and spiritual communion with the indwelling Father-Spirit.
 

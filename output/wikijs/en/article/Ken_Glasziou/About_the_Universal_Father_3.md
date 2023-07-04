@@ -52,12 +52,12 @@ dateCreated: 2022-9-9T8:12:18Z
 > 
 > . . .
 > 
-> Personality is not simply an attribute of God; it rather stands for the totality of the co-ordinated infinite nature and the unified divine will which is exhibited in eternity and universality of perfect expression. Personality, in the supreme sense, is the revelation of God to the universe of universes. (([UB 1:5.4-13](/en/The_Urantia_Book/1#p5_4)))
+> Personality is not simply an attribute of God; it rather stands for the totality of the co-ordinated infinite nature and the unified divine will which is exhibited in eternity and universality of perfect expression. Personality, in the supreme sense, is the revelation of God to the universe of universes. ((<a id="a54_310"></a>[UB 1:5.4-13](/en/The_Urantia_Book/1#p5_4)))
 
 > God is absolute letting-be, and letting-be is the ontological foundation of love. Letting-be is self-giving or self-spending, so that God's creative work is a work of love and self-giving, into which he has put himself. In so-far-as created beings themselves manifest creativity, love, self-giving, they tend to be like God. 
 > &nbsp; &nbsp; John Macquarrie “_Principles of Christian Theology.”_
 
-> The nature of God can best be understood by the revelation of the Father which Michael of Nebadon unfolded in his manifold teachings and in his superb mortal life in theflesh. The divine nature can also be better understood by man if he regards himself as a child of God and looks up to the Paradise Creator as a true spiritual Father. ([UB 2:0.1](/en/The_Urantia_Book/2#p0_1))
+> The nature of God can best be understood by the revelation of the Father which Michael of Nebadon unfolded in his manifold teachings and in his superb mortal life in theflesh. The divine nature can also be better understood by man if he regards himself as a child of God and looks up to the Paradise Creator as a true spiritual Father. (<a id="a59_339"></a>[UB 2:0.1](/en/The_Urantia_Book/2#p0_1))
 
 ## External links
 

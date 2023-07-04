@@ -38,7 +38,7 @@ dateCreated: 2022-9-9T8:13:38Z
 
 In the previous issue of Innerface we reviewed the work of David Bohm on quantum theory. Bohm believed that the Schrodinger wave function really determines a quantum potential representing active information which gives form to the motion of particles moving under their own energy. Physicist John Bell is the well known originator of Bell’s theorem, a ‘break-through’ step that provided the basis for empirical testing of non-local effects at the quantum level. Bell stated that Bohm’s papers (1952) were a revelation that helped him grasp the implications of quantum theory. In a recent review, David Albert said that Bohm’s theory accounts for all the unfathomable-looking behaviors of electrons every bit as well as the Copenhagen interpretation (Bohr). Moreover it is free of any of the metaphysical perplexities associated with quantum-mechanical superposition.
 
-How can a wave supply the information to guide particle behavior ? _The Urantia Book_ has these words: “_The interelectronic space of an atom is not empty. Throughout an atom this interelectronic space is activated by wavelike manifestations which are perfectly synchronized with electronic velocity and ultimatonic revolutions._” ([UB 42:8.2](/en/The_Urantia_Book/42#p8_2)) A strange statement indeed compared with 1935 thinking about Schrodinger’s wave function.
+How can a wave supply the information to guide particle behavior ? _The Urantia Book_ has these words: “_The interelectronic space of an atom is not empty. Throughout an atom this interelectronic space is activated by wavelike manifestations which are perfectly synchronized with electronic velocity and ultimatonic revolutions._” (<a id="a40_332"></a>[UB 42:8.2](/en/The_Urantia_Book/42#p8_2)) A strange statement indeed compared with 1935 thinking about Schrodinger’s wave function.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Ken_Glasziou/On_Fuzzy_Thinking/005512.png">
@@ -57,7 +57,7 @@ I think God has to do with how science tracks math when it does not have to. The
 
 God is He who wrote the math. Or She who wrote the math. Or It that wrote the math. Or the Nothingness that wrote the math. The Mathmaker.
 
-> Logic is valid in the material world, and mathematics is reliable when limited in its application to physical things; but neither is to be regarded as wholly dependable or infallible when applied to life problems. Life embraces phenomena which are not wholly material. Arithmetic says that, if one man could shear a sheep in ten minutes, ten men could shear it in one minute. That is sound mathematics, but it is not true, for the ten men could not so do it; they would get in one another's way so badly that the work would be greatly delayed. ([UB 133:5.5](/en/The_Urantia_Book/133#p5_5))
+> Logic is valid in the material world, and mathematics is reliable when limited in its application to physical things; but neither is to be regarded as wholly dependable or infallible when applied to life problems. Life embraces phenomena which are not wholly material. Arithmetic says that, if one man could shear a sheep in ten minutes, ten men could shear it in one minute. That is sound mathematics, but it is not true, for the ten men could not so do it; they would get in one another's way so badly that the work would be greatly delayed. (<a id="a59_547"></a>[UB 133:5.5](/en/The_Urantia_Book/133#p5_5))
 
 ## References
 

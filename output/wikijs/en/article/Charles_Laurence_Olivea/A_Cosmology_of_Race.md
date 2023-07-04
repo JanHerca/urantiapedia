@@ -85,7 +85,7 @@ and guidance.  </p>
 
 Race is a biological governor that permits various potentials of body, emotion, mind, and spirit to emerge on the finite stage of planetary existence. It seems to be part of some cosmic design Deity uses to create an evolutionary tension in finite creature growth. If it is desirable for God’s creatures to unite eventually in light and life, then diversity among them is presupposed. Since we were created imperfectly, and yet are offered perfection as our destiny, we must be faced with the necessity to make choices ranging from the personal to the social and up toward the eternal. Race fits into this evolutionary, experiential context of time and space. 
 
-A long view of the human condition might suggest that the cost of evolutionary antagonism among the different races is more than offset by the range of choice afforded us through racial variations. Racial differences serve to encourage mortals of time and space to think, express, and act more creatively than if we were all of a single race from the beginning. Racial differentiations promote developmental factors such as competition, opportunities for learning tolerance, and natural selection, all needed to help a human species reach maturity. [UB 64:6-7](/en/The_Urantia_Book/64#p6)
+A long view of the human condition might suggest that the cost of evolutionary antagonism among the different races is more than offset by the range of choice afforded us through racial variations. Racial differences serve to encourage mortals of time and space to think, express, and act more creatively than if we were all of a single race from the beginning. Racial differentiations promote developmental factors such as competition, opportunities for learning tolerance, and natural selection, all needed to help a human species reach maturity. <a id="a87_549"></a>[UB 64:6-7](/en/The_Urantia_Book/64#p6)
 
 Perhaps the three most important considerations made in _The Urantia Book_ about the subject of race are: 
 
@@ -113,7 +113,7 @@ Since the premise of my argument concerning the nature of the races is based on 
 
 _The Urantia Book_ denotes the Universal Father, Eternal Son, and Infinite Spirit, respectively, as “thought,” “word,” and “action.” The human equivalent of thought-word-action may be phrased as thinking-feeling-doing. This expression is intended here to suggest a finite, mortal approximation of the deity levels.  
 
-The thinking-feeling-doing phraseology is manifested at the morontia stage and seems to be part of morontia mota. An archangel of Nebadon, in depicting the work of Mansion World teachers, noted that: _“On the mansion worlds such schools are organized in three general groups of one hundred divisions each: the schools of thinking, the schools of feeling, and the schools of living”._ [UB 48:5.6](/en/The_Urantia_Book/48#p5_6)
+The thinking-feeling-doing phraseology is manifested at the morontia stage and seems to be part of morontia mota. An archangel of Nebadon, in depicting the work of Mansion World teachers, noted that: _“On the mansion worlds such schools are organized in three general groups of one hundred divisions each: the schools of thinking, the schools of feeling, and the schools of living”._ <a id="a115_384"></a>[UB 48:5.6](/en/The_Urantia_Book/48#p5_6)
 
 I found it helpful to take note of various synonyms for these terms as indicators of some of their behavioral implications^X^. 
 
@@ -138,19 +138,19 @@ The red race is characterized as _“a most intelligent group”_ with notable _
 
 The yellow race is characterized as best in _“fraternal spirit_” and the most in “soul and sentiment.” This seems to correlate feeling—referring to the spiritual-social power to form the most successful person-to-person ties—with the Word-Son. The traits employed in the power of feeling/expression, used in sensitivity toward others, made it possible for them to build a society that was the most effective in promoting family—village relationships (China). They approach reality more in terms of a sense or awareness of others (within the same race, generally, it would seem,) and less in terms of their own individuality. 
 
-The blue race is depicted as the “_most aggressive, adventurous, and exploratory of all._” [UB 78:1.8](/en/The_Urantia_Book/78#p1_8) This race “_worked out the rudiments of many of the arts of modern civilization._” [UB 64:6.21](/en/The_Urantia_Book/64#p6_21) It alludes to an ingenuity for creative problem-solving—a complex skill required for mastering person-to-object relationship—that seems akin to the Action-Spirit. Their sense of reality was often defined by their mighty curiosity of how things worked, coupled with a keen interest in spatial relationships: human technology. They were minded to construct, to explore, to use mind over matter. 
+The blue race is depicted as the “_most aggressive, adventurous, and exploratory of all._” <a id="a140_91"></a>[UB 78:1.8](/en/The_Urantia_Book/78#p1_8) This race “_worked out the rudiments of many of the arts of modern civilization._” <a id="a140_216"></a>[UB 64:6.21](/en/The_Urantia_Book/64#p6_21) It alludes to an ingenuity for creative problem-solving—a complex skill required for mastering person-to-object relationship—that seems akin to the Action-Spirit. Their sense of reality was often defined by their mighty curiosity of how things worked, coupled with a keen interest in spatial relationships: human technology. They were minded to construct, to explore, to use mind over matter. 
 
 Considering the analogy between the nature of the primary races of color and the three major Deities, I think it is reasonable to suggest that this correlation be extended to the secondary races as I have indicated in my chart. 
 
 Why would the Life Carriers design six races? The Adamic race notwithstanding, I think the Life Carriers stopped at six because it was logical to do so in terms of how universe reality is structured, i.e.,
 
-> _...by three, seven, and twelve or by multiples and combinations of these basic numbers._ [UB 36:2.11](/en/The_Urantia_Book/36#p2_11)
+> _...by three, seven, and twelve or by multiples and combinations of these basic numbers._ <a id="a146_92"></a>[UB 36:2.11](/en/The_Urantia_Book/36#p2_11)
 
 Very simply, three principal deities can only have three dual combinations, leaving one three-way combination as the seventh category, which I think is represented by the super-mortal Adamic race. 
 
 In this context, secondary means “immediately derived from something original, primary, or basic...not the first in order of occurrence or development” (Webster’s Ninth New Collegiate Dictionary). The secondary races were also designed to add to, or broaden the diversity of the human species. It is their part in the unfolding drama of human destiny. Why else would the Chief of Seraphim write the following? 
 
-> Though the primary races...were in many respects superior to the secondary peoples, it should be remembered that these secondary races had many desirable traits which would have considerably enhanced the primary peoples if their better strains could have been absorbed. [UB 82:6.2](/en/The_Urantia_Book/82#p6_2)
+> Though the primary races...were in many respects superior to the secondary peoples, it should be remembered that these secondary races had many desirable traits which would have considerably enhanced the primary peoples if their better strains could have been absorbed. <a id="a152_272"></a>[UB 82:6.2](/en/The_Urantia_Book/82#p6_2)
 
 What is meant by the “better strains” of the secondary races will now be considered. 
 
@@ -180,15 +180,15 @@ This process took place approximately 25,000 to 5, years ago. Due to a series of
 
 > These racial mixtures laid the foundations for the southern European race, the most highly mixed of all...This Mediterranean race is, in fact, so freely admixed with the surrounding peoples as to be virtually indiscernible as a separate type, but in general its members are short, long- headed, and brunet. 
 > 
-> In the north the Andites, through warfare and marriage, obliterated the blue men, but in the south they survived in greater numbers. The Basques and the Berbers represent the survival of two branches of this race, but even these peoples have been thoroughly admixed with the Saharans. [UB 80:9.10-11](/en/The_Urantia_Book/80#p9_10)
+> In the north the Andites, through warfare and marriage, obliterated the blue men, but in the south they survived in greater numbers. The Basques and the Berbers represent the survival of two branches of this race, but even these peoples have been thoroughly admixed with the Saharans. <a id="a182_287"></a>[UB 80:9.10-11](/en/The_Urantia_Book/80#p9_10)
 
 By way of a summary generalization and assessment of the earlier classifications of the northern, central, and southern white races in Europe, the following point was offered: 
 
-> This was the picture of race mixture presented in central Europe about 3000 B.C. In spite of the partial Adamic default, the higher types did blend. [UB 80:9.12](/en/The_Urantia_Book/80#p9_12)
+> This was the picture of race mixture presented in central Europe about 3000 B.C. In spite of the partial Adamic default, the higher types did blend. <a id="a186_151"></a>[UB 80:9.12](/en/The_Urantia_Book/80#p9_12)
 
 Concerning the sentient nature of the secondary races, there is another consideration worth elaboration. Remember the importance of the link between feeling and truth: 
 
-> You cannot perceive spiritual truth until you feelingly experience it, and many truths are not really felt except in adversity. [UB 48:7.18](/en/The_Urantia_Book/48#p7_18) 
+> You cannot perceive spiritual truth until you feelingly experience it, and many truths are not really felt except in adversity. <a id="a190_130"></a>[UB 48:7.18](/en/The_Urantia_Book/48#p7_18) 
 
 I would like to suggest that one of the enrichments that the mixed secondary progeny can contribute to the larger gene pool is a greater sensitivity to the “feeling experience” of divine truth. Given the physical-emotional character of our mortal existence, is it any wonder that a sentiently more sensitive species is needed to enhance the mind’s responsiveness/expressiveness in:  
 1. The realm of emotion between mind and body; 
@@ -203,7 +203,7 @@ Despite the losses due to evolutionary vicissitudes, each race has a cosmic dign
 
 Thus it is the task of a super-mortal race of material sons and daughters to enhance thinking-feeling-doing through biological grace. 
 
-> A planetary Adam and Eve are, in potential, the full gift of physical grace to the mortal races. The chief business of such an imported pair is to multiply and to uplift the children of time...This is the origin of the violet race on the inhabited worlds. [UB 51:3.3](/en/The_Urantia_Book/51#p3_3)
+> A planetary Adam and Eve are, in potential, the full gift of physical grace to the mortal races. The chief business of such an imported pair is to multiply and to uplift the children of time...This is the origin of the violet race on the inhabited worlds. <a id="a205_258"></a>[UB 51:3.3](/en/The_Urantia_Book/51#p3_3)
 
 This is a feature built into the framework of the local universes for their inhabited planets. All six evolutionary races of color are intended to be uplifted by the progeny of Adam and Eve. The original plan called for a superhuman administration on this planet to oversee the upgrading and eventual blending of the races. The Lucifer rebellion and the default of Adam and Eve largely wrecked that plan for our world. However, human culture has benefited from the limited infusion of some of Adam and Eve’s progeny. The violet race serves an integrative function through its higher level of thought-word-action. 
 
@@ -211,11 +211,11 @@ In the universe, unequal contrasts between various beings and endowment levels a
 
 Again, “backward,” “lesser,” “progressive”, and “ superior” are terms used in other contexts. A Mighty Messenger characterized Orvonton as 
 
-> ...tardy and backward in comparison with other sectors, but there undoubtedly awaits us a transcendent development and an unprecedented achievement sometime in the eternal ages of the future. [UB 34:2.6](/en/The_Urantia_Book/34#p2_6) 
+> ...tardy and backward in comparison with other sectors, but there undoubtedly awaits us a transcendent development and an unprecedented achievement sometime in the eternal ages of the future. <a id="a213_194"></a>[UB 34:2.6](/en/The_Urantia_Book/34#p2_6) 
 
 The language used in _The Urantia Book_ expresses the long view toward contrasting levels of capacities and development on this side of the central universe. Some of the same language is employed for the primary races. A Life Carrier indicates that the yellow race was 
 
-> ...the first to abandon the chase, establish settled communities, and develop a home life based on agriculture. Intellectually they were somewhat inferior to the red men, but socially and collectively they proved themselves superior to all of the Sangik peoples in the matter of fostering racial civilization. [UB 64:6.14](/en/The_Urantia_Book/64#p6_14)
+> ...the first to abandon the chase, establish settled communities, and develop a home life based on agriculture. Intellectually they were somewhat inferior to the red men, but socially and collectively they proved themselves superior to all of the Sangik peoples in the matter of fostering racial civilization. <a id="a217_312"></a>[UB 64:6.14](/en/The_Urantia_Book/64#p6_14)
 
 The roles played by these primary and secondary races in human evolution are evaluated in the book in reference to their biological functioning in the scheme of things, not their spiritual value (worth). It is clearly stated in the book that the races are spiritually equal in the eyes of God and in the view of celestial authorities responsible for the overcontrol of human evolution. This remains true regardless of variations in mental/physical capacities, and differing rates of spiritual growth. 
 
@@ -227,29 +227,29 @@ Up to this point the emphasis in this paper has been on the origin and nature of
 
 Twentieth century civilization is faced with two interesting developments. Our modern technology of trans  portation and communication is turning the world into a neighborhood. The other point is that the races are mixing at an accelerated rate. Earlier in this century, the Chief of Seraphim noted that, 
 
-> For the past hundred years more racial hybridization has been taking place on Urantia than has occurred in thousands of years. [UB 82:6.8](/en/The_Urantia_Book/82#p6_8)
+> For the past hundred years more racial hybridization has been taking place on Urantia than has occurred in thousands of years. <a id="a229_129"></a>[UB 82:6.8](/en/The_Urantia_Book/82#p6_8)
 
 The parameters of what is desirable in racial crossbreeding according to the book may be gauged by the following quotations: 
 
 > On your world, even in the face of the miscarriage of the ordained plans, great progress has been made since the gift to your peoples of Adam’s life plasm. 
 > 
-> But while the pure-line children of a planetary Garden of Eden can bestow themselves upon the superior members of the evolutionary races and thereby upstep the biologic level of mankind, it would not prove beneficial for the higher strains of Urantia mortals to mate with the lower races; such an unwise prodedure would jeopardize all civilization on your world. [UB 51:5.6-7](/en/The_Urantia_Book/51#p5_6)
+> But while the pure-line children of a planetary Garden of Eden can bestow themselves upon the superior members of the evolutionary races and thereby upstep the biologic level of mankind, it would not prove beneficial for the higher strains of Urantia mortals to mate with the lower races; such an unwise prodedure would jeopardize all civilization on your world. <a id="a235_365"></a>[UB 51:5.6-7](/en/The_Urantia_Book/51#p5_6)
 
 The point is then made about the mixed progeny of the primary peoples: 
 
-> Interbreeding between the highest types of the white, red, and yellow races would immediately bring into existence many new and biologically effective characteristics. [UB 82:6.9](/en/The_Urantia_Book/82#p6_9)
+> Interbreeding between the highest types of the white, red, and yellow races would immediately bring into existence many new and biologically effective characteristics. <a id="a239_170"></a>[UB 82:6.9](/en/The_Urantia_Book/82#p6_9)
 
 However, some qualification is made concerning hybridization between descendants of the primary and secondary groups: 
 
-> Mixtures of the white and black races are not so desirable in their immediate results, neither are such mulatto offspring so objectionable as social and racial prejudice would seek to make them appear. [UB 82:6.9](/en/The_Urantia_Book/82#p6_9)
+> Mixtures of the white and black races are not so desirable in their immediate results, neither are such mulatto offspring so objectionable as social and racial prejudice would seek to make them appear. <a id="a243_204"></a>[UB 82:6.9](/en/The_Urantia_Book/82#p6_9)
 > 
-> When a primary Sangik race amalgamates with a secondary Sangik race, the latter is considerably improved at the expense of the former. And on a small scale—extending over long periods of time—there can be little serious objection to such a sacrificial contribution by the primary races to the betterment of the secondary groups. [UB 82:6.10](/en/The_Urantia_Book/82#p6_10)
+> When a primary Sangik race amalgamates with a secondary Sangik race, the latter is considerably improved at the expense of the former. And on a small scale—extending over long periods of time—there can be little serious objection to such a sacrificial contribution by the primary races to the betterment of the secondary groups. <a id="a245_331"></a>[UB 82:6.10](/en/The_Urantia_Book/82#p6_10)
 
 Lastly, the emphasis shifts to the issue of degeneracy: 
 
-> If the present-day races of Urantia could be freed from the curse of their lowest strata of deteriorated, antisocial, feeble-minded, and outcast specimens, there would be little objection to a limited race amalgamation. And if such racial mixtures could take place between the highest types of the several races, still less objection could be offered. [UB 82:6.4](/en/The_Urantia_Book/82#p6_4)
+> If the present-day races of Urantia could be freed from the curse of their lowest strata of deteriorated, antisocial, feeble-minded, and outcast specimens, there would be little objection to a limited race amalgamation. And if such racial mixtures could take place between the highest types of the several races, still less objection could be offered. <a id="a249_354"></a>[UB 82:6.4](/en/The_Urantia_Book/82#p6_4)
 > 
-> After all, the real jeopardy of the human species is to be found in the unrestrained multiplication of the inferior and degenerate strains of the various civilized peoples rather than in any supposed danger of their racial inbreeding. [UB 82:6.11](/en/The_Urantia_Book/82#p6_11)
+> After all, the real jeopardy of the human species is to be found in the unrestrained multiplication of the inferior and degenerate strains of the various civilized peoples rather than in any supposed danger of their racial inbreeding. <a id="a251_237"></a>[UB 82:6.11](/en/The_Urantia_Book/82#p6_11)
 
 And if I may elaborate on a corollary point to the last two statements: The black race of today is not the indigo race of long ago. It is energized by traits drawn from the extinct orange and green races, along with its indigo core. Furthermore, there are a number of individuals in the black race who very likely possess some trace of Andite infusion as a result of mixing with members of the white or yellow races, or quite possibly from the Saharan civilization of long ago that _“received a very limited amount of the violet inheritance.”_ In my opinion, these are some of the individuals who should be reckoned with concerning the characterization of the _“higher types”_ within the larger grouping of the black race. 
 
@@ -266,13 +266,13 @@ The following is offered as a kind of minimum that might be advised by our unsee
 5. Make an effort to adapt the technology of modern science to improving the gene pool by a) repairing faulty genes when you can, and b)generally, upgrading the DNA as we are able to.
 6. In our worldly affairs, be spiritually fragrant. We are told quite explicitly that: 
 
-> Having failed to achieve race harmonization by the Adamic technique, you must now work out your planetary problem of race improvement by other and largely human methods of adaptation and control. [UB 51:5.7](/en/The_Urantia_Book/51#p5_7)
+> Having failed to achieve race harmonization by the Adamic technique, you must now work out your planetary problem of race improvement by other and largely human methods of adaptation and control. <a id="a268_198"></a>[UB 51:5.7](/en/The_Urantia_Book/51#p5_7)
 
 To accomplish this we need new institutions, roles, norms, laws, and symbols, or at least new meaning to the   ones we have now. This, I suppose, is one of the major reasons Paper 72, “Government on a Neighboring Planet,” was given to us. It provides a practical model we can build on, for example: 
 
-> The feeble-minded are trained only in agriculture and animal husbandry, and are committed for life to special custodial colonies where they are segregated by sex to prevent parenthood, which is denied all subnormals. These restrictive measures have been in operation for seventy-five years; the commitment decrees are handed down by the parental courts. [UB 72:4.2](/en/The_Urantia_Book/72#p4_2) 
+> The feeble-minded are trained only in agriculture and animal husbandry, and are committed for life to special custodial colonies where they are segregated by sex to prevent parenthood, which is denied all subnormals. These restrictive measures have been in operation for seventy-five years; the commitment decrees are handed down by the parental courts. <a id="a272_356"></a>[UB 72:4.2](/en/The_Urantia_Book/72#p4_2) 
 
-> Efforts to prevent the breeding of criminals and defectives were begun over one hundred years ago and have already yielded gratifying results. There are no prisons or hospitals for the insane. For one reason, there are only about ten per cent as many of these groups as are found on Urantia. [UB 72:10.3](/en/The_Urantia_Book/72#p10_3)
+> Efforts to prevent the breeding of criminals and defectives were begun over one hundred years ago and have already yielded gratifying results. There are no prisons or hospitals for the insane. For one reason, there are only about ten per cent as many of these groups as are found on Urantia. <a id="a274_294"></a>[UB 72:10.3](/en/The_Urantia_Book/72#p10_3)
 
 These methods of control should work on this world as well. There are many fears over this issue. Equality and prejudice are two of the leading concerns about genetic adaptation and control—little wonder, considering our history. States that have used race consciousness as their foundation have created repressive societies, and have sometimes engaged in mass murder; Nazi Germany, South Africa, and the American South come to mind. Would not some of the “sting” be taken out of the fear of policies and programs toward biological control if genetic quality per se, and not race, was the special consideration? 
 
@@ -280,21 +280,21 @@ There is no doubt in my mind that it would take a major revelation in religion, 
 
 The concept of cosmic citizenship linked to knowledge of the Supreme could be a positive influence in turning us toward biological control and adaptation. Such a linkage would highlight the long view of human life. The task has biological and social aspects. To illustrate my thinking I will quote from a paper on the relationship of Adjusters to human beings, presented by a Solitary Messenger of Orvonton: 
 
-> . . . It is to the mind of perfect poise, housed in a body of clean habits, stabilized neural energies, and balanced chemical function—when the physical, mental, and spiritual powers are in triune harmony of development—that a maximum of light and truth can be imparted with a minimum of temporal danger or risk to the real welfare of such a being. By such a balanced growth does man ascend the circles of planetary progression one by one, from the seventh to the first. [UB 110:6.4](/en/The_Urantia_Book/110#p6_4)
+> . . . It is to the mind of perfect poise, housed in a body of clean habits, stabilized neural energies, and balanced chemical function—when the physical, mental, and spiritual powers are in triune harmony of development—that a maximum of light and truth can be imparted with a minimum of temporal danger or risk to the real welfare of such a being. By such a balanced growth does man ascend the circles of planetary progression one by one, from the seventh to the first. <a id="a282_473"></a>[UB 110:6.4](/en/The_Urantia_Book/110#p6_4)
 
 We should be aiming for a population whose members exhibit these characteristics. The critical dimension of human improvement appears to lie in the symmetry of variables. But to encourage “poise” and “clean habits” (and so forth), it would also be necessary to re-evaluate and elevate society’s perception of marriage and family, the home life. 
 
 Once again, on our neighboring planet, we find that 
 
-> These people regard the home as the basic institution of their civilization. It is expected that the most valuable part of a child’s education and character training will be secured from his parents and at home, and fathers devote almost as much attention to child culture as do mothers. [UB 72:3.4](/en/The_Urantia_Book/72#p3_4)
+> These people regard the home as the basic institution of their civilization. It is expected that the most valuable part of a child’s education and character training will be secured from his parents and at home, and fathers devote almost as much attention to child culture as do mothers. <a id="a288_290"></a>[UB 72:3.4](/en/The_Urantia_Book/72#p3_4)
 
 > Marriage and divorce laws are uniform throughout the nation. Marriage before twenty—the age of civil enfranchisement—is not permitted. Permission to marry is only granted after one year’s notice of intention, and after both bride and groom present certificates showing that they have been duly instructed in the parental schools regarding the responsibilities of married life. 
 > 
-> . . . Notwithstanding their easy divorce laws, the present rate of divorce is only one-tenth of the civilized races of Urantia. [UB 72:3.8-9](/en/The_Urantia_Book/72#p3_8)
+> . . . Notwithstanding their easy divorce laws, the present rate of divorce is only one-tenth of the civilized races of Urantia. <a id="a292_130"></a>[UB 72:3.8-9](/en/The_Urantia_Book/72#p3_8)
 
 My point in quoting these passages on marriage and family is that in order to effect harmonization and improve  ment of the human race, we should emphasize the social as well as the biological side of the human condition. While all of this is rather simply put, I think it goes to the heart of the matter. Those of us who advocate changes of a social-biological nature ought to heed carefully the admonitions of an Archangel of Nebadon, who said that 
 
-> Man should be unafraid to experiment with the mechanisms of society. But always should these adventures in cultural adjustment be controlled by those who are fully conversant with the history of social evolution; and always should these innovators be counseled by the wisdom of those who have had practical experience in the domains of contemplated social or economic experiment. No great social or economic change should be attempted suddenly. Time is essential to all types of human adjustment—physical, social, or economic. Only moral and spiritual adjustments can be made on the spur of the moment, and even these require the passing of time for the full outworking of their material and social repercussions. . . . [UB 81:6.40](/en/The_Urantia_Book/81#p6_40)
+> Man should be unafraid to experiment with the mechanisms of society. But always should these adventures in cultural adjustment be controlled by those who are fully conversant with the history of social evolution; and always should these innovators be counseled by the wisdom of those who have had practical experience in the domains of contemplated social or economic experiment. No great social or economic change should be attempted suddenly. Time is essential to all types of human adjustment—physical, social, or economic. Only moral and spiritual adjustments can be made on the spur of the moment, and even these require the passing of time for the full outworking of their material and social repercussions. . . . <a id="a296_722"></a>[UB 81:6.40](/en/The_Urantia_Book/81#p6_40)
 
 These qualifications are very important because any social-biological engineering will involve the home life— marriage and family are the foundation of society. In light of the above, it is my conclusion that the hand on social-medical-genetic controls can be safely entrusted only to persons who at least:  
 1. Complete a successful parental experience. 
@@ -307,15 +307,15 @@ These qualifications are very important because any social-biological engineerin
 
 One final note: I have faith in our heavenly Father and I trust Jesus. Our destinies—yours and mine and all the others—are secure. 
 
-> Fusion with a fragment of the Universal Father is equivalent to a divine validation of eventual Paradise attainment, and such Adjuster-fused mortals are the only class of human beings who all traverse the Havona circuits and find God on Paradise. To the Adjuster-fused mortal the career of universal service is wide open. What dignity of destiny and glory of attainment await every one of you! . . . [UB 40:7.5](/en/The_Urantia_Book/40#p7_5)
+> Fusion with a fragment of the Universal Father is equivalent to a divine validation of eventual Paradise attainment, and such Adjuster-fused mortals are the only class of human beings who all traverse the Havona circuits and find God on Paradise. To the Adjuster-fused mortal the career of universal service is wide open. What dignity of destiny and glory of attainment await every one of you! . . . <a id="a309_402"></a>[UB 40:7.5](/en/The_Urantia_Book/40#p7_5)
 
-> Thus, in the final analysis, it would be hardly proper to use the words, greater—or lesser—in contrasting the destinies of the ascending orders of sonship. Every such son of God shares the fatherhood of God, and God loves each of his creature sons alike; he is no more a respecter of ascendant destinies than is he of the creatures who may attain such destinies. The Father loves each of his sons, and that affection is not less than true, holy, divine, unlimited, eternal, and unique—a love bestowed upon this son and upon that son, individually, personally, and exclusively. Sonship is the supreme relationship of the creature to the Creator. [UB 40:10.13](/en/The_Urantia_Book/40#p10_13)
+> Thus, in the final analysis, it would be hardly proper to use the words, greater—or lesser—in contrasting the destinies of the ascending orders of sonship. Every such son of God shares the fatherhood of God, and God loves each of his creature sons alike; he is no more a respecter of ascendant destinies than is he of the creatures who may attain such destinies. The Father loves each of his sons, and that affection is not less than true, holy, divine, unlimited, eternal, and unique—a love bestowed upon this son and upon that son, individually, personally, and exclusively. Sonship is the supreme relationship of the creature to the Creator. <a id="a311_647"></a>[UB 40:10.13](/en/The_Urantia_Book/40#p10_13)
 
 The preceding was presented by a Mighty Messenger who was called upon to work temporarily with Gabriel of Salvington. 
 
 ## Epilogue 
 
-> One day while resting at lunch, about halfway to Tarentum, Ganid asked Jesus a direct question as to what he thought of India’s caste system. Said Jesus: “Though human beings differ in many ways, the one from another, before God and in the spiritual world all mortals stand on an equal footing. There are only two groups of mortals in the eyes of God: those who desire to do his will and those who do not. As the universe looks upon an inhabited world, it likewise discerns two great classes: those who know God and those who do not. Those who cannot know God are reckoned among the animals of any given realm. Mankind can appropriately be divided into many classes in accordance with differing qualifications, as they may be viewed physically, mentally, socially, vocationally, or morally, but as these different classes of mortals appear before the judgment bar of God, they stand on an equal footing: God is truly no respecter of persons. Although you cannot escape the recognition of differential human abilities and endowments in matters intellectual, social, and moral, you should make no such distinctions in the spiritual brotherhood of men assembled for worship in the presence of God. [UB 133:0.3](/en/The_Urantia_Book/133#p0_3) 
+> One day while resting at lunch, about halfway to Tarentum, Ganid asked Jesus a direct question as to what he thought of India’s caste system. Said Jesus: “Though human beings differ in many ways, the one from another, before God and in the spiritual world all mortals stand on an equal footing. There are only two groups of mortals in the eyes of God: those who desire to do his will and those who do not. As the universe looks upon an inhabited world, it likewise discerns two great classes: those who know God and those who do not. Those who cannot know God are reckoned among the animals of any given realm. Mankind can appropriately be divided into many classes in accordance with differing qualifications, as they may be viewed physically, mentally, socially, vocationally, or morally, but as these different classes of mortals appear before the judgment bar of God, they stand on an equal footing: God is truly no respecter of persons. Although you cannot escape the recognition of differential human abilities and endowments in matters intellectual, social, and moral, you should make no such distinctions in the spiritual brotherhood of men assembled for worship in the presence of God. <a id="a317_1197"></a>[UB 133:0.3](/en/The_Urantia_Book/133#p0_3) 
 
 > Charles Olivea first encountered _The Urantia Book_ in 1965 and became a serious student of its teachings by 1968. He has dedicated himself to the search for truth as presented in the revelation and perceives this as a service to the movement at large and a service to the Supreme. Charles has been married for 46 years to date, having two sons who are also married and are the fathers of his grandsons. Charles would add that his allegiance is to Michael of Nebadon and him only.
 {.is-info}

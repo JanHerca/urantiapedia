@@ -128,7 +128,7 @@ Thanks to the YaYA Committee for sponsoring the Family Life adjunct committee.  
 
 In loving service,Sara Blackstock, Miranda Clendenning, Richard Daunt, Janet Graham (Chair)
 
-> A human being’s entire afterlife is enormously influenced by what happens during the first  few years of existence.” [[UB 177:2.5](/en/The_Urantia_Book/177#p2_5)]
+> A human being’s entire afterlife is enormously influenced by what happens during the first  few years of existence.” <a id="a130_119"></a>[[UB 177:2.5](/en/The_Urantia_Book/177#p2_5)]
 
 ## The General Council in Los Angeles
 
@@ -246,7 +246,7 @@ By _Charles Laurence Olivea_ © 2013
 
 This Mission Statement of the Education Committee is part of an effort to place new emphasis or value on the idea of broader and deeper study of the Fifth Epochal Revelation. It reflects the Fellowship’s Constitutional requirement that we “foster the in-depth study of _The Urantia Book_…centered on universe educational ideals of encouraging the development of student-teachers.”
 
-I would take the Mission Statement and the Constitutional mandate further by suggesting they anticipate norms that emerge on the Fifth Mansion World. “At about this point the average mortal ascender begins to manifest bona fide experiential enthusiasm for the Havona ascent. Study is becoming voluntary, unselfish service natural, and worship spontaneous.” [[UB 47:7.5](/en/The_Urantia_Book/47#p7_5)] (Emphasis added)
+I would take the Mission Statement and the Constitutional mandate further by suggesting they anticipate norms that emerge on the Fifth Mansion World. “At about this point the average mortal ascender begins to manifest bona fide experiential enthusiasm for the Havona ascent. Study is becoming voluntary, unselfish service natural, and worship spontaneous.” <a id="a248_357"></a>[[UB 47:7.5](/en/The_Urantia_Book/47#p7_5)] (Emphasis added)
 
 Why should we wait until the Fifth Mansion World?
 
@@ -262,7 +262,7 @@ As a process, it places a premium on critical thinking, listening carefully, and
 
 Time ought to be viewed as our “servant,” not our “master.” We should not be in a hurry. Jesus exemplified this. The notion of “voluntary study” suggests a willingness to broaden one’s knowledge and deepen one’s insights. This must not be viewed merely as a task, but a joy to be achieved in the art of living.
 
-Again, for us, it means an intelligent desire to listen and share with kindred minds and souls. Personal growth sooner or later requires social interaction. An individual person can study on his or her own, but to really grow, your mental and spiritual powers need to interact (eventuate) with others in a brotherly or sisterly manner. Remember that relationships between personalities—human or divine—are ends in themselves; all else is secondary. [[UB 112:2.4](/en/The_Urantia_Book/112#p2_4)] Let us be forever inspired by the great declaration, “The entire universe is one vast school.” [[UB 37:6.2](/en/The_Urantia_Book/37#p6_2)]
+Again, for us, it means an intelligent desire to listen and share with kindred minds and souls. Personal growth sooner or later requires social interaction. An individual person can study on his or her own, but to really grow, your mental and spiritual powers need to interact (eventuate) with others in a brotherly or sisterly manner. Remember that relationships between personalities—human or divine—are ends in themselves; all else is secondary. <a id="a264_449"></a>[[UB 112:2.4](/en/The_Urantia_Book/112#p2_4)] Let us be forever inspired by the great declaration, “The entire universe is one vast school.” <a id="a264_590"></a>[[UB 37:6.2](/en/The_Urantia_Book/37#p6_2)]
 
 
 ## Save the Date for IC’14!

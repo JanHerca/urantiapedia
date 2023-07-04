@@ -244,11 +244,11 @@ While I lived in Pueblo, one of our study group members was suffering the effect
 
 The Boulder Women’s Corps, a group of Urantia Book readers from several study groups, was created to do service for women and children. I still feel close to these women because we imagined, created, and completed some very meaningful acts of service together.
 
-_The Urantia Book_ states: “One of the most important lessons to be learned during your mortal career is teamwork. The spheres of perfection are manned by those who have mastered this art of working with other beings.” [[UB 28:5.14](/en/The_Urantia_Book/28#p5_14)] Becoming a service team with your study group may be one of the most valuable things Urantia Book readers can do together.
+_The Urantia Book_ states: “One of the most important lessons to be learned during your mortal career is teamwork. The spheres of perfection are manned by those who have mastered this art of working with other beings.” <a id="a246_219"></a>[[UB 28:5.14](/en/The_Urantia_Book/28#p5_14)] Becoming a service team with your study group may be one of the most valuable things Urantia Book readers can do together.
 
 Jesus sent the apostles out in pairs for a reason. Perhaps sharing the experience adds to the meaning and value. Even if every person in your study group is not inspired to do this kind of thing together, there are likely to be several who will be willing to join you. Personally, I have noticed that service done as a group is somehow more satisfying. All these projects were experienced because one person with a passion came to the group and asked “Will you help?” Maybe you know of a need in your own community that you could bring to your group. Group service can be a great study group experience.
 
-> “Being sensitive and responsive to human need creates genuine and lasting happiness…” [[UB 140:5.16](/en/The_Urantia_Book/140#p5_16)]
+> “Being sensitive and responsive to human need creates genuine and lasting happiness…” <a id="a250_88"></a>[[UB 140:5.16](/en/The_Urantia_Book/140#p5_16)]
 
 ## Quietly Serving in South Korea
 
@@ -281,7 +281,7 @@ At the present time, based on book sales, downloads, the experience of several i
 
 It is truly amazing what one can do, quietly serving.
 
-> “When man goes in partnership with God, great things may, and do, happen.” [[UB 132:7.9](/en/The_Urantia_Book/132#p7_9)]
+> “When man goes in partnership with God, great things may, and do, happen.” <a id="a283_77"></a>[[UB 132:7.9](/en/The_Urantia_Book/132#p7_9)]
 
 
 ## Two Seats Open on the Fellowship General Council

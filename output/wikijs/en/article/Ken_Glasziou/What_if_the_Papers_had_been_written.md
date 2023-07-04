@@ -39,7 +39,7 @@ The writing of the 2000-page Urantia Book would have required an enormous amount
 
 ## Content
 
-**Mountain Building.** The Urantia Papers associate the processes of mountain building and drifting continents as being responsible for the chain of mountains on the west coast of the Americas reaching from Alaska to the bottom of South America. ([UB 60:3.2](/en/The_Urantia_Book/60#p3_2))
+**Mountain Building.** The Urantia Papers associate the processes of mountain building and drifting continents as being responsible for the chain of mountains on the west coast of the Americas reaching from Alaska to the bottom of South America. (<a id="a41_247"></a>[UB 60:3.2](/en/The_Urantia_Book/60#p3_2))
 
 Modern readers probably do not give the statement a passing thought. But until the mid-1950’s and even later, continental drift was classified as a no-go heresy amongst the great majority of geologists. So why was it included it as a major factor for mountain building?
 
@@ -49,15 +49,15 @@ Marsupial fossils are found in Upper Oligocene strata (35-40 million years ago) 
 
 Again, most modern readers would pass over this information without realizing that, when written, the concept of continental drift up until the 1960’s, was still a major heresy. Now the linking of these three continents constitutes an accepted part of the theory.
 
-**Double star Supernova Explosion.** The most recent of the major cosmic eruptions in Orvonton was the extraordinary double star explosion, the light of which reached Urantia in A.D. 1572. This conflagration was so intense that the explosion was clearly visible in broad daylight. ([UB 41:3.5](/en/The_Urantia_Book/41#p3_5))
+**Double star Supernova Explosion.** The most recent of the major cosmic eruptions in Orvonton was the extraordinary double star explosion, the light of which reached Urantia in A.D. 1572. This conflagration was so intense that the explosion was clearly visible in broad daylight. (<a id="a51_282"></a>[UB 41:3.5](/en/The_Urantia_Book/41#p3_5))
 
 The explosion of a supernova in 1572 was a brilliant spectacle visible in broad daylight, and became known as Tycho Brahe’s nova. The Urantia Papers say that this nova was due to the explosion of a double star. The first serious theoretical description of novas and supernovas was presented in 1957 by Burbidge, Fowler, and Hoyle and indicated both single and double star nova and supernova can occur. The remnant of the Tycho Brahe supernova was re-discovered in 1952 by use of the newly invented radio telescope but could not be shown to be a single or double star explosion until it was extensively mapped by the orbiting Einstein X-ray observatory in 1967 when its double star status was demonstrated.
 
-**X-Rays from the Sun.** “The interior of your sun is a vast X-ray generator”. ([UB 41:5.3](/en/The_Urantia_Book/41#p5_3))
+**X-Rays from the Sun.** “The interior of your sun is a vast X-ray generator”. (<a id="a55_80"></a>[UB 41:5.3](/en/The_Urantia_Book/41#p5_3))
 
 The Sun was the first celestial object determined to give off X-Rays; rocket-borne radiation counters measured X-ray emissions from its corona in 1949. In the “Physics-Astronomy Front” by Hoyle and Narliker we find, "One of the authors remembers how, in the middle 1940’s, the question of whether the sun might emit X-rays was considered by astronomers to be highly speculative.
 
-**Crab nebula.** “. . . the Crab nebula, which had its origin about nine hundred years ago, and which still exhibits the mother sphere as a lone star near the center of this irregular nebular mass.” ([UB 41:8.4](/en/The_Urantia_Book/41#p8_4))
+**Crab nebula.** “. . . the Crab nebula, which had its origin about nine hundred years ago, and which still exhibits the mother sphere as a lone star near the center of this irregular nebular mass.” (<a id="a59_200"></a>[UB 41:8.4](/en/The_Urantia_Book/41#p8_4))
 
 The Urantia Paper states that the Crab nebular had its origin in a nova explosion occurring 900 years ago. The existence of a neutron star at its center was demonstrated in 1967 with the detection of a pulsar which pulsed at a rate of 30 per sec. This was far too high for it to originate from a white dwarf which would disintegrate if spinning at that speed. It could only be from a neutron star.
 

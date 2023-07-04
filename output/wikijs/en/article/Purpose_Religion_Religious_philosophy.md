@@ -36,9 +36,9 @@ dateCreated: 2023-01-21T14:02:03.086Z
 
 ## Purpose
 
-> The purpose of cosmic evolution is to achieve unity of personality through increasing spirit dominance, volitional response to the teaching and leading of the indwelling Spirit of God. ([UB 112:2.15](/en/The_Urantia_Book/112#p2_15))
+> The purpose of cosmic evolution is to achieve unity of personality through increasing spirit dominance, volitional response to the teaching and leading of the indwelling Spirit of God. (<a id="a38_188"></a>[UB 112:2.15](/en/The_Urantia_Book/112#p2_15))
 
-> “Although this gospel of the kingdom never fails to bring great peace to the soul of the individual believer, it will not bring peace on earth until man is willing to believe my teaching wholeheartedly and to establish the practice of **doing the Father's will** as the **chief purpose in living** the mortal life.” (Jesus) **When a person finds God they have found everything**. ([UB 180:6.1](/en/The_Urantia_Book/180#p6_1))
+> “Although this gospel of the kingdom never fails to bring great peace to the soul of the individual believer, it will not bring peace on earth until man is willing to believe my teaching wholeheartedly and to establish the practice of **doing the Father's will** as the **chief purpose in living** the mortal life.” (Jesus) **When a person finds God they have found everything**. (<a id="a40_383"></a>[UB 180:6.1](/en/The_Urantia_Book/180#p6_1))
 
 ## Religion
 

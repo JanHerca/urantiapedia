@@ -31,7 +31,7 @@ dateCreated: 2022-9-9T8:13:38Z
 </figure>
 
 
-> “When once you grasp the idea of God as a true and loving Father, the only concept which Jesus ever taught, you must forthwith, in all consistency, utterly abandon all those primitive notions about God. . . The infinite love of God is not secondary to anything in the divine nature.” ([UB 188:4.8](/en/The_Urantia_Book/188#p4_8))
+> “When once you grasp the idea of God as a true and loving Father, the only concept which Jesus ever taught, you must forthwith, in all consistency, utterly abandon all those primitive notions about God. . . The infinite love of God is not secondary to anything in the divine nature.” (<a id="a33_287"></a>[UB 188:4.8](/en/The_Urantia_Book/188#p4_8))
 
 This statement may introduce one of the most important concepts in _The Urantia Book_ for the current needs of our planet.
 

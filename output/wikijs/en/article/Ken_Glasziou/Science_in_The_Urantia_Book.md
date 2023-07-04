@@ -43,7 +43,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 
 This article aspires to demonstrate that there is truly prophetic material of a scientific nature in the Urantia Papers (received 1935) that cannot be fobbed off as lucky guess. Supposedly the authors of these Papers were extra-terrestrials. If they have demonstrated they had knowledge unavailable to us earthlings, perhaps they were!! Herein, you are introduced to samples of the prophetic science. However the real significance of these Papers is in their  "contemplation of  the spiritual realities and universe values of eternal meanings"--which is quite independent of their science content and the status of their authors.
 
-These Papers also contain error, most of which is in accord with having being provided purely as a framework in which to think about the cosmology of creation. ([Paper 115, Section 1](/en/The_Urantia_Book/115#p1)) But some of the errors are difficult to place in that category. For example the Papers give the surface temperature of the sun as a little less than 6000 degrees F. But current measurements show the photosphere as having the lowest temperature at about 10,800 F. The chromosphere, at 18,000 F, is what many consider to be the surface. From there, the corona temperature rapidly increases up into the millions of degrees. And the Papers give the core as at 35,000 F whereas modern science puts it at 27,000 F.
+These Papers also contain error, most of which is in accord with having being provided purely as a framework in which to think about the cosmology of creation. (<a id="a45_161"></a>[Paper 115, Section 1](/en/The_Urantia_Book/115#p1)) But some of the errors are difficult to place in that category. For example the Papers give the surface temperature of the sun as a little less than 6000 degrees F. But current measurements show the photosphere as having the lowest temperature at about 10,800 F. The chromosphere, at 18,000 F, is what many consider to be the surface. From there, the corona temperature rapidly increases up into the millions of degrees. And the Papers give the core as at 35,000 F whereas modern science puts it at 27,000 F.
 
 Remarkably, the Papers provided correct information for events such as the beginnings of the solar system at 4.5 billion years ago, continental drift beginning 750 million years ago, radii of the electron and proton, etc., long before science could confirm them--but made a less than remarkable job of explaining the origin of our earth-moon system and the oceans of the earth.
 
@@ -55,7 +55,7 @@ In a textbook published at an American university in 1934 entitled, “The Archi
 
 The words of Swann were reproduced in Paper 42, Section 6 but with the comparison obviously deliberately changed from mass to volume. It reads:
 
-> “If the mass of matter should be magnified until that of an electron equaled one tenth of an ounce, then were size to be proportionately magnified, the volume of such an electron would become as large as that of the earth.” ([UB 42:6.8](/en/The_Urantia_Book/42#p6_8))
+> “If the mass of matter should be magnified until that of an electron equaled one tenth of an ounce, then were size to be proportionately magnified, the volume of such an electron would become as large as that of the earth.” (<a id="a57_227"></a>[UB 42:6.8](/en/The_Urantia_Book/42#p6_8))
 
 Taking the rest mass of the electron at 9.1 x 10^-28^ g, 0.1 ounce as 2.8 g, the radius of the earth as 6.4 x 10^6^ m and putting k as the magnification constant, then:
 
@@ -85,7 +85,7 @@ What are the chances that these figures are coincidental, that the correspondenc
 
 The Urantia Paper's author did not use this equation, changing the comparison to:
 
-> “If the volume of a proton--eighteen hundred times as heavy as an electron—should be magnified to the size of the head of a pin, then, in comparison, a pin's head would attain a diameter equal to that of the earth's orbit around the sun.” ([UB 42:6.8](/en/The_Urantia_Book/42#p6_8))
+> “If the volume of a proton--eighteen hundred times as heavy as an electron—should be magnified to the size of the head of a pin, then, in comparison, a pin's head would attain a diameter equal to that of the earth's orbit around the sun.” (<a id="a87_242"></a>[UB 42:6.8](/en/The_Urantia_Book/42#p6_8))
 
 > You can only find truth with logic if you have already found truth without it.
 > _G.K. Chesterton_
@@ -119,7 +119,7 @@ When we take into consideration that Swann's details were deliberately modified 
 
 ## Astrophysics—more prophecies: Neutrinos, Neutron Stars, and Black Holes
 
-> “In large suns when hydrogen is exhausted and gravity contraction ensues, if such a body is not sufficiently opaque to retain the internal pressure of support for the outer gas regions, then a sudden collapse occurs. The gravity-electric changes give origin to vast quantities of tiny particles devoid of electric potential, and such particles readily escape from the solar interior, thus bringing about the collapse of a gigantic sun within a few days.” ([Paper 41, Section 9](/en/The_Urantia_Book/41#p8_3))
+> “In large suns when hydrogen is exhausted and gravity contraction ensues, if such a body is not sufficiently opaque to retain the internal pressure of support for the outer gas regions, then a sudden collapse occurs. The gravity-electric changes give origin to vast quantities of tiny particles devoid of electric potential, and such particles readily escape from the solar interior, thus bringing about the collapse of a gigantic sun within a few days.” (<a id="a121_458"></a>[Paper 41, Section 9](/en/The_Urantia_Book/41#p8_3))
 
 At the time of receipt of the Urantia Papers (1935), it was generally believed that the destiny for large stars well in excess of the size of our sun was to blow off their outer layers by a series of explosions until they could retire in comfort as a white dwarf, the same destiny as expected for our own sun. Names for neutron stars, neutrinos, and black holes had not even been invented and all were, at best, figments of the imagination.
 

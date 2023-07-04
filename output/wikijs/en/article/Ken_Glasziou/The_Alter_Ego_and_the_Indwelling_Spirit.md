@@ -34,11 +34,11 @@ dateCreated: 2022-09-26T22:28:40.037Z
 </figure>
 
 
-> “_The great challenge to modern man is to achieve better communication with the divine Spirit of God that dwells within the human mind._” ([UB 196:3.34](/en/The_Urantia_Book/196#p3_34))
+> “_The great challenge to modern man is to achieve better communication with the divine Spirit of God that dwells within the human mind._” (<a id="a36_141"></a>[UB 196:3.34](/en/The_Urantia_Book/196#p3_34))
 
 ## Our “alter ego”–its beginnings
 
-When first learning to make use of language, many children are prone to think out loud, to express their thoughts in words, even if no one is present to hear them. And with the child’s dawn of creative imagination it evinces a tendency to converse with imaginary companions. ([UB 91:3.1](/en/The_Urantia_Book/91#p3_1))
+When first learning to make use of language, many children are prone to think out loud, to express their thoughts in words, even if no one is present to hear them. And with the child’s dawn of creative imagination it evinces a tendency to converse with imaginary companions. (<a id="a40_276"></a>[UB 91:3.1](/en/The_Urantia_Book/91#p3_1))
 
 In this way a budding ego seeks to hold communion with a fictitious alter ego. By this technique the child early learns to convert its monologue conversations into pseudo dialogues in which this alter ego makes replies to the child’s original thoughts and wishes. Very much of adult thinking is mentally carried on in this same conversational form.
 
@@ -78,7 +78,7 @@ Prayer ever has been and ever will be a twofold human experience: a psychologica
 
 When the prayer seeks nothing for the one who prays nor anything for his fellows, then such attitudes of the soul tend to the levels of true worship.
 
-> Aside from all that is transcendent in the experience of praying, ethical prayer is an effective way to equip the self for higher attainment. Prayer can induce us to look in two ways for help–to the subconscious reservoir of prior mortal experience and for inspiration and guidance to the superconscious borders of contact with the indwelling Spirit of the Father. (from [UB 91:3.5](/en/The_Urantia_Book/91#p3_5))
+> Aside from all that is transcendent in the experience of praying, ethical prayer is an effective way to equip the self for higher attainment. Prayer can induce us to look in two ways for help–to the subconscious reservoir of prior mortal experience and for inspiration and guidance to the superconscious borders of contact with the indwelling Spirit of the Father. (from <a id="a80_373"></a>[UB 91:3.5](/en/The_Urantia_Book/91#p3_5))
 
 ## External links
 

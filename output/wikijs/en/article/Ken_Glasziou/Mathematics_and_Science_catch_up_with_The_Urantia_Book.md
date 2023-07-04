@@ -31,7 +31,7 @@ dateCreated: 2022-09-26T11:49:05.941Z
 </figure>
 
 
-Mathematics and Science catch up with _The Urantia Book_ “In the mortal state, nothing can be absolutely proved; both science and religion are predicated on assumptions.” ([UB 103:7.10](/en/The_Urantia_Book/103#p7_10))
+Mathematics and Science catch up with _The Urantia Book_ “In the mortal state, nothing can be absolutely proved; both science and religion are predicated on assumptions.” (<a id="a33_172"></a>[UB 103:7.10](/en/The_Urantia_Book/103#p7_10))
 
 In 1935 that statement could only have been made with confidence by a handful of our most learned men.
 

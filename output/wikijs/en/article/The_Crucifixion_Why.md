@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> “The erroneous supposition that the righteousness of God was irreconcilable with the selfless love of the heavenly Father, presupposed absence of unity in the nature of Deity and led directly to the elaboration of the atonement doctrine, which is a philosophic assault upon both the unity and the free-willness of God.” ([UB 2:6.5](/en/The_Urantia_Book/2#p6_5))
+> “The erroneous supposition that the righteousness of God was irreconcilable with the selfless love of the heavenly Father, presupposed absence of unity in the nature of Deity and led directly to the elaboration of the atonement doctrine, which is a philosophic assault upon both the unity and the free-willness of God.” (<a id="a36_323"></a>[UB 2:6.5](/en/The_Urantia_Book/2#p6_5))
 
 As usual, the revelators state their position clearly and succinctly—except for one thing. If the atonement concept is false (and logically it must be), then why did Jesus, so soon after embarking upon his public mission, die on the cross?
 
@@ -53,11 +53,11 @@ Military men have long known that the confidence and loyalty of troops in their 
 > Whereof one cannot speak, thereon must one remain silent. 
 > _Ludwig Wittgenstein_
 
-In Jesus’ discussion of the biblical story about Job, we can find: “Do you not see that Job longed for a human God, that he hungered to commune with a divine Being who knows man’s mortal estate and understands that the just must often suffer in innocence as a part of this first life of the long Paradise ascent? Wherefore has the Son of Man come forth from the Father to live such a life in the flesh that he will be able to comfort and succor all those who must henceforth be called upon to endure the afflictions of Job.” ([UB 148:6.7](/en/The_Urantia_Book/148#p6_7))
+In Jesus’ discussion of the biblical story about Job, we can find: “Do you not see that Job longed for a human God, that he hungered to commune with a divine Being who knows man’s mortal estate and understands that the just must often suffer in innocence as a part of this first life of the long Paradise ascent? Wherefore has the Son of Man come forth from the Father to live such a life in the flesh that he will be able to comfort and succor all those who must henceforth be called upon to endure the afflictions of Job.” (<a id="a55_526"></a>[UB 148:6.7](/en/The_Urantia_Book/148#p6_7))
 
 Certainly, no matter what we may have to endure in this mortal life, we can never have cause to complain that Jesus himself does not know about nor understand our sufferings.
 
-But it seems highly dubious that such was the sole reason that Jesus was called upon to endure the crucifixion. If we look to see what happened to Abner, perhaps here there is a clue. Abner was the chief of the original followers of John the Baptist. Later Abner established a group of followers of Jesus at Philadelphia, east of the Jordan. About it, the book says, “The Eastern version of the message of Jesus, notwithstanding that it remained more true to his teachings, continued to follow the uncompromising attitude of Abner. It never progressed as did the Hellenized version (of Paul) and was eventually lost in the Islamic movement.” ([UB 195:1.11](/en/The_Urantia_Book/195#p1_11))
+But it seems highly dubious that such was the sole reason that Jesus was called upon to endure the crucifixion. If we look to see what happened to Abner, perhaps here there is a clue. Abner was the chief of the original followers of John the Baptist. Later Abner established a group of followers of Jesus at Philadelphia, east of the Jordan. About it, the book says, “The Eastern version of the message of Jesus, notwithstanding that it remained more true to his teachings, continued to follow the uncompromising attitude of Abner. It never progressed as did the Hellenized version (of Paul) and was eventually lost in the Islamic movement.” (<a id="a59_643"></a>[UB 195:1.11](/en/The_Urantia_Book/195#p1_11))
 
 Paul’s version of Christianity had the atonement doctrine as a central theme. Abner’s associates included Jesus’ lifelong friends, Lazarus and his sisters, Mary and Martha, as well as David Zebedee and his wife (who was Jesus’ sister, Ruth), surely indicating that Abner’s group held closely to Jesus’ real teaching.
 
@@ -73,14 +73,14 @@ However, now that we Urantians have had more time to absorb the meaning of the P
 
 The change that appears to be necessary is one that will mold what is now a loose collection of book-centered individuals into becoming a unified, service-orientated movement of genuine Jesus-followers intent on living their lives as Jesus lived his—and, in doing so, becoming the catalyst to induce others to go and do likewise.
 
-> “Do you not comprehend that God dwells within you, that he has become what you are that he may make you what he is.” ([UB 148:6.10](/en/The_Urantia_Book/148#p6_10))
+> “Do you not comprehend that God dwells within you, that he has become what you are that he may make you what he is.” (<a id="a75_120"></a>[UB 148:6.10](/en/The_Urantia_Book/148#p6_10))
 
 > If you were to destroy in mankind, the belief in immortality, not only love but every living force maintaining the life of the world would at once dry up.
 > _Dostoevsky_
 
 > **All Urantia is waiting**
 > 
-> for the proclamation of the ennobling message of Michael, unencumbered by the accumulated doctrines and dogmas of nineteen centuries of contact with the religions of evolutionary origin. The hour is striking for presenting to Buddhism, to Christianity, to Hinduism, even to the peoples of all faiths; not the gospel about Jesus, but the living, spiritual reality of the gospel of Jesus. ([UB 94:12.7](/en/The_Urantia_Book/94#p12_7))
+> for the proclamation of the ennobling message of Michael, unencumbered by the accumulated doctrines and dogmas of nineteen centuries of contact with the religions of evolutionary origin. The hour is striking for presenting to Buddhism, to Christianity, to Hinduism, even to the peoples of all faiths; not the gospel about Jesus, but the living, spiritual reality of the gospel of Jesus. (<a id="a82_390"></a>[UB 94:12.7](/en/The_Urantia_Book/94#p12_7))
 
 ## External links
 

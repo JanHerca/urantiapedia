@@ -49,9 +49,9 @@ dateCreated: 2022-09-26T03:56:17.001Z
 > 
 > Most of the really important things which Jesus said or did seemed to happen casually, “as he passed by.” There was so little of the professional, the well-planned, or the premeditated in the Master’s earthly ministry. He dispensed health and scattered happiness naturally and gracefully as he journeyed through life. It was literally true, “He went about doing good.”
 > 
-> And it behooves the Master’s followers in all ages to learn to minister as “they pass by”–to do unselfish good as they go about their daily duties. ([UB 171:7.1-10](/en/The_Urantia_Book/171#p7_1))
+> And it behooves the Master’s followers in all ages to learn to minister as “they pass by”–to do unselfish good as they go about their daily duties. (<a id="a51_151"></a>[UB 171:7.1-10](/en/The_Urantia_Book/171#p7_1))
 
-> When you once begin to find God in your soul, presently you will begin to discover him in other men's souls and eventually in all the creatures and creations of a mighty universe. But what chance does the Father have to appear as a God of supreme loyalties and divine ideals in the souls of men who give little or no time to the thoughtful contemplation of such eternal realities? While the mind is not the seat of the spiritual nature, it is indeed the gateway thereto. ([UB 155:6.13](/en/The_Urantia_Book/155#p6_13))
+> When you once begin to find God in your soul, presently you will begin to discover him in other men's souls and eventually in all the creatures and creations of a mighty universe. But what chance does the Father have to appear as a God of supreme loyalties and divine ideals in the souls of men who give little or no time to the thoughtful contemplation of such eternal realities? While the mind is not the seat of the spiritual nature, it is indeed the gateway thereto. (<a id="a53_474"></a>[UB 155:6.13](/en/The_Urantia_Book/155#p6_13))
 
 ## External links
 

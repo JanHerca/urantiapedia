@@ -52,11 +52,11 @@ Some readers who have yet to form an opinion about the validity of the Urantia P
 
 Dr. Meredith Sprunger, a retired academic and minister of religion, has pointed out that the origin and authorship of a work such as the Urantia Papers is not a philosophical criterion of truth. The Papers themselves deny that science can validate religious truth.
 
-“The existence of God can never be proved by scientific experiment or by the pure reason of logical deduction. God can be realized only in the realms of human experience.” ([UB 1:2.7](/en/The_Urantia_Book/1#p2_7))
+“The existence of God can never be proved by scientific experiment or by the pure reason of logical deduction. God can be realized only in the realms of human experience.” (<a id="a54_173"></a>[UB 1:2.7](/en/The_Urantia_Book/1#p2_7))
 
 And on page 1106:
 
-> “Reason is the proof of science, faith the proof of religion, logic the proof of philosophy, but revelation is validated only by human experience.” ([UB 101:2.8](/en/The_Urantia_Book/101#p2_8))
+> “Reason is the proof of science, faith the proof of religion, logic the proof of philosophy, but revelation is validated only by human experience.” (<a id="a58_151"></a>[UB 101:2.8](/en/The_Urantia_Book/101#p2_8))
 
 Thus, according to the Urantia Papers, both the existence of God and the truth of revelation can be validated only through our own personal experience.
 

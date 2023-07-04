@@ -36,7 +36,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 Akhenaten (Ikhnaton) 
 
-> Never in all history did any king so methodically proceed to swing a whole nation from polytheism to monotheism as did this extraordinary Ikhnaton. [[UB 95:5.4](/en/The_Urantia_Book/95#p5_4)]
+> Never in all history did any king so methodically proceed to swing a whole nation from polytheism to monotheism as did this extraordinary Ikhnaton. <a id="a38_150"></a>[[UB 95:5.4](/en/The_Urantia_Book/95#p5_4)]
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Derek_Samaras/Akhenaten/image01.png">
@@ -45,7 +45,7 @@ Akhenaten (Ikhnaton)
 
 Akhenaten, the son of AmenhotepIII was the young king of Egypt who ruled from around 1353 B.C. until 1336 B.C. and might be considered a revolutionary by today’s standards. During his short reign he successfully changed his name, relocated the capitol of Egypt from Thebes to a newly built Amarna, and united his people under monotheism. His writings were prolific as some are now immortalized in the Old Testament under Hebrew authorship. Akhenaten’s only problem was that his new religion based on morality and righteousness under one God was too much for most people to grasp at the time. When his short reign was over, there was an immediate reversion back to the old ways of worshiping Isis and Osiris. All of Akhenaten’s writings were subsequently destroyed, and his name has ever since been the subject of many speculations and wild tales by professional Egyptologists, Theologians, and Alien theorists. 
 
-> Ikhnaton was wise enough to maintain the outward worship of Aton, the sun-god, while he led his associates in the disguised worship of the One God, creator of Aton and supreme Father of all. This young teacher-king was a prolific writer, being author of the exposition entitled “The One God,” a book of thirty-one chapters, which the priests, when returned to power, utterly destroyed. Ikhnaton also wrote one hundred and thirty-seven hymns, twelve of which are now preserved in the Old Testament Book of Psalms, credited to Hebrew authorship. [[UB 95:5.7](/en/The_Urantia_Book/95#p5_7)]
+> Ikhnaton was wise enough to maintain the outward worship of Aton, the sun-god, while he led his associates in the disguised worship of the One God, creator of Aton and supreme Father of all. This young teacher-king was a prolific writer, being author of the exposition entitled “The One God,” a book of thirty-one chapters, which the priests, when returned to power, utterly destroyed. Ikhnaton also wrote one hundred and thirty-seven hymns, twelve of which are now preserved in the Old Testament Book of Psalms, credited to Hebrew authorship. <a id="a47_546"></a>[[UB 95:5.7](/en/The_Urantia_Book/95#p5_7)]
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Derek_Samaras/Akhenaten/image02.png">
@@ -54,7 +54,7 @@ Akhenaten, the son of AmenhotepIII was the young king of Egypt who ruled from ar
 
 Akhenaten is most popular for his installment of the worship of Aten(Aton) the “Solar Disk” or Sun god. The worship of one deity marks a great social and religious evolution for a family, nation, or race. Monotheism is a powerful unifier for a society. There was however 2 sides to the worship of Aten. 
  
-> Very wisely Ikhnaton sought to establish monotheism under the guise of the sun-god. This decision to approach the worship of the Universal Father by absorbing all gods into the worship of the sun was due to the counsel of the *Salemite physician. Ikhnaton took the generalized doctrines of the then existent Aton faith regarding the fatherhood and motherhood of Deity and created a religion which recognized an intimate worshipful relation between man and God. [[UB 95:5.6](/en/The_Urantia_Book/95#p5_6)]
+> Very wisely Ikhnaton sought to establish monotheism under the guise of the sun-god. This decision to approach the worship of the Universal Father by absorbing all gods into the worship of the sun was due to the counsel of the *Salemite physician. Ikhnaton took the generalized doctrines of the then existent Aton faith regarding the fatherhood and motherhood of Deity and created a religion which recognized an intimate worshipful relation between man and God. <a id="a56_463"></a>[[UB 95:5.6](/en/The_Urantia_Book/95#p5_6)]
 
 ## Salemite Physician Who Taught Akhenaten Monotheism? 
 
@@ -64,7 +64,7 @@ Johnson has recently pieced together broken wall reliefs and statuary from colle
 
 Certainly its speculation to assume that Kiya is the missing salemite physician who taught Akhenaten monotheism but it is interesting how _The Urantia Book_ tells us that this salemite physician was also a woman and none other than the mother of Akhenaton. 
 
-> The teachings of Amenemope were slowly losing their hold on the Egyptian mind when, through the influence of an Egyptian Salemite physician, a woman of the royal family espoused the Melchizedek teachings. This woman prevailed upon her son, Ikhnaton, Pharaoh of Egypt, to accept these doctrines of One God. [[UB 95:5.1](/en/The_Urantia_Book/95#p5_1)]
+> The teachings of Amenemope were slowly losing their hold on the Egyptian mind when, through the influence of an Egyptian Salemite physician, a woman of the royal family espoused the Melchizedek teachings. This woman prevailed upon her son, Ikhnaton, Pharaoh of Egypt, to accept these doctrines of One God. <a id="a66_308"></a>[[UB 95:5.1](/en/The_Urantia_Book/95#p5_1)]
 
 This passage in _The Urantia Book_ doesn’t tell us the name of the salemite physician but it does show that this woman would be considered very important to Akhenaten. Egyptologists have come to show that Tiye was the mother of Akhenaten, and while there is no mention of her being a physician, there is record of her having great influence as an advisor to Akhenaton during his rule at Amarna. Wikipedia tells us that she most likely was of foreign descent which could contribute to her having salem influences. 
 
@@ -72,7 +72,7 @@ This passage in _The Urantia Book_ doesn’t tell us the name of the salemite ph
 
 It turned out that Akhenaton needed all the advising he could get from his mother because his ambition was not equaled by his sagaciousness. His new religion deemed too much, too quickly for the majority of citizens. It was difficult for them to leave the old ways that were so steeped in ritual, superstition, and nature worship. 
 
-> The weakness of Ikhnaton’s doctrine lay in the fact that he proposed such an advanced religion that only the educated Egyptians could fully comprehend his teachings. The rank and file of the agricultural laborers never really grasped his gospel and were, therefore, ready to return with the priests to the old- time worship of Isis and her consort Osiris, who was supposed to have been miraculously resurrected from a cruel death at the hands of Set, the god of darkness and evil. [[UB 95:5.12](/en/The_Urantia_Book/95#p5_12)]
+> The weakness of Ikhnaton’s doctrine lay in the fact that he proposed such an advanced religion that only the educated Egyptians could fully comprehend his teachings. The rank and file of the agricultural laborers never really grasped his gospel and were, therefore, ready to return with the priests to the old- time worship of Isis and her consort Osiris, who was supposed to have been miraculously resurrected from a cruel death at the hands of Set, the god of darkness and evil. <a id="a74_483"></a>[[UB 95:5.12](/en/The_Urantia_Book/95#p5_12)]
 
 Even though the ideal of monotheism experienced a decline with the passing of Akhenaten’s reign, the idea of one God persisted in the thinking of many people. Akhenaten’s son in law, Tutankhamen decided to join the priests of the old religious ways. In ironic fashion he took a page from his father’s book and changed his name and moved the capital back to Thebes. Unfortunately much of the art and literature at Amarna was destroyed and all associations with Akhenaten were severed. 
 
@@ -89,7 +89,7 @@ Most scholars currently don’t describe Akhenaten as a monotheist due to their 
 
 Love him or hate him, Akhenaten has contributed to the moral, social, and spiritual foundation of the entire judeo-christian perspective with his interpretation of the One God of all. It remains a mystery to professionals as to why his works were so vehemently destroyed immediately after his death. 
 
-> Ikhnaton was wise enough to maintain the outward worship of Aton, the sun-god, while he led his associates in the disguised worship of the One God, creator of Aton and supreme Father of all. This young teacher-king was a prolific writer, being author of the exposition entitled “The One God,” a book of thirty-one chapters, which the priests, when returned to power, utterly destroyed. Ikhnaton also wrote one hundred and thirty-seven hymns, twelve of which are now preserved in the Old Testament Book of Psalms, credited to Hebrew authorship. [[UB 95:5.7](/en/The_Urantia_Book/95#p5_7)]
+> Ikhnaton was wise enough to maintain the outward worship of Aton, the sun-god, while he led his associates in the disguised worship of the One God, creator of Aton and supreme Father of all. This young teacher-king was a prolific writer, being author of the exposition entitled “The One God,” a book of thirty-one chapters, which the priests, when returned to power, utterly destroyed. Ikhnaton also wrote one hundred and thirty-seven hymns, twelve of which are now preserved in the Old Testament Book of Psalms, credited to Hebrew authorship. <a id="a91_546"></a>[[UB 95:5.7](/en/The_Urantia_Book/95#p5_7)]
 
 Finding support for Akhenaten’s writings within the Bible are difficult for multiple reasons. The first being, the priests immediately destroyed his works following his death, and has influenced the academic professionals on the marjority to interpret Aknenaten as more of a villain character. This is due to his “breaking old traditions.” This paints an unfortunate representation of the gifted, spiritually revolutionary king. Second, It’s important to point out that Akhenaten was teaching from the wisdom and writings of Amenemope, who scholars are now quietly attributing some verses of the old testament to. There is still great effort in keeping a strictly traditional Hebrew ownership and accredidation for the authorship of the Old testament, as well as the creation of monotheism. This becomes a challenge when trying to discern and share historical truths for archeologists and historians. There is an old book by James Breasted called “The Dawn of Conscience” 1933, in it he points out the exact passages where the teachings of Amenemope appear in the old testament. 
 

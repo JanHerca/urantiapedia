@@ -80,7 +80,7 @@ dateCreated: 2022-9-9T8:13:39Z
 > 
 > “In the great day of the kingdom judgment, many will say to me, ‘Did we not prophesy in your name and by your name do many wonderful works?’ But I will be compelled to say to them, I never knew you; depart from me you who are false teachers. But every one who hears this charge and sincerely executes his commission to represent me before men even as I have represented my Father to you, shall find an abundant entrance into my service and into the kingdom of the heavenly Father.”
 > 
-> Never before had the apostles heard Jesus speak in this way, for he had talked to them as one having supreme authority. They came down from the mountain about sundown, but no man asked Jesus a question. ([UB 140:3.1-21](/en/The_Urantia_Book/140#p3_1))
+> Never before had the apostles heard Jesus speak in this way, for he had talked to them as one having supreme authority. They came down from the mountain about sundown, but no man asked Jesus a question. (<a id="a82_206"></a>[UB 140:3.1-21](/en/The_Urantia_Book/140#p3_1))
 
 ## External links
 

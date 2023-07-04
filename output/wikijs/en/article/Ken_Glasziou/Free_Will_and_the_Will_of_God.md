@@ -33,9 +33,9 @@ dateCreated: 2022-9-9T8:13:39Z
 
 How free is our free will? How far does it extend. Limits must be there. At one extreme, we are not free to do the undoable deed. A close examination of what we are given in the Urantia Papers tells us more about what we can do than what we cannot do.
 
-Primarily, we are free to make our own personal choice regarding our eternal destiny. And no force, creator, or agency in the whole of the universes is permitted to interfere with that choice. In this regard, the Universal Father has decreed the absolute sovereignty of the mortal free will. ([UB 5:6.8](/en/The_Urantia_Book/5#p6_8))
+Primarily, we are free to make our own personal choice regarding our eternal destiny. And no force, creator, or agency in the whole of the universes is permitted to interfere with that choice. In this regard, the Universal Father has decreed the absolute sovereignty of the mortal free will. (<a id="a35_293"></a>[UB 5:6.8](/en/The_Urantia_Book/5#p6_8))
 
-Furthermore, any form of coercion in our making of that choice is positively excluded. The gate to eternity opens “only in response to the freewill choice of the freewill sons of the God of free will.” ([UB 5:6.12](/en/The_Urantia_Book/5#p6_12))
+Furthermore, any form of coercion in our making of that choice is positively excluded. The gate to eternity opens “only in response to the freewill choice of the freewill sons of the God of free will.” (<a id="a37_203"></a>[UB 5:6.12](/en/The_Urantia_Book/5#p6_12))
 
 If we wish to understand some of the peculiarities of the Urantia Papers, and particularly so if we are inclined to have a fundamentalist attitude towards them, we may need to spend considerable time and effort in analyzing what we consider would constitute coercion or interference with “the freewill choice of a freewill son of the God of free will.”
 
@@ -57,7 +57,7 @@ Human behavior is a modified form of animal behavior brought about by imprinting
 
 We humans have all the necessary attributes to make freewill decisions. But the powers that be have decreed that for one special decision we must not be coerced. That special decision is to forever choose God’s will in preference to our own. This same decision is also described as entry into the kingdom, the “choosing of eternal life,” “salvation,” etc. And it must be by faith and faith alone. This is stated in numerous forms:
 
-> “Salvation. . . is to be had only by believing, by simple and sincere faith” ([UB 140:10.1](/en/The_Urantia_Book/140#p10_1)); “The attainment of salvation is by faith and faith alone” ([UB 141:7.6](/en/The_Urantia_Book/141#p7_6)); “Faith, simple childlike faith is the key to the door of the kingdom” ([UB 170:3.2](/en/The_Urantia_Book/170#p3_2)); “Faith alone will pass you through its portals.” ([UB 140:1.4](/en/The_Urantia_Book/140#p1_4)); “the individual becomes God-knowing only by faith.” ([UB 102:6.5](/en/The_Urantia_Book/102#p6_5)).
+> “Salvation. . . is to be had only by believing, by simple and sincere faith” (<a id="a59_80"></a>[UB 140:10.1](/en/The_Urantia_Book/140#p10_1)); “The attainment of salvation is by faith and faith alone” (<a id="a59_187"></a>[UB 141:7.6](/en/The_Urantia_Book/141#p7_6)); “Faith, simple childlike faith is the key to the door of the kingdom” (<a id="a59_304"></a>[UB 170:3.2](/en/The_Urantia_Book/170#p3_2)); “Faith alone will pass you through its portals.” (<a id="a59_400"></a>[UB 140:1.4](/en/The_Urantia_Book/140#p1_4)); “the individual becomes God-knowing only by faith.” (<a id="a59_499"></a>[UB 102:6.5](/en/The_Urantia_Book/102#p6_5)).
 
 It logically follows that the authors of the Urantia Papers had no choice other than to avoid providing positive proof of the authority of their revelation. We had to have good reason to doubt anything and everything in the Papers.
 
@@ -69,11 +69,11 @@ We have another problem to face. Our primary choice is our decision to seek in a
 
 For us backward, back woods Urantia mortals, the safest and best way to answer such difficult questions is always to first see how Jesus answered or what Jesus did. This one seems appropriate:
 
-> Jesus said: “The will of God is the way of God, partnership with the choice of God in the face of any potential alternative. To do the will of God, therefore, is the progressive experience of becoming more and more like God, and God is the source and destiny of all that is good and beautiful and true.” ([UB 130:2.7](/en/The_Urantia_Book/130#p2_7))
+> Jesus said: “The will of God is the way of God, partnership with the choice of God in the face of any potential alternative. To do the will of God, therefore, is the progressive experience of becoming more and more like God, and God is the source and destiny of all that is good and beautiful and true.” (<a id="a71_307"></a>[UB 130:2.7](/en/The_Urantia_Book/130#p2_7))
 
 Here is another that is extremely helpful:
 
-> “The human Jesus saw God as being holy, just, and great, as well as being true, beautiful, and good. All these attributes of divinity he focused in his mind as the ‘will of the Father in heaven.’” ([UB 196:0.2](/en/The_Urantia_Book/196#p0_2))
+> “The human Jesus saw God as being holy, just, and great, as well as being true, beautiful, and good. All these attributes of divinity he focused in his mind as the ‘will of the Father in heaven.’” (<a id="a75_200"></a>[UB 196:0.2](/en/The_Urantia_Book/196#p0_2))
 
 Just as with spiritual or divine values to which no precise definition can be given, so with the “will of God.” Its definition is “circumstantial”—dependent on circumstances, some of which may be extremely complex.
 
@@ -81,7 +81,7 @@ All of the terms, holy, just, great, true, beautiful, and good are indefinable a
 
 One good guide for how we should love our neighbor is given by the statement:
 
-> “Love, unselfishness, must undergo a constant and living re-adaptive interpretation of relationships in accordance with the leading of the Spirit of Truth. Love must thereby grasp the ever-changing and enlarging concepts of the **highest cosmic good** of the individual who is loved.” ([UB 180:5.10](/en/The_Urantia_Book/180#p5_10))
+> “Love, unselfishness, must undergo a constant and living re-adaptive interpretation of relationships in accordance with the leading of the Spirit of Truth. Love must thereby grasp the ever-changing and enlarging concepts of the **highest cosmic good** of the individual who is loved.” (<a id="a83_288"></a>[UB 180:5.10](/en/The_Urantia_Book/180#p5_10))
 
 The term “highest cosmic good” means that in seeking to be helpful or to love another, it is not necessarily their immediate benefit that we should be concerned with. Rather we should be asking the Spirit of Truth to aid us in knowing and doing what might help them in some way to further their eternal career—or at least not to jeopardize it.
 

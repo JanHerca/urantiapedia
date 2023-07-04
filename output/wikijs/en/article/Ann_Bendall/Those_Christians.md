@@ -56,7 +56,7 @@ There is locked within every human life, a wealth of love and joy that partakes 
 
 > The evidence to all the world that you have been born of the spirit is that you sincerely love one another.
 >
-> Jesus, The Urantia Book, [UB 142:5.4](/en/The_Urantia_Book/142#p5_4)
+> Jesus, The Urantia Book, <a id="a58_27"></a>[UB 142:5.4](/en/The_Urantia_Book/142#p5_4)
 
 > By the accident of fortune a man may rule the world for a time, but by virtue of love he may rule the world forever.
 >

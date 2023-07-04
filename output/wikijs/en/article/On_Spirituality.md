@@ -39,9 +39,9 @@ dateCreated: 2022-9-9T8:13:39Z
 > 
 > Jesus portrayed the profound surety of the God-knowing mortal when he said: “To a God-knowing kingdom believer, what does it matter if all things earthly crash?” Temporal securities are vulnerable, but spiritual sureties are impregnable. When the flood tides of human adversity, selfishness, cruelty, hate, malice, and jealousy beat about the mortal soul, you may rest in the assurance that there is one inner bastion, the citadel of the spirit, which is absolutely unassailable; at least this is true of every human being who has dedicated the keeping of his soul to the indwelling spirit of the eternal God.
 > 
-> After such spiritual attainment, whether secured by gradual growth or specific crisis, there occurs a new orientation of personality as well as the development of a new standard of values. Such spirit-born individuals are so re-motivated in life that they can calmly stand by while their fondest ambitions perish and their keenest hopes crash; they positively know that such catastrophes are but the redirecting cataclysms which wreck one’s temporal creations preliminary to the rearing of the more noble and enduring realities of a new and more sublime level of universe attainment. ([UB 100:2.4-8](/en/The_Urantia_Book/100#p2_4))
+> After such spiritual attainment, whether secured by gradual growth or specific crisis, there occurs a new orientation of personality as well as the development of a new standard of values. Such spirit-born individuals are so re-motivated in life that they can calmly stand by while their fondest ambitions perish and their keenest hopes crash; they positively know that such catastrophes are but the redirecting cataclysms which wreck one’s temporal creations preliminary to the rearing of the more noble and enduring realities of a new and more sublime level of universe attainment. (<a id="a41_587"></a>[UB 100:2.4-8](/en/The_Urantia_Book/100#p2_4))
 
-> The goal of human self-realization should be spiritual not material. The only realities worth striving for are divine, spiritual, and eternal. ([UB 100:2.6](/en/The_Urantia_Book/100#p2_6))
+> The goal of human self-realization should be spiritual not material. The only realities worth striving for are divine, spiritual, and eternal. (<a id="a43_146"></a>[UB 100:2.6](/en/The_Urantia_Book/100#p2_6))
 
 ## External links
 

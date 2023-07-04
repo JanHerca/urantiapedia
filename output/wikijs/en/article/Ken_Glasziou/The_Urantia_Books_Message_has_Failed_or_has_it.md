@@ -39,7 +39,7 @@ To justify significant change, we must first admit to ourselves that our present
 > The race is not to the swift nor the battle to the strong.
 > [Ecclesiastes IX, 2](/en/Bible/Ecclesiastes/9#v2)
 
-> Be not discouraged; human evolution is still in progress, and the revelation of God to the world, in and through Jesus, shall not fail. ([UB 196:3.33](/en/The_Urantia_Book/196#p3_33))
+> Be not discouraged; human evolution is still in progress, and the revelation of God to the world, in and through Jesus, shall not fail. (<a id="a41_139"></a>[UB 196:3.33](/en/The_Urantia_Book/196#p3_33))
 
 This was back in 1987, even before the present mess-up had made things so much worse. Jim said straight out that in his opinion _The Urantia Book_ had already failed and that at some time in the future, the revelators would have to make another try. However, **the book itself states the revelation will succeed,** so surely it is too early to give up yet. Paper 195 says, “. . . the truths of Jesus gospel will persist gloriously to illuminate a new and better way.”
 
@@ -49,7 +49,7 @@ But before giving up, there are two things of which I am sure. One is that Chris
 
 My second point of sureness is that reform of Christianity was the major hope of the revelators for the success of their revelation. I believe they were well aware that Christianity would not easily embrace a new revelation, and that those who do accept it would need to find the way to introducing it to the flock. They tell us:
 
-> “Paganized and socialized Christianity stands in need of new contact with the uncompromised teachings of Jesus; it languishes for lack of a new vision of the Master’s life on earth. A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism.” ([UB 195:9.2](/en/The_Urantia_Book/195#p9_2))
+> “Paganized and socialized Christianity stands in need of new contact with the uncompromised teachings of Jesus; it languishes for lack of a new vision of the Master’s life on earth. A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism.” (<a id="a51_357"></a>[UB 195:9.2](/en/The_Urantia_Book/195#p9_2))
 
 So please, let us not be as the majority of the current crop of Christians with feet set in concrete. Let us face reality. For in consideration of the degenerate state of Western society and for the sake of the new generations growing up without God and without meaning in their lives, **would it not be a crime against humanity to fail to do so?**
 

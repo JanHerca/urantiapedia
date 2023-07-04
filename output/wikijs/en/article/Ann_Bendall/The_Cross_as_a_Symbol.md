@@ -43,7 +43,7 @@ Jesus on the cross, his head bowed, blood dripping from his head with its crown 
 > In the strife of Truth and Falsehood, for the good or evil side.
 > J.R. Lowell
 
-> The fact of the cross became the very center of subsequent Christianity; but it is not the central truth of the religion which may be derived from the life and teachings of Jesus of Nazareth. ([UB 143:6.3](/en/The_Urantia_Book/143#p6_3))
+> The fact of the cross became the very center of subsequent Christianity; but it is not the central truth of the religion which may be derived from the life and teachings of Jesus of Nazareth. (<a id="a45_195"></a>[UB 143:6.3](/en/The_Urantia_Book/143#p6_3))
 
 A number of churches of the 1990’s are downplaying the cross, and instead of a life-like cross only a small one in a non-focal position can be found. They are preaching the living Christ, the way, the truth, and the light. Perhaps the cross now symbolizes mankind’s inhumanity, or embarrassment at the atonement doctrine.
 
@@ -51,15 +51,15 @@ It appears that no other planet has the local nickname that ours does—Urantia 
 
 My humiliation at our planet’s claim to fame is tempered by the fact that, in the local universe, Jesus made the cross an eternal symbol of the triumph of love over hate and the victory of truth over evil when he prayed, “_Father, forgive them for they know not what they do._”
 
-That devotion of love was contagious throughout a vast universe. and the disciples caught it from their Master. The very first teacher of his gospel who was called upon to lay down his life in his service said, as they stoned him to death, “_Lay not this sin to their charge._” ([UB 188:5.6](/en/The_Urantia_Book/188#p5_6))
+That devotion of love was contagious throughout a vast universe. and the disciples caught it from their Master. The very first teacher of his gospel who was called upon to lay down his life in his service said, as they stoned him to death, “_Lay not this sin to their charge._” (<a id="a53_279"></a>[UB 188:5.6](/en/The_Urantia_Book/188#p5_6))
 
-We are also advised that, “_On millions of inhabited worlds, tens of millions of evolving creatures who may have been tempted to give up the moral struggle and abandon the good fight of faith, have taken one more look at Jesus on the cross and then have forged on ahead, inspired by God’s laying down his incarnate life in devotion to the unselfish service of man._” ([UB 188:5.5](/en/The_Urantia_Book/188#p5_5))
+We are also advised that, “_On millions of inhabited worlds, tens of millions of evolving creatures who may have been tempted to give up the moral struggle and abandon the good fight of faith, have taken one more look at Jesus on the cross and then have forged on ahead, inspired by God’s laying down his incarnate life in devotion to the unselfish service of man._” (<a id="a55_368"></a>[UB 188:5.5](/en/The_Urantia_Book/188#p5_5))
 
-The symbolism of the cross appears important, if repetition is any indicator. The revelators rarely repeat themselves and yet in [UB 188:4.2](/en/The_Urantia_Book/188#p4_2), there is a continual emphasis on the truth of the cross, and we are advised that, “_In your well-meant efforts to escape the superstitious errors of the false interpretation of the meaning of the death on the cross, you should be careful not to make the great mistake of failing to perceive the true significance and the genuine import of the Master’s death._” ([UB 188:4.2](/en/The_Urantia_Book/188#p4_2))
+The symbolism of the cross appears important, if repetition is any indicator. The revelators rarely repeat themselves and yet in <a id="a57_129"></a>[UB 188:4.2](/en/The_Urantia_Book/188#p4_2), there is a continual emphasis on the truth of the cross, and we are advised that, “_In your well-meant efforts to escape the superstitious errors of the false interpretation of the meaning of the death on the cross, you should be careful not to make the great mistake of failing to perceive the true significance and the genuine import of the Master’s death._” (<a id="a57_536"></a>[UB 188:4.2](/en/The_Urantia_Book/188#p4_2))
 
-The cross: “_that high symbol of sacred service, the devotion of one’s life to the welfare and salvation of one’s fellows. The cross. . . does stand forever, on earth and throughout a vast universe, as a sacred symbol of the good bestowing themselves upon the evil and thereby saving them by this very devotion of love. The cross does stand as the token of the highest form of unselfish service, the supreme devotion of the full bestowal of a righteous life in the service of wholehearted ministry, even in death, the death of the cross. And the very sight of this great symbol of the bestowal life of Jesus truly inspires all of us to want to go and do likewise._” ([UB 188:5.9](/en/The_Urantia_Book/188#p5_9))
+The cross: “_that high symbol of sacred service, the devotion of one’s life to the welfare and salvation of one’s fellows. The cross. . . does stand forever, on earth and throughout a vast universe, as a sacred symbol of the good bestowing themselves upon the evil and thereby saving them by this very devotion of love. The cross does stand as the token of the highest form of unselfish service, the supreme devotion of the full bestowal of a righteous life in the service of wholehearted ministry, even in death, the death of the cross. And the very sight of this great symbol of the bestowal life of Jesus truly inspires all of us to want to go and do likewise._” (<a id="a59_667"></a>[UB 188:5.9](/en/The_Urantia_Book/188#p5_9))
 
-Most _Urantia Book_ readers would deem themselves to fall within the category of “thinkers” and to those who do is given this additional advice in, “_When thinking men and women look upon Jesus as he offers up his life on the cross, they will hardly again permit themselves to complain at even the severest hardships of life, much less at petty harassments and their many purely fictitious grievances. His life was so glorious and his death so triumphant that we are all enticed to a willingness to share both._” ([UB 188:5.10](/en/The_Urantia_Book/188#p5_10))
+Most _Urantia Book_ readers would deem themselves to fall within the category of “thinkers” and to those who do is given this additional advice in, “_When thinking men and women look upon Jesus as he offers up his life on the cross, they will hardly again permit themselves to complain at even the severest hardships of life, much less at petty harassments and their many purely fictitious grievances. His life was so glorious and his death so triumphant that we are all enticed to a willingness to share both._” (<a id="a61_514"></a>[UB 188:5.10](/en/The_Urantia_Book/188#p5_10))
 
 > The spacious firmament on high, 
 > Wíth all the blue ethereal sky, 
@@ -67,7 +67,7 @@ Most _Urantia Book_ readers would deem themselves to fall within the category of
 > Their great Original proclaim. 
 > _Addison “Ode.”_
 
-> We know that the death on the cross was not to effect man’s reconciliation to God but to stimulate man’s *realization* of the Father’s eternal love and his Son’s unending mercy, and to broadcast these universal truths to a whole universe. ([UB 188:5.13](/en/The_Urantia_Book/188#p5_13))
+> We know that the death on the cross was not to effect man’s reconciliation to God but to stimulate man’s *realization* of the Father’s eternal love and his Son’s unending mercy, and to broadcast these universal truths to a whole universe. (<a id="a69_242"></a>[UB 188:5.13](/en/The_Urantia_Book/188#p5_13))
 
 ## External links
 

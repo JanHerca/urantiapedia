@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-_The Urantia Book_ ([UB 169:4.3-13](/en/The_Urantia_Book/169#p4_3)).
+_The Urantia Book_ (<a id="a36_20"></a>[UB 169:4.3-13](/en/The_Urantia_Book/169#p4_3)).
 
 You learn about God from Jesus by observing the divinity of his life, not by depending on his teachings. From the life of the Master:
 
@@ -101,13 +101,13 @@ To hear Jesus’ teaching is not equivalent to knowing God, but to see Jesus is 
 
 ---
 
-The text of [UB 169:4.12](/en/The_Urantia_Book/169#p4_12) of _The Urantia Book_ tells us that, through its revelation of his life, we are enabled to “see” Jesus. This “mind-vision” can only come because of a thorough familiarity with that life and the way Jesus lived it. When we do acquire that familiarity, it becomes possible to experience a revelation of the Father to our souls.
+The text of <a id="a103_12"></a>[UB 169:4.12](/en/The_Urantia_Book/169#p4_12) of _The Urantia Book_ tells us that, through its revelation of his life, we are enabled to “see” Jesus. This “mind-vision” can only come because of a thorough familiarity with that life and the way Jesus lived it. When we do acquire that familiarity, it becomes possible to experience a revelation of the Father to our souls.
 
 The big advantage of knowing the life of Jesus comes because, in virtually any situation that we find ourselves, we can ask our Thought Adjuster, “What would Jesus do?” And since we already have a pictorial representation of Jesus’ life stored in the memory banks of our minds, we facilitate the Thought Adjuster’s ability to communicate an answer.
 
 We are blessed with this gift. Its effectiveness is in our own hands.
 
-> God's forgiveness is made actually available and is personally experienced just in so far as he forgives his fellows. ([UB 170:3.4](/en/The_Urantia_Book/170#p3_4))
+> God's forgiveness is made actually available and is personally experienced just in so far as he forgives his fellows. (<a id="a109_121"></a>[UB 170:3.4](/en/The_Urantia_Book/170#p3_4))
 
 ## External links
 

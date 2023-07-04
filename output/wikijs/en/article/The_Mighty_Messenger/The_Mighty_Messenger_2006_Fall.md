@@ -93,7 +93,7 @@ Our Fellowship of revelacion believers is on the move. With fifty continuous yea
 
 Saying goodbye to someone like John Hales, who has served as our Director for the last 32 years, could never be easy. It would be impossible for me to fill his shoes, but I promise to all those who love the Fellowship as I do, that I will give this post my utmost effort and will mobilize every personal attribute I possess to live up to the trust you have placed in my hands.
 
-> When man consecrates his will to the doing of the Father's will, when man gives God all that he has, then does God make that man more than he is. [[UB 117:4.14](/en/The_Urantia_Book/117#p4_14)]
+> When man consecrates his will to the doing of the Father's will, when man gives God all that he has, then does God make that man more than he is. <a id="a95_148"></a>[[UB 117:4.14](/en/The_Urantia_Book/117#p4_14)]
 
 ## Meet Your New General Councilors
 
@@ -189,7 +189,7 @@ We've experimented in the past several months with new ideas. We send post cards
 
 Your support of the Pipeline of Light keeps the revelation flowing to these proverbial corners of the earth. Please help us! Donations are accepted online at http://urantiabook.org./support.htm or by mail to: _The Urantia Book_ Fellowship, P.O. Box 4583, Grand Central Station, New York, N Y. 10163.
 
-> The social ship has steamed out of the sheltered of estahlished tradition and has begun its cruise upon the high seas of evolutionary destiny ... _The Urantia Book_, [UB 99:1.3](/en/The_Urantia_Book/99#p1_3)
+> The social ship has steamed out of the sheltered of estahlished tradition and has begun its cruise upon the high seas of evolutionary destiny ... _The Urantia Book_, <a id="a191_168"></a>[UB 99:1.3](/en/The_Urantia_Book/99#p1_3)
 
 **Will You Work One Hour Each Month For The Revelation?**
 
@@ -288,7 +288,7 @@ Some lasting memories were being 15,000 feet up in the mountains near Quito, the
 - **GC To Meet in Phoenix** - The General Council of the Fellowship vill hold their mid-year meeting February 9-11, 2007, at Inn Suites Tempe near the Phoenix airport. The meeting will begin Friday, February 9 at 7:00 PM and will continue through Saturday, ending Sunday, February 11 at noon. The Council meeting is open to observers, and readers in the Phoenix area are invited to attend. Cauncilors are looking forward to the opportuniry to socialize with members of the Grand Canyon Society and many friends in the Phoenix area.
 - **Urantia News- by Email?** Are you receiving the Fellowship Community Update? This e-newsletter is sent out by email approximately monthly and contains up-to-the-minute news about the work of the revelacion. If you would like to subscribe, you can do so at http://urantiabook.org/subscribe.htm. Your email address is all you need to enter because you are already receiving the Mighty Messenger.
 - **Urantia Artwork Sought** - The Publications Committee of the Fellowship is seeking artwork on a Urantia Book theme to use in future issues of The Fellowship Herald. If you have artwork you would like to submit for possible use, please contact The Fellowship at fellowship@urantiabook.org, or send a photo of your work to The Urantia Fellowship, P.O. Box 4583, Grand Central Station, New NY 10163.
-  _Art is mortal morontia, the intervening field between man, the material, and man, the spiritual._ [UB 195:7.15](/en/The_Urantia_Book/195#p7_15) Share your morontia vision with us.
+  _Art is mortal morontia, the intervening field between man, the material, and man, the spiritual._ <a id="a290_101"></a>[UB 195:7.15](/en/The_Urantia_Book/195#p7_15) Share your morontia vision with us.
 - **New International Study Groups Stockholm, Sweden** - Contact Michael MacIsaac, mmacisaac@gmail.com. Birmingham, England - Pato Banton Music Centre, 54-57 Key Hill, Hockley, B'ham, B18 5NX, UK
 
 

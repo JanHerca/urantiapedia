@@ -44,7 +44,7 @@ The virtue of this newly discovered fact is that “those far seeing and forward
 
 Through the medium of the internet and the web, it is now possible to take the content of the Urantia Papers directly to the heartland of the Christianity of the future—those academic colleges, universities, and theological institutions where the true meaning of Jesus’ revelation of the Father will be thrashed out, revised, and revealed anew, just as it is foretold in the Papers:
 
-> “Be not discouraged; human evolution is still in progress, and the revelation of God to the world, in and through Jesus, **shall not fail**.” ([UB 196:3.33](/en/The_Urantia_Book/196#p3_33))
+> “Be not discouraged; human evolution is still in progress, and the revelation of God to the world, in and through Jesus, **shall not fail**.” (<a id="a46_145"></a>[UB 196:3.33](/en/The_Urantia_Book/196#p3_33))
 
 What follows has been abstracted from review articles to try to convey to readers common points for contact between the Fifth Epochal Revelation and modern process theology, with the hope that some may be inspired into undertaking the necessary in-depth studies required to build bridges between The Urantia Book and the new theology of the Christian church that will be.
 

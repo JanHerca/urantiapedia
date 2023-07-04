@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-The evolving soul of mortal man is created out of pre-existent “possibilities” within the Supreme (see [UB 117:5.11](/en/The_Urantia_Book/117#p5_11)).
+The evolving soul of mortal man is created out of pre-existent “possibilities” within the Supreme (see <a id="a36_103"></a>[UB 117:5.11](/en/The_Urantia_Book/117#p5_11)).
 
 That statement poses more questions than it answers. How does this come about? How, from what, and from where do these “possibilities” arise? How did they get to be within the Supreme, who is “the Supreme,” and how do we get these “possibilities” in order to build our souls? But first—what are these things termed “possibilities”?
 
@@ -68,11 +68,11 @@ Does “ungodlike” experience become part of the Supreme? Certainly that which
 
 The seven adjutant mind spirits who are so important for our growth are called by names consonant with their purpose—intuition, understanding, courage, knowledge, counsel, worship and wisdom. Though the adjutants have an aura of being personal, they are not actual entities. We are told they are more like circuits but that would have been an analogy coined in the mid-thirties. Perhaps the concept of “field” as it has become important in quantum physics might now be a better description.
 
-In reality, the adjutants are levels of consciousness of the Universe Mother Spirit ([UB 36:5.4](/en/The_Urantia_Book/36#p5_4)) who is the direct source of our individual minds. We are informed that there are no comparable influences to the adjutant mind spirits once we depart this Earth.
+In reality, the adjutants are levels of consciousness of the Universe Mother Spirit (<a id="a70_85"></a>[UB 36:5.4](/en/The_Urantia_Book/36#p5_4)) who is the direct source of our individual minds. We are informed that there are no comparable influences to the adjutant mind spirits once we depart this Earth.
 
 But though we depart forever from their presence, our souls will possess a continuing character derived from the decisions we made during our association with adjutant mind.
 
-> Spiritual volition is self-identifying with the will of God. ([UB 118:6.6](/en/The_Urantia_Book/118#p6_6))
+> Spiritual volition is self-identifying with the will of God. (<a id="a74_64"></a>[UB 118:6.6](/en/The_Urantia_Book/118#p6_6))
 
 ## External links
 

@@ -79,7 +79,7 @@ GLAD is now accepting articles, stories, poetry and artwork for the next issue o
 
 by _Meredith J. Sprunger_
 
-The major responsibility in the Urantia movement, in my judgment, is disseminating the unique spiritual-cosmological paradigm of the fifth epochal revelation. The authors of _The Urantia Book_ project two venues in which this will take place: (1) by establishing new religious groups ([UB 87:7.10](/en/The_Urantia_Book/87#p7_10)), and (2) by leavening traditional religions ([UB 94:12.7](/en/The_Urantia_Book/94#p12_7) and [UB 195:9.2](/en/The_Urantia_Book/195#p9_2)).
+The major responsibility in the Urantia movement, in my judgment, is disseminating the unique spiritual-cosmological paradigm of the fifth epochal revelation. The authors of _The Urantia Book_ project two venues in which this will take place: (1) by establishing new religious groups (<a id="a81_285"></a>[UB 87:7.10](/en/The_Urantia_Book/87#p7_10)), and (2) by leavening traditional religions (<a id="a81_375"></a>[UB 94:12.7](/en/The_Urantia_Book/94#p12_7) and <a id="a81_423"></a>[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)).
 
 No major value system or religion in the history of our planet has acculturated society without being institutionalized. The authors of _The Urantia Book_ observe that the institutionalization of religion increases the potential for evil, but they go on to say that religion cannot survive in civilized society without being institutionalized. The teachings of the fifth epochal revelation must, sooner or later, be institutionalized to acculturate and transform our religious understanding and social institutions. Our basic challenge is to discover, reform, or create the social religious vehicles that can accomplish this task.
 
@@ -107,7 +107,7 @@ Although Kenton had devoted his earlier career to education, he eventually left 
 <img src="/image/article/The_Mighty_Messenger/1997_Fall/005961.jpg">
 </figure>
 
-Plenty of free socializing and fellowship time was built into this conference, a joint undertaking of the Houston, Austin, and Dallas/Fort Worth groups. The theme focused on the three essentials of the kingdom of heaven, as Jesus explained them to the apostle John on [UB 140:10.9](/en/The_Urantia_Book/140#p10_9). Each Texas location led workshops on one of these three essentials. A worship service was held Saturday night, followed by a meeting to discuss plans and improvements for future Round-Ups.
+Plenty of free socializing and fellowship time was built into this conference, a joint undertaking of the Houston, Austin, and Dallas/Fort Worth groups. The theme focused on the three essentials of the kingdom of heaven, as Jesus explained them to the apostle John on <a id="a109_268"></a>[UB 140:10.9](/en/The_Urantia_Book/140#p10_9). Each Texas location led workshops on one of these three essentials. A worship service was held Saturday night, followed by a meeting to discuss plans and improvements for future Round-Ups.
 
 The resolve to make this an annual event was unanimous. It was decided that planners should investigate other locations in the central Texas area that would include camping facilities and more affordable accommodation for families. The structure will remain similar with all three areas contributing in a team effort. Austin will spearhead plans for the '98 conference, with Houston leading the one in '99.
 

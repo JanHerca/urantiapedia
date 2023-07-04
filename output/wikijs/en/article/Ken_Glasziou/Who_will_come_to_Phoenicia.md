@@ -61,7 +61,7 @@ For the gods of authoritarian religions, the nature of those gods is the inventi
 
 But the nature of the God of the religion of the spirit can be known only through revelation.
 
-Revelation may come via many different pathways. One feature it always must have is that it is recognizable by faith, and by faith alone. Revelation is never authoritarian in its own right. How can it be? For “God has decreed the sovereignty of the material and mortal will and that decree is absolute.” ([UB 5:6.8](/en/The_Urantia_Book/5#p6_8))
+Revelation may come via many different pathways. One feature it always must have is that it is recognizable by faith, and by faith alone. Revelation is never authoritarian in its own right. How can it be? For “God has decreed the sovereignty of the material and mortal will and that decree is absolute.” (<a id="a63_305"></a>[UB 5:6.8](/en/The_Urantia_Book/5#p6_8))
 
 Thus the authority of true revelation, hence the religion of the spirit, derives from the free will choice of the individual—and its acceptance is purely through the faith of that individual.
 
@@ -71,7 +71,7 @@ One of the criteria of authoritarian religion is the fundamentalism that grants 
 
 Authoritarian religion apparently benefits two broad classes of adherent, one being those who wield power and authority, the other being those individuals for whom it is provides a ready refuge to which “the distracted and distraught soul of man may flee when harassed by fear and tormented by uncertainty.”
 
-> “Such a religion requires of its devotees, as the price to be paid for its satisfactions and assurances, only a passive and purely intellectual assent.” ([UB 155:5.9](/en/The_Urantia_Book/155#p5_9))
+> “Such a religion requires of its devotees, as the price to be paid for its satisfactions and assurances, only a passive and purely intellectual assent.” (<a id="a73_156"></a>[UB 155:5.9](/en/The_Urantia_Book/155#p5_9))
 
 Any form of fundamentalism that claims divine authority, and/or the infallibility of its belief system, cannot be anything other than authoritarian religion—no matter how well disguised.
 

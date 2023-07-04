@@ -50,7 +50,7 @@ But if your answer is no (because there would be no point), then there must be a
 
 Whatever your answer, never forget that you really are indwelt by your God-spirit who is always ready to help you to sort yourself out.
 
-> Do not forget that you are commissioned to go forth reaching only the good news. You are not to attack the old ways; you are skillfully to put the leaven of new truth in the midst of the old beliefs. Let the Spirit of Truth do his own work. ([UB 178:1.16](/en/The_Urantia_Book/178#p1_16))
+> Do not forget that you are commissioned to go forth reaching only the good news. You are not to attack the old ways; you are skillfully to put the leaven of new truth in the midst of the old beliefs. Let the Spirit of Truth do his own work. (<a id="a52_244"></a>[UB 178:1.16](/en/The_Urantia_Book/178#p1_16))
 
 ## External links
 

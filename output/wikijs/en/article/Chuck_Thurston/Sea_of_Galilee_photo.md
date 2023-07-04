@@ -40,7 +40,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
-> “And it was from these Old memories of Nazareth, Capernaum, Mount Hermon, and of the sunrise and sunset on the shimmering Sea of Galilee, that he soothed himself as he made his human heart strong and ready to encounter the traitor who should so soon betray him.” [UB 182:3.10](/en/The_Urantia_Book/182#p3_10)
+> “And it was from these Old memories of Nazareth, Capernaum, Mount Hermon, and of the sunrise and sunset on the shimmering Sea of Galilee, that he soothed himself as he made his human heart strong and ready to encounter the traitor who should so soon betray him.” <a id="a42_265"></a>[UB 182:3.10](/en/The_Urantia_Book/182#p3_10)
 
 <figure class="table chapter-navigator">
   <table>

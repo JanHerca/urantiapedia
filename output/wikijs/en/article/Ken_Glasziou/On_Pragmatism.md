@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> _While eating supper, Jesus had the talk with Matthew in which he explained that ***the morality of any act is determined by the individual’s motive***. Jesus’ morality was always positive. The golden rule as restated by Jesus demands active social contact; the older negative rule could be obeyed in isolation. Jesus stripped morality of all rules and ceremonies and elevated it to majestic levels of spiritual thinking and truly righteous living._ ([UB 140:10.5](/en/The_Urantia_Book/140#p10_5))
+> _While eating supper, Jesus had the talk with Matthew in which he explained that ***the morality of any act is determined by the individual’s motive***. Jesus’ morality was always positive. The golden rule as restated by Jesus demands active social contact; the older negative rule could be obeyed in isolation. Jesus stripped morality of all rules and ceremonies and elevated it to majestic levels of spiritual thinking and truly righteous living._ (<a id="a36_453"></a>[UB 140:10.5](/en/The_Urantia_Book/140#p10_5))
 
 By taking the pragmatic pathway, some Urantians appear to have stripped this statement by Jesus to the minimal level of, “_The morality of any act is determined by the motive._” This resultant is then taken as divine authority for an “**end justifies the means**” attitude which sanctions utilizing immoral or unlawful means for the attainment of what are claimed to be moral ends.
 
@@ -52,11 +52,11 @@ Quotes that come to mind are, “Our relationship to Jesus takes precedence to a
 
 If our relationship to Jesus must take precedence over all else, and if “no abiding” means “no fruits” and “no fruits” means “no soul growth,” then do we not run the risk, perhaps certainty, of soul death?
 
-Or is there an “out” in the statement about the faintest flicker of faith always giving us another chance? Probably not, for if we read on we come to, “_But you who have been called out of darkness into the light are expected to believe with a whole heart; your faith shall dominate the combined attitudes of body, mind, and spirit._” ([UB 155:6.17](/en/The_Urantia_Book/155#p6_17))
+Or is there an “out” in the statement about the faintest flicker of faith always giving us another chance? Probably not, for if we read on we come to, “_But you who have been called out of darkness into the light are expected to believe with a whole heart; your faith shall dominate the combined attitudes of body, mind, and spirit._” (<a id="a54_336"></a>[UB 155:6.17](/en/The_Urantia_Book/155#p6_17))
 
 Obviously Jesus did not live in any kind of “real” world in which, for him, the end would justify the use of immoral means. Always it was the will of the Father that had first priority—with the result that Jesus always appears to have been forced to take the hard way. No miracles, no walking on the water, no reprieve from the cross.
 
-The way of Jesus was the way of the cross. Amazingly he went to his death with supreme joy in his heart, even though experiencing outward sorrow. ([UB 180:1.2](/en/The_Urantia_Book/180#p1_2))
+The way of Jesus was the way of the cross. Amazingly he went to his death with supreme joy in his heart, even though experiencing outward sorrow. (<a id="a58_147"></a>[UB 180:1.2](/en/The_Urantia_Book/180#p1_2))
 
 Jesus’ human heart had longed to find some legitimate avenue of escape from the terrible plight of suffering and sorrow confronting him. There were a million and one ways by which Jesus could have escaped the cross, but none fell within the requirement of the Father that the termination of his bestowal on this planet should be “in the natural course of events.”
 

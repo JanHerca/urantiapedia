@@ -40,17 +40,17 @@ The authors themselves make no such claim. And nowhere do they use the term “t
 
 The revelators have applied themselves with some diligence to the task of avoiding the problems that Christianity has faced through the imposition of a divine dictation theory to biblical writings. For example, they state, “The creature may crave infallibility but only the Creators possess it.”
 
-None of the authors of the Urantia Papers have a claim to “Creator” status. Therefore none can be infallible, something they themselves freely acknowledge. In fact they leave no room for doubt as to what they believe about their own work. “Let it be made clear that revelations are not necessarily inspired.” ([UB 101:4.2](/en/The_Urantia_Book/101#p4_2))
+None of the authors of the Urantia Papers have a claim to “Creator” status. Therefore none can be infallible, something they themselves freely acknowledge. In fact they leave no room for doubt as to what they believe about their own work. “Let it be made clear that revelations are not necessarily inspired.” (<a id="a42_310"></a>[UB 101:4.2](/en/The_Urantia_Book/101#p4_2))
 
 While it is obviously true that many parts of this book are not of “inspired” status, there are also many sections that have the ring of divine truth. But the proof of divine truth is entirely a personal experience.
 
-> “Reason is the proof of science, faith the proof of religion, logic the proof of philosophy, **but revelation is validated only by human experience**.” ([UB 101:2.8](/en/The_Urantia_Book/101#p2_8))
+> “Reason is the proof of science, faith the proof of religion, logic the proof of philosophy, **but revelation is validated only by human experience**.” (<a id="a46_155"></a>[UB 101:2.8](/en/The_Urantia_Book/101#p2_8))
 
 Another important statement from the Papers is:
 
-> “The existence of God is utterly beyond all possibility of demonstration except for the contact between God-consciousness of the human mind and the God-presence. . . that indwells the mortal intellect and is bestowed upon man as the free gift of the Universal Father.” ([UB 1:2.8](/en/The_Urantia_Book/1#p2_8))
+> “The existence of God is utterly beyond all possibility of demonstration except for the contact between God-consciousness of the human mind and the God-presence. . . that indwells the mortal intellect and is bestowed upon man as the free gift of the Universal Father.” (<a id="a50_272"></a>[UB 1:2.8](/en/The_Urantia_Book/1#p2_8))
 
-A stated purpose for the Urantia Papers is to “synthesize the apparently divergent sciences of nature and the theology of religion into a consistent and logical universe philosophy.” ([UB 101:2.1](/en/The_Urantia_Book/101#p2_1)) This would be an impossible task if the authors were constrained by having to provide infallible truth and, at the same time, comply with a mandate that proscribed the impartation of unearned knowledge. And they even state their cosmology is “not inspired.” ([UB 101:4.2](/en/The_Urantia_Book/101#p4_2))
+A stated purpose for the Urantia Papers is to “synthesize the apparently divergent sciences of nature and the theology of religion into a consistent and logical universe philosophy.” (<a id="a52_184"></a>[UB 101:2.1](/en/The_Urantia_Book/101#p2_1)) This would be an impossible task if the authors were constrained by having to provide infallible truth and, at the same time, comply with a mandate that proscribed the impartation of unearned knowledge. And they even state their cosmology is “not inspired.” (<a id="a52_488"></a>[UB 101:4.2](/en/The_Urantia_Book/101#p4_2))
 
 When the Urantia Papers were received in the mid- 1930’s, traditional cosmology dealt with features of creation as a whole. It could include speculative philosophy in its widest sense.[^1] In its current usage, the meaning of the term has narrowed to astrophysics and astronomy. But it is used in the Urantia Papers in its traditional sense, and covers every aspect of creation.
 

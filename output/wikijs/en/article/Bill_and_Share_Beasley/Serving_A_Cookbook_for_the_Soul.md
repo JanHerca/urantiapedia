@@ -58,7 +58,7 @@ On to a South Carolina state park for four days to organize our “stuff” and 
 
 Suddenly we were in a wondrous midst of thousands of mayflies, what a delightful experience! We were completely enveloped by these gentle insects that live, mate and die, their purpose fulfilled, within a mere seventy-two hours.
 
-__Ingredient #2: Eternity beckons, “Life is but a day’s work—do it well”__ [[UB 48:7.13](/en/The_Urantia_Book/48#p7_13)]
+__Ingredient #2: Eternity beckons, “Life is but a day’s work—do it well”__ <a id="a60_75"></a>[[UB 48:7.13](/en/The_Urantia_Book/48#p7_13)]
 
 Next, a visit to my sister’s in Richmond, Virginia during a 100°+ heat wave and broken air conditioning. Hot and crotchety, tempers flair and soon loving sisters are hissing at each other! Enough of this, we are out of here!
 
@@ -84,7 +84,7 @@ We traveled through the rolling green foothills of western Pennsylvania and on t
 
 __Ingredient # 7: There are people in all walks of life just waiting for an opportunity to respond to that inner urge to make the world a better place.__
 
-Turning south we found ourselves in Indianapolis at Mike’s study group with Linda and Bob, who have driven a long way to attend. As a matter of fact, they are always willing to go the extra mile on any worthwhile Urantia endeavor. What a privilege to intimately share what comes out of the pages of _The Urantia Book_ with long time, devoted readers! We also discovered other readers in the area who are unaware of each other. The time is ripe for connecting. “Spiritual growth is mutually stimulated by intimate association with other religionists.” [[UB 100:0.2](/en/The_Urantia_Book/100#p0_2)]
+Turning south we found ourselves in Indianapolis at Mike’s study group with Linda and Bob, who have driven a long way to attend. As a matter of fact, they are always willing to go the extra mile on any worthwhile Urantia endeavor. What a privilege to intimately share what comes out of the pages of _The Urantia Book_ with long time, devoted readers! We also discovered other readers in the area who are unaware of each other. The time is ripe for connecting. “Spiritual growth is mutually stimulated by intimate association with other religionists.” <a id="a86_551"></a>[[UB 100:0.2](/en/The_Urantia_Book/100#p0_2)]
 
 __Ingredient #8: Set your priorities, “knock and the door will open”.__
 

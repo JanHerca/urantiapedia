@@ -64,7 +64,7 @@ Having recognized that all human beings, and especially ourselves, are afflicted
 
 Help is also available from the account we have of Jesus’ early life in which he tackled these same problems and overcame them by learning never to react to the will of another, but only to the will of God and his own will.[^3] We can emulate Jesus by doing the same thing—refusing to react emotionally to the behavior of others by first pausing to think, then referring our problem to the God-Within, and only after that responding as we believe Jesus would have responded.[^3]
 
-If we can convert this process to becoming habitual, we are on our way to becoming the victors. However we will have difficulty in responding as we believe Jesus would have responded except that we have a thorough knowledge of the life of Jesus—which is why the revelators have said that of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it. ([UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
+If we can convert this process to becoming habitual, we are on our way to becoming the victors. However we will have difficulty in responding as we believe Jesus would have responded except that we have a thorough knowledge of the life of Jesus—which is why the revelators have said that of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it. (<a id="a66_405"></a>[UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
 
 Strangely enough it is the quiet and unobtrusive defeat of our animalistic behavior patterns being carried out in our home environment that turns out to have by far the most potential to influence the long term spiritual advancement of our planet.
 
@@ -74,7 +74,7 @@ This inconspicuous change in our lives, these acts of not reacting to the will o
 
 All who have been brought up in a church-going Christian family will be well aware that although Christianity is among the most ethical religions ever to exist on Earth, nevertheless the vast majority of its members are just as much plagued with humanity’s animal behavioral problems as any other community. The cure then is not going to be in church-going nor in inspiring sermons, nor in good works. Primarily it is in what parents actually “are” in their own home lives that will matter. The revelation informs us:
 
-> “The family is the fundamental unit of fraternity in which parents and children learn the lessons of patience, altruism, tolerance, and forbearance which are so essential to the realization of brotherhood among all men.” ([UB 84:7.28](/en/The_Urantia_Book/84#p7_28))
+> “The family is the fundamental unit of fraternity in which parents and children learn the lessons of patience, altruism, tolerance, and forbearance which are so essential to the realization of brotherhood among all men.” (<a id="a76_224"></a>[UB 84:7.28](/en/The_Urantia_Book/84#p7_28))
 
 > To see a World in a grain of sand, 
 > And a Heaven in a wild flower, 
@@ -124,8 +124,8 @@ Three hundred and fifty years ago the Quakers almost got it right. They lost the
 
 [^1]: New Scientist, August 10, 2002, p. 23
 
-[^2]: “Exhibit in your one short life in the flesh. . . the transcendent possibilities attainable by a God-knowing human. . . ” ([UB 120:2.8](/en/The_Urantia_Book/120#p2_8). Immanuel to Michael prior to his incarnation)
+[^2]: “Exhibit in your one short life in the flesh. . . the transcendent possibilities attainable by a God-knowing human. . . ” (<a id="a126_129"></a>[UB 120:2.8](/en/The_Urantia_Book/120#p2_8). Immanuel to Michael prior to his incarnation)
 
 [^3]: Ann Bendall, “The Mind of Jesus.” Innerface International Vol. 9., No. 5, 2002.
 
-[^4]: “_Let me emphatically state this eternal truth; if you, by truth coordination, learn to exemplify in your lives this beautiful wholeness of righteousness, your fellow men will then seek after you that they may gain what you have so acquired._” ([UB 155:1.5](/en/The_Urantia_Book/155#p1_5))
+[^4]: “_Let me emphatically state this eternal truth; if you, by truth coordination, learn to exemplify in your lives this beautiful wholeness of righteousness, your fellow men will then seek after you that they may gain what you have so acquired._” (<a id="a130_251"></a>[UB 155:1.5](/en/The_Urantia_Book/155#p1_5))

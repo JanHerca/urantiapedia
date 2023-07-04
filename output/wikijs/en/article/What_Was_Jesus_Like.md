@@ -34,11 +34,11 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> “Your mission to the world is founded on the fact that I lived a God-revealing life among you; on the truth that you and all other men are the sons of God; and it shall consist in the life which you will live among men—the actual and living experience of loving men and serving them, even as I have loved and served you.” ([UB 191:5.3](/en/The_Urantia_Book/191#p5_3))
+> “Your mission to the world is founded on the fact that I lived a God-revealing life among you; on the truth that you and all other men are the sons of God; and it shall consist in the life which you will live among men—the actual and living experience of loving men and serving them, even as I have loved and served you.” (<a id="a36_325"></a>[UB 191:5.3](/en/The_Urantia_Book/191#p5_3))
 
 Jesus set us the pattern. We are told: To ‘follow Jesus’ means to personally share his religious faith and to enter into the spirit of the Master’s life of unselfish service for man. One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose.
 
-> “Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it.” ([UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
+> “Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it.” (<a id="a40_121"></a>[UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
 
 Then, having acquired that knowledge, simply passing it on is not enough: “**You may preach a religion about Jesus but, perforce, you must live the religion of Jesus.**” The collection of statements that follow may help us with the first step. Living it is up to the reader—but why else would you have the book?
 
@@ -99,7 +99,7 @@ Jesus three favorite parables were the prodigal son, the widow’s lost coin, an
 
 Gradually, most of us will learn that the most important of all knowledge contained in the Urantia Papers really is the religious life of Jesus and how he lived it.
 
-> Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. . . — new teachers who will be exclusively devoted to the spiritual regeneration of mankind. ([UB 195:9.4](/en/The_Urantia_Book/195#p9_4))
+> Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. . . — new teachers who will be exclusively devoted to the spiritual regeneration of mankind. (<a id="a101_224"></a>[UB 195:9.4](/en/The_Urantia_Book/195#p9_4))
 
 ## External links
 

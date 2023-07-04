@@ -41,7 +41,7 @@ dateCreated: 2022-9-9T8:13:39Z
 > 
 > Prayer is indeed a part of religious experience, but it has been wrongly emphasized by modern religions, much to the neglect of the more essential communion of worship. The reflective powers of the mind are deepened and broadened by worship. Prayer may enrich the life, but worship illuminates destiny.
 > 
-> Revealed religion is the unifying element of human existence. Revelation unifies history, co-ordinates geology, astronomy, physics, chemistry, biology, sociology, and psychology. Spiritual experience is the real soul of man's cosmos. ([UB 102:4.1-6](/en/The_Urantia_Book/102#p4_1))
+> Revealed religion is the unifying element of human existence. Revelation unifies history, co-ordinates geology, astronomy, physics, chemistry, biology, sociology, and psychology. Spiritual experience is the real soul of man's cosmos. (<a id="a43_237"></a>[UB 102:4.1-6](/en/The_Urantia_Book/102#p4_1))
 
 > Revelation is  validated only by human experience.
 

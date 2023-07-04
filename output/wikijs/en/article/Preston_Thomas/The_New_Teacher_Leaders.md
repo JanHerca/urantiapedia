@@ -40,7 +40,7 @@ Note: Appendix notes refer to Preston Thomas’ Book _The Life and Teachings of 
 
 There are many hopeful and inspiring statements about our future in _The Urantia Book_, but few can match the promise and opportunity that is foretold in the following lines: 
 
-> Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. . . . the spiritual renaissance must await the coming of these new teachers of Jesus’ religion who will be exclusively devoted to the spiritual regeneration of men._ [[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)]
+> Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. . . . the spiritual renaissance must await the coming of these new teachers of Jesus’ religion who will be exclusively devoted to the spiritual regeneration of men._ <a id="a42_296"></a>[[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)]
 
 Let us reflect upon the amazing implications of these statements. The revelators are telling us that our world is in need of new teachers of Jesus’ religion. And they are prophesying the coming of these new teachers, predicting that these new religious leaders will help bring a spiritual renaissance to our “dark and confused world.” 
 
@@ -52,7 +52,7 @@ In many places the revelators point out that today’s world is beset by serious
 
 Yes, we do face serious problems, but great things lie ahead, and we are called to participate! We are called to join in a great adventure! Here is how the revelators describe what is to happen on our world and the thrilling possibilities that lie in our future: 
 
-> The **call** to the adventure of building a new and transformed human society by means of **the spiritual rebirth of Jesus’ brotherhood of the kingdom** should **thrill** all who believe in him as men have not been stirred since the days when they walked about on earth as his companions in the flesh. [[UB 195:10.6](/en/The_Urantia_Book/195#p10_6)]; (my bold) 
+> The **call** to the adventure of building a new and transformed human society by means of **the spiritual rebirth of Jesus’ brotherhood of the kingdom** should **thrill** all who believe in him as men have not been stirred since the days when they walked about on earth as his companions in the flesh. <a id="a54_304"></a>[[UB 195:10.6](/en/The_Urantia_Book/195#p10_6)]; (my bold) 
 
 The time for a new revelation of Jesus has come! The leaders of this new revelation will bring about the spiritual rebirth of Jesus’ brotherhood of the kingdom. They will spark a great new spiritual renaissance. For those who feel inclined to help bring about this new revelation, three fundamental requirements are set forth.  
 
@@ -65,13 +65,13 @@ The new teacher-leaders must:
 
 If we seek membership in this now forming corps of new teacher-leaders it is good to reflect upon each of these requirements. We will find that, just as the task is great, so also are the requirements. What follows may be thought of as a guide and basic training manual for those who aspire to become new teacher-leaders. As we ponder what role we might play in this great adventure let us be mindful what Jesus requires of his followers: 
 
-> In accordance with the truth committed to your hands will the Master of truth demand a reckoning. [[UB 176:3.7](/en/The_Urantia_Book/176#p3_7)]
+> In accordance with the truth committed to your hands will the Master of truth demand a reckoning. <a id="a67_100"></a>[[UB 176:3.7](/en/The_Urantia_Book/176#p3_7)]
 
 ## The Spirituality Requirement 
 
 The first and most basic requirement for the new teacher-leaders is that they be “spiritual men and women.” What does it mean to be “spiritual”? 
 
-Spirituality is a reflection of our closeness to God; it is the measure of our attunement to his indwelling spirit. It is directly proportional to the elimination of the selfish qualities of love. And crucially, it is also a measure of the effectiveness of our spiritual ministry. Here is how the revelators put it: _Spirituality becomes at once the indicator of one’s nearness to God and the_ **_measure of one’s usefulness to fellow beings_**. [[UB 100:2.4](/en/The_Urantia_Book/100#p2_4)] (my bold) 
+Spirituality is a reflection of our closeness to God; it is the measure of our attunement to his indwelling spirit. It is directly proportional to the elimination of the selfish qualities of love. And crucially, it is also a measure of the effectiveness of our spiritual ministry. Here is how the revelators put it: _Spirituality becomes at once the indicator of one’s nearness to God and the_ **_measure of one’s usefulness to fellow beings_**. <a id="a73_446"></a>[[UB 100:2.4](/en/The_Urantia_Book/100#p2_4)] (my bold) 
 
 ### The Birth Of The Spirit 
 
@@ -79,53 +79,53 @@ The essential first step to becoming a spiritual person is to be “born of the 
 
 The “birth of the spirit” is the change of mind that occurs when we wholeheartedly choose to do the Father’s will. When we make this choice his indwelling spirit is born into the light of our faith. Jesus explained it to Nicodemus this way: 
 
-> Already does this spirit of the Father in heaven indwell you. If you would be led by this spirit from above, very soon would you begin to see with the eyes of the spirit, and then by the wholehearted choice of spirit guidance would you be born of the spirit since your only purpose in living would be to do the will of your Father who is in heaven. [[UB 142:6.7](/en/The_Urantia_Book/142#p6_7)]
+> Already does this spirit of the Father in heaven indwell you. If you would be led by this spirit from above, very soon would you begin to see with the eyes of the spirit, and then by the wholehearted choice of spirit guidance would you be born of the spirit since your only purpose in living would be to do the will of your Father who is in heaven. <a id="a81_351"></a>[[UB 142:6.7](/en/The_Urantia_Book/142#p6_7)]
 
 It is important to realize that the birth of the spirit is a gradual process and is mostly unconscious. When the process is complete it culminates in a “birthday.” Here is how the revelators describe it: 
 
-> Religion is functional in the human mind and has been realized in experience prior to its appearance in human consciousness. A child has been in existence about nine months before it experiences birth. But the “birth” of religion is not sudden; it is rather a gradual emergence. Nevertheless, sooner or later there is a “birth day”. [[UB 103:2.1](/en/The_Urantia_Book/103#p2_1)]
+> Religion is functional in the human mind and has been realized in experience prior to its appearance in human consciousness. A child has been in existence about nine months before it experiences birth. But the “birth” of religion is not sudden; it is rather a gradual emergence. Nevertheless, sooner or later there is a “birth day”. <a id="a85_335"></a>[[UB 103:2.1](/en/The_Urantia_Book/103#p2_1)]
 
 ### Showing Forth the Fruits of the Spirit 
 
 Since the birth of the spirit is a gradual process that is mostly unconscious, how may we know if we have been born of the spirit? Put simply, if we are born of the spirit we will begin to show forth the fruits of the spirit in our daily lives. Here is what Jesus said: 
 
-> ...those who are born of the spirit will immediately begin to show forth the fruits of the spirit in loving service to their fellow creatures. [[UB 193:2.2](/en/The_Urantia_Book/193#p2_2)] 
+> ...those who are born of the spirit will immediately begin to show forth the fruits of the spirit in loving service to their fellow creatures. <a id="a91_145"></a>[[UB 193:2.2](/en/The_Urantia_Book/193#p2_2)] 
 
-> But be not deceived; while salvation is the free gift of God and is bestowed upon all who accept it by faith, there follows the experience of bearing the fruits of this spirit life as it is lived in the flesh. [[UB 193:1.2](/en/The_Urantia_Book/193#p1_2)] If professed believers bear not these fruits of the divine spirit in their lives, they are dead. [[UB 193:2.2](/en/The_Urantia_Book/193#p2_2)]
+> But be not deceived; while salvation is the free gift of God and is bestowed upon all who accept it by faith, there follows the experience of bearing the fruits of this spirit life as it is lived in the flesh. <a id="a93_212"></a>[[UB 193:1.2](/en/The_Urantia_Book/193#p1_2)] If professed believers bear not these fruits of the divine spirit in their lives, they are dead. <a id="a93_355"></a>[[UB 193:2.2](/en/The_Urantia_Book/193#p2_2)]
 
 We must also realize that the Father requires of his faithful followers not only that they bear the fruits of the spirit, but that they grow and progress in spiritual fruit bearing. As we continue in the Father’s will we must increasingly show forth spiritual fruit in our personal lives. Here is how Jesus put it: 
 
-> Increasingly must you yield the fruit of the spirit as you progress heavenward in the kingdom of God. [[UB 193:2.2](/en/The_Urantia_Book/193#p2_2)]
+> Increasingly must you yield the fruit of the spirit as you progress heavenward in the kingdom of God. <a id="a97_104"></a>[[UB 193:2.2](/en/The_Urantia_Book/193#p2_2)]
 
-> My Father requires of the children of faith that they bear much spiritual fruit. [[UB 193:2.2](/en/The_Urantia_Book/193#p2_2)] 
+> My Father requires of the children of faith that they bear much spiritual fruit. <a id="a99_83"></a>[[UB 193:2.2](/en/The_Urantia_Book/193#p2_2)] 
 
 ### What Are the Fruits of the Spirit? 
 
 What are the fruits of the spirit? Basically they are the character traits that result from our connection with God’s indwelling spirit. They are the characteristics of the Spirit that flows through us and we exhibit in our life reactions. The domination of a human life by the Father’s spirit is always accompanied by a growth in these perfections of character. Following is a listing of some of the fruits of the spirit. The first list we are familiar with from the Bible: 
 
-> ...the fruits of the spirit are love, joy, peace, long- suffering, gentleness, goodness, faith, meekness, and temperance. [[UB 34:6.13](/en/The_Urantia_Book/34#p6_13)]
+> ...the fruits of the spirit are love, joy, peace, long- suffering, gentleness, goodness, faith, meekness, and temperance. <a id="a105_124"></a>[[UB 34:6.13](/en/The_Urantia_Book/34#p6_13)]
 
 Jesus presented a second list at one of his last appearances: 
 
-> And the fruits of the divine spirit which are yielded in the lives of spirit-born and God-knowing mortals are: loving service, unselfish devotion, courageous loyalty, sincere fairness, enlightened honesty, undying hope, confiding trust, merciful ministry, unfailing goodness, forgiving tolerance, and enduring peace. [[UB 193:2.2](/en/The_Urantia_Book/193#p2_2)]
+> And the fruits of the divine spirit which are yielded in the lives of spirit-born and God-knowing mortals are: loving service, unselfish devotion, courageous loyalty, sincere fairness, enlightened honesty, undying hope, confiding trust, merciful ministry, unfailing goodness, forgiving tolerance, and enduring peace. <a id="a109_319"></a>[[UB 193:2.2](/en/The_Urantia_Book/193#p2_2)]
 
 In fact, the fruits of the spirit are basically the character traits that Jesus demonstrated in his perfected life on earth. 
 
-> When man yields the “fruits of the spirit” in his life, he is simply showing forth the traits which the Master manifested in his own earthly life. [[UB 194:3.1](/en/The_Urantia_Book/194#p3_1)]
+> When man yields the “fruits of the spirit” in his life, he is simply showing forth the traits which the Master manifested in his own earthly life. <a id="a113_149"></a>[[UB 194:3.1](/en/The_Urantia_Book/194#p3_1)]
 
 So our first job is to be born of the spirit, but this spirit birth must be immediately followed by spiritual fruit bearing. We must increasingly and spontaneously bear this spiritual fruit throughout our lives. This is our ever-present goal and the measure of our spiritual progress. As we go through life we may inquire of ourselves, “Am I increasingly showing forth the fruits of the spirit in my daily life?” If we are, we may be confident that we are advancing in the required spiritual training to become an effective teacher-leader. And in this long spiritual journey it is good to remind ourselves that: 
 
-> The quickest way for a tadpole to become a frog is to live loyally each day a tadpole. [[UB 100:1.4](/en/The_Urantia_Book/100#p1_4)]
+> The quickest way for a tadpole to become a frog is to live loyally each day a tadpole. <a id="a117_89"></a>[[UB 100:1.4](/en/The_Urantia_Book/100#p1_4)]
 
 ### Growing Up to Spiritual Adulthood 
 
 We cannot stand still in the kingdom. We must go forward, and the culminating result of such growth and advancement is spiritual adulthood and maturity. As new teacher-leaders we must understand that to effectively reveal Jesus we will have to reach spiritual adulthood. We are called to be living examples of the mature spirituality that may be attained by a true follower of Jesus. Here is what he taught about growing up to spiritual adulthood and maturity: 
 
-> You may enter the kingdom as a child, but **the Father requires that you grow up, by grace, to the full stature of spiritual adulthood**. [[UB 193:2.2](/en/The_Urantia_Book/193#p2_2)] (my bold) 
+> You may enter the kingdom as a child, but **the Father requires that you grow up, by grace, to the full stature of spiritual adulthood**. <a id="a123_140"></a>[[UB 193:2.2](/en/The_Urantia_Book/193#p2_2)] (my bold) 
 
-> Childlike trust secures man’s entrance into the kingdom of heavenly ascent, but progress is wholly dependent on the vigorous exercise of the **robust and confident faith of the full-grown man**. [[UB 102:1.1](/en/The_Urantia_Book/102#p1_1)] (my bold) 
+> Childlike trust secures man’s entrance into the kingdom of heavenly ascent, but progress is wholly dependent on the vigorous exercise of the **robust and confident faith of the full-grown man**. <a id="a125_197"></a>[[UB 102:1.1](/en/The_Urantia_Book/102#p1_1)] (my bold) 
 
-> Though Jesus taught that faith, simple childlike belief, is the key to the door of the kingdom, he also taught that, having entered the door, there are progressive steps of righteousness which every believing child must ascend in order to_ **grow up to the full stature of the robust sons of God**. [[UB 170:3.2](/en/The_Urantia_Book/170#p3_2)] (my bold) 
+> Though Jesus taught that faith, simple childlike belief, is the key to the door of the kingdom, he also taught that, having entered the door, there are progressive steps of righteousness which every believing child must ascend in order to_ **grow up to the full stature of the robust sons of God**. <a id="a127_301"></a>[[UB 170:3.2](/en/The_Urantia_Book/170#p3_2)] (my bold) 
 
 (See Appendix 1.3 Four Step Progression to Spiritual Adulthood) 
 
@@ -133,7 +133,7 @@ We cannot stand still in the kingdom. We must go forward, and the culminating re
 
 Spiritual adulthood and maturity qualifies us to progress to an even higher state of spirituality. This is the level wherein Jesus, through his indwelling spirit of Truth, is enabled to live again in us. The most successful teacher- leaders will reach this exalted state. This will make them truly effective representatives and ministers of Jesus. It is this level of spirituality that the revelators call for: 
 
-> **The world needs to see Jesus living again on earth in the experience of spirit-born mortals** who effectively reveal the Master to all men. [[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)]; (my bold) 
+> **The world needs to see Jesus living again on earth in the experience of spirit-born mortals** who effectively reveal the Master to all men. <a id="a135_144"></a>[[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)]; (my bold) 
 
 The new teacher-leaders are called to attain that level of spirituality such that their lives naturally reflect Jesus and his inner spirit. Just as Jesus provided a living demonstration of his religion to his day and age, so are we called to be the living demonstrations of Jesus and his teachings to our modern world. We must be spirit-filled such that when others see us they may see Jesus! 
 
@@ -170,9 +170,9 @@ We must realize that our greatest power to spark spiritual regeneration will com
 
 We should also note that we are called to be exclusively devoted to spiritual regeneration. Why exclusively? Here is the context in which we find the exclusivity requirement: 
 
-> If Christianity persists in neglecting its spiritual mission while it continues to busy itself with social and material problems, the spiritual renaissance must await the coming of these new teachers of Jesus’ religion who will be exclusively devoted to the spiritual regeneration of men. [[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)]
+> If Christianity persists in neglecting its spiritual mission while it continues to busy itself with social and material problems, the spiritual renaissance must await the coming of these new teachers of Jesus’ religion who will be exclusively devoted to the spiritual regeneration of men. <a id="a172_291"></a>[[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)]
 
-Thus we see that the reason for exclusively devoting ourselves to spiritual regeneration derives from the fact that Christianity has increasingly neglected its spiritual mission and substituted a focus on social and material problems. Professed followers of Jesus have become diverted from his commission to _“effect the spiritual transformation of successive generations of mankind .”_ [[UB 195:9.10](/en/The_Urantia_Book/195#p9_10)]
+Thus we see that the reason for exclusively devoting ourselves to spiritual regeneration derives from the fact that Christianity has increasingly neglected its spiritual mission and substituted a focus on social and material problems. Professed followers of Jesus have become diverted from his commission to _“effect the spiritual transformation of successive generations of mankind .”_ <a id="a174_387"></a>[[UB 195:9.10](/en/The_Urantia_Book/195#p9_10)]
 
 We are to avoid the mistake of Christianity. We must not be distracted and diverted from our work; we are called to an exclusively spiritual mission. As new teacher-leaders we must focus our efforts on this one clear goal—the spiritual regeneration of our fellow man. 
 
@@ -184,7 +184,7 @@ We may take our first step by simply choosing to work for this goal. We can make
 
 We add power to our efforts by praying that we may be a force for spiritual regeneration in others. We may pray that Jesus live again in us and that he work through us to spiritually inspire and uplift those we contact. Here is the ideal the revelators call us to live up to: 
 
-> Jesus’ disciples should be more than conquerors, even overflowing sources of inspiration and enhanced living to all men. [[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)]
+> Jesus’ disciples should be more than conquerors, even overflowing sources of inspiration and enhanced living to all men. <a id="a186_123"></a>[[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)]
 
 ## The Requirement to Depend Solely on Jesus 
 
@@ -212,15 +212,15 @@ A clue to the second reason for depending solely on Jesus and his incomparable t
 
 His teachings are best understood by observing the perfected life he lived on earth. The perfection of personality and character he developed in living a trying and testing earth life provides an ideal example for us to emulate in our own lives. Jesus life is so valuable because it is not just a theoretical construct of an ideal moral philosophy, but rather a living demonstration of the spiritual character he taught. This combination of teaching the ideal character and then providing a real life example of that character is our most valuable knowledge. 
 
-> Of all human knowledge that which is of greatest value is to know the religious life of Jesus and how he lived it. [[UB 196:1.3](/en/The_Urantia_Book/196#p1_3)]
+> Of all human knowledge that which is of greatest value is to know the religious life of Jesus and how he lived it. <a id="a214_117"></a>[[UB 196:1.3](/en/The_Urantia_Book/196#p1_3)]
 
 (See Appendix 1.8 The Living Jesus)  
 
 ### Only Jesus and his Teachings Possess the Power to Triumph over the Modern Threats to Civilization and Bring the Spiritual Renaissance 
 
-The third reason for the exclusivity requirement is the fact that only Jesus and his incomparable teachings possess the power to bring about the spiritual renaissance. _The Urantia Book_ tells us that Christianity _“has truly been one of the greatest powers for good on the earth”_ [[UB 195:10.12](/en/The_Urantia_Book/195#p10_12)]. It has done its job carrying the kingdom of Jesus’ concept forward for 2000 years, up to and through our present material and secular age. But now more is needed. Only Jesus and his personal religion possess the power to see us through the three great problems that our world now faces: spiritual non-progression, materialistic secularism, and unceasing social change. Only Jesus and his teachings possess the power to stabilize us in this time of crisis and triumph over these modern threats to civilization. Only through Jesus and his teachings will we attain the new spiritual renaissance. Here is how the revelators put it: 
+The third reason for the exclusivity requirement is the fact that only Jesus and his incomparable teachings possess the power to bring about the spiritual renaissance. _The Urantia Book_ tells us that Christianity _“has truly been one of the greatest powers for good on the earth”_ <a id="a220_282"></a>[[UB 195:10.12](/en/The_Urantia_Book/195#p10_12)]. It has done its job carrying the kingdom of Jesus’ concept forward for 2000 years, up to and through our present material and secular age. But now more is needed. Only Jesus and his personal religion possess the power to see us through the three great problems that our world now faces: spiritual non-progression, materialistic secularism, and unceasing social change. Only Jesus and his teachings possess the power to stabilize us in this time of crisis and triumph over these modern threats to civilization. Only through Jesus and his teachings will we attain the new spiritual renaissance. Here is how the revelators put it: 
 
-> Christianity has indeed done a great service to this world but **what is now most needed is Jesus**. [[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)] (my bold) 
+> Christianity has indeed done a great service to this world but **what is now most needed is Jesus**. <a id="a222_103"></a>[[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)] (my bold) 
 
 (See Appendix 1.9 Summary of Reasons for the Exclusivity Requirement) 
 
@@ -234,15 +234,15 @@ We have discussed several reasons for depending solely on Jesus. Now let us turn
 
 Depending on Jesus begins with our inner life. We must consistently look to Jesus within for help and guidance both in our personal lives and in our ministry. 
 
-Jesus said, _“I am the vine, you are the branches .”_ This is a wonderful idea to meditate on. Remember also his teaching to “abide in me” and “live in my love.” He urges us to _“commune freely with me” and to “maintain this living spiritual connection with me .”_ [[UB 180:2.1](/en/The_Urantia_Book/180#p2_1)] These teachings, when followed, strengthen our inner life and our ministry. In my experience the idea that we can maintain a spiritual connection with Jesus is quite powerful. 
+Jesus said, _“I am the vine, you are the branches .”_ This is a wonderful idea to meditate on. Remember also his teaching to “abide in me” and “live in my love.” He urges us to _“commune freely with me” and to “maintain this living spiritual connection with me .”_ <a id="a236_265"></a>[[UB 180:2.1](/en/The_Urantia_Book/180#p2_1)] These teachings, when followed, strengthen our inner life and our ministry. In my experience the idea that we can maintain a spiritual connection with Jesus is quite powerful. 
 
 ### The Spirit of Truth is Our Partner and Guide 
 
 It should be clear that a revival of the actual teachings of Jesus that displaces the Christian teachings about Jesus is a gigantic task, and will not be easy. However, we may take solace and encouragement from the fact that our efforts to reveal Jesus will not be solitary. We are not undertaking this great work alone. The Spirit of Truth will be our full partner, in fact our guiding partner, in this great enterprise. The fact that Jesus’ Spirit of Truth was poured out upon us at Pentecost means that we are specially equipped to achieve our mission. In fact, our new revelation of Jesus’ life and teachings is really a part of the ongoing mission of the Spirit of Truth to reveal Jesus to each new generation of mortals on earth. Here is what the revelators tell us: 
 
-> ...the Spirit of Truth **came to help the believer to witness to the realities of Jesus’ teachings and his life** as he lived it in the flesh.... [[UB 194:2.6](/en/The_Urantia_Book/194#p2_6)] (my bold) 
+> ...the Spirit of Truth **came to help the believer to witness to the realities of Jesus’ teachings and his life** as he lived it in the flesh.... <a id="a242_148"></a>[[UB 194:2.6](/en/The_Urantia_Book/194#p2_6)] (my bold) 
 
-> This spirit **was bestowed for the purpose of qualifying believers more effectively to preach the gospel of the kingdom** ... [[UB 194:3.5](/en/The_Urantia_Book/194#p3_5)] (my bold) 
+> This spirit **was bestowed for the purpose of qualifying believers more effectively to preach the gospel of the kingdom** ... <a id="a244_128"></a>[[UB 194:3.5](/en/The_Urantia_Book/194#p3_5)] (my bold) 
 
 We should always remember and be strengthened by the fact that our revelation of Jesus will be accomplished in partnership with his Spirit of Truth working in and through us. We are not fighting alone, but rather in partnership with the God of the universe. Jesus’ spirit will help and guide us. Our part is to maintain our spiritual connection with him and grow ever more receptive to his spiritual guidance. 
 
@@ -274,7 +274,7 @@ As we dedicate ourselves to this undertaking it is instructive to first consider
 
 ### Jesus’ Kingdom Presently Exists Within the Christian Church 
 
-> Thus does the so-called Christian church become the cocoon in which the kingdom of Jesus’ concept now slumbers. The kingdom of the divine brotherhood is still alive and will eventually and certainly come forth from this long submergence, just as surely as the butterfly eventually emerges as the beautiful unfolding of its less attractive creature of metamorphic development. [[UB 170:5.21](/en/The_Urantia_Book/170#p5_21)] (my bold) 
+> Thus does the so-called Christian church become the cocoon in which the kingdom of Jesus’ concept now slumbers. The kingdom of the divine brotherhood is still alive and will eventually and certainly come forth from this long submergence, just as surely as the butterfly eventually emerges as the beautiful unfolding of its less attractive creature of metamorphic development. <a id="a276_378"></a>[[UB 170:5.21](/en/The_Urantia_Book/170#p5_21)] (my bold) 
 
 We may learn much from these words; they contain three important insights: First, the revelators make clear that Jesus’ brotherhood of the kingdom presently exists within the Christian church. Second, they reveal that this divine brotherhood is in a passive state, slumbering and submerged within Christianity. And third, they prophesy that this brotherhood will eventually awaken and come forth in a higher and more advanced form. 
 
@@ -282,13 +282,13 @@ We may learn much from these words; they contain three important insights: First
 
 This prophecy points to a special focus for our efforts. This slumbering brotherhood presently stands in need of awakening and spiritual rebirth. It is we who are called to provide a new revelation of Jesus that will awaken these sleeping Christians to higher levels of spiritual living. Bringing about the spiritual rebirth of Jesus’ brotherhood of the kingdom will be our first major step in the initiation of the spiritual renaissance. Here again is the revelators’ call: 
 
-> The **call** to the adventure of building a new and transformed human society by means of **_the spiritual rebirth of Jesus’ brotherhood of the kingdom_** should thrill all who believe in him .... [[UB 195:10.6](/en/The_Urantia_Book/195#p10_6)](my bold) 
+> The **call** to the adventure of building a new and transformed human society by means of **_the spiritual rebirth of Jesus’ brotherhood of the kingdom_** should thrill all who believe in him .... <a id="a284_199"></a>[[UB 195:10.6](/en/The_Urantia_Book/195#p10_6)](my bold) 
 
 ### Unified Christians Will Help Bring The New Revelation to the World 
 
 The Christian world is presently divided into many denominations, sects, and cults. The only hope of a unification of Christianity lies in a return to Jesus’ original gospel of the Fatherhood of God and the Brotherhood of man. This is also part of our work. By our exclusive focus on Jesus’ actual teachings we will supply the foundation for the unification of the various Christian churches. And as this revival of Jesus and his original gospel comes to Christianity, many believers will then join our efforts to bring this gospel to the world at large. According to _The Urantia Book_ this is the great hope of our world: 
 
-> **_The great hope of Urantia_** lies in the possibility of a new revelation of Jesus with a new and enlarged presentation of his saving message which would spiritually unite in loving service the numerous families of his present day professed followers. [[UB 195:10.15](/en/The_Urantia_Book/195#p10_15)] (my bold) 
+> **_The great hope of Urantia_** lies in the possibility of a new revelation of Jesus with a new and enlarged presentation of his saving message which would spiritually unite in loving service the numerous families of his present day professed followers. <a id="a290_256"></a>[[UB 195:10.15](/en/The_Urantia_Book/195#p10_15)] (my bold) 
 
 ### The Gospel Of The Kingdom
 
@@ -296,21 +296,21 @@ What is this “saving message” that would spiritually unite the various Chris
 
 The kingdom Jesus taught is the Father’s will dominant and transcendent in the heart of the believer. We enter the kingdom by faith in Jesus’ teaching that God is our Father, and then by choosing to do our Father’s will. Jesus showed us the way to life in the kingdom with his two great prayers, “your will be done,” and “Not my will but yours be done.” 
 
-In his first appearance after the crucifixion Jesus made clear to his assembled followers that, “_Sonship with God by faith is still the saving truth of the gospel of the kingdom_.” [[UB 193:0.4](/en/The_Urantia_Book/193#p0_4)] He emphasized that what the world needs most to know is that we are all sons and daughters of God and through faith we may actually realize and daily experience this great truth. In our work we must always teach others to see themselves as sons and daughters of God, our loving heavenly Father.   
+In his first appearance after the crucifixion Jesus made clear to his assembled followers that, “_Sonship with God by faith is still the saving truth of the gospel of the kingdom_.” <a id="a298_182"></a>[[UB 193:0.4](/en/The_Urantia_Book/193#p0_4)] He emphasized that what the world needs most to know is that we are all sons and daughters of God and through faith we may actually realize and daily experience this great truth. In our work we must always teach others to see themselves as sons and daughters of God, our loving heavenly Father.   
 
 ### The Success Of Our Mission 
 
 Will our efforts succeed? Consider these prophetic statements from the revelators that outline both the history and future evolution of the religion of Jesus on our planet: 
 
-> The teachings of Jesus, even though greatly modified, survived the mystery cults of their birth time, the ignorance and superstition of the dark ages, and are even now slowly triumphing over the materialism, mechanism, and secularism of the twentieth century. [[UB 195:9.3](/en/The_Urantia_Book/195#p9_3)] (my bold) 
+> The teachings of Jesus, even though greatly modified, survived the mystery cults of their birth time, the ignorance and superstition of the dark ages, and are even now slowly triumphing over the materialism, mechanism, and secularism of the twentieth century. <a id="a304_262"></a>[[UB 195:9.3](/en/The_Urantia_Book/195#p9_3)] (my bold) 
 > 
-> [The Christian] church is only the larval stage of the thwarted spiritual kingdom, which will carry it through this material age and over into a more spiritual dispensation where the Master’s teachings may enjoy a fuller opportunity for development. [[UB 170:5.21](/en/The_Urantia_Book/170#p5_21)] (my bold)   
+> [The Christian] church is only the larval stage of the thwarted spiritual kingdom, which will carry it through this material age and over into a more spiritual dispensation where the Master’s teachings may enjoy a fuller opportunity for development. <a id="a306_252"></a>[[UB 170:5.21](/en/The_Urantia_Book/170#p5_21)] (my bold)   
 
 The following quotes are two of my favorites. They foretell victory over the powerful forces of materialism and secularism, and a wonderful new spiritual age to follow: 
 
-> A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism. [[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)] (my bold) 
+> A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism. <a id="a310_173"></a>[[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)] (my bold) 
 > 
-> Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment. [[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)] (my bold)  
+> Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment. <a id="a312_166"></a>[[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)] (my bold)  
 
 ## Let Us Go Forward 
 

@@ -39,39 +39,39 @@ Neo-Darwinism has been the prevailing scientific account of evolution over the p
 
 But neo-Darwinism’s reliance on gradual change is not holding up well in light of current research. Using tools such as genome sequencing biologists are demonstrating that evolutionary change probably did occur suddenly as _The Urantia Book_ says: 
 
-> [Life forms] do not evolve as the result of the gradual accumulation of small variations; they appear as fullfledged new orders of life, and they appear suddenly. The sudden appearance of new species and diversified orders of living organisms is wholly biologic, strictly natural. [[UB 58:6.3-4](/en/The_Urantia_Book/58#p6_3)] 
+> [Life forms] do not evolve as the result of the gradual accumulation of small variations; they appear as fullfledged new orders of life, and they appear suddenly. The sudden appearance of new species and diversified orders of living organisms is wholly biologic, strictly natural. <a id="a41_283"></a>[[UB 58:6.3-4](/en/The_Urantia_Book/58#p6_3)] 
 
-> The evolutionary transitions in single celled life forms, plants and multi-cellular invertebrates and vertebrates including the predecessors of humanoids all occurred suddenly. The higher protozoan type of animal life soon appeared, and appeared suddenly. [[UB 65:2.4](/en/The_Urantia_Book/65#p2_4)] 
+> The evolutionary transitions in single celled life forms, plants and multi-cellular invertebrates and vertebrates including the predecessors of humanoids all occurred suddenly. The higher protozoan type of animal life soon appeared, and appeared suddenly. <a id="a43_258"></a>[[UB 65:2.4](/en/The_Urantia_Book/65#p2_4)] 
 
-> It was from an agile little reptilian dinosaur of carnivorous habits but having a comparatively large brain that the placental mammals suddenly sprang. [[UB 65:2.12](/en/The_Urantia_Book/65#p2_12)] Slightly to the west of India, on land now under water and among the offspring of Asiatic migrants of the older North American lemur types, the dawn mammals suddenly appeared. [[UB 61:6.1](/en/The_Urantia_Book/61#p6_1)] 
+> It was from an agile little reptilian dinosaur of carnivorous habits but having a comparatively large brain that the placental mammals suddenly sprang. <a id="a45_154"></a>[[UB 65:2.12](/en/The_Urantia_Book/65#p2_12)] Slightly to the west of India, on land now under water and among the offspring of Asiatic migrants of the older North American lemur types, the dawn mammals suddenly appeared. <a id="a45_376"></a>[[UB 61:6.1](/en/The_Urantia_Book/61#p6_1)] 
 
-> These new mid-mammals—almost twice the size and height of their ancestors and possessing proportionately increased brain power—had only well established themselves when the primates, the third vital mutation, suddenly appeared. [[UB 61:6.1](/en/The_Urantia_Book/61#p6_1)]
+> These new mid-mammals—almost twice the size and height of their ancestors and possessing proportionately increased brain power—had only well established themselves when the primates, the third vital mutation, suddenly appeared. <a id="a47_230"></a>[[UB 61:6.1](/en/The_Urantia_Book/61#p6_1)]
 
-> Not only did evolutionary transitions occur suddenly according to _The Urantia Book_, but they occured in great leaps. “you will not be able to find such connecting links between the great divisions of the animal kingdom nor between the highest of the prehuman animal types and the dawn men of the human races. These so-called ‘missing links’ will forever remain missing, for the simple reason that they never existed.” [[UB 58:6.2](/en/The_Urantia_Book/58#p6_2)] 
+> Not only did evolutionary transitions occur suddenly according to _The Urantia Book_, but they occured in great leaps. “you will not be able to find such connecting links between the great divisions of the animal kingdom nor between the highest of the prehuman animal types and the dawn men of the human races. These so-called ‘missing links’ will forever remain missing, for the simple reason that they never existed.” <a id="a49_422"></a>[[UB 58:6.2](/en/The_Urantia_Book/58#p6_2)] 
 
 Neo-Darwinism is a theory that excludes any super-material causation—no design, no guidance, no ultimate goal or purpose. Yet one of the most important findings in recent scientific research is convergent evolution—repeated evolution of similar adaptive features—not only at the organism level but also the organ and molecular level. _The Urantia Book_ states that there is design in life which explains the patterns in life systems and the apparent direction to evolution. 
 
-> A purposeful plan was functioning throughout all of these seemingly strange evolutions of living things, but we are not allowed arbitrarily to interfere with the development of the life patterns once they have been set in operation. [[UB 65:3.1](/en/The_Urantia_Book/65#p3_1)] 
+> A purposeful plan was functioning throughout all of these seemingly strange evolutions of living things, but we are not allowed arbitrarily to interfere with the development of the life patterns once they have been set in operation. <a id="a53_235"></a>[[UB 65:3.1](/en/The_Urantia_Book/65#p3_1)] 
 
-> After organic evolution has run a certain course and free will of the human type has appeared in the highest evolving organisms, the Life Carriers must either leave the planet or take renunciation vows. [[UB 65:1.5](/en/The_Urantia_Book/65#p1_5)] 
+> After organic evolution has run a certain course and free will of the human type has appeared in the highest evolving organisms, the Life Carriers must either leave the planet or take renunciation vows. <a id="a55_205"></a>[[UB 65:1.5](/en/The_Urantia_Book/65#p1_5)] 
 
 Science has no clear answer as to how inanimate matter became animated. _The Urantia Book_ says that life was not simply a frozen accident in time or the result of a deterministic chemical pathway, but rather life was implanted on earth by intelligent beings. 
 
-> Life does not originate spontaneously. . . [[UB 36:0.1](/en/The_Urantia_Book/36#p0_1)]
+> Life does not originate spontaneously. . . <a id="a59_45"></a>[[UB 36:0.1](/en/The_Urantia_Book/36#p0_1)]
 
-> We [Life Carriers] can and do carry life to the planets, but we brought no life to Urantia. . . .all life appearing hereon was formulated by us right here on the planet.. [[UB 58:4.1](/en/The_Urantia_Book/58#p4_1)]  [Emphasis mine] 
+> We [Life Carriers] can and do carry life to the planets, but we brought no life to Urantia. . . .all life appearing hereon was formulated by us right here on the planet.. <a id="a61_173"></a>[[UB 58:4.1](/en/The_Urantia_Book/58#p4_1)]  [Emphasis mine] 
 
-> The Urantia midwayers have assembled over fifty thousand facts of physics and chemistry which they deem to be incompatible with the laws of accidental chance, and which they contend unmistakably demonstrate the presence of intelligent purpose in the material creation. [[UB 58:2.3](/en/The_Urantia_Book/58#p2_3)] 
+> The Urantia midwayers have assembled over fifty thousand facts of physics and chemistry which they deem to be incompatible with the laws of accidental chance, and which they contend unmistakably demonstrate the presence of intelligent purpose in the material creation. <a id="a63_271"></a>[[UB 58:2.3](/en/The_Urantia_Book/58#p2_3)] 
 
 Life, according to _The Urantia Book_, is not entirely material, nor is human intellect and consciousness purely a chemical-mechanical phenomenon. 
 
-> In language, an alphabet represents the mechanism of materialism, while the words expressive of the meaning of a thousand thoughts, grand ideas, and noble ideals—of love and hate, of cowardice and courage—represent the performances of mind within the scope defined by both material and spiritual law, directed by the assertion of the will of personality, and limited by the inherent situational endowment. [[UB 195:7.21](/en/The_Urantia_Book/195#p7_21)] 
+> In language, an alphabet represents the mechanism of materialism, while the words expressive of the meaning of a thousand thoughts, grand ideas, and noble ideals—of love and hate, of cowardice and courage—represent the performances of mind within the scope defined by both material and spiritual law, directed by the assertion of the will of personality, and limited by the inherent situational endowment. <a id="a67_408"></a>[[UB 195:7.21](/en/The_Urantia_Book/195#p7_21)] 
 
-> To say that mind “emerged” from matter explains nothing. If the __universe__ were merely a mechanism and mind were unapart from matter, we would never have two differing interpretations of any observed phenomenon. The concepts of truth, beauty, and __goodness__ are not inherent in either physics or chemistry. A machine cannot know, much less know truth, hunger for righteousness, and cherish goodness. [[UB 195:6.11](/en/The_Urantia_Book/195#p6_11)] [Emphasis mine] 
+> To say that mind “emerged” from matter explains nothing. If the __universe__ were merely a mechanism and mind were unapart from matter, we would never have two differing interpretations of any observed phenomenon. The concepts of truth, beauty, and __goodness__ are not inherent in either physics or chemistry. A machine cannot know, much less know truth, hunger for righteousness, and cherish goodness. <a id="a69_406"></a>[[UB 195:6.11](/en/The_Urantia_Book/195#p6_11)] [Emphasis mine] 
 
 The theory that most closely parallels the evolutionary account presented in _The Urantia Book_ is Intelligent Design. Intelligent Design seeks to expand science by incorporating non-material causation as a viable hypothesis. However, the scientific establishment has rejected such an intrusion and has adopted a strictly materialist paradigm. The article only hints at the consequences of secularism and materialism. _The Urantia Book_ is more explicit. 
 
-> The complete secularization of __science, education,__ industry, and society can lead only to disaster. During the first third of the twentieth century Urantians killed more human beings than were killed during the whole of the Christian dispensation up to that time. And this is only the beginning of the dire harvest of materialism and secularism; still more terrible destruction is yet to come. [[UB 195:8.13](/en/The_Urantia_Book/195#p8_13)] [Emphasis mine] 
+> The complete secularization of __science, education,__ industry, and society can lead only to disaster. During the first third of the twentieth century Urantians killed more human beings than were killed during the whole of the Christian dispensation up to that time. And this is only the beginning of the dire harvest of materialism and secularism; still more terrible destruction is yet to come. <a id="a73_400"></a>[[UB 195:8.13](/en/The_Urantia_Book/195#p8_13)] [Emphasis mine] 
 
 ---
 
@@ -626,4 +626,4 @@ Increasingly, in modern civilization authority on matters of Truth is assessed t
 
 Note: Further quotes of Richard Dawkins can be found at: http://www.positiveatheism.org/hist/quotes/dawkins.htm and on Wikipedia page: http://en.wikipedia.org/wiki/Richard_Dawson 
 
-> “Self-importance, not word-importance, exhausts immature creatures; it is the self element that exhausts, not the effort to achieve. You can do important work if you do not become self-important; you can do several things as easily as one if you leave yourself out. ” [[UB 48:6.26](/en/The_Urantia_Book/48#p6_26)] 
+> “Self-importance, not word-importance, exhausts immature creatures; it is the self element that exhausts, not the effort to achieve. You can do important work if you do not become self-important; you can do several things as easily as one if you leave yourself out. ” <a id="a628_270"></a>[[UB 48:6.26](/en/The_Urantia_Book/48#p6_26)] 

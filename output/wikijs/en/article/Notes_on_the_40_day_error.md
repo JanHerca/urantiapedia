@@ -42,7 +42,7 @@ An intensive and detailed examination of the evidence indicates that this cannot
 
 The meeting mentioned in both Papers was between the apostles and the one hundred and twenty foremost disciples in Jerusalem. Included are Jesus’ mother and family members.
 
-Dr Sadler’s proffered explanation falters in the very first paragraph of [Paper 194, Section 1, “The Pentecost Sermon”](/en/The_Urantia_Book/194#p1) which reads, “_The apostles had been in hiding for forty days._” Read in context, it means what it says and not that, “_Up until ten days ago, the apostles had been in hiding for forty days_”—which is what would be expected if the meeting took place at fifty and not forty days after Jesus’ crucifixion (the expectation if the meetings are not the same one).
+Dr Sadler’s proffered explanation falters in the very first paragraph of <a id="a44_73"></a>[Paper 194, Section 1, “The Pentecost Sermon”](/en/The_Urantia_Book/194#p1) which reads, “_The apostles had been in hiding for forty days._” Read in context, it means what it says and not that, “_Up until ten days ago, the apostles had been in hiding for forty days_”—which is what would be expected if the meeting took place at fifty and not forty days after Jesus’ crucifixion (the expectation if the meetings are not the same one).
 
 Further along in this same paragraph, “_the frightened apostles emerged from their weeks of seclusion to appear boldly in the temple.. . ._ ” According to Dr Sadler’s explanation they must have actually come out of hiding ten days earlier! So why are they still frightened yet no longer in hiding?
 
@@ -60,7 +60,7 @@ The more we examine the detail of this problem, the more it appears to be that t
 
 Curiously, it has lain dormant for all these years but now pops up independently in several places. One is a recent article by Seppo Kanerva in the IUA Journal, another is in E-mail discussions between various fundamentalist readers and our editors—and probably there are others. Is it a signal that the time for radical change in the Urantia movement has now arrived?
 
-In closing, and just in case any fundamentalist manages to find a way to call black white, we’ll leave them with another task. Take a trip to the hill top at Nazareth, face due east, and see if you can see the rocky hills of Moab far to the east beyond the Jordan valley. ([UB 123:5.12](/en/The_Urantia_Book/123#p5_12))
+In closing, and just in case any fundamentalist manages to find a way to call black white, we’ll leave them with another task. Take a trip to the hill top at Nazareth, face due east, and see if you can see the rocky hills of Moab far to the east beyond the Jordan valley. (<a id="a62_273"></a>[UB 123:5.12](/en/The_Urantia_Book/123#p5_12))
 
 > A myth is, of course, not a fairy story. It is the presentation of facts belonging to one category in the idioms appropriate to another. To explode a myth is accordinghy not to deny the facts but to re-allocate them. 
 > _Gilbert Ryle_

@@ -38,7 +38,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 People familiar with _The Urantia Book_ (the URANTIA BOOK ) recognize two important meanings of the word “religion.” There is the “personal religion” of each individual as distinguished from the “organized religions” of the world, such as Vedicism, Hinduism, Buddhism, Judaism, Christianity, and Islam, to chronologically list a few of the larger groupings of individual religionists. Each of these organized Religions (I’ll capitalize the word Religion when returning to them) admit sub-classes such as the division of Christianity into many “denominations” - Catholic, Protestant, Southern Baptists and so many more. What does _The Urantia Book_ itself say about organized religion? Well, it’s complicated! We read: 
 
-> Prior to the coming of the mystery cults and Christianity, personal religion hardly developed as an independent institution in the civilized lands of North Africa and Europe; it was more of a family, city-state, political, and imperial affair. The Hellenic Greeks never evolved a centralized worship system; the ritual was local; they had no priesthood and no “sacred book.” Much as the Romans, their religious institutions lacked a powerful driving agency for the preservation of higher moral and spiritual values. While it is true that the institutionalization of religion has usually detracted from its spiritual quality, it is also a fact that no religion has thus far succeeded in surviving without the aid of institutional organization of some degree, greater or lesser. [[UB 98:6.1](/en/The_Urantia_Book/98#p6_1)] 
+> Prior to the coming of the mystery cults and Christianity, personal religion hardly developed as an independent institution in the civilized lands of North Africa and Europe; it was more of a family, city-state, political, and imperial affair. The Hellenic Greeks never evolved a centralized worship system; the ritual was local; they had no priesthood and no “sacred book.” Much as the Romans, their religious institutions lacked a powerful driving agency for the preservation of higher moral and spiritual values. While it is true that the institutionalization of religion has usually detracted from its spiritual quality, it is also a fact that no religion has thus far succeeded in surviving without the aid of institutional organization of some degree, greater or lesser. <a id="a40_779"></a>[[UB 98:6.1](/en/The_Urantia_Book/98#p6_1)] 
 
 Before the mystery cults and Christianity, religion was more of a group affair (family, city- state, political or imperial) than a personal relationship with God. 
 
@@ -52,11 +52,11 @@ The religious institutions of the Hellenic Greeks, much as the Romans:
 
 ## 2) Organized Religion
 
-> “Institutionalization of religion has usually detracted from its spiritual quality but **without the aid of institutional organization of some degree, greater or lesser” “no religion has thus far succeeded in surviving.** ” Obviously, to be of lasting value to the world a religion must survive in some form. [[UB 98:6.1](/en/The_Urantia_Book/98#p6_1)]
+> “Institutionalization of religion has usually detracted from its spiritual quality but **without the aid of institutional organization of some degree, greater or lesser” “no religion has thus far succeeded in surviving.** ” Obviously, to be of lasting value to the world a religion must survive in some form. <a id="a54_311"></a>[[UB 98:6.1](/en/The_Urantia_Book/98#p6_1)]
 > 
-> ...Spiritual growth is greatest where all external pressures are at a minimum. “Where the spirit of the Lord is, there is freedom.” Man develops best when the pressures of home, community, church, and state are least. **But this must not be construed as meaning that there is no place in a progressive society for home, social institutions, church, and state.** [[UB 103:5.11](/en/The_Urantia_Book/103#p5_11)] 
+> ...Spiritual growth is greatest where all external pressures are at a minimum. “Where the spirit of the Lord is, there is freedom.” Man develops best when the pressures of home, community, church, and state are least. **But this must not be construed as meaning that there is no place in a progressive society for home, social institutions, church, and state.** <a id="a56_364"></a>[[UB 103:5.11](/en/The_Urantia_Book/103#p5_11)] 
 
-> When a member of a social religious group has complied with the requirements of such a group, he should be encouraged to enjoy religious liberty in the full expression of his own personal interpretation of the truths of religious belief and the facts of religious experience. The security of a religious group depends on spiritual unity, not on theological uniformity. A religious group should be able to enjoy the liberty of freethinking without having to become “freethinkers.” There is great hope for any church that worships the living God, validates the brotherhood of man, and dares to remove all creedal pressure from its members. [[UB 103:5.12](/en/The_Urantia_Book/103#p5_12)]
+> When a member of a social religious group has complied with the requirements of such a group, he should be encouraged to enjoy religious liberty in the full expression of his own personal interpretation of the truths of religious belief and the facts of religious experience. The security of a religious group depends on spiritual unity, not on theological uniformity. A religious group should be able to enjoy the liberty of freethinking without having to become “freethinkers.” There is great hope for any church that worships the living God, validates the brotherhood of man, and dares to remove all creedal pressure from its members. <a id="a58_640"></a>[[UB 103:5.12](/en/The_Urantia_Book/103#p5_12)]
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Philip_Calabrese/Urantia_Book_Religion/image01.jpg">
@@ -69,23 +69,23 @@ Notice that almost any believing Jew, Christian or Muslim could technically affi
 
 Clearly a balance is needed between having no “organized religion” at all versus having one that is over-organized. Is there a happy medium? We need to be neither too timid nor too bold about this issue. Consider these words of Jesus: 
 
-> On this same occasion the Master...called attention to the fact that any virtue, if carried to extremes, may become a vice. ...He pointed out that overmuch sympathy and pity may degenerate into serious emotional instability; that enthusiasm may drive on into fanaticism. He discussed one of their former associates whose imagination had led him off into visionary and impractical undertakings. At the same time, he warned them against the dangers of the dullness of over-conservative mediocrity. [[UB 149:4.3](/en/The_Urantia_Book/149#p4_3)]
+> On this same occasion the Master...called attention to the fact that any virtue, if carried to extremes, may become a vice. ...He pointed out that overmuch sympathy and pity may degenerate into serious emotional instability; that enthusiasm may drive on into fanaticism. He discussed one of their former associates whose imagination had led him off into visionary and impractical undertakings. At the same time, he warned them against the dangers of the dullness of over-conservative mediocrity. <a id="a71_498"></a>[[UB 149:4.3](/en/The_Urantia_Book/149#p4_3)]
 
-> And then Jesus discoursed on the dangers of courage and faith, how they sometimes lead unthinking souls on to recklessness and presumption. He also showed how prudence and discretion, when carried too far, lead to cowardice and failure. He exhorted his hearers to strive for originality while they shunned all tendency toward eccentricity. He pleaded for sympathy without sentimentality, piety without sanctimoniousness. He taught reverence free from fear and superstition. [[UB 149:4.4](/en/The_Urantia_Book/149#p4_4)] 
+> And then Jesus discoursed on the dangers of courage and faith, how they sometimes lead unthinking souls on to recklessness and presumption. He also showed how prudence and discretion, when carried too far, lead to cowardice and failure. He exhorted his hearers to strive for originality while they shunned all tendency toward eccentricity. He pleaded for sympathy without sentimentality, piety without sanctimoniousness. He taught reverence free from fear and superstition. <a id="a73_476"></a>[[UB 149:4.4](/en/The_Urantia_Book/149#p4_4)] 
 
 ## 4) Survival of the Jewish Religion 
 
 Consider that: 
 
-> The Jewish religion persisted also because of its institutions. It is difficult for religion to survive as the private practice of isolated individuals. This has ever been the error of the religious leaders: Seeing the evils of institutionalized religion, they seek to destroy the technique of group functioning. In place of destroying all ritual, they would do better to reform it. In this respect Ezekiel was wiser than his contemporaries; though he joined with them in insisting on personal moral responsibility, he also set about to establish the faithful observance of a superior and purified ritual. [[UB 97:10.7](/en/The_Urantia_Book/97#p10_7)]
+> The Jewish religion persisted also because of its institutions. It is difficult for religion to survive as the private practice of isolated individuals. This has ever been the error of the religious leaders: Seeing the evils of institutionalized religion, they seek to destroy the technique of group functioning. In place of destroying all ritual, they would do better to reform it. In this respect Ezekiel was wiser than his contemporaries; though he joined with them in insisting on personal moral responsibility, he also set about to establish the faithful observance of a superior and purified ritual. <a id="a79_608"></a>[[UB 97:10.7](/en/The_Urantia_Book/97#p10_7)]
 
 ## 5) Religious Reformations 
 
 Despite “the evils of institutionalized religion” it is an error to seek to “destroy the technique of group functioning.” Religious “group functioning” is organized religion – Religion with the capital R. Hear _The Urantia Book_: 
 
-> “In place of destroying all ritual, they would do better to reform it.” [[UB 97:10.7](/en/The_Urantia_Book/97#p10_7)]
+> “In place of destroying all ritual, they would do better to reform it.” <a id="a85_74"></a>[[UB 97:10.7](/en/The_Urantia_Book/97#p10_7)]
 
-Let us then [[UB 97:10.7](/en/The_Urantia_Book/97#p10_7)] “though he joined with them in insisting on personal moral responsibility, he also set about to establish the faithful observance of a superior and purified ritual.” 
+Let us then <a id="a87_12"></a>[[UB 97:10.7](/en/The_Urantia_Book/97#p10_7)] “though he joined with them in insisting on personal moral responsibility, he also set about to establish the faithful observance of a superior and purified ritual.” 
 
 In light of _The Urantia Book_, we are now in a position to do just that with the Christian ritual. There is much of value in the ritual of a Christian church service to adopt in a _Urantia Book_ church. 
 
@@ -102,13 +102,13 @@ Since he demonstrated that a human could also be divine, we too can become divin
 
 ## 6) A Balanced Evolution of Ritual
 
-> From the dawn of civilization every appealing movement in social culture or religious advancement has developed a ritual, a symbolic ceremonial. The more this ritual has been an unconscious growth, the stronger it has gripped its devotees. The cult preserved sentiment and satisfied emotion, but it has always been the greatest obstacle to social reconstruction and spiritual progress. [[UB 87:7.2](/en/The_Urantia_Book/87#p7_2)]
+> From the dawn of civilization every appealing movement in social culture or religious advancement has developed a ritual, a symbolic ceremonial. The more this ritual has been an unconscious growth, the stronger it has gripped its devotees. The cult preserved sentiment and satisfied emotion, but it has always been the greatest obstacle to social reconstruction and spiritual progress. <a id="a104_388"></a>[[UB 87:7.2](/en/The_Urantia_Book/87#p7_2)]
 
 A Urantia Religion should “preserve sentiment and satisfy emotion” but not be an “obstacle to social reconstruction and spiritual progress.” 
 
 To be more of an unconscious growth than a conscious one, the formal structure must be very simple and open-ended, allowing for a variety of innovative or spontaneous expressions. Some will catch on and others not. 
 
-> Regardless of the drawbacks and handicaps, every new revelation of truth has given rise to a new cult, and even the restatement of the religion of Jesus must develop a new and appropriate symbolism. Modern man must find some adequate symbolism for his new and expanding ideas, ideals, and loyalties. This enhanced symbol must arise out of religious living, spiritual experience. And this higher symbolism of a higher civilization must be predicated on the concept of the Fatherhood of God and be pregnant with the mighty ideal of the brotherhood of man. [[UB 87:7.6](/en/The_Urantia_Book/87#p7_6)]
+> Regardless of the drawbacks and handicaps, every new revelation of truth has given rise to a new cult, and even the restatement of the religion of Jesus must develop a new and appropriate symbolism. Modern man must find some adequate symbolism for his new and expanding ideas, ideals, and loyalties. This enhanced symbol must arise out of religious living, spiritual experience. And this higher symbolism of a higher civilization must be predicated on the concept of the Fatherhood of God and be pregnant with the mighty ideal of the brotherhood of man. <a id="a110_556"></a>[[UB 87:7.6](/en/The_Urantia_Book/87#p7_6)]
 
 It is important to remember that the Corbis connotation of the word “cult” has changed since _The Urantia Book_ used it in the early 1990s. Then it referred to a religious culture. Nowadays the word “cult” connotes a group whose members are strongly dominated by the organization, usually by one person – as in a “personality cult.” 
 
@@ -116,15 +116,15 @@ It is important to remember that the Corbis connotation of the word “cult” h
 
 “The restatement of the religion of Jesus must develop a new and appropriate symbolism” for “our expanding ideas, ideals, and loyalties.” 
 
-> This enhanced symbol must arise out of religious living, spiritual experience... And this higher symbolism of a higher civilization must be predicated on the concept of the Fatherhood of God and be pregnant with the mighty ideal of the brotherhood of man. [[UB 87:7.6](/en/The_Urantia_Book/87#p7_6)]
+> This enhanced symbol must arise out of religious living, spiritual experience... And this higher symbolism of a higher civilization must be predicated on the concept of the Fatherhood of God and be pregnant with the mighty ideal of the brotherhood of man. <a id="a118_258"></a>[[UB 87:7.6](/en/The_Urantia_Book/87#p7_6)]
 
 Religious living requires social interactions with God and one’s fellows. That is only possible via close social contact such as occurs in a good family, church, temple or mosque. 
 
 Expanding ideas of the cosmos, ideals of universe citizenship, the indwelling, pre- personal Thought Adjusters that make us spiritually equal, loyalties to the Paradise Father and the Creator Son - these mysteries must be symbolized. 
 
-> The old cults were too egocentric; the new must be the outgrowth of applied love. The new cult must, like the old, foster sentiment, satisfy emotion, and promote loyalty; but it must do more: It must facilitate spiritual progress, enhance cosmic meanings, augment moral values, encourage social development, and stimulate a high type of personal religious living. The new cult must provide supreme goals of living which are both temporal and eternal—social and spiritual. [[UB 87:7.7](/en/The_Urantia_Book/87#p7_7)]
+> The old cults were too egocentric; the new must be the outgrowth of applied love. The new cult must, like the old, foster sentiment, satisfy emotion, and promote loyalty; but it must do more: It must facilitate spiritual progress, enhance cosmic meanings, augment moral values, encourage social development, and stimulate a high type of personal religious living. The new cult must provide supreme goals of living which are both temporal and eternal—social and spiritual. <a id="a124_474"></a>[[UB 87:7.7](/en/The_Urantia_Book/87#p7_7)]
 
-> No cult can endure and contribute to the progress of social civilization and individual spiritual attainment unless it is based on the biologic, sociologic, and religious significance of the home. A surviving cult must symbolize that which is permanent in the presence of unceasing change; it must glorify that which unifies the stream of ever-changing social metamorphosis. It must recognize true meanings, exalt beautiful relations, and glorify the good values of real nobility. [[UB 87:7.8](/en/The_Urantia_Book/87#p7_8)]
+> No cult can endure and contribute to the progress of social civilization and individual spiritual attainment unless it is based on the biologic, sociologic, and religious significance of the home. A surviving cult must symbolize that which is permanent in the presence of unceasing change; it must glorify that which unifies the stream of ever-changing social metamorphosis. It must recognize true meanings, exalt beautiful relations, and glorify the good values of real nobility. <a id="a126_483"></a>[[UB 87:7.8](/en/The_Urantia_Book/87#p7_8)]
 
 Did you get all of that? The expanded Urantia Religion would need to: 
 - a) foster sentiment 
@@ -143,7 +143,7 @@ Did you get all of that? The expanded Urantia Religion would need to:
 
 ## 8) Human Desire for Science and Mystery 
 
-> But the great difficulty of finding a new and satisfying symbolism is because modern men, as a group, adhere to the scientific attitude, eschew superstition, and abhor ignorance, while as individuals they all crave mystery and venerate the unknown. No cult can survive unless it embodies some masterful mystery and conceals some worthful unattainable. Again, the new symbolism must not only be significant for the group but also meaningful to the individual. The forms of any serviceable symbolism must be those which the individual can carry out on his own initiative, and which he can also enjoy with his fellows. If the new cult could only be dynamic instead of static, it might really contribute something worthwhile to the progress of mankind, both temporal and spiritual. [[UB 87:7.9](/en/The_Urantia_Book/87#p7_9)]
+> But the great difficulty of finding a new and satisfying symbolism is because modern men, as a group, adhere to the scientific attitude, eschew superstition, and abhor ignorance, while as individuals they all crave mystery and venerate the unknown. No cult can survive unless it embodies some masterful mystery and conceals some worthful unattainable. Again, the new symbolism must not only be significant for the group but also meaningful to the individual. The forms of any serviceable symbolism must be those which the individual can carry out on his own initiative, and which he can also enjoy with his fellows. If the new cult could only be dynamic instead of static, it might really contribute something worthwhile to the progress of mankind, both temporal and spiritual. <a id="a145_780"></a>[[UB 87:7.9](/en/The_Urantia_Book/87#p7_9)]
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Philip_Calabrese/Urantia_Book_Religion/image02.jpg">
@@ -161,7 +161,7 @@ A new and satisfying symbolism must:
 
 Despite all these requirements, the ritual must be simple: 
 
-> But a cult—a symbolism of rituals, slogans, or goals—will not function if it is too complex. And there must be the demand for devotion, the response of loyalty. Every effective religion unerringly develops a worthy symbolism, and its devotees would do well to prevent the crystallization of such a ritual into cramping, deforming, and stifling stereotyped ceremonials which can only handicap and retard all social, moral, and spiritual progress. No cult can survive if it retards moral growth and fails to foster spiritual progress. The cult is the skeletal structure around which grows the living and dynamic body of personal spiritual experience—true religion. [[UB 87:7.10](/en/The_Urantia_Book/87#p7_10)]
+> But a cult—a symbolism of rituals, slogans, or goals—will not function if it is too complex. And there must be the demand for devotion, the response of loyalty. Every effective religion unerringly develops a worthy symbolism, and its devotees would do well to prevent the crystallization of such a ritual into cramping, deforming, and stifling stereotyped ceremonials which can only handicap and retard all social, moral, and spiritual progress. No cult can survive if it retards moral growth and fails to foster spiritual progress. The cult is the skeletal structure around which grows the living and dynamic body of personal spiritual experience—true religion. <a id="a163_665"></a>[[UB 87:7.10](/en/The_Urantia_Book/87#p7_10)]
 
 A symbolism of rituals, slogans, or goals” 
 - s) will not function if it is too complex, and it 
@@ -173,13 +173,13 @@ It seems pretty clear that the revelation of _The Urantia Book_ needs to find ex
 
 We must set about to establish the faithful observance of a superior and purified ritual that embodies the values listed above. 
 
-> And so, after long ages the cult of the sacrifice has evolved into the cult of the sacrament. Thus are the sacraments of modern religions the legitimate successors of those shocking early ceremonies of human sacrifice and the still earlier cannibalistic rituals. Many still depend upon blood for salvation, but it has at least become figurative, symbolic, and mystic. [[UB 89:9.4](/en/The_Urantia_Book/89#p9_4)]
+> And so, after long ages the cult of the sacrifice has evolved into the cult of the sacrament. Thus are the sacraments of modern religions the legitimate successors of those shocking early ceremonies of human sacrifice and the still earlier cannibalistic rituals. Many still depend upon blood for salvation, but it has at least become figurative, symbolic, and mystic. <a id="a175_370"></a>[[UB 89:9.4](/en/The_Urantia_Book/89#p9_4)]
 
 And the mystery that we all seek is the experience of God: 
 
-> The Universal Father is absolutely and without qualification infinite in all his attributes; and this fact, in and of itself, automatically shuts him off from all direct personal communication with finite material beings and other lowly created intelligences. [[UB 2:1.6](/en/The_Urantia_Book/2#p1_6)]
+> The Universal Father is absolutely and without qualification infinite in all his attributes; and this fact, in and of itself, automatically shuts him off from all direct personal communication with finite material beings and other lowly created intelligences. <a id="a179_262"></a>[[UB 2:1.6](/en/The_Urantia_Book/2#p1_6)]
 
-> And all this necessitates such arrangements for contact and communication with his manifold creatures as have been ordained, first, in the personalities of the Paradise Sons of God, who, although perfect in divinity, also often partake of the nature of the very flesh and blood of the planetary races, becoming one of you and one with you; thus, as it were, God becomes man, as occurred in the bestowal of Michael, who was called interchangeably the Son of God and the Son of Man. And second, there are the personalities of the Infinite Spirit, the various orders of the seraphic hosts and other celestial intelligences who draw near to the material beings of lowly origin and in so many ways minister to them and serve them. And third, there are the pre-personal Mystery Monitors, Thought Adjusters, the actual gift of the great God himself sent to indwell such as the humans of Urantia, sent without announcement and without explanation. In endless profusion they descend from the heights of glory to grace and indwell the humble minds of those mortals who possess the capacity for God- consciousness or the potential therefore. [[UB 2:1.7](/en/The_Urantia_Book/2#p1_7)]
+> And all this necessitates such arrangements for contact and communication with his manifold creatures as have been ordained, first, in the personalities of the Paradise Sons of God, who, although perfect in divinity, also often partake of the nature of the very flesh and blood of the planetary races, becoming one of you and one with you; thus, as it were, God becomes man, as occurred in the bestowal of Michael, who was called interchangeably the Son of God and the Son of Man. And second, there are the personalities of the Infinite Spirit, the various orders of the seraphic hosts and other celestial intelligences who draw near to the material beings of lowly origin and in so many ways minister to them and serve them. And third, there are the pre-personal Mystery Monitors, Thought Adjusters, the actual gift of the great God himself sent to indwell such as the humans of Urantia, sent without announcement and without explanation. In endless profusion they descend from the heights of glory to grace and indwell the humble minds of those mortals who possess the capacity for God- consciousness or the potential therefore. <a id="a181_1133"></a>[[UB 2:1.7](/en/The_Urantia_Book/2#p1_7)]
 
 ## 11) Difficulties To Overcome
 
@@ -212,9 +212,9 @@ Postulate r) under section 8) assumes that the “satisfying symbolism” of the
 
 Earlier under 7) are mentioned the following significant constraints for the symbolism: 
 
-“_This enhanced symbol must arise out of religious living, spiritual experience._” Huh? The symbol must arise out of religious living, spiritual experience? [[UB 87:7.6](/en/The_Urantia_Book/87#p7_6)]
+“_This enhanced symbol must arise out of religious living, spiritual experience._” Huh? The symbol must arise out of religious living, spiritual experience? <a id="a214_157"></a>[[UB 87:7.6](/en/The_Urantia_Book/87#p7_6)]
 
-And this higher symbolism of a higher civilization must be predicated on the concept of the Fatherhood of God and be pregnant with the mighty ideal of the brotherhood of man. [[UB 87:7.6](/en/The_Urantia_Book/87#p7_6)]
+And this higher symbolism of a higher civilization must be predicated on the concept of the Fatherhood of God and be pregnant with the mighty ideal of the brotherhood of man. <a id="a216_175"></a>[[UB 87:7.6](/en/The_Urantia_Book/87#p7_6)]
 
 What context can possibly satisfy all of these constraints? Here is one dynamic possibility: Have periodic ‘Celebrations of the Indwelling Spirits of God’ by inviting our neighbors and friends to our homes (or church) for a family meal and a ritual Remembrance of the presence of Jesus as the spirit of Truth. Individual expressions could then promote an evolution of the symbolism. 
 

@@ -42,7 +42,7 @@ Such readers are then free to determine for themselves how the spiritual compone
 
 **What then is the intended role of the extraordinarily prophetic information also included in the text of the Papers?**—information like the radius of the electron as discovered by Stefan Tallqvist that would have been quite impossible for any human to know at the time of the book’s first publication. (see later article [“The Radius of the Electron.”](/en/article/Stefan_Tallqvist/Radius_of_the_Electron))
 
-It seems that the authors of the Papers were confronted with a “balancing on a knife edge” type of task. The Papers explain the value of our free will, “_As pertains to eternal survival, God has decreed the sovereignty of the material and mortal will, and ***that decree is absolute***._” ([UB 5:6.8](/en/The_Urantia_Book/5#p6_8))
+It seems that the authors of the Papers were confronted with a “balancing on a knife edge” type of task. The Papers explain the value of our free will, “_As pertains to eternal survival, God has decreed the sovereignty of the material and mortal will, and ***that decree is absolute***._” (<a id="a44_290"></a>[UB 5:6.8](/en/The_Urantia_Book/5#p6_8))
 
 It does not take excessive concentration to perceive how miraculous demonstrations of any kind may interfere with our free will to choose our own preferred way rather than what we might perceive to be God’s way. Belief in miracles has coerced many a Christian to acquiesce to the Mosaic law against the desires of their own free will.
 
@@ -54,7 +54,7 @@ The revelators also had the difficult task that, while discouraging a “divine 
 
 Looked upon in this light, the revelators have accomplished their assignment magnificently—to the point that they were even permitted to include this prophecy on the last page of their presentation:
 
-> “_Be not discouraged. Human evolution is still in progress, and the revelation of God to the world, in and through Jesus, shall not fail._” ([UB 196:3.33](/en/The_Urantia_Book/196#p3_33))
+> “_Be not discouraged. Human evolution is still in progress, and the revelation of God to the world, in and through Jesus, shall not fail._” (<a id="a56_143"></a>[UB 196:3.33](/en/The_Urantia_Book/196#p3_33))
 
 > Intelligence is quickness to apprehend as distinct from ability, which is capacity to act wisely on the thing aprehended. 
 > _Alfred North Whitehead_

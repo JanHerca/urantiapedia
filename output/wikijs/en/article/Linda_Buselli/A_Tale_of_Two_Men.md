@@ -46,7 +46,7 @@ What is so special about what Brother Laurence did? He seems to have reached a l
 
 Brother Laurence’s writings are very simple compared to passages in _The Urantia Book_, but they have touched so many minds and hearts because his was a living experience of God’s presence in everything he did. Many of the things he said are not too different from some of the book’s statements. For instance from _The Urantia Book_ : 
 
-> Those who know God have experienced the fact of his presence, such knowing mortals hold in their personal experience the only positive proof of the existence of the living God which one human being can offer to another. The existence of God is utterly beyond all possibility of demonstration except for the contact between the God- consciousness of the human mind and the God-presence of the Thought Adjuster that indwells the mortal intellect and is bestowed upon man as the free gift of the Universal Father. [[UB 1:2.8](/en/The_Urantia_Book/1#p2_8)]
+> Those who know God have experienced the fact of his presence, such knowing mortals hold in their personal experience the only positive proof of the existence of the living God which one human being can offer to another. The existence of God is utterly beyond all possibility of demonstration except for the contact between the God- consciousness of the human mind and the God-presence of the Thought Adjuster that indwells the mortal intellect and is bestowed upon man as the free gift of the Universal Father. <a id="a48_513"></a>[[UB 1:2.8](/en/The_Urantia_Book/1#p2_8)]
 
 Note this difference of delivery from Brother Laurence: 
 
@@ -54,13 +54,13 @@ Note this difference of delivery from Brother Laurence:
 
 Here is another comparison from _The Urantia Book_ : 
 
-> “ (Prayer) is a spontaneous outburst of God- consciousness .” [[UB 91:8.10](/en/The_Urantia_Book/91#p8_10)]
+> “ (Prayer) is a spontaneous outburst of God- consciousness .” <a id="a56_64"></a>[[UB 91:8.10](/en/The_Urantia_Book/91#p8_10)]
 
 And from Brother Laurence: “My prayers are nothing other than a sense of the presence of God”. 
 
 Brother Laurence also said: “I am more united to God in my outward employments than when I leave them for devotion and retirement.” 
 
-Compare that with this _Urantia Book_ quote: “The contact of the mortal mind with its indwelling Adjuster, while often favored by devoted meditation, is more frequently facilitated by wholehearted and loving service in unselfish ministry to one’s fellow creatures.” [[UB 91:7.1](/en/The_Urantia_Book/91#p7_1)]
+Compare that with this _Urantia Book_ quote: “The contact of the mortal mind with its indwelling Adjuster, while often favored by devoted meditation, is more frequently facilitated by wholehearted and loving service in unselfish ministry to one’s fellow creatures.” <a id="a62_266"></a>[[UB 91:7.1](/en/The_Urantia_Book/91#p7_1)]
 
 _The Urantia Book_ tells us we will be known by our example of living the fruits of the spirit. Here is an observation of Brother Laurence written by someone who knew him: 
 
@@ -78,7 +78,7 @@ Many of his statements mirror some from _The Urantia Book_. For instance:
 
 From _The Urantia Book_ : 
 
-> No chick may be had without the shell, and no shell is of any worth after the chick is hatched. [[UB 48:6.32](/en/The_Urantia_Book/48#p6_32)]
+> No chick may be had without the shell, and no shell is of any worth after the chick is hatched. <a id="a80_98"></a>[[UB 48:6.32](/en/The_Urantia_Book/48#p6_32)]
 
 Brother Laurence at one point indicates that a few of his associates thought he may be becoming too mystical with these exercises. Both men have been accused of being mystics, yet have functioned in their lives quite successfully and with great joy and faith. In fact, Brother Laurence laughed when accused of being a mystic. He said: “How can anyone who believes in Jesus not be a Mystic?” 
 
@@ -98,7 +98,7 @@ At one point he had become discouraged with his efforts:
 
 And later in his efforts: 
 
-> “Usually, you will feel no deep emotion, but will always have a “peace that passeth all understanding.” Remember, this statement from _The Urantia Book_? “ _Genuine spiritual ecstasy is usually associated with great outward calmness and almost perfect emotional control._ ” [UB 91:7.3](/en/The_Urantia_Book/91#p7_3)
+> “Usually, you will feel no deep emotion, but will always have a “peace that passeth all understanding.” Remember, this statement from _The Urantia Book_? “ _Genuine spiritual ecstasy is usually associated with great outward calmness and almost perfect emotional control._ ” <a id="a100_276"></a>[UB 91:7.3](/en/The_Urantia_Book/91#p7_3)
 
 After almost two years of constant effort, Frank Laubach made this entry in his diary: 
 
@@ -108,7 +108,7 @@ This simple practice requires only a gentle pressure of the will, not more than 
 
 Yet it transforms life into heaven. Everybody takes on a new richness, and all the world seems tinted with glory. I do not, of course, know what others think of me, but the joy which I have within cannot be described. If there were never other reward than that, it would more than justify the practice to me. 
 
-> Even to approach the knowing of a divine personality, all of man’s personality endowments must be wholly consecrated to the effort; half- hearted partial devotion will be unavailing. You can argue over opinions about God, but experience with him and in him exists above and beyond all human controversy and mere intellectual logic. [[UB 1:6.5-6](/en/The_Urantia_Book/1#p6_5)]
+> Even to approach the knowing of a divine personality, all of man’s personality endowments must be wholly consecrated to the effort; half- hearted partial devotion will be unavailing. You can argue over opinions about God, but experience with him and in him exists above and beyond all human controversy and mere intellectual logic. <a id="a110_334"></a>[[UB 1:6.5-6](/en/The_Urantia_Book/1#p6_5)]
 
 I have tried to come up with some suggestions based on personal experiences and those of friends. Here some definitions may be needed. For instance, meditation is generally understood to imply the silencing of thought so that the Adjuster can communicate with the individual. The process Brother Laurence and Frank Laubach suggest, rather than an emptying of the mind, is a conscious filling of the mind with the presence of God. Everyone defines meditation according to the way they personally express it, including conversation, so expectations vary among individuals. 
 

@@ -42,7 +42,7 @@ Another curiosity is its inclusion of materials that appear to approach the impo
 
 The inclusion of these materials certainly did nothing to support the book’s claim to revelatory authenticity. Curiously, they could have been omitted whether true or not, and the book would have lost nothing of importance. However the sheer intellectual brilliance demonstrated by the revelators in so many other parts of the book lead many of us to conclude that the “funny stuff” has been included for a good reason. What could that reason be?
 
-Ann Bendall’s article on intolerance contains some observations that may be relevant. Ann reminds us that the book affirms: “_Only with revealed religion did autocratic and intolerant theologic egotism appear._” ([UB 92:7.2](/en/The_Urantia_Book/92#p7_2)) Ann also comments that one of the risks with a revealed religion is that it has the tendency to diminish the need for living faith as well as to foster the “chosen few” phenomenon.
+Ann Bendall’s article on intolerance contains some observations that may be relevant. Ann reminds us that the book affirms: “_Only with revealed religion did autocratic and intolerant theologic egotism appear._” (<a id="a44_213"></a>[UB 92:7.2](/en/The_Urantia_Book/92#p7_2)) Ann also comments that one of the risks with a revealed religion is that it has the tendency to diminish the need for living faith as well as to foster the “chosen few” phenomenon.
 
 Possibly Ann’s observations may throw light on just why _The Urantia Book_ has been written in such a strange manner. The expectations for the Fourth Epochal Revelation were not fulfilled as hoped for. This was largely because of the distortions that occurred to the concept of the kingdom of heaven as taught by Jesus during the early years of Christendom.
 
@@ -52,7 +52,7 @@ Jesus taught that the cardinal features of the gospel of the kingdom were:
 - The will as the determining factor in man’s experience.
 - Spiritual fellowship with God, the Father
 - The supreme satisfactions of the loving service of man.
-- The transcendence of the spiritual over the material in human personality. ([UB 170:4.9-13](/en/The_Urantia_Book/170#p4_9))
+- The transcendence of the spiritual over the material in human personality. (<a id="a54_78"></a>[UB 170:4.9-13](/en/The_Urantia_Book/170#p4_9))
 
 None of these features appear in the text of the Nicene Creed to which virtually all Christians subscribe as the encoding of their basic beliefs.
 
@@ -64,7 +64,7 @@ In this transition Jesus’ death as signifying salvation from sin became a prin
 
 In the light of what we humans did to the Fourth Epochal Revelation, is it not logical and natural that the revelators should take precautions to avoid a disaster to the Fifth?
 
-It may be that they considered fundamentalism to be a major threat for it is the very hallmark of fundamentalism that, “_autocratic and intolerant theologic egotism appear._” ([UB 92:7.2](/en/The_Urantia_Book/92#p7_2))
+It may be that they considered fundamentalism to be a major threat for it is the very hallmark of fundamentalism that, “_autocratic and intolerant theologic egotism appear._” (<a id="a66_176"></a>[UB 92:7.2](/en/The_Urantia_Book/92#p7_2))
 
 It appears to be that fundamentalism invariably transforms its sources into sacred objects—the Bible, the Koran, the Book of Mormon, _The Urantia Book_, etc,—with their content eventually becoming divine proclamations. One possible way to defeat such a fate for a new revelation could be to include unbelievable material that would permit critics, opponents, and skeptics to ridicule or vilify it.
 
@@ -82,9 +82,9 @@ And why do the vast majority of us believe that there was something very special
 
 Is it possible that an updated version of the story of the Pharisee in the temple praying, “I thank you God that I am not like that publican over there. . . ” could become a _Urantia Book_ reader praying, “I thank you God that I am not like that Christian over there.” But, of course, we are forgetting that _Urantia Book_ readers don’t pray—they communicate!
 
-We owe thanks to Ann for reminding us about the “chosen people” syndrome. Jesus extolled the virtue of true humility. He even said, “_the first shall be last and the last shall be first._” ([UB 163:3.4](/en/The_Urantia_Book/163#p3_4); [Mark 10:31](/en/Bible/Mark/10#v31))
+We owe thanks to Ann for reminding us about the “chosen people” syndrome. Jesus extolled the virtue of true humility. He even said, “_the first shall be last and the last shall be first._” (<a id="a84_190"></a>[UB 163:3.4](/en/The_Urantia_Book/163#p3_4); [Mark 10:31](/en/Bible/Mark/10#v31))
 
-The book informs us that, “_the ideas and ideals of Jesus, embodied in the teaching of the gospel of the kingdom nearly failed. . . Then it says, “But doubt not, this same kingdom of heaven which the Master taught exists within the heart of the believer, will yet be proclaimed to the Christian church (who has that task?), even as to all other religions, races and nations on earth—even to every individual._” ([UB 170:5.4](/en/The_Urantia_Book/170#p5_4); [UB 170:5.8](/en/The_Urantia_Book/170#p5_8))
+The book informs us that, “_the ideas and ideals of Jesus, embodied in the teaching of the gospel of the kingdom nearly failed. . . Then it says, “But doubt not, this same kingdom of heaven which the Master taught exists within the heart of the believer, will yet be proclaimed to the Christian church (who has that task?), even as to all other religions, races and nations on earth—even to every individual._” (<a id="a86_412"></a>[UB 170:5.4](/en/The_Urantia_Book/170#p5_4); <a id="a86_457"></a>[UB 170:5.8](/en/The_Urantia_Book/170#p5_8))
 
 So what is it that is to be proclaimed? Here are a few of its components:
 

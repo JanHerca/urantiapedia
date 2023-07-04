@@ -42,7 +42,7 @@ The mercy delays of time are by the mandate of the free will of the Creators. Th
 
 To realize providence in time, mankind must accomplish the task of achieving perfection. But the individual can even now foretaste this providence in its eternity meanings as each ponders the universe fact that all things, be they good or evil, work together for the advancement of God-knowing mortals in the quest for the Father of all.
 
-Said Jesus, “I have absolute confidence in my heavenly Father's overcare; I am consecrated to doing the will of my Father in heaven. I do not believe that real harm can befall me; I do not believe that my lifework can really be jeopardized by anything my enemies might wish to visit upon me, and surely we have no violence to fear from our friends. I am absolutely assured that the entire universe is friendly to me—this all-powerful truth I insist on believing with a wholehearted trust in spite of all appearances to the contrary.” ([UB 133:1.4](/en/The_Urantia_Book/133#p1_4))
+Said Jesus, “I have absolute confidence in my heavenly Father's overcare; I am consecrated to doing the will of my Father in heaven. I do not believe that real harm can befall me; I do not believe that my lifework can really be jeopardized by anything my enemies might wish to visit upon me, and surely we have no violence to fear from our friends. I am absolutely assured that the entire universe is friendly to me—this all-powerful truth I insist on believing with a wholehearted trust in spite of all appearances to the contrary.” (<a id="a44_535"></a>[UB 133:1.4](/en/The_Urantia_Book/133#p1_4))
 
 ## External links
 

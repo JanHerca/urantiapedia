@@ -33,7 +33,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 
 There is an alternative and quite different interpretation of the 48 chromosome polemic. In this instance, we simply accept that the authors followed their mandate to the letter. Hence, though they would have been aware that two of our chromosomes had fused to bring the number to 46, they conformed to the rule that they were not permitted to give us unearned knowledge (except in special circumstances), and so they remained with the then current count of 48.
 
-In her article entitled "Intolerance" in the previous issue of Innerface, Ann Bendall commented, "When it comes to intolerance for another group's religious beliefs, it is interesting that _The Urantia Book_ affirms, “_Only with revealed religion did autocratic and intolerant theologic egotism appear._” ([UB 92:7.2](/en/The_Urantia_Book/92#p7_2))
+In her article entitled "Intolerance" in the previous issue of Innerface, Ann Bendall commented, "When it comes to intolerance for another group's religious beliefs, it is interesting that _The Urantia Book_ affirms, “_Only with revealed religion did autocratic and intolerant theologic egotism appear._” (<a id="a35_306"></a>[UB 92:7.2](/en/The_Urantia_Book/92#p7_2))
 
 Surely the revelators were inferring that autocratic and intolerant theologic egotism would inevitably make an appearance among the readership of _The Urantia Book_.
 
@@ -43,7 +43,7 @@ Questioned about this, these biblical fundamentalists will declare that hard phy
 
 The revelators must have known that similar things could happen with the interpretation of materials contained in _The Urantia Book_.  One possible way to avoid fundamentalism dominating the future course of events with the book was simply to sometimes take the mandate literally, and use the human source materials exactly as they were written.
 
-That we must reflect deeply on how we think about _The Urantia Book_ is indicated by: "Revelation is evolutionary but always progressive....If revelation is to exalt and upstep the religions of evolution...(it) must portray teachings not too far removed from the **thoughts and reactions of the age** in which they are presented....Always must the religion of revelation be limited by man's **capacity of receptivity.**" ([UB 92:4.1](/en/The_Urantia_Book/92#p4_1))
+That we must reflect deeply on how we think about _The Urantia Book_ is indicated by: "Revelation is evolutionary but always progressive....If revelation is to exalt and upstep the religions of evolution...(it) must portray teachings not too far removed from the **thoughts and reactions of the age** in which they are presented....Always must the religion of revelation be limited by man's **capacity of receptivity.**" (<a id="a45_422"></a>[UB 92:4.1](/en/The_Urantia_Book/92#p4_1))
 
 We must also beware of possible changes to the meaning of words during the evolution of language. For example, the word "cosmology" is used in the book in a quite different way from its current usage, and in a way that drastically changes the meaning of many statements in which it occurs.
 
@@ -55,7 +55,7 @@ If  we take "not inspired" to mean "without dogmatic celestial authority" and "
 
 The authors leave it to the reader to sort out what, for them, is "inspired" from mere "cosmology" which is not.
 
-This is really not so difficult once we rid our minds of our fundamentalist-type of preconceived notions. And if we err, the fault is ours, not the revelators. They have given us specific warning. ([UB 101:4.2](/en/The_Urantia_Book/101#p4_2))
+This is really not so difficult once we rid our minds of our fundamentalist-type of preconceived notions. And if we err, the fault is ours, not the revelators. They have given us specific warning. (<a id="a57_198"></a>[UB 101:4.2](/en/The_Urantia_Book/101#p4_2))
 
 ## External links
 

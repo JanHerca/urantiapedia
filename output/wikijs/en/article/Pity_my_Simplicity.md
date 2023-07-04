@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> “. . . the simple teachings of the Jesusonian gospel: sonship with God, brotherhood with man, and ever-ascending citizenship in the eternal universe.” ([UB 94:10.3](/en/The_Urantia_Book/94#p10_3))
+> “. . . the simple teachings of the Jesusonian gospel: sonship with God, brotherhood with man, and ever-ascending citizenship in the eternal universe.” (<a id="a36_154"></a>[UB 94:10.3](/en/The_Urantia_Book/94#p10_3))
 
 The key to this “simple” doctrine is the very nature of God as it was revealed in the life of Jesus of Nazareth. This nature was most effectively revealed in Jesus’ parables, in particular, in these:
 

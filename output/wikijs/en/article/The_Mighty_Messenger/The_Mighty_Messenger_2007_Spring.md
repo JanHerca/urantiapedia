@@ -122,7 +122,7 @@ If you would like to contribute to this work, donations can be made online at: w
 
 We deeply appreciate your continuing financial help. Michelle Klimesh, Pipeline Coordinator
 
-> The acts of today are the destiny of tomorrow. [[UB 48:7.26](/en/The_Urantia_Book/48#p7_26)]
+> The acts of today are the destiny of tomorrow. <a id="a124_49"></a>[[UB 48:7.26](/en/The_Urantia_Book/48#p7_26)]
 
 ## GC Visits Phoenix
 

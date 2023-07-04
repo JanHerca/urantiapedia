@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> “Four and a half billion years ago the enormous Angona system began its approach to the neighborhood of our solitary sun. The center of this great system was a dark giant of space, solid, highly charged, and possessing tremendous gravity pull.” (from [UB 57:5.4](/en/The_Urantia_Book/57#p5_4))
+> “Four and a half billion years ago the enormous Angona system began its approach to the neighborhood of our solitary sun. The center of this great system was a dark giant of space, solid, highly charged, and possessing tremendous gravity pull.” (from <a id="a36_253"></a>[UB 57:5.4](/en/The_Urantia_Book/57#p5_4))
 
 In its account of the formation of the solar system, The Urantia Book credits the Angona system as being the source of an enormous gravitational disturbance that partially disrupted the sun, thereby creating the disk of material that, by accretion, eventually gave rise to the planets, comets, meteors, dust, etc., of our solar system.
 
@@ -44,7 +44,7 @@ The evidence for these disasters shows up on Earth at 12, 38, 65, 92, and 125 mi
 
 Could this collapsed star be Angona, The Urantia Book’s culprit for the initiation of the solar system? From the book’s account, the visit of Angona to the neighborhood of the sun lasted for about 500 million years, sufficient time for in the order of twenty visits from the Nemesis Death Star. At a guess, it seems unlikely they are the same system.
 
-Because of the scientific evidence that has accumulated since the Papers were received in 1934, a review is now needed of the book’s cosmology for solar system origins. Was it meant to be taken as fact, or is it a “near enough” account so as to serve as fill material of a “universe frame in which to think?” (see [UB 115:1.1](/en/The_Urantia_Book/115#p1_1))
+Because of the scientific evidence that has accumulated since the Papers were received in 1934, a review is now needed of the book’s cosmology for solar system origins. Was it meant to be taken as fact, or is it a “near enough” account so as to serve as fill material of a “universe frame in which to think?” (see <a id="a46_314"></a>[UB 115:1.1](/en/The_Urantia_Book/115#p1_1))
 
 The revelators implicitly state that the universe rules for revelation proscribe the furnishing of unearned knowledge—but allow the provision of information to fill vital missing gaps in human knowledge.
 

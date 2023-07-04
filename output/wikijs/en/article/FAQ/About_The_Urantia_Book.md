@@ -22,7 +22,7 @@ dateCreated: 2022-11-28T14:02:03.086Z
 
 ## What is The Urantia Book?
 
-_The Urantia Book_ is a revelation of truth for our world from higher beings in the universe. Its teachings blend science, philosophy, history, cosmology and religion seamlessly into a big picture revealing our origin, our purpose, and our divine and eternal destiny, “the agelong process from animal to angel, from angel to spirit, from spirit to God.” _The Urantia Book_, [UB 48:8.4](/en/The_Urantia_Book/48#p8_4)
+_The Urantia Book_ is a revelation of truth for our world from higher beings in the universe. Its teachings blend science, philosophy, history, cosmology and religion seamlessly into a big picture revealing our origin, our purpose, and our divine and eternal destiny, “the agelong process from animal to angel, from angel to spirit, from spirit to God.” _The Urantia Book_, <a id="a24_374"></a>[UB 48:8.4](/en/The_Urantia_Book/48#p8_4)
 
 The teachings include information on the composition, organization, administration, and personalities of the cosmos; the history of our planet; our continuing spiritual evolution; a new view of reality by clarifying the concepts of personality, mind, and soul; the evolutionary experience of our progression towards God in partnership with God’s spirit in our minds; and lastly, an enlarged account of the life and teachings of Jesus. (Source: Theoquest & Education Committee)
 
@@ -32,7 +32,7 @@ See [How The Urantia Papers came to be according to The Revelators](/en/article/
 
 ## Why was The Urantia Book written?
 
-_The Urantia Book_ was written “to expand cosmic consciousness and enhance spiritual perception” [UB 0:0.2](/en/The_Urantia_Book/0#p0_2) of the peoples of Urantia, our planet. It provides a panoramic view of the illimitable size of space and time, demonstrating the order of the cosmos and illustrating the unimaginable dimensions of the universe of universes. From beginning to end, _The Urantia Book_ also provides an appreciation of how each human being may enhance their own experience of God, of truth, beauty and goodness and of the unconditional love of God for each of us. The book describes “the whole scheme of living existences on the worlds of space as centered in the divine purpose of elevating all will creatures to the high destiny of the experience of sharing the Father’s Paradise perfection.” [UB 2:2.5](/en/The_Urantia_Book/2#p2_5)
+_The Urantia Book_ was written “to expand cosmic consciousness and enhance spiritual perception” <a id="a34_97"></a>[UB 0:0.2](/en/The_Urantia_Book/0#p0_2) of the peoples of Urantia, our planet. It provides a panoramic view of the illimitable size of space and time, demonstrating the order of the cosmos and illustrating the unimaginable dimensions of the universe of universes. From beginning to end, _The Urantia Book_ also provides an appreciation of how each human being may enhance their own experience of God, of truth, beauty and goodness and of the unconditional love of God for each of us. The book describes “the whole scheme of living existences on the worlds of space as centered in the divine purpose of elevating all will creatures to the high destiny of the experience of sharing the Father’s Paradise perfection.” <a id="a34_812"></a>[UB 2:2.5](/en/The_Urantia_Book/2#p2_5)
 
 ## What is Urantia Foundation?
 

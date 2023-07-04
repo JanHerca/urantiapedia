@@ -72,11 +72,11 @@ But in the eyes of his heavenly Father, he had earned his place as the Master Cr
 
 ## Post-baptismal aims and motives
 
-> “There was just one motive in Jesus’ post-baptismal life on Urantia, and that was a better and truer revelation of his Paradise Father.” ([UB 138:6.4](/en/The_Urantia_Book/138#p6_4))
+> “There was just one motive in Jesus’ post-baptismal life on Urantia, and that was a better and truer revelation of his Paradise Father.” (<a id="a74_140"></a>[UB 138:6.4](/en/The_Urantia_Book/138#p6_4))
 
 Jesus’ life is a divinely certified pattern life for all of his universe children. To his followers, he said,
 
-> “Do you not understand that. . . you are to represent me in the world and in the proclamation of the kingdom, even as I now represent the Father who is in heaven?” ([UB 138:7.1](/en/The_Urantia_Book/138#p7_1))
+> “Do you not understand that. . . you are to represent me in the world and in the proclamation of the kingdom, even as I now represent the Father who is in heaven?” (<a id="a78_167"></a>[UB 138:7.1](/en/The_Urantia_Book/138#p7_1))
 
 Jesus made no compromises in instructing us concerning the motivation of our mortal lives. His motive is to be our motive, our earthly lives are to represent him as he represented the Father, we are to emulate the goals and purposes of his life—just as he did—by attempting to actually be, in our day to day activities, a revelation of the true nature of God, our Father. Nothing less is permissible.
 

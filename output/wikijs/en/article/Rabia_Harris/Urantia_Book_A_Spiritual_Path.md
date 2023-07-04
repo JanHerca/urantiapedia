@@ -104,7 +104,7 @@ Maybe it’s time to begin to use new words for our spiritual connections. The w
 
 All quotes from the _Urantia Book_: 
 
-[^1]: [UB 19:2.6](/en/The_Urantia_Book/19#p2_6); 
-[^2]: [UB 195:10.18](/en/The_Urantia_Book/195#p10_18); 
-[^3]: [UB 196:2.1](/en/The_Urantia_Book/196#p2_1) 
+[^1]: <a id="a106_6"></a>[UB 19:2.6](/en/The_Urantia_Book/19#p2_6); 
+[^2]: <a id="a107_6"></a>[UB 195:10.18](/en/The_Urantia_Book/195#p10_18); 
+[^3]: <a id="a108_6"></a>[UB 196:2.1](/en/The_Urantia_Book/196#p2_1) 
 

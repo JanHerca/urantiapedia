@@ -36,7 +36,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 An understanding of the term “God-playing” as used by Rev’d Earl Jabay in his book “The Kingdom of Self” may be helpful to all of us in our efforts to fulfil the hopes of Jesus as announced in the Urantia Papers by their authors.
 
-> “**Your mission to the world** is founded on the fact that I lived a God-revealing life among you; on the truth that you and all other men are the sons of God; and **it shall consist in the life which you will live among men**—the actual and living experience of loving men and serving them, even as I have loved and served you.” ([UB 191:5.3](/en/The_Urantia_Book/191#p5_3))
+> “**Your mission to the world** is founded on the fact that I lived a God-revealing life among you; on the truth that you and all other men are the sons of God; and **it shall consist in the life which you will live among men**—the actual and living experience of loving men and serving them, even as I have loved and served you.” (<a id="a38_333"></a>[UB 191:5.3](/en/The_Urantia_Book/191#p5_3))
 
 If we are to effectively express the life lived by Jesus in our own lives, we certainly need to be free of even the remnants of the God-playing syndrome, which, one way or another afflicts all of us.
 
@@ -66,7 +66,7 @@ But his now ex-friend was fighting to preserve one of the deepest convictions we
 
 God-playing has been the source of many of the major tragedies of history, brought about by men like Napoleon, Hitler, Stalin, and many others. But if we could summate the actual damage to humanity due to the God-playing of ordinary individuals like you and me, that sum would far exceed the damage caused by the spectacular examples of recorded history.
 
-The requirement that we live our lives as Jesus lived his is fraught with danger, particularly if we see ourselves in leadership roles rather than that of humbly serving “as we pass by.” Prominent in the article that follows is an extraordinary statement made by Jesus at the time when he was first gathering together those who later became his apostles: “Jesus explained that he had purposely ignored the ‘great men of earth.’” ([UB 141:7.8](/en/The_Urantia_Book/141#p7_8))
+The requirement that we live our lives as Jesus lived his is fraught with danger, particularly if we see ourselves in leadership roles rather than that of humbly serving “as we pass by.” Prominent in the article that follows is an extraordinary statement made by Jesus at the time when he was first gathering together those who later became his apostles: “Jesus explained that he had purposely ignored the ‘great men of earth.’” (<a id="a68_430"></a>[UB 141:7.8](/en/The_Urantia_Book/141#p7_8))
 
 Apparently the task carried out by Jesus in his revelation, and now to be continued by this new revelation in the Urantia Papers, could be carried out effectively **only by the “ordinary” men and women of Jesus’ day**. More and more, it is beginning to appear also that this new revelation can only be made effective through the actual lives lived by the modern equivalent of the same kind of “ordinary” folk.
 
@@ -74,7 +74,7 @@ Most of the “great men of earth” who belonged to the society into which Jesu
 
 Jesus was fond of making comments such as, “He who would be greatest among you, let him first be the servant of all.” This type of qualification was not at all a part of the make-up of the “great men of earth” of the Jewish populace of that day. They had a quite different outlook upon life, one we would now term as an acute egocentricity. Jesus described them in this way:
 
-> “Furthermore, these self-centered rulers delight in doing their good works so that they will be seen by men. They make broad their phylacteries and enlarge the borders of their official robes. They crave the chief places at the feasts and demand the chief seats in the synagogues. They covet laudatory salutations in the market places and desire to be called rabbi by all men. And even while they seek all this honor from men, they secretly lay hold of widows’ houses and take profit from the services of the sacred temple. For a pretense these hypocrites make long prayers in public and give alms to attract the notice of their fellows.” ([UB 175:1.9](/en/The_Urantia_Book/175#p1_9))
+> “Furthermore, these self-centered rulers delight in doing their good works so that they will be seen by men. They make broad their phylacteries and enlarge the borders of their official robes. They crave the chief places at the feasts and demand the chief seats in the synagogues. They covet laudatory salutations in the market places and desire to be called rabbi by all men. And even while they seek all this honor from men, they secretly lay hold of widows’ houses and take profit from the services of the sacred temple. For a pretense these hypocrites make long prayers in public and give alms to attract the notice of their fellows.” (<a id="a76_642"></a>[UB 175:1.9](/en/The_Urantia_Book/175#p1_9))
 
 Jesus lived his life as a revelation of the nature of his heavenly Father—a God of love, mercy, and compassion. Jesus lived for people like you and me. And Jesus died for people like you and me.
 
@@ -84,7 +84,7 @@ We now have a full and unsullied record of that life and death. What are we goin
 
 “That is the burning question.”
 
-> Is spirit of self-forgetfulness—desirable? Then must mortal man live face to face with the incessant clamoring of an inescapable self for recognition and honor. ([UB 3:5.13](/en/The_Urantia_Book/3#p5_13))
+> Is spirit of self-forgetfulness—desirable? Then must mortal man live face to face with the incessant clamoring of an inescapable self for recognition and honor. (<a id="a86_164"></a>[UB 3:5.13](/en/The_Urantia_Book/3#p5_13))
 
 ## External links
 

@@ -36,20 +36,20 @@ dateCreated: 2022-9-9T8:13:39Z
 
 It would appear so. There are just so many statements in the Papers that appear to express the hopes of the revelators that some kind of renewal movement will take the churches back to the original teachings of Jesus. The first line or so of some of these follows:
 
-- There must come a revival of the actual teachings of Jesus. . .  ([UB 170:5.19](/en/The_Urantia_Book/170#p5_19))
-- All Urantia is waiting for the proclamation of the ennobling message. . . ([UB 94:12.7](/en/The_Urantia_Book/94#p12_7))
-- The concept of Jesus is still alive. . . ([UB 170:5.17](/en/The_Urantia_Book/170#p5_17))
-- Thus does the so-called Christian church become the cocoon. . . ([UB 170:5.21](/en/The_Urantia_Book/170#p5_21))
-- But paganized and socialized Christianity stands in need. . . ([UB 195:9.2](/en/The_Urantia_Book/195#p9_2))
-- The hour is striking for a rediscovery of the true and original foundations. . . ([UB 195:9.5](/en/The_Urantia_Book/195#p9_5))
-- Christianity has indeed done a great service. . . but what is now most needed. . . ([UB 195:10.1](/en/The_Urantia_Book/195#p10_1))
-- The living Jesus is the only hope of a possible unification of Christianity. . . ([UB 195:10.11](/en/The_Urantia_Book/195#p10_11))
-- The great hope of Urantia lies in the possibility of a new revelation. . . which will spiritually unite. . . the numerous families. . . ([UB 195:10.16](/en/The_Urantia_Book/195#p10_16))
-- If Christianity could only grasp more. . . ([UB 195:10.19](/en/The_Urantia_Book/195#p10_19))
-- The hope of modern Christianity. . . to learn anew from Jesus. . . ([UB 195:10.21](/en/The_Urantia_Book/195#p10_21))
-- The time is ripe to witness the figurative resurrection of the human Jesus. . . ([UB 196:1.2](/en/The_Urantia_Book/196#p1_2))
-- Some day a reformation in the Christian church may strike deep enough. . . ([UB 196:2.1](/en/The_Urantia_Book/196#p2_1))
-- What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions! ([UB 196:1.2](/en/The_Urantia_Book/196#p1_2))
+- There must come a revival of the actual teachings of Jesus. . .  (<a id="a38_68"></a>[UB 170:5.19](/en/The_Urantia_Book/170#p5_19))
+- All Urantia is waiting for the proclamation of the ennobling message. . . (<a id="a39_77"></a>[UB 94:12.7](/en/The_Urantia_Book/94#p12_7))
+- The concept of Jesus is still alive. . . (<a id="a40_44"></a>[UB 170:5.17](/en/The_Urantia_Book/170#p5_17))
+- Thus does the so-called Christian church become the cocoon. . . (<a id="a41_67"></a>[UB 170:5.21](/en/The_Urantia_Book/170#p5_21))
+- But paganized and socialized Christianity stands in need. . . (<a id="a42_65"></a>[UB 195:9.2](/en/The_Urantia_Book/195#p9_2))
+- The hour is striking for a rediscovery of the true and original foundations. . . (<a id="a43_84"></a>[UB 195:9.5](/en/The_Urantia_Book/195#p9_5))
+- Christianity has indeed done a great service. . . but what is now most needed. . . (<a id="a44_86"></a>[UB 195:10.1](/en/The_Urantia_Book/195#p10_1))
+- The living Jesus is the only hope of a possible unification of Christianity. . . (<a id="a45_84"></a>[UB 195:10.11](/en/The_Urantia_Book/195#p10_11))
+- The great hope of Urantia lies in the possibility of a new revelation. . . which will spiritually unite. . . the numerous families. . . (<a id="a46_139"></a>[UB 195:10.16](/en/The_Urantia_Book/195#p10_16))
+- If Christianity could only grasp more. . . (<a id="a47_46"></a>[UB 195:10.19](/en/The_Urantia_Book/195#p10_19))
+- The hope of modern Christianity. . . to learn anew from Jesus. . . (<a id="a48_70"></a>[UB 195:10.21](/en/The_Urantia_Book/195#p10_21))
+- The time is ripe to witness the figurative resurrection of the human Jesus. . . (<a id="a49_83"></a>[UB 196:1.2](/en/The_Urantia_Book/196#p1_2))
+- Some day a reformation in the Christian church may strike deep enough. . . (<a id="a50_78"></a>[UB 196:2.1](/en/The_Urantia_Book/196#p2_1))
+- What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions! (<a id="a51_233"></a>[UB 196:1.2](/en/The_Urantia_Book/196#p1_2))
 
 > Man is quite insane. He wouldn't know how to create a maggot, and he creates Gods by the dozen.
 > _Michel de Montaigne_
@@ -57,9 +57,9 @@ It would appear so. There are just so many statements in the Papers that appear 
 > While I thought I was learning how to live, I have been learning how to die.
 > _Leonardo da Vinci_
 
-One thing for sure is that we will not achieve anything positive by criticizing Christianity for their errors and extolling the superiority of the Urantia Book teachings. Those that think so need only study the incident of Simon Zelotes’ failure with Teherma, the Persian, ([UB 141:6.1](/en/The_Urantia_Book/141#p6_1)) to appreciate the superiority of Jesus’ positive approach of allowing truth to do its own work rather than criticizing errors as a means of procuring spiritual advancement.
+One thing for sure is that we will not achieve anything positive by criticizing Christianity for their errors and extolling the superiority of the Urantia Book teachings. Those that think so need only study the incident of Simon Zelotes’ failure with Teherma, the Persian, (<a id="a59_274"></a>[UB 141:6.1](/en/The_Urantia_Book/141#p6_1)) to appreciate the superiority of Jesus’ positive approach of allowing truth to do its own work rather than criticizing errors as a means of procuring spiritual advancement.
 
-We can perhaps learn what we must do from a description on [UB 144:6.3](/en/The_Urantia_Book/144#p6_3), of how Jesus handled problems that arose between his apostles and the followers of John the Baptist, led by Abner.
+We can perhaps learn what we must do from a description on <a id="a61_59"></a>[UB 144:6.3](/en/The_Urantia_Book/144#p6_3), of how Jesus handled problems that arose between his apostles and the followers of John the Baptist, led by Abner.
 
 Points of difference had arisen concerning many issues—such as the nature of formal prayer, baptismal rites, repentance, etc, etc. Both sides tried to get Jesus to either take charge of the debating sessions or else to adjudicate on who was right. Jesus reply to all such attempts was along the lines of:
 
@@ -67,7 +67,7 @@ Points of difference had arisen concerning many issues—such as the nature of f
 > 
 > «If you have a personal difficulty in your relations with God, come to me and I will hear you and counsel you in the solution of your problem.»
 > 
-> “But when you enter upon the coordination of divergent human interpretations of religious questions and upon the socialization of religion, you are destined to solve all such problems **by your own decisions.**” ([UB 144:6.3](/en/The_Urantia_Book/144#p6_3))
+> “But when you enter upon the coordination of divergent human interpretations of religious questions and upon the socialization of religion, you are destined to solve all such problems **by your own decisions.**” (<a id="a69_215"></a>[UB 144:6.3](/en/The_Urantia_Book/144#p6_3))
 
 Many times in the Urantia Papers we are informed that we have a mission to perform, “which shall consist in the life you will live among men.”
 

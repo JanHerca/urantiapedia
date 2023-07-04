@@ -54,7 +54,7 @@ These megasuns are believed to have existed only at the beginning of time as onc
 
 The radiant energy from the gamma radiation emanating from megasun hypernovae should be detectable—but not with the instrumentation currently available. Their detection may come from a mission named “Exist” due to be flown from the International Space Station five years from now, or from NASA’s Next Generation Space Telescope, the planned successor of the Hubble.
 
-If the predictions turn out to be correct, it will be one more piece of substantiating evidence that Big Bang was real and that the cosmology given to us in the Urantia Papers was simply to provide a temporary universe frame that supplies a backdrop against which we can better understand our universe careers. ([UB 115:1.1](/en/The_Urantia_Book/115#p1_1))
+If the predictions turn out to be correct, it will be one more piece of substantiating evidence that Big Bang was real and that the cosmology given to us in the Urantia Papers was simply to provide a temporary universe frame that supplies a backdrop against which we can better understand our universe careers. (<a id="a56_312"></a>[UB 115:1.1](/en/The_Urantia_Book/115#p1_1))
 
 (For a discussion on this point, see the last page of [Innerface Vol. 7, No. 5](/en/index/articles_innerface#volume-7-no-5) which is available at [www.urantia-book.org/archive/newsletters/innerface.html.](http://www.urantia-book.org/archive/newsletters/innerface.html.))
 

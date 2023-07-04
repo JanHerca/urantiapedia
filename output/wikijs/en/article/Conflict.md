@@ -34,7 +34,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 </figure>
 
 
-"All conflict is evil." ([UB 111:4.11](/en/The_Urantia_Book/111#p4_11)) So announces the Fifth Epochal Revelation. Yet all around us, we observe _Urantia Book_ devotees in conflict.
+"All conflict is evil." (<a id="a36_25"></a>[UB 111:4.11](/en/The_Urantia_Book/111#p4_11)) So announces the Fifth Epochal Revelation. Yet all around us, we observe _Urantia Book_ devotees in conflict.
 
 "Well," we may say, "we do have to correct the misguided ones. And keep them in line when they disagree with us."
 

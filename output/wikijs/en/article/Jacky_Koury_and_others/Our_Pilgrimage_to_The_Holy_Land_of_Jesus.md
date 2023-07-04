@@ -72,7 +72,7 @@ One of the most dramatic and emotional examples of an experience from the trip b
 <img src="/image/article/The_Mighty_Messenger/2019_Spring/021.jpg">
 </figure>
 
-We then learn that Jesus was able to soothe himself with old memories of pleasant scenes from his earthly life, including the sunrises and sunsets on “the shimmering Sea of Galilee.” The recall of these memories gave him comfort “as he made his human heart strong and ready to encounter the traitor who should so soon betray him.” ([UB 182:3.10](/en/The_Urantia_Book/182#p3_10))
+We then learn that Jesus was able to soothe himself with old memories of pleasant scenes from his earthly life, including the sunrises and sunsets on “the shimmering Sea of Galilee.” The recall of these memories gave him comfort “as he made his human heart strong and ready to encounter the traitor who should so soon betray him.” (<a id="a74_332"></a>[UB 182:3.10](/en/The_Urantia_Book/182#p3_10))
 
 The way the light plays on the surface of the water, especially at sunrise and late in the day, is indeed remarkable. The accompanying photo may help to provide a feeling for the soothing memories that Jesus held in his mind on that terribly sad occasion. Diane had arranged for us to go out on the water by boat. It was late afternoon and the reflection of the clouds in the water was absolutely stunning! 
 

@@ -40,11 +40,11 @@ Cult used to be a pretty respectable term. My 1979 Webster’s New Collegiate Di
 
 1\. Formal religious veneration. worship. 2\. A system of religious beliefs also: its body of adherents. 3\. A religion regarded as unorthodox or spurious also its body of adherents. (Of special interest to us) 5.a. A great devotion to a person, idea or thing.
 
-> Religion, even the highest yet revealed in the universe of Nebadon—the earth life of Jesus of Nazareth. ([UB 102:8.7](/en/The_Urantia_Book/102#p8_7))
+> Religion, even the highest yet revealed in the universe of Nebadon—the earth life of Jesus of Nazareth. (<a id="a42_107"></a>[UB 102:8.7](/en/The_Urantia_Book/102#p8_7))
 
 We would probably place our community in category #2 or #5a, but there are those who would place us in #3. Notice that there is no definition that fits the way “cult” is commonly used today. Today it has the connotation of a group that uses brain washing and mind control techniques to completely control its members.
 
-On [UB 87:7.6](/en/The_Urantia_Book/87#p7_6), _The Urantia Book_ uses “cult” in the older and more positive sense of the word when it advises that a cult needs to develop based on our highest and best religious ideals. There is no doubt that someone looking to condemn _The Urantia Book_ would seize on this and use it to condemn the book and our community. But we would be amiss if we did not admit that there has been at least one group associated with our community that began to look like a cult?
+On <a id="a46_3"></a>[UB 87:7.6](/en/The_Urantia_Book/87#p7_6), _The Urantia Book_ uses “cult” in the older and more positive sense of the word when it advises that a cult needs to develop based on our highest and best religious ideals. There is no doubt that someone looking to condemn _The Urantia Book_ would seize on this and use it to condemn the book and our community. But we would be amiss if we did not admit that there has been at least one group associated with our community that began to look like a cult?
 
 Suppose that a decade or so ago, shortly before a certain group out in California disbanded, an investigative reporter heard rumors about this group. Then suppose the reporter had visited the group’s headquarters and had observed the preparations for nuclear holocaust—the weapons, the fortifications, the stocks of food, as well as the fact that the group’s leader was sequestered away in an upstairs command post.
 
@@ -65,7 +65,7 @@ Would it be wise to use advertising to create a positive image? I doubt that adv
 
 > There's no traffic jam at the second mile.
 
-On [UB 115:0.1](/en/The_Urantia_Book/115#p0_1) of the book, the authors tell us that we must: “do something as well as be something.” What we are is a collection of study groups; what we do is mainly study _The Urantia Book_. The two major organizations connected with _The Urantia Book_ are focused on activities related to the book and to study groups. These organizations are not philosophically or organizationally oriented toward outreach; their activities seem to focus mainly on encouraging the formation of study groups and promotion of the book.
+On <a id="a67_3"></a>[UB 115:0.1](/en/The_Urantia_Book/115#p0_1) of the book, the authors tell us that we must: “do something as well as be something.” What we are is a collection of study groups; what we do is mainly study _The Urantia Book_. The two major organizations connected with _The Urantia Book_ are focused on activities related to the book and to study groups. These organizations are not philosophically or organizationally oriented toward outreach; their activities seem to focus mainly on encouraging the formation of study groups and promotion of the book.
 
 Whatever the case, service outside the Urantia community does not seem to be high on the priority list of either organization. This is not to criticize the organizations; they are doing very valuable work. But the lack of any national organization to promote service work leaves the job to individuals and study groups. Doing service work is important, but our motives for doing it are equally important.
 
@@ -83,9 +83,9 @@ Shall we be closet members of this community or shall we risk some exposure for 
 
 There many worth while by-products of outreach as a group or as a community. As it stands, the Urantia community is hardly a community in the same sense that a church is a religious community. We have no sort of organization that we all feel we belong to that is comparable with the way that people belonging to a church identify with their organization. There are no doubt exceptions but, in my experience, study groups tend to be loosely organized and attendance is not always a major priority in the lives of its members. Working together on outreach projects would give groups a sense of purpose beyond study of the book. It could foster a sense of fellowship among those serving together in some noble cause. It could give us the feeling that we are in some sense applying the principles we learn in _The Urantia Book_ to real life problems.
 
-> But revelatory religion is excellent as well as genuine. The new loyalties of enlarged spiritual vision create new levels of love and devotion, of service and fellowship... ([UB 100:6.8](/en/The_Urantia_Book/100#p6_8))
+> But revelatory religion is excellent as well as genuine. The new loyalties of enlarged spiritual vision create new levels of love and devotion, of service and fellowship... (<a id="a85_176"></a>[UB 100:6.8](/en/The_Urantia_Book/100#p6_8))
 
-> The Master fully realized that certain social results would appear in the world as a consequence of the spread of the gospel of the kingdom; but he intended that all such desirable social manifestations should appear as unconscious and inevitable outgrowths, or natural fruits, of this inner personal experience of individual believers, this purely spiritual fellowship and communion with the divine spirit which indwells and activates all such believers. ([UB 170:5.12](/en/The_Urantia_Book/170#p5_12))
+> The Master fully realized that certain social results would appear in the world as a consequence of the spread of the gospel of the kingdom; but he intended that all such desirable social manifestations should appear as unconscious and inevitable outgrowths, or natural fruits, of this inner personal experience of individual believers, this purely spiritual fellowship and communion with the divine spirit which indwells and activates all such believers. (<a id="a87_459"></a>[UB 170:5.12](/en/The_Urantia_Book/170#p5_12))
 
 There is at least one other good reason to do outreach. When we are sequestered in our study groups, we only interact with each other. It is good to be with like minded people sometimes, but it is instructive to also interact with those who may disagree with us.
 
@@ -93,7 +93,7 @@ There are some very good and very spiritual people out in the world who would no
 
 There are many good reasons to be of service to our fellow mortals. Service is just as much a catalyst for spiritual growth as are prayer and worship. And the willingness to serve is a sign that we have grown spiritually. If our service outreach can also enhance the image of our community, so much the better.
 
-> Jesus foresaw that a social organization, or church, would follow the progress of the true spiritual kingdom, and that is why he never opposed the apostles’ practicing the rite of John’s baptism. ([UB 170:5.13](/en/The_Urantia_Book/170#p5_13))
+> Jesus foresaw that a social organization, or church, would follow the progress of the true spiritual kingdom, and that is why he never opposed the apostles’ practicing the rite of John’s baptism. (<a id="a95_199"></a>[UB 170:5.13](/en/The_Urantia_Book/170#p5_13))
 
 ## External links
 

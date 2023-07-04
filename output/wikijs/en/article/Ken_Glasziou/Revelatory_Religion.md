@@ -37,7 +37,7 @@ The self has surrendered to the intriguing drive of an all-encompassing motivati
 
 But true religion is a living love, a life of service. The religionist's detachment from much that is purely temporal and trivial never leads to  isolation, nor should it destroy the sense of humor. Genuine religion takes nothing away from human existence, but it does add new meanings to all of life; it generates new types of enthusiasm, zeal, and courage.
 
-One of the most amazing earmarks of religious living is that dynamic and sublime peace, that peace which passes all human understanding, that cosmic poise which betokens the absence of all doubt and turmoil. Such levels of spiritual stability are immune to disappointment. Such religionists are like the Apostle Paul, who said: “_I am persuaded that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor height, nor depth, nor anything else shall be able to separate us from the love of God._” ([UB 100:6.6](/en/The_Urantia_Book/100#p6_6))
+One of the most amazing earmarks of religious living is that dynamic and sublime peace, that peace which passes all human understanding, that cosmic poise which betokens the absence of all doubt and turmoil. Such levels of spiritual stability are immune to disappointment. Such religionists are like the Apostle Paul, who said: “_I am persuaded that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor height, nor depth, nor anything else shall be able to separate us from the love of God._” (<a id="a39_554"></a>[UB 100:6.6](/en/The_Urantia_Book/100#p6_6))
 
 ## External links
 

@@ -84,7 +84,7 @@ By profession, Sue is a market research consultant and has been a focus group mo
 
 Those skills will come in handy serving on General Council.
 
-> Social service is the result of moral thinking and religious living. [UB 5:5.4](/en/The_Urantia_Book/5#p5_4)
+> Social service is the result of moral thinking and religious living. <a id="a86_71"></a>[UB 5:5.4](/en/The_Urantia_Book/5#p5_4)
 
 ## External Links
 

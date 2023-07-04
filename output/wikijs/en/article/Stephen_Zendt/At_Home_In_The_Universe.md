@@ -52,7 +52,7 @@ The Life Carriers brought an evolutionary pattern to our planet, a decimal world
 
 My own experience studying PATTERN with friends has opened up new and challenging concepts of evolutionary reality and spiritual symmetry.
 
-One huge hint the revelators give to us, as we wrestle with theoretical physics, time-space relativity, and quantum mechanics, is the remark that appears in Paper 42, Section 1 “Energy, Mind, and Matter,” “_The ultimaton, the first measurable form of energy, has Paradise as its nucleus._” [[UB 42:1.2](/en/The_Urantia_Book/42#p1_2)] They would seem to be saying that Paradise permeates all material reality. Its pattern pervades all space and time.
+One huge hint the revelators give to us, as we wrestle with theoretical physics, time-space relativity, and quantum mechanics, is the remark that appears in Paper 42, Section 1 “Energy, Mind, and Matter,” “_The ultimaton, the first measurable form of energy, has Paradise as its nucleus._” <a id="a54_290"></a>[[UB 42:1.2](/en/The_Urantia_Book/42#p1_2)] They would seem to be saying that Paradise permeates all material reality. Its pattern pervades all space and time.
 
 Our place in the order of our local universe is assured because of our Creator Son’s seventh bestowal of himself here on our world. We have become the “place where it happened.” Urantia is the sentimental shrine of all Nebadon, as we are told. Pattern appears in the achievement of Supreme Sovereignty for our Creator Son, who went through seven bestowals as various created beings within his universe, culminating in the human life of Joshua ben Joseph, Jesus of Nazareth.
 

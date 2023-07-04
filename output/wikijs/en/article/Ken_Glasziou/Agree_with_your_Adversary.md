@@ -66,7 +66,7 @@ Think about all those recent occasions when we failed this test. What would have
 
 If we are ever to have our indwelling spirit forces take charge in our lives, if we are ever to become useful in the divine program to enhance the spiritual advancement of this planet, then perhaps we have some thinking to do.
 
-> “And you are all to proclaim this gospel of love and truth by the lives which you live in the flesh. You shall love one another with a new and startling affection, even as I have loved you. You will serve mankind with a new and amazing devotion, even as I have served you. And when men see you so love them, and when they behold how fervently you serve them, they will perceive that you have become faith-fellows of the kingdom of heaven, and they will follow after the Spirit of Truth which they see in your lives, to the finding of eternal salvation.” ([UB 191:6.2](/en/The_Urantia_Book/191#p6_2))
+> “And you are all to proclaim this gospel of love and truth by the lives which you live in the flesh. You shall love one another with a new and startling affection, even as I have loved you. You will serve mankind with a new and amazing devotion, even as I have served you. And when men see you so love them, and when they behold how fervently you serve them, they will perceive that you have become faith-fellows of the kingdom of heaven, and they will follow after the Spirit of Truth which they see in your lives, to the finding of eternal salvation.” (<a id="a68_557"></a>[UB 191:6.2](/en/The_Urantia_Book/191#p6_2))
 
 Is the Spirit of Truth visible in my life? In yours?
 

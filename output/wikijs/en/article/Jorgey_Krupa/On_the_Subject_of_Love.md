@@ -84,7 +84,7 @@ So where does my responsibility to others come in? I am aware that I do not live
 
 The answer is this: I can love with intention. My intention can be one of examples. I can intend to show everyone I meet what love looks like and hope this will ignite a spark within them and that it will be enough to assist them in finding it within themselves and learn to implement it in their own lives in their own way. I cannot make them change, but I can show them what the goodness of growth looks like and I can hope that somehow they will find their way to it.
 
-> The act is ours, the consequences God's. _The Urantia Book_ [UB 48:7.13](/en/The_Urantia_Book/48#p7_13)
+> The act is ours, the consequences God's. _The Urantia Book_ <a id="a86_62"></a>[UB 48:7.13](/en/The_Urantia_Book/48#p7_13)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/016.jpg">

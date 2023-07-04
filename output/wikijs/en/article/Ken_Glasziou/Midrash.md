@@ -50,7 +50,7 @@ The revelators of _The Urantia Book_ also use midrash, for example, in describin
 > 
 > **A.** No, sir. I vas Shot midwey betv.een the fracas and the navel.
 
-> The apostles leamed that the Jews were spiritually stagnant and dying because they had crystallized truth into a creed; that when truth becomes formulated as a boundary line of self-righteous exclusiveness instead of serving as signposts of spiritual guidance and progress, such teachings lose their creative and life-giving power and ultimately become merely preservative and fossilizing. ([UB 155:3.3](/en/The_Urantia_Book/155#p3_3))
+> The apostles leamed that the Jews were spiritually stagnant and dying because they had crystallized truth into a creed; that when truth becomes formulated as a boundary line of self-righteous exclusiveness instead of serving as signposts of spiritual guidance and progress, such teachings lose their creative and life-giving power and ultimately become merely preservative and fossilizing. (<a id="a52_393"></a>[UB 155:3.3](/en/The_Urantia_Book/155#p3_3))
 
 ## External links
 

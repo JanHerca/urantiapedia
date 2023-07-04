@@ -80,9 +80,9 @@ Meredith Sprunger is by far our best qualified observer in this area, and states
 
 To even think that the revelators were unaware that such would be the case is to cast aspersions indicating naivety on their part. Yet the Papers leave no doubt that their content is meant to upgrade all religion! We are expected to find a way.
 
-> “The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness.” ([UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
+> “The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness.” (<a id="a82_304"></a>[UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
 
-> “The kingdom of God is within you” was probably the greatest pronouncement Jesus ever made, next to the declaration that his Father is a living and loving spirit. ([UB 195:10.4](/en/The_Urantia_Book/195#p10_4))
+> “The kingdom of God is within you” was probably the greatest pronouncement Jesus ever made, next to the declaration that his Father is a living and loving spirit. (<a id="a84_166"></a>[UB 195:10.4](/en/The_Urantia_Book/195#p10_4))
 
 In this section, we are told to take the message of the Papers and present it an acceptable way to all manner of men.
 

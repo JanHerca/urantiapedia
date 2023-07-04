@@ -48,7 +48,7 @@ Lucy had a skull more ape-like than human and was probably no smarter than the a
 
 How does this tie in to Andon and Fonta (about 1,000,000 B.P.) or Adam and Eve (37,898 B.P.)?
 
-Many (most?) readers think that the Urantia Book claims that Andon and Fonta were the sole ancestral parents of all of us. In fact, it does not. It says: “_Even the loss of Andon and Fonta before they had offspring, though delaying human evolution, would not have prevented it. Subsequent to the appearance of Andon and Fonta, and before the mutating potentials of animal life were exhausted, there evolved no less than_ **seven thousand** _favorable strains which could have achieved some sort of human type of development. And_ **many of these better stocks were subsequently assimilated by the various branches of the expanding human species**.” ([UB 65:3.4](/en/The_Urantia_Book/65#p3_4)).
+Many (most?) readers think that the Urantia Book claims that Andon and Fonta were the sole ancestral parents of all of us. In fact, it does not. It says: “_Even the loss of Andon and Fonta before they had offspring, though delaying human evolution, would not have prevented it. Subsequent to the appearance of Andon and Fonta, and before the mutating potentials of animal life were exhausted, there evolved no less than_ **seven thousand** _favorable strains which could have achieved some sort of human type of development. And_ **many of these better stocks were subsequently assimilated by the various branches of the expanding human species**.” (<a id="a50_650"></a>[UB 65:3.4](/en/The_Urantia_Book/65#p3_4)).
 
 ## So how and where did mankind arise?
 
@@ -77,7 +77,7 @@ Further evidence that the Neanderthals contributed little to the gene pool of mo
 
 [Plant and animal cells contain large numbers of mitochondria, the ‘factories’ that break down sugars and provide the cell with energy. Each has its own piece of DNA that is independent of nuclear DNA. Offspring inherit their mitochondria from their mother only, and are copies of themselves. Variation comes from mutation only.]
 
-Herto man (pictured above) is dated to 154-160,000 years BP, and is the earliest fossil evidence for someone approaching the modern type of human. Andon and Fonta lived close to 1,000,000 yrs BP. The story of Andon and Fonta does not fit well to modern anthropological thought but is certainly adequate as a ‘framework for thinking.’ ([UB 115:1.1](/en/The_Urantia_Book/115#p1_1))
+Herto man (pictured above) is dated to 154-160,000 years BP, and is the earliest fossil evidence for someone approaching the modern type of human. Andon and Fonta lived close to 1,000,000 yrs BP. The story of Andon and Fonta does not fit well to modern anthropological thought but is certainly adequate as a ‘framework for thinking.’ (<a id="a79_335"></a>[UB 115:1.1](/en/The_Urantia_Book/115#p1_1))
 
 ## External links
 

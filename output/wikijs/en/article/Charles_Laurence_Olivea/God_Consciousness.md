@@ -36,7 +36,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
 
 _The following article was presented as the plenary speech at the Summer Study Session, at Dominican University, River Forest, IL, July 31, 2009. _
 
-According to _The Urantia Book_, “_Ability to comprehend is the mortal passport to Paradise._” [[UB 26:4.15](/en/The_Urantia_Book/26#p4_15)] So it would appear that the ability to find God depends on our consciousness of him. 
+According to _The Urantia Book_, “_Ability to comprehend is the mortal passport to Paradise._” <a id="a38_95"></a>[[UB 26:4.15](/en/The_Urantia_Book/26#p4_15)] So it would appear that the ability to find God depends on our consciousness of him. 
 
 A definition of consciousness that appeals to me is the notion of an “inward awareness of an external object, state or fact…of what is really at stake in modern philosophy.” (Webster’s Third International Dictionary) If this is extended to God, then the stakes, indeed, are the highest possible. 
 
@@ -56,7 +56,7 @@ With this as a premise, it may be worthwhile to examine two general features abo
 
 ## The Names of God 
 
-I think it is curiously revealing that “_The names which the creature assigns to the Creator are much dependent on the creature’s concept of the Creator. The First Source and Universe Center has never revealed himself by name, only by nature._” [[UB 1:1.1](/en/The_Urantia_Book/1#p1_1)] I would like to suggest to you that the name we pick for God will undoubtedly be qualitatively proportional to the scope and depth of our consciousness of God’s nature. Utilizing the advantage given to us through the Fifth Epochal Revelation, let us take a look at the myriad of names others in the universe have given to God as a way to enlighten our own awareness of Him. (I used only names in which the first letter of key words was capitalized, sort of giving them the weight of proper nouns, for a total of thirty.) 
+I think it is curiously revealing that “_The names which the creature assigns to the Creator are much dependent on the creature’s concept of the Creator. The First Source and Universe Center has never revealed himself by name, only by nature._” <a id="a58_245"></a>[[UB 1:1.1](/en/The_Urantia_Book/1#p1_1)] I would like to suggest to you that the name we pick for God will undoubtedly be qualitatively proportional to the scope and depth of our consciousness of God’s nature. Utilizing the advantage given to us through the Fifth Epochal Revelation, let us take a look at the myriad of names others in the universe have given to God as a way to enlighten our own awareness of Him. (I used only names in which the first letter of key words was capitalized, sort of giving them the weight of proper nouns, for a total of thirty.) 
 
 | Names ||
 | --- | --- |
@@ -79,9 +79,9 @@ I think it is curiously revealing that “_The names which the creature assigns 
 
 From [Papers 1−5].
 
-The Divine Counselor, the author of these first five papers, is correct in reminding us that the important consideration is for us to get to “_know him and aspire to be like him._” [[UB 1:1.6](/en/The_Urantia_Book/1#p1_6)] Yet, a name can define, shape, and guide one’s consciousness of someone or something. Given our Agondonter circumstances, the predominance of the role of Father in that list (one third plus), emphasizes the power and grace of Fathering in human personality existence. 
+The Divine Counselor, the author of these first five papers, is correct in reminding us that the important consideration is for us to get to “_know him and aspire to be like him._” <a id="a81_181"></a>[[UB 1:1.6](/en/The_Urantia_Book/1#p1_6)] Yet, a name can define, shape, and guide one’s consciousness of someone or something. Given our Agondonter circumstances, the predominance of the role of Father in that list (one third plus), emphasizes the power and grace of Fathering in human personality existence. 
 
-Fathering carries forth an attitude of love and respect that sets no conditions. Its consciousness is revealed as considerably greater than even brotherly or sisterly love. In speaking about the Golden Rule, Jesus taught that on the highest or spiritual level, we should “_treat all men as we conceive God would treat them._” [[UB 147:4.9](/en/The_Urantia_Book/147#p4_9)] 
+Fathering carries forth an attitude of love and respect that sets no conditions. Its consciousness is revealed as considerably greater than even brotherly or sisterly love. In speaking about the Golden Rule, Jesus taught that on the highest or spiritual level, we should “_treat all men as we conceive God would treat them._” <a id="a83_326"></a>[[UB 147:4.9](/en/The_Urantia_Book/147#p4_9)] 
 
 Revelation, then, teaches us that fatherhood is the procreational creatures’ greatest and most endearing thought-picture of the nature of God—i.e., our consciousness of Him—and one that ought to shape our attitude toward our fellow creatures. The Godlike or Father-like perspective is the view from above: _spiritual wisdom_ in contrast to _genetic knowledge_, and the product of celestial thinking and action. 
 
@@ -129,7 +129,7 @@ You know “our down sittings and our uprisings.” All things are open to You. 
 We know that You are at hand as well as far off, Father. That You are ever-present and all-pervading. That Your spirit is everlasting and indwells the mind of every mortal. Because of You and Your divine son, we have a spirit-friend and partner within our very hearts, a guide toward eternal destiny. 
 There is no power but You, Father. Consistent with Your divine nature, all things are possible with You. You can make a way even when there appears to us to be no way. 
 You are absolutely secured and everlastingly enthroned at the Paradise source and center of all things as the beneficent Father of all intelligent beings. You are the one God and Father of all, who is above all and in all. You go before all things. In You, all good things consist. 
-It is a recurring wonder to me, dear Father, that somehow You validate that creature faith which dares to challenge each repeated episode of mortal existence—when confronted with the awful spectacle of human limitations—by the unfailing declaration; even if I cannot do this, there lives in me one who can and will do it, a part of You, the Father-absolute of the universe of universes. And that is “_the victory which overcomes the world, even [our] faith._” [[UB 4:4.9](/en/The_Urantia_Book/4#p4_9)] 
+It is a recurring wonder to me, dear Father, that somehow You validate that creature faith which dares to challenge each repeated episode of mortal existence—when confronted with the awful spectacle of human limitations—by the unfailing declaration; even if I cannot do this, there lives in me one who can and will do it, a part of You, the Father-absolute of the universe of universes. And that is “_the victory which overcomes the world, even [our] faith._” <a id="a131_460"></a>[[UB 4:4.9](/en/The_Urantia_Book/4#p4_9)] 
 
 > Charles Laurence Olivea has been a devoted student of the teachings of _The Urantia Book_ since 1968, a commitment somewhat parallel to his classroom teaching of history at the public high school level. He is now positioned to retire soon from the classroom and to shift over to expanding his long-time effort to disseminate the book and its teachings while employing a strong pedagogy in that educational work. He serves at the pleasure of our Father and works with the Supreme as a cosmic citizen. 
 {.is-info}

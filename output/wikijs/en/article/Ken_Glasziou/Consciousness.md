@@ -50,9 +50,9 @@ Determinist logic assumes that life is inevitable,—a spontaneous consequence i
 
 Determinism insists that mind, free will, and consciousness, while being naturally emerging phenomena, nevertheless arise from the self-delusions of hopeful souls. The determinist world has neither room for God, nor for purpose.
 
-> Machines do not motivate their lives with the passion to serve other machines and to choose as their goal of eternal progression the sublime task of finding God and striving to be like him. ([UB 195:7.14](/en/The_Urantia_Book/195#p7_14))
+> Machines do not motivate their lives with the passion to serve other machines and to choose as their goal of eternal progression the sublime task of finding God and striving to be like him. (<a id="a52_193"></a>[UB 195:7.14](/en/The_Urantia_Book/195#p7_14))
 
-> The finite universe of matter would eventually become uniform and deterministic but for the combined presence of mind and spirit. The influence of the cosmic mind constantly injects spontaneity into even the material worlds. ([UB 195:6.15](/en/The_Urantia_Book/195#p6_15))
+> The finite universe of matter would eventually become uniform and deterministic but for the combined presence of mind and spirit. The influence of the cosmic mind constantly injects spontaneity into even the material worlds. (<a id="a54_228"></a>[UB 195:6.15](/en/The_Urantia_Book/195#p6_15))
 
 ## Determinism undermined
 
@@ -105,7 +105,7 @@ Arthur J. Deikman from the University of California believes that there is an �
 
 > Science must always be grounded in reason. Religion is ever dependent on faith.
 
-> But faith and reason without revelation cannot conceive and construct a logical universe. ([UB 103:6.13](/en/The_Urantia_Book/103#p6_13))
+> But faith and reason without revelation cannot conceive and construct a logical universe. (<a id="a107_93"></a>[UB 103:6.13](/en/The_Urantia_Book/103#p6_13))
 
 ## On building an Android
 
@@ -137,9 +137,9 @@ Readers should be aware that the people interested in these phenomena are not fr
 
 Another quantum physicist, Amit Goswami[^4] considers that there must be some kind of quantum coherent system within the brain of the kind described by Hameroff and Penrose that would interact with what he terms the “universal consciousness”—of which human consciousness is really a component part. The interaction of the two mediates the ‘self-reduction of the coherent system’ and thereby brings the system into a state of reality as can be described by classical physics. This ‘self reduction’ is a special case of what is more commonly described as the collapse of the Schrodinger wave function.
 
-> Self-consciousness includes the ability to recognize the reality of other personalities. ([UB 16:8.6](/en/The_Urantia_Book/16#p8_6))
+> Self-consciousness includes the ability to recognize the reality of other personalities. (<a id="a139_92"></a>[UB 16:8.6](/en/The_Urantia_Book/16#p8_6))
 
-> Self-consciousness consists in intellectual awareness of personality actuality. [UB 16:8.6](/en/The_Urantia_Book/16#p8_6)
+> Self-consciousness consists in intellectual awareness of personality actuality. <a id="a141_82"></a>[UB 16:8.6](/en/The_Urantia_Book/16#p8_6)
 
 ## What’s in TUB?
 
@@ -147,27 +147,27 @@ What has been described above is not too far from what can be discerned in _The 
 
 _The Urantia Book_ describes a hierarchical structure that has the Infinite Spirit at its apex. From there, ‘cosmic mind’ is routed to the seven Master Spirits who are at the focus of cosmic mind as it is distributed to the superuniverses.
 
-Human mind is the endowment of the Universe Mother Spirit, both directly and via the seven Adjutant Mind Spirits. “_Consciousness,_” the book tells us, “_rests gently upon the electro-chemical mechanism below and delicately touches the spirit-morontia energy system above. Of neither of these two systems is the human being ever completely conscious in his mortal life; therefore must he work in mind of which he is conscious._” ([UB 111:1.5](/en/The_Urantia_Book/111#p1_5))
+Human mind is the endowment of the Universe Mother Spirit, both directly and via the seven Adjutant Mind Spirits. “_Consciousness,_” the book tells us, “_rests gently upon the electro-chemical mechanism below and delicately touches the spirit-morontia energy system above. Of neither of these two systems is the human being ever completely conscious in his mortal life; therefore must he work in mind of which he is conscious._” (<a id="a149_430"></a>[UB 111:1.5](/en/The_Urantia_Book/111#p1_5))
 
 The physicists’ interest in consciousness is naturally biased towards that which can be observed and measured, whereas the emphasis in _The Urantia Book_ leans heavily towards relatedness to cosmic meanings and values. Also the physicist sees many aspects of mind as belonging to the material world described by classical physics and looks to ‘consciousness’ to find a link with the quantum world. _The Urantia Book_ is in partial agreement:
 
-> “Mind, in functioning beings, is not separated from energy or spirit, or both. Mind is not inherent in energy; energy is receptive and responsive to mind; mind can be superimposed on energy, but consciousness is not inherent in the purely material level.” ([UB 9:4.2](/en/The_Urantia_Book/9#p4_2))
+> “Mind, in functioning beings, is not separated from energy or spirit, or both. Mind is not inherent in energy; energy is receptive and responsive to mind; mind can be superimposed on energy, but consciousness is not inherent in the purely material level.” (<a id="a153_259"></a>[UB 9:4.2](/en/The_Urantia_Book/9#p4_2))
 
 _The Urantia Book_ also expresses views that have affinity with those of Arthur J. Deikman referred to earlier:
 
-> “Self-consciousness implies the recognition of the reality of selves other than the conscious self and further implies that such awareness is mutual; that the self is known as it knows.” ([UB 16:9.4](/en/The_Urantia_Book/16#p9_4))
+> “Self-consciousness implies the recognition of the reality of selves other than the conscious self and further implies that such awareness is mutual; that the self is known as it knows.” (<a id="a157_190"></a>[UB 16:9.4](/en/The_Urantia_Book/16#p9_4))
 
 From the point of view of religionists, the swing away from materialism and determinism that has been catalyzed by the mysteries of quantum physics is a welcome change, particularly as, at its forefront, are some of the outstanding intellects of the academic world.
 
 ## A new day is dawning
 
-More than sixty years ago the revelators of _The Urantia Book_ wrote, “_At the time of writing the worst of the materialistic age is over; the day of a better understanding is beginning to dawn. The higher minds of the scientific world are no longer wholly materialistic in their philosophy, but the rank and file of the people still lean in that direction as a result of former teaching._” ([UB 195:6.4](/en/The_Urantia_Book/195#p6_4))
+More than sixty years ago the revelators of _The Urantia Book_ wrote, “_At the time of writing the worst of the materialistic age is over; the day of a better understanding is beginning to dawn. The higher minds of the scientific world are no longer wholly materialistic in their philosophy, but the rank and file of the people still lean in that direction as a result of former teaching._” (<a id="a163_392"></a>[UB 195:6.4](/en/The_Urantia_Book/195#p6_4))
 
 Today it is not only quantum physicists who have forsaken materialism and determinism. They have now been joined by philosophers, psychologists, neurophysiologists, biochemists, and many others. Surely a new day really has dawned.
 
-> Consciousness, much less self-consciousness, cannot be explained by any theory of mechanistic electronic association or materialistic energy phenomena. ([UB 112:2.10](/en/The_Urantia_Book/112#p2_10))
+> Consciousness, much less self-consciousness, cannot be explained by any theory of mechanistic electronic association or materialistic energy phenomena. (<a id="a167_155"></a>[UB 112:2.10](/en/The_Urantia_Book/112#p2_10))
 
-> As mind pursues reality to its ultimate analysis, matter vanishes to the material senses... ([UB 112:2.11](/en/The_Urantia_Book/112#p2_11))
+> As mind pursues reality to its ultimate analysis, matter vanishes to the material senses... (<a id="a169_95"></a>[UB 112:2.11](/en/The_Urantia_Book/112#p2_11))
 
 ## External links
 

@@ -34,7 +34,7 @@ dateCreated: 2022-09-26T07:02:53.956Z
 </figure>
 
 
-> Your mission to the world is founded on the fact that I lived a God-revealing life among you;. . . and it shall consist in the life that you will live among men–the actual and living experience of loving men and serving them, even as I have loved and served you. ([UB 191:5.3](/en/The_Urantia_Book/191#p5_3))
+> Your mission to the world is founded on the fact that I lived a God-revealing life among you;. . . and it shall consist in the life that you will live among men–the actual and living experience of loving men and serving them, even as I have loved and served you. (<a id="a36_266"></a>[UB 191:5.3](/en/The_Urantia_Book/191#p5_3))
 
 Many times in the Urantia Papers we are exhorted to live as Jesus lived.
 
@@ -43,13 +43,13 @@ Many times in the Urantia Papers we are exhorted to live as Jesus lived.
 
 > "The life you will live," is the only one you have.
 
-> You may preach a religion about Jesus but, perforce, you must live the religion of Jesus. ([UB 196:2.1](/en/The_Urantia_Book/196#p2_1))
+> You may preach a religion about Jesus but, perforce, you must live the religion of Jesus. (<a id="a45_93"></a>[UB 196:2.1](/en/The_Urantia_Book/196#p2_1))
 
 But in no way does this mean that we are to copy the material life of Jesus. It is Jesus’ spiritual life that we are exhorted to live–and to do so we have to know the mind of Jesus. Why? So that we might ‘sense’ how a perfectly spiritualized mind would respond to the ordinary everyday experiences of living.
 
-Our quote from [UB 196:2.1](/en/The_Urantia_Book/196#p2_1) implies that unless we can actually live the spiritualized life we waste our time in preaching about Jesus. What is now needed. . . .
+Our quote from <a id="a49_15"></a>[UB 196:2.1](/en/The_Urantia_Book/196#p2_1) implies that unless we can actually live the spiritualized life we waste our time in preaching about Jesus. What is now needed. . . .
 
-> Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men. It is futile to talk about a revival of primitive Christianity; you must go forward from where you find yourselves. ([UB 195:10.1](/en/The_Urantia_Book/195#p10_1))
+> Christianity has indeed done a great service for this world, but what is now most needed is Jesus. The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men. It is futile to talk about a revival of primitive Christianity; you must go forward from where you find yourselves. (<a id="a51_356"></a>[UB 195:10.1](/en/The_Urantia_Book/195#p10_1))
 
 There have been many most wonderful lives lived over the past 2000 years by men and women who truly discovered the meaning of “living as Jesus lived.” So what was it that they discovered in the Gospels that acted so uniquely as their guiding light?
 

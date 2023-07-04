@@ -51,7 +51,7 @@ Now take a look at the other focal point of the ellipse and, surprise, surprise,
 
 Guess what. People are now trying to use the ghost-image of the real cobalt atom to see if they can bond it with another real atom in order to make a hybrid molecule having one ghost atom and one real atom.
 
-> There is in the mind of God a plan which embraces every creature of all his vast domains, and this plan is an eternal purpose of boundless opportunity, unlimited progress, and endless life. And the infinite treasures of such a matchless career are yours for the striving. ([UB 32:5.7](/en/The_Urantia_Book/32#p5_7))
+> There is in the mind of God a plan which embraces every creature of all his vast domains, and this plan is an eternal purpose of boundless opportunity, unlimited progress, and endless life. And the infinite treasures of such a matchless career are yours for the striving. (<a id="a53_275"></a>[UB 32:5.7](/en/The_Urantia_Book/32#p5_7))
 
 ## External links
 

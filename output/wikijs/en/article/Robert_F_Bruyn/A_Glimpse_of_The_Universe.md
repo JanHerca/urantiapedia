@@ -51,14 +51,14 @@ Where did this feeling come from? I had not consciously decided to be optimistic
 
 _The Urantia Book_ (2) which I have been reading and studying for years, provided me with some concepts:
 
-> “If one is disposed to recognize a theoretical subconscious mind as a practical working hypothesis in the otherwise unified intellectual life, then, to be consistent one should postulate a similar and corresponding realm of ascending intellectual activity as the superconscious level, the zone of immediate contact with the indwelling spirit entity, the Thought Adjuster.” ([UB 100:5.6](/en/The_Urantia_Book/100#p5_6))
+> “If one is disposed to recognize a theoretical subconscious mind as a practical working hypothesis in the otherwise unified intellectual life, then, to be consistent one should postulate a similar and corresponding realm of ascending intellectual activity as the superconscious level, the zone of immediate contact with the indwelling spirit entity, the Thought Adjuster.” (<a id="a53_376"></a>[UB 100:5.6](/en/The_Urantia_Book/100#p5_6))
 > 
 
-> “Human consciousness rests gently upon the electrochemical mechanism below and delicately touches the spirit-morontia energy system above. Of neither of these two systems is the human being ever completely conscious in his moral life; therefore, must he work in mind, of which he is conscious.” ([UB 111:1.5](/en/The_Urantia_Book/111#p1_5))
+> “Human consciousness rests gently upon the electrochemical mechanism below and delicately touches the spirit-morontia energy system above. Of neither of these two systems is the human being ever completely conscious in his moral life; therefore, must he work in mind, of which he is conscious.” (<a id="a56_298"></a>[UB 111:1.5](/en/The_Urantia_Book/111#p1_5))
 
 These ideas fit my experience. Although the  blow to my head had disrupted the electrochemical mechanism of brain, it had no effect on the spiritual energy system. My “assurance” was a feeling from my superconscious, not the conscious intellect or the subconscious realm of mind which is the source of our animal fears. What the glimpse had revealed was that the unconscious could be thought of in two parts, the physical and the spiritual. Mind, in total, can be viewed holistically with a physical subconscious, intellectual conscious, and spiritual su perconscious.
 
-“Growth is always unconscious, be it physical, intellectual, or spiritual.” [UB 100:3.7](/en/The_Urantia_Book/100#p3_7) Even now, I  am continuing to become aware of what I have learned unconsciously during the past year. I count myself extremely fortunate to have made a nearly complete recovery and to be able to share part of my experience with you - not in boasting about myself but because it shows to me our Father's majestic plan of progressive creation which we have the privilege of participating in and discovering.
+“Growth is always unconscious, be it physical, intellectual, or spiritual.” <a id="a60_76"></a>[UB 100:3.7](/en/The_Urantia_Book/100#p3_7) Even now, I  am continuing to become aware of what I have learned unconsciously during the past year. I count myself extremely fortunate to have made a nearly complete recovery and to be able to share part of my experience with you - not in boasting about myself but because it shows to me our Father's majestic plan of progressive creation which we have the privilege of participating in and discovering.
 
 1 Pearce, Joseph Chilton. Magical Child
 Matures. Dutton, 1985

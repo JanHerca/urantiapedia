@@ -38,7 +38,7 @@ dateCreated: 2023-6-21T8:13:38Z
 <img src="/image/article/The_Mighty_Messenger/2020_Spring/004.jpg">
 </figure>
 
-> Just as a butterfly emerges from the caterpictar stage, so will the true personalities of human beings emerge on the mansion worlds, for the first time revealed apart from their onetime enshroudment in the material flesh._The Urantia Book_ [UB 112:6.1](/en/The_Urantia_Book/112#p6_1)
+> Just as a butterfly emerges from the caterpictar stage, so will the true personalities of human beings emerge on the mansion worlds, for the first time revealed apart from their onetime enshroudment in the material flesh._The Urantia Book_ <a id="a40_242"></a>[UB 112:6.1](/en/The_Urantia_Book/112#p6_1)
 
 **To honor a departed loved one, consider making a memorial donation to the Fellowship.**
 

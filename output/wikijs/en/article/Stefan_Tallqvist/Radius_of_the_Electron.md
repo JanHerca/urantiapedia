@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-> _If the mass of matter should be magnified until that of an electron equaled one tenth of an ounce, then were the size to be proportionately magnified, the volume of such an electron would become as large as that of the Earth._ (_The Urantia Book_, [UB 42:6.8](/en/The_Urantia_Book/42#p6_8))
+> _If the mass of matter should be magnified until that of an electron equaled one tenth of an ounce, then were the size to be proportionately magnified, the volume of such an electron would become as large as that of the Earth._ (_The Urantia Book_, <a id="a36_251"></a>[UB 42:6.8](/en/The_Urantia_Book/42#p6_8))
 
 Anyone who went to the trouble of making that calculation prior to the 1990 period would have wondered if either they or the writer were making some silly error, for their answer would differ from the pre-1990 estimate by a factor of about a million up to infinity. Stefan Tallqvist, a physicist from the Technical Research Institute of Finland, finally cleared up the puzzle.
 
@@ -50,7 +50,7 @@ R = 2.1 x 10^-21^ meters
 
 In the 1990’s, Nobel Prize winner, Hans Dehmelt, found a way to make a single electron trap in which he could hold an electron for several years. Subsequent studies permitted a revision of the electron radius to be between 10^-19^ and 10^-22^ meters. More recently, in 1997, a further revision placed the radius at close to 10^-22^ meters, the difference from the Urantia Paper figure coming to a few parts in a 1000 billion billion.
 
-There is no possible way that this could be some kind of coincidence. If we look at the mandate for the _Urantia Book_ authors, we are informed that they were not permitted to provide us with unearned knowledge. ([UB 101:4.1](/en/The_Urantia_Book/101#p4_1)) As would be expected because of the terms of the mandate, most of the scientific material in the book is of the quality found in text books of the early part of the century—and much is now out of date. However the mandate permitted the impartation of key material when considered appropriate and it appears that this apparently strange and unusual comparison between a magnified electron and the volume of the Earth is in that category. For those with an open mind, and who are prepared to give the matter thought, this and other similar semi-hidden information provides confirmation of the extraordinary nature of these Papers.
+There is no possible way that this could be some kind of coincidence. If we look at the mandate for the _Urantia Book_ authors, we are informed that they were not permitted to provide us with unearned knowledge. (<a id="a52_213"></a>[UB 101:4.1](/en/The_Urantia_Book/101#p4_1)) As would be expected because of the terms of the mandate, most of the scientific material in the book is of the quality found in text books of the early part of the century—and much is now out of date. However the mandate permitted the impartation of key material when considered appropriate and it appears that this apparently strange and unusual comparison between a magnified electron and the volume of the Earth is in that category. For those with an open mind, and who are prepared to give the matter thought, this and other similar semi-hidden information provides confirmation of the extraordinary nature of these Papers.
 
 [Note: Reference to the most recent work on the electron radius can be found at the Internet site of the Physics Department, University of Washington, where Hans Dehmelt now works. The Internet address is:
 

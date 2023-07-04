@@ -55,7 +55,7 @@ In response to a question from Nathaniel, Jesus provided the apostles with instr
 > 
 > The God-conscious mortal is certain of salvation; he is unafraid of life; he is honest and consistent. He knows how bravely to endure unavoidable suffering; he is uncomplaining when faced by inescapable hardship.
 > 
-> The true believer does not grow weary in well-doing just because he is thwarted. Difficulty whets the ardor of the truth lover, while obstacles only challenge the exertions of the undaunted kingdom builder. ([UB 156:5.10](/en/The_Urantia_Book/156#p5_10))
+> The true believer does not grow weary in well-doing just because he is thwarted. Difficulty whets the ardor of the truth lover, while obstacles only challenge the exertions of the undaunted kingdom builder. (<a id="a57_210"></a>[UB 156:5.10](/en/The_Urantia_Book/156#p5_10))
 
 ## External links
 

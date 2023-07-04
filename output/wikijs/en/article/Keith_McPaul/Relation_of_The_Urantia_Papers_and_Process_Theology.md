@@ -144,7 +144,7 @@ Learning about God is a life long exercise with God directing our path all the w
 
 Process theology does not claim to have all the answers, God still remains a mystery. However it does give me a more credible way of thinking of God. I think that process theology makes the church more credible and more relevant to the modern world and gives us a better chance of meeting the challenges of the next millennium. Thanks be to God!
 
-> Time is but the shadow of eternity cast by Paradise realities upon the moving panoply of space. ([UB 101:10.9](/en/The_Urantia_Book/101#p10_9))
+> Time is but the shadow of eternity cast by Paradise realities upon the moving panoply of space. (<a id="a146_99"></a>[UB 101:10.9](/en/The_Urantia_Book/101#p10_9))
 
 ## External links
 

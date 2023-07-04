@@ -44,7 +44,7 @@ August, 2022, is marked as a highlight in our community. We a experienced the fi
 
 ## Go team!
 
-> One of the most important lessons to be learned during your mortal career is teamwork. ([UB 28:5.14](/en/The_Urantia_Book/28#p5_14)) 
+> One of the most important lessons to be learned during your mortal career is teamwork. (<a id="a46_90"></a>[UB 28:5.14](/en/The_Urantia_Book/28#p5_14)) 
 
 I've recently become the Youth and Young Adult (Ya YA) Committee chair of The Urantia Book Fellowship (a.k.a. the Fellowship), having served the committee for a decade. Two of our main goals have been inreach (multi-committee action) and outreach (trans-organizational collaboration). Oluwatooni "Toni" Oyeyemi and I are prime examples of this goal. We have worked very well together over the past several years, currently as Ya YA Committee members, and serving several Other Urantia Book committees, programs, and organizations. He and I have bonded over our passion for nurturing youth. We agree that the most efficient route is to live the teachings to the best of our abilities, being good examples, and bearing the fruits of the divine spirit.
 
@@ -55,7 +55,7 @@ I've recently become the Youth and Young Adult (Ya YA) Committee chair of The Ur
 
 Toni and I also serve on the Fellowship's International Fellowship (IFC) committee, and we traveled to Uganda as representatives. The shared conclusion from our experience in Uganda is the validation of the necessity of elevating teamwork. This means engaging in spiritually-motivated collaboration, especially when representing a spiritually-centered organization.
 
-Not only are kindred spirits attracted to each Other, but kindred minds are also very fraternal and inclined towards co- operation the one with the Other. ([UB 13:6.3](/en/The_Urantia_Book/13#p6_3))
+Not only are kindred spirits attracted to each Other, but kindred minds are also very fraternal and inclined towards co- operation the one with the Other. (<a id="a57_156"></a>[UB 13:6.3](/en/The_Urantia_Book/13#p6_3))
 
 Our brother Toni had a very different experience at the conference than I did, which was also a significant experience involving teamwork. The day after arrival, his body insisted on taking leave to the health clinic, which was conveniently on the first floor, just below the hotel where the conference was being held. He was able to be embraced by the loving care of several of the attendees. In his words:
 
