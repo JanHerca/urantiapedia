@@ -114,7 +114,7 @@ In this informally published paper, Dr. William Sadler outlines 64 knowledge con
 
 39. **Concept of Permanent Cosmic Citizenship:** This is wholly original in _The Urantia Book_. <a id="a114_96"></a>[Papers 30:2](/en/The_Urantia_Book/32#p2); <a id="a114_139"></a>[31:5](/en/The_Urantia_Book/31#p5); <a id="a114_175"></a>[37:9](/en/The_Urantia_Book/37#p9); <a id="a114_211"></a>[40:10](/en/The_Urantia_Book/40#p10). 
 
-40. **The Urantia Midwayers:** While the Old Testament does refer to the “_Nephilim_” the citation is so indefinite as to constitute the Urantia story of the midwayers as a new and original narrative. <a id="a116_201"></a>[Papers 30:9](/en/The_Urantia_Book/30#p9); <a id="a116_244"></a>[66:4](/en/The_Urantia_Book/6#p4); <a id="a116_279"></a>[77:6](/en/The_Urantia_Book/77#p6) 
+40. **The Urantia Midwayers:** While the Old Testament does refer to the “_Nephilim_” the citation is so indefinite as to constitute the Urantia story of the midwayers as a new and original narrative. <a id="a116_201"></a>[Papers 30:2.89](/en/The_Urantia_Book/30#p2_89); <a id="a116_244"></a>[66:4](/en/The_Urantia_Book/6#p4); <a id="a116_279"></a>[77:6](/en/The_Urantia_Book/77#p6) 
 
 41. **The Superhuman Planetary Government:** The story of the planetary functions of the Most Highs, the Reserve Corps, and the planetary seraphim is original, notwithstanding the allusion to the work of the Most Highs in the Bible. [Paper 114](/en/The_Urantia_Book/114) 
 

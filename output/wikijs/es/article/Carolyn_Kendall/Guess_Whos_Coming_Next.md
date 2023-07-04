@@ -98,7 +98,7 @@ Jesús reveló a sus apóstoles su intención de regresar, lo que los llevó a l
 
 Un intermedio escribe sobre el regreso de Jesús, y he reorganizado algunas de las oraciones para aumentar la intriga:
 
-> Prometió una nueva revelación del reino en la Tierra en algún momento del futuro; también prometió que volvería alguna vez en persona a este mundo; pero no dijo que estos dos acontecimientos tuvieran la misma significación. ...Aunque Jesús se refirió a una fase del reino situada en el futuro, y sugirió en numerosas ocasiones que dicho acontecimiento podría suceder como parte de una crisis mundial; ...Recordad que el orden de la evolución progresiva está sujeto a cambios periódicos, repentinos e inesperados, tanto en el mundo material como en el mundo espiritual. [[LU 179:4.14-15](/es/The_Urantia_Book/179#p4_14)]
+> Prometió una nueva revelación del reino en la Tierra en algún momento del futuro; también prometió que volvería alguna vez en persona a este mundo; pero no dijo que estos dos acontecimientos tuvieran la misma significación. ...Aunque Jesús se refirió a una fase del reino situada en el futuro, y sugirió en numerosas ocasiones que dicho acontecimiento podría suceder como parte de una crisis mundial; ...Recordad que el orden de la evolución progresiva está sujeto a cambios periódicos, repentinos e inesperados, tanto en el mundo material como en el mundo espiritual. [[LU 170:4.14-15](/es/The_Urantia_Book/170#p4_14)]
 
 Un intermedio continúa, y nuevamente, las oraciones se reorganizan:
 

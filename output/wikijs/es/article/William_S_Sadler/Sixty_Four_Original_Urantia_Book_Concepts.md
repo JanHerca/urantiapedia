@@ -114,7 +114,7 @@ En este artículo publicado informalmente, el Dr. William Sadler describe 64 con
 
 39. **Concepto de Ciudadanía Cósmica Permanente:** Esto es completamente original en _El Libro de Urantia_. [Documentos 30:2](/es/The_Urantia_Book/32#p2); [31:5](/es/The_Urantia_Book/31#p5); [37:9](/es/The_Urantia_Book/37#p9); [40:10](/es/The_Urantia_Book/40#p10).
 
-40. **Los Intermedios de Urantia:** Si bien el Antiguo Testamento se refiere a los «_Nephilim_», la cita es tan indefinida como para constituir la historia de Urantia de los intermedios como una narración nueva y original. [Documentos 30:9](/es/The_Urantia_Book/30#p9); [66:4](/es/The_Urantia_Book/6#p4); [77:6](/es/The_Urantia_Book/77#p6)
+40. **Los Intermedios de Urantia:** Si bien el Antiguo Testamento se refiere a los «_Nephilim_», la cita es tan indefinida como para constituir la historia de Urantia de los intermedios como una narración nueva y original. [Documentos 30:2.89](/es/The_Urantia_Book/30#p2_89); [66:4](/es/The_Urantia_Book/6#p4); [77:6](/es/The_Urantia_Book/77#p6)
 
 41. **El Gobierno Planetario Sobrehumano:** La historia de las funciones planetarias de los Altísimos, el Cuerpo de Reserva y los serafines planetarios es original, no obstante la alusión a la obra de los Altísimos en la Biblia. [Documento 114](/es/The_Urantia_Book/114)
 

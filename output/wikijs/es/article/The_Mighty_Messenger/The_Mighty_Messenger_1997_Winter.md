@@ -40,7 +40,7 @@ por _Josephe DeCosmo_, Boynton Beach, Florida
 
 En los párrafos iniciales de los documentos de Urantia, se nos dice que el inglés fue elegido por la Comisión Reveladora de Orvonton como idioma-vehículo para la quinta revelación de época: «Pero las instrucciones que hemos recibido nos recomiendan que realicemos todos los esfuerzos posibles para transmitir nuestros significados utilizando los símbolos verbales de la lengua inglesa.» ([LU 0:0.2](/es/The_Urantia_Book/0#p0_2)).
 
-En el documento «Esferas de luz y vida», se dice: «Ningún mundo evolutivo puede esperar progresar más allá de la primera etapa del establecimiento en la luz hasta que no haya alcanzado el objetivo de un solo idioma, una sola religión y una sola filosofía» ([LU 53:3.15](/es/The_Urantia_Book/53#p3_15)).
+En el documento «Esferas de luz y vida», se dice: «Ningún mundo evolutivo puede esperar progresar más allá de la primera etapa del establecimiento en la luz hasta que no haya alcanzado el objetivo de un solo idioma, una sola religión y una sola filosofía» ([LU 55:3.22](/es/The_Urantia_Book/55#p3_22)).
 
 En conjunto, estas dos declaraciones sugieren fuertemente que el inglés bien puede ser el «único idioma» que unificará el mundo y permitirá que Urantia progrese hacia y a través de las eras de la luz y la vida. El inglés ya es el idioma internacional del comercio y los viajes aéreos y marítimos.
 

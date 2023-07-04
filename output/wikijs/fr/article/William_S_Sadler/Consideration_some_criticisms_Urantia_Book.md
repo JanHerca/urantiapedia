@@ -563,10 +563,10 @@ En réponse à cette critique, je soumets 74 concepts et doctrines qui sont nouv
 64. **[David Zebedee' s Intelligence Corps](/fr/The_Urantia_Book/149#p0_4): **Toute cette histoire se trouve exclusivement dans _Le Livre d'Urantia_
 65. **[Les "Clés du Royaume."](/fr/The_Urantia_Book/39#p4_14)** L'explication de la signification des "clés du royaume" est nouvelle et originale telle qu'elle se trouve dans _Le Livre d'Urantia. _
 66. **[Clarification du Concept du Royaume.](/fr/The_Urantia_Book/170)** Le concept du Royaume est clarifié. La religion de Jésus et la religion à propos de Jésus sont totalement différenciées.
-67. **[Clarification du Second Avènement.](/fr/The_Urantia_Book/176#p2_0)** La clarification de [Matthieu 24](/fr/Bible/Matthew/24) et la seconde venue de Christ est complète et original.
+67. **[Clarification du Second Avènement.](/fr/The_Urantia_Book/176#p2_1)** La clarification de [Matthieu 24](/fr/Bible/Matthew/24) et la seconde venue de Christ est complète et original.
 68. **[Nouveau concept du Dîner du Seigneur.](/fr/The_Urantia_Book/179)** La signification du Dîner du Seigneur est nouvelle et originale.
 69. **[Clarification de la Crucifixion.](/fr/The_Urantia_Book/187)** Bien qu'il y ait beaucoup dans le Nouveau Testament concernant la crucifixion, l'histoire d'Urantia est complète et dans de nombreuses phases entièrement originale.
-70. **[Nature de la résurrection.](/fr/The_Urantia_Book/189#p2_0)
+70. **[Nature de la résurrection.](/fr/The_Urantia_Book/189#p2_6)**.
 71. **[L'expérience morontielle de Jésus](/fr/The_Urantia_Book/190)**. L'histoire pleine et entière de l'expérience morontielle entre la résurrection et l'ascension ne se trouve que dans les fascicules d'Urantia.
 72. **[La Nouvelle Image de la Pentecôte.](/fr/The_Urantia_Book/194)** L'image Urantia de la Pentecôte est tellement agrandie qu'elle constitue une nouvelle représentation de la venue de l'Esprit de Vérité.
 73. **[La Foi de Jésus.](/fr/The_Urantia_Book/196)** Le dernier chapitre du Livre d'Urantia présente un nouveau concept de croire _avec_ Jésus plutôt que de croire _sur_ lui.

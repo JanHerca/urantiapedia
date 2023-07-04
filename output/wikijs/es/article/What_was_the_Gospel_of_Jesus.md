@@ -115,7 +115,7 @@ El evangelio entonces tenía muchas facetas. En _El Libro de Urantia_ era el eva
 
 Por otro lado, lo que debemos representar en nuestras propias vidas es la misma misión discutida por Jesús y Emanuel antes de la encarnación de Miguel en la que Emanuel afirma:
 
-> «*Demuestra en tu corta y única vida en la carne, como nunca antes se ha visto en todo Nebadon, las posibilidades trascendentes que puede alcanzar un humano que conoce a Dios durante la breve carrera de la existencia mortal, y efectúa una interpretación nueva y reveladora del hombre ...: la hazaña de Dios que busca al hombre y lo encuentra, y el fenómeno del hombre que busca a Dios y lo encuentra*» ([LU 120:8](/es/The_Urantia_Book/120#p8)).
+> «*Demuestra en tu corta y única vida en la carne, como nunca antes se ha visto en todo Nebadon, las posibilidades trascendentes que puede alcanzar un humano que conoce a Dios durante la breve carrera de la existencia mortal, y efectúa una interpretación nueva y reveladora del hombre ...: la hazaña de Dios que busca al hombre y lo encuentra, y el fenómeno del hombre que busca a Dios y lo encuentra*» ([LU 120:2.8](/es/The_Urantia_Book/120#p2_8)).
 
 Este concepto fue posteriormente reiterado por Jesús a aquellos que son sus seguidores:
 

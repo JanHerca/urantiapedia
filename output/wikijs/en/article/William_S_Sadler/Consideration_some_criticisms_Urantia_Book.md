@@ -563,10 +563,10 @@ In reply to this criticism, I submit 74 concepts and doctrines which are new and
 64. **<a id="a562_6"></a>[David Zebedee' s Intelligence Corps](/en/The_Urantia_Book/149#p0_4):** This entire story is exclusively Found in _The Urantia Book_
 65. **<a id="a563_6"></a>[The “Keys of the Kingdom.”](/en/The_Urantia_Book/39#p4_14)** The explanation of the meaning of the “keys of the kingdom” is new and original as found in _The Urantia Book._
 66. **[Clarification of the Kingdom Concept.](/en/The_Urantia_Book/170)** The kingdom concept is clarified. The religion of Jesus and the religion about Jesus are fully differentiated.
-67. **<a id="a565_6"></a>[Clarification of the Second Advent.](/en/The_Urantia_Book/176#p2_0)** The clarification of [Matt 24](/en/Bible/Matthew/24) and the second coming of Christ is complete and original.
+67. **<a id="a565_6"></a>[Clarification of the Second Advent.](/en/The_Urantia_Book/176#p2_1)** The clarification of [Matt 24](/en/Bible/Matthew/24) and the second coming of Christ is complete and original.
 68. **[New Concept of the Lord’s Supper.](/en/The_Urantia_Book/179)** The significance of the Lord’s Supper is new and original.
 69. **[Clarification of the Crucifixion.](/en/The_Urantia_Book/187)** While there is much in the New Testament regarding the crucifixion, the Urantia story is complete and in many phases wholly original.
-70. **<a id="a568_6"></a>[Nature of the Resurrection.](/en/The_Urantia_Book/189#p2_0)
+70. **<a id="a568_6"></a>[Nature of the Resurrection.](/en/The_Urantia_Book/189#p2_6)**
 71. **[The Morontia Experience of Jesus](/en/The_Urantia_Book/190)**. The full and complete story of the morontia experience between the resurrection and the ascension is found only in The Urantia Papers.
 72. **[The New Picture of Pentecost.](/en/The_Urantia_Book/194)** The Urantia picture of Pentecost is so enlarged as to constitute a new portrayal of the coming of the Spirit of Truth.
 73. **[The Faith of Jesus.](/en/The_Urantia_Book/196)** The final chapter of The Urantia Book presents a new concept of believing _with_ Jesus rather than believing _on_ him.

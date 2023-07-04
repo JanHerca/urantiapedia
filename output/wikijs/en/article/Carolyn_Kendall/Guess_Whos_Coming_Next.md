@@ -98,7 +98,7 @@ Have we passed through the “long winter of material mindedness?” How might w
 
 A midwayer writes about Jesus’ return, and I have rearranged some of the sentences to heighten the intrigue: 
 
-> He promised a new revelation of the kingdom on earth, and at some future time; he also promised sometime to come back to this world in person; but he did not say that these two events were synonymous. ...Jesus referred one phase of the kingdom to the future and did, on numerous occasions, intimate that such an event might appear as a part of a world crisis; ...Remember that the order of progressive evolution is subjected to sudden and unexpected periodical changes in both the material and the spiritual worlds. <a id="a100_518"></a>[[UB 179:4.14-15](/en/The_Urantia_Book/179#p4_14)] 
+> He promised a new revelation of the kingdom on earth, and at some future time; he also promised sometime to come back to this world in person; but he did not say that these two events were synonymous. ...Jesus referred one phase of the kingdom to the future and did, on numerous occasions, intimate that such an event might appear as a part of a world crisis; ...Remember that the order of progressive evolution is subjected to sudden and unexpected periodical changes in both the material and the spiritual worlds. <a id="a100_518"></a>[[UB 170:4.14-15](/en/The_Urantia_Book/170#p4_14)] 
 
 A midwayer continues, and again, the sentences are rearranged: 
 

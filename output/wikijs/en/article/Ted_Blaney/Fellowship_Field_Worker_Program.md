@@ -36,7 +36,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 by _Ted Blaney_ and _Brent St. Denis_
 
-At large and small conferences we gather to study, to worship and to fellowship. In surveys following the international conferences 2014 and 2017 “Fellowship With Other Readers” was the first choice of responders to a series of questions about the value of the conference in “fostering your personal religious experience” and your “favorite parts of the conference.” We value the relationships we make and renew! “...mortal memory of relationships has cosmic value and will persist.” <a id="a38_484"></a>[UB 12:5.22](/en/The_Urantia_Book/12#p5_22)
+At large and small conferences we gather to study, to worship and to fellowship. In surveys following the international conferences 2014 and 2017 “Fellowship With Other Readers” was the first choice of responders to a series of questions about the value of the conference in “fostering your personal religious experience” and your “favorite parts of the conference.” We value the relationships we make and renew! “...mortal memory of relationships has cosmic value and will persist.” <a id="a38_484"></a>[UB 112:5.22](/en/The_Urantia_Book/112#p5_22)
 
 In an effort by the Urantia Book Fellowship to find isolated Urantia Book readers (or be found by them) in local regions and to encourage and motivate them to gather in fellowship, worship, and study at least once a year for one to three days, the Fellowship is creating an Area Coordinator/ Field Worker (AC/FW) program - a simple, nonbureaucratic “finding and gathering” initiative. Our goal is to provide the infrastructure needed to support finding and gathering by instituting a grassroots AC/FW program along with a Fellowship commitment to till the soil within the regions.
 

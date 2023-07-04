@@ -115,7 +115,7 @@ The gospel then was many faceted. In _The Urantia Book_ it was the gospel of Jes
 
 On the other hand, what it is we must portray in our own lives is the same mission as discussed by Jesus and Immanuel prior to the Michael incarnation in which Immanuel states:
 
-> “*Exhibit in your one short life in the flesh, as it has never before been seen in all Nebadon, the transcendent possibilities attainable by a God-knowing human during the short career of mortal existence and make a new and illuminating interpretation of . . . the achievement of God seeking man and finding him and the phenomenon of man seeking God and finding him*” (<a id="a117_371"></a>[UB 120:8](/en/The_Urantia_Book/120#p8)).
+> “*Exhibit in your one short life in the flesh, as it has never before been seen in all Nebadon, the transcendent possibilities attainable by a God-knowing human during the short career of mortal existence and make a new and illuminating interpretation of . . . the achievement of God seeking man and finding him and the phenomenon of man seeking God and finding him*” (<a id="a117_371"></a>[UB 120:2.8](/en/The_Urantia_Book/120#p2_8)).
 
 This concept was later reiterated by Jesus to those who are his followers:
 

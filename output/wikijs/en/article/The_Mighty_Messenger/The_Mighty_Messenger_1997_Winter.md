@@ -39,7 +39,7 @@ by _Josephe DeCosmo_, Boynton Beach, FL
 
 In the opening paragraphs of the Urantia papers, we are told that English was chosen by the Orvonton Revelatory Commission as the language-vehicle for the fifth epochal revelation: “Our mandate admonishes us to make every effort to convey our meanings by using the word symbols of the English tongue” (<a id="a39_302"></a>[UB 0:0.2](/en/The_Urantia_Book/0#p0_2)).
 
-In the paper “Spheres of Light and Life,” it is said: “No evolutionary world can hope to progress beyond the first stage of settledness in light until it has achieved one language, one religion, and one philosophy” (<a id="a41_216"></a>[UB 53:3.15](/en/The_Urantia_Book/53#p3_15)).
+In the paper “Spheres of Light and Life,” it is said: “No evolutionary world can hope to progress beyond the first stage of settledness in light until it has achieved one language, one religion, and one philosophy” (<a id="a41_216"></a>[UB 55:3.22](/en/The_Urantia_Book/55#p3_22)).
 
 Taken together, these two statements strongly suggest that English may well be the “one language” which will unify the world and allow Urantia to progress to and through the ages of light and life. Already English is the international language of commerce and air and sea travel.
 
